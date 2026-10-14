@@ -1,0 +1,919 @@
+Poder Judiciário
+Justiça do Trabalho
+${SVNOMEORGAO}
+PROCESSO Nº TST-EDCiv-RRAg - 351-39.2018.5.08.0019
+A C Ó R D Ã O
+6ª Turma
+GDCEBC/bc
+EMBARGOS DE DECLARAÇÃO EM RECURSO DE REVISTA COM
+AGRAVO DE INSTRUMENTO DA RECLAMADA. LEI Nº
+13.467/2017.
+TEMA DO AGRAVO DE INSTRUMENTO
+PRELIMINAR DE NULIDADE POR NEGATIVA DE PRESTAÇÃO
+JURISDICIONAL.
+OMISSÃO NÃO CONFIGURADA.
+A Sexta Turma do TST, por unanimidade, negou provimento ao
+agravo de instrumento da reclamada.
+A parte aponta omissão no julgado, sob o argumento de que não
+houve análise quanto à natureza dos documentos juntados aos
+autos para fins de controle de jornada.
+O acórdão embargado consignou expressamente que houve
+pronunciamento pelo Regional acerca dos cartões de ponto
+apresentados, consignando que as guias de viagens acostadas
+pela reclamada não têm o condão de controlar a jornada de
+trabalho do empregado, no caso concreto.
+Ressalte-se que a finalidade dos embargos de declaração é sanar
+vício existente na decisão, visando ao aprimoramento do
+julgado. Não se prestam, portanto, para rediscussão das
+questões já devidamente examinadas no acórdão embargado ou
+para impugnar a fundamentação adotada pelo juízo.
+Não constatados os vícios de procedimento previstos nos arts.
+1.022 do CPC e 897-A da CLT, nesse particular.
+Embargos de declaração rejeitados.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Recurso de Revista com Agravo nº TST-EDCiv-RRAg - 351-39.2018.5.08.0019, em que é Embargante
+TRANSCOL TRANSPORTE E TURISMO LTDA e é Embargado(a) ALDO DA SILVA LIMA.
+A Sexta Turma do TST, por unanimidade, negou provimento ao agravo de
+instrumento da reclamada.
+Dessa decisão, a parte opõe embargos de declaração, alega omissão no julgado.
+É o relatório.
+V O T O
+CONHECIMENTO
+Preenchidos os pressupostos de admissibilidade, conheço dos embargos de
+declaração. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+MÉRITO
+PRELIMINAR DE NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+OMISSÃO NÃO CONFIGURADA.
+A Sexta Turma do TST, por unanimidade, negou provimento ao agravo de
+instrumento. Eis as razões de decidir:
+V O T O
+I - AGRAVO DE INSTRUMENTO INTERPOSTO PELA RECLAMADA
+CONHECIMENTO
+Preenchidos os pressupostos de admissibilidade, conheço do agravo de
+instrumento.
+TRANSCENDÊNCIA
+REPOUSO SEMANAL REMUNERADO. CONCESSÃO APÓS O SÉTIMO DIA
+CONSECUTIVO DE TRABALHO.
+O Tribunal Regional, juízo primeiro de admissibilidade do recurso de revista (art.
+682, IX, da CLT), denegou-lhe seguimento, sob os seguintes fundamentos:
+Duração do Trabalho / Repouso Semanal Remunerado e Feriado.
+Alegação(ões):
+- violação do(s) artigos 1º e 9º da Lei nº 605/1945.
+- violação aos artigos 1° e 11, § 4º, do Decreto nº 27.048/49.
+Recorre a reclamada do v. Acórdão que reformou a r. sentença e deu parcial
+provimento ao pedido de pagamento do repouso semanal remunerado.
+Alega violação dos artigos 1° e 9° da Lei nº 605/49 e dos artigos 1° e 11, § 4º, do
+Decreto n. 27.048/49, porque, no que tange ao entendimento de que haveria descanso
+após o sétimo dia de trabalho, tais dispositivos estabelecem que a semana deve ser
+entendida pelo período de segunda-feira a domingo.
+Afirma que "se o empregado sempre gozava suas folgas aos sábados ou
+domingos, decerto que sempre estavam dentro de sete dias de trabalho".
+Transcreve o seguinte trecho do Acórdão recorrido (ID. 056bb9e):
+A Constituição Federal, no art. 7º, XV, elenca dentre os direitos dos trabalhadores
+urbanos e rurais o repouso semanal remunerado, preferencialmente aos domingos.
+Trata-se de medida de saúde e higiene no trabalho, razão pela qual não pode ser
+transacionado, nem mediante acordo coletivo.
+Isso significa dizer, que todo empregado tem direito a um dia de repouso, dentro
+do módulo semanal, que é de sete dias.
+Considerando que os controles de viagens foram julgados inservíveis para o fim de
+controlar a jornada de trabalho, restou evidente que a reclamada não se desincumbiu
+do seu ônus probante.
+Ademais, era obrigação sim da recorrente, guardar os documentos relativos ao
+controle de jornada referente ao autor, conforme previsão do art. 603, da CLT.
+A Orientação Jurisprudencial n. 410 da SDI-1 versa o seguinte acerca do repouso
+semanal remunerado:
+OJ-SDI1-410 REPOUSO SEMANAL REMUNERADO. CONCESSÃO APÓS O SÉTIMO DIA
+CONSECUTIVO DE TRABALHO. ART. 7º, XV, DA CF. VIOLAÇÃO. (DEJT divulgado em 22, 25
+e 26.10.2010)
+Viola o art. 7º, XV, da CF a concessão de repouso semanal remunerado após o
+sétimo dia consecutivo de trabalho, importando no seu pagamento em dobro.
+Logo, restou incontroverso que o descanso só era concedido no 8º (oitavo) dia, não
+sendo observado o disposto no artigo 67 da CLT e na Lei nº 605/49. Deste modo, faz jus
+o autor ao pagamento de dois repousos semanais remunerados por mês, de forma
+dobrada, em razão da concessão de uma folga semanal após o 7º dia de trabalho, e
+reflexos em aviso prévio, 13º salário, férias + 1/3 e FGTS +40%.
+Transcreve, também, o seguinte trecho do Acórdão de Embargos de Declaração:
+Não vislumbro qualquer omissão na Decisão, uma vez que encontra-se
+devidamente fundamentada, estando de acordo com disposições e normas do Direito
+do Trabalho.
+O Acórdão questionado foi expresso quanto ao repouso semanal remunerado,
+dispondo que:
+"A Constituição Federal, no art. 7º, XV, elenca dentre os direitos dos trabalhadores
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+urbanos e rurais o repouso semanal remunerado, preferencialmente aos domingos.
+Trata-se de medida de saúde e higiene no trabalho, razão pela qual não pode ser
+transacionado, nem mediante acordo coletivo.
+Isso significa dizer, que todo empregado tem direito a um dia de repouso, dentro
+do módulo semanal, que é de sete dias.
+(...)
+Logo, restou incontroverso que o descanso só era concedido no 8º (oitavo) dia, não
+sendo observado o disposto no artigo 67 da CLT e na Lei nº 605/49. Deste modo, faz jus
+o autor ao pagamento de dois repousos semanais remunerados por mês, de forma
+dobrada, em razão da concessão de uma folga semanal após o 7º dia de trabalho, e
+reflexos em aviso prévio, 13º salário, férias + 1/3 e FGTS +40%."
+Portanto, fica claro que houve descumprimento das normas trabalhistas quanto a
+jornada semanal do autor, uma vez que tendo a semana 7 dias, deve fazer jus o
+trabalhador a um dia de descanso, sendo preferencialmente aos domingos, podendo
+extraordinariamente laborar no sétimo dia, desde que pagos os valores trabalhados em
+dobro. No entanto, o labor no sétimo dia só pode ocorrer de forma extraordinária, não
+configurando habitualidade.
+No caso, ficou provado que o autor habitualmente laborava sete dias direto duas
+vezes por mês, ou seja, só gozava do repouso semanal remunerado no oitavo dia, o que
+constitui clara violação as normas trabalhistas. No mais, resta evidente o direito do
+mesmo a percepção do valor de dois repousos semanais por mês, inexistindo omissão,
+uma vez que confissão do autor apontada pela reclamada, meramente alega os
+repousos de que usufruía recaiam em sábados ou domingos, porém, não eximem a
+embargante, uma vez que de acordo com as alegações do reclamante, o mesmo
+trabalhava usufruía de dois repousos mensais normalmente, porém os outros dois
+eram trabalhados e só efetivamente usufruídos no oitavo dia.
+Examino.
+O cotejo do trecho transcrito com as argumentações recursais evidencia que o
+recurso pretende o reexame de fatos e provas o que não é possível em sede de recurso
+de revista, nos termos do art. 896 a CLT e Súmula 126 do C. TST, o que impossibilita sua
+admissibilidade inclusive por divergência jurisprudencial, eis que esta, para ser
+analisada, também necessita que tenham sido atendidas as hipóteses de cabimento do
+art. 896 da CLT e os pressupostos dos incs. I a IV do § 1º-A do mesmo dispositivo legal.
+Por conseguinte, nego seguimento.
+Delimitação do acórdão recorrido : "o art. 7º, XV, da CF a concessão de repouso
+semanal remunerado após o sétimo dia consecutivo de trabalho, importando no seu
+pagamento em dobro. Logo, restou incontroverso que o descanso só era concedido no
+8º (oitavo) dia, não sendo observado o disposto no artigo 67 da CLT e na Lei nº 605/49.
+Deste modo, faz jus o autor ao pagamento de dois repousos semanais remunerados
+por mês, de forma dobrada, em razão da concessão de uma folga semanal após o 7º
+dia de trabalho, e reflexos em aviso prévio, 13º salário, férias + 1/3 e FGTS +40%".
+Não há transcendência política, pois não constatado o desrespeito à
+jurisprudência sumulada do Tribunal Superior do Trabalho ou do Supremo Tribunal
+Federal.
+Não há transcendência social, pois não se trata de postulação, em recurso de
+reclamante, de direito social constitucionalmente assegurado.
+Não há transcendência jurídica, pois não se discute questão nova em torno de
+interpretação da legislação trabalhista.
+Não há transcendência econômica quando, a despeito dos valores da causa e da
+condenação, não se constata a relevância do caso concreto, uma vez que a matéria
+probatória não pode ser reexaminada no TST (Súmula n. 126) e, sob o enfoque do
+direito, verifica-se que o acórdão recorrido está em conformidade com a tese firmada
+no julgamento do Tema 265 da Tabela de IRR: "REPOUSO SEMANAL REMUNERADO.
+CONCESSÃO APÓS O SÉTIMO DIA CONSECUTIVO DE TRABALHO. ART.7º, XV, DA
+CONSTITUIÇÃO DA REPÚBLICA DE 1988. VIOLAÇÃO. Viola o art. 7º, XV, da Constituição
+da República de 1988 a concessão de repouso semanal remunerado após o sétimo dia
+consecutivo de trabalho, importando no seu pagamento em dobro".
+Não há outros indicadores de relevância no caso concreto (art. 896-A, § 1º, parte
+final, da CLT). Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+Assim, nego provimento ao agravo de instrumento.
+HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. BENEFÍCIO DA JUSTIÇA GRATUITA.
+SUSPENSÃO DA EXIGIBILIDADE. TESE VINCULANTE DO STF.
+Delimitação do acórdão recorrido : "os honorários sucumbências devidos pelo
+reclamante ao advogado do reclamado, não deverão ser descontados dos créditos
+trabalhistas, ficando o pagamento, sob condição suspensiva de exigibilidade por dois
+anos, a contar do trânsito em julgado da decisão meritória, podendo ser executados
+caso a executada comprove ter o exequente adquirido condições de pagar a parcela,
+com base no 84º do art. 791-A da CLT".
+Não há transcendência política, pois não constatado o desrespeito à
+jurisprudência sumulada do Tribunal Superior do Trabalho ou do Supremo Tribunal
+Federal.
+Não há transcendência social, pois não se trata de postulação, em recurso de
+reclamante, de direito social constitucionalmente assegurado.
+Não há transcendência jurídica, pois não se discute questão nova em torno de
+interpretação da legislação trabalhista.
+Não há transcendência econômica quando, a despeito dos valores da causa e da
+condenação, não se constata a relevância do caso concreto, pois a tese do TRT é no
+mesmo sentido do entendimento desta Corte Superior, não havendo matéria de direito
+a ser uniformizada. Nesse sentido, deve-se destacar que o STF, ao julgar os embargos
+de declaração da ADI nº 5.766, ratificou que foi reconhecida a inconstitucionalidade da
+expressão "desde que não tenha obtido em juízo, ainda que em outro processo,
+créditos capazes de suportar a despesa", constante no § 4º do art. 791-A da CLT.
+Com efeito, na decisão proferida na Rcl. nº 53.350, o Ministro Alexandre de
+Moraes (redator para o acórdão da ADI nº 5.766) esclareceu que " o que esta CORTE
+vedou foi o automático afastamento da condição de hipossuficiência da parte como
+consequência lógica da obtenção de valores em juízo, e não a possibilidade de haver
+condenação em honorários advocatícios (os quais podem ser arbitrados, ficando sob
+condição suspensiva de exigibilidade) ".
+Nesse contexto, a determinação do caso concreto encontra-se consonante à tese
+com eficácia vinculante editada pelo STF, pois houve a condenação da parte no
+pagamento de honorários advocatícios, todavia ficando suspensa a exigibilidade da
+cobrança em virtude da concessão da justiça gratuita.
+Não há outros indicadores de relevância no caso concreto (art. 896-A, § 1º, parte
+final, da CLT).
+Assim, nego provimento ao agravo de instrumento.
+PRELIMINAR DE NULIDADE DO ACÓRDÃO DO TRT POR NEGATIVA DE PRESTAÇÃO
+JURISDICIONAL
+Deve ser reconhecida a transcendência jurídica quando se mostra aconselhável o
+exame mais detido da controvérsia devido às peculiaridades do caso concreto. O
+enfoque exegético da aferição dos indicadores de transcendência em princípio deve ser
+positivo, especialmente nos casos de alguma complexidade, em que se torna
+aconselhável o debate mais aprofundado da matéria.
+CONDIÇÕES DE CUMPRIMENTO DE SENTENÇA. APLICAÇÃO DE MULTA DE 10%
+PELO DESCUMPRIMENTO DE OBRIGAÇÃO DE PAGAR NO PRAZO DE 48 HORAS APÓS O
+TRÂNSITO EM JULGADO.
+Há transcendência política quando se constata em exame preliminar o
+desrespeito da instância recorrida à jurisprudência majoritária, predominante ou
+prevalecente no TST.
+A constatação da transcendência implica somente o reconhecimento da
+relevância da matéria, sem vinculação quanto ao conhecimento e ao mérito do recurso
+de revista.
+MÉRITO
+PRELIMINAR DE NULIDADE DO ACÓRDÃO DO TRT POR NEGATIVA DE PRESTAÇÃO
+JURISDICIONAL
+O Tribunal Regional, juízo primeiro de admissibilidade do recurso de revista (art.
+682, IX, da CLT), denegou-lhe seguimento, sob os seguintes fundamentos:
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / Atos Processuais / Nulidade /
+Negativa de Prestação Jurisdicional. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+Alegação(ões):
+- violação do(s) inciso IX do artigo 93 da Constituição Federal.
+- violação do(s) artigo 489 do Código de Processo Civil de 2015; inciso II do artigo
+1022 do Código de Processo Civil de 2015; artigo 832 da Consolidação das Leis do
+Trabalho; artigo 897-A da Consolidação das Leis do Trabalho.
+A reclamada argui preliminar de nulidade do julgado por negativa de prestação
+jurisdicional.
+Alega que o v. Acórdão foi omisso quanto aos cartões de ponto e ao intervalo
+intrajornada. Aponta violação dos dispositivos epigrafados.
+Transcreve, quanto aos temas, os seguintes trechos dos embargos em que foi
+requerida a manifestação da E Turma:
+Considerou a E. Turma que os cartões de ponto não teriam juntados aos autos,
+mas sim as guias de viagem.
+Ocorre que, conforme explicado em recurso ordinário, os documentos juntados
+são justamente os cartões de ponto de IDs 37c65b2, 43bcd3c, 0fd8b4d e 89b95b2,
+tendo o v. acórdão partido da equivocada premissa de que tais documentos não são
+cartões de ponto.
+Realmente, na empresa embargante existem as guias de viagens, mas estas não
+foram juntadas aos autos, justamente para que se evitasse eventual confusão em
+relação aos cartões de ponto, estes, repita-se, regularmente juntados aos autos.
+Na documentação é, inclusive, possível notar a contagem de horas extras
+realizadas pelo motorista (cujo nome aparece em todos os cartões de ponto, tratando￾se de documento totalmente individual), de forma individualizada, com os horários
+realizados do início ao fim, inclusive com os intervalos intrajornada.
+Os horários de trabalho do embargado encontram-se plenamente anotados nos
+cartões de ponto juntados nos IDs 37c65b2, 43bcd3c, 0fd8b4d e 89b95b2, sendo omisso
+o v. acórdão ao analisar os referidos documentos, que são os cartões de ponto.
+Ao entender equivocadamente que os cartões na estariam nos autos e presumir
+como verdadeira a jornada de trabalho indicada na inicial, o v. acórdão acabou por
+incorrer em negativa de prestação jurisdicional, além de ter afrontado a Súmula 338 do
+C. TST.
+(...)
+Ao manter a condenação, foi declinado que a embargante não se desincumbiu de
+comprovar a jornada declinada na petição inicial e a concessão do intervalo
+intrajornada de 1 hora.
+No entanto, há flagrante omissão, pois o embargado confessou expressamente
+que havia intervalo entre uma viagem e outra. Vejamos a confissão:
+"que o depoente tinha de quinze a vinte minutos entre uma jornada e outra"
+Eis a confissão aceca do qual o v. acórdão foi omisso, ressaltando-se que a decisão
+embargada apenas presumiu a não concessão do intervalo.
+Lembra-se que o intervalo fracionado tem expressa previsão legal, a teor do que
+prevê o art. 71, parágrafo quinto, da CLT, além de ter expressa autorização
+convencional.
+Ao equivocadamente presumir o não gozo do intervalo e também
+equivocadamente entender que os cartões de ponto não teriam sido juntados aos
+autos, a E. Turma deixou de analisar o caso à luz do citado art. 71, bem como da
+previsão convencional, o que evidencia afronta ao próprio art. 71, parágrafo quinto, ao
+art. 611-A, III, CLT, e ao art. 7º, XXVI da CF/88, que devem ser expressamente
+prequestionados.
+Transcreve os seguintes trechos do Acórdão proferido em sede de embargos de
+declaração em relação aos cartões de ponto e intervalo intrajornada:
+Observo que na verdade a embargante está inconformada com o Acórdão
+questionado que decidiu pela manutenção da Sentença do Juízo a quo, não
+reconhecendo os documentos juntados pela reclamada como cartões de ponto,
+portanto, incapazes de comprovar qual a jornada de trabalho de fato do reclamante.
+Entendeu a relatora de forma manter a Sentença sob o fundamento de:
+"Conforme já reiteradamente analisado por esta Desembargadora Relatora em
+processos análogos, entendo que as guias de viagens, como as apresentadas pele
+empresa em documentos de IDs ns. 37C65b2, 43bcd3c, 0fd8b4d, e 89b95b2, não tem o
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+condão de controlar a jornada de trabalho dos motoristas e/ou cobradores das
+empresas de transporte urbano.
+Com efeito, as referidas guias não são preenchidas pelo trabalhador, mas pelo
+fiscal de linha, ou seja, um terceiro. Além disso, nelas ficam consignadas somente os
+horários das viagens realizadas (início e término de cada uma viagem) e não da jornada
+de fato do trabalhador."
+Desta forma, resta evidente que a Decisão encontra-se devidamente
+fundamentada, inexistindo omissão a ser sanada. Observa-se que o objetivo da
+embargante é que se proceda o reexame de mérito do Acórdão, situação
+expressamente vedada em Embargos de Declaração.
+Assim, nego provimento aos embargos.
+(...)
+Foi reconhecida como verdadeira a jornada de trabalho alegada pelo reclamante
+na Petição Inicial, ou seja, quando dirigia ônibus laborava das 04:10 às 14:00 e das 14:20
+às 21:55, e quando dirigia micro-ônibus laborava das 04:10 às 14:00 e das 14:20 às
+22:15, tendo ainda que prestar contas. Sendo reconhecida como verdadeira a jornada
+alegada, observa-se que o autor executava jornada superior a seis horas diárias, tendo
+direito a intervalo intrajornada de no mínimo uma hora diária, o que não foi efetivado.
+No mais, não se pode dizer que o intervalo de quinze a vinte minutos estava de
+acordo com as normas trabalhistas, uma vez que é explicito que ao trabalhador que
+labore diariamente em jornada superior a 6 horas deve ter intervalo de uma a duas
+horas entre as jornadas. Ora, tendo reclamante uma jornada média de 17 horas diárias
+de labor, é inconcebível que dispusesse apenas de 20 minutos de descanso entre uma
+jornada e outra.
+Desta forma, observa-se o completo desrespeito às normas da justiça do trabalho
+na jornada laboral do autor, bem como com a saúde do mesmo, uma vez que tal
+período acarreta um grande estresse físico e emocional, especialmente pelo mesmo
+não ter tempo oportuno ou razoável de descanso entre as jornadas realizas.
+Examino.
+De início, nos termos da Súmula nº 459 do TST, o conhecimento do recurso de
+revista, quanto à preliminar de nulidade por negativa de prestação jurisdicional, supõe
+indicação de violação do art. 832 da CLT, do art. 489 do CPC de 2015 ou do art. 93, IX, da
+CF/1988, portanto, nego seguimento ao recurso quanto à alegação de nulidade por
+violação dos artigos 1.022, II, do CPC e 897-A da CLT.
+Neste aspecto, as matérias submetidas nos embargos de declaração detinham,
+precipuamente, o intuito de questionar os fundamentos da decisão.
+Pela própria natureza das indagações, o que se verifica é o mero inconformismo
+da parte com o Acórdão que lhe foi hostil, e não a existência de omissões relevantes
+capazes de alterar a conclusão do julgado.
+Portanto, a partir da análise das justificativas acima sintetizadas e do conteúdo da
+decisão recorrida, não vislumbro a alegada ausência de prestação jurisdicional.
+Assim, nego seguimento ao recurso quanto à preliminar em questão.
+A fim de demonstrar o prequestionamento da matéria controvertida, a parte
+indicou, nas razões do recurso de revista o seguinte excerto do acórdão do TRT:
+"Conforme já reiteradamente analisado por esta Desembargadora Relatora em
+processos análogos, entendo que as guias de viagens, como as apresentadas pele
+empresa em documentos de IDs ns. 37C65b2, 43bcd3c, Ofdsbdd, e 89b95b2, não tem o
+condão de controlar a jornada de trabalho dos motoristas e/ou cobradores das
+empresas de transporte urbano.
+Com efeito, as referidas guias não são preenchidas pelo trabalhador, mas pelo
+fiscal de linha, ou seja, um terceiro. Além disso, nelas ficam consignadas somente os
+horários das viagens realizadas (início e término de cada uma viagem) e não da jornada
+de fato do trabalhador.
+Assim, entendo que a reclamada não se desincumbiu do encargo de provar a real
+jornada de trabalho do reclamante, nos termos do disposto no 74, $2º, da CLT e
+presumo como verdadeira a jornada declinada na petição inicial, e a não concessão do
+intervalo intrajornada de 1 hora, com exceção dos bicos."
+Transcreve, também as razões de embargos de declaração:
+"Considerou a E. Turma que os cartões de ponto não teriam juntados aos autos, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+mas sim as guias de viagem.
+Ocorre que, conforme explicado em recurso ordinário, os documentos juntados
+são justamente os cartões de ponto de IDs 37c65b2, 43bcd3c, Ofd8b4d e 89b95b2,
+tendo o v. acórdão partido da equivocada premissa de que tais documentos não são
+cartões de ponto.
+Realmente, na empresa embargante existem as guias de viagens, mas estas não
+foram juntadas aos autos, Justamente para que se evitasse eventual confusão em
+relação aos cartões de ponto, estes, repita-se, regularmente juntados aos autos.
+Na documentação é, inclusive, possível notar a contagem de horas extras
+realizadas pelo motorista (cujo nome aparece em todos os cartões de ponto, tratando￾se de documento totalmente individual), de forma individualizada, com os horários
+realizados do início ao fim, inclusive com os intervalos intrajornada.
+Os horários de trabalho do embargado encontram-se plenamente anotados nos
+cartões de ponto juntados nos IDs 37c65b2, 43bcd3c, Ofdsb4d e 89b95b2, sendo omisso
+o v. acórdão ao analisar os referidos documentos, que são os cartões de ponto.
+Ao entender equivocadamente que os cartões na estariam nos autos e presumir
+como verdadeira a jornada de trabalho indicada na inicial, o v. acórdão acabou por
+incorrer em negativa de prestação jurisdicional, além de ter afrontado a Súmula 338 do
+Cc. TST.
+Também transcreve o seguinte trecho da decisão proferida em sede de embargos
+de declaração:
+"Observo que na verdade a embargante está inconformada com o Acórdão
+questionado que decidiu pela manutenção da Sentença do Juízo a quo, não
+reconhecendo os documentos juntados pela reclamada como cartões de ponto,
+portanto, incapazes de comprovar qual a jornada de trabalho de fato do reclamante.
+Entendeu a relatora de forma manter a Sentença sob o fundamento de:
+"Conforme já reiteradamente analisado por esta Desembargadora Relatora em
+processos análogos, entendo que as guias de viagens, como as apresentadas pele
+empresa em documentos de IDs ns. 37C65b2, 43bcd3c, Ofdsb4d, e 89b95b2, não tem o
+condão de controlar a jornada de trabalho dos motoristas e/ou cobradores das
+empresas de transporte urbano.
+Com efeito, as referidas guias não são preenchidas pelo trabalhador, mas pelo
+fiscal de linha, ou seja, um terceiro. Além disso, nelas ficam consignadas somente os
+horários das viagens realizadas (início e término de cada uma viagem) e não da jornada
+de fato do trabalhador."
+Desta forma, resta evidente que a Decisão encontra-se devidamente
+fundamentada, inexistindo omissão a ser sanada. Observa-se que o objetivo da
+embargante é que se proceda o reexame de mérito do Acórdão, situação
+expressamente vedada em Embargos de Declaração.
+Assim, nego provimento aos embargos."
+Nas razões em exame, a parte agravante insurge-se contra o despacho
+denegatório.
+Nas razões do recurso de revista, a parte se insurge contra a decisão do Tribunal
+Regional que, em sua avaliação, incorreu em negativa de prestação jurisdicional ao não
+analisar adequadamente as provas apresentadas, especialmente os cartões de ponto, e
+ao não considerar a confissão do reclamante sobre o gozo do intervalo intrajornada. A
+recorrente argumenta que essas omissões teriam levado a uma decisão equivocada
+sobre as horas extras e o intervalo intrajornada.
+Aponta violação dos arts. 93, IX, da Constituição Federal, 832 da CLT e 489 e 1.022,
+II, do NCPC.
+Ao exame.
+Preenchidos os requisitos do art. 896, § 1º-A, da CLT.
+De início, nos termos da Súmula nº 459 do TST, o conhecimento do recurso de
+revista, quanto à preliminar de nulidade por negativa de prestação jurisdicional, supõe
+indicação de violação do art. 832 da CLT, do art. 489 do CPC de 2015 ou do art. 93, IX, da
+CF/1988, portanto, nego seguimento ao recurso quanto à alegação de nulidade por
+violação dos artigos 1.022, II, do CPC e 897-A da CLT.
+No que diz respeito à alegada omissão na análise dos cartões de ponto, verifica-se
+que a Corte Regional, ao analisar a questão, adotou a seguinte fundamentação: Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+"(...) entendo que as guias de viagens, como as apresentadas pela empresa em
+documentos de IDs ns. 37C65b2, 43bcd3c, 0fd8b4d, e 89b95b2, não tem o condão de
+controlar a jornada de trabalho dos motoristas e/ou cobradores das empresas de
+transporte urbano. Com efeito, as referidas guias não são preenchidas pelo
+trabalhador, mas pelo fiscal de linha, ou seja, um terceiro. Além disso, nelas ficam
+consignadas somente os horários das viagens realizadas (início e término de cada uma
+viagem) e não da jornada de fato do trabalhador."
+Portanto, não se verifica a alegada ausência de prestação jurisdicional, mas sim o
+inconformismo da parte com a decisão que lhe foi desfavorável, no particular.
+Já no que tange à confissão do reclamante quanto à fruição do intervalo
+intrajornada, registra-se que é inviável o exame da alegação de nulidade por negativa
+de prestação jurisdicional quanto ao ponto, pois o que se extraí da leitura dos
+embargos de declaração da reclamada é que a questão não foi suscitada pela parte
+naquela oportunidade.
+Diante do exposto, conclui-se que não houve negativa de prestação jurisdicional.
+Assim, nego provimento ao agravo de instrumento.
+HORAS EXTRAORDINÁRIAS. CONTROVÉRSIA ACERCA DA JUNTADA OU NÃO DE
+CARTÕES DE PONTO. MATÉRIA FÁTICA
+O Tribunal Regional, juízo primeiro de admissibilidade do recurso de revista (art.
+682, IX, da CLT), denegou-lhe seguimento, sob os seguintes fundamentos:
+Duração do Trabalho / Horas Extras.
+Alegação(ões):
+- contrariedade à(as) : item III da Súmula nº 338 do Tribunal Superior do Trabalho.
+- violação do(a) artigo 818 da Consolidação das Leis do Trabalho.
+Recorre a reclamada do v. Acórdão que manteve a r. sentença, que deferiu o
+pedido de horas extras.
+Alega contrariedade à Súmula nº 338, III, do C. TST e violação do artigo 818 da CLT
+porque o v. Acórdão considerou que os cartões não foram juntados aos autos, bem
+como presumiu verdadeira a jornada de trabalho indicada na inicial. Acrescenta que os
+cartões de ponto são válidos e seria ônus do autor provar suas alegações.
+Afirma que "a recorrente realizou a juntada dos controles de ponto do recorrido,
+conforme documentos de id 37c65b2, 43bcd3c, 0fd8b4d e 89b95b2, tendo o v. acórdão
+partido da equivocada premissa de que tais documentos não são cartões de ponto".
+Sustenta que apenas se o v. Acórdão tivesse consignado que o autor provou a
+existência de diferenças de horas extras poderia o pedido ser deferido.
+Transcreve o seguinte trecho do Acórdão recorrido (ID. 056bb9e):
+Conforme já reiteradamente analisado por esta Desembargadora Relatora em
+processos análogos, entendo que as guias de viagens, como as apresentadas pele
+empresa em documentos de IDs ns. 37C65b2, 43bcd3c, 0fd8b4d, e 89b95b2, não tem o
+condão de controlar a jornada de trabalho dos motoristas e/ou cobradores das
+empresas de transporte urbano.
+Com efeito, as referidas guias não são preenchidas pelo trabalhador, mas pelo
+fiscal de linha, ou seja, um terceiro. Além disso, nelas ficam consignadas somente os
+horários das viagens realizadas (início e término de cada uma viagem) e não da jornada
+de fato do trabalhador.
+Ademais, o próprio preposto e sócio proprietário da reclamada, em depoimento
+de ID nº b9aae17 - Pág. 2 e 3, confirmou que as guias de viagens registram os horários
+das viagens cumpridas pelo motorista e cobrador, e os cartões de ponto registram os
+horários de trabalho de cada um, pelo que, entende a existência do controle de jornada
+e o controle de viagens, sendo que aquele, o controle de jornada, não foi juntado aos
+autos, haja vista, que as guias de viagens são assinaladas pelo fiscal e não pelo
+trabalhador, o que lhes retira a validade.
+Assim, entendo que a reclamada não se desincumbiu do encargo de provar a real
+jornada de trabalho do reclamante, nos termos do disposto no 74, § 2º, da CLT e
+presumo como verdadeira a jornada declinada na petição inicial, e a não concessão do
+intervalo intrajornada de 1hora, com exceção dos bicos.
+Transcreve, também, o seguinte trecho do Acórdão de Embargos de Declaração:
+Com efeito, as referidas guias não são preenchidas pelo trabalhador, mas pelo
+fiscal de linha, ou seja, um terceiro. Além disso, nelas ficam consignadas somente os
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+horários das viagens realizadas (início e término de cada uma viagem) e não da jornada
+de fato do trabalhador."
+Desta forma, resta evidente que a Decisão encontra-se devidamente
+fundamentada, inexistindo omissão a ser sanada. Observa-se que o objetivo da
+embargante é que se proceda o reexame de mérito do Acórdão, situação
+expressamente vedada em Embargos de Declaração.
+Examino.
+O cotejo do trecho transcrito com as argumentações recursais evidencia que o
+recurso pretende o reexame de fatos e provas o que não é possível em sede de recurso
+de revista, nos termos do art. 896 a CLT e Súmula 126 do C. TST.
+Portanto, nego seguimento.
+A fim de demonstrar o prequestionamento da matéria controvertida, a parte
+indicou, nas razões do recurso de revista o seguinte excerto do acórdão do TRT:
+Conforme já reiteradamente analisado por esta Desembargadora Relatora em
+processos análogos, entendo que as guias de viagens, como as apresentadas pele
+empresa em documentos de IDs ns. 37C65b2, 43bcd3c, Ofd8b4d, e 89b95b2, não tem o
+condão de controlar a jornada de trabalho dos motoristas e/ou cobradores das
+empresas de transporte urbano.
+Com efeito, as referidas guias não são preenchidas pelo trabalhador, mas pelo
+fiscal de linha, ou seja, um terceiro. Além disso, nelas ficam consignadas somente os
+horários das viagens realizadas (início e término de cada uma viagem) e não da jornada
+de fato do trabalhador.
+Ademais, o próprio preposto e sócio proprietário da reclamada, em depoimento
+de ID nº b9aae 1" - Pág. 2 e 3, confirmou que as guias de viagens registram os horários
+das viagens cumpridas pelo motorista e cobrador, e os cartões de ponto registram os
+horários de trabalho de cada um, pelo que, entende a existência do controle de jornada
+e o controle de viagens, sendo que aquele, o controle de jornada, não foi juntado aos
+autos, haja vista, que as guias de viagens são assinaladas pelo fiscal e não pelo
+trabalhador, o que lhes retira a validade.
+Assim, entendo que a reclamada não se desincumbiu do encargo de provar a real
+jornada de trabalho do reclamante, nos termos do disposto no 74, § 2º, da CLT e
+presumo como verdadeira a jornada declinada na petição inicial, e a não concessão do
+intervalo intrajornada de 1 hora, com exceção dos bicos.
+Nas razões em exame, a parte agravante insurge-se contra o despacho
+denegatório.
+Nas razões do recurso de revista, a parte recorrente defende que o Tribunal
+Regional, ao manter a condenação em horas extras, violou a Súmula nº 338, III, do TST e
+o artigo 818 da CLT. A empresa argumenta que os cartões de ponto foram devidamente
+juntados e que, ao não reconhecê-los, o Tribunal inverteu indevidamente o ônus da
+prova, presumindo como verdadeira a jornada indicada na inicial.
+Aponta violação dos artigos 818 da CLT; contrariedade à Súmula nº 338, III, do TST.
+Ao exame.
+Preenchidos os requisitos do art. 896, § 1º-A, da CLT.
+A Corte regional, soberana na análise do conjunto fático-probatório, concluiu que
+os cartões de ponto não foram juntados aos autos pela reclamada.
+Nesses aspectos, para se chegar à conclusão diversa da exposta pelo Tribunal
+Regional, acolhendo-se a tese da reclamada de que teria de fato juntado os cartões de
+ponto aos autos, seria necessário reexame de fatos e provas, o que é vedado nesta
+instância extraordinária, nos termos da Súmula n° 126 desta Corte.
+A Sexta Turma evoluiu para o entendimento de que fica prejudicada a análise da
+transcendência na hipótese de incidência da Súmula nº 126 do TST.
+Assim, nego provimento ao agravo de instrumento.
+INTERVALO INTRAJORNADA. FRACIONAMENTO. INOBSERVÂNCIA DO ART. 896, § 1º￾A, DA CLT.
+O Tribunal Regional, juízo primeiro de admissibilidade do recurso de revista (art.
+682, IX, da CLT), denegou-lhe seguimento, sob os seguintes fundamentos:
+Duração do Trabalho / Intervalo Intrajornada.
+Alegação(ões):
+- violação do(s) inciso XXVI do artigo 7º da Constituição Federal. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+- violação do(s) § 5º do artigo 71 da Consolidação das Leis do Trabalho; § 2º do
+artigo 74 da Consolidação das Leis do Trabalho; artigo 818 da Consolidação das Leis do
+Trabalho.
+Recorre a reclamada do v. Acórdão que manteve a r. sentença, que deferiu o
+pedido de pagamento de horas intrajornada.
+Aponta violação dos dispositivos acima mencionados. Alega que a reclamada
+concedia intervalo ao recorrido, pois sempre se utilizou da faculdade convencional e
+legal da concessão fracionada.
+Afirma que os cartões de ponto demonstram intervalo intrajornada variáveis e,
+ainda, eventualmente o gozo de intervalo intrajornada reduzido em momentos que o
+trânsito estava intenso, porém, quando isso ocorria, o intervalo era pago em
+contracheque, o que foi inclusive objeto de compensação no demonstrativo de cálculo.
+Afirma que "não há razão para que o pleito do autor seja acolhido, devendo ser
+reformado o v. acórdão, considerando que o intervalo fracionado tem previsão legal,
+art. 71, parágrafo quinto, da CLT, e Convencional".
+Transcreve o seguinte trecho do Acórdão recorrido (ID. 056bb9e):
+Assim, entendo que a reclamada não se desincumbiu do encargo de provar a real
+jornada de trabalho do reclamante, nos termos do disposto no 74, § 2º, da CLT e
+presumo como verdadeira a jornada declinada na petição inicial, e a não concessão do
+intervalo intrajornada de 1 hora, com exceção dos bicos.
+Transcreve, também, o seguinte trecho do Acórdão dos Embargos de Declaração:
+Foi reconhecida como verdadeira a jornada de trabalho alegada pelo reclamante
+na Petição Inicial, ou seja, quando dirigia ônibus laborava das 04:10 às 14:00 e das 14:20
+às 21:55, e quando dirigia micro-ônibus laborava das 04:10 às 14:00 e das 14:20 às
+22:15, tendo ainda que prestar contas. Sendo reconhecida como verdadeira a jornada
+alegada, observa-se que o autor executava jornada superior a seis horas diárias, tendo
+direito a intervalo intrajornada de no mínimo uma hora diária, o que não foi efetivado.
+No mais, não se pode dizer que o intervalo de quinze a vinte minutos estava de
+acordo com as normas trabalhistas, uma vez que é explicito que ao trabalhador que
+labore diariamente em jornada superior a 6 horas deve ter intervalo de uma a duas
+horas entre as jornadas. Ora, tendo reclamante uma jornada média de 17 horas diárias
+de labor, é inconcebível que dispusesse apenas de 20 minutos de descanso entre uma
+jornada e outra.
+Desta forma, observa-se o completo desrespeito às normas da justiça do trabalho
+na jornada laboral do autor, bem como com a saúde do mesmo, uma vez que tal
+período acarreta um grande estresse físico e emocional, especialmente pelo mesmo
+não ter tempo oportuno ou razoável de descanso entre as jornadas realizas.
+Examino.
+O cotejo do trecho transcrito com as argumentações recursais evidencia que o
+recurso pretende o reexame de fatos e provas o que não é possível em sede de recurso
+de revista, nos termos do art. 896 a CLT e Súmula 126 do C. TST.
+Por essa razão, nego seguimento.
+A fim de demonstrar o prequestionamento da matéria controvertida, a parte
+indicou, nas razões do recurso de revista o seguinte excerto do acórdão do TRT:
+"Assim, entendo que a reclamada não se desincumbiu do encargo de provar a real
+jornada de trabalho do reclamante, nos termos do disposto no 74, § 2º, da CLT e
+presumo como verdadeira a jornada declinada na petição inicial, e a não concessão do
+intervalo intrajornada de 1 hora, com exceção dos bicos."
+Também transcreve o seguinte trecho da decisão proferida em sede de embargos
+de declaração:
+"Foi reconhecida como verdadeira a jornada de trabalho alegada pelo reclamante
+na Petição Inicial, ou seja, quando dirigia ônibus laborava das 04:10 às 14:00 e das 14:20
+às 21:55, e quando dirigia micro-ônibus laborava das 04:10 às 14:00 e das 14:20 às
+22:15, tendo ainda que prestar contas. Sendo reconhecida como verdadeira a jornada
+alegada, observa-se que o autor executava jornada superior a seis horas diárias, tendo
+direito a intervalo intrajornada de no mínimo uma hora diária, o que não foi efetivado.
+No mais, não se pode dizer que o intervalo de quinze a vinte minutos estava de
+acordo com as normas trabalhistas, uma vez que é explicito que ao trabalhador que
+labore diariamente em jornada superior a 6 horas deve ter intervalo de uma a duas
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+horas entre as jornadas. Ora, tendo reclamante uma jornada média de 17 horas diárias
+de labor, é inconcebível que dispusesse apenas de 20 minutos de descanso entre uma
+jornada e outra.
+Desta forma, observa-se o completo desrespeito às normas da justiça do trabalho
+na jornada laboral do autor, bem como com a saúde do mesmo, uma vez que tal
+período acarreta um grande estresse físico e emocional, especialmente pelo mesmo
+não ter tempo oportuno ou razoável de descanso entre as jornadas realizas."
+Nas razões em exame, a parte agravante insurge-se contra o despacho
+denegatório.
+Nas razões do recurso de revista, a parte alega que o Tribunal Regional, ao
+condenar a empresa ao pagamento de horas extras, não considerou a possibilidade
+legal e convencional de fracionamento do intervalo intrajornada, conforme previsto no
+artigo 71, § 5º, da CLT e na Convenção Coletiva de Trabalho. Além disso, a recorrente
+argumenta que a decisão foi omissa ao não analisar a confissão do reclamante sobre o
+gozo do intervalo fracionado.
+Aponta violação do artigo 71, § 5º, da CLT.
+Ao exame.
+Do modo como foram expostas as razões recursais, a parte impugna fundamento
+que não consta nos trechos do acórdão transcritos no recurso de revista, qual seja: a
+possibilidade de fracionamento do intervalo intrajornada.
+Isso porque os trechos da decisão recorrida indicados pela parte não demonstram
+que o TRT tenha emitido tese a respeito da controvérsia levantada pela reclamada.
+Extrai-se dos trechos transcritos que a Corte Regional apenas registrou que a
+reclamada não comprovou a real jornada desempenhada pelo reclamante, conforme
+exige o art. 74, § 2º, da CLT, presumindo-se, portanto, a não concessão do intervalo de
+uma hora, matéria diversa da que a reclamada recorre no recurso de revista.
+Se não foi demonstrado o prequestionamento nos trechos transcritos (art. 896, §
+1º-A, I, da CLT), não há materialmente como a parte fazer o confronto analítico, entre os
+fundamentos da decisão recorrida e suas alegações recursais (art. 896, §§ 1º-A, III, da
+CLT), razão pela qual ficou inviável a análise da fundamentação jurídica invocada.
+Assim, não estão atendidas as exigências previstas no art. 896, § 1º-A, I e III, da
+CLT.
+A Sexta Turma evoluiu para o entendimento de que, uma vez não atendidas as
+exigências da Lei nº 13.015/2014, fica prejudicada a análise da transcendência.
+Assim, nego provimento ao agravo de instrumento.
+CONDIÇÕES DE CUMPRIMENTO DE SENTENÇA. APLICAÇÃO DE MULTA DE 10% DE
+PELO DESCUMPRIMENTO DE OBRIGAÇÃO DE PAGAR NO PRAZO DE 48 HORAS APÓS O
+TRÂNSITO EM JULGADO.
+O Tribunal Regional, juízo primeiro de admissibilidade do recurso de revista (art.
+682, IX, da CLT), denegou-lhe seguimento, sob os seguintes fundamentos:
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / Liquidação / Cumprimento /
+Execução.
+Alegação(ões):
+- violação do(s) inciso LIV do artigo 5º da Constituição Federal.
+- violação do(s) alínea "d" do artigo 652 da Consolidação das Leis do Trabalho;
+artigos 769 e 835 da Consolidação das Leis do Trabalho; artigo 880 da Consolidação das
+Leis do Trabalho; § 1º do artigo 882 da Consolidação das Leis do Trabalho.
+Recorre a reclamada do v. Acórdão que manteve a r. sentença, que estabeleceu
+condições para cumprimento da decisão.
+Alega que "não há qualquer base legal para a fixação da multa diária imposta por
+eventual descumprimento de obrigação de pagar, tendo sido dada equivocada
+interpretação ao art. 832, § 1°, da CLT, que restou afrontado, assim como em relação ao
+art. 652, "d"".
+Afirma que o v. Acórdão viola o artigo 880 da CLT, posto que a única cominação
+legalmente autorizada, no processo do trabalho, ao devedor que não cumpre a
+obrigação de pagar no prazo de 48 horas, é a penhora de bens. Aponta violação dos
+demais dispositivos mencionados.
+Transcreve o seguinte trecho do Acórdão recorrido (ID. 056bb9e):
+Trata-se de aplicação de multa por descumprimento estabelecida em consonância
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+com o artigo 832, § 1º, da CLT, o qual dispõe que quando a decisão concluir pela
+procedência do pedido determinará o prazo e as condições de seu cumprimento. Na
+verdade, é uma norma que traduz uma diretriz a ser observada pelo Magistrado, não se
+tratando de mera faculdade, pois o verbo utilizado não deixa dúvidas, a saber: "a
+decisão determinará o prazo e as condições de seu cumprimento".
+Assim, não há que se falar em ofensa legal, porque se trata de previsão de multa
+coercitiva para forçar o adimplemento de uma decisão já transitada em julgado, cuja
+aplicação encontra previsão legal no corpo da própria CLT.
+A Consolidação prevê, em diversos artigos, a possibilidade do Magistrado
+estabelecer as condições para o cumprimento da decisão, nas quais certamente se
+inclui as consequências advindas do seu descumprimento, como, in casu, a aplicação de
+multa de 10%.
+É o caso, por exemplo, do artigo 864, § 2º, o qual prevê expressamente o
+pagamento de multa pecuniária em caso de descumprimento de acordo. Ora, se é lícito
+convencionar multa pelo descumprimento de acordo, com muito mais razão pode-se
+estipulá-la a uma decisão judicial transitada em julgado.
+Na verdade há regra específica aplicável ao caso, porque existe expressa previsão
+legal estabelecendo a competência dos Juízes Trabalhistas para fixarem multas e
+demais penalidades relativas aos atos de sua competência, conforme se extrai do
+artigo 652, "d", da CLT. E, por derradeiro, a CLT reforça, em seu artigo 835, que o
+cumprimento do acordo ou da decisão far-se-á no prazo e nas condições nele
+estabelecidas.
+Ademais, esse entendimento encontra-se sumulado por esta e. Corte, in verbis:
+Súmula nº 31 - "CONDIÇÕES PARA CUMPRIMENTO DA SENTENÇA. Compete ao Juiz
+do Trabalho estabelecer prazo e condições para cumprimento da sentença, inclusive
+fixação de multas e demais penalidades (Artigos 652, d; 832, § 1º, e 835, todos da CLT)".
+(Aprovada por meio da Resolução Nº 41/2015, em sessão do dia 6 de julho de 2015)
+Portanto, a aplicação da multa de 10% em caso de descumprimento da sentença
+em até 48 horas após o trânsito em julgado atende aos ditames da razoabilidade e da
+proporcionalidade, tendo como a finalidade alcançar a Justiça no caso concreto.
+Nego provimento.
+Examino.
+Em que pese o entendimento adotado pela E. Turma, o qual, inclusive, coaduna-se
+com a súmula 31 deste Regional, considero viável o seguimento do presente recurso,
+eis que vislumbro potencial violação do artigo 880 da CLT, tendo em vista que o
+referido dispositivo legal determina a expedição de mandado de citação do executado,
+a fim de que cumpra a decisão ou o acordo no prazo, pelo modo e sob as cominações
+estabelecidas ou, quando se tratar de pagamento em dinheiro, inclusive de
+contribuições sociais devidas à União, para que o faça em 48 (quarenta e oito) horas ou
+garanta a execução, sob pena de penhora.
+Eis o teor de recente julgado extraído do sítio do C. TST:
+RECURSO DE REVISTA. CUMPRIMENTO DA DECISÃO. ART. 832, § 1º, DA CLT. MULTA.
+EXECUÇÃO TRABALHISTA. CONSEQUÊNCIA JURÍDICA. PENHORA. O Tribunal Regional
+manteve a condenação da Reclamada ao pagamento do valor líquido da condenação no
+prazo de 48 horas, sob a cominação de multa de 10% no caso de descumprimento da
+obrigação, com fundamento no art. 832, § 1º, da CLT. O art. 880 da CLT determina o
+prazo para pagamento, em 48 horas, ou garantia da execução, sob pena de penhora.
+Nesse ver, o art. 832, § 1º, da CLT deve ser interpretado em conjunto com as demais
+normas estabelecidas pela própria CLT. Ressalte-se, por oportuno, que esta Corte vem
+rechaçando a aplicação do art. 475-J, do CPC, no processo do trabalho. Recurso de
+revista conhecido e provido.
+( RR - 1794-28.2013.5.08.0107, Relator Ministro: Mauricio Godinho Delgado, Data
+de Julgamento: 14/10/2015, 3ª Turma, Data de Publicação: DEJT 16/10/2015)
+Portanto, dou seguimento ao recurso de revista no tópico.
+A fim de demonstrar o prequestionamento da matéria controvertida, a parte
+indicou, nas razões do recurso de revista o seguinte excerto do acórdão do TRT:
+Trata-se de aplicação de multa por descumprimento estabelecida em consonância
+com o artigo 832, § 1º, da CLT, o qual dispõe que quando a decisão concluir pela
+procedência do pedido determinará o prazo e as condições de seu cumprimento. Na
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+verdade, é uma norma que traduz uma diretriz a ser observada pelo Magistrado, não se
+tratando de mera faculdade, pois o verbo utilizado não deixa dúvidas, a saber: "a
+decisão determinará o prazo e as condições de seu cumprimento".
+Assim, não há que se falar em ofensa legal, porque se trata de previsão de multa
+coercitiva para forçar o adimplemento de uma decisão já transitada em julgado, cuja
+aplicação encontra previsão legal no corpo da própria CLT.
+A Consolidação prevê, em diversos artigos, a possibilidade do Magistrado
+estabelecer as condições para o cumprimento da decisão, nas quais certamente se
+inclui as consequências advindas do seu descumprimento, como, in casu, a aplicação de
+multa de 10%.
+É o caso, por exemplo, do artigo 864, $2º, o qual prevê expressamente o
+pagamento de multa pecuniária em caso de descumprimento de acordo. Ora, se é lícito
+convencionar multa pelo descumprimento de acordo, com muito mais razão pode-se
+estipulá-la a uma decisão judicial transitada em julgado.
+Na verdade há regra específica aplicável ao caso, porque existe expressa previsão
+legal estabelecendo a competência dos Juízes Trabalhistas para fixarem multas e
+demais penalidades relativas aos atos de sua competência, conforme se extrai do
+artigo 652, "d", da CLT. E, por derradeiro, a CLT reforça, em seu artigo 835, que o
+cumprimento do acordo ou da decisão far-se-á no prazo e nas condições nele
+estabelecidas.
+Ademais, esse entendimento encontra-se sumulado por esta e. Corte, in verbis:
+Súmula nº 31 - "CONDIÇÕES PARA CUMPRIMENTO DA SENTENÇA. Compete ao Juiz
+do Trabalho estabelecer prazo e condições para cumprimento da sentença, inclusive
+fixação de multas e demais penalidades (Artigos 652, d; 832, $ 1º, e 835, todos da CLT)".
+(Aprovada por meio da Resolução Nº 41/2015, em sessão do dia 6 de julho de 2015)
+Portanto, a aplicação da muita de 10% em caso de descumprimento da sentença
+em até 48 horas após o trânsito em julgado atende aos ditames da razoabilidade e da
+proporcionalidade, tendo como a finalidade alcançar a Justiça no caso concreto.
+Nego provimento.
+Nas razões em exame, a parte agravante insurge-se contra o despacho
+denegatório.
+Nas razões do recurso de revista, a parte recorrente alega que o Tribunal
+Regional, ao manter a aplicação de multa por descumprimento da sentença, violou os
+artigos 880 e 832, § 1º, da CLT, e o artigo 5º, LIV, da CF/88.
+Argumenta que a lei não autoriza a cominação de penalidades além da penhora
+em caso de não pagamento no prazo legal, e que a interpretação dada aos artigos 832,
+§ 1º, e 652, "d", da CLT, foi equivocada.
+Aponta violação dos artigos 5°, LIV, da Constituição Federal e 652, "d", 880 e 832, §
+1°, da CLT.
+Ao exame.
+Preenchidos os requisitos do art. 896, § 1º-A, da CLT.
+No caso, o TRT manteve a decisão em que se determinou o cumprimento da
+sentença no prazo de 48 horas após o trânsito em julgado, sob pena de multa de 10%
+sobre o valor da condenação.
+Acerca da questão, dispõe o art. 880 da CLT que o não cumprimento do prazo de
+48 horas para pagamento da condenação ou garantia da execução implica na penhora
+de bens suficientes para adimplemento débito reconhecido judicialmente.
+Nesse passo, a imputação de multa diária, em casos de não cumprimento da
+sentença, implica em procedimento alheio ao art. 880 da CLT.
+A jurisprudência nesta Corte Superior vem adotando o entendimento de que, no
+caso de obrigação de pagar, o art. 832, § 1º, da CLT deve ser aplicado em sintonia com o
+art. 880 da CLT, segundo o qual " Requerida a execução, o juiz ou presidente do tribunal
+mandará expedir mandado de citação do executado, a fim de que cumpra a decisão ou
+o acordo no prazo, pelo modo e sob as cominações estabelecidas ou, quando se tratar
+de pagamento em dinheiro, inclusive de contribuições sociais devidas à União, para que
+o faça em 48 (quarenta e oito) horas ou garanta a execução, sob pena de penhora".
+Nesse sentido, os seguintes julgados:
+I - AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. LEI Nº 13.467/2017
+TRANSCENDÊNCIA [¿] II - RECURSO DE REVISTA. LEI Nº 13.467/2017 TRANSCENDÊNCIA [¿]
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+CONDIÇÕES DE CUMPRIMENTO DE SENTENÇA. DISPENSA DE CITAÇÃO. CONTAGEM DO
+PRAZO APÓS TRÂNSITO EM JULGADO 1 - Há transcendência política quando se constata
+em exame preliminar o desrespeito da instância recorrida à jurisprudência majoritária,
+predominante ou prevalecente no TST. 2 - O art. 880 da CLT prevê a contagem do prazo
+de 48 horas, após cumprido o mandado de citação do executado, para pagamento do
+crédito trabalhista ou garantia da execução. 3 - Ante a previsão legal expressa e
+específica acerca do modo de execução trabalhista, com necessidade de expedição do
+mandado de citação, não há amparo para aplicação de normas de caráter genérico. 4 -
+Nesse contexto, é condição de validade da execução a regular citação do devedor, nos
+termos do art. 880 da CLT. 5 - Assim, a determinação de contagem automática do prazo
+de 48 horas após o trânsito em julgado da decisão judicial, dispensada a citação do
+executado, viola o art. 880 da CLT. 6 - Recurso de revista conhecido e provido. (ARR￾10608-58.2015.5.08.0107, 6ª Turma, Relatora Ministra Katia Magalhaes Arruda, DEJT
+06/03/2020).
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA [¿] RECURSO DE REVISTA
+CONDIÇÕES PARA O CUMPRIMENTO DE SENTENÇA. ART. 832, § 1º, DA CLT. MULTA.
+INAPLICABILIDADE 1. A jurisprudência desta Corte tem entendimento pacífico de que a
+legislação trabalhista tem regramento próprio para o cumprimento de sentença. Assim,
+disciplina que o art. 832, § 1º, deve ser interpretado de forma sistemática com arts. 880,
+882 e 883, todos da CLT. Precedentes. 2. Na hipótese, o Tribunal Regional manteve a
+sentença que determinou o pagamento das verbas deferidas, pelo prazo de quarenta e
+oito horas, após o trânsito em julgado, independente da citação da parte, sob pena de
+multa de 15%, decidindo em contrariedade ao entendimento firmado por esta Corte.
+Recurso de revista de que se conhece e a que se dá provimento . (RRAg-486-
+75.2019.5.08.0129, 3ª Turma, Relator Ministro Alberto Bastos Balazeiro, DEJT
+22/11/2024).
+A) AGRAVO DE INSTRUMENTO DA 2ª RECLAMADA - RESPONSABILIDADE
+SUBSIDIÁRIA [¿] B) RECURSO DE REVISTA DA 2ª RECLAMADA - EXECUÇÃO IMEDIATA -
+DISPENSA DA CITAÇÃO DO EXECUTADO E MULTA POR DESCUMPRIMENTO DA
+SENTENÇA - IMPOSSIBILIDADE - TRANSCENDÊNCIA POLÍTICA - VIOLAÇÃO DO ART. 880
+DA CLT - PROVIMENTO. 1. Há transcendência política quando se constata o desrespeito
+da Corte a quo à jurisprudência sumulada do STF e TST, bem como àquela pacificada
+nesta Corte Superior. 2. Quanto à matéria em debate no recurso, o art. 880 da CLT
+prevê procedimento específico a ser adotado para os processos em fase de execução
+nos casos em que a condenação se refira a pagamento em dinheiro, qual seja, a citação
+do devedor para pagar a quantia certa, em 48 horas, ou garantir a execução,
+estipulando, no caso de descumprimento, a pena de penhora. 3 . Ainda, na esteira da
+jurisprudência pacífica do TST, a decisão que determina a imediata satisfação do débito
+apurado na fase de conhecimento, independentemente da prévia citação da parte para
+pagar ou garantir à execução, sob pena de multa, contraria a regra prevista no art . 880
+da CLT, dispositivo legal específico quanto ao procedimento a ser adotado na execução
+trabalhista. 4. In casu, o TRT, ao manter a fixação de multa no caso de o devedor não
+cumprir a obrigação de pagar no prazo de 15 dias depois do trânsito em julgado,
+independentemente de intimação ou citação, respaldado nos genéricos arts. 652, "d" ("
+Compete às Varas do Trabalho: [...] d- impor multas e demais penalidades relativas aos
+atos de sua competência "), 832, § 1º (" Quando a decisão concluir pela procedência do
+pedido, determinará o prazo e as condições para o seu cumprimento ") e 835 (" O
+cumprimento do acordo ou da decisão far-se-á no prazo e condições estabelecidas ") da
+CLT - previstos na Súmula 31 daquele Regional, base de fundamentação do acórdão
+recorrido -, violou diretamente o art. 880 da CLT. 5. Logo, reconhecida a transcendência
+política da questão, por desrespeito à jurisprudência pacífica desta Corte Superior, a
+revista da 2ª Reclamada merece conhecimento e provimento, por violação de
+dispositivo de lei, para rechaçar a aplicação de multa de 10% em caso de
+descumprimento da obrigação constante do título executivo judicial, fixada pelas
+Instâncias Ordinárias, determinando, ainda, que a Parte Reclamada seja regularmente
+citada para início dos atos executórios, nos exatos termos do art . 880 da CLT. Recurso
+de revista provido. (RRAg-244-71.2017.5.08.0005, 4ª Turma, Relator Ministro Ives
+Gandra Martins Filho, DEJT 28/08/2020).
+I - AGRAVO DE INSTRUMENTO INTERPOSTO PELA VALE S.A. EM RECURSO DE
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+REVISTA INTERPOSTO ANTES DA VIGÊNCIA DA LEI Nº 13.015/2014. [¿] MULTA POR
+DESCUMPRIMENTO DA CONDENAÇÃO NO PRAZO DE 48 (QUARENTA E OITO) HORAS
+APÓS O TRÂNSITO EM JULGADO DA DECISÃO. NECESSIDADE DE CITAÇÃO PARA O
+CUMPRIMENTO DA SENTENÇA ESTABELECIDA NO ARTIGO 880 DA CLT. Nos termos do
+artigo 880, caput, da CLT, em vista do trânsito em julgado da sentença, será o
+executado previamente citado para o cumprimento da obrigação ou garantia da sua
+execução, no prazo de 48 (quarenta e oito) horas. Diante da existência de regras
+específicas acerca da execução da sentença no Processo do Trabalho, estas devem ser
+imperiosamente observadas. Logo, inobservada a previsão estabelecida em lei quanto
+à exigência de prévia citação do executado, que poderá, inclusive, optar pela garantia
+do juízo, não há como prevalecer determinação de imediata imposição de multa
+pecuniária pelo não adimplemento da obrigação imposta em sentença, após o prazo de
+48 (quarenta e oito) horas do seu trânsito em julgado. Precedentes desta Corte. Recurso
+de revista conhecido e provido. (RR-2263-24.2011.5.08.0114, 5ª Turma, Relator
+Desembargador Convocado Joao Pedro Silvestrin, DEJT 20/03/2020).
+Nesse contexto, o TRT, ao manter a sentença que determinou o pagamento de
+multa pelo descumprimento da sentença, incorreu em violação do artigo 880 da CLT.
+Assim, dou provimento ao agravo de instrumento, para determinar o
+processamento do recurso de revista, por provável violação do art. .
+II - RECURSO DE REVISTA INTERPOSTO PELA RECLAMADA
+CONHECIMENTO
+CONDIÇÕES DE CUMPRIMENTO DE SENTENÇA. APLICAÇÃO DE MULTA 10% DE
+PELO DESCUMPRIMENTO DE OBRIGAÇÃO DE PAGAR NO PRAZO DE 48 HORAS APÓS O
+TRÂNSITO EM JULGADO.
+No conhecimento do recurso de revista quanto ao tema em análise, aplica-se a
+mesma fundamentação exposta no mérito do agravo de instrumento provido quanto
+ao tópico.
+Pelo exposto, conheço do recurso de revista, por violação do artigo 880 da CLT.
+MÉRITO
+CONDIÇÕES DE CUMPRIMENTO DE SENTENÇA. APLICAÇÃO DE MULTA 10% DE
+PELO DESCUMPRIMENTO DE OBRIGAÇÃO DE PAGAR NO PRAZO DE 48 HORAS APÓS O
+TRÂNSITO EM JULGADO.
+Como consequência do conhecimento do recurso de revista, por violação do art.
+880 da CLT, dou-lhe provimento para excluir da condenação a imposição de multa por
+descumprimento do prazo para satisfazer a condenação.
+ISTO POSTO
+ACORDAM os Ministros da Sexta Turma do Tribunal Superior do Trabalho, por
+unanimidade:
+I - não reconhecer a transcendência quanto às matérias "REPOUSO SEMANAL
+REMUNERADO. CONCESSÃO APÓS O SÉTIMO DIA CONSECUTIVO DE TRABALHO." E
+"HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. BENEFÍCIO DA JUSTIÇA GRATUITA.
+SUSPENSÃO DA EXIGIBILIDADE. TESE VINCULANTE DO STF." e, como consequência,
+negar provimento ao agravo de instrumento, no particular;
+II - negar provimento ao agravo de instrumento quanto aos temas "HORAS
+EXTRAORDINÁRIAS. CONTROVÉRSIA ACERCA DA JUNTADA OU NÃO DE CARTÕES DE
+PONTO. MATÉRIA FÁTICA.' e "INTERVALO INTRAJORNADA. FRACIONAMENTO.
+INOBSERVÂNCIA DO ART. 896, § 1º-A, DA CLT." Prejudicada a análise da transcendência;
+III - reconhecer a transcendência quanto aos temas "PRELIMINAR DE NULIDADE
+DO ACÓRDÃO DO TRT POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL." e "CONDIÇÕES
+DE CUMPRIMENTO DE SENTENÇA. APLICAÇÃO DE MULTA DE 10% PELO
+DESCUMPRIMENTO DE OBRIGAÇÃO DE PAGAR NO PRAZO DE 48 HORAS APÓS O
+TRÂNSITO EM JULGADO";
+IV - negar provimento ao agravo de instrumento quanto ao tema "PRELIMINAR DE
+NULIDADE DO ACÓRDÃO DO TRT POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL" nos
+termos da fundamentação;
+V - dar provimento ao agravo de instrumento para determinar o processamento
+do recurso de revista quanto ao tema "CONDIÇÕES DE CUMPRIMENTO DE SENTENÇA.
+APLICAÇÃO DE MULTA DE 10% PELO DESCUMPRIMENTO DE OBRIGAÇÃO DE PAGAR NO
+PRAZO DE 48 HORAS APÓS O TRÂNSITO EM JULGADO"; Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
+VI - conhecer do recurso de revista quanto ao tema "CONDIÇÕES DE
+CUMPRIMENTO DE SENTENÇA. APLICAÇÃO DE MULTA DE 10% PELO DESCUMPRIMENTO
+DE OBRIGAÇÃO DE PAGAR NO PRAZO DE 48 HORAS APÓS O TRÂNSITO EM JULGADO",
+por violação do art. 880 da CLT, e, no mérito, dar-lhe provimento para excluir da
+condenação a imposição de multa por descumprimento do prazo para satisfazer a
+condenação.
+A parte aponta omissão no julgado, sob o argumento de que “deixou de analisar e
+se manifestar sobre questão central suscitada como negativa de prestação jurisdicional, qual seja: a premissa
+equivocada adotada pelo acórdão regional quanto à natureza dos documentos juntados aos autos.”
+Alega que “não analisou se a premissa adotada pelo Tribunal Regional é ou não
+equivocada. Não verificou se os documentos juntados são realmente cartões de ponto ou meras guias de
+viagem (...); os documentos juntados sob os IDs 37c65b2, 43bcd3c, 0fd8b4d e 89b95b2 são ou não os cartões
+de ponto que a empresa juntou aos autos? Esta é uma questão de constatação processual, não de reexame de
+prova.”
+À análise.
+Conforme se depreende do acórdão embargado, houve manifestação expressa
+acerca das questões relevantes ao julgamento do recurso de revista, senão vejamos:
+“No que diz respeito à alegada omissão na análise dos cartões de ponto, verifica-se
+que a Corte Regional, ao analisar a questão, adotou a seguinte fundamentação: “(...) entendo que as guias de
+viagens, como as apresentadas pela empresa em documentos de IDs ns. 37C65b2, 43bcd3c, 0fd8b4d, e
+89b95b2, não tem o condão de controlar a jornada de trabalho dos motoristas e / ou cobradores das
+empresas de transporte urbano. Com efeito, as referidas guias não são preenchidas pelo trabalhador, mas
+pelo fiscal de linha, ou seja, um terceiro. Além disso, nelas ficam consignadas somente os horários das
+viagens realizadas (início e término de cada uma viagem) e não da jornada de fato do trabalhador.”
+Assim, não há qualquer omissão, no aspecto.
+Ressalte-se que a finalidade dos embargos de declaração é sanar vício existente
+na decisão, visando ao aprimoramento do julgado. Não se prestam, portanto, para rediscussão das
+questões já devidamente examinadas no acórdão embargado ou para impugnar a fundamentação
+adotada pelo juízo.
+Desse modo, é nítida a intenção da parte embargante de rediscutir matéria
+devidamente analisada e decidida no acórdão embargado. Porém, tal pretensão não se harmoniza com
+a finalidade dos embargos de declaração, que têm suas hipóteses de cabimento previstas no art. 1.022
+do CPC e 897-A da CLT, ou para fim de prequestionamento, nos termos da Súmula nº 297, II, do TST.
+Nesse contexto, os argumentos da parte embargante dizem respeito a suposto
+erro de julgamento, e não de procedimento. Sucede que o acerto ou desacerto da decisão embargada
+não pode ser discutido mediante embargos de declaração.
+Por conseguinte, não constatada nenhuma das hipóteses previstas na lei de
+cabimento, rejeito os embargos de declaração.
+ISTO POSTO
+ACORDAM os Ministros da Sexta Turma do Tribunal Superior do Trabalho, por
+unanimidade, rejeitar os embargos de declaração.
+Brasília, 9 de outubro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+ELEONORA BORDINI COCA
+Desembargadora Convocada Relatora
+Firmado por assinatura digital em 15/10/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EA85C4EE843.
