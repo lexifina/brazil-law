@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ESTADO DE MINAS GERAIS, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (fl. 304):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - PENSÃO POR MORTE - FILHA INVÁLIDA - DIREITO RECONHECIDO - PARCELAS PRETÉRITAS - PAGAMENTO RETROATIVO - POSSIBILIDADE - PRESCRIÇÃO - INOCORRÊNCIA.
+- Reconhecimento do direito de filha inválida ao recebimento de pensão por morte de sua genitora, que era servidora pública estadual, por decisão judicial transitada em julgado.
+- Consoante jurisprudência e doutrina o direito ao recebimento da pensão por morte tem como termo inicial a data do óbito do servidor, podendo o benefício ser requerido a qualquer tempo, observada a prescrição quinquenal.
+- Não corre prazo prescricional contra os que, por enfermidade ou deficiência mental, forem absolutamente incapazes de exercer pessoalmente os atos da vida civil.
+APELAÇÃO CÍVEL Nº 1.0000.23.270156-5/001 - COMARCA DE BELO HORIZONTE - APELANTE(S): VALERIA MENDES FERNANDES - APELADO(A)(S): ESTADO DE MINAS GERAIS
+Opostos embargos declaratórios, foram estes rejeitados em aresto assim sumariado (fl. 362):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - VÍCIO INEXISTENTE - REDISCUSSÃO DA MATÉRIA - VIA ELEITA INADEQUADA - VEDAÇÃO LEGAL.
+- Os questionamentos do embargante têm fundamento no seu inconformismo e, não, com eventual vício na decisão embargada.
+- A pretensão do embargante é valer-se desta via recursal com a evidente intenção de rediscussão da matéria, o que é vedado por lei.
+- Evidenciada a não ocorrência dos vícios apontados na decisão embargada, imperiosa a rejeição dos embargos de declaração.
+EMBARGOS DE DECLARAÇÃO-CV Nº 1.0000.23.270156-5/003 - COMARCA DE BELO HORIZONTE - EMBARGANTE(S): ESTADO DE MINAS GERAIS - EMBARGADO(A)(S): VALERIA MENDES FERNANDES
+Em seu recurso especial de fls. 374-382, a parte agravante alega vulneração aos artigos 198 do Código Civil c/c o artigo 1º do Decreto n. 20.193/1932 e divergência da jurisprudência do STJ, Resp n. 1.595.136/SP (2014/0346410-9), pois defende que ainda que reconhecida a incapacidade da parte autora, não se pode afastar a prescrição, uma vez que, a partir da sentença de curatela, ela passou a ser regularmente representada por curador.
+Alega a ocorrência de negativa de prestação jurisdicional quanto à tese de que, embora a autora seja incapaz, não se afasta a prescrição, uma vez que a sentença que reconheceu sua incapacidade foi proferida em 20/07/2009, enquanto a ação foi ajuizada em 23/06/2014.
+Afirma que o prazo prescricional teve início com a sentença de curatela, proferida em 20/07/2009.
+Aponta, como paradigma, o REsp n. 1.595.136/SP, no qual se teria firmado o entendimento de que, tratando-se de absolutamente incapaz, o prazo prescricional de três anos para o ajuizamento da ação de cobrança se inicia com o trânsito em julgado da sentença de curatela.
+Pleiteia, por fim, a atribuição de efeito suspensivo ao recurso, ao argumento de estarem presentes os requisitos da probabilidade do direito e do risco de lesão grave ou de difícil reparação.
+O Tribunal de origem, às fls. 395-397, não admitiu o recurso especial e indeferiu o pedido de efeito suspensivo sob os seguintes fundamentos:
+(..)
+Ainda, conforme entendimento do Superior Tribunal de Justiça, "não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (AgInt no AREsp nº 2.155.659/MG, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 19/12/2024).
+Por outro lado, a Turma Julgadora dirimiu a controvérsia ao entendimento de que, "por ser pessoa absolutamente incapaz a prescrição restou afastada pela mesma decisão judicial já transitada em julgado, não cabendo mais qualquer discussão nesse sentido." (Acórdão da Apelação Cível, documento eletrônico de ordem 50, pág. 7)
+Assim, a conclusão da Turma Julgadora, no sentido de que a prescrição foi afastada em decisão judicial transitada em julgado, não foi eficazmente rebatida nas razões recursais.
+Para a ascensão do recurso, não é suficiente a contraposição da parte ao entendimento exposto pelo Colegiado. É preciso apresentar, nas razões recursais, sólida argumentação, com fundamentos jurídicos que demonstrem a plausibilidade da alegação de ofensa à legislação e a necessidade de submissão da questão ao Tribunal de destino.
+Desse modo, aplica-se o Enunciado nº 283 da Súmula do Supremo Tribunal Federal.
+Por fim, quanto à alínea "c", o recurso também é inviável, pois a parte recorrente não demonstrou de forma analítica o alegado dissídio, deixando de transcrever e confrontar os trechos semelhantes entre os acórdãos recorrido e paradigma. O simples uso de ementa não é suficiente para configurar o dissenso. Essa circunstância atrai a aplicação do óbice do Enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+Sobre o pleiteado efeito suspensivo, o pedido não pode ser acolhido, pois, além de estar deficientemente fundamentado, fica evidente, ante a decisão proferida, a falta de requisito essencial para o atendimento do pedido, qual seja a probabilidade de provimento do recurso, conforme previsto no art. 995, parágrafo único, do CPC, o que impõe seja afastada a pretensão.
+Em seu agravo, às fls. 400-408, a parte agravante sustenta a ausência de manifestação adequada acerca dos embargos de declaração, bem como a existência de omissão quanto à alegação do Estado de que não estaria afastada a prescrição, ainda que parcial, em razão da incapacidade da parte agravada.
+Aduz, ainda, que a decisão recorrida carece de fundamentação adequada e que a identidade exigida entre o acórdão recorrido e o paradigma, para fins de demonstração do dissídio jurisprudencial, diz respeito à apreciação da mesma questão jurídica, e não à existência de fatos idênticos analisados isoladamente.
+Defende, por fim, que, embora reconhecida a incapacidade da parte autora, a prescrição não pode ser afastada, pois, a partir da sentença de curatela, passou a ser regularmente representada por curador, de modo que o prazo prescricional deveria ser contado a partir de 20/07/2009.
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte recorrente não contestou especificamente os argumentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou seguimento ao apelo raro, ora agravada, assentou-se em dois fundamentos distintos: (i) incidência do enunciad o 283 da Súmula do STF, por analogia, dada a ausência de impugnação específica de fundamentos autônomos e suficientes à manutenção do acórdão recorrido; e (ii) ausência de demonstração da divergência jurisprudencial nos termos exigidos pelo art. 1.029, §1º, do Código de Processo Civil, tampouco realização de cotejo analítico entre o acórdão paradigma e o julgado recorrido.
+Todavia, em seu agravo, a parte não refutou adequadamente aludidos fundamentos, os quais, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no cenário jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante viola o princípio da dialeticidade recursal e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. BASE DE CÁLCULO DO ISSQN. ART. 7º DA LC N. 116 DO 2003. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AUSÊNCIA. SÚMULA 280 DO STF. SILÊNCIO DO AGRAVANTE NO ARESP. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA 283 DO STF. INCIDÊNCIA.
+1. Segundo a jurisprudência do STJ, o agravante tem o ônus de impugnar, específica e adequadamente, todos os fundamentos autônomos adotados na decisão de inadmissibilidade proferida pelo Tribunal de origem, sob pena de não conhecimento do agravo em recurso especial, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.855.136/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/4/2026, DJEN de 27/4/2026.)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, §11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
