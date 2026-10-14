@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual PENAL. Agravo regimental NO AGRAVO EM RECURSO ESPECIAL. Impugnação específica. Súmula 182/STJ. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 182 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo regimental atende ao requisito de impugnação específica dos fundamentos da decisão agravada, conforme exigido pela Súmula 182 do STJ.
+III. Razões de decidir
+3. A defesa não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+4. A aplicação da Súmula 182 do STJ é inafastável, uma vez que a agravante descumpriu o ônus da dialeticidade ao não impugnar adequadamente todos os fundamentos da decisão agravada.
+IV. Dispositivo e tese
+5. Agravo regimental improvido.
+Tese de julgamento: "Para afastar a incidência da Súmula 182 do STJ, é necessário que a impugnação seja específica e suficientemente demonstrada."
+Dispositivos relevantes citados: CPC/2015, art. 932; CPP, arts. 621, I, e 622, parágrafo único.
+Jurisprudência relevante citada: STJ, EAREsp n. 746.775/PR, Min. Rel. João Otávio de Noronha, relator p/ Acórdão Ministro Luís Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MAÍSA IZABEL MENEZES SANTOS (e-STJ, fls. 2478/2484), contra a decisão monocrática proferida por este Relator (e-STJ, fls. 2487/2491), que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica e suficiente dos fundamentos de inadmissibilidade, notadamente quanto à incidência das Súmulas 7/STJ, 283/STF, 284/STF e à deficiência na demonstração do dissídio jurisprudencial.
+Preliminarmente, a Defesa pleiteia o exercício do juízo de retratação para afastar a Súmula 182/STJ e determinar o conhecimento do agravo em recurso especial, com posterior submissão do agravo regimental à Quinta Turma, nos termos do art. 258, § 3º, do RISTJ (fls. 2501, 2514).
+No mérito, sustenta ter enfrentado especificamente os óbices apontados: afirma que não pretende reexame de provas, mas revaloração jurídica dos fatos fixados pelo acórdão, no tocante à exigência de estabilidade e permanência para o crime do art. 35 da Lei 11.343/2006, e que realizou cotejo concreto entre a moldura fática e o elemento normativo (fls. 2502-2504); alega que a incidência da Súmula 283/STF teria confundido capítulos distintos, pois o especial atacou o núcleo condenatório e, no pedido subsidiário, impugnou o regime semiaberto (fls. 2512-2513); quanto à Súmula 284/STF, indica o art. 33, § 2º, c, do Código Penal e formula pedido expresso de regime aberto, com primariedade e pena mínima (fls. 2512-2513); defende, ainda, que eventual deficiência do dissídio pela alínea c não contamina a alegação autônoma de violação ao art. 35 pela alínea a (fls. 2513).
+Em matéria penal, requer o provimento para reconhecer a impugnação específica dos óbices e determinar o exame do recurso especial pela alínea a quanto ao art. 35, com restabelecimento da absolvição nos termos do art. 386, VII, do Código de Processo Penal (fls. 2513-2514). Subsidiariamente, mantida a condenação, postula a fixação do regime inicial aberto com base no art. 33, § 2º, c, e § 3º, do Código Penal e na Súmula 440/STJ (fls. 2513-2514).
+É o relatório.
+EMENTA
+Direito processual PENAL. Agravo regimental NO AGRAVO EM RECURSO ESPECIAL. Impugnação específica. Súmula 182/STJ. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 182 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo regimental atende ao requisito de impugnação específica dos fundamentos da decisão agravada, conforme exigido pela Súmula 182 do STJ.
+III. Razões de decidir
+3. A defesa não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+4. A aplicação da Súmula 182 do STJ é inafastável, uma vez que a agravante descumpriu o ônus da dialeticidade ao não impugnar adequadamente todos os fundamentos da decisão agravada.
+IV. Dispositivo e tese
+5. Agravo regimental improvido.
+Tese de julgamento: "Para afastar a incidência da Súmula 182 do STJ, é necessário que a impugnação seja específica e suficientemente demonstrada."
+Dispositivos relevantes citados: CPC/2015, art. 932; CPP, arts. 621, I, e 622, parágrafo único.
+Jurisprudência relevante citada: STJ, EAREsp n. 746.775/PR, Min. Rel. João Otávio de Noronha, relator p/ Acórdão Ministro Luís Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.
+VOTO
+A pretensão não merece êxito, na medida em que a defesa não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+Conforme constante da decisão agravada, o recurso especial foi inadmitido pelos seguintes óbices: deficiência de fundamentação quanto ao regime prisional, por mera menção a dispositivo sem indicação de violação (Súmula 284/STF) (fls. 2350/2351); ausência de ataque a todos os fundamentos autônomos do acórdão (Súmula 283/STF) (fls. 2351); incidência da Súmula 7/STJ (necessidade de reexame de provas) (fls. 2351/2352); e ausência de demonstração do dissídio jurisprudencial nos termos do art. 1.029, § 1º, do CPC e art. 255, § 1º, do RISTJ (falta de cotejo analítico e prova em repositório) (fls. 2352/2353).
+Entretanto, a defesa deixou de impugnar adequadamente os referidos fundamentos.
+Essa omissão é importante porque a Corte Especial do STJ manteve o entendimento da necessidade de impugnação adequada de todos os fundamentos da decisão agravada, sob pena de todos incidência da Súmula 182/STJ.
+Eis a ementa do precedente:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos".
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luís Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+1) Súmula 7/STJ
+A decisão de inadmissibilidade (fls. 2351/2352) invocou a necessidade de reexame do acervo fático-probatório para infirmar as conclusões do acórdão recorrido (fls. 2218/2231), atraindo a Súmula 7/STJ. O agravo de Maísa sustenta que não pretende reexaminar provas, mas apenas a revaloração jurídica dos fatos já fixados, no tocante à exigência de estabilidade e permanência para o tipo do art. 35 da Lei 11.343/2006 (fls. 2411/2412). Nesse ponto, o agravo afirma aceitar a moldura fática: apreensão de anotações, identificação do "ferro-velho" como ponto de comércio de drogas e depoimentos policiais (fls. 2411), e que a controvérsia seria estritamente jurídica.
+A exigência para afastar o óbice da Súmula 7/STJ, entretanto, demanda cotejo concreto entre os fatos delineados no acórdão recorrido e a tese jurídica, demonstrando que o julgamento do direito não altera a moldura fática. O agravo de Maísa, embora mencione os elementos fáticos de forma genérica, não enfrenta, com a precisão necessária, o quadro específico traçado no voto (fls. 2224/2227), que registra "nítida divisão de tarefas", "traficância em larga escala", "compra e venda de insumos", "movimentação financeira" e "estabilidade entre todos os réus", além da participação de Maísa no "ferro-velho" e menção a anotações (fls. 2224/2227). Não há cotejo analítico que demonstre cabalmente que, mesmo aceitando essas premissas fáticas, a subsunção ao art. 35 seria indevida sem revolvimento probatório. O agravo, assim, apresenta uma formulação abstrata de "revaloração jurídica", sem vincular, ponto a ponto, cada fato fixado e sua irrelevância para o requisito de estabilidade e permanência. Nesse sentido, a impugnação não supera, com suficiência, o óbice da Súmula 7/STJ.
+Nesse sentido:
+" ..
+1. Nas razões do agravo em recurso especial, não foram rebatidos, de modo específico e concreto, os fundamentos da decisão agravada relativos à aplicação das Súmulas n. 7 e 83, ambas do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula n. 7/STJ, a Agravante limitou-se a sustentar, genericamente, que as pretensões elencadas no apelo nobre envolvem mero debate jurídico, não demandando, assim, reexame de provas, sem explicitar, contudo, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.789.363/SP, relator Ministra Laurita Vaz, Sexta Turma, julgado em 2/2/2021, DJe de 17/2/2021.)
+" ..
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas ou à insistência no mérito da controvérsia.
+ ..
+11. Agravo regimental não conhecido".
+(AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020.)
+2) Súmula 283/STF
+A decisão (fls. 2351) apontou ausência de ataque a todos os fundamentos do acórdão, especificamente no item em que o aresto assentou razões para o regime semiaberto e a negativa de substituição da pena (fls. 2229). O agravo de Maísa limita-se a afirmar que o recurso especial impugnou o "cerne" da condenação pelo art. 35 e que não haveria outro fundamento autônomo a sustentar a condenação (fls. 2410/2411). Contudo, no acórdão recorrido, além da conclusão pela associação estável, houve: (a) dosimetria fixando a pena mínima para Maísa (3 anos, 700 dias- multa) e (b) fixação do regime semiaberto por gravidade concreta, com negativa de substituição (fls. 2229). O agravo não enfrenta, de modo específico, esses pontos autônomos, tampouco demonstra como foram impugnados nas razões do especial (fls. 2249/2250), em linha com a exigência de infirmar todos os fundamentos suficientes. Logo, a súmula 283/STF não foi adequadamente afastada.
+3) Súmula 284/STF - deficiência na indicação de dispositivos violados (alínea "a") e dissociação
+A decisão de inadmissibilidade consignou que, quanto ao regime penitenciário, houve mera menção a dispositivo infraconstitucional (fls. 2249), sem indicação expressa de violação (fls. 2350/2351), atraindo a Súmula 284/STF. O agravo de Maísa não enfrenta esse ponto específico; centra-se na violação ao art. 35 da Lei 11.343/2006, sustentando que o especial indicou a norma federal violada (fls. 2409), mas não rebate a deficiência apontada quanto ao regime e à negativa de substituição. Além disso, a exigência de indicação precisa dos dispositivos supostamente violados, com demonstração da contrariedade, não é contemplada pelo agravo com referência concreta às razões do especial nesse tópico. Por conseguinte, não se verifica superação da Súmula 284/STF na dimensão apontada pela decisão.
+4) Dissídio jurisprudencial - art. 1.029, § 1º, CPC; art. 255, § 1º, RISTJ; Súmula 284/STF (deficiência do dissídio)
+A decisão (fls. 2352/2353) ponderou não ter havido prova do dissídio nos moldes legais e regimentais, faltando cotejo analítico e indicação do repositório oficial. O agravo afirma, genericamente, que o especial realizou "cotejo analítico minucioso" e demonstrou similitude fática (fls. 2412/2413), mas não aponta, no próprio agravo, quais julgados paradigmas foram utilizados, quais dispositivos legais têm interpretação controvertida, nem realiza o cotejo concreto entre o acórdão recorrido (fls. 2218/2231) e os precedentes paradigmas, nos termos do art. 255 do RISTJ. Tampouco há notícia, no agravo, de cumprimento da exigência de prova da divergência por certidão, cópia autêntica ou citação de repositório oficial. Assim, a impugnação não atende, com suficiência, às exigências legais e regimentais, mantendo-se, no ponto, a fundamentação de inadmissibilidade.
+Por conseguinte, a Súmula 182/STJ impede que se passe ao mérito do agravo em recurso especial, o qual não supera o juízo de admissibilidade.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
