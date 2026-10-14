@@ -1,0 +1,1179 @@
+P
+o
+d
+e
+r
+J
+u
+diciá
+rio
+J
+u
+s
+tiç
+a
+d
+o
+T
+r
+a
+b
+alh
+o
+$
+{
+S
+V
+N
+O
+M
+E
+O
+R
+G
+A
+O
+}
+P
+R
+O
+C
+E
+S
+S
+O
+N
+º
+T
+S
+T
+-
+E
+D
+Civ
+-
+A
+g
+-
+R
+R
+A
+g
+-
+1
+0
+0
+1
+5
+1
+-
+7
+1.2
+0
+2
+1.5.0
+1.0
+2
+6
+4
+A
+C
+Ó
+R
+D
+Ã
+O
+6
+ª
+T
+u
+r
+m
+a
+G
+D
+C
+E
+B
+C
+/
+y
+p
+s
+E
+M
+B
+A
+R
+G
+O
+S
+D
+E
+D
+E
+C
+L
+A
+R
+A
+Ç
+Ã
+O
+.
+R
+E
+C
+L
+A
+M
+A
+N
+T
+E
+.
+A
+G
+R
+AV
+O
+.
+R
+E
+C
+U
+R
+S
+O
+D
+E
+R
+E
+VIS
+T
+A
+C
+O
+M
+A
+G
+R
+AV
+O
+D
+E IN
+S
+T
+R
+U
+M
+E
+N
+T
+O
+.
+L
+EI N
+º
+1
+3
+.
+4
+6
+7
+/
+2
+0
+1
+7
+.
+A
+L
+E
+G
+A
+D
+A
+C
+O
+N
+T
+R
+A
+DIÇ
+Ã
+O
+E
+N
+T
+R
+E
+O
+P
+R
+O
+VIM
+E
+N
+T
+O
+D
+O
+A
+G
+R
+AV
+O
+D
+E IN
+S
+T
+R
+U
+M
+E
+N
+T
+O
+Q
+U
+A
+N
+T
+O
+A
+O
+S
+H
+O
+N
+O
+R
+Á
+RIO
+S
+A
+D
+V
+O
+C
+A
+T
+Í
+CIO
+S
+S
+U
+C
+U
+M
+B
+E
+N
+CIAIS
+,
+N
+A
+D
+E
+CIS
+Ã
+O
+M
+O
+N
+O
+C
+R
+Á
+TIC
+A
+,
+E
+O
+N
+Ã
+O
+C
+O
+N
+H
+E
+CIM
+E
+N
+T
+O
+D
+O
+A
+G
+R
+AV
+O IN
+T
+E
+R
+N
+O
+P
+E
+L
+O
+C
+O
+L
+E
+GIA
+D
+O
+Q
+U
+A
+N
+T
+O
+A
+O
+T
+E
+M
+A
+.
+R
+E
+C
+U
+R
+S
+O
+S
+DIS
+TIN
+T
+O
+S
+.
+A
+G
+R
+AV
+O IN
+T
+E
+R
+N
+O
+Q
+U
+E
+N
+Ã
+O IMPUGNOU ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO MONOCRÁTICA. CONTRADIÇÃO INEXISTENTE. A Sexta Turma do TST, por unanimidade, não conheceu do agravo. O reclamante opõe embargos de declaração sob a alegação de contradição no julgado. De início, cumpre distinguir os recursos apreciados em cada pronunciamento. Na decisão monocrática, negou-se provimento ao agravo de instrumento quanto às matérias referentes à nulidade da dispensa e à estabilidade provisória de diretor de cooperativa; negou-se seguimento ao recurso de revista quanto à prescrição relativa aos anuênios; e deu-se provimento ao recurso de revista para conceder ao reclamante os benefícios da justiça gratuita. Quanto aos honorários advocatícios sucumbenciais, deu-se provimento ao agravo de instrumento para processar o recurso de revista, que foi conhecido e parcialmente provido para manter a condenação do reclamante ao pagamento dos honorários, sob condição suspensiva de exigibilidade. Contra essa decisão, o reclamante interpôs agravo. A Sexta Turma não conheceu desse recurso porque suas razões se limitaram a alegações genéricas sobre a transcendência, sem identificar os temas que pretendia devolver ao Colegiado ou impugnar especificamente os fundamentos da decisão monocrática. Nos embargos de declaração, o reclamante sustenta haver contradição entre o provimento do agravo de instrumento, determinado na decisão monocrática quanto aos honorários, e o não conhecimento do agravo, proclamado no acórdão embargado. Pretende a reforma do julgado para que seja afastada a condenação ao pagamento dos honorários advocatícios sucumbenciais. Não há contradição: os pronunciamentos dizem respeito a recursos distintos e a etapas sucessivas do processo. O não
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+conhecimento do agravo interno não altera o provimento
+anteriormente conferido ao agravo de instrumento nem o
+julgamento do recurso de revista quanto aos honorários.
+Assim, inexiste a alegada contradição, revelando os embargos
+mero inconformismo da parte com a conclusão adotada na
+decisão monocrática, contra a quela não se insurgiu
+adequadamente no momento oportuno, finalidade para a qual
+não se prestam os embargos de declaração (arts. 897-A da CLT e
+1.022 do CPC).
+Não constatados os vícios de procedimento previstos nos arts.
+1.022 do CPC e 897-A da CLT, nesse particular.
+Embargos de declaração rejeitados.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo em Recurso de Revista com Agravo nº TST-EDCiv-Ag-RRAg - 100151-71.2021.5.01.0264, em que
+é Embargante FABIO CARVALHAES DE FARIAS e é Embargado(a) ITAÚ UNIBANCO S.A..
+A Sexta Turma do TST, por unanimidade, não conheceu do agravo.
+Dessa decisão, a parte opõe embargos de declaração, alega omissão no julgado.
+É o relatório.
+V O T O
+CONHECIMENTO
+Preenchidos os pressupostos de admissibilidade, conheço dos embargos de
+declaração.
+MÉRITO
+ALEGADA CONTRADIÇÃO ENTRE O PROVIMENTO DO AGRAVO DE
+INSTRUMENTO QUANTO AOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, NA DECISÃO
+MONOCRÁTICA, E O NÃO CONHECIMENTO DO AGRAVO INTERNO PELO COLEGIADO QUANTO AO
+TEMA.
+RECURSOS DISTINTOS. AGRAVO INTERNO QUE NÃO IMPUGNOU
+ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO MONOCRÁTICA. CONTRADIÇÃO INEXISTENTE.
+A Sexta Turma do TST, por unanimidade, não conheceu do agravo. Eis as razões
+de decidir:
+V O T O
+CONHECIMENTO
+FALTA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO ADOTADA NA DECISÃO
+MONOCRÁTICA. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE RECURSAL. ART.
+1.021, § 1º, DO CPC E SÚMULA Nº 422, I, DO TST. NÃO CONHECIMENTO DO AGRAVO.
+Na decisão monocrática foram assentados os seguintes fundamentos:
+I - AGRAVO DE INSTRUMENTO
+CONHECIMENTO
+Preenchidos os pressupostos de admissibilidade, conheço do agravo de
+instrumento.
+TRANSCENDÊNCIA
+NULIDADE DA DISPENSA.
+O Tribunal Regional, juízo primeiro de admissibilidade do recurso de revista (art.
+682, IX, da CLT), denegou-lhe seguimento, sob os seguintes fundamentos:
+RESCISÃO DO CONTRATO DE TRABALHO / DESPEDIDA/DISPENSA IMOTIVADA /
+NULIDADE.
+RESCISÃO DO CONTRATO DE TRABALHO / REINTEGRAÇÃO /READMISSÃO OU
+INDENIZAÇÃO.
+Alegação(ões): Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+- violação do(s) artigo 5º, caput; artigo 7º, inciso I, da Constituição Federal.
+- violação d(a,o)(s) Código de Defesa do Consumidor, artigo 30; Código Civil, artigo
+107; artigo 121; artigo 130; Consolidação das Leis do Trabalho, artigo 468; Lei nº
+9029/1995, artigo 1º; artigo 4º.
+- divergência jurisprudencial.
+- ofensa Decreto nº47.428/2020 e Decreto Legislativo 56/2021, Decreto nº
+47.565/2021 e Decreto nº 47.870/2021 do Estado do Rio de Janeiro.
+A respeito do tema, assim vem se manifestando a C. Corte:
+"RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PEDIDO DE REINTEGRAÇÃO
+- DEFERIMENTO DA TUTELA PROVISÓRIA DE URGÊNCIA - EMPREGADO DISPENSADO NO
+CURSO DA PANDEMIA DO COVID-19 - ADESÃO DO EMPREGADOR AO MOVIMENTO "NÃO
+DEMITA" - AUSÊNCIA DE ESTABILIDADE PROVISÓRIA - ILEGALIDADE DA DECISÃO
+IMPUGNADA. A jurisprudência da SBDI-2 desta Corte firmou entendimento de que a
+adesão do empregador ao movimento "#NÃODEMITA", firmado entre as empresas
+como forma de preservar empregos e evitar a demissões durante a pandemia do
+COVID-19, não se insere como nova hipótese de garantia de emprego, constituindo-se
+como mero propósito sem caráter obrigatório. Assim, a determinação de reintegração
+ao emprego fere direito líquido e certo do banco impetrante, o qual possui o direito
+potestativo de dispensar. Recurso ordinário conhecido imotivadamente seus
+empregados e provido" (ROT- 102887-78.2021.5.01.0000, Subseção II Especializada em
+Dissídios Individuais, Relatora Ministra Liana Chaib, DEJT 31/03/2023). (g.n.)
+"RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO INQUINADO QUE
+INDEFERIU TUTELA PROVISÓRIA CONSISTENTE NA REINTEGRAÇÃO DO TRABALHADOR
+DISPENSADO DURANTE A CRISE SANITÁRIA DECORRENTE DA PANDEMIA DE COVID-19. 1.
+Trata-se de recurso ordinário interposto contra acórdão proferido pelo Tribunal
+Regional do Trabalho da 1ª Região que concedeu a segurança, por entender
+configurado o direito líquido e certo do impetrante a ser tutelado. 2. No presente
+"mandamus", a impugnação direciona-se à decisão proferida pelo MM. Juiz da 24ª Vara
+do Trabalho do Rio de Janeiro/RJ que indeferiu pedido de antecipação de tutela de
+urgência, consubstanciada na reintegração do trabalhador dispensado durante a crise
+sanitária decorrente da pandemia de COVID-19. 3. Não há dúvida de que é dever do
+Estado proteger e garantir direitos por meio de normas e da atividade jurisdicional,
+cabendo ao particular o exercício do direito de ação, a teor do art. 5º, XXXV, da
+Constituição Federal. 4. A tutela do direito comumente é emprestada à parte ao final do
+procedimento. Contudo, é possível a concessão de tutela provisória de urgência quando
+houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou
+risco ao resultado útil do processo (art. 300 do CPC). 5. Conferida mediante cognição
+sumária, a tutela provisória antecipada tem como escopo assegurar a efetividade da
+jurisdição e da concretização do direito. Assim, cabe ao julgador, alicerçado em juízo de
+verossimilhança, acolher a pretensão com o objetivo de resguardar o bem jurídico
+pretendido, quando cumulativamente revelados a plausibilidade do direito (" fumus
+boni iuris ") e o risco iminente de lesão (" periculum in mora "). 6. No caso concreto, a
+Corte de origem concedeu a segurança e, cassando o ato impugnado, determinou a
+reintegração do impetrante com fundamento na existência de compromisso público
+firmado pelo Banco de não dispensar trabalhadores durante a crise sanitária
+decorrente da pandemia de COVID-19. Ocorre que a Lei nº 14.020/2020, ao instituir o
+Programa Emergencial de Manutenção do Emprego e da Renda e dispor sobre medidas
+complementares para enfrentamento da pandemia de COVID-19, estabeleceu a
+garantia provisória no emprego ao trabalhador portador de deficiência (art. 17, inciso
+V), bem como ao empregado que recebeu o Benefício Emergencial de Preservação do
+Emprego e da Renda "em decorrência da redução da jornada de trabalho e do salário
+ou da suspensão temporária do contrato de trabalho" (art. 10), hipóteses não
+verificadas na reclamação trabalhista matriz. Não se vislumbra, na referida norma,
+fundamento que ampare a pretensão de reintegração do trabalhador, motivada
+unicamente na existência de compromisso declarado pelo ora recorrente. Daí porque,
+ao menos em juízo de verossimilhança, revela-se juridicamente plausível concluir pelo
+não enquadramento dos fatos relacionados ao empregado às hipóteses de estabilidade
+provisória previstas na Lei nº 14.020/2020, restando delineada a probabilidade de
+prevalência do direito potestativo do Banco de rescindir unilateralmente o contrato de
+trabalho. De outra forma, em que pese o relevante caráter social do movimento
+"#NãoDemita", extrai-se dos autos sua natureza unilateral, dissociada de qualquer
+formalidade. Trata-se, em verdade, de manifesta intenção de caráter social que não
+integra o contrato de trabalho por ausência de amparo legal ou normativo e, portanto,
+inapta a ensejar a reintegração ao emprego. Nessa linha, há precedentes do Órgão
+Especial e desta Subseção II. Ainda que assim não fosse, incontroversa a dispensa do
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+impetrante em 20/8/2021, sequer poderia se cogitar de inobservância ao compromisso
+apresentado pelo Banco. Isso porque, conforme já observado por esta Eg. SBDI-2 em
+outras oportunidades, o movimento tinha vigência limitada ao período de sessenta dias
+a partir de abril de 2020. 7. No que diz respeito à alegada doença ocupacional, melhor
+sorte não assiste o impetrante. Embora evidenciado que o recorrido é portador, dentre
+outras limitações, de síndrome de colisão do ombro, os documentos apresentados nos
+presentes autos não se revelam satisfatórios, por si só, para demonstrar, em análise
+perfunctória, a incapacidade ao trabalho, tampouco o nexo de causalidade com as
+atividades desempenhadas em favor do litisconsorte passivo, sem prejuízo da
+constatação no sentido de que o documento de fls. 37/38 (id 22e2884) foi colacionado
+de forma seccionada, o que inviabiliza a aferição da completude das informações
+relativas à concessão do auxílio - doença acidentário, obstando, portanto, a presunção
+de reconhecimento de nexo de causalidade entre as enfermidades e as atividades
+realizadas durante o contrato de trabalho. Lado outro, é certo que a CAT, emitida pela
+respectiva entidade sindical, não tem condão de fundamentar qualquer tipo de
+manutenção provisória do emprego. Nesse sentido, não se vislumbra eventual
+estabilidade acidentária do impetrante à época da dispensa, nos termos do art. 118 da
+Lei nº 8.213/1991 e da Súmula 378, II, do TST. Assim sendo, à evidência de que o ato
+inquinado possui amparo legal, inafastável a conclusão no sentido de que inexiste a
+alegada afronta a direito líquido e certo do impetrante, razão pela qual merece reforma
+o acordão regional. Segurança denegada. Recurso ordinário conhecido e provido" (ROT￾103996-30.2021.5.01.0000, Subseção II Especializada em Dissídios Individuais, Relatora
+Ministra Morgana de Almeida Richa, DEJT 31/03/2023). (g.n.)
+Nesse contexto, do que se observa da fundamentação expendida no julgado, a
+decisão recorrida não atenta contra a literalidade dos dispositivos invocados. Na
+verdade, trata-se de mera interpretação da legislação de regência, em consonância com
+a jurisprudência da Corte Superior Trabalhista, o que não permite o processamento do
+recurso.
+Por fim, os arestos trazidos para o confronto de teses revelam-se inespecíficos,
+nos moldes das Súmulas 23 e 296 do TST, por não se basearem na mesma premissa
+fática, tampouco refutarem diretamente todos os fundamentos expendidos na decisão
+recorrida, mormente no que concerne à dispensa da parte autora em 04/02/2021, após
+o período de 60 dias sem demissões fixado no compromisso público denominado
+movimento "#nãodemita".
+Nego seguimento ao recurso, no particular. [¿]
+A fim de demonstrar o prequestionamento da matéria controvertida, a parte
+indicou, nas razões do recurso de revista, o seguinte trecho do acórdão do TRT (fl. 3075):
+[¿] NULIDADE DA DISPENSA
+Pleiteia o autor, na inicial, a nulidade de sua dispensa, ocorrida em 04/02 /2021, e
+consequente reintegração no emprego, sob o fundamento de que o banco reclamado
+teria assumido o compromisso de não demitir seus empregados, enquanto perdurar a
+pandemia do novo coronavírus (COVID- 19), conforme acordado, em 24/03/2020, entre
+as "grandes instituições bancárias do país" e o Comando Nacional dos Bancários.
+Em sua defesa, o banco reclamado impugna o pedido, sustentando que as notícias
+das quais o autor se vale para fundamentar o pedido, data máxima vênia, têm caráter
+unilateral, até porque partem do movimento sindical que representa a categoria dos
+bancários, não havendo nenhum acordo coletivo firmado que oficialize a alegação da
+forma de compromisso que sustenta o autor ter o réu assumido por toda a pandemia.
+Esclarece, ainda, que o "Relatório Anual Integrado do Banco", invocado pelo autor, foi
+um comunicado informal de satisfação aos muitos de seus investidores, e não
+transmuda o que já havia sido informado expressamente aos empregados desde
+24/03/2020, isto é, que havia uma suspensão temporária. Sustenta que, em verdade, o
+que ocorreu no caso concreto, foi que, em 24 de março de 2020, o réu transmitiu
+comunicado interno de que assumiria o compromisso de suspender, temporariamente,
+as dispensas, ressalvados os casos de infração ética ou justa causa, e que se tratou-se,
+na verdade, de uma suspensão geral dos procedimentos de RH (dispensas e
+contratações), medida razoável no período inicial e agudo da crise, de grandes
+incertezas e inseguranças, mas sem qualquer garantia ao emprego durante a
+pandemia. Por fim, afirma que na entrevista mencionada e transcrita pelo autor,
+quando o presidente do réu menciona que havia suspendido as dispensas, também
+informa, inicialmente, suspensão "por 60 dias", o que se revelava como previsão
+adequada de "duração da crise".
+O MM. Juízo a quo, por sua vez, julgou procedente, sob o seguinte fundamento:
+"PANDEMIA
+O reclamante foi dispensado em 04/06/2021, em meio à pandemia do COVID-19, a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+despeito do réu, atendendo a um anseio da categoria da autora, ter assumido o
+compromisso de suspender demissões que estavam em andamento e se comprometido
+a não demitir durante o período em que perdurasse a pandemia no país.
+Primeiramente, ressalvo meu entendimento já exposado na decisão id ee5698b que
+indeferiu a tutela de urgência por todos os fundamentos ali exaustivamente
+mencionados quanto à dispensa ocorrida após o compromisso assumido pela ré
+durante a pandemia. Ressalto, ademais, que o ato da dispensa é um direito potestativo
+do empregador, decorrente do poder de direção que lhe é inerente, resguardadas as
+hipóteses legais que restringem o exercício de tal direito. Nesse ponto, destaca-se que a
+Lei 14.020/2020, resultante da conversão da MP 936/2020, com alterações, previu casos
+excepcionais de estabilidade no emprego durante a pandemia da COVID-19, quais
+sejam: empregado que receber o Benefício Emergencial de Preservação do Emprego e
+da Renda, decorrente da redução da jornada de trabalho e do salário ou da suspensão
+temporária do contrato de trabalho (Art. 10); e empregado portador de deficiência (17,
+V). Dessa forma, excluindo-se tais hipóteses legais e as demais atinentes à estabilidade
+já previstas anteriormente pela legislação, ressalvo meu entendimento de inexistir
+restrição à dispensa realizada. Pois bem, ainda ressalvo meu entendimento no sentido
+de ser razoável e compreensível que as instituições financeiras tenham se
+comprometido em manter a suspensão das demissões e não promover nenhuma nova
+por apenas 60 dias em um primeiro momento, até porque não era possível prever a
+duração da crise que adveio da pandemia do COVID-19 no momento em que assumido
+tal compromisso. Tal compromisso público de não demissão possui caráter meramente
+social, como uma "carta de boas intenções", não possuindo nenhum conteúdo
+normativo apto a amparar a tese acerca da estabilidade no emprego. Dessa forma,
+entendo que o seu eventual descumprimento enseja tão somente reprovação na esfera
+moral, sem maiores implicações jurídicas. Contudo, em que pese o meu entendimento
+acima exposto e ressalvado, na forma do artigo 926 do CPC, aplicado supletivamente,
+curvo-me ao entendimento já reiterado dos órgãos colegiados do Eg. TRT/1ª Região no
+sentido de se reconhecer a garantia do emprego e deferir reintegração do empregado
+em casos como o presente.
+Nesse sentido, as seguintes decisões:
+MANDADO DE SEGURANÇA. REINTEGRAÇÃO AO EMPREGO. COMPROMISSO
+PÚBLICO DO EMPREGADOR DE NÃO PROMOVER DISPENSAS SEM JUSTA CAUSA
+DURANTE A CRISE PROVOCADA PELA PANDEMIA. O empregador, um banco, assumiu
+espontaneamente compromisso público de não promover dispensas sem justa causa
+durante a crise provocada pela pandemia de Covid-19. Isso gera obrigações,
+constituindo cláusula que adere aos contratos de trabalho. No presente caso, não se
+vislumbra justo motivo para a empresa romper esse compromisso público. Dessa
+forma, a resilição do contrato de trabalho, em juízo de cognição sumária, aparenta ser
+nula. Resta demonstrada, portanto, a probabilidade do direito à reintegração ao
+emprego. (TRT/1ª Região - Mandado de Segurança Cível 0104571- 72.2020.5.01.0000,
+Relator: Giselle Bondim Lopes Ribeiro, Data de Julgamento: 10/06 /2021, SEDI-2, Data de
+Publicação: DEJT 26/06/2021)
+AGRAVO INTERNO. MANDADO DE SEGURANÇA. INDEFERIMENTO DE TUTELA
+ANTECIPADA PELO JUÍZO. CONCESSÃO. POSSIBILIDADE. REINTEGRAÇÃO. COMPROMISSO
+PÚBLICO ASSUMIDO DE NÃO DEMITIR EMPREGADOS DURANTE A PANDEMIA NO NOVO
+CORONAVÍRUS. PRESENÇA DOS REQUISITOS PREVISTOS NO ARTIGO 300 DO CÓDIGO DE
+PROCESSO CIVIL. OCORRÊNCIA. Nos casos em que se questiona o indeferimento de
+tutela antecipada, o provimento da liminar e aprópria concessão do mandado de
+segurança revela-se possível somente mediante a demonstração, pelo impetrante, de
+que a tutela antecipada foi indevidamente indeferida, ou seja, deve o impetrante
+demonstrar a presença dos requisitos previstos no artigo 300 do Código de Processo
+Civil, a saber: a existência de elementos que evidenciam a probabilidade do direito e o
+perigo de dano ou o risco ao resultado útil do processo. Na espécie, o descumprimento
+do compromisso assumido de não demitir seja com seus empregados, seja para com
+toda a sociedade, importa em contrariedade ao que se assumiu voluntariamente e se
+empenhou em divulgar na imprensa, caracterizando o que se denomina venire contra
+factum proprium, situação que afronta o princípio da boa-fé objetiva, insculpido no
+artigo 422 do Código Civil, assim como atenta contra os princípios da dignidade da
+pessoa humana e da função social da empresa, previstos na Constituição Federal de
+1988 (inciso III do art. 1º e art. 170). Por conseguinte, tem-se que a presente hipótese se
+enquadra na previsão contida no artigo 300 do CPC, que admite a concessão da tutela
+de urgência quando houver elementos que evidenciem a probabilidade do direito e o
+perigo de dano ou o risco ao resultado útil do processo, impondo-se o deferimento da
+pretensão para determinar a imediata reintegração do impetrante aos quadros de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+empregados do terceiro interessado. (TRT/1ª Região - Mandado de Segurança Cível
+0104134- 31.2020.5.01.0000, Relator: Jorge Orlando Sereno Ramos, Data de Julgamento:
+27/05/2021, SEDI-2, Data de Publicação: DEJT 09/06/2021)
+Assim sendo, nos termos do artigo 926 do CPC supletivo, adiro ao entendimento
+jurisprudencial majoritário deste Eg. TRT/1ª Região no sentido de reconhecer a garantia
+no emprego da reclamante e deferir a sua reintegração, o que foi inclusive também
+deferido liminarmente nos autos do MS 0101146-03.2021.5.01.0000 impetrado pelo
+reclamante.
+Dessa forma, curvo-me a esse entendimento, mantendo a reintegração já
+realizada. Ante o exposto, reconheço a nulidade da dispensa do reclamante sob esse
+fundamento, determinando a imediata reintegração do reclamante aos quadros do
+banco réu, com o restabelecimento de seu contrato de trabalho, nas mesmas condições
+verificadas no momento da ruptura contratual, observados os benefícios normativos e
+contratuais vigentes à época da dispensa, inclusive plano de saúde. São, ainda, devidos
+os salários e demais vantagens referentes ao período desde a dispensa até a data da
+efetiva reintegração do autor. Fica desde jáautorizada a dedução dos valores pagos por
+conta da rescisão contratual, à exceção do saldo salarial, que diz respeito aos dias
+efetivamente trabalhados, que deverão ser apurados em sede de liquidação de
+sentença. O reclamante já foi devidamente reintegrado, conforme informado por meio
+da petição id 14f87a3 (processo 0100134-35.2021.5.01.0264), motivo pelo qual não há
+que se estipular multa pelo eventual descumprimento da obrigação de fazer."
+Merece provimento o apelo.
+De fato, o banco reclamado, em sua defesa, além de invocar o seu direito
+potestativo de demitir seus empregados, alegou que as "suspensões de demissões"
+foram temporárias, apenas para o período inicial da crise deflagrada com a pandemia
+da Covid 19, inicialmente pelo período de 60 dias, conforme entrevista do presidente do
+banco réu, veiculada na mídia digital, e o autor foi demitido quase 1 ano após, e que, de
+todo modo, o direito potestativo de demitir seus empregados não foi mitigado em razão
+desse movimento, ante a inexistência de estabilidade/garantia de emprego por força de
+lei a amparar a reintegração, nem norma coletiva a respeito.
+Note-se que o próprio autor transcreveu, na inicial, trecho do vídeo da entrevista
+do Sr. Candido Botelho Bracher, presidente do banco reclamado, publicado no Youtube
+(fls. 15), no qual há a expressa menção de que as demissões seriam suspensas pelo
+prazo de 60 dias, em que pese pretenda o autor demonstrar que a suspensão ocorreria
+durante todo o período da pandemia, ao transcrever a entrevista de foram "recortada".
+Logo, ainda que se considere que o informativo restringiu o direito potestativo,
+ainda assim só produziria efeitos em relação aos dois meses seguintes, ou seja, março e
+abril de 2020, enquanto que o autor foi demitido em fevereiro de 2021, totalmente fora
+do período citado.
+Não custa ainda lembrar que a reintegração no emprego se constitui em medida
+excepcional, pelo que, em se tratando de questão altamente controvertida, com
+pretensão de garantia de emprego fulcrada apenas em informativos extraídos da
+internet, que, notoriamente, não têm valor probante, a decisão que analisa pretensão
+dessa ordem, ainda que proferida liminarmente em sede de mandado de segurança,
+deve primar pela prudência e razoabilidade, a fim de evitar prejuízos irreparáveis à
+parte.
+Não foi por razão diversa que a Corregedoria Geral do C. Tribunal Superior do
+Trabalho vem reiteradamente imprimindo efeito suspensivo aos Agravos Regimentais
+interpostos em Mandados de Segurança impetrados contra essas decisões
+reintegratórias de imediato, conforme se vê das inúmeras decisões anexadas à inicial da
+Ação Cautelar - TutCautAnt 0102136- 91.2021.5.01.0000.
+Nessas decisões, o Exmo. Min. Aloysio Silva Corrêa da Veiga ainda deixou
+acentuado que o compromisso de não demitir produziu efeitos apenas no campo
+moral, sem inibir o direito potestativo do empregador:
+"Ademais, o compromisso público de não-demissão tem caráter meramente
+social, algo como uma "carta de boas intenções", mas não possui conteúdo normativo
+apto a amparar a tese acerca da estabilidade no emprego. Assim dizendo, o seu
+eventual descumprimento enseja reprovação tão somente no campo moral, sem
+maiores implicações jurídicas. Assim, a inexistência de clareza quanto aos elementos
+fáticos que compõem o caso concreto, sem a indicação específica de respaldo
+normativo a tal análise, resultando em imediata reintegração de empregado, enquanto
+pendente recurso acerca da matéria, acaba por consubstanciar a hipótese prevista no
+parágrafo único do art. 13 do RICGJT, de modo a justificar a intervenção excepcional
+desta Corregedoria- Geral, em face da existência de situação extrema ou excepcional e
+o perigo de lesão de difícil reparação. Ante a todo o exposto, com fundamento no
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+parágrafo único do artigo 13 do RICGJT, DEFIRO parcialmente a liminar requerida para
+conceder efeito suspensivo ao Agravo Regimental no Mandado de Segurança nº
+0104247-82.2020.5.01.0000, com a consequente suspensão da ordem de reintegração
+até que ocorra o exame da matéria pelo órgão jurisdicional competente."
+Por fim, a vingar o entendimento esposado pelo autor todos os milhares de
+empregados do reclamado seriam estáveis durante todo o período do surto epidêmico,
+compromisso esse nunca assumido.
+Dessa forma, dou provimento, para declarar a improcedência do pedido de
+reintegração no emprego." [¿]
+Ao exame.
+De plano, percebe-se que não foram atendidos os pressupostos do art. 896, § 1º-A,
+da CLT.
+A Lei nº 13.015/2014 exige que a parte indique, nas razões recursais, o trecho da
+decisão recorrida no qual se consubstancia o prequestionamento da controvérsia (art.
+896, § 1º-A, I, da CLT). Além disso, deve a recorrente apontar, de forma explícita e
+fundamentada, contrariedade a dispositivo de lei, súmula ou orientação jurisprudencial
+do Tribunal Superior do Trabalho que conflite com a decisão regional (art. 896, § 1º-A, II,
+da CLT), bem como, em observância ao princípio da dialeticidade, fazer o seu confronto
+analítico com a fundamentação jurídica invocada nas razões recursais, reportando-se às
+circunstâncias fáticas e jurídicas que identifiquem ou assemelhem os casos
+confrontados (art. 896, §§ 1º-A, III, e 8º, da CLT).
+Em resumo, deve o interessado dizer claramente, precisamente e pontualmente,
+contra o que recorre, por que recorre e que provimento jurisdicional postula quando
+recorre.
+No caso concreto, a parte recorrente transcreve a totalidade da fundamentação
+exposta no capítulo do acórdão relativo à alegada nulidade da dispensa, em trecho
+demasiadamente extenso (mais de seislaudas), sem evidenciar, nesse particular, de
+forma específica e delimitada, em qual fração do julgado há o prequestionamento da
+controvérsia objeto do recurso revista.
+Posteriormente, no desenvolvimento da argumentação apresentada, a recorrente
+tão somente faz a interpretação do quanto foi decidido, deixando para o julgador a
+tarefa de pinçar, por conta própria, em que excertos do acórdão recorrido teriam sido
+registrados os fundamentos da Corte Regional. Assim, a parte não possibilitou ao
+julgador a visualização do ponto específico da controvérsia recursal, na contramão da
+atual sistemática da Lei nº 13.015/2014.
+Desse modo, ao não observar a exigência de indicar o devido trecho da decisão do
+Regional que consubstancia o prequestionamento da controvérsia (art. 896, § 1º-A, I, da
+CLT), a parte não consegue demonstrar, de forma analítica, em que sentido tal decisão
+teria incorrido em discrepância legal ou jurisprudencial (art. 896, §§ 1º-A, III, e 8º, da
+CLT).
+Prejudicada a análise da transcendência.
+Nego provimento.
+TRANSCENDÊNCIA
+ESTABILIDADE PROVISÓRIA. DIRETOR DE COOPERATIVA.
+O Tribunal Regional, juízo primeiro de admissibilidade do recurso de revista (art.
+682, IX, da CLT), denegou-lhe seguimento, sob os seguintes fundamentos:
+RESCISÃO DO CONTRATO DE TRABALHO / REINTEGRAÇÃO /READMISSÃO OU
+INDENIZAÇÃO / ESTABILIDADE DO DIRIGENTE DE COOPERATIVA.
+Alegação(ões):
+- contrariedade à Orientação Jurisprudencial SBDI-I/TST, nº 253.
+- violação do(s) artigo 5º, inciso XIII; artigo 7º, inciso X; artigo 8º, inciso VIII, da
+Constituição Federal.
+- violação d(a,o)(s) Lei nº 4594/1964, artigo 55; Consolidação das Leis do Trabalho,
+artigo 818, inciso II; Código de Processo Civil, artigo 373, inciso II.
+- divergência jurisprudencial.
+Registrou o acórdão recorrido:
+[¿]
+Nos termos em que prolatada a decisão, não se verificam as violações apontadas.
+Na verdade, trata-se de mera interpretação da legislação de regência, o que não
+permite o processamento do recurso. Não se vislumbra, também, nenhuma afronta à
+jurisprudência sedimentada da C. Corte.
+Os arestos transcritos para o confronto de teses não se prestam ao fim colimado,
+seja por se revelarem inespecíficos, vez que não se enquadram nos moldes
+estabelecidos pelas Súmulas 23 e 296 do TST, seja ainda por se revelarem inservíveis,
+porquanto não contemplados na alínea "a" do art. 896 da CLT. No mesmo sentido é o
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+entendimento consubstanciado na Orientação Jurisprudencial 111 da SDI-I do TST.
+Podem ser, ainda, enquadrados na categoria de inservíveis os arestos não adequados
+ao entendimento consagrado na Súmula 337 do TST.
+Nego seguimento ao recurso, no particular. [¿]
+A fim de demonstrar o prequestionamento da matéria controvertida, a parte
+indica, nas razões do recurso de revista, o seguinte trecho do acórdão do TRT (fl. 3091):
+[¿] ESTABILIDADE PROVISÓRIA - DIRETOR DE COOPERATIVA
+Alega o autor que é detentor da estabilidade prevista no art. 543, § 3º, da CLT c/c
+art. 55, Lei 5.764/1971, em razão de ocupar, quando da dispensa, cargo na direção de
+eventos da Cooperativa Novo Milênio Cooperativa de Trabalho e Consumo Ltda.,
+pretendendo a nulidade da sua dispensa com a determinação de reintegração ao
+emprego.
+Não merece provimento o apelo.
+Com efeito, o instituto da estabilidade provisória é aplicável ao empregado eleito
+diretor de sociedade cooperativa, quando a sua atuação na defesa dos interesses dos
+empregados puder gerar conflitos com o empregador.
+A estabilidade visa não só preservar o empregado de eventuais retaliações, mas
+também garantir a sua atuação desprovida de qualquer interferência do empregador
+no funcionamento da cooperativa, protegendo, consequentemente, o interesse dos
+cooperativados.
+Nesse passo, do art. 55 da Lei 5.764/71, se infere a necessidade de se tratar de
+uma cooperativa de trabalho, criada pelos empregados da empresa para a sua
+representação na busca dos interesses coletivos.
+In casu, como bem indicado na decisão de origem, a cooperativa não foi criada
+pelos empregados do reclamado, assim como a sua área de atuação em nada se
+relacionada à atividade do banco réu, de modo que inexiste qualquer
+representatividade coletiva dos empregados perante o empregador a gerar a
+equiparação aos representantes sindicais.
+Inexistindo qualquer possibilidade de conflito ou pertinência temática entre as
+atividades realizadas pela cooperativa e os interesses do reclamado, enquanto ente
+empresarial, não há se falar em estabilidade provisória.
+Não é por razão diversa que o C. Tribunal Superior do Trabalho vem
+reiteradamente declarando que os empregados representantes do empregador nas
+CIPA 's não gozam de estabilidade provisória, já que sua atuação não entra em conflito
+com os interesses do empregador.
+Nego provimento [¿]
+Nas razões do recurso de revista, a parte aduz ser "incontroverso nos autos que o
+recorrente foi eleito como diretor de eventos da Cooperativa" e "incontroverso que a
+ata de constituição prevê que a cooperativa se rege pela Lei 5.764 de 16 de dezembro de
+1971, trata-se de cooperativa fundada em 23/06/2018, devidamente estabelecida e
+registrada, inclusive com registro definitivo junto a OCB" . Assim, entende que faz jus à
+estabilidade provisória pelo período do seu mandato, conforme preceitua o art. 55 da
+Lei nº 5.764/1971, acrescida de mais um ano ao final deste (art. 543, § 3º, da CLT).
+Salienta que "a estabilidade provisória será concedida ao EMPREGADO
+sindicalizado, sem qualquer restrição ou limitação à atividade principal do empregador,
+não havendo por que fazer distinção onde o legislador não fez".
+Acrescenta que "o recorrido sequer comprovou que não havia conflito de
+interesse com as atividades da cooperativa com as do banco, não observando o artigo
+818, inciso II, da CLT e 373, inciso II, do CPC".
+Indica violação dos artigos 8º, VIII, da CF, 55 da Lei nº 5.764/1971, 543, § 3º, 818, II,
+da CLT, 373, II, do CPC.
+Traz arestos ao confronto de teses.
+Ao exame.
+Após a análise das provas, o TRT concluiu que " a cooperativa não foi criada pelos
+empregados do reclamado, assim como a sua área de atuação em nada se relacionada
+à atividade do banco réu, de modo que inexiste qualquer representatividade coletiva
+dos empregados perante o empregador a gerar a equiparação aos representantes
+sindicais. Inexistindo qualquer possibilidade de conflito ou pertinência temática entre
+as atividades realizadas pela cooperativa e os interesses do reclamado, enquanto ente
+empresarial, não há se falar em estabilidade provisória".
+O simples registro no acórdão de que a cooperativa não foi criada pelos
+trabalhadores da reclamada, afasta a pretensão de conferir aos seus diretores as
+mesmas garantias asseguradas aos dirigentes sindicais, conforme dispõe o artigo 55 da
+Lei nº 5.764/71, in verbis: "os empregados de empresas que sejam eleitos diretores de
+sociedades cooperativas pelos mesmos criadas, gozarão das garantias asseguradas aos
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+dirigentes sindicais pelo artigo 543 da Consolidação das Leis do Trabalho".
+Sendo assim, para se modificar o indeferimento da estabilidade prevista no art. 55
+da Lei nº 5.764/1971, seria necessário reexaminar o arcabouço fático- probatório, o que
+é inviável nesta instância extraordinária nos termos da Súmula nº 126 do TST.
+A alegação acerca do condicionamento da estabilidade de diretor de sociedade
+cooperativa à representação dos cooperados torna-se secundária em face da conclusão
+de que a cooperativa sequer foi criada pelos empregados da reclamada.
+Fica afastada a discussão a respeito da distribuição do ônus da prova (arts. 818 da
+CLT e 373 do CPC) quando o TRT decide com base no conjunto probatório, pois,
+havendo prova, não importa quem a produziu.
+Prejudicada a análise da transcendência
+Nego provimento.
+TRANSCENDÊNCIA
+HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. RECLAMANTE BENEFICIÁRIO DA
+JUSTIÇA GRATUITA. TESE VINCULANTE DO STF. RECLAMAÇÃO TRABALHISTA AJUIZADA NA
+VIGÊNCIA DA LEI Nº 13.467/2017.
+Há transcendência política quando se constata que o acórdão recorrido não está
+conforme a tese vinculante do STF.
+MÉRITO
+HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. RECLAMANTE BENEFICIÁRIO DA
+JUSTIÇA GRATUITA. TESE VINCULANTE DO STF. RECLAMAÇÃO TRABALHISTA AJUIZADA NA
+VIGÊNCIA DA LEI Nº 13.467/2017.
+O Tribunal Regional, juízo primeiro de admissibilidade do recurso de revista (art.
+682, IX, da CLT), denegou-lhe seguimento, sob os seguintes fundamentos:
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / PARTES E PROCURADORES /
+SUCUMBÊNCIA / HONORÁRIOS ADVOCATÍCIOS.
+Alegação(ões):
+- violação do(s) artigo 5º, inciso XXXV; artigo 5º, inciso LXXIV, da Constituição
+Federal.
+- violação d(a,o)(s) Consolidação das Leis do Trabalho, artigo 790- B; artigo 790-B, §
+4º; artigo 791-A, § 4º.
+- divergência jurisprudencial.
+Nos termos em que prolatada a decisão, não se verificam as violações apontadas.
+Na verdade, trata-se de mera interpretação da legislação de regência, o que não
+permite o processamento do recurso.
+Em relação ao dissenso jurisprudencial mencionado, cabe destacar que os arestos
+transcritos revelam-se inespecíficos, nos moldes das Súmulas 23 e 296 do TST, seja por
+não se basearem na mesma premissa fática, seja por não refutarem diretamente todos
+os fundamentos expendidos na decisão recorrida.
+Nego seguimento ao recurso, no particular. [¿]
+A fim de demonstrar o prequestionamento da matéria controvertida, a parte
+indicou, nas razões do recurso de revista, o seguinte trecho do acórdão do TRT (fl. 1186):
+Merece parcial provimento ao apelo, pois, consoante acima analisado, o autor não
+faz jus ao benefício da gratuidade de justiça, razão pela qual deve arcar com o
+pagamento da referida parcela no mesmo percentual fixado ao seu patrono (10%),
+conforme será analisado adiante, sobre os pedidos julgados improcedentes, dedutíveis
+do quantum devido.
+Contudo, não se mostra cabível a redução dos honorários advocatícios
+sucumbenciais, em favor do patrono do autor, para 5%, pois a lide é de média
+complexidade, envolve duas ações com múltiplas pretensões, a instrução envolveu
+prova documental e testemunhal, pelo que percentual de 10% fixado na sentença de
+origem se revela razoável e adequado, à luz do disposto no art. 791-A da CLT.
+Dou provimento parcial. [¿]
+Nas razões do recurso de revista, a parte defende ser incabível a condenação do
+beneficiário da justiça gratuita ao pagamento de honorários advocatícios
+sucumbenciais.
+Indica violação dos artigos 5º, caput, XXXV e LXXIV, da CF, 791-A, § 4º, da CLT. Traz
+arestos ao confronto de teses.
+Ao exame.
+Preenchidos os pressupostos do art. 896, § 1º-A, da CLT.
+O STF decidiu que a tese vinculante oriunda de ação de controle concentrado de
+constitucionalidade produz efeitos a partir da publicação da parte dispositiva do
+acórdão em sessão especial do Diário de Justiça e do Diário Oficial da União (ADI
+4.167/ED).
+Por essa razão, a Sexta Turma do TST vinha julgando os processos que tratam de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+honorários advocatícios sucumbenciais desde a publicação da certidão de julgamento
+da ADI 5.766, na qual constou que o STF, "por maioria, julgou parcialmente procedente
+o pedido formulado na ação direta para declarar inconstitucionais os arts. 790-B, caput
+e § 4º, e 791-A, § 4º, da Consolidação das Leis do Trabalho". A compreensão inicial foi de
+que teria sido declarada a inconstitucionalidade da íntegra do art. 791, § 4º, da CLT,
+conforme também entenderam decisões proferidas pelo próprio STF em autos de
+reclamações constitucionais (entre outras, Rcl 51.627-PR, Relator Min Gilmar Mendes,
+DJE de 30/3/2022; Ag.Reg.RE 1.346.749-MG, Relatora: Min. Cármen Lúcia, DJE de
+17/3/2022; Rcl 51.129-SC, Relator: Min Dias Toffoli, DEJ de 7/1/2022).
+Porém, em julgamento de embargos de declaração na ADI 5.766, o STF registrou
+que o pedido naquele feito foi somente de declaração da inconstitucionalidade da
+expressão "desde que não tenha obtido em juízo, ainda que em outro processo,
+créditos capazes de suportar a despesa", constante no § 4º do art. 791-A da CLT, tendo
+sido apenas essa a matéria decidida no particular.
+Na decisão proferida na Reclamação 53.350, o Ministro Alexandre de Moraes
+(redator para o acórdão da ADI 5.766) esclareceu que "o que esta CORTE vedou foi o
+automático afastamento da condição de hipossuficiência da parte como consequência
+lógica da obtenção de valores em juízo, e não a possibilidade de haver condenação em
+honorários advocatícios (os quais podem ser arbitrados, ficando sob condição
+suspensiva de exigibilidade)". Destacou que não podem ser automaticamente utilizados
+créditos recebidos na própria ação trabalhista, ou em outra ação trabalhista, para
+pagamento dos honorários advocatícios sucumbenciais.
+Em síntese, a conclusão do STF foi de que deve ser aplicado o art. 791-A, § 4º, da
+CLT nos seguintes termos: "§ 4º Vencido o beneficiário da justiça gratuita, (...) as
+obrigações decorrentes de sua sucumbência ficarão sob condição suspensiva de
+exigibilidade e somente poderão ser executadas se, nos dois anos subsequentes ao
+trânsito em julgado da decisão que as certificou, o credor demonstrar que deixou de
+existir a situação de insuficiência de recursos que justificou a concessão de gratuidade,
+extinguindo-se, passado esse prazo, tais obrigações do beneficiário".
+No caso concreto, o TRT cassou o benefício da gratuidade de justiça antes
+conferido ao reclamante e, em seguida, o condenou ao pagamento de honorários
+advocatícios sucumbenciais no importe de 10% sobre o valor dos pedidos julgados
+improcedentes, sem determinação de suspensão da exigibilidade do crédito.
+Constata-se, nesta assentada, a viabilidade de concessão dos benefícios da justiça
+gratuita ao reclamante.
+Ocorre que, conforme exposto, a tese emitida pela Corte Suprema não isenta o
+beneficiário da justiça gratuita das obrigações decorrentes de sua sucumbência, sendo
+possível a condenação em honorários advocatícios, mas exigibilidade deve ficar
+suspensa pelo prazo de dois anos e somente poderá ser o crédito executado se o credor
+demonstrar que deixou de existir a situação de insuficiência de recursos que justificou a
+concessão de gratuidade.
+Ante o exposto, dou provimento ao agravo de instrumento para determinar o
+processamento do recurso de revista por possível violação do art. 791-A, § 4º, da CLT.
+II - RECURSO DE REVISTA
+CONHECIMENTO
+ESTAGNAÇÃO DOS PERCENTUAIS DE ANUÊNIOS. PRESCRIÇÃO APLICÁVEL.
+A fim de demonstrar o prequestionamento da matéria controvertida, a parte
+indicou, nas razões do recurso de revista, o seguinte excerto do acórdão do TRT (fl.
+3100):
+[¿] RECÁLCULO DO ADICIONAL POR TEMPO DE SERVIÇO
+Não merece provimento o apelo.
+Analisados os autos, verifica-se que a presente ação foi ajuizada em 2021, ou seja,
+mais de dez anos após a alegada lesão, a saber, "que o reclamado deixou de acrescer
+novos anuênios, a partir de janeiro de 2000, descumprindo disposição contratual."
+Nesse contexto, tratando-se de pretensão à parcela não assegurada por preceito
+de lei, conforme admitido pelo próprio autor, o quinquênio prescricional começa a fluir
+a partir do momento em que ocorreu a lesão às condições contratuais (inteligência do
+Súmula 294 do TST).
+Logo, prescrita se encontra a pretensão ao pagamento de diferenças salariais
+decorrentes do "congelamento" dos anuênios ("ADIC. T. SERV. EMP. ANTERIOR".
+A alegação de que os anuênios encontram-se previstos no contrato de trabalho
+não é verdadeira, pois o contrato de trabalho não contém previsão de pagamento de
+ATS.
+Sentença que se mantém, ainda que por outro fundamento. [¿]
+Nas razões do recurso de revista, a parte insurge-se contra a decretação da
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+prescrição total quanto ao pleito de diferenças de adicional de tempo de serviço pelo
+alegado congelamento da parcela em 2000. Alude que houve incorporação ao contrato
+de trabalho, a teor do artigo 468 da CLT. Defende que "o não pagamento das parcelas
+se repetiu e produziu efeitos permanentes na sua remuneração, sendo a prescrição
+parcial quinquenal a aplicável ao caso".
+Indica violação dos artigos 5º, XXXVI, 7º, XXIX, da CF, 457, § 1º e 468 da CLT. Aponta
+contrariedade às Súmulas nº 202 e 294 do TST. Traz arestos ao confronto de teses.
+Ao exame.
+Preenchidos os pressupostos do art. 896, § 1º-A, da CLT.
+De plano, nota-se ter o Tribunal Regional assinalado que "A alegação de que os
+anuênios encontram-se previstos no contrato de trabalho não é verdadeira, pois o
+contrato de trabalho não contém previsão de pagamento de ATS".
+De fato, a jurisprudência desta Corte uniformizadora, por meio da Subseção I
+Especializada em Dissídios Individuais, possui entendimento de que, no caso de anuênio
+previsto em norma contratual, a parcela se incorpora ao contrato de trabalho e a
+prescrição é parcial.
+Nesse sentido, cito o seguinte julgado:
+"RECURSO DE EMBARGOS. PRESCRIÇÃO PARCIAL. UNIFICAÇÃO DAS RUBRICAS
+ANUÊNIOS E QUINQUÊNIOS PELO SUCESSOR (ATS/BANERJ). CONGELAMENTO. PARCELA
+QUE SE INCORPOROU AO CONTRATO DE TRABALHO. DESCUMPRIMENTO DO
+PACTUADO. Há prescrição parcial da pretensão ao recebimento da parcela anuênios,
+quando paga por força de previsão contratual, cujo direito incorporou-se ao contrato de
+trabalho. Retrata o caso direito a parcela de trato sucessivo, cuja supressão não decorre
+de alteração do pactuado, mas sim de seu descumprimento, sendo caso de aplicação da
+prescrição parcial, nos termos da parte final da Súmula 294 do c. TST, eis que a lesão se
+renova a cada mês que o empregado deixa de receber a parcela. A mera alteração no
+nome da parcela, sem o adimplemento dos percentuais de anuênios e quinquênios
+previstos contratualmente, e o seu congelamento, retrata conduta unilateral do
+empregador, em prejuízo ao empregado, em desacordo com o que dispõe o art. 468 da
+CLT e Súmula 51, I, do c. TST. Embargos conhecidos e providos" (E-ED-RR-1154-
+47.2012.5.09.0005, Subseção I Especializada em Dissídios Individuais, Relator Ministro
+Aloysio Correa da Veiga, DEJT 15/04/2016).
+Entretanto, diante da premissa fática fixada na origem, de que "o contrato de
+trabalho não contém previsão de pagamento de ATS", a alegação do reclamante ¿ de
+que houve incorporação da parcela ao seu contrato de trabalho a atrair a prescrição
+parcial em face do descumprimento do pactuado ¿ nos remete a novo exame das
+provas, procedimento vedado pela Súmula nº 126 do TST, cuja incidência afasta a
+viabilidade do conhecimento do recurso de revista com base na fundamentação jurídica
+invocada pela parte.
+Prejudicada a análise da transcendência.
+Nego seguimento.
+TRANSCENDÊNCIA
+ASSISTÊNCIA JUDICIÁRIA GRATUITA. DECLARAÇÃO DE INSUFICIÊNCIA DE RECURSOS
+FIRMADA POR PESSOA NATURAL. RECLAMAÇÃO TRABALHISTA AJUIZADA NA VIGÊNCIA
+DA LEI Nº 13.467/2017.
+Há transcendência política quando se constata em exame preliminar o
+desrespeito da instância recorrida à tese vinculante do Tribunal Pleno do TST.
+CONHECIMENTO
+ASSISTÊNCIA JUDICIÁRIA GRATUITA. DECLARAÇÃO DE INSUFICIÊNCIA DE RECURSOS
+FIRMADA POR PESSOA NATURAL. RECLAMAÇÃO TRABALHISTA AJUIZADA NA VIGÊNCIA
+DA LEI Nº 13.467/2017.
+A fim de demonstrar o prequestionamento da matéria controvertida, a parte
+indicou, nas razões do recurso de revista, o seguinte excerto do acórdão do TRT (fl.
+3115):
+Merece provimento o apelo. No caso dos autos, as provas produzidas nos autos
+demonstram que o autor recebia de salário mais de R$ 6.000,00, mensais, o que
+corresponde a quantia bem superior aos 40% do limite máximo dos benefícios do
+Regime Geral de Previdência Social, à época do ajuizamento da presente demanda.
+Assim sendo, casso o benefício da gratuidade de justiça concedido à autora. [¿]
+Nas razões do recurso de revista, a parte aduz que apresentou declaração de
+hipossuficiência, sendo que o recorrido não logrou demonstrar fato impeditivo do seu
+direito, sendo insuficiente para denegar o benefício o simples fato de o autor perceber
+salário superior a 40% do teso do RGPS .
+Indica violação dos artigos 5º, XXXV, LXXIV, da CF, 790, §§ 3º e 4º, da CLT, 99, § 3º,
+do CPC. Aponta contrariedade à Súmula nº 463, I e II, do TST. Traz arestos ao confronto
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+de teses.
+Ao exame.
+Preenchidos os pressupostos do art. 896, § 1º-A, da CLT.
+O Pleno do TST, no IncJulgRREmbRep 277-83.2020.5.09.0084 decidiu que a
+declaração de pobreza é admissível como prova da incapacidade econômica da pessoa
+física, havendo a presunção relativa de veracidade, a qual admite prova em sentido
+contrário. Eis a tese vinculante firmada: I - independentemente de pedido da parte, o
+magistrado trabalhista tem o poder-dever de conceder o benefício da justiça gratuita
+aos litigantes que perceberem salário igual ou inferior a 40% (quarenta por cento) do
+limite máximo dos benefícios do Regime Geral de Previdência Social, conforme
+evidenciado nos autos; II - o pedido de gratuidade de justiça, formulado por aquele que
+perceber salário superior a 40% (quarenta por cento) do limite máximo dos benefícios
+do Regime Geral de Previdência Social, pode ser instruído por documento particular
+firmado pelo interessado, nos termos da Lei nº 7.115/83, sob as penas do art. 299 do
+Código Penal; III - havendo impugnação à pretensão pela parte contrária, acompanhada
+de prova, o juiz abrirá vista ao requerente do pedido de gratuidade de justiça,
+decidindo, após, o incidente (art. 99, § 2º, do CPC).
+Assim, continua plenamente aplicável a Súmula nº 463, I, do TST, que dispõe:
+ASSISTÊNCIA JUDICIÁRIA GRATUITA. COMPROVAÇÃO (conversão da Orientação
+Jurisprudencial nº 304 da SBDI-1, com alterações decorrentes do CPC de 2015) - Res.
+219/2017, DEJT divulgado em 28, 29 e 30.06.2017 - republicada - DEJT divulgado em 12,
+13 e 14.07.2017
+I - A partir de 26.06.2017, para a concessão da assistência judiciária gratuita à
+pessoa natural, basta a declaração de hipossuficiência econômica firmada pela parte ou
+por seu advogado, desde que munido de procuração com poderes específicos para esse
+fim (art. 105 do CPC de 2015);
+II - No caso de pessoa jurídica, não basta a mera declaração: é necessária a
+demonstração cabal de impossibilidade de a parte arcar com as despesas do processo.
+Harmoniza-se esse entendimento com o princípio da inafastabilidade da jurisdição
+(art. 5º, XXXV, da CF), bem como com o princípio da igualdade (art. 5º, caput, da CF), pois
+não há fundamento de qualquer espécie que justifique a imposição de um tratamento
+mais rigoroso aos hipossuficientes que buscam a Justiça do Trabalho para a proteção
+de seus direitos, em relação àqueles que demandam em outros ramos do Poder
+Judiciário.
+Dessa forma, havendo o reclamante prestado declaração de hipossuficiência e
+postulado o benefício de justiça gratuita, à míngua de prova em sentido contrário,
+como no caso em voga, tem-se por demonstrada a insuficiência de recursos a que
+alude o art. 790, § 4º, da CLT.
+Pelo exposto, conheço do recurso de revista por contrariedade à Súmula nº 463, I,
+do TST.
+MÉRITO
+ASSISTÊNCIA JUDICIÁRIA GRATUITA. DECLARAÇÃO DE INSUFICIÊNCIA DE RECURSOS
+FIRMADA POR PESSOA NATURAL. RECLAMAÇÃO TRABALHISTA AJUIZADA NA VIGÊNCIA
+DA LEI Nº 13.467/2017.
+Como consequência do conhecimento do recurso de revista por contrariedade à
+Súmula nº 463, I, do TST, dou-lhe provimento para conferir ao reclamante os benefícios
+da assistência judiciária gratuita.
+CONHECIMENTO
+HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. RECLAMANTE BENEFICIÁRIO DA
+JUSTIÇA GRATUITA. TESE VINCULANTE DO STF. RECLAMAÇÃO TRABALHISTA AJUIZADA NA
+VIGÊNCIA DA LEI Nº 13.467/2017.
+No conhecimento do recurso de revista quanto ao tema em análise, aplica-se a
+mesma fundamentação exposta no mérito do agravo de instrumento provido quanto ao
+tópico.
+Pelo exposto, conheço do recurso de revista por violação do art. 791-A, § 4º, da
+CLT.
+MÉRITO
+HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. RECLAMANTE BENEFICIÁRIO DA
+JUSTIÇA GRATUITA. TESE VINCULANTE DO STF. RECLAMAÇÃO TRABALHISTA AJUIZADA NA
+VIGÊNCIA DA LEI Nº 13.467/2017.
+Como consequência lógica do conhecimento do recurso de revista por violação do
+art. 791-A, § 4º, da CLT, dou-lhe parcial provimento para, mantida a condenação do
+reclamante ao pagamento de honorários advocatícios sucumbenciais, determinar que
+seja observada a cláusula de suspensão de exigibilidade, nos termos da tese vinculante
+proferida na ADI 5.766, com os esclarecimentos constantes no julgamento dos
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+embargos de declaração pelo STF.
+CONCLUSÃO
+Pelo exposto:
+I - nego provimento ao agravo de instrumento quanto aos temas "NULIDADE DA
+DISPENSA" e "ESTABILIDADE PROVISÓRIA. DIRETOR DE COOPERATIVA", com amparo nos
+arts. 118, X, e 255, III, a, do RITST, 932, III, do CPC. Fica prejudicada a análise da
+transcendência;
+II - reconheço a transcendência quanto ao tema "HONORÁRIOS ADVOCATÍCIOS
+SUCUMBENCIAIS" e dou provimento ao agravo de instrumento para determinar o
+processamento do recurso de revista ante a possível violação do art. 791-A, § 4º, da CLT;
+III - nego seguimento ao recurso de revista quanto ao tema "ESTAGNAÇÃO DOS
+PERCENTUAIS DE ANUÊNIOS. PRESCRIÇÃO APLICÁVEL", com amparo nos arts. 896, § 14,
+da CLT, 118, X, do RITST e 932, VIII, do CPC. Fica prejudicada a análise da transcendência;
+IV - reconheço a transcendência quanto ao tema "ASSISTÊNCIA JUDICIÁRIA
+GRATUITA", conheço do recurso de revista por contrariedade à Súmula nº 463, I, do TST
+e, no mérito, dou-lhe provimento para conferir ao reclamante os benefícios da
+assistência judiciária gratuita;
+V - conheço do recurso de revista quanto ao tema "HONORÁRIOS ADVOCATÍCIOS
+SUCUMBENCIAIS" por violação do art. 791-A, § 4º, da CLT e, no mérito, dou-lhe parcial
+provimento para, mantida a condenação do reclamante ao pagamento de honorários
+advocatícios sucumbenciais, determinar que seja observada a cláusula de suspensão de
+exigibilidade, nos termos da tese vinculante proferida na ADI 5.766, com os
+esclarecimentos constantes no julgamento dos embargos de declaração pelo STF.
+Nas razões de agravo a parte defende a transcendência do recurso de revista
+trancado.
+Ao exame .
+A leitura do agravo, por si só, não permite compreender a controvérsia, pois a
+parte não identifica os temas que pretende devolver à apreciação deste Tribunal
+Superior.
+O agravante traz apenas alegações sobre o preenchimento dos requisitos da
+transcendência. Sucede, entretanto, que tais argumentos se apresentam vagos, sequer
+sendo possível identificar os temas renovados.
+Nos termos do art. 1.021, § 1º, do CPC/2015: "Na petição de agravo interno, o
+recorrente impugnará especificadamente os fundamentos da decisão agravada" .
+Também a Súmula nº 422, I, do TST exige a impugnação específica aos fundamentos da
+decisão impugnada nos termos do art. 1.010, II, do CPC/2015, que trata da
+obrigatoriedade recursal da exposição dos fatos e do direito.
+Agravo de que não se conhece.
+ISTO POSTO
+ACORDAM os Ministros da Sexta Turma do Tribunal Superior do Trabalho, por
+unanimidade, não conhecer do agravo.
+Brasília, 3 de março de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+KÁTIA MAGALHÃES ARRUDA
+Ministra Relatora
+A parte embargante aponta contradição no acórdão, ao argumento de que na
+decisão monocrática deu-se provimento ao agravo de instrumento, por possível violação dos arts. 791‐A,
+§ 4º, da CLT, determinando o processamento do recurso de revista nesse aspecto. Sustenta que, ao final,
+o agravo foi não conhecido, o que revelaria contradição no julgado.
+Sustenta que “a contradição verificada não se refere a mera divergência
+interpretativa ou inconformismo da parte, mas a efetiva inconsistência interna da r. decisão, na medida em
+que a fundamentação afirma o provimento do Agravo de Instrumento e a determinação de processamento do
+Recurso de Revista, ao passo que o dispositivo afirma o não conhecimento do mesmo recurso”.
+À análise.
+Para o exame da alegação, cumpre distinguir os recursos apreciados em cada
+pronunciamento.
+N a decisão monocrática, quanto ao agravo de instrumento do reclamante,
+negou-se provimento aos temas “nulidade da dispensa” e “estabilidade provisória de diretor de
+cooperativa”. No tema “honorários advocatícios sucumbenciais”, reconheceu-se a transcendência e deu￾Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
+se provimento ao agravo de instrumento, por possível violação do art. 791-A, § 4º, da CLT, para
+determinar o processamento do recurso de revista.
+Na mesma decisão, ao examinar o recurso de revista, negou-se seguimento ao
+tema relativo à prescrição das diferenças de anuênios. Quanto à assistência judiciária gratuita, o recurso
+foi conhecido e provido para conceder o benefício ao reclamante. Quanto aos honorários advocatícios
+sucumbenciais, o recurso foi conhecido e parcialmente provido para, mantida a condenação, determinar
+a suspensão de sua exigibilidade nos termos da tese firmada pelo STF na ADI 5.766.
+O reclamante interpôs, então, agravo interno contra a decisão monocrática.
+Conforme registrado no acórdão ora embargado, suas razões limitaram-se a alegações genéricas sobre
+o preenchimento dos requisitos da transcendência. A parte não identificou os temas que pretendia
+submeter à apreciação da Turma nem impugnou os fundamentos pelos quais a decisão monocrática lhe
+havia sido desfavorável. Por esse motivo, e com fundamento no art. 1.021, § 1º, do CPC e na Súmula nº
+422, I, do TST, a Sexta Turma não conheceu do agravo interno.
+Nos embargos de declaração, o reclamante sustenta haver contradição entre o
+provimento do agravo de instrumento, determinado na decisão monocrática quanto aos honorários, e o
+não conhecimento do agravo, proclamado no acórdão embargado. Pretende a reforma do julgado para
+que seja afastada a condenação ao pagamento dos honorários advocatícios sucumbenciais.
+Ora, o agravo de instrumento provido na decisão monocrática, quanto aos
+honorários advocatícios, não se confunde com o agravo não conhecido no acórdão embargado. O
+primeiro viabilizou o exame do recurso de revista naquele tema, que foi efetivamente julgado na
+decisão monocrática. O segundo buscava submeter essa decisão à apreciação do Colegiado, mas não
+ultrapassou o exame de admissibilidade por ausência de impugnação específica. O dispositivo do
+acórdão embargado refere-se exclusivamente a esse agravo interno e está de acordo com seus
+fundamentos.
+Assim, inexiste a alegada contradição, revelando os embargos mero
+inconformismo da parte com a conclusão adotada na decisão monocrática, contra a quela não se
+insurgiu adequadamente no momento oportuno, finalidade para a qual não se prestam os embargos de
+declaração (arts. 897-A da CLT e 1.022 do CPC).
+Embargos de declaração rejeitados.
+ISTO POSTO
+ACORDAM os Ministros da Sexta Turma do Tribunal Superior do Trabalho, por
+unanimidade, rejeitar os embargos de declaração.
+Brasília, 9 de outubro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+ELEONORA BORDINI COCA
+Desembargadora Convocada Relatora
+Firmado por assinatura digital em 15/10/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006848EBD21308A70.
