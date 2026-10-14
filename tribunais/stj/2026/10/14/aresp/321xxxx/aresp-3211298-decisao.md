@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NANDO COMÉRCIO DE LANCHES LTDA, contra a inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (fls . 336-337):
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. PRELIMINARES SUSCITADAS. AUSÊNCIA DE DIALETICIDADE RECURSAL. INADEQUAÇÃO DA VIA ELEITA. REJEIÇÃO. MÉRITO. RECUSA JUSTIFICADA DO CREDOR. DESCONTO CONDICIONADO AO CUMPRIMENTO DE CRITÉRIOS ESTABELECIDOS PELA ADMINISTRAÇÃO. PRINCÍPIOS DA ISONOMIA E BOA- FÉ ADMINISTRATIVA NÃO VIOLADOS. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação Cível interposta contra sentença proferida pelo Juízo da 1ª Vara da Fazenda Pública Estadual e Municipal de Vitória/ES, que, nos autos da ação de consignação em pagamento ajuizada em face da Companhia de Transportes Urbanos da Grande Vitória (CETURB), julgou improcedente o pedido autoral. O autor busca a tutela jurisdicional para depositar valores que entende devidos pelo uso de espaço público, questionando a recusa do credor em aceitar o montante consignado.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) a verificação da ausência de dialeticidade recursal; (ii) a adequação da via eleita; e (iii) a legitimidade da recusa da CETURB em aceitar os valores consignados, à luz dos princípios da isonomia e boa-fé administrativa.
+III. RAZÕES DE DECIDIR
+3. Preliminar de ausência de dialeticidade recursal: Rejeitada, pois o recurso, ainda que reproduza argumentos já apresentados, delimita satisfatoriamente o objeto recursal e demonstra a irresignação da parte apelante, atendendo ao princípio da dialeticidade conforme entendimento pacificado do STJ. Precedentes.
+4. Preliminar de inadequação da via eleita: Rejeitada. A ação de consignação em pagamento é adequada quando o devedor busca exonerar-se da obrigação ante a recusa do credor em receber os valores, situação compatível com o pedido autoral.
+5. Mérito: A recusa da CETURB é legítima, pois a concessão do desconto de 50% no aluguel está condicionada ao cumprimento de requisitos objetivos, como a adesão ao Termo de Permissão de Uso e apresentação de documentação exigida, o que não foi realizado pelo apelante.
+6. Não há violação aos princípios da isonomia e boa-fé administrativa, uma vez que os critérios para concessão do desconto foram uniformemente aplicados a todos os lojistas que atenderam às exigências. A isonomia pressupõe tratamento igualitário apenas entre aqueles em situação equivalente, o que não é o caso do apelante.
+7. A ação consignatória não é meio adequado para discussão do mérito do contrato ou dos critérios aplicados pelo credor, limitando-se à análise da legitimidade da recusa e da adequação do valor depositado.
+IV. DISPOSITIVO E TESE
+8. Recurso desprovido.
+Tese de julgamento:
+1. A reprodução de argumentos anteriores na apelação não viola o princípio da dialeticidade se as razões recursais permitem identificar o pedido de reforma da sentença.
+2. A ação de consignação em pagamento é adequada para exonerar o devedor em face de controvérsias sobre o montante devido ou a recusa do credor em receber o valor.
+4. A recusa do credor é legítima quando condicionada ao cumprimento de critérios objetivos estabelecidos de forma clara e uniforme pela Administração.
+5. Não há violação ao princípio da isonomia quando o tratamento diferenciado decorre de condições legítimas e previamente definidas.
+ACÓRDÃO
+Decisão: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor: 027 - Gabinete Desª. DEBORA MARIA AMBOS CORREA DA SILVA
+Não foram opostos embargos declaratórios.
+Em seu recurso especial de fls. 362-368, a parte agravante alega vulneração aos incisos I e IV do parágrafo único do artigo 2º da Lei n. 9.784/99, bem como ao artigo 3º da Lei n. 8.666/93, em razão do tratamento diferenciado concedido aos lojistas que assinaram os novos Termos de Permissão de Uso.
+Alega que o acórdão recorrido, ao entender pela ausência de quebra da boa-fé administrativa, acabou por violar os incisos I e IV do parágrafo único do artigo 2º da Lei Federal n. 9.784/99.
+Sustenta que o artigo 3º da Lei n. 8.666/93 (Lei de Licitações aplicável à época) é claro no sentido de que a Administração Pública deve guardar a isonomia nos contratos administrativos e licitações.
+O Tribunal de origem, às fls. 387-390, não admitiu o recurso especial sob os seguintes fundamentos:
+Na espécie, verifica-se que o Recurso padece de manifesta deficiência de fundamentação, na medida em que se limita a apontar violação aos artigos 2º, parágrafo único, incisos I e IV, da Lei nº 9.784/99, e 3º, da Lei nº 8.666/93, sem, contudo, demonstrar como o aresto vergastado nega vigência aos aludidos dispositivos legais, o que atrai a aplicação, por analogia, a Súmula nº 284, do Excelso Supremo Tribunal Federal, verbo ad verbum:
+Súmula nº 284. Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia
+(..)
+Ademais, vislumbra-se que a causa não foi decidida à luz dos dispositivos legais suscitados pelo Recorrente em suas razões recursais (artigos 2º, parágrafo único, incisos I e IV, da Lei nº 9.784/99, e 3º, da Lei nº 8.666/93), o que impede a admissão do excepcional, por ausência de prequestionamento, a teor das Súmulas nº 282 e nº 356, do Excelso Supremo Tribunal Federal, aplicadas por analogia, verbatim:
+Súmula 282: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+(..)
+Com efeito, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (STJ, AgInt no AREsp 1596432/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/06/2021, DJe 17/06/2021).
+Além disso, rever a conclusão do Órgão Fracionário acerca do não preenchimento dos requisitos exigidos para a concessão do benefício de desconto de 50% no valor dos aluguéis, demandaria o reexame do acervo fático-probatório, o que revela-se inviável na presente via, tendo em vista o enunciado da Súmula nº 7, do Egrégio Superior Tribunal de Justiça, a qual estabelece que "A pretensão de simples reexame de prova não enseja recurso especial".
+Em seu agravo, às fls. 391-397, a parte agravante sustenta a inaplicabilidade da Súmula 284 do STF, ao argumento de ter demonstrado, de forma precisa, a alegada violação aos incisos I e IV do parágrafo único do artigo 2º da Lei Federal n. 9.784/1999.
+Afirma que o recurso especial contém tópico específico no qual demonstra a suposta afronta ao artigo 3º, caput, da Lei n. 8.666/1993.
+Aduz que, ao desconsiderar os fundamentos invocados no recurso, o acórdão recorrido incorreu em omissão, nos termos do artigo 489, § 1º, inciso IV, do Código de Processo Civil, além de confundir o juízo de admissibilidade com o exame do mérito recursal, cuja apreciação compete ao Superior Tribunal de Justiça.
+Quanto à ausência de prequestionamento, assevera que o acórdão recorrido examinou a matéria ao concluir pela inexistência de violação aos princípios da boa-fé administrativa e da isonomia. Defende, assim, que, embora não tenha havido menção expressa aos dispositivos legais invocados, a matéria foi efetivamente debatida, caracterizando-se o prequestionamento implícito, conforme entendimento pacífico do Superior Tribunal de Justiça, segundo a parte agravante.
+Por fim, afasta a necessidade de revolvimento do conjunto fático-probatório e, consequentemente, a incidência da Súmula 7 do STJ, ao sustentar que a controvérsia se limita à verificação de eventual violação aos incisos I e IV do parágrafo único do artigo 2º da Lei n. 9.784/1999 e ao artigo 3º da Lei n. 8.666/1993, em razão do tratamento diferenciado conferido aos lojistas que aderiram aos novos Termos de Permissão de Uso.
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte recorrente não contestou especificamente os argumentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou seguimento ao apelo raro, ora agravada, assentou-se em três fundamentos distintos: (i) incidência, por analogia, do enunciado 284 da Súmula do STF, diante da deficiência de fundamentação, consubstanciada na ausência de demonstração de como o acórdão recorrido teria violado os artigos 2º, parágrafo único, incisos I e IV, da Lei n. 9.784/1999, e 3º da Lei n. 8.666/1993; (ii) incidência, por analogia, dos enunciados 282 e 356 da Súmula do STF, em razão da ausência de prequestionamento dos dispositivos legais suscitados; e (iii) incidência do enunciado 7 da Súmula do STJ, ante a impossibilidade de reexame de fatos e provas na instância especial.
+Todavia, em seu agravo, a parte não refutou adequadamente aludidos fundamentos, os quais, à míngua de impugnação específica e pormenorizada, permanecem hígidos , produzindo todos os efeitos no cenário jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. BASE DE CÁLCULO DO ISSQN. ART. 7º DA LC N. 116/ 2003. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AUSÊNCIA. SÚMULA 280 DO STF. SILÊNCIO DO AGRAVANTE NO ARESP. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA 283 DO STF. INCIDÊNCIA.
+1. Segundo a jurisprudência do STJ, o agravante tem o ônus de impugnar, específica e adequadamente, todos os fundamentos autônomos adotados na decisão de inadmissibilidade proferida pelo Tribunal de origem, sob pena de não conhecimento do agravo em recurso especial, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.855.136/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/4/2026, DJEN de 27/4/2026.)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, §11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
