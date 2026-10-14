@@ -1,0 +1,1 @@
+Artigo 3° - Ficam dispensados das exigências estabelecidas no Anexo V, a que se refere o artigo 10 desta lei complementar, os atuais ocupantes de funções enquadradas nos empregos públicos de natureza permanente.

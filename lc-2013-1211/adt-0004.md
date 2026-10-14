@@ -1,0 +1,6 @@
+Artigo 4° - Em caráter excepcional, no primeiro processo de progressão a ser realizado em até 180 (cento e oitenta) dias após a publicação desta lei complementar, não será observado o disposto no §1° do artigo 12 desta lei complementar, desde que o empregado público permanente: (NR)
+I - em 31 de dezembro de 2012, conte com tempo de efetivo exercício superior a 6 (seis) anos na mesma função; (NR)
+II - na data estabelecida para fins de apuração do interstício conte, na classe a que pertença, com tempo de efetivo exercício igual ou superior à soma dos interstícios previstos para os graus que antecedem aquele ao qual pretenda concorrer;
+III - obtenha resultado positivo no processo anual de avaliação de desempenho, para o qual, no caso da progressão excepcional, fica estabelecido o percentual mínimo como média final de 50% (cinquenta por cento); (NR)
+IV - o tempo de serviço prestado pelo servidor ferroviário anteriormente à publicação da Lei Complementar n° 1.211, de 2013, será considerado para fins de progressão especial e respectivo enquadramento na letra correspondente. (NR)
+Parágrafo único - Para fins do disposto no inciso II deste artigo, considerar-se-á o tempo de serviço prestado sem solução de continuidade, na função cuja denominação foi alterada nos termos do artigo 1° destas Disposições Transitórias.
