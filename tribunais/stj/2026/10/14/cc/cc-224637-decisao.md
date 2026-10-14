@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo de Direita da 2ª Vara Cível, Criminal, e da Infância e Juventude de Extrema/MG, tendo por suscitado o Juízo de Direito da 2ª Vara Cível de Cotia/SP.
+A ação, na origem, distribuída na Comarca de Cotia/SP (local de realização do negócio jurídico e cumprimento da obrigação), trata de indenização por dano moral e material, com pedido de cancelamento de protesto.
+O Juízo de Direito da 2ª Vara Cível de Cotia/SP reconheceu sua incompetência, por entender haver conexão com ação de execução em trâmite na Comarca de Extrema/MG.
+Narra o suscitante a ausência de conexão entre as demandas, aduzindo que:
+"No caso sob exame, a ação ordinária originária versa sobre pedido indenizatório fundado em supostos vícios ocultos de fabricação de mercadorias (bases para colchões), inadimplemento de obrigações acessórias de garantia e conserto, além de danos morais decorrentes do protesto de faturas.
+Por sua vez, a execução em trâmite neste juízo (nº 5005779-94.2024.8.13.0251) ampara-se estritamente na cobrança de crédito líquido, certo e exigível corporificado em duplicatas mercantis inadimplidas.
+Não há falar em identidade de causa de pedir remota ou de pedidos, visto que a causa de pedir da execução reside no descumprimento cartular dos títulos de crédito, ao passo que a presente ação ordinária investiga a responsabilidade civil e a suposta falha na qualidade técnica da prestação de serviços e fornecimento de produtos." (e-STJ fls. 39)
+Afirma, ademais, que, em que pese "a sede da empresa autora localiza-se nesta Comarca de Extrema - MG, todavia, a causa de pedir declinada aponta que a relação comercial e a entrega/armazenamento dos produtos ocorria no galpão filial situado no município de Cotia - SP, local onde se verificou o fato gerador e o suposto prejuízo que ampara a pretensão indenizatória, atraindo a competência territorial do foro do lugar do ato ou fato para a ação de reparação de dano, nos termos do artigo 53, inciso IV, alínea "a", do Código de Processo Civil." (e-STJ fls. 38-41)
+O suscitado, a seu turno, acolhendo preliminar de contestação, reconheceu sua incompetência, pela conexão, eis que os títulos protestados em relação aos quais o autor pretende o cancelamento e compensação são objetos de ação de execução na Comarca de Extrema/MG. (e-STJ fls. 36)
+É o relatório.
+Decido.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+O Juiz natural é garantia constitucional das partes, expressa no art. 5º, inciso LIII, da Constituição Federal, que dispõe que "ninguém será processado nem sentenciado senão pela autoridade competente".
+Nos termos do art. 66 do Código de Processo Civil, há conflito de competência quando dois ou mais juízes se declaram competentes, quando dois ou mais juízes se declaram incompetentes, atribuindo um ao outro a competência, ou quando surge controvérsia acerca da reunião ou separação de processos entre dois ou mais juízes.
+O entendimento consolidado do Superior Tribunal de Justiça é de que "Para se caracterizar o conflito de competência, é necessária a manifestação expressa de dois ou mais juízos que se considerem competentes, ou incompetentes, para processar e julgar a mesma demanda. Desserve ao fim de sanear toda e quaisquer questões conflitantes em um processo." (AgInt no CC n. 206.377/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/10/2024, DJe de 5/11/2024.)
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A controvérsia em destaque diz respeito à fixação do Juízo competente para processamento e julgamento de ação de indenização por dano moral e material, com pedido de cancelamento de protesto, em que a parte pretende a compensação dos valores devidos entre as partes, bem como a suspensão dos protestos decorrentes dos títulos não pagos. (e-STJ fls. 5-34).
+Sobre a modificação da competência pela conexão, ensina o CPC:
+CPC. Art. 54. A competência relativa poderá modificar-se pela conexão ou pela continência, observado o disposto nesta Seção.
+Art. 55. Reputam-se conexas 2 (duas) ou mais ações quando lhes for comum o pedido ou a causa de pedir.
+§ 1º Os processos de ações conexas serão reunidos para decisão conjunta, salvo se um deles já houver sido sentenciado.
+§ 2º Aplica-se o disposto no caput:
+I - à execução de título extrajudicial e à ação de conhecimento relativa ao mesmo ato jurídico;
+II - às execuções fundadas no mesmo título executivo.
+§ 3º Serão reunidos para julgamento conjunto os processos que possam gerar risco de prolação de decisões conflitantes ou contraditórias caso decididos separadamente, mesmo sem conexão entre eles.
+O caso em análise se amolda ao disposto no art. 55, §1º e §2º, I do CPC, visto que a parte autora pretende a compensação das supostas dívidas da ré, com as que estão sendo objeto de cobrança na ação de execução extrajudicial em tramite na Comarca de Extrema, bem como o cancelamento dos protestos que decorrem do não pagamento dos referidos títulos da execução.
+É o que se denota dos pedidos formulados na inicial:
+"3. No mérito, a confirmação da tutela concedida, sendo a presente Ação julgada TOTALMENTE PROCEDENTE, condenando as Rés na obrigação de fazer, para que cancele os protestos indicados, bem como, arque com todo e qualquer custo relativo à sua baixa, de forma imediata;
+4. A declaração de autorização de compensação dos valores devidos às partes, uma vez que a Autora devia as Rés o valor de R$193.756,00 (cento e noventa e três mil, setecentos e cinquenta e seis reais), mas causou prejuízo a Autora na quantia de R$260.216,00 (duzentos e sessenta mil, duzentos e dezesseis reais). Diante da autorização da compensação, devem ainda as Rés à Autora, o valor de R$66.460,00 (sessenta e seis mil, quatrocentos e sessenta reais); "
+Assim, "Nos termos do art. 55, caput, e §§ 2º, I, e 3º, do CPC/2015, reputam-se conexas 2 (duas) ou mais ações quando lhes for comum o pedido ou a causa de pedir, regra que se aplica à execução de título extrajudicial e à ação de conhecimento relativa ao mesmo ato jurídico. Deve-se também reunir para julgamento conjunto os processos que possam gerar risco de prolação de decisões conflitantes ou contraditórias caso decididos separadamente, mesmo sem conexão entre eles." (AgInt no AgInt no CC n. 176.677/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 20/9/2022, DJe de 27/9/2022.)
+Em sentido semlhante:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. PRINCÍPIO DA FUNGIBILIDADE. AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. EXCEÇÃO DE INCOMPETÊNCIA. OPOSIÇÃO MÚTUA. ART. 117 DO CPC. NÃO APLICAÇÃO. CONHECIMENTO DO CONFLITO. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONEXÃO. CLÁUSULA DE ELEIÇÃO DE FORO. AUSÊNCIA DE RELAÇÃO DE CONSUMO. VALIDADE.
+1. Admitem-se como agravo regimental embargos de declaração opostos a decisão monocrática. Princípios da economia processual e da fungibilidade.
+2. Em caso de oposição mútua de duas exceções de incompetência em juízos diversos, deve ser afastada a vedação do art. 117 do CPC para se conhecer do conflito com base no princípio da segurança jurídica e afastar a possibilidade de decisões conflitantes, quando não verificado o propósito de paralisar o andamento dos feitos.
+3. Há conexão entre ação de execução de título extrajudicial e ação de revisão contratual baseada na mesma cédula de crédito bancário, devendo ser determinada a reunião de feitos.
+4. É válida a cláusula de eleição de foro pactuada entre pessoas jurídicas, desde que inexistente vulnerabilidade de uma das partes ou dificuldade de acesso à Justiça.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no CC n. 139.782/GO, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 25/11/2015, DJe de 27/11/2015.)
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo de Direita da 2ª Vara Cível, Criminal, e da Infância e Juventude de Extrema/MG, para processar e julgar a demanda na origem.
+Publique-se. Intimem-se
+ EMENTA
