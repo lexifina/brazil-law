@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional do Seguro Social contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3 ª Região, assim ementado (fls. 227/228):
+DIREITO PREVIDENCIÁRIO. APELAÇÃO CÍVEL. BENEFÍCIO POR INCAPACIDADE. DOENÇA DE KIENBOCK NO PUNHO ESQUERDO. INCAPACIDADE TOTAL E PERMANENTE. QUALIDADE DE SEGURADO COMPROVADA. CONCESSÃO DE APOSENTADORIA POR INVALIDEZ. TERMO INICIAL NA DATA DO REQUERIMENTO ADMINISTRATIVO. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Ação previdenciária ajuizada visando à concessão de benefício por incapacidade (aposentadoria por invalidez ou auxílio-doença). A sentença julgou o pedido improcedente. A parte autora apelou, sustentando incapacidade laboral para o exercício da profissão de cabeleireira.
+II. QUESTÃO EM DISCUSSÃO
+1. Há duas questões em discussão: (i) definir se a parte autora comprovou a qualidade de segurada e a carência necessária; (ii) estabelecer se a incapacidade laboral verificada justifica a concessão de aposentadoria por invalidez.
+III. RAZÕES DE DECIDIR
+1. A Constituição Federal (art. 201, I) e a Lei nº 8.213/91 (arts. 42 e 59) asseguram benefícios por incapacidade, sendo a aposentadoria por invalidez devida quando comprovada incapacidade total e permanente sem possibilidade de reabilitação.
+2. O laudo pericial constatou que a autora é portadora de doença de Kienbock no punho esquerdo, irreversível e sem perspectiva de cura, resultando em incapacidade total e permanente para a atividade habitual de cabeleireira.
+3. A despeito da recomendação de reabilitação profissional, o histórico laboral da autora e o caráter permanente da lesão tornam inviável a reinserção em outra atividade que assegure subsistência.
+4. A qualidade de segurada restou comprovada, visto que a autora esteve filiada ao RGPS como contribuinte individual no período de 01/05/2022 a 31/05/2023.
+5. Conforme a Súmula nº 576 do STJ, o termo inicial do benefício deve ser fixado na data do requerimento administrativo, realizado em 29/11/2023.
+6. Os juros e a correção monetária incidem conforme o Manual de Cálculos da Justiça Federal até a EC nº 113/2021, sendo aplicável exclusivamente a taxa Selic a partir desta.
+7. Honorários advocatícios fixados em 10% das parcelas vencidas até a decisão concessória, nos termos da Súmula nº 111 e do Tema 1105 do STJ.
+IV. DISPOSITIVO E TESE
+Recurso provido
+Tese de julgamento:
+1. A aposentadoria por invalidez é devida ao segurado cuja incapacidade laboral seja total, permanente e sem possibilidade de reabilitação profissional.
+2. A qualidade de segurado deve estar comprovada no momento do fato gerador da incapacidade.
+3. O termo inicial do benefício por incapacidade deve ser fixado na data do requerimento administrativo, salvo situações excepcionais.
+Opostos embargos de declaração (fl. 235/237), foram rejeitados (fls. 277/278).
+Nas razões do recurso especial, a Autarquia ora recorrente aponta, além de divergência jurisprudencial, contrariedade aos arts. 489 e 1.022 do CPC, alegando ausência de fundamentação e omissão no acórdão recorrido "quanto ao exame da qualidade de segurado frente aos recolhimentos extemporâneos efetuados após a DII" (fl. 281).
+Aduz, também, violação aos arts. 30, I, da Lei n. 8.212/1991, e 27, II, da Lei 8.213/1991, contestando que " o  v. Acórdão recorrido reconheceu a qualidade de segurado da parte autora com fundamento exclusivo na existência das competências 05/2022 a 05/2023, sem verificar se alguma dessas contribuições foi recolhida tempestivamente nem se a cronologia dos recolhimentos guardava conformidade com a DII fixada pelo perito" (fl. 282).
+Por fim, sustentou afronta aos arts. 95, §5º, e 201, §1º, da Constituição Federal, ao argumento de que " a  interpretação consagrada no v. Acórdão cria, na prática, um seguro seletivo às avessas: o indivíduo aguarda a consolidação do sinistro para, somente então, ingressar formalmente no sistema previdenciário mediante recolhimentos extemporâneos, e imediatamente pleitear o benefício correspondente ao risco já consumado", de modo que "importa em interpretação infraconstitucional incompatível com os princípios do custeio prévio e do equilíbrio atuarial" (fl. 283), como razões para a interposição do apelo nobre.
+Todavia, em juízo negativo de admissibilidade, decidiu a Vice-presidência do TRF-3 inadmitir o apelo nobre da Autarquia ora agravante porque "não cabe o recurso por eventual violação aos artigos 489 e 1.022 do Código de Processo Civil, porquanto o acórdão recorrido enfrentou o cerne da controvérsia submetida ao Judiciário" (fl. 293), e também "por restar evidente o anseio da recorrente pelo reexame dos fatos e provas dos autos, o que não se compadece com a natureza do recurso especial, consoante o enunciado da Súmula nº 7, do colendo Superior Tribunal de Justiça" (fl. 295).
+Irresignada com a decisão da Corte Federal, a Autarquia ora recorrente ofereceu agravo às fls. 298/303, onde impugnou de forma devida e apropriada os fundamentos da inadmissibilidade.
+Regularmente intimada, a parte agravada apresentou suas contrarrazões às fls. 305/309.
+Rec urso tempestivo.
+Representação pela Procuradoria-Geral Federal - Equipe Previdenciária de Tribunais da 3ª Região.
+É O NECESSÁRIO RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida, pois a Autarquia ora agravante, nas razões dos embargos de declaração e do recurso especial, questionou que " o  acórdão  apresentou  omissão na análise da qualidade de segurado" pois " a  parte autora efetuou recolhimentos na condição de contribuinte individual relativos ao período de 01/2021, 03/2021, 05/2022 A 05/2023, sendo todos os pagamentos efetuados de forma extemporânea e em data posterior à DII, quando já conhecia sua condição de saúde e o estado incapacitante" (fl. 235, g.n.) e asseverou que " houve  omissão do v. Acórdão quanto ao exame da qualidade de segurado frente aos recolhimentos extemporâneos efetuados após a DI" (fl. 281, g.n.).
+Contudo, o Tribunal de origem quedou silente sobre tais argumentações, rejeitando os pertinentes aclaratórios da Autarquia ora agravante, visto que tão somente replicou parte dos termos do acórdão recorrido (fl. 270), sem demonstrar, particularizadamente, a aus ência da alegada omissão, e limitando-se a afirmar, genericamente, que " a  fundamentação foi clara no sentido de que a parte autora possuía qualidade de segurado na data de início da incapacidade, tendo em vista suas contribuições ao RGPS na qualidade de contribuinte individual" (fl. 270) em franca violaç ão aos arts. 489 e 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial para anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões aqui tidas por omitidas.
+ EMENTA
