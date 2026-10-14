@@ -1,0 +1,124 @@
+DECISÃO
+
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ALEGADA NULIDADE DAS PROVAS. QUEBRA DA CADEIA DE CUSTÓDIA. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 14 DO SUPREMO TRIBUNAL FEDERAL NÃO COMPROVADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+1. Habeas corpus, com requerimento de medida liminar, impetrado por Brizola Marques Ribeiro Filho, advogado, em 13.10.2026, em benefício de Eduardo Pereira de Almeida, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, pelo qual, em sessão virtual de 1º.10.2026 a 8.10.2026, negado provimento ao Agravo Regimental no Recurso em Habeas Corpus n. 232.174/RS, Relatora a Desembargadora convocada Nilsoni de Freitas.
+O caso
+2. Consta do processo ter sido o paciente denunciado, com outros corréus, pela prática dos crimes de tráfico e associação para o tráfico de drogas (caput do art. 33 e caput do art. 35 da Lei n. 11.343/2006).
+
+Em 3.11.2025, o juízo da Primeira Vara Judicial da comarca de Teutônia/RS indeferiu pedido de declaração de quebra da cadeia de custódia formulado pela defesa (fl. 1.134, e-doc. 5).
+
+3. A defesa impetrou o Habeas Corpus n. 5360896-64.2025.8.21.7000 no Tribunal de Justiça do Rio Grande do Sul, não conhecido em decisão monocrática. Interpôs agravo interno, desprovido pelo Tribunal estadual, em acórdão com a seguinte ementa:
+“AGRAVO INTERNO. HABEAS CORPUS NÃO CONHECIDO. QUEBRA DA CADEIA DE CUSTÓDIA E INADEQUAÇÃO DA VIA ELEITA. DESPROVIMENTO DO RECURSO.
+I. CASO EM EXAME:
+1. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO HABEAS CORPUS IMPETRADO EM FAVOR DO PACIENTE.
+II. QUESTÃO EM DISCUSSÃO:
+1. A QUESTÃO EM DISCUSSÃO CONSISTE EM SABER SE HÁ MOTIVOS PARA REFORMAR A DECISÃO MONOCRÁTICA, DE FORMA A CONHECER DO HABEAS CORPUS E CONCEDER A ORDEM ALMEJADA.
+III. RAZÕES DE DECIDIR:
+1. O HABEAS CORPUS É UMA AÇÃO MANDAMENTAL COM STATUS CONSTITUCIONAL, PREVISTA NO ARTIGO 5º, INCISO LXVIII, DA CF/1988, DESTINADA A PROTEGER A LIBERDADE DE LOCOMOÇÃO CONTRA VIOLÊNCIA OU COAÇÃO ILEGAL, NÃO SENDO CABÍVEL QUANDO A COAÇÃO NÃO AFETA DIRETAMENTE ESSE DIREITO.
+2. O PLEITO ALMEJA O RECONHECIMENTO DA QUEBRA DE CUSTÓDIA DA PROVA DIGITAL E O ACESSO INTEGRAL À PROVA, QUESTÕES QUE NÃO SE ENQUADRAM NAS HIPÓTESES DE COAÇÃO ILEGAL PREVISTAS NO ARTIGO 648 DO CPP.
+3. A DEFESA DO PACIENTE POSSUI AMPLO ACESSO A TODOS OS ELEMENTOS DE PROVA COLHIDOS ATÉ O MOMENTO, NÃO HAVENDO VIOLAÇÃO À PARIDADE DE ARMAS, UMA VEZ QUE O MINISTÉRIO PÚBLICO POSSUI ACESSO AOS MESMOS AUTOS E DADOS.
+4. O JUÍZO DE ORIGEM TEM SIDO DILIGENTE QUANTO AOS PEDIDOS DEFENSIVOS, OFICIANDO A AUTORIDADE POLICIAL PARA ESCLARECIMENTOS E APRESENTAÇÃO DE DOCUMENTOS, NÃO SE VERIFICANDO VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO.
+5. A ANÁLISE DA CADEIA DE CUSTÓDIA DA PROVA DEVE SER REALIZADA EM CONJUNTO COM OS ELEMENTOS PRODUZIDOS NA INSTRUÇÃO, SENDO NECESSÁRIA MAIOR DILAÇÃO PROBATÓRIA E CUMPRIMENTO DAS DILIGÊNCIAS PENDENTES PARA POSTERIOR ANÁLISE DA QUESTÃO.
+6. NÃO HÁ COMPROVAÇÃO POR PARTE DA DEFESA DE QUALQUER ADULTERAÇÃO NO ITER PROBATÓRIO OU ELEMENTOS QUE DEMONSTREM QUE HOUVE ADULTERAÇÃO DA PROVA, ALTERAÇÃO NA ORDEM CRONOLÓGICA DOS DIÁLOGOS OU INTERFERÊNCIA QUE INVALIDE A PROVA.
+7. CASO EM QUE, PELA INTERPOSIÇÃO DO AGRAVO INTERNO, NÃO HÁ QUALQUER FATO NOVO RELEVANTE PARA RESOLUÇÃO DO CASO, E CINGEM-SE A REPETIR QUESTÕES JÁ ANALISADAS NA OCASIÃO DO JULGAMENTO DO HABEAS CORPUS..
+IV. DISPOSITIVO E TESE:
+1. RECURSO DESPROVIDO” (fls. 1-2, e-doc. 2).
+
+4. Contra esse acórdão a defesa interpôs o Recurso em Habeas Corpus n. 232.174/RS no Superior Tribunal de Justiça. Em 16.4.2026, o então Relator, Ministro Antonio Saldanha Palheiro, negou provimento ao recurso.
+
+Essa decisão foi ratificada pela Sexta Turma, que, em sessão virtual de 1º.10.2026 a 8.10.2026, negou provimento ao agravo regimental interposto pela defesa. Esta a ementa do julgado:
+“DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. CADEIA DE CUSTÓDIA DE PROVA DIGITAL. ACESSO A ELEMENTOS DE PROVA. SÚMULA VINCULANTE N. 14. VIA ESTREITA DO HABEAS CORPUS. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso em habeas corpus.
+2. Recorrente denunciado pela suposta prática de tráfico de drogas e associação para tal fim. A defesa sustenta quebra da cadeia de custódia dos dados extraídos de aparelhos celulares, seleção de trechos e negativa de acesso integral ao conteúdo (UFED Reader do Cellebrite), com ofensa à Súmula Vinculante n. 14, postulando a nulidade das provas digitais e, subsidiariamente, o franqueamento de acesso integral.
+3. Tribunal de origem não conheceu do habeas corpus por inadequação da via. A decisão agravada consignou inexistência de indícios de adulteração da prova, franqueamento de acesso aos elementos documentados e necessidade de dilação probatória para eventual exame da cadeia de custódia.
+II. Questão em discussão
+4. Há quatro questões em discussão: (i) saber se a alegada quebra da cadeia de custódia dos dados digitais extraídos dos celulares apreendidos autoriza a nulidade das provas; (ii) saber se a seleção de trechos implica cerceamento de defesa ou invalidação da prova; (iii) saber se houve violação à ampla defesa e ao contraditório, com descumprimento da Súmula Vinculante n. 14, a justificar o acesso integral ao UFED Reader do Cellebrite; e (iv) saber se o recurso em habeas corpus comporta o reexame aprofundado do conjunto fático-probatório para aferir a higidez da cadeia de custódia e da prova digital.
+III. Razões de decidir
+5. A quebra da cadeia de custódia não configura nulidade automática e se relaciona à eficácia da prova, impondo a demonstração concreta de risco de adulteração. No caso, a defesa não comprovou qualquer interferência ou alteração no iter probatório; a extração de dados ocorreu após autorização judicial e, aparentemente, com observância de procedimentos técnicos, sem indícios de mácula.
+6. É legítima a seleção, pela perícia, de elementos relevantes ao objeto da investigação, não se exigindo a juntada ou transcrição integral de todo o conteúdo armazenado, desde que assegurado às partes o acesso aos elementos que fundamentam a acusação, inexistindo cerceamento de defesa.
+7. Não houve violação aos princípios da ampla defesa e do contraditório. O juízo de origem franqueou acesso aos expedientes relacionados ao caso e diligenciou quanto aos pedidos defensivos. A Súmula Vinculante n. 14 assegura acesso aos elementos já documentados, não abrangendo diligências em curso ou informações sigilosas de terceiros.
+8. O reexame aprofundado do conjunto fático-probatório para infirmar as conclusões da origem sobre a higidez da prova é inviável na via estreita do habeas corpus e de seu agravo regimental.
+IV. Dispositivo
+9. Agravo regimental não provido” (fls. 1-2, e-doc. 6).
+
+5. Esse acórdão é objeto do presente habeas corpus. O impetrante sustenta nulidade das provas pela alegada quebra da cadeia de custódia e cerceamento de defesa por negativa de acesso à integralidade da prova.
+
+Assevera que “a imputação acusatória contra o paciente baseia-se fundamentalmente em fragmentos de conversas de WhatsApp colhidos do celular de corréu (Evento 1, DENUNCIA1, p. 5-6). Todavia, o que consta encartado aos autos principais resume-se a imagens fotográficas (prints) pinçadas unilateralmente pelos investigadores, sem qualquer acesso à base bruta ou à integralidade das mensagens trocadas” (fl. 5, e-doc. 1).
+
+Alega que, “ao impedir o acesso aos arquivos integrais do software extrator (UFED Reader da Cellebrite) ou aos dados brutos sob custódia policial (Evento 64, PET1 e Evento 74, PET1), obrigando o paciente a apresentar resposta preliminar no escuro, o Juízo de origem e as instâncias recursais impuseram patente cerceamento de defesa” (fl. 6, e-doc. 1).
+
+Argumenta que “a impossibilidade de conferência e auditabilidade da prova digital fere a própria razão de ser da paridade de armas. A defesa técnica não pode ficar subordinada ao recorte acusatório unilateral promovido pela polícia judiciária, máxime quando este mesmo órgão certifica a ausência de metodologia padronizada e a restituição precipitada de terminais” (fl. 6, e-doc. 1).
+
+Assinala que “a autoridade policial admitiu expressamente que a extração dos dados do terminal de Luan Felipe Muller foi feita manualmente e que o aparelho foi devolvido sem preservação integral (Evento 61, CERT1, p. 1). Em momento posterior, noticiou a realização de cópia em disco rígido externo, mas não disponibilizou o arquivo à defesa técnica e justificou atrasos na precariedade de máquinas” (fl. 7, e-doc. 1).
+
+Estes os requerimentos e pedidos:
+“a) a concessão de medida liminar, inaudita altera parte, para suspender imediatamente o andamento da Ação Penal nº 5003120-12.2023.8.21.0159, em curso perante a 1ª Vara Judicial da Comarca de Teutônia/RS, obstando a exigibilidade de apresentação de defesa prévia e a realização de quaisquer atos instrutórios até o julgamento definitivo do presente writ;
+b) no mérito, a concessão definitiva da ordem de habeas corpus para anular a decisão que determinou a apresentação de resposta à acusação sem a prévia e integral disponibilização da prova digital, declarando a nulidade absoluta da prova decorrente da extração de dados telemáticos e de captura de telas realizada no aparelho celular do corréu Luan Felipe Muller, bem como de todas as provas que dela derivem, com o consequente desentranhamento dos autos da ação penal de origem, com fulcro no artigo 157, caput e § 1º, do Código de Processo Penal;
+c) subsidiariamente, na remota hipótese de não reconhecimento da ilicitude de plano, seja concedida a ordem para determinar o sobrestamento do prazo para resposta à acusação e o imediato e integral franqueamento à defesa do paciente de todo o material bruto extraído dos aparelhos celulares apreendidos, notadamente o arquivo completo do UFED Reader do Cellebrite e cópias espelhadas em HD externo, conferindo-se cumprimento pleno à Súmula Vinculante 14 deste Supremo Tribunal Federal;
+d) a extensão dos efeitos da ordem aos corréus Luan Felipe Muller e Yago Henrique Schwarz, nos termos do artigo 580 do Código de Processo Penal, por se encontrarem em situação fático-processual idêntica no que tange à imputação decorrente dos mesmos elementos informativos;
+e) a solicitação de informações à autoridade coatora (Sexta Turma do Superior Tribunal de Justiça) e a subsequente intimação da Procuradoria-Geral da República para manifestação” (fls. 8-9, e-doc. 1).
+
+Examinada a matéria posta à apreciação, DECIDO.
+
+6. Razão jurídica não assiste ao impetrante.
+
+7. Ao denegar o habeas corpus impetrado em benefício do paciente, a Sexta Turma do Superior Tribunal de Justiça afastou a pretensa ilegalidade das provas por quebra da cadeia de custódia e o alegado cerceamento de defesa, nestes termos:
+“A despeito dos argumentos apresentados pelo agravante, não vislumbro motivos para alterar a decisão ora impugnada, a qual deve ser integralmente mantida.
+Consignei, inicialmente, que, nos termos da jurisprudência desta Corte Superior, a quebra da cadeia de custódia não configura invariavelmente causa de nulidade processual, mas está relacionada à eficácia da prova, a ser sopesada em cada caso concreto.
+A doutrina de escol conceitua cadeia de custódia como um ‘método por meio do qual se pretende preservar a integridade do elemento probatório e assegurar sua autenticidade em contexto de investigação e processo’ (PRADO, Geraldo. A cadeia de custódia da prova no processo penal. 2ª. Ed. Marcial Pons, Rio de Janeiro, 2021, pág. 162).
+Na situação vertente, constou do aresto vergastado que ‘não houve comprovação por parte da defesa de qualquer adulteração no iter probatório. Ademais, não foi trazido nenhum elemento que demonstre que houve adulteração da prova [...] Na hipótese, por ora, aparentemente foram observados os procedimentos técnicos para garantir a integridade dos arquivos extraídos dos celulares apreendidos em poder dos acusados, havendo indicação de como foram obtidos e como foram tratados. Portanto, não há qualquer elemento que permita acolher a pretensão defensiva que, de qualquer modo, poderá ser examinadas de maneira ampla e aprofundada no curso da ação penal’ (e-STJ fl. 1.633, grifo nosso).
+Na linha dos precedentes desta Corte, não há que se falar em ‘quebra da cadeia de custódia quando não evidenciado risco concreto de adulteração da prova’ (AgRg no HC n. 966.080/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/5/2025, DJEN de 19/5/2025).
+É dizer, ‘'o instituto da quebra da cadeia de custódia refere-se à idoneidade do caminho que deve ser percorrido pela prova até sua análise pelo magistrado, e, uma vez ocorrida qualquer interferência durante o trâmite processual, esta pode resultar na sua imprestabilidade. [...] Não é o que se tem no caso dos autos, em que não houve comprovação por parte da defesa acerca de qualquer adulteração no iter probatório' (AgRg no HC n. 665.948/MS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 24/8/2021, DJe de 30/8/2021)’ (AgRg no RHC n. 209.764/RJ, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 30/4/2025, DJEN de 8/5/2025, grifo nosso). (...)
+Ademais, ‘para se alterar a conclusão a que chegou a origem, soberana em matéria de fatos e provas, seria necessária uma incursão aprofundada no caderno processual principal - o que não se mostra permitido na presente via estreita’ (AgRg no AgRg no HC n. 843.649/RO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/8/2024, DJe de 16/8/2024).
+Quanto à violação ao princípio da ampla defesa e do contraditório, e, portanto, do verbete 14 da Súmula Vinculante, verificou-se que, ao compulsar o acórdão recorrido, ‘ainda não foram aportados aos autos todos os relatórios formulados pela autoridade policial quanto à extração de dados deferida por ordem judicial", porquanto ‘o feito pende de apresentação das defesas prévias e do relatório de extração de dados do aparelho celular do paciente [...] No mais, não verifico violação aos princípios da ampla defesa e do contraditório, pois, conforme se depreende dos autos, o juízo da origem concedeu acesso à defesa a todos os expedientes que dizem respeito ao caso, bem como foi diligente quanto aos pedidos defensivos realizados, oficiando a autoridade policial para esclarecimentos e apresentação de documentos’ (e-STJ fl. 1.632, grifo nosso.).
+Consoante já decidiu o Supremo Tribunal Federal, mutatis mutandis, ‘o direito assegurado ao indiciado (bem como ao seu defensor) de acesso aos elementos constantes em procedimento investigatório que lhe digam respeito e que já se encontrem documentados nos autos, não abrange, por óbvio, as informações concernentes à decretação e à realização das diligências investigatórias [...]’ (STF, EDcl no HC n. 94.387/RS, Primeira Turma, relator Ministro Ricardo Lewandowski, DJe de 21/5/2010, grifo nosso.).
+Nesse sentido, também é o entendimento desta Corte: (...)
+Por fim, ‘a jurisprudência das Cortes Superiores admite a seleção, pela perícia, de elementos relevantes ao objeto da investigação, não exigindo a juntada ou transcrição integral de todo o conteúdo armazenado, desde que assegurado às partes o acesso aos elementos que fundam a acusação, inexistindo nulidade sem demonstração de efetivo cerceamento de defesa’ (AgRg no RHC n. 226.790/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 15/4/2026, DJEN de 22/4/2026, grifo nosso.), razão pela qual não há que se falar em cerceamento de defesa consubstanciado na ‘seleção discricionária de trechos efetuada pela autoridade policial’ (e-STJ fl. 1.736).
+No mesmo sentido o parecer ministerial, cujo excerto trago à colação (e-STJ fls. 1.713/1.714, grifo nosso.):
+O Tribunal a quo não conheceu do writ interposto originalmente por entender que a Defesa já possuía amplo acesso a todos os elementos de prova apresentados até aquele momento e, ainda, que o MP tinha acesso aos mesmos autos e dados disponibilizados ao recorrente. Ademais, consignou que o magistrado singular havia deferido os pedidos formulados pela Defesa em relação a tais arguições, oficiando a autoridade policial para esclarecimentos e apresentação de documentos. Registrou que ‘A análise da cadeia de custódia da prova deve ser realizada em conjunto com os elementos produzidos na instrução, sendo necessária maior dilação probatória e cumprimento das diligências pendentes para posterior análise da questão’ (f. 1580-1585).
+No agravo interno interposto pela Defesa, o TJRS manteve a decisão anterior, sob os mesmos fundamentos (f. 1630-1634).
+Nos termos da jurisprudência do STJ, ‘a quebra de cadeia de custódia não configura exatamente nulidade processual, mas está relacionada à eficácia da prova e, nesse sentido, a defesa não comprovou nenhuma circunstância capaz de sugerir a adulteração da prova ou intercorrências no seu iter, mesmo prejuízo decorrente de eventual ocorrência da falha na prova’ (AgRg no HC n. 958.288/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025). Ainda segundo o entendimento do STJ, ‘A alegação de quebra da cadeia de custódia dos registros de conversas via WhatsApp não foi comprovada, e a revisão dessa conclusão demandaria o reexame do conjunto fático probatório, o que é vedado’ (AgRg no AREsp n. 2.758.623/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/4/2025, DJEN de 28/4/2025).
+Na hipótese dos autos, o Tribunal consignou, expressamente, que ‘a extração de dados ocorreu após autorização judicial, sendo a prova disponibilizada integralmente para as defesas no curso da instrução processual, não havendo indício de mácula das provas técnicas, periciais e digitais juntadas nos autos’ (f. 1584). Em que pese os argumentos defensivos, rever o entendimento do TJRS a esse respeito exige o reexame do contexto fático probatório, inviável na via estreita do habeas corpus.
+Por fim, entendo que a análise sobre suposta quebra da cadeia de custódia da prova ou eventual invalidade dos elementos de informação oriundos da fase investigativa poderá ser melhor examinada durante a instrução processual, onde as partes terão a oportunidade de se manifestaram com mais delonga, apresentando provas documentais ou dados adicionais relacionados à matéria.
+Assim, não há constrangimento ilegal a ser reparado nessa instância.
+Dessarte, nada obsta, portanto, que a avaliação relativa à eventual quebra na cadeia de custódia ocorra após a conclusão do iter procedimental, quando da prolação da sentença, realizado o devido cotejo de todas as provas produzidas nos autos.
+Ante o exposto, nego provimento ao agravo regimental” (fls. 5-9, e-doc. 6).
+
+8. A alegação de nulidade da prova decorrente da quebra da cadeia de custódia foi analisada e rejeitada pelas instâncias antecedentes, que, com fundamento nas circunstâncias específicas do caso, concluíram improcedente a nulidade suscitada.
+
+O Tribunal estadual realçou que “não houve comprovação por parte da defesa de qualquer adulteração no iter probatório. Ademais, não foi trazido nenhum elemento que demonstre que houve adulteração da prova [...] Na hipótese, por ora, aparentemente foram observados os procedimentos técnicos para garantir a integridade dos arquivos extraídos dos celulares apreendidos em poder dos acusados, havendo indicação de como foram obtidos e como foram tratados. Portanto, não há qualquer elemento que permita acolher a pretensão defensiva que, de qualquer modo, poderá ser examinada de maneira ampla e aprofundada no curso da ação penal”.
+
+Para rever os elementos adotados nas instâncias antecedentes,  seria imprescindível reexaminar os fatos e as provas da ação penal, ao que não se presta o habeas corpus, não se evidenciando, na questão controvertida, com os elementos disponíveis, teratologia ou flagrante constrangimento ilegal.
+
+Este Supremo Tribunal firmou jurisprudência de que “o processo de habeas corpus, que tem caráter essencialmente documental, não se mostra juridicamente adequado quando utilizado com o objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento” (RHC n. 138.119-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 7.2.2019). Confiram-se também, por exemplo, os seguintes julgados:
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE TRIBUNAL SUPERIOR. INVIABILIDADE. SUPRESSÃO DE INSTÂNCIA. APROPRIAÇÃO INDÉBITA MAJORADA, RECEPTAÇÃO QUALIFICADA E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ALEGAÇÃO DE QUEBRA DA CADEIA DE CUSTÓDIA E AUSÊNCIA DE AUTORIA. REEXAME DE FATOS E PROVAS: INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO” (HC n. 256.171-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 18.6.2025).
+
+“DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. QUEBRA DA CADEIA DE CUSTÓDIA. NÃO DEMONSTRAÇÃO. REEXAME
+FÁTICO-PROBATÓRIO: INVIABILIDADE.
+1. A configuração de comprometimento da cadeia de custódia pressupõe a existência de irregularidades no procedimento de colheita e conservação da prova, o que deve estar devidamente demonstrado.
+2. A alegação de que a coleta dos dados tenha sido realizada
+de forma manual não implica, necessariamente, invalidade do procedimento.
+3. A matéria articulada não é passível de ser analisada com profundidade no âmbito da via estreita do habeas corpus, posto que eventual acolhimento da tese de nulidade, em razão da quebra da cadeia de custódia, demandaria o revolvimento do conjunto
+fático-probatório. Precedentes. (...)
+5. Agravo regimental ao qual se nega provimento” (HC
+n. 246.265-AgR, Relator o Ministro André Mendonça, Segunda Turma, DJe 6.12.2024).
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE NULIDADE POR QUEBRA DA CADEIA DE CUSTÓDIA. REEXAME DE FATOS E PROVAS. VIA INADEQUADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (HC n. 231.635-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 9.10.2023).
+
+9. Não está demonstrada a contrariedade à Súmula Vinculante n. 14 deste Supremo Tribunal, pois as instâncias antecedentes assentaram que, “’ainda não foram aportados aos autos todos os relatórios formulados pela autoridade policial quanto à extração de dados deferida por ordem judicial’, porquanto ‘o feito pende de apresentação das defesas prévias e do relatório de extração de dados do aparelho celular do paciente [...] No mais, não verifico violação aos princípios da ampla defesa e do contraditório, pois, conforme se depreende dos autos, o juízo da origem concedeu acesso à defesa a todos os expedientes que dizem respeito ao caso, bem como foi diligente quanto aos pedidos defensivos realizados, oficiando a autoridade policial para esclarecimentos e apresentação de documentos’”.
+
+10. Rever a conclusão apresentada nas instâncias antecedentes imporia o desfazimento da presunção de veracidade do afirmado pela autoridade pública competente, o que demandaria reexame de fatos e provas dos autos na origem, ao que não se presta o habeas corpus.
+
+11. Este Supremo Tribunal firmou jurisprudência de que “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental” (HC n. 96.883-AgR, Relatora a Ministra Cármen Lúcia, DJe 1º.2.2011).
+
+12. Pelo exposto, nego seguimento ao habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+Publique-se.
+
+Brasília, 14 de outubro de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
