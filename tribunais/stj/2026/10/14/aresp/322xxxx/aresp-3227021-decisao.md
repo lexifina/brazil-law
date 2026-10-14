@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SANTANA DO PILAR RIBEIRO CRUZ LOCH, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a", "b" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 4ª Região (fl. 1560):
+ADMINISTRATIVO. CONCURSO PÚBLICO. NOMEAÇÃO TARDIA EM VIRTUDE DE DECISÃO JUDICIAL. ANULAÇÃO DO ATO DESCLASSIFICATÓRIO. VÍCIO FORMAL. PARECER DA COMISSÃO DE VERIFICAÇÃO. CANDIDATA COTISTA CONSIDERADA NÃO NEGRA POR SUAS CARACTERÍSTICAS FENOTÍPICAS. PREVISÃO NO EDITAL. AUSÊNCIA DE FLAGRANTE ARBITRARIEDADE. INDENIZAÇÃO MATERIAL E MORAL INDEVIDAS.
+1. O Supremo Tribunal Federal, no julgamento do Tema 671, firmou o entendimento de que na hipótese de posse em cargo público determinada por decisão judicial, o servidor não faz jus à indenização, sob o fundamento de que deveria ter sido investido em momento anterior, salvo situação de arbitrariedade flagrante.
+2. Desse modo, limitou o cabimento de indenização aos casos em que verificada a patente arbitrariedade, descumprimento de ordens judiciais, litigância meramente procrastinatória, má-fé e outras manifestações de desprezo ou mau uso das instituições.
+3. No caso concreto, não restou verificada a ocorrência de nenhuma das hipóteses excepcionais apresentadas pela Suprema Corte. Trata-se de nomeação tardia de candidata autodeclarada negra, que concorria às vagas reservadas para as cotas raciais, considerada não negra pela comissão verificadora, em razão de suas características fenotípicas, critério adotado pelo Edital.
+4. A anulação do ato de desclassificação se deu, em ação judicial anterior, por vício formal, em razão de motivação "genérica e abstrata" nos pareceres inicial e de julgamento de recurso administrativo, que atribuíram à desclassificação o motivo de não enquadramento das características fenotípicas da candidata ao fenótipo de pessoa negra.
+5. Indevida a indenização pleiteada, ante a ausência de caracterização de flagrante arbitrariedade na conduta administrativa, bem como de descumprimento de lei ou de ordem judicial.
+6. Apelo desprovido.
+Não foram opostos embargos declaratórios.
+Em seu recurso especial de fls. 1.595-1.624, a parte recorrente alega vulneração ao artigo 5º, caput, incisos II, XXXIV, XXXV, XXXVI, XXXVII, LV e LXXVIII, artigo 37, caput e § 6º, artigo 93, inciso IX da Constituição Federal; artigo 373, inciso II e artigo 489, § 1º, incisos IV, V e VI, do Código de Processo Civil; artigos 166, 185, 186 e 187 do Código Civil; artigo 2º da Lei n. 9784/99 (Legalidade e Motivação), tudo na forma dos artigos 3º, 4º e 5º da LINDB e do artigo 35, inciso I, da LC 35/79, ao fundamento de que teriam sido violados seus direitos básicos diretamente vinculados aos normativos, sem, no entanto, esmiuçar as razões jurídicas.
+O Tribunal de origem, às fls. 1671-1673, negou seguimento quanto ao tema n. 671 do STF e não admitiu o recurso especial sob os seguintes fundamentos:
+No que tange à violação de normas constitucionais, a competência do Superior Tribunal de Justiça, delimitada pelo artigo 105, inciso III, da Constituição Federal, restringe-se à uniformização de interpretação e aplicação de legislação infraconstitucional. Com efeito, é inviável o processamento de recurso especial nesse tópico específico.
+(..)
+Quanto às demais alegações, o Supremo Tribunal Federal, ao apreciar tema(s) afetado(s) à sistemática de repercussão geral, fixou a(s) seguinte(s) tese(s) jurídica(s):
+Tema STF 671 - Na hipótese de posse em cargo público determinada por decisão judicial, o servidor não faz jus a indenização, sob fundamento de que deveria ter sido investido em momento anterior, salvo situação de arbitrariedade flagrante.
+A decisão proferida por este Tribunal está em consonância com essa orientação jurisprudencial, de caráter vinculante.
+Por essa razão, deve ser negado seguimento ao recurso especial, com fundamento nos artigos 1.030, inciso I, e 1.040, inciso I, ambos do Código de Processo Civil.
+Ante o exposto, nego seguimento ao recurso especial quanto ao tema n.º 671 do STF e não o admito em relação à(s) questão(ões) remanescente(s).
+Em seu agravo, às fls. 1690-1713, a parte agravante alega fundamentação deficiente do tribunal a quo, posto que, ao afirmar uma genérica "incompetência", deixou de examinar a fundo as violações infraconstitucionais invocadas, o que caracterizaria notória falha na análise dos requisitos de admissibilidade do recurso.
+Defende que a decisão agravada, ao não admitir o recurso especial, deixou de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte recorrente não contestou especificamente o argumento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou seguimento ao apelo raro, ora agravada, assentou-se na incompetência do Superior Tribunal de Justiça para examinar alegada violação de normas constitucionais, matéria afeta à competência do Supremo Tribunal Federal, nos termos do artigo 102 da Constituição Federal.
+Todavia, em seu agravo, a parte não refutou adequadamente aludido fundamento, o qual, à míngua de impugnação específica e pormenorizada, permanece hígido, produzindo todos os efeitos no cenário jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. BASE DE CÁLCULO DO ISSQN. ART. 7º DA LC N. 116 DO 2003. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AUSÊNCIA. SÚMULA 280 DO STF. SILÊNCIO DO AGRAVANTE NO ARESP. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA 283 DO STF. INCIDÊNCIA.
+1. Segundo a jurisprudência do STJ, o agravante tem o ônus de impugnar, específica e adequadamente, todos os fundamentos autônomos adotados na decisão de inadmissibilidade proferida pelo Tribunal de origem, sob pena de não conhecimento do agravo em recurso especial, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.855.136/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/4/2026, DJEN de 27/4/2026.)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, §11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
