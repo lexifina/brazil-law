@@ -1,0 +1,56 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo em Recurso Especial interposto contra decisão que não admitiu recurso especial manejado contra acórdão prolatado, por unanimidade, pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fl. 55e):
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. ISSQN. NÃO LOCALIZAÇÃO DA PARTE EXECUTADA. SUSPENSÃO AUTOMÁTICA DO PROCESSO. ART. 40 DA LEI Nº 6.830/1980. TRANSCURSO DO PRAZO DE UM ANO DE SUSPENSÃO E DO QUINQUÊNIO PRESCRICIONAL SEM CITAÇÃO VÁLIDA OU CONSTRIÇÃO PATRIMONIAL. PRESCRIÇÃO INTERCORRENTE CONFIGURADA. INAPLICABILIDADE DA SÚMULA 106 DO STJ. RECURSO NÃO PROVIDO.
+Com amparo no art. 105, III, a, da Constituição da República, o Recorrente aponta ofensa à Lei n. 14.195/2021 e ao art. 921, § 5º do CPC, alegando, em síntese, equívoco na extinção da execução fiscal
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O tribunal a quo não emitiu carga decisória aos dispositivos legais tidos por violados.
+O requisito do prequestionamento pressupõe o prévio debate da questão, à luz da legislação federal indicada, com emissão de juízo de valor acerca da carga normativa contida nos dispositivos apontados como violados.
+Dessarte, aplicável, por analogia, o enunciado da Súmula n. 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), consoante os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CUMPRIMENTO DE SENTENÇA. TERMO INICIAL DO PRAZO PRESCRICIONAL. PROVIMENTO NEGADO.
+(..)
+2. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial por faltar o requisito constitucional do prequestionamento.
+Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.036.100/RN, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 23.06.2025, DJEN de 27.06.2025).
+PROCESSUAL CIVIL. JUÍZES CLASSISTAS. PARCELA AUTÔNOMA DE EQUIVALÊNCIA. JUROS DE MORA. TERMO INICIAL. COISA JULGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ANÁLISE DE SUPOSTA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NÃO CONHECIMENTO.
+(..)
+III - Sobre a alegada violação dos arts. 5º, 11, 89, 99 e 296 do CPC, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+(..)
+VI - Recurso especial não conhecido.
+(REsp n. 2.195.614/CE, Relator Ministro Francisco Falcão, Segunda Turma, julgado em 30.04.2025, DJEN de 07.05.2025).
+Sublinhe-se, por oportuno, que a exigência do prequestionamento se impõe mesmo em relação às matérias de ordem pública, na linha do precedente deste Tribunal Superior, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PRESCRIÇÃO. OMISSÃO. NÃO OCORRÊNCIA. MATÉRIA ALHEIA AOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. OBSCURIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. CARÁTER PROTELATÓRIO. RECONHECIMENTO. EMBARGOS DECLARATÓRIOS REJEITADOS COM APLICAÇÃO DE MULTA.
+(..)
+2. As matérias de ordem pública, mesmo passíveis de conhecimento de ofício pelas instâncias ordinárias, necessitam estar devidamente prequestionadas para ensejar o debate no âmbito do STJ.
+(..)
+5. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl no AgInt nos EREsp n. 1.946.950/PA, Relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 21.08.2024, DJe de 26.08.2024).
+Cabe ressaltar, outrossim, que, diante da persistência de vício integrativo no acórdão impugnado, a parte recorrente deveria ter alegado afronta ao art. 1.022 do Código de Processo Civil, de forma devidamente fundamentada, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pela Corte a qua, sob pena de não conhecimento da matéria por ausência de prequestionamento, como na espécie.
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SIMILITUDE FÁTICO-JURÍDICO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO IMPLÍCITO. INDICAÇÃO DE VIOLAÇÃO AO ART. 1022 DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência de óbices.
+2. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe de 10/4/2017).
+3. Agravo interno ao qual se nega provimento.
+(AgInt nos EAREsp n. 2.436.858/SP, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 22/10/2024, DJe de 25/10/2024).
+Com efeito, o atual Estatuto Processual admite o denominado prequestionamento ficto, é dizer, aquele que se consuma " ..  com a mera oposição de aclaratórios, sem que o Tribunal a quo tenha efetivamente emitido juízo de valor sobre as teses debatidas" (AgRg no REsp 1.514.611/PR, Rel. Min. Sérgio Kukina, 1ª T., DJe 21.06.2016), nos seguintes termos:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+No entanto, na linha da orientação adotada por este Superior Tribunal, somente poder-se-ia considerar prequestionada a matéria especificamente alegada - de forma clara, objetiva e fundamentada - e reconhecida a violação ao art. 1.022 do CPC/15, (AgInt no AREsp 1.017.912/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/08/2017, DJe 16/08/2017); (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017); (AgInt no REsp 1.664.063/RS, de minha relatoria, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 27/09/2017).
+Ressalte-se, o Recorrente limita-se a citar os dispositivos legais, nas razões recursais, sem demonstrar, efetivamente, como teria ocorrido a violação.
+O recurso especial possui natureza vinculada e por objetivo a aplicação ou interpretação adequada de comando de lei federal, de modo que compete à parte a indicação de forma clara e pormenorizada do dispositivo legal que entende ofendido, não sendo suficiente a mera citação no corpo das razões recursais. (1ª T., AgInt no REsp n. 1.930.411/RS, Rel. Min. Gurgel de Faria, j. 4.9.2023, DJe de 6.9.2023)
+Em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+Ressalte-se, o dispositivo legal apontado deve possuir comando normativo que sustenta a tese recursal, não se enquadrando nessas hipóteses aqueles que disciplinam relação jurídica diversa ou os de comando genérico, destituídos de norma capaz de enfrentar a fundamentação do julgado impugnado.
+É firme o posicionamento desta Corte segundo o qual se revela incabível conhecer do recurso especial quando o dispositivo de lei federal tido por violado não possui comando normativo capaz de impugnar os fundamentos do acórdão recorrido, incidindo, por analogia, a orientação contida na Súmula n. 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Posto isso, com fundamento no art. 932, III, IV, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, CONHEÇO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Publique-se e intimem-se.
+EMENTA
