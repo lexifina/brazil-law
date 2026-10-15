@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por INSTITUIÇÃO COMUNITÁRIA DE CÉDITO BLUMENAU - SOLIDARIEDADE - ICC BLUSOL contra decisão do Tribunal de Justiça de Santa Catarina que inadmitiu recurso especial, sob os seguintes fundamentos: i) Súmula 83/STJ: inexistência de negativa de prestação jurisdicional (fls. 243-244); ii) Súmula 284/STF: ausência de indicação precisa de dispositivos federais violados (fl. 244); iii) não houve terceiro fundamento aplicado.
+Argumenta a parte agravante, em síntese, que: i) há negativa de prestação jurisdicional e inaplicabilidade da Súmula 83/STJ, pois o acórdão não enfrentou matérias capazes de infirmar a conclusão, notadamente a legislação estadual e o Termo de Adesão do Programa Juro Zero (fls. 247-253); e ii) não incide a Súmula 284/STF, pois a controvérsia se funda em teratologia/ilegalidade do ato administrativo, dispensando indicação de artigos federais específicos (fls. 254-255).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+A recorrente sustenta violação dos arts. 489, § 1º, IV, V e VI, e 1.022, II, do Código de Processo Civil, ao argumento de que o Tribunal de origem teria deixado de apreciar questões relevantes ao deslinde da controvérsia, especialmente a disciplina do Programa Juro Zero prevista na Lei Estadual n. 15.570/2011 e no Decreto Estadual n. 583/2011, bem como o Termo de Adesão firmado pela consumidora e os documentos que, segundo afirma, demonstrariam o cumprimento do dever de informação.
+A irresignação não comporta acolhimento.
+Verifica-se do acórdão recorrido que o Tribunal de Justiça do Estado de Santa Catarina apreciou a controvérsia de forma suficiente e fundamentada, concluindo que a instituição financeira não comprovou ter informado adequadamente a consumidora acerca da impossibilidade de fruição do benefício, circunstância que motivou a manutenção da multa administrativa aplicada pelo PROCON.
+Com efeito, consignou o Tribunal (fls. 192):
+Interessante, aliás, o argumento da consumidora: se não poderia ter firmado o contrato de adesão ao programa anterior (e do qual veio a cobrança da 8ª parcela), por que a avença foi aprovada  Por que não houve a recusa, como na última oportunidade
+E prosseguiu (fls. 192):
+Se foi uma falha nos procedimentos junto ao BADESC, não diz respeito com o consumidor. O que importa, é que não se visualiza ter havido efetiva comunicação sobre a impossibilidade de adesão, pelo fato de já ter se beneficiado do programa anteriormente, havendo cobrança indevida.
+Observa-se, portanto, que o Tribunal enfrentou a questão central submetida à sua apreciação, concluindo, a partir das circunstâncias do caso concreto, que não houve demonstração de informação clara e adequada acerca da impossibilidade de concessão do benefício financeiro.
+A circunstância de não ter examinado, individualmente, todos os argumentos deduzidos pela recorrente ou todos os dispositivos da legislação estadual invocados não configura negativa de prestação jurisdicional. O órgão julgador não está obrigado a enfrentar, individualmente, todos os argumentos deduzidos pelas partes, quando a fundamentação adotada é suficiente para solucionar a controvérsia.
+Desse modo, não se caracteriza violação dos arts. 489 e 1.022 do Código de Processo Civil.
+A insurgência relativa ao mérito igualmente não comporta conhecimento. Embora a recorrente sustente que a sanção desconsiderou a Lei Estadual 15.570/2011, o Decreto Estadual 583/2011 e o Termo de Adesão ao Programa Juro Zero, não indicou, quanto a essa tese, dispositivo de lei federal cuja interpretação ou vigência tenha sido contrariada pelo acórdão recorrido.
+Ademais, a própria agravante admite expressamente que "em relação ao seu mérito, não há alegação de violação de dispositivo legal específico, mas de teratologia da decisão" ( fls. 247).
+A alegação genérica de ilegalidade ou teratologia não constitui hipótese autônoma de cabimento do recurso especial e não dispensa a identificação da lei federal supostamente violada.
+A pretensão recursal também pressupõe a interpretação da Lei Estadual n. 15.570/2011 e do Decreto Estadual n. 583/2011, que disciplinam o Programa Juro Zero, providência incompatível com a via do recurso especial, conforme a Súmula 280/STF, aplicada por analogia. Do mesmo modo, a verificação de que o Termo de Adesão firmado entre as partes seria suficiente para demonstrar o cumprimento do dever de informação exige a interpretação de suas cláusulas, o que encontra óbice na Súmula 5/STJ.
+Ademais, a alteração da conclusão adotada pelo Tribunal de origem acerca da suficiência das informações prestadas à consumidora, da regularidade da cobrança e da caracterização da falha no dever de informação pressupõe o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
