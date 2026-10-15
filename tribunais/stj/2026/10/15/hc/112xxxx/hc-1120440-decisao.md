@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ALEX AUGUSTO DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS no julgamento do Recurso em Sentido Estrito n. 0709706-86.2022.8.02.0058.
+Extrai-se dos autos que o paciente foi pronunciado como incurso nas sanções do art. 121, § 2º, I, e art. 155, § 1º, ambos do Código Penal, submetendo-o a julgamento pelo Tribunal do Júri.
+O Tribunal de origem negou provimento ao recurso em sentido estrito interposto pelo paciente, nos termos do acórdão que restou assim ementado (fls. 11-17):
+"RECURSO EM SENTIDO ESTRITO. PENAL E PROCESSO PENAL. PRONÚNCIA. HOMICÍDIO QUALIFICADO. PLEITO DE EXCLUSÃO DA QUALIFICADORA DO MOTIVO TORPE. MANIFESTA IMPROCEDÊNCIA NÃO CARACTERIZADA. VIOLAÇÃO AO PRINCÍPIO DA CORRELAÇÃO. ALEGAÇÃO DE INOVAÇÃO NARRATIVA. INEXISTÊNCIA. FUNDAMENTO UTILIZADO QUE GUARDA OBSERVÂNCIA AOS LIMITES DA DENÚNCIA. PRECEDENTES. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO."
+No presente writ, a defesa sustenta a nulidade do acórdão que julgou o recurso em sentido estrito, ao argumento de que o paciente permaneceu sem defesa técnica desde a renúncia das advogadas constituídas, em 23/8/2023, até a atuação da Defensoria Pública, intimada apenas em 3/8/2026. Afirma que, embora houvesse determinação para remessa dos autos à Defensoria Pública caso não fosse constituído novo patrono, a providência não foi adotada oportunamente, tendo sido certificado o trânsito/preclusão do acórdão e determinado o retorno dos autos à origem.
+Alega que o paciente estava desassistido tanto por ocasião do julgamento do recurso em sentido estrito quanto durante o prazo para eventual impugnação do acórdão, o que configuraria cerceamento de defesa e nulidade absoluta, nos termos dos arts. 261 e 564, III, "c", do CPP e das Súmulas 523 e 708 do STF. Ressalta que a nulidade foi arguida na primeira oportunidade em que a Defensoria Pública tomou conhecimento dos autos, afastando-se a hipótese de "nulidade de algibeira".
+Requer, ao final, a cassação do acórdão proferido no recurso em sentido estrito, com a realização de novo julgamento após a regular habilitação e intimação da Defensoria Pública, assegurando-se suas prerrogativas legais, inclusive intimação pessoal, prazo em dobro, vista dos autos e possibilidade de sustentação oral.
+Pedido liminar indeferido (fls. 920-921).
+Informações prestadas às fls. 927-930.
+Parecer do Ministério Público Federal pelo não conhecimento do writ (fls. 935-943).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do STF e do STJ. Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Quanto às relatadas controvérsias, as questões suscitadas não foram submetidas à apreciação do Tribunal de origem. Não há, portanto, pronunciamento daquela Corte acerca da alegada ausência de defesa técnica, da regularidade do julgamento do recurso em sentido estrito, da certificação do trânsito ou preclusão do acórdão, da eventual ocorrência de prejuízo ou da alegação de que a nulidade teria sido arguida na primeira oportunidade.
+O habeas corpus não pode ser utilizado para inaugurar, perante esta Corte, discussão que ainda não foi examinada pela instância competente, sob pena de indevida supressão de instância. Compete, inicialmente, ao Tribunal de origem apreciar os fatos e fundamentos invocados pela defesa e definir as consequências jurídicas eventualmente decorrentes dos atos processuais questionados.
+A circunstância de a defesa qualificar os vícios apontados como nulidades absolutas não afasta esse óbice. A natureza da nulidade e a eventual incidência dos arts. 261 e 564, III, "c", do Código de Processo Penal e das Súmulas 523 e 708 do Supremo Tribunal Federal são questões que deverão ser examinadas, em primeiro lugar, pela instância competente. Não cabe, assim, a esta Corte antecipar o exame de matéria que não foi objeto de decisão pelo Tribunal apontado como autoridade coatora.
+Por fim, considerando o julgamento da presente ação, fica prejudicado o pedido de reconsideração da liminar de fls. 946-953.
+Ante o exposto, com fundament o no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
