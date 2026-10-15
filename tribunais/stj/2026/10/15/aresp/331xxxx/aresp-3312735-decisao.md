@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo interposto por B. J. PROJETOS E EMPREENDIMENTOS LTDA. contra decisão que obstou a subida do recurso especial.
+A parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim ementado (fls. 2.269-2.278):
+APELAÇÃO CÍVEL. AÇÃO REGRESSIVA. CONTRATO DE SEGURO. LIMITES DA COBERTURA. COISA JULGADA. DECISÃO ANTERIOR QUE APRECIOU O CONTRATO DE SEGURO. EXTINÇÃO DO PROCESSO. MANUTENÇÃO. I. Caso em exame: 1. Trata-se de recurso de apelação interposto por segurada contra sentença que extinguiu, sem resolução do mérito, ação de regresso proposta em desfavor da seguradora, sob fundamento de coisa julgada, pois já definida judicialmente em ação anterior (n. 0023422-27.2014.8.22.0001) a extensão da cobertura contratual da apólice, a responsabilidade e os limites da indenização devido. II. Questão em discussão: 2. Possibilidade de rediscussão, em ação regressiva, da responsabilidade da seguradora e o reembolso de valores pagos pela segurada a terceiro quando, em ação anterior, transitou em julgado decisão que apreciou os parâmetros do contrato de seguro, o risco assumido e o limite da obrigação da seguradora, abrangendo as coberturas materiais e morais prestadas, bem como os respectivos limites indenizatórios. III. Razões de decidir: 3. A extinção por coisa julgada encontra respaldo quando a matéria objeto da nova demanda, ressarcimento dos valores gastos pela segurada para indenizar terceiro prejudicado, já foi integralmente apreciada e decidida no processo anterior entre as mesmas partes, em que se fixou definitivamente a amplitude da responsabilidade contratual da seguradora. 4. Em ação de regresso fundada em contrato de seguro, não cabe reabrir discussão sobre riscos cobertos e limites da apólice já decididos em sentença anterior transitada em julgado, sob pena de afronta à segurança jurídica e ao art. 502 do CPC. 5. A diferença de polo ativo, fundamentação jurídica autônoma do regresso e eventual alegação de que o contrato não foi plenamente adimplido não afastam a autoridade da coisa julgada quando há identidade de fato e pedido em relação à obrigação abarcada na sentença anterior. IV. Dispositivo: 6. Recurso desprovido. V. Tese de julgamento: 7. O trânsito em julgado de decisão que, em ação por dano decorrente de fato coberto por apólice de seguro, define os limites da obrigação da seguradora, faz coisa julgada material e impede nova ação de regresso para rediscussão do contrato e ressarcimento suplementar, em respeito aos princípios da segurança jurídica e estabilidade das decisões. ACÓRDÃO Vistos, relatados e discutidos estes autos, acordam os Magistrados da(o) do Tribunal de2ª Câmara Cível Justiça do Estado de Rondônia, na conformidade da ata de julgamentos e das notas taquigráficas, em, "RECURSO NÃO PROVIDO NOS TERMOS DO VOTO DO RELATOR, À UNANIMIDADE." Porto Velho, 17 de outubro de 2025.
+Rejeitados os embargos de declaração opostos (fls. 2.309-2.315).
+No recurso especial, a recorrente alega, preliminarmente, ofensa aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aponta violação dos arts. 337, § 2º, 502, 503 e 506 do CPC, defendendo a inexistência de coisa julgada, por ausência de identidade de partes, causa de pedir e pedido entre a demanda indenizatória anterior e a presente ação regressiva fundada em relação contratual autônoma e no inadimplemento da apólice.
+Argumenta a violação dos arts. 421 e 422 do Código Civil, pelo esvaziamento da função social do contrato de seguro e pela afronta à boa-fé objetiva, ao chancelar limitação indevida da cobertura e impedir o exame do inadimplemento contratual sob o argumento de coisa julgada, gerando desequilíbrio contratual e frustrando a legítima expectativa do segurado.
+Aponta violação dos arts. 757 e 786 do CC, sustentando o direito de regresso do segurado para recompor o equilíbrio securitário, pois a seguradora não teria suportado integralmente os ônus do risco assumido, transferindo à recorrente despesas cobertas.
+Foram oferecidas contrarrazões ao recurso especial (fls. 2.344-2.356).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 2.357-2.359), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 2.372-2.386).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, da análise dos autos, nota-se que o acórdão recorrido foi disponibilizado em 12/01/2026, sendo considerado publicado em 13/01/2026, com início da contagem do prazo em 21/01/2026, conforme Certidão de fl. 2.324, tendo em vista a suspensão dos prazos processuais prevista no art. 220 do CPC, encerrando-se o prazo de quinze dias úteis para interposição do recurso especial em 10/02/2026.
+O recorrente interpôs recurso especial apenas em 11/02/2026, conforme petição às fls. 2.325/2.340. Logo, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 219, caput, todos do CPC. A esse respeito, cito:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. REJEIÇÃO. EMBARGOS REJEITADOS.
+(..)
+4. Os embargos de declaração foram interpostos tempestivamente (CPC, art. 1.023), mas não se verificou obscuridade, contradição, omissão ou erro material na decisão embargada (CPC, art. 1.022).
+5. A decisão embargada examinou de forma suficiente a questão da tempestividade: o art. 220 do CPC suspende a contagem de prazos entre 20/12 e 20/01, sem impedir a prática de atos processuais;
+ocorrendo a intimação durante o recesso, o prazo inicia no primeiro dia útil subsequente (21/1/2025), encerrando-se em 10/2/2025; o recurso especial interposto em 11/2/2025 é intempestivo.
+6. A comprovação de feriado local ou de suspensão de prazo deve ser realizada por documento idôneo (certidão específica ou cópia de ato normativo), não sendo suficiente a apresentação de print de sistema eletrônico; inexistiu demonstração de fato impeditivo capaz de afastar a intempestividade.
+7. Os embargos de declaração não se prestam à rediscussão do mérito nem à modificação do resultado, quando ausentes os vícios do art. 1.022 do CPC; as razões revelam mero inconformismo com o entendimento adotado.
+IV. Dispositivo
+8. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.994.035/DF, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 24/8/2026, DJEN de 27/8/2026.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DE RECURSO. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno contra decisão da Presidência que não conheceu dos embargos de divergência em agravo em recurso especial por intempestividade; a parte requer reconsideração e sustenta a tempestividade dos embargos.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a publicação em 7/1/2025, ocorrida durante a suspensão dos prazos processuais, seria inválida para fins de contagem, de modo a tornar tempestivos os embargos de divergência protocolados em 24/2/2025.
+III. RAZÕES DE DECIDIR
+3. O prazo recursal inicia-se no primeiro dia útil subsequente ao término da suspensão dos prazos processuais, nos termos do art. 224, § 1º, do CPC; a suspensão não invalida publicações ou intimações (art. 220 do CPC).
+4. Os embargos de divergência têm prazo de 15 dias úteis (arts. 994, IX, 1.003, § 5º, e 219, caput, do CPC); com termo inicial em 3/2/2025, o prazo se encerrou em 21/2/2025, sendo intempestivo o protocolo em 24/2/2025.
+IV. DISPOSITIVO E TESE
+5. Agravo interno desprovido.
+Tese de julgamento: "1. A suspensão dos prazos processuais não impede publicações e intimações e o prazo recursal inicia-se no primeiro dia útil subsequente ao seu término, conforme os arts. 224, § 1º, e 220 do CPC. 2. Os embargos de divergência têm prazo de 15 dias úteis, nos termos dos arts. 994, IX, 1.003, § 5º, e 219, caput, do CPC, sendo intempestivo o protocolo fora do lapso legal".
+Dispositivos relevantes citados: CPC, arts. 224, §§ 1º, 2º, 3º, 220, 219, caput, 994, IX, 1.003, § 5º.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.457.485/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024; STJ, AgInt no AREsp n. 2.158.113/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022; STJ, AgInt no REsp n. 1.816.627/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/11/2020; STJ, AgInt no AREsp n. 1.535.246/SE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/3/2020.
+(AgInt nos EAREsp n. 2.274.521/PR, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 23/9/2026, DJEN de 29/9/2026.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DE AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+(..)
+5. O prazo para interposição do agravo em recurso especial é de 15 dias úteis, conforme o art. 1.003, § 5º, c/c o art. 219, caput, do Código de Processo Civil.
+6. O art. 220 do CPC apenas dispõe sobre a suspensão da contagem dos prazos processuais, sendo admitida a prática de atos processuais durante o período de 20 de dezembro a 20 de janeiro.
+7. Ocorrendo a intimação durante o período do recesso forense, o início do prazo recursal se dá no primeiro dia útil seguinte ao dia 20 de janeiro.
+8. O agravo em recurso especial foi interposto fora do prazo de 15 dias úteis, deixando a parte de observar o disposto no art. 1.003, § 5º, c/c o art. 219, caput, do Código de Processo Civil, pois, intimada em 7/1/2026, o prazo se iniciou em 21/1/2026, esgotando-se em 10/2/2026.
+9. A aplicação da multa prevista no art. 1.021, § 4º, do CPC não é cabível quando não se configura a manifesta inadmissibilidade do agravo interno.
+IV. DISPOSITIVO E TESE
+10. Agravo interno desprovido.
+Tese de julgamento: "1. A suspensão dos prazos processuais durante o recesso forense não impede a prática de atos processuais, iniciando-se o prazo no primeiro dia útil seguinte ao dia 20 de janeiro. 2. A aplicação da multa prevista no art. 1.021, § 4º, do CPC requer a manifesta inadmissibilidade do agravo interno".
+Dispositivos relevantes citados: CPC, arts. 219, caput, 1.003, §§ 5º e 6º, 1.021, § 4º; RISTJ, art. 21-E, V. Jurisprudência relevante citada: STJ, EDcl nos EDcl nos EDcl no AgInt no AREsp n. 1.754.744/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgados em 27/5/2024; STJ, AgInt nos EDcl no AREsp n. 2.458.771/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/5/2024; STJ, AgInt no AREsp n. 2.457.485/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024;
+STJ, AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017.
+(AgInt nos EDcl no AREsp n. 3.205.231/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 22/9/2026, DJEN de 24/9/2026.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente (fls. 2.269-2.278) para 18% sobre o valor atualizado da causa, observada a gratuidade da justiça.
+Publique-se. Intime-se.
+ EMENTA
