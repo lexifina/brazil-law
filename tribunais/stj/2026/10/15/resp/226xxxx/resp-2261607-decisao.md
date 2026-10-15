@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por Município de Floresta do Araguaia - PA, com fundamento no art. 105, inciso III, alínea a e c, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado do Pará assim ementado (fls. 499/500):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE COBRANÇ A. REPRESENTAÇÃO PROCESSUAL DE SINDICATO. IRREGULARIDADE SUPRIDA. LEGITIMIDADE ATIVA. PAGAMENTO DE VENCIMENTOS A SERVIDORES PÚBLICOS. RECURSO DESPROVIDO.
+I. CASO EM EXAME 1. Agravo Interno interposto pelo Município de Floresta do Araguaia-PA contra decisão monocrática que negou provimento à Apelação em ação de cobrança ajuizada pelo Sindicato dos Trabalhadores em Educação Pública do Estado do Pará - SINTEPP, visando ao pagamento de vencimentos relativos a dezembro de 2008. O agravante sustenta irregularidade na representação processual do sindicato e preclusão do direito de regularização, requerendo a extinção do feito sem resolução do mérito.
+II. QUESTÃO EM DISCUSSÃO
+2.Há duas questões em discussão: (i) definir se houve a regularização válida da representação processual do sindicato, afastando eventual nulidade; e (ii) estabelecer se o Município agravante possui obrigação de pagar os vencimentos pleiteados pelos servidores.
+III. RAZÕES DE DECIDIR
+3.A irregularidade da representação processual do SINTEPP foi devidamente sanada, pois foram juntados documentos comprobatórios suficientes, não havendo razão para a extinção do feito sem resolução do mérito.
+4.O Supremo Tribunal Federal, no julgamento do RE 883642 (Tema 823), firmou entendimento de que os sindicatos possuem ampla legitimidade para atuar como substitutos processuais na defesa de direitos e interesses da categoria, independentemente de autorização expressa dos sindicalizados.
+5.O pagamento dos vencimentos aos servidores é obrigação do ente público, sendo inadmissível a invocação de troca de gestão para justificar inadimplência, conforme os princípios da impessoalidade e continuidade do serviço público.
+6.O Município agravante não demonstrou fato impeditivo, modificativo ou extintivo do direito dos servidores, não se desincumbindo do ônus probatório previsto no artigo 373, II, do CPC/2015.
+7.A decisão monocrática agravada encontra-se em consonância com a jurisprudência do Tribunal de Justiça e do Superior Tribunal de Justiça, que reconhecem o direito dos servidores ao recebimento de verbas salariais não pagas.
+IV. DISPOSITIVO E TESE 8. Recurso desprovido. Tese de julgamento:
+1.A regularização da representação processual de sindicato ocorre com a juntada de documentos comprobatórios adequados, afastando eventual nulidade.
+2.O sindicato possui legitimidade extraordinária para atuar como substituto processual na defesa de direitos coletivos e individuais homogêneos dos sindicalizados, independentemente de autorização expressa.
+3.O Município não pode se eximir do pagamento de verbas salariais devidas a servidores públicos sob alegação de troca de gestão, pois a administração rege-se pelos princípios da impessoalidade e continuidade do serviço público.
+4.O ônus de demonstrar fato impeditivo, modificativo ou extintivo do direito dos servidores públicos recai sobre o ente público, conforme artigo 373, II, do CPC/2015.
+Os embargos de declaração opostos foram rejeitados (fls. 520/524).
+A parte recorrente alega violação do art. 76, §1º, inciso I, do Código de Processo Civil, ao argumento de que a irregularidade de representação processual do Sindicato dos Trabalhadores da Educação Pública do Pará (SINTEPP) não foi sanada no prazo judicial, o que impõe a extinção do processo sem resolução de mérito; sustenta que a regularização teria ocorrido aproximadamente dois anos após a intimação, configurando preclusão temporal (fls. 533/536).
+Sustenta ofensa ao art. 104 do Código de Processo Civil, ao argumento de que a petição inicial foi subscrita por advogada sem procuração válida e que os documentos posteriormente juntados não conferiram poderes à subscritora da inicial, inviabilizando a convalidação da atuação profissional sem mandato (fls. 535/537).
+A parte recorrente aponta, ainda, a existência de divergência jurisprudencial às fls. 538/542.
+Contrarrazões apresentadas às fls. 547/551.
+O recurso foi admitido (fls. 552/557).
+É o relatório.
+Na origem, cuida-se de ação de cobrança, pagamento dos vencimentos de servidores municipais relativos a dezembro de 2008, a qual foi julgada procedente para condenar a parte ora recorrente ao pagamento dos valores pleiteados pelo sindicato.
+A Corte a quo negou provimento à apelação, tendo mantido a sentença proferida pelo juízo de primeiro grau (fls. 436/441).
+O Tribunal de origem, quanto à alegação de irregularidade da representação processual, se limitou a afirmar que (fl. 491 - destaquei):
+Inicialmente, conforme destacado na decisão recorrida, bem como no parecer ministerial, não merece acolhimento a preliminar de irregularidade da procuração outorgada ao patrono da causa, uma vez que o SINTEPP acostou a documentação necessária para sanar a referida irregularidade, não havendo razão para a extinção do processo sem resolução do mérito.
+E no julgamento dos embargos de declaração, afirmou que o vício na representação processual foi sanado ainda que a destempo, o que afastaria extinção do processo (fl. 526 - destaquei):
+Ora, ao se afirmar categoricamente que a irregularidade foi "devidamente sanada" e que "não há razão para a extinção do processo", esta Turma Julgadora, de forma implícita, mas inequívoca, rechaçou a tese de preclusão. A validação da regularização tardia significa, por consequência lógica, o afastamento de qualquer óbice temporal que pudesse invalidá-la.
+ ..
+Ou seja, no caso, o órgão colegiado considerou que o saneamento do vício, ainda que extemporâneo, atingiu sua finalidade, em observância aos princípios da instrumentalidade das formas e da primazia do julgamento de mérito, afastando, por conseguinte, a penalidade de extinção do feito.
+O que se percebe, na verdade, é o mero inconformismo do Embargante com o resultado do julgamento que lhe foi desfavorável, buscando, por via oblíqua, a rediscussão do mérito da questão preliminar, o que é vedado na via estreita dos Embargos de Declaração.
+Contudo, a tese da parte ora recorrente é a de que o sindicato permaneceu irregularmente na condição de representante processual por aproximadamente dois anos, o que configuraria preclusão temporal. Confira-se trecho das razões do recurso especial (fl. 536):
+a regularização da representação processual, quando permitida, deve ocorrer dentro de um prazo razoável e estabelecido pela lei ou pela autoridade judicial, sob pena de preclusão. No presente caso, o SINTEPP permaneceu com sua representação irregular por aproximadamente dois (2) anos. A inércia da parte recorrida em cumprir com um requisito processual tão fundamental por um período tão extenso configura preclusão temporal, impedindo qualquer saneamento posterior. A decisão recorrida, ao convalidar a irregularidade após esse longo período, ignorou completamente os efeitos da preclusão, permitindo que a parte se beneficie de sua própria desídia e comprometendo a segurança jurídica e a efetividade dos prazos processuais.
+Entendimento diverso no sentido de reconhecer a preclusão temporal ante a ausência de comprovação da regularidade de representação processual em tempo hábil, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Por fim, ressalto que o art. 104 do Código de Processo Civil, não foi apreciado pelo Tribunal de origem.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso a esta instância por não ter sido preenchido o requisito constitucional do prequestionamento. Incide no presente caso, por analogia, a Súmula 282 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ausente pronunciamento do Tribunal de origem sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada apontar a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil.
+No caso dos autos, não foi alegada violação do art. 1.022 do CPC.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimações necessárias.
+EMENTA
