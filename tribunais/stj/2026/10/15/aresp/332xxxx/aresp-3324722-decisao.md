@@ -1,0 +1,35 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO PARANÁ, com fundamento na incidência  da Súmula  7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. REGISTRO EM CONSELHO PROFISSIONAL. ATIVIDADE BÁSICA DA EMPRESA FILIAL. RECURSO DESPROVIDO.
+1. A obrigatoriedade de registro em conselho profissional e a anotação dos profissionais habilitados estão vinculadas à atividade básica da empresa ou àquela pela qual presta serviços a terceiros, conforme o art. 1º da Lei nº 6.839/1980 e o art. 7º da Lei nº 5.194/1966.
+2. A filial da empresa ROMAGNOLE PRODUTOS ELÉTRICOS S. A. (CNPJ nº 78958717/0025- 05) tem sua atuação limitada a atividades de natureza administrativa, conforme seu estatuto social.
+3. O empregado Bruno Leonardo Vilella, vinculado à referida filial e registrado como "Técnico de apoio em pesquisa e desenvolvimento (exceto agropecuário e florestal) - CBO 3951-05", não demonstrou exercer atividades privativas de engenheiro.
+4. Inexistindo demonstração do exercício de atribuições técnicas sujeitas à fiscalização do conselho profissional na filial, revela-se indevida a exigência de Anotação de Responsabilidade Técnica (ART), bem como a penalidade dela decorrente.
+5. Recurso desprovido (fls. 222).
+O recorrente busca reformar o acórdão para reconhecer a obrigatoriedade de registro no CREA/PR e de anotação de responsabilidade técnica (ART), validando a autuação e a multa.
+Nas razões do recurso especial, sustenta negativa de vigência aos arts. 7º, 59 e 60 da Lei 5.194/1966; art. 1º da Lei 6.839/1980; e art. 1º da Lei 6.496/1977, afirmando que as atividades desempenhadas pelo empregado Projetista Mecânico são típicas da Engenharia e exigem responsável técnico e ART. Defende, ainda, que não cabe substituição da discricionariedade técnica do CREA/PR pela discricionariedade judicial, por se tratar de exercício do poder de polícia e de presunção de legitimidade dos atos administrativos.
+O recurso não merece prosperar.
+No caso, o TRF4 negou provimento à apelação, concluindo que a obrigatoriedade de registro em conselho profissional e de anotação de responsável técnico depende da atividade básica da empresa ou daquela efetivamente prestada a terceiros, nos termos do art. 1º da Lei 6.839/1980 e do art. 7º da Lei 5.194/1966, anotando que a filial da ROMAGNOLE PRODUTOS ELÉTRICOS S.A. desempenha apenas atividades administrativas, sem demonstração de atribuições técnicas privativas de engenheiro pelo empregado indicado, razão pela qual reputou indevida a exigência de ART e a penalidade aplicada. Vejamos:
+Sobre o registro de empresas nas entidades fiscalizadoras do exercício de profissões, dispõe a Lei nº 6.839/80:  ..
+Consoante o estabelecido, observa-se que a obrigatoriedade de registro e a anotação dos profissionais legalmente habilitados estão vinculadas e condicionam-se, na espécie, à atividade básica da empresa.
+A Lei nº 5.194/66, regulamentando o exercício das profissões de engenheiro, arquiteto e engenheiro agrônomo, arrolou em seu art. 7º as atividades e atribuições privativas destes profissionais, in verbis, bem como estabeleceu em seus artigos 59 e 60 quem está obrigado a se registrar no CREA:  ..
+Assim, na linha do estabelecido no art. 7º da Lei 5.194/66, a atividade exercida pelos profissionais fiscalizados pelo CREA consiste basicamente na idealização, execução e fiscalização de obras e projetos alusivos à sua área de atuação.
+Renove-se, como bem destacado em sentença, que a empresa ROMAGNOLE PRODUTOS ELÉTRICOS S. A., CNPJ nº 78.958.717/0001-38, possui matriz e diversas filiais, dentre elas a unidade inscrita no CNPJ nº 78.958.717/0025-05, cuja atuação se limita a atividades de natureza administrativa.
+O empregado Bruno Leonardo Vilella, cuja situação motivou a autuação, mantém vínculo com a referida filial, exercendo a função de "Técnico de apoio em pesquisa e desenvolvimento (exceto agropecuário e florestal)" (CBO 3951-05), não havendo prova de que desempenhe atividades privativas de engenheiro.
+Inexistindo demonstração do exercício de atribuições técnicas sujeitas à fiscalização do conselho profissional, revela-se indevida a exigência de anotação de responsabilidade técnica - ART, bem como a penalidade dela decorrente.
+Com efeito, a finalidade da empresa não guarda relação com o exercício profissional da engenharia ou da agronomia, não estando obrigada, portanto, a efetuar inscrição no conselho regional de engenharia e agronomia - CREA (fls. 219-220).
+A pretensão recursal de ver reconhecida a obrigatoriedade de registro e de anotação de responsabilidade técnica encontra óbice na Súmula 7 do STJ, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Com efeito, para alterar a conclusão do acórdão recorrido  no sentido de que a "finalidade da empresa não guarda relação com o exercício profissional da engenharia ou da agronomia, não estando obrigada, portanto, a efetuar inscrição no conselho regional de engenharia e agronomia - CREA"  seria necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em se de de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Ademais, conforme jurisprudência do STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, o art. 1º da Lei 6.496/1977 não foi objeto de análise pelo TRF4, nem sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão.
+Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista o atingimento, na origem, dos limites percentuais previstos no art. 85, § 3º, do CPC.
+Intimem-se.
+ EMENTA
