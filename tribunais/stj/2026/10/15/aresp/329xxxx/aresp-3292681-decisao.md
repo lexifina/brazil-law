@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ contra decisão da Vice-Presidência do Tribunal de Justiça local que inadmitiu recurso especial, mantendo o acórdão que concedeu o HC n. 0761398-55.2025.8.18.0000 em favor de JOSUÉ FIDELIS PINHO, para substituir a prisão preventiva por medidas cautelares, nos termos da seguinte ementa (e-STJ fls. 706/708, grifo do autor e grifo nosso):
+DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS CORPUS. LIMINAR. SALVO CONDUTO. PRISÀO PREVENTIVA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. PLEITO DE EXTENSÃO DE BENEFÍCIO. SIMILITUDE FÁTICO-PROCESSUAL. SUFICIÊNCLA DE MEDIDAS CAUTELARES DIVERSAS. ORDEM CONCEDIDA.
+I. CASO EM EXAME
+I. Habeas corpus preventivo, com pedido de liminar, impetrado por Katylen Cristielle Fontinele Medeiros em favor de Josué Fideles Pinho, investigado pela suposta prática dos crimes de tráfico de drogas, associação para o tráfico, organização criminosa e lavagem de dinheiro, atuante em Piracuruca/PI. Pleiteia-se a revogação da prisão preventiva mediante extensão do benefício concedido a corréu em idêntica situação fático-processual, com substituição por medidas cautelares diversas.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é possível a extensão dos efeitos de decisão concessiva de habeas corpus a corréu com base na identidade fático-processual, nos termos do art. 580 do CPP; (ii) verificar se estão presentes os pressupostos legais para substituição da prisão preventiva por medidas cautelares diversas.
+III. RAZÕES DE DECIDIR
+3. O art. 580 do Código de Processo Penal admite a extensão dos efeitos de
+decisão favorável a corréu quando inexistirem motivos de caráter exclusivamente pessoal e houver identidade fático-processual entre os investigados.
+4. A decisão paradigmática, que concedeu habeas corpus ao corréu Efraim Morais de Sousa, baseou-se na primariedade do paciente, residência fixa e ausência de elementos que indicassem reiteração delitiva, sendo substituída a prisão preventiva por medidas cautelares diversas.
+5. O paciente Josué Fideles Pinho apresenta situação fático-processual semelhante: é tecnicamente primário, possui residência fixa e não existem nos autos indicativos concretos de que sua liberdade comprometa a ordem pública, a instrução criminal ou a aplicação da lei penal.
+6. A substituição da prisão preventiva por medidas cautelares diversas atende aos princípios da proporcionalidade e da subsidiariedade, conforme precedentes do STJ, especialmente em contextos em que não há contemporaneidade entre os fatos investigados e a decretação da prisão.
+IV. DISPOSITIVO E TESE.
+7. Liminar confirmada. Ordem concedida.
+Tese de julgamento: "1. É cabível a extensão dos efeitos de decisão concessiva de habeas corpus a corréu quando presente identidade fático-processual e inexistirem motivos exclusivamente pessoais. 2. A substituição da prisão preventiva por medidas cautelares diversas é admissível quando o paciente é primário, possui residência fixa e não há risco concreto à ordem pública, à instrução criminal ou à aplicação da lei penal. 3. A proporcionalidade e a suficiência das medidas cautelares devem ser avaliadas em conformidade com a situação individual do investigado, respeitando-se a igualdade de tratamento entre corréus em condições semelhantes".
+Dispositivos relevantes citados: CF/1988, art. 5o, LXVIE; CPP, arts. 282, § 6º;
+312; 319,1, D, IV e V; 580.
+Jurisprudência relevante citada: STJ, AgRg no HC 903.261/PA, ReL. Min. Reynaldo Soares da Fonseca , j. 18.6.2024; STJ: AgRg no RHC 161.648,MG, Rel. p/ acórdão Min. João Otávio de Noronha, j. 17.5.2022; STJ, PExt no HC 591.094,RJ, Rel. Min. Rogério Schietti Cruz, j. 04.05.2021; STJ, AgRg no RHC 179.533,RN, Rei. Min. Reynaldo Soares da Fonseca, j. 06.06.2023.
+Nas razões do recurso especial, fundado na alínea a do permissivo constitucional, alega o representante do Parquet negativa de vigência aos arts. 312, 313 e 580 todos do Código de Processo Penal.
+Aduz que a situação fática acostada aos autos denota elevado grau de reprovabilidade e periculosidade da conduta do agente a autorizar a prisão preventiva.
+Afirma que a gravidade concreta da conduta e o grau de envolvimento do agravado com organização criminosa o diferenciam substancialmente de corréu a quem foram deferidas cautelares alternativas. O próprio relatório do acórdão o descreve como um dos principais integrantes e líder de uma cédula do PCC, sugerindo papel ativo e hierarquicamente definido dentro de organização criminosa de alta periculosidade.
+Pugna, ao final, pelo restabelecimento da prisão preventiva, na forma do art. 312 do Código de Processo Penal.
+Inadmitido na origem (e-STJ fls. 741/744), subiram os autos a esta Eg. Corte por força de agravo.
+Nesta instância manifestou-se o Ministério Público Federal pelo provimento do recurso (e-STJ fls. 784/787).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Nas razões do agravo em recurso especial, a defesa deixou de impugnar, de maneira adequada e suficiente, os fundamentos utilizados pela Corte de origem para obstar a admissão do apelo nobre, notadamente a incidência da Súmula n. 7/STJ. Deveria demonstrar a desnecessidade da análise do conjunto fático-probatório, apontando os fatos incontroversos que foram devidamente consignados no acórdão recorrido, o que não ocorreu.
+Limitou-se, contudo, a dizer que não se trata de reexame de provas mas sim de revaloração jurídica de um quadro fático já delineado no acórdão recorrido.
+Afirmou que "o acórdão reconheceu que o paciente é investigado por crimes de extrema gravidade, incluindo organização criminosa e lavagem de dinheiro. A decisão de estender o benefício do corréu, baseando-se apenas na primariedade e residência fixa, ignorou elementos que poderiam indicar a periculosidade concreta do agente e o risco de reiteração delitiva, violando diretamente o art. 312 do CPP" (e-STJ fls. 751/752) .
+Ora, o efetivo afastamento do óbice da referida Súmula n. 7/STJ demanda o cotejo entre as razões de decidir do acórdão hostilizado e as teses levantadas no recurso especial, sendo insuficiente a mera menção genérica à desnecessidade de reexame de fatos e provas. N ão são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA. SÚMULAS N. 7 E 182 DO STJ. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. CRIMES SEXUAIS. PALAVRA DA VÍTIMA. RELEVÂNCIA. AGRAVO REGIMENTAL PROVIDO.
+1. O agravo em recurso especial deve enfrentar, de modo específico, todos os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal de origem, de modo que a mera menção ao óbice aplicado não atende ao princípio da dialeticidade, aplicando-se a Súmula n. 182 do STJ.
+2. A Súmula n. 7 do STJ impede o conhecimento do recurso especial quando a pretensão depender da modificação dos fatos consolidados no acervo probatório, exigindo-se estrita correlação entre as premissas fáticas do acórdão recorrido e as teses jurídicas invocadas.
+3. Nos crimes sexuais, comumente praticados na clandestinidade, a palavra da vítima possui especial relevância quando harmônica com as demais provas, conforme precedentes. Alterar a conclusão das instâncias ordinárias sobre a força desse depoimento exigiria o reexame fático-probatório, atraindo o óbice sumular reconhecido no juízo prévio de admissibilidade do recurso especial.
+4. Agravo regimental provido para, reformando a decisão monocrática, não conhecer do agravo em recurso especial, restabelecendo-se a condenação.
+(AgRg no AREsp n. 2.977.174/SE, Relator Ministro Og Fernandes, Sexta Turma, julgado em 15/4/2026, DJEN de 26/5/2026.)
+Por outro lado, não vislumbro constrangimento ilegal a autorizar a concessão de habeas corpus de ofício.
+Veja o que consta do acórdão que, com fundamento no art. 580 do Código de Processo Penal, estendeu ao agravado benefício concedido a corréu nos autos do HC n. 0759377-09.2025.8.18.0000 (e-STJ fl. 713):
+ ..  a decisão paradigma concedeu, de fato, a ordem com fundamento na constatação de que o paciente é tecnicamente primário, possuindo apenas este processo em seu desfavor e com residência fixa. No caso dos autos, os Pacientes foram presos, em decorrência da mesma decisão que decretou a prisão preventiva do corréu, para a garantia da ordem pública e da aplicação penal, diante da gravidade concreta dos delitos praticados.
+Constata-se, assim, que os corréus se encontram em situação fático-processual semelhante, visto que o paciente é tecnicamente primário, possuindo apenas este processo em seu desfavor e residência fixa. Por conseguinte, estando os corréus na mesma situação fático processual e inexistindo qualquer circunstância de caráter exclusivamente pessoal que justifique a diferenciação, bem como para manter a coerência com a decisão paradigma, torna-se salutar estender o benefício ao Paciente, nos termos do artigo 580 do Código de Processo Penal. Corroborando este entendimento, o seguinte precedente:
+Como se pode observar, o Tribunal entendeu pela identidade de situações entre o corréu e o agravado. Concluir de forma diversa, nesta oportunidade, implica em exame aprofundado de provas, vedado em sede de recurso especial, a teor da Súmula n. 7/STJ
+Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. REVOGAÇÃO PELO TRIBUNAL DE ORIGEM. EXTENSÃO DE BENEFÍCIO CONCEDIDO A CORRÉU (ART. 580 DO CPP). ALEGADA AUSÊNCIA DE IDENTIDADE FÁTICO-PROCESSUAL. PRETENSÃO DE RESTABELECIMENTO DA CUSTÓDIA CAUTELAR. NECESSIDADE DE REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ.
+1. A análise da identidade fático-processual entre corréus, para fins de aplicação do efeito extensivo previsto no art. 580 do Código de Processo Penal, é incumbência das instâncias ordinárias, soberanas no exame dos elementos de prova.
+2. Se o Tribunal de origem, com base nas provas dos autos, concluiu pela semelhança das situações dos agentes, a alteração desse entendimento para restabelecer a prisão preventiva do agravado demandaria, necessariamente, o reexame do conjunto fático-probatório, providência vedada na via do recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 2.898.614/CE, Relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/9/2025, DJEN de 23/9/2025.)
+Diante do exposto, não conheço do presente agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
