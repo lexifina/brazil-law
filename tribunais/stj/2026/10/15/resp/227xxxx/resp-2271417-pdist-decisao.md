@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de distinção manjeado pelo SINDICATO DOS TRABALHADORES EM SEGURIDADE SOCIAL, SAUDE, PREVIDÊNCIA, TRABALHO E ASSISTÊNCIA SOCIAL EM MINAS GERAIS (SINTSPREV/MG) e OUTROS contra decisão de minha lavra, proferida às e-STJ fls. 1.384/1.388, em que determinei a devolução dos autos ao Tribunal de origem para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia (Tema 1.344/STJ), observe o disposto no art. 1.040 do CPC.
+Sustenta a parte requerente a ocorrência de distinção com o tema repetitivo acima referido, tendo em vista que "o objeto do recurso especial interposto pelos embargantes não guarda qualquer relação com a questão da limitação temporal das diferenças de URV" (e-STJ fl. 1.392).
+Intimada, a parte contrária pugnou pela manutenção da decisão que determinou a devolução dos autos ao Tribunal de origem para aguardar o julgamento do Tema 1.344/STJ (e-STJ fls. 1.409/1.411).
+Passo a decidir.
+Após nova análise dos autos, verifica-se que a irresignação não merece acolhimento.
+No caso, a Primeira Seção deste Tribunal decidiu afetar os REsps n. 2.171.764/MA, 2.174.355/MA, 2.171.684/MA, 2.165.813/MA, 2.172.227/MA e 2.171.762/MA, relator Ministro Marco Aurélio Bellizze, Primeira Seção, julgado em 29/4/2025, DJEN de 12/5/2025 à sistemática dos recursos repetitivos (Tema n. 1.344), com o fim de:
+Definir se é possível determinar a limitação temporal das diferenças de URV, com aplicação do Tema 5 de Repercussão Geral, durante a fase de cumprimento de sentença, mesmo quando a tese de limitação temporal não tenha sido debatida na fase de conhecimento da demanda.
+Em razão disso, proferi decisão determinando a devolução dos autos ao Tribunal de origem para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia (Tema 1.344/STJ), observe o disposto no art. 1.040 do CPC.
+Dessa forma, considerando que a questão debatida no recurso especial guarda identidade com aquela afetada ao rito dos recursos repetitivos (Tema 1.344/STJ), destacando-se que uma das teses do apelo nobre é a de que " o  cálculo do reajuste de 3,17% não deve ser limitado ao advento da lei n. 9.030/1995, tendo em vista: A) A AUSÊNCIA DE REORGANIZAÇÃO OU REESTRUTURAÇÃO DE CARREIRA PROMOVIDA PELA LEI N. 9.030/95;  ..  D) A COISA JULGADA FORMADA NA AÇÃO ORDINÁRIA COLETIVA DE ORIGEM" (e-STJ fl. 1.336), os autos devem aguardar o julgamento da matéria repetitiva no Tribunal de origem, a fim de viabilizar o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC.
+Acrescente-se que o referido tema repetitivo não excluiu da discussão a limitação temporal das diferenças de URV incidente sobre funções comissionadas e gratificadas.
+Assim, escorreita a determinação de devolução dos autos à origem, a fim de aguardar o julgamento, pela Primeira Seção desta Corte de Justiça dos REsps n. 2.171.764/MA, 2.174.355/MA, 2.171.684/MA, 2.165.813/MA, 2.172.227/MA e 2.171.762/MA.
+Ante o exposto, INDEFIRO o pedido de distinção.
+Publique-se. Intimem-se.
+ EMENTA
