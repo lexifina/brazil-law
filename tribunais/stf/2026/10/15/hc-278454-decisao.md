@@ -1,0 +1,49 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Luis Paulo Zander contra decisão monocrática de Ministro do Superior Tribunal de Justiça, que manteve o indeferimento do pleito cautelar ao também indeferir o RCD no RHC 245.595/PR. O referido ato jurisdicional foi proferido nos seguintes termos:
+
+Trata-se de pedido de reconsideração ajuizado em benefício de LUIS PAULO ZANDER contra decisão que indeferiu a liminar pleiteada no presente recurso em habeas corpus.
+A defesa reitera as alegações da inicial, reafirmando o excesso de prazo para encerramento da instrução criminal. Pondera que permanece pendente a juntada do laudo toxicológico. Requer, assim, a reconsideração da decisão a fim de que seja deferido o pedido liminar.
+É o relatório. Decido.
+Nada a reconsiderar. Conforme consignado na decisão que indeferiu a medida liminar, não é possível identificar, de plano, o constrangimento ilegal aventado. Assim, a análise das questões aqui trazidas deve ser feita de forma detida e minudente, mostrando-se temerário concluir pela revogação da custódia em juízo perfunctório de delibação não exauriente a fim de justificar o deferimento da pretendida liminar. Portanto, a pretensão será analisada mais detalhadamente na oportunidade de seu julgamento definitivo.
+Diante do exposto, indefiro o pedido de reconsideração. (doc. 3 – grifei).
+
+Neste writ, o impetrante sustenta, em síntese, que:
+
+RÉU PRESO – MANIFESTO EXCESSO DE PRAZO – PRISÃO CAUTELAR SUPERIOR A UM ANO – INSTRUÇÃO CRIMINAL SEM ENCERRAMENTO – LAUDO PERICIAL PENDENTE – AUSÊNCIA DE CONTRIBUIÇÃO DA DEFESA PARA A DEMORA – FLAGRANTE ILEGALIDADE – PEDIDO DE AFASTAMENTO EXCEPCIONAL DA SÚMULA 691 DO STF. (doc. 1, p. 1).
+
+E, ao final, requer:
+
+a) Seja recebido e processado o presente HABEAS CORPUS, com pedido de medida liminar, em favor do paciente LUIS PAULO ZANDER, seja reconhecida a excepcionalidade do caso concreto, determinando-se o AFASTAMENTO DO ÓBICE CONTIDO NA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL, diante da alegada flagrante ilegalidade decorrente do excesso de prazo da prisão cautelar e do agravamento superveniente do constrangimento ilegal, para que seja CONCEDIDA A MEDIDA LIMINAR, determinando-se a imediata revogação da prisão preventiva do paciente, com expedição de alvará de soltura, salvo se por outro motivo estiver preso, assegurando-se o direito de responder à ação penal em liberdade; b) Subsidiariamente ao pedido de liberdade integral, seja determinada a substituição da prisão preventiva por medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal, inclusive monitoração eletrônica, se considerada necessária; c) Seja solicitada manifestação da douta Procuradoria-Geral da República, observadas as disposições legais e regimentais aplicáveis; d) No mérito, seja CONCEDIDA DEFINITIVAMENTE A ORDEM DE HABEAS CORPUS, reconhecendo-se o constrangimento ilegal decorrente da manutenção da prisão cautelar nas circunstâncias demonstradas, com a consequente revogação da prisão preventiva; e) Alternativamente, seja assegurada a substituição da custódia por medidas cautelares menos gravosas, adequadas e suficientes à preservação dos interesses processuais; f) Na hipótese de não conhecimento do presente habeas corpus, seja examinada a possibilidade de CONCESSÃO DA ORDEM DE OFÍCIO, diante da alegada flagrante ilegalidade, nos termos do artigo 654, § 2º, do Código de Processo Penal. Por fim, requer-se que as circunstâncias do caso sejam examinadas em sua integralidade, especialmente diante do prolongamento da segregação cautelar e da ausência de contribuição defensiva para a demora processual. (doc. 1, pp. 19-20).
+
+É o relatório necessário. Decido.
+
+Como visto, este habeas corpus foi impetrado contra decisão de Ministro do Superior Tribunal de Justiça, que manteve o indeferimento do pleito cautelar ao também indeferir o RCD no RHC 245.595/PR (doc. 3). Assim, incide, no caso, a Súmula 691 desta Suprema Corte, pois, “[não] compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+
+Nessa mesma direção:
+
+Ementa AGRAVO REGIMENTAL EM HABEAS CORPUS. CONSTITUCIONAL. PROCESSUAL PENAL. NEGATIVA DE SEGUIMENTO. INCIDÊNCIA DA SÚMULA 691/STF. AUSÊNCIA DE TERATOLOGIA, FLAGRANTE ILEGALIDADE OU ABUSO DE PODER. SUPERVENIÊNCIA DE DECISÃO TERMINATIVA PROFERIDA NO SUPERIOR TRIBUNAL DE JUSTIÇA. PREJUDICIALIDADE DESTA IMPETRAÇÃO. AGRAVO IMPROVIDO. I – Não compete ao Supremo Tribunal Federal – STF conhecer de writ impetrado contra decisão de relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar. Julgados do STF no mesmo sentido. II – Não há teratologia, flagrante ilegalidade ou abuso de poder que possa abrandar a impossibilidade de superação do óbice aqui reconhecido, a permitir, em consequência, a análise da questão trazida neste habeas corpus. III – A Superveniência de decisão terminativa proferida no Superior Tribunal de Justiça prejudica o habeas corpus impetrado no STF contra o indeferimento de liminar. IV – Agravo regimental improvido. (HC 240.700 AgR/RJ, da minha relatoria, Primeira Turma, DJe 16/6/2024 – grifei).
+
+Ementa AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691/STF. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INEXISTÊNCIA DE TERATOLOGIA OU ILEGALIDADE MANIFESTA. SUPRESSÃO DE INSTÂNCIA. 1. Não se conhece de habeas corpus impetrado contra indeferimento de liminar por Relator em habeas corpus requerido a Tribunal Superior. Súmula nº 691. Óbice superável apenas em hipótese de manifesta ilegalidade ou teratologia. 2. Inviável o exame de teses defensivas não analisadas pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes. 3. Agravo regimental conhecido e não provido. (HC 264.222 AgR/MG, Rel. Min. Flávio Dino, Primeira Turma, DJe 3/12/2025 – grifei).
+
+Por fim, não verifiquei, nestes autos, nenhuma ilegalidade flagrante, teratologia ou abuso de poder aptos a permitir a superação do óbice acima indicado. Nesse contexto, consideradas a circunstância de a defesa ter-se antecipado, por opção, ao exaurimento da instância antecedente e a necessidade de observância ao princípio da economia processual, ressalto que “[o] excesso de prazo, como circunstância apta a ensejar o constrangimento ilegal, somente se dá nos casos de evidente desídia do órgão julgador, ou nos que a demora seja incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição da República” (HC 128.278/PR, Rel. Min. Teori Zavaski, Segunda Turma, DJe 4/2/2016 – grifei). Consta destes autos que:
+
+Em atenção à solicitação encaminhada por esse Egrégio Superior Tribunal de Justiça, prestam-se as seguintes informações.
+Trata-se da Ação Penal n.º 0006716-91.2025.8.16.0019, em trâmite perante a 1ª Vara Criminal da Comarca de Ponta Grossa/PR, na qual figuram como réus LUIS PAULO ZANDER e VANDERLEI PADILHA DOS SANTOS, denunciados pela suposta prática dos crimes previstos nos artigos 33, caput [tráfico], c/c art. 40, inciso V, da Lei n.º 11.343/2006, bem como artigos 12 [posse irregular de arma de fogo de uso permitido] e 16 [posse ou porte ilegal de arma de fogo de uso restrito] da Lei n.º 10.826/2003, conforme a imputação individualizada constante da denúncia.
+[...]
+Durante o cumprimento das ordens judiciais, foram apreendidos entorpecentes, armas de fogo, munições, aparelhos eletrônicos, valores em espécie e outros elementos probatórios, circunstâncias que culminaram na lavratura dos autos de prisão em flagrante dos ora pacientes.
+O Ministério Público ofereceu denúncia no mov. 101.1, em 30/10/2025. A denúncia foi recebida por decisão proferida no mov. 170.1, em 11/12/2025, oportunidade em que este Juízo rejeitou a preliminar de inépcia suscitada pela defesa, determinou o prosseguimento da ação penal e designou audiência de instrução e julgamento.
+A prisão preventiva dos acusados vem sendo submetida às revisões periódicas previstas no artigo 316, parágrafo único, do Código de Processo Penal, tendo sido mantida pelas decisões de mov. 219.1, proferida em 22/01/2026; de mov. 261.1, proferida em 15/04/2026; e, de mov. 300.1, proferida em 16/07/2026.
+Em todas as oportunidades, foi reconhecida a permanência dos fundamentos da custódia cautelar, especialmente a garantia da ordem pública, diante da gravidade concreta dos fatos imputados, da expressiva quantidade de drogas apreendidas, da apreensão de armamentos e do risco de reiteração delitiva.
+A audiência de instrução e julgamento foi regularmente realizada em 09/04/2026 (mov. 255.0), tendo sido ouvidas testemunhas de acusação e defesa, bem como interrogados os réus. O respectivo termo de audiência foi juntado no mov. 257.1.
+Após a instrução, foram determinadas diligências complementares visando à obtenção do laudo toxicológico definitivo, conforme decisões constantes dos movs. 282.1 e 293.1.
+Atualmente, o feito encontra-se em fase posterior à instrução criminal, aguardando a conclusão das diligências probatórias complementares para posterior regular prosseguimento e julgamento da ação penal” (doc. 2, pp. 121-122 – grifei).
+
+No caso, portanto, é possível verificar que os autos tramitam de maneira regular, principalmente se consideradas as peculiaridades da causa. E, independentemente disso, “[é] justificável eventual dilação no prazo para encerramento da instrução processual quando se trata de ação penal complexa, a defesa tenha contribuído e o excesso de prazo não decorra da inércia ou desídia do Poder Judiciário (RHC 103.558/SP, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1º/10/2010 – grifei).
+
+Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 15 de outubro de 2026.
+
+Ministro Cristiano Zanin
+Relator
