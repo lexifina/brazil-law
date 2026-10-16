@@ -1,0 +1,52 @@
+DECISÃO
+EMANOEL CANDIDO HENGLES DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo de Execução Penal n. 0001023-36.2026.8.26.0271.
+Consta dos autos que o paciente foi condenado à pena de 2 anos de reclusão, pela prática do crime do art. 155, § 4º, IV, do CP, em regime aberto, com substituição por penas restritivas de direitos.
+A defesa sustenta que o art. 6º do Decreto n. 12.790/2025 não incide por inexistirem audiência de justificação e sanção disciplinar aplicadas, e afirma ter o paciente cumprido o requisito temporal do art. 9º, VII, mediante o cômputo da prisão provisória. Aduz, ainda, que o fato apontado como falta grave ocorreu antes do início do cumprimento da pena, sendo inadequado para obstar o indulto. Alega, por fim, que há inércia estatal na apuração da suposta falta.
+Requer a concessão de liminar para suspender os efeitos do acórdão e da conversão das penas, com recolhimento do mandado de prisão; e, no mérito, a declaração do indulto com a consequente extinção da punibilidade, inclusive quanto à multa. Subsidiariamente, requer o afastamento do óbice do art. 6º do Decreto n. 12.790/2025 e a reapreciação dos demais requisitos, com manutenção da suspensão do mandado de prisão.
+Decido.
+Infere-se dos autos que o Juízo da execução indeferiu pedido de indulto formulado em favor do paciente, por meio de decisão assim fundamentada (fls. 38-39):
+O pedido de indulto deve ser indeferido.
+Da leitura dos autos observo que o(a) apenado(a), embora condenado(a) por infração a dispositivo não integrante do rol proibitivo de que trata o artigo 1º do Decreto Presidencial nº 12.790/2025, durante o cumprimento da pena em regime aberto foi condenado pela prática de nova infração penal em 09/12/2025 (fls. 122/124).
+A prática de crime doloso durante o cumprimento das penas restritivas em regime aberto constitui falta grave, na forma do disposto no artigo 52 da Lei de Execução (com redação dada pela Lei 13.964/2019) e artigo 181, §1º alínea "d", razão pela qual a concessão do indulto fica inviabilizada, conforme artigo 6º do Decreto vigente.
+Diante do exposto, INDEFIRO o pedido de indulto formulado em relação ao(à) apenado(a) EMANOEL CANDIDO HENGLES DA SILVA, por vedação expressa contida no artigo 6º do Decreto Presidencial nº 12.790/2025.
+O Tribunal estadual ratificou a decisão supra, em acórdão assim ementado (fl. 67):
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. INDULTO. DECRETO Nº 12.790/2025. FALTA GRAVE. ART. 6º VEDAÇÃO AO INDULTO. RECURSO NÃO PROVIDO.
+I. Caso em exame:
+Agravo em execução interposto contra decisão que indeferiu o pedido de indulto formulado nos termos do inciso VII do artigo 9º do Decreto nº 12.790/2025.
+II. Questão em discussão:
+As questões em discussão consistem em definir (i) se restou configurada (ou não) falta disciplinar de natureza grave no período dos últimos 12 meses anteriores à 25/12/2025 (contados retroativamente), a impedir a concessão do benefício executório pleiteado, e (ii) se estão preenchidos os requisitos objetivos à concessão do indulto pleiteado. I
+II. Razões de decidir:
+O art. 6º do Decreto Presidencial n. 12.790/2025 condiciona a concessão do indulto ou comutação de pena à inexistência da prática (com posterior reconhecimento judicial) e/ou aplicação de sanção por falta disciplinar de natureza grave nos 12 (doze) meses anteriores à data de 25/12/2025. Prática de novo crime doloso em 2025, pelo qual restou condenado o(a) apenado(a), a caracterizar falta disciplinar de natureza grave, nos termos do art. 52 da Lei de Execução Penal. Posterior reconhecimento judicial da falta grave, sem se verificar demora na sua apuração. Incidência da regra disposta no artigo 6º do decreto presidencial, a obstar o deferimento da benesse pleiteada.
+IV. Dispositivo e tese:
+Recurso não provido.
+Tese de julgamento: a prática e posterior reconhecimento judicial de falta grave nos 12 (doze) meses anteriores à 25/12/2025 impede a concessão do indulto ou comutação de pena, nos termos do artigo 6º do Decreto nº 12.790/2025. Legislação e jurisprudência relevante: STJ; Súmula 533 e tese jurídica firmada no Tema 1195 (R Esp 2011706/MG). Lei de Execução Penal; arts. 52, Decreto n. 12.338/2024; artigo 6º.
+Dispõe o art. 6º, caput, do Decreto n. 12.790/2025, que "a declaração do indulto e da comutação de pena prevista neste Decreto fica condicionada à inexistência de aplicação de sanção reconhecida pelo juízo competente em audiência de justificação, garantidos os princípios do contraditório e da ampla defesa, por falta disciplinar de natureza grave prevista na Lei nº 7.210, de 11 de julho de 1984, cometida nos doze meses de cumprimento da pena, contados retroativamente a 25 de dezembro de 2025".
+A Terceira Seção desta Corte Superior, ao interpretar os requisitos para o indulto e a comutação da pena, decidiu que: "Não haverá o direito de comutação  ou indulto  de pena, o apenado que praticar falta grave no lapso de 12 meses anteriores à publicação do Decreto Presidencial, desde que homologada a falta, ainda que a decisão seja posterior ao Decreto" (EREsp n. 1.549.544/RS, Rel. Ministro Felix Fischer, 3ª S., DJe 30/9/2016, grifei).
+Prevaleceu o entendimento de que houve uma mudança inequívoca de intenção da Presidência da República, na medida em que, diferentemente de normas anteriores, suprimiram-se expressões que estabeleciam, como requisito subjetivo do indulto/comutação, limites temporais para a aplicação de sanção disciplinar.
+Os decretos posteriores dispensaram à matéria tratamento diverso. O Decreto n. 12.790/2025 dispôs que a comutação e o indulto ficariam obstados ante a existência de falta grave cometida nos 12 meses de cumprimento da pena, contados retroativamente à data de sua publicação. Não estabeleceu, contudo, limite temporal específico para o reconhecimento judicial da infração disciplinar.
+Condicionar a declaração de comutação ou indulto à inexistência de aplicação de sanção, no mesmo período, tornaria sem efeito o dispositivo nos casos em que a falta grave for cometida em data próxima à edição do decreto, ante a impossibilidade de homologação judicial em tempo exíguo. Não pode haver, sem previsão taxativa do ato normativo, interpretação que promova tratamento desigual a reeducandos que cometeram faltas disciplinares no mesmo período de 12 meses. Isso porque o indulto das penas é ato de indulgência da Presidência da República, condicionado apenas ao cumprimento das exigências do decreto.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO DA PENA. DECRETO PRESIDENCIAL N. 11.846/2023. FALTA GRAVE COMETIDA NO PERÍODO DE 12 MESES DA PUBLICAÇÃO DO DECRETO. HOMOLOGAÇÃO POSTERIOR. IRRELEVÂNCIA. INDEFERIMENTO DO BENEFÍCIO. CABIMENTO. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, impetrado para concessão de indulto de pena, em razão de a homologação da falta grave ter ocorrido após o prazo previsto no decreto, embora a indisciplina tenha sido cometida dentro do período disciplinado no decreto presidencial.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é possível a concessão de indulto de pena, previsto no Decreto Presidencial n. 11.846/2023, a apenado que praticou falta grave no período de 12 meses anteriores ao decreto, em razão da homologação ter ocorrido fora desse prazo.
+III. RAZÕES DE DECIDIR
+3. O art. 6º do Decreto Presidencial n. 11.846/2023 estabelece que a declaração de indulto será concedida apenas aos condenados que não tenham praticado falta de natureza grave nos doze meses anteriores contados até 25 de dezembro de 2023.
+4. A decisão agravada aplicou corretamente o texto normativo, em consonância com a jurisprudência, ao deixar de permitir a concessão do benefício a quem praticou falta grave dentro do prazo especificado no decreto presidencial, ainda que homologada posteriormente.
+IV. DISPOSITIVO
+5. Agravo regimental desprovido.
+(AgRg no HC n. 955.304/SP, relator Ministro Carlos Cini Marchionatti - Desembargador convocado TJRS -, 5ª T., DJEN de 25/8/2025, grifei)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL N. 12.338/2024. FALTA GRAVE PRATICADA ANTES DE 25/12/2024. DESCUMPRIMENTO DE PENA RESTRITIVA. CONVERSÃO EM PRISÃO. AUSÊNCIA DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. SUPRESSÃO DE INSTÂNCIA. HOMOLOGAÇÃO POSTERIOR DA INDISCIPLINA. INDEFERIMENTO MANTIDO. DECISÃO MONOCRÁTICA DE RELATOR. POSSIBILIDADE.
+1. Pretensão de deferimento do indulto previsto no Decreto n. 12.338/2024, negado pelo Juízo da execução devido à prática de falta grave dentro dos 12 meses anteriores a 25/12/2024, conforme dispõe o art. 6º da norma de regência.
+2. A falta grave consistiu no fato de que o apenado, embora tenha tomado ciência das condições impostas para o cumprimento das penas restritivas de direitos, em 15/12/2024, descumpriu as referidas condições, sem apresentar justificativa. A pena restritiva foi convertida em prisão.
+3. Não há manifestação das instâncias originárias a respeito da tese de ausência de PAD. Dessa forma, a análise da referida alegação por esta Corte Superior de Justiça configuraria indevida supressão de instância.
+4. A Corte de origem manteve o indeferimento destacando que a indisciplina de natureza grave foi cometida dentro do prazo do decreto e que a data da homologação não é relevante para a concessão do indulto.
+5. A jurisprudência desta Corte Superior entende que a homologação da falta grave pode ocorrer antes ou depois do decreto presidencial, desde que a falta tenha sido cometida dentro do período estabelecido na norma.
+6. A decisão monocrática do relator é permitida quando as questões são amplamente debatidas e há jurisprudência dominante sobre o tema, não configurando cerceamento de defesa. Precedentes.
+7. Agravo regimental improvido.
+(AgRg no HC n. 995.001/SP, relator Ministro Sebastião Reis Júnior, 6ª T., DJEN de 23/6/2025, destaquei).
+Constatado que o reeducando praticou falta disciplinar de natureza grave no período de 12 meses anteriores ao decreto mencionado, ainda que a decisão que a reconheceu, haja sido proferida pelo Juízo da execução após esse prazo, não há constrangimento ilegal a ser reconhecido por esta Corte Superior.
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
