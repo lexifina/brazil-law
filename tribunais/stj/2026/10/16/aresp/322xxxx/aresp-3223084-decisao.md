@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo interposto por HANNA CRISTINA BARROS DE ANDRADE contra decisão que obstou a subida de recurso especial.
+A parte agravante interpôs recurso especial, com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 467):
+EMENTA: AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ACORDO HOMOLOGADO. MULTA COMINATÓRIA (ASTREINTES). ACOLHIMENTO PARCIAL DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REDUÇÃO DA MULTA. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. RECURSO NÃO PROVIDO. 1) Nos termos do art. 537 do CPC, a multa independe de requerimento da parte e poderá ser aplicada na fase de conhecimento, em tutela provisória ou na sentença, ou na fase de execução, desde que seja suficiente e compatível com a obrigação e que se determine prazo razoável para cumprimento do preceito. 2) É consolidado na jurisprudência o entendimento de que o valor das astreintes pode ser revisto pelo juízo, a qualquer tempo, de ofício ou a requerimento da parte, quando se tornar excessivo ou insuficiente, conforme dispõe o art. 537, §1º, do CPC.
+Rejeitados os embargos de declaração opostos (fls. 492-495).
+No recurso especial, a parte recorrente alega que o acórdão contrariou as disposições contidas nos artigos 537, § 1º, e 85, § 2º, do CPC.
+Sustenta, em síntese, ser incabível a utilização de exceção de pré-executividade para afastar multa penal acordada entre as partes sob argumento de abusividade, uma vez que tal sanção, fruto de acordo celebrado entre as partes, integrou sentença homologatória transitada em julgado e a sua revisão demandaria dilação probatória, não se tratando de astreinte que pode ser revista em qualquer tempo ou grau de jurisdição nos termos do art. 537, § 1º, do CPC.
+Ademais, não há que se falar em condenação ao pagamento de honorários advocatícios nos termos do art. 85, § 2º, do CPC, consistente em 10% sobre o valor do proveito econômico obtido mediante o ajuizamento de exceção de pré-executividade, já que esta não era cabível, além de a parte executada ter dado causa ao cumprimento de sentença, diante de seu inadimplemento.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Sem contrarrazões ao recurso especial (fl. 541).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 542-543), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 577).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Da violação do art. 537, § 1º, do CPC e do dissídio jurisprudencial
+Sustenta a parte recorrente que o tribunal estadual violou os artigos 537, § 1º do CPC e a jurisprudência pátria ao conhecer de exceção de pré-executividade para reduzir multa por descumprimento de obrigação.
+Narra que, diferentemente do sustentado pela corte estadual, não há que se falar em aplicação do disposto no art. 537, § 1º, do CPC no caso dos autos, eis que não houve determinação judicial de sanção cominatória; em verdade, houve realização de acordo entre as partes para o cumprimento de obrigação consistente na lavratura de escritura pública de imóvel com previsão de cláusula penal de R$ 10.000,00 por mês de descumprimento, acordo este objeto de homologação judicial.
+Assim, tendo sido descumprida a obrigação firmada entre as partes, buscou parte recorrente o cumprimento da sentença homologatória do acordo, bem como da cláusula penal ali avençada, não sendo possível o ajuizamento de exceção de pré-executividade para questionar avença firmada entre as partes e objeto de transação.
+Pois bem.
+Ao decidir sobre o tema, a corte estadual deixou registrado que a multa objeto de cumprimento de sentença não decorreu de imposição judicial, mas de acordo firmado entre as partes:
+No caso dos autos, no acordo celebrado a parte agravada assumiu o cumprimento de duas obrigações, a saber: 1) providenciar a escritura do imóvel residencial constituído pelo lote do terreno de nº 49 (quarenta e nove), da quadra B, do loteamento Vila Maria em Lagoa Santa/MG, no prazo de 60 (sessenta) dias, sob pena de multa de R$ 10.000,00, para cada mês de atraso, bem como ser compelido a outorga judicial; 2) providenciar a escritura do imóvel denominado "Bosque dos Choupos" no prazo de 90 (noventa) dias, sob pena de multa de R$ 10.000,00, para cada mês de atraso, bem como ser compelido à outorga judicial, caso os Requeridos contribuíssem para o atraso (fls. 470-471).
+Se o pagamento de "multa" decorre de avença firmada entre as partes, ainda que no âmbito do processo, sujeita à homologação judicial devidamente transitada em julgado, não se está a tratar de astreinte, instituto processual de natureza diversa, aplicado pelo juízo de modo coercitivo e não decorrente de ajuste firmado entre as partes.
+Assim, tem-se que a "multa" em questão mais se amolda à cláusula penal, devendo ser regida pelos preceitos constantes dos artigos 408 e seguintes do Código Civil e não pelo disposto no art. 537, § 1º, do CPC, como constou do acórdão recorrido.
+Por conseguinte, em se tratando de cláusula penal, a apreciação de sua correta cobrança, excesso ou abusividade demanda dilação probatória, o que foge do escopo da exceção de pré-executividade, na qual apenas se podem debater matérias cognoscíveis de ofício, objeto de prova pré-constituída.
+A propósito, cito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONTRATO DE COMPRA E VENDA COM CONFISSÃO DE DÍVIDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA.
+1. A questão em discussão consiste em saber se a exceção de pré-executividade é via adequada para debater a ausência de comprovação da entrega das mercadorias e a alegada nulidade por cumulação de cláusula penal com multa contratual, quando tais matérias demandam dilação probatória.
+2. A exceção de pré-executividade é instrumento excepcional, restrito a matérias cognoscíveis de ofício e que não demandem dilação probatória; a discussão sobre entrega das mercadorias e cumulação de penalidades contratuais exige cognição plena, própria dos embargos à execução.
+3. A alteração das conclusões do acórdão recorrido quanto à inadequação da via e à necessidade de prova implicaria reexame de fatos e provas, providência vedada pela Súmula 7/STJ.
+4. A ausência de manifestação do acórdão recorrido sobre os arts. 489 do CPC e 51 do CDC, sem a interposição de embargos de declaração, impede o conhecimento do recurso especial, por falta de prequestionamento, conforme a Súmula 356/STF.
+5. A divergência jurisprudencial não foi demonstrada nos moldes legais, pois não houve cotejo analítico entre os julgados, nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, atraindo a incidência da Súmula 284/STF.
+Agravo interno improvido.
+(AgInt no AREsp n. 3.199.232/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 22/9/2026, DJEN de 24/9/2026.)
+Assim, reconhecida a violação do disposto no art. 537, § 1º do CPC, eis que no caso em apreço não se está a tratar de imposição de astreinte e revisão de tais valores, mas sim de impugnação a valores decorrentes de cláusula penal ajustada consensualmente entre as partes, incabível a apresentação de exceção de pré-executividade.
+Logo, o acórdão recorrido deve ser cassado, ante o evidente descabimento de exceção de pré-executividade no caso dos autos, com retorno do feito à origem para regular processamento do cumprimento de sentença aviado pela parte ora recorrente.
+Como consequência, provido o recurso interposto e ante a continuidade do cumprimento de sentença, resta insubsistente a condenação ao pagamento de honorários sucumbenciais fixada no âmbito da exceção de pré-executividade.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, cassando o acórdão proferido pela corte estadual e determinando o retorno dos autos à origem para regular processamento do cumprimento de sentença, prejudicado o exame de violação do disposto no art. 85, § 2º do CPC.
+Honorários recursais
+Deixo de majorar os honorários, nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
