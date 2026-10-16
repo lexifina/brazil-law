@@ -1,0 +1,22 @@
+DECISÃO
+1. Trata-se de Embargos de Declaração (petição nº 950329/2026 - fls. 662/667) opostos por LUIZ AURELIO DOS SANTOS contra a decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o Recurso Especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+OBSERVAÇÃO - ERRO MATERIAL NO NOME DO ARQUIVO PROTOCOLADO
+Registra-se, por cautela, que o protocolo eletrônico de sequencial 12072801, realizado em 10/09/2026 às 23:45:53, foi corretamente cadastrado como EMBARGOS DE DECLARAÇÃO. Houve mero erro material apenas no nome do arquivo anexado, identificado como "Agravo_Interno_Luiz_Aurelio.01.pdf", sem alteração da natureza, do conteúdo ou da classe recursal da peça. Requer-se a desconsideração exclusiva desse equívoco de nomenclatura (fl. 662).
+ ..
+A decisão agravada concluiu que o Agravo em Recurso Especial teria deixado de impugnar a "divergência não comprovada". Contudo, o próprio Agravo contém, às e-STJ fls. 625/626, tópico autônomo e quadro específico destinados precisamente a esse fundamento.
+À e-STJ fl. 625, consta o tópico "X. IMPUGNAÇÃO AO FUNDAMENTO RELATIVO AO DISSÍDIO JURISPRUDENCIAL", no qual se afirma expressamente que a decisão de inadmissibilidade apontara ausência de cotejo analítico e se responde, de modo direto, que a alínea "a" subsiste autonomamente e que a divergência foi suficientemente indicada.
+À e-STJ fl. 626, o "QUADRO DE IMPUGNAÇÃO PONTO A PONTO DA DECISÃO AGRAVADA" volta a enfrentar a "Deficiência do dissídio jurisprudencial", consignando a razão jurídica pela qual o óbice deveria ser afastado (fl. 664).
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes Aclaratórios.
+É o relatório.
+2. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente um dos fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: divergência não comprovada.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26.8.2020, e AgRg no RHC n. 128.660/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24.8.2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+3. Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos Embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Após o decurso do prazo recursal, retornem os autos conclusos para apreciação da petição nº 950313/2026 (fls. 668/673), cuja natureza jurídica é de Agravo Interno, nos termos do art. 1.021 do Código de Processo Civil e do art. 259 do Regimento Interno do Superior Tribunal de Justiça, dispositivos expressamente invocados pela própria parte em suas razões recursais, não obstante o pedido de recebimento da insurgência como Embargos de Declaração (fl. 662).
+Publique-se. Intimem-se.
+ EMENTA
