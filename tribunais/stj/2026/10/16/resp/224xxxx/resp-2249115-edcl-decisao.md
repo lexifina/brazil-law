@@ -1,0 +1,31 @@
+DECISÃO
+Em análise, embargos de declaração opostos por IVONE SUELI RAPOSO contra decisão que rejeitou os embargos de declaração anteriormente opostos.
+Argumenta a parte embargante, em síntese, a ocorrência de omissão quanto à inaplicabilidade da preclusão consumativa à prescrição, por ser matéria de ordem pública, cognoscível de ofício. Alega, ainda, que houve dedução prévia da tese nas razões do agravo de instrumento interposto.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, da qual decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou expressamente a impossibilidade de análise da alegada prescrição quinquenal em razão de inovação recursal, pois a tese não foi prequestionada na origem.
+Por mais que se alegue que a tese foi aventada nas razões do agravo de instrumento interposto, ela não foi decidida no acórdão recorrido (que julgou o agravo de instrumento apresentado), não foi objeto de embargos de declaração na origem para sanar eventual omissão e não foi alegado nem mesmo nas contrarrazões do recurso especial, confira-se:
+"Por fim, em relação à alegação de existência de omissão quanto à análise da prescrição quinquenal da pretensão executória do INSS, regida pelo art. 1º do Decreto 20.910/1932, temos que referido assunto não foi decidido no acórdão recorrido, não foi objeto de embargos de declaração na origem e não foi alegado nem mesmo nas contrarrazões do recurso especial, mas somente nos presentes embargos.
+Assim, "a argumentação trazida somente por ocasião do manejo dos embargos de declaração caracteriza indevida inovação recursal e impede o conhecimento da insurgência, tendo em vista a ocorrência da preclusão consumativa"(EDcl no AgInt no AREsp n. 1.388.645/AP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/10/2021, DJe de 28/10/2021)"
+Destaca-se, por fim, que, conforme jurisprudência desta Corte, a análise de questões suscitadas apenas em embargos de declaração configura inovação recursal, com preclusão consumativa, sendo vedado ampliar, em aclaratórios, as questões discutida nos autos, para incluir teses não previamente discutidas nas instâncias ordinárias ou nas razões recursais, ainda que se trate de matérias de ordem pública.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONTRIBUIÇÃO SOCIAL (FUNRURAL). RECEITA BRUTA DA COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. LEI N. 10.256/2001. RE N. 718.874/RS E RE N. 596.177/RS (TEMA N. 202/STF). SÚMULA N. 126/STJ. INOVAÇÃO RECURSAL EM EMBARGOS DE DECLARAÇÃO. PRECLUSÃO CONSUMATIVA. ACÓRDÃO RECORRIDO ESTÁ ASSENTADO, DE FORMA AUTÔNOMA E SUFICIENTE, EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. Tese de efeito repristinatório e de restauração da redação original do art. 22, inciso I, da Lei n. 8.212/1991 suscitada apenas em embargos de declaração configura inovação recursal, com preclusão consumativa, sendo vedado ampliar, em aclaratórios, as questões para incluir teses não anteriormente deduzidas, ainda que de ordem pública. Precedentes: AgInt no AREsp n. 1.930.051/RJ; REsp n. 1.939.595/PE; AgRg nos EDcl nos EREsp n. 1.961.507/PR; AgInt no AREsp n. 2.884.532/GO; AgInt nos EDcl no AREsp n. 2.838.666/SP.
+ ..
+6. Agravo interno desprovido. (AgInt no REsp n. 2.249.817/MG, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 1/7/2026, DJEN de 8/7/2026.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE LOCAÇÃO DE BENS MÓVEIS. RESCISÃO ANTECIPADA. CLÁUSULA PENAL. INCIDÊNCIA. OMISSÃO E CONTRADIÇÃO NÃO VERIFICADAS. HONORÁRIOS DE SUCUMBÊNCIA. LIMITE LEGAL. INOVAÇÃO RECURSAL. MULTA. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL. NÃO CABIMENTO.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprir omissão ou eliminar contradição ou esclarecer obscuridade, mas, sim, reformar o julgado por via inadequada.
+2. Não evidenciado o caráter protelatório dos embargos de declaração, deixa-se de aplicar a multa de que trata o art. 1.026, § 2º, do Código de Processo Civil.
+3. A insurgência alegada somente em embargos de declaração caracteriza indevida inovação recursal e está submetida à preclusão consumativa, ainda que se trate de matéria de ordem pública.
+4. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 3.055.396/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/6/2026, DJEN de 3/7/2026.)
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Advirto a parte, por fim, que a reiteração de alegações, já expressamente enfrentadas, demonstra o caráter protelatório dos embargos de declaração, apto a ensejar a imposição de multa à parte embargante, nos termos do art. 1.026, § 2º, do CPC.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+ EMENTA
