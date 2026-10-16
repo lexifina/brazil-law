@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por PAULO ROGERIO DE ALMEIDA, SABRINA OLIVEIRA RODRIGUES DE SOUSA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de rescisão contratual c/c devolução de valores e reparação de danos materiais e compensação por danos morais, ajuizada por PAULO ROGÉRIO DE ALMEIDA e SABRINA OLIVEIRA RODRIGUES DE SOUSA, em face de KM 18 EMPREENDIMENTO IMOBILIÁRIO SPE LTDA e EKKO GROUP INCORPORAÇÕES E PARTICIPAÇÕES LTDA, na qual requer a resolução do compromisso de compra e venda de imóvel por atraso na entrega, com devolução integral das parcelas pagas, lucros cessantes e compensação por danos morais.
+Acórdão: deu parcial provimento ao recurso de apelação interposto por KM 18 EMPREENDIMENTO IMOBILIARIO SPE LTDA e EKKO GROUP INCORPORAÇÕES E PARTICIPAÇÕES LTDA e conheceu em parte do recurso de apelação interposto por PAULO ROGERIO DE ALMEIDA e SABRINA OLIVEIRA RODRIGUES DE SOUSA e, na parte conhecida, negou provimento, nos termos da seguinte ementa:
+Ação de rescisão de contrato cumulada com devolução de valores pagos e indenização por danos materiais e morais. Sentença de parcial procedência. Compromisso de compra e venda de imóvel residencial. Atraso na entrega do imóvel aos compromissários- compradores por culpa das rés, compromissárias-vendedoras.
+APELO DAS RÉS. Pandemia de covid-19. Alegação de fortuito externo para justificar a impontualidade da entrega. Inocorrência. Súmula 161 do C. TJSP. Crise financeira advinda com a pandemia do covid-19. Efeitos deletérios que atingiram e afetaram a todos, indistintamente, e não apenas a situação socioeconômica das apelantes. Além disso, decretos estaduais permitiram a continuidade dos serviços de construção civil, em razão de sua essencialidade.
+PROMITENTES-VENDEDORAS QUE DERAM CAUSA AO DESFAZIMENTO DO NEGÓCIO. Retorno das partes ao "status quo ante" e restituição, em uma única vez, da integralidade dos valores pagos. Súmulas 02 e 03, do E. TJSP, e Súmula 543, do C. STJ. Correção monetária com os respectivos desembolsos. Acréscimo de juros de mora a partir da citação (art. 240, CPC c/c art. 405, CC). Responsabilidade contratual. Inaplicabilidade do Tema Repetitivo nº 1.002, do C. STJ à espécie.
+COMISSÃO DE CORRETAGEM E MULTA CONTRATUAL. Ausentes pedidos da parte autora nesse sentido. Sentença "extra petita". Violação ao princípio da adstrição (ou congruência). Artigo 492 do CPC.
+INDENIZAÇÃO POR DANOS MATERIAIS AFASTADA. Despesas de contratação de planejamento, confecção e instalação de móveis planejados não se inserem na cadeia causal do evento danoso. Serviços prestados em local diverso do imóvel em questão.
+RECURSO ADESIVO DOS AUTORES. Lucros cessantes e reparação extrapatrimonial. Pontos comuns ao apelo das rés.
+Indenização patrimonial devida no alcance delimitado na origem. Tema Repetitivo nº 996, do C. STJ. Súmula 162 do Eg. TJSP.
+DANOS MORAIS NÃO CONFIGURADOS. Violação a direito ou atributo da personalidade não se presume na hipótese de atraso na entrega de unidade imobiliária. Ausente prova de alguma circunstância excepcional que tivesse abalado a moral dos autores. Entendimento firmado pelo C. STJ. Sucumbência recíproca em igual proporção. Provido em parte o apelo das rés. Conhecido em parte o recurso adesivo dos autores (majoração da indenização por danos morais que restou prejudicada) e, na parte conhecida, desprovido. (e-STJ fls. 572-573)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) ausência de violação do art. 489 do CPC;
+ii) não foi demonstrada a violação dos dispositivos arrolados;
+iii) incidência da Súmula 7 do STJ;
+iv) deficiência na demonstração do dissídio jurisprudencial.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) a Súmula 7/STJ não incide na hipótese, pois o recurso especial busca a revaloração jurídica de fatos incontroversos reconhecidos no acórdão recorrido, e não o reexame do conjunto probatório; ii) há dissídio jurisprudencial suficiente na alínea "c", com cotejo analítico entre o acórdão recorrido e julgados do STJ que reconhecem a possibilidade de dano moral em atrasos consideráveis na entrega de imóvel, evidenciando similitude fática e soluções jurídicas divergentes; e, iii) ocorreu violação ao art. 489, § 1º, IV, do CPC, porque o acórdão não enfrentou argumentos específicos relevantes sobre o dano moral.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) não foi demonstrada a violação dos dispositivos arrolados;
+ii) incidência da Súmula 7 do STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
