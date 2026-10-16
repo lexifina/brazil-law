@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo MUNICÍPIO DE SIMÕES, em desfavor de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+FINANCEIRO. AÇÃO DE CONHECIMENTO. INCLUSÃO DE PIN/PROTERRA NO FPM. EXCLUSÃO DE INCENTIVOS FISCAIS DE IR/IPI.
+1. O STF, no RE/RG 705.423-SE, r. Ministro Edson Fachin, Plenário em 23.11.2016 (tema 653) fixou a seguinte tese vinculante: "É constitucional a concessão regular de incentivos, benefícios e isenções fiscais relativos ao Imposto de Renda e Imposto sobre Produtos Industrializados por parte da União em relação ao Fundo de Participação de Municípios e respectivas quotas devidas às Municipalidades". Conforme o voto condutor do acórdão, ficou decidido que "o debate no âmbito do STF centrou-se na obrigatoriedade ou voluntariedade da transferência intergovernamental referente aos Fundos de Participação. Porém, no caso das desonerações tributárias, a questão que se coloca é outra, isto é, a diferenciação entre participação direta e indireta na arrecadação tributária do Estado. Portanto, não há como se incluir na base de cálculo do FPM os benefícios e incentivos fiscais devidamente realizados pela União em relação a tributos federais, à luz do conceito técnico de arrecadação.
+2. Mas posteriormente o STF, no RE/RG 1.346.658-DF, Plenário em 09.12.2021, fixou a seguinte tese vinculante somente em relação ao Pin/Proterra: "É inconstitucional a dedução dos valores advindos das contribuições ao Programa de Integração Nacional - PIN e ao Programa de Redistribuição de Terras e de Estímulo à Agroindústria do Norte e do Nordeste - PROTERRA da base de cálculo do Fundo de Participação dos Municípios - FPM.
+3. Apelação do autor parcialmente provida.
+Os embargos de declaração foram rejeitados (fl. 516).
+Nas razões do recurso especial, o recorrente sustenta violação aos arts. 489, § 1º, incisos I e IV, e 1.022, inciso II e parágrafo único, inciso II, do CPC, por negativa de prestação jurisdicional. Assevera que o acórdão foi omisso sobre a distinção entre incentivos sem arrecadação e incentivos com arrecadação, e quanto ao enfrentamento específico das teses inovocadas.
+No mérito, alega contrariedade ao art. 6º da Lei 4.320/1964, por ofensa ao princípio do orçamento bruto, bem como violação ao art. 14 da Lei Complementar 101/2000 e ao art. 112, § 18, da Lei 13.473/2017, por ausência de estimativa de impacto e de medidas compensatórias quando da implementação de incentivos que resultam em redução das transferências.
+Sem contrarrazões
+Informa-se que o recurso especial foi inadmitido na origem, em relação à violação aos arts. 489 e 1022 do CPC e, quanto aos demais pontos, teve seu seguimento negado, pelo fato do acórdão estar de acordo com o Tema 653/STF.
+Foi interposto agravo interno, o qual foi rejeitado pela Corte de origem (fls. 624-634).
+Sem contraminuta
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+O STF, no RE/RG 705.423-SE, r. Ministro Edson Fachin, Plenário em 23.11.2016 (tema 653) fixou a seguinte tese vinculante: "É constitucional a concessão regular de incentivos, benefícios e isenções fiscais relativos ao Imposto de Renda e Imposto sobre Produtos Industrializados por parte da União em relação ao Fundo de Participação de Municípios e respectivas quotas devidas às Municipalidades".
+Conforme o voto condutor do acórdão, ficou decidido que "o debate no âmbito do STF centrou-se na obrigatoriedade ou voluntariedade da transferência intergovernamental referente aos Fundos de Participação. Porém, no caso das desonerações tributárias, a questão que se coloca é outra, isto é, a diferenciação entre participação direta e indireta na arrecadação tributária do Estado. Portanto, não há como se incluir na base de cálculo do FPM os benefícios e incentivos fiscais devidamente realizados pela União em relação a tributos federais, à luz do conceito técnico de arrecadação".
+"Considerado o preconizado no art. 150, §6º, da Constituição da República, em que submete à lei específica a concessão de "qualquer subsídio ou isenção, redução de base de cálculo, concessão de crédito presumido, anistia ou remissão, relativos a impostos, taxas ou contribuições", por sua vez regulada no art. 14 da LC 101/2000 (Lei de Responsabilidade Fiscal), a desoneração tributária regularmente concedida impossibilita a própria previsão da receita pública. Logo, torna-se incabível interpretar a expressão "produto da arrecadação" de modo que não se deduzam essas renúncias fiscais".
+Inclusão do Pin/Proterra no FPM
+Mas posteriormente o STF, no RE/RG 1.346.658-DF, Plenário em 09.12.2021, fixou a seguinte tese vinculante somente em relação ao Pin/Proterra:
+"É inconstitucional a dedução dos valores advindos das contribuições ao Programa de Integração Nacional - PIN e ao Programa de Redistribuição de Terras e de Estímulo à Agroindústria do Norte e do Nordeste - PROTERRA da base de cálculo do Fundo de Participação dos Municípios - FPM.
+Conforme decisão do Presidente do STF, essa tese é diferente daquela fixada no RE/RG 705.423-SE onde "a Corte se debruçou sobre tese desenvolvida pelo Município que objetivava a exclusão dos valores de todos os benefícios, incentivos e isenções fiscais de IR e de IPI concedidos pelo Governo Federal" (fls. 447-448).
+Assim, observa-se que a Corte local enfrentou a controvérsia aplicando os Temas 653 e 1187 do Supremo Tribunal Federal, ao esclarecer que a vedação de dedução alcança PIN/PROTERRA, mas não se estende aos demais fundos.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais, em razão da ausência de liquidez da sentença, de forma que a majoração dos honorários advocatícios para remunerar o trabalho dispendido neste recurso deverá ser realizada pelo juízo da liquidação, com fundamento no art. 85, §§ 2º, 3º, e 11 do CPC, observada eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
