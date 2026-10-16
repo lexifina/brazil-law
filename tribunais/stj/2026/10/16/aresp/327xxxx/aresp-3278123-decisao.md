@@ -1,0 +1,82 @@
+DECISÃO
+Cuida-se de agravo interposto por MARIA GRICELLIA DA SILVA NOGUEIRA contra decisão que inadmitiu recurso especial (e-STJ, fls. 419-430) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (e-STJ, fls. 350-351):
+DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. EMBASA. ACIDENTE EM VIA PÚBLICA. TAMPA DE ESGOTO MAL POSICIONADA. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA. PROVIMENTO PARCIAL. REDUÇÃO DO VALOR DA INDENIZAÇÃO, DE R$ 15.000,00, PARA R$ 6.000,00. RECURSO ADESIVO DESPROVIDO.
+I. Caso em exame
+Recurso de apelação interposto pela Empresa Baiana de Águas e Saneamento S/A - EMBASA contra sentença que a condenou ao pagamento de R$ 15.000,00 (quinze mil reais), a título de indenização por danos morais, em razão de acidente sofrido pela autora ao pisar em tampa de poço de visita da rede de esgoto, mal posicionada, em via pública. II. Questão em discussão
+2. A controvérsia recursal consiste em saber:
+(i) se há responsabilidade da EMBASA pelo acidente ocorrido;
+(ii) se é cabível a redução do valor da indenização por danos morais;
+(iii) se há ilegitimidade passiva da concessionária;
+(iv) se é possível a majoração da indenização, conforme pleiteado em recurso adesivo pela autora.
+III. Razões de decidir
+3. A responsabilidade da concessionária de serviço público é objetiva, nos termos do art. 37, §6º, da CF/1988 e do art. 14 do CDC, sendo suficiente a demonstração do dano e do nexo causal.
+A EMBASA, conforme Decreto nº 3.060/1994 e Resolução nº 001/2011, é responsável pela operação e manutenção das redes de esgoto, inclusive em via pública.
+Comprovado o acidente e a omissão da concessionária, impõe-se o dever de indenizar.
+A alegação de ilegitimidade passiva não merece acolhimento, diante da jurisprudência consolidada sobre a responsabilidade da concessionária. O valor da indenização por danos morais deve ser reduzido para R$ 10.000,00 (dez mil reais), em observância aos princípios da razoabilidade e proporcionalidade, considerando a ausência de sequelas permanentes.
+O recurso adesivo da autora, que pleiteia a majoração da indenização para R$ 300.000,00, não merece provimento, por ausência de fundamento fático-jurídico que justifique o valor pretendido.
+IV. Dispositivo e tese
+9. Rejeição da preliminar de ilegitimidade passiva. Provimento parcial do recurso da EMBASA para reduzir o valor da indenização por danos morais para R$ 10.000,00 (dez mil reais). Desprovimento do recurso adesivo da autora. Tese de julgamento:
+"1. A concessionária de serviço público responde objetivamente por danos decorrentes de omissão na manutenção de equipamentos em via pública.
+O valor da indenização por danos morais deve observar os princípios da razoabilidade e proporcionalidade, sendo possível sua redução quando ausentes sequelas permanentes."
+Opostos embargos de declaração, o aresto recorrido foi integralizado pelo julgado de fls. 389-396 (e-STJ).
+Nas razões do recurso especial, a recorrente alegou, com base nas alíneas a e c do permissivo constitucional, divergência jurisprudencial e violação aos arts. 489, §1º, e 944 do CPC/2015; e 944 e 945 do Código Civil de 2002.
+Apontou deficiência na fundamentação do acórdão recorrido, afirmando que o Tribunal originário "se limita a invocar genericamente os princípios da razoabilidade e proporcionalidade, sem explicitar quais elementos fáticos concretos justificariam a redução da indenização de R$ 15.000,00 para R$ 6.000,00" (e-STJ, fl. 405).
+Sustentou que o valor da indenização é irrisório e merece ser redimensionado.
+Destacou que "o v. acórdão recorrido incorre em manifesta contradição lógica e jurídica ao reconhecer a responsabilidade objetiva da EMBASA pelos danos suportados pela Recorrente e, ao mesmo tempo, reduzir o valor da indenização por danos morais para R$ 6.000,00 (seis mil reais), sob o fundamento de que não haveria "gravidade excepcional" apta a justificar a manutenção do valor fixado na sentença" (e-STJ, fl. 404).
+Frisou que "a redução drástica do quantum indenizatório, desacompanhada de critérios concretos e objetivos, esvazia a função compensatória e preventiva da indenização, resultando em valor manifestamente irrisório diante das particularidades do caso, o que configura violação direta ao art. 944 do Código Civil" (e-STJ, fl. 405).
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 419-430).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 432-447).
+Brevemente relatado, decido.
+No recurso especial, a agravante defendeu a existência de deficiência na fundamentação do julgado recorrido.
+Em relação ao tema, é preciso deixar esclarecido que o aresto objurgado resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação ao ponto controvertido relevante, cujo exame pudesse levar a um resultado diferente na prestação da tutela jurisdicional.
+Dessa forma, aplica-se à espécie o entendimento jurisprudencial do STJ, o quem manifesta-se no sentido de que "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp 1638961/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 02/02/2017).
+Nesse mesmo sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR (FUNCEF). EXIBIÇÃO DE DOCUMENTOS. RELATÓRIOS DE COMISSÕES TÉCNICAS DE APURAÇÃO (CTAS). OPERAÇÃO GREENFIELD. SIGILO DAS INVESTIGAÇÕES. DESNECESSIDADE DA PROVA. REEXAME DE FATOS E PROVAS (SÚMULA 7/STJ). NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RECURSO DESPROVIDO.
+1. Inexiste negativa de prestação jurisdicional ou deficiência de fundamentação quando o órgão julgador resolve a controvérsia com motivação suficiente, sendo dispensável o exame pormenorizado de todas as teses recursais apresentadas pelas partes.
+2. O direito de acesso à informação e à produção de prova pelos participantes de fundos de pensão deve ser ponderado com o dever de preservação do sigilo de investigações criminais e administrativas, de modo a garantir a eficácia de apurações complexas e o interesse público.
+3. A conclusão das instâncias ordinárias pela desnecessidade da exibição documental, em razão de os prejuízos de gestão serem fatos incontroversos no processo, atrai a incidência da Súmula 7 do STJ, pois a reforma de tal entendimento exige o reexame do acervo fático-probatório.
+4. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.175.477/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/8/2026, DJEN de 18/8/2026.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO REJEITADA. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. EXCESSO DE GARANTIA JUDICIAL. MATÉRIA NÃO APRECIADA NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. INCIDÊNCIA DE JUROS DE MORA SOBRE MULTA PROCESSUAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF. HONORÁRIOS ADVOCATÍCIOS. REJEIÇÃO DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. CABIMENTO. ART. 85, § 1º, DO CPC/2015. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Não há negativa de prestação jurisdicional quando o Tribunal de origem examina as questões relevantes ao deslinde da controvérsia e apresenta fundamentação suficiente para embasar a conclusão adotada, ainda que em sentido contrário ao interesse da parte recorrente.
+2. A tese relativa ao alegado excesso de garantia judicial não foi apreciada pelo Tribunal de origem, que deixou de examiná-la por entender configurada supressão de instância, circunstância que impede o conhecimento da matéria em recurso especial por ausência de prequestionamento, nos termos da Súmula n. 211/STJ.
+3. A deficiência na fundamentação recursal, consistente na ausência de demonstração analítica de violação dos dispositivos legais invocados, atrai a incidência da Súmula n. 284/STF.
+4. A ausência de impugnação específica a fundamento autônomo suficiente para manter o acórdão recorrido impede o conhecimento do recurso especial, nos termos da Súmula n. 283/STF.
+5. Nos termos do art. 85, § 1º, do CPC/2015, é cabível a fixação de honorários advocatícios na hipótese de rejeição da impugnação ao cumprimento de sentença.
+6. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 2.246.765/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 20/5/2026, DJEN de 28/5/2026.)
+No caso, consta dos autos que o Tribunal originário apreciou detidamente todos os argumentos mencionados pela partes ao concluir pela necessidade de redução do valor da condenação.
+A propósito, confira-se (e-STJ, fls. 356-358):
+Cuida-se de recurso de apelação interposto pela EMBASA contra sentença que a condenou ao pagamento de indenização por danos morais no valor de R$ 15.000,00 (quinze mil reais), em razão de acidente sofrido pela autora ao pisar em tampa de poço de visita da rede de esgoto, mal posicionada, em via pública.
+A responsabilidade civil da concessionária de serviço público, como é o caso da Embasa, é objetiva, nos termos do art. 37, §6º, da Constituição Federal, e do art. 14 do Código de Defesa do Consumidor. Assim, para a configuração do dever de indenizar, basta a demonstração da conduta, do dano e do nexo causal entre ambos, sendo desnecessária a comprovação de culpa.
+É preciso esclarecer, que a Embasa tem como atribuição precípua, a administração de todos os serviços relativos ao esgotamento sanitário, ficando sob sua responsabilidade a elaboração dos projetos, a fiscalização e execução das obras e instalações, a operação e manutenção dos serviços de captação, transporte, tratamento, preservação e distribuição de água, e coleta, tratamento e disposição final dos esgotos sanitários.
+ ..
+No caso dos autos, restou comprovado que a autora sofreu queda ao pisar em tampa de esgoto mal posicionada, de responsabilidade da Embasa, o que lhe causou lesões físicas. A prova documental produzida é suficiente para demonstrar o nexo de causalidade entre a omissão da concessionária e o evento danoso.
+Lado outro, vê-se que a alegação de ilegitimidade passiva não merece acolhimento. A jurisprudência é pacífica no sentido de que a concessionária responde pelos danos decorrentes da má prestação do serviço, ainda que em via pública, sendo sua a obrigação de manter em condições adequadas os equipamentos e instalações utilizados na prestação do serviço público.
+ ..
+Quanto ao valor da indenização por danos morais, embora a sentença tenha fixado a quantia de R$ 15.000,00 (quinze mil reais), entende-se que tal valor pode ser moderadamente reduzido, sem que se perca o caráter compensatório e pedagógico da medida.
+A jurisprudência desta Câmara Cível tem adotado parâmetros mais contidos em casos semelhantes, especialmente quando não há comprovação de sequelas permanentes ou agravamento do estado de saúde da vítima. No caso concreto, embora o sofrimento da autora seja inegável, não se verifica gravidade excepcional que justifique a manutenção do valor fixado na origem.
+Dessa forma, com base nos princípios da razoabilidade e proporcionalidade, voto pela redução da indenização por danos morais para R$ 6.000,00 (seis mil reais), valor que se mostra suficiente para compensar o abalo sofrido e atender ao caráter pedagógico da medida, sem ensejar enriquecimento sem causa.
+No tocante ao recurso adesivo interposto pela autora, que pleiteia a majoração da indenização para R$ 300.000,00 (trezentos mil reais), entendo que não merece acolhimento, por carecer de razoabilidade frente às circunstâncias do caso concreto.
+Logo, não há afronta ao art. 489, § 1º, IV, do CPC/2015.
+No que se refere à questão de mérito, do excerto acima transcrito, depreende-se que o Tribunal local, amparado nas informações contidas nos autos, reconheceu a imprescindibilidade do redimensionamento do valor da indenização por danos morais.
+Nesse caso, reverter a conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+A esse respeito:
+PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. VIOLÊNCIA SEXUAL PRATICADA POR SERVIDOR EM AMBIENTE HOSPITALAR. INDENIZAÇÃO POR DANOS MORAIS. QUANTUM. REVISÃO. DESCABIMENTO. SÚMULA 7 DO STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. A revisão do quantum indenizatório fixado pelas instâncias de origem, quando não configurado valor irrisório ou manifestamente exorbitante, demanda o reexame das circunstâncias fáticas que nortearam o arbitramento, o que encontra óbice na Súmula 7 do STJ.
+2. O argumento de que a redução do valor configuraria mera revaloração jurídica à luz dos arts. 884 e 944 do Código Civil não tem o condão de afastar o óbice sumular, pois a aferição da proporcionalidade da indenização por danos morais é indissociável das particularidades do caso concreto, cuja análise pressupõe, inevitavelmente, o reexame do conjunto fático-probatório.
+3. A indenização fixada na origem em razão de violência sexual praticada por técnico de enfermagem contra paciente internada, mediante administração de fármaco não prescrito para reduzir sua capacidade defensiva, não se revela manifestamente exorbitante a ponto de autorizar a intervenção excepcional desta Corte.
+4. Não configura negativa de prestação jurisdicional o acórdão que resolve, de forma fundamentada e suficiente, as questões relevantes ao deslinde da controvérsia, ainda que contrariamente aos interesses do recorrente.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 3.285.474/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/9/2026, DJEN de 1/10/2026.)
+DIREITO ADMINISTRAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ERRO MÉDICO. REEXAME DO VALOR ARBITRADO. VEDAÇÃO AO REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação indenizatória decorrente de suposto erro em tratamento ortodôntico e cirurgia ortognática, no qual se alegou falha na execução do procedimento, com resultado insatisfatório e sequelas estéticas e funcionais. A sentença julgou procedentes os pedidos para condenar os réus, solidariamente, ao ressarcimento das despesas médicas comprovadas e ao pagamento de indenização por danos morais e estéticos, além de honorários e custas. O Tribunal de origem manteve integralmente a sentença de procedência. Nesta Corte, trata-se de agravo interno interposto contra decisão que julgou agravos em recurso especial.
+II - Com efeito, por simples cotejo entre o que restou decidido e as razões recursais, observa-se que a revisão das conclusões do aresto recorrido tanto em relação ao quantum indenizatório, quanto à escolha do local para a continuação do procedimento médico é inadmissível na via recursal eleita, ante o óbice da Súmula 7 do STJ. Nesse sentido: AgInt no REsp n. 2.151.580/MS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 19/5/2025, DJEN de 22/5/2025; AREsp n. 2.474.186/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/5/2025, DJEN de 19/5/2025;
+AgInt no REsp n. 1.892.392/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+III - Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 3.111.837/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/6/2026, DJEN de 10/6/2026.)
+Em virtude da incidência do supramencionado óbice, fica prejudicada a análise do dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE EM VIA PÚBLICA. TAMPA DE ESGOTO MAL POSICIONADA. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA. REDUÇÃO DO VALOR DA INDENIZAÇÃO. REVISÃO. SÚMULA 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
