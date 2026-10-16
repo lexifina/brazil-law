@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DE MATO GROSSO, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fls. 415-416):
+DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. ICMS. REMESSA DE BENS EM REGIME DE LOCAÇÃO. AUSÊNCIA DE FATO GERADOR. DOCUMENTAÇÃO FISCAL IDÔNEA. INEXISTÊNCIA DE OBRIGAÇÃO ACESSÓRIA DESCUMPRIDA. EXTINÇÃO DA EXECUÇÃO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso de Apelação interposto pelo Estado de Mato Grosso contra sentença que julgou procedentes os Embargos à Execução Fiscal opostos por Vamos Locação de Caminhões, Máquinas e Equipamentos S.A., para reconhecer a não incidência de ICMS sobre operação de remessa de bens em razão de contrato de locação, e extinguir a execução fiscal com fundamento no art. 485, IV, do CPC, por ausência de crédito tributário devido. O Apelante sustenta a subsistência da penalidade por descumprimento de obrigação acessória, decorrente da alegada ausência de documentação fiscal idônea no transporte de mercadorias.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a operação de remessa de bens em razão de contrato de locação configura fato gerador de ICMS; (ii) estabelecer se subsiste exigibilidade de penalidade por descumprimento de obrigação acessória, mesmo reconhecida a inexistência da obrigação tributária principal.
+III. RAZÕES DE DECIDIR
+3. A operação de remessa de bens realizada com finalidade exclusiva de locação, sem transferência da titularidade ou circulação mercantil, não configura fato gerador de ICMS, nos termos da jurisprudência consolidada e da própria legislação de regência.
+4. Os documentos apresentados pela Apelada, quais sejam, contrato de locação, notas fiscais e conhecimentos de transporte, atendem às exigências da legislação estadual, revelando-se idônea para acobertar o transporte das mercadorias e identificar a natureza da operação.
+5. A penalidade por descumprimento de obrigação acessória somente é exigível quando há infração aos deveres instrumentais legalmente impostos; ausente qualquer irregularidade formal ou material nos documentos, inexiste fundamento jurídico para a manutenção da multa.
+6. Inexistindo fato gerador do imposto e inexistindo infração à obrigação acessória, não se constitui crédito tributário, impondo-se a extinção da execução fiscal com base no art. 485, IV, do CPC.
+IV. DISPOSITIVO E TESE
+7. Recurso desprovido.
+Tese de julgamento:
+1. A remessa de bens com fundamento em contrato de locação, sem circulação mercantil, não configura fato gerador de ICMS.
+2. A obrigação acessória somente gera penalidade se descumprida; sendo regular a documentação fiscal que acoberta o transporte, não há infração a dever instrumental.
+3. A inexistência de fato gerador e de infração acessória afasta a constituição de crédito tributário e impõe a extinção da execução fiscal.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, às fls. 448-453, a parte recorrente sustenta que, no caso em tela, "o acórdão recorrido conferiu interpretação incompatível com o art. 113, §2º, do Código Tributário Nacional, o ferindo frontalmente, ao afastar penalidade decorrente do descumprimento de obrigação acessória sob o fundamento de inexistência de fato gerador do tributo" (fl. 450).
+Alega que, "ainda que eventualmente reconhecida a inexistência de fato gerador do ICMS, permanece hígida a penalidade decorrente do descumprimento da obrigação acessória consistente no porte obrigatório da documentação fiscal no momento da fiscalização, razão pela qual não poderia ter sido afastada a exigibilidade da multa" (fl. 453).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 464-466):
+Com base na interpretação do artigo 105, III, da CF, pode-se afirmar que o Recurso Especial tem como finalidade impugnar decisões que violem ou neguem vigência à lei federal, que julguem válido ato de governo local contestado em face de lei federal e quando houver divergência de interpretação da lei federal.
+Assim sendo, não é cabível recurso especial contra decisão judicial que viola direito local, consoante dispõe a Súmula 280/STF.
+(..)
+No caso dos autos, o órgão fracionário deste Tribunal consignou que "tais documentos atendem às exigências previstas na legislação tributária estadual, que impõe o acompanhamento das mercadorias por documentação fiscal idônea, nos termos do artigo 35-A da Lei nº 7.098/98, segundo o qual as mercadorias e os serviços devem, em qualquer hipótese, estar devidamente acobertados por documentos fiscais regulares".
+Assim, a revisão pretendida pelo recorrente implica na interpretação da Lei estadual nº 7.098/98 (art. 35-A), o que extrapola as hipóteses de cabimento do Recurso Especial, porquanto depende do enfrentamento de direito local.
+(..)
+No caso dos autos, a parte recorrente alega que houve violação ao artigo 113, §§ 2º e 3º, do Código Tributário Nacional, "ao afastar a penalidade decorrente do descumprimento de obrigação tributária acessória sob o fundamento de que, posteriormente, no curso do processo judicial, o contribuinte apresentou documentação apta a demonstrar a natureza da operação".
+Contudo, verifica-se que o deslinde da controvérsia depende do reexame do conjunto fático-probatório dos autos, circunstância que atrai a incidência da Súmula 7/STJ, segundo a qual: "A pretensão de simples reexame de prova não enseja recurso especial".
+Em seu agravo, às fls. 468-472, a parte agravante argumenta que:
+Quanto à Súmula 280/STF, a inadmissão não se sustenta. O Recurso Especial não impugnou a interpretação da Lei estadual nº 7.098/98, tampouco se insurgiu contra qualquer norma de direito local. A menção à legislação estadual no acórdão recorrido foi meramente incidental, utilizada como pano de fundo para a resolução da controvérsia. O núcleo do pedido recursal foi, desde o início, a correta interpretação do art. 113, §§ 2º e 3º, do Código Tributário Nacional, norma de direito federal, que define a natureza, a autonomia e as consequências do descumprimento das obrigações tributárias acessórias. A questão submetida ao STJ é, portanto, de direito federal infraconstitucional, o que afasta por completo a incidência da Súmula 280/STF.
+Quanto à Súmula 7/STJ, igualmente não há que se falar em reexame fático- probatório. Os fatos relevantes estão incontroversos e foram expressamente reconhecidos pelo próprio acórdão recorrido: a autuação ocorreu em razão da ausência de documentação fiscal idônea no momento do transporte; os documentos foram apresentados pelo contribuinte apenas no curso do processo judicial; e o Tribunal de origem afastou a penalidade com base nessa apresentação posterior. Não há nenhum fato a ser rediscutido. O que se pede ao Superior Tribunal de Justiça é exclusivamente a definição das consequências jurídicas desses fatos já assentados, isto é, se a apresentação tardia de documentos tem o condão de afastar infração tributária já consumada. Trata-se de questão de direito puro, imune ao óbice da Súmula 7/STJ. (fls. 470-471, sic)
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não infirmou especificamente nenhum dos fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos: (i) - incidência do enunciado 280 da Súmula do STF, em razão do não cabimento, por analogia, de recurso especial por ofensa à direito local e (ii) - incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial a parte recorrente deixou de infirmar especificamente e a contento, ambos os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
