@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FILIPE RAMOS contra decisão da Segunda Vice-Presidência do Tribunal de Justiça de Santa Catarina que inadmitiu o recurso especial (fls. 615/617). O apelo nobre foi interposto contra acórdão que negou provimento ao agravo interno e manteve o não conhecimento da revisão criminal ajuizada pelo agravante (fls. 566/569 - Revisão Criminal n. 5042194-13.2025.8.24.0000/SC). Os embargos de declaração posteriormente opostos não foram conhecidos (fls. 577/579).
+O agravante sustenta que a controvérsia é infraconstitucional, que houve negativa de prestação jurisdicional e que a revisão criminal admite a correção de erros técnicos na dosimetria, inclusive mediante o exame de teses inéditas. Afirma que os precedentes invocados afastam a Súmula 83/STJ e requer a reconsideração da decisão de inadmissibilidade ou o conhecimento e provimento do agravo, para viabilizar o processamento do recurso especial e da revisão criminal. Postula, ainda, a intimação dos advogados indicados de todos os atos processuais (fls. 622/627).
+O Ministério Público do Estado de Santa Catarina, em contraminuta, requereu o não conhecimento do agravo, por ausência de impugnação específica e suficiente dos fundamentos da inadmissibilidade, especialmente da Súmula 83/STJ. Subsidiariamente, postulou que fosse negado provimento ao recurso especial (fls. 634/636).
+Em parecer, o Ministério Público Federal manifestou-se pelo não conhecimento do agravo, diante da deficiência na impugnação dos fundamentos da inadmissibilidade, com incidência da Súmula 182/STJ (fls. 666/669).
+É o relatório.
+O agravo em recurso especial não comporta conhecimento.
+O acórdão estadual manteve o não conhecimento da revisão criminal ajuizada para desconstituir condenação pelos crimes de tráfico de drogas (aproximadamente 3 kg de cocaína, além de outros 24,2 g de cocaína e de uma porção de maconha sem peso especificado, apreendidos no contexto da investigação - fls. 50/51) e associação para o tráfico, à pena de 8 anos de reclusão, em regime inicial fechado, além de 1.318 dias-multa, proferida na Ação Penal n. 0000102-35.2013.8.24.0030, da Vara Criminal da comarca de Imbituba/SC.
+Inicialmente, registre-se que a decisão de inadmissibilidade do recurso especial não é composta por capítulos autônomos, mas por um único dispositivo, razão pela qual todos os seus fundamentos devem ser impugnados de maneira específica, suficiente e pormenorizada. Alegações genéricas ou voltadas apenas ao mérito da controvérsia não satisfazem esse ônus, atraindo a incidência da Súmula 182/STJ.
+No caso, a Segunda Vice-Presidência do Tribunal de origem inadmitiu o recurso especial pelos seguintes fundamentos:
+a) impossibilidade de exame, na via especial, de alegada violação direta do art. 93, IX, da Constituição Federal (fls. 615/616);
+b) incidência da Súmula 83/STJ quanto à negativa de prestação jurisdicional, por estar o acórdão recorrido em consonância com a orientação de que os embargos de declaração não se prestam à rediscussão do mérito (fl. 616); e
+c) incidência da Súmula 83/STJ quanto às alegadas violações dos arts. 621, I e III, 622, parágrafo único, e 315, § 2º, III e VI, do CPP, diante da natureza excepcional da revisão criminal e da impossibilidade de sua utilização como sucedâneo recursal (fl. 616).
+Nas razões do agravo, a parte agravante enfrentou o primeiro fundamento, esclarecendo que a referência ao dispositivo constitucional constituiu mero reforço argumentativo e que a insurgência está amparada na legislação federal (fls. 624/625).
+Entretanto, não impugnou suficientemente os fundamentos relativos à Súmula 83/STJ.
+Quanto à negativa de prestação jurisdicional, limitou-se a reiterar as alegadas omissões acerca da interpretação do art. 622 do CPP e da dosimetria da pena (fls. 623/624), sem demonstrar a inaplicabilidade dos precedentes utilizados na decisão de inadmissibilidade sobre os limites dos embargos de declaração.
+No tocante ao cabimento da revisão criminal, invocou julgados da Terceira Seção que admitem a correção excepcional de erros técnicos na dosimetria (fls. 625/626), mas não demonstrou, mediante cotejo específico com os precedentes utilizados pela origem, distinção apta a afastar a orientação de que a revisão criminal não constitui sucedâneo recursal.
+A mera referência à possibilidade excepcional de correção de erros técnicos não basta para infirmar esse fundamento, sem a demonstração concreta da pertinência dos julgados à hipótese examinada.
+Da mesma forma, quanto à alegada ausência de enfrentamento de precedentes, o agravante apenas reiterou a necessidade de processamento da revisão criminal e a existência de erro técnico na dosimetria (fls. 625/626), sem afastar especificamente a orientação jurisprudencial invocada na decisão agravada.
+Assim, não foi observado o princípio da dialeticidade recursal, pois a parte agravante deixou de infirmar suficientemente todos os fundamentos da inadmissibilidade.
+Incide, portanto, o art. 932, III, do CPC, c/c o art. 3º do CPP, bem como a Súmula 182/STJ.
+Ademais, não se verifica ilegalidade flagrante no acórdão recorrido passível de concessão de habeas corpus de ofício.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. REVISÃO CRIMINAL. IMPUGNAÇÃO INSUFICIENTE DOS FUNDAMENTOS DA INADMISSIBILIDADE. SÚMULA 83/STJ. SÚMULA 182/STJ. INCIDÊNCIA.
+Agravo não conhecido.
