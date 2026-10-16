@@ -1,0 +1,13 @@
+DECISÃO
+1. Trata-se de Agravo interposto por ADERSON PAULO DE ARAUJO, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+2. Por meio da análise do recurso de ADERSON PAULO DE ARAUJO, verifica-se que o Recurso Especial não foi instruído com a guia de custas do Superior Tribunal de Justiça e o respectivo comprovante de pagamento.
+Apesar de a parte recorrente asseverar que litiga sob o pálio da gratuidade, a mera alegação, na petição recursal, de que é beneficiária da assistência judiciária, não é suficiente para o afastamento da deserção, ou seja, deve haver a comprovação dessa condição. Nesse sentido, AgInt no AREsp n. 2.948.240/AM, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/12/2025, DJEN de 22/12/2025.
+É insuficiente, portanto, a alegação de que a gratuidade foi deferida expressa ou tacitamente nos autos principais e/ou apensados, devendo a parte trazer certidão comprobatória do Tribunal de origem desse deferimento ou cópia integral dos respectivos autos , o que não ocorreu no caso concreto.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a juntar documentos e afirmar que é beneficiário da gratuidade, sem contudo trazer decisão que tenha deferido a benesse.
+Ademais, ainda que o benefício fosse deferido nesse momento processual, ele não teria efeito prático algum, uma vez que a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte requerente das custas processuais referentes aos atos anteriores, ou seja, mesmo que fosse deferido o benefício, ele não teria o condão de retroagir para regularizar o recolhimento das custas do recurso especial (AgInt nos EDcl no AREsp 1644968/SP, relator Ministro Marco Aurélio Bellizze, terceira Turma, DJe de 19/08/2021).
+Dessa forma, o Recurso Especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+3. Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
