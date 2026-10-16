@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interno contra decisão monocrática que não conheceu do recurso especial.
+Rememora-se que o apelo nobre foi interposto contra acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM SUBSTITUIÇÃO PROCESSUAL SINDICAL. LEGITIMIDADE ATIVA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TÉCNICA DO DISTINGUISHING. NÃO INCIDÊNCIA. RECURSO PROVIDO.
+I. CASO EM EXAME
+Agravo de instrumento interposto pelo Estado de Minas Gerais, em face de decisão proferida nos autos de cumprimento individual de sentença coletiva ajuizada pelo SINDIFISCO/MG. O agravante postula o reconhecimento da ilegitimidade de determinadas partes exequentes por não constarem na lista de substituídos da ação originária, bem como a declaração da prescrição da pretensão executória, tendo em vista o decurso de mais de cinco anos desde o trânsito em julgado da sentença.
+II. QUESTÃO EM DISCUSSÃO Há duas questões em discussão: (i) definir se as partes exequentes possuem legitimidade ativa para promover o cumprimento individual de sentença proferida em ação coletiva ajuizada por sindicato como substituto processual; (ii) determinar se ocorreu a prescrição da pretensão executória relativa à obrigação de pagar quantia certa decorrente do título judicial.
+III. RAZÕES DE DECIDIR
+O sindicato que atua como substituto processual tem legitimidade ampla para representar os interesses da categoria profissional em juízo, inclusive na fase de execução, conforme interpretação pacificada do STF (RE 883.642-RG, Tema 823) e do STJ, sendo desnecessária autorização expressa ou prova de filiação ao tempo da propositura da demanda.
+A jurisprudência do STJ, firmada sob o rito dos recursos repetitivos (Tema 1.311), estabelece que a obrigação de pagar quantia certa e a obrigação de fazer, ainda que derivadas do mesmo título judicial, possuem regimes prescricionais autônomos, não havendo suspensão do prazo prescricional da obrigação de pagar em razão do cumprimento da obrigação de fazer.
+Na hipótese dos autos, o título transitou em julgado em 14/12/2018 e o prazo prescricional quinquenal ocorreu em 15/12/2023, no entanto, a execução da obrigação de pagar somente foi ajuizada depois de decorrido o prazo de cinco anos entre o trânsito em julgado da sentença coletiva e o ajuizamento da execução de quantia certa.
+A técnica do distinguishing não encontra campo de aplicação. A tese firmada no Tema 1311 do STJ é plenamente aplicável ao caso concreto. Não há peculiaridade jurídica relevante ou distinção fática que justifique o afastamento do precedente qualificado.
+IV. DISPOSITIVO E TESE
+Recurso provido.
+Tese de julgamento:
+A legitimidade do substituído processual para promover execução individual de sentença coletiva proposta por sindicato não depende de autorização expressa ou prova de filiação, desde que ele integre a categoria substituída.
+A prescrição da pretensão executória da obrigação de pagar quantia certa corre autonomamente da obrigação de fazer e não se suspende pelo seu cumprimento.
+Decorrido o prazo de cinco anos entre o trânsito em julgado da sentença coletiva e o ajuizamento da execução de quantia certa, impõe-se o reconhecimento da prescrição, nos termos do art. 1º do Decreto n. 20.910/1932.
+É o relatório. Decido.
+A matéria deduzida no presente recurso especial se amolda àquela tratada no REsp n. 1.978.629/RJ, apreciado sob o rito dos recursos especiais repetitivos e vinculado ao Tema n. 1169/STJ.
+Na ocasião, firmou-se a tese de que:
+(i) na execução individual do título formado em processo coletivo em favor de servidores públicos, sempre que demonstrado documentalmente que o exequente legitimado se encontre na situação estabelecida de forma genérica na sentença, a execução pode ocorrer sem a necessidade de prévia liquidação do julgado, quando for possível a apuração do crédito por simples cálculos aritméticos;
+(ii) cabe ao Juízo da execução, assegurado o contraditório ao executado, em sede de impugnação ao cumprimento de sentença, analisar, de forma concreta, se é necessária a prévia liquidação do julgado.
+O referido julgado recebeu a seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL REPETITIVO. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE TÍTULO JUDICIAL COLETIVO. AUSÊNCIA DE PRÉVIA LIQUIDAÇÃO. EXTINÇÃO DO FEITO EXECUTIVO. DESCABIMENTO. RECURSO JULGADO SOB A SISTEMÁTICA DO ARTIGO 1.036 E SEGUINTES DO CPC/2015.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Discussão dos autos: cuida-se, na origem, de agravo de instrumento, conhecido pelo Tribunal de origem para, de ofício, extinguir a execução individual ante a ausência de prévia liquidação do julgado coletivo.
+3. Delimitação do Tema: definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento individual de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento desta deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos.
+4. A solução integral da controvérsia, com fundamento suficiente, não evidencia ofensa ao artigo 1.022 do CPC/2015.
+5. A liquidação da sentença coletiva constitui um procedimento de complementação da atividade cognitiva já iniciada com a condenação do réu, voltada à determinação do valor da obrigação ou a individualização de seu objeto, para que, posteriormente, possa a obrigação ser objeto de execução forçada, se não satisfeita espontaneamente pelo devedor. Liquidar a sentença, em outras palavras, significa torná-la completa, o que, na particularidade da sentença coletiva, exige também a especificação dos beneficiários do título.
+6. Há casos, no entanto, em que é mínima a necessidade dessa atividade cognitiva complementar, de modo que os contornos da sentença condenatória, inclusive as proferidas em ações coletivas, é que definirão a necessidade ou não da sua prévia liquidação. Assim, se há elementos suficientes para o procedimento executivo, observando-se os princípios da máxima efetividade da tutela coletiva e economia, duração razoável do processo, eficiência e celeridade processual, não há que se falar em liquidação prévia, bastando a apresentação do simples cálculo aritmético, o qual, inclusive, será submetido ao contraditório.
+7. As turmas de direito público desta Corte afastam a necessidade de liquidação prévia de sentença proferida em processo coletivo, quando for possível a individualização do crédito e a definição do valor por meros cálculos aritméticos.
+8. Tese fixada: "(i) na execução individual do título formado em processo coletivo em favor de servidores públicos, sempre que demonstrado documentalmente que o exequente legitimado se encontre na situação estabelecida de forma genérica na sentença, a execução pode ocorrer sem a necessidade de prévia liquidação do julgado, quando for possível a apuração do crédito por simples cálculos aritméticos; (ii) cabe ao Juízo da execução, assegurado o contraditório ao executado, em sede de impugnação ao cumprimento de sentença, analisar, de forma concreta, se é necessária a prévia liquidação do julgado".
+9. Solução do caso concreto: Recurso Especial conhecido e provido.
+10. Acórdão sujeito ao regime previsto no artigo 1.036 e seguintes do CPC/2015.
+(REsp n. 1.978.629/RJ, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 7/5/2026, DJEN de 1/6/2026.)
+Ao tratar do julgamento dos recursos repetitivos, o Código de Processo Civil de 2015 estabelece em seus arts. 1.030, 1.040, II, e 1.041, verbis:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+Art. 1.040. Publicado o acórdão paradigma:
+ ..
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;  ..
+Art. 1.041. Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º.
+§ 1º Realizado o juízo de retratação, com alteração do acórdão divergente, o tribunal de origem, se for o caso, decidirá as demais questões ainda não decididas cujo enfrentamento se tornou necessário em decorrência da alteração.
+§ 2º Quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões.
+Dos dispositivos acima transcritos, denota-se que cabe ao Ministro Relator, com o julgamento do paradigma, determinar a devolução dos autos ao Tribunal de origem, para que seja reexaminado o acórdão recorrido e realizada a superveniente admissibilidade do recurso especial.
+Desse modo, prestigia-se o propósito racionalizador da sistemática dos recursos representativos de controvérsia que estabelece ser de competência dos Tribunais de origem, de forma exclusiva e definitiva, a adequação do caso em análise à tese firmada no julgamento de recurso repetitivo, de modo a inviabilizar a interposição de qualquer outro recurso subsequente a esta Corte que trate da mesma matéria.
+O referido entendimento restou assentado no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, com a atribuição de competência ao relator para "determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis".
+No mesmo diapasão, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. MATÉRIA OBJETO DE RECURSO ESPECIAL REPETITIVO. DEVOLUÇÃO AO TRIBUNAL A QUO.
+1. Julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos sobre a mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõem os arts. 1.040 do CPC/2015 e 34, XXIV, do RISTJ.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 729.327/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 05/02/2018)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA OBSERVÂNCIA DA SISTEMÁTICA DOS RECURSOS REPETITIVOS. INSURGÊNCIA DA AUTORA.
+1. Em havendo a matéria sido julgada sob o rito dos recursos repetitivos, no caso tema nº 667, necessária a devolução dos autos à Corte de origem para o devido juízo de retratação, nos termos dos artigos 1.040 e 1.041 do CPC
+2. Agravo interno desprovido.
+(AgInt no AREsp 523.985/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018)
+Ante o exposto, reconsidero a decisão agravada, tornando-a sem efeito, e julgo prejudicado o recurso especial, determinando-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, em conformidade com a previsão do art. 1.040, c.c. o §2º do art. 1.041, ambos do CPC/2015: a) na hipótese da decisão recorrida coincidir com a orientação deste Superior Tribunal de Justiça, seja negado seguimento ao recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas; ou b) caso o acórdão recorrido contrarie a orientação deste Superior Tribunal de Justiça, seja exercido o juízo de retratação e considerado prejudicado o recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas; c) finalmente, mantido o acórdão divergente, o recurso especial seja remetido ao Superior Tribunal de Justiça.
+Anote-se a retirada de pauta.
+Publique-se. Intime-se.
+EMENTA
