@@ -1,0 +1,362 @@
+Poder Judiciário
+Justiça do Trabalho
+${SVNOMEORGAO}
+PROCESSO Nº TST-Ag-AIRR - 386-24.2022.5.09.0021
+A C Ó R D Ã O
+7ª Turma
+GMAAB/ilsr
+AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE
+REVISTA. JUSTA CAUSA. ATO DE IMPROBIDADE.
+PROPORCIONALIDADE. ABUSO DO PODER DIRETIVO.
+APRESENTAÇÃO NO RECURSO DE REVISTA DE TRECHOS DO V.
+ACÓRDÃO RECORRIDO QUE NÃO REVELAM TODOS OS
+FUNDAMENTOS DE FATO E DE DIREITO DE SUMA
+IMPORTÂNCIA PARA A EFETIVA COMPREENSÃO DA
+CONTROVÉRSIA. EXIGÊNCIA DA LEI 13.015/14 NÃO ATENDIDA.
+ÓBICE PROCESSUAL MANIFESTO. PREJUDICADO O EXAME DA
+TRANSCENDÊNCIA. Hipótese em que não foram
+desconstituídos, pois, os fundamentos da r. decisão agravada,
+conforme demonstrado no voto. Agravo conhecido e
+desprovido.
+Vistos, relatados e discutidos estes autos de Agravo em Agravo de Instrumento
+em Recurso de Revista nº TST-Ag-AIRR - 386-24.2022.5.09.0021, em que é Agravante HAVAN S.A. e é
+Agravada CRIS HELEN ALVES DE MELO.
+Trata-se de agravo interposto em face de decisão monocrática em que negado
+provimento ao agravo de instrumento.
+É o relatório.
+V O T O
+1 – CONHECIMENTO
+Satisfeitos os pressupostos extrínsecos de admissibilidade, conheço do agravo.
+2 – MÉRITO
+A decisão monocrática por meio da qual fora negado provimento ao agravo de
+instrumento está assim fundamentada:
+D E C I S Ã O
+RECURSO(S) DE REVISTA INTERPOSTO(S) NA VIGÊNCIA DA LEI Nº 13.467/2017. TRANSCENDÊNCIA
+RECURSAL
+Trata-se de agravo(s) de instrumento interposto(s) sob a égide da Lei nº 13.467/2017, contra o
+r. despacho por meio do qual a Presidência do Tribunal Regional do Trabalho negou seguimento ao(s)
+recurso(s) de revista. A(s) parte(s) agravante(s) sustenta(m) que o aludido despacho deve ser
+modificado para possibilitar o trânsito respectivo.
+Examinados. Decido.
+O Tribunal Regional denegou seguimento ao(s) recurso(s) de revista com base nos seguintes
+fundamentos:
+PRESSUPOSTOS INTRÍNSECOS
+A presente demanda está tramitando sob o rito sumaríssimo. O recurso de revista, em tal
+hipótese, somente tem cabimento por contrariedade a Súmula da jurisprudência uniforme do
+Tribunal Superior do Trabalho ou a Súmula Vinculante do Supremo Tribunal Federal ou, ainda, por
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F296B900B666.
+violação direta à Constituição da República, a teor do artigo 896, § 9º, da Consolidação das Leis do
+Trabalho e da Súmula n.º 442 do Tribunal Superior do Trabalho.
+TRANSCENDÊNCIA
+Nos termos do artigo 896-A, § 6º, da Consolidação das Leis do Trabalho, cabe ao Tribunal
+Superior do Trabalho analisar se a causa oferece transcendência em relação aos reflexos gerais de
+natureza econômica, política, social ou jurídica.
+RESCISÃO DO CONTRATO DE TRABALHO (2620) / JUSTA CAUSA / FALTA GRAVE
+Alegação(ões):
+- divergência jurisprudencial.
+A Recorrente alega que a conduta da Reclamante de comparecer a um show musical durante o
+período em que estava de atestado médico se enquadra como ato de improbidade, de modo que
+proporcional a justa causa aplicada.
+A Lei 13.015/2014 acrescentou o § 1º-A ao artigo 896 da Consolidação das Leis do Trabalho:
+§ 1º-A. Sob pena de não conhecimento, é ônus da parte:
+I - indicar o trecho da decisão recorrida que consubstancia o prequestionamento da
+controvérsia objeto do recurso de revista;
+II - indicar, de forma explícita e fundamentada, contrariedade a dispositivo de lei, súmula ou
+orientação jurisprudencial do Tribunal Superior do Trabalho que conflite com a decisão regional;
+III - expor as razões do pedido de reforma, impugnando todos os fundamentos jurídicos da
+decisão recorrida, inclusive mediante demonstração analítica de cada dispositivo de lei, da
+Constituição Federal, de súmula ou orientação jurisprudencial cuja contrariedade aponte.
+Não se viabiliza o recurso de revista, pois a parte recorrente não transcreveu no tópico em que
+fundamenta a insurgência todos os fundamentos do impugnado, não atendendo assim a exigência
+de acórdão impugnar todos os fundamentos jurídicos da decisão recorrida, demonstrando de forma
+analítica a correspondência entre os fundamentos jurídicos da decisão recorrida e a pretensa
+contrariedade apontada.
+A transcrição de apenas parte do acórdão, como se verifica nas razões do recurso, não supre a
+exigência legal. Nesse sentido é a seguinte ementa: "RECURSO DE REVISTA INTERPOSTO SOB A ÉGIDE
+DA LEI N.º 13.015/2014 E LEI 13.467/2017. CERCEAMENTO DE DEFESA. REQUISITO DO ART. 896, § 1º-A,
+INCISOS I E III, DA CLT NÃO ATENDIDO. TRANSCRIÇÃO INSUFICIENTE DO ACÓRDÃO REGIONAL QUE
+CONSUBSTANCIA O PREQUESTIONAMENTO DO TEMA OBJETO DO RECURSO DE REVISTA. A indicação
+do trecho da decisão regional que consubstancia o prequestionamento da matéria objeto do recurso
+é encargo da recorrente, exigência formal intransponível ao conhecimento do recurso de revista. O
+trecho transcrito pela parte recorrente não atende o disposto no art. 896, §1º-A, I e III, da CLT, pois
+não contém todos os fundamentos de fato e de direito assentados na decisão recorrida aptos a
+revelar a existência de cerceamento do direito de defesa. Precedentes . Recurso de revista não
+conhecido . (...)" (RR-1697- 30.2016.5.10.0022, 2ª Turma, Relatora Ministra Maria Helena Mallmann,
+DEJT 29/04/2022 - destaquei).
+Assim, é inviável o conhecimento do recurso de revista porque a parte recorrente não atendeu
+os incisos I e III do § 1º-A do artigo 896 da Consolidação das Leis do Trabalho.
+Denego.
+CONCLUSÃO Denego seguimento.
+Considerando que o acórdão do Tribunal Regional foi publicado na vigência da Lei nº
+13.467/2017, o(s) recurso(s) de revista submete(m)-se ao crivo da transcendência, que deve ser
+analisada de ofício e previamente, independentemente de alegação pela parte.
+O art. 896-A da CLT, inserido pela Lei nº 13.467/2017, com vigência a partir de 11/11/2017,
+estabelece em seu § 1º, como indicadores de transcendência: I - econômica, o elevado valor da causa;
+II - política, o desrespeito da instância recorrida à jurisprudência sumulada do Tribunal Superior do
+Trabalho ou do Supremo Tribunal Federal; III - social, a postulação, por reclamante-recorrente, de
+direito social constitucionalmente assegurado; IV - jurídica, a existência de questão nova em torno da
+interpretação da legislação trabalhista.
+No tocante à transcendência política e jurídica, a decisão do Tribunal Regional, além de estar
+em consonância com a jurisprudência desta Corte, não trata de questão nova em torno da
+interpretação da legislação trabalhista. Por outro lado, a reforma da decisão esbarraria no óbice das
+Súmulas nº 126 ou 333 do c. TST.
+Com relação à transcendência econômica, destaque-se que o valor arbitrado à condenação
+deve se revelar desproporcional ao(s) pedido(s) deferido(s) na instância ordinária, e é destinado à
+proteção da atividade produtiva, não devendo ser aplicada isoladamente em favor do trabalhador.
+Já quanto à transcendência social, observe-se que é pressuposto de admissibilidade recursal a
+invocação expressa de violação a dispositivo da Constituição Federal que contenha direito social
+assegurado, especialmente aqueles elencados no Capítulo II do Título II da Carta de 1988 (Dos
+Direitos Sociais). Por outro lado, a transcendência social não se aplica aos recursos interpostos por
+empresa-reclamada.
+Além disso, com o advento da Lei 13.015/2014, o § 1º-A do artigo 896 da CLT passou a atribuir
+ao recorrente, sob pena de não conhecimento do recurso, o ônus de: I - indicar o trecho da decisão
+recorrida que consubstancia o prequestionamento da controvérsia objeto do recurso de revista; II -
+indicar, de forma explícita e fundamentada, contrariedade a dispositivo de lei, súmula ou orientação
+jurisprudencial do Tribunal Superior do Trabalho que conflite com a decisão regional; III - expor as
+razões do pedido de reforma, impugnando todos os fundamentos jurídicos da decisão recorrida,
+inclusive mediante demonstração analítica de cada dispositivo de lei, da Constituição Federal, de
+súmula ou orientação jurisprudencial cuja contrariedade aponte.
+Assim, fundamentalmente, não se conhece de recurso de revista que não transcreve o trecho
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F296B900B666.
+que consubstancia o prequestionamento da controvérsia; que apresente a transcrição dos trechos
+do acórdão regional no início do recurso de revista, de forma preliminar e totalmente dissociada das
+razões de reforma; que transcreve o inteiro teor do acórdão regional ou do capítulo impugnado, sem
+destaque do trecho que efetivamente consubstancia o prequestionamento da controvérsia; que
+apresente a transcrição apenas da ementa ou do dispositivo da decisão recorrida; e que contenha
+transcrição de trecho insuficiente, ou seja, de trecho da decisão que não contempla a delimitação
+precisa dos fundamentos adotados pelo TRT.
+De igual forma, o § 8º do artigo 896 da CLT impôs ao recorrente, na hipótese de o recurso de
+revista fundar-se em dissenso de julgados, “...o ônus de produzir prova da divergência
+jurisprudencial, mediante certidão, cópia ou citação do repositório de jurisprudência, oficial ou
+credenciado, inclusive em mídia eletrônica, em que houver sido publicada a decisão divergente, ou
+ainda pela reprodução de julgado disponível na internet, com indicação da respectiva fonte,
+mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos
+confrontados”, grifamos.
+A alteração legislativa nesses aspectos constitui pressuposto de adequação formal de
+admissibilidade do recurso de revista e se orienta no sentido de propiciar, em todos os casos, a
+identificação precisa da contrariedade à Lei ou à Jurisprudência, afastando-se os recursos de revista
+que impugnam de forma genérica a decisão regional e conduzem sua admissibilidade para um
+exercício exclusivamente subjetivo pelo julgador de verificação e adequação formal do apelo.
+No presente caso, diante da análise de ofício dos pressupostos de adequação formal de
+admissibilidade, do exame prévio dos indicadores de transcendência, além do cotejo do despacho
+denegatório com as razões de agravo de instrumento, verifica-se que a(s) parte(s) não atendeu(ram)
+a todos requisitos acima descritos, devendo ser mantida a denegação de seguimento de seu(s)
+recurso(s) de revista.
+Assim, com base no inciso LXXVIII do artigo 5º da Constituição Federal, que preconiza o
+princípio da duração razoável do processo, não prospera(m) o(s) presente(s) agravo(s) de
+instrumento.
+Diante do exposto, com base nos artigos 489, § 1º, 932, III e IV, do CPC, 896-A, §§ 1º e 2º, da CLT,
+e 247, § 2º, do RITST, NEGO SEGUIMENTO ao(s) agravo(s) de instrumento.
+2.1 - JUSTA CAUSA. ATO DE IMPROBIDADE. PROPORCIONALIDADE. ABUSO DO
+PODER DIRETIVO. APRESENTAÇÃO NO RECURSO DE REVISTA DE TRECHOS DO V. ACÓRDÃO
+RECORRIDO QUE NÃO REVELAM TODOS OS FUNDAMENTOS DE FATO E DE DIREITO DE SUMA
+IMPORTÂNCIA PARA A EFETIVA COMPREENSÃO DA CONTROVÉRSIA. EXIGÊNCIA DA LEI 13.015/14 NÃO
+ATENDIDA. ÓBICE PROCESSUAL MANIFESTO. PREJUDICADO O EXAME DA TRANSCENDÊNCIA
+A ré impugnou os fundamentos da r. decisão agravada. Sustentou que, “Ao
+contrário do que restou consignado genericamente na decisão monocrática que denegou seguimento ao
+Agravo de Instrumento, a ora Agravante transcreveu os trechos do v. acórdão recorrido e do acórdão
+paradigma na parte em que tratavam sobre a aplicação do art. 482 alínea “a”, da CLT”.
+Ao exame.
+Eis os trechos do v. acórdão recorrido, transcritos no recurso de revista, para
+atender aos termos da Lei 13.015/14:
+“(...)No caso, a autora foi dispensa por justa causa, em 22/3/2022, por ato de improbidade, com
+base no art. 482, "a", da CLT, por "ação desonesta que visa benefício próprio ou de terceiros" (fl. 137).
+Segundo a defesa, a autora apresentou atestado médico de três dias (17 a 19 de março de 2022), por
+inflamação no pé, mas, durante esse período (entre 22h do dia 18/3/2022 e 4h do dia 19/3/2022),
+compareceu a show do cantor Pedro Sampaio (fls. 57/58).
+Incontroverso o afastamento da autora do trabalho, nos dias supracitados, justificado por
+atestado médico, inclusive com a confissão da preposta da ré de que a presenciou "trabalhar com
+machucado no pé" (fl. 161). (...) Em que pese a atitude da autora pudesse indicar a falta de bom
+senso, com a necessidade repouso para a melhor recuperação da lesão, a conduta não se reveste de
+gravidade suficiente para motivar a sua dispensa por justa causa, inclusive pela ausência de histórico
+de outras punições, em inobservância da proporcionalidade. Pelo exposto, declaro a ilicitude da
+dispensa por justa causa da autora, convertendo-a em dispensa imotivada, por iniciativa do
+empregador, condenando-o ao pagamento das diferenças de verbas rescisórias, quais sejam: aviso
+prévio indenizado (36 dias), férias proporcionais (8 /12), 13º salário proporcional (4/12) e indenização
+de 40% sobre o saldo do FGTS.”
+Contudo, não transcreveu os seguintes trechos do v. acórdão recorrido que
+demonstram as premissas fáticas e jurídicas adotadas pelo Tribunal Regional para afastar a justa causa,
+notadamente a conclusão de que, não tendo sido questionada a validade do atestado médico, não
+caberia ao empregador ou ao Poder Judiciário avaliar as condutas praticadas pela autora em sua vida
+pessoal durante o período de afastamento; a ausência de prova de que o comparecimento ao
+espetáculo musical demonstrasse sua capacidade laboral ou pudesse agravar a lesão; e, ainda, a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F296B900B666.
+conclusão de que a conduta não apresentava gravidade suficiente para ensejar a dispensa por justa
+causa, especialmente diante da ausência de histórico de outras punições e da necessidade de
+observância do princípio da proporcionalidade:
+Porquanto não questionada a validade do atestado médico, não cabe ao empregador,
+tampouco ao Poder Judiciário, avaliar as condutas praticadas pela autora, em sua vida pessoal,
+durante o período abrangido pela suspensão do contrato de trabalho, sob pena de uso abusivo do
+poder diretivo.
+Não há como se presumir, na ausência de avaliação por especialista, que a ida da autora a
+espetáculo musical indicaria a sua capacidade laboral, especialmente porque não há provas das
+circunstâncias em que ocorreu. Também, a meu ver, não é correto presumir que o desgaste no show
+poderia agravar a lesão, sendo que, após o término do período de afastamento médico, não houve a
+sua renovação, com o comparecimento ao trabalho (fl. 123).
+Em que pese a atitude da autora pudesse indicar a falta de bom senso, com a necessidade
+repouso para a melhor recuperação da lesão, a conduta não se reveste de gravidade suficiente para
+motivar a sua dispensa por justa causa, inclusive pela ausência de histórico de outras punições, em
+inobservância da proporcionalidade.
+Convém destacar que, de acordo com a jurisprudência desta Corte, a transcrição
+integral, parcial e/ou insuficiente do acórdão prolatado pelo Tribunal Regional nas razões de revista, sem
+indicar o trecho que contém a tese da controvérsia a ser alçada ao crivo desta Corte, sem demonstrar
+analiticamente as violações e divergências jurisprudenciais invocadas e/ou sem impugnar todos os
+fundamentos da decisão recorrida, não atende o requisito estabelecido em lei.
+Nesse sentido citam-se os seguintes precedentes:
+AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. DIFERENÇAS SALARIAIS. RECURSO DE
+REVISTA EM QUE SE PROCEDE À TRANSCRIÇÃO INSUFICIENTE DA DECISÃO RECORRIDA A TÍTULO DE
+PREQUESTIONAMENTO. AUSÊNCIA DE DEMONSTRAÇÃO ANALÍTICA DAS VIOLAÇÕES ALEGADAS. I. A
+transcrição de trecho insuficiente para demonstrar o prequestionamento de todas as questões
+trazidas em recurso não atende ao disposto no art. 896, § 1º-A, da CLT. II. Além disso, a parte também
+não logrou atender à exigência contida no art. 896, § 1º-A, III, da CLT, também acrescentado pela Lei
+nº 13.015/2014, no sentido de que é ônus da parte "expor as razões do pedido de reforma,
+impugnando todos os fundamentos jurídicos da decisão recorrida, inclusive mediante demonstração
+analítica de cada dispositivo de lei, da Constituição Federal, de súmula ou orientação jurisprudencial
+cuja contrariedade aponte". III. Agravo de instrumento de que se conhece e a que se nega
+provimento. (AIRR-20243-81.2014.5.04.0019, Relatora Desembargadora Convocada: Cilene Ferreira
+Amaro Santos, Data de Julgamento: 29/03/2017, 4ª Turma, Data de Publicação: DEJT 31/03/2017)
+RECURSO DE REVISTA. INTERPOSIÇÃO NA VIGÊNCIA DA LEI 13.015/2014 1 - RESPONSABILIDADE
+SUBSIDIÁRIA. CULPA IN VIGILANDO RECONHECIDA PELO TRIBUNAL REGIONAL. AUSÊNCIA DE
+INDICAÇÃO DO TRECHO QUE CONSUBSTANCIA O PREQUESTIONAMENTO. O reclamado, nas razões
+de recurso de revista, não observou os pressupostos do art. 896, § 1º-A, I, da CLT, deixando de indicar
+o trecho da decisão que consubstancia o prequestionamento da controvérsia objeto do recurso de
+revista. Ressalta-se que a transcrição parcial, a qual não contém os fundamentos do acórdão
+recorrido para a caracterização da culpa in vigilando do ente público, não supre o pressuposto
+recursal do aludido dispositivo da CLT, pois não há, neste caso, determinação precisa da tese
+adotada pelo Tribunal Regional, objeto de insurgência no recurso de revista. Recurso de revista não
+conhecido. 2 - INDENIZAÇÃO POR DANOS MORAIS. REITERADO ATRASO DOS SALÁRIOS. É patente a
+relevância do salário, pois é por meio dele que o trabalhador tem a possibilidade de satisfazer suas
+necessidades básicas e as de seus dependentes e, consequentemente, ter garantidas condições
+mínimas de dignidade e de afirmação social. Na hipótese, o TRT registrou que "constatado o
+reiterado atraso no pagamento de salários, além de outros direitos durante a contratualidade".
+Referida mora salarial traz graves e irreparáveis prejuízos para o trabalhador, que depende de seu
+salário para prover seu sustento e o de sua família e se vê no total desamparo. Pela impossibilidade
+de prover suas necessidades básicas em razão do inadimplemento, é possível inferir a ofensa à
+dignidade do trabalhador, não havendo a necessidade de prova do dano moral decorrente de
+prejuízos advindos do ato do empregador. Tal circunstância configura dano moral que deve ser
+reparado pelo reclamado. Recurso de revista não conhecido. 3 - HONORÁRIOS ADVOCATÍCIOS.
+AUSÊNCIA DE CREDENCIAL SINDICAL. Entendimento pessoal da relatora no sentido do cabimento na
+Justiça do Trabalho de condenação em honorários advocatícios tanto pela mera sucumbência como a
+título de perdas e danos, seja na relação de emprego, amparada pela CLT, seja na relação de
+trabalho, protegida pela legislação ordinária, por ser posição que melhor se coaduna com o princípio
+constitucional da igualdade, regendo uniformemente o assunto para todos os jurisdicionados na
+seara laboral. Todavia, em homenagem ao caráter uniformizador da jurisprudência do TST, curvo-me
+ao posicionamento contido nas Súmulas 219 e 329, do TST. Na hipótese dos autos, verifica-se que,
+embora o reclamante tenha declarado na petição inicial a hipossuficiência econômica, é
+incontroverso que não se encontra assistida pelo sindicato de sua categoria profissional, o que
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F296B900B666.
+conduz à contrariedade à Súmula 219, I, do TST. Recurso de revista conhecido e provido. (RR- 21135-
+42.2013.5.04.0401, Relatora Ministra: Delaíde Miranda Arantes, Data de Julgamento: 08/03/2017, 2ª
+Turma, Data de Publicação: DEJT 17/03/2017)
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA - PROCESSO REGIDO PELA LEI Nº
+13.015/2014 - RESPONSABILIDADE SUBSIDIÁRIA - TRANSCRIÇÃO PARCIAL DO TRECHO DO ACÓRDÃO
+RECORRIDO - ART. 896, § 1º-A, I, DA CLT. Não se conhece do recurso de revista quando a parte limita￾se a indicar apenas parte do trecho do acórdão recorrido, deixando de atender ao disposto no art.
+896, § 1º-A, I, da CLT. Agravo de instrumento desprovido. (AIRR- 1338-08.2014.5.02.0076, Relator
+Ministro: Luiz Philippe Vieira de Mello Filho, Data de Julgamento: 08/03/2017, 7ª Turma, Data de
+Publicação: DEJT 10/03/2017)
+AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO SINDICAL RURAL. PRAZO PRESCRICIONAL -
+TRANSCRIÇÃO PARCIAL DA TESE A SER PREQUESTIONADA. DESPROVIMENTO. Não cumpridos os
+requisitos do art. 896, §1º-A, III, da CLT, inviável admitir o recurso de revista interposto. Agravo de
+instrumento desprovido. (AIRR- 1074-08.2013.5.02.0017, Relator Ministro: Aloysio Corrêa da Veiga,
+Data de Julgamento: 08/03/2017, 6ª Turma, Data de Publicação: DEJT 10/03/2017)
+AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA LEI Nº
+13.015/2014. RESPONSABILIDADE SUBSIDIÁRIA. TERCEIRIZAÇÃO LÍCITA 1. A Orientação
+Jurisprudencial nº 191 da SbDI-1 do TST, que trata de contrato de empreitada, não guarda pertinência
+com caso de terceirização lícita. 2. Agravo de instrumento da Reclamada Petrobras de que se
+conhece e a que se nega provimento. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA.
+ADMISSIBILIDADE. LEI Nº 13.015/2014. PREQUESTIONAMENTO. TRANSCRIÇÃO DO TRECHO DO
+ACÓRDÃO. ART. 896, § 1º-A, I, DA CLT 1. A Lei nº 13.015/2014 exacerbou os pressupostos intrínsecos
+de admissibilidade do recurso de revista, como se extrai do novel art. 896, § 1º-A, da CLT. 2. O novo
+pressuposto e ônus do recorrente consistente em "indicar o trecho da decisão recorrida que
+consubstancia o prequestionamento" não se atende meramente por meio de menção ou referência
+à folha do acórdão em que se situa, tampouco mediante sinopse do acórdão, no particular, ou
+transcrição parcial que não abranja todas as razões de decidir quanto ao tema sob análise. A
+exigência em apreço traduz-se em apontar a presença do prequestionamento (salvo vício nascido no
+próprio julgamento) e comprová-lo mediante transcrição textual do tópico nas razões recursais.
+Somente assim se atinge a patente finalidade da lei: propiciar ao relator do recurso de revista no TST
+maior presteza na preparação do voto ao ensejar que, desde logo, confronte o trecho transcrito com
+o aresto acaso apontado como divergente, ou com a súmula cuja contrariedade acaso é alegada, ou
+a violação sustentada de forma analítica pelo recorrente. 3. Inadmissível recurso de revista
+interposto sob a égide da Lei nº 13.015/2014 (decisões publicadas a partir de 22/9/2014) em que a
+parte transcreve trecho parcial e insuficiente do acórdão regional, sem abranger todas as razões de
+decidir do Tribunal Regional quanto aos temas trazidos no recurso de revista. 4. Agravo de
+instrumento da Reclamada Integra Offshore Ltda. de que se conhece e a que se nega provimento.
+(AIRR - 2034-96.2015.5.12.0022, Relator Ministro: João Oreste Dalazen, Data de Julgamento:
+14/12/2016, 4ª Turma, Data de Publicação: DEJT 19/12/2016)
+AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA QUE APRESENTA TRANSCRIÇÃO PARCIAL DE
+ACÓRDÃO REGIONAL QUE IDENTIFICA O PREQUESTIONAMENTO DAS MATÉRIAS OBJETO DO APELO.
+TRECHOS QUE NÃO CONTÊM TODOS OS FUNDAMENTOS ADOTADOS PELO TRIBUNAL REGIONAL.
+AUSÊNCIA DE DEMONSTRAÇÃO ANALÍTICA DA DIVERGÊNCIA JURISPRUDENCIAL INDICADA. LEI
+13.015/2014. Com o advento da Lei 13.015/2014 o novel § lº-A do artigo 896 da CLT exige em seu
+inciso I, como ônus da parte e sob pena de não conhecimento, a indicação do trecho da decisão
+recorrida que consubstancia o prequestionamento da controvérsia objeto do recurso de revista. Por
+outro lado, o novel § 8º incumbe ao recorrente, entre outros encargos na hipótese de o recurso
+pautar-se em dissenso de julgados, o de mencionar as circunstâncias que identifiquem ou
+assemelhem os casos confrontados. No caso concreto, o acórdão regional foi publicado em
+20/1/2015, na vigência da referida lei, e o recurso de revista não apresenta a transcrição do trecho da
+decisão regional que consubstancia o prequestionamento da controvérsia objeto do apelo, nem
+realiza a demonstração analítica do dissenso de julgados. As alterações legislativas no aspecto
+constituem pressuposto de adequação formal de admissibilidade do recurso de revista. A ausência
+desses requisitos formais torna inexequível o apelo e insuscetível de provimento o agravo de
+instrumento. Agravo de instrumento conhecido e desprovido. (AIRR-22-27.2013.5.19.0009, Relator
+Ministro: Alexandre de Souza Agra Belmonte, Data de Julgamento: 31/08/2016, 3ª Turma, Data de
+Publicação: DEJT 02/09/2016)
+AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA INTERPOSTO SOB A ÉGIDE DA LEI Nº
+13.015/2014 - DESCABIMENTO. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO. HONORÁRIOS
+ADVOCATÍCIOS. A transcrição integral do acórdão não atende ao disposto no art. 896, § 1°- A, da CLT,
+uma vez que não há, nesse caso, determinação precisa da tese regional combatida no apelo, nem
+demonstração analítica das violações apontadas. Agravo de instrumento conhecido e desprovido. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F296B900B666.
+(AIRR-80319-09.2014.5.22.010, Ac. 3ª Turma, Relator Ministro: Alberto Luiz Bresciani de Fontan
+Pereira, in DEJT 17/03/2017)
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA - PROCESSO SOB VIGÊNCIA DA LEI Nº
+13.015/2014 - PRESSUPOSTOS RECURSAIS - ART. 896, § 1º-A, I, DA CLT - TRANSCRIÇÃO INTEGRAL DO
+ACÓRDÃO RECORRIDO - AUSÊNCIA DE INDICAÇÃO DO TRECHO DA DECISÃO RECORRIDA QUE
+CONSUBSTANCIA O PREQUESTIONAMENTO DA CONTROVÉRSIA. Após a entrada em vigor da Lei nº
+13.015/2014, conforme disposição do inciso I do § 1º-A do art. 896 da CLT, a parte recorrente deve
+indicar o trecho da decisão recorrida que teria incorrido na violação de dispositivos de lei ou nas
+contrariedades a súmulas ou orientações jurisprudenciais que reputar contrariados, bem como, para
+fins de cotejo analítico, da divergência jurisprudencial indicada, nos termos do § 8º do art. 896 da
+CLT. De acordo com o posicionamento definido pela 7ª Turma, para se atender à previsão do
+dispositivo citado, no recurso de revista, deve estar transcrito expressamente o trecho da decisão
+que consubstancia o prequestionamento da controvérsia, requisito que não foi cumprido. Sublinhe￾se que a transcrição integral do acórdão recorrido não se presta ao fim colimado, pois não cumpre a
+finalidade de delimitar a matéria prequestionada, objeto de impugnação. Agravo de instrumento
+desprovido. (AIRR - 20905-91.2014.5.04.0521, Ac. 7ª Turma, Relator Ministro: Luiz Philippe Vieira de
+Mello Filho, in DEJT 10/03/2017)
+RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA LEI Nº 13.015/2014. INDENIZAÇÃO POR
+DANOS MORAIS. "CHEERS". OBRIGAÇÃO DE CANTAR E DANÇAR HINO MOTIVACIONAL DA EMPRESA. A
+mera transcrição in totum da fundamentação do julgado recorrido, sem a indicação ou explicitação
+da tese discutida e examinada pelo Tribunal a quo, não é suficiente para satisfazer o pressuposto
+recursal do prequestionamento. Com efeito, não é possível o exame do recurso de revista quanto ao
+tema, porquanto as razões recursais não estão conforme o artigo 896, § 1º-A, da CLT, nos termos da
+redação dada pela Lei nº 13.015/2014. Recurso de revista não conhecido (RR-1092-70.2012.5.04.0611,
+Ac. 2ª Turma, Relator Ministro: José Roberto Freire Pimenta, in DEJT 24.4.2015)
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DA MOBRA SERVIÇOS DE VIGILÂNCIA
+LTDA. PROCESSO INTERPOSTO SOB A ÉGIDE DA LEI N.º 13.015/2014. HORAS EXTRAS. REGIME DE
+COMPENSAÇÃO. INTERVALO INTRAJORNADA. Dentre as inovações inseridas na sistemática recursal
+trabalhista pela Lei n.º 13.015/2014, consta, expressa e literalmente, sob pena de não conhecimento
+do Recurso de Revista, a exigência de que a parte proceda à indicação do trecho da decisão
+impugnada que consubstancia o prequestionamento da matéria impugnada no Apelo, bem como a
+demonstração analítica da ofensa aos dispositivos apontados como violados. A transcrição integral
+do acórdão e a indicação dos dispositivos tidos como violados sem a realização do devido cotejo não
+atende ao disposto no § 1.º-A do art. 896 da CLT. Agravo de Instrumento conhecido e não provido
+(ARR - 1522-64.2012.5.04.0015, Ac. 4ª Turma, Relatora Ministra: Maria de Assis Calsing, in DEJT
+8/5/2015)
+Portanto, o apelo interposto pela ré não preencheu requisito de cunho formal,
+previsto na Lei nº 13.015/14.
+Ressalta-se ainda que o recurso de revista tramita sob o rito sumaríssimo e, no
+recurso de revista, verifica-se que a ré fundamentou sua insurgência tão somente na alegada violação
+do art. 482, “a”, da CLT e em divergência jurisprudencial, em desconformidade com a exigência do art.
+896, § 9º, da CLT.
+Óbices processuais manifestos. Prejudicado o exame da transcendência.
+Não desconstituídos, portanto, os fundamentos da r. decisão agravada.
+Nego provimento ao agravo.
+ISTO POSTO
+ACORDAM os Ministros da Sétima Turma do Tribunal Superior do Trabalho, por
+unanimidade, conhecer e negar provimento ao agravo.
+Brasília, 14 de outubro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+ALEXANDRE AGRA BELMONTE
+Ministro Relator
+Firmado por assinatura digital em 19/10/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F296B900B666.
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F296B900B666.
