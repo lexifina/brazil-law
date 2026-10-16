@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei formulado pelo Departamento de Trânsito do Estado do Ceará - DETRAN/CE, com fundamento no art. 18, § 3º, da Lei n. 12.153/2009, contra acórdão da Turma Recursal Provisória da Fazenda Pública do Estado do Rio Grande do Sul, assim ementado (fls. 149/150):
+RECURSO INOMINADO. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. DIREITO ADMINISTRATIVO E TRIBUTÁRIO. VEÍCULO AUTOMOTOR. ALIENAÇÃO SEM COMUNICAÇÃO AO DETRAN. ILEGITIMIDADE PASSIVA PARCIAL. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE. LIMITAÇÃO TEMPORAL À CITAÇÃO DO ÓRGÃO DE TRÂNSITO. SENTENÇA REFORMADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I. CASO EM EXAME:
+Recurso inominado interposto pela parte autora contra sentença que julgou improcedente o pedido de reconhecimento de renúncia da propriedade de veículo automotor, exclusão de responsabilidades por débitos e abstenção de penalidades administrativas, bem como reconheceu a ilegitimidade passiva do DETRAN quanto aos débitos de IPVA.
+II. QUESTÃO EM DISCUSSÃO: Há três questões em discussão: (i) definir se o DETRAN possui legitimidade passiva para responder por débitos e autos de infração lavrados por outros órgãos; (ii) estabelecer se a ausência de comunicação da venda do veículo impede a exclusão de responsabilidade do alienante; (iii) determinar o marco temporal para limitação da responsabilidade solidária do antigo proprietário.
+III. RAZÕES DE DECIDIR:
+3.1 A legitimidade passiva em demandas envolvendo autos de infração de trânsito pertence exclusivamente ao órgão autuador responsável pelo ato administrativo, não podendo o DETRAN responder por penalidades aplicadas por entidades diversas.
+3.2 A ausência de comunicação da venda ao órgão de trânsito mantém o alienante responsável solidário pelas penalidades e encargos incidentes sobre o veículo, nos termos dos arts. 123 e 134 do CTB.
+3.3 A responsabilidade solidária do alienante pode ser mitigada quando demonstrada a boa- fé e a efetiva alienação do bem, especialmente mediante provocação judicial que dá ciência ao ente público.
+3.4 A limitação da responsabilidade deve ocorrer a partir da citação válida do DETRAN, momento em que a Administração toma ciência inequívoca da alienação.
+3.5 A responsabilidade por débitos tributários, como o IPVA, depende de previsão legal específica, sendo legítima a manutenção da solidariedade quando existente norma estadual expressa. 3.6 A exclusão de pontuação e de responsabilização por infrações posteriores à ciência do órgão de trânsito decorre da ruptura do vínculo jurídico-material com o bem.
+IV. DISPOSITIVO E TESE:
+Recurso conhecido e parcialmente provido.
+Teses de julgamento: 1. O DETRAN não possui legitimidade passiva para responder por autos de infração lavrados por outros órgãos de trânsito. 2. A ausência de comunicação da venda do veículo ao órgão competente gera responsabilidade solidária do alienante pelas penalidades e encargos. 3. A responsabilidade do alienante pode ser limitada a partir da citação do DETRAN, quando demonstrada a alienação do bem e a boa-fé do proprietário. 4. A responsabilidade por débitos de IPVA exige previsão em lei estadual específica, mantendo-se a solidariedade quando existente norma expressa.
+Dispositivos relevantes citados: CF/1988, arts. 5º, XXXV; CTB, arts. 123, 134, 21, 22, 24 e 281; CPC, arts. 17, 18, 99, §3º e 485, VI; Lei nº 12.153/2009, art. 27; Lei Estadual nº 12.023/1992.
+Jurisprudência relevante citada: STJ, Tema 1118; TJ/RS, Recurso Cível nº 71007237423, Rel. Mauro Caum Gonçalves, j. 29/11/2017; TJ/RS, Recurso Cível nº 71007091739, Rel. Thais Coutinho de Oliveira, j. 10/11/2017; TJ/CE, RI nº 0131070- 37.2019.8.06.0001, Rel. André Aguiar Magalhães, j. 29/04/2021; TJ/CE, RI nº 0228244-12.2020.8.06.0001, Rel. Ana Paula Feitosa Oliveira, j. 20/04/2021; TJ/CE, RI nº 0127579-22.2019.8.06.0001, Rel. Mônica Lima Chaves, j. 13/04/2021; TJ/CE, RI nº 0161999-53.2019.8.06.0001, Rel. André Aguiar Magalhães, j. 27/04/2023; TJ/CE, RI nº 0249247-86.2021.8.06.0001, Rel. Alisson do Valle Simeão, j. 12/01/2023.
+Sustenta a requerente que (fl. 169):
+O cerne da controvérsia cinge-se em perquirir se existe, ou não, desacerto no acórdão proferido pela 3ª Turma Recursal dos Juizados Especiais da Fazenda Pública do Tribunal de Justiça do estado do Ceará, que reconheceu que a responsabilidade solidária da parte autora seja até a data da citação do DETRAN/CE.
+Contrarrazões às fls. 191/210.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Verifica-se que a controvérsia em tela refere-se à questão objeto do Tema repetitivo n. 1.324/STJ:
+Definir a responsabilidade do alienante de veículo automotor por infrações administrativas e/ou de trânsito cometidas após a alienação, nos casos em que esta não é comunicada ao órgão de trânsito competente na forma e no prazo legais.
+ANTE O EXPOSTO, com fundamento no art. 256-L, inciso I, do Regimento Interno do Superior Tribunal de Justiça, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema n. 1.324/STJ), sejam observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se.
+EMENTA
