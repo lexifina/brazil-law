@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SILVANO DOS SANTOS ANDRADE, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de obrigação de fazer c/c cobrança de multa contratual, ajuizada por MARCOS FREITAS DE SOUSA, em face da parte agravante.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL - JUSTIÇA GRATUITA - DEFERIMENTO - DESCUMPRIMENTO CONTRATUAL PELO PROMITENTE COMPRADOR - ATRASO NO PAGAMENTO E INADIMPLEMENTO DE ENCARGOS - CLÁUSULA PENAL - REDUÇÃO IMPOSSIBILIDADE NO CASO CONCRETO - PRECEDENTES DO STJ - DANOS MORAIS - INSCRIÇÃO INDEVIDA DO PROMITENTE VENDEDOR EM DÍVIDA ATIVA - CONFIGURAÇÃO - QUANTUM MANTIDO - DANOS MATERIAIS - RESSARCIMENTO DEVIDO - GRATUIDADE JUDICIÁRIA RECURSAL DEFERIDA - CONSECTÁRIOS LEGAIS - ADEQUAÇÃO DE OFÍCIO - LEI Nº 14.905/2024. Considerando a documentação apresentada e a ausência de prova robusta em sentido contrário quanto à situação financeira atual do Apelante, deve ser deferido o pedido de gratuidade judiciária formulado, com efeitos ex nunc, dispensando-o do recolhimento do preparo recursal. Configurado o descumprimento contratual pelo promitente comprador, consistente no atraso do pagamento da última parcela, na ausência de quitação de IPTU e contas de energia elétrica de sua responsabilidade e na mora em providenciar a lavratura da escritura definitiva, impõem-se as consequências legais e contratuais. A cláusula penal deve ser reduzida equitativamente pelo juiz, nos termos do art. 413 do Código Civil, quando a obrigação principal (pagamento do preço) foi cumprida em parte e o montante da penalidade se mostrar manifestamente excessivo diante da natureza e finalidade do negócio. A inscrição indevida do nome do promitente vendedor em dívida ativa, em virtude de débitos de IPTU não pagos pelo promitente comprador após a imissão na posse, bem como o impedimento de recebimento de créditos municipais, configuram dano moral in re ipsa, passível de indenização, cujo valor deve ser mantido se fixado com razoabilidade e proporcionalidade. É devido o ressarcimento ao promitente vendedor dos valores por ele despendidos com o pagamento de encargos do imóvel de responsabilidade contratual do comprador. Os consectários legais da condenação devem ser adequados de ofício, por se tratar de matéria de ordem pública, para observância das alterações promovidas pela Lei nº 14.905/2024.
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) incidência da Súmula 7 do STJ; e
+ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que:
+i) não pretende o reexame de fatos e provas; e
+ii) é inaplicável o óbice da Súmula 83/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) incidência da Súmula 7 do STJ; e
+ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 10% o valor dos honorários fixados anteriormente, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
