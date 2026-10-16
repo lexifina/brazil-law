@@ -1,0 +1,47 @@
+DECISÃO
+
+Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (Doc. 214, fls. 1-2):
+
+“Ação de conhecimento com pedido de indenização por danos material e moral. PETROBRAS - Petróleo Brasileiro S/A no polo passivo. Autores que alegam ser pescadores artesanais profissionais, prejudicados pelas obras de instalação de píer na Baía de Guanabara, no Complexo Petroquímico do Rio de Janeiro – COMPERJ. Sentença de improcedência. Apelo dos autores. Preliminar de nulidade, por cerceamento de defesa ora afastada. Quanto ao mérito, trata-se de obras iniciadas em março de 2013, inexistindo nos autos, prova robusta de modo a demonstrar o exercício da atividade profissional pesqueira dos autores, à época. Fragilidade da prova documental produzida pelos demandantes. Ausência da demonstração concreta do prejuízo. Prova produzida nos autos que não autoriza a conclusão de que os autores exerciam a profissão de pescador no referido período e no aludido local. Incidência do art. 373, I do CPC que incumbe à parte autora, a demonstração do direito que alega ter, o que não ocorreu nos autos. Questão já debatida em outras Câmaras Cíveis desta Corte. Precedentes. Manutenção da sentença. Honorários recursais incidentes à espécie. DESPROVIMENTO DO RECURSO.”
+
+Opostos Embargos de Declaração (Doc. 216), foram desprovidos (Doc. 226).
+No Recurso Extraordinário (Doc. 236), com fundamento no art. 102, III, “a”, da Constituição Federal, MATHEUS BARROSO FERREIRA e OUTROS apontam violação ao art. 225, § 3º, da CF/1988, defendendo o direito à indenização por danos materiais e morais decorrentes do impacto ambiental provocado pelas obras realizadas pela PETROBRAS, em especial aquela destinada à construção do Pier na Praia da Beira, situada no Município de São Gonçalo/RJ, realizada para viabilizar a implantação do Complexo Petroquímico do Rio de Janeiro (COMPERJ).
+Sustentam que são pescadores artesanais, retirando seu sustento da Baía de Guanabara, e que em razão das obras realizadas pela parte recorrida, ficaram impedidos de exercer sua atividade profissional.
+Aduzem que o acórdão recorrido desconsiderou as provas produzidas nos autos e concluiu, equivocadamente, que eles não demonstraram o efetivo exercício da pesca nem os danos sofridos.
+Ponderam que “o acórdão ora hostilizado desafia a lei e a jurisprudência do STF, concluindo absurdamente em desfavor da vítima, ignorando totalmente o Princípio do Poluidor Pagador, previsto na Constituição Federal em seu artigo 225” (Doc. 236, fl. 11).
+Requerem, ao final, o provimento do presente recurso, de modo que seja anulado o acórdão recorrido para que seja proferido novo julgamento pelo Tribunal local (Doc. 236, fl. 12).
+Em exame de admissibilidade (Doc. 245), o Juízo de origem inadmitiu o RE aos fundamentos de que a matéria controvertida depende da análise da legislação infraconstitucional pertinente e do reexame do conjunto fático-probatória, atraindo a incidência da Súmula 279/STF.
+No agravo (Doc. 248), a parte agravante refuta todos os óbices apontados.
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgRsegundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Eis os fundamentos da parte para sustentar a repercussão geral da matéria (Doc. 236, fl. 4):
+
+“De início, demonstra-se a repercussão geral da matéria constitucional enfocada nestes autos, cuja apreciação pelo Pretório Excelso desborda da mera guarda da integridade do dispositivo constitucional invocado, tendo reflexos na solução de incontáveis lides em que é postulado o ressarcimento de danos ambientais de intensa gravidade.
+A repercussão geral da presente questão é evidente, na medida em que o acórdão recorrido contrariou a jurisprudência dominante desta Corte Superior, o que prejudicará milhares de lides que de matéria idêntica, que envolvam o ressarcimento dos danos praticados por grandes empresas aos particulares (pescadores), em decorrência de danos ambientais.
+Finalmente, é importante destacar que a ofensa do aresto recorrido à norma constitucional do artigo 225 da Carta Magna se traduz em violação direta à Constituição, de maneira que não se constata qualquer óbice no entendimento de que é incabível o recurso extraordinário fundado em violação reflexa a texto constitucional.
+Neste sentido, faz-se imperativa a admissão da repercussão preliminarmente apresentada.”
+
+Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, o Tribunal de origem, à luz das provas dos autos, manteve a sentença de improcedência do pedido ao fundamento de que os autores não demonstraram a efetiva atividade pesqueira na data de início das obras, tampouco comprovaram que pescavam na praia da Beira e Itaoca e que foram impedidos de fazê-lo.
+Assim, para divergir dos fundamentos adotados pelo acórdão recorrido seria necessário analisar a questão à luz do conteúdo probatório dos autos, providência vedada na via extraordinária, conforme previsto na Súmula 279/STF (para simples reexame de prova não cabe recurso extraordinário).
+Nesse sentido, confiram-se os seguintes precedentes:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E AMBIENTAL. AÇÃO CIVIL PÚBLICA. IMPLANTAÇÃO DE GASODUTO. DANOS AMBIENTAIS. NEXO DE CAUSALIDADE. RESPONSABILIDADE SOLIDÁRIA. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO E NA LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 1.554.912 AGR, Relatora: Min. Cármen Lúcia, Primeira Turma, DJe 2/10/2025)
+
+“DIREITO AMBIENTAL. RESPONSABILIDADE CIVIL POR DANOS AMBIENTAIS. ANÁLISE DE EVENTUAL VIOLAÇÃO DA CONSTITUIÇÃO FEDERAL DEPENDENTE DE REELABORAÇÃO DA ESTRUTURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 31.7.2013.
+A controvérsia, a teor do que já asseverado na decisão guerreada, não alcança estatura constitucional. A pretensão do agravante encontra óbice na Súmula 279 do Supremo Tribunal Federal, pois eventual ofensa aos preceitos constitucionais invocados somente se materializaria, no caso, de forma reflexa, a demandar, em primeiro plano para sua constatação, a reelaboração do quadro fático delineado.
+As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+Agravo regimental conhecido e não provido.” (ARE 869.954 AgR, Relatora: Min. Rosa Weber, Primeira Turma, DJe 14/5/2015)
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. DANO AMBIENTAL. PETROBRÁS. ATIVIDADE PESQUEIRA. ALEGAÇÕES GENÉRICAS DO DANO. FALTA DE COMPROVAÇÃO. NEXO DE CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. AGRAVO DESPROVIDO.” (ARE 976.509, Rel. Min. LUIZ FUX, DJe 2/9/2016)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+Caso haja honorários advocatícios fixados nestes autos em favor da parte recorrida, seu valor monetário fica majorado em 10% (Código de Processo Civil, art. 85, parágrafo 11), observada eventual concessão de justiça gratuita, e respeitado o limite legal máximo para a verba honorária.
+Publique-se.
+Brasília, 16 de outubro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
