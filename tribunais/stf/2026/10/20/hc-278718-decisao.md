@@ -1,0 +1,65 @@
+DECISÃO: Trata-se de habeas corpus impetrado pela Defensoria Pública da União (DPU), em favor de Valdecir Prestes Narcizo, contra acórdão do Superior Tribunal de Justiça, proferido no julgamento dos EDcl no AgRg no AREsp 3.258.609 /PR, assim ementado:
+
+“PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRESTAÇÃO PECUNIÁRIA. REVISÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. CONCESSÃO DE  HABEAS CORPUS DE OFÍCIO. INICIATIVA EXCLUSIVA DO JULGADOR. VÍCIOS. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Como é cediço, os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível, para o seu cabimento, a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619, do CPP. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do  decisum   embargado. A mera irresignação com o entendimento apresentado na decisão não tem o condão de viabilizar a oposição dos aclaratórios.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir que a prestação pecuniária foi fixada com fundamentação idônea, observando os parâmetros legais do art. 45, § 1º, do CP e circunstâncias concretas do caso (natureza e valor das mercadorias apreendidas, gravidade do fato, capacidade econômica do condenado e possibilidade de parcelamento), o que autoriza patamar acima do mínimo legal, sendo que a revisão do  quantum pretendida exige reexame da capacidade financeira e das circunstâncias fáticas apreciadas pelas instâncias ordinárias, providência vedada em recurso especial pela Súmula 7/STJ.
+3. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+4. A concessão de  habeas corpus de ofício é de iniciativa exclusiva do julgador, não sendo vislumbrada ilegalidade flagrante no caso. Precedentes.
+5. Embargos de declaração rejeitados”. (eDOC 4, p. 32-33).
+
+Narra a impetrante (eDOC 1) que o paciente foi condenado à pena de 2 anos de reclusão, em regime aberto, substituída por restritivas de direitos, pela prática do crime de descaminho (art. 334, § 1º, I e V, do Código Penal). Os produtos foram avaliados em R$ 37.500,00 (trita e sete mil e quinhentos reais), com tributos iludidos no montante de R$ 24.375,00 (vinte e quatro mil, trezentos e setenta e cinco reais). (eDOC 3, p. 148-154)
+O Tribunal Regional Federal da 4ª Região negou provimento ao apelo defensivo (eDOC 3, p. 193-207)
+Alegando violação ao teor do art. 45, §1º, do Código Penal, a defesa interpôs recurso especial, que foi inadmitido na origem (eDOC 3, p. 241-246).
+O ministro relator no Superior Tribunal de Justiça conheceu do subsequente agravo para não conhecer do recurso especial (eDOC 3, p. 292-295). A Quinta Turma negou provimento ao agravo regimental (eDOC 4, p. 13-18) e rejeitou os embargos de declaração opostos na sequência (eDOC 4, p. 32-36).
+Nesta Corte, alega que a fixação da prestação pecuniária desconsiderou “a neutralidade das circunstâncias judiciais do art. 59 do CP e a pequena renda do ora paciente, de um salário-mínimo e o fato de ter dois filhos menores de idade”. (p. 4)
+Assevera que “o valor da pena teve como parâmetro único o futuro parcelamento e, em consequência, o comprometimento máximo de 30% da renda mensal com o pagamento da prestação, o que não encontra respaldo legal.” (p. 5)
+Pugna pela concessão da ordem, para que que se fixe a prestação pecuniária em 1 (um) salário mínimo.
+É o relatório.
+Decido.
+
+Conforme relatado, a DPU requer a redução da prestação pecuniária ao argumento de que o paciente tem renda mensal média de apenas R$ 1.700,00 (um mil e setecentos reais) e 2 filhos menores que dele dependem economicamente.
+No tocante à reprimenda aplicada, o artigo 45, § 1º, do Código Penal prevê que a prestação pecuniária tem como função a reparação do dano decorrente do crime praticado:
+
+“Art. 45. [...]
+§ 1o  A prestação pecuniária consiste no pagamento em dinheiro à vítima, a seus dependentes ou a entidade pública ou privada com destinação social, de importância fixada pelo juiz, não inferior a 1 (um) salário mínimo nem superior a 360 (trezentos e sessenta) salários mínimos. O valor pago será deduzido do montante de eventual condenação em ação de reparação civil, se coincidentes os beneficiários.”
+
+Na espécie, a substituição da pena privativa de liberdade por restritivas de direito realizada pelo Juízo de origem foi assim fundamentada:
+
+“3.3. Substituição e suspensão da pena privativa de liberdade
+Reputo cabível a substituição da pena privativa de liberdade, na forma do artigo 44 do Código Penal, tendo em vista a quantidade de pena aplicada e as condições pessoais da parte acusada, pelo que substituo a pena privativa de liberdade por duas penas restritivas de direitos, nos termos do § 2º do artigo 44 do Código Penal, quais sejam: a) prestação pecuniária, no valor de 5 (cinco) salários mínimos, em vigor no momento da execução, a ser destinada a entidade social cadastrada neste Juízo; b) e prestação de serviços à comunidade, em entidades assistenciais, hospitais, escolas, orfanatos e outros estabelecimentos congêneres, a ser definido durante o Processo de Execução Penal, segundo as aptidões da parte ré e à razão de 1 (uma) hora por dia de condenação, fixadas de modo a não prejudicar a jornada normal de trabalho, na forma do § 3º do artigo 46 do Código Penal.
+Ressalto que o critério utilizado para a fixação do valor da prestação pecuniária foi a finalidade de prevenção e reprovação dos delitos, as circunstâncias judiciais e o valor das mercadorias apreendidas.
+Advirto a parte ré que o descumprimento injustificado da pena restritiva de direito, ora imposta, ensejará a conversão dessa em pena privativa de liberdade (artigo 44, § 4º, do CP).
+Sendo cabível a substituição da pena privativa de liberdade, não há falar na sua suspensão condicional, nos termos do artigo 77, inciso III, do Código Penal, razão pela qual deixo de apreciar a possibilidade de concessão do ‘sursis’”. (eDOC 3, p. 153)
+
+Essa conclusão foi ratificada pelo TRF da 4ª Região no julgamento do apelo defensivo. Reporto-me ao seguinte trecho da dosimetria da pena:
+
+“3.1 Valor da prestação pecuniária
+O apelante requer a redução do valor da prestação pecuniária para 1 (um) salário mínimo ou, subsidiariamente, para o menor valor possível, compatível com a condição socioeconômica do sentenciado, bem como a determinação de que o cálculo da prestação pecuniária seja feito com base no valor do salário-mínimo vigente à época dos fatos, com posterior correção monetária, e não com base no valor vigente à época do pagamento.
+A análise do pleito exige a observância dos parâmetros estabelecidos pelo art. 45, §1º, do Código Penal, segundo o qual a prestação deve se situar-se entre 1 e 360 salários mínimos. A fixação do montante não se limita à aferição da capacidade econômica do condenado, devendo o magistrado ponderar um conjunto de fatores que assegurem que a sanção seja suficiente para reprovação e prevenção do delito, sem se tornar, por outro lado, excessivamente onerosa a ponto de inviabilizar seu cumprimento.
+Entre os elementos que devem ser considerados, destacam-se a gravidade concreta da infração, a pena privativa de liberdade substituída, o valor dos tributos iludidos e a situação econômica do réu. A prestação pecuniária, portanto, deve guardar proporcionalidade com a ofensa e com as condições pessoais do condenado.
+A jurisprudência desta Corte tem entendido que a soma da pena de multa eventualmente aplicada com a prestação pecuniária, quando distribuída ao longo dos meses correspondentes à pena privativa de liberdade, não deve ultrapassar montante que inviabilize a manutenção do condenado, considerando-se razoável, como orientação geral, o dispêndio aproximado de 30% de sua renda mensal.
+Esse critério, porém, não é absoluto, podendo variar conforme as circunstâncias identificadas no processo, como no caso de fortes indicativos de que o réu atua em nome de organização criminosa de elevada capacidade financeira. São representativos de tal envolvimento, por exemplo, o elevado valor de mercadorias (eletrônicos, drogas, dentre outros) apreendidas, sonegação de significativa importância nos crimes tributários, pagamento de fiança de alto montante ou, ainda, exercício de atividade empresarial (contemporânea ou não aos fatos e a sentença condenatória).
+Além disso, não se reconhece ilegalidade da prestação pecuniária apenas a partir de alegações genéricas de desproporção, prevalecendo a discricionariedade motivada do julgador e a ponderação entre o valor fixado e a finalidade da sanção.
+Na hipótese, o réu declarou possuir uma renda mensal média de R$ 1.700,00 decorrente da atividade de auxiliar de obra. Declarou ainda que possui 2 filhos menores de idade.
+A prestação pecuniária foi arbitrada em 5 (cinco) salários mínimos (R$ 8.105,00), que dividido pelo número de meses da pena privativa de liberdade (24 meses) resulta em R$ 337,70 mensais, sendo quantia irrelevante para comprometer a equação valor/necessidade, situando-se dentro de patamar razoável diante das circunstâncias do caso.
+Além disso, considerando a pena fixada, a quantidade de cigarros apreendidos e o valor dos tributos iludidos, entendo adequado estipular a prestação pecuniária no equivalente a 5 (cinco) salários mínimos.
+Assim, indefiro o pedido do apelante, mantendo o valor da prestação pecuniária estabelecido na sentença — correspondente a 5 (cinco) salários mínimos, vigentes à época do efetivo pagamento.
+Registre-se, por fim, que eventual adequação das condições de cumprimento, inclusive quanto ao parcelamento, poderá ser examinada pelo juízo da execução, nos termos do art. 66, V, “a”, c/c art. 169, § 1º, da Lei nº 7.210/84.
+Por fim, tenho que não merece acolhimento o pedido de fixação do salário mínimo vigente à data dos fatos como base do valor da prestação pecuniária fixada. Isso porque é firme na jurisprudência desta Corte o entendimento de que o cálculo da prestação pecuniária deverá observar o valor do salário mínimo vigente à época do efetivo pagamento.
+Na linha de entendimento deste Tribunal, "se, quando da previsão da pena de multa (CP, art. 49), o legislador ordinário expressamente fez constar que o salário mínimo a ser considerado na hipótese seria aquele vigente ao tempo do fato, ao quedar-se silente no dispositivo que regula a prestação pecuniária (CP, art. 45, § 1º), permite concluir que o valor do salário mínimo a ser considerado no pagamento da mencionada pena é aquele vigente no momento do adimplemento da pena" (TRF 4ª Região, 8ª Turma, EDACR nº 199971050052937/RS, Rel. Des. Federal Paulo Afonso Brum Vaz, DJU 09.06.2004).
+[...] Portanto, indefiro o apelo, no ponto.” (eDOC 3, p. 203-205)
+
+Por fim, consignou o Superior Tribunal de Justiça:
+
+“Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir que a prestação pecuniária foi fixada com fundamentação idônea, observando os parâmetros legais do art. 45, § 1º, do CP e circunstâncias concretas do caso (natureza e valor das mercadorias apreendidas, gravidade do fato, capacidade econômica do condenado e possibilidade de parcelamento), o que autoriza patamar acima do mínimo legal, sendo que a revisão do  quantum pretendida exige reexame da capacidade financeira e das circunstâncias fáticas apreciadas pelas instâncias ordinárias, providência vedada em recurso especial pela Súmula 7/STJ.” (eDOC 4, p. 36)
+
+Realmente, para divergir do entendimento firmado pelas instâncias ordinárias seria necessária ampla dilação probatória, com nova instrução processual, procedimento inexistente no rito do habeas corpus.
+Além do mais, a jurisprudência desta Corte é firme no sentido de que cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional.
+Na espécie, todavia, penso que o Juízo de origem pode apurar a possibilidade de parcelamento da prestação pecuniária, se comprovada a alegada dificuldade de pagamento, tendo em vista que a pena pecuniária foi arbitrada em 5 salários mínimos (R$ 8.105,00) e a renda mensal média declarada pelo paciente foi de R$ 1.700,00.
+Ante o exposto, concedo parcialmente a ordem de habeas corpus (art. 192, caput, RISTF) para determinar ao Juízo de primeiro grau que avalie a possibilidade de parcelamento da prestação pecuniária, à vista da comprovação da situação financeira do paciente.
+Publique-se.
+Brasília, 20 de outubro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
