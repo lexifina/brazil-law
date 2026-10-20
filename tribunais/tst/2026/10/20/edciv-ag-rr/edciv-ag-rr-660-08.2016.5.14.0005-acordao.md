@@ -1,0 +1,1318 @@
+Poder Judiciário
+Justiça do Trabalho
+${SVNOMEORGAO}
+PROCESSO Nº TST-EDCiv-Ag-RR - 660-08.2016.5.14.0005
+A C Ó R D Ã O
+4ª Turma
+GMALR/MYOS
+EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO DE
+REVISTA OPOSTOS PELA PARTE AUTORA SINDICATO DOS
+EMPREGADOS EM ENTIDADES CULTURAIS, RECREATIVAS, DE
+ASSISTÊNCIA SOCIAL, DE ORIENTAÇÃO E FORMAÇÃO
+PROFISSIONAL DO ESTADO DE RONDÔNIA - SENALBA.
+DISPENSA EM MASSA SEM PRÉVIA NEGOCIAÇÃO COM O
+SINDICATO DA CATEGORIA. TEMA Nº 638 DO SUPREMO
+TRIBUNAL FEDERAL. DEMISSÕES OCORRIDAS ANTES DO
+MARCO TEMPORAL. VALIDADE. AUSÊNCIA DE OMISSÃO.
+CONHECIMENTO E PROVIMENTO APENAS PARA PRESTAR
+ESCLARECIMENTOS.
+I. Embargos de declaração conhecidos e providos apenas para
+prestar esclarecimento. II. Embargos de declaração de que se
+conhece e a que se dá provimento parcial, apenas para
+prestar esclarecimentos, sem alteração do julgado.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo em Recurso de Revista nº TST-EDCiv-Ag-RR - 660-08.2016.5.14.0005, em que é Embargante
+SINDICATO DOS EMPREGADOS EM ENTIDADES CULTURAIS, RECREATIVAS, DE ASSISTÊNCIA SOCIAL, DE
+ORIENTAÇÃO E FORMAÇÃO PROFISSIONAL DO ESTADO DE RONDÔNIA - SENALBA/RO e é
+Embargado(a) SEST SERVICO SOCIAL DO TRANSPORTE E OUTRO.
+A parte Autora opõe embargos de declaração em face de acórdão desta Quarta
+Turma, em que negado provimento ao seu recurso de agravo.
+É o relatório.
+V O T O
+I – CONHECIMENTO
+Presentes os requisitos de admissibilidade, CONHEÇO dos embargos de
+declaração.
+II – MÉRITO
+O acórdão embargado foi proferido nos seguintes termos:
+AGRAVO EM RECURSO DE REVISTA DO SINDICATO DOS EMPREGADOS EM
+ENTIDADES CULTURAIS, RECREATIVAS, DE ASSISTÊNCIA SOCIAL, DE ORIENTAÇÃO E
+FORMAÇÃO PROFISSIONAL DO ESTADO DE RONDÔNIA - SENALBA. ACÓRDÃO REGIONAL
+PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017.
+1. DISPENSA EM MASSA SEM PRÉVIA NEGOCIAÇÃO COM O SINDICATO DA
+CATEGORIA. TEMA Nº 638 DO SUPREMO TRIBUNAL FEDERAL. MODULAÇÃO DE EFEITOS
+EM EMBARGOS DE DECLARAÇÃO. DEMISSÕES OCORRIDAS ANTES DO MARCO TEMPORAL.
+VALIDADE. DECISÃO MONOCRÁTICA DO RELATOR QUE DEU PROVIMENTO AO AGRAVO
+DE INSTRUMENTO E AO RECURSO DE REVISTA DOS RECLAMADOS. TRANSCENDÊNCIA
+POLÍTICA RECONHECIDA. CONHECIMENTO E NÃO PROVIMENTO.
+I. A jurisprudência pacífica do Supremo Tribunal Federal é no sentido de ser
+vinculante, quanto às decisões judiciais supervenientes, a tese firmada em ação de
+controle de constitucionalidade ou em repercussão geral reconhecida, caracterizando-se
+coisa julgada inconstitucional a produção de decisão que não observe referido
+entendimento. Inclusive, em inúmeras reclamações constitucionais, o STF tem superado
+óbices processuais cuja aplicação envolva certa carga de subjetividade (como o art. 896,
+§ 1º-A, I, da CLT e a Súmula 422 do TST), apontados pelo TST para denegar seguimento a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+agravos de instrumento e recursos de revista, quando verifica que a questão de fundo
+tratada na origem se refere à tese vinculante fixada pelo STF (cfr. Rcl 37.740 MC-MA, Rel.
+Min. Cármen Lúcia, decisão monocrática, DJe de 30/10/19; Rcl 37.298-MA, Rel. Min.
+Alexandre de Moraes, decisão monocrática, DJe de 21/10/19; Rcl 37.809 MC-SP, Rel. Min.
+Luiz Fux, decisão monocrática, DJe de 19/11/19; Rcl 37.465 MC-MA, Rel. Min. Cármen
+Lúcia, decisão monocrática, DJe de 11/11/19). II. Quanto à questão em debate, o Tribunal
+Regional manteve a sentença que julgou parcialmente procedente os pedidos
+formulados na presente ação civil pública, ajuizada pelo SINDICATO DOS EMPREGADOS
+EM ENTIDADES CULTURAIS, RECREATIVAS, DE ASSISTENCIA SOCIAL, DE ORIENTAÇÃO E
+FORMAÇÃO PROFISSIONAL DO ESTADO DE RONDÔNIA - SENALBA/RO , em face de SEST -
+SERVIÇO SOCIAL DO TRANSPORTE e SENAT - SERVIÇO NACIONAL DE APRENDIZAGEM DO
+TRANSPORTE , confirmando a declaração de ineficácia das demissões em massa levadas
+a efeito pelos Reclamados, em face da necessidade de negociação prévia coletiva.
+Asseverou que a controvérsia cingiu-se sobre ser necessária ou não a prévia negociação
+ante a premência de demissão em massa e, neste aspecto, a sentença fora
+suficientemente fundamentada, pois demonstrou claramente ser coletiva as demissões
+perpetradas pelas Recorrentes e que foram irregularmente realizadas face a ausência
+de negociação prévia. III. A questão já está resolvida pelo Supremo Tribunal Federal, no
+julgamento do Tema nº 638 da Tabela de Repercussão Geral daquela Corte. Em se
+tratando de discussão jurídica já pacificada por tese com efeito vinculante e eficácia erga
+omnes firmada pelo STF em repercussão geral reconhecida, cabe às demais instâncias
+do Poder Judiciário tão-somente aplicá-la nos casos concretos enquanto o processo não
+transitar em julgado, ou seja, enquanto pendente de recurso, mesmo no caso de recurso
+excepcional, como é a hipótese do recurso de revista. Logo, embora o Supremo Tribunal
+Federal, no julgamento do RE nº 999.435, finalizado em 8/6/2022, tenha fixado a tese de
+repercussão geral, relativa ao Tema nº 638, de que " a intervenção sindical prévia é
+exigência procedimental imprescindível para a dispensa em massa de trabalhadores,
+que não se confunde com autorização prévia por parte da entidade sindical ou
+celebração de convenção ou acordo coletivo " (DJE 15/09/2022), posteriormente, acolheu
+os embargos de declaração para modular os efeitos da referida decisão, assentando que
+a exigência da intervenção sindical prévia só é aplicável às dispensas coletivas ocorridas
+após a data da publicação da ata do julgamento de mérito, em 14/6/2022. Nesse
+contexto, a hipótese dos autos não contempla a limitação temporal determinada pela
+Suprema Corte para a aplicação da necessidade de intervenção sindical prévia nas
+hipóteses de dispensa coletiva, eis que as dispensas ocorreram no ano de 2016, de modo
+que, sendo improcedente a ação civil pública, não há falar em autonomia das multas
+aplicadas e do bloqueio de valores diante do afastamento da errônea presunção de
+ilicitude da dispensa em massa mantida pelo Tribunal de Origem, ou seja, da
+necessidade de intervenção sindical prévia nas hipóteses de dispensa coletiva. IV.
+Fundamentos da decisão agravada não desconstituídos. V. Agravo de que se conhece e a
+que se nega provimento.
+Vistos, relatados e discutidos estes autos de Agravo em Recurso de Revista nº TST￾Ag-RR - 660-08.2016.5.14.0005 , em que é Agravante(s) SINDICATO DOS EMPREGADOS EM
+ENTIDADES CULTURAIS, RECREATIVAS, DE ASSISTÊNCIA SOCIAL, DE ORIENTAÇÃO E
+FORMAÇÃO PROFISSIONAL DO ESTADO DE RONDÔNIA - SENALBA e é Agravado(s) SEST
+SERVICO SOCIAL DO TRANSPORTE E OUTRO .
+Por decisão monocrática, deu-se provimento ao agravo de instrumento dos
+Reclamados para conhecer do seu recurso de revista, e no mérito, desde logo, dar-lhe
+provimento para declarar a validade das dispensas em massa efetuadas pelos
+Recorrentes e afastar a determinação de reintegração, bem como excluir todas as
+condenações que lhes foram impostas na sentença e mantidas pelo Tribunal Regional,
+julgando improcedente a ação civil pública.
+A parte ora Agravante interpõe recurso de agravo, em que pleiteia, em síntese, a
+reforma da decisão agravada, com a manutenção da decisão regional.
+Contraminuta foi apresentada pelos Reclamados.
+Os autos não foram remetidos ao Ministério Público do Trabalho.
+É o relatório.
+V O T O
+1. CONHECIMENTO
+Atendidos os pressupostos legais de admissibilidade do presente agravo, dele
+conheço .
+2. MÉRITO
+A decisão ora agravada está assim fundamentada, na fração de interesse:
+"A parte ora Agravante insiste no processamento do recurso de revista, sob o
+argumento, em suma, de que o apelo atende integralmente aos pressupostos legais de
+admissibilidade.
+Convém sinalizar, de plano, que a jurisprudência pacífica do Supremo Tribunal
+Federal é no sentido de ser vinculante, quanto às decisões judiciais supervenientes, a
+tese firmada em ação de controle de constitucionalidade ou em repercussão geral
+reconhecida, caracterizando-se coisa julgada inconstitucional a produção de decisão que
+não observe referido entendimento.
+Inclusive, em inúmeras reclamações constitucionais, o STF tem superado óbices
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+processuais cuja aplicação envolva certa carga de subjetividade (como o art. 896, § 1º-A,
+I, da CLT e a Súmula 422 do TST), apontados pelo TST para denegar seguimento a
+agravos de instrumento e recursos de revista, quando verifica que a questão de fundo
+tratada na origem se refere à tese vinculante fixada pelo STF (cfr. Rcl 37.740 MC-MA, Rel.
+Min. Cármen Lúcia, decisão monocrática, DJe de 30/10/19; Rcl 37.298-MA, Rel. Min.
+Alexandre de Moraes, decisão monocrática, DJe de 21/10/19; Rcl 37.809 MC-SP, Rel. Min.
+Luiz Fux, decisão monocrática, DJe de 19/11/19; Rcl 37.465 MC-MA, Rel. Min. Cármen
+Lúcia, decisão monocrática, DJe de 11/11/19).
+Inicialmente, deixa-se de examinar a preliminar de "NULIDADE DE NEGATIVA DE
+PRESTAÇÃO JURISDICIONAL", com fundamento no art. 282, § 2º, do CPC de 2015, tendo
+em vista a possibilidade de julgamento do mérito em favor da parte ora Recorrente,
+quanto ao tema de fundo.
+A Corte Regional decidiu:
+"B) AUSÊNCIA DE FUNDAMENTAÇÃO - DA DISPENSA EM MASSA E DA PRÉVIA
+NEGOCIAÇÃO Afirmam as recorrentes que não há "norma que vede a dispensa sem justa
+causa, pelo que JAMAIS houve qualquer impedimento à dispensa sem justa causa nos
+moldes atuais existentes, conforme artigo 487/CLT nos contratos por prazo
+indeterminado, com observância dos prazos do artigo 477 do mesmo Estatuto para
+pagamento dos direitos inerentes à modalidade da rescisão".
+Dizem que "analisando o arcabouço jurídico quanto ao tópico dispensa, tem-se
+que nem mesmo a Convenção 154/OIT, promulgada pelo Decreto 1.256/94, impõe
+qualquer obrigação de negociação quando vigente o poder potestativo patronal, isso
+porque tem como maior escopo o fomento à negociação coletiva". Sustentam que,
+"igualmente, a Convenção 158 da OIT rejeitaria a tese do Sindicato, já que trata
+expressamente das rupturas contratuais, prevendo dentre elas a possibilidade de se
+justificar a dispensa baseada nas necessidades de funcionamento do estabelecimento".
+Asseveram que "com exceção das hipóteses de garantia provisória no emprego,
+não há qualquer óbice à dispensa por parte do Empregador, não havendo sequer
+obrigatoriedade de motivação técnica, econômica ou mesmo financeira para sua
+ocorrência".
+Aduzem que "a rescisão individual ou "coletiva" não teriam diferenças, já que a
+proteção a cada trabalhador permanece inalterada" e que "Não se está dizendo que um
+maior número de desempregados, em determinada localidade, não traga potenciais
+desequilíbrios, todavia, a Constituição Federal, e as Leis Menores não preveem
+tratamento diferenciado para a dispensa de um maior número de funcionários de uma
+vez".
+Declaram que "Quando a Sentença parte da premissa de que a proteção legal
+individual não é suficiente para compensar os danos da dispensa coletiva, está,
+claramente, dizendo que essa proteção não é suficiente, o que demonstra claro
+inconformismo para com a legislação infraconstitucional que rege as rescisões
+contratuais trabalhistas. Esse inconformismo e recalcitrância para com o quanto firmado
+pelo Poder Legislativo, não só é uma afronta ao artigo 35, I, da LOMAN (LC nº 35/79),
+mas também ao artigo 2º, CF, já que a criação de "obrigação legal" por parte desta
+Especializada é afrontar a harmonia dentre os poderes, além de afrontar a competência
+da União (art. 22, I, CF), já que esta é quem tem competência privativa para legislar sobre
+direito do trabalho".
+Defendem que "a Sentença mostra-se desfundamentada (art. 489, § 1º, NCPC), i) já
+que emprega "conceito indeterminado" que sequer é "jurídico", qual seja, "dispensa em
+massa", furtando-se ao dever de apresentar fundamento jurídico determinado, qual
+seja, qualquer ato normativo pátrio que lhe dê embasamento; ii) não enfrenta todos os
+argumentos deduzidos no processo capazes de lhe infirmar as conclusões, além de iii) se
+limitar a invocar precedentes do TST sem identificar seus fundamentos determinantes".
+Examina-se.
+Para melhor análise, transcrever-se-á a sentença: [...] Pois bem. Inicialmente,
+registre-se que a despedida em massa de 42 (quarenta e dois) empregados das rés se
+tornou incontroversa nos autos, conforme confissão veiculada na peça defensiva, bem
+como o fato de inexistir negociação coletiva com o sindicato da categoria dos
+empregados a respeito das referidas dispensas.
+Ademais, em que pesem os diversos desdobramentos desta demanda, em razão
+da recalcitrância das rés no cumprimento das ordens judiciais proferidas, a lide em si é
+de fácil compreensão.
+Com efeito, a solução do impasse nestes autos reside no fato de saber se é
+possível ou não a realização de despedida em massa sem prévio acordo coletivo com o
+sindicato da categoria dos empregados.
+No ponto, conforme se verifica em defesa, as rés alegaram força maior a justificar
+a demissão em massa, ou seja, em razão da precariedade em que se encontrava o prédio
+até então utilizado, não houve outra solução, senão a despedida de todos os
+trabalhadores, entendendo as empresas que as demissões em si estão compreendidas
+no poder diretivo do empregador.
+Ocorre que, as despedidas em massa, em regra, decorrem justamente de
+questões associadas a força maior ou qualquer outra dificuldade enfrentada pelo
+empregador, como, por exemplo, crises econômicas de grande magnitude. Porém, nem
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+mesmo a força maior possibilita conceder tratamento idêntico entre as demissões
+individuais e coletivas.
+Com efeito, as demissões coletivas acarretam impacto social relevante, cujas
+dimensões são, no mais das vezes, de difícil delimitação, razão pela qual merecem
+tratamento específico, pois, não obstante a liberdade conferida ao empregador para
+rescindir os contratos de trabalho, sempre que a dispensa imotivada atingir um número
+considerável de pessoas, em virtude do mesmo fato, devem ser respeitados certos
+limites para que os atos demissionários sejam considerados válidos, com o intuito de
+manter preservado o maior interesse da coletividade.
+Esse tema teve grande repercussão por ocasião do julgamento pelo Colendo
+Tribunal Superior do Trabalho em análise a um recurso ordinário interposto pela
+empresa Embraer, a qual demitiu 20% da totalidade de seus empregados, em fevereiro
+de 2009.
+Orlando Gomes define como dispensa coletiva a rescisão simultânea de uma
+pluralidade de empregados, sem substituição por outros, advinda do mesmo e único
+motivo, tal qual ocorreu in casu, senão vejamos: "Dispensa coletiva é a rescisão
+simultânea, por motivo único, de uma pluralidade de contratos de trabalho numa
+empresa, sem substituição dos empregados dispensados. [...] O empregador, compelido
+a dispensar certo número de empregados, não se propõe a despedir determinados
+trabalhadores, senão aqueles que não podem continuar no emprego. Tomando a
+medida de dispensar uma pluralidade de empregados não visa o empregador a pessoas
+concretas, mas a um grupo de trabalhadores identificáveis apenas por traços não￾pessoais, como a lotação em certa seção ou departamento, a qualificação profissional,
+ou o tempo de serviço. A causa da dispensa é comum a todos, não se prendendo ao
+comportamento de nenhum deles, mas a uma necessidade da empresa." Não há
+definição clara na jurisprudência acerca do número de trabalhadores atingidos, a fim de
+que se possa considerar a dispensa coletiva, mas de acordo com os elementos
+norteadores desta condição, conclui-se não se tratar a quantidade o fator determinante
+à configuração ou não da dispensa coletiva, pois sua essência está no fato de um
+considerável número de pessoas e, consequentemente, várias famílias serem atingidas
+pelos efeitos desta situação, comprometendo suas condições econômicas, tudo de uma
+só vez e decorrente do mesmo fato, originando um dano social.
+Como já dito em audiência, a Ministra Maria de Assis Calsing, em análise sobre
+uma dispensa coletiva, registrou expressamente em seu voto: "...Pouco importa se foram
+400 ou 295 empregados demitidos. O fato é que o ato de dispensa compreendeu todo o
+universo de empregados da empresa, em número significante e no mesmo espaço de
+tempo..." (negritei) Assim, se por um lado é permitida pelo ordenamento jurídico a
+despedida imotivada, por iniciativa do empregador, tanto por não ter havido ainda a
+regulamentação do dispositivo constitucional que veda a despedida arbitrária ou sem
+justa causa, como pelo fato de a Convenção número 158 da OIT ter sido posteriormente
+denunciada, por outro lado é inegável que uma despedida coletiva enseja prejuízos bem
+superiores àqueles havidos nas rescisões individuais.
+Destarte, necessário se faz que o Poder Judiciário adote uma postura ativista e se
+pronuncie a respeito, o que tem efetivamente feito, quando provocado, porquanto o
+rompimento coletivo não deve observar os mesmos procedimentos da rescisão
+individual do contrato de trabalho, cabendo à Justiça estabelecer parâmetros, obter
+respaldo na legislação estrangeira, nos tratados e nas convenções internacionais e nos
+princípios universais de direitos humanos, pois o trabalho é valorizado, sendo
+classificado em todo o mundo, como um dos principais componentes da dignidade
+humana.
+Desse modo, no caso vertente, estando a empresa na iminência de encerrar suas
+atividades em virtude da necessária demolição, acarretando na dispensa de todos os
+funcionários, deveria, ao menos, ter buscado alternativas para diminuir o impacto
+certamente causado pelas despedidas, o que efetivamente não ocorreu, mesmo tendo
+havido a designação de audiência de justificação prévia, ocasião em que sustentou
+entender eximida da obrigação apenas com o pagamento das verbas rescisórias, sem
+qualquer outra compensação, como se pode inferir do seguinte trecho da
+correspondente ata: "(...) Dada a palavra ao autor para lançar proposição, este afirmou
+que pretende sejam atendidos os pedidos constantes da inicial, em especial, não
+havendo possibilidade de continuidade das relações de emprego, o estabelecimento e
+consequente pagamento de uma indenização substitutiva. Dada a palavra às empresas
+rés, estas afirmam entenderem que a indenização se trata do pagamento das verbas
+rescisórias devidas inerentes a demissões sem justa causa. Diz ter intenção de construir
+nova sede, mas que todo o processo de instalação e conclusão da obra pode durar uma
+média de três anos e entende estar eximida de qualquer outra obrigação, com o
+pagamento da rescisão contratual e fornecimento da documentação necessária para
+habilitação ao recebimento do FGTS e do seguro-desemprego, por estar se utilizando de
+seu poder potestativo.
+Informa ter trazido à presente audiência todos os TRCT´s, CTPS e demais
+documentos referentes às rescisões, requerendo esclarecimentos quanto aos efeitos da
+decisão da tutela antecipada, porquanto determinou a suspensão das demissões, sem
+expressa menção se estariam válidas aquelas já efetuadas ou não, reiterando o pedido
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+de reconsideração da decisão formulado na defesa.
+Diante das manifestações supra, registre-se não haver possibilidade de acordo,
+tendo sido rejeitada a 1ª proposta conciliatória (...)" Destaquei, em negrito.
+No âmbito do Colendo Tribunal Superior do Trabalho, já está pacificado o
+entendimento de se exigir a prévia negociação para realização da dispensa em massa,
+desde o mencionado caso da despedida coletiva levada a efeito pela empresa EMBRAER.
+A esse respeito, dissertou o Eminente Ministro Maurício Godinho Delgado: "(...)
+Felizmente, a jurisprudência da Seção de Dissídios Coletivos do TST, no período
+subsequente ao julgamento de 18 de agosto de 2009, ao enfrentar novos casos de
+dispensas coletivas, reiterou a validade do precedente judicial inferido, enfatizando ser a
+negociação coletiva sindical procedimento prévio imprescindível para os casos de
+dispensas massivas de trabalhadores.
+Nesta linha estão os seguintes acórdãos e respectivas datas de julgamento: TST￾RODC-2004700- 91.2009.5.02.0000, julgado em 14.11.2001 - Relatora: Ministra Katia
+Magalhães Arruda; R0-173- 02.2011.5.15.0000, julgado em 13.08.2012 - Relator: Ministro
+Maurício Godinho Delgado; R0-6- 61.2011.5.05.0000, julgado em 13.11.2012-Relator:
+Ministro Walmir Oliveira da Costa." Tivesse a dispensa sido precedida de negociação
+prévia, seria considerada legítima, mas assim não procedendo, a outra conclusão não se
+pode chegar senão a de arbitrariedade e abusividade da despedida, ante os inegáveis
+impactos, que transcendem a esfera individual, sendo lógico não bastar o pagamento
+dos direitos já normalmente assegurados pelo rompimento individual do contrato de
+trabalho.
+Certamente não foi de um dia para o outro que a empresa tomou conhecimento
+do risco à integridade física dos trabalhadores, causado pelas péssimas condições do
+imóvel onde funcionava, tanto é que foi realizada perícia técnica para análise, tendo o
+laudo sido apresentado no ID. 82636F1.
+Ora, se a reclamada entendeu por bem determinar a realização de perícia, já tinha
+a perfeita noção das condições de trabalho e, longe de pretender intervir na política
+financeira da empresa, mas não parece razoável crer que a despedida coletiva tenha
+sido a única alternativa, porquanto há diversas outras formas de amenizar os efeitos de
+tão abrupta e impactante medida.
+Havia tempo hábil, portanto, para ter se reunido com o Sindicato representante da
+categoria e discutir sobre outros meios capazes de evitar o rompimento contratual
+repentino, a exemplo do lay off, propiciando aos empregados participação em cursos ou
+programas de qualificação profissional, o que, inclusive está diretamente relacionado
+com sua finalidade, ofertando-lhes ajuda compensatória mensal, mantendo os
+benefícios concedidos (artigo 476-A, §§ 3º e 4º CLT).
+Poderia ter ofertado férias coletivas, permanência de alguns benefícios e cestas
+básicas por determinado período, cursos de qualificação para recolocação no mercado
+de trabalho, firmar contrato com cláusula de preferência na hipótese de haver
+recontratação, ou mesmo apenas uma indenização, calculada conforme o tempo de
+trabalho de cada um, além das verbas rescisórias já comumente devidas.
+Enfim, havia, sim, diversas formas de minimizar os efeitos de uma despedida
+arbitrária em massa, não podendo o Judiciário entender que por não lhe caber gerir as
+finanças da empresa, está obrigado a considerar válidas as demissões coletivas,
+permanecendo indiferente a estas.
+Não é demais ressaltar ter o douto Órgão Ministerial inclusive ponderado a
+respeito da possibilidade de locação de novo imóvel enquanto durasse a reforma
+daquele desativado, mas a única "proposta" feita pelas reclamadas foi no sentido de
+transferir os trabalhadores para a cidade de Brasília, sem pagamento do adicional de
+transferência, argumentando que as transferências seriam definitivas, diferentemente
+do que havia registrado na audiência anterior, ocasião em que mencionou intencionar
+construir nova sede, como já acima transcrito.
+Embora sabedora de que a oferta feita pela empresa geraria ônus aos
+empregados, diante da necessidade de mudança para localidade com custo de vida
+notoriamente mais elevado, sem que ao menos recebessem o adicional de transferência,
+entendi por bem ouvir um a um dos presentes na audiência, a fim de não pairarem
+dúvidas, obtendo negativa geral.
+Claro está, pois, que a despedida praticada pelas reclamadas não atendeu à
+finalidade de preservação do bem estar social, violando a boa-fé objetiva, significando
+dizer ter havido abuso de direito, mediante ultrapassagem dos limites determinados
+pelo fim social e econômico da empresa, violando o valor social do trabalho e a
+dignidade dos trabalhadores. A orientação número 06 da coordenadoria do Ministério
+do Trabalho afeta à liberdade sindical, CONALIS, recomenda se considerem nulas
+demissões com estas características, senão vejamos: "DISPENSA COLETIVA.
+Considerando os princípios constitucionais da dignidade da pessoa humana (art. 1º, III),
+da democracia nas relações de trabalho e da solução pacífica das controvérsias
+(preâmbulo da Constituição Federal de 1988), do direito à informação dos motivos
+ensejadores da dispensa massiva e de negociação coletiva (art. 5º, XXXIII e XIV, art. 7º, I e
+XXVI, e art. 8º, III, V e VI), da função social da empresa e do contrato de trabalho (art. 170,
+III e Cód. Civil, art. 421), bem como os termos das Convenções ns. 98, 135, 141 e 151 e
+Recomendação nº 163 da Organização Internacional do Trabalho (OIT), a dispensa
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+coletiva será nula e desprovida de qualquer eficácia se não se sujeitar ao prévio
+procedimento da negociação coletiva de trabalho com a entidade sindical representativa
+da categoria profissional." Se o ato nulo não produz efeitos, certo é que, como corolário,
+os trabalhadores dispensados devem ser reintegrados, com pagamento de todas as
+verbas decorrentes de seus contratos de trabalho, à exceção daquelas cuja causa não
+mais existir, como é o caso dos adicionais noturnos e de insalubridade, não mais devidos
+por ausência dos fatos geradores, diante da extinção do estabelecimento.
+A título de ilustração, veja-se a ementa do Acórdão da lavra do Excelentíssimo
+Senhor Ministro Maurício Godinho Delgado, referente ao leading case, na Corte Superior
+Trabalhista envolvendo o mencionado caso Embraer, julgado em 2009: RECURSO
+ORDINÁRIO EM DISSÍDIO COLETIVO. DISPENSAS TRABALHISTAS COLETIVAS. MATÉRIA DE
+DIREITO COLETIVO. IMPERATIVA INTERVENIÊNCIA SINDICAL. RESTRIÇÕES JURÍDICAS ÀS
+DISPENSAS COLETIVAS. ORDEM CONSTITUCIONAL E INFRACONSTITUCIONAL
+DEMOCRÁTICA EXISTENTE DESDE 1988. A sociedade produzida pelo sistema capitalista é,
+essencialmente, uma sociedade de massas. A lógica de funcionamento do sistema
+econômico-social induz a concentração e centralização não apenas de riquezas, mas
+também de comunidades, dinâmicas socioeconômicas e de problemas destas
+resultantes. A massificação das dinâmicas e dos problemas das pessoas e grupos sociais
+nas comunidades humanas, hoje, impacta de modo frontal a estrutura e o
+funcionamento operacional do próprio Direito. Parte significativa dos danos mais
+relevantes na presente sociedade e das correspondentes pretensões jurídicas têm
+natureza massiva. O caráter massivo de tais danos e pretensões obriga o Direito a se
+adequar, deslocando-se da matriz individualista de enfoque, compreensão e
+enfrentamento dos problemas a que tradicionalmente perfilou-se. A construção de uma
+matriz jurídica adequada à massividade dos danos e pretensões característicos de uma
+sociedade contemporânea - sem prejuízo da preservação da matriz individualista, apta a
+tratar os danos e pretensões de natureza estritamente atomizada - é, talvez, o desafio
+mais moderno proposto ao universo jurídico, e é sob esse aspecto que a questão aqui
+proposta será analisada. As dispensas coletivas realizadas de maneira maciça e
+avassaladora, somente seriam juridicamente possíveis em um campo normativo hiper
+individualista, sem qualquer regulamentação social, instigador da existência de mercado
+hobbesiano na vida econômica, inclusive entre empresas e trabalhadores, tal como, por
+exemplo, respaldado por Carta Constitucional como a de 1891, já há mais um século
+superada no país. Na vigência da Constituição de 1988, das convenções internacionais
+da OIT ratificadas pelo Brasil relativas a direitos humanos e, por consequência, direitos
+trabalhistas, e em face da leitura atualizada da legislação infraconstitucional do país, é
+inevitável concluir-se pela presença de um Estado Democrático de Direito no Brasil, de
+um regime de império da norma jurídica (e não do poder incontrastável privado), de uma
+sociedade civilizada, de uma cultura de bem-estar social e respeito à dignidade dos seres
+humanos, tudo repelindo, imperativamente, dispensas massivas de pessoas, abalando
+empresa, cidade e toda uma importante região. Em consequência, fica fixada, por
+interpretação da ordem jurídica, a premissa de que -a negociação coletiva é
+imprescindível para a dispensa em massa de trabalhadores-. DISPENSAS COLETIVAS
+TRABALHISTAS. EFEITOS JURÍDICOS. A ordem constitucional e infraconstitucional
+democrática brasileira, desde a Constituição de 1988 e diplomas internacionais
+ratificados (Convenções OIT n. 11, 87, 98, 135, 141 e 151, ilustrativamente), não permite
+o manejo meramente unilateral e potestativista das dispensas trabalhistas coletivas, por
+de tratar de ato/fato coletivo, inerente ao Direito Coletivo do Trabalho, e não Direito
+Individual, exigindo, por consequência, a participação do (s) respectivo (s) sindicato (s)
+profissional (is) obreiro (s). Regras e princípios constitucionais que determinam o
+respeito à dignidade da pessoa humana (art. 1 o , III, CF), a valorização do trabalho e
+especialmente do emprego (arts. 1 o , IV, 6 o e 170, VIII, CF), a subordinação da
+propriedade à sua função socioambiental (arts. 5 o , XXIII e 170, III, CF) e a intervenção
+sindical nas questões coletivas trabalhistas (art. 8 o , III e VI, CF), tudo impõe que se
+reconheça distinção normativa entre as dispensas meramente tópicas e individuais e as
+dispensas massivas, coletivas, as quais são social, econômica, familiar e
+comunitariamente impactantes. Nesta linha, seria inválida a dispensa coletiva enquanto
+não negociada com o sindicato de trabalhadores, espontaneamente ou no plano do
+processo judicial coletivo. A d. Maioria, contudo, decidiu apenas fixar a premissa, para
+casos futuros , de que - a negociação coletiva é imprescindível para a dispensa em
+massa de trabalhadores-, observados os fundamentos supra. Recurso ordinário a que se
+dá provimento parcial. (TST - RODC: 309001220095150000 30900-12.2009.5.15.0000,
+Relator: Maurício Godinho Delgado, Data de Julgamento: 10/08/2009, Seção Especializada
+em Dissídios Coletivos, Data de Publicação: 04/09/2009).
+A partir de então, o referido entendimento vem sendo aplicado reiteradamente no
+colendo TST: CRISE ECONÔMICA - DEMISSÃO EM MASSA - AUSÊNCIA DE PRÉVIA
+NEGOCIAÇÃO COLETIVA - ABUSIVIDADE - COMPENSAÇÃO FINANCEIRA - PERTINÊNCIA. As
+demissões coletivas ou em massa relacionadas a uma causa objetiva da empresa, de
+ordem técnico-estrutural ou econômicoconjuntural, como a atuai crise econômica
+internacional, não podem prescindir de um tratamento jurídico de proteção aos
+empregados, com maior amplitude do que se dá para as demissões individuais e sem
+justa causa, por ser esta insuficiente, ante a gravidade e o Impacto sócio econômico do
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+fato. Assim, governos, empresas e sindicatos devem ser criativos na construção de
+normas que criem mecanismos que, concreta e efetivamente, minimizem os efeitos da
+dispensa coletiva de trabalhadores pelas empresas. A míngua de legislação específica
+que preveja procedimento preventivo, o único caminho é a negociação coletiva prévia
+entre a empresa e os sindicatos profissionais. Submetido o fato à apreciação do Poder
+Judiciário, sopesando os interesses em jogo: liberdade de iniciativa e dignidade da
+pessoa humana do cidadão trabalhador cabe-lhe proferir decisão que preserve o
+equilíbrio de tais valores. Infelizmente não há no Brasil, a exemplo da União Europeia
+(Directiva 98/59), Argentina (Ley n. 24.013/91), Espanha (Ley dei Estatuto de íos
+Trabajadores de 1995), França (Lei do Trabalho de 1995), Itália (Lei n'. 223/91), México
+(Ley Federal dei Trabajo de 1970, Cf. texto vigente - última reforma foi publicada no DOF
+de 17/01/2006) e Portugal (Código do Trabalho), legislação que crie procedimentos de
+escalonamento de demissões que levem em conta o tempo de serviço na empresa, a
+idade, os encargos familiares, ou aqueles em que a empresa necessite de autorização de
+autoridade, ou de um período de consultas aos sindicatos profissionais, podendo
+culminar com previsão de períodos de reciclagens, suspensão temporária dos contratos,
+aviso prévio prolongado, indenizações, etc. No caso, a EMBRAER efetuou a demissão de
+20% dos seus empregados, mais de 4.200 trabalhadores, sob o argumento de que a crise
+econômica mundial afetou diretamente suas atividades, porque totalmente
+dependentes do mercado Internacional, especialmente dos Estados Unidos da América,
+matriz da atual crise. Na ausência de negociação prévia e diante do insucesso da
+conciliação, na fase judicial só resta a esta Eg. Corte, finalmente, decidir com
+fundamento no art. 4ª da Lei de Introdução ao Código Civil e no art. 8º da Consolidação
+das Leis do Trabalho. Assim, com base na orientação dos princípios constitucionais
+expressos e implícitos, no direito comparado, a partir dos ensinamentos de Robert Alexy
+e Ronald Dworldn, Paulo Bonavides e outros acerca da força normativa dos princípios
+jurídicos, é razoável que se reconheça a abusividade da demissão coletiva, por ausência
+de negociação. Finalmente, não sobrevivendo mais no ordenamento jurídico a
+estabilidade no emprego, exceto as garantias provisórias, é inarredável que se atribua,
+com fundamento no art. 422 do CC - boa-fé objetiva - direito a uma compensação
+financeira para cada demitido. Dissídio coletivo que se julga parcialmente procedente.
+(TRT/15 RO 30900-12.2009.5.15.0000, Seção de Dissídios Coletivos, Relator
+Desembargador José Antônio Pancotti, DEJT: 30/03/2009) [...] Vê-se claramente, pois, que
+mesmo nas hipóteses de força maior, as demissões coletivas devem receber tratamento
+diverso daquele conferido às demissões individuais, notadamente em razão da
+repercussão social de tal medida, de maneira que o poder diretivo do empregador
+também sofre limitação diante de tal circunstância, até mesmo porque os fins sociais da
+empresa, bem como a dignidade da pessoa humana, devem, sempre, ser observados.
+Nessa toada, minha compreensão sobre a matéria é convergente com o
+entendimento manifestado pela Corte superior Trabalhista e diante do fato de as rés
+terem efetivado a dispensa coletiva noticiada nos autos, sem a prévia e necessária
+negociação coletiva, somente pude concluir terem sido ineficazes todas as demissões
+efetivadas.
+Por conseguinte, confirmo a tutela deferida, ratificando a declaração de ineficácia
+de todas as demissões noticiadas nos autos até a data de publicação desta sentença,
+porquanto não observada a necessária e prévia negociação coletiva para tanto.
+Consequentemente, todas as verbas inerentes aos contratos de trabalho durante
+o período em que o ato de demissão permaneceu ineficaz, vale dizer, desde a data das
+inválidas rupturas até a data de publicação desta sentença, deverão ser comprovadas
+nos autos, em cinco dias após o seu trânsito em julgado, sob pena de execução das
+multas já previstas pelas decisões proferidas, retirando-se da necessidade de
+comprovação, por óbvio, aquelas já comprovadamente pagas nos autos.
+Inicialmente, destaca-se que em momento algum restou consignado a
+impossibilidade de dispensa coletiva dos trabalhadores pelas recorrentes, apenas que
+esta deveria ser precedida de negociação prévia com fito único de diminuir o impacto
+causado pelas despedidas. Conforme muito bem pontuado pelo juízo singular, se acaso
+as reclamadas tivessem tomado esta providência, não haveria motivo para discutir
+acerca da validade ou não das demissões.
+As insurgências da recorrente quanto à ausência de previsão legal ao criar o
+instituto jurídico da "dispensa em massa", ausência de legislação que preveja as
+consequências de referida "criação jurisprudencial" ou "a insatisfação com a opção do
+Legislador materializa-se como afronta à harmonia dos poderes e afronta prerrogativas
+privativa da União" constituem inovações recursais uma vez que, em contestação, as
+reclamadas limitaram-se a argumentar sobre o direito potestativo do empregador e que
+"a medida extrema tomada pelas Reclamadas não possui propósito econômico, nem visa
+ao aumento de lucro em detrimento de direitos trabalhista. A única intenção da
+suspensão das atividades realizadas pelas empresas é a de garantir a segurança
+coletiva, bem como a integridade física dos funcionários e usuários das Reclamadas,
+uma vez que o péssimo estado de seu imóvel e instalações levou a uma situação
+insustentável, havendo, inclusive, necessidade iminente de demolição de grande parte
+da construção, dada a deterioração decorrente de erosão provocada por água (Id
+493b9b6 - pág. 2). Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+Nem se cogite especular que a sentença trouxe tese nova a justificar a inovação
+das premissas em razões recursais, uma vez que o recorrido traz na petição inicial o
+instituto da dispensa/demissão em massa, requerendo a nulidade desta e como
+consequência a colocação dos trabalhadores em licença remunerada "até que
+sobrevenha solução negociada para o impasse".
+Ademais, as próprias recorrentes, em contestação, trazem a figura da demissão
+em massa ao colacionar jurisprudências sobre a matéria.
+Destarte, a controvérsia cingiu-se sobre ser necessária ou não a prévia negociação
+ante a premência de demissão em massa e, neste aspecto, a sentença fora
+suficientemente fundamentada.
+O juízo demonstrou claramente ser coletiva as demissões perpetradas pelas
+recorrentes e que foram irregularmente realizadas face a ausência de negociação
+prévia.
+Preliminar que se rejeita, portanto.
+2.3 DO MÉRITO A) DA REPERCUSSÃO GERAL - DO ARE 647.651- RE 999435/STF -
+SOBRESTAMENTO DO FEITO Requerem as recorrentes o sobrestamento do feito "ante o
+cristalino comando do artigo 1.035/NCPC, uma vez que se mostra temerário que um
+processo, cujo fundamento único seja tão controvertido que o C.STF o tenha afetado,
+tramite sem que o órgão responsável por sua interpretação ainda não tenha se
+manifestado".
+Esta matéria já fora analisada quando da interposição de Mandado de Segurança
+n. 0000169- 16.2016.5.14.0000 pelas rés, assim como na Reclamação de n. 0000224-
+64.2016.5.14.0000. Nessas oportunidades, exarou-se decisão aferindo que o
+sobrestamento refere-se tão somente aos recursos extraordinários interpostos perante
+o STF, mantendo-se o julgamento até o TST. Transcreve-se a decisão incerto do mandado
+de segurança, por oportuno: [...] Quanto ao sobrestamento até o julgamento pelo
+Supremo Tribunal Federal, de recursos em que fora reconhecida a repercussão geral,
+insculpido no art. 1035, §5º do NCPC (antigo art. 543-B), o TST já firmou entendimento de
+que destina-se apenas aos recursos extraordinários já interpostos.
+Conforme arestos abaixo: REQUERIMENTO PRELIMINAR DO RECORRENTE DE
+SOBRESTAMENTO DO FEITO PARA AGUARDAR PRONUNCIAMENTO DO STF EM PROCESSO
+COM REPERCUSSÃO GERAL. Preliminarmente, o reclamado requereu a suspensão do
+processo para aguardar o pronunciamento do STF nos autos do Recurso Extraordinário
+nº 603397, no qual foi conferida repercussão geral à matéria em exame.
+Contudo, embora não se olvide que a Suprema Corte reconheceu a existência de
+repercussão geral no tocante ao tema ora em debate nestes autos, a SBDI-1 do Tribunal
+Superior do Trabalho entendeu que a determinação de sobrestamento, contida nos arts.
+543-B, § 1º, do CPC e 328-A do Regimento Interno do Supremo Tribunal Federal, destina￾se apenas aos recursos extraordinários interpostos, não havendo nenhum impedimento
+para que se prossiga no julgamento dos processos no âmbito dos Órgãos colegiados
+desta Corte. Requerimento rejeitado. [...](TST - RR: 201330420135040121, Relator: José
+Roberto Freire Pimenta, Data de Julgamento: 25/02/2015, 2ª Turma, Data de Publicação:
+DEJT 06/03/2015) RECURSO DE REVISTA - PREJUDICIAL DE SOBRESTAMENTO - ARGUIÇÃO
+DE REPERCUSSÃO GERAL DA MATÉRIA. I - Ainda que o STF tenha reconhecido a
+existência de repercussão geral da questão relativa ao pagamento do FGTS a
+trabalhador contrato irregularmente pela Administração Pública, certo é que no âmbito
+do recurso de revista não há o sobrestamento do feito, que está jungido à hipótese de
+interposição de recurso extraordinário, conforme se verifica do artigo 543-B, § 1º, do
+CPC. II - Rejeitado. [...](RR - 13800-96.2009.5.11.0051 , Relator Ministro: Antônio José de
+Barros Levenhagen, Data de Julgamento: 29/09/2010, 4ª Turma, Data de Publicação: DEJT
+08/10/2010) Sendo assim, não havendo sobrestamento no âmbito dos Recursos de
+Revista em curso no Tribunal Superior do Trabalho, muito menos há falar dos processos
+em trâmite no âmbito dos Tribunais Regionais do Trabalho.
+Portanto, não prospera tal argumento.
+Sem maiores digressões, nega-se provimento.
+B) DO MOTIVO DE FORÇA MAIOR Alegam as reclamadas "Há ainda outro prisma a
+ser analisado, indispensável à discussão acerca do enquadramento das dispensas como
+sendo "em massa" ou não. É que as razões fáticas e jurídicas que motivaram as
+dispensas dos empregados são capazes, por si só, de amparar sua legalidade e justificar
+o deferimento dos pedidos veiculados".
+Aduzem que "Resta incontroverso nos autos que a razão que levou as Recorrentes
+à dispensar seus funcionários foi o estado crítico e irreparável do estabelecimento físico
+em que as Recorrentes operavam. O laudo técnico acostado aos autos afirma
+cabalmente ser urgente a interdição do estabelecimento, sob risco de colapso da
+edificação". Dessa forma, "a dispensa dos trabalhadores e, ato contínuo, a demolição do
+estabelecimento, se deram por fator alheio à vontade das Recorrentes, i.e., por motivo
+de força maior (erosão do terreno que comprometia a segurança coletiva), inexistindo
+qualquer ilegalidade no procedimento adotado, mormente observados os arts. 501 e
+502 da CLT".
+Destaca que "esse fundamento da defesa não foi enfrentado pela Sentença
+combatida. Nesse ponto, como é possível depreender da decisão, a Sentença não
+confrontou os argumentos com a documentação apresentada. Tal postura não se
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+coaduna com o que prevê, especialmente, a sistemática processual com o advento do
+Novo Código de Processo Civil e afronta, ainda, a Constituição da República, que exige,
+no artigo 93, IX, que toda decisão judicial seja devidamente fundamentada".
+Insistem que as demissões decorrerem de força maior pois "a erosão do solo
+causada pela infiltração de águas pluviais jamais pode ser considerada "circunstância
+própria do empregador".
+Foge ao controle e à previsibilidade das Recorrentes fenômeno da natureza e suas
+respectivas consequências" e "Por conseguinte, afasta-se a aplicação, ao caso concreto,
+da definição doutrinária de "dispensa em massa" tecida pelo próprio C. TST, visto que
+fundamenta sua definição i) na Convenção 158/OIT, que por sua vez impõe como
+requisito a previsibilidade; e ii) em legislações alienígenas, que embasam suas
+proposições em situações fáticas que se encontram no interior do âmbito de controle e
+decisão do empregador".
+Entendem que a força maior descaracteriza a demissão em massa. Logo,
+requerem "o reconhecimento da licitude das dispensas, revertendo integralmente a
+Sentença para eximir as Recorrentes da condenação a indenizar os funcionários, além
+do pagamento de multas e projeção dos pactos laborais".
+Sem razão as recorrentes.
+Não obstante a irresignação das reclamadas, o Juízo singular enfrentou a questão
+da demolição explicando que "Certamente não foi de um dia para o outro que a empresa
+tomou conhecimento do risco à integridade física dos trabalhadores, causado pelas
+péssimas condições do imóvel onde funcionava, tanto é que foi realizada perícia técnica
+para análise, tendo o laudo sido apresentado no ID. 82636F1. Ora, se a reclamada
+entendeu por bem determinar a realização de perícia, já tinha a perfeita noção das
+condições de trabalho e, longe de pretender intervir na política financeira da empresa,
+mas não parece razoável crer que a despedida coletiva tenha sido a única alternativa,
+porquanto há diversas outras formas de amenizar os efeitos de tão abrupta e
+impactante medida. Havia tempo hábil, portanto, para ter se reunido com o Sindicato
+representante da categoria e discutir sobre outros meios capazes de evitar o
+rompimento contratual repentino, a exemplo do lay off, propiciando aos empregados
+participação em cursos ou programas de qualificação profissional, o que, inclusive está
+diretamente relacionado com sua finalidade, ofertando-lhes ajuda compensatória
+mensal, mantendo os benefícios concedidos (artigo 476-A, §§ 3º e 4º CLT)".
+A despeito de se configurar força maior ou não, fato é que não se busca uma
+justificativa para as demissões. A precária condição do local de trabalho é a motivação
+da despedida dos trabalhadores em si e a discussão não gira em torno disto. Inclusive, a
+Convenção n. 158 da OIT trata sobre a vedação da dispensa injustificada, o que, repisa￾se, não é o caso sub oculi.
+O que se debate é a necessidade de negociação prévia ante a dispensa em massa
+e, sobre a não realização desta, as reclamadas não apresentaram nenhuma explicação.
+Assim, face à dispensabilidade de se averiguar a motivação da dispensa coletiva e
+a imposição da prévia negociação, nega-se provimento ao apelo, neste item.
+C) DA MÁ APLICAÇÃO DA JURISPRUDÊNCIA DO E.TST - DA LIMINAR INDEVIDA
+Sustentam as reclamadas que a sentença aplicou equivocadamente o entendimento do
+TST, pois, em que pese "desde setembro de 2009, passou a entender a
+imprescindibilidade da negociação prévia, nunca uniformizou as consequências jurídicas
+desta inobservância".
+Alegam que "Nos termos do novel artigo 489, § 1º, V do NCPC, a Sentença recorrida
+não está fundamentada, em especial porque dá o enfoque equivocado ao quanto
+impugnado pelo Recorrente: não se está a se irresignar contra a determinação de
+negociação prévia, mas sim contra o entendimento da d. Sentença de que a
+inobservância deste "requisito" enseja a invalidez das dispensas e a reintegração de
+todos os funcionários, mantidos os salários mesmo sem haver local para qualquer
+prestação de serviço, o que acaba por deformar o pacto laboral, eis que apenas uma das
+partes passa a ter obrigações para com a outra, o que impossibilita a existência do
+sinalagma contratual típico dos vínculos empregatícios".
+Analisa-se.
+Diante da ausência da negociação prévia, a demissão coletiva é considerada
+irregular e, portanto, nula. Dessa forma, seus efeitos ficariam sobrestados até o advento
+da multimencionada negociação ou da sentença de mérito.
+Neste diapasão, cabem alguns esclarecimentos: A instrução fora encerrada em
+17.08.2016. Em 24.08.16, o Senalba interpôs Medida Cautelar Incidental com pedido
+liminar(Id 854b61) tendo em vista a transferência dos trabalhadores demitidos para a
+unidade de Brasília/DF. Em 26.08.2016, fora deferida liminar para que as reclamadas
+abstivessem de promover as transferências, assim como determinado o bloqueio de
+valores financeiros existentes em contas bancárias das empresas requeridas (Id
+9d863c3). Tal decisão fora confirmada em 13.09.2016 (Id 08ad47e). Equivocadamente, as
+reclamadas apresentaram embargos de declaração (Id abbd74a) que não foram
+conhecidos, conforme despacho de Id 22b1d7b, publicado em 21.10.2016.
+Pois bem. Do relato acima, tem-se que as reclamadas deram causa à postergação
+da lavratura da sentença até 21.10.2016. Ocorre que, apesar disso, a sentença somente
+fora exarada em 18.02.2017, trazendo, por óbvio, maiores prejuízos às recorrentes, já
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+que ficou decidido que a ruptura contratual apenas se confirmou na publicação daquela,
+resguardados todos os direitos trabalhistas daí decorrentes, acrescidos de duas vezes o
+valor do aviso prévio devido a cada empregado dispensado, a título de multa
+compensatória.
+Salienta-se, contudo, que a interposição do Mandado de Segurança e da
+Reclamação pelas reclamadas não foram hábeis a sobrestar a prolatação da sentença,
+ante a não determinação de suspensão deste presente feito.
+Assim, muito embora as recorrentes tenham incorrido em irregularidade, não
+podem ser demasiadamente penalizadas em face da demora na prestação jurisdicional
+por parte desta Justiça Especializada, mormente a ausência de prestação de serviços
+pelos trabalhadores, ora recompensados.
+Portanto, dá-se parcial provimento ao apelo para considerar rescindidos os
+contratos de trabalho em 21.10.2016, com pagamento de todos os consectários legais
+até essa data, assim como duas vezes o valor do aviso prévio devido a cada empregado
+dispensado, a título de multa compensatória.
+D) DA DIVERGÊNCIA NO PRÓPRIO TST E NOS DEMAIS REGIONAIS Afirmam as
+reclamadas que "Em que pese haja jurisprudência do TST no sentido defendido, ainda
+que parcialmente, pelo d. Juízo de piso, tem-se que a interpretação do C.TST ainda não
+possui caráter vinculante, de modo que dentre os Regionais, ainda há evidente
+divergência jurisprudencial".
+Neste ponto nada há a reformar na sentença, porquanto o entendimento do juízo
+de primeiro grau, confirmado neste momento, qual seja a da necessidade de negociação
+prévia ante a demissão em massa, é corroborado pela jurisprudência da Seção de
+Dissídios Coletivos do TST. Veja-se: [...]RECURSO ORDINÁRIO INTERPOSTO PELA
+SUSCITADA. ENCERRAMENTO DA EMPRESA.
+DEMISSÃO EM MASSA CARACTERIZADA. NECESSIDADE DE PRÉVIA NEGOCIAÇÃO
+COLETIVA. 1. É incontroverso nos autos que a demissão de todo o universo de
+empregados da Empresa, no total de 295 empregados, segundo apontado pelo Sindicato
+profissional, ocorreu em decorrência do encerramento das atividades da Suscitada.
+Revela-se de tal contexto a ilação de que a causa das dispensas é comum a todos os
+trabalhadores que se encontravam em atividade naquele momento e teve por escopo
+atender circunstância própria do empregador. A hipótese amolda-se perfeitamente à
+noção de demissão coletiva. 2. Segundo a jurisprudência da Seção de Dissídios Coletivos,
+a negociação coletiva é imprescindível para a dispensa em massa de trabalhadores. À
+míngua de tal procedimento, são devidas, por consequência, indenização compensatória
+e manutenção do plano de assistência médica, conforme decidido pela Corte de Origem.
+Precedente. Excluído do comando condenatório, em outro capítulo, o pagamento de
+dano moral coletivo, por incabível à espécie.
+Recurso a que se nega provimento. (RO - 6155-89.2014.5.15.0000, Relatora
+Ministra: Maria de Assis Calsing, Data de Julgamento: 22/02/2016, Seção Especializada em
+Dissídios Coletivos, Data de Publicação: DEJT 26/02/2016) [...] DISPENSA COLETIVA.
+NEGOCIAÇÃO COLETIVA. A despedida individual é regida pelo Direito Individual do
+Trabalho, que possibilita à empresa não motivar nem justificar o ato, bastando
+homologar a rescisão e pagar as verbas rescisórias. Todavia, quando se trata de
+despedida coletiva, que atinge um grande número de trabalhadores, devem ser
+observados os princípios e regras do Direito Coletivo do Trabalho, que seguem
+determinados procedimentos, tais como a negociação coletiva. Não há proibição de
+despedida coletiva, principalmente em casos em que não há mais condições de trabalho
+na empresa. No entanto, devem ser observados os princípios previstos na Constituição
+Federal, da dignidade da pessoa humana, do valor social do trabalho e da função social
+da empresa, previstos nos artigos 1º, III e IV, e 170, caput e III, da CF; da democracia na
+relação trabalho capital e da negociação coletiva para solução dos conflitos coletivos, (
+arts. 7º, XXVI, 8º, III e VI, e 10 e 11 da CF), bem como as Convenções Internacionais da
+OIT, ratificadas pelo Brasil, nas Recomendações nos 98, 135 e 154, e, finalmente, o
+princípio do direito à informação previsto na Recomendação nº 163, da OIT, e no artigo
+5º, XIV, da CF. No caso dos autos, a empresa, além de dispensar os empregados de
+forma arbitrária, não pagou as verbas rescisórias, deixando de observar os princípios
+básicos que devem nortear as relações de trabalho. A negociação coletiva entre as
+partes é essencial nestes casos, a fim de que a dispensa coletiva traga menos impacto
+social, atendendo às necessidades dos trabalhadores, considerados hipossuficientes.
+Precedente. Todavia, não há fundamento para deferimento de licença remunerada pelo
+prazo de sessenta dias, principalmente porque a empresa encontra-se em processo de
+recuperação judicial. Recurso ordinário a que se dá provimento parcial. (RODC -
+2004700-91.2009.5.02.0000 , Relatora Ministra: Kátia Magalhães Arruda, Data de
+Julgamento: 14/11/2011, Seção Especializada em Dissídios Coletivos, Data de Publicação:
+DEJT 16/12/2011) Portanto, nega-se provimento neste item." Como se observa, o
+Tribunal Regional manteve a sentença que julgou parcialmente procedente os pedidos
+formulados na presente ação civil pública ajuizada pelo SINDICATO DOS EMPREGADOS
+EM ENTIDADES CULTURAIS, RECREATIVAS, DE ASSISTENCIA SOCIAL, DE ORIENTAÇÃO E
+FORMAÇÃO PROFISSIONAL DO ESTADO DE RONDÔNIA - SENALBA/RO, em face de SEST -
+SERVIÇO SOCIAL DO TRANSPORTE e SENAT - SERVIÇO NACIONAL DE APRENDIZAGEM DO
+TRANSPORTE, confirmando a declaração de ineficácia das demissões em massa levadas
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+a efeito pelos Reclamados, em face da necessidade de negociação prévia coletiva.
+Asseverou que a controvérsia cingiu-se sobre ser necessária ou não a prévia
+negociação ante a premência de demissão em massa e, neste aspecto, a sentença fora
+suficientemente fundamentada, pois demonstrou claramente ser coletiva as demissões
+perpetradas pelas Recorrentes e que foram irregularmente realizadas face a ausência
+de negociação prévia.
+A questão já está resolvida pelo Supremo Tribunal Federal, no julgamento do Tema
+nº 638 da Tabela de Repercussão Geral daquela Corte.
+Em se tratando de discussão jurídica já pacificada por tese com efeito vinculante e
+eficácia erga omnes firmada pelo STF em repercussão geral reconhecida, cabe às demais
+instâncias do Poder Judiciário tão-somente aplicá-la nos casos concretos enquanto o
+processo não transitar em julgado, ou seja, enquanto pendente de recurso, mesmo no
+caso de recurso excepcional, como é a hipótese do recurso de revista. É a orientação do
+Tema nº 360 da Repercussão Geral.
+A Suprema Corte tem entendido que a tese deve ser aplicada sempre que
+pendente a análise de algum recurso, inclusive os embargos de declaração ou embargos
+infringentes, em observância ao decidido na ADI 2.418 (Rel. Min. TEORI ZAVASCKI, Julg.
+04.05.2016) e ao Tema 360 da Repercussão Geral (RE 611503, Relator: Min. TEORI
+ZAVASCKI, Relator p/ Acórdão: Min. EDSON FACHIN, Tribunal Pleno, julgado em
+20/08/2018, DJe-053 de 19/03/2019), diante do FATOR CRONOLÓGICO da estabilização do
+trânsito em julgado em relação à fixação da tese de repercussão geral ou de controle
+concentrado, como se observa no julgamento da Reclamação nº 38.918 (AgR, Relator:
+Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/04/2020, DJe-118 de
+13/05/2020). No julgamento dos Embargos de Declaração em Agravo em Reclamação nº
+15.724 (AgR-ED, Relator p/ Acórdão: Min. ALEXANDRE DE MORAES, Primeira Turma,
+julgado em 05/05/2020, DJe-151 de 18/06/2020), houve aplicação da tese de repercussão
+geral (Tema 725) e da ADPF 324 na apreciação dos embargos de declaração
+apresentados depois da fixação da tese.
+Pois bem. Na decisão do RE 999435/SP (Tema 638 da Tabela de Repercussão
+Geral), o Supremo Tribunal Federal firmou entendimento no sentido de que: "A
+intervenção sindical prévia é exigência procedimental imprescindível para a dispensa em
+massa de trabalhadores, que não se confunde com autorização prévia por parte da
+entidade sindical, ou celebração de convenção ou acordo coletivo".
+Eis o teor da ementa: CONSTITUCIONAL. DIREITO DOS TRABALHADORES. DISPENSA
+EM MASSA. INTERVENÇÃO SINDICAL PRÉVIA. EXIGÊNCIA. ART. 7º, INCISOS I e XXVI, da
+CONSTITUIÇÃO DA REPÚBLICA. 1. Os direitos sociais fundamentais trabalhistas são
+corolários primários do modelo político alcunhado de Estado Democrático de Direito. 2.
+As relações contratuais, em geral, e as relações contratuais trabalhistas, em particular,
+devem considerar sujeitos e objetos concretos. 3. Diante da previsão constitucional
+expressa do artigo 7°, I e XXVI, da CRFB, é inadmissível o rompimento em massa do
+vínculo de emprego sem a devida atenção à negociação coletiva. 4. Recurso
+extraordinário não provido, com fixação majoritária, vencidos os Ministros Edson Fachin
+e Ricardo Lewandowski e a Ministra Rosa Weber, da seguinte tese: "A intervenção
+sindical prévia é exigência procedimental imprescindível para a dispensa em massa de
+trabalhadores, que não se confunde com autorização prévia por parte da entidade
+sindical, ou celebração de convenção o acordo coletivo". (RE 999435, Relator(a): MARCO
+AURÉLIO, Relator(a) p/ Acórdão: EDSON FACHIN, Tribunal Pleno, julgado em 08-06- 2022,
+PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-184 DIVULG 14-09-2022
+PUBLIC 15- 09-2022) Ocorre que, em sede embargos declaratórios, a Suprema Corte,
+modulou os efeitos para concluir que "a aplicação retroativa da tese de julgamento
+impõe ônus desproporcional aos empregadores , já que (i) a questão era controvertida e
+se encontrava em julgamento perante o Supremo Tribunal Federal; e (ii) não havia
+expressa disposição legal ou constitucional que impusesse a observância desse requisito
+procedimental nas demissões em massa ou coletivas", e determinou que " a exigência de
+intervenção sindical prévia vincula apenas as demissões em massa ocorridas após a
+publicação da ata do julgamento de mérito " (publicação ocorrida em 13.06.2022 ).
+A ementa foi lavrada nos seguintes termos: Ementa : DIREITO CONSTITUCIONAL E
+DO TRABALHO. EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO COM
+REPERCUSSÃO GERAL. INTERVENÇÃO SINDICAL PRÉVIA À DISPENSA EM MASSA.
+MODULAÇÃO DE EFEITOS DA DECISÃO.
+1. Embargos de declaração contra acórdão em que se fixou a seguinte tese de
+julgamento: "A intervenção sindical prévia é exigência procedimental imprescindível para
+a dispensa em massa de trabalhadores, que não se confunde com autorização prévia
+por parte da entidade sindical, ou celebração de convenção o acordo coletivo" .
+2. A aplicação retroativa da tese de julgamento impõe ônus desproporcional aos
+empregadores, já que: (i) a questão era controvertida e se encontrava em julgamento
+perante o Supremo Tribunal Federal; e (ii) não havia expressa disposição legal ou
+constitucional que impusesse a observância desse requisito procedimental nas
+demissões em massa ou coletivas.
+3. Modulação dos efeitos da decisão, de modo a explicitar que a exigência de
+intervenção sindical prévia vincula apenas as demissões em massa ocorridas após a
+publicação da ata do julgamento de mérito. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+4. Embargos de declaração acolhidos em parte.
+Portanto, em razão de modulação de efeitos da decisão proferida pelo Supremo
+Tribunal Federal no Tema 638, a hipótese dos autos não contempla a limitação temporal
+determinada pela Suprema Corte para a aplicação da necessidade de intervenção
+sindical prévia nas hipóteses de dispensa coletiva, eis que as dispensas ocorreram no
+ano de 2016.
+Aliás, nesse sentido, cite-se os seguintes julgados desta Corte: "EMBARGOS SOB A
+ÉGIDE DA LEI 13.015/2014. AÇÃO CIVIL PÚBLICA. DISPENSA EM MASSA SEM PRÉVIA
+NEGOCIAÇÃO COM O SINDICATO DA CATEGORIA. DANO MORAL COLETIVO . TEMA 638
+DO SUPREMO TRIBUNAL FEDERAL. MODULAÇÃO DE EFEITOS EM EMBARGOS DE
+DECLARAÇÃO. O Supremo Tribunal Federal, na modulação de efeitos da decisão
+proferida no Tema de Repercussão Geral nº 638, fixou a seguinte tese de julgamento: " A
+intervenção sindical prévia é exigência procedimental imprescindível para a dispensa em
+massa de trabalhadores, que não se confunde com autorização prévia por parte da
+entidade sindical, ou celebração de convenção o acordo coletivo" . 2. A aplicação
+retroativa da tese de julgamento impõe ônus desproporcional aos empregadores, já que:
+(I) a questão era controvertida; e (II) não havia expressa disposição legal ou
+constitucional que impusesse a observância desse requisito procedimental nas
+demissões em massa ou coletivas. 3. Modulação dos efeitos da decisão, de modo a
+explicitar que a exigência de intervenção sindical prévia vincula apenas as demissões em
+massa ocorridas após a publicação da ata do julgamento de mérito, ocorrido em
+15/09/2022 ". Na hipótese dos autos, a Eg. 2ª Turma destacou que a Reclamada
+dispensou, em 2012, 90% dos empregados, em razão do encerramento das atividades,
+sem prévia negociação com o sindicato da categoria. Asseverou, com amparo na
+jurisprudência desta Corte, que a dispensa em massa de trabalhadores, sem prévia
+negociação com o sindicato profissional acarreta a responsabilização civil do
+empregador e o consequente pagamento de indenização compensatória. Com efeito,
+incontroverso nos autos a existência de dispensa coletiva de trinta professores e dois
+empregados da área administrativa, em razão da ausência de condições financeiras
+decorrentes da falta de alunos, o que inviabilizou a manutenção da Empresa. Ressalte-se
+que, a despeito da já citada falta de condições viáveis de manter o funcionamento da
+Reclamada, as verbas rescisórias foram pagas de forma integral e tempestiva e liberadas
+as guias de seguro desemprego aos empregados. Ademais, houve homologação de
+algumas rescisões pelo Sindicato, sem que houvesse constatação de qualquer
+irregularidade. Assinale-se, ainda, que os empregados dispensados não eram à época,
+detentores de qualquer garantia de emprego. Nesse passo, adota-se o entendimento no
+sentido de que a inexistência de negociação coletiva, por si só, não acarreta a
+condenação por dano moral . Faz-se necessária a presença dos requisitos da
+responsabilidade civil (culpa do empregador, dano aos empregados e nexo de
+causalidade), o que não ocorreu na presente hipótese. Por fim, em razão de modulação
+de efeitos da decisão proferida pelo Supremo Tribunal Federal no Tema 638, a hipótese
+dos autos não contempla a limitação temporal determinada pela Suprema Corte para a
+aplicação da necessidade de intervenção sindical prévia nas hipóteses de dispensa
+coletiva. Recurso de embargos conhecido e provido" (E-RR-201-32.2013.5.24.0005,
+Subseção I Especializada em Dissídios Individuais, Relator Ministro Alexandre Luiz
+Ramos, DEJT 28/03/2025).
+"RECURSO DE REVISTA INTERPOSTO PELA PARTE RÉ. VIGÊNCIA DA LEI N.º 13.467/17.
+JULGAMENTO PREFERENCIAL. PREJUDICIALIDADE. DISPENSA EM MASSA. NEGOCIAÇÃO
+COLETIVA PRÉVIA. NECESSIDADE. ATO DA DEMISSÃO CONCRETIZADO EM MOMENTO
+POSTERIOR À VIGÊNCIA DA LEI N.º 13.467/17. TESE VINCULANTE FIXADA PELO SUPREMO
+TRIBUNAL FEDERAL NO JULGAMENTO DO TEMA 638 DA TABELA DE REPERCUSSÃO
+GERAL. MODULÇÃO DOS EFEITOS. TRANSCENDÊNCIA JURÍDICA RECONHECIDA. 1. É cediço
+que a jurisprudência desta Corte Superior firmou-se no sentido de que a prévia
+negociação coletiva é imprescindível para a legalidade da dispensa em massa de
+trabalhadores e, ausente tal procedimento, é devida a indenização compensatória, pelo
+caráter coletivo da lesão. 2. Todavia, a Lei n.º 13.467/2017 inseriu o art. 477-A na CLT que
+assim dispõe, verbis: as dispensas imotivadas individuais, plúrimas ou coletivas
+equiparam-se para todos os fins, não havendo necessidade de autorização prévia de
+entidade sindical ou de celebração de convenção coletiva ou acordo coletivo de trabalho
+para sua efetivação. 3. O Supremo Tribunal Federal, no julgamento do RE 999435/SP
+(Tema 638 da Tabela de Repercussão Geral) fixou a seguinte tese acerca da dispensa em
+massa de trabalhadores: "A intervenção sindical prévia é exigência procedimental
+imprescindível para a dispensa em massa de trabalhadores, que não se confunde com
+autorização prévia por parte da entidade sindical, ou celebração de convenção ou acordo
+coletivo". 4. Contudo, em embargos de declaração nos autos daquele apelo extremo, a
+Suprema Corte, ante a inexistência de expressa disposição legal ou constitucional que
+impusesse a observância desse requisito procedimental nas demissões em massa ou
+coletivas, modulou os efeitos da decisão acima transcrita, determinando que "a
+exigência de intervenção sindical prévia vincula apenas as demissões em massa
+ocorridas após a publicação da ata do julgamento de mérito", ocorrida em 13.06.2022 . 5.
+Nesse diapasão, tendo em vista que o fato ocorreu em momento posterior à entrada em
+vigor do art. 477-A da CLT e anteriormente à data fixada pelo STF, prevalece, na hipótese, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+o entendimento quanto à desnecessidade da participação prévia do sindicato como
+requisito de validade das dispensas coletivas, nos exatos termos do dispositivo legal
+inserido com a Reforma Trabalhista . Recurso de revista conhecido e provido" (RRAg￾1000446-88.2018.5.02.0061, 1ª Turma, Relator Ministro Amaury Rodrigues Pinto Junior,
+DEJT 19/04/2024) EMBARGOS DE DECLARAÇÃO. RECURSO DE REVISTA. JUÍZO DE
+RETRATAÇÃO (ART. 1.030, II, DO CPC/2015 E ART. 543-B, § 3º, DO CPC/1973). DANOS
+MORAIS COLETIVOS. DEMISSÃO EM MASSA OCORRIDA ANTES DA EDIÇÃO DO ART. 477-A
+DA CLT. AUSÊNCIA DE PRÉVIA NEGOCIAÇÃO COLETIVA.
+TEMA 638 DA TABELA DE REPERCUSSÃO GERAL DO STF. ESTRITA OBSERVÂNCIA À
+MODULAÇÃO TEMPORAL DE EFEITOS. Conforme decidido pela Turma, em estrita
+observância à modulação de efeitos imposta pela Suprema Corte nos autos do RE
+999.435/SP, tem-se que apenas as demissões em massa ocorridas após 14/06/2022
+dependem de prévia intervenção sindical. Destarte, o Ministério Público do Trabalho
+pretende, na verdade, o reexame da matéria e a reforma do julgado, o que é inviável em
+sede de embargos de declaração, nos termos dos artigos 1.022 do CPC e 897-A da CLT.
+Embargos de declaração rejeitados. (EDCiv-RR-10125-07.2014.5.15.0030, 2ª Turma,
+Relatora Ministra Maria Helena Mallmann, DEJT 17/11/2025).
+DIREITO DO TRABALHO. RECURSO DE REVISTA. DISPENSA EM MASSA.
+INTERVENÇÃO SINDICAL PRÉVIA. DESNECESSIDADE. ATO DA DEMISSÃO CONCRETIZADO
+EM MOMENTO ANTERIOR À MODULAÇÃO DE EFEITOS DA TESE VINCULANTE FIXADA
+PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO TEMA 638 DA TABELA DE
+REPERCUSSÃO GERAL. TRANSCENDÊNCIA JURÍDICA RECONHECIDA. 1. Recurso de revista
+interposto pela parte autora contra acórdão do Tribunal Regional do Trabalho da 4ª
+Região. 2. Cinge-se a controvérsia em estabelecer se é necessária a intervenção sindical
+prévia no caso da dispensa em massa efetivada nos autos. 3. É cediço que a
+jurisprudência desta Corte Superior firmou-se no sentido de que a prévia negociação
+coletiva é imprescindível para a legalidade da dispensa em massa de trabalhadores e,
+ausente tal procedimento, é devida a indenização compensatória, pelo caráter coletivo
+da lesão. 4. Todavia, a Lei n.º 13.467/2017 inseriu o art. 477-A na CLT que assim dispõe:
+as dispensas imotivadas individuais, plúrimas ou coletivas equiparam-se para todos os
+fins, não havendo necessidade de autorização prévia de entidade sindical ou de
+celebração de convenção coletiva ou acordo coletivo de trabalho para sua efetivação . 5.
+O Supremo Tribunal Federal, no julgamento do RE 999435/SP (Tema 638 da Tabela de
+Repercussão Geral) fixou a seguinte tese acerca da dispensa em massa de
+trabalhadores: " A intervenção sindical prévia é exigência procedimental imprescindível
+para a dispensa em massa de trabalhadores, que não se confunde com autorização
+prévia por parte da entidade sindical, ou celebração de convenção ou acordo coletivo ". 6.
+Contudo, em embargos de declaração nos autos daquele apelo extremo, a Suprema
+Corte, ante a inexistência de expressa disposição legal ou constitucional que impusesse
+a observância desse requisito procedimental nas demissões em massa ou coletivas,
+modulou os efeitos da decisão acima transcrita, determinando que " a exigência de
+intervenção sindical prévia vincula apenas as demissões em massa ocorridas após a
+publicação da ata do julgamento de mérito " , ocorrida em 13.06.2022. 7. Nesse
+diapasão, ainda que a publicação da ata de julgamento tenha ocorrido no curso do aviso￾prévio, prevalece, na hipótese, o entendimento quanto à desnecessidade da participação
+prévia do sindicato como requisito de validade das dispensas coletivas, tendo em vista
+que o fato (demissão em massa dos empregados) ocorreu anteriormente à data fixada
+pelo STF. 8. Em tal contexto, tendo em vista que o fato ocorreu em momento posterior à
+entrada em vigor do art. 477-A da CLT e anteriormente à data fixada pelo STF, prevalece,
+na hipótese, o entendimento quanto à desnecessidade da participação prévia do
+sindicato como requisito de validade das dispensas coletivas, nos exatos termos do
+dispositivo legal inserido com a Reforma Trabalhista. Recurso de revista não conhecido.
+(RR-0020935- 22.2023.5.04.0001, 1ª Turma, Relator Ministro Amaury Rodrigues Pinto
+Junior, DEJT 06/11/2025).
+A) AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DO RECLAMADO.
+ACÓRDÃO REGIONAL PUBLICADO APÓS A VIGÊNCIA DA LEI Nº 13.467/2017. 1. NEGATIVA
+DE PRESTAÇÃO JURISDICIONAL . ART. 896, § 1º-A, DA CLT . 2. LEGITIMIDADE ATIVA.
+AUSÊNCIA DE OFENSA LEGAL/CONSTITUCIONAL. CONHECIMENTO E NÃO PROVIMENTO.
+I. Os argumentos da parte Agravante não logram desconstituir a decisão agravada. II.
+Agravo de instrumento de que se conhece e a que se nega provimento. 3. AÇÃO CIVIL
+PÚBLICA. DEMISSÃO EM MASSA. DANO MORAL COLETIVO. CONHECIMENTO E
+PROVIMENTO. I. Os argumentos da parte Agravante logram desconstituir a decisão
+agravada. II. Agravo de instrumento de que se conhece e a que dá provimento. B)
+RECURSO DE REVISTA DO RECLAMADO. AÇÃO CIVIL PÚBLICA. DEMISSÃO EM MASSA.
+DANO MORAL COLETIVO . TRANSCENDÊNCIA POLÍTICA RECONHECIDA . CONHECIMENTO
+E PROVIMENTO. I. O Tribunal Regional entendeu pela existência de dano moral coletivo,
+fundamentando, em resumo que " inobstante tenha a demandada readmitido parte dos
+empregados, apenas o fez após ser acionada judicialmente, constituindo-se tal conduta
+em desrespeito à ordem jurídica e configurando ofensa aos direitos transindividuais de
+toda a categoria de empregados, atitude esta que autoriza o deferimento de indenização
+por dano moral coletivo ." II. Não se desconhece a decisão do RE 999435/SP (Tema 638
+da Tabela de Repercussão Geral) o Supremo Tribunal Federal firmou entendimento no
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+sentido de que: " A intervenção sindical prévia é exigência procedimental imprescindível
+para a dispensa em massa de trabalhadores, que não se confunde com autorização
+prévia por parte da entidade sindical, ou celebração de convenção ou acordo coletivo ".
+Na hipótese em análise, as demissões ocorreram no ano de 2020. Logo, não havia,
+segundo a tese do Tema 638 do STF, necessidade de intervenção sindical. III . Todavia,
+importante explicar que a condenação em dano moral coletivo, na hipótese, não
+ocorreu apenas em razão da ausência de negociação prévia com o sindicato da
+categoria, mas também, em razão do TRT ter considerado, que após as demissões,
+houve acordo entre as partes, mediado pelo Ministério Publico do Trabalho, no sentido
+de readmitir os empregados e este não foi cumprido. Diante desta situação, a Corte de
+origem concluiu que houve desrespeito à ordem jurídica configurando ofensa aos
+direitos transindividuais de toda a categoria de empregados, atitude esta que autoriza o
+deferimento de indenização por dano moral coletivo. IV . Ademais, considerando que a
+indenização tem finalidade reparadora, pedagógica e preventiva, a fim de evitar que
+situações similares tornem a se repetir, entendo plausível a manutenção da condenação
+em danos morais coletivos. V . Entretanto, no tocante ao valor da indenização fixada pelo
+TRT, tendo em vista o dano sofrido (segundo o acórdão regional, ainda que a obrigação
+tenha sido cumprida fora do prazo), a reclamada readmitiu os empregados com os
+consectários legais. Entendo, em respeito ao princípio da proporcionalidade, que
+convém diminuir o valor da indenização. VI. Recurso de revista conhecido e provido.
+(RRAg-425- 61.2020.5.06.0122, 4ª Turma, Relator Ministro Alexandre Luiz Ramos, DEJT
+04/07/2025).
+RECURSO DE REVISTA INTERPOSTO SOB A ÉGIDE DA LEI Nº 13.467/2017 - DISPENSA
+COLETIVA - NECESSIDADE DE INTERVENÇÃO SINDICAL PRÉVIA - ART. Nº477-A, DA CLT -
+DECISÃO DO STF NO RE 999435/SP (TEMA DE REPERCUSSÃO GERAL Nº TEMA 638) -
+MODULAÇÃO DE EFEITOS - AÇÃO AJUIZADA ANTERIORMENTE AO MARCO TEMPORAL -
+TRANSCENDÊNCIA ECONÔMICA No julgamento do RE 999435/SP (Tema nº 638 de
+repercussão geral), o E. Supremo Tribunal Federal fixou a tese de que a dispensa em
+massa de trabalhadores exige a intervenção sindical prévia. Assentou que tal
+intervenção não se confunde com autorização prévia ou celebração de norma coletiva,
+assegurando-se tão somente o direito procedimental de que o sindicato participe
+previamente ao procedimento. Todavia, no julgamento dos Embargos de Declaração do
+respectivo RE 999435/SP, o E. STF modulou os efeitos da sua decisão e determinou que
+"a exigência de intervenção sindical prévia vincula apenas as demissões em massa
+ocorridas após a publicação da ata do julgamento de mérito" , que ocorreu em 14 de
+junho de 2022 . Como se extrai do acórdão regional, discute-se " dispensa coletiva de
+trabalhadores da Ré na unidade produtiva situada em Campo Verde ocorrida em julho e
+agosto de 2018 , sem prévia negociação coletiva com a entidade sindical " (fls. 422 -
+destaquei). Nesse contexto, sendo a dispensa anterior ao marco temporal modulado
+pelo E. Supremo Tribunal Federal, desnecessária a participação prévia do sindicato como
+requisito de validade da dispensa coletiva, nos termos do artigo 477-A da CLT. Recurso
+de Revista não conhecido. (RR-782-79.2018.5.23.0076, 4ª Turma, Relatora Ministra Maria
+Cristina Irigoyen Peduzzi, DEJT 15/08/2025).
+I - AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA INTERPOSTO PELO
+SINDICATO. ACÓRDÃO REGIONAL PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017. AÇÃO
+CIVIL PÚBLICA. DISPENSA COLETIVA OCORRIDA APÓS A VIGÊNCIA DA LEI Nº 13.467/2017
+E DA INCLUSÃO DO ART. 477-A DA CLT. DESNECESSIDADE DE INTERVENÇÃO SINDICAL
+PRÉVIA. DECISÃO DO STF NO RE 999435/SP. REPERCUSSÃO GERAL. TEMA 638.
+TRANSCENDÊNCIA NÃO RECONHECIDA. 1. O Supremo Tribunal Federal, no julgamento
+do RE 999.435/SP (DJe 15/9/2022), em sistema de Repercussão Geral (Tema 638), por
+maioria, fixou a seguinte tese acerca da dispensa em massa de trabalhadores: " A
+intervenção sindical prévia é exigência procedimental imprescindível para a dispensa em
+massa de trabalhadores, que não se confunde com autorização prévia por parte da
+entidade sindical, ou celebração de convenção ou acordo coletivo ". Tendo em vista a
+finalidade precípua desta instância extraordinária na uniformização de teses jurídicas, a
+existência de entendimento sumulado ou representativo de iterativa e notória
+jurisprudência, em consonância com a decisão recorrida, configura impeditivo ao
+processamento do recurso de revista, por imperativo legal. 2. Todavia, a Suprema Corte,
+verificando a inexistência, até então, de expressa disposição legal ou constitucional que
+determinasse a necessidade de intervenção sindical prévia nas demissões em massa, no
+julgamento dos embargos de declaração dos autos do referido recurso extraordinário,
+publicado em 25/4/2023, modulou os efeitos da decisão acima transcrita, determinando
+que " a exigência de intervenção sindical prévia vincula apenas as demissões em massa
+ocorridas após a publicação da ata do julgamento de mérito ", que ocorreu em
+14/6/2022. 3. Na hipótese em apreço, a dispensa em massa ocorreu em janeiro/2018,
+isto é, após a entrada em vigor do art. 477-A da CLT e antes da data fixada pelo STF,
+razão pela qual prevalece o entendimento quanto à desnecessidade da participação
+prévia do sindicato como requisito de sua validade. Agravo de instrumento conhecido e
+desprovido . II - RECURSO DE REVISTA DO MINISTÉRIO PÚBLICO DO TRABALHO. Tendo
+em vista a identidade dos recursos interpostos pela parte autora em relação ao tema
+"Dispensa coletiva", bem como, negado provimento ao agravo de instrumento do
+sindicato, pelas razões expostas, deixa-se de apreciar o recurso de revista interposto
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+pelo MPT. Recurso de revista não conhecido . (RRAg-1000754- 14.2019.5.02.0054, 5ª
+Turma, Relatora Ministra Morgana de Almeida Richa, DEJT 12/08/2025).
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. DISPENSA EM MASSA.
+AUSÊNCIA DE PRÉVIA INTERVENÇÃO SINDICAL. DESPEDIDA POSTERIOR À LEI Nº
+13.467/2017. TEMA 638 DA TABELA DE REPERCUSSÃO GERAL DO STF. MODULAÇÃO DOS
+EFEITOS. TRANSCENDÊNCIA RECONHECIDA. No julgamento do RE nº 999.435 (Tema 638),
+o Supremo Tribunal Federal fixou a seguinte tese de repercussão geral: " A intervenção
+sindical prévia é exigência procedimental imprescindível para a dispensa em massa de
+trabalhadores, que não se confunde com autorização prévia por parte da entidade
+sindical ou celebração de convenção ou acordo coletivo ". Posteriormente, acolheu os
+embargos de declaração para modular os efeitos da referida decisão, assentando que a
+exigência da intervenção sindical prévia só é aplicável às dispensas coletivas ocorridas
+após a data da publicação da ata do julgamento de mérito, em 14/6/2022. In casu ,
+considerando que a dispensa coletiva ocorreu anteriormente à referida data, a
+conclusão adotada pelo Regional quanto à validade do ato, independentemente da
+ausência de intervenção sindical, não contraria o referido precedente vinculante, de
+observância obrigatória, ante a modulação dos seus efeitos fixada pela Suprema Corte.
+Agravo de instrumento conhecido e não provido. (AIRR-20414-97.2020.5.04.0772, 8ª
+Turma, Relatora Ministra Dora Maria da Costa, DEJT 13/10/2025).
+I - AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DA RECLAMADA.
+REGÊNCIA PELAS LEIS 13015/2014 E 13467/2017 - DANO MORAL. MOTORISTA
+ENTREGADOR. TRANSPORTE DE VALORES. TEMA 61 DA TABELA DE RECURSOS
+REPETITIVOS DO TST. TRANSCENDÊNCIA NÃO RECONHECIDA. Segundo o acórdão
+regional, foi comprovado que o reclamante, na função de motorista entregador,
+efetuava transporte irregular de numerário, porque não havia empresa especializada
+contratada pela reclamada para essa função, o que expunha o empregado a situação de
+risco desnecessário por ato ilícito patronal, sendo devida a condenação da empresa ao
+pagamento de indenização por dano moral. A decisão regional, da forma como posta,
+além de fundamentada no exame dos fatos e das provas produzidos, cuja reapreciação é
+inviável nessa instância extraordinária a teor da Súmula 126 do TST, está em
+consonância o entendimento uniforme desta Corte, consagrado no Tema 61 da Tabela
+de Recursos Repetitivos desta Corte, que reafirmou a jurisprudência deste Tribunal
+Superior no sentido de que: "O transporte de valores por trabalhador não especializado
+configura situação de risco a ensejar reparação civil por dano moral in re ipsa,
+independentemente da atividade econômica do empregador." Agravo de instrumento de
+que se conhece e a que se nega provimento. II - RECURSO DE REVISTA DO RECLAMANTE. .
+REGÊNCIA PELAS LEIS 13015/2014 E 13467/2017 . 1. DISPENSA COLETIVA. CHANCELA
+SINDICAL PRÉVIA. TEMA 638 DA TABELA DE REPERCUSSÃO GERAL DO STF. MODULAÇÃO
+DOS EFEITOS. O Supremo Tribunal Federal, ao julgar o RE 999435/SP, que tratava da
+licitude da dispensa em massa de empregados, firmou, em 13/06/2022, o entendimento
+materializado no Tema 638 da Tabela de Repercussão Geral, cuja tese é a seguinte: " A
+intervenção sindical prévia é exigência procedimental imprescindível para a dispensa em
+massa de trabalhadores, que não se confunde com autorização prévia por parte da
+entidade sindical, ou celebração de convenção ou acordo coletivo ". Os efeitos dessa
+decisão, contudo, foram modulados mediante a decisão de embargos de declaração, na
+qual foi fixado que "a exigência de intervenção sindical prévia vincula apenas as
+demissões em massa ocorridas após a publicação da ata do julgamento de mérito ". Na
+hipótese em análise, o ato da dispensa em massa noticiada pelo autor ocorreu antes da
+publicação da tese firmada no Tema 638 do STF, cuja eficácia é erga omnes e de
+observância é obrigatória, de forma que a ausência de intervenção sindical prévia não
+macula o ato da dispensa patronal. Recurso de revista de que se não conhece. [...].
+(RRAg-10856-04.2017.5.03.0039, 8ª Turma, Relator Ministro Sergio Pinto Martins, DEJT
+14/11/2025).
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA - LEI Nº 13.467/2017 -
+PRELIMINAR DE NULIDADE DO ACÓRDÃO REGIONAL POR NEGATIVA DE PRESTAÇÃO
+JURISDICIONAL. ART. 896, "C", DA CLT - AÇÃO CIVIL PÚBLICA. DISPENSA COLETIVA.
+INTERVENÇÃO SINDICAL PRÉVIA. DISPENSA OCORRIDA EM 2020, APÓS A REFORMA
+TRABALHISTA (LEI Nº 13.467/2017) E A INCLUSÃO DO ART. 477-A DA CLT. DECISÃO DO
+STF NO RE 999435/SP. REPERCUSSÃO GERAL. TEMA 638. TRANSCENDÊNCIA NÃO
+RECONHECIDA. Nega-se provimento ao agravo de instrumento quando não
+demonstrada a viabilidade do processamento do recurso de revista. Agravo de
+instrumento a que se nega provimento. (AIRR-10546-88.2020.5.03.0169, 8ª Turma,
+Relator Ministro Sergio Pinto Martins, DEJT 14/11/2025).
+Assim sendo, considerando que a decisão de origem está em desconformidade
+com a tese firmada pelo STF no Tema de Repercussão Geral nº 638, bem como com a
+jurisprudência desta Corte Superior, nos termos do art. 932, V, "b", do CPC, dou
+provimento ao agravo de instrumento dos Reclamados para conhecer do seu recurso de
+revista, e no mérito, desde logo, dar-lhe provimento para declarar a validade das
+dispensas em massa efetuadas pelos Recorrentes e afastar a determinação de
+reintegração, bem como excluir todas as condenações que lhes foram impostas na
+sentença e mantidas pelo Tribunal Regional, julgando improcedente a ação civil
+pública.". Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+Na minuta de agravo, a parte Recorrente insiste no conhecimento e provimento do
+seu apelo, a fim de ver processado seu recurso de revista. Primeiramente, sustenta que
+" o Eminente Relator consignou, expressamente, a mitigação dos pressupostos do art.
+896, § 1º-A, da CLT, para a liberação do processamento e, na sequência, do
+conhecimento e provimento do recurso de revista dos Reclamados: "¿em inúmeras
+reclamações constitucionais, o STF tem superado óbices processuais cuja aplicação
+envolva certa carga de subjetividade (como o art. 896, § 1º-A, I, da CLT e a Súmula 422 do
+TST), apontados pelo TST para denegar seguimento a agravos de instrumento e recursos
+de revista, quando verifica que a questão de fundo tratada na origem se refere à tese
+vinculante fixada pelo STF". Mas que esse entendimento diverge de precedentes de
+outras Turmas desse Colendo Tribunal. Dentre os quais aqueles que entendem que, até
+a solução pela STF da Controvérsia nº 50012, em que foram selecionados recursos
+representativos da controvérsia para fins de afetação (TST-Ag-AIRR-1138-
+82.2018.5.11.0052; TST-Ag-RR-104- 41.2015.5.06.0012; e TST-Ag-ED-1001-
+89.2014.5.02.0085), " há de que prevalecer a soberania da legislação vigente, a qual
+prevê pressupostos recursais de admissibilidade que devem ser observados por todos
+os jurisdicionados ".
+Requer " a anulação do r. despacho agravado, para que o Eminente Relator
+proceda ao julgamento do agravo de instrumento em recurso de revista dos
+Reclamados, à luz dos pressupostos recursais pertinentes aos respectivos recursos ".
+Sucessivamente, alega que, " conjugando-se o Tema 638, a teoria dos motivos
+determinantes e a proteção constitucional contra a despedida arbitrária, a conclusão
+que emerge é a de que a empresa, ao justificar o desligamento massivo por condições
+estruturais que ela mesma tolerou ao longo do tempo, assumiu o risco jurídico de ver o
+ato qualificado como arbitrário. Em assim o sendo ¿ e assim o é ¿, a ausência de força
+maior, somada à falta de demonstração de negociação coletiva efetiva e de medidas
+alternativas, legitima a intervenção da Justiça do Trabalho não para interferir na política
+econômica da empresa, mas para assegurar que a ruptura coletiva respeite os
+parâmetros constitucionais de proteção ao emprego e de responsabilidade social do
+empregador. (ii) Sob esse enfoque, é possível sustentar que o caso concreto não
+apresenta aderência estrita ao Tema 638 do STF, ainda que dialogue com a lógica
+protetiva que dele emana ".
+Defende, assim, que " o precedente da repercussão geral foi construído para
+disciplinar a exigência procedimental de negociação sindical prévia em hipóteses típicas
+de dispensa coletiva decorrentes de reestruturação econômica, reorganização produtiva
+ou decisões empresariais estratégicas. Aqui, entretanto, os próprios Reclamados
+vincularam o ato demissional a uma causa específica ¿ as condições estruturais do
+imóvel ¿ deslocando o debate do plano meramente coletivo-procedimental para o campo
+da responsabilidade empresarial pela gestão do ambiente de trabalho e pela
+previsibilidade do risco ".
+Além disso, insiste em afirmar que " a inexistência de aderência estrita ao Tema nº
+638 também se evidencia pelo fato de que a Justiça do Trabalho não invalidou a dispensa
+coletiva por ausência de negociação sindical, mas pela falta de proporcionalidade e
+razoabilidade da medida diante de alternativas possíveis e do histórico de ciência
+empresarial acerca das condições do imóvel. Assim, o controle jurisdicional exercido não
+representa ampliação indevida do precedente da repercussão geral, mas aplicação
+autônoma dos princípios constitucionais de proteção ao emprego e de responsabilidade
+do empregador, demonstrando que o caso concreto possui densidade normativa
+própria, suficiente para afastar uma leitura automática ou mecânica, por este TST, do
+Tema nº 638 do STF" .
+Argumenta que, " no caso em análise, a dispensa coletiva arbitrária não pode ser
+compreendida como um ato instantâneo, exaurido no momento da ruptura contratual,
+pois seus efeitos jurídicos se prolongam no tempo diante da persistente ausência de
+pagamento das verbas decorrentes da decisão patronal. Trata-se, portanto, de conduta
+de natureza continuada, em que a lesão ao direito dos trabalhadores se renova mês a
+mês, mantendo-se atual e permanente. Essa característica afasta a tentativa de
+enquadrar o litígio exclusivamente sob o prisma temporal da modulação do Tema nº 638
+do STF, já que o ilícito não se limita a um marco pretérito, mas se projeta para além dele
+".
+Em seguida, aduz a autonomia das multas aplicadas e do bloqueio de valores, sob
+o fundamento de que " devem ser restabelecidas as multas pelo atraso no pagamento
+dos salários de agosto e setembro, uma vez que a sua incidência está diretamente
+vinculada ao descumprimento das determinações judiciais e à mora salarial persistente,
+e não ao resultado momentâneo do julgamento anteriormente reformado.
+Considerando que, até hoje, não houve a quitação das verbas trabalhistas devidas aos
+substituídos, a manutenção das astreintes revela-se compatível com os arts. 536 e 537
+do CPC, funcionando como mecanismo coercitivo legítimo para compelir as empresas ao
+cumprimento das obrigações reconhecidas judicialmente. A revogação dessas medidas,
+diante da reforma do julgado, implicaria esvaziar a efetividade da tutela jurisdicional e
+premiar a inadimplência prolongada, em afronta aos princípios da proteção ao salário e
+da duração razoável do processo ".
+E, por fim, pleiteia a justiça gratuita, nos termos dos artigos 18 da Lei nº 7.347/1985
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+e 87 da Lei nº 8.078/1990 por se tratar a hipóteses dos autos de ações coletivas ajuizadas
+pelo sindicato na qualidade de substituto processual.
+Entretanto, o agravo não merece provimento.
+Como consignado na decisão ora agravada, a jurisprudência pacífica do Supremo
+Tribunal Federal é no sentido de ser vinculante, quanto às decisões judiciais
+supervenientes, a tese firmada em ação de controle de constitucionalidade ou em
+repercussão geral reconhecida, caracterizando-se coisa julgada inconstitucional a
+produção de decisão que não observe referido entendimento.
+Inclusive, em inúmeras reclamações constitucionais, o STF tem superado óbices
+processuais cuja aplicação envolva certa carga de subjetividade (como o art. 896, § 1º-A,
+I, da CLT e a Súmula 422 do TST), apontados pelo TST para denegar seguimento a
+agravos de instrumento e recursos de revista, quando verifica que a questão de fundo
+tratada na origem se refere à tese vinculante fixada pelo STF (cfr. Rcl 37.740 MC-MA, Rel.
+Min. Cármen Lúcia, decisão monocrática, DJe de 30/10/19; Rcl 37.298-MA, Rel. Min.
+Alexandre de Moraes, decisão monocrática, DJe de 21/10/19; Rcl 37.809 MC-SP, Rel. Min.
+Luiz Fux, decisão monocrática, DJe de 19/11/19; Rcl 37.465 MC-MA, Rel. Min. Cármen
+Lúcia, decisão monocrática, DJe de 11/11/19).
+No mais, como se extrai da decisão agravada, embora o Supremo Tribunal
+Federal, no julgamento do RE nº 999.435, finalizado em 8/6/2022, tenha fixado a tese de
+repercussão geral, relativa ao Tema nº 638, de que " a intervenção sindical prévia é
+exigência procedimental imprescindível para a dispensa em massa de trabalhadores,
+que não se confunde com autorização prévia por parte da entidade sindical ou
+celebração de convenção ou acordo coletivo " (DJE 15/09/2022), posteriormente, acolheu
+os embargos de declaração para modular os efeitos da referida decisão, assentando que
+a exigência da intervenção sindical prévia só é aplicável às dispensas coletivas ocorridas
+após a data da publicação da ata do julgamento de mérito, em 14/6/2022.
+Nesse contexto, sendo a dispensa em massa anterior ao marco temporal
+modulado pelo Supremo Tribunal Federal, desnecessária a participação prévia do
+sindicato como requisito de validade da dispensa coletiva, nos termos do artigo 477-A da
+CLT, e, por consequência, improcedente a ação civil pública, não há falar em autonomia
+das multas aplicadas e do bloqueio de valores diante do afastamento da errônea
+presunção de ilicitude da dispensa em massa mantida pelo Tribunal de Origem, ou seja,
+da necessidade de intervenção sindical prévia nas hipóteses de dispensa coletiva.
+Com relação à Justiça Gratuita, carece o Agravante de interesse recursal, visto que
+tal benefício foi mantido na decisão agravada.
+Nessa circunstância, os argumentos da parte Agravante não logram desconstituir a
+decisão agravada, razão pela qual nego provimento ao agravo.
+Nos embargos de declaração, o Embargante sustenta que a Turma foi genérica ao
+superar os óbices processuais do recurso de revista da Reclamada.
+Razão não lhe assiste.
+O acórdão embargado foi explícito ao consignar que a jurisprudência do STF
+orienta a superação de óbices processuais formais, tais como a técnica de transcrição e o confronto
+analítico, quando a decisão recorrida contraria frontalmente tese firmada em sede de Repercussão
+Geral.
+Desse modo, ao reconhecer a transcendência política à luz do decidido pelo STF
+no julgamento do Tema 638 da Tabela de Repercussão Geral, esta Turma exerceu o juízo de adequação
+que privilegia a autoridade das decisões da Suprema Corte sobre o rigorismo formal do art. 896, §1º-A,
+da CLT, em observância ao princípio da segurança jurídica e da eficácia vinculante.
+Inexistente, portanto, qualquer omissão, no particular.
+O Embargante sustenta ainda que o caso possui particularidades, tais como
+conhecimento prévio quanto à deterioração do imóvel, previsibilidade do risco, rejeição da força maior e
+ausência de medidas alternativas, que impedem a aplicação do Tema 638.
+Não há falar, também, em omissão nesse aspecto.
+O cerne da controvérsia em todas as instâncias foi a validade da dispensa em
+massa sem prévia negociação coletiva. A modulação de efeitos operada pelo STF no Tema 638 foi
+categórica: a exigência de intervenção sindical prévia vincula apenas as demissões ocorridas após
+14/06/2022.
+Como as dispensas nestes autos ocorreram em 2016, elas são válidas sob o
+prisma procedimental. Eventuais questões sobre o "motivo" da dispensa (se força maior ou risco
+empresarial) não alteram o fato de que, à época, não havia obrigação legal de negociação coletiva.
+O acórdão abordou a matéria ao destacar que a improcedência da ação decorre
+diretamente da ausência de dever jurídico de intervenção sindical à época dos fatos.
+O Sindicato também sustenta que as multas pelo descumprimento de liminares
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+vigentes à época devem ser mantidas.
+Sem razão. Nesse ponto, a jurisprudência o Tribunal Superior do Trabalho (TST)
+consolidou-se no sentido de que a fixação de multa cominatória (astreintes) em antecipação de tutela é
+uma medida coercitiva que fica condicionada à procedência do pedido principal.
+Consequentemente, quando o pedido principal é improcedente e a tutela
+antecipada é revogada, a multa cominatória (astreinte) perde seu fundamento e torna-se indevida,
+retroagindo os efeitos da improcedência (ex tunc).
+Não há, portanto, autonomia da multa se o direito principal que ela visava
+garantir foi declarado inexistente ou o ato declarado lícito.
+Nesse sentido, cito os seguintes julgados:
+AGRAVO INTERNO EM RECURSO DE REVISTA COM AGRAVO. MATÉRIA EXAMINADA NO AGRAVO
+DE INSTRUMENTO. (...) MATÉRIA EXAMINADA NO AGRAVO DE INSTRUMENTO. MULTA POR
+DESCUMPRIMENTO DE ORDEM JUDICIAL. POSTERIOR IMPROCEDÊNCIA DO PLEITO PRINCIPAL COM A
+REVOGAÇÃO DE TUTELA ANTECIPADA. TRANSCENDÊNCIA POLÍTICA DA CAUSA. Constatada a
+viabilidade de trânsito do recurso trancado por meio de decisão monocrática, o Agravo Interno deve
+ser acolhido. Agravo conhecido e provido, no tema. AGRAVO DE INSTRUMENTO EM RECURSO DE
+REVISTA. MULTA POR DESCUMPRIMENTO DE ORDEM JUDICIAL. POSTERIOR IMPROCEDÊNCIA DO
+PLEITO PRINCIPAL COM A REVOGAÇÃO DE TUTELA ANTECIPADA. Demonstrada a possível violação de
+norma constitucional, dá-se provimento ao Agravo de Instrumento, determinando-se o regular
+seguimento do Recurso de Revista. Agravo de Instrumento conhecido e provido. RECURSO DE
+REVISTA. MULTA POR DESCUMPRIMENTO DE ORDEM JUDICIAL. POSTERIOR IMPROCEDÊNCIA DO
+PLEITO PRINCIPAL COM A REVOGAÇÃO DE TUTELA ANTECIPADA. Na hipótese dos autos, verifica-se
+que foi deferida a antecipação dos efeitos da tutela, a fim de conferir à reclamante o direito à
+reintegração, sob pena de multa diária (astreintes). Essa obrigação de fazer imposta ao reclamado,
+contudo, foi excluída por decisão superveniente do TRT na fase processual de Recurso Ordinário
+quando se reconheceu a improcedência do pleito principal. Nesse cenário, o Regional, ao manter a
+condenação do reclamado ao pagamento da multa aplicada, contrariou a jurisprudência do TST,
+firmada no sentido de que a fixação de multa cominatória em antecipação de tutela fica
+condicionada à procedência do pedido principal, de modo que, julgado improcedente o pleito
+formulado na ação que deu ensejo à obrigação de fazer, as astreintes perdem seu efeito
+retroativamente. Diante de tal contexto, dá-se provimento ao Recurso de Revista, para adequar o
+desfecho jurídico do caso concreto à jurisprudência desta Corte. Recurso de Revista conhecido e
+provido. (RR-Ag-RR-0100821-69.2021.5.01.0051, 1ª Turma, Relator Ministro Luiz Jose Dezena da Silva,
+DEJT 28/08/2026).
+(...) RECURSO DE REVISTA. ACÓRDÃO PUBLICADO NA VIGÊNCIA DA LEI 13.467/2017. MULTA
+DIÁRIA PELO DESCUMPRIMENTO DA OBRIGAÇÃO DE FAZER (ASTREINTES). ORDEM DE REINTEGRAÇÃO
+AFASTADA POR DECISÃO DO TRT. TRANSCENDÊNCIA JURÍDICA RECONHECIDA. O e. TRT afastou o
+pagamento das astreintes fixadas pelo Juízo da Vara do Trabalho ao fundamento de que, "embora o
+autor tenha levantado dúvida, quanto ao cumprimento integral da obrigação referente à
+reintegração, não juntou qualquer prova de que ainda não havia recebido os valores
+correspondentes, o que lhe incumbia, haja vista o auto de reintegração ensejar a presunção do
+cumprimento da obrigação". Não obstante a discussão a respeito do ônus probatório do
+cumprimento da obrigação fixada pelo Juízo de origem, extrai-se do acórdão regional que ao
+reclamante foi deferida a antecipação dos efeitos da tutela, tendo lhe sido conferindo o direito à
+reintegração, sob pena multa diária (astreintes), mas que essa obrigação de fazer imposta ao
+reclamado foi excluída por decisão superveniente do Tribunal Regional em sede de recurso ordinário.
+A fixação de multa cominatória em antecipação de tutela é plenamente possível, no entanto, fica
+condicionada a procedência do pedido principal, de modo que, julgado improcedente o pleito
+formulado na ação que deu ensejo à obrigação de fazer, como no caso, as astreintes perdem seu
+efeito retroativamente. Isso porque a decisão que arbitra a multa cominatória não faz coisa julgada
+material, haja vista ser apenas um meio de coerção indireta ao cumprimento do julgado, a qual pode
+ser modificada ou suprimida, sobretudo por ter sido fixada em medida cautelar. Precedentes do STJ e
+da 5.ª Turma do TST. Recurso de revista não conhecido. (RRAg-1893-36.2016.5.17.0141, 5.ª Turma,
+Relator Ministro Breno Medeiros, DEJT 23/02/2024).
+(...) RECURSO DE REVISTA. FASE DE EXECUÇÃO. TUTELA ANTECIPADA. MULTA DIÁRIA PELO
+DESCUMPRIMENTO DA OBRIGAÇÃO DE FAZER (ASTREINTES). ORDEM DE REINTEGRAÇÃO AFASTADA
+POR DECISÃO DO TST. MULTA INDEVIDA. VIOLAÇÃO À COISA JULGADA. N os termos do art. 896, § 2.º,
+da CLT e da Súmula n.º 266 desta Corte, a admissibilidade do recurso de revista interposto na fase de
+execução está limitada à demonstração de violação direta e literal de dispositivo da Constituição
+Federal. A caracterização de ofensa à coisa julgada depende da constatação de dissonância patente
+entre a decisão Recorrida e a transitada em julgado, nos termos da Orientação Jurisprudencial n.º
+123 da SBDI-2 desta Corte, aplicável analogicamente, segundo a qual: "O acolhimento da ação
+rescisória calcada em ofensa à coisa julgada supõe dissonância patente entre as decisões exequenda
+e rescindenda, o que não se verifica quando se faz necessária a interpretação do título executivo
+judicial para se concluir pela lesão à coisa julgada". Na hipótese dos autos , extrai-se do acórdão
+regional que à reclamante foi deferida a antecipação dos efeitos da tutela, tendo lhe sido conferindo
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
+o direito à reintegração, sob pena multa diária (astreintes), mas que essa obrigação de fazer imposta
+ao reclamado foi excluída por decisão superveniente do TST em sede recurso de revista. A fixação de
+multa cominatória em antecipação de tutela é plenamente possível, no entanto, ao contrário do que
+consignou o TRT, fica condicionada a procedência do pedido principal, de modo que, julgado
+improcedente o pleito formulado na ação que deu ensejo à obrigação de fazer, como no caso, as
+astreintes perdem seu efeito retroativamente. Isso porque a decisão que arbitra a multa cominatória
+não faz coisa julgada material, haja vista ser apenas um meio de coerção indireta ao cumprimento do
+julgado, a qual pode ser modificada ou suprimida, sobretudo por ter sido fixada em medida cautelar.
+Precedentes do STJ. Desse modo, tendo em vista que a sentença que deferiu a tutela antecipada foi
+reformada por decisão do Tribunal Superior do Trabalho transitada em julgado, pela qual se afastou
+a obrigação da reintegração da empregada, não se há falar em pagamento de multa cominatória,
+sob pena de afronta à coisa julgada. Recurso de revista conhecido e provido. (...) (ARR-91600-
+11.1997.5.17.0002, 5.ª Turma, Relator Ministro Breno Medeiros, DEJT 04/10/2019).
+(...) RECURSO DE REVISTA DA RECLAMADA. IN 40 DO TST. EXECUÇÃO PROVISÓRIA. ASTREINTES.
+REINTEGRAÇÃO DEFERIDA EM ANTECIPAÇÃO DE TUTELA DESCUMPRIDA. SUPERVENIÊNCIA DE
+TRANSITO EM JULGADO DA DECISÃO QUE JULGOU IMPROCEDENTE O PEDIDO. INEXIGIBILIDADE DA
+MULTA POR OBRIGAÇÃO DE FAZER. O presente caso trata de multa fixada em obrigação de
+reintegração, determinada em antecipação de tutela, descumprida até que decisão superveniente
+julgou improcedente o pedido e revogou a tutela antecipada. Viola o artigo 5.º, XXXVI, da CF, a
+decisão que, ante a improcedência do pedido e a revogação da tutela antecipada, mantém a
+execução da multa por obrigação de fazer descumprida no período em que vigorou a antecipação da
+tutela, visto que a perda do efeito do crédito derivado da fixação da medida de coerção integra a
+própria coisa julgada relativa à pretensão objeto da demanda. Recurso de revista conhecido e
+provido. (ARR-100601-72.2006.5.17.0012, 6.ª Turma, Relator Ministro Aloysio Correa da Veiga, DEJT
+24/04/2017).
+(...) RECURSO DE REVISTA DA RECLAMADA. ASTREINTES. DEVOLUÇÃO DOS VALORES
+LEVANTADOS. REINTEGRAÇÃO. IMPROCEDÊNCIA DA AÇÃO. IMPOSSIBILIDADE DE CUMPRIMENTO DA
+OBRIGAÇÃO DE FAZER. Viola o artigo 537, §3.º, do CPC/2015, a decisão que, ante a improcedência do
+pedido e a revogação da tutela antecipada, liberou a multa por obrigação de fazer antes do trânsito
+em julgado da decisão. Recurso de revista conhecido e provido. (ARR-969-13.2015.5.19.0009, 6.ª
+Turma, Relator Ministro Aloysio Correa da Veiga, DEJT 24/04/2017).
+Por fim, o Embargante aponta que não subsistia a ordem de reintegração, mas
+apenas condenação pecuniária até a data da rescisão fixada pelo e. TRT.
+De fato, o e. Tribunal Regional havia limitado os efeitos financeiros à data de
+21/10/2016. Todavia, a decisão desta Turma, ao julgar improcedente a ação civil pública, remove o
+fundamento jurídico de toda e qualquer condenação decorrente da suposta invalidade da dispensa.
+Assim, a menção à "reintegração" no dispositivo apenas reforça a improcedência
+total dos pedidos que visavam a nulidade do ato demissional, de modo que, neste aspecto, acolho os
+embargos declaratórios, apenas para prestar o esclarecimento, sem efeito modificativo.
+ISTO POSTO
+ACORDAM os Ministros da Quarta Turma do Tribunal Superior do Trabalho, por
+unanimidade, conhecer dos embargos de declaração e, no mérito,dar-lhes provimento parcial apenas
+para prestar esclarecimentos, sem efeito modificativo.
+Brasília, 16 de outubro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+ALEXANDRE LUIZ RAMOS
+Ministro Relator
+Firmado por assinatura digital em 19/10/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100684F877148EEC67.
