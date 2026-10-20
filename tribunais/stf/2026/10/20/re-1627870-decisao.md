@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Distrito Federal, em face do acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+
+“APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. EXIGIBILIDADE DO DIFERENCIAL DE ALÍQUOTA DO ICMS – DIFAL. LC 190/22. PRINCÍPIO DA ANTERIORIDADE TRIBUTÁRIA. 1. Com ressalva das exceções indicadas na CF 150, § 1º, é vedado a União, Estados, Distrito Federal e Municípios cobrar tributos no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou - CF 150, III, b. 2. A LC 190/22, publicada em 05.01.22, é lei nova de normas gerais que instituiu o DIFAL. Portanto, deve ser observado o princípio da anterioridade que obsta a exigência pelo Distrito Federal no exercício financeiro de 2022.” (Apelação cível nº 0703241-46.2022.8.07.0018, 4ª Turma Cível  do Tribunal de Justiça do Distrito Federal e dos Territórios, Rel. Des. Fernando Habibe, j. 02.06.23)
+Opostos embargos de declaração por ambas as partes, o da empresa recorrida foi provido, nos seguintes termos:
+
+“Embargos declaratórios das impetrantes: providos, com efeito modificativo, para sanar omissão relativa ao levantamento de depósito judicial. Embargos Declaratórios do impetrado: ausência de vícios - CPC 1.022 - no acórdão.” (Embargos de declaração nº 0703241-46.2022.8.07.0018,  4ª Turma Cível  do Tribunal de Justiça do Distrito Federal e dos Territórios, Rel. Des. Fernando Habibe, j. 22.09.23)
+No recurso extraordinário, sustenta-se violação dos arts. 150, III, “b”, “c”, 155, II, §2º, VII, da Constituição da República. Argumenta-se, em síntese, que “[...] a exigibilidade do DIFAL/ICMS, previsto na LC nº 190/2022, não se condiciona à observância do princípio da anterioridade tributária”.
+É o relatório.
+Decido.
+O recurso não comporta seguimento.
+O Plenário deste Supremo Tribunal Federal, ao concluir o julgamento do RE 1.426.271/CE (Tema 1266 da Repercussão Geral, Rel. Min. Alexandre de Moraes, j. 22.10.2025), fixou as seguintes teses:
+
+“I - É Constitucional o art. 3º da Lei Complementar 190/2022, o qual estabelece vacatio legis no prazo correspondente à anterioridade nonagesimal prevista no art. 150, III, ‘c’, da Constituição Federal.
+II - As leis estaduais editadas após a EC 87/2015 e antes da entrada em vigor da Lei Complementar 190/2022, com o propósito de instituir a cobrança do Diferencial de Alíquotas do ICMS – DIFAL nas operações e prestações que destinem bens e serviços a consumidor final não contribuinte do imposto, são válidas, mas produzem efeitos somente a partir da vigência da LC 190/2022.
+III - Contribuintes que ajuizaram ação judicial (modulação dos efeitos) - Exclusivamente quanto ao exercício de 2022, não se admite a exigência do DIFAL em relação aos contribuintes que tenham ajuizado ação judicial questionando a cobrança até a data de julgamento da ADI 7066 (29/11/2023), e tenham deixado de recolher o tributo naquele exercício.”
+Ao debruçar-se sobre o mérito do Tema 1266, esta Suprema Corte pacificou o entendimento de que a extensão do diferencial de alíquota do ICMS às operações destinadas a consumidor final não contribuinte (veiculada pela EC nº 87/2015 e regulamentada pela LC nº 190/2022) não instituiu nem majorou tributo, consubstanciando mera redistribuição espacial de capacidade tributária ativa entre as unidades federadas. Por tal razão, não incide a garantia da anterioridade geral de exercício prevista no art. 150, III, “b”, da CF/1988, revelando-se legítimo o condicionamento da eficácia temporal da norma apenas ao decurso do prazo de 90 (noventa) dias (anterioridade nonagesimal — art. 150, III, “c”, da CF e art. 3º da LC nº 190/2022).
+A modulação de efeitos aprovada pelo Plenário deste Pretório Excelso, por sua vez, visou a evitar surpresas fiscais e expressamente obstou a cobrança do DIFAL no curso de 2022 relativamente àqueles contribuintes que satisfizeram, cumulativamente, dois requisitos objetivos: (a) propositura de ação judicial impugnando a exigência até 29 de novembro de 2023 (data do julgamento da ADI 7066); e (b) ausência de recolhimento do tributo no aludido exercício.
+No caso dos autos, o mandado de segurança foi impetrado em março de 2022, antes do marco temporal estabelecido (29/11/2023).
+Por conseguinte, no que pertine às operações interestaduais praticadas em 2022 em relação às quais as impetrantes deixaram de efetuar o recolhimento do ICMS-DIFAL (notadamente sob o abrigo do comando jurisdicional que acolheu a pretensão na origem), incide com precisão a ressalva da modulação de efeitos (item III do Tema 1266-RG), a impedir que o Fisco estadual proceda à sua exigência retroativa.
+Verifica-se, portanto, que, embora o fundamento adotado pelo acórdão recorrido não esteja em consonância com a orientação firmada por esta Suprema Corte no Tema 1266 da repercussão geral, o resultado alcançado quanto à inexigibilidade do ICMS-DIFAL relativamente ao exercício de 2022 permanece hígido. Isso porque as impetrantes ajuizaram a ação antes do marco temporal fixado na modulação dos efeitos (29/11/2023) e, conforme consignado, deixaram de recolher o tributo no referido exercício, enquadrando-se na ressalva estabelecida no item III da tese de repercussão geral. Dessa forma, o acórdão recorrido mostra-se compatível com a jurisprudência desta Suprema Corte, ainda que por fundamento diverso, não se verificando a alegada violação aos dispositivos constitucionais invocados nas razões recursais.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Publique-se.
+
+Brasília, 20 de outubro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
