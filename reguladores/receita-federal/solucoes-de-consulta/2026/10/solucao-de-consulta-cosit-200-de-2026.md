@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 200, de 16 de outubro de 2026
+Assunto: Normas Gerais de Direito Tributário
+IMUNIDADE RECÍPROCA - IMPORTAÇÃO POR CONTA E ORDEM DE TERCEIRO - UNIVERSIDADE AUTARQUIA FEDERAL - FUNDAÇÕES DE APOIO
+São preservados os efeitos da imunidade tributária nas operações de importação por conta e ordem realizadas por universidade (autarquia federal e considerada Instituição Científica, Tecnológica e de Inovação - ICT), nas quais a fundação de apoio, que faça a gestão administrativa e financeira de seus projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação nos termos da Lei nº 8.958, de 20 de dezembro de 1994, promova o despacho aduaneiro de importação em seu nome, observado que a universidade, na qualidade de adquirente, realize a transação comercial em seu nome e com recursos próprios.
+O fato de a fundação de apoio efetuar a gestão administrativa e financeira dos projetos estabelecidos com a universidade apoiada, incluindo eventualmente a gestão dos recursos advindos de captações realizadas diretamente, não prejudica a caracterização da operação de importação como por conta e ordem de terceiro. A condição de que a importação seja realizada com recursos próprios do adquirente das mercadorias continua sendo cumprida se forem observados os requisitos previstos na Lei nº 8.958, de 1994, que assegurem que os recursos sejam destinados aos projetos executados para a universidade e que eventuais materiais e equipamentos importados passem a integrar o patrimônio de tal entidade.
+Dispositivos Legais: Constituição Federal de 1988, art. 150, inciso IV, alínea "a" e § 2º; Lei Complementar nº 227, de 13 de janeiro de 2026, art. 176; Decreto-Lei nº 37, de 18 de novembro de 1966, arts. 31 e 32; Lei nº 8.958, de 20 de dezembro de 1994, art. 1º, caput e § 5º, art. 2º, art. 3º, § 1º e § 2º, inciso III, art. 4º-D, § 2º e § 3º.
+SC Cosit nº 200-2026
+[arquivo anexo: SC Cosit nº 200-2026.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
