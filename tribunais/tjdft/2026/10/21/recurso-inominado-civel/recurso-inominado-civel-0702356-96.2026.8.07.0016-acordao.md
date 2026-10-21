@@ -1,0 +1,65 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0702356-96.2026.8.07.0016RECORRENTE(S)CLEYDSON OLIVEIRA MENEZESRECORRIDO(S)DISTRITO FEDERALRelatorJuiz EDMAR RAMIRO CORREIA
+ Acórdão Nº2190916
+
+EMENTA
+
+Ementa: DIREITO ADMINISTRATIVO. RECURSO INOMINADO. POLICIAL MILITAR. PROMOÇÃO POR ATO DE BRAVURA. CONTROLE JUDICIAL DE LEGALIDADE. DECISÃO ADMINISTRATIVA MOTIVADA. POLICIAIS PROMOVIDOS EM PROCEDIMENTOS PRÓPRIOS. AUSÊNCIA DE PROVA DA IDENTIDADE MATERIAL DAS CONDUTAS. ISONOMIA NÃO VIOLADA. RECURSO NÃO PROVIDO.
+
+I. CASO EM EXAME
+
+1. O recorrente interpõe recurso inominado contra sentença que julgou improcedentes os pedidos de declaração do direito à promoção por ato de bravura, com efeitos retroativos a 8 de janeiro de 2023, e de retificação dos respectivos registros funcionais.
+
+2. Sustenta que o indeferimento administrativo contém vício de motivação, porque não considera adequadamente as lesões sofridas, a permanência na formação tática e a recuperação de equipamento subtraído durante os confrontos. Alega também violação à isonomia em relação a policiais que participaram da operação de 8 de janeiro de 2023 e obtiveram promoção por ato de bravura em procedimentos administrativos próprios.
+
+3. Em contrarrazões, o recorrido defende a regularidade do procedimento administrativo, a motivação individualizada do indeferimento e a impossibilidade de o Poder Judiciário substituir a avaliação da Comissão de Promoção de Praças.
+
+II. QUESTÃO EM DISCUSSÃO
+
+4. Há duas questões em discussão: (i) definir se o indeferimento da promoção por ato de bravura apresenta vício de motivação sujeito ao controle judicial; e (ii) estabelecer se a promoção de outros policiais participantes da mesma operação demonstra tratamento contrário à isonomia.
+
+III. RAZÕES DE DECIDIR
+
+5. O recurso preenche os pressupostos de admissibilidade.
+
+6. O relatório favorável elaborado pelo encarregado do Processo Administrativo de Apuração de Ato de Bravura constitui elemento instrutório e não vincula a Comissão de Promoção de Praças, órgão competente para proferir a decisão final.
+
+7. A Comissão reconhece a atuação do recorrente no contexto operacional, mas conclui, com fundamento em informação técnica, que a conduta não reúne cumulativamente os requisitos necessários à promoção por ato de bravura, por caracterizar cumprimento do dever funcional. A divergência entre o relatório do encarregado e a decisão final não demonstra ausência ou falsidade da motivação.
+
+8. A recuperação do equipamento subtraído, as lesões sofridas e a permanência do recorrente na operação são circunstâncias submetidas à avaliação administrativa sobre a voluntariedade, o grau de risco e a excepcionalidade da conduta. Na ausência de erro de fato, desvio de finalidade ou incompatibilidade manifesta entre os motivos e os elementos apurados, o controle judicial de legalidade não autoriza a substituição dessa avaliação.
+
+9. Os documentos indicam que outros policiais envolvidos na operação de 8 de janeiro de 2023 foram promovidos por ato de bravura em procedimentos administrativos próprios. Contudo, a coincidência do contexto operacional não comprova identidade entre as condutas individualmente avaliadas nem demonstra que a Administração adotou critérios diferentes para situações materialmente equivalentes.
+
+10. As razões recursais não demonstram vício de legalidade capaz de invalidar o ato administrativo, violação à isonomia ou fundamento suficiente para o reconhecimento judicial direto da promoção por ato de bravura.
+
+IV. DISPOSITIVO
+
+11. Recurso conhecido e não provido.
+
+12. Condena-se o recorrente ao pagamento das custas processuais e dos honorários advocatícios, fixados por equidade em R$ 500,00, tendo em vista o valor irrisório da causa.
+
+13. A súmula de julgamento servirá de acórdão, consoante o art. 46 da Lei nº 9.099/1995.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, EDMAR RAMIRO CORREIA - Relator, FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal e LUIS EDUARDO YATSUDA ARIMA - 2º Vogal, sob a Presidência do Senhor Juiz LUIS EDUARDO YATSUDA ARIMA, em proferir a seguinte decisão: CONHECIDO. NÃO PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 21 de Outubro de 2026
+
+Juiz EDMAR RAMIRO CORREIARelator
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz EDMAR RAMIRO CORREIA - RelatorA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal Com o(a) relator(a)O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECIDO. NÃO PROVIDO. UNÂNIME.
