@@ -1,0 +1,15 @@
+DESPACHO: O Município de Rio das Ostras apresentou petição alegando descumprimento da decisão que havia suspendido tutela provisória anteriormente concedida. Após a suspensão da ordem judicial, o município requereu ao Juízo da 2ª Vara da Comarca de Rio das Ostras/RJ o levantamento dos valores bloqueados judicialmente, mas o pedido foi negado. O juízo de origem entendeu que a decisão do STF apenas impediu a transferência dos recursos à unidade hospitalar privada, sem determinar expressamente a devolução dos valores aos cofres municipais.
+Afirma o requerente que a decisão de procedência da contracautela teria afastado não apenas a transferência dos valores à instituição hospitalar privada, mas também a própria manutenção do bloqueio judicial, de modo que a permanência das verbas em conta judicial configuraria descumprimento da determinação desta Suprema Corte. Requer, por conseguinte, a expedição de ordem direta ao juízo de origem para imediata restituição da quantia aos cofres públicos municipais.
+O pedido não procede.
+Conforme se verifica da própria petição inicial da presente suspensão, o requerimento formulado pelo ente municipal foi delimitado de maneira expressa à necessidade de impedir a consumação da transferência dos valores já bloqueados à instituição privada responsável pela realização do procedimento médico. A municipalidade consignou que os recursos sequestrados encontravam-se depositados em conta judicial, aguardando repasse ao hospital particular, e requereu, ao final, "que eventual ordem de transferência bancária seja suspensa" (eDOC 1, p. 15), sucessivamente postulando a adequação dos valores aos parâmetros fixados no Tema 1.033 da repercussão geral.
+Em consonância com os limites objetivos do pedido deduzido, a decisão proferida por esta Presidência julgou procedente a contracautela para "sustar eventual ordem de transferência dos valores atualmente depositados em conta judicial, até que o juízo de origem promova a adequação da medida executiva aos parâmetros fixados por esta Suprema Corte no Tema 1.033 da repercussão geral" (eDOC 8, p. 8).
+Não houve, portanto, determinação de levantamento do bloqueio judicial já efetivado, tampouco ordem de imediata restituição dos recursos ao patrimônio municipal. A interpretação defendida pela municipalidade pressupõe ampliação dos efeitos da decisão para além dos estritos limites do pedido formulado e efetivamente acolhido.
+Nesse contexto, verifica-se que o despacho proferido pelo Juízo da 2ª Vara da Comarca de Rio das Ostras/RJ encontra-se compatível com o alcance da decisão desta Presidência, ao consignar que a suspensão deferida não determinou a devolução da quantia ao Município, mas apenas o sobrestamento da transferência dos recursos até a definição do valor do serviço segundo os parâmetros do Tema 1.033.
+Não se identifica, assim, qualquer descumprimento da ordem emanada desta Suprema Corte, mas mera observância de seus exatos termos.
+Ante o exposto, inexistindo providência a ser adotada no âmbito da presente suspensão, nada há a prover.
+Publique-se.
+Brasília, 21 de outubro de 2026.
+
+Ministro Edson Fachin
+Presidente
+Documento assinado digitalmente
