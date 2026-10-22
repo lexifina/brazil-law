@@ -1,0 +1,75 @@
+DECISÃO
+
+Habeas corpus. Crimes dos arts. 4º e 17 da Lei nº 7.492, de 1986. Atipicidade. Reexame de fatos e provas. Inviabilidade. Ausência de ilegalidade. Denegação da ordem.
+
+1. Trata-se de habeas corpus impetrado contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça pelo qual conhecido o Agravo em Recurso Especial nº 3.164.575/PR para não conhecer do recurso especial (e-doc. 2, p. 437-441).
+
+2. Colhe-se dos autos que o paciente foi absolvido, em primeira instância, da prática dos crimes dos arts. 4º e 17 da Lei nº 7.492, de 1986, (gestão fraudulenta e concessão de crédito vedada), com fundamento no art. 386, inc. III, do Código de Processo Penal (e-doc. 2, p. 437-441).
+
+3. O Tribunal Regional Federal da 4ª Região deu provimento ao recurso de apelação do Ministério Público para condená-lo a 5 anos de reclusão, no regime semiaberto, e ao pagamento de 20 dias-multa pela prática do mencionado delito (e-doc. 2, p. 293-321). Embargos de declaração defensivos foram rejeitados (e-doc. 2, p. 330-335). Contra essa decisão, a defesa interpôs o mencionado recurso especial.
+
+4. Neste habeas corpus, a Defensoria Pública da União sustenta a atipicidade da conduta atribuída ao paciente. Argumenta que os delitos previstos nos arts. 4º e 17 da Lei nº 7.492/1986 possuem natureza de crimes próprios, de modo que o paciente não se enquadra entre os sujeitos ativos definidos pelo art. 25 da mesma lei. Defende, ainda, a inaplicabilidade das Súmulas 7 e 83 do Superior Tribunal de Justiça, invocadas por aquela Corte para obstar o conhecimento do recurso especial, por se tratar de matéria exclusivamente de direito.
+
+5. Requer, no âmbito liminar, a suspensão dos efeitos do acórdão condenatório proferido pelo Tribunal de origem até o julgamento final da impetração. No mérito, busca o restabelecimento da sentença absolutória. Subsidiariamente, requer a cassação do acórdão proferido no AREsp nº 3.164.575/PR, com a determinação para o STJ proceder a novo julgamento do recurso especial, afastado-se o óbice das Súmulas 7 e 83 do STJ.
+
+É o relatório.
+
+Decido.
+
+6. Colhe-se dos autos que o magistrado de primeiro grau absolveu o paciente, entendendo que ele não poderia figurar como sujeito ativo dos delitos narrados na denúncia. Assentou que, à época dos fatos, ele exercia a função de gerente setorizado, ocupando o cargo de Gerente de Serviços da agência do Banco do Brasil em Porto Rico/PR,  não exercendo nenhum dos cargos indicados no art. 25 da Lei nº 7.492, 1986 (e-doc. 2, p. 203-213).
+
+7. Ao dar provimento à apelação da acusação, o Tribunal Regional Federal da 4ª Região ressaltou o entendimento do STJ quanto à possibilidade de gerentes de agência bancária serem sujeitos ativos dos delitos de gestão fraudulenta e concessão de empréstimos vedados, desde que, na análise do caso concreto, esteja configurada a atuação com uso de poderes próprios de gestão. Nesse contexto, a partir da ampla análise das provas constantes nos autos, concluiu pela responsabilização do paciente (e-doc. 2, p. 293-321).
+
+8. No ato apontado como coator, o STJ consignou que o acórdão recorrido estabeleceu premissas fáticas detalhadas e robustas acerca da atuação do paciente. Destacou que a revisão da conclusão da instância antecedente quanto à suficiência das provas para a condenação e quanto à verificação de eventual desconformidade com a orientação jurisprudencial daquela Corte demandaria o reexame do conjunto fático-probatório dos autos, providência inviável em recurso especial. Eis os fundamentos lançados:
+
+“Contudo, o recurso especial não merece conhecimento, pois sua análise encontra óbice na jurisprudência desta Corte Superior, tanto pela vedação ao reexame de matéria fático-probatória (Súmula n. 7 do STJ) quanto pelo alinhamento do acórdão recorrido à orientação consolidada do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+A decisão de inadmissão já consignara que ‘a(s) questão(ões) suscitada(s) pelo(a)(s) recorrente(s) envolve(m) análise do conjunto fático-probatório, a qual é inviável em recurso especial, nos termos da Súmula n. 07 do Superior Tribunal de Justiça (‘A pretensão de simples reexame de prova não enseja recurso especial’)’ (fls. 372-373).
+No acórdão recorrido, as instâncias ordinárias fixaram premissas fáticas densas e minuciosas sobre a atuação do recorrente, destacando, entre outros, que:
+‘o apelado integrava o Comitê de Aprovação de Crédito e atuava decisivamente na análise, aprovação e liberação das operações de crédito’ (fl. 320);
+houve ‘liberações de crédito’ e ‘transferências de valores entre contas correntes por meio dos aplicativos DEB e EGT sem a autorização formal dos titulares debitados’, inclusive em benefício de terceiros e da empresa SBA Minerações, administrada pelo recorrente, com ‘conflito de interesse’ (fls. 294-314);
+‘Depreende-se […] que JORGE HENRIQUE BACCAN era o principal responsável tanto pela apresentação das propostas da operação quando pela análise, decisão e, ainda, pela administração dos valores recebidos […]’ (fls. 308-309);
+‘Diante do cenário exposto […], fica caracterizada a incursão do apelado JORGE HENRIQUE BACCAN no crime do artigo 4º da Lei 7.492/1986 […] Nas mesmas operações da empresa SBA MINERAÇÕES também se enquadram no crime do artigo 17 da Lei 7.492/1986’ (fls. 314-315).
+Confira-se, de modo literal e pontual, exemplos das premissas fáticas que embasam a condenação:
+‘Portanto, fica assentada a possibilidade, em tese, de responsabilização do apelado JORGE HENRIQUE BACCAN, que exercia o cargo de ‘Gerente de Serviços’ na agência do Banco do Brasil em Porto Rico/PR e que integrava, juntamente com o gerente-geral da agência, o Comitê de Aprovação de Crédito, órgão que era composto apenas por esses dois funcionários.’ (fls. 295-296)
+‘No que diz respeito às operações de crédito para as pessoas físicas, JORGE HENRIQUE BACCAN atuou […] no recebimento, análise, aprovação e liberação dos valores […]. […] também atuou no período pós-concessório, movimentando contas e autorizando saques/débitos.’ (fls. 309-310)
+‘Depreende-se a partir dessas provas que JORGE HENRIQUE BACCAN era o principal responsável tanto pela apresentação das propostas da operação quando pela análise, decisão e, ainda, pela administração dos valores recebidos a esse título pela empresa SBA MINERAÇÃO.’ (fl. 309)
+Diante desse quadro, a tese defensiva veiculada no recurso especial — que busca afastar a qualidade de sujeito ativo em razão da alegada ausência de poderes de gestão e de deliberação — demanda, necessariamente, a revisão das premissas fático-probatórias fixadas pelas instâncias ordinárias, o que é vedado pelo enunciado da Súmula n. 7 do STJ. Não se trata de mera qualificação jurídica de fatos incontroversos, mas de pretensão de infirmar a conclusão sobre materialidade, autoria, dolo e extensão da atuação do recorrente na cadeia decisória e operacional das concessões de crédito.
+A propósito, a decisão de admissibilidade já alinhou precedentes que reafirmam o óbice, dentre os quais se destaca, na linha do que foi citado, que ‘a análise de provas e fatos realizada pela instância inferior não pode ser revista em recurso especial, em razão do óbice da Súmula 7 do STJ, que veda o reexame de matéria fático-probatória’ (fls. 373-374).
+Além disso, o acórdão recorrido encontra-se em consonância com a jurisprudência pacífica desta Corte Superior quanto à possibilidade de gerentes de agência bancária figurarem como sujeitos ativos dos crimes previstos nos arts. 4º e 17 da Lei n. 7.492/1986, quando, à luz do caso concreto, verifica-se atuação com poderes próprios de gestão.
+O julgado de origem foi explícito:
+‘A jurisprudência do STF e do STJ reconhece que gerentes de agência bancária podem ser sujeitos ativos dos crimes previstos nos arts. 4º e 17 da Lei nº 7.492/1986, desde que comprovada atuação com poderes próprios de gestão, o que se verifica no caso, pois o apelado integrava o Comitê de Aprovação de Crédito e atuava decisivamente na análise, aprovação e liberação das operações de crédito.’ (fl. 320)
+Ainda citou, como ratio, o entendimento do Superior Tribunal de Justiça:
+‘[…] a jurisprudência do Superior Tribunal de Justiça (STJ) é pela possibilidade de gerentes de agência bancária serem sujeitos ativos dos delitos de gestão fraudulenta e de gestão temerária, desde que na análise do caso concreto esteja configurada a atuação com uso de poderes próprios de gestão.’ (AgRg no REsp n. 1.374.090/PR, Quinta Turma) (fls. 294-295)
+No mesmo sentido, registra-se precedente da Sexta Turma: ‘se o gerente de uma agência bancária detiver poderes reais de gestão, é-lhe possível a imputação do crime previsto no art. 4º da Lei n. 7.492/86’ (RHC n. 147.307/PE, Sexta Turma), citado nas contrarrazões.
+A parte agravante não trouxe distinção (distinguishing) válida nem precedentes supervenientes em sentido contrário; limitou-se a sustentar, em contraponto às premissas fáticas firmadas, a inexistência de poderes decisórios no caso concreto, o que, como visto, remete ao reexame probatório. Por isso, aplica-se, também, a Súmula n. 83 do STJ.” (e-doc. 2, p. 439-441, grifos nossos)
+
+9. Razão não assiste à defesa. Pela leitura dos atos decisórios, verifica-se que o TRF da 4ª Região reconheceu a possibilidade de o paciente figurar como sujeito ativo dos delitos imputados com base na análise das atribuições efetivamente desempenhadas no cargo por ele ocupado. Nesse contexto, não é possível, na via estreita do habeas corpus, de cognição sumária, afastar a conclusão do Tribunal de origem de que as atribuições efetivamente exercidas pelo paciente são suficientes para enquadrá-lo como sujeito ativo dos crimes de gestão fraudulenta e de concessão de crédito vedada.
+
+10. Por certo, o Supremo Tribunal Federal pacificou entendimento no sentido de que “[a] ação de ‘habeas corpus’ constitui remédio processual inadequado, quando ajuizada com o objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento.“ (HC nº 118.912-AgR/SP, Rel. Min. Celso de Mello, Segunda Turma, j. 17/12/2013, p. 13/02/2014).
+
+11. Nesse sentido, confiram-se ainda:
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. MATÉRIA CRIMINAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO. AUSÊNCIA DE ESGOTAMENTO DA JURISDIÇÃO ANTECEDENTE. SUPRESSÃO DE INSTÂNCIA. GESTÃO FRAUDULENTA. ATIPICIDADE DA CONDUTA. DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ART. 171 DO CP. NECESSÁRIO REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. Não se inaugura a competência deste Supremo nas hipóteses em que não esgotada a jurisdição antecedente, visto que tal proceder acarretaria indevida supressão de instância, dado o cabimento de agravo regimental. 3. O exame das alegações defensivas demandaria o aprofundado reexame de fatos e provas, o que, nos termos da pacífica jurisprudência desta Corte, é inviável em sede de habeas corpus. 4. Agravo regimental desprovido.”
+(HC nº 191.528-AgR/ES, Rel. Min. Edson Fachin, Segunda Turma, j. 08/04/2021, p. 29/04/2021; grifos nossos)
+
+“DIREITO PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ATIPICIDADE DA CONDUTA. PRETENDIDA ABSOLVIÇÃO. REEXAME FÁTICO-PROBATÓRIO. INADEQUAÇÃO. RECURSO DESPROVIDO. I. CASO EM EXAME 1. Agravo interno interposto contra decisão que negou seguimento a recurso ordinário em habeas corpus formalizado em face de acórdão do STJ. 2. A parte agravante pretende o reconhecimento da atipicidade da conduta e, consequentemente, a absolvição. II. QUESTÃO EM DISCUSSÃO 3. A questão em discussão consiste em saber se é adequado habeas corpus quando o desfecho da controvérsia pressupõe reexame de fatos e provas. III. RAZÕES DE DECIDIR 4. É impróprio, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva, do conjunto fático produzido nas instâncias ordinárias. IV. DISPOSITIVO 5. Agravo interno desprovido.”
+(RHC nº 213.138-AgR/AP, Rel. Min. Nunes Marques, Segunda Turma, j. 29/06/2026, p. 15/07/2026; grifos nossos)
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. INVIABILIDADE DA ANÁLISE DE PEDIDO DE ABSOLVIÇÃO, ATIPICIDADE DA CONDUTA OU DESCLASSIFICAÇÃO DE CRIME NA ESTREITA VIA DO WRIT. NECESSÁRIO REEXAME DE FATOS E PROVAS. AGRAVO AO QUAL SE NEGA PROVIMENTO. I - A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que ‘[o] habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos para o fim de verificar a atipicidade da conduta ou qualquer fato capaz de gerar a absolvição do paciente’ (HC 134.985 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 29/06/2017). II – Agravo ao qual se nega provimento.”
+(HC nº 231.840-AgR/SP, Rel. Min. Cristiano Zanin, Primeira Turma, j. 21/11/2023, p. 01/12/2023; grifos nossos)
+
+12. Quanto ao pedido subsidiário de determinação ao STJ para que proceda a novo julgamento do Agravo em Recurso Especial nº 3.164.575/PR, igualmente não assiste razão à defesa. Conforme consignado, ao conhecer do agravo para, ao final, não conhecer do recurso especial, aquela Corte concluiu que a tese defensiva, voltada a afastar a condição de sujeito ativo do paciente, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável na instância especial. Assentou, ainda, que a aferição de eventual consonância ou desconformidade do acórdão recorrido com a jurisprudência do STJ também pressuporia a revisão das premissas fáticas fixadas pelas instâncias ordinárias, atraindo a incidência das Súmulas 7 e 83/STJ.
+
+13. Não vislumbro ilegalidade apta a justificar a determinação de novo exame da controvérsia por aquela Corte. Isso porque o entendimento adotado encontra-se em harmonia com a jurisprudência consolidada do STF, segundo a qual os recursos de natureza excepcional (recursos especial e extraordinário), não se prestam ao reexame de fatos e provas. Nesse sentido:
+
+“HABEAS CORPUS - PRETENSÃO QUE JÁ CONSTITUIU OBJETO DE APRECIAÇÃO PELO SUPREMO TRIBUNAL FEDERAL - HIPÓTESE DE INCOGNOSCIBILIDADE DO ‘WRIT’ CONSTITUCIONAL - ORDEM IMPETRADA, ADEMAIS, EM FACE DE DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA, QUE NÃO CONHECEU DE RECURSO ESPECIAL - IMPOSSIBILIDADE DE REEXAME, NO ÂMBITO DOS RECURSOS EXCEPCIONAIS (RE E REsp), DE QUESTÕES DE ORDEM FÁTICA OU DE CARÁTER PROBATÓRIO - PRECEDENTES - PLENA CORREÇÃO DO ATO DECISÓRIO EMANADO DAQUELA ALTA CORTE JUDICIÁRIA - ‘HABEAS CORPUS’ NÃO CONHECIDO.”
+(HC nº 82.715/MG, Rel. Min. Celso de Mello, Segunda Turma, j. 28/06/2005, p. 14/11/2013; grifos nossos)
+
+14. Ante o exposto, denego a ordem, com fundamento no art. 192 do RISTF.
+
+Publique-se.
+
+Brasília, 22 de outubro de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
