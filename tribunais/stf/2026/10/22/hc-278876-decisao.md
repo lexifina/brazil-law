@@ -1,0 +1,47 @@
+DECISÃO:
+Vistos.
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Elias Felix de Abreu Junior contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça (e-doc. 4).
+Consta dos autos que o paciente foi condenado como incurso no art. 171, § 2º-A, c.c. art. 71, do Código Penal, à pena de 7 anos, 9 meses e 10 dias de reclusão, em regime inicial semiaberto, além de 18 dias-multa.
+Neste writ, a defesa alega, em síntese, que a qualificadora foi reconhecida de forma indevida, pois ela exige a utilização de informações fornecidas pela vítima, o que não teria ocorrido no caso, em que o WhatsApp teria sido apenas meio de comunicação e o induzimento em erro decorreria de indicação prévia de pessoa de confiança.
+ Alega ainda a certificação prematura do trânsito em julgado e da baixa dos autos.
+Requer, ao final:
+“a) o recebimento e processamento do presente habeas corpus;
+b) a concessão da medida liminar, nos termos do item VI;
+c) a requisição de informações à autoridade apontada como coatora;
+d) a oitiva da Procuradoria-Geral da República;
+e) no mérito, a confirmação da liminar para reconhecer o constrangimento ilegal decorrente da aplicação da qualificadora do art. 171, § 2º-A, do Código Penal sem a demonstração de seus elementos normativos;
+f) como consequência, o afastamento da qualificadora e a desclassificação da conduta para o art. 171, caput, do Código Penal, com o consequente redimensionamento da pena;
+g) subsidiariamente, caso não seja desde logo afastada a qualificadora, o reconhecimento da nulidade da certificação do trânsito em julgado e da baixa dos autos, determinando-se a reativação do AREsp nº 3.324.544/SP e o recebimento do recurso extraordinário, preservada a data de 21/10/2026;
+h) subsidiariamente, a concessão da ordem de ofício para fazer cessar o constrangimento ilegal, diante da ilegalidade manifesta e da ameaça concreta à liberdade do Paciente”.
+É o relatório.
+Fundamento e decido.
+Transcrevo, no que interessa à presente impetração, trecho da decisão monocrática combatida:
+“Atendidos os requisitos de admissibilidade, conheço do agravo e passo à análise do recurso especial.
+A controvérsia jurídica consiste em verificar se houve ofensa ao art. 171, § 2º-A, do Código Penal, à luz das premissas fáticas fixadas pelo Tribunal de origem.
+No que se refere ao tema, extrai-se do acórdão recorrido (fls. 328– 329):
+A qualificadora da fraude eletrônica não pode ser afastada. Ainda que a indicação inicial tenha sido fornecida por Lethicia - igualmente ludibriada, pois do contrário não teria fornecido o contato à vítima, sua prima -, é certo que o acusado entabulou negociação com a ofendida através de aplicativo de mensagens e por telefone, obtendo por tais meios, mediante ardil consistente na promessa de altos rendimentos sobre o dinheiro supostamente investido, a vantagem indevida. Note-se que não houve contato físico entre as partes, conforme confirmou o próprio acusado em juízo, viabilizando-se a fraude através de meio eletrônico. E é justamente essa facilidade na captação da vontade da vítima e na materialização da vantagem ilícita que justifica a tipificação da conduta na modalidade fraude eletrônica.
+No caso, o Tribunal de origem compreendeu, a partir do contexto probatório dos autos, que o ardil se consumou por meio de mensagens de aplicativo e contatos telefônicos, sem qualquer contato físico, e que a vítima foi induzida em erro pela promessa de lucros extraordinários, reforçada pelo envio de “prints” e “folders” dos supostos investimentos. Esse quadro levou à subsunção da conduta ao art. 171, § 2º-A, do Código Penal.
+Não se constata ofensa ao art. 171, § 2º-A, do Código Penal, pois o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu pela configuração da fraude eletrônica. Assentou-se que a vítima foi induzida em erro mediante mensagens de aplicativo e contatos telefônicos, por meio dos quais lhe foram prometidos rendimentos extraordinários, reforçados pelo encaminhamento de “prints” e “folders” relativos a supostos investimentos.
+Desse modo, reconhecida a utilização de meio eletrônico como instrumento para a prática do ardil que conduziu a vítima à disposição patrimonial, mostra-se adequada a subsunção da conduta à figura prevista no art. 171, § 2º-A, do Código Penal.   Assim, rever tal entendimento demandaria revolvimento fático probatório, sendo vendado pela via eleita por encontrar óbice na Súmula 7/STJ.
+(...)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial”. (e-doc. 4, p. 2-5, grifei)
+O art. 102, I, i, da Constituição Federal preceitua que a competência do Supremo Tribunal Federal para processar e julgar originariamente o habeas corpus será inaugurada “[...] quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância”.
+Na espécie, a ausência da análise pelo colegiado de Tribunal Superior, dos fundamentos constantes da decisão monocrática, impede o conhecimento do writ nesta Suprema Corte.
+Ademais, não verifico a existência de teratologia, flagrante ilegalidade ou abuso de poder para que se realize uma análise “per saltum” das questões trazidas no presente habeas corpus.
+Nesse sentido:
+“HABEAS CORPUS CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR. RECORRIBILIDADE. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES. 1. Incidência de óbice ao conhecimento da ordem impetrada neste Supremo Tribunal Federal, uma vez que se impugna decisão monocrática de Ministro do Superior de Tribunal de Justiça (HC 151.344-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 21/3/2018; HC 122.718/SP, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 3/9/2014; HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 16/5/2014; HC 138.687-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/3/2017; HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 17/10/2013; HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2013; HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 119.821/TO, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/4/2014; HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 9/10/2014; RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 18/4/2013; RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013). 2. O exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014). 3. Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal. 4. Habeas corpus não conhecido” (HC 165.860/SP, Rel. Min. Marco Aurélio, redator p/ acórdão Min. Alexandre de Moraes, Primeira Turma).”
+No caso concreto, as instâncias antecedentes consignaram a presença de elementos que comprovam o crime de estelionato qualificado.  Desse modo, para se chegar a uma conclusão diversa, necessário seria o reexame de fatos e provas que o habeas corpus não comporta.
+De acordo com o entendimento da Corte é inviável a utilização do habeas corpus para se revolver o contexto fático-probatório e glosar os elementos de prova que ampararam aquela conclusão. Nesse sentido: RHC nº 105.150, Primeira Turma, de minha relatoria, DJe de 4/5/12; RHC nº 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12/5/14; HC nº 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11/3/14; e o HC nº 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/5/12.
+A propósito, no mesmo sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. PEDIDO DE DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO PARA O DE USO DE DROGAS: INCABÍVEL REVOLVIMENTO DE FATOS E PROVAS EM HABEAS CORPUS. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO”. (RHC 221014 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 29/11/2022, grifei)
+
+“AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PRETENDIDA DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO PARA PORTE DE DROGAS. NECESSÁRIO REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. WRIT SUCEDÂNDEO DE REVISÃO CRIMINAL. INVIABILIDADE. AGRAVO AO QUAL SE NEGA PROVIMENTO. I – A pretensão específica de desclassificação do crime praticado pelo paciente implica o revolvimento do conjunto fático-probatório da causa, inviável na estreita via do habeas corpus. II – A jurisprudência do Supremo Tribunal Federal é firme no sentido da inviabilidade da utilização do writ como sucedâneo de revisão criminal. III - Agravo ao qual se nega provimento”. (RHC 231805 AgR, Rel. Min. CRISTIANO ZANIN, Primeira Turma, DJe de 01/12/2023)
+
+Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, prejudicado o pedido liminar.
+Publique-se.
+Brasília, 22 de outubro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
