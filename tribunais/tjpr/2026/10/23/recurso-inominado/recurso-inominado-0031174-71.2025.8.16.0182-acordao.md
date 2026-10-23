@@ -1,0 +1,35 @@
+RECURSO INOMINADO. SERVIDOR PÚBLICO ESTADUAL. AGENTE DE SEGURANÇA SOCIOEDUCATIVO. PLEITO DE INCLUSÃO DO ADICIONAL DE ATIVIDADE SOCIOEDUCATIVA (AAS) NA BASE DE CÁLCULO DO ADICIONAL POR TEMPO DE SERVIÇO (ATS). SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA RECURSAL DO ESTADO DO PARANÁ QUE SE LIMITA À NECESSIDADE DE SUSPENSÃO DO FEITO POR EXISTÊNCIA DE AÇÃO COLETIVA. PRELIMINAR ACOLHIDA. INCIDÊNCIA DO TEMA 60/STJ. IRRELEVÂNCIA DE A PARTE AUTORA SER FILIADA OU NÃO À ENTIDADE SINDICAL. SENTENÇA ANULADA. DEMANDA SUSPENSA ATÉ O JULGAMENTO DA AÇÃO COLETIVA. RECURSO CONHECIDO E PROVIDO.
+
+1. Trata-se de Agravo de Instrumento interposto por Nelci Moreira Maciel em face de decisão proferida nos autos de Ação Declaratória de Nulidade/Inexistência de Desconto em Folha de Pagamento cumulada com Repetição de Indébito e Danos Morais nº 0031083-52.2020.8.16.0021, oriundos da 4ª Vara Cível da Comarca Cascavel, que indeferiu o pedido de isenção total das custas, reduzindo-as a R$ 50,00 (cinquenta reais), que deverão ser divididos em 20% para o Distribuidor e 80% para a Serventia e deferiu a isenção de honorários advocatícios (mov. 31.1 – processo originário).
+Nas razões recursais, sustenta a agravante, em síntese, que não possui condições financeiras de arcar com as custas processuais e honorários advocatícios sem prejuízo de seu sustento e de sua família. Afirma que sua única fonte de renda é o que recebe a título de benefício previdenciário. Argui que possui diversos descontos em seu benefício em razão de inúmeros empréstimos consignados. Enfatiza que a hipossuficiência financeira restou comprovada por meio dos documentos acostados aos autos.
+Derradeiramente, requer o conhecimento e o provimento do recurso, com a reforma do decisum vergastado (mov. 1.1).
+Foi deferido o processamento do recurso (mov. 6.1), e a parte agravada apresentou contrarrazões (mov. 13.1).
+É o relatório
+
+VOTO
+2. Presentes os pressupostos de admissibilidade, conheço o agravo de instrumento.
+No caso, o magistrado, após análise dos documentos juntados pela parte agravante, entendeu por indeferir o pedido de isenção total das custas, reduzindo-as a R$ 50,00 (cinquenta reais), que deverão ser divididos em 20% para o Distribuidor e 80% para a Serventia e deferiu a isenção de honorários advocatícios (mov. 31.1 – processo originário).
+Pois bem.
+Dispõe o art. 98 do CPC/2015 que “a pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem o direito à gratuidade da justiça, na forma da lei”.
+Ainda acerca do tema determina o art. 99, § 2º do CPC/2015:
+Art. 99. O pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso. (...) § 2º O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos.
+(...).
+Ademais, o art.99, § 3º, do CPC/2015 afirma que: “Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural”.
+Sobre o assunto esta Câmara já decidiu:
+AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E NULIDADE CONTRATUAL C/C RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANO MORAL. DECISÃO RECORRIDA QUE REVOGOU A CONCESSÃO DE JUSTIÇA GRATUITA, EM RAZÃO DA POSSIBILIDADE DE SER INTENTADA AÇÃO PERANTE O JUIZADO ESPECIAL. DECISÃO REFORMADA. GRATUIDADE DA JUSTIÇA CONCEDIDA. - A gratuidade da justiça faz parte de um arcabouço normativo vocacionado a promover o acesso pleno aos órgãos judiciários pelo demandante hipossuficiente de recursos, bem como a facilitação de sua defesa em juízo (art. 5º, inciso LXXIV, CF), razão pela qual a via jurisdicional atrelada à pretensão deduzida em juízo, e escolhida pelo próprio demandante, não pode voltar-se contra o destinatário da proteção, prejudicando sua situação jurídica, tão somente pela justificativa de o Estado ter contemplado uma via jurisdicional alternativa e desembaraçada das custas processuais. Agravo de instrumento provido. (TJPR - 16ª C.Cível - 0067369-92.2020.8.16.0000 - Formosa do Oeste -
+ Rel.: DESEMBARGADOR PAULO CEZAR BELLIO -
+ J. 01.03.2021)
+AGRAVO DE INSTRUMENTO – AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS – DECISÃO QUE INDEFERIU PEDIDO DE JUSTIÇA GRATUITA – PESSOA FÍSICA – DOCUMENTAÇÃO JUNTADA AOS AUTOS QUE COMPROVA A CONDIÇÃO DE HIPOSSUFICIÊNCIA ECONÔMICA ALEGADA –APOSENTADORIA – HOLERITE – ÚNICA FONTE DE RENDA – CONCESSÃO DA BENESSE – DEMONSTRATIVO DE ISENÇÃO DE DECLARAÇÃO DE IMPOSTO DE RENDA E CTPS – DECISÃO REFORMADA – PRECEDENTES DO STJ E DESTA CORTE DE JUSTIÇA – REGULAR PROSSEGUIMENTO DO FEITO PELA VIA ORDINÁRIA – GARANTIA FUNDAMENTAL DE ACESSO À JUSTIÇA – INTELIGÊNCIA DO ARTIGO 5º, INC. XXXV, DA CONSTITUIÇÃO FEDERAL – AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO. (TJPR - 16ª C.Cível - 0071205-73.2020.8.16.0000 - Terra Rica -
+ Rel.: DESEMBARGADORA MARIA MERCIS GOMES ANICETO -
+ J. 13.06.2021)
+BANCÁRIO. AGRAVO DE INSTRUMENTO. AÇÃO MONITÓRIA. RECONVENÇÃO. PEDIDO DE JUSTIÇA GRATUITA. PRESUNÇÃO DE INSUFICIÊNCIA DE RECURSOS DEDUZIDA POR PESSOA FÍSICA (CPC, ART. 99, § 3º). DOCUMENTOS QUE NÃO DEMONSTRAM A CONDIÇÃO DE HIPOSSUFICIÊNCIA FINANCEIRA DO AGRAVANTE. RECURSO DESPROVIDO. (TJPR - 16ª C.Cível - 0029966-26.2019.8.16.0000 - Maringá -
+ Rel.: Desembargador LAURO LAERTES DE OLIVEIRA -
+ J. 11.11.2019)
+In casu, além da declaração de pobreza (mov. 1.3 – processo originário), a parte autora é pensionista do INSS (pensão por morte), recebendo o valor mensal de R$ 998,00 – sem o desconto das parcelas dos empréstimos que possui (mov. 1.7 – processo originário). Ainda, apresentou a declaração do IRPF 2019 emitida pela Receita Federal, informando ter tido rendimento de apenas R$ 11.976,00 (mov. 1.9 – processo originário).
+Todos esses fatos, portanto, coadunam com a alegação de hipossuficiência econômica.
+Aliás, cabe ressaltar que a competência do Juizado Especial Cível é relativa e trata-se de uma opção do autor escolher entre o procedimento previsto na Lei nº 9.099/1995 ou o ajuizamento da ação perante a Justiça Comum, pelo rito do Código de Processo Civil. Portanto, tal argumento, por si só, não é hábil ao indeferimento da benesse buscada.
+Destarte, nesse cenário, tudo indica que o indeferimento da concessão ou a mera redução das custas, como na hipótese, poderá causar prejuízo ao seu direito de acesso à justiça (CF, art. 5º, XXXV).
+
+De mais a mais, ao menos até esse momento, nos autos não há qualquer indício de que as declarações da ora agravante não condizem com a realidade, ou que ela possui condições financeiras suficientes para o pagamento das custas processuais.
+Por essas razões, deve ser reformado o decisum objurgado, a fim de deferir o benefício da justiça gratuita, o que contempla a integralidade das custas envolvidas na demanda.
+Por tais fundamentos, voto por conhecer e dar provimento ao recurso, a fim de reformar a decisão e conceder o benefício da justiça gratuita para a autora.
