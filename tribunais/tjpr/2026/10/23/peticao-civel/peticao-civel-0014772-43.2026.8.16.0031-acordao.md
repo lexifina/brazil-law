@@ -1,0 +1,27 @@
+EMBARGOS DE DECLARAÇÃO. SERVIDORA PÚBLICA MUNICIPAL. MAGISTÉRIO. JORNADA SUPLEMENTAR. ACÓRDÃO QUE NEGOU PROVIMENTO AO RECURSO INOMINADO DO MUNICÍPIO, MANTENDO A CONDENAÇÃO AO PAGAMENTO DE DIFERENÇAS REMUNERATÓRIAS CALCULADAS COM BASE NO NÍVEL EFETIVAMENTE OCUPADO NA CARREIRA. ALEGAÇÃO DE OMISSÃO QUANTO AO FATO NOVO SUPERVENIENTE (EDIÇÃO DA LEI COMPLEMENTAR MUNICIPAL Nº 260/2026). OMISSÃO VERIFICADA. INTEGRAÇÃO DO JULGADO SEM ATRIBUIÇÃO DE EFEITOS INFRINGENTES. INAPLICABILIDADE DA NOVA LEI COMO CONDICIONANTE DO DIREITO PRETÉRITO, O QUAL DECORRE DA INCONSTITUCIONALIDADE DA PRÁTICA ADMINISTRATIVA ANTERIOR. ALEGADA OMISSÃO QUANTO À MODULAÇÃO DO ACÓRDÃO Nº 3747/2024 DO TCE-PR. VÍCIO INEXISTENTE. MATÉRIA EXPRESSAMENTE ENFRENTADA NO ACÓRDÃO EMBARGADO. MERO INCONFORMISMO. PREQUESTIONAMENTO. APLICAÇÃO DO ART. 1.025 DO CPC. EMBARGOS DE DECLARAÇÃO CONHECIDOS E PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES, APENAS PARA INTEGRAR O JULGADO.
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ
+TURMA RECURSAL ÚNICA
+
+Autos nº. 0000857-15.2009.8.16.0162/1
+
+Recurso: 0000857-15.2009.8.16.0162 Pet 1
+Classe Processual: Petição Cível
+Assunto Principal: Correção Monetária
+Requerente(s): BANCO BRADESCO S/A
+Requerido(s): Aramys Jose Stocco
+                         Vistos,
+
+1. Homologo o acordo entabulado entre as partes, na forma pleiteada nas petições de movimento
+nº 9.1 e 15.1, observado o disposto no artigo 90, § 2º do Código de Processo Civil.
+2. Isto posto, retiro a suspensão dos autos e julgo extinto o processo, com fulcro no art. 487, III,
+"b", do Código de Processo Civil.
+3. Intimem-se e, oportunamente, certifique-se o trânsito em julgado.
+4. Após, remetam-se os autos à origem para ulteriores deliberações.
+
+Intimem-se.
+
+Curitiba, data da assinatura digital.
+
+Aldemar Sternadt
+Presidente da Turma Recursal Reunida do Paraná
