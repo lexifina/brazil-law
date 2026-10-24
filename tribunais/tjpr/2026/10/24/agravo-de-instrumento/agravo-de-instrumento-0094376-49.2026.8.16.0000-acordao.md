@@ -1,0 +1,173 @@
+Ementa:
+Direito processual civil. Agravo de instrumento. Embargos de terceiro. Tutela provisória. Suspensão de penhora sobre fração ideal de imóvel. Alienação anterior do bem pelos embargantes ao executado. Alegação de posse autônoma e de impenhorabilidade do bem de família. Necessidade de dilação probatória. Recurso
+de agravo de instrumento
+conhecido e não provido.
+Agravo interno prejudicado.
+I. Caso em exame
+1. Agravo de instrumento interposto contra decisão que, em embargos de terceiro, indeferiu pedido liminar de suspensão dos efeitos da penhora incidente sobre fração ideal de imóvel registrado, em parte, em nome do executado. Os agravantes, genitores do devedor, sustentaram exercer posse mansa, pacífica, pública e ininterrupta sobre o bem há mais de duas décadas, afirmando tratar-se de sua residência familiar e invocando a proteção da impenhorabilidade do bem de família.
+II. Questão em discussão
+2. A questão em discussão consiste em definir se, em sede de cognição sumária, os elementos apresentados pelos embargantes demonstram posse autônoma e juridicamente oponível sobre o imóvel constrito, ou o preenchimento dos requisitos legais da impenhorabilidade do bem de família, de modo a autorizar a suspensão imediata da penhora.
+III.
+Razões de decidir
+3. A suspensão das medidas constritivas em embargos de terceiro pressupõe o reconhecimento, suficientemente comprovado, do domínio ou da posse sobre o bem litigioso, conforme o artigo 678 do Código de Processo Civil, além da presença dos requisitos da tutela de urgência previstos no artigo 300 do mesmo diploma.
+4. A matrícula imobiliária indica que os agravantes alienaram o imóvel ao executado, seu filho, e à respectiva esposa, no ano de 2006, com transferência registral do bem, circunstância que fragiliza, nesta fase processual, a alegação de posse própria e autônoma oponível à constrição.
+5. Os documentos apresentados evidenciam vínculo residencial dos agravantes com o imóvel, mas não esclarecem, em juízo sumário, se a ocupação decorre de posse própria com animus
+domini
+ou de mera tolerância familiar, permissão ou comodato, matéria que demanda instrução probatória nos embargos de terceiro.
+6. Não há indevida elevação do standard probatório nem inversão do ônus da prova, pois competia aos embargantes demonstrar elementos mínimos de probabilidade da posse autônoma afirmada, nos termos do artigo 373, inciso I, do Código de Processo Civil.
+7. A Súmula nº 84 do Superior Tribunal de Justiça não se aplica à hipótese, pois os agravantes não figuram como adquirentes de imóvel por compromisso de compra e venda não registrado, mas como antigos alienantes do bem posteriormente constrito.
+8. A alegação de impenhorabilidade do bem de família exige prévio esclarecimento acerca da natureza da ocupação exercida pelos agravantes, da titularidade da proteção legal invocada, da destinação residencial do imóvel e do preenchimento dos requisitos previstos na Lei nº 8.009/1990.
+9. Ausente demonstração, de plano, da probabilidade do direito e dos pressupostos específicos para a suspensão da constrição, deve ser mantida a decisão agravada, sem prejuízo do aprofundamento da matéria no curso dos embargos de terceiro.
+IV. Dispositivo e tese
+10. Recurso conhecido e não provido.
+ Agravo Interno prejudicado.Tese de julgamento:
+Em embargos de terceiro, a suspensão liminar de penhora sobre imóvel registrado em nome do executado exige demonstração suficiente de posse autônoma e juridicamente oponível ou do preenchimento dos requisitos da impenhorabilidade do bem de família, não bastando, em cognição sumária, a comprovação de vínculo residencial dos antigos alienantes do bem quando a natureza da ocupação demanda dilação probatória.
+_________
+Dispositivos relevantes citados:
+CPC/2015,
+arts. 300, 373, I, 674 e 678; Lei nº 8.009/1990,
+arts. 1º e 5º.
+Jurisprudência relevante citada:
+Súmula nº 84/STJ; STJ, REsp nº 1.487.028/SC.
+
+VISTOS
+e relatados estes autos de Agravo de Instrumento nº 0094376-49.2026.8.16.0000
+ e
+Agravo Interno nº 0112468-75.2026.8.16.0000, da Vara Cível de
+Mandaguari, em que figura como
+agravante
+João Basilio Sobrinho e Nilda da Silva Basilio
+e como
+agravada
+Cocari
+– Cooperativa Agropecuária e Industrial.
+1.
+Relatório
+1.1
+Agravo de Instrumento
+ Trata-se de agravo de instrumento interposto em face da decisão proferida no mov. 13.1, nos autos de embargos de terceiro nº 0002070-25.2026.8.16.0109, na qual o MM. Juiz Marcelo Torres Liberati indeferiu o pedido liminar de suspensão dos efeitos da penhora ao imóvel constrito nos seguintes termos:
+“Nos termos do art. 678 do Código de Processo Civil, a suspensão das medidas constritivas em sede de embargos de terceiro pressupõe que o juiz reconheça suficientemente provado o domínio ou a posse sobre o bem litigioso.
+
+No caso, embora os documentos apresentados indiquem, em tese, que os embargantes mantêm vínculo residencial com o endereço do imóvel, tal circunstância, por si só, não é suficiente, neste juízo de cognição sumária, para demonstrar posse autônoma, exclusiva e juridicamente oponível à constrição determinada sobre fração ideal formalmente pertencente ao executado.
+
+Com efeito, os próprios embargantes reconhecem que a matrícula imobiliária registra o executado Newton Aparecido Basílio e sua esposa como titulares de fração do bem.
+
+Destarte, ao menos neste momento processual, a ocupação do imóvel pelos genitores do executado pode revelar situação de mera tolerância, permissão familiar ou comodato, circunstâncias que demandam melhor dilação probatória e contraditório, não autorizando, desde logo, a suspensão da penhora regularmente efetivada sobre direito real registrado em nome do devedor.
+
+Além disso, a alegação de impenhorabilidade como bem de família exige análise mais aprofundada acerca da titularidade, da natureza da posse exercida, da composição do núcleo familiar protegido e da própria oponibilidade da situação possessória alegada em face do credor exequente, temas que não se mostram suficientemente esclarecidos apenas com os documentos que instruem a inicial.
+
+Ressalte-se que o indeferimento da liminar não implica juízo definitivo sobre o mérito dos embargos, mas apenas o reconhecimento de que, nesta fase inaugural, não se encontra preenchido o requisito específico do art. 678 do CPC para a imediata suspensão das medidas constritivas.
+
+4. Diante disso, INDEFIRO, por ora, o pedido liminar de suspensão dos efeitos da penhora e dos demais atos constritivos relativos ao imóvel matriculado sob nº 0004194.”
+Os embargantes interpuseram recurso no mov. 1.1 alegando, em síntese, que:
+ a) insurgiu-se contra a decisão interlocutória que indeferiu o pedido de suspensão liminar das medidas constritivas incidentes sobre imóvel objeto de embargos de terceiro, interpondo agravo de instrumento com fundamento no artigo 1.015, inciso I, e no artigo 1.019, inciso I, do Código de Processo Civil, pretendendo a atribuição de efeito suspensivo ativo; b) os embargos de terceiro foram opostos em defesa da posse mansa, pacífica, pública e ininterrupta exercida há mais de duas décadas sobre imóvel que constitui residência familiar, sobre o qual recaiu penhora de fração ideal de 50% em execução de título extrajudicial, da qual não participaram; c) a decisão agravada reconheceu indícios de vínculo residencial com o imóvel, mas indeferiu a liminar ao considerar ausente demonstração de posse autônoma, exclusiva e juridicamente oponível, reputando possível tratar-se de mera tolerância, permissão familiar ou comodato; d) a decisão agravada incorreu em
+error
+in
+judicando, ao exigir, em sede de cognição sumária prevista no artigo 678 do Código de Processo Civil, grau de certeza próprio da cognição exauriente, quando a norma exige apenas prova suficiente da posse, compatível com a probabilidade do direito; e) houve reconhecimento expresso da existência de prova documental do vínculo com o imóvel, sendo indevida a negativa da liminar com base em elevação do standard probatório, o que esvaziou a finalidade do referido dispositivo legal; f) a conjectura de posse precária por tolerância ou comodato carece de suporte fático, tendo sido aventada de ofício, sem provocação da parte adversa, configurando antecipação indevida de tese defensiva e violação ao princípio dispositivo; g) ocorreu inversão indevida do ônus da prova, pois a posse, uma vez demonstrada, presume-se plena e de boa-fé, cabendo a quem alega precariedade comprová-la, não sendo exigível prova negativa; h) o conjunto probatório evidencia posse própria, contínua e anterior ao registro formal do imóvel, incluindo documentos datados de 15.03.2002, 02.12.2005 e 19.04.2006, além de registros junto a concessionárias, instituições financeiras e órgãos públicos, todos indicando o mesmo endereço; i) a decisão agravada foi omissa quanto à aplicação da Súmula 84 do Superior Tribunal de Justiça, segundo a qual a posse, ainda que desacompanhada de registro, é suficiente para fundamentar embargos de terceiro; j) a tutela possessória independe de titularidade registral, nos termos dos artigos 674 e 677, § 2º, do Código de Processo Civil, sendo legítima a oposição de embargos por quem sofre constrição sobre bem que possui; k) o imóvel constrito constitui bem de família, sendo a única residência da entidade familiar, atraindo a proteção do artigo 1º da Lei nº 8.009/1990 e do artigo 6º da Constituição Federal, matéria de ordem pública cognoscível de ofício; l) a proteção da impenhorabilidade alcança o possuidor independentemente de registro, conforme entendimento jurisprudencial, não sendo aplicável a exceção do artigo 3º, inciso II, da Lei nº 8.009/1990 a credor estranho ao financiamento do imóvel; m) estão presentes os requisitos do artigo 1.019, inciso I, do Código de Processo Civil, consistentes na probabilidade de provimento do recurso e no perigo de dano grave, diante do risco de alienação do imóvel e perda do único local de moradia; n) requereu o recebimento e processamento do recurso, a concessão de efeito suspensivo ativo para suspender a penhora e impedir atos expropriatórios, e, ao final, o provimento para reformar a decisão agravada, determinando a suspensão das medidas constritivas e a manutenção da posse, com produção de provas admitidas em direito.
+A liminar foi indeferida (mov. 8.1).
+Em contrarrazões (mov. 13.1), o embargado asseverou que:
+a) os documentos apresentados não comprovam, em cognição sumária, posse autônoma, exclusiva e juridicamente oponível à constrição incidente sobre a fração ideal registrada em nome do executado, pois o vínculo residencial com o imóvel pode decorrer de tolerância, permissão familiar ou comodato, circunstâncias que exigem dilação probatória e contraditório, nos termos do artigo 678, do Código de Processo Civil; b) a certidão de inteiro teor da matrícula nº 4.194 demonstra que o imóvel foi alienado pelos agravantes ao executado e à esposa em 17.04.2006, mediante instrumento particular de compra e venda com alienação fiduciária, pelo preço de R$ 40.000,00 (quarenta mil reais), composto por R$ 4.060,00 (quatro mil e sessenta reais) de recursos próprios, R$ 1.740,00 (mil setecentos e quarenta reais) provenientes do Fundo de Garantia do Tempo de Serviço e R$ 34.200,00 (trinta e quatro mil e duzentos reais) de financiamento concedido pela Caixa Econômica Federal, com registro em 19.04.2006 e constituição de garantia fiduciária em 204 (duzentas e quatro) prestações mensais de R$ 362,57 (trezentos e sessenta e dois reais e cinquenta e sete centavos); c) os agravantes não são terceiros alheios ao registro imobiliário, mas os alienantes que receberam o preço e transmitiram o domínio e a posse aos adquirentes, inexistindo posse juridicamente qualificada e oponível à constrição, conforme exigido pelo artigo 674, do Código de Processo Civil; d) a documentação anterior à alienação, inclusive os registros datados de 15.03.2002 e 02.12.2005, comprova apenas a posse pretérita exercida na condição de proprietários, não demonstrando posse atual oponível ao credor do adquirente; e) a permanência no imóvel após a venda decorreu de ocupação consentida pelos adquirentes, caracterizada como comodato verbal ou tolerância familiar, a qual não induz posse, conforme os artigos 1.203 e 1.208, do Código Civil; f) a transmissão da posse ocorreu por
+constituto
+possessório, nos termos do artigo 1.267, parágrafo único, do Código Civil, de modo que, desde 17.04.2006, a ocupação passou a ser exercida em nome alheio, sem conversão, pelo decurso do tempo, em posse autônoma oponível
+erga omnes
+ou apta à usucapião, por ausência de
+animus
+domini; g) ainda que reconhecida posse direta derivada de comodato, essa condição não afasta a penhora incidente sobre o direito do proprietário executado, por inexistir título aquisitivo, promessa de compra e venda ou direito real ou obrigacional capaz de excluir o bem da responsabilidade patrimonial prevista no artigo 789, do Código de Processo Civil; h) a posse direta temporária não elimina a posse indireta daquele de quem foi havida, conforme o artigo 1.197, do Código Civil, razão pela qual a eventual posse direta convive com a posse indireta e com o direito real registrado em nome do executado, passível de penhora; i) é inaplicável a Súmula 84, do Superior Tribunal de Justiça, porquanto o enunciado protege a posse decorrente de compromisso de compra e venda não registrado, enquanto os agravantes figuraram como vendedores em negócio jurídico oneroso, registrado e acompanhado do pagamento do preço, sem promessa, cessão, compromisso ou título aquisitivo em seu favor; j) os comprovantes de água, telefonia, correspondências e documentos previdenciários e de saúde demonstram, no máximo, moradia, sem comprovar posse com
+animus
+domini, permanecendo a unidade consumidora de energia elétrica registrada em nome do executado; k) a impenhorabilidade prevista no artigo 1º, da Lei nº 8.009/1990, protege o imóvel residencial próprio do casal ou da entidade familiar, não podendo ser invocada por quem voluntariamente transferiu a propriedade do bem a terceiro; l) sob a perspectiva do executado, também não estão preenchidos os requisitos da impenhorabilidade, pois ele não reside no imóvel e é titular de frações ideais de, ao menos, 2 (dois) imóveis distintos, correspondentes às matrículas nº 18.031 e nº 4.194, ambas alcançadas pela penhora; m) a pluralidade patrimonial afasta o requisito de imóvel único estabelecido pelo artigo 5º, da Lei nº 8.009/1990, cuja demonstração incumbia aos agravantes, conforme o artigo 373, inciso I, do Código de Processo Civil; n) a extensão excepcional da proteção ao imóvel cedido gratuitamente a familiares pressupõe que se trate do único imóvel residencial do devedor e que esteja destinado à moradia da entidade familiar, condições não demonstradas; o) a proteção legal incide somente sobre o único bem destinado à residência do devedor, não alcançando outros imóveis de sua titularidade; p) deve ser mantida a decisão agravada, com o não provimento do recurso e o regular prosseguimento do feito.
+Os autos vieram conclusos (mov. 17).
+1.2. Agravo Interno
+Trata-se de recurso de agravo interno, voltado a impugnar a decisão monocrática (mov. 8.1), proferida nos autos de agravo de instrumento nº 0094376-49.2026.8.16.0000, na qual
+esta
+Relatora indeferiu o pedido de antecipação da tutela recursal, nos seguintes termos:
+"Isso porque, conforme consignado na decisão agravada, embora a documentação indique vínculo dos agravantes com o imóvel, não há, em princípio, elementos capazes de demonstrar o exercício de posse autônoma e juridicamente oponível à execução. Com efeito, o imóvel permanece registrado, em parte, em nome do executado Newton, filho dos recorrentes.
+
+Nessa perspectiva, especialmente considerando que o bem está registrado em nome do executado e que os embargantes são seus genitores, a demonstração de posse apta a afastar a constrição judicial exige elementos que ultrapassem a mera apresentação de comprovantes de residência.
+
+O simples fato de residirem no imóvel não afasta a possibilidade de ocupação decorrente de relação familiar consentida, circunstância cuja verificação demanda dilação probatória.
+
+Assim, embora não se exija, nesta fase processual, prova cabal ou exauriente, os elementos até o momento constantes dos autos não evidenciam a probabilidade do direito invocado.
+
+Quanto ao perigo de dano, igualmente não se verifica, por ora, risco concreto de lesão grave ou de difícil reparação, uma vez que não há notícia da designação de avaliação do imóvel, tampouco da prática de qualquer ato expropriatório iminente.
+
+Com isso, constata-se, em sede de exame não exauriente, que os fundamentos utilizados pelo MM. Magistrado a quo na decisão agravada foram plausíveis e razoáveis, devendo ser mantido o pronunciamento.
+
+3. Logo, em caráter sumário, e sem prejuízo do posterior julgamento de mérito em sentido contrário, não vislumbro o preenchimento dos requisitos de probabilidade do direito para urgência na medida, nem de perigo de dano, razão pela qual indefiro o pedido de concessão de efeito suspensivo."
+O agravante interpôs recurso (mov. 1.1), sustentando, em síntese, que:
+a) a decisão monocrática indeferiu a atribuição de efeito suspensivo ao agravo de instrumento interposto contra o pronunciamento do Juízo que, nos embargos de terceiro, rejeitou a suspensão das medidas constritivas incidentes sobre o imóvel utilizado como residência há mais de 20 (vinte) anos; b) o padrão probatório exigido é incompatível com a cognição sumária, pois o artigo 678, do Código de Processo Civil requer apenas que a posse esteja suficientemente comprovada, mediante juízo de probabilidade, e a própria decisão reconheceu a existência de documentos indicativos do vínculo residencial; c) foram apresentados diversos comprovantes de residência, cadastros em concessionárias e documentos extraídos de outros processos judiciais, suficientes para demonstrar, em caráter liminar, a posse prolongada sobre o bem; d) a exigência de comprovação definitiva de posse autônoma, exclusiva e juridicamente oponível à execução antecipa o exame do mérito dos embargos de terceiro e esvazia a finalidade da tutela provisória; e) a impenhorabilidade do bem de família, prevista na Lei nº 8.009/1990, constitui matéria de ordem pública e assegura o direito fundamental à moradia, garantido pelo artigo 6º, da Constituição Federal; f) a proteção legal alcança o possuidor e não se restringe ao proprietário registral, porquanto se destina a resguardar a entidade familiar residente no imóvel, independentemente do título jurídico da ocupação; g) o bem constitui a única moradia de pessoas idosas, uma das quais exerce a curatela de filha interditada, circunstância que justifica a preservação liminar do imóvel; h) a venda do bem ao executado em 2006 não autoriza a conclusão imediata de que a ocupação decorra de mera tolerância ou comodato, diante da complexidade das relações familiares e do prolongado decurso do tempo; i) o exercício contínuo, público e pacífico da posse por quase duas décadas, acompanhado do pagamento das despesas e da manutenção de cadastros em nome próprio, pode ter provocado a alteração da natureza da ocupação; j) a posse inicialmente precária pode, conforme as circunstâncias, converter-se em posse
+ad
+usucapionem, isto é, apta à aquisição do domínio por usucapião; k) a definição sobre a existência de mera tolerância ou de posse autônoma depende de dilação probatória e deve ser examinada no mérito dos embargos de terceiro, impondo-se, até então, a suspensão da constrição; l) o perigo de dano não depende da prévia designação de avaliação, leilão ou outro ato expropriatório, pois decorre da própria manutenção de penhora válida e eficaz sobre o único imóvel destinado à moradia; m) a ameaça de perda da residência ocasiona dano material contínuo e os atos expropriatórios podem ser praticados a qualquer momento; n) deve ser reconsiderada a decisão monocrática para conceder efeito suspensivo ao agravo de instrumento e suspender os atos constritivos sobre o imóvel até o julgamento definitivo do recurso; o) subsidiariamente, o agravo interno deve ser submetido ao órgão colegiado e receber provimento, com a reforma da decisão monocrática e a concessão do efeito suspensivo requerido.
+Em contrarrazões (mov. 10.1), o agravado asseverou que: a) a decisão monocrática deve ser mantida, pois a concessão de efeito suspensivo exige a presença concomitante da probabilidade de provimento do recurso e do risco de dano grave, de difícil ou impossível reparação, conforme os artigos 995, parágrafo único, e 1.019, inciso I, do Código de Processo Civil, requisitos não demonstrados; b) os comprovantes de residência, cadastros e correspondências evidenciam apenas vínculo fático com o imóvel, sem comprovar posse autônoma, exclusiva e juridicamente oponível à execução, sobretudo porque fração ideal do bem permanece registrada em nome do executado; c) a natureza e a origem da posse dependem de dilação probatória, porquanto a ocupação pode decorrer de tolerância, permissão familiar ou comodato, não sendo possível atribuir significado jurídico definitivo aos documentos apresentados em sede de cognição sumária; d) o artigo 678, do Código de Processo Civil, autoriza a suspensão das medidas constritivas quando suficientemente comprovados o domínio ou a posse, não bastando vínculo material com o imóvel desacompanhado de elementos seguros; e) a Súmula 84, do Superior Tribunal de Justiça, admite a oposição de embargos de terceiro fundada em alegação de posse, ainda que ausente registro imobiliário, mas não dispensa a demonstração dos requisitos da tutela provisória nem determina automaticamente a suspensão ou o levantamento da penhora; f) a impenhorabilidade prevista na Lei nº 8.009/1990 não pode ser reconhecida em cognição sumária, pois ainda dependem de esclarecimento a titularidade do imóvel, a natureza da posse, a composição do núcleo familiar e a oponibilidade da situação possessória ao credor; g) a condição pessoal dos agravantes não supre a ausência dos requisitos da tutela de urgência nem esclarece a autonomia da posse, a configuração do bem de família ou a existência de risco concreto decorrente da manutenção da constrição; h) não há perigo de dano concreto e iminente, diante da inexistência de avaliação do imóvel ou de ato expropriatório próximo, uma vez que a penhora não se confunde com a alienação judicial e a possibilidade futura e hipotética de expropriação é insuficiente para caracterizar o requisito previsto no artigo 995, parágrafo único, do Código de Processo Civil; i) o agravo interno não apresenta elemento novo, limitando-se a reiterar fundamentos já examinados na decisão monocrática, sem demonstrar equívoco que justifique sua reforma; j) impõe-se, por conseguinte, o não provimento do agravo interno, com a manutenção integral da decisão monocrática.
+É o relatório.
+
+2. Fundamentação
+Presentes os pressupostos intrínsecos e extrínsecos de admissibilidade, o agravo de instrumento comporta conhecimento.
+No caso, insurgem-se os embargantes contra a decisão que indeferiu a tutela de urgência, mantendo a penhora sobre o imóvel
+indicado.
+Sustentam que a decisão recorrida exigiu prova concreta e exauriente da posse do bem, embora os elementos constantes dos autos sejam suficientes para demonstrar em sede de cognição sumária a posse do imóvel. Alegam, ainda, que o magistrado antecipou o exame de matéria afeta ao mérito da demanda.
+Argumentam, também, a incidência da Súmula 84 do Superior Tribunal de Justiça, ao
+fundamento
+de que a posse se revela bastante, por si só, independentemente de título registral, além de afirmarem que o imóvel seria impenhorável por configurar bem de família.
+Com esses fundamentos, pleiteiam a atribuição de efeito suspensivo ao recurso, amparados na alegada presença da probabilidade do direito, extraída dos documentos acostados aos autos, e do perigo de dano, consubstanciado no risco de perda do imóvel.
+A pretensão recursal, contudo, não comporta acolhimento.
+Os embargos de terceiro constituem instrumento processual destinado à proteção daquele que, não integrando a relação processual, sofre constrição ou ameaça de constrição sobre bem que possua ou sobre o qual detenha direito incompatível com o ato judicial impugnado.
+Conforme dispõe o artigo 674 do Código de Processo Civil:
+“Art. 674. Quem, não sendo parte no processo, sofrer constrição ou ameaça de constrição sobre bens que possua ou sobre os quais tenha direito incompatível com o ato constritivo, poderá requerer seu desfazimento ou sua inibição por meio de embargos de terceiro.
+§ 1º Os embargos podem ser de terceiro proprietário, inclusive fiduciário, ou possuidor.
+§ 2º Considera-se terceiro, para ajuizamento dos embargos:
+I -
+o
+cônjuge ou companheiro, quando defende a posse de bens próprios ou de sua meação, ressalvado o disposto no art. 843;
+II -
+o
+adquirente de bens cuja constrição decorreu de decisão que declara a ineficácia da alienação realizada em fraude à execução;
+III - quem sofre constrição judicial de seus bens por força de desconsideração da personalidade jurídica, de cujo incidente não fez parte;
+IV -
+o
+credor com garantia real para obstar expropriação judicial do objeto de direito real de garantia, caso não tenha sido intimado, nos termos legais dos atos expropriatórios respectivos.”
+Por sua vez, o artigo 300 do mesmo diploma legal, invocado na origem como fundamento para a concessão da tutela de urgência, estabelece:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.”
+Na hipótese, os embargantes invocam a condição de terceiros sob a alegação de exercerem posse sobre fração do imóvel penhorado na execução, além de sustentarem a impenhorabilidade do bem, por reputá-lo destinado à residência familiar.
+Pois bem.
+A respeito da tutela provisória nos embargos de terceiro, dispõe o artigo 678 do Código de Processo Civil:
+“Art. 678.
+A decisão que reconhecer suficientemente provado o domínio ou a posse determinará a suspensão das medidas constritivas sobre os bens litigiosos objeto dos embargos, bem como a manutenção ou a reintegração provisória da posse, se o embargante a houver requerido.”
+Inicialmente, não se verifica
+o alegado
+error
+in
+judicando
+na decisão agravada.
+Isso porque, não
+se constata exigência de prova incompatível com a cognição sumária ou indevida incursão no mérito da demanda, pois os elementos reunidos nos autos ainda não evidenciam posse autônoma e juridicamente oponível apta a justificar a suspensão imediata da constrição.
+Com efeito, da análise da matrícula do imóvel nº 0004194, extrai-se que os agravantes alienaram o bem ao executado Newton, seu filho, e à respectiva esposa, no ano de 2006. Confira-se:
+
+Houve, portanto, efetiva transferência registral e possessória do bem. Nesse contexto, a alegação de residência no imóvel, ainda que acompanhada dos documentos apresentados — alguns relativos ao período em que os recorrentes figuravam como proprietários e outros posteriores à alienação —, revela-se insuficiente, nesta fase processual, para demonstrar posse autônoma e juridicamente oponível, tampouco permite definir, com segurança, a natureza jurídica da permanência
+dos agravantes
+no local.
+Cumpre destacar que o imóvel permanece registrado, em parte, em nome do executado Newton, filho dos recorrentes, de modo que a simples juntada de comprovantes de residência não afasta a constrição, sobretudo diante da ausência de elementos aptos a evidenciar a autonomia possessória necessária à suspensão imediata da penhora.
+No que se refere à Súmula 84 do Superior Tribunal de Justiça, o enunciado não se ajusta à hipótese dos autos, pois os agravantes não ostentam a condição de adquirentes do imóvel; ao contrário, foram eles que alienaram o bem e transferiram formalmente a propriedade ao executado Newton.
+Quanto à invocada impenhorabilidade do bem de família, sua disciplina encontra-se prevista na Lei Federal nº 8.009/1990, que estabelece os requisitos para o reconhecimento dessa especial proteção patrimonial.
+Segundo o artigo 1º da aludida legislação: “o imóvel residencial próprio do casal ou da entidade familiar, é impenhorável e não responderá por qualquer tipo de dívida civil comercial, fiscal, previdenciária ou de outra natureza, contraída pelos cônjuges ou pelos pais ou filhos que sejam seus proprietários e nele residam, salvo nas hipóteses previstas nesta lei”.
+
+A impenhorabilidade do bem de família, cumpre frisar, consubstancia proteção de ordem pública, voltada à preservação da entidade familiar e à concretização da dignidade da pessoa humana. Nesse sentido:
+“PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IMÓVEL. LEI 8.009/1990.
+DIREITO À MORADIA. RESIDÊNCIA DA FAMÍLIA. IMPENHORABILIDADE. PRECEITO DE ORDEM PÚBLICA. IRRENUNCIABILIDADE. 1. O art. 1° da Lei 8.009/1990 estabelece que o imóvel residencial próprio do casal, ou da entidade familiar, é impenhorável, ressalvadas as hipóteses excepcionais previstas no próprio diploma legal. O preceito é de ordem pública e deve ser interpretado de modo a conferir máxima efetividade ao direito social à moradia (art. 6° da CF/1988) e à norma que impõe ao Estado o dever de proteger a família, base da sociedade (art. 226 da CF/1988). 2. In
+casu, ao analisar as circunstâncias fáticas dos autos, o Tribunal a quo concluiu ser "inquestionável que o imóvel penhorado constitui 'bem de família'" e que, nos Embargos de Terceiro, os autores buscam proteger a própria moradia, e não apenas o direito à propriedade (fls. 124-125). 3. Conforme já assentado pelo STJ, a proteção conferida pela Lei 8.009/1990 não admite renúncia pelo proprietário (REsp 1.200.112/RJ, Rel. Ministro Castro Meira, Segunda Turma,
+DJe
+21/8/2012; REsp 828.375/RS, Rel. Ministra Eliana Calmon, Segunda Turma,
+DJe
+17/2/2009). (...) 5. Recurso Especial parcialmente conhecido e, nessa parte, não provido (REsp 1487028/SC, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/10/2015,
+DJe
+18/11/2015).”
+Embora os agravantes sustentem a impenhorabilidade do imóvel como bem de família, a controvérsia instaurada nos autos antecede, neste momento processual, a própria definição acerca da natureza jurídica da ocupação exercida pelos embargantes. Isso porque, embora os documentos apresentados indiquem vínculo residencial com o imóvel ao longo dos anos, ainda não há elementos suficientes para concluir, em sede de cognição sumária, que a posse exercida pelos agravantes seja autônoma, exclusiva e juridicamente oponível à constrição incidente sobre bem cuja propriedade registral pertence ao executado.
+Os elementos probatórios produzidos até o momento demonstram a permanência dos agravantes no imóvel, mas não esclarecem, de forma segura, se essa ocupação decorre de posse própria com animus
+domini
+ou de mera tolerância decorrente da relação familiar mantida com o proprietário registral. A definição dessa circunstância demanda regular instrução probatória nos embargos de terceiro, não sendo possível, nesta fase processual, afirmar a probabilidade do direito invocado em grau suficiente para justificar a suspensão da constrição.
+Assim, a própria definição acerca de quem pode validamente invocar a proteção legal pretendida, bem como a verificação da existência de posse autônoma e juridicamente oponível exercida pelos agravantes, demanda aprofundamento probatório incompatível com a cognição sumária própria deste momento processual
+Também não procede a alegação de que a decisão agravada teria promovido indevida inversão do ônus da prova ou exigido demonstração exauriente dos fatos alegados. Em juízo de cognição sumária, incumbia aos embargantes apresentar elementos mínimos aptos a evidenciar a probabilidade da posse autônoma afirmada na inicial, ônus do qual, por ora, não se desincumbiram satisfatoriamente, nos termos do artigo 373, inciso I, do Código de Processo Civil.
+Desse modo, os elementos atualmente disponíveis não permitem aferir, com a segurança necessária, o preenchimento dos pressupostos para o reconhecimento da impenhorabilidade pretendida nem para a suspensão imediata da penhora, devendo a matéria ser aprofundada no curso dos embargos de terceiro, mediante adequada dilação probatória.
+Diante do exposto, voto no sentido de
+conhecer e negar provimento ao recurso de agravo de instrumento.Considerando o julgamento concomitante do recurso principal, por conseguinte
+julgo prejudicado o Agravo Interno
+interposto.
