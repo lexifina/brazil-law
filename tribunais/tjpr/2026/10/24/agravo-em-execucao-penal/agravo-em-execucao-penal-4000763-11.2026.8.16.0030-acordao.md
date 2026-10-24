@@ -1,0 +1,45 @@
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. INDULTO COLETIVO. DECRETO Nº 12.790/2025. CRIMES PRATICADOS SEM VIOLÊNCIA OU GRAVE AMEAÇA. SOMA DAS PENAS SUPERIOR A OITO ANOS. NÃO PREENCHIMENTO DO REQUISITO OBJETIVO. REQUISITOS CUMULATIVOS. PREQUESTIONAMENTO. DESNECESSIDADE DE MENÇÃO EXPRESSA AOS DISPOSITIVOS INVOCADOS. RECURSO CONHECIDO E DESPROVIDO.I. CASO EM EXAME1. Agravo em execução penal interposto contra decisão do Juízo da Execução que indeferiu pedido de indulto formulado com fundamento no Decreto nº 12.790/2025. O agravante sustenta que as condenações por delitos patrimoniais praticados sem violência ou grave ameaça atendem aos requisitos objetivos para a concessão do benefício e requer a reforma da decisão.II. QUESTÃO EM DISCUSSÃO2. A questão em discussão consiste em saber se: (a) o agravante preenche o requisito objetivo previsto no art. 9º, I, do Decreto nº 12.790/2025 para a concessão de indulto quanto aos crimes praticados sem violência ou grave ameaça; (b) é aplicável o art. 9º, XV, do referido Decreto, apesar do não preenchimento do limite de pena estabelecido no inciso I; e (c) é necessária a manifestação expressa sobre os dispositivos constitucionais e infraconstitucionais indicados pela defesa para fins de prequestionamento III. RAZÕES DE DECIDIR3.1. O recurso deve ser conhecido, porquanto presentes os pressupostos objetivos e subjetivos de admissibilidade. 3.2. Para a declaração do indulto, as penas correspondentes a infrações diversas devem ser somadas até 25 de dezembro de 2025, conforme estabelece o art. 7º do Decreto nº 12.790/2025. 3.3. O art. 9º, I, do Decreto nº 12.790/2025 restringe a concessão do indulto às pessoas condenadas a pena privativa de liberdade não superior a oito anos por crime praticado sem violência ou grave ameaça, observada a fração de cumprimento correspondente à condição de primário ou reincidente.3.4. A soma das penas impostas ao agravante pelos crimes praticados sem violência ou grave ameaça totaliza onze anos e nove meses, ultrapassando o limite de oito anos estabelecido no ato normativo e afastando o preenchimento do requisito objetivo.3.5. O não preenchimento do requisito previsto no art. 9º, I, impede a aplicação do inciso XV do mesmo artigo, pois os requisitos objetivos e subjetivos para a concessão do indulto são cumulativos.3.6. O julgador não está obrigado a mencionar expressamente todos os dispositivos constitucionais ou legais invocados pela parte para fins de prequestionamento, e a ausência dessa referência não impede a interposição dos recursos cabíveis às instâncias superiores. IV. DISPOSITIVO4. Recurso conhecido e desprovido.DISPOSITIVOS RELEVANTES CITADOS: Decreto nº 12.790/2025, arts. 7º, parágrafo único, e 9º, I e XV. JURISPRUDÊNCIA RELEVANTE CITADA: TJPR, Agravo em Execução Penal nº 4000061-91.2026.8.16.0086, Rel. Ruy A. Henriques, Quinta Câmara Criminal, j. 31.05.2026; TJPR, Apelação Criminal nº 0005940-74.2023.8.16.0112, Rel. Des. Renato Naves Barcellos, Quinta Câmara Criminal, j. 13.05.2024.
+
+I. RELATÓRIO
+Trata-se de agravo em execução interposto por MARCOS MENGER GESSINGER contra decisão proferida pelo Juízo da Execução que, nos autos de execução penal sob o n.º 4000105-61.2021.8.16.0159, indeferiu o pedido de indulto com fulcro no Decreto Presidencial n.º 12.7902025 (mov. 314.1/SEEU).
+Sustenta o agravante, em suas razões recursais (mov. 339.1/SEEU), que o apenado com relação aos delitos patrimoniais praticados sem violência ou grave ameaça, faz jus à concessão do indulto baseada no Decreto, tendo em vista o preenchimento de todos os requisitos objetivos.
+Em contrarrazões, o Ministério Público se manifestou pelo conhecimento e não provimento do recurso (mov. 369.1/SEEU).
+Em juízo de retratação, foi mantida a decisão (mov. 373.1/SEEU).
+A douta Procuradoria-Geral de Justiça emitiu o parecer de mov. 15.1/TJ, manifestando-se pelo conhecimento e desprovimento do recurso.
+É o relatório.
+
+II. VOTO E SUA FUNDAMENTAÇÃO
+Admissibilidade
+Da análise dos pressupostos recursais objetivos (previsão legal, adequação, regularidade, tempestividade, inexistência de fato impeditivo ou extintivo de direito de recorrer) e subjetivos (interesse e legitimidade), o recurso merece conhecimento.
+Mérito
+Da análise dos autos de execução penal n.º 4000105-61.2021.8.16.0159, verifica-se que o apenado MARCOS MENGER GESSINGER cumpre a pena total de 24 (vinte e quatro) anos e 5 (cinco) meses de reclusão, tendo em vista as seguintes condenações proferidas:
+(i) autos de ação penal de n.º 0000341-18.2020.8.16.0159, pela prática do crime de furto, pela pena total de 2 (dois) anos e 8 (oito) meses de reclusão;
+(ii) autos de ação penal de n.º 0027453-58.2020.8.16.0030, pela prática do crime de furto, pela pena total 1 (um) ano e 6 (seis) meses de reclusão;
+(iii) autos de ação penal de n.º 0003343-93.2020.8.16.0159, pela prática do crime de furto, pela pena total de 2 (dois) anos de reclusão;
+(iv) autos de ação penal de n.º 0001324-80.2021.8.16.0159, pela prática do crime de furto, pela pena total de 1 (um) ano e 4 (quatro) meses de reclusão e de roubo, pela pena total de 5 (cinco) anos e 4 (quatro) meses de reclusão;
+(v) autos de ação penal de n.º 0001311-81.2021.8.16.0159, pela prática do crime de furto, pela pena total de 1 (um) ano de reclusão;
+(vi) autos de ação penal de n.º 0007844-21.2022.8.16.0030, pela prática do crime de roubo, pela pena total de 7 (sete) anos e 4 (quatro) meses de reclusão;
+(vii) autos de ação penal de n.º 0001352-19.2019.8.16.0159, pela prática do crime previsto no artigo 303, parágrafo único, do Código Penal, pela pena total de 1 (um) ano e 3 (três) meses de detenção; e
+(viii) autos de ação penal de n.º 0002511-94.2019.8.16.0159, pela prática do crime de furto, pela pena total de 2 (dois) anos de reclusão.
+Pois bem.
+A defesa pretende a reforma da decisão que não concedeu para os crimes patrimoniais sem violência ou grave ameaça o Indulto previsto no Decreto n.º 12.790/2025, sob o argumento de que foram preenchidos os requisitos objetivos previstos na legislação.
+Sem razão.
+O Decreto em questão dispõe que:
+Art. 7º Para fins da declaração do indulto e da comutação de pena, as penas correspondentes a infrações diversas deverão ser somadas até 25 de dezembro de 2025.Parágrafo único. Na hipótese de haver concurso com crime previsto no art. 1º, não será declarado o indulto ou a comutação de pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo.
+Art. 9º Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas:I - à pena privativa de liberdade não superior a oito anos, por crime praticado sem violência ou grave ameaça a pessoa, que tenham cumprido, até 25 de dezembro de 2025, um quinto da pena, se não reincidentes, ou um terço da pena, se reincidentes;
+In casu, a pena total de crimes praticados sem violência ou grave ameaça é superior a 8 (oito) anos, uma vez que totalizam 11 (onze) anos e 9 (nove) meses.
+Assim, constata-se que o apenado não preencheu o requisito objetivo previsto pelo Decreto em questão, nos termos do artigo 9º, inciso I, do referido Decreto-Lei: “I - à pena privativa de liberdade não superior a oito anos, por crime praticado sem violência ou grave ameaça a pessoa, que tenham cumprido, até 25 de dezembro de 2025, um quinto da pena, se não reincidentes, ou um terço da pena, se reincidentes”.
+Isso posto, diante do não preenchimento do requisito objetivo previsto no Decreto Presidencial de 2025, incabível a concessão de indulto, devendo a decisão atacada ser mantida.
+Tendo em vista o não preenchimento do artigo 9º, inciso I, do Decreto, não há que se falar em aplicação do inciso XV, pois os requisitos objetivos e subjetivos para aplicação do indulto são cumulativos.
+Nesse sentido:
+“(...) A concessão de indulto previsto no Decreto nº 12.790/2025 exige o preenchimento cumulativo dos requisitos objetivos e subjetivos, sendo a condição de foragido e a soma das penas que ultrapassam os limites legais impeditivos para a fruição do benefício” (abreviei e destaquei).(TJPR - 5ª Câmara Criminal - 4000061-91.2026.8.16.0086 - * Não definida - Rel.: RUY A. HENRIQUES - J. 31.05.2026).
+Do prequestionamento
+Também não é o caso de acolher a intenção da defesa técnica de prequestionamento da matéria constitucional e infraconstitucional suscitada, uma vez que essa medida não é necessária.
+Além de o julgador não estar obrigado a mencionar os artigos de lei citados nas alegações ou nas razões recursais com vistas ao prequestionamento, a sua falta não é motivo a impedir a imposição do recurso cabível às instâncias superiores.
+A respeito:
+“(...) PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS E CONSTITUCIONAIS – DESNECESSIDADE –
+ RECURSO NÃO PROVIDO, COM REDUÇÃO, DE OFÍCIO, DA PENA.” (abreviei e destaquei). (TJPR - 5ª Câmara Criminal - 0005940-74.2023.8.16.0112 - Marechal Cândido Rondon -
+ Rel.: DESEMBARGADOR RENATO NAVES BARCELLOS -
+ J. 13.05.2024).
+Conclusão
+Pelo exposto, voto no sentido de conhecer e negar provimento ao recurso, mantendo a decisão inalterada.
