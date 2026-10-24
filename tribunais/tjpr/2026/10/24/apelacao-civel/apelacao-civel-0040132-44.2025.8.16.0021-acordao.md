@@ -1,0 +1,86 @@
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. “AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS POR COBRANÇA INDEVIDA DE TARIFAS BANCÁRIAS”. 1. PRELIMINAR DE CONTRARRAZÕES. IMPUGNAÇÃO À ASSISTÊNCIA JUDICIÁRIA GRATUITA. NÃO ACOLHIMENTO. INEXISTÊNCIA DE PROVA DE QUE O REQUERENTE POSSUI CONDIÇÕES DE ARCAR COM O PAGAMENTO DAS CUSTAS E DESPESAS PROCESSUAIS. 2. CESTA DE SERVIÇOS BANCÁRIOS. "CESTA B. EXPRESSO 4". POSSIBILIDADE DE COBRANÇA. PACTUAÇÃO ENTRE AS PARTES. REPETIÇÃO DO INDÉBITO E INDENIZAÇÃO POR DANO MORAL. DESCABIMENTO. SENTENÇA MANTIDA. 3. SUCUMBÊNCIA. MANUTENÇÃO DO ÔNUS.
+1. De acordo com a jurisprudência, é possível a revogação do benefício de assistência judiciária gratuita após a impugnação da parte contrária caso se verifique a inexistência ou a modificação da situação de miserabilidade econômica hábil a justificar o deferimento, o que não ocorreu no caso.
+2. Conforme entendimento pacífico desta Câmara, é lícita a cobrança por instituições financeiras de tarifas pelos serviços bancários prestados, sendo exigível a partir de 30 de abril de 2008, nos termos da Resolução CMN 3.518/2007, expressa previsão contratual ou solicitação do serviço pelo cliente.
+
+3. O ônus de sucumbência deve ser distribuído considerando o aspecto quantitativo e o jurídico em que cada parte decai de suas pretensões.
+
+Apelação Cível não provida.
+
+1. Trata-se de recurso de apelação interposto por Manoel Moises Ferreira de Souza, em face de sentença proferida nos autos de
+“ação de indenização por danos materiais e morais por cobrança indevida de tarifas bancárias”, a qual julgou improcedente a ação e condenou a parte autora ao pagamento das custas processuais, bem como ao pagamento dos honorários advocatícios, esses fixados em 10% (dez por cento) sobre o valor atualizado da causa (desde o ajuizamento, cf. Súmula 14/STJ), pelo IPCA, acrescido de juros (Selic deduzida do IPCA) a partir do da intimação para pagamento, sendo que a exigibilidade dos encargos sucumbenciais devidos pela parte autora fica vinculada à hipótese do art. 98, §3º, do CPC, por ser beneficiária da assistência judiciária gratuita (mov. 38).
+
+Insurge-se o apelante pela reforma da sentença, alegando em síntese (mov.42): a)
+que o Apelado cobra mensalmente a taxa de " Cesta B. Expresso " sem que o Apelante tenha usufruído de qualquer serviço fora do padrão gratuito; b) que a A Resolução nº 3.919/2010 do Conselho Monetário Nacional (CMN) veda a cobrança de tarifas de pacotes de serviços bancários que fiquem adstritos aos serviços essenciais e básicos da pessoa física; c) que utiliza a conta apenas para o recebimento de seu benefício alimentar; d) que a Resolução
+exige que a contratação de pacotes específicos exige instrumento contratual próprio, devidamente individualizado e precificado, o que não ocorreu, havendo apenas o termo genérico e embutido de abertura de conta; e) que não há nos autos documento em separado demonstrando quais tarifas estariam sendo contratadas; f) que o único documento supostamente relacionado a contratação das tarifas foi assinado juntamente com o contrato de abertura de conta e contrato de seguro, se tratando de
+venda casada; g) que o Contrato de Abertura de Conta
+não se presta a comprovação da anuência da parte às tarifas que estão sendo descontadas em sua conta, pois não individualiza nem precifica quais tarifas poderão ser cobradas, a quais serviços elas se referem nem o valor que efetivamente será descontado; h) que a conduta do banco réu configura imposição unilateral de obrigação não solicitada, prática vedada pelo artigo 39, inciso III, do Código de Defesa do Consumidor; i) que os valores descontados indevidamente devem ser repetidos em dobro; j) que a falha da prestação de serviços implica na responsabilização do fornecedor, devendo responder objetivamente pelos danos morais, no valor de R$ 20.000,00 (vinte mil reais), sofridos com o desconto indevido do benefício previdenciário. Por fim, requer a inversão do ônus sucumbencial, condenando a instituição financeira ao pagamento de custas e honorários advocatícios no patamar de 20% sobre o valor atualizado da condenação.
+
+O apelado apresentou contrarrazões (mov.46) e
+impugnou a assistência a concessão da justiça gratuita.
+
+É o relatório.
+
+2.
+Preliminar. Contrarrazões. Assistência Judiciária
+Impugna o réu o deferimento da assistência judiciária gratuita ao autor, ao fundamento de que ausente a prova de hipossuficiência financeira.
+
+Em que pese a argumentação apresentada, sem razão a parte.
+
+Como se sabe, a assistência judiciária gratuita é um direito fundamental previsto no art. 5º, inciso LXXIV, da Constituição Federal, que dispõe que o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos.
+
+No caso, extrai-se do exame dos autos que a assistência foi inicialmente deferida à patê autora no mov. 16e o réu, por sua vez, limitou-se a impugnar o deferimento em sua contestação (mov. 19), sem apresentar qualquer prova que afastasse a hipossuficiência financeira do requerente.
+
+Na sequência, foi mantido o deferimento do benefício na sentença e novamente o réu impugna essa manutenção, sem trazer qualquer prova da modificação da situação econômica do autor desde a concessão inicial da benesse.
+
+Sobre a questão, já se pronunciou o C. Superior Tribunal de Justiça:
+(...) 1. De acordo com a jurisprudência do STJ, é possível a revogação do benefício de assistência judiciária gratuita, seja após a impugnação da parte contrária, seja de ofício pelo magistrado, caso se verifique a inexistência ou a modificação da situação de miserabilidade econômica hábil a justificar o deferimento da referida benesse. (...) (AgInt no REsp 1743428/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/05/2019, DJe 28/05/2019)
+
+Como se vê, a revogação da assistência judiciária gratuita somente é admissível se comprovado o desaparecimento dos requisitos/pressupostos que permitiram a sua concessão. Vale dizer, se vierem aos autos elementos aptos a demonstrarem ter ocorrido relevante alteração nas condições financeiras do beneficiário, o que não ocorreu na hipótese dos autos.
+
+Portanto, considerando que o réu não se desincumbiu do ônus de comprovar a modificação da capacidade financeira do autor para arcar com as custas do processo sem prejuízo do próprio sustento, deve ser mantida a sentença nesta parte.
+No mais, presentes os requisitos e pressupostos de admissibilidade, conheço do recurso.
+
+Da legalidade da tarifa
+
+Pretende o apelante a reforma da sentença, a fim de que seja considerada ilegal e abusiva a cobrança da
+"CESTA B. EXPRESSO 4".
+
+Conforme entendimento pacífico desta Câmara, é lícita a cobrança por instituições financeiras de tarifas pelos serviços bancários prestados, sendo necessário a partir de 30 de abril de 2008, nos termos da com a Resolução CMN 3.518/2007, expressa previsão contratual ou solicitação do serviço pelo cliente.
+
+Nesse sentido, a Súmula 44 deste eg. Tribunal de Justiça do Estado do Paraná:
+
+A cobrança de tarifas e taxas pela prestação de serviços por instituição financeira deve ser prevista no contrato ou expressa e previamente autorizada ou solicitada pelo correntista, ainda que de forma genérica.
+
+No caso, analisando os documentos acostados aos autos pela instituição financeira, sobretudo
+aqueles constantes do mov. 19.2, é possível aferir que o autor ao contratar a “Ficha-Proposta de Abertura de Conta de Depósito Pessoa Física” em 21/02/2020, também autorizou a cobrança de tarifas e taxas, especialmente a "CESTA B. EXPRESSO 4", por meio do “Termo de Opção à Cesta de Serviços Bradesco Expresso” constando expressamente o serviço contratado. Vale destacar
+(mov. 19.2 - PDF 6):
+
+Importe registrar, que os documentos estão devidamente assinados pelo autor (mov. 19.2), e não houve impugnação específica da assinatura
+quando da apresentação do documento pelo réu na contestação (mov. 22), o que era de rigor.
+
+Dessa forma, a prova produzida nos autos demonstra a legalidade da cobrança referente ao serviço questionado, pois devidamente contratado pela parte autora.
+
+Cumpre ainda ressaltar, que tendo a própria parte autora contratado referido serviço, é fato que detinha conhecimento sobre a sua prestação, não havendo qualquer ofensa ao artigo 6º, inciso III do CDC, razão pela qual não há que se falar em descumprimento do dever de informação do consumidor.
+
+Ademais, embora insista o recorrente na tese de nulidade por se tratar de contrato de adesão, tal fato, por si só, não é suficiente para afastar a cobrança da tarifa expressamente pactuada. O art. 54 do Código de Defesa do Consumidor não estabelece a invalidade das obrigações previstas em contratos de adesão, mas disciplina sua forma e interpretação, exigindo, notadamente, clareza e destaque para as cláusulas que impliquem limitação de direitos.
+No caso dos autos, a tarifa encontra-se expressamente prevista no instrumento contratual, tendo o contratante aderido às condições previamente estabelecidas, inexistindo comprovação
+de obscuridade, ambiguidade, ausência de informação ou qualquer outro vício de consentimento capaz de comprometer a validade da disposição contratual.
+Veja-se ainda, que a incidência do art. 47 do CDC tampouco conduz à conclusão pretendida pela parte autora, uma vez que a regra de interpretação mais favorável ao consumidor não se confunde com presunção de invalidade das cláusulas de contratos de adesão.
+Logo, deve ser mantida a cobrança questionada.
+Sobre a controvérsia, a jurisprudência desta Corte em casos semelhantes:
+
+DIREITO CIVIL E DO CONSUMIDOR. APELAÇÕES CÍVEIS. AÇÃO REVISIONAL DE CONTA CORRENTE COM PEDIDO DE REPETIÇÃO DO INDÉBITO. SENTENÇA DE PARCIAL PROCEDÊNCIA. IRRESIGNAÇÃO DE AMBAS AS PARTES. RECURSO DE APELAÇÃO 1. INTERPOSTO PELO AUTOR. CAPITALIZAÇÃO DE JUROS. AUSÊNCIA DE PACTUAÇÃO EXPRESSA NO CONTRATO DE CONTA CORRENTE. DOCUMENTO GENÉRICO ELETRÔNICO (CONDIÇÕES GERAIS) SEM ASSINATURA DO CORRENTISTA. INSUFICIÊNCIA PARA DEMONSTRAR A CONTRATAÇÃO. SÚMULA 539 DO SUPERIOR TRIBUNAL DE JUSTIÇA. EXPURGO DEVIDO. CESTA DE RELACIONAMENTO. PREVISÃO NA PROPOSTA DE ABERTURA DE CONTA. SÚMULA 44 DO TJPR. IMPROCEDÊNCIA MANTIDA. SEGUROS CONVÊNIO HDI E CONVÊNIO ICATU. CONTRATAÇÃO EM DOCUMENTOS APARTADOS. LIBERDADE DE ESCOLHA DEMONSTRADA. TEMA 972 DO STJ. VENDA CASADA NÃO CONFIGURADA. RECURSO PARCIALMENTE PROVIDO.RECURSO DE APELAÇÃO 2. INTERPOSTO PELA REQUERIDA. JULGAMENTO ULTRA PETITA. CONDENAÇÃO À RESTITUIÇÃO DE TARIFAS NÃO IMPUGNADAS NA INICIAL. EXCLUSÃO. SEGURO PRESTAMISTA. VENDA CASADA NÃO CONFIGURADA. CONTRATAÇÃO EM DOCUMENTO APARTADO. TEMA 972 DO STJ. READEQUAÇÃO DA SUCUMBÊNCIA. NECESSIDADE. RECURSO PROVIDO.I. Caso em exame1. Apelação Cível interposta por ambas as partes contra sentença que julgou parcialmente procedentes os pedidos iniciais em Ação Revisional de Conta Corrente com Pedido de Repetição do Indébito.II. Questões em discussão2. Há seis questões em discussão: (I) saber se é devida a capitalização de juros na conta corrente diante da ausência de pactuação expressa; (II) saber se é legal a cobrança da tarifa Cesta de Relacionamento; (III) saber se a contratação dos seguros Convênio HDI e Convênio Icatu configura venda casada; (IV) saber se a sentença incorreu em julgamento ultra petita ao condenar a requerida à restituição de tarifas não impugnadas na inicial; (V) saber se a contratação de seguro prestamista configura venda casada; (VI) saber se é necessária a readequação da sucumbência.III. Razões de decidir3. A capitalização de juros exige pactuação expressa, nos termos da Súmula 539 do Superior Tribunal de Justiça. O documento genérico eletrônico, não assinado pelo correntista, é insuficiente para demonstrar a contratação da capitalização na conta corrente revisada.4. A cobrança de Cesta de Relacionamento é válida quando prevista na proposta de abertura de conta assinada pelo correntista, nos termos da Súmula 44 do Tribunal de Justiça do Paraná.5. Os seguros Convênio HDI e Convênio Icatu foram contratados em documentos apartados, demonstrando liberdade de escolha do consumidor, não configurando venda casada, conforme Tema 972 do Superior Tribunal de Justiça.6. A sentença incorreu em julgamento ultra petita ao condenar à restituição de tarifas denominadas serviços de terceiros, serviço correspondente não bancário e tarifa genérica, que não foram objeto de impugnação na inicial.7. A contratação de seguro prestamista também não configura venda casada, pois realizada em instrumento apartado.8. Diante da reforma parcial da sentença, impõe-se a readequação dos ônus sucumbenciais.IV. Dispositivo e tese9. Recurso de Apelação 1 parcialmente provido e Recurso de Apelação 2 provido.Teses de julgamento: 1. A capitalização de juros em contrato de conta corrente exige pactuação expressa, sendo insuficiente documento genérico não assinado pelo correntista. 2. A cobrança de tarifa de pacote de serviços é válida quando prevista, ainda que genericamente, na proposta de abertura de conta. 3. A apresentação de documento em apartado, com descrição pormenorizada das condições do seguro e a assinatura do segurado, mostra que houve o resguardo da dupla liberdade ao consumidor, afastando, por conseguinte, a tese da venda casada. 4. A condenação à restituição de tarifas não impugnadas na inicial e reconhecidas como legais na fundamentação configura julgamento ultra petita.___________Dispositivos relevantes citados: CPC, arts. 85, 322, §2º, e 492.Jurisprudência relevante citada: Súmula 539/STJ; TJPR - 15ª Câmara Cível - 0021657-03.2021.8.16.0014 - Londrina - Rel.: DESEMBARGADORA DENISE KRUGER PEREIRA - J. 28.03.2026; Súmula 44/TJPR; TJPR - 15ª Câmara Cível - 0024841-98.2020.8.16.0014 - Londrina - Rel.: DESEMBARGADOR JUCIMAR NOVOCHADLO - J. 21.03.2026; Tema 972/STJ; STJ, REsp n. 1.639.320/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 12/12/2018, DJe de 17 /12/2018; TJPR - 15ª Câmara Cível - 0014004-21.2024.8.16.0021 - Cascavel - Rel.: DESEMBARGADORA DENISE KRUGER PEREIRA - J. 06.12.2025; TJPR - 15ª Câmara Cível - 0015305-78.2025.8.16.0017 - Maringá - Rel.: DESEMBARGADOR LUIZ CARLOS GABARDO - J. 28.02.2026 (TJPR - 15ª Câmara Cível - 0005627-14.2024.8.16.0069 - Cianorte -
+ Rel.: DESEMBARGADORA DENISE KRUGER PEREIRA -
+ J. 20.06.2026) (grifado)
+
+APELAÇÃO CÍVEL 1 (AUTOR) e 2 (COOPERATIVA RÉ). AÇÃO REVISIONAL. CONTRATOS DE ABERTURA DE CONTA CORRENTE E CHEQUE ESPECIAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. INOVAÇÃO RECURSAL. TESES DEDUZIDAS PELA RÉ EM CONTRARRAZÕES. REJEIÇÃO. NULIDADE DA DECISÃO POR CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. PRESCRIÇÃO. PRAZO TRIENAL. NÃO APLICAÇÃO. JUROS REMUNERATÓRIOS. LIMITAÇÃO AOS ÍNDICES CONTRATADOS. IMPOSSIBILIDADE. JUROS FLUTUANTES. PACTUAÇÃO. TAXAS E TARIFAS. CONTRATAÇÃO EXPRESSA. LEGALIDADE. SEGURO PRESTAMISTA. PACTUAÇÃO NÃO VERIFICADA. COMPENSAÇÃO DE VALORES. POSSIBILIDADE. SENTENÇA PARCIALMENTE REFORMADA.1. Não há violação ao princípio da dialeticidade, quando a parte recorrente, a despeito de repetir os argumentos já formulados no processo, impugnar os fundamentos adotados na decisão recorrida.2. Não há inovação recursal, quando as razões do apelo estiverem atreladas às controvérsias estabelecidas na ação.3. O julgamento antecipado da lide não caracteriza cerceamento de defesa, quando os elementos constantes dos autos forem suficientes para a resolução das controvérsias.4. O pleito de revisão contratual possui natureza pessoal, de modo que prescreve em 10 (dez) anos, conforme o artigo 205, do Código Civil.5. Não se mostra possível limitar os juros remuneratórios aos índices contratados nos casos em que a possibilidade de variação desses encargos (índices flutuantes) estiver expressamente pactuada.6. De acordo com a Súmula n.º 44, do TJPR, “A cobrança de tarifas e taxas pela prestação de serviços por instituição financeira deve ser prevista no contrato ou expressa e previamente autorizada ou solicitada pelo correntista, ainda que de forma genérica”.7. A cobrança de seguro prestamista depende de contratação expressa e de autorização para desconto em conta corrente, de maneira que, ausentes esses requisitos, deve ser restituído o montante exigido.8. Preenchidos os requisitos do artigo 368, do Código Civil, admite-se a compensação de valores.9. Apelação Cível 1 conhecida e não provida. Apelação Cível 2 conhecida e parcialmente provida. (TJPR - 15ª Câmara Cível - 0005526-87.2023.8.16.0173 - Umuarama -
+ Rel.: DESEMBARGADOR LUIZ CARLOS GABARDO -
+ J. 07.12.2024)
+
+Portanto, diante da legalidade da cobrança referente ao serviço denominado “"CESTA B. EXPRESSO 4", descabido o pleito de repetição dos valores cobrados, bem como o pedido de indenização por danos morais.
+
+Logo, deve ser mantida a sentença que julgou improcedente a demanda.
+
+Por fim, face o desprovimento do recurso, deve ser mantido o ônus de sucumbência nos mesmos termos da sentença. Outrossim, necessária a majoração dos honorários recursais, nos termos do artigo 85, §11, do CPC, os quais fixa-se, definitivamente, em 11% sobre o valor atualizado da causa, devendo ser observada a concessão da gratuidade da justiça à parte autora.
+
+4. Diante do exposto, nega-se provimento ao recurso, com majoração recursal dos honorários advocatícios, nos termos da fundamentação.
