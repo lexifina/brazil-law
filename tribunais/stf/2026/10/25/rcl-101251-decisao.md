@@ -1,0 +1,71 @@
+Decisão
+
+Trata-se de Reclamação ajuizada contra ato do Tribunal de Justiça do Estado do Piauí, “em ordem a garantir a autoridade ao Precedente decorrente do julgamento do Recurso Especial, Tema n. 1.199, representativo de repercussão geral”. Na petição inicial, alega-se, em síntese:
+
+[...] o Egrégio Tribunal de Justiça por meio de decisão ID 30095933, deliberou por negar seguimento ao Recurso Especial interposto, com base no Artigo 1.030, I, “A” do CPC por entender que o Acórdão recorrido estava em conformidade com entendimento formado no Supremo Tribunal Federal em sede de Recurso Repetitivo consubstanciado no Tema 1.199, STF.
+[...]
+Na espécie, a conduta dolosa do recorrido restou suficientemente demonstrada pelo conjunto probatório constante dos autos, em consonância com a orientação firmada pelo Supremo Tribunal Federal no julgamento do Tema 1.199 da repercussão geral, que reafirmou a exigência de dolo para a responsabilização por atos de improbidade administrativa, afastando a suficiência da mera voluntariedade do agente.
+Embora o referido precedente tenha sido firmado no âmbito da improbidade administrativa, sua invocação deve respeitar os limites de sua tese, servindo, no presente contexto, para reforçar a necessidade de demonstração concreta do elemento subjetivo, sem confundir os requisitos próprios da responsabilidade por improbidade com aqueles exigidos para a configuração do ilícito penal.
+Nesse contexto, o dolo exigido para a configuração do delito previsto no art. 89 da Lei nº 8.666/1993 deve ser aferido a partir das circunstâncias concretas da conduta, não sendo possível presumir sua existência exclusivamente em razão da irregularidade do procedimento.
+No caso, contudo, o conjunto probatório demonstra que o recorrido, ciente de sua condição de gestor público e das exigências inerentes à realização de despesas administrativas, promoveu o fracionamento das contratações, afastando deliberadamente a realização de procedimento licitatório, sem apresentar justificativa plausível para a dispensa ou inexigibilidade do certame.
+[...]
+Desse modo, a conduta dolosa restou comprovada por elementos objetivos extraídos do acervo probatório, em consonância com a necessidade de demonstração concreta do elemento subjetivo ressaltada pelo Supremo Tribunal Federal no Tema 1.199 da repercussão geral.
+[...]
+Restou, portanto, suficientemente evidenciado o dolo necessário à responsabilização penal, nos limites dos elementos objetivos e subjetivos do tipo previsto no art. 89 da Lei nº 8.666/1993.
+[...]
+
+Em razão disso, requer-se a procedência da reclamação, “cassando a decisão monocrática e colegiada que negou seguimento ao Recurso Especial no processo nº 0000164-72.2020.8.18.0135, reconhecendo-se o descumprimento da tese firmada no Tema 1.199 e seja determinada a remessa imediata dos autos ao Supremo Tribunal Federal, para prosseguimento do recurso”.
+É o relatório. Decido.
+
+A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõe o art. 102, I, l, e o art. 103-A, caput e § 3º, ambos da Constituição Federal:
+
+“Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+[...]
+l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;”
+
+“Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+[...]
+§ 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.”
+
+Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;”
+
+A respeito do cabimento da Reclamação para o SUPREMO TRIBUNAL FEDERAL, dispõem o art. 102, I, "l", e o art. 103-A, caput e §3º, ambos da Constituição Federal:
+
+Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+
+Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+[...]
+§3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+
+Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I – preservar a competência do tribunal;
+II – garantir a autoridade das decisões do tribunal;
+III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+
+No presente caso, a parte reclamante apontou como ato reclamado o acórdão proferido no julgamento de Agravo Interno interposto contra decisão que negou seguimento a Recurso Especial, cuja ementa registra:
+
+AGRAVO INTERNO. JUÍZO DE ADMISSIBILIDADE. RECURSO ESPECIAL. APLICAÇÃO DO TEMA Nº 1.199 DO STF. ALEGAÇÃO DE DISTINÇÃO. DOLO ESPECÍFICO NÃO COMPROVADO. PRETENSÃO DE REEXAME DO CONJUNTO PROBATÓRIO. DISTINÇÃO NÃO CONFIGURADA. RECURSO DESPROVIDO [...].
+
+Assim, não se verifica o esgotamento das instâncias recursais na origem, requisito indispensável ao cabimento da presente reclamação. Isso porque o ato impugnado diz respeito ao juízo de admissibilidade de recurso especial, não havendo sequer notícia da interposição de recurso extraordinário e de sua inadmissão pelo Tribunal de origem com fundamento na sistemática da repercussão geral.
+Ressalto que, quando suscitada a inobservância de repercussão geral, a jurisprudência da SUPREMA CORTE é firme no sentido de se exigir o percurso de todo o iter processual, ultimado na interposição de agravo interno contra a decisão que nega seguimento a Recurso Extraordinário (art. 1.030, I e § 2º, do CPC).
+Conforme prescreve o art. 988, § 5º, II, do CPC, o esgotamento dos meios recursais a quo é pressuposto para o cabimento da Reclamação, quando tem por fundamento a exigência de respeito a precedente julgado por esta SUPREMA CORTE, em regime de Repercussão Geral (Rcl 23.476-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 18/8/2016; Rcl 25.446, Rel. Min. MARCO AURÉLIO, DJe de 1º/3/2017; Rcl 25.523, Rel. Min. DIAS TOFFOLI, DJe de 14/2/2017; Rcl 23.337,Rel. Min. ROSA WEBER, DJe de 25/11/2016).
+Desse modo, “o esgotamento da instância ordinária somente se concretiza após o julgamento de agravo de interno manejado contra a decisão da Presidência ou Vice-Presidência da Corte que, no exame de admissibilidade do recurso extraordinário, aplica a sistemática da repercussão geral, nos termos do art. 1.030 e § 2º, do CPC/2015” (Rcl 43.709 AgR, Rel. Min. ROSA WEBER, Primeira Turma, julgado em 11/11/2020), o que nitidamente não ocorreu no presente caso.
+Esta CORTE teve a oportunidade de afirmar que a Reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013).
+Diante do exposto, nos termos do art. 21, IX, do Regimento Interno do STF, NEGO SEGUIMENTO À RECLAMAÇÃO.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 25 de outubro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
