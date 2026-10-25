@@ -1,0 +1,86 @@
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. HOMOLOGAÇÃO DE VALOR SOB PREMISSA EQUIVOCADA. ERROR IN JUDICANDO. QUANTUM QUE ABRANGE HONORÁRIOS SUCUMBENCIAIS JÁ DESMEMBRADOS PARA AUTOS APARTADOS. DUPLICIDADE. MEMÓRIA DE CÁLCULO NÃO EXAMINADA NA ORIGEM. CASSAÇÃO DA SENTENÇA E RETORNO À ORIGEM. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1.1. Apelação contra sentença que acolheu impugnação ao cumprimento de sentença, homologou o valor de R$ 21.465,23 e extinguiu a execução pelo pagamento, com fundamento no art. 924, II, do CPC.
+1.2. Sustenta a instituição financeira a existência de excesso de execução e requer a reforma da sentença, com acolhimento da impugnação, ou, subsidiariamente, a anulação da sentença.
+II. QUESTÕES EM DISCUSSÃO
+2.1. Definir se a sentença incorreu em erro ao extinguir o feito pelo pagamento, sem analisar completamente a impugnação ao cumprimento de sentença e a memória de cálculo apresentada pelo executado.
+
+III. RAZÕES DE DECIDIR
+3.1. Decisão anterior determinou a cobrança dos honorários sucumbenciais em autos apartados, restringindo o presente feito à obrigação principal.
+3.2. A sentença julgou a partir de premissa dissociada dos autos — a de que o valor homologado traduziria a obrigação principal —, quando reincorporou verba honorária já desmembrada, incidindo em error in judicando na apreciação do objeto da execução.
+3.3. A homologação apoiou-se na leitura da conclusão da impugnação com erro material e na adesão do credor, sem exame da memória de cálculo, que não foi apreciada nem na sentença nem na decisão dos embargos de declaração.
+3.4. Comprometida a premissa que sustenta o julgado, e não sendo o valor exato liquidável de imediato, o processo não está em condições de julgamento direto do quantum, impondo-se a cassação da sentença, com retorno à origem.
+IV. DISPOSITIVO E TESE
+4.1. Recurso conhecido e parcialmente provido para cassar a sentença.
+
+RELATÓRIO
+Trata-se de Cumprimento de Sentença promovido por JOSE ALDIN DE OLIVEIRA contra PARANÁ BANCO S/A, nos autos da Ação Declaratória de Nulidade/Inexigibilidade de Desconto em Benefício Previdenciário c/c Repetição de Indébito e Indenização por Danos Morais nº 0040719-71.2022.8.16.0021, através da qual o exequente pretende a satisfação da condenação imposta à instituição financeira. No mov. 82.1, o exequente iniciou o cumprimento de sentença, apresentando memória de cálculo e indicando crédito total de R$ 21.465,23, composto por R$ 3.410,43 relativos aos danos materiais, após a compensação de R$ 1.637,15, R$ 14.477,26 referentes aos danos morais e R$ 3.577,54 correspondentes aos honorários sucumbenciais, conforme planilhas dos movs. 82.2 a 82.4.
+No mov. 84.1, o Juízo determinou que a execução dos honorários sucumbenciais fosse promovida em autos apartados e recebeu o cumprimento relativo à obrigação principal. A parte exequente informou, no mov. 93.1, ter distribuído separadamente o pedido de cumprimento dos honorários, e, após nova intimação, esclareceu no mov. 98.1 que as planilhas referentes à obrigação principal já se encontravam nos movs. 82.2 e 82.3.
+A executada apresentou impugnação ao cumprimento de sentença no mov. 106.1. Sustentou excesso de execução, afirmando que o cálculo do exequente havia deixado de compensar o valor relacionado ao contrato nº 58030434925-331, indicado como R$ 498,17 na fundamentação da peça, além de não ter atualizado os valores sujeitos à compensação. Na mesma manifestação, consignou que o “real valor devido ao exequente” seria de R$ 21.465,23, requereu o levantamento desse montante em favor do credor e a restituição de R$ 3.687,85 à executada e o acolhimento da impugnação, com fundamento no art. 525 do CPC.
+
+O exequente, no mov. 107.1, manifestou concordância com os cálculos apresentados pela executada e requereu a expedição de alvará para levantamento dos valores depositados.
+Após regular tramitação do feito, sobreveio sentença nos seguintes termos (mov. 113.1):
+“Ante o exposto, diante da concordância da parte exequente com os valores apresentados pelo executado, ACOLHO A IMPUGNAÇÃO apresentada, reconhecendo como devido o valor de R$ 21.465,23, e JULGO EXTINTA a execução com fundamento no artigo 924, II, do NCPC.
+No caso em tela, diante do integral acolhimento da impugnação, deve a parte exequente/impugnada pagar honorários em favor da parte executada/impugnante.
+Considerando o deferimento da impugnação, condeno o exequente ao pagamento das custas processuais relativas ao incidente, e de honorários advocatícios que arbitro em R$ 1.000,00, levando-se em consideração tratar-se de causa de menor complexidade, repetitiva e de simples resolução, da desnecessidade de dilação probatória e da sua rápida tramitação, do zelo e da qualidade do trabalho profissional do patrono da executada/impugnante, à luz do artigo 85, § 2º do Código de Processo Civil de 2015. Resta suspensa, no entanto, a exigibilidade dos encargos sucumbenciais, tendo-se em conta que a parte litiga sob o pálio da AJG.
+[...]
+Declaro EXTINTO o presente processo em virtude do cumprimento da obrigação, nos termos do artigo 924, inciso II, do CPC.”
+Embargos de Declaração foram opostos pela parte executada no mov. 117.1, os quais foram contrarrazoados no mov. 122.1 e rejeitados pelo Juízo de primeiro grau através do mov. 124.1.
+
+Inconformada, a parte executada PARANÁ BANCO S/A interpôs o presente Recurso de Apelação no mov. 128.1, em cujas razões sustenta, em síntese, que:
+a)- deve ser atribuído efeito suspensivo ao recurso, pois a probabilidade de provimento decorreria da incompatibilidade entre a fundamentação da impugnação, a memória de cálculo, o pedido de restituição do excesso e a frase isolada que indicou como devido o valor de R$ 21.465,23. O perigo de dano estaria na possibilidade de expedição de alvará e levantamento de montante superior ao que entende devido, antes do julgamento do recurso;
+b)- o Juízo de origem interpretou isoladamente o trecho da impugnação no qual constou que o “real valor devido ao exequente” era de R$ 21.465,23 e desconsiderou o conteúdo integral da manifestação. Afirma que a impugnação foi apresentada precisamente para demonstrar excesso de execução, tendo indicado divergências nos parâmetros de cálculo, ausência de compensação integral e incorreta atualização dos valores compensáveis;
+c)- a indicação de R$ 21.465,23 como montante devido decorreu de mero erro material de redação, pois, segundo afirma, a memória de cálculo apontava o valor de R$ 17.777,38 e excesso de R$ 3.687,85. Acrescenta que não pretende inovar em sede recursal nem modificar os pedidos formulados, mas apenas obter o reconhecimento do sentido que atribui ao conjunto da impugnação;
+d)- a interpretação da manifestação processual deve considerar a integralidade da postulação e observar a boa-fé, conforme o art. 322, § 2º, do CPC. Alega que a fundamentação, a memória de cálculo, a planilha e o pedido de restituição demonstram a existência do excesso, ao passo que apenas uma frase teria mencionado equivocadamente o valor de R$ 21.465,23 como devido;
+e)- sustenta que seria logicamente incompatível impugnar determinado valor, apresentar memória de cálculo e pedir a devolução da diferença e, simultaneamente, reconhecer como devido o próprio montante impugnado;
+Por tais razões, pugnou pelo conhecimento e provimento do recurso para o fim de: a)- atribuir-lhe efeito suspensivo, impedindo a expedição de alvará ou o levantamento de valores até o julgamento definitivo; b)- reformar integralmente a sentença; c)- reconhecer que a impugnação ao cumprimento de sentença continha mero erro material de redação; d)- declarar como efetivamente devido o valor de R$ 17.777,38; e)- reconhecer o excesso de execução no importe de R$ 3.687,85; f)- autorizar o levantamento apenas da quantia que considera devida, com restituição do excedente à executada; g)- subsidiariamente, anular a sentença para que outra seja proferida, com apreciação do erro material suscitado nos embargos de declaração; e h)- condenar o recorrido ao pagamento das custas processuais e dos honorários recursais, na forma do art. 85, § 11, do CPC.
+Contrarrazões foram apresentadas pela parte exequente JOSE ALDIN DE OLIVEIRA no mov. 136.1.
+Após, vieram os autos conclusos para análise e julgamento.
+É o relatório.
+
+FUNDAMENTAÇÃO E VOTO
+ADMISSIBILIDADE
+O recurso é cabível, tempestivo e foi devidamente preparado, conforme mov. 128.2 e 128.3.
+
+Ainda no plano da admissibilidade, cumpre examinar o pedido de atribuição de efeito suspensivo, formulado com apoio na probabilidade de provimento e no risco de levantamento de quantia superior à devida.
+
+Tal pretensão não comporta conhecimento.
+Isso porque a apelação, como regra, é dotada de efeito suspensivo automático, à luz do art. 1.012, caput, do Código de Processo Civil. As exceções em que o recurso produz efeitos imediatos estão taxativamente arroladas no § 1º do mesmo dispositivo, entre as quais não se enquadra a sentença que acolhe impugnação e extingue o cumprimento de sentença pelo pagamento.
+
+Não se trata, aqui, de sentença que rejeita a impugnação do executado, hipótese que autorizaria a execução provisória; ao contrário, o pronunciamento foi favorável a executada no plano formal, de modo que a apelação por ela interposta suspende, por força de lei, a eficácia do julgado.
+Registre-se, por outro lado, que o efeito suspensivo legal recai sobre a eficácia da sentença e sobre a parcela efetivamente controvertida, não impedindo que o Juízo de origem examine, se assim entender cabível, a liberação da quantia reconhecida por ambas as partes como incontroversa, tema que extrapola os limites deste julgamento.
+Por essas razões, não conheço do pedido autônomo de atribuição de efeito suspensivo, reconhecendo que a apelação foi recebida com tal efeito por imposição legal.
+Presentes os pressupostos recursais de admissibilidade, conheço do restante da apelação cível e passo à análise das questões devolvidas a esta Corte, como segue:
+MÉRITO RECURSAL
+A questão central consiste em aferir se deve prevalecer o valor homologado no cumprimento de sentença, à luz da integralidade da marcha processual.
+DA DELIMITAÇÃO DO OBJETO DO CUMPRIMENTO DE SENTENÇA
+O ponto de partida da análise reside na decisão que organizou a fase de cumprimento (mov. 84.1). Naquela oportunidade, o Juízo, invocando a razoável duração do processo e a necessidade de evitar tumulto, determinou que a cobrança dos honorários sucumbenciais se processasse em autos apartados, recebendo, no presente feito, exclusivamente a pretensão relativa à obrigação principal.
+A determinação não foi impugnada e, mais do que isso, foi efetivamente observada, na medida em que o próprio credor promoveu a distribuição autônoma do incidente de honorários, posteriormente apensado a estes autos.
+
+Desse modo, a partir daquele marco, o objeto do presente cumprimento passou a compreender apenas as parcelas de natureza principal, quais sejam, a restituição em dobro dos descontos e a indenização por danos morais, com os respectivos consectários e a compensação autorizada no título.
+DA COMPOSIÇÃO DO VALOR EXECUTADO E DA INCLUSÃO INDEVIDA DOS HONORÁRIOS
+A leitura do demonstrativo que instruiu o requerimento de cumprimento revela que a cifra de R$ 21.465,23 resultou da soma de três rubricas: a restituição dos danos materiais, a indenização por danos morais e a verba honorária de sucumbência.
+Ocorre que a inclusão dessa última rubrica se tornou incompatível com a delimitação do procedimento. Uma vez direcionados os honorários ao incidente apartado, sua permanência no cálculo deste cumprimento importaria em dupla exigência da mesma verba, situação vedada pelo ordenamento e incompatível com a coisa julgada.
+Esse aspecto é confirmado pela própria conduta processual do credor. Instado a apresentar demonstrativo restrito à obrigação principal, o exequente reportou-se às planilhas de danos materiais e morais, cuja soma é sensivelmente inferior ao valor que veio a ser homologado. Vale dizer, o próprio interessado, ao atender à determinação judicial, indicou como principal montante distinto e menor do que aquele posteriormente chancelado na decisão recorrida.
+
+Há, portanto, descompasso evidente entre a delimitação do objeto do feito, a manifestação do credor sobre o valor principal e a cifra efetivamente homologada, o que revela que esta última incorporou parcela que já não lhe pertencia.
+A conclusão da sentença, desse modo, não decorreu de uma apreensão fiel do que fora anteriormente decidido acerca do objeto da execução, mas de premissa que, além de não observar o conteúdo e as planilhas trazidas em impugnação ao cumprimento de sentença, ignorou o desmembramento previamente determinado, permitindo a dupla exigência da mesma verba — uma nestes autos, outra no apenso.
+Não afasta o vício a circunstância de a executada haver empregado, em sua impugnação, redação contendo erro material, tampouco a adesão do credor à essa narrativa. Nenhuma manifestação das partes tem aptidão para legitimar a exigência, nestes autos, de verba honorária que já corre em apenso, sob pena de afronta à coisa julgada e à decisão que organizou a execução.
+
+DA CASSAÇÃO DA SENTENÇA E IMPOSSIBILIDADE DE JULGAMENTO IMEDIATO
+
+Reconhecido que o julgado repousa sobre premissa equivocada quanto ao objeto da execução, cumpre definir a consequência processual adequada.
+Em regra, a hipótese de error in judicando autoriza a reforma, com o rejulgamento da matéria pelo próprio órgão ad quem. Essa via, todavia, pressupõe que a causa esteja em condições de imediato julgamento, na forma do art. 1.013, § 3º, do Código de Processo Civil. Tal pressuposto não se verifica quanto ao valor da obrigação.
+A definição do montante devido depende de análise de ambos os cálculos, com a exclusão da parcela de honorários, a correta atualização das quantias e a adequada consideração da compensação autorizada no título, limitada ao valor efetivamente disponibilizado ao autor.
+
+Verifica-se ainda que a planilha apresentada pelo executado, ora apelante, jamais foi objeto de exame na origem, de modo que sequer há, sobre ela, pronunciamento de primeiro grau ou contraditório específico a ser revisado por esta instância.
+No mesmo sentido:
+Direito processual civil. Agravo de instrumento. Omissão na análise de impugnação ao cálculo e aplicação de multa em cumprimento de sentença. Recurso provido. Decisão cassada. (...) III. Razões de decidir 3. O juízo não se manifestou sobre a impugnação ao cálculo apresentada, configurando violação ao dever de fundamentação e omissão grave. 4. A homologação dos cálculos sem análise das questões levantadas pelo exequente caracteriza julgamento citra petita. 5. A decisão agravada foi cassada para que o juízo de origem delibere sobre as matérias não apreciadas. IV. Dispositivo e tese6. Recurso conhecido e provido para cassar a decisão proferida por ausência de fundamentação e determinar o retorno dos autos ao juízo de origem para a apreciação das matérias não apreciadas. (...) (TJPR - 8ª Câmara Cível - 0092778-94.2025.8.16.0000 - Curitiba - Rel.: DESEMBARGADOR LUCIANO CARRASCO FALAVINHA SOUZA - J. 09.03.2026)
+Neste caso, o montante de R$ 21.465,23, inicialmente indicado pelo exequente, não correspondia exclusivamente à obrigação principal. Conforme o demonstrativo do mov. 82.4, a quantia abrangia R$ 3.410,43 referentes aos danos materiais, após compensação do valor disponibilizado, R$ 14.477,26 relativos à indenização por danos morais e R$ 3.577,54 correspondentes aos honorários sucumbenciais.
+A impugnação da executada também não permite a imediata definição do saldo. Embora a peça sustente excesso de execução e atribua a menção a R$ 21.465,23 a erro de redação, sua memória de cálculo não conduz, de maneira demonstrável, ao valor de R$ 17.777,38 defendido no recurso.
+Nesse cenário, a fixação direta do quantum por este Tribunal implicaria a adoção de número não comprovado nos autos, substituindo o equívoco censurado por outra imprecisão, além de suprimir grau de jurisdição sobre matéria aritmética ainda não debatida. Por isso, embora o vício seja de julgamento, a ausência de maturidade da causa quanto ao valor recomenda a cassação do decisum, com retorno à origem, providência que também atende ao pedido subsidiário deduzido no recurso.
+Cassada a sentença, competirá ao juízo de origem examinar ambas as memórias de cálculo, apurar o valor da obrigação principal com a compensação exclusiva do valor disponibilizado ao autor, deliberar sobre a destinação dos depósitos realizados — inclusive quanto ao levantamento da parcela incontroversa e à eventual restituição do excedente — e redefinir os consectários e a sucumbência do incidente.
+Fica prejudicado o exame das demais teses recursais relativas ao mérito do valor, cuja apreciação incumbirá ao juízo de origem por ocasião do novo pronunciamento.
+CONCLUSÃO
+Ante o exposto, voto no sentido de DAR PARCIAL PROVIMENTO ao recurso de apelação, para CASSAR A SENTENÇA, determinando o retorno dos autos à origem para exame da memória de cálculo e apuração do valor da obrigação principal, excluída a verba honorária objeto do incidente apartado e observada a compensação nos limites do título.
+É como voto.
