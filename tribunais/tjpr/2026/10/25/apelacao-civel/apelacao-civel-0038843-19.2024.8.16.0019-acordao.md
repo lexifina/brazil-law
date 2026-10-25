@@ -1,0 +1,83 @@
+Ementa. DIREITO CIVIL E DO CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. DESCONTOS ASSOCIATIVOS NÃO AUTORIZADOS EM BENEFÍCIO PREVIDENCIÁRIO. DANO MORAL CONFIGURADO. INDENIZAÇÃO DEVIDA. FIXAÇÃO DO QUANTUM EM R$ 10.000,00. DESCONTOS QUE PERDURARAM NOVE MESES E INCIDIRAM SOBRE VERBA ALIMENTAR. SUCUMBÊNCIA INTEGRAL DA RÉ. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Apelação contra sentença que declarou inexistente a relação jurídica, determinou a restituição em dobro dos descontos associativos indevidos, rejeitou a indenização por danos morais e reconheceu a sucumbência recíproca.
+II. QUESTÃO EM DISCUSSÃO
+2. Discute-se se descontos não autorizados e reiterados sobre benefício previdenciário configuram dano moral e justificam a redistribuição dos ônus sucumbenciais.
+III. RAZÕES DE DECIDIR
+3. A subtração indevida, durante nove meses, de valores integrantes de benefício previdenciário ultrapassa o mero aborrecimento, diante da natureza alimentar da verba e da ausência de prova de filiação ou autorização válida.
+4. A inexistência de negativação e o reduzido valor individual dos descontos não afastam o dano moral decorrente da privação reiterada de parcela da renda do beneficiário.
+5. A indenização fixada em R$ 10.000,00 observa as funções compensatória, pedagógica e preventiva da responsabilidade civil.
+6. O acolhimento do pedido indenizatório afasta a sucumbência recíproca, ainda que a reparação seja arbitrada em valor inferior ao postulado.
+IV. DISPOSITIVO
+
+7. Recurso conhecido e provido para condenar a ré ao pagamento de indenização por danos morais de R$ 10.000,00 e atribuir-lhe integralmente os ônus sucumbenciais.
+
+RELATÓRIO
+Trata-se de recurso de Apelação Cível interposto em face da r. sentença proferida nos autos de ação de repetição de indébito cumulada com indenização por danos morais, ajuizada por Ivo Banaczek em face de União Nacional dos Aposentados e Pensionistas do Brasil - UNABRASIL, por meio da qual o MM. Juízo a quo julgou parcialmente procedentes os pedidos iniciais.
+Na petição inicial (mov. 1.1, pp. 1-10), alegou a parte autora, em síntese, ser beneficiária de prestação previdenciária e ter identificado nove descontos de R$ 77,86 em seu benefício, realizados entre abril e dezembro de 2024, sob rubrica atribuída à ré. Sustentou não ter contratado nem autorizado a contribuição associativa e postulou a declaração de inexistência da relação jurídica, a restituição em dobro dos valores descontados e a condenação da requerida ao pagamento de indenização por danos morais no valor de R$ 20.000,00, além dos ônus sucumbenciais.
+A parte ré apresentou contestação (mov. 50.1) e houve impugnação à contestação (mov. 77.1).
+Sobreveio a r. sentença (mov. 90.1), por meio da qual o D. Juízo de origem julgou parcialmente procedentes os pedidos iniciais, para declarar a inexistência da relação jurídica entre as partes e condenar a ré à restituição em dobro dos valores indevidamente descontados.
+Em razão da sucumbência recíproca, foram atribuídos ao autor 30% e à ré 70% das custas, despesas processuais e honorários advocatícios.
+Inconformado, o autor apela (mov. 93.1), sustentando, em síntese: a)- os descontos não autorizados incidiram sobre benefício previdenciário de pessoa idosa e atingiram verba de natureza alimentar; b)- a responsabilidade da apelada é objetiva; c)- o dano moral decorre da própria subtração indevida de valores do benefício previdenciário; d)- a ausência de inscrição em cadastro restritivo de crédito não afasta o prejuízo extrapatrimonial decorrente dos descontos; e)- a pequena expressão econômica de cada desconto não impede o reconhecimento do dano moral; f)- a gravação apresentada pela ré não comprova a contratação, pois o recorrente impugnou a voz nela registrada; g)- o acolhimento da pretensão indenizatória impõe a redistribuição integral dos ônus sucumbenciais.
+Requer, ao final, o conhecimento e o provimento do recurso para que a apelada seja condenada ao pagamento de indenização por danos morais no valor de R$ 20.000,00 ou em quantia a ser arbitrada pelo Tribunal (mov. 93.1).
+A parte apelada, embora intimada, deixou transcorrer o prazo sem apresentar contrarrazões, conforme certificado no mov. 98.
+Por despacho de mov. 9.1, foi apontada irregularidade na representação processual da apelada ré, tendo em vista que a procuração de mov. 50.1, p. 26, foi assinada por meio da plataforma GOV.BR. Intimada para regularizar a representação processual, a apelada juntou nova procuração no mov. 12.2, igualmente assinada pela mesma modalidade.
+Subiram os autos a este Tribunal de Justiça.
+É o relatório.
+
+FUNDAMENTAÇÃO
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+DANO MORAL
+Sustenta a parte recorrente ter sofrido dano moral em razão dos descontos indevidos.
+Razão lhe assiste.
+O Juízo de origem reconheceu que a ré não comprovou a regularidade da filiação e declarou inexistente a relação jurídica entre as partes. Também determinou a restituição em dobro dos valores descontados. A matéria devolvida ao Tribunal, portanto, não exige novo exame sobre a existência ou validade da contratação, mas apenas a verificação das consequências extrapatrimoniais da conduta já reconhecida como ilícita.
+O autor demonstrou que foram realizados nove descontos mensais de R$ 77,86 diretamente em seu benefício previdenciário, entre abril e dezembro de 2024 (mov. 1.7).
+A requerida, embora tenha afirmado a existência de vínculo associativo, não apresentou termo de filiação ou autorização escrita de desconto assinada pelo beneficiário. A gravação juntada com a contestação tampouco altera essa conclusão, sobretudo porque o autor impugnou expressamente a voz registrada e requereu a realização de perícia, sustentando que o interlocutor seria terceira pessoa (mov. 77.1, pp. 2-3, e mov. 82.1, pp. 1-2).
+Além disso, os descontos ocorreram em período no qual a autorização para a cobrança de mensalidade associativa exigia formalização dotada de requisitos destinados a garantir a manifestação inequívoca, segura e verificável do beneficiário. Uma gravação telefônica desacompanhada do termo de adesão e dos demais elementos de autenticação não constitui autorização suficiente para legitimar descontos incidentes diretamente sobre benefício previdenciário.
+Gravação esta que afrontaria o art. 655, c) da Instrução Normativa PRES/INSS nº 128, de 28 de março de 2022, onde não há exceção para contratar a filiação apenas por via oral e um termo (mov. 71.6) desacompanhado de qualquer documento do apelante autor.
+Além disso, a gravação está juntada aos autos em link externo aos autos, o que é vedado e suscetível a alterações (TJPR - 9ª Câmara Cível - 0010202-10.2025.8.16.0173 - Umuarama -
+ Rel.: DESEMBARGADOR LUIS SERGIO SWIECH -
+ J. 08.09.2026).
+Cumpre destacar que o reconhecimento da irregularidade da contratação evidencia falha na prestação dos serviços atribuível à associação apelada. Em se tratando de relação de consumo, aplica-se a responsabilidade objetiva do fornecedor, nos termos do art. 14 do CDC, dispensando-se a demonstração de culpa ou dolo para a caracterização do dever de indenizar.
+No caso concreto, os descontos recaíram sobre benefício previdenciário de pessoa idosa, nascida em 16 de abril de 1963, e alcançaram verba destinada à subsistência do beneficiário.
+Embora o valor isolado de cada desconto não seja elevado, foram realizadas cobranças mensais sucessivas durante nove meses. A análise do dano não pode ser reduzida à expressão econômica individual de cada parcela, desconsiderando-se a natureza alimentar da verba, a reiteração da conduta e a ausência de autorização do titular.
+A subtração injustificada e reiterada de valores integrantes de benefício previdenciário ultrapassa o mero aborrecimento cotidiano. O beneficiário foi privado mensalmente de parte de sua renda alimentar por entidade com a qual não demonstrou ter mantido relação associativa válida, circunstância suficiente para causar insegurança e aflição e caracterizar lesão extrapatrimonial.
+A inexistência de inscrição do nome do autor em cadastro restritivo de crédito não afasta essa conclusão. A negativação constitui apenas uma das situações capazes de gerar dano moral. No caso, a lesão decorre diretamente da retirada indevida de verba alimentar, e não de eventual restrição creditícia.
+A respeito, esta 9ª Câmara Cível já reconheceu que os descontos indevidos sobre benefício previdenciário configuram dano moral, por atingirem verba de natureza alimentar:
+APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C.C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DESCONTO INDEVIDO EM BENEFÍCIO PREVIDENCIÁRIO. RESPONSABILIDADE CONFIGURADA. (..) DANO MORAL IN RE IPSA. (...). (TJPR - 9ª Câmara Cível - 0007207-89.2024.8.16.0098 - Jacarezinho - Rel.: DESEMBARGADORA ANGELA KHURY - J. 06.12.2025)
+Logo, deve ser reformada a sentença para reconhecer a configuração do dano moral.
+QUANTUM INDENIZATÓRIO
+No que diz respeito a fixação do quantum indenizatório, o valor de R$10.000,00 se mostra adequado.
+O STJ vem ressaltando há muito o “objetivo punitivo e preventivo da responsabilidade civil” (REsp n. 2.126.256/SC, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 21/5/2024, DJe de 10/6/2024), “de modo que possa significar uma reprimenda ao ofensor, para que se abstenha de praticar fatos idênticos no futuro” (STJ - AgInt no AREsp: 2076198 GO 2022/0050181-4, Relator.: Ministro MARCO AURÉLIO BELLIZZE, Data de Julgamento: 13/03/2023, T3 - TERCEIRA TURMA, Data de Publicação: DJe 16/03/2023).
+No caso concreto a falha na prestação de serviços pela associação apelada causou danos significativos à parte autora.
+Já no tocante à capacidade econômica das partes, observo que de um lado temos a apelante – aposentada e beneficiária da assistência judiciária gratuita – e, do outro, associação que se apresentava como beneficente, sem fins lucrativos.
+Entretanto, é fato notório que não se trata de mero desconto, mas de entidade que teve o seu convênio com o INSS cancelado1, sendo fato notório a geração de milhares de cadastros indevidos de filiados, o que impende a fixação de um montante superior ao comumente praticado nesta Colenda Câmara para descontos indevidos.
+Inclusive, é fato notório que a apelante ré aplicava golpes2 em idosos, além dos descontos indevidos no estilo do caso ora em tela, tendo os abusos desta e demais entidades similares ganhado repercussão nacional.
+Feitas estas considerações, ressalte-se que não é um caso em que se deve rechaçar o pedido de compensação do dano moral por se estar diante da denominada indústria do dano moral, em que demandas de massa e litigantes oportunistas procuram um ganho desmedido.
+Inclusive, o STJ, na casuística, já enfrentou casos em que tal ponderação não impediu o arbitramento de valores maiores: “para conter a "indústria do dano moral" é necessário refutar com veemência as ações indenizatórias consideradas oportunistas e, simultaneamente, reprimir a reincidência e a inércia de ofensores contumazes. 9. O valor de R$ 15.000,00 quinze mil reais) mostra-se razoável, na hipótese, pois não altera a condição financeira do recorrido e, concomitantemente, desestimula a conduta da recorrente de agregar lucros em prejuízo da qualidade dos serviços, cumprindo, portanto, o caráter indenizatório, pedagógico e punitivo da indenização” (STJ - REsp: 1645744 SP 2016/0101168-8, Relator.: Ministro RICARDO VILLAS BÔAS CUEVA, Data de Julgamento: 06/06/2017, T3 - TERCEIRA TURMA, Data de Publicação: DJe 13/06/2017).
+Assim, embora expressivo, o montante aqui fixado neste voto não está em desconformidade com o praticado neste órgão julgador em casos similares de descontos indevidos em benefício previdenciário:
+APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS COM PEDIDO DE TUTELA DE URGÊNCIA. DESCONTOS INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DO AUTOR. MAJORAÇÃO DO QUANTUM INDENIZATÓRIO POR DANOS MORAIS. POSSIBILIDADE. RECURSO CONHECIDO E PROVIDO.CASO EM EXAMETrata-se de ação declaratória de inexistência de negócio jurídico c/c indenização por danos materiais e morais com pedido de tutela de urgência ajuizada por beneficiário do INSS em face de associação, pleiteando a declaração da inexistência da relação jurídica e a devolução em dobro dos valores, além de indenização por danos morais no valor de R$10.000,00. Decretada a revelia da ré.A sentença julgou procedentes os pedidos, mas fixou a indenização por danos morais em R$1.500,00 (um mil e quinhentos reais).Interposta a apelação pelo autor, postulando a majoração do quantum indenizatório fixado na sentença para R$10.000,00 (dez mil reais).(...) sendo razoável e proporcional a majoração do valor indenizatório para R$10.000,00. DISPOSITIVO E TESE Recurso conhecido e provido, majorando a indenização por danos morais para 10.000,00, com correção monetária e juros conforme a legislação cível e entendimento sumulado do STJ. Tese de julgamento: É cabível a indenização por danos morais em casos de descontos indevidos em benefício previdenciário, considerando a natureza alimentar dos valores e a configuração do dano moral independentemente da comprovação de prejuízo, respeitando os princípios da razoabilidade e proporcionalidade na fixação do montante indenizatório. (TJPR - 9ª Câmara Cível - 0000824-30.2025.8.16.0076 - Coronel Vivida -
+ Rel.: DESEMBARGADORA ANGELA KHURY -
+ J. 04.10.2025)
+Cite-se ainda, no mesmo grupo de casos e montante fixado:
+• TJPR - 9ª Câmara Cível - 0002669-35.2024.8.16.0108 - Mandaguaçu - Rel.: DESEMBARGADOR LUIS SERGIO SWIECH - J. 04.10.2025;
+• TJPR - 9ª Câmara Cível - 0006096-38.2024.8.16.0044 - Apucarana - Rel.: DESEMBARGADOR ROBERTO PORTUGAL BACELLAR - J. 17.10.2025.
+Portanto, analisadas as especificidades do caso concreto, fixa-se a compensação por dano moral no montante de R$10.000,00.
+ÔNUS SUCUMBENCIAIS
+Com o acolhimento do pedido de indenização por danos morais, a parte autora passa a obter êxito nos pedidos de declaração de inexistência da relação jurídica, repetição em dobro do indébito e reparação extrapatrimonial.
+O arbitramento da indenização em valor inferior ao indicado na petição inicial não caracteriza sucumbência recíproca, por se tratar de pedido estimativo.
+Consequentemente, devem ser afastados os 30% dos ônus sucumbenciais atribuídos ao autor, incumbindo integralmente à ré o pagamento das custas e despesas processuais e dos honorários advocatícios fixados na origem.
+Considerando o provimento do recurso, não incide a majoração prevista no art. 85, § 11, do Código de Processo Civil.
+REPRESENTAÇÃO PROCESSUAL DA APELADA
+Por fim, quanto à representação processual da apelada ré, observa-se que, por despacho de mov. 9.1, foi apontada irregularidade na procuração de mov. 50.1, p. 26, por ter sido assinada por meio da plataforma GOV.BR.
+Embora intimada para sanar o vício, a apelada juntou, no mov. 12.2, nova procuração assinada pela mesma modalidade, sem regularizar, portanto, sua representação processual.
+A propósito:
+“A ausência de procuração válida para a representação processual implica na extinção do processo sem resolução do mérito, sendo o advogado responsável pelo pagamento das custas processuais, conforme o art. 104, § 2º, do Código de Processo Civil”. (TJPR - 9ª Câmara Cível - 0000290-20.2022.8.16.0132 - Engenheiro Beltrão - Rel.: DESEMBARGADORA ANGELA KHURY - J. 24.05.2025).
+Assim, não tendo sido sanada a irregularidade, mesmo após a concessão de oportunidade específica para tanto, impõe-se o reconhecimento da invalidade dos atos praticados em nome da apelada ré por advogado desprovido de procuração válida, com a atribuição ao causídico das despesas processuais decorrentes de sua atuação, na forma do art. 104, § 2º, do Código de Processo Civil.
+CONCLUSÃO
+Diante do exposto, voto no sentido de conhecer e dar provimento ao recurso, reformando pontualmente a sentença, para:
+a)- condenar a ré ao pagamento de R$ 10.000,00 a título de indenização por danos morais, acrescido dos consectários legais;
+b)- afastar a sucumbência atribuída ao autor;
+c)- condenar integralmente a ré ao pagamento das custas, despesas processuais e honorários advocatícios fixados na sentença;
+d)- reconhecer a invalidade dos atos praticados em nome da apelada ré por advogado desprovido de procuração válida, atribuindo ao causídico as despesas processuais decorrentes de sua atuação, nos termos do art. 104, § 2º, do Código de Processo Civil.
+Mantêm-se os demais capítulos do julgado.
