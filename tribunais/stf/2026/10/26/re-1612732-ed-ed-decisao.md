@@ -1,0 +1,66 @@
+DESPACHO:
+Vistos.
+Cuida-se de segundos embargos de declaração opostos pela Associação Franco Brasileira contra decisão mediante a qual neguei seguimento ao recurso extraordinário, por entender pela ausência de repercussão geral da questão ora em debate, nos termos da tese do Tema nº 1.133 da Repercussão Geral.
+Em 4 de agosto de 2026, rejeitei os primeiros embargos de declaração opostos pela embargante, assentando que
+
+“a decisão embargada não incorreu em erro, omissão, contradição ou obscuridade, tendo-se sido decidido, fundamentadamente, todas as questões postas em análise, nos limites necessários ao deslinde do feito, não faltando à decisão clareza nem certeza quanto ao que foi julgado” (e-doc. 162).
+
+Em suas razões recursais (e-doc. 163), a embargante renova as alegações de existência de omissão e contradição na decisão embargada, notadamente
+
+“porquanto desconsiderou a evolução jurisprudencial posterior desta Suprema Corte – o que difere de mero pronunciamento –, notadamente o decidido nos Temas de Repercussão Geral, a seguir, os quais demonstram a total desnecessidade do enfrentamento da matéria infra-constitucional, para fixação de critérios de competência e ressarcimentos do SUS. Vejamos:
+- Tema 1033 da Repercussão Geral do STF define que o ressarcimento de serviços de saúde prestados por hospitais privados a pacientes do SUS deve usar o mesmo critério aplicado quando planos de saúde devem ressarcir o SUS (TUNEP/IVR) – julgado em 30/09/2021;
+- Agravo em Recurso Extraordinário n. 1.395.727 DF (Processo n. 1003175- 38.2019.4.01.3400), julgado em 16 de agosto de 2022, sobre a questão da solidariedade entre os entes federativos, imposta pelo texto constitucional, o Exmo. Ministro Relator (Min. Luiz Fux) votou ‘Nesse sentido, as decisões recentes do Supremo Tribunal Federal consolidam que: (i) a União deve necessariamente compor o polo passivo da demanda, quando o tratamento pleiteado tiver seu financiamento, aquisição e dispensação, atribuídos à União Federal, segundo as regras de repartição de competência, como no caso da responsabilidade exclusiva da União Federal em incluir, excluir ou modificar os procedimentos da tabela SUS, entre eles o valor dos procedimentos, bem como sua responsabilidade pelo pagamento, sem falar no ressarcimento exclusivo da União Federal, quando realizado pelas operadoras de planos de saúde; e (ii) nessas hipóteses específicas há litisconsórcio passivo facultativo quanto aos Estados e Municípios.’
+- Tema 793 da Repercussão Geral do STF estabelece que União, Estados e Municípios têm responsabilidade solidária nas demandas de saúde. O paciente pode processar qualquer um deles, mas o juiz deve direcionar a cobrança e o pagamento conforme as regras do SUS, julgado em 16/03/2015;
+- Tema 345 da Repercussão Geral do STF define que é constitucional a cobrança de ressarcimento pelas operadoras de planos de saúde ao Sistema Único de Saúde (SUS), prevista no art. 32 da Lei 9.656/1998, para atendimentos prestados a beneficiários - transitado em julgado em 14/05/2021;
+- Tema 1234 da Repercussão Geral do STF define a legitimidade passiva da União e a competência da Justiça Federal em ações sobre fornecimento de remédios ou tratamento, com registro na Anvisa, mas não padronizados no SUS. Ele fixa regras de competência baseadas no custo do tratamento e critérios cumulativos para a concessão judicial de medicamentos ou tratamento, julgado em 16/09/2024” (e-doc. 163).
+
+Aponta, ainda, haver
+
+“omissão na decisão embargada ao ignorar os fundamentos do Tema 1.033/STF. Ao reconhecer a índole constitucional da discussão sobre o reajuste da Tabela SUS para a rede complementar de saúde, o Tema 1.033 afasta a premissa do Tema 1.133 de que a matéria seria meramente infraconstitucional.
+II - A competência para fixar, atualizar e financiar a Tabela SUS é exclusiva da União (através da direção nacional do SUS, via Ministério da Saúde). Portanto, imputar aos entes subnacionais (Municípios e Estados) a obrigação de integrar o polo passivo como litisconsortes necessários contraria frontalmente a sistemática do financiamento constitucional da saúde restabelecida pelo STF nos Temas 1.033, 793 e 1.234.
+Além do que, deixou-se de analisar que há inexistência de Litisconsórcio Passivo Necessário sob a Ótica do Financiamento Centralizado, conforme definido pelo STF nos Temas 793 e 1.234 (todos posteriores à tese do Tema 1.133), a responsabilidade financeira e a gestão orçamentária dos parâmetros nacionais do SUS pertencem à União. Os Municípios e Estados atuam como meros executores/repassadores dos recursos federais. Exigir o litisconsórcio passivo necessário impondo anulação de atos processuais afronta a celeridade e a própria coerência do sistema de ressarcimento interno do Fundo Nacional de Saúde” (e-doc. 163).
+
+Conclui, em síntese, que
+
+“as decisões recentes do Supremo Tribunal Federal, em datas posteriores ao julgamento do Tema 1133/STF, MODIFICOU O SEU ENTENDIMENTO restando consolidada a questão da:
+1. Necessidade de a União Federal compor o polo passivo da lide;
+2. A competência da justiça federal;
+3. A ausência de litisconsorte passivo necessário, pois está consolidada a tese de que a União Federal deve necessariamente compor o polo passivo da demanda, quando o tratamento pleiteado tiver seu financiamento, aquisição e dispensação atribuídos à União Federal, segundo as regras de repartição de competência; exatamente o caso da responsabilidade exclusiva da União Federal em incluir, excluir ou modificar os procedimentos da tabela SUS, entre eles o valor dos procedimentos, bem como sua responsabilidade pelo pagamento, sem falar no ressarcimento exclusivo da União Federal, quando realizado pelas operadoras de planos de saúde, razão pela qual ficou suplantada o julgamento do Tema 1133/STF e a afetação do Tema 1305/STJ, objeto deste recurso extraordinário, em virtude das diversas decisões judiciais acima apontadas, em especial o julgamento dos Temas 793 e 1234, ambos do STF; e
+4. É possível equiparar os valores da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS aos estabelecidos pela Agência da Nacional de Saúde - ANS (TUNEP/IVR), com o objetivo de preservar o equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais privados, para prestação de serviços de saúde em caráter complementar, tudo com o objetivo de evitar o enriquecimento ilícito da União Federal” (e-doc. 163).
+
+No mais, reafirma a violação direta dos arts. 198, § 1º, e 199, § 1º, da Constituição Federal.
+Busca a embargante, ao final, o conhecimento e o acolhimento
+
+“[d]os presentes Embargos de Declaração, imprimindo-lhes efeitos modificativos (infringentes), a fim de sanar as omissões e contradições apontadas;
+b) Seja suprida a omissão para registrar que os Temas 345, 1.033, 793 e 1.234 da Repercussão Geral foram julgados/consolidados pelo STF em momento POSTERIOR ao Tema 1.133, devendo prevalecer a orientação do Tema 1.033/STF quanto à natureza constitucional da revisão da Tabela SUS;
+c) Por conseguinte, seja reconsiderada a r. decisão monocrática para afastar a incidência do Tema 1.133 e, no mérito, dar provimento ao Recurso Extraordinário, com fundamento nos temas do STF acima elencados, reconhecendo a legitimidade exclusiva da União no polo passivo, afastando a exigência de litisconsórcio passivo necessário com os entes subnacionais e reconhecendo ser possível equiparar os valores da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS aos estabelecidos pela Agência da Nacional de Saúde - ANS (TUNEP/IVR), com o objetivo de preservar o equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais privados, para prestação de serviços de saúde em caráter complementar, tudo com o objetivo de evitar o enriquecimento ilícito da União Federal” (e-doc. 163).
+
+É o relatório.
+Decido.
+Verifica-se que no RE nº 1.612.904/DF, da relatória do Min. Gilmar Mendes, foi reconhecida pelo Plenário do Supremo Tribunal Federal a repercussão geral de matéria constitucional examinada no presente feito. O assunto corresponde ao Tema nº 1.491 da sistemática da repercussão geral, no qual se discute “os limites constitucionais da revisão judicial da Tabela SUS mediante equiparação à TUNEP/IVR e suas repercussões sobre o financiamento federativo”.
+O acórdão desse julgado porta a seguinte ementa:
+
+“DIREITO CONSTITUCIONAL, ADMINISTRATIVO E DA SAÚDE. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. SISTEMA ÚNICO DE SAÚDE (SUS). PRESTAÇÃO COMPLEMENTAR DE SERVIÇOS DE SAÚDE POR ENTIDADES PRIVADAS. REVISÃO JUDICIAL DA REMUNERAÇÃO PELO SERVIÇO, FEITA PELA TABELA SUS, MEDIANTE EQUIPARAÇÃO À TUNEP/IVR. LIMITES DA INTERVENÇÃO JUDICIAL EM POLÍTICAS PÚBLICAS. FINANCIAMENTO DO SUS. REPARTIÇÃO FEDERATIVA DOS ENCARGOS FINANCEIROS. LEGITIMIDADE PASSIVA. CLÁUSULA DE RESERVA DE PLENÁRIO. REVISITAÇÃO DO TEMA 1.133. EXISTÊNCIA DE QUESTÃO CONSTITUCIONAL E DE REPERCUSSÃO GERAL.
+I. CASO EM EXAME
+1. Recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que reconheceu a necessidade de formação de litisconsórcio passivo entre a União e o ente federativo contratante, em demanda ajuizada por entidade privada prestadora de serviços de saúde em caráter complementar ao SUS, na qual se pretende a revisão dos valores da Tabela SUS mediante equiparação à TUNEP/IVR.
+II. QUESTÃO EM DISCUSSÃO
+2. Discute-se a existência de questão constitucional e de repercussão geral das controvérsias relativas: (i) aos limites da intervenção judicial na definição dos valores de remuneração dos serviços prestados em caráter complementar ao SUS; (ii) à repartição dos encargos financeiros decorrentes de eventual revisão judicial entre os entes federativos; (iii) à composição do polo passivo das respectivas demandas; e (iv) à observância da cláusula de reserva de plenário quando a substituição dos parâmetros remuneratórios implicar o afastamento do regime normativo aplicável.
+III. RAZÕES DE DECIDIR
+3. A evolução normativa e jurisprudencial posterior ao julgamento do Tema 1.133, aliada à multiplicação das demandas, evidencia a existência de questões constitucionais que ultrapassam a interpretação da legislação infraconstitucional e o exame do equilíbrio econômico-financeiro de contratos e convênios individualmente considerados.
+4. A substituição judicial dos parâmetros de remuneração estabelecidos no âmbito do SUS pela TUNEP/IVR levanta discussão sobre os limites da intervenção jurisdicional na conformação de política pública nacional, considerada a disciplina legal de definição, revisão e complementação dos valores dos serviços de saúde, especialmente aquela prevista nos arts. 26 e 35 da Lei 8.080/1990.
+5. A definição dos entes responsáveis pelos encargos financeiros decorrentes dessa revisão, bem como daqueles que devem integrar o polo passivo das demandas, relaciona-se diretamente ao modelo constitucional de financiamento descentralizado e cooperativo do SUS, com repercussões sobre o equilíbrio federativo.
+6. A eventual substituição judicial do regime normativo de remuneração por parâmetro concebido para relação jurídica diversa suscita, ainda, questão constitucional relativa à observância da cláusula de reserva de plenário, prevista no art. 97 da Constituição Federal e na Súmula Vinculante 10.
+7. A expressiva repercussão orçamentária, a multiplicidade de demandas, a divergência jurisprudencial entre os Tribunais Regionais Federais e a concentração regional dos processos evidenciam a transcendência dos interesses subjetivos das partes e a relevância jurídica, econômica e social da controvérsia, recomendando a revisitação das premissas que fundamentaram o Tema 1.133 da repercussão geral.
+IV. DISPOSITIVO
+8. Reconhecimento da existência de questão constitucional e de repercussão geral da matéria, para que o Supremo Tribunal Federal examine os limites constitucionais da revisão judicial da Tabela SUS mediante equiparação à TUNEP/IVR e suas repercussões sobre o financiamento federativo, a legitimidade passiva e a observância da cláusula de reserva de plenário.
+Dispositivos relevantes citados: Constituição Federal, arts. 97, 196, 198 e 199; Lei 8.080/1990, arts. 26 e 35.
+Jurisprudência relevante citada: STF, ARE 1.301.749-RG, Tema 1.133; STF, Tema 1.234 da repercussão geral; Súmula Vinculante 10.”
+
+Considerando o reconhecimento da repercussão geral da matéria constitucional debatida nestes autos, impõe-se a devolução do feito ao Tribunal a quo para aplicação da sistemática da repercussão geral.
+Assim, acolho os embargos de declaração, com efeitos infringentes, para tornar sem efeito a decisão monocrática anteriormente proferida e a decisão que rejeitou os primeiros declaratórios e determinar a devolução dos autos à Corte de origem para aplicação da sistemática da repercussão geral, nos termos dos incisos I a III do art. 1.030 do Código de Processo Civil.
+Publique-se.
+Brasília, 26 de outubro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
