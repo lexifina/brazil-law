@@ -1,0 +1,63 @@
+Ementa: DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. PENHORA SOBRE O FATURAMENTO. AUSÊNCIA DE ESGOTAMENTO DAS DILIGÊNCIAS PARA LOCALIZAÇÃO DE BENS. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que conheceu e negou provimento a agravo de instrumento que versava sobre a penhora sobre o faturamento da executada, nos quais a embargante sustenta a existência de omissão, contradição e obscuridade quanto ao esgotamento das buscas por bens penhoráveis e à aplicação do Tema 769 do Superior Tribunal de Justiça, pugnando pela atribuição de efeitos infringentes para que seja autorizada a constrição.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o acórdão embargado incorreu em omissão, contradição ou obscuridade aptas a justificar o acolhimento dos embargos de declaração.
+III. Razões de decidir
+3. Não houve o esgotamento das diligências, tendo em vista que não haviam sido realizadas buscas de ativos imobiliários, motivo pelo qual não há omissão quanto ao alegado esgotamento.
+4. Consoante o Tema 769 do STJ, a penhora sobre o faturamento pressupõe a demonstração de inexistência de bens prioritários na ordem legal, providência não atendida no caso concreto, pois sequer foram realizadas buscas de imóveis de titularidade da parte executada.
+5. Não há contradição ou obscuridade no acórdão, pois seus fundamentos são claros e coerentes ao aplicar o Tema 769 do Superior Tribunal de Justiça às circunstâncias concretas e reconhecer a ausência, naquele momento, dos requisitos necessários à penhora sobre o faturamento.
+IV. Dispositivo e tese
+6. Embargos de declaração conhecidos e rejeitados.
+Tese de julgamento: “A penhora sobre o faturamento, à luz do Tema 769 do STJ, pressupõe a demonstração da inexistência de bens classificados em posição superior na ordem legal, conforme as circunstâncias do caso concreto”.
+_________
+Dispositivos relevantes citados:
+ CPC, arts. 1.022, I, II e III e 1.025.
+
+Jurisprudência relevante citada:
+ STJ, EDcl no AgInt no RMS 51.806/ES, Rel. Min. Sérgio Kukina, Primeira Turma, j. 16.05.2017; STJ, EDcl no AgInt no CC 137.556/RN, Rel. Min. Sérgio Kukina, Primeira Seção, j. 14.06.2017; STJ, AgRg no AREsp 567.727/RJ, Rel. Min. Herman Benjamin, Segunda Turma, j. 02.12.2014; STJ, AgRg nos EDcl no REsp 1.540.677/SP, Rel. Min. Sérgio Kukina, Primeira Turma, j. 15.12.2015.
+
+1. RELATÓRIO
+Trata-se de embargos de declaração opostos contra o acórdão de mov. 26.1 proferido no agravo de instrumento n° 0058948-40.2025.8.16.0000 AI, que conheceu e negou provimento ao recurso.
+Irresignada, a parte agravante opôs os presentes embargos de declaração, sustentando, em síntese, que: a) o julgado foi contraditório/obscuro, pois reconheceu, com fundamento no Tema 769 do Superior Tribunal de Justiça, que a penhora sobre o faturamento não possui caráter excepcional e pode ser deferida sem observância da ordem do artigo 835 do Código de Processo Civil, conforme as circunstâncias do caso concreto, mas exigiu a pesquisa imobiliária pelo CNIB como requisito impeditivo absoluto, embora essa providência tivesse sido indeferida na origem; b) o acórdão também foi omisso, pois deixou de considerar que as buscas por bens penhoráveis foram exauridas, inclusive quanto aos bens classificados em posição superior ao faturamento, em conformidade com o Tema 769 do Superior Tribunal de Justiça; c) manutenção dos vícios apontados configura error in judicando, pois a Câmara julgadora criou requisito para a penhora sobre o faturamento que não possui previsão legal e é incompatível com a ratio decidendi do Tema repetitivo 769 do Superior Tribunal de Justiça, em violação aos artigos 805, parágrafo único, 835, § 1º, 866 e 927, inciso III, todos do Código de Processo Civil; d) formula prequestionamento; e) requer o acolhimento dos embargos de declaração para sanar a contradição, a obscuridade e a omissão apontadas e, atribuindo-lhes efeitos infringentes, autorizar a penhora sobre o faturamento (mov. 1.1/ED).
+Na sequência, a parte embargada apresentou contrarrazões, pugnando pelo não acolhimento dos embargos de declaração (mov. 10.1/ED).
+Após, vieram-me conclusos os autos (mov. 11.0/ED).
+É, sucintamente, o relatório.
+
+2. FUNDAMENTAÇÃO
+
+Os embargos foram tempestivamente opostos, razão pela qual devem ser conhecidos.
+Reza o artigo 1.022 do Código de Processo Civil que cabem embargos de declaração contra qualquer decisão judicial para: I – esclarecer obscuridade ou eliminar contradição; II – suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; III – corrigir erro material.
+Especificamente quanto ao vício de omissão, considera-se omisso o pronunciamento judicial que deixa de apreciar questões suscitadas pelas partes ou que poderiam ser conhecidas de ofício.
+Sobre o tema, a doutrina:
+“(...) Haverá omissão se o juiz deixar de se pronunciar sobre um ponto que exigia a sua manifestação. A decisão padece de uma lacuna, uma falta. Não constitui omissão a falta de pronunciamento sobre questão irrelevante ou que não tenha relação com o processo. O juiz é obrigado a examinar todos os pedidos formulados pelo autor, na petição inicial, e pelo réu, em reconvenção ou em pedido contraposto.
+Mas nem sempre precisará apreciar todos os fundamentos da inicial ou da defesa. A sentença não será omissa se os fundamentos examinados pelo juiz forem suficientes, seja para o acolhimento, seja para a rejeição do pedido inicial. (...).” (GONÇALVES, Marcus Vinicius Rios. Direito processual civil. 15. ed. São Paulo: SaraivaJur, 2024)Pois bem.
+Alega a parte embargante que o acórdão incorreu em omissão quanto ao prévio esgotamento das buscas por bens penhoráveis, inclusive no tocante àqueles prioritários em relação ao faturamento.
+Nesse particular, não há qualquer omissão, justamente porque não restou demonstrado o esgotamento das diligências. O credor não buscou informações por vias próprias, tampouco requereu o cumprimento do acórdão que autorizou a pesquisa CNIB (AI nº 0030921-47.2025.8.16.0000 – mov. 22.1). Assim, restou expressamente consignado no acórdão que, permanecendo a providência estagnada desde 29/07/2025 por inércia da parte exequente, não há como reputar exaurida a busca por ativos imobiliários.
+Logo, não há que se falar em omissão no acórdão embargado.
+Passo seguinte, a parte embargante alega que o acórdão foi contraditório e obscuro, pois reconheceu, com amparo no Tema 769 do Superior Tribunal de Justiça, que a penhora sobre o faturamento não possui caráter excepcional e pode ser deferida sem observância estrita da ordem do artigo 835 do Código de Processo Civil, mas exigiu a pesquisa imobiliária via CNIB como requisito impeditivo absoluto.
+Considera-se contraditória a decisão que “traz proposições entre si inconciliáveis. O principal exemplo é a existência de contradição entre a fundamentação e a decisão”. (CUNHA, Leonardo José Carneiro da; DIDIER JR, Fredie. Curso de Direito Processual Civil. Vol. 3, 8ª ed. Bahia: Editora JusPodivm, 2010. p. 181).
+Não se verifica, contudo, a existência do indigitado vício.
+Os fundamentos que amparam a decisão colegiada, ora embargada, foram claros e precisos no sentido de que o Superior Tribunal de Justiça, no julgamento do Tema 769 sob o rito dos repetitivos, assentou que, sob a égide do Código de Processo Civil de 2015, a penhora sobre o faturamento não mais ostenta caráter excepcional, podendo ser deferida após a demonstração da inexistência dos bens classificados em posição superior na ordem legal, conforme as circunstâncias do caso concreto.
+Entretanto, no presente caso e no momento processual da referida análise, não haviam sido realizadas buscas de ativos imobiliários de titularidade da executada, tampouco cumprida a pesquisa via CNIB já deferida no acórdão do Agravo de Instrumento nº 0030921-47.2025.8.16.0000 por inércia da própria parte exequente.
+Portanto, não há qualquer contradição ou obscuridade no acórdão embargado, porquanto realizada a devida análise do caso com amparo na legislação processual aplicável e no Tema 769 do STJ, restando evidenciado que não estavam presentes, naquele momento, os requisitos necessários ao deferimento da penhora sobre o faturamento.
+Exsurge a conclusão, portanto, de que a intenção dos presentes embargos de declaração é a de rediscutir o julgado, porém, não se prestam os embargos de declaração – e nunca se prestaram – à tal finalidade.Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATA CLASSIFICADA ALÉM DAS VAGAS OFERECIDAS. CONTRADIÇÃO. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Consoante expressamente prevê o art. 1.022, I, do CPC, "cabem embargos de declaração contra qualquer decisão judicial para eliminar contradição". Todavia, segundo iterativa jurisprudência desta Corte Superior, a contradição que abre espaço para o recurso integrativo é aquela interna, verificada as proposições e as conclusões do próprio julgado. Precedentes.
+2. (...)
+
+3. Não é possível, em sede do recurso integrativo, examinar eventual error in judicando. Há, para isso, meio processual adequado. A insistência em rediscutir o mérito da decisão por meio do recurso integrativo apenas retarda a solução final da lide, em prejuízo de ambas as partes e da própria jurisdição.
+4. Embargos de declaração rejeitados, com imposição de multa. (EDcl no AgInt no RMS 51.806/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/05/2017, DJe 22/05/2017 – grifei)Ainda: “(...) Não podem ser acolhidos embargos declaratórios que, a pretexto de sanar contradição, traduzem, na verdade, apenas o inconformismo da parte com a decisão colegiada”. (EDcl no AgInt no CC 137.556/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/06/2017, DJe 23/06/2017).De mais a mais, a simples discordância da parte embargante com o posicionamento adotado por esta Corte, não autoriza a interposição de Embargos de Declaração.A propósito, esse é o entendimento do Superior Tribunal de Justiça: “A mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração”. (AgRg no AREsp 567.727/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/12/2014, DJe 09/12/2014).
+
+Daí porque a rejeição dos presentes embargos de declaração é medida que se impõe.Por fim, no tocante à necessidade de manifestação expressa dos dispositivos de lei para fins de prequestionamento, registre-se que o artigo 1.025 do Código de Processo Civil adotou o prequestionamento implícito, considerando incluídas no acórdão, para fins de prequestionamento, todas as matérias suscitadas no recurso, mesmo na hipótese de rejeição de eventuais embargos de declaração.
+Aliás, antes mesmo da vigência do Novo Código de Processo Civil, o Superior Tribunal de Justiça já admitia o prequestionamento implícito, sendo desnecessária a análise pormenorizada de cada um dos dispositivos legais invocados pelas partes.
+
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE DESAPROPRIAÇÃO. AGRAVO REGIMENTAL. PREQUESTIONAMENTO IMPLÍCITO. PEDIDO DE DESISTÊNCIA DA AÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO COM BASE NO CPC. JUROS MORATÓRIOS SOBRE A VERBA SUCUMBENCIAL. TERMO INICIAL.
+1. Considera-se, na espécie, ter havido o prequestionamento implícito dos artigos dados por violados, porquanto as nuances jurídicas a eles relacionadas foram efetivamente apreciadas e decididas pelo Tribunal a quo.
+2. A discussão sobre qual diploma legal deverá orientar o arbitramento dos honorários advocatícios, em havendo desistência da ação expropriatória, não reclama o reexame de matéria fática, cuidando-se de tema exclusivamente de direito.
+3. "Havendo desistência da ação de desapropriação não incide a regra do art. 27, § 1º, do Decreto nº 3.365, de 1941."
+(AgRg no AgRg no AREsp 157.203/PE, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 11/9/2014).
+4. No caso concreto, não se descortina a ocorrência de desalinho no equitativo arbitramento de honorários advocatícios em favor do expropriado, consoante as diretrizes do art. 20, § 4º, do CPC.
+5. Para não se incorrer em julgamento extra petita, adota-se o trânsito em julgado do título executivo judicial como sendo o termo inicial dos juros moratórios incidentes sobre a verba sucumbencial.
+6. Agravo regimental a que se nega provimento. (AgRg nos EDcl no REsp n. 1.540.677/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/12/2015, DJe de 5/2/2016 – grifo nosso)Logo, afasta-se a necessidade de manifestação expressa sobre os dispositivos legais invocados.
