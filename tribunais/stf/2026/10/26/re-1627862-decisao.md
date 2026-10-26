@@ -1,0 +1,68 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PREVIDENCIÁRIO. ACUMULAÇÃO DE PENSÃO POR MORTE DE MILITAR COM APOSENTADORIA DO REGIME GERAL DE PREVIDÊNCIA SOCIAL E VENCIMENTOS DE CARGO PÚBLICO DE PROFESSORA. TRÍPLICE ACUMULAÇÃO. REGIMES PREVIDENCIÁRIOS DISTINTOS: POSSIBILIDADE. PRECEDENTES. RECURSO EXTRAORDINÁRIO PROVIDO.
+
+Relatório
+1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Nona Turma do Tribunal Regional Federal da Primeira Região:
+“DIREITO ADIMINISTRATIVO. PENSÃO MILITAR. TRIPLA ACUMULAÇÃO. PENSÃO MILITAR SOMADA A PROVENTOS DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO NO RGPS E VENCIMENTO DE CARGO PÚBLICO EFETIVO MUNICIPAL. IMPOSSIBILIDADE. INTELIGÊNCIA DO ART. 29, INCISOS I E II DA LEI Nº 3.765/60 E ALTERAÇÕES PROMOVIDAS PELA MEDIDA PROVISÓRIA Nº 2.215-10/01. PRECEDENTES DO TRF1 E DO STJ. APELAÇÃO NÃO PROVIDA.
+1. A Lei nº 3.765/1960 estabelece as disposições sobre as pensões militares como forma de disciplinar a concessão do referido benefício.
+2. No caso, a recorrente requer o pagamento de pensão militar, simultaneamente, com proventos de aposentadoria por tempo de contribuição pelo RGPS e vencimentos de cargo público efetivo municipal.
+3. A tríplice acumulação não encontra amparo legal, nos termos do art. 29, incisos I e II, da Lei nº 3.765/1960, nem acolhida jurisprudencial. Precedentes do STJ e TRF da 1ª Região.
+4. Necessidade de opção pelo beneficiário, sob pena de exclusão pela administração.
+5. Apelação não provida” (fl. 6, e-doc. 13).
+
+Os embargos de declaração opostos foram rejeitados (e-doc. 22).
+
+2. A recorrente alega ter o Tribunal de origem contrariado as al. a e b do inc. XVI do art. 37 da Constituição da República.
+
+Afirma acumular “constitucionalmente 02 (dois) postos laborais como professora habilitada, um pertencente ao Poder Público do Município de Campo Grande-MS e outro decorrente de aposentadoria lídima pelo Regime Geral de Previdência Social, em patente conformidade normativa com a Carta da República (diretriz legislativa do artigo 37, XVI, ‘a’ e ‘b’)” (fl. 13, e-doc. 24).
+Relata que seu pai era “membro efetivo do Exército Brasileiro, e quando da edição da Medida Provisória n. 2.215-10/2001 (...) optou expressamente por manter as contribuições econômicas especiais para a garantia normativa da pensão militar para as suas herdeiras de 1ª Ordem: esposa, companheira ou filhas de qualquer idade”, e que sua mãe “já era falecida quando do óbito natural de seu genitor, situação jurídica que adequou a pensão militar para a parte recorrente e para as suas irmãs” (fl. 13, e-doc. 24).
+
+Informa ter requerido administrativamente a pensão militar, porém seu pedido foi negado, com o fundamento de que “não poderia acumular indevidamente benefícios previdenciários, in casu, o salário laboral como Professora Pública Municipal, a aposentadoria regular como Professora Privada e a Pensão Militar de seu genitor” (fl. 13, e-doc. 24).
+
+Destaca que sua pretensão é o reconhecimento da “possibilidade aceitável de pagamento normativo da Pensão Militar com 02 (dois) proventos previdenciários ou salários laborais de funções trabalhistas constitucionalmente acumuláveis: de Professor”. Aponta que, “em um simples comparativo entre as Decisões Judiciárias, ora objurgadas, e os Precedentes Uniformes deste Supremo Tribunal Federal, (...) há gritante divergência da Corte Regional Federal a quo com a Jurisprudência Firme vigente manifestamente neste Pretório Excelso” (fls. 14 e 16, e-doc. 24).
+
+Argumenta que “o Coletivo Jurisprudencial desta Suprema Corte também importa na legitimação cabal do direito subjetivo da parte recorrente em outro fundamento de direito: de que as contraprestações econômicas que a parte recorrente pretende acumular são de regimes jurídicos-monetários distintos”, e que “há de se perceber perfeitamente que há diferenciação lógica entre as origens normativas e de manutenção financeira das prestações econômicas que a parte recorrente já percebe e pretende receber, situação fático-jurídica que permite também a acumulação lídima de pagamentos monetários” (fls. 17-18, e-doc. 24).
+
+Pede o provimento do recurso.
+
+3. Em contrarrazões, a União defende a inaptidão do recurso interposto pela ausência de preliminar de repercussão geral satisfatória, de ofensa constitucional direta e de indicação expressa dos dispositivos constitucionais supostamente contrariados.
+
+4. Razão jurídica assiste à recorrente.
+
+5. Na espécie vertente, a recorrente expôs a pretensão à acumulação do benefício de pensão militar com aposentadoria por tempo de contribuição do Regime Geral da Previdência Social e vencimentos decorrentes de cargo público, ambos como professora. O Tribunal de origem negou o pedido, com os seguintes fundamentos:
+“A tríplice acumulação de pensão militar é a temática do presente caso e que merece ser interpretada restritivamente. A legislação impõe limites ao acolhimento desta pretensão, sob o comando legal do art. 29, incisos I e II da Lei nº 3.765/1960. Posto isso, a Medida Provisória nº 2.215-10/2001 ensejou nova redação para o eventual acolhimento do direito à acumulação de pensão militar.
+Confira-se (original sem destaque):
+‘Lei nº 3.765/60 após alteração pela MP 2.215-10/2001:
+Art. 29. É permitida a acumulação: (Redação dada pela Medida provisória nº 2.215-10, de 31.8.2001)
+I – de uma pensão militar com proventos de disponibilidade, reforma, vencimentos ou aposentadoria; (Redação dada pela Medida provisória nº 2.215-10, de 31.8.2001)
+II – de uma pensão militar com a de outro regime, observado o disposto no art. 37, inciso XI, da Constituição Federal. (Redação dada pela Medida provisória nº 2.215-10, de 31.8.2001)’
+Interpretar os dispositivos acima transcritos de maneira combinada distorce a finalidade da norma. O legislador impôs a regra da alternatividade, ou seja, é permitida a acumulação de pensão militar com proventos de disponibilidade, reforma, vencimentos ou aposentadoria (inciso I). Ainda é possível acumular a pensão militar com a de outro regime (inciso II). Adequar os incisos, como pretexto de amparar a tríplice acumulação, não tem amparo legal. (...)
+A pretensão à tríplice acumulação não tem respaldo jurídico nem acolhida jurisprudencial. Há Necessidade de opção pelo beneficiário, sob pena de exclusão pela administração” (fls. 9-13, e-doc. 13).
+
+6. Este Supremo Tribunal Federal firmou entendimento no sentido da possibilidade de acumulação de benefícios previdenciários provenientes de regimes distintos, como é o caso. Confira-se o seguinte excerto do voto do Ministro Flávio Dino no Agravo Regimental nos Embargos de Declaração no Recurso Extraordinário n. 1.531.247:
+“Tal como consignado no decisum impugnado, a jurisprudência desta Suprema Corte tem afastado a aplicação do Tema nº 921-RG em situações que, embora configurem tríplice percepção, decorrem de regimes previdenciários diversos e de fatos geradores distintos, a exemplo da acumulação de aposentadorias de cargos constitucionalmente acumuláveis com pensão militar.
+Os entendimentos firmados nos precedentes desta Corte partem das seguintes premissas: (1) a impossibilidade de acumulação prevista na Constituição Federal e na jurisprudência pacífica do STF se restringe aos casos de recebimento cumulativo de benefícios oriundos de cargos inacumuláveis na atividade; (2) os benefícios acumulados decorrem de regimes previdenciários diversos; e (3) não se aplica a tese fixada no Tema nº 921 nessas situações, dado que a ratio do precedente se vincula aos casos em que a acumulação decorria de aposentadorias oriundas de cargos inacumuláveis em atividade.
+Para a solução da controvérsia é crucial destacar que o caput do art. 24 da EC nº 103/2019 veda a acumulação de mais de uma pensão por morte deixada pelo mesmo instituidor no âmbito do mesmo regime. Em outras palavras, a norma impede, por exemplo, que o dependente receba duas pensões por morte decorrentes do mesmo cônjuge ou companheiro se ambas forem do Regime Próprio de Previdência Social ou ambas do Regime Geral de Previdência Social. Essa vedação não impede a acumulação de uma aposentadoria própria do beneficiário com uma ou mais pensões por morte, mesmo que no mesmo regime da aposentadoria, uma vez que são benefícios de naturezas e fatos geradores distintos (o primeiro de caráter contributivo individual e o segundo derivado da qualidade de dependente do falecido segurado)” (Primeira Turma, DJe 23.10.2025).
+
+No mesmo sentido, por exemplo:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E PREVIDENCIÁRIO. ACUMULAÇÃO DE QUATRO BENEFÍCIOS PREVIDENCIÁRIOS. REGIMES PREVIDENCIÁRIOS DISTINTOS. APOSENTADORIAS E PENSÕES POR MORTE: REGIME GERAL DA PREVIDÊNCIA SOCIAL – RGPS E REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL – RPPS. ART. 24 DA EMENDA CONSTITUCIONAL N. 103/2019. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO” (ARE n. 1.530.065-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 26.3.2025).
+
+“AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. TRÍPLICE ACUMULAÇÃO DE BENFÍCIOS DE PENSÃO POR MORTE. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DO STF. TEMA 921 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. AGRAVO INTERNO A QUE SE DÁ PROVIMENTO. 1. Trata-se de controvérsia envolvendo a possibilidade de tríplice acumulação de benefícios de pensão por morte, sendo (i) duas pensões civis em decorrência do falecimento da mãe da autora, que exercia dois cargos de professora na rede pública municipal; e (ii) uma pensão militar em decorrência do falecimento de seu genitor, militar da Marinha do Brasil. 2. A jurisprudência do SUPREMO TRIBUNAL FEDERAL é firme no sentido de ser possível a acumulação de verbas decorrentes de cargos civis, constitucionalmente acumuláveis, com pensão por morte de militar. 3. Não há que se falar na aplicação da tese estabelecida no Tema 921 da repercussão geral (ARE 848.993, Rel. Min. GILMAR MENDES, Dje 23/3/2017), que veda a acumulação de rendimentos obtidos pelo exercício de três cargos públicos. 4. Agravo Interno a que se dá provimento e, por consequência, ao Recurso Extraordinário com Agravo, para conceder a segurança” (RE n. 1.565.333-AgR, Redator para o acórdão o Ministro Alexandre de Moraes, Primeira Turma, DJe 24.10.2025).
+
+“Agravo regimental em recurso extraordinário com agravo. 2. Direito Constitucional e Previdenciário. 3. Cumulação de benefícios previdenciários. Aposentadoria pelo RGPS, pensão por morte pelo RGPS em razão do falecimento do cônjuge e pensão militar de
+ex-combatente derivada do falecimento do genitor. Regimes distintos. Ausência de vedação constitucional. Precedentes. 4. Inaplicabilidade do tema 921 da repercussão geral. Hipótese diversa. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental não provido” (ARE n. 1.358.386-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 12.12.2023, grifos nossos).
+
+“DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ACUMULAÇÃO. APOSENTADORIAS. REGIMES DISTINTOS. POSSIBILIDADE. PRECEDENTES. 1. O acórdão do Tribunal de origem alinha-se à jurisprudência do Supremo Tribunal Federal no sentido de que é possível a acumulação de aposentadorias advindas de regimes distintos. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE n. 1.078.051-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 19.11.2018).
+
+“PENSÃO ESPECIAL – EX-COMBATENTE – CUMULAÇÃO. A pensão especial assegurada a ex-combatente é autônoma, podendo ser acumulada com benefício previdenciário. AÇÃO RESCISÓRIA – ACÓRDÃO RESCINDENDO – PRECEDENTES – HARMONIA. Estando o acórdão rescindendo em sintonia com precedentes do Supremo, fica afastada a rescindibilidade” (AR n. 2.211, Relator o Ministro Marco Aurélio, Plenário, DJe 28.10.2020).
+“Direito Previdenciário. Agravo Interno em Ação Rescisória. Acumulação de benefício previdenciário com pensão especial de
+ex-combatente. Inexistência de erro de fato. Acórdão alinhado à jurisprudência do STF. 1. Agravo interno interposto contra decisão monocrática que negou seguimento à ação rescisória. 2. O acórdão rescindendo, que reconheceu a possibilidade de acúmulo de benefício previdenciário com pensão especial de ex-combatente militar, encontra-se alinhado à jurisprudência desta Corte. 3. A hipótese de rescindibilidade do art. 485, IX, do CPC/1973 exige que a sentença admita fato inexistente ou considere inexistente um fato que ocorreu, sendo indispensável que não tenha havido controvérsia, nem pronunciamento judicial sobre o caso (art. 485, §§ 1º e 2º, CPC/73). 4. Agravo interno a que se nega provimento” (AR n. 1.957-AgR, Relator o Ministro Luís Roberto Barroso, Plenário, DJe 18.12.2019).
+
+Portanto, ao negar o pedido de cumulação da pensão militar com proventos de aposentadoria do Regime Geral de Previdência Social e vencimentos de cargo público, o Tribunal de origem afastou-se da jurisprudência do Supremo Tribunal Federal.
+
+7. Pelo exposto, dou provimento ao presente recurso extraordinário (al.  a do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal) para cassar o acórdão recorrido e reconhecer o direito da recorrente ao recebimento da pensão por morte de militar cumulativamente com a aposentadoria oriunda do regime geral e os vencimentos do cargo efetivo ocupado, invertidos os ônus de sucumbência.
+Publique-se.
+Brasília, 26 de outubro de 2026.
+Ministra CÁRMEN LÚCIA
+Relatora
