@@ -1,0 +1,41 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Unimed Regional Maringá - Cooperativa de Trabalho Médico contra decisão proferida pela Juíza de Direito da 38ª Vara Cível do Foro Central Cível da Comarca de São Paulo, nos autos do Processo nº 4196017-24.2026.8.26.0100.
+A parte reclamante sustenta que a autoridade reclamada, ao determinar o custeio integral de procedimento não previsto no rol obrigatório da ANS, sem a observância dos parâmetros técnicos e procedimentais expressamente estabelecidos no julgamento da ADI 7.265, Rel. Min. Roberto Barroso, teria incorrido em violação ao entendimento firmado por esta Corte no julgamento do paradigma.
+Considera que a determinação de autorização e custeio do procedimento de correção intrauterina do defeito por mini-histerotomia, para tratamento de disrafismo espinhal aberto (mielomeningocele), baseou-se apenas na prescrição médica e em notas técnicas genéricas do NatJus em casos diversos, sem a demonstração do preenchimento dos requisitos estabelecidos por esta Corte no julgamento da ADI 7.265.
+Afirma que o próprio NatJus não tem posição uniforme sobre o tema e que não foram apontadas evidências científicas de alto nível, isto é, ensaios clínicos randomizados e revisão sistemática ou meta-análise que justifiquem o procedimento prescrito. Aduz, ainda, que há alternativa terapêutica no rol da ANS para a condição clínica do feto, de modo que o procedimento não atende aos requisitos estabelecidos por esta Corte para concessão de tratamento foram do rol.
+Por fim, salienta que o ato reclamado silencia sobre o fato de que a ANS já se manifestou formalmente sobre a correção intrauterina de mielomeningocele fetal, oportunidade em que esclareceu que nenhuma das modalidades de correção intrauterina consta do Rol, inclusive a via endoscópica, e que técnicas minimamente invasivas só têm cobertura quando especificadas no Anexo I da RN nº 465/2021.
+Requer a concessão de liminar para suspender os efeitos da decisão reclamada e, no mérito, que a reclamação seja julgada procedente para cassá-la, a fim de determinar o rejulgamento da ação com observância do paradigma indicado.
+
+É o relatório. Decido.
+
+Inicialmente, dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+Superada a questão, rememoro que a reclamação, tal como prevista no artigo 102, I, “l”, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+Conforme relatado, alega-se que a decisão reclamada, ao determinar a realização e custeio de procedimento não previsto no rol da ANS, sem observância dos parâmetros técnicos e procedimentais expressamente estabelecidos no julgamento da ADI 7.265, teria incorrido em violação ao entendimento firmado por esta Corte no julgamento do paradigma.
+Pois bem.
+Esta Corte, ao apreciar a controvérsia atinente à natureza do rol de procedimentos e eventos em saúde suplementar, cuja elaboração compete à ANS, conferiu interpretação conforme à Constituição ao § 13 do art. 10 da Lei 9.656/1998 (incluído pela Lei 14.454/2022), assentando a seguinte tese:
+“1. É constitucional a imposição legal de cobertura de tratamentos ou procedimentos fora do rol da ANS, desde que preenchidos os parâmetros técnicos e jurídicos fixados nesta decisão.
+2. Em caso de tratamento ou procedimento não previsto no rol da ANS, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que preenchidos, cumulativamente, os seguintes requisitos:
+(i) prescrição por médico ou odontólogo assistente habilitado;
+(ii) inexistência de negativa expressa da ANS ou de pendência de análise em proposta de atualização do rol (PAR);
+(iii) ausência de alternativa terapêutica adequada para a condição do paciente no rol de procedimentos da ANS;
+(iv) comprovação de eficácia e segurança do tratamento à luz da medicina baseada em evidências de alto grau ou ATS, necessariamente respaldadas por evidências científicas de alto nível; e
+(v) existência de registro na Anvisa.
+3. A ausência de inclusão de procedimento ou tratamento no rol da ANS impede, como regra geral, a sua concessão judicial, salvo quando preenchidos os requisitos previstos no item 2, demonstrados na forma do art. 373 do CPC. Sob pena de nulidade da decisão judicial, nos termos do art. 489, §1º, V e VI, e art. 927, III, §1º, do CPC, o Poder Judiciário, ao apreciar pedido de cobertura de procedimento ou tratamento não incluído no rol, deverá obrigatoriamente:
+(a) verificar se há prova do prévio requerimento à operadora de saúde, com a negativa, mora irrazoável ou omissão da operadora na autorização do tratamento não incorporado ao rol da ANS;
+(b) analisar o ato administrativo de não incorporação pela ANS à luz das circunstâncias do caso concreto e da legislação de regência, sem incursão no mérito técnico-administrativo;
+(c) aferir a presença dos requisitos previstos no item 2, a partir de consulta prévia ao Núcleo de Apoio Técnico do Poder Judiciário (NATJUS), sempre que disponível, ou a entes ou pessoas com expertise técnica, não podendo fundamentar sua decisão apenas em prescrição, relatório ou laudo médico apresentado pela parte; e
+(d) em caso de deferimento judicial do pedido, oficiar a ANS para avaliar a possibilidade de inclusão do tratamento no rol de cobertura obrigatória”.
+
+Nesses termos, por versar sobre tratamento que não se encontra listado no rol de cobertura da ANS e tampouco encontra previsão em seus Anexos I e II, incide o entendimento firmado por esta Corte no julgamento da ADI 7.265, segundo o qual a imposição legal de cobertura de tratamentos ou procedimentos fora do rol da ANS deve observar os parâmetros técnicos e jurídicos citados anteriormente.
+No caso, a decisão reclamada consignou que “embora o procedimento não conste expressamente do Rol da ANS, foram apresentados elementos destinados a demonstrar a inexistência de alternativa terapêutica eficaz incorporada ao rol, bem como respaldo científico e técnico para a intervenção indicada” (eDOC 4, p. 1).
+Além disso, a decisão aponta a existência de prescrição médica fundamentada, demonstração da necessidade do tratamento e elementos que apontam sua eficácia, “sem comprovação, neste momento processual, de alternativa terapêutica eficaz incorporada ao rol capaz de atender à situação clínica específica, bem como demonstração da eficácia da cirurgia indicada e ausência de irregularidade sanitária perante a Agência Nacional de Vigilância Sanitária” (eDOC 4,p. 1).
+Como visto, a decisão reclamada não se debruçou sobre o preenchimento de todos os requisitos estabelecidos por esta Corte no julgamento do paradigma, uma vez que não trata da inexistência de negativa expressa da ANS ou de pendência de análise em proposta de atualização do rol (PAR) e tampouco aborda com maior profundidade a questão da inexistência de alternativa terapêutica no rol da ANS, limitando-se a apontar que, para o caso concreto, não há opções disponíveis.
+Sob outra ótica, não há apontamento de estudos que comprovem a eficácia e segurança do tratamento, à luz da medicina baseada em evidências de alto grau ou ATS, necessariamente respaldadas por evidências científicas de alto nível. Tal fato, aliado à ausência de consulta prévia ao Núcleo de Apoio Técnico do Poder Judiciário (NATJUS), ou a entes ou pessoas com expertise técnica acerca do caso concreto, compromete a análise do caso concreto à luz do paradigma.
+Dessa forma, considerando que a autoridade reclamada inobservou os requisitos previstos na tese fixada por esta Corte no julgamento da ADI 7.265, constata-se violação ao mencionado paradigma.
+Ante o exposto, julgo procedente a reclamação para determinar o rejulgamento da ação de origem, pelo Juízo reclamado, em observância ao paradigma indicado, no menor prazo possível.
+
+Publique-se. Comunique-se, com urgência.
+Brasília, 26 de outubro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
