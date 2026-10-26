@@ -1,0 +1,74 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ
+4ª TURMA RECURSAL DOS JUIZADOS ESPECIAIS
+
+Autos nº. 0035423-65.2025.8.16.0182
+
+Recurso Inominado Cível n° 0035423-65.2025.8.16.0182 RecIno
+Secretaria Especializada em Movimentações Processuais dos Juizados Especiais da Fazenda
+Pública de Curitiba - 4º Juizado
+Recorrente(s): ESTADO DO PARANÁ
+Recorrido(s): Maicon Luiz Vidal
+Relator: Daniel Tempski Ferreira da Costa
+
+RECURSO INOMINADO. AÇÃO DE INDENIZAÇÃO POR DANOS
+MORAIS. POLICIAL MILITAR. REVEZAMENTO DE COLETE
+BALÍSTICO ENTRE OS POLICIAIS. EQUIPAMENTO DE USO
+INDIVIDUALIZADO E INDISPENSÁVEL AO EXERCÍCIO SEGURO DA
+ATIVIDADE DO SERVIDOR. POLICIAL MILITAR QUE ESTÁ
+SUJEITO A OPERAÇÕES DE RISCO. VALOR ARBITRADO NA
+SENTENÇA DE R$5.000,00 (CINCO MIL REAIS) QUE NÃO
+COMPORTA MINORAÇÃO. VALOR FIXADO DE ACORDO COM OS
+CRITÉRIOS DA RAZOABILIDADE, PROPORCIONALIDADE,
+PECULIARIDADES DO CASO CONCRETO. SENTENÇA MANTIDA
+PELOS PRÓPRIOS FUNDAMENTOS. INTELIGÊNCIA DO ART. 46 DA
+LEI Nº 9.099/95. RECURSO CONHECIDO E DESPROVIDO.
+Precedentes:
+RECURSO INOMINADO – JUIZADO ESPECIAL DA FAZENDA PÚBLICA – AÇÃO DE
+INDENIZAÇÃO POR DANOS MORAIS – SENTENÇA DE PROCEDÊNCIA –
+INSURGÊNCIA RECURSAL DO RECLAMADO – NÃO ACOLHIMENTO – SERVIDOR
+PÚBLICO ESTADUAL – POLICIAL MILITAR – DISPONIBILIZAÇÃO PELO ESTADO DE
+COLETE BALÍSTICO, EM SISTEMA DE REVEZAMENTO – RISCO À INTEGRIDADE
+FÍSICA DO SERVIDOR – EQUIPAMENTO DE USO INDIVIDUALIZADO E
+INDISPENSÁVEL AO EXERCÍCIO SEGURO DA ATIVIDADE DO SERVIDOR, QUE É DE
+RISCO – RESPONSABILIDADE OBJETIVA DO ESTADO – ART. 37, §6º, DA CF – DANO
+MORAL CONFIGURADO – QUANTUM FIXADO PELO JUÍZO DA ORIGEM NO VALOR
+DE R$ 5.000,00 (CINCO MIL REAIS) A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS
+– PRECEDENTES DESTA 4ª TURMA RECURSAL – SENTENÇA MANTIDA PELOS SEUS
+PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46, DA LEI N. 9.099/95.Recurso do
+Estado conhecido e desprovido. (TJPR - 4ª Turma Recursal - 0001736-03.2025.8.16.0181 -
+Marmeleiro -  Rel.: JUIZ DE DIREITO DA TURMA RECURSAL DOS JUIZADOS ESPECIAIS
+MARCO VINICIUS SCHIEBEL -  J. 03.08.2026)
+
+RECURSO INOMINADO. POLICIAL MILITAR. REVEZAMENTO DE COLETE BALÍSTICO
+ENTRE OS POLICIAIS. RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO DO
+PARANÁ. ATIVIDADE DE RISCO. DANO MORAL CONFIGURADO. POLICIAL MILITAR
+QUE ESTÁ SUJEITO A OPERAÇÕES DE RISCO. QUANTUM FIXADO EM 5.000,00
+(CINCO MIL REAIS). PRECEDENTES DA 4a TURMA RECURSAL. SENTENÇA
+REFORMADA. RECURSO CONHECIDO E PROVIDO. (TJPR - 4ª Turma Recursal - 0035303-
+27.2024.8.16.0030 - Foz do Iguaçu -  Rel.: JUIZ DE DIREITO DA TURMA RECURSAL DOS
+JUIZADOS ESPECIAIS ALDEMAR STERNADT -  J. 06.07.2026)
+
+Relatório dispensado (Enunciado n. 92 do FONAJE).
+
+V O T O
+Presentes os pressupostos de admissibilidade recursal, conheço do recurso.
+Deliberação a partir da ementa, na forma do artigo 46 da Lei 9.099/95.
+Ante o exposto, voto no sentido de CONHECER e NEGAR PROVIMENTO ao recurso
+da parte requerida, mantendo-se a sentença pelos próprios fundamentos, nos termos do artigo 46 da
+lei 9.099/95.
+Condeno o recorrente ao pagamento de honorários advocatícios, que arbitro em 10% (dez
+por cento) sobre o valor da condenação, nos termos do art. 55 da Lei nº 9.099/95, aplicável aos Juizados
+Especiais da Fazenda Pública por força do art. 27 da Lei nº 12.153/2009.
+Custas processuais dispensadas (art. 5º da Lei nº 18.413/2014).
+É como voto.
+
+Ante o exposto, esta 4ª Turma Recursal dos Juizados Especiais resolve,
+por maioria dos votos, em relação ao recurso de ESTADO DO PARANÁ, julgar pelo(a) Com Resolução
+do Mérito - Não-Provimento nos exatos termos do voto.
+O julgamento foi presidido pelo (a) Juiz(a) Marco Vinícius Schiebel, sem
+voto, e dele participaram os Juízes Daniel Tempski Ferreira Da Costa (relator), Rafaela Zarpelon e Leo
+Henrique Furtado Araújo (voto vencido).
+
+23 de outubro de 2026
+DANIEL TEMPSKI FERREIRA DA COSTA
+Juiz Relator
