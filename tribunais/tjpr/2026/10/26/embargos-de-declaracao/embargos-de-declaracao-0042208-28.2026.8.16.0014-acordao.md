@@ -1,0 +1,63 @@
+DIREITO PROCESSUAL CIVIL, CIVIL E DO CONSUMIDOR. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS MÉDICAS. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO QUANTO ÀS CLÁUSULAS LIMITATIVAS DE REEMBOLSO. INEXISTÊNCIA DE VÍCIOS DO ART. 1.022 DO CPC. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. Embargos de declaração opostos pela ré conhecidos e rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos por Bradesco Saúde S/A contra acórdão que deu parcial provimento à apelação apenas para determinar o abatimento de valor lançado em duplicidade, mantendo a condenação ao reembolso integral das despesas médicas suportadas pelos autores.
+II. Questão em discussão
+2. As questões em discussão consistem em saber se: (i) houve omissão quanto à análise das cláusulas contratuais limitativas de reembolso e do art. 12, VI, da Lei nº 9.656/98; (ii) há contradição entre o reconhecimento do contrato e a conclusão de ausência de adequada ciência dos consumidores; e (iii) é cabível o prequestionamento pretendido.
+III. Razões de decidir
+3. O acórdão embargado enfrentou a controvérsia sobre os limites de reembolso e concluiu pela inoponibilidade das cláusulas limitativas, diante da ausência de prova de ciência prévia, clara e adequada dos consumidores e da falta de destaque exigida pelo art. 54, § 4º, do CDC.
+4. A existência do contrato não é incompatível com a conclusão de que não houve demonstração suficiente da adequada informação ao consumidor, inexistindo contradição interna no julgado.
+5. O pedido de observância dos limites contratuais em reembolsos futuros busca modificar a conclusão do acórdão, providência incompatível com os embargos de declaração.
+6. O prequestionamento dispensa menção expressa a todos os dispositivos legais quando a matéria foi efetivamente apreciada e decidida.
+IV. Dispositivo
+7. Embargos de declaração opostos pela ré
+conhecidos e rejeitados, mantendo-se integralmente o acórdão embargado.
+Dispositivos relevantes citados: Código de Processo Civil, arts. 1.022 e 1.025; Código de Defesa do Consumidor, arts. 6º, III, 51, IV, e 54, § 4º; Lei nº 9.656/98, art. 12, VI.
+Jurisprudência relevante citada: STJ, EDcl no AgInt nos EAREsp 773262/RS, Rel. Ministro Mauro Campbell Marques, 1ª Seção, DJe 14.03.2017; STJ, EDcl no AREsp n. 2.588.591/SP, Rel. Ministro Raul Araújo, 4ª Turma, julgado em 18.05.2026, DJEN de 22.05.2026.
+
+Relatório
+1. Trata-se de embargos de declaração opostos por Bradesco Saúde S/A. em face do acórdão de mov. 15.1, proferido nos autos da Apelação Cível nº 0011794-81.2025.8.16.0014, por meio do qual esta Câmara deu parcial provimento ao recurso da seguradora apenas para determinar o abatimento de valor lançado em duplicidade, mantendo, no mais, a condenação ao reembolso integral das despesas médicas suportadas pelos autores.
+Aduz a embargante, em síntese, a existência de omissão no julgado, ao argumento de que o acórdão reconheceu a abusividade das cláusulas limitativas de reembolso sem analisar especificamente o conteúdo das disposições contratuais invocadas pela seguradora, nem indicar qual cláusula teria sido considerada abusiva e por quais fundamentos concretos.
+Sustenta, ainda, que o acórdão deixou de enfrentar a alegação de que o contrato firmado entre as partes não assegurava reembolso integral, havendo previsão expressa de limites para reembolso de despesas realizadas fora da rede credenciada.
+Afirma, também, existir contradição, pois, embora o acórdão tenha reconhecido a existência da relação contratual, teria desconsiderado documentos juntados aos autos, especialmente as condições gerais do contrato e a proposta de contratação, que demonstrariam a ciência dos autores acerca das regras de reembolso aplicáveis.
+Defende que a limitação contratual encontra respaldo no art. 12, VI, da Lei nº 9.656/98 e requer, subsidiariamente, que os reembolsos futuros observem os limites contratuais.
+Ao final, requer o acolhimento dos embargos para suprimento das alegadas omissões e contradições, com pronunciamento expresso acerca das matérias suscitadas, bem como para fins de prequestionamento dos artigos supracitados.
+Intimados, os autores apresentaram contrarrazões no mov. 10.1, sustentando a inexistência de quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, ao argumento de que o acórdão enfrentou adequadamente as questões controvertidas, pretendendo a embargante apenas rediscutir matéria já decidida.
+Requereram, assim, o não conhecimento ou, subsidiariamente, a rejeição dos aclaratórios.
+Posteriormente, a embargante apresentou manifestação no mov. 16.1, reiterando que os embargos não visam à rediscussão do mérito, mas à correção de omissões e contradições que entende presentes no acórdão recorrido, pugnando pelo regular conhecimento e acolhimento do recurso.
+É o relatório.
+
+Fundamentação
+2. Inicialmente, não merece acolhimento a alegação dos embargados de não conhecimento dos presentes embargos de declaração por ausência dos vícios previstos no art. 1.022 do Código de Processo Civil.
+Isso porque a análise acerca da efetiva existência ou não de omissão, contradição, obscuridade ou erro material confunde-se com o próprio mérito dos aclaratórios, tendo a embargante apontado os supostos vícios no acórdão embargado, devendo ser analisadas as alegações deduzidas e rejeitada a preliminar de não conhecimento suscitada pelas embargadas.
+3. Assim, os Embargos de declaração merecem ser conhecidos, porquanto tempestivos e interpostos pela parte legitimada, além de atenderem aos demais pressupostos de admissibilidade previstos no art. 1.022 do Código de Processo Civil.
+4. Já se decidiu que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes." (STJ – EDcl no Aglnt nos EAREsp 773262 - RS – 1ª Seção – Rel. Min. Mauro Campbell Marques – DJe 14.03.2017).
+Dos incisos do artigo 1.022 do CPC extrai-se que o presente recurso é de fundamentação vinculada e sua oposição é delimitada, sendo cabível para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, ou então para corrigir erro material.
+Desse modo, deve-se levar em consideração que os declaratórios não servem como sucedâneo recursal.
+No presente caso, sustenta a embargante
+a existência de omissão no acórdão ao argumento de que não teria havido análise específica das cláusulas contratuais limitativas de reembolso invocadas pela seguradora, tampouco manifestação expressa acerca da alegação de que o contrato celebrado entre as partes jamais assegurou reembolso integral das despesas realizadas fora da rede credenciada.
+Aduz, ainda, a existência de contradição, porquanto o julgado teria reconhecido a existência do vínculo contratual e da documentação contratual juntada aos autos, mas concluído pela ausência de ciência dos consumidores acerca das limitações de reembolso.
+Todavia, não assiste razão à embargante.
+O
+acórdão examinou expressamente a controvérsia relacionada aos limites contratuais de reembolso e concluiu que as cláusulas limitativas não poderiam ser opostas aos consumidores, diante da ausência de comprovação de que tiveram prévio conhecimento de seu conteúdo, bem como da inobservância da exigência de destaque prevista no art. 54, § 4º, do Código de Defesa do Consumidor.
+Também consignou que as cláusulas limitativas baseadas na tabela CRS foram consideradas ininteligíveis e sem o destaque exigido pela legislação consumerista, além de registrar que a seguradora passou a exigir documentos e procedimentos anteriormente não solicitados, em afronta aos princípios da boa-fé objetiva, da transparência e da proteção da confiança legítima do consumidor.
+Assim, embora a embargante sustente que as cláusulas contratuais seriam válidas e suficientes para afastar o reembolso integral, verifica-se que a matéria foi efetivamente apreciada e rejeitada por esta Câmara quando do julgamento da apelação.
+Nesse ponto, também não há omissão quanto ao art. 12, VI, da Lei nº 9.656/98. O referido dispositivo admite a existência de reembolso nos limites das obrigações contratuais, mas a aplicação concreta dessas limitações pressupõe cláusulas válidas, claras, inteligíveis, destacadas e oponíveis ao consumidor, requisitos afastados no caso em razão da fundamentação adotada no acórdão embargado, à luz dos arts. 6º, III, 51, IV, e 54, § 4º, do Código de Defesa do Consumidor.
+Por consequência, o pedido subsidiário de observância dos limites contratuais em reembolsos futuros também não pode ser acolhido em sede de embargos de declaração, pois pressupõe a modificação da conclusão já adotada acerca da inoponibilidade das cláusulas limitativas no caso concreto, providência incompatível com a via integrativa, ausente qualquer vício decisório.
+O que se pretende, em realidade, é a rediscussão da conclusão adotada no acórdão, providência incompatível com a finalidade dos embargos de declaração.
+Igualmente não se verifica a alegada contradição.
+A contradição apta a autorizar o manejo dos embargos de declaração é aquela interna ao próprio julgado, consistente em incompatibilidade lógica entre seus fundamentos ou entre a fundamentação e o dispositivo. Não se confunde com a divergência entre a interpretação da parte e a conclusão alcançada pelo órgão julgador.
+A embargante sustenta que o acórdão reconheceu a existência do contrato e da documentação contratual juntada aos autos, mas concluiu que os autores não tinham ciência das cláusulas limitativas de reembolso.
+Todavia, não há incompatibilidade nessa conclusão.
+De fato, o acórdão não negou a existência do contrato nem dos documentos contratuais, apenas concluiu que tais elementos não eram suficientes para demonstrar que os consumidores tiveram ciência prévia, clara e adequada das cláusulas limitativas, especialmente diante da ausência de destaque exigida pelo art. 54, § 4º, do Código de Defesa do Consumidor.
+Assim, a existência do contrato e a conclusão quanto à insuficiência de prova da adequada informação ao consumidor são circunstâncias compatíveis entre si, inexistindo a contradição apontada.
+Cumpre destacar, ademais, que a manutenção da condenação não decorreu exclusivamente da análise das cláusulas limitativas de reembolso.
+O acórdão também consignou que a própria seguradora passou a exigir documentos e procedimentos anteriormente não solicitados para processamento dos pedidos de reembolso, circunstância considerada incompatível com os princípios da boa-fé objetiva, da transparência e da proteção da confiança legítima do consumidor.
+Trata-se de fundamento autônomo e suficiente à manutenção da conclusão adotada no julgamento.
+Desse modo, verifica-se que os embargos de declaração buscam, em realidade, o reexame das teses já apreciadas por esta Câmara, especialmente quanto à validade das cláusulas limitativas de reembolso e à interpretação da prova documental produzida nos autos, providência incompatível com a estreita finalidade dos aclaratórios.
+5. Do prequestionamento
+Quanto ao pedido de prequestionamento, registre-se que o Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não é necessária a menção expressa aos dispositivos legais invocados pela parte, sendo suficiente que a matéria tenha sido efetivamente apreciada e decidida.
+Com efeito, “para fins de prequestionamento, é desnecessária a menção expressa aos dispositivos legais indicados pelas partes, sendo bastante que a matéria de direito tenha sido examinada e decidida de forma fundamentada, o que ocorreu no caso concreto.” (EDcl no AREsp n. 2.588.591/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/5/2026, DJEN de 22/5/2026.)
+Assim, consideram-se prequestionados os temas suscitados, ainda que não haja indicação expressa de todos os artigos mencionados pela embargante.
+6. Por fim, no que se refere ao requerimento das embargadas de aplicação de multa por violação ao art. 77, II, do CPC, não se verifica, no caso concreto, conduta que configure resistência injustificada ao andamento do processo. Os embargos foram manejados de forma tempestiva e regular, ainda que desprovidos de razão, não há abuso processual ou comportamento apto a ensejar a aplicação de penalidade
+7. Assim, os embargos de declaração opostos pela ré merecem ser conhecidos e rejeitados, à luz do art. 1.022 do CPC.
+Este é o voto.
