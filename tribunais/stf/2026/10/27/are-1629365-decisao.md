@@ -1,0 +1,26 @@
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado de São Paulo — TJSP, que inadmitiu o recurso extraordinário com fundamento na Súmula 279 do Supremo Tribunal Federal — STF.
+
+O recorrente refuta a incidência da Súmula 279/STF, afirmando, em suma, que:
+
+A pretensão do Agravante não reside em alterar as premissas fáticas descritas no v. acórdão — as quais, inclusive, são expressas ao admitir que a diligência decorreu de aviso via COPOM e suposta confissão informal (fls. 217/218) —, mas sim em obter o controle de constitucionalidade e legalidade sobre a conclusão adotada pelo Tribunal a quo a partir desses fatos incontroversos (doc. 158, p. 4).
+
+No mais, reitera a violação do art. 5°, XI e LVI, da Constituição da República.
+
+É o relatório.
+
+Bem examinados os autos, verifico que a decisão que inadmitiu o recurso extraordinário não merece reforma.
+
+Isso porque, conforme consignado na decisão agravada, para divergir do acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Com esse entendimento, menciono os seguintes julgados:
+
+Ementa: DIREITO PROCESSUAL PENAL. PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. BUSCA PESSOAL. INVIOLABILIDADE DE DOMICÍLIO. ENTRADA FORÇADA. FLAGRANTE DELITO. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que negou provimento a recurso extraordinário, com fundamento no art. 1.042, caput, do Código de Processo Civil — CPC, na Súmula 279 do Supremo Tribunal Federal e na natureza infraconstitucional da controvérsia. I. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se é cabível processar e julgar recurso extraordinário que não preenche os requisitos exigidos pela lei processual e pela jurisprudência do Supremo Tribunal Federal. III. RAZÕES DE DECIDIR 3. A matéria debatida restringe-se ao âmbito infraconstitucional, de modo que eventual ofensa à Constituição seria meramente reflexa. 4. O reexame da decisão demandaria incursão no conjunto fático-probatório, vedado pela Súmula 279/STF. IV. DISPOSITIVO E TESE 5. Agravo regimental a que se nega provimento (ARE 1.619.933 AgR/GO, da minha relatoria, DJe 7/10/2026).
+
+EMENTA DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRÁFICO DE DROGAS. INGRESSO EM DOMICÍLIO SEM MANDADO JUDICIAL. CRIME PERMANENTE. FUNDADAS RAZÕES. TEMA 280 DA REPERCUSSÃO GERAL. SÚMULA 279/STF. REEXAME DE FATOS E PROVAS. OFENSA REFLEXA À CONSTITUIÇÃO. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário, no qual se alegam violações aos direitos fundamentais da inviolabilidade domiciliar e do devido processo legal, em razão de ingresso policial em residência sem mandado judicial e da suposta ilicitude das provas obtidas em persecução penal por tráfico de drogas. II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) definir se o ingresso em domicílio sem mandado judicial, em contexto de crime permanente, observou as balizas constitucionais fixadas no Tema 280 da repercussão geral; (ii) estabelecer se a pretensão recursal demanda reexame do conjunto fático-probatório, hipótese vedada em sede de recurso extraordinário. III. RAZÕES DE DECIDIR 3. O acórdão recorrido analisa de forma extensa e fundamentada o conjunto probatório, concluindo pela existência de fundadas razões para o ingresso domiciliar, em consonância com a jurisprudência do Supremo Tribunal Federal. 4. Nos crimes de natureza permanente, como o tráfico de drogas, a flagrância se protrai no tempo, sendo dispensável o mandado judicial para o ingresso em domicílio quando presentes fundadas razões, justificáveis a posteriori, conforme tese fixada no Tema 280 da repercussão geral. 5. O julgamento do Tema 280 não estabelece requisito constitucional de diligência investigatória prévia para legitimar o ingresso domiciliar, sendo incabível a criação de exigências não previstas no texto constitucional. 6. A atuação judicial limita-se ao controle posterior da legalidade do ingresso em domicílio, exigindo-se fundadas razões objetivas, e não mera suspeita subjetiva. 7. No caso concreto, o ingresso no imóvel decorre de circunstâncias objetivas reconhecidas pelo Tribunal de origem, tais como informações prévias sobre a prática delitiva, abordagem em via pública, apreensão de drogas, vínculo do agravante com o imóvel e posterior localização de grande quantidade de entorpecentes e munições. 8. A pretensão de infirmar as conclusões do acórdão recorrido exige reexame do conjunto fático-probatório, providência vedada em recurso extraordinário, nos termos da Súmula 279/STF. 9. As demais alegações deduzidas pelo agravante configuram, quando muito, ofensa indireta ou reflexa à Constituição Federal, dependente da análise de legislação infraconstitucional, o que inviabiliza o acesso à via extraordinária. IV. DISPOSITIVO 10. Agravo regimental a que se nega provimento (ARE 1.578.514 AgR/SP, Rel. Min. André Mendonça, DJe 11/3/2026).
+
+Posto isso, nego provimento ao agravo (art. 932 do CPC).
+
+Publique-se.
+
+Brasília, 27 de outubro de 2026.
+
+Ministro Cristiano Zanin
+Relator
