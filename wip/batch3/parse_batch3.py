@@ -101,6 +101,24 @@ KEPT_BY_CONGRESS: dict[str, tuple[str, str]] = {
                                     "Planalto marks each such wording '(Mantido pelo Congresso Nacional)', a marker the "
                                     "history drops from the text. Until 19.4.1991 the dispositivo reads '(Vetado).'"),
 }
+# Vetoed parts of an amending law promulgated later (CF art. 66 § 5), read from the promulgation printed at the end of
+# the law's own page: law -> (day, reason, {(act, unit, label)}). The law's wording of each listed dispositivo starts
+# that day (not on the law's own day); a struck '(VETADO)' line the law's note puts there stands until then, and so
+# does the wording it was to replace.
+PROMULGATED: dict[str, tuple[str, str, set]] = {
+    "lei-13509-2017": ("2018-02-23", "Lei 13.509/2017 (in force on publication, DOU 23.11.2017): the parts vetoed on "
+                                     "22.11.2017 were promulgated after Congress overrode the veto ('eu promulgo, nos "
+                                     "termos do parágrafo 5º do art. 66 da Constituição Federal, as seguintes partes "
+                                     "vetadas', 22.2.2018, DOU 23.2.2018 edição extra, printed at the end of the Lei "
+                                     "13.509 page): for the ECA art. 19 § 1º, art. 19-A §§ 6º and 10 and art. 19-B § 2º. "
+                                     "Those wordings start on 23.2.2018; until then art. 19 § 1º keeps its 2009 wording "
+                                     "and the others read '(VETADO).'",
+                       {("estatuto-da-crianca-e-do-adolescente", "art-019", "§ 1º"),
+                        ("estatuto-da-crianca-e-do-adolescente", "art-019-a", "§ 6º"),
+                        ("estatuto-da-crianca-e-do-adolescente", "art-019-a", "§ 10"),
+                        ("estatuto-da-crianca-e-do-adolescente", "art-019-b", "§ 2º")}),
+}
+VETADO_LINE = re.compile(r".*\(\s*VETAD[OA]\s*\)\.?", re.I)
 KEPT = re.compile(r"\s*\(\s*Mantid[oa]s?\s+pelo\s+Congresso\s+Nacional\s*\)+")
 
 
@@ -335,6 +353,21 @@ def lifespans(paras: list[dict], cx) -> list[str]:
             p["start"], p["start_law"], p["restored"] = max(p["start"], d), key, False
         else:
             p["end"], p["end_law"], p["end_how"] = d, key, "expression"
+    for law, (day, _, where) in PROMULGATED.items():
+        old = cx.eff.get(law)
+        if not old:
+            continue
+        for p in paras:
+            if (cx.act, p["unit"], p["label"]) not in where or p["start_law"] != law or p["start"] != old:
+                continue
+            if VETADO_LINE.fullmatch(p["text"]) and p["state"] != "plain":
+                p["end"], p["end_law"], p["end_how"] = day, law, "promulgation"
+                continue
+            p["start"], p["promulgated"] = day, True
+            for q in paras:
+                if (q is not p and q["unit"] == p["unit"] and q["label"] == p["label"] and q["state"] != "plain"
+                        and q["end"] == old and q["end_law"] == law):
+                    q["end"], q["end_how"] = day, "promulgation"
     hit = KEPT_BY_CONGRESS.get(next((a["law"] for a in ACTS if a["slug"] == cx.act), ""))
     if hit:
         law = next(a["law"] for a in ACTS if a["slug"] == cx.act)
@@ -449,6 +482,15 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
             "label-only lines, and the history leaves revoked text out.",
             "No OCR: every text comes from the HTML text layer of the Planalto pages.",
             *P.ACT_DECISIONS,
+            *([f"Expressions struck inside a paragraph (Planalto strikes the old words in place, followed by the new "
+               f"ones or by nothing): each such paragraph is read as two wordings of the dispositivo, the old one up to "
+               f"the day of the law or ruling its note names ('Expressão substituída pela…', 'Expressão declarada "
+               f"inconstitucional pela ADI…'), the new one from then. Replacement words are taken from the amending law: "
+               + "; ".join(f"{law_label(k)} replaces " + ", ".join(f"'{a}' with '{b}'" for a, b in v)
+                           for k, v in EXPRESSION_SWAPS.items()) + f". Paragraphs read this way ({len(SPLITS)}): "
+               + "; ".join(SPLITS) + "."] if SPLITS else []),
+            *[f"{law_label(k)}: {why}." for k, (_, why, _) in PROMULGATED.items()],
+            *[f"{why}." for k, (_, why) in KEPT_BY_CONGRESS.items() if any(a["law"] == k for a in ACTS)],
             *[f"{a['title']}: {P.REWRITES[a['slug']][2]}" for a in ACTS if a["slug"] in P.REWRITES],
             *[f"{x[4]}." for x in P.REWRITE_BLOCKS],
             *[f"{P.law_label(k)}: {why}." for k, (d, why) in P.VETO_PROMULGATION.items()],
