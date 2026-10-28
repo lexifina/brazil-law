@@ -1,0 +1,79 @@
+{
+ "fetch": [
+  {
+   "id": "clt",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+   "ts": "20261022194436"
+  },
+  {
+   "id": "clt-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+   "ts": "20261019225805"
+  },
+  {
+   "id": "law:dl-1031-1969",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del1031.htm",
+   "ts": "20260808060041"
+  },
+  {
+   "id": "law:dl-127-1967",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del0127.htm",
+   "ts": "20260618134724"
+  },
+  {
+   "id": "law:dl-1535-1977",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del1535.htm",
+   "ts": "20261004220848"
+  },
+  {
+   "id": "law:dl-229-1967",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del0229.htm",
+   "ts": "20261012212712"
+  },
+  {
+   "id": "law:dl-2351-1987",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del2351.htm",
+   "ts": "20261018195947"
+  },
+  {
+   "id": "law:dl-3-1966",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del0003.htm",
+   "ts": "20261004041951"
+  },
+  {
+   "id": "law:dl-388-1968",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del0388.htm",
+   "ts": "20261009123359"
+  },
+  {
+   "id": "law:dl-424-1969",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del0424.htm",
+   "ts": "20261014102417"
+  },
+  {
+   "id": "law:dl-506-1969",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del0506.htm",
+   "ts": "20261014221339"
+  },
+  {
+   "id": "law:dl-507-1969",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del0507.htm",
+   "ts": "20261006114406"
+  },
+  {
+   "id": "law:dl-5922-1943",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/Del5922.htm",
+   "ts": "20260925032309"
+  },
+  {
+   "id": "law:dl-6053-1943",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del6053.htm",
+   "ts": "20260608025943"
+  },
+  {
+   "id": "law:dl-6110-1943",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del6110.htm",
+   "ts": "20261013092928"
+  }
+ ]
+}
