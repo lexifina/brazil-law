@@ -448,6 +448,37 @@ def check_heading_renames() -> None:
             raise SystemExit(f"heading rename {old!r} -> {new!r}: not in the text of {law}")
 
 
+# Wording enacted but not yet in force, which Planalto's Constitution page shows only as a "Vide ... (Vigência)" note:
+# read from the amendment's own text. (unit, label) -> (law, in-force day, source id, start of the new line, reason)
+FUTURE = {
+    ("art-007", "XV -"): ("ec-141", "2026-12-16", "emc-141", "XV - repouso semanal remunerado de 2",
+                          "EC 141/2026 art. 10, I: the change to art. 7 XV enters into force 'após decorridos 2 (dois) "
+                          "meses de sua publicação' (DOU 16.10.2026); counting as LC 95/1998 art. 8 § 1 does for days "
+                          "(publication day included, in force the day after the period), that is 16.12.2026. The new "
+                          "wording is read from EC 141's own text."),
+}
+
+
+def add_future(paras: list[dict]) -> list[str]:
+    problems = []
+    for (unit, label), (law, day, ident, start, _) in FUTURE.items():
+        x = page_text(ident)
+        i = x.find(start)
+        if i < 0:
+            problems.append(f"future wording for {unit} {label} not found in {ident}")
+            continue
+        new = norm(NOTE.sub("", x[i:x.index(";", i) + 1]))
+        cur = [p for p in paras if p["unit"] == unit and p["label"] == label and p["state"] == "plain" and not p["end"]]
+        if len(cur) != 1:
+            problems.append(f"future wording for {unit} {label}: {len(cur)} current lines")
+            continue
+        p = cur[0]
+        p["end"], p["end_law"], p["end_how"] = day, law, "future"
+        q = dict(p, text=new, notes=[], start=day, start_law=law, start_how="future", end=None, end_law=None, end_how=None)
+        paras.insert(paras.index(p) + 1, q)
+    return problems
+
+
 def split_court_strikes(paras: list[dict]) -> list[str]:
     """A paragraph with words struck by a court becomes two: the full wording until the ruling, the rest after."""
     out, problems = [], []
@@ -783,6 +814,7 @@ def main(argv: list[str]) -> int:
     check_heading_renames()
     problems = split_court_strikes(paras)
     problems += lifespans(paras, eff, effect_override)
+    problems += add_future(paras)
     if a.stats:
         from collections import Counter
         print("paragraphs", len(paras), Counter(p["state"] for p in paras))
@@ -867,9 +899,10 @@ def main(argv: list[str]) -> int:
         *[c["why"] for c in COURTS.values()],
         "'Vide ADI' notes are informational and change no text; only a ruling that Planalto shows as struck words "
         "is a court law here.",
-        "Future text is not modelled: Planalto shows EC 132/2023's changes that take effect in 2027 and 2033 "
-        "(art. 23) and EC 141/2026's change to art. 7 XV (in force two months after publication) only as 'Vide' "
-        "notes beside the text now in force, so the future branch has no versions yet.",
+        "Future text: Planalto's Constitution page shows wording enacted but not yet in force only as 'Vide ... "
+        "Vigência' notes beside the text in force. " + " ".join(f[4] for f in FUTURE.values()) + " EC 132/2023's "
+        "changes that take effect in 2027 and 2033 (its art. 23: arts. 3, 4, 5 and 11) are not on the future "
+        "branch yet.",
         "Units: one file per article (art-NNN, ADCT adct-art-NNN), plus the preamble and one file each for the "
         "headings of the main text and of the ADCT (titulos, adct-titulos). Each paragraph or item is one line; "
         "notes are removed; the signatures are left out.",

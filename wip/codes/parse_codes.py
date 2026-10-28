@@ -792,8 +792,23 @@ def compare(last: dict[str, str], ref: dict[str, str]) -> list[str]:
             continue
         al, bl = a.splitlines(), b.splitlines()
         import difflib
-        d = [x for x in difflib.unified_diff(bl, al, lineterm="", n=0) if not x.startswith(("---", "+++", "@@"))]
-        diffs.append(f"{u}: " + " | ".join(x[:160] for x in d[:6]))
+        out = []
+        sm = difflib.SequenceMatcher(None, bl, al, autojunk=False)
+        for tag, i1, i2, j1, j2 in sm.get_opcodes():
+            if tag == "equal":
+                continue
+            if tag == "replace" and i2 - i1 == j2 - j1:
+                for x, y in zip(bl[i1:i2], al[j1:j2]):
+                    cs = difflib.SequenceMatcher(None, x, y, autojunk=False)
+                    for t, a1, a2, b1, b2 in cs.get_opcodes():
+                        if t != "equal":
+                            out.append(f"Planalto consolidated {x[max(0, a1 - 25):a2 + 10]!r} / replay {y[max(0, b1 - 25):b2 + 10]!r}")
+                continue
+            for x in bl[i1:i2]:
+                out.append(f"only in consolidated: {x[:120]!r}")
+            for y in al[j1:j2]:
+                out.append(f"only in replay: {y[:120]!r}")
+        diffs.append(f"{u}: " + " | ".join(out[:6]))
     return diffs
 
 
