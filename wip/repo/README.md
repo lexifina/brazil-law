@@ -31,7 +31,7 @@ Every act is rebuilt the same way, from Planalto's annotated page of the act (su
 | Everything one amendment changed | `git show law/ec-26-2000` (tags `law/<key>` mark each amendment's commit) |
 | The whole Constitution on a date | `python tools/vigente_em.py 1995-01-01 constituicao` |
 | The Constitution as of a version day | `git show constituicao/2000-02-15` (tags `<act>/<in-force day>`) |
-| Changes enacted but not yet in force | `git log main..futuro` (EC 141/2026, art. 7 XV, from 16 December 2026) |
+| Changes enacted but not yet in force | `git log main..futuro` (EC 141/2026 art. 7 XV from 16 December 2026; EC 132/2023's tax reform stages of 2027 and 2033) |
 
 After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
 
@@ -62,7 +62,7 @@ The author of a commit is the amendment (or ruling) that made the change, with a
 
 ## What it does not show
 
-- **Most future text.** The branch `futuro` holds EC 141/2026's new art. 7 XV (two days of weekly rest), in force two months after publication, on 16 December 2026; its wording is read from EC 141's own page, since Planalto's Constitution page shows it only as a "Vide … (Vigência)" note. EC 132/2023 (tax reform) also changes provisions from 2027 and 2033; those changes are not on `futuro` yet.
+- **Future text, from the amendments' own words.** The branch `futuro` holds EC 141/2026's new art. 7 XV (in force on 16 December 2026, two months after publication) and EC 132/2023's tax-reform stages: its arts. 3 and 11 'em 2027' and arts. 4 and 5 'em 2033' (dated 1 January of those years), with the revocations of its art. 22 (art. 195 I "b", IV and § 12 in 2027; arts. 155 II and §§ 2º to 5º, 156 III and § 3º, 158 IV "a" and § 1º, 161 I and ADCT arts. 80 II, 82 § 2º and 83 in 2033). Planalto's Constitution page shows these only as "Vide … Vigência" notes, so their wording is read from each amendment's own page and placed by its labels (article, paragraph, inciso, alínea). Planalto has not consolidated them yet, so this text has not been checked against a consolidated page.
 - **Effects that differ from the in-force day** (see Dates), and the STF's interpretations that leave the words alone ("Vide ADI").
 - **The signatures** of the Constituent Assembly, and Planalto's notes, which are used only to date and credit changes.
 - **Typesetting.** Spacing, quotes, dashes and label punctuation ("§ 1º -" and "§ 1º") were normalised; the source's own typos are kept.
