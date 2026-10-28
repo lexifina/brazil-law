@@ -475,8 +475,11 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
             continue
         if not t:
             if b["notes"] and out:
-                # a note in a block of its own belongs to the line(s) before it (headings, mostly)
-                attach_notes(out, b["notes"])
+                # a note in a block of its own belongs to the line(s) before it
+                if out[-1]["heading"]:
+                    out[-1].setdefault("notes_after", []).extend(b["notes"])
+                else:
+                    attach_notes(out, b["notes"])
             continue
         if zone == "pre" and (b["all_link"] or NAV.match(t)):
             continue
@@ -495,9 +498,51 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
         if unit is None:
             unit = "preambulo"
         out.append({**b, "unit": unit, "label": lab, "heading": False})
+    heading_groups(out)
     for i, p in enumerate(out):
         p["i"] = i
     return out, notes_only
+
+
+def heading_groups(out: list[dict]) -> None:
+    """Planalto keeps each wording of a block of headings in place, one block after the other ("CAPÍTULO IX / DA
+    AUTORIDADE ...", then "CAPÍTULO IX / DA AGÊNCIA ..."), with the note standing alone somewhere in the block. A run
+    of heading lines is split into wordings wherever its first line repeats; every line of a wording gets the
+    wording's notes and an internal slot label (run, position) so the wordings replace each other line by line. In
+    the last wording only as many lines as the wording before it had are the replacement; the lines after it are
+    headings of their own. A run with one wording gives a standing note to the lines just before it, and its struck
+    lines share their notes."""
+    i, run = 0, 0
+    while i < len(out):
+        if not out[i]["heading"]:
+            i += 1
+            continue
+        j = i
+        while j < len(out) and out[j]["heading"]:
+            j += 1
+        lines = out[i:j]
+        run += 1
+        first = lines[0]["text"]
+        starts = [k for k, p in enumerate(lines) if p["text"] == first]
+        if len(starts) > 1 and HEADING.match(first):
+            groups = [lines[a:b] for a, b in zip(starts, starts[1:] + [len(lines)])]
+            for g, grp in enumerate(groups):
+                notes = [n for p in grp for n in p.get("notes_after", [])]
+                n_repl = len(grp) if g < len(groups) - 1 else len(groups[g - 1])
+                for pos, p in enumerate(grp):
+                    p["label"] = f"h{run}-{pos}"
+                    if pos < n_repl:
+                        p["notes"] = p["notes"] + [n for n in notes if n not in p["notes"]]
+        else:
+            for k, p in enumerate(lines):
+                p["label"] = f"h{run}-{k}"
+                if p.get("notes_after"):
+                    attach_notes(out[:i + k + 1], p["notes_after"])
+            struck = [p for p in lines if p["state"] != "plain"]
+            shared = [n for p in struck for n in p["notes"]]
+            for p in struck:
+                p["notes"] = p["notes"] + [n for n in shared if n not in p["notes"]]
+        i = j
 
 
 def attach_notes(out: list[dict], notes: list[str]) -> None:
@@ -658,7 +703,7 @@ def successor(paras: list[dict], i: int) -> int | None:
         if p["heading"]:
             if not q["heading"]:
                 return None
-            if q["start"] > p["start"] and (not p["label"] or same_slot(p, q) or not q["label"]):
+            if q["start"] > p["start"] and same_slot(p, q):
                 return j
             continue
         if q["unit"] != p["unit"] or q["heading"]:
@@ -675,7 +720,7 @@ def predecessor(paras: list[dict], i: int) -> int | None:
     q = paras[i]
     if q["heading"] or not q["label"]:
         if q["heading"] and q["label"]:
-            for j in range(i - 1, max(-1, i - 8), -1):
+            for j in range(i - 1, max(-1, i - 40), -1):
                 r = paras[j]
                 if not r["heading"]:
                     return None
