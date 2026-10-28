@@ -1,0 +1,31 @@
+Decisão: Trata-se de embargos declaratórios opostos em face de decisão que julgou prejudicado o recurso com base no art. 13, V, “c”, do RISTF. A parte embargante alega, em síntese, que (eDOC 116):
+
+“12. Com efeito, o julgamento mencionado na decisão embargada corresponde ao acórdão proferido nos Embargos de Declaração no Recurso Especial nº 2.246.181/RS, opostos pela Fazenda Nacional, no qual a Segunda Turma do E. Superior Tribunal de Justiça acolheu os aclaratórios, com efeitos modificativos, para dar provimento ao Recurso Especial da União e restabelecer a sentença denegatória do mandado de segurança, nos termos da ementa abaixo:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. ALTERAÇÃO DO RESULTADO DO ACÓRDÃO EMBARGADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITO MODIFICATIVO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Nos termos da tese definida pela Primeira Seção, na análise do Tema n. 1.283 do STJ, “é necessário que o prestador de serviços turísticos esteja previamente inscrito no CADASTUR, conforme previsto na Lei n. 11.771/2008, para que possa se beneficiar da alíquota zero relativa ao PIS/ COFINS, à CSLL e ao IRPJ, instituído pelo art. 4º da Lei 14.148/2021 no Programa Emergencial de Retomada do Setor de Eventos (PERSE)”.
+3. No caso dos autos, considerados o fato de o mandado de segurança ter sido impetrado em fevereiro de 2023, o fato de a sociedade empresária não ter-se inscrito no Cadastur até 18 de março de 2022 e o fato de a inscrição ser posterior à alteração das regras do benefício fiscal, deve-se reconhecer não estar comprovado o direito líquido e certo invocado pela parte impetrante.
+4. Constatada omissão no acórdão embargado, cuja supressão resulta no provimento do recurso especial da Fazenda Nacional.
+5. Embargos de declaração acolhidos, com efeito modificativo, para dar provimento ao recurso especial da Fazenda Nacional e restabelecer a sentença denegatória do mandado de segurança.
+13. A leitura da ementa acima demonstra, portanto, que o provimento recursal favoreceu exclusivamente a Fazenda Nacional, ora Embargada, inexistindo qualquer provimento de recurso interposto pela Embargante perante aquela Corte Superior, tampouco acolhimento de pretensão recursal por ela formulada no âmbito do recurso especial mencionado.
+14. Diante disso, impõe-se o acolhimento destes embargos para sanar o equívoco identificado e reexaminar a conclusão de perda superveniente do objeto, considerando-se corretamente que o provimento do Recurso Especial ocorreu em favor da União, e não da Embargante.
+15. Por decorrência lógica, uma vez sanada a premissa acima, de rigor que este E. STF proceda ao regular julgamento do Agravo em Recurso Extraordinário interposto pela Embargante, analisando o caso concreto sob a perspectiva dos princípios constitucionais da isonomia e da livre concorrência.
+16. Portanto, diante do exposto, a Embargante requer o conhecimento e o acolhimento dos presentes Embargos de Declaração, para que seja sanado o erro de premissa fática constante da r. decisão retro, esclarecendo-se que o E. Superior Tribunal de Justiça deu provimento ao Recurso Especial interposto pela Fazenda Nacional, e não a recurso da Embargante.
+17. Requer-se, consequentemente, seja afastada a conclusão de perda superveniente do objeto do Agravo em Recurso Extraordinário, reconhecendo-se a necessidade de reexame da prejudicialidade à luz da correta identificação da parte beneficiada pelo julgamento do E. STJ.
+18. Requer-se seja determinado o regular prosseguimento do Agravo em Recurso Extraordinário interposto pela Embargante (v. doc. 02), com sua distribuição e julgamento por este E. Supremo Tribunal Federal, mediante a apreciação das razões recursais e das questões constitucionais suscitadas no Recurso Extraordinário, especialmente aquelas relacionadas à alegada violação aos princípios da isonomia tributária e da livre concorrência, previstos nos arts. 5º, 150, inciso II, e 170, inciso IV, da Constituição Federal.”
+É o relatório. Decido.
+Sem razão a embargante.
+Em nome da celeridade processual (art. 5º, LXXVIII, da CF) e ante a inexistência de prejuízo, visto que não há, na hipótese, efeitos modificativos, deixo de intimar a parte embargada para apresentação de contrarrazões.
+Acentuo que o princípio do contraditório exige a manifestação das partes para que não haja decisão surpresa, o que não é o caso, uma vez que a decisão recorrida será mantida.
+Isso porque, conforme dispõe o art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a sanar obscuridade, contradição, omissão ou corrigir eventual erro material na decisão impugnada. Nenhuma dessas hipóteses, contudo, se verifica na espécie.
+É certo que o recurso especial que foi provido pelo Superior Tribunal de Justiça foi interposto pela Fazenda Nacional e, dessa forma, a pretensão atendida foi a da parte recorrida em relação ao presente recurso extraordinário e não a que interpôs o recurso extraordinário, ora embargante.
+Ocorre que, conforme restou expressamente consignado na decisão embargada, o prejuízo do extraordinário se dá em razão da substituição do julgado impugnado pelo acórdão proferido pelo Superior Tribunal de Justiça no julgamento do recurso especial, que foi provido para cassar o acórdão do Tribunal Regional Federal da 4ª Região, objeto do presente recurso extraordinário.
+Além disso, verifica-se que não houve interposição de recurso contra a decisão do Superior Tribunal de Justiça, circunstância que reforça a prejudicialidade reconhecida.
+Desse modo, não obstante o erro material na indicação de quem teve a pretenção atendida com o provimento do recurso especial, a decisão de prejudicialidade está correta e suficiente compreensível, inexistindo qualquer dos vícios previstos no art. 1.022 do CPC que indique a necessidade de revisão do julgado, impondo-se a manutenção da decisão embargada.
+Ante o exposto, com base no art. 21, § 1º, do RISTF e no art. 1.024, § 2º, do CPC, rejeito os embargos de declaração.
+Publique-se.
+Brasília, 28 de outubro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
