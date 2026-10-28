@@ -216,6 +216,8 @@ def norm(s: str) -> str:
     s = s.replace("–", "-").replace("—", "-")
     s = re.sub(r"\s+", " ", s).strip()
     s = re.sub(r"(\bArt\.|§)\s*(\d+(?:\.\d{3})*)\s*\.?\s*[o°º](?![a-zà-ú])", r"\1 \2º", s)
+    s = re.sub(r"\bArt\.\.\s*(?=\d)", "Art. ", s)
+    s = re.sub(r"^Art\s+(?=\d)", "Art. ", s)
     s = re.sub(r"\bArt\.(?=\d)", "Art. ", s)
     s = re.sub(r"(\d) º", r"\1º", s)
     s = re.sub(r"\bn º", "nº", s)

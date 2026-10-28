@@ -1,24 +1,25 @@
-"""Reads the cache and writes scripts/brazil-law/corpus.d/60-phase2.json: the Código Penal (Decreto-Lei 2.848/1940),
-then the Código de Processo Civil (Lei 13.105/2015) and the CLT (Decreto-Lei 5.452/1943), in the corpus format of
+"""Reads the cache and writes scripts/brazil-law/corpus.d/80-proc.json: the Código de Processo Penal (Decreto-Lei
+3.689/1941) and the Código de Defesa do Consumidor (Lei 8.078/1990), in the corpus format of
 scripts/gitlaw_common/SCHEMA.md.
 
-    python -X utf8 scripts/brazil-law/parse_phase2.py [--stats] [--dry]
+    python -X utf8 scripts/brazil-law/proc/parse_proc.py [--stats] [--dry]
 
-Adapted from codes/parse_codes.py (the Código Civil/LGPD part, written by the helper agent): the same struck-text
-replay of Planalto's annotated page, with the act configuration (ACTS, ACT_DAY), the hand tables and the decisions
-changed for these acts. No network: every input is an Internet Archive raw capture of a www.planalto.gov.br page,
-pinned in sources_phase2.json and fetched by fetch_phase2.py into .cache/. The same cache gives the same bytes.
+Adapted from ../parse_phase2.py (Código Penal, CPC) and ../codes/parse_codes.py (Código Civil, LGPD): the same
+struck-text replay of Planalto's annotated page, with the act configuration (ACTS, ACT_DAY), the hand tables and the
+decisions changed for these acts. No network: every input is an Internet Archive raw capture of a www.planalto.gov.br
+page, pinned in proc/sources_proc.json and fetched by proc/fetch_proc.py into ../.cache/. The same cache gives the
+same bytes.
 
 How each act's history is rebuilt
-  Planalto's annotated page of an act (del2848.htm, ...) keeps every superseded wording in place, struck through,
-  directly before the wording that replaced it, and ends each wording with the source's own note ("(Redação dada
-  pela Lei nº 7.209, de 11.7.1984)", "(Incluído pela ...)", "(Revogado pela ...)"). Text with no note is the act as
+  Planalto's annotated page of an act (del3689.htm, l8078.htm) keeps every superseded wording in place, struck
+  through, directly before the wording that replaced it, and ends each wording with the source's own note ("(Redação
+  dada pela Lei nº 11.719, de 2008)", "(Incluído pela ...)", "(Revogado pela ...)"). Text with no note is the act as
   enacted. Each paragraph gets a life span: start = in-force day of the law in its note (else the act's own day);
   end = its "Revogado" note, else the start of the next wording of the same dispositivo; a Medida Provisória's
   wording with no later wording ends when the MP was converted or lapsed. The text of an article on day D is its
   paragraphs alive on D, in document order. Every change is credited to the law named in the note that started or
   ended the paragraph; anything else stays uncredited. The last version is checked against Planalto's consolidated
-  page (del2848compilado.htm, ...).
+  page (del3689compilado.htm, l8078compilado.htm).
 """
 from __future__ import annotations
 
@@ -36,12 +37,12 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-FOLDER = HERE
+FOLDER = HERE.parent
 sys.path.insert(0, str(FOLDER))
 import fetch  # noqa: E402  (the main Brazil fetcher: cache naming and Wayback URLs)
 
 PL = "https://www.planalto.gov.br/ccivil_03/"
-OUT = FOLDER / "corpus.d" / "60-phase2.json"
+OUT = FOLDER / "corpus.d" / "80-proc.json"
 RETRIEVED = "2026-10-28"
 
 MONTHS = {"janeiro": 1, "fevereiro": 2, "março": 3, "marco": 3, "abril": 4, "maio": 5, "junho": 6, "julho": 7,
@@ -52,7 +53,7 @@ MONTHS = {"janeiro": 1, "fevereiro": 2, "março": 3, "marco": 3, "abril": 4, "ma
 
 
 def sources() -> dict[str, dict]:
-    return {i["id"]: i for i in json.loads((HERE / "sources_phase2.json").read_text(encoding="utf-8"))["fetch"]}
+    return {i["id"]: i for i in json.loads((HERE / "sources_proc.json").read_text(encoding="utf-8"))["fetch"]}
 
 
 def raw(ident: str) -> tuple[bytes, str] | None:
@@ -83,9 +84,9 @@ def decode(b: bytes) -> str:
 # law references in notes
 
 LAW_REF = re.compile(
-    r"(Lei\s+Complementar|Lei|Medida\s+Provis[óo]ria|Decreto[-\s]?[Ll]ei)\s*(?:n\s*\.?\s*[º°o]?\s*\.?|n\.)?\s*"
-    r"(\d{1,2}(?:\.\s?\d{3})+|\d+)(?:[-\s]*[A-Z](?![a-z]))?(?:\s*\.)?(?:\s*,)?(?:\s*(?:de\s+)?(\d{1,2}º?\s*[./]\s*\d{1,2}\s*[./]\s*(\d{4})|"
-    r"\d{1,2}º?\s+de\s+(?:\w+\s+de\s+)?(\d{4})|(\d{4})))?", re.I)
+    r"(Lei\s+Complementar|Lei|Medida\s+Provis[óo]ria|Decreto[-\s]?[Ll]ei)\s*(?:n\s*[.\]]?\s*[º°o]?\s*\.?)?\s*"
+    r"(\d{1,2}(?:\.\s?\d{3})+|\d+)(?:-\d{1,2}(?!\d))?(?:[-\s]*(?P<suf>[A-Z])(?![a-z]))?(?:\s*\.)?(?:\s*,)?(?:\s*(?:de\s+)?(\d{1,2}º?\s*[./]\s*\d{1,2}\s*[./]\s*(\d{4}|\d{2})(?!\d))|"
+    r"\s*de\s+(?:\d{1,2}º?\s+de\s+\w+\s+de\s+(\d{4})|(\d{4})))?", re.I)
 
 
 def law_key(text: str, year_of: dict | None = None) -> str | None:
@@ -95,8 +96,10 @@ def law_key(text: str, year_of: dict | None = None) -> str | None:
         return None
     kind = m.group(1).lower()
     pre = "lc" if "complementar" in kind else "mp" if kind.startswith("medida") else "dl" if kind.startswith("decreto") else "lei"
-    n = int(re.sub(r"\D", "", m.group(2)))
-    y = m.group(4) or m.group(5) or m.group(6)
+    n = str(int(re.sub(r"\D", "", m.group(2)))) + (m.group("suf") or "").lower()
+    y = m.group(5) or m.group(6) or m.group(7)
+    if y and len(y) == 2:
+        y = ("19" if int(y) >= 40 else "20") + y
     if not y and year_of:
         y = year_of.get(f"{pre}-{n}")
     if not y:
@@ -111,7 +114,8 @@ LAW_ALIAS = {}
 
 def law_label(key: str) -> str:
     pre, n, y = key.split("-")
-    num = f"{int(n):,}".replace(",", ".")
+    suf = n.lstrip("0123456789")
+    num = f"{int(n[:len(n) - len(suf)]):,}".replace(",", ".") + (f"-{suf.upper()}" if suf else "")
     return {"lei": f"Lei nº {num}, de {y}", "lc": f"Lei Complementar nº {num}, de {y}",
             "mp": f"Medida Provisória nº {num}, de {y}", "dl": f"Decreto-Lei nº {num}, de {y}"}[pre]
 
@@ -191,7 +195,9 @@ def blocks_of(html: str) -> list[dict]:
 
 
 NOTE = re.compile(
-    r"\(\s*(?:Reda[çc][ãa]o|Inclu[ií]d|Acrescentad|Acrescid|Revogad[oa]s?\s+(?:pel|por)|Renumerad|Vide|Vig[êe]ncia|"
+    r"\(\s*(?:Reda[çc][ãa]o|Inclu[ií]d|In[cl]u[ií]d|Inlcu[ií]d|Acrescentad|Acrescid|Revogad[oa]s?\s+(?:pel|por|Medida|Lei|Decreto|dada)|"
+    r"Suprimid|Extint|Revigorad|Restaurad|Restabelecid|Inciso\s+inclu|Par[áa]grafo\s+inclu|Al[íi]nea\s+inclu|"
+    r"Fica\s+sem\s+efeito|Corrigid|Renumerad|(?:Par[áa]grafo|Inciso|Al[íi]nea)\s+\S+\s+renumerad|Vide|Vig[êe]ncia|"
     r"Produ[çc][ãa]o\s+de\s+efeito|Regulament|Declarad|Suspens|Execu[çc][ãa]o|Express[ãa]o|Promulga|Convers|Convertid|"
     r"Texto\s+compilado|Atualizad|Mensagem|Revoga[çc][ãa]o|Par[áa]grafo\s+[úu]nico\s+(?:renumerad|transformad))[^()]*(?:\([^()]*\)[^()]*)*(?:\)|$)", re.I)
 # a note Planalto left without parentheses at the end of a line: "...; Redação dada pela Medida Provisória nº 869, de 2018"
@@ -199,8 +205,9 @@ BARE_NOTE = re.compile(r"\s(?:Reda[çc][ãa]o\s+dada|Inclu[ií]d[oa]|Revogad[oa]
 LINKWORDS = re.compile(r"^\s*\(?\s*(?:Produ[çc][ãa]o\s+de\s+efeitos?|Vig[êe]ncia|Regulamento|Regulamenta[çc][ãa]o)"
                        r"\s*\)?\s*\.?\s*$", re.I)
 LAPSED_WORDS = re.compile(r"\(?\s*Vig[êe]ncia\s+encerrada\s*\)?", re.I)
-START_KIND = re.compile(r"Reda[çc][ãa]o\s+dada|Inclu[ií]d|Acrescentad|Acrescid|Renumerad", re.I)
-END_KIND = re.compile(r"Revogad", re.I)
+START_KIND = re.compile(r"Reda[çc][ãa]o\s+(?:dada|restabelecida)|Inclu[ií]d|In[cl]u[ií]d|Inlcu[ií]d|Acrescentad|Acrescid|"
+                        r"Renumerad|Revigorad|Restaurad|Restabelecid|Corrigid", re.I)
+END_KIND = re.compile(r"Revogad|Suprimid|Extint|Fica\s+sem\s+efeito|Vig[êe]ncia\s+suspensa", re.I)
 RENUM_FROM = re.compile(r"Renumerad[oa]\s+d[eo]s?\s+(par[áa]grafo\s+[úu]nico|inciso\s+[IVXLC]+|§\s*\d+\s*[º°o]?)", re.I)
 
 
@@ -298,6 +305,16 @@ def label_of(text: str) -> str:
 
 
 def renum_label(note: str) -> str | None:
+    m = re.search(r"Par[áa]grafo\s+(\d+)\s*º?\s+renumerad", note, re.I)
+    if m:
+        return f"§ {int(m.group(1))}º"
+    m = re.search(r"Par[áa]grafo\s+[úu]nico\s+renumerad", note, re.I)
+    if m:
+        return "Parágrafo único"
+    m = re.search(r"(?:Inciso|Al[íi]nea)\s+(\S+)\s+renumerad", note, re.I)
+    if m:
+        x = m.group(1).strip(".,")
+        return x + (" -" if re.match(r"^[IVXLC]+$", x) else ")")
     m = RENUM_FROM.search(note)
     if not m:
         return None
@@ -366,11 +383,22 @@ def page_info(key: str) -> dict:
     body = re.sub(r"(?is)<script.*?</script>|<style.*?</style>|<strike>.*?</strike>", " ", t)
     x = norm(htmlmod.unescape(re.sub(r"<[^>]+>", " ", body)))
     info: dict = {"source_url": u, "sha256": hashlib.sha256(b).hexdigest()}
-    m = re.search(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI)[^,]{0,40}?N[º°O]?\s*\.?\s*[\d.]+\s*,?\s*DE\s+(\d{1,2})º?\s+DE\s+(\w+)\s+DE\s+(\d{4})",
-                  head, re.I)
-    if m and m.group(2).lower() in MONTHS:
-        info["enacted"] = f"{int(m.group(3)):04d}-{MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
-    pub = re.search(r"publicad[oa]\s+n[oa]\s+D\.?\s*O\.?\s*U\.?\s*(?:de\s*)?(\d{1,2})\s*º?\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})", head, re.I)
+    if re.search(r"Please enable JavaScript|Acesso Negado", head[:400]):
+        return {"bad_page": "bot page"}
+    num = key.split("-")[1]
+    m = None
+    for mm in re.finditer(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI|DECRETO LEI)[^,]{0,40}?N\s*[º°O]?\s*\.?\s*([\d.]+)(?:-?([A-Z]))?(?:-\d+)?\s*,?\s*"
+                          r"DE\s+(\d{1,2})º?\s+(?:DE\s+)?(\w+)\s+DE\s+(\d{4})", head, re.I):
+        if str(int(mm.group(1).replace(".", "") or 0)) + (mm.group(2) or "").lower() == num.lstrip("0") or                 str(int(mm.group(1).replace(".", "") or 0)) == num.rstrip("abcdefghijklmnopqrstuvwxyz"):
+            m = mm
+            break
+    if not m:
+        return {"bad_page": "the page is not this act: " + head[:120]}
+    if m and m.group(4).lower() in MONTHS:
+        info["enacted"] = f"{int(m.group(5)):04d}-{MONTHS[m.group(4).lower()]:02d}-{int(m.group(3)):02d}"
+    pubs = list(re.finditer(r"publicad[oa]\s+n[oa]\s+D\.?\s*O\.?\s*U\.?\s*(?:de\s*)?(\d{1,2})\s*º?\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})", head, re.I))
+    # the page's own "Este texto não substitui o publicado no DOU de ..." line comes last
+    pub = pubs[-1] if pubs else None
     if pub:
         info["published"] = f"{int(pub.group(3)):04d}-{int(pub.group(2)):02d}-{int(pub.group(1)):02d}"
     if m:
@@ -406,25 +434,13 @@ def page_info(key: str) -> dict:
 
 # Hand-checked in-force days where a law's own clause is staged or not machine-readable: key -> (date, reason).
 VIGENCIA_FIXED: dict[str, tuple[str, str]] = {
-    "lei-13256-2016": ("2016-03-18", "art. 4: 'Esta Lei entra em vigor no início da vigência da Lei nº 13.105, de 16 de "
-                                     "março de 2015 (Código de Processo Civil)', that is 18.3.2016 (published 5.2.2016)"),
-    "lei-14711-2023": ("2023-10-31", "art. 21, II: 'na data de sua publicação, quanto aos demais dispositivos' (published "
-                                     "31.10.2023; item I was vetoed)"),
-    "lc-225-2026": ("2026-01-09", "art. 58, II: 'na data de sua publicação, quanto aos demais dispositivos' (published "
-                                  "9.1.2026); its change to the Código Penal (art. 49: arts. 168-A and 337-A) is not among "
-                                  "the provisions item I defers"),
-    "lei-10741-2003": ("2004-01-01", "art. 118: 'entra em vigor decorridos 90 (noventa) dias da sua publicação' "
-                                     "(published 3.10.2003: 1.1.2004)"),
 }
 # Provisions whose in-force day differs from the rest of their law: (law, act, unit) -> (date, reason).
 VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {}
 # The day a lapsed Medida Provisória stopped having effect, from the Ato Declaratório of the President of Congress
 # (CF art. 62 §§ 3, 4, 7 and 11): key -> (date, reason). Filled in after reading each MP page.
 # Vetoed parts later promulgated after Congress overrode the veto (CF art. 66 §§ 5 and 7): law -> (day, reason).
-VETO_PROMULGATION = {
-    "lei-13964-2019": ("2021-04-30", "the parts of Lei 13.964/2019 vetoed on 24.12.2019 were promulgated after Congress "
-                                     "overrode the veto (CF art. 66 § 5; DOU 30.4.2021, printed at the end of the Lei "
-                                     "13.964 page)"),
+VETO_PROMULGATION: dict[str, tuple[str, str]] = {
 }
 MP_LAPSE: dict[str, tuple[str, str]] = {}
 
@@ -966,67 +982,39 @@ def compare(last: dict[str, str], ref: dict[str, str]) -> list[str]:
 # the two acts
 
 ACTS = [
-    {"slug": "codigo-penal", "short": "CP", "page": "cp", "consolidated": "cp-compilado", "law": "dl-2848-1940",
-     "title": "Código Penal (Decreto-Lei nº 2.848, de 7 de dezembro de 1940)", "digits": 3, "center_headings": False,
-     "url": PL + "decreto-lei/del2848compilado.htm"},
-    {"slug": "codigo-de-processo-civil", "short": "CPC", "page": "cpc", "consolidated": "cpc-compilada",
-     "law": "lei-13105-2015", "title": "Código de Processo Civil (Lei nº 13.105, de 16 de março de 2015)", "digits": 4,
-     "url": PL + "_ato2015-2018/2015/lei/l13105compilada.htm"},
+    {"slug": "codigo-de-processo-penal", "short": "CPP", "page": "cpp", "consolidated": "cpp-compilado",
+     "law": "dl-3689-1941", "title": "Código de Processo Penal (Decreto-Lei nº 3.689, de 3 de outubro de 1941)",
+     "digits": 3, "url": PL + "decreto-lei/del3689compilado.htm"},
+    {"slug": "codigo-de-defesa-do-consumidor", "short": "CDC", "page": "cdc", "consolidated": "cdc-compilado",
+     "law": "lei-8078-1990", "title": "Código de Defesa do Consumidor (Lei nº 8.078, de 11 de setembro de 1990)",
+     "digits": 3, "url": PL + "leis/l8078compilado.htm"},
 ]
 
 # The day each act came into force (its own vigência clause), and its own law record.
 ACT_DAY = {
-    "lei-13105-2015": ("2016-03-18", "Lei 13.105/2015 art. 1.045: 'Este Código entra em vigor após decorrido 1 (um) "
-                                     "ano da data de sua publicação oficial' (published 17.3.2015): in force 18.3.2016, "
-                                     "the period ending on the same calendar day (LC 95/1998 art. 8 § 1, as the STJ "
-                                     "held)"),
-    "dl-2848-1940": ("1942-01-01", "Decreto-Lei 2.848/1940 art. 361: 'Este Código entrará em vigor no dia 1º de janeiro "
-                                   "de 1942' (published in the DOU of 31.12.1940, rectified 3.1.1941)"),
+    "dl-3689-1941": ("1942-01-01", "Decreto-Lei 3.689/1941 art. 810: 'Este Código entrará em vigor no dia 1º de janeiro "
+                                   "de 1942' (published in the DOU of 13.10.1941, rectified 24.10.1941)"),
+    "lei-8078-1990": ("1991-03-11", "Lei 8.078/1990 art. 118: 'Este código entrará em vigor dentro de cento e oitenta "
+                                    "dias a contar de sua publicação' (published in the DOU of 12.9.1990, edição extra): "
+                                    "12.9.1990 + 180 days = 11.3.1991"),
 }
 ACT_LAWS = {
-    "lei-13105-2015": {"label": "Lei nº 13.105, de 2015", "title": "Código de Processo Civil.", "kind": "law",
-                       "enacted": "2015-03-16", "published": "2015-03-17",
-                       "url": PL + "_ato2015-2018/2015/lei/l13105.htm", "temporary_until": None, "restores": None,
-                       "note": None},
-    "dl-2848-1940": {"label": "Decreto-Lei nº 2.848, de 1940", "title": "Código Penal.", "kind": "decree",
-                     "enacted": "1940-12-07", "published": "1940-12-31", "url": PL + "decreto-lei/del2848.htm",
+    "dl-3689-1941": {"label": "Decreto-Lei nº 3.689, de 1941", "title": "Código de Processo Penal.", "kind": "decree",
+                     "enacted": "1941-10-03", "published": "1941-10-13", "url": PL + "decreto-lei/del3689.htm",
                      "temporary_until": None, "restores": None, "note": None},
+    "lei-8078-1990": {"label": "Lei nº 8.078, de 1990", "title": "Dispõe sobre a proteção do consumidor e dá outras "
+                      "providências.", "kind": "law", "enacted": "1990-09-11", "published": "1990-09-12",
+                      "url": PL + "leis/l8078.htm", "temporary_until": None, "restores": None, "note": None},
 }
 
 # Act-specific decisions, printed in REPRODUCE.md (filled in as each act is checked).
 ACT_DECISIONS: list[str] = [
-    "Código Penal: the page's alignment is unreliable (the 1940 Parte Geral sits in centred blocks), so headings are "
-    "only Parte/Título/Capítulo/Seção lines, the name line right after one, and lines in capitals without a comma.",
-    "Código Penal: a marginal heading (rubrica, 'Anterioridade da Lei') is the first line of the article it heads; "
-    "an article whose only live line is its rubrica (revoked, with the rubrica left unstruck) is left out.",
-    "Rules for struck text with no note of its own, each in the source's layout: 'run-revoked' - an earlier line of a "
-    "struck run closed by one 'Revogado pela' note; 'heads' - a struck rubrica falls with the dispositivo it heads; "
-    "'date-order' - wordings of one dispositivo printed out of date order (CP art. 121 § 7º II) are chained by their "
-    "own dates; a '(VETADO)' item left unstruck above wording promulgated over the veto ends on the promulgation "
-    "(Lei 13.964/2019: DOU 30.4.2021); a 'Parágrafo único' left unstruck above a '§ 1º' that a later law's note "
-    "introduces ends when the § 1º starts.",
-    "Código Penal, gaps in Planalto's annotated page kept as they are: Lei 4.729/1965's wording of art. 334 § 2º "
-    "('Equipara-se às atividades comerciais…') is not on the page (its note was copied onto art. 334-A § 2º, which "
-    "Lei 13.008/2014 created: that line is dated with art. 334-A), so art. 334 has no § 2º from 1965 to 2014 here; and "
-    "the 1940 § 2º of art. 334 is ended in 1965, when the same words became § 3º.",
-    "Clauses counted in months or years: from LC 107/2001 (26.4.2001) on, the period ends on the same calendar day "
-    "and the law is in force the day after (LC 95/1998 art. 8 § 1); before it, by Lei 810/1949 the law is in force "
-    "on the corresponding day (Lei 7.209/1984: published 13.7.1984, in force 13.1.1985). Clauses in days: publication "
-    "day + N for every period.",
 ]
 
 # A law that re-enacted a whole part of an act: Planalto keeps the old part as one struck block, then prints the new
 # part, whose lines often carry no note. act slug -> (law, the heading that ends the new part, reason).
-REWRITES = {
-    "codigo-penal": ("lei-7209-1984", "PARTE ESPECIAL",
-                     "Lei 7.209/1984 art. 1 re-enacted the whole Parte Geral (arts. 1 to 120: 'O Decreto-lei nº 2.848 "
-                     "... passa a vigorar com as seguintes alterações: \"PARTE GERAL ...'). Planalto prints the 1940 "
-                     "Parte Geral (with its amendments up to 1984) as one struck block, then the new Parte Geral. Every "
-                     "struck line of the old block that no note or later wording ends is ended on Lei 7.209's in-force "
-                     "day, and every line of the new Parte Geral without a note of its own (headings, marginal "
-                     "headings, unannotated paragraphs) starts that day, credited to Lei 7.209."),
+REWRITES: dict = {
 }
-
 
 def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str]) -> list[str]:
     fixed = set()
@@ -1185,7 +1173,7 @@ def rewrite(paras: list[dict], hit: tuple, eff: dict, fixed: set) -> None:
 
 # Laws in force on the very day their act first applies (Lei 13.256/2016 amended the CPC before it came into force,
 # "no início da vigência"): their changes are a second version of that day, after the act as enacted.
-SAME_DAY_LAWS = {"lei-13256-2016"}
+SAME_DAY_LAWS: set[str] = set()
 
 # set per act before parsing its pages: trust <p align="center"> to mark headings
 CENTER_HEADINGS = True
@@ -1219,7 +1207,7 @@ def main(argv: list[str]) -> int:
     global CENTER_HEADINGS
     ap = argparse.ArgumentParser()
     ap.add_argument("--stats", action="store_true")
-    ap.add_argument("--dry", action="store_true", help="do not write corpus.d/60-phase2.json")
+    ap.add_argument("--dry", action="store_true", help="do not write corpus.d/80-proc.json")
     a = ap.parse_args(argv)
     problems: list[str] = []
     decisions: list[str] = []
@@ -1413,18 +1401,18 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
         pass
     part = {
         "sources": [{
-            "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of the Phase 2 "
-                    "acts and of every law their notes cite, read as Internet Archive raw captures",
+            "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of the CPP and "
+                    "the CDC and of every law their notes cite, read as Internet Archive raw captures",
             "url": PL, "retrieved": RETRIEVED, "requests": reqs,
             "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
             "notes": "www.planalto.gov.br blocks non-browser clients ('Acesso Negado'), so every page is the Internet "
                      "Archive raw capture (web.archive.org/web/<ts>id_/<planalto url>), byte-identical to what Planalto "
-                     "served; the capture timestamps are pinned in sources_phase2.json."}],
+                     "served; the capture timestamps are pinned in proc/sources_proc.json."}],
         "laws": laws,
         "acts": acts_out,
         "applies": [],
         "decisions": [
-            "Phase 2 acts (" + ", ".join(x["title"] for x in ACTS) + "): each paragraph's life span is read from "
+            "Acts of this part (" + ", ".join(x["title"] for x in ACTS) + "): each paragraph's life span is read from "
             "Planalto's annotated page of the act (" + ", ".join(sources()[x["page"]]["url"].rsplit("/", 1)[1] for x in ACTS) +
             "): struck wordings stay in place before the wording that replaced them, each closed by the source's own note "
             "('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted.",
@@ -1450,8 +1438,8 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
             f"Replay check, {act}: the last version differs from Planalto's consolidated page in {len(d)} articles" +
             (": " + "; ".join(d) if d else ".") for act, d in checks.items()
         ] + ([f"Open problems in the replay ({len(problems)}): " + "; ".join(problems[:40])] if problems else []),
-        "ai_use": ["Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote fetch_phase2.py and parse_phase2.py (adapted from "
-                   "the helper's codes/fetch_codes.py and codes/parse_codes.py) and the hand "
+        "ai_use": ["Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote proc/fetch_proc.py and proc/parse_proc.py (adapted "
+                   "from fetch_phase2.py/parse_phase2.py, clt/fetch_clt.py and codes/parse_codes.py) and the hand "
                    "tables in them (vigência days, MP lapse days) from the official pages. No model wrote, summarised or "
                    "changed legal text; no model runs at data-build or git-build time."],
     }

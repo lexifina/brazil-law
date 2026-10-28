@@ -1,0 +1,24 @@
+{
+ "fetch": [
+  {
+   "id": "cpp",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm",
+   "ts": "20261024023410"
+  },
+  {
+   "id": "cpp-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm",
+   "ts": "20261024004501"
+  },
+  {
+   "id": "cdc",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078.htm",
+   "ts": "20261024003504"
+  },
+  {
+   "id": "cdc-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+   "ts": "20261023191127"
+  }
+ ]
+}
