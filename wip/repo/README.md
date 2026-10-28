@@ -9,8 +9,14 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `constituicao/` | Constituição da República Federativa do Brasil de 1988 | 122 | From its promulgation (5 October 1988) to today: every Emenda Constitucional (1 to 141) and Emenda Constitucional de Revisão (1 to 6) that changed its words, and one ruling of the Supremo Tribunal Federal |
+| `codigo-civil/` | Código Civil (Lei 10.406/2002) | 63 | From its entry into force (11 January 2003) to today |
+| `lgpd/` | Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018) | 11 | From 2018, article by article as its art. 65 brought them into force |
+| `codigo-penal/` | Código Penal (Decreto-Lei 2.848/1940) | 111 | From its entry into force (1 January 1942) to today, through the new Parte Geral of Lei 7.209/1984 (in force 13 January 1985) |
+| `codigo-de-processo-civil/` | Código de Processo Civil (Lei 13.105/2015) | 18 | From its entry into force (18 March 2016), with Lei 13.256/2016's changes of that same day as a second version, to today |
 
-Each article is a file: `constituicao/art-006.md` is art. 6, `constituicao/adct-art-002.md` is art. 2 of the Ato das Disposições Constitucionais Transitórias (ADCT). The preamble is `preambulo.md`, and the headings (títulos, capítulos, seções) are `titulos.md` and `adct-titulos.md`. The per-act `README.md` lists every provision, how often it changed and when. Further acts are added in their own folders as they are built.
+Each article is a file: `constituicao/art-006.md` is art. 6, `constituicao/adct-art-002.md` is art. 2 of the Ato das Disposições Constitucionais Transitórias (ADCT), `codigo-penal/art-121.md` is art. 121 of the Código Penal. Each act's preamble is `preambulo.md`, and its headings (partes, títulos, capítulos, seções) are in `titulos.md` (and `adct-titulos.md`). In the Código Penal the marginal heading of an article (rubrica, "Homicídio simples") is the article file's first line. The per-act `README.md` lists every provision, how often it changed and when. Further acts are added in their own folders as they are built.
+
+Every act is rebuilt the same way, from Planalto's annotated page of the act (superseded wording kept, struck through, with the source's note naming the amending law), and checked against Planalto's consolidated page; the rules each act needed are listed in `REPRODUCE.md`. Git cannot store dates before 1970: the Código Penal's commits before 1970 are dated 1 January 1970, one second apart, and the real in-force day is in each commit's `In-force:` trailer, which the tools read.
 
 ## A lawyer's questions as git commands
 
@@ -86,7 +92,7 @@ This repository is not legal advice and not an official publication.
 
 ## Em português
 
-Histórico do direito brasileiro em git: um arquivo por artigo e um commit por emenda, datado no dia em que entrou em vigor e assinado pela emenda que fez a alteração (`git blame` mostra a emenda de cada parágrafo). Contém a Constituição Federal de 1988 desde a promulgação, com todas as Emendas Constitucionais (1 a 141) e de Revisão (1 a 6) que alteraram o texto, e a decisão do STF na ADI 7047. A nova redação do art. 7º, XV (EC 141/2026), em vigor a partir de 16 de dezembro de 2026, está no ramo `futuro`.
+Histórico do direito brasileiro em git: um arquivo por artigo e um commit por emenda, datado no dia em que entrou em vigor e assinado pela emenda que fez a alteração (`git blame` mostra a emenda de cada parágrafo). Contém a Constituição Federal de 1988 desde a promulgação, com todas as Emendas Constitucionais (1 a 141) e de Revisão (1 a 6) que alteraram o texto, e a decisão do STF na ADI 7047; o Código Civil, a LGPD, o Código Penal (desde 1942, com a nova Parte Geral da Lei 7.209/1984) e o Código de Processo Civil (desde 2016). A nova redação do art. 7º, XV (EC 141/2026), em vigor a partir de 16 de dezembro de 2026, está no ramo `futuro`.
 
 - Texto vigente em uma data: `python tools/vigente_em.py 2015-01-01 constituicao 6`
 - Datas: a cláusula de vigência de cada emenda; sem cláusula, o art. 1º da LINDB (45 dias após a publicação oficial).

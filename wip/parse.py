@@ -756,13 +756,132 @@ def compilado_units() -> dict[str, list[str]]:
     return out
 
 
+# EC 132/2023 art. 23: its arts. 3 and 11 enter into force "em 2027", its arts. 4 and 5 "em 2033"; art. 22 revokes
+# provisions "em 2027" and "em 2033". Planalto's Constitution page shows none of this as text, so the new wording is
+# read from EC 132's own page. Each stage: (day, EC articles whose quoted wording applies, revocations).
+EC132_STAGES = [
+    ("2027-01-01", ["Art. 3º A Constituição Federal"],
+     [("art-195", ("I -", "b)")), ("art-195", ("IV -",)), ("art-195", ("§ 12",))]),
+    ("2033-01-01", ["Art. 4º A Constituição Federal", "Art. 5º O Ato das Disposições"],
+     [("art-155", ("II -",)), ("art-155", ("§ 2º",)), ("art-155", ("§ 3º",)), ("art-155", ("§ 4º",)),
+      ("art-155", ("§ 5º",)), ("art-156", ("III -",)), ("art-156", ("§ 3º",)), ("art-158", ("IV -", "a)")),
+      ("art-158", ("§ 1º",)), ("art-161", ("I -",)), ("adct-art-080", ("II -",)), ("adct-art-082", ("§ 2º",)),
+      ("adct-art-083", ())]),
+]
+EC132_WHY = ("EC 132/2023 (tax reform), art. 23: arts. 3 and 11 enter into force 'em 2027' and arts. 4 and 5 'em 2033', "
+             "dated 1 January of those years; art. 22 revokes art. 195 I 'b', IV and § 12 'em 2027', and arts. 155 II "
+             "and §§ 2º to 5º, 156 III and § 3º, 158 IV 'a' and § 1º, 161 I, and ADCT arts. 80 II, 82 § 2º and 83 'em "
+             "2033'. Planalto's Constitution page shows these only as 'Vide ... Vigência' notes, so the future wording "
+             "is read from EC 132's own text: each quoted dispositivo replaces the one at the same place (article, "
+             "paragraph, inciso, alínea) or is inserted after the dispositivo quoted before it; a revoked dispositivo "
+             "is removed with everything under it. These versions are on the future branch.")
+
+
+def line_paths(lines: list[str], art: str) -> list[tuple]:
+    """The place of every line of an article: (Art., §, inciso, alínea, item) labels down to the line's own."""
+    out, stack = [], []
+    for l in lines:
+        lab = label_of(l)
+        if not lab:
+            out.append(tuple(x for _, x in stack) + ("",))
+            continue
+        lv = level(lab)
+        while stack and stack[-1][0] >= lv:
+            stack.pop()
+        stack.append((lv, lab))
+        out.append(tuple(x for _, x in stack))
+    return out
+
+
+def ec132_changes(which: str) -> list[tuple[str, tuple, str | None]]:
+    """(unit, path, new line) for every dispositivo EC 132's article `which` quotes with words of its own."""
+    b, _ = raw("emc-132")
+    texts = [x["text"] for x in (analyse(bk) for bk in blocks_of(decode(b))) if x["text"]]
+    i = next(k for k, t in enumerate(texts) if t.startswith(which))
+    adct = "Ato das Disposições" in which
+    out, unit, stack = [], None, []
+    for t in texts[i + 1:]:
+        if re.match(r"^Art\. \d+º? (?:A |O |Os |As |Ficam|Fica|Até|Revogam)", t) or t.startswith("Art. 6º"):
+            break
+        t = t.strip().lstrip('"“').strip()
+        t = re.sub(r'\s*"?\s*\(NR\)\s*$', "", t)
+        t = re.sub(r"\.{4,}.*$", "", t).strip()
+        t = t.rstrip('"”').strip()
+        if not t:
+            continue
+        lab = label_of(t)
+        if lab.startswith("Art."):
+            unit = unit_key(lab, adct)
+            stack = []
+        if not lab or unit is None:
+            continue
+        lv = level(lab)
+        while stack and stack[-1][0] >= lv:
+            stack.pop()
+        stack.append((lv, lab))
+        body = t[len(lab):].strip(" .-") if not lab.endswith(")") else t[len(lab):].strip()
+        has_words = bool(re.search(r"[A-Za-zÀ-ú]{2}", t[len(lab.replace(" -", "")):]))
+        out.append((unit, tuple(x for _, x in stack), norm(t) if has_words else None))
+    return out
+
+
+def apply_ec132(state: dict[str, list[str]], stage: tuple) -> tuple[dict[str, list[str]], set[str]]:
+    day, which, revs = stage
+    state = {u: list(ls) for u, ls in state.items()}
+    changed: set[str] = set()
+    for w in which:
+        prev_path: dict[str, tuple] = {}
+        for unit, path, line in ec132_changes(w):
+            if line is None:
+                prev_path[unit] = path
+                continue
+            lines = state.setdefault(unit, [])
+            paths = line_paths(lines, unit)
+            if path in paths:
+                lines[paths.index(path)] = line
+            else:
+                # insert after the dispositivo quoted before it (and everything under it), else at the end of its parent
+                anchor = prev_path.get(unit) or path[:-1]
+                pos = len(lines)
+                idx = [k for k, p in enumerate(paths) if p[:len(anchor)] == anchor]
+                if idx:
+                    pos = idx[-1] + 1
+                lines.insert(pos, line)
+            prev_path[unit] = path
+            changed.add(unit)
+    for unit, sub in revs:
+        lines = state.get(unit, [])
+        if not sub:
+            if unit in state:
+                del state[unit]
+                changed.add(unit)
+            continue
+        paths = line_paths(lines, unit)
+        art = paths[0][:1] if paths else ()
+        target = art + sub
+        keep = [l for l, p in zip(lines, paths) if p[:len(target)] != target]
+        if len(keep) != len(lines):
+            state[unit] = keep
+            changed.add(unit)
+    return state, changed
+
+
 def build_cf(paras, laws, eff, src_url, src_bytes, docs_date):
     days = sorted({p["start"] for p in paras} | {p["end"] for p in paras if p["end"]})
     days = [d for d in days if d >= CF_DATE]
+    ec132_days = [s[0] for s in EC132_STAGES]
+    days = sorted(set(days) | set(ec132_days))
+    ec132_state: dict[str, dict[str, list[str]]] = {}
+    ec132_changed: dict[str, set[str]] = {}
+    state = None
+    for stage in EC132_STAGES:
+        base = state if state is not None else snapshot(paras, stage[0])
+        state, ch = apply_ec132(base, stage)
+        ec132_state[stage[0]], ec132_changed[stage[0]] = state, ch
     versions, prev, prev_units = [], None, None
     sha = hashlib.sha256(src_bytes).hexdigest()
     for day in days:
-        snap = snapshot(paras, day)
+        snap = ec132_state[day] if day in ec132_state else snapshot(paras, day)
         texts = {u: "".join(l + "\n" for l in ls) for u, ls in snap.items()}
         if prev is not None and texts == prev:
             continue
@@ -777,6 +896,8 @@ def build_cf(paras, laws, eff, src_url, src_bytes, docs_date):
                     continue
                 who = {p["start_law"] for p in paras if p["unit"] == u and p["start"] == day and p["start_law"]}
                 who |= {p["end_law"] for p in paras if p["unit"] == u and p["end"] == day and p["end_law"]}
+                if u in ec132_changed.get(day, ()):
+                    who.add("ec-132")
                 if who:
                     credits[u] = sorted(public_key(w, laws) for w in who)
             for k, c in COURTS.items():
@@ -784,7 +905,7 @@ def build_cf(paras, laws, eff, src_url, src_bytes, docs_date):
                     for u in c.get("concerns", []):
                         credits[u] = sorted(set(credits.get(u, [])) | {k})
         url, digest = src_url, sha
-        fut = [f for f in FUTURE.values() if f[1] == day]
+        fut = [f for f in FUTURE.values() if f[1] == day] or ([(None, day, "emc-132")] if day in ec132_state else [])
         if fut:
             # wording read from the amendment's own page, not from the Constitution page
             fb, url = raw(fut[0][2])
