@@ -465,7 +465,14 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
         if zone == "pre" and (b["all_link"] or NAV.match(t)):
             continue
         lab = label_of(t)
-        heading = (not lab and (b["center"] or bool(HEADING.match(t)))) or (b["center"] and not lab.startswith("Art."))
+        if CENTER_HEADINGS:
+            heading = (not lab and (b["center"] or bool(HEADING.match(t)))) or (b["center"] and not lab.startswith("Art."))
+        else:
+            # pages whose alignment is unreliable (the Código Penal keeps its 1940 Parte Geral inside centred blocks):
+            # a heading is a Parte/Título/Capítulo/Seção line, the name line right after one, or a line in capitals
+            prev_head = bool(out) and out[-1]["heading"] and bool(HEADING.match(out[-1]["text"]))
+            heading = not lab and (bool(HEADING.match(t)) or bool(re.match(r"^Parte\s+(?:Geral|Especial)", t, re.I))
+                                   or prev_head or (t.upper() == t and any(c.isalpha() for c in t)))
         if zone == "pre" and (lab.startswith("Art.") or heading):
             zone = "body"
         if zone == "pre":
@@ -479,10 +486,28 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
         if unit is None:
             unit = "preambulo"
         out.append({**b, "unit": unit, "label": lab, "heading": False})
+    move_rubricas(out)
     heading_groups(out)
     for i, p in enumerate(out):
         p["i"] = i
     return out, notes_only
+
+
+def move_rubricas(out: list[dict]) -> None:
+    """The Código Penal and others put a marginal heading (rubrica, "Anterioridade da Lei") on its own line before an
+    article. Such a line has no label and no closing punctuation, and the next labelled line starts a new article: it
+    belongs to that article's file, as its first line, labelled "rubrica" so its wordings replace each other."""
+    for i, p in enumerate(out):
+        if p["heading"] or p["label"] or not p["unit"].startswith(("art-", "preambulo")) or re.search(r"[.;:,]$", p["text"]):
+            continue
+        for q in out[i + 1:]:
+            if q["heading"]:
+                break
+            if not q["label"] and not re.search(r"[.;:,]$", q["text"]):
+                continue  # another rubrica (an older wording, struck)
+            if q["label"].startswith("Art.") and q["unit"] != p["unit"]:
+                p["unit"], p["label"] = q["unit"], "rubrica"
+            break
 
 
 def heading_groups(out: list[dict]) -> None:
@@ -785,6 +810,20 @@ def build_act(paras: list[dict], act_day: str, gate: dict[str, str], gate_law: d
     return versions
 
 
+def to_deltas(versions: list[dict]) -> list[dict]:
+    """SCHEMA "Large acts": the first version in full, every later one as `changes` (None removes a unit)."""
+    out, prev = [], None
+    for v in versions:
+        units = v.pop("units")
+        if prev is None:
+            v["units"] = units
+        else:
+            v["changes"] = {u: units.get(u) for u in sorted(set(units) | set(prev)) if units.get(u) != prev.get(u)}
+        out.append(v)
+        prev = units
+    return out
+
+
 def unit_kind(u: str) -> str:
     return "art" if u.startswith("art-") else "heading" if u == "titulos" else "preamble"
 
@@ -855,7 +894,7 @@ def compare(last: dict[str, str], ref: dict[str, str]) -> list[str]:
 
 ACTS = [
     {"slug": "codigo-penal", "short": "CP", "page": "cp", "consolidated": "cp-compilado", "law": "dl-2848-1940",
-     "title": "Código Penal (Decreto-Lei nº 2.848, de 7 de dezembro de 1940)", "digits": 3,
+     "title": "Código Penal (Decreto-Lei nº 2.848, de 7 de dezembro de 1940)", "digits": 3, "center_headings": False,
      "url": PL + "decreto-lei/del2848compilado.htm"},
 ]
 
@@ -872,6 +911,9 @@ ACT_LAWS = {
 
 # Act-specific decisions, printed in REPRODUCE.md (filled in as each act is checked).
 ACT_DECISIONS: list[str] = []
+
+# set per act before parsing its pages: trust <p align="center"> to mark headings
+CENTER_HEADINGS = True
 
 # not used for these acts; kept so the shared replay code runs unchanged
 LGPD_GATES: dict = {}
@@ -899,6 +941,7 @@ def note_laws(paras: list[dict]) -> set[str]:
 
 
 def main(argv: list[str]) -> int:
+    global CENTER_HEADINGS
     ap = argparse.ArgumentParser()
     ap.add_argument("--stats", action="store_true")
     ap.add_argument("--dry", action="store_true", help="do not write corpus.d/60-phase2.json")
@@ -910,6 +953,7 @@ def main(argv: list[str]) -> int:
     parsed = {}
     for act in ACTS:
         b, src = raw(act["page"])
+        CENTER_HEADINGS = act.get("center_headings", True)
         paras, _ = paragraphs(decode(b), act["digits"])
         parsed[act["slug"]] = (paras, src, hashlib.sha256(b).hexdigest())
 
@@ -1013,10 +1057,13 @@ def main(argv: list[str]) -> int:
         for v in versions:
             v["source_url"] = src
             v["sha256"] = sha
+        today_units = [v for v in versions if v["from"] <= RETRIEVED][-1]["units"]
+        versions = to_deltas(versions)
         acts_out.append({"slug": act["slug"], "short": act["short"], "title": act["title"], "url": act["url"],
                          "first_law": act["law"], "earlier_laws": [], "versions": versions})
+        CENTER_HEADINGS = act.get("center_headings", True)
         ref = consolidated(act["consolidated"], act["digits"])
-        diffs = compare(versions[-1]["units"] and {u: x["text"] for u, x in versions[-1]["units"].items()}, ref)
+        diffs = compare({u: x["text"] for u, x in today_units.items()}, ref)
         checks[act["slug"]] = diffs
         if a.stats:
             from collections import Counter
