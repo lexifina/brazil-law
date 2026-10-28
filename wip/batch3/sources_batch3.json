@@ -929,6 +929,31 @@
    "id": "law:mp-568-2012",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Mpv/568.htm",
    "ts": "20261018155111"
+  },
+  {
+   "id": "law:mp-632-2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Mpv/mpv632.htm",
+   "ts": "20261003193235"
+  },
+  {
+   "id": "law:mp-664-2014",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2014/Mpv/mpv664.htm",
+   "ts": "20261005001401"
+  },
+  {
+   "id": "law:mp-681-2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Mpv/mpv681.htm",
+   "ts": "20260715042606"
+  },
+  {
+   "id": "law:mp-689-2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Mpv/mpv689.htm",
+   "ts": "20261017120250"
+  },
+  {
+   "id": "law:mp-765-2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L8270.htm",
+   "ts": "20261018230839"
   }
  ]
 }
