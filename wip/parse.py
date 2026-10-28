@@ -783,7 +783,13 @@ def build_cf(paras, laws, eff, src_url, src_bytes, docs_date):
                 if c["from"] == day:
                     for u in c.get("concerns", []):
                         credits[u] = sorted(set(credits.get(u, [])) | {k})
-        versions.append({"from": day, "source_url": src_url, "sha256": sha, "units": units, "credits": credits})
+        url, digest = src_url, sha
+        fut = [f for f in FUTURE.values() if f[1] == day]
+        if fut:
+            # wording read from the amendment's own page, not from the Constitution page
+            fb, url = raw(fut[0][2])
+            digest = hashlib.sha256(fb).hexdigest()
+        versions.append({"from": day, "source_url": url, "sha256": digest, "units": units, "credits": credits})
         prev = texts
     return versions
 

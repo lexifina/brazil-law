@@ -25,7 +25,7 @@ Each article is a file: `constituicao/art-006.md` is art. 6, `constituicao/adct-
 | Everything one amendment changed | `git show law/ec-26-2000` (tags `law/<key>` mark each amendment's commit) |
 | The whole Constitution on a date | `python tools/vigente_em.py 1995-01-01 constituicao` |
 | The Constitution as of a version day | `git show constituicao/2000-02-15` (tags `<act>/<in-force day>`) |
-| Changes enacted but not yet in force | `git log main..futuro` (empty today; see below) |
+| Changes enacted but not yet in force | `git log main..futuro` (EC 141/2026, art. 7 XV, from 16 December 2026) |
 
 After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
 
@@ -56,7 +56,7 @@ The author of a commit is the amendment (or ruling) that made the change, with a
 
 ## What it does not show
 
-- **Future text.** EC 132/2023 (tax reform) changes provisions from 2027 and 2033, and EC 141/2026 changes art. 7 XV two months after publication. Planalto shows these only as "Vide … Vigência" notes beside the text in force, not as text, so they are not on the `futuro` branch yet.
+- **Most future text.** The branch `futuro` holds EC 141/2026's new art. 7 XV (two days of weekly rest), in force two months after publication, on 16 December 2026; its wording is read from EC 141's own page, since Planalto's Constitution page shows it only as a "Vide … (Vigência)" note. EC 132/2023 (tax reform) also changes provisions from 2027 and 2033; those changes are not on `futuro` yet.
 - **Effects that differ from the in-force day** (see Dates), and the STF's interpretations that leave the words alone ("Vide ADI").
 - **The signatures** of the Constituent Assembly, and Planalto's notes, which are used only to date and credit changes.
 - **Typesetting.** Spacing, quotes, dashes and label punctuation ("§ 1º -" and "§ 1º") were normalised; the source's own typos are kept.
@@ -86,7 +86,7 @@ This repository is not legal advice and not an official publication.
 
 ## Em português
 
-Histórico do direito brasileiro em git: um arquivo por artigo e um commit por emenda, datado no dia em que entrou em vigor e assinado pela emenda que fez a alteração (`git blame` mostra a emenda de cada parágrafo). Contém a Constituição Federal de 1988 desde a promulgação, com todas as Emendas Constitucionais (1 a 141) e de Revisão (1 a 6) que alteraram o texto, e a decisão do STF na ADI 7047.
+Histórico do direito brasileiro em git: um arquivo por artigo e um commit por emenda, datado no dia em que entrou em vigor e assinado pela emenda que fez a alteração (`git blame` mostra a emenda de cada parágrafo). Contém a Constituição Federal de 1988 desde a promulgação, com todas as Emendas Constitucionais (1 a 141) e de Revisão (1 a 6) que alteraram o texto, e a decisão do STF na ADI 7047. A nova redação do art. 7º, XV (EC 141/2026), em vigor a partir de 16 de dezembro de 2026, está no ramo `futuro`.
 
 - Texto vigente em uma data: `python tools/vigente_em.py 2015-01-01 constituicao 6`
 - Datas: a cláusula de vigência de cada emenda; sem cláusula, o art. 1º da LINDB (45 dias após a publicação oficial).

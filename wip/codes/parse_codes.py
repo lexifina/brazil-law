@@ -185,9 +185,9 @@ def blocks_of(html: str) -> list[dict]:
 NOTE = re.compile(
     r"\(\s*(?:Reda[çc][ãa]o|Inclu[ií]d|Acrescentad|Acrescid|Revogad[oa]s?\s+(?:pel|por)|Renumerad|Vide|Vig[êe]ncia|"
     r"Produ[çc][ãa]o\s+de\s+efeito|Regulament|Declarad|Suspens|Execu[çc][ãa]o|Express[ãa]o|Promulga|Convers|Convertid|"
-    r"Texto\s+compilado|Atualizad|Mensagem|Revoga[çc][ãa]o)[^()]*(?:\([^()]*\)[^()]*)*\)", re.I)
+    r"Texto\s+compilado|Atualizad|Mensagem|Revoga[çc][ãa]o)[^()]*(?:\([^()]*\)[^()]*)*(?:\)|$)", re.I)
 # a note Planalto left without parentheses at the end of a line: "...; Redação dada pela Medida Provisória nº 869, de 2018"
-BARE_NOTE = re.compile(r"\s(?:Reda[çc][ãa]o\s+dada|Inclu[ií]d[oa]|Revogad[oa])\s+pel[oa]\s+(?:Lei|Medida|Decreto)[^()]*$", re.I)
+BARE_NOTE = re.compile(r"\s(?:Reda[çc][ãa]o\s+dada|Inclu[ií]d[oa]|Revogad[oa])\s+pel[oa]\s+(?:Lei|Medida|Decreto)[^()]*\)?\s*$", re.I)
 LINKWORDS = re.compile(r"^\s*\(?\s*(?:Produ[çc][ãa]o\s+de\s+efeitos?|Vig[êe]ncia|Regulamento|Regulamenta[çc][ãa]o)"
                        r"\s*\)?\s*\.?\s*$", re.I)
 LAPSED_WORDS = re.compile(r"\(?\s*Vig[êe]ncia\s+encerrada\s*\)?", re.I)
@@ -204,6 +204,9 @@ def norm(s: str) -> str:
     s = re.sub(r"\s+", " ", s).strip()
     s = re.sub(r"(\bArt\.|§)\s*(\d+(?:\.\d{3})*)\s*\.?\s*[o°º](?![a-zà-ú])", r"\1 \2º", s)
     s = re.sub(r"\bArt\.(?=\d)", "Art. ", s)
+    s = re.sub(r"(\d) º", r"\1º", s)
+    s = re.sub(r"\bn º", "nº", s)
+    s = re.sub(r"(\d)º(?=[A-Za-zÀ-ú])", r"\1º ", s)
     s = re.sub(r"\s+([.,;:])", r"\1", s)
     s = re.sub(r"\(\s+", "(", s)
     s = re.sub(r"\s+\)", ")", s)
@@ -405,6 +408,11 @@ VIGENCIA_FIXED: dict[str, tuple[str, str]] = {
 VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {}
 # The day a lapsed Medida Provisória stopped having effect, from the Ato Declaratório of the President of Congress
 # (CF art. 62 §§ 3, 4, 7 and 11): key -> (date, reason). Filled in after reading each MP page.
+# Vetoed parts later promulgated after Congress overrode the veto (CF art. 66 §§ 5 and 7): law -> (day, reason).
+VETO_PROMULGATION = {
+    "lei-13853-2019": ("2019-12-20", "the parts of Lei 13.853/2019 vetoed on 8.7.2019 were promulgated after Congress "
+                                     "overrode the veto (DOU 20.12.2019, printed on the Lei 13.853 page)"),
+}
 MP_LAPSE: dict[str, tuple[str, str]] = {
     "mp-700-2015": ("2016-05-18", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 23, de 2016 (DOU "
                                   "19.5.2016): 'teve seu prazo de vigência encerrado no dia 17 de maio'; the replaced "
@@ -567,16 +575,15 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
             lap = (fate["lapsed_on"], cx.lapse_key[p["start_law"]])
             if not p["end"] or lap < (p["end"], p["end_law"]):
                 p["end"], p["end_law"], p["end_how"] = lap[0], lap[1], "lapse"
-        if p["gaps"] and p["state"] != "plain" and not p["end"]:
-            # struck only because of a lapsed MP's revocation: Planalto keeps the strike, the text is back
-            pass
+        # a vetoed item ("(VETADO)") replaced when Congress overrode the veto and the parts were promulgated
+        if p["state"] != "plain" and not p["end"] and any(re.search(r"Promulga[çc][ãa]o\s+(?:das\s+)?partes\s+vetadas", n, re.I) for n in p["notes"]):
+            hit = VETO_PROMULGATION.get(p["start_law"] or "")
+            if hit:
+                p["end"], p["end_law"], p["end_how"] = hit[0], p["start_law"], "promulgation"
     # struck wordings: the next wording of the same dispositivo ends them
     for i, p in enumerate(paras):
         if p["state"] == "plain" or p["end"]:
             continue
-        if p["gaps"] and not any(re.search(r"Reda|Inclu|Revog", n, re.I) and not cx.mp.get(law_key(n, cx.mp.get("_years")) or "", {}).get("lapsed_on")
-                                 for n in p["notes"] if END_KIND.search(n)):
-            pass
         succ = successor(paras, i)
         if succ is not None:
             q = paras[succ]
@@ -585,17 +592,19 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
         fate = cx.mp.get(p["start_law"]) if p["start_law"] else None
         if fate and fate.get("converted_on"):
             p["end"], p["end_law"], p["end_how"] = fate["converted_on"], fate["converted"], "conversion"
-            continue
-        if p["gaps"]:
-            continue
     # restored wordings: a wording repeated after a later one starts again when that one ended
     for i, q in enumerate(paras):
         r = predecessor(paras, i)
         if r is None:
             continue
         pr = paras[r]
+        if q["text"] == pr["text"] and pr["gaps"] and not pr["end"] and q["start"] <= pr["start"]:
+            # the same wording struck twice: once by a lapsed MP's revocation (a gap), then by a lasting revocation
+            pr["end"], pr["end_law"], pr["end_how"] = q["end"], q["end_law"], "repeat"
+            q["skip"] = True
+            continue
         if q["start"] < pr["start"] or (q["start"] == pr["start"] and q["start_law"] == pr["start_law"] and pr["state"] != "plain"
-                                         and q["text"] == pr["text"] and pr.get("end")):
+                                         and pr.get("end")):
             if pr["end"]:
                 q["start"], q["start_law"], q["restored"] = pr["end"], pr["end_law"], True
             else:
@@ -686,6 +695,8 @@ def predecessor(paras: list[dict], i: int) -> int | None:
 
 
 def alive(p: dict, day: str) -> bool:
+    if p.get("skip"):
+        return False
     if p["start"] > day or (p["end"] is not None and day >= p["end"]):
         return False
     return not any(a <= day < b for a, b, _, _ in p["gaps"])
@@ -767,7 +778,7 @@ def unit_label(u: str, ps: list[dict]) -> str:
 # check against Planalto's consolidated page
 
 
-BARE_LABEL = re.compile(r"^(?:Art\. [\d.]+º?(?:-[A-Z]{1,2})?\.?|§ \d+º?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])? -|[a-z]\))$")
+BARE_LABEL = re.compile(r"^(?:Arts?\. [\d.]+º?(?:-[A-Z]{1,2})?\.?(?: a [\d.]+º?(?:-[A-Z]{1,2})?\.?)?|§ \d+º?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])? -|[a-z]\))$")
 
 
 def consolidated(ident: str, digits: int) -> dict[str, str]:
@@ -776,8 +787,9 @@ def consolidated(ident: str, digits: int) -> dict[str, str]:
     out: dict[str, list[str]] = {}
     for p in paras:
         # the consolidated page keeps a revoked dispositivo as its bare label ("Art. 757.", "III -"): not text
-        if p["state"] == "plain" and p["text"] and not BARE_LABEL.match(p["text"]):
-            out.setdefault(p["unit"], []).append(p["text"])
+        t = p["text"] if p["state"] == "plain" else p["plain_text"] if p["state"] == "mixed" else ""
+        if t and not BARE_LABEL.match(t):
+            out.setdefault(p["unit"], []).append(t)
     return {u: "".join(l + "\n" for l in ls) for u, ls in out.items()}
 
 

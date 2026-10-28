@@ -4,7 +4,7 @@
   "name": "Brazil",
   "level": "country",
   "repo": "https://github.com/lexifina/brazil-law",
-  "build": "built: Constituição Federal 1988-2026 (122 versions, every Emenda Constitucional and Emenda de Revisão in force)",
+  "build": "built: Constituição Federal 1988-2026 (122 versions, every Emenda Constitucional and Emenda de Revisão in force, + EC 141 art. 7 XV on futuro)",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28",
   "sources": 2
