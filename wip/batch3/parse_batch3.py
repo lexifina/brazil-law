@@ -200,7 +200,13 @@ _paragraphs, _lifespans = P.paragraphs, P.lifespans
 SWAP_NOTE = re.compile(r"\(\s*Express(?:[ãa]o|[õo]es)\s+substitu[íi]das?\s+pel[ao]\s+[^)]*\)", re.I)
 COURT_NOTE = re.compile(r"\(\s*Express(?:[ãa]o|[õo]es)\s+declarad[ao]s?\s+inconstitucion\w*\s+pel[ao]\s+ADIN?\s*(?:n\s*[º°]\s*)?([\d.]+)[^)]*\)", re.I)
 # law -> [(struck words, replacement words)], each pair checked against the law's own text (see decisions)
-EXPRESSION_SWAPS: dict[str, list[tuple[str, str]]] = {}
+EXPRESSION_SWAPS: dict[str, list[tuple[str, str]]] = {
+    # Lei 12.010/2009 art. 3: 'A expressão "pátrio poder" contida nos arts. 21, 23, 24, no parágrafo único do art. 36,
+    # no § 1º do art. 45, no art. 49, no inciso X do caput do art. 129, nas alíneas "b" e "d" do parágrafo único do
+    # art. 148, nos arts. 155, 157, 163, 166, 169, no inciso III do caput do art. 201 e no art. 249 [...] bem como na
+    # Seção II do Capítulo III do Título VI da Parte Especial [...] fica substituída pela expressão "poder familiar"'
+    "lei-12010-2009": [("pátrio poder", "poder familiar"), ("Pátrio Poder", "Poder Familiar")],
+}
 SPLIT_PROBLEMS: list[str] = []
 SPLITS: list[str] = []
 
