@@ -421,6 +421,11 @@ def page_info(key: str) -> dict:
     pubs = list(re.finditer(r"publicad[oa]\s+n[oa]\s+D\.?\s*O\.?\s*U\.?\s*(?:de\s*)?(\d{1,2})\s*º?\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})", head, re.I))
     # the page's own "Este texto não substitui o publicado no DOU de ..." line comes last
     pub = pubs[-1] if pubs else None
+    # ... unless the page goes on after the law (Lei 13.964/2019 prints the vetoed parts promulgated in 2021, with
+    # their own DOU line): the first "Este texto não substitui o publicado no DOU" line is the law's own
+    own = [mm for mm in pubs if re.search(r"substitui\s+o\s*$", head[max(0, mm.start() - 40):mm.start()], re.I)]
+    if own:
+        pub = own[0]
     if pub:
         info["published"] = f"{int(pub.group(3)):04d}-{int(pub.group(2)):02d}-{int(pub.group(1)):02d}"
     elif key in PUBLISHED_FIXED:
