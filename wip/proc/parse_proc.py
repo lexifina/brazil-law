@@ -235,11 +235,13 @@ def norm(s: str) -> str:
 def analyse(block: dict) -> dict:
     """Split a block into text, struck state and notes."""
     chars: list[tuple[str, bool]] = []
+    links: list[bool] = []
     for text, struck, link in block["segs"]:
         if link and LINKWORDS.match(text):
             continue
         for ch in text:
             chars.append((ch, struck))
+            links.append(link)
     full = "".join(c for c, _ in chars)
     notes = []
     keep = [True] * len(chars)
@@ -276,6 +278,16 @@ def analyse(block: dict) -> dict:
         notes.append("(Vigência encerrada)")
     plain_text = norm("".join(c for (c, s), k in zip(chars, keep) if k and not s)) if state == "mixed" else ""
     struck_text = norm("".join(c for (c, s), k in zip(chars, keep) if k and s)) if state == "mixed" else ""
+    if state == "mixed":
+        # typesetting slips in unstruck text: a struck ordinal sign or full stop ("§ 1<strike>º</strike>"), or a
+        # struck cross-reference link ("(<strike><a>art. 110 do Código Penal</a></strike>)", CPP art. 336)
+        if not re.sub(r"[º°.\s]", "", struck_text) or all(
+                ln for (c, s), k, ln in zip(chars, keep, links) if k and s and not c.isspace()):
+            state, plain_text, struck_text = "plain", "", ""
+        # a strike that ends inside the last words of a struck wording ("... como tam</strike>bem ao juiz", CPP
+        # art. 725 III): the wording is struck
+        elif t.startswith(struck_text[:40]) and n_st > n_pl:
+            state = "struck"
     all_link = all(link or not text.strip() for text, _, link in block["segs"])
     return {"text": t, "state": state, "notes": notes, "center": block["center"], "lapsed": lapsed,
             "plain_text": plain_text, "struck_text": struck_text, "all_link": all_link}
@@ -441,6 +453,14 @@ VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {}
 # (CF art. 62 §§ 3, 4, 7 and 11): key -> (date, reason). Filled in after reading each MP page.
 # Vetoed parts later promulgated after Congress overrode the veto (CF art. 66 §§ 5 and 7): law -> (day, reason).
 VETO_PROMULGATION: dict[str, tuple[str, str]] = {
+    "lei-13964-2019": ("2021-04-30", "the parts of Lei 13.964/2019 vetoed on 24.12.2019 were promulgated after Congress "
+                                     "overrode the veto (CF art. 66 § 5; DOU 30.4.2021, printed at the end of the Lei "
+                                     "13.964 page): for the CPP, art. 3º-B § 1º and art. 14-A §§ 3º to 5º"),
+}
+# The dispositivos each promulgation covers, read from the promulgation text on the law's page: law -> {(act, unit, label)}
+VETO_PROMULGATED_UNITS: dict[str, set[tuple[str, str, str]]] = {
+    "lei-13964-2019": {("codigo-de-processo-penal", "art-003-b", "§ 1º"), ("codigo-de-processo-penal", "art-014-a", "§ 3º"),
+                       ("codigo-de-processo-penal", "art-014-a", "§ 4º"), ("codigo-de-processo-penal", "art-014-a", "§ 5º")},
 }
 MP_LAPSE: dict[str, tuple[str, str]] = {}
 
@@ -1027,11 +1047,11 @@ def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str])
     for i, p in enumerate(paras):
         if p["state"] == "plain" or p["notes"] or not re.search(r"\(VETADO\)\.?$", p["text"], re.I) or not p["label"]:
             continue
-        q = paras[i + 1] if i + 1 < len(paras) else None
-        if q is None or q["unit"] != p["unit"] or q["label"] != p["label"]:
+        q = next((q for q in paras[i + 1:i + 8] if q["unit"] == p["unit"] and q["label"] == p["label"]), None)
+        if q is None:
             continue
         pv = VETO_PROMULGATION.get(q["start_law"] or "")
-        if not pv:
+        if not pv or (act["slug"], p["unit"], p["label"]) not in VETO_PROMULGATED_UNITS.get(q["start_law"], set()):
             continue
         p["start"], p["start_law"] = q["start"], q["start_law"]
         p["end"], p["end_law"], p["end_how"] = pv[0], q["start_law"], "promulgation"
