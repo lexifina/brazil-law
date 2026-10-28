@@ -81,7 +81,7 @@ def decode(b: bytes) -> str:
 # law references in notes
 
 LAW_REF = re.compile(
-    r"(Lei\s+Complementar|Lei|Medida\s+Provis[óo]ria|Decreto[-\s]?[Ll]ei)\s*(?:n\s*\.?\s*[º°o]?\s*\.?)?\s*"
+    r"(Lei\s+Complementar|Lei|Medida\s+Provis[óo]ria|Decreto[-\s]?[Ll]ei)\s*(?:n\s*[.\]]?\s*[º°o]?\s*\.?)?\s*"
     r"(\d{1,2}(?:\.\s?\d{3})+|\d+)(?:-\d{1,2}(?!\d))?(?:[-\s]*(?P<suf>[A-Z])(?![a-z]))?(?:\s*\.)?(?:\s*,)?(?:\s*(?:de\s+)?(\d{1,2}º?\s*[./]\s*\d{1,2}\s*[./]\s*(\d{4}|\d{2})(?!\d))|"
     r"\s*de\s+(?:\d{1,2}º?\s+de\s+\w+\s+de\s+(\d{4})|(\d{4})))?", re.I)
 
@@ -385,11 +385,22 @@ def page_info(key: str) -> dict:
     body = re.sub(r"(?is)<script.*?</script>|<style.*?</style>|<strike>.*?</strike>", " ", t)
     x = norm(htmlmod.unescape(re.sub(r"<[^>]+>", " ", body)))
     info: dict = {"source_url": u, "sha256": hashlib.sha256(b).hexdigest()}
-    m = re.search(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI)[^,]{0,40}?N[º°O]?\s*\.?\s*[\d.]+\s*,?\s*DE\s+(\d{1,2})º?\s+DE\s+(\w+)\s+DE\s+(\d{4})",
-                  head, re.I)
-    if m and m.group(2).lower() in MONTHS:
-        info["enacted"] = f"{int(m.group(3)):04d}-{MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
-    pub = re.search(r"publicad[oa]\s+n[oa]\s+D\.?\s*O\.?\s*U\.?\s*(?:de\s*)?(\d{1,2})\s*º?\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})", head, re.I)
+    if re.search(r"Please enable JavaScript|Acesso Negado", head[:400]):
+        return {"bad_page": "bot page"}
+    num = key.split("-")[1]
+    m = None
+    for mm in re.finditer(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI|DECRETO LEI)[^,]{0,40}?N\s*[º°O]?\s*\.?\s*([\d.]+)(?:-?([A-Z]))?(?:-\d+)?\s*,?\s*"
+                          r"DE\s+(\d{1,2})º?\s+DE\s+(\w+)\s+DE\s+(\d{4})", head, re.I):
+        if str(int(mm.group(1).replace(".", "") or 0)) + (mm.group(2) or "").lower() == num.lstrip("0") or                 str(int(mm.group(1).replace(".", "") or 0)) == num.rstrip("abcdefghijklmnopqrstuvwxyz"):
+            m = mm
+            break
+    if not m:
+        return {"bad_page": "the page is not this act: " + head[:120]}
+    if m and m.group(4).lower() in MONTHS:
+        info["enacted"] = f"{int(m.group(5)):04d}-{MONTHS[m.group(4).lower()]:02d}-{int(m.group(3)):02d}"
+    pubs = list(re.finditer(r"publicad[oa]\s+n[oa]\s+D\.?\s*O\.?\s*U\.?\s*(?:de\s*)?(\d{1,2})\s*º?\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})", head, re.I))
+    # the page's own "Este texto não substitui o publicado no DOU de ..." line comes last
+    pub = pubs[-1] if pubs else None
     if pub:
         info["published"] = f"{int(pub.group(3)):04d}-{int(pub.group(2)):02d}-{int(pub.group(1)):02d}"
     if m:
@@ -407,8 +418,13 @@ def page_info(key: str) -> dict:
         info["lapsed"] = True
     if re.search(r"\bRejeitada\b", head[:3000], re.I):
         info["rejected"] = True
-    cl = [mm.start() for mm in re.finditer(r"(?:Est[ae]\s+(?:Lei|Medida\s+Provis[óo]ria|C[óo]digo)(?:\s+Complementar)?|"
-                                            r"A\s+presente\s+Lei)\s+entra(?:r[áa])?\s+em\s+vigor", x, re.I)]
+    clause_rx = (r"(?:(?:Est[ae]|[ÊE]st[ae]|O\s+presente|A\s+presente)\s+(?:Lei|Decreto[-\s]?[Ll]ei|Medida\s+Provis[óo]ria|C[óo]digo)"
+                 r"(?:\s+Complementar)?)\s*,?\s+entra(?:r[áa])?\s+em\s+vigor|entrando\s+(?:[êe]st[ae]|o\s+presente)\s+(?:Lei|Decreto[-\s]?[Ll]ei)\s+em\s+vigor")
+    cl = [mm.start() for mm in re.finditer(clause_rx, x, re.I)]
+    if not cl:
+        # an act revoked as a whole is struck through on its page: read its clause from the struck text
+        x = head
+        cl = [mm.start() for mm in re.finditer(clause_rx, x, re.I)]
     if cl:
         tail = x[cl[-1]:]
         end = re.search(r"\.\s+(?:Art\. \d|Bras[íi]lia|Este texto)", tail)
@@ -441,8 +457,12 @@ def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
         if key.startswith("mp-"):
             return pub, f"published {pub}; a Medida Provisória has force of law from publication (CF art. 62)"
         return plus_days(pub, 45), f"no vigência clause: LINDB art. 1, published {pub} + 45 days"
-    if re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+na\s+data\s+d[ae]\s+sua\s+publica", cl, re.I):
+    if re.search(r"em\s+vigor\s+na\s+data\s+d[ae]\s+(?:sua\s+)?publica", cl, re.I):
         return pub, f"own clause 'entra em vigor na data de sua publicação' (published {pub})"
+    fx = re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+(?:no\s+dia|em|a\s+partir\s+de)\s+(\d{1,2})º?\s+de\s+(\w+)\s+de\s+(\d{4})", cl, re.I)
+    if fx and fx.group(2).lower() in MONTHS:
+        d = f"{int(fx.group(3)):04d}-{MONTHS[fx.group(2).lower()]:02d}-{int(fx.group(1)):02d}"
+        return d, f"own clause: in force on a fixed day ({cl[:120]})"
     m = re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+(?:ap[óo]s\s+decorrid[oa]s?\s+|ap[óo]s\s+)?(\d+)\s*\(([^)]+)\)\s*(dias|meses|m[êe]s|anos?)\s+"
                   r"(?:ap[óo]s\s+|de\s+|da\s+|contados\s+da\s+|a\s+partir\s+da\s+)?(?:a\s+)?(?:data\s+de\s+|data\s+da\s+)?(?:sua|da\s+sua)\s+publica",
                   cl, re.I)
@@ -975,7 +995,8 @@ def consolidated(ident: str, digits: int) -> dict[str, str]:
     out: dict[str, list[str]] = {}
     for p in paras:
         # the consolidated page keeps a revoked dispositivo as its bare label ("Art. 757.", "III -"): not text
-        t = p["text"] if p["state"] == "plain" else p["plain_text"] if p["state"] == "mixed" else ""
+        slip = p["state"] == "mixed" and p.get("link_strike") and not any(re.search(r"ADI", n) for n in p["notes"])
+        t = p["text"] if p["state"] == "plain" or slip else p["plain_text"] if p["state"] == "mixed" else ""
         if t and not BARE_LABEL.match(t):
             out.setdefault(p["unit"], []).append(t)
     return {u: "".join(l + "\n" for l in ls) for u, ls in out.items()}

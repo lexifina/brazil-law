@@ -193,7 +193,7 @@ def blocks_of(html: str) -> list[dict]:
 NOTE = re.compile(
     r"\(\s*(?:Reda[çc][ãa]o|Inclu[ií]d|Acrescentad|Acrescid|Revogad[oa]s?\s+(?:pel|por)|Renumerad|Vide|Vig[êe]ncia|"
     r"Produ[çc][ãa]o\s+de\s+efeito|Regulament|Declarad|Suspens|Execu[çc][ãa]o|Express[ãa]o|Promulga|Convers|Convertid|"
-    r"Texto\s+compilado|Atualizad|Mensagem|Revoga[çc][ãa]o)[^()]*(?:\([^()]*\)[^()]*)*(?:\)|$)", re.I)
+    r"Texto\s+compilado|Atualizad|Mensagem|Revoga[çc][ãa]o|Par[áa]grafo\s+[úu]nico\s+(?:renumerad|transformad))[^()]*(?:\([^()]*\)[^()]*)*(?:\)|$)", re.I)
 # a note Planalto left without parentheses at the end of a line: "...; Redação dada pela Medida Provisória nº 869, de 2018"
 BARE_NOTE = re.compile(r"\s(?:Reda[çc][ãa]o\s+dada|Inclu[ií]d[oa]|Revogad[oa])\s+pel[oa]\s+(?:Lei|Medida|Decreto)[^()]*\)?\s*$", re.I)
 LINKWORDS = re.compile(r"^\s*\(?\s*(?:Produ[çc][ãa]o\s+de\s+efeitos?|Vig[êe]ncia|Regulamento|Regulamenta[çc][ãa]o)"
@@ -220,6 +220,8 @@ def norm(s: str) -> str:
     s = re.sub(r"\s+\)", ")", s)
     # "Art 180." (no full stop after Art, common in the 1940 text) -> "Art. 180."
     s = re.sub(r"^Art\s+(?=\d)", "Art. ", s)
+    s = re.sub(r"^A rt\.", "Art.", s)
+    s = re.sub(r"(º|\d)\((VETADO|Revogad)", r"\1 (\2", s)
     return s.strip()
 
 
@@ -321,7 +323,7 @@ def level(label: str) -> int:
     return 5
 
 
-HEADING = re.compile(r"^(?:P\s?A\s?R\s?T\s?E|LIVRO|T[ÍI]TULO|CAP[ÍI]TULO|Se[çc][ãa]o|SE[ÇC][ÃA]O|Subse[çc][ãa]o|SUBSE[ÇC][ÃA]O)\b")
+HEADING = re.compile(r"^(?:P\s?A\s?R\s?T\s?E|LIVRO|T[ÍI]TULO|CAP[ÍI]TULO|Se[çc][ãa]o|SE[ÇC][ÃA]O|SEC[ÇC][ÃA]O|Sec[çc][ãa]o|Subse[çc][ãa]o|SUBSE[ÇC][ÃA]O)\b")
 NAV = re.compile(r"^(?:Texto compilado|Mensagem de veto|Vig[êe]ncia|[ÍI]NDICE|Vide\b|Regulamento|Convers[ãa]o d|"
                  r"Convertid|Produ[çc][ãa]o de efeito|Lei de Introdu[çc][ãa]o)", re.I)
 
@@ -386,8 +388,13 @@ def page_info(key: str) -> dict:
         info["lapsed"] = True
     if re.search(r"\bRejeitada\b", head[:3000], re.I):
         info["rejected"] = True
-    cl = [mm.start() for mm in re.finditer(r"(?:Est[ae]\s+(?:Lei|Medida\s+Provis[óo]ria|C[óo]digo)(?:\s+Complementar)?|"
-                                            r"A\s+presente\s+Lei)\s+entra(?:r[áa])?\s+em\s+vigor", x, re.I)]
+    clause_re = (r"(?:[EÊ]st[ae]\s+(?:Lei|Medida\s+Provis[óo]ria|C[óo]digo|Decreto[-\s]?[LlI]ei)(?:\s+Complementar)?|"
+                 r"A\s+presente\s+Lei)\s+entra(?:r[áa])?\s+em\s+vigor")
+    cl = [mm.start() for mm in re.finditer(clause_re, x, re.I)]
+    if not cl:
+        # a law Planalto shows struck as a whole (revoked): its own clause is inside the struck text
+        x = head
+        cl = [mm.start() for mm in re.finditer(clause_re, x, re.I)]
     if cl:
         tail = x[cl[-1]:]
         end = re.search(r"\.\s+(?:Art\. \d|Bras[íi]lia|Este texto)", tail)
@@ -510,7 +517,7 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
             # a heading is a Parte/Título/Capítulo/Seção line, the name line right after one, or a line in capitals
             prev_head = bool(out) and out[-1]["heading"] and bool(HEADING.match(out[-1]["text"]))
             heading = not lab and (bool(HEADING.match(t)) or bool(re.match(r"^Parte\s+(?:Geral|Especial)", t, re.I))
-                                   or prev_head or (t.upper() == t and any(c.isalpha() for c in t)))
+                                   or prev_head or (t.upper() == t and "," not in t and any(c.isalpha() for c in t)))
         if zone == "pre" and (lab.startswith("Art.") or heading):
             zone = "body"
         if zone == "pre":
@@ -881,7 +888,7 @@ def unit_label(u: str, ps: list[dict]) -> str:
 # check against Planalto's consolidated page
 
 
-BARE_LABEL = re.compile(r"^(?:Arts?\. [\d.]+º?(?:-[A-Z]{1,2})?\.?(?: a [\d.]+º?(?:-[A-Z]{1,2})?\.?)?|§ \d+º?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])? -|[a-z]\))$")
+BARE_LABEL = re.compile(r"^(?:Arts?\. [\d.]+º?(?:-[A-Z]{1,2})?\.?(?: a [\d.]+º?(?:-[A-Z]{1,2})?\.?)?(?: -)?|§ \d+º?(?:-[A-Z])?\.?(?: -)?|Parágrafo único\.?(?: -)?|[IVXLC]+(?:-[A-Z])? -|[a-z]\))$")
 
 
 def consolidated(ident: str, digits: int) -> dict[str, str]:
@@ -893,6 +900,9 @@ def consolidated(ident: str, digits: int) -> dict[str, str]:
         t = p["text"] if p["state"] == "plain" else p["plain_text"] if p["state"] == "mixed" else ""
         if t and not BARE_LABEL.match(t):
             out.setdefault(p["unit"], []).append(t)
+    # a revoked article the consolidated page still marks by its marginal heading only (no text of its own)
+    out = {u: ls for u, ls in out.items()
+           if u == "titulos" or any(label_of(l) or re.search(r"[.;:,]$", l) for l in ls)}
     return {u: "".join(l + "\n" for l in ls) for u, ls in out.items()}
 
 
@@ -968,6 +978,18 @@ def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str])
     hit = REWRITES.get(act["slug"])
     if hit:
         rewrite(paras, hit, eff, fixed)
+    # Planalto often closes a struck run of lines (a revoked article) with one "Revogado pela" note on its last line:
+    # an earlier line of the same struck run with nothing else to end it is revoked with it
+    for i, p in enumerate(paras):
+        if p["state"] == "plain" or p["end"] or p["heading"]:
+            continue
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"] or q["state"] == "plain":
+                break
+            if q["end_how"] == "note" and any(END_KIND.search(n) for n in q["notes"]) and q["end"] > p["start"]:
+                p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "run-revoked"
+                fixed.add(i)
+                break
     # a struck marginal heading (or an unlabelled heading line inside an article) with nothing to end it falls with
     # the dispositivo it heads: the next labelled line of the same article
     for i, p in enumerate(paras):

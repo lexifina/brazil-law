@@ -1,86 +1,37 @@
 CP paragraphs 3509 Counter({'plain': 2300, 'struck': 1209}) units 434 versions 110
-  end_how Counter({'rewrite': 621, 'successor': 218, 'parent': 173, 'note': 147, 'heads': 25, None: 25})
-  DIFF art-044: Planalto consolidated '§ 1º (VETADO)' / replay '§ 1º(VETADO)'
-  DIFF art-045: Planalto consolidated '§ 4º (VETADO)' / replay '§ 4º(VETADO)'
+  end_how Counter({'rewrite': 621, 'successor': 221, 'parent': 194, 'note': 147, 'run-revoked': 14, 'heads': 12})
   DIFF art-047: Planalto consolidated 'ção para dirigir veículo.' / replay 'ção para dirigir veículo. >'
-  DIFF art-051: only in consolidated: '§ 1º -' | only in consolidated: '§ 2º -'
   DIFF art-092: only in replay: 'Parágrafo único - Os efeitos de que trata este artigo não são automáticos, devendo ser motivadamente declarados na sente'
   DIFF art-110: only in replay: '§ 2º (Revogado)..'
   DIFF art-129: Planalto consolidated 'III perda ou ' / replay 'III - perda ou ' | Planalto consolidated 'posto no § 5º do art. 121.' / replay 'posto no § 5º do art. 121'
   DIFF art-141: only in replay: '§ 2º - (VETADO).'
   DIFF art-148: Planalto consolidated 'a liberdade dura mais de quinze dia' / replay 'a liberdade dura mais de 15 (quinze) di' | Planalto consolidated 'rdade dura mais de quinze dias.' / replay 'e dura mais de 15 (quinze) dias.'
-  DIFF art-150: only in consolidated: '§ 2º -'
-  DIFF art-153: only in replay: 'Parágrafo único - Somente se procede mediante representação.'
   DIFF art-155: Planalto consolidated 'o de duas ou mais pessoas.' / replay 'o de duas ou mais pessoas'
   DIFF art-159: Planalto consolidated 'o, de oito a quinze anos..' / replay 'o, de oito a quinze anos.' | Planalto consolidated ' 3º - Se resulta a morte: Vide Lei nº 8.072, de 25.7.90' / replay ' 3º - Se resulta a morte:'
   DIFF art-169: Planalto consolidated 'ente, dentro no prazo de quinze dia' / replay 'ente, dentro no prazo de 15 (quinze) di' | Planalto consolidated 'dentro no prazo de quinze dias.' / replay 'ro no prazo de 15 (quinze) dias.'
   DIFF art-171-a: only in replay: 'Fraude com a utilização de ativos virtuais, valores mobiliários ou ativos financeiros'
   DIFF art-184: Planalto consolidated 'es a 1 (um) ano, ou multa.' / replay 'es a 1 (um) ano, ou multa'
-  DIFF art-185: Planalto consolidated 'Art. 185 -' / replay 'Art. 185 - Atribuir falsamente a alguém, mediante o uso de nome, pseudônimo ou sinal por ele adotado para designar seus trabalhos, a autoria de obra literária, científica ou artística:'
-  DIFF art-187: only in consolidated
-  DIFF art-188: only in consolidated
-  DIFF art-189: only in consolidated
-  DIFF art-190: only in consolidated
-  DIFF art-192: only in consolidated
-  DIFF art-193: only in consolidated
-  DIFF art-194: only in consolidated
-  DIFF art-196: only in consolidated
-  DIFF art-214: only in consolidated: 'Art. 214 -'
+  DIFF art-185: only in replay
+  DIFF art-214: only in replay
   DIFF art-216-a: Planalto consolidated 'emprego, cargo ou função.' / replay 'emprego, cargo ou função."'
-  DIFF art-217: only in consolidated
-  DIFF art-217-a: Planalto consolidated '§ 2º (VETADO)' / replay '§ 2º(VETADO)'
-  DIFF art-219: only in consolidated
-  DIFF art-220: only in consolidated
-  DIFF art-221: only in consolidated
-  DIFF art-222: only in consolidated
-  DIFF art-223: only in consolidated
-  DIFF art-224: only in consolidated
-  DIFF art-231: Planalto consolidated 'o internacional de pessoa para fim de exploração sexual' / replay 'o internacional de pessoas' | Planalto consolidated ' para fim de exploração sexual' / replay ' internacional de pessoas'
-  DIFF art-232: only in consolidated
   DIFF art-234: Planalto consolidated 'Parágrafo único - I' / replay '§ 1º. Incor' | Planalto consolidated 'Parágrafo único - Incorre n' / replay '§ 1º. Incorre n'
-  DIFF art-240: only in consolidated
+  DIFF art-248: only in consolidated: 'PÁTRIO PODER, TUTELA CURATELA'
   DIFF art-250: Planalto consolidated ', é pena de detenção, de seis meses' / replay ', é pena de detenção, de 6 (seis) mese' | Planalto consolidated 'pena de detenção, de seis meses a d' / replay 'a de detenção, de 6 (seis) meses a 2' | Planalto consolidated 'etenção, de seis meses a dois anos.' / replay 'ção, de 6 (seis) meses a 2 (dois) anos' | Planalto consolidated 'ção, de seis meses a dois anos.' / replay ' 6 (seis) meses a 2 (dois) anos.'
   DIFF art-251: Planalto consolidated 'a pena é de detenção, de seis meses' / replay 'a pena é de detenção, de 6 (seis) mese' | Planalto consolidated 'na é de detenção, de seis meses a d' / replay 'é de detenção, de 6 (seis) meses a 2' | Planalto consolidated 'etenção, de seis meses a dois anos;' / replay 'ção, de 6 (seis) meses a 2 (dois) anos' | Planalto consolidated 'ção, de seis meses a dois anos; nos' / replay ' 6 (seis) meses a 2 (dois) anos; nos' | Planalto consolidated 'casos, é de detenção, de três meses' / replay 'casos, é de detenção, de 3 (três) mese' | Planalto consolidated 's, é de detenção, de três meses a u' / replay 'é de detenção, de 3 (três) meses a 1'
   DIFF art-264: Planalto consolidated 'a pena é de detenção, de seis meses' / replay 'a pena é de detenção, de 6 (seis) mese' | Planalto consolidated 'na é de detenção, de seis meses a d' / replay 'é de detenção, de 6 (seis) meses a 2' | Planalto consolidated 'etenção, de seis meses a dois anos;' / replay 'ção, de 6 (seis) meses a 2 (dois) anos' | Planalto consolidated 'ção, de seis meses a dois anos; se ' / replay ' 6 (seis) meses a 2 (dois) anos; se '
   DIFF art-269: Planalto consolidated 'Pena - detenção, de seis meses' / replay 'Pena - detenção, de 6 (seis) mese' | Planalto consolidated 'Pena - detenção, de seis meses a d' / replay 'na - detenção, de 6 (seis) meses a 2' | Planalto consolidated 'etenção, de seis meses a dois anos,' / replay 'ção, de 6 (seis) meses a 2 (dois) anos' | Planalto consolidated 'ção, de seis meses a dois anos, e m' / replay ' 6 (seis) meses a 2 (dois) anos, e m'
   DIFF art-273: Planalto consolidated 'tico ou de sua atividade; (' / replay 'tico ou de sua atividade;'
-  DIFF art-279: Planalto consolidated 'Art. 279 -' / replay 'Art. 279 - Vender, ter em depósito para vender ou expor à venda ou, de qualquer forma, entregar a consumo substância alimentícia ou medicinal avariada:'
-  DIFF art-281: only in replay
+  DIFF art-279: only in replay
+  DIFF art-280: only in consolidated: 'COMÉRCIO, POSSE OU USO DE ENTORPECENTE OU SUBSTÂNCIA QUE DETERMINE DEPENDÊNCIA FÍSICA OU PSÍQUICA.'
   DIFF art-293: Planalto consolidated ' na pena de detenção, de seis meses' / replay ' na pena de detenção, de 6 (seis) mese' | Planalto consolidated 'pena de detenção, de seis meses a d' / replay 'a de detenção, de 6 (seis) meses a 2' | Planalto consolidated 'etenção, de seis meses a dois anos,' / replay 'ção, de 6 (seis) meses a 2 (dois) anos' | Planalto consolidated 'ção, de seis meses a dois anos, ou ' / replay ' 6 (seis) meses a 2 (dois) anos, ou '
   DIFF art-309: Planalto consolidated ' de lei sobre estrangeiro' / replay ' de lei sobre estrangeiros'
   DIFF art-316: Planalto consolidated 'Pena - reclusão, de 3 (três) a 8 ' / replay 'Pena - reclusão, de três a oit' | Planalto consolidated 'na - reclusão, de 3 (três) a 8 (oito' / replay 'Pena - reclusão, de três a oito an' | Planalto consolidated ' reclusão, de 3 (três) a 8 (oito) anos' / replay 'na - reclusão, de três a oito anos,' | Planalto consolidated 'ão, de 3 (três) a 8 (oito) anos, e m' / replay ' reclusão, de três a oito anos, e m'
-  DIFF art-333: only in replay: '§ 2º A pena aplica-se em dobro, se o crime de contrabando ou descaminho é praticado em transporte aéreo.' | only in replay: '§ 1º - Incorre na mesma pena quem:' | only in replay: 'a) pratica navegação de cabotagem, fora dos casos permitidos em lei;' | only in replay: 'b) pratica fato assimilado, em lei especial, a contrabando ou descaminho;' | only in replay: 'c) vende, expõe à venda, mantém em depósito ou, de qualquer forma, utiliza em proveito próprio ou alheio, no exercício d' | only in replay: 'd) adquire, recebe ou oculta, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, mercador'
   DIFF art-343: Planalto consolidated 'ês a quatro anos, e multa.' / replay 'ês a quatro anos, e multa'
-  DIFF art-350: only in consolidated: 'Art. 350 -'
+  DIFF art-350: only in replay
   DIFF art-351: Planalto consolidated 'a pena é de reclusão, de dois a sei' / replay 'a pena é de reclusão, de 2 (dois) a 6 ' | Planalto consolidated 'na é de reclusão, de dois a seis an' / replay 'é de reclusão, de 2 (dois) a 6 (seis' | Planalto consolidated 'é de reclusão, de dois a seis anos.' / replay ' reclusão, de 2 (dois) a 6 (seis) anos' | Planalto consolidated ' reclusão, de dois a seis anos.' / replay 'ão, de 2 (dois) a 6 (seis) anos.' | Planalto consolidated 'e a pena de detenção, de três meses' / replay 'e a pena de detenção, de 3 (três) mese' | Planalto consolidated 'pena de detenção, de três meses a u' / replay 'a de detenção, de 3 (três) meses a 1'
   DIFF art-359-g: Planalto consolidated 'andato ou da legislatura:)' / replay 'andato ou da legislatura:'
   DIFF titulos: only in consolidated: 'DOS CRIMES CONTRA A' | only in consolidated: 'INVIOLABILIDADE DE CORRESPONDÊNCIA' | only in replay: 'DOS CRIMES CONTRA A INVIOLABILIDADE DE CORRESPONDÊNCIA' | only in consolidated: 'DOS CRIMES CONTRA AS' | only in consolidated: 'MARCAS DE INDÚSTRIA E COMÉRCIO' | only in replay: 'DOS CRIMES CONTRA AS MARCAS DE INDÚSTRIA E COMÉRCIO'
-  55 units differ from the consolidated page
+  31 units differ from the consolidated page
 PROBLEM CP: restored wording after an open one: art-121 [II -] 'II - contra pessoa menor de 14 (catorze) anos, maior de 60 (sessenta) anos, com '
 PROBLEM CP: restored wording after an open one: art-214 [rubrica] 'Atentado violento ao pudor'
-PROBLEM CP: no end for struck art-153 [Parágrafo único] 'Parágrafo único - Somente se procede mediante representação.' notes=[]
-PROBLEM CP: no end for struck art-185 [Art. 185] 'Art. 185 - Atribuir falsamente a alguém, mediante o uso de nome, pseudônimo ou sinal por e' notes=[]
-PROBLEM CP: no end for struck art-231 [rubrica] 'Tráfico internacional de pessoas' notes=['(Redação dada pela Lei nº 11.106, de 2005)']
-PROBLEM CP: no end for struck art-279 [Art. 279] 'Art. 279 - Vender, ter em depósito para vender ou expor à venda ou, de qualquer forma, ent' notes=[]
-PROBLEM CP: no end for struck art-281 [Art. 281] 'Art. 281. Importar ou exportar, preparar, produzir, vender, expor a venda, fornecer, ainda' notes=['(Redação dada pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [] 'Pena - reclusão, de um a cinco anos, e multa de 10 a 50 vêzes o maior salário-mínimo vigen' notes=['(Redação dada pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [§ 1º] '§ 1º Nas mesmas penas incorre quem ilegalmente:' notes=['(Redação dada pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [I -] 'I - importa ou exporta, vende ou expõe à venda, fornece, ainda que a título gratuito, tran' notes=['(Incluído pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [] 'Il - faz ou mantém o cultivo de plantas destinadas à preparação de entorpecentes ou de sub' notes=['(Incluído pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [III -] 'III - traz consigo, para uso próprio, substância entorpecente ou que determine dependência' notes=['(Incluído pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [§ 2º] '§ 2º Se o agente é farmacêutico, médico dentista ou veterinário:' notes=['(Redação dada pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [] 'Pena - reclusão, de 2 a 8 anos, e multa de 20 a 50 vêzes o maior salário-mínimo vigente no' notes=['(Incluído pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [§ 3º] '§ 3º Prescrever o médico ou dentista substância entorpecente, ou que determine dependência' notes=['(Redação dada pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [] 'Pena - detenção, de seis meses a 2 anos, e multa de 10 a 30 vêzes o maior salário-mínimo v' notes=['(Incluído pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [§ 4º] '§ 4º As penas do parágrafo anterior são aplicadas àquele que:' notes=['(Redação dada pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [I -] 'I - instiga ou induz alguém a usar entorpecente ou substância que determine dependência fí' notes=['(Incluído pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [II -] 'II - utiliza local, de que tem a propriedade, posse, administração ou vigilância, ou conse' notes=['(Incluído pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [III -] 'III - contribui de qualquer forma para incentivar ou difundir o uso de entorpecente ou de ' notes=['(Incluído pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-281 [§ 5º] '§ 5º As penas aumentam-se de um têrço, se a substância entorpecente ou que determine depen' notes=['(Incluído pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck art-333 [§ 2º] '§ 2º A pena aplica-se em dobro, se o crime de contrabando ou descaminho é praticado em tra' notes=[]
-PROBLEM CP: no end for struck art-333 [§ 1º] '§ 1º - Incorre na mesma pena quem:' notes=['(Redação dada pela Lei nº 4.729, de 14.7.1965)']
-PROBLEM CP: no end for struck art-333 [a)] 'a) pratica navegação de cabotagem, fora dos casos permitidos em lei;' notes=['(Redação dada pela Lei nº 4.729, de 14.7.1965)']
-PROBLEM CP: no end for struck art-333 [b)] 'b) pratica fato assimilado, em lei especial, a contrabando ou descaminho;' notes=['(Redação dada pela Lei nº 4.729, de 14.7.1965)']
-PROBLEM CP: no end for struck art-333 [c)] 'c) vende, expõe à venda, mantém em depósito ou, de qualquer forma, utiliza em proveito pró' notes=['(Incluído pela Lei nº 4.729, de 14.7.1965)']
-PROBLEM CP: no end for struck art-333 [d)] 'd) adquire, recebe ou oculta, em proveito próprio ou alheio, no exercício de atividade com' notes=['(Incluído pela Lei nº 4.729, de 14.7.1965)']
-27 problems
+2 problems
