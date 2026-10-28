@@ -664,6 +664,26 @@
    "id": "law:lei-9840-1999",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L9840.htm",
    "ts": "20261013135124"
+  },
+  {
+   "id": "law:lei-9975-2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9975.htm",
+   "ts": "20261016104234"
+  },
+  {
+   "id": "law:mp-1028-2021",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Mpv/mpv1028.htm",
+   "ts": "20260617125142"
+  },
+  {
+   "id": "law:mp-958-2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Mpv/mpv958.htm",
+   "ts": "20260803210522"
+  },
+  {
+   "id": "law:mp-975-2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Mpv/mpv975.htm",
+   "ts": "20261006002620"
   }
  ]
 }
