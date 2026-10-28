@@ -1,0 +1,29 @@
+{
+ "fetch": [
+  {
+   "id": "cp",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+   "ts": "20261020142644"
+  },
+  {
+   "id": "cp-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+   "ts": "20261026202755"
+  },
+  {
+   "id": "cpc",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+   "ts": "20261023070835"
+  },
+  {
+   "id": "clt",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+   "ts": "20261022194436"
+  },
+  {
+   "id": "clt-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+   "ts": "20261019225805"
+  }
+ ]
+}
