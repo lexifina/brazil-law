@@ -430,6 +430,10 @@ def page_info(key: str) -> dict:
         info["published"] = f"{int(pub.group(3)):04d}-{int(pub.group(2)):02d}-{int(pub.group(1)):02d}"
     elif key in PUBLISHED_FIXED:
         info["published"] = PUBLISHED_FIXED[key][0]
+    lx = lexml_published(key, info.get("enacted"))
+    if lx and lx != info.get("published"):
+        PUB_CORRECTED[key] = (info.get("published"), lx)
+        info["published"] = lx
     if m:
         after = head[m.end():m.end() + 1500]
         after = re.sub(r"^(?:\s*(?:Mensagem de veto|Texto compilado|Vig[êe]ncia(?: encerrada)?|Convers[ãa]o da Medida Provis[óo]ria\s+n[º°]?\s*[\d.]+(?:,\s*de\s+\d{4})?|"
@@ -490,11 +494,38 @@ EDITORIAL: dict[tuple[str, str, str], tuple[str, str, str]] = {
         "the history has no XI before then"),
 }
 
+LEXML = "https://www.lexml.gov.br/urn/urn:lex:br:federal:"
+
+
+def lexml_url(key: str, enacted: str | None) -> str | None:
+    """LexML URN page of a law (urn:lex:br:federal:lei:1973-11-22;5941)."""
+    if not enacted:
+        return None
+    pre, n, _ = key.split("-")
+    kind = {"lei": "lei", "lc": "lei.complementar", "dl": "decreto.lei", "mp": "medida.provisoria"}[pre]
+    num = n.rstrip("abcdefghijklmnopqrstuvwxyz")
+    suf = n[len(num):].upper()
+    return f"{LEXML}{kind}:{enacted};{num}" + (f"-{suf}" if suf else "")
+
+
+def lexml_published(key: str, enacted: str | None) -> str | None:
+    """The 'Publicação Original' day in the cached LexML record, if any."""
+    u = lexml_url(key, enacted)
+    p = u and fetch.cached(u)
+    if not p:
+        return None
+    x = re.sub(r"\s+", " ", htmlmod.unescape(re.sub(r"<[^>]+>", " ", p.read_bytes().decode("utf-8", "replace"))))
+    m = re.search(r"Publicação Original (\d{4}-\d{2}-\d{2}) Diário Oficial da União", x)
+    return m.group(1) if m else None
+
+
 # Publication days a law page does not print (it cites only the CLBR): key -> (date, source).
 PUBLISHED_FIXED: dict[str, tuple[str, str]] = {
     "lei-263-1948": ("1948-02-26", "LexML (urn:lex:br:federal:lei:1948-02-23;263): 'Publicação Original: Diário Oficial "
                                    "da União, Seção 1, 26/02/1948, p. 2713'"),
 }
+# Planalto page DOU day -> LexML "Publicação Original" day, where they differ (filled by page_info)
+PUB_CORRECTED: dict[str, tuple[str | None, str]] = {}
 # Notes that omit the act's kind, corrected only where the note's own link names the act: note -> (corrected, why).
 NOTE_FIX: dict[str, tuple[str, str]] = {
     "(Redação dada pela nº 11.785, de 2008)": (
@@ -1128,6 +1159,34 @@ ACT_LAWS = {
 
 # Act-specific decisions, printed in REPRODUCE.md (filled in as each act is checked).
 ACT_DECISIONS: list[str] = [
+    "Código de Processo Penal: the page's alignment is unreliable (heading name lines are often not centred), so "
+    "headings are only Livro/Título/Capítulo/Seção lines, the name line right after one, and lines in capitals "
+    "without a comma (as for the Código Penal).",
+    "Rules for struck text with no note of its own, each in the source's layout: 'run-revoked' - an earlier line of a "
+    "struck run closed by one 'Revogado pela' note; 'heads' - a struck rubrica or heading falls with the struck "
+    "dispositivo after it; 'heading-reworded' - a struck heading block followed, after struck articles, by the same "
+    "heading reworded (CPP Capítulo V 'DAS PERGUNTAS AO OFENDIDO' -> 'DO OFENDIDO', Lei 11.690/2008) ends when the "
+    "new block's note starts it; a struck '(VETADO)' line directly above wording a law's promulgated vetoed parts "
+    "introduced stands from that law's day to the promulgation; the successor of a struck wording may lie past a "
+    "heading reworded between the two wordings.",
+    "Typesetting slips read as unstruck: a struck ordinal sign or full stop inside unstruck text ('§ 1<strike>º"
+    "</strike>', CDC art. 8; CPP arts. 312 and 313) and a struck cross-reference link (CPP art. 336: '(art. 110 do "
+    "Código Penal)'); a strike that ends inside the last word of a struck wording (CPP art. 725 III: '... como "
+    "tam</strike>bem ao juiz') is read as struck. A run of full stops left at the end of a line by removed notes "
+    "becomes one full stop. 'Il - no concurso' (CPP art. 78) is read as the label 'II -'; 'Parágrafo Único' as "
+    "'Parágrafo único' (the text keeps the source's spelling).",
+    "Unstruck '(Revogado)' placeholders of the annotated page ('Parágrafo único. (Revogado).') stay in the text as "
+    "Planalto prints them; the check ignores placeholder lines on both pages, since the consolidated page prints a "
+    "placeholder ('IV - (revogado).', 'Art. 556. a Art. 560') where the annotated page keeps the struck wording.",
+    "Text before its law (coordinator rule): every line is dated by the in-force day of the law in its own note, so "
+    "no wording appears before the law that made it; the parser checks this for every line with a 'Redação dada', "
+    "'Incluído' or 'Renumerado' note (see the count below). Court rulings Planalto shows only as 'Vide ADI ...' notes (the "
+    "Lei 13.964/2019 juiz das garantias articles, ADI 6.298, 6.299, 6.300 and 6.305, among others) change no words "
+    "on the page, so the history has no commit for them.",
+    "Código de Processo Penal, one difference from the consolidated page kept as it is: the annotated page strikes "
+    "the heading 'CAPÍTULO II / DO JULGAMENTO' (Livro III, Título III) together with the arts. 556 to 562 under it, "
+    "revoked by Lei 8.658/1993; the consolidated page still prints the heading with no article under it. The history "
+    "follows the annotated page and ends the heading with the articles (27.5.1993).",
 ]
 
 # A law that re-enacted a whole part of an act: Planalto keeps the old part as one struck block, then prints the new
@@ -1526,6 +1585,10 @@ def main(argv: list[str]) -> int:
         decisions.append(why + ".")
     for k, (d, why) in PUBLISHED_FIXED.items():
         decisions.append(f"{law_label(k)}: published {d} ({why}).")
+    if PUB_CORRECTED:
+        decisions.append("Publication days: where the DOU day the Planalto page prints differs from the 'Publicação "
+                         "Original' of the law's LexML record (Senado Federal), the LexML day is used: " + "; ".join(
+                             f"{law_label(k)} (page {a or 'none'}, LexML {b})" for k, (a, b) in sorted(PUB_CORRECTED.items())) + ".")
     for k, (fixed_note, why) in NOTE_FIX.items():
         decisions.append(f"Note corrected: {why}.")
     for k, c in COURTS.items():
@@ -1545,6 +1608,8 @@ def main(argv: list[str]) -> int:
         problems += [f"{act['short']}: {x}" for x in pr]
         ana = anachronisms(paras, cx)
         problems += [f"{act['short']}: text before its law: {x}" for x in ana]
+        decisions.append(f"{act['short']}: lines found alive before the law their note names: {len(ana)}"
+                         + (": " + "; ".join(ana) if ana else "."))
         units = list(dict.fromkeys(p["unit"] for p in paras))
         if act["slug"] == "lgpd":
             gate, gate_law = lgpd_gates(units)
