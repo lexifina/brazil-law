@@ -1,5 +1,5 @@
 paragraphs 4303 Counter({'plain': 3539, 'struck': 745, 'mixed': 19})
-units 427
+units 426
 MIXED art-007 a) | struck: cinco anos para o trabalhador urbano, até o limite de dois anos após a extinção  | plain: a)
 MIXED art-007 b) | struck: até dois anos após a extinção do contrato, para o trabalhador rural; | plain: b)
 MIXED art-012 c) | struck: os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que sejam | plain: c);
@@ -14,7 +14,7 @@ MIXED art-155 c) | struck: propriedade de veículos automotores | plain: c)
 MIXED art-155 II - | struck: adicional de até cinco por cento do que for pago à União por pessoas físicas ou  | plain: II -
 MIXED art-155 § 2º | struck: O imposto previsto no inciso I, b, atenderá ao seguinte: | plain: § 2º
 MIXED art-170 IX - | struck: tratamento favorecido para as empresas brasileiras de capital nacional de pequen | plain: IX -
-MIXED art-171 § 2º-N | struck: Na aquisição de bens e serviços, o Poder Público dará tratamento preferencial, n | plain: § 2º -.
+MIXED art-171 § 2º | struck: Na aquisição de bens e serviços, o Poder Público dará tratamento preferencial, n | plain: § 2º -.
 MIXED art-178 § 3º | struck: A navegação de cabotagem e a interior são privativas de embarcações nacionais, s | plain: § 3º
 MIXED adct-art-060 X - | struck: X - aplica-se à complementação da União o disposto no;. | plain: art. 160 da Constituição Federal
 MIXED adct-art-076 Art. 76 | struck: rt. 76. São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2023 | plain: A
@@ -49,38 +49,14 @@ PROBLEM unknown law in note '(Incluído pela Emenda Constitucional de Revisão n
 PROBLEM unknown law in note '(Incluído pela Emenda Constitucional de Revisão nº 1, de 1994)'
 PROBLEM no end for struck art-007 [Parágrafo único] 'Parágrafo único. São assegurados à categoria dos trabalhadores domésticos os direitos prev' notes=['(Redação dada pela Emenda Constitucional nº 72, de 2013)']
 PROBLEM no end for struck art-012 [b)] 'b) os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil' notes=[]
-PROBLEM no end for struck art-012 [§ 1º-A] '§ 1º - Aos portugueses com residência permanente no País, se houver reciprocidade em favor' notes=[]
+PROBLEM no end for struck art-012 [§ 1º] '§ 1º - Aos portugueses com residência permanente no País, se houver reciprocidade em favor' notes=[]
 PROBLEM no end for struck art-014 [§ 9º] '§ 9º Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cess' notes=[]
 PROBLEM no end for struck art-020 [IV -] 'IV - as ilhas fluviais e lacustres nas zonas limítrofes com outros países; as praias marít' notes=[]
-PROBLEM no end for struck art-027 [§ 2] '§ 2.º A remuneração dos Deputados Estaduais será fixada em cada legislatura, para a subseq' notes=['(Redação dada pela Emenda Constitucional nº 1, 1992)']
-PROBLEM no end for struck art-036 [] 'III -- de provimento, pelo Supremo Tribunal Federal, de representação do Procurador-Geral ' notes=[]
 PROBLEM no end for struck art-037 [] 'XVII a proibição de acumular estende-se a empregos e funções e abrange autarquias, empresa' notes=[]
-PROBLEM no end for struck titulos [] 'DOS SERVIDORES PÚBLICOS CIVIS' notes=[]
-PROBLEM no end for struck art-040 [Art. 40] 'Art. 40. O servidor será aposentado:' notes=[]
-PROBLEM no end for struck art-040 [I -] 'I - por invalidez permanente, sendo os proventos integrais quando decorrentes de acidente ' notes=[]
-PROBLEM no end for struck art-040 [II -] 'II - compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de ' notes=[]
-PROBLEM no end for struck art-040 [III -] 'III - voluntariamente:' notes=[]
-PROBLEM no end for struck art-040 [a)] 'a) aos trinta e cinco anos de serviço, se homem, e aos trinta, se mulher, com proventos in' notes=[]
-PROBLEM no end for struck art-040 [b)] 'b) aos trinta anos de efetivo exercício em funções de magistério, se professor, e vinte e ' notes=[]
-PROBLEM no end for struck art-040 [c)] 'c) aos trinta anos de serviço, se homem, e aos vinte e cinco, se mulher, com proventos pro' notes=[]
-PROBLEM no end for struck art-040 [d)] 'd) aos sessenta e cinco anos de idade, se homem, e aos sessenta, se mulher, com proventos ' notes=[]
-PROBLEM no end for struck art-040 [§ 1º-L] '§ 1º - Lei complementar poderá estabelecer exceções ao disposto no inciso III, "a" e "c", ' notes=[]
-PROBLEM no end for struck art-040 [§ 2º-A] '§ 2º - A lei disporá sobre a aposentadoria em cargos ou empregos temporários.' notes=[]
-PROBLEM no end for struck art-040 [§ 3º-O] '§ 3º - O tempo de serviço público federal, estadual ou municipal será computado integralme' notes=[]
-PROBLEM no end for struck art-040 [§ 4º-O] '§ 4º - Os proventos da aposentadoria serão revistos, na mesma proporção e na mesma data, s' notes=[]
-PROBLEM no end for struck art-040 [§ 5º-O] '§ 5º - O benefício da pensão por morte corresponderá à totalidade dos vencimentos ou prove' notes=[]
-PROBLEM no end for struck art-040-a [Art. 40-A] 'Art. 40 - Aos servidores titulares de cargos efetivos da União, dos Estados, do Distrito F' notes=['(Redação dada pela Emenda Constitucional nº 20, de 15/12/98)']
-PROBLEM no end for struck art-040 [§ 6] '§ 6.º As aposentadorias e pensões dos servidores públicos federais serão custeadas com rec' notes=['(Incluído pela Emenda Constitucional nº 3, de 1993)']
-PROBLEM no end for struck art-040 [§ 7º-L] '§ 7º - Lei disporá sobre a concessão do benefício da pensão por morte, que será igual ao v' notes=['(Incluído pela Emenda Constitucional nº 20, de 15/12/98)']
-PROBLEM no end for struck art-040 [§ 12-A] '§ 12 - Além do disposto neste artigo, o regime de previdência dos servidores públicos titu' notes=['(Incluído pela Emenda Constitucional nº 20, de 15/12/98)']
-PROBLEM no end for struck art-040 [§ 13-A] '§ 13 - Ao servidor ocupante, exclusivamente, de cargo em comissão declarado em lei de livr' notes=['(Incluído pela Emenda Constitucional nº 20, de 15/12/98)']
+PROBLEM no end for struck heading 'DOS SERVIDORES PÚBLICOS CIVIS' notes=[]
 PROBLEM no end for struck art-040 [§ 14-A] '§ 14 - A União, os Estados, o Distrito Federal e os Municípios, desde que instituam regime' notes=['(Incluído pela Emenda Constitucional nº 20, de 15/12/98)']
-PROBLEM no end for struck art-040 [§ 15-O] '§ 15 - Observado o disposto no art. 202, lei complementar disporá sobre as normas gerais p' notes=['(Incluído pela Emenda Constitucional nº 20, de 15/12/98)']
 PROBLEM no end for struck art-050 [§ 2º] '§ 2º As Mesas da Câmara dos Deputados e do Senado Federal poderão encaminhar pedidos escri' notes=[]
 PROBLEM no end for struck art-052 [II -] 'II - processar e julgar os Ministros do Supremo Tribunal Federal, o Procurador-Geral da Re' notes=[]
-PROBLEM no end for struck art-057 [§ 4º-C] '§ 4º - Cada uma das Casas reunir-se-á em sessões preparatórias, a partir de 1º de fevereir' notes=[]
-PROBLEM no end for struck art-057 [§ 7º-N] '§ 7º - Na sessão legislativa extraordinária, o Congresso Nacional somente deliberará sobre' notes=[]
-PROBLEM no end for struck art-073 [§ 3º] '§ 3º Os Ministros do Tribunal de Contas da União terão as mesmas garantias, prerrogativas,' notes=[]
 PROBLEM no end for struck art-092 [Parágrafo único] 'Parágrafo único. O Supremo Tribunal Federal e os Tribunais Superiores têm sede na Capital ' notes=[]
 PROBLEM no end for struck art-093 [III -] 'III - o acesso aos tribunais de segundo grau far-se-á por antigüidade e merecimento, alter' notes=[]
 PROBLEM no end for struck art-093 [IV -] 'IV - previsão de cursos oficiais de preparação e aperfeiçoamento de magistrados como requi' notes=[]
@@ -96,14 +72,11 @@ PROBLEM no end for struck art-102 [Parágrafo único] 'Parágrafo único. A arg�
 PROBLEM no end for struck art-105 [Parágrafo único] 'Parágrafo único. Funcionarão junto ao Superior Tribunal de Justiça:' notes=['(Redação dada pela Emenda Constitucional nº 45, de 2004)']
 PROBLEM no end for struck art-105 [I -] 'I - a Escola Nacional de Formação e Aperfeiçoamento de Magistrados, cabendo-lhe, dentre ou' notes=['(Incluído pela Emenda Constitucional nº 45, de 2004)']
 PROBLEM no end for struck art-105 [II -] 'II - o Conselho da Justiça Federal, cabendo-lhe exercer, na forma da lei, a supervisão adm' notes=['(Incluído pela Emenda Constitucional nº 45, de 2004)']
-PROBLEM no end for struck titulos [] 'Seção V' notes=[]
-PROBLEM no end for struck titulos [] 'DOS TRIBUNAIS E JUÍZES DO TRABALHO' notes=[]
+PROBLEM no end for struck heading 'Seção V' notes=[]
+PROBLEM no end for struck heading 'DOS TRIBUNAIS E JUÍZES DO TRABALHO' notes=[]
 PROBLEM no end for struck art-111 [§ 1º-O] '§ 1º - O Tribunal Superior do Trabalho compor-se-á de vinte e sete Ministros, escolhidos d' notes=[]
-PROBLEM no end for struck art-114 [§ 3] '§ 3° Compete ainda à Justiça do Trabalho executar, de ofício, as contribuições sociais pre' notes=['(Incluído pela Emenda Constitucional nº 20, de 1998)']
-PROBLEM no end for struck titulos [] 'CAPÍTULO IV' notes=[]
-PROBLEM no end for struck titulos [] 'DAS FUNÇÕES ESSENCIAIS À JUSTIÇA' notes=[]
-PROBLEM no end for struck art-127 [§ 2º-A] '§ 2º - Ao Ministério Público é assegurada autonomia funcional e administrativa, podendo, o' notes=[]
-PROBLEM no end for struck art-129 [§ 2º-A] '§ 2º -As funções de Ministério Público só podem ser exercidas por integrantes da carreira,' notes=[]
+PROBLEM no end for struck heading 'CAPÍTULO IV' notes=[]
+PROBLEM no end for struck heading 'DAS FUNÇÕES ESSENCIAIS À JUSTIÇA' notes=[]
 PROBLEM no end for struck art-130-a [] 'III receber e conhecer das reclamações contra membros ou órgãos do Ministério Público da U' notes=['(Incluído pela Emenda Constitucional nº 45, de 2004)']
 PROBLEM no end for struck art-144 [§ 1º-A] '§ 1º - A polícia federal, instituída por lei como órgão permanente, estruturado em carreir' notes=[]
 PROBLEM no end for struck art-144 [§ 2º-A] '§ 2º - A polícia rodoviária federal, órgão permanente, estruturado em carreira, destina-se' notes=[]
@@ -114,27 +87,14 @@ PROBLEM no end for struck art-146 [III -] 'III - o recolhimento será unificado 
 PROBLEM no end for struck art-146 [IV -] 'IV - a arrecadação, a fiscalização e a cobrança poderão ser compartilhadas pelos entes fed' notes=['(Incluído pela Emenda Constitucional nº 42, de 19.12.2003)']
 PROBLEM no end for struck art-150 [§ 1º-A] '§ 1º - A vedação do inciso III, "b", não se aplica aos impostos previstos nos arts. 153, I' notes=[]
 PROBLEM no end for struck art-150 [§ 2º-A] '§ 2º - A vedação do inciso VI, "a", é extensiva às autarquias e às fundações instituídas e' notes=[]
-PROBLEM no end for struck art-150 [§ 6º-Q] '§ 6º - Qualquer anistia ou remissão, que envolva matéria tributária ou previdenciária, só ' notes=[]
-PROBLEM no end for struck art-155 [§ 3] '§ 3° À exceção dos impostos de que tratam o inciso II do caput deste artigo e o art. 153, ' notes=['(Redação dada pela Emenda Constitucional nº 3, de 1993)']
 PROBLEM no end for struck art-156 [§ 1º-O] '§ 1º - O imposto previsto no inciso I poderá ser progressivo, nos termos de lei municipal,' notes=[]
-PROBLEM no end for struck art-156 [§ 3] '§ 3.º Em relação ao imposto previsto no inciso III, cabe à lei complementar:' notes=['(Redação dada pela Emenda Constitucional nº 3, de 1993)']
 PROBLEM no end for struck art-158 [Parágrafo único] 'Parágrafo único. As parcelas de receita pertencentes aos Municípios, mencionadas no inciso' notes=[]
-PROBLEM no end for struck art-167 [§ 4] '§ 4.º É permitida a vinculação de receitas próprias geradas pelos impostos a que se refere' notes=['(Incluído pela Emenda Constitucional nº 3, de 1993)']
-PROBLEM no end for struck art-195 [§ 9] '§ 9° As contribuições sociais previstas no inciso I deste artigo poderão ter alíquotas ou ' notes=['(Incluído pela Emenda Constitucional nº 20, de 1998)']
-PROBLEM no end for struck titulos [] 'CAPÍTULO IV' notes=[]
-PROBLEM no end for struck titulos [] 'DA CIÊNCIA E TECNOLOGIA' notes=[]
+PROBLEM no end for struck heading 'CAPÍTULO IV' notes=[]
+PROBLEM no end for struck heading 'DA CIÊNCIA E TECNOLOGIA' notes=[]
 PROBLEM no end for struck art-222 [§ 2º-A] '§ 2º - A participação referida no parágrafo anterior só se efetuará através de capital sem' notes=[]
-PROBLEM no end for struck titulos [] 'DA FAMÍLIA, DA CRIANÇA, DO ADOLESCENTE E DO IDOSO' notes=[]
+PROBLEM no end for struck heading 'DA FAMÍLIA, DA CRIANÇA, DO ADOLESCENTE E DO IDOSO' notes=[]
 PROBLEM no end for struck art-227 [§ 1º-O] '§ 1º - O Estado promoverá programas de assistência integral à saúde da criança e do adoles' notes=[]
 PROBLEM no end for struck adct-art-038 [Parágrafo único] 'Parágrafo único. A União, os Estados, o Distrito Federal e os Municípios, quando a respect' notes=[]
-PROBLEM no end for struck adct-art-072 [§ 2] '§ 2.º As parcelas de que tratam os incisos I, II, III e V serão previamente deduzidas da b' notes=['(Incluído pela Emenda Constitucional de Revisão nº 1, de 1994)']
-PROBLEM no end for struck adct-art-072 [§ 3] '§ 3.º A parcela de que trata o inciso IV será previamente deduzida da base de cálculo das ' notes=['(Incluído pela Emenda Constitucional de Revisão nº 1, de 1994)']
-PROBLEM no end for struck adct-art-072 [§ 4] '§ 4.º O disposto no parágrafo anterior não se aplica aos recursos previstos no art. 159 da' notes=['(Incluído pela Emenda Constitucional de Revisão nº 1, de 1994)']
-PROBLEM no end for struck adct-art-072 [§ 5] '§ 5.º A parcela dos recursos provenientes do imposto sobre propriedade territorial rural e' notes=['(Incluído pela Emenda Constitucional de Revisão nº 1, de 1994)']
-PROBLEM no end for struck adct-art-072 [I -] 'I - no caso do imposto sobre propriedade territorial rural, a oitenta e seis inteiros e do' notes=['(Incluído pela Emenda Constitucional de Revisão nº 1, de 1994)']
-PROBLEM no end for struck adct-art-072 [II -] 'II - no caso do imposto sobre renda e proventos de qualquer natureza, a cinco inteiros e s' notes=['(Incluído pela Emenda Constitucional de Revisão nº 1, de 1994)']
-PROBLEM no end for struck adct-art-076 [§ 1] '§ 1° O disposto no caput não reduzirá a base de cálculo das transferências a Estados, Dist' notes=['(Redação dada pela Emenda Constitucional nº 68, de 2011)']
-PROBLEM no end for struck adct-art-076 [§ 3] '§ 3° Para efeito do cálculo dos recursos para manutenção e desenvolvimento do ensino de qu' notes=['(Redação dada pela Emenda Constitucional nº 68, de 2011)']
 PROBLEM no end for struck adct-art-076-b [Parágrafo único] 'Parágrafo único. Excetuam-se da desvinculação de que trata o caput:' notes=['(Incluído dada pela Emenda constitucional nº 93, de 2016)']
 PROBLEM no end for struck adct-art-102 [Parágrafo único] 'Parágrafo único. A aplicação dos recursos remanescentes, por opção a ser exercida por Esta' notes=['(Incluído pela Emenda Constitucional nº 94, de 2016)']
 PROBLEM no end for struck adct-art-105 [Parágrafo único] 'Parágrafo único. Não se aplica às compensações referidas no caput deste artigo qualquer ti' notes=['(Incluído pela Emenda Constitucional nº 94, de 2016)']
@@ -146,4 +106,4 @@ PROBLEM no end for struck adct-art-107 [III -] 'III - despesas custeadas com rec
 PROBLEM no end for struck adct-art-107 [§ 6º-B] '§ 6º-B Não se incluem no limite estabelecido no inciso I do caput deste artigo as despesas' notes=['(Incluído pela Emenda Constitucional nº 126, de 2022)']
 PROBLEM no end for struck adct-art-107 [§ 6º-C] '§ 6º-C As despesas previstas no § 6º-B deste artigo não serão consideradas para fins de ve' notes=['(Incluído pela Emenda Constitucional nº 126, de 2022)']
 PROBLEM no end for struck adct-art-115 [Parágrafo único] 'Parágrafo único. Ato do Ministério do Trabalho e Previdência, no âmbito de suas competênci' notes=['(Incluído pela Emenda Constitucional nº 113, de 2021)']
-127 problems
+87 problems
