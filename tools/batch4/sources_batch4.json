@@ -1,0 +1,94 @@
+{
+ "fetch": [
+  {
+   "id": "lrf",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+   "ts": "20261018232228",
+   "via": "wayback.py"
+  },
+  {
+   "id": "lrf-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101compilado.htm",
+   "ts": "20260607230534",
+   "via": "wayback.py"
+  },
+  {
+   "id": "jec",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm",
+   "ts": "20261027135943",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-10259-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/LEIS_2001/L10259.htm",
+   "ts": "20261013025551",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-10455-2002",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/L10455.htm",
+   "ts": "20261009094531",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11196-2005",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/L11196.htm",
+   "ts": "20261021231658",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11313-2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11313.htm",
+   "ts": "20261013070950",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-12126-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12126.htm",
+   "ts": "20261010153349",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-12137-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12137.htm",
+   "ts": "20261011091123",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-12726-2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12726.htm",
+   "ts": "20261004120809",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-13603-2018",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13603.htm",
+   "ts": "20261012202908",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-13728-2018",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13728.htm",
+   "ts": "20261013044632",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-13994-2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Lei/L13994.htm",
+   "ts": "20261009181519",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-14112-2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Lei/L14112.htm",
+   "ts": "20261021064550",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-9839-1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9839.htm",
+   "ts": "20261018012919",
+   "via": "wayback.py"
+  }
+ ]
+}

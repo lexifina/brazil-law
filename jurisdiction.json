@@ -1,0 +1,11 @@
+{
+  "path": "br",
+  "code": "BR",
+  "name": "Brazil",
+  "level": "country",
+  "repo": "https://github.com/lexifina/brazil-law",
+  "build": "built: Constituição Federal 1988-2026 (122 versions, every Emenda Constitucional and Emenda de Revisão in force, + EC 141 art. 7 XV and EC 132 2027/2033 stages on futuro); Código Civil 2003-2025 (63); LGPD 2018-2026 (11); Código Penal 1942-2026 (111); CPC 2016-2026 (18); CLT 1943-2026 (220; 60 undated struck lines left out); CPP 1942-2026 (70); CDC 1991-2026 (16)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 2
+}
