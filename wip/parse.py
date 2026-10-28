@@ -198,10 +198,10 @@ def analyse(block: dict) -> dict:
 
 
 ROMAN = r"[IVXLC]+"
-SUFFIX = r"(?:\s*-\s*[A-Z]{1,2}(?![A-Za-zÀ-ú]))?"
+SUFFIX = r"(?:-[A-Z]{1,2}(?![A-Za-zÀ-ú]))?"
 LABEL = re.compile(
     r"^(?:(Art\.\s*\d+(?:\.\d+)?º?" + SUFFIX + r")|(§\s*\d+º?" + SUFFIX + r")|(Par[áa]grafo\s+[úu]nico)|"
-    r"(" + ROMAN + SUFFIX + r")\s*[-–]+\s*|([a-z]" + SUFFIX + r")\)|(\d+)\)\s)")
+    r"(" + ROMAN + SUFFIX + r")\s*[-–]+\s*|(?P<bare>" + ROMAN + r")(?P<bs>-?[A-Z])?\s+(?=[a-zà-ú])|([a-z]" + SUFFIX + r")\)|(\d+)\)\s)")
 
 
 def label_of(text: str) -> str:
@@ -284,14 +284,89 @@ MONTHS = {"janeiro": 1, "fevereiro": 2, "março": 3, "marco": 3, "abril": 4, "ma
           "agosto": 8, "setembro": 9, "outubro": 10, "novembro": 11, "dezembro": 12}
 
 
-def vigencia_clause(ident: str) -> str:
-    """The amendment's own 'entra em vigor' sentence (for the stats report and decisions)."""
+def page_text(ident: str) -> str:
     r = raw(ident)
-    if not r:
+    t = re.sub(r"(?is)<script.*?</script>|<strike>.*?</strike>", " ", decode(r[0]))
+    x = norm(__import__("html").unescape(re.sub(r"<[^>]+>", " ", t)))
+    return x[:x.rfind("Brasília")] if "Brasília" in x else x
+
+
+def final_clause(ident: str) -> str:
+    """The amendment's own closing 'Esta Emenda ... entra em vigor ...' article, or ''."""
+    x = page_text(ident)
+    m = [mm.start() for mm in re.finditer(r"Art\. \d+º?\.?\s*(?:-\s*)?[Ee]sta\s+Emenda[^.]*?entra", x)]
+    if not m:
         return ""
-    x = norm(__import__("html").unescape(re.sub(r"<[^>]+>", " ", decode(r[0]))))
-    m = re.search(r"[^.]*(?:entra(?:rá)? em vigor|produz(?:indo|irá)? efeitos?)[^.]*\.", x, re.I)
-    return m.group(0).strip() if m else ""
+    tail = x[m[-1]:]
+    end = re.search(r"\.\s+(?:Art\. \d|Mesa d|Este texto)", tail)
+    return tail[:end.start() + 1] if end else tail
+
+
+def plus_days(d: str, n: int) -> str:
+    return (dt.date.fromisoformat(d) + dt.timedelta(days=n)).isoformat()
+
+
+# In-force days the amendment's own clause sets, other than its publication day. Each: (date, reason).
+VIGENCIA_FIXED = {
+    "ec-014": ("1997-01-01", "art. 6: 'entra em vigor a primeiro de janeiro do ano subseqüente ao de sua promulgação' (promulgated 12.9.1996)"),
+    "ec-025": ("2001-01-01", "art. 3: 'entra em vigor em 1º de janeiro de 2001'"),
+    "ec-078": (None, "art. 3: 'entra em vigor no exercício financeiro seguinte ao de sua publicação': 1 January of the next year"),
+    "ec-105": (None, "art. 3: 'entra em vigor em 1º de janeiro do ano subsequente ao de sua publicação'"),
+    "ecr-5": ("1995-01-01", "art. 2: 'entra em vigor no dia 1º de janeiro de 1995'"),
+}
+# Provisions whose in-force day differs from the rest of their amendment: (law, unit, label) -> (date, reason).
+VIGENCIA_PROVISION = {
+    ("ec-109", "art-029-a", "Art. 29-A"): ("2025-01-01", "EC 109/2021 art. 7: the change to art. 29-A 'entra em vigor a partir do "
+                                           "início da primeira legislatura municipal após a data de publicação' (published "
+                                           "16.3.2021; the next municipal legislature began on 1.1.2025)"),
+    ("ec-114", "art-100", "§ 5º"): ("2022-01-01", "EC 114/2021 art. 8, I: the change to art. 100 § 5º enters into force 'a partir "
+                                    "de 2022'"),
+}
+
+
+def vigencia(laws: dict[str, dict]) -> tuple[dict[str, str], list[str]]:
+    """In-force day of every amendment (its own clause, else LINDB art. 1), and the decisions that explain it."""
+    eff, dec, lindb = {}, [], []
+    for k, law in sorted(laws.items()):
+        ident = ("emc-" + str(int(k[3:]))) if k.startswith("ec-") else k
+        clause = final_clause(ident)
+        if k in VIGENCIA_FIXED:
+            d, why = VIGENCIA_FIXED[k]
+            if d is None:
+                d = f"{int(law['published'][:4]) + 1}-01-01"
+            eff[k] = d
+            dec.append(f"{law['label']}: in force {d} by its own {why}.")
+        elif re.search(r"entra em vigor na data d[ae] sua publica", clause, re.I):
+            eff[k] = law["published"]
+            if re.search(r"efeito|aplicando|exceto|excetuad", clause, re.I):
+                dec.append(f"{law['label']}: dated by its publication day {law['published']} ('entra em vigor na data de "
+                           f"sua publicação'); its clause also defers or limits effects, which does not change the text's "
+                           f"in-force day: \"{clause}\"")
+        elif re.search(r"entra em vigor na data d[ae] sua promulga", clause, re.I):
+            eff[k] = law["enacted"]
+            dec.append(f"{law['label']}: in force on its promulgation day {law['enacted']} by its own clause \"{clause}\"")
+        elif re.search(r"entra em vigor:", clause, re.I):
+            eff[k] = law["published"]
+            dec.append(f"{law['label']}: staged clause \"{clause}\"; the text Planalto shows is dated by publication "
+                       f"({law['published']}) except the provisions listed separately.")
+        elif not clause:
+            eff[k] = plus_days(law["published"], 45)
+            lindb.append(f"{law['label'].replace('Emenda Constitucional', 'EC')} ({law['published']} -> {eff[k]})")
+        else:
+            raise SystemExit(f"unhandled vigência clause for {k}: {clause!r}")
+    if lindb:
+        dec.append("Amendments with no vigência clause of their own are dated by the default rule (LINDB art. 1: in "
+                   "force 45 days after official publication, counted with LC 95/1998 art. 8 § 1, i.e. publication day "
+                   "+ 45): " + "; ".join(lindb) + ". Some authors hold that an amendment with no clause is in force "
+                   "on publication; the rule is applied as written.")
+    for (law, unit, label), (d, why) in sorted(VIGENCIA_PROVISION.items()):
+        dec.append(f"{unit} {label}: the {laws[law]['label']} wording is dated {d}: {why}.")
+    return eff, dec
+
+
+def effect_override(law: str, p: dict) -> str | None:
+    hit = VIGENCIA_PROVISION.get((law, p["unit"], p["label"]))
+    return hit[0] if hit else None
 
 
 # ---------------------------------------------------------------------------------------------------------------
@@ -399,7 +474,8 @@ def lifespans(paras: list[dict], eff: dict[str, str], effect_override) -> list[s
                 break
             if level(q["label"]) < min(lv, 2) or (lv < 5 and level(q["label"]) < lv):
                 break
-            same = q["label"] == p["label"] or (q["renum_from"] and q["renum_from"][0] == p["label"])
+            same = (q["label"] == p["label"] or (q["renum_from"] and q["renum_from"][0] == p["label"])
+                    or (p["label"] == "Parágrafo único" and q["label"] == "§ 1º"))
             if same and q["start"] > p["start"]:
                 p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "successor"
                 break
@@ -445,10 +521,10 @@ def main(argv: list[str]) -> int:
     ap.add_argument("--retrieved", default="2026-10-28")
     a = ap.parse_args(argv)
     laws = amendments()
-    eff = {k: v["published"] for k, v in laws.items()}
+    eff, vdec = vigencia(laws)
     b, cf_src = raw("cf")
     paras = cf_paragraphs(decode(b))
-    problems = lifespans(paras, eff, lambda law, p: None)
+    problems = lifespans(paras, eff, effect_override)
     if a.stats:
         from collections import Counter
         print("paragraphs", len(paras), Counter(p["state"] for p in paras))
