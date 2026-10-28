@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import sys
 import urllib.parse
 from pathlib import Path
@@ -104,6 +105,87 @@ P.REWRITES = {}
 P.REWRITE_BLOCKS = []
 P.SAME_DAY_LAWS = set()
 P.ACT_DECISIONS = []
+
+# ---------------------------------------------------------------------------------------------------------------
+# note forms these acts add to parse_proc's rules (wrappers: the original functions stay in charge of everything else)
+
+_law_key, _law_label, _lexml_url, _page_info, _vigencia_of = P.law_key, P.law_label, P.lexml_url, P.page_info, P.vigencia_of
+AC_REF = re.compile(r"Ato\s+Complementar\s*(?:n\s*[.\]]?\s*[º°o]?\s*\.?)?\s*(\d+)\s*,?\s*de\s*(\d{4})", re.I)
+
+
+def law_key(text: str, year_of: dict | None = None) -> str | None:
+    """parse_proc.law_key, plus 'Lcp nº 104' (CTN notes: Lei Complementar) and 'Ato Complementar nº 34, de 1967'
+    (the CTN's 1966-67 amendments by Ato Complementar, key ac-34-1967)."""
+    t = re.sub(r"\bLcp\b\.?", "Lei Complementar", text, flags=re.I)
+    m = AC_REF.search(t)
+    if m and not P.LAW_REF.search(t[:m.start()]):
+        return f"ac-{int(m.group(1))}-{m.group(2)}"
+    return _law_key(t, year_of)
+
+
+def law_label(key: str) -> str:
+    if key.startswith("ac-"):
+        _, n, y = key.split("-")
+        return f"Ato Complementar nº {int(n)}, de {y}"
+    return _law_label(key)
+
+
+def lexml_url(key: str, enacted: str | None) -> str | None:
+    if key.startswith("ac-"):
+        if not enacted:
+            return None
+        return f"{P.LEXML}ato.complementar:{enacted};{int(key.split('-')[1])}"
+    return _lexml_url(key, enacted)
+
+
+def page_info(key: str) -> dict:
+    """parse_proc.page_info; for an Ato Complementar (whose header parse_proc does not read) the same fields read from
+    its page: 'ATO COMPLEMENTAR Nº 34, DE 30 DE JANEIRO DE 1967', the DOU line, its vigência sentence."""
+    if not key.startswith("ac-"):
+        return _page_info(key)
+    r = P.raw("law:" + key)
+    if not r:
+        return {}
+    b, u = r
+    t = P.decode(b)
+    x = P.norm(P.htmlmod.unescape(re.sub(r"<[^>]+>", " ", re.sub(r"(?is)<script.*?</script>|<style.*?</style>", " ", t))))
+    info: dict = {"source_url": u, "sha256": P.hashlib.sha256(b).hexdigest()}
+    n = key.split("-")[1]
+    m = re.search(r"ATO\s+COMPLEMENTAR\s+N\s*[º°O]?\s*\.?\s*0*" + n + r"\s*,?\s*DE\s+(\d{1,2})\s*[º°o]?\s+DE\s+(\w+)\s+DE\s+(\d{4})", x, re.I)
+    if not m or m.group(2).lower() not in P.MONTHS:
+        return {"bad_page": "the page is not this act: " + x[:120]}
+    info["enacted"] = f"{int(m.group(3)):04d}-{P.MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
+    pubs = list(re.finditer(r"publicad[oa]\s+n[oa]\s+D\.?\s*O\.?\s*U\.?\s*(?:de\s*)?(\d{1,2})\s*º?\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})", x, re.I))
+    if pubs:
+        p = pubs[-1]
+        info["published"] = f"{int(p.group(3)):04d}-{int(p.group(2)):02d}-{int(p.group(1)):02d}"
+    P.LEXML_USED.add(lexml_url(key, info.get("enacted")))
+    lx = P.lexml_published(key, info.get("enacted"))
+    if lx and lx != info.get("published"):
+        P.PUB_CORRECTED[key] = (info.get("published"), lx)
+        info["published"] = lx
+    em = re.search(r"DE\s+\d{4}\s*\.?\s*(.*?\.)\s*O\s+PRESIDENTE", x[m.start():m.start() + 1500], re.S)
+    info["title"] = em.group(1).strip() if em else ""
+    cl = list(re.finditer(r"(?:Êste|Este|O\s+presente)\s+Ato(?:\s+Complementar)?\s+entra(?:r[áa])?\s+em\s+vigor[^.]*\.", x, re.I))
+    info["clause"] = cl[-1].group(0) if cl else ""
+    return info
+
+
+FIXED_DAY = re.compile(r"entra(?:r[áa])?\s+em\s+vigor[^.]{0,80}?\b(?:em|no\s+dia|a\s+partir\s+de)\s+(\d{1,2})\s*[º°o]?\s+de\s+(\w+)\s+de\s+(\d{4})", re.I)
+
+
+def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
+    """parse_proc.vigencia_of, plus a clause naming a fixed day ('entrará em vigor em 1º de janeiro de 1969')."""
+    d, why = _vigencia_of(key, info)
+    if d is None and info.get("clause"):
+        m = FIXED_DAY.search(info["clause"])
+        if m and m.group(2).lower() in P.MONTHS:
+            d = f"{int(m.group(3)):04d}-{P.MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
+            return d, f"own clause names the day: '{m.group(0)}'"
+    return d, why
+
+
+P.law_key, P.law_label, P.lexml_url, P.page_info, P.vigencia_of = law_key, law_label, lexml_url, page_info, vigencia_of
 
 # ---------------------------------------------------------------------------------------------------------------
 # the part file
