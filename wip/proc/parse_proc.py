@@ -444,6 +444,35 @@ def page_info(key: str) -> dict:
     return info
 
 
+# STF rulings whose effect Planalto shows on the annotated page (a dispositivo struck, with a "Vide ADI" note naming
+# the case). Dates from the STF case pages (portal.stf.jus.br, abaAndamentos, cached): a ruling binds everyone from the
+# publication of its judgment record in the Diário da Justiça (Lei 9.868/1999 art. 28), which is the version day.
+COURTS = {
+    "stf-adi-2797": {
+        "label": "STF, ADI 2.797",
+        "title": "Ação direta de inconstitucionalidade 2.797: procedente; declara inconstitucional a Lei nº 10.628, de "
+                 "24 de dezembro de 2002, que acresceu os §§ 1º e 2º ao art. 84 do Código de Processo Penal",
+        "kind": "court", "enacted": "2005-09-15", "published": "2005-09-26",
+        "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=2082833",
+        "from": "2005-09-26", "case": r"2\.?797",
+        "where": [("codigo-de-processo-penal", "art-084", "§ 1º"), ("codigo-de-processo-penal", "art-084", "§ 2º")],
+        "why": "STF, ADI 2.797 (Plenário, 15.9.2005): declared Lei 10.628/2002, which added §§ 1º and 2º to CPP art. 84, "
+               "unconstitutional; decision published in the DJ and DOU on 26.9.2005 (ata nº 25, STF case record), the "
+               "day the version takes effect. Embargos de declaração (17.5.2012) fixed the effects from 15.9.2005; the "
+               "history keeps the publication day. Planalto strikes both paragraphs, noting the case"},
+}
+
+# Editorial lines in the annotated page standing for a dispositivo: (act, unit, label) -> (law, line start, reason).
+EDITORIAL: dict[tuple[str, str, str], tuple[str, str, str]] = {
+    ("codigo-de-defesa-do-consumidor", "art-039", "XI -"): (
+        "lei-9870-1999", "XI - Dispositivo incluído pela MPV nº 1.890-67",
+        "CDC art. 39 XI: Planalto prints, in place of the inciso, the editorial line 'Dispositivo incluído pela MPV nº "
+        "1.890-67, de 22.10.1999, transformado em inciso XIII, quando da conversão na Lei nº 9.870, de 23.11.1999' (the "
+        "consolidated page too). It is kept as the source's text, starting on Lei 9.870/1999's in-force day and credited "
+        "to it (the anachronism rule: not before the laws it names); the MP's own wording of XI is not on the page, so "
+        "the history has no XI before then"),
+}
+
 # Hand-checked in-force days where a law's own clause is staged or not machine-readable: key -> (date, reason).
 VIGENCIA_FIXED: dict[str, tuple[str, str]] = {
 }
@@ -720,6 +749,18 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
             hit = VETO_PROMULGATION.get(p["start_law"] or "")
             if hit:
                 p["end"], p["end_law"], p["end_how"] = hit[0], p["start_law"], "promulgation"
+    # editorial lines Planalto prints in place of a dispositivo, naming the acts that made it so (EDITORIAL): they start
+    # with the act they describe (the anachronism rule: never before the law they name)
+    for p in paras:
+        hit = EDITORIAL.get((cx.act, p["unit"], p["label"]))
+        if hit and p["state"] == "plain" and p["text"].startswith(hit[1]) and hit[0] in cx.eff:
+            p["start"], p["start_law"], p["start_how"] = cx.eff[hit[0]], hit[0], "editorial"
+    # a whole dispositivo struck by a court (COURTS): it ends on the ruling's day
+    for p in paras:
+        for k, c in COURTS.items():
+            if (p["state"] != "plain" and not p["end"] and (cx.act, p["unit"], p["label"]) in c["where"]
+                    and any(re.search(c["case"], n) for n in p["notes"])):
+                p["end"], p["end_law"], p["end_how"] = c["from"], k, "court"
     # struck wordings: the next wording of the same dispositivo ends them
     for i, p in enumerate(paras):
         if p["state"] == "plain" or p["end"]:
@@ -1355,6 +1396,12 @@ def main(argv: list[str]) -> int:
                             f"it had replaced is in force again."}
     for k, rec in ACT_LAWS.items():
         laws[k] = dict(rec)
+    for (_, _, _), (_, _, why) in EDITORIAL.items():
+        decisions.append(why + ".")
+    for k, c in COURTS.items():
+        laws[k] = {kk: c[kk] for kk in ("label", "title", "kind", "enacted", "published", "url")}
+        laws[k].update({"temporary_until": None, "restores": None, "note": None})
+        decisions.append(c["why"] + ".")
 
     # acts
     acts_out = []

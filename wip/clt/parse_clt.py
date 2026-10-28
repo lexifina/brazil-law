@@ -228,6 +228,7 @@ def norm(s: str) -> str:
     s = re.sub(r"\s+([.,;:])", r"\1", s)
     s = re.sub(r"\(\s+", "(", s)
     s = re.sub(r"\s+\)", ")", s)
+    s = re.sub(r"\bArt\.\.\s*(?=\d)", "Art. ", s)
     return s.strip()
 
 
@@ -254,7 +255,10 @@ def analyse(block: dict) -> dict:
             elif rx is LAPSED_WORDS:
                 lapsed = True
             else:
-                notes.append(norm(m.group(0)))
+                # "(Incluído pelo Decreto-lei nº 1.535, de 13.4.1977 (Revogado pela Lei nº 13.874, de 2019)": two notes
+                for part in re.split(r"\s*(?=\((?:Revogad|Reda|Inclu|Vig|Suprim|Renumer)\w*\s)", norm(m.group(0))):
+                    if part.strip():
+                        notes.append(part if part.endswith(")") else part + ")")
             for i in range(m.start(), m.end()):
                 keep[i] = False
     rest = "".join(c if k else "\0" for (c, _), k in zip(chars, keep))
@@ -583,11 +587,18 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
                 else:
                     attach_notes(out, b["notes"])
             continue
+        if out and re.match(r"^,\s*de\s+\d{4}\)?$", t) and out[-1]["notes"] and out[-1]["notes"][-1] in NOTE_FIX:
+            # a note Planalto broke over two paragraphs ("(Incluído pela Medida Provisória nº" / ", de 2019)"); the
+            # number is missing from the words, so NOTE_FIX gives it from the note's link target
+            out[-1]["notes"] = out[-1]["notes"][:-1] + [NOTE_FIX[out[-1]["notes"][-1]]] + b["notes"]
+            continue
         if zone == "pre" and (b["all_link"] or NAV.match(t)):
             continue
         lab = label_of(t)
         if CENTER_HEADINGS:
             heading = (not lab and (b["center"] or bool(HEADING.match(t)))) or (b["center"] and not lab.startswith("Art."))
+            if heading and TABLE_WORDS.match(t):
+                heading = False
             # the name line under a struck "SECÇÃO II" is often not centred: a short unlabelled line with no closing
             # punctuation right after a heading line is part of the heading
             if (not heading and not lab and out and out[-1]["heading"] and HEADING.match(out[-1]["text"])
@@ -751,6 +762,8 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
                     if sd > d:
                         p["gaps"].append((d, sd, law, slaw))
                 ends = []
+                if not p["gaps"]:
+                    p["suspended_noop"] = True  # suspended before the revocation took effect
             elif p["state"] != "plain":
                 ends.append(p["suspended"])
         # a revocation by an MP that lapsed is only a gap; one by an MP that was converted stands
@@ -826,7 +839,7 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
         if r is None or q.get("restored_from_original") or q.get("pinned") or paras[r].get("never"):
             continue
         pr = paras[r]
-        if q["text"] == pr["text"] and pr["gaps"] and not pr["end"] and q["start"] <= pr["start"]:
+        if q["text"] == pr["text"] and (pr["gaps"] or pr.get("suspended_noop")) and not pr["end"] and q["start"] <= pr["start"]:
             # the same wording struck twice: once by a lapsed MP's revocation (a gap), then by a lasting revocation
             pr["end"], pr["end_law"], pr["end_how"] = q["end"], q["end_law"], "repeat"
             q["skip"] = True
@@ -845,8 +858,42 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
         if succ is not None:
             q = paras[succ]
             p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "successor"
+    # Planalto prints a wording twice around a change that was undone (a lapsed MP's revocation, a suspended
+    # decree-law): a struck copy carrying the interruption, then the wording again further down the article (after
+    # a restored caput). The later copy carries on; it takes the interruption and the struck copy is not shown.
     for i, p in enumerate(paras):
-        if p["state"] == "plain" or p["end"] or p["gaps"]:
+        if p["state"] == "plain" or p["end"] or not p["gaps"] or p.get("pinned") or p["heading"]:
+            continue
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"]:
+                break
+            if q["label"] == p["label"] and q["text"] == p["text"] and q["start"] <= p["start"] and not q.get("skip"):
+                q["gaps"] = sorted(q["gaps"] + p["gaps"])
+                p["skip"], p["end_how"] = True, "duplicate"
+                break
+        if not p.get("skip"):
+            # a struck wording revoked and suspended, printed again in a new wording: it ended with the revocation
+            if p.get("suspended"):
+                for q in paras[i + 1:]:
+                    if q["unit"] != p["unit"]:
+                        break
+                    if same_slot(p, q) and q["start"] >= p["gaps"][0][1]:
+                        a0, _, la, _ = p["gaps"][0]
+                        p["end"], p["end_law"], p["end_how"], p["gaps"] = a0, la, "note", []
+                        break
+    # an unstruck wording printed before struck copies of the same words further down the article is a stray copy
+    for i, p in enumerate(paras):
+        if p["state"] != "plain" or p["heading"] or not p["label"] or p.get("skip"):
+            continue
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"]:
+                break
+            if q["label"] == p["label"] and q["text"] == p["text"] and q["state"] == "struck" and q.get("pinned"):
+                p["skip"], p["end_how"] = True, "stray-copy"
+                STRAY.append(f"{p['unit']} [{p['label']}]")
+                break
+    for i, p in enumerate(paras):
+        if p["state"] == "plain" or p["end"] or p["gaps"] or p.get("skip"):
             continue
         lv = level(p["label"])
         if p["heading"]:
@@ -868,7 +915,34 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
                     if q["state"] != "plain" and q["end"] and q["end"] > p["start"]:
                         p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "parent"
                     break
-        if not p["end"]:
+        if not p["end"] and not p["heading"]:
+            # a struck copy of a wording printed again, unstruck, further down the same article (Planalto repeats a
+            # wording around a change that was undone): the copy is never shown
+            for q in paras[i + 1:]:
+                if q["unit"] != p["unit"]:
+                    break
+                if q["text"] == p["text"] and q["label"] == p["label"] and q["start"] <= p["start"] and not q.get("skip"):
+                    p["skip"], p["end_how"] = True, "duplicate"
+                    break
+        if not p["end"] and not p["heading"] and not p.get("skip"):
+            # struck with no note, no successor and no struck parent: it went with the nearest struck wording of the
+            # same article that started on the same day (a block a later law left out when it rewrote the article)
+            for q in reversed(paras[:i]):
+                if q["unit"] != p["unit"]:
+                    break
+                if q["state"] != "plain" and q["end"] and (q["start"], q["start_law"]) == (p["start"], p["start_law"])                         and q["end_how"] in ("successor", "note", "parent", "sibling"):
+                    p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "sibling"
+                    break
+        if not p["end"] and not p.get("skip") and p["heading"]:
+            # a struck heading with nothing to date its end: the consolidated page still prints these headings, so
+            # they are kept
+            UNDATED_HEADINGS.append(p["text"])
+            continue
+        if not p["end"] and not p.get("skip"):
+            # Planalto strikes it, so it is not in force today, but the page gives no clue when it went: it is left out
+            # of the history and listed in the decisions
+            p["skip"], p["end_how"] = True, "undated"
+            UNDATED.append(f"{p['unit']} [{p['label'] or 'line'}] {p['text'][:60]!r}")
             problems.append(f"no end for struck {p['unit']} [{p['label']}] {p['text'][:90]!r} notes={p['notes']}")
     for p in paras:
         if p["end"] and p["end"] <= p["start"] and p.get("suspended") and p["end"] == p["suspended"][0]:
@@ -953,7 +1027,16 @@ def split_court_strikes(paras: list[dict]) -> list[str]:
     return problems
 
 
+# Notes broken over two paragraphs whose act number is missing from the words: the note's own link names the act.
+NOTE_FIX = {
+    "(Incluído pela Medida Provisória nº)": "(Incluído pela Medida Provisória nº 905, de 2019)",
+}
 LINK_SLIPS: list[str] = []
+UNDATED: list[str] = []
+UNDATED_HEADINGS: list[str] = []
+STRAY: list[str] = []
+# column heads and cells of the tables inside art. 580, centred on the page but not headings
+TABLE_WORDS = re.compile(r"^(?:Discrimina[çc][ãa]o|Percentagem|CLASSES DE CAPITAL|AL[ÍI]QUOTA|[\d.,]+\s*%?)$")
 
 
 # A Medida Provisória revoked by another MP that then lapsed, after which the revoked MP ran out its own term:
@@ -1254,6 +1337,8 @@ ACT_DECISIONS: list[str] = [
     "8.987-A took effect; a revocation by 8.740 is a gap that 8.987-A closed; a wording 'restabelecida' by 8.987-A that "
     "Planalto prints only once is also the 1943 wording, in force before 8.740 took effect. A change suspended before "
     "it took effect is left out of the history.",
+    "One note on art. 457-A, III is broken over two paragraphs and lacks the act's number ('(Incluído pela Medida "
+    "Provisória nº' / ', de 2019)'); both halves link to mpv905.htm, so it is read as MP 905/2019.",
     "A struck cross-reference link inside an unstruck wording (art. 329 'art. 325', art. 442-B 'art. 3º desta "
     "Consolidação') is a typesetting slip: the consolidated page prints it unstruck, and so does the history.",
 ]
@@ -1294,6 +1379,7 @@ def main(argv: list[str]) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--stats", action="store_true")
     ap.add_argument("--dry", action="store_true", help="do not write corpus.d/70-clt.json")
+    ap.add_argument("--dump", help="write every paragraph's life span to this JSON file (debugging)")
     a = ap.parse_args(argv)
     problems: list[str] = []
     decisions: list[str] = []
@@ -1417,6 +1503,11 @@ def main(argv: list[str]) -> int:
         act_day = ACT_DAY[act["law"]][0]
         cx = Ctx(act_day, eff, mp, lapse_key, act["slug"])
         pr = split_court_strikes(paras) + lifespans(paras, cx)
+        if a.dump:
+            Path(a.dump).write_text(json.dumps([{k: p.get(k) for k in ("i", "unit", "label", "state", "start", "start_law", "end",
+                                                                       "end_law", "end_how", "gaps", "skip", "notes")}
+                                                | {"text": p["text"][:90]} for p in paras], ensure_ascii=False, indent=0),
+                                    encoding="utf-8")
         problems += [f"{act['short']}: {x}" for x in pr]
         units = list(dict.fromkeys(p["unit"] for p in paras))
         if act["slug"] == "lgpd":
@@ -1448,6 +1539,16 @@ def main(argv: list[str]) -> int:
             print(" ", len(diffs), "units differ from the consolidated page")
     for x in problems:
         print("PROBLEM", x)
+    if UNDATED_HEADINGS:
+        decisions.append("Headings struck on the annotated page with nothing to date their end, but still printed on the "
+                         "consolidated page: kept (" + "; ".join(UNDATED_HEADINGS) + ").")
+    if STRAY:
+        decisions.append("An unstruck wording printed before struck copies of the same words further down the article "
+                         "(the copies carrying MP 905/955) is a stray copy and is not shown: " + "; ".join(STRAY) + ".")
+    if UNDATED:
+        decisions.append(f"Struck text whose end the page does not date (no note, no later wording of the same "
+                         f"dispositivo, no struck parent or sibling): left out of every version, since Planalto shows it "
+                         f"is not in force but not since when ({len(UNDATED)} lines): " + "; ".join(UNDATED) + ".")
     if LINK_SLIPS:
         decisions.append("Struck cross-reference links read as unstruck: " + "; ".join(LINK_SLIPS) + ".")
     print(len(problems), "problems")
