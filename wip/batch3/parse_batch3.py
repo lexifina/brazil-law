@@ -188,6 +188,93 @@ def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
 P.law_key, P.law_label, P.lexml_url, P.page_info, P.vigencia_of = law_key, law_label, lexml_url, page_info, vigencia_of
 
 # ---------------------------------------------------------------------------------------------------------------
+# expressions struck inside a paragraph (a "mixed" paragraph: part struck, part not). parse_proc keeps such a paragraph
+# as one text holding both wordings; here it becomes two wordings of the same dispositivo, the old one (struck words
+# kept, replacement words left out) and the new one (unstruck words only), the change dated by the law or ruling the
+# note names:
+#   '(Expressão substituída pela Lei nº 12.010, de 2009)': the struck words are followed by their replacement
+#   (EXPRESSION_SWAPS, read from the amending law's own text);
+#   '(Expressão declarada inconstitucional pela ADI 2.404)': the struck words are dropped (COURTS).
+
+_paragraphs, _lifespans = P.paragraphs, P.lifespans
+SWAP_NOTE = re.compile(r"\(\s*Express(?:[ãa]o|[õo]es)\s+substitu[íi]das?\s+pel[ao]\s+[^)]*\)", re.I)
+COURT_NOTE = re.compile(r"\(\s*Express(?:[ãa]o|[õo]es)\s+declarad[ao]s?\s+inconstitucion\w*\s+pel[ao]\s+ADIN?\s*(?:n\s*[º°]\s*)?([\d.]+)[^)]*\)", re.I)
+# law -> [(struck words, replacement words)], each pair checked against the law's own text (see decisions)
+EXPRESSION_SWAPS: dict[str, list[tuple[str, str]]] = {}
+SPLIT_PROBLEMS: list[str] = []
+SPLITS: list[str] = []
+
+
+def court_key(case: str) -> str:
+    return "stf-adi-" + case.replace(".", "")
+
+
+def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
+    out, rest = _paragraphs(html, digits)
+    res: list[dict] = []
+    for p in out:
+        if p["state"] != "mixed":
+            res.append(p)
+            continue
+        swap = next((n for n in p["notes"] if SWAP_NOTE.match(n)), None)
+        court = next((n for n in p["notes"] if COURT_NOTE.match(n)), None)
+        if swap:
+            key = law_key(swap)
+            pairs = EXPRESSION_SWAPS.get(key or "", [])
+            old = p["text"]
+            for s, r in pairs:
+                old = old.replace(f"{s} {r}", s)
+            new = old
+            for s, r in pairs:
+                new = new.replace(s, r)
+            if not pairs or new != p["plain_text"] or old == p["text"]:
+                SPLIT_PROBLEMS.append(f"{p['unit']} [{p['label']}] swap by {key} not matched: {p['text'][:90]!r}")
+                res.append(p)
+                continue
+            note = swap
+        elif court:
+            key = court_key(COURT_NOTE.match(court).group(1))
+            old, new = p["text"], p["plain_text"]
+            if key not in P.COURTS:
+                SPLIT_PROBLEMS.append(f"{p['unit']} [{p['label']}] ruling {key} not in COURTS: {p['text'][:90]!r}")
+                res.append(p)
+                continue
+            note = court
+        else:
+            res.append(p)
+            continue
+        notes = [n for n in p["notes"] if n != note]
+        base = {k: v for k, v in p.items() if k not in ("text", "state", "notes", "plain_text", "struck_text")}
+        res.append({**base, "text": old, "state": "struck", "notes": notes, "plain_text": "", "struck_text": "",
+                    "split": ("old", key)})
+        res.append({**base, "text": new, "state": "plain", "notes": notes, "plain_text": "", "struck_text": "",
+                    "split": ("new", key)})
+        SPLITS.append(f"{p['unit']} [{p['label'] or 'heading'}] by {law_label(key) if not key.startswith('stf') else P.COURTS[key]['label']}")
+    for i, p in enumerate(res):
+        p["i"] = i
+    return res, rest
+
+
+def lifespans(paras: list[dict], cx) -> list[str]:
+    problems = _lifespans(paras, cx)
+    for p in paras:
+        if not p.get("split"):
+            continue
+        side, key = p["split"]
+        d = P.COURTS[key]["from"] if key in P.COURTS else cx.eff.get(key)
+        if not d:
+            problems.append(f"no in-force day for {key} (split {p['unit']} [{p['label']}])")
+            continue
+        if side == "new":
+            p["start"], p["start_law"], p["restored"] = max(p["start"], d), key, False
+        else:
+            p["end"], p["end_law"], p["end_how"] = d, key, "expression"
+    return problems
+
+
+P.paragraphs, P.lifespans = paragraphs, lifespans
+
+# ---------------------------------------------------------------------------------------------------------------
 # the part file
 
 
