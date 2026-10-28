@@ -1,27 +1,7 @@
-paragraphs 4303 Counter({'plain': 3539, 'struck': 762, 'mixed': 2})
+paragraphs 4304 Counter({'plain': 3534, 'struck': 770})
 units 426
-MIXED art-100 § 11 | struck: com auto aplicabilidade para a União | plain: § 11. É facultada ao credor, conforme estabelecido em lei do ente federativo dev
-MIXED adct-art-060 X - | struck: X - aplica-se à complementação da União o disposto no;. | plain: art. 160 da Constituição Federal
-PROBLEM no end for struck heading 'DOS SERVIDORES PÚBLICOS CIVIS' notes=[]
-PROBLEM no end for struck art-100 [§ 11] '§ 11. É facultada ao credor, conforme estabelecido em lei do ente federativo devedor, com ' notes=['(Redação dada pela Emenda Constitucional nº 113, de 2021)', '(Vide ADI 7047)', '(Vide ADI 7064)']
-PROBLEM no end for struck art-102 [Parágrafo único] 'Parágrafo único. A argüição de descumprimento de preceito fundamental, decorrente desta Co' notes=[]
-PROBLEM no end for struck art-105 [Parágrafo único] 'Parágrafo único. Funcionarão junto ao Superior Tribunal de Justiça:' notes=['(Redação dada pela Emenda Constitucional nº 45, de 2004)']
-PROBLEM no end for struck art-105 [I -] 'I - a Escola Nacional de Formação e Aperfeiçoamento de Magistrados, cabendo-lhe, dentre ou' notes=['(Incluído pela Emenda Constitucional nº 45, de 2004)']
-PROBLEM no end for struck art-105 [II -] 'II - o Conselho da Justiça Federal, cabendo-lhe exercer, na forma da lei, a supervisão adm' notes=['(Incluído pela Emenda Constitucional nº 45, de 2004)']
-PROBLEM no end for struck heading 'Seção V' notes=[]
-PROBLEM no end for struck heading 'DOS TRIBUNAIS E JUÍZES DO TRABALHO' notes=[]
-PROBLEM no end for struck heading 'CAPÍTULO IV' notes=[]
-PROBLEM no end for struck heading 'DAS FUNÇÕES ESSENCIAIS À JUSTIÇA' notes=[]
-PROBLEM no end for struck heading 'CAPÍTULO IV' notes=[]
-PROBLEM no end for struck heading 'DA CIÊNCIA E TECNOLOGIA' notes=[]
-PROBLEM no end for struck heading 'DA FAMÍLIA, DA CRIANÇA, DO ADOLESCENTE E DO IDOSO' notes=[]
-PROBLEM no end for struck adct-art-102 [Parágrafo único] 'Parágrafo único. A aplicação dos recursos remanescentes, por opção a ser exercida por Esta' notes=['(Incluído pela Emenda Constitucional nº 94, de 2016)']
-PROBLEM no end for struck adct-art-105 [Parágrafo único] 'Parágrafo único. Não se aplica às compensações referidas no caput deste artigo qualquer ti' notes=['(Incluído pela Emenda Constitucional nº 94, de 2016)']
-PROBLEM no end for struck adct-art-107 [VI -] 'VI - despesas correntes ou transferências aos fundos de saúde dos Estados, do Distrito Fed' notes=['(Incluído pela Emenda Constitucional nº 127, de 2022)']
-PROBLEM no end for struck adct-art-107 [§ 6º-A] '§ 6º-A Não se incluem no limite estabelecido no inciso I do caput deste artigo, a partir d' notes=['(Incluído pela Emenda Constitucional nº 126, de 2022)']
-PROBLEM no end for struck adct-art-107 [I -] 'I - despesas com projetos socioambientais ou relativos às mudanças climáticas custeadas co' notes=['(Incluído pela Emenda Constitucional nº 126, de 2022)']
-PROBLEM no end for struck adct-art-107 [II -] 'II - despesas das instituições federais de ensino e das Instituições Científicas, Tecnológ' notes=['(Incluído pela Emenda Constitucional nº 126, de 2022)']
-PROBLEM no end for struck adct-art-107 [III -] 'III - despesas custeadas com recursos oriundos de transferências dos demais entes da Feder' notes=['(Incluído pela Emenda Constitucional nº 126, de 2022)']
-PROBLEM no end for struck adct-art-107 [§ 6º-B] '§ 6º-B Não se incluem no limite estabelecido no inciso I do caput deste artigo as despesas' notes=['(Incluído pela Emenda Constitucional nº 126, de 2022)']
-PROBLEM no end for struck adct-art-107 [§ 6º-C] '§ 6º-C As despesas previstas no § 6º-B deste artigo não serão consideradas para fins de ve' notes=['(Incluído pela Emenda Constitucional nº 126, de 2022)']
-22 problems
+PROBLEM no end for struck heading 'DOS SERVIDORES PÚBLICOS MILITARES' notes=[]
+PROBLEM no end for struck heading 'Da Organização dos Poderes' notes=[]
+PROBLEM no end for struck heading 'DA ADVOCACIA-GERAL DA UNIÃO' notes=[]
+PROBLEM no end for struck heading 'DA ADVOCACIA E DA DEFENSORIA PÚBLICA' notes=[]
+4 problems

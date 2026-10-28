@@ -87,6 +87,7 @@ class Blocks(HTMLParser):
         self.skip = 0
         self.center = False
         self.anchors: list[str] = []
+        self.spans: list[bool] = []
 
     def flush(self) -> None:
         if any(s.strip() for s, _, _ in self.cur):
@@ -104,6 +105,10 @@ class Blocks(HTMLParser):
                 self.center = (a.get("align") or "").lower() == "center" or "text-align:center" in st
         if tag in STRIKE:
             self.strike += 1
+        if tag == "span":
+            lt = "line-through" in (a.get("style") or "").lower()
+            self.spans.append(lt)
+            self.strike += lt
         if tag == "a":
             if a.get("name"):
                 self.anchors.append(a["name"])
@@ -116,6 +121,8 @@ class Blocks(HTMLParser):
             self.flush()
         if tag in STRIKE:
             self.strike = max(0, self.strike - 1)
+        if tag == "span" and self.spans:
+            self.strike = max(0, self.strike - self.spans.pop())
         if tag == "a" and self.links:
             self.links.pop()
 
@@ -193,6 +200,7 @@ def analyse(block: dict) -> dict:
     # in a mixed block, keep the struck text apart so it can be reported
     struck_text = norm("".join(c for (c, s), k in zip(chars, keep) if k and s)) if state == "mixed" else ""
     plain_text = norm("".join(c for (c, s), k in zip(chars, keep) if k and not s)) if state == "mixed" else ""
+    plain_text = re.sub(r",\s*,", ",", plain_text)
     return {"text": t, "state": state, "notes": notes, "center": block["center"], "anchors": block["anchors"],
             "struck_text": struck_text, "plain_text": plain_text}
 
@@ -367,13 +375,82 @@ def vigencia(laws: dict[str, dict]) -> tuple[dict[str, str], list[str]]:
     return eff, dec
 
 
-def effect_override(law: str, p: dict) -> str | None:
-    hit = VIGENCIA_PROVISION.get((law, p["unit"], p["label"]))
-    return hit[0] if hit else None
-
-
 # ---------------------------------------------------------------------------------------------------------------
 # the Constitution
+
+# Headings an amendment renamed, which Planalto shows struck with the new name below and no note. Each new name is
+# checked against the amendment's own text at parse time.
+HEADING_RENAMES = {
+    "DOS SERVIDORES PÚBLICOS CIVIS": ("ec-018", "DOS SERVIDORES PÚBLICOS"),
+    "DOS TRIBUNAIS E JUÍZES DO TRABALHO": ("ec-092", "Do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho e dos Juízes do Trabalho"),
+    "DA CIÊNCIA E TECNOLOGIA": ("ec-085", "DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO"),
+    "DA FAMÍLIA, DA CRIANÇA, DO ADOLESCENTE E DO IDOSO": ("ec-065", "Da Família, da Criança, do Adolescente, do Jovem e do Idoso"),
+}
+
+# Court rulings that removed words, shown by Planalto as a struck expression linked to the case.
+COURTS = {
+    "stf-adi-7047": {
+        "label": "STF, ADI 7047 (with ADI 7064)",
+        "title": "Ação direta de inconstitucionalidade 7047: parcialmente procedente; interpretação conforme ao art. 100, "
+                 "§ 11, para excluir a expressão \"com auto aplicabilidade para a União\" (redação da EC 113/2021)",
+        "kind": "court",
+        "enacted": "2023-11-30",
+        "published": "2023-12-04",
+        "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6318731",
+        "from": "2023-12-04",
+        "where": [("art-100", "§ 11")],
+        "why": "STF judged ADI 7047 (with ADI 7064) in the virtual session of 30.11.2023 and excluded the expression "
+               "'com auto aplicabilidade para a União' from art. 100 § 11 (EC 113/2021 wording); the minutes (ata de "
+               "julgamento) were published in the DJE on 04.12.2023, the day the ruling binds all (STF portal, case "
+               "tabs Decisões and Andamentos, cached). Planalto shows the expression struck, linked to the case.",
+    },
+}
+
+# EC 126/2022 art. 9 revoked ADCT arts. 106, 107, 109, 110, 111, 111-A, 112 and 114 "após a sanção da lei
+# complementar prevista no art. 6º": LC 200/2023, sanctioned 30.8.2023 and published in the DOU on 31.8.2023.
+EC126_REVOKED = {"adct-art-106", "adct-art-107", "adct-art-109", "adct-art-110", "adct-art-111", "adct-art-111-a",
+                 "adct-art-112", "adct-art-114"}
+EC126_REVOKED_FROM = "2023-08-31"
+
+
+def effect_override(law: str, p: dict, kind: str) -> str | None:
+    if kind == "end" and law == "ec-126" and p["unit"] in EC126_REVOKED:
+        return EC126_REVOKED_FROM
+    hit = VIGENCIA_PROVISION.get((law, p["unit"], p["label"]))
+    return hit[0] if hit and kind == "start" else None
+
+
+def check_heading_renames() -> None:
+    for old, (law, new) in HEADING_RENAMES.items():
+        page = page_text("emc-" + str(int(law[3:]))).lower()
+        if new.lower() not in page:
+            raise SystemExit(f"heading rename {old!r} -> {new!r}: not in the text of {law}")
+
+
+def split_court_strikes(paras: list[dict]) -> list[str]:
+    """A paragraph with words struck by a court becomes two: the full wording until the ruling, the rest after."""
+    out, problems = [], []
+    where = {w: k for k, c in COURTS.items() for w in c["where"]}
+    for p in paras:
+        if p["state"] != "mixed":
+            out.append(p)
+            continue
+        court = where.get((p["unit"], p["label"]))
+        if not court:
+            problems.append(f"partly struck paragraph with no explanation: {p['unit']} [{p['label']}] "
+                            f"struck {p['struck_text']!r}")
+            p["state"] = "plain"
+            p["text"] = p["plain_text"]
+            out.append(p)
+            continue
+        c = COURTS[court]
+        full = dict(p, state="struck", force_end=(c["from"], court))
+        cur = dict(p, state="plain", text=p["plain_text"], force_start=(c["from"], court))
+        out += [full, cur]
+    paras[:] = out
+    return problems
+
+
 
 
 def unit_key(label: str, adct: bool) -> str:
@@ -430,7 +507,10 @@ def law_of_note(note: str) -> str | None:
 
 
 def lifespans(paras: list[dict], eff: dict[str, str], effect_override) -> list[str]:
-    """Set start/end (and their laws) on every paragraph; return problems found."""
+    """Set start/end (and their laws) on every paragraph; return problems found.
+
+    Each rule that dates a paragraph records how in p["end_how"] / p["start_how"], so counts can be reported.
+    """
     problems = []
     for p in paras:
         starts, ends = [], []
@@ -442,23 +522,54 @@ def lifespans(paras: list[dict], eff: dict[str, str], effect_override) -> list[s
             if law not in eff:
                 problems.append(f"unknown law in note {n!r}")
                 continue
-            d = effect_override(law, p) or eff[law]
             if START_KIND.search(n):
+                d = effect_override(law, p, "start") or eff[law]
                 starts.append((d, law))
                 if re.search(r"Renumerad", n, re.I):
                     p["renum_from"] = (renum_label(n), d, law)
             elif END_KIND.search(n):
+                d = effect_override(law, p, "end") or eff[law]
                 ends.append((d, law))
         p["start"], p["start_law"] = max(starts) if starts else (CF_DATE, None)
-        p["end"], p["end_law"] = (None, None)
+        p["start_how"] = "note" if starts else "original"
+        p["end"], p["end_law"], p["end_how"] = (None, None, None)
         if p["state"] != "plain" and ends:
-            p["end"], p["end_law"] = min(ends)
+            p["end"], p["end_law"], p["end_how"] = (*min(ends), "note")
         elif p["state"] == "plain" and ends and not starts:
             # an unstruck "(Revogado)" placeholder: it starts when the repeal took effect
             p["start"], p["start_law"] = max(ends)
+            p["start_how"] = "note"
+        if p.get("force_start"):
+            p["start"], p["start_law"] = p["force_start"]
+            p["start_how"] = "court"
+        if p.get("force_end"):
+            p["end"], p["end_law"], p["end_how"] = (*p["force_end"], "court")
+
+    # headings renamed by an amendment that Planalto shows without a note (HEADING_RENAMES, checked against the
+    # amendment's own text)
     for i, p in enumerate(paras):
-        p["end_how"] = "note" if p["end"] else None
+        if not (p.get("heading") and p["state"] == "struck" and p["text"] in HEADING_RENAMES):
+            continue
+        law, new = HEADING_RENAMES[p["text"]]
+        q = next((q for q in paras[i + 1:i + 4] if q.get("heading") and q["state"] == "plain" and q["text"] == new), None)
+        if q is None:
+            problems.append(f"heading rename target not found after {p['text']!r}")
+            continue
+        p["end"], p["end_law"], p["end_how"] = eff[law], law, "heading-rename"
+        q["start"], q["start_law"], q["start_how"] = eff[law], law, "heading-rename"
+
+    for i, p in enumerate(paras):
         if p["state"] == "plain" or p["end"]:
+            continue
+        # a struck copy of text that is still shown unstruck later in the same unit, dated no later: Planalto keeps
+        # the old copy beside a renumbered or re-marked block; it adds nothing, so it is never shown
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"]:
+                break
+            if q["text"] == p["text"] and q["start"] <= p["start"] and q["state"] == "plain":
+                p["end"], p["end_law"], p["end_how"] = p["start"], None, "duplicate"
+                break
+        if p["end"]:
             continue
         lv = level(p["label"])
         if p.get("heading"):
@@ -482,6 +593,18 @@ def lifespans(paras: list[dict], eff: dict[str, str], effect_override) -> list[s
             if same and q["start"] > p["start"]:
                 p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "successor"
                 break
+        if not p["end"] and p["label"] == "Parágrafo único":
+            # "Parágrafo único" shown struck before an unannotated "§ 1º": it became § 1º when an amendment added
+            # § 2º to the article (the § 2º carries the source's own "Incluído pela" note)
+            unit = [q for q in paras if q["unit"] == p["unit"]]
+            s1 = next((q for q in unit[unit.index(p) + 1:] if q["label"] == "§ 1º" and q["state"] == "plain"
+                       and q["start_how"] == "original"), None)
+            s2 = sorted((q["start"], q["start_law"]) for q in unit
+                        if q["label"] == "§ 2º" and q["start"] > p["start"] and q["start_law"])
+            if s1 is not None and s2:
+                d, law = s2[0]
+                p["end"], p["end_law"], p["end_how"] = d, law, "renumbered"
+                s1["start"], s1["start_law"], s1["start_how"] = d, law, "renumbered"
         if not p["end"]:
             # struck with no note and no later wording: it fell with the nearest struck enclosing dispositivo
             for q in reversed(paras[:i]):
@@ -493,6 +616,10 @@ def lifespans(paras: list[dict], eff: dict[str, str], effect_override) -> list[s
                     break
         if not p["end"]:
             problems.append(f"no end for struck {p['unit']} [{p['label']}] {p['text'][:90]!r} notes={p['notes']}")
+    for p in paras:
+        if p["end"] and p["end"] < p["start"]:
+            problems.append(f"ends before it starts: {p['unit']} [{p['label']}] {p['start']} > {p['end']} {p['text'][:60]!r}")
+            p["end"] = p["start"]
     return problems
 
 
@@ -527,7 +654,9 @@ def main(argv: list[str]) -> int:
     eff, vdec = vigencia(laws)
     b, cf_src = raw("cf")
     paras = cf_paragraphs(decode(b))
-    problems = lifespans(paras, eff, effect_override)
+    check_heading_renames()
+    problems = split_court_strikes(paras)
+    problems += lifespans(paras, eff, effect_override)
     if a.stats:
         from collections import Counter
         print("paragraphs", len(paras), Counter(p["state"] for p in paras))
