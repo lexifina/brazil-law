@@ -1384,6 +1384,12 @@
    "id": "law:mp-2180-2001",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/2180-35.htm",
    "ts": "20261005003355"
+  },
+  {
+   "id": "law:dl-5-1966",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/Del0005.htm",
+   "ts": "20260922213323",
+   "guessed_path": true
   }
  ]
 }

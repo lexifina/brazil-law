@@ -434,14 +434,57 @@ def page_info(key: str) -> dict:
 
 
 # Hand-checked in-force days where a law's own clause is staged or not machine-readable: key -> (date, reason).
-VIGENCIA_FIXED: dict[str, tuple[str, str]] = {}
+VIGENCIA_FIXED: dict[str, tuple[str, str]] = {
+    "lei-4825-1965": (None, "own clause 'entra em vigor na [data] de sua publicação' (a word is missing on the page): "
+                            "the publication day"),
+    "lei-11457-2007": ("2007-05-02", "art. 51, II: 'no primeiro dia útil do segundo mês subseqüente à data de sua "
+                                     "publicação' for all but arts. 40, 41 and 47-50 (published 19.3.2007; its art. 42 "
+                                     "changes the CLT; 1.5.2007 was a holiday)"),
+    "lei-12873-2013": ("2013-10-25", "art. 72, III: 'na data de sua publicação quanto aos demais dispositivos' "
+                                     "(published 25.10.2013); item II, b defers art. 392-B of the CLT (below)"),
+    "lei-13874-2019": ("2019-09-20", "art. 20, II: 'na data de sua publicação, para os demais artigos' (published "
+                                     "20.9.2019; item I was vetoed)"),
+    "lei-13876-2019": ("2019-09-23", "art. 4º, II: 'quanto aos demais dispositivos, na data de sua publicação' (published "
+                                     "23.9.2019); item I defers only its art. 3º, which is not the change to the CLT"),
+    "lei-14690-2023": ("2023-10-03", "its clause II: 'na data de sua publicação, quanto aos demais dispositivos' "
+                                     "(published 3.10.2023); item I defers only its art. 30, not the change to the CLT "
+                                     "(art. 29)"),
+    "mp-905-2019": ("2019-11-12", "art. 53, III: 'na data de sua publicação, quanto aos demais dispositivos' (published "
+                                  "12.11.2019); item I defers its changes to CLT arts. 161, 634 and 634-A (below). Its "
+                                  "§ 1º defers only the effects of some provisions (art. 457, 457-A)"),
+}
 # Provisions whose in-force day differs from the rest of their law: (law, act, unit) -> (date, reason).
-VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {}
+VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {
+    ("lei-12873-2013", "clt", "art-392-b"): ("2014-01-23", "Lei 12.873/2013 art. 72, II, b: '90 (noventa) dias após a "
+                                                           "data de sua publicação' for CLT art. 392-B (25.10.2013 + 90)"),
+    **{("mp-905-2019", "clt", u): ("2020-02-10", "MP 905/2019 art. 53, I: 'noventa dias após a data de sua publicação, "
+                                                 "quanto às alterações promovidas pelo art. 28 nos art. 161, art. 634 e "
+                                                 "art. 634-A' (12.11.2019 + 90)")
+       for u in ("art-161", "art-634", "art-634-a")},
+}
 # The day a lapsed Medida Provisória stopped having effect, from the Ato Declaratório of the President of Congress
 # (CF art. 62 §§ 3, 4, 7 and 11): key -> (date, reason). Filled in after reading each MP page.
 # Vetoed parts later promulgated after Congress overrode the veto (CF art. 66 §§ 5 and 7): law -> (day, reason).
 VETO_PROMULGATION = {}
-MP_LAPSE: dict[str, tuple[str, str]] = {}
+MP_LAPSE: dict[str, tuple[str, str]] = {
+    "mp-808-2017": ("2018-04-24", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 22, de 2018 (DOU "
+                                  "25.4.2018): 'teve seu prazo de vigência encerrado no dia 23 de abril'; the replaced "
+                                  "wording is back from 24.4.2018"),
+    "mp-873-2019": ("2019-06-29", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 43, de 2019: 'teve seu "
+                                  "prazo de vigência encerrado no dia 28 de junho'; the replaced wording is back from "
+                                  "29.6.2019"),
+    "mp-955-2020": ("2020-08-18", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 113, de 2020 (DOU "
+                                  "20.8.2020): 'teve seu prazo de vigência encerrado no dia 17 de agosto de 2020'; MP "
+                                  "905/2019, which it had revoked, had effect again from 18.8.2020"),
+    "mp-905-2019": ("2020-08-19", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 127, de 2020 (DOU "
+                                  "29.9.2020): 'teve seu prazo de vigência encerrado no dia 18 de agosto de 2020'; the "
+                                  "wording it had replaced is back from 19.8.2020"),
+}
+# Medidas Provisórias of before Emenda Constitucional 32/2001 stay in force until revoked or voted on (EC 32 art. 2):
+# key -> reason. Their wordings stand like a law's.
+MP_STANDING: dict[str, str] = {
+    k: "an MP in force on 11.9.2001 stays in force until a later MP revokes it or Congress votes on it (Emenda "
+       "Constitucional 32/2001, art. 2)" for k in ("mp-2164-2001", "mp-2180-2001", "mp-2226-2001")}
 # An MP ended by another act rather than by lapse: the end is credited to that act (no "-fim" record).
 MP_LAPSE_BY: dict[str, str] = {}
 # MPs that lapsed without anything coming back (their only CLT effect was to revoke another MP): key -> commit note.
@@ -450,9 +493,10 @@ MP_LAPSE_NO_EFFECT: dict[str, str] = {}
 
 def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
     """In-force day of a law's text changes, and a one-line reason."""
-    if key in VIGENCIA_FIXED:
-        return VIGENCIA_FIXED[key]
     pub = info.get("published") or info.get("enacted")
+    if key in VIGENCIA_FIXED:
+        d, why = VIGENCIA_FIXED[key]
+        return (d or pub), why
     cl = info.get("clause", "")
     if not pub:
         return None, "no publication date found"
@@ -462,12 +506,12 @@ def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
         return plus_days(pub, 45), f"no vigência clause: LINDB art. 1, published {pub} + 45 days"
     if re.search(r"em\s+vigor\s+(?:na|[àa])\s+data\.?\s+d[ae]\s+(?:sua\s+)?publica", cl, re.I):
         return pub, f"own clause 'entra em vigor na data de sua publicação' (published {pub})"
-    fx = re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+(?:no\s+dia|em|a\s+partir\s+de)\s+(\d{1,2})º?\s+de\s+(\w+)\s+de\s+(\d{4})", cl, re.I)
+    fx = re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+(?:no\s+dia|em|a\s+partir\s+de)\s+(\d{1,2})[º°]?\s+de\s+(\w+)\s+d[eo]\s+(\d{4})", cl, re.I)
     if fx and fx.group(2).lower() in MONTHS:
         d = f"{int(fx.group(3)):04d}-{MONTHS[fx.group(2).lower()]:02d}-{int(fx.group(1)):02d}"
         return d, f"own clause: in force on a fixed day ({cl[:120]})"
     words = "|".join(sorted(NUMWORDS, key=len, reverse=True))
-    m = re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+(?:ap[óo]s\s+decorrid[oa]s?\s+|ap[óo]s\s+)?(\d+|" + words + r")\s*(?:\(([^)]+)\))?\s*(dias|meses|m[êe]s|anos?)\s+"
+    m = re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+(?:no\s+prazo\s+de\s+)?(?:ap[óo]s\s+decorrid[oa]s?\s+|ap[óo]s\s+)?(\d+|" + words + r")\s*(?:\(([^)]+)\))?\s*(dias|meses|m[êe]s|anos?)\s+"
                   r"(?:ap[óo]s\s+|de\s+|da\s+|contados\s+da\s+|a\s+partir\s+da\s+)?(?:a\s+)?(?:data\s+de\s+|data\s+da\s+)?(?:sua|da\s+sua)\s+publica",
                   cl, re.I)
     if m:
@@ -681,6 +725,7 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
                 p["suspended"] = (d, law)
             elif END_KIND.search(n):
                 ends.append((d, law))
+        p["_starts"], p["_ends"] = list(starts), list(ends)
         p["start"], p["start_law"] = max(starts) if starts else (cx.act_day, None)
         p["end"], p["end_law"], p["end_how"] = None, None, None
         p["gaps"] = []
@@ -720,6 +765,7 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
             hit = VETO_PROMULGATION.get(p["start_law"] or "")
             if hit:
                 p["end"], p["end_law"], p["end_how"] = hit[0], p["start_law"], "promulgation"
+    problems += mp_pairs(paras, cx)
     for p in paras:
         if p.get("force_start"):
             p["start"], p["start_law"] = p["force_start"]
@@ -764,7 +810,7 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
     # restored wordings: a wording repeated after a later one starts again when that one ended
     for i, q in enumerate(paras):
         r = predecessor(paras, i)
-        if r is None or q.get("restored_from_original") or paras[r].get("never"):
+        if r is None or q.get("restored_from_original") or q.get("pinned") or paras[r].get("never"):
             continue
         pr = paras[r]
         if q["text"] == pr["text"] and pr["gaps"] and not pr["end"] and q["start"] <= pr["start"]:
@@ -895,6 +941,72 @@ def split_court_strikes(paras: list[dict]) -> list[str]:
 
 
 LINK_SLIPS: list[str] = []
+
+
+# A Medida Provisória revoked by another MP that then lapsed, after which the revoked MP ran out its own term:
+# MP 905/2019 (in force 12.11.2019) was revoked by MP 955/2020 (20.4.2020); MP 955 lapsed on 17.8.2020 (Ato
+# Declaratório 113/2020), so MP 905 had effect again until its own term ended on 18.8.2020 (Ato Declaratório
+# 127/2020). Planalto prints each MP 905 wording twice: struck "(Revogado pela Medida Provisória n. 955, de 2020)
+# (Vigência encerrada)" for the first period, struck "(Vigência encerrada)" for 18.8.2020; and each wording MP 905
+# revoked twice likewise. revoked MP -> revoking MP.
+MP_PAIRS = {"mp-905-2019": "mp-955-2020"}
+
+
+def mp_pairs(paras: list[dict], cx: Ctx) -> list[str]:
+    problems = []
+    for m_key, r_key in MP_PAIRS.items():
+        if m_key not in cx.eff or r_key not in cx.eff or m_key not in cx.lapse_key or r_key not in cx.lapse_key:
+            problems.append(f"MP pair {m_key}/{r_key}: dates missing")
+            continue
+        r_eff = cx.eff[r_key]
+        r_lapse, r_fim = MP_LAPSE[r_key][0], cx.lapse_key[r_key]
+        m_lapse, m_fim = MP_LAPSE[m_key][0], cx.lapse_key[m_key]
+        first_copies: dict[tuple, str] = {}
+        for i, p in enumerate(paras):
+            s_m = [d for d, law in p["_starts"] if law == m_key]
+            e_m = [d for d, law in p["_ends"] if law == m_key]
+            e_r = any(law == r_key for _, law in p["_ends"])
+            if not (s_m or e_m) or p["state"] == "plain":
+                continue
+            slot = (p["unit"], p["label"], p["text"])
+            p["pinned"] = True
+            p["gaps"] = []
+            if s_m and e_r:          # MP 905 wording, first period
+                p["start"], p["start_law"] = max(s_m), m_key
+                p["end"], p["end_law"], p["end_how"] = r_eff, r_key, "mp-pair"
+                first_copies[slot] = "made"
+            elif s_m:                # MP 905 wording again on 18.8.2020 (or a single copy: both periods)
+                if first_copies.get(slot) == "made":
+                    p["start"], p["start_law"] = r_lapse, r_fim
+                else:
+                    p["start"], p["start_law"] = max(s_m), m_key
+                    p["gaps"] = [(r_eff, r_lapse, r_key, r_fim)]
+                p["end"], p["end_law"], p["end_how"] = m_lapse, m_fim, "mp-pair"
+            elif e_m and e_r:        # wording MP 905 revoked, back while MP 955 stood
+                p["end"], p["end_law"], p["end_how"] = r_lapse, r_fim, "mp-pair"
+                p["gaps"] = [(min(e_m), r_eff, m_key, r_key)]
+                first_copies[slot] = "revoked"
+            else:                    # the same wording revoked again on 18.8.2020: never shown, restores after
+                if first_copies.get(slot) == "revoked":
+                    p["start"], p["start_law"] = r_lapse, r_fim
+                    p["end"], p["end_law"], p["end_how"] = m_lapse, m_fim, "mp-pair"
+                    p["skip"] = True
+                else:
+                    p["end"], p["end_law"], p["end_how"] = m_lapse, m_fim, "mp-pair"
+                    p["gaps"] = [(min(e_m), r_eff, m_key, r_key)]
+        # a wording MP 905 replaced came back while MP 955 stood
+        for i, p in enumerate(paras):
+            if p.get("pinned") or p["state"] == "plain" or p["end"]:
+                continue
+            j = successor(paras, i)
+            if j is None:
+                continue
+            q = paras[j]
+            if q.get("pinned") and q["start_law"] == m_key and q["end_law"] == r_key:
+                p["end"], p["end_law"], p["end_how"] = r_lapse, r_fim, "mp-pair"
+                p["gaps"] = [(q["start"], r_eff, m_key, r_key)]
+                p["pinned"] = True
+    return problems
 
 
 def same_slot(p: dict, q: dict) -> bool:
@@ -1048,7 +1160,8 @@ def unit_label(u: str, ps: list[dict]) -> str:
 # check against Planalto's consolidated page
 
 
-BARE_LABEL = re.compile(r"^(?:Arts?\. [\d.]+º?(?:-[A-Z]{1,2})?\.?(?: a [\d.]+º?(?:-[A-Z]{1,2})?\.?)?|§ \d+º?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])? -|[a-z]\))$")
+BARE_LABEL = re.compile(r"^(?:Arts?\. [\d.]+º?(?:-[A-Z]{1,2})?\.?(?: a [\d.]+º?(?:-[A-Z]{1,2})?\.?)?(?: -)?|§ \d+º?(?:-[A-Z])?\.?(?: -)?|"
+                        r"Parágrafo único\.?(?: -)?|[IVXLC]+(?:-[A-Z])? -|[a-z]\)|\d+\))[.;]?$")
 
 
 def consolidated(ident: str, digits: int) -> dict[str, str]:
@@ -1242,7 +1355,7 @@ def main(argv: list[str]) -> int:
         elif k in MP_LAPSE:
             fate = {"lapsed_on": MP_LAPSE[k][0]}
             lapse_key[k] = MP_LAPSE_BY.get(k, k + "-fim")
-        elif k in MP_LAPSE_NO_EFFECT:
+        elif k in MP_LAPSE_NO_EFFECT or k in MP_STANDING:
             fate = {}
         else:
             problems.append(f"{k}: neither converted nor a known lapse ({ {x: info.get(x) for x in ('converted', 'lapsed', 'rejected')} })")
