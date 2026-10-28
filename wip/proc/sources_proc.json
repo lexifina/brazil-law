@@ -444,6 +444,12 @@
    "id": "law:mp-1393-2026",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1393.htm",
    "ts": "20261021023934"
+  },
+  {
+   "id": "law:lei-11785-2008",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11785.htm",
+   "ts": "20261007150922",
+   "guessed_path": true
   }
  ]
 }

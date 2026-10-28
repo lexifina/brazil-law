@@ -91,6 +91,7 @@ LAW_REF = re.compile(
 
 def law_key(text: str, year_of: dict | None = None) -> str | None:
     """lei-14905-2024, lc-128-2008, mp-1085-2021, dl-4037-1942 for the first act named in text."""
+    text = NOTE_FIX.get(text, (text,))[0]
     m = LAW_REF.search(text)
     if not m:
         return None
@@ -267,6 +268,9 @@ def analyse(block: dict) -> dict:
     n_pl = sum(1 for (c, s), k in zip(chars, keep) if k and not s and not c.isspace())
     t = norm(text)
     t = re.sub(r"(?:\s*\(?\s*(?:Produ[çc][ãa]o de efeitos?|Vig[êe]ncia)\s*\)?\.?)+$", "", t).strip()
+    # "...(art. 282, § 4º). (Incluído pela ...). (Redação dada pela ...)": the full stops between the notes stay
+    # behind as "..": one full stop
+    t = re.sub(r"\.(?:\s*\.)+$", ".", t)
     state = "plain" if n_st == 0 else ("struck" if n_pl == 0 else "mixed")
     if state == "mixed":
         pl = norm("".join(c for (c, s), k in zip(chars, keep) if k and not s))
@@ -283,6 +287,10 @@ def analyse(block: dict) -> dict:
         # struck cross-reference link ("(<strike><a>art. 110 do Código Penal</a></strike>)", CPP art. 336)
         if not re.sub(r"[º°.\s]", "", struck_text) or all(
                 ln for (c, s), k, ln in zip(chars, keep, links) if k and s and not c.isspace()):
+            keep_ch = [k and (not s or c in "º°" or ln) for (c, s), k, ln in zip(chars, keep, links)]
+            t = norm("".join(c for (c, _), k in zip(chars, keep_ch) if k))
+            t = re.sub(r"(?:\s*\(?\s*(?:Produ[çc][ãa]o de efeitos?|Vig[êe]ncia)\s*\)?\.?)+$", "", t).strip()
+            t = re.sub(r"\.(?:\s*\.)+$", ".", t)
             state, plain_text, struck_text = "plain", "", ""
         # a strike that ends inside the last words of a struck wording ("... como tam</strike>bem ao juiz", CPP
         # art. 725 III): the wording is struck
@@ -296,11 +304,13 @@ def analyse(block: dict) -> dict:
 ROMAN = r"[IVXLC]+"
 SUFFIX = r"(?:-[A-Z]{1,2}(?![A-Za-zÀ-ú]))?"
 LABEL = re.compile(
-    r"^(?:(Art\.\s*\d+(?:\.\d+)?º?" + SUFFIX + r")|(§\s*\d+º?" + SUFFIX + r")|(Par[áa]grafo\s+[úu]nico)|"
+    r"^(?:(Art\.\s*\d+(?:\.\d+)?º?" + SUFFIX + r")|(§\s*\d+º?" + SUFFIX + r")|(Par[áa]grafo\s+[úuÚ]nico)|"
     r"(" + ROMAN + SUFFIX + r")\s*[-–]+\s*|(?P<bare>" + ROMAN + r")(?P<bs>-?[A-Z])?\s+(?=[a-zà-ú])|([a-z]" + SUFFIX + r")\)|(\d+)\)\s)")
 
 
 def label_of(text: str) -> str:
+    if re.match(r"^Il\s*-\s", text):
+        return "II -"  # "Il - no concurso ..." (CPP art. 78, a lower-case L typed for I)
     m = LABEL.match(text)
     if not m:
         return ""
@@ -308,7 +318,7 @@ def label_of(text: str) -> str:
         bs = (m.group("bs") or "").lstrip("-")
         return m.group("bare") + ("-" + bs if bs else "") + " -"
     g = next(x for x in m.groups() if x)
-    g = re.sub(r"\s+", "", g).replace("Parágrafoúnico", "Parágrafo único").replace("Paragrafoúnico", "Parágrafo único")
+    g = re.sub(r"\s+", "", g).replace("Parágrafoúnico", "Parágrafo único").replace("ParágrafoÚnico", "Parágrafo único").replace("Paragrafoúnico", "Parágrafo único")
     if m.group(4):
         g += " -"
     elif m.group(7) or m.group(8):
@@ -400,7 +410,7 @@ def page_info(key: str) -> dict:
     num = key.split("-")[1]
     m = None
     for mm in re.finditer(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI|DECRETO LEI)[^,]{0,40}?N\s*[º°O]?\s*\.?\s*([\d.]+)(?:-?([A-Z]))?(?:-\d+)?\s*,?\s*"
-                          r"DE\s+(\d{1,2})º?\s+(?:DE\s+)?(\w+)\s+DE\s+(\d{4})", head, re.I):
+                          r"DE\s+(\d{1,2})\s*[º°o]?\s+(?:DE\s+)?(\w+)\s+DE\s+(\d{4})", head, re.I):
         if str(int(mm.group(1).replace(".", "") or 0)) + (mm.group(2) or "").lower() == num.lstrip("0") or                 str(int(mm.group(1).replace(".", "") or 0)) == num.rstrip("abcdefghijklmnopqrstuvwxyz"):
             m = mm
             break
@@ -413,6 +423,8 @@ def page_info(key: str) -> dict:
     pub = pubs[-1] if pubs else None
     if pub:
         info["published"] = f"{int(pub.group(3)):04d}-{int(pub.group(2)):02d}-{int(pub.group(1)):02d}"
+    elif key in PUBLISHED_FIXED:
+        info["published"] = PUBLISHED_FIXED[key][0]
     if m:
         after = head[m.end():m.end() + 1500]
         after = re.sub(r"^(?:\s*(?:Mensagem de veto|Texto compilado|Vig[êe]ncia(?: encerrada)?|Convers[ãa]o da Medida Provis[óo]ria\s+n[º°]?\s*[\d.]+(?:,\s*de\s+\d{4})?|"
@@ -473,8 +485,33 @@ EDITORIAL: dict[tuple[str, str, str], tuple[str, str, str]] = {
         "the history has no XI before then"),
 }
 
+# Publication days a law page does not print (it cites only the CLBR): key -> (date, source).
+PUBLISHED_FIXED: dict[str, tuple[str, str]] = {
+    "lei-263-1948": ("1948-02-26", "LexML (urn:lex:br:federal:lei:1948-02-23;263): 'Publicação Original: Diário Oficial "
+                                   "da União, Seção 1, 26/02/1948, p. 2713'"),
+}
+# Notes that omit the act's kind, corrected only where the note's own link names the act: note -> (corrected, why).
+NOTE_FIX: dict[str, tuple[str, str]] = {
+    "(Redação dada pela nº 11.785, de 2008)": (
+        "(Redação dada pela Lei nº 11.785, de 2008)",
+        "CDC art. 54 § 3º: the note reads 'Redação dada pela nº 11.785, de 2008' and links to "
+        "_Ato2007-2010/2008/Lei/L11785.htm, so it is Lei nº 11.785, de 2008"),
+}
+# Medidas Provisórias still within their term on the retrieval day (CF art. 62 §§ 3 and 7: 60 days, extendable once by
+# 60): their wording stands, with no end date yet. key -> reason.
+MP_PENDING: dict[str, str] = {
+    "mp-1393-2026": "published 25.9.2026 (DOU, edição extra), in force on publication; on 28.10.2026 it was neither "
+                    "converted nor lapsed (CF art. 62 § 3: 60 days, extendable once by 60), so its wording of CDC art. 57 "
+                    "stands open",
+}
+
 # Hand-checked in-force days where a law's own clause is staged or not machine-readable: key -> (date, reason).
 VIGENCIA_FIXED: dict[str, tuple[str, str]] = {
+    "lei-263-1948": ("1948-02-29", "art. 11: 'Esta Lei entrará em vigor: no Distrito Federal, três dias depois da sua "
+                                   "publicação; dez dias nos Estados do Rio de Janeiro, São Paulo e Minas; e, vinte dias, nos "
+                                   "demais Estados e Territórios' (published in the DOU of 26.2.1948, per LexML: the page "
+                                   "cites only the CLBR). Dated by the first day it was in force, in the Distrito Federal "
+                                   "(26.2 + 3 days = 29.2.1948); in the other states it applied from 7.3 and 17.3.1948"),
 }
 # Provisions whose in-force day differs from the rest of their law: (law, act, unit) -> (date, reason).
 VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {}
@@ -572,7 +609,7 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
         if t.startswith(("Brasília,", "Rio de Janeiro,", "Este texto não substitui")):
             zone = "end"
             continue
-        if not t:
+        if not t or re.fullmatch(r"[.;,:\s]+", t):
             if b["notes"] and out:
                 # a note in a block of its own belongs to the line(s) before it
                 if out[-1]["heading"]:
@@ -842,7 +879,10 @@ def successor(paras: list[dict], i: int) -> int | None:
             if q["start"] > p["start"] and same_slot(p, q):
                 return j
             continue
-        if q["unit"] != p["unit"] or q["heading"]:
+        if q["heading"]:
+            # a heading reworded between the old and the new wording of one article (CPP Capítulo V before art. 201)
+            continue
+        if q["unit"] != p["unit"]:
             return None
         if level(q["label"]) < min(lv, 2) or (lv < 5 and level(q["label"]) < lv):
             return None
@@ -993,6 +1033,13 @@ def unit_label(u: str, ps: list[dict]) -> str:
 BARE_LABEL = re.compile(r"^(?:Arts?\. [\d.]+º?(?:-[A-Z]{1,2})?\.?(?: a [\d.]+º?(?:-[A-Z]{1,2})?\.?)?(?: -)?|§ \d+º?(?:-[A-Z])?\.?(?: -)?|Parágrafo único\.?(?: -)?|[IVXLC]+(?:-[A-Z])? -|[a-z]\))$")
 
 
+# the CPP consolidated page's other forms of a revoked dispositivo: "Art. 556. a Art. 560", "Art. 561. e Art. 562.",
+# "Art. 632.:", "IV - (revogado).", "§ 2º (Revogado):."
+PLACEHOLDER = re.compile(r"^(?:Arts?\. [\d.]+º?(?:-[A-Z]{1,2})?\.?(?:\s*[ae]\s+Art\. [\d.]+º?(?:-[A-Z]{1,2})?\.?)?[:.;]*|"
+                         r"(?:Arts?\. [\d.]+º?(?:-[A-Z]{1,2})?\.?|§ \d+º?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])? -|[a-z]\))"
+                         r"\s*\((?:[Rr]evogad[oa]s?|REVOGAD[OA]S?)\)[.;:]*)$")
+
+
 def consolidated(ident: str, digits: int) -> dict[str, str]:
     b, _ = raw(ident)
     paras, _ = paragraphs(decode(b), digits)
@@ -1000,7 +1047,7 @@ def consolidated(ident: str, digits: int) -> dict[str, str]:
     for p in paras:
         # the consolidated page keeps a revoked dispositivo as its bare label ("Art. 757.", "III -"): not text
         t = p["text"] if p["state"] == "plain" else p["plain_text"] if p["state"] == "mixed" else ""
-        if t and not BARE_LABEL.match(t):
+        if t and not BARE_LABEL.match(t) and not PLACEHOLDER.match(t):
             out.setdefault(p["unit"], []).append(t)
     # a revoked article the consolidated page still marks by its marginal heading only (no text of its own)
     out = {u: ls for u, ls in out.items()
@@ -1009,6 +1056,12 @@ def consolidated(ident: str, digits: int) -> dict[str, str]:
 
 
 def compare(last: dict[str, str], ref: dict[str, str]) -> list[str]:
+    # an unstruck "(Revogado)" placeholder of the annotated page is not text either (the consolidated page's are
+    # dropped in consolidated())
+    def text_only(t: str) -> str | None:
+        x = "".join(l + "\n" for l in t.splitlines() if not PLACEHOLDER.match(l))
+        return x or None
+    last = {u: x for u, t in last.items() if (x := text_only(t))}
     diffs = []
     for u in sorted(set(last) | set(ref)):
         a, b = last.get(u), ref.get(u)
@@ -1045,7 +1098,7 @@ def compare(last: dict[str, str], ref: dict[str, str]) -> list[str]:
 ACTS = [
     {"slug": "codigo-de-processo-penal", "short": "CPP", "page": "cpp", "consolidated": "cpp-compilado",
      "law": "dl-3689-1941", "title": "Código de Processo Penal (Decreto-Lei nº 3.689, de 3 de outubro de 1941)",
-     "digits": 3, "url": PL + "decreto-lei/del3689compilado.htm"},
+     "digits": 3, "center_headings": False, "url": PL + "decreto-lei/del3689compilado.htm"},
     {"slug": "codigo-de-defesa-do-consumidor", "short": "CDC", "page": "cdc", "consolidated": "cdc-compilado",
      "law": "lei-8078-1990", "title": "Código de Defesa do Consumidor (Lei nº 8.078, de 11 de setembro de 1990)",
      "digits": 3, "url": PL + "leis/l8078compilado.htm"},
@@ -1076,12 +1129,41 @@ ACT_DECISIONS: list[str] = [
 # part, whose lines often carry no note. act slug -> (law, the heading that ends the new part, reason).
 REWRITES: dict = {
 }
+# A law that re-enacted one chapter: Planalto prints the old chapter as one struck block, then the new chapter.
+# (act slug, law, name line of the old chapter's struck heading, first heading line after the new chapter, reason)
+REWRITE_BLOCKS = [
+    ("codigo-de-processo-penal", "lei-11689-2008", "DO PROCESSO DOS CRIMES DA COMPETÊNCIA DO JÚRI", "CAPÍTULO III",
+     "Lei 11.689/2008 art. 1 re-enacted Livro II, Título I, Capítulo II (the Júri procedure, arts. 406 to 497: 'O "
+     "Capítulo II do Título I do Livro II do Decreto-Lei nº 3.689 ... passa a vigorar com a seguinte redação'). "
+     "Planalto prints the old chapter (with its amendments up to 2008) as one struck block, then the new chapter. "
+     "Every struck line of the old block that no note or later wording ends is ended on Lei 11.689's in-force day, and "
+     "every line of the new chapter without a note of its own starts that day, credited to Lei 11.689"),
+]
+
+
+def rewrite_blocks(paras: list[dict], act: dict, eff: dict, fixed: set) -> None:
+    for slug, law, name, end_heading, _ in REWRITE_BLOCKS:
+        if slug != act["slug"] or law not in eff:
+            continue
+        day = eff[law]
+        k = next(i for i, p in enumerate(paras) if p["heading"] and p["state"] != "plain" and p["text"] == name)
+        first = k - 1 if k and paras[k - 1]["heading"] and paras[k - 1]["state"] != "plain" else k
+        new_from = next(i for i in range(first, len(paras)) if paras[i]["state"] == "plain")
+        new_to = next(i for i in range(new_from + 1, len(paras)) if paras[i]["heading"] and paras[i]["text"] == end_heading)
+        for p in paras[first:new_from]:
+            if not p["end"]:
+                p["end"], p["end_law"], p["end_how"] = day, law, "rewrite"
+                fixed.add(p["i"])
+        for p in paras[new_from:new_to]:
+            if p["start_law"] is None and p["start"] < day:
+                p["start"], p["start_law"] = day, law
 
 def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str]) -> list[str]:
     fixed = set()
     hit = REWRITES.get(act["slug"])
     if hit:
         rewrite(paras, hit, eff, fixed)
+    rewrite_blocks(paras, act, eff, fixed)
     # a struck "(VETADO)" line with no note directly above a wording of the same dispositivo that a law's note
     # introduces, the law's vetoed parts having been promulgated later (VETO_PROMULGATION, CPP art. 3º-B § 1º): the
     # "(VETADO)" line stands from that law's day to the promulgation, and the promulgated wording starts then
@@ -1230,6 +1312,43 @@ def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str])
         if q is not None and q["unit"] == p["unit"] and q["state"] != "plain" and q["end"] and q["end"] > p["start"]:
             p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "heads"
             fixed.add(i)
+    # a struck heading block (CAPÍTULO V / DAS PERGUNTAS AO OFENDIDO) with struck articles under it, then the same
+    # heading reworded (CAPÍTULO V / DO OFENDIDO, the note on its name line): the old block ends when the new one,
+    # dated by its note, starts; the new block's unannotated lines start with it
+    for i, p in enumerate(paras):
+        if not p["heading"] or p["state"] == "plain" or p["end"] or (i and paras[i - 1]["heading"] and paras[i - 1]["state"] != "plain"):
+            continue
+        run = [i]
+        while run[-1] + 1 < len(paras) and paras[run[-1] + 1]["heading"] and paras[run[-1] + 1]["state"] != "plain":
+            run.append(run[-1] + 1)
+        j = run[-1] + 1
+        while j < len(paras) and not paras[j]["heading"] and paras[j]["state"] != "plain":
+            j += 1
+        if j >= len(paras) or not paras[j]["heading"] or paras[j]["state"] != "plain" or paras[j]["text"] != p["text"]:
+            continue
+        new = [j]
+        while new[-1] + 1 < len(paras) and paras[new[-1] + 1]["heading"] and paras[new[-1] + 1]["state"] == "plain":
+            new.append(new[-1] + 1)
+        dated = [(paras[k]["start"], paras[k]["start_law"]) for k in new[:len(run)] if paras[k]["start_law"]]
+        if not dated:
+            continue
+        d, law = max(dated)
+        for k in run:
+            if not paras[k]["end"]:
+                paras[k]["end"], paras[k]["end_law"], paras[k]["end_how"] = d, law, "heading-reworded"
+                fixed.add(k)
+        for k in new[:len(run)]:
+            if not paras[k]["start_law"] and paras[k]["start"] < d:
+                paras[k]["start"], paras[k]["start_law"] = d, law
+    # a struck heading left inside a revoked run of articles (CPP Capítulo II 'DO JULGAMENTO' among arts. 556-562)
+    # falls with the next struck dispositivo after it
+    for i, p in enumerate(paras):
+        if not p["heading"] or p["state"] == "plain" or p["end"]:
+            continue
+        q = next((q for q in paras[i + 1:] if not q["heading"]), None)
+        if q is not None and q["state"] != "plain" and q["end"] and q["end"] > p["start"]:
+            p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "heads"
+            fixed.add(i)
     return [x for x in problems if not any(f"{paras[i]['text'][:90]!r}" in x for i in fixed)]
 
 
@@ -1367,6 +1486,8 @@ def main(argv: list[str]) -> int:
         elif k in MP_LAPSE:
             fate = {"lapsed_on": MP_LAPSE[k][0]}
             lapse_key[k] = k + "-fim"
+        elif k in MP_PENDING:
+            fate = {}
         else:
             problems.append(f"{k}: neither converted nor a known lapse ({ {x: info.get(x) for x in ('converted', 'lapsed', 'rejected')} })")
         mp[k] = fate
@@ -1398,6 +1519,10 @@ def main(argv: list[str]) -> int:
         laws[k] = dict(rec)
     for (_, _, _), (_, _, why) in EDITORIAL.items():
         decisions.append(why + ".")
+    for k, (d, why) in PUBLISHED_FIXED.items():
+        decisions.append(f"{law_label(k)}: published {d} ({why}).")
+    for k, (fixed_note, why) in NOTE_FIX.items():
+        decisions.append(f"Note corrected: {why}.")
     for k, c in COURTS.items():
         laws[k] = {kk: c[kk] for kk in ("label", "title", "kind", "enacted", "published", "url")}
         laws[k].update({"temporary_until": None, "restores": None, "note": None})
@@ -1462,6 +1587,8 @@ def mp_notes(infos: dict, eff: dict) -> list[str]:
                        f"(in force {eff[info['converted']]})")
         elif k in MP_LAPSE:
             out.append(f"{law_label(k)} (in force {eff.get(k)}) lapsed: {MP_LAPSE[k][1]}")
+        elif k in MP_PENDING:
+            out.append(f"{law_label(k)} (in force {eff.get(k)}) still pending: {MP_PENDING[k]}")
     return ["Medidas Provisórias and their fate, from each MP page's 'Convertida na Lei' line or the Congress records: "
             + "; ".join(out) + "."] if out else []
 
@@ -1534,6 +1661,7 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
             "label-only lines, and the history leaves revoked text out.",
             *ACT_DECISIONS,
             *[f"{a['title']}: {REWRITES[a['slug']][2]}" for a in ACTS if a["slug"] in REWRITES],
+            *[f"{x[4]}." for x in REWRITE_BLOCKS],
             *[f"{law_label(k)}: {why}." for k, (d, why) in VETO_PROMULGATION.items()],
         ] + decisions + mpn + vig_notes + ([
             "Laws with no vigência clause of their own are dated by LINDB art. 1 (publication + 45 days): " + "; ".join(lindb) + "."
