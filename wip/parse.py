@@ -24,6 +24,7 @@ import argparse
 import datetime as dt
 import hashlib
 import json
+import os
 import re
 import sys
 import unicodedata
@@ -37,6 +38,7 @@ import fetch  # noqa: E402
 PL = "https://www.planalto.gov.br/ccivil_03/"
 CF_URL = PL + "constituicao/constituicao.htm"
 CF_DATE = "1988-10-05"
+CACHE_LOG = HERE / ".cache" / "requests.jsonl"
 
 # ---------------------------------------------------------------------------------------------------------------
 # cache access
@@ -385,6 +387,9 @@ HEADING_RENAMES = {
     "DOS TRIBUNAIS E JUÍZES DO TRABALHO": ("ec-092", "Do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho e dos Juízes do Trabalho"),
     "DA CIÊNCIA E TECNOLOGIA": ("ec-085", "DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO"),
     "DA FAMÍLIA, DA CRIANÇA, DO ADOLESCENTE E DO IDOSO": ("ec-065", "Da Família, da Criança, do Adolescente, do Jovem e do Idoso"),
+    "DOS SERVIDORES PÚBLICOS MILITARES": ("ec-018", "DOS MILITARES DOS ESTADOS, DO DISTRITO FEDERAL E DOS TERRITÓRIOS"),
+    "DA ADVOCACIA-GERAL DA UNIÃO": ("ec-019", "DA ADVOCACIA PÚBLICA"),
+    "DA ADVOCACIA E DA DEFENSORIA PÚBLICA": ("ec-080", "Da Advocacia"),
 }
 
 # Court rulings that removed words, shown by Planalto as a struck expression linked to the case.
@@ -566,7 +571,7 @@ def lifespans(paras: list[dict], eff: dict[str, str], effect_override) -> list[s
         for q in paras[i + 1:]:
             if q["unit"] != p["unit"]:
                 break
-            if q["text"] == p["text"] and q["start"] <= p["start"] and q["state"] == "plain":
+            if q["text"].casefold() == p["text"].casefold() and q["start"] <= p["start"] and q["state"] == "plain":
                 p["end"], p["end_law"], p["end_how"] = p["start"], None, "duplicate"
                 break
         if p["end"]:
@@ -645,6 +650,71 @@ def text_on(paras: list[dict], unit: str, day: str) -> str:
 # ---------------------------------------------------------------------------------------------------------------
 
 
+def public_key(k: str, laws: dict[str, dict]) -> str:
+    """Law keys shared with the other Brazil parts (corpus.d/): ec-<n>-<year>, ecr-<n>-<year>."""
+    m = re.match(r"(ec|ecr)-0*(\d+)$", k)
+    if not m:
+        return k
+    return f"{m.group(1)}-{int(m.group(2))}-{laws[k]['enacted'][:4]}"
+
+
+def unit_label(unit: str, lines: list[str]) -> tuple[str, str]:
+    if unit == "preambulo":
+        return "Preâmbulo", "preamble"
+    if unit == "titulos":
+        return "Títulos, capítulos e seções", "heading"
+    if unit == "adct-titulos":
+        return "ADCT: títulos", "heading"
+    lab = next((label_of(l) for l in lines if label_of(l).startswith("Art.")), unit)
+    return (("ADCT " + lab) if unit.startswith("adct-") else lab), ("transitional" if unit.startswith("adct-") else "art")
+
+
+def snapshot(paras: list[dict], day: str) -> dict[str, list[str]]:
+    units: dict[str, list[str]] = {}
+    for p in paras:
+        if p["start"] <= day and (p["end"] is None or day < p["end"]):
+            units.setdefault(p["unit"], []).append(p["text"])
+    return units
+
+
+def compilado_units() -> dict[str, list[str]]:
+    b, _ = raw("cf-compilado")
+    out: dict[str, list[str]] = {}
+    for p in cf_paragraphs(decode(b)):
+        if p["state"] == "struck":
+            continue
+        out.setdefault(p["unit"], []).append(p["plain_text"] if p["state"] == "mixed" else p["text"])
+    return out
+
+
+def build_cf(paras, laws, eff, src_url, src_bytes, docs_date):
+    days = sorted({p["start"] for p in paras} | {p["end"] for p in paras if p["end"]})
+    days = [d for d in days if d >= CF_DATE]
+    versions, prev = [], None
+    sha = hashlib.sha256(src_bytes).hexdigest()
+    for day in days:
+        snap = snapshot(paras, day)
+        texts = {u: "".join(l + "\n" for l in ls) for u, ls in snap.items()}
+        if prev is not None and texts == prev:
+            continue
+        units = {}
+        for u in sorted(texts):
+            lab, kind = unit_label(u, snap[u])
+            units[u] = {"label": lab, "kind": kind, "text": texts[u]}
+        credits = {}
+        if prev is not None:
+            for u in sorted(set(texts) | set(prev)):
+                if texts.get(u) == prev.get(u):
+                    continue
+                who = {p["start_law"] for p in paras if p["unit"] == u and p["start"] == day and p["start_law"]}
+                who |= {p["end_law"] for p in paras if p["unit"] == u and p["end"] == day and p["end_law"]}
+                if who:
+                    credits[u] = sorted(public_key(w, laws) for w in who)
+        versions.append({"from": day, "source_url": src_url, "sha256": sha, "units": units, "credits": credits})
+        prev = texts
+    return versions
+
+
 def main(argv: list[str]) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--stats", action="store_true")
@@ -661,12 +731,131 @@ def main(argv: list[str]) -> int:
         from collections import Counter
         print("paragraphs", len(paras), Counter(p["state"] for p in paras))
         print("units", len({p["unit"] for p in paras}))
-        for p in paras:
-            if p["state"] == "mixed":
-                print("MIXED", p["unit"], p["label"], "| struck:", p["struck_text"][:80], "| plain:", p["plain_text"][:80])
+        print("start", Counter(p["start_how"] for p in paras), "end", Counter(p["end_how"] for p in paras))
         for x in problems:
             print("PROBLEM", x)
         print(len(problems), "problems")
+
+    # check: today's replayed text against Planalto's consolidated page
+    today = snapshot(paras, a.retrieved)
+    comp = compilado_units()
+    mism = []
+    for u in sorted(set(today) | set(comp)):
+        x, y = today.get(u, []), comp.get(u, [])
+        if x != y:
+            mism.append((u, x, y))
+    print(f"check vs constituicaocompilado.htm: {len(mism)} units differ of {len(set(today) | set(comp))}")
+    if a.stats:
+        import difflib
+        for u, x, y in mism[:40]:
+            print("DIFF", u)
+            for l in difflib.unified_diff(y, x, "compilado", "replay", n=0, lineterm=""):
+                if not l.startswith(("---", "+++", "@@")):
+                    print("   ", l[:200])
+
+    versions = build_cf(paras, laws, eff, cf_src, b, a.retrieved)
+    used = {c for v in versions for cs in v["credits"].values() for c in cs}
+    out_laws = {"cf-1988": {
+        "label": "Constituição Federal de 1988",
+        "title": "Constituição da República Federativa do Brasil de 1988",
+        "kind": "law", "enacted": CF_DATE, "published": CF_DATE, "url": CF_URL,
+        "temporary_until": None, "restores": None, "note": None}}
+    for k in sorted(laws):
+        pk = public_key(k, laws)
+        if pk in used:
+            out_laws[pk] = {kk: vv for kk, vv in laws[k].items()}
+    for k, c in COURTS.items():
+        if k in used:
+            out_laws[k] = {kk: c[kk] for kk in ("label", "title", "kind", "enacted", "published", "url")}
+            out_laws[k].update({"temporary_until": None, "restores": None, "note": None})
+    from collections import Counter
+    hows = Counter(p["end_how"] for p in paras if p["end_how"])
+    n_req = sum(1 for _ in (CACHE_LOG.open(encoding="utf-8") if CACHE_LOG.exists() else []))
+    decisions = [
+        "Planalto (www.planalto.gov.br) refuses non-browser clients, so every Planalto page is read from an Internet "
+        "Archive raw capture (web.archive.org/web/<timestamp>id_/<Planalto URL>), byte-for-byte what Planalto served; "
+        "the capture timestamps are pinned in tools/sources.json.",
+        "The Constitution's history is rebuilt from Planalto's annotated page (constituicao.htm), which keeps every "
+        "superseded wording struck through beside its replacement, each with the source's own note ('Redação dada "
+        "pela', 'Incluído pela', 'Revogado pela', 'Renumerado'). Text with no note is the 1988 original.",
+        "A paragraph starts on the in-force day of the amendment in its note; a struck paragraph ends on the in-force "
+        "day of its 'Revogado pela' note, else when the next wording of the same dispositivo in the same article "
+        f"starts. Counts of how struck paragraphs were ended: {dict(sorted(hows.items()))}.",
+        "'parent': a struck paragraph with no note and no later wording is taken to have fallen with the nearest "
+        "struck enclosing dispositivo (for example the items of an article revoked as a whole).",
+        "'duplicate': Planalto sometimes keeps a struck copy of a block next to the same text unstruck (renumbered "
+        "or re-marked); such a struck copy is never shown.",
+        "'renumbered': a struck 'Parágrafo único' followed by an unannotated '§ 1º' became § 1º when an amendment "
+        "added § 2º to the article; the date and credit are those of the § 2º's own 'Incluído pela' note.",
+        "Heading renames that Planalto shows without a note are dated and credited by the amendment whose text "
+        "renames them (checked at parse time): " + "; ".join(f"'{o}' -> '{n}' ({laws[l]['label']})"
+                                                           for o, (l, n) in HEADING_RENAMES.items()) + ".",
+        "EC 126/2022 art. 9 revoked ADCT arts. 106, 107, 109, 110, 111, 111-A, 112 and 114 'após a sanção da lei "
+        "complementar prevista no art. 6º'; that is LC 200/2023, sanctioned 30.8.2023 and published 31.8.2023 "
+        f"(Planalto lcp200.htm), so those revocations are dated {EC126_REVOKED_FROM}.",
+        *[c["why"] for c in COURTS.values()],
+        "'Vide ADI' notes are informational and change no text; only a ruling that Planalto shows as struck words "
+        "is a court law here.",
+        "Future text is not modelled: Planalto shows EC 132/2023's changes that take effect in 2027 and 2033 "
+        "(art. 23) and EC 141/2026's change to art. 7 XV (in force two months after publication) only as 'Vide' "
+        "notes beside the text now in force, so the future branch has no versions yet.",
+        "Units: one file per article (art-NNN, ADCT adct-art-NNN), plus the preamble and one file each for the "
+        "headings of the main text and of the ADCT (titulos, adct-titulos). Each paragraph or item is one line; "
+        "notes are removed; the signatures are left out.",
+        "Typesetting normalised once: NBSP to space, runs of spaces collapsed, curly quotes and en/em dashes to ASCII, "
+        "'Art. 6o' / '§ 2.º' to 'Art. 6º' / '§ 2º', space before punctuation removed. Source typos are kept "
+        "(for example 'III o acesso' without the dash).",
+        *vdec,
+    ]
+    corpus = {
+        "country": {
+            "code": "BR", "name": "Brazil", "slug": "brazil", "lang": "pt", "tz": "America/Sao_Paulo",
+            "future_branch": "futuro",
+            "publisher": {"name": "Presidência da República, Planalto (Legislação)", "email": "legislacao@planalto.invalid"},
+            "default_in_force_rule": {
+                "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: 'Salvo disposição contrária, a lei começa a vigorar em "
+                        "todo o país quarenta e cinco dias depois de oficialmente publicada'; the period is counted "
+                        "under LC 95/1998 art. 8 § 1 (publication day and last day included, in force the day after).",
+                "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"},
+            "licence_note": "Texto oficial: Presidência da República, Casa Civil (planalto.gov.br/legislacao). Atos "
+                            "oficiais não são protegidos por direito autoral (Lei 9.610/1998, art. 8º, IV). Este texto "
+                            "não substitui o publicado no Diário Oficial da União.",
+        },
+        "sources": [
+            {"name": "Planalto, Legislação (via Internet Archive raw captures)",
+             "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+             "retrieved": a.retrieved, "requests": n_req,
+             "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8 IV).",
+             "notes": "Live Planalto blocks non-browser clients; pages read from web.archive.org id_ captures pinned in "
+                      "sources.json. Pages: constituicao.htm (annotated, struck history), constituicaocompilado.htm "
+                      "(check), quadro_emc.htm (amendment dates), emcNN.htm and ecrN.htm (each amendment's vigência "
+                      "clause and renames), lcp200.htm."},
+            {"name": "Supremo Tribunal Federal, case pages", "url": "https://portal.stf.jus.br/",
+             "retrieved": a.retrieved, "requests": 2, "licence": "Official acts (Lei 9.610/1998 art. 8 IV).",
+             "notes": "ADI 7047: decisions and docket tabs, for the ruling and DJE ata dates."},
+        ],
+        "laws": out_laws,
+        "acts": [{
+            "slug": "constituicao",
+            "short": "CF/88",
+            "title": "Constituição da República Federativa do Brasil de 1988",
+            "url": CF_URL,
+            "first_law": "cf-1988",
+            "earlier_laws": [],
+            "versions": versions,
+        }],
+        "applies": [],
+        "decisions": decisions,
+        "ai_use": ["none: no model wrote, translated or summarised legal text; the parser and the hand tables "
+                   "(vigência overrides, heading renames, court ruling) were written by an AI coding agent from the "
+                   "cached official pages, and each hand entry is checked against those pages at parse time."],
+    }
+    if mism:
+        corpus["decisions"].append(f"Check against constituicaocompilado.htm: {len(mism)} units differ; see PROGRESS.md.")
+    tmp = HERE / "corpus.json.tmp"
+    tmp.write_text(json.dumps(corpus, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
+    os.replace(tmp, HERE / "corpus.json")
+    print(f"corpus.json: {len(versions)} CF versions, {len(out_laws)} laws, {len(problems)} problems")
     return 0
 
 
