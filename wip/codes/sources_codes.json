@@ -1,0 +1,24 @@
+{
+ "fetch": [
+  {
+   "id": "cc",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+   "ts": "20261023100105"
+  },
+  {
+   "id": "cc-original",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406.htm",
+   "ts": "20261023154817"
+  },
+  {
+   "id": "lgpd",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+   "ts": "20261023230204"
+  },
+  {
+   "id": "lgpd-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709compilado.htm",
+   "ts": "20261016114939"
+  }
+ ]
+}
