@@ -288,6 +288,13 @@ EXPRESSION_SWAPS: dict[str, list[tuple[str, str]]] = {
 SPLIT_PROBLEMS: list[str] = []
 SPLITS: list[str] = []
 PRINTED_AFTER: list[str] = []
+# Typing slips in the annotated page, where the consolidated page has the plain form: (line start, corrected start,
+# label, where). Only the label words are corrected; the rest of the line is the source's.
+TYPOS: list[tuple[str, str, str, str]] = [
+    ("arágrafo único. A votação continuará", "Parágrafo único. A votação continuará", "Parágrafo único",
+     "Código Eleitoral art. 153: the annotated page prints 'arágrafo único.' (the consolidated page 'Parágrafo único.')"),
+]
+TYPOS_USED: set[str] = set()
 
 
 def court_key(case: str) -> str:
@@ -336,6 +343,11 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
                     "split": ("new", key)})
         SPLITS.append(f"{p['unit']} [{p['label'] or 'heading'}] by {law_label(key) if not key.startswith('stf') else P.COURTS[key]['label']}")
     for p in res:
+        for (start, fixed, label, _) in TYPOS:
+            if p["text"].startswith(start):
+                p["text"] = fixed + p["text"][len(start):]
+                p["label"] = label
+                TYPOS_USED.add(start)
         if KEPT.search(p["text"]):
             p["text"] = P.norm(KEPT.sub("", p["text"]))
             p["kept"] = True
@@ -528,6 +540,7 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
                            for k, v in EXPRESSION_SWAPS.items()) + f". Paragraphs read this way ({len(SPLITS)}): "
                + "; ".join(SPLITS) + "."] if SPLITS else []),
             *[f"{law_label(k)}: {why}." for k, (_, why, _) in PROMULGATED.items()],
+            *[f"Typing slip corrected: {w}." for (a, _, _, w) in TYPOS if a in TYPOS_USED],
             *([f"An unstruck 'Parágrafo único' stays when the '§ 1º' a later law put below it reads only '(VETADO).' "
                f"(the law's renumbering was vetoed; the consolidated page keeps both): " + "; ".join(VETOED_RENUMBER) + "."]
               if VETOED_RENUMBER else []),
