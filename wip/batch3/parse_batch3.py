@@ -368,9 +368,10 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
          "licence": "Public federal portal; bibliographic data of official acts",
          "notes": "One URN page per law (urn:lex:br:federal:<kind>:<date>;<number>); used only to check the DOU day "
                   "printed on the Planalto page."}]
-    if P.COURTS:
+    stf = [c for c in P.COURTS.values() if c["kind"] == "court"]
+    if stf:
         srcs.append({"name": "Supremo Tribunal Federal: case pages of " + ", ".join(c["label"].replace("STF, ", "")
-                                                                                       for c in P.COURTS.values()),
+                                                                                       for c in stf),
                      "url": "https://portal.stf.jus.br/", "retrieved": P.RETRIEVED, "requests": n_stf,
                      "licence": "Public court records",
                      "notes": "Judgment day and the day the judgment record was published in the DJ (abaAndamentos)."})
