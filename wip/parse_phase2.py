@@ -104,10 +104,7 @@ def law_key(text: str, year_of: dict | None = None) -> str | None:
 
 
 # Notes whose printed number is wrong, corrected only where the note's own link names the right act: key -> (key, why).
-LAW_ALIAS = {
-    "lei-15452-2026": ("lei-15352-2026", "one LGPD note reads 'Lei nº 15.452, de 2026' but links to L15352.htm, the "
-                                         "conversion of MP 1.317/2025 that the other notes in the same article cite"),
-}
+LAW_ALIAS = {}
 
 
 def law_label(key: str) -> str:
@@ -148,6 +145,9 @@ class Blocks(HTMLParser):
         if tag in BREAK:
             self.flush()
             if tag == "p":
+                # an <a href> left unclosed (the Código Penal page has one near the top) must not make every later
+                # paragraph a link
+                self.links = []
                 st = (a.get("style") or "").replace(" ", "").lower()
                 self.center = (a.get("align") or "").lower() == "center" or "text-align:center" in st
         if tag in STRIKE:
@@ -394,39 +394,14 @@ def page_info(key: str) -> dict:
 
 
 # Hand-checked in-force days where a law's own clause is staged or not machine-readable: key -> (date, reason).
-VIGENCIA_FIXED: dict[str, tuple[str, str]] = {
-    "lei-12873-2013": ("2013-10-25", "art. 72, III: 'na data de sua publicação quanto aos demais dispositivos' (published "
-                                     "25.10.2013); the change to the Código Civil (art. 1.439) is not among the provisions "
-                                     "items I and II defer"),
-    "lei-13874-2019": ("2019-09-20", "art. 20, II: 'na data de sua publicação, para os demais artigos' (published 20.9.2019; "
-                                     "item I was vetoed)"),
-    "lei-14382-2022": ("2022-06-28", "art. 21, II: 'na data de sua publicação, quanto aos demais dispositivos' (published "
-                                     "28.6.2022); item I defers only the change to Lei 6.015 art. 130"),
-    "mp-1085-2021": ("2021-12-28", "its clause II: 'na data de sua publicação, quanto aos demais dispositivos' (published "
-                                   "28.12.2021); item I defers only the change to Lei 6.015 art. 130"),
-    "lei-14690-2023": ("2024-03-31", "its clause I: 'após decorridos 180 (cento e oitenta) dias de sua publicação oficial, "
-                                     "quanto ao art. 30 desta Lei' - art. 30 is the change to the Código Civil (published "
-                                     "3.10.2023 + 180 days)"),
-    "lei-14711-2023": ("2023-10-31", "its clause II: 'na data de sua publicação, quanto aos demais dispositivos' (published "
-                                     "31.10.2023; item I was vetoed)"),
-}
+VIGENCIA_FIXED: dict[str, tuple[str, str]] = {}
 # Provisions whose in-force day differs from the rest of their law: (law, act, unit) -> (date, reason).
 VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {}
 # The day a lapsed Medida Provisória stopped having effect, from the Ato Declaratório of the President of Congress
 # (CF art. 62 §§ 3, 4, 7 and 11): key -> (date, reason). Filled in after reading each MP page.
 # Vetoed parts later promulgated after Congress overrode the veto (CF art. 66 §§ 5 and 7): law -> (day, reason).
-VETO_PROMULGATION = {
-    "lei-13853-2019": ("2019-12-20", "the parts of Lei 13.853/2019 vetoed on 8.7.2019 were promulgated after Congress "
-                                     "overrode the veto (DOU 20.12.2019, printed on the Lei 13.853 page)"),
-}
-MP_LAPSE: dict[str, tuple[str, str]] = {
-    "mp-700-2015": ("2016-05-18", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 23, de 2016 (DOU "
-                                  "19.5.2016): 'teve seu prazo de vigência encerrado no dia 17 de maio'; the replaced "
-                                  "wording is back from 18.5.2016"),
-    "mp-958-2020": ("2020-08-25", "Congresso Nacional, MPV 958/2020: 'Término do prazo de vigência, em 24 de agosto de 2020' "
-                                  "(DCN 27.8.2020; Ato Declaratório nº 153, de 2020); the revoked article is back from "
-                                  "25.8.2020"),
-}
+VETO_PROMULGATION = {}
+MP_LAPSE: dict[str, tuple[str, str]] = {}
 
 
 def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
@@ -476,7 +451,7 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
             continue
         if zone == "end":
             break
-        if t.startswith("Brasília,") or t.startswith("Este texto não substitui"):
+        if t.startswith(("Brasília,", "Rio de Janeiro,", "Este texto não substitui")):
             zone = "end"
             continue
         if not t:
@@ -879,35 +854,27 @@ def compare(last: dict[str, str], ref: dict[str, str]) -> list[str]:
 # the two acts
 
 ACTS = [
-    {"slug": "codigo-civil", "short": "CC", "page": "cc-original", "consolidated": "cc", "law": "lei-10406-2002",
-     "title": "Código Civil (Lei nº 10.406, de 10 de janeiro de 2002)", "digits": 4,
-     "url": PL + "leis/2002/l10406compilada.htm"},
-    {"slug": "lgpd", "short": "LGPD", "page": "lgpd", "consolidated": "lgpd-compilado", "law": "lei-13709-2018",
-     "title": "Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709, de 14 de agosto de 2018)", "digits": 3,
-     "url": PL + "_ato2015-2018/2018/lei/L13709compilado.htm"},
+    {"slug": "codigo-penal", "short": "CP", "page": "cp", "consolidated": "cp-compilado", "law": "dl-2848-1940",
+     "title": "Código Penal (Decreto-Lei nº 2.848, de 7 de dezembro de 1940)", "digits": 3,
+     "url": PL + "decreto-lei/del2848compilado.htm"},
 ]
 
-# The day each act came into force (its own vigência clause).
+# The day each act came into force (its own vigência clause), and its own law record.
 ACT_DAY = {
-    "lei-10406-2002": ("2003-01-11", "Lei 10.406/2002 art. 2.044: 'Este Código entrará em vigor 1 (um) ano após a sua "
-                                     "publicação' (published 11.1.2002): in force 11.1.2003"),
-    "lei-13709-2018": ("2018-08-15", "Lei 13.709/2018 was published 15.8.2018; only its vigência clause (art. 65) is "
-                                     "taken as in force from publication, every other article by art. 65 as amended "
-                                     "(see the per-article days)"),
+    "dl-2848-1940": ("1942-01-01", "Decreto-Lei 2.848/1940 art. 361: 'Este Código entrará em vigor no dia 1º de janeiro "
+                                   "de 1942' (published in the DOU of 31.12.1940, rectified 3.1.1941)"),
+}
+ACT_LAWS = {
+    "dl-2848-1940": {"label": "Decreto-Lei nº 2.848, de 1940", "title": "Código Penal.", "kind": "decree",
+                     "enacted": "1940-12-07", "published": "1940-12-31", "url": PL + "decreto-lei/del2848.htm",
+                     "temporary_until": None, "restores": None, "note": None},
 }
 
-# LGPD art. 65 (as amended by MP 869/2018, Lei 13.853/2019 and Lei 14.010/2020): the day each article came into force.
-LGPD_EARLY = ["art-055-a", "art-055-b", "art-055-c", "art-055-d", "art-055-e", "art-055-f", "art-055-g", "art-055-h",
-              "art-055-i", "art-055-j", "art-055-k", "art-055-l", "art-058-a", "art-058-b"]
-LGPD_SANCTIONS = ["art-052", "art-053", "art-054"]
-LGPD_GATES = {
-    "early": ("2018-12-28", "mp-869-2018", "art. 65, I (MP 869/2018, then Lei 13.853/2019): in force 28.12.2018 for arts. "
-              "55-A to 55-L, 58-A and 58-B (55-L only from its inclusion by Lei 13.853/2019)"),
-    "sanctions": ("2021-08-01", "lei-14010-2020", "art. 65, I-A (Lei 14.010/2020): in force 1.8.2021 for arts. 52, 53 and 54"),
-    "rest": ("2020-09-18", "lei-13709-2018", "art. 65, II: 24 months after publication (Lei 13.853/2019), postponed to "
-             "3.5.2021 by MP 959/2020 art. 4, which Congress left out when converting it (Lei 14.058/2020, published "
-             "18.9.2020): every other article came into force on 18.9.2020"),
-}
+# Act-specific decisions, printed in REPRODUCE.md (filled in as each act is checked).
+ACT_DECISIONS: list[str] = []
+
+# not used for these acts; kept so the shared replay code runs unchanged
+LGPD_GATES: dict = {}
 
 
 def lgpd_gates(units: list[str]) -> tuple[dict[str, str], dict[str, str]]:
@@ -1025,13 +992,8 @@ def main(argv: list[str]) -> int:
                     "temporary_until": None, "restores": k,
                     "note": f"{law_label(k)} lost effect on {d} without being converted into law ({why}); the wording "
                             f"it had replaced is in force again."}
-    laws["lei-10406-2002"] = {"label": "Lei nº 10.406, de 2002", "title": "Institui o Código Civil.", "kind": "law",
-                              "enacted": "2002-01-10", "published": "2002-01-11", "url": PL + "leis/2002/l10406.htm",
-                              "temporary_until": None, "restores": None, "note": None}
-    laws["lei-13709-2018"] = {"label": "Lei nº 13.709, de 2018", "title": "Lei Geral de Proteção de Dados Pessoais (LGPD).",
-                              "kind": "law", "enacted": "2018-08-14", "published": "2018-08-15",
-                              "url": PL + "_ato2015-2018/2018/lei/l13709.htm", "temporary_until": None, "restores": None,
-                              "note": None}
+    for k, rec in ACT_LAWS.items():
+        laws[k] = dict(rec)
 
     # acts
     acts_out = []
@@ -1127,57 +1089,44 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
     except OSError:
         pass
     part = {
-        "country": COUNTRY,
         "sources": [{
-            "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei 10.406/2002 "
-                    "and Lei 13.709/2018 and of every law their notes cite, read as Internet Archive raw captures",
+            "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of the Phase 2 "
+                    "acts and of every law their notes cite, read as Internet Archive raw captures",
             "url": PL, "retrieved": RETRIEVED, "requests": reqs,
             "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
             "notes": "www.planalto.gov.br blocks non-browser clients ('Acesso Negado'), so every page is the Internet "
                      "Archive raw capture (web.archive.org/web/<ts>id_/<planalto url>), byte-identical to what Planalto "
-                     "served; the capture timestamps are pinned in codes/sources_codes.json."}],
+                     "served; the capture timestamps are pinned in sources_phase2.json."}],
         "laws": laws,
         "acts": acts_out,
         "applies": [],
         "decisions": [
-            "Código Civil and LGPD: each paragraph's life span is read from Planalto's annotated page (l10406.htm, "
-            "l13709.htm): struck wordings stay in place before the wording that replaced them, each closed by the source's "
-            "own note ('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted.",
+            "Phase 2 acts (" + ", ".join(x["title"] for x in ACTS) + "): each paragraph's life span is read from "
+            "Planalto's annotated page of the act (" + ", ".join(sources()[x["page"]]["url"].rsplit("/", 1)[1] for x in ACTS) +
+            "): struck wordings stay in place before the wording that replaced them, each closed by the source's own note "
+            "('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted.",
             "Credits come only from those notes; a changed article with no note naming a law stays uncredited.",
             "A struck wording with no 'Revogado' note ends when the next wording of the same dispositivo (same label in the "
             "same article) starts; a Medida Provisória's wording with no later wording ends on the in-force day of the "
             "law that converted the MP (read from the MP page's 'Convertida na Lei' line).",
-            "Where Planalto repeats an older wording after an MP wording (an MP provision that lapsed or that the "
-            "conversion law dropped), the repeated wording is dated from the day the MP wording ended.",
-            "Revocations by a Medida Provisória that lapsed are gaps: the text is out of force from the MP's day to the "
-            "lapse and back afterwards, credited to a separate '<MP>: vigência encerrada' record that restores it.",
             "Medidas Provisórias are dated by publication (CF art. 62: force of law from publication); laws by their own "
             "vigência clause, else LINDB art. 1 (publication + 45 days).",
-            "Código Civil: in force 2003-01-11 (" + ACT_DAY["lei-10406-2002"][1] + ").",
-            "LGPD: " + ACT_DAY["lei-13709-2018"][1] + ". " + " ".join(f"{why}." for _, _, why in LGPD_GATES.values()) +
-            " Articles not yet in force are absent from the version; when one comes into force it carries the wording "
-            "of that day (including changes made before it was in force) and is credited to the law that set the day "
-            "(Lei 13.709/2018 itself for art. 65 II).",
-            "Headings (Livro, Título, Capítulo, Seção) are kept in one file per act, titulos.md, one line each; a note "
-            "standing alone after a heading is given to the heading lines just before it.",
+            *[f"{x['title']}: in force {ACT_DAY[x['law']][0]} ({ACT_DAY[x['law']][1]})." for x in ACTS],
+            "Headings (Parte, Título, Capítulo, Seção) and the marginal headings (rubricas) are kept in one file per act, "
+            "titulos.md, one line each; a note standing alone after a heading is given to the heading lines just before it.",
             "Text normalised once: NBSP to space, runs of spaces collapsed, curly quotes and dashes made plain, 'Art. 1o' "
             "written 'Art. 1º'; Planalto's link words ('Vigência', 'Produção de efeitos') and 'Vide' notes are dropped.",
-            "Código Civil replay check: every remaining difference from l10406compilada.htm is a difference between "
-            "Planalto's two pages, not a replay error: typing slips in the annotated page that the history is read from "
-            "('i ncisos' in arts. 1.559 and 1.645, 'co nvocada' in art. 1.341, 'nstalada' in art. 1.078, '§ 3º o A' in "
-            "art. 204, a stray '(' in art. 1.734 and ')' in art. 2.031, ':' for '.' in art. 1.583 § 2º); a missing 'º' "
-            "in the consolidated page (art. 66 § 1º); two headings set in capitals there ('DAS ASSOCIAÇÕES', 'DAS "
-            "FUNDAÇÕES'); and Título I-A (EIRELI), which the consolidated page still prints although the annotated "
-            "page marks it revoked by MP 1.085/2021 and Lei 14.382/2022. The annotated text is kept as Planalto prints it.",
-            "The consolidated pages print a revoked dispositivo as its bare label ('Art. 757.', 'Art. 1.620. a "
-            "1.629.'); the check ignores those label-only lines, and the history leaves revoked text out.",
+            "The consolidated pages print a revoked dispositivo as its bare label ('Art. 757.'); the check ignores those "
+            "label-only lines, and the history leaves revoked text out.",
+            *ACT_DECISIONS,
         ] + decisions + mpn + vig_notes + ([
             "Laws with no vigência clause of their own are dated by LINDB art. 1 (publication + 45 days): " + "; ".join(lindb) + "."
         ] if lindb else []) + [
             f"Replay check, {act}: the last version differs from Planalto's consolidated page in {len(d)} articles" +
             (": " + "; ".join(d) if d else ".") for act, d in checks.items()
         ] + ([f"Open problems in the replay ({len(problems)}): " + "; ".join(problems[:40])] if problems else []),
-        "ai_use": ["Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote fetch_codes.py and parse_codes.py and the hand "
+        "ai_use": ["Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote fetch_phase2.py and parse_phase2.py (adapted from "
+                   "the helper's codes/fetch_codes.py and codes/parse_codes.py) and the hand "
                    "tables in them (vigência days, MP lapse days) from the official pages. No model wrote, summarised or "
                    "changed legal text; no model runs at data-build or git-build time."],
     }

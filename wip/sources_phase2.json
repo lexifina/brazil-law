@@ -24,6 +24,41 @@
    "id": "clt-compilado",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
    "ts": "20261019225805"
+  },
+  {
+   "id": "law:dl-385-1968",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del0385.htm",
+   "ts": "20261004075449"
+  },
+  {
+   "id": "law:lc-225-2026",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/LCP/Lcp225.htm",
+   "ts": "20261020194533"
+  },
+  {
+   "id": "law:lei-10028-2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L10028.htm",
+   "ts": "20261015040847"
+  },
+  {
+   "id": "law:lei-10268-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/LEIS_2001/L10268.htm",
+   "ts": "20261008092354"
+  },
+  {
+   "id": "law:lei-10446-2002",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/2002/L10446.htm",
+   "ts": "20261007150459"
+  },
+  {
+   "id": "law:lei-10467-2002",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/2002/L10467.htm",
+   "ts": "20261011174936"
+  },
+  {
+   "id": "law:lei-10695-2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/2003/L10.695.htm",
+   "ts": "20261019115112"
   }
  ]
 }
