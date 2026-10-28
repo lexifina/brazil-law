@@ -406,18 +406,24 @@ HEADING_RENAMES = {
 COURTS = {
     "stf-adi-7047": {
         "label": "STF, ADI 7047 (with ADI 7064)",
-        "title": "Ação direta de inconstitucionalidade 7047: parcialmente procedente; interpretação conforme ao art. 100, "
-                 "§ 11, para excluir a expressão \"com auto aplicabilidade para a União\" (redação da EC 113/2021)",
+        "title": "Ação direta de inconstitucionalidade 7047: parcialmente procedente; declara inconstitucionais o art. 100, "
+                 "§ 9º, da Constituição e o art. 101, § 5º, do ADCT (redação da EC 113/2021) e dá interpretação conforme "
+                 "ao art. 100, § 11, para excluir a expressão \"com auto aplicabilidade para a União\"",
         "kind": "court",
         "enacted": "2023-11-30",
         "published": "2023-12-04",
         "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6318731",
         "from": "2023-12-04",
         "where": [("art-100", "§ 11")],
+        # provisions the ruling declared unconstitutional whose words Planalto leaves in place (Words-changed: no)
+        "concerns": ["adct-art-101"],
         "why": "STF judged ADI 7047 (with ADI 7064) in the virtual session of 30.11.2023 and excluded the expression "
                "'com auto aplicabilidade para a União' from art. 100 § 11 (EC 113/2021 wording); the minutes (ata de "
                "julgamento) were published in the DJE on 04.12.2023, the day the ruling binds all (STF portal, case "
-               "tabs Decisões and Andamentos, cached). Planalto shows the expression struck, linked to the case.",
+               "tabs Decisões and Andamentos, cached). Planalto shows the expression struck, linked to the case. The "
+               "same ruling declared art. 100 § 9º and ADCT art. 101 § 5º (EC 113/2021 wording) unconstitutional, "
+               "but Planalto leaves their words in place with a 'Vide ADI' note, so the ruling is credited to ADCT "
+               "art. 101 with its words unchanged, and art. 100 § 9º keeps its words.",
     },
 }
 
@@ -560,6 +566,28 @@ def lifespans(paras: list[dict], eff: dict[str, str], effect_override) -> list[s
         if p.get("force_end"):
             p["end"], p["end_law"], p["end_how"] = (*p["force_end"], "court")
 
+    # a line with no note in an article that did not exist in 1988 (every caput of the unit has a later start) is
+    # dated by the article's first caput: Planalto sometimes leaves one item of an inserted article without its note
+    by_unit: dict[str, list[dict]] = {}
+    for p in paras:
+        by_unit.setdefault(p["unit"], []).append(p)
+    for unit, ps in by_unit.items():
+        caps = [p for p in ps if p["label"].startswith("Art.")]
+        if caps and all(p["start"] > CF_DATE for p in caps):
+            first = min(caps, key=lambda p: p["start"])
+            for p in ps:
+                if p["start_how"] == "original":
+                    p["start"], p["start_law"], p["start_how"] = first["start"], first["start_law"], "article"
+
+    # the same text inserted by two amendments on the same day (art. 246 by EC 6 and EC 7) is one line, credited to both
+    seen: dict[tuple, dict] = {}
+    for p in paras:
+        k = (p["unit"], p["text"], p["start"], p["end"], p["state"])
+        if k in seen and p["start_law"] != seen[k]["start_law"]:
+            p["end"], p["end_how"] = p["start"], "same-day-twin"
+        else:
+            seen.setdefault(k, p)
+
     # headings renamed by an amendment that Planalto shows without a note (HEADING_RENAMES, checked against the
     # amendment's own text)
     for i, p in enumerate(paras):
@@ -613,7 +641,7 @@ def lifespans(paras: list[dict], eff: dict[str, str], effect_override) -> list[s
             # § 2º to the article (the § 2º carries the source's own "Incluído pela" note)
             unit = [q for q in paras if q["unit"] == p["unit"]]
             s1 = next((q for q in unit[unit.index(p) + 1:] if q["label"] == "§ 1º" and q["state"] == "plain"
-                       and q["start_how"] == "original"), None)
+                       and q["start_how"] in ("original", "article") and q["start"] <= p["start"]), None)
             s2 = sorted((q["start"], q["start_law"]) for q in unit
                         if q["label"] == "§ 2º" and q["start"] > p["start"] and q["start_law"])
             if s1 is not None and s2:
@@ -720,9 +748,27 @@ def build_cf(paras, laws, eff, src_url, src_bytes, docs_date):
                 who |= {p["end_law"] for p in paras if p["unit"] == u and p["end"] == day and p["end_law"]}
                 if who:
                     credits[u] = sorted(public_key(w, laws) for w in who)
+            for k, c in COURTS.items():
+                if c["from"] == day:
+                    for u in c.get("concerns", []):
+                        credits[u] = sorted(set(credits.get(u, [])) | {k})
         versions.append({"from": day, "source_url": src_url, "sha256": sha, "units": units, "credits": credits})
         prev = texts
     return versions
+
+
+def diff_summary(unit: str, comp: list[str], ours: list[str]) -> str:
+    """One short description of how a unit differs between the consolidated page and the replay."""
+    import difflib
+    a, b = "\n".join(comp), "\n".join(ours)
+    parts = []
+    for op, i1, i2, j1, j2 in difflib.SequenceMatcher(None, a, b, autojunk=False).get_opcodes():
+        if op == "equal":
+            continue
+        x, y = a[max(0, i1 - 12):i2 + 12].replace("\n", " / "), b[max(0, j1 - 12):j2 + 12].replace("\n", " / ")
+        parts.append(f"'{x[:70]}' vs '{y[:70]}'")
+    more = f" (+{len(parts) - 2} more)" if len(parts) > 2 else ""
+    return f"{unit}: " + ", ".join(parts[:2]) + more
 
 
 def main(argv: list[str]) -> int:
@@ -760,6 +806,7 @@ def main(argv: list[str]) -> int:
     comp = {u: ls for u, ls in comp.items() if ls}
     mism = [(u, today.get(u, []), comp.get(u, [])) for u in sorted(set(today) | set(comp))
             if today.get(u, []) != comp.get(u, [])]
+    today_units = set(today) | set(comp)
     print(f"check vs constituicaocompilado.htm: {len(mism)} units differ of {len(set(today) | set(comp))}")
     if a.stats:
         import difflib
@@ -786,7 +833,11 @@ def main(argv: list[str]) -> int:
             out_laws[k].update({"temporary_until": None, "restores": None, "note": None})
     from collections import Counter
     hows = Counter(p["end_how"] for p in paras if p["end_how"])
-    n_req = sum(1 for _ in (CACHE_LOG.open(encoding="utf-8") if CACHE_LOG.exists() else []))
+    # requests made for the pages this act reads (the cache is shared with the codes part, so not the whole log)
+    mine = {fetch.wayback(s["url"], s["ts"]) for k, s in sources().items()
+            if s.get("ts") and re.match(r"(cf|cf-compilado|quadro-emc|emc-\d+|ecr-\d+|lcp-200)$", k)}
+    n_req = sum(1 for line in (CACHE_LOG.open(encoding="utf-8") if CACHE_LOG.exists() else [])
+                if json.loads(line)["url"] in mine)
     decisions = [
         "Planalto (www.planalto.gov.br) refuses non-browser clients, so every Planalto page is read from an Internet "
         "Archive raw capture (web.archive.org/web/<timestamp>id_/<Planalto URL>), byte-for-byte what Planalto served; "
@@ -803,6 +854,10 @@ def main(argv: list[str]) -> int:
         "or re-marked); such a struck copy is never shown.",
         "'renumbered': a struck 'Parágrafo único' followed by an unannotated '§ 1º' became § 1º when an amendment "
         "added § 2º to the article; the date and credit are those of the § 2º's own 'Incluído pela' note.",
+        "A line with no note inside an article that did not exist in 1988 (every caput of the article carries an "
+        "amendment note) is dated and credited by the article's first caput (one line: ADCT art. 126 I).",
+        "Art. 246 was inserted, word for word, by both EC 6/1995 and EC 7/1995 on the same day; Planalto shows it "
+        "twice. It is one line, credited to both.",
         "Heading renames that Planalto shows without a note are dated and credited by the amendment whose text "
         "renames them (checked at parse time): " + "; ".join(f"'{o}' -> '{n}' ({laws[l]['label']})"
                                                            for o, (l, n) in HEADING_RENAMES.items()) + ".",
@@ -867,7 +922,12 @@ def main(argv: list[str]) -> int:
                    "cached official pages, and each hand entry is checked against those pages at parse time."],
     }
     if mism:
-        corpus["decisions"].append(f"Check against constituicaocompilado.htm: {len(mism)} units differ; see PROGRESS.md.")
+        corpus["decisions"].append(
+            f"Check of today's replayed text against Planalto's consolidated page (constituicaocompilado.htm, "
+            f"capture {sources()['cf-compilado']['ts']}), after the same normalisation and leaving out the "
+            f"consolidated page's bare placeholders for revoked provisions: {len(today_units) - len(mism)} of "
+            f"{len(today_units)} units are identical; {len(mism)} differ only where the two official pages are "
+            f"typeset differently (annotated page shown second): " + "; ".join(diff_summary(u, y, x) for u, x, y in mism) + ".")
     tmp = HERE / "corpus.json.tmp"
     tmp.write_text(json.dumps(corpus, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
     os.replace(tmp, HERE / "corpus.json")

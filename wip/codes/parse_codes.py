@@ -83,7 +83,7 @@ def decode(b: bytes) -> str:
 # law references in notes
 
 LAW_REF = re.compile(
-    r"(Lei\s+Complementar|Lei|Medida\s+Provis[óo]ria|Decreto[-\s]?[Ll]ei)\s*(?:n[º°o]?\s*\.?|n\.)?\s*"
+    r"(Lei\s+Complementar|Lei|Medida\s+Provis[óo]ria|Decreto[-\s]?[Ll]ei)\s*(?:n\s*[º°o]?\s*\.?|n\.)?\s*"
     r"(\d{1,2}(?:\.\s?\d{3})+|\d+)(?:[-\s]*[A-Z](?![a-z]))?(?:\s*\.)?(?:\s*,)?(?:\s*de\s+(\d{1,2}º?\s*[./]\s*\d{1,2}\s*[./]\s*(\d{4})|"
     r"\d{1,2}º?\s+de\s+\w+\s+de\s+(\d{4})|(\d{4})))?", re.I)
 
@@ -128,6 +128,7 @@ class Blocks(HTMLParser):
         self.links: list[bool] = []
         self.skip = 0
         self.center = False
+        self.spans: list[bool] = []
 
     def flush(self) -> None:
         if any(s.strip() for s, _, _ in self.cur):
@@ -145,6 +146,11 @@ class Blocks(HTMLParser):
                 self.center = (a.get("align") or "").lower() == "center" or "text-align:center" in st
         if tag in STRIKE:
             self.strike += 1
+        if tag in ("span", "font"):
+            # Planalto also strikes text with CSS: <span style="text-decoration:line-through">
+            lt = "line-through" in (a.get("style") or "").lower()
+            self.spans.append(lt)
+            self.strike += lt
         if tag == "a":
             self.links.append(bool(a.get("href")))
 
@@ -155,6 +161,8 @@ class Blocks(HTMLParser):
             self.flush()
         if tag in STRIKE:
             self.strike = max(0, self.strike - 1)
+        if tag in ("span", "font") and self.spans:
+            self.strike = max(0, self.strike - self.spans.pop())
         if tag == "a" and self.links:
             self.links.pop()
 
@@ -343,7 +351,7 @@ def page_info(key: str) -> dict:
     body = re.sub(r"(?is)<script.*?</script>|<style.*?</style>|<strike>.*?</strike>", " ", t)
     x = norm(htmlmod.unescape(re.sub(r"<[^>]+>", " ", body)))
     info: dict = {"source_url": u, "sha256": hashlib.sha256(b).hexdigest()}
-    m = re.search(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI)[^,]{0,40}?N[º°O]?\s*\.?\s*[\d.]+\s*,\s*DE\s+(\d{1,2})º?\s+DE\s+(\w+)\s+DE\s+(\d{4})",
+    m = re.search(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI)[^,]{0,40}?N[º°O]?\s*\.?\s*[\d.]+\s*,?\s*DE\s+(\d{1,2})º?\s+DE\s+(\w+)\s+DE\s+(\d{4})",
                   head, re.I)
     if m and m.group(2).lower() in MONTHS:
         info["enacted"] = f"{int(m.group(3)):04d}-{MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
@@ -377,12 +385,34 @@ def page_info(key: str) -> dict:
 
 
 # Hand-checked in-force days where a law's own clause is staged or not machine-readable: key -> (date, reason).
-VIGENCIA_FIXED: dict[str, tuple[str, str]] = {}
+VIGENCIA_FIXED: dict[str, tuple[str, str]] = {
+    "lei-12873-2013": ("2013-10-25", "art. 72, III: 'na data de sua publicação quanto aos demais dispositivos' (published "
+                                     "25.10.2013); the change to the Código Civil (art. 1.439) is not among the provisions "
+                                     "items I and II defer"),
+    "lei-13874-2019": ("2019-09-20", "art. 20, II: 'na data de sua publicação, para os demais artigos' (published 20.9.2019; "
+                                     "item I was vetoed)"),
+    "lei-14382-2022": ("2022-06-28", "art. 21, II: 'na data de sua publicação, quanto aos demais dispositivos' (published "
+                                     "28.6.2022); item I defers only the change to Lei 6.015 art. 130"),
+    "mp-1085-2021": ("2021-12-28", "its clause II: 'na data de sua publicação, quanto aos demais dispositivos' (published "
+                                   "28.12.2021); item I defers only the change to Lei 6.015 art. 130"),
+    "lei-14690-2023": ("2024-03-31", "its clause I: 'após decorridos 180 (cento e oitenta) dias de sua publicação oficial, "
+                                     "quanto ao art. 30 desta Lei' - art. 30 is the change to the Código Civil (published "
+                                     "3.10.2023 + 180 days)"),
+    "lei-14711-2023": ("2023-10-31", "its clause II: 'na data de sua publicação, quanto aos demais dispositivos' (published "
+                                     "31.10.2023; item I was vetoed)"),
+}
 # Provisions whose in-force day differs from the rest of their law: (law, act, unit) -> (date, reason).
 VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {}
 # The day a lapsed Medida Provisória stopped having effect, from the Ato Declaratório of the President of Congress
 # (CF art. 62 §§ 3, 4, 7 and 11): key -> (date, reason). Filled in after reading each MP page.
-MP_LAPSE: dict[str, tuple[str, str]] = {}
+MP_LAPSE: dict[str, tuple[str, str]] = {
+    "mp-700-2015": ("2016-05-18", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 23, de 2016 (DOU "
+                                  "19.5.2016): 'teve seu prazo de vigência encerrado no dia 17 de maio'; the replaced "
+                                  "wording is back from 18.5.2016"),
+    "mp-958-2020": ("2020-08-25", "Congresso Nacional, MPV 958/2020: 'Término do prazo de vigência, em 24 de agosto de 2020' "
+                                  "(DCN 27.8.2020; Ato Declaratório nº 153, de 2020); the revoked article is back from "
+                                  "25.8.2020"),
+}
 
 
 def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
@@ -399,15 +429,17 @@ def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
         return plus_days(pub, 45), f"no vigência clause: LINDB art. 1, published {pub} + 45 days"
     if re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+na\s+data\s+d[ae]\s+sua\s+publica", cl, re.I):
         return pub, f"own clause 'entra em vigor na data de sua publicação' (published {pub})"
-    m = re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+(?:ap[óo]s\s+decorrid[oa]s\s+|ap[óo]s\s+)?(\d+)\s*\(([^)]+)\)\s*(dias|meses|m[êe]s|anos?)\s+"
-                  r"(?:ap[óo]s\s+|de\s+|da\s+data\s+de\s+|contados\s+da\s+data\s+de\s+|a\s+partir\s+da\s+data\s+de\s+)?(?:a\s+data\s+de\s+)?(?:sua|da\s+sua)\s+publica",
+    m = re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+(?:ap[óo]s\s+decorrid[oa]s?\s+|ap[óo]s\s+)?(\d+)\s*\(([^)]+)\)\s*(dias|meses|m[êe]s|anos?)\s+"
+                  r"(?:ap[óo]s\s+|de\s+|da\s+|contados\s+da\s+|a\s+partir\s+da\s+)?(?:a\s+)?(?:data\s+de\s+|data\s+da\s+)?(?:sua|da\s+sua)\s+publica",
                   cl, re.I)
     if m:
         n, unit = int(m.group(1)), m.group(3).lower()
         if unit == "dias":
             return plus_days(pub, n), f"own clause: {n} days after publication ({pub}; LC 95/1998 art. 8 § 1)"
         months = n * 12 if unit.startswith("ano") else n
-        return plus_months(pub, months), f"own clause: {n} {unit} after publication ({pub})"
+        return (plus_days(plus_months(pub, months), 1),
+                f"own clause: {n} {unit} after publication ({pub}); the period ends on the same calendar day and the "
+                f"law is in force the day after (LC 95/1998 art. 8 § 1, as the STJ applied it to the CPC, in force 18.3.2016)")
     return None, f"unhandled clause: {cl[:300]}"
 
 
@@ -604,8 +636,7 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
 
 def same_slot(p: dict, q: dict) -> bool:
     if p["heading"] or q["heading"]:
-        return p["heading"] and q["heading"] and bool(p["label"]) and p["label"].split()[0] == q["label"].split()[0] \
-            and p["label"] == q["label"]
+        return p["heading"] and q["heading"] and bool(p["label"]) and p["label"] == q["label"]
     return (q["label"] == p["label"] or (q["renum_from"] and q["renum_from"][0] == p["label"])
             or (p["label"] == "Parágrafo único" and q["label"] == "§ 1º"))
 
@@ -736,12 +767,16 @@ def unit_label(u: str, ps: list[dict]) -> str:
 # check against Planalto's consolidated page
 
 
+BARE_LABEL = re.compile(r"^(?:Art\. [\d.]+º?(?:-[A-Z]{1,2})?\.?|§ \d+º?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])? -|[a-z]\))$")
+
+
 def consolidated(ident: str, digits: int) -> dict[str, str]:
     b, _ = raw(ident)
     paras, _ = paragraphs(decode(b), digits)
     out: dict[str, list[str]] = {}
     for p in paras:
-        if p["state"] == "plain" and p["text"]:
+        # the consolidated page keeps a revoked dispositivo as its bare label ("Art. 757.", "III -"): not text
+        if p["state"] == "plain" and p["text"] and not BARE_LABEL.match(p["text"]):
             out.setdefault(p["unit"], []).append(p["text"])
     return {u: "".join(l + "\n" for l in ls) for u, ls in out.items()}
 
@@ -760,3 +795,288 @@ def compare(last: dict[str, str], ref: dict[str, str]) -> list[str]:
         d = [x for x in difflib.unified_diff(bl, al, lineterm="", n=0) if not x.startswith(("---", "+++", "@@"))]
         diffs.append(f"{u}: " + " | ".join(x[:160] for x in d[:6]))
     return diffs
+
+
+# ---------------------------------------------------------------------------------------------------------------
+# the two acts
+
+ACTS = [
+    {"slug": "codigo-civil", "short": "CC", "page": "cc-original", "consolidated": "cc", "law": "lei-10406-2002",
+     "title": "Código Civil (Lei nº 10.406, de 10 de janeiro de 2002)", "digits": 4,
+     "url": PL + "leis/2002/l10406compilada.htm"},
+    {"slug": "lgpd", "short": "LGPD", "page": "lgpd", "consolidated": "lgpd-compilado", "law": "lei-13709-2018",
+     "title": "Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709, de 14 de agosto de 2018)", "digits": 3,
+     "url": PL + "_ato2015-2018/2018/lei/L13709compilado.htm"},
+]
+
+# The day each act came into force (its own vigência clause).
+ACT_DAY = {
+    "lei-10406-2002": ("2003-01-11", "Lei 10.406/2002 art. 2.044: 'Este Código entrará em vigor 1 (um) ano após a sua "
+                                     "publicação' (published 11.1.2002): in force 11.1.2003"),
+    "lei-13709-2018": ("2018-08-15", "Lei 13.709/2018 was published 15.8.2018; only its vigência clause (art. 65) is "
+                                     "taken as in force from publication, every other article by art. 65 as amended "
+                                     "(see the per-article days)"),
+}
+
+# LGPD art. 65 (as amended by MP 869/2018, Lei 13.853/2019 and Lei 14.010/2020): the day each article came into force.
+LGPD_EARLY = ["art-055-a", "art-055-b", "art-055-c", "art-055-d", "art-055-e", "art-055-f", "art-055-g", "art-055-h",
+              "art-055-i", "art-055-j", "art-055-k", "art-055-l", "art-058-a", "art-058-b"]
+LGPD_SANCTIONS = ["art-052", "art-053", "art-054"]
+LGPD_GATES = {
+    "early": ("2018-12-28", "mp-869-2018", "art. 65, I (MP 869/2018, then Lei 13.853/2019): in force 28.12.2018 for arts. "
+              "55-A to 55-L, 58-A and 58-B (55-L only from its inclusion by Lei 13.853/2019)"),
+    "sanctions": ("2021-08-01", "lei-14010-2020", "art. 65, I-A (Lei 14.010/2020): in force 1.8.2021 for arts. 52, 53 and 54"),
+    "rest": ("2020-09-18", "lei-13709-2018", "art. 65, II: 24 months after publication (Lei 13.853/2019), postponed to "
+             "3.5.2021 by MP 959/2020 art. 4, which Congress left out when converting it (Lei 14.058/2020, published "
+             "18.9.2020): every other article came into force on 18.9.2020"),
+}
+
+
+def lgpd_gates(units: list[str]) -> tuple[dict[str, str], dict[str, str]]:
+    gate, law = {}, {}
+    for u in units:
+        if u in ("art-065", "preambulo"):
+            continue
+        g = "early" if u in LGPD_EARLY else "sanctions" if u in LGPD_SANCTIONS else "rest"
+        gate[u], law[u] = LGPD_GATES[g][0], LGPD_GATES[g][1]
+    return gate, law
+
+
+def note_laws(paras: list[dict]) -> set[str]:
+    out = set()
+    for p in paras:
+        for n in p["notes"]:
+            if START_KIND.search(n) or END_KIND.search(n):
+                k = law_key(n)
+                if k:
+                    out.add(k)
+    return out
+
+
+def main(argv: list[str]) -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--stats", action="store_true")
+    ap.add_argument("--dry", action="store_true", help="do not write corpus.d/50-codes.json")
+    a = ap.parse_args(argv)
+    problems: list[str] = []
+    decisions: list[str] = []
+
+    # paragraphs of each act
+    parsed = {}
+    for act in ACTS:
+        b, src = raw(act["page"])
+        paras, _ = paragraphs(decode(b), act["digits"])
+        parsed[act["slug"]] = (paras, src, hashlib.sha256(b).hexdigest())
+
+    # every law a start/end note names, and the conversion laws of the MPs among them
+    keys = set()
+    for paras, _, _ in parsed.values():
+        keys |= note_laws(paras)
+    years = {k.rsplit("-", 1)[0]: k.rsplit("-", 1)[1] for k in keys}
+    infos = {k: page_info(k) for k in sorted(keys)}
+    for k in sorted(keys):
+        if k.startswith("mp-") and infos[k].get("converted"):
+            c = infos[k]["converted"]
+            if c not in infos:
+                infos[c] = page_info(c)
+    eff: dict[str, str] = {}
+    vig_notes = []
+    lindb = []
+    for k, info in sorted(infos.items()):
+        if not info:
+            problems.append(f"law {k}: page not cached")
+            continue
+        d, why = vigencia_of(k, info)
+        if not d:
+            problems.append(f"law {k}: {why}")
+            continue
+        eff[k] = d
+        if "LINDB" in why:
+            lindb.append(f"{law_label(k)} ({info.get('published')} -> {d})")
+        elif k in VIGENCIA_FIXED or "after publication" in why:
+            vig_notes.append(f"{law_label(k)}: in force {d}, {why}.")
+    for k, (d, why) in ACT_DAY.items():
+        eff[k] = d
+    # Medidas Provisórias: converted (the conversion law's day ends the MP wording) or lapsed
+    mp: dict = {"_years": years}
+    lapse_key: dict[str, str] = {}
+    for k, info in sorted(infos.items()):
+        if not k.startswith("mp-") or not info:
+            continue
+        fate = {}
+        if info.get("converted") and info["converted"] in eff:
+            fate = {"converted": info["converted"], "converted_on": eff[info["converted"]]}
+        elif k in MP_LAPSE:
+            fate = {"lapsed_on": MP_LAPSE[k][0]}
+            lapse_key[k] = k + "-fim"
+        else:
+            problems.append(f"{k}: neither converted nor a known lapse ({ {x: info.get(x) for x in ('converted', 'lapsed', 'rejected')} })")
+        mp[k] = fate
+
+    # laws
+    laws: dict[str, dict] = {}
+
+    def add_law(k: str, **over) -> None:
+        info = infos.get(k) or {}
+        laws[k] = {"label": law_label(k), "title": info.get("title") or "", "kind": "law",
+                   "enacted": info.get("enacted"), "published": info.get("published"),
+                   "url": (sources().get("law:" + k) or {}).get("url"), "temporary_until": None, "restores": None,
+                   "note": None, **over}
+
+    for k in sorted(eff):
+        if k in ACT_DAY:
+            continue
+        add_law(k)
+        if k in lapse_key:
+            laws[k]["temporary_until"] = MP_LAPSE[k][0]
+    for k, lk in sorted(lapse_key.items()):
+        d, why = MP_LAPSE[k]
+        laws[lk] = {"label": f"{law_label(k)}: vigência encerrada", "title": f"{law_label(k)} lost effect without "
+                    f"conversion into law", "kind": "law", "enacted": d, "published": d, "url": laws[k]["url"],
+                    "temporary_until": None, "restores": k,
+                    "note": f"{law_label(k)} lost effect on {d} without being converted into law ({why}); the wording "
+                            f"it had replaced is in force again."}
+    laws["lei-10406-2002"] = {"label": "Lei nº 10.406, de 2002", "title": "Institui o Código Civil.", "kind": "law",
+                              "enacted": "2002-01-10", "published": "2002-01-11", "url": PL + "leis/2002/l10406.htm",
+                              "temporary_until": None, "restores": None, "note": None}
+    laws["lei-13709-2018"] = {"label": "Lei nº 13.709, de 2018", "title": "Lei Geral de Proteção de Dados Pessoais (LGPD).",
+                              "kind": "law", "enacted": "2018-08-14", "published": "2018-08-15",
+                              "url": PL + "_ato2015-2018/2018/lei/l13709.htm", "temporary_until": None, "restores": None,
+                              "note": None}
+
+    # acts
+    acts_out = []
+    checks = {}
+    for act in ACTS:
+        paras, src, sha = parsed[act["slug"]]
+        act_day = ACT_DAY[act["law"]][0]
+        cx = Ctx(act_day, eff, mp, lapse_key, act["slug"])
+        pr = lifespans(paras, cx)
+        problems += [f"{act['short']}: {x}" for x in pr]
+        units = list(dict.fromkeys(p["unit"] for p in paras))
+        if act["slug"] == "lgpd":
+            gate, gate_law = lgpd_gates(units)
+        else:
+            gate, gate_law = {}, {}
+        versions = build_act(paras, act_day, gate, gate_law, unit_label)
+        for v in versions:
+            v["source_url"] = src
+            v["sha256"] = sha
+        acts_out.append({"slug": act["slug"], "short": act["short"], "title": act["title"], "url": act["url"],
+                         "first_law": act["law"], "earlier_laws": [], "versions": versions})
+        ref = consolidated(act["consolidated"], act["digits"])
+        diffs = compare(versions[-1]["units"] and {u: x["text"] for u, x in versions[-1]["units"].items()}, ref)
+        checks[act["slug"]] = diffs
+        if a.stats:
+            from collections import Counter
+            print(act["short"], "paragraphs", len(paras), Counter(p["state"] for p in paras), "units", len(units),
+                  "versions", len(versions))
+            print("  end_how", Counter(p["end_how"] for p in paras if p["state"] != "plain"))
+            for p in paras:
+                if p["state"] == "mixed":
+                    print("  MIXED", p["unit"], p["label"], "| struck:", p["struck_text"][:70], "| plain:", p["plain_text"][:70])
+            for d in diffs:
+                print("  DIFF", d)
+            print(" ", len(diffs), "units differ from the consolidated page")
+    for x in problems:
+        print("PROBLEM", x)
+    print(len(problems), "problems")
+    if a.dry:
+        return 0
+    # ... corpus part written below
+    return write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems)
+
+
+COUNTRY = {
+    "code": "BR", "name": "Brazil", "slug": "brazil", "lang": "pt", "tz": "America/Sao_Paulo", "future_branch": "futuro",
+    "publisher": {"name": "Presidência da República, Planalto (Legislação)", "email": "planalto@planalto.gov.br.invalid"},
+    "default_in_force_rule": {
+        "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law is in force throughout the "
+                "country 45 days after its official publication (counted under LC 95/1998 art. 8 § 1)",
+        "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"},
+    "licence_note": "Texto de legislação federal: Presidência da República, Casa Civil, Subchefia para Assuntos "
+                    "Jurídicos (www.planalto.gov.br/ccivil_03). Official acts are not protected by copyright (Lei "
+                    "9.610/1998 art. 8, IV). 'Este texto não substitui o publicado no DOU.'",
+}
+
+
+def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems) -> int:
+    used = set()
+    for act in acts_out:
+        used.add(act["first_law"])
+        for v in act["versions"]:
+            for ls in v["credits"].values():
+                used |= set(ls)
+    for k in list(used):
+        if laws.get(k, {}).get("restores"):
+            used.add(laws[k]["restores"])
+    laws = {k: laws[k] for k in sorted(used) if k in laws}
+    src = sources()
+    reqs = 0
+    mine = {fetch.wayback(i["url"], i["ts"]) for i in src.values() if i.get("ts")}
+    mine_cdx = {i["url"].split("://", 1)[1] for i in src.values()}
+    try:
+        for line in (fetch.LOG).read_text(encoding="utf-8").splitlines():
+            u = json.loads(line)["url"]
+            if u in mine or any(urlq in u for urlq in []) or ("cdx/search" in u and any(
+                    re.sub(r"%2F", "/", u).find(c.split("www.", 1)[-1]) >= 0 for c in mine_cdx)):
+                reqs += 1
+    except OSError:
+        pass
+    part = {
+        "country": COUNTRY,
+        "sources": [{
+            "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei 10.406/2002 "
+                    "and Lei 13.709/2018 and of every law their notes cite, read as Internet Archive raw captures",
+            "url": PL, "retrieved": RETRIEVED, "requests": reqs,
+            "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
+            "notes": "www.planalto.gov.br blocks non-browser clients ('Acesso Negado'), so every page is the Internet "
+                     "Archive raw capture (web.archive.org/web/<ts>id_/<planalto url>), byte-identical to what Planalto "
+                     "served; the capture timestamps are pinned in codes/sources_codes.json."}],
+        "laws": laws,
+        "acts": acts_out,
+        "applies": [],
+        "decisions": [
+            "Código Civil and LGPD: each paragraph's life span is read from Planalto's annotated page (l10406.htm, "
+            "l13709.htm): struck wordings stay in place before the wording that replaced them, each closed by the source's "
+            "own note ('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted.",
+            "Credits come only from those notes; a changed article with no note naming a law stays uncredited.",
+            "A struck wording with no 'Revogado' note ends when the next wording of the same dispositivo (same label in the "
+            "same article) starts; a Medida Provisória's wording with no later wording ends on the in-force day of the "
+            "law that converted the MP (read from the MP page's 'Convertida na Lei' line).",
+            "Where Planalto repeats an older wording after an MP wording (an MP provision that lapsed or that the "
+            "conversion law dropped), the repeated wording is dated from the day the MP wording ended.",
+            "Revocations by a Medida Provisória that lapsed are gaps: the text is out of force from the MP's day to the "
+            "lapse and back afterwards, credited to a separate '<MP>: vigência encerrada' record that restores it.",
+            "Medidas Provisórias are dated by publication (CF art. 62: force of law from publication); laws by their own "
+            "vigência clause, else LINDB art. 1 (publication + 45 days).",
+            "Código Civil: in force 2003-01-11 (" + ACT_DAY["lei-10406-2002"][1] + ").",
+            "LGPD: " + ACT_DAY["lei-13709-2018"][1] + ". " + " ".join(f"{why}." for _, _, why in LGPD_GATES.values()) +
+            " Articles not yet in force are absent from the version; when one comes into force it carries the wording "
+            "of that day (including changes made before it was in force) and is credited to the law that set the day "
+            "(Lei 13.709/2018 itself for art. 65 II).",
+            "Headings (Livro, Título, Capítulo, Seção) are kept in one file per act, titulos.md, one line each; a note "
+            "standing alone after a heading is given to the heading lines just before it.",
+            "Text normalised once: NBSP to space, runs of spaces collapsed, curly quotes and dashes made plain, 'Art. 1o' "
+            "written 'Art. 1º'; Planalto's link words ('Vigência', 'Produção de efeitos') and 'Vide' notes are dropped.",
+        ] + vig_notes + ([
+            "Laws with no vigência clause of their own are dated by LINDB art. 1 (publication + 45 days): " + "; ".join(lindb) + "."
+        ] if lindb else []) + [
+            f"Replay check, {act}: the last version differs from Planalto's consolidated page in {len(d)} articles" +
+            (": " + "; ".join(d) if d else ".") for act, d in checks.items()
+        ] + ([f"Open problems in the replay ({len(problems)}): " + "; ".join(problems[:40])] if problems else []),
+        "ai_use": ["Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote fetch_codes.py and parse_codes.py and the hand "
+                   "tables in them (vigência days, MP lapse days) from the official pages. No model wrote, summarised or "
+                   "changed legal text; no model runs at data-build or git-build time."],
+    }
+    OUT.parent.mkdir(exist_ok=True)
+    tmp = OUT.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(part, ensure_ascii=False, indent=None, separators=(",", ":")) + "\n", encoding="utf-8",
+                   newline="\n")
+    os.replace(tmp, OUT)
+    print("wrote", OUT, OUT.stat().st_size, "bytes;", sum(len(x["versions"]) for x in acts_out), "versions")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))
