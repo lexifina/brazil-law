@@ -101,7 +101,15 @@ def law_key(text: str, year_of: dict | None = None) -> str | None:
         y = year_of.get(f"{pre}-{n}")
     if not y:
         return None
-    return f"{pre}-{n}-{y}"
+    k = f"{pre}-{n}-{y}"
+    return LAW_ALIAS.get(k, (k,))[0]
+
+
+# Notes whose printed number is wrong, corrected only where the note's own link names the right act: key -> (key, why).
+LAW_ALIAS = {
+    "lei-15452-2026": ("lei-15352-2026", "one LGPD note reads 'Lei nº 15.452, de 2026' but links to L15352.htm, the "
+                                         "conversion of MP 1.317/2025 that the other notes in the same article cite"),
+}
 
 
 def law_label(key: str) -> str:
@@ -969,6 +977,17 @@ def main(argv: list[str]) -> int:
             vig_notes.append(f"{law_label(k)}: in force {d}, {why}.")
     for k, (d, why) in ACT_DAY.items():
         eff[k] = d
+    effects = []
+    for k, info in sorted(infos.items()):
+        cl = (info or {}).get("clause", "")
+        if re.search(r"produz\w*\s+efeitos", cl, re.I) and k in eff:
+            effects.append(f"{law_label(k)} (in force {eff[k]}): \"{cl[:260]}{'…' if len(cl) > 260 else ''}\"")
+    if effects:
+        decisions.append("Some laws are in force on one day but defer the effects of some provisions ('produzirá "
+                         "efeitos'); their versions are dated by the in-force day (the day the wording became the "
+                         "law's text), as for the Constitution. Their clauses: " + " | ".join(effects))
+    for k, (k2, why) in LAW_ALIAS.items():
+        decisions.append(f"Note corrected: {why}; credited to {law_label(k2)}.")
     # Medidas Provisórias: converted (the conversion law's day ends the MP wording) or lapsed
     mp: dict = {"_years": years}
     lapse_key: dict[str, str] = {}
@@ -1056,7 +1075,21 @@ def main(argv: list[str]) -> int:
     if a.dry:
         return 0
     # ... corpus part written below
-    return write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems)
+    return write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp_notes(infos, eff))
+
+
+def mp_notes(infos: dict, eff: dict) -> list[str]:
+    out = []
+    for k, info in sorted(infos.items()):
+        if not k.startswith("mp-") or not info:
+            continue
+        if info.get("converted") and info["converted"] in eff:
+            out.append(f"{law_label(k)} (in force {eff[k]}) was converted into {law_label(info['converted'])} "
+                       f"(in force {eff[info['converted']]})")
+        elif k in MP_LAPSE:
+            out.append(f"{law_label(k)} (in force {eff.get(k)}) lapsed: {MP_LAPSE[k][1]}")
+    return ["Medidas Provisórias and their fate, from each MP page's 'Convertida na Lei' line or the Congress records: "
+            + "; ".join(out) + "."] if out else []
 
 
 COUNTRY = {
@@ -1072,7 +1105,7 @@ COUNTRY = {
 }
 
 
-def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems) -> int:
+def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mpn) -> int:
     used = set()
     for act in acts_out:
         used.add(act["first_law"])
@@ -1131,7 +1164,16 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems) ->
             "standing alone after a heading is given to the heading lines just before it.",
             "Text normalised once: NBSP to space, runs of spaces collapsed, curly quotes and dashes made plain, 'Art. 1o' "
             "written 'Art. 1º'; Planalto's link words ('Vigência', 'Produção de efeitos') and 'Vide' notes are dropped.",
-        ] + vig_notes + ([
+            "Código Civil replay check: every remaining difference from l10406compilada.htm is a difference between "
+            "Planalto's two pages, not a replay error: typing slips in the annotated page that the history is read from "
+            "('i ncisos' in arts. 1.559 and 1.645, 'co nvocada' in art. 1.341, 'nstalada' in art. 1.078, '§ 3º o A' in "
+            "art. 204, a stray '(' in art. 1.734 and ')' in art. 2.031, ':' for '.' in art. 1.583 § 2º); a missing 'º' "
+            "in the consolidated page (art. 66 § 1º); two headings set in capitals there ('DAS ASSOCIAÇÕES', 'DAS "
+            "FUNDAÇÕES'); and Título I-A (EIRELI), which the consolidated page still prints although the annotated "
+            "page marks it revoked by MP 1.085/2021 and Lei 14.382/2022. The annotated text is kept as Planalto prints it.",
+            "The consolidated pages print a revoked dispositivo as its bare label ('Art. 757.', 'Art. 1.620. a "
+            "1.629.'); the check ignores those label-only lines, and the history leaves revoked text out.",
+        ] + decisions + mpn + vig_notes + ([
             "Laws with no vigência clause of their own are dated by LINDB art. 1 (publication + 45 days): " + "; ".join(lindb) + "."
         ] if lindb else []) + [
             f"Replay check, {act}: the last version differs from Planalto's consolidated page in {len(d)} articles" +
