@@ -1,5 +1,5 @@
 CP paragraphs 3509 Counter({'plain': 2300, 'struck': 1209}) units 434 versions 111
-  end_how Counter({'rewrite': 621, 'successor': 220, 'parent': 193, 'note': 146, 'run-revoked': 14, 'heads': 12, 'date-order': 3})
+  end_how Counter({'rewrite': 621, 'successor': 220, 'parent': 192, 'note': 146, 'run-revoked': 14, 'heads': 12, 'date-order': 3, 'renumbered-same-text': 1})
   DIFF art-047: Planalto consolidated 'ção para dirigir veículo.' / replay 'ção para dirigir veículo. >'
   DIFF art-110: only in replay: '§ 2º (Revogado)..'
   DIFF art-129: Planalto consolidated 'III perda ou ' / replay 'III - perda ou ' | Planalto consolidated 'posto no § 5º do art. 121.' / replay 'posto no § 5º do art. 121'

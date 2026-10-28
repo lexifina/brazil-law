@@ -966,7 +966,26 @@ ACT_LAWS = {
 }
 
 # Act-specific decisions, printed in REPRODUCE.md (filled in as each act is checked).
-ACT_DECISIONS: list[str] = []
+ACT_DECISIONS: list[str] = [
+    "Código Penal: the page's alignment is unreliable (the 1940 Parte Geral sits in centred blocks), so headings are "
+    "only Parte/Título/Capítulo/Seção lines, the name line right after one, and lines in capitals without a comma.",
+    "Código Penal: a marginal heading (rubrica, 'Anterioridade da Lei') is the first line of the article it heads; "
+    "an article whose only live line is its rubrica (revoked, with the rubrica left unstruck) is left out.",
+    "Rules for struck text with no note of its own, each in the source's layout: 'run-revoked' - an earlier line of a "
+    "struck run closed by one 'Revogado pela' note; 'heads' - a struck rubrica falls with the dispositivo it heads; "
+    "'date-order' - wordings of one dispositivo printed out of date order (CP art. 121 § 7º II) are chained by their "
+    "own dates; a '(VETADO)' item left unstruck above wording promulgated over the veto ends on the promulgation "
+    "(Lei 13.964/2019: DOU 30.4.2021); a 'Parágrafo único' left unstruck above a '§ 1º' that a later law's note "
+    "introduces ends when the § 1º starts.",
+    "Código Penal, gaps in Planalto's annotated page kept as they are: Lei 4.729/1965's wording of art. 334 § 2º "
+    "('Equipara-se às atividades comerciais…') is not on the page (its note was copied onto art. 334-A § 2º, which "
+    "Lei 13.008/2014 created: that line is dated with art. 334-A), so art. 334 has no § 2º from 1965 to 2014 here; and "
+    "the 1940 § 2º of art. 334 is ended in 1965, when the same words became § 3º.",
+    "Clauses counted in months or years: from LC 107/2001 (26.4.2001) on, the period ends on the same calendar day "
+    "and the law is in force the day after (LC 95/1998 art. 8 § 1); before it, by Lei 810/1949 the law is in force "
+    "on the corresponding day (Lei 7.209/1984: published 13.7.1984, in force 13.1.1985). Clauses in days: publication "
+    "day + N for every period.",
+]
 
 # A law that re-enacted a whole part of an act: Planalto keeps the old part as one struck block, then prints the new
 # part, whose lines often carry no note. act slug -> (law, the heading that ends the new part, reason).
@@ -986,6 +1005,35 @@ def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str])
     hit = REWRITES.get(act["slug"])
     if hit:
         rewrite(paras, hit, eff, fixed)
+    # no line is older than its article: in an article every caput of which carries a later note (inserted after the
+    # act), a line dated earlier (no note, or a note Planalto copied from an older article: CP art. 334-A § 2º cites
+    # Lei 4.729/1965) starts with the article's first caput
+    by_unit: dict[str, list[dict]] = {}
+    for p in paras:
+        by_unit.setdefault(p["unit"], []).append(p)
+    for unit, ps in by_unit.items():
+        caps = [p for p in ps if p["label"].startswith("Art.")]
+        if not caps or not all(p["start_law"] for p in caps) or unit in ("titulos", "preambulo"):
+            continue
+        first = min(caps, key=lambda p: p["start"])
+        for p in ps:
+            if p["start"] < first["start"] and (p["end"] is None or p["end"] > first["start"]):
+                p["start"], p["start_law"], p["start_how"] = first["start"], first["start_law"], "article"
+    # a struck paragraph whose words reappear later in the same article under another label (CP art. 334: the 1940
+    # § 2º is the § 3º that Lei 4.729/1965 "included") was renumbered when that label starts
+    def body(t: str) -> str:
+        return re.sub(r"^(?:§ \d+º?|Parágrafo único)\.?\s*-?\s*", "", t)
+    for i, p in enumerate(paras):
+        if p["state"] == "plain" or p["end_how"] not in (None, "parent") or not p["label"].startswith(("§", "Parágrafo")):
+            continue
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"]:
+                break
+            if (q["label"] != p["label"] and q["label"].startswith("§") and body(q["text"]) == body(p["text"])
+                    and q["start"] > p["start"] and (p["end"] is None or q["start"] < p["end"])):
+                p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "renumbered-same-text"
+                fixed.add(i)
+                break
     # successive struck wordings of one dispositivo that Planalto printed out of date order (art. 121 § 7º II: the
     # 2022 wording above the 2018 one): chain them by their own dates; the last ends with the run's revocation note
     i = 0
@@ -1330,6 +1378,8 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
             "The consolidated pages print a revoked dispositivo as its bare label ('Art. 757.'); the check ignores those "
             "label-only lines, and the history leaves revoked text out.",
             *ACT_DECISIONS,
+            *[f"{a['title']}: {REWRITES[a['slug']][2]}" for a in ACTS if a["slug"] in REWRITES],
+            *[f"{law_label(k)}: {why}." for k, (d, why) in VETO_PROMULGATION.items()],
         ] + decisions + mpn + vig_notes + ([
             "Laws with no vigência clause of their own are dated by LINDB art. 1 (publication + 45 days): " + "; ".join(lindb) + "."
         ] if lindb else []) + [

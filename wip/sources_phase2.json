@@ -654,6 +654,16 @@
    "id": "law:lei-9281-1996",
    "url": "https://www.planalto.gov.br/ccivil_03/Leis/L9281.htm",
    "ts": "20261016071717"
+  },
+  {
+   "id": "cpc-compilada",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm",
+   "ts": "20261019174303"
+  },
+  {
+   "id": "law:lei-13256-2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/Lei/L13256.htm",
+   "ts": "20261004071139"
   }
  ]
 }

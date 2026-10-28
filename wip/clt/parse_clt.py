@@ -1,24 +1,23 @@
-"""Reads the cache and writes scripts/brazil-law/corpus.d/60-phase2.json: the Código Penal (Decreto-Lei 2.848/1940),
-then the Código de Processo Civil (Lei 13.105/2015) and the CLT (Decreto-Lei 5.452/1943), in the corpus format of
-scripts/gitlaw_common/SCHEMA.md.
+"""Reads the cache and writes scripts/brazil-law/corpus.d/70-clt.json: the Consolidação das Leis do Trabalho (CLT,
+Decreto-Lei 5.452/1943), in the corpus format of scripts/gitlaw_common/SCHEMA.md.
 
-    python -X utf8 scripts/brazil-law/parse_phase2.py [--stats] [--dry]
+    python -X utf8 scripts/brazil-law/clt/parse_clt.py [--stats] [--dry]
 
-Adapted from codes/parse_codes.py (the Código Civil/LGPD part, written by the helper agent): the same struck-text
-replay of Planalto's annotated page, with the act configuration (ACTS, ACT_DAY), the hand tables and the decisions
-changed for these acts. No network: every input is an Internet Archive raw capture of a www.planalto.gov.br page,
-pinned in sources_phase2.json and fetched by fetch_phase2.py into .cache/. The same cache gives the same bytes.
+Adapted from ../parse_phase2.py and ../codes/parse_codes.py (the Código Civil/LGPD part): the same struck-text replay
+of Planalto's annotated page, with the CLT's configuration, hand tables and decisions. No network: every input is an
+Internet Archive raw capture of a www.planalto.gov.br page (or a cached STF case page), pinned in clt/sources_clt.json
+and fetched by clt/fetch_clt.py into ../.cache/. The same cache gives the same bytes.
 
-How each act's history is rebuilt
-  Planalto's annotated page of an act (del2848.htm, ...) keeps every superseded wording in place, struck through,
-  directly before the wording that replaced it, and ends each wording with the source's own note ("(Redação dada
-  pela Lei nº 7.209, de 11.7.1984)", "(Incluído pela ...)", "(Revogado pela ...)"). Text with no note is the act as
-  enacted. Each paragraph gets a life span: start = in-force day of the law in its note (else the act's own day);
-  end = its "Revogado" note, else the start of the next wording of the same dispositivo; a Medida Provisória's
-  wording with no later wording ends when the MP was converted or lapsed. The text of an article on day D is its
-  paragraphs alive on D, in document order. Every change is credited to the law named in the note that started or
-  ended the paragraph; anything else stays uncredited. The last version is checked against Planalto's consolidated
-  page (del2848compilado.htm, ...).
+How the history is rebuilt
+  Planalto's annotated page (del5452.htm) keeps every superseded wording in place, struck through, directly before
+  the wording that replaced it, and ends each wording with the source's own note ("(Redação dada pela Lei nº 13.467,
+  de 2017)", "(Incluído pelo Decreto-lei nº 229, de 1967)", "(Revogado pela ...)", "(Suprimido pelo ...)"). Text with
+  no note is the CLT as it came into force on 10.11.1943. Each paragraph gets a life span: start = in-force day of the
+  law in its note (else 10.11.1943); end = its "Revogado" note, else the start of the next wording of the same
+  dispositivo; a Medida Provisória's wording ends when the MP was converted, lapsed or was revoked. The text of an
+  article on day D is its paragraphs alive on D, in document order. Every change is credited to the law named in the
+  note that started or ended the paragraph; anything else stays uncredited. The last version is checked against
+  Planalto's consolidated page (del5452compilado.htm).
 """
 from __future__ import annotations
 
@@ -443,6 +442,10 @@ VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {}
 # Vetoed parts later promulgated after Congress overrode the veto (CF art. 66 §§ 5 and 7): law -> (day, reason).
 VETO_PROMULGATION = {}
 MP_LAPSE: dict[str, tuple[str, str]] = {}
+# An MP ended by another act rather than by lapse: the end is credited to that act (no "-fim" record).
+MP_LAPSE_BY: dict[str, str] = {}
+# MPs that lapsed without anything coming back (their only CLT effect was to revoke another MP): key -> commit note.
+MP_LAPSE_NO_EFFECT: dict[str, str] = {}
 
 
 def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
@@ -674,11 +677,24 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
                 starts.append((d, law))
                 if re.search(r"Renumerad", n, re.I):
                     p["renum_from"] = (renum_label(n), d, law)
+            elif re.search(r"Vig[êe]ncia\s+suspensa", n, re.I):
+                p["suspended"] = (d, law)
             elif END_KIND.search(n):
                 ends.append((d, law))
         p["start"], p["start_law"] = max(starts) if starts else (cx.act_day, None)
         p["end"], p["end_law"], p["end_how"] = None, None, None
         p["gaps"] = []
+        # "com vigência suspensa pelo Decreto-lei nº 8.987-A": the suspending act undid the change. A wording made by
+        # the suspended act ends when the suspension took effect; a revocation by it is only a gap.
+        if p.get("suspended"):
+            sd, slaw = p["suspended"]
+            if ends and not starts:
+                for d, law in ends:
+                    if sd > d:
+                        p["gaps"].append((d, sd, law, slaw))
+                ends = []
+            elif p["state"] != "plain":
+                ends.append(p["suspended"])
         # a revocation by an MP that lapsed is only a gap; one by an MP that was converted stands
         real_ends = []
         for d, law in ends:
@@ -721,10 +737,34 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
         fate = cx.mp.get(p["start_law"]) if p["start_law"] else None
         if fate and fate.get("converted_on"):
             p["end"], p["end_law"], p["end_how"] = fate["converted_on"], fate["converted"], "conversion"
+    # "Redação restabelecida pelo ...", "Restaurado pelo ...": the act brought back the wording an earlier change had
+    # replaced. When Planalto prints that wording only once (after the replaced one), it is also the wording from
+    # before the change: alive from its earlier start, with a gap while the change stood.
+    for i, q in enumerate(paras):
+        rn = [n for n in q["notes"] if re.search(r"restabelecid|Restaurad|Revigorad", n, re.I)
+              and not re.search(r"com\s+nova\s+reda", n, re.I)]
+        if not rn or q["start_law"] is None:
+            continue
+        r = predecessor(paras, i)
+        if r is None:
+            continue
+        pr = paras[r]
+        if pr["start"] >= q["start"]:
+            # the change never took effect before it was undone: it is not part of the history
+            pr["skip"], pr["never"] = True, True
+            pp = predecessor(paras, r)
+            if pp is None:
+                q["start"], q["start_law"] = cx.act_day, None
+            continue
+        pp = predecessor(paras, r)
+        if pp is None and pr["start"] > cx.act_day:
+            q["gaps"].append((pr["start"], q["start"], pr["start_law"], q["start_law"]))
+            q["start"], q["start_law"] = cx.act_day, None
+            q["restored_from_original"] = True
     # restored wordings: a wording repeated after a later one starts again when that one ended
     for i, q in enumerate(paras):
         r = predecessor(paras, i)
-        if r is None:
+        if r is None or q.get("restored_from_original") or paras[r].get("never"):
             continue
         pr = paras[r]
         if q["text"] == pr["text"] and pr["gaps"] and not pr["end"] and q["start"] <= pr["start"]:
@@ -772,6 +812,9 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
         if not p["end"]:
             problems.append(f"no end for struck {p['unit']} [{p['label']}] {p['text'][:90]!r} notes={p['notes']}")
     for p in paras:
+        if p["end"] and p["end"] <= p["start"] and p.get("suspended") and p["end"] == p["suspended"][0]:
+            p["skip"], p["never"] = True, True  # suspended before it took effect
+            continue
         if p["end"] and p["end"] < p["start"]:
             problems.append(f"ends before it starts: {p['unit']} [{p['label']}] {p['start']}..{p['end']} {p['text'][:70]!r} {p['notes']}")
     return problems
@@ -1073,7 +1116,21 @@ ACT_LAWS = {
 }
 
 # Act-specific decisions, printed in REPRODUCE.md (filled in as each act is checked).
-ACT_DECISIONS: list[str] = []
+ACT_DECISIONS: list[str] = [
+    "The CLT is the annex of Decreto-Lei 5.452/1943: the decree's own text (ementa, arts. 1 and 2) is the file "
+    "preambulo.md, the Consolidação starts at its heading 'CONSOLIDAÇÃO DAS LEIS DO TRABALHO', and the closing 'ANEXO' "
+    "(the table of economic and professional categories art. 577 refers to) is one file, anexo.md, one table cell per "
+    "line in page order.",
+    "Planalto's note forms read as starts: 'Redação dada', 'Incluído' (and the misspellings 'Incuído', 'Inlcuído'), "
+    "'Acrescido', 'Renumerado', 'Redação restabelecida', 'Restabelecido', 'Restaurado', 'Revigorado', 'Corrigido'; as "
+    "ends: 'Revogado', 'Suprimido', 'Extinto', 'Fica sem efeito'. 'Vide' notes change nothing.",
+    "'com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946': the wording Decreto-Lei 8.740/1946 gave ends when "
+    "8.987-A took effect; a revocation by 8.740 is a gap that 8.987-A closed; a wording 'restabelecida' by 8.987-A that "
+    "Planalto prints only once is also the 1943 wording, in force before 8.740 took effect. A change suspended before "
+    "it took effect is left out of the history.",
+    "A struck cross-reference link inside an unstruck wording (art. 329 'art. 325', art. 442-B 'art. 3º desta "
+    "Consolidação') is a typesetting slip: the consolidated page prints it unstruck, and so does the history.",
+]
 
 # set per act before parsing its pages: trust <p align="center"> to mark headings
 CENTER_HEADINGS = True
@@ -1110,7 +1167,7 @@ def main(argv: list[str]) -> int:
     global CENTER_HEADINGS
     ap = argparse.ArgumentParser()
     ap.add_argument("--stats", action="store_true")
-    ap.add_argument("--dry", action="store_true", help="do not write corpus.d/60-phase2.json")
+    ap.add_argument("--dry", action="store_true", help="do not write corpus.d/70-clt.json")
     a = ap.parse_args(argv)
     problems: list[str] = []
     decisions: list[str] = []
@@ -1184,7 +1241,9 @@ def main(argv: list[str]) -> int:
             fate = {"converted": info["converted"], "converted_on": eff[info["converted"]]}
         elif k in MP_LAPSE:
             fate = {"lapsed_on": MP_LAPSE[k][0]}
-            lapse_key[k] = k + "-fim"
+            lapse_key[k] = MP_LAPSE_BY.get(k, k + "-fim")
+        elif k in MP_LAPSE_NO_EFFECT:
+            fate = {}
         else:
             problems.append(f"{k}: neither converted nor a known lapse ({ {x: info.get(x) for x in ('converted', 'lapsed', 'rejected')} })")
         mp[k] = fate
@@ -1205,7 +1264,12 @@ def main(argv: list[str]) -> int:
         add_law(k)
         if k in lapse_key:
             laws[k]["temporary_until"] = MP_LAPSE[k][0]
+    for k, note in MP_LAPSE_NO_EFFECT.items():
+        if k in laws:
+            laws[k]["note"] = note
     for k, lk in sorted(lapse_key.items()):
+        if not lk.endswith("-fim"):
+            continue
         d, why = MP_LAPSE[k]
         laws[lk] = {"label": f"{law_label(k)}: vigência encerrada", "title": f"{law_label(k)} lost effect without "
                     f"conversion into law", "kind": "law", "enacted": d, "published": d, "url": laws[k]["url"],
@@ -1214,6 +1278,10 @@ def main(argv: list[str]) -> int:
                             f"it had replaced is in force again."}
     for k, rec in ACT_LAWS.items():
         laws[k] = dict(rec)
+    for k, c in COURTS.items():
+        laws[k] = {kk: c[kk] for kk in ("label", "title", "kind", "enacted", "published", "url")}
+        laws[k].update({"temporary_until": None, "restores": None, "note": None})
+        decisions.append(c["why"] + ".")
 
     # acts
     acts_out = []
@@ -1254,6 +1322,8 @@ def main(argv: list[str]) -> int:
             print(" ", len(diffs), "units differ from the consolidated page")
     for x in problems:
         print("PROBLEM", x)
+    if LINK_SLIPS:
+        decisions.append("Struck cross-reference links read as unstruck: " + "; ".join(LINK_SLIPS) + ".")
     print(len(problems), "problems")
     if a.dry:
         return 0
@@ -1313,18 +1383,23 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
         pass
     part = {
         "sources": [{
-            "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of the Phase 2 "
-                    "acts and of every law their notes cite, read as Internet Archive raw captures",
+            "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of the CLT and "
+                    "of every law its notes cite, read as Internet Archive raw captures",
             "url": PL, "retrieved": RETRIEVED, "requests": reqs,
             "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
             "notes": "www.planalto.gov.br blocks non-browser clients ('Acesso Negado'), so every page is the Internet "
                      "Archive raw capture (web.archive.org/web/<ts>id_/<planalto url>), byte-identical to what Planalto "
-                     "served; the capture timestamps are pinned in sources_phase2.json."}],
+                     "served; the capture timestamps are pinned in clt/sources_clt.json."}, {
+            "name": "Supremo Tribunal Federal, case pages (andamentos) of ADI 1.770, 5.938 and 5.766",
+            "url": "https://portal.stf.jus.br/processos/", "retrieved": RETRIEVED, "requests": 6,
+            "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
+            "notes": "Read for the judgment dates and the publication of the judgment records; 3 requests to "
+                     "listarProcessos.asp for the case ids, 3 to abaAndamentos.asp (cached)."}],
         "laws": laws,
         "acts": acts_out,
         "applies": [],
         "decisions": [
-            "Phase 2 acts (" + ", ".join(x["title"] for x in ACTS) + "): each paragraph's life span is read from "
+            "CLT (" + ", ".join(x["title"] for x in ACTS) + "): each paragraph's life span is read from "
             "Planalto's annotated page of the act (" + ", ".join(sources()[x["page"]]["url"].rsplit("/", 1)[1] for x in ACTS) +
             "): struck wordings stay in place before the wording that replaced them, each closed by the source's own note "
             "('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted.",
@@ -1348,9 +1423,9 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
             f"Replay check, {act}: the last version differs from Planalto's consolidated page in {len(d)} articles" +
             (": " + "; ".join(d) if d else ".") for act, d in checks.items()
         ] + ([f"Open problems in the replay ({len(problems)}): " + "; ".join(problems[:40])] if problems else []),
-        "ai_use": ["Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote fetch_phase2.py and parse_phase2.py (adapted from "
-                   "the helper's codes/fetch_codes.py and codes/parse_codes.py) and the hand "
-                   "tables in them (vigência days, MP lapse days) from the official pages. No model wrote, summarised or "
+        "ai_use": ["Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote clt/fetch_clt.py and clt/parse_clt.py (adapted from "
+                   "../parse_phase2.py and the helper's codes/parse_codes.py) and the hand tables in them (staged "
+                   "vigência days, MP fates, STF rulings) from the official pages. No model wrote, summarised or "
                    "changed legal text; no model runs at data-build or git-build time."],
     }
     OUT.parent.mkdir(exist_ok=True)
