@@ -396,7 +396,26 @@ def lifespans(paras: list[dict], cx) -> list[str]:
     return problems
 
 
-P.paragraphs, P.lifespans = paragraphs, lifespans
+_apply_rewrites = P.apply_rewrites
+VETOED_RENUMBER: list[str] = []
+
+
+def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str]) -> list[str]:
+    """parse_proc.apply_rewrites, except that an unstruck 'Parágrafo único' is not ended by a '§ 1º' whose only
+    wording is '(VETADO).' (CTN art. 205: LC 236/2026 made it § 1º, but that wording was vetoed; Planalto's consolidated
+    page keeps the Parágrafo único above '§ 1º (VETADO).')."""
+    out = _apply_rewrites(paras, act, eff, problems)
+    for i, p in enumerate(paras):
+        if p["state"] != "plain" or p["end_how"] != "renumbered":
+            continue
+        q = next((q for q in paras[i + 1:] if q["unit"] == p["unit"] and q["label"] == "§ 1º"), None)
+        if q is not None and VETADO_LINE.fullmatch(q["text"]) and q["start"] == p["end"]:
+            p["end"], p["end_law"], p["end_how"] = None, None, None
+            VETOED_RENUMBER.append(f"{act['short']} {p['unit']}")
+    return out
+
+
+P.paragraphs, P.lifespans, P.apply_rewrites = paragraphs, lifespans, apply_rewrites
 
 # ---------------------------------------------------------------------------------------------------------------
 # the part file
@@ -502,6 +521,9 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
                            for k, v in EXPRESSION_SWAPS.items()) + f". Paragraphs read this way ({len(SPLITS)}): "
                + "; ".join(SPLITS) + "."] if SPLITS else []),
             *[f"{law_label(k)}: {why}." for k, (_, why, _) in PROMULGATED.items()],
+            *([f"An unstruck 'Parágrafo único' stays when the '§ 1º' a later law put below it reads only '(VETADO).' "
+               f"(the law's renumbering was vetoed; the consolidated page keeps both): " + "; ".join(VETOED_RENUMBER) + "."]
+              if VETOED_RENUMBER else []),
             *([f"Struck wordings with no note printed directly after the unstruck wording that replaced them end when "
                f"that wording starts ({len(PRINTED_AFTER)}): " + "; ".join(PRINTED_AFTER) + "."] if PRINTED_AFTER else []),
             *[f"{why}." for k, (_, why) in KEPT_BY_CONGRESS.items() if any(a["law"] == k for a in ACTS)],
