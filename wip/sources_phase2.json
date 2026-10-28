@@ -59,6 +59,151 @@
    "id": "law:lei-10695-2003",
    "url": "https://www.planalto.gov.br/ccivil_03/LEIS/2003/L10.695.htm",
    "ts": "20261019115112"
+  },
+  {
+   "id": "law:lei-10741-2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/2003/L10.741.htm",
+   "ts": "20261018203343"
+  },
+  {
+   "id": "law:lei-10763-2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/2003/L10.763.htm",
+   "ts": "20261011151814"
+  },
+  {
+   "id": "law:lei-10803-2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/2003/L10.803.htm",
+   "ts": "20261016032857"
+  },
+  {
+   "id": "law:lei-10886-2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L10.886.htm",
+   "ts": "20261011222853"
+  },
+  {
+   "id": "law:lei-11035-2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L11035.htm",
+   "ts": "20260831194947"
+  },
+  {
+   "id": "law:lei-11106-2005",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11106.htm",
+   "ts": "20261005090111"
+  },
+  {
+   "id": "law:lei-11340-2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11340.htm",
+   "ts": "20261021141212"
+  },
+  {
+   "id": "law:lei-11466-2007",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11466.htm",
+   "ts": "20261004125345"
+  },
+  {
+   "id": "law:lei-11596-2007",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11596.htm",
+   "ts": "20261016083430"
+  },
+  {
+   "id": "law:lei-11923-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11923.htm",
+   "ts": "20261019094647"
+  },
+  {
+   "id": "law:lei-12012-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12012.htm",
+   "ts": "20260717091005"
+  },
+  {
+   "id": "law:lei-12015-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12015.htm",
+   "ts": "20261019230636"
+  },
+  {
+   "id": "law:lei-12033-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12033.htm",
+   "ts": "20260801231112"
+  },
+  {
+   "id": "law:lei-12234-2010",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Lei/L12234.htm",
+   "ts": "20261004125345"
+  },
+  {
+   "id": "law:lei-12550-2011",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12550.htm",
+   "ts": "20261004185103"
+  },
+  {
+   "id": "law:lei-12650-2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12650.htm",
+   "ts": "20261004210228"
+  },
+  {
+   "id": "law:lei-12653-2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12653.htm",
+   "ts": "20260902215009"
+  },
+  {
+   "id": "law:lei-12694-2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12694.htm",
+   "ts": "20261011101756"
+  },
+  {
+   "id": "law:lei-12720-2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12720.htm",
+   "ts": "20261010220457"
+  },
+  {
+   "id": "law:lei-12737-2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12737.htm",
+   "ts": "20261022083811"
+  },
+  {
+   "id": "law:lei-12850-2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12850.htm",
+   "ts": "20261020131442"
+  },
+  {
+   "id": "law:lei-12978-2014",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2014/Lei/L12978.htm",
+   "ts": "20261005001202"
+  },
+  {
+   "id": "law:lei-13008-2014",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2014/Lei/L13008.htm",
+   "ts": "20261003191543"
+  },
+  {
+   "id": "law:lei-13104-2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13104.htm",
+   "ts": "20261022105759"
+  },
+  {
+   "id": "law:lei-13142-2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13142.htm",
+   "ts": "20260714211741"
+  },
+  {
+   "id": "law:lei-13188-2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13188.htm",
+   "ts": "20261004194353"
+  },
+  {
+   "id": "law:lei-13228-2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13228.htm",
+   "ts": "20261005001129"
+  },
+  {
+   "id": "law:lei-13330-2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Lei/L13330.htm",
+   "ts": "20261015114121"
+  },
+  {
+   "id": "law:lei-13344-2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Lei/L13344.htm",
+   "ts": "20261016080528"
   }
  ]
 }

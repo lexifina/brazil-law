@@ -1183,6 +1183,19 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
                    "tables in them (vigência days, MP lapse days) from the official pages. No model wrote, summarised or "
                    "changed legal text; no model runs at data-build or git-build time."],
     }
+    # Large acts (SCHEMA.md): every version after the first gives only `changes` against the version before it
+    # ({unit key: unit, or null to remove}), so the part stays far below GitHub's 100 MB and the 50 MB wip limit.
+    for act in part["acts"]:
+        prev = None
+        for v in act["versions"]:
+            cur = v.pop("units")
+            if prev is not None:
+                v["changes"] = {u: cur.get(u) for u in sorted(set(prev) | set(cur)) if prev.get(u) != cur.get(u)}
+            else:
+                v["units"] = cur
+            prev = cur
+        act["versions"] = [{k: v[k] for k in ("from", "source_url", "sha256", "units", "changes", "credits") if k in v}
+                           for v in act["versions"]]
     OUT.parent.mkdir(exist_ok=True)
     tmp = OUT.with_suffix(".json.tmp")
     tmp.write_text(json.dumps(part, ensure_ascii=False, indent=None, separators=(",", ":")) + "\n", encoding="utf-8",
