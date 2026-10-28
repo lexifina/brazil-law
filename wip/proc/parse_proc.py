@@ -430,6 +430,7 @@ def page_info(key: str) -> dict:
         info["published"] = f"{int(pub.group(3)):04d}-{int(pub.group(2)):02d}-{int(pub.group(1)):02d}"
     elif key in PUBLISHED_FIXED:
         info["published"] = PUBLISHED_FIXED[key][0]
+    LEXML_USED.add(lexml_url(key, info.get("enacted")))
     lx = lexml_published(key, info.get("enacted"))
     if lx and lx != info.get("published"):
         PUB_CORRECTED[key] = (info.get("published"), lx)
@@ -524,6 +525,7 @@ PUBLISHED_FIXED: dict[str, tuple[str, str]] = {
     "lei-263-1948": ("1948-02-26", "LexML (urn:lex:br:federal:lei:1948-02-23;263): 'Publicação Original: Diário Oficial "
                                    "da União, Seção 1, 26/02/1948, p. 2713'"),
 }
+LEXML_USED: set = set()
 # Planalto page DOU day -> LexML "Publicação Original" day, where they differ (filled by page_info)
 PUB_CORRECTED: dict[str, tuple[str | None, str]] = {}
 # Notes that omit the act's kind, corrected only where the note's own link names the act: note -> (corrected, why).
@@ -1699,6 +1701,16 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
                 reqs += 1
     except OSError:
         pass
+    reqs_lexml = reqs_stf = 0
+    try:
+        for line in fetch.LOG.read_text(encoding="utf-8").splitlines():
+            u = json.loads(line)["url"]
+            if u.startswith(LEXML) and (u in LEXML_USED or "lei:1948-02-23;263" in u):
+                reqs_lexml += 1
+            elif "portal.stf.jus.br" in u and ("incidente=2082833" in u or "numeroProcesso=2797" in u):
+                reqs_stf += 1
+    except OSError:
+        pass
     part = {
         "sources": [{
             "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of the CPP and "
@@ -1707,7 +1719,16 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
             "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
             "notes": "www.planalto.gov.br blocks non-browser clients ('Acesso Negado'), so every page is the Internet "
                      "Archive raw capture (web.archive.org/web/<ts>id_/<planalto url>), byte-identical to what Planalto "
-                     "served; the capture timestamps are pinned in proc/sources_proc.json."}],
+                     "served; the capture timestamps are pinned in proc/sources_proc.json."},
+            {"name": "LexML Brasil (Senado Federal): record of each cited law, for its 'Publicação Original' DOU day",
+             "url": "https://www.lexml.gov.br/", "retrieved": RETRIEVED, "requests": reqs_lexml,
+             "licence": "Public federal portal; bibliographic data of official acts",
+             "notes": "One URN page per law (urn:lex:br:federal:<kind>:<date>;<number>), fetched once with curl; used "
+                      "only to check the DOU day printed on the Planalto page."},
+            {"name": "Supremo Tribunal Federal: case pages of ADI 2.797 (decisions and progress)",
+             "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=2082833", "retrieved": RETRIEVED,
+             "requests": reqs_stf, "licence": "Public court records",
+             "notes": "Judgment day and the day the judgment record was published in the DJ (abaAndamentos)."}],
         "laws": laws,
         "acts": acts_out,
         "applies": [],
