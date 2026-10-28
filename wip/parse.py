@@ -759,7 +759,7 @@ def compilado_units() -> dict[str, list[str]]:
 def build_cf(paras, laws, eff, src_url, src_bytes, docs_date):
     days = sorted({p["start"] for p in paras} | {p["end"] for p in paras if p["end"]})
     days = [d for d in days if d >= CF_DATE]
-    versions, prev = [], None
+    versions, prev, prev_units = [], None, None
     sha = hashlib.sha256(src_bytes).hexdigest()
     for day in days:
         snap = snapshot(paras, day)
@@ -789,7 +789,15 @@ def build_cf(paras, laws, eff, src_url, src_bytes, docs_date):
             # wording read from the amendment's own page, not from the Constitution page
             fb, url = raw(fut[0][2])
             digest = hashlib.sha256(fb).hexdigest()
-        versions.append({"from": day, "source_url": url, "sha256": digest, "units": units, "credits": credits})
+        v = {"from": day, "source_url": url, "sha256": digest, "credits": credits}
+        if prev_units is None:
+            v["units"] = units
+        else:
+            # SCHEMA "Large acts": after the first version, only what changed (None removes a unit)
+            v["changes"] = {u: units.get(u) for u in sorted(set(units) | set(prev_units))
+                            if units.get(u) != prev_units.get(u)}
+        versions.append(v)
+        prev_units = units
         prev = texts
     return versions
 
