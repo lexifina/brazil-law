@@ -377,10 +377,8 @@ def lifespans(paras: list[dict], cx) -> list[str]:
             p["start"], p["start_law"] = hit[0], law
             v = next((q for q in reversed(paras[max(0, i - 6):i]) if q["unit"] == p["unit"] and q["label"] == p["label"]
                       and q["state"] != "plain" and re.fullmatch(r".*\(\s*Vetad[oa]\s*\)\.?", q["text"], re.I)), None)
-            if v is not None:
+            if v is not None:  # else the dispositivo had no line at all until the kept wording (RJU art. 240 d)
                 v["end"], v["end_law"], v["end_how"] = hit[0], law, "kept-by-congress"
-            else:
-                problems.append(f"kept wording with no '(Vetado)' line before it: {p['unit']} [{p['label']}] {p['text'][:70]!r}")
     return problems
 
 
