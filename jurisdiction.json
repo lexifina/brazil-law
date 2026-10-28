@@ -1,0 +1,10 @@
+{
+  "path": "br",
+  "code": "BR",
+  "name": "Brazil",
+  "level": "country",
+  "repo": "https://github.com/lexifina/brazil-law",
+  "build": "partial",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
