@@ -526,9 +526,10 @@
    "ts": "20260608170830"
   },
   {
-   "id": "law:lei-6336-2019",
+   "id": "law:lei-6336-1976",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6336.htm",
-   "ts": "20261014204947"
+   "ts": "20261014204947",
+   "note": "linked from CE art. 135 § 9º; the link label is split across font tags"
   },
   {
    "id": "law:lei-6339-1976",
