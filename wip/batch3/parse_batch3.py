@@ -76,6 +76,33 @@ ACT_LAWS = {
 }
 P.ACT_LAWS = ACT_LAWS
 
+# Lei 8.112/1990 (Regime Jurídico dos Servidores Públicos Civis da União), added once its checks pass
+WITH_RJU = os.environ.get("BATCH3_RJU", "1") == "1"
+if WITH_RJU:
+    ACTS.append({"slug": "regime-juridico-dos-servidores-publicos", "short": "RJU", "page": "rju",
+                 "consolidated": "rju-compilado", "law": "lei-8112-1990",
+                 "title": "Regime Jurídico dos Servidores Públicos Civis da União (Lei nº 8.112, de 11 de dezembro de 1990)",
+                 "digits": 3, "url": PL + "leis/l8112compilado.htm"})
+    ACT_DAY["lei-8112-1990"] = ("1990-12-12", "Lei 8.112/1990 art. 252: 'Esta Lei entra em vigor na data de sua "
+                                              "publicação, com efeitos financeiros a partir do primeiro dia do mês "
+                                              "subseqüente' (published in the DOU of 12.12.1990, republished 18.3.1998)")
+    ACT_LAWS["lei-8112-1990"] = _act_law("Lei nº 8.112, de 1990", "Dispõe sobre o regime jurídico dos servidores "
+                                         "públicos civis da União, das autarquias e das fundações públicas federais.",
+                                         "1990-12-11", "1990-12-12", "leis/l8112cons.htm")
+
+# Vetoed parts Congress kept (CF art. 66 §§ 4-7): Planalto prints the struck '(Vetado)' line, then the kept wording
+# marked '(Mantido pelo Congresso Nacional)', and at the end of the page the promulgation by the President of the
+# Senate ('Senado Federal, 18 de abril de 1991 ... Este texto não substitui o publicado no DOU de 19.4.1991').
+# act law -> (day the kept parts took effect, reason). The kept wording starts that day and the '(Vetado)' line ends.
+KEPT_BY_CONGRESS: dict[str, tuple[str, str]] = {
+    "lei-8112-1990": ("1991-04-19", "Lei 8.112/1990: the parts vetoed on 11.12.1990 that Congress kept were "
+                                    "promulgated by the President of the Senate on 18.4.1991 (CF art. 66 § 7) and "
+                                    "published in the DOU of 19.4.1991 (printed at the end of Planalto's l8112cons.htm); "
+                                    "Planalto marks each such wording '(Mantido pelo Congresso Nacional)', a marker the "
+                                    "history drops from the text. Until 19.4.1991 the dispositivo reads '(Vetado).'"),
+}
+KEPT = re.compile(r"\s*\(\s*Mantid[oa]s?\s+pelo\s+Congresso\s+Nacional\s*\)+")
+
 
 SRC = HERE / "sources_batch3.json"
 P.OUT = FOLDER / "corpus.d" / "90-batch3.json"
@@ -282,6 +309,13 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
         res.append({**base, "text": new, "state": "plain", "notes": notes, "plain_text": "", "struck_text": "",
                     "split": ("new", key)})
         SPLITS.append(f"{p['unit']} [{p['label'] or 'heading'}] by {law_label(key) if not key.startswith('stf') else P.COURTS[key]['label']}")
+    for p in res:
+        if KEPT.search(p["text"]):
+            p["text"] = P.norm(KEPT.sub("", p["text"]))
+            p["kept"] = True
+        if any(KEPT.fullmatch(" " + n) for n in p["notes"]):
+            p["notes"] = [n for n in p["notes"] if not KEPT.fullmatch(" " + n)]
+            p["kept"] = True
     for i, p in enumerate(res):
         p["i"] = i
     return res, rest
@@ -301,6 +335,19 @@ def lifespans(paras: list[dict], cx) -> list[str]:
             p["start"], p["start_law"], p["restored"] = max(p["start"], d), key, False
         else:
             p["end"], p["end_law"], p["end_how"] = d, key, "expression"
+    hit = KEPT_BY_CONGRESS.get(next((a["law"] for a in ACTS if a["slug"] == cx.act), ""))
+    if hit:
+        law = next(a["law"] for a in ACTS if a["slug"] == cx.act)
+        for i, p in enumerate(paras):
+            if not p.get("kept") or p["start"] > hit[0]:
+                continue
+            p["start"], p["start_law"] = hit[0], law
+            v = next((q for q in reversed(paras[max(0, i - 6):i]) if q["unit"] == p["unit"] and q["label"] == p["label"]
+                      and q["state"] != "plain" and re.fullmatch(r".*\(\s*Vetad[oa]\s*\)\.?", q["text"], re.I)), None)
+            if v is not None:
+                v["end"], v["end_law"], v["end_how"] = hit[0], law, "kept-by-congress"
+            else:
+                problems.append(f"kept wording with no '(Vetado)' line before it: {p['unit']} [{p['label']}] {p['text'][:70]!r}")
     return problems
 
 
