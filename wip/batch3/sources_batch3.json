@@ -986,6 +986,12 @@
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp86.htm",
    "ts": "20261011213656",
    "guessed_path": true
+  },
+  {
+   "id": "law:rsf-337-1983",
+   "url": "https://www.planalto.gov.br/ccivil_03/Resolu%C3%A7%C3%A3o/ResSF/ResSF337-1983.htm",
+   "ts": "20261021210010",
+   "via": "wayback.py"
   }
  ]
 }
