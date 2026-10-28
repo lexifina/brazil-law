@@ -218,6 +218,8 @@ def norm(s: str) -> str:
     s = re.sub(r"\s+([.,;:])", r"\1", s)
     s = re.sub(r"\(\s+", "(", s)
     s = re.sub(r"\s+\)", ")", s)
+    # "Art 180." (no full stop after Art, common in the 1940 text) -> "Art. 180."
+    s = re.sub(r"^Art\s+(?=\d)", "Art. ", s)
     return s.strip()
 
 
@@ -948,6 +950,51 @@ ACT_LAWS = {
 # Act-specific decisions, printed in REPRODUCE.md (filled in as each act is checked).
 ACT_DECISIONS: list[str] = []
 
+# A law that re-enacted a whole part of an act: Planalto keeps the old part as one struck block, then prints the new
+# part, whose lines often carry no note. act slug -> (law, the heading that ends the new part, reason).
+REWRITES = {
+    "codigo-penal": ("lei-7209-1984", "PARTE ESPECIAL",
+                     "Lei 7.209/1984 art. 1 re-enacted the whole Parte Geral (arts. 1 to 120: 'O Decreto-lei nº 2.848 "
+                     "... passa a vigorar com as seguintes alterações: \"PARTE GERAL ...'). Planalto prints the 1940 "
+                     "Parte Geral (with its amendments up to 1984) as one struck block, then the new Parte Geral. Every "
+                     "struck line of the old block that no note or later wording ends is ended on Lei 7.209's in-force "
+                     "day, and every line of the new Parte Geral without a note of its own (headings, marginal "
+                     "headings, unannotated paragraphs) starts that day, credited to Lei 7.209."),
+}
+
+
+def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str]) -> list[str]:
+    fixed = set()
+    hit = REWRITES.get(act["slug"])
+    if hit:
+        rewrite(paras, hit, eff, fixed)
+    # a struck marginal heading (or an unlabelled heading line inside an article) with nothing to end it falls with
+    # the dispositivo it heads: the next labelled line of the same article
+    for i, p in enumerate(paras):
+        if p["state"] == "plain" or p["end"] or p["heading"] or p["label"] not in ("rubrica", ""):
+            continue
+        q = next((q for q in paras[i + 1:] if q["label"] not in ("rubrica", "") or q["unit"] != p["unit"]), None)
+        if q is not None and q["unit"] == p["unit"] and q["state"] != "plain" and q["end"] and q["end"] > p["start"]:
+            p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "heads"
+            fixed.add(i)
+    return [x for x in problems if not any(f"{paras[i]['text'][:90]!r}" in x for i in fixed)]
+
+
+def rewrite(paras: list[dict], hit: tuple, eff: dict, fixed: set) -> None:
+    law, end_heading, _ = hit
+    day = eff[law]
+    body = [i for i, p in enumerate(paras) if p["unit"] != "preambulo"]
+    first = body[0]
+    new_from = next(i for i in body if paras[i]["state"] == "plain")
+    new_to = next(i for i in range(new_from, len(paras)) if paras[i]["heading"] and paras[i]["text"].upper() == end_heading)
+    for p in paras[first:new_from]:
+        if p["state"] != "plain" and not p["end"]:
+            p["end"], p["end_law"], p["end_how"] = day, law, "rewrite"
+            fixed.add(p["i"])
+    for p in paras[new_from:new_to]:
+        if p["start_law"] is None and p["start"] < day:
+            p["start"], p["start_law"] = day, law
+
 # set per act before parsing its pages: trust <p align="center"> to mark headings
 CENTER_HEADINGS = True
 
@@ -1083,6 +1130,7 @@ def main(argv: list[str]) -> int:
         act_day = ACT_DAY[act["law"]][0]
         cx = Ctx(act_day, eff, mp, lapse_key, act["slug"])
         pr = lifespans(paras, cx)
+        pr = apply_rewrites(paras, act, eff, pr)
         problems += [f"{act['short']}: {x}" for x in pr]
         units = list(dict.fromkeys(p["unit"] for p in paras))
         if act["slug"] == "lgpd":

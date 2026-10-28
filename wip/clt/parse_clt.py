@@ -82,7 +82,7 @@ def decode(b: bytes) -> str:
 
 LAW_REF = re.compile(
     r"(Lei\s+Complementar|Lei|Medida\s+Provis[óo]ria|Decreto[-\s]?[Ll]ei)\s*(?:n\s*\.?\s*[º°o]?\s*\.?)?\s*"
-    r"(\d{1,2}(?:\.\s?\d{3})+|\d+)(?:-\d{1,2}(?!\d))?(?:[-\s]*[A-Z](?![a-z]))?(?:\s*\.)?(?:\s*,)?(?:\s*(?:de\s+)?(\d{1,2}º?\s*[./]\s*\d{1,2}\s*[./]\s*(\d{4}|\d{2})(?!\d))|"
+    r"(\d{1,2}(?:\.\s?\d{3})+|\d+)(?:-\d{1,2}(?!\d))?(?:[-\s]*(?P<suf>[A-Z])(?![a-z]))?(?:\s*\.)?(?:\s*,)?(?:\s*(?:de\s+)?(\d{1,2}º?\s*[./]\s*\d{1,2}\s*[./]\s*(\d{4}|\d{2})(?!\d))|"
     r"\s*de\s+(?:\d{1,2}º?\s+de\s+\w+\s+de\s+(\d{4})|(\d{4})))?", re.I)
 
 
@@ -93,8 +93,8 @@ def law_key(text: str, year_of: dict | None = None) -> str | None:
         return None
     kind = m.group(1).lower()
     pre = "lc" if "complementar" in kind else "mp" if kind.startswith("medida") else "dl" if kind.startswith("decreto") else "lei"
-    n = int(re.sub(r"\D", "", m.group(2)))
-    y = m.group(4) or m.group(5) or m.group(6)
+    n = str(int(re.sub(r"\D", "", m.group(2)))) + (m.group("suf") or "").lower()
+    y = m.group(5) or m.group(6) or m.group(7)
     if y and len(y) == 2:
         y = ("19" if int(y) >= 40 else "20") + y
     if not y and year_of:
@@ -111,7 +111,8 @@ LAW_ALIAS = {}
 
 def law_label(key: str) -> str:
     pre, n, y = key.split("-")
-    num = f"{int(n):,}".replace(",", ".")
+    suf = n.lstrip("0123456789")
+    num = f"{int(n[:len(n) - len(suf)]):,}".replace(",", ".") + (f"-{suf.upper()}" if suf else "")
     return {"lei": f"Lei nº {num}, de {y}", "lc": f"Lei Complementar nº {num}, de {y}",
             "mp": f"Medida Provisória nº {num}, de {y}", "dl": f"Decreto-Lei nº {num}, de {y}"}[pre]
 
@@ -191,16 +192,21 @@ def blocks_of(html: str) -> list[dict]:
 
 
 NOTE = re.compile(
-    r"\(\s*(?:Reda[çc][ãa]o|Inclu[ií]d|Acrescentad|Acrescid|Revogad[oa]s?\s+(?:pel|por)|Renumerad|Vide|Vig[êe]ncia|"
+    r"\(\s*(?:Reda[çc][ãa]o|Inclu[ií]d|In[cl]u[ií]d|Inlcu[ií]d|Acrescentad|Acrescid|Revogad[oa]s?\s+(?:pel|por|Medida|Lei|Decreto|dada)|"
+    r"Suprimid|Extint|Revigorad|Restaurad|Restabelecid|Inciso\s+inclu|Par[áa]grafo\s+inclu|Al[íi]nea\s+inclu|"
+    r"Fica\s+sem\s+efeito|Corrigid|Renumerad|(?:Par[áa]grafo|Inciso|Al[íi]nea)\s+\S+\s+renumerad|Vide|Vig[êe]ncia|"
     r"Produ[çc][ãa]o\s+de\s+efeito|Regulament|Declarad|Suspens|Execu[çc][ãa]o|Express[ãa]o|Promulga|Convers|Convertid|"
     r"Texto\s+compilado|Atualizad|Mensagem|Revoga[çc][ãa]o)[^()]*(?:\([^()]*\)[^()]*)*(?:\)|$)", re.I)
 # a note Planalto left without parentheses at the end of a line: "...; Redação dada pela Medida Provisória nº 869, de 2018"
 BARE_NOTE = re.compile(r"\s(?:Reda[çc][ãa]o\s+dada|Inclu[ií]d[oa]|Revogad[oa])\s+pel[oa]\s+(?:Lei|Medida|Decreto)[^()]*\)?\s*$", re.I)
 LINKWORDS = re.compile(r"^\s*\(?\s*(?:Produ[çc][ãa]o\s+de\s+efeitos?|Vig[êe]ncia|Regulamento|Regulamenta[çc][ãa]o)"
                        r"\s*\)?\s*\.?\s*$", re.I)
+# "(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)"
+SUSPENDED = re.compile(r",?\s*com\s+vig[êe]ncia\s+suspensa\s+(pel[oa]\s+[^()]*?)\)", re.I)
 LAPSED_WORDS = re.compile(r"\(?\s*Vig[êe]ncia\s+encerrada\s*\)?", re.I)
-START_KIND = re.compile(r"Reda[çc][ãa]o\s+dada|Inclu[ií]d|Acrescentad|Acrescid|Renumerad", re.I)
-END_KIND = re.compile(r"Revogad", re.I)
+START_KIND = re.compile(r"Reda[çc][ãa]o\s+(?:dada|restabelecida)|Inclu[ií]d|In[cl]u[ií]d|Inlcu[ií]d|Acrescentad|Acrescid|"
+                        r"Renumerad|Revigorad|Restaurad|Restabelecid|Corrigid", re.I)
+END_KIND = re.compile(r"Revogad|Suprimid|Extint|Fica\s+sem\s+efeito|Vig[êe]ncia\s+suspensa", re.I)
 RENUM_FROM = re.compile(r"Renumerad[oa]\s+d[eo]s?\s+(par[áa]grafo\s+[úu]nico|inciso\s+[IVXLC]+|§\s*\d+\s*[º°o]?)", re.I)
 
 
@@ -224,20 +230,24 @@ def norm(s: str) -> str:
 def analyse(block: dict) -> dict:
     """Split a block into text, struck state and notes."""
     chars: list[tuple[str, bool]] = []
+    links: list[bool] = []
     for text, struck, link in block["segs"]:
         if link and LINKWORDS.match(text):
             continue
         for ch in text:
             chars.append((ch, struck))
+            links.append(link)
     full = "".join(c for c, _ in chars)
     notes = []
     keep = [True] * len(chars)
     lapsed = False
-    for rx in (NOTE, LAPSED_WORDS):
+    for rx in (SUSPENDED, NOTE, LAPSED_WORDS):
         for m in rx.finditer(full):
             if not any(keep[m.start():m.end()]):
                 continue
-            if rx is LAPSED_WORDS:
+            if rx is SUSPENDED:
+                notes.append(norm("(Vigência suspensa " + m.group(1) + ")"))
+            elif rx is LAPSED_WORDS:
                 lapsed = True
             else:
                 notes.append(norm(m.group(0)))
@@ -263,10 +273,13 @@ def analyse(block: dict) -> dict:
             state = "struck"
     if lapsed:
         notes.append("(Vigência encerrada)")
+    # a struck cross-reference link inside unstruck text ("... no art. 3º desta Consolidação") is a typesetting slip
+    link_strike = state == "mixed" and all(ln for (c, s), k, ln in zip(chars, keep, links) if k and s and not c.isspace())
     plain_text = norm("".join(c for (c, s), k in zip(chars, keep) if k and not s)) if state == "mixed" else ""
     struck_text = norm("".join(c for (c, s), k in zip(chars, keep) if k and s)) if state == "mixed" else ""
     all_link = all(link or not text.strip() for text, _, link in block["segs"])
-    return {"text": t, "state": state, "notes": notes, "center": block["center"], "lapsed": lapsed,
+    t = re.sub(r"\s*\((?:Al[íi]nea|Inciso|Par[áa]grafo)\s*$", "", t)
+    return {"text": t, "state": state, "notes": notes, "center": block["center"], "lapsed": lapsed, "link_strike": link_strike,
             "plain_text": plain_text, "struck_text": struck_text, "all_link": all_link}
 
 
@@ -294,6 +307,16 @@ def label_of(text: str) -> str:
 
 
 def renum_label(note: str) -> str | None:
+    m = re.search(r"Par[áa]grafo\s+(\d+)\s*º?\s+renumerad", note, re.I)
+    if m:
+        return f"§ {int(m.group(1))}º"
+    m = re.search(r"Par[áa]grafo\s+[úu]nico\s+renumerad", note, re.I)
+    if m:
+        return "Parágrafo único"
+    m = re.search(r"(?:Inciso|Al[íi]nea)\s+(\S+)\s+renumerad", note, re.I)
+    if m:
+        x = m.group(1).strip(".,")
+        return x + (" -" if re.match(r"^[IVXLC]+$", x) else ")")
     m = RENUM_FROM.search(note)
     if not m:
         return None
@@ -602,7 +625,7 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
         starts, ends = [], []
         p["renum_from"] = None
         for n in p["notes"]:
-            if re.match(r"\(\s*(?:Vide|Vig[êe]ncia|Produ|Regulament|Declarad|Suspens|Execu|Express|Promulga|Convers|Convertid|Mensagem|Texto)", n, re.I):
+            if re.match(r"\(\s*(?:Vide|Vig[êe]ncia(?!\s+suspensa)|Produ|Regulament|Declarad|Suspens|Execu|Express|Promulga|Convers|Convertid|Mensagem|Texto)", n, re.I):
                 continue
             law = law_key(n, cx.mp.get("_years"))
             if not law:
@@ -647,6 +670,11 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
             hit = VETO_PROMULGATION.get(p["start_law"] or "")
             if hit:
                 p["end"], p["end_law"], p["end_how"] = hit[0], p["start_law"], "promulgation"
+    for p in paras:
+        if p.get("force_start"):
+            p["start"], p["start_law"] = p["force_start"]
+        if p.get("force_end") and not p["end"]:
+            p["end"], p["end_law"], p["end_how"] = (*p["force_end"], "court")
     # struck wordings: the next wording of the same dispositivo ends them
     for i, p in enumerate(paras):
         if p["state"] == "plain" or p["end"]:
@@ -708,6 +736,83 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
         if p["end"] and p["end"] < p["start"]:
             problems.append(f"ends before it starts: {p['unit']} [{p['label']}] {p['start']}..{p['end']} {p['text'][:70]!r} {p['notes']}")
     return problems
+
+
+# STF rulings (ação direta de inconstitucionalidade) whose effect Planalto shows on the annotated page: words struck
+# inside a wording, or a whole dispositivo struck, with a note naming the case. Dates from the STF case pages
+# (portal.stf.jus.br, abaAndamentos): a ruling binds everyone from the publication of its judgment record (ata) in
+# the Diário da Justiça (Lei 9.868/1999 art. 28; STF, Rcl 3.632 AgR), which is the version day.
+COURTS = {
+    "stf-adi-1770": {
+        "label": "STF, ADI 1.770",
+        "title": "Ação direta de inconstitucionalidade 1.770: procedente; declara inconstitucional o § 1º do art. 453 "
+                 "da CLT, na redação dada pelo art. 3º da Lei nº 9.528/1997",
+        "kind": "court", "enacted": "2006-10-11", "published": "2006-10-20",
+        "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=1694480",
+        "from": "2006-10-20", "case": r"1\.?770", "where": [("art-453", "§ 1º")],
+        "why": "STF, ADI 1.770 (Plenário, 11.10.2006): declared art. 453 § 1º unconstitutional; decision published in the "
+               "DJ and DOU on 20.10.2006 (ata nº 30, STF case record); Planalto strikes the paragraph, noting the case"},
+    "stf-adi-5938": {
+        "label": "STF, ADI 5.938",
+        "title": "Ação direta de inconstitucionalidade 5.938: procedente; declara inconstitucional a expressão \"quando "
+                 "apresentar atestado de saúde, emitido por médico de confiança da mulher, que recomende o afastamento\" "
+                 "dos incisos II e III do art. 394-A da CLT (redação da Lei nº 13.467/2017)",
+        "kind": "court", "enacted": "2019-05-29", "published": "2019-06-04",
+        "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=5447065",
+        "from": "2019-06-04", "case": r"5\.?938", "where": [("art-394-a", "II -"), ("art-394-a", "III -")],
+        "why": "STF, ADI 5.938 (Plenário, 29.5.2019): struck the expression requiring a medical certificate from art. 394-A "
+               "II and III; judgment record published in the DJE on 4.6.2019 (an interim order of 30.4.2019 had suspended "
+               "it; the version is dated by the final judgment)"},
+    "stf-adi-5766": {
+        "label": "STF, ADI 5.766",
+        "title": "Ação direta de inconstitucionalidade 5.766: parcialmente procedente; declara inconstitucionais o art. "
+                 "790-B, caput (expressão \"ainda que beneficiária da justiça gratuita\") e § 4º, e o art. 791-A, § 4º "
+                 "(expressão \"desde que não tenha obtido em juízo, ainda que em outro processo, créditos capazes de "
+                 "suportar a despesa\"), da CLT, na redação da Lei nº 13.467/2017",
+        "kind": "court", "enacted": "2021-10-20", "published": "2021-11-05",
+        "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=5250582",
+        "from": "2021-11-05", "case": r"5\.?766",
+        "where": [("art-790-b", "Art. 790-B"), ("art-790-b", "§ 4º"), ("art-791-a", "§ 4º")],
+        "why": "STF, ADI 5.766 (Plenário, 20.10.2021): struck words of art. 790-B caput and art. 791-A § 4º and the whole "
+               "of art. 790-B § 4º; judgment record published in the DJE on 5.11.2021. Planalto leaves art. 844 § 2º "
+               "(also upheld in part) unstruck with a 'Vide ADIN 5766' note, so the history leaves it unchanged"},
+}
+
+
+def split_court_strikes(paras: list[dict]) -> list[str]:
+    """A wording with words struck by a court becomes two: the full wording until the ruling, the rest after. A whole
+    dispositivo struck by a court ends on the ruling's day. A struck cross-reference link inside unstruck text is a
+    typesetting slip (the consolidated page shows it unstruck): the wording is read as unstruck."""
+    out, problems, slips = [], [], []
+    for p in paras:
+        court = None
+        for k, c in COURTS.items():
+            if (p["unit"], p["label"]) in c["where"] and any(re.search(c["case"], n) for n in p["notes"]):
+                court = k
+        if court and p["state"] == "mixed":
+            c = COURTS[court]
+            out += [dict(p, state="struck", force_end=(c["from"], court)),
+                    dict(p, state="plain", text=p["plain_text"], force_start=(c["from"], court))]
+            continue
+        if court and p["state"] == "struck":
+            out.append(dict(p, force_end=(COURTS[court]["from"], court)))
+            continue
+        if p["state"] == "mixed":
+            if p.get("link_strike"):
+                slips.append(f"{p['unit']} [{p['label']}] {p['struck_text']!r}")
+            else:
+                problems.append(f"partly struck wording with no explanation: {p['unit']} [{p['label']}] struck "
+                                f"{p['struck_text']!r}; read as unstruck")
+            p = dict(p, state="plain")
+        out.append(p)
+    paras[:] = out
+    for i, p in enumerate(paras):
+        p["i"] = i
+    LINK_SLIPS[:] = slips
+    return problems
+
+
+LINK_SLIPS: list[str] = []
 
 
 def same_slot(p: dict, q: dict) -> bool:
@@ -1067,7 +1172,7 @@ def main(argv: list[str]) -> int:
         paras, src, sha = parsed[act["slug"]]
         act_day = ACT_DAY[act["law"]][0]
         cx = Ctx(act_day, eff, mp, lapse_key, act["slug"])
-        pr = lifespans(paras, cx)
+        pr = split_court_strikes(paras) + lifespans(paras, cx)
         problems += [f"{act['short']}: {x}" for x in pr]
         units = list(dict.fromkeys(p["unit"] for p in paras))
         if act["slug"] == "lgpd":
