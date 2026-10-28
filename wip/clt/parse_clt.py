@@ -342,7 +342,7 @@ def level(label: str) -> int:
     return 5
 
 
-HEADING = re.compile(r"^(?:P\s?A\s?R\s?T\s?E|LIVRO|T[ÍI]TULO|CAP[ÍI]TULO|Se[çc][ãa]o|SE[ÇC][ÃA]O|Subse[çc][ãa]o|SUBSE[ÇC][ÃA]O)\b")
+HEADING = re.compile(r"^(?:P\s?A\s?R\s?T\s?E|LIVRO|T[ÍI]TULO|CAP[ÍI]TULO|Se[çc][ãa]o|SE[ÇC][ÃA]O|Sec[çc][ãa]o|SEC[ÇC][ÃA]O|Subse[çc][ãa]o|SUBSE[ÇC][ÃA]O)\b")
 NAV = re.compile(r"^(?:Texto compilado|Mensagem de veto|Vig[êe]ncia|[ÍI]NDICE|Vide\b|Regulamento|Convers[ãa]o d|"
                  r"Convertid|Produ[çc][ãa]o de efeito|Lei de Introdu[çc][ãa]o)", re.I)
 
@@ -390,7 +390,7 @@ def page_info(key: str) -> dict:
     num = key.split("-")[1]
     m = None
     for mm in re.finditer(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI|DECRETO LEI)[^,]{0,40}?N\s*[º°O]?\s*\.?\s*([\d.]+)(?:-?([A-Z]))?(?:-\d+)?\s*,?\s*"
-                          r"DE\s+(\d{1,2})º?\s+DE\s+(\w+)\s+DE\s+(\d{4})", head, re.I):
+                          r"DE\s+(\d{1,2})º?\s+(?:DE\s+)?(\w+)\s+DE\s+(\d{4})", head, re.I):
         if str(int(mm.group(1).replace(".", "") or 0)) + (mm.group(2) or "").lower() == num.lstrip("0") or                 str(int(mm.group(1).replace(".", "") or 0)) == num.rstrip("abcdefghijklmnopqrstuvwxyz"):
             m = mm
             break
@@ -457,17 +457,19 @@ def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
         if key.startswith("mp-"):
             return pub, f"published {pub}; a Medida Provisória has force of law from publication (CF art. 62)"
         return plus_days(pub, 45), f"no vigência clause: LINDB art. 1, published {pub} + 45 days"
-    if re.search(r"em\s+vigor\s+na\s+data\s+d[ae]\s+(?:sua\s+)?publica", cl, re.I):
+    if re.search(r"em\s+vigor\s+(?:na|[àa])\s+data\.?\s+d[ae]\s+(?:sua\s+)?publica", cl, re.I):
         return pub, f"own clause 'entra em vigor na data de sua publicação' (published {pub})"
     fx = re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+(?:no\s+dia|em|a\s+partir\s+de)\s+(\d{1,2})º?\s+de\s+(\w+)\s+de\s+(\d{4})", cl, re.I)
     if fx and fx.group(2).lower() in MONTHS:
         d = f"{int(fx.group(3)):04d}-{MONTHS[fx.group(2).lower()]:02d}-{int(fx.group(1)):02d}"
         return d, f"own clause: in force on a fixed day ({cl[:120]})"
-    m = re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+(?:ap[óo]s\s+decorrid[oa]s?\s+|ap[óo]s\s+)?(\d+)\s*\(([^)]+)\)\s*(dias|meses|m[êe]s|anos?)\s+"
+    words = "|".join(sorted(NUMWORDS, key=len, reverse=True))
+    m = re.search(r"entra(?:r[áa])?\s+em\s+vigor\s+(?:ap[óo]s\s+decorrid[oa]s?\s+|ap[óo]s\s+)?(\d+|" + words + r")\s*(?:\(([^)]+)\))?\s*(dias|meses|m[êe]s|anos?)\s+"
                   r"(?:ap[óo]s\s+|de\s+|da\s+|contados\s+da\s+|a\s+partir\s+da\s+)?(?:a\s+)?(?:data\s+de\s+|data\s+da\s+)?(?:sua|da\s+sua)\s+publica",
                   cl, re.I)
     if m:
-        n, unit = int(m.group(1)), m.group(3).lower()
+        n = int(m.group(1)) if m.group(1).isdigit() else NUMWORDS[m.group(1).lower()]
+        unit = m.group(3).lower()
         if unit == "dias":
             return plus_days(pub, n), f"own clause: {n} days after publication ({pub}; LC 95/1998 art. 8 § 1)"
         months = n * 12 if unit.startswith("ano") else n
@@ -526,6 +528,11 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
         lab = label_of(t)
         if CENTER_HEADINGS:
             heading = (not lab and (b["center"] or bool(HEADING.match(t)))) or (b["center"] and not lab.startswith("Art."))
+            # the name line under a struck "SECÇÃO II" is often not centred: a short unlabelled line with no closing
+            # punctuation right after a heading line is part of the heading
+            if (not heading and not lab and out and out[-1]["heading"] and HEADING.match(out[-1]["text"])
+                    and not re.search(r"[.;:,]$", t) and len(t) < 160):
+                heading = True
         else:
             # pages whose alignment is unreliable (the Código Penal keeps its 1940 Parte Geral inside centred blocks):
             # a heading is a Parte/Título/Capítulo/Seção line, the name line right after one, or a line in capitals
@@ -588,7 +595,7 @@ def heading_groups(out: list[dict]) -> None:
         lines = out[i:j]
         run += 1
         first = lines[0]["text"]
-        starts = [k for k, p in enumerate(lines) if p["text"] == first]
+        starts = [k for k, p in enumerate(lines) if heading_id(p["text"]) == heading_id(first)]
         if len(starts) > 1 and HEADING.match(first):
             groups = [lines[a:b] for a, b in zip(starts, starts[1:] + [len(lines)])]
             for g, grp in enumerate(groups):
@@ -608,6 +615,13 @@ def heading_groups(out: list[dict]) -> None:
             for p in struck:
                 p["notes"] = p["notes"] + [n for n in shared if n not in p["notes"]]
         i = j
+
+
+def heading_id(t: str) -> str:
+    """'SECÇÃO II' and 'SEÇÃO II', 'Seção II' are the same heading slot (old spelling, case)."""
+    x = unicodedata.normalize("NFD", t.upper())
+    x = "".join(c for c in x if not unicodedata.combining(c))
+    return re.sub(r"\s+", " ", x.replace("SECCAO", "SECAO")).strip()
 
 
 def attach_notes(out: list[dict], notes: list[str]) -> None:
@@ -742,6 +756,11 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
                 if q["heading"] and q["state"] != "plain" and q["end"] and q["start"] == p["start"]:
                     p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "group"
                     break
+            # else the heading line printed right after it, if that one has a later start, replaced it
+            if not p["end"] and i + 1 < len(paras):
+                q = paras[i + 1]
+                if q["heading"] and q["start"] > p["start"] and not HEADING.match(q["text"]) and not HEADING.match(p["text"]):
+                    p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "next-heading"
         else:
             for q in reversed(paras[:i]):
                 if q["unit"] != p["unit"]:
@@ -1118,11 +1137,17 @@ def main(argv: list[str]) -> int:
     eff: dict[str, str] = {}
     vig_notes = []
     lindb = []
+    no_pub = []
     for k, info in sorted(infos.items()):
         if not info:
             problems.append(f"law {k}: page not cached")
             continue
+        if info.get("bad_page"):
+            problems.append(f"law {k}: {info['bad_page']}")
+            continue
         d, why = vigencia_of(k, info)
+        if d and not info.get("published") and k not in VIGENCIA_FIXED:
+            no_pub.append(f"{law_label(k)} (enacted {info.get('enacted')})")
         if not d:
             problems.append(f"law {k}: {why}")
             continue
@@ -1133,6 +1158,10 @@ def main(argv: list[str]) -> int:
             vig_notes.append(f"{law_label(k)}: in force {d}, {why}.")
     for k, (d, why) in ACT_DAY.items():
         eff[k] = d
+    if no_pub:
+        decisions.append("Pages that print no Diário Oficial date (some 1940s decree-laws give only the Coleção das Leis do "
+                         "Brasil, an annual compilation): the enactment day stands in for the publication day: "
+                         + "; ".join(no_pub) + ".")
     effects = []
     for k, info in sorted(infos.items()):
         cl = (info or {}).get("clause", "")

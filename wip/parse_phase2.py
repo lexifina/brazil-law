@@ -417,7 +417,11 @@ VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {}
 # The day a lapsed Medida Provisória stopped having effect, from the Ato Declaratório of the President of Congress
 # (CF art. 62 §§ 3, 4, 7 and 11): key -> (date, reason). Filled in after reading each MP page.
 # Vetoed parts later promulgated after Congress overrode the veto (CF art. 66 §§ 5 and 7): law -> (day, reason).
-VETO_PROMULGATION = {}
+VETO_PROMULGATION = {
+    "lei-13964-2019": ("2021-04-30", "the parts of Lei 13.964/2019 vetoed on 24.12.2019 were promulgated after Congress "
+                                     "overrode the veto (CF art. 66 § 5; DOU 30.4.2021, printed at the end of the Lei "
+                                     "13.964 page)"),
+}
 MP_LAPSE: dict[str, tuple[str, str]] = {}
 
 
@@ -543,7 +547,7 @@ def move_rubricas(out: list[dict]) -> None:
     article. Such a line has no label and no closing punctuation, and the next labelled line starts a new article: it
     belongs to that article's file, as its first line, labelled "rubrica" so its wordings replace each other."""
     for i, p in enumerate(out):
-        if p["heading"] or p["label"] or not p["unit"].startswith(("art-", "preambulo")) or re.search(r"[.;:,]$", p["text"]):
+        if p["heading"] or p["label"] or not p["unit"].startswith(("art-", "preambulo")) or re.search(r"[.;:,]$", p["text"]) or p["text"].startswith("Pena "):
             continue
         for q in out[i + 1:]:
             if q["heading"]:
@@ -830,7 +834,11 @@ def build_act(paras: list[dict], act_day: str, gate: dict[str, str], gate_law: d
         for u in units:
             if gate.get(u, act_day) > day:
                 continue
-            lines = [p["text"] for p in by_unit[u] if alive(p, day)]
+            live = [p for p in by_unit[u] if alive(p, day)]
+            lines = [p["text"] for p in live]
+            # a marginal heading left above an article whose text is gone (revoked) is not an article
+            if all(p["label"] == "rubrica" for p in live):
+                lines = []
             if lines:
                 cur[u] = "".join(l + "\n" for l in lines)
         if versions and cur == prev:
@@ -978,6 +986,56 @@ def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str])
     hit = REWRITES.get(act["slug"])
     if hit:
         rewrite(paras, hit, eff, fixed)
+    # successive struck wordings of one dispositivo that Planalto printed out of date order (art. 121 § 7º II: the
+    # 2022 wording above the 2018 one): chain them by their own dates; the last ends with the run's revocation note
+    i = 0
+    while i < len(paras):
+        j = i
+        while (j + 1 < len(paras) and paras[j + 1]["unit"] == paras[i]["unit"] and paras[j + 1]["label"] == paras[i]["label"]
+               and paras[i]["label"] and paras[j + 1]["state"] != "plain" and paras[i]["state"] != "plain"):
+            j += 1
+        run = paras[i:j + 1]
+        if len(run) > 1 and [p["start"] for p in run] != sorted(p["start"] for p in run):
+            revs = [(d, law) for p in run for n in p["notes"] if END_KIND.search(n)
+                    for law in [law_key(n)] if law and (d := eff.get(law))]
+            chain = sorted(run, key=lambda p: (p["start"], p["i"]))
+            for a, b in zip(chain, chain[1:]):
+                a["end"], a["end_law"], a["end_how"] = b["start"], b["start_law"], "date-order"
+                fixed.add(a["i"])
+            if revs:
+                last = chain[-1]
+                last["end"], last["end_law"], last["end_how"] = (*max(revs), "date-order")
+                fixed.add(last["i"])
+            for p in run:
+                p.pop("restored", None)
+            problems = [x for x in problems if not ("restored wording" in x and any(p["text"][:80] in x for p in run))]
+        i = j + 1
+    # a vetoed item ("§ 2º - (VETADO).") that Planalto leaves unstruck above the wording Congress later promulgated
+    # over the veto: the "(VETADO)" line stands from the law's day to the promulgation, the promulgated wording after
+    for i, p in enumerate(paras):
+        if p["state"] != "plain" or p["end"] or not re.search(r"\(VETADO\)\.?$", p["text"]) or not p["label"]:
+            continue
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"]:
+                break
+            hit = VETO_PROMULGATION.get(q["start_law"] or "")
+            if q["label"] == p["label"] and hit:
+                if p["start_law"] is None:
+                    p["start"], p["start_law"] = q["start"], q["start_law"]
+                p["end"], p["end_law"], p["end_how"] = hit[0], q["start_law"], "promulgation"
+                q["start"] = hit[0]
+                break
+    # a "Parágrafo único" Planalto left unstruck although a later law (named in the note of a "§ 1º" below it) made
+    # it § 1º: an article cannot have both, so it ends when the § 1º starts
+    for i, p in enumerate(paras):
+        if p["state"] != "plain" or p["end"] or p["label"] != "Parágrafo único":
+            continue
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"]:
+                break
+            if q["label"] == "§ 1º" and q["start"] > p["start"] and q["start_law"]:
+                p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "renumbered"
+                break
     # Planalto often closes a struck run of lines (a revoked article) with one "Revogado pela" note on its last line:
     # an earlier line of the same struck run with nothing else to end it is revoked with it
     for i, p in enumerate(paras):
