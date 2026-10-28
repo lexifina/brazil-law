@@ -954,6 +954,38 @@
    "id": "law:mp-765-2016",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L8270.htm",
    "ts": "20261018230839"
+  },
+  {
+   "id": "law:mp-792-2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Mpv/mpv792.htm",
+   "ts": "20260731083306"
+  },
+  {
+   "id": "law:mp-805-2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Mpv/mpv805.htm",
+   "ts": "20261003222742"
+  },
+  {
+   "id": "law:mp-871-2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Mpv/mpv871.htm",
+   "ts": "20261024010020"
+  },
+  {
+   "id": "law:mp-873-2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Mpv/mpv873.htm",
+   "ts": "20261011141508"
+  },
+  {
+   "id": "law:dl-28-1966",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del0028.htm",
+   "ts": "20260928202242",
+   "guessed_path": true
+  },
+  {
+   "id": "law:lc-86-1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp86.htm",
+   "ts": "20261011213656",
+   "guessed_path": true
   }
  ]
 }
