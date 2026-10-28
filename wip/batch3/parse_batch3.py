@@ -280,6 +280,7 @@ EXPRESSION_SWAPS: dict[str, list[tuple[str, str]]] = {
 }
 SPLIT_PROBLEMS: list[str] = []
 SPLITS: list[str] = []
+PRINTED_AFTER: list[str] = []
 
 
 def court_key(case: str) -> str:
@@ -353,6 +354,19 @@ def lifespans(paras: list[dict], cx) -> list[str]:
             p["start"], p["start_law"], p["restored"] = max(p["start"], d), key, False
         else:
             p["end"], p["end_law"], p["end_how"] = d, key, "expression"
+    # a struck wording with no note printed right after the unstruck wording that replaced it (ECA art. 92 II: the
+    # 2009 wording above the 1990 one): it ends when that wording starts
+    for i, p in enumerate(paras):
+        if p["state"] == "plain" or p["end"] or p["notes"] or not p["label"] or i == 0:
+            continue
+        q = paras[i - 1]
+        if (q["state"] == "plain" and q["unit"] == p["unit"] and q["label"] == p["label"] and q["start_law"]
+                and q["start"] > p["start"]):
+            p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "printed-after"
+            PRINTED_AFTER.append(f"{cx.act} {p['unit']} [{p['label']}]")
+            tags = (f"restored wording after an open one: {p['unit']} [{p['label']}] {p['text'][:80]!r}",
+                    f"no end for struck {p['unit']} [{p['label']}] {p['text'][:90]!r}")
+            problems[:] = [x for x in problems if not x.startswith(tags)]
     for law, (day, _, where) in PROMULGATED.items():
         old = cx.eff.get(law)
         if not old:
@@ -488,6 +502,8 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
                            for k, v in EXPRESSION_SWAPS.items()) + f". Paragraphs read this way ({len(SPLITS)}): "
                + "; ".join(SPLITS) + "."] if SPLITS else []),
             *[f"{law_label(k)}: {why}." for k, (_, why, _) in PROMULGATED.items()],
+            *([f"Struck wordings with no note printed directly after the unstruck wording that replaced them end when "
+               f"that wording starts ({len(PRINTED_AFTER)}): " + "; ".join(PRINTED_AFTER) + "."] if PRINTED_AFTER else []),
             *[f"{why}." for k, (_, why) in KEPT_BY_CONGRESS.items() if any(a["law"] == k for a in ACTS)],
             *[f"{a['title']}: {P.REWRITES[a['slug']][2]}" for a in ACTS if a["slug"] in P.REWRITES],
             *[f"{x[4]}." for x in P.REWRITE_BLOCKS],
