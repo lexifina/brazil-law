@@ -83,9 +83,9 @@ def decode(b: bytes) -> str:
 # law references in notes
 
 LAW_REF = re.compile(
-    r"(Lei\s+Complementar|Lei|Medida\s+Provis[óo]ria|Decreto[-\s]?[Ll]ei)\s*(?:n\s*[º°o]?\s*\.?|n\.)?\s*"
-    r"(\d{1,2}(?:\.\s?\d{3})+|\d+)(?:[-\s]*[A-Z](?![a-z]))?(?:\s*\.)?(?:\s*,)?(?:\s*de\s+(\d{1,2}º?\s*[./]\s*\d{1,2}\s*[./]\s*(\d{4})|"
-    r"\d{1,2}º?\s+de\s+\w+\s+de\s+(\d{4})|(\d{4})))?", re.I)
+    r"(Lei\s+Complementar|Lei|Medida\s+Provis[óo]ria|Decreto[-\s]?[Ll]ei)\s*(?:n\s*\.?\s*[º°o]?\s*\.?|n\.)?\s*"
+    r"(\d{1,2}(?:\.\s?\d{3})+|\d+)(?:[-\s]*[A-Z](?![a-z]))?(?:\s*\.)?(?:\s*,)?(?:\s*(?:de\s+)?(\d{1,2}º?\s*[./]\s*\d{1,2}\s*[./]\s*(\d{4})|"
+    r"\d{1,2}º?\s+de\s+(?:\w+\s+de\s+)?(\d{4})|(\d{4})))?", re.I)
 
 
 def law_key(text: str, year_of: dict | None = None) -> str | None:
@@ -396,7 +396,13 @@ def page_info(key: str) -> dict:
 
 
 # Hand-checked in-force days where a law's own clause is staged or not machine-readable: key -> (date, reason).
-VIGENCIA_FIXED: dict[str, tuple[str, str]] = {}
+VIGENCIA_FIXED: dict[str, tuple[str, str]] = {
+    "lc-225-2026": ("2026-01-09", "art. 58, II: 'na data de sua publicação, quanto aos demais dispositivos' (published "
+                                  "9.1.2026); its change to the Código Penal (art. 49: arts. 168-A and 337-A) is not among "
+                                  "the provisions item I defers"),
+    "lei-10741-2003": ("2004-01-01", "art. 118: 'entra em vigor decorridos 90 (noventa) dias da sua publicação' "
+                                     "(published 3.10.2003: 1.1.2004)"),
+}
 # Provisions whose in-force day differs from the rest of their law: (law, act, unit) -> (date, reason).
 VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {}
 # The day a lapsed Medida Provisória stopped having effect, from the Ato Declaratório of the President of Congress
@@ -404,6 +410,22 @@ VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {}
 # Vetoed parts later promulgated after Congress overrode the veto (CF art. 66 §§ 5 and 7): law -> (day, reason).
 VETO_PROMULGATION = {}
 MP_LAPSE: dict[str, tuple[str, str]] = {}
+
+
+def months_rule(pub: str, n: int, unit: str) -> tuple[str, str]:
+    months = n * 12 if unit.startswith("ano") else n
+    if pub < LC107_DAY:
+        return (plus_months(pub, months),
+                f"own clause: {n} {unit} after publication ({pub}); before LC 107/2001 the period is counted by Lei "
+                f"810/1949 arts. 2-3 (from the day of publication to the corresponding day), and the law is in force "
+                f"on that day")
+    return (plus_days(plus_months(pub, months), 1),
+            f"own clause: {n} {unit} after publication ({pub}); the period ends on the same calendar day and the "
+            f"law is in force the day after (LC 95/1998 art. 8 § 1, as the STJ applied it to the CPC, in force 18.3.2016)")
+
+
+# LC 107/2001 (DOU 26.4.2001) added the counting rule of LC 95/1998 art. 8 § 1
+LC107_DAY = "2001-04-26"
 
 
 def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
@@ -427,10 +449,7 @@ def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
         n, unit = int(m.group(1)), m.group(3).lower()
         if unit == "dias":
             return plus_days(pub, n), f"own clause: {n} days after publication ({pub}; LC 95/1998 art. 8 § 1)"
-        months = n * 12 if unit.startswith("ano") else n
-        return (plus_days(plus_months(pub, months), 1),
-                f"own clause: {n} {unit} after publication ({pub}); the period ends on the same calendar day and the "
-                f"law is in force the day after (LC 95/1998 art. 8 § 1, as the STJ applied it to the CPC, in force 18.3.2016)")
+        return months_rule(pub, n, unit)
     # the same clauses written with stray spaces ("p ublicaçã o"), numbers in words ("noventa dias", "seis meses"),
     # "depois de", or the typo "entrará em vigor a data de sua publicação": match on the text without spaces
     c = re.sub(r"\s+", "", cl.lower())
@@ -445,10 +464,7 @@ def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
         unit = m.group(2)
         if unit == "dias":
             return plus_days(pub, n), f"own clause: {n} days after publication ({pub}; LC 95/1998 art. 8 § 1)"
-        months = n * 12 if unit.startswith("ano") else n
-        return (plus_days(plus_months(pub, months), 1),
-                f"own clause: {n} {unit} after publication ({pub}); the period ends on the same calendar day and the "
-                f"law is in force the day after (LC 95/1998 art. 8 § 1, as the STJ applied it to the CPC, in force 18.3.2016)")
+        return months_rule(pub, n, unit)
     return None, f"unhandled clause: {cl[:300]}"
 
 

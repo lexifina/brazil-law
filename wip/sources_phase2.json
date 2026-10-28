@@ -323,8 +323,7 @@
   {
    "id": "law:lei-14967-2024",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Lei/L14967.htm",
-   "ts": null,
-   "tried": true
+   "ts": "20261001202205"
   },
   {
    "id": "law:lei-14994-2024",
@@ -640,6 +639,21 @@
    "id": "law:lei-9983-2000",
    "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L9983.htm",
    "ts": "20261003220321"
+  },
+  {
+   "id": "law:lei-10224-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/LEIS_2001/L10224.htm",
+   "ts": "20261015111311"
+  },
+  {
+   "id": "law:lei-6368-1976",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L6368.htm",
+   "ts": "20261019165338"
+  },
+  {
+   "id": "law:lei-9281-1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/Leis/L9281.htm",
+   "ts": "20261016071717"
   }
  ]
 }

@@ -1,5 +1,5 @@
-CP paragraphs 3509 Counter({'plain': 2300, 'struck': 1209}) units 432 versions 96
-  end_how Counter({None: 754, 'successor': 205, 'parent': 155, 'note': 95})
+CP paragraphs 3509 Counter({'plain': 2300, 'struck': 1209}) units 432 versions 110
+  end_how Counter({None: 689, 'successor': 214, 'parent': 159, 'note': 147})
   DIFF art-001: only in replay: 'Anterioridade da Lei' | only in replay: 'Art. 1º Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal.'
   DIFF art-002: only in replay: 'A lei penal no tempo' | only in replay: 'Art. 2º Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execuçã' | only in replay: 'Parágrafo único. A lei posterior, que de outro modo favorece o agente, aplica-se ao fato não definitivamente julgado e, '
   DIFF art-003: only in replay: 'Art. 3º A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a d'
@@ -58,7 +58,6 @@ CP paragraphs 3509 Counter({'plain': 2300, 'struck': 1209}) units 432 versions 9
   DIFF art-058: only in replay: 'Especificação das condições' | only in replay: 'Art. 58. A sentença deve especificar as condições a que fica subordinada a suspensão.'
   DIFF art-059: only in replay: 'Revogação da suspensão' | only in replay: 'Art. 59. A suspensão é revogada se, no curso do prazo, o beneficiário:' | only in replay: 'I - é condenado, por setença irrecorrível, a pena privativa da liberdade; II - frustra, embora solvente, o pagamento da ' | only in replay: 'II - frustra, embora solvente, o pagamento da multa ou a reparação do dano.' | only in replay: '§ 1º A suspensão pode também ser revogada se o sentenciado deixa de cumprir qualquer das obrigações constantes da senten' | only in replay: '§ 2º Se o beneficiário está sendo processado por outro crime ou por motivo de contravenção, considera-se prorrogado o pr'
   DIFF art-060: only in replay: 'Requisitos do livramento condicional' | only in replay: 'Art. 60. O juiz pode conceder livramento condicional ao condenado a pena de reclusão ou de detenção superior a três anos' | only in replay: 'I - cumprida mais da metade da pena ou, tratando-se de reincidente, mais de três quartos;' | only in replay: 'II - verificada a ausência ou a cessação da prericulosidade, e provados bom comportamento durante a vida carcerária e ap' | only in replay: 'III - tenha reparado, salvo impossibilidade de fazê-lo, o dano causado pela nfração.' | only in replay: 'Parágrafo único. As penas que correspondem a infrações diversas podem somar-se, para efeito do livramento.'
-  DIFF art-061: only in replay: 'f) com abuso de autoridade ou prevalecendo-se de relações domésticas, de coabitação ou de hospitalidade;' | only in replay: 'h) contra criança, velho, enfermo ou mulher grávida.'
   DIFF art-062: only in replay: 'Preliminares da concessão' | only in replay: 'Art. 62. O livramento somente se concede mediante parecer do Conselho Penitenciário, ouvido o diretor do estabelecimento'
   DIFF art-063: only in replay: 'Vigilância do liberado' | only in replay: 'Art. 63. O liberado fica sob observação cautelar e proteção de serviço social penitenciário, patronato, conselho de comu'
   DIFF art-064: only in replay: 'Revogação do livramento' | only in replay: 'Art. 64. Revoga-se o livramento, se o liberado vem a ser condenado a pena privativa da liberdade, em sentença irrecorrív' | only in replay: 'I - por crime cometido durante a vigência do benefício;' | only in replay: 'II - por crime anterior, sem prejuizo, entretanto, do disposto no parágrafo único do art. 60;' | only in replay: 'III - por motivo de contravenção.' | only in replay: 'Parágrafo único. O juiz pode, também, revogar o livramento, se o liberado deixar de cumprir qualquer das obrigações cons'
@@ -113,15 +112,14 @@ CP paragraphs 3509 Counter({'plain': 2300, 'struck': 1209}) units 432 versions 9
   DIFF art-116: only in replay: 'Causas impeditivas da prescrição' | only in replay: 'Art. 116. Antes de passar em julgado a sentença final, a prescrição não corre:' | only in replay: 'I - enquanto não resolvida, em outro processo, questão de que dependa o reconhecimento da existência do crime;' | only in replay: 'II - enquanto o agente cumpre pena no estrangeiro.' | only in replay: 'Parágrafo único. Depois de passada em julgado a sentença condenatória, a prescrição não corre durante o tempo em que o c' | only in replay: 'Causas interruptivas da prescrição'
   DIFF art-118: only in replay: 'Absorpção das penas mais leves' | only in replay: 'Art. 118. As penas mais leves prescrevem com as penas mais graves.' | only in replay: 'Imprescritibilidade da pena acessória' | only in replay: 'Parágrafo único. É imprescritivel a pena acessória imposta na sentença ou resultante da condenação.'
   DIFF art-119: only in replay: 'Rehabilitação' | only in replay: 'Art. 119. A reabilitação alcança quaisquer penas impostas por sentença definitiva.' | only in replay: '§ 1º A reabilitação poderá ser requerida decorridos 5 (cinco) anos do dia em que fôr extinta, de qualquer modo, a pena p' | only in replay: 'a) tenha tido domicílio no País no prazo acima referido;' | only in replay: 'b) tenha dado, durante êsse tempo, demonstração efetiva e constante de bom comportamento público e privado;' | only in replay: 'c) tenha ressarcido o dano causado pelo crime ou demonstre a absoluta impossibilidade de o fazer até o dia do pedido, ou'
-  DIFF art-121: only in replay: '§ 4º No homicídio culposo, a pena é aumentada de um terço, se o crime resulta de inobservância de regra técnica de profi' | only in replay: '§ 4º No homicídio culposo, a pena é aumentada de um terço, se o crime resulta de inobservância de regra técnica de profi'
   DIFF art-122: only in replay: 'Induzimento, instigação ou auxílio a suicídio'
-  DIFF art-129: Planalto consolidated 'III perda ou ' / replay 'III - perda ou ' | only in consolidated: '§ 8º - Aplica-se à lesão culposa o disposto no § 5º do art. 121.' | only in replay: '§ 8º Aplica-se igualmente à lesão culposa o disposto no § 5º do artigo 121.' | only in replay: '§ 8º - Aplica-se à lesão culposa o disposto no § 5º do art. 121'
+  DIFF art-129: Planalto consolidated 'III perda ou ' / replay 'III - perda ou ' | Planalto consolidated 'posto no § 5º do art. 121.' / replay 'posto no § 5º do art. 121'
   DIFF art-141: only in replay: '§ 2º - (VETADO).'
   DIFF art-148: Planalto consolidated 'a liberdade dura mais de quinze dia' / replay 'a liberdade dura mais de 15 (quinze) di' | Planalto consolidated 'rdade dura mais de quinze dias.' / replay 'e dura mais de 15 (quinze) dias.'
   DIFF art-150: only in consolidated: '§ 2º -'
   DIFF art-153: only in replay: 'Parágrafo único - Somente se procede mediante representação.'
   DIFF art-155: Planalto consolidated 'o de duas ou mais pessoas.' / replay 'o de duas ou mais pessoas'
-  DIFF art-159: only in consolidated: 'Pena - reclusão, de oito a quinze anos..' | only in replay: 'Pena - reclusão, de oito a quinze anos.' | only in replay: '§ 1º Se o sequestro dura mais de vinte e quatro horas, se o sequestrado é menor de dezoito anos, ou se o crime é cometid' | Planalto consolidated ' 3º - Se resulta a morte: Vide Lei nº 8.072, de 25.7.90' / replay ' 3º - Se resulta a morte:'
+  DIFF art-159: Planalto consolidated 'o, de oito a quinze anos..' / replay 'o, de oito a quinze anos.' | Planalto consolidated ' 3º - Se resulta a morte: Vide Lei nº 8.072, de 25.7.90' / replay ' 3º - Se resulta a morte:'
   DIFF art-169: Planalto consolidated 'ente, dentro no prazo de quinze dia' / replay 'ente, dentro no prazo de 15 (quinze) di' | Planalto consolidated 'dentro no prazo de quinze dias.' / replay 'ro no prazo de 15 (quinze) dias.'
   DIFF art-171: only in replay: 'Estelionato contra idoso'
   DIFF art-171-a: only in replay: 'Fraude com a utilização de ativos virtuais, valores mobiliários ou ativos financeiros'
@@ -143,13 +141,11 @@ CP paragraphs 3509 Counter({'plain': 2300, 'struck': 1209}) units 432 versions 9
   DIFF art-223: only in consolidated
   DIFF art-224: only in consolidated
   DIFF art-228: only in replay: 'Favorecimento da prostituição'
-  DIFF art-231: only in replay: 'Tráfico internacional de pessoas' | only in replay: 'Art. 231. Promover ou facilitar a entrada, no território nacional, de alguém que nele venha a exercer a prostituição ou ' | only in replay: 'Pena - reclusão, de 3 (três) a 8 (oito) anos.' | only in replay: '§ 1º Incorre na mesma pena aquele que agenciar, aliciar ou comprar a pessoa traficada, assim como, tendo conhecimento de' | only in replay: '§ 2º A pena é aumentada da metade se:' | only in replay: 'I - a vítima é menor de 18 (dezoito) anos'
+  DIFF art-231: only in replay: 'Tráfico internacional de pessoas'
   DIFF art-231-a: only in replay
   DIFF art-232: only in consolidated
   DIFF art-234: Planalto consolidated 'Parágrafo único - I' / replay '§ 1º. Incor' | Planalto consolidated 'Parágrafo único - Incorre n' / replay '§ 1º. Incorre n'
   DIFF art-240: only in consolidated
-  DIFF art-242: only in replay: 'Art. 242. Dar parto alheio como próprio; ocultar recem-nascido ou substituí-lo, suprimindo ou alterando direito inerente' | only in replay: 'Pena - reclusão, de dois a seis anos.' | only in replay: 'Parágrafo único. Se o crime é praticado por motivo de reconhecida nobreza:' | only in replay: 'Pena - detenção, de um a dois anos.'
-  DIFF art-244: only in replay: 'Art. 244. Deixar, sem justa causa, de prover à subsistência do cônjuge, ou de filho menor de dezoito anos ou inapto para' | only in replay: 'Pena - detenção, de três meses a um ano, ou multa, de um conto a dez contos de réis.' | only in replay: 'Art. 244. Deixar, sem justa causa, de prover a subsistência do cônjuge, ou de filho menor de 18 anos ou inapto para o tr'
   DIFF art-250: Planalto consolidated ', é pena de detenção, de seis meses' / replay ', é pena de detenção, de 6 (seis) mese' | Planalto consolidated 'pena de detenção, de seis meses a d' / replay 'a de detenção, de 6 (seis) meses a 2' | Planalto consolidated 'etenção, de seis meses a dois anos.' / replay 'ção, de 6 (seis) meses a 2 (dois) anos' | Planalto consolidated 'ção, de seis meses a dois anos.' / replay ' 6 (seis) meses a 2 (dois) anos.'
   DIFF art-251: Planalto consolidated 'a pena é de detenção, de seis meses' / replay 'a pena é de detenção, de 6 (seis) mese' | Planalto consolidated 'na é de detenção, de seis meses a d' / replay 'é de detenção, de 6 (seis) meses a 2' | Planalto consolidated 'etenção, de seis meses a dois anos;' / replay 'ção, de 6 (seis) meses a 2 (dois) anos' | Planalto consolidated 'ção, de seis meses a dois anos; nos' / replay ' 6 (seis) meses a 2 (dois) anos; nos' | Planalto consolidated 'casos, é de detenção, de três meses' / replay 'casos, é de detenção, de 3 (três) mese' | Planalto consolidated 's, é de detenção, de três meses a u' / replay 'é de detenção, de 3 (três) meses a 1'
   DIFF art-264: Planalto consolidated 'a pena é de detenção, de seis meses' / replay 'a pena é de detenção, de 6 (seis) mese' | Planalto consolidated 'na é de detenção, de seis meses a d' / replay 'é de detenção, de 6 (seis) meses a 2' | Planalto consolidated 'etenção, de seis meses a dois anos;' / replay 'ção, de 6 (seis) meses a 2 (dois) anos' | Planalto consolidated 'ção, de seis meses a dois anos; se ' / replay ' 6 (seis) meses a 2 (dois) anos; se '
@@ -164,7 +160,6 @@ CP paragraphs 3509 Counter({'plain': 2300, 'struck': 1209}) units 432 versions 9
   DIFF art-309: Planalto consolidated ' de lei sobre estrangeiro' / replay ' de lei sobre estrangeiros'
   DIFF art-311: only in replay: 'Falsidade em prejuizo da nacionalização de sociedade' | only in replay: 'Adulteração de sinal identificador de veículo automotor'
   DIFF art-316: Planalto consolidated 'Pena - reclusão, de 3 (três) a 8 ' / replay 'Pena - reclusão, de três a oit' | Planalto consolidated 'na - reclusão, de 3 (três) a 8 (oito' / replay 'Pena - reclusão, de três a oito an' | Planalto consolidated ' reclusão, de 3 (três) a 8 (oito) anos' / replay 'na - reclusão, de três a oito anos,' | Planalto consolidated 'ão, de 3 (três) a 8 (oito) anos, e m' / replay ' reclusão, de três a oito anos, e m'
-  DIFF art-327: only in replay: 'Parágrafo único. Equipara-se a funcionário público quem exerce cargo, emprego ou função em entidade paraestatal. § 1º - '
   DIFF art-332: only in replay: 'Exploração de prestígio'
   DIFF art-333: only in replay: 'Contrabando ou descaminho' | only in replay: 'A rt. 334 Importar ou exportar mercadoria proibida ou iludir, no todo ou em parte, o pagamento de direito ou imposto dev' | only in replay: 'Pena - reclusão, de um a quatro anos.' | only in replay: '§ 2º A pena aplica-se em dobro, se o crime de contrabando ou descaminho é praticado em transporte aéreo.' | only in replay: '§ 1º - Incorre na mesma pena quem:' | only in replay: 'a) pratica navegação de cabotagem, fora dos casos permitidos em lei;'
   DIFF art-343: Planalto consolidated 'ês a quatro anos, e multa.' / replay 'ês a quatro anos, e multa'
@@ -172,513 +167,9 @@ CP paragraphs 3509 Counter({'plain': 2300, 'struck': 1209}) units 432 versions 9
   DIFF art-351: Planalto consolidated 'a pena é de reclusão, de dois a sei' / replay 'a pena é de reclusão, de 2 (dois) a 6 ' | Planalto consolidated 'na é de reclusão, de dois a seis an' / replay 'é de reclusão, de 2 (dois) a 6 (seis' | Planalto consolidated 'é de reclusão, de dois a seis anos.' / replay ' reclusão, de 2 (dois) a 6 (seis) anos' | Planalto consolidated ' reclusão, de dois a seis anos.' / replay 'ão, de 2 (dois) a 6 (seis) anos.' | Planalto consolidated 'e a pena de detenção, de três meses' / replay 'e a pena de detenção, de 3 (três) mese' | Planalto consolidated 'pena de detenção, de três meses a u' / replay 'a de detenção, de 3 (três) meses a 1'
   DIFF art-359-g: Planalto consolidated 'andato ou da legislatura:)' / replay 'andato ou da legislatura:'
   DIFF titulos: only in replay: 'CÓDIGO PENAL' | only in replay: 'Parte Geral' | only in replay: 'TÍTULO I' | only in replay: 'Da aplicação da lei penal' | only in replay: 'TÍTULO II' | only in replay: 'Do crime'
-  172 units differ from the consolidated page
-PROBLEM law lc-225-2026: unhandled clause: Esta Lei Complementar entra em vigor: I - 90 (noventa) dias após a data de sua publicação, quanto à instituição dos Programas Confia e Sintonia e dos selos de conformidade de que tratam os arts. 19 a 32 e 40 a 47 desta Lei Complementar, respectivamente; e II - na data de sua publicação, quanto aos d
-PROBLEM law lei-10741-2003: unhandled clause: Esta Lei entra em vigor decorridos 90 (noventa) dias da sua publicação, ressalvado o disposto no caput do art. 36, que vigorará a partir de 1 o de janeiro de 2004.
-PROBLEM law lei-11340-2006: no publication date found
-PROBLEM law lei-13344-2016: unhandled clause: Esta Lei entra em vigor após decorridos 45 (quarenta e cinco) dias de sua p ublicaçã o oficial.
-PROBLEM law lei-14967-2024: page not cached
-PROBLEM law lei-5346-1967: unhandled clause: A presente Lei entra em vigor 30 dias após a sua publicação. Art 5º Revogam-se as disposições em contrário.
-PROBLEM law lei-5478-1968: unhandled clause: Esta lei entrará em vigor 30 (trinta) dias depois de sua publicação.
-PROBLEM law lei-6898-1981: unhandled clause: Esta Lei entrará em vigor a data de sua publicação.
-PROBLEM law lei-7209-1984: unhandled clause: Esta lei entra em vigor seis meses após a data de sua publicação.
-PROBLEM law lei-8069-1990: unhandled clause: Esta Lei entra em vigor noventa dias após sua publicação. Parágrafo único. Durante o período de vacância deverão ser promovidas atividades e campanhas de divulgação e esclarecimentos acerca do disposto nesta Lei.
-PROBLEM law lei-9983-2000: unhandled clause: Esta Lei entra em vigor noventa dias após a data de sua publicação.
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluída pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Incluído pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-11340-2006 (note '(Redação dada pela Lei nº 11.340, de 2006)')
-PROBLEM CP: no in-force day for lei-10741-2003 (note '(Redação dada pela Lei nº 10.741, de 2003)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-7209-1984 (note '(Redação dada pela Lei nº 7.209, de 11.7.1984)')
-PROBLEM CP: no in-force day for lei-8069-1990 (note '(Redação dada pela Lei nº 8.069, de 1990)')
-PROBLEM CP: no in-force day for lei-10741-2003 (note '(Redação dada pela Lei nº 10.741, de 2003)')
-PROBLEM CP: no in-force day for lei-8069-1990 (note '(Redação dada pela Lei nº 8.069, de 1990)')
-PROBLEM CP: no in-force day for lei-8069-1990 (note '(Redação dada pela Lei nº 8.069, de 1990)')
-PROBLEM CP: no in-force day for lei-11340-2006 (note '(Redação dada pela Lei nº 11.340, de 2006)')
-PROBLEM CP: no in-force day for lei-11340-2006 (note '(Redação dada pela Lei nº 11.340, de 2006)')
-PROBLEM CP: no in-force day for lei-11340-2006 (note '(Incluído pela Lei nº 11.340, de 2006)')
-PROBLEM CP: no in-force day for lei-10741-2003 (note '(Incluído pela Lei nº 10.741, de 2003)')
-PROBLEM CP: no in-force day for lei-8069-1990 (note '(Incluído pela Lei nº 8.069, de 1990)')
-PROBLEM CP: no in-force day for lei-10741-2003 (note '(Redação dada pela Lei nº 10.741, de 2003)')
-PROBLEM CP: no in-force day for lei-10741-2003 (note '(Incluído pela Lei nº 10.741, de 2003)')
-PROBLEM CP: no in-force day for lei-10741-2003 (note '(Redação dada pela Lei nº 10.741, de 2003)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Incluído pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-10741-2003 (note '(Redação dada pela Lei nº 10.741, de 2003)')
-PROBLEM CP: no in-force day for lei-5346-1967 (note '(Redação dada pela Lei nº 5.346, de 3.11.1967)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lc-225-2026 (note '(Incluído pela Lei Complementar nº 225, de 2026)')
-PROBLEM CP: no in-force day for lc-225-2026 (note '(Incluído pela Lei Complementar nº 225, de 2026)')
-PROBLEM CP: no in-force day for lei-5346-1967 (note '(Incluído pela Lei nº 5.346, de 3.11.1967)')
-PROBLEM CP: no in-force day for lei-5346-1967 (note '(Incluído pela Lei nº 5.346, de 3.11.1967)')
-PROBLEM CP: no in-force day for lei-10741-2003 (note '(Incluído pela Lei nº 10.741, de 2003)')
-PROBLEM CP: no in-force day for lei-14967-2024 (note '(Incluído pela Lei nº 14.967, de 2024)')
-PROBLEM CP: no in-force day for lei-8069-1990 (note '(Incluído pela Lei nº 8.069, de 1990)')
-PROBLEM CP: no in-force day for lei-8069-1990 (note '(Redação dada pela Lei nº 8.069, de 1990)')
-PROBLEM CP: note names no law: '(Revogado pela Lei n.º 9.281, de 4.6.1996)'
-PROBLEM CP: no in-force day for lei-8069-1990 (note '(Incluído pela Lei nº 8.069, de 1990)')
-PROBLEM CP: no in-force day for lei-8069-1990 (note '(Redação dada pela Lei nº 8.069, de 1990)')
-PROBLEM CP: note names no law: '(Revogado pela Lei n.º 9.281, de 4.6.1996'
-PROBLEM CP: note names no law: '(Incluído pela Lei nº 10.224, de 15 de 2001)'
-PROBLEM CP: note names no law: '(Incluído pela Lei nº 10.224, de 15 de 2001)'
-PROBLEM CP: note names no law: '(Incluído pela Lei nº 10.224, de 15 de 2001)'
-PROBLEM CP: note names no law: '(Incluído pela Lei nº 10.224, de 15 de 2001)'
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-13344-2016 (note '(Revogado pela Lei nº 13.344, de 2016)')
-PROBLEM CP: no in-force day for lei-6898-1981 (note '(Redação dada pela Lei nº 6.898, de 1981)')
-PROBLEM CP: no in-force day for lei-6898-1981 (note '(Redação dada pela Lei nº 6.898, de 1981)')
-PROBLEM CP: no in-force day for lei-6898-1981 (note '(Redação dada pela Lei nº 6.898, de 1981)')
-PROBLEM CP: no in-force day for lei-6898-1981 (note '(Redação dada pela Lei nº 6.898, de 1981)')
-PROBLEM CP: no in-force day for lei-5478-1968 (note '(Redação dada pela Lei nº 5.478, de 1968)')
-PROBLEM CP: no in-force day for lei-10741-2003 (note '(Redação dada pela Lei nº 10.741, de 2003)')
-PROBLEM CP: no in-force day for lei-5478-1968 (note '(Redação dada pela Lei nº 5.478, de 1968)')
-PROBLEM CP: no in-force day for lei-5478-1968 (note '(Incluído pela Lei nº 5.478, de 1968)')
-PROBLEM CP: no in-force day for lei-5346-1967 (note '(Incluído pela Lei nº 5.346, de 3.11.1967)')
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: note names no law: '(Revogado pela Lei nº 6.368, 1976)'
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lei-9983-2000 (note '(Incluído pela Lei nº 9.983, de 2000)')
-PROBLEM CP: no in-force day for lc-225-2026 (note '(Incluído pela Lei Complementar nº 225, de 2026)')
-PROBLEM CP: no in-force day for lc-225-2026 (note '(Incluído pela Lei Complementar nº 225, de 2026)')
+  167 units differ from the consolidated page
 PROBLEM CP: restored wording after an open one: art-029 [§ 2º] '§ 2º O recluso de bom procedimento pode ser transferido para colônia penal ou es'
-PROBLEM CP: restored wording after an open one: art-061 [h)] 'h) contra criança, maior de 60 (sessenta) anos, enfermo ou mulher grávida;'
-PROBLEM CP: restored wording after an open one: art-083 [V -] 'V - cumpridos mais de dois terços da pena, nos casos de condenação por crime hed'
 PROBLEM CP: restored wording after an open one: art-121 [II -] 'II - contra pessoa menor de 14 (catorze) anos, maior de 60 (sessenta) anos, com '
-PROBLEM CP: restored wording after an open one: art-129 [§ 8º] '§ 8º - Aplica-se à lesão culposa o disposto no § 5º do art. 121'
 PROBLEM CP: restored wording after an open one: art-214 [rubrica] 'Atentado violento ao pudor'
 PROBLEM CP: no end for struck titulos [h1-0] 'CÓDIGO PENAL' notes=[]
 PROBLEM CP: no end for struck titulos [h1-1] 'Parte Geral' notes=[]
@@ -1307,15 +798,8 @@ PROBLEM CP: no end for struck art-119 [b)] 'b) em relação à incapacidade para
 PROBLEM CP: no end for struck art-119 [§ 3º] '§ 3º Negada a reabilitação, não pode ser novamente requerida senão após o decurso de 2 (do' notes=['(Redação dada pela Lei nº 5.467, de 1968)']
 PROBLEM CP: no end for struck art-119 [] 'Revogação da rehabilitação' notes=[]
 PROBLEM CP: no end for struck art-119 [] 'Art 120. A rehabilitação é revogada e não pode mais ser concedida, se o rahabilitado sofre' notes=[]
-PROBLEM CP: no end for struck art-061 [f)] 'f) com abuso de autoridade ou prevalecendo-se de relações domésticas, de coabitação ou de ' notes=[]
-PROBLEM CP: no end for struck art-061 [h)] 'h) contra criança, velho, enfermo ou mulher grávida.' notes=['(Redação dada pela Lei nº 9.318, de 1996)']
-PROBLEM CP: no end for struck art-083 [V -] 'V - cumprido mais de dois terços da pena, nos casos de condenação por crime hediondo, prát' notes=['(Incluído pela Lei nº 8.072, de 25.7.1990)']
-PROBLEM CP: no end for struck art-121 [§ 4º] '§ 4º No homicídio culposo, a pena é aumentada de um terço, se o crime resulta de inobservâ' notes=[]
-PROBLEM CP: no end for struck art-121 [§ 4º] '§ 4º No homicídio culposo, a pena é aumentada de um terço, se o crime resulta de inobservâ' notes=['(Redação dada pela Lei nº 8.069, de 1990)']
 PROBLEM CP: no end for struck art-122 [rubrica] 'Induzimento, instigação ou auxílio a suicídio' notes=[]
-PROBLEM CP: no end for struck art-129 [§ 8º] '§ 8º Aplica-se igualmente à lesão culposa o disposto no § 5º do artigo 121.' notes=['(Incluído pela Lei nº 6.416, de 24.5.1977)']
 PROBLEM CP: no end for struck art-153 [Parágrafo único] 'Parágrafo único - Somente se procede mediante representação.' notes=[]
-PROBLEM CP: no end for struck art-159 [§ 1º] '§ 1º Se o sequestro dura mais de vinte e quatro horas, se o sequestrado é menor de dezoito' notes=[]
 PROBLEM CP: no end for struck art-171 [] 'Estelionato contra idoso' notes=[]
 PROBLEM CP: no end for struck art-179 [] 'Art 180. Adquirir, receber ou ocultar, em proveito próprio ou alheio, coisa que sabe ser p' notes=[]
 PROBLEM CP: no end for struck art-179 [] 'Pena - reclusão, de dois a quatro anos, e multa, de quinhentos mil réis a dez contos de ré' notes=[]
@@ -1342,33 +826,7 @@ PROBLEM CP: no end for struck art-215 [rubrica] 'Posse sexual mediante fraude' n
 PROBLEM CP: no end for struck art-228 [rubrica] 'Favorecimento da prostituição' notes=[]
 PROBLEM CP: no end for struck art-231 [rubrica] 'Tráfico internacional de pessoas' notes=['(Redação dada pela Lei nº 11.106, de 2005)']
 PROBLEM CP: no end for struck art-231 [] 'Tráfico internacional de pessoa para fim de exploração sexual' notes=['(Redação dada pela Lei nº 12.015, de 2009)']
-PROBLEM CP: no end for struck art-231 [Art. 231] 'Art. 231. Promover ou facilitar a entrada, no território nacional, de alguém que nele venh' notes=['(Redação dada pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231 [] 'Pena - reclusão, de 3 (três) a 8 (oito) anos.' notes=['(Redação dada pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231 [§ 1º] '§ 1º Incorre na mesma pena aquele que agenciar, aliciar ou comprar a pessoa traficada, ass' notes=['(Redação dada pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231 [§ 2º] '§ 2º A pena é aumentada da metade se:' notes=['(Redação dada pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231 [I -] 'I - a vítima é menor de 18 (dezoito) anos' notes=['(Incluído pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231 [II -] 'II - a vítima, por enfermidade ou deficiência mental, não tem o necessário discernimento p' notes=['(Incluído pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231 [III -] 'III - se o agente é ascendente, padrasto, madrasta, irmão, enteado, cônjuge, companheiro, ' notes=['(Incluído pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231 [IV -] 'IV - há emprego de violência, grave ameaça ou fraude.' notes=['(Incluído pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231 [§ 3º] '§ 3º Se o crime é cometido com o fim de obter vantagem econômica, aplica-se também multa.' notes=['(Incluído pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
 PROBLEM CP: no end for struck art-231-a [rubrica] 'Tráfico interno de pessoas' notes=['(Incluído pela Lei nº 11.106, de 2005)']
-PROBLEM CP: no end for struck art-231-a [] 'Tráfico interno de pessoa para fim de exploração sexual' notes=['(Redação dada pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231-a [Art. 231-A] 'Art. 231-A. Promover ou facilitar o deslocamento de alguém dentro do território nacional p' notes=['(Redação dada pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231-a [] 'Pena - reclusão, de 2 (dois) a 6 (seis) anos.' notes=['(Redação dada pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231-a [§ 1º] '§ 1º Incorre na mesma pena aquele que agenciar, aliciar, vender ou comprar a pessoa trafic' notes=['(Incluído pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231-a [§ 2º] '§ 2º A pena é aumentada da metade se:' notes=['(Incluído pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231-a [I -] 'I - a vítima é menor de 18 (dezoito) anos;' notes=['(Incluído pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231-a [II -] 'II - a vítima, por enfermidade ou deficiência mental, não tem o necessário discernimento p' notes=['(Incluído pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231-a [III -] 'III - se o agente é ascendente, padrasto, madrasta, irmão, enteado, cônjuge, companheiro, ' notes=['(Incluído pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231-a [IV -] 'IV - há emprego de violência, grave ameaça ou fraude.' notes=['(Incluído pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-231-a [§ 3º] '§ 3º Se o crime é cometido com o fim de obter vantagem econômica, aplica-se também multa.' notes=['(Incluído pela Lei nº 12.015, de 2009)', '(Revogado pela Lei nº 13.344, de 2016)']
-PROBLEM CP: no end for struck art-242 [Art. 242] 'Art. 242. Dar parto alheio como próprio; ocultar recem-nascido ou substituí-lo, suprimindo' notes=[]
-PROBLEM CP: no end for struck art-242 [] 'Pena - reclusão, de dois a seis anos.' notes=[]
-PROBLEM CP: no end for struck art-242 [Parágrafo único] 'Parágrafo único. Se o crime é praticado por motivo de reconhecida nobreza:' notes=[]
-PROBLEM CP: no end for struck art-242 [] 'Pena - detenção, de um a dois anos.' notes=[]
-PROBLEM CP: no end for struck art-244 [Art. 244] 'Art. 244. Deixar, sem justa causa, de prover à subsistência do cônjuge, ou de filho menor ' notes=[]
-PROBLEM CP: no end for struck art-244 [] 'Pena - detenção, de três meses a um ano, ou multa, de um conto a dez contos de réis.' notes=[]
-PROBLEM CP: no end for struck art-244 [Art. 244] 'Art. 244. Deixar, sem justa causa, de prover a subsistência do cônjuge, ou de filho menor ' notes=['(Redação dada pela Lei nº 5.478, de 1968)']
 PROBLEM CP: no end for struck art-272 [rubrica] 'Corrupção, adulteração ou falsificação de substância alimentícia ou medicinal' notes=[]
 PROBLEM CP: no end for struck art-273 [rubrica] 'Alteração de substância alimentícia ou medicinal' notes=[]
 PROBLEM CP: no end for struck art-279 [Art. 279] 'Art. 279 - Vender, ter em depósito para vender ou expor à venda ou, de qualquer forma, ent' notes=[]
@@ -1388,42 +846,10 @@ PROBLEM CP: no end for struck art-281 [I -] 'I - instiga ou induz alguém a usar
 PROBLEM CP: no end for struck art-281 [II -] 'II - utiliza local, de que tem a propriedade, posse, administração ou vigilância, ou conse' notes=['(Incluído pelo Decreto-Lei nº 385, de 1968)']
 PROBLEM CP: no end for struck art-281 [III -] 'III - contribui de qualquer forma para incentivar ou difundir o uso de entorpecente ou de ' notes=['(Incluído pelo Decreto-Lei nº 385, de 1968)']
 PROBLEM CP: no end for struck art-281 [§ 5º] '§ 5º As penas aumentam-se de um têrço, se a substância entorpecente ou que determine depen' notes=['(Incluído pelo Decreto-Lei nº 385, de 1968)']
-PROBLEM CP: no end for struck titulos [h73-0] 'COMÉRCIO, POSSE OU USO DE ENTORPECENTE OU SUBSTÂNCIA QUE DETERMINE DEPENDÊNCIA FÍSICA OU P' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [Art. 281] 'Art. 281. Importar ou exportar, preparar, produzir, vender, expor à venda ou oferecer, for' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [] 'Pena - reclusão, de 1 (um) a 6 anos e multa de 50 (cinqüenta) a 100 (cem) vêzes o maior sa' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [§ 1º] '§ 1º Nas mesmas penas incorre quem, indevidamente:' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [] 'MATÉRIAS-PRIMAS OU PLANTAS DESTINADAS à PREPARAÇÃO DE ENTORPECENTES OU DE SUBSTÂNCIAS QUE ' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [I -] 'I - importa ou exporta, vende ou expõe à venda ou oferece, fornece, ainda que a título gra' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [] 'CULTIVO DE PLANTAS DESTINADAS à PREPARAÇÃO DE ENTORPECENTES OU DE SUBSTÂNCIAS QUE DETERMIN' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [II -] 'II - faz ou mantém o cultivo de plantas destinadas à preparação de entorpecentes ou de sub' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck titulos [h74-0] 'PORTE DE SUBSTÂNCIA ENTORPECENTE OU QUE DETERMINE DEPENDÊNCIA FÍSICA OU PSÍQUICA.' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [III -] 'III - traz consigo, para uso próprio, substância entorpecente ou que determine dependência' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck titulos [h75-0] 'AQUISIÇÃO DE SUBSTÂNCIA ENTORPECENTE OU QUE DETERMINE DEPENDÊNCIA FÍSICA OU PSÍQUICA.' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [IV -] 'IV - adquire substância entorpecente ou que determine dependência física ou psíquica.' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck titulos [h76-0] 'PRESCRIÇÃO INDEVIDA DE SUBSTÂNCIA ENTORPECENTE OU QUE DETERMINE DEPENDÊNCIA FÍSICA OU PSÍQ' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [§ 2º] '§ 2º Prescrever o médico ou dentista substância entorpecente ou que determine dependência ' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [] 'Pena - detenção, de 1 (um) a 5 (cinco) anos, e multa de 10 (dez) a 30 (trinta) vêzes o mai' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [§ 3º] '§ 3º Incorre nas penas de 1 (um) a 6 (seis) anos de reclusão e multa de 30 (trinta) a 60 (' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck titulos [h77-0] 'INDUZIMENTO AO USO DE ENTORPECENTE OU DE SUBSTÂNCIA QUE DETERMINE DEPENDÊNCIA FÍSICA OU PS' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [I -] 'I - instiga ou induz alguém a usar entorpecente ou substância que determine dependência fí' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck titulos [h78-0] 'LOCAL DESTINADO AO USO DE ENTORPECENTE OU DE SUBSTÂNCIA QUE DETERMINE DEPENDÊNCIA FÍSICA O' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [II -] 'II - utiliza o local, de que tem a propriedade, posse, administração ou vigilância, ou con' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [] 'INCENTIVO OU DIFUSãO DO USO DE ENTORPECENTE OU SUBSTÂNCIA QUE DETERMINE DEPENDÊNCIA FÍSICA' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [III -] 'III - contribui de qualquer forma para incentivar ou difundir o uso de entorpecente ou de ' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck titulos [h79-0] 'FORMA QUALIFICADA.' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [§ 4º] '§ 4º As penas aumentam-se de 1/3 (um têrço) se a substância entorpecente ou que determine ' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck titulos [h80-0] 'BANDO OU QUADRILHA.' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [§ 5º] '§ 5º Associarem-se duas ou mais pessoas, em quadrilha ou bando, para o fim de cometer qual' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [] 'Pena - reclusão, de 2 (dois) a 6 (seis) anos, e multa de 20 (vinte) a 50 (cinqüenta) vêzes' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck titulos [h81-0] 'FORMA QUALIFICADA.' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [§ 6º] '§ 6º Nos crimes previstos neste artigo e seus parágrafos, salvo os referidos nos § 1º, inc' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck titulos [h82-0] 'FORMA QUALIFICADA.' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
-PROBLEM CP: no end for struck art-281 [§ 7º] '§ 7º Nos crimes previstos neste artigo e seus parágrafos as penas aumentam-se de 1/3 (um t' notes=['(Redação dada pela Lei nº 5.726, de 1971)', '(Revogado pela Lei nº 6.368, 1976)']
 PROBLEM CP: no end for struck art-282 [rubrica] 'Exercício ilegal da medicina, arte dentária ou farmacêutica' notes=[]
 PROBLEM CP: no end for struck art-288 [rubrica] 'Quadrilha ou bando' notes=[]
 PROBLEM CP: no end for struck art-311 [rubrica] 'Falsidade em prejuizo da nacionalização de sociedade' notes=[]
 PROBLEM CP: no end for struck art-311 [] 'Adulteração de sinal identificador de veículo automotor' notes=['(Redação dada pela Lei nº 9.426, de 1996)']
-PROBLEM CP: no end for struck art-327 [Parágrafo único] 'Parágrafo único. Equipara-se a funcionário público quem exerce cargo, emprego ou função em' notes=[]
 PROBLEM CP: no end for struck art-332 [rubrica] 'Exploração de prestígio' notes=[]
 PROBLEM CP: no end for struck art-333 [] 'Contrabando ou descaminho' notes=[]
 PROBLEM CP: no end for struck art-333 [] 'A rt. 334 Importar ou exportar mercadoria proibida ou iludir, no todo ou em parte, o pagam' notes=[]
@@ -1434,4 +860,4 @@ PROBLEM CP: no end for struck art-333 [a)] 'a) pratica navegação de cabotagem,
 PROBLEM CP: no end for struck art-333 [b)] 'b) pratica fato assimilado, em lei especial, a contrabando ou descaminho;' notes=['(Redação dada pela Lei nº 4.729, de 14.7.1965)']
 PROBLEM CP: no end for struck art-333 [c)] 'c) vende, expõe à venda, mantém em depósito ou, de qualquer forma, utiliza em proveito pró' notes=['(Incluído pela Lei nº 4.729, de 14.7.1965)']
 PROBLEM CP: no end for struck art-333 [d)] 'd) adquire, recebe ou oculta, em proveito próprio ou alheio, no exercício de atividade com' notes=['(Incluído pela Lei nº 4.729, de 14.7.1965)']
-1261 problems
+692 problems
