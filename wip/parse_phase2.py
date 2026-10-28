@@ -67,6 +67,8 @@ def raw(ident: str) -> tuple[bytes, str] | None:
 
 
 def decode(b: bytes) -> str:
+    if b[:2] in (bytes([0xFF, 0xFE]), bytes([0xFE, 0xFF])):
+        return b.decode("utf-16", errors="replace")
     m = re.search(rb'charset=["\']?([\w-]+)', b[:4000], re.I)
     enc = (m.group(1).decode() if m else "windows-1252").lower()
     if enc in ("iso-8859-1", "latin1", "latin-1"):
@@ -423,6 +425,24 @@ def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
                   cl, re.I)
     if m:
         n, unit = int(m.group(1)), m.group(3).lower()
+        if unit == "dias":
+            return plus_days(pub, n), f"own clause: {n} days after publication ({pub}; LC 95/1998 art. 8 § 1)"
+        months = n * 12 if unit.startswith("ano") else n
+        return (plus_days(plus_months(pub, months), 1),
+                f"own clause: {n} {unit} after publication ({pub}); the period ends on the same calendar day and the "
+                f"law is in force the day after (LC 95/1998 art. 8 § 1, as the STJ applied it to the CPC, in force 18.3.2016)")
+    # the same clauses written with stray spaces ("p ublicaçã o"), numbers in words ("noventa dias", "seis meses"),
+    # "depois de", or the typo "entrará em vigor a data de sua publicação": match on the text without spaces
+    c = re.sub(r"\s+", "", cl.lower())
+    if re.search(r"entra(?:r[áa])?emvigor(?:na|a)datad[ae]suapublica", c):
+        return pub, f"own clause 'entra em vigor na data de sua publicação' (published {pub})"
+    words = "|".join(sorted((w.replace(" ", "") for w in NUMWORDS), key=len, reverse=True))
+    m = re.search(r"entra(?:r[áa])?emvigor(?:ap[óo]sdecorrid[oa]s|decorrid[oa]s|ap[óo]s)?(\d+|" + words + r")(?:\([^)]*\))?"
+                  r"(dias|meses|m[êe]s|anos?)(?:ap[óo]s|depoisd[ae]|d[ae]|contadosda|apartirda)?(?:a)?(?:datad[ae])?(?:sua|dasua)publica", c)
+    if m:
+        w = m.group(1)
+        n = int(w) if w.isdigit() else {k.replace(" ", ""): v for k, v in NUMWORDS.items()}[w]
+        unit = m.group(2)
         if unit == "dias":
             return plus_days(pub, n), f"own clause: {n} days after publication ({pub}; LC 95/1998 art. 8 § 1)"
         months = n * 12 if unit.startswith("ano") else n

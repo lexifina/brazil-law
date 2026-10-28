@@ -16,16 +16,6 @@
    "ts": "20261023070835"
   },
   {
-   "id": "clt",
-   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
-   "ts": "20261022194436"
-  },
-  {
-   "id": "clt-compilado",
-   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
-   "ts": "20261019225805"
-  },
-  {
    "id": "law:dl-385-1968",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del0385.htm",
    "ts": "20261004075449"
@@ -630,6 +620,26 @@
    "id": "law:lei-9459-1997",
    "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L9459.htm",
    "ts": "20261024004016"
+  },
+  {
+   "id": "law:lei-9677-1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L9677.htm",
+   "ts": "20261004075724"
+  },
+  {
+   "id": "law:lei-9714-1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L9714.htm",
+   "ts": "20261004190227"
+  },
+  {
+   "id": "law:lei-9777-1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L9777.htm",
+   "ts": "20261014061404"
+  },
+  {
+   "id": "law:lei-9983-2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L9983.htm",
+   "ts": "20261003220321"
   }
  ]
 }
