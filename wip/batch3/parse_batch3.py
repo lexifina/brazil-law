@@ -36,7 +36,7 @@ PAGES = {
 ACTS: list[dict] = [
     {"slug": "codigo-tributario-nacional", "short": "CTN", "page": "ctn", "consolidated": "ctn-compilado",
      "law": "lei-5172-1966", "title": "Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966)",
-     "digits": 3, "url": PL + "leis/l5172compilado.htm"},
+     "digits": 3, "center_headings": False, "url": PL + "leis/l5172compilado.htm"},
     {"slug": "estatuto-da-crianca-e-do-adolescente", "short": "ECA", "page": "eca", "consolidated": "eca-compilado",
      "law": "lei-8069-1990", "title": "Estatuto da Criança e do Adolescente (Lei nº 8.069, de 13 de julho de 1990)",
      "digits": 3, "url": PL + "leis/l8069compilado.htm"},
