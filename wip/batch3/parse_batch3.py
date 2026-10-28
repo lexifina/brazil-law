@@ -168,7 +168,14 @@ P.NOTE_FIX = {}
 P.MP_PENDING = {}
 P.MP_LAPSE = {}
 P.PUBLISHED_FIXED = {}
-P.VIGENCIA_FIXED = {}
+# Hand-checked in-force days where a law's own clause is staged (key -> (date, reason)), read from the law's page.
+P.VIGENCIA_FIXED = {
+    "lei-14690-2023": ("2023-10-03", "art. 37: 'Esta Lei entra em vigor: I - após decorridos 180 (cento e oitenta) dias "
+                                     "de sua publicação oficial, quanto ao art. 30 desta Lei; e II - na data de sua "
+                                     "publicação, quanto aos demais dispositivos' (DOU 3.10.2023, edição extra); its only "
+                                     "change to these acts, the revocation of Código Eleitoral art. 7 § 1º IV, is in art. 36 "
+                                     "I, so it took effect on publication"),
+}
 P.VIGENCIA_PROVISION = {}
 P.VETO_PROMULGATION = {}
 P.VETO_PROMULGATED_UNITS = {}
