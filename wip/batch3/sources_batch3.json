@@ -1,0 +1,14 @@
+{
+ "fetch": [
+  {
+   "id": "ctn",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172.htm",
+   "ts": "20261023041622"
+  },
+  {
+   "id": "ctn-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+   "ts": "20261026202202"
+  }
+ ]
+}

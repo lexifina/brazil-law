@@ -24,6 +24,8 @@ PAGES = {
     "eca-compilado": "leis/l8069compilado.htm",
     "ce": "leis/l4737.htm",
     "ce-compilado": "leis/l4737compilado.htm",
+    "rju": "leis/l8112cons.htm",
+    "rju-compilado": "leis/l8112compilado.htm",
 }
 
 ACTS: list[dict] = []
