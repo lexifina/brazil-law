@@ -7,13 +7,17 @@ replaces its configuration: the acts, the hand tables, the pin file and the outp
 """
 from __future__ import annotations
 
+import json
+import os
 import sys
+import urllib.parse
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 FOLDER = HERE.parent
 sys.path.insert(0, str(FOLDER))
 sys.path.insert(0, str(FOLDER / "proc"))
+import fetch  # noqa: E402
 import parse_proc as P  # noqa: E402
 
 PL = P.PL
@@ -70,6 +74,163 @@ ACT_LAWS = {
                               "leis/l4737.htm"),
 }
 P.ACT_LAWS = ACT_LAWS
+
+
+SRC = HERE / "sources_batch3.json"
+P.OUT = FOLDER / "corpus.d" / "90-batch3.json"
+
+
+def sources() -> dict[str, dict]:
+    return {i["id"]: i for i in json.loads(SRC.read_text(encoding="utf-8"))["fetch"]} if SRC.exists() else {}
+
+
+P.sources = sources
+
+# ---------------------------------------------------------------------------------------------------------------
+# hand tables (same meaning as in parse_proc.py), emptied of the CPP/CDC entries and filled for these acts
+
+P.COURTS = {}
+P.EDITORIAL = {}
+P.LAW_ALIAS = {}
+P.NOTE_FIX = {}
+P.MP_PENDING = {}
+P.MP_LAPSE = {}
+P.PUBLISHED_FIXED = {}
+P.VIGENCIA_FIXED = {}
+P.VIGENCIA_PROVISION = {}
+P.VETO_PROMULGATION = {}
+P.VETO_PROMULGATED_UNITS = {}
+P.REWRITES = {}
+P.REWRITE_BLOCKS = []
+P.SAME_DAY_LAWS = set()
+P.ACT_DECISIONS = []
+
+# ---------------------------------------------------------------------------------------------------------------
+# the part file
+
+
+def _requests() -> tuple[int, int, int]:
+    src = sources()
+    mine = {fetch.wayback(i["url"], i["ts"]) for i in src.values() if i.get("ts")}
+    paths = {i["url"].split("://", 1)[1].lower() for i in src.values()}
+    lexml = {u for u in P.LEXML_USED if u}
+    courts = [c["url"] for c in P.COURTS.values()]
+    n_pl = n_lx = n_stf = 0
+    try:
+        lines = fetch.LOG.read_text(encoding="utf-8").splitlines()
+    except OSError:
+        lines = []
+    seen = set()
+    for line in lines:
+        u = json.loads(line)["url"]
+        if u in seen:
+            continue
+        if u in mine:
+            n_pl += 1
+        elif "cdx/search" in u:
+            q = urllib.parse.parse_qs(urllib.parse.urlsplit(u).query).get("url", [""])[0].lower()
+            if q in paths:
+                n_pl += 1
+        elif u in lexml:
+            n_lx += 1
+        elif "portal.stf.jus.br" in u and any(c.rsplit("=", 1)[-1] in u for c in courts):
+            n_stf += 1
+        else:
+            continue
+        seen.add(u)
+    return n_pl, n_lx, n_stf
+
+
+def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mpn) -> int:
+    used = set()
+    for act in acts_out:
+        used.add(act["first_law"])
+        for v in act["versions"]:
+            for ls in v["credits"].values():
+                used |= set(ls)
+    for k in list(used):
+        if laws.get(k, {}).get("restores"):
+            used.add(laws[k]["restores"])
+    laws = {k: laws[k] for k in sorted(used) if k in laws}
+    n_pl, n_lx, n_stf = _requests()
+    names = ", ".join(a["short"] for a in ACTS)
+    srcs = [{
+        "name": f"Planalto (Presidência da República), Legislação: annotated and consolidated pages of the {names} and "
+                "of every law their notes cite, read as Internet Archive raw captures",
+        "url": PL, "retrieved": P.RETRIEVED, "requests": n_pl,
+        "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
+        "notes": TERMS_NOTE + " Every page is the Internet Archive raw capture (web.archive.org/web/<ts>id_/<planalto "
+                 "url>), byte-identical to what Planalto served; the capture timestamps are pinned in "
+                 "batch3/sources_batch3.json."},
+        {"name": "LexML Brasil (Senado Federal): record of each cited law, for its 'Publicação Original' DOU day",
+         "url": "https://www.lexml.gov.br/", "retrieved": P.RETRIEVED, "requests": n_lx,
+         "licence": "Public federal portal; bibliographic data of official acts",
+         "notes": "One URN page per law (urn:lex:br:federal:<kind>:<date>;<number>); used only to check the DOU day "
+                  "printed on the Planalto page."}]
+    if P.COURTS:
+        srcs.append({"name": "Supremo Tribunal Federal: case pages of " + ", ".join(c["label"].replace("STF, ", "")
+                                                                                       for c in P.COURTS.values()),
+                     "url": "https://portal.stf.jus.br/", "retrieved": P.RETRIEVED, "requests": n_stf,
+                     "licence": "Public court records",
+                     "notes": "Judgment day and the day the judgment record was published in the DJ (abaAndamentos)."})
+    part = {
+        "sources": srcs,
+        "laws": laws,
+        "acts": acts_out,
+        "applies": [],
+        "decisions": [
+            "Acts of this part (" + "; ".join(x["title"] for x in ACTS) + "): each paragraph's life span is read from "
+            "Planalto's annotated page of the act (" + ", ".join(sources()[x["page"]]["url"].rsplit("/", 1)[1] for x in ACTS) +
+            "), with the replay of ../proc/parse_proc.py (imported, not copied): struck wordings stay in place before the "
+            "wording that replaced them, each closed by the source's own note ('Redação dada pela…', 'Incluído pela…', "
+            "'Revogado pela…'); text with no note is the act as enacted.",
+            "Credits come only from those notes; a changed article with no note naming a law stays uncredited.",
+            "A struck wording with no 'Revogado' note ends when the next wording of the same dispositivo (same label in the "
+            "same article) starts; a Medida Provisória's wording with no later wording ends on the in-force day of the "
+            "law that converted the MP (read from the MP page's 'Convertida na Lei' line).",
+            "Medidas Provisórias are dated by publication (CF art. 62: force of law from publication); laws by their own "
+            "vigência clause, else LINDB art. 1 (publication + 45 days).",
+            *[f"{x['title']}: in force {ACT_DAY[x['law']][0]} ({ACT_DAY[x['law']][1]})." for x in ACTS],
+            "Headings (Parte, Livro, Título, Capítulo, Seção) and the marginal headings (rubricas) are kept in one file per "
+            "act, titulos.md, one line each; a note standing alone after a heading is given to the heading lines just "
+            "before it.",
+            "Text normalised once: NBSP to space, runs of spaces collapsed, curly quotes and dashes made plain, 'Art. 1o' "
+            "written 'Art. 1º'; Planalto's link words ('Vigência', 'Produção de efeitos') and 'Vide' notes are dropped.",
+            "The consolidated pages print a revoked dispositivo as its bare label ('Art. 757.'); the check ignores those "
+            "label-only lines, and the history leaves revoked text out.",
+            "No OCR: every text comes from the HTML text layer of the Planalto pages.",
+            *P.ACT_DECISIONS,
+            *[f"{a['title']}: {P.REWRITES[a['slug']][2]}" for a in ACTS if a["slug"] in P.REWRITES],
+            *[f"{x[4]}." for x in P.REWRITE_BLOCKS],
+            *[f"{P.law_label(k)}: {why}." for k, (d, why) in P.VETO_PROMULGATION.items()],
+        ] + decisions + mpn + vig_notes + ([
+            "Laws with no vigência clause of their own are dated by LINDB art. 1 (publication + 45 days): " + "; ".join(lindb) + "."
+        ] if lindb else []) + [
+            f"Replay check, {act}: the last version differs from Planalto's consolidated page in {len(d)} articles" +
+            (": " + "; ".join(d) if d else ".") for act, d in checks.items()
+        ] + ([f"Open problems in the replay ({len(problems)}): " + "; ".join(problems[:60])] if problems else []),
+        "ai_use": ["Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote batch3/fetch_batch3.py and batch3/parse_batch3.py "
+                   "(configuration of ../proc/fetch_proc.py and ../proc/parse_proc.py, imported) and the hand tables in "
+                   "them (vigência days, MP fates, court rulings) from the official pages. No model wrote, summarised or "
+                   "changed legal text; no model runs at data-build or git-build time."],
+    }
+    out = P.OUT
+    out.parent.mkdir(exist_ok=True)
+    tmp = out.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(part, ensure_ascii=False, indent=None, separators=(",", ":")) + "\n", encoding="utf-8",
+                   newline="\n")
+    os.replace(tmp, out)
+    print("wrote", out, out.stat().st_size, "bytes;", sum(len(x["versions"]) for x in acts_out), "versions")
+    return 0
+
+
+P.write_part = write_part
+
+TERMS_NOTE = ("Terms checked 2026-10-28: www.planalto.gov.br has no robots.txt (Wayback captures of /robots.txt return "
+              "Planalto's 'O conteúdo não foi encontrado' page); the gov.br Termo de Uso (capture 20261015002456 of "
+              "https://www.gov.br/pt-br/termos-de-uso) sets no rule against automated access and states the portal's own "
+              "content is CC BY-ND 3.0; the legal texts are official acts, outside copyright (Lei 9.610/1998 art. 8, IV). "
+              "Planalto answers non-browser clients with a bot challenge, so it was never contacted directly.")
 
 
 def main(argv: list[str]) -> int:
