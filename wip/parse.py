@@ -157,7 +157,7 @@ def norm(s: str) -> str:
     s = s.replace("“", '"').replace("”", '"').replace("‘", "'").replace("’", "'")
     s = s.replace("–", "-").replace("—", "-")
     s = re.sub(r"\s+", " ", s).strip()
-    s = re.sub(r"\b(Art\.|§)\s*(\d+)\s*[o°º](?![a-zà-ú])", r"\1 \2º", s)
+    s = re.sub(r"(\bArt\.|§)\s*(\d+)\s*\.?\s*[o°º](?![a-zà-ú])", r"\1 \2º", s)
     s = re.sub(r"\bArt\.(?=\d)", "Art. ", s)
     s = re.sub(r"\s+([.,;:])", r"\1", s)
     return s.strip()
@@ -185,6 +185,11 @@ def analyse(block: dict) -> dict:
     # trailing link words left outside <a> ("... Vigência")
     t = re.sub(r"(?:\s*\(?\s*(?:Produ[çc][ãa]o de efeitos?|Vig[êe]ncia)\s*\)?\.?)+$", "", t).strip()
     state = "plain" if n_st == 0 else ("struck" if n_pl == 0 else "mixed")
+    if state == "mixed":
+        # labels or punctuation left outside <strike> ("a) <strike>texto</strike>"; "<strike>rt. 76</strike>")
+        pl = norm("".join(c for (c, s), k in zip(chars, keep) if k and not s))
+        if len(re.sub(r"[^\w]|(?:[IVXLC]+|[a-z]|\d+[º]?|Art|A)", "", pl)) == 0 and n_st > n_pl:
+            state = "struck"
     # in a mixed block, keep the struck text apart so it can be reported
     struck_text = norm("".join(c for (c, s), k in zip(chars, keep) if k and s)) if state == "mixed" else ""
     plain_text = norm("".join(c for (c, s), k in zip(chars, keep) if k and not s)) if state == "mixed" else ""
@@ -193,9 +198,10 @@ def analyse(block: dict) -> dict:
 
 
 ROMAN = r"[IVXLC]+"
+SUFFIX = r"(?:\s*-\s*[A-Z]{1,2}(?![A-Za-zÀ-ú]))?"
 LABEL = re.compile(
-    r"^(?:(Art\.\s*\d+(?:\.\d+)?º?(?:\s*-\s*[A-Z]{1,2})?)|(§\s*\d+º?(?:\s*-\s*[A-Z])?)|(Par[áa]grafo\s+[úu]nico)|"
-    r"(" + ROMAN + r"(?:\s*-\s*[A-Z])?)\s*[-–]\s|([a-z](?:\s*-\s*[A-Z])?)\)|(\d+)\)\s)")
+    r"^(?:(Art\.\s*\d+(?:\.\d+)?º?" + SUFFIX + r")|(§\s*\d+º?" + SUFFIX + r")|(Par[áa]grafo\s+[úu]nico)|"
+    r"(" + ROMAN + SUFFIX + r")\s*[-–]+\s*|([a-z]" + SUFFIX + r")\)|(\d+)\)\s)")
 
 
 def label_of(text: str) -> str:
@@ -373,18 +379,56 @@ def lifespans(paras: list[dict], eff: dict[str, str], effect_override) -> list[s
             # an unstruck "(Revogado)" placeholder: it starts when the repeal took effect
             p["start"], p["start_law"] = max(ends)
     for i, p in enumerate(paras):
+        p["end_how"] = "note" if p["end"] else None
         if p["state"] == "plain" or p["end"]:
+            continue
+        lv = level(p["label"])
+        if p.get("heading"):
+            # a struck heading is replaced by the heading lines right after it
+            for q in paras[i + 1:]:
+                if not q.get("heading"):
+                    break
+                if q["start"] > p["start"]:
+                    p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "successor"
+                    break
+            if not p["end"]:
+                problems.append(f"no end for struck heading {p['text'][:90]!r} notes={p['notes']}")
             continue
         for q in paras[i + 1:]:
             if q["unit"] != p["unit"]:
                 break
+            if level(q["label"]) < min(lv, 2) or (lv < 5 and level(q["label"]) < lv):
+                break
             same = q["label"] == p["label"] or (q["renum_from"] and q["renum_from"][0] == p["label"])
             if same and q["start"] > p["start"]:
-                p["end"], p["end_law"] = q["start"], q["start_law"]
+                p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "successor"
                 break
+        if not p["end"]:
+            # struck with no note and no later wording: it fell with the nearest struck enclosing dispositivo
+            for q in reversed(paras[:i]):
+                if q["unit"] != p["unit"]:
+                    break
+                if level(q["label"]) < lv and not q.get("heading"):
+                    if q["state"] != "plain" and q["end"] and q["end"] > p["start"]:
+                        p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "parent"
+                    break
         if not p["end"]:
             problems.append(f"no end for struck {p['unit']} [{p['label']}] {p['text'][:90]!r} notes={p['notes']}")
     return problems
+
+
+def level(label: str) -> int:
+    if label.startswith("Art."):
+        return 0
+    if label.startswith("§") or label.startswith("Parágrafo"):
+        return 1
+    if label.endswith(" -"):
+        return 2
+    if re.match(r"^[a-z]", label):
+        return 3
+    if re.match(r"^\d", label):
+        return 4
+    return 5
 
 
 def text_on(paras: list[dict], unit: str, day: str) -> str:

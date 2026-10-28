@@ -33,7 +33,7 @@
   {
    "id": "emc-4",
    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc04.htm",
-   "ts": null
+   "ts": "20221103021040"
   },
   {
    "id": "emc-5",
@@ -78,7 +78,7 @@
   {
    "id": "emc-13",
    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc13.htm",
-   "ts": null
+   "ts": "20221217002112"
   },
   {
    "id": "emc-14",
@@ -719,11 +719,6 @@
    "id": "emc-141",
    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm",
    "ts": "20261022222529"
-  },
-  {
-   "id": "emc-142",
-   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc142.htm",
-   "ts": null
   }
  ]
 }
