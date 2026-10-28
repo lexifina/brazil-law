@@ -151,7 +151,7 @@ def blocks_of(html: str) -> list[dict]:
 NOTE = re.compile(
     r"\(\s*(?:Reda[çc][ãa]o|Inclu[ií]d|Acrescentad|Acrescid|Revogad[oa]s?\s+(?:pel|por)|Renumerad|Vide|Vig[êe]ncia|"
     r"Produ[çc][ãa]o\s+de\s+efeito|Regulament|Declarad|Suspens|Execu[çc][ãa]o|Express[ãa]o|Promulga|Convers|"
-    r"Texto\s+compilado|Atualizad|Mensagem)[^()]*(?:\([^()]*\)[^()]*)*\)", re.I)
+    r"Texto\s+compilado|Atualizad|Mensagem|Transformad)[^()]*(?:\([^()]*\)[^()]*)*\)", re.I)
 LINKWORDS = re.compile(r"^\s*\(?\s*(?:Produ[çc][ãa]o\s+de\s+efeitos?|Vig[êe]ncia|Regulamento|Regulamenta[çc][ãa]o)"
                        r"\s*\)?\s*\.?\s*$", re.I)
 EC_REF = re.compile(r"Emenda\s+(?:Constitu\w*\s+){1,2}(de\s+Revis[ãa]o\s+)?(?:n\s*[º°o]\.?|n\.)?\s*(\d+)", re.I)
@@ -169,6 +169,16 @@ def norm(s: str) -> str:
     s = re.sub(r"(\bArt\.|§)\s*(\d+)\s*\.?\s*[o°º](?![a-zà-ú])", r"\1 \2º", s)
     s = re.sub(r"\bArt\.(?=\d)", "Art. ", s)
     s = re.sub(r"\s+([.,;:])", r"\1", s)
+    s = re.sub(r"\s*\(\s*\)", "", s)
+    s = s.replace("§ §", "§§")
+    # label typesetting: "§ 1º - Texto" -> "§ 1º Texto", "§ 10 - Texto" -> "§ 10. Texto", "a ) texto" -> "a) texto"
+    s = re.sub(r"^§ (\d)º?\s*-\s+", r"§ \1º ", s)
+    s = re.sub(r"^§ (\d\d+)\.?\s*-\s+", r"§ \1. ", s)
+    s = re.sub(r"^([a-z]) \)", r"\1)", s)
+    s = re.sub(r"^([a-z]\))(?=\S)", r"\1 ", s)
+    s = re.sub(r"^(§ \dº)\.\s", r"\1 ", s)
+    # inciso labels typeset without the dash ("IV receber") or without the space ("V -(Revogado)")
+    s = re.sub(r"^([IVXLC]+(?:-[A-Z])?)(?:\s+(?=[a-zà-ú(])|\s+-(?=[^\s-]))", r"\1 - ", s)
     return s.strip()
 
 
@@ -744,6 +754,12 @@ def main(argv: list[str]) -> int:
         x, y = today.get(u, []), comp.get(u, [])
         if x != y:
             mism.append((u, x, y))
+    # the consolidated page keeps a bare label for a revoked provision ("Art. 106." once its note is removed);
+    # the annotated page has only the struck text, so those placeholder lines are not compared
+    comp = {u: [l for l in ls if l not in (label_of(l), label_of(l) + ".")] for u, ls in comp.items()}
+    comp = {u: ls for u, ls in comp.items() if ls}
+    mism = [(u, today.get(u, []), comp.get(u, [])) for u in sorted(set(today) | set(comp))
+            if today.get(u, []) != comp.get(u, [])]
     print(f"check vs constituicaocompilado.htm: {len(mism)} units differ of {len(set(today) | set(comp))}")
     if a.stats:
         import difflib

@@ -1,27 +1,8 @@
 paragraphs 4304 Counter({'plain': 3534, 'struck': 770})
 units 426
-start Counter({'original': 2261, 'note': 2031, 'heading-rename': 7, 'renumbered': 4, 'court': 1}) end Counter({None: 3534, 'successor': 463, 'parent': 232, 'note': 54, 'duplicate': 9, 'heading-rename': 7, 'renumbered': 4, 'court': 1})
+start Counter({'original': 2261, 'note': 2031, 'heading-rename': 7, 'renumbered': 4, 'court': 1}) end Counter({None: 3534, 'successor': 464, 'parent': 231, 'note': 54, 'duplicate': 9, 'heading-rename': 7, 'renumbered': 4, 'court': 1})
 0 problems
-check vs constituicaocompilado.htm: 68 units differ of 426
-DIFF adct-art-002
-    -§ 1º - Será assegurada gratuidade na livre divulgação dessas formas e sistemas, através dos meios de comunicação de massa cessionários de serviço público.
-    -§ 2º - O Tribunal Superior Eleitoral, promulgada a Constituição, expedirá as normas regulamentadoras deste artigo.
-    +§ 1º Será assegurada gratuidade na livre divulgação dessas formas e sistemas, através dos meios de comunicação de massa cessionários de serviço público.
-    +§ 2º O Tribunal Superior Eleitoral, promulgada a Constituição, expedirá as normas regulamentadoras deste artigo.
-DIFF adct-art-004
-    -§ 3º - Os mandatos dos Governadores e dos Vice-Governadores eleitos em 15 de novembro de 1986 terminarão em 15 de março de 1991.
-    -§ 4º - Os mandatos dos atuais Prefeitos, Vice-Prefeitos e Vereadores terminarão no dia 1º de janeiro de 1989, com a posse dos eleitos.
-    +§ 3º Os mandatos dos Governadores e dos Vice-Governadores eleitos em 15 de novembro de 1986 terminarão em 15 de março de 1991.
-    +§ 4º Os mandatos dos atuais Prefeitos, Vice-Prefeitos e Vereadores terminarão no dia 1º de janeiro de 1989, com a posse dos eleitos.
-DIFF adct-art-005
-    -§ 5º Para as eleições de 15 de novembro de 1988, ressalvados os que já exercem mandato eletivo, são inelegíveis para qualquer cargo, no território de jurisdição do titular, o cônjuge e os parentes po
-    +§ 5º - Para as eleições de 15 de novembro de 1988, ressalvados os que já exercem mandato eletivo, são inelegíveis para qualquer cargo, no território de jurisdição do titular, o cônjuge e os parentes 
-DIFF adct-art-013
-    -§ 1º - O Estado do Tocantins integra a Região Norte e limita-se com o Estado de Goiás pelas divisas norte dos Municípios de São Miguel do Araguaia, Porangatu, Formoso, Minaçu, Cavalcante, Monte Alegr
-    +§ 1º O Estado do Tocantins integra a Região Norte e limita-se com o Estado de Goiás pelas divisas norte dos Municípios de São Miguel do Araguaia, Porangatu, Formoso, Minaçu, Cavalcante, Monte Alegre 
-DIFF adct-art-054
-    -§ 1º - O benefício é estendido aos seringueiros que, atendendo a apelo do Governo brasileiro, contribuíram para o esforço de guerra, trabalhando na produção de borracha, na Região Amazônica, durante 
-    +§ 1º O benefício é estendido aos seringueiros que, atendendo a apelo do Governo brasileiro, contribuíram para o esforço de guerra, trabalhando na produção de borracha, na Região Amazônica, durante a 
+check vs constituicaocompilado.htm: 22 units differ of 414
 DIFF adct-art-056
     -Art. 56. Até que a lei disponha sobre o art. 195, I, a arrecadação decorrente de, no mínimo, cinco dos seis décimos percentuais correspondentes à alíquota da contribuição de que trata o Decreto-Lei n
     +Art. 56. Até que a lei disponha sobre o art. 195, I, a arrecadação decorrente de, no mínimo, cinco dos seis décimos percentuais correspondentes à alíquota da contribuição de que trata o Decreto-Lei n
@@ -37,35 +18,9 @@ DIFF adct-art-071
 DIFF adct-art-072
     -V - a parcela do produto da arrecadação da contribuição de que trata a Lei Complementar nº 7, de 7 de setembro de 1970, devida pelas pessoas jurídicas a que se refere o inciso III deste artigo, a qua
     +V - a parcela do produto da arrecadação da contribuição de que trata a Lei Complementar nº 7, de 7 de setembro de 1970, devida pelas pessoas jurídicas a que se refere o inciso III deste artigo, a qua
-DIFF adct-art-077
-    -a) no ano 2000, o montante empenhado em ações e serviços públicos de saúde no exercício financeiro de 1999 acrescido de, no mínimo, cinco por cento;
-    -b) do ano 2001 ao ano 2004, o valor apurado no ano anterior, corrigido pela variação nominal do Produto Interno Bruto - PIB;
-    +a ) no ano 2000, o montante empenhado em ações e serviços públicos de saúde no exercício financeiro de 1999 acrescido de, no mínimo, cinco por cento;
-    +b ) do ano 2001 ao ano 2004, o valor apurado no ano anterior, corrigido pela variação nominal do Produto Interno Bruto - PIB;
 DIFF adct-art-084
     -§ 1º Fica prorrogada, até a data referida no caput deste artigo, a vigência da Lei nº 9.311, de 24 de outubro de 1996, e suas alterações.
     +§ 1º Fica prorrogada até a data referida no caput deste artigo, a vigência da Lei nº 9.311, de 24 de outubro de 1996, e suas alterações.
-    -II -
-DIFF adct-art-091
-    -Art. 91.
-DIFF adct-art-106
-    -Art. 106.
-DIFF adct-art-107
-    -Art. 107.
-DIFF adct-art-108
-    -Art. 108.
-DIFF adct-art-109
-    -Art. 109.
-DIFF adct-art-110
-    -Art. 110.
-DIFF adct-art-111
-    -Art. 111.
-DIFF adct-art-111-a
-    -Art. 111-A.
-DIFF adct-art-112
-    -Art. 112.
-DIFF adct-art-114
-    -Art. 114.
 DIFF art-005
     -LXVIII - conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder;
     -LXIX - conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade 
@@ -78,91 +33,95 @@ DIFF art-005
 DIFF art-007
     -XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso.
     +XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso
-DIFF art-014
-    -§ 10. O mandato eletivo poderá ser impugnado ante a Justiça Eleitoral no prazo de quinze dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude.
-    -§ 11. A ação de impugnação de mandato tramitará em segredo de justiça, respondendo o autor, na forma da lei, se temerária ou de manifesta má-fé.
-    +§ 10 - O mandato eletivo poderá ser impugnado ante a Justiça Eleitoral no prazo de quinze dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude.
-    +§ 11 - A ação de impugnação de mandato tramitará em segredo de justiça, respondendo o autor, na forma da lei, se temerária ou de manifesta má-fé.
-DIFF art-021
-    -XIX - instituir sistema nacional de gerenciamento de recursos hídricos e definir critérios de outorga de direitos de seu uso; ()
-    +XIX - instituir sistema nacional de gerenciamento de recursos hídricos e definir critérios de outorga de direitos de seu uso; ( )
-DIFF art-036
-    -IV -
 DIFF art-037
     -XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do D
     +XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do D
-    -§ 4º - Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação pr
-    +§ 4º Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação prev
-DIFF art-040
-    -§ 16 - Somente mediante sua prévia e expressa opção, o disposto nos §§ 14 e 15 poderá ser aplicado ao servidor que tiver ingressado no serviço público até a data da publicação do ato de instituição d
-    +§ 16 - Somente mediante sua prévia e expressa opção, o disposto nos § § 14 e 15 poderá ser aplicado ao servidor que tiver ingressado no serviço público até a data da publicação do ato de instituição 
-DIFF art-043
-    -§ 1º - Lei complementar disporá sobre:
-    +§ 1º Lei complementar disporá sobre:
-    -§ 2º - Os incentivos regionais compreenderão, além de outros, na forma da lei:
-    +§ 2º Os incentivos regionais compreenderão, além de outros, na forma da lei:
-    -§ 3º - Nas áreas a que se refere o § 2º, IV, a União incentivará a recuperação de terras áridas e cooperará com os pequenos e médios proprietários rurais para o estabelecimento, em suas glebas, de fo
-    +§ 3º Nas áreas a que se refere o § 2º, IV, a União incentivará a recuperação de terras áridas e cooperará com os pequenos e médios proprietários rurais para o estabelecimento, em suas glebas, de font
-DIFF art-055
-    -§ 3º - Nos casos previstos nos incisos III a V, a perda será declarada pela Mesa da Casa respectiva, de ofício ou mediante provocação de qualquer de seus membros, ou de partido político representado 
-    +§ 3º Nos casos previstos nos incisos III a V, a perda será declarada pela Mesa da Casa respectiva, de ofício ou mediante provocação de qualquer de seus membros, ou de partido político representado no
-DIFF art-064
-    -§ 1º O Presidente da República poderá solicitar urgência para apreciação de projetos de sua iniciativa.
-    +§ 1º - O Presidente da República poderá solicitar urgência para apreciação de projetos de sua iniciativa.
-DIFF art-066
-    -§ 1º - Se o Presidente da República considerar o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, vetá-lo-á total ou parcialmente, no prazo de quinze dias úteis, cont
-    +§ 1º Se o Presidente da República considerar o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, vetá-lo-á total ou parcialmente, no prazo de quinze dias úteis, contad
 DIFF art-079
     -Art. 79. Substituirá o Presidente, no caso de impedimento, e suceder- lhe-á, no de vaga, o Vice-Presidente.
     +Art. 79. Substituirá o Presidente, no caso de impedimento, e suceder-lhe-á, no de vaga, o Vice-Presidente.
-DIFF art-081
-    -§ 1º - Ocorrendo a vacância nos últimos dois anos do período presidencial, a eleição para ambos os cargos será feita trinta dias depois da última vaga, pelo Congresso Nacional, na forma da lei.
-    -§ 2º - Em qualquer dos casos, os eleitos deverão completar o período de seus antecessores.
-    +§ 1º Ocorrendo a vacância nos últimos dois anos do período presidencial, a eleição para ambos os cargos será feita trinta dias depois da última vaga, pelo Congresso Nacional, na forma da lei.
-    +§ 2º Em qualquer dos casos, os eleitos deverão completar o período de seus antecessores.
-DIFF art-095
-    -IV receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades públicas ou privadas, ressalvadas as exceções previstas em lei;
-    -V exercer a advocacia no juízo ou tribunal do qual se afastou, antes de decorridos três anos do afastamento do cargo por aposentadoria ou exoneração.
-    +IV - receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades públicas ou privadas, ressalvadas as exceções previstas em lei;
-    +V - exercer a advocacia no juízo ou tribunal do qual se afastou, antes de decorridos três anos do afastamento do cargo por aposentadoria ou exoneração.
 DIFF art-100
     -§ 16. A seu critério exclusivo e na forma de lei, a União poderá assumir débitos, oriundos de precatórios, de Estados, Distrito Federal e Municípios, refinanciando-os diretamente.
     +§ 16. A seu critério exclusivo e na forma de lei, a União poderá assumir débitos, oriundos de precatórios, de Estados, Distrito Federal e Municípios, refinanciando-os diretamente..
-DIFF art-102
-    -h)
-    -§ 1º A argüição de descumprimento de preceito fundamental, decorrente desta Constituição, será apreciada pelo Supremo Tribunal Federal, na forma da lei. (Transformado do parágrafo único em § 1º pela 
-    +§ 1º A argüição de descumprimento de preceito fundamental, decorrente desta Constituição, será apreciada pelo Supremo Tribunal Federal, na forma da lei. (Transformado em § 1º pela Emenda Constitucion
-DIFF art-103
-    -§ 4º
-DIFF art-103-b
-    -II um Ministro do Superior Tribunal de Justiça, indicado pelo respectivo tribunal;
-    -III um Ministro do Tribunal Superior do Trabalho, indicado pelo respectivo tribunal;
-    -IV um desembargador de Tribunal de Justiça, indicado pelo Supremo Tribunal Federal;
-    -V um juiz estadual, indicado pelo Supremo Tribunal Federal;
-    -VI um juiz de Tribunal Regional Federal, indicado pelo Superior Tribunal de Justiça;
-    -VII um juiz federal, indicado pelo Superior Tribunal de Justiça;
-    -VIII um juiz de Tribunal Regional do Trabalho, indicado pelo Tribunal Superior do Trabalho;
-    -IX um juiz do trabalho, indicado pelo Tribunal Superior do Trabalho;
-    -X um membro do Ministério Público da União, indicado pelo Procurador-Geral da República;
-    +II - um Ministro do Superior Tribunal de Justiça, indicado pelo respectivo tribunal;
-    +III - um Ministro do Tribunal Superior do Trabalho, indicado pelo respectivo tribunal;
-    +IV - um desembargador de Tribunal de Justiça, indicado pelo Supremo Tribunal Federal;
-    +V - um juiz estadual, indicado pelo Supremo Tribunal Federal;
-    +VI - um juiz de Tribunal Regional Federal, indicado pelo Superior Tribunal de Justiça;
-    +VII - um juiz federal, indicado pelo Superior Tribunal de Justiça;
-    +VIII - um juiz de Tribunal Regional do Trabalho, indicado pelo Tribunal Superior do Trabalho;
-    +IX - um juiz do trabalho, indicado pelo Tribunal Superior do Trabalho;
-    +X - um membro do Ministério Público da União, indicado pelo Procurador-Geral da República;
-    -XII dois advogados, indicados pelo Conselho Federal da Ordem dos Advogados do Brasil;
-    -XIII dois cidadãos, de notável saber jurídico e reputação ilibada, indicados um pela Câmara dos Deputados e outro pelo Senado Federal.
-    +XII - dois advogados, indicados pelo Conselho Federal da Ordem dos Advogados do Brasil;
-    +XIII - dois cidadãos, de notável saber jurídico e reputação ilibada, indicados um pela Câmara dos Deputados e outro pelo Senado Federal.
-    -IV representar ao Ministério Público, no caso de crime contra a administração pública ou de abuso de autoridade;
-    -V rever, de ofício ou mediante provocação, os processos disciplinares de juízes e membros de tribunais julgados há menos de um ano;
-    -VI elaborar semestralmente relatório estatístico sobre processos e sentenças prolatadas, por unidade da Federação, nos diferentes órgãos do Poder Judiciário;
-    -VII elaborar relatório anual, propondo as providências que julgar necessárias, sobre a situação do Poder Judiciário no País e as atividades do Conselho, o qual deve integrar mensagem do Presidente do
-    +IV - representar ao Ministério Público, no caso de crime contra a administração pública ou de abuso de autoridade;
-    +V - rever, de ofício ou mediante provocação, os processos disciplinares de juízes e membros de tribunais julgados há menos de um ano;
-    +VI - elaborar semestralmente relatório estatístico sobre processos e sentenças prolatadas, por unidade da Federação, nos diferentes órgãos do Poder Judiciário;
-    +VII - elaborar relatório anual, propondo as providências que julgar necessárias, sobre a situação do Poder Judiciário no País e as atividades do Conselho, o qual deve integrar mensagem do Presidente 
+DIFF art-111
+    -§§ 1º a 3º.
+DIFF art-117
+    -Art. 117. e Parágrafo único.
+DIFF art-124
+    -Art. 124. à Justiça Militar compete processar e julgar os crimes militares definidos em lei.
+    +Art. 124. À Justiça Militar compete processar e julgar os crimes militares definidos em lei.
+DIFF art-153
+    -§ 4º O imposto previsto no inciso VI do caput:
+    +§ 4º O imposto previsto no inciso VI do capu t:
+DIFF art-155
+    -e) excluir da incidência do imposto, nas exportações para o exterior, serviços e outros produtos além dos mencionados no inciso X, "a";
+    +e) excluir da incidência do imposto, nas exportações para o exterior, serviços e outros produtos além dos mencionados no inciso X, "a"
+DIFF art-165
+    -III - dispor sobre critérios para a execução equitativa, além de procedimentos que serão adotados quando houver impedimentos legais e técnicos, cumprimento de restos a pagar e limitação das programaç
+    +III - dispor sobre critérios para a execução equitativa, além de procedimentos que serão adotados quando houver impedimentos legais e técnicos, cumprimento de restos a pagar e limitação das programaç
+DIFF art-173
+    -§ 4º lei reprimirá o abuso do poder econômico que vise à dominação dos mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros.
+    +§ 4º A lei reprimirá o abuso do poder econômico que vise à dominação dos mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros.
+DIFF art-195
+    -§ 12. A lei definirá os setores de atividade econômica para os quais as contribuições incidentes na forma dos incisos I, b; e IV do caput, serão não-cumulativas.
+    +§ 12. A lei definirá os setores de atividade econômica para os quais as contribuições incidentes na forma dos incisos I, b; e IV do capu t, serão não-cumulativas.
+DIFF art-215
+    -2º A lei disporá sobre a fixação de datas comemorativas de alta significação para os diferentes segmentos étnicos nacionais.
+    -3º A lei estabelecerá o Plano Nacional de Cultura, de duração plurianual, visando ao desenvolvimento cultural do País e à integração das ações do poder público que conduzem à:
+    +§ 2º A lei disporá sobre a fixação de datas comemorativas de alta significação para os diferentes segmentos étnicos nacionais.
+    +§ 3º A lei estabelecerá o Plano Nacional de Cultura, de duração plurianual, visando ao desenvolvimento cultural do País e à integração das ações do poder público que conduzem à:
+DIFF art-216-a
+    -§ 1º O Sistema Nacional de Cultura fundamenta-se na política nacional de cultura e nas suas diretrizes, estabelecidas no Plano Nacional de Cultura, e rege-se pelos seguintes princípios: Incluído pela
+    -I - diversidade das expressões culturais; Incluído pela Emenda Constitucional nº 71, de 2012
+    -II - universalização do acesso aos bens e serviços culturais; Incluído pela Emenda Constitucional nº 71, de 2012
+    -III - fomento à produção, difusão e circulação de conhecimento e bens culturais; Incluído pela Emenda Constitucional nº 71, de 2012
+    -IV - cooperação entre os entes federados, os agentes públicos e privados atuantes na área cultural; Incluído pela Emenda Constitucional nº 71, de 2012
+    -V - integração e interação na execução das políticas, programas, projetos e ações desenvolvidas; Incluído pela Emenda Constitucional nº 71, de 2012
+    -VI - complementaridade nos papéis dos agentes culturais; Incluído pela Emenda Constitucional nº 71, de 2012
+    -VII - transversalidade das políticas culturais; Incluído pela Emenda Constitucional nº 71, de 2012
+    -VIII - autonomia dos entes federados e das instituições da sociedade civil; Incluído pela Emenda Constitucional nº 71, de 2012
+    -IX - transparência e compartilhamento das informações; Incluído pela Emenda Constitucional nº 71, de 2012
+    -X - democratização dos processos decisórios com participação e controle social; Incluído pela Emenda Constitucional nº 71, de 2012
+    -XI - descentralização articulada e pactuada da gestão, dos recursos e das ações; Incluído pela Emenda Constitucional nº 71, de 2012
+    -XII - ampliação progressiva dos recursos contidos nos orçamentos públicos para a cultura. Incluído pela Emenda Constitucional nº 71, de 2012
+    -§ 2º Constitui a estrutura do Sistema Nacional de Cultura, nas respectivas esferas da Federação: Incluído pela Emenda Constitucional nº 71, de 2012
+    -I - órgãos gestores da cultura; Incluído pela Emenda Constitucional nº 71, de 2012
+    -II - conselhos de política cultural; Incluído pela Emenda Constitucional nº 71, de 2012
+    -III - conferências de cultura; Incluído pela Emenda Constitucional nº 71, de 2012
+    -IV - comissões intergestores; Incluído pela Emenda Constitucional nº 71, de 2012
+    -V - planos de cultura; Incluído pela Emenda Constitucional nº 71, de 2012
+    -VI - sistemas de financiamento à cultura; Incluído pela Emenda Constitucional nº 71, de 2012
+    -VII - sistemas de informações e indicadores culturais; Incluído pela Emenda Constitucional nº 71, de 2012
+    -VIII - programas de formação na área da cultura; e Incluído pela Emenda Constitucional nº 71, de 2012
+    -IX - sistemas setoriais de cultura. Incluído pela Emenda Constitucional nº 71, de 2012
+    -§ 3º Lei federal disporá sobre a regulamentação do Sistema Nacional de Cultura, bem como de sua articulação com os demais sistemas nacionais ou políticas setoriais de governo. Incluído pela Emenda Co
+    -§ 4º Os Estados, o Distrito Federal e os Municípios organizarão seus respectivos sistemas de cultura em leis próprias. Incluído pela Emenda Constitucional nº 71, de 2012
+    +§ 1º O Sistema Nacional de Cultura fundamenta-se na política nacional de cultura e nas suas diretrizes, estabelecidas no Plano Nacional de Cultura, e rege-se pelos seguintes princípios:
+    +I - diversidade das expressões culturais;
+    +II - universalização do acesso aos bens e serviços culturais;
+    +III - fomento à produção, difusão e circulação de conhecimento e bens culturais;
+    +IV - cooperação entre os entes federados, os agentes públicos e privados atuantes na área cultural;
+    +V - integração e interação na execução das políticas, programas, projetos e ações desenvolvidas;
+    +VI - complementaridade nos papéis dos agentes culturais;
+    +VII - transversalidade das políticas culturais;
+    +VIII - autonomia dos entes federados e das instituições da sociedade civil;
+    +IX - transparência e compartilhamento das informações;
+    +X - democratização dos processos decisórios com participação e controle social;
+    +XI - descentralização articulada e pactuada da gestão, dos recursos e das ações;
+    +XII - ampliação progressiva dos recursos contidos nos orçamentos públicos para a cultura.
+    +§ 2º Constitui a estrutura do Sistema Nacional de Cultura, nas respectivas esferas da Federação:
+    +I - órgãos gestores da cultura;
+    +II - conselhos de política cultural;
+    +III - conferências de cultura;
+    +IV - comissões intergestores;
+    +V - planos de cultura;
+    +VI - sistemas de financiamento à cultura;
+    +VII - sistemas de informações e indicadores culturais;
+    +VIII - programas de formação na área da cultura; e
+    +IX - sistemas setoriais de cultura.
+    +§ 3º Lei federal disporá sobre a regulamentação do Sistema Nacional de Cultura, bem como de sua articulação com os demais sistemas nacionais ou políticas setoriais de governo.
+    +§ 4º Os Estados, o Distrito Federal e os Municípios organizarão seus respectivos sistemas de cultura em leis próprias.
+DIFF titulos
+    -Do Tribunal Superior do Trabalho, dos Tribunais Regionais
+    -do Trabalho e dos Juízes do Trabalho
+    +Do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho e dos Juízes do Trabalho
 corpus.json: 122 CF versions, 139 laws, 0 problems
