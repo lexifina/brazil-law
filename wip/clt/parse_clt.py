@@ -105,7 +105,10 @@ def law_key(text: str, year_of: dict | None = None) -> str | None:
 
 
 # Notes whose printed number is wrong, corrected only where the note's own link names the right act: key -> (key, why).
-LAW_ALIAS = {}
+LAW_ALIAS = {
+    "lei-9528-1998": ("lei-9528-1997", "the note on art. 144 reads 'Lei nº 9.528, de 1998'; Lei 9.528 is of 10.12.1997 "
+                                       "(its page, and the CLT's other notes citing it)"),
+}
 
 
 def law_label(key: str) -> str:
@@ -397,6 +400,10 @@ def page_info(key: str) -> dict:
             break
     if not m:
         return {"bad_page": "the page is not this act: " + head[:120]}
+    if m.group(5) != key.split("-")[2]:
+        if key not in VIGENCIA_FIXED:
+            return {"bad_page": f"the page's act is of {m.group(5)}: " + head[:120]}
+        info["year_mismatch"] = m.group(5)
     if m and m.group(4).lower() in MONTHS:
         info["enacted"] = f"{int(m.group(5)):04d}-{MONTHS[m.group(4).lower()]:02d}-{int(m.group(3)):02d}"
     pubs = list(re.finditer(r"publicad[oa]\s+n[oa]\s+D\.?\s*O\.?\s*U\.?\s*(?:de\s*)?(\d{1,2})\s*º?\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})", head, re.I))
@@ -439,6 +446,10 @@ def page_info(key: str) -> dict:
 VIGENCIA_FIXED: dict[str, tuple[str, str]] = {
     "lei-4825-1965": (None, "own clause 'entra em vigor na [data] de sua publicação' (a word is missing on the page): "
                             "the publication day"),
+    "lei-7108-1983": ("1983-07-05", "its page is inconsistent: the heading and the DOU line print 1986, but the act "
+                                    "is signed by President João Figueiredo 'em 05 de julho de 1983' and the CLT note "
+                                    "gives 5.7.1983; in force 'na data de sua publicação', whose date the page misprints, "
+                                    "so the signing day is used"),
     "lei-11457-2007": ("2007-05-02", "art. 51, II: 'no primeiro dia útil do segundo mês subseqüente à data de sua "
                                      "publicação' for all but arts. 40, 41 and 47-50 (published 19.3.2007; its art. 42 "
                                      "changes the CLT; 1.5.2007 was a holiday)"),

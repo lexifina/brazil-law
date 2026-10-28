@@ -1376,18 +1376,6 @@
    "ts": "20261005003355"
   },
   {
-   "id": "law:dl-5-1966",
-   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/Del0005.htm",
-   "ts": "20260922213323",
-   "guessed_path": true
-  },
-  {
-   "id": "law:dl-926-1969",
-   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del0926.htm",
-   "ts": "20221005174109",
-   "repinned": "earlier capture was a bot page or another act"
-  },
-  {
    "id": "law:dl-9675-1946",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/Del9675.htm",
    "ts": "20260519013231",
@@ -1398,6 +1386,17 @@
    "url": "https://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6086.htm",
    "ts": "20260606044810",
    "repinned": "earlier capture was a bot page or another act"
+  },
+  {
+   "id": "law:dl-926-1969",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del0926.htm",
+   "ts": "20261018045320",
+   "repinned": "the decreto-lei/Del0926.htm captures are bot pages"
+  },
+  {
+   "id": "law:dl-5-1966",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del0005-66.htm",
+   "ts": "20261016053108"
   }
  ]
 }

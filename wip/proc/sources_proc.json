@@ -19,6 +19,116 @@
    "id": "cdc-compilado",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
    "ts": "20261023191127"
+  },
+  {
+   "id": "law:dl-4769-1942",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/Del4769.htm",
+   "ts": "20260611100146"
+  },
+  {
+   "id": "law:dl-504-1969",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del0504.htm",
+   "ts": "20260618144420"
+  },
+  {
+   "id": "law:dl-552-1969",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del0552.htm",
+   "ts": "20261008211642"
+  },
+  {
+   "id": "law:dl-6109-1943",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/Del6109.htm",
+   "ts": "20260714013300"
+  },
+  {
+   "id": "law:lei-10258-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/LEIS_2001/L10258.htm",
+   "ts": "20261016041931"
+  },
+  {
+   "id": "law:lei-10628-2002",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/2002/L10628.htm",
+   "ts": "20261003220643"
+  },
+  {
+   "id": "law:lei-10695-2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/2003/L10.695.htm",
+   "ts": "20261019115112"
+  },
+  {
+   "id": "law:lei-10792-2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/2003/L10.792.htm",
+   "ts": "20261011135341"
+  },
+  {
+   "id": "law:lei-11101-2005",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11101.htm",
+   "ts": "20261018232228"
+  },
+  {
+   "id": "law:lei-11113-2005",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11113.htm",
+   "ts": "20261016050620"
+  },
+  {
+   "id": "law:lei-11340-2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11340.htm",
+   "ts": "20261021141212"
+  },
+  {
+   "id": "law:lei-11435-2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11435.htm",
+   "ts": "20260217112609"
+  },
+  {
+   "id": "law:lei-11449-2007",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11449.htm",
+   "ts": "20261011191320"
+  },
+  {
+   "id": "law:lei-11689-2008",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11689.htm",
+   "ts": "20261021024920"
+  },
+  {
+   "id": "law:lei-11690-2008",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11690.htm",
+   "ts": "20261019051208"
+  },
+  {
+   "id": "law:lei-11719-2008",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11719.htm",
+   "ts": "20261018144417"
+  },
+  {
+   "id": "law:lei-11800-2008",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11800.htm",
+   "ts": "20261021023935"
+  },
+  {
+   "id": "law:lei-11900-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11900.htm",
+   "ts": "20261016082729"
+  },
+  {
+   "id": "law:lei-11989-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11989.htm",
+   "ts": "20261004154022"
+  },
+  {
+   "id": "law:lei-12039-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12039.htm",
+   "ts": "20261021023935"
+  },
+  {
+   "id": "law:lei-12403-2011",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12403.htm",
+   "ts": "20261023011128"
+  },
+  {
+   "id": "law:lei-12681-2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12681.htm",
+   "ts": "20261004165527"
   }
  ]
 }

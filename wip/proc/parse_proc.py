@@ -1021,6 +1021,22 @@ def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str])
     hit = REWRITES.get(act["slug"])
     if hit:
         rewrite(paras, hit, eff, fixed)
+    # a struck "(VETADO)" line with no note directly above a wording of the same dispositivo that a law's note
+    # introduces, the law's vetoed parts having been promulgated later (VETO_PROMULGATION, CPP art. 3º-B § 1º): the
+    # "(VETADO)" line stands from that law's day to the promulgation, and the promulgated wording starts then
+    for i, p in enumerate(paras):
+        if p["state"] == "plain" or p["notes"] or not re.search(r"\(VETADO\)\.?$", p["text"], re.I) or not p["label"]:
+            continue
+        q = paras[i + 1] if i + 1 < len(paras) else None
+        if q is None or q["unit"] != p["unit"] or q["label"] != p["label"]:
+            continue
+        pv = VETO_PROMULGATION.get(q["start_law"] or "")
+        if not pv:
+            continue
+        p["start"], p["start_law"] = q["start"], q["start_law"]
+        p["end"], p["end_law"], p["end_how"] = pv[0], q["start_law"], "promulgation"
+        q["start"], q["promulgated"] = pv[0], True
+        fixed.add(i)
     # a law in force on the act's first day (SAME_DAY_LAWS) replaces or revokes wording that starts that same day:
     # the ordinary rules want a strictly later start, so its wordings are matched here
     for i, p in enumerate(paras):
@@ -1192,6 +1208,24 @@ def lgpd_gates(units: list[str]) -> tuple[dict[str, str], dict[str, str]]:
     return gate, law
 
 
+def anachronisms(paras: list[dict], cx: Ctx) -> list[str]:
+    """The coordinator's rule on text that appears before its law: every line alive on a day must have every law its
+    start notes name already in force. The replay dates lines by those notes, so this lists what the later rules
+    (article, restoration, promulgation) moved earlier."""
+    out = []
+    for p in paras:
+        if p.get("skip"):
+            continue
+        for n in p["notes"]:
+            if not START_KIND.search(n):
+                continue
+            law = law_key(n, cx.mp.get("_years"))
+            d = law and (VIGENCIA_PROVISION.get((law, cx.act, p["unit"]), (None,))[0] or cx.eff.get(law))
+            if d and p["start"] < d:
+                out.append(f"{p['unit']} [{p['label']}] starts {p['start']} before {law} ({d}): {p['text'][:70]!r}")
+    return out
+
+
 def note_laws(paras: list[dict]) -> set[str]:
     out = set()
     for p in paras:
@@ -1312,6 +1346,8 @@ def main(argv: list[str]) -> int:
         pr = lifespans(paras, cx)
         pr = apply_rewrites(paras, act, eff, pr)
         problems += [f"{act['short']}: {x}" for x in pr]
+        ana = anachronisms(paras, cx)
+        problems += [f"{act['short']}: text before its law: {x}" for x in ana]
         units = list(dict.fromkeys(p["unit"] for p in paras))
         if act["slug"] == "lgpd":
             gate, gate_law = lgpd_gates(units)
