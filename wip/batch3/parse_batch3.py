@@ -417,6 +417,7 @@ def lifespans(paras: list[dict], cx) -> list[str]:
 
 _apply_rewrites = P.apply_rewrites
 VETOED_RENUMBER: list[str] = []
+UNDATED: list[str] = []
 
 
 def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str]) -> list[str]:
@@ -431,6 +432,14 @@ def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str])
         if q is not None and VETADO_LINE.fullmatch(q["text"]) and q["start"] == p["end"]:
             p["end"], p["end_law"], p["end_how"] = None, None, None
             VETOED_RENUMBER.append(f"{act['short']} {p['unit']}")
+    # struck text that no note and no rule dates the end of (as in clt/parse_clt.py): the source shows it is not in
+    # force, but not since when, so it is left out of every version and listed
+    for p in paras:
+        if p["state"] != "plain" and not p["end"] and not p["gaps"] and not p.get("skip"):
+            p["skip"], p["end_how"] = True, "undated"
+            UNDATED.append(f"{act['short']} {p['unit']} [{p['label'] or 'line'}] {p['text'][:60]!r}")
+            tag = f"no end for struck {p['unit']} [{p['label']}] {p['text'][:90]!r}"
+            out[:] = [x for x in out if not x.startswith(tag)]
     return out
 
 
@@ -541,6 +550,9 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
                + "; ".join(SPLITS) + "."] if SPLITS else []),
             *[f"{law_label(k)}: {why}." for k, (_, why, _) in PROMULGATED.items()],
             *[f"Typing slip corrected: {w}." for (a, _, _, w) in TYPOS if a in TYPOS_USED],
+            *([f"Struck text with no note or rule giving the day it stopped being in force is left out of every version "
+               f"(the source shows it is not in force, not since when; as for the CLT) ({len(UNDATED)} lines): "
+               + "; ".join(UNDATED) + "."] if UNDATED else []),
             *([f"An unstruck 'Parágrafo único' stays when the '§ 1º' a later law put below it reads only '(VETADO).' "
                f"(the law's renumbering was vetoed; the consolidated page keeps both): " + "; ".join(VETOED_RENUMBER) + "."]
               if VETOED_RENUMBER else []),
