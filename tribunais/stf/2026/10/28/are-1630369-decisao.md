@@ -1,0 +1,59 @@
+Decisão:
+Vistos.
+Trata-se de agravo contra decisão que inadmitiu recurso extraordinário, fundado na letra “a” do permissivo constitucional, no qual se alega violação ao artigo 149, §2º, II, “a”, da Constituição Federal.
+Insurge-se contra acórdão proferido pela 3ª Turma do Tribunal Regional Federal da 2ª Região, assim ementado (e-doc. 41):
+
+“TRIBUTÁRIO. MANDADO DE SEGURANÇA. REMESSA NECESSÁRIA. APELAÇÃO. CABIMENTO. PIS/CONFINS.IMPORTAÇÃO DE SERVIÇOS. BASE DE CÁLCULO. EXCLUSÃO DE ISS, IRRF E DAS PRÓPRIAS CONTRIBUIÇÕES. DECLARAÇÃO DO DIREITO À COMPENSAÇÃO. OBSERVÂNCIA DA LEGISLAÇÃO VIGENTE NA DATA DO ENCONTRO DE CONTAS. RECURSOS PROVIDOS EM PARTE.
+I. Caso em exame
+1. Trata-se de remessa necessária e apelação interposta contra sentença que julgou procedente o pedido formulado neste mandado de segurança, para reconhecer o direito da Impetrante de (i) excluir da base de cálculo das contribuições PIS-Importação e COFINS-Importação os valores relativos ao (i.a) ISSQN, (i.b) ao IRRF e (i.c) às próprias contribuições; e (ii) de compensar os valores indevidamente recolhidos nos cinco anos anteriores ao ajuizamento da presente ação.
+II. Questão em discussão
+2. Discute-se (i) a existência de interesse de agir quanto ao pedido de exclusão do ISSQN da base de cálculo da Contribuição ao PIS-Importação e COFINS-Importação; (ii) se os valores relativos ao ISSQN, ao IRRF e às próprias contribuições devem ser excluídos da base de cálculo das contribuições PIS-Importação e COFINS-Importação; (iii) o direito à compensação ou à restituição dos valores indevidamente recolhidos a esse título; (iv) a legislação aplicável à compensação. III. Razões de decidir
+3. Afasta-se a alegação da União referente à ausência de interesse processual quanto à exclusão do ISS, pois, apesar do disposto no Parecer SEI nº 4891/2022/ME, a Impetrante possui interesse quanto ao reconhecimento do direito e, notadamente, da declaração do direito à compensação do indébito.
+4. A base de cálculo da Contribuição ao PIS-Importação e da COFINS-Importação deve corresponder ao valor da própria operação de importação de serviços, sem o acréscimo de outros tributos, sob pena de indevido alargamento da base econômica delimitada pela Constituição Federal, conforme a interpretação dada pelo STF no julgamento do RE 559.937 em 20/03/2013.
+5. Nesse mesmo sentido: TRF2, Apelação/Remessa Necessária, 5009610-63.2022.4.02.5101, 4ª Turma Especializada, Rel. Des. Federal Luiz Antônio Soares, j.18/10/2023; TRF2, Apelação Cível nº 0131213-09.2013.4.02.510, 3ª Turma Especializada, Rel. Desembargador Federal Theophilo Antônio Miguel Filho, j. 07/06/2018.
+6. Não é possível excluir o IRRF da base de cálculo do PIS/COFINS-Importação. O valor "antes da retenção" corresponde ao montante bruto da operação sobre o qual incide o IRRF - seja ele o preço contratado em base bruta, seja o resultado do reajuste (gross-up) quando as partes pactuam um valor líquido. Em ambas as hipóteses, é esse montante bruto que expressa o custo integral da importação do serviço para o tomador brasileiro. O IRRF é retido de dentro desse valor e recolhido ao Fisco; não é um acréscimo externo à operação. Tributar o valor bruto pré-retenção não é tributar o tributo: é tributar o custo real da operação de importação.
+7. “O reconhecimento do direito à compensação de eventuais indébitos recolhidos anteriormente à impetração ainda não atingidos pela prescrição não importa em produção de efeito patrimonial pretérito, vedado pela Súmula 271 do STF” (STJ, EREsp n. 1.770.495/RS, relator Ministro Gurgel de Faria, Primeira Seção, j. 10/11/2021). 5021056-02.2023.4.02.5110 20002815301 .V5
+8. A compensação somente pode ser feita após o trânsito em julgado e deve observar a legislação vigente na data do encontro de contas (arts. 170 e 170-A do CTN e STJ, Tema Repetitivo 345, REsp n. 1.164.452/MG, Primeira Seção, j. de 02/09/2010).
+9. Em mandado de segurança, não é possível assegurar a restituição de valores devidos em período anterior à impetração (Enunciados nº 269 e nº 271 da Súmula de Jurisprudência do STF).
+10. A restituição dos valores recolhidos indevidamente após a impetração deve observar o regime de precatórios (art. 100 da Constituição), conforme a tese fixada pelo STF no julgamento do Tema 1.262 da Repercussão Geral (RE nº 1.420.691, relatora Ministra Rosa Weber, j. 22/08/2023).
+11. O indébito deverá ser acrescido da Taxa Selic até o mês anterior ao da compensação, em que incidirá a taxa de 1%, tal como prevê o art. 39, § 4º, da Lei nº 9.250/95.
+IV. Dispositivo
+12. Apelação e Remessa Necessária parcialmente providas.”
+
+Nas razões do recurso extraordinário, a parte recorrente pretende o reconhecimento do direito de excluir o IRRF da base de cálculo do PIS/COFINS-importação, com a respectiva repetição dos valores.
+Assevera que
+
+4.9. Como se vê, nos termos do item nº 4 do referido artigo 8º, para determinação do valor aduaneiro, nenhum acréscimo será feito ao preço efetivamente pago ou a pagar, se não estiver previsto no referido artigo, notadamente no item nº 2, que são, no caso de mercadorias por exemplo: o custo do transporte, embalagem, gastos relativos a carga, descarga e manuseio e custo de seguro.
+4.10. Ou seja, o valor aduaneiro, de acordo com a legislação brasileira aplicável às transações internacionais, é o valor do bem livremente negociado entre o comprador e o vendedor, que conste na respectiva nota fiscal, não podendo jamais incluir algo alienígena em sua base de cálculo.
+4.11. Logo, a única interpretação possível do inciso II, do artigo 7º da Lei nº 10.865/2004 é de que “o valor pago, creditado, entregue, empregado ou remetido para o exterior”, nas operações de prestação de serviços, equivale ao denominado “valor aduaneiro”, previsto no artigo 149, §2º, III, “a” da Constituição Federal.
+
+Requer, assim,
+
+“(...) o provimento do presente Recurso Extraordinário para, reformando parcialmente o acórdão, assegurar o direito líquido e certo de a Recorrente excluir o IRRF da base de cálculo do PIS/COFINS-Importação, bem como repetir os valores indevidamente recolhidos a esse título.”
+
+A Vice-Presidência do Tribunal de origem inadmitiu o recurso extraordinário por incidência da Súmula 283 do STF.
+Interposto agravo em recurso extraordinário, foram remetidos os autos ao Supremo Tribunal Federal.
+Decido.
+Examinados os autos, verifica-se óbice intransponível ao processamento deste recurso.
+E isso porque a parte recorrente não apresentou tópico de repercussão geral da matéria devidamente fundamentada nos aspectos econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa frente às questões constitucionais invocadas no recurso extraordinário.
+Com efeito, é dever da parte recorrente demonstrar de forma devidamente fundamentada, expressa e clara as circunstâncias que poderiam configurar a relevância das questões constitucionais suscitadas no recurso extraordinário, o que não ocorreu no caso em tela. Confiram:
+
+“3.7 No presente caso, a repercussão geral é indiscutível na medida em que a inconstitucionalidade da inclusão do IRRF na base de cálculo do PIS/COFINS-Importação poderá afetar todos os importadores de serviços em território nacional, o que representa indiscutível relevância social, econômica e jurídica.
+3.8 Desta forma, é inquestionável que a presente controvérsia tem efeitos concretos sobre a arrecadação de tributos bem como no planejamento de negócios de qualquer empresa em território nacional, sendo imprescindível que esta Suprema Corte decida definitivamente a controvérsia, de maneira a garantir ao nosso ordenamento a devida segurança jurídica e estabilidade. ." (e-doc. 44, p. 7)
+
+A mera afirmação genérica de existência de repercussão geral, desacompanhada de robusta fundamentação da relevância econômica, política, social ou jurídica da questão constitucional, não é suficiente para o conhecimento do recurso extraordinário, nos termos do art. 102, § 3º, da Constituição Federal e do art. 1.035 do CPC/2015. Nesse sentido:
+
+“AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL MERAMENTE REFLEXA. 1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 4. Agravo interno a que se nega provimento. Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem” (ARE nº 990.523/SC-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 21/11/17).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. SUPOSTA AFRONTA AOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. NECESSIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 660. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 1.035, § 2°, do CPC. II – O Supremo Tribunal Federal, ao julgar o ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, rejeitou a repercussão geral da controvérsia referente à suposta ofensa aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal, quando o julgamento da causa depender de prévia análise de normas infraconstitucionais, por configurar situação de ofensa apenas indireta à Constituição Federal. III – Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4° do CPC” (RE nº 1.018.956/GO-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 12/9/17).
+
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DA PARTE RECORRENTE. ANÁLISE DE NORMA LOCAL. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE nº 946.812/MG-AgR, Segunda Turma, Rel. Min. Teori Zavascki, DJe de 9/5/16).
+
+Diante do exposto, nos termos do art. 21, § 1º do RISTF, nego seguimento ao recurso.
+Sem majoração de honorários, a teor da Súmula 512/STF.
+Publique-se.
+Brasília, 28 de outubro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
