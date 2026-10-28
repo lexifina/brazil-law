@@ -1,0 +1,32 @@
+DECISÃO: Trata-se de embargos de divergência opostos por JT International Distribuidora de Cigarros Ltda. contra acórdão da Segunda Turma que rejeitou os embargos de declaração no agravo regimental no recurso extraordinário com agravo.
+A embargante sustenta, em síntese, a existência de divergência entre o acórdão embargado e julgados do Tribunal Pleno, notadamente os proferidos no ARE 1.121.633/GO (Tema 1.046 da repercussão geral) e no RE 1.476.596/MG, quanto à interpretação do art. 7º, XXVI, da Constituição Federal e à aplicação da tese firmada acerca da validade e eficácia das normas coletivas trabalhistas.
+Afirma que a reclamação trabalhista de origem resultou em condenação ao pagamento de horas extras, apesar da existência de cláusula de acordo coletivo que dispensava o controle de jornada dos empregados que exerciam atividade externa, com enquadramento no art. 62, I, da CLT. Segundo a embargante, as instâncias trabalhistas afastaram a incidência da norma coletiva ao fundamento de que havia possibilidade de fiscalização da jornada, entendimento mantido no acórdão embargado sob o argumento de que não teria havido invalidação da norma, mas mero reconhecimento de seu descumprimento.
+Sustenta que os paradigmas invocados adotaram solução diversa para controvérsia substancialmente semelhante, assentando que a autonomia coletiva não pode ser esvaziada mediante a invocação da primazia da realidade ou pela qualificação da controvérsia como simples descumprimento da norma coletiva. Alega, ainda, que a questão possui natureza jurídica e não demanda revolvimento do conjunto fático-probatório, sendo inaplicáveis as Súmulas 279 e 454 do STF.
+Ao final, requer o provimento dos embargos de divergência para que prevaleça o entendimento firmado pelo Tribunal Pleno no Tema 1.046 da repercussão geral, reconhecendo-se a validade e eficácia da cláusula coletiva que dispensa o controle de jornada dos empregados externos e, por conseguinte, afastando-se a condenação ao pagamento de horas extras. Subsidiariamente, requer a devolução dos autos à origem para observância da orientação firmada por esta Corte.
+É o relatório.
+Decido.
+Inicialmente, ressalto que o art. 1.043 do CPC/2015 prevê o cabimento dos embargos de divergência contra decisão proferida em recurso extraordinário e recurso especial. Eis o teor desse dispositivo:
+
+“Art. 1.043. É embargável o acórdão de órgão fracionário que:
+I - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito;
+II - (Revogado pela Lei nº 13.256, de 2016)
+III - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia;
+(...)
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, onde foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.” (grifo nosso)
+
+Além disso, registro o disposto no art. 330 do Regimento Interno desta Corte, segundo o qual cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.
+Nesse sentido cito o seguinte precedente:
+
+“PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE SIMILITUDE ENTRE OS CASOS CONFRONTADOS. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso de Embargos de Divergência possui um pressuposto básico: demonstrar a existência de divergência jurisprudencial nesta CORTE sobre o tema em análise nos autos, por meio da indicação de precedentes paradigmas que atestem dissenso interpretativo com o acórdão impugnado. 2. Os recorrentes não se desincumbiram do ônus de comprovar, fundamentadamente, as circunstâncias que identifiquem ou assemelhem os casos confrontados, nos termos do art. 331 do RISTF. 3. Ausente o devido cotejo analítico, que demonstre a identidade ou a similitude entre o acórdão embargado e o único aresto proferido por esta CORTE, apontado como divergente, incabível o presente recurso. 4. Agravo Interno a que se nega provimento” (ARE 1441261 AgR-ED-EDv-AgR, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 14.11.2023 – grifo nosso)
+
+Na espécie, o embargante não demonstrou a similitude fática entre o caso dos autos e o paradigma indicado. Isso porque a decisão embargada consignou que a Corte de origem, sem afastar ou julgar inválido acordo coletivo, verificou, com base no acervo probatório constante dos autos, que o empregador exercia o controle de jornada da empregada. Assim, condenou a empresa ao pagamento de horas extras em decorrência do labor excedente à jornada diária (eDOC 125, p. 8).
+Desse modo, observo que a questão passa a ser sobre ônus  do controle da jornada da empregada e não sobre a existência de acordo coletivo. E, sendo assim, reitero que, divergir acerca dessa questão (controle de jornada), a qual foi decidida pelas instâncias ordinárias, demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+Ademais, registre-se que, recentemente, o Plenário desta Corte, ao apreciar o Tema 1.488 da repercussão geral (RE 1.617.212, Rel. Min. Presidente), rejeitou a repercussão geral da controvérsia relativa ao ônus da prova quanto à impossibilidade de controle da jornada de empregado submetido a trabalho externo, por se tratar de matéria de índole infraconstitucional.
+Nesse contexto, ausente a necessária similitude fática entre o acórdão embargado e os paradigmas indicados, não se evidencia divergência jurisprudencial apta a autorizar o processamento dos embargos de divergência. A pretensão recursal, na realidade, busca rediscutir a conclusão das instâncias ordinárias.
+Ante o exposto, com fundamento nos arts. 330 e 331 do RI/STF, não admito os presentes embargos de divergência.
+Publique-se.
+Brasília, 28 de outubro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
