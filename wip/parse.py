@@ -188,7 +188,7 @@ def analyse(block: dict) -> dict:
     if state == "mixed":
         # labels or punctuation left outside <strike> ("a) <strike>texto</strike>"; "<strike>rt. 76</strike>")
         pl = norm("".join(c for (c, s), k in zip(chars, keep) if k and not s))
-        if len(re.sub(r"[^\w]|(?:[IVXLC]+|[a-z]|\d+[º]?|Art|A)", "", pl)) == 0 and n_st > n_pl:
+        if len(re.sub(r"[^\w]|\b(?:[IVXLC]+|[a-z]|\d+[º]?|Art|A)\b", "", pl)) == 0 and n_st > n_pl:
             state = "struck"
     # in a mixed block, keep the struck text apart so it can be reported
     struck_text = norm("".join(c for (c, s), k in zip(chars, keep) if k and s)) if state == "mixed" else ""
@@ -208,11 +208,14 @@ def label_of(text: str) -> str:
     m = LABEL.match(text)
     if not m:
         return ""
+    if m.group("bare"):
+        bs = (m.group("bs") or "").lstrip("-")
+        return m.group("bare") + ("-" + bs if bs else "") + " -"
     g = next(x for x in m.groups() if x)
     g = re.sub(r"\s+", "", g).replace("Parágrafoúnico", "Parágrafo único").replace("Paragrafoúnico", "Parágrafo único")
     if m.group(4):
         g += " -"
-    elif m.group(5) or m.group(6):
+    elif m.group(7) or m.group(8):
         g += ")"
     return g.replace("Art.", "Art. ").replace("§", "§ ")
 

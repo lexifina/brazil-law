@@ -1,37 +1,8 @@
-paragraphs 4303 Counter({'plain': 3539, 'struck': 745, 'mixed': 19})
+paragraphs 4303 Counter({'plain': 3539, 'struck': 762, 'mixed': 2})
 units 426
-MIXED art-007 a) | struck: cinco anos para o trabalhador urbano, até o limite de dois anos após a extinção  | plain: a)
-MIXED art-007 b) | struck: até dois anos após a extinção do contrato, para o trabalhador rural; | plain: b)
-MIXED art-012 c) | struck: os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que sejam | plain: c);
-MIXED art-012  | struck: ) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que ven | plain: c
-MIXED art-096 b) | struck: a criação e a extinção de cargos e a fixação de vencimentos de seus membros, dos | plain: b)
 MIXED art-100 § 11 | struck: com auto aplicabilidade para a União | plain: § 11. É facultada ao credor, conforme estabelecido em lei do ente federativo dev
-MIXED art-115 III - | struck: - classistas indicados em listas tríplices pelas diretorias das federações e dos | plain: III
-MIXED art-155 I - | struck: impostos sobre: | plain: I -
-MIXED art-155 a) | struck: transmissão causa mortis e doação, de quaisquer bens ou direitos; | plain: a)
-MIXED art-155 b) | struck: operações relativas à circulação de mercadorias e sobre prestações de serviços d | plain: b)
-MIXED art-155 c) | struck: propriedade de veículos automotores | plain: c)
-MIXED art-155 II - | struck: adicional de até cinco por cento do que for pago à União por pessoas físicas ou  | plain: II -
-MIXED art-155 § 2º | struck: O imposto previsto no inciso I, b, atenderá ao seguinte: | plain: § 2º
-MIXED art-170 IX - | struck: tratamento favorecido para as empresas brasileiras de capital nacional de pequen | plain: IX -
-MIXED art-171 § 2º | struck: Na aquisição de bens e serviços, o Poder Público dará tratamento preferencial, n | plain: § 2º -.
-MIXED art-178 § 3º | struck: A navegação de cabotagem e a interior são privativas de embarcações nacionais, s | plain: § 3º
 MIXED adct-art-060 X - | struck: X - aplica-se à complementação da União o disposto no;. | plain: art. 160 da Constituição Federal
-MIXED adct-art-076 Art. 76 | struck: rt. 76. São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2023 | plain: A
-MIXED adct-art-109 Art. 109 | struck: rt. 109. No caso de descumprimento de limite individualizado, aplicam-se, até o  | plain: A
-PROBLEM no end for struck art-020 [IV -] 'IV - as ilhas fluviais e lacustres nas zonas limítrofes com outros países; as praias marít' notes=[]
-PROBLEM no end for struck art-037 [] 'XVII a proibição de acumular estende-se a empregos e funções e abrange autarquias, empresa' notes=[]
 PROBLEM no end for struck heading 'DOS SERVIDORES PÚBLICOS CIVIS' notes=[]
-PROBLEM no end for struck art-040 [§ 14-A] '§ 14 - A União, os Estados, o Distrito Federal e os Municípios, desde que instituam regime' notes=['(Incluído pela Emenda Constitucional nº 20, de 15/12/98)']
-PROBLEM no end for struck art-052 [II -] 'II - processar e julgar os Ministros do Supremo Tribunal Federal, o Procurador-Geral da Re' notes=[]
-PROBLEM no end for struck art-093 [III -] 'III - o acesso aos tribunais de segundo grau far-se-á por antigüidade e merecimento, alter' notes=[]
-PROBLEM no end for struck art-093 [IV -] 'IV - previsão de cursos oficiais de preparação e aperfeiçoamento de magistrados como requi' notes=[]
-PROBLEM no end for struck art-093 [VII -] 'VII - o juiz titular residirá na respectiva comarca;' notes=[]
-PROBLEM no end for struck art-093 [IX -] 'IX - todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas t' notes=[]
-PROBLEM no end for struck art-093 [X -] 'X - as decisões administrativas dos tribunais serão motivadas, sendo as disciplinares toma' notes=[]
-PROBLEM no end for struck art-093 [XI -] 'XI - nos tribunais com número superior a vinte e cinco julgadores poderá ser constituído ó' notes=[]
-PROBLEM no end for struck art-093 [] 'VIII o ato de remoção, disponibilidade e aposentadoria do magistrado, por interesse públic' notes=['(Redação dada pela Emenda Constitucional nº 45, de 2004)']
-PROBLEM no end for struck art-093 [] 'VIIIA a remoção a pedido ou a permuta de magistrados de comarca de igual entrância atender' notes=['(Incluído pela Emenda Constitucional nº 45, de 2004)']
 PROBLEM no end for struck art-100 [§ 11] '§ 11. É facultada ao credor, conforme estabelecido em lei do ente federativo devedor, com ' notes=['(Redação dada pela Emenda Constitucional nº 113, de 2021)', '(Vide ADI 7047)', '(Vide ADI 7064)']
 PROBLEM no end for struck art-102 [Parágrafo único] 'Parágrafo único. A argüição de descumprimento de preceito fundamental, decorrente desta Co' notes=[]
 PROBLEM no end for struck art-105 [Parágrafo único] 'Parágrafo único. Funcionarão junto ao Superior Tribunal de Justiça:' notes=['(Redação dada pela Emenda Constitucional nº 45, de 2004)']
@@ -39,20 +10,11 @@ PROBLEM no end for struck art-105 [I -] 'I - a Escola Nacional de Formação e A
 PROBLEM no end for struck art-105 [II -] 'II - o Conselho da Justiça Federal, cabendo-lhe exercer, na forma da lei, a supervisão adm' notes=['(Incluído pela Emenda Constitucional nº 45, de 2004)']
 PROBLEM no end for struck heading 'Seção V' notes=[]
 PROBLEM no end for struck heading 'DOS TRIBUNAIS E JUÍZES DO TRABALHO' notes=[]
-PROBLEM no end for struck art-111 [§ 1º-O] '§ 1º - O Tribunal Superior do Trabalho compor-se-á de vinte e sete Ministros, escolhidos d' notes=[]
 PROBLEM no end for struck heading 'CAPÍTULO IV' notes=[]
 PROBLEM no end for struck heading 'DAS FUNÇÕES ESSENCIAIS À JUSTIÇA' notes=[]
-PROBLEM no end for struck art-130-a [] 'III receber e conhecer das reclamações contra membros ou órgãos do Ministério Público da U' notes=['(Incluído pela Emenda Constitucional nº 45, de 2004)']
-PROBLEM no end for struck art-144 [§ 1º-A] '§ 1º - A polícia federal, instituída por lei como órgão permanente, estruturado em carreir' notes=[]
-PROBLEM no end for struck art-144 [§ 2º-A] '§ 2º - A polícia rodoviária federal, órgão permanente, estruturado em carreira, destina-se' notes=[]
-PROBLEM no end for struck art-150 [§ 1º-A] '§ 1º - A vedação do inciso III, "b", não se aplica aos impostos previstos nos arts. 153, I' notes=[]
-PROBLEM no end for struck art-150 [§ 2º-A] '§ 2º - A vedação do inciso VI, "a", é extensiva às autarquias e às fundações instituídas e' notes=[]
-PROBLEM no end for struck art-156 [§ 1º-O] '§ 1º - O imposto previsto no inciso I poderá ser progressivo, nos termos de lei municipal,' notes=[]
 PROBLEM no end for struck heading 'CAPÍTULO IV' notes=[]
 PROBLEM no end for struck heading 'DA CIÊNCIA E TECNOLOGIA' notes=[]
-PROBLEM no end for struck art-222 [§ 2º-A] '§ 2º - A participação referida no parágrafo anterior só se efetuará através de capital sem' notes=[]
 PROBLEM no end for struck heading 'DA FAMÍLIA, DA CRIANÇA, DO ADOLESCENTE E DO IDOSO' notes=[]
-PROBLEM no end for struck art-227 [§ 1º-O] '§ 1º - O Estado promoverá programas de assistência integral à saúde da criança e do adoles' notes=[]
 PROBLEM no end for struck adct-art-102 [Parágrafo único] 'Parágrafo único. A aplicação dos recursos remanescentes, por opção a ser exercida por Esta' notes=['(Incluído pela Emenda Constitucional nº 94, de 2016)']
 PROBLEM no end for struck adct-art-105 [Parágrafo único] 'Parágrafo único. Não se aplica às compensações referidas no caput deste artigo qualquer ti' notes=['(Incluído pela Emenda Constitucional nº 94, de 2016)']
 PROBLEM no end for struck adct-art-107 [VI -] 'VI - despesas correntes ou transferências aos fundos de saúde dos Estados, do Distrito Fed' notes=['(Incluído pela Emenda Constitucional nº 127, de 2022)']
@@ -62,4 +24,4 @@ PROBLEM no end for struck adct-art-107 [II -] 'II - despesas das instituições 
 PROBLEM no end for struck adct-art-107 [III -] 'III - despesas custeadas com recursos oriundos de transferências dos demais entes da Feder' notes=['(Incluído pela Emenda Constitucional nº 126, de 2022)']
 PROBLEM no end for struck adct-art-107 [§ 6º-B] '§ 6º-B Não se incluem no limite estabelecido no inciso I do caput deste artigo as despesas' notes=['(Incluído pela Emenda Constitucional nº 126, de 2022)']
 PROBLEM no end for struck adct-art-107 [§ 6º-C] '§ 6º-C As despesas previstas no § 6º-B deste artigo não serão consideradas para fins de ve' notes=['(Incluído pela Emenda Constitucional nº 126, de 2022)']
-43 problems
+22 problems
