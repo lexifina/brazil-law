@@ -9,6 +9,36 @@
    "id": "ctn-compilado",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
    "ts": "20261026202202"
+  },
+  {
+   "id": "eca",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+   "ts": "20261023184051"
+  },
+  {
+   "id": "eca-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm",
+   "ts": "20261022101843"
+  },
+  {
+   "id": "ce",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4737.htm",
+   "ts": "20261021192341"
+  },
+  {
+   "id": "ce-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+   "ts": "20261020015444"
+  },
+  {
+   "id": "rju",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm",
+   "ts": "20261016041731"
+  },
+  {
+   "id": "rju-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112compilado.htm",
+   "ts": "20261004195859"
   }
  ]
 }
