@@ -26,4 +26,8 @@ CP paragraphs 3509 Counter({'plain': 2300, 'struck': 1209}) units 434 versions 1
   DIFF art-359-g: Planalto consolidated 'andato ou da legislatura:)' / replay 'andato ou da legislatura:'
   DIFF titulos: only in consolidated: 'DOS CRIMES CONTRA A' | only in consolidated: 'INVIOLABILIDADE DE CORRESPONDÊNCIA' | only in replay: 'DOS CRIMES CONTRA A INVIOLABILIDADE DE CORRESPONDÊNCIA' | only in consolidated: 'DOS CRIMES CONTRA AS' | only in consolidated: 'MARCAS DE INDÚSTRIA E COMÉRCIO' | only in replay: 'DOS CRIMES CONTRA AS MARCAS DE INDÚSTRIA E COMÉRCIO'
   25 units differ from the consolidated page
+CPC paragraphs 4535 Counter({'plain': 4467, 'struck': 68}) units 1076 versions 18
+  end_how Counter({'successor': 33, 'same-day': 25, 'note': 10})
+  DIFF art-1041: Planalto consolidated '§ 2º A petição de agrav' / replay '§ 2º Quando ocorrer ' | Planalto consolidated '§ 2º A petição de agravo s' / replay '§ 2º Quando ocorrer a hipótese do incis' | Planalto consolidated '§ 2º A petição de agravo ser' / replay 'uando ocorrer a hipótese do inciso II do caput do ar' | Planalto consolidated '§ 2º A petição de agravo será ' / replay 'pótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questõ' | Planalto consolidated '§ 2º A petição de agravo será diri' / replay 'ecurso versar sobre outras questões,' | Planalto consolidated '§ 2º A petição de agravo será dirig' / replay 'urso versar sobre outras questões, cab'
+  1 units differ from the consolidated page
 0 problems

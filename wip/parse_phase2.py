@@ -406,6 +406,10 @@ def page_info(key: str) -> dict:
 
 # Hand-checked in-force days where a law's own clause is staged or not machine-readable: key -> (date, reason).
 VIGENCIA_FIXED: dict[str, tuple[str, str]] = {
+    "lei-13256-2016": ("2016-03-18", "art. 4: 'Esta Lei entra em vigor no início da vigência da Lei nº 13.105, de 16 de "
+                                     "março de 2015 (Código de Processo Civil)', that is 18.3.2016 (published 5.2.2016)"),
+    "lei-14711-2023": ("2023-10-31", "art. 21, II: 'na data de sua publicação, quanto aos demais dispositivos' (published "
+                                     "31.10.2023; item I was vetoed)"),
     "lc-225-2026": ("2026-01-09", "art. 58, II: 'na data de sua publicação, quanto aos demais dispositivos' (published "
                                   "9.1.2026); its change to the Código Penal (art. 49: arts. 168-A and 337-A) is not among "
                                   "the provisions item I defers"),
@@ -829,12 +833,22 @@ def build_act(paras: list[dict], act_day: str, gate: dict[str, str], gate_law: d
                 days.add(d)
     versions = []
     prev: dict[str, str] = {}
-    for day in sorted(days):
+    # laws in force on the act's own first day (SAME_DAY_LAWS): the act as enacted comes first, then their changes
+    # as a second version of the same day ("same_day": true)
+    same = {law for p in paras for d, law in events(p) if d == act_day and law in SAME_DAY_LAWS}
+    order = [(act_day, True)] if same else []
+    order += [(d, False) for d in sorted(days)]
+    for day, pre in order:
         cur: dict[str, str] = {}
         for u in units:
             if gate.get(u, act_day) > day:
                 continue
-            live = [p for p in by_unit[u] if alive(p, day)]
+            if pre:
+                live = [p for p in by_unit[u] if not p.get("skip") and p["start"] <= day
+                        and not (p["start"] == day and p["start_law"] in same)
+                        and (p["end"] is None or day < p["end"] or (p["end"] == day and p["end_law"] in same))]
+            else:
+                live = [p for p in by_unit[u] if alive(p, day)]
             lines = [p["text"] for p in live]
             # a marginal heading left above an article whose text is gone (revoked) is not an article
             if all(p["label"] == "rubrica" for p in live):
@@ -857,8 +871,11 @@ def build_act(paras: list[dict], act_day: str, gate: dict[str, str], gate_law: d
                     ls.add(gate_law[u])
                 if ls:
                     credits[u] = sorted(ls)
-        versions.append({"from": day, "units": {u: {"label": unit_label(u, by_unit[u]), "kind": unit_kind(u), "text": t}
-                                                for u, t in cur.items()}, "credits": credits})
+        v = {"from": day, "units": {u: {"label": unit_label(u, by_unit[u]), "kind": unit_kind(u), "text": t}
+                                    for u, t in cur.items()}, "credits": credits}
+        if versions and versions[-1]["from"] == day:
+            v["same_day"] = True
+        versions.append(v)
         prev = cur
     return versions
 
@@ -952,14 +969,25 @@ ACTS = [
     {"slug": "codigo-penal", "short": "CP", "page": "cp", "consolidated": "cp-compilado", "law": "dl-2848-1940",
      "title": "Código Penal (Decreto-Lei nº 2.848, de 7 de dezembro de 1940)", "digits": 3, "center_headings": False,
      "url": PL + "decreto-lei/del2848compilado.htm"},
+    {"slug": "codigo-de-processo-civil", "short": "CPC", "page": "cpc", "consolidated": "cpc-compilada",
+     "law": "lei-13105-2015", "title": "Código de Processo Civil (Lei nº 13.105, de 16 de março de 2015)", "digits": 4,
+     "url": PL + "_ato2015-2018/2015/lei/l13105compilada.htm"},
 ]
 
 # The day each act came into force (its own vigência clause), and its own law record.
 ACT_DAY = {
+    "lei-13105-2015": ("2016-03-18", "Lei 13.105/2015 art. 1.045: 'Este Código entra em vigor após decorrido 1 (um) "
+                                     "ano da data de sua publicação oficial' (published 17.3.2015): in force 18.3.2016, "
+                                     "the period ending on the same calendar day (LC 95/1998 art. 8 § 1, as the STJ "
+                                     "held)"),
     "dl-2848-1940": ("1942-01-01", "Decreto-Lei 2.848/1940 art. 361: 'Este Código entrará em vigor no dia 1º de janeiro "
                                    "de 1942' (published in the DOU of 31.12.1940, rectified 3.1.1941)"),
 }
 ACT_LAWS = {
+    "lei-13105-2015": {"label": "Lei nº 13.105, de 2015", "title": "Código de Processo Civil.", "kind": "law",
+                       "enacted": "2015-03-16", "published": "2015-03-17",
+                       "url": PL + "_ato2015-2018/2015/lei/l13105.htm", "temporary_until": None, "restores": None,
+                       "note": None},
     "dl-2848-1940": {"label": "Decreto-Lei nº 2.848, de 1940", "title": "Código Penal.", "kind": "decree",
                      "enacted": "1940-12-07", "published": "1940-12-31", "url": PL + "decreto-lei/del2848.htm",
                      "temporary_until": None, "restores": None, "note": None},
@@ -1005,6 +1033,38 @@ def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str])
     hit = REWRITES.get(act["slug"])
     if hit:
         rewrite(paras, hit, eff, fixed)
+    # a law in force on the act's first day (SAME_DAY_LAWS) replaces or revokes wording that starts that same day:
+    # the ordinary rules want a strictly later start, so its wordings are matched here
+    for i, p in enumerate(paras):
+        if p["state"] == "plain" or p["end"] or p["heading"]:
+            continue
+        lv = level(p["label"])
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"] or q["heading"] or (lv < 5 and level(q["label"]) < lv):
+                break
+            if same_slot(p, q) and q["start_law"] in SAME_DAY_LAWS and q["start"] >= p["start"]:
+                p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "same-day"
+                fixed.add(i)
+                break
+        if p["end"]:
+            continue
+        for q in reversed(paras[:i]):
+            if q["unit"] != p["unit"]:
+                break
+            if level(q["label"]) < lv and not q["heading"]:
+                if q["state"] != "plain" and q["end"] and q["end_law"] in SAME_DAY_LAWS and q["end"] >= p["start"]:
+                    p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "same-day"
+                    fixed.add(i)
+                break
+        if p["end"]:
+            continue
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"] or q["state"] == "plain":
+                break
+            if q["end_law"] in SAME_DAY_LAWS and q["end"] and q["end"] >= p["start"]:
+                p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "same-day"
+                fixed.add(i)
+                break
     # no line is older than its article: in an article every caput of which carries a later note (inserted after the
     # act), a line dated earlier (no note, or a note Planalto copied from an older article: CP art. 334-A § 2º cites
     # Lei 4.729/1965) starts with the article's first caput
@@ -1122,6 +1182,10 @@ def rewrite(paras: list[dict], hit: tuple, eff: dict, fixed: set) -> None:
     for p in paras[new_from:new_to]:
         if p["start_law"] is None and p["start"] < day:
             p["start"], p["start_law"] = day, law
+
+# Laws in force on the very day their act first applies (Lei 13.256/2016 amended the CPC before it came into force,
+# "no início da vigência"): their changes are a second version of that day, after the act as enacted.
+SAME_DAY_LAWS = {"lei-13256-2016"}
 
 # set per act before parsing its pages: trust <p align="center"> to mark headings
 CENTER_HEADINGS = True
