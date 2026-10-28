@@ -218,7 +218,8 @@ def norm(s: str) -> str:
     s = s.replace("“", '"').replace("”", '"').replace("‘", "'").replace("’", "'")
     s = s.replace("–", "-").replace("—", "-")
     s = re.sub(r"\s+", " ", s).strip()
-    s = re.sub(r"(\bArt\.|§)\s*(\d+(?:\.\d{3})*)\s*\.?\s*[o°º](?![a-zà-ú])", r"\1 \2º", s)
+    s = re.sub(r"(\b[Aa]rt\.|§)\s*(\d+(?:\.\d{3})*)\s*\.?\s*[o°º](?![a-zà-ú])", r"\1 \2º", s)
+    s = re.sub(r"\b(Lei|Decreto-Lei|Decreto-lei|Decreto|Lei Complementar|Medida Provisória) no (?=\d)", r"\1 nº ", s)
     s = re.sub(r"\bArt\.\.\s*(?=\d)", "Art. ", s)
     s = re.sub(r"^Art\s+(?=\d)", "Art. ", s)
     s = re.sub(r"\bArt\.(?=\d)", "Art. ", s)
@@ -569,7 +570,7 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
             else:
                 continue
         if zone == "anexo":
-            if t != "*":
+            if t not in ("*", ""):
                 out.append({**b, "unit": "anexo", "label": "", "heading": False})
             continue
         if t.startswith(("Brasília,", "Rio de Janeiro,", "Este texto não substitui")):
@@ -924,6 +925,14 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
                 if q["text"] == p["text"] and q["label"] == p["label"] and q["start"] <= p["start"] and not q.get("skip"):
                     p["skip"], p["end_how"] = True, "duplicate"
                     break
+        if not p["end"] and not p["heading"] and not p.get("skip") and level(p["label"]) > 0:
+            # a struck dispositivo of an article whose caput in force at its start was later replaced: it went with
+            # that caput (the replacing law gave the whole article a new text)
+            for q in paras:
+                if q["unit"] == p["unit"] and level(q["label"]) == 0 and not q["heading"] and q["state"] != "plain" \
+                        and q["start"] <= p["start"] and q["end"] and q["end"] > p["start"] and q["end_how"] != "undated":
+                    p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "caput"
+                    break
         if not p["end"] and not p["heading"] and not p.get("skip"):
             # struck with no note, no successor and no struck parent: it went with the nearest struck wording of the
             # same article that started on the same day (a block a later law left out when it rewrote the article)
@@ -933,9 +942,11 @@ def lifespans(paras: list[dict], cx: Ctx) -> list[str]:
                 if q["state"] != "plain" and q["end"] and (q["start"], q["start_law"]) == (p["start"], p["start_law"])                         and q["end_how"] in ("successor", "note", "parent", "sibling"):
                     p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "sibling"
                     break
-        if not p["end"] and not p.get("skip") and p["heading"]:
-            # a struck heading with nothing to date its end: the consolidated page still prints these headings, so
-            # they are kept
+        nxt = paras[i + 1]["text"] if i + 1 < len(paras) and paras[i + 1]["heading"] else ""
+        prv = paras[i - 1]["text"] if i and paras[i - 1]["heading"] else ""
+        if not p["end"] and not p.get("skip") and p["heading"] and ((p["text"], nxt) in CONSOLIDATED_HEADINGS
+                                                                     or (prv, p["text"]) in CONSOLIDATED_HEADINGS):
+            # a struck heading with nothing to date its end that the consolidated page still prints: kept
             UNDATED_HEADINGS.append(p["text"])
             continue
         if not p["end"] and not p.get("skip"):
@@ -1035,6 +1046,7 @@ LINK_SLIPS: list[str] = []
 UNDATED: list[str] = []
 UNDATED_HEADINGS: list[str] = []
 STRAY: list[str] = []
+CONSOLIDATED_HEADINGS: set[tuple[str, str]] = set()
 # column heads and cells of the tables inside art. 580, centred on the page but not headings
 TABLE_WORDS = re.compile(r"^(?:Discrimina[çc][ãa]o|Percentagem|CLASSES DE CAPITAL|AL[ÍI]QUOTA|[\d.,]+\s*%?)$")
 
@@ -1103,6 +1115,28 @@ def mp_pairs(paras: list[dict], cx: Ctx) -> list[str]:
                 p["gaps"] = [(q["start"], r_eff, m_key, r_key)]
                 p["pinned"] = True
     return problems
+
+
+def follow_rubricas(paras: list[dict]) -> None:
+    """A marginal heading with no note of its own lives as long as its article: from the first wording's start to
+    the last wording's end (art. 457-A 'Gorjetas' existed only while MP 905/2019 had effect)."""
+    by_unit: dict[str, list[dict]] = {}
+    for p in paras:
+        by_unit.setdefault(p["unit"], []).append(p)
+    for u, ps in by_unit.items():
+        body = [p for p in ps if p["label"] != "rubrica" and not p.get("skip") and not p["heading"]]
+        if not body:
+            continue
+        first = min((p["start"], p["start_law"] or "") for p in body)
+        alive_now = any(p["end"] is None for p in body)
+        last = None if alive_now else max((p["end"], p["end_law"] or "") for p in body)
+        for p in ps:
+            if p["label"] != "rubrica" or p["notes"] or p["state"] != "plain":
+                continue
+            if first[0] > p["start"]:
+                p["start"], p["start_law"] = first[0], first[1] or None
+            if last and not p["end"]:
+                p["end"], p["end_law"], p["end_how"] = last[0], last[1] or None, "article"
 
 
 def same_slot(p: dict, q: dict) -> bool:
@@ -1502,7 +1536,12 @@ def main(argv: list[str]) -> int:
         paras, src, sha = parsed[act["slug"]]
         act_day = ACT_DAY[act["law"]][0]
         cx = Ctx(act_day, eff, mp, lapse_key, act["slug"])
+        CONSOLIDATED_HEADINGS.clear()
+        b2, _ = raw(act["consolidated"])
+        hs = [q["text"] for q in paragraphs(decode(b2), act["digits"])[0] if q["heading"] and q["state"] == "plain"]
+        CONSOLIDATED_HEADINGS.update(zip(hs, hs[1:]))
         pr = split_court_strikes(paras) + lifespans(paras, cx)
+        follow_rubricas(paras)
         if a.dump:
             Path(a.dump).write_text(json.dumps([{k: p.get(k) for k in ("i", "unit", "label", "state", "start", "start_law", "end",
                                                                        "end_law", "end_how", "gaps", "skip", "notes")}
