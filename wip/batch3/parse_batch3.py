@@ -90,7 +90,33 @@ P.sources = sources
 # ---------------------------------------------------------------------------------------------------------------
 # hand tables (same meaning as in parse_proc.py), emptied of the CPP/CDC entries and filled for these acts
 
-P.COURTS = {}
+# STF rulings (portal.stf.jus.br case pages, abaDecisoes + abaAndamentos, cached through fetch.get). As in
+# parse_proc: a ruling binds from the publication of its judgment record (ata) in the Diário da Justiça, which is the
+# version day. "where": whole dispositivos the ruling strikes (parse_proc's rule); [] for an expression struck inside a
+# paragraph (the split rule above).
+P.COURTS = {
+    "stf-adi-869": {
+        "label": "STF, ADI 869", "kind": "court", "enacted": "1999-08-04", "published": "1999-08-16",
+        "title": "Ação direta de inconstitucionalidade 869: procedente; declara inconstitucional, no § 2º do art. 247 da "
+                 "Lei nº 8.069, de 1990, a expressão \"ou a suspensão da programação da emissora até por dois dias, bem "
+                 "como da publicação do periódico até por dois números\"",
+        "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=1563583",
+        "from": "1999-08-16", "case": r"\b869\b", "where": [],
+        "why": "STF, ADI 869 (Plenário, 4.8.1999): declared unconstitutional the expression 'ou a suspensão da "
+               "programação da emissora até por dois dias, bem como da publicação do periódico até por dois números' in "
+               "ECA art. 247 § 2º; judgment record (ata nº 22, of 4.8.1999) in a DJ extra edition dated 13.8.1999 that "
+               "'circulou no dia 16/08/1999' (STF case record), the day the version takes effect. Planalto strikes the "
+               "expression inside the paragraph, noting the case"},
+    "stf-adi-2404": {
+        "label": "STF, ADI 2.404", "kind": "court", "enacted": "2016-08-31", "published": "2016-09-12",
+        "title": "Ação direta de inconstitucionalidade 2.404: procedente; declara inconstitucional a expressão \"em "
+                 "horário diverso do autorizado\", contida no art. 254 da Lei nº 8.069, de 1990",
+        "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=1902202",
+        "from": "2016-09-12", "case": r"2\.?404", "where": [],
+        "why": "STF, ADI 2.404 (Plenário, 31.8.2016): declared unconstitutional the expression 'em horário diverso do "
+               "autorizado' in ECA art. 254; judgment record published in the DJE on 12.9.2016 (STF case record), the "
+               "day the version takes effect. Planalto strikes the expression inside the article, noting the case"},
+}
 P.EDITORIAL = {}
 P.LAW_ALIAS = {}
 P.NOTE_FIX = {}
