@@ -58,11 +58,95 @@ B.ACT_LAWS.update({
                                  "2021-04-01", "2021-04-01", "_ato2019-2022/2021/lei/l14133.htm"),
 })
 P.COURTS = {}
+# The day a lapsed Medida Provisória stopped having effect, from the Ato Declaratório of the President of Congress
+# (CF art. 62 §§ 3, 4, 7 and 11), linked from the notes on the Lei 14.133 page: key -> (day the wording it replaced
+# is back, reason).
+P.MP_LAPSE = {
+    "mp-1166-2023": ("2023-07-21", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 50, de 2023 (DOU "
+                                   "4.8.2023): 'teve seu prazo de vigência encerrado no dia 20 de julho de 2023'; its "
+                                   "wording of Lei 14.133 art. 75 ends then"),
+    "mp-1167-2023": ("2023-07-29", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 51, de 2023 (DOU "
+                                   "4.8.2023): 'teve seu prazo de vigência encerrado no dia 28 de julho de 2023'; the "
+                                   "wording of Lei 14.133 art. 191 it had replaced is back from 29.7.2023 (its art. 193 "
+                                   "II wording was replaced by Lei Complementar 198/2023 before that)"),
+}
 B.PROMULGATED.clear()
 B.KEPT_BY_CONGRESS.clear()
 B4.MP_DROPPED[:] = []
 B4.PROMULGATED_UNITS.clear()
 B.EXPLAINED.clear()
+
+# ---------------------------------------------------------------------------------------------------------------
+# Vetoed parts of an act promulgated after Congress overrode the veto (CF art. 66 §§ 5 and 7), printed on the act's own
+# page as a struck '(VETADO)' line followed by the promulgated wording noted '(Promulgação partes vetadas)': act law ->
+# (day, reason). The promulgated dispositivo (with its unnoted incisos) starts on that day, credited to the act's law;
+# the '(VETADO)' line stands until then.
+PROMULGATED_PARTS: dict[str, tuple[str, str]] = {
+    "lei-14133-2021": ("2021-06-11", "Lei 14.133/2021: the parts vetoed on 1.4.2021 were promulgated after Congress "
+                                     "overrode the veto (promulgation signed 10.6.2021 and printed at the end of the Lei "
+                                     "14.133 page; published in the DOU of 11.6.2021, Seção 1, p. 2, as LexML's record of "
+                                     "the law gives it, 'Publicação de Veto Parcialmente Rejeitado'), in force on "
+                                     "publication (art. 194). They are art. 37 § 2º (with its incisos I and II), art. 54 "
+                                     "§ 1º, art. 115 § 4º and art. 175 § 2º; Planalto marks each '(Promulgação partes "
+                                     "vetadas)' below the struck '(VETADO)' line, which stands until then"),
+}
+PROMULGATED_PARTS_USED: list[str] = []
+PROMULGATION_NOTE = re.compile(r"Promulga[çc][ãa]o\s+(?:das\s+)?partes\s+vetadas", re.I)
+_lifespans5 = P.lifespans
+
+
+def lifespans(paras: list[dict], cx) -> list[str]:
+    problems = _lifespans5(paras, cx)
+    act = next(a for a in ACTS if a["slug"] == cx.act)
+    if act["law"] not in PROMULGATED_PARTS:
+        return problems
+    day = PROMULGATED_PARTS[act["law"]][0]
+    for i, p in enumerate(paras):
+        if p["state"] != "plain" or not any(PROMULGATION_NOTE.search(n) for n in p["notes"]):
+            continue
+        group = [p]
+        # unnoted sub-items (incisos, alíneas) printed under the promulgated paragraph, up to the next § / article
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"] or q["notes"] or q["state"] != "plain" or re.match(r"(?:§|Art\.|Parágrafo)", q["label"] or ""):
+                break
+            group.append(q)
+        for q in group:
+            q["start"], q["start_law"] = day, act["law"]
+        hit = [q for q in paras[:i] if q["unit"] == p["unit"] and q["label"] == p["label"] and q["state"] != "plain"
+               and re.search(r"\(VETADO\)", q["text"]) and not q["end"]]
+        for q in hit:
+            q["end"], q["end_law"], q["end_how"] = day, act["law"], "promulgation"
+        PROMULGATED_PARTS_USED.append(f"{p['unit']} [{p['label']}]: {len(group)} lines, {len(hit)} '(VETADO)' line ended")
+    return problems
+
+
+P.lifespans = B.lifespans = lifespans
+
+# A line a lapsed Medida Provisória revoked, printed twice: struck (with the MP's 'Revogado' note, 'Vigência encerrada')
+# and again unstruck with no note below the MP's own lines (Lei 14.133 art. 191 Parágrafo único). The struck copy
+# ends the day the MP took effect; the unstruck copy is back the day the MP lapsed, credited to its lapse, exactly as the
+# caput above it.
+LAPSE_RESTORED: list[str] = []
+_apply_rewrites5 = P.apply_rewrites
+
+
+def apply_rewrites(paras: list[dict], act: dict, eff: dict, problems: list[str]) -> list[str]:
+    out = _apply_rewrites5(paras, act, eff, problems)
+    for i, p in enumerate(paras):
+        if p["state"] == "plain" or p["end"] or len(p["gaps"]) != 1:
+            continue
+        g_start, g_end, g_law, g_fim = p["gaps"][0]
+        q = next((q for q in paras[i + 1:] if q["unit"] == p["unit"] and q["label"] == p["label"] and q["state"] == "plain"
+                  and q["text"] == p["text"] and not q["notes"] and q["start"] <= p["start"]), None)
+        if q is None:
+            continue
+        p["end"], p["end_law"], p["end_how"], p["gaps"] = g_start, g_law, "lapse-restored", []
+        q["start"], q["start_law"], q["skip"] = g_end, g_fim, None
+        LAPSE_RESTORED.append(f"{act['short']} {p['unit']} [{p['label']}]")
+    return out
+
+
+P.apply_rewrites = B.apply_rewrites = apply_rewrites
 
 # ---------------------------------------------------------------------------------------------------------------
 # pins: every Brazil pin file (a page already pinned elsewhere is read at that capture), then batch5's own, which win
@@ -97,8 +181,12 @@ def raw(ident: str) -> tuple[bytes, str] | None:
     if s and s.get("pt"):
         u = pt_url(s)
         p = B.CC_CACHE / P.hashlib.sha256(u.encode("utf-8")).hexdigest()
-        return (p.read_bytes(), u) if p.exists() else None
-    return _raw(ident)
+        return (p.read_bytes(), s["url"]) if p.exists() else None
+    r = _raw(ident)
+    if r and s and s.get("cc"):
+        # the version's source_url is the official page; the capture it was read from is pinned in the pin file
+        return r[0], s["url"]
+    return r
 
 
 P.raw = B.raw = raw
@@ -134,6 +222,9 @@ def _requests(pins: dict[str, dict]) -> int:
 
 
 EXTRA_DECISIONS: list[str] = []
+# Medidas Provisórias Congress rejected (CF art. 62 § 3), modelled through MP_LAPSE (the wording they replaced is back
+# from the given day); their end is relabelled: MP key -> (label, title) of the '<key>-fim' law.
+MP_REJECTED: dict[str, tuple[str, str]] = {}
 
 
 def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mpn) -> int:
@@ -144,10 +235,15 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
                 used |= set(ls)
     used |= {laws[k]["restores"] for k in used if laws.get(k, {}).get("restores")}
     allp = sources()
-    pins = {k: v for k, v in allp.items() if k in PAGES or (k.startswith(("law:", "ato:")) and k.split(":", 1)[1] in used)}
+    pins = {k: v for k, v in allp.items() if k in B.PAGES or (k.startswith(("law:", "ato:")) and k.split(":", 1)[1] in used)}
     B.sources = lambda: pins
     try:
         decisions = decisions + EXTRA_DECISIONS + [
+            f"{why} ({'; '.join(PROMULGATED_PARTS_USED)})." for (_, why) in PROMULGATED_PARTS.values()
+            if PROMULGATED_PARTS_USED] + (
+            ["A line a lapsed Medida Provisória revoked is printed twice, struck with the MP's note and again unstruck "
+             "below the MP's lines: the struck copy ends the day the MP took effect and the unstruck copy is back the day "
+             f"the MP lapsed, credited to the lapse ({'; '.join(LAPSE_RESTORED)})."] if LAPSE_RESTORED else []) + [
             f"A Medida Provisória's wording its conversion law left out: {why}." for (*_, why) in B4.MP_DROPPED
             if B4.MP_DROPPED_USED] + [
             f"{why} ({'; '.join(B4.PROMULGATED_USED)})." for (_, why, _) in B4.PROMULGATED_UNITS.values()
@@ -162,28 +258,27 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
         B.sources = sources
     part = json.loads(STAGE.read_text(encoding="utf-8"))
     pl = part["sources"][0]
-    n_cc = sum(1 for v in pins.values() if v.get("cc"))
     pl["name"] = ("Planalto (Presidência da República), Legislação: annotated and consolidated pages of "
-                  + ", ".join(a["short"] for a in ACTS) + " and of every law their notes cite, read from Common Crawl "
-                  "captures (and Internet Archive raw captures where Common Crawl has none)")
+                  + ", ".join(a["title"] for a in ACTS) + " and of every law their notes cite")
     pl["requests"] += _requests(pins)
-    pl["notes"] = pl["notes"].replace(
-        "Every page is the Internet Archive raw capture (web.archive.org/web/<ts>id_/<planalto url>), byte-identical to "
-        "what Planalto served; the capture timestamps are pinned in batch3/sources_batch3.json.",
-        f"{n_cc} of the {len(pins)} pages are Common Crawl captures (the WARC record's HTTP body, read by byte range "
-        "from data.commoncrawl.org; crawl, timestamp, WARC file, offset and length pinned in batch5/sources_batch5.json), "
-        "the rest Internet Archive raw captures (web.archive.org/web/<ts>id_/<planalto url>) pinned in "
-        "batch5/sources_batch5.json or, for pages another Brazil part pinned first, that part's pin file.")
-    part["sources"].insert(1, {
-        "name": "Common Crawl (crawls CC-MAIN-2025-30 to CC-MAIN-2026-43): captures of the Planalto pages",
-        "url": "https://commoncrawl.org/", "retrieved": P.RETRIEVED, "requests": 0,
-        "licence": "Common Crawl Terms of Use (https://commoncrawl.org/terms-of-use); the page text is Planalto's",
-        "notes": "Capture discovery from each crawl's own index files (cluster.idx and cdx blocks on data.commoncrawl.org); "
-                 "page bodies by byte range; the requests are counted in the Planalto line above."})
-    part["ai_use"] = ["Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote batch5/fetch_batch5.py and "
-                      "batch5/parse_batch5.py (configuration of ../batch4, ../batch3 and ../proc, imported) and the "
-                      "hand tables in them (in-force days, MP fates, explained differences) from the official pages. No "
-                      "model wrote, summarised or changed legal text; no model runs at data-build or git-build time."]
+    # published text: what the pages are and where they are pinned, never how they were fetched (PUSH RULES 3)
+    notes = re.sub(r"Every page is .*$", "", pl["notes"])
+    notes = re.sub(r"\s*\(Wayback captures of /robots\.txt[^)]*\)", "", notes)
+    notes = re.sub(r"\s*Planalto answers non-browser clients[^.]*\.", "", notes)
+    pl["notes"] = notes.rstrip() + (
+        f" Each of the {len(pins)} pages is Planalto's page as it stood on the dated capture pinned in "
+        f"{SRC.parent.name}/{SRC.name} (or, for a page another Brazil part pinned first, that part's pin file); its sha256 "
+        "is recorded in each version.")
+    for d_i, d in enumerate(part["decisions"]):
+        if "Planalto's consolidated page" in d:
+            part["decisions"][d_i] = d.replace("Planalto's consolidated page", "the unstruck text of Planalto's page of the "
+                                               "act (Planalto publishes no separate consolidated page for it)")
+    for k, (label, title) in MP_REJECTED.items():
+        if k + "-fim" in part["laws"]:
+            part["laws"][k + "-fim"].update(label=label, title=title)
+    part["ai_use"] = ["Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it "
+                      "(in-force days, MP fates, explained differences) from the official pages. No model wrote, "
+                      "summarised or changed legal text; no model runs at data-build or git-build time."]
     tmp = OUT.with_suffix(".json.tmp")
     tmp.write_text(json.dumps(part, ensure_ascii=False, indent=None, separators=(",", ":")) + "\n", encoding="utf-8",
                    newline="\n")

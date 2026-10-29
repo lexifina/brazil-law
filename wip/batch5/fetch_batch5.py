@@ -97,8 +97,8 @@ def index() -> dict[str, list[dict]]:
 
 def complete(b: bytes | None) -> bool:
     """A whole page: not a bot page, and its </html> is there (Planalto's F5 appends a script of up to ~12 KB after it;
-    a capture cut short has none)."""
-    return FB.good(b) and re.search(rb"</html\s*>", b[-20000:], re.I) is not None
+    a capture cut short has none; the Lei 11.343 page carries ~90 KB of it, so the whole body is searched)."""
+    return FB.good(b) and re.search(rb"</html\s*>", b, re.I) is not None
 
 
 def pin_cc(ident: str, url: str) -> dict | None:
@@ -177,8 +177,77 @@ def linked_laws(idents: list[str]) -> dict[str, str]:
     return found
 
 
+def fetch_pin(item: dict) -> bool:
+    """Fetch one pinned capture into the cache path the parsers read (refetch after the cache was lost)."""
+    if PB.P.raw(item["id"]):
+        return True
+    if item.get("cc"):
+        body = wayback.cc_get(dict(item["cc"], status=200), cache=CACHE)
+    elif item.get("pt"):
+        body = wayback.pt_get(item["pt"], cache=CACHE)
+    elif item.get("via") == "wayback.py":
+        body = wayback.get(item["url"], ts=item["ts"], cache=CACHE)
+    elif item.get("ts"):
+        # pins made through ../fetch.py: same capture, read through the shared archive.org rate, cached where
+        # parse_proc.raw looks (../.cache/<sha256 of the id_ URL>.bin)
+        u = FB.fetch.wayback(item["url"], item["ts"])
+        p = FB.fetch.CACHE / (FB.fetch.key(u) + ".bin")
+        body = wayback.fetch(u, None)
+        if body:
+            FB.fetch.CACHE.mkdir(exist_ok=True)
+            (FB.fetch.CACHE / ".gitignore").write_text("*\n", encoding="utf-8")
+            tmp = p.with_suffix(".part")
+            tmp.write_bytes(body)
+            tmp.replace(p)
+            with (FB.fetch.CACHE / "requests.jsonl").open("a", encoding="utf-8") as f:
+                f.write(json.dumps({"url": u, "status": 200, "bytes": len(body), "via": "wayback.fetch (refetch)"}) + "\n")
+    else:
+        return False
+    return bool(body)
+
+
+def fetch_urls(urls: list[str]) -> int:
+    """Direct records the parsers read through ../fetch.py's cache (LexML URN pages, STF case pages): host_get, then
+    stored at ../.cache/<sha256 of the URL>.bin. robots.txt allows /urn/ on lexml.gov.br."""
+    def one(u):
+        p = FB.fetch.CACHE / (FB.fetch.key(u) + ".bin")
+        if p.exists() and p.stat().st_size:
+            return True
+        body = wayback.host_get(u, CACHE)
+        if body:
+            FB.fetch.CACHE.mkdir(exist_ok=True)
+            tmp = p.with_suffix(".part")
+            tmp.write_bytes(body)
+            tmp.replace(p)
+        return bool(body)
+    with ThreadPoolExecutor(8) as ex:
+        ok = list(ex.map(one, urls))
+    print(sum(ok), "of", len(urls), "cached; failed:", [u for u, o in zip(urls, ok) if not o], flush=True)
+    return 0 if all(ok) else 1
+
+
+def refetch(idents: list[str]) -> int:
+    srcs = PB.sources()
+    items = [srcs[i] for i in idents if i in srcs]
+    for i in idents:
+        if i not in srcs:
+            print("not pinned", i)
+    with ThreadPoolExecutor(12) as ex:
+        ok = list(ex.map(fetch_pin, items))
+    bad = [i["id"] for i, o in zip(items, ok) if not o]
+    print(len(items) - len(bad), "of", len(items), "cached;", "failed:", bad, flush=True)
+    return 1 if bad else 0
+
+
 def main(argv: list[str]) -> int:
     cmd = argv[0] if argv else ""
+    if cmd == "refetch":   # refetch <ids...> | refetch --need (batch5/.tmp/need.json) | refetch --all-batch5
+        if argv[1:2] == ["--need"]:
+            need = json.loads((PB.SRC.parent / ".tmp" / "need.json").read_text())
+            return refetch(need["pinned_missing"]) | (fetch_urls(need["urls"]) if need["urls"] else 0)
+        if argv[1:2] == ["--all-batch5"]:
+            return refetch([i["id"] for i in load()["fetch"]])
+        return refetch(argv[1:])
     if cmd == "ccindex":
         return ccindex(int(argv[1]) if len(argv) > 1 else 16)
     if cmd == "pages":

@@ -1,6 +1,28 @@
 {
  "fetch": [
   {
+   "id": "ato:adc-50-2023",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Congresso/adc-50-mpv1.166.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260912180329",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492700164.15/warc/CC-MAIN-20260912161414-20260912191414-00018.warc.gz",
+    "offset": "35598720",
+    "length": "2251"
+   }
+  },
+  {
+   "id": "ato:adc-51-2023",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Congresso/adc-51-mpv1.167.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261017155329",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170349983.58/warc/CC-MAIN-20261017142238-20261017172238-00562.warc.gz",
+    "offset": "32717666",
+    "length": "2312"
+   }
+  },
+  {
    "id": "cflo",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651.htm",
    "cc": {
