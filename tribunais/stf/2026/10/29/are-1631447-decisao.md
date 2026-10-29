@@ -1,0 +1,31 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos II e XXXVI; 7º; inciso XXXIII; e 227, § 3º, inciso II, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+“Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+(...)
+Conforme analise dos autos, bem como expôs a sentença, note-se que a produção agrícola era resultado do desenvolvimento das práticas pedagógicas do curso, ou seja, não se tratava de bens produzidos com o intuito de atender a terceiros, mas de possibilitar o aprendizado. Em outros termos, o fim principal da produção era proporcionar o ensino aos estudantes e não a "execução de bens e serviços destinados a terceiros".
+É possível concluir, assim, que o autor não prestava serviços àquela instituição que lhe rendesse alguma contraprestação, ainda que indireta.
+Assim, voto por negar provimento ao recurso, tal como já decidido por esta Turma Recursal nos autos nº 5011899-72.2021.4.04.7000.
+(...)
+
+Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+“Agravo regimental no recurso extraordinário com agravo. Direito Previdenciário. Prequestionamento. Ausência. Aluno-aprendiz. Cômputo do período como tempo de serviço público para fins de aposentadoria. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºs 282 e 356/STF. 2. Não se presta o recurso extraordinário para o exame de legislação infraconstitucional. 3. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.220.678/PR - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 09/10/2019).
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 27.4.2018. PREVIDENCIÁRIO. TEMPO DE SERVIÇO COMO ALUNO-APRENDIZ. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. ALEGAÇÃO DE OFENSA AO ART. 5º, LV, DA CONSTITUIÇÃO FEDERAL. REPERCUSSÃO GERAL. AUSÊNCIA. 1. Para se chegar a conclusão diversa daquela a que se chegou no acórdão recorrido, seria necessário o reexame dos fatos e provas dos autos. Incidência da Súmula 279 do STF. 2. A questão concernente à ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não apresenta repercussão geral, o que torna inadmissível o recurso extraordinário. Precedente: RE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.08.2013 (tema 660). 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC, observado o disposto no § 5º do mesmo dispositivo” (ARE nº 1.087.423/PE - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 12/12/2019).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 29 de outubro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
