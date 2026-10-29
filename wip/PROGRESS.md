@@ -92,3 +92,10 @@ repo/README.md table now lists the CTN, ECA, Código Eleitoral and Lei 8.112. ju
 Own part corpus.d/97-batch4.json + 97-batch4.PUBLISH, scripts in batch4/ (imports batch3 -> proc, like rju/). LRF 9
 versions, JEC 13; merged test build 821 commits, 14 acts, check 0 mismatches, 0 trailer errors, --compare identical;
 the 12 earlier acts byte-identical. README table rows added; jurisdiction.json not updated. Details: batch4/PROGRESS.md.
+
+## Batch 5 / 5b (alan-dell agent, 2026-10-29 late)
+
+98-batch5 (Lei 14.133/2021) and 99-batch5b were missing after the restore and were rebuilt; 99-batch5b now holds
+Marco Civil, Lei Anticorrupção, Lei de Drogas, Lei de Arbitragem, Lei do Inquilinato and Lei de Mediação. Improbidade,
+Crimes Ambientais, LAI and Lei 9.784 are deferred (open in-force days). Details, checks and how to rerun:
+batch5/PROGRESS.md. Scripts in batch5/ and batch5b/ (acts chosen by env BATCH5B_ACTS).

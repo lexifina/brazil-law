@@ -44,7 +44,8 @@ B.PAGES.clear()
 B.PAGES.update(PAGES)
 B5.PAGES = PAGES
 
-# Acts are added one at a time: ENABLED lists the ones whose open dates the official sources settle (see PROGRESS.md).
+# Acts are added one at a time: ENABLED lists the ones whose open dates the official sources settle (see
+# ../batch5/PROGRESS.md); Lei 8.429/1992, Lei 9.605/1998, Lei 12.527/2011 and Lei 9.784/1999 are configured but deferred.
 ALL_ACTS: list[dict] = [
     {"slug": "marco-civil-da-internet", "short": "MCI", "page": "mci", "consolidated": "mci", "law": "lei-12965-2014",
      "title": "Marco Civil da Internet (Lei nº 12.965, de 23 de abril de 2014)", "digits": 2,
@@ -73,7 +74,10 @@ ALL_ACTS: list[dict] = [
     {"slug": "lei-de-mediacao", "short": "LMed", "page": "lmed", "consolidated": "lmed", "law": "lei-13140-2015",
      "title": "Lei de Mediação (Lei nº 13.140, de 26 de junho de 2015)", "digits": 2, "url": PL + PAGES["lmed"]},
 ]
-ENABLED = [s for s in os.environ.get("BATCH5B_ACTS", "").split(",") if s] or []
+# the acts verified and published in 99-batch5b.json (99-batch5b.PUBLISH); BATCH5B_ACTS overrides for trial runs
+VERIFIED = ["marco-civil-da-internet", "lei-anticorrupcao", "lei-de-drogas", "lei-de-arbitragem", "lei-do-inquilinato",
+            "lei-de-mediacao"]
+ENABLED = [s for s in os.environ.get("BATCH5B_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
 B5.ACTS = ACTS
@@ -91,6 +95,18 @@ ACT_DAY_ALL = {
     "lei-11343-2006": ("2006-10-08", "Lei 11.343/2006 art. 74: 'Esta Lei entra em vigor 45 (quarenta e cinco) dias após a "
                                      "sua publicação' (DOU 24.8.2006): the 45th day counted from publication is 7.10.2006 "
                                      "(LC 95/1998 art. 8 § 1)"),
+    "lei-9307-1996": ("1996-11-23", "Lei 9.307/1996 art. 43: 'Esta Lei entrará em vigor sessenta dias após a data de sua "
+                                    "publicação' (DOU 24.9.1996): 60 days after 24.9.1996 is 23.11.1996 (the same day "
+                                    "whether or not the publication day is counted, LC 95/1998 art. 8 § 1)"),
+    "lei-12527-2011": ("2012-05-16", "Lei 12.527/2011 art. 47: 'Esta Lei entra em vigor 180 (cento e oitenta) dias após a "
+                                     "data de sua publicação' (DOU 18.11.2011, edição extra): the 180th day counted from "
+                                     "publication is 15.5.2012 (LC 95/1998 art. 8 § 1)"),
+    "lei-8245-1991": ("1991-12-20", "Lei 8.245/1991 art. 89: 'Esta lei entrará em vigor sessenta dias após a sua "
+                                    "publicação' (DOU 21.10.1991): 60 days after 21.10.1991 is 20.12.1991 (the same day "
+                                    "whether or not the publication day is counted, LC 95/1998 art. 8 § 1)"),
+    "lei-13140-2015": ("2015-12-26", "Lei 13.140/2015 art. 47: 'Esta Lei entra em vigor após decorridos cento e oitenta "
+                                     "dias de sua publicação oficial' (DOU 29.6.2015): the 180th day counted from "
+                                     "publication is 25.12.2015 (LC 95/1998 art. 8 § 1)"),
     "lei-8429-1992": ("1992-06-03", "Lei 8.429/1992 art. 24: 'Esta lei entra em vigor na data de sua publicação' (DOU "
                                     "3.6.1992)"),
 }
@@ -105,6 +121,20 @@ ACT_LAWS_ALL = {
                                  "social de usuários e dependentes de drogas; estabelece normas para repressão à produção "
                                  "não autorizada e ao tráfico ilícito de drogas; define crimes e dá outras providências.",
                                  "2006-08-23", "2006-08-24", PAGES["lad"]),
+    "lei-9307-1996": B._act_law("Lei nº 9.307, de 1996", "Dispõe sobre a arbitragem.", "1996-09-23", "1996-09-24",
+                                PAGES["larb"]),
+    "lei-12527-2011": B._act_law("Lei nº 12.527, de 2011", "Regula o acesso a informações previsto no inciso XXXIII do art. "
+                                 "5º, no inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal; altera "
+                                 "a Lei nº 8.112, de 11 de dezembro de 1990; revoga a Lei nº 11.111, de 5 de maio de 2005, e "
+                                 "dispositivos da Lei nº 8.159, de 8 de janeiro de 1991; e dá outras providências.",
+                                 "2011-11-18", "2011-11-18", PAGES["lai"]),
+    "lei-8245-1991": B._act_law("Lei nº 8.245, de 1991", "Dispõe sobre as locações dos imóveis urbanos e os procedimentos "
+                                "a elas pertinentes.", "1991-10-18", "1991-10-21", PAGES["lloc"]),
+    "lei-13140-2015": B._act_law("Lei nº 13.140, de 2015", "Dispõe sobre a mediação entre particulares como meio de solução "
+                                 "de controvérsias e sobre a autocomposição de conflitos no âmbito da administração "
+                                 "pública; altera a Lei nº 9.469, de 10 de julho de 1997, e o Decreto nº 70.235, de 6 de "
+                                 "março de 1972; e revoga o § 2º do art. 6º da Lei nº 9.469, de 10 de julho de 1997.",
+                                 "2015-06-26", "2015-06-29", PAGES["lmed"]),
     "lei-8429-1992": B._act_law("Lei nº 8.429, de 1992", "Dispõe sobre as sanções aplicáveis aos agentes públicos nos casos "
                                 "de enriquecimento ilícito no exercício de mandato, cargo, emprego ou função na "
                                 "administração pública direta, indireta ou fundacional e dá outras providências.", "1992-06-02", "1992-06-03", PAGES["lia"]),
@@ -196,6 +226,10 @@ P.MP_PENDING = {
                     "17 § 5º to both",
     "mp-2180-2001": "Medida Provisória nº 2.180-35, de 24.8.2001 (DOU 27.8.2001) was in force on 11.9.2001, so it stays in "
                     "force until a later MP revokes it or Congress votes on it (Emenda Constitucional 32/2001, art. 2)",
+    "mp-2223-2001": "Medida Provisória nº 2.223, de 4.9.2001 (DOU 5.9.2001, edição extra) was in force on 11.9.2001, so it "
+                    "stayed in force (Emenda Constitucional 32/2001, art. 2) until Lei 10.931/2004 revoked it ('Revogada "
+                    "pela Lei nº 10.931, de 2004' on its page); in the Lei do Inquilinato that law's wording of art. 32 "
+                    "Parágrafo único ends it",
     "mp-2225-2001": "Medida Provisória nº 2.225-45, de 4.9.2001 (DOU 5.9.2001, edição extra) was in force on 11.9.2001, so "
                     "it stays in force until a later MP revokes it or Congress votes on it (Emenda Constitucional 32/2001, "
                     "art. 2)",
@@ -217,6 +251,11 @@ P.NOTE_FIX = {
         "_Ato2023-2026/2025/Lei/L15281.htm, Lei nº 15.281, de 5.12.2025, whose art. 1 adds exactly that parágrafo único "
         "to art. 23"),
 }
+# Typing slip in a label (batch 3's TYPOS rule: only the label is corrected): Lei do Inquilinato art. 67 'd}' (the
+# consolidated l8245compilado.htm prints 'd)')
+B.TYPOS.append(("d} não ter sido o depósito integral", "d) não ter sido o depósito integral", "d)",
+                "Lei do Inquilinato art. 67: the annotated page prints the alínea label 'd}', the consolidated page "
+                "(l8245compilado.htm) 'd)'"))
 B5.MP_REJECTED.clear()
 B5.MP_REJECTED.update({
     "mp-1068-2021": ("Medida Provisória nº 1.068, de 2021: rejeitada",
