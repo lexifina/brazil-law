@@ -1,0 +1,34 @@
+DECISÃO:
+Vistos.
+Trata-se de agravo regimental interposto pela coligação “Pernambuco de Coração” contra decisão em que julguei parcialmente procedente a reclamação.
+A agravante alega, em síntese, que: a beneficiária do ato reclamado não teria sido citada; inexistiria aderência estrita entre o acórdão regional e o que foi efetivamente decidido na ADI nº 7.021/DF; a decisão estaria apoiada na ratio do paradigma, ou seja, estaria embasada na teoria da transcendência dos motivos determinantes; a reclamação teria sido utilizada como sucedâneo recursal, com reexame de fatos e provas e supressão da instância própria da Justiça Eleitoral; a controvérsia seria interna corporis, estando a solução do TRE-PE em harmonia com a orientação da Suprema Corte; a alteração da composição da coligação a oito dias do pleito comprometeria, de modo irreversível, a segurança jurídica e a estabilidade do processo eleitoral.
+Ao final, a agravante requer:
+
+“a) o recebimento do presente agravo regimental, reconhecendo-se a legitimidade e o interesse recursal da Coligação Pernambuco de Coração, seja como beneficiária do ato reclamado não citada, seja como terceira prejudicada, com a sua habilitação nos autos;
+b) a atribuição imediata de efeito suspensivo, para suspender integralmente os efeitos da decisão agravada até o julgamento deste recurso, com comunicação, com urgência e por meio eletrônico, ao Tribunal Regional Eleitoral de Pernambuco;
+c) o exercício do juízo de retratação (art. 1.021, § 2º, do CPC), para reconsiderar a decisão agravada e negar seguimento à reclamação;
+d) não havendo retratação, a submissão do recurso ao órgão colegiado competente, com inclusão em sessão extraordinária, presencial ou virtual, compatível com a urgência do calendário eleitoral, para que seja provido, a fim de:
+d.1) anular a decisão agravada, por ausência de citação da beneficiária do ato reclamado (art. 989, III, do CPC; art. 5º, LV, da Constituição), determinando-se o regular processamento da reclamação;
+d.2) sucessivamente, não conhecer da reclamação, ante a ausência de aderência estrita com a ADI nº 7.021/DF, a inadmissibilidade da transcendência dos motivos determinantes e a sua utilização como sucedâneo recursal;
+d.3) subsidiariamente, julgá-la improcedente, restabelecendo-se integralmente o acórdão do TRE-PE no DRAP nº 0600838-03.2026.6.17.0000; e) a intimação do Agravado para, querendo, apresentar contrarrazões no prazo legal (art. 1.021, § 2º, do CPC)” (grifo do autor).
+
+Decido.
+Considerando a correção de erro material (e-doc. 29), verifica-se que, na decisão ora agravada, julguei parcialmente procedente a reclamação  para cassar a decisão no DRAP nº 0600838- 03.2026.6.17.0000 e, desde logo, julgar procedente o pedido da Federação PSDB-Cidadania de retirada da coligação “Pernambuco de Coração”. Ademais, determinei, por consequência, que o TRE-PE diligenciasse, com urgência, para adequação do tempo de propaganda eleitoral gratuita e adotasse as demais providências referentes às eleições de 2026 considerada a posição de neutralidade da Federação PSDB-Cidadania na eleição para cargos majoritários no Estado de Pernambuco.
+Mediante o Ofício nº 14304/2026/PRES o Presidente do TRE-PE, Des. Fernando Cerqueira Norberto dos Santos, comunicou que aquela Corte deu cumprimento à referida decisão, nos seguintes termos:
+
+“Comunico a Vossa Excelência que este Tribunal Regional Eleitoral de Pernambuco deu cumprimento à decisão proferida nos autos da Reclamação Constitucional nº 99.662/PE, em 26 de setembro de 2026, que determinou a adoção, com urgência, das providências necessárias à adequação do tempo de propaganda eleitoral gratuita e das demais medidas referentes às Eleições 2026, considerada a posição de neutralidade da Federação PSDB-Cidadania na eleição para cargos majoritários no Estado de Pernambuco. SEI_0023716_97.2026.6.17.8300-2
+Para implementação da determinação, no âmbito do Sistema de Candidaturas – CAND, foi promovida a anotação da inativação da Federação PSDB-Cidadania na Coligação ‘Pernambuco de Coração’, para os cargos de Governador e Vice-Governador, conforme Informação nº 24332 (Doc. SEI nº 3507218). SEI_0023716_97.2026.6.17.8300-2
+Na sequência, foi realizado o recálculo e a redistribuição do tempo de propaganda eleitoral gratuita no rádio e na televisão, com a correspondente atualização dos mapas, planos de mídia e demais documentos pertinentes à nova distribuição, em cumprimento à Decisão nº 2376/2026/CPROPAG (Doc. SEI nº 3507106). SEI_0023716_97.2026.6.17.8300-2
+Foram, ainda, formalmente comunicados os representantes das emissoras de rádio e televisão do Estado de Pernambuco, bem como os partidos políticos, as federações e as coligações alcançados pela alteração.
+Posteriormente, a Coligação Frente Popular de Pernambuco apresentou, no Processo SEI nº 0023744-92.2026.6.17.8000, petição de urgência por meio da qual requereu, além do cumprimento imediato da decisão proferida por esse Supremo Tribunal Federal e da correspondente adequação do tempo de propaganda eleitoral gratuita, a compensação do tempo de propaganda eleitoral gratuita que, segundo alegado, teria deixado de usufruir em período anterior, mediante deduções na grade de veiculação da coligação adversária. O referido processo foi posteriormente relacionado ao Processo SEI nº 0023716- 97.2026.6.17.8300, com a anexação integral dos documentos que o compõem sob o Doc. SEI nº 3508275, conforme registrado na Informação nº 24405/2026/CPROPAG (Doc. SEI nº 3508283).
+O requerimento foi apreciado pelo Desembargador Eleitoral Paulo Augusto de Freitas Oliveira, que, por meio da Decisão nº 2377/2026/CPROPAG (Doc. SEI nº 3507753), indeferiu, no âmbito da Comissão de Propaganda Eleitoral, o pedido de compensação retroativa, por não identificar, na decisão desse Supremo Tribunal Federal encaminhada para cumprimento, determinação expressa que autorizasse a adoção da medida.
+Dessa forma, encaminho a Vossa Excelência, para ciência, as informações e os documentos pertinentes às providências adotadas por este Tribunal para o cumprimento da decisão proferida na Reclamação Constitucional nº 99.662/PE, inclusive a documentação relativa ao requerimento superveniente de compensação e à decisão que o apreciou” (e-doc. 30).
+
+Diante do contexto em que se enquadra o caso e a consumação do pleito eleitoral para os cargos majoritários no Estado de Pernambuco, no qual, aliás, foi reeleita como Governadora a candidata apoiada pela coligação agravante, houve a perda superveniente do objeto da presente reclamação e deste agravo regimental.
+Ante o exposto, nos termos do art. 21, IX, do Regimento Interno da Corte, julgo prejudicada a reclamação, bem como o presente agravo regimental.
+Publique-se.
+Brasília, 29 de outubro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
