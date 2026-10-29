@@ -1,0 +1,94 @@
+CHECKPOINTED 2026-10-28 (after README update for CLT/CPP/CDC)
+
+# gitlaw-BR progress (Brazil)
+
+Repo: lexifina/brazil-law (PRIVATE, never change visibility). Clone ~/Documents/brazil-law is OWNED BY autopush.py (do not build into it or push; push_wip.sh deleted). Slug `brazil`, tz America/Sao_Paulo, lang pt, future branch `futuro`. Brief: scripts/south-america-law/BRIEF.md (read "Changed after the restart").
+
+Split (coordinator): helper agent gitlaw-BR-codes owns Código Civil and LGPD in `corpus.d/50-codes.json` (do not edit corpus.d/). I own CF/88 in corpus.json only. Shared law keys: `ec-<n>-<year>` (enactment year, e.g. `ec-26-2000`), `ecr-<n>-1994`, `cf-1988`, `lei-<n>-<year>`; EC label format "Emenda Constitucional nº 26, de 2000". fetch.py (get/wayback/cdx/pick) and parse.py (raw/decode/blocks_of/analyse/norm/label_of/amendments/vigencia) are importable helpers.
+
+## Checklist
+
+- [x] Read brief, memory/git_for_law.md, SCHEMA.md, PLAN.md
+- [x] Probe (Planalto live blocked; Wayback id_ works)
+- [x] fetch.py; sources.json pins every capture (cf, cf-compilado, quadro-emc, emc-1..141, ecr-1..6, lcp-200); all cached
+- [x] parse.py for CF/88 -> corpus.json (122 versions, 139 laws incl. cf-1988 and stf-adi-7047), 0 parse problems
+- [x] Test build in .tmp-build: 142 commits, 261 tags, 0 unexplained, check.py 0 mismatches; autopush pushed `preview` f77a78c
+- [x] 22 remaining unit differences vs constituicaocompilado.htm are typesetting differences between the two Planalto pages; listed automatically in the corpus decisions (diff_summary)
+- [x] PUBLISH created 18:03Z; autopush pushed main 51ebcfa (143 commits incl. docs), check 0 mismatches
+- [x] Determinism: parse.py twice gives identical corpus.json (sha256 01bc01c7… before the ADI 101 credit); build --compare identical (scratch dir deleted afterwards: autopush wip chokes on nested .git, ISSUES.md #1)
+- [x] repo/README.md (English then pt), repo/LICENSE, repo/jurisdiction.json, repo/tools/vigente_em.py
+- [x] Extra rules: `article` (no-note line in an article inserted after 1988 takes the article's date), `same-day-twin` (art. 246 by EC 6 and EC 7); ADI 7047 also credited to ADCT art. 101 (words unchanged)
+- [x] Sanity check over all versions: every article unit has exactly one caput line, no doubled labels
+- [x] futuro: EC 141 art. 7 XV from 2026-12-16 (FUTURE table; wording read from emc141 page). corpus: 123 versions (122 main + 1 futuro); parse deterministic (sha a7db09a9…); --compare identical
+- [x] EC 132 future text (see Phase 2 section)
+- [ ] Optional: LexML probe, legislacao-br reconciliation (prior art, read-only)
+
+## Phase 2 (coordinator 18:2xZ): CP, then CPC, then CLT -> corpus.d/60-phase2.json (+ corpus.d/60-phase2.PUBLISH when verified)
+
+- Do not touch corpus.json (CF) or corpus.d/50-codes.json (helper). Pre-1970 dates: builder clamps commit dates, real date in In-force trailer.
+- Scripts: fetch_phase2.py / parse_phase2.py = copies of the helper's codes/fetch_codes.py / codes/parse_codes.py (generic Planalto act replay incl. MPs, LINDB, staged clauses), with ACTS/ACT_DAY/ACT_LAWS for my acts, hand tables emptied, sources in sources_phase2.json (law pages already pinned by the helper are reused at the same capture). Fix made: unclosed <a href> no longer leaks across <p> (CP page has one).
+- [x] Pages pinned+fetched: cp del2848.htm (annotated, 980 strikes) 20261020142644, cp-compilado 20261026202755, cpc l13105.htm 20261023070835, clt del5452.htm 20261022194436, clt-compilado 20261019225805
+- [x] Size fix (coordinator): corpus.json now writes `changes` deltas after the first version (58 MB -> 1.9 MB, check 0 mismatches); parse_phase2 does the same (to_deltas). Helper's 50-codes (46 MB) still full snapshots: tell coordinator/helper.
+- [x] parse_phase2: CENTER_HEADINGS=False for CP (alignment unreliable; headings = Parte/Título/... lines, name line after, all-caps); rubricas (marginal headings, no label, no closing punctuation) moved into the next article as first line, label 'rubrica'.
+- [x] CP DONE: corpus.d/60-phase2.json (751 KB, 111 versions 1942-2026, 112 laws), 0 problems, 25 typesetting-only diffs vs del2848compilado.htm (listed in decisions), check 0 mismatches, --compare identical, part sha 2b9b2288…; corpus.d/60-phase2.PUBLISH written 19:15Z. Rules added: REWRITES (Lei 7.209/1984 Parte Geral), run-revoked, heads, date-order, VETO_PROMULGATION (13.964: 2021-04-30), unstruck Parágrafo único, article start clamp, renumbered-same-text, months rule (pre-LC107 Lei 810), clause matching without spaces/number words, UTF-16 pages, whole-struck law pages.
+- [ ] OLD NOTE (superseded): CP: 3509 paragraphs, 111 laws cited; `fetch_phase2.py laws cp cp-compilado` running (log .cache/phase2-laws-cp.log); next `parse_phase2.py --stats --dry`, fix problems, VIGENCIA_FIXED for staged/odd clauses (Lei 7.209/1984: 6 months), decisions text (write_part still has CC wording: rewrite), then write part, test build, PUBLISH file
+- CLT moved to helper gitlaw-BR-clt (corpus.d/70-clt.json): do not start it.
+- [x] CPC DONE: l13105.htm (annotated) vs l13105compilada.htm (consolidated, pinned as cpc-compilada); 18 versions from 2016-03-18; Lei 13.256/2016 in force the same day -> SAME_DAY_LAWS + 'same_day' version + same-day matching rule; 1 diff (compilada misplaces art. 1.041 § 2º). Part now 1.5 MB, 129 versions (sha fd5f5d78…); full test build 347 commits, 5 acts, check 0 mismatches, history identical on --compare (main tip differs only because --compare writes verification.json, as the helper noted). PUBLISH text updated for CP+CPC.
+- [x] repo/README.md + jurisdiction.json list CF, CC, LGPD, CP, CPC (CLT row to add when the CLT helper's part is published); tools/vigente_em.py picks 3- or 4-digit article files
+- [x] EC 132 futuro DONE in parse.py (EC132_STAGES: 2027-01-01 art. 3 + art. 22 I revocations; 2033-01-01 arts. 4, 5 + art. 22 II revocations; wording read from emc132 page, placed by label path; line_paths/ec132_changes/apply_ec132). corpus.json: 125 CF versions (122 main + 3 futuro: EC 141 2026-12-16, EC 132 2027, 2033); deterministic (sha 0260fdd6…); test build 349 commits, check 0 mismatches.
+
+## Endpoints
+
+- Planalto pages only via `https://web.archive.org/web/<ts>id_/https://www.planalto.gov.br/ccivil_03/<path>`; capture discovery fetch.pick() (CDX).
+- constituicao/constituicao.htm (annotated, struck history) ts 20261026203643; constituicaocompilado.htm (check) ts 20261022115717; emendas/emc/quadro_emc.htm (EC enactment + DOU dates); emendas/emc/emcNN.htm (2-digit below 10); emendas/ecr/ecrN.htm; leis/lcp/lcp200.htm.
+- STF case pages work live: portal.stf.jus.br/processos/abaDecisoes.asp?incidente=N and abaAndamentos.asp (ADI 7047 = incidente 6318731).
+
+## How parse.py rebuilds CF/88 (details in docstring and corpus decisions)
+
+- Struck = superseded. Paragraph start = in-force day of its note's amendment; struck end = "Revogado pela" note, else next wording with same label in the same article (search stops at a higher-level label), else rules: `duplicate` (struck copy of later identical unstruck text, never shown), `renumbered` (Parágrafo único -> unannotated § 1º, dated by the § 2º's Incluído note), `parent` (falls with nearest struck enclosing dispositivo), HEADING_RENAMES (verified against EC text), COURTS (ADI 7047: art. 100 § 11 expression, DJE ata 2023-12-04).
+- End counts: successor 463, parent 232, note 54, duplicate 9, heading-rename 7, renumbered 4, court 1.
+- In-force: vigencia() reads each EC's closing clause: publication (most), promulgation (EC 19, 33, 58, 95), fixed (EC 14, 25, 78, 105, ECR 5), no clause -> LINDB pub+45 (EC 2-9, 12, 13, 15, 16, 42, 72, 77, 90). Provision overrides: EC 109 art. 29-A 2025-01-01; EC 114 art. 100 § 5º 2022-01-01; EC 126 revocation of ADCT 106-114 = 2023-08-31.
+- Future text is not in Planalto's CF page; EC 141 art. 7 XV added from the EC page (FUTURE table); EC 132's 2027/2033 changes not modelled (noted in decisions).
+
+## Coordinator rules
+
+- Never kill a process you did not start; stop only your own background tasks by id.
+
+## Gotchas
+
+- Python urllib TLS fails: curl only.
+- Heredoc Python edits mangle regex escapes (a literal backspace got into parse.py once): use the Edit tool for regex lines.
+- Wayback captures can be bot pages: "Acesso Negado" (814 B) and F5 "Please enable JavaScript" (~5 KB). emc-4/emc-13 pinned to 2017 captures, ecr-5/ecr-6 to 2016.
+- CDX `length` is the compressed size.
+- corpus.json ~58 MB (122 full snapshots); autopush skips files > 50 MB from wip.
+
+## Cache
+
+.cache/: ~10 MB, ~400 requests in .cache/requests.jsonl.
+
+- [x] Coordinator job: repo/README.md and repo/jurisdiction.json now list the CLT (70-clt.json) and the CPP and CDC (80-proc.json): table rows, check results, STF rulings, MPs, CLT's 60 undated struck lines and 72 open replay problems in 'What it does not show', sources (STF ADIs, LexML), Portuguese summary. Parts not touched. Stopped here as instructed.
+
+## Pushed (autopush)
+
+19:30Z: main 9e7b1fc (347 commits, 5 acts, 328 versions), futuro a37ebf6 (EC 141 + EC 132 2027/2033; same hash as my local test build), check 0 mismatches. Later README/jurisdiction edits trigger one more rebuild.
+
+18:14Z: main bb1169a (220 commits, 3 acts: CF/88 + the helper's codes from corpus.d), futuro c44c5bd, 411 tags; check 0 mismatches.
+
+## Open issues
+
+ISSUES.md: (1) autopush wip fails on a nested .git in a non-skipped scratch dir; (2) build.py does not name an unchanged-but-credited unit when the same law also changes words.
+
+Coordination: PUBLISH covers the merged corpus, so once the helper writes corpus.d/50-codes.json its acts go to main too; the helper must verify its acts before writing the part file (or the coordinator should gate it).
+
+## Lei 8.112/1990 (helper gitlaw-BR-8112, 2026-10-29)
+
+Done as its own part: corpus.d/95-rju.json + 95-rju.PUBLISH, scripts in rju/ (imports batch3 with BATCH3_RJU=1; 90-batch3.json untouched, still sha 7b69bebb…). 56 versions, check 0 mismatches, --compare identical. Details: rju/PROGRESS.md.
+
+## Coordinator (2026-10-29)
+repo/README.md table now lists the CTN, ECA, Código Eleitoral and Lei 8.112. jurisdiction.json not yet updated.
+
+## Batch 4: Lei 11.101/2005 and Lei 9.099/1995 (helper gitlaw-BR-4, 2026-10-29)
+
+Own part corpus.d/97-batch4.json + 97-batch4.PUBLISH, scripts in batch4/ (imports batch3 -> proc, like rju/). LRF 9
+versions, JEC 13; merged test build 821 commits, 14 acts, check 0 mismatches, 0 trailer errors, --compare identical;
+the 12 earlier acts byte-identical. README table rows added; jurisdiction.json not updated. Details: batch4/PROGRESS.md.

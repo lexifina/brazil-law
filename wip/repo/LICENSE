@@ -1,0 +1,17 @@
+The legal texts come from the Presidency of the Republic of Brazil (Casa Civil), Planalto legislation portal:
+
+  Texto oficial: Presidência da República, Casa Civil, https://www.planalto.gov.br/ccivil_03/,
+  read through Internet Archive copies of the Planalto pages (capture timestamps in tools/sources.json),
+  retrieved 28 October 2026. Este texto não substitui o publicado no Diário Oficial da União.
+
+Official acts, laws and judicial decisions are not protected by copyright in Brazil (Lei 9.610/1998, art. 8º, IV).
+
+Changes made by Lexifina: the annotated text was converted to one Markdown file per article, one paragraph per line;
+spacing, quotes, dashes and label typesetting were normalised; Planalto's amendment notes were removed from the text
+and used only to date and credit each change; and the versions were arranged as git commits credited to the
+amendments that made each change. The wording of the law was not changed. The Presidency does not endorse this
+repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

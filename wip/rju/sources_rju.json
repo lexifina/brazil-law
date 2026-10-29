@@ -1,0 +1,46 @@
+{
+ "fetch": [
+  {
+   "id": "ato:mp-689-2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Congresso/adc-001-mpv689.htm",
+   "ts": "20260616184643",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ato:mp-792-2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Congresso/adc-065-mpv792.htm",
+   "ts": "20260616185958",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ato:mp-805-2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Congresso/ato-19-mpv805.htm",
+   "ts": "20260712210517",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ato:mp-873-2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Congresso/adc-43-mpv873.htm",
+   "ts": "20261004193158",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-765-2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Mpv/mpv765.htm",
+   "ts": "20261015082912",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-13464-2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Lei/L13464.htm",
+   "ts": "20261012081916",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:rsf-46-1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/Congresso/RSF/ResSF46-1997.htm",
+   "ts": "20080414200129",
+   "via": "wayback.py"
+  }
+ ]
+}
