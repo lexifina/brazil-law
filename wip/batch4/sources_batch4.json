@@ -1,0 +1,16 @@
+{
+ "fetch": [
+  {
+   "id": "lrf",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+   "ts": "20261018232228",
+   "via": "wayback.py"
+  },
+  {
+   "id": "lrf-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101compilado.htm",
+   "ts": "20260607230534",
+   "via": "wayback.py"
+  }
+ ]
+}
