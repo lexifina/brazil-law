@@ -1,0 +1,121 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-RRAg - 295-24.2023.5.10.0003
+A C Ó R D Ã O
+5ª Turma
+GMBM/SML/ld
+AGRAVO. RECURSO DE REVISTA. ACÓRDÃO PUBLICADO NA
+VIGÊNCIA DA LEI Nº 13.467/2017. DEVOLUÇÃO DOS AUTOS
+PELA VICE-PRESIDÊNCIA DO TST, NOS TERMOS DO ARTIGO
+1.030, II, DO CPC, PARA EVENTUAL JUÍZO DE RETRATAÇÃO.
+ADMINISTRAÇÃO PÚBLICA. RESPONSABILIDADE SUBSIDIÁRIA.
+CULPA IN VIGILANDO. TEMAS Nº 246 E 1.118 DO STF. CULPA
+COMPROVADA. AUSÊNCIA DE TRANSCENDÊNCIA. Na hipótese,
+a decisão proferida por esta 5ª Turma, já contemplou a aplicação
+da tese fixada pelo Supremo Tribunal Federal no julgamento do
+Tema nº 1.118 da tabela de repercussão geral. Portanto, estando
+o acórdão em conformidade com o precedente, não há falar na
+retratação prevista no art. 1.030, II, do CPC, razão pela qual deve
+ser mantida a decisão originariamente proferida por esta Turma.
+Juízo de retratação não exercido, com determinação de
+restituição dos autos à Vice-Presidência desta Corte.
+Vistos, relatados e discutidos estes autos de Agravo em Recurso de Revista com
+Agravo nº TST-Ag-RRAg - 295-24.2023.5.10.0003, em que é Agravante DISTRITO FEDERAL e são
+Agravadas AFMA - ACAO SOCIAL COMUNITARIA e ANDREYA ALVES DA SILVA.
+A 5ª Turma do TST negou provimento ao agravo interposto pelo DISTRITO
+FEDERAL.
+Proferida a referida decisão, houve interposição de recurso extraordinário,
+quanto à matéria “responsabilidade subsidiária da Administração Pública como tomadora de serviços
+terceirizados”.
+A Vice-Presidência desta Corte Superior determinou o retorno dos autos a este
+Colegiado, nos termos do art. 1.030, II, do CPC, a fim de que se manifeste sobre a necessidade ou não de
+exercer eventual juízo de retratação.
+É o relatório.
+V O T O
+AGRAVO
+ADMINISTRAÇÃO PÚBLICA. RESPONSABILIDADE SUBSIDIÁRIA. CULPA IN
+VIGILANDO. TEMAS Nº 246 E 1.118 DO STF. CULPA COMPROVADA. AUSÊNCIA DE TRANSCENDÊNCIA.
+Tendo em vista que os autos foram devolvidos pela Vice-Presidência do TST para
+eventual juízo de retratação, ressalte-se, desde logo, que o âmbito de cognição desta egrégia Turma
+acha-se adstrito ao tema “responsabilidade subsidiária – Administração Pública”.
+Destaca-se que, no juízo de retratação previsto no art. 1.030, II, do CPC, a
+apreciação restringe-se à verificação da conformidade da decisão originalmente proferida com a tese
+vinculante firmada pelo Supremo Tribunal Federal, não se mostrando pertinente o exame de outras
+matérias que não guardem correspondência com a referida controvérsia.
+Pois bem. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100687270EEE65B497.
+Esta 5ª Turma negou provimento ao agravo do Ente Público, conforme se extrai
+da ementa do julgado, in verbis:
+AGRAVO. RECURSO DE REVISTA. ACÓRDÃO PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017.
+ADMINISTRAÇÃO PÚBLICA. RESPONSABILIDADE SUBSIDIÁRIA. CULPA IN VIGILANDO. TEMAS Nº
+246 E 1.118 DO STF. AUSÊNCIA DE RECOLHIMENTO DO FGTS DO TRABALHADOR DURANTE O
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE MÃO-DE-OBRA. CULPA COMPROVADA. AUSÊNCIA DE
+TRANSCENDÊNCIA. O Supremo Tribunal Federal, em sede de repercussão geral, ao julgar o mérito
+do RE 760931/DF, fixou a seguinte tese a respeito da impossibilidade de transferência automática da
+responsabilidade subsidiária ao integrante da Administração Pública: "O inadimplemento dos
+encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público
+contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos
+do art. 71, § 1º, da Lei nº 8.666/93". Reexaminando a questão, no exame do Tema nº 1.118 da Tabela de
+Repercussão Geral, a Suprema Corte fixou nova tese vinculante, com o seguinte teor: "1. Não há
+responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo
+inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente na
+premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte autora,
+da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por ela invocado
+e a conduta comissiva ou omissiva do poder público. 2. Haverá comportamento negligente quando a
+Administração Pública permanecer inerte após o recebimento de notificação formal de que a empresa
+contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador, sindicato,
+Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo. 3. Constitui
+responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos
+trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente
+convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4. Nos contratos de
+terceirização, a Administração Pública deverá : (i) exigir da contratada a comprovação de capital social
+integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii)
+adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada, na
+forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de
+quitação das obrigações trabalhistas do mês anterior". De fato, dispõe o referido art. 121, § 3º, da Lei
+nº 14.133/2021 que, "nas contratações de serviços contínuos com regime de dedicação exclusiva de
+mão de obra, para assegurar o cumprimento de obrigações trabalhistas pelo contratado, a
+Administração, mediante disposição em edital ou em contrato, poderá, entre outras medidas: (...) II -
+condicionar o pagamento à comprovação de quitação das obrigações trabalhistas vencidas relativas
+ao contrato". Por sua vez, dispõe o art. 50 da Lei de Licitações e Contratos Administrativos: "Nas
+contratações de serviços com regime de dedicação exclusiva de mão de obra, o contratado deverá
+apresentar, quando solicitado pela Administração, sob pena de multa, comprovação do
+cumprimento das obrigações trabalhistas e com o Fundo de Garantia do Tempo de Serviço (FGTS) em
+relação aos empregados diretamente envolvidos na execução do contrato, em especial quanto ao:
+(...) III - comprovante de depósito do FGTS;". Extrai-se da tese vinculante do Supremo Tribunal Federal
+que a conduta culposa do ente da Administração Pública resta configurada quando não adotadas as
+medidas expressamente previstas em lei com o objetivo de assegurar o cumprimento das obrigações
+trabalhistas, destacando-se, em especial, os depósitos do Fundo de Garantia do Tempo de Serviço
+FGTS verba desprovida de qualquer controvérsia sobre o seu cabimento, decorrendo tão
+simplesmente da prestação de serviços por um trabalhador com vínculo empregatício. Na hipótese,
+a culpa do ente da Administração Pública não decorreu da mera existência de verbas
+trabalhistas deferidas na ação trabalhista, tampouco se deu com base na premissa da inversão
+do ônus da prova, mas sim pelo registro expresso no acórdão regional de não recolhimento do
+FGTS no curso do contrato de prestação de serviços, o que demonstra a inobservância pelo ente
+público da obrigação prevista no art. 121, § 3º, da Lei nº 14.133/2021, atraindo a incidência do
+item 3.II. da tese vinculante fixada pelo Supremo Tribunal Federal no Tema nº 1.118 da Tabela de
+Repercussão Geral. Estando a decisão regional em consonância com a tese vinculante da Suprema
+Corte, impõe-se a incidência do óbice da Súmula nº 333 do TST. A existência de obstáculo processual
+apto a inviabilizar o exame da matéria de fundo veiculada, como no caso, acaba por evidenciar, em
+última análise, a própria ausência de transcendência do recurso de revista, em qualquer das suas
+modalidades. Precedentes. Agravo não provido.(Ag-RRAg-295-24.2023.5.10.0003, 5ª Turma, Relator
+Ministro Breno Medeiros, DEJT 02/06/2025).
+Conforme se extrai da ementa transcrita acima, a decisão proferida por esta 5ª
+Turma, já contemplou a aplicação da tese fixada pelo Supremo Tribunal Federal no julgamento do Tema
+nº 1.118 da tabela de repercussão geral.
+Portanto, estando o acórdão em conformidade com o precedente, não há falar na
+retratação prevista no art. 1.030, II, do CPC, razão pela qual deve ser mantida a decisão originariamente
+proferida por esta Turma.
+Devolvam-se os autos à Vice-Presidência desta Corte, a fim de que prossiga no
+exame de admissibilidade do recurso extraordinário, como de direito.
+ISTO POSTO
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100687270EEE65B497.
+ACORDAM os Ministros da Quinta Turma do Tribunal Superior do Trabalho, por
+unanimidade, não exercer o juízo de retratação, previsto no art. 1.030, II, do CPC, e determina o
+retorno dos autos à Vice-Presidência desta Corte para prosseguimento do feito, como de direito.
+Brasília, 27 de outubro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+BRENO MEDEIROS
+Ministro Relator
+Firmado por assinatura digital em 09/11/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100687270EEE65B497.
