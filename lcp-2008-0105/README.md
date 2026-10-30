@@ -1,0 +1,72 @@
+# Lei Complementar nº 105, de 2008 (Altera a lei complementar nº 59, de 18 de janeiro de 2001, que contém a organização e a divisão judiciárias do estado de minas gerais.)
+
+LC 105/2008 · 1 versions, from 2014-12-15 (latest in force: 2014-12-15) · <https://www.almg.gov.br/legislacao-mineira/LCP/105/2008/>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |
+| Art. 3º | [art-0003.md](art-0003.md) | 0 |  |
+| Art. 4º | [art-0004.md](art-0004.md) | 0 |  |
+| Art. 5º | [art-0005.md](art-0005.md) | 0 |  |
+| Art. 6º | [art-0006.md](art-0006.md) | 0 |  |
+| Art. 7º | [art-0007.md](art-0007.md) | 0 |  |
+| Art. 8º | [art-0008.md](art-0008.md) | 0 |  |
+| Art. 9º | [art-0009.md](art-0009.md) | 0 |  |
+| Art. 10 | [art-0010.md](art-0010.md) | 0 |  |
+| Art. 11 | [art-0011.md](art-0011.md) | 0 |  |
+| Art. 12 | [art-0012.md](art-0012.md) | 0 |  |
+| Art. 13 | [art-0013.md](art-0013.md) | 0 |  |
+| Art. 14 | [art-0014.md](art-0014.md) | 0 |  |
+| Art. 15 | [art-0015.md](art-0015.md) | 0 |  |
+| Art. 62-B | [art-0062-b.md](art-0062-b.md) | 0 |  |
+| Art. 62-C | [art-0062-c.md](art-0062-c.md) | 0 |  |
+| Art. 82 | [art-0082.md](art-0082.md) | 0 |  |
+| Art. 83 | [art-0083.md](art-0083.md) | 0 |  |
+| Art. 84 | [art-0084.md](art-0084.md) | 0 |  |
+| Art. 84-A | [art-0084-a.md](art-0084-a.md) | 0 |  |
+| Art. 84-B | [art-0084-b.md](art-0084-b.md) | 0 |  |
+| Art. 84-C | [art-0084-c.md](art-0084-c.md) | 0 |  |
+| Art. 84-D | [art-0084-d.md](art-0084-d.md) | 0 |  |
+| Art. 84-E | [art-0084-e.md](art-0084-e.md) | 0 |  |
+| Art. 84-F | [art-0084-f.md](art-0084-f.md) | 0 |  |
+| Art. 84-G | [art-0084-g.md](art-0084-g.md) | 0 |  |
+| Art. 85 | [art-0085.md](art-0085.md) | 0 |  |
+| Art. 85-A | [art-0085-a.md](art-0085-a.md) | 0 |  |
+| Art. 85-B | [art-0085-b.md](art-0085-b.md) | 0 |  |
+| Art. 108 | [art-0108.md](art-0108.md) | 0 |  |
+| Art. 145 | [art-0145.md](art-0145.md) | 0 |  |
+| Art. 146 | [art-0146.md](art-0146.md) | 0 |  |
+| Art. 147 | [art-0147.md](art-0147.md) | 0 |  |
+| Art. 148 | [art-0148.md](art-0148.md) | 0 |  |
+| Art. 149 | [art-0149.md](art-0149.md) | 0 |  |
+| Art. 150 | [art-0150.md](art-0150.md) | 0 |  |
+| Art. 151 | [art-0151.md](art-0151.md) | 0 |  |
+| Art. 151-A | [art-0151-a.md](art-0151-a.md) | 0 |  |
+| Art. 152 | [art-0152.md](art-0152.md) | 0 |  |
+| Art. 152-A | [art-0152-a.md](art-0152-a.md) | 0 |  |
+| Art. 153 | [art-0153.md](art-0153.md) | 0 |  |
+| Art. 154 | [art-0154.md](art-0154.md) | 0 |  |
+| Art. 154-A | [art-0154-a.md](art-0154-a.md) | 0 |  |
+| Art. 154-B | [art-0154-b.md](art-0154-b.md) | 0 |  |
+| Art. 154-C | [art-0154-c.md](art-0154-c.md) | 0 |  |
+| Art. 154-D | [art-0154-d.md](art-0154-d.md) | 0 |  |
+| Art. 154-E | [art-0154-e.md](art-0154-e.md) | 0 |  |
+| Art. 154-F | [art-0154-f.md](art-0154-f.md) | 0 |  |
+| Art. 154-G | [art-0154-g.md](art-0154-g.md) | 0 |  |
+| Art. 155 | [art-0155.md](art-0155.md) | 0 |  |
+| Art. 155-A | [art-0155-a.md](art-0155-a.md) | 0 |  |
+| Art. 155-B | [art-0155-b.md](art-0155-b.md) | 0 |  |
+| Art. 156 | [art-0156.md](art-0156.md) | 0 |  |
+| Art. 157 | [art-0157.md](art-0157.md) | 0 |  |
+| Art. 158 | [art-0158.md](art-0158.md) | 0 |  |
+| Art. 159 | [art-0159.md](art-0159.md) | 0 |  |
+| Art. 159-A | [art-0159-a.md](art-0159-a.md) | 0 |  |
+| Art. 160 | [art-0160.md](art-0160.md) | 0 |  |
+| Art. 161 | [art-0161.md](art-0161.md) | 0 |  |
+| Art. 162 | [art-0162.md](art-0162.md) | 0 |  |
+| Art. 243 | [art-0243.md](art-0243.md) | 0 |  |
+| Art. 251 | [art-0251.md](art-0251.md) | 0 |  |
+| Art. 261 | [art-0261.md](art-0261.md) | 0 |  |
+| Art. 297 | [art-0297.md](art-0297.md) | 0 |  |

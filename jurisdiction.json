@@ -1,0 +1,8 @@
+{
+  "path": "br-mg",
+  "code": "BR-MG",
+  "name": "Minas Gerais",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-minas-gerais-law",
+  "build": "built: Constituição do Estado de Minas Gerais, its ADCT and the Leis Complementares, from ALMG"
+}

@@ -1,0 +1,2455 @@
+{
+ "country": "BR-MG",
+ "acts": [
+  {
+   "slug": "constituicao",
+   "short": "CE-MG",
+   "title": "Constituição do Estado de Minas Gerais",
+   "url": "https://www.almg.gov.br/legislacao-mineira/CON/1989/1989/",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 312,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/CON/1989/1989?formato=json",
+     "sha256": "87b670993911dd8bdac90992420081037b931e8228fc86c1dd6dc8aab7d37abd"
+    }
+   ]
+  },
+  {
+   "slug": "adt-1989",
+   "short": "ADCT-MG",
+   "title": "Ato das Disposições Constitucionais Transitórias da Constituição do Estado de Minas Gerais",
+   "url": "https://www.almg.gov.br/legislacao-mineira/ADT/1989/1989/",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 164,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/ADT/1989/1989?formato=json",
+     "sha256": "75dab3d3cc776f66253fadd88986702f4779195c67cab71fb7c536893ee6d027"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1968-0001",
+   "short": "LC 1/1968",
+   "title": "Lei Complementar nº 1, de 1968 (Fixa norma para o processo de cassação de mandato de prefeito.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/1/1968/",
+   "versions": [
+    {
+     "from": "1968-11-28",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/1/1968?formato=json",
+     "sha256": "c905870b4ca573daed3bc5c1f2e52aa6feb7e04aeeab7901bc14fdae0f12a91e"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1972-0002",
+   "short": "LC 2/1972",
+   "title": "Lei Complementar nº 2, de 1972 (Considera como estância hidromineral o município de carangola.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/2/1972/",
+   "versions": [
+    {
+     "from": "1972-07-26",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/2/1972?formato=json",
+     "sha256": "617edc975c28c6c6e8c0df028d7eccb80ecd9ef3b2214366b8ee876a3736c626"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1972-0003",
+   "short": "LC 3/1972",
+   "title": "Lei Complementar nº 3, de 1972 (Contém a organização municipal do estado de minas gerais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/3/1972/",
+   "versions": [
+    {
+     "from": "1988-07-11",
+     "units": 225,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/3/1972?formato=json",
+     "sha256": "cde694830ccb479594e518e543baae9777d149bad1e4cb6acd69ac31f5556861"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1973-0004",
+   "short": "LC 4/1973",
+   "title": "Lei Complementar nº 4, de 1973 (Dispõe sobre orçamento plurianual de investimentos.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/4/1973/",
+   "versions": [
+    {
+     "from": "1973-12-05",
+     "units": 11,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/4/1973?formato=json",
+     "sha256": "a1edfbca41f85731f36324101e6f8a916d6b889dc172f757ef8d897e3de3ac0c"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1973-0005",
+   "short": "LC 5/1973",
+   "title": "Lei Complementar nº 5, de 1973 (Regula o artigo 57 da constituição do estado.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/5/1973/",
+   "versions": [
+    {
+     "from": "1973-12-12",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/5/1973?formato=json",
+     "sha256": "d6a269012f9f4583be9bd8c22f8ab2ac607f7db32a88adc063dc7842313c35b6"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1975-0006",
+   "short": "LC 6/1975",
+   "title": "Lei Complementar nº 6, de 1975 (Modifica a redação da alínea \"a\", do inciso i, do artigo 99 da lei complementar nº 3, de 28 de dezembro de 1972.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/6/1975/",
+   "versions": [
+    {
+     "from": "1975-09-09",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/6/1975?formato=json",
+     "sha256": "e8a0397e2d0c580d0a805982f10574cafbf0b0e8d03c30d3d6ce1102151de783"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1975-0007",
+   "short": "LC 7/1975",
+   "title": "Lei Complementar nº 7, de 1975 (Altera disposições da lei complementar nº 3, de 28 de dezembro de 1972, que contém a organização municipal do estado de minas gerais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/7/1975/",
+   "versions": [
+    {
+     "from": "1975-12-20",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/7/1975?formato=json",
+     "sha256": "e1b06a3971bd781dd745e0a8b37f2915d30bfd63c7a811d6f0f9a42a9ffce845"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1976-0008",
+   "short": "LC 8/1976",
+   "title": "Lei Complementar nº 8, de 1976 (Dá nova redação ao artigo 38 da lei complementar n. 03, de 28 de dezembro de 1972.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/8/1976/",
+   "versions": [
+    {
+     "from": "1976-07-23",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/8/1976?formato=json",
+     "sha256": "24796f220f9a92321e872280818aeea66b25510e356585a0b2d5bde837545bf9"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1976-0009",
+   "short": "LC 9/1976",
+   "title": "Lei Complementar nº 9, de 1976",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/9/1976/",
+   "versions": [
+    {
+     "from": "1976-10-26",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/9/1976?formato=json",
+     "sha256": "a119c8ffa45ad110bf321e862ec90f7194279300b0bf0e49621251e943fcb4e5"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1976-0010",
+   "short": "LC 10/1976",
+   "title": "Lei Complementar nº 10, de 1976 (Acrescenta parágrafo ao artigo 219 da lei complementar nº 3, de 28 de dezembro de 1972.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/10/1976/",
+   "versions": [
+    {
+     "from": "1976-12-22",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/10/1976?formato=json",
+     "sha256": "4e6d725c4b66bab7b3a00228b058a7e85676a2c94645833e1b7ab04c96f91426"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1978-0011",
+   "short": "LC 11/1978",
+   "title": "Lei Complementar nº 11, de 1978 (Dá nova redação ao inciso xxi, do artigo 77, da lei complementar nº 3, de 28 de dezembro de 1972.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/11/1978/",
+   "versions": [
+    {
+     "from": "1978-08-01",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/11/1978?formato=json",
+     "sha256": "204dcf22f716f4906866efed5842e62c061dfe041e01608a80838ddb7c33dcdd"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1978-0012",
+   "short": "LC 12/1978",
+   "title": "Lei Complementar nº 12, de 1978 (Altera o artigo 54 da lei complementar nº 3, de 28 de dezembro de 1972, modificando o seu inciso viii e acrescentando-lhe parágrafo único.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/12/1978/",
+   "versions": [
+    {
+     "from": "1978-12-22",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/12/1978?formato=json",
+     "sha256": "3db9743a372c1c51b75f5dfcebcc4f499504fbbe6d74250799ba98f59a163d1a"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1979-0013",
+   "short": "LC 13/1979",
+   "title": "Lei Complementar nº 13, de 1979 (Acrescenta parágrafo ao artigo 74 da lei complementar nº 03, de 28 de dezembro de 1972.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/13/1979/",
+   "versions": [
+    {
+     "from": "1979-06-14",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/13/1979?formato=json",
+     "sha256": "d9e7c3fe5c1f891448fa249a5d80ca48e7f45d445a8b08c95946b21b2a2a7171"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1979-0014",
+   "short": "LC 14/1979",
+   "title": "Lei Complementar nº 14, de 1979 (Altera os artigos 54 e 76 da lei complementar nº 3, de 28 de dezembro de 1972, e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/14/1979/",
+   "versions": [
+    {
+     "from": "1979-12-22",
+     "units": 6,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/14/1979?formato=json",
+     "sha256": "7f7a6192c2f76da8f8a1c999c5d63dbf9e18c227782b7960613bad819bff3a8f"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1982-0015",
+   "short": "LC 15/1982",
+   "title": "Lei Complementar nº 15, de 1982",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/15/1982/",
+   "versions": [
+    {
+     "from": "1982-11-19",
+     "units": 5,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/15/1982?formato=json",
+     "sha256": "ec765e98b70a3c7da8cf8383c137a25a31214a160ec2b0b0a2941f785295b2d4"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1986-0016",
+   "short": "LC 16/1986",
+   "title": "Lei Complementar nº 16, de 1986",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/16/1986/",
+   "versions": [
+    {
+     "from": "1988-07-12",
+     "units": 5,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/16/1986?formato=json",
+     "sha256": "b32cfcf800bbe780d1f7ea0cec4ace6725d9bdbe420ad74c581b5cecc7119484"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1988-0017",
+   "short": "LC 17/1988",
+   "title": "Lei Complementar nº 17, de 1988",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/17/1988/",
+   "versions": [
+    {
+     "from": "1988-07-12",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/17/1988?formato=json",
+     "sha256": "c46239bca9d37c03de3a94a8fed3cf53a6b11c438fd9f8694877d85082f3ef85"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1991-0021",
+   "short": "LC 21/1991",
+   "title": "Lei Complementar nº 21, de 1991 (Regulamenta os §§ 1º e 4º do art. 123 da constituição do estado e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/21/1991/",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 5,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/21/1991?formato=json",
+     "sha256": "ed2e8c354767a7187061b3b58e6f68e01dd163f53076aedfa3e1f06efe37c8a0"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1991-0023",
+   "short": "LC 23/1991",
+   "title": "Lei Complementar nº 23, de 1991 (Dispõe sobre a criação de quadro suplementar no âmbito da polícia civil do estado e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/23/1991/",
+   "versions": [
+    {
+     "from": "2013-11-09",
+     "units": 8,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/23/1991?formato=json",
+     "sha256": "17acaf6746bbc91ada12a347a1b3810cae1262b776c4cac5aaedce5a49bb850f"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1993-0028",
+   "short": "LC 28/1993",
+   "title": "Lei Complementar nº 28, de 1993 (Dispõe sobre a transferência de militar para a reserva não remunerada e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/28/1993/",
+   "versions": [
+    {
+     "from": "1993-07-17",
+     "units": 9,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/28/1993?formato=json",
+     "sha256": "e26b8ffe96e750927067edcec5d4013d0f3c6d1102353d80f1a263bdbfb86dfb"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1993-0029",
+   "short": "LC 29/1993",
+   "title": "Lei Complementar nº 29, de 1993 (Faz a adequação de dispositivos da lei complementar nº 27, de 18 de janeiro de 1993, para efeito de fundos de administração da assembléia legislativa.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/29/1993/",
+   "versions": [
+    {
+     "from": "1993-07-27",
+     "units": 8,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/29/1993?formato=json",
+     "sha256": "0cf21c73bfee5af47050a5980ab47fd7e5d513f4c546e4eed536fab8d3e64aeb"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1993-0030",
+   "short": "LC 30/1993",
+   "title": "Lei Complementar nº 30, de 1993 (Organiza a procuradoria-geral do estado e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/30/1993/",
+   "versions": [
+    {
+     "from": "2021-06-01",
+     "units": 89,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/30/1993?formato=json",
+     "sha256": "5ade06f1d73e1265749b1bb6be8b843d716ce5862e54730cb7dba522beeb87bd"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1994-0031",
+   "short": "LC 31/1994",
+   "title": "Lei Complementar nº 31, de 1994 (Acrescenta parágrafos ao artigo 136 da lei nº 5.301, de 16 de outubro de 1969, que contém o estatuto do pessoal da polícia militar do estado de minas gerais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/31/1994/",
+   "versions": [
+    {
+     "from": "1994-01-15",
+     "units": 5,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/31/1994?formato=json",
+     "sha256": "d82f43afd4364393f2fdbfbb3496707bc2dd17e4b78c27ba204219b63976dd98"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1994-0032",
+   "short": "LC 32/1994",
+   "title": "Lei Complementar nº 32, de 1994 (Altera a composição numérica do tribunal de justiça do estado de minas gerais e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/32/1994/",
+   "versions": [
+    {
+     "from": "1994-05-21",
+     "units": 8,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/32/1994?formato=json",
+     "sha256": "39b6096422896efd44e949d7f9342019c531f54d38e2d3498293eed4682140b2"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1994-0034",
+   "short": "LC 34/1994",
+   "title": "Lei Complementar nº 34, de 1994 (Dispõe sobre a organização do ministério público do estado e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/34/1994/",
+   "versions": [
+    {
+     "from": "2025-05-31",
+     "units": 294,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/34/1994?formato=json",
+     "sha256": "bd5d81c48388c48ec7e4e80dcbeb958a82f0d7f3ffe9ad991095339901690360"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1994-0035",
+   "short": "LC 35/1994",
+   "title": "Lei Complementar nº 35, de 1994 (Organiza a procuradoria-geral da fazenda estadual, dispõe sobre a carreira de procurador da fazenda estadual e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/35/1994/",
+   "versions": [
+    {
+     "from": "2013-06-26",
+     "units": 81,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/35/1994?formato=json",
+     "sha256": "942fe61f645df0c58953413d3ceaccfe2dafa59bc96552b77a66bc8a3716c719"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1995-0037",
+   "short": "LC 37/1995",
+   "title": "Lei Complementar nº 37, de 1995 (Dispõe sobre a criação, a incorporação, a fusão e o desmembramento de municípios e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/37/1995/",
+   "versions": [
+    {
+     "from": "2007-04-11",
+     "units": 39,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/37/1995?formato=json",
+     "sha256": "51327e9b0ae4199ede4f961a19200fc6ed7a3fa054d2f3f7c19ba8a70463c9c6"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1995-0038",
+   "short": "LC 38/1995",
+   "title": "Lei Complementar nº 38, de 1995 (Contém a organização e a divisão judiciárias do estado de minas gerais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/38/1995/",
+   "versions": [
+    {
+     "from": "2001-01-19",
+     "units": 332,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/38/1995?formato=json",
+     "sha256": "7e5acc665349997d5651795d065c038c637c150af6955b94017a78f980b93259"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1995-0039",
+   "short": "LC 39/1995",
+   "title": "Lei Complementar nº 39, de 1995",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/39/1995/",
+   "versions": [
+    {
+     "from": "1995-06-24",
+     "units": 11,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/39/1995?formato=json",
+     "sha256": "65b27814192acf0869d7ac8adb3d76d036aa7dab14f7a74463fdad57749b8d95"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1995-0040",
+   "short": "LC 40/1995",
+   "title": "Lei Complementar nº 40, de 1995 (Dispõe sobre o sistema de juizados especiais cíveis e criminais e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/40/1995/",
+   "versions": [
+    {
+     "from": "1995-11-25",
+     "units": 15,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/40/1995?formato=json",
+     "sha256": "4b5d0e78f7da7d640dcca81ea43ed4e8013aba50cfda1ba062ff9b042dad3434"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1996-0042",
+   "short": "LC 42/1996",
+   "title": "Lei Complementar nº 42, de 1996",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/42/1996/",
+   "versions": [
+    {
+     "from": "1996-01-12",
+     "units": 10,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/42/1996?formato=json",
+     "sha256": "6945ff53139aa50457ac163cb586aee2367d2ff394968ac0d50b1f9254d4ba4c"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1996-0043",
+   "short": "LC 43/1996",
+   "title": "Lei Complementar nº 43, de 1996 (Dá nova redação à seção v da lei complementar nº 26, de 14 de janeiro de 1993.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/43/1996/",
+   "versions": [
+    {
+     "from": "1996-06-01",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/43/1996?formato=json",
+     "sha256": "6ae68f63561c103687a0eb1c4de62bb60b6c6efb675572bc37f9b85a029ce907"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1996-0044",
+   "short": "LC 44/1996",
+   "title": "Lei Complementar nº 44, de 1996 (Altera dispositivos da lei nº 869, de 5 de julho de 1952, que dispõe sobre o estatuto dos funcionários públicos civis do estado de minas gerais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/44/1996/",
+   "versions": [
+    {
+     "from": "1996-07-06",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/44/1996?formato=json",
+     "sha256": "ea60a19c399cb7916b765a93f882bcad8ee687c9e809fc4dfda53cac6ab7be85"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1996-0045",
+   "short": "LC 45/1996",
+   "title": "Lei Complementar nº 45, de 1996",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/45/1996/",
+   "versions": [
+    {
+     "from": "1996-11-27",
+     "units": 6,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/45/1996?formato=json",
+     "sha256": "79cc607090ddf1ef9f118b36014c9f7d76196e9c283e256a7f2da2b85916ec98"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1996-0046",
+   "short": "LC 46/1996",
+   "title": "Lei Complementar nº 46, de 1996 (Cria cargos de juiz de direito substituto e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/46/1996/",
+   "versions": [
+    {
+     "from": "1996-12-24",
+     "units": 7,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/46/1996?formato=json",
+     "sha256": "0166958f25f400361c8e9ca7e545f078d47f845c29466fdecd4205ef84a9bd61"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1996-0047",
+   "short": "LC 47/1996",
+   "title": "Lei Complementar nº 47, de 1996 (Revoga o artigo 21 da lei complementar nº 37, de 18 de janeiro de 1995, que dispõe sobre a criação, a incorporação, a fusão e o desmembramento de municípios.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/47/1996/",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/47/1996?formato=json",
+     "sha256": "400dc8b6db5c5cf285c13a3750a78de36734cb0043b2f847d0dbed33cbffbf8e"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1997-0048",
+   "short": "LC 48/1997",
+   "title": "Lei Complementar nº 48, de 1997",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/48/1997/",
+   "versions": [
+    {
+     "from": "1997-11-13",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/48/1997?formato=json",
+     "sha256": "b74174d87015e86d08a5ec35f739e1d1b0e4b6820dbfb95749daf38615b713e3"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1998-0050",
+   "short": "LC 50/1998",
+   "title": "Lei Complementar nº 50, de 1998 (Altera a lei nº 5.301, de 16 de outubro de 1969, que contém o estatuto do pessoal da polícia militar do estado de minas gerais - pmmg.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/50/1998/",
+   "versions": [
+    {
+     "from": "1998-01-14",
+     "units": 5,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/50/1998?formato=json",
+     "sha256": "fe44acf54b27d32d88c0f9c95d850f098220d5aacb0711fac45de153d0c76774"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1999-0052",
+   "short": "LC 52/1999",
+   "title": "Lei Complementar nº 52, de 1999",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/52/1999/",
+   "versions": [
+    {
+     "from": "1999-11-26",
+     "units": 14,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/52/1999?formato=json",
+     "sha256": "f72917af1afe8e4adb79cfe9bc5721c2f52a2b3080ddbc576ca569312a88b79f"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1999-0053",
+   "short": "LC 53/1999",
+   "title": "Lei Complementar nº 53, de 1999",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/53/1999/",
+   "versions": [
+    {
+     "from": "2002-01-10",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/53/1999?formato=json",
+     "sha256": "55e1e5da48740dec21a91bbd3b367a81bff2494586c1e0007853c0fcfacf912e"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-1999-0054",
+   "short": "LC 54/1999",
+   "title": "Lei Complementar nº 54, de 1999 (Dispõe sobre a organização básica do corpo de bombeiros militar de minas gerais - cbmmg - e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/54/1999/",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 38,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/54/1999?formato=json",
+     "sha256": "6d1d11a1e287c7526d183b2ece62951d4daf43aa82eb8ab03a3ecf0146143104"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2000-0055",
+   "short": "LC 55/2000",
+   "title": "Lei Complementar nº 55, de 2000 (Dispõe sobre reforma de militar por incapacidade física.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/55/2000/",
+   "versions": [
+    {
+     "from": "2000-01-11",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/55/2000?formato=json",
+     "sha256": "682eefea360f652df611d2d5b7db595dc1002fde061b2684f767dc1fb53ab351"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2000-0056",
+   "short": "LC 56/2000",
+   "title": "Lei Complementar nº 56, de 2000",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/56/2000/",
+   "versions": [
+    {
+     "from": "2000-01-13",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/56/2000?formato=json",
+     "sha256": "5d4c4bc1fe8ac8478330c8a78d3762f3438ad00c9227b8411609c837c606edf7"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2000-0057",
+   "short": "LC 57/2000",
+   "title": "Lei Complementar nº 57, de 2000 (Modifica o art. 13 da lei complementar nº 33, de 28 de junho de 1994, que dispõe sobre a organização do tribunal de contas e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/57/2000/",
+   "versions": [
+    {
+     "from": "2000-11-30",
+     "units": 5,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/57/2000?formato=json",
+     "sha256": "b7556d459a04145a939c8fe2b5baab03a8f4da74e93c042e5a186ee294334e7f"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2000-0058",
+   "short": "LC 58/2000",
+   "title": "Lei Complementar nº 58, de 2000 (Dispõe sobre a manifestação, por militar inativo, de pensamento e opinião.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/58/2000/",
+   "versions": [
+    {
+     "from": "2000-11-30",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/58/2000?formato=json",
+     "sha256": "250510c66c6938c570f997d51995df19df4963e8f7626634685224ed73f95e4f"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2001-0059",
+   "short": "LC 59/2001",
+   "title": "Lei Complementar nº 59, de 2001 (Contém a organização e a divisão judiciárias do estado de minas gerais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/59/2001/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 429,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/59/2001?formato=json",
+     "sha256": "d7866a8f1ff656f15dfbc3cf999cd0ab4b9c0e9ad5e1d2481c1859bfbfba7eac"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2001-0060",
+   "short": "LC 60/2001",
+   "title": "Lei Complementar nº 60, de 2001",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/60/2001/",
+   "versions": [
+    {
+     "from": "2001-05-18",
+     "units": 6,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/60/2001?formato=json",
+     "sha256": "8b0e1defd712f3e63228b725cf8b8516f3c6439f26604121710f8df52710ad4b"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2001-0061",
+   "short": "LC 61/2001",
+   "title": "Lei Complementar nº 61, de 2001",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/61/2001/",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 25,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/61/2001?formato=json",
+     "sha256": "ebe0446b1f28504cff7137a3aac25e3db8e9d728a75a99b72f252391a9b6208a"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2001-0062",
+   "short": "LC 62/2001",
+   "title": "Lei Complementar nº 62, de 2001 (Estabelece ressalva à exigência para ingresso na polícia militar do estado de minas gerais - pmmg.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/62/2001/",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/62/2001?formato=json",
+     "sha256": "aa450a3018a81432013d86e304cd8660acb694643173cd57d144dbbdf408ed6b"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2002-0063",
+   "short": "LC 63/2002",
+   "title": "Lei Complementar nº 63, de 2002",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/63/2002/",
+   "versions": [
+    {
+     "from": "2002-01-11",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/63/2002?formato=json",
+     "sha256": "83352281c8f88da9a1e2a2716fc0539f20e6e578c4ee908fc09dd76330777a5e"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2002-0064",
+   "short": "LC 64/2002",
+   "title": "Lei Complementar nº 64, de 2002 (Institui o regime próprio de previdência e assistência social dos servidores públicos civis do estado e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/64/2002/",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 104,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/64/2002?formato=json",
+     "sha256": "957f8b7af7a595a647f3c9e3e14fbe7172172531f900fa44b20870fd01d4719e"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2003-0065",
+   "short": "LC 65/2003",
+   "title": "Lei Complementar nº 65, de 2003 (Organiza a defensoria pública do estado, define sua competência e dispõe sobre a carreira de defensor público e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/65/2003/",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 181,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/65/2003?formato=json",
+     "sha256": "adb12bb29f0d24916a376fbc71b979a6a018ada3cbaf42f55e7cf5a83447cd65"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2003-0066",
+   "short": "LC 66/2003",
+   "title": "Lei Complementar nº 66, de 2003",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/66/2003/",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 19,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/66/2003?formato=json",
+     "sha256": "5c38bd1a0fb46f3e97d785056be3148909e133da2f00d0bc550908b65625c975"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2003-0067",
+   "short": "LC 67/2003",
+   "title": "Lei Complementar nº 67, de 2003 (Cria o fundo especial do ministério público do estado de minas gerais – funemp.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/67/2003/",
+   "versions": [
+    {
+     "from": "2017-07-21",
+     "units": 13,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/67/2003?formato=json",
+     "sha256": "5549b8e4d9a4d99c6f13fecbad558e8c120987187682b5e9e078e38fff324759"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2003-0068",
+   "short": "LC 68/2003",
+   "title": "Lei Complementar nº 68, de 2003 (Altera a lei complementar nº 30, de 10 de agosto de 1993, que organiza a procuradoria-geral do estado.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/68/2003/",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 7,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/68/2003?formato=json",
+     "sha256": "39fde4874b6dc084c2a987af2927be300236a5450a2e962e041c39823cc10120"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2003-0069",
+   "short": "LC 69/2003",
+   "title": "Lei Complementar nº 69, de 2003",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/69/2003/",
+   "versions": [
+    {
+     "from": "2003-07-31",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/69/2003?formato=json",
+     "sha256": "b74b78dab11919827d6fa247f9e6ed81ab99f5ffa3ffdbacf7fc479ddc0e9057"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2003-0070",
+   "short": "LC 70/2003",
+   "title": "Lei Complementar nº 70, de 2003",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/70/2003/",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 14,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/70/2003?formato=json",
+     "sha256": "36e4b31553fee099da91a0be2df36d372b77fd3a3edd2f8e43c8a92efffa79de"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2003-0071",
+   "short": "LC 71/2003",
+   "title": "Lei Complementar nº 71, de 2003",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/71/2003/",
+   "versions": [
+    {
+     "from": "2017-09-19",
+     "units": 14,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/71/2003?formato=json",
+     "sha256": "68903e5cd74ad03ed959b312f139a3afff2f1cdd900e00dc15f7138cf4517785"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2003-0072",
+   "short": "LC 72/2003",
+   "title": "Lei Complementar nº 72, de 2003",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/72/2003/",
+   "versions": [
+    {
+     "from": "2003-07-31",
+     "units": 12,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/72/2003?formato=json",
+     "sha256": "1d57d1d9c1b46935b1105b883e38ec8fdbd25aa71a1db241a190e5e324010212"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2003-0073",
+   "short": "LC 73/2003",
+   "title": "Lei Complementar nº 73, de 2003 (Disciplina o regime de emprego público na administração direta, autárquica e fundacional do poder executivo do estado e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/73/2003/",
+   "versions": [
+    {
+     "from": "2003-07-31",
+     "units": 11,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/73/2003?formato=json",
+     "sha256": "af36a343b9c9b6d86f3bd535492eeb0d722781185f7bf43c556c74a03ff2389c"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2004-0074",
+   "short": "LC 74/2004",
+   "title": "Lei Complementar nº 74, de 2004",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/74/2004/",
+   "versions": [
+    {
+     "from": "2004-01-09",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/74/2004?formato=json",
+     "sha256": "20bb676a046f6362178f5d81f6bb2acea93d76af953de53d6d94c48d17890abe"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2004-0075",
+   "short": "LC 75/2004",
+   "title": "Lei Complementar nº 75, de 2004 (Dispõe sobre as assessorias jurídicas dos órgãos da administração direta do poder executivo, transforma e cria cargos e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/75/2004/",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 28,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/75/2004?formato=json",
+     "sha256": "e24418f57e23d50d888b463be1fc2452e8b9ef2cd2224428fa80eb68a6f7fd51"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2004-0076",
+   "short": "LC 76/2004",
+   "title": "Lei Complementar nº 76, de 2004 (Dispõe sobre a cessão de integrantes da polícia militar e do corpo de bombeiros militar para entidades associativas de militares.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/76/2004/",
+   "versions": [
+    {
+     "from": "2009-12-23",
+     "units": 7,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/76/2004?formato=json",
+     "sha256": "47e32c4c4303e6e918c31947e8bbe8a510b0f7e0c0fe0425f78b6d13bea17254"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2004-0078",
+   "short": "LC 78/2004",
+   "title": "Lei Complementar nº 78, de 2004 (Dispõe sobre a elaboração, a alteração e a consolidação das leis do estado, conforme o previsto no parágrafo único do art. 63 da constituição do estado.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/78/2004/",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 24,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/78/2004?formato=json",
+     "sha256": "dfb209589da4b260a3aa71aadbc788d365186e3c77f0a27724be6c18fe245805"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2004-0079",
+   "short": "LC 79/2004",
+   "title": "Lei Complementar nº 79, de 2004",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/79/2004/",
+   "versions": [
+    {
+     "from": "2004-07-31",
+     "units": 6,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/79/2004?formato=json",
+     "sha256": "34253c0759c2557baed5f61eaf5d11681bb72f22064676017d87e8adbf5c8840"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2004-0080",
+   "short": "LC 80/2004",
+   "title": "Lei Complementar nº 80, de 2004",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/80/2004/",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 5,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/80/2004?formato=json",
+     "sha256": "bb025b6da6659e8193930b1c66b825b69f909b6d82f04b45882e32c57b9f5e54"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2004-0081",
+   "short": "LC 81/2004",
+   "title": "Lei Complementar nº 81, de 2004 (Institui as carreiras do grupo de atividades jurídicas do poder executivo.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/81/2004/",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 53,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/81/2004?formato=json",
+     "sha256": "7e2cd8cd4aeac2200022c2087fd1eb2b635710e3ab26a7af570e39a778e7e660"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2004-0082",
+   "short": "LC 82/2004",
+   "title": "Lei Complementar nº 82, de 2004",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/82/2004/",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/82/2004?formato=json",
+     "sha256": "4905bbbf35a3acf12b96ddbb61844a63a2c486b668cdc5b815e9bc142856234a"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2005-0083",
+   "short": "LC 83/2005",
+   "title": "Lei Complementar nº 83, de 2005 (Dispõe sobre a estrutura orgânica da advocacia-geral do estado – age e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/83/2005/",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 34,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/83/2005?formato=json",
+     "sha256": "46b9d7ccad56df33547f4420190d01f71bc5a2caa94608fe3f4c3d3b444cd905"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2005-0084",
+   "short": "LC 84/2005",
+   "title": "Lei Complementar nº 84, de 2005",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/84/2005/",
+   "versions": [
+    {
+     "from": "2017-11-10",
+     "units": 52,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/84/2005?formato=json",
+     "sha256": "ea818a2697dc2b65ee265c5522eceb1d9fa73e5a2c6fcd0ff549ced787ff1051"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2005-0085",
+   "short": "LC 85/2005",
+   "title": "Lei Complementar nº 85, de 2005",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/85/2005/",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 36,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/85/2005?formato=json",
+     "sha256": "cf1cfac96b559f594b118b93f4485fec123f930b9c4340e51279656519cb4a3b"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2006-0086",
+   "short": "LC 86/2006",
+   "title": "Lei Complementar nº 86, de 2006",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/86/2006/",
+   "versions": [
+    {
+     "from": "2012-02-01",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/86/2006?formato=json",
+     "sha256": "6ecf4d8893082059947f759a506aad35a8a4e2dee74b4a5742ea74ae861e1daa"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2006-0087",
+   "short": "LC 87/2006",
+   "title": "Lei Complementar nº 87, de 2006",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/87/2006/",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 10,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/87/2006?formato=json",
+     "sha256": "949d0c1f5e0090bf217ca7cd3af9232c264b5ecedaa2f23632fb67dd50f2b875"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2006-0088",
+   "short": "LC 88/2006",
+   "title": "Lei Complementar nº 88, de 2006 (Dispõe sobre a instituição e a gestão de região metropolitana e sobre o fundo de desenvolvimento metropolitano.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/88/2006/",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 30,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/88/2006?formato=json",
+     "sha256": "05ce29d2f2493e2a3263ed178a03ee44ccb71dcb8ad7ae8b074791c08295a9a4"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2006-0089",
+   "short": "LC 89/2006",
+   "title": "Lei Complementar nº 89, de 2006 (Dispõe sobre a região metropolitana de belo horizonte.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/89/2006/",
+   "versions": [
+    {
+     "from": "2012-10-18",
+     "units": 12,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/89/2006?formato=json",
+     "sha256": "ce76e395a20b1df2cf5b0a727346dd488c828681fabd8764b67029d197c2b546"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2006-0090",
+   "short": "LC 90/2006",
+   "title": "Lei Complementar nº 90, de 2006 (Dispõe sobre a região metropolitana do vale do aço.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/90/2006/",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 11,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/90/2006?formato=json",
+     "sha256": "c5b6eee8d6fca330305e5e6b08eeaee4b63e7fb6bc597236ce5083b879d0aa6b"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2006-0091",
+   "short": "LC 91/2006",
+   "title": "Lei Complementar nº 91, de 2006 (Dispõe sobre a instituição, gestão e extinção de fundos estaduais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/91/2006/",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 26,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/91/2006?formato=json",
+     "sha256": "90355a66491ba0309ceb2a93f273c4309eee62ff1ea79ce545a84ac1ccd27c8d"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2006-0092",
+   "short": "LC 92/2006",
+   "title": "Lei Complementar nº 92, de 2006",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/92/2006/",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 27,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/92/2006?formato=json",
+     "sha256": "4be36ec17b64747fb76514d0bebdbaefc675a3180abbfb687ecf99b026b32152"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2006-0093",
+   "short": "LC 93/2006",
+   "title": "Lei Complementar nº 93, de 2006 (Altera a lei complementar nº 33, de 28 de junho de 1994, que dispõe sobre a organização do tribunal de contas e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/93/2006/",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 9,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/93/2006?formato=json",
+     "sha256": "0c4dc14848539ec23980ab93c6d521122f648f9c3256d91fc331739ff825ca86"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2007-0094",
+   "short": "LC 94/2007",
+   "title": "Lei Complementar nº 94, de 2007 (Dispõe sobre a criação da ouvidoria do ministério público do estado de minas gerais, regulamenta a indicação e a escolha do ouvidor e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/94/2007/",
+   "versions": [
+    {
+     "from": "2007-01-11",
+     "units": 11,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/94/2007?formato=json",
+     "sha256": "ae038e97cd184731ba1c66a92de60b3c059822bce019edd5db3a97e652aa222e"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2007-0095",
+   "short": "LC 95/2007",
+   "title": "Lei Complementar nº 95, de 2007 (Altera a lei nº 5.301, de 16 de outubro de 1969, que contém o estatuto do pessoal da polícia militar do estado de minas gerais, e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/95/2007/",
+   "versions": [
+    {
+     "from": "2009-12-23",
+     "units": 16,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/95/2007?formato=json",
+     "sha256": "a12871eb279d139146da58ab4d40431a56f7c3f09ae9393fa34f0c92e021ce10"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2007-0096",
+   "short": "LC 96/2007",
+   "title": "Lei Complementar nº 96, de 2007",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/96/2007/",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/96/2007?formato=json",
+     "sha256": "23861aed193f6f4aacd2c89d26a93288e4c9aefe84a8cf408c113ca021da4401"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2007-0097",
+   "short": "LC 97/2007",
+   "title": "Lei Complementar nº 97, de 2007",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/97/2007/",
+   "versions": [
+    {
+     "from": "2007-07-03",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/97/2007?formato=json",
+     "sha256": "3003629c96a57e7883844375cb14a63fbdf2ad4acbbe93d6ce839e6f4e119828"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2007-0100",
+   "short": "LC 100/2007",
+   "title": "Lei Complementar nº 100, de 2007",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/100/2007/",
+   "versions": [
+    {
+     "from": "2015-09-08",
+     "units": 8,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/100/2007?formato=json",
+     "sha256": "cbc709441f5409265af4344f7f49686af496222b5b54e3bbf8ca240e574be5d1"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2007-0101",
+   "short": "LC 101/2007",
+   "title": "Lei Complementar nº 101, de 2007",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/101/2007/",
+   "versions": [
+    {
+     "from": "2007-11-24",
+     "units": 7,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/101/2007?formato=json",
+     "sha256": "e89cf2de2ddf615859832497420af499499f3f47b03ef7af185c015a76c5d0e1"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2008-0102",
+   "short": "LC 102/2008",
+   "title": "Lei Complementar nº 102, de 2008 (Dispõe sobre a organização do tribunal de contas e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/102/2008/",
+   "versions": [
+    {
+     "from": "2026-01-17",
+     "units": 140,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/102/2008?formato=json",
+     "sha256": "fe552da53693befc047bbb20a939f75fb496e7c926b8342ce0074dfb5afcb04c"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2008-0103",
+   "short": "LC 103/2008",
+   "title": "Lei Complementar nº 103, de 2008 (Extingue cargos de provimento em comissão do quadro específico de pessoal da advocacia-geral do estado e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/103/2008/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/103/2008?formato=json",
+     "sha256": "968202d1e52808dcea86102956eaf6d9a3a96a0334323aaa7b4398eaa5c055a2"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2008-0104",
+   "short": "LC 104/2008",
+   "title": "Lei Complementar nº 104, de 2008",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/104/2008/",
+   "versions": [
+    {
+     "from": "2008-08-05",
+     "units": 6,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/104/2008?formato=json",
+     "sha256": "878b6c3cec8e7a19b85a7e0aec8100e0d7a6933f113b58b07e95139e6e15a388"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2008-0105",
+   "short": "LC 105/2008",
+   "title": "Lei Complementar nº 105, de 2008 (Altera a lei complementar nº 59, de 18 de janeiro de 2001, que contém a organização e a divisão judiciárias do estado de minas gerais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/105/2008/",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 66,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/105/2008?formato=json",
+     "sha256": "f36d2ac4d2b918125848c02c3c8171bf27e62da44ed35d84b15be89560563de7"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2009-0106",
+   "short": "LC 106/2009",
+   "title": "Lei Complementar nº 106, de 2009 (Altera o art. 5º da lei complementar nº 90, de 12 de janeiro de 2006, que dispõe sobre a região metropolitana do vale do aço.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/106/2009/",
+   "versions": [
+    {
+     "from": "2009-01-10",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/106/2009?formato=json",
+     "sha256": "68062044d629b74d87544d7d489d755afe77032e804ae6f6abe7515e08eb9aa8"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2009-0107",
+   "short": "LC 107/2009",
+   "title": "Lei Complementar nº 107, de 2009 (Cria a agência de desenvolvimento da região metropolitana de belo horizonte – agência rmbh.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/107/2009/",
+   "versions": [
+    {
+     "from": "2009-01-13",
+     "units": 21,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/107/2009?formato=json",
+     "sha256": "4c9a8a6aa438b775332a879b24a7fb5544ab40678aaa902dd2af77ff5a4cd8dc"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2009-0108",
+   "short": "LC 108/2009",
+   "title": "Lei Complementar nº 108, de 2009 (Altera a lei complementar nº 102, de 17 de janeiro de 2008, que dispõe sobre a organização do tribunal de contas e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/108/2009/",
+   "versions": [
+    {
+     "from": "2009-01-14",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/108/2009?formato=json",
+     "sha256": "839c41143a5ee124fd5922198de59e45ea80f649dd935e86d254b3fbd1d97ec1"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2009-0109",
+   "short": "LC 109/2009",
+   "title": "Lei Complementar nº 109, de 2009",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/109/2009/",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 16,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/109/2009?formato=json",
+     "sha256": "1af01b32deec801105c7d3cb71caa88750e6271daba02461c293ae802b91a59c"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2009-0110",
+   "short": "LC 110/2009",
+   "title": "Lei Complementar nº 110, de 2009",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/110/2009/",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 10,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/110/2009?formato=json",
+     "sha256": "2ed9d348e52e36902109a7c3fab229db19ed6f361f380f24a403a99e8a289489"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2010-0111",
+   "short": "LC 111/2010",
+   "title": "Lei Complementar nº 111, de 2010",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/111/2010/",
+   "versions": [
+    {
+     "from": "2010-01-14",
+     "units": 7,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/111/2010?formato=json",
+     "sha256": "3ae42033ce75865e033538dc0be801281d12a1cd01f3dedf3818b35db4dd0f88"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2010-0112",
+   "short": "LC 112/2010",
+   "title": "Lei Complementar nº 112, de 2010",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/112/2010/",
+   "versions": [
+    {
+     "from": "2010-01-14",
+     "units": 7,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/112/2010?formato=json",
+     "sha256": "daf44f4dd6f4035a25225b79ad8c62ae572f7f777514f337365769f53be659ed"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2010-0113",
+   "short": "LC 113/2010",
+   "title": "Lei Complementar nº 113, de 2010",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/113/2010/",
+   "versions": [
+    {
+     "from": "2013-11-09",
+     "units": 14,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/113/2010?formato=json",
+     "sha256": "bf64bb8b2f16f756de56e8006ff7d49e936b90747e5431bf11e0ef0c2b77b47b"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2010-0114",
+   "short": "LC 114/2010",
+   "title": "Lei Complementar nº 114, de 2010",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/114/2010/",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 6,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/114/2010?formato=json",
+     "sha256": "f710fee6df0ee66745709cf07e162665324b83bed5d042a6c8525075ff678dd0"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2010-0115",
+   "short": "LC 115/2010",
+   "title": "Lei Complementar nº 115, de 2010 (Altera a lei nº 5.301, de 16 de outubro de 1969, que contém o estatuto dos militares do estado de minas gerais, e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/115/2010/",
+   "versions": [
+    {
+     "from": "2010-08-06",
+     "units": 8,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/115/2010?formato=json",
+     "sha256": "8f4170e8f3e0c0734416fd0ef978b3626786cb407369484cf36e3f5f581e9e30"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2011-0116",
+   "short": "LC 116/2011",
+   "title": "Lei Complementar nº 116, de 2011 (Dispõe sobre a prevenção e a punição do assédio moral na administração pública estadual.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/116/2011/",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 14,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/116/2011?formato=json",
+     "sha256": "86a89a1055c71a9da3423318806b693a758adee8a9910450fd0eba4e201a22c4"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2011-0117",
+   "short": "LC 117/2011",
+   "title": "Lei Complementar nº 117, de 2011",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/117/2011/",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/117/2011?formato=json",
+     "sha256": "03b515fd631f2696d712e8f2329193acb90a9302403e94155fff8e1d317e6fb4"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2011-0118",
+   "short": "LC 118/2011",
+   "title": "Lei Complementar nº 118, de 2011 (Altera a lei complementar nº 34, de 12 de setembro de 1994, que dispõe sobre a organização do ministério público do estado e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/118/2011/",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/118/2011?formato=json",
+     "sha256": "71bf889ecc717e3329314f0f6b580180dac9a6c5c431e91fcf435d42aecfdcc1"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2011-0119",
+   "short": "LC 119/2011",
+   "title": "Lei Complementar nº 119, de 2011",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/119/2011/",
+   "versions": [
+    {
+     "from": "2011-01-14",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/119/2011?formato=json",
+     "sha256": "b7db3a4199376b3a3a59262f449b8f06b8b63ca1145dc42dbfe3b369d5b6e3fd"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2011-0120",
+   "short": "LC 120/2011",
+   "title": "Lei Complementar nº 120, de 2011 (Altera a lei complementar nº 102, de 17 de janeiro de 2008, que dispõe sobre a organização do tribunal de contas e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/120/2011/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 18,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/120/2011?formato=json",
+     "sha256": "20d983bc5f261a1f4d2ca6b9327a96b1def8de5609be40f03cdfbff6b7d32785"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2011-0121",
+   "short": "LC 121/2011",
+   "title": "Lei Complementar nº 121, de 2011",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/121/2011/",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/121/2011?formato=json",
+     "sha256": "994ffb705c4048f1786617af5b929c8dd4df06725d43e328cadfe2d9f18b724c"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2012-0122",
+   "short": "LC 122/2012",
+   "title": "Lei Complementar nº 122, de 2012",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/122/2012/",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 20,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/122/2012?formato=json",
+     "sha256": "2c4590b0a86e67c316a1e55b88ed1c2124352b36ff04ed1cfbedbf691193c3ad"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2012-0123",
+   "short": "LC 123/2012",
+   "title": "Lei Complementar nº 123, de 2012",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/123/2012/",
+   "versions": [
+    {
+     "from": "2012-08-04",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/123/2012?formato=json",
+     "sha256": "1724b39243fb50dc8f494d9b702bee26f471922dd68270f4784298a01f1319d7"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2012-0124",
+   "short": "LC 124/2012",
+   "title": "Lei Complementar nº 124, de 2012 (Altera a lei complementar nº 89, de 12 de janeiro de 2006, que dispõe sobre a região metropolitana de belo horizonte.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/124/2012/",
+   "versions": [
+    {
+     "from": "2012-10-18",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/124/2012?formato=json",
+     "sha256": "a462d0b53e02f10b68e8d43d3caa117bfeccf03509aacdf239fce266bbe0a1d2"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2012-0125",
+   "short": "LC 125/2012",
+   "title": "Lei Complementar nº 125, de 2012",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/125/2012/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/125/2012?formato=json",
+     "sha256": "9d0702a8b458da7785ef7696b1af5b530e0cbc75fdb522ffbc30a2bebbd127dd"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2013-0126",
+   "short": "LC 126/2013",
+   "title": "Lei Complementar nº 126, de 2013 (Extingue gratificações de função previstas nas leis complementares nº 30, de 10 de agosto de 1993, e nº 35, de 29 de dezembro de 1994.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/126/2013/",
+   "versions": [
+    {
+     "from": "2013-06-26",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/126/2013?formato=json",
+     "sha256": "fc281365f6020ca7f839a895c4a31f556b56cb148d3e1418d9330f5c07135f0a"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2013-0127",
+   "short": "LC 127/2013",
+   "title": "Lei Complementar nº 127, de 2013 (Fixa a carga horária semanal de trabalho dos militares estaduais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/127/2013/",
+   "versions": [
+    {
+     "from": "2013-07-03",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/127/2013?formato=json",
+     "sha256": "1489efd400d137ea832d940fa32c092240d0f8d9fe56a01b4254fef0bbc8e1e8"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2013-0128",
+   "short": "LC 128/2013",
+   "title": "Lei Complementar nº 128, de 2013",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/128/2013/",
+   "versions": [
+    {
+     "from": "2014-09-05",
+     "units": 7,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/128/2013?formato=json",
+     "sha256": "9a4ca4ebb8b7611868c999acb1c2546b84560bda8e575b6e74556e995f09657a"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2013-0129",
+   "short": "LC 129/2013",
+   "title": "Lei Complementar nº 129, de 2013",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/129/2013/",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 126,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/129/2013?formato=json",
+     "sha256": "dbc92984ba7390033ce0127bb61be001c91c2439fd79b4453e014a12e0c3b7a4"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2013-0130",
+   "short": "LC 130/2013",
+   "title": "Lei Complementar nº 130, de 2013",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/130/2013/",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 6,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/130/2013?formato=json",
+     "sha256": "58ebeecf7691fc94a12f16db55cd652138c30a7518db395bbc7ff47916eafeae"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2013-0131",
+   "short": "LC 131/2013",
+   "title": "Lei Complementar nº 131, de 2013",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/131/2013/",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 15,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/131/2013?formato=json",
+     "sha256": "97c5fcaedd212768b1fd0531c000083e5c532422c248983c01dd94093f140c39"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2014-0132",
+   "short": "LC 132/2014",
+   "title": "Lei Complementar nº 132, de 2014",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/132/2014/",
+   "versions": [
+    {
+     "from": "2021-07-31",
+     "units": 39,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/132/2014?formato=json",
+     "sha256": "2e792156edf3809118049ede1bdf883d88278ccc9c49f66798b2ebbf7d6a3449"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2014-0133",
+   "short": "LC 133/2014",
+   "title": "Lei Complementar nº 133, de 2014 (Altera a lei complementar nº 102, de 17 de janeiro de 2008, que dispõe sobre a organização do tribunal de contas e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/133/2014/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 5,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/133/2014?formato=json",
+     "sha256": "9771e93c996ebeea1427c2d1c9e832b01583486ff4ea99e88f8fda07f19cab6b"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2014-0134",
+   "short": "LC 134/2014",
+   "title": "Lei Complementar nº 134, de 2014",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/134/2014/",
+   "versions": [
+    {
+     "from": "2014-05-08",
+     "units": 9,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/134/2014?formato=json",
+     "sha256": "815a0df6f5fdcb699e6ab2f3ca66b00cc0942732773a1f233be33eb26e50ebb8"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2014-0135",
+   "short": "LC 135/2014",
+   "title": "Lei Complementar nº 135, de 2014",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/135/2014/",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 84,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/135/2014?formato=json",
+     "sha256": "820d2949a029759994b3ccd35083b7c9b1d567f0bb53a115cfca38193b762334"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2014-0136",
+   "short": "LC 136/2014",
+   "title": "Lei Complementar nº 136, de 2014 (Altera a lei complementar n° 34, de 12 de setembro de 1994, que dispõe sobre a organização do ministério público do estado.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/136/2014/",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 30,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/136/2014?formato=json",
+     "sha256": "5ebc0848108b91240294f99398ff8cb3fd17bc62f737f73472c0dce78d6d4147"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2014-0137",
+   "short": "LC 137/2014",
+   "title": "Lei Complementar nº 137, de 2014",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/137/2014/",
+   "versions": [
+    {
+     "from": "2014-07-12",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/137/2014?formato=json",
+     "sha256": "af6e185de705808de004e5ed8f60dd12087935f3d1eba9fcb19918e95152433d"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2016-0138",
+   "short": "LC 138/2016",
+   "title": "Lei Complementar nº 138, de 2016",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/138/2016/",
+   "versions": [
+    {
+     "from": "2023-12-30",
+     "units": 8,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/138/2016?formato=json",
+     "sha256": "5bb062994b99991ea30610cc56b6fba0082ac46c684017927b22138a35884e57"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2016-0139",
+   "short": "LC 139/2016",
+   "title": "Lei Complementar nº 139, de 2016",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/139/2016/",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 7,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/139/2016?formato=json",
+     "sha256": "eafac058bbaf2bb171f7af65dfa5210e9a331a650935912d04dda49ee8427f90"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2016-0140",
+   "short": "LC 140/2016",
+   "title": "Lei Complementar nº 140, de 2016",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/140/2016/",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 43,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/140/2016?formato=json",
+     "sha256": "661daddf5ced0e9d04f33a04219c5d287715db1352897c78d4af0d57d0b6873e"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2016-0141",
+   "short": "LC 141/2016",
+   "title": "Lei Complementar nº 141, de 2016",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/141/2016/",
+   "versions": [
+    {
+     "from": "2016-12-14",
+     "units": 21,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/141/2016?formato=json",
+     "sha256": "40d70b56a3186385fc486531c21f68023e3e8c79428e91ec4243819f1fadcd58"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2017-0142",
+   "short": "LC 142/2017",
+   "title": "Lei Complementar nº 142, de 2017 (Acrescenta parágrafo ao art. 15 da lei complementar nº 91, de 19 de janeiro de 2006, que dispõe sobre a instituição, gestão e extinção de fundos estaduais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/142/2017/",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/142/2017?formato=json",
+     "sha256": "335ae740dfd7f472011c069b41c2b349287235c68d4d9f7d4532dc8205a79833"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2017-0143",
+   "short": "LC 143/2017",
+   "title": "Lei Complementar nº 143, de 2017 (Altera a lei complementar nº 67, de 22 de janeiro de 2003, que cria o fundo especial do ministério público do estado de minas gerais – funemp.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/143/2017/",
+   "versions": [
+    {
+     "from": "2017-07-21",
+     "units": 10,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/143/2017?formato=json",
+     "sha256": "1e306f9787026044bc8577e2d7e2a3a790dbe3a49da720123ff65378792d9724"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2017-0144",
+   "short": "LC 144/2017",
+   "title": "Lei Complementar nº 144, de 2017",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/144/2017/",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 9,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/144/2017?formato=json",
+     "sha256": "f81b6fa54eadeb4a51462a5406ebcc3fcbd38d33fdb15e01839b5c077ef76c2f"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2017-0145",
+   "short": "LC 145/2017",
+   "title": "Lei Complementar nº 145, de 2017",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/145/2017/",
+   "versions": [
+    {
+     "from": "2017-12-30",
+     "units": 6,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/145/2017?formato=json",
+     "sha256": "1ad76a357f0e449de4aa0b111d5850a8f8f40b4fe2f83e779d53f147b94ccad2"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2018-0146",
+   "short": "LC 146/2018",
+   "title": "Lei Complementar nº 146, de 2018 (Altera a lei complementar nº 59, de 18 de janeiro de 2001, que contém a organização e a divisão judiciárias do estado, e dá outra providência.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/146/2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 9,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/146/2018?formato=json",
+     "sha256": "c9d353fbe3e13b27899a20d096a9bee40fb38a3f7656cb00ffc01770ccfdd136"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2018-0147",
+   "short": "LC 147/2018",
+   "title": "Lei Complementar nº 147, de 2018 (Altera a lei complementar nº 34, de 12 de setembro de 1994, que dispõe sobre a organização do ministério público do estado e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/147/2018/",
+   "versions": [
+    {
+     "from": "2018-12-15",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/147/2018?formato=json",
+     "sha256": "39f4751e5e51b29491d6708c7a74dd8c172eb647fd839c751d1750043f8aeace"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2019-0148",
+   "short": "LC 148/2019",
+   "title": "Lei Complementar nº 148, de 2019",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/148/2019/",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 8,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/148/2019?formato=json",
+     "sha256": "fc419447c3cf0f500272a4658de4961c38431880690ea9c921a197f607814a32"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2019-0149",
+   "short": "LC 149/2019",
+   "title": "Lei Complementar nº 149, de 2019",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/149/2019/",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 9,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/149/2019?formato=json",
+     "sha256": "25900d6b6d17206afae1dd9bce8a99be61cc1b7ced86f383b13d013c41e1b3ad"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2019-0150",
+   "short": "LC 150/2019",
+   "title": "Lei Complementar nº 150, de 2019 (Altera o art. 27 da lei complementar nº 102, de 17 de janeiro de 2008, que dispõe sobre a organização do tribunal de contas e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/150/2019/",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/150/2019?formato=json",
+     "sha256": "684d05a57c4c0a47a7bc063cedf9cab418021bfb11369fb0328eb9f4b6a4d52f"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2019-0151",
+   "short": "LC 151/2019",
+   "title": "Lei Complementar nº 151, de 2019",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/151/2019/",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 21,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/151/2019?formato=json",
+     "sha256": "47c23bbe987ba639b522f569c0c5303e1fc1d7e553b1fd809fb8a6a8f1a65a50"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2019-0152",
+   "short": "LC 152/2019",
+   "title": "Lei Complementar nº 152, de 2019",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/152/2019/",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 5,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/152/2019?formato=json",
+     "sha256": "b2e807c391e4295ac203de82cc37adfd82bb6063d617b501823b05177de83d4f"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2020-0153",
+   "short": "LC 153/2020",
+   "title": "Lei Complementar nº 153, de 2020 (Altera a lei nº 5.301, de 16 de outubro de 1969, que contém o estatuto dos militares do estado de minas gerais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/153/2020/",
+   "versions": [
+    {
+     "from": "2020-04-02",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/153/2020?formato=json",
+     "sha256": "66070554bcf0b8bbec1710ac4258bc778d57cd2e87ac3b2bb14e5faf151d4e0e"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2020-0154",
+   "short": "LC 154/2020",
+   "title": "Lei Complementar nº 154, de 2020",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/154/2020/",
+   "versions": [
+    {
+     "from": "2020-06-27",
+     "units": 7,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/154/2020?formato=json",
+     "sha256": "da7b49649a7f836367413d061b1dc9c716e041cc33d55498fecb94c87234bacb"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2020-0155",
+   "short": "LC 155/2020",
+   "title": "Lei Complementar nº 155, de 2020",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/155/2020/",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/155/2020?formato=json",
+     "sha256": "3b96eb88192dbd0c09b16d56adccbf9e6ca1ee52ba941116edd39918a54a0cf3"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2020-0156",
+   "short": "LC 156/2020",
+   "title": "Lei Complementar nº 156, de 2020",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/156/2020/",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 26,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/156/2020?formato=json",
+     "sha256": "076714e59c066d828cb47a52043fa8cacfb8cecb001f2ef05ed891491333f5be"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2021-0157",
+   "short": "LC 157/2021",
+   "title": "Lei Complementar nº 157, de 2021 (Altera a lei complementar nº 59, de 18 de janeiro de 2001, que contém a organização e a divisão judiciárias do estado de minas gerais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/157/2021/",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 9,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/157/2021?formato=json",
+     "sha256": "5e682e8b35a2da4ac3c87f105afe423577daaf0d5f1bb37cc6e875f7571bbcba"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2021-0158",
+   "short": "LC 158/2021",
+   "title": "Lei Complementar nº 158, de 2021",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/158/2021/",
+   "versions": [
+    {
+     "from": "2021-07-31",
+     "units": 20,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/158/2021?formato=json",
+     "sha256": "f0700d366ae62604fce7546d83fb88f22309c258a6eae95958ebb32cce95bd9f"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2021-0159",
+   "short": "LC 159/2021",
+   "title": "Lei Complementar nº 159, de 2021 (Dispõe sobre a instituição e a gestão de aglomerações urbanas e microrregiões no estado.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/159/2021/",
+   "versions": [
+    {
+     "from": "2021-07-31",
+     "units": 12,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/159/2021?formato=json",
+     "sha256": "bf12caf3284032f5b9a6f0977470944652746ea3dde12482a3a2a78001394556"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2021-0160",
+   "short": "LC 160/2021",
+   "title": "Lei Complementar nº 160, de 2021 (Dispõe sobre o pagamento de diárias no âmbito do estado)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/160/2021/",
+   "versions": [
+    {
+     "from": "2021-09-18",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/160/2021?formato=json",
+     "sha256": "a6c993042f12aa44bcf8ad69cedda13b12cd6d17d81577f5abf58ead413dc244"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2021-0161",
+   "short": "LC 161/2021",
+   "title": "Lei Complementar nº 161, de 2021",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/161/2021/",
+   "versions": [
+    {
+     "from": "2021-08-05",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/161/2021?formato=json",
+     "sha256": "8b8670e1fe3edaefe751035206056a7209dce9ca1b3fcf7e395c664f23e5303b"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2021-0162",
+   "short": "LC 162/2021",
+   "title": "Lei Complementar nº 162, de 2021",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/162/2021/",
+   "versions": [
+    {
+     "from": "2021-08-05",
+     "units": 6,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/162/2021?formato=json",
+     "sha256": "3eb19b2fdd92622d4e30849ef435ee85bed63d5448e7331b17b6f4cc5177b0af"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2021-0163",
+   "short": "LC 163/2021",
+   "title": "Lei Complementar nº 163, de 2021 (Altera a lei complementar nº 34, de 12 de setembro de 1994, que dispõe sobre a organização do ministério público do estado, e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/163/2021/",
+   "versions": [
+    {
+     "from": "2021-08-05",
+     "units": 69,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/163/2021?formato=json",
+     "sha256": "91d819a50649aeb48158659a8b0383146e04cf79698b07a54883259e24ab92c0"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2021-0164",
+   "short": "LC 164/2021",
+   "title": "Lei Complementar nº 164, de 2021",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/164/2021/",
+   "versions": [
+    {
+     "from": "2021-08-05",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/164/2021?formato=json",
+     "sha256": "231c268645cdedfaaeeb46e33fe97c1db3eb30dc1db927157422cee3f45e76a8"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2021-0165",
+   "short": "LC 165/2021",
+   "title": "Lei Complementar nº 165, de 2021 (Estabelece regras gerais para a concessão de licença-paternidade aos servidores públicos e aos militares do estado.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/165/2021/",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 7,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/165/2021?formato=json",
+     "sha256": "b4af44ab345eb646d60f6cffbbae19605989c5cc9e5734ff37ea6a6c3a3187c5"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2022-0166",
+   "short": "LC 166/2022",
+   "title": "Lei Complementar nº 166, de 2022",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/166/2022/",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 14,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/166/2022?formato=json",
+     "sha256": "7a667950af8de59e228629636e7ddac6031e5242024ff4a74df0cf2adcd189c6"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2022-0167",
+   "short": "LC 167/2022",
+   "title": "Lei Complementar nº 167, de 2022 (Institui a procuradoria jurídica do tribunal de contas do estado e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/167/2022/",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 16,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/167/2022?formato=json",
+     "sha256": "4684e794bb08441799840402aac844168e5c53235e3dd3cf4b528523605832c8"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2022-0168",
+   "short": "LC 168/2022",
+   "title": "Lei Complementar nº 168, de 2022 (Altera a lei nº 5.301, de 16 de outubro de 1969, que contém o estatuto dos militares do estado de minas gerais, e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/168/2022/",
+   "versions": [
+    {
+     "from": "2022-07-20",
+     "units": 34,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/168/2022?formato=json",
+     "sha256": "66f04e274b9504ae588173adda8dc4e3d67cdbb1b0332aebc59b566255dc1108"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2022-0169",
+   "short": "LC 169/2022",
+   "title": "Lei Complementar nº 169, de 2022",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/169/2022/",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 9,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/169/2022?formato=json",
+     "sha256": "f44babfd6232d90eb8d237b52ddc152386ab751544d3ccb504416da633ded563"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2023-0170",
+   "short": "LC 170/2023",
+   "title": "Lei Complementar nº 170, de 2023 (Altera a lei complementar nº 34, de 12 de setembro de 1994, que dispõe sobre a organização do ministério público do estado, e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/170/2023/",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 9,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/170/2023?formato=json",
+     "sha256": "dc405efef74450c90396409740dfa96f231ed94dfed148d68ceb96e1b85b3de4"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2023-0171",
+   "short": "LC 171/2023",
+   "title": "Lei Complementar nº 171, de 2023",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/171/2023/",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 11,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/171/2023?formato=json",
+     "sha256": "a065e814ecce2f1a1e92e19471edad1c206a6f4aa952c0199e9f6f0a490c0dde"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2023-0172",
+   "short": "LC 172/2023",
+   "title": "Lei Complementar nº 172, de 2023",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/172/2023/",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/172/2023?formato=json",
+     "sha256": "6f86e2acf16d1f54d3801340f3929b6900889105d4dfefac6b065659eeebacd5"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2023-0173",
+   "short": "LC 173/2023",
+   "title": "Lei Complementar nº 173, de 2023",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/173/2023/",
+   "versions": [
+    {
+     "from": "2023-12-30",
+     "units": 10,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/173/2023?formato=json",
+     "sha256": "6f88b05fae8044b7b1a902afd13f2cc6643e76eef6f4bf424d271f03ef309a4c"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2024-0174",
+   "short": "LC 174/2024",
+   "title": "Lei Complementar nº 174, de 2024 (Altera a lei complementar nº 59, de 18 de janeiro de 2001, que contém a organização e divisão judiciárias do estado de minas gerais, e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/174/2024/",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 11,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/174/2024?formato=json",
+     "sha256": "ea9ac958d105057160e7e4d769cb8143effa8ec1bfcb3747b69d1470b3ca7dac"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2024-0175",
+   "short": "LC 175/2024",
+   "title": "Lei Complementar nº 175, de 2024",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/175/2024/",
+   "versions": [
+    {
+     "from": "2024-06-15",
+     "units": 6,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/175/2024?formato=json",
+     "sha256": "77f92ef88b3c35198b8b04dd8349be86436199e7965ed369684952d2fb1dccb5"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2024-0176",
+   "short": "LC 176/2024",
+   "title": "Lei Complementar nº 176, de 2024",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/176/2024/",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/176/2024?formato=json",
+     "sha256": "6942e0a5e0336658133c60f8fdacbfb45f5feb9bc34b120874bf0d81a1f17f88"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2024-0177",
+   "short": "LC 177/2024",
+   "title": "Lei Complementar nº 177, de 2024 (Acrescenta artigo à lei complementar nº 59, de 18 de janeiro de 2001, que contém a organização e a divisão judiciárias do estado de minas gerais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/177/2024/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/177/2024?formato=json",
+     "sha256": "3b30168019d2bcd86ddd840003c69c4c1b5c36239d8533595f4562eb41e320e8"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2024-0178",
+   "short": "LC 178/2024",
+   "title": "Lei Complementar nº 178, de 2024 (Institui o plano diretor de desenvolvimento integrado da região metropolitana do vale do aço.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/178/2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 20,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/178/2024?formato=json",
+     "sha256": "f5d1db9d96b6cae065deed8b21cf613cf2a880db1f6035714fc711b3148ffc3f"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2024-0179",
+   "short": "LC 179/2024",
+   "title": "Lei Complementar nº 179, de 2024 (Acrescenta dispositivos à lei nº 869, de 5 de julho de 1952, que dispõe sobre o estatuto dos funcionários públicos civis do estado de minas gerais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/179/2024/",
+   "versions": [
+    {
+     "from": "2024-12-28",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/179/2024?formato=json",
+     "sha256": "37c4a457a112838d0cb82c46482c45ae9248b7d387bcbc16596d8cac239806f3"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2025-0180",
+   "short": "LC 180/2025",
+   "title": "Lei Complementar nº 180, de 2025 (Institui o regime de previdência complementar para parlamentares da assembleia legislativa do estado de minas gerais.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/180/2025/",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 16,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/180/2025?formato=json",
+     "sha256": "bf3a7a6cca5cd954543204d3c6d12414a04a3588b2038c243cbe48ad7fe4036c"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2025-0181",
+   "short": "LC 181/2025",
+   "title": "Lei Complementar nº 181, de 2025",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/181/2025/",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 4,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/181/2025?formato=json",
+     "sha256": "c6b301d1269d1de40afb0f5fe8ba76e57fe80aa605b4c75586de7b4740a1370c"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2025-0182",
+   "short": "LC 182/2025",
+   "title": "Lei Complementar nº 182, de 2025 (Altera a lei complementar nº 34, de 12 de setembro de 1994, que dispõe sobre a organização do ministério público do estado e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/182/2025/",
+   "versions": [
+    {
+     "from": "2025-05-31",
+     "units": 14,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/182/2025?formato=json",
+     "sha256": "b943945ed68fbdef7c8fd1f1ad121561a2fafcbda9416221638e76efc67b065c"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2025-0183",
+   "short": "LC 183/2025",
+   "title": "Lei Complementar nº 183, de 2025",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/183/2025/",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/183/2025?formato=json",
+     "sha256": "c8680c9fb41eda11486e821217681140f51d31d93399b1de23944bdcdb70491d"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2025-0184",
+   "short": "LC 184/2025",
+   "title": "Lei Complementar nº 184, de 2025",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/184/2025/",
+   "versions": [
+    {
+     "from": "2025-07-19",
+     "units": 5,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/184/2025?formato=json",
+     "sha256": "8c1384829e7a312634315c8292b5c88675627fc6dbb10ea216813d27f4d55b93"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2025-0185",
+   "short": "LC 185/2025",
+   "title": "Lei Complementar nº 185, de 2025",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/185/2025/",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 23,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/185/2025?formato=json",
+     "sha256": "02f84c9f10d2230fb9dd4353a69ee874ba3b51432a115f0d30214f1edb48ba18"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2025-0186",
+   "short": "LC 186/2025",
+   "title": "Lei Complementar nº 186, de 2025",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/186/2025/",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 8,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/186/2025?formato=json",
+     "sha256": "6b6405fc4488c34544a32a203e52e79a1342502333f07801ce02f38555658c28"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2026-0187",
+   "short": "LC 187/2026",
+   "title": "Lei Complementar nº 187, de 2026",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/187/2026/",
+   "versions": [
+    {
+     "from": "2026-01-17",
+     "units": 7,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/187/2026?formato=json",
+     "sha256": "17ff8b29efd6a2fc2aade22cf062eadf10abdefa8051d3555824517f994deb80"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2026-0188",
+   "short": "LC 188/2026",
+   "title": "Lei Complementar nº 188, de 2026 (Dispõe sobre o quadro de pessoal da advocacia-geral do estado de minas gerais e dá outras providências.)",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/188/2026/",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 13,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/188/2026?formato=json",
+     "sha256": "b9c17ac765cc33cd8906ae774d373d0ec468907127010a7a6b7757992d2b74a1"
+    }
+   ]
+  },
+  {
+   "slug": "lcp-2026-0189",
+   "short": "LC 189/2026",
+   "title": "Lei Complementar nº 189, de 2026",
+   "url": "https://www.almg.gov.br/legislacao-mineira/LCP/189/2026/",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 3,
+     "source_url": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/189/2026?formato=json",
+     "sha256": "5b6104a0d8e460dde7ca2177634502983db7e4f45c2b019c40421d2ccdfe6a4e"
+    }
+   ]
+  }
+ ]
+}
