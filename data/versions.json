@@ -1,0 +1,19 @@
+{
+ "country": "BR-PR",
+ "acts": [
+  {
+   "slug": "constituicao",
+   "short": "CE-PR",
+   "title": "Constituição do Estado do Paraná",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=9779",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 336,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=9779&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "0fc88d3195e99717f18f385d8f1947aca5256931fb9f16cc2f1269017904b037"
+    }
+   ]
+  }
+ ]
+}

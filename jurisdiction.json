@@ -1,0 +1,8 @@
+{
+  "path": "br-pr",
+  "code": "BR-PR",
+  "name": "Paraná",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-parana-law",
+  "build": "built: Constituição do Estado do Paraná, compiled text, from the Sistema Estadual de Legislação"
+}
