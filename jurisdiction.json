@@ -1,0 +1,8 @@
+{
+  "path": "br-sp",
+  "code": "BR-SP",
+  "name": "São Paulo",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-sao-paulo-law",
+  "build": "built: Constituição do Estado de São Paulo and the Leis Complementares not expressly revoked, from ALESP"
+}

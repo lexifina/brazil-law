@@ -1,0 +1,11 @@
+Law texts
+
+The texts in this repository are laws of the State of São Paulo (Estado de São Paulo) as published by the Assembleia Legislativa do Estado de São Paulo (ALESP) (https://www.al.sp.gov.br/legislacao).
+
+- Copyright: "Não são objeto de proteção como direitos autorais de que trata esta Lei: [...] IV - os textos de tratados ou convenções, leis, decretos, regulamentos, decisões judiciais e demais atos oficiais" (Lei 9.610/1998, art. 8, IV).
+- The texts are not the official version: only the Diário Oficial do Estado is authoritative.
+
+Attribution: Fonte: ALESP, Legislação Estadual, Assembleia Legislativa do Estado de São Paulo (ALESP), https://www.al.sp.gov.br/legislacao.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
