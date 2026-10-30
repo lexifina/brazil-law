@@ -1,0 +1,12 @@
+Law texts
+
+The texts in this repository are laws of the State of Bahia (Estado da Bahia) as published by the Casa Civil do Estado da Bahia (https://www.legislabahia.ba.gov.br).
+
+- Copyright: "Não são objeto de proteção como direitos autorais de que trata esta Lei: [...] IV - os textos de tratados ou convenções, leis, decretos, regulamentos, decisões judiciais e demais atos oficiais" (Lei 9.610/1998, art. 8, IV).
+- The site's footer states: "Todo o conteúdo desse site está publicado sob a licença Creative Commons Atribuição-SemDerivações 3.0 Brasil." The law texts themselves are excluded from copyright by Lei 9.610/1998, art. 8, IV (above), so that licence does not restrict them; the site's own material (its notes and presentation) is not copied.
+- The texts are not the official version: only the Diário Oficial do Estado is authoritative.
+
+Attribution: Fonte: Legisla Bahia, Casa Civil do Estado da Bahia, https://www.legislabahia.ba.gov.br.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

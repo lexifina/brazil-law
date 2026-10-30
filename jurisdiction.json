@@ -1,0 +1,8 @@
+{
+  "path": "br-ba",
+  "code": "BR-BA",
+  "name": "Bahia",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-bahia-law",
+  "build": "built: Constituição do Estado da Bahia and the Leis Complementares, from Legisla Bahia"
+}

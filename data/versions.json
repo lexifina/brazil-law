@@ -1,0 +1,817 @@
+{
+ "country": "BR-BA",
+ "acts": [
+  {
+   "slug": "constituicao",
+   "short": "CE-BA",
+   "title": "Constituição do Estado da Bahia",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-05-de-outubro-de-1989",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 359,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-05-de-outubro-de-1989",
+     "sha256": "3af9d63a7899618595d6b0f38fa0eeaaa2b6a1e1c74c1e4a269b666ac2520e1e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1989-001",
+   "short": "LC 1/1989",
+   "title": "Lei Complementar nº 1, de 1989 (Estabelece requisitos mínimos para criação de Municípios e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-001-de-19-de-julho-de-1989",
+   "versions": [
+    {
+     "from": "1989-07-19",
+     "units": 14,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-001-de-19-de-julho-de-1989",
+     "sha256": "261457ebaa8509b77f2c5fb792805a9364352ab39614050fe86fb0f5c1294b74"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1990-002",
+   "short": "LC 2/1990",
+   "title": "Lei Complementar nº 2, de 1990 (Estabelece os requisitos para criação de Municípios e Distritos, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-002-de-04-de-maio-de-1990",
+   "versions": [
+    {
+     "from": "1990-05-04",
+     "units": 18,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-002-de-04-de-maio-de-1990",
+     "sha256": "21371671a46e5355c7904fdbc736eb5519c080df796d03c2dc086a0832930e21"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1990-003",
+   "short": "LC 3/1990",
+   "title": "Lei Complementar nº 3, de 1990 (Regula a disponibilidade do servidor para o exercício de mandato eletivo em entidade sindical.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-003-de-05-de-setembro-de-1990",
+   "versions": [
+    {
+     "from": "1990-09-05",
+     "units": 6,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-003-de-05-de-setembro-de-1990",
+     "sha256": "c15003031a19a7f8defce8bbbd6b67fd21572fe5edd08fd58d161fc25b0717ae"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-005",
+   "short": "LC 5/1991",
+   "title": "Lei Complementar nº 5, de 1991 (Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado da Bahia e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-005-de-04-de-dezembro-de-1991",
+   "versions": [
+    {
+     "from": "1991-12-05",
+     "units": 85,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-005-de-04-de-dezembro-de-1991",
+     "sha256": "cc09e1ab188d6cfbcc13017ce0723172fbf726bdd66624557c78ecf3362f02f1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-006",
+   "short": "LC 6/1991",
+   "title": "Lei Complementar nº 6, de 1991 (Dispõe sobre a Lei Orgânica do Tribunal de Contas dos Municípios do Estado da Bahia e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-006-de-06-de-dezembro-de-1991",
+   "versions": [
+    {
+     "from": "1991-12-07",
+     "units": 107,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-006-de-06-de-dezembro-de-1991",
+     "sha256": "36cbdfe0d0be2babd490507124a2058d7d6bfe297c268b6f0764e3fe3337f6dc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-007",
+   "short": "LC 7/1991",
+   "title": "Lei Complementar nº 7, de 1991",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-007-de-20-de-dezembro-de-1991",
+   "versions": [
+    {
+     "from": "1991-12-21",
+     "units": 8,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-007-de-20-de-dezembro-de-1991",
+     "sha256": "49f2709438238a62ee5ed0baeebd5249c5bfc744a90c79a58481b439a1aa0a9d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1992-008",
+   "short": "LC 8/1992",
+   "title": "Lei Complementar nº 8, de 1992 (Altera dispositivos da lei Complementar nº 07, de 20 de dezembro de 1991 .)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-008-de-23-de-dezembro-de-1992",
+   "versions": [
+    {
+     "from": "1992-12-24",
+     "units": 3,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-008-de-23-de-dezembro-de-1992",
+     "sha256": "237e75b56d1dd08cc28ab41730ede5d3d3447ef1d541f8a0326b1046748a1857"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1994-009",
+   "short": "LC 9/1994",
+   "title": "Lei Complementar nº 9, de 1994 (Dispõe sobre a iniciativa popular no processo legislativo estadual.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-009-de-15-de-julho-de-1994",
+   "versions": [
+    {
+     "from": "1994-07-16",
+     "units": 4,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-009-de-15-de-julho-de-1994",
+     "sha256": "1a33ec2c82ca60a2d3c542e8f8e40261fea9859cfb9c9621dbe88581e22fc36b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1994-010",
+   "short": "LC 10/1994",
+   "title": "Lei Complementar nº 10, de 1994",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-010-de-27-de-dezembro-de-1994",
+   "versions": [
+    {
+     "from": "1994-12-28",
+     "units": 6,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-010-de-27-de-dezembro-de-1994",
+     "sha256": "6a654d5ef2124d335010b2c54e1f5b3f448168faa7c6d89943b87d099b581ea3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1996-011",
+   "short": "LC 11/1996",
+   "title": "Lei Complementar nº 11, de 1996 (Institui a Lei Orgânica do Ministério Público do Estado da Bahia e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-011-de-18-de-janeiro-de-1996",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 304,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-011-de-18-de-janeiro-de-1996",
+     "sha256": "f3731eb73cfb0562c0753cae0b5002ba13de5e936d79749d47ece97626c7ac55"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1997-012",
+   "short": "LC 12/1997",
+   "title": "Lei Complementar nº 12, de 1997",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-12-de-29-de-setembro-de-1997",
+   "versions": [
+    {
+     "from": "1997-09-30",
+     "units": 25,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-12-de-29-de-setembro-de-1997",
+     "sha256": "ea4bb79f060298c2802db8b89033ede7028b68485f704ffc756d9de9f2f44ffa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1997-013",
+   "short": "LC 13/1997",
+   "title": "Lei Complementar nº 13, de 1997 (Regulamenta o inciso II, do artigo 153, da Constituição do Estado .)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-13-de-30-de-dezembro-de-1997",
+   "versions": [
+    {
+     "from": "1997-12-31",
+     "units": 7,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-13-de-30-de-dezembro-de-1997",
+     "sha256": "7b85c1bcc6fa1dd8fb57f83db3719ccb79f5f4d789fefb96202d45ab44b8708f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1998-014",
+   "short": "LC 14/1998",
+   "title": "Lei Complementar nº 14, de 1998",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-14-de-25-de-abril-de-1998",
+   "versions": [
+    {
+     "from": "1998-04-26",
+     "units": 15,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-14-de-25-de-abril-de-1998",
+     "sha256": "9306cc41f733c291c0367e6b746a5307439d6d984f32ef99348e3186c4c74380"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-015",
+   "short": "LC 15/2000",
+   "title": "Lei Complementar nº 15, de 2000",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-15-de-06-de-dezembro-de-2000",
+   "versions": [
+    {
+     "from": "2000-12-07",
+     "units": 5,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-15-de-06-de-dezembro-de-2000",
+     "sha256": "13924f98c7ffe9faf29b7f78e24cd901c9084c9f67c86c6a3778195a270619d5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-016",
+   "short": "LC 16/2001",
+   "title": "Lei Complementar nº 16, de 2001",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-16-de-12-de-setembro-de-2001",
+   "versions": [
+    {
+     "from": "2001-09-12",
+     "units": 9,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-16-de-12-de-setembro-de-2001",
+     "sha256": "7c8118b4072b5221c05395d73af746227a5355b8b947a403c3c8f628215d5cfe"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-017",
+   "short": "LC 17/2002",
+   "title": "Lei Complementar nº 17, de 2002 (Dispõe sobre a organização do Ministério Público, altera denominações de cargos da Lei Complementar nº 11/96 , e dá outras providências:)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-17-de-21-de-agosto-de-2002",
+   "versions": [
+    {
+     "from": "2002-08-22",
+     "units": 16,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-17-de-21-de-agosto-de-2002",
+     "sha256": "00d22c467319ef440e48fcec29b9b65a7d39eb948c602a6c33cbeebb71e2aa00"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-018",
+   "short": "LC 18/2002",
+   "title": "Lei Complementar nº 18, de 2002 (Dispõe sobre a criação de cargos de Promotor de Justiça e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-18-de-21-de-agosto-de-2002",
+   "versions": [
+    {
+     "from": "2002-08-22",
+     "units": 8,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-18-de-21-de-agosto-de-2002",
+     "sha256": "c370f9a92af1a25c0ef8f22c1b5b8546b164529ef33d1bd9e57ea7d73384e18a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-019",
+   "short": "LC 19/2003",
+   "title": "Lei Complementar nº 19, de 2003 (Altera a Lei nº 8.207, de 04 de fevereiro de 2002, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-19-de-23-de-julho-de-2003",
+   "versions": [
+    {
+     "from": "2003-07-24",
+     "units": 6,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-19-de-23-de-julho-de-2003",
+     "sha256": "24b6a3802ec9e1fce38a9aaba6420435f3d21a70803aeeb61af7cd7dfd511cb1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-020",
+   "short": "LC 20/2003",
+   "title": "Lei Complementar nº 20, de 2003 (Dispõe sobre os vencimentos dos Membros do Ministério Público do Estado da Bahia e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-20-de-08-de-setembro-de-2003",
+   "versions": [
+    {
+     "from": "2003-09-09",
+     "units": 7,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-20-de-08-de-setembro-de-2003",
+     "sha256": "2d968e915f48ded76a5cba278a905890ed99fde8d3da7c1a390ebc4f3e6021f5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-021",
+   "short": "LC 21/2004",
+   "title": "Lei Complementar nº 21, de 2004 (Altera dispositivos da Lei Complementar 11/96 e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-21-de-12-de-janeiro-de-2004",
+   "versions": [
+    {
+     "from": "2004-01-13",
+     "units": 14,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-21-de-12-de-janeiro-de-2004",
+     "sha256": "7e1faeadad5784fa41b2a751ce986caa2de9f487015ade4e899e062ddb12a6c3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-022",
+   "short": "LC 22/2005",
+   "title": "Lei Complementar nº 22, de 2005 (Altera dispositivos da Lei Complementar Nº 11/1996 e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-22-de-16-de-dezembro-de-2005",
+   "versions": [
+    {
+     "from": "2005-12-17",
+     "units": 9,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-22-de-16-de-dezembro-de-2005",
+     "sha256": "9e61b0f6d5f1e32a2b10a515e30cf171388a3371ce4d0ca3ceeaf9514e934335"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-023",
+   "short": "LC 23/2005",
+   "title": "Lei Complementar nº 23, de 2005 (Altera a estrutura de cargos da Procuradoria Geral do Estado e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-23-de-27-de-dezembro-de-2005",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-23-de-27-de-dezembro-de-2005",
+     "sha256": "3659360ad3e31265ede885fbdce69189d5fe1299b88c522cf90bfc574653ec11"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-024",
+   "short": "LC 24/2006",
+   "title": "Lei Complementar nº 24, de 2006 (Regula a competência da Ouvidoria do Ministério Público do Estado da Bahia, a escolha do Ouvidor, extingue e transforma cargos, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-24-de-04-de-janeiro-de-2006",
+   "versions": [
+    {
+     "from": "2006-01-05",
+     "units": 19,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-24-de-04-de-janeiro-de-2006",
+     "sha256": "0587a434da1cdede4bf36988a8fa7a72b7ccbb1a9910754fb4c307e5a4e42025"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-025",
+   "short": "LC 25/2006",
+   "title": "Lei Complementar nº 25, de 2006 (Altera a Lei nº 8.207, de 04 de fevereiro de 2002 e a Lei Complementar nº 23, de 27 de dezembro de 2005 , na forma que indica, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-25-de-30-de-marco-de-2006",
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 7,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-25-de-30-de-marco-de-2006",
+     "sha256": "d96480f48e93c0e309a4ffd8bd5bbf9ea5918ca502f0d79e05f04f5404fbf585"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-026",
+   "short": "LC 26/2006",
+   "title": "Lei Complementar nº 26, de 2006 (Dispõe sobre a Lei Orgânica e o Estatuto da Defensoria Pública do Estado da Bahia e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-26-de-28-de-junho-de-2006",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 290,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-26-de-28-de-junho-de-2006",
+     "sha256": "58a07e05cd0b78ad358671260eb26b6f7cb3367ebccfff069d4c52873720055a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-027",
+   "short": "LC 27/2006",
+   "title": "Lei Complementar nº 27, de 2006 (Altera dispositivos da Lei Complementar nº 005, de 04.12.1991 , e da Lei nº 7.879, de 29.06.2001 , e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-27-de-28-de-junho-de-2006",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 21,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-27-de-28-de-junho-de-2006",
+     "sha256": "12c2364fa4c22f5a8fba3c56a0e2eb51293e86ad605c2ccce92af0f12d9a3581"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2007-029",
+   "short": "LC 29/2007",
+   "title": "Lei Complementar nº 29, de 2007",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-29-de-21-de-dezembro-de-2007",
+   "versions": [
+    {
+     "from": "2007-12-22",
+     "units": 13,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-29-de-21-de-dezembro-de-2007",
+     "sha256": "6b54298889e54e783815cd7504be796cb43e4655b96cbc1a0a0b1053b6b86bb6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-031",
+   "short": "LC 31/2008",
+   "title": "Lei Complementar nº 31, de 2008 (Altera a Lei Complementar nº 11, de 18 de janeiro de 1996, que institui a Lei Orgânica do Ministério Público do Estado da Bahia, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-31-de-06-de-junho-de-2008",
+   "versions": [
+    {
+     "from": "2008-06-06",
+     "units": 13,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-31-de-06-de-junho-de-2008",
+     "sha256": "2ca6f39f4ba7729748664e6f775deacba1b8aed7b06d9a5f3241e938fba589a6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-032",
+   "short": "LC 32/2009",
+   "title": "Lei Complementar nº 32, de 2009 (Institui o município de Pojuca como parte integrante da Região Metropolitana de Salvador e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-32-de-22-de-janeiro-de-2009",
+   "versions": [
+    {
+     "from": "2009-01-22",
+     "units": 5,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-32-de-22-de-janeiro-de-2009",
+     "sha256": "dd47d526be3b6bca259cab1a2ce3f79bcd77f23a8faab269ceda5cd4c223f97b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-033",
+   "short": "LC 33/2009",
+   "title": "Lei Complementar nº 33, de 2009",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-33-de-05-de-fevereiro-de-2009",
+   "versions": [
+    {
+     "from": "2009-02-05",
+     "units": 11,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-33-de-05-de-fevereiro-de-2009",
+     "sha256": "1950a68746948def12eb566e4fee4a543765a802d998d517d2710ddc5ffd813f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-034",
+   "short": "LC 34/2009",
+   "title": "Lei Complementar nº 34, de 2009 (Dispõe sobre a Lei Orgânica da Procuradoria Geral do Estado, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-34-de-06-de-fevereiro-de-2009",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 108,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-34-de-06-de-fevereiro-de-2009",
+     "sha256": "a157137315c50d7681dce520507cc5d3cd8ee2c50439a7a6620a11c48908a42d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-035",
+   "short": "LC 35/2011",
+   "title": "Lei Complementar nº 35, de 2011 (Institui a Região Metropolitana de Feira de Santana, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-35-de-06-de-julho-de-2011",
+   "versions": [
+    {
+     "from": "2011-07-06",
+     "units": 11,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-35-de-06-de-julho-de-2011",
+     "sha256": "0563d832f2a9a0016f8d9a01c2c0a478e0a8a536b5e13f0ad632356df9bf073e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-036",
+   "short": "LC 36/2013",
+   "title": "Lei Complementar nº 36, de 2013",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-36-de-11-de-marco-de-2013",
+   "versions": [
+    {
+     "from": "2013-03-11",
+     "units": 34,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-36-de-11-de-marco-de-2013",
+     "sha256": "1d142a34e669779626e42a767143a64f178279f42ccb4367c92209ce2f0325a6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-037",
+   "short": "LC 37/2013",
+   "title": "Lei Complementar nº 37, de 2013 (Altera dispositivo da Lei Complementar nº 11, de 18 de janeiro de 1996.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-37-de-10-de-julho-de-2013",
+   "versions": [
+    {
+     "from": "2013-07-10",
+     "units": 5,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-37-de-10-de-julho-de-2013",
+     "sha256": "7227524cff10c660ba673da71d9c05473846631bdf2d8c608b3384410b911f9f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-038",
+   "short": "LC 38/2013",
+   "title": "Lei Complementar nº 38, de 2013 (Altera dispositivos da Lei Complementar nº 005 , de 04 de dezembro de 1991, da Lei nº 7.879 , de 29 de junho de 2001 e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-38-de-09-de-dezembro-de-2013",
+   "versions": [
+    {
+     "from": "2013-12-09",
+     "units": 7,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-38-de-09-de-dezembro-de-2013",
+     "sha256": "4b97df0f311a7c300fd1a291c53d4b6e7efba54852d884126d464a5e838a7ab8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-039",
+   "short": "LC 39/2014",
+   "title": "Lei Complementar nº 39, de 2014 (Altera a Lei Complementar nº 26, de 28 de junho de 2006, que instituiu a Lei Orgânica da Defensoria Pública do Estado da Bahia, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-39-de-11-de-abril-de-2014",
+   "versions": [
+    {
+     "from": "2014-04-11",
+     "units": 11,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-39-de-11-de-abril-de-2014",
+     "sha256": "9a70795baa50c671dd55ebe788f69eff6b629c11e32ba9ec5932356544ff5af8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-040",
+   "short": "LC 40/2014",
+   "title": "Lei Complementar nº 40, de 2014",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-40-de-29-de-maio-de-2014",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 8,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-40-de-29-de-maio-de-2014",
+     "sha256": "a4d5bbcc219ecddf73a02459690920b19b552186afa5173e7a5320317fa212a7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-041",
+   "short": "LC 41/2014",
+   "title": "Lei Complementar nº 41, de 2014",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-41-de-13-de-junho-de-2014",
+   "versions": [
+    {
+     "from": "2014-06-13",
+     "units": 26,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-41-de-13-de-junho-de-2014",
+     "sha256": "3b067c0ef6d8f748e231145a67d49891ca75959c79c09ae776ba0ae8a445285d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-042",
+   "short": "LC 42/2015",
+   "title": "Lei Complementar nº 42, de 2015",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-42-de-09-de-julho-de-2015",
+   "versions": [
+    {
+     "from": "2015-07-09",
+     "units": 11,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-42-de-09-de-julho-de-2015",
+     "sha256": "ebebaafa93b35ad4cf2bd81678c3225eed62cfb7fbef3c7544664f0dc8084ac6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-043",
+   "short": "LC 43/2017",
+   "title": "Lei Complementar nº 43, de 2017 (Altera a Lei Complementar nº 34, de 06 de fevereiro de 2009, o art. 7º da Lei Complementar nº 19, de 23 de julho de 2003, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 17,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017",
+     "sha256": "3939a6ecd219f71c54d80bc532ed33421f944f1944e46de400a956d2a6b0d9b9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-044",
+   "short": "LC 44/2018",
+   "title": "Lei Complementar nº 44, de 2018",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-44-de-14-de-maio-de-2018",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 3,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-44-de-14-de-maio-de-2018",
+     "sha256": "96e6fd6f401a37aceaf5ba0ce8b605ad22d65ac67d2f4212a7cc87ee94f790fd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-045",
+   "short": "LC 45/2018",
+   "title": "Lei Complementar nº 45, de 2018 (Altera o §2º do artigo 1º da Lei Complementar nº 35, de 6 de julho de 2011 que institui a Região Metropolitana de Feira de Santana e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-45-de-05-julho-de-2018",
+   "versions": [
+    {
+     "from": "2018-07-05",
+     "units": 3,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-45-de-05-julho-de-2018",
+     "sha256": "5472e6e0d3dce875d176a5f78f6db71fe45c51a7efe74ebaa3a1ef36a33017ce"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-046",
+   "short": "LC 46/2018",
+   "title": "Lei Complementar nº 46, de 2018",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-46-de-29-de-outubro-de-2018",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 8,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-46-de-29-de-outubro-de-2018",
+     "sha256": "3e9c5227721914d06a1a14d727812da4a7844d5561e6389d49793b19fee5f0aa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-047",
+   "short": "LC 47/2018",
+   "title": "Lei Complementar nº 47, de 2018 (Institui a Microrregião de Saneamento Básico do Extremo Sul - MSB/ES.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-47-de-20-de-dezembro-de-2018",
+   "versions": [
+    {
+     "from": "2018-12-22",
+     "units": 18,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-47-de-20-de-dezembro-de-2018",
+     "sha256": "b88699a625778d7a5cdd07cf72066fa33fd81df4b8c151098cce67bc4643b041"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-048",
+   "short": "LC 48/2019",
+   "title": "Lei Complementar nº 48, de 2019",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-48-de-10-de-junho-de-2019",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 20,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-48-de-10-de-junho-de-2019",
+     "sha256": "fb1d5e06ec49954345d455025669b2faec8b85f42f54bcf8bea6867c3ea3defe"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-049",
+   "short": "LC 49/2020",
+   "title": "Lei Complementar nº 49, de 2020 (Altera as Leis Complementares nº 19, de 23 de julho de 2003, no 34, de 06 de fevereiro de 2009, nº 43, de 25 de outubro de 2017, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-de-2020",
+   "versions": [
+    {
+     "from": "2020-05-16",
+     "units": 8,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-de-2020",
+     "sha256": "3afabb472645f1517f2aae9de2ce2eab37c96a3aae686cf17267e90938ed09ed"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-050",
+   "short": "LC 50/2021",
+   "title": "Lei Complementar nº 50, de 2021 (Altera a Lei Complementar nº 34, de 06 de fevereiro de 2009, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 11,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021",
+     "sha256": "869a255d24d88acdea61b30a1a1dbd405b9d53b6cf50c9866e5cb1341294ab3c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-051",
+   "short": "LC 51/2022",
+   "title": "Lei Complementar nº 51, de 2022 (Altera a Lei Complementar nº 48, de 10 de junho de 2019, na forma que indica.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-51-de-29-de-marco-de-2022",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 4,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-51-de-29-de-marco-de-2022",
+     "sha256": "33ad8a449a3cc9d80ee21c852a115bb791018703ea35fba0ca0bf96b6664a4f6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-052",
+   "short": "LC 52/2022",
+   "title": "Lei Complementar nº 52, de 2022 (Altera a Lei Complementar nº 34, de 06 de fevereiro de 2009, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-52-de-29-de-junho-de-2022",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 5,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-52-de-29-de-junho-de-2022",
+     "sha256": "e3d4e582ee43904d2940385c27f6a1058337349c4f995b80c0c49c7c08af6c8f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-053",
+   "short": "LC 53/2022",
+   "title": "Lei Complementar nº 53, de 2022",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-53-de-31-deagosto-de-2022",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 10,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-53-de-31-deagosto-de-2022",
+     "sha256": "7f6b5f31433984134550e6fd5c8f3f928b572ee2714bb78263e0446c725853b1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-054",
+   "short": "LC 54/2023",
+   "title": "Lei Complementar nº 54, de 2023 (Altera dispositivos da Lei Complementar nº 11, de 18 de janeiro de 1996, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-54-de-12-de-maio-de-2023",
+   "versions": [
+    {
+     "from": "2023-05-13",
+     "units": 5,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-54-de-12-de-maio-de-2023",
+     "sha256": "bc01134c6720aa836756845cd4542e6e389f74335ca58b9d560aad272e71fe44"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-055",
+   "short": "LC 55/2023",
+   "title": "Lei Complementar nº 55, de 2023 (Altera a Lei Complementar nº 34, de 06 de fevereiro de 2009, na forma que indica, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-55-de-16-de-maio-de-2023",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 4,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-55-de-16-de-maio-de-2023",
+     "sha256": "8a9f83fc693975e3d3eeedda528207a4b11e41f4606768742978c0811e84a996"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-056",
+   "short": "LC 56/2024",
+   "title": "Lei Complementar nº 56, de 2024 (Acrescenta incisos e o § 4º ao art. 29, altera o art. 55 e os §§ do art. 124, todos da Lei Complementar nº 11, de 18 de janeiro de 1996.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-56-de-08-de-marco-de-2024",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 13,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-56-de-08-de-marco-de-2024",
+     "sha256": "f68a1d9fbf8c38132af5aa6fb49f2753f91ef31f341169927fe647f616d38c72"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-057",
+   "short": "LC 57/2024",
+   "title": "Lei Complementar nº 57, de 2024",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 6,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024",
+     "sha256": "921da892854af572d6e6ef93e9773166bad67de93ca0c0b8da3e10c32ff90cb0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-058",
+   "short": "LC 58/2024",
+   "title": "Lei Complementar nº 58, de 2024 (Dispõe sobre a criação do Fundo Permanente para a Defesa Civil - FUNPDEC, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-58-de-06-de-dezembro-de-2024",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 10,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-58-de-06-de-dezembro-de-2024",
+     "sha256": "2d13814b02762730c7d66d5bfd75a01f3c45a9468a897159dff5460b37bf78c1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-059",
+   "short": "LC 59/2025",
+   "title": "Lei Complementar nº 59, de 2025 (Dispõe sobre a Lei Orgânica da Procuradoria Geral do Estado, na forma que indica, e dá outras providências.)",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-59-de-23-de-dezembro-de-2025",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 119,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-59-de-23-de-dezembro-de-2025",
+     "sha256": "fd4e4cdeb362056284e7034d2438bf175612346b1b6f4efe3a16b7c55866bd18"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-060",
+   "short": "LC 60/2026",
+   "title": "Lei Complementar nº 60, de 2026",
+   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-60-de-17-de-agosto-de-2026",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 7,
+     "source_url": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-60-de-17-de-agosto-de-2026",
+     "sha256": "486a5294259d77f0d411d4b08b51441deee1d59cb4b8a23b9d0341a6ad1587a8"
+    }
+   ]
+  }
+ ]
+}
