@@ -974,7 +974,7 @@ B8.SPAN_FIX += [
 ]
 _W45 = ("Lei 9.430 arts. 45 and 46: Medida Provisória 303/2006 (in force 30.6.2006) revoked both; it lapsed on 27.10.2006 and they "
         "stood again from 28.10.2006 until Medida Provisória 351/2007 (22.1.2007) revoked them. Art. 45's quoted lines and "
-        "incisos fall with the caput while the MP stood; Planalto prints art. 46 a second time (struck, 'Vide Medida "
+        "incisos fall with the caput while the MP stood; Planalto prints both articles a second time (struck, 'Vide Medida "
         "Provisória nº 303, de 2006', revoked by Medida Provisória 351 and Lei 11.488), the same lines as the first copy")
 _G303 = [("2006-06-30", "2006-10-28", "mp-303-2006", "mp-303-2006-fim")]
 B8.SPAN_FIX += [
@@ -982,6 +982,9 @@ B8.SPAN_FIX += [
     ((_L9430, "art-45", "I -", "I - setenta e cinco por cento do valor do imposto", 0), {"gaps": _G303}, _W45),
     ((_L9430, "art-45", "II -", "II - cento e cinqüenta por cento do valor do imposto", 0), {"gaps": _G303}, _W45),
     ((_L9430, "art-45", "", '.....', 0), {"gaps": _G303}, _W45),
+    *[((_L9430, "art-45", lab, pre, 1), {"skip": True, "end_how": "duplicate"}, _W45) for lab, pre in (
+        ("", '"Art. 80. A falta de lançamento'), ("I -", "I - setenta e cinco por cento do valor do imposto"),
+        ("II -", "II - cento e cinqüenta por cento do valor do imposto"), ("", "....."))],
     *[((_L9430, "art-46", lab, pre, 1), {"skip": True, "end_how": "duplicate"}, _W45) for lab, pre in (
         ("§ 1º", "§ 1º As multas de que trata este artigo"), ("I -", "I - juntamente com o imposto"),
         ("II -", "II - isoladamente, nos demais casos"), ("§ 2º", "§ 2º Aplicam-se às multas"))],
