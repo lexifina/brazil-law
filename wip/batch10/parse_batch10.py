@@ -94,8 +94,64 @@ B8.ACTS[:] = ACTS
 B9.ACTS[:] = ACTS
 
 # in-force day of each act as enacted, and its own law record (filled from each page as it is read)
-ACT_DAY_ALL: dict[str, tuple[str, str]] = {}
-ACT_LAWS_ALL: dict[str, dict] = {}
+_PUB = "'Esta Lei entra em vigor na data de sua publicação'"
+ACT_DAY_ALL: dict[str, tuple[str, str]] = {
+    "lei-8987-1995": ("1995-02-14", f"Lei 8.987/1995 art. 46: {_PUB} (DOU 14.2.1995)"),
+    "lei-11079-2004": ("2004-12-31", f"Lei 11.079/2004 art. 30: {_PUB} (DOU 31.12.2004)"),
+    "lei-11445-2007": ("2007-01-08", "Lei 11.445/2007 art. 60 (as enacted): 'Esta Lei entra em vigor na data de sua "
+                                     "publicação' (DOU 8.1.2007)"),
+    "lei-9478-1997": ("1997-08-07", f"Lei 9.478/1997 art. 82: {_PUB} (DOU 7.8.1997)"),
+    "lei-13869-2019": ("2020-01-03", "Lei 13.869/2019 art. 45: 'Esta Lei entra em vigor após decorridos 120 (cento e vinte) "
+                                     "dias de sua publicação oficial' (DOU 5.9.2019, edição extra): the 120th day counted "
+                                     "from publication is 2.1.2020 (LC 95/1998 art. 8 § 1)"),
+    "lei-6880-1980": ("1981-01-01", "Lei 6.880/1980 art. 159: 'O presente Estatuto entrará em vigor a partir de 1º de "
+                                    "janeiro de 1981, salvo quanto ao disposto no item IV do artigo 98, que terá vigência 1 "
+                                    "(um) ano após a data da publicação desta Lei' (DOU 11.12.1980)"),
+    "lcp-64-1990": ("1990-05-21", "Lei Complementar 64/1990 art. 27: 'Esta lei complementar entra em vigor na data de sua "
+                                  "publicação' (DOU 21.5.1990)"),
+    "lei-8142-1990": ("1990-12-31", "Lei 8.142/1990 art. 6: 'Esta lei entra em vigor na data de sua publicação' (DOU "
+                                    "31.12.1990)"),
+    "lei-14597-2023": ("2023-06-15", f"Lei 14.597/2023 art. 218: {_PUB} (DOU 15.6.2023)"),
+    "lei-10671-2003": ("2003-05-16", f"Lei 10.671/2003 art. 45: {_PUB} (DOU 16.5.2003)"),
+    "lei-6938-1981": ("1981-09-02", "Lei 6.938/1981 art. 20: 'Esta Lei entrará em vigor na data de sua publicação' (DOU "
+                                    "2.9.1981)"),
+}
+ACT_LAWS_ALL: dict[str, dict] = {
+    "lei-8987-1995": B._act_law("Lei nº 8.987, de 1995", "Dispõe sobre o regime de concessão e permissão da prestação de "
+                                "serviços públicos previsto no art. 175 da Constituição Federal, e dá outras providências.",
+                                "1995-02-13", "1995-02-14", PAGES["lconc"]),
+    "lei-11079-2004": B._act_law("Lei nº 11.079, de 2004", "Institui normas gerais para licitação e contratação de parceria "
+                                 "público-privada no âmbito da administração pública.", "2004-12-30", "2004-12-31",
+                                 PAGES["lppp"]),
+    "lei-11445-2007": B._act_law("Lei nº 11.445, de 2007", "Estabelece diretrizes nacionais para o saneamento básico; altera "
+                                 "as Leis nos 6.766, de 19 de dezembro de 1979, 8.036, de 11 de maio de 1990, 8.666, de 21 "
+                                 "de junho de 1993, 8.987, de 13 de fevereiro de 1995; revoga a Lei no 6.528, de 11 de maio "
+                                 "de 1978; e dá outras providências.", "2007-01-05", "2007-01-08", PAGES["lsan"]),
+    "lei-9478-1997": B._act_law("Lei nº 9.478, de 1997", "Dispõe sobre a política energética nacional, as atividades "
+                                "relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e "
+                                "a Agência Nacional do Petróleo e dá outras providências.", "1997-08-06", "1997-08-07",
+                                PAGES["lpet"]),
+    "lei-13869-2019": B._act_law("Lei nº 13.869, de 2019", "Dispõe sobre os crimes de abuso de autoridade; altera a Lei nº "
+                                 "7.960, de 21 de dezembro de 1989, a Lei nº 9.296, de 24 de julho de 1996, a Lei nº 8.069, "
+                                 "de 13 de julho de 1990, e a Lei nº 8.906, de 4 de julho de 1994; e revoga a Lei nº 4.898, "
+                                 "de 9 de dezembro de 1965, e dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 "
+                                 "(Código Penal).", "2019-09-05", "2019-09-05", PAGES["labus"]),
+    "lei-6880-1980": B._act_law("Lei nº 6.880, de 1980", "Dispõe sobre o Estatuto dos Militares.", "1980-12-09",
+                                "1980-12-11", PAGES["emil"]),
+    "lcp-64-1990": B._act_law("Lei Complementar nº 64, de 1990", "Estabelece, de acordo com o art. 14, § 9º da Constituição "
+                              "Federal, casos de inelegibilidade, prazos de cessação, e determina outras providências.",
+                              "1990-05-18", "1990-05-21", PAGES["linel"]),
+    "lei-8142-1990": B._act_law("Lei nº 8.142, de 1990", "Dispõe sobre a participação da comunidade na gestão do Sistema "
+                                "Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros "
+                                "na área da saúde e dá outras providências.", "1990-12-28", "1990-12-31", PAGES["l8142"]),
+    "lei-14597-2023": B._act_law("Lei nº 14.597, de 2023", "Institui a Lei Geral do Esporte.", "2023-06-14", "2023-06-15",
+                                 PAGES["lgesp"]),
+    "lei-10671-2003": B._act_law("Lei nº 10.671, de 2003", "Dispõe sobre o Estatuto de Defesa do Torcedor e dá outras "
+                                 "providências.", "2003-05-15", "2003-05-16", PAGES["etorc"]),
+    "lei-6938-1981": B._act_law("Lei nº 6.938, de 1981", "Dispõe sobre a Política Nacional do Meio Ambiente, seus fins e "
+                                "mecanismos de formulação e aplicação, e dá outras providências.", "1981-08-31",
+                                "1981-09-02", PAGES["pnma"]),
+}
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
 B.ACT_LAWS.clear()

@@ -124,3 +124,9 @@ but deferred (reasons in batch9/PROGRESS.md).
 177 versions; merged 48 acts, 1335 versions, check 0/0. repo/jurisdiction.json updated to the 48 acts.
 99-batch9 re-PUBLISHed ~07:30Z with Código de Trânsito, Código Florestal and Registros Públicos: 8 acts, 338 versions;
 merged 51 acts, 1496 versions, check 0/0, --compare identical. jurisdiction.json updated (51 acts).
+
+## Batch 10 (gitlaw-BR agent, 2026-10-31)
+Pin scan of all older parts (batch10/.tmp/pinscan.py): 5 bad pins fixed in codes/, clt/, batch3/, batch5/ pin files
+(MP 75/2002 and Lei 3.807 bot pages; Lei 15.452, MP 765/2016, MP 922/2020 pinned to other acts' pages). Only 99-batch9
+changed in content (CTB art. 326-C now from 1.7.2026, Lei 15.452's real day) and 50-codes in its request count; both
+re-PUBLISHed ~03:50Z (merged 51 acts, 1496 versions, check 0/0, --compare identical). Details: batch10/PROGRESS.md.
