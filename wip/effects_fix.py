@@ -418,6 +418,34 @@ MOVES: dict[str, list] = {
          "de 2011, para fins do disposto no parágrafo único do art. 1º da Lei nº 11.482 [...]; II - a partir de 1º de abril de "
          "2011, para os demais casos' (DOU 28.3.2011): its art. 2 (Lei 7.713 art. 6) falls under II, from 1.4.2011"),
     ],
+    "99-batch17k.json": [
+        ("lei-9430-de-1996", "mp-1602-1997", "1997-11-17", [("units:art-44,art-47", "1998-01-01")],
+         "Medida Provisória 1.602/1997 art. 72: 'produzindo efeitos: I - a partir de 17 de novembro de 1997, em relação aos "
+         "arts. 9º, 29 a 34, 37 a 47, 59 a 63, 69 e 70; II - a partir de 1º de janeiro de 1998, em relação aos demais "
+         "dispositivos' (DOU 17.11.1997): its art. 65 (Lei 9.430 art. 44 § 2º and art. 47) from 1.1.1998; the revocation of "
+         "art. 39 (art. 73 I, 'a partir de 17 de novembro de 1997') keeps its day"),
+        ("lei-9430-de-1996", "mp-2013-1999", "1999-12-30", [(ALL, "2000-01-01")],
+         "Medida Provisória 2.013-4/1999: 'Esta Medida Provisória entra em vigor na data de sua publicação, produzindo efeitos "
+         "a partir de 1º de janeiro de 2000' (DOU 30.12.1999): its change to Lei 9.430 art. 18 from 1.1.2000"),
+        ("lei-9430-de-1996", "mp-66-2002", "2002-08-30", [("units:art-74", "2002-10-01")],
+         "Medida Provisória 66/2002 art. 63: 'produzindo efeitos: I - a partir de 1º de outubro de 2002, em relação aos arts. "
+         "31 e 49; [...] IV - a partir da data da publicação desta Medida Provisória, em relação aos demais artigos' (DOU "
+         "30.8.2002): its art. 49 (Lei 9.430 art. 74) from 1.10.2002; arts. 58 and 60 (arts. 42 and 81) on publication"),
+        ("lei-9430-de-1996", "mp-478-2009", "2009-12-29", [(ALL, "2010-01-01")],
+         "Medida Provisória 478/2009: 'Esta Medida Provisória entra em vigor na data de sua publicação, produzindo efeitos a "
+         "partir de 1º de janeiro de 2010 em relação ao disposto nos arts. 9º e 10' (DOU 29.12.2009): its arts. 9 and 10 (Lei "
+         "9.430 arts. 18, 19-A and 19-B) from 1.1.2010, until it lapsed (1.6.2010)"),
+        ("lei-9430-de-1996", "mp-517-2010", "2010-12-31", [(ALL, "2011-01-01")],
+         "Medida Provisória 517/2010: 'produzindo efeitos a partir de 1º de janeiro de 2011 em relação aos arts. 1º a 17' (DOU "
+         "31.12.2010, edição extra): its art. 8 (Lei 9.430 art. 12) from 1.1.2011"),
+        ("lei-9430-de-1996", "lei-15265-2025", "2025-11-21", [("units:art-17", "2026-01-01")],
+         "Lei 15.265/2025: 'produz efeitos a partir de: I - 1º de janeiro de 2026, quanto aos arts. 18 a 30 e aos arts. 33 e 34; "
+         "II - na data de sua publicação, quanto aos demais dispositivos' (DOU 21.11.2025, edição extra): its art. 33 (Lei "
+         "9.430 art. 17) from 1.1.2026; its art. 32 (art. 74) on publication"),
+        ("lei-9430-de-1996", "lei-15525-2026", "2026-09-29", [(ALL, "2030-01-01")],
+         "Lei 15.525/2026: 'produzindo efeitos: [...] II - quanto aos arts. 3º e 4º, a partir de 1º de janeiro de 2030' (DOU "
+         "29.9.2026): its art. 4 (Lei 9.430 art. 2 § 5º) from 1.1.2030"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,
