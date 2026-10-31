@@ -1,0 +1,15 @@
+{
+ "fetch": [
+  {
+   "id": "ato:adc-2009-mpv446",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/congresso/adc--mpv446.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-34",
+    "timestamp": "20260818103328",
+    "filename": "crawl-data/CC-MAIN-2026-34/segments/1786091677690.83/warc/CC-MAIN-20260818102432-20260818132432-00817.warc.gz",
+    "offset": "43391727",
+    "length": "2109"
+   }
+  }
+ ]
+}
