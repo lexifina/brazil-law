@@ -36,7 +36,8 @@ B.PAGES.clear()
 B.PAGES.update(PAGES)
 B5.PAGES = B6.PAGES = B7.PAGES = B8.PAGES = B9.PAGES = B10.PAGES = B11.PAGES = PAGES
 
-VERIFIED: list[str] = ["lei-do-parcelamento-do-solo-urbano", "lei-organica-da-assistencia-social", "lei-do-mercado-de-valores-mobiliarios"]
+VERIFIED: list[str] = ["lei-do-parcelamento-do-solo-urbano", "lei-dos-planos-de-saude", "lei-organica-da-assistencia-social",
+                        "lei-do-mercado-de-valores-mobiliarios"]
 ENABLED = [s for s in os.environ.get("BATCH12_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
@@ -269,6 +270,8 @@ def lifespans(paras, cx):
     problems = _lifespans12(paras, cx)
     if cx.act == _LCVM:
         problems = [x for x in problems if not x.startswith(LCVM_SETTLED)]
+    if cx.act == "lei-dos-planos-de-saude":   # art. 10 § 2º: settled by its hand span (see the life-span decisions)
+        problems = [x for x in problems if not x.startswith("no end for struck art-10 [§ 2º] '§ 2º As pessoas jurídicas")]
     return problems
 
 
@@ -283,6 +286,75 @@ B.EXPLAINED[_LCVM] = {
               "page has none",
 }
 
+# ---------------------------------------------------------------------------------------------------------------
+# Lei dos Planos de Saúde (Lei 9.656/1998). From 5.6.1998 (Medida Provisória nº 1.665, before the act took effect on
+# 2.9.1998) to 27.8.2001 the act was rewritten by a chain of about 44 monthly Medidas Provisórias (1.665, 1.685, 1.730,
+# 1.801, 1.908, 1.976, 2.097, 2.177), the last being MP 2.177-44 (DOU 27.8.2001), kept in force by EC 32/2001 art. 2.
+# Planalto's page prints only the 1998 text and MP 2.177-44's wording, citing the earlier reissues with 'Vide' notes, so
+# the text in force between 1998 and 2001 cannot be rebuilt from it: the history starts on 27.8.2001 with the oldest
+# version available.
+_LPS = "lei-dos-planos-de-saude"
+LPS_START = "2001-08-27"
+LPS_WHY = ("Lei dos Planos de Saúde: from 5.6.1998 (Medida Provisória nº 1.665, issued before the act took effect on "
+           "2.9.1998) to 27.8.2001 the act was rewritten by a chain of about 44 monthly reissued Medidas Provisórias "
+           "(1.665, 1.685, 1.730, 1.801, 1.908, 1.976, 2.097 and 2.177), the last being MP 2.177-44 (DOU 27.8.2001), kept "
+           "in force by EC 32/2001 art. 2. Planalto's page prints only the 1998 text and MP 2.177-44's wording and cites the "
+           "earlier reissues with 'Vide' notes, so the text in force from 1998 to 2001 cannot be rebuilt from it. The "
+           "history therefore starts on 27.8.2001 with the oldest version available (the act as MP 2.177-44 worded it, "
+           "including Lei 10.223/2001's change), credited to the publisher; the 1998 text and the monthly reissues are not "
+           "modelled")
+LPS_ADI = ("Lei dos Planos de Saúde, STF ADI 1.931 (open item): Planalto strikes art. 35-E and the words 'atuais e' in art. "
+           "10 § 2º, noting only '(Vide ADI nº 1.931)' with no date. As for other struck text whose end the source does not "
+           "date, art. 35-E and the struck words are left out of every version; the ruling (a 2003 interim suspension and "
+           "the 2018 judgment) is not modelled, pending a dated official record")
+P.MP_PENDING["mp-2177-2001"] = ("Medida Provisória nº 2.177-44, de 24.8.2001 (DOU 27.8.2001), the last reissue of the "
+                                "MP 1.665/1998 chain, was in force on 11.9.2001, so it stays in force until a later MP "
+                                "revokes it or Congress votes on it (Emenda Constitucional 32/2001, art. 2)")
+B8.SPAN_FIX += [
+    ((_LPS, "art-10", "§ 2º", "§ 2º As pessoas jurídicas que comercializam produtos", 0),
+     {"end": None, "end_law": None, "end_how": None, "state": "plain",
+      "text": "§ 2º As pessoas jurídicas que comercializam produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei "
+              "oferecerão, obrigatoriamente, a partir de 3 de dezembro de 1999, o plano-referência de que trata este artigo "
+              "a todos os seus futuros consumidores."},
+     "Lei dos Planos de Saúde art. 10 § 2º: Medida Provisória nº 2.177-44's wording, with the words 'atuais e' that Planalto "
+     "strikes (ADI 1.931, undated) left out, stands from 27.8.2001 to today (no later law rewrote it; the next-wording "
+     "rule had ended it with MP 1.067/2021's § 4º)"),
+    ((_LPS, "art-32", "§ 10", "§ 10. A obrigação de ressarcimento de que trata este artigo poderá ser convertida em "
+                               "prestação de serviços no âmbito do SUS, mediante", 0),
+     {"end": "2025-10-08", "end_law": "lei-15233-2025", "end_how": "conversion"},
+     "Lei dos Planos de Saúde art. 32 § 10: Medida Provisória nº 1.301/2025's wording ends when its conversion law, Lei "
+     "15.233/2025, gave the paragraph its own wording (8.10.2025)"),
+]
+B9.WORD_FIX[:] = B9.WORD_FIX + [
+    ("lps", "Ministros de Estado: (composição: vide Dec.4.044, de 2001)", "Ministros de Estado:",
+     "Lei dos Planos de Saúde art. 35-B: Planalto's editorial pointer '(composição: vide Dec. 4.044, de 2001)' is printed "
+     "inside the caput; it is dropped like the page's other 'Vide' notes"),
+]
+B.EXPLAINED[_LPS] = {
+    "art-12": "typesetting: the annotated page prints 'g)cobertura' without a space",
+    "art-32": "typesetting: the annotated page ends § 1º II without its full stop; the consolidated page cuts § 10 off "
+              "after 'em depó' (the history's § 10 is word for word Lei 15.233/2025's text)",
+    "art-35-b": "the consolidated page keeps the editorial pointer '(composiçaõ: vide Dec.4.044, de 6.12.2001)' in the caput",
+    "art-35-e": "Planalto strikes art. 35-E (ADI 1.931, undated); it is left out of every version (see the ADI 1.931 decision)",
+}
+_build_act12 = P.build_act
+
+
+def build_act(paras, act_day, *a, **k):
+    slug = ACTS[len(B7._act_order)]["slug"] if len(B7._act_order) < len(ACTS) else "?"
+    versions = _build_act12(paras, act_day, *a, **k)
+    if slug == _LPS:
+        versions = [v for v in versions if v["from"] >= LPS_START]
+        assert versions[0]["from"] == LPS_START
+        versions[0]["credits"] = {}
+        versions[0]["note"] = ("Oldest version available: the act as Medida Provisória nº 2.177-44 (DOU 27.8.2001) left it; "
+                               "the 1998 text and the monthly reissues of the MP 1.665 chain are not modelled.")
+        versions[0].pop("same_day", None)
+    return versions
+
+
+P.build_act = B.build_act = build_act
+
 _inner12 = B6.PB5B._write_part5
 
 
@@ -291,7 +363,25 @@ def _inner(*a):
     for k, rec in a[1].items():
         if k.startswith("dec-"):
             rec["kind"] = "decree"
-    return _inner12(*a)
+    keep = {}
+    for act in a[0]:
+        if act["slug"] == _LPS:
+            keep = {k: a[1][k] for k in ("lei-9656-1998", "lei-10223-2001") if k in a[1]}
+            B5.EXTRA_DECISIONS.extend([LPS_WHY + ".", LPS_ADI + "."])
+    rc = _inner12(*a)
+    if keep:   # laws named only in earlier_laws: the part writer keeps only credited laws
+        import json as _json
+        part = _json.loads(B5.OUT.read_text(encoding="utf-8"))
+        for k, rec in keep.items():
+            part["laws"].setdefault(k, rec)
+        for act in part["acts"]:
+            if act["slug"] == _LPS:
+                act["first_law"], act["earlier_laws"] = None, list(keep)
+        t = B5.OUT.with_suffix(".json.tmp")
+        t.write_text(_json.dumps(part, ensure_ascii=False, indent=None, separators=(",", ":")) + "\n", encoding="utf-8",
+                     newline="\n")
+        t.replace(B5.OUT)
+    return rc
 
 
 B6.PB5B._write_part5 = _inner
