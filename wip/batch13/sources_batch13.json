@@ -1,0 +1,48 @@
+{
+ "fetch": [
+  {
+   "id": "lcp",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260916011312",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492997931.94/warc/CC-MAIN-20260915233002-20260916023002-00153.warc.gz",
+    "offset": "726046141",
+    "length": "14220"
+   }
+  },
+  {
+   "id": "lcr",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l1079.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261012222801",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054684.45/warc/CC-MAIN-20261012204527-20261012234527-00321.warc.gz",
+    "offset": "50088775",
+    "length": "17641"
+   }
+  },
+  {
+   "id": "lrac",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261010171236",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054471.68/warc/CC-MAIN-20261010162718-20261010192718-00436.warc.gz",
+    "offset": "806570503",
+    "length": "6996"
+   }
+  },
+  {
+   "id": "lrac-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7716compilado.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260916002330",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492997931.94/warc/CC-MAIN-20260915233002-20260916023002-00875.warc.gz",
+    "offset": "37650300",
+    "length": "6164"
+   }
+  }
+ ]
+}
