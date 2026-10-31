@@ -328,8 +328,8 @@ def paragraphs(html, digits):
     # l8212cons.htm sets each Título / Capítulo name as a bare <p> inside <center> (only the 'TÍTULO I' line itself is
     # centred text): give those paragraphs the centred alignment they are displayed with, so they are read as heading
     # lines, not as marginal headings of the next article
-    n0 = len(re.findall(r"<center", html, re.I))
-    html = re.sub(r"<center.*?</center>", lambda m: re.sub(r"<p(?=[\s>])(?![^>]*align=)", '<p align="center"', m.group(0),
+    n0 = len(re.findall(r"<center\b", html, re.I))
+    html = re.sub(r"<center\b.*?</center>", lambda m: re.sub(r"<p(?=[\s>])(?![^>]*\balign=)", '<p align="center"', m.group(0),
                                                              flags=re.I), html, flags=re.S | re.I)
     if n0:
         CENTERED[page] = n0
@@ -533,6 +533,10 @@ def _inner(*a):
                    f"({FOOTNOTES_DROPPED['l8212']} superscript numbers such as 'e) as importâncias: 14'); the footnotes "
                    "themselves (on Medidas Provisórias then pending, and updated amounts) are printed after the signature, "
                    "outside the act, so the markers are dropped from the text and the footnotes are not part of the history.")
+    if CENTERED.get("l8212"):
+        dec.append("Lei 8.212: Planalto's pages set each Título and Capítulo name as an unaligned paragraph inside a centred "
+                   "block (only the 'TÍTULO I' line itself is centred text); these names are read as heading lines, as "
+                   "displayed, not as marginal headings of the following article.")
     if LETTER_ARTS:
         dec.append("Articles Planalto prints with the letter but no hyphen ('Art. 22A.', 'Art. 22B.', 'Art. 25A.') are "
                    "articles of their own (art-022-a, ...), labelled 'Art. 22-A' like the rest of the corpus: "
