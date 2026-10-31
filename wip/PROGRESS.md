@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-j PUBLISHed, 25 acts, 248 versions; merged 151 acts, 2642 versions; next: Lei 9.430 (pages pinned), then 13.465, 11.977; see batch17/PROGRESS.md)
+CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-j PUBLISHed, 25 acts, 248 versions; merged 151 acts, 2642 versions; next: finish Lei 9.430 (part k configured, not published: 'Part k status'), then 13.465, 11.977; see batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 

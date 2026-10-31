@@ -162,6 +162,33 @@ Lei 7.713/1988 (IR), 43 versions 1989-01-01 .. 2024-12-06 (in force 1.1.1989, ar
 - Part sha 8b41fb85 (pre-effects 6a70a200); merged 151 acts, 2642 versions, 2101 commits, check 0/0, compare identical,
   audit clean. README row + jurisdiction.json (151 acts).
 
+## Part k status: Lei 9.430/1996 - IN PROGRESS, NOT installed, NOT published
+Configured in parse_batch17.py (ALL_ACTS, PARTS["k"], ACT_DAY 30.12.1996 = in-force day: art. 87's 'efeitos financeiros a
+partir de 1º de janeiro de 1997' are financial-only, as part h decided). Laws pinned (k-laws/k-missing, archive.org).
+Hand block '# part k' (guarded by the act): VIGENCIA_FIXED lei-12382-2011 1.3.2011, lei-12844-2013 19.7.2013 (art. 49 V),
+mp-472-2009 16.12.2009 (art. 60 I d), mp-668-2015 30.1.2015 (art. 3 II); MP_LAPSE (Atos pinned and read) mp-303-2006
+28.10.2006, mp-478-2009 2.6.2010, mp-822-2018 30.6.2018, mp-877-2019 24.7.2019, mp-1262-2024 13.3.2025, mp-1227-2024
+4.6.2024 (= never in force: Ato 36/2024 'considera não escritos [...] desde a data de sua edição' its art. 5, the only
+change to 9.430: art. 74 § 3º XI; CHECK the line is absent from every version, else SPAN_FIX skip); NOTE_FIX
+'(Redação dada pela nº 12.715, de 2012)'. Trial k-t2 (69 versions): 1 problem left + 3 diffs + 2 undated lines:
+- MP_PENDING mp-2158-2001 needed (MP 2.158-35, DOU 27.8.2001; its art. 70 rewrote 9.430 art. 63 caput; READ its whole
+  vigência/effects clause first - it has dated items: 'I - a partir de 1º de abril de 2000 ...').
+- DIFF art-02 § 5º (only on the consolidated page), art-74 'no' vs 'nº' (typography: EXPLAINED), titulos (consolidated
+  still prints the transfer-pricing headings Seção V 'Preços de Transferência' etc. of arts. 18-24, revoked by Lei
+  14.596/2023? check the annotated page's struck headings and how they end).
+- Arts. 18-24 (transfer pricing): MP 478/2009 wordings (lapsed 1.6.2010) and '(Sem eficácia)' markers: check no marker
+  text leaks into lines (L9250-style strip may be needed; add the page to a marker strip list).
+- Then: effrep.py 9.430 <every amender> for effect days (about 75 laws cited) -> MOVES "99-batch17k.json"; pipe.sh k.
+
+## State at handoff (batch 17, third session, 2026-10-31)
+Parts 99-batch17a..j installed with .PUBLISH (25 acts, 248 versions; merged 151 acts, 2642 versions, 2101 commits, check
+0/0, --compare identical, audit clean). README rows + jurisdiction.json (151 acts) current. Fresh parses + effects_fix of i
+and j equal the installed parts in every key (after the part k config was added). effects_fix.py MOVES added for
+99-batch17i and j. All runs foreground through .tmp/run.py at BelowNormal; every PID exited; nothing left running.
+Fetching: archive.org only (iaonly.py) and one LexML /urn record per run (lexml1.py, 6 s apart); see the ROBOTS FINDING.
+Next: finish part k (above), then Leis 13.465/2017 and 11.977/2009 (pages not yet pinned: pin via iaonly.py gap; the local
+CC path index lists candidate paths).
+
 ## State at handoff (batch 17, second session, 2026-10-31)
 Parts 99-batch17a..h installed with .PUBLISH (23 acts, 170 versions; merged 149 acts, 2564 versions, 2048 commits, check
 0/0, --compare identical, audit clean). README rows + jurisdiction.json (149 acts) current. effects_fix.py MOVES for

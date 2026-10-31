@@ -12,6 +12,12 @@
    }
   },
   {
+   "id": "ato:adc-10-2025-mpv1262",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2025/Congresso/adc-10-mpv1.262.htm",
+   "ts": "20260616192519",
+   "via": "wayback.py"
+  },
+  {
    "id": "ato:adc-125-2024-mpv1251",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Congresso/adc-125-mpv1.251.htm",
    "ts": "20260616184359",
@@ -32,6 +38,24 @@
    "id": "ato:adc-35-2014-mpv644",
    "url": "http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/congresso/adc-035-mpv644.htm",
    "ts": "20260514165054",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ato:adc-35-2018-mpv822",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Congresso/adc-35-mpv822.htm",
+   "ts": "20260714161555",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ato:adc-36-2024-mpv1227",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Congresso/adc-36-mpv1.227.htm",
+   "ts": "20260414182615",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ato:adc-48-2019-mpv877",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Congresso/adc-48-mpv877.htm",
+   "ts": "20260606053622",
    "via": "wayback.py"
   },
   {
@@ -61,6 +85,24 @@
     "offset": "42699610",
     "length": "2334"
    }
+  },
+  {
+   "id": "ato:adc-95-2024-mpv1227",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Congresso/adc-95-mpv1.227.htm",
+   "ts": "20260615232015",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ato:atocn-18-2010-mpv478",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Congresso/atocn-18-mpv478.htm",
+   "ts": "20260715013357",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ato:atocn-2006-mpv303",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Congresso/atocnmpv303efi.htm",
+   "ts": "20260617172235",
+   "via": "wayback.py"
   },
   {
    "id": "ato:mv-928-1997",
@@ -663,6 +705,30 @@
    }
   },
   {
+   "id": "law:lei-10637-2002",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/L10637.htm",
+   "ts": "20261020100343",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-10833-2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/L10.833.htm",
+   "ts": "20261024011909",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-10892-2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L10.892.htm",
+   "ts": "20261022221551",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11033-2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L11033.htm",
+   "ts": "20261023233135",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-11052-2004",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L11052.htm",
    "ts": "20261023184239",
@@ -684,6 +750,12 @@
    "id": "law:lei-11482-2007",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11482.htm",
    "ts": "20261023184201",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11508-2007",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11508.htm",
+   "ts": "20261023234206",
    "via": "wayback.py"
   },
   {
@@ -721,6 +793,12 @@
    }
   },
   {
+   "id": "law:lei-12382-2011",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12382.htm",
+   "ts": "20261022142509",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-12514-2011",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12514.htm",
    "ts": "20261004172851",
@@ -749,6 +827,12 @@
    }
   },
   {
+   "id": "law:lei-12788-2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12788.htm",
+   "ts": "20261012083004",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-12794-2013",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12794.htm",
    "ts": "20261009095313",
@@ -764,6 +848,12 @@
    "id": "law:lei-12832-2013",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12832.htm",
    "ts": "20261005193746",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-12844-2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12844.htm",
+   "ts": "20261018151218",
    "via": "wayback.py"
   },
   {
@@ -889,6 +979,12 @@
    }
   },
   {
+   "id": "law:lei-14043-2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Lei/L14043.htm",
+   "ts": "20260921170446",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-14128-2021",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14128.htm",
    "cc": {
@@ -961,6 +1057,12 @@
    }
   },
   {
+   "id": "law:lei-14596-2023",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14596.htm",
+   "ts": "20261020185207",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-14663-2023",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14663.htm",
    "ts": "20261019073701",
@@ -1020,6 +1122,12 @@
     "offset": "14209491",
     "length": "5779"
    }
+  },
+  {
+   "id": "law:lei-15079-2024",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Lei/L15079.htm",
+   "ts": "20260801135045",
+   "via": "wayback.py"
   },
   {
    "id": "law:lei-15270-2025",
@@ -1398,6 +1506,12 @@
    }
   },
   {
+   "id": "law:lei-9065-1995",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9065.htm",
+   "ts": "20261004141045",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-9093-1995",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L9093.htm",
    "cc": {
@@ -1448,6 +1562,18 @@
    }
   },
   {
+   "id": "law:lei-9481-1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9481.htm",
+   "ts": "20261005193033",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-9716-1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9716.htm",
+   "ts": "20261003221122",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-9841-1999",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L9841.htm",
    "cc": {
@@ -1457,6 +1583,12 @@
     "offset": "44294333",
     "length": "11461"
    }
+  },
+  {
+   "id": "law:lei-9959-2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9959.htm",
+   "ts": "20261004111949",
+   "via": "wayback.py"
   },
   {
    "id": "law:mp-1034-2021",
@@ -1484,6 +1616,12 @@
    "id": "law:mp-114-1989",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/1988-1989/114.htm",
    "ts": "20260923111021",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1152-2022",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Mpv/mpv1152.htm",
+   "ts": "20260919205359",
    "via": "wayback.py"
   },
   {
@@ -1515,9 +1653,45 @@
    }
   },
   {
+   "id": "law:mp-1227-2024",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Mpv/mpv1227.htm",
+   "ts": "20261018053833",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-1251-2024",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Mpv/mpv1251.htm",
    "ts": "20260616175542",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1262-2024",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Mpv/mpv1262.htm",
+   "ts": "20261019012324",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1314-2025",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2025/Mpv/mpv1314.htm",
+   "ts": "20260614013934",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-135-2003",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas_2003/135.htm",
+   "ts": "20260714195856",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1563-1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1563-7.htm",
+   "ts": "20260711204647",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1602-1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1602.htm",
+   "ts": "20260612045834",
    "via": "wayback.py"
   },
   {
@@ -1544,6 +1718,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-1725-1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1725.htm",
+   "ts": "20260611073207",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-1894-1999",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1894-22.htm",
    "cc": {
@@ -1553,6 +1733,12 @@
     "offset": "768609830",
     "length": "6394"
    }
+  },
+  {
+   "id": "law:mp-2013-1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/2013-4.htm",
+   "ts": "20260613124324",
+   "via": "wayback.py"
   },
   {
    "id": "law:mp-2123-2001",
@@ -1599,6 +1785,12 @@
    }
   },
   {
+   "id": "law:mp-219-2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Mpv/219.htm",
+   "ts": "20260712204315",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-22-2002",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas_2002/22.htm",
    "ts": "20261005193022",
@@ -1639,6 +1831,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-303-2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Mpv/303.htm",
+   "ts": "20261007130939",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-37-2002",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas_2002/37.htm",
    "cc": {
@@ -1665,6 +1863,18 @@
    "id": "law:mp-451-2008",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Mpv/451.htm",
    "ts": "20260713053953",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-472-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Mpv/472.htm",
+   "ts": "20261007114348",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-478-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Mpv/478.htm",
+   "ts": "20261005231403",
    "via": "wayback.py"
   },
   {
@@ -1726,6 +1936,18 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-66-2002",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas_2002/66.htm",
+   "ts": "20261012005813",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-668-2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Mpv/mpv668.htm",
+   "ts": "20260615164841",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-670-2015",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Mpv/mpv670.htm",
    "ts": "20261007170538",
@@ -1782,6 +2004,12 @@
    }
   },
   {
+   "id": "law:mp-822-2018",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Mpv/mpv822.htm",
+   "ts": "20260614013419",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-850-2018",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Mpv/mpv850.htm",
    "cc": {
@@ -1802,6 +2030,12 @@
     "offset": "27105104",
     "length": "3731"
    }
+  },
+  {
+   "id": "law:mp-877-2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Mpv/mpv877.htm",
+   "ts": "20260710175751",
+   "via": "wayback.py"
   },
   {
    "id": "law:mp-906-2019",

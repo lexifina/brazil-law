@@ -132,6 +132,8 @@ ALL_ACTS: list[dict] = [
          "Imposto de renda das pessoas físicas (Lei nº 9.250, de 26 de dezembro de 1995)", 2),
     _act("lei-7713-de-1988", "L7713", "l7713", "l7713-compilada", "lei-7713-1988",
          "Imposto de renda (Lei nº 7.713, de 22 de dezembro de 1988)", 2),
+    _act("lei-9430-de-1996", "L9430", "l9430", "l9430-compilada", "lei-9430-1996",
+         "Legislação tributária federal (Lei nº 9.430, de 27 de dezembro de 1996)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -146,6 +148,7 @@ PARTS: dict[str, list[str]] = {
     "h": ["lei-da-csll", "lei-9249-de-1995"],
     "i": ["lei-9250-de-1995"],
     "j": ["lei-7713-de-1988"],
+    "k": ["lei-9430-de-1996"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -198,6 +201,9 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-9250-1995": ("1995-12-27", f"Lei 9.250/1995 art. 41: {_PUB} (DOU 27.12.1995)"),
     "lei-7713-1988": ("1989-01-01", "Lei 7.713/1988 art. 57: 'Esta Lei entra em vigor em 1º de janeiro de 1989' (DOU "
                                     "23.12.1988, the day LexML gives; the page footer misprints 23.12.1998)"),
+    "lei-9430-1996": ("1996-12-30", "Lei 9.430/1996 art. 87: 'Esta Lei entra em vigor na data da sua publicação, produzindo "
+                                    "efeitos financeiros a partir de 1º de janeiro de 1997' (DOU 30.12.1996): financial "
+                                    "effects only, so the in-force day"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -276,6 +282,9 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         "providências.", "1995-12-26", "1995-12-27", PAGES["l9250"]),
     "lei-7713-1988": _L("Lei nº 7.713, de 1988", "Altera a legislação do imposto de renda e dá outras providências.",
                         "1988-12-22", "1988-12-23", PAGES["l7713"]),
+    "lei-9430-1996": _L("Lei nº 9.430, de 1996", "Dispõe sobre a legislação tributária federal, as contribuições para a "
+                        "seguridade social, o processo administrativo de consulta e dá outras providências.", "1996-12-27",
+                        "1996-12-30", PAGES["l9430"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -824,7 +833,52 @@ if any(a["slug"] == _L7713 for a in ACTS):
         "Lei 7.713: the note reads 'Revogada pela Lei nº 7.759, de 1989'; its link goes to Lei 7.959/1989 (L7959.htm#art9), "
         "whose art. 9 made the revocation")
 
-B15.TEXT_FIX.append(("l7713", "calculado de acordo com o disposto no art. 25 desta Lei:)$",
+# part k: Lei 9.430/1996 (IN PROGRESS, not published; see batch17/PROGRESS.md 'Part k status'). Hand days read so far.
+_L9430 = "lei-9430-de-1996"
+if any(a["slug"] == _L9430 for a in ACTS):
+    P.VIGENCIA_FIXED["lei-12382-2011"] = (
+        "2011-03-01", "art. 7: 'Esta Lei entra em vigor no primeiro dia do mês subsequente à data de sua publicação' (DOU "
+                      "28.2.2011): 1.3.2011")
+    P.VIGENCIA_FIXED["lei-12844-2013"] = (
+        "2013-07-19", "art. 49: 'Esta Lei entra em vigor: [...] V - na data de sua publicação para os demais dispositivos' "
+                      "(DOU 19.7.2013, edição extra): its art. 20 (Lei 9.430 arts. 6, 73 and 74) falls under V")
+    P.VIGENCIA_FIXED["mp-472-2009"] = (
+        "2009-12-16", "art. 60: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, produzindo efeitos: "
+                      "[...] d) a partir da data de sua publicação, em relação aos demais dispositivos' (DOU 16.12.2009): its "
+                      "art. 23 (Lei 9.430 art. 44 § 5º) falls under I d)")
+    P.VIGENCIA_FIXED["mp-668-2015"] = (
+        "2015-01-30", "art. 3: 'Esta Medida Provisória entra em vigor: [...] II - em relação ao art. 2º e aos incisos I a IV do "
+                      "caput do art. 4º, na data de sua publicação' (DOU 30.1.2015, edição extra): its art. 4 II (revocation "
+                      "of Lei 9.430 art. 74 §§ 15 and 16) on publication")
+    for _k, _d, _a, _end in (("mp-303-2006", "2006-10-28", "Ato do Presidente da Mesa do Congresso Nacional nº 57, de 2006 "
+                              "(DOU 1.11.2006)", "27 de outubro do corrente ano"),
+                             ("mp-478-2009", "2010-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº "
+                              "18, de 2010 (DOU 15.6.2010)", "1º de junho do corrente ano"),
+                             ("mp-822-2018", "2018-06-30", "Ato Declaratório nº 35, de 3 de julho de 2018 (DOU 4.7.2018)",
+                              "29 de junho do corrente ano"),
+                             ("mp-877-2019", "2019-07-24", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº "
+                              "48, de 2019 (DOU 29.7.2019)", "23 de julho do corrente ano"),
+                             ("mp-1262-2024", "2025-03-13", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº "
+                              "10, de 2025 (DOU 14.3.2025)", "12 de março de 2025")):
+        P.MP_LAPSE[_k] = (_d, f"{_a}: 'teve seu prazo de vigência encerrado no dia {_end}'; the wordings it had replaced "
+                              f"are back from the next day")
+    # Medida Provisória 1.227/2024 art. 5 (Lei 9.430 art. 74 § 3º XI): rejected outright and 'considerados não escritos'
+    # by the President of Congress, 'encerramento da vigência e eficácia, desde a data de sua edição' (Ato Declaratório nº
+    # 36, de 2024, DOU 12.6.2024): never in force. The rest of the MP lapsed on 1.10.2024 (Ato Declaratório nº 95/2024).
+    P.MP_LAPSE["mp-1227-2024"] = (
+        "2024-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 36, de 2024 (DOU 12.6.2024): its art. "
+                      "5 (Lei 9.430 art. 74 § 3º XI) rejected outright, 'considera não escritos [...] e declara o "
+                      "encerramento da vigência e eficácia, desde a data de sua edição': never in force")
+    P.MP_PENDING["mp-2158-2001"] = (
+        "Medida Provisória nº 2.158-35, de 24.8.2001 (DOU 27.8.2001), kept in force by Emenda Constitucional 32/2001, art. 2; "
+        "its art. 92 ('entra em vigor na data de sua publicação, produzindo efeitos: I - a partir de 1º de abril de 2000 [...] "
+        "IV [...]') dates only other articles, so its art. 70, the new caput of Lei 9.430 art. 63, is in force on publication. "
+        "Planalto's note names this edition only; earlier editions of the chain are not modelled")
+    P.NOTE_FIX["(Redação dada pela nº 12.715, de 2012)"] = (
+        "(Redação dada pela Lei nº 12.715, de 2012)", "Lei 9.430: the note reads 'Redação dada pela nº 12.715, de 2012' (the "
+                                                      "word 'Lei' is missing)")
+
+B15.TEXT_FIX.append(("l7713","calculado de acordo com o disposto no art. 25 desta Lei:)$",
                      "calculado de acordo com o disposto no art. 25 desta Lei:",
                      "Lei 7.713 art. 7 caput: the annotated page leaves a stray closing parenthesis after the 'Vide' notes "
                      "('(Vide Lei nº 9.250, de 1995) )'); the consolidated page has none"))
