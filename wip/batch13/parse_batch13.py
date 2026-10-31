@@ -68,8 +68,8 @@ for M in (B7, B8, B9, B10, B11, B12):
 _PUB = "'Esta Lei entra em vigor na data de sua publicação'"
 ACT_DAY_ALL: dict[str, tuple[str, str]] = {
     "dl-3688-1941": ("1942-01-01", "Decreto-Lei 3.688/1941 art. 72: 'Esta lei entrará em vigor no dia 1º de janeiro de 1942'"),
-    "lei-1079-1950": ("1950-04-12", "Lei 1.079/1950 art. 82: 'A presente lei entrará em vigor na data de sua publicação' "
-                                    "(DOU 12.4.1950)"),
+    "lei-1079-1950": ("1950-05-27", "Lei 1.079/1950 has no vigência clause (its last article, art. 82, sets the time limit "
+                                    "for the trial): LINDB art. 1, 45 days after publication in the DOU of 12.4.1950"),
     "lei-7716-1989": ("1989-01-06", f"Lei 7.716/1989 art. 21: {_PUB} (DOU 6.1.1989)"),
 }
 _L = B._act_law
@@ -93,9 +93,14 @@ B8.LABEL_FIX.clear()
 B9.WORD_FIX.clear()
 P.VETO_PROMULGATION = {}
 P.VETO_PROMULGATED_UNITS = {}
+P.NOTE_FIX = {}
 
 # ---------------------------------------------------------------------------------------------------------------
 # hand tables for these acts, each read from the official pages named in the reason
+P.VIGENCIA_FIXED.update({
+    "dl-6916-1944": ("1944-10-02", "artigo único: art. 46 of the Lei das Contravenções Penais 'passa a vigorar, a partir da "
+                                   "publicação da presente lei, com a seguinte redação' (DOU 2.10.1944)"),
+})
 
 SRC = HERE / "sources_batch13.json"
 B5.SRC = SRC
