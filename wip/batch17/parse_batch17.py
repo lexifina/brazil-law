@@ -181,7 +181,7 @@ def paragraphs(html, digits):
     if drop:
         keep = []
         for p in out:
-            if not p["label"] and not p["notes"] and P.norm(p["text"]) in drop:
+            if p["label"] in ("", "rubrica") and not p["notes"] and P.norm(p["text"]) in drop:
                 FOREIGN_DROPPED.append(f"{page}: {P.norm(p['text'])!r}")
                 continue
             keep.append(p)
