@@ -45,6 +45,7 @@ ALL_ACTS = [a for a in B14.ALL_ACTS if a["slug"] in ("lei-de-custeio-da-segurida
 _C, _BN = "lei-de-custeio-da-seguridade-social", "lei-de-beneficios-da-previdencia-social"
 PARTS: dict[str, list[str]] = {"a": [_C], "b": [_BN]}
 VERIFIED: list[str] = PARTS.get(PART, [])
+EXTRA: list[str] = []   # decisions added to the part
 ENABLED = [s for s in os.environ.get("BATCH15_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
@@ -376,6 +377,43 @@ B8.SPAN_FIX += [
      {"start": "2009-05-28", "start_law": "lei-11941-2009", "end": None, "end_law": None, "end_how": None, "skip": False,
       "state": "plain"}, _W32A),
 ]
+# Resoluções do Senado Federal suspending dispositivos the STF declared unconstitutional (CF art. 52 X): Planalto strikes
+# the dispositivo and notes '(Execução suspensa pela Resolução do Senado Federal nº N, de AAAA)'; each page pinned ctx:rsf-*
+if _C in ENABLED:
+    P.COURTS.update({
+        "rsf-26-2005": {
+            "label": "Resolução do Senado Federal nº 26, de 2005", "kind": "law", "enacted": "2005-06-21",
+            "published": "2005-06-22",
+            "title": "Suspende a execução da alínea \"h\" do inciso I do art. 12 da Lei Federal nº 8.212, de 24 de julho de "
+                     "1991, acrescentada pelo § 1º do art. 13 da Lei Federal nº 9.506, de 30 de outubro de 1997.",
+            "url": PL + "_Ato2004-2006/2005/Congresso/ResSF26-05.htm", "from": "2005-06-22",
+            "case": r"Resolu[çc][ãa]o\s+do\s+Senado\s+Federal\s+n[º°]\s*26,\s*de\s*2005",
+            "where": [(_C, "art-012", "h)")],
+            "why": "Resolução do Senado Federal nº 26, de 21.6.2005 (DOU 22.6.2005), art. 1: 'É suspensa a execução da alínea "
+                   "\"h\" do inciso I do art. 12 da Lei Federal nº 8.212 [...] em virtude de declaração de "
+                   "inconstitucionalidade em decisão definitiva do Supremo Tribunal Federal, nos autos do Recurso "
+                   "Extraordinário nº 351.717-1'; art. 2: in force on publication. Lei 8.212 art. 12 I h) (added by Lei "
+                   "9.506/1997) ends on 22.6.2005, credited to the resolution (kind law: a Senate act)"},
+        "rsf-10-2016": {
+            "label": "Resolução do Senado Federal nº 10, de 2016", "kind": "law", "enacted": "2016-03-30",
+            "published": "2016-03-31",
+            "title": "Suspende, nos termos do art. 52, inciso X, da Constituição Federal, a execução do inciso IV do art. 22 da "
+                     "Lei nº 8.212, de 24 de julho de 1991.",
+            "url": PL + "_Ato2015-2018/2016/Congresso/RSF%2010.htm", "from": "2016-03-31",
+            "case": r"Resolu[çc][ãa]o\s+do\s+Senado\s+Federal\s+n[º°]\s*10,\s*de\s*2016",
+            "where": [(_C, "art-022", "IV -")],
+            "why": "Resolução do Senado Federal nº 10, de 30.3.2016 (DOU 31.3.2016), art. 1: 'É suspensa, nos termos do art. "
+                   "52, inciso X, da Constituição Federal, a execução do inciso IV do art. 22 da Lei nº 8.212 [...] declarado "
+                   "inconstitucional por decisão definitiva proferida pelo Supremo Tribunal Federal nos autos do Recurso "
+                   "Extraordinário nº 595.838'; art. 2: in force on publication. Lei 8.212 art. 22 IV (added by Lei "
+                   "9.876/1999) ends on 31.3.2016, credited to the resolution (kind law: a Senate act)"},
+    })
+    EXTRA.append(
+        "Resolução do Senado Federal nº 15, de 12.9.2017 (DOU 13.9.2017) suspended the execution of Lei 8.212 art. 12 VII and "
+        "of Lei 8.540/1992 art. 1 (the wordings of art. 12 V, art. 25 I and II and art. 30 IV), 'todos com a redação "
+        "atualizada até a Lei nº 9.528, de 10 de dezembro de 1997' (STF, RE 363.852). Planalto notes it beside those struck "
+        "wordings, all of which later laws (Leis 9.876/1999, 10.256/2001, 11.718/2008) had already replaced before 2017, so "
+        "it changes no version of the history and is not recorded as a change.")
 # heading lines (B8.SPAN_FIX leaves headings alone): act -> [(text, fields, why)]
 HEAD_FIX: dict[str, list] = {
     _C: [(t, {"end_law": "lei-8398-1992", "end_how": "successor", "skip": False},
@@ -403,7 +441,6 @@ def lifespans(paras, cx):
 
 P.lifespans = B.lifespans = lifespans
 
-EXTRA: list[str] = []
 _inner15 = B6.PB5B._write_part5
 
 
