@@ -373,7 +373,7 @@ B8.SPAN_FIX += [
       "end_how": "successor"}, _W50),
     ((_C, "art-050", "Art. 50", "Art. 50. Para fins de fiscalização do INSS", 1),
      {"start": "2009-05-28", "start_law": "lei-11941-2009", "restored": True}, _W50),
-    ((_C, "art-032-a", "II -", "II - R$ 500,00", 0),
+    ((_C, "art-032-a", "II -", "II - R$ 500,00", 1),
      {"start": "2009-05-28", "start_law": "lei-11941-2009", "end": None, "end_law": None, "end_how": None, "skip": False,
       "state": "plain"}, _W32A),
 ]
@@ -423,20 +423,35 @@ HEAD_FIX: dict[str, list] = {
          for t in ("CAPÍTULO VI", "Da Contribuição do Produtor Rural, do Pescador e do Garimpeiro")],
 }
 SPAN15_USED: list[str] = []
+_apply_rewrites15 = P.apply_rewrites
+
+
+def apply_rewrites(paras, act, eff, problems):
+    """the shared rewrite rules (and batch 3's 'undated' rule) run after the life spans: heading fixes come after them"""
+    out = _apply_rewrites15(paras, act, eff, problems)
+    for text, fields, why in HEAD_FIX.get(act["slug"], []):
+        for p in paras:
+            if p["heading"] and p["state"] != "plain" and p["text"] == text and p.get("end_how") == "undated":
+                p.update(fields)
+                if fields.get("end_law") and not fields.get("end"):
+                    p["end"] = eff[fields["end_law"]]
+                p["pinned"] = True
+                SPAN15_USED.append(why)
+    return out
+
+
+P.apply_rewrites = B.apply_rewrites = apply_rewrites
 _lifespans15 = P.lifespans
 
 
 def lifespans(paras, cx):
     problems = _lifespans15(paras, cx)
-    for text, fields, why in HEAD_FIX.get(cx.act, []):
-        for p in paras:
-            if p["heading"] and p["state"] != "plain" and p["text"] == text and p.get("end_how") == "undated":
-                p.update(fields)
-                if fields.get("end_law") and not fields.get("end"):
-                    p["end"] = cx.eff[fields["end_law"]]
-                p["pinned"] = True
-                SPAN15_USED.append(why)
-    return problems
+    # 'ends before it starts' problems the hand-set spans above have settled
+    bad = {f"{p['unit']} [{p['label']}]" for p in paras if p["end"] and not p.get("skip") and p["end"] < p["start"]}
+    def settled(x):
+        m = re.match(r"ends before it starts: (\S+ \[[^\]]*\]) ", x)
+        return bool(m) and m.group(1) not in bad
+    return [x for x in problems if not settled(x)]
 
 
 P.lifespans = B.lifespans = lifespans
