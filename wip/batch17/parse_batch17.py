@@ -1131,7 +1131,7 @@ if any(a["slug"] == _LMCMV for a in ACTS):
     P.MP_PENDING["mp-1382-2026"] = (
         "published 1.8.2026 (DOU), in force on publication (art. 10); on the retrieval day (31.10.2026) it was neither "
         "converted nor lapsed (CF art. 62 § 3: 60 days, extendable once by 60, the count suspended in the July recess), so its "
-        "wordings and revocations of Lei 11.977 (art. 6: arts. 8º-A, 20, 26; art. 9 I: art. 20 I to IV and §§ 1º and 1º-A, "
+        "wordings and revocations of Lei 11.977 (art. 6: arts. 8º-A, 20 and 24; art. 9 I: art. 20 I to IV and §§ 1º and 1º-A, "
         "arts. 21, 27, 27-A, 28, 30 and 30-A) stand open")
     P.MP_PENDING["mp-1350-2026"] = (
         "published 15.4.2026 (DOU), in force on publication; its art. 1 gave Lei 11.977 art. 20 IV a new wording. Medida "
@@ -1141,8 +1141,8 @@ if any(a["slug"] == _LMCMV for a in ACTS):
     for _n in ("Redação dada", "Incluído"):
         P.NOTE_FIX[f"({_n} pela Mediada Provisória nº 561, de 2012)"] = (
             f"({_n} pela Medida Provisória nº 561, de 2012)",
-            "Lei 11.977: notes read 'Mediada Provisória nº 561, de 2012'; their links go to Medida Provisória 561/2012 "
-            "(_Ato2011-2014/2012/Mpv/561.htm)")
+            f"Lei 11.977: notes read '{_n} pela Mediada Provisória nº 561, de 2012'; their links go to Medida Provisória "
+            f"561/2012 (_Ato2011-2014/2012/Mpv/561.htm)")
 
 # Lei 11.977 Capítulo III (arts. 46 to 71-A, regularização fundiária) was revoked whole by Medida Provisória 759/2016 (art.
 # 75 VI, DOU 23.12.2016) and again by Lei 13.465/2017 (art. 109 IV), its conversion. Planalto adds both revocation notes to
@@ -1253,9 +1253,15 @@ _W41 = ("Lei 11.977 art. 41: Medida Provisória 656/2014 art. 16 (DOU 8.10.2014)
 if any(a["slug"] == _LMCMV for a in ACTS):
     P.VIGENCIA_PROVISION[("mp-656-2014", _LMCMV, "art-41")] = ("2014-11-07", _W41)
     P.VIGENCIA_PROVISION[("lei-13097-2015", _LMCMV, "art-41")] = ("2015-02-19", _W41)
-    EXTRA.append(_W41 + ".")
 B8.SPAN_FIX.append(((_LMCMV, "art-41", "Parágrafo único", "Parágrafo único. O descumprimento do disposto no caput", 0),
                     {"end": "2015-02-19", "end_law": "lei-13097-2015", "end_how": "successor"}, _W41))
+B13.OPEN_ITEMS[_LMCMV] = (
+    "Lei 11.977 (open items): the text before 8.7.2009 (Medida Provisória 459/2009, of which this Lei is the conversion) is "
+    "not part of the history; Medida Provisória 1.382/2026 was pending on the retrieval day: if it lapses, the wordings it "
+    "replaced or revoked (and Medida Provisória 1.350/2026, which it revoked) come back, which the history does not show yet; "
+    "Lei 12.249/2010's effects reaching back to 16.12.2009 keep its in-force day; 'Vide' pointers (Medidas Provisórias "
+    "514/2010 and 1.382/2026 on art. 8º-A § 4º's term, Leis 12.424/2011 and 14.620/2023, decrees) strike no words and are "
+    "not modelled")
 B.EXPLAINED[_LMCMV] = {
     "titulos": "the consolidated page still prints the heading 'CAPÍTULO III' of the chapter Medida Provisória 759/2016 and "
                "Lei 13.465/2017 revoked; the annotated page strikes it with the chapter",
