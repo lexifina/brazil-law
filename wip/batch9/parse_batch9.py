@@ -80,6 +80,12 @@ B7.ACTS[:] = ACTS
 B8.ACTS[:] = ACTS
 
 ACT_DAY_ALL: dict[str, tuple[str, str]] = {
+    "lei-6015-1973": ("1976-01-01", "Lei 6.015/1973 art. 310 as enacted put it in force on 1.7.1974; Lei 6.064/1974 moved "
+                                    "that to 1.7.1975 ('Redação dada pela Lei nº 6.064, de 1974'), and Lei 6.216/1975, "
+                                    "published in the DOU of 1.7.1975, rewrote the article (renumbered art. 295, later art. "
+                                    "298): 'Esta Lei entrará em vigor no dia 1º de janeiro 1976'. The act was never in force "
+                                    "before 1.1.1976; Lei 6.216 art. 2 had it republished with its changes (DOU 16.9.1975), "
+                                    "the text Planalto's page follows ('Atualizada a partir da republicação')"),
     "lei-7347-1985": B8.ACT_DAY_ALL["lei-7347-1985"],
     "lei-9503-1997": ("1998-01-22", "Lei 9.503/1997 art. 340: 'Este Código entra em vigor cento e vinte dias após a data de "
                                     "sua publicação' (DOU 24.9.1997): 22.1.1998"),
@@ -95,6 +101,8 @@ ACT_DAY_ALL: dict[str, tuple[str, str]] = {
                                     "em vigor na data de sua publicação' (DOU 22.6.1993)"),
 }
 ACT_LAWS_ALL: dict[str, dict] = {
+    "lei-6015-1973": B._act_law("Lei nº 6.015, de 1973", "Dispõe sobre os registros públicos, e dá outras providências.",
+                                "1973-12-31", "1973-12-31", PAGES["lrp"]),
     "lei-7347-1985": B8.ACT_LAWS_ALL["lei-7347-1985"],
     "lei-8666-1993": B._act_law("Lei nº 8.666, de 1993", "Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui "
                                 "normas para licitações e contratos da Administração Pública e dá outras providências.",
