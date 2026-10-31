@@ -91,21 +91,21 @@ _LC214 = ("Lei Complementar 214/2025 art. 544: 'Esta Lei Complementar entra em v
           "partir de 1º de janeiro de 2026, em relação aos demais dispositivos'")
 MOVES: dict[str, list] = {
     "corpus.json": [
-        ("cf-1988", "ec-58-2009", "2009-09-23", [("units:art-029-a", "2010-01-01")],
+        ("constituicao", "ec-58-2009", "2009-09-23", [("units:art-029-a", "2010-01-01")],
          "Emenda Constitucional 58/2009 art. 3: 'produzindo efeitos: I - o disposto no art. 1º, a partir do processo "
          "eleitoral de 2008 [before the amendment: kept on its in-force day]; e II - o disposto no art. 2º, a partir de 1º "
          "de janeiro do ano subsequente ao da promulgação desta Emenda' (promulgated 23.9.2009): art. 2's change to art. "
          "29-A from 1.1.2010"),
-        ("cf-1988", "ec-69-2012", "2012-03-30", [(ALL, "2012-07-28")],
+        ("constituicao", "ec-69-2012", "2012-03-30", [(ALL, "2012-07-28")],
          "Emenda Constitucional 69/2012 art. 4: 'produzindo efeitos quanto ao disposto no art. 1º após decorridos 120 "
          "(cento e vinte) dias de sua publicação oficial' (DOU 30.3.2012): art. 1's changes from 28.7.2012"),
-        ("cf-1988", "ec-87-2015", "2015-04-17", [(ALL, "2016-01-01")],
+        ("constituicao", "ec-87-2015", "2015-04-17", [(ALL, "2016-01-01")],
          "Emenda Constitucional 87/2015 art. 3: 'produzindo efeitos no ano subsequente e após 90 (noventa) dias desta' "
          "(DOU 17.4.2015): from 1.1.2016"),
-        ("cf-1988", "ec-100-2019", "2019-06-27", [(ALL, "2020-01-01")],
+        ("constituicao", "ec-100-2019", "2019-06-27", [(ALL, "2020-01-01")],
          "Emenda Constitucional 100/2019 art. 4: 'produzirá efeitos a partir da execução orçamentária do exercício "
          "financeiro subsequente' (DOU 27.6.2019): from 1.1.2020"),
-        ("cf-1988", "ec-102-2019", "2019-09-27", [("not-adct", "2020-01-01")],
+        ("constituicao", "ec-102-2019", "2019-09-27", [("not-adct", "2020-01-01")],
          "Emenda Constitucional 102/2019 art. 4: 'produzirá efeitos a partir da execução orçamentária do exercício "
          "financeiro subsequente, excetuada a alteração ao Ato das Disposições Constitucionais Transitórias, que terá "
          "eficácia no mesmo exercício de sua publicação' (DOU 27.9.2019): its changes to the permanent text from 1.1.2020, "
