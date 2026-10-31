@@ -139,6 +139,88 @@ B.EXPLAINED[_LPSU] = {
               "único.' (see the word corrections)",
 }
 
+# ---------------------------------------------------------------------------------------------------------------
+# Lei do Mercado de Valores Mobiliários: Decreto nº 3.995, de 31.10.2001 (DOU 1.11.2001), an autonomous decree (CF art. 84
+# VI a, 'nas matérias reservadas a decreto') that rewrote and added provisions of Lei 6.385 on the day Lei 10.303/2001 was
+# sanctioned with those provisions vetoed. Its notes ('Redação dada pelo Decreto nº 3.995, de 31.10.2001', 'Parágrafo
+# incluído pelo Decreto ...') name a decree, which the shared law keys do not cover: key dec-<n>-<year>, kind "decree".
+import re  # noqa: E402
+
+_LCVM = "lei-do-mercado-de-valores-mobiliarios"
+DEC_REF = re.compile(r"\bDecreto(?:\s+aut[ôo]nomo)?\s+n\s*[º°o]?\s*\.?\s*([\d.]+)\s*,?\s*de\s+(?:\d{1,2}\s*\.\s*\d{1,2}\s*\.\s*)?(\d{4})",
+                     re.I)
+DECREES = {
+    "dec-3995-2001": {"enacted": "2001-10-31", "published": "2001-11-01",
+                      "title": "Altera e acresce dispositivos à Lei nº 6.385, de 7 de dezembro de 1976, que dispõe sobre o "
+                               "mercado de valores mobiliários, nas matérias reservadas a decreto."},
+}
+_law_key12, _law_label12, _page_info12, _lexml_url12 = P.law_key, P.law_label, P.page_info, P.lexml_url
+
+
+def law_key(text, year_of=None):
+    k = _law_key12(text, year_of)
+    if k is None:
+        t = P.NOTE_FIX.get(text, (text,))[0]
+        m = DEC_REF.search(t)
+        if m and not re.search(r"\bVide\b", t[:m.start()], re.I):
+            k2 = f"dec-{int(m.group(1).replace('.', ''))}-{m.group(2)}"
+            if k2 in DECREES:
+                return k2
+    return k
+
+
+def law_label(key):
+    if key.startswith("dec-"):
+        _, n, y = key.split("-")
+        return f"Decreto nº {int(n):,}, de {y}".replace(",", ".")
+    return _law_label12(key)
+
+
+def page_info(key):
+    if key not in DECREES:
+        return _page_info12(key)
+    r = P.raw("law:" + key)
+    if not r:
+        return {}
+    import hashlib
+    return {"source_url": r[1], "sha256": hashlib.sha256(r[0]).hexdigest(), **DECREES[key],
+            "clause": "Este Decreto entra em vigor na data de sua publicação"}
+
+
+def lexml_url(key, enacted):
+    return None if key.startswith("dec-") else _lexml_url12(key, enacted)
+
+
+P.law_key = B.law_key = law_key
+P.law_label = B.law_label = law_label
+P.page_info = B.page_info = page_info
+P.lexml_url = B.lexml_url = lexml_url
+P.VIGENCIA_FIXED["dec-3995-2001"] = (
+    "2001-11-01", "art. 3: 'Este Decreto entra em vigor na data de sua publicação, produzindo efeitos, em relação às "
+                  "companhias já constituídas, após decorridos cento e vinte dias daquela data' (DOU 1.11.2001)")
+P.NOTE_FIX.update({
+    "(Redação pelo Decreto nº 3.995, de 31.10.2001)": (
+        "(Redação dada pelo Decreto nº 3.995, de 31.10.2001)",
+        "Lei do Mercado de Valores Mobiliários art. 11 § 10: the note reads 'Redação pelo Decreto' ('dada' missing)"),
+})
+B8.SPAN_FIX += [
+    ((_LCVM, "art-18", "h)", "h) (VETADO)", 0), {"skip": True, "end_how": "twin"},
+     "Lei do Mercado de Valores Mobiliários art. 18 II h): Lei 10.303/2001 (in force 1.3.2002) added it as '(VETADO)', and "
+     "Lei 10.411/2002 (in force 27.2.2002) gave it its wording first; the '(VETADO)' line, which Planalto prints unstruck "
+     "above that wording, never stood as text and is left out"),
+]
+_inner12 = B6.PB5B._write_part5
+
+
+def _inner(*a):
+    for k, rec in a[1].items():
+        if k.startswith("dec-"):
+            rec["kind"] = "decree"
+    return _inner12(*a)
+
+
+B6.PB5B._write_part5 = _inner
+
 SRC = HERE / "sources_batch12.json"
 B5.SRC = SRC
 B5.PIN_FILES = B5.PIN_FILES + [SRC]
