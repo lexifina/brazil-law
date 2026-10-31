@@ -314,6 +314,11 @@ MOVES: dict[str, list] = {
          "III - a partir de 1º de janeiro de 2018, quanto aos demais dispositivos': its art. 8 (Lei 7.998 art. 3 § 4º) falls "
          "under III, from 1.1.2018"),
     ],
+    "99-batch17a.json": [
+        ("lei-do-vale-transporte", "lei-9532-1997", "1997-12-11", [(ALL, "1998-01-01")],
+         "Lei 9.532/1997 art. 82: 'Ficam revogados: [...] II - a partir de 1º de janeiro de 1998: [...] f) o art. 3º da Lei "
+         "nº 7.418, de 16 de dezembro de 1985' (with its parágrafo único): from 1.1.1998"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,
