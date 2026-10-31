@@ -145,12 +145,14 @@ def mp_pairs(paras: list[dict], cx) -> list[str]:
                     p["gaps"] = [(r_eff, r_lapse, r_key, r_fim)]
                     how = "MP 905 wording, gap while MP 955 stood"
                 p["end"], p["end_law"], p["end_how"] = m_lapse, m_fim, "mp-pair"
-            elif e_m and e_r:        # wording MP 905 revoked, back while MP 955 stood
+            elif e_m and e_r and first_copies.get(slot) != "revoked":   # wording MP 905 revoked, back while MP 955 stood
                 p["end"], p["end_law"], p["end_how"] = r_lapse, r_fim, "mp-pair"
                 p["gaps"] = [(min(e_m), r_eff, m_key, r_key)]
                 first_copies[slot] = "revoked"
+                p["mp_role"] = "revoked"
                 how = "revoked by MP 905, back while MP 955 stood"
-            else:                    # the same wording revoked again on 18.8.2020: never shown, restores after
+            else:                    # the same wording revoked again on 18.8.2020: never shown, restores after (a second
+                # copy whose notes Planalto fused into one parenthesis also names MP 955: Lei 8.213 art. 21 IV d)
                 if first_copies.get(slot) == "revoked":
                     p["start"], p["start_law"] = r_lapse, r_fim
                     p["end"], p["end_law"], p["end_how"] = m_lapse, m_fim, "mp-pair"
