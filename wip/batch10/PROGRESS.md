@@ -79,3 +79,37 @@ Most hits are legitimate (repeated '(revogado)' lines, quoted amendments, alíne
 One real fault fixed: 99-batch9 LDB art. 36-B incisos I-III doubled 2008-2023 (renumbering by Lei 14.645/2023; SPAN_FIX
 in parse_batch9.py, as LConc art. 27 here); 99-batch9 re-PUBLISHed (sha 8ddfebdc). Not reviewed one by one: CLT (115
 hits, many known), LBI 16, LRF 8, ECA 6, LRP 6 (sampled: repeated lists, legit), CPC 5; worth a pass by label.
+
+## 5. Coordinator follow-up (2026-10-31 ~04:05-04:35Z)
+
+99-batch10 v3/v3b re-PUBLISHed (10 acts, 99 versions, sha f2567df2; merged 61 acts, 1595 versions, check 0/0, compare
+identical, audit clean):
+- Lei do Saneamento Básico: san_model (parse_batch10.py; runs inside the stale_fix wrapper, after every other rule):
+  each 2007-era wording of an article MP 844/868 touched is kept once (last copy, today's place), from its first day to
+  the last copy's end, gapped while an MP that replaced it was in force (whole article if the MP rewrote the caput, else
+  same label; MP-own lines = notes 'Redação dada/Incluído pela MP'). Hand: art. 35 MP 844 incisos end at lapse; art. 11
+  § 5º-A is MP 868's; art. 52 § 1º I (2007 wording returns with Lei 14.026, SAN_FINAL). Check: batch10/.tmp/lsbinv.py
+  (every unit on 1.12.2018 and 1.7.2019 equals 8.7.2018) clean; settled replay problems filtered (SAN_SETTLED).
+- PNMA: verified against the Chamber's archived 'publicação original' (pinned ctx:camara-lei-6938-1981-original) and the
+  amending laws (batch10/.tmp/pnma_adj.py): every line matches its source; Ibama/IBAMA per Leis 9.960/10.165; art. 8 V
+  'fiananciamento' as published; art. 19 VETADO ends with Lei 7.804; consolidated page = retyped edition (EXPLAINED).
+- move_rubricas wrapper: '(NR)'/quoted/dotted closing lines stay in their article (LPPP art. 26, LSB 55-58 changed).
+- Lei do Petróleo: NOT built. 68-B/68-C done (MP 1.069 wordings end with Lei 14.292, 4.1.2022), MP fates set, ADI 4.917
+  cautelar (18.3.2013, from the archived andamentos, pinned ctx:stf-adi-4917-andamentos) as a no-words court version.
+  Blocking: Lei 12.734/2012's vetoed parts were promulgated 14.3.2013 (DOU 15.3.2013) - arts. 48 II, 49 II, 49-A..C,
+  50 § 2º, 50-A..E start then, not 30.11.2012 (the annotated page does not say so) - and MP 592/2012 (3.12.2012-13.5.2013)
+  overlaps 49-A/50-A/50-B (mixed states seen). Needs: the promulgated dispositivos from the promulgation text on Lei
+  12.734's page, old wordings to 15.3.2013, MP 592 vs promulgation order, then ADI credits only where 12.734 wording stood.
+- CLT duplicate-line review (all 115 flags): fixed via batch7/oldparts.py OLD_FIX/OLD_RANGES (arts. 379, 515, 525, 558,
+  592, 606); 70-clt re-PUBLISHed (bfe1a543). Left: the documented open units (530, 534, 538, 553, 628-A, 634, 636, 654,
+  693, 896, 902); 401 'Art. 401A/401B (VETADO)' filed in art. 401 as on the consolidated page; 758 printed 'e)' for c);
+  589 and the 1943/1976 art. 592 label repeats are legitimate (items 'I.'-'IV.' are unlabelled lines).
+- LBI (16 flags): all in quoted amendments (arts. 101-114) - legitimate. LRF (Recuperação e Falência, 8): art. 35 lists,
+  '(revogada)' lines, I-B..I-E read as 'I' - legitimate. Lei de Responsabilidade Fiscal (1): art. 20 lists - legitimate.
+- NEW FINDING, not fixed (affects published parts): batch10/.tmp/firstline.py - lines that close a quoted amendment
+  ('....." (NR)', a quoted 'Art. N') are moved into the NEXT article by parse_proc.move_rubricas in older parts: CPC
+  arts. 1061-1069, Lei 14.133 art. 178, LAI 44/45, Estatuto da Cidade 55/56, Pessoa Idosa 54/111-115, LBI 97-108, Maria
+  da Penha 44, Hediondos 7, LOC 26/288, LPI 241, Lei das Eleições 104, Código Florestal 81/82, Inquilinato 84/87,
+  Mediação 46, Startups 18, ECA 265 and others. The batch10 wrapper is the fix; applying it to parse_proc would change
+  ~15 parts (needs the coordinator's go-ahead and per-part re-verification). Also RLP arts. 294-297, CC 227/1240-A,
+  Código Eleitoral 247 ('At. 248') start with a non-caput line - to review.

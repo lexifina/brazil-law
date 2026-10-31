@@ -137,3 +137,6 @@ configured, next. Details: batch10/PROGRESS.md.
 99-batch10 v2 re-PUBLISHed ~03:55Z: + Estatuto dos Militares and Estatuto do Torcedor (repealed 2023): 8 acts, 68
 versions; merged 59 acts, 1564 versions, check 0/0, --compare identical; jurisdiction.json and README (59 acts).
 99-batch9 re-PUBLISHed ~04:05Z: LDB art. 36-B doubled incisos 2008-2023 fixed (found by batch10/.tmp/dupline.py).
+~04:35Z: 99-batch10 v3b (+ Lei do Saneamento Básico, PNMA; 10 acts, 99 versions; merged 61 acts, 1595 versions, check 0/0)
+and 70-clt (duplicate-line review fixes) re-PUBLISHed. Lei do Petróleo deferred (Lei 12.734 promulgation of vetoed parts,
+MP 592). Quoted-amendment closing lines misfiled into the next article across older parts: reported, not fixed.

@@ -549,7 +549,9 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
 def move_rubricas(out: list[dict]) -> None:
     """The Código Penal and others put a marginal heading (rubrica, "Anterioridade da Lei") on its own line before an
     article. Such a line has no label and no closing punctuation, and the next labelled line starts a new article: it
-    belongs to that article's file, as its first line, labelled "rubrica" so its wordings replace each other."""
+    belongs to that article's file, as its first line, labelled "rubrica" so its wordings replace each other.
+    A line that closes a quoted amendment (ending '(NR)', or starting with a quotation mark or a run of dots) is never a
+    rubrica: it stays in the article that quotes it (counted in RUBRICA_KEPT for the decisions)."""
     for i, p in enumerate(out):
         if p["heading"] or p["label"] or not p["unit"].startswith(("art-", "preambulo")) or re.search(r"[.;:,]$", p["text"]) or p["text"].startswith("Pena "):
             continue
@@ -559,8 +561,29 @@ def move_rubricas(out: list[dict]) -> None:
             if not q["label"] and not re.search(r"[.;:,]$", q["text"]):
                 continue  # another rubrica (an older wording, struck)
             if q["label"].startswith("Art.") and q["unit"] != p["unit"]:
-                p["unit"], p["label"] = q["unit"], "rubrica"
+                if closes_quote(p["text"]):
+                    RUBRICA_KEPT.append(p["text"][:40])
+                else:
+                    p["unit"], p["label"] = q["unit"], "rubrica"
             break
+
+
+RUBRICA_KEPT: list[str] = []
+
+
+def closes_quote(text: str) -> bool:
+    """A line that closes (or continues) an amendment quoted from another law: '.....\" (NR)', '"Art. 5º ...', or one
+    ending with the closing quotation mark ('6º) a perda e a suspensão do pátrio poder. "')."""
+    return (bool(re.search(r"\(NR\)\s*$", text)) or text.lstrip().startswith(('"', "“", "...", "…"))
+            or text.rstrip().endswith(('"', "”")))
+
+
+def rubrica_decision() -> list[str]:
+    if not RUBRICA_KEPT:
+        return []
+    return ["Lines that close a quoted amendment ('.....\" (NR)', a quoted article, or a line ending with the closing quotation mark) are kept in the article that quotes "
+            "them; the marginal-heading rule, which moves an unlabelled line without closing punctuation into the next "
+            "article, does not apply to them (" + str(len(RUBRICA_KEPT)) + " lines)."]
 
 
 def heading_groups(out: list[dict]) -> None:
@@ -1358,6 +1381,7 @@ def main(argv: list[str]) -> int:
     if a.dry:
         return 0
     # ... corpus part written below
+    decisions += rubrica_decision()
     return write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp_notes(infos, eff))
 
 
