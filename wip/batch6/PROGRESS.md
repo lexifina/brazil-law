@@ -75,3 +75,40 @@ amendments). Worth a look by their owners.
 Lei 8.666/1993 (revoked 30.12.2023: needs an act-end), LINDB (del4657), Lei da Ação Civil Pública (7.347), Crimes Hediondos
 (8.072), Código de Trânsito (9.503), LDB (9.394), Lei 8.080, Estatuto da Pessoa com Deficiência (13.146), Lei das Eleições
 (9.504), Código Florestal (12.651), Lei de Registros Públicos (6.015), Lei 12.850, Lei 9.279, Lei 9.610, plus EDes/LLav above.
+
+## Stale-wording fix across the older parts (coordinator task, 2026-10-31 01:10-03:00Z)
+
+Problem: a duplicate-label check (batch7/.tmp/dupcheck.py, dupdetail.py, dupspan.py) found units where two wordings of
+one dispositivo stood at once in some versions (CLT ~54 units, CP art. 216/272/273, CPC art. 988/1042 (2016-2026!),
+CPP art. 35, CDC art. 57, CTN art. 71, RJU art. 68; later also LLC art. 193, LAC art. 16/30, CC art. 1.769, LRF art. 21).
+
+Fix: batch7/stale_fix.py, rules applied to each act's final life spans just before build_act (each use in decisions):
+- A: a wording ends no later than the next wording of the same dispositivo (also a same-day law, SAME_DAY_LAWS, or the
+  act's own text replaced by a law in force on its first day); lines under it that ended with it end with it. Lines
+  with gaps or pinned by the CLT's MP 905/955 model are left alone.
+- B: twin wordings (same label, same parent label, same start, below a struck copy): word-for-word copies or unnoted new
+  wordings start on the first day no other wording of that dispositivo (same parent) stands, or with the restored caput
+  of the article; a struck lower copy that never stands alone, and an unended upper copy of a noted struck wording,
+  are left out.
+- D: unnoted unstruck line under an 'Incluído' parent starts with it, only where an older wording under the same label
+  is printed struck (CLT art. 678, ECA art. 4; not ECA art. 91).
+- G: an unstruck wording printed above a later struck MP wording that ended by conversion/lapse gets a gap (RJU 68).
+- L: 'Artigo 896 - ...' read as the caput (CLT).
+- Tried and dropped: a struck-block rule (dated unnoted struck lines by the struck caput above: wrong for CP art. 180 §§
+  1-3, which Planalto prints once under the 1955 caput) and an identical-line rule (CPC art. 932 IV/V a), b) are legit).
+How the older parts are rebuilt now: `python -X utf8 scripts/brazil-law/batch7/oldparts.py <50-codes|60-phase2|70-clt|
+80-proc|90-batch3|95-rju>` (wraps the part's own parser; published source notes/ai_use from batch7/published_text.json,
+which keeps the privacy-cleaned texts the parts were published with). batch5/5b/7 parsers apply the rules in their own
+__main__ / module (BATCH5_OUT / BATCH5B_OUT env for trial output).
+Cache: the older parts' archive.org pins were refetched (batch7/refetch_old.py, 734 pages, 0 failed); LexML records for
+the parts that use them refetched one at a time 5 s apart (batch7/fetch_lexml.py; LexML answers 503 for some URNs).
+Never run an older parser without an OUT override while investigating: a regenerated part in corpus.d is picked up by
+autopush (one check failed at 01:37Z for that reason; nothing was pushed).
+Open in CLT (listed in its decisions): arts. 530, 534, 538, 654, 693, 896, 902 (1940s-50s unnoted superseded blocks) and
+553, 628-A, 634, 636 (days around MP 905/955). Today's text unaffected.
+
+Deferred acts, facts found:
+- Estatuto do Desarmamento: MP 379/2007 revoked by MP 390/2007 (converted, Lei 11.579/2007); MP 394/2007 (DOU
+  21.9.2007, republished 24.9.2007): efficacy suspended by an STF liminar in ADI 3.964 (date still needed), declared
+  prejudicada 7.2.2013 (Chamber record, archive copy); MP 417/2008 -> Lei 11.706/2008.
+- Lei de Lavagem: COAF arts. 14/16 chain, see earlier notes.
