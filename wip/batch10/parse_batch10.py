@@ -173,6 +173,89 @@ B9.FOLD_EARLY.clear()
 P.COURTS = {}
 P.NOTE_FIX = {}
 
+# ---------------------------------------------------------------------------------------------------------------
+# An act's own vetoed parts promulgated after Congress overrode the veto (CF art. 66 §§ 5 and 7). Planalto prints the
+# '(VETADO)' line (struck, or not) and then the promulgated wording with the note '(Promulgação partes vetadas)', and the
+# promulgation text itself after the act's signature. A printed line is promulgated when its words are in that text (in
+# a dispositivo that carries the note); it starts on the promulgation's DOU day, credited to the act's own law, and the
+# '(VETADO)' line it replaces stands until then. act slug -> (DOU day, the act's law, why)
+OWN_PROMULGATION: dict[str, tuple[str, str, str]] = {
+    "lei-geral-do-esporte": (
+        "2024-05-22", "lei-14597-2023",
+        "Lei Geral do Esporte: Congress overrode vetoes of Lei 14.597/2023 and the President promulgated those parts on "
+        "21.5.2024 (DOU 22.5.2024; the text is printed at the end of Planalto's page): each promulgated dispositivo "
+        "(arts. 15, 27 parágrafo único, 34 parágrafo único, 36 § 1º, 37, 40 to 49 with the headings of Seções II and III "
+        "of their chapter, 86 § 12, 153, 160 § 1º, 212 and the others the promulgation text names) takes effect on "
+        "22.5.2024, credited to Lei 14.597/2023, and its '(VETADO)' line stands until then"),
+    "lei-de-abuso-de-autoridade": (
+        "2019-09-27", "lei-13869-2019",
+        "Lei de Abuso de Autoridade: the parts of Lei 13.869/2019 vetoed on 5.9.2019 were promulgated after Congress "
+        "overrode the veto (DOU 27.9.2019, edição extra), before the act took effect on 3.1.2020, so they are part of its "
+        "first version and the '(VETADO)' lines never stood"),
+}
+OWN_PROMULGATION_USED: list[str] = []
+_lifespans10 = P.lifespans
+
+
+def _flat(s: str) -> str:
+    import re as _re
+    s = s.replace("“", '"').replace("”", '"').replace("‘", "'").replace("’", "'")
+    return _re.sub(r"[\s\"']+", " ", s).strip()
+
+
+def _promulgation_text(page: str) -> str:
+    import html as _h
+    import re as _re
+    keep = B8.CURRENT_PAGE[0]
+    raw = P.raw(page)
+    B8.CURRENT_PAGE[0] = keep
+    t = P.decode(raw[0])
+    t = _re.sub(r"(?is)<script.*?</script>|<style.*?</style>", " ", t)
+    t = _h.unescape(_re.sub(r"<[^>]+>", " ", t))
+    m = _re.search(r"Brasília,\s+\d", t)   # the act's own signature; the promulgation text follows it
+    return _flat(t[m.end():]) if m else ""
+
+
+def lifespans(paras, cx):
+    problems = _lifespans10(paras, cx)
+    hit = OWN_PROMULGATION.get(cx.act)
+    if not hit:
+        return problems
+    day, law, why = hit
+    act = next(a for a in ACTS if a["slug"] == cx.act)
+    text = _promulgation_text(act["page"])
+    noted = {p["unit"] for p in paras if any("Promulgação partes vetadas" in n for n in p["notes"])}
+    promulgated = set()
+    for i, p in enumerate(paras):
+        if p["unit"] not in noted or p["state"] != "plain" or p.get("skip") or "(VETADO)" in p["text"]:
+            continue
+        body = _flat(P.norm(p["text"]))
+        if len(body) < 8 or body not in text:
+            continue
+        promulgated.add((p["unit"], p["label"]))
+        if day > cx.act_day:
+            p["start"], p["start_law"], p["start_how"], p["pinned"] = day, law, "promulgation", True
+    for p in paras:
+        if (p["unit"], p["label"]) in promulgated and "(VETADO)" in p["text"] and p["state"] != "plain" and day > cx.act_day:
+            p["skip"] = False
+            p["start"], p["start_law"] = cx.act_day, None
+            p["end"], p["end_law"], p["end_how"], p["pinned"] = day, law, "promulgation", True
+    if promulgated:
+        OWN_PROMULGATION_USED.append(why)
+    return problems
+
+
+P.lifespans = B.lifespans = lifespans
+_inner10 = B6.PB5B._write_part5
+
+
+def _inner(*a) -> int:
+    B5.EXTRA_DECISIONS.extend(x + "." for x in dict.fromkeys(OWN_PROMULGATION_USED))
+    return _inner10(*a)
+
+
+B6.PB5B._write_part5 = _inner
+
 SRC = HERE / "sources_batch10.json"
 B5.SRC = SRC
 B5.PIN_FILES = B5.PIN_FILES + [SRC]
