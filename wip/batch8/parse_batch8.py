@@ -211,7 +211,7 @@ B5.PIN_FILES = B5.PIN_FILES + [SRC]
 B6.CONTEXT[:] = []
 
 # ---------------------------------------------------------------------------------------------------------------
-# STF rulings (batch 3's COURTS format). Dates from the STF's own case records, read from archive copies (pinned as
+# STF rulings (batch 3's COURTS format). Dates from the STF's own case records, read from dated copies (pinned as
 # ctx:* in sources_batch8.json); see each 'why'.
 P.COURTS = {
     "stf-adi-3964": {
@@ -222,7 +222,7 @@ P.COURTS = {
         "from": "2007-12-12", "case": r"3\.?964", "where": [],
         "why": "STF, ADI 3.964 MC (Plenário, 12.12.2007): 'O Tribunal, por maioria, nos termos do voto do Relator, deferiu "
                "a medida cautelar para suspender a eficácia da Medida Provisória nº 394, de 20 de setembro de 2007' (the "
-               "STF's case summary, archived 18.7.2014; acórdão DJ 11.4.2008). MP 394 had rewritten only Estatuto do "
+               "STF's case summary of ADI 3.964 as of 18.7.2014; acórdão DJ 11.4.2008). MP 394 had rewritten only Estatuto do "
                "Desarmamento art. 5 § 3º (and the table of fees in its annex, not modelled); with its efficacy "
                "suspended the wording in force before it applies again (Lei 9.868/1999 art. 11 § 2). The STF summary "
                "gives the session day and the acórdão's DJ, not the DJ day of the session's ata, so the change is "
