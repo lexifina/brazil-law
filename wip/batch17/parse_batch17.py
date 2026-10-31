@@ -1414,6 +1414,17 @@ if any(a["slug"] == _LCADIN for a in ACTS):
         "2023-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 41, de 2023 (DOU 16.6.2023): 'teve seu "
                       "prazo de vigência encerrado no dia 1º de junho de 2023'; the provision it had revoked is back from "
                       "2.6.2023")
+for _w, _r in (("Lei no 8.981", "Lei nº 8.981"), ("Decreto no 70.235", "Decreto nº 70.235"), ("Lei no 10.480", "Lei nº 10.480"),
+               ("Lei no 11.457", "Lei nº 11.457")):
+    B15.TEXT_FIX.append(("l10522", _w, _r, "Lei 10.522 arts. 17, 32 and 37-B: the annotated page prints the ordinal sign of "
+                         "'nº' as a plain 'o' ('Lei no 8.981') where the consolidated page prints 'nº'"))
+B15.TEXT_FIX.append(("l10522", "a critério exclusivo da autoridade fazendária$", "a critério exclusivo da autoridade fazendária:",
+                     "Lei 10.522 art. 20-D caput: the annotated page drops the closing colon before incisos I-III, which Lei "
+                     "13.606's own text and the consolidated page print"))
+B.EXPLAINED[_LCADIN] = {
+    "art-20-b": "the annotated page ends the caput with a full stop ('nela indicados.'); the consolidated page and Lei 13.606's "
+                "own page print none; the annotated page's text is kept",
+}
 B13.OPEN_ITEMS[_LCADIN] = (
     "Lei 10.522 (open items): the text before 22.7.2002 (Medida Provisória 2.176-79/2001 and its earlier editions, of which "
     "this Lei is the conversion) is not part of the history; the STF's judgment in ADIs 5.881, 5.886, 5.890, 5.925, 5.931 and "
