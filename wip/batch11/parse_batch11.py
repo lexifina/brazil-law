@@ -194,6 +194,8 @@ P.VETO_PROMULGATION = {
                                      "13.964 page): Lei de Interceptação Telefônica art. 8º-A §§ 2º and 4º read '(VETADO)' "
                                      "until then"),
 }
+P.VETO_PROMULGATED_UNITS = {"lei-13964-2019": {("lei-de-interceptacao-telefonica", "art-08-a", "§ 2º"),
+                                                  ("lei-de-interceptacao-telefonica", "art-08-a", "§ 4º")}}
 P.VIGENCIA_PROVISION.update({
     ("mp-871-2019", "lei-organica-da-assistencia-social", "art-20"): (
         "2019-04-18", "Medida Provisória nº 871/2019 art. 34 I: its change to art. 20 § 13 in force 90 days after publication "
