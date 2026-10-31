@@ -728,7 +728,28 @@ def _art25_order(paras, eff):
                        "13.9.2017")
 
 
-ARTICLE_FIX: dict[str, list] = {_C: [_art55, _art25_order]}
+def _art20(paras, eff):
+    """Lei 8.212 art. 20's tables: 1991 (original page) to Lei 9.032/1995; Lei 9.032's (original page) to Lei 9.129/1995;
+    Lei 9.129's (the annotated page's, followed there by '(Valores e alíquotas dados pela Lei nº 9.129, de 20.11.95)')."""
+    d9032, d9129 = eff["lei-9032-1995"], eff["lei-9129-1995"]
+    for p in paras:
+        if p["unit"] != "art-020" or p["label"] or p["heading"]:
+            continue
+        if p.get("t9032"):
+            p.update({"start": d9032, "start_law": "lei-9032-1995", "end": d9129, "end_law": "lei-9129-1995",
+                      "end_how": "successor", "skip": False, "gaps": [], "pinned": True})
+        elif p.get("orig_insert"):
+            p.update({"start": P.ACT_DAY["lei-8212-1991"][0], "start_law": None, "end": d9032, "end_law": "lei-9032-1995",
+                      "end_how": "successor", "skip": False, "gaps": [], "pinned": True})
+        elif p["state"] == "plain":
+            p.update({"start": d9129, "start_law": "lei-9129-1995", "pinned": True})
+    SPAN15_USED.append("Lei 8.212 art. 20's rate table: the 1991 table (original page) stands to Lei 9.032/1995 (29.4.1995), "
+                       "Lei 9.032's table (original page; 'até R$ 249,80 [...] até R$ 836,90') to Lei 9.129/1995 (21.11.1995), "
+                       "and the table the annotated page prints ('até 249,80 [...] até 832,66', followed there by "
+                       "'(Valores e alíquotas dados pela Lei nº 9.129, de 20.11.95)', and in Lei 9.129's own text) from then")
+
+
+ARTICLE_FIX: dict[str, list] = {_C: [_art55, _art25_order, _art20]}
 
 
 P.apply_rewrites = B.apply_rewrites = apply_rewrites
@@ -761,6 +782,16 @@ def _inner(*a):
         dec.append("Lei 8.212: Planalto's pages set each Título and Capítulo name as an unaligned paragraph inside a centred "
                    "block (only the 'TÍTULO I' line itself is centred text); these names are read as heading lines, as "
                    "displayed, not as marginal headings of the following article.")
+    if ORIGINAL_USED:
+        dec.append("Lei 8.212 arts. 20, 26, 36, 68 and 94: Planalto's annotated page prints only later wordings of these "
+                   "articles, not their 1991 text; the 1991 wording is read from Planalto's page of the act as enacted "
+                   "(L8212orig.htm, which strikes it above the later wording; for art. 94 it prints it unstruck) and "
+                   "placed struck above the first wording the annotated page prints, which ends it (art. 36: revoked by "
+                   "Lei 8.218/1991): " + ", ".join(ORIGINAL_USED) + ".")
+    if TABLES:
+        dec.append("Tables printed inside articles (" + ", ".join(f"{k} {v}" for k, v in sorted(TABLES.items())) + "): "
+                   "Planalto centres their cells; each cell is a line of the article it is printed in (as in the CLT's "
+                   "art. 580), not a heading line.")
     if LETTER_ARTS:
         dec.append("Articles Planalto prints with the letter but no hyphen ('Art. 22A.', 'Art. 22B.', 'Art. 25A.') are "
                    "articles of their own (art-022-a, ...), labelled 'Art. 22-A' like the rest of the corpus: "
