@@ -516,10 +516,11 @@ FOREIGN_DROPPED: list[str] = []
 QUOTED_HEADINGS: list[str] = []
 # Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº N, de d de m de aaaa.': words of
 # the article (which wording of another act it refers to), not an amendment note; the reader takes them for a bare note.
-BARE_TEXT = {"l7689": "art-11", "l9249": "art-14"}
+BARE_TEXT = {"l7689": "art-11", "l9249": "art-14", "l9430": "art-88"}
 BARE_TEXT_USED: list[str] = []
 QUOTE_DROPPED: list[str] = []
-_BARE_RX = re.compile(r"\(?\s*(reda[çc][ãa]o dada pelo Decreto-Lei n[º°.]?\s*[\d.]+, de \d{1,2} de \w+ de \d{4}\.?)\s*\)?", re.I)
+_BARE_RX = re.compile(r"\(?\s*(reda[çc][ãa]o dada pel[oa] (?:Decreto-Lei|Lei) n[º°.]?\s*[\d.]+, de \d{1,2} de \w+ de \d{4}[.;]?)\s*\)?",
+                      re.I)
 _paragraphs17 = P.paragraphs
 
 
@@ -545,6 +546,19 @@ def paragraphs(html, digits):
                 p["text"] = p["text"].rstrip() + " " + m.group(1)
                 p["notes"] = [x for x in p["notes"] if x != n]
                 BARE_TEXT_USED.append(f"{page} {p['unit']}")
+    if page == "l9430":
+        # Lei 9.430: Planalto's marker '(Sem eficácia)' after struck lines whose change never took effect or lapsed (Medidas
+        # Provisórias 252/2005, 303/2006, 478/2009) is not part of the text; a line of the marker alone is dropped
+        keep = []
+        for p in out:
+            t = re.sub(r"\s*\(\s*Sem efic[áa]cia\s*\)\s*$", "", p["text"])
+            if t != p["text"]:
+                L9430_FIXED.append(p["unit"])
+                p["text"] = t
+                if not P.norm(t):
+                    continue
+            keep.append(p)
+        out = keep
     if page == "l9249":
         # Lei 9.249 art. 9 caput as Medida Provisória 694/2015 worded it: the page leaves the opening quotation mark of the
         # MP's quoted text before the line ('“ Art. 9º [...]'), so the line had no label
@@ -611,6 +625,7 @@ def paragraphs(html, digits):
 
 
 L9250_FIXED: list[str] = []
+L9430_FIXED: list[str] = []
 EMPTY_ITEM_PAGES = {"l9250", "l7713"}
 EMPTY_ITEMS: list[str] = []
 P.paragraphs = B.paragraphs = paragraphs
@@ -878,11 +893,11 @@ if any(a["slug"] == _L9430 for a in ACTS):
         "(Redação dada pela Lei nº 12.715, de 2012)", "Lei 9.430: the note reads 'Redação dada pela nº 12.715, de 2012' (the "
                                                       "word 'Lei' is missing)")
     P.VIGENCIA_FIXED["lei-14596-2023"] = (
-        "2024-01-01", "art. 49: 'Esta Lei entra em vigor em 1º de janeiro de 2024, exceto o art. 45, que entra em vigor na data "
-                      "de sua publicação' (DOU 15.6.2023); its art. 46, the revocation of Lei 9.430 arts. 18 to 24-A (and the "
-                      "new wordings of arts. 24-A and 24-B, art. 46's companion articles), falls under the rule; the option "
-                      "of art. 45 (rules applied from 1.1.2023 to taxpayers who chose them) is a taxpayer's choice, not a "
-                      "day of the law")
+        "2024-01-01", "art. 47: 'Esta Lei entra em vigor em 1º de janeiro de 2024, exceto o art. 45, que entra em vigor na data "
+                      "de sua publicação' (DOU 15.6.2023): its art. 40 (Lei 9.430 arts. 24 and 24-A) and art. 46 VI ('Ficam "
+                      "revogados, a partir de 1º de janeiro de 2024 [...] arts. 18 a 23; e [...] § 2º do art. 24') from "
+                      "1.1.2024; the option of art. 45 (the rules applied from 1.1.2023 to taxpayers who chose them) is a "
+                      "taxpayer's choice, not a day of the law")
     _W12715 = ("Lei 12.715/2012 art. 78 § 1º: 'Os arts. 48 e 50 entram em vigor em 1º de janeiro de 2013' (DOU 18.9.2012): "
                "art. 48 (Lei 9.430 arts. 12, 18, 19 and 22) and art. 50 (arts. 18-A and 19-A); its arts. 49 and 51 (arts. 20, "
                "20-A, 20-B and 28) are in force on publication")
@@ -1039,6 +1054,14 @@ def _inner(*a):
                    "are left out; the name lines of Capítulos II-A and III-A start with the 'CAPÍTULO' line above them, which "
                    "carries Lei 15.270's note; Planalto's marker 'Sem eficácia' after the struck lines of "
                    "Medida Provisória 252/2005 in art. 22 is not part of the text (" + "; ".join(dict.fromkeys(L9250_FIXED)) + ").")
+    if L9430_FIXED:
+        dec.append("Lei 9.430: Planalto's marker '(Sem eficácia)' after struck lines (wordings of Medidas Provisórias 252/2005, "
+                   "303/2006 and 478/2009 that lapsed or never took effect, and the 1996 lines they touched) is not part of the "
+                   "text and is left out (" + ", ".join(dict.fromkeys(L9430_FIXED)) + ").")
+    if HEADS_USED:
+        dec.append("Lei 9.430: the headings above arts. 18 to 22 (" + "; ".join(f"'{x}'" for x in dict.fromkeys(HEADS_USED))
+                   + "), struck with no note, fall with the articles under them, revoked by Lei 14.596/2023 from 1.1.2024 "
+                   "(its art. 46 VI), not with the first change of the article each heads.")
     if EMPTY_ITEMS:
         dec.append("Struck items printed with a label and only the note '(Vide Medida nº 340, de 2006)', and no words, are "
                    "pointers, not wordings, and are left out (" + ", ".join(dict.fromkeys(EMPTY_ITEMS)) + ").")
