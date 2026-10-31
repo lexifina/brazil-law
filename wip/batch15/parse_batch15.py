@@ -296,7 +296,7 @@ _MP664 = ("art. 5: 'Esta Medida Provisória entra em vigor: I - na data de sua p
           "publicação para o § 2º do art. 74 da Lei nº 8.213, de 1991; e III - no primeiro dia do terceiro mês subseqüente à "
           "data de publicação desta Medida Provisória quanto aos demais dispositivos' (DOU 30.12.2014)")
 P.VIGENCIA_FIXED.update({
-    "lei-10877-2004": ("2004-06-07", "art. 3: 'Esta Lei entra em vigor na data da sua publicação' (DOU 7.6.2004; the page "
+    "lei-10877-2004": ("2004-06-07", "art. 2: 'Esta Lei entra em vigor na data da sua publicação' (DOU 7.6.2004; the page "
                                      "breaks the clause after 'publi', so it is set here)"),
     "mp-664-2014": ("2015-03-01", _MP664 + ": its other changes to Lei 8.213 fall under III, 1.3.2015; I and II by "
                                            "provision"),

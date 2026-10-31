@@ -87,6 +87,17 @@
     "offset": "20254115",
     "length": "6833"
    }
+  },
+  {
+   "id": "law:mp-404-2007",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Mpv/404.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261008045923",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054273.70/warc/CC-MAIN-20261008030835-20261008060835-00384.warc.gz",
+    "offset": "805899405",
+    "length": "4016"
+   }
   }
  ]
 }
