@@ -352,6 +352,14 @@ B8.SPAN_FIX += [
      "Lei do Saneamento Básico art. 11 § 5º-A: Planalto prints it struck with only the note '(Vigência encerrada)'; it is "
      "MP 868/2018's (its text adds this § 5º-A), in force from 28.12.2018 until the MP lapsed, 4.6.2019"),
 ]
+B9.WORD_FIX[:] = [
+    ("pnma", "condicional, e a perda ou suspensão de participação em linhas de financiamento",
+     "condicional, e a perda ou suspensão de participação em linhas de fiananciamento",
+     "Política Nacional do Meio Ambiente art. 8 V: the annotated page prints 'linhas de financiamento'; the act as published "
+     "(DOU 2.9.1981, the Chamber of Deputies' reproduction of the original publication) reads 'linhas de fiananciamento', "
+     "and Lei 7.804/1989 changed only the body named in the inciso ('da SEMA' to 'do IBAMA'); the history keeps the "
+     "published words, as Planalto's consolidated page does"),
+]
 B.EXPLAINED.update({
     _E: {"art-098": "the consolidated page keeps the placeholder 'XIV -;' for the inciso Lei 9.297/1996 revoked; the history "
                     "leaves revoked text out",
@@ -423,6 +431,12 @@ PNMA_CASE: list[str] = []
 _LAWTEXT: dict[str, str] = {}
 
 
+def _loose(t: str) -> str:
+    """Words only, for finding a line in an act's text: case kept, punctuation, dashes and 'nº'/'n o' spacing dropped."""
+    t = t.replace("nº", "no").replace("n o ", "no ").replace("n º", "no")
+    return re.sub(r"[^0-9A-Za-zÀ-ÿ]+", "", t)
+
+
 def _law_text(law: str) -> str:
     import html as _h
     if law not in _LAWTEXT:
@@ -440,8 +454,8 @@ def lifespans(paras, cx):
     if cx.act == "politica-nacional-do-meio-ambiente":
         for p in paras:
             if p["start_law"] in ("lei-9960-2000", "lei-10165-2000") and "IBAMA" in p["text"]:
-                src = _law_text(p["start_law"])
-                body = lambda x: _flat(re.sub(r"^(Art\.\s*\S+|§\s*\S+|Parágrafo único|[IVXL]+\s*-)\s*", "", P.norm(x)))
+                src = _loose(_law_text(p["start_law"]))
+                body = lambda x: _loose(re.sub(r"^(Art\.\s*\S+|§\s*\S+|Parágrafo único|[IVXL]+\s*-)\s*", "", P.norm(x)))
                 fixed = p["text"].replace("IBAMA", "Ibama")
                 if body(fixed) in src and body(p["text"]) not in src:
                     p["text"] = fixed
