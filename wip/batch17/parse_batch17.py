@@ -144,7 +144,7 @@ def renum_articles(paras, act):
     for i, p in enumerate(paras):
         if p["heading"] or p.get("skip") or p["unit"] not in old_of:
             continue
-        if first is None:
+        if first is None and any(_RENUM_RX.search(n) for n in p["notes"]):
             first = i
         if p["start"] > day or (p["end"] is not None and p["end"] <= day):
             continue
@@ -164,6 +164,32 @@ def renum_articles(paras, act):
     for i, p in enumerate(paras):
         p["i"] = i
 
+
+# Lei 605/1949: Planalto's page prints two lines with no note and no label, 'Descanso semanal' above art. 1 and
+# 'Harmonização de multas trabalhistas constantes de legislações esparsas' above art. 12. They are the headings of
+# Medida Provisória 905/2019's own articles (its art. 29 and the heading above it, read on the MP's page), copied onto the
+# page with MP 905's wordings; they are not words of Lei 605 and are left out.
+FOREIGN_RUBRICS = {"l0605": ("Descanso semanal", "Harmonização de multas trabalhistas constantes de legislações esparsas")}
+FOREIGN_DROPPED: list[str] = []
+_paragraphs17 = P.paragraphs
+
+
+def paragraphs(html, digits):
+    page = B8.CURRENT_PAGE[0]
+    out, rest = _paragraphs17(html, digits)
+    drop = FOREIGN_RUBRICS.get(page)
+    if drop:
+        keep = []
+        for p in out:
+            if not p["label"] and not p["notes"] and P.norm(p["text"]) in drop:
+                FOREIGN_DROPPED.append(f"{page}: {P.norm(p['text'])!r}")
+                continue
+            keep.append(p)
+        out = keep
+    return out, rest
+
+
+P.paragraphs = B.paragraphs = paragraphs
 
 _apply_rewrites17 = P.apply_rewrites
 
@@ -188,6 +214,12 @@ def _inner(*a):
                    "their new numbers, noted '(Renumerado do art. N, pela Lei 7.619, de 30.9.1987)'; each stands under its old "
                    "number, with the lines it had then, from 17.12.1985 to 1.10.1987: " + ", ".join(dict.fromkeys(RENUM_ART_USED))
                    + ".")
+    if FOREIGN_DROPPED:
+        dec.append("Lei 605: two unlabelled lines Planalto prints with no note, 'Descanso semanal' (above art. 1) and "
+                   "'Harmonização de multas trabalhistas constantes de legislações esparsas' (above art. 12), are the "
+                   "headings of Medida Provisória 905/2019's own provisions (above its art. 29 and its new art. 12 wording, as "
+                   "printed on the MP's page), copied onto the page with MP 905's wordings; they are not words of Lei 605 and "
+                   "are left out.")
     B5.EXTRA_DECISIONS.extend(dec)
     return _inner17(*a)
 
