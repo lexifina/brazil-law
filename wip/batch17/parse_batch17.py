@@ -140,6 +140,8 @@ ALL_ACTS: list[dict] = [
          "Legislação tributária federal (Lei nº 9.430, de 27 de dezembro de 1996)", 2),
     _act("lei-da-regularizacao-fundiaria", "LREURB", "l13465", "l13465", "lei-13465-2017",
          "Lei da Regularização Fundiária Rural e Urbana (Lei nº 13.465, de 11 de julho de 2017)", 2),
+    _act("lei-minha-casa-minha-vida", "LMCMV", "l11977", "l11977-compilado", "lei-11977-2009",
+         "Programa Minha Casa, Minha Vida (Lei nº 11.977, de 7 de julho de 2009)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -156,6 +158,7 @@ PARTS: dict[str, list[str]] = {
     "j": ["lei-7713-de-1988"],
     "k": ["lei-9430-de-1996"],
     "l": ["lei-da-regularizacao-fundiaria"],
+    "m": ["lei-minha-casa-minha-vida"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -213,6 +216,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                     "effects only, so the in-force day"),
     "lei-13465-2017": ("2017-07-12", f"Lei 13.465/2017 art. 108: {_PUB} (DOU 12.7.2017, rectified 6.9.2017; the "
                                      "consolidated text republished in the DOU of 8.9.2017)"),
+    "lei-11977-2009": ("2009-07-08", f"Lei 11.977/2009 art. 83: {_PUB} (DOU 8.7.2009)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -298,6 +302,11 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "de créditos concedidos aos assentados da reforma agrária e sobre a regularização fundiária no âmbito "
                          "da Amazônia Legal; institui mecanismos para aprimorar a eficiência dos procedimentos de alienação de "
                          "imóveis da União; e dá outras providências.", "2017-07-11", "2017-07-12", PAGES["l13465"]),
+    "lei-11977-2009": _L("Lei nº 11.977, de 2009", "Dispõe sobre o Programa Minha Casa, Minha Vida – PMCMV e a regularização "
+                         "fundiária de assentamentos localizados em áreas urbanas; altera o Decreto-Lei nº 3.365, de 21 de junho "
+                         "de 1941, as Leis nºs 4.380, de 21 de agosto de 1964, 6.015, de 31 de dezembro de 1973, 8.036, de 11 de "
+                         "maio de 1990, e 10.257, de 10 de julho de 2001, e a Medida Provisória nº 2.197-43, de 24 de agosto de "
+                         "2001; e dá outras providências.", "2009-07-07", "2009-07-08", PAGES["l11977"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
