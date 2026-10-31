@@ -148,7 +148,6 @@ def conv_children(paras, cx, record=True):
         fate = cx.mp.get(par["end_law"]) or {}
         if fate.get("converted") != p["end_law"]:
             continue
-        mp_no = P.law_label(par["end_law"]) if hasattr(P, "law_label") else par["end_law"]
         if any(P.law_key(n, cx.mp.get("_years")) == par["end_law"] for n in p["notes"]):
             continue
         p["end"], p["end_law"], p["end_how"] = par["end"], par["end_law"], "parent"
@@ -159,20 +158,42 @@ def conv_children(paras, cx, record=True):
 _lifespans16 = P.lifespans
 
 
+_CX: list = [None]
+
+
 def lifespans(paras, cx):
     problems = _lifespans16(paras, cx)
+    _CX[0] = cx
     conv_children(paras, cx)
     return problems
 
 
+_apply_rewrites16 = P.apply_rewrites
+
+
+def apply_rewrites(paras, act, eff, problems):
+    out = _apply_rewrites16(paras, act, eff, problems)
+    if _CX[0] is not None and _CX[0].act == act["slug"]:
+        conv_children(paras, _CX[0], record=False)
+    return out
+
+
 P.lifespans = B.lifespans = lifespans
+P.apply_rewrites = B.apply_rewrites = apply_rewrites
 
 # ---------------------------------------------------------------------------------------------------------------
 _inner16 = B6.PB5B._write_part5
 
 
 def _inner(*a):
-    B5.EXTRA_DECISIONS.extend(EXTRA)
+    dec = list(EXTRA)
+    if CONV_CHILD_USED:
+        dec.append("Código Brasileiro de Aeronáutica: where Medida Provisória 1.089/2021 revoked whole articles or sections (its "
+                   "art. 5 IV: 'os art. 73 a art. 76', 'a Seção II do Capítulo V do Título III', 'os art. 116 e art. 117', "
+                   "...), Planalto notes the MP's revocation on the caput only and on the lines under it only the revocation "
+                   "by Lei 14.368/2022, its conversion; those lines fall with the caput on the MP's day (30.12.2021): "
+                   + ", ".join(dict.fromkeys(CONV_CHILD_USED)) + ".")
+    B5.EXTRA_DECISIONS.extend(dec)
     return _inner16(*a)
 
 
