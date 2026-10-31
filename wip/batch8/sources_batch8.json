@@ -1,6 +1,17 @@
 {
  "fetch": [
   {
+   "id": "ato:adc-43-2024",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Congresso/adc-43-mpv1.207.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260916153342",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492999466.98/warc/CC-MAIN-20260916144802-20260916174802-00286.warc.gz",
+    "offset": "768338766",
+    "length": "2297"
+   }
+  },
+  {
    "id": "ejuv",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm",
    "cc": {
@@ -416,6 +427,17 @@
     "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170343870.96/warc/CC-MAIN-20261015191658-20261015221658-00270.warc.gz",
     "offset": "42487763",
     "length": "5475"
+   }
+  },
+  {
+   "id": "law:lei-15271-2025",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2025/Lei/L15271.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261014044251",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054978.29/warc/CC-MAIN-20261014032746-20261014062746-00635.warc.gz",
+    "offset": "364797449",
+    "length": "6998"
    }
   },
   {
