@@ -1200,6 +1200,17 @@
    }
   },
   {
+   "id": "law:mp-513-2010",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Mpv/513.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260910073510",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492699912.32/warc/CC-MAIN-20260910062340-20260910092340-00056.warc.gz",
+    "offset": "52284231",
+    "length": "7537"
+   }
+  },
+  {
    "id": "law:mp-532-2011",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Mpv/532.htm",
    "cc": {

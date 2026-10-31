@@ -186,7 +186,26 @@ B8.SPAN_FIX[:] = [
      "data's retrieval; the label line is left out and that future wording, which Planalto's page does not print, is "
      "not in the history"),
 ]
+B7.CONVERTED_FIX["mp-575-2012"] = ("lei-12766-2012", "the MP page reads 'Convertida pela Lei nº 12.766, de 2012' ('pela' "
+                                                    "for 'na'), Lei nº 12.766, de 27.12.2012")
+P.VIGENCIA_FIXED.update({
+    "lei-13137-2015": ("2015-06-22", "art. 26 VII: the provisions not named in its incisos I to VI, which include art. 3 "
+                                     "(the changes to Lei 11.079/2004), in force 'na data de sua publicação' (DOU 22.6.2015, "
+                                     "edição extra)"),
+})
+P.NOTE_FIX.update({
+    "(Redação dada pela Medida provisória nº 513, de 2.010)": (
+        "(Redação dada pela Medida Provisória nº 513, de 2010)",
+        "Lei das PPPs: notes read 'Medida provisória nº 513, de 2.010'; Medida Provisória nº 513, de 26.11.2010"),
+    "(Incluído pela Medida provisória nº 513, de 2.010)": (
+        "(Incluído pela Medida Provisória nº 513, de 2010)", "as the 'Redação dada' notes of MP 513/2010"),
+})
 B.EXPLAINED.update({
+    "lei-das-parcerias-publico-privadas": {
+        "art-10": "the consolidated page prints incisos VI and VII of the caput in one paragraph; the annotated page and "
+                  "the history give them a line each",
+        "art-26": B7._QUOTED.format(x="§ 1º."),
+    },
     "lei-de-concessoes": {"art-15": "typesetting: the annotated page prints § 3º without its closing full stop; the "
                                     "consolidated page has it"},
     "lei-de-abuso-de-autoridade": {"art-15-a": "the annotated page prints the heading 'Violência Institucional' (Incluído "
