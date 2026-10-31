@@ -11,12 +11,13 @@ A. A wording ends no later than the next wording of the same dispositivo. parse_
    ...') that started and ended with it end with it.
 
 B. Twin wordings: a line printed below a struck line of the same dispositivo with the same start, word for word the
-   same (Planalto printing a wording again where it came back: CLT art. 582 § 1º after MP 873/2019 lapsed). The lower line starts on
+   same (Planalto printing a wording again where it came back: CLT art. 582 § 1º after MP 873/2019 lapsed) or, when
+   the lower one has no note, a new wording (CP art. 273 § 2º, rewritten by Lei 9.677/1998). The lower line starts on
    the first day from the struck line's end on when no other wording of the dispositivo stands (or with the restored
    caput of its article); a struck lower copy that never stands alone is left out.
 
-D. A line with no note of its own printed unstruck under an unstruck line that came in later (CLT art. 678's alíneas
-   under the incisos Lei 5.442/1968 added; CP art. 273 § 2º under the new caput of Lei 9.677/1998) starts with it.
+D. A line with no note of its own printed unstruck under an unstruck line a later law inserted ('Incluído') starts with
+   it (CLT art. 678's alíneas under the incisos Lei 5.442/1968 added).
 
 C. Two copies of one labelled line, alive at once, word for word the same apart from typesetting (Planalto printing the same
    dispositivo twice, struck and unstruck, or twice unstruck): the later-printed copy starts when the earlier one ends;
@@ -67,7 +68,7 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
                 break
             if later:
                 break
-    # D: an unnoted unstruck line is no older than the unstruck line it hangs from (its nearest parent above it)
+    # D: an unnoted unstruck line is no older than the inserted unstruck line it hangs from (its nearest parent above)
     for i, p in enumerate(paras):
         if p["state"] != "plain" or p["start_law"] or p.get("skip") or p["heading"]:
             continue
@@ -78,7 +79,8 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
             if q["heading"] or q.get("skip") or q["state"] != "plain" or not q["label"]:
                 continue
             if level(q["label"]) < lv:
-                if q["start"] > p["start"]:
+                inserted = any(re.search(r"Inclu[íi]d|Acrescid|Acrescentad", n, re.I) for n in q["notes"])
+                if inserted and q["start"] > p["start"]:
                     p["start"], p["start_law"] = q["start"], q["start_law"]
                     USED["D"].append(f"{act} {p['unit']} [{p['label'] or p['text'][:30]}] from {q['start']}")
                 break
@@ -96,7 +98,7 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
                 continue
             same_label = p["label"] and _norm_label(q["label"]) == _norm_label(p["label"])
             same_text = _norm_text(q["text"]) == _norm_text(p["text"])
-            twin = same_label and same_text
+            twin = same_label and (same_text or (p["state"] == "plain" and not p["start_law"]))
             if not twin:
                 continue
             if p["end"] is not None and p["end"] <= q["end"]:
@@ -164,12 +166,12 @@ def decisions() -> list[str]:
                    "the act's first day rewrote that day), even where the source also notes a later revocation; the "
                    "unlabelled lines right under it end with it: " + "; ".join(dict.fromkeys(USED["A"])) + ".")
     if USED["D"]:
-        out.append("A line with no note of its own, printed unstruck under an unstruck line that came in later (its article, "
-                   "paragraph or inciso, rewritten by a law that Planalto notes only on that line), starts with it: "
+        out.append("A line with no note of its own, printed unstruck under an unstruck line a later law inserted "
+                   "('Incluído'), starts with it: "
                    + "; ".join(dict.fromkeys(USED["D"])) + ".")
     if USED["B"]:
         out.append("Twin wordings: a line printed below a struck line of the same dispositivo with the same start, word for "
-                   "word the same, starts on the first day from the struck "
+                   "word the same or (with no note of its own) a new wording, starts on the first day from the struck "
                    "line's end on when no other wording of that dispositivo stands, or with the restored caput of its "
                    "article; a struck lower copy that never stands alone is left out: "
                    + "; ".join(dict.fromkeys(USED["B"])) + ".")
