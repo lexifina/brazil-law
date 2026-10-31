@@ -23,6 +23,12 @@
    }
   },
   {
+   "id": "ato:adc-35-2014-mpv644",
+   "url": "http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/congresso/adc-035-mpv644.htm",
+   "ts": "20260514165054",
+   "via": "wayback.py"
+  },
+  {
    "id": "ato:adc-5-2016-mpv694",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Congresso/adc-005-mpv694.htm",
    "cc": {
@@ -32,6 +38,12 @@
     "offset": "857774500",
     "length": "2418"
    }
+  },
+  {
+   "id": "ato:adc-62-2023-mpv1171",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Congresso/adc-62-mpv1.171.htm",
+   "ts": "20260611232638",
+   "via": "wayback.py"
   },
   {
    "id": "ato:adc-66-2018-mpv850",

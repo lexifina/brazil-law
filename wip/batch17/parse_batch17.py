@@ -130,6 +130,8 @@ ALL_ACTS: list[dict] = [
          "Imposto de renda das pessoas jurídicas e CSLL (Lei nº 9.249, de 26 de dezembro de 1995)", 2),
     _act("lei-9250-de-1995", "L9250", "l9250", "l9250-compilado", "lei-9250-1995",
          "Imposto de renda das pessoas físicas (Lei nº 9.250, de 26 de dezembro de 1995)", 2),
+    _act("lei-7713-de-1988", "L7713", "l7713", "l7713-compilada", "lei-7713-1988",
+         "Imposto de renda (Lei nº 7.713, de 22 de dezembro de 1988)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -143,6 +145,7 @@ PARTS: dict[str, list[str]] = {
     "g": ["lei-do-susp", "lei-do-mercado-de-capitais"],
     "h": ["lei-da-csll", "lei-9249-de-1995"],
     "i": ["lei-9250-de-1995"],
+    "j": ["lei-7713-de-1988"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -193,6 +196,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                     "efeitos a partir de 1º de janeiro de 1996' (DOU 27.12.1995): dated by the day it takes "
                                     "effect"),
     "lei-9250-1995": ("1995-12-27", f"Lei 9.250/1995 art. 41: {_PUB} (DOU 27.12.1995)"),
+    "lei-7713-1988": ("1989-01-01", "Lei 7.713/1988 art. 57: 'Esta Lei entra em vigor em 1º de janeiro de 1989' (DOU "
+                                    "23.12.1988, the day LexML gives; the page footer misprints 23.12.1998)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -269,6 +274,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         PAGES["l9249"]),
     "lei-9250-1995": _L("Lei nº 9.250, de 1995", "Altera a legislação do imposto de renda das pessoas físicas e dá outras "
                         "providências.", "1995-12-26", "1995-12-27", PAGES["l9250"]),
+    "lei-7713-1988": _L("Lei nº 7.713, de 1988", "Altera a legislação do imposto de renda e dá outras providências.",
+                        "1988-12-22", "1988-12-23", PAGES["l7713"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -553,9 +560,41 @@ def paragraphs(html, digits):
                 cur = p["unit"]
             keep.append(p)
         out = keep
+    if page == "l9250":
+        # Lei 9.250: Lei 15.270/2025 added arts. 3º-A and 11-A, each with a table whose centred title ('Tabela de redução
+        # do imposto mensal' / '... do ajuste anual') and an empty centred line come before the table rows; they are lines
+        # of the article, not headings. The name lines of Capítulos II-A and III-A carry no note of their own: they come
+        # with the 'CAPÍTULO II-A (Incluído pela Lei nº 15.270, de 2025)' line above them.
+        cur, prev, keep = None, None, []
+        for p in out:
+            t = re.sub(r"(?:^|\s+)Sem efic[áa]cia\s*$", "", p["text"])
+            if t != p["text"]:
+                # art. 22: Planalto's marker 'Sem eficácia' after each struck line of Medida Provisória 252/2005 (lapsed)
+                p["text"] = t
+                L9250_FIXED.append(f"{p['unit']} marker 'Sem eficácia' left out of the text")
+            if p["heading"] and not P.norm(p["text"]):
+                L9250_FIXED.append("empty centred line dropped")
+                continue
+            if not p["heading"] and re.fullmatch(r"[a-z]\)\s*\.?", P.norm(p["text"])):
+                # art. 4 III and VI: struck 'a) (Vide Medida nº 340, de 2006).' ... 'd)': a label and a pointer, no words
+                L9250_FIXED.append(f"{p['unit']} empty struck item {P.norm(p['text'])!r} with only a 'Vide' note dropped")
+                continue
+            if p["heading"] and cur and P.norm(p["text"]).startswith("Tabela de redução"):
+                p.update({"heading": False, "unit": cur, "label": "", "center": False})
+                L9250_FIXED.append(f"{P.norm(p['text'])!r} -> {cur}")
+            elif (p["heading"] and not p["notes"] and prev is not None and prev["heading"]
+                  and any("Incluíd" in n for n in prev["notes"]) and P.norm(prev["text"]).startswith("CAPÍTULO")):
+                p["notes"] = list(prev["notes"])
+                L9250_FIXED.append(f"{P.norm(p['text'])!r} dated with {P.norm(prev['text'])!r}")
+            elif not p["heading"] and p["unit"].startswith("art-"):
+                cur = p["unit"]
+            keep.append(p)
+            prev = p
+        out = keep
     return out, rest
 
 
+L9250_FIXED: list[str] = []
 P.paragraphs = B.paragraphs = paragraphs
 
 # Lei 9.263/1996: arts. 10, 11 and 15 and art. 14 Parágrafo único were vetoed on 12.1.1996; Congress overrode the vetoes
@@ -682,6 +721,72 @@ P.MP_LAPSE["mp-694-2015"] = (
     "2016-03-09", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 5, de 2016 (DOU 10.3.2016): 'teve seu prazo "
                   "de vigência encerrado no dia 8 de março do corrente ano'; the wording it had replaced is back from 9.3.2016")
 
+# part i: Lei 9.250/1995 (imposto de renda das pessoas físicas). Hand days set only when the act runs.
+_L9250 = "lei-9250-de-1995"
+if any(a["slug"] == _L9250 for a in ACTS):
+    P.VIGENCIA_FIXED["lei-12213-2010"] = (
+        "2011-01-01", "art. 5: 'Esta Lei entra em vigor em 1º de janeiro do ano seguinte ao de sua publicação oficial' (DOU "
+                      "21.1.2010): 1.1.2011")
+    P.VIGENCIA_FIXED["lei-13498-2017"] = (
+        "2018-01-01", "art. 2: 'Esta Lei entra em vigor no primeiro dia do ano seguinte ao de sua publicação' (DOU "
+                      "27.10.2017): 1.1.2018")
+    P.MP_LAPSE["mp-644-2014"] = (
+        "2014-08-30", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 35, de 2014 (DOU 4.9.2014): 'teve seu "
+                      "prazo de vigência encerrado no dia 29 de agosto do corrente ano'; the wordings it had replaced are back "
+                      "from 30.8.2014")
+    P.MP_LAPSE["mp-1171-2023"] = (
+        "2023-08-28", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 62, de 2023 (DOU 31.8.2023): 'teve seu "
+                      "prazo de vigência encerrado no dia 27 de agosto de 2023'; the wordings it had replaced are back from "
+                      "28.8.2023")
+_W1171 = ("Lei 9.250 art. 4: Medida Provisória 1.171/2023 (in force 1.5.2023) revoked the parágrafo único (art. 15 II) and added "
+          "§§ 1º and 2º (art. 14); it lapsed on 27.8.2023 (Ato Declaratório nº 62/2023), and Lei 14.663/2023 (DOU 28.8.2023, "
+          "edição extra, in force on publication) art. 6 numbered the parágrafo único as § 1º, with new wordings of § 1º and "
+          "its incisos and a § 2º, the same day the parágrafo único would have come back. So the parágrafo único and its "
+          "incisos I and II (Lei 13.202/2015) end on 1.5.2023 and do not come back (Planalto leaves inciso I unstruck); the "
+          "struck § 2º with no note is MP 1.171's (read on the MP's page), 1.5.2023 to the lapse")
+B8.SPAN_FIX += [
+    ((_L9250, "art-04", "I -", "I - do trabalho com vínculo empregatício ou de administradores", 0),
+     {"end": "2023-05-01", "end_law": "mp-1171-2023", "end_how": "note", "gaps": []}, _W1171),
+    ((_L9250, "art-04", "II -", "II - proventos de aposentados e pensionistas, quando a fonte pagadora for responsável pelo "
+      "desconto e respectivo", 0),
+     {"end": "2023-05-01", "end_law": "mp-1171-2023", "end_how": "note", "gaps": []}, _W1171),
+    ((_L9250, "art-04", "§ 2º", "§ 2º Alternativamente às deduções de que trata o caput, poderá", 0),
+     {"start": "2023-05-01", "start_law": "mp-1171-2023", "end": "2023-08-28", "end_law": "mp-1171-2023-fim",
+      "end_how": "lapse"}, _W1171),
+    ((_L9250, "art-22", "Art. 22", "Art. 22. Fica isento do imposto de renda o ganho de capital auferido na alienação de bens "
+      "e direitos de pequeno valor, cujo preço unitário de alienação, no mês em que esta se realizar, seja igual ou inferior a "
+      "R$ 20.000,00", 0),
+     {"end": "2005-11-22", "end_law": "lei-11196-2005", "end_how": "successor", "gaps": [("2005-06-16", "2005-10-14", "mp-252-2005", "mp-252-2005-fim")]},
+     "Lei 9.250 art. 22 caput: Medida Provisória 252/2005 (in force 16.6.2005) gave it a new wording and lapsed on 13.10.2005; "
+     "the 1995 wording stands again from 14.10.2005 until Lei 11.196/2005 (in force 22.11.2005; its art. 38 has effects from "
+     "14.10.2005, a retroactive effect: the change keeps its in-force day). Planalto prints the 1995 caput once, struck"),
+    ((_L9250, "art-08", "", "9. R$ 3.375,83", 4),
+     {"end": "2015-07-22", "end_law": "lei-13149-2015", "end_how": "successor"},
+     "Lei 9.250 art. 8 II c) item 9: Planalto prints Medida Provisória 670/2015's wording unstruck above Lei 13.149/2015's "
+     "(its conversion law, same words); MP 670's line ends on 22.7.2015"),
+]
+B.EXPLAINED[_L9250] = {
+    "art-04": "the consolidated page prints inciso VI d) twice, in Medida Provisória 528/2011's wording (struck on the annotated "
+              "page) and in Lei 12.469/2011's (same words)",
+    "art-03-a": "the table title 'Tabela de redução do imposto mensal' is a centred line, which the consolidated page's reading "
+                "takes for a heading; it is a line of art. 3º-A",
+    "art-11-a": "the table title 'Tabela de redução do ajuste anual' is a centred line, which the consolidated page's reading "
+                "takes for a heading; it is a line of art. 11-A",
+    "titulos": "the two table titles of arts. 3º-A and 11-A, read as headings on the consolidated page, are lines of those "
+               "articles",
+}
+B13.OPEN_ITEMS[_L9250] = (
+    "Lei 9.250 (open items): changes whose effects reach back before their in-force day keep that day (Medida Provisória "
+    "2.189-49/2001 art. 12, Medida Provisória 22/2002 and Leis 10.451/2002, 11.119/2005, 11.196/2005 art. 38, 11.311/2006, "
+    "11.324/2006, 11.482/2007, 11.727/2008 art. 21, 12.469/2011 and 12.832/2013); 'Vide' pointers (Medidas Provisórias "
+    "340/2006 and 1.303/2025, Leis 9.532/1997, 13.043/2014 and others) strike no words and are not modelled; earlier "
+    "editions of Medida Provisória 2.189-49 are not modelled")
+P.MP_PENDING["mp-2189-2001"] = (
+    "Medida Provisória nº 2.189-49, de 23.8.2001 (DOU 24.8.2001; in force on publication), kept in force by Emenda "
+    "Constitucional 32/2001, art. 2; its art. 11 gave Lei 9.250 arts. 10 and 25 new wordings (its art. 12 applies the art. 10 "
+    "wording to taxable events from 1.1.1998, a retroactive application: the change keeps its in-force day). Planalto's notes "
+    "name this edition only, so the change is dated by its publication; earlier editions of the chain are not modelled")
+
 _apply_rewrites17 = P.apply_rewrites
 
 
@@ -743,6 +848,13 @@ def _inner(*a):
                    "headings of Medida Provisória 905/2019's own provisions (above its art. 29 and its new art. 12 wording, as "
                    "printed on the MP's page), copied onto the page with MP 905's wordings; they are not words of Lei 605 and "
                    "are left out.")
+    if L9250_FIXED:
+        dec.append("Lei 9.250: the centred titles of the tables Lei 15.270/2025 added in arts. 3º-A and 11-A ('Tabela de redução "
+                   "do imposto mensal', '... do ajuste anual') are lines of those articles, not headings; empty centred lines "
+                   "are left out; the name lines of Capítulos II-A and III-A start with the 'CAPÍTULO' line above them, which "
+                   "carries Lei 15.270's note; art. 4 III and VI print struck items 'a)' to 'd)' with only '(Vide Medida nº "
+                   "340, de 2006)' and no words, which are left out; Planalto's marker 'Sem eficácia' after the struck lines of "
+                   "Medida Provisória 252/2005 in art. 22 is not part of the text (" + "; ".join(dict.fromkeys(L9250_FIXED)) + ").")
     B5.EXTRA_DECISIONS.extend(dec)
     return _inner17(*a)
 

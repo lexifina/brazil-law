@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-h PUBLISHed, 23 acts, 170 versions; merged 149 acts, 2564 versions; next: Leis 9.250, 7.713, 9.430 (pages pinned), then 13.465, 11.977; see batch17/PROGRESS.md)
+CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-i PUBLISHed, 24 acts, 205 versions; merged 150 acts, 2599 versions; next: Leis 7.713, 9.430 (pages pinned), then 13.465, 11.977; see batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 
@@ -178,3 +178,4 @@ Batch 17 (2026-10-31): small parts 99-batch17a, b, ... 99-batch17a PUBLISHed: Le
 99-batch17f PUBLISHed: Lei da Faixa de Fronteira 6.634/1979 (Lei 14.004 vetoed part promulgated 8.9.2020), Lei 9.469/1997, Lei de Segurança do Tráfego Aquaviário 9.537/1997 (16 versions); merged 145 acts, 2505 versions, 2008 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (145 acts).
 99-batch17g PUBLISHed: Lei do Susp 13.675/2018 (Lei 14.531 vetoed parts promulgated 19.7.2023), Lei do Mercado de Capitais 4.728/1965 (Lei 14.754 effect day 1.1.2024 via effects_fix) (24 versions); merged 147 acts, 2529 versions, 2025 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (147 acts).
 99-batch17h PUBLISHed: Lei 7.689/1988 (CSLL) and Lei 9.249/1995 (35 versions; MP effect days by hand, 14 effect-day moves, Lei 15.525/2026 changes on futuro 2027/2030, Lei 7.689 art. 8 left out: Senate resolution 11/1995 not available); merged 149 acts, 2564 versions, 2048 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (149 acts).
+99-batch17i PUBLISHed: Lei 9.250/1995 (IRPF, 35 versions; MP 644/2014 and MP 1.171/2023 lapses, 17 effect-day moves); merged 150 acts, 2599 versions, 2071 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (150 acts). NOTE: data.commoncrawl.org and arquivo.pt robots.txt Disallow the paths used; fetch via batch17/.tmp/iaonly.py (archive.org only).

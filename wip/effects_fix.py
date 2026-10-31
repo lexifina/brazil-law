@@ -367,6 +367,28 @@ MOVES: dict[str, list] = {
          "Lei 9.532/1997 art. 82: 'Ficam revogados: [...] II - a partir de 1º de janeiro de 1998: [...] f) o art. 3º da Lei "
          "nº 7.418, de 16 de dezembro de 1985' (with its parágrafo único): from 1.1.1998"),
     ],
+    "99-batch17i.json": [
+        ("lei-9250-de-1995", "lei-9532-1997", "1997-12-11", [(ALL, "1998-01-01")],
+         "Lei 9.532/1997 art. 81: 'produzindo efeitos: I - nessa data, em relação aos arts. 9º, 37 a 42, 44 a 54, 64 a 68, 74 "
+         "e 75; II - a partir de 1º de janeiro de 1998, em relação aos demais dispositivos': its art. 25 (Lei 9.250 art. 7 § "
+         "2º) from 1.1.1998"),
+        ("lei-9250-de-1995", "mp-528-2011", "2011-03-28", [(ALL, "2011-04-01")],
+         "Medida Provisória 528/2011 art. 4: 'produzindo efeitos em relação aos arts. 1º a 3º: I - a partir de 1º de janeiro "
+         "de 2011, para fins do disposto no parágrafo único do art. 1º da Lei nº 11.482 [...]; II - a partir de 1º de abril de "
+         "2011, para os demais casos' (DOU 28.3.2011): its art. 3 (Lei 9.250 arts. 4, 8 and 10) falls under II, from 1.4.2011"),
+        ("lei-9250-de-1995", "lei-13043-2014", "2014-11-14", [(ALL, "2015-01-01")],
+         "Lei 13.043/2014 art. 113: 'Esta Lei entra em vigor na data de sua publicação, exceto: [...] II - os arts. 1º a 15, "
+         "30 a 32, 97, 106 e os artigos da Seção XXI do Capítulo I, que entram em vigor a partir de 1º de janeiro de 2015' (DOU "
+         "14.11.2014): its art. 84 (Seção XXI; Lei 9.250 art. 4 VII and art. 8 II i) from 1.1.2015"),
+        ("lei-9250-de-1995", "lei-14754-2023", "2023-12-13", [(ALL, "2024-01-01")],
+         "Lei 14.754/2023 art. 47: 'produzirá efeitos: I - imediatamente, quanto aos arts. 28 e 29, aos §§ 4º, 5º e 6º do art. "
+         "30 e aos arts. 42 e 43; e II - a partir de 1º de janeiro de 2024, quanto aos demais dispositivos': its art. 46 II "
+         "(revocation of Lei 9.250 art. 25 § 4º) from 1.1.2024"),
+        ("lei-9250-de-1995", "lei-15270-2025", "2025-11-27", [(ALL, "2026-01-01")],
+         "Lei 15.270/2025: 'Esta Lei entra em vigor na data de sua publicação e produzirá efeitos a partir de 1º de janeiro de "
+         "2026' (DOU 27.11.2025): its arts. 2 and 7 (Lei 9.250 arts. 3º-A, 6º-A, 10, 11, 11-A, 12, 13, 16-A, 16-B and the "
+         "new chapter headings) from 1.1.2026"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,

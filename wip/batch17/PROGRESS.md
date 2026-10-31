@@ -123,6 +123,30 @@ futuro) = 35 versions. Coordinator confirmed: Lei 9.249 dated by its effects cla
   audit clean. README rows + jurisdiction.json (149 acts).
 - New tools: .tmp/lexml1.py (one LexML record per 6 s), .tmp/ptlist.py (Arquivo.pt prefix list).
 
+## Third session (2026-10-31 evening): ROBOTS FINDING - read before fetching
+robots.txt read 18:1x: data.commoncrawl.org 'User-Agent: * / Disallow: /' and arquivo.pt 'Disallow: /wayback' (the
+path wayback.pt_get/pt_captures use; also Crawl-delay 5). So from this session on NO Common Crawl data requests and NO
+Arquivo.pt requests. web.archive.org serves no robots.txt (404): allowed. LexML: /urn and /sru allowed, Crawl-delay 5,
+/busca/ /doc/ /linker/ Disallowed. Use `.tmp/iaonly.py <fetch_batch17 command>` (pages|laws|missing|gap id url): the same
+commands with Common Crawl and Arquivo.pt pins switched off (archive.org only); the local Common Crawl path index file
+(.cache/cc/planalto-ccivil03-cc-index.jsonl) is still read from disk to find candidate paths (no request).
+
+## 99-batch17i - PUBLISHed 2026-10-31 (third session)
+Lei 9.250/1995 (IRPF), 35 versions 1995-12-27 .. 2026-01-01 (in force on publication, art. 41).
+- VIGENCIA_FIXED lei-12213-2010 1.1.2011 (art. 5), lei-13498-2017 1.1.2018 (art. 2); MP_LAPSE mp-644-2014 30.8.2014
+  (ato:adc-35-2014-mpv644, lowercase http URL variant), mp-1171-2023 28.8.2023 (ato:adc-62-2023-mpv1171); MP_PENDING
+  mp-2189-2001.
+- SPAN_FIX art-04 (p.u. I/II of Lei 13.202 end 1.5.2023, no return: Lei 14.663 numbered the p.u. as § 1º on 28.8.2023, the
+  lapse day; MP 1.171's struck unnoted § 2º 1.5-28.8.2023), art-08 item 9 (MP 670 unstruck copy, label ''), art-22 (1995
+  caput back 14.10-22.11.2005 via gaps; gaps are 4-tuples (start, end, start_law, end_law)).
+- paragraphs wrapper l9250: 'Sem eficácia' marker stripped, empty struck 'a)'-'d)' (Vide MP 340) dropped, Lei 15.270 table
+  titles moved from titulos into arts. 3-A/11-A, chapter-name lines take the CAPÍTULO line's note. EXPLAINED art-04, art-03-a,
+  art-11-a, titulos.
+- effects_fix MOVES "99-batch17i.json": 5 entries, 17 unit-moves (9.532 -> 1.1.1998, MP 528 -> 1.4.2011, Lei 13.043 art. 84
+  -> 1.1.2015 (in-force clause, Seção XXI), 14.754 -> 1.1.2024, 15.270 -> 1.1.2026).
+- Part sha f7bbf441 (pre-effects a99dbc22); merged 150 acts, 2599 versions, 2071 commits, check 0/0, compare identical,
+  audit clean. README row + jurisdiction.json (150 acts).
+
 ## State at handoff (batch 17, second session, 2026-10-31)
 Parts 99-batch17a..h installed with .PUBLISH (23 acts, 170 versions; merged 149 acts, 2564 versions, 2048 commits, check
 0/0, --compare identical, audit clean). README rows + jurisdiction.json (149 acts) current. effects_fix.py MOVES for
