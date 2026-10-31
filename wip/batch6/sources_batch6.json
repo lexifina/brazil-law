@@ -10,6 +10,45 @@
     "offset": "35754994",
     "length": "4333"
    }
+  },
+  {
+   "id": "ctx:camara-lei-9605-1998-norma",
+   "url": "https://www2.camara.leg.br/legin/fed/lei/1998/lei-9605-12-fevereiro-1998-365397-norma-pl.html",
+   "pt": {
+    "timestamp": "20241021202032",
+    "url": "https://www2.camara.leg.br/legin/fed/lei/1998/lei-9605-12-fevereiro-1998-365397-norma-pl.html"
+   },
+   "via": "arquivo.pt"
+  },
+  {
+   "id": "ctx:camara-lei-9605-1998-retificacao",
+   "url": "https://www2.camara.leg.br/legin/fed/lei/1998/lei-9605-12-fevereiro-1998-365397-retificacao-172836-pl.html",
+   "ts": "20261011100112",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ctx:camara-lei-9784-1999-norma",
+   "url": "https://www2.camara.leg.br/legin/fed/lei/1999/lei-9784-29-janeiro-1999-322239-norma-pl.html",
+   "pt": {
+    "timestamp": "20241011110945",
+    "url": "https://www2.camara.leg.br/legin/fed/lei/1999/lei-9784-29-janeiro-1999-322239-norma-pl.html"
+   },
+   "via": "arquivo.pt"
+  },
+  {
+   "id": "ctx:camara-lei-9784-1999-retificacao",
+   "url": "https://www2.camara.leg.br/legin/fed/lei/1999/lei-9784-29-janeiro-1999-322239-retificacao-135464-pl.html",
+   "ts": "20260125115804",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ctx:camara-ad-20-11-2002",
+   "url": "https://www2.camara.leg.br/legin/fed/atodec_sn/2002/atodeclaratorio-4-20-novembro-2002-485885-publicacaooriginal-1-sf.html",
+   "pt": {
+    "timestamp": "20241030224904",
+    "url": "https://www2.camara.leg.br/legin/fed/atodec_sn/2002/atodeclaratorio-4-20-novembro-2002-485885-publicacaooriginal-1-sf.html"
+   },
+   "via": "arquivo.pt"
   }
  ]
 }
