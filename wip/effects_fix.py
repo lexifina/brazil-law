@@ -226,6 +226,55 @@ MOVES: dict[str, list] = {
          "of art. 13 § 1º VII 'a partir de 1º de janeiro de 2025' (II, before the law's publication) stays on the in-force "
          "day"),
     ],
+    "99-batch15a.json": [
+        ("lei-de-custeio-da-seguridade-social", "lei-9876-1999", "1999-11-29",
+         [("units:art-021", "2000-03-01"),
+          (lines_match(r"^(III - vinte por cento sobre o total das remunerações|IV - quinze por cento sobre o valor bruto|"
+                       r"§ 4º Na hipótese de o contribuinte individual prestar|§ 5º Aplica-se o disposto no § 4º ao cooperado|"
+                       r"b\) recolher o produto arrecadado na forma da alínea anterior, a contribuição a que se refere o "
+                       r"inciso IV)"), "2000-03-01")],
+         "Lei 9.876/1999 art. 8: 'produzindo efeitos, quanto à majoração de contribuição e ao disposto no § 4º do art. 30 da "
+         "Lei nº 8.212, de 1991, com a redação dada por esta Lei, a partir do dia primeiro do mês seguinte ao nonagésimo dia "
+         "daquela publicação' (DOU 29.11.1999; 90th day 27.2.2000): from 1.3.2000 the contributions it raised or created "
+         "(art. 21, the single 20% rate; art. 22 III, 20% on contribuintes individuais; art. 22 IV, 15% on cooperatives' "
+         "invoices, with its collection in art. 30 I b) and art. 30 § 4º with § 5º, which extends it; its other changes "
+         "(definitions, deadlines) on publication"),
+        ("lei-de-custeio-da-seguridade-social", "lei-10256-2001", "2001-07-10", [("units:art-022-a", "2001-11-01")],
+         "Lei 10.256/2001 art. 5: 'produzindo efeitos, quanto ao disposto no art. 22-A da Lei nº 8.212 [...] a partir do dia "
+         "1º (primeiro) do mês seguinte ao 90º (nonagésimo) dia daquela publicação' (DOU 10.7.2001; 90th day 8.10.2001): art. "
+         "22-A from 1.11.2001"),
+        ("lei-de-custeio-da-seguridade-social", "lei-10684-2003", "2003-05-31", [("units:art-022-a", "2003-09-01")],
+         "Lei 10.684/2003 art. 29: 'produzindo efeitos: [...] III - em relação aos arts. 18, 19, 20 e 22, a partir do mês "
+         "subseqüente ao do termo final do prazo nonagesimal, a que refere o § 6º do art. 195 da Constituição Federal' (DOU "
+         "31.5.2003; the 90 days end on 29.8.2003): its art. 19 (art. 22-A §§ 6º-7º) from 1.9.2003"),
+        ("lei-de-custeio-da-seguridade-social", "mp-252-2005", "2005-06-16", [(ALL, "2005-10-01")],
+         "Medida Provisória 252/2005 art. 73: 'produzindo efeitos: [...] III - a partir de 1º de outubro de 2005, em relação "
+         "ao disposto nos arts. 33, 69 e 70' (DOU 16.6.2005): its art. 70 (art. 89 § 8º) from 1.10.2005, until the MP lapsed "
+         "(14.10.2005)"),
+        ("lei-de-custeio-da-seguridade-social", "mp-529-2011", "2011-04-08", [(ALL, "2011-05-01")],
+         "Medida Provisória 529/2011 art. 2: 'produzindo efeitos a partir do dia 1º de maio de 2011' (DOU 8.4.2011)"),
+        ("lei-de-custeio-da-seguridade-social", "mp-619-2013", "2013-06-07",
+         [(lines_match(r"^(VI - a associação em cooperativa agropecuária; e|VII - a incidência do Imposto|"
+                       r"c\) se tornar segurado obrigatório de outro regime previdenciário; e|d\) participar de sociedade|"
+                       r"§ 14\. A participação)"), None)],
+         "Medida Provisória 619/2013 art. 16: 'produzindo efeitos no primeiro dia do sétimo mês após sua publicação, em "
+         "relação: I - ao inciso VII do § 9º do art. 12, à alínea \"d\" do inciso I do § 11 do art. 12, e ao § 14 do art. 12 da "
+         "Lei nº 8.212' (DOU 7.6.2013: 1.1.2014); the MP was converted into Lei 12.873/2013 (25.10.2013) before that day, so "
+         "its wording of those dispositivos (with the '; e' it added to the item before each new item) never took effect"),
+        ("lei-de-custeio-da-seguridade-social", "lei-12873-2013", "2013-10-25",
+         [(lines_match(r"^(VI - a associação em cooperativa agropecuária; e|VII - a incidência do Imposto|"
+                       r"c\) tornar-se segurado obrigatório|d\) participar de sociedade|§ 14\. A participação|"
+                       r"§ 15\. \(VETADO\))"), "2014-01-01")],
+         "Lei 12.873/2013 art. 63 III: 'na data de sua publicação quanto aos demais dispositivos, produzindo efeitos a partir "
+         "de 1º de janeiro de 2014, em relação: a) ao inciso VII do § 9º do art. 12, à alínea d do inciso I do § 11 do art. "
+         "12, e aos §§ 14 e 15 do art. 12 da Lei nº 8.212' (DOU 25.10.2013): those dispositivos (with the item before each new "
+         "item, which takes its '; e') from 1.1.2014"),
+        ("lei-de-custeio-da-seguridade-social", "lei-13606-2018", "2018-01-10",
+         [(lines_match(r"^§ 13\. O produtor rural pessoa física poderá optar"), "2019-01-01")],
+         "Lei 13.606/2018 art. 40: 'produzirá efeitos: I - a partir de 1º de janeiro de 2018, quanto ao disposto nos arts. 14 "
+         "e 15, exceto o § 13 do art. 25 da Lei nº 8.212 [...] que produzirão efeitos a partir de 1º de janeiro de 2019' (DOU "
+         "10.1.2018; the 1.1.2018 effects are retroactive and keep the in-force day): art. 25 § 13 from 1.1.2019"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,
