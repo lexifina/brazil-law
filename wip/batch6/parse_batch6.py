@@ -162,7 +162,25 @@ B.law_key, B.law_label, B.lexml_url, B.page_info = law_key, law_label, lexml_url
 
 # An MP the Senate declared 'prejudicada' after rejecting its conversion bill: Planalto prints 'Prejudicada' after the
 # struck wording (Lei 9.605 art. 25 § 5º), read like '(Vigência encerrada)'
-P.LAPSED_WORDS = re.compile(P.LAPSED_WORDS.pattern + r"|(?<=[.;:])\s*(?-i:Prejudicad[ao])\s*$", re.I)
+P.LAPSED_WORDS = re.compile(P.LAPSED_WORDS.pattern + r"|(?<=[.;:)])\s*(?-i:Prejudicad[ao])\s*$", re.I)
+
+# Notes with a typing slip that hides them from parse_proc's note patterns: '(Renumerando do §2º para §3º pela Lei nº
+# 13.052, de 2014)' (Lei 9.605 art. 25) is read as '(Renumerado do ...)'. Only the note's verb is corrected.
+NOTE_VERB_TYPOS = [(re.compile(r"\(\s*Renumerando(\s+do)"), r"(Renumerado\1")]
+NOTE_VERB_USED: list[str] = []
+_decode6 = P.decode
+
+
+def decode(b: bytes) -> str:
+    t = _decode6(b)
+    for rx, rep in NOTE_VERB_TYPOS:
+        t, n = rx.subn(rep, t)
+        if n:
+            NOTE_VERB_USED.append(rx.pattern)
+    return t
+
+
+P.decode = B.decode = decode
 P.MP_LAPSE["mp-62-2002"] = (
     "2002-11-20", "declared 'prejudicada': Ato Declaratório do Presidente do Senado Federal de 20.11.2002 (DOU 21.11.2002): "
                   "'em sessão realizada no dia 20 de novembro de 2002, o Plenário da Casa declarou prejudicada a Medida "
@@ -255,8 +273,78 @@ def page_has(key: str, text: str) -> bool:
     return bool(body) and body[5:] in _PAGE_TEXT[key]
 
 
+# Renumbered dispositivos ('Renumerado do § 3º para § 4º pela Lei nº 13.052, de 2014'): Planalto prints only the new
+# label. (1) Where no wording under the old label is printed at all, the line stood under its old label (same words)
+# until the renumbering: that wording is added, ended by the renumbered line. (2) Where the old-label wording is printed
+# but was replaced by a Medida Provisória that lapsed before the renumbering, it is back from the lapse until the
+# renumbering (Lei 9.605 art. 25 § 2º: MP 62/2002, prejudicada on 20.11.2002; renumbered § 3º by Lei 13.052/2014).
+RENUM_ADDED: list[str] = []
+RENUM_RESTORED: list[str] = []
+
+
+def _renum_old(p: dict) -> str | None:
+    for n in p["notes"]:
+        if re.search(r"Renumerad", n, re.I):
+            old = P.renum_label(n)
+            if old and old != p["label"]:
+                return old
+    return None
+
+
+def _body(p: dict) -> str:
+    return p["text"][len(p["label"]):].strip() if p["label"] and p["text"].startswith(p["label"]) else p["text"]
+
+
+def renum_pre(paras: list[dict], cx) -> None:
+    for i in range(len(paras) - 1, -1, -1):
+        p = paras[i]
+        old = None if p["heading"] else _renum_old(p)
+        if not old:
+            continue
+        if any(q["unit"] == p["unit"] and q["label"] == old and not _renum_old(q) for q in paras):
+            continue   # an earlier wording under the old label is printed: parse_proc's renumbering rule applies
+        v = dict(p, label=old, text=old + p["text"][len(p["label"]):], state="struck", plain_text="", struck_text="",
+                 notes=[n for n in p["notes"] if not re.search(r"Renumerad", n, re.I)], renum_virtual=True)
+        paras.insert(i, v)
+        RENUM_ADDED.append(f"{cx.act} {p['unit']} [{old} -> {p['label']}]")
+    for i, p in enumerate(paras):
+        p["i"] = i
+
+
+def renum_post(paras: list[dict], cx, problems: list[str]) -> None:
+    for p in list(paras):
+        old = None if p["heading"] else _renum_old(p)
+        if not old or not p["start"]:
+            continue
+        day, law = p["start"], p["start_law"]
+        r = next((q for q in paras if q["unit"] == p["unit"] and q["label"] == old and _body(q) == _body(p)
+                  and q["state"] != "plain" and not q.get("renum_virtual")), None)
+        if not r or not r["end"] or r["end"] >= day:
+            continue
+        m = next((q for q in paras if q["unit"] == p["unit"] and q["label"] == old and q["start"] == r["end"]
+                  and q["end_how"] == "lapse" and q["end"] and q["end"] < day), None)
+        if not m:
+            continue
+        c = dict(r, start=m["end"], start_law=m["end_law"], end=day, end_law=law, end_how="renumbered", gaps=[],
+                 skip=False, restored=True)
+        paras.insert(paras.index(m) + 1, c)
+        RENUM_RESTORED.append(f"{cx.act} {p['unit']} [{old}] {m['end']}..{day}")
+        # parse_proc reports the lapsed MP's later-numbered line as restored after the renumbered one: not a problem
+    for i, p in enumerate(paras):
+        p["i"] = i
+    keep = []
+    for pr in problems:
+        mm = re.match(r"restored wording after an open one: (\S+) \[([^\]]+)\]", pr)
+        if mm and any(q["unit"] == mm.group(1) and q["label"] == mm.group(2) and q["state"] == "plain" and _renum_old(q)
+                      for q in paras):
+            continue
+        keep.append(pr)
+    problems[:] = keep
+
+
 def lifespans(paras: list[dict], cx) -> list[str]:
     problems: list[str] = []
+    renum_pre(paras, cx)
     for p in paras:
         for (act, unit, label, start), why in NEVER_IN_FORCE.items():
             if cx.act == act and p["unit"] == unit and p["label"] == label and p["text"].startswith(start) and p["state"] != "plain":
@@ -294,6 +382,7 @@ def lifespans(paras: list[dict], cx) -> list[str]:
             WITH_WORDING_USED.append(f"{cx.act} {p['unit']} [{p['label']}] ({P.law_label(x)}, wording {P.law_label(y)}, "
                                      f"from {day})")
     problems += _lifespans6(paras, cx)
+    renum_post(paras, cx, problems)
     for p in paras:
         if p.get("never"):
             p["skip"], p["end"], p["end_law"], p["end_how"], p["gaps"] = True, p["start"], p["start_law"], "never-in-force", []
@@ -321,6 +410,19 @@ def _inner(*a) -> int:
         B5.EXTRA_DECISIONS.append(
             "A dispositivo noted '(Incluído pela Lei X, com a redação dada pela Lei Y)' is credited to Y, the law that wrote "
             "its words, from the later of the two laws' in-force days: " + "; ".join(dict.fromkeys(WITH_WORDING_USED)) + ".")
+    if NOTE_VERB_USED:
+        B5.EXTRA_DECISIONS.append("Notes whose verb has a typing slip are read with the verb corrected, so the note is "
+                                  "not taken for law text: '(Renumerando do ...)' is read as '(Renumerado do ...)' (Lei "
+                                  "9.605 art. 25 §§ 3º to 5º, renumbered by Lei 13.052/2014).")
+    if RENUM_ADDED:
+        B5.EXTRA_DECISIONS.append(
+            "A dispositivo Planalto prints only under its new number, with a 'Renumerado do ... para ...' note, stood "
+            "under its old number with the same words until the renumbering; that wording is added: "
+            + "; ".join(dict.fromkeys(RENUM_ADDED)) + ".")
+    if RENUM_RESTORED:
+        B5.EXTRA_DECISIONS.append(
+            "A wording a lapsed Medida Provisória had replaced is back from the lapse until the law that renumbered it: "
+            + "; ".join(dict.fromkeys(RENUM_RESTORED)) + ".")
     if MP_CHAIN_USED:
         B5.EXTRA_DECISIONS.append(
             "A wording Planalto credits to both the first and the last Medida Provisória of one reissue chain starts with the "

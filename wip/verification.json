@@ -1,21 +1,21 @@
 {
  "check": {
-  "acts": 25,
+  "acts": 21,
   "backwards": 0,
-  "corpus_sha256": "ee9ed29a6e9d8b5f0917293b5161b8acf2383ddca01effc58eb16c378feb19c7",
+  "corpus_sha256": "0062b0bc4322c3964e46a795e74099ef06618f68778017e5d0200b7670ef07cf",
   "future_dated": 0,
   "merges": 0,
   "mismatches": 0,
   "missing_in_force": 0,
   "trailer_errors": 0,
-  "versions": 918
+  "versions": 877
  },
  "rebuild": {
   "commits": 891,
-  "corpus_sha256": "ee9ed29a6e9d8b5f0917293b5161b8acf2383ddca01effc58eb16c378feb19c7",
-  "history_tip": "6a9ae24627ceea7ca2211f13cd353f907a3ae78b",
+  "corpus_sha256": "741807a1af115c3b98d71891bf0f4187d71674ceafd6761e6a923439e8c33544",
+  "history_tip": "cc9a09c57341ecfe85ed804f31545f49bd5979c9",
   "identical": true,
-  "main_identical": false,
+  "main_identical": true,
   "tags": 1787
  }
 }
