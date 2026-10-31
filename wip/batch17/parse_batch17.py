@@ -789,6 +789,35 @@ def paragraphs(html, digits):
                 cur = p["unit"]
             keep.append(p)
         out = keep
+    if page == "l10233":
+        # Lei 10.233 art. 118 § 1º: Planalto prints one struck line, the 2001 wording ('[...] conforme estabelece o art. 114.'),
+        # noted 'Redação dada pela Medida Provisória nº 2.217-3, de 4.9.2001 e 246, de 4.9.2005'; the MP's art. 1 gave the
+        # paragraph the wording '[...] conforme estabelece o art. 114-A.' (read on its page): the 2001 line loses the note and
+        # the MP's wording follows it
+        # art. 102-A (added by the same MP) is printed after an opening quotation mark copied from the MP ('"Art. 102-A.'),
+        # so the reader filed it and its §§ 1º-4º under art. 102 with no label
+        a102 = False
+        for p in out:
+            if p["unit"] == "art-102" and not p["heading"] and re.match(r'^\s*["“]\s*Art\.\s*102-A', p["text"]):
+                p["text"] = re.sub(r'^\s*["“]\s*', "", p["text"])
+                p["unit"], p["label"], a102 = "art-102-a", "Art. 102-A", True
+                L10233_FIXED.append("art-102-a")
+            elif a102 and p["unit"] == "art-102" and not p["heading"]:
+                p["unit"] = "art-102-a"
+            else:
+                a102 = False
+        keep = []
+        for p in out:
+            keep.append(p)
+            if p["unit"] == "art-118" and p["label"] == "§ 1º" and P.norm(p["text"]).endswith("conforme estabelece o art. 114.")                     and any("2.217-3" in n for n in p["notes"]):
+                q = dict(p)
+                q["text"] = re.sub(r"art\.\s*114\.\s*$", "art. 114-A.", p["text"].rstrip())
+                q["notes"] = ["(Redação dada pela Medida Provisória nº 2.217-3, de 4.9.2001)"] + [n for n in p["notes"]
+                                                                                                if "2.217-3" not in n]
+                p["notes"] = [n for n in p["notes"] if "2.217-3" not in n]
+                keep.append(q)
+                L10233_FIXED.append("art-118 § 1º")
+        out = keep
     if page == "l12462":
         # Lei 12.462 art. 63 § 17 (Medida Provisória 1.349/2026, 'Vigência encerrada', day not read): left out
         n0 = len(out)
@@ -872,6 +901,7 @@ EMPTY_ITEM_PAGES = {"l9250", "l7713"}
 MIXED_PLAIN: list[str] = []
 L9873_FIXED: list[str] = []
 LRDC_FIXED: list[str] = []
+L10233_FIXED: list[str] = []
 EMPTY_ITEMS: list[str] = []
 P.paragraphs = B.paragraphs = paragraphs
 
@@ -1682,6 +1712,70 @@ if any(a["slug"] == _LANTT for a in ACTS):
         "edition only, so its changes are dated by its publication; earlier editions of the chain are not modelled")
     B7.CONVERTED_FIX["mp-155-2003"] = ("lei-10871-2004", "Lei 10.871/2004's page reads 'Conversão da MPv nº 155, de 2003' "
                                                          "(DOU 21.5.2004, art. 38: in force on publication)")
+_W1065 = ("Lei 10.233: Medida Provisória 1.065/2021 (DOU 30.8.2021) lapsed at the close of 6.2.2022 (Ato Declaratório 5/2022), "
+          "and Lei 14.273/2021 (DOU 23.12.2021, edição extra; no vigência clause, so in force 45 days later, on 6.2.2022) "
+          "gave new wordings to arts. 24 IX, 25 I, V, VII to IX and parágrafo único, 38 and 82 § 1º and revoked art. 13 "
+          "parágrafo único (its art. 78 II c). Where Lei 14.273 replaced or revoked a line MP 1.065 had changed, the MP's "
+          "wording ends on 6.2.2022 and the wording the MP had replaced is not back (Planalto prints it a second time, below "
+          "the MP's struck line: that copy is left out). Where Lei 14.273 left the line alone (art. 24 IV, added by the MP; "
+          "art. 25 III), the MP's wording ends with its lapse, on 7.2.2022, and the wording it replaced is back from that day")
+_E14273 = {"end": "2022-02-06", "end_law": "lei-14273-2021", "end_how": "successor-before-lapse"}
+_ELAPSE = {"end": "2022-02-07", "end_law": "mp-1065-2021-fim", "end_how": "lapse"}
+_SKIP = {"skip": True, "end_how": "never-restored"}
+B8.SPAN_FIX += [((_LANTT, u, lab, pre, n), dict(f), _W1065) for u, lab, pre, n, f in (
+    ("art-13", "Parágrafo único", "Parágrafo único. A exploração de ferrovias será disciplinada", 0, _E14273),
+    ("art-13", "Parágrafo único", "Parágrafo único. Considera-se, para os fins da alínea d do inciso V", 1, _SKIP),
+    ("art-38", "Art. 38", "Art. 38. As permissões a serem outorgadas pela ANTT para o transporte rodoviário interestadual "
+                          "semiurbano e pela Antaq serão aplicadas", 0, _E14273),
+    ("art-38", "Art. 38", "Art. 38. As permissões a serem outorgadas pela ANTT para o transporte rodoviário interestadual "
+                          "semiurbano e para o transporte ferroviário", 0, _SKIP),
+    ("art-82", "§ 1º", "§ 1º As atribuições a que se refere o caput não se aplicam aos elementos da infraestrutura autorizados", 0,
+     _E14273),
+    ("art-82", "§ 1º", "§ 1º As atribuições a que se refere o caput não se aplicam aos elementos da infra-estrutura concedidos ou "
+                       "arrendados pela ANTT e pela ANTAQ.", 1, _SKIP),
+    ("art-24", "IV -", "IV - adotar, no todo ou em parte, normas e regulações", 0, _ELAPSE),
+    ("art-25", "III -", "III - publicar editais, julgar as licitações e celebrar contratos de concessão e de permissão", 0,
+     _ELAPSE))]
+_W7A = ("Lei 10.233 art. 7º-A: Planalto prints Lei 10.683/2003's wording (DOU 29.5.2003, in force on publication) as 'Art. 7 o A' "
+        "(no hyphen), which was read as a line of art. 7; it is the article's second wording, from 29.5.2003 to Medida "
+        "Provisória 369/2007's wording (8.5.2007), and Medida Provisória 2.217-3/2001's wording ends on 29.5.2003 (Planalto "
+        "notes it 'Revogado pela Medida Provisória nº 369, de 2007', the MP that replaced the next wording)")
+_W115 = ("Lei 10.233 art. 115: Medida Provisória 2.217-3/2001 (DOU 5.9.2001, in force on publication) gave the caput a new wording "
+         "and its art. 8 revoked § 1º ('Ficam revogados o inciso IV do art. 44 e o § 1º do art. 115'); Planalto notes § 1º "
+         "'Revogado pela Medida Provisória nº 353, de 2007' and strikes the 2001 caput with only Lei 11.483's note, so both end "
+         "on 5.9.2001")
+B8.SPAN_FIX += [
+    ((_LANTT, "art-07", "Art. 7º", "Art. 7º A O CONIT", 0),
+     {"unit": "art-07-a", "label": "Art. 7º-A", "moved_from": ("art-07", "Art. 7º"), "skip": False, "end": "2007-05-08", "end_law": "mp-369-2007",
+      "end_how": "successor", "text": "Art. 7º-A O CONIT será presidido pelo Ministro de Estado dos Transportes e terá como "
+      "membros os Ministros de Estado da Defesa, da Justiça, da Fazenda, do Planejamento, Orçamento e Gestão, do "
+      "Desenvolvimento, Indústria e Comércio Exterior e das Cidades."}, _W7A),
+    ((_LANTT, "art-07-a", "Art. 7º-A", "Art. 7º-A. O CONIT será presidido pelo Ministro de Estado dos Transportes e terá como "
+                                       "membros os Ministros de Estado da Defesa", 0),
+     {"end": "2003-05-29", "end_law": "lei-10683-2003", "end_how": "successor"}, _W7A),
+    ((_LANTT, "art-88", "Parágrafo único", "Parágrafo único. As nomeações dos Diretores do DNIT", 0),
+     {"skip": False, "end": "2019-01-01", "end_law": "mp-870-2019", "end_how": "note"},
+     "Lei 10.233 art. 88 parágrafo único (added by Medida Provisória 2.217-3/2001): Planalto leaves the 'Incluído' note "
+     "unclosed, so the notes after it ('Revogado pela Medida Provisória nº 870, de 2019', 'Revogado pela Lei nº 13.844, de "
+     "2019') were not read; it ends with MP 870's revocation on 1.1.2019, as the other lines MP 870 revoked"),
+    ((_LANTT, "art-115", "Art. 115", "Art. 115. Os quadros de Pessoal Específico e em Extinção, de que tratam os arts. 113 e "
+                                     "114,", 0),
+     {"end": "2001-09-05", "end_law": "mp-2217-2001", "end_how": "successor"}, _W115),
+    ((_LANTT, "art-88-a", "Art. 88-A", "Art. 88-A. As nomeações dos Diretores", 0),
+     {"start": "2019-12-11", "start_law": "lei-13901-2019", "promulgated": True},
+     "Lei 10.233 art. 88-A: Lei 13.901/2019 (DOU 12.11.2019) art. 5, which added it, was vetoed; Congress overrode the veto and "
+     "the President promulgated the part on 10.12.2019 (DOU 11.12.2019; printed on Lei 13.901's page as 'Promulgação partes "
+     "vetadas'), so the article starts on 11.12.2019, credited to Lei 13.901"),
+    ((_LANTT, "art-115", "§ 1º", "§ 1º À medida que forem extintos", 0),
+     {"end": "2001-09-05", "end_law": "mp-2217-2001", "end_how": "note"}, _W115),
+]
+B13.OPEN_ITEMS[_LANTT] = (
+    "Lei 10.233 (open items): the Anexos (tables of posts and salaries, including Tabela IV as Medida Provisória 1.120/2022 and "
+    "Lei 14.465/2022 replaced it) are not part of the history; Medida Provisória 2.217-3/2001's changes are dated by that "
+    "edition (earlier editions of the chain, among them Medida Provisória 2.201-2/2001, are not modelled); the 'Medida "
+    "Provisória 246' that one note of art. 118 § 1º also names has no printed wording and is not modelled; financial effects "
+    "of Lei 10.470/2002 (1.3.2002) and Medida Provisória 375/2007 (1.6.2007) keep the in-force days; 'Vide' pointers "
+    "(Medidas Provisórias 155/2003, 353/2007 and 2.217-3/2001, Decreto 6.550/2008) strike no words and are not modelled")
 B13.OPEN_ITEMS[_LCADIN] = (
     "Lei 10.522 (open items): the text before 22.7.2002 (Medida Provisória 2.176-79/2001 and its earlier editions, of which "
     "this Lei is the conversion) is not part of the history; the STF's judgment in ADIs 5.881, 5.886, 5.890, 5.925, 5.931 and "
@@ -1731,8 +1825,9 @@ _lifespans17 = P.lifespans
 def lifespans(paras, cx):
     problems = _lifespans17(paras, cx)
     # a struck line a SPAN_FIX entry gave an end (Lei 10.522 art. 20-D's '(VETADO' line): the reader's 'no end' is settled
-    dated = {f"no end for struck {p['unit']} [{p['label']}] " for p in paras
-             if p.get("pinned") and p["state"] != "plain" and p.get("end") and not p.get("skip")}
+    dated = {f"no end for struck {u} [{lab}] " for p in paras
+             if p.get("pinned") and p["state"] != "plain" and p.get("end") and not p.get("skip")
+             for u, lab in ((p["unit"], p["label"]), p.get("moved_from") or (p["unit"], p["label"]))}
     return [x for x in problems if not any(x.startswith(t) for t in dated)]
 
 
@@ -1795,6 +1890,18 @@ def _inner(*a):
                    "reads 'Vigência encerrada' and links Ato Declaratório nº 77 of 2026, which could not be read, so the day "
                    "the paragraph lapsed is not known: it is LEFT OUT of every version (the consolidated page, not updated, "
                    "still prints it).")
+    if "art-102-a" in L10233_FIXED:
+        dec.append("Lei 10.233 art. 102-A (added by Medida Provisória 2.217-3/2001): Planalto prints it after an opening "
+                   "quotation mark copied from the MP ('\"Art. 102-A.'); the mark is left out and the article and its §§ 1º to "
+                   "4º are read as art. 102-A, not as unlabelled lines of art. 102.")
+    if "art-118 § 1º" in L10233_FIXED:
+        dec.append("Lei 10.233 art. 118 § 1º: Planalto prints a single struck line, the 2001 wording ('[...] percebidos pelos "
+                   "empregados da RFFSA que vierem a ser absorvidos pela ANTT, conforme estabelece o art. 114.'), with the note "
+                   "'Redação dada pela Medida Provisória nº 2.217-3, de 4.9.2001 e 246, de 4.9.2005'. Medida Provisória "
+                   "2.217-3/2001 (DOU 5.9.2001) art. 1 gave the paragraph the wording '[...] conforme estabelece o art. 114-A.' "
+                   "(read on the MP's page): the printed line stands from 6.6.2001 to 5.9.2001 and the MP's wording from "
+                   "5.9.2001 until Lei 11.483/2007 rewrote art. 118 (31.5.2007). No wording of the 'Medida Provisória 246' the "
+                   "note also names is printed, and none is modelled.")
     if L9873_FIXED:
         dec.append("Lei 9.873: " + "; ".join(dict.fromkeys(L9873_FIXED)) + " (the Lei, the conversion of Medida Provisória "
                    "1.859-17/1999, was promulgated by the President of the Senate).")
