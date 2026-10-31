@@ -547,11 +547,12 @@ def paragraphs(html, digits):
                 p["notes"] = [x for x in p["notes"] if x != n]
                 BARE_TEXT_USED.append(f"{page} {p['unit']}")
     if page == "l9430":
-        # Lei 9.430: Planalto's marker '(Sem eficácia)' after struck lines whose change never took effect or lapsed (Medidas
-        # Provisórias 252/2005, 303/2006, 478/2009) is not part of the text; a line of the marker alone is dropped
+        # Lei 9.430: Planalto's markers '(Sem eficácia)' after struck lines whose change never took effect or lapsed (Medidas
+        # Provisórias 252/2005, 303/2006, 478/2009) and 'Rejeitada' after Medida Provisória 75/2002's lines are not part of
+        # the text; a line of the marker alone is dropped
         keep = []
         for p in out:
-            t = re.sub(r"\s*\(\s*Sem efic[áa]cia\s*\)\s*$", "", p["text"])
+            t = re.sub(r"\s*(?:\(\s*Sem efic[áa]cia\s*\)|(?<![\w,])Rejeitada)\s*$", "", p["text"])
             if t != p["text"]:
                 L9430_FIXED.append(p["unit"])
                 p["text"] = t
@@ -923,6 +924,8 @@ if any(a["slug"] == _L9430 for a in ACTS):
         "Complementar 214/2025 and others) strike no words and are not modelled")
     B.EXPLAINED[_L9430] = {
         "art-74": "the consolidated page prints 'Lei no 5.172' where the annotated page prints 'Lei nº 5.172' (typography)",
+        "art-88": "inciso XXV ends 'com a redação dada pela Lei nº 9.065, de 20 de junho de 1995;', words of the text that the "
+                  "consolidated page's reading takes for an amendment note and cuts",
         "titulos": "the consolidated page still prints the headings of arts. 18 to 22 ('Seção V', 'Preços de Transferência', "
                    "'Bens, Serviços e Direitos Adquiridos no Exterior', 'Receitas Oriundas de Exportações para o Exterior', "
                    "'Apuração dos Preços Médios', 'Juros'); the annotated page strikes them with the articles under them, "
@@ -953,6 +956,21 @@ B8.SPAN_FIX += [
     ((_L9430, "art-19-b", "II -", "II - não apresentar os documentos", 0), _R478, _W478),
     ((_L9430, "art-19-b", "III -", "III - apresentar documentos imprestáveis", 0), _R478, _W478),
     ((_L9430, "art-19-b", "§ 2º", "§ 2º A utilização do método", 0), _R478, _W478),
+]
+_W22 = ("Lei 9.430 art. 22: Lei 12.715/2012 art. 48 gave the caput a new wording and added § 5º, and its art. 79 I revoked § 4º, "
+        "all from 1.1.2013 (art. 78 § 1º, art. 79 I); before that day Lei 12.766/2012 (DOU 28.12.2012) art. 5 gave the article "
+        "its next wording with effects from 1.1.2013 and its art. 14 revoked § 5º. So Lei 12.715's caput and § 5º never took "
+        "effect: the 1996 caput and § 4º stand until 1.1.2013, when Lei 12.766's wording applies")
+_W63 = ("Lei 9.430 art. 63 § 3º: added by Medida Provisória 75/2002 (DOU 25.10.2002), which the Chamber rejected (in force "
+        "to 18.12.2002); Planalto notes it only 'Vide Medida Provisória nº 75, de 2002', followed by 'Rejeitada'")
+B8.SPAN_FIX += [
+    ((_L9430, "art-22", "Art. 22", "Art. 22. Os juros pagos ou creditados a pessoa vinculada, quando decorrentes de contrato de "
+      "mútuo", 0), {"skip": True, "end_how": "never-in-force"}, _W22),
+    ((_L9430, "art-22", "§ 5º", "§ 5º O Ministro de Estado da Fazenda poderá reduzir", 0),
+     {"skip": True, "end_how": "never-in-force"}, _W22),
+    ((_L9430, "art-63", "§ 3º", "§ 3º O disposto nos §§ 1º e 2º aplica-se aos lançamentos de ofício", 0),
+     {"start": "2002-10-25", "start_law": "mp-75-2002", "end": "2002-12-19", "end_law": "mp-75-2002-fim", "end_how": "lapse",
+      "skip": False, "gaps": []}, _W63),
 ]
 # Lei 9.430 arts. 18 to 22: the headings above them (Seção V 'Preços de Transferência' and the article headings) are struck
 # with no note; they fall with the articles, revoked by Lei 14.596/2023 (the 'heads' rule would end each with the first
@@ -1059,9 +1077,9 @@ def _inner(*a):
                    "carries Lei 15.270's note; Planalto's marker 'Sem eficácia' after the struck lines of "
                    "Medida Provisória 252/2005 in art. 22 is not part of the text (" + "; ".join(dict.fromkeys(L9250_FIXED)) + ").")
     if L9430_FIXED:
-        dec.append("Lei 9.430: Planalto's marker '(Sem eficácia)' after struck lines (wordings of Medidas Provisórias 252/2005, "
-                   "303/2006 and 478/2009 that lapsed or never took effect, and the 1996 lines they touched) is not part of the "
-                   "text and is left out (" + ", ".join(dict.fromkeys(L9430_FIXED)) + ").")
+        dec.append("Lei 9.430: Planalto's markers '(Sem eficácia)' after struck lines (wordings of Medidas Provisórias "
+                   "252/2005, 303/2006 and 478/2009 that lapsed or never took effect, and the 1996 lines they touched) and "
+                   "'Rejeitada' after the lines of Medida Provisória 75/2002 (rejected) are not part of the text and are left out (" + ", ".join(dict.fromkeys(L9430_FIXED)) + ").")
     if HEADS_USED:
         dec.append("Lei 9.430: the headings above arts. 18 to 22 (" + "; ".join(f"'{x}'" for x in dict.fromkeys(HEADS_USED))
                    + "), struck with no note, fall with the articles under them, revoked by Lei 14.596/2023 from 1.1.2024 "
