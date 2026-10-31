@@ -102,6 +102,32 @@ P.VIGENCIA_FIXED.update({
                                    "publicação da presente lei, com a seguinte redação' (DOU 2.10.1944)"),
 })
 
+# court and other open items named in decisions (Planalto's 'Vide' notes are dropped from the text, so nothing is modelled)
+OPEN_ITEMS = {
+    "lei-dos-crimes-de-responsabilidade": (
+        "Lei dos Crimes de Responsabilidade (open item): Planalto's page marks arts. 39, 41 and the procedure articles for "
+        "Ministers of the Supremo Tribunal Federal and the Procurador-Geral da República with '(Vide ADPF 1259)' and "
+        "'(Vide ADPF 1260)', with no date and no struck text; the STF decisions in those cases are not modelled, and the "
+        "text is the law's own wording"),
+    "lei-do-crime-racial": (
+        "Crimes resultantes de preconceito de raça ou de cor (open item): Planalto's page heads the act with '(Vide ADO Nº "
+        "26)', the STF ruling (2019) that applies the act's offences to homophobia and transphobia until Congress legislates; "
+        "it changes no words and is not modelled"),
+    "lei-das-contravencoes-penais": (
+        "Lei das Contravenções Penais: Planalto's 'Vide' pointers at the head of the act (Lei 1.390/1951, Lei 7.437/1985) and "
+        "at art. 50 (Decretos-Leis 4.866/1942 and 9.215/1946) name laws that changed no words of the act; they are not "
+        "modelled"),
+}
+_inner13 = B6.PB5B._write_part5
+
+
+def _inner(*a):
+    B5.EXTRA_DECISIONS.extend(OPEN_ITEMS[act["slug"]] + "." for act in a[0] if act["slug"] in OPEN_ITEMS)
+    return _inner13(*a)
+
+
+B6.PB5B._write_part5 = _inner
+
 SRC = HERE / "sources_batch13.json"
 B5.SRC = SRC
 B5.PIN_FILES = B5.PIN_FILES + [SRC]
