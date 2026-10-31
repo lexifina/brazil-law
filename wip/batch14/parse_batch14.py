@@ -99,6 +99,7 @@ PARTS: dict[str, list[str]] = {
     "b": ["lei-das-aguas", "lei-dos-crimes-de-responsabilidade-dos-prefeitos", "lei-geral-de-telecomunicacoes",
           "lei-dos-crimes-contra-a-economia-popular"],
     "c": ["lei-do-snuc", "lei-da-liberdade-economica", "estatuto-da-igualdade-racial"],
+    "d": ["estatuto-da-terra"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH14_ACTS", "").split(",") if s] or VERIFIED
@@ -323,6 +324,63 @@ def paragraphs(html, digits):
 
 
 P.paragraphs = B.paragraphs = paragraphs
+# 14d: Estatuto da Terra. Decreto-Lei 2.431/1988 (DOU 14.5.1988) rewrote arts. 27 and 28 (the FUNMIRAD) and revoked art.
+# 28 §§ 1-4; Congress rejected it (Ato Declaratório de 14.6.1989; CF 1967/69 art. 55 § 1), and the 1964 text stood again.
+P.VIGENCIA_FIXED["dl-2431-1988"] = (
+    "1988-05-14", "art. 5: 'O presente decreto-lei entra em vigor na data de sua publicação' (DOU 14.5.1988); Planalto "
+                  "strikes the whole page ('Rejeitado pelo Ato Declaratório de 14.6.1989')")
+_REJ = "adc-1989-dl2431"
+P.COURTS[_REJ] = {
+    "label": "Ato Declaratório do Congresso Nacional de 14.6.1989 (rejeição do Decreto-Lei nº 2.431, de 1988)",
+    "kind": "law", "enacted": "1989-06-14", "published": "1989-06-14",
+    "title": "Rejeição do Decreto-Lei nº 2.431, de 12 de maio de 1988.",
+    "url": PL + "decreto-lei/1965-1988/Del2431.htm",
+    "from": "1989-06-14", "case": r"(?!)", "where": [],
+    "why": "Decreto-Lei 2.431/1988 (DOU 14.5.1988, in force on publication) rewrote Estatuto da Terra arts. 27 and 28 (the "
+           "FUNMIRAD fund) and revoked art. 28 §§ 1º to 4º; Congress rejected it by the Ato Declaratório of 14.6.1989 "
+           "(Planalto's notes: 'Redação dada pelo Decreto Lei nº 2.431, de 1988 e rejeitado pelo Ato Declaratório de "
+           "14.6.1989'; its own page: 'Rejeitado pelo Ato Declaratório de 14.6.1989'), and the 1964 text of arts. 27 and 28, "
+           "which Planalto prints again unstruck below the struck wordings, stood again. The decree-law's wordings end and "
+           "the 1964 text is restored on 14.6.1989, the act's own date (the page gives no DOU day for it), credited to "
+           "the Ato Declaratório (recorded as a law of the Congress)"}
+_ET = "estatuto-da-terra"
+_ETW = "Estatuto da Terra arts. 27 and 28: Decreto-Lei 2.431/1988 and its rejection (see the decision on it)"
+_ET_DL = {"end": "1989-06-14", "end_law": _REJ, "end_how": "note", "skip": False}
+_ET_BACK = {"start": "1989-06-14", "start_law": _REJ}
+B8.SPAN_FIX += [((_ET, u, lab, pre, n), f, _ETW) for u, lab, pre, n, f in [
+    ("art-027", "Art. 27", "Art. 27. É criado o Fundo Nacional da Reforma e do Desenvolvimento", 0, _ET_DL),
+    ("art-027", "Parágrafo único", "Parágrafo único. O FUNMIRAD é fundo especial", 0, _ET_DL),
+    ("art-027", "Art. 27", "Art. 27. É criado o Fundo Nacional de Reforma Agrária", 1, _ET_BACK),
+    ("art-028", "Art. 28", "Art. 28. São recursos do FUNMIRAD", 0, _ET_DL),
+    *[("art-028", lab, pre, 0, _ET_DL) for lab, pre in [
+        ("I -", "I - dotações consignadas"), ("II -", "II - recursos do Fundo de Investimento Social"),
+        ("III -", "III - doações realizadas"), ("IV -", "IV - recursos oriundos de acordos"),
+        ("V -", "V - empréstimos de instituições"), ("VI -", "VI - quaisquer outros recursos")]],
+    ("art-028", "Art. 28", "Art. 28. O Fundo Nacional de Reforma Agrária será constituído", 1, _ET_BACK),
+    *[("art-028", lab, pre, 1, _ET_BACK) for lab, pre in [
+        ("I -", "I - do produto da arrecadação"), ("II -", "II - da destinação específica"),
+        ("III -", "III - dos recursos destinados em lei"), ("IV -", "IV - dos recursos oriundos das verbas"),
+        ("V -", "V - de doações recebidas"), ("VI -", "VI - da receita do Instituto"),
+        ("§ 1º", "§ 1º Os recursos de que tratam"), ("§ 2º", "§ 2º Os saldos dessas dotações"),
+        ("§ 3º", "§ 3º Os tributos, dotações"), ("§ 4º", "§ 4º Os atos relativos à receita")]],
+]]
+P.MP_PENDING["mp-2183-2001"] = (
+    "Medida Provisória nº 2.183-56, de 24.8.2001 (DOU 27.8.2001), in force on 11.9.2001, stays in force until a later MP "
+    "revokes it or Congress votes on it (Emenda Constitucional 32/2001, art. 2)")
+B.EXPLAINED[_ET] = {
+    "preambulo": "layout: the consolidated page sets the ementa ('Dispõe sobre o Estatuto da Terra ...') as a centred heading, "
+                 "the annotated page as the preamble's first line",
+    "titulos": "layout: the ementa (see preambulo), and the consolidated page breaks the heading 'Do Rendimento da "
+               "Exploração Agrícola e Pastoril e das Indústrias Extrativas, Vegetal e Animal' over two lines",
+    "art-002": "the consolidated page misprints 'preferencia'",
+    "art-042": "typesetting: '§ 2º Vetado.' (annotated) / '§ 2º Vetado' (consolidated)",
+    "art-054": "typesetting: 'Art. 54. Vetado.' (annotated) / 'Art. 54. Vetado' (consolidated)",
+    "art-095": "the consolidated page misprints ';.' at the end of an inciso",
+    "art-096": "the consolidated page still prints the parágrafo único that Lei 11.443/2007 replaced by §§ 1º to 5º; the "
+               "annotated page strikes it",
+    "art-126": "the consolidated page prints 'Lei n.' for 'Lei nº', 'artigo 80' for 'artigo 8º' and '19 de junho de 1964' "
+               "for Lei 2.237's date (19 de junho de 1954)",
+}
 OPEN_ITEMS = B13.OPEN_ITEMS
 OPEN_ITEMS.update({
     "lei-do-iss": (

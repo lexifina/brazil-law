@@ -37,6 +37,13 @@ acts, 2009 versions, 1699 commits, check 0/0, compare identical, audit clean.
 Bad pins seen by headyear (not used by a/b; fix before building the acts that cite them): law:lei-10877-2004 -> L10.887,
 law:lei-11974-2009 -> L11934. False positives: lc-188-2021, lc-190-2022 (heading without 'DE'); lc-115-2000 unused.
 
+## 99-batch14c - PUBLISHed 2026-10-31
+SNUC 9.985/2000 (8), Lei da Liberdade Econômica 13.874/2019 (5), Estatuto da Igualdade Racial 12.288/2010 (2) = 15
+versions. Hand: law:lei-11516-2007 pinned; NOTE_FIX 'Lei nº 11.516, 2007'; EXPLAINED dotted quoted lines (LLE 14, EIR
+62/64); new paragraphs wrapper SQUOTE_KEPT: a quote-closing line in single quotes marked 'rubrica' goes back to the
+article printed above it (LLE art. 7 'Art. 1.368-F'). Part sha f758bf63; merged 110 acts, 2024 versions, 1712 commits,
+check 0/0, compare identical, audit clean.
+
 ## Next
 Configured in ALL_ACTS (pages pinned): Lei 8.212/1991 (l8212cons.htm vs compilado), Lei 8.213/1991 (l8213cons.htm vs
 compilado), LC 123/2006 (watch LC 214 art. 543 V: partial 2033 repeals), Estatuto da Terra, LGT 9.472, Lei 9.433, SNUC,
