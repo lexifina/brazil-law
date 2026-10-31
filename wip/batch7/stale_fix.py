@@ -97,24 +97,8 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
                     p["start"], p["start_law"] = q["start"], q["start_law"]
                     USED["D"].append(f"{act} {p['unit']} [{p['label'] or p['text'][:30]}] from {q['start']}")
                 break
-    # E: an unnoted struck line inside a struck block whose caput or paragraph above it came in later belongs to that
-    # block (Planalto prints each superseded wording of an article whole, the notes on its first lines)
-    for i, p in enumerate(paras):
-        if p["state"] == "plain" or p["start_law"] or p.get("skip") or p["heading"] or not p["label"] or p["label"] == "rubrica":
-            continue
-        lv = level(p["label"])
-        for q in reversed(paras[:i]):
-            if q["unit"] != p["unit"]:
-                break
-            if q["heading"] or q.get("skip") or not q["label"] or q["label"] == "rubrica":
-                continue
-            if level(q["label"]) < lv:
-                if q["state"] != "plain" and q["start_law"] and q["start"] > p["start"] and (not p["end"] or q["start"] <= p["end"]):
-                    p["start"], p["start_law"] = q["start"], q["start_law"]
-                    if p["end"] and p["end"] < p["start"]:
-                        p["end"] = p["start"]
-                    USED["E"].append(f"{act} {p['unit']} [{p['label']}] from {q['start']}")
-                break
+    # (Not done: dating an unnoted struck line by the struck caput printed above it. Planalto prints an article's
+    # unchanged paragraphs once, below its latest superseded caput: CP art. 180 §§ 1º-3º of 1940 under the 1955 caput.)
     # B: twin wordings (same dispositivo, same start) printed one below the other
     def alive_at(r, d):
         return not r.get("skip") and r["start"] <= d and (r["end"] is None or d < r["end"]) and not any(
@@ -199,10 +183,6 @@ def decisions() -> list[str]:
                    "unlabelled lines right under it end with it: " + "; ".join(dict.fromkeys(USED["A"])) + ".")
     if USED["L"]:
         out.append("A caput printed 'Artigo N - ...' is read as that article's caput: " + "; ".join(dict.fromkeys(USED["L"])) + ".")
-    if USED["E"]:
-        out.append("An unnoted struck line inside a struck wording of an article whose caput or paragraph above it came in "
-                   "later belongs to that wording (Planalto prints each superseded wording whole, with the notes on its "
-                   "first lines) and starts with it: " + "; ".join(dict.fromkeys(USED["E"])) + ".")
     if USED["D"]:
         out.append("A line with no note of its own, printed unstruck under an unstruck line a later law inserted "
                    "('Incluído'), starts with it where an older wording under the same label is printed struck in the "
