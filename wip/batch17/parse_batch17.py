@@ -1229,6 +1229,10 @@ B8.SPAN_FIX += [
     ((_LMCMV, "art-63", "Art. 63", "Art. 63. (VETADO)", 0),
      {"end": "2016-12-23", "end_law": "mp-759-2016", "end_how": "note", "skip": False}, _W_CH3),
 ]
+for _lab, _rest in (("§ 1º", "A demarcação urbanística e a legitimação"), ("§ 2º", "Sem prejuízo de outros meios de prova")):
+    B15.TEXT_FIX.append(("l11977", f"{_lab} {_lab} {_rest}", f"{_lab} {_rest}",
+                         f"Lei 11.977 art. 47 {_lab} in Lei 12.424/2011's wording: the annotated page prints the label twice "
+                         f"('{_lab} {_lab} {_rest[:20]}...'); Lei 12.424 art. 47 prints it once"))
 B.EXPLAINED[_LMCMV] = {
     "titulos": "the consolidated page still prints the heading 'CAPÍTULO III' of the chapter Medida Provisória 759/2016 and "
                "Lei 13.465/2017 revoked; the annotated page strikes it with the chapter",
