@@ -266,13 +266,13 @@
   },
   {
    "id": "law:lc-122-2006",
-   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp138.htm",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp122.htm",
    "cc": {
     "crawl": "CC-MAIN-2026-43",
-    "timestamp": "20261006000312",
-    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170053974.20/warc/CC-MAIN-20261005230946-20261006020946-00629.warc.gz",
-    "offset": "53811812",
-    "length": "3323"
+    "timestamp": "20261012184752",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054675.35/warc/CC-MAIN-20261012174155-20261012204155-00352.warc.gz",
+    "offset": "39494897",
+    "length": "3152"
    }
   },
   {
