@@ -380,17 +380,6 @@
    }
   },
   {
-   "id": "l9430",
-   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9430.htm",
-   "cc": {
-    "crawl": "CC-MAIN-2026-39",
-    "timestamp": "20260910010511",
-    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492699903.59/warc/CC-MAIN-20260910001732-20260910031732-00248.warc.gz",
-    "offset": "38789139",
-    "length": "77320"
-   }
-  },
-  {
    "id": "l9430-compilada",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/l9430compilada.htm",
    "cc": {
