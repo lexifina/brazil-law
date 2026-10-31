@@ -12,6 +12,17 @@
    }
   },
   {
+   "id": "ctx:lcvm-original",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385original.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-30",
+    "timestamp": "20260722173619",
+    "filename": "crawl-data/CC-MAIN-2026-30/segments/1783664247357.85/warc/CC-MAIN-20260722160734-20260722190734-00603.warc.gz",
+    "offset": "35827286",
+    "length": "11188"
+   }
+  },
+  {
    "id": "law:dec-3995-2001",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto/2001/d3995.htm",
    "cc": {
