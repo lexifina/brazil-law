@@ -166,6 +166,11 @@ B.EXPLAINED.update({
         "art-15": "spelling: 'reúna' (annotated page) / 'reuna' (consolidated page)"},
     "estatuto-da-pessoa-com-deficiencia": {"art-101": _Q.format(x="§ 2º."), "art-104": _Q.format(x="§ 2º."),
                                             "art-114": _Q.format(x="§ 1º.")},
+    "lei-de-lavagem-de-dinheiro": {
+        "art-10": "the consolidated page's parser files 'Art. 10A.' (printed without the hyphen) under art. 10; the history "
+                  "files it as art. 10-A (see the label decision)",
+        "art-10-a": "as art. 10",
+    },
     "estatuto-do-desarmamento": {
         "art-06": "the consolidated page prints the editorial note '(Expressões declaradas inconstitucionais pela ADIN "
                   "5538)' inside the line of inciso III; the history leaves the note out",
@@ -237,6 +242,12 @@ LABEL_FIX: list[tuple[str, str, str, str, str]] = [
      "784's own text)"),
 ]
 LABEL_USED: list[str] = []
+# (c) an article label printed without its hyphen ('Art. 10A.'): (act page, line start) -> (unit, label, why); the text
+#     stays as printed
+UNIT_FIX: list[tuple[str, str, str, str, str]] = [
+    ("llav", "Art. 10A.", "art-10-a", "Art. 10-A",
+     "Lei de Lavagem: 'Art. 10A.' (Incluído pela Lei nº 10.701, de 2003) is filed as art. 10-A, not as a line of art. 10"),
+]
 # (b) a line with words struck by a court whose note is printed inside the text: (act page, unit, label, note) -> two
 #     wordings, the full line (struck words kept) and the unstruck words, the note dropped from both; their days are
 #     set in SPAN_FIX
@@ -267,6 +278,10 @@ def paragraphs(html: str, digits: int):
     for i, p in enumerate(out):
         p["i"] = i
     for p in out:
+        for pg, start, unit, label, why in UNIT_FIX:
+            if pg == page and p["text"].startswith(start) and not p["heading"]:
+                p["unit"], p["label"] = unit, label
+                LABEL_USED.append(why)
         for pg, start, fixed, label, why in LABEL_FIX:
             if pg == page and p["text"].startswith(start):
                 p["text"] = fixed + p["text"][len(start):]
