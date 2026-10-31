@@ -187,7 +187,8 @@ P.VIGENCIA_FIXED.update({
     "lei-8176-1991": ("1991-02-18", "art. 6 (as printed): 'Esta lei entra em vigor cinco dias após a sua publicação' (DOU "
                                     "13.2.1991): 13.2.1991 + 5 days"),
     "mp-687-2015": ("2015-08-18", "art. 4 II: in force 'na data de sua publicação' (DOU 18.8.2015) for every provision but "
-                                  "the new wording of Lei 12.529/2011 art. 23 caput (art. 4 I: 1.1.2016)"),
+                                  "the new wording of Lei 12.529/2011 art. 23 caput (art. 4 I: 1.1.2016), which Planalto's page does not "
+                                  "print; its wording of the parágrafo único is in force from publication"),
     "lei-13196-2015": ("2015-12-02", "art. 5 II: in force 'na data de sua publicação' (DOU 2.12.2015) for every provision but "
                                      "the wording its art. 2 gives Lei 12.529/2011 art. 23 (art. 5 I: 1.1.2016)"),
     "mp-871-2019": ("2019-01-18", "art. 34 III: in force 'na data de sua publicação' (DOU 18.1.2019, edição extra) for every "
@@ -203,8 +204,6 @@ P.VETO_PROMULGATION = {
 P.VETO_PROMULGATED_UNITS = {"lei-13964-2019": {("lei-de-interceptacao-telefonica", "art-08-a", "§ 2º"),
                                                   ("lei-de-interceptacao-telefonica", "art-08-a", "§ 4º")}}
 P.VIGENCIA_PROVISION.update({
-    ("mp-687-2015", "lei-de-defesa-da-concorrencia", "art-023"): (
-        "2016-01-01", "Medida Provisória nº 687/2015 art. 4 I: its wording of art. 23 caput in force on 1.1.2016"),
     ("lei-13196-2015", "lei-de-defesa-da-concorrencia", "art-023"): (
         "2016-01-01", "Lei 13.196/2015 art. 5 I: its wording of art. 23 in force on 1.1.2016"),
     ("mp-871-2019", "lei-organica-da-assistencia-social", "art-20"): (
