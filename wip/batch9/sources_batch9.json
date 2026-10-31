@@ -1,6 +1,17 @@
 {
  "fetch": [
   {
+   "id": "ato:adc-23-2016-mpv700",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Congresso/adc-023-mpv700.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261016025333",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170344220.79/warc/CC-MAIN-20261016012506-20261016042506-00780.warc.gz",
+    "offset": "777639220",
+    "length": "2343"
+   }
+  },
+  {
    "id": "ato:adc-35-2019-mpv867",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Congresso/adc-35-mpv867.htm",
    "cc": {

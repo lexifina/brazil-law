@@ -309,6 +309,32 @@ B8.SPAN_FIX += [
     ((_CF, "art-03", "b)", "b) as obras de infraestrutura destinadas às concessões", 1),
      {"start": "2018-02-28", "start_law": "stf-adc-42"}, _WADC42),
 ]
+# Lei de Registros Públicos
+P.VIGENCIA_FIXED.update({
+    "mp-1085-2021": ("2021-12-28", "'Esta Medida Provisória entra em vigor: I - em 1º de janeiro de 2024, quanto ao art. 11 "
+                                   "na parte em que altera o art. 130 da Lei nº 6.015, de 1973; e II - na data de sua "
+                                   "publicação, quanto aos demais dispositivos' (DOU 28.12.2021); inciso I is printed "
+                                   "struck (its conversion law, Lei 14.382/2022, did not keep it), so its changes to the "
+                                   "Lei de Registros Públicos are dated 28.12.2021"),
+    "lei-9534-1997": ("1998-03-11", "'Esta Lei entra em vigor no prazo de noventa dias, contado da data de sua publicação' "
+                                    "(DOU 11.12.1997): 11.3.1998"),
+    "lei-6140-1974": ("1975-07-01", "art. 2: 'A presente Lei entrará em vigor a 1º de julho de 1975' (DOU 29.11.1974); "
+                                    "before the Lei de Registros Públicos itself was in force, so its changes are part of "
+                                    "the act's first day"),
+})
+P.MP_LAPSE.update({
+    "mp-922-2020": ("2020-06-30", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 72, de 2020 (DOU "
+                                  "1.7.2020): 'teve seu prazo de vigência encerrado no dia 29 de junho de 2020'"),
+    "mp-700-2015": ("2016-05-18", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 23, de 2016 (DOU "
+                                  "19.5.2016): 'teve seu prazo de vigência encerrado no dia 17 de maio'"),
+})
+P.MP_PENDING.update({
+    "mp-2220-2001": "Medida Provisória nº 2.220, de 4.9.2001 (DOU 5.9.2001, edição extra) was in force on 11.9.2001, so it "
+                    "stays in force until a later MP revokes it or Congress votes on it (Emenda Constitucional 32/2001, "
+                    "art. 2)",
+    "mp-2187-2001": "Medida Provisória nº 2.187-13, de 24.8.2001 (DOU 27.8.2001) was in force on 11.9.2001, so it stays in "
+                    "force until a later MP revokes it or Congress votes on it (Emenda Constitucional 32/2001, art. 2)",
+})
 P.MP_LAPSE["mp-867-2018"] = ("2019-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 35, de 2019 (DOU "
                                            "5.6.2019): 'teve seu prazo de vigência encerrado no dia 3 de junho do corrente "
                                            "ano'")
