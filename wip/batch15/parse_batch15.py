@@ -257,6 +257,21 @@ P.MP_PENDING.update({
                      "86 and Lei 8.213 arts. 7 and 8. Planalto's notes name this edition only, so the revocations are "
                      "dated by its publication; earlier editions of the chain are not modelled"),
 })
+P.VIGENCIA_FIXED.update({
+    "lei-13202-2015": ("2015-12-09", "art. 16: 'Esta Lei entra em vigor: I - a partir de 1º de dezembro de 2015 quanto ao art. 15; "
+                                     "II - na data de sua publicação quanto aos demais dispositivos' (DOU 9.12.2015): its "
+                                     "changes to Lei 8.212 (arts. 12 and 17) fall under II"),
+    "lei-13183-2015": ("2015-11-05", "art. 7: 'Esta Lei entra em vigor: I - em 3 de janeiro de 2016, quanto à redação do art. 16 "
+                                     "e do inciso II do § 2º do art. 77 da Lei nº 8.213 [...]; II - em 1º de julho de 2016, "
+                                     "quanto à redação do § 5º do art. 29-C da Lei nº 8.213 [...]; III - na data de sua "
+                                     "publicação, para os demais dispositivos' (DOU 5.11.2015); the dispositivos of I and II "
+                                     "are dated by provision"),
+})
+P.VIGENCIA_PROVISION.update({
+    ("lei-12873-2013", _C, "art-032-c"): (
+        "2014-05-01", "Lei 12.873/2013 art. 63 I: 'no 1º (primeiro) dia do sétimo mês subsequente à data de sua publicação, em "
+                      "relação ao art. 32-C da Lei nº 8.212' (DOU 25.10.2013): 1.5.2014"),
+})
 P.VIGENCIA_FIXED["lei-11098-2005"] = (
     "2005-01-14", "art. 14: 'Esta Lei entra em vigor: I - a partir da data de publicação do ato referido no inciso I do art. "
                   "8º, para os arts. 1º, 2º, 3º e 4º; e II - a partir de 5 de outubro de 2004, para os demais artigos' (DOU "
