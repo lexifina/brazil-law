@@ -153,4 +153,5 @@ Penais, Lei 1.079/1950, Lei 7.716/1989 (24 versions); merged 79 acts, 1805 versi
 99-batch13e PUBLISHed: Lei de Migração, Lei 9.474/1997, Lei Antiterrorismo, Lei 7.960/1989 (6 versions); merged 91 acts, 1882 versions, check 0/0.
 99-batch13f PUBLISHed: Lei 4.595/1964 (SFN), Lei do Cheque (28 versions); merged 93 acts, 1910 versions, check 0/0. FGTS deferred.
 99-batch13g PUBLISHed: Lei das Duplicatas, Lei 8.935/1994, Lei Orgânica do TCU, Lei 10.259/2001 (26 versions); merged 97 acts, 1936 versions, check 0/0.
+99-batch13h PUBLISHed: Lei 12.153/2009, Lei 8.038/1990, Lei de Alimentos, PNRS (13 versions); merged 101 acts, 1949 versions, check 0/0.
 Details: batch13/PROGRESS.md.

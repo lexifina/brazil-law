@@ -69,6 +69,11 @@ PAGES = {
     "lcart": "leis/l8935.htm",
     "ltcu": "leis/l8443.htm",
     "ljef": "leis/leis_2001/l10259.htm",
+    # 13h
+    "ljefp": "_ato2007-2010/2009/lei/l12153.htm",
+    "l8038": "leis/l8038.htm",
+    "lalim": "leis/l5478.htm",
+    "lpnrs": "_ato2007-2010/2010/lei/l12305.htm",
 }
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -127,6 +132,14 @@ ALL_ACTS: list[dict] = [
          "Lei Orgânica do Tribunal de Contas da União (Lei nº 8.443, de 16 de julho de 1992)", 3),
     _act("lei-dos-juizados-especiais-federais", "LJEF", "ljef", "ljef", "lei-10259-2001",
          "Lei dos Juizados Especiais Federais (Lei nº 10.259, de 12 de julho de 2001)", 2),
+    _act("lei-dos-juizados-da-fazenda-publica", "LJEFP", "ljefp", "ljefp", "lei-12153-2009",
+         "Lei dos Juizados Especiais da Fazenda Pública (Lei nº 12.153, de 22 de dezembro de 2009)", 2),
+    _act("lei-8038-de-1990", "L8038", "l8038", "l8038", "lei-8038-1990",
+         "Processos perante o STJ e o STF (Lei nº 8.038, de 28 de maio de 1990)", 2),
+    _act("lei-de-alimentos", "LAlim", "lalim", "lalim", "lei-5478-1968",
+         "Lei de Alimentos (Lei nº 5.478, de 25 de julho de 1968)", 2),
+    _act("politica-nacional-de-residuos-solidos", "PNRS", "lpnrs", "lpnrs", "lei-12305-2010",
+         "Política Nacional de Resíduos Sólidos (Lei nº 12.305, de 2 de agosto de 2010)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-das-contravencoes-penais", "lei-dos-crimes-de-responsabilidade", "lei-do-crime-racial"],
@@ -134,6 +147,8 @@ PARTS: dict[str, list[str]] = {
     "d": ["lei-das-estatais", "lei-dos-partidos-politicos"],
     "f": ["lei-do-sistema-financeiro-nacional", "lei-do-cheque"],
     "g": ["lei-das-duplicatas", "lei-dos-cartorios", "lei-organica-do-tcu", "lei-dos-juizados-especiais-federais"],
+    "h": ["lei-dos-juizados-da-fazenda-publica", "lei-8038-de-1990", "lei-de-alimentos",
+          "politica-nacional-de-residuos-solidos"],
     "e": ["lei-de-migracao", "estatuto-dos-refugiados", "lei-antiterrorismo", "lei-da-prisao-temporaria"],
     "c": ["lei-de-condominios-e-incorporacoes", "lei-da-alienacao-fiduciaria-de-imoveis", "lei-da-alienacao-fiduciaria"],
 }
@@ -188,6 +203,14 @@ ACT_DAY_ALL: dict[str, tuple[str, str]] = {
     "lei-10259-2001": ("2002-01-14", "Lei 10.259/2001 art. 27: 'Esta Lei entra em vigor seis meses após a data de sua "
                                      "publicação' (DOU 13.7.2001): the period ends on 13.1.2002 and the law is in force the day "
                                      "after (LC 95/1998 art. 8 § 1, as amended by LC 107/2001)"),
+    "lei-12153-2009": ("2010-06-24", "Lei 12.153/2009 art. 28: 'Esta Lei entra em vigor após decorridos 6 (seis) meses de sua "
+                                     "publicação oficial' (DOU 23.12.2009): the period ends on 23.6.2010 and the law is in "
+                                     "force the day after (LC 95/1998 art. 8 § 1)"),
+    "lei-8038-1990": ("1990-05-29", f"Lei 8.038/1990 art. 44: {_PUB} (DOU 29.5.1990)"),
+    "lei-5478-1968": ("1968-08-25", "Lei 5.478/1968 art. 28: 'Esta lei entrará em vigor 30 (trinta) dias depois de sua "
+                                    "publicação' (DOU 26.7.1968; rectified 14.8.1968, republished 8.4.1974): 26.7.1968 + 30 "
+                                    "days"),
+    "lei-12305-2010": ("2010-08-03", f"Lei 12.305/2010 art. 57: {_PUB} (DOU 3.8.2010)"),
 }
 _L = B._act_law
 ACT_LAWS_ALL: dict[str, dict] = {
@@ -245,6 +268,16 @@ ACT_LAWS_ALL: dict[str, dict] = {
                         "providências.", "1992-07-16", "1992-07-17", PAGES["ltcu"]),
     "lei-10259-2001": _L("Lei nº 10.259, de 2001", "Dispõe sobre a instituição dos Juizados Especiais Cíveis e Criminais no "
                          "âmbito da Justiça Federal.", "2001-07-12", "2001-07-13", PAGES["ljef"]),
+    "lei-12153-2009": _L("Lei nº 12.153, de 2009", "Dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos "
+                         "Estados, do Distrito Federal, dos Territórios e dos Municípios.", "2009-12-22", "2009-12-23",
+                         PAGES["ljefp"]),
+    "lei-8038-1990": _L("Lei nº 8.038, de 1990", "Institui normas procedimentais para os processos que especifica, perante o "
+                        "Superior Tribunal de Justiça e o Supremo Tribunal Federal.", "1990-05-28", "1990-05-29",
+                        PAGES["l8038"]),
+    "lei-5478-1968": _L("Lei nº 5.478, de 1968", "Dispõe sobre ação de alimentos e dá outras providências.", "1968-07-25",
+                        "1968-07-26", PAGES["lalim"]),
+    "lei-12305-2010": _L("Lei nº 12.305, de 2010", "Institui a Política Nacional de Resíduos Sólidos; altera a Lei nº 9.605, de "
+                         "12 de fevereiro de 1998; e dá outras providências.", "2010-08-02", "2010-08-03", PAGES["lpnrs"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -398,10 +431,21 @@ B8.SPAN_FIX += [((_LDUP, u, lab, pre, n), _L6458, _LDUP_WHY) for u, lab, pre, n 
 _paragraphs13 = P.paragraphs
 
 
+LALIM_QUOTED: list[str] = []
+
+
 def paragraphs(html, digits):
     if B8.CURRENT_PAGE[0] == "ltcu":
         html = html.replace("Lei Nº 8.443, DE 16 DE JULHO DE 1992.", "LEI Nº 8.443, DE 16 DE JULHO DE 1992.", 1)
-    return _paragraphs13(html, digits)
+    out, rest = _paragraphs13(html, digits)
+    if B8.CURRENT_PAGE[0] == "lalim":
+        # Lei de Alimentos art. 19 § 1º as enacted quotes Código de Processo Civil (1939) art. 921 without quotation
+        # marks; its 'Art. 921.' line and the lines after it, up to art. 20, are art. 19's own text
+        for p in out:
+            if p["unit"] == "art-921":
+                p["unit"] = "art-19"
+                LALIM_QUOTED.append(p["label"])
+    return out, rest
 
 
 P.paragraphs = B.paragraphs = paragraphs
@@ -426,6 +470,28 @@ B.EXPLAINED["lei-das-duplicatas"] = {
     "preambulo": "layout: the consolidated page sets the ementa ('Dispõe sôbre as Duplicatas ...') as a centred heading, the "
                  "annotated page as the preamble's first line",
     "titulos": "layout: the ementa, see preambulo",
+}
+_LALIM_WHY = ("Lei de Alimentos art. 19 §§ 1º to 3º as enacted (§ 1º and § 3º amending the 1939 Código de Processo Civil arts. "
+              "921 and 843, with the quoted text) end when Lei 6.014/1973 gave art. 19 its §§ 1º to 3º; Planalto strikes "
+              "§ 1º's opening words without a note")
+B8.SPAN_FIX += [
+    (("lei-de-alimentos", "art-19", "§ 1º", "§ 1º O artigo 921 do Código de Processo Civil", 0),
+     {"end": "1973-12-31", "end_law": "lei-6014-1973", "end_how": "successor", "skip": False}, _LALIM_WHY),
+    (("lei-de-alimentos", "art-19", "§ 2º", "§ 2º Nos casos previstos nos nº VI", 0),
+     {"end": "1973-12-31", "end_law": "lei-6014-1973", "end_how": "successor"}, _LALIM_WHY),
+]
+_PNRS19 = ("Política Nacional de Resíduos Sólidos art. 19 XIX: Planalto leaves the 2010 wording ('... observado "
+           "prioritariamente o período de vigência do plano plurianual municipal') unstruck above Lei 14.026/2020's "
+           "('... observado o período máximo de 10 (dez) anos'), which it notes 'Incluído'; Lei 14.026 gave inciso XIX that "
+           "new wording, so the 2010 wording ends on 16.7.2020")
+B8.SPAN_FIX += [
+    (("politica-nacional-de-residuos-solidos", "art-19", "XIX -", "XIX - periodicidade de sua revisão, observado "
+                                                                   "prioritariamente", 0),
+     {"end": "2020-07-16", "end_law": "lei-14026-2020", "end_how": "successor"}, _PNRS19),
+]
+B.EXPLAINED["politica-nacional-de-residuos-solidos"] = {
+    "art-19": "the annotated page (the act's only page) leaves inciso XIX's 2010 wording unstruck above Lei 14.026/2020's; "
+              "the history ends it on 16.7.2020 (see the life-span decisions), so today's text has one inciso XIX",
 }
 
 # court and other open items named in decisions (Planalto's 'Vide' notes are dropped from the text, so nothing is modelled)
@@ -462,6 +528,11 @@ _inner13 = B6.PB5B._write_part5
 
 def _inner(*a):
     B5.EXTRA_DECISIONS.extend(OPEN_ITEMS[act["slug"]] + "." for act in a[0] if act["slug"] in OPEN_ITEMS)
+    if LALIM_QUOTED:
+        B5.EXTRA_DECISIONS.append(
+            "Lei de Alimentos art. 19: the 1968 text of § 1º quotes the 1939 Código de Processo Civil art. 921 (and § 3º its "
+            "art. 843 § 2º) without quotation marks; the quoted 'Art. 921.' line and the lines after it, up to art. 20, are "
+            f"kept in art. 19 ({len(LALIM_QUOTED)} lines), not read as an article of the act.")
     return _inner13(*a)
 
 

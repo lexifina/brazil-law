@@ -74,3 +74,19 @@ JEF (3). Hand: VIGENCIA_FIXED lei-14206-2021; SPAN_FIX LDup arts. 15-18 end at L
 paragraphs wrapper upper-cases the TCU heading ('Lei Nº' missed the start-of-act test: 0 paragraphs before);
 EXPLAINED LDup preambulo/titulos. Part sha fcaf9391; merged 97 acts, 1936 versions, 1653 commits, check 0/0, compare
 identical, audit clean.
+
+## 99-batch13h - PUBLISHed 2026-10-31
+Lei 12.153/2009 JEFP (1, from 24.6.2010), Lei 8.038/1990 (6), Lei de Alimentos 5.478/1968 (3), PNRS 12.305/2010 (3). Hand:
+paragraphs wrapper moves LAlim 'art-921' (quoted CPC 1939 article, no quote marks) into art-19 + SPAN_FIX (end Lei
+6.014/1973); SPAN_FIX PNRS art. 19 XIX 2010 wording ends 16.7.2020 (page leaves it unstruck) + EXPLAINED. Part sha
+89e2c9ab; merged 101 acts, 1949 versions, 1659 commits, check 0/0, compare identical, audit clean.
+
+## State at handoff (2026-10-31)
+Parts 99-batch13a..h installed with .PUBLISH (24 acts, 168 versions; merged 101 acts, 1949 versions). README rows +
+jurisdiction.json (101 acts) current. No background processes left running.
+Deferred, configured in ALL_ACTS: Lei 4.320/1964 (lei-4320-de-1964) and Lei do FGTS 8.036/1990 (lei-do-fgts); reasons
+above. Next candidates (not configured): LC 87/1996, LC 116/2003 (watch LC 214/2025's 2033 repeal -> futuro), Lei 8.213 and
+8.212/1991 (heavy MP chains), Lei 9.472/1997 (LGT), Lei 9.433/1997, Lei 9.985/2000 (SNUC), Lei 13.874/2019, LC 123/2006,
+Lei 4.504/1964 (Estatuto da Terra), Lei 7.565/1986 (CBA), Lei 12.288/2010, Lei 1.521/1951, DL 201/1967.
+Check per part also: batch13/.tmp/headyear.py (pins' heading number + year) - it caught DL 581/1938 pinned for DL 581/1969
+and a Lei 14.301 link pointing at another act's page.
