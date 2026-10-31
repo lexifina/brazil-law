@@ -161,7 +161,8 @@ B.ACT_LAWS.update({k: v for k, v in ACT_LAWS_ALL.items() if any(a["law"] == k fo
 B.EXPLAINED.clear()
 _Q = B7._QUOTED
 B.EXPLAINED.update({
-    "lei-dos-crimes-hediondos": {"art-159": _Q.format(x="§ 1º. / § 2º. / § 3º."), "art-223": _Q.format(x="Parágrafo único.")},
+    "lei-dos-crimes-hediondos": {"art-06": _Q.format(x="§ 1º. / § 2º. / § 3º. of the quoted art. 159 and Parágrafo único. of "
+                                                      "the quoted art. 223")},
     "lei-de-introducao-as-normas-do-direito-brasileiro": {
         "art-15": "spelling: 'reúna' (annotated page) / 'reuna' (consolidated page)"},
     "estatuto-da-pessoa-com-deficiencia": {"art-101": _Q.format(x="§ 2º."), "art-104": _Q.format(x="§ 2º."),

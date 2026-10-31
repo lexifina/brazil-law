@@ -113,3 +113,34 @@ identical, audit clean):
   Mediação 46, Startups 18, ECA 265 and others. The batch10 wrapper is the fix; applying it to parse_proc would change
   ~15 parts (needs the coordinator's go-ahead and per-part re-verification). Also RLP arts. 294-297, CC 227/1240-A,
   Código Eleitoral 247 ('At. 248') start with a non-caput line - to review.
+
+## 6. Quoted-amendment closing lines, fixed in the shared parsers (coordinator task, 2026-10-31)
+- Fix: `closes_quote()` in proc/parse_proc.py, parse_phase2.py and clt/parse_clt.py (move_rubricas): a line ending '(NR)',
+  starting with a quotation mark or dots, or ending with punctuation + closing quote ('... poder. "') is never a rubrica and
+  stays in the article that quotes it (a rubrica may end with a quoted word: CP art. 178 '... ou "warrant"' still moves).
+  Counted in RUBRICA_KEPT; `rubrica_decision()` adds the decision in each parser's main. The batch10 wrapper was removed.
+- Baseline (before) and fixed parts regenerated to scratch (brazil-rub-base / brazil-rub-fix, runparts.py); .tmp/rubdiff.py
+  shows per act which lines moved and checks every version holds the same multiset of lines (0 faults; one expected:
+  Estatuto da Cidade art. 53's struck closing line now leaves with art. 53, revoked on the act's first day).
+- Changed: 60-phase2 (CPC 1.060-1.069), 90-batch3 (ECA 264), 98-batch5 (LLC 177/179), 99-batch5b (Inquilinato 83/86,
+  Mediação 45), 99-batch6 (LAI 43/44; published sources kept), 99-batch7 (ECid 53-55, Idoso 53/111-114, Startups 17, Maria da
+  Penha 43), 99-batch8 (Hediondos, LOC 24/25, LPI 240, LBI 96-118), 99-batch9 (Eleições 103, Código Florestal 80/81),
+  99-batch10 (decision wording only). Unchanged: 50, 70, 80, 95, 97. Consolidated-page compare lists, dupline/dupcheck/
+  leakcheck output identical before/after. Merged build 61 acts, 1595 versions, check 0/0, --compare identical, audit clean.
+  All touched parts installed and PUBLISH appended (~09:3xZ).
+- NEW FINDING, not fixed: quoted articles printed without an opening quote are read as articles of the act itself, giving
+  units that are another law's articles: Crimes Hediondos art-159/213/214/223/267/270 (CP articles quoted in its art. 6),
+  Organizações Criminosas art-288, LBI art-1783-a (CC), Lei 14.133 art-337-e..p (CP arts. inserted by its art. 178).
+  Fixing needs a quote-state tracker in paragraphs() (same-label successor logic would misread §§ of several quoted
+  articles in one unit), then re-verification of 98-batch5/99-batch8.
+
+## 7. Lei do Petróleo - PUBLISHed in 99-batch10 (2026-10-31)
+- lpet_model (parse_batch10.py, after stale_fix like san_model): Lei 12.734/2012 art. 3 (arts. 48, 49, 50, 49-A..C, 50-A..F)
+  and art. 4 were vetoed WHOLE and promulgated 14.3.2013 (DOU 15.3.2013; text on L12734.htm, republished in part 25.3.2013)
+  -> every 12.734-noted line starts 15.3.2013, replaced wordings end then. MP 592/2012 (3.12.2012) art. 3 revoked art. 49
+  § 3º and art. 50 § 4º (page only says 'Vide') -> end 3.12.2012; its 49-A, 50 § 5º, 50-A, 50-B end 15.3.2013; 48-A and
+  81-A at the lapse 13.5.2013. Version note on 15.3.2013. ADI 4.917 (18.3.2013) unchanged.
+- .tmp/lpetpromo.py: all 116 Lei 12.734 lines found word for word in the promulgation text. EXPLAINED for arts. 8, 10, 48,
+  49, 68-B, 68-C. 42 versions; part 11 acts, 141 versions, sha 3baa103f (parse twice identical); merged 62 acts, 1637
+  versions, 1472 commits, check 0/0, --compare identical, audit clean. README row + jurisdiction.json (62 acts) updated.
+- Tools: .tmp/lpetdump.py (replayed lines of units), lpetcons.py (diff vs consolidated), lawtext.py (cached page text).

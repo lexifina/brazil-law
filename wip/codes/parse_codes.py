@@ -469,6 +469,7 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
     out: list[dict] = []
     zone = None
     unit = None
+    qs: dict = {"open": False}   # quotation state (quoted_article / track_quote)
     notes_only: list[dict] = []
     for b in bl:
         t = b["text"]
@@ -500,12 +501,14 @@ def paragraphs(html: str, digits: int) -> tuple[list[dict], list[str]]:
             continue
         if heading:
             out.append({**b, "unit": "titulos", "label": t if HEADING.match(t) else "", "heading": True})
+            track_quote(t, qs)   # a quotation may open on a quoted heading ('"CAPÍTULO II-B')
             continue
-        if lab.startswith("Art."):
+        if lab.startswith("Art.") and not quoted_article(lab, unit, qs):
             unit = unit_key(lab, digits)
         if unit is None:
             unit = "preambulo"
         out.append({**b, "unit": unit, "label": lab, "heading": False})
+        track_quote(t, qs)
     heading_groups(out)
     for i, p in enumerate(out):
         p["i"] = i
@@ -571,6 +574,44 @@ def unit_key(label: str, digits: int) -> str:
     m = re.match(r"Art\. (\d+(?:\.\d+)?)º?(?:-([A-Z]{1,2}))?", label)
     n = int(m.group(1).replace(".", ""))
     return f"art-{n:0{digits}d}" + (f"-{m.group(2).lower()}" if m.group(2) else "")
+
+# Quotation state: an article that amends another law quotes the new wording ('"Art. 157. ...' to '......" (NR)'), and
+# Planalto sometimes prints a quoted article without its own opening quotation mark ('Art. 159.' inside the quotation
+# that '"Art. 157.' opened in Lei 8.072 art. 6). Such a line is part of the amending article's text, never an article of
+# the act: while a quotation is open, an 'Art. N' line stays in the current unit unless it is the act's own next
+# article (the current article's number, with or without a letter suffix, or the one after it), which also closes a
+# quotation Planalto left open. Counted in QUOTED_ARTICLES for the decisions.
+QUOTED_ARTICLES: list[str] = []
+
+
+def _art_num(s: str | None) -> int | None:
+    m = re.match(r"(?:Art\. |art-0*)(\d+(?:\.\d+)?)", s or "")
+    return int(m.group(1).replace(".", "")) if m else None
+
+
+def quoted_article(label: str, unit: str | None, qs: dict) -> bool:
+    cur, new = _art_num(unit), _art_num(label)
+    if not qs.get("open") or cur is None or new is None or new in (cur, cur + 1):
+        qs["open"] = False
+        return False
+    QUOTED_ARTICLES.append(f"{unit}: {label}")
+    return True
+
+
+def track_quote(text: str, qs: dict) -> None:
+    t = text.strip()
+    if t[:1] in ('"', "“"):
+        qs["open"] = True
+    if re.search(r"\(NR\)\s*$", t) or re.search(r'["”]\s*[.;,]?\s*$', t):
+        qs["open"] = False
+
+
+def quoted_decision() -> list[str]:
+    if not QUOTED_ARTICLES:
+        return []
+    return ["Articles of another law quoted by an amending article and printed without their own opening quotation mark "
+            "are kept in the amending article's text, not read as articles of this act: " + "; ".join(dict.fromkeys(QUOTED_ARTICLES)) + "."]
+
 
 
 # ---------------------------------------------------------------------------------------------------------------
@@ -1075,6 +1116,7 @@ def main(argv: list[str]) -> int:
     if a.dry:
         return 0
     # ... corpus part written below
+    decisions += quoted_decision()
     return write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp_notes(infos, eff))
 
 
