@@ -314,6 +314,54 @@ MOVES: dict[str, list] = {
          "III - a partir de 1º de janeiro de 2018, quanto aos demais dispositivos': its art. 8 (Lei 7.998 art. 3 § 4º) falls "
          "under III, from 1.1.2018"),
     ],
+    "99-batch17g.json": [
+        ("lei-do-mercado-de-capitais", "lei-14754-2023", "2023-12-13", [(ALL, "2024-01-01")],
+         "Lei 14.754/2023 art. 47: 'Esta Lei entra em vigor na data de sua publicação e produzirá efeitos: I - "
+         "imediatamente, quanto aos arts. 28 e 29, aos §§ 4º, 5º e 6º do art. 30 e aos arts. 42 e 43; e II - a partir de 1º "
+         "de janeiro de 2024, quanto aos demais dispositivos': its art. 46 I (revocation of Lei 4.728 arts. 49 and 50) falls "
+         "under II, from 1.1.2024"),
+    ],
+    "99-batch17h.json": [
+        ("lei-da-csll", "mp-413-2008", "2008-01-03", [(ALL, "2008-05-01")],
+         "Medida Provisória 413/2008 art. 18: 'produzindo efeitos em relação: [...] II - aos arts. 3º, 13 e 17, a partir do "
+         "primeiro dia do quarto mês subseqüente ao de publicação desta Medida Provisória' (DOU 3.1.2008): its art. 17 (Lei "
+         "7.689 art. 3) from 1.5.2008"),
+        ("lei-da-csll", "mp-1115-2022", "2022-04-28", [(ALL, "2022-08-01")],
+         "Medida Provisória 1.115/2022: 'Esta Medida Provisória entra em vigor na data de sua publicação e produz efeitos a "
+         "partir do primeiro dia do quarto mês subsequente ao de sua publicação' (DOU 28.4.2022): from 1.8.2022"),
+        ("lei-da-csll", "mp-1303-2025", "2025-06-11", [(ALL, "2025-10-01")],
+         "Medida Provisória 1.303/2025: 'produz efeitos: [...] II - no primeiro dia do quarto mês subsequente ao de sua "
+         "publicação, quanto aos art. 61 e art. 62' (DOU 11.6.2025): its art. 62 (Lei 7.689 art. 3) from 1.10.2025, until the "
+         "MP lapsed (8.10.2025)"),
+        ("lei-da-csll", "lc-224-2025", "2025-12-26", [(ALL, "2026-04-01")],
+         "Lei Complementar 224/2025: 'produzirá efeitos: I - a partir do primeiro dia do quarto mês subsequente ao de sua "
+         "publicação, em relação: [...] b) aos arts. 7º e 9º' (DOU 26.12.2025): its art. 7 (Lei 7.689 art. 3) from 1.4.2026"),
+        ("lei-da-csll", "lei-15525-2026", "2026-09-29", [(ALL, "2027-01-01")],
+         "Lei 15.525/2026: 'produzindo efeitos: I - quanto aos arts. 2º e 5º, a partir de 1º de janeiro de 2027' : its art. 2 "
+         "(Lei 7.689 art. 3) from 1.1.2027"),
+        ("lei-9249-de-1995", "lei-10684-2003", "2003-05-31", [(ALL, "2003-09-01")],
+         "Lei 10.684/2003: 'produzindo efeitos: [...] III - em relação aos arts. 18, 19, 20 e 22, a partir do mês subseqüente "
+         "ao do termo final do prazo nonagesimal, a que refere o § 6º do art. 195 da Constituição Federal' (DOU 31.5.2003; the "
+         "90 days end in August 2003): its art. 22 (Lei 9.249 art. 20) from 1.9.2003"),
+        ("lei-9249-de-1995", "lei-11196-2005", "2005-11-22", [(ALL, "2006-01-01")],
+         "Lei 11.196/2005 art. 132: 'produzindo efeitos: [...] IV - a partir de 1º de janeiro de 2006, em relação ao disposto: "
+         "[...] b) nos arts. 17 a 27, 31 e 32, 34 [...] desta Lei': its art. 34 (Lei 9.249 arts. 15 and 20) from 1.1.2006"),
+        ("lei-9249-de-1995", "lei-11727-2008", "2008-06-24", [(ALL, "2009-01-01")],
+         "Lei 11.727/2008 art. 41: 'produzindo efeitos em relação: [...] VI - aos arts. 22, 23, 29 e 31, a partir do primeiro "
+         "dia do ano seguinte ao da publicação desta Lei': its art. 29 (Lei 9.249 art. 15) from 1.1.2009"),
+        ("lei-9249-de-1995", "lei-14789-2023", "2023-12-29", [(ALL, "2024-01-01")],
+         "Lei 14.789/2023: 'Esta Lei entra em vigor na data de sua publicação e produzirá efeitos a partir de 1º de janeiro de "
+         "2024': its art. 18 (Lei 9.249 art. 9) from 1.1.2024"),
+        ("lei-9249-de-1995", "lei-15270-2025", "2025-11-27", [(ALL, "2026-01-01")],
+         "Lei 15.270/2025: 'Esta Lei entra em vigor na data de sua publicação e produzirá efeitos a partir de 1º de janeiro de "
+         "2026': its art. 3 (Lei 9.249 arts. 10 and 10-A) from 1.1.2026"),
+        ("lei-9249-de-1995", "lc-224-2025", "2025-12-26", [(ALL, "2026-01-01")],
+         "Lei Complementar 224/2025: 'produzirá efeitos: [...] III - a partir de 1º de janeiro de 2026, em relação aos demais "
+         "dispositivos': its art. 8 (Lei 9.249 art. 9 § 2º) from 1.1.2026"),
+        ("lei-9249-de-1995", "lei-15525-2026", "2026-09-29", [(ALL, "2030-01-01")],
+         "Lei 15.525/2026: 'produzindo efeitos: [...] II - quanto aos arts. 3º e 4º, a partir de 1º de janeiro de 2030': its "
+         "art. 3 (Lei 9.249 art. 3 § 5º) from 1.1.2030"),
+    ],
     "99-batch17a.json": [
         ("lei-do-vale-transporte", "lei-9532-1997", "1997-12-11", [(ALL, "1998-01-01")],
          "Lei 9.532/1997 art. 82: 'Ficam revogados: [...] II - a partir de 1º de janeiro de 1998: [...] f) o art. 3º da Lei "

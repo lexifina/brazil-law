@@ -88,12 +88,46 @@ Aquaviário 9.537/1997 (3; in force 10.6.1998, 180 days) = 16 versions.
   compare identical, audit clean. README rows + jurisdiction.json (145 acts).
 - New: .tmp/pipe.sh <part> runs the whole per-part pipeline (2 parses, sha, effects_fix, every check, merged build).
 
-## State at handoff (batch 17, 2026-10-31 ~19:00 local)
-Parts 99-batch17a..e installed with .PUBLISH (16 acts, 95 versions; merged 142 acts, 2489 versions, 1999 commits, check
-0/0, --compare identical, audit clean). README rows + jurisdiction.json (142 acts) current. effects_fix.py MOVES added for
-99-batch17a only. No background processes left running (every run foreground through .tmp/run.py, one at a time; all
-PIDs exited). A fresh parse of a part now differs from the installed one only in sources[0].requests (the pin file
-grows with each part; batch 13/16 precedent, left as published). Nothing deferred or left unsettled among the acts tried.
+## 99-batch17g - PUBLISHed 2026-10-31 (second session)
+Lei do Susp 13.675/2018 (8 versions; in force 12.7.2018), Lei do Mercado de Capitais 4.728/1965 (16, vs l4728compilado.htm)
+= 24 versions.
+- PROMULGATED (promulgated() in apply_rewrites, per line: unit, label, text prefix, day, law): Lei 14.531 art. 2's vetoed
+  art. 9 § 2º XVII and art. 42-A § 7º from 19.7.2023 (DOU of the promulgation). Lei 14.751's promulgated parts do not touch
+  Lei 13.675 (read). EXPLAINED LSUSP art-47; OPEN_ITEMS LSUSP (ADPF 995).
+- Lei 4.728 (all set only when its act runs, because NOTE_FIX/VIGENCIA_FIXED text lands in every part's decisions):
+  NOTE_FIX 'Del 1.338' x2, 'Decreto nº 911', 'Decreto nº 2.287' (links checked: Decretos-Leis); VIGENCIA_FIXED dl-614-1969
+  6.6.1969 and dl-911-1969 3.10.1969 (reader missed both clauses and fell back to LINDB). law:dl-911-1969 pinned (gaps.py,
+  path decreto-lei/1965-1988/del0911.htm). MP_PENDING mp-2160-2001. EXPLAINED art-29, art-80. OPEN_ITEMS (Vide pointers).
+- LexML: DL 1.338/1974 (footer 23.8.1974 -> 23.7.1974) and Lei 5.589/1970 (footer prints 1966 -> 6.7.1970) fetched by
+  .tmp/lexml1.py (one request per 6 s; parse_proc's PUB_CORRECTED then applies them).
+- effects_fix MOVES "99-batch17g.json": Lei 14.754/2023 (art. 47 II, effects 1.1.2024) -> Lei 4.728 arts. 49-50: 2 moves.
+- Part sha 7cf8eca0 (pre-effects 31f78f16); merged 147 acts, 2529 versions, 2025 commits, check 0/0, compare identical,
+  audit clean. README rows + jurisdiction.json (147 acts).
+
+## State at handoff (batch 17, second session, 2026-10-31)
+Parts 99-batch17a..g installed with .PUBLISH (21 acts, 135 versions; merged 147 acts, 2529 versions, 2025 commits, check
+0/0, --compare identical, audit clean). README rows + jurisdiction.json (147 acts) current. effects_fix.py MOVES for
+99-batch17a and 99-batch17g. Fresh parses of b, e, f after this session's edits equal the installed parts except
+sources[0].requests (b, e; known). No background processes left running (every run foreground through .tmp/run.py; all
+PIDs exited). Robots note: portal.stf.jus.br/robots.txt now Disallows /processos (one redirect lookup for ADI 2.527 was
+made before reading it); read no STF case pages.
+
+## Part h - configured, NOT published (Lei 7.689/1988 CSLL, Lei 9.249/1995)
+PAGES for all five tax laws pinned (l7689, l9249, l9250 + compilado, l7713 + compilada, l9430 + compilada; `pages` done).
+Acts, ACT_DAY, ACT_LAWS and PARTS["h"] are in parse_batch17.py; `laws` + `missing` fetched for h. Judgement call taken
+in config: Lei 9.249's first version dated 1.1.1996 (art. 35: in force on publication 27.12.1995, 'produzindo efeitos a
+partir de 1º de janeiro de 1996'); revisit if the coordinator prefers the in-force day. Trial h-t1: 0 consolidated diffs,
+but 8 problems and a crash (KeyError mp-1034-2021 in mp_notes):
+- VIGENCIA_FIXED needed: mp-675-2015 ('a partir do primeiro dia do quarto mês subsequente ao de sua publicação': DOU
+  22.5.2015 -> 1.9.2015; converted into Lei 13.169/2015); mp-1034-2021 (I art. 2 on publication; II others from the 1st day
+  of the 4th month after the DOU of 1.3.2021 -> 1.7.2021; read which article touches Lei 7.689; conversion Lei 14.183/2021).
+- MP_LAPSE mp-694-2015 (Lei 9.249): pin its Ato Declaratório of lapse (see how ato:adc-* pins were made in
+  sources_batch17.json / batch16 gaps) and read the day.
+- Then effect days: many amenders carry 'produção de efeitos' clauses (Lei 12.973/2014, 13.169/2015, 14.183/2021,
+  14.446/2022, 11.727/2008, MP 413/2008, LC 224/2025, LC 225/2026, Lei 15.270/2025, 15.525/2026; MP 1.303/2025 lapsed):
+  read each and add MOVES "99-batch17h.json" in effects_fix.py where a later fixed day applies.
+- Lei 9.250, 7.713, 9.430 not configured yet (9.430: 547 notes, 608 struck runs; 7.713: 328/314; 9.250: 293/192).
+Leis 13.465/2017 and 11.977/2009 (+compilado) not started (pages in the CC index).
 
 ## Next candidates (pages in the Common Crawl index)
 Lei 13.675/2018, Lei 9.537/1997, Lei 6.634/1979, Lei 9.469/1997 (+compilado), Lei 4.728/1965 (+compilado);

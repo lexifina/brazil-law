@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-e PUBLISHed, 16 acts, 95 versions; merged 142 acts, 2489 versions; next candidates in batch17/PROGRESS.md)
+CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-g PUBLISHed, 21 acts, 135 versions; merged 147 acts, 2529 versions; part h (tax laws) configured but not published; next steps in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 
@@ -176,3 +176,4 @@ Batch 17 (2026-10-31): small parts 99-batch17a, b, ... 99-batch17a PUBLISHed: Le
 99-batch17d PUBLISHed: Lei de Biossegurança 11.105/2005, Lei do Planejamento Familiar 9.263/1996 (vetoed parts promulgated 20.8.1997), Lei 11.419/2006 processo eletrônico (9 versions); merged 141 acts, 2476 versions, 1989 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (141 acts).
 99-batch17e PUBLISHed: Lei da Mobilidade Urbana 12.587/2012 (13 versions; MP 748 lapse, MP 818/906 chain on art. 24); merged 142 acts, 2489 versions, 1999 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (142 acts).
 99-batch17f PUBLISHed: Lei da Faixa de Fronteira 6.634/1979 (Lei 14.004 vetoed part promulgated 8.9.2020), Lei 9.469/1997, Lei de Segurança do Tráfego Aquaviário 9.537/1997 (16 versions); merged 145 acts, 2505 versions, 2008 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (145 acts).
+99-batch17g PUBLISHed: Lei do Susp 13.675/2018 (Lei 14.531 vetoed parts promulgated 19.7.2023), Lei do Mercado de Capitais 4.728/1965 (Lei 14.754 effect day 1.1.2024 via effects_fix) (24 versions); merged 147 acts, 2529 versions, 2025 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (147 acts).

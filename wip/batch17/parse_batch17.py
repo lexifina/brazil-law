@@ -65,6 +65,15 @@ PAGES.update({
     "l13675": "_ato2015-2018/2018/lei/l13675.htm",
     "l4728": "leis/l4728.htm",
     "l4728-compilado": "leis/l4728compilado.htm",
+    # part h, ...: tax laws
+    "l7689": "leis/l7689.htm",
+    "l9249": "leis/l9249.htm",
+    "l9250": "leis/l9250.htm",
+    "l9250-compilado": "leis/l9250compilado.htm",
+    "l7713": "leis/l7713.htm",
+    "l7713-compilada": "leis/l7713compilada.htm",
+    "l9430": "leis/l9430.htm",
+    "l9430-compilada": "leis/l9430compilada.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -115,6 +124,10 @@ ALL_ACTS: list[dict] = [
          "Lei do Sistema Único de Segurança Pública (Lei nº 13.675, de 11 de junho de 2018)", 2),
     _act("lei-do-mercado-de-capitais", "LMC", "l4728", "l4728-compilado", "lei-4728-1965",
          "Lei do Mercado de Capitais (Lei nº 4.728, de 14 de julho de 1965)", 2),
+    _act("lei-da-csll", "LCSLL", "l7689", "l7689", "lei-7689-1988",
+         "Contribuição Social sobre o Lucro Líquido - CSLL (Lei nº 7.689, de 15 de dezembro de 1988)", 2),
+    _act("lei-9249-de-1995", "L9249", "l9249", "l9249", "lei-9249-1995",
+         "Imposto de renda das pessoas jurídicas e CSLL (Lei nº 9.249, de 26 de dezembro de 1995)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -126,6 +139,7 @@ PARTS: dict[str, list[str]] = {
     "e": ["lei-da-mobilidade-urbana"],
     "f": ["lei-da-faixa-de-fronteira", "lei-9469-de-1997", "lei-da-seguranca-do-trafego-aquaviario"],
     "g": ["lei-do-susp", "lei-do-mercado-de-capitais"],
+    "h": ["lei-da-csll", "lei-9249-de-1995"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -171,6 +185,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                      "sua publicação oficial' (DOU 12.6.2018; LC 95/1998 art. 8 § 1)"),
     "lei-4728-1965": ("1965-07-16", "Lei 4.728/1965 art. 83: 'A presente Lei entra em vigor na data de sua publicação' (DOU "
                                     "16.7.1965, rectified 16.8.1965)"),
+    "lei-7689-1988": ("1988-12-16", f"Lei 7.689/1988 art. 12: {_PUB} (DOU 16.12.1988)"),
+    "lei-9249-1995": ("1996-01-01", "Lei 9.249/1995 art. 35: 'Esta Lei entra em vigor na data de sua publicação, produzindo "
+                                    "efeitos a partir de 1º de janeiro de 1996' (DOU 27.12.1995): dated by the day it takes "
+                                    "effect"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -240,6 +258,11 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "2012.", "2018-06-11", "2018-06-12", PAGES["l13675"]),
     "lei-4728-1965": _L("Lei nº 4.728, de 1965", "Disciplina o mercado de capitais e estabelece medidas para o seu "
                         "desenvolvimento.", "1965-07-14", "1965-07-16", PAGES["l4728"]),
+    "lei-7689-1988": _L("Lei nº 7.689, de 1988", "Institui contribuição social sobre o lucro das pessoas jurídicas e dá "
+                        "outras providências.", "1988-12-15", "1988-12-16", PAGES["l7689"]),
+    "lei-9249-1995": _L("Lei nº 9.249, de 1995", "Altera a legislação do imposto de renda das pessoas jurídicas, bem como da "
+                        "contribuição social sobre o lucro líquido, e dá outras providências.", "1995-12-26", "1995-12-27",
+                        PAGES["l9249"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -469,6 +492,11 @@ def renum_articles(paras, act):
 FOREIGN_RUBRICS = {"l0605": ("Descanso semanal", "Harmonização de multas trabalhistas constantes de legislações esparsas")}
 FOREIGN_DROPPED: list[str] = []
 QUOTED_HEADINGS: list[str] = []
+# Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº N, de d de m de aaaa.': words of
+# the article (which wording of another act it refers to), not an amendment note; the reader takes them for a bare note.
+BARE_TEXT = {"l7689": "art-11", "l9249": "art-14"}
+BARE_TEXT_USED: list[str] = []
+_BARE_RX = re.compile(r"\(?\s*(reda[çc][ãa]o dada pelo Decreto-Lei n[º°.]?\s*[\d.]+, de \d{1,2} de \w+ de \d{4}\.?)\s*\)?", re.I)
 _paragraphs17 = P.paragraphs
 
 
@@ -484,6 +512,16 @@ def paragraphs(html, digits):
                 continue
             keep.append(p)
         out = keep
+    if page in BARE_TEXT:
+        for p in out:
+            if p["unit"] != BARE_TEXT[page] or not p["text"].rstrip().endswith("com a"):
+                continue
+            hit = [(n, m) for n in p["notes"] for m in [_BARE_RX.fullmatch(n.strip())] if m]
+            if hit:
+                n, m = hit[0]
+                p["text"] = p["text"].rstrip() + " " + m.group(1)
+                p["notes"] = [x for x in p["notes"] if x != n]
+                BARE_TEXT_USED.append(f"{page} {p['unit']}")
     if page == "l11105":
         # Lei 11.105 art. 37 quotes Lei 6.938's Anexo VIII ('"ANEXO VIII' and a table): the quoted annex title is a line
         # of art. 37, not a heading of Lei 11.105; an empty centred line after it is dropped
@@ -553,6 +591,74 @@ B13.OPEN_ITEMS[_LSUSP] = (
     "Lei 13.675 (open items): 'Vide ADPF 995' on art. 9 (the STF's reading of the guardas municipais as part of the Susp) "
     "strikes no words and is not modelled")
 
+# part g: Lei 4.728/1965 (mercado de capitais). Planalto abbreviates Decreto-Lei as 'Del' or 'Decreto' in some notes; the
+# links behind them go to Del1338-74.htm, Del2287.htm and Del0911.htm. Set only when the act runs (NOTE_FIX entries are
+# listed in every part's decisions).
+_LMC = "lei-do-mercado-de-capitais"
+if any(a["slug"] == _LMC for a in ACTS):
+    for _how, _n, _d, _y in (("Redação dada", "1.338", "23.7.1974", "1974"), ("Revogado", "1.338", "23.7.1974", "1974")):
+        P.NOTE_FIX[f"({_how} pelo Del {_n}, de {_d})"] = (
+            f"({_how} pelo Decreto-Lei nº {_n}, de {_y})",
+            f"Lei 4.728: the note reads '{_how} pelo Del {_n}, de {_d}', Planalto's abbreviation of Decreto-Lei (the link "
+            f"goes to the Decreto-Lei's page)")
+    P.NOTE_FIX["(Redação dada pelo Decreto nº 911, de 1º.10.1969)"] = (
+        "(Redação dada pelo Decreto-Lei nº 911, de 1969)",
+        "Lei 4.728: the note reads 'Decreto nº 911, de 1º.10.1969'; the link goes to Decreto-Lei 911/1969, which rewrote art. 66")
+    P.NOTE_FIX["(Redação dada pelo Decreto nº 2.287, 23.7.1986)"] = (
+        "(Redação dada pelo Decreto-Lei nº 2.287, de 1986)",
+        "Lei 4.728: the note reads 'Decreto nº 2.287, 23.7.1986'; the link goes to Decreto-Lei 2.287/1986 (art. 24)")
+
+P.MP_PENDING["mp-2160-2001"] = (
+    "Medida Provisória nº 2.160-25, de 23.8.2001 (DOU 24.8.2001, art. 24: in force on publication), kept in force by "
+    "Emenda Constitucional 32/2001, art. 2, until Lei 10.931/2004 revoked it; its art. 22 added Lei 4.728 art. 66-A. "
+    "Planalto's notes name this edition only, so the change is dated by its publication; earlier editions of the chain are "
+    "not modelled")
+if any(a["slug"] == _LMC for a in ACTS):
+    P.VIGENCIA_FIXED["dl-614-1969"] = (
+        "1969-06-06", "art. 6: 'O presente Decreto-lei entrará em vigor na data de sua publicação' (DOU 6.6.1969, rectified "
+                      "10.6.1969; the page writes 'Art . 6º', so the clause was not found by the reader)")
+    P.VIGENCIA_FIXED["dl-911-1969"] = (
+        "1969-10-03", "art. 9: 'O presente Decreto-lei entrará em vigor na data de sua publicação, aplicando-se desde logo, "
+                      "aos processos em curso' (DOU 3.10.1969), as for Decreto-Lei 911 itself in this corpus")
+B13.OPEN_ITEMS[_LMC] = (
+    "Lei 4.728 (open items): Planalto's 'Vide' pointers (Decretos-Leis 1.089/1970, 1.338/1974, 1.401/1975, 1.980/1982, "
+    "1.986/1982, 2.072/1983, 2.285/1986, 2.469/1988, Leis 5.409/1968, 6.404/1976, 14.286/2021, Medida Provisória "
+    "1.184/2023) strike no words on the page and are not modelled; the 1965 text is the text as published on 16.7.1965 "
+    "(rectified 16.8.1965), as Planalto prints it")
+B.EXPLAINED[_LMC] = {
+    "art-29": "the consolidated page runs incisos IV and V together on one line; the annotated page prints them as two",
+    "art-80": "the consolidated page prints 'Cr$1.000' with no space; the annotated page prints 'Cr$ 1.000'",
+}
+
+# part h: Lei 7.689/1988 (CSLL), Lei 9.249/1995. Staggered MP days entered by hand (set only when these acts run).
+_LCSLL, _L9249 = "lei-da-csll", "lei-9249-de-1995"
+if any(a["slug"] in (_LCSLL, _L9249) for a in ACTS):
+    P.VIGENCIA_FIXED["mp-675-2015"] = (
+        "2015-09-01", "last article: 'Esta Medida Provisória entra em vigor a partir do primeiro dia do quarto mês "
+                      "subsequente ao de sua publicação' (DOU 22.5.2015): 1.9.2015")
+    P.VIGENCIA_FIXED["mp-1034-2021"] = (
+        "2021-07-01", "art. 5: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, quanto ao art. 2º; e II "
+                      "- no primeiro dia do quarto mês subsequente ao de sua publicação, quanto aos demais dispositivos' (DOU "
+                      "1.3.2021): its art. 1, the change to Lei 7.689 art. 3, falls under II, 1.7.2021")
+    P.VIGENCIA_FIXED["mp-694-2015"] = (
+        "2016-01-01", "art. 4: 'Esta Medida Provisória entra em vigor na data de sua publicação, produzindo efeitos a "
+                      "partir: I - de 1º de janeiro de 2016, em relação ao art. 1º' (DOU 30.9.2015, edição extra): its art. "
+                      "1, the change to Lei 9.249 art. 9, is dated by the day it takes effect, 1.1.2016")
+B13.OPEN_ITEMS[_LCSLL] = (
+    "Lei 7.689 (open items): art. 8 ('A contribuição social será devida a partir do resultado apurado no período-base a ser "
+    "encerrado em 31 de dezembro de 1988'), which Planalto strikes with '(Execução suspensa pela RSF nº 11, de 1995)' and "
+    "'Vide ADIN nº 15-2', is left out of every version: no official copy of the Senate resolution is available to date the "
+    "suspension; 'Vide' pointers (Leis 7.787/1989, 8.383/1991, 9.249/1995, Lei Complementar 224/2025, Medida Provisória "
+    "1.303/2025, ADIN 5485) are not modelled; the text before 16.12.1988 (Medida Provisória 22/1988, of which this Lei is the "
+    "conversion) is not part of the history")
+B13.OPEN_ITEMS[_L9249] = (
+    "Lei 9.249 (open items): Lei 9.430/1996's changes are dated by its in-force day (30.12.1996): its 'efeitos financeiros a "
+    "partir de 1º de janeiro de 1997' are financial effects only; 'Vide' pointers (Decreto 6.306/2007, Lei 11.119/2005, "
+    "Medida Provisória 1.303/2025) are not modelled")
+P.MP_LAPSE["mp-694-2015"] = (
+    "2016-03-09", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 5, de 2016 (DOU 10.3.2016): 'teve seu prazo "
+                  "de vigência encerrado no dia 8 de março do corrente ano'; the wording it had replaced is back from 9.3.2016")
+
 _apply_rewrites17 = P.apply_rewrites
 
 
@@ -596,6 +702,10 @@ def _inner(*a):
                    "Congresso Nacional)', '(Parágrafo vetado e mantido ...)') were promulgated by the President "
                    "(Mensagem nº 928, de 19.8.1997: 'acabo de promulgá-los'; DOU 20.8.1997) and start that day, credited "
                    "to Lei 9.263: " + ", ".join(VETO_KEPT_USED) + ".")
+    if BARE_TEXT_USED:
+        dec.append("Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº [...]' (Decretos-"
+                   "Leis 2.449/1988 and 1.730/1979): these words name the wording of the other act the article refers to; they "
+                   "are part of the article's text, not an amendment note (" + ", ".join(BARE_TEXT_USED) + ").")
     if PROMULGATED_USED:
         dec.append("Lei 13.675: Lei 14.531/2023 (DOU 11.1.2023, in force on publication) added art. 9 § 2º XVII and art. 42-A "
                    "§ 7º, but they were vetoed; Congress overrode the vetoes and they were promulgated in the DOU of 19.7.2023 "
