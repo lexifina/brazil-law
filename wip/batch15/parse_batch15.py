@@ -280,6 +280,7 @@ TEXT_FIX: list[tuple[str, str, str, str]] = [
      "and the consolidated page print"),
 ]
 TEXT_FIX_USED: list[str] = []
+LETTER_ARTS: list[str] = []
 FOOTNOTES_DROPPED: dict[str, int] = {}
 NOTE_DOT: dict[str, int] = {}
 _paragraphs15 = P.paragraphs
@@ -300,6 +301,19 @@ def paragraphs(html, digits):
         html = _SUPNUM.sub(_supnum, html)
         FOOTNOTES_DROPPED[page] = n0 - len(_SUPNUM.findall(html))
     out, rest = _paragraphs15(html, digits)
+    # 'Art. 22A.', 'Art. 22B.', 'Art. 25A.' (Leis 10.256/2001, 10.666/2003: Planalto prints the letter without a hyphen):
+    # the shared reader keeps them in the files of arts. 22 and 25; each is its own article (art-022-a, ...)
+    cur = None
+    for p in out:
+        m = re.match(r"^Art\.\s*(\d+)-?([A-Z])\.", p["text"]) if not p["heading"] else None
+        if m and p["unit"] == f"art-{int(m.group(1)):0{digits}d}":
+            cur = (p["unit"], f"{p['unit']}-{m.group(2).lower()}")
+            p["label"] = f"Art. {m.group(1)}-{m.group(2)}"
+            LETTER_ARTS.append(f"{page} {cur[1]}")
+        elif p["heading"] or (cur and p["unit"] != cur[0]) or re.match(r"^Art\.\s*\d", p["text"]):
+            cur = None
+        if cur and p["unit"] == cur[0]:
+            p["unit"] = cur[1]
     for p in out:
         for pg, wrong, right, why in TEXT_FIX:
             if pg != page:
@@ -466,6 +480,10 @@ def _inner(*a):
                    f"({FOOTNOTES_DROPPED['l8212']} superscript numbers such as 'e) as importâncias: 14'); the footnotes "
                    "themselves (on Medidas Provisórias then pending, and updated amounts) are printed after the signature, "
                    "outside the act, so the markers are dropped from the text and the footnotes are not part of the history.")
+    if LETTER_ARTS:
+        dec.append("Articles Planalto prints with the letter but no hyphen ('Art. 22A.', 'Art. 22B.', 'Art. 25A.') are "
+                   "articles of their own (art-022-a, ...), labelled 'Art. 22-A' like the rest of the corpus: "
+                   + ", ".join(sorted(set(x.split()[1] for x in LETTER_ARTS))) + ".")
     if TEXT_FIX_USED:
         dec.append("Misprints corrected: " + "; ".join(dict.fromkeys(TEXT_FIX_USED)) + ".")
     if NOTE_DOT:
