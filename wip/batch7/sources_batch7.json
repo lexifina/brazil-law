@@ -12,6 +12,17 @@
    }
   },
   {
+   "id": "ato:adc-56-2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Congresso/adc-056-mpv784.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261009015029",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054343.76/warc/CC-MAIN-20261009003822-20261009033822-00335.warc.gz",
+    "offset": "794832415",
+    "length": "2534"
+   }
+  },
+  {
    "id": "ato:apn-5-2022-mpv1065",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Congresso/apn-5-mpv1.065.htm",
    "cc": {
