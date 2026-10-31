@@ -401,6 +401,8 @@ def _insert_original(out, digits):
             k = next((i for i, p in enumerate(ou) if i and p["label"].startswith("Art.") and p["state"] == "plain"),
                      len(ou))
             first = [p for p in ou[:k] if p["state"] != "plain"]
+            if unit == "art-020":   # and its 1991 parágrafo único, struck below Lei 9.032's caput and table
+                first += [p for p in ou[k:] if p["label"] == "Parágrafo único" and p["state"] != "plain"]
         at = next(i for i, p in enumerate(out) if p["unit"] == unit and not p["heading"])
         new = []
         for p in first:
@@ -577,6 +579,9 @@ B8.SPAN_FIX += [
       for n, f in [(0, {"end": "2022-03-28", "end_law": "mp-1110-2022", "end_how": "successor"}),
                    (2, {"start": "2022-08-08", "start_law": "mp-1110-2022-fim", "restored": True, "end": "2022-08-25",
                         "end_law": "lei-14438-2022", "end_how": "conversion"})]],
+    *[((_C, "art-068", lab, lab, 0), {"start": "1994-04-16", "start_law": "lei-8870-1994"},
+       "Lei 8.212 art. 68 §§ 1º-2º: printed without notes on the annotated page; Planalto's page of the act as enacted notes "
+       "them 'Incluído pela Lei nº 8.870, de 1994' (the 1991 article had no paragraphs)") for lab in ("§ 1º", "§ 2º")],
     ((_C, "art-025", "§ 12", "§ 12. (VETADO)", 0),
      {"end": "2018-04-18", "end_law": "lei-13606-2018", "end_how": "promulgation"}, _W25),
     ((_C, "art-025", "§ 12", "§ 12. Não integra a base de cálculo", 0),
@@ -734,6 +739,10 @@ def _art20(paras, eff):
     Lei 9.129's (the annotated page's, followed there by '(Valores e alíquotas dados pela Lei nº 9.129, de 20.11.95)')."""
     d9032, d9129 = eff["lei-9032-1995"], eff["lei-9129-1995"]
     for p in paras:
+        if p["unit"] == "art-020" and p.get("orig_insert") and p["label"] == "Parágrafo único":
+            # renumbered § 1º when Lei 8.620/1993 added § 2º (the § 1º printed with its note)
+            p.update({"end": eff["lei-8620-1993"], "end_law": "lei-8620-1993", "end_how": "renumbered", "skip": False,
+                      "pinned": True})
         if p["unit"] != "art-020" or p["label"] or p["heading"]:
             continue
         if p.get("t9032"):
