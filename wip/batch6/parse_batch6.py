@@ -371,7 +371,7 @@ def write_part(*a) -> int:
             "requests": sum(len(c["pins"]) for c in ctx),
             "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
             "notes": "Read only for facts about publication, never for law text: " + "; ".join(c["what"] for c in ctx)
-                     + ". Each page is pinned to a dated capture in batch6/sources_batch6.json (ids ctx:...)."})
+                     + f". Each page is pinned to a dated capture in {B5.SRC.parent.name}/{B5.SRC.name} (ids ctx:...)."})
     tmp = B5.OUT.with_suffix(".json.tmp")
     tmp.write_text(_json.dumps(part, ensure_ascii=False, indent=None, separators=(",", ":")) + "\n", encoding="utf-8",
                    newline="\n")

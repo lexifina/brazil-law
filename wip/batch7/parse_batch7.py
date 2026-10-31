@@ -176,6 +176,28 @@ def analyse(block: dict) -> dict:
 
 P.analyse = analyse
 
+# A paragraph or § printed centred (Lei 6.404 art. 221 Parágrafo único) is read by parse_proc as a heading line; a line
+# that starts with a dispositivo label below an article belongs to that article.
+LABELLED = re.compile(r"^(?:Parágrafo\s+único|§\s*\d+)")
+HEADING_LABEL_FIX: list[str] = []
+_paragraphs7 = P.paragraphs
+
+
+def paragraphs(html: str, digits: int):
+    out, rest = _paragraphs7(html, digits)
+    for i, p in enumerate(out):
+        if not (p["heading"] and LABELLED.match(p["text"])):
+            continue
+        prev = next((q for q in reversed(out[:i]) if not q["heading"]), None)
+        if prev is None or not prev["unit"].startswith("art-"):
+            continue
+        p.update(heading=False, unit=prev["unit"], label=P.label_of(p["text"]))
+        HEADING_LABEL_FIX.append(f"{prev['unit']} [{p['label']}]")
+    return out, rest
+
+
+P.paragraphs = B.paragraphs = paragraphs
+
 B.EXPLAINED.clear()
 B6.NEVER_IN_FORCE.clear()
 B6.MP_CHAINS.clear()
