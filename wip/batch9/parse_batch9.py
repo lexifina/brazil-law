@@ -71,7 +71,8 @@ ALL_ACTS: list[dict] = [a for a in B8.ALL_ACTS if a["slug"] == "lei-da-acao-civi
          "Lei de Licitações e Contratos (Lei nº 8.666, de 21 de junho de 1993)", 3),
 ]
 VERIFIED: list[str] = ["lei-de-diretrizes-e-bases-da-educacao", "lei-organica-da-saude", "lei-das-eleicoes",
-                        "lei-de-licitacoes-de-1993", "lei-da-acao-civil-publica"]
+                        "lei-de-licitacoes-de-1993", "lei-da-acao-civil-publica", "codigo-de-transito-brasileiro",
+                        "codigo-florestal", "lei-de-registros-publicos"]
 ENABLED = [s for s in os.environ.get("BATCH9_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
