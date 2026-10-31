@@ -316,6 +316,11 @@ B8.SPAN_FIX += [
     ((_LRP, "art-167", "28)", "28) das sentenças declaratórias de usucapião, independente", 0), {"skip": True}, _W2220),
     ((_LRP, "art-167", "37)", "37) dos termos administrativos ou das sentenças declaratórias da concessão de uso especial "
                               "para fins de moradia, independente", 0), {"skip": True}, _W2220),
+    ((_LRP, "art-288-a", "§ 2º", "§ 2º As matrículas das áreas destinadas a uso público", 1),
+     {"start": "2011-06-17", "start_law": "lei-12424-2011"},
+     "Lei de Registros Públicos art. 288-A § 2º: Planalto prints the paragraph twice, once with Medida Provisória nº "
+     "514/2010's wording and again, word for word, inside the article as its conversion law Lei 12.424/2011 worded it, "
+     "with the MP's note; the second copy starts with the conversion law, when the first ends"),
     ((_CF, "art-03", "b)", "b) as obras de infraestrutura destinadas às concessões", 0),
      {"end": "2018-02-28", "end_law": "stf-adc-42", "end_how": "court"}, _WADC42),
     ((_CF, "art-03", "b)", "b) as obras de infraestrutura destinadas às concessões", 1),
