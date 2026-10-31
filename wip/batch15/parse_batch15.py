@@ -775,6 +775,14 @@ B.EXPLAINED[_BN] = {
     "art-096": "the consolidated page is out of date: it still prints the parágrafo único (Lei 13.846/2019), which Lei "
                "15.363/2026 (27.3.2026) made § 1º when it added § 2º; the annotated page prints §§ 1º and 2º",
 }
+B13.OPEN_ITEMS.update({
+    _C: ("Lei 8.212 (open items): Planalto's 'Vide' pointers (ADIs 2.028, 2.036, 2.228, 4.395, 5.161, 7.633; Lei Complementar "
+         "150/2015; Lei 15.371/2026) strike no words and are not modelled; the amounts of the art. 20 and art. 21 tables "
+         "updated by ministerial portarias are not part of the act's text"),
+    _BN: ("Lei 8.213 (open items): Planalto's 'Vide' pointers (ADIs 2.110, 2.111, 4.878, 5.083, 6.096, 6.327) "
+          "strike no words and are not modelled; Medida Provisória 871/2019's wording of art. 74 § 3º (in force 120 days "
+          "after 18.1.2019 under its art. 34 II) is not printed on the page and is not modelled"),
+})
 _anachronisms15 = P.anachronisms
 
 

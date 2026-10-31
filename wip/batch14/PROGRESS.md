@@ -141,3 +141,6 @@ regulation, ministerial attestation or event keep the in-force day.
   to 2027 there; Decreto 3.995/2001 (120 days for existing companies only) and DL 581/1969 (effect left to a decree) keep
   the in-force day.
 - 8.212/8.213: to a fresh agent (groundwork above).
+
+## Leis 8.212/8.213 - DONE in batch 15 (2026-10-31)
+Built and PUBLISHed as 99-batch15a/99-batch15b by scripts/brazil-law/batch15/ (see batch15/PROGRESS.md); the groundwork above was used as is.
