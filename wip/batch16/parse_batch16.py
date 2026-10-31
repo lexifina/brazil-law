@@ -50,6 +50,8 @@ ALL_ACTS: list[dict] = ([a for a in B14.ALL_ACTS if a["slug"] == _CBA]
                         + [a for a in B13.ALL_ACTS if a["slug"] in (_L4320, _FGTS)])
 PARTS: dict[str, list[str]] = {
     "a": [_CBA],
+    "b": [_FGTS],
+    "c": [_L4320],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH16_ACTS", "").split(",") if s] or VERIFIED
@@ -180,6 +182,127 @@ def apply_rewrites(paras, act, eff, problems):
 
 P.lifespans = B.lifespans = lifespans
 P.apply_rewrites = B.apply_rewrites = apply_rewrites
+
+# ---------------------------------------------------------------------------------------------------------------
+# Lei do FGTS (Lei 8.036/1990), part b
+P.VIGENCIA_FIXED["lei-13932-2019"] = (
+    "2019-12-12", "art. 15: 'Esta Lei entra em vigor: I - quanto aos §§ 8º e 9º do art. 5º e ao inciso I do § 6º-A do art. 9º "
+                  "incluídos pelo art. 2º à Lei nº 8.036, de 11 de maio de 1990, a partir do dia 1º de janeiro de 2020; II - "
+                  "quanto aos incisos XXI e XXII do caput do art. 20 incluídos pelo art. 2º à Lei nº 8.036 [...], após "
+                  "decorridos 180 (cento e oitenta) dias de sua publicação; III - quanto aos demais dispositivos, na data de "
+                  "sua publicação' (DOU 12.12.2019): I and II are dated by provision (1.1.2020; 9.6.2020, the day after the "
+                  "180th day counted from publication, LC 95/1998 art. 8 § 1)")
+_W13932 = ("Lei 13.932/2019 art. 15 I and II: art. 5 §§ 8º-9º (taxa de administração) are in force from 1.1.2020, and art. "
+           "20 XXI-XXII from 9.6.2020 (180 days after publication on 12.12.2019); art. 20 XXI as Medida Provisória "
+           "889/2019 had worded it (24.7.2019) ends when the conversion law gives the inciso its own wording (12.12.2019), so "
+           "the inciso is absent from 12.12.2019 to 9.6.2020, as the clause defers it; art. 9 § 6º-A, also named in I, was "
+           "vetoed")
+B8.SPAN_FIX += [
+    *[((_FGTS, "art-05", lab, pre, 0), {"start": "2020-01-01", "start_law": "lei-13932-2019", "by_provision": True}, _W13932)
+      for lab, pre in [("§ 8º", "§ 8º A taxa de administração do FGTS"), ("§ 9º", "§ 9º A taxa de administração de que trata")]],
+    *[((_FGTS, "art-20", lab, pre, n), {"start": "2020-06-09", "start_law": "lei-13932-2019", "by_provision": True}, _W13932)
+      for lab, pre, n in [("XXI -", "XXI - a qualquer tempo, quando seu saldo for inferior a R$ 80,00 (oitenta reais) e não "
+                                    "houver", 0),
+                          ("XXII -", "XXII - quando o trabalhador ou qualquer de seus dependentes for", 0)]],
+]
+_W3 = ("Lei 8.036 art. 3: Planalto notes both later wordings of the caput 'Redação dada pela Lei nº 9.649, de 1998'; Lei "
+       "9.649's own page shows that its art. 49 as enacted (27.5.1998) gave the caput with incisos I-VI ('integrado por três "
+       "representantes da categoria dos trabalhadores [...]') and § 2º, and that Medida Provisória 2.216-37/2001 (DOU "
+       "1.9.2001) rewrote art. 49 to give the caput its present wording ('composto por representação de trabalhadores, "
+       "empregadores e órgãos e entidades governamentais') and § 5º ('maioria simples'), and revoked § 2º (noted on this "
+       "page). So the 1998 caput and its incisos stand from 28.5.1998 to 1.9.2001, the present caput and § 5º from 1.9.2001 "
+       "(credited to MP 2.216-37; earlier editions of that MP chain are not modelled), and the 1990 § 5º to 1.9.2001")
+_W13 = ("Lei 8.036 art. 13 § 5º I: Lei 13.446/2017's wording is replaced by Medida Provisória 889/2019's (24.7.2019); Lei "
+        "13.932/2019, the conversion, did not take up MP 889's § 5º and inciso I, and Planalto prints Lei 13.446's wording as "
+        "today's text: it is out of force from 24.7.2019 to 12.12.2019")
+_W23 = ("Lei 8.036 art. 23 § 2º: the 1990 caput and alíneas a)-b) give way to Medida Provisória 905/2019's § 2º (12.11.2019 to "
+        "20.4.2020, and again on 18.8.2020) and stand again from 20.4.2020 to 18.8.2020 and from 19.8.2020 to Medida "
+        "Provisória 1.107/2022 (18.3.2022). Alínea c) as Medida Provisória 889/2019 added it (24.7.2019) ends when MP 905's § 2º "
+        "starts (12.11.2019); its wording by Lei 13.932/2019 (MP 889's conversion, 12.12.2019) belongs to the 1990 § 2º and "
+        "stands while that paragraph is in force (from 20.4.2020 to 18.8.2020 and from 19.8.2020 to 18.3.2022). Planalto "
+        "prints the 1990 alíneas, MP 889's c) and Lei 13.932's c) twice, before and after MP 905's text; the second copy of "
+        "MP 889's c) is left out")
+_MP905_GAP = ("2019-11-12", "2020-04-20", "mp-905-2019", "mp-955-2020")
+B8.SPAN_FIX += [
+    ((_FGTS, "art-03", "Art. 3º", "Art. 3º O FGTS será regido segundo normas e diretrizes estabelecidas por um Conselho "
+                                  "Curador, integrado por três representantes da categoria dos trabalhadores", 0),
+     {"end": "2001-09-01", "end_law": "mp-2216-2001", "end_how": "successor"}, _W3),
+    *[((_FGTS, "art-03", lab, pre, 0), {"end": "2001-09-01", "end_law": "mp-2216-2001", "end_how": "parent"}, _W3)
+      for lab, pre in [("I -", "I - Ministério do Trabalho"), ("II -", "II - Ministério do Planejamento"),
+                       ("III -", "III - Ministério da Fazenda"), ("IV -", "IV - Ministério da Indústria"),
+                       ("V -", "V - Caixa Econômica Federal"), ("VI -", "VI - Banco Central do Brasil")]],
+    ((_FGTS, "art-03", "Art. 3º", "Art. 3º O FGTS será regido por normas e diretrizes", 0),
+     {"start": "2001-09-01", "start_law": "mp-2216-2001"}, _W3),
+    ((_FGTS, "art-03", "§ 5º", "§ 5º As decisões do Conselho serão tomadas com a presença, no mínimo", 0),
+     {"end": "2001-09-01", "end_law": "mp-2216-2001", "end_how": "successor"}, _W3),
+    ((_FGTS, "art-03", "§ 5º", "§ 5º As decisões do Conselho serão tomadas com a presença da maioria simples", 0),
+     {"start": "2001-09-01", "start_law": "mp-2216-2001"}, _W3),
+    ((_FGTS, "art-13", "I -", "I - a distribuição alcançará todas as contas vinculadas que apresentarem saldo positivo em 31 "
+                              "de dezembro do exercício-base", 0),
+     {"gaps": [("2019-07-24", "2019-12-12", "mp-889-2019", "lei-13932-2019")]}, _W13),
+    *[((_FGTS, "art-23", lab, pre, 0), {"end": "2020-08-18", "end_law": "mp-955-2020-fim", "end_how": "mp-pair",
+                                        "gaps": [_MP905_GAP], "skip": False}, _W23)
+      for lab, pre in [("a)", "a) de 2 (dois) a 5 (cinco) BTN"), ("b)", "b) de 10 (dez) a 100 (cem) BTN")]],
+    *[((_FGTS, "art-23", lab, pre, 1), {"start": "2020-08-19", "start_law": "mp-905-2019-fim", "restored": True}, _W23)
+      for lab, pre in [("a)", "a) de 2 (dois) a 5 (cinco) BTN"), ("b)", "b) de 10 (dez) a 100 (cem) BTN")]],
+    ((_FGTS, "art-23", "c)", "c) de R$100,00 (cem reais) a R$300,00 (trezentos reais) por trabalhador prejudicado na", 0),
+     {"end": "2019-11-12", "end_law": "mp-905-2019", "end_how": "mp-pair"}, _W23),
+    ((_FGTS, "art-23", "c)", "c) de R$100,00 (cem reais) a R$300,00 (trezentos reais) por trabalhador prejudicado na", 1),
+     {"skip": True, "end_how": "duplicate"}, _W23),
+    ((_FGTS, "art-23", "c)", "c) de R$ 100,00 (cem reais) a R$ 300,00 (trezentos reais) por trabalhador prejudicado, na "
+                             "hipótese", 0),
+     {"start": "2020-04-20", "start_law": "mp-955-2020", "end": "2020-08-18", "end_law": "mp-955-2020-fim",
+      "end_how": "mp-pair", "gaps": [], "skip": False}, _W23),
+    ((_FGTS, "art-23", "c)", "c) de R$ 100,00 (cem reais) a R$ 300,00 (trezentos reais) por trabalhador prejudicado, na "
+                             "hipótese", 1),
+     {"start": "2020-08-19", "start_law": "mp-905-2019-fim", "end": "2022-03-18", "end_law": "mp-1107-2022",
+      "end_how": "successor", "gaps": [], "skip": False}, _W23),
+]
+B.EXPLAINED[_FGTS] = {
+    "art-05": "the consolidated page drops the semicolon after alínea f) ('[...] por classe de ativo, observados os "
+              "requisitos técnicos aplicáveis'; the annotated page prints ';'), reads the line 'XIV - (revogado);' (Lei 13.932/2019) as a "
+              "note, and leaves the tail of a note in § 7º ('[...] final daquele exercício. 07, de 2022)')",
+    "art-09": "the consolidated page is out of date for § 9º: it prints Medida Provisória 848/2018's wording ('Banco Nacional "
+              "de Desenvolvimento Econômico e Social - BNDES [...] entidades hospitalares filantrópicas e sem fins "
+              "lucrativos'), which Lei 13.778/2018, its conversion, replaced (the annotated page strikes MP 848's wording "
+              "and prints Lei 13.778's); it also drops the semicolon after alínea f) ('hipoteca sobre imóvel de propriedade de "
+              "terceiros')",
+    "art-23": "the consolidated page prints stray characters before alínea c) of § 2º ('eee9c) de R$ 100,00 [...]') and reads "
+              "the lines 'II - (revogado);', 'III - (revogado);' and 'a) (revogada);' (Lei 14.438/2022) as notes",
+}
+B13.OPEN_ITEMS[_FGTS] = (
+    "Lei 8.036 (open items): Medidas Provisórias reissued before Emenda Constitucional 32/2001 (MP 2.164-41, 2.196-3, "
+    "2.197-43, 2.216-37 and the chains before them) are dated by the edition Planalto's notes name, so changes their "
+    "earlier editions made from 1998 are dated 2001; Medida Provisória 1.107/2022 and Lei 14.438/2022 defer the effects of "
+    "their changes to arts. 13, 15 and 23 to the start of collection through the digital guide service (an event set by "
+    "regulation, not a fixed day), so those changes are dated by the in-force day; the Anexo Lei 13.932/2019 added (the "
+    "saque-aniversário table) is not part of the history; Planalto's 'Vide' pointers (ADI 2.736, RE 522.897, Lei "
+    "Complementar 150/2015, later laws, MPs and decrees) strike no words and are not modelled")
+P.MP_PENDING["mp-2216-2001"] = (
+    "Medida Provisória nº 2.216-37, de 31.8.2001 (DOU 1.9.2001, in force on publication), kept in force by Emenda "
+    "Constitucional 32/2001, art. 2; its art. 1 rewrote Lei 9.649/1998 art. 49, which gives Lei 8.036 art. 3 caput and § 5º "
+    "their present wording, and revoked art. 3 § 2º. Earlier editions of the chain are not modelled")
+B15.TEXT_FIX.append(("lfgts", "§ 9º § 9º A taxa", "§ 9º A taxa",
+                     "Lei 8.036 art. 5 § 9º (Lei 13.932/2019): the annotated page prints the label twice ('§ 9º § 9º A taxa "
+                     "de administração [...]'); Lei 13.932's own text and the consolidated page print it once"))
+P.MP_LAPSE["mp-1336-2026"] = (
+    "2026-06-06", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 48, de 2026 (DOU 9.6.2026): 'teve seu "
+                  "prazo de vigência encerrado no dia 5 de junho de 2026'")
+B7.CONVERTED_FIX["mp-996-2020"] = ("lei-14118-2021", "the MP page reads 'Convertida Lei nº 14.118, de 2021' (no 'na'), "
+                                                    "linking ../../2021/Lei/L14118.htm, Lei nº 14.118, de 12.1.2021 "
+                                                    "('Conversão da Medida Provisória nº 996, de 2020')")
+P.MP_PENDING.update({
+    "mp-2164-2001": ("Medida Provisória nº 2.164-41, de 24.8.2001 (DOU 27.8.2001, in force on publication), kept in force by "
+                     "Emenda Constitucional 32/2001, art. 2; its art. 9 gave Lei 8.036 arts. 19-A, 20 VIII and XIII and 29-A "
+                     "to 29-D their wording. Planalto's notes name this edition only, so the changes are dated by its "
+                     "publication; earlier editions of the chain are not modelled"),
+    "mp-2196-2001": ("Medida Provisória nº 2.196-3, de 24.8.2001 (DOU 25.8.2001, in force on publication), kept in force by "
+                     "Emenda Constitucional 32/2001, art. 2; its art. 12 added Lei 8.036 art. 9 § 8º. Earlier editions of the "
+                     "chain are not modelled"),
+    "mp-2197-2001": ("Medida Provisória nº 2.197-43, de 24.8.2001 (DOU 27.8.2001, in force on publication), kept in force by "
+                     "Emenda Constitucional 32/2001, art. 2; its art. 5 gave Lei 8.036 art. 9 § 6º and art. 20 its wording. "
+                     "Earlier editions of the chain are not modelled"),
+})
 
 # ---------------------------------------------------------------------------------------------------------------
 _inner16 = B6.PB5B._write_part5

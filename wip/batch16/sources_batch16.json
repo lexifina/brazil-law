@@ -10,6 +10,17 @@
     "offset": "39029659",
     "length": "2407"
    }
+  },
+  {
+   "id": "ato:adc-48-2026-mpv1336",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/congresso/adc-48-mpv1.336.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261011142221",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054600.65/warc/CC-MAIN-20261011135327-20261011165327-00296.warc.gz",
+    "offset": "810405984",
+    "length": "2364"
+   }
   }
  ]
 }
