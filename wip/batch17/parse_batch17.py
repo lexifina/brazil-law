@@ -877,6 +877,85 @@ if any(a["slug"] == _L9430 for a in ACTS):
     P.NOTE_FIX["(Redação dada pela nº 12.715, de 2012)"] = (
         "(Redação dada pela Lei nº 12.715, de 2012)", "Lei 9.430: the note reads 'Redação dada pela nº 12.715, de 2012' (the "
                                                       "word 'Lei' is missing)")
+    P.VIGENCIA_FIXED["lei-14596-2023"] = (
+        "2024-01-01", "art. 49: 'Esta Lei entra em vigor em 1º de janeiro de 2024, exceto o art. 45, que entra em vigor na data "
+                      "de sua publicação' (DOU 15.6.2023); its art. 46, the revocation of Lei 9.430 arts. 18 to 24-A (and the "
+                      "new wordings of arts. 24-A and 24-B, art. 46's companion articles), falls under the rule; the option "
+                      "of art. 45 (rules applied from 1.1.2023 to taxpayers who chose them) is a taxpayer's choice, not a "
+                      "day of the law")
+    _W12715 = ("Lei 12.715/2012 art. 78 § 1º: 'Os arts. 48 e 50 entram em vigor em 1º de janeiro de 2013' (DOU 18.9.2012): "
+               "art. 48 (Lei 9.430 arts. 12, 18, 19 and 22) and art. 50 (arts. 18-A and 19-A); its arts. 49 and 51 (arts. 20, "
+               "20-A, 20-B and 28) are in force on publication")
+    _W12766 = ("Lei 12.766/2012 art. 15: 'produzindo efeitos: [...] II - a partir de 1º de janeiro de 2013, em relação aos arts. "
+               "2º, 3º e 5º' (DOU 28.12.2012): its art. 5 (Lei 9.430 art. 22) from 1.1.2013")
+    _W11727 = ("Lei 11.727/2008 art. 41: 'produzindo efeitos em relação: [...] VI - aos arts. 22, 23, 29 e 31, a partir do "
+               "primeiro dia do ano seguinte ao da publicação desta Lei' (DOU 24.6.2008): its arts. 22 and 23 (Lei 9.430 art. 24 "
+               "§ 4º, arts. 24-A and 24-B) from 1.1.2009")
+    _W449 = ("Medida Provisória 449/2008 (DOU 4.12.2008, in force on publication) art. 29 gave art. 24-A's parágrafo único a new "
+             "wording before the article took effect (1.1.2009, Lei 11.727 art. 41 VI): the article takes effect on 1.1.2009 "
+             "with the MP's wording, and the 2008 wording of the parágrafo único never took effect")
+    P.VIGENCIA_PROVISION.update({("lei-12715-2012", _L9430, u): ("2013-01-01", _W12715)
+                                 for u in ("art-12", "art-18", "art-18-a", "art-19", "art-19-a", "art-22")})
+    P.VIGENCIA_PROVISION[("lei-12766-2012", _L9430, "art-22")] = ("2013-01-01", _W12766)
+    P.VIGENCIA_PROVISION.update({("lei-11727-2008", _L9430, u): ("2009-01-01", _W11727)
+                                 for u in ("art-24", "art-24-a", "art-24-b")})
+    P.VIGENCIA_PROVISION[("mp-449-2008", _L9430, "art-24-a")] = ("2009-01-01", _W449)
+    B13.OPEN_ITEMS[_L9430] = (
+        "Lei 9.430 (open items): art. 87's 'efeitos financeiros a partir de 1º de janeiro de 1997' are financial effects only "
+        "(the in-force day, 30.12.1996, is kept); changes whose effects reach back before their in-force day keep that day "
+        "(Leis 9.959/2000, 10.637/2002 art. 49, 12.249/2010); Medida Provisória 2.158-35/2001 is dated by that edition; 'Vide' "
+        "pointers (Medidas Provisórias 563/2012 on art. 22 and 1.152/2022 on arts. 18 to 24-B, Decreto 7.212/2010, Lei "
+        "Complementar 214/2025 and others) strike no words and are not modelled")
+    B.EXPLAINED[_L9430] = {
+        "art-74": "the consolidated page prints 'Lei no 5.172' where the annotated page prints 'Lei nº 5.172' (typography)",
+        "titulos": "the consolidated page still prints the headings of arts. 18 to 22 ('Seção V', 'Preços de Transferência', "
+                   "'Bens, Serviços e Direitos Adquiridos no Exterior', 'Receitas Oriundas de Exportações para o Exterior', "
+                   "'Apuração dos Preços Médios', 'Juros'); the annotated page strikes them with the articles under them, "
+                   "which Lei 14.596/2023 revoked",
+    }
+_W70 = ("Lei 9.430 art. 70 § 2º: Medida Provisória 252/2005 (DOU 16.6.2005) art. 50 gave it a new wording with effects from "
+        "1.1.2006 (art. 132 IV: 'arts. 17 a 27 e 47 a 51'); the MP lapsed on 13.10.2005, so its wording never took effect, and "
+        "Lei 11.196/2005 (DOU 21.11.2005) art. 73, also with effects from 1.1.2006 (art. 132 IV b: 'arts. [...] 70 a 75'), gave "
+        "the paragraph its present wording: the 1996 wording stands until 1.1.2006; Planalto's second, struck copy of it "
+        "(after the MP's lapse) is the same line")
+_W478 = ("Lei 9.430 arts. 19-A and 19-B as Medida Provisória 478/2009 (DOU 29.12.2009, effects from 1.1.2010 for its arts. 9 and "
+         "10) added them: Planalto notes them only 'Vide Medida Provisória nº 478, de 2009'; they are the MP's wordings and "
+         "stand from its day until it lapsed on 1.6.2010 (Ato Declaratório nº 18/2010); art. 19-A's later wording is Lei "
+         "12.715/2012's")
+_R478 = {"start": "2009-12-29", "start_law": "mp-478-2009", "end": "2010-06-02", "end_law": "mp-478-2009-fim",
+         "end_how": "lapse", "skip": False, "gaps": []}
+B8.SPAN_FIX += [
+    ((_L9430, "art-70", "§ 2º", "§ 2º O imposto deverá ser retido na data do pagamento ou crédito da multa ou vantagem e será", 0),
+     {"end": "2006-01-01", "end_law": "lei-11196-2005", "end_how": "successor", "gaps": []}, _W70),
+    ((_L9430, "art-70", "§ 2º", "§ 2º O imposto deverá ser retido na data do pagamento ou crédito da multa ou vantagem.", 0),
+     {"skip": True, "end_how": "never-in-force"}, _W70),
+    ((_L9430, "art-70", "§ 2º", "§ 2º O imposto deverá ser retido na data do pagamento ou crédito da multa ou vantagem e será", 1),
+     {"skip": True, "end_how": "duplicate"}, _W70),
+    ((_L9430, "art-70", "§ 2º", "§ 2º O imposto será retido", 0), {"start": "2006-01-01", "start_law": "lei-11196-2005"}, _W70),
+    ((_L9430, "art-19-a", "Art. 19-A", "Art. 19-A. O Ministro de Estado da Fazenda poderá fixar margens", 0), _R478, _W478),
+    ((_L9430, "art-19-b", "Art. 19-B", "Art. 19-B. A opção por um dos métodos", 0), _R478, _W478),
+    ((_L9430, "art-19-b", "I -", "I - não indicar, precedentemente", 0), _R478, _W478),
+    ((_L9430, "art-19-b", "II -", "II - não apresentar os documentos", 0), _R478, _W478),
+    ((_L9430, "art-19-b", "III -", "III - apresentar documentos imprestáveis", 0), _R478, _W478),
+    ((_L9430, "art-19-b", "§ 2º", "§ 2º A utilização do método", 0), _R478, _W478),
+]
+# Lei 9.430 arts. 18 to 22: the headings above them (Seção V 'Preços de Transferência' and the article headings) are struck
+# with no note; they fall with the articles, revoked by Lei 14.596/2023 (the 'heads' rule would end each with the first
+# change of the article under it)
+HEADS_14596 = {_L9430: ("lei-14596-2023", {"Seção V", "Preços de Transferência", "Bens, Serviços e Direitos Adquiridos no "
+                                           "Exterior", "Receitas Oriundas de Exportações para o Exterior",
+                                           "Apuração dos Preços Médios", "Juros"})}
+HEADS_USED: list[str] = []
+
+
+def heads_14596(paras, act, eff):
+    if act["slug"] not in HEADS_14596:
+        return
+    law, names = HEADS_14596[act["slug"]]
+    for p in paras:
+        if p["heading"] and p["state"] != "plain" and p.get("end_how") == "heads" and P.norm(p["text"]) in names:
+            p["end"], p["end_law"], p["end_how"] = eff[law], law, "note"
+            HEADS_USED.append(P.norm(p["text"]))
 
 B15.TEXT_FIX.append(("l7713","calculado de acordo com o disposto no art. 25 desta Lei:)$",
                      "calculado de acordo com o disposto no art. 25 desta Lei:",
@@ -901,6 +980,7 @@ def apply_rewrites(paras, act, eff, problems):
     mp955_two_copies(paras, act)
     veto_kept(paras, act)
     promulgated(paras, act)
+    heads_14596(paras, act, eff)
     return out
 
 
