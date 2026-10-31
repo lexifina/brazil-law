@@ -267,6 +267,15 @@ P.VIGENCIA_FIXED.update({
                                      "publicação, para os demais dispositivos' (DOU 5.11.2015); the dispositivos of I and II "
                                      "are dated by provision"),
 })
+P.VIGENCIA_FIXED["lei-12873-2013"] = (
+    "2013-10-25", "art. 63: 'Esta Lei entra em vigor: I - no 1º (primeiro) dia do sétimo mês subsequente à data de sua "
+                  "publicação, em relação ao art. 32-C da Lei nº 8.212 [...]; II - 90 (noventa) dias após a data de sua "
+                  "publicação, em relação: a) aos arts. 71-B e 71-C da Lei nº 8.213 [...]; e III - na data de sua publicação "
+                  "quanto aos demais dispositivos, produzindo efeitos a partir de 1º de janeiro de 2014, em relação: a) ao "
+                  "inciso VII do § 9º do art. 12, à alínea d do inciso I do § 11 do art. 12, e aos §§ 14 e 15 do art. 12 da Lei "
+                  "nº 8.212 [...]; b) ao inciso VII do § 8º do art. 11, à alínea d do inciso I do § 10 do art. 11, aos §§ 12 e 13 "
+                  "do art. 11 da Lei nº 8.213 [...]' (DOU 25.10.2013): I and II are dated by provision, III's effect days by "
+                  "the effect-days step")
 P.VIGENCIA_PROVISION.update({
     ("lei-12873-2013", _C, "art-032-c"): (
         "2014-05-01", "Lei 12.873/2013 art. 63 I: 'no 1º (primeiro) dia do sétimo mês subsequente à data de sua publicação, em "
