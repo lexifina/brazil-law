@@ -1,0 +1,15 @@
+{
+ "fetch": [
+  {
+   "id": "law:mp-1710r1-1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1710-1.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260915185733",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492996361.89/warc/CC-MAIN-20260915172500-20260915202500-00021.warc.gz",
+    "offset": "35754994",
+    "length": "4333"
+   }
+  }
+ ]
+}
