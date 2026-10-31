@@ -1425,13 +1425,37 @@ B.EXPLAINED[_LCADIN] = {
     "art-20-b": "the annotated page ends the caput with a full stop ('nela indicados.'); the consolidated page and Lei 13.606's "
                 "own page print none; the annotated page's text is kept",
 }
+_W20D = ("Lei 10.522 art. 20-D: added by Lei 13.606/2018 (art. 25, DOU 10.1.2018) but vetoed ('Art. 20-D. (VETADO).'); "
+         "Congress overrode the veto and the article was promulgated on 17.4.2018 (DOU 18.4.2018, printed on Lei 13.606's "
+         "page, as for Lei 8.212 art. 25 § 12 in 99-batch15a). The '(VETADO)' line (the page prints it struck and without "
+         "its closing parenthesis) stands from 10.1.2018 to 18.4.2018, the promulgated caput and incisos I-III from "
+         "18.4.2018, credited to Lei 13.606")
+_P20D = {"start": "2018-04-18", "start_law": "lei-13606-2018", "promulgated": True}
+B8.SPAN_FIX += [
+    ((_LCADIN, "art-20-d", "Art. 20-D", "Art. 20-D. (VETADO", 0),
+     {"text": "Art. 20-D. (VETADO).", "skip": False, "start": "2018-01-10", "start_law": "lei-13606-2018",
+      "end": "2018-04-18", "end_law": "lei-13606-2018", "end_how": "promulgation"}, _W20D),
+    ((_LCADIN, "art-20-d", "Art. 20-D", "Art. 20-D. Sem prejuízo", 0), dict(_P20D), _W20D),
+    ((_LCADIN, "art-20-d", "I -", "I - notificar as pessoas", 0), dict(_P20D), _W20D),
+    ((_LCADIN, "art-20-d", "II -", "II - requisitar informações", 0), dict(_P20D), _W20D),
+    ((_LCADIN, "art-20-d", "III -", "III - instaurar procedimento", 0), dict(_P20D), _W20D),
+    ((_LCADIN, "art-10", "Art. 10", "Art. 10. (Vide", 0), {"skip": True, "end_how": "pointer"},
+     "Lei 10.522 art. 10: Planalto prints a struck line holding only 'Art. 10.' and the note '(Vide Mpv nº 75, de 2002)' (a "
+     "Medida Provisória the Chamber rejected); it is a pointer, not a wording, and is left out"),
+    ((_LCADIN, "art-13-a", "Art. 13-A", "Art. 13-A -", 0), {"skip": True, "end_how": "pointer"},
+     "Lei 10.522 art. 13-A: Planalto prints a struck line holding only 'Art. 13-A -' and the note '(Vide Medida Provisória nº "
+     "249, de 2005)'; it is a pointer, not a wording, and is left out (art. 13-A starts with Lei 11.345/2006, 15.9.2006)"),
+]
 B13.OPEN_ITEMS[_LCADIN] = (
     "Lei 10.522 (open items): the text before 22.7.2002 (Medida Provisória 2.176-79/2001 and its earlier editions, of which "
     "this Lei is the conversion) is not part of the history; the STF's judgment in ADIs 5.881, 5.886, 5.890, 5.925, 5.931 and "
     "5.932 on arts. 20-B to 20-E (Planalto prints only 'Vide' notes and strikes no words) is not modelled; 'Vide' pointers "
     "(Medidas Provisórias 75/2002, 249/2005, 526/2011, 766/2017, 958/2020, 975/2020, 1.028/2021, 1.176/2023 and 1.259/2024, "
     "Leis 12.453/2011, 12.973/2014, 13.340/2016, 13.999/2020, 14.057/2020, 14.179/2021 and 14.690/2023 on art. 6, ADI "
-    "1.976-7 on the Decreto 70.235 text quoted in art. 32) strike no words and are not modelled")
+    "1.976-7) strike no words and are not modelled. LEFT OUT: art. 32's quoted § 2º of Decreto 70.235 art. 33 (the "
+    "arrolamento of 30% of the debt as a condition of the recurso voluntário), in the act as enacted: Planalto strikes it "
+    "with only '(Vide Adin nº 1.976-7)' and no date; the STF ruling cannot be read here (the STF's case pages are closed to "
+    "this project's reader), so the line's end cannot be dated and it is not in any version")
 
 # Lei 9.430 arts. 18 to 22: the headings above them (Seção V 'Preços de Transferência' and the article headings) are struck
 # with no note; they fall with the articles, revoked by Lei 14.596/2023 (the 'heads' rule would end each with the first
