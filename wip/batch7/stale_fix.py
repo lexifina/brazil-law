@@ -10,11 +10,15 @@ A. A wording ends no later than the next wording of the same dispositivo. parse_
    where a later wording was taken as its successor. The unlabelled lines printed right under the ended line ('Pena -
    ...') that started and ended with it end with it.
 
-B. An unnoted wording printed below a struck wording of the same dispositivo with the same start (Planalto struck the
-   old text and printed the new one without a note: CP art. 273 § 2º, rewritten by Lei 9.677/1998) starts when the
-   struck one ended, credited to the law that ended it.
+B. Twin wordings: a line printed below a struck line of the same dispositivo with the same start, word for word the
+   same (Planalto printing a wording again where it came back: CLT art. 582 § 1º after MP 873/2019 lapsed). The lower line starts on
+   the first day from the struck line's end on when no other wording of the dispositivo stands (or with the restored
+   caput of its article); a struck lower copy that never stands alone is left out.
 
-C. Two copies of one line, alive at once, word for word the same apart from typesetting (Planalto printing the same
+D. A line with no note of its own printed unstruck under an unstruck line that came in later (CLT art. 678's alíneas
+   under the incisos Lei 5.442/1968 added; CP art. 273 § 2º under the new caput of Lei 9.677/1998) starts with it.
+
+C. Two copies of one labelled line, alive at once, word for word the same apart from typesetting (Planalto printing the same
    dispositivo twice, struck and unstruck, or twice unstruck): the later-printed copy starts when the earlier one ends;
    if neither ends, the struck copy is left out.
 """
@@ -22,7 +26,7 @@ from __future__ import annotations
 
 import re
 
-USED: dict[str, list[str]] = {"A": [], "B": [], "C": []}
+USED: dict[str, list[str]] = {"A": [], "B": [], "C": [], "D": []}
 
 
 def _norm_label(s: str) -> str:
@@ -35,19 +39,19 @@ def _norm_text(s: str) -> str:
     return re.sub(r"[^0-9a-zà-ÿ]", "", s.lower())
 
 
-def fix(M, paras: list[dict], act: str, same_day_laws: set[str]) -> None:
+def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = False) -> None:
     level = M.level
     # A
     for i, p in enumerate(paras):
-        if p["heading"] or not p["label"] or p.get("skip") or not p["end"]:
-            continue
+        if p["heading"] or not p["label"] or p.get("skip") or not p["end"] or p.get("gaps") or p.get("pinned"):
+            continue   # lines with gaps or pinned by an MP-pair model (CLT, MP 905/955) keep their modelled spans
         lv = level(p["label"])
         for q in paras[i + 1:]:
             if q["heading"]:
                 continue
             if q["unit"] != p["unit"] or level(q["label"]) < min(lv, 2) or (lv < 5 and level(q["label"]) < lv):
                 break
-            if q.get("skip") or _norm_label(q["label"]) != _norm_label(p["label"]):
+            if q.get("skip") or q.get("pinned") or _norm_label(q["label"]) != _norm_label(p["label"]):
                 continue
             later = q["start"] > p["start"]
             same = (q["start"] == p["start"] and q["start_law"] in same_day_laws and p["start_law"] not in same_day_laws)
@@ -63,22 +67,69 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str]) -> None:
                 break
             if later:
                 break
-    # B
+    # D: an unnoted unstruck line is no older than the unstruck line it hangs from (its nearest parent above it)
     for i, p in enumerate(paras):
         if p["state"] != "plain" or p["start_law"] or p.get("skip") or p["heading"]:
+            continue
+        lv = level(p["label"]) if p["label"] else 99
+        for q in reversed(paras[:i]):
+            if q["unit"] != p["unit"]:
+                break
+            if q["heading"] or q.get("skip") or q["state"] != "plain" or not q["label"]:
+                continue
+            if level(q["label"]) < lv:
+                if q["start"] > p["start"]:
+                    p["start"], p["start_law"] = q["start"], q["start_law"]
+                    USED["D"].append(f"{act} {p['unit']} [{p['label'] or p['text'][:30]}] from {q['start']}")
+                break
+    # B: twin wordings (same dispositivo, same start) printed one below the other
+    def alive_at(r, d):
+        return not r.get("skip") and r["start"] <= d and (r["end"] is None or d < r["end"]) and not any(
+            a <= d < b for a, b, *_ in (r.get("gaps") or []))
+    for i, p in enumerate(paras):
+        if p["heading"] or p.get("skip") or not (p["label"] or p["state"] == "plain"):
             continue
         for q in reversed(paras[:i]):
             if q["unit"] != p["unit"]:
                 break
             if q["heading"] or q.get("skip") or q["state"] == "plain" or q["start"] != p["start"] or not q["end"]:
                 continue
-            if p["label"] and _norm_label(q["label"]) == _norm_label(p["label"]) or (
-                    not p["label"] and not q["label"] and _norm_text(q["text"]) == _norm_text(p["text"])):
-                if q["end"] > p["start"] and (p["end"] is None or q["end"] < p["end"]):
-                    p["start"], p["start_law"] = q["end"], q["end_law"]
-                    USED["B"].append(f"{act} {p['unit']} [{p['label'] or p['text'][:30]}] from {q['end']}")
+            same_label = p["label"] and _norm_label(q["label"]) == _norm_label(p["label"])
+            same_text = _norm_text(q["text"]) == _norm_text(p["text"])
+            twin = same_label and same_text
+            if not twin:
+                continue
+            if p["end"] is not None and p["end"] <= q["end"]:
                 break
-    # C
+            # the first day from q's end on when no other wording of this dispositivo stands
+            day, law = q["end"], q["end_law"]
+            for _ in range(20):
+                blk = [r for r in paras if r is not p and r is not q and r["unit"] == p["unit"] and not r["heading"]
+                       and (r["label"] and _norm_label(r["label"]) == _norm_label(p["label"])) and alive_at(r, day)
+                       and r["start"] >= day]   # a wording that came in at or after that day (not a sibling list's own item)
+                if not blk or not p["label"]:
+                    break
+                r = max(blk, key=lambda r: r["end"] or "9999")
+                if r["end"] is None:
+                    day = None
+                    break
+                day, law = r["end"], r["end_law"]
+            if day and p["state"] == "plain":
+                back = [r for r in paras if r["unit"] == p["unit"] and r["state"] == "plain" and r is not p
+                        and (r["start_law"] or "").endswith("-fim") and r["start"] > day]
+                if back and all(r["start"] == back[0]["start"] for r in back):
+                    day, law = back[0]["start"], back[0]["start_law"]
+            if day is None or (p["end"] is not None and day >= p["end"]):
+                p["skip"], p["end_how"] = True, "twin"
+                USED["B"].append(f"{act} {p['unit']} [{p['label'] or p['text'][:30]}] second copy left out")
+            else:
+                p["start"], p["start_law"] = day, law
+                USED["B"].append(f"{act} {p['unit']} [{p['label'] or p['text'][:30]}] from {day}")
+            break
+    # C (off unless asked: identical lines under different parents are legitimate, CPC art. 932 IV/V a) and b))
+    if not rule_c:
+        return
+
     def alive_span(p):
         return (p["start"], p["end"] or "9999-12-31")
     by_unit: dict[str, list[dict]] = {}
@@ -88,7 +139,8 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str]) -> None:
     for unit, ps in by_unit.items():
         for a_i, a in enumerate(ps):
             for b in ps[a_i + 1:]:
-                if a.get("skip") or b.get("skip") or _norm_text(a["text"]) != _norm_text(b["text"]) or not a["text"]:
+                if (a.get("skip") or b.get("skip") or not a["label"] or _norm_label(a["label"]) != _norm_label(b["label"])
+                        or _norm_text(a["text"]) != _norm_text(b["text"])):
                     continue
                 (s1, e1), (s2, e2) = alive_span(a), alive_span(b)
                 if not (s1 < e2 and s2 < e1):
@@ -111,9 +163,15 @@ def decisions() -> list[str]:
         out.append("A wording ends no later than the next wording of the same dispositivo (also a wording a law in force on "
                    "the act's first day rewrote that day), even where the source also notes a later revocation; the "
                    "unlabelled lines right under it end with it: " + "; ".join(dict.fromkeys(USED["A"])) + ".")
+    if USED["D"]:
+        out.append("A line with no note of its own, printed unstruck under an unstruck line that came in later (its article, "
+                   "paragraph or inciso, rewritten by a law that Planalto notes only on that line), starts with it: "
+                   + "; ".join(dict.fromkeys(USED["D"])) + ".")
     if USED["B"]:
-        out.append("An unnoted wording printed below a struck wording of the same dispositivo with the same start is the "
-                   "new wording: it starts when the struck one ended, credited to that law: "
+        out.append("Twin wordings: a line printed below a struck line of the same dispositivo with the same start, word for "
+                   "word the same, starts on the first day from the struck "
+                   "line's end on when no other wording of that dispositivo stands, or with the restored caput of its "
+                   "article; a struck lower copy that never stands alone is left out: "
                    + "; ".join(dict.fromkeys(USED["B"])) + ".")
     if USED["C"]:
         out.append("A line Planalto prints twice, word for word the same: the later copy starts when the earlier ends, or, "
