@@ -1439,7 +1439,7 @@ B8.SPAN_FIX += [
     ((_LCADIN, "art-20-d", "I -", "I - notificar as pessoas", 0), dict(_P20D), _W20D),
     ((_LCADIN, "art-20-d", "II -", "II - requisitar informações", 0), dict(_P20D), _W20D),
     ((_LCADIN, "art-20-d", "III -", "III - instaurar procedimento", 0), dict(_P20D), _W20D),
-    ((_LCADIN, "art-10", "Art. 10", "Art. 10. (Vide", 0), {"skip": True, "end_how": "pointer"},
+    ((_LCADIN, "art-10", "Art. 10", "Art. 10.", 1), {"skip": True, "end_how": "pointer"},
      "Lei 10.522 art. 10: Planalto prints a struck line holding only 'Art. 10.' and the note '(Vide Mpv nº 75, de 2002)' (a "
      "Medida Provisória the Chamber rejected); it is a pointer, not a wording, and is left out"),
     ((_LCADIN, "art-13-a", "Art. 13-A", "Art. 13-A -", 0), {"skip": True, "end_how": "pointer"},
@@ -1489,6 +1489,18 @@ B13.OPEN_ITEMS[_L7713] = (
     "janeiro de 1997' are financial effects only (in-force day kept); 'Vide' pointers (Leis 8.134/1990, 8.383/1991, "
     "8.848/1994, 9.250/1995, Medidas Provisórias 582/2012 and 1.303/2025 and others) strike no words and are not modelled")
 
+_lifespans17 = P.lifespans
+
+
+def lifespans(paras, cx):
+    problems = _lifespans17(paras, cx)
+    # a struck line a SPAN_FIX entry gave an end (Lei 10.522 art. 20-D's '(VETADO' line): the reader's 'no end' is settled
+    dated = {f"no end for struck {p['unit']} [{p['label']}] " for p in paras
+             if p.get("pinned") and p["state"] != "plain" and p.get("end") and not p.get("skip")}
+    return [x for x in problems if not any(x.startswith(t) for t in dated)]
+
+
+P.lifespans = B.lifespans = lifespans
 _apply_rewrites17 = P.apply_rewrites
 
 
