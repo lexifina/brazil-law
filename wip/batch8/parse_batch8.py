@@ -86,8 +86,66 @@ B7.ACTS[:] = ACTS          # batch 7's build_act wrapper names the act it fixes 
 # 8 § 1 counting from 26.4.2001; before that the day count of LINDB art. 1, as in batch 6)
 ACT_DAY_ALL: dict[str, tuple[str, str]] = {k: v for k, v in B7.ACT_DAY_ALL.items() if k in ("lei-10826-2003", "lei-9613-1998")}
 ACT_LAWS_ALL: dict[str, dict] = {k: v for k, v in B7.ACT_LAWS_ALL.items() if k in ACT_DAY_ALL}
-ACT_DAY_NEW: dict[str, tuple[str, str]] = {}
-ACT_LAWS_NEW: dict[str, dict] = {}
+ACT_DAY_NEW: dict[str, tuple[str, str]] = {
+    "lei-8072-1990": ("1990-07-26", "Lei 8.072/1990 art. 12: 'Esta lei entra em vigor na data de sua publicação' (DOU "
+                                    "26.7.1990)"),
+    "lei-7347-1985": ("1985-07-25", "Lei 7.347/1985 art. 21 (renumbered art. 22 by Lei 8.078/1990): 'Esta lei entra em "
+                                    "vigor na data de sua publicação' (DOU 25.7.1985)"),
+    "dl-4657-1942": ("1942-10-24", "Decreto-Lei 4.657/1942 has no vigência clause of its own, so its own art. 1 applies: "
+                                   "'a lei começa a vigorar em todo o país quarenta e cinco dias depois de oficialmente "
+                                   "publicada' (DOU 9.9.1942): in force on 24.10.1942. The DOU of 8.10.1942 and of 17.6.1943 "
+                                   "printed retificações; the history starts from the text as Planalto prints it, dated "
+                                   "24.10.1942"),
+    "lei-12850-2013": ("2013-09-19", "Lei 12.850/2013 art. 27: 'Esta Lei entra em vigor após decorridos 45 (quarenta e cinco) "
+                                     "dias de sua publicação oficial' (DOU 5.8.2013, edição extra): the 45th day counted "
+                                     "from publication is 18.9.2013 (LC 95/1998 art. 8 § 1)"),
+    "lei-9279-1996": ("1996-05-15", "Lei 9.279/1996 art. 243: 'Esta Lei entra em vigor na data de sua publicação quanto às "
+                                    "matérias disciplinadas nos arts. 230, 231, 232 e 239, e 1 (um) ano após sua publicação "
+                                    "quanto aos demais artigos' (DOU 15.5.1996): arts. 230, 231, 232 and 239 from 15.5.1996, "
+                                    "every other article (and the headings) from 15.5.1997"),
+    "lei-9610-1998": ("1998-06-20", "Lei 9.610/1998 art. 114: 'Esta Lei entra em vigor cento e vinte dias após sua "
+                                    "publicação' (DOU 20.2.1998): 20.6.1998"),
+    "lei-12852-2013": ("2014-02-02", "Lei 12.852/2013 art. 48: 'Esta Lei entra em vigor após decorridos 180 (cento e oitenta) "
+                                     "dias de sua publicação oficial' (DOU 6.8.2013): the 180th day counted from publication "
+                                     "is 1.2.2014 (LC 95/1998 art. 8 § 1)"),
+    "lei-11771-2008": ("2008-09-18", "Lei 11.771/2008 art. 48: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
+                                     "18.9.2008)"),
+    "lei-13146-2015": ("2016-01-03", "Lei 13.146/2015 art. 127: 'Esta Lei entra em vigor após decorridos 180 (cento e "
+                                     "oitenta) dias de sua publicação oficial' (DOU 7.7.2015): the 180th day counted from "
+                                     "publication is 2.1.2016 (LC 95/1998 art. 8 § 1)"),
+}
+ACT_LAWS_NEW: dict[str, dict] = {
+    "lei-8072-1990": B._act_law("Lei nº 8.072, de 1990", "Dispõe sobre os crimes hediondos, nos termos do art. 5º, inciso "
+                                "XLIII, da Constituição Federal, e determina outras providências.", "1990-07-25",
+                                "1990-07-26", PAGES["lch"]),
+    "lei-7347-1985": B._act_law("Lei nº 7.347, de 1985", "Disciplina a ação civil pública de responsabilidade por danos "
+                                "causados ao meio-ambiente, ao consumidor, a bens e direitos de valor artístico, estético, "
+                                "histórico, turístico e paisagístico (VETADO) e dá outras providências.", "1985-07-24",
+                                "1985-07-25", PAGES["lacp"]),
+    "dl-4657-1942": B._act_law("Decreto-Lei nº 4.657, de 1942", "Lei de Introdução às normas do Direito Brasileiro.",
+                               "1942-09-04", "1942-09-09", PAGES["lindb"]),
+    "lei-12850-2013": B._act_law("Lei nº 12.850, de 2013", "Define organização criminosa e dispõe sobre a investigação "
+                                 "criminal, os meios de obtenção da prova, infrações penais correlatas e o procedimento "
+                                 "criminal; altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal); revoga a "
+                                 "Lei nº 9.034, de 3 de maio de 1995; e dá outras providências.", "2013-08-02", "2013-08-05",
+                                 PAGES["lorcrim"]),
+    "lei-9279-1996": B._act_law("Lei nº 9.279, de 1996", "Regula direitos e obrigações relativos à propriedade industrial.",
+                                "1996-05-14", "1996-05-15", PAGES["lpi"]),
+    "lei-9610-1998": B._act_law("Lei nº 9.610, de 1998", "Altera, atualiza e consolida a legislação sobre direitos autorais "
+                                "e dá outras providências.", "1998-02-19", "1998-02-20", PAGES["lda"]),
+    "lei-12852-2013": B._act_law("Lei nº 12.852, de 2013", "Institui o Estatuto da Juventude e dispõe sobre os direitos dos "
+                                 "jovens, os princípios e diretrizes das políticas públicas de juventude e o Sistema "
+                                 "Nacional de Juventude - SINAJUVE.", "2013-08-05", "2013-08-06", PAGES["ejuv"]),
+    "lei-11771-2008": B._act_law("Lei nº 11.771, de 2008", "Dispõe sobre a Política Nacional de Turismo, define as "
+                                 "atribuições do Governo Federal no planejamento, desenvolvimento e estímulo ao setor "
+                                 "turístico; revoga a Lei nº 6.505, de 13 de dezembro de 1977, o Decreto-Lei nº 2.294, de 21 "
+                                 "de novembro de 1986, e dispositivos da Lei nº 8.181, de 28 de março de 1991; e dá outras "
+                                 "providências.", "2008-09-17", "2008-09-18", PAGES["ltur"]),
+    "lei-13146-2015": B._act_law("Lei nº 13.146, de 2015", "Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência "
+                                 "(Estatuto da Pessoa com Deficiência).", "2015-07-06", "2015-07-07", PAGES["lbi"]),
+}
+# Lei 9.279's staged start (art. 243): units in force on publication; every other unit is gated to 15.5.1997
+LPI_EARLY = {"art-230", "art-231", "art-232", "art-239", "preambulo"}
 ACT_DAY_ALL.update(ACT_DAY_NEW)
 ACT_LAWS_ALL.update(ACT_LAWS_NEW)
 B.ACT_DAY.clear()
@@ -376,8 +434,19 @@ def _inner(*a) -> int:
 
 B6.PB5B._write_part5 = _inner
 
-# batch 7's build_act wrapper (stale-wording rules) runs on these acts; it is reached through P.build_act
-_build_act8 = B7._build_act7
+# batch 7's build_act wrapper (stale-wording rules) runs on these acts; Lei 9.279's units are gated here (art. 243)
+_build_act8 = P.build_act
+
+
+def build_act(paras, act_day, gate, gate_law, unit_label):
+    slug = ACTS[len(B7._act_order)]["slug"] if len(B7._act_order) < len(ACTS) else "?"
+    if slug == "lei-da-propriedade-industrial":
+        gate = {u: "1997-05-15" for u in dict.fromkeys(p["unit"] for p in paras) if u not in LPI_EARLY}
+        gate_law = {u: "lei-9279-1996" for u in gate}
+    return _build_act8(paras, act_day, gate, gate_law, unit_label)
+
+
+P.build_act = B.build_act = build_act
 
 if __name__ == "__main__":
     sys.exit(P.main(sys.argv[1:]))
