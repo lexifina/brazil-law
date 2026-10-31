@@ -36,8 +36,42 @@ Claim: scripts/world-law/claims/brazil-law.txt. Scratch builds go OUTSIDE the ma
     python -X utf8 scripts/brazil-law/batch6/parse_batch6.py                       # writes corpus.d/99-batch6.json
     (BATCH6_ACTS=<slug,..> for trials, BATCH6_OUT=<file> to write elsewhere)
 
-## Next: batch 7 (corpus.d/99-batch7.json, scripts in batch7/, importing batch6)
+## Fix after first publish (2026-10-31 ~01:00Z)
 
-Planned: Estatuto da Cidade (10.257/2001), Estatuto da Pessoa Idosa (10.741/2003), LEP (7.210/1984), Lei das S.A.
-(6.404/1976), Marco Legal das Startups (LC 182/2021), Maria da Penha (11.340/2006), Estatuto do Desarmamento
-(10.826/2003), LRF (LC 101/2000), Mandado de Segurança (12.016/2009), Lavagem de Dinheiro (9.613/1998).
+99-batch6 reached main at 00:23Z with a wrong Lei 9.605 art. 25 (notes '(Renumerando do §2º para §3º ...)' were read as
+text; §§ 3-4 missing before 2014). PUBLISH was pulled, fixed in parse_batch6 (NOTE_VERB_TYPOS decode fix; renum_pre adds
+the old-label wording of a renumbered line when none is printed; renum_post restores a wording a lapsed MP replaced until
+the renumbering; 'Prejudicada' after a note), re-verified (sha 70bee5ad, check 0/0, compare identical) and PUBLISH
+rewritten. The standing yes covers the rewrite.
+
+## 99-batch7 - DONE, PUBLISH written 2026-10-31 ~01:05Z (scripts in batch7/, imports batch6)
+
+Estatuto da Cidade 19 versions, Estatuto da Pessoa Idosa 11, LEP 30, Lei das S.A. 31, Marco Legal das Startups 1, Maria da
+Penha 23, LRF 15, Mandado de Segurança 2 (132). Part sha a230a200; merged scratch build 999 commits, 33 acts, check 0/0,
+--compare identical. New rules in parse_batch7.py: LC title line read as 'LEI N', centred labelled lines kept in their
+article, notes fixed in place (NOTE_FIX), stray link text, CONVERTED_FIX (MP 459), MP_LAPSE from Atos Declaratórios (MP
+1.065/2021, 1.158/2023, 784/2017, 892/2019; pinned as ato:*), VIGENCIA_FIXED/PROVISION (11.638, 14.711, LC 178 arts. 51/42,
+13.818 art. 289 -> 2022-01-01), next-wording rule for undated struck lines of recast lists, PLAIN_ENDS (LRF art. 51 § 1º),
+successor-before-lapse. fetch_batch7.complete() also accepts UTF-16 pages (Lei 11.340).
+
+Checks used for every part now: batch7/.tmp/dupcheck.py (same § / Parágrafo único / Art. twice in a unit, any version) and
+batch7/.tmp/leakcheck.py (note words left in text). Run them before PUBLISH: self-checked acts (no compilada) can't catch
+these otherwise.
+
+Deferred (configured in batch7 ALL_ACTS, not in VERIFIED):
+- Estatuto do Desarmamento (10.826/2003): 2007-08 chain MP 379 -> revoked by MP 390 -> MP 394 (no fate on its page) -> MP
+  417 -> Lei 11.706; needs MP 390/394 fates from Congress records; also art. 35 referendum (2005) as a note.
+- Lei de Lavagem (9.613/1998): art. 14/16 COAF chain (MP 870 -> Lei 13.844 dropped it; MP 886 -> Lei 13.901; MP 893
+  revoked art. 16 on 20.8.2019 -> Lei 13.974); Lei 13.506 § 2º printed unstruck though revoked; label typo '2º' (MP 784).
+- LexML (www.lexml.gov.br/urn/...) answered 503 to every request on 2026-10-31 ~00:50Z; batch7/fetch_lexml.py (5 s
+  Crawl-delay) stopped. The parts use the DOU day Planalto prints; LexML would only cross-check it.
+
+Other parts (not mine), dupcheck finds possible unended wordings: CLT 55 units, CP art-121/216/273/359-m, CPC art-0988/
+1042, CPP art-035, CDC art-057, CTN art-071, ECA art-046/263, RJU art-068, Lei de Mediação art-44 (some are quoted
+amendments). Worth a look by their owners.
+
+## Next candidates
+
+Lei 8.666/1993 (revoked 30.12.2023: needs an act-end), LINDB (del4657), Lei da Ação Civil Pública (7.347), Crimes Hediondos
+(8.072), Código de Trânsito (9.503), LDB (9.394), Lei 8.080, Estatuto da Pessoa com Deficiência (13.146), Lei das Eleições
+(9.504), Código Florestal (12.651), Lei de Registros Públicos (6.015), Lei 12.850, Lei 9.279, Lei 9.610, plus EDes/LLav above.

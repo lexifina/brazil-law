@@ -105,3 +105,6 @@ batch5/PROGRESS.md. Scripts in batch5/ and batch5b/ (acts chosen by env BATCH5B_
 99-batch6 = the four acts batch 5b deferred (Improbidade, Crimes Ambientais, LAI, Lei 9.784), dates settled from the
 Chamber's records of the retificações and the Senate's Ato Declaratório on MP 62/2002; 41 versions, check 0/0,
 --compare identical, 99-batch6.PUBLISH written. Next parts 99-batch7, ... Details: batch6/PROGRESS.md.
+99-batch7 (8 acts: Estatuto da Cidade, Pessoa Idosa, LEP, Lei das S.A., LC 182, Maria da Penha, LRF, Mandado de
+Segurança; 132 versions) PUBLISHed 2026-10-31; batch6 republished after a Lei 9.605 art. 25 fix. Desarmamento and Lavagem
+deferred. Details: batch6/PROGRESS.md.

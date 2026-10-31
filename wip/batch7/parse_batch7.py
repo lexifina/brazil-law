@@ -196,6 +196,8 @@ def paragraphs(html: str, digits: int):
         p.update(heading=False, unit=prev["unit"], label=P.label_of(p["text"]))
         HEADING_LABEL_FIX.append(f"{prev['unit']} [{p['label']}]")
     for p in out:
+        # notes with a typing slip (P.NOTE_FIX) are corrected in place, so the start/end patterns read them too
+        p["notes"] = [P.NOTE_FIX.get(n, (n,))[0] for n in p["notes"]]
         for end, fixed, why in STRAY_LINKS:
             if p["text"].endswith(end):
                 p["text"] = p["text"][: len(p["text"]) - len(end)] + fixed
@@ -322,6 +324,7 @@ P.NOTE_FIX["(Redação da pela Lei nº10.303, de 2001)"] = (
 #     when the first later wording below it in the same article starts, credited to that wording's law;
 # (2) an unstruck line a later law replaced, which Planalto left unstruck (PLAIN_ENDS, checked by hand).
 NEXT_WORDING_USED: list[str] = []
+LAPSE_EARLY_USED: list[str] = []
 PLAIN_ENDS: dict[tuple[str, str, str, str], tuple[str, str]] = {
     ("lei-de-responsabilidade-fiscal", "art-51", "§ 1º", "§ 1º Os Estados e os Municípios encaminharão suas contas ao Poder "
      "Executivo da União nos seguintes prazos:"): (
@@ -340,6 +343,26 @@ def lifespans(paras: list[dict], cx) -> list[str]:
             if cx.act == act and p["unit"] == unit and p["label"] == label and p["text"].startswith(start) and not p["end"]:
                 p["end"], p["end_law"], p["end_how"] = cx.eff[law], law, "plain-end"
                 PLAIN_ENDS_USED.append(why)
+    # a lapsed MP's wording that a law replaced before the lapse ends with that law's wording (Estatuto da Cidade art.
+    # 57-A: Lei 14.273/2021, in force 6.2.2022, while MP 1.065/2021's term ended at the close of 6.2.2022)
+    for i, p in enumerate(paras):
+        if p["end_how"] != "lapse" or not p["end"]:
+            continue
+        j = P.successor(paras, i)
+        if j is not None and paras[j]["start"] < p["end"]:
+            q = paras[j]
+            LAPSE_EARLY_USED.append(f"{cx.act} {p['unit']} [{p['label']}] ends {q['start']} ({P.law_label(q['start_law'])}), "
+                                    f"not {p['end']}")
+            p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "successor-before-lapse"
+    # ... and so do the other lines that MP wrote in the same article (its Parágrafo único under the replaced caput)
+    for p in paras:
+        if p["end_how"] != "lapse":
+            continue
+        e = [q for q in paras if q["unit"] == p["unit"] and q["start_law"] == p["start_law"]
+             and q["end_how"] == "successor-before-lapse" and q["end"] < p["end"]]
+        if e:
+            p["end"], p["end_law"], p["end_how"] = e[0]["end"], e[0]["end_law"], "successor-before-lapse"
+            LAPSE_EARLY_USED.append(f"{cx.act} {p['unit']} [{p['label']}] with its article")
     for i, p in enumerate(paras):
         if p["end_how"] != "undated" and not (p["state"] != "plain" and not p["end"] and not p["gaps"]):
             continue
@@ -393,6 +416,9 @@ def _inner(*a) -> int:
             "it under new labels (a list renumbered or recast), ends when the first later wording below it in the same "
             "article starts (skipping later wordings of the sibling labels printed between them), credited to that "
             "wording's law: " + "; ".join(dict.fromkeys(NEXT_WORDING_USED)) + ".")
+    if LAPSE_EARLY_USED:
+        B5.EXTRA_DECISIONS.append("A lapsed Medida Provisória's wording that a law replaced before the MP's term ended "
+                                  "ends on that law's day: " + "; ".join(dict.fromkeys(LAPSE_EARLY_USED)) + ".")
     if PLAIN_ENDS_USED:
         B5.EXTRA_DECISIONS.append("Unstruck lines a later law replaced, which Planalto left unstruck, end on that law's "
                                   "day: " + "; ".join(dict.fromkeys(PLAIN_ENDS_USED)) + ".")
