@@ -61,6 +61,8 @@ B.ACT_LAWS.update({k: v for k, v in B14.ACT_LAWS_ALL.items() if any(a["law"] == 
 B.EXPLAINED.clear()
 B13.OPEN_ITEMS.clear()
 B9.REPEALS.clear()
+P.COURTS.clear()      # batch 14's Estatuto da Terra record (its decision and law are printed wherever it is set)
+P.NOTE_FIX = {}       # batch 14's note corrections are printed in every part
 
 # ---------------------------------------------------------------------------------------------------------------
 # Medidas Provisórias 905/2019 and 955/2020 (the CLT part's model, clt/parse_clt.py MP_PAIRS / mp_pairs, ported to the
@@ -333,16 +335,15 @@ P.MP_LAPSE.update({
     "mp-1355-2026": ("2026-09-01", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 89, de 2026 (DOU "
                                    "8.9.2026): 'teve seu prazo de vigência encerrado no dia 31 de agosto de 2026'"),
 })
-P.NOTE_FIX.update({
-    "(Redação dada pela MPv nº 404, de 2007)": ("(Redação dada pela Medida Provisória nº 404, de 2007)",
-                                                "Lei 8.213: notes read 'MPv nº 404' for Medida Provisória nº 404"),
-    "(Incluído pela MPv nº 404, de 2007)": ("(Incluído pela Medida Provisória nº 404, de 2007)",
-                                            "Lei 8.213: notes read 'MPv nº 404' for Medida Provisória nº 404"),
-    "(Redação dada pela Lei nº 11,718, de 2008)": ("(Redação dada pela Lei nº 11.718, de 2008)",
-                                                   "Lei 8.213: notes read 'Lei nº 11,718' (comma) for Lei nº 11.718"),
-    "(Incluído pela Lei nº 11,718, de 2008)": ("(Incluído pela Lei nº 11.718, de 2008)",
-                                               "Lei 8.213: notes read 'Lei nº 11,718' (comma) for Lei nº 11.718"),
-})
+P.NOTE_FIX.update({} if _BN not in ENABLED else {
+    f"({kind} pela MPv nº 404, de 2007)": (f"({kind} pela Medida Provisória nº 404, de 2007)",
+                                         f"Lei 8.213: notes '({kind} pela MPv nº 404, de 2007)' read as Medida Provisória nº 404")
+    for kind in ("Redação dada", "Incluído")})
+P.NOTE_FIX.update({} if _BN not in ENABLED else {
+    f"({kind} pela Lei nº 11,718, de 2008)": (f"({kind} pela Lei nº 11.718, de 2008)",
+                                            f"Lei 8.213: notes '({kind} pela Lei nº 11,718, de 2008)' (comma) read as Lei nº "
+                                            f"11.718")
+    for kind in ("Redação dada", "Incluído")})
 P.VIGENCIA_FIXED["lei-11098-2005"] = (
     "2005-01-14", "art. 14: 'Esta Lei entra em vigor: I - a partir da data de publicação do ato referido no inciso I do art. "
                   "8º, para os arts. 1º, 2º, 3º e 4º; e II - a partir de 5 de outubro de 2004, para os demais artigos' (DOU "
@@ -395,6 +396,13 @@ def _insert_original(out, digits):
     B8.CURRENT_PAGE[0] = "l8212-original"
     orig, _ = paragraphs(P.decode(P.raw("ctx:l8212-original")[0]), digits)
     B8.CURRENT_PAGE[0] = keep
+    # art. 6 § 10: the annotated page prints only '§ 10 . (Revogado pela Lei n° 9.032, de 28.4.95)'; its 1991 text is on the
+    # original page
+    for p in out:
+        if p["unit"] == "art-006" and p["label"] == "§ 10" and re.fullmatch(r"§ 10\s*\.?", p["text"]):
+            src = next(q for q in orig if q["unit"] == "art-006" and q["label"] == "§ 10")
+            p["text"] = p["struck_text"] = src["text"]
+            ORIGINAL_USED.append("art-006 § 10 (text of a line printed as its bare label)")
     for unit in ORIGINAL_ARTS:
         ou = [p for p in orig if p["unit"] == unit and not p["heading"]]
         if unit == "art-094":   # the original page prints the 1991 wording of art. 94 unstruck: its caput only
@@ -704,6 +712,10 @@ B8.SPAN_FIX += [
        "[...]', no notes): renumbered §§ 6º and 7º by Lei 8.444/1992 (21.7.1992), which inserted a new § 5º; they had "
        "been dated by later rules") for lab, pre in [("§ 5º", "§ 5º O primeiro pagamento de renda mensal"),
                                                      ("§ 6º", "§ 6º O pagamento de parcelas relativas a benefício")]],
+    ((_BN, "art-074", "§ 3º", "§ 3º", 0), {"skip": True, "end_how": "editorial"},
+     "Lei 8.213 art. 74 § 3º: Planalto prints a struck bare label '§ 3º' with only '(Vide Medida Provisória nº 871, de "
+     "2019)' (MP 871's wording of the paragraph, in force 120 days after 18.1.2019 under its art. 34 II, is not printed); "
+     "the line is left out and that wording is not modelled"),
     ((_BN, "art-096", "§ 1º", "§ 1º O disposto no inciso V do caput deste artigo", 0),
      {"start": "2026-03-27", "start_law": "lei-15363-2026"},
      "Lei 8.213 art. 96: Lei 15.363/2026 (27.3.2026) added § 2º, so the parágrafo único (Lei 13.846/2019) became § 1º "
