@@ -457,6 +457,19 @@ REPEALS: dict[str, tuple[str, str, str]] = {
         "unstruck text"),
 }
 REPEAL_CHECK: list[str] = []
+# acts never in force as enacted, whose first day carries the changes of laws made before it: (version note, decision)
+FOLD_EARLY: dict[str, tuple[str, str]] = {
+    "lei-de-registros-publicos": (
+        "The text in force on 1 January 1976, as republished in the DOU of 16 September 1975 with the changes of Leis "
+        "6.064/1974, 6.140/1974 and 6.216/1975; the 1973 text never took effect.",
+        "Lei de Registros Públicos: the act as enacted (DOU 31.12.1973) never took effect: its start was moved from "
+        "1.7.1974 to 1.7.1975 (Lei 6.064/1974) and then to 1.1.1976 (Lei 6.216/1975, published 1.7.1975), and Lei 6.216 "
+        "art. 2 had the act republished with its changes (DOU 16.9.1975, Suplemento). Its first version is the text in "
+        "force on 1.1.1976, as republished, credited to Lei 6.015/1973 and noted as including the changes of Leis "
+        "6.064/1974, 6.140/1974 and 6.216/1975 (Planalto's page prints those changes over the 1973 text); there is no "
+        "version of the 1973 text"),
+}
+FOLD_USED: list[str] = []
 _lifespans9 = P.lifespans
 
 
@@ -479,6 +492,13 @@ _consolidated9 = P.consolidated
 def build_act(paras, act_day, gate, gate_law, unit_label):
     slug = ACTS[len(B7._act_order)]["slug"] if len(B7._act_order) < len(ACTS) else "?"
     versions = _build_act9(paras, act_day, gate, gate_law, unit_label)
+    if slug in FOLD_EARLY and len(versions) > 1 and versions[1].get("same_day"):
+        # the act as enacted never took effect: its first version is the text in force on its first day
+        versions = versions[1:]
+        versions[0].pop("same_day", None)
+        versions[0]["credits"] = {}
+        versions[0]["note"] = FOLD_EARLY[slug][0]
+        FOLD_USED.append(FOLD_EARLY[slug][1])
     if slug in REPEALS:
         act = next(a for a in ACTS if a["slug"] == slug)
         before = [v for v in versions if v["from"] < REPEALS[slug][0]][-1]["units"]
@@ -510,6 +530,7 @@ def _inner(*a) -> int:
         if any(x["slug"] == slug for x in ACTS):
             B5.EXTRA_DECISIONS.append(why + ".")
     B5.EXTRA_DECISIONS.extend(x + "." for x in REPEAL_CHECK)
+    B5.EXTRA_DECISIONS.extend(x + "." for x in dict.fromkeys(FOLD_USED))
     return _inner9(*a)
 
 
