@@ -166,6 +166,25 @@ B8.SPAN_FIX += [
         ("I -", "I - nas operações internas, as alíquotas estabelecidas"),
         ("II -", "II - nas operações interestaduais, as alíquotas fixadas")]
 ]
+B8.SPAN_FIX += [
+    ((_LK, "art-31", "§ 4º-A", "§ 4º-A. A partir de 1º de janeiro de 2003 volta a vigorar", 0),
+     {"end": "2002-12-27", "end_law": "lc-115-2002", "end_how": "note", "skip": False},
+     "Lei Kandir art. 31 § 4º-A (added by Lei Complementar 102/2000): Planalto's note '(Parágrafo Revogado pela LCP nº 115, "
+     "de 26.12.2002' lacks its closing parenthesis and is not read as a note; LC 115/2002 art. 5 revoked the paragraph "
+     "(DOU 27.12.2002, in force on publication)"),
+]
+# a repeal on a future day: today's text is still checked against Planalto's page (batch 9's rule returns no page for
+# repealed acts, whose page is struck after the repeal)
+_cons14 = P.consolidated
+
+
+def consolidated(ident: str, digits: int):
+    if any(a["consolidated"] == ident and a["slug"] in B9.REPEALS and B9.REPEALS[a["slug"]][0] > "2026-10-31" for a in ACTS):
+        return B9._consolidated9(ident, digits)
+    return _cons14(ident, digits)
+
+
+P.consolidated = B.consolidated = consolidated
 # LC 214/2025 art. 543: 'Ficam revogados a partir de 1º de janeiro de 2033: [...] III - a Lei Complementar nº 87 [...]; IV -
 # a Lei Complementar nº 116' (art. 544 V: effects of art. 543 from 1.1.2033): both acts end on 1.1.2033 (futuro branch)
 _R2033 = ("{act} is repealed as a whole from 1.1.2033 by Lei Complementar 214/2025 art. 543 ('Ficam revogados a partir de 1º "
@@ -181,6 +200,27 @@ B9.REPEALS.update({
 })
 
 OPEN_ITEMS = B13.OPEN_ITEMS
+OPEN_ITEMS.update({
+    "lei-do-iss": (
+        "Lei do ISS (open item): the 'Lista de serviços anexa' (the list of taxable services, printed after the signature, "
+        "with its own amendment notes) is not included; the history holds the articles only"),
+    "lei-kandir": (
+        "Lei Kandir: its Anexo (the União's transfers to the States, art. 31), printed struck after the signature, is not "
+        "included; the history holds the articles only. Planalto's 'Vide' pointers (Decreto de 26.10.1996, ADC 49 at art. 12 "
+        "I and art. 13 § 4º) strike no words and are not modelled"),
+})
+_inner14 = B6.PB5B._write_part5
+
+
+def _inner(*a):
+    # batch 9's wording is for acts repealed in the past; for a future repeal the page is today's
+    B9.REPEAL_CHECK[:] = [x.replace("the unstruck text of the pre-repeal capture of Planalto's page",
+                                    "the unstruck text of Planalto's page (the repeal is in the future)")
+                          for x in B9.REPEAL_CHECK]
+    return _inner14(*a)
+
+
+B6.PB5B._write_part5 = _inner
 
 SRC = HERE / "sources_batch14.json"
 B5.SRC = SRC
