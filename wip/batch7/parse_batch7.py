@@ -79,7 +79,9 @@ ALL_ACTS: list[dict] = [
     _act("lei-de-lavagem-de-dinheiro", "LLav", "llav", "llav-compilado", "lei-9613-1998",
          "Lei de Lavagem de Dinheiro (Lei nº 9.613, de 3 de março de 1998)", 2),
 ]
-VERIFIED: list[str] = []
+VERIFIED: list[str] = ["estatuto-da-cidade", "estatuto-da-pessoa-idosa", "lei-de-execucao-penal",
+                        "lei-das-sociedades-por-acoes", "marco-legal-das-startups", "lei-maria-da-penha",
+                        "lei-de-responsabilidade-fiscal", "lei-do-mandado-de-seguranca"]
 ENABLED = [s for s in os.environ.get("BATCH7_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
@@ -193,12 +195,58 @@ def paragraphs(html: str, digits: int):
             continue
         p.update(heading=False, unit=prev["unit"], label=P.label_of(p["text"]))
         HEADING_LABEL_FIX.append(f"{prev['unit']} [{p['label']}]")
+    for p in out:
+        for end, fixed, why in STRAY_LINKS:
+            if p["text"].endswith(end):
+                p["text"] = p["text"][: len(p["text"]) - len(end)] + fixed
+                STRAY_USED.append(why)
     return out, rest
+
+
+# Stray link text at the end of a line (a decree number printed as a bare link, left from a removed 'Vide' note):
+# (line end, corrected end, why). Only the stray text is dropped.
+STRAY_LINKS: list[tuple[str, str, str]] = [
+    ("aos presos e às presas. 7.627", "aos presos e às presas.",
+     "Lei de Execução Penal art. 18-A § 3º: the annotated page prints a bare link '7.627' (to Decreto nº 7.627, de 2011) "
+     "after the full stop; the consolidated page does not"),
+]
+STRAY_USED: list[str] = []
 
 
 P.paragraphs = B.paragraphs = paragraphs
 
 B.EXPLAINED.clear()
+_QUOTED = ("label-only lines inside the quoted text of an amendment to another law ('{x}', standing for a paragraph the "
+           "amendment leaves unchanged); the check drops label-only lines from the consolidated page only")
+B.EXPLAINED.update({
+    "lei-das-sociedades-por-acoes": {
+        "art-041": "typesetting: a line of art. 41 ends 'a instituição depositária' on the annotated page and with a full "
+                   "stop on the consolidated page",
+        "art-064": "the consolidated page (l6404compilada.htm) still prints the wording of art. 64 III before Lei "
+                   "14.711/2023; the annotated page (l6404consol.htm) has Lei 14.711's wording, which the history follows",
+        "art-250": "typesetting: in art. 250 III the annotated page strikes only the hyphen after 'III' (noted 'Redação "
+                   "dada pela Lei nº 11.941, de 2009'); the consolidated page prints 'III as parcelas'",
+        "art-255": "the consolidated page keeps the placeholder '§§ 1º e 2º (Revogados pela Lei nº 9.457, de 1997)'; the "
+                   "history leaves revoked text out",
+    },
+    "estatuto-da-pessoa-idosa": {
+        "art-045": "the consolidated page prints 'V - abrigo em entidade;' twice; the annotated page once",
+        "art-110": _QUOTED.format(x="§ 3º. / § 1º."), "art-112": _QUOTED.format(x="§ 4º."),
+        "titulos": "typesetting: one heading is printed on one line on the annotated page and on two on the consolidated "
+                   "page ('Da Apuração Administrativa de Infração às Normas de Proteção à Pessoa Idosa')",
+    },
+    "marco-legal-das-startups": {"art-17": _QUOTED.format(x="§ 4º.")},
+    "lei-de-execucao-penal": {
+        "art-009-a": "the consolidated page leaves out § 1º (Incluído pela Lei nº 12.654, de 2012), which no law revoked: "
+                     "Lei 15.295/2025 art. 1 rewrites only the caput and §§ 5, 6, 7, 9 and 10 of art. 9º-A",
+        "art-016": "typesetting: 'Art. 16.' (annotated) / 'Art. 16 -' (consolidated)",
+        "art-018-a": "the stray '7.627' link text after § 3º (see the stray-link decision) is dropped; the consolidated "
+                     "page does not print it",
+        "art-019": "typesetting: 'Art. 19 -' (annotated) / 'Art. 19.' (consolidated)", "art-035": "typesetting, as art. 19",
+        "art-036": "typesetting, as art. 19", "art-038": "typesetting, as art. 19", "art-039": "typesetting, as art. 19",
+        "titulos": "capitalisation of one heading: 'Do trabalho interno' (annotated) / 'Do Trabalho Interno' (consolidated)",
+    },
+})
 B6.NEVER_IN_FORCE.clear()
 B6.MP_CHAINS.clear()
 B6.REISSUES.clear()
@@ -285,6 +333,8 @@ def _inner(*a) -> int:
         B5.EXTRA_DECISIONS.append(
             "Medida Provisória pages whose 'Convertida na Lei' line is mistyped are read with the law their link names: "
             + "; ".join(f"{P.law_label(k)}: {CONVERTED_FIX[k][1]}" for k in dict.fromkeys(CONVERTED_USED)) + ".")
+    if STRAY_USED:
+        B5.EXTRA_DECISIONS.append("Stray link text at the end of a line is dropped: " + "; ".join(dict.fromkeys(STRAY_USED)) + ".")
     if HEADING_LABEL_FIX:
         B5.EXTRA_DECISIONS.append(
             "A dispositivo Planalto prints centred, like a heading, is kept in its article when its line starts with a "
