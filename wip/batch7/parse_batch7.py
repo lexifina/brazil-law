@@ -13,6 +13,7 @@ BATCH7_ACTS=<slug,...> selects acts for trial runs (BATCH7_OUT=<file> writes els
 from __future__ import annotations
 
 import os
+import re
 import sys
 from pathlib import Path
 
