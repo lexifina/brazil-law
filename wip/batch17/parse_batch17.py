@@ -98,6 +98,19 @@ B9.REPEALS.clear()
 EXTRA: list[str] = []   # decisions added to the part
 
 # ---------------------------------------------------------------------------------------------------------------
+# part a: Lei 5.889/1973, Lei 4.090/1962, Lei 605/1949, Lei 7.418/1985
+B7.CONVERTED_FIX["mp-410-2007"] = ("lei-11718-2008", "the MP page reads 'Convertida na Lei n 1 1.718, de 20.6.2008' (the "
+                                                     "number broken by a space)")
+P.MP_PENDING["mp-2164-2001"] = (
+    "Medida Provisória nº 2.164-41, de 24.8.2001 (DOU 27.8.2001, in force on publication), kept in force by Emenda "
+    "Constitucional 32/2001, art. 2. Planalto's notes name this edition only, so its changes are dated by its "
+    "publication; earlier editions of the chain are not modelled")
+P.MP_PENDING["mp-2165-2001"] = (
+    "Medida Provisória nº 2.165-36, de 23.8.2001 (DOU 24.8.2001, art. 12: in force on publication), kept in force by "
+    "Emenda Constitucional 32/2001, art. 2; its art. 13 revoked Lei 7.418 art. 1 § 1º. Planalto's note names this edition "
+    "only, so the revocation is dated by its publication; earlier editions of the chain are not modelled")
+
+# ---------------------------------------------------------------------------------------------------------------
 _inner17 = B6.PB5B._write_part5
 
 
