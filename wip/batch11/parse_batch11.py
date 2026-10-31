@@ -181,6 +181,18 @@ P.NOTE_FIX = {}
 
 # ---------------------------------------------------------------------------------------------------------------
 # hand tables for these acts, each read from the official pages named in the reason
+P.VIGENCIA_FIXED.update({
+    "lei-8176-1991": ("1991-02-18", "art. 6 (as printed): 'Esta lei entra em vigor cinco dias após a sua publicação' (DOU "
+                                    "13.2.1991): 13.2.1991 + 5 days"),
+    "mp-871-2019": ("2019-01-18", "art. 34 III: in force 'na data de sua publicação' (DOU 18.1.2019, edição extra) for every "
+                                  "provision but its change to Lei 8.742/1993 art. 20 § 13 (art. 34 I, 90 days) and to Lei "
+                                  "8.213/1991 art. 74 § 3º (art. 34 II, 120 days)"),
+})
+P.VIGENCIA_PROVISION.update({
+    ("mp-871-2019", "lei-organica-da-assistencia-social", "art-20"): (
+        "2019-04-18", "Medida Provisória nº 871/2019 art. 34 I: its change to art. 20 § 13 in force 90 days after publication "
+                      "(DOU 18.1.2019)"),
+})
 
 SRC = HERE / "sources_batch11.json"
 B5.SRC = SRC
