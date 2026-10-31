@@ -204,6 +204,11 @@ P.VIGENCIA_FIXED.update({
 P.VIGENCIA_PROVISION.update({
     ("lc-178-2021", "lei-de-responsabilidade-fiscal", "art-51"): ("2022-01-01", "Lei Complementar 178/2021 art. 32, I"),
     ("lc-178-2021", "lei-de-responsabilidade-fiscal", "art-42"): ("2023-01-01", "Lei Complementar 178/2021 art. 32, II"),
+    # Lei 13.818/2019 art. 3: 'Esta Lei entra em vigor na data de sua publicação, à exceção do art. 1º, que entra em vigor
+    # em 1º de janeiro de 2022' (DOU 25.4.2019); its art. 1 is the new LSA art. 289, its art. 2 the new art. 294 caput
+    ("lei-13818-2019", "lei-das-sociedades-por-acoes", "art-289"): (
+        "2022-01-01", "Lei 13.818/2019 art. 3: in force on publication 'à exceção do art. 1º, que entra em vigor em 1º de "
+                      "janeiro de 2022'; its art. 1 is the new wording of LSA art. 289"),
 })
 # Medidas Provisórias that lapsed: key -> (day the wording they replaced is back, reason), from the Ato Declaratório
 # the MP page links ('Vigência encerrada'), pinned as ato:* in sources_batch7.json
