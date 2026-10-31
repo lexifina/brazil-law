@@ -193,7 +193,6 @@ P.VIGENCIA_FIXED.update({
                                      "14.6.2010); its revocation of Código de Trânsito art. 288 § 2º is dated the day it "
                                      "entered into force, 14.6.2010 (the clause gives it effect from 16.12.2009, before the "
                                      "law existed)"),
-    "lei-15452-2026": ("2026-02-25", "'Esta Lei entra em vigor na data de sua publicação' (DOU 25.2.2026, edição extra)"),
     "lei-14440-2022": ("2022-09-05", "'Esta Lei entra em vigor: I - a partir de 1º de janeiro de 2027, para as alterações do "
                                      "art. 15 referentes ao caput e § 5º do art. 282-A da Lei nº 9.503 [...]; e II - na data "
                                      "de sua publicação, para os demais dispositivos' (DOU 5.9.2022); its changes to art. "
@@ -208,7 +207,6 @@ P.PUBLISHED_FIXED.update({
     "mp-75-2002": ("2002-10-25", "the Chamber of Deputies' record of Medida Provisória nº 75, de 24.10.2002: 'Diário "
                                  "Oficial da União - Seção 1 - 25/10/2002, Página 1 (Publicação Original)', republished "
                                  "28.10.2002"),
-    "lei-15452-2026": ("2026-02-25", "its page: 'publicado no DOU de 25.2.2026 - Edição extra'"),
 })
 P.MP_LAPSE.update({
     "mp-75-2002": ("2002-12-19", "rejected: the Chamber of Deputies' record of the MP: 'Esta Medida Provisória foi "
