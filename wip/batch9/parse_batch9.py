@@ -315,14 +315,6 @@ B8.SPAN_FIX += [
     ((_LRP, "art-167", "28)", "28) das sentenças declaratórias de usucapião, independente", 0), {"skip": True}, _W2220),
     ((_LRP, "art-167", "37)", "37) dos termos administrativos ou das sentenças declaratórias da concessão de uso especial "
                               "para fins de moradia, independente", 0), {"skip": True}, _W2220),
-    ((_LRP, "art-195-a", "§ 7º", "§ 7º O procedimento definido neste artigo", 1), {"skip": True},
-     "Lei de Registros Públicos art. 195-A § 7º: the annotated page prints, under the note 'Incluído pela Lei nº 13.465, de "
-     "2017', the words 'as terras devolutas a ele transferidas em razão de legislação'; Lei 13.465/2017's own text (and "
-     "Planalto's consolidated page) reads 'as terras devolutas transferidas ao Município em razão de legislação', the "
-     "wording Medida Provisória nº 759/2016 had given and its conversion law kept. The MP's line (printed struck above) "
-     "stands on and the mistyped copy is left out"),
-    ((_LRP, "art-195-a", "§ 7º", "§ 7º O procedimento definido neste artigo", 0),
-     {"end": None, "end_law": None, "end_how": None, "skip": False}, "as art. 195-A § 7º above"),
     ((_CF, "art-03", "b)", "b) as obras de infraestrutura destinadas às concessões", 0),
      {"end": "2018-02-28", "end_law": "stf-adc-42", "end_how": "court"}, _WADC42),
     ((_CF, "art-03", "b)", "b) as obras de infraestrutura destinadas às concessões", 1),
@@ -367,6 +359,16 @@ NOTE_INTO_TEXT: list[tuple[tuple[str, ...], str, str, str]] = [
      "the parser read as a note, so they are put back into the line"),
 ]
 NOTE_INTO_USED: list[str] = []
+# words the annotated page misprints in an unstruck line, corrected from the amending law's own text (and Planalto's
+# consolidated page): (page, wrong words, right words, why)
+WORD_FIX: list[tuple[str, str, str, str]] = [
+    ("lrp", "inclusive para as terras devolutas a ele transferidas em razão de legislação",
+     "inclusive para as terras devolutas transferidas ao Município em razão de legislação",
+     "Lei de Registros Públicos art. 195-A § 7º: the annotated page prints, under the note 'Incluído pela Lei nº 13.465, de "
+     "2017', 'as terras devolutas a ele transferidas em razão de legislação'; Lei 13.465/2017's own text (and Planalto's "
+     "consolidated page, and the wording of Medida Provisória nº 759/2016 it converted) reads 'as terras devolutas "
+     "transferidas ao Município em razão de legislação', which the history uses"),
+]
 _paragraphs9 = P.paragraphs
 
 
@@ -374,6 +376,10 @@ def paragraphs(html, digits):
     out, rest = _paragraphs9(html, digits)
     page = B8.CURRENT_PAGE[0]
     for p in out:
+        for pg, wrong, right, why in WORD_FIX:
+            if pg == page and p["state"] == "plain" and wrong in p["text"]:
+                p["text"] = p["text"].replace(wrong, right)
+                NOTE_INTO_USED.append(why)
         for pages, start, note, why in NOTE_INTO_TEXT:
             if page in pages and p["text"].startswith(start):
                 hit = [n for n in p["notes"] if n.startswith(note)]
@@ -497,7 +503,8 @@ _inner9 = B6.PB5B._write_part5
 
 def _inner(*a) -> int:
     if NOTE_INTO_USED:
-        B5.EXTRA_DECISIONS.append("Text read as a note put back into its line: " + "; ".join(dict.fromkeys(NOTE_INTO_USED)) + ".")
+        B5.EXTRA_DECISIONS.append("Text corrections (a note read into its line; misprinted words corrected from the "
+                                  "amending law): " + "; ".join(dict.fromkeys(NOTE_INTO_USED)) + ".")
     for slug, (_, _, why) in REPEALS.items():
         if any(x["slug"] == slug for x in ACTS):
             B5.EXTRA_DECISIONS.append(why + ".")
