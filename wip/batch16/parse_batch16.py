@@ -80,6 +80,92 @@ P.VIGENCIA_FIXED["mp-1089-2021"] = (
 P.MP_LAPSE["mp-1240-2024"] = (
     "2024-11-07", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 112, de 2024 (DOU 14.11.2024): 'teve seu "
                   "prazo de vigência encerrado no dia 6 de novembro de 2024'")
+_W181 = ("CBA arts. 181 and 182: Medida Provisória 714/2016 (2.3.2016) gave art. 181 a new caput, incisos I-II and §§ 3º-6º and "
+         "revoked art. 181 III and art. 182; Lei 13.319/2016, its conversion (26.7.2016), vetoed its art. 181 ('Art. 181. "
+         "(VETADO) [...] § 5º (VETADO). § 6º (VETADO).') and kept none of the revocations, so the 1986 text of both articles "
+         "is in force again from 26.7.2016 until Medida Provisória 863/2018 (13.12.2018). Planalto prints these 1986 "
+         "wordings a second time below MP 714's (struck, with MP 863's notes); they start on 26.7.2016, credited to Lei "
+         "13.319, and the MP 714 caput ends then")
+_W303 = ("CBA art. 303 § 2º: the 1986 wording ('§ 2º A autoridade mencionada no parágrafo anterior [...]') is printed struck "
+         "below the § 2º Lei 9.614/1998 inserted, which renumbered it § 3º ('Renumerado do § 2º para § 3º com nova "
+         "redação'); it stands from 1986 to 6.3.1998")
+_RESTORE_181 = {"start": "2016-07-26", "start_law": "lei-13319-2016", "restored": True}
+B8.SPAN_FIX += [
+    ((_CBA, "art-181", "Art. 181", "Art. 181. A concessão ou autorização somente será dada", 0),
+     {"end": "2016-07-26", "end_law": "lei-13319-2016", "end_how": "conversion"}, _W181),
+    ((_CBA, "art-181", "Art. 181", "Art. 181. A concessão somente será dada", 1),
+     dict(_RESTORE_181, end="2018-12-13", end_law="mp-863-2018", end_how="successor"), _W181),
+    *[((_CBA, unit, lab, pre, 1), _RESTORE_181, _W181) for unit, lab, pre in [
+        ("art-181", "I -", "I - sede no Brasil"), ("art-181", "II -", "II - pelo menos 4/5"),
+        ("art-181", "III -", "III - direção confiada"), ("art-182", "Art. 182", "Art. 182. A autorização pode ser outorgada"),
+        ("art-182", "I -", "I - às sociedades anônimas"), ("art-182", "II -", "II - às demais sociedades"),
+        ("art-182", "Parágrafo único", "Parágrafo único. Em se tratando de serviços aéreos especializados")]],
+    ((_CBA, "art-303", "§ 2º", "§ 2º A autoridade mencionada no parágrafo anterior", 0),
+     {"start": "1986-12-23", "start_law": None, "end": "1998-03-06", "end_law": "lei-9614-1998", "end_how": "successor"},
+     _W303),
+]
+B.EXPLAINED[_CBA] = {
+    "art-184": "the consolidated page prints arts. 184 to 186 as one line ('Art. 184 a 186 (Revogado pela Lei nº 13.842, de "
+               "2019) e (Revogado pela Lei nº 14.368, de 2022)'); the annotated page strikes each article (revoked by "
+               "Medida Provisória 863/2018, 13.12.2018)",
+    "art-197": "the consolidated page drops a word ('exames de proficiência de e aeroviários'); the annotated page reads "
+               "'exames de proficiência de aeronautas e aeroviários'",
+    "art-270": "the consolidated page drops the § sign of § 2º ('2° O saldo de 70% [...]'); the annotated page prints '§ 2°'",
+    "titulos": "the consolidated page still prints the headings of divisions revoked by Medida Provisória 1.089/2021 and Lei "
+               "14.368/2022 (Título III Capítulo V Seção II, Título IV Capítulo IV Seção IV, Título VI Capítulo II "
+               "'Serviços Aéreos Privados', Título VI Capítulo III Seções I-III, Capítulo VI) with a '(Revogado pela Lei nº "
+               "14.368, de 2022)' note; the annotated page strikes them, and a revoked division has no heading",
+}
+
+# A dispositivo whose caput (or enclosing §) a Medida Provisória revoked as a whole: Planalto notes the MP's revocation on
+# that line only, and on its incisos, parágrafos and alíneas only the conversion law's revocation ('Revogado pela Lei nº
+# 14.368, de 2022'). They fall with the line above them on the MP's day (MP 1.089/2021 art. 5 IV m): 'os art. 73 a art. 76',
+# n) 'a Seção II do Capítulo V do Título III', u) 'os art. 116 e art. 117').
+CONV_CHILD_ACTS = {_CBA}
+CONV_CHILD_USED: list[str] = []
+
+
+def conv_children(paras, cx, record=True):
+    if cx.act not in CONV_CHILD_ACTS:
+        return
+    for i, p in enumerate(paras):
+        if p["heading"] or p["state"] == "plain" or p.get("skip") or p.get("end_how") != "note" or not p["end_law"]:
+            continue
+        lv = P.level(p["label"])
+        if lv == 0:
+            continue
+        par = None
+        for q in reversed(paras[:i]):
+            if q["unit"] != p["unit"]:
+                break
+            if q["heading"] or q.get("skip") or P.level(q["label"]) >= lv:
+                continue
+            if q["start"] <= p["start"] and (q["end"] is None or q["end"] > p["start"]):
+                par = q
+                break
+        if par is None or par["state"] == "plain" or not par["end"] or par["end"] >= p["end"]:
+            continue
+        fate = cx.mp.get(par["end_law"]) or {}
+        if fate.get("converted") != p["end_law"]:
+            continue
+        mp_no = P.law_label(par["end_law"]) if hasattr(P, "law_label") else par["end_law"]
+        if any(P.law_key(n, cx.mp.get("_years")) == par["end_law"] for n in p["notes"]):
+            continue
+        p["end"], p["end_law"], p["end_how"] = par["end"], par["end_law"], "parent"
+        if record:
+            CONV_CHILD_USED.append(f"{p['unit']} [{p['label']}]")
+
+
+_lifespans16 = P.lifespans
+
+
+def lifespans(paras, cx):
+    problems = _lifespans16(paras, cx)
+    conv_children(paras, cx)
+    return problems
+
+
+P.lifespans = B.lifespans = lifespans
 
 # ---------------------------------------------------------------------------------------------------------------
 _inner16 = B6.PB5B._write_part5
