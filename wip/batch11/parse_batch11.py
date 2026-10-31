@@ -88,7 +88,9 @@ ALL_ACTS: list[dict] = [
     _act("lei-organica-da-assistencia-social", "LOAS", "loas", "loas-compilado", "lei-8742-1993",
          "Lei Orgânica da Assistência Social (Lei nº 8.742, de 7 de dezembro de 1993)", 2),
 ]
-VERIFIED: list[str] = []
+VERIFIED: list[str] = ["lei-de-execucao-fiscal", "lei-de-defesa-da-concorrencia", "estatuto-da-advocacia", "lei-da-adi-e-da-adc",
+                        "lei-da-adpf", "lei-dos-crimes-contra-a-ordem-tributaria", "lei-de-interceptacao-telefonica",
+                        "lei-do-bem-de-familia", "lei-da-acao-popular", "lei-dos-crimes-contra-o-sistema-financeiro"]
 ENABLED = [s for s in os.environ.get("BATCH11_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
@@ -184,6 +186,10 @@ P.NOTE_FIX = {}
 P.VIGENCIA_FIXED.update({
     "lei-8176-1991": ("1991-02-18", "art. 6 (as printed): 'Esta lei entra em vigor cinco dias após a sua publicação' (DOU "
                                     "13.2.1991): 13.2.1991 + 5 days"),
+    "mp-687-2015": ("2015-08-18", "art. 4 II: in force 'na data de sua publicação' (DOU 18.8.2015) for every provision but "
+                                  "the new wording of Lei 12.529/2011 art. 23 caput (art. 4 I: 1.1.2016)"),
+    "lei-13196-2015": ("2015-12-02", "art. 5 II: in force 'na data de sua publicação' (DOU 2.12.2015) for every provision but "
+                                     "the wording its art. 2 gives Lei 12.529/2011 art. 23 (art. 5 I: 1.1.2016)"),
     "mp-871-2019": ("2019-01-18", "art. 34 III: in force 'na data de sua publicação' (DOU 18.1.2019, edição extra) for every "
                                   "provision but its change to Lei 8.742/1993 art. 20 § 13 (art. 34 I, 90 days) and to Lei "
                                   "8.213/1991 art. 74 § 3º (art. 34 II, 120 days)"),
@@ -197,6 +203,10 @@ P.VETO_PROMULGATION = {
 P.VETO_PROMULGATED_UNITS = {"lei-13964-2019": {("lei-de-interceptacao-telefonica", "art-08-a", "§ 2º"),
                                                   ("lei-de-interceptacao-telefonica", "art-08-a", "§ 4º")}}
 P.VIGENCIA_PROVISION.update({
+    ("mp-687-2015", "lei-de-defesa-da-concorrencia", "art-023"): (
+        "2016-01-01", "Medida Provisória nº 687/2015 art. 4 I: its wording of art. 23 caput in force on 1.1.2016"),
+    ("lei-13196-2015", "lei-de-defesa-da-concorrencia", "art-023"): (
+        "2016-01-01", "Lei 13.196/2015 art. 5 I: its wording of art. 23 in force on 1.1.2016"),
     ("mp-871-2019", "lei-organica-da-assistencia-social", "art-20"): (
         "2019-04-18", "Medida Provisória nº 871/2019 art. 34 I: its change to art. 20 § 13 in force 90 days after publication "
                       "(DOU 18.1.2019)"),
