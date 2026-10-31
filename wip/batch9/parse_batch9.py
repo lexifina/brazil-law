@@ -140,6 +140,9 @@ P.MP_LAPSE.update({
 B8.UNIT_FIX[:] = [
     ("lel", "Art. 61A.", "art-061-a", "Art. 61-A",
      "Lei das Eleições: 'Art. 61A.' (Incluído pela Lei nº 10.408, de 2002) is filed as art. 61-A, not as a line of art. 61"),
+    ("lsus", "Art. 6º A.", "art-06-a", "Art. 6º-A",
+     "Lei Orgânica da Saúde: 'Art. 6º A.' (Incluído pela Lei nº 14.654, de 2023) is filed as art. 6º-A, not as a line of "
+     "art. 6º"),
 ]
 _Q = B7._QUOTED
 B.EXPLAINED.update({
