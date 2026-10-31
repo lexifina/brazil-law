@@ -128,7 +128,7 @@ identical, audit clean):
   99-batch10 (decision wording only). Unchanged: 50, 70, 80, 95, 97. Consolidated-page compare lists, dupline/dupcheck/
   leakcheck output identical before/after. Merged build 61 acts, 1595 versions, check 0/0, --compare identical, audit clean.
   All touched parts installed and PUBLISH appended (~09:3xZ).
-- NEW FINDING, not fixed: quoted articles printed without an opening quote are read as articles of the act itself, giving
+- (FIXED in section 8) quoted articles printed without an opening quote are read as articles of the act itself, giving
   units that are another law's articles: Crimes Hediondos art-159/213/214/223/267/270 (CP articles quoted in its art. 6),
   Organizações Criminosas art-288, LBI art-1783-a (CC), Lei 14.133 art-337-e..p (CP arts. inserted by its art. 178).
   Fixing needs a quote-state tracker in paragraphs() (same-label successor logic would misread §§ of several quoted
@@ -144,3 +144,17 @@ identical, audit clean):
   49, 68-B, 68-C. 42 versions; part 11 acts, 141 versions, sha 3baa103f (parse twice identical); merged 62 acts, 1637
   versions, 1472 commits, check 0/0, --compare identical, audit clean. README row + jurisdiction.json (62 acts) updated.
 - Tools: .tmp/lpetdump.py (replayed lines of units), lpetcons.py (diff vs consolidated), lawtext.py (cached page text).
+
+## 8. Quotation state in the shared parsers (coordinator task, 2026-10-31)
+- paragraphs() in proc/parse_proc.py, parse_phase2.py, clt/parse_clt.py and codes/parse_codes.py tracks an open quotation
+  (track_quote: opened by a line or heading starting with a double quote, closed by '(NR)' or a closing quote at the end of
+  a line). While open, an 'Art. N' line stays in the current unit (keeping its label) unless N is the current article or
+  the next one, which also closes a quotation left open (quoted_article; QUOTED_ARTICLES -> quoted_decision()).
+  parse.py (CF) not changed: it builds units differently, holds no quoted amendments, and its cache is not on this machine.
+- All 14 parts regenerated before/after: only 98-batch5 and 99-batch8 change. Units gone (lines moved, same lines/credits
+  /days in every version, rubdiff 0 faults): LLC art-337-e..p -> art-178; Hediondos art-159/213/214/223/267/270 -> art-06;
+  LOC art-288 -> art-24; LBI art-1783-a -> art-116. Decisions: new quoted-article decision; rubrica count 34 -> 32 in
+  99-batch8 (two closing lines now already in the quoting unit); Hediondos EXPLAINED re-keyed art-159/223 -> art-06 in
+  batch8/parse_batch8.py. dupline/dupcheck now list the quoted §§ in LLC art-178 and Hediondos art-06 (legitimate).
+- Parse twice identical (98-batch5 01374560, 99-batch8 42fbba63); merged 62 acts, 1637 versions, 1472 commits, check 0/0,
+  --compare identical, audit clean; both installed and PUBLISH appended.
