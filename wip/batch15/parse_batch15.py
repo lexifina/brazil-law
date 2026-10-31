@@ -479,6 +479,9 @@ def paragraphs(html, digits):
             cur = None
         if cur and p["unit"] == cur[0]:
             p["unit"] = cur[1]
+    # Planalto's editorial line under Lei 8.212 art. 20's table ('(Valores e alíquotas dados pela Lei nº 9.129, de
+    # 20.11.95)'), read as a heading line: it is a note (the table's dates are set in _art20)
+    out[:] = [p for p in out if not (p["heading"] and re.fullmatch(r"\(Valores e alíquotas dados pela [^)]*\)", p["text"]))]
     if page == "l8212":
         _insert_original(out, digits)
     for p in out:
