@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-v PUBLISHed, 44 acts, 514 versions; merged 170 acts, 2908 versions; Lei 10.233 configured as part w, not published; DATED RE-CHECK of MP 1.382/2026 after 28.11.2026; details in batch17/PROGRESS.md)
+CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-x PUBLISHed, 47 acts; merged 173 acts, 2960 versions; DATED RE-CHECK of MP 1.382/2026 after 28.11.2026; details in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 
@@ -191,3 +191,4 @@ Batch 17 (2026-10-31): small parts 99-batch17a, b, ... 99-batch17a PUBLISHed: Le
 99-batch17s PUBLISHed: Lei 12.783/2013 (16 versions; MP 612/2013 and MP 1.232/2024 lapses); 99-batch17t PUBLISHed: Lei dos Portos 12.815/2013 (7 versions); merged 168 acts, 2858 versions, 2206 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (168 acts).
 99-batch17u PUBLISHed: Lei 9.074/1995 (25 versions; MP 612/2013 and MP 1.065/2021 lapses, MP 1.300/2025's changes ended by its conversion Lei 15.235 on 9.10.2025); merged 169 acts, 2883 versions, 2220 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (169 acts).
 99-batch17v PUBLISHed: Lei 12.462/2011 (RDC, 25 versions; arts. 1-47-A revoked 30.12.2023 by Lei 14.133; art. 63 § 17 (MP 1.349/2026, lapse day unread) left out); merged 170 acts, 2908 versions, 2231 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (170 acts).
+99-batch17w PUBLISHed: Lei 10.233/2001 (ANTT/ANTAQ/DNIT, 38 versions; MP 800/2017 lapse, MP 2.217-3/2001 edition, MP 155/2003 -> Lei 10.871, MP 1.065/2021 vs Lei 14.273/2021 settled by provision, art. 88-A from its promulgation 11.12.2019); 99-batch17v re-PUBLISHed: Lei 12.462 art. 63-B's five-year term (Lei 14.901 art. 5) ends on 26.6.2029 on futuro; 99-batch17x PUBLISHed: Lei 13.848/2019 (agências reguladoras) and Lei 9.986/2000 (13 versions; MP 1.181/2023 lapse). Merged 173 acts, 2960 versions, 2259 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (173 acts).

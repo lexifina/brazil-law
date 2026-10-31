@@ -105,6 +105,9 @@ PAGES.update({
     "l9074-compilada": "leis/l9074compilada.htm",
     "l12815": "_ato2011-2014/2013/lei/l12815.htm",
     "l12783": "_ato2011-2014/2013/lei/l12783.htm",
+    # part x
+    "l13848": "_ato2019-2022/2019/lei/l13848.htm",
+    "l9986": "leis/l9986.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -203,6 +206,10 @@ ALL_ACTS: list[dict] = [
          "Regime Diferenciado de Contratações Públicas - RDC (Lei nº 12.462, de 4 de agosto de 2011)", 2),
     _act("lei-da-antt-e-antaq", "L10233", "l10233", "l10233", "lei-10233-2001",
          "Reestruturação dos transportes aquaviário e terrestre, ANTT e ANTAQ (Lei nº 10.233, de 5 de junho de 2001)", 2),
+    _act("lei-geral-das-agencias-reguladoras", "LAR", "l13848", "l13848", "lei-13848-2019",
+         "Lei Geral das Agências Reguladoras (Lei nº 13.848, de 25 de junho de 2019)", 2),
+    _act("lei-9986-de-2000", "L9986", "l9986", "l9986", "lei-9986-2000",
+         "Gestão de recursos humanos das agências reguladoras (Lei nº 9.986, de 18 de julho de 2000)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -229,7 +236,8 @@ PARTS: dict[str, list[str]] = {
     "t": ["lei-dos-portos"],
     "u": ["lei-9074-de-1995"],
     "v": ["lei-do-rdc"],
-    "w": ["lei-da-antt-e-antaq"],   # NOT published: trial only (see batch17/PROGRESS.md)
+    "w": ["lei-da-antt-e-antaq"],
+    "x": ["lei-geral-das-agencias-reguladoras", "lei-9986-de-2000"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -309,6 +317,9 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                      "ali referidos' (DOU 5.8.2011, edição extra, rectified 10.8.2011): financial effects only, so "
                                      "the in-force day"),
     "lei-10233-2001": ("2001-06-06", f"Lei 10.233/2001 art. 124: {_PUB} (DOU 6.6.2001)"),
+    "lei-13848-2019": ("2019-09-24", "Lei 13.848/2019 art. 53: 'Esta Lei entra em vigor após decorridos 90 (noventa) dias de "
+                                     "sua publicação oficial' (DOU 26.6.2019)"),
+    "lei-9986-2000": ("2000-07-19", f"Lei 9.986/2000 art. 38: {_PUB} (DOU 19.7.2000)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -462,6 +473,10 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, "
                          "a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infra-Estrutura de Transportes, "
                          "e dá outras providências.", "2001-06-05", "2001-06-06", PAGES["l10233"]),
+    "lei-13848-2019": _L("Lei nº 13.848, de 2019", "Dispõe sobre a gestão, a organização, o processo decisório e o controle social "
+                         "das agências reguladoras [...].", "2019-06-25", "2019-06-26", PAGES["l13848"]),
+    "lei-9986-2000": _L("Lei nº 9.986, de 2000", "Dispõe sobre a gestão de recursos humanos das Agências Reguladoras e dá outras "
+                        "providências.", "2000-07-18", "2000-07-19", PAGES["l9986"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -1691,11 +1706,19 @@ B8.SPAN_FIX += [((_LRDC, "art-63", lab, pre, 0), dict(f), _W14034) for lab, pre,
     ("II -", "II - no custeio de eventuais despesas decorrentes de responsabilidade civil", _S21),
     ("II -", "II - os referidos no art. 1º da Lei nº 9.825", _E21))]
 B8.SPAN_FIX[-1] = ((_LRDC, "art-63", "II -", "II - os referidos no art. 1º da Lei nº 9.825", 1), dict(_E21), _W14034)   # Lei 12.648's copy
+_W63B = ("Lei 12.462 art. 63-B (caput and parágrafo único), added by Lei 14.901/2024 art. 3 (DOU 26.6.2024, in force on "
+         "publication): its art. 5 reads '[...] nos termos do art. 140 da Lei nº 14.791, de 29 de dezembro de 2023, o art. "
+         "63-B acrescido à Lei nº 12.462 [...] pelo art. 3º desta Lei terá vigência por 5 (cinco) anos'. The term runs from "
+         "26.6.2024, the first day counted, to 25.6.2029, so the article is in force to that day and leaves the text on "
+         "26.6.2029 (on the futuro branch while that day is ahead), credited to Lei 14.901. No later law that extends the "
+         "term is noted on Planalto's page (capture of 23.10.2026)")
+_T63B = {"end": "2029-06-26", "end_law": "lei-14901-2024", "end_how": "term"}
+B8.SPAN_FIX += [((_LRDC, "art-63-b", lab, pre, 0), dict(_T63B), _W63B) for lab, pre in (
+    ("Art. 63-B", "Art. 63-B. Da arrecadação total do FNAC"), ("Parágrafo único", "Parágrafo único. Ato conjunto dos Ministros"))]
 B13.OPEN_ITEMS[_LRDC] = (
     "Lei 12.462 (open items): the text before 5.8.2011 (Medida Provisória 527/2011, of which this Lei is the conversion) is "
     "not part of the history; the STF's ADIs 4.645 and 4.655 (Planalto prints only 'Vide' notes) are not modelled; art. 63 "
-    "§ 17 (Medida Provisória 1.349/2026, lapsed on a day not read here) is left out; art. 63-B, added by Lei 14.901/2024 "
-    "'terá vigência por 5 (cinco) anos' (its art. 5): the end of that term is not modelled; 'Vide' pointers (Decreto 8.024/2013, "
+    "§ 17 (Medida Provisória 1.349/2026, lapsed on a day not read here) is left out; 'Vide' pointers (Decreto 8.024/2013, "
     "Lei 14.034/2020, Lei 14.133/2021) strike no words and are not modelled")
 
 # part w: Lei 10.233/2001 (ANTT, ANTAQ, DNIT). Hand days set only when the act runs.
@@ -1769,6 +1792,40 @@ B8.SPAN_FIX += [
     ((_LANTT, "art-115", "§ 1º", "§ 1º À medida que forem extintos", 0),
      {"end": "2001-09-05", "end_law": "mp-2217-2001", "end_how": "note"}, _W115),
 ]
+# part x: Lei 13.848/2019 (agências reguladoras), Lei 9.986/2000. Hand days set only when the acts run.
+_LAR, _L9986 = "lei-geral-das-agencias-reguladoras", "lei-9986-de-2000"
+if any(a["slug"] == _L9986 for a in ACTS):
+    B7.CONVERTED_FIX["mp-155-2003"] = ("lei-10871-2004", "Lei 10.871/2004's page reads 'Conversão da MPv nº 155, de 2003' "
+                                                         "(DOU 21.5.2004, art. 38: in force on publication)")
+    P.MP_LAPSE["mp-1181-2023"] = (
+        "2023-11-15", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 79, de 2023: 'teve seu prazo de vigência "
+                      "encerrado no dia 14 de novembro de 2023'; its art. 24 I had revoked Lei 9.986 art. 32 from 18.7.2023, and Lei "
+                      "14.724/2023 (DOU 14.11.2023, in force on publication) revoked it again")
+    P.MP_PENDING["mp-2229-2001"] = (
+        "Medida Provisória nº 2.229-43, de 6.9.2001 (DOU 10.9.2001, in force on publication), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2; it gave Lei 9.986 art. 22 its wording. Planalto's note names this edition only, so the "
+        "change is dated by its publication; earlier editions of the chain are not modelled")
+    P.MP_PENDING["mp-2216-2001"] = (
+        "Medida Provisória nº 2.216-37, de 31.8.2001 (DOU 1.9.2001, art. 32: in force on publication), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2; it gave Lei 9.986 art. 8 its wording ('quatro meses'). Planalto's notes name this "
+        "edition only, so the change is dated by its publication; earlier editions of the chain are not modelled")
+_W32 = ("Lei 9.986 art. 32 parágrafo único: Medida Provisória 1.181/2023 (DOU 18.7.2023) art. 24 I and Lei 14.724/2023 (DOU "
+        "14.11.2023, in force on publication) art. 36 III revoke 'o art. 32 da Lei nº 9.986', the whole article; Planalto strikes "
+        "only the caput and leaves the parágrafo único unstruck, so it falls with the caput: absent from 18.7.2023 while the MP "
+        "stood, and revoked by Lei 14.724 on 14.11.2023, before the MP's lapse (14.11.2023) could restore it")
+B8.SPAN_FIX += [((_L9986, "art-32", "Parágrafo único", "Parágrafo único. Os Cargos Comissionados", 0),
+                 {"end": "2023-11-14", "end_law": "lei-14724-2023", "end_how": "note",
+                  "gaps": [("2023-07-18", "2023-11-15", "mp-1181-2023", "mp-1181-2023-fim")]}, _W32)]
+B.EXPLAINED[_L9986] = {"art-32": "the page leaves art. 32's parágrafo único unstruck, though Lei 14.724/2023 revoked the whole "
+                                 "article (art. 32 caput is struck); it is left out from 14.11.2023"}
+B13.OPEN_ITEMS[_L9986] = (
+    "Lei 9.986 (open items): the Anexos (posts of each agency) are not part of the history; the STF's ADI 2.310 (Planalto prints "
+    "only 'Vide ADIN 2310' on the struck lines of the employment regime, which Lei 10.871/2004 revoked) is not modelled; "
+    "Medidas Provisórias 2.216-37/2001 and 2.229-43/2001 are dated by those editions; 'Vide' pointers (Medidas Provisórias "
+    "155/2003, 269/2005, 304/2006, 2.048-28/2000 and 2.049-24/2000, Lei 10.871/2004) strike no words and are not modelled")
+B13.OPEN_ITEMS[_LAR] = (
+    "Lei 13.848 (open items): its own changes to other laws (arts. 39 to 51) are recorded in those laws' histories where the "
+    "corpus holds them; Lei 15.352/2026 restated art. 2 XII (added by Medida Provisória 1.317/2025) without changing its words")
 B13.OPEN_ITEMS[_LANTT] = (
     "Lei 10.233 (open items): the Anexos (tables of posts and salaries, including Tabela IV as Medida Provisória 1.120/2022 and "
     "Lei 14.465/2022 replaced it) are not part of the history; Medida Provisória 2.217-3/2001's changes are dated by that "

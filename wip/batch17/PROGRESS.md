@@ -306,6 +306,59 @@ Lei 12.462/2011 (RDC), 25 versions 2011-08-05 .. 2024-09-19 (l12462 vs l12462com
 - Benign flags: art. 48/53 quoted Lei 10.683/11.182 text. Part sha 7e378797 (pre-effects dab71ee5); merged 170 acts, 2908
   versions, 2231 commits, check 0/0, compare identical, audit clean. README row + jurisdiction.json (170 acts).
 
+## 99-batch17w - PUBLISHed 2026-10-31 (seventh session)
+Lei 10.233/2001 (ANTT, ANTAQ, DNIT), 38 versions 2001-06-06 .. 2024-01-16 (l10233 is its own consolidated page; 0 diffs).
+- Pinned ato:adc-6-2018-mpv800 (iaonly.py gap). Hand (`_LANTT`, scoped): MP_LAPSE mp-800-2017 27.2.2018; MP_PENDING
+  mp-2217-2001 (art. 7 on publication, DOU 5.9.2001; art. 6 confirms MP 2.201-2); CONVERTED_FIX mp-155-2003 -> lei-10871-2004
+  (its page: 'Conversão da MPv nº 155, de 2003').
+- MP 1.065/Lei 14.273 clash (SPAN_FIX _W1065): Lei 14.273 in force 6.2.2022 (LINDB from DOU 23.12.2021 extra), MP lapse day
+  7.2.2022. MP lines Lei 14.273 replaced/revoked end 6.2.2022 (art-13 p.u., art-38, art-82 § 1º) and their restored copies
+  are skipped ('never-restored'); batch7's 'with its article' rule had wrongly ended art-24 IV and art-25 III on 6.2.2022
+  (Lei 14.273 did not touch them; read its art. 72): both now end with the lapse 7.2.2022 and art-25 III's 2001 text is back.
+- Undated lines: art. 7º-A Lei 10.683 wording (printed 'Art. 7 o A', read under art-07) moved to art-07-a 29.5.2003-8.5.2007
+  (SPAN_FIX can set unit/label; new 'moved_from' key lets the lifespans wrapper drop its 'no end' problem), MP 2.217 wording
+  ends 29.5.2003; art-88 p.u. (unclosed note) ends MP 870 1.1.2019.
+- Found by checks/reading: art-115 2001 caput and § 1º end 5.9.2001 (MP 2.217-3 caput + art. 8 revocation); art. 118 § 1º
+  split in the paragraphs wrapper (2001 'art. 114' / MP 2.217-3 'art. 114-A', read on the MP page); art. 102-A printed after a
+  stray '"' -> own unit; art. 88-A from its promulgation 11.12.2019 (Lei 13.901 art. 5 vetoed, override; DOU 11.12.2019).
+- effrep (w-effrep.log): all on publication except Lei 13.848 (90 days, reader), Lei 14.273 (LINDB); Lei 10.470/MP 375
+  financial effects only (kept). effects_fix 0 moves. Benign flags: leakcheck 10 literal, firstline art-94 (§§ 3º-4º stay after
+  Lei 10.871 revoked caput/§§ 1º-2º), ordercheck art-47-b (Lei 14.298 prints p.u. (Revogado) before §§ 1º-3º), quotecheck 3.
+- Part sha 12d37dc7 (pre-effects 9272ba39); merged 171 acts, 2946 versions, 2253 commits, check 0/0, compare identical, audit
+  clean. README row + jurisdiction.json (171 acts).
+
+## 99-batch17v re-PUBLISHed 2026-10-31 (seventh session): art. 63-B term
+Lei 14.901/2024 art. 5: art. 63-B 'terá vigência por 5 (cinco) anos' from 26.6.2024 (DOU, in force on publication): term
+26.6.2024..25.6.2029, so SPAN_FIX ends caput + p.u. on 2029-06-26 (end_how 'term', credited lei-14901-2024) -> one futuro
+version (scratch build futuro: '2029-06-26 LRDC: Art. 63-B (Lei nº 14.901, de 2024)'). No extending law on the page (capture
+23.10.2026). Counting: first day counted (LC 95 style), version the day after the last day. OPEN_ITEMS text updated.
+Part sha f184eb6f (pre-effects 4071b233); merged 171 acts, 2947 versions, 2254 commits, check 0/0, compare identical, audit
+clean; same benign flags as before. README row (26) + futuro lines + jurisdiction.json.
+
+## 99-batch17x - PUBLISHed 2026-10-31 (seventh session)
+Lei Geral das Agências Reguladoras 13.848/2019 (2 versions; in force 24.9.2019, 90 days) and Lei 9.986/2000 (11 versions).
+Pages l13848 (ts 20261019033049), l9986 (ts 20261004205325; both their own consolidated pages); `iaonly.py laws` (7 new) +
+`missing` (0); pinned ato:adc-79-2023-mpv1181.
+- Hand (`_L9986`, scoped): CONVERTED_FIX mp-155-2003 (also set for _LANTT); MP_LAPSE mp-1181-2023 15.11.2023; MP_PENDING
+  mp-2229-2001 and mp-2216-2001 (Lei 9.986 text; part b/f texts untouched). SPAN_FIX art-32 p.u. falls with the article
+  (Lei 14.724 art. 36 III, 14.11.2023; MP gap from 18.7.2023); EXPLAINED art-32.
+- Benign: Lei 13.848 dupline 18 / dupcheck 3 / leakcheck 4 / quotecheck = quoted amendments in arts. 41-45. effects 0 moves.
+- Part sha 7cae6c66 (pre-effects a289b28f). Final merged build (all installed parts, after README edits): 173 acts, 2960
+  versions, 2259 commits, check 0/0, compare identical, audit clean.
+
+## State at handoff (batch 17, seventh session, 2026-10-31)
+Parts 99-batch17a..x installed with .PUBLISH (47 acts; merged 173 acts, 2960 versions, 2259 commits, check 0/0, --compare
+identical, audit clean). README rows + futuro lines + jurisdiction.json (173 acts) current. All runs foreground through
+.tmp/run.py / pipe.sh at BelowNormal, one at a time; every PID exited; nothing left running. Fetching: archive.org only
+(robots.txt read this session: web.archive.org 404, archive.org Disallows only /control/ and /report/); no Common Crawl or
+Arquivo.pt requests. This session: w (Lei 10.233), v re-PUBLISHed (art. 63-B term -> futuro 2029-06-26), x (Leis 13.848,
+9.986).
+DATED RE-CHECK (unchanged): on or after 29.11.2026 read MP 1.382/2026's fate (part m).
+Left out / unsettled: unchanged from the sixth session (Lei 10.931 no capture; Lei 10.522 art. 32 quoted § 2º; Lei 12.462 art.
+63 § 17), plus: Lei 10.233 art. 118 § 1º 'MP 246' wording (none printed); Lei 9.986 ADI 2.310 not modelled.
+Next candidates (not configured; check archive.org captures with cdxlist.py first): Lei 8.745/1993 (leis/l8745cons.htm,
+captures to 2026-10; MP chains), Lei 9.427/1996 (ANEEL), Lei 9.961/2000 (ANS), Lei 9.782/1999 (Anvisa), Lei 9.717/1998.
+
 ## State at handoff (batch 17, sixth session, 2026-10-31)
 Parts 99-batch17a..v installed with .PUBLISH (44 acts, 514 versions; merged 170 acts, 2908 versions, 2231 commits, check
 0/0, --compare identical, audit clean). README rows + jurisdiction.json (170 acts) current. All runs foreground through
