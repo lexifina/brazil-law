@@ -50,13 +50,23 @@ adc-1989-dl2431 (via P.COURTS, kind law, 14.6.1989) + SPAN_FIX arts. 27/28 (FUNM
 start then); MP_PENDING mp-2183-2001; LexML day lei-6746-1979; 8 consolidated-page diffs EXPLAINED. Part sha 2c75cb00;
 merged 111 acts, 2036 versions, 1725 commits, check 0/0, compare identical, audit clean.
 
+## 99-batch14e - PUBLISHed 2026-10-31
+LC 123/2006 (13 versions, from 6.3.2012 'oldest version available' + 2033 partial repeal on futuro). Hand: build_act
+wrapper trims to ME_START and the part writer sets first_law null / earlier_laws (batch 12 pattern); VIGENCIA_FIXED
+lc-188-2021, lc-155-2016, lc-216-2025; LAW_TITLE_FIX lc-155-2016 (letter-spaced ementa); SPAN_FIX base lines of arts.
+18-C/38-A/85-A, bare d)/e) skipped; LABEL_FIX '§ 1º A.'; H1_PAGES (h1-h6 headings read as centred <p>); me_2033() ends
+LC 214 art. 543 V targets (23 dispositivos incl. children) on 2033-01-01. Part sha b81541e9; merged 112 acts, 2049
+versions, 1732 commits, check 0/0, compare identical, audit clean. New tools: .tmp/nonote.py (no-note lines dated after
+the act day), .tmp/spaced.py (letter-spaced lines), .tmp/clause.py, .tmp/whichart.py.
+NOTE: heredoc-written regexes lose backslashes ('' became a backspace once): write patches with the Write tool.
+
 ## Next
 Configured in ALL_ACTS (pages pinned): Lei 8.212/1991 (l8212cons.htm vs compilado), Lei 8.213/1991 (l8213cons.htm vs
 compilado), LC 123/2006 (watch LC 214 art. 543 V: partial 2033 repeals), Estatuto da Terra, LGT 9.472, Lei 9.433, SNUC,
 Lei 13.874, CBA, Lei 12.288, Lei 1.521, DL 201/1967.
 
 ## Findings for the heavy acts (not built yet)
-- LC 123/2006: Planalto's page is the 2012 republication (LC 139/2011 art. 5; DOU 31.1.2012 and again 6.3.2012); its notes
+- (DONE in 14e) LC 123/2006: Planalto's page is the 2012 republication (LC 139/2011 art. 5; DOU 31.1.2012 and again 6.3.2012); its notes
   start with LC 147/2014, so 2006-2011 cannot be rebuilt -> plan: 'oldest version available' from the republication
   (batch 12's Lei 9.656 pattern). Also: lc-188-2021 day 31.12.2021 (heading lacks 'DE'); art. 18 ('§ 1º A.' label) and
   art. 18-A § 1º (letter-spaced struck text) problems; LC 214 art. 543 V partial 2033 repeals (about 20 dispositivos) to
@@ -71,3 +81,25 @@ Lei 13.874, CBA, Lei 12.288, Lei 1.521, DL 201/1967.
   (1.1.2020), MP 1.355/2026, 'MPv nº 404' and 'Lei nº 11,718' note typos, law:lei-10877-2004 pin points at L10.887
   (repin), 77 undated struck lines.
 - CBA 7.565/1986: 264 problems (not analysed).
+
+## Groundwork for Leis 8.212/8.213 (done after 14e, not in any part)
+- Pins fixed in batch14/sources_batch14.json: law:lei-10877-2004 -> L10.877.htm, law:lei-11974-2009 -> L11974.htm (both
+  had pointed at other acts' pages), law:lei-14873-2024 pinned (MP 1.202/2023's conversion). headyear now clean except the
+  known false positives (lc-188, lc-190 headings without 'DE'; unused lc-115-2000).
+- Atos Declaratórios pinned (ids ato:...) with the lapse days read from them (MP_LAPSE = day after 'encerrado no dia'):
+  adc-65-2022-mpv1110: MP 1.110/2022 ended 7.8.2022 (DOU 19.8.2022) -> 2022-08-08
+  cn-2005-mpv252: MP 252/2005 ended 13.10.2005 -> 2005-10-14
+  cn-2005-mpv258: MP 258/2005 ended 18.11.2005 -> 2005-11-19
+  adc-66-2017-mpv793: MP 793/2017 ended 28.11.2017 (DOU 7.12.2017) -> 2017-11-29
+  adc-64-2018-mpv841: MP 841/2018 ended 23.10.2018 (DOU 25.10.2018) -> 2018-10-24
+  adc-92-2020-mpv927: MP 927/2020 ended 19.7.2020 (DOU 31.7.2020) -> 2020-07-20
+  MP 905/2019 and MP 955/2020: clt/parse_clt.py already has MP_LAPSE (905: 2020-08-19, 955: 2020-08-18, Atos 127 and
+  113/2020, pinned in clt/sources_clt.json) and the MP_PAIRS / mp_pairs() model (905 revoked by 955, back after 955's
+  lapse); the proc pipeline has no such model - port mp_pairs() into batch14 before building 8.212/8.213.
+  MP 1.202/2023: converted into Lei 14.873/2024 but also 'Vigência encerrada' (MP 1.208/2024 revoked parts) - read it.
+  Pending under EC 32 art. 2: MP 2.170-36/2001, MP 2.216-37/2001.
+- Lei 8.212 also: footnote numbers leak into text ('e) as importâncias: 14' in art. 28; l8212cons.htm prints numbered
+  footnotes '1 Alínea alterada pela...'), 'Pescado}' and 'TÍTULO VII l' typos, 2 'restored wording' (art. 26), 2 'ends
+  before it starts' (art. 28 a), art. 50).
+- CPU: the gitlaw-cpu.log five-minute load was above 90 from about 11:52 to 12:04; work waited (one short trial parse and
+  the Ato fetches at 12:18, cpu5=91, were started just over the line).

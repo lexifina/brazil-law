@@ -159,3 +159,5 @@ Batch 14 (2026-10-31): small parts 99-batch14a, b, ... 99-batch14a PUBLISHed: Le
 99-batch14b PUBLISHed: Lei 9.433/1997, DL 201/1967, LGT 9.472/1997, Lei 1.521/1951 (35 versions); merged 107 acts, 2009 versions, check 0/0.
 99-batch14c PUBLISHed: SNUC, Lei da Liberdade Econômica, Estatuto da Igualdade Racial (15 versions); merged 110 acts, 2024 versions, check 0/0.
 99-batch14d PUBLISHed: Estatuto da Terra (12 versions, DL 2.431/1988 and its 1989 rejection modelled); merged 111 acts, 2036 versions, check 0/0.
+99-batch14e PUBLISHed: LC 123/2006 (13 versions from the 2012 republication, oldest available; LC 214 art. 543 V partial repeal 2033 on futuro); merged 112 acts, 2049 versions, check 0/0.
+State at handoff (batch 14): parts 99-batch14a..e installed with .PUBLISH (12 acts, 100 versions; merged 112 acts, 2049 versions, 1732 commits, check 0/0). README rows + jurisdiction.json (112 acts) current. No background processes left running. Next: Leis 8.212/8.213 (groundwork, pins and MP lapse days in batch14/PROGRESS.md), CBA 7.565 (264 problems), FGTS and Lei 4.320 (batch 13 deferred).

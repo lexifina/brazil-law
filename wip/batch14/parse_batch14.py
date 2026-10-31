@@ -15,6 +15,7 @@ from __future__ import annotations
 import os
 import sys
 from pathlib import Path
+import re
 
 HERE = Path(__file__).resolve().parent
 FOLDER = HERE.parent
@@ -315,7 +316,15 @@ _paragraphs14 = P.paragraphs
 SQUOTE_KEPT: list[str] = []
 
 
+H1_PAGES = {"lc123"}   # pages that set heading lines in <h1>/<h2> align="center" (read as centred paragraphs)
+H1_USED: list[str] = []
+
+
 def paragraphs(html, digits):
+    if B8.CURRENT_PAGE[0] in H1_PAGES and re.search(r"<h[1-6]\b", html, re.I):
+        H1_USED.append(B8.CURRENT_PAGE[0])
+        html = re.sub(r"<h[1-6]\b", "<p", html, flags=re.I)
+        html = re.sub(r"</h[1-6]\s*>", "</p>", html, flags=re.I)
     out, rest = _paragraphs14(html, digits)
     for i, p in enumerate(out):
         if p["label"] == "rubrica" and p["text"].lstrip().startswith(("'", "\u2018")) and i > 0 and not out[i - 1]["heading"]:
@@ -388,6 +397,24 @@ P.VIGENCIA_FIXED["lc-188-2021"] = (
     "2021-12-31", "art. 3: 'Esta Lei Complementar entra em vigor na data de sua publicação' (DOU 31.12.2021, edição extra; "
                   "the page's heading 'Nº 188, 31 DE DEZEMBRO DE 2021' lacks 'DE', so the day is set here)")
 _ME = "estatuto-da-microempresa"
+P.VIGENCIA_FIXED["lc-155-2016"] = (
+    "2016-10-28", "art. 11: 'Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos: I - na data "
+                  "de sua publicação, com relação ao art. 9º [...]; II - a partir de 1º de janeiro de 2017, com relação aos "
+                  "arts. 61-A, 61-B, 61-C e 61-D da Lei Complementar nº 123 [...]; III - a partir de 1º de janeiro de 2018, "
+                  "quanto aos demais dispositivos' (DOU 28.10.2016); as for other deferred effects, its wording is dated by "
+                  "the in-force day (Planalto prints the clause letter-spaced, which the clause reader misses)")
+LAW_TITLE_FIX = {
+    "lc-155-2016": ("Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para reorganizar e simplificar a metodologia "
+                    "de apuração do imposto devido por optantes pelo Simples Nacional; altera as Leis nºs 9.613, de 3 de março "
+                    "de 1998, 12.512, de 14 de outubro de 2011, e 7.998, de 11 de janeiro de 1990; e revoga dispositivo da Lei "
+                    "nº 8.212, de 24 de julho de 1991.",
+                    "Lei Complementar 155/2016: Planalto's page sets the ementa letter-spaced ('C o m pl e m e ntar') after a "
+                    "'Partes promulgadas pelo Congresso Nacional' link; its title is the ementa with the spaces closed up"),
+}
+P.VIGENCIA_FIXED["lc-216-2025"] = (
+    "2025-07-29", "art. 8: 'Esta Lei Complementar entra em vigor: I - em 1º de janeiro de 2026, quanto à parte do art. 4º que "
+                  "inclui o inciso I no caput do art. 12-A da Lei nº 11.945 [...]; e II - na data de sua publicação, quanto aos "
+                  "demais dispositivos' (DOU 29.7.2025); its change to the Estatuto da Microempresa (art. 2) falls under II")
 ME_START = "2012-03-06"
 ME_WHY = ("Estatuto da Microempresa (Lei Complementar 123/2006): Planalto's page is the act as republished under Lei "
           "Complementar 139/2011 art. 5 (DOU 31.1.2012, republished again 6.3.2012), with the changes of Leis Complementares "
@@ -413,6 +440,124 @@ def build_act(paras, act_day, *a, **k):
 
 
 P.build_act = B.build_act = build_act
+B8.LABEL_FIX += [
+    ("lc123", "§ 1º A. A alíquota efetiva", "§ 1º A. A alíquota efetiva", "§ 1º-A",
+     "Estatuto da Microempresa art. 18 § 1º-A: Planalto prints the label '§ 1º A.' (no hyphen); filed as § 1º-A, the text "
+     "kept as printed"),
+]
+_ME_DE = ("Estatuto da Microempresa art. 18-A § 3º V: Planalto prints bare 'd)' and 'e)' lines carrying only '(Vide Lei "
+          "Complementar nº 214, de 2025)' pointers, without their wording (alíneas Lei Complementar 214/2025 adds for "
+          "later years); they are left out")
+B8.SPAN_FIX += [((_ME, "art-18-a", lab, lab, 0), {"skip": True, "end_how": "editorial"}, _ME_DE) for lab in ("d)", "e)")]
+# LC 214/2025 art. 543 V: 'Ficam revogados a partir de 1º de janeiro de 2033: [...] V - os seguintes dispositivos da Lei
+# Complementar nº 123, de 2006: [...]' (art. 544 V: effects from 1.1.2033). Each target is (unit, paragraph, inciso,
+# alínea); a target line ends on 1.1.2033 with every line below it (its incisos, alíneas, items) up to its next sibling.
+ME_2033 = "2033-01-01"
+ME_2033_TARGETS = [
+    ("art-13", "caput", "VII -", None), ("art-13", "caput", "VIII -", None),
+    ("art-13", "§ 1º", "XIII -", None), ("art-13", "§ 1º", "XIV -", None), ("art-13", "§ 6º", "II -", None),
+    ("art-18", "§ 5º-E", None, None), ("art-18", "§ 14", None, None), ("art-18", "§ 17", None, None),
+    ("art-18", "§ 17-A", None, None), ("art-18", "§ 22-A", None, None), ("art-18", "§ 23", None, None),
+    ("art-18-a", "§ 3º", "V -", "e)"),
+    ("art-21", "§ 4º", None, None), ("art-21", "§ 4º-A", None, None), ("art-21-b", "*", None, None),
+    ("art-22", "caput", "I -", None), ("art-22", "caput", "II -", None),
+    ("art-23", "§ 5º", None, None),
+    ("art-26", "§ 12", None, None), ("art-26", "§ 13", None, None), ("art-26", "§ 14", None, None),
+    ("art-41", "§ 5º", "V -", None), ("art-65", "§ 4º", "II -", None),
+]
+ME_2033_WHY = ("Estatuto da Microempresa: Lei Complementar 214/2025 art. 543 ('Ficam revogados a partir de 1º de janeiro de "
+               "2033: [...] V - os seguintes dispositivos da Lei Complementar nº 123, de 2006: a) do art. 13: 1. os incisos "
+               "VII e VIII do caput; 2. os incisos XIII e XIV do § 1º; e 3. o inciso II do § 6º; b) do art. 18: 1. o § 5º-E; "
+               "2. os §§ 14, 17, 17-A, 22-A e 23; c) a alínea 'e' do inciso V do § 3º do art. 18-A; d) os §§ 4º e § 4-A do "
+               "art. 21; e) o art. 21-B; f) os incisos I e II do caput do art. 22; g) o § 5º do art. 23; h) os §§ 12 a 14 do "
+               "art. 26; i) o inciso V do § 5º do art. 41; j) inciso II do § 4º do art. 65'; art. 544 V: art. 543 takes "
+               "effect on 1.1.2033): these provisions, with the lines below them, end on 1.1.2033, credited to LC 214/2025 "
+               "(future branch). Art. 26 § 12-A, which LC 214 itself inserted between §§ 12 and 13, is not among the "
+               "numbers the range names and is kept; art. 18-A § 3º V alínea 'e' is one of the bare lines Planalto prints without "
+               "wording (left out, see above), so nothing of it ends. Lines matched: {n}")
+ME_2033_USED: list[str] = []
+_PAR = re.compile(r"^(§\s*\d+º?(?:-[A-Z])?|Parágrafo único)$")
+
+
+def _lv(lab):
+    if not lab:
+        return 9
+    if lab.startswith(("Art", "§", "Parágrafo")):
+        return 1
+    if re.match(r"^[IVXLC]+(?:-[A-Z])?\s*-$", lab):
+        return 2
+    if re.match(r"^[a-z]\)$", lab):
+        return 3
+    return 4
+
+
+def me_2033(paras):
+    ME_2033_USED.clear()
+    for unit, par, inc, ali in ME_2033_TARGETS:
+        cur_par, cur_inc, hit = "caput", None, False
+        for p in paras:
+            if p["unit"] != unit or p["heading"]:
+                continue
+            lab = p["label"]
+            lv = _lv(lab)
+            if lv == 1:
+                cur_par, cur_inc = ("caput" if lab.startswith("Art") else lab), None
+            elif lv == 2:
+                cur_inc = lab
+            if par == "*":
+                hit = True
+            elif inc is None:
+                hit = cur_par == par
+            elif ali is None:
+                hit = cur_par == par and cur_inc == inc and (lv >= 2 or (lv == 9 and hit))
+            else:
+                if lv == 3:
+                    hit = cur_par == par and cur_inc == inc and lab == ali
+                elif lv <= 2:
+                    hit = False
+            if hit and not p.get("skip") and p["start"] < ME_2033 and (p["end"] is None or p["end"] > ME_2033) and not (
+                    p["state"] != "plain" and p["end"] is None):
+                p["end"], p["end_law"], p["end_how"], p["pinned"] = ME_2033, "lc-214-2025", "note", True
+                ME_2033_USED.append(f"{unit} {par} {inc or ''} {ali or ''} [{lab}]".replace("  ", " "))
+
+
+_lifespans14 = P.lifespans
+
+
+def lifespans(paras, cx):
+    problems = _lifespans14(paras, cx)
+    if cx.act == _ME:
+        me_2033(paras)
+    return problems
+
+
+P.lifespans = B.lifespans = lifespans
+# arts. 18-C, 38-A and 85-A: their caput carries no 'Incluído' note (they are in the republished 2012 text), but the shared
+# 'article' rule dated their unnoted lines by the first law noted inside the article (LC 147/2014, LC 214/2025)
+_ME_BASE = ("Estatuto da Microempresa arts. 18-C, 38-A and 85-A: the articles are in the republished text (their caput "
+            "carries no 'Incluído' note), so their lines without a note belong to the oldest version available, not to "
+            "the first law noted inside the article (the rule for articles inserted after the act)")
+B8.SPAN_FIX += [((_ME, u, lab, pre, 0), {"start": "2006-12-15", "start_law": None}, _ME_BASE) for u, lab, pre in [
+    ("art-18-c", "§ 1º", "§ 1º Na hipótese referida no caput, o MEI"),
+    ("art-18-c", "I -", "I - deverá reter e recolher a contribuição previdenciária"),
+    ("art-18-c", "II -", "II - é obrigado a prestar informações relativas ao segurado"),
+    ("art-18-c", "III -", "III - está sujeito ao recolhimento da contribuição"),
+    ("art-18-c", "§ 2º", "§ 2º Para os casos de afastamento legal do único empregado"),
+    ("art-18-c", "§ 3º", "§ 3º O CGSN poderá determinar, com relação ao MEI"),
+    ("art-18-c", "I -", "I - de entrega à Secretaria da Receita Federal do Brasil de uma única declaração"),
+    ("art-18-c", "II -", "II - do recolhimento dos tributos previstos nos arts. 18-A e 18-C"),
+    ("art-18-c", "§ 4º", "§ 4º A entrega da declaração única de que trata o inciso I do § 3º"),
+    ("art-18-c", "§ 5º", "§ 5º Na hipótese de recolhimento do FGTS na forma do inciso II do § 3º"),
+    ("art-38-a", "Art. 38-A", "Art. 38-A. O sujeito passivo que deixar de prestar as informações"),
+    ("art-38-a", "II -", "II - de R$ 20,00 (vinte reais) para cada grupo de 10"),
+    ("art-38-a", "§ 2º", "§ 2º A multa mínima a ser aplicada será de R$ 50,00"),
+    ("art-38-a", "§ 4º", "§ 4º O CGSN poderá estabelecer data posterior"),
+    ("art-85-a", "Art. 85-A", "Art. 85-A. Caberá ao Poder Público Municipal"),
+    ("art-85-a", "§ 1º", "§ 1º A função de Agente de Desenvolvimento"),
+    ("art-85-a", "§ 2º", "§ 2º O Agente de Desenvolvimento deverá preencher"),
+    ("art-85-a", "I -", "I - residir na área da comunidade"),
+    ("art-85-a", "II -", "II - haver concluído, com aproveitamento"),
+]]
 OPEN_ITEMS = B13.OPEN_ITEMS
 OPEN_ITEMS.update({
     "lei-do-iss": (
@@ -428,6 +573,9 @@ _inner14 = B6.PB5B._write_part5
 
 def _inner(*a):
     # batch 9's wording is for acts repealed in the past; for a future repeal the page is today's
+    if H1_USED:
+        B5.EXTRA_DECISIONS.append("Estatuto da Microempresa: Planalto sets its chapter and section headings in <h1> and <h2> "
+                                  "elements, read as centred heading lines like the other pages' headings.")
     if SQUOTE_KEPT:
         B5.EXTRA_DECISIONS.append(
             "A line that closes a quoted amendment with single quotation marks (\"'Art. 1.368-F. [...] Capítulo.'\"\"), "
@@ -438,6 +586,11 @@ def _inner(*a):
         if act["slug"] == _ME:
             keep = {k: a[1][k] for k in ("lc-123-2006",) if k in a[1]}
             B5.EXTRA_DECISIONS.append(ME_WHY + ".")
+            B5.EXTRA_DECISIONS.append(ME_2033_WHY.format(n="; ".join(dict.fromkeys(ME_2033_USED))) + ".")
+            B5.EXTRA_DECISIONS.append(
+                "Estatuto da Microempresa (open items): its Anexos I to V (the Simples Nacional rate tables) are not "
+                "included, the history holds the articles only; Lei Complementar 214/2025's and 227/2026's changes that "
+                "Planalto marks only with 'Vide' pointers are not modelled.")
     B9.REPEAL_CHECK[:] = [x.replace("the unstruck text of the pre-repeal capture of Planalto's page",
                                     "the unstruck text of Planalto's page (the repeal is in the future)")
                           for x in B9.REPEAL_CHECK]
@@ -446,6 +599,10 @@ def _inner(*a):
         import json as _json
         part = _json.loads(B5.OUT.read_text(encoding="utf-8"))
         part["laws"].setdefault("lc-123-2006", keep.get("lc-123-2006") or B.ACT_LAWS["lc-123-2006"])
+        for k, (title, why) in LAW_TITLE_FIX.items():
+            if k in part["laws"]:
+                part["laws"][k]["title"] = title
+                part["decisions"].append(why + ".")
         for act in part["acts"]:
             if act["slug"] == _ME:
                 act["first_law"], act["earlier_laws"] = None, ["lc-123-2006"]
