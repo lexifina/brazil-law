@@ -296,6 +296,33 @@ P.MP_PENDING.update({
     "mp-1255-2024": "Medida Provisória nº 1.255, de 26.8.2024: 'Revogada pela Lei nº 15.075, de 2024' on its page; its "
                     "wordings of the Lei do Petróleo end with Lei 15.075/2024, which gave those provisions their wording",
 })
+# STF, ADI 4.917: the rapporteur's cautelar of 18.3.2013 (DJe 21.3.2013), 'suspender os efeitos dos arts. 42-B; 42-C; 48,
+# II; 49, II; 49-A; 49-B; 49-C; § 2º do art. 50; 50-A; 50-B; 50-C; 50-D; e 50-E da Lei Federal n. 9.478/97, com as
+# alterações promovidas pela Lei n. 12.734/2012, ad referendum do Plenário [...] até o julgamento final' (the case's
+# andamentos, archived copy pinned as ctx:stf-adi-4917-andamentos); the Plenário had not ruled when the data was read.
+# Planalto keeps the 2012 wordings in its annotated page, each with '(Vide ADI 4917)', so the wording is not changed:
+# the ruling is a no-words event credited to the provisions it names.
+ADI4917_DAY = "2013-03-18"
+ADI4917_UNITS = ["art-48", "art-49", "art-49-a", "art-49-b", "art-49-c", "art-50", "art-50-a", "art-50-b", "art-50-c",
+                 "art-50-d", "art-50-e"]
+B8.EXTRA_LAWS["stf-adi-4917"] = {
+    "label": "STF, ADI 4.917 (medida cautelar)", "kind": "court", "enacted": ADI4917_DAY, "published": "2013-03-21",
+    "title": "Ação direta de inconstitucionalidade 4.917, medida cautelar (decisão monocrática, ad referendum do Plenário): "
+             "suspende os efeitos dos arts. 42-B, 42-C, 48, II, 49, II, 49-A, 49-B, 49-C, § 2º do art. 50, 50-A, 50-B, "
+             "50-C, 50-D e 50-E da Lei nº 9.478, de 1997, com as alterações promovidas pela Lei nº 12.734, de 2012",
+    "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=4379376", "temporary_until": None,
+    "restores": None,
+    "note": "A rapporteur's interim ruling (ADI 4.917, 18 March 2013) suspended the effects of the royalty rules Lei "
+            "12.734/2012 wrote into these provisions until the court's final judgment; the words are unchanged on "
+            "Planalto's page, so they are unchanged here."}
+ADI4917_WHY = ("Lei do Petróleo: STF, ADI 4.917, medida cautelar of 18.3.2013 (Min. Cármen Lúcia, ad referendum; DJe "
+               "21.3.2013; read from the case's record of proceedings) suspended the effects of arts. 48 II, 49 II, 49-A to "
+               "49-C, 50 § 2º and 50-A to 50-E as worded by Lei 12.734/2012 until the final judgment, still pending when the "
+               "data was read. Planalto's annotated page keeps those wordings (with '(Vide ADI 4917)'), and its consolidated "
+               "page shows art. 49 in the wording before Lei 12.734 but arts. 48 and 50 in Lei 12.734's; the history keeps "
+               "the annotated page's wordings and records the ruling as a version on 18.3.2013 that changes no words, "
+               "credited to the provisions it names that stood then")
+ADI4917_USED: list[str] = []
 # Lei do Saneamento Básico art. 52 § 1º I, set after the copy model (san_model): the 2007 wording, replaced by Lei
 # 13.308/2016 (7.7.2016), was given again word for word by Lei 14.026/2020 (16.7.2020), which Planalto prints unnoted
 SAN_FINAL: list[tuple[tuple[str, str, str, int], dict]] = [
@@ -494,6 +521,14 @@ def build_act(paras, act_day, gate, gate_law, unit_label):
         gate = dict(gate, **{u: ETOR_DAY for u in ETOR_LATE})
         gate_law = dict(gate_law, **{u: "lei-10671-2003" for u in ETOR_LATE})
     versions = _build_act10(paras, act_day, gate, gate_law, unit_label)
+    if slug == "lei-do-petroleo":
+        before = [v for v in versions if v["from"] <= ADI4917_DAY]
+        units = before[-1]["units"]
+        cred = {u: ["stf-adi-4917"] for u in ADI4917_UNITS if u in units}
+        assert not any(v["from"] == ADI4917_DAY for v in versions)
+        versions.insert(len(before), {"from": ADI4917_DAY, "source_url": before[-1].get("source_url"),
+                                      "sha256": before[-1].get("sha256"), "units": units, "credits": cred})
+        ADI4917_USED.append(ADI4917_WHY)
     hit = OWN_PROMULGATION.get(slug)
     if hit and hit[0] > act_day:
         for v in versions:
@@ -509,7 +544,7 @@ _inner10 = B6.PB5B._write_part5
 
 
 def _inner(*a) -> int:
-    B5.EXTRA_DECISIONS.extend(x + "." for x in dict.fromkeys(OWN_PROMULGATION_USED))
+    B5.EXTRA_DECISIONS.extend(x + "." for x in dict.fromkeys(OWN_PROMULGATION_USED + ADI4917_USED))
     if SAN_USED:
         B5.EXTRA_DECISIONS.append(
             "Lei do Saneamento Básico, 9.7.2018 to 15.7.2020: Medida Provisória nº 844/2018 (in force 9.7.2018, lapsed "
