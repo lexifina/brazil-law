@@ -389,6 +389,35 @@ MOVES: dict[str, list] = {
          "2026' (DOU 27.11.2025): its arts. 2 and 7 (Lei 9.250 arts. 3º-A, 6º-A, 10, 11, 11-A, 12, 13, 16-A, 16-B and the "
          "new chapter headings) from 1.1.2026"),
     ],
+    "99-batch17j.json": [
+        ("lei-7713-de-1988", "mp-68-1989", "1989-06-22", [(ALL, "1989-07-01")],
+         "Medida Provisória 68/1989 art. 45: 'A partir de 1º de julho de 1989, os dispositivos a seguir enumerados da Lei nº "
+         "7.713 [...] passam a vigorar com a seguinte redação' (DOU 22.6.1989): arts. 6, 14, 17, 24, 25, 28, 35, 45 and 53 from "
+         "1.7.1989"),
+        ("lei-7713-de-1988", "mp-114-1989", "1989-11-29",
+         [(lambda h: path_sel([("art-06", "caput", "XV -", None)], None)(h), "1990-01-01"),
+          ("units:art-25", "1990-01-01"), ("units:art-14,art-45", None)],
+         "Medida Provisória 114/1989 art. 9: 'as alterações procedidas nos art. 6º, XV, 14, II, 25, 45 e § 1º, da Lei nº 7.713 "
+         "[...] produzirão efeitos a partir de 1º de janeiro de 1990' (DOU 29.11.1989): art. 6 XV and art. 25 from 1.1.1990; "
+         "its art. 14 II and art. 45 wordings never took effect, its conversion law (Lei 7.959/1989, in force 22.12.1989, "
+         "same clause in its art. 8) having replaced them before that day"),
+        ("lei-7713-de-1988", "lei-7959-1989", "1989-12-22", [("units:art-14,art-45", "1990-01-01")],
+         "Lei 7.959/1989 art. 8: 'as alterações procedidas nos arts. 6º, XV, 14, II, 25, 45 e § 1º, da Lei nº 7.713, de 1988 "
+         "[...] produzirão efeitos a partir de 1º de janeiro de 1990' (DOU 22.12.1989): art. 14 II and art. 45 from 1.1.1990"),
+        ("lei-7713-de-1988", "lei-8383-1991", "1991-12-31", [(ALL, "1992-01-01")],
+         "Lei 8.383/1991: 'Esta lei entra em vigor na data de sua publicação e produzirá efeitos a partir de 1º de janeiro de "
+         "1992' (DOU 31.12.1991): from 1.1.1992"),
+        ("lei-7713-de-1988", "lei-8541-1992", "1992-12-24", [(ALL, "1993-01-01")],
+         "Lei 8.541/1992: 'Esta lei entra em vigor na data de sua publicação e produzirá efeitos a partir de 1º de janeiro de "
+         "1993' (DOU 24.12.1992): from 1.1.1993"),
+        ("lei-7713-de-1988", "mp-451-2008", "2008-12-16", [(ALL, "2009-01-01")],
+         "Medida Provisória 451/2008: 'produzindo efeitos: I - a partir de 1º de janeiro de 2009, em relação ao disposto: a) "
+         "nos arts. 3º a 5º [...]' (DOU 16.12.2008): its art. 5 (Lei 7.713 art. 6) from 1.1.2009"),
+        ("lei-7713-de-1988", "mp-528-2011", "2011-03-28", [(ALL, "2011-04-01")],
+         "Medida Provisória 528/2011 art. 4: 'produzindo efeitos em relação aos arts. 1º a 3º: I - a partir de 1º de janeiro "
+         "de 2011, para fins do disposto no parágrafo único do art. 1º da Lei nº 11.482 [...]; II - a partir de 1º de abril de "
+         "2011, para os demais casos' (DOU 28.3.2011): its art. 2 (Lei 7.713 art. 6) falls under II, from 1.4.2011"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,
