@@ -96,7 +96,12 @@ B.ACT_LAWS.clear()
 B.ACT_LAWS.update({k: v for k, v in ACT_LAWS_ALL.items() if any(a["law"] == k for a in ACTS)})
 
 B.EXPLAINED.clear()
-B.EXPLAINED.update({})
+B.EXPLAINED.update({
+    "estatuto-do-desarmamento": {
+        "art-06": "the consolidated page prints the editorial note '(Expressões declaradas inconstitucionais pela ADIN "
+                  "5538)' inside the line of inciso III; the history leaves the note out",
+    },
+})
 
 SRC = HERE / "sources_batch8.json"
 B5.SRC = SRC
@@ -328,6 +333,10 @@ def lifespans(paras: list[dict], cx) -> list[str]:
         p.update(fields)
         p["pinned"] = True
         SPAN_USED.append(why)
+    # an 'ends before it starts' problem on a line set aside here by hand is settled
+    left_out = {f"{p['unit']} [{p['label']}] {p['start']}" for p in paras if p.get("pinned") and p.get("skip")}
+    problems = [x for x in problems if not (x.startswith("ends before it starts: ")
+                                            and x[len("ends before it starts: "):].split("..")[0] in left_out)]
     problems += [f"span fix not matched: {x}" for x in SPAN_MISSED if x.split()[0] == cx.act]
     return problems
 
