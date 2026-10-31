@@ -243,6 +243,17 @@
    }
   },
   {
+   "id": "law:lei-14002-2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L14002.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261016234756",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170348699.93/warc/CC-MAIN-20261016225555-20261017015555-00541.warc.gz",
+    "offset": "775857772",
+    "length": "14869"
+   }
+  },
+  {
    "id": "law:lei-14009-2020",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Lei/L14009.htm",
    "cc": {

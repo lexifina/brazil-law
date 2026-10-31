@@ -154,7 +154,13 @@ B.ACT_LAWS.clear()
 B.ACT_LAWS.update({k: v for k, v in ACT_LAWS_ALL.items() if any(a["law"] == k for a in ACTS)})
 
 B.EXPLAINED.clear()
+_Q = B7._QUOTED
 B.EXPLAINED.update({
+    "lei-dos-crimes-hediondos": {"art-159": _Q.format(x="§ 1º. / § 2º. / § 3º."), "art-223": _Q.format(x="Parágrafo único.")},
+    "lei-de-introducao-as-normas-do-direito-brasileiro": {
+        "art-15": "spelling: 'reúna' (annotated page) / 'reuna' (consolidated page)"},
+    "estatuto-da-pessoa-com-deficiencia": {"art-101": _Q.format(x="§ 2º."), "art-104": _Q.format(x="§ 2º."),
+                                            "art-114": _Q.format(x="§ 1º.")},
     "estatuto-do-desarmamento": {
         "art-06": "the consolidated page prints the editorial note '(Expressões declaradas inconstitucionais pela ADIN "
                   "5538)' inside the line of inciso III; the history leaves the note out",
