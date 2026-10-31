@@ -135,8 +135,10 @@ LABEL_FIX: list[tuple[str, str, str, str, str]] = [
      "784's own text)"),
 ]
 LABEL_USED: list[str] = []
-# (b) a court's note printed inside the line's text: (act page, unit, label, note) -> moved to the notes
-NOTE_IN_TEXT: list[tuple[str, str, str, str]] = [
+# (b) a line with words struck by a court whose note is printed inside the text: (act page, unit, label, note) -> two
+#     wordings, the full line (struck words kept) and the unstruck words, the note dropped from both; their days are
+#     set in SPAN_FIX
+COURT_SPLIT: list[tuple[str, str, str, str]] = [
     ("edes", "art-06", "III -", "(Expressões declaradas inconstitucionais pela ADIN 5538)"),
 ]
 _paragraphs8 = P.paragraphs
@@ -146,6 +148,22 @@ _PAGE_OF_HTML: dict[int, str] = {}
 def paragraphs(html: str, digits: int):
     out, rest = _paragraphs8(html, digits)
     page = CURRENT_PAGE[0]
+    res = []
+    for p in out:
+        hit = next((c for c in COURT_SPLIT if c[0] == page and p["unit"] == c[1] and p["label"] == c[2]
+                    and p["state"] == "mixed" and c[3] in p["text"]), None)
+        if hit is None:
+            res.append(p)
+            continue
+        base = {k: v for k, v in p.items() if k not in ("text", "state", "notes", "plain_text", "struck_text")}
+        for state, t in (("struck", p["text"]), ("plain", p["plain_text"])):
+            t = P.norm(t.replace(hit[3], " "))
+            t = re.sub(r"\s+([,;.])", r"\1", t)
+            res.append({**base, "text": t, "state": state, "notes": list(p["notes"]), "plain_text": "",
+                        "struck_text": "", "court_split": state})
+    out = res
+    for i, p in enumerate(out):
+        p["i"] = i
     for p in out:
         for pg, start, fixed, label, why in LABEL_FIX:
             if pg == page and p["text"].startswith(start):
@@ -228,7 +246,8 @@ def lifespans(paras: list[dict], cx) -> list[str]:
     for (act, unit, label, start, nth), fields, why in SPAN_FIX:
         if act != cx.act:
             continue
-        hits = [p for p in paras if p["unit"] == unit and p["label"] == label and _norm(p["text"]).startswith(_norm(start))]
+        hits = [p for p in paras if p["unit"] == unit and p["label"] == label and _norm(p["text"]).startswith(_norm(start))
+                and not p["heading"]]
         if len(hits) <= nth:
             SPAN_MISSED.append(f"{act} {unit} [{label}] #{nth} {start[:50]!r}")
             continue
