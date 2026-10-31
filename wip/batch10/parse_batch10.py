@@ -250,6 +250,7 @@ P.NOTE_FIX.update({
         "(Incluído pela Medida Provisória nº 513, de 2010)", "as the 'Redação dada' notes of MP 513/2010"),
 })
 _E = "estatuto-dos-militares"
+SAN_ACT = "lei-do-saneamento-basico"
 B8.LABEL_FIX[:] = [
     ("emil", "lll - os da reserva remunerada", "III - os da reserva remunerada", "III -",
      "Estatuto dos Militares art. 3 § 1º b) III in Lei 9.442/1997's wording is printed with the letter l for the numeral "
@@ -273,6 +274,31 @@ B8.SPAN_FIX += [
     (("estatuto-do-torcedor", "art-13", "Parágrafo único", "", 0), {"start": "2003-11-17", "start_law": "lei-10671-2003"},
      "Estatuto do Torcedor art. 13 parágrafo único and arts. 18, 22, 25 and 33: art. 44 puts them in force 'após seis "
      "meses da publicação desta Lei' (DOU 16.5.2003), so they enter the history on 17.11.2003, credited to Lei 10.671/2003"),
+]
+_G844 = ("2018-07-09", "2018-11-20", "mp-844-2018", "mp-844-2018-fim")
+_G868 = ("2018-12-28", "2019-06-04", "mp-868-2018", "mp-868-2018-fim")
+_W29 = ("Lei do Saneamento Básico art. 29 caput I to III: the 2007 wording, printed again below MP 868/2018's wording as "
+        "restored when MP 844/2018 lapsed (20.11.2018), stands until Lei 14.026/2020 except while MP 868 was in force "
+        "(28.12.2018 to 4.6.2019)")
+_W35 = ("Lei do Saneamento Básico art. 35 I to III: the 2007 incisos stand from 2007 until Lei 14.026/2020 (III to this "
+        "day) except while MP 844/2018 (9.7.2018 to 20.11.2018) and MP 868/2018 (28.12.2018 to 4.6.2019) gave the article "
+        "their own incisos; the copies Planalto prints between the MPs' incisos are the same wordings and are left out")
+B8.SPAN_FIX += [
+    ((SAN_ACT, "art-29", lab, start, 1), {"start": "2018-11-20", "start_law": "mp-844-2018-fim", "gaps": [_G868]}, _W29)
+    for lab, start in (("I -", "I - de abastecimento de água e esgotamento sanitário: preferencialmente"),
+                       ("II -", "II - de limpeza urbana e manejo de resíduos sólidos urbanos: taxas"),
+                       ("III -", "III - de manejo de águas pluviais urbanas: na forma"))
+] + [
+    ((SAN_ACT, "art-35", lab, start, n), fields, _W35)
+    for lab, start in (("I -", "I - o nível de renda"), ("II -", "II - as características dos lotes urbanos"),
+                       ("III -", "III - o peso ou o volume médio"))
+    for n, fields in ((0, {"skip": True}), (1, {"start": "2007-02-22", "start_law": None, "gaps": [_G844, _G868]}))
+] + [
+    ((SAN_ACT, "art-35", lab, start, 0), {"end": "2018-11-20", "end_law": "mp-844-2018-fim", "end_how": "lapse"},
+     "Lei do Saneamento Básico art. 35: MP 844/2018's incisos I to III ('Vigência encerrada') end when it lapsed, "
+     "20.11.2018 (the date-order rule had carried them to 4.6.2019)")
+    for lab, start in (("I -", "I - a destinação adequada"), ("II -", "II - o nível de renda"),
+                       ("III -", "III - as características dos lotes e"))
 ]
 B.EXPLAINED.update({
     _E: {"art-098": "the consolidated page keeps the placeholder 'XIV -;' for the inciso Lei 9.297/1996 revoked; the history "
@@ -366,6 +392,61 @@ def lifespans(paras, cx):
 
 
 P.lifespans = B.lifespans = lifespans
+
+# Lei do Saneamento Básico, 2018-2020: MP 844/2018 (in force 9.7.2018, lapsed 20.11.2018) and MP 868/2018 (28.12.2018,
+# lapsed 4.6.2019) each rewrote whole articles, and Planalto prints such an article as a run of blocks: the 2007 text
+# (struck), MP 844's text (struck), the 2007 text again as it stood after MP 844 lapsed (struck), MP 868's text (struck)
+# and the 2007 text once more, as it stood after MP 868 lapsed (with Lei 14.026/2020's changes from 15.7.2020). The
+# replay dates each copy from its notes, so copies overlap. Here every line of such an article that is not an MP's own
+# wording is held to its block's window: before MP 844; between the two MPs; after MP 868 lapsed.
+SAN_MPS = ("mp-844-2018", "mp-868-2018")
+SAN_WINDOWS = [(None, "2018-07-09"), ("2018-11-20", "2018-12-28"), ("2019-06-04", None)]
+SAN_USED: list[str] = []
+_lifespans_san = P.lifespans
+
+
+def lifespans_san(paras, cx):
+    problems = _lifespans_san(paras, cx)
+    if cx.act != SAN_ACT:
+        return problems
+    for unit in dict.fromkeys(p["unit"] for p in paras):
+        rows = [p for p in paras if p["unit"] == unit]
+        seq, seg = [], 0      # block of each line: 0 before MP 844's run, 1 between the runs, 2 after MP 868's run
+        for p in rows:
+            mp = p["start_law"] if p["start_law"] in SAN_MPS else None
+            if mp == SAN_MPS[0]:
+                seg = max(seg, 1)
+            elif mp == SAN_MPS[1]:
+                seg = 2
+            seq.append((p, mp, seg))
+        segs = {s for p, mp, s in seq if not mp}
+        if not ({0, 1, 2} <= segs and any(mp == SAN_MPS[0] for _, mp, _ in seq) and any(mp == SAN_MPS[1] for _, mp, _ in seq)):
+            continue
+        from collections import Counter as _C
+        key = lambda p: (p["label"], _flat(P.norm(p["text"])))
+        copies = _C(key(p) for p, mp, s in seq if not mp and not p.get("heading"))
+        touched = False
+        for p, mp, s in seq:
+            if mp or p.get("heading") or copies[key(p)] < 2:
+                continue   # only a wording Planalto prints more than once is a copy of a block
+            touched = True
+            lo, hi = SAN_WINDOWS[s]
+            start = max(p["start"], lo) if lo else p["start"]
+            end = min(p["end"], hi) if (p["end"] and hi) else (p["end"] or hi)
+            if p["start"] != start:
+                p["start"], p["start_law"] = start, ("mp-844-2018-fim" if s == 1 else "mp-868-2018-fim")
+            if end != p["end"]:
+                p["end"], p["end_law"], p["end_how"] = end, (SAN_MPS[0] if s == 0 else SAN_MPS[1]), "san-block"
+            p["gaps"] = []
+            if end and start >= end:
+                p["skip"] = True
+            p["pinned"] = True
+        if touched:
+            SAN_USED.append(unit)
+    return problems
+
+
+P.lifespans = B.lifespans = lifespans_san if not __import__('os').environ.get('NOSAN') else lifespans
 _build_act10 = P.build_act
 B9.REPEALS["estatuto-do-torcedor"] = (
     "2023-06-15", "lei-14597-2023",
@@ -402,6 +483,15 @@ _inner10 = B6.PB5B._write_part5
 
 def _inner(*a) -> int:
     B5.EXTRA_DECISIONS.extend(x + "." for x in dict.fromkeys(OWN_PROMULGATION_USED))
+    if SAN_USED:
+        B5.EXTRA_DECISIONS.append(
+            "Lei do Saneamento Básico, 9.7.2018 to 15.7.2020: Medida Provisória nº 844/2018 (in force 9.7.2018, lapsed "
+            "20.11.2018, Ato Declaratório 70/2018) and nº 868/2018 (in force 28.12.2018, lapsed 4.6.2019, Ato Declaratório "
+            "36/2019) each rewrote whole articles; Planalto prints such an article as the 2007 text, MP 844's text, the "
+            "2007 text again, MP 868's text and the 2007 text once more (with Lei 14.026/2020's changes). Each copy of "
+            "the 2007 text is held to its own period (until 9.7.2018; 20.11.2018 to 28.12.2018; from 4.6.2019), so the "
+            "act reads as before each MP once it lapsed: " + ", ".join(dict.fromkeys(SAN_USED)) + ".")
+    return _inner10(*a)
     return _inner10(*a)
 
 

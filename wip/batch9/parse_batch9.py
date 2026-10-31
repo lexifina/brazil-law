@@ -283,6 +283,15 @@ B8.SPAN_FIX[:] = [
      "8.883/1994 recast § 2º into incisos I to IV, the convite's period becoming inciso IV ('IV - cinco dias úteis para "
      "convite.'), so it ends with that law (in force 9.6.1994)"),
 ]
+_W36B = ("LDB art. 36-B: Lei 14.645/2023 (in force 3.8.2023) renumbered the Parágrafo único as § 1º and added §§ 2º and "
+         "3º; Planalto prints the struck Parágrafo único with its incisos I to III and then the § 1º with the same incisos, "
+         "unstruck and with Lei 11.741/2008's note, so these start with the renumbering, when the struck copies end")
+B8.SPAN_FIX += [
+    (("lei-de-diretrizes-e-bases-da-educacao", "art-36-b", lab, start, 1),
+     {"start": "2023-08-03", "start_law": "lei-14645-2023"}, _W36B)
+    for lab, start in (("I -", "I - os objetivos e definições"), ("II -", "II - as normas complementares"),
+                       ("III -", "III - as exigências de cada instituição"))
+]
 # Código Florestal
 _CF = "codigo-florestal"
 B8.COURT_SPLIT[:] = [("cflo", "art-03", "b)", "")]
