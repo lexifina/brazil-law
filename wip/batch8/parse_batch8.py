@@ -232,6 +232,77 @@ SPAN_FIX += [
      "pela Medida Provisória nº 893, de 2019)' and '(Revogado pela Lei nº 13.974, de 2020)': MP 893 art. 15 revoked the "
      "whole of art. 16, so it ends on 20.8.2019 (the consolidated page leaves art. 16 out)"),
 ]
+_E = "estatuto-do-desarmamento"
+F379 = {"end": "2007-09-18", "end_law": "mp-390-2007", "end_how": "revoked-mp"}
+G379 = [("2007-06-29", "2007-09-18", "mp-379-2007", "mp-390-2007")]
+_W379 = ("Medida Provisória nº 379/2007 (DOU 29.6.2007) rewrote Estatuto do Desarmamento arts. 5 § 3º, 6 §§ 1º-2º, 11 § 2º "
+         "and 28 and added arts. 5 § 4º, 11 § 3º and 11-A; Medida Provisória nº 390/2007 (DOU 18.9.2007, edição extra; in "
+         "force on publication; converted, Lei 11.579/2007) art. 1: 'Fica revogada a Medida Provisória nº 379, de 28 de "
+         "junho de 2007'. MP 379's wordings end on 18.9.2007 and the wordings in force before it stand again (Planalto "
+         "prints them once more with the note 'Vide Medida Provisória nº 390, de 2007', or, for art. 6 § 1º, unnoted "
+         "under MP 379's wording)")
+_W379b = ("Estatuto do Desarmamento art. 11 § 2º: under the note 'Vide Medida Provisória nº 390, de 2007' Planalto prints "
+          "the wording Medida Provisória nº 417/2008 later gave the paragraph, not the 2003 wording that MP 390's "
+          "revocation of MP 379 restored; the 2003 wording (printed first) stands from 18.9.2007 until MP 417, and the "
+          "line under the MP 390 note is left out")
+_W394 = ("Estatuto do Desarmamento art. 5 § 3º: Medida Provisória nº 394/2007 (DOU 21.9.2007) rewrote it; the STF "
+         "suspended MP 394's efficacy (ADI 3.964 MC, 12.12.2007, see the ruling), so the wording in force before it (the "
+         "2003 wording, restored by MP 390) stands again from 12.12.2007 until Medida Provisória nº 417/2008 (in force "
+         "1.2.2008)")
+_W5948 = ("Estatuto do Desarmamento art. 6 III and IV: STF, ADI 5.948 MC (decisão monocrática, Min. Alexandre de Moraes, "
+          "29.6.2018, ad referendum do Plenário): 'CONCEDO A MEDIDA CAUTELAR PLEITEADA [...] DETERMINANDO A IMEDIATA "
+          "SUSPENSÃO DA EFICÁCIA das expressões das capitais dos Estados e com mais de 500.000 (quinhentos mil) "
+          "habitantes, no inciso III, bem como o inciso IV, ambos do art. 6º da Lei Federal nº 10.826/2003'; the "
+          "Plenário made it final in ADI 5.538, ADI 5.948 and ADC 38 (virtual session ended 27.2.2021, Informativo STF "
+          "1007), changing no further words. Planalto strikes the words noting ADIN 5538; the history drops them from "
+          "29.6.2018, the decision's day (the DJe day of its publication is not in the records read), credited to the "
+          "cautelar")
+SPAN_FIX += [
+    ((_E, "art-05", "§ 3º", "", 1), F379, _W379),
+    ((_E, "art-05", "§ 3º", "", 2), {"start": "2007-09-18", "start_law": "mp-390-2007", "end": "2008-02-01",
+                                     "end_law": "mp-417-2008", "end_how": "successor",
+                                     "gaps": [("2007-09-21", "2007-12-12", "mp-394-2007", "stf-adi-3964")]}, _W394),
+    ((_E, "art-05", "§ 3º", "", 3), {"end": "2007-12-12", "end_law": "stf-adi-3964", "end_how": "court"}, _W394),
+    ((_E, "art-05", "§ 4º", "", 0), F379, _W379),
+    ((_E, "art-06", "§ 1º", "", 0), F379, _W379),
+    ((_E, "art-06", "§ 1º", "", 1), {"start": "2003-12-23", "start_law": None, "gaps": G379, "end": "2008-06-20",
+                                     "end_law": "lei-11706-2008", "end_how": "successor"}, _W379),
+    ((_E, "art-06", "§ 2º", "", 0), F379, _W379),
+    ((_E, "art-06", "§ 2º", "", 1), {"start": "2003-12-23", "start_law": None, "gaps": G379, "end": "2008-02-01",
+                                     "end_law": "mp-417-2008", "end_how": "successor"}, _W379),
+    ((_E, "art-11", "§ 2º", "", 0), {"gaps": G379, "end": "2008-02-01", "end_law": "mp-417-2008",
+                                     "end_how": "successor"}, _W379b),
+    ((_E, "art-11", "§ 2º", "", 1), F379, _W379),
+    ((_E, "art-11", "§ 2º", "", 2), {"skip": True}, _W379b),
+    ((_E, "art-11", "§ 3º", "", 0), F379, _W379),
+    ((_E, "art-11-a", "Art. 11-A", "", 0), F379, _W379),
+    ((_E, "art-11-a", "§ 1º", "", 0), F379, _W379),
+    ((_E, "art-11-a", "§ 2º", "", 0), F379, _W379),
+    ((_E, "art-11-a", "§ 3º", "", 0), F379, _W379),
+    ((_E, "art-28", "Art. 28", "", 1), F379, _W379),
+    ((_E, "art-28", "Art. 28", "", 2), {"start": "2007-09-18", "start_law": "mp-390-2007"}, _W379),
+    ((_E, "art-06", "III -", "III - os integrantes das guardas municipais das capitais", 0),
+     {"end": "2018-06-29", "end_law": "stf-adi-5948", "end_how": "court"}, _W5948),
+    ((_E, "art-06", "III -", "III - os integrantes das guardas municipais e dos Municípios", 0),
+     {"start": "2018-06-29", "start_law": "stf-adi-5948", "end": None, "end_law": None, "end_how": None}, _W5948),
+    ((_E, "art-06", "IV -", "IV - os integrantes das guardas municipais dos Municípios com mais de 50.000", 0),
+     {"end": "2018-06-29", "end_law": "stf-adi-5948", "end_how": "court"}, _W5948),
+]
+P.COURTS["stf-adi-5948"] = {
+    "label": "STF, ADI 5.948 (medida cautelar)", "kind": "court", "enacted": "2018-06-29", "published": "2018-06-29",
+    "title": "Ação direta de inconstitucionalidade 5.948, medida cautelar: suspende a eficácia das expressões 'das capitais "
+             "dos Estados' e 'com mais de 500.000 (quinhentos mil) habitantes', no inciso III, e do inciso IV do art. 6º da "
+             "Lei nº 10.826, de 2003",
+    "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/ADI5948MCGuardasmunicipais.pdf",
+    "from": "2018-06-29", "case": r"5\.?948", "where": [], "why": _W5948}
+P.MP_PENDING.update({
+    "mp-379-2007": "Medida Provisória nº 379, de 28.6.2007 (DOU 29.6.2007), 'Revogada pela Medida Provisória nº 390, de "
+                   "2007' and 'Revogada pela Lei nº 11.579, de 2007' on its page: its wordings end on 18.9.2007 (set by "
+                   "hand, see the life-span decisions)",
+    "mp-394-2007": "Medida Provisória nº 394, de 20.9.2007 (DOU 21.9.2007): efficacy suspended by the STF (ADI 3.964 MC, "
+                   "12.12.2007), declared prejudicada on 7.2.2013 (Chamber of Deputies' record); its wording ends on "
+                   "12.12.2007 (set by hand)",
+})
 SPAN_USED: list[str] = []
 SPAN_MISSED: list[str] = []
 _lifespans8 = P.lifespans
