@@ -128,6 +128,8 @@ ALL_ACTS: list[dict] = [
          "Contribuição Social sobre o Lucro Líquido - CSLL (Lei nº 7.689, de 15 de dezembro de 1988)", 2),
     _act("lei-9249-de-1995", "L9249", "l9249", "l9249", "lei-9249-1995",
          "Imposto de renda das pessoas jurídicas e CSLL (Lei nº 9.249, de 26 de dezembro de 1995)", 2),
+    _act("lei-9250-de-1995", "L9250", "l9250", "l9250-compilado", "lei-9250-1995",
+         "Imposto de renda das pessoas físicas (Lei nº 9.250, de 26 de dezembro de 1995)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -140,6 +142,7 @@ PARTS: dict[str, list[str]] = {
     "f": ["lei-da-faixa-de-fronteira", "lei-9469-de-1997", "lei-da-seguranca-do-trafego-aquaviario"],
     "g": ["lei-do-susp", "lei-do-mercado-de-capitais"],
     "h": ["lei-da-csll", "lei-9249-de-1995"],
+    "i": ["lei-9250-de-1995"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -189,6 +192,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-9249-1995": ("1996-01-01", "Lei 9.249/1995 art. 35: 'Esta Lei entra em vigor na data de sua publicação, produzindo "
                                     "efeitos a partir de 1º de janeiro de 1996' (DOU 27.12.1995): dated by the day it takes "
                                     "effect"),
+    "lei-9250-1995": ("1995-12-27", f"Lei 9.250/1995 art. 41: {_PUB} (DOU 27.12.1995)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -263,6 +267,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-9249-1995": _L("Lei nº 9.249, de 1995", "Altera a legislação do imposto de renda das pessoas jurídicas, bem como da "
                         "contribuição social sobre o lucro líquido, e dá outras providências.", "1995-12-26", "1995-12-27",
                         PAGES["l9249"]),
+    "lei-9250-1995": _L("Lei nº 9.250, de 1995", "Altera a legislação do imposto de renda das pessoas físicas e dá outras "
+                        "providências.", "1995-12-26", "1995-12-27", PAGES["l9250"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -496,6 +502,7 @@ QUOTED_HEADINGS: list[str] = []
 # the article (which wording of another act it refers to), not an amendment note; the reader takes them for a bare note.
 BARE_TEXT = {"l7689": "art-11", "l9249": "art-14"}
 BARE_TEXT_USED: list[str] = []
+QUOTE_DROPPED: list[str] = []
 _BARE_RX = re.compile(r"\(?\s*(reda[çc][ãa]o dada pelo Decreto-Lei n[º°.]?\s*[\d.]+, de \d{1,2} de \w+ de \d{4}\.?)\s*\)?", re.I)
 _paragraphs17 = P.paragraphs
 
@@ -522,6 +529,15 @@ def paragraphs(html, digits):
                 p["text"] = p["text"].rstrip() + " " + m.group(1)
                 p["notes"] = [x for x in p["notes"] if x != n]
                 BARE_TEXT_USED.append(f"{page} {p['unit']}")
+    if page == "l9249":
+        # Lei 9.249 art. 9 caput as Medida Provisória 694/2015 worded it: the page leaves the opening quotation mark of the
+        # MP's quoted text before the line ('“ Art. 9º [...]'), so the line had no label
+        for p in out:
+            m = re.match(r"^[\"'“”]\s*(Art\. 9º)\s", p["text"]) if p["unit"] == "art-09" else None
+            if m:
+                p["text"] = p["text"][m.start(1):]
+                p["label"] = "Art. 9º"
+                QUOTE_DROPPED.append("Lei 9.249 art. 9")
     if page == "l11105":
         # Lei 11.105 art. 37 quotes Lei 6.938's Anexo VIII ('"ANEXO VIII' and a table): the quoted annex title is a line
         # of art. 37, not a heading of Lei 11.105; an empty centred line after it is dropped
@@ -655,6 +671,13 @@ B13.OPEN_ITEMS[_L9249] = (
     "Lei 9.249 (open items): Lei 9.430/1996's changes are dated by its in-force day (30.12.1996): its 'efeitos financeiros a "
     "partir de 1º de janeiro de 1997' are financial effects only; 'Vide' pointers (Decreto 6.306/2007, Lei 11.119/2005, "
     "Medida Provisória 1.303/2025) are not modelled")
+_W9 = ("Lei 9.249 art. 9 caput and § 2º: Medida Provisória 694/2015 gave them new wordings with effect from 1.1.2016 and lapsed on "
+       "8.3.2016 (Ato Declaratório nº 5/2016); Planalto prints the 1995 caput again, unstruck, below the MP's struck wording: "
+       "that copy is the caput in force again from 9.3.2016, not from 1996")
+B8.SPAN_FIX += [
+    ((_L9249, "art-09", "Art. 9º", "Art. 9º A pessoa jurídica poderá deduzir", 2),
+     {"start": "2016-03-09", "start_law": "mp-694-2015-fim", "restored": True}, _W9),
+]
 P.MP_LAPSE["mp-694-2015"] = (
     "2016-03-09", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 5, de 2016 (DOU 10.3.2016): 'teve seu prazo "
                   "de vigência encerrado no dia 8 de março do corrente ano'; the wording it had replaced is back from 9.3.2016")
@@ -706,6 +729,9 @@ def _inner(*a):
         dec.append("Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº [...]' (Decretos-"
                    "Leis 2.449/1988 and 1.730/1979): these words name the wording of the other act the article refers to; they "
                    "are part of the article's text, not an amendment note (" + ", ".join(BARE_TEXT_USED) + ").")
+    if QUOTE_DROPPED:
+        dec.append("Lei 9.249 art. 9: the caput as Medida Provisória 694/2015 worded it (1.1.2016 to its lapse on 8.3.2016) is "
+                   "printed after the opening quotation mark of the MP's quoted text; the mark is left out.")
     if PROMULGATED_USED:
         dec.append("Lei 13.675: Lei 14.531/2023 (DOU 11.1.2023, in force on publication) added art. 9 § 2º XVII and art. 42-A "
                    "§ 7º, but they were vetoed; Congress overrode the vetoes and they were promulgated in the DOU of 19.7.2023 "

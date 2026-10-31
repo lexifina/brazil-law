@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-g PUBLISHed, 21 acts, 135 versions; merged 147 acts, 2529 versions; part h (tax laws) configured but not published; next steps in batch17/PROGRESS.md)
+CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-h PUBLISHed, 23 acts, 170 versions; merged 149 acts, 2564 versions; next: Leis 9.250, 7.713, 9.430 (pages pinned), then 13.465, 11.977; see batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 
@@ -177,3 +177,4 @@ Batch 17 (2026-10-31): small parts 99-batch17a, b, ... 99-batch17a PUBLISHed: Le
 99-batch17e PUBLISHed: Lei da Mobilidade Urbana 12.587/2012 (13 versions; MP 748 lapse, MP 818/906 chain on art. 24); merged 142 acts, 2489 versions, 1999 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (142 acts).
 99-batch17f PUBLISHed: Lei da Faixa de Fronteira 6.634/1979 (Lei 14.004 vetoed part promulgated 8.9.2020), Lei 9.469/1997, Lei de Segurança do Tráfego Aquaviário 9.537/1997 (16 versions); merged 145 acts, 2505 versions, 2008 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (145 acts).
 99-batch17g PUBLISHed: Lei do Susp 13.675/2018 (Lei 14.531 vetoed parts promulgated 19.7.2023), Lei do Mercado de Capitais 4.728/1965 (Lei 14.754 effect day 1.1.2024 via effects_fix) (24 versions); merged 147 acts, 2529 versions, 2025 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (147 acts).
+99-batch17h PUBLISHed: Lei 7.689/1988 (CSLL) and Lei 9.249/1995 (35 versions; MP effect days by hand, 14 effect-day moves, Lei 15.525/2026 changes on futuro 2027/2030, Lei 7.689 art. 8 left out: Senate resolution 11/1995 not available); merged 149 acts, 2564 versions, 2048 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (149 acts).

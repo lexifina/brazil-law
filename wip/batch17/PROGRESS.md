@@ -104,30 +104,38 @@ Lei do Susp 13.675/2018 (8 versions; in force 12.7.2018), Lei do Mercado de Capi
 - Part sha 7cf8eca0 (pre-effects 31f78f16); merged 147 acts, 2529 versions, 2025 commits, check 0/0, compare identical,
   audit clean. README rows + jurisdiction.json (147 acts).
 
-## State at handoff (batch 17, second session, 2026-10-31)
-Parts 99-batch17a..g installed with .PUBLISH (21 acts, 135 versions; merged 147 acts, 2529 versions, 2025 commits, check
-0/0, --compare identical, audit clean). README rows + jurisdiction.json (147 acts) current. effects_fix.py MOVES for
-99-batch17a and 99-batch17g. Fresh parses of b, e, f after this session's edits equal the installed parts except
-sources[0].requests (b, e; known). No background processes left running (every run foreground through .tmp/run.py; all
-PIDs exited). Robots note: portal.stf.jus.br/robots.txt now Disallows /processos (one redirect lookup for ADI 2.527 was
-made before reading it); read no STF case pages.
+## 99-batch17h - PUBLISHed 2026-10-31 (second session)
+Lei 7.689/1988 CSLL (18 versions, 1988-12-16 .. 2027-01-01 on futuro), Lei 9.249/1995 (17, 1996-01-01 .. 2030-01-01 on
+futuro) = 35 versions. Coordinator confirmed: Lei 9.249 dated by its effects clause (ACT_DAY 1.1.1996).
+- Scoped to part h's acts: VIGENCIA_FIXED mp-675-2015 1.9.2015, mp-1034-2021 1.7.2021 (art. 5 II), mp-694-2015 1.1.2016
+  (art. 4 I). MP_LAPSE mp-694-2015 9.3.2016 (ato:adc-5-2016-mpv694 pinned from CC). LexML: Lei 8.034/1990 -> 13.4.1990.
+- BARE_TEXT (paragraphs wrapper): 'com a redação dada pelo Decreto-Lei nº ...' kept as text in l7689 art-11, l9249 art-14
+  (the reader had cut the sentence at 'com a' and credited DL 2.449 / DL 1.730 on the first day).
+- l9249 art-09: opening quote before MP 694's caput dropped and label set (wrapper; B15.TEXT_FIX is a plain substring and
+  does not relabel); SPAN_FIX nth=2 restores the 1995 caput from 9.3.2016.
+- effects_fix MOVES "99-batch17h.json": 14 moves (see PUBLISH). Kept in-force day: Lei 9.430 (financial effects), Lei
+  11.727 art. 17 / 13.169 / 14.446 (retroactive to the MP's day).
+- OPEN_ITEMS: Lei 7.689 art. 8 LEFT OUT: struck '(Execução suspensa pela RSF nº 11, de 1995)'; every crawl of Planalto's
+  RSF page is a 404, Arquivo.pt has no Chamber legin copy, so the suspension cannot be dated (the parser skips it). L9249:
+  Lei 9.430 financial effects, Vide pointers.
+- Benign check flags: dupline 'label II-B/II-C' (Lei 7.689 art. 3 on 1.4.2026; text read, correct), leakcheck '(revogado)'.
+- Part sha 61170d5e (pre-effects 621d32ca); merged 149 acts, 2564 versions, 2048 commits, check 0/0, compare identical,
+  audit clean. README rows + jurisdiction.json (149 acts).
+- New tools: .tmp/lexml1.py (one LexML record per 6 s), .tmp/ptlist.py (Arquivo.pt prefix list).
 
-## Part h - configured, NOT published (Lei 7.689/1988 CSLL, Lei 9.249/1995)
-PAGES for all five tax laws pinned (l7689, l9249, l9250 + compilado, l7713 + compilada, l9430 + compilada; `pages` done).
-Acts, ACT_DAY, ACT_LAWS and PARTS["h"] are in parse_batch17.py; `laws` + `missing` fetched for h. Judgement call taken
-in config: Lei 9.249's first version dated 1.1.1996 (art. 35: in force on publication 27.12.1995, 'produzindo efeitos a
-partir de 1º de janeiro de 1996'); revisit if the coordinator prefers the in-force day. Trial h-t1: 0 consolidated diffs,
-but 8 problems and a crash (KeyError mp-1034-2021 in mp_notes):
-- VIGENCIA_FIXED needed: mp-675-2015 ('a partir do primeiro dia do quarto mês subsequente ao de sua publicação': DOU
-  22.5.2015 -> 1.9.2015; converted into Lei 13.169/2015); mp-1034-2021 (I art. 2 on publication; II others from the 1st day
-  of the 4th month after the DOU of 1.3.2021 -> 1.7.2021; read which article touches Lei 7.689; conversion Lei 14.183/2021).
-- MP_LAPSE mp-694-2015 (Lei 9.249): pin its Ato Declaratório of lapse (see how ato:adc-* pins were made in
-  sources_batch17.json / batch16 gaps) and read the day.
-- Then effect days: many amenders carry 'produção de efeitos' clauses (Lei 12.973/2014, 13.169/2015, 14.183/2021,
-  14.446/2022, 11.727/2008, MP 413/2008, LC 224/2025, LC 225/2026, Lei 15.270/2025, 15.525/2026; MP 1.303/2025 lapsed):
-  read each and add MOVES "99-batch17h.json" in effects_fix.py where a later fixed day applies.
-- Lei 9.250, 7.713, 9.430 not configured yet (9.430: 547 notes, 608 struck runs; 7.713: 328/314; 9.250: 293/192).
-Leis 13.465/2017 and 11.977/2009 (+compilado) not started (pages in the CC index).
+## State at handoff (batch 17, second session, 2026-10-31)
+Parts 99-batch17a..h installed with .PUBLISH (23 acts, 170 versions; merged 149 acts, 2564 versions, 2048 commits, check
+0/0, --compare identical, audit clean). README rows + jurisdiction.json (149 acts) current. effects_fix.py MOVES for
+99-batch17a, g, h. Fresh parses of b, e, f after this session's edits equal the installed parts except
+sources[0].requests (known). No background processes left running (all runs foreground via .tmp/run.py; PIDs exited).
+Robots: read a host's robots.txt before the first request to it (coordinator). portal.stf.jus.br Disallows /processos.
+
+## Next (tax laws, configured pages only)
+Pages pinned for Lei 9.250 (+compilado), 7.713 (+compilada), 9.430 (+compilada): PAGES entries exist, acts not configured.
+Sizes: 9.250 293 notes / 192 struck runs; 7.713 328/314; 9.430 547/608. Expect the same work as part h: each MP's and
+law's own vigência/efeitos clause (effrep.py <act number> <law keys>), MP lapses (Atos Declaratórios: search the CC index
+for 'congresso/adc-NNN-mpvNNN'), Senate resolutions, bare 'com a redação dada' tails (BARE_TEXT), then MOVES. Lei 9.250
+first (smallest; Lei 15.270/2025 changes from 1.1.2026). Then Leis 13.465/2017 and 11.977/2009 (+compilado; CC index).
 
 ## Next candidates (pages in the Common Crawl index)
 Lei 13.675/2018, Lei 9.537/1997, Lei 6.634/1979, Lei 9.469/1997 (+compilado), Lei 4.728/1965 (+compilado);
