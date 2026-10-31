@@ -89,7 +89,7 @@ ALL_ACTS: list[dict] = [
 VERIFIED: list[str] = ["lei-de-concessoes", "lei-das-parcerias-publico-privadas", "lei-de-abuso-de-autoridade",
                         "lei-das-inelegibilidades", "lei-8142-de-1990", "lei-geral-do-esporte",
                         "estatuto-dos-militares", "estatuto-do-torcedor", "lei-do-saneamento-basico",
-                        "politica-nacional-do-meio-ambiente"]
+                        "politica-nacional-do-meio-ambiente", "lei-do-petroleo"]
 ENABLED = [s for s in os.environ.get("BATCH10_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
@@ -562,6 +562,72 @@ def san_model(paras):
             keep["end_law"] = end_law0
         SAN_USED.append(unit)
 
+# Lei do Petróleo, 2012-2013 (hand model, read from the pages of Lei 12.734/2012 and MP 592/2012, both pinned):
+# - Lei 12.734/2012 (DOU 30.11.2012, edição extra; art. 5: in force on publication) was sanctioned with its art. 3 (the
+#   new wordings of arts. 48, 49 and 50 and the new arts. 49-A to 49-C and 50-A to 50-F of Lei 9.478) and its art. 4
+#   (revoking art. 49 §§ 1º to 3º and art. 50 § 4º) vetoed whole. Congress overrode the veto and the President promulgated
+#   those parts on 14.3.2013 (DOU 15.3.2013; the promulgation text is printed on Lei 12.734's page). Every Lei 12.734
+#   wording of this act therefore takes effect on 15.3.2013, and the wordings it replaced stand until then. Planalto's
+#   annotated page of Lei 9.478 dates none of this: it prints the 12.734 wordings with the note 'Redação dada / Incluído
+#   pela Lei nº 12.734, de 2012'.
+# - MP 592/2012 (DOU 3.12.2012, edição extra; in force on publication; lapsed, Ato Declaratório 31/2013) added arts. 48-A,
+#   49-A, 50 § 5º, 50-A, 50-B and 81-A and revoked art. 49 § 3º and art. 50 § 4º (its art. 3 I and II; Planalto's page
+#   gives those two paragraphs only '(Vide Medida Provisória nº 592, 2012)'). Its arts. 49-A, 50 § 5º, 50-A and 50-B are
+#   replaced by Lei 12.734's on 15.3.2013 (same dispositivos, later law); its arts. 48-A and 81-A stand until the lapse.
+B.EXPLAINED[_LP] = {
+    "art-08": "the consolidated page prints the two wordings of inciso XI in one paragraph, keeps inciso XVIII as Lei "
+              "14.993/2024 worded it (the annotated page gives Lei 15.103/2025's wording, 'dos biocombustíveis e do "
+              "hidrogênio'), leaves out the '(revogado)' lines of incisos XX to XXII, XXIV and XXV, and ends inciso XXVIII "
+              "with a full stop the annotated page does not print",
+    "art-10": "the consolidated page ends the parágrafo único with the start of its note, '(Parágrafo único'",
+    "art-48": "typesetting: the annotated page prints 'Lei no 12.351' in § 1º and no semicolon after § 1º I ('em 2011'); "
+              "the consolidated page and the promulgation text of Lei 12.734/2012 read 'Lei nº 12.351' and 'em 2011;'",
+    "art-49": "the consolidated page prints art. 49 as it read before Lei 12.734/2012 (incisos I d) and II, §§ 1º to 3º), "
+              "while it prints arts. 48 and 50 in Lei 12.734's wording; the annotated page, and the promulgation text of "
+              "Lei 12.734 (DOU 15.3.2013), give art. 49 the wording the history has (see the ADI 4.917 decision)",
+    "art-68-b": _W68 + " (the '(VETADO)' line is Lei 14.292/2022's)",
+    "art-68-c": _W68,
+}
+LPET_DAY = "2013-03-15"
+LPET_LAW = "lei-12734-2012"
+LPET_MP = "mp-592-2012"
+LPET_MP_DAY = "2012-12-03"
+LPET_MP_REVOKED = {("art-49", "§ 3º"), ("art-50", "§ 4º")}
+LPET_MP_REPLACED = {"art-49-a", "art-50-a", "art-50-b"}   # whole articles; plus art. 50 § 5º below
+LPET_WHY = ("Lei do Petróleo, Lei 12.734/2012: its art. 3 (the new wordings of arts. 48, 49 and 50 and the new arts. 49-A "
+            "to 49-C and 50-A to 50-F) and its art. 4 (revoking art. 49 §§ 1º to 3º and art. 50 § 4º) were vetoed when the "
+            "law was sanctioned (DOU 30.11.2012); Congress overrode the veto and the parts were promulgated on 14.3.2013 "
+            "(DOU 15.3.2013; promulgation text on Lei 12.734's page), so every Lei 12.734 wording of this act takes effect "
+            "on 15.3.2013 (art. 5: in force on publication), credited to Lei 12.734/2012, and the wordings it replaced "
+            "stand until then; Planalto's annotated page of Lei 9.478 does not give that day. Lei 12.734's page notes a "
+            "partial republication on 25.3.2013; the history uses the wordings Planalto prints")
+LPET_MP_WHY = ("Lei do Petróleo, Medida Provisória nº 592/2012 (in force 3.12.2012, lapsed 13.5.2013): its art. 3 I and II "
+               "revoked art. 49 § 3º and art. 50 § 4º (Planalto's page gives them only '(Vide Medida Provisória nº 592, "
+               "2012)'), so those paragraphs end on 3.12.2012, credited to it (Lei 12.734 revoked them again from "
+               "15.3.2013, so the lapse does not restore them); the MP's arts. 49-A, 50 § 5º, 50-A and 50-B end on "
+               "15.3.2013, when Lei 12.734's wordings of the same dispositivos take effect; its arts. 48-A and 81-A stand "
+               "until the lapse")
+LPET_USED: list[str] = []
+_RX12734 = re.compile(r"(Redação dada|Incluíd[oa]|Acrescid[oa]) pela Lei nº 12\.734")
+
+
+def lpet_model(paras):
+    for p in paras:
+        if p.get("heading") or p.get("skip"):
+            continue
+        noted = any(_RX12734.search(n) for n in p["notes"])
+        mp_own = p["start_law"] == LPET_MP or any("Medida Provisória nº 592" in n and "Vide" not in n for n in p["notes"])
+        if noted and p["start"] != LPET_DAY and p["start"] <= "2013-05-13":
+            p["start"], p["start_law"], p["pinned"] = LPET_DAY, LPET_LAW, True
+        elif (p["unit"], p["label"]) in LPET_MP_REVOKED and p["end_law"] == LPET_LAW and p["start"] < LPET_MP_DAY:
+            p["end"], p["end_law"], p["end_how"], p["pinned"] = LPET_MP_DAY, LPET_MP, "note", True
+        elif p["end_law"] == LPET_LAW and p["end"] and p["end"] < LPET_DAY:
+            p["end"], p["pinned"] = LPET_DAY, True
+        elif mp_own and (p["unit"] in LPET_MP_REPLACED or (p["unit"], p["label"]) == ("art-50", "§ 5º")):
+            p["end"], p["end_law"], p["end_how"], p["pinned"] = LPET_DAY, LPET_LAW, "successor", True
+    LPET_USED[:] = [LPET_WHY, LPET_MP_WHY]
+
+
 _build_act10 = P.build_act
 B9.REPEALS["estatuto-do-torcedor"] = (
     "2023-06-15", "lei-14597-2023",
@@ -590,6 +656,11 @@ def build_act(paras, act_day, gate, gate_law, unit_label):
         versions.insert(len(before), {"from": ADI4917_DAY, "source_url": before[-1].get("source_url"),
                                       "sha256": before[-1].get("sha256"), "units": units, "credits": cred})
         ADI4917_USED.append(ADI4917_WHY)
+        for v in versions:
+            if v["from"] == LPET_DAY:
+                v["note"] = ("Parts of Lei 12.734/2012 that the President vetoed and Congress restored by overriding the "
+                             "veto, promulgated and published in the DOU of 15.3.2013: the new royalty and special-"
+                             "participation rules of arts. 48 to 50-F.")
     hit = OWN_PROMULGATION.get(slug)
     if hit and hit[0] > act_day:
         for v in versions:
@@ -605,7 +676,7 @@ _inner10 = B6.PB5B._write_part5
 
 
 def _inner(*a) -> int:
-    B5.EXTRA_DECISIONS.extend(x + "." for x in dict.fromkeys(OWN_PROMULGATION_USED + ADI4917_USED))
+    B5.EXTRA_DECISIONS.extend(x + "." for x in dict.fromkeys(OWN_PROMULGATION_USED + LPET_USED + ADI4917_USED))
     if PNMA_CASE:
         B5.EXTRA_DECISIONS.append(
             "Política Nacional do Meio Ambiente: Planalto's annotated page prints 'IBAMA' in lines that Leis 9.960/2000 and "
@@ -644,6 +715,8 @@ def _fix(core, paras, slug, same_day):
             p.update(fields)
             p["skip"] = False
             SAN_USED.append(SAN_FINAL_WHY)
+    if slug == _LP:
+        lpet_model(paras)   # after every other rule, as san_model
     for p, skip, how, start, law in keep:
         p["skip"], p["end_how"], p["start"], p["start_law"] = skip, how, start, law
     return res
