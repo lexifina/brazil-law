@@ -1297,6 +1297,17 @@
    }
   },
   {
+   "id": "lcp101",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261016045030",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170344339.92/warc/CC-MAIN-20261016042942-20261016072942-00688.warc.gz",
+    "offset": "20607178",
+    "length": "42932"
+   }
+  },
+  {
    "id": "lcp182",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp182.htm",
    "cc": {
