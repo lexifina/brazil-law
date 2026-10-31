@@ -36,7 +36,7 @@ B.PAGES.clear()
 B.PAGES.update(PAGES)
 B5.PAGES = B6.PAGES = B7.PAGES = B8.PAGES = B9.PAGES = B10.PAGES = B11.PAGES = PAGES
 
-VERIFIED: list[str] = []
+VERIFIED: list[str] = ["lei-do-parcelamento-do-solo-urbano", "lei-organica-da-assistencia-social", "lei-do-mercado-de-valores-mobiliarios"]
 ENABLED = [s for s in os.environ.get("BATCH12_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
