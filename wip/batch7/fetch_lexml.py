@@ -23,6 +23,7 @@ def main(path: str) -> int:
     todo = [u for u in urls if "lexml.gov.br/urn/" in u and not FT.cached(u)]
     print(len(todo), "to fetch of", len(urls), flush=True)
     bad = 0
+    streak = 0
     for i, u in enumerate(todo):
         if i:
             time.sleep(DELAY)
@@ -31,6 +32,7 @@ def main(path: str) -> int:
         body, code = r.stdout[:-3], r.stdout[-3:].decode("ascii", "replace")
         with FT.LOG.open("a", encoding="utf-8") as f:
             f.write(json.dumps({"url": u, "status": code, "bytes": len(body), "via": "curl (Crawl-delay 5)"}) + "\n")
+        streak = 0 if code == "200" else streak + 1
         if code == "200" and body:
             p = FT.CACHE / (FT.key(u) + ".bin")
             tmp = p.with_suffix(".part")
@@ -39,8 +41,9 @@ def main(path: str) -> int:
         else:
             bad += 1
             print("FAIL", code, u, flush=True)
-            if code in ("429", "503"):
+            if code == "429" or streak >= 3:   # LexML answers 503 for some URNs it lacks; back off only on a run
                 time.sleep(60)
+                streak = 0
     print("done; failed", bad, flush=True)
     return 1 if bad else 0
 
