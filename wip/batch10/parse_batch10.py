@@ -84,7 +84,8 @@ ALL_ACTS: list[dict] = [
     _act("politica-nacional-do-meio-ambiente", "PNMA", "pnma", "pnma-compilada", "lei-6938-1981",
          "Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981)", 2),
 ]
-VERIFIED: list[str] = []
+VERIFIED: list[str] = ["lei-de-concessoes", "lei-das-parcerias-publico-privadas", "lei-de-abuso-de-autoridade",
+                        "lei-das-inelegibilidades", "lei-8142-de-1990", "lei-geral-do-esporte"]
 ENABLED = [s for s in os.environ.get("BATCH10_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
