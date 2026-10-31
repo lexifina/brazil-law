@@ -11,7 +11,8 @@
   ],
   "ai_use": [
    "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP lapse days) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time."
-  ]
+  ],
+  "decisions_static": []
  },
  "60-phase2": {
   "sources": [
@@ -25,7 +26,8 @@
   ],
   "ai_use": [
    "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP lapse days) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time."
-  ]
+  ],
+  "decisions_static": []
  },
  "70-clt": {
   "sources": [
@@ -46,7 +48,8 @@
   ],
   "ai_use": [
    "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (staged vigência days, MP fates, STF rulings) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time."
-  ]
+  ],
+  "decisions_static": []
  },
  "80-proc": {
   "sources": [
@@ -74,6 +77,10 @@
   ],
   "ai_use": [
    "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP lapse days) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time."
+  ],
+  "decisions_static": [
+   "Acts of this part (Código de Processo Penal (Decreto-Lei nº 3.689, de 3 de outubro de 1941), Código de Defesa do Consumidor (Lei nº 8.078, de 11 de setembro de 1990)): each paragraph's life span is read from Planalto's annotated page of the act (del3689.htm, l8078.htm): struck wordings stay in place before the wording that replaced them, each closed by the source's own note ('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted.",
+   "Text before its law: every line is dated by the in-force day of the law in its own note, so no wording appears before the law that made it; the parser checks this for every line with a 'Redação dada', 'Incluído' or 'Renumerado' note (see the count below). Court rulings Planalto shows only as 'Vide ADI ...' notes (the Lei 13.964/2019 juiz das garantias articles, ADI 6.298, 6.299, 6.300 and 6.305, among others) change no words on the page, so the history has no commit for them."
   ]
  },
  "90-batch3": {
@@ -102,6 +109,9 @@
   ],
   "ai_use": [
    "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP fates, court rulings) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time."
+  ],
+  "decisions_static": [
+   "Acts of this part (Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966); Estatuto da Criança e do Adolescente (Lei nº 8.069, de 13 de julho de 1990); Código Eleitoral (Lei nº 4.737, de 15 de julho de 1965)): each paragraph's life span is read from Planalto's annotated page of the act (l5172.htm, l8069.htm, l4737.htm), with the same replay as the other Brazilian codes: struck wordings stay in place before the wording that replaced them, each closed by the source's own note ('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted."
   ]
  },
  "95-rju": {
@@ -123,6 +133,9 @@
   ],
   "ai_use": [
    "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (MP lapse days, staged vigência days, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time."
+  ],
+  "decisions_static": [
+   "Acts of this part (Regime Jurídico dos Servidores Públicos Civis da União (Lei nº 8.112, de 11 de dezembro de 1990)): each paragraph's life span is read from Planalto's annotated page of the act (l8112cons.htm), with the same replay as the other Brazilian codes: struck wordings stay in place before the wording that replaced them, each closed by the source's own note ('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted."
   ]
  }
 }

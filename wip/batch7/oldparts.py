@@ -30,6 +30,7 @@ OPEN = {
               "two wordings of one paragraph stand at once in this history; in arts. 553, 628-A, 634 and 636 the same "
               "happens for a few days around MP 905/2019 and MP 955/2020. The text in force today is not affected.",
 }
+CARRY = ["Acts of this part", "Text before its law"]
 SCRIPTS = {"50-codes": "codes/parse_codes.py", "60-phase2": "parse_phase2.py", "70-clt": "clt/parse_clt.py", "80-proc": "proc/parse_proc.py",
            "90-batch3": "batch3/parse_batch3.py", "95-rju": "rju/parse_rju.py"}
 
@@ -48,6 +49,11 @@ def main(argv: list[str]) -> int:
     m = load(SCRIPTS[part])
     core = getattr(m, "P", m) if part in ("90-batch3", "95-rju") else m
     tmp_out = HERE / ".tmp" / f"oldparts-{part}.json"
+    if part == "80-proc":
+        # LexML's record of Decreto-Lei 6.109/1943 (Publicação Original 18.12.1943, read on 2026-10-29 for the published
+        # part) answered 503 on 2026-10-31; the day it gave is kept here (the Planalto page prints none)
+        core.PUBLISHED_FIXED["dl-6109-1943"] = ("1943-12-18", "LexML record 'Publicação Original' 18.12.1943 (the Planalto "
+                                                              "page prints no DOU day)")
     if part == "90-batch3":
         core.OUT = tmp_out
     else:
@@ -86,6 +92,13 @@ def main(argv: list[str]) -> int:
     for s, ps in zip(d["sources"], pub["sources"]):
         s.update(ps)
     d["ai_use"] = pub["ai_use"]
+    # static method decisions as published (the published parts reworded them; their content does not depend on data)
+    for i, x in enumerate(d["decisions"]):
+        for pre in CARRY:
+            if x.startswith(pre):
+                same = [y for y in pub.get("decisions_static", []) if y.startswith(pre)]
+                if len(same) == 1:
+                    d["decisions"][i] = same[0]
     if "--nofix" not in argv:
         d["decisions"] += stale_fix.decisions()
         open_ = OPEN.get(part)
