@@ -141,6 +141,10 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
                 not p["label"] and not q["label"] and same_text and not p["text"].startswith("Pena"))
             if not twin:
                 continue
+            if same_text and p["state"] != "plain" and p["end"] == q["end"]:
+                q["skip"], q["end_how"] = True, "twin"   # the same struck wording printed twice, same life span
+                USED["B"].append(f"{act} {q['unit']} [{q['label']}] repeated copy left out")
+                break
             if p["end"] is not None and p["end"] <= q["end"]:
                 break
             # the first day from q's end on when no other wording of this dispositivo stands
