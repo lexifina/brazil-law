@@ -329,8 +329,12 @@ def paragraphs(html, digits):
     # centred text): give those paragraphs the centred alignment they are displayed with, so they are read as heading
     # lines, not as marginal headings of the next article
     n0 = len(re.findall(r"<center\b", html, re.I))
-    html = re.sub(r"<center\b.*?</center>", lambda m: re.sub(r"<p(?=[\s>])(?![^>]*\balign=)", '<p align="center"', m.group(0),
-                                                             flags=re.I), html, flags=re.S | re.I)
+    def _centre(m):
+        txt = re.sub(r"<[^>]+>|&nbsp;|\s", " ", m.group(0)).strip()
+        if not re.match(r"(TÍTULO|CAPÍTULO|Seção)\s", txt):   # centred blocks holding body text or tables stay as they are
+            return m.group(0)
+        return re.sub(r"<p(?=[\s>])(?![^>]*\balign=)", '<p align="center"', m.group(0), flags=re.I)
+    html = re.sub(r"<center\b.*?</center>", _centre, html, flags=re.S | re.I)
     if n0:
         CENTERED[page] = n0
     out, rest = _paragraphs15(html, digits)
