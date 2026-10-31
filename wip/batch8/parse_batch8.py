@@ -167,6 +167,34 @@ B.EXPLAINED.update({
     },
 })
 
+# ---------------------------------------------------------------------------------------------------------------
+# hand tables for these acts, each read from the official pages named in the reason
+P.NOTE_FIX.update({
+    "(Incluído pela Lei nª 8.078, de 11.9.1990)": (
+        "(Incluído pela Lei nº 8.078, de 1990)",
+        "Lei da Ação Civil Pública art. 5: notes read 'Lei nª 8.078, de 11.9.1990' ('nª' for 'nº'); their link is "
+        "L8078.htm, Lei nº 8.078, de 11.9.1990 (Código de Defesa do Consumidor), whose art. 113 gives the wording"),
+    "(Incluído pela Lei nº 15.271)": (
+        "(Incluído pela Lei nº 15.271, de 2025)",
+        "Lei Geral do Turismo art. 21 § 1º IX and X: the notes read 'Lei nº 15.271' with no year; their link is "
+        "_Ato2023-2026/2025/Lei/L15271.htm#art5, Lei nº 15.271, de 2025, whose art. 5 adds incisos IX and X to art. 21 "
+        "§ 1º"),
+})
+P.VIGENCIA_FIXED.update({
+    "lei-8078-1990": ("1991-03-11", "Código de Defesa do Consumidor art. 118: 'Este código entrará em vigor dentro de "
+                                    "cento e oitenta dias a contar de sua publicação' (DOU 12.9.1990): 11.3.1991, as in this "
+                                    "corpus' Código de Defesa do Consumidor"),
+    "lei-13281-2016": ("2016-11-01", "art. 7: 'Esta Lei entra em vigor: I - na data de sua publicação, em relação aos arts. "
+                                     "3º e 4º; e II - após decorridos 180 (cento e oitenta) dias de sua publicação oficial, "
+                                     "em relação aos demais artigos' (DOU 5.5.2016); its change to the Estatuto da Pessoa "
+                                     "com Deficiência (art. 47 § 3º) is in its art. 5, so in force on 1.11.2016, the day "
+                                     "after the 180th day counted from publication (LC 95/1998 art. 8 § 1)"),
+})
+P.MP_LAPSE.update({
+    "mp-1207-2024": ("2024-06-27", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 43, de 2024 (DOU "
+                                   "9.7.2024): 'teve seu prazo de vigência encerrado no dia 26 de junho de 2024'"),
+})
+
 SRC = HERE / "sources_batch8.json"
 B5.SRC = SRC
 B5.PIN_FILES = B5.PIN_FILES + [SRC]
