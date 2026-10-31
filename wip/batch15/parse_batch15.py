@@ -331,9 +331,15 @@ def paragraphs(html, digits):
     n0 = len(re.findall(r"<center\b", html, re.I))
     def _centre(m):
         txt = re.sub(r"<[^>]+>|&nbsp;|\s", " ", m.group(0)).strip()
-        if not re.match(r"(TÍTULO|CAPÍTULO|Seção)\s", txt):   # centred blocks holding body text or tables stay as they are
-            return m.group(0)
-        return re.sub(r"<p(?=[\s>])(?![^>]*\balign=)", '<p align="center"', m.group(0), flags=re.I)
+        if re.match(r"(TÍTULO|CAPÍTULO|Seção)\s", txt):
+            return re.sub(r"<p(?=[\s>])(?![^>]*\balign=)", '<p align="center"', m.group(0), flags=re.I)
+
+        def caps(q):   # in a centred block that also holds body text or a table, only all-capitals names
+            body = re.sub(r"<[^>]+>|&nbsp;|\s", " ", q.group(0)).strip()
+            if body and re.search(r"[A-ZÀ-Ý]{4}", body) and not re.search(r"[a-zß-ÿ]", body):
+                return re.sub(r"^<p(?=[\s>])", '<p align="center"', q.group(0), flags=re.I)
+            return q.group(0)
+        return re.sub(r"<p(?=[\s>])(?![^>]*\balign=)[^>]*>.*?</p>", caps, m.group(0), flags=re.S | re.I)
     html = re.sub(r"<center\b.*?</center>", _centre, html, flags=re.S | re.I)
     if n0:
         CENTERED[page] = n0
