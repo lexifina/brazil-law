@@ -10,6 +10,17 @@
     "offset": "43391727",
     "length": "2109"
    }
+  },
+  {
+   "id": "law:dec-3995-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/2001/d3995.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-34",
+    "timestamp": "20260815163237",
+    "filename": "crawl-data/CC-MAIN-2026-34/segments/1786091385840.37/warc/CC-MAIN-20260815151410-20260815181410-00886.warc.gz",
+    "offset": "14824696",
+    "length": "5511"
+   }
   }
  ]
 }
