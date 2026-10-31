@@ -17,7 +17,9 @@ B. Twin wordings: a line printed below a struck line of the same dispositivo wit
    caput of its article); a struck lower copy that never stands alone is left out.
 
 D. A line with no note of its own printed unstruck under an unstruck line a later law inserted ('Incluído') starts with
-   it (CLT art. 678's alíneas under the incisos Lei 5.442/1968 added).
+   it, where an older wording under the same label is printed struck in the article (CLT art. 678's alíneas under the
+   incisos Lei 5.442/1968 added; ECA art. 4 a)-d) under the § 1º of Lei 15.240/2025, printed struck under the old
+   Parágrafo único too).
 
 C. Two copies of one labelled line, alive at once, word for word the same apart from typesetting (Planalto printing the same
    dispositivo twice, struck and unstruck, or twice unstruck): the later-printed copy starts when the earlier one ends;
@@ -86,7 +88,12 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
                 continue
             if level(q["label"]) < lv:
                 inserted = any(re.search(r"Inclu[íi]d|Acrescid|Acrescentad", n, re.I) for n in q["notes"])
-                if inserted and q["start"] > p["start"]:
+                # ... and only where an older wording under p's label is printed struck in the same article (so p is
+                # not simply an old line kept under a renumbered parent: ECA art. 91 a)-d) under the § 1º that was its
+                # Parágrafo único)
+                older = any(r["unit"] == p["unit"] and r["state"] != "plain" and r is not p and r["start"] < q["start"]
+                            and _norm_label(r["label"]) == _norm_label(p["label"]) for r in paras)
+                if inserted and older and q["start"] > p["start"]:
                     p["start"], p["start_law"] = q["start"], q["start_law"]
                     USED["D"].append(f"{act} {p['unit']} [{p['label'] or p['text'][:30]}] from {q['start']}")
                 break
@@ -198,7 +205,8 @@ def decisions() -> list[str]:
                    "first lines) and starts with it: " + "; ".join(dict.fromkeys(USED["E"])) + ".")
     if USED["D"]:
         out.append("A line with no note of its own, printed unstruck under an unstruck line a later law inserted "
-                   "('Incluído'), starts with it: "
+                   "('Incluído'), starts with it where an older wording under the same label is printed struck in the "
+                   "article: "
                    + "; ".join(dict.fromkeys(USED["D"])) + ".")
     if USED["B"]:
         out.append("Twin wordings: a line printed below a struck line of the same dispositivo with the same start, word for "
