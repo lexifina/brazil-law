@@ -672,6 +672,57 @@ def mp955_two_copies(paras, act):
                   "skip": False, "restored": True, "pinned": True, "gaps": []})
         MP955_FIXED.append(f"{act['slug']} {p['unit']} [{p['label']}]")
 
+# Lei 10.101 (part zc): (a) art. 6, 6-A and 6-B, which Medida Provisória 905/2019 revoked, are printed struck with MP 905's
+# note and again unstruck with Lei 11.603's note: the unstruck copy is the line in force again from 19.8.2020 (MP 905
+# lapsed), the struck copy stands until MP 955 lapsed (18.8.2020) - the mp955_two_copies model, with the note kept;
+# (b) art. 2 §§ 3º-A and 5º to 10 (with their incisos): MP 905 added them and Lei 14.020/2020 (DOU 7.7.2020, in force on
+# publication) added them again; MP 905's wordings end when MP 955 revoked the MP (20.4.2020) and do not come back on
+# 18.8.2020, MP 905's last day, because by then Lei 14.020 had given these paragraphs their wording.
+LPLR_905: list[str] = []
+
+
+def _lplr_lab(x):
+    return x.replace("º", "").replace(" ", "")
+
+
+def _lplr_alnum(x):
+    return re.sub(r"[\W_]+", "", P.norm(x))[:40]
+
+
+def lplr_905(paras, act):
+    if act["slug"] != "lei-da-participacao-nos-lucros":
+        return
+    m_key, r_key = "mp-905-2019", "mp-955-2020"
+    m_lapse, r_lapse = P.MP_LAPSE[m_key][0], P.MP_LAPSE[r_key][0]
+    for i, p in enumerate(paras):
+        if p["unit"] not in ("art-06", "art-06-a", "art-06-b") or p["state"] == "plain" or not p.get("mp_pair") \
+                or p.get("skip") or p.get("end") not in (r_lapse, m_lapse):
+            continue
+        q = next((q for q in paras[i + 1:] if q["unit"] == p["unit"] and q["state"] == "plain" and q["label"] == p["label"]
+                  and P.norm(q["text"]) == P.norm(p["text"]) and all(n in p["notes"] for n in q["notes"])), None)
+        if q is None:
+            continue
+        p["end"], p["end_law"], p["end_how"] = r_lapse, r_key + "-fim", "mp-pair"
+        q.update({"start": m_lapse, "start_law": m_key + "-fim", "end": None, "end_law": None, "end_how": None,
+                  "skip": False, "restored": True, "pinned": True, "gaps": []})
+        LPLR_905.append(f"{p['unit']} [{p['label']}]")
+    later = [q for q in paras if q["unit"] == "art-02" and q["state"] == "plain"
+             and any("14.020" in n for n in q["notes"])]
+    for p in paras:
+        if p["unit"] != "art-02" or p["state"] == "plain" or not any("905" in n for n in p["notes"]):
+            continue
+        hit = [q for q in later if _lplr_lab(q["label"]) == _lplr_lab(p["label"]) and (
+            p["label"].startswith("§") or _lplr_alnum(q["text"]) == _lplr_alnum(p["text"]))]
+        if not hit or p.get("start", "") > "2020-04-20":
+            if hit and not p.get("skip"):
+                p.update({"skip": True, "end_how": "superseded-by-lei-14020", "pinned": True})
+                LPLR_905.append(f"art-02 [{p['label']}] {P.norm(p['text'])[:25]!r} 18.8.2020 copy left out")
+            continue
+        if p.get("end") != "2020-04-20" or p.get("gaps"):
+            p.update({"end": "2020-04-20", "end_law": r_key, "end_how": "mp-pair", "gaps": [], "pinned": True})
+            LPLR_905.append(f"art-02 [{p['label']}] {P.norm(p['text'])[:25]!r} ends 20.4.2020")
+
+
 # part e: Lei da Mobilidade Urbana (Lei 12.587/2012)
 _LMU = "lei-da-mobilidade-urbana"
 P.MP_LAPSE["mp-748-2016"] = (
@@ -790,7 +841,9 @@ def renum_articles(paras, act):
 # 'Harmonização de multas trabalhistas constantes de legislações esparsas' above art. 12. They are the headings of
 # Medida Provisória 905/2019's own articles (its art. 29 and the heading above it, read on the MP's page), copied onto the
 # page with MP 905's wordings; they are not words of Lei 605 and are left out.
-FOREIGN_RUBRICS = {"l0605": ("Descanso semanal", "Harmonização de multas trabalhistas constantes de legislações esparsas")}
+FOREIGN_RUBRICS = {"l0605": ("Descanso semanal", "Harmonização de multas trabalhistas constantes de legislações esparsas"),
+                   "l10101": ("Participação nos lucros e prêmios",),
+                   "l10101-compilado": ("Participação nos lucros e prêmios",)}
 FOREIGN_DROPPED: list[str] = []
 QUOTED_HEADINGS: list[str] = []
 # Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº N, de d de m de aaaa.': words of
@@ -2002,6 +2055,7 @@ def apply_rewrites(paras, act, eff, problems):
     out = _apply_rewrites17(paras, act, eff, problems)
     renum_articles(paras, act)
     mp955_two_copies(paras, act)
+    lplr_905(paras, act)
     veto_kept(paras, act)
     promulgated(paras, act)
     heads_14596(paras, act, eff)
@@ -2084,7 +2138,19 @@ def _inner(*a):
                    "§ 7º, but they were vetoed; Congress overrode the vetoes and they were promulgated in the DOU of 19.7.2023 "
                    "(printed on Lei 14.531's page). Planalto notes them '(Incluído pela Lei nº 14.531, de 2023)' with the "
                    "law's other lines; they start on 19.7.2023, credited to Lei 14.531: " + ", ".join(PROMULGATED_USED) + ".")
-    if FOREIGN_DROPPED:
+    if LPLR_905:
+        dec.append("Lei 10.101 and Medida Provisória 905/2019: arts. 6, 6º-A and 6º-B, which MP 905 revoked, are printed struck "
+                   "with MP 905's note and again unstruck with Lei 11.603's note; the unstruck copy is the article in force again "
+                   "from 19.8.2020, when MP 905 lapsed, and the struck copy stands until Medida Provisória 955/2020 lapsed "
+                   "(18.8.2020; absent while MP 905 stood). Art. 2 §§ 3º-A and 5º to 10 and their incisos: MP 905 added them "
+                   "and Lei 14.020/2020 (DOU 7.7.2020, in force on publication) added them again; MP 905's wordings end when MP "
+                   "955 revoked the MP (20.4.2020) and do not come back on 18.8.2020, MP 905's last day, because by then Lei "
+                   "14.020 had given those paragraphs their wording (" + "; ".join(dict.fromkeys(LPLR_905)) + ").")
+    if any(x.startswith("l10101") for x in FOREIGN_DROPPED):
+        dec.append("Lei 10.101: the unlabelled line 'Participação nos lucros e prêmios' Planalto prints above art. 2 with no note "
+                   "is the heading of Medida Provisória 905/2019's own art. 48 (as printed on the MP's page), copied onto the page "
+                   "with MP 905's wordings; it is not a word of Lei 10.101 and is left out.")
+    if any(x.startswith("l0605") for x in FOREIGN_DROPPED):
         dec.append("Lei 605: two unlabelled lines Planalto prints with no note, 'Descanso semanal' (above art. 1) and "
                    "'Harmonização de multas trabalhistas constantes de legislações esparsas' (above art. 12), are the "
                    "headings of Medida Provisória 905/2019's own provisions (above its art. 29 and its new art. 12 wording, as "
