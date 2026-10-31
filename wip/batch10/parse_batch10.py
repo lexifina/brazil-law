@@ -296,6 +296,23 @@ def lifespans(paras, cx):
 
 
 P.lifespans = B.lifespans = lifespans
+_build_act10 = P.build_act
+
+
+def build_act(paras, act_day, gate, gate_law, unit_label):
+    slug = ACTS[len(B7._act_order)]["slug"] if len(B7._act_order) < len(ACTS) else "?"
+    versions = _build_act10(paras, act_day, gate, gate_law, unit_label)
+    hit = OWN_PROMULGATION.get(slug)
+    if hit and hit[0] > act_day:
+        for v in versions:
+            if v["from"] == hit[0]:
+                v["note"] = ("Parts of the act that the President vetoed and Congress restored by overriding the veto, "
+                             "promulgated and published in the DOU of " + ".".join(str(int(x)) for x in hit[0].split("-")[::-1])
+                             + "; until then each read '(VETADO)'.")
+    return versions
+
+
+P.build_act = B.build_act = build_act
 _inner10 = B6.PB5B._write_part5
 
 
