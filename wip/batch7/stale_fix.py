@@ -70,9 +70,9 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
                 break
     # D: an unnoted unstruck line is no older than the inserted unstruck line it hangs from (its nearest parent above)
     for i, p in enumerate(paras):
-        if p["state"] != "plain" or p["start_law"] or p.get("skip") or p["heading"]:
-            continue
-        lv = level(p["label"]) if p["label"] else 99
+        if p["state"] != "plain" or p["start_law"] or p.get("skip") or p["heading"] or not p["label"] or p["label"] == "rubrica":
+            continue   # unlabelled lines (penalties, marginal headings) are not placed by their position
+        lv = level(p["label"])
         for q in reversed(paras[:i]):
             if q["unit"] != p["unit"]:
                 break
@@ -98,7 +98,8 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
                 continue
             same_label = p["label"] and _norm_label(q["label"]) == _norm_label(p["label"])
             same_text = _norm_text(q["text"]) == _norm_text(p["text"])
-            twin = same_label and (same_text or (p["state"] == "plain" and not p["start_law"]))
+            twin = (same_label and (same_text or (p["state"] == "plain" and not p["start_law"]))) or (
+                not p["label"] and not q["label"] and same_text and not p["text"].startswith("Pena"))
             if not twin:
                 continue
             if p["end"] is not None and p["end"] <= q["end"]:
