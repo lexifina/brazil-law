@@ -380,6 +380,47 @@ def _supnum(m):
     return "" if re.fullmatch(r"\d{1,2}", s) else m.group(0)
 
 
+# Lei 8.212 arts. 20, 26, 36, 68 and 94: the annotated page prints only later wordings, not the text of 1991; that text is
+# read from Planalto's page of the act as enacted (L8212orig.htm, pinned ctx:l8212-original), which strikes the 1991
+# wording above the later one, and placed struck above the first wording the annotated page prints. Art. 20 also: the
+# rate table Lei 9.032/1995 gave (on the original page) stood until Lei 9.129/1995 gave the table printed today.
+ORIGINAL_ARTS = ("art-020", "art-026", "art-036", "art-068", "art-094")
+ORIGINAL_USED: list[str] = []
+
+
+def _insert_original(out, digits):
+    keep = B8.CURRENT_PAGE[0]
+    B8.CURRENT_PAGE[0] = "l8212-original"
+    orig, _ = paragraphs(P.decode(P.raw("ctx:l8212-original")[0]), digits)
+    B8.CURRENT_PAGE[0] = keep
+    for unit in ORIGINAL_ARTS:
+        ou = [p for p in orig if p["unit"] == unit and not p["heading"]]
+        if unit == "art-094":   # the original page prints the 1991 wording of art. 94 unstruck: its caput only
+            first = [ou[0]]
+        else:                   # the struck lines above the first unstruck caput
+            k = next(i for i, p in enumerate(ou) if i and p["label"].startswith("Art.") and p["state"] == "plain")
+            first = [p for p in ou[:k] if p["state"] != "plain"]
+        at = next(i for i, p in enumerate(out) if p["unit"] == unit and not p["heading"])
+        new = []
+        for p in first:
+            q = {**p, "state": "struck", "plain_text": "", "struck_text": p["text"], "orig_insert": True,
+                 "notes": [n for n in p["notes"] if unit == "art-036"]}
+            new.append(q)
+        out[at:at] = new
+        ORIGINAL_USED.append(f"{unit} ({len(new)} lines)")
+        if unit == "art-020":   # Lei 9.032's table after the caput it gave
+            k = next(i for i, p in enumerate(ou) if i and p["label"].startswith("Art.") and p["state"] == "plain")
+            t9032 = []
+            for p in ou[k + 1:]:
+                if p["label"]:
+                    break
+                t9032.append({**p, "state": "struck", "plain_text": "", "struck_text": p["text"], "orig_insert": True,
+                              "t9032": True, "notes": []})
+            cap = next(i for i, p in enumerate(out) if p["unit"] == unit and p["state"] == "plain"
+                       and p["label"].startswith("Art."))
+            out[cap + 1:cap + 1] = t9032
+
+
 def paragraphs(html, digits):
     page = B8.CURRENT_PAGE[0]
     if "href=\"#ne" in html or page == "l8212":
@@ -435,6 +476,8 @@ def paragraphs(html, digits):
             cur = None
         if cur and p["unit"] == cur[0]:
             p["unit"] = cur[1]
+    if page == "l8212":
+        _insert_original(out, digits)
     for p in out:
         for pg, wrong, right, why in TEXT_FIX:
             if pg != page:
