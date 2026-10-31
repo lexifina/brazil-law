@@ -159,6 +159,22 @@ B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for 
 B.ACT_LAWS.clear()
 B.ACT_LAWS.update({k: v for k, v in ACT_LAWS_ALL.items() if any(a["law"] == k for a in ACTS)})
 
+# parse_proc starts an act at its 'LEI Nº' / 'DECRETO-LEI Nº' title line; a Lei Complementar's title ('LEI COMPLEMENTAR
+# Nº 101, DE 4 DE MAIO DE 2000') is read as the same kind of line. The title line itself is not part of any unit.
+_analyse7 = P.analyse
+LC_TITLE = re.compile(r"^LEI\s+COMPLEMENTAR\s+(N.*)$")
+
+
+def analyse(block: dict) -> dict:
+    d = _analyse7(block)
+    m = LC_TITLE.match(d["text"])
+    if m:
+        d = dict(d, text="LEI " + m.group(1))
+    return d
+
+
+P.analyse = analyse
+
 B.EXPLAINED.clear()
 B6.NEVER_IN_FORCE.clear()
 B6.MP_CHAINS.clear()
