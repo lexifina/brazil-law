@@ -310,6 +310,54 @@ def page_info(key: str) -> dict:
 
 
 P.page_info = B.page_info = page_info
+P.NOTE_FIX["(Redação da pela Lei nº10.303, de 2001)"] = (
+    "(Redação dada pela Lei nº 10.303, de 2001)",
+    "Lei 6.404 art. 124 § 1º: the note reads 'Redação da pela Lei nº10.303, de 2001' ('da' for 'dada'); its link is Lei "
+    "nº 10.303, de 31.10.2001, whose art. 2 gives § 1º that wording")
+
+# ---------------------------------------------------------------------------------------------------------------
+# Lines whose end parse_proc does not find:
+# (1) a struck wording with no note and no later wording of the same label, printed above the lines that replaced it
+#     with new labels (a list renumbered: Lei 6.404 art. 40 III became II; art. 178's alíneas became incisos): it ends
+#     when the first later wording below it in the same article starts, credited to that wording's law;
+# (2) an unstruck line a later law replaced, which Planalto left unstruck (PLAIN_ENDS, checked by hand).
+NEXT_WORDING_USED: list[str] = []
+PLAIN_ENDS: dict[tuple[str, str, str, str], tuple[str, str]] = {
+    ("lei-de-responsabilidade-fiscal", "art-51", "§ 1º", "§ 1º Os Estados e os Municípios encaminharão suas contas ao Poder "
+     "Executivo da União nos seguintes prazos:"): (
+        "lc-178-2021", "LRF art. 51 § 1º as enacted ('... nos seguintes prazos:', followed by incisos I and II, which are "
+                       "struck) is printed unstruck above the wording 'Redação dada pela Lei Complementar nº 178, de 2021' "
+                       "that replaced it from 1.1.2022"),
+}
+PLAIN_ENDS_USED: list[str] = []
+_lifespans7 = P.lifespans
+
+
+def lifespans(paras: list[dict], cx) -> list[str]:
+    problems = _lifespans7(paras, cx)
+    for p in paras:
+        for (act, unit, label, start), (law, why) in PLAIN_ENDS.items():
+            if cx.act == act and p["unit"] == unit and p["label"] == label and p["text"].startswith(start) and not p["end"]:
+                p["end"], p["end_law"], p["end_how"] = cx.eff[law], law, "plain-end"
+                PLAIN_ENDS_USED.append(why)
+    for i, p in enumerate(paras):
+        if p["end_how"] != "undated" and not (p["state"] != "plain" and not p["end"] and not p["gaps"]):
+            continue
+        q = None
+        for r in paras[i + 1:]:
+            if r["unit"] != p["unit"] or r["heading"] != p["heading"]:
+                break
+            if r["start"] > p["start"] and not r.get("skip"):
+                q = r
+                break
+        if q is None:
+            continue
+        p["end"], p["end_law"], p["end_how"], p["skip"] = q["start"], q["start_law"], "next-wording", False
+        NEXT_WORDING_USED.append(f"{cx.act} {p['unit']} [{p['label']}] {p['text'][:40]!r} ends {q['start']}")
+    return problems
+
+
+P.lifespans = B.lifespans = lifespans
 
 SRC = HERE / "sources_batch7.json"
 B5.SRC = SRC
@@ -333,6 +381,14 @@ def _inner(*a) -> int:
         B5.EXTRA_DECISIONS.append(
             "Medida Provisória pages whose 'Convertida na Lei' line is mistyped are read with the law their link names: "
             + "; ".join(f"{P.law_label(k)}: {CONVERTED_FIX[k][1]}" for k in dict.fromkeys(CONVERTED_USED)) + ".")
+    if NEXT_WORDING_USED:
+        B5.EXTRA_DECISIONS.append(
+            "A struck wording with no note and no later wording of the same label, printed above the lines that replaced "
+            "it under new labels (a list renumbered or recast), ends when the first later wording below it in the same "
+            "article starts, credited to that wording's law: " + "; ".join(dict.fromkeys(NEXT_WORDING_USED)) + ".")
+    if PLAIN_ENDS_USED:
+        B5.EXTRA_DECISIONS.append("Unstruck lines a later law replaced, which Planalto left unstruck, end on that law's "
+                                  "day: " + "; ".join(dict.fromkeys(PLAIN_ENDS_USED)) + ".")
     if STRAY_USED:
         B5.EXTRA_DECISIONS.append("Stray link text at the end of a line is dropped: " + "; ".join(dict.fromkeys(STRAY_USED)) + ".")
     if HEADING_LABEL_FIX:
