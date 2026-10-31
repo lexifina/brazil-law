@@ -507,10 +507,8 @@ def write_part(*a) -> int:
                  "(see the decisions), never for law text. Each record is pinned in "
                  f"{B5.SRC.parent.name}/{B5.SRC.name} (ids ctx:...)."})
     tmp = B5.OUT.with_suffix(".json.tmp")
-    tmp.write_text(_json.dumps(part, ensure_ascii=False, indent=None, separators=(",", ":")) + "
-", encoding="utf-8",
-                   newline="
-")
+    tmp.write_text(_json.dumps(part, ensure_ascii=False, indent=None, separators=(",", ":")) + "\n", encoding="utf-8",
+                   newline="\n")
     os.replace(tmp, B5.OUT)
     return rc
 
