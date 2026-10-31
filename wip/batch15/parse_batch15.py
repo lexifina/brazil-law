@@ -544,7 +544,30 @@ def apply_rewrites(paras, act, eff, problems):
                 SPAN15_USED.append(why)
     for fn in ARTICLE_FIX.get(act["slug"], []):
         fn(paras, eff)
+    mp_pairs_restore(paras)
     return out
+
+
+def mp_pairs_restore(paras):
+    """a wording MP 905 revoked is printed a third time, unstruck and without notes, for the text in force again from
+    19.8.2020 (the shared duplicate rules had set it aside as a copy of the struck ones): it starts when MP 905's term
+    ended"""
+    for m_key in MP_PAIRS:
+        m_lapse = P.MP_LAPSE[m_key][0]
+        for i, p in enumerate(paras):
+            if p.get("mp_role") != "revoked":
+                continue
+            for q in paras[i + 1:]:
+                if q["unit"] != p["unit"]:
+                    break
+                if (q["state"] == "plain" and not q.get("mp_pair") and q["label"] == p["label"] and q["text"] == p["text"]
+                        and (q.get("skip") or q["start"] < m_lapse)):
+                    q.update({"start": m_lapse, "start_law": m_key + "-fim", "skip": False, "restored": True,
+                              "pinned": True})
+                    if q.get("end_how") in ("duplicate", "twin", "undated"):
+                        q["end"], q["end_law"], q["end_how"] = None, None, None
+                    MP_PAIRS_USED.append(f"{p['unit']} [{p['label']}]: in force again from 19.8.2020 (unstruck copy)")
+                    break
 
 
 def _art55(paras, eff):
