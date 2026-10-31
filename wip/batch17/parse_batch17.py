@@ -1152,7 +1152,10 @@ _W_CH3 = ("Lei 11.977 Capítulo III (arts. 46 to 71-A): Medida Provisória 759/2
           "13.465/2017 (art. 109 IV) revoked the whole chapter; Planalto prints both revocation notes after every struck line "
           "of the chapter, also after wordings that Medida Provisória 514/2010 (2.12.2010) or Lei 12.424/2011 (17.6.2011) had "
           "already replaced: each of those ends with the next wording of the same dispositivo, and only the wordings in force "
-          "on 22.12.2016 end on 23.12.2016")
+          "on 22.12.2016 end on 23.12.2016. Lei 12.424/2011 (17.6.2011), the conversion of Medida Provisória 514/2010, "
+          "restated arts. 47 IX, 56 § 2º I to III (its § 5º taking the place of the MP's §§ 5º and 6º), 59, 60-A and 71-A, "
+          "so the MP's wordings of those, and the 2009 lines of art. 59, end on 17.6.2011; art. 60 § 1º I and § 2º, which "
+          "Lei 12.424 left as dotted lines, keep the MP's wording, as Planalto prints them, until 23.12.2016")
 CH3_REVOKERS = {"mp-759-2016", "lei-13465-2017"}
 CH3_USED: list[str] = []
 
@@ -1168,6 +1171,22 @@ def ch3_successors(paras, act):
             q = paras[j]
             p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "successor"
             CH3_USED.append(f"{p['unit']} {p['label'] or '(line)'} {p['start']}")
+    # Lei 12.424/2011 (17.6.2011), the conversion of Medida Provisória 514/2010, restated arts. 47 IX, 56 (§ 2º I-III; its
+    # § 5º replaced the MP's §§ 5º and 6º), 59 (whole), 60-A and 71-A: the MP's wordings, and the 2009 lines of art. 59,
+    # end that day. Art. 60 § 1º I and § 2º, which Lei 12.424 left as dotted lines, keep MP 514's wording until 2016.
+    # Lines noted only 'Revogado pela Lei nº 13.465' end with the chapter, on 23.12.2016.
+    for p in paras:
+        m = re.match(r"art-(\d+)", p["unit"])
+        if not m or not 46 <= int(m.group(1)) <= 71 or p.get("pinned") or p["heading"]:
+            continue
+        if p.get("end_law") == "lei-13465-2017" and p["end"] > "2016-12-23":
+            p["end"], p["end_law"], p["end_how"] = "2016-12-23", "mp-759-2016", "note"
+            CH3_USED.append(f"{p['unit']} {p['label'] or '(line)'} {p['start']} (chapter)")
+        kept = (p["start_law"] == "mp-514-2010" and p["unit"] != "art-60") or (
+            p["unit"] == "art-59" and p["start_law"] is None and p["label"] in ("Parágrafo único", "I -", "II -"))
+        if kept and p["state"] != "plain" and (p["end"] or "9999") > "2011-06-17":
+            p["end"], p["end_law"], p["end_how"] = "2011-06-17", "lei-12424-2011", "conversion"
+            CH3_USED.append(f"{p['unit']} {p['label'] or '(line)'} {p['start']} (Lei 12.424)")
     # lines that fall with their parent follow the parent's corrected end
     for i, p in enumerate(paras):
         if p.get("pinned") or p.get("end_how") != "parent" or p["heading"]:
