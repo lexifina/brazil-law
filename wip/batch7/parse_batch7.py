@@ -350,6 +350,8 @@ def lifespans(paras: list[dict], cx) -> list[str]:
                 break
             # a later wording of a label printed since p replaced that sibling, not p (Lei 11.638's alínea c) of art.
             # 178 § 1º, while alíneas a) and b) stood until MP 449/2008 recast the list)
+            if p["heading"] and r["label"].split("-")[0] != p["label"].split("-")[0]:
+                continue   # a heading line is replaced only within its own heading group
             if r["start"] > p["start"] and not r.get("skip") and (p["heading"] or r["label"] not in seen):
                 q = r
                 break
