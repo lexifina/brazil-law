@@ -171,6 +171,18 @@
    }
   },
   {
+   "id": "l11977",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11977.htm",
+   "ts": "20261012031101",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l11977-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11977compilado.htm",
+   "ts": "20261004182151",
+   "via": "wayback.py"
+  },
+  {
    "id": "l12037",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12037.htm",
    "cc": {
@@ -191,6 +203,12 @@
     "offset": "34201497",
     "length": "16414"
    }
+  },
+  {
+   "id": "l13465",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13465.htm",
+   "ts": "20261022110427",
+   "via": "wayback.py"
   },
   {
    "id": "l13675",

@@ -74,6 +74,10 @@ PAGES.update({
     "l7713-compilada": "leis/l7713compilada.htm",
     "l9430": "leis/l9430.htm",
     "l9430-compilada": "leis/l9430compilada.htm",
+    # parts l, m
+    "l13465": "_ato2015-2018/2017/lei/l13465.htm",
+    "l11977": "_ato2007-2010/2009/lei/l11977.htm",
+    "l11977-compilado": "_ato2007-2010/2009/lei/l11977compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -134,6 +138,8 @@ ALL_ACTS: list[dict] = [
          "Imposto de renda (Lei nº 7.713, de 22 de dezembro de 1988)", 2),
     _act("lei-9430-de-1996", "L9430", "l9430", "l9430-compilada", "lei-9430-1996",
          "Legislação tributária federal (Lei nº 9.430, de 27 de dezembro de 1996)", 2),
+    _act("lei-da-regularizacao-fundiaria", "LREURB", "l13465", "l13465", "lei-13465-2017",
+         "Lei da Regularização Fundiária Rural e Urbana (Lei nº 13.465, de 11 de julho de 2017)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -149,6 +155,7 @@ PARTS: dict[str, list[str]] = {
     "i": ["lei-9250-de-1995"],
     "j": ["lei-7713-de-1988"],
     "k": ["lei-9430-de-1996"],
+    "l": ["lei-da-regularizacao-fundiaria"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -204,6 +211,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-9430-1996": ("1996-12-30", "Lei 9.430/1996 art. 87: 'Esta Lei entra em vigor na data da sua publicação, produzindo "
                                     "efeitos financeiros a partir de 1º de janeiro de 1997' (DOU 30.12.1996): financial "
                                     "effects only, so the in-force day"),
+    "lei-13465-2017": ("2017-07-12", f"Lei 13.465/2017 art. 108: {_PUB} (DOU 12.7.2017, rectified 6.9.2017; the "
+                                     "consolidated text republished in the DOU of 8.9.2017)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -285,6 +294,10 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-9430-1996": _L("Lei nº 9.430, de 1996", "Dispõe sobre a legislação tributária federal, as contribuições para a "
                         "seguridade social, o processo administrativo de consulta e dá outras providências.", "1996-12-27",
                         "1996-12-30", PAGES["l9430"]),
+    "lei-13465-2017": _L("Lei nº 13.465, de 2017", "Dispõe sobre a regularização fundiária rural e urbana, sobre a liquidação "
+                         "de créditos concedidos aos assentados da reforma agrária e sobre a regularização fundiária no âmbito "
+                         "da Amazônia Legal; institui mecanismos para aprimorar a eficiência dos procedimentos de alienação de "
+                         "imóveis da União; e dá outras providências.", "2017-07-11", "2017-07-12", PAGES["l13465"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -560,6 +573,27 @@ def paragraphs(html, digits):
                     continue
             keep.append(p)
         out = keep
+    if page == "l13465":
+        # Lei 13.465: Planalto's link '(Partes vetadas)' (to the promulgated parts printed at the foot of the page) is not
+        # text; art. 4 quotes Lei 11.952 art. 16 ('Art. 16. As condições resolutivas [...]') with no opening quotation mark,
+        # which the reader takes for Lei 13.465's own art. 16: those lines belong to art. 4
+        keep, seen5 = [], False
+        for p in out:
+            t = re.sub(r"\s*\(Partes vetadas\)\s*", " ", p["text"]).strip()
+            if t != p["text"].strip():
+                L13465_FIXED.append(f"{p['unit']} '(Partes vetadas)' marker left out")
+                p["text"] = t
+                if not t:
+                    continue
+            if p["unit"] == "art-05":
+                seen5 = True
+            if p["unit"] == "art-16" and not seen5 and not p["heading"]:
+                p["unit"] = "art-04"
+                if p["label"].startswith("Art"):
+                    p["label"] = ""
+                L13465_FIXED.append(f"quoted Lei 11.952 art. 16 line -> art-04: {P.norm(t)[:40]!r}")
+            keep.append(p)
+        out = keep
     if page == "l9249":
         # Lei 9.249 art. 9 caput as Medida Provisória 694/2015 worded it: the page leaves the opening quotation mark of the
         # MP's quoted text before the line ('“ Art. 9º [...]'), so the line had no label
@@ -627,6 +661,7 @@ def paragraphs(html, digits):
 
 L9250_FIXED: list[str] = []
 L9430_FIXED: list[str] = []
+L13465_FIXED: list[str] = []
 EMPTY_ITEM_PAGES = {"l9250", "l7713"}
 EMPTY_ITEMS: list[str] = []
 P.paragraphs = B.paragraphs = paragraphs
@@ -1034,6 +1069,41 @@ B8.SPAN_FIX += [
         ("c)", "c) das comissões e corretagens", 1), ("d)", "d) da margem de lucro de:", 2),
         ("", "1. sessenta por cento", 2), ("", "2. vinte por cento", 2))],
 ]
+# part l: Lei 13.465/2017. Parts vetoed on 11.7.2017 that Congress kept were promulgated by the President on 6.9.2017 (DOU
+# 8.9.2017; the promulgation is printed at the foot of the page): in art. 3 the new wording of Lei 13.001 art. 3 caput, art.
+# 3-A (an article of Lei 13.465), and in art. 4 Lei 11.952 art. 16 § 2º. They start on 8.9.2017, credited to Lei 13.465.
+_LREURB = "lei-da-regularizacao-fundiaria"
+_WPROM = ("Lei 13.465: parts vetoed on 11.7.2017 and kept by Congress were promulgated by the President on 6.9.2017 ('Faço saber "
+          "que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5º do art. 66 da Constituição Federal, as "
+          "seguintes partes vetadas da Lei nº 13.465'; DOU 8.9.2017, printed at the foot of Planalto's page): in art. 3 the "
+          "quoted new caput of Lei 13.001 art. 3 ('Ficam remitidos [...] R$ 10.000,00') and its closing line, art. 3-A (an "
+          "article of Lei 13.465: caput and incisos I to IV) and in art. 4 the quoted Lei 11.952 art. 16 § 2º; they start on "
+          "8.9.2017, credited to Lei 13.465, and are absent before (the page prints no '(VETADO)' line for them)")
+_P13465 = {"start": "2017-09-08", "start_law": "lei-13465-2017"}
+B8.SPAN_FIX += [
+    *[((_LREURB, unit, lab, pre, n), dict(_P13465), _WPROM) for unit, lab, pre, n in (
+        ("art-03", "", '" Art. 3º Ficam remitidos', 0), ("art-03", "", ".....", 0),
+        ("art-03-a", "Art. 3º-A", "Art. 3º-A O financiamento", 0),
+        ("art-03-a", "I -", "I - o limite de crédito será de até R$ 140.000,00", 0),
+        ("art-03-a", "II -", "II - o prazo de financiamento", 0), ("art-03-a", "III -", "III - o tomador do crédito", 0),
+        ("art-03-a", "IV -", "IV - os valores limites estabelecidos", 0),
+        ("art-04", "§ 2º", "§ 2º Caso a análise de que trata o § 1º", 0))],
+    *[((_LREURB, "art-33", lab, pre, 2), {"start": "2021-01-13", "start_law": "lei-14118-2021"},
+       "Lei 13.465 art. 33: Medida Provisória 996/2020 (26.8.2020) revoked the parágrafo único and added § 1º with the same "
+       "incisos II and III; Lei 14.118/2021 (13.1.2021), its conversion, kept § 1º as the former parágrafo único (its art. 26 "
+       "II: '§ 1º (antigo parágrafo único)'). Planalto prints II and III three times: struck with the 2017 parágrafo único, "
+       "struck as the MP's, and unstruck with no note under Lei 14.118's § 1º: the last copy starts with Lei 14.118")
+      for lab, pre in (("II -", "II - na Reurb-E, a regularização fundiária será contratada"),
+                       ("III -", "III - na Reurb-E sobre áreas públicas, se houver interesse público"))],
+]
+B.EXPLAINED[_LREURB] = {u: "check artefact: the article quotes another law with dotted lines ('§ 1º .....'), which the history "
+                           "keeps as a label-only line and the check, reading label-only lines as revoked dispositivos, drops"
+                        for u in ("art-02", "art-03", "art-06", "art-92")}
+B13.OPEN_ITEMS[_LREURB] = (
+    "Lei 13.465 (open items): the text before 12.7.2017 (Medida Provisória 759/2016, of which this Lei is the conversion) is "
+    "not part of the history; the rectification published on 6.9.2017 and the consolidated text republished on 8.9.2017 are "
+    "read as Planalto prints the Lei (words as corrected); Planalto has no consolidated page for this Lei, so the check "
+    "compares the annotated page's present text with itself")
 # Lei 9.430 arts. 18 to 22: the headings above them (Seção V 'Preços de Transferência' and the article headings) are struck
 # with no note; they fall with the articles, revoked by Lei 14.596/2023 (the 'heads' rule would end each with the first
 # change of the article under it)
@@ -1142,6 +1212,10 @@ def _inner(*a):
         dec.append("Lei 9.430: Planalto's markers '(Sem eficácia)' after struck lines (wordings of Medidas Provisórias "
                    "252/2005, 303/2006 and 478/2009 that lapsed or never took effect, and the 1996 lines they touched) and "
                    "'Rejeitada' after the lines of Medida Provisória 75/2002 (rejected) are not part of the text and are left out (" + ", ".join(dict.fromkeys(L9430_FIXED)) + ").")
+    if L13465_FIXED:
+        dec.append("Lei 13.465: Planalto's link '(Partes vetadas)' after the parts promulgated on 8.9.2017 is not text and is "
+                   "left out; art. 4 quotes Lei 11.952 art. 16 ('Art. 16. As condições resolutivas [...]', §§ 1º to 3º) with no "
+                   "opening quotation mark, and those lines are read as lines of art. 4, not as Lei 13.465's own art. 16.")
     if HEADS_USED:
         dec.append("Lei 9.430: the headings above arts. 18 to 22 (" + "; ".join(f"'{x}'" for x in dict.fromkeys(HEADS_USED))
                    + "), struck with no note, fall with the articles under them, revoked by Lei 14.596/2023 from 1.1.2024 "

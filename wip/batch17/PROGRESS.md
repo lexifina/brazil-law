@@ -162,23 +162,34 @@ Lei 7.713/1988 (IR), 43 versions 1989-01-01 .. 2024-12-06 (in force 1.1.1989, ar
 - Part sha 8b41fb85 (pre-effects 6a70a200); merged 151 acts, 2642 versions, 2101 commits, check 0/0, compare identical,
   audit clean. README row + jurisdiction.json (151 acts).
 
-## Part k status: Lei 9.430/1996 - IN PROGRESS, NOT installed, NOT published
-Configured in parse_batch17.py (ALL_ACTS, PARTS["k"], ACT_DAY 30.12.1996 = in-force day: art. 87's 'efeitos financeiros a
-partir de 1º de janeiro de 1997' are financial-only, as part h decided). Laws pinned (k-laws/k-missing, archive.org).
-Hand block '# part k' (guarded by the act): VIGENCIA_FIXED lei-12382-2011 1.3.2011, lei-12844-2013 19.7.2013 (art. 49 V),
-mp-472-2009 16.12.2009 (art. 60 I d), mp-668-2015 30.1.2015 (art. 3 II); MP_LAPSE (Atos pinned and read) mp-303-2006
-28.10.2006, mp-478-2009 2.6.2010, mp-822-2018 30.6.2018, mp-877-2019 24.7.2019, mp-1262-2024 13.3.2025, mp-1227-2024
-4.6.2024 (= never in force: Ato 36/2024 'considera não escritos [...] desde a data de sua edição' its art. 5, the only
-change to 9.430: art. 74 § 3º XI; CHECK the line is absent from every version, else SPAN_FIX skip); NOTE_FIX
-'(Redação dada pela nº 12.715, de 2012)'. Trial k-t2 (69 versions): 1 problem left + 3 diffs + 2 undated lines:
-- MP_PENDING mp-2158-2001 needed (MP 2.158-35, DOU 27.8.2001; its art. 70 rewrote 9.430 art. 63 caput; READ its whole
-  vigência/effects clause first - it has dated items: 'I - a partir de 1º de abril de 2000 ...').
-- DIFF art-02 § 5º (only on the consolidated page), art-74 'no' vs 'nº' (typography: EXPLAINED), titulos (consolidated
-  still prints the transfer-pricing headings Seção V 'Preços de Transferência' etc. of arts. 18-24, revoked by Lei
-  14.596/2023? check the annotated page's struck headings and how they end).
-- Arts. 18-24 (transfer pricing): MP 478/2009 wordings (lapsed 1.6.2010) and '(Sem eficácia)' markers: check no marker
-  text leaks into lines (L9250-style strip may be needed; add the page to a marker strip list).
-- Then: effrep.py 9.430 <every amender> for effect days (about 75 laws cited) -> MOVES "99-batch17k.json"; pipe.sh k.
+## 99-batch17k - PUBLISHed 2026-10-31 (fourth session)
+Lei 9.430/1996, 69 versions 1996-12-30 .. 2026-01-14 (+ 2030-01-01 on futuro). In force 30.12.1996 (art. 87 financial effects).
+- l9430 RE-PINNED (archive.org, ts 20261020175558; the old CC pin 20260910 predates Lei 15.525/2026's art. 2 § 5º, which the
+  compilada has). Old pin file kept at <scratch>/k/sources_batch17.before-k.json.
+- Hand (part k block, scoped to the act): MP_PENDING mp-2158-2001; VIGENCIA_FIXED lei-14596-2023 = 1.1.2024 (art. 47);
+  VIGENCIA_PROVISION: Lei 12.715 (art. 78 § 1º) arts 12/18/18-A/19/19-A/22 and Lei 12.766 (art. 13 II) art 22 -> 1.1.2013;
+  Lei 11.727 (art. 41 VI) arts 24/24-A/24-B and MP 449 art 24-A -> 1.1.2009; MP 1.602 (art. 72 II) and Lei 9.532 (art. 81
+  II) arts 44/47 -> 1.1.1998 (MP lines skipped: never in effect). SPAN_FIX (module level, keyed to the act): art-70 § 2º (MP
+  252 never in effect; 11.196 from 1.1.2006), art-19-a/19-b (MP 478 lines noted only 'Vide'), art-22 (12.715 caput/§ 5º
+  never), art-63 § 3º (MP 75), art-44/45/46 and art-18 II alíneas (Planalto's second copies = restored text or duplicates),
+  art-09 § 7º II a), art-24-a 11.727 p.u. (never). heads_14596() in apply_rewrites: headings of arts 18-22 end with Lei
+  14.596. paragraphs wrapper l9430: '(Sem eficácia)' and 'Rejeitada' markers stripped; BARE_TEXT art-88 (regex widened to
+  'pel[oa] (Decreto-Lei|Lei)'; parts h/j re-parsed: equal except sources[0].requests, known).
+- EXPLAINED art-74, art-88, titulos; OPEN_ITEMS L9430.
+- effects_fix MOVES "99-batch17k.json": 6 entries, 8 moves (MP 2.013-4, MP 66 art-74, MP 478, MP 517, Lei 15.265 art-17,
+  Lei 15.525 -> 2030). Amenders read with effrep (scratch k/effrep.txt): the rest are in force on publication for 9.430 or
+  retroactive (9.959, 10.637 art. 49, 12.249) - kept.
+- Part sha b55b1083 (pre-effects 2b1a7d53); merged 152 acts, 2711 versions, 2136 commits, check 0/0, compare identical,
+  audit clean. README row + jurisdiction.json (152 acts). Checks: dupline 3 / overlap 2 SAME = art. 9 § 1º vs § 7º (same
+  incisos, correct); leakcheck only literal '(revogado)'.
+- New tool .tmp/cdxlist.py <planalto path>...: archive.org CDX listing (timestamps, lengths).
+
+## State at handoff (batch 17, fourth session, 2026-10-31)
+Parts 99-batch17a..k installed with .PUBLISH (26 acts, 317 versions; merged 152 acts, 2711 versions, 2136 commits, check
+0/0, --compare identical, audit clean). README rows + jurisdiction.json (152 acts) current. All runs foreground through
+.tmp/run.py at BelowNormal; every PID exited; nothing left running. Fetching: archive.org only (iaonly.py); Arquivo.pt is
+user-approved (BRIEF) but not needed so far; no Common Crawl requests.
+Next: Leis 13.465/2017 and 11.977/2009 (pages not yet pinned: `iaonly.py gap <id> <url>`; .tmp/cdxlist.py lists captures).
 
 ## State at handoff (batch 17, third session, 2026-10-31)
 Parts 99-batch17a..j installed with .PUBLISH (25 acts, 248 versions; merged 151 acts, 2642 versions, 2101 commits, check
