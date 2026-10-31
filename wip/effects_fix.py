@@ -1,0 +1,481 @@
+"""effects_fix.py: date each change by the day it takes effect where the amending act fixes a later 'produção de efeitos'
+day for it (coordinator rule, 2026-10-31: 'we record the day text actually applies; dates after today go on futuro').
+
+    python -X utf8 scripts/brazil-law/effects_fix.py <part.json> [--out FILE] [--report]
+
+A post-step over a written part (the parsers date every change by its law's in-force day): for each entry of MOVES for
+the part, the changes the named law made on the named day are split into hunks (difflib over the unit's lines, before
+and after that version); each hunk gets the day its selector gives (the effect day; None = never took effect, because a
+later act replaced it before that day), and the unit's text is rebuilt for every day from the version day to the unit's
+next change: the old text with the hunks of each day applied. New versions are added on effect days that have none,
+credited to the same law; a version left with no change is dropped. The part's decisions record every unit moved. The
+step refuses an effect day on or after the unit's next change (a conflict to settle by hand). Idempotent: a part whose
+decisions already hold the effect-days decision is left as it is. No network.
+"""
+from __future__ import annotations
+
+import copy
+import difflib
+import json
+import re
+import sys
+from datetime import date
+from pathlib import Path
+
+HERE = Path(__file__).resolve().parent
+MARK = "Effect days (produção de efeitos):"
+TODAY = "2026-10-31"
+
+
+def _norm(s: str) -> str:
+    s = s.lower().replace("“", '"').replace("”", '"').replace("‘", "'").replace("’", "'")
+    s = re.sub(r"[\"'.…]+", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def ALL(hunk) -> bool:
+    return True
+
+
+def lines_match(rx: str):
+    r = re.compile(rx)
+
+    def f(h):
+        return any(r.search(x) for x in h["new"] + h["old"])
+    f.__name__ = f"lines_match({rx!r})"
+    return f
+
+
+def new_in(ref: str, minlen: int = 25):
+    """a hunk whose new lines (long enough to be telling) are found word for word in a reference text"""
+    R = _norm(ref)
+
+    def f(h):
+        ls = [_norm(x) for x in h["new"] if len(_norm(x)) >= minlen]
+        return bool(ls) and all(x[:120] in R for x in ls)
+    return f
+
+
+# ---------------------------------------------------------------------------------------------------------------------
+# Reference texts read from the cached pages (LC 214/2025 art. 517, the articles whose effects start on 1.1.2027)
+_REF: dict[str, str] = {}
+
+
+def ref(key: str) -> str:
+    if key not in _REF:
+        import html as _h
+        import os
+        os.environ.setdefault("BATCH14_ACTS", "-")
+        sys.path.insert(0, str(HERE / "batch14"))
+        import parse_batch14 as M  # noqa: E402
+        lawkey, a, b = key.split("|")
+        t = _h.unescape(re.sub(r"<[^>]+>", " ", M.P.decode(M.P.raw("law:" + lawkey)[0])))
+        t = re.sub(r"\s+", " ", t)
+        t = re.sub(r"\[\[S:.*?:S\]\]", " ", t)
+        i = t.find(a)
+        j = t.find(b, i + len(a))
+        assert i >= 0 and j > i, key
+        _REF[key] = t[i:j]
+    return _REF[key]
+
+
+def lc214_517(h) -> bool:
+    return new_in(ref("lc-214-2025|Art. 517. A Lei Complementar nº 123|Art. 518. A Lei Complementar nº 123"))(h)
+
+
+# ---------------------------------------------------------------------------------------------------------------------
+# MOVES: part -> [(act, law, version day, [(selector, effect day or None)], why)]. The first selector a hunk matches
+# gives its day; hunks no selector matches stay on the version day.
+_LC214 = ("Lei Complementar 214/2025 art. 544: 'Esta Lei Complementar entra em vigor na data de sua publicação, produzindo "
+          "efeitos: [...] III - a partir de 1º de janeiro de 2027, em relação aos arts. [...] 509 a 515, 517 [...]; [...] VI - a "
+          "partir de 1º de janeiro de 2026, em relação aos demais dispositivos'")
+MOVES: dict[str, list] = {
+    "corpus.json": [
+        ("cf-1988", "ec-58-2009", "2009-09-23", [(lines_match(r"^(Art\. 29-A|[IVX]+ -|§ \d)"), "2010-01-01")],
+         "Emenda Constitucional 58/2009 art. 3: 'produzindo efeitos: I - o disposto no art. 1º, a partir do processo "
+         "eleitoral de 2008 [before the amendment: kept on its in-force day]; e II - o disposto no art. 2º, a partir de 1º "
+         "de janeiro do ano subsequente ao da promulgação desta Emenda' (promulgated 23.9.2009): art. 2's change to art. "
+         "29-A from 1.1.2010"),
+        ("cf-1988", "ec-69-2012", "2012-03-30", [(ALL, "2012-07-28")],
+         "Emenda Constitucional 69/2012 art. 4: 'produzindo efeitos quanto ao disposto no art. 1º após decorridos 120 "
+         "(cento e vinte) dias de sua publicação oficial' (DOU 30.3.2012): art. 1's changes from 28.7.2012"),
+        ("cf-1988", "ec-87-2015", "2015-04-17", [(ALL, "2016-01-01")],
+         "Emenda Constitucional 87/2015 art. 3: 'produzindo efeitos no ano subsequente e após 90 (noventa) dias desta' "
+         "(DOU 17.4.2015): from 1.1.2016"),
+        ("cf-1988", "ec-100-2019", "2019-06-27", [(ALL, "2020-01-01")],
+         "Emenda Constitucional 100/2019 art. 4: 'produzirá efeitos a partir da execução orçamentária do exercício "
+         "financeiro subsequente' (DOU 27.6.2019): from 1.1.2020"),
+        ("cf-1988", "ec-102-2019", "2019-09-27", [("not-adct", "2020-01-01")],
+         "Emenda Constitucional 102/2019 art. 4: 'produzirá efeitos a partir da execução orçamentária do exercício "
+         "financeiro subsequente, excetuada a alteração ao Ato das Disposições Constitucionais Transitórias, que terá "
+         "eficácia no mesmo exercício de sua publicação' (DOU 27.9.2019): its changes to the permanent text from 1.1.2020, "
+         "its ADCT change on its in-force day"),
+    ],
+    "50-codes.json": [
+        ("codigo-civil", "lei-14905-2024", "2024-07-01",
+         [(lines_match(r"^§ 2º A metodologia de cálculo da taxa legal"), "2024-07-01"), (ALL, "2024-08-30")],
+         "Lei 14.905/2024 art. 5: 'produzirá efeitos: I - na data de sua publicação, quanto à parte do art. 2º que inclui o "
+         "§ 2º no art. 406 [...]; e II - 60 (sessenta) dias após a data de sua publicação, quanto aos demais dispositivos' "
+         "(DOU 1.7.2024): from 30.8.2024, art. 406 § 2º on publication"),
+    ],
+    "90-batch3.json": [
+        ("codigo-tributario-nacional", "lc-91-1997", "1997-12-23", [(ALL, "1998-01-01")],
+         "Lei Complementar 91/1997 art. 6: 'produzindo efeitos a partir de 1º de janeiro de 1998'"),
+        ("codigo-tributario-nacional", "lc-214-2025", "2025-01-16", [(ALL, "2026-01-01")],
+         _LC214 + "; its change to the CTN (art. 496) falls under VI: from 1.1.2026"),
+        ("estatuto-da-crianca-e-do-adolescente", "lei-9532-1997", "1997-12-11", [(ALL, "1998-01-01")],
+         "Lei 9.532/1997 art. 81: 'produzindo efeitos: I - nessa data, em relação aos arts. 9º, 37 a 42, 44 a 54, 64 a 68, "
+         "74 e 75; II - a partir de 1º de janeiro de 1998, em relação aos demais dispositivos': its change to the ECA (art. "
+         "6) from 1.1.1998"),
+    ],
+    "95-rju.json": [
+        ("regime-juridico-dos-servidores-publicos", "mp-689-2015", "2015-08-31", [(ALL, "2015-12-01")],
+         "Medida Provisória 689/2015 art. 3: 'produzindo efeitos a partir do primeiro dia do quarto mês subsequente ao de "
+         "sua publicação' (DOU 31.8.2015): from 1.12.2015, until the MP lapsed"),
+    ],
+    "99-batch5b.json": [
+        ("lei-do-inquilinato", "lei-11196-2005", "2005-11-22", [(ALL, "2006-01-01")],
+         "Lei 11.196/2005 art. 132: 'produzindo efeitos: [...] IV - a partir de 1º de janeiro de 2006, em relação ao "
+         "disposto: [...] b) nos arts. 17 a 27, 31 e 32, 34, 70 a 75 e 76 a 90 desta Lei': its change to the Lei do "
+         "Inquilinato (art. 89) from 1.1.2006"),
+        ("lei-de-mediacao", "lei-13327-2016", "2016-07-29", [(ALL, "2016-08-01")],
+         "Lei 13.327/2016 art. 42: 'produzindo efeitos a partir de 1º de agosto de 2016' (DOU 29.7.2016)"),
+    ],
+    "99-batch6.json": [
+        ("lei-de-improbidade-administrativa", "lc-157-2016", "2016-12-30", [(ALL, "2017-12-31")],
+         "Lei Complementar 157/2016 art. 7 § 1: 'O disposto [...] no art. 10-A, no inciso IV do art. 12 e no § 13 do art. 17, "
+         "todos da Lei nº 8.429 [...] somente produzirão efeitos após o decurso do prazo referido no art. 6º' (one year from "
+         "publication, DOU 30.12.2016; the year ends on 30.12.2017, Lei 810/1949): from 31.12.2017"),
+    ],
+    "99-batch7.json": [
+        ("lei-de-responsabilidade-fiscal", "lc-164-2018", "2018-12-18", [(ALL, "2019-01-01")],
+         "Lei Complementar 164/2018 art. 2: 'produzirá efeitos a partir do exercício financeiro subsequente'"),
+        ("lei-de-responsabilidade-fiscal", "lc-214-2025", "2025-01-16", [(ALL, "2026-01-01")],
+         _LC214 + "; its change to the LRF (art. 535) falls under VI: from 1.1.2026"),
+        ("lei-de-responsabilidade-fiscal", "lc-224-2025", "2025-12-26", [(ALL, "2026-01-01")],
+         "Lei Complementar 224/2025 art. 15: 'produzirá efeitos: I - a partir do primeiro dia do quarto mês subsequente "
+         "[...] em relação: a) ao disposto no art. 4º [...]; e b) aos arts. 7º e 9º; II - (VETADO); e III - a partir de 1º "
+         "de janeiro de 2026, em relação aos demais dispositivos': its changes to the LRF (arts. 1 and 2) from 1.1.2026"),
+        ("lei-das-sociedades-por-acoes", "lei-9249-1995", "1995-12-27", [(ALL, "1996-01-01")],
+         "Lei 9.249/1995 art. 35: 'produzindo efeitos a partir de 1º de janeiro de 1996'"),
+        ("lei-das-sociedades-por-acoes", "mp-517-2010", "2010-12-31",
+         [(lines_match(r"^Art\. 60\b"), "2010-12-31"), (ALL, "2011-01-01")],
+         "Medida Provisória 517/2010 art. 24: 'produzindo efeitos a partir de 1º de janeiro de 2011 em relação aos arts. 1º "
+         "a 17': its art. 6 (arts. 55, 59 and 66) from 1.1.2011; its art. 21 (revocation of art. 60) on publication"),
+        ("lei-das-sociedades-por-acoes", "mp-1040-2021", "2021-03-30",
+         [(lines_match(r"^§ 3º É vedada, nas companhias abertas, a acumulação"), None)],
+         "Medida Provisória 1.040/2021 art. 58: 'produz efeitos: I - trezentos e sessenta dias, contado da data de sua "
+         "publicação, quanto à parte do art. 5º que altera o § 3º do art. 138 da Lei nº 6.404' (25.3.2022); the MP was "
+         "converted into Lei 14.195/2021 on 27.8.2021, before that day, so its art. 138 § 3º never took effect"),
+        ("lei-das-sociedades-por-acoes", "lei-14195-2021", "2021-08-27",
+         [(lines_match(r"^§ 3º É vedada, nas companhias abertas, a acumulação"), "2022-08-22")],
+         "Lei 14.195/2021 art. 58: 'produzirá efeitos: [...] II - em 360 (trezentos e sessenta) dias, contados da data de sua "
+         "publicação, quanto à parte do art. 5º que altera o § 3º do art. 138 da Lei nº 6.404' (DOU 27.8.2021): art. 138 § "
+         "3º from 22.8.2022"),
+    ],
+    "99-batch10.json": [
+        ("lei-das-parcerias-publico-privadas", "lc-214-2025", "2025-01-16", [(ALL, "2027-01-01")],
+         _LC214 + "; its change to the Lei das PPPs (art. 513) falls under III: from 1.1.2027 (future branch)"),
+        ("lei-do-saneamento-basico", "lei-13329-2016", "2016-08-02", [(ALL, "2018-01-01")],
+         "Lei 13.329/2016 art. 4: 'produzirá efeitos a partir do segundo exercício subsequente à sua vigência' (in force "
+         "2.8.2016): from 1.1.2018"),
+        ("lei-do-petroleo", "mp-1063-2021", "2021-08-12", [(lines_match(r"^(Art\. 68-[BC]|[IVX]+ -|§|Parágrafo)"), None)],
+         "Medida Provisória 1.063/2021 art. 6: 'produz efeitos: I - na data da sua publicação, quanto ao: a) art. 1º, na "
+         "parte que acresce o art. 68-D [...]; e b) art. 3º; e II - no primeiro dia do quarto mês subsequente ao de sua "
+         "publicação, quanto aos demais dispositivos' (1.12.2021): its arts. 68-B and 68-C were rewritten by Medida "
+         "Provisória 1.069/2021 (13.9.2021, in force on publication) before that day, so its own wording of them never took "
+         "effect; art. 68-D on publication"),
+    ],
+    "99-batch11.json": [
+        ("lei-dos-crimes-contra-a-ordem-tributaria", "lei-8383-1991", "1991-12-31", [(ALL, "1992-01-01")],
+         "Lei 8.383/1991 art. 98: 'produzirá efeitos a partir de 1º de janeiro de 1992'"),
+        ("lei-dos-crimes-contra-a-ordem-tributaria", "lc-224-2025", "2025-12-26", [(ALL, "2026-01-01")],
+         "Lei Complementar 224/2025 art. 15 III: 'a partir de 1º de janeiro de 2026, em relação aos demais dispositivos': its "
+         "change to Lei 8.137 (art. 11) from 1.1.2026"),
+    ],
+    "99-batch14a.json": [
+        ("lei-kandir", "lc-115-2002", "2002-12-27", [(ALL, "2003-01-01")],
+         "Lei Complementar 115/2002 art. 4: 'produzindo efeitos a partir de 1º de janeiro de 2003'"),
+        ("lei-kandir", "lc-120-2005", "2005-12-30", [(ALL, "2006-01-01")],
+         "Lei Complementar 120/2005 art. 3: 'produzindo efeitos a partir do dia 1º de janeiro subseqüente' (DOU 30.12.2005)"),
+        ("lei-kandir", "lc-190-2022", "2022-01-05", [(ALL, "2022-04-05")],
+         "Lei Complementar 190/2022 art. 3: 'observado, quanto à produção de efeitos, o disposto na alínea \"c\" do inciso "
+         "III do caput do art. 150 da Constituição Federal' (ninety days after publication, DOU 5.1.2022): from 5.4.2022"),
+        ("lei-kandir", "lc-214-2025", "2025-01-16", [(ALL, "2026-01-01")],
+         _LC214 + "; its change to the Lei Kandir (art. 501, art. 31-A) falls under VI: from 1.1.2026"),
+        ("lei-do-iss", "lc-157-2016", "2016-12-30",
+         [(lines_match(r"^(Art\. 8º-A|§ 1º O imposto não será objeto|§ 2º É nula a lei)"), "2017-12-31")],
+         "Lei Complementar 157/2016 art. 7 § 1: 'O disposto no caput e nos §§ 1º e 2º do art. 8º-A da Lei Complementar nº "
+         "116 [...] somente produzirão efeitos após o decurso do prazo referido no art. 6º' (one year from publication, DOU "
+         "30.12.2016): art. 8º-A caput and §§ 1º-2º from 31.12.2017; § 3º and the other changes on publication"),
+        ("lei-do-iss", "lc-214-2025", "2025-01-16", [(ALL, "2026-01-01")],
+         _LC214 + "; its change to the Lei do ISS (art. 508, art. 8º-B) falls under VI: from 1.1.2026"),
+    ],
+    "99-batch14e.json": [
+        ("estatuto-da-microempresa", "lc-147-2014", "2014-08-08", "LC147", None),
+        ("estatuto-da-microempresa", "lc-155-2016", "2016-10-28",
+         [("units:art-61-a,art-61-b,art-61-c,art-61-d", "2017-01-01"), (ALL, "2018-01-01")],
+         "Lei Complementar 155/2016 art. 11: 'produzindo efeitos: I - na data de sua publicação, com relação ao art. 9º [not "
+         "a change to this act]; II - a partir de 1º de janeiro de 2017, com relação aos arts. 61-A, 61-B, 61-C e 61-D da "
+         "Lei Complementar nº 123 [...]; III - a partir de 1º de janeiro de 2018, quanto aos demais dispositivos'"),
+        ("estatuto-da-microempresa", "lc-214-2025", "2025-01-16",
+         [(lines_match(r"^VII - "), "2025-01-16"), (lc214_517, "2027-01-01"), (ALL, "2026-01-01")],
+         _LC214 + "; its art. 516 (arts. 1º, 2º, 3º, 12, 17, 25-A, 25-B, 26, 38-A, 41) falls under VI, from 1.1.2026, and "
+         "its art. 517 (wordings found word for word in it) under III, from 1.1.2027 (future branch); art. 541's revocation "
+         "of art. 13 § 1º VII 'a partir de 1º de janeiro de 2025' (II, before the law's publication) stays on the in-force "
+         "day"),
+    ],
+}
+# LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
+# 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,
+# ao § 3º do art. 20, aos incisos I, II e V do § 4º do art. 21 [...] ao art. 3º e aos incisos III a V do art. 16 desta
+# Lei Complementar, que produzirão efeitos a partir de 1º de janeiro do primeiro ano subsequente [...]; II - ao § 15 do
+# art. 3º, aos §§ 12 a 14 do art. 26, ao art. 38-B, à alínea a do inciso XIII do § 1º e aos §§ 7º e 8º do art. 13 e ao
+# art. 21-A [...] e ao inciso I do art. 16 desta Lei Complementar, que produzirão efeitos a partir de 1º de janeiro do
+# segundo ano subsequente' (DOU 8.8.2014). Art. 16 III-V revoke art. 17 XI and XIII, art. 18 §§ 5º-A, 5º-G and § 14 I-II,
+# art. 49 I; art. 16 I revokes art. 4 § 1º II. Selectors are by dispositivo path (unit, paragraph, inciso, alínea).
+LC147_2015 = [("art-03", "§ 14", None, None), ("art-17", "caput", "VI -", None), ("art-17", "caput", "XI -", None),
+              ("art-17", "caput", "XIII -", None), ("art-18", "caput", None, None),
+              *[("art-18", p, None, None) for p in ("§ 2º", "§ 5º-D", "§ 5º-F", "§ 5º-I", "§ 7º", "§ 13", "§ 14", "§ 16",
+                                                     "§ 17", "§ 18", "§ 18-A", "§ 24", "§ 5º-A", "§ 5º-G")],
+              ("art-18-a", "§ 4º", "I -", None), ("art-19", "caput", None, None), ("art-20", "§ 3º", None, None),
+              ("art-21", "§ 4º", "I -", None), ("art-21", "§ 4º", "II -", None), ("art-21", "§ 4º", "V -", None),
+              ("art-49", "caput", "I -", None)]
+LC147_2016 = [("art-03", "§ 15", None, None), ("art-26", "§ 12", None, None), ("art-26", "§ 13", None, None),
+              ("art-26", "§ 14", None, None), ("art-38-b", "*", None, None), ("art-13", "§ 1º", "XIII -", "a)"),
+              ("art-13", "§ 7º", None, None), ("art-13", "§ 8º", None, None), ("art-21-a", "*", None, None),
+              ("art-04", "§ 1º", "II -", None)]
+LC147_WHY = ("Lei Complementar 147/2014 art. 17: 'entra em vigor na data de sua publicação, exceto no que se refere: I - ao § 14 "
+             "do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º, 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do "
+             "art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19, ao § 3º do art. 20, aos incisos I, II e V do § 4º "
+             "do art. 21 [...] e aos incisos III a V do art. 16 desta Lei Complementar [the revocations of art. 17 XI and XIII, "
+             "art. 18 §§ 5º-A, 5º-G and 14 I-II, art. 49 I], que produzirão efeitos a partir de 1º de janeiro do primeiro ano "
+             "subsequente ao da publicação [...]; II - ao § 15 do art. 3º, aos §§ 12 a 14 do art. 26, ao art. 38-B, à alínea a do "
+             "inciso XIII do § 1º e aos §§ 7º e 8º do art. 13 e ao art. 21-A [...] e ao inciso I do art. 16 [revocation of art. 4 "
+             "§ 1º II], que produzirão efeitos a partir de 1º de janeiro do segundo ano subsequente' (DOU 8.8.2014): those "
+             "dispositivos from 1.1.2015 and 1.1.2016, the rest on publication")
+_LV = re.compile(r"^(?:(Art\.\s*\d+[º°]?(?:-[A-Z])?)|(§\s*\d+[º°]?(?:-[A-Z])?|Parágrafo único)|([IVXLC]+(?:-[A-Z])?\s*-)|([a-z]\)))")
+
+
+def paths(lines: list[str]) -> list[tuple]:
+    out, par, inc, ali = [], "caput", None, None
+    for x in lines:
+        m = _LV.match(x)
+        if m and m.group(1):
+            par, inc, ali = "caput", None, None
+        elif m and m.group(2):
+            par, inc, ali = re.sub(r"\s+", " ", m.group(2)).replace("°", "º"), None, None
+        elif m and m.group(3):
+            inc, ali = re.sub(r"\s+", " ", m.group(3)).strip(), None
+            inc = re.sub(r"\s*-$", " -", inc)
+        elif m and m.group(4):
+            ali = m.group(4)
+        out.append((par, inc, ali, bool(m and m.group(1))))
+    return out
+
+
+def path_sel(targets, unit_of_hunk):
+    def f(h):
+        for u, par, inc, ali in targets:
+            if u != h["unit"]:
+                continue
+            if par == "*":
+                return True
+            for p in h["paths"]:
+                if p[0] != par:
+                    continue
+                if par == "caput" and inc is None and not p[3]:
+                    continue        # 'caput' alone: the caput sentence, not its incisos
+                if inc is not None and p[1] != inc:
+                    continue
+                if ali is not None and p[2] != ali:
+                    continue
+                return True
+        return False
+    return f
+
+
+def hunks(old: str | None, new: str | None, unit: str) -> tuple[list[str], list[dict]]:
+    a = (old or "").splitlines()
+    b = (new or "").splitlines()
+    pa, pb = paths(a), paths(b)
+    out = []
+    for tag, i1, i2, j1, j2 in difflib.SequenceMatcher(None, a, b, autojunk=False).get_opcodes():
+        if tag == "equal":
+            continue
+        out.append({"i1": i1, "i2": i2, "j1": j1, "j2": j2, "old": a[i1:i2], "new": b[j1:j2], "unit": unit,
+                    "paths": pa[i1:i2] + pb[j1:j2] + ([pa[i1 - 1]] if i1 and not b[j1:j2] and not a[i1:i2] else [])})
+    return a, out
+
+
+def rebuild(a: list[str], hs: list[dict], b: list[str], applied) -> str | None:
+    res, i = [], 0
+    for h in hs:
+        res += a[i:h["i1"]]
+        res += h["new"] if applied(h) else h["old"]
+        i = h["i2"]
+    res += a[i:]
+    return ("\n".join(res) + "\n") if res else None
+
+
+def full(versions):
+    st, out = {}, []
+    for v in versions:
+        if "units" in v:
+            st = copy.deepcopy(v["units"])
+        for k, u in (v.get("changes") or {}).items():
+            if u is None:
+                st.pop(k, None)
+            else:
+                st[k] = copy.deepcopy(u)
+        w = {k: x for k, x in v.items() if k not in ("units", "changes")}
+        w["units"] = copy.deepcopy(st)
+        out.append(w)
+    return out
+
+
+def deltas(versions):
+    out, prev = [], None
+    for v in versions:
+        units = v.pop("units")
+        if prev is None:
+            v["units"] = units
+        else:
+            v["changes"] = {u: units.get(u) for u in sorted(set(units) | set(prev)) if units.get(u) != prev.get(u)}
+        out.append(v)
+        prev = units
+    return out
+
+
+def key_order(v):
+    return [k for k in ("from", "same_day", "credits", "note", "source_url", "sha256") if k in v]
+
+
+def apply_move(act: dict, law: str, day: str, rules, moved: list[str]) -> None:
+    vs = full(act["versions"])
+    idx = [i for i, v in enumerate(vs) if v["from"] == day and any(law in c for c in v.get("credits", {}).values())]
+    assert len(idx) == 1, (act["slug"], law, day, idx)
+    k = idx[0]
+    v, prev = vs[k], vs[k - 1]["units"] if k else {}
+    units = [u for u, c in v["credits"].items() if law in c]
+    for u in units:
+        old = prev.get(u, {}).get("text") if u in prev else None
+        new = v["units"].get(u, {}).get("text") if u in v["units"] else None
+        a, hs = hunks(old, new, u)
+        if not hs:
+            continue
+        for h in hs:
+            h["day"] = day
+            for sel, eff in rules:
+                if isinstance(sel, str) and sel.startswith("units:"):
+                    hit = u in sel[6:].split(",")
+                elif sel == "not-adct":
+                    hit = not u.startswith("adct-")
+                else:
+                    hit = sel(h)
+                if hit:
+                    h["day"] = eff
+                    break
+        effs = sorted({h["day"] for h in hs if h["day"] and h["day"] != day})
+        drops = [h for h in hs if h["day"] is None]
+        if not effs and not drops:
+            continue
+        # the unit's next change after this version
+        nxt = next((j for j in range(k + 1, len(vs)) if vs[j]["units"].get(u) != v["units"].get(u)), None)
+        nday = vs[nxt]["from"] if nxt is not None else None
+        for e in effs:
+            assert nday is None or e < nday, f"conflict: {act['slug']} {u} {law} effect {e} >= next change {nday}"
+        base_unit = copy.deepcopy(v["units"].get(u) or prev.get(u))
+
+        def text_on(t):
+            return rebuild(a, hs, None, lambda h: h["day"] is not None and h["day"] <= t)
+        # insert versions for effect days with none (before the unit's next change)
+        for e in effs:
+            if not any(w["from"] == e for w in vs):
+                pos = next((j for j, w in enumerate(vs) if w["from"] > e), len(vs))
+                src = vs[pos - 1]
+                nv = {"from": e, "credits": {}, "source_url": v.get("source_url"), "sha256": v.get("sha256"),
+                      "units": copy.deepcopy(src["units"])}
+                nv = {kk: nv[kk] for kk in ("from", "credits", "source_url", "sha256", "units") if nv.get(kk) is not None
+                      or kk == "units"}
+                vs.insert(pos, nv)
+                if nxt is not None and pos <= nxt:
+                    nxt += 1
+        k = next(i for i, w in enumerate(vs) if w is v)
+        end = nxt if nxt is not None else len(vs)
+        for j in range(k, end):
+            w = vs[j]
+            t = text_on(w["from"])
+            if t is None:
+                w["units"].pop(u, None)
+            else:
+                nu = copy.deepcopy(base_unit)
+                nu["text"] = t
+                w["units"][u] = nu
+        # credits: the version day keeps the law only if something of it applies then
+        if text_on(day) == old:
+            v["credits"][u] = [x for x in v["credits"][u] if x != law]
+            if not v["credits"][u]:
+                del v["credits"][u]
+        for e in effs:
+            w = next(w for w in vs if w["from"] == e and not w.get("same_day"))
+            w["credits"].setdefault(u, [])
+            if law not in w["credits"][u]:
+                w["credits"][u].append(law)
+        moved.append(f"{act['slug']} {u}: {law} " + ", ".join(
+            f"{'never (superseded)' if h['day'] is None else h['day']} [{(h['new'] or h['old'] or [''])[0][:40]}]"
+            for h in hs if h["day"] != day))
+    # drop versions left without any change or credit (never the first)
+    out = [vs[0]]
+    for w in vs[1:]:
+        if w["units"] == out[-1]["units"] and not w.get("credits") and not w.get("note"):
+            continue
+        out.append(w)
+    act["versions"] = deltas([{kk: w[kk] for kk in key_order(w) + ["units"]} for w in out])
+
+
+def run(path: str, out: str | None) -> list[str]:
+    name = Path(path).name
+    d = json.loads(Path(path).read_text(encoding="utf-8"))
+    if any(x.startswith(MARK) for x in d["decisions"]) or name not in MOVES:
+        return []
+    moved: list[str] = []
+    for act_slug, law, day, rules, why in MOVES[name]:
+        act = next(a for a in d["acts"] if a["slug"] == act_slug)
+        if rules == "LC147":
+            rules = [(path_sel(LC147_2015, None), "2015-01-01"), (path_sel(LC147_2016, None), "2016-01-01")]
+            why = LC147_WHY
+        before = len(moved)
+        apply_move(act, law, day, rules, moved)
+        if len(moved) > before:
+            moved[before] = why + ". Moved: " + moved[before]
+    d["decisions"] = [re.sub(r"their versions are dated by the in-force day \(the day the wording became the law's "
+                             r"text\), as for the Constitution",
+                             "a change is dated by the day it takes effect where the clause fixes a later day for it (the "
+                             "effect-days decision lists the units moved); effects that are retroactive, financial only or "
+                             "left to a later act or condition keep the in-force day", x) for x in d["decisions"]]
+    d["decisions"] = [x.replace("as for other deferred effects, the wording is dated by the in-force day",
+                                "an effect day left to a later act is not a fixed day, so the wording is dated by the "
+                                "in-force day") for x in d["decisions"]]
+    if moved:
+        d["decisions"].append(
+            MARK + " where an act fixes a later day from which a provision produces effects ('produzindo efeitos a "
+            "partir de ...'), the change is dated by that day, not by the act's in-force day (dates after "
+            f"{TODAY} are on the future branch); hunks a later act replaced before their effect day never took effect. "
+            "Applied by effects_fix.py after the replay. " + " | ".join(moved) + ".")
+    o = Path(out or path)
+    tmp = o.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(d, ensure_ascii=False, indent=None, separators=(",", ":")) + "\n", encoding="utf-8",
+                   newline="\n")
+    tmp.replace(o)
+    return moved
+
+
+if __name__ == "__main__":
+    args = sys.argv[1:]
+    out = args[args.index("--out") + 1] if "--out" in args else None
+    res = run(args[0], out)
+    print(len(res), "moves")
+    if "--report" in args:
+        for x in res:
+            print(" -", x[-700:])
