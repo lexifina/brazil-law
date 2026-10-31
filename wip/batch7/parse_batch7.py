@@ -181,6 +181,61 @@ B6.NEVER_IN_FORCE.clear()
 B6.MP_CHAINS.clear()
 B6.REISSUES.clear()
 
+# ---------------------------------------------------------------------------------------------------------------
+# hand tables for these acts, each read from the official pages named in the reason
+P.NOTE_FIX = {
+    "(Redação dada pela Lei nº 11.673, 2008)": (
+        "(Redação dada pela Lei nº 11.673, de 2008)",
+        "Estatuto da Cidade art. 50: the note reads 'Lei nº 11.673, 2008' (no 'de'); its link is "
+        "_Ato2007-2010/2008/Lei/L11673.htm, Lei nº 11.673, de 8.5.2008, whose art. 1 gives art. 50 that wording"),
+}
+# laws whose vigência clause is staged or not machine-readable: key -> (day, reason)
+P.VIGENCIA_FIXED.update({
+    "lei-11638-2007": ("2008-01-01", "art. 10: 'Esta Lei entra em vigor no primeiro dia do exercício seguinte ao de sua "
+                                     "publicação' (DOU 28.12.2007, edição extra): 1.1.2008"),
+    "lei-14711-2023": ("2023-10-31", "art. 26: 'Esta Lei entra em vigor: I - (VETADO); II - na data de sua publicação, quanto "
+                                     "aos demais dispositivos' (DOU 31.10.2023)"),
+    "lc-178-2021": ("2021-01-14", "art. 32: 'Esta Lei Complementar entra em vigor: I - em relação a seu art. 16, "
+                                  "especificamente no que altera o art. 51 da Lei Complementar nº 101 [...] a partir de 2022; "
+                                  "II - em relação a seu art. 16, especificamente no que altera o art. 42 [...] a partir de "
+                                  "2023; III - em relação às demais disposições, na data de sua publicação' (DOU 14.1.2021); "
+                                  "its changes to LRF arts. 51 and 42 are dated 1.1.2022 and 1.1.2023"),
+})
+P.VIGENCIA_PROVISION.update({
+    ("lc-178-2021", "lei-de-responsabilidade-fiscal", "art-51"): ("2022-01-01", "Lei Complementar 178/2021 art. 32, I"),
+    ("lc-178-2021", "lei-de-responsabilidade-fiscal", "art-42"): ("2023-01-01", "Lei Complementar 178/2021 art. 32, II"),
+})
+# Medidas Provisórias that lapsed: key -> (day the wording they replaced is back, reason), from the Ato Declaratório
+# the MP page links ('Vigência encerrada'), pinned as ato:* in sources_batch7.json
+P.MP_LAPSE.update({
+    "mp-1065-2021": ("2022-02-07", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 5, de 2022 (DOU "
+                                   "11.3.2022): 'teve seu prazo de vigência encerrado no dia 6 de fevereiro de 2022'"),
+    "mp-1158-2023": ("2023-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 39, de 2023 (DOU "
+                                   "16.6.2023): 'teve seu prazo de vigência encerrado no dia 1º de junho de 2023'"),
+    "mp-784-2017": ("2017-10-20", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 56, de 2017 (DOU "
+                                  "23.10.2017): 'teve seu prazo de vigência encerrado no dia 19 de outubro do corrente ano'"),
+    "mp-892-2019": ("2019-12-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 68, de 2019 (DOU "
+                                  "5.12.2019): 'teve seu prazo de vigência encerrado no dia 3 de dezembro do corrente ano'"),
+})
+# MP pages whose 'Convertida na Lei' line is mistyped, so parse_proc does not read it: key -> (conversion law, why)
+CONVERTED_FIX: dict[str, tuple[str, str]] = {
+    "mp-459-2009": ("lei-11977-2009", "the MP page reads 'Convertida na Lei nº 1 1.977, de 2009' (a space inside the "
+                                      "number), linking ../Lei/L11977.htm, Lei nº 11.977, de 7.7.2009"),
+}
+CONVERTED_USED: list[str] = []
+_page_info7 = P.page_info
+
+
+def page_info(key: str) -> dict:
+    info = _page_info7(key)
+    if key in CONVERTED_FIX and info and not info.get("converted"):
+        info["converted"] = CONVERTED_FIX[key][0]
+        CONVERTED_USED.append(key)
+    return info
+
+
+P.page_info = B.page_info = page_info
+
 SRC = HERE / "sources_batch7.json"
 B5.SRC = SRC
 B5.PIN_FILES = B5.PIN_FILES + [SRC]
