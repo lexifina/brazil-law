@@ -99,3 +99,9 @@ the 12 earlier acts byte-identical. README table rows added; jurisdiction.json n
 Marco Civil, Lei Anticorrupção, Lei de Drogas, Lei de Arbitragem, Lei do Inquilinato and Lei de Mediação. Improbidade,
 Crimes Ambientais, LAI and Lei 9.784 are deferred (open in-force days). Details, checks and how to rerun:
 batch5/PROGRESS.md. Scripts in batch5/ and batch5b/ (acts chosen by env BATCH5B_ACTS).
+
+## Batch 6+ (gitlaw-BR-batch6 agent on alan-dell, 2026-10-31)
+
+99-batch6 = the four acts batch 5b deferred (Improbidade, Crimes Ambientais, LAI, Lei 9.784), dates settled from the
+Chamber's records of the retificações and the Senate's Ato Declaratório on MP 62/2002; 41 versions, check 0/0,
+--compare identical, 99-batch6.PUBLISH written. Next parts 99-batch7, ... Details: batch6/PROGRESS.md.
