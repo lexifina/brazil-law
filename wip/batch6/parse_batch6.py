@@ -186,7 +186,20 @@ def page_info(key: str) -> dict:
     if m and info:
         P.LEXML_USED.discard(_lexml_url6(base, info.get("enacted")))
         P.LEXML_USED.add(lexml_url(key, info.get("enacted")))
+    if info and key not in REISSUED:
+        nx = next_edition(key, info)
+        if nx:
+            ninfo = page_info(nx)
+            day = P.vigencia_of(nx, ninfo)[0] if ninfo else None
+            if day:
+                REISSUED[key] = (nx, day, ninfo)
+                P.MP_PENDING[key] = REISSUE_MARK
     return info
+
+
+# an edition replaced by the next one: kept out of parse_proc's fate problems (MP_PENDING with this marker), its end
+# set in lifespans below, and described in the MP decision as reissued
+REISSUE_MARK = "(reissued: see lifespans)"
 
 
 P.law_key, P.law_label, P.lexml_url, P.page_info = law_key, law_label, lexml_url, page_info
@@ -346,9 +359,57 @@ def mp_chain(p: dict, cx, problems: list[str]) -> None:
 # page must be pinned. Editions still standing on 11.9.2001 stay in force (EC 32/2001 art. 2: MP_PENDING).
 REISSUED_RX = re.compile(r"Reeditad[ao]\s+pel[ao]\s+(?:Medida\s+Provis[óo]ria|MPv?)\s*(?:n\s*[º°o]?\s*\.?)?\s*"
                          r"(\d{1,2}(?:\.\d{3})+|\d+)-(\d{1,2})(?!\d)\s*,?\s*de\s+(\d{4})", re.I)
-REISSUED: dict[str, str] = {}        # edition key -> next edition key
-REISSUE_TARGETS: set[str] = set()     # next editions read only for their day
+REISSUED: dict[str, tuple] = {}      # edition key -> (next edition key, its DOU day, its page info)
 REISSUE_ENDS: list[str] = []
+
+
+def reissue_ends(paras: list[dict], cx, problems: list[str]) -> None:
+    for p in paras:
+        hit = REISSUED.get(p.get("start_law") or "")
+        if p["state"] == "plain" or p["end"] or p["gaps"] or p.get("skip") or not hit:
+            continue
+        nx, day, ninfo = hit
+        tag = f"no end for struck {p['unit']} [{p['label']}] {p['text'][:90]!r}"
+        if page_has(nx, p["text"]):
+            problems.append(f"edition wording carried on by {nx}: {p['unit']} [{p['label']}] {p['text'][:70]!r}")
+            continue
+        p["end"], p["end_law"], p["end_how"] = day, nx, "reissue"
+        problems[:] = [x for x in problems if not x.startswith(tag)]
+        REISSUE_ENDS.append(f"{cx.act} {p['unit']} [{p['label']}] ({P.law_label(p['start_law'])} to {day})")
+        if nx not in cx.eff and nx not in P.ACT_LAWS:
+            P.ACT_LAWS[nx] = {"label": P.law_label(nx), "title": ninfo.get("title") or "", "kind": "law",
+                              "enacted": ninfo.get("enacted"), "published": ninfo.get("published"),
+                              "url": (P.sources().get("law:" + nx) or {}).get("url"), "temporary_until": None,
+                              "restores": None, "note": None}
+    # children of an ended struck line fall with it (parse_proc's parent rule ran before these ends were set)
+    for i, p in enumerate(paras):
+        if p["state"] == "plain" or p["end"] or p["gaps"] or p.get("skip") or p["heading"]:
+            continue
+        lv = P.level(p["label"])
+        for q in reversed(paras[:i]):
+            if q["unit"] != p["unit"]:
+                break
+            if P.level(q["label"]) < lv and not q["heading"]:
+                if q.get("end_how") == "reissue" and q["end"] > p["start"]:
+                    p["end"], p["end_law"], p["end_how"] = q["end"], q["end_law"], "parent"
+                    tag = f"no end for struck {p['unit']} [{p['label']}] {p['text'][:90]!r}"
+                    problems[:] = [x for x in problems if not x.startswith(tag)]
+                break
+
+
+_mp_notes6 = P.mp_notes
+
+
+def mp_notes(infos: dict, eff: dict) -> list[str]:
+    out = _mp_notes6(infos, eff)
+    for k, (nx, day, _) in sorted(REISSUED.items()):
+        out = [x.replace(f"{P.law_label(k)} (in force {eff.get(k)}) still pending: {REISSUE_MARK}",
+                         f"{P.law_label(k)} (in force {eff.get(k)}) was reissued as {P.law_label(nx)} (DOU {day}), which "
+                         f"replaced it that day ('Reeditada pela' on its page)") for x in out]
+    return out
+
+
+P.mp_notes = mp_notes
 
 
 def next_edition(key: str, info: dict) -> str | None:
@@ -468,6 +529,7 @@ def lifespans(paras: list[dict], cx) -> list[str]:
             WITH_WORDING_USED.append(f"{cx.act} {p['unit']} [{p['label']}] ({P.law_label(x)}, wording {P.law_label(y)}, "
                                      f"from {day})")
     problems += _lifespans6(paras, cx)
+    reissue_ends(paras, cx, problems)
     renum_post(paras, cx, problems)
     for p in paras:
         if p.get("never"):
@@ -514,6 +576,15 @@ def _inner(*a) -> int:
             "A wording Planalto credits to both the first and the last Medida Provisória of one reissue chain starts with the "
             "first, once its text is found on both MP pages (the reissues kept it in force): "
             + "; ".join(dict.fromkeys(MP_CHAIN_USED)) + ".")
+    if REISSUE_ENDS:
+        B5.EXTRA_DECISIONS.append(
+            "Before EC 32/2001 a Medida Provisória was reissued as numbered editions, each a new act from its own DOU day; "
+            "a struck wording credited to one edition, with no later wording on the act's page and not printed on the next "
+            "edition's own page, ends on the day that next edition was published: " + "; ".join(dict.fromkeys(REISSUE_ENDS)) + ".")
+    if MP_CHAIN_UNREAD:
+        B5.EXTRA_DECISIONS.append(
+            "Wordings credited to several editions of one reissue chain whose text was not found on every edition's page "
+            "keep the latest edition's day: " + "; ".join(dict.fromkeys(MP_CHAIN_UNREAD)) + ".")
     if NEVER_USED:
         for code, why in NEVER_WHY.items():
             used = [u for c, u in NEVER_USED if c == code]
