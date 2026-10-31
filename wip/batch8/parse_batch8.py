@@ -317,22 +317,28 @@ def _norm(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
-def lifespans(paras: list[dict], cx) -> list[str]:
-    problems = _lifespans8(paras, cx)
+def apply_span_fix(paras: list[dict], act_slug: str, record: bool) -> None:
     for (act, unit, label, start, nth), fields, why in SPAN_FIX:
-        if act != cx.act:
+        if act != act_slug:
             continue
         hits = [p for p in paras if p["unit"] == unit and p["label"] == label and _norm(p["text"]).startswith(_norm(start))
                 and not p["heading"]]
         if len(hits) <= nth:
-            SPAN_MISSED.append(f"{act} {unit} [{label}] #{nth} {start[:50]!r}")
+            if record:
+                SPAN_MISSED.append(f"{act} {unit} [{label}] #{nth} {start[:50]!r}")
             continue
         p = hits[nth]
         if "gaps" in fields:
             fields = dict(fields, gaps=[tuple(g) for g in fields["gaps"]])
         p.update(fields)
         p["pinned"] = True
-        SPAN_USED.append(why)
+        if record:
+            SPAN_USED.append(why)
+
+
+def lifespans(paras: list[dict], cx) -> list[str]:
+    problems = _lifespans8(paras, cx)
+    apply_span_fix(paras, cx.act, True)
     # an 'ends before it starts' problem on a line set aside here by hand is settled
     left_out = {f"{p['unit']} [{p['label']}] {p['start']}" for p in paras if p.get("pinned") and p.get("skip")}
     problems = [x for x in problems if not (x.startswith("ends before it starts: ")
@@ -341,6 +347,18 @@ def lifespans(paras: list[dict], cx) -> list[str]:
     return problems
 
 
+_apply_rewrites8 = P.apply_rewrites
+
+
+def apply_rewrites(paras, act, eff, problems):
+    """parse_proc's rewrite rules (date-order chains, renumbered copies) run after the life spans; the hand-set spans
+    are put back after them."""
+    out = _apply_rewrites8(paras, act, eff, problems)
+    apply_span_fix(paras, act["slug"], False)
+    return out
+
+
+P.apply_rewrites = B.apply_rewrites = apply_rewrites
 P.lifespans = B.lifespans = lifespans
 
 _inner8 = B6.PB5B._write_part5
