@@ -275,6 +275,32 @@ MOVES: dict[str, list] = {
          "e 15, exceto o § 13 do art. 25 da Lei nº 8.212 [...] que produzirão efeitos a partir de 1º de janeiro de 2019' (DOU "
          "10.1.2018; the 1.1.2018 effects are retroactive and keep the in-force day): art. 25 § 13 from 1.1.2019"),
     ],
+    "99-batch15b.json": [
+        ("lei-de-beneficios-da-previdencia-social", "lei-10684-2003", "2003-05-31", [("units:art-126", "2003-09-01")],
+         "Lei 10.684/2003 art. 29: 'produzindo efeitos: [...] III - em relação aos arts. 18, 19, 20 e 22, a partir do mês "
+         "subseqüente ao do termo final do prazo nonagesimal, a que refere o § 6º do art. 195 da Constituição Federal' (DOU "
+         "31.5.2003; the 90 days end on 29.8.2003): its art. 20 (art. 126 § 1º) from 1.9.2003"),
+        ("lei-de-beneficios-da-previdencia-social", "lei-10710-2003", "2003-08-06", [(ALL, "2003-09-01")],
+         "Lei 10.710/2003 art. 2: 'produzindo efeitos em relação aos benefícios requeridos a partir do primeiro dia do mês "
+         "seguinte ao de sua publicação' (DOU 6.8.2003): its changes (arts. 71, 71-A, 72, 73) from 1.9.2003"),
+        ("lei-de-beneficios-da-previdencia-social", "mp-619-2013", "2013-06-07",
+         [(lines_match(r"^(VI - a associação em cooperativa agropecuária; e|VII - a incidência do Imposto|"
+                       r"c\) se tornar segurado obrigatório de outro regime previdenciário; e|d\) participar de sociedade|"
+                       r"§ 12\. A participação)"), None)],
+         "Medida Provisória 619/2013 art. 16: 'produzindo efeitos no primeiro dia do sétimo mês após sua publicação, em "
+         "relação: [...] II - ao inciso VII do § 8º do art. 11, à alínea \"d\" do inciso I do § 10 art. 11, e ao parágrafo § 12 "
+         "do art. 11 da Lei nº 8.213, de 1991; e III - ao art. 17 desta Medida Provisória' (DOU 7.6.2013: 1.1.2014); the MP "
+         "was converted into Lei 12.873/2013 (25.10.2013) before that day, so its wording of those dispositivos (with the "
+         "'; e' it added to the item before each new item) never took effect"),
+        ("lei-de-beneficios-da-previdencia-social", "lei-12873-2013", "2013-10-25",
+         [(lines_match(r"^(VI - a associação em cooperativa agropecuária; e|VII - a incidência do Imposto|"
+                       r"c\) tornar-se segurado obrigatório|d\) participar de sociedade|§ 12\. A participação|"
+                       r"§ 13\. \(VETADO\)|§ 6º Simultaneamente com a inscrição)"), "2014-01-01")],
+         "Lei 12.873/2013 art. 63 III: 'produzindo efeitos a partir de 1º de janeiro de 2014, em relação: [...] b) ao inciso "
+         "VII do § 8º do art. 11, à alínea d do inciso I do § 10 do art. 11, aos §§ 12 e 13 do art. 11 da Lei nº 8.213 [...]; e "
+         "c) ao art. 64 desta Lei' (its art. 64 revokes art. 17 § 6º; DOU 25.10.2013): those dispositivos (with the item "
+         "before each new item, which takes its '; e') and the revocation from 1.1.2014"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,
