@@ -1,3 +1,15 @@
 {
- "fetch": []
+ "fetch": [
+  {
+   "id": "ato:adc-112-2024-mpv1240",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Congresso/adc-112-mpv1.240.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261007121122",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054208.24/warc/CC-MAIN-20261007115124-20261007145124-00951.warc.gz",
+    "offset": "39029659",
+    "length": "2407"
+   }
+  }
+ ]
 }

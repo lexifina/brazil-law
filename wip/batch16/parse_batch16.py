@@ -73,6 +73,13 @@ EXTRA: list[str] = []   # decisions added to the part
 
 # ---------------------------------------------------------------------------------------------------------------
 # Código Brasileiro de Aeronáutica (Lei 7.565/1986), part a
+P.VIGENCIA_FIXED["mp-1089-2021"] = (
+    "2021-12-30", "art. 6: 'Esta Medida Provisória entra em vigor: I - após noventa dias da sua publicação, quanto ao Anexo; e "
+                  "II - na data de sua publicação, quanto aos demais dispositivos' (DOU 30.12.2021): its changes to the Código "
+                  "Brasileiro de Aeronáutica fall under II (the Anexo is Lei 11.182/2005's fee table)")
+P.MP_LAPSE["mp-1240-2024"] = (
+    "2024-11-07", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 112, de 2024 (DOU 14.11.2024): 'teve seu "
+                  "prazo de vigência encerrado no dia 6 de novembro de 2024'")
 
 # ---------------------------------------------------------------------------------------------------------------
 _inner16 = B6.PB5B._write_part5
