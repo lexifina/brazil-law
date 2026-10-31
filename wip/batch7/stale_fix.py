@@ -29,7 +29,7 @@ from __future__ import annotations
 
 import re
 
-USED: dict[str, list[str]] = {"A": [], "B": [], "C": [], "D": [], "E": [], "L": []}
+USED: dict[str, list[str]] = {"A": [], "B": [], "C": [], "D": [], "E": [], "L": [], "G": []}
 
 
 def _norm_label(s: str) -> str:
@@ -63,7 +63,9 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
             if q.get("skip") or q.get("pinned") or _norm_label(q["label"]) != _norm_label(p["label"]):
                 continue
             later = q["start"] > p["start"]
-            same = (q["start"] == p["start"] and q["start_law"] in same_day_laws and p["start_law"] not in same_day_laws)
+            same = q["start"] == p["start"] and q["start_law"] and (
+                (q["start_law"] in same_day_laws and p["start_law"] not in same_day_laws)
+                or (p["start_law"] is None and p["state"] != "plain" and not same_day_laws))
             if (later or same) and q["start"] < p["end"]:
                 old_end, old_law = p["end"], p["end_law"]
                 p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "next-wording-first"
@@ -97,6 +99,20 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
                     p["start"], p["start_law"] = q["start"], q["start_law"]
                     USED["D"].append(f"{act} {p['unit']} [{p['label'] or p['text'][:30]}] from {q['start']}")
                 break
+    # G: an unstruck wording printed above a struck MP wording of the same dispositivo that came in later and ended by
+    # the MP's conversion or lapse (the wording is back): it has a gap for the MP's time (RJU art. 68, MP 568/2012)
+    for i, p in enumerate(paras):
+        if p["state"] != "plain" or p["end"] or p.get("gaps") or p.get("skip") or p["heading"] or not p["label"]:
+            continue
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"]:
+                break
+            if (q["state"] != "plain" and not q.get("skip") and _norm_label(q["label"]) == _norm_label(p["label"])
+                    and q["start"] > p["start"] and q["end"] and (q["end_how"] or "") in ("conversion", "lapse", "mp-dropped")
+                    and (q["start_law"] or "").startswith("mp-")):
+                p["gaps"] = [(q["start"], q["end"], q["start_law"], q["end_law"])]
+                USED["G"].append(f"{act} {p['unit']} [{p['label']}] {q['start']}..{q['end']}")
+                break
     # (Not done: dating an unnoted struck line by the struck caput printed above it. Planalto prints an article's
     # unchanged paragraphs once, below its latest superseded caput: CP art. 180 §§ 1º-3º of 1940 under the 1955 caput.)
     # B: twin wordings (same dispositivo, same start) printed one below the other
@@ -109,11 +125,19 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
         for q in reversed(paras[:i]):
             if q["unit"] != p["unit"]:
                 break
-            if q["heading"] or q.get("skip") or q["state"] == "plain" or q["start"] != p["start"] or not q["end"]:
+            if (q["heading"] or q.get("skip") or q["state"] == "plain" or q["start"] != p["start"] or not q["end"]) and not (
+                    q["state"] != "plain" and not q["end"] and not q.get("skip") and not q["heading"] and p["state"] != "plain"
+                    and p["end"] and q["start"] == p["start"] and p["label"] and _norm_label(q["label"]) == _norm_label(p["label"])
+                    and _norm_text(q["text"]) == _norm_text(p["text"])):
                 continue
+            if not q["end"]:
+                # two struck copies of one wording, the upper with no end of its own: the noted lower copy stands for it
+                q["skip"], q["end_how"] = True, "twin"
+                USED["B"].append(f"{act} {q['unit']} [{q['label']}] unended copy left out (the copy below has the note)")
+                break
             same_label = p["label"] and _norm_label(q["label"]) == _norm_label(p["label"])
             same_text = _norm_text(q["text"]) == _norm_text(p["text"])
-            twin = (same_label and (same_text or (p["state"] == "plain" and not p["start_law"]))) or (
+            twin = (same_label and (same_text or not p["start_law"])) or (
                 not p["label"] and not q["label"] and same_text and not p["text"].startswith("Pena"))
             if not twin:
                 continue
@@ -183,6 +207,10 @@ def decisions() -> list[str]:
                    "unlabelled lines right under it end with it: " + "; ".join(dict.fromkeys(USED["A"])) + ".")
     if USED["L"]:
         out.append("A caput printed 'Artigo N - ...' is read as that article's caput: " + "; ".join(dict.fromkeys(USED["L"])) + ".")
+    if USED["G"]:
+        out.append("An unstruck wording printed above a struck Medida Provisória wording of the same dispositivo that came "
+                   "in later and ended with the MP's conversion or lapse gives way to it for that time: "
+                   + "; ".join(dict.fromkeys(USED["G"])) + ".")
     if USED["D"]:
         out.append("A line with no note of its own, printed unstruck under an unstruck line a later law inserted "
                    "('Incluído'), starts with it where an older wording under the same label is printed struck in the "
