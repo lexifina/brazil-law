@@ -111,7 +111,7 @@ OPEN_ITEMS = {
         "text is the law's own wording"),
     "lei-do-crime-racial": (
         "Crimes resultantes de preconceito de raça ou de cor (open item): Planalto's page heads the act with '(Vide ADO Nº 26)', a Supremo Tribunal Federal "
-        "ruling that changes no words of the act; it changes no words and is not modelled"),
+        "ruling that changes no words of the act; it is not modelled"),
     "lei-das-contravencoes-penais": (
         "Lei das Contravenções Penais: Planalto's 'Vide' pointers at the head of the act (Lei 1.390/1951, Lei 7.437/1985) and "
         "at art. 50 (Decretos-Leis 4.866/1942 and 9.215/1946) name acts that changed no words of it; they are not "
