@@ -643,6 +643,18 @@
    }
   },
   {
+   "id": "l9717",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9717.htm",
+   "ts": "20261023143525",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l9717-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9717compilado.htm",
+   "ts": "20261018005809",
+   "via": "wayback.py"
+  },
+  {
    "id": "l9790",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/l9790.htm",
    "cc": {
@@ -657,6 +669,12 @@
    "id": "l9873",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/l9873.htm",
    "ts": "20261016085430",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l9961",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9961.htm",
+   "ts": "20261024003623",
    "via": "wayback.py"
   },
   {
@@ -2349,9 +2367,21 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-167-2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Mpv/167.htm",
+   "ts": "20261014041910",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-1725-1998",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1725.htm",
    "ts": "20260611073207",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1891-1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1891-8.htm",
+   "ts": "20260610223913",
    "via": "wayback.py"
   },
   {
@@ -2366,9 +2396,21 @@
    }
   },
   {
+   "id": "law:mp-1976-2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1976-33.htm",
+   "ts": "20261004100632",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-2013-1999",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/2013-4.htm",
    "ts": "20260613124324",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-2043-2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/2043-20.htm",
+   "ts": "20260713010448",
    "via": "wayback.py"
   },
   {
@@ -2381,6 +2423,12 @@
    "id": "law:mp-2049-2000",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/2049-24.htm",
    "ts": "20261013192739",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-2097-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas_2001/2097-36.HTM",
+   "ts": "20260615115155",
    "via": "wayback.py"
   },
   {

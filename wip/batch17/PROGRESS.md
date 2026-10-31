@@ -352,12 +352,23 @@ identical, audit clean). README rows + futuro lines + jurisdiction.json (173 act
 .tmp/run.py / pipe.sh at BelowNormal, one at a time; every PID exited; nothing left running. Fetching: archive.org only
 (robots.txt read this session: web.archive.org 404, archive.org Disallows only /control/ and /report/); no Common Crawl or
 Arquivo.pt requests. This session: w (Lei 10.233), v re-PUBLISHed (art. 63-B term -> futuro 2029-06-26), x (Leis 13.848,
-9.986).
+9.986); y (Leis 9.961, 9.717) configured, not published (below).
 DATED RE-CHECK (unchanged): on or after 29.11.2026 read MP 1.382/2026's fate (part m).
 Left out / unsettled: unchanged from the sixth session (Lei 10.931 no capture; Lei 10.522 art. 32 quoted § 2º; Lei 12.462 art.
 63 § 17), plus: Lei 10.233 art. 118 § 1º 'MP 246' wording (none printed); Lei 9.986 ADI 2.310 not modelled.
-Next candidates (not configured; check archive.org captures with cdxlist.py first): Lei 8.745/1993 (leis/l8745cons.htm,
-captures to 2026-10; MP chains), Lei 9.427/1996 (ANEEL), Lei 9.961/2000 (ANS), Lei 9.782/1999 (Anvisa), Lei 9.717/1998.
+Part y (coordinator asked for the next candidates): Lei 9.961/2000 (ANS) and Lei 9.717/1998 (RPPS) CONFIGURED AS PART y, NOT
+PUBLISHED. Pages pinned (l9961 ts 20261024003623; l9717 20261023143525; l9717-compilado 20261018005809) + 5 cited laws.
+Trial y-t1: LANS 5 versions, L9717 7, 0 diffs, 4 problems (mp-1891-1999, mp-1976-2000, mp-2043-2000, mp-2097-2001: no
+conversion/lapse known). BLOCKER, why they stay out for now: both pages credit wordings to individual reissues of pre-EC-32
+MPs (ANS: 1.976-33/2000, 2.097-36 and -40/2001, 2.177-43 and -44/2001; RPPS: 1.891-8 and -9/1999, 2.043-20/2000, 2.187-12
+and -13/2001), but the shared reader keys MPs by number and year (mp-2177-2001 = the pinned 2.177-44, DOU 27.8.2001), so
+2.177-43's wordings get 2.177-44's day, 2.097-36 and -40 share one key, and editions that were reissued without conversion
+need a dated end per edition (the next reissue's day). Settling them needs edition-level keys (e.g. mp-2177-43-2001, each
+pinned to MPV/Antigas/<n>-<ed>.htm, its DOU day, end at the next edition) in the batch17 note reader - a parser change, not a
+hand table; batch 12 left Lei 9.656 (same MP 2.177 chain) starting from 27.8.2001 for the same reason. Not done this session.
+Next candidates still open: Lei 8.745/1993 (leis/l8745cons.htm; MP chains too), Lei 9.427/1996 (l9427cons.htm vs
+l9427compilada.htm), Lei 9.782/1999 (l9782.htm vs l9782compilado.htm; MP 2.190-34 chain). Check each page's note counts for
+pre-2001 MP editions first (lawtxt.py + the grep in this session's log) and prefer acts without them.
 
 ## State at handoff (batch 17, sixth session, 2026-10-31)
 Parts 99-batch17a..v installed with .PUBLISH (44 acts, 514 versions; merged 170 acts, 2908 versions, 2231 commits, check

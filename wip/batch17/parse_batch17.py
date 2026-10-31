@@ -108,6 +108,10 @@ PAGES.update({
     # part x
     "l13848": "_ato2019-2022/2019/lei/l13848.htm",
     "l9986": "leis/l9986.htm",
+    # part y
+    "l9961": "leis/l9961.htm",
+    "l9717": "leis/l9717.htm",
+    "l9717-compilado": "leis/l9717compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -210,6 +214,10 @@ ALL_ACTS: list[dict] = [
          "Lei Geral das Agências Reguladoras (Lei nº 13.848, de 25 de junho de 2019)", 2),
     _act("lei-9986-de-2000", "L9986", "l9986", "l9986", "lei-9986-2000",
          "Gestão de recursos humanos das agências reguladoras (Lei nº 9.986, de 18 de julho de 2000)", 2),
+    _act("lei-da-ans", "LANS", "l9961", "l9961", "lei-9961-2000",
+         "Agência Nacional de Saúde Suplementar - ANS (Lei nº 9.961, de 28 de janeiro de 2000)", 2),
+    _act("lei-9717-de-1998", "L9717", "l9717", "l9717-compilado", "lei-9717-1998",
+         "Regimes próprios de previdência social dos servidores públicos (Lei nº 9.717, de 27 de novembro de 1998)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -238,6 +246,7 @@ PARTS: dict[str, list[str]] = {
     "v": ["lei-do-rdc"],
     "w": ["lei-da-antt-e-antaq"],
     "x": ["lei-geral-das-agencias-reguladoras", "lei-9986-de-2000"],
+    "y": ["lei-da-ans", "lei-9717-de-1998"],   # NOT published: trial only (MP reissue chains; see batch17/PROGRESS.md)
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -320,6 +329,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-13848-2019": ("2019-09-24", "Lei 13.848/2019 art. 53: 'Esta Lei entra em vigor após decorridos 90 (noventa) dias de "
                                      "sua publicação oficial' (DOU 26.6.2019)"),
     "lei-9986-2000": ("2000-07-19", f"Lei 9.986/2000 art. 38: {_PUB} (DOU 19.7.2000)"),
+    "lei-9961-2000": ("2000-01-29", f"Lei 9.961/2000 art. 41: {_PUB} (DOU 29.1.2000)"),
+    "lei-9717-1998": ("1998-11-28", f"Lei 9.717/1998 art. 11: {_PUB} (DOU 28.11.1998)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -477,6 +488,11 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "das agências reguladoras [...].", "2019-06-25", "2019-06-26", PAGES["l13848"]),
     "lei-9986-2000": _L("Lei nº 9.986, de 2000", "Dispõe sobre a gestão de recursos humanos das Agências Reguladoras e dá outras "
                         "providências.", "2000-07-18", "2000-07-19", PAGES["l9986"]),
+    "lei-9961-2000": _L("Lei nº 9.961, de 2000", "Cria a Agência Nacional de Saúde Suplementar – ANS e dá outras providências.",
+                        "2000-01-28", "2000-01-29", PAGES["l9961"]),
+    "lei-9717-1998": _L("Lei nº 9.717, de 1998", "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes "
+                        "próprios de previdência social dos servidores públicos [...] e dá outras providências.", "1998-11-27",
+                        "1998-11-28", PAGES["l9717"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
