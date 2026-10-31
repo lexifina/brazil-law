@@ -188,6 +188,12 @@ P.VIGENCIA_FIXED.update({
                                   "provision but its change to Lei 8.742/1993 art. 20 § 13 (art. 34 I, 90 days) and to Lei "
                                   "8.213/1991 art. 74 § 3º (art. 34 II, 120 days)"),
 })
+P.VETO_PROMULGATION = {
+    "lei-13964-2019": ("2021-04-30", "the parts of Lei 13.964/2019 vetoed on 24.12.2019 were promulgated after Congress "
+                                     "overrode the veto (CF art. 66 § 5; DOU 30.4.2021, printed at the end of the Lei "
+                                     "13.964 page): Lei de Interceptação Telefônica art. 8º-A §§ 2º and 4º read '(VETADO)' "
+                                     "until then"),
+}
 P.VIGENCIA_PROVISION.update({
     ("mp-871-2019", "lei-organica-da-assistencia-social", "art-20"): (
         "2019-04-18", "Medida Provisória nº 871/2019 art. 34 I: its change to art. 20 § 13 in force 90 days after publication "
