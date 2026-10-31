@@ -344,6 +344,9 @@ P.NOTE_FIX.update({} if _BN not in ENABLED else {
                                             f"Lei 8.213: notes '({kind} pela Lei nº 11,718, de 2008)' (comma) read as Lei nº "
                                             f"11.718")
     for kind in ("Redação dada", "Incluído")})
+P.VIGENCIA_FIXED["lei-13137-2015"] = (
+    "2015-06-22", "art. 26 VII: the provisions not named in its incisos I to VI, which include art. 7 (Lei 8.212 art. 22 § "
+                  "14), in force 'na data de sua publicação' (DOU 22.6.2015, edição extra)")
 P.VIGENCIA_FIXED["lei-11098-2005"] = (
     "2005-01-14", "art. 14: 'Esta Lei entra em vigor: I - a partir da data de publicação do ato referido no inciso I do art. "
                   "8º, para os arts. 1º, 2º, 3º e 4º; e II - a partir de 5 de outubro de 2004, para os demais artigos' (DOU "
