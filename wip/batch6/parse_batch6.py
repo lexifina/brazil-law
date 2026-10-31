@@ -181,6 +181,18 @@ P.MP_PENDING.update({
                     "force until a later MP revokes it or Congress votes on it (Emenda Constitucional 32/2001, art. 2)",
 })
 
+# Differences left between the last version and Planalto's consolidated page, each checked by hand against both pages
+B.EXPLAINED.clear()
+B.EXPLAINED.update({
+    "lei-de-improbidade-administrativa": {
+        "art-17": "typesetting: § 6º-A ends '(Código de Processo Civil' with no closing parenthesis or full stop on both "
+                  "pages; the consolidated page prints a comma after its '(Incluído pela Lei nº 14.230, de 2021)' note, "
+                  "which is read into the text",
+        "titulos": "the consolidated page keeps the revoked heading 'Seção II-A' with its '(Revogado pela Lei nº 14.230, de "
+                   "2021)' note as a placeholder; the history leaves revoked text out",
+    },
+})
+
 # batch 5b's tables for its own acts that would print decisions here whether used or not
 P.NOTE_FIX = {}
 P.COURTS = {}
