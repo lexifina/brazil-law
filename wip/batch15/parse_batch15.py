@@ -305,6 +305,7 @@ TEXT_FIX: list[tuple[str, str, str, str]] = [
 ]
 TEXT_FIX_USED: list[str] = []
 LETTER_ARTS: list[str] = []
+CENTERED: dict[str, int] = {}
 FOOTNOTES_DROPPED: dict[str, int] = {}
 NOTE_DOT: dict[str, int] = {}
 _paragraphs15 = P.paragraphs
@@ -324,6 +325,14 @@ def paragraphs(html, digits):
         n0 = len(_SUPNUM.findall(html))
         html = _SUPNUM.sub(_supnum, html)
         FOOTNOTES_DROPPED[page] = n0 - len(_SUPNUM.findall(html))
+    # l8212cons.htm sets each Título / Capítulo name as a bare <p> inside <center> (only the 'TÍTULO I' line itself is
+    # centred text): give those paragraphs the centred alignment they are displayed with, so they are read as heading
+    # lines, not as marginal headings of the next article
+    n0 = len(re.findall(r"<center", html, re.I))
+    html = re.sub(r"<center.*?</center>", lambda m: re.sub(r"<p(?=[\s>])(?![^>]*align=)", '<p align="center"', m.group(0),
+                                                             flags=re.I), html, flags=re.S | re.I)
+    if n0:
+        CENTERED[page] = n0
     out, rest = _paragraphs15(html, digits)
     # 'Art. 22A.', 'Art. 22B.', 'Art. 25A.' (Leis 10.256/2001, 10.666/2003: Planalto prints the letter without a hyphen):
     # the shared reader keeps them in the files of arts. 22 and 25; each is its own article (art-022-a, ...)
