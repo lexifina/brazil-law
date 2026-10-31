@@ -315,6 +315,14 @@ B8.SPAN_FIX += [
     ((_LRP, "art-167", "28)", "28) das sentenças declaratórias de usucapião, independente", 0), {"skip": True}, _W2220),
     ((_LRP, "art-167", "37)", "37) dos termos administrativos ou das sentenças declaratórias da concessão de uso especial "
                               "para fins de moradia, independente", 0), {"skip": True}, _W2220),
+    ((_LRP, "art-195-a", "§ 7º", "§ 7º O procedimento definido neste artigo", 1), {"skip": True},
+     "Lei de Registros Públicos art. 195-A § 7º: the annotated page prints, under the note 'Incluído pela Lei nº 13.465, de "
+     "2017', the words 'as terras devolutas a ele transferidas em razão de legislação'; Lei 13.465/2017's own text (and "
+     "Planalto's consolidated page) reads 'as terras devolutas transferidas ao Município em razão de legislação', the "
+     "wording Medida Provisória nº 759/2016 had given and its conversion law kept. The MP's line (printed struck above) "
+     "stands on and the mistyped copy is left out"),
+    ((_LRP, "art-195-a", "§ 7º", "§ 7º O procedimento definido neste artigo", 0),
+     {"end": None, "end_law": None, "end_how": None, "skip": False}, "as art. 195-A § 7º above"),
     ((_CF, "art-03", "b)", "b) as obras de infraestrutura destinadas às concessões", 0),
      {"end": "2018-02-28", "end_law": "stf-adc-42", "end_how": "court"}, _WADC42),
     ((_CF, "art-03", "b)", "b) as obras de infraestrutura destinadas às concessões", 1),
@@ -391,6 +399,19 @@ P.VIGENCIA_FIXED["lei-12529-2011"] = ("2012-05-29", "art. 128: 180 days after pu
                                                     "prints 1º.11.2011 by mistake): 29.5.2012")
 B.EXPLAINED.update({
     "codigo-florestal": {"art-80": _Q.format(x="§ 1º.")},
+    "lei-de-registros-publicos": {
+        "art-054": "typesetting: '7º Os nomes' (annotated) / '7º) Os nomes' (consolidated), a line inside the quoted text of "
+                   "an amendment",
+        "art-066": "the annotated page prints 'residênci a' (a stray space inside the word), kept as printed; the "
+                   "consolidated page 'residência'",
+        "art-167": "the consolidated page keeps the placeholders '13)', '22)', '25.' and '33.' for items revoked or of a "
+                   "lapsed Medida Provisória, and a full stop after 'regime fiduciário'; the history leaves revoked text out",
+        "art-213": "typesetting: a full stop at the end of a line on the consolidated page only",
+        "art-216-a": "typesetting: '(Código de Processo Civil);' (annotated) / '(Código de Processo Civil;' (consolidated)",
+        "art-265": "typesetting: 'nº 3.200' (annotated) / 'n. 3.200' (consolidated)",
+        "art-289": "the consolidated page prints the heading 'Das Disposições Finais e Transitórias' inside art. 289",
+        "art-290": "typesetting: 'Art. 290..' (consolidated) / 'Art. 290.' (annotated)",
+    },
     "lei-da-acao-civil-publica": {
         "art-01": "the consolidated page prints the numerals of incisos I and II with the letter l ('l -', 'll -') too; the "
                   "history reads them as I and II (see the label decision)",
