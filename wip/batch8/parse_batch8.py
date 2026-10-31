@@ -75,7 +75,12 @@ ALL_ACTS: list[dict] = [a for a in B7.ALL_ACTS if a["page"] in PAGES] + [
     _act("estatuto-da-pessoa-com-deficiencia", "LBI", "lbi", "lbi", "lei-13146-2015",
          "Estatuto da Pessoa com Deficiência (Lei nº 13.146, de 6 de julho de 2015)", 3),
 ]
-VERIFIED: list[str] = []
+VERIFIED: list[str] = ["lei-de-lavagem-de-dinheiro", "estatuto-do-desarmamento", "lei-dos-crimes-hediondos",
+                        "lei-de-introducao-as-normas-do-direito-brasileiro", "lei-das-organizacoes-criminosas",
+                        "lei-da-propriedade-industrial", "lei-de-direitos-autorais", "estatuto-da-juventude",
+                        "lei-geral-do-turismo", "estatuto-da-pessoa-com-deficiencia"]
+# Lei da Ação Civil Pública is configured but deferred: art. 1's incisos 2001-2014 (Lei 10.257/2001 and MP 2.180-35/2001
+# renumbering the same list differently) need a hand model
 ENABLED = [s for s in os.environ.get("BATCH8_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
@@ -481,6 +486,36 @@ def build_act(paras, act_day, gate, gate_law, unit_label):
 
 
 P.build_act = B.build_act = build_act
+
+_write_part8 = P.write_part
+
+
+def write_part(*a) -> int:
+    """batch 6's writer, then the STF records the court decisions rely on, as a source (when an act using them is in the
+    part)."""
+    rc = _write_part8(*a)
+    if not any(x["slug"] == "estatuto-do-desarmamento" for x in ACTS):
+        return rc
+    import json as _json
+    part = _json.loads(B5.OUT.read_text(encoding="utf-8"))
+    part["sources"].append({
+        "name": "Supremo Tribunal Federal: case summary of ADI 3.964, decision in ADI 5.948 MC, Informativo STF 1007; Câmara "
+                "dos Deputados: record of Medida Provisória nº 394, de 2007",
+        "url": "https://portal.stf.jus.br/", "retrieved": "2026-10-31", "requests": 4,
+        "licence": "Official acts and decisions are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
+        "notes": "Read only for the dates and holdings of the rulings that changed Estatuto do Desarmamento arts. 5 and 6 "
+                 "(see the decisions), never for law text. Each record is pinned in "
+                 f"{B5.SRC.parent.name}/{B5.SRC.name} (ids ctx:...)."})
+    tmp = B5.OUT.with_suffix(".json.tmp")
+    tmp.write_text(_json.dumps(part, ensure_ascii=False, indent=None, separators=(",", ":")) + "
+", encoding="utf-8",
+                   newline="
+")
+    os.replace(tmp, B5.OUT)
+    return rc
+
+
+B5.write_part = B.write_part = P.write_part = write_part
 
 if __name__ == "__main__":
     sys.exit(P.main(sys.argv[1:]))

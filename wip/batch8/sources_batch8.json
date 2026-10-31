@@ -12,6 +12,30 @@
    }
   },
   {
+   "id": "ctx:camara-mpv-394-2007-norma",
+   "url": "https://www2.camara.leg.br/legin/fed/medpro/2007/medidaprovisoria-394-20-setembro-2007-559898-norma-pe.html",
+   "ts": "20251228134213",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ctx:stf-adi-3964-resumo",
+   "url": "http://www.stf.jus.br/portal/peticaoInicial/verPeticaoInicial.asp?base=ADIN&s1=3964&processo=3964",
+   "ts": "20140718134615",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ctx:stf-adi-5948-mc",
+   "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/ADI5948MCGuardasmunicipais.pdf",
+   "retrieved": "2026-10-31",
+   "via": "direct"
+  },
+  {
+   "id": "ctx:stf-informativo-1007",
+   "url": "https://www.stf.jus.br/arquivo/informativo/documento/informativo1007.htm",
+   "retrieved": "2026-10-31",
+   "via": "direct"
+  },
+  {
    "id": "ejuv",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm",
    "cc": {
