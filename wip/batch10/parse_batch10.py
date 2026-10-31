@@ -606,6 +606,11 @@ _inner10 = B6.PB5B._write_part5
 
 def _inner(*a) -> int:
     B5.EXTRA_DECISIONS.extend(x + "." for x in dict.fromkeys(OWN_PROMULGATION_USED + ADI4917_USED))
+    if RUBRICA_KEPT:
+        B5.EXTRA_DECISIONS.append(
+            "Lines that close a quoted amendment ('.....\" (NR)', or a quoted article) are kept in the article that quotes "
+            "them; the marginal-heading rule, which moves an unlabelled line without closing punctuation into the next "
+            "article, does not apply to them (" + str(len(RUBRICA_KEPT)) + " lines).")
     if PNMA_CASE:
         B5.EXTRA_DECISIONS.append(
             "Política Nacional do Meio Ambiente: Planalto's annotated page prints 'IBAMA' in lines that Leis 9.960/2000 and "
@@ -650,6 +655,24 @@ def _fix(core, paras, slug, same_day):
 
 
 B7.stale_fix.fix = _fix
+
+# A rubrica (marginal heading) never closes a quoted amendment: a line ending '(NR)', or starting with a quotation mark or
+# a run of dots, stays in its own article (parse_proc.move_rubricas moved such lines into the next article's file)
+_move_rubricas = P.move_rubricas
+RUBRICA_KEPT: list[str] = []
+
+
+def move_rubricas(out):
+    hold = [(p, p["unit"]) for p in out if not p["label"] and not p["heading"] and (
+        re.search(r"\(NR\)\s*$", p["text"]) or p["text"].lstrip().startswith(('"', "“", "...", "…")))]
+    _move_rubricas(out)
+    for p, unit in hold:
+        if p["unit"] != unit:
+            p["unit"], p["label"] = unit, ""
+            RUBRICA_KEPT.append(p["text"][:40])
+
+
+P.move_rubricas = move_rubricas
 
 SRC = HERE / "sources_batch10.json"
 B5.SRC = SRC
