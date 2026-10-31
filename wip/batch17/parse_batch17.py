@@ -1016,6 +1016,15 @@ B8.SPAN_FIX += [
         ("I -", "I - juntamente com o tributo"), ("II -", "II - isoladamente, quando o tributo"),
         ("III -", "III - isoladamente, no caso de pessoa física"), ("IV -", "IV - isoladamente, no caso de pessoa jurídica"))],
     ((_L9430, "art-44", "V -", "V - isoladamente, no caso de tributo", 1), {"skip": True, "end_how": "duplicate"}, _W44),
+    *[((_L9430, unit, lab, pre, 0), {"skip": True, "end_how": "never-in-force"},
+       "Lei 9.430 art. 44 § 2º and art. 47: Medida Provisória 1.602/1997's wordings (effects from 1.1.1998) never took effect: "
+       "Lei 9.532/1997, its conversion (11.12.1997), gave the same words before that day, also with effects from 1.1.1998")
+      for unit, lab, pre in (("art-44", "§ 2º", "§ 2º As multas a que se referem os incisos I e II do caput passarão"),
+                             ("art-44", "a)", "a) prestar esclarecimentos"), ("art-44", "b)", "b) apresentar os arquivos"),
+                             ("art-44", "c)", "c) apresentar a documentação técnica"),
+                             ("art-47", "Art. 47", "Art. 47. A pessoa física ou jurídica submetida a ação fiscal por parte da "
+                              "Secretaria da Receita Federal poderá pagar, até o vigésimo dia subseqüente à data de recebimento "
+                              "do termo de início de fiscalização, os tributos e contribuições já declarados"))],
     *[((_L9430, "art-44", lab, pre, 2), dict(_R303), _W44) for lab, pre in (
         ("a)", "a) prestar esclarecimentos"), ("b)", "b) apresentar os arquivos"), ("c)", "c) apresentar a documentação técnica"))],
     *[((_L9430, "art-18", "", pre, 1), {"end": "2009-12-29", "end_law": "mp-478-2009", "end_how": "parent"}, _W18)
