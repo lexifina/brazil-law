@@ -179,6 +179,8 @@ B.EXPLAINED.update({
 
 # ---------------------------------------------------------------------------------------------------------------
 # hand tables for these acts, each read from the official pages named in the reason
+# batch 7's note fixes are for its own acts (every entry is printed in the decisions): replaced, not extended
+P.NOTE_FIX = {}
 P.NOTE_FIX.update({
     "(Incluído pela Lei nª 8.078, de 11.9.1990)": (
         "(Incluído pela Lei nº 8.078, de 1990)",

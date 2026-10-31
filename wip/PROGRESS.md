@@ -110,3 +110,10 @@ Segurança; 132 versions) PUBLISHed 2026-10-31; batch6 republished after a Lei 9
 deferred. Details: batch6/PROGRESS.md.
 2026-10-31 ~02:30Z: stale-wording fix (batch7/stale_fix.py) applied to 50/60/70/80/90/95/98/99-batch5b/99-batch7, all
 re-verified and PUBLISHed; 10 CLT units stay open (in its decisions). Older parts now rebuild via batch7/oldparts.py.
+
+## Batch 8 (gitlaw-BR agent, 2026-10-31)
+
+99-batch8 PUBLISHed ~04:10Z: Lei de Lavagem and Estatuto do Desarmamento (batch 7's deferred acts, MP/STF chains set by
+hand) plus Crimes Hediondos, LINDB, Organizações Criminosas, Propriedade Industrial, Direitos Autorais, Estatuto da
+Juventude, Lei Geral do Turismo, Estatuto da Pessoa com Deficiência: 10 acts, 109 versions; merged scratch build 43 acts,
+1158 versions, check 0/0, --compare identical. Lei da Ação Civil Pública deferred. Details: batch8/PROGRESS.md.
