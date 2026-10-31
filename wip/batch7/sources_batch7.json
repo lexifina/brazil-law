@@ -1,6 +1,28 @@
 {
  "fetch": [
   {
+   "id": "ato:adc-39-2023",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Congresso/adc-39-mpv1.158.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261017094706",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170349490.60/warc/CC-MAIN-20261017081029-20261017111029-00571.warc.gz",
+    "offset": "17766604",
+    "length": "2349"
+   }
+  },
+  {
+   "id": "ato:apn-5-2022-mpv1065",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Congresso/apn-5-mpv1.065.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261007160953",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054236.14/warc/CC-MAIN-20261007145448-20261007175448-00886.warc.gz",
+    "offset": "786577919",
+    "length": "2470"
+   }
+  },
+  {
    "id": "ecid",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm",
    "cc": {
