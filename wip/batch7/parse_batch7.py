@@ -344,12 +344,16 @@ def lifespans(paras: list[dict], cx) -> list[str]:
         if p["end_how"] != "undated" and not (p["state"] != "plain" and not p["end"] and not p["gaps"]):
             continue
         q = None
+        seen = {p["label"]}
         for r in paras[i + 1:]:
             if r["unit"] != p["unit"] or r["heading"] != p["heading"]:
                 break
-            if r["start"] > p["start"] and not r.get("skip"):
+            # a later wording of a label printed since p replaced that sibling, not p (Lei 11.638's alínea c) of art.
+            # 178 § 1º, while alíneas a) and b) stood until MP 449/2008 recast the list)
+            if r["start"] > p["start"] and not r.get("skip") and (p["heading"] or r["label"] not in seen):
                 q = r
                 break
+            seen.add(r["label"])
         if q is None:
             continue
         p["end"], p["end_law"], p["end_how"], p["skip"] = q["start"], q["start_law"], "next-wording", False
@@ -385,7 +389,8 @@ def _inner(*a) -> int:
         B5.EXTRA_DECISIONS.append(
             "A struck wording with no note and no later wording of the same label, printed above the lines that replaced "
             "it under new labels (a list renumbered or recast), ends when the first later wording below it in the same "
-            "article starts, credited to that wording's law: " + "; ".join(dict.fromkeys(NEXT_WORDING_USED)) + ".")
+            "article starts (skipping later wordings of the sibling labels printed between them), credited to that "
+            "wording's law: " + "; ".join(dict.fromkeys(NEXT_WORDING_USED)) + ".")
     if PLAIN_ENDS_USED:
         B5.EXTRA_DECISIONS.append("Unstruck lines a later law replaced, which Planalto left unstruck, end on that law's "
                                   "day: " + "; ".join(dict.fromkeys(PLAIN_ENDS_USED)) + ".")
