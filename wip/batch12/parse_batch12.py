@@ -203,7 +203,20 @@ P.NOTE_FIX.update({
         "(Redação dada pelo Decreto nº 3.995, de 31.10.2001)",
         "Lei do Mercado de Valores Mobiliários art. 11 § 10: the note reads 'Redação pelo Decreto' ('dada' missing)"),
 })
+_W10303 = ("Lei do Mercado de Valores Mobiliários art. 9 §§ 3º to 6º: Lei 10.303/2001 (in force 1.3.2002) added them as "
+           "'(VETADO)', and Decreto nº 3.995/2001 (in force 1.11.2001) gave them their wording; Planalto prints the "
+           "'(VETADO)' lines struck above the decree's wording. They never stood as text and are left out; the decree's "
+           "wordings stand from 1.11.2001")
 B8.SPAN_FIX += [
+    *[((_LCVM, "art-09", lab, lab + " (VETADO)", 0), {"skip": True, "end_how": "twin"}, _W10303)
+      for lab in ("§ 3º", "§ 4º", "§ 5º", "§ 6º")],
+    ((_LCVM, "art-09", "§ 4º", "§ 4º Na apuração de infrações da legislação do mercado de valores mobiliários, a Comissão "
+                               "deverá dar prioridade", 0),
+     {"start": "2001-11-01", "start_law": "dec-3995-2001", "end": "2017-06-08", "end_law": "mp-784-2017",
+      "end_how": "successor"},
+     "Lei do Mercado de Valores Mobiliários art. 9 § 4º: Decreto nº 3.995/2001's wording stands from 1.11.2001 until "
+     "Medida Provisória nº 784/2017 (8.6.2017), and again (Planalto's second copy) from the MP's lapse (20.10.2017) until "
+     "Lei 13.506/2017 (14.11.2017)"),
     ((_LCVM, "art-18", "h)", "h) (VETADO)", 0), {"skip": True, "end_how": "twin"},
      "Lei do Mercado de Valores Mobiliários art. 18 II h): Lei 10.303/2001 (in force 1.3.2002) added it as '(VETADO)', and "
      "Lei 10.411/2002 (in force 27.2.2002) gave it its wording first; the '(VETADO)' line, which Planalto prints unstruck "
