@@ -288,7 +288,7 @@ def _supnum(m):
 
 def paragraphs(html, digits):
     page = B8.CURRENT_PAGE[0]
-    if page == "l8212":
+    if "href=\"#ne" in html or page == "l8212":
         # l8212cons.htm keeps the numbered footnote markers of a 1998 edition ('e) as importâncias: <sup>14</sup>'); the
         # footnotes themselves (on Medidas Provisórias then pending) are printed after the signature, outside the act
         n0 = len(_SUPNUM.findall(html))
