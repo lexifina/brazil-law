@@ -2385,6 +2385,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-1891r9-1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1891-9.htm",
+   "ts": "20260712114758",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-1894-1999",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1894-22.htm",
    "cc": {
@@ -2429,6 +2435,12 @@
    "id": "law:mp-2097-2001",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas_2001/2097-36.HTM",
    "ts": "20260615115155",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-2097r40-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas_2001/2097-40.HTM",
+   "ts": "20260923112836",
    "via": "wayback.py"
   },
   {
