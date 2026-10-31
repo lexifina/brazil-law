@@ -63,6 +63,12 @@ PAGES = {
     "lsfn": "leis/l4595.htm",
     "lsfn-compilado": "leis/l4595compilado.htm",
     "lcheque": "leis/l7357.htm",
+    # 13g
+    "ldup": "leis/l5474.htm",
+    "ldup-compilado": "leis/l5474compilado.htm",
+    "lcart": "leis/l8935.htm",
+    "ltcu": "leis/l8443.htm",
+    "ljef": "leis/leis_2001/l10259.htm",
 }
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -113,12 +119,21 @@ ALL_ACTS: list[dict] = [
          "Lei do Sistema Financeiro Nacional (Lei nº 4.595, de 31 de dezembro de 1964)", 2),
     _act("lei-do-cheque", "LCh", "lcheque", "lcheque", "lei-7357-1985",
          "Lei do Cheque (Lei nº 7.357, de 2 de setembro de 1985)", 2),
+    _act("lei-das-duplicatas", "LDup", "ldup", "ldup-compilado", "lei-5474-1968",
+         "Lei das Duplicatas (Lei nº 5.474, de 18 de julho de 1968)", 2),
+    _act("lei-dos-cartorios", "LNR", "lcart", "lcart", "lei-8935-1994",
+         "Lei dos Cartórios (Lei nº 8.935, de 18 de novembro de 1994)", 2),
+    _act("lei-organica-do-tcu", "LOTCU", "ltcu", "ltcu", "lei-8443-1992",
+         "Lei Orgânica do Tribunal de Contas da União (Lei nº 8.443, de 16 de julho de 1992)", 3),
+    _act("lei-dos-juizados-especiais-federais", "LJEF", "ljef", "ljef", "lei-10259-2001",
+         "Lei dos Juizados Especiais Federais (Lei nº 10.259, de 12 de julho de 2001)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-das-contravencoes-penais", "lei-dos-crimes-de-responsabilidade", "lei-do-crime-racial"],
     "b": ["lei-de-greve", "lei-do-trabalho-domestico", "lei-do-trabalho-temporario"],
     "d": ["lei-das-estatais", "lei-dos-partidos-politicos"],
     "f": ["lei-do-sistema-financeiro-nacional", "lei-do-cheque"],
+    "g": ["lei-das-duplicatas", "lei-dos-cartorios", "lei-organica-do-tcu", "lei-dos-juizados-especiais-federais"],
     "e": ["lei-de-migracao", "estatuto-dos-refugiados", "lei-antiterrorismo", "lei-da-prisao-temporaria"],
     "c": ["lei-de-condominios-e-incorporacoes", "lei-da-alienacao-fiduciaria-de-imoveis", "lei-da-alienacao-fiduciaria"],
 }
@@ -165,6 +180,14 @@ ACT_DAY_ALL: dict[str, tuple[str, str]] = {
                                     "publicação' (DOU 31.12.1964, supplement): 31.12.1964 + 90 days"),
     "lei-7357-1985": ("1985-09-03", "Lei 7.357/1985 art. 70: 'Esta Lei entra em vigor na data de sua publicação' (DOU 3.9.1985; "
                                     "the footer of Planalto's page misprints '3.9.1986')"),
+    "lei-5474-1968": ("1968-08-18", "Lei 5.474/1968 art. 28: 'Esta Lei entrará em vigor 30 (trinta) dias após a data de sua "
+                                    "publicação' (DOU 19.7.1968, rectified 25.7.1968): 19.7.1968 + 30 days"),
+    "lei-8935-1994": ("1994-11-21", "Lei 8.935/1994 art. 54: 'Esta Lei entra em vigor na data da sua publicação' (DOU "
+                                    "21.11.1994)"),
+    "lei-8443-1992": ("1992-07-17", f"Lei 8.443/1992 art. 112: {_PUB} (DOU 17.7.1992, rectified 22.4.1993)"),
+    "lei-10259-2001": ("2002-01-14", "Lei 10.259/2001 art. 27: 'Esta Lei entra em vigor seis meses após a data de sua "
+                                     "publicação' (DOU 13.7.2001): the period ends on 13.1.2002 and the law is in force the day "
+                                     "after (LC 95/1998 art. 8 § 1, as amended by LC 107/2001)"),
 }
 _L = B._act_law
 ACT_LAWS_ALL: dict[str, dict] = {
@@ -214,6 +237,14 @@ ACT_LAWS_ALL: dict[str, dict] = {
                         PAGES["lsfn"]),
     "lei-7357-1985": _L("Lei nº 7.357, de 1985", "Dispõe sobre o cheque e dá outras providências.", "1985-09-02", "1985-09-03",
                         PAGES["lcheque"]),
+    "lei-5474-1968": _L("Lei nº 5.474, de 1968", "Dispõe sôbre as Duplicatas, e dá outras providências.", "1968-07-18",
+                        "1968-07-19", PAGES["ldup"]),
+    "lei-8935-1994": _L("Lei nº 8.935, de 1994", "Regulamenta o art. 236 da Constituição Federal, dispondo sobre serviços "
+                        "notariais e de registro. (Lei dos cartórios)", "1994-11-18", "1994-11-21", PAGES["lcart"]),
+    "lei-8443-1992": _L("Lei nº 8.443, de 1992", "Dispõe sobre a Lei Orgânica do Tribunal de Contas da União e dá outras "
+                        "providências.", "1992-07-16", "1992-07-17", PAGES["ltcu"]),
+    "lei-10259-2001": _L("Lei nº 10.259, de 2001", "Dispõe sobre a instituição dos Juizados Especiais Cíveis e Criminais no "
+                         "âmbito da Justiça Federal.", "2001-07-12", "2001-07-13", PAGES["ljef"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -302,10 +333,30 @@ for _how, _n, _d, _y in _DEL_NOTES:
     P.NOTE_FIX[f"({_how} pelo Del nº {_n}, de {_d})"] = (
         f"({_how} pelo Decreto-Lei nº {_n}, de {_y})",
         f"Lei do Sistema Financeiro Nacional: the note reads 'Del nº {_n}, de {_d}', Planalto's abbreviation of Decreto-Lei")
+P.VIGENCIA_FIXED["dl-581-1969"] = (
+    "1969-05-21", "art. 6: 'Êste Decreto-lei entrará em vigor na data de sua publicação' (DOU 21.5.1969; Planalto's footer "
+                  "misprints '21.5.196e'). Its art. 4 parágrafo único leaves the date on which its new wording of Lei 4.595 "
+                  "arts. 4 V, 10 VII and 11 III becomes effective to a decree, after the IMF amendment it approves; as for "
+                  "other deferred effects, the wording is dated by the in-force day")
 B9.WORD_FIX[:] = B9.WORD_FIX + [
     ("lsfn", "Banco Central da República do Brasil. Vide Lei nº 6.419, de 1944", "Banco Central da República do Brasil.",
      "Lei do Sistema Financeiro Nacional art. 56: Planalto's editorial pointer 'Vide Lei nº 6.419, de 1944', printed without "
      "parentheses below the caput, is read into the caput; it is dropped like the page's other 'Vide' notes"),
+]
+_LSFN = "lei-do-sistema-financeiro-nacional"
+_LSFN42 = ("Lei do Sistema Financeiro Nacional art. 42: Medida Provisória nº 784/2017 revoked the whole article (8.6.2017 to "
+           "its lapse, 20.10.2017) before Lei 13.506/2017 did (14.11.2017); Planalto notes the MP only on the caput, so the "
+           "quoted wording of Lei 1.808/1953 art. 2 the article carries is absent with it while the MP stood")
+B8.SPAN_FIX += [
+    ((_LSFN, "art-10", "IV -", "IV - receber os recolhimentos compulsórios de que trata o inciso XIV", 0),
+     {"skip": True, "end_how": "twin"},
+     "Lei do Sistema Financeiro Nacional art. 10 IV: Planalto prints the former inciso III struck as inciso IV, noted "
+     "'Renumerado pela Lei nº 7.730'; Medida Provisória nº 32/1989 (16.1.1989) and Lei 7.730/1989, its conversion, gave "
+     "inciso IV a new wording in the same act, so the renumbered words never stood as inciso IV and are left out"),
+    ((_LSFN, "art-42", "", '"Art. 2º Os diretores e gerentes', 0),
+     {"gaps": [("2017-06-08", "2017-10-20", "mp-784-2017", "mp-784-2017-fim")]}, _LSFN42),
+    ((_LSFN, "art-42", "Parágrafo único", "Parágrafo único. Havendo prejuízos", 0),
+     {"gaps": [("2017-06-08", "2017-10-20", "mp-784-2017", "mp-784-2017-fim")]}, _LSFN42),
 ]
 B.EXPLAINED["lei-do-sistema-financeiro-nacional"] = {
     "art-04": "the annotated page prints '( Vetado )' after Lei 6.045/1974's note on the caput, which the history keeps at "
@@ -315,6 +366,66 @@ B.EXPLAINED["lei-do-sistema-financeiro-nacional"] = {
     "art-10": "the annotated page prints inciso I as '... Conselho Monetário Nacional ( Vetado )).'; the consolidated page "
               "keeps the note '(Renumerado pela Lei nº 7.730, de 31/01/89)' in inciso V's text",
     "art-19": "typesetting: the annotated page ends inciso II with '(Vetado).', the consolidated page without the full stop",
+}
+P.VIGENCIA_FIXED["lei-14206-2021"] = (
+    "2021-09-28", "art. 22: 'Esta Lei entra em vigor: I - (VETADO); e II - na data de sua publicação, para os demais "
+                  "dispositivos' (DOU 28.9.2021)")
+# Lei das Duplicatas, Capítulo V (arts. 15-18): Decreto-Lei 436/1969 (27.1.1969) gave arts. 15 (caput), 16 and 17 new
+# wordings and added art. 15 §§ 12-13, keeping art. 15 §§ 1-11 ('.....' in its text); Lei 6.458/1977 rewrote the whole
+# chapter. Planalto strikes the earlier lines without notes: each ends on Lei 6.458's day.
+_LDUP = "lei-das-duplicatas"
+_LDUP_WHY = ("Lei das Duplicatas arts. 15 to 18: Lei 6.458/1977 rewrote Capítulo V ('Redação dada pela Lei nº 6.458'); the "
+             "earlier lines Planalto strikes without a note (the 1968 text and Decreto-Lei 436/1969's wordings of arts. 15 to "
+             "17 and §§ 12-13; Decreto-Lei 436 kept art. 15 §§ 1 to 11, which its text gives as '.....') end on Lei 6.458's "
+             "in-force day")
+_L6458 = {"end": "1977-11-03", "end_law": "lei-6458-1977", "end_how": "successor", "skip": False}
+B8.SPAN_FIX += [((_LDUP, u, lab, pre, n), _L6458, _LDUP_WHY) for u, lab, pre, n in [
+    *[("art-15", f"§ {k}" + ("º" if k < 10 else ""), f"§ {k}" + ("º" if k < 10 else "."), 0) for k in range(1, 14)],
+    ("art-15", "Art. 15", "Art. 15. Será processada pela forma executiva a ação do credor por duplicata ou triplicata", 0),
+    ("art-16", "Art. 16", "Art. 16. Será processada pela forma ordinária a ação do credor contra", 0),
+    ("art-16", "§ 1º", "§ 1º A apresentação e a distribuição", 0),
+    ("art-16", "§ 2º", "§ 2º Não contestada, será a ação", 0),
+    ("art-17", "Art. 17", "Art. 17. O fôro competente para a ação de cobrança da duplicata ou da", 0),
+    ("art-18", "Art. 18", "Art. 18. A ação de cobrança da duplicata prescreve", 0),
+    ("art-18", "I -", "I - contra o sacado e respectivos avalistas, em 3 (três) anos, contados da data do vencimento", 0),
+    ("art-18", "II -", "Il - contra endossante", 0),
+    ("art-18", "III -", "III - de qualquer dos coobrigados contra os demais, em um (1) ano", 0),
+    ("art-18", "§ 1º", "§ 1º A ação de cobrança poderá ser", 0),
+    ("art-18", "§ 2º", "§ 2º Os coobrigados da duplicata respondem solidàriamente", 0),
+]]
+# Lei Orgânica do TCU: Planalto's page heads the act 'Lei Nº 8.443, DE 16 DE JULHO DE 1992.' in mixed case, which the
+# shared parser's start-of-act test (an upper-case 'LEI N') misses; the heading is read in upper case for that test only
+_paragraphs13 = P.paragraphs
+
+
+def paragraphs(html, digits):
+    if B8.CURRENT_PAGE[0] == "ltcu":
+        html = html.replace("Lei Nº 8.443, DE 16 DE JULHO DE 1992.", "LEI Nº 8.443, DE 16 DE JULHO DE 1992.", 1)
+    return _paragraphs13(html, digits)
+
+
+P.paragraphs = B.paragraphs = paragraphs
+# Lei Orgânica do TCU art. 55 § 1º: an expression suspended by a Senate resolution (CF art. 52 X), batch 5b's split rule
+import re as _re  # noqa: E402
+P.COURTS["rsf-16-2006"] = {
+    "label": "Resolução do Senado Federal nº 16, de 2006", "kind": "law", "enacted": "2006-03-14", "published": "2006-03-15",
+    "title": "Suspende a execução da expressão \"manter ou não o sigilo quanto ao objeto e à autoria da denúncia\", constante "
+             "do § 1º do art. 55 da Lei Federal nº 8.443, de 16 de julho de 1992, e do contido no disposto no Regimento "
+             "Interno do Tribunal de Contas da União, que, quanto à autoria da denúncia, estabelece a manutenção do sigilo.",
+    "url": PL + "_Ato2004-2006/2006/Congresso/ResSF16-06.htm",
+    "from": "2006-03-15", "case": r"Resolu[çc][ãa]o\s+SF\s+n[º°]?\s*16\s*,\s*de\s*2006", "where": [],
+    "why": "Resolução do Senado Federal nº 16, de 14.3.2006 (DOU 15.3.2006; Planalto page ResSF16-06.htm), art. 1: 'É "
+           "suspensa a execução da expressão \"manter ou não o sigilo quanto ao objeto e à autoria da denúncia\" constante "
+           "do § 1º do art. 55 da Lei Federal nº 8.443 [...] em virtude de declaração de inconstitucionalidade em decisão "
+           "definitiva do Supremo Tribunal Federal, nos autos do Mandado de Segurança nº 24.405-4'; art. 2: in force on "
+           "publication. Planalto strikes the expression inside the paragraph; the history drops it on 15.3.2006, credited "
+           "to the resolution (kind law: a Senate act)"}
+B6.PB5B.SPLIT_NOTES["rsf-16-2006"] = _re.compile(r"\(\s*Express[ãa]o\s+suspensa\s+pela\s+Resolu[çc][ãa]o\s+SF\s+n[º°]?\s*16\s*,"
+                                               r"\s*de\s*2006\s*\)", _re.I)
+B.EXPLAINED["lei-das-duplicatas"] = {
+    "preambulo": "layout: the consolidated page sets the ementa ('Dispõe sôbre as Duplicatas ...') as a centred heading, the "
+                 "annotated page as the preamble's first line",
+    "titulos": "layout: the ementa, see preambulo",
 }
 
 # court and other open items named in decisions (Planalto's 'Vide' notes are dropped from the text, so nothing is modelled)

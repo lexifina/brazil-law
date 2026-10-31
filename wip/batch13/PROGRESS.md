@@ -54,3 +54,23 @@ vetoed parts kept by Congress were promulgated DOU 5.5.1964, before it); art. 11
 Lei de Migração 13.445/2017 (1 version, from 21.11.2017; annex fee table NOT included - open item), Lei 9.474/1997 (1),
 Lei 13.260/2016 (1), Lei 7.960/1989 (3). Part sha fdd59324; merged 91 acts, 1882 versions, 1613 commits, check 0/0,
 compare identical, audit clean.
+
+## 99-batch13f - PUBLISHed 2026-10-31
+Lei 4.595/1964 SFN (27 versions), Lei do Cheque 7.357/1985 (1). Hand: NOTE_FIX 'Del nº' notes (7); law:dl-581-1969 repinned
+(missing had pinned DL 581/1938!) to decreto-lei/del0581.htm + VIGENCIA_FIXED 21.5.1969; WORD_FIX art. 56 'Vide Lei
+6.419'; SPAN_FIX art. 10 IV renumbered copy skip, art. 42 quoted lines gap for MP 784; EXPLAINED arts. 4, 5, 10, 19.
+New tool batch13/.tmp/headyear.py: checks each law pin's first heading number AND year (pinscan checks number only);
+remaining flag law:lei-5143-1965 (page is Lei 5.143/1966; used only in a 'Vide' note, harmless).
+Part sha 3964e97f; merged 93 acts, 1910 versions, 1637 commits, check 0/0, compare identical, audit clean.
+
+## Deferred: Lei do FGTS 8.036/1990 (configured lei-do-fgts, page leis/l8036consol.htm - l8036.htm is the ORIGINAL text)
+Trial: 140 problems (Lei 13.932/2019 note 'Incluído dada pela', MP 905/2019 -> MP 955/2020 revocation chain, many
+'restored wording after an open one', 60 undated). Needs a hand model like the Saneamento one.
+
+## 99-batch13g - PUBLISHed 2026-10-31
+Lei das Duplicatas 5.474/1968 (6), Lei dos Cartórios 8.935/1994 (12), Lei Orgânica do TCU 8.443/1992 (5), Lei 10.259/2001
+JEF (3). Hand: VIGENCIA_FIXED lei-14206-2021; SPAN_FIX LDup arts. 15-18 end at Lei 6.458/1977 (DL 436 kept art. 15 §§
+1-11); law:lei-14301-2022 repinned; P.COURTS rsf-16-2006 + batch5b SPLIT_NOTES (TCU art. 55 § 1º expression);
+paragraphs wrapper upper-cases the TCU heading ('Lei Nº' missed the start-of-act test: 0 paragraphs before);
+EXPLAINED LDup preambulo/titulos. Part sha fcaf9391; merged 97 acts, 1936 versions, 1653 commits, check 0/0, compare
+identical, audit clean.
