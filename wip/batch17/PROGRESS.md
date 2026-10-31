@@ -295,6 +295,39 @@ Lei 9.074/1995, 25 versions 1995-07-08 .. 2025-11-25 (l9074cons.htm vs l9074comp
   sources[0].requests). OPEN_ITEMS L9074. effects_fix 0 moves; all checks 0. Part sha 52d31eb8 (pre-effects 87993a50);
   merged 169 acts, 2883 versions, 2220 commits, check 0/0, compare identical, audit clean. README row + jurisdiction (169).
 
+## 99-batch17v - PUBLISHed 2026-10-31 (sixth session)
+Lei 12.462/2011 (RDC), 25 versions 2011-08-05 .. 2024-09-19 (l12462 vs l12462compilado; 4 diffs EXPLAINED).
+- Hand (`_LRDC`, scoped): VIGENCIA_FIXED lei-14133-2021 = 30.12.2023 (all its notes on the page are the art. 193 II c
+  revocation of arts. 1-47-A), mp-551-2011 = 10.1.2012 (effects I), lei-12688-2012 = 19.7.2012 (IV); NOTE_FIX 'Lei nº
+  1.4002' -> 14.002; SPAN_FIX Lei 14.034 art. 13 effects 1.1.2021 (art. 63 § 5º caput/I/II start, 2012 § 5º end, Lei
+  12.648's § 1º II copy nth 1 ends). paragraphs wrapper drops art. 63 § 17 on l12462 only (MP 1.349/2026 lapsed, Ato
+  adc-77-mpv1.349 not on archive.org: cdxpre of 2026/congresso lists 16 Atos, not this one) -> LEFT OUT + decision +
+  EXPLAINED art-63. OPEN: art. 63-B 5-year term (Lei 14.901 art. 5) not modelled; ADIs 4.645/4.655.
+- Benign flags: art. 48/53 quoted Lei 10.683/11.182 text. Part sha 7e378797 (pre-effects dab71ee5); merged 170 acts, 2908
+  versions, 2231 commits, check 0/0, compare identical, audit clean. README row + jurisdiction.json (170 acts).
+
+## State at handoff (batch 17, sixth session, 2026-10-31)
+Parts 99-batch17a..v installed with .PUBLISH (44 acts, 514 versions; merged 170 acts, 2908 versions, 2231 commits, check
+0/0, --compare identical, audit clean). README rows + jurisdiction.json (170 acts) current. All runs foreground through
+.tmp/run.py at BelowNormal, one at a time (PIDs printed in the logs, every one exited; nothing left running). Fetching:
+archive.org only (iaonly.py, cdxlist/cdxpre, new pinat.py); robots.txt read at session start (web.archive.org 404 = no
+rules; archive.org allows all but /control/ and /report/). No Common Crawl or Arquivo.pt requests.
+DATED RE-CHECK (unchanged): on or after 29.11.2026 read MP 1.382/2026's fate (part m; see the fifth-session state below).
+This session: q (Lei 10.522), r (Leis 9.873, 10.520), s (Lei 12.783), t (Lei 12.815), u (Lei 9.074), v (Lei 12.462) =
+7 acts, 114 versions; q re-PUBLISHed once (decision wording).
+Left out / unsettled:
+- Lei 10.931/2004: no archive.org capture of its Planalto page (only in the robots-closed Common Crawl index). Not built.
+- Lei 10.522 art. 32 quoted § 2º (ADI 1.976, undated) and Lei 12.462 art. 63 § 17 (MP 1.349/2026: Ato Declaratório 77/2026
+  not archived, lapse day unknown): LEFT OUT, in decisions/OPEN_ITEMS/README rows. Lei 12.462 art. 63-B 5-year term (Lei
+  14.901 art. 5) not modelled.
+- Lei 10.233/2001 (ANTT/ANTAQ): CONFIGURED AS PART w, NOT PUBLISHED. Pages + 21 cited laws pinned. Trial w-t1: 35 versions,
+  0 diffs vs l10233 (own consolidated page), 6 problems: MP 800/2017 lapse (Ato '../../2018/Congresso/adc-6-mpv800.htm',
+  pin it as ato:adc-6-2018-mpv800); MP 2.217-3/2001 (pre-EC 32 chain: MP_PENDING text, as mp-2216-2001); MP 155/2003 (its
+  page names no conversion: likely Lei 10.871/2004, read that page before setting CONVERTED_FIX); three 'ends before it
+  starts' lines at 2022-02-07..06 (art-13 p.u., art-38 caput, art-82 § 1º: MP 1.065/2021 lapse 7.2.2022 vs Lei 14.273/2021
+  in force 6.2.2022 - restored copies need ending on the 14.273 day or skipping); 6 undated lines; then effrep of all
+  amenders (510 notes). Next after that: none of the listed candidates remain.
+
 ## State at handoff (batch 17, fifth session, 2026-10-31)
 Parts 99-batch17a..p installed with .PUBLISH (37 acts, 400 versions; merged 163 acts, 2794 versions, 2183 commits, check
 0/0, --compare identical, audit clean). README rows + jurisdiction.json (163 acts) current. All runs foreground through

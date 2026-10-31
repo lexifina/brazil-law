@@ -201,6 +201,8 @@ ALL_ACTS: list[dict] = [
          "Outorga e prorrogação de concessões e permissões de serviços públicos (Lei nº 9.074, de 7 de julho de 1995)", 2),
     _act("lei-do-rdc", "LRDC", "l12462", "l12462-compilado", "lei-12462-2011",
          "Regime Diferenciado de Contratações Públicas - RDC (Lei nº 12.462, de 4 de agosto de 2011)", 2),
+    _act("lei-da-antt-e-antaq", "L10233", "l10233", "l10233", "lei-10233-2001",
+         "Reestruturação dos transportes aquaviário e terrestre, ANTT e ANTAQ (Lei nº 10.233, de 5 de junho de 2001)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -227,6 +229,7 @@ PARTS: dict[str, list[str]] = {
     "t": ["lei-dos-portos"],
     "u": ["lei-9074-de-1995"],
     "v": ["lei-do-rdc"],
+    "w": ["lei-da-antt-e-antaq"],   # NOT published: trial only (see batch17/PROGRESS.md)
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -305,6 +308,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                      "efeitos financeiros, no tocante ao art. 52 desta Lei, a contar da transferência dos órgãos "
                                      "ali referidos' (DOU 5.8.2011, edição extra, rectified 10.8.2011): financial effects only, so "
                                      "the in-force day"),
+    "lei-10233-2001": ("2001-06-06", f"Lei 10.233/2001 art. 124: {_PUB} (DOU 6.6.2001)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -454,6 +458,10 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "de março de 2007, e 12.350, de 20 de dezembro de 2010, e a Medida Provisória nº 2.185-35, de 24 de agosto "
                          "de 2001; e revoga dispositivos da Lei nº 9.649, de 27 de maio de 1998.", "2011-08-04", "2011-08-05",
                          PAGES["l12462"]),
+    "lei-10233-2001": _L("Lei nº 10.233, de 2001", "Dispõe sobre a reestruturação dos transportes aquaviário e terrestre, cria o "
+                         "Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, "
+                         "a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infra-Estrutura de Transportes, "
+                         "e dá outras providências.", "2001-06-05", "2001-06-06", PAGES["l10233"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -1621,6 +1629,14 @@ if any(a["slug"] == _LRDC for a in ACTS):
                       "[...] c) os arts. 1º a 47-A da Lei nº 12.462, de 4 de agosto de 2011' (the first wording set two years "
                       "from 1.4.2021; Medida Provisória 1.167/2023 and then LC 198/2023 moved it): every note of Lei 14.133 on "
                       "Lei 12.462's page is that revocation, so it is dated 30.12.2023, not by Lei 14.133's own entry into force")
+    P.VIGENCIA_FIXED["mp-551-2011"] = (
+        "2012-01-10", "'Esta Medida Provisória entra em vigor na data de sua publicação, produzindo efeitos: I - em relação aos "
+                      "arts. 1º, 2º, 3º, 4º, 5º e 10, a partir do dia 10 de janeiro de 2012' (DOU 23.11.2011): its art. 4 (Lei "
+                      "12.462 art. 63) takes effect on 10.1.2012")
+    P.VIGENCIA_FIXED["lei-12688-2012"] = (
+        "2012-07-19", "art. 34: 'Esta Lei entra em vigor: [...] III - a partir de 1º de junho de 2012, quanto ao disposto no art. "
+                      "30; IV - na data de sua publicação, em relação aos demais artigos' (DOU 19.7.2012): its art. 28 (Lei "
+                      "12.462 arts. 1 and 43) falls under IV")
     for _n in ("Incluído", "Redação dada"):
         P.NOTE_FIX[f"({_n} pela Lei nº 1.4002, de 2020)"] = (
             f"({_n} pela Lei nº 14.002, de 2020)",
@@ -1632,12 +1648,40 @@ B.EXPLAINED[_LRDC] = {
     "art-63": "the consolidated page prints § 17 (Medida Provisória 1.349/2026), which lapsed on a day not read here and is "
               "left out of the history",
 }
+_W14034 = ("Lei 12.462 art. 63: Lei 14.034/2020 (DOU 6.8.2020) art. 13: 'produzirá efeitos, quanto ao § 5º do art. 63 da Lei nº "
+           "12.462 [...] alterado pelo art. 7º desta Lei, e quanto aos incisos II e III do caput do art. 12 desta Lei, em 1º de "
+           "janeiro de 2021': its § 5º (caput and incisos I and II) and the revocation of § 1º II (art. 12 III) take effect on "
+           "1.1.2021; its other changes to art. 63 on 6.8.2020")
+_S21 = {"start": "2021-01-01", "start_law": "lei-14034-2020"}
+_E21 = {"end": "2021-01-01", "end_law": "lei-14034-2020"}
+B8.SPAN_FIX += [((_LRDC, "art-63", lab, pre, 0), dict(f), _W14034) for lab, pre, f in (
+    ("§ 5º", "§ 5º Os recursos do FNAC também poderão ser aplicados no desenvolvimento", _E21),
+    ("§ 5º", "§ 5º Os recursos do FNAC também poderão ser aplicados:", _S21),
+    ("I -", "I - no desenvolvimento, na ampliação e na reestruturação de aeroportos concedidos", _S21),
+    ("II -", "II - no custeio de eventuais despesas decorrentes de responsabilidade civil", _S21),
+    ("II -", "II - os referidos no art. 1º da Lei nº 9.825", _E21))]
+B8.SPAN_FIX[-1] = ((_LRDC, "art-63", "II -", "II - os referidos no art. 1º da Lei nº 9.825", 1), dict(_E21), _W14034)   # Lei 12.648's copy
 B13.OPEN_ITEMS[_LRDC] = (
     "Lei 12.462 (open items): the text before 5.8.2011 (Medida Provisória 527/2011, of which this Lei is the conversion) is "
     "not part of the history; the STF's ADIs 4.645 and 4.655 (Planalto prints only 'Vide' notes) are not modelled; art. 63 "
-    "§ 17 (Medida Provisória 1.349/2026, lapsed on a day not read here) is left out; 'Vide' pointers (Decreto 8.024/2013, "
+    "§ 17 (Medida Provisória 1.349/2026, lapsed on a day not read here) is left out; art. 63-B, added by Lei 14.901/2024 "
+    "'terá vigência por 5 (cinco) anos' (its art. 5): the end of that term is not modelled; 'Vide' pointers (Decreto 8.024/2013, "
     "Lei 14.034/2020, Lei 14.133/2021) strike no words and are not modelled")
 
+# part w: Lei 10.233/2001 (ANTT, ANTAQ, DNIT). Hand days set only when the act runs.
+_LANTT = "lei-da-antt-e-antaq"
+if any(a["slug"] == _LANTT for a in ACTS):
+    P.MP_LAPSE["mp-800-2017"] = (
+        "2018-02-27", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 6, de 2018 (DOU 28.2.2018): 'teve seu "
+                      "prazo de vigência encerrado no dia 26 de fevereiro do corrente ano'; the lines it added to Lei 10.233 "
+                      "end on 27.2.2018")
+    P.MP_PENDING["mp-2217-2001"] = (
+        "Medida Provisória nº 2.217-3, de 4.9.2001 (DOU 5.9.2001, art. 7: in force on publication), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2; its art. 1 gave Lei 10.233 the wordings Planalto notes with this edition (its art. "
+        "6 confirms the acts done under Medida Provisória 2.201-2/2001, the edition before it). Planalto's notes name this "
+        "edition only, so its changes are dated by its publication; earlier editions of the chain are not modelled")
+    B7.CONVERTED_FIX["mp-155-2003"] = ("lei-10871-2004", "Lei 10.871/2004's page reads 'Conversão da MPv nº 155, de 2003' "
+                                                         "(DOU 21.5.2004, art. 38: in force on publication)")
 B13.OPEN_ITEMS[_LCADIN] = (
     "Lei 10.522 (open items): the text before 22.7.2002 (Medida Provisória 2.176-79/2001 and its earlier editions, of which "
     "this Lei is the conversion) is not part of the history; the STF's judgment in ADIs 5.881, 5.886, 5.890, 5.925, 5.931 and "
