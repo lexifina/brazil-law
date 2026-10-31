@@ -138,6 +138,8 @@ P.VETO_PROMULGATION = {}
 P.VETO_PROMULGATED_UNITS = {}
 P.NOTE_FIX = {}
 B13.OPEN_ITEMS.clear()
+P.COURTS.clear()                  # batch 13's Resolução do Senado 16/2006 (TCU): its decision is printed wherever it is set
+B6.PB5B.SPLIT_NOTES.pop("rsf-16-2006", None)
 
 # ---------------------------------------------------------------------------------------------------------------
 # hand tables for these acts, each read from the official pages named in the reason
