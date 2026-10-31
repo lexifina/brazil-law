@@ -120,3 +120,5 @@ Juventude, Lei Geral do Turismo, Estatuto da Pessoa com Deficiência: 10 acts, 1
 99-batch9 PUBLISHed ~05:00Z: LDB, Lei Orgânica da Saúde, Lei das Eleições (130 versions); merged scratch build 46 acts,
 1288 versions, check 0/0, --compare identical. CTB, Código Florestal, Registros Públicos, Lei 8.666 configured in batch9
 but deferred (reasons in batch9/PROGRESS.md).
+99-batch9 re-PUBLISHed ~06:10Z with Lei 8.666/1993 (repeal version 30.12.2023) and Lei da Ação Civil Pública: 5 acts,
+177 versions; merged 48 acts, 1335 versions, check 0/0. repo/jurisdiction.json updated to the 48 acts.

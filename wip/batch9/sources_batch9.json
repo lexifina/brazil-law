@@ -1,6 +1,17 @@
 {
  "fetch": [
   {
+   "id": "ato:adc-35-2019-mpv867",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Congresso/adc-35-mpv867.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-30",
+    "timestamp": "20260721142319",
+    "filename": "crawl-data/CC-MAIN-2026-30/segments/1783664244041.91/warc/CC-MAIN-20260721123947-20260721153947-00449.warc.gz",
+    "offset": "792182049",
+    "length": "2218"
+   }
+  },
+  {
    "id": "ato:adc-36-2020-mpv910",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Congresso/adc-36-mpv910.htm",
    "cc": {
@@ -9,6 +20,28 @@
     "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054242.5/warc/CC-MAIN-20261007210144-20261008000144-00718.warc.gz",
     "offset": "44504611",
     "length": "2609"
+   }
+  },
+  {
+   "id": "ato:adc-38-2014-mpv646",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2014/Congresso/adc-038-mpv646.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261013091320",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054748.82/warc/CC-MAIN-20261013085934-20261013115934-00402.warc.gz",
+    "offset": "33183121",
+    "length": "2113"
+   }
+  },
+  {
+   "id": "ato:adc-55-2019-mpv882",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Congresso/adc-55-mpv882.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-30",
+    "timestamp": "20260720010818",
+    "filename": "crawl-data/CC-MAIN-2026-30/segments/1783663952230.43/warc/CC-MAIN-20260719235946-20260720025946-00132.warc.gz",
+    "offset": "769404244",
+    "length": "2487"
    }
   },
   {
@@ -31,6 +64,17 @@
     "filename": "crawl-data/CC-MAIN-2026-34/segments/1786091385961.45/warc/CC-MAIN-20260816093115-20260816123115-00907.warc.gz",
     "offset": "361195194",
     "length": "2506"
+   }
+  },
+  {
+   "id": "ato:adc-96-2026-mpv1360",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Congresso/adc-96-mpv1.360.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261016120932",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170346800.88/warc/CC-MAIN-20261016104051-20261016134051-00326.warc.gz",
+    "offset": "857859755",
+    "length": "2401"
    }
   },
   {
@@ -931,6 +975,17 @@
     "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170055395.40/warc/CC-MAIN-20261015005537-20261015035537-00850.warc.gz",
     "offset": "802211921",
     "length": "3192"
+   }
+  },
+  {
+   "id": "law:lei-13495-2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/L13495.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260908005951",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492699760.13/warc/CC-MAIN-20260907233153-20260908023153-00942.warc.gz",
+    "offset": "41245939",
+    "length": "4213"
    }
   },
   {
@@ -1900,6 +1955,12 @@
     "offset": "801486909",
     "length": "9177"
    }
+  },
+  {
+   "id": "law:mp-75-2002",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Rejeitada/75.htm",
+   "ts": "20031125232840",
+   "via": "wayback.py"
   },
   {
    "id": "law:mp-773-2017",

@@ -145,6 +145,13 @@ P.VIGENCIA_FIXED.update({
                                      "26.9.2024): 1.1.2025"),
 })
 P.NOTE_FIX.update({
+    "(Incluído pela Lei nº 13.495, 2017)": (
+        "(Incluído pela Lei nº 13.495, de 2017)",
+        "Código de Trânsito: notes read 'Lei nº 13.495, 2017' (no 'de'); Lei nº 13.495, de 24.10.2017 gives that wording"),
+    "(Redação dada pela Lei nº 13.495, 2017)": (
+        "(Redação dada pela Lei nº 13.495, de 2017)", "as the 'Incluído' notes of Lei 13.495"),
+    "(Revogado pela Lei nº 13 281, de 2016)": (
+        "(Revogado pela Lei nº 13.281, de 2016)", "Código de Trânsito: a note reads 'Lei nº 13 281' (a space for the point)"),
     "(Incluído pela Lei nª 8.078, de 11.9.1990)": B8_NOTE_LACP,
     "(Redação dada pela Lei nº 13.465, 2017)": (
         "(Redação dada pela Lei nº 13.465, de 2017)",
@@ -153,7 +160,59 @@ P.NOTE_FIX.update({
         "(Incluído pela Lei nº 12.188, de 2010)",
         "Lei 8.666 art. 24 XXX: the note reads 'Lei nº 12.188, de 2.010'; its link is Lei nº 12.188, de 11.1.2010"),
 })
+_CTB = "codigo-de-transito-brasileiro"
+P.VIGENCIA_FIXED.update({
+    "lei-13160-2015": ("2016-01-23", "art. 4: 'Esta Lei entra em vigor após decorridos cento e cinquenta dias de sua "
+                                     "publicação oficial' (DOU 26.8.2015): the 150th day counted from publication is "
+                                     "22.1.2016 (LC 95/1998 art. 8 § 1)"),
+    "lei-12971-2014": ("2014-11-01", "'Esta Lei entra em vigor no 1º (primeiro) dia do 6º (sexto) mês após a sua "
+                                     "publicação' (DOU 12.5.2014): 1.11.2014"),
+    "lei-12865-2013": ("2013-10-10", "'Esta Lei entra em vigor: I - a partir do primeiro dia do quarto mês subsequente ao de "
+                                     "sua publicação, em relação ao disposto no art. 34 desta Lei; II - na data de sua "
+                                     "publicação, para os demais dispositivos' (DOU 10.10.2013); its change to the Código de "
+                                     "Trânsito (art. 10) is in its art. 22, so in force on publication"),
+    "lei-14229-2021": ("2022-04-20", "art. 7: 'Esta Lei entra em vigor: I - na data de sua publicação, quanto aos arts. 1º, "
+                                     "3º, 4º e 5º, ao inciso I do art. 6º, às alterações do art. 2º aos arts. 131, 271 e 282 "
+                                     "e, também no art. 2º, à inclusão do art. 338-A na Lei nº 9.503 [...]; II - em 1º de "
+                                     "janeiro de 2024, quanto às alterações ao caput do art. 289 [...] e quanto aos "
+                                     "acréscimos do § 6º ao art. 285 e do art. 289-A [...]; III - após decorridos 180 "
+                                     "(cento e oitenta) dias de sua publicação oficial, quanto aos demais dispositivos' "
+                                     "(DOU 22.10.2021): the rest from 20.4.2022 (the 180th day counted from publication is "
+                                     "19.4.2022, LC 95/1998 art. 8 § 1); the per-article days are set below"),
+    "lei-12249-2010": ("2010-06-14", "art. 139: 'Esta Lei entra em vigor: I - na data de sua publicação, produzindo efeitos "
+                                     "[...] d) a partir de 16 de dezembro de 2009, em relação aos demais dispositivos' (DOU "
+                                     "14.6.2010); its revocation of Código de Trânsito art. 288 § 2º is dated the day it "
+                                     "entered into force, 14.6.2010 (the clause gives it effect from 16.12.2009, before the "
+                                     "law existed)"),
+    "lei-15452-2026": ("2026-02-25", "'Esta Lei entra em vigor na data de sua publicação' (DOU 25.2.2026, edição extra)"),
+    "lei-14440-2022": ("2022-09-05", "'Esta Lei entra em vigor: I - a partir de 1º de janeiro de 2027, para as alterações do "
+                                     "art. 15 referentes ao caput e § 5º do art. 282-A da Lei nº 9.503 [...]; e II - na data "
+                                     "de sua publicação, para os demais dispositivos' (DOU 5.9.2022); its changes to art. "
+                                     "282-A caput and § 5º are dated 1.1.2027 below"),
+})
+
+for _u in ("art-131", "art-271", "art-282", "art-338-a"):
+    P.VIGENCIA_PROVISION[("lei-14229-2021", _CTB, _u)] = ("2021-10-22", "Lei 14.229/2021 art. 7 I (on publication)")
+for _u in ("art-289", "art-285", "art-289-a"):
+    P.VIGENCIA_PROVISION[("lei-14229-2021", _CTB, _u)] = ("2024-01-01", "Lei 14.229/2021 art. 7 II (1.1.2024)")
+P.PUBLISHED_FIXED.update({
+    "mp-75-2002": ("2002-10-25", "the Chamber of Deputies' record of Medida Provisória nº 75, de 24.10.2002: 'Diário "
+                                 "Oficial da União - Seção 1 - 25/10/2002, Página 1 (Publicação Original)', republished "
+                                 "28.10.2002"),
+    "lei-15452-2026": ("2026-02-25", "its page: 'publicado no DOU de 25.2.2026 - Edição extra'"),
+})
 P.MP_LAPSE.update({
+    "mp-75-2002": ("2002-12-19", "rejected: the Chamber of Deputies' record of the MP: 'Esta Medida Provisória foi "
+                                 "rejeitada pelo Ato da Câmara dos Deputados, em sessão realizada em 18/12/2002 (DOU de "
+                                 "19/12/2002)'; its wording of Código de Trânsito arts. 285 and 288 stands until the "
+                                 "rejection was published"),
+    "mp-1360-2026": ("2026-09-16", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 96, de 2026 (DOU "
+                                   "17.9.2026): 'teve seu prazo de vigência encerrado no dia 15 de setembro de 2026'"),
+    "mp-646-2014": ("2014-09-24", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 38, de 2014 (DOU "
+                                  "26.9.2014): 'teve seu prazo de vigência encerrado no dia 23 de setembro do corrente "
+                                  "ano'"),
+    "mp-882-2019": ("2019-08-31", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 55, de 2019 (DOU "
+                                  "3.9.2019): 'teve seu prazo de vigência encerrado no dia 30 de agosto do corrente ano'"),
     "mp-896-2019": ("2020-02-17", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 6, de 2020 (DOU "
                                   "18.2.2020): 'teve seu prazo de vigência encerrado no dia 16 de fevereiro de 2020'"),
     "mp-910-2019": ("2020-05-20", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 36, de 2020 (DOU "
@@ -177,6 +236,10 @@ _W53 = ("Lei da Ação Civil Pública art. 1: Lei 10.257/2001 (Estatuto da Cidad
         "Planalto prints for Lei 10.257's numbering never stood and are left out; incisos III and IV keep their wording "
         "throughout (Planalto prints them twice)")
 B8.LABEL_FIX[:] = [
+    ("ctb", "3º Os equipamentos fixos ou móveis", "§ 3º Os equipamentos fixos ou móveis", "§ 3º",
+     "Código de Trânsito art. 99 § 3º is printed '3º Os equipamentos ...' (no '§'); the consolidated page prints '§ 3º'"),
+    ("ctb", "'VI - em de", "VI - em de", "VI -",
+     "Código de Trânsito art. 231 VI is printed with a stray apostrophe before the numeral; the consolidated page has none"),
     ("lacp", "l - ao meio-ambiente;", "I - ao meio-ambiente;", "I -",
      "Lei da Ação Civil Pública art. 1 I and II and art. 5 I (1985 wording): the roman numerals are printed with the letter "
      "l ('l - ao meio-ambiente;', 'll - ao consumidor;', 'l - esteja constituída'); read as I and II"),
@@ -184,6 +247,16 @@ B8.LABEL_FIX[:] = [
     ("lacp", "l - esteja constituída", "I - esteja constituída", "I -", "as art. 1 I"),
 ]
 B8.SPAN_FIX[:] = [
+    ((_CTB, "art-282-a", "§ 5º", "", 0), {"skip": True},
+     "Código de Trânsito art. 282-A: Planalto prints a bare label line '§ 5º (Vide Lei nº 14.440, de 2022) (Vigência)' "
+     "where Lei 14.440/2022 adds a § 5º from 1.1.2027 (its art. 7 I, with the new caput); the label line is left out, "
+     "and Lei 14.440's 2027 wording of art. 282-A caput and § 5º, which Planalto's page does not print, is not in the "
+     "history"),
+    ((_CTB, "art-312-a", "IV -", "IV - outras atividades relacionadas ao resgate", 0),
+     {"end": "2023-06-20", "end_law": "lei-14599-2023", "end_how": "successor"},
+     "Código de Trânsito art. 312-A IV in Lei 13.281/2016's wording is printed unstruck above the wording 'Redação dada "
+     "pela Lei nº 14.599, de 2023' that replaced it; it ends with that law (as II and III above it)"),
+
     ((_A, "art-01", "III -", "III - a bens e direitos", 0), {"skip": True}, _W53),
     ((_A, "art-01", "III -", "III - a bens e direitos", 1), {"start": "1985-07-25", "start_law": None}, _W53),
     ((_A, "art-01", "III -", "III - à ordem urbanística", 0), {"skip": True}, _W53),
