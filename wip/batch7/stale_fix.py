@@ -44,6 +44,21 @@ def _norm_text(s: str) -> str:
 
 def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = False) -> None:
     level = M.level
+    parent: dict[int, str] = {}
+    for i, p in enumerate(paras):
+        lab = "" if p["heading"] or not p["label"] or p["label"] == "rubrica" else p["label"]
+        par = ""
+        if lab:
+            lv0 = level(lab)
+            for q in reversed(paras[:i]):
+                if q["unit"] != p["unit"]:
+                    break
+                if q["heading"] or not q["label"] or q["label"] == "rubrica":
+                    continue
+                if level(q["label"]) < lv0:
+                    par = _norm_label(q["label"])
+                    break
+        parent[id(p)] = par
     # a caput printed 'Artigo 896 - ...' (CLT, Lei 861/1949) has no label: it is that article's caput
     for p in paras:
         m = re.match(r"^Artigo\s+([\d.]+)", p["text"])
@@ -71,9 +86,11 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
                 p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "next-wording-first"
                 USED["A"].append(f"{act} {p['unit']} [{p['label']}] {old_end} -> {q['start']}")
                 for r in paras[i + 1:]:
-                    if r["unit"] != p["unit"] or r["label"] or r["heading"]:
+                    if r["heading"]:
+                        continue
+                    if r["unit"] != p["unit"] or (r["label"] and r["label"] != "rubrica" and level(r["label"]) <= lv):
                         break
-                    if r["start"] == p["start"] and r["end"] == old_end and r["end_law"] == old_law:
+                    if r["start"] >= p["start"] and r["end"] == old_end and r["end_law"] == old_law:
                         r["end"], r["end_law"], r["end_how"] = p["end"], p["end_law"], "next-wording-first"
                 break
             if later:
@@ -108,6 +125,7 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
             if q["unit"] != p["unit"]:
                 break
             if (q["state"] != "plain" and not q.get("skip") and _norm_label(q["label"]) == _norm_label(p["label"])
+                    and parent[id(q)] == parent[id(p)]
                     and q["start"] > p["start"] and q["end"] and (q["end_how"] or "") in ("conversion", "lapse", "mp-dropped")
                     and (q["start_law"] or "").startswith("mp-")):
                 p["gaps"] = [(q["start"], q["end"], q["start_law"], q["end_law"])]
@@ -128,6 +146,7 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
             if (q["heading"] or q.get("skip") or q["state"] == "plain" or q["start"] != p["start"] or not q["end"]) and not (
                     q["state"] != "plain" and not q["end"] and not q.get("skip") and not q["heading"] and p["state"] != "plain"
                     and p["end"] and q["start"] == p["start"] and p["label"] and _norm_label(q["label"]) == _norm_label(p["label"])
+                    and parent[id(q)] == parent[id(p)]
                     and _norm_text(q["text"]) == _norm_text(p["text"])):
                 continue
             if not q["end"]:
@@ -135,7 +154,7 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
                 q["skip"], q["end_how"] = True, "twin"
                 USED["B"].append(f"{act} {q['unit']} [{q['label']}] unended copy left out (the copy below has the note)")
                 break
-            same_label = p["label"] and _norm_label(q["label"]) == _norm_label(p["label"])
+            same_label = p["label"] and _norm_label(q["label"]) == _norm_label(p["label"]) and parent[id(q)] == parent[id(p)]
             same_text = _norm_text(q["text"]) == _norm_text(p["text"])
             twin = (same_label and (same_text or not p["start_law"])) or (
                 not p["label"] and not q["label"] and same_text and not p["text"].startswith("Pena"))
@@ -152,7 +171,7 @@ def fix(M, paras: list[dict], act: str, same_day_laws: set[str], rule_c: bool = 
             for _ in range(20):
                 blk = [r for r in paras if r is not p and r is not q and r["unit"] == p["unit"] and not r["heading"]
                        and (r["label"] and _norm_label(r["label"]) == _norm_label(p["label"])) and alive_at(r, day)
-                       and r["start"] >= day]   # a wording that came in at or after that day (not a sibling list's own item)
+                       and r["start"] >= day and parent[id(r)] == parent[id(p)]]   # a wording that came in at or after that day (not a sibling list's own item)
                 if not blk or not p["label"]:
                     break
                 r = max(blk, key=lambda r: r["end"] or "9999")
@@ -208,7 +227,7 @@ def decisions() -> list[str]:
     if USED["A"]:
         out.append("A wording ends no later than the next wording of the same dispositivo (also a wording a law in force on "
                    "the act's first day rewrote that day), even where the source also notes a later revocation; the "
-                   "unlabelled lines right under it end with it: " + "; ".join(dict.fromkeys(USED["A"])) + ".")
+                   "lines under it (its incisos, alíneas, penalties) that ended with it end with it: " + "; ".join(dict.fromkeys(USED["A"])) + ".")
     if USED["L"]:
         out.append("A caput printed 'Artigo N - ...' is read as that article's caput: " + "; ".join(dict.fromkeys(USED["L"])) + ".")
     if USED["G"]:

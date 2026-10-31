@@ -22,7 +22,15 @@ F = HERE.parent
 sys.path.insert(0, str(HERE))
 import stale_fix  # noqa: E402
 
-SCRIPTS = {"60-phase2": "parse_phase2.py", "70-clt": "clt/parse_clt.py", "80-proc": "proc/parse_proc.py",
+# Units where two wordings of one dispositivo still stand at once for a time, because Planalto's page prints a rewritten
+# block with no note (or with a note naming no day) and nothing on the page dates it; checked by hand 2026-10-31.
+OPEN = {
+    "70-clt": "Open (not dated by the source): in arts. 530, 534, 538, 654, 693, 896 and 902 Planalto prints a superseded "
+              "wording of the 1940s-1950s without a note (or a note that names no day), so for some years of that time "
+              "two wordings of one paragraph stand at once in this history; in arts. 553, 628-A, 634 and 636 the same "
+              "happens for a few days around MP 905/2019 and MP 955/2020. The text in force today is not affected.",
+}
+SCRIPTS = {"50-codes": "codes/parse_codes.py", "60-phase2": "parse_phase2.py", "70-clt": "clt/parse_clt.py", "80-proc": "proc/parse_proc.py",
            "90-batch3": "batch3/parse_batch3.py", "95-rju": "rju/parse_rju.py"}
 
 
@@ -80,6 +88,9 @@ def main(argv: list[str]) -> int:
     d["ai_use"] = pub["ai_use"]
     if "--nofix" not in argv:
         d["decisions"] += stale_fix.decisions()
+        open_ = OPEN.get(part)
+        if open_:
+            d["decisions"].append(open_)
     t = out.with_suffix(".json.tmp")
     t.write_text(json.dumps(d, ensure_ascii=False, indent=None, separators=(",", ":")) + "\n", encoding="utf-8", newline="\n")
     os.replace(t, out)

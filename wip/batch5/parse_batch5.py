@@ -25,7 +25,7 @@ import parse_batch4 as B4  # noqa: E402  (configures batch 3 / parse_proc for ba
 B = B4.B
 P = B4.P
 PL = P.PL
-OUT = FOLDER / "corpus.d" / "98-batch5.json"
+OUT = Path(os.environ.get("BATCH5_OUT") or FOLDER / "corpus.d" / "98-batch5.json")
 STAGE = HERE / ".tmp" / "stage.json"   # batch 3's write_part writes here; the part is finished from it
 P.RETRIEVED = "2026-10-29"
 
@@ -290,4 +290,21 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
 B.write_part = P.write_part = write_part
 
 if __name__ == "__main__":
+    # stale-wording rules (../batch7/stale_fix.py), applied only when this part is written (not when imported)
+    sys.path.insert(0, str(FOLDER / "batch7"))
+    import stale_fix
+    _build_plain = P.build_act
+    _n: list[int] = []
+
+    def _build_act_stale(paras, *a, **k):
+        stale_fix.fix(P, paras, ACTS[len(_n)]["slug"] if len(_n) < len(ACTS) else "?", set())
+        _n.append(1)
+        return _build_plain(paras, *a, **k)
+    P.build_act = B.build_act = _build_act_stale
+    _write_plain = write_part
+
+    def _write_part_stale(*a) -> int:
+        EXTRA_DECISIONS.extend(stale_fix.decisions())
+        return _write_plain(*a)
+    B.write_part = P.write_part = _write_part_stale
     sys.exit(P.main(sys.argv[1:]))

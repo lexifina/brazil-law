@@ -433,5 +433,31 @@ def _inner(*a) -> int:
 
 B6.PB5B._write_part5 = _inner
 
+# Stale wordings (two wordings of one dispositivo at once): the rules of stale_fix.py, applied to each act's final life
+# spans before its versions are built (as for the older parts, through oldparts.py); their uses go into the decisions.
+import stale_fix  # noqa: E402
+
+_build_act7 = P.build_act
+_act_order: list[str] = []
+
+
+def build_act(paras, *a, **k):
+    slug = ACTS[len(_act_order)]["slug"] if len(_act_order) < len(ACTS) else "?"
+    _act_order.append(slug)
+    stale_fix.fix(P, paras, slug, set())
+    return _build_act7(paras, *a, **k)
+
+
+P.build_act = B.build_act = build_act
+_inner_stale = B6.PB5B._write_part5
+
+
+def _inner2(*a) -> int:
+    B5.EXTRA_DECISIONS.extend(stale_fix.decisions())
+    return _inner_stale(*a)
+
+
+B6.PB5B._write_part5 = _inner2
+
 if __name__ == "__main__":
     sys.exit(P.main(sys.argv[1:]))

@@ -22,7 +22,7 @@ import parse_batch5 as B5  # noqa: E402  (configures batch 4 / batch 3 / parse_p
 
 B4, B, P = B5.B4, B5.B, B5.P
 PL = P.PL
-B5.OUT = FOLDER / "corpus.d" / "99-batch5b.json"
+B5.OUT = Path(os.environ.get("BATCH5B_OUT") or FOLDER / "corpus.d" / "99-batch5b.json")
 B5.STAGE = HERE / ".tmp" / "stage.json"
 P.RETRIEVED = "2026-10-29"
 
@@ -306,4 +306,21 @@ def write_part(*a) -> int:
 B5.write_part = B.write_part = P.write_part = write_part
 
 if __name__ == "__main__":
+    # stale-wording rules (../batch7/stale_fix.py), applied only when this part is written (not when imported)
+    sys.path.insert(0, str(FOLDER / "batch7"))
+    import stale_fix
+    _build_plain = P.build_act
+    _n: list[int] = []
+
+    def _build_act_stale(paras, *a, **k):
+        stale_fix.fix(P, paras, ACTS[len(_n)]["slug"] if len(_n) < len(ACTS) else "?", set())
+        _n.append(1)
+        return _build_plain(paras, *a, **k)
+    P.build_act = B.build_act = _build_act_stale
+    _inner_plain = _write_part5
+
+    def _inner_stale(*a) -> int:
+        B5.EXTRA_DECISIONS.extend(stale_fix.decisions())
+        return _inner_plain(*a)
+    _write_part5 = _inner_stale
     sys.exit(P.main(sys.argv[1:]))
