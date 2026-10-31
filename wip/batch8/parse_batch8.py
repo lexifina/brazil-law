@@ -194,6 +194,16 @@ P.NOTE_FIX.update({
         "§ 1º"),
 })
 P.VIGENCIA_FIXED.update({
+    # staged clauses whose first item names a fixed day for other provisions (found by batch12/.tmp vigência audit:
+    # the fixed-day fallback had dated every change by that day)
+    "lei-13097-2015": ("2015-01-20", "art. 168: 'Esta Lei entra em vigor: I - a partir de 1º de janeiro de 2015, em relação "
+                                     "ao art. 1º; II - [...] arts. 54 a 62; III - [...] arts. 14 a 39; IV - [...] arts. 99 a "
+                                     "105; e V - a partir da data de sua publicação, em relação aos demais artigos' (DOU "
+                                     "20.1.2015); its changes to Leis 8.080 (art. 142), 8.987 (arts. 149, 150), 11.079 (arts. "
+                                     "151, 152), 12.850 (art. 158) and 9.503 (art. 125) fall under V"),
+    "lei-14183-2021": ("2021-07-15", "art. 10: 'Esta Lei entra em vigor: I - em 1º de janeiro de 2025, quanto ao art. 9º; e II "
+                                     "- na data de sua publicação, quanto aos demais dispositivos' (DOU 15.7.2021); its art. 7 "
+                                     "(Lei 9.613 art. 9 parágrafo único VI) falls under II"),
     "lei-8078-1990": ("1991-03-11", "Código de Defesa do Consumidor art. 118: 'Este código entrará em vigor dentro de "
                                     "cento e oitenta dias a contar de sua publicação' (DOU 12.9.1990): 11.3.1991, as in this "
                                     "corpus' Código de Defesa do Consumidor"),

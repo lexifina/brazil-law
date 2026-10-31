@@ -296,6 +296,9 @@ def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
         m = FIXED_DAY.search(info["clause"])
         if m and m.group(2).lower() in P.MONTHS:
             d = f"{int(m.group(3)):04d}-{P.MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
+            if os.environ.get("VIG_AUDIT"):   # audit log only (batch12/.tmp/vigaudit): no effect on the output
+                with open(os.environ["VIG_AUDIT"], "a", encoding="utf-8") as _f:
+                    _f.write(key + "\t" + d + "\t" + " ".join(info["clause"].split())[:400] + "\n")
             return d, f"own clause names the day: '{m.group(0)}'"
     return d, why
 

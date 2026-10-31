@@ -340,12 +340,18 @@ P.VIGENCIA_FIXED.update({
                                    "publicação, quanto aos demais dispositivos' (DOU 28.12.2021); inciso I is printed "
                                    "struck (its conversion law, Lei 14.382/2022, did not keep it), so its changes to the "
                                    "Lei de Registros Públicos are dated 28.12.2021"),
+    "lei-14382-2022": ("2022-06-28", "art. 21: 'Esta Lei entra em vigor: I - em 1º de janeiro de 2024, quanto ao art. 11, na "
+                                     "parte em que altera o art. 130 da Lei nº 6.015, de 31 de dezembro de 1973 (Lei de "
+                                     "Registros Públicos); e II - na data de sua publicação, quanto aos demais dispositivos' "
+                                     "(DOU 28.6.2022); only its new wording of Lei 6.015 art. 130 is dated 1.1.2024"),
     "lei-9534-1997": ("1998-03-11", "'Esta Lei entra em vigor no prazo de noventa dias, contado da data de sua publicação' "
                                     "(DOU 11.12.1997): 11.3.1998"),
     "lei-6140-1974": ("1975-07-01", "art. 2: 'A presente Lei entrará em vigor a 1º de julho de 1975' (DOU 29.11.1974); "
                                     "before the Lei de Registros Públicos itself was in force, so its changes are part of "
                                     "the act's first day"),
 })
+P.VIGENCIA_PROVISION[("lei-14382-2022", _LRP, "art-130")] = (
+    "2024-01-01", "Lei 14.382/2022 art. 21 I: its art. 11's change to Lei 6.015 art. 130 in force on 1.1.2024")
 P.MP_LAPSE.update({
     "mp-922-2020": ("2020-06-30", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 72, de 2020 (DOU "
                                   "1.7.2020): 'teve seu prazo de vigência encerrado no dia 29 de junho de 2020'"),
