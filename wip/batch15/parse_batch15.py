@@ -94,7 +94,13 @@ def _note_events(p: dict, cx) -> None:
     """the start and end notes of a line with their days (as parse_proc.lifespans reads them; clt keeps them as
     _starts/_ends)"""
     starts, ends = [], []
+    # two notes fused in one parenthesis ('(Revogado pela Medida Provisória nº 905, de 2019 (Revogada pela Medida
+    # Provisória nº 955, de 2020))', Lei 8.213 art. 21 IV d)) are read as two
+    notes = []
     for n in p["notes"]:
+        inner = re.split(r"\s*\((?=Revogad|Reda|Inclu)", n.strip()[1:-1]) if n.count("(") > 1 else []
+        notes += [f"({x.strip(' )')})" for x in inner if x.strip()] if len(inner) > 1 else [n]
+    for n in notes:
         if _SKIPNOTE.match(n):
             continue
         law = P.law_key(n, cx.mp.get("_years"))
