@@ -39,6 +39,22 @@ PAGES.update({
     "l4320-compilado": "leis/l4320compilado.htm",
     "lfgts": "leis/l8036consol.htm",
     "lfgts-compilada": "leis/l8036compilada.htm",
+    # part d
+    "l9455": "leis/l9455.htm",
+    "l2889": "leis/l2889.htm",
+    "l13300": "_ato2015-2018/2016/lei/l13300.htm",
+    "l9507": "leis/l9507.htm",
+    # part e
+    "l6001": "leis/l6001.htm",
+    "l5764": "leis/l5764.htm",
+    "l8629": "leis/l8629.htm",
+    # part f
+    "l8629-compilado": "leis/l8629compilado.htm",
+    # part f
+    "l7998": "leis/l7998.htm",
+    "l7998-compilado": "leis/l7998compilado.htm",
+    "l13019": "_ato2011-2014/2014/lei/l13019.htm",
+    "l13019-compilado": "_ato2011-2014/2014/lei/l13019compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -46,12 +62,35 @@ for M in (B5, B6, B7, B8, B9, B10, B11, B12, B13, B14, B15):
     M.PAGES = PAGES
 
 _CBA, _L4320, _FGTS = "codigo-brasileiro-de-aeronautica", "lei-4320-de-1964", "lei-do-fgts"
+_act = B14._act
 ALL_ACTS: list[dict] = ([a for a in B14.ALL_ACTS if a["slug"] == _CBA]
-                        + [a for a in B13.ALL_ACTS if a["slug"] in (_L4320, _FGTS)])
+                        + [a for a in B13.ALL_ACTS if a["slug"] in (_L4320, _FGTS)] + [
+    _act("lei-de-tortura", "LTort", "l9455", "l9455", "lei-9455-1997",
+         "Lei de Tortura (Lei nº 9.455, de 7 de abril de 1997)", 2),
+    _act("lei-do-genocidio", "LGen", "l2889", "l2889", "lei-2889-1956",
+         "Crime de genocídio (Lei nº 2.889, de 1º de outubro de 1956)", 2),
+    _act("lei-do-mandado-de-injuncao", "LMI", "l13300", "l13300", "lei-13300-2016",
+         "Lei do Mandado de Injunção (Lei nº 13.300, de 23 de junho de 2016)", 2),
+    _act("lei-do-habeas-data", "LHD", "l9507", "l9507", "lei-9507-1997",
+         "Lei do Habeas Data (Lei nº 9.507, de 12 de novembro de 1997)", 2),
+    _act("estatuto-do-indio", "EInd", "l6001", "l6001", "lei-6001-1973",
+         "Estatuto do Índio (Lei nº 6.001, de 19 de dezembro de 1973)", 2),
+    _act("lei-das-cooperativas", "LCoop", "l5764", "l5764", "lei-5764-1971",
+         "Lei das Cooperativas (Lei nº 5.764, de 16 de dezembro de 1971)", 3),
+    _act("lei-da-reforma-agraria", "LRA", "l8629", "l8629-compilado", "lei-8629-1993",
+         "Lei da Reforma Agrária (Lei nº 8.629, de 25 de fevereiro de 1993)", 2),
+    _act("lei-do-seguro-desemprego", "LSD", "l7998", "l7998-compilado", "lei-7998-1990",
+         "Lei do Seguro-Desemprego e do FAT (Lei nº 7.998, de 11 de janeiro de 1990)", 2),
+    _act("marco-regulatorio-das-oscs", "MROSC", "l13019", "l13019-compilado", "lei-13019-2014",
+         "Marco Regulatório das Organizações da Sociedade Civil (Lei nº 13.019, de 31 de julho de 2014)", 2),
+])
 PARTS: dict[str, list[str]] = {
     "a": [_CBA],
     "b": [_FGTS],
     "c": [_L4320],
+    "d": ["lei-de-tortura", "lei-do-genocidio", "lei-do-mandado-de-injuncao", "lei-do-habeas-data"],
+    "e": ["estatuto-do-indio", "lei-das-cooperativas", "lei-da-reforma-agraria"],
+    "f": ["lei-do-seguro-desemprego", "marco-regulatorio-das-oscs"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH16_ACTS", "").split(",") if s] or VERIFIED
@@ -60,8 +99,25 @@ B.ACTS[:] = ACTS
 B5.ACTS = B6.ACTS = ACTS
 for M in (B7, B8, B9, B10, B11, B12, B13, B14, B15):
     M.ACTS[:] = ACTS
-ACT_DAY_ALL = {**B13.ACT_DAY_ALL, **B14.ACT_DAY_ALL}
-ACT_LAWS_ALL = {**B13.ACT_LAWS_ALL, **B14.ACT_LAWS_ALL}
+_PUB = "'Esta Lei entra em vigor na data de sua publicação'"
+_L = B._act_law
+ACT_DAY_ALL = {**B13.ACT_DAY_ALL, **B14.ACT_DAY_ALL,
+    "lei-9455-1997": ("1997-04-08", f"Lei 9.455/1997 art. 3: {_PUB} (DOU 8.4.1997)"),
+    "lei-2889-1956": ("1956-11-16", "Lei 2.889/1956 has no vigência clause: LINDB art. 1, 45 days after publication in the "
+                                    "DOU of 2.10.1956"),
+    "lei-13300-2016": ("2016-06-24", f"Lei 13.300/2016 art. 15: {_PUB} (DOU 24.6.2016)"),
+    "lei-9507-1997": ("1997-11-13", f"Lei 9.507/1997 art. 22: {_PUB} (DOU 13.11.1997)"),
+}
+ACT_LAWS_ALL = {**B13.ACT_LAWS_ALL, **B14.ACT_LAWS_ALL,
+    "lei-9455-1997": _L("Lei nº 9.455, de 1997", "Define os crimes de tortura e dá outras providências.", "1997-04-07",
+                        "1997-04-08", PAGES["l9455"]),
+    "lei-2889-1956": _L("Lei nº 2.889, de 1956", "Define e pune o crime de genocídio.", "1956-10-01", "1956-10-02",
+                        PAGES["l2889"]),
+    "lei-13300-2016": _L("Lei nº 13.300, de 2016", "Disciplina o processo e o julgamento dos mandados de injunção "
+                         "individual e coletivo e dá outras providências.", "2016-06-23", "2016-06-24", PAGES["l13300"]),
+    "lei-9507-1997": _L("Lei nº 9.507, de 1997", "Regula o direito de acesso a informações e disciplina o rito processual "
+                        "do habeas data.", "1997-11-12", "1997-11-13", PAGES["l9507"]),
+}
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
 B.ACT_LAWS.clear()
@@ -121,7 +177,7 @@ B.EXPLAINED[_CBA] = {
 
 # A dispositivo whose caput (or enclosing §) a Medida Provisória revoked as a whole: Planalto notes the MP's revocation on
 # that line only, and on its incisos, parágrafos and alíneas only the conversion law's revocation ('Revogado pela Lei nº
-# 14.368, de 2022'). They fall with the line above them on the MP's day (MP 1.089/2021 art. 5 IV m): 'os art. 73 a art. 76',
+# 14.368, de 2022'). They fall with the line above them on the MP's day (MP 1.089/2021 art. 4 IV m): 'os art. 73 a art. 76',
 # n) 'a Seção II do Capítulo V do Título III', u) 'os art. 116 e art. 117').
 CONV_CHILD_ACTS = {_CBA}
 CONV_CHILD_USED: list[str] = []
@@ -177,6 +233,8 @@ def apply_rewrites(paras, act, eff, problems):
     out = _apply_rewrites16(paras, act, eff, problems)
     if _CX[0] is not None and _CX[0].act == act["slug"]:
         conv_children(paras, _CX[0], record=False)
+    if act["slug"] == _L4320:
+        scheme_lines(paras)
     return out
 
 
@@ -305,6 +363,102 @@ P.MP_PENDING.update({
 })
 
 # ---------------------------------------------------------------------------------------------------------------
+# Lei 4.320/1964, part c: page fixes (paragraphs wrapper)
+#  - many articles (69 to 82, 99 to 113, ...) are printed 'Artigo 109.' at the start of their paragraph: read as 'Art. 109.'
+#  - '(Veto rejeitado no DOU, de 5.5.1964)' / '(Veto rejeitado no D.O. 05/05/1964)' after a line: the parts President
+#    Goulart vetoed and Congress kept, promulgated in the DOU of 5.5.1964, before the act's in-force day (7.5.1964): a note,
+#    taken out of the text; it dates nothing
+ARTIGO_FIXED: dict[str, int] = {}
+VETO_NOTES: dict[str, int] = {}
+_VETO = re.compile(r"\s*\(\s*Veto\s+rejeitado\s+no\s+(?:DOU|D\.\s*O\.)\s*,?\s*(?:de\s+)?(?:5\.5\.1964|05/05/1964)\s*\)\s*\.?", re.I)
+_paragraphs16 = P.paragraphs
+
+
+def paragraphs(html, digits):
+    page = B8.CURRENT_PAGE[0]
+    if page in ("l4320", "l4320-compilado"):
+        html, n = re.subn(r"(<p\b[^>]*>(?:\s|&nbsp;|<(?!/p)[^>]+>)*)Artigo\s+(\d+)", r"\1Art. \2", html, flags=re.I)
+        ARTIGO_FIXED[page] = n
+    out, rest = _paragraphs16(html, digits)
+    if page in ("l4320", "l4320-compilado"):
+        for p in out:
+            hits = 0
+            for f in ("text", "struck_text", "plain_text"):
+                if isinstance(p.get(f), str) and _VETO.search(p[f]):
+                    p[f], k = _VETO.subn("", p[f])
+                    p[f] = P.norm(p[f])
+                    hits = max(hits, k)
+            if hits:
+                p["notes"] = list(p["notes"]) + ["(Veto rejeitado no DOU de 5.5.1964)"]
+                VETO_NOTES[page] = VETO_NOTES.get(page, 0) + 1
+        # the classification schemes of arts. 11 to 13 (and later ones) are centred lines inside the article: they are
+        # lines of that article, not headings (a heading is a Título/Capítulo/Seção line or the name line after it)
+        cur = None
+        for p in out:
+            if p["heading"]:
+                if P.HEADING.match(p["text"]):
+                    cur = None
+                elif cur is not None:
+                    p.update({"heading": False, "unit": cur, "label": "", "center": False})
+                    TABLE_LINES[page] = TABLE_LINES.get(page, 0) + 1
+            elif p["unit"].startswith("art-"):
+                cur = p["unit"]
+    return out, rest
+
+
+B15.TEXT_FIX.append(("l4320", "para feito do disposto no artigo anterior", "para efeito do disposto no artigo anterior",
+                     "Lei 4.320 art. 49: the annotated page misprints 'para feito do disposto no artigo anterior'; the "
+                     "consolidated page reads 'para efeito'"))
+B15.TEXT_FIX.append(("l9455", "(sessenta) anos; '$", "(sessenta) anos;",
+                     "Lei 9.455 art. 1 § 4º II (Lei 10.741/2003): the page leaves a stray quotation mark after the line ('[...] "
+                     "maior de 60 (sessenta) anos; ''), the closing quote of the amending law's text"))
+B.EXPLAINED[_L4320] = {
+    "art-009": "the consolidated page drops the period before the veto note ('[...] por essas entidades (Veto rejeitado no "
+               "DOU, de 5.5.1964)'); the annotated page prints it",
+    "art-033": "the consolidated page drops a comma ('nesse ponto a inexatidão'); the annotated page prints 'nesse ponto, a "
+               "inexatidão'",
+    "art-057": "the consolidated page prints 'artigo 3. desta lei'; the annotated page 'artigo 3º'",
+    "art-064": "the consolidated page drops the period before the veto note ('serviços de contabilidade (Veto rejeitado "
+               "[...])')",
+    "art-069": "the consolidated page misprints 'responsável por dois adiantamento.'; the annotated page reads "
+               "'adiantamentos'",
+    "art-082": "capitalisation: the annotated page prints 'Leis orgânicas dos Municípios' in art. 82, the consolidated page "
+               "'Leis Orgânicas'",
+    "art-101": "the annotated page lists the annexes as 'números 1, 6 - 7 - 8 - 9 - 10 - 11 - 16 e 17', the consolidated page "
+               "with commas",
+    "art-106": "the annotated page numbers the incisos 'I)', 'II)', 'III)' as enacted, the consolidated page 'I -'",
+    "art-108": "as art. 106: 'II)' on the annotated page, 'II -' on the consolidated page",
+    "art-111": "the consolidated page drops the ordinal sign ('§ 2 O quadro'); the annotated page prints '§ 2º'",
+    "titulos": "the consolidated page misprints a heading ('Da Proposta Orcamentária'); the annotated page reads 'Orçamentária'",
+}
+B13.OPEN_ITEMS[_L4320] = (
+    "Lei 4.320 (open items): its annexes (the model statements, Anexos 1 to 17) are not part of the history; art. 114's "
+    "counting of the act's effects (budgets from 1.1.1964, the other activities from 1.1.1965, Lei 4.489/1964) is "
+    "retroactive for budgets and is not modelled as a later effect day: the act is dated by its in-force day; the "
+    "sub-division names 'I) Das Subvenções Sociais' and 'II) Das Subvenções Econômicas' are kept as marginal headings of "
+    "arts. 16 and 18")
+TABLE_LINES: dict[str, int] = {}
+TABLE_DATED: list[str] = []
+
+
+def scheme_lines(paras):
+    """Lei 4.320: a struck line of a classification scheme (no label, no note) stands as long as the labelled struck line
+    above it in the same article (art. 11 § 4º's 1964 scheme, replaced by Decreto-Lei 1.939/1982)"""
+    for i, p in enumerate(paras):
+        if p["heading"] or p["label"] or p["state"] == "plain" or p["notes"] or not p["unit"].startswith("art-"):
+            continue
+        q = next((q for q in reversed(paras[:i]) if q["unit"] == p["unit"] and q["label"] and not q["heading"]), None)
+        if q is None or q["state"] == "plain" or not q.get("end"):
+            continue
+        if (p["start"], p.get("end"), p.get("skip")) != (q["start"], q["end"], False):
+            p.update({"start": q["start"], "start_law": q["start_law"], "end": q["end"], "end_law": q["end_law"],
+                      "end_how": "parent", "skip": False, "gaps": list(q.get("gaps") or [])})
+            TABLE_DATED.append(f"{p['unit']} '{p['text'][:30]}'")
+
+
+P.paragraphs = B.paragraphs = paragraphs
+
+# ---------------------------------------------------------------------------------------------------------------
 _inner16 = B6.PB5B._write_part5
 
 
@@ -312,10 +466,27 @@ def _inner(*a):
     dec = list(EXTRA)
     if CONV_CHILD_USED:
         dec.append("Código Brasileiro de Aeronáutica: where Medida Provisória 1.089/2021 revoked whole articles or sections (its "
-                   "art. 5 IV: 'os art. 73 a art. 76', 'a Seção II do Capítulo V do Título III', 'os art. 116 e art. 117', "
+                   "art. 4 IV: 'os art. 73 a art. 76', 'a Seção II do Capítulo V do Título III', 'os art. 116 e art. 117', "
                    "...), Planalto notes the MP's revocation on the caput only and on the lines under it only the revocation "
                    "by Lei 14.368/2022, its conversion; those lines fall with the caput on the MP's day (30.12.2021): "
                    + ", ".join(dict.fromkeys(CONV_CHILD_USED)) + ".")
+    if ARTIGO_FIXED.get("l4320"):
+        dec.append("Lei 4.320: Planalto's pages print many articles with the label 'Artigo 69.', 'Artigo 109.' ... at the start "
+                   "of their paragraph; they are read as 'Art. 69.' etc. (" + ", ".join(
+                       f"{k} {v}" for k, v in sorted(ARTIGO_FIXED.items())) + " paragraphs).")
+    if VETO_NOTES.get("l4320"):
+        dec.append("Lei 4.320: lines followed by '(Veto rejeitado no DOU, de 5.5.1964)' or '(Veto rejeitado no D.O. 05/05/1964)' "
+                   f"({VETO_NOTES['l4320']} on the annotated page) are the parts President Goulart vetoed and Congress kept "
+                   "promulgated in the DOU of 5.5.1964, before the act's in-force day (7.5.1964): the "
+                   "words are a note, taken out of the text, and those parts are in force with the act, as promulgated parts "
+                   "of other acts in this corpus are dated by their promulgation.")
+    if TABLE_LINES.get("l4320"):
+        dec.append("Lei 4.320: the classification schemes inside arts. 11 to 13 (and other articles) are centred lines on "
+                   "Planalto's pages; they are lines of the article they are printed in, not headings (only Título, "
+                   "Capítulo, Seção and Subseção lines and the name line after them are headings): "
+                   + ", ".join(f"{k} {v}" for k, v in sorted(TABLE_LINES.items())) + " lines. The 1964 scheme of art. 11 "
+                   "§ 4º (struck, no note) stands as long as § 4º itself, to Decreto-Lei 1.939/1982" +
+                   (f" ({len(TABLE_DATED)} lines)" if TABLE_DATED else "") + ".")
     B5.EXTRA_DECISIONS.extend(dec)
     return _inner16(*a)
 

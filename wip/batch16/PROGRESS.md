@@ -52,8 +52,27 @@ Lei do FGTS (Lei 8.036/1990), 51 versions 1990-05-14 .. 2026-08-07 (page l8036co
 - OPEN_ITEMS: MP editions before 2001, MP 1.107/Lei 14.438 effects tied to an event (in-force day kept), Anexo, Vide.
 - Part sha fc492539 (pre-effects ef51c20b); merged 116 acts, 2335 versions, 1909 commits, check 0/0, compare identical,
   audit clean. README row + jurisdiction.json (116 acts).
-- Note: a fresh parse of part a now differs from the installed 99-batch16a only in sources[0].requests (the pin file
-  grew by one Ato); left as published (batch 13 precedent).
+- (Checked later: fresh parses of a and b reproduce them; sources are unchanged by the new pins.)
+
+## 99-batch16a re-PUBLISHed ~16:10 local
+Decision text fix only (MP 1.089's revocations are its art. 4 IV, not art. 5 IV); acts/laws byte-identical; sha 1c3e6818
+(pre-effects b600c1c7). Line appended to 99-batch16a.PUBLISH.
+
+## 99-batch16c - PUBLISHed 2026-10-31 ~16:10 local
+Lei 4.320/1964, 6 versions 1964-05-07 .. 2024-07-03 (l4320.htm vs l4320compilado.htm; 11 diffs explained).
+- paragraphs wrapper (l4320 pages): 'Artigo NN.' at paragraph start -> 'Art. NN.' (the trial folded arts. 69-82 and 99-113
+  into arts. 68/98 and missed 109-113); '(Veto rejeitado no DOU, de 5.5.1964)' / '(... D.O. 05/05/1964)' moved to notes
+  (promulgated before the in-force day: no dating effect); centred scheme lines inside an article (arts. 11-13) moved from
+  titulos into the article (TABLE_LINES); scheme_lines() in apply_rewrites dates the struck 1964 art. 11 § 4º scheme with
+  § 4º (the trial's 19 undated lines).
+- TEXT_FIX art. 49 'para feito' -> 'para efeito'. EXPLAINED 11 units. OPEN_ITEMS: annexes, art. 114, the two 'I)/II) Das
+  Subvenções' sub-division names kept as rubricas of arts. 16/18 (firstline flags these 2 only).
+- effects_fix MOVES "99-batch16c.json": DL 1.939/1982 (in force 5.7.1982, LINDB) -> 1.1.1983 (art. 2: applied to budgets
+  and balance sheets from the 1983 financial year). Judgement call: read as a fixed effect day, not an event.
+- Part sha 34c3deae (pre-effects 95d1cb26); merged 117 acts, 2341 versions, 1914 commits, check 0/0, compare identical,
+  audit clean. README row + jurisdiction.json (117 acts).
 
 ## Next
-Lei 4.320/1964 (lei-4320-de-1964: veto-override notes, arts. 109-113, struck lines); then batch13/14 candidates.
+Batch 13/14 candidate lists are used up except acts not yet configured. Candidates (not configured, pages not pinned):
+Lei 6.015/1973 done (Registros Públicos); still missing e.g. Lei 9.279 done... check corpus.d before choosing:
+Lei 8.884/1994 (repealed), Lei 10.406 (CC, done), Lei 6.830 (done). Pick from major federal acts not in corpus.d.

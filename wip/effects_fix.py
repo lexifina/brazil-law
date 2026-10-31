@@ -301,6 +301,12 @@ MOVES: dict[str, list] = {
          "c) ao art. 64 desta Lei' (its art. 64 revokes art. 17 § 6º; DOU 25.10.2013): those dispositivos (with the item "
          "before each new item, which takes its '; e') and the revocation from 1.1.2014"),
     ],
+    "99-batch16c.json": [
+        ("lei-4320-de-1964", "dl-1939-1982", "1982-07-05", [(ALL, "1983-01-01")],
+         "Decreto-Lei 1.939/1982 art. 2: 'As disposições deste Decreto-lei serão aplicadas aos Orçamentos e Balanços a partir "
+         "do exercício, de 1983, inclusive' (DOU 21.5.1982; no vigência clause, in force 5.7.1982 under LINDB art. 1): its new "
+         "classification of revenue in art. 11 applies from the 1983 financial year, 1.1.1983"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,

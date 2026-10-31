@@ -21,6 +21,116 @@
     "offset": "810405984",
     "length": "2364"
    }
+  },
+  {
+   "id": "l13019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13019.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261017220439",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170350306.98/warc/CC-MAIN-20261017202842-20261017232842-00041.warc.gz",
+    "offset": "41840058",
+    "length": "47029"
+   }
+  },
+  {
+   "id": "l13300",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261016020857",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170344220.79/warc/CC-MAIN-20261016012506-20261016042506-00474.warc.gz",
+    "offset": "50796745",
+    "length": "6335"
+   }
+  },
+  {
+   "id": "l2889",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261012022938",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054662.4/warc/CC-MAIN-20261012021225-20261012051225-00663.warc.gz",
+    "offset": "50725943",
+    "length": "3427"
+   }
+  },
+  {
+   "id": "l5764",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261013222551",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054911.64/warc/CC-MAIN-20261013211541-20261014001541-00288.warc.gz",
+    "offset": "375057812",
+    "length": "28147"
+   }
+  },
+  {
+   "id": "l6001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261010045449",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054432.19/warc/CC-MAIN-20261010041422-20261010071422-00916.warc.gz",
+    "offset": "10526102",
+    "length": "13425"
+   }
+  },
+  {
+   "id": "l7998",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7998.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261008082049",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054275.57/warc/CC-MAIN-20261008061152-20261008091152-00400.warc.gz",
+    "offset": "780097237",
+    "length": "18896"
+   }
+  },
+  {
+   "id": "l8629",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261014220514",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170055358.49/warc/CC-MAIN-20261014215206-20261015005206-00804.warc.gz",
+    "offset": "767121537",
+    "length": "28122"
+   }
+  },
+  {
+   "id": "l9455",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261012212522",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054684.45/warc/CC-MAIN-20261012204527-20261012234527-00146.warc.gz",
+    "offset": "851539308",
+    "length": "4008"
+   }
+  },
+  {
+   "id": "l9507",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261017184543",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170350233.72/warc/CC-MAIN-20261017172509-20261017202509-00123.warc.gz",
+    "offset": "34389772",
+    "length": "5477"
+   }
+  },
+  {
+   "id": "law:lei-7960-1989",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L7960.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261012150145",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054673.9/warc/CC-MAIN-20261012143428-20261012173428-00436.warc.gz",
+    "offset": "46109864",
+    "length": "5069"
+   }
   }
  ]
 }

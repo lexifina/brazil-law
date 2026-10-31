@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 16: 99-batch16a CBA, 99-batch16b FGTS PUBLISHed; Lei 4.320 next)
+CHECKPOINTED 2026-10-31 (batch 16: 99-batch16a CBA, 16b FGTS, 16c Lei 4.320 PUBLISHed)
 
 # gitlaw-BR progress (Brazil)
 
@@ -165,3 +165,4 @@ Effect-day rule applied 2026-10-31 (coordinator): changes whose act fixes a late
 Batch 15 (2026-10-31): 99-batch15a (Lei 8.212/1991, 114 versions) and 99-batch15b (Lei 8.213/1991, 95 versions) PUBLISHed: MP 905/955 sequence ported from the CLT parser (mp_pairs in parse_batch15.py), 1998 footnote markers dropped, headings/tables/22A-25A layout fixed, 1991 text of five 8.212 articles read from L8212orig.htm, Senate resolutions 26/2005, 10/2016, 15/2017, effect days via effects_fix.py (new MOVES for both parts; 18 unit-moves). Merged 114 acts, 2265 versions, 1861 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (114 acts). Open: MP 871/2019 art. 74 § 3º wording (not printed), Vide ADI pointers. Details and judgement calls: batch15/PROGRESS.md. Next: CBA 7.565 (264 problems), FGTS, Lei 4.320.
 Batch 16 (2026-10-31): 99-batch16a PUBLISHed: Código Brasileiro de Aeronáutica (Lei 7.565/1986, 19 versions; MP 1.089/2021 -> Lei 14.368/2022 conversion-child rule, MP 714/2016 vetoed changes, MP 1.240/2024 lapse); merged 115 acts, 2284 versions, 1876 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (115 acts). Details: batch16/PROGRESS.md.
 99-batch16b PUBLISHed: Lei do FGTS (Lei 8.036/1990, 51 versions; MP 905/955 model, Lei 13.932/2019 staged clauses by provision, MP 2.216-37 art. 3 wording, MP 1.336/2026 lapse); merged 116 acts, 2335 versions, 1909 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (116 acts).
+99-batch16c PUBLISHed: Lei 4.320/1964 (6 versions; 'Artigo NN.' labels, veto-override notes, scheme lines, DL 1.939/1982 effect day 1.1.1983 via a new effects_fix MOVES entry); 99-batch16a re-PUBLISHed (decision text fix). Merged 117 acts, 2341 versions, 1914 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (117 acts).
