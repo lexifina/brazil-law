@@ -145,3 +145,6 @@ Later 10-31: quotation-state fix in the shared parsers (proc, phase2, clt, codes
 Batch 11 (2026-10-31): 99-batch11 PUBLISHed: LEF, Lei 12.529 (CADE), EOAB, Lei 9.868, Lei 9.882, Lei 8.137, Lei 9.296, Lei 8.009, Lei 4.717, Lei 7.492 (55 versions); merged 72 acts, 1692 versions, check 0/0, --compare identical. Lei 9.656, 6.385, 6.766, 8.742 configured, deferred. Details: batch11/PROGRESS.md.
 Batch 12 (2026-10-31): 99-batch12 PUBLISHed: Lei 6.766, LOAS 8.742, Lei 6.385 (with Decreto 3.995/2001 as a decree law), 72 versions. Lei 9.656 NOT built (MP 1.665->2.177-44 chain wordings not on Planalto; ADI 1.931 dates). Staged-clause misdating fixed in 99-batch8/9/10 (Leis 13.097, 14.183, 14.382). Merged 75 acts, 1765 versions, check 0/0, --compare identical. Details: batch12/PROGRESS.md.
 Batch 12 update: Lei 9.656 added to 99-batch12 from 27.8.2001 (oldest version available; MP 1.665 chain not modelled; ADI 1.931 open item). Merged 76 acts, 1781 versions, check 0/0, --compare identical.
+Batch 13 (2026-10-31): small parts 99-batch13a, b, ... (2-4 acts each). 99-batch13a PUBLISHed: Lei das Contravenções
+Penais, Lei 1.079/1950, Lei 7.716/1989 (24 versions); merged 79 acts, 1805 versions, check 0/0, --compare identical.
+Details: batch13/PROGRESS.md.

@@ -35,6 +35,11 @@ PAGES = {
     "lcr": "leis/l1079.htm",
     "lrac": "leis/l7716.htm",
     "lrac-compilado": "leis/l7716compilado.htm",
+    # 13b
+    "lgreve": "leis/l7783.htm",
+    "lcp150": "leis/lcp/lcp150.htm",
+    "ltemp": "leis/l6019.htm",
+    "ltemp-compilado": "leis/l6019compilado.htm",
 }
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -53,9 +58,16 @@ ALL_ACTS: list[dict] = [
          "Lei dos Crimes de Responsabilidade (Lei nº 1.079, de 10 de abril de 1950)", 2),
     _act("lei-do-crime-racial", "LCRac", "lrac", "lrac-compilado", "lei-7716-1989",
          "Crimes resultantes de preconceito de raça ou de cor (Lei nº 7.716, de 5 de janeiro de 1989)", 2),
+    _act("lei-de-greve", "LG", "lgreve", "lgreve", "lei-7783-1989",
+         "Lei de Greve (Lei nº 7.783, de 28 de junho de 1989)", 2),
+    _act("lei-do-trabalho-domestico", "LCTD", "lcp150", "lcp150", "lc-150-2015",
+         "Lei do Trabalho Doméstico (Lei Complementar nº 150, de 1º de junho de 2015)", 2),
+    _act("lei-do-trabalho-temporario", "LTT", "ltemp", "ltemp-compilado", "lei-6019-1974",
+         "Lei do Trabalho Temporário e da Terceirização (Lei nº 6.019, de 3 de janeiro de 1974)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-das-contravencoes-penais", "lei-dos-crimes-de-responsabilidade", "lei-do-crime-racial"],
+    "b": ["lei-de-greve", "lei-do-trabalho-domestico", "lei-do-trabalho-temporario"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH13_ACTS", "").split(",") if s] or VERIFIED
@@ -71,6 +83,11 @@ ACT_DAY_ALL: dict[str, tuple[str, str]] = {
     "lei-1079-1950": ("1950-05-27", "Lei 1.079/1950 has no vigência clause (its last article, art. 82, sets the time limit "
                                     "for the trial): LINDB art. 1, 45 days after publication in the DOU of 12.4.1950"),
     "lei-7716-1989": ("1989-01-06", f"Lei 7.716/1989 art. 21: {_PUB} (DOU 6.1.1989)"),
+    "lei-7783-1989": ("1989-06-29", f"Lei 7.783/1989 art. 19: {_PUB} (DOU 29.6.1989)"),
+    "lc-150-2015": ("2015-06-02", f"Lei Complementar 150/2015 art. 47: 'Esta Lei entra em vigor na data de sua publicação' "
+                                  "(DOU 2.6.2015)"),
+    "lei-6019-1974": ("1974-03-05", "Lei 6.019/1974 art. 20: 'Esta Lei entrará em vigor sessenta dias após sua publicação' "
+                                    "(DOU 4.1.1974): 4.1.1974 + 60 days"),
 }
 _L = B._act_law
 ACT_LAWS_ALL: dict[str, dict] = {
@@ -80,6 +97,16 @@ ACT_LAWS_ALL: dict[str, dict] = {
                         "julgamento.", "1950-04-10", "1950-04-12", PAGES["lcr"]),
     "lei-7716-1989": _L("Lei nº 7.716, de 1989", "Define os crimes resultantes de preconceito de raça ou de cor.",
                         "1989-01-05", "1989-01-06", PAGES["lrac"]),
+    "lei-7783-1989": _L("Lei nº 7.783, de 1989", "Dispõe sobre o exercício do direito de greve, define as atividades "
+                        "essenciais, regula o atendimento das necessidades inadiáveis da comunidade, e dá outras providências.",
+                        "1989-06-28", "1989-06-29", PAGES["lgreve"]),
+    "lc-150-2015": _L("Lei Complementar nº 150, de 2015", "Dispõe sobre o contrato de trabalho doméstico; altera as Leis nº "
+                      "8.212, de 24 de julho de 1991, nº 8.213, de 24 de julho de 1991, e nº 11.196, de 21 de novembro de 2005; "
+                      "revoga o inciso I do art. 3º da Lei nº 8.009, de 29 de março de 1990, o art. 36 da Lei nº 8.213, de 24 de "
+                      "julho de 1991, a Lei nº 5.859, de 11 de dezembro de 1972, e o inciso VII do art. 12 da Lei nº 9.250, de 26 "
+                      "de dezembro 1995; e dá outras providências.", "2015-06-01", "2015-06-02", PAGES["lcp150"]),
+    "lei-6019-1974": _L("Lei nº 6.019, de 1974", "Dispõe sobre o Trabalho Temporário nas Empresas Urbanas, e dá outras "
+                        "Providências.", "1974-01-03", "1974-01-04", PAGES["ltemp"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -101,6 +128,12 @@ P.VIGENCIA_FIXED.update({
     "dl-6916-1944": ("1944-10-02", "artigo único: art. 46 of the Lei das Contravenções Penais 'passa a vigorar, a partir da "
                                    "publicação da presente lei, com a seguinte redação' (DOU 2.10.1944)"),
 })
+
+# Lei de Greve art. 10 X: Medida Provisória nº 866/2018 (NAV Brasil) gave it a new wording; MP 883/2019 revoked MP 866 and
+# lapsed; MP 866 was converted into Lei 13.903/2019
+P.MP_LAPSE["mp-883-2019"] = ("2019-09-19", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 58, de 2019 (DOU "
+                                           "20.9.2019): MP 883 'teve seu prazo de vigência encerrado no dia 18 de setembro do "
+                                           "corrente ano'")
 
 # court and other open items named in decisions (Planalto's 'Vide' notes are dropped from the text, so nothing is modelled)
 OPEN_ITEMS = {
