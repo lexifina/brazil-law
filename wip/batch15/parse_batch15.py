@@ -312,6 +312,88 @@ def paragraphs(html, digits):
 
 P.paragraphs = B.paragraphs = paragraphs
 
+# ---------------------------------------------------------------------------------------------------------------
+# hand-set life spans (B8.SPAN_FIX: (act, unit, label, text start, n-th such line) -> fields, why)
+_MP258_GAP = ("2005-08-15", "2005-11-19", "mp-258-2005", "mp-258-2005-fim")
+_W26 = ("Lei 8.212 art. 26: Planalto prints the 1992 wording (Lei 8.436/1992) of the caput and §§ 1º-3º, then Medida "
+        "Provisória 841/2018's wording (lapsed 23.10.2018), then the 1992 wording again (in force again from 24.10.2018 to "
+        "Lei 13.756/2018, 13.12.2018); the second copy of §§ 1º-3º starts on 24.10.2018, like the caput's")
+_W39 = ("Lei 8.212 art. 39 caput: Lei 8.620/1993's wording ends when Lei 11.098/2005's starts (14.1.2005, see its in-force "
+        "day); Medida Provisória 258/2005 replaced that wording from 15.8.2005 until it lapsed (18.11.2005), so Lei "
+        "11.098's wording stands from 14.1.2005 to Lei 11.457/2007 (2.5.2007) except from 15.8.2005 to 18.11.2005 "
+        "(Planalto prints MP 258's wording above Lei 11.098's)")
+_W44 = ("Lei 8.212 art. 44: Planalto prints the 1991 wording, Medida Provisória 258/2005's wording (lapsed 18.11.2005), "
+        "the 1991 wording again and Lei 8.620/1993's wording (revoked by Lei 11.501/2007). The wording in force when MP 258 "
+        "came and again after its lapse was Lei 8.620's, so it stands from 6.1.1993 to 12.7.2007 except from 15.8.2005 to "
+        "18.11.2005, and the second copy of the 1991 wording (a reprint, no note) is left out")
+_W50 = ("Lei 8.212 art. 50 caput: Planalto prints Lei 9.476/1997's wording struck (replaced by Medida Provisória 449/2008, "
+        "4.12.2008), then MP 449's caput and §§ 1º-2º, then the 1991 wording, Lei 8.620/1993's, and Lei 9.476's wording "
+        "again unstruck: Lei 11.941/2009, MP 449's conversion, did not take up MP 449's art. 50, so Lei 9.476's wording is "
+        "in force again from 28.5.2009. Spans: 1991 wording 25.7.1991-6.1.1993; Lei 8.620's 6.1.1993-23.7.1997; Lei "
+        "9.476's 23.7.1997-4.12.2008 and from 28.5.2009 (credited to Lei 11.941)")
+_W32A = ("Lei 8.212 art. 32-A § 3º II (Lei 11.941/2009): Planalto strikes only the dash after the label ('II – R$ 500,00 "
+         "...'), which made the line read as partly struck and undated; it is the inciso in force from 28.5.2009")
+_C = "lei-de-custeio-da-seguridade-social"
+B8.SPAN_FIX += [
+    *[((_C, "art-026", lab, pre, 1), {"start": "2018-10-24", "start_law": "mp-841-2018-fim", "restored": True}, _W26)
+      for lab, pre in [("§ 1º", "§ 1º Consideram-se concursos"), ("§ 2º", "§ 2º Para efeito do disposto"),
+                       ("§ 3º", "§ 3º Durante a vigência dos contratos")]],
+    ((_C, "art-039", "Art. 39", "Art. 39. O débito original atualizado monetariamente, a multa variável e os juros de mora "
+                                "incidentes sobre o mesmo", 0),
+     {"end": "2005-01-14", "end_law": "lei-11098-2005", "end_how": "successor"}, _W39),
+    ((_C, "art-039", "Art. 39", "Art. 39. O débito original atualizado monetariamente, a multa variável e os juros de mora "
+                                "sobre ele incidentes", 0),
+     {"start": "2005-01-14", "start_law": "lei-11098-2005", "restored": False, "end": "2007-05-02",
+      "end_law": "lei-11457-2007", "end_how": "successor", "gaps": [_MP258_GAP]}, _W39),
+    ((_C, "art-044", "Art. 44", "Art. 44. A autoridade judiciária exigirá a comprovação", 0),
+     {"end": "1993-01-06", "end_law": "lei-8620-1993", "end_how": "successor"}, _W44),
+    ((_C, "art-044", "Art. 44", "Art. 44. A autoridade judiciária exigirá a comprovação", 1),
+     {"skip": True, "end_how": "duplicate"}, _W44),
+    ((_C, "art-044", "Art. 44", "Art. 44. A autoridade judiciária velará pelo fiel cumprimento", 0),
+     {"start": "1993-01-06", "start_law": "lei-8620-1993", "end": "2007-07-12", "end_law": "lei-11501-2007",
+      "end_how": "note", "gaps": [_MP258_GAP]}, _W44),
+    ((_C, "art-050", "Art. 50", "Art. 50. Para fins de fiscalização do INSS", 0),
+     {"start": "1997-07-23", "start_law": "lei-9476-1997", "end": "2008-12-04", "end_law": "mp-449-2008",
+      "end_how": "successor"}, _W50),
+    ((_C, "art-050", "Art. 50", "Art. 50. É obrigatória a apresentação", 0),
+     {"start": "1991-07-25", "start_law": None, "end": "1993-01-06", "end_law": "lei-8620-1993", "end_how": "successor",
+      "restored": False}, _W50),
+    ((_C, "art-050", "Art. 50", "Art. 50. É obrigatória a apresentação", 1),
+     {"start": "1993-01-06", "start_law": "lei-8620-1993", "end": "1997-07-23", "end_law": "lei-9476-1997",
+      "end_how": "successor"}, _W50),
+    ((_C, "art-050", "Art. 50", "Art. 50. Para fins de fiscalização do INSS", 1),
+     {"start": "2009-05-28", "start_law": "lei-11941-2009", "restored": True}, _W50),
+    ((_C, "art-032-a", "II -", "II - R$ 500,00", 0),
+     {"start": "2009-05-28", "start_law": "lei-11941-2009", "end": None, "end_law": None, "end_how": None, "skip": False,
+      "state": "plain"}, _W32A),
+]
+# heading lines (B8.SPAN_FIX leaves headings alone): act -> [(text, fields, why)]
+HEAD_FIX: dict[str, list] = {
+    _C: [(t, {"end_law": "lei-8398-1992", "end_how": "successor", "skip": False},
+          "Lei 8.212 Capítulo VI heading: the 1991 heading 'CAPÍTULO VI / Da Contribuição do Produtor Rural, do Pescador e "
+          "do Garimpeiro' (struck, no note) ends when Lei 8.398/1992's heading ('Da Contribuição do Produtor Rural e do "
+          "Pescador', printed below it with its note) starts")
+         for t in ("CAPÍTULO VI", "Da Contribuição do Produtor Rural, do Pescador e do Garimpeiro")],
+}
+SPAN15_USED: list[str] = []
+_lifespans15 = P.lifespans
+
+
+def lifespans(paras, cx):
+    problems = _lifespans15(paras, cx)
+    for text, fields, why in HEAD_FIX.get(cx.act, []):
+        for p in paras:
+            if p["heading"] and p["state"] != "plain" and p["text"] == text and p.get("end_how") == "undated":
+                p.update(fields)
+                if fields.get("end_law") and not fields.get("end"):
+                    p["end"] = cx.eff[fields["end_law"]]
+                p["pinned"] = True
+                SPAN15_USED.append(why)
+    return problems
+
+
+P.lifespans = B.lifespans = lifespans
+
 EXTRA: list[str] = []
 _inner15 = B6.PB5B._write_part5
 
