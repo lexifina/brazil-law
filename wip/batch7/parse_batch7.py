@@ -87,8 +87,73 @@ B6.ACTS = ACTS
 
 # In-force days of the acts, from each act's own closing clause and the DOU day Planalto prints under it (LC 95/1998 art.
 # 8 § 1 counting from 26.4.2001; Lei 810/1949 before that)
-ACT_DAY_ALL: dict[str, tuple[str, str]] = {}
-ACT_LAWS_ALL: dict[str, dict] = {}
+ACT_DAY_ALL: dict[str, tuple[str, str]] = {
+    "lei-10257-2001": ("2001-10-09", "Lei 10.257/2001 art. 58: 'Esta Lei entra em vigor após decorridos noventa dias de sua "
+                                     "publicação' (DOU 11.7.2001): the 90th day counted from publication is 8.10.2001 (LC "
+                                     "95/1998 art. 8 § 1). The retificação in the DOU of 17.7.2001 corrects only the "
+                                     "signatures ('Na página 5, 1ª coluna, nas assinaturas, leia-se: ...', as the Chamber of "
+                                     "Deputies' record of the law gives it), so it does not restart the period (LINDB art. 1 "
+                                     "§ 3)"),
+    "lei-10741-2003": ("2004-01-01", "Lei 10.741/2003 art. 118: 'Esta Lei entra em vigor decorridos 90 (noventa) dias da sua "
+                                     "publicação, ressalvado o disposto no caput do art. 36, que vigorará a partir de 1º de "
+                                     "janeiro de 2004' (DOU 3.10.2003): the 90th day counted from publication is 31.12.2003 "
+                                     "(LC 95/1998 art. 8 § 1), so the whole law, art. 36 included, is in force from 1.1.2004"),
+    "lei-7210-1984": ("1985-01-13", "Lei 7.210/1984 art. 204: 'Esta Lei entra em vigor concomitantemente com a lei de reforma "
+                                    "da Parte Geral do Código Penal', Lei 7.209/1984 (DOU 13.7.1984), whose art. 5 puts it in "
+                                    "force six months after publication, on 13.1.1985 (as in this corpus' Código Penal)"),
+    "lei-6404-1976": ("1977-02-15", "Lei 6.404/1976 art. 300: 'A presente Lei entrará em vigor 60 (sessenta) dias após a sua "
+                                    "publicação, aplicando-se, todavia, a partir da data da publicação, às companhias que se "
+                                    "constituírem' (DOU 17.12.1976): in force 60 days after publication, on 15.2.1977; for "
+                                    "companies formed from 17.12.1976 it applied from publication"),
+    "lc-182-2021": ("2021-08-31", "Lei Complementar 182/2021 art. 18: 'Esta Lei Complementar entra em vigor após decorridos 90 "
+                                  "(noventa) dias de sua publicação oficial' (DOU 2.6.2021): the 90th day counted from "
+                                  "publication is 30.8.2021 (LC 95/1998 art. 8 § 1). The retificação in the DOU of 4.6.2021 "
+                                  "corrects only the signatures, as the Chamber of Deputies' record of the law gives it"),
+    "lei-11340-2006": ("2006-09-22", "Lei 11.340/2006 art. 46: 'Esta Lei entra em vigor 45 (quarenta e cinco) dias após sua "
+                                     "publicação' (DOU 8.8.2006): the 45th day counted from publication is 21.9.2006 (LC "
+                                     "95/1998 art. 8 § 1)"),
+    "lei-10826-2003": ("2003-12-23", "Lei 10.826/2003 art. 37: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
+                                     "23.12.2003)"),
+    "lc-101-2000": ("2000-05-05", "Lei Complementar 101/2000 art. 75: 'Esta Lei Complementar entra em vigor na data da sua "
+                                  "publicação' (DOU 5.5.2000)"),
+    "lei-12016-2009": ("2009-08-10", "Lei 12.016/2009 art. 29: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
+                                     "10.8.2009)"),
+    "lei-9613-1998": ("1998-03-04", "Lei 9.613/1998 art. 18: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
+                                    "4.3.1998)"),
+}
+ACT_LAWS_ALL: dict[str, dict] = {
+    "lei-10257-2001": B._act_law("Lei nº 10.257, de 2001", "Regulamenta os arts. 182 e 183 da Constituição Federal, "
+                                 "estabelece diretrizes gerais da política urbana e dá outras providências.", "2001-07-10",
+                                 "2001-07-11", PAGES["ecid"]),
+    "lei-10741-2003": B._act_law("Lei nº 10.741, de 2003", "Dispõe sobre o Estatuto do Idoso e dá outras providências.",
+                                 "2003-10-01", "2003-10-03", PAGES["eido"]),
+    "lei-7210-1984": B._act_law("Lei nº 7.210, de 1984", "Institui a Lei de Execução Penal.", "1984-07-11", "1984-07-13",
+                                PAGES["lep"]),
+    "lei-6404-1976": B._act_law("Lei nº 6.404, de 1976", "Dispõe sobre as Sociedades por Ações.", "1976-12-15",
+                                "1976-12-17", PAGES["lsa"]),
+    "lc-182-2021": B._act_law("Lei Complementar nº 182, de 2021", "Institui o marco legal das startups e do empreendedorismo "
+                              "inovador; e altera a Lei nº 6.404, de 15 de dezembro de 1976, e a Lei Complementar nº 123, "
+                              "de 14 de dezembro de 2006.", "2021-06-01", "2021-06-02", PAGES["lcp182"]),
+    "lei-11340-2006": B._act_law("Lei nº 11.340, de 2006", "Cria mecanismos para coibir a violência doméstica e familiar "
+                                 "contra a mulher, nos termos do § 8º do art. 226 da Constituição Federal, da Convenção sobre "
+                                 "a Eliminação de Todas as Formas de Discriminação contra as Mulheres e da Convenção "
+                                 "Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher; dispõe sobre a "
+                                 "criação dos Juizados de Violência Doméstica e Familiar contra a Mulher; altera o Código de "
+                                 "Processo Penal, o Código Penal e a Lei de Execução Penal; e dá outras providências.",
+                                 "2006-08-07", "2006-08-08", PAGES["lmp"]),
+    "lei-10826-2003": B._act_law("Lei nº 10.826, de 2003", "Dispõe sobre registro, posse e comercialização de armas de fogo "
+                                 "e munição, sobre o Sistema Nacional de Armas – Sinarm, define crimes e dá outras "
+                                 "providências.", "2003-12-22", "2003-12-23", PAGES["edes"]),
+    "lc-101-2000": B._act_law("Lei Complementar nº 101, de 2000", "Estabelece normas de finanças públicas voltadas para a "
+                              "responsabilidade na gestão fiscal e dá outras providências.", "2000-05-04", "2000-05-05",
+                              PAGES["lcp101"]),
+    "lei-12016-2009": B._act_law("Lei nº 12.016, de 2009", "Disciplina o mandado de segurança individual e coletivo e dá "
+                                 "outras providências.", "2009-08-07", "2009-08-10", PAGES["lms"]),
+    "lei-9613-1998": B._act_law("Lei nº 9.613, de 1998", "Dispõe sobre os crimes de \"lavagem\" ou ocultação de bens, "
+                                "direitos e valores; a prevenção da utilização do sistema financeiro para os ilícitos "
+                                "previstos nesta Lei; cria o Conselho de Controle de Atividades Financeiras - COAF, e dá "
+                                "outras providências.", "1998-03-03", "1998-03-04", PAGES["llav"]),
+}
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
 B.ACT_LAWS.clear()
