@@ -526,6 +526,14 @@ def paragraphs(html, digits):
                 if p.get("label") == wrong:
                     p["label"] = right
                 TEXT_FIX_USED.append(why)
+        # '(Revogado o caput pela Lei nº 9.639, de 25.5.98.)' (Lei 8.212 art. 93): the period inside the parenthesis kept the
+        # note in the text; it is the caput's revocation note
+        m = re.search(r"\.?\s*\((Revogad[oa]) o caput (pela [^()]*?)\.?\)$", p["text"])
+        if m:
+            p["text"] = p["text"][:m.start()].rstrip(".") + "."
+            p["notes"] = p["notes"] + [f"({m.group(1)} {m.group(2)})"]
+            TEXT_FIX_USED.append("Lei 8.212 art. 93: the note '(Revogado o caput pela Lei nº 9.639, de 25.5.98.)', whose "
+                                 "inner period kept it in the text, is read as the caput's revocation note")
         # '...salário-maternidade; (Redação dada pela Lei nº 9.528, de 10.12.97).': the period closes the note, not the
         # text ('...;.' once the note is lifted out)
         if p["notes"] and re.search(r"[;:,]\s*\.$", p["text"]):
