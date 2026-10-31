@@ -658,15 +658,16 @@ RUBRICA_KEPT: list[str] = []
 
 def closes_quote(text: str) -> bool:
     """A line that closes (or continues) an amendment quoted from another law: '.....\" (NR)', '"Art. 5º ...', or one
-    ending with the closing quotation mark ('6º) a perda e a suspensão do pátrio poder. "')."""
+    ending with punctuation and the closing quotation mark ('6º) a perda e a suspensão do pátrio poder. "'; a rubrica
+    may end with a quoted word: 'Emissão irregular de conhecimento de depósito ou "warrant"')."""
     return (bool(re.search(r"\(NR\)\s*$", text)) or text.lstrip().startswith(('"', "“", "...", "…"))
-            or text.rstrip().endswith(('"', "”")))
+            or bool(re.search(r'[.;:!?]\s*["”]\s*$', text)))
 
 
 def rubrica_decision() -> list[str]:
     if not RUBRICA_KEPT:
         return []
-    return ["Lines that close a quoted amendment ('.....\" (NR)', a quoted article, or a line ending with the closing quotation mark) are kept in the article that quotes "
+    return ["Lines that close a quoted amendment ('.....\" (NR)', a quoted article, or a sentence ending with the closing quotation mark) are kept in the article that quotes "
             "them; the marginal-heading rule, which moves an unlabelled line without closing punctuation into the next "
             "article, does not apply to them (" + str(len(RUBRICA_KEPT)) + " lines)."]
 
