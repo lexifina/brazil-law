@@ -5,7 +5,7 @@ the repo: `~/Documents/.gitlaw-scratch/brazil-b10parts` (regenerated parts, batc
 `brazil-b10src` (country folder copy + trial parts), `brazil-b10` (build), `brazil-b10c` (--compare);
 batch10/.tmp/runbuild.py runs build, check, compare.
 
-## 1. Pin scan of every older part - DONE 2026-10-31 ~03:50Z
+## 1. Pin scan of every older part - DONE 2026-10-31 ~03:35Z
 
 batch10/.tmp/pinscan.py resolves each pin of all 14 pin files to its cached bytes (as the parsers do) and flags bot /
 JavaScript placeholder pages, cut pages, and heading numbers that differ from the pin's id. 1,573 pins. Real faults:
@@ -27,7 +27,31 @@ differ from a fresh run; no act, version or law differs, pins they use unchanged
 50-codes (5563f253) and 99-batch9 (17f87c10), PUBLISH rewritten; merged scratch build 1352 commits, 51 acts, 1496
 versions, check.py 0/0, --compare identical, audit_push clean.
 
-## 2. 99-batch10 (next ~10 federal laws)
-In progress: Concessões 8.987, PPPs 11.079, Saneamento 11.445, Petróleo 9.478, Abuso de Autoridade 13.869, Estatuto dos
-Militares 6.880, LC 64/1990 (Inelegibilidades, incl. Ficha Limpa), Lei 8.142/1990, Lei Geral do Esporte 14.597, Estatuto
-do Torcedor 10.671, PNMA 6.938. Pages pinned (20, all Common Crawl) in batch10/sources_batch10.json.
+## 2. 99-batch10 v1 - PUBLISHed 2026-10-31 ~03:45Z
+6 acts, 44 versions: Lei de Concessões 12, Lei das PPPs 14, Lei de Abuso de Autoridade 2, LC 64/1990 (Inelegibilidades,
+incl. Ficha Limpa) 5, Lei 8.142/1990 1, Lei Geral do Esporte 10. Part sha256 53ba8701, parse twice identical; merged
+scratch build 1384 commits, 57 acts, 1540 versions, check 0/0, --compare identical, audit clean. README rows and
+jurisdiction.json (57 acts) updated.
+New in parse_batch10.py (imports batch9 with BATCH9_ACTS=-; batch 9's hand tools cleared):
+- OWN_PROMULGATION: an act's own vetoed parts promulgated after a veto override. A printed line is promulgated when its
+  words are in the promulgation text after the act's signature, in a contiguous block starting at a line with the note
+  '(Promulgação partes vetadas)' (headings only with the note); it starts on the DOU day credited to the act's law, and
+  the '(VETADO)' line stands until then; version note added. LGE: DOU 22.5.2024 (20 units); LAA: 27.9.2019, before the
+  act's in-force day, so no change.
+- CONVERTED_FIX MP 577/2012, 575/2012 ('Convertida pela Lei'); VIGENCIA_FIXED Lei 13.137/2015 (art. 26 VII); NOTE_FIX MP
+  513 'de 2.010'; SPAN_FIX LConc art. 27 I/II (renumbering 11.196/2005), LGE art. 99 IV bare label skipped (Lei 15.522's
+  future wording not printed); EXPLAINED LConc art. 15, LPPP art. 10/26, LAA art. 15-A.
+- P.PUBLISHED_FIXED: batch 9's mp-75-2002 popped (every entry there is printed in decisions).
+Checks: batch10/.tmp/dupline.py (new: word-for-word repeated labelled line, or a label twice under one parent, any
+version; catches doubled incisos, which batch7's dupcheck does not), batch7/.tmp/dupcheck.py, leakcheck.py.
+
+## 3. Next (configured in ALL_ACTS, not VERIFIED)
+- Lei do Saneamento Básico (11.445): ACT_DAY corrected to 22.2.2007 (no vigência clause: LINDB 45 days). 328 problems:
+  MP 844/2018 and MP 868/2018 (both lapsed; fates/Atos needed), Lei 13.312/2016 clause; 'ends before it starts' art. 48/49 XII.
+- Lei do Petróleo (9.478): in-force days for Leis 15.103/2025, 15.082/2024, LC 225/2026; note 'Lei nº 9.990, 2000'; 7
+  restored-wording; 6 diffs (art. 8, 10, 48, 49, 68-B, 68-C).
+- Estatuto dos Militares (6.880): Lei 11.447/2007 clause; art. 98 IV staged (1 year after 11.12.1980); 4 diffs.
+- PNMA (6.938): compilada is a retyped edition (24 units differ in punctuation/case and some words): needs care.
+- Estatuto do Torcedor (10.671): repealed by Lei 14.597 art. 217 III (15.6.2023): REPEALS pattern + pre-repeal capture;
+  art. 44 staged (six months for some articles).
+- Unresolved MP fates seen: 1069/2021, 1255/2024, 2215/2001, 532/2011, 592/2012, 671/2015, 844/2018, 868/2018.

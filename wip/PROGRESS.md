@@ -129,4 +129,8 @@ merged 51 acts, 1496 versions, check 0/0, --compare identical. jurisdiction.json
 Pin scan of all older parts (batch10/.tmp/pinscan.py): 5 bad pins fixed in codes/, clt/, batch3/, batch5/ pin files
 (MP 75/2002 and Lei 3.807 bot pages; Lei 15.452, MP 765/2016, MP 922/2020 pinned to other acts' pages). Only 99-batch9
 changed in content (CTB art. 326-C now from 1.7.2026, Lei 15.452's real day) and 50-codes in its request count; both
-re-PUBLISHed ~03:50Z (merged 51 acts, 1496 versions, check 0/0, --compare identical). Details: batch10/PROGRESS.md.
+re-PUBLISHed ~03:35Z (merged 51 acts, 1496 versions, check 0/0, --compare identical). Details: batch10/PROGRESS.md.
+99-batch10 PUBLISHed ~03:45Z: Lei de Concessões, Lei das PPPs, Lei de Abuso de Autoridade, LC 64/1990 (Inelegibilidades),
+Lei 8.142/1990, Lei Geral do Esporte (44 versions); merged 57 acts, 1540 versions, check 0/0, --compare identical.
+jurisdiction.json and README updated (57 acts). Saneamento, Petróleo, Estatuto dos Militares, PNMA, Estatuto do Torcedor
+configured, next. Details: batch10/PROGRESS.md.
