@@ -197,6 +197,8 @@ ALL_ACTS: list[dict] = [
          "Concessões de energia elétrica e modicidade tarifária (Lei nº 12.783, de 11 de janeiro de 2013)", 2),
     _act("lei-dos-portos", "LPortos", "l12815", "l12815", "lei-12815-2013",
          "Lei dos Portos (Lei nº 12.815, de 5 de junho de 2013)", 2),
+    _act("lei-9074-de-1995", "L9074", "l9074", "l9074-compilada", "lei-9074-1995",
+         "Outorga e prorrogação de concessões e permissões de serviços públicos (Lei nº 9.074, de 7 de julho de 1995)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -221,6 +223,7 @@ PARTS: dict[str, list[str]] = {
     "r": ["lei-da-prescricao-da-acao-punitiva", "lei-do-pregao"],
     "s": ["lei-das-concessoes-do-setor-eletrico"],
     "t": ["lei-dos-portos"],
+    "u": ["lei-9074-de-1995"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -294,6 +297,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-10520-2002": ("2002-07-18", f"Lei 10.520/2002 art. 13: {_PUB} (DOU 18.7.2002, rectified 30.7.2002)"),
     "lei-12783-2013": ("2013-01-14", f"Lei 12.783/2013 art. 32: {_PUB} (DOU 14.1.2013)"),
     "lei-12815-2013": ("2013-06-05", f"Lei 12.815/2013 art. 75: {_PUB} (DOU 5.6.2013, edição extra)"),
+    "lei-9074-1995": ("1995-07-08", f"Lei 9.074/1995 art. 39: {_PUB} (DOU 8.7.1995, edição extra; republished 28.9.1998)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -431,6 +435,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "1993, e 11.610, de 12 de dezembro de 2007, e dispositivos das Leis nºs 11.314, de 3 de julho de 2006, e "
                          "11.518, de 5 de setembro de 2007; e dá outras providências.", "2013-06-05", "2013-06-05",
                          PAGES["l12815"]),
+    "lei-9074-1995": _L("Lei nº 9.074, de 1995", "Estabelece normas para outorga e prorrogações das concessões e permissões de "
+                        "serviços públicos e dá outras providências.", "1995-07-07", "1995-07-08", PAGES["l9074"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -1470,6 +1476,33 @@ if any(a["slug"] == _LCADIN for a in ACTS):
     P.VIGENCIA_FIXED["lei-12844-2013"] = (
         "2013-07-19", "art. 49: 'Esta Lei entra em vigor: [...] V - na data de sua publicação para os demais dispositivos' "
                       "(DOU 19.7.2013, edição extra): its art. 21 (Lei 10.522 art. 19) falls under V")
+_LCSE, _L9074 = "lei-das-concessoes-do-setor-eletrico", "lei-9074-de-1995"
+if any(a["slug"] == _L9074 for a in ACTS):
+    P.VIGENCIA_FIXED["mp-1300-2025"] = (
+        "2025-05-21", "'Esta Medida Provisória entra em vigor: I - quarenta e cinco dias [...] quanto ao art. 6º; II - em 1º de "
+                      "janeiro de 2026, quanto ao art. 8º; e III - na data de sua publicação, quanto aos demais dispositivos' (DOU "
+                      "21.5.2025, edição extra): its art. 1 (Lei 9.074) falls under III")
+if any(a["slug"] in (_LCSE, _L9074) for a in ACTS):
+    P.VIGENCIA_FIXED["mp-612-2013"] = (
+        "2013-04-04", "art. 28: 'Esta Medida Provisória entra em vigor: [...] III - na data de sua publicação para os demais "
+                      "dispositivos, produzindo efeitos quanto ao art. 22 a partir da entrada em vigor da Lei nº 12.783' (DOU "
+                      "4.4.2013): its arts. 21 and 22 (Lei 12.783) fall under III; art. 22's effects reach back to 14.1.2013, so "
+                      "the in-force day is kept" if not any(a["slug"] == _L9074 for a in ACTS) else
+                      "4.4.2013): its art. 29 (the revocation of Lei 9.074 art. 1 VI, 'na data de publicação desta Medida "
+                      "Provisória') falls under III")
+    P.MP_LAPSE["mp-612-2013"] = (
+        "2013-08-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 49, de 2013 (DOU 7.8.2013): 'teve seu "
+                      "prazo de vigência encerrado no dia 1º de agosto do corrente ano'")
+if any(a["slug"] == _LCSE for a in ACTS):
+    P.VIGENCIA_FIXED["lei-12844-2013"] = (
+        "2013-07-19", "art. 49: 'Esta Lei entra em vigor: [...] V - na data de sua publicação para os demais dispositivos, "
+                      "produzindo efeitos quanto ao art. 27 a partir da entrada em vigor da Lei nº 12.783, de 11 de janeiro de "
+                      "2013' (DOU 19.7.2013, edição extra): its arts. 26 and 27 (Lei 12.783 arts. 8, 15 and 26-A) fall under V; "
+                      "art. 27's effects reach back to 14.1.2013, so the in-force day is kept")
+    P.MP_LAPSE["mp-1232-2024"] = (
+        "2024-10-11", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 101, de 2024 (DOU 31.10.2024): 'teve "
+                      "seu prazo de vigência encerrado no dia 10 de outubro de 2024'; the wordings it replaced or revoked are "
+                      "back from 11.10.2024")
     P.VIGENCIA_FIXED["lei-13988-2020"] = (
         "2020-04-14", "'Esta Lei entra em vigor: I - em 120 (cento e vinte) dias [...] em relação ao inciso I do caput e ao "
                       "parágrafo único do art. 23; e II - na data de sua publicação, em relação aos demais dispositivos' (DOU "
@@ -1529,6 +1562,23 @@ B9.REPEALS[_LPREG] = (
     "so the page is read from a capture of 10.12.2023, before the repeal, and the history up to 29.12.2023 is checked "
     "against that capture's text")
 
+_DOTTED = ("check artefact: the article quotes another law with dotted lines ('§ 1º .....'), which the history keeps as a "
+           "label-only line and the check, reading label-only lines as revoked dispositivos, drops")
+B.EXPLAINED[_LCSE] = {"art-30": _DOTTED}
+B.EXPLAINED["lei-dos-portos"] = {"art-71": _DOTTED}
+B13.OPEN_ITEMS[_LCSE] = (
+    "Lei 12.783 (open items): the text before 14.1.2013 (Medida Provisória 579/2012, of which this Lei is the conversion) is "
+    "not part of the history; the retroactive effects of Medida Provisória 612/2013 art. 22 and Lei 12.844/2013 art. 27 "
+    "(from 14.1.2013) keep their in-force days; 'Vide' pointers (Medida Provisória 615/2013, decrees) strike no words and "
+    "are not modelled")
+B13.OPEN_ITEMS["lei-dos-portos"] = (
+    "Lei 12.815 (open items): the text before 5.6.2013 (Medida Provisória 595/2012, of which this Lei is the conversion) is "
+    "not part of the history; 'Vide' pointers and regulations strike no words and are not modelled")
+_W27 = ("Lei 12.783 art. 27 (its new wording of Lei 12.111 art. 3 § 16): Medida Provisória 1.232/2024 (DOU 13.6.2024, art. 3 "
+         "II) revoked the whole article and lapsed on 10.10.2024 (Ato Declaratório 101/2024); Planalto notes the revocation on "
+         "the article's first line only, so the quoted lines below it get the same gap, 13.6.2024 to 11.10.2024")
+_G1232 = {"gaps": [("2024-06-13", "2024-10-11", "mp-1232-2024", "mp-1232-2024-fim")]}
+B8.SPAN_FIX += [((_LCSE, "art-27", lab, pre, 0), dict(_G1232), _W27) for lab, pre in (("", '"Art. 3'), ("§ 16", "§ 16."))]
 B13.OPEN_ITEMS[_LCADIN] = (
     "Lei 10.522 (open items): the text before 22.7.2002 (Medida Provisória 2.176-79/2001 and its earlier editions, of which "
     "this Lei is the conversion) is not part of the history; the STF's judgment in ADIs 5.881, 5.886, 5.890, 5.925, 5.931 and "

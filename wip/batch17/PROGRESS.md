@@ -274,6 +274,19 @@ Lei 9.873/1999 (5 versions 1999-11-24 .. 2017-11-14), Lei do Pregão 10.520/2002
 - MP 784/2017 and MP 896/2019 lapses from the shared tables. effects_fix 0 moves. All checks 0. Part sha 7f724c5f; merged
   166 acts, 2835 versions, 2194 commits, check 0/0, compare identical, audit clean. README rows + jurisdiction.json (166).
 
+## 99-batch17s - PUBLISHed 2026-10-31 (sixth session)
+Lei 12.783/2013 (concessões do setor elétrico), 16 versions 2013-01-14 .. 2025-11-25.
+- Hand (part s block, `_LCSE`, scoped): VIGENCIA_FIXED lei-12844-2013 (V, now also set for this act) and mp-612-2013
+  4.4.2013 (III; art. 22 retroactive, day kept); MP_LAPSE mp-612-2013 2.8.2013 (ato:adc-49-2013-mpv612) and mp-1232-2024
+  11.10.2024 (ato:adc-101-2024-mpv1232); SPAN_FIX art-27 quoted lines get the MP 1.232 gap. EXPLAINED art-30 (_DOTTED).
+- Benign: dupline/dupcheck art-30 quoted '§ 2º' x2; leakcheck art-23 quoted '(revogada)'. effects_fix 0 moves. Part sha
+  b3ac0974 (pre-effects 36d2941a); merged 167 acts, 2851 versions, 2205 commits, check 0/0, compare identical, audit clean.
+
+## 99-batch17t - PUBLISHed 2026-10-31 (sixth session)
+Lei dos Portos 12.815/2013, 7 versions 2013-06-05 .. 2022-02-06. No hand dates; EXPLAINED art-71 (_DOTTED); flags all in
+art. 71's quoted Lei 10.233 text. Part sha 37d58a62; merged 168 acts, 2858 versions, 2206 commits, check 0/0, compare
+identical, audit clean. README rows + jurisdiction.json (168 acts).
+
 ## State at handoff (batch 17, fifth session, 2026-10-31)
 Parts 99-batch17a..p installed with .PUBLISH (37 acts, 400 versions; merged 163 acts, 2794 versions, 2183 commits, check
 0/0, --compare identical, audit clean). README rows + jurisdiction.json (163 acts) current. All runs foreground through
