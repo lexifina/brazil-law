@@ -461,11 +461,24 @@ def paragraphs(html, digits):
             TABLES[page] = TABLES.get(page, 0) + 1
             t = re.sub(r"(<(?:p|td|div|font|span)\b[^>]*?)\s+align=\"?center\"?", r"\1", m.group(0), flags=re.I)
             t = re.sub(r"</?center\b[^>]*>", " ", t, flags=re.I)
-            return re.sub(r"(<(?:p|td|div)\b[^>]*?)\bstyle=\"[^\"]*text-align:\s*center[^\"]*\"", r"\1", t, flags=re.I)
+            t = re.sub(r"(<(?:p|td|div)\b[^>]*?)\bstyle=\"[^\"]*text-align:\s*center[^\"]*\"", r"\1", t, flags=re.I)
+            return re.sub(r"(<td\b[^>]*>)", lambda c: c.group(1) + CELL, t, flags=re.I)   # cell marker, taken out below
         html = head + re.sub(r"<table\b.*?</table>", _tab, rest_html, flags=re.S | re.I)
     if n0:
         CENTERED[page] = n0
     out, rest = _paragraphs15(html, digits)
+    # table cells: the marker comes out; a cell the marginal-heading rule moved into the next article (no label, no closing
+    # punctuation: Lei 8.213 art. 142's table) goes back to the article it is printed in
+    for i, p in enumerate(out):
+        if any(CELL in (p.get(f) or "") for f in ("text", "struck_text", "plain_text")):
+            for f in ("text", "struck_text", "plain_text"):
+                if isinstance(p.get(f), str):
+                    p[f] = P.norm(p[f].replace(CELL, ""))
+            if p["label"] == "rubrica":
+                prev = next((q for q in reversed(out[:i]) if not q["heading"] and q["label"] != "rubrica"), None)
+                if prev is not None:
+                    p["unit"], p["label"] = prev["unit"], ""
+                    CELLS_BACK.append(f"{page} {p['unit']}")
     # 'Art. 22A.', 'Art. 22B.', 'Art. 25A.' (Leis 10.256/2001, 10.666/2003: Planalto prints the letter without a hyphen):
     # the shared reader keeps them in the files of arts. 22 and 25; each is its own article (art-022-a, ...)
     cur = None
