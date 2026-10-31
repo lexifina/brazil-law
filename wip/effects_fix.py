@@ -308,11 +308,6 @@ def hunks(old: str | None, new: str | None, unit: str) -> tuple[list[dict], list
     b = (new or "").splitlines()
     pa, pb = paths(a), paths(b)
     ops, hs = [], []
-
-    def add(o, n, po, pn):
-        h = {"old": o, "new": n, "unit": unit, "paths": po + pn}
-        ops.append(h)
-        hs.append(h)
     for tag, i1, i2, j1, j2 in difflib.SequenceMatcher(None, a, b, autojunk=False).get_opcodes():
         if tag == "equal":
             ops.extend({"eq": x} for x in a[i1:i2])
@@ -324,24 +319,48 @@ def hunks(old: str | None, new: str | None, unit: str) -> tuple[list[dict], list
             hit = next((i for i in olds if i not in pair.values() and lab and _lab(a[i]) == lab), None)
             if hit is not None:
                 pair[j] = hit
+        subs = []
         for i in olds:
             if i not in pair.values():
-                add([a[i]], [], [pa[i]], [])
+                subs.append({"old": [a[i]], "new": [], "unit": unit, "paths": [pa[i]], "oi": i, "nj": None})
         for j in range(j1, j2):
-            if j in pair:
-                add([a[pair[j]]], [b[j]], [pa[pair[j]]], [pb[j]])
-            else:
-                add([], [b[j]], [], [pb[j]])
+            i = pair.get(j)
+            subs.append({"old": [a[i]] if i is not None else [], "new": [b[j]], "unit": unit,
+                         "paths": ([pa[i]] if i is not None else []) + [pb[j]], "oi": i, "nj": j})
+        hs.extend(subs)
+        ops.append({"block": subs, "a": a[i1:i2], "b": b[j1:j2]})
     return ops, hs
 
 
 def rebuild(ops: list[dict], applied) -> str | None:
+    """the old text with the applied hunks: a block wholly applied gives its new lines, wholly unapplied its old lines;
+    a mixed block follows the new order, with unapplied deleted lines put back before the first line that followed
+    them in the old text"""
     res = []
     for h in ops:
         if "eq" in h:
             res.append(h["eq"])
+            continue
+        subs = h["block"]
+        st = [bool(applied(s)) for s in subs]
+        if all(st):
+            res += h["b"]
+        elif not any(st):
+            res += h["a"]
         else:
-            res += h["new"] if applied(h) else h["old"]
+            items = []      # (old index or None, line)
+            for s, ok in zip(sorted(subs, key=lambda s: (s["nj"] is None, s["nj"] or 0)), [None] * len(subs)):
+                if s["nj"] is None:
+                    continue
+                if applied(s):
+                    items.append((s["oi"], s["new"][0]))
+                elif s["oi"] is not None:
+                    items.append((s["oi"], s["old"][0]))
+            for s in subs:
+                if s["nj"] is None and not applied(s):
+                    pos = next((k for k, (oi, _) in enumerate(items) if oi is not None and oi > s["oi"]), len(items))
+                    items.insert(pos, (s["oi"], s["old"][0]))
+            res += [x for _, x in items]
     return ("\n".join(res) + "\n") if res else None
 
 
@@ -413,9 +432,10 @@ def apply_move(act: dict, law: str, day: str, rules, moved: list[str]) -> None:
             if "eq" in h:
                 last = h["eq"]
             else:
-                h["prev"] = last
-                if h["old"]:
-                    last = h["old"][0]
+                for s in sorted(h["block"], key=lambda s: (s["oi"] is None, s["oi"] or 0)):
+                    s["prev"] = last
+                    if s["old"]:
+                        last = s["old"][0]
         # the unit's next change after this version (a dropped hunk is undone only up to it)
         nxt = next((j for j in range(k + 1, len(vs)) if vs[j]["units"].get(u) != v["units"].get(u)), None)
         drop_until = vs[nxt]["from"] if nxt is not None else "9999"
