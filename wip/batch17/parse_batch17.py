@@ -98,6 +98,7 @@ PAGES.update({
     "l12462": "_ato2011-2014/2011/lei/l12462.htm",
     "l12462-compilado": "_ato2011-2014/2011/lei/l12462compilado.htm",
     "l10520": "leis/2002/l10520.htm",
+    "l10520-2023": "leis/2002/l10520.htm",
     "l9873": "leis/l9873.htm",
     "l10233": "leis/leis_2001/l10233.htm",
     "l9074": "leis/l9074cons.htm",
@@ -188,6 +189,14 @@ ALL_ACTS: list[dict] = [
          "Lei da Escuta Protegida (Lei nº 13.431, de 4 de abril de 2017)", 2),
     _act("lei-do-cadin", "LCadin", "l10522", "l10522-compilado", "lei-10522-2002",
          "Lei do Cadin (Lei nº 10.522, de 19 de julho de 2002)", 2),
+    _act("lei-da-prescricao-da-acao-punitiva", "LPAP", "l9873", "l9873", "lei-9873-1999",
+         "Prescrição da ação punitiva da Administração Pública Federal (Lei nº 9.873, de 23 de novembro de 1999)", 2),
+    _act("lei-do-pregao", "LPreg", "l10520-2023", "l10520-2023", "lei-10520-2002",
+         "Lei do Pregão (Lei nº 10.520, de 17 de julho de 2002)", 2),
+    _act("lei-das-concessoes-do-setor-eletrico", "LCSE", "l12783", "l12783", "lei-12783-2013",
+         "Concessões de energia elétrica e modicidade tarifária (Lei nº 12.783, de 11 de janeiro de 2013)", 2),
+    _act("lei-dos-portos", "LPortos", "l12815", "l12815", "lei-12815-2013",
+         "Lei dos Portos (Lei nº 12.815, de 5 de junho de 2013)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -209,6 +218,9 @@ PARTS: dict[str, list[str]] = {
     "o": ["lei-dos-consorcios-publicos", "lei-da-acessibilidade"],
     "p": ["lei-do-prouni", "lei-de-cotas", "lei-da-escuta-protegida"],
     "q": ["lei-do-cadin"],
+    "r": ["lei-da-prescricao-da-acao-punitiva", "lei-do-pregao"],
+    "s": ["lei-das-concessoes-do-setor-eletrico"],
+    "t": ["lei-dos-portos"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -278,6 +290,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-13431-2017": ("2018-04-05", "Lei 13.431/2017 art. 29: 'Esta Lei entra em vigor após decorrido 1 (um) ano de sua "
                                      "publicação oficial' (DOU 5.4.2017): one year after publication, 5.4.2018"),
     "lei-10522-2002": ("2002-07-22", f"Lei 10.522/2002 art. 40: {_PUB} (DOU 22.7.2002)"),
+    "lei-9873-1999": ("1999-11-24", f"Lei 9.873/1999 art. 7: {_PUB} (DOU 24.11.1999, edição extra)"),
+    "lei-10520-2002": ("2002-07-18", f"Lei 10.520/2002 art. 13: {_PUB} (DOU 18.7.2002, rectified 30.7.2002)"),
+    "lei-12783-2013": ("2013-01-14", f"Lei 12.783/2013 art. 32: {_PUB} (DOU 14.1.2013)"),
+    "lei-12815-2013": ("2013-06-05", f"Lei 12.815/2013 art. 75: {_PUB} (DOU 5.6.2013, edição extra)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -396,6 +412,25 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "e do Adolescente).", "2017-04-04", "2017-04-05", PAGES["l13431"]),
     "lei-10522-2002": _L("Lei nº 10.522, de 2002", "Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e "
                          "entidades federais e dá outras providências.", "2002-07-19", "2002-07-22", PAGES["l10522"]),
+    "lei-9873-1999": _L("Lei nº 9.873, de 1999", "Estabelece prazo de prescrição para o exercício de ação punitiva pela "
+                        "Administração Pública Federal, direta e indireta, e dá outras providências.", "1999-11-23", "1999-11-24",
+                        PAGES["l9873"]),
+    "lei-10520-2002": _L("Lei nº 10.520, de 2002", "Institui, no âmbito da União, Estados, Distrito Federal e Municípios, nos "
+                         "termos do art. 37, inciso XXI, da Constituição Federal, modalidade de licitação denominada pregão, para "
+                         "aquisição de bens e serviços comuns, e dá outras providências.", "2002-07-17", "2002-07-18",
+                         PAGES["l10520"]),
+    "lei-12783-2013": _L("Lei nº 12.783, de 2013", "Dispõe sobre as concessões de geração, transmissão e distribuição de energia "
+                         "elétrica, sobre a redução dos encargos setoriais e sobre a modicidade tarifária; altera as Leis nºs "
+                         "10.438, de 26 de abril de 2002, 12.111, de 9 de dezembro de 2009, 9.648, de 27 de maio de 1998, 9.427, de "
+                         "26 de dezembro de 1996, e 10.848, de 15 de março de 2004; revoga dispositivo da Lei nº 8.631, de 4 de "
+                         "março de 1993; e dá outras providências.", "2013-01-11", "2013-01-14", PAGES["l12783"]),
+    "lei-12815-2013": _L("Lei nº 12.815, de 2013", "Dispõe sobre a exploração direta e indireta pela União de portos e "
+                         "instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários; altera as Leis "
+                         "nºs 5.025, de 10 de junho de 1966, 10.233, de 5 de junho de 2001, 10.683, de 28 de maio de 2003, 9.719, de "
+                         "27 de novembro de 1998, e 8.213, de 24 de julho de 1991; revoga as Leis nºs 8.630, de 25 de fevereiro de "
+                         "1993, e 11.610, de 12 de dezembro de 2007, e dispositivos das Leis nºs 11.314, de 3 de julho de 2006, e "
+                         "11.518, de 5 de setembro de 2007; e dá outras providências.", "2013-06-05", "2013-06-05",
+                         PAGES["l12815"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -627,11 +662,13 @@ FOREIGN_DROPPED: list[str] = []
 QUOTED_HEADINGS: list[str] = []
 # Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº N, de d de m de aaaa.': words of
 # the article (which wording of another act it refers to), not an amendment note; the reader takes them for a bare note.
-BARE_TEXT = {"l7689": "art-11", "l9249": "art-14", "l9430": "art-88"}
+BARE_TEXT = {"l7689": "art-11", "l9249": "art-14", "l9430": "art-88", "l9873": ("art-03", "art-08")}
 BARE_TEXT_USED: list[str] = []
 QUOTE_DROPPED: list[str] = []
 _BARE_RX = re.compile(r"\(?\s*(reda[çc][ãa]o dada pel[oa] (?:Decreto-Lei|Lei) n[º°.]?\s*[\d.]+, de \d{1,2} de \w+ de \d{4}[.;]?)\s*\)?",
                       re.I)
+_BARE_RX9873 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Lei n[º°.]?\s*9\.457, de 1997, o art\. 28 da Lei n[º°.]?\s*8\.884, de 1994, e "
+                          r"demais disposições em contrário, ainda que constantes de lei especial\.)\s*\)?")
 _paragraphs17 = P.paragraphs
 
 
@@ -648,10 +685,15 @@ def paragraphs(html, digits):
             keep.append(p)
         out = keep
     if page in BARE_TEXT:
+        units = BARE_TEXT[page] if isinstance(BARE_TEXT[page], tuple) else (BARE_TEXT[page],)
         for p in out:
-            if p["unit"] != BARE_TEXT[page] or not p["text"].rstrip().endswith("com a"):
+            if p["unit"] not in units or not p["text"].rstrip().endswith("com a"):
                 continue
             hit = [(n, m) for n in p["notes"] for m in [_BARE_RX.fullmatch(n.strip())] if m]
+            if not hit and page == "l9873":
+                # Lei 9.873 art. 8: '[...] o art. 33 da Lei nº 6.385, de 1976, com a redação dada pela Lei nº 9.457, de 1997, o
+                # art. 28 da Lei nº 8.884, de 1994, e demais disposições em contrário, ainda que constantes de lei especial.'
+                hit = [(n, m) for n in p["notes"] for m in [_BARE_RX9873.fullmatch(n.strip())] if m]
             if hit:
                 n, m = hit[0]
                 p["text"] = p["text"].rstrip() + " " + m.group(1)
@@ -716,6 +758,27 @@ def paragraphs(html, digits):
                 cur = p["unit"]
             keep.append(p)
         out = keep
+    if page == "l9873":
+        # Lei 9.873: the conversion law was promulgated by the President of the Senate; its closing line 'Congresso Nacional,
+        # em 23 de novembro de 1999; [...]' is not a line of art. 8
+        n0 = len(out)
+        out = [p for p in out if not re.match(r"Congresso Nacional, em \d", P.norm(p["text"]))]
+        if len(out) != n0:
+            L9873_FIXED.append("closing line 'Congresso Nacional, em 23 de novembro de 1999' left out of art. 8")
+        # art. 2º-A (Lei 11.941/2009) is printed after a stray full stop ('. Art. 2º-A. Interrompe-se o prazo prescricional da
+        # ação executória:'), so the reader kept it and its incisos in art. 2
+        cur = None
+        for p in out:
+            m = re.match(r"^\.\s*Art\.\s*2º\s*-\s*A\.\s*", P.norm(p["text"])) if p["unit"] == "art-02" else None
+            if m:
+                p["text"] = "Art. 2º-A. " + P.norm(p["text"])[m.end():]
+                p["label"], p["unit"], cur = "Art. 2º-A", "art-02-a", "art-02-a"
+                L9873_FIXED.append("art. 2º-A, printed after a stray full stop ('. Art. 2º-A.'), read as its own article with "
+                                   "its incisos I to V (they had been read as lines of art. 2)")
+            elif cur and p["unit"] == "art-02" and not p["heading"]:
+                p["unit"] = cur
+            elif p["unit"] != "art-02":
+                cur = None
     if page in ("l10522", "l10522-compilado"):
         # Lei 10.522 art. 37-B § 10 (Lei 11.941/2009): both Planalto pages (and Lei 11.941's own page) strike only the dash in
         # 'Custódia – SELIC'; a typesetting slip in a line in force: the line is read as unstruck, dash kept
@@ -769,6 +832,7 @@ L9430_FIXED: list[str] = []
 L13465_FIXED: list[str] = []
 EMPTY_ITEM_PAGES = {"l9250", "l7713"}
 MIXED_PLAIN: list[str] = []
+L9873_FIXED: list[str] = []
 EMPTY_ITEMS: list[str] = []
 P.paragraphs = B.paragraphs = paragraphs
 
@@ -1454,6 +1518,17 @@ _W11 = ("Lei 10.522 art. 11 §§ 1º to 3º: Medida Provisória 449/2008 (4.12.2
 _R11 = {"start": "2009-05-28", "start_law": "lei-11941-2009", "restored": True}
 B8.SPAN_FIX += [((_LCADIN, "art-11", lab, pre, 1), dict(_R11), _W11) for lab, pre in (
     ("§ 1º", "§ 1º Observados os limites"), ("§ 2º", "§ 2º Enquanto não deferido"), ("§ 3º", "§ 3º O não-cumprimento"))]
+# part r: Lei 9.873/1999, Lei 10.520/2002 (pregão; repealed as a whole on 30.12.2023, read from a capture of 10.12.2023)
+_LPREG = "lei-do-pregao"
+B9.REPEALS[_LPREG] = (
+    "2023-12-30", "lei-14133-2021",
+    "Lei 10.520/2002 was repealed as a whole by Lei 14.133/2021 art. 193 II, in the wording Lei Complementar 198/2023 gave it "
+    "('Revogam-se: [...] II - em 30 de dezembro de 2023: [...] b) a Lei nº 10.520, de 17 de julho de 2002'; the first "
+    "wording set two years from 1.4.2021, Medida Provisória 1.167/2023 and then LC 198/2023 moved it), so its last version, "
+    "on 30.12.2023, removes every provision, credited to Lei 14.133/2021. After the repeal Planalto strikes the whole page, "
+    "so the page is read from a capture of 10.12.2023, before the repeal, and the history up to 29.12.2023 is checked "
+    "against that capture's text")
+
 B13.OPEN_ITEMS[_LCADIN] = (
     "Lei 10.522 (open items): the text before 22.7.2002 (Medida Provisória 2.176-79/2001 and its earlier editions, of which "
     "this Lei is the conversion) is not part of the history; the STF's judgment in ADIs 5.881, 5.886, 5.890, 5.925, 5.931 and "
@@ -1558,10 +1633,21 @@ def _inner(*a):
         dec.append("Lei 9.430 art. 88 XXV ends '[...] o art. 89 da Lei nº 8.981, de 20 de janeiro de 1995, com a redação dada "
                    "pela Lei nº 9.065, de 20 de junho de 1995;': these words name the wording of the article it revokes; they are "
                    "part of the text, not an amendment note (l9430 art-88).")
-    if any(not x.startswith("l9430") for x in BARE_TEXT_USED):
+    if any(x.startswith("l9873") for x in BARE_TEXT_USED):
+        dec.append("Lei 9.873 art. 3 II and art. 8 name the act they refer to or revoke '[...] da Lei nº 6.385, de [...] 1976, com "
+                   "a redação dada pela Lei nº 9.457, de [...] 1997[...]': these words are part of the text, not an amendment "
+                   "note (" + ", ".join(dict.fromkeys(x for x in BARE_TEXT_USED if x.startswith("l9873"))) + ").")
+    if L9873_FIXED:
+        dec.append("Lei 9.873: " + "; ".join(dict.fromkeys(L9873_FIXED)) + " (the Lei, the conversion of Medida Provisória "
+                   "1.859-17/1999, was promulgated by the President of the Senate).")
+    if MIXED_PLAIN:
+        dec.append("Lei 10.522 art. 37-B § 10 (Lei 11.941/2009): Planalto strikes only the dash in 'Custódia – SELIC' (also on "
+                   "Lei 11.941's own page) in a line in force; the strike is read as a typesetting slip and the line as unstruck, "
+                   "dash kept (" + ", ".join(dict.fromkeys(MIXED_PLAIN)) + ").")
+    if any(not x.startswith(("l9430", "l9873")) for x in BARE_TEXT_USED):
         dec.append("Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº [...]' (Decretos-"
                    "Leis 2.449/1988 and 1.730/1979): these words name the wording of the other act the article refers to; they "
-                   "are part of the article's text, not an amendment note (" + ", ".join(x for x in BARE_TEXT_USED if not x.startswith("l9430")) + ").")
+                   "are part of the article's text, not an amendment note (" + ", ".join(x for x in BARE_TEXT_USED if not x.startswith(("l9430", "l9873"))) + ").")
     if QUOTE_DROPPED:
         dec.append("Lei 9.249 art. 9: the caput as Medida Provisória 694/2015 worded it (1.1.2016 to its lapse on 8.3.2016) is "
                    "printed after the opening quotation mark of the MP's quoted text; the mark is left out.")

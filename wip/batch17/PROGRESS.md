@@ -242,6 +242,38 @@ Lei do ProUni 11.096/2005 (9 versions, vs l11096compilado), Lei de Cotas 12.711/
 - Part sha 14c0577a (pre-effects c4f81fec); merged 163 acts, 2794 versions, 2183 commits, check 0/0, compare identical,
   audit clean. README rows + jurisdiction.json (163 acts).
 
+## 99-batch17q - PUBLISHed 2026-10-31 (sixth session)
+Lei 10.522/2002 (Cadin), 32 versions 2002-07-22 .. 2026-01-09 (l10522.htm vs l10522compilado.htm, 1 diff EXPLAINED art-20-b).
+- Pages for all next candidates added to PAGES and pinned (`iaonly.py pages`; l9074 = leis/l9074cons.htm, no capture of
+  leis/l9074.htm); `BATCH17_ACTS=lei-do-cadin iaonly.py laws` (7 new) + `missing` (0); ato:adc-41-2023-mpv1160 pinned (gap).
+- Hand (part q block, scoped to the act): VIGENCIA_FIXED lei-12844-2013 19.7.2013 (art. 49 V), lei-13988-2020 14.4.2020 (II);
+  MP_LAPSE mp-1160-2023 2.6.2023. SPAN_FIX: art-20-d '(VETADO' line text fixed, 10.1-18.4.2018, promulgated caput + I-III
+  from 18.4.2018 (Lei 13.606 promulgation, as batch 15); art-11 §§ 1º-3º second (unstruck) copies restored 28.5.2009 (Lei
+  11.941 kept only MP 449's caput); pointer lines art-10 'Vide Mpv 75' (nth 1) and art-13-a 'Vide MP 249' skipped.
+  paragraphs wrapper: art. 37-B § 10 mixed line (struck dash only) read as plain (MIXED_PLAIN). B15.TEXT_FIX: 'Lei no'/'Decreto
+  no' -> 'nº' (4), art. 20-D caput colon. New batch17 lifespans wrapper drops 'no end for struck' for SPAN_FIX-ended lines.
+- LEFT OUT: art. 32 quoted § 2º (struck 'Vide Adin 1.976-7', undated; STF pages robots-closed) - in OPEN_ITEMS + README row.
+- Amenders read with effrep: all on publication for this act; Lei 14.112 30 days (reader). effects_fix 0 moves.
+- Benign: dupline 2 / overlap 2 SAME = art. 10-A V and VI a)/b) (identical in Lei 14.112). Part sha 63cfb9c7 (pre-effects
+  d065fc1f); merged 164 acts, 2826 versions, 2192 commits, check 0/0, compare identical, audit clean. README row +
+  jurisdiction.json (164 acts).
+- Lei 10.931/2004: NO archive.org capture of _ato2004-2006/2004/lei/l10931.htm (cdxlist and cdxpre on the 2004 lei/ prefix:
+  absent; the local CC index lists it, but Common Crawl is robots-closed). Not built; PAGES entry removed.
+
+- 99-batch17q re-PUBLISHed (same session): + decision for the MIXED_PLAIN reading (added with part r's decision code); acts and
+  laws identical; sha 1dd97069.
+
+## 99-batch17r - PUBLISHed 2026-10-31 (sixth session)
+Lei 9.873/1999 (5 versions 1999-11-24 .. 2017-11-14), Lei do Pregão 10.520/2002 (4 versions 2002-07-18 .. 2023-12-30) = 9.
+- Lei 10.520: page id l10520-2023 = archive.org capture 20231210053808 (before the repeal), pinned with the new tool
+  `.tmp/pinat.py <id> <url> <ts>` (pin at a chosen timestamp + refetch). B9.REPEALS entry (Lei 14.133 art. 193 II b,
+  30.12.2023): last version removes every unit; REPEAL CHECK 0 differences.
+- Lei 9.873: BARE_TEXT now takes a tuple of units (l9873 art-03, art-08; _BARE_RX9873 for art. 8's long tail); paragraphs
+  wrapper drops the 'Congresso Nacional, em ...' closing line and splits art. 2º-A (printed '. Art. 2º-A.') with its
+  incisos out of art. 2 (L9873_FIXED decision).
+- MP 784/2017 and MP 896/2019 lapses from the shared tables. effects_fix 0 moves. All checks 0. Part sha 7f724c5f; merged
+  166 acts, 2835 versions, 2194 commits, check 0/0, compare identical, audit clean. README rows + jurisdiction.json (166).
+
 ## State at handoff (batch 17, fifth session, 2026-10-31)
 Parts 99-batch17a..p installed with .PUBLISH (37 acts, 400 versions; merged 163 acts, 2794 versions, 2183 commits, check
 0/0, --compare identical, audit clean). README rows + jurisdiction.json (163 acts) current. All runs foreground through
