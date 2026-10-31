@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-i PUBLISHed, 24 acts, 205 versions; merged 150 acts, 2599 versions; next: Leis 7.713, 9.430 (pages pinned), then 13.465, 11.977; see batch17/PROGRESS.md)
+CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-j PUBLISHed, 25 acts, 248 versions; merged 151 acts, 2642 versions; next: Lei 9.430 (pages pinned), then 13.465, 11.977; see batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 
@@ -179,3 +179,4 @@ Batch 17 (2026-10-31): small parts 99-batch17a, b, ... 99-batch17a PUBLISHed: Le
 99-batch17g PUBLISHed: Lei do Susp 13.675/2018 (Lei 14.531 vetoed parts promulgated 19.7.2023), Lei do Mercado de Capitais 4.728/1965 (Lei 14.754 effect day 1.1.2024 via effects_fix) (24 versions); merged 147 acts, 2529 versions, 2025 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (147 acts).
 99-batch17h PUBLISHed: Lei 7.689/1988 (CSLL) and Lei 9.249/1995 (35 versions; MP effect days by hand, 14 effect-day moves, Lei 15.525/2026 changes on futuro 2027/2030, Lei 7.689 art. 8 left out: Senate resolution 11/1995 not available); merged 149 acts, 2564 versions, 2048 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (149 acts).
 99-batch17i PUBLISHed: Lei 9.250/1995 (IRPF, 35 versions; MP 644/2014 and MP 1.171/2023 lapses, 17 effect-day moves); merged 150 acts, 2599 versions, 2071 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (150 acts). NOTE: data.commoncrawl.org and arquivo.pt robots.txt Disallow the paths used; fetch via batch17/.tmp/iaonly.py (archive.org only).
+99-batch17j PUBLISHed: Lei 7.713/1988 (IR, 43 versions; MP 1.251/2024 lapse, 1989 MP 68/114 effect days, 20 effect-day moves); 99-batch17i re-PUBLISHed (decision wording); merged 151 acts, 2642 versions, 2101 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (151 acts).

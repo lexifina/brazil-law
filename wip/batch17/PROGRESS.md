@@ -147,6 +147,21 @@ Lei 9.250/1995 (IRPF), 35 versions 1995-12-27 .. 2026-01-01 (in force on publica
 - Part sha f7bbf441 (pre-effects a99dbc22); merged 150 acts, 2599 versions, 2071 commits, check 0/0, compare identical,
   audit clean. README row + jurisdiction.json (150 acts).
 
+- Re-PUBLISHed (same session) with decision wording only: empty struck 'Vide MP 340' items now one shared decision
+  (EMPTY_ITEM_PAGES; art. 4 and art. 10); sha eea6e50f.
+
+## 99-batch17j - PUBLISHed 2026-10-31 (third session)
+Lei 7.713/1988 (IR), 43 versions 1989-01-01 .. 2024-12-06 (in force 1.1.1989, art. 57; DOU 23.12.1988 from LexML).
+- VIGENCIA_FIXED lei-11052-2004 1.1.2005, lei-7975-1989 1.3.1990 (DOU 27.12.1989 from LexML), mp-582-2012 1.1.2013 (art. 20
+  II), lei-12794-2013 3.4.2013 (retroactive start kept on publication); MP_LAPSE mp-1251-2024 6.12.2024
+  (ato:adc-125-2024-mpv1251); mp-644-2014 lapse now set for 9.250 or 7.713; NOTE_FIX 'Lei nº 7.759' -> 7.959; TEXT_FIX art. 7
+  ')'; EXPLAINED art-30. law:lei-7959-1989 pin = L7959.htm (was pinned under the misprinted key).
+- effects_fix MOVES "99-batch17j.json": 7 entries, 20 moves; MP 114 art-14/art-45 hunks None + Lei 7.959 same units ->
+  1.1.1990 (moves chain: apply_move recomputes from the already-moved versions); path_sel must be wrapped in a lambda in
+  MOVES (defined later in the file) and takes 4-tuples (unit, par, inc, ali).
+- Part sha 8b41fb85 (pre-effects 6a70a200); merged 151 acts, 2642 versions, 2101 commits, check 0/0, compare identical,
+  audit clean. README row + jurisdiction.json (151 acts).
+
 ## State at handoff (batch 17, second session, 2026-10-31)
 Parts 99-batch17a..h installed with .PUBLISH (23 acts, 170 versions; merged 149 acts, 2564 versions, 2048 commits, check
 0/0, --compare identical, audit clean). README rows + jurisdiction.json (149 acts) current. effects_fix.py MOVES for
