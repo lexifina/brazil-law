@@ -362,6 +362,14 @@ B9.WORD_FIX[:] = [
     ("pnma", "O PRESIDENTE DA REPÚBLICA, faço saber", "O PRESIDENTE DA REPÚBLICA, Faço saber",
      "Política Nacional do Meio Ambiente, preamble: 'Faço saber' as in the act as published (the annotated page prints 'faço')"),
 ]
+_RETYPED = ("Planalto's consolidated page of this act (l6938compilada.htm) is a retyped edition: it differs from the "
+            "annotated page in punctuation after article numbers ('Art. 2º.' / 'Art. 2º -'), capital letters and some "
+            "words; every line of the history was checked against its own source, the act as published (the Chamber of "
+            "Deputies' reproduction of the DOU of 2.9.1981) or the amending law's text, and matches it (batch10/.tmp/"
+            "pnma_adj.py); the consolidated page's variants are not in those texts")
+B.EXPLAINED.update({"politica-nacional-do-meio-ambiente": {u: _RETYPED for u in (
+    "art-02", "art-04", "art-05", "art-06", "art-09", "art-11", "art-12", "art-13", "art-14", "art-19", "art-20", "art-21",
+    "preambulo")}})
 B.EXPLAINED.update({
     _E: {"art-098": "the consolidated page keeps the placeholder 'XIV -;' for the inciso Lei 9.297/1996 revoked; the history "
                     "leaves revoked text out",
