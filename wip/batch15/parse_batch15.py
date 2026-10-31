@@ -230,7 +230,7 @@ P.VIGENCIA_FIXED.update({
                                      "sua publicação, quanto aos arts. 1º e 2º, e ao inciso II do caput do art. 12; e II - na "
                                      "data de sua publicação, quanto aos demais dispositivos' (DOU 30.5.2018): its changes to "
                                      "Lei 8.212 (arts. 3 and 5) fall under II"),
-    "lei-13756-2018": ("2018-12-13", "art. 39: 'Esta Lei entra em vigor: I - após decorridos 180 (cento e oitenta dias) [...] "
+    "lei-13756-2018": ("2018-12-13", "art. 47: 'Esta Lei entra em vigor: I - após decorridos 180 (cento e oitenta dias) [...] "
                                      "em relação à alteração do art. 18-A da Lei nº 9.615 [...]; e II - na data de sua "
                                      "publicação, em relação aos demais dispositivos' (DOU 13.12.2018): its change to Lei "
                                      "8.212 (art. 36) falls under II"),
@@ -269,7 +269,7 @@ P.VIGENCIA_FIXED.update({
     "lei-13202-2015": ("2015-12-09", "art. 16: 'Esta Lei entra em vigor: I - a partir de 1º de dezembro de 2015 quanto ao art. 15; "
                                      "II - na data de sua publicação quanto aos demais dispositivos' (DOU 9.12.2015): its "
                                      "changes to Lei 8.212 (arts. 12 and 17) fall under II"),
-    "lei-13183-2015": ("2015-11-05", "art. 7: 'Esta Lei entra em vigor: I - em 3 de janeiro de 2016, quanto à redação do art. 16 "
+    "lei-13183-2015": ("2015-11-05", "art. 8: 'Esta Lei entra em vigor: I - em 3 de janeiro de 2016, quanto à redação do art. 16 "
                                      "e do inciso II do § 2º do art. 77 da Lei nº 8.213 [...]; II - em 1º de julho de 2016, "
                                      "quanto à redação do § 5º do art. 29-C da Lei nº 8.213 [...]; III - na data de sua "
                                      "publicação, para os demais dispositivos' (DOU 5.11.2015); the dispositivos of I and II "
