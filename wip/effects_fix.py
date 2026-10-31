@@ -91,7 +91,7 @@ _LC214 = ("Lei Complementar 214/2025 art. 544: 'Esta Lei Complementar entra em v
           "partir de 1º de janeiro de 2026, em relação aos demais dispositivos'")
 MOVES: dict[str, list] = {
     "corpus.json": [
-        ("cf-1988", "ec-58-2009", "2009-09-23", [(lines_match(r"^(Art\. 29-A|[IVX]+ -|§ \d)"), "2010-01-01")],
+        ("cf-1988", "ec-58-2009", "2009-09-23", [("units:art-029-a", "2010-01-01")],
          "Emenda Constitucional 58/2009 art. 3: 'produzindo efeitos: I - o disposto no art. 1º, a partir do processo "
          "eleitoral de 2008 [before the amendment: kept on its in-force day]; e II - o disposto no art. 2º, a partir de 1º "
          "de janeiro do ano subsequente ao da promulgação desta Emenda' (promulgated 23.9.2009): art. 2's change to art. "
@@ -179,7 +179,7 @@ MOVES: dict[str, list] = {
         ("lei-do-saneamento-basico", "lei-13329-2016", "2016-08-02", [(ALL, "2018-01-01")],
          "Lei 13.329/2016 art. 4: 'produzirá efeitos a partir do segundo exercício subsequente à sua vigência' (in force "
          "2.8.2016): from 1.1.2018"),
-        ("lei-do-petroleo", "mp-1063-2021", "2021-08-12", [(lines_match(r"^(Art\. 68-[BC]|[IVX]+ -|§|Parágrafo)"), None)],
+        ("lei-do-petroleo", "mp-1063-2021", "2021-08-12", [("units:art-68-b,art-68-c", None)],
          "Medida Provisória 1.063/2021 art. 6: 'produz efeitos: I - na data da sua publicação, quanto ao: a) art. 1º, na "
          "parte que acresce o art. 68-D [...]; e b) art. 3º; e II - no primeiro dia do quarto mês subsequente ao de sua "
          "publicação, quanto aos demais dispositivos' (1.12.2021): its arts. 68-B and 68-C were rewritten by Medida "
@@ -295,26 +295,52 @@ def path_sel(targets, unit_of_hunk):
     return f
 
 
-def hunks(old: str | None, new: str | None, unit: str) -> tuple[list[str], list[dict]]:
+def _lab(x: str) -> str | None:
+    m = _LV.match(x)
+    return re.sub(r"\s+", " ", m.group(0)).strip() if m else None
+
+
+def hunks(old: str | None, new: str | None, unit: str) -> tuple[list[dict], list[dict]]:
+    """the unit's line operations, in order: 'eq' lines and one-line hunks (a replaced line paired with the new line of
+    the same label, else a deleted or an inserted line); each hunk carries the dispositivo paths of its lines"""
     a = (old or "").splitlines()
     b = (new or "").splitlines()
     pa, pb = paths(a), paths(b)
-    out = []
+    ops, hs = [], []
+
+    def add(o, n, po, pn):
+        h = {"old": o, "new": n, "unit": unit, "paths": po + pn}
+        ops.append(h)
+        hs.append(h)
     for tag, i1, i2, j1, j2 in difflib.SequenceMatcher(None, a, b, autojunk=False).get_opcodes():
         if tag == "equal":
+            ops.extend({"eq": x} for x in a[i1:i2])
             continue
-        out.append({"i1": i1, "i2": i2, "j1": j1, "j2": j2, "old": a[i1:i2], "new": b[j1:j2], "unit": unit,
-                    "paths": pa[i1:i2] + pb[j1:j2] + ([pa[i1 - 1]] if i1 and not b[j1:j2] and not a[i1:i2] else [])})
-    return a, out
+        olds = list(range(i1, i2))
+        pair = {}
+        for j in range(j1, j2):
+            lab = _lab(b[j])
+            hit = next((i for i in olds if i not in pair.values() and lab and _lab(a[i]) == lab), None)
+            if hit is not None:
+                pair[j] = hit
+        for i in olds:
+            if i not in pair.values():
+                add([a[i]], [], [pa[i]], [])
+        for j in range(j1, j2):
+            if j in pair:
+                add([a[pair[j]]], [b[j]], [pa[pair[j]]], [pb[j]])
+            else:
+                add([], [b[j]], [], [pb[j]])
+    return ops, hs
 
 
-def rebuild(a: list[str], hs: list[dict], b: list[str], applied) -> str | None:
-    res, i = [], 0
-    for h in hs:
-        res += a[i:h["i1"]]
-        res += h["new"] if applied(h) else h["old"]
-        i = h["i2"]
-    res += a[i:]
+def rebuild(ops: list[dict], applied) -> str | None:
+    res = []
+    for h in ops:
+        if "eq" in h:
+            res.append(h["eq"])
+        else:
+            res += h["new"] if applied(h) else h["old"]
     return ("\n".join(res) + "\n") if res else None
 
 
@@ -361,7 +387,7 @@ def apply_move(act: dict, law: str, day: str, rules, moved: list[str]) -> None:
     for u in units:
         old = prev.get(u, {}).get("text") if u in prev else None
         new = v["units"].get(u, {}).get("text") if u in v["units"] else None
-        a, hs = hunks(old, new, u)
+        ops, hs = hunks(old, new, u)
         if not hs:
             continue
         for h in hs:
@@ -388,7 +414,7 @@ def apply_move(act: dict, law: str, day: str, rules, moved: list[str]) -> None:
         base_unit = copy.deepcopy(v["units"].get(u) or prev.get(u))
 
         def text_on(t):
-            return rebuild(a, hs, None, lambda h: h["day"] is not None and h["day"] <= t)
+            return rebuild(ops, lambda h: h["day"] is not None and h["day"] <= t)
         # insert versions for effect days with none (before the unit's next change)
         for e in effs:
             if not any(w["from"] == e for w in vs):
