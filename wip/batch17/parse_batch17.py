@@ -51,6 +51,11 @@ PAGES.update({
     "l9492": "leis/l9492.htm",
     "l6024": "leis/l6024.htm",
     "l12037": "_ato2007-2010/2009/lei/l12037.htm",
+    # part d
+    "l11105": "_ato2004-2006/2005/lei/l11105.htm",
+    "l9263": "leis/l9263.htm",
+    "l11419": "_ato2004-2006/2006/lei/l11419.htm",
+    "l12587": "_ato2011-2014/2012/lei/l12587.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -83,6 +88,14 @@ ALL_ACTS: list[dict] = [
          "Intervenção e liquidação extrajudicial de instituições financeiras (Lei nº 6.024, de 13 de março de 1974)", 2),
     _act("lei-da-identificacao-criminal", "LIdC", "l12037", "l12037", "lei-12037-2009",
          "Lei da Identificação Criminal (Lei nº 12.037, de 1º de outubro de 2009)", 2),
+    _act("lei-de-biosseguranca", "LBio", "l11105", "l11105", "lei-11105-2005",
+         "Lei de Biossegurança (Lei nº 11.105, de 24 de março de 2005)", 2),
+    _act("lei-do-planejamento-familiar", "LPF", "l9263", "l9263", "lei-9263-1996",
+         "Lei do Planejamento Familiar (Lei nº 9.263, de 12 de janeiro de 1996)", 2),
+    _act("lei-do-processo-eletronico", "LPE", "l11419", "l11419", "lei-11419-2006",
+         "Lei do Processo Judicial Eletrônico (Lei nº 11.419, de 19 de dezembro de 2006)", 2),
+    _act("lei-da-mobilidade-urbana", "LMU", "l12587", "l12587", "lei-12587-2012",
+         "Política Nacional de Mobilidade Urbana (Lei nº 12.587, de 3 de janeiro de 2012)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -90,6 +103,7 @@ PARTS: dict[str, list[str]] = {
     "b": ["lei-9029-de-1995", "lei-do-software", "lei-das-organizacoes-sociais", "lei-das-oscips"],
     "c": ["lei-da-assistencia-judiciaria", "lei-do-protesto-de-titulos", "lei-da-intervencao-e-liquidacao-extrajudicial",
           "lei-da-identificacao-criminal"],
+    "d": ["lei-de-biosseguranca", "lei-do-planejamento-familiar", "lei-do-processo-eletronico", "lei-da-mobilidade-urbana"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED

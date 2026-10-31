@@ -56,6 +56,28 @@
    }
   },
   {
+   "id": "l11105",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261012060805",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054665.41/warc/CC-MAIN-20261012052001-20261012082001-00581.warc.gz",
+    "offset": "15764761",
+    "length": "14342"
+   }
+  },
+  {
+   "id": "l11419",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261008194618",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054319.37/warc/CC-MAIN-20261008182931-20261008212931-00563.warc.gz",
+    "offset": "30425412",
+    "length": "9515"
+   }
+  },
+  {
    "id": "l12037",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12037.htm",
    "cc": {
@@ -64,6 +86,17 @@
     "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054685.16/warc/CC-MAIN-20261012234857-20261013024857-00501.warc.gz",
     "offset": "55698975",
     "length": "7054"
+   }
+  },
+  {
+   "id": "l12587",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12587.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261016030920",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170344220.79/warc/CC-MAIN-20261016012506-20261016042506-00184.warc.gz",
+    "offset": "34201497",
+    "length": "16414"
    }
   },
   {
@@ -130,6 +163,17 @@
     "filename": "crawl-data/CC-MAIN-2026-30/segments/1783663952076.41/warc/CC-MAIN-20260719083842-20260719113842-00447.warc.gz",
     "offset": "12373641",
     "length": "4420"
+   }
+  },
+  {
+   "id": "l9263",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9263.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261011081834",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054573.27/warc/CC-MAIN-20261011074633-20261011104633-00550.warc.gz",
+    "offset": "41790521",
+    "length": "7876"
    }
   },
   {

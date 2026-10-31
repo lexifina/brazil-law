@@ -47,9 +47,19 @@ Lei 9.029/1995 (3 versions), Lei do Software 9.609/1998 (1), Lei das Organizaç�
 - Reproducibility: a fresh parse of 17a now differs from the installed part only in sources[0].requests (60 -> 64: the
   count covers the whole growing pin file; batch 13/16 precedent, left as published).
 
+## 99-batch17c - PUBLISHed 2026-10-31 ~18:10 local
+Lei 1.060/1950 assistência judiciária (12 versions, vs l1060compilada.htm), Lei 9.492/1997 protesto (6), Lei 6.024/1974
+intervenção/liquidação (4), Lei 12.037/2009 identificação criminal (8) = 30 versions.
+- MP_PENDING mp-1894-1999 (reissue chain; ended by Lei 9.841, LINDB 20.11.1999).
+- SPAN_FIX Lei 6.024 art. 19 a)-d) second copies start 20.10.2017 (MP 784 lapse; overlap.py found them dated from 1974).
+- note_laws wrapper adds mp-955-2020 where a page cites MP 905 only (Lei 12.037); mp955_two_copies() (apply_rewrites):
+  struck copy to MP 955's lapse 18.8.2020, unstruck copy from 19.8.2020 (MP955_ACTS = {Lei 12.037}).
+- Lei 1.060 art. 15 order flag: 1950 text (items as §§ 1º-5º before a Parágrafo único), as on the compilada page.
+- effects_fix: 0 moves. Part sha bd72860b (pre-effects a6ad2d21); merged 138 acts, 2467 versions, 1982 commits, check
+  0/0, compare identical, audit clean. README rows + jurisdiction.json (138 acts).
+
 ## Next candidates (pages in the Common Crawl index)
-Lei 1.060/1950 (+compilada),
-Lei 9.492/1997 (protesto), Lei 6.024/1974, Lei 12.037/2009, Lei 11.105/2005, Lei 9.263/1996, Lei 11.419/2006, Lei
+Lei 11.105/2005, Lei 9.263/1996, Lei 11.419/2006, Lei
 12.587/2012, Lei 13.675/2018, Lei 9.537/1997, Lei 6.634/1979, Lei 9.469/1997 (+compilado), Lei 4.728/1965 (+compilado);
 heavy tax laws Lei 7.713/1988 (+compilada), 9.430/1996 (+compilada), 9.249/1995, 9.250/1995, 7.689/1988; Lei 13.465/2017,
 Lei 11.977/2009. Lei 10.931/2004: no page in the index.
