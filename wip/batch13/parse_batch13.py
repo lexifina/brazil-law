@@ -52,6 +52,17 @@ PAGES = {
     "lestatais": "_ato2015-2018/2016/lei/l13303.htm",
     "lpp": "leis/l9096.htm",
     "lpp-compilado": "leis/l9096compilado.htm",
+    # 13e
+    "lmig": "_ato2015-2018/2017/lei/l13445.htm",
+    "lref": "leis/l9474.htm",
+    "lterr": "_ato2015-2018/2016/lei/l13260.htm",
+    "lpt": "leis/l7960.htm",
+    # 13f
+    "lfgts": "leis/l8036consol.htm",
+    "lfgts-compilada": "leis/l8036compilada.htm",
+    "lsfn": "leis/l4595.htm",
+    "lsfn-compilado": "leis/l4595compilado.htm",
+    "lcheque": "leis/l7357.htm",
 }
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -88,11 +99,27 @@ ALL_ACTS: list[dict] = [
          "Lei das Estatais (Lei nº 13.303, de 30 de junho de 2016)", 2),
     _act("lei-dos-partidos-politicos", "LPP", "lpp", "lpp-compilado", "lei-9096-1995",
          "Lei dos Partidos Políticos (Lei nº 9.096, de 19 de setembro de 1995)", 2),
+    _act("lei-de-migracao", "LMig", "lmig", "lmig", "lei-13445-2017",
+         "Lei de Migração (Lei nº 13.445, de 24 de maio de 2017)", 3),
+    _act("estatuto-dos-refugiados", "LRef", "lref", "lref", "lei-9474-1997",
+         "Estatuto dos Refugiados (Lei nº 9.474, de 22 de julho de 1997)", 2),
+    _act("lei-antiterrorismo", "LAT", "lterr", "lterr", "lei-13260-2016",
+         "Lei Antiterrorismo (Lei nº 13.260, de 16 de março de 2016)", 2),
+    _act("lei-da-prisao-temporaria", "LPT", "lpt", "lpt", "lei-7960-1989",
+         "Lei da Prisão Temporária (Lei nº 7.960, de 21 de dezembro de 1989)", 2),
+    _act("lei-do-fgts", "LFGTS", "lfgts", "lfgts-compilada", "lei-8036-1990",
+         "Lei do FGTS (Lei nº 8.036, de 11 de maio de 1990)", 2),
+    _act("lei-do-sistema-financeiro-nacional", "LSFN", "lsfn", "lsfn-compilado", "lei-4595-1964",
+         "Lei do Sistema Financeiro Nacional (Lei nº 4.595, de 31 de dezembro de 1964)", 2),
+    _act("lei-do-cheque", "LCh", "lcheque", "lcheque", "lei-7357-1985",
+         "Lei do Cheque (Lei nº 7.357, de 2 de setembro de 1985)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-das-contravencoes-penais", "lei-dos-crimes-de-responsabilidade", "lei-do-crime-racial"],
     "b": ["lei-de-greve", "lei-do-trabalho-domestico", "lei-do-trabalho-temporario"],
-    "d": ["lei-4320-de-1964", "lei-das-estatais", "lei-dos-partidos-politicos"],
+    "d": ["lei-das-estatais", "lei-dos-partidos-politicos"],
+    "f": ["lei-do-sistema-financeiro-nacional", "lei-do-cheque"],
+    "e": ["lei-de-migracao", "estatuto-dos-refugiados", "lei-antiterrorismo", "lei-da-prisao-temporaria"],
     "c": ["lei-de-condominios-e-incorporacoes", "lei-da-alienacao-fiduciaria-de-imoveis", "lei-da-alienacao-fiduciaria"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
@@ -119,6 +146,25 @@ ACT_DAY_ALL: dict[str, tuple[str, str]] = {
     "lei-9514-1997": ("1997-11-21", f"Lei 9.514/1997 art. 42: {_PUB} (DOU 21.11.1997, rectified 24.11.1997)"),
     "dl-911-1969": ("1969-10-03", "Decreto-Lei 911/1969 art. 9: 'O presente Decreto-lei entrará em vigor na data de sua "
                                   "publicação' (DOU 3.10.1969)"),
+    "lei-4320-1964": ("1964-05-07", "Lei 4.320/1964 has no vigência clause (its art. 114 counts its effects from 1.1.1964 for "
+                                    "the budgets and from 1.1.1965 for the rest): LINDB art. 1, 45 days after publication in "
+                                    "the DOU of 23.3.1964 (rectified 9.4.1964 and 3.6.1964); the vetoed parts Congress kept "
+                                    "were promulgated in the DOU of 5.5.1964, before that day"),
+    "lei-13303-2016": ("2016-07-01", f"Lei 13.303/2016 art. 97: {_PUB} (DOU 1.7.2016)"),
+    "lei-9096-1995": ("1995-09-20", f"Lei 9.096/1995 art. 62: {_PUB} (DOU 20.9.1995)"),
+    "lei-13445-2017": ("2017-11-21", "Lei 13.445/2017 art. 125: 'Esta Lei entra em vigor após decorridos 180 (cento e oitenta) "
+                                     "dias de sua publicação oficial' (DOU 25.5.2017): in force on the day after the 180th "
+                                     "day counted from publication (LC 95/1998 art. 8 § 1)"),
+    "lei-9474-1997": ("1997-07-23", f"Lei 9.474/1997 art. 49: {_PUB} (DOU 23.7.1997)"),
+    "lei-13260-2016": ("2016-03-17", f"Lei 13.260/2016 art. 20: {_PUB} (DOU 17.3.2016, edição extra; rectified 18.3.2016)"),
+    "lei-7960-1989": ("1989-12-22", f"Lei 7.960/1989 art. 6: {_PUB} (DOU 22.12.1989); the conversion of Medida Provisória nº "
+                                    "111, de 1989, whose own text Planalto's page does not give"),
+    "lei-8036-1990": ("1990-05-14", f"Lei 8.036/1990 art. 32: 'Esta lei entra em vigor na data de sua publicação' (DOU 14.5.1990, "
+                                    "rectified 15.5.1990); the conversion of Medida Provisória nº 177/1990"),
+    "lei-4595-1964": ("1965-03-31", "Lei 4.595/1964 art. 65: 'Esta lei entrará em vigor 90 (noventa) dias após data de sua "
+                                    "publicação' (DOU 31.12.1964, supplement): 31.12.1964 + 90 days"),
+    "lei-7357-1985": ("1985-09-03", "Lei 7.357/1985 art. 70: 'Esta Lei entra em vigor na data de sua publicação' (DOU 3.9.1985; "
+                                    "the footer of Planalto's page misprints '3.9.1986')"),
 }
 _L = B._act_law
 ACT_LAWS_ALL: dict[str, dict] = {
@@ -145,6 +191,29 @@ ACT_LAWS_ALL: dict[str, dict] = {
     "dl-911-1969": _L("Decreto-Lei nº 911, de 1969", "Altera a redação do art. 66, da Lei nº 4.728, de 14 de julho de 1965, "
                       "estabelece normas de processo sôbre alienação fiduciária e dá outras providências.", "1969-10-01",
                       "1969-10-03", PAGES["dl911"]),
+    "lei-4320-1964": _L("Lei nº 4.320, de 1964", "Estatui Normas Gerais de Direito Financeiro para elaboração e contrôle dos "
+                        "orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal.", "1964-03-17",
+                        "1964-03-23", PAGES["l4320"]),
+    "lei-13303-2016": _L("Lei nº 13.303, de 2016", "Dispõe sobre o estatuto jurídico da empresa pública, da sociedade de "
+                         "economia mista e de suas subsidiárias, no âmbito da União, dos Estados, do Distrito Federal e dos "
+                         "Municípios.", "2016-06-30", "2016-07-01", PAGES["lestatais"]),
+    "lei-9096-1995": _L("Lei nº 9.096, de 1995", "Dispõe sobre partidos políticos, regulamenta os arts. 17 e 14, § 3º, inciso "
+                        "V, da Constituição Federal.", "1995-09-19", "1995-09-20", PAGES["lpp"]),
+    "lei-13445-2017": _L("Lei nº 13.445, de 2017", "Institui a Lei de Migração.", "2017-05-24", "2017-05-25", PAGES["lmig"]),
+    "lei-9474-1997": _L("Lei nº 9.474, de 1997", "Define mecanismos para a implementação do Estatuto dos Refugiados de 1951, e "
+                        "determina outras providências.", "1997-07-22", "1997-07-23", PAGES["lref"]),
+    "lei-13260-2016": _L("Lei nº 13.260, de 2016", "Regulamenta o disposto no inciso XLIII do art. 5º da Constituição Federal, "
+                         "disciplinando o terrorismo, tratando de disposições investigatórias e processuais e reformulando o "
+                         "conceito de organização terrorista; e altera as Leis nºs 7.960, de 21 de dezembro de 1989, e 12.850, de "
+                         "2 de agosto de 2013.", "2016-03-16", "2016-03-17", PAGES["lterr"]),
+    "lei-7960-1989": _L("Lei nº 7.960, de 1989", "Dispõe sobre prisão temporária.", "1989-12-21", "1989-12-22", PAGES["lpt"]),
+    "lei-8036-1990": _L("Lei nº 8.036, de 1990", "Dispõe sobre o Fundo de Garantia do Tempo de Serviço, e dá outras "
+                        "providências.", "1990-05-11", "1990-05-14", PAGES["lfgts"]),
+    "lei-4595-1964": _L("Lei nº 4.595, de 1964", "Dispõe sobre a Política e as Instituições Monetárias, Bancárias e "
+                        "Creditícias, Cria o Conselho Monetário Nacional e dá outras providências.", "1964-12-31", "1964-12-31",
+                        PAGES["lsfn"]),
+    "lei-7357-1985": _L("Lei nº 7.357, de 1985", "Dispõe sobre o cheque e dá outras providências.", "1985-09-02", "1985-09-03",
+                        PAGES["lcheque"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -215,6 +284,38 @@ B8.SPAN_FIX += [
      "Decreto-Lei 911/1969 art. 5 parágrafo único: the 1969 wording ends when Lei 6.071/1974 gave the paragraph its new "
      "wording (4.7.1974); Planalto strikes it with the 1969 caput, which stood until Lei 13.043/2014"),
 ]
+B.EXPLAINED["lei-dos-partidos-politicos"] = {
+    "art-44": "Planalto's annotated page strikes §§ 5º-A and 7º (Lei 13.165/2015) with only '(Vide ADIN Nº 5.617)', no "
+              "date; as for other struck text whose end the source does not date, they are left out of every version (see "
+              "the ADI 5.617 decision); the consolidated page still prints them",
+}
+B.EXPLAINED["lei-antiterrorismo"] = {
+    "art-19": "check artefact: art. 19 quotes Lei 12.850/2013 art. 1 with the dotted line '§ 2º .....', which the history "
+              "keeps as '§ 2º.' and the check, reading label-only lines as revoked dispositivos, drops",
+}
+# Lei do Sistema Financeiro Nacional: Planalto abbreviates Decreto-Lei as 'Del' in some notes
+_DEL_NOTES = [("Incluído", "2.321", "25/02/87", "1987"), ("Redação dada", "1.959", "14/09/82", "1982"),
+              ("Redação dada", "2.376", "25/11/87", "1987"), ("Redação dada", "278", "28/02/67", "1967"),
+              ("Redação dada", "581", "14/05/69", "1969"), ("Renumerado", "2.321", "25/02/87", "1987"),
+              ("Revogado", "48", "18/11/66", "1966")]
+for _how, _n, _d, _y in _DEL_NOTES:
+    P.NOTE_FIX[f"({_how} pelo Del nº {_n}, de {_d})"] = (
+        f"({_how} pelo Decreto-Lei nº {_n}, de {_y})",
+        f"Lei do Sistema Financeiro Nacional: the note reads 'Del nº {_n}, de {_d}', Planalto's abbreviation of Decreto-Lei")
+B9.WORD_FIX[:] = B9.WORD_FIX + [
+    ("lsfn", "Banco Central da República do Brasil. Vide Lei nº 6.419, de 1944", "Banco Central da República do Brasil.",
+     "Lei do Sistema Financeiro Nacional art. 56: Planalto's editorial pointer 'Vide Lei nº 6.419, de 1944', printed without "
+     "parentheses below the caput, is read into the caput; it is dropped like the page's other 'Vide' notes"),
+]
+B.EXPLAINED["lei-do-sistema-financeiro-nacional"] = {
+    "art-04": "the annotated page prints '( Vetado )' after Lei 6.045/1974's note on the caput, which the history keeps at "
+              "the end of the caput and the consolidated page leaves out; it prints 'Lei nº 1.059, de 10.4.1950' where the "
+              "consolidated page has 'Lei nº 1059, de 10/04/1950'",
+    "art-05": "the consolidated page misprints 'Constituição Federa'",
+    "art-10": "the annotated page prints inciso I as '... Conselho Monetário Nacional ( Vetado )).'; the consolidated page "
+              "keeps the note '(Renumerado pela Lei nº 7.730, de 31/01/89)' in inciso V's text",
+    "art-19": "typesetting: the annotated page ends inciso II with '(Vetado).', the consolidated page without the full stop",
+}
 
 # court and other open items named in decisions (Planalto's 'Vide' notes are dropped from the text, so nothing is modelled)
 OPEN_ITEMS = {
@@ -226,6 +327,20 @@ OPEN_ITEMS = {
     "lei-do-crime-racial": (
         "Crimes resultantes de preconceito de raça ou de cor (open item): Planalto's page heads the act with '(Vide ADO Nº 26)', a Supremo Tribunal Federal "
         "ruling that changes no words of the act; it is not modelled"),
+    "lei-dos-partidos-politicos": (
+        "Lei dos Partidos Políticos, STF ADI 5.617 (open item): Planalto strikes art. 44 §§ 5º-A and 7º (both added by Lei "
+        "13.165/2015) noting only '(Vide ADIN Nº 5.617)', with no date; as for other struck text the source does not date, "
+        "both are left out of every version, and the ruling is not modelled. The other 'Vide ADI' notes (5.105, 5.398, "
+        "6.230, 7.021) strike no text"),
+    "lei-das-estatais": (
+        "Lei das Estatais: the 'Vide ADIN' notes (5.624, 5.846, 5.924, 6.029; ADI 7.331 at art. 17 § 2º) strike no text; "
+        "the rulings are not modelled"),
+    "lei-de-migracao": (
+        "Lei de Migração: the act's annex (Tabela de Taxas e Emolumentos Consulares, art. 113), a table printed after the "
+        "signature, is not included; the history holds the articles only"),
+    "lei-da-prisao-temporaria": (
+        "Lei da Prisão Temporária: Planalto heads the act with '(Vide ADI 3360)' and '(Vide ADI 4109)', Supremo Tribunal "
+        "Federal rulings that strike no words of it; they are not modelled"),
     "lei-das-contravencoes-penais": (
         "Lei das Contravenções Penais: Planalto's 'Vide' pointers at the head of the act (Lei 1.390/1951, Lei 7.437/1985) and "
         "at art. 50 (Decretos-Leis 4.866/1942 and 9.215/1946) name acts that changed no words of it; they are not "

@@ -5,7 +5,7 @@
   "corpus_sha256": "7865b51bcfc2e0b8198e3efb90403fcf6faf80f960ee3a0047a4467006c022fd",
   "future_dated": 0,
   "merges": 0,
-  "mismatches": 75,
+  "mismatches": 0,
   "missing_in_force": 0,
   "trailer_errors": 0,
   "versions": 1856

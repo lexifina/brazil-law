@@ -38,3 +38,19 @@ VIG_AUDIT run on parts a, b, c: no fallback uses. Part sha bec3bdce; merged 85 a
 0/0, compare identical, audit clean.
 Note: a fresh parse of 13a/13b now differs from the installed parts only in sources[0].requests (the count covers the
 whole growing pin file sources_batch13.json); left as published, as batch 10 did for 97/99-batch6.
+
+## 99-batch13d - PUBLISHed 2026-10-31
+Lei das Estatais 13.303/2016 (2 versions), Lei dos Partidos Políticos 9.096/1995 (18). LPP art. 44 §§ 5º-A/7º struck for ADI
+5.617 undated -> left out, EXPLAINED + open item. Part sha 92160155; merged 87 acts, 1876 versions, 1609 commits, check
+0/0, compare identical, audit clean.
+
+## Deferred: Lei 4.320/1964 (configured as lei-4320-de-1964, pinned, not in any part)
+Trial (d1.json): 16 diffs vs l4320compilado. Needs: '(Veto rejeitado no DOU, de 5.5.1964)' / '(Veto rejeitado no D.O.
+05/05/1964)' read as notes (they leak into the text now); arts. 109-113 missing from the replay ('Artigo 113.' style
+labels?); 19 'undated' struck lines; typesetting diffs (art. 33, 49, 57, 68, 98). In-force day set: 7.5.1964 (LINDB; the
+vetoed parts kept by Congress were promulgated DOU 5.5.1964, before it); art. 114 (effects) noted.
+
+## 99-batch13e - PUBLISHed 2026-10-31
+Lei de Migração 13.445/2017 (1 version, from 21.11.2017; annex fee table NOT included - open item), Lei 9.474/1997 (1),
+Lei 13.260/2016 (1), Lei 7.960/1989 (3). Part sha fdd59324; merged 91 acts, 1882 versions, 1613 commits, check 0/0,
+compare identical, audit clean.
