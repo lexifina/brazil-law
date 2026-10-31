@@ -103,6 +103,12 @@ B8.SPAN_FIX[:] = [
     ((_LOAS, "art-20", "§ 11-A", "§ 11-A. O regulamento", 0), {"start": "2022-01-01", "start_law": "lei-14176-2021"},
      "Lei Orgânica da Assistência Social art. 20 § 11-A: Lei 14.176/2021 art. 6 I puts it in force on 1.1.2022 (its other "
      "changes to art. 20 on publication, 23.6.2021)"),
+    ((_LOAS, "art-09", "§ 3º", "§ 3º A inscrição da entidade no Conselho Municipal", 1),
+     {"end": "2009-11-30", "end_law": "lei-12101-2009", "end_how": "note",
+      "gaps": [("2008-11-10", "2009-02-10", "mp-446-2008", "mp-446-2008-fim")]},
+     "Lei Orgânica da Assistência Social art. 9 § 3º: Medida Provisória nº 2.187-13/2001's wording stands from 27.8.2001 "
+     "until Lei 12.101/2009 revoked it (30.11.2009), except while Medida Provisória nº 446/2008 (revoked it; rejected "
+     "10.2.2009) stood"),
     ((_LOAS, "art-09", "§ 3º", "§ 3º A inscrição da entidade no Conselho Municipal", 2), {"skip": True, "end_how": "twin"},
      "Lei Orgânica da Assistência Social art. 9 § 3º: Planalto prints Medida Provisória nº 2.187-13/2001's wording twice, "
      "once noted as revoked by Medida Provisória nº 446/2008 (rejected 10.2.2009) and once as revoked by Lei 12.101/2009; "
