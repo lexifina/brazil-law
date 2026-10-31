@@ -256,12 +256,82 @@ P.MP_PENDING.update({
                      "86 and Lei 8.213 arts. 7 and 8. Planalto's notes name this edition only, so the revocations are "
                      "dated by its publication; earlier editions of the chain are not modelled"),
 })
+P.VIGENCIA_FIXED["lei-11098-2005"] = (
+    "2005-01-14", "art. 14: 'Esta Lei entra em vigor: I - a partir da data de publicação do ato referido no inciso I do art. "
+                  "8º, para os arts. 1º, 2º, 3º e 4º; e II - a partir de 5 de outubro de 2004, para os demais artigos' (DOU "
+                  "14.1.2005). The act of art. 8 I (creation of the Secretaria da Receita Previdenciária) is Decreto 5.256 of "
+                  "27.10.2004 (DOU 28.10.2004, its Estrutura Regimental lists the Secretaria), published before the law, so "
+                  "art. 4 (the new wording of Lei 8.212 art. 39 caput) is in force from the law's own publication. Medida "
+                  "Provisória 222/2004, which the law converted and which had made the same change, is not noted on "
+                  "Planalto's page and is not modelled")
+
+# ---------------------------------------------------------------------------------------------------------------
+# page fixes (paragraphs wrapper): footnote markers, misprints, a note's closing period left after the text
+TEXT_FIX: list[tuple[str, str, str, str]] = [
+    ("l8212", "Da Contribuição do Produtor Rural e do Pescado}", "Da Contribuição do Produtor Rural e do Pescador",
+     "Lei 8.212 Capítulo VI heading (Lei 8.398/1992): Planalto's annotated page misprints 'Pescado}'; the consolidated page "
+     "reads 'DO PESCADOR'"),
+    ("l8212", "TÍTULO VII l", "TÍTULO VII",
+     "Lei 8.212 Título VII heading: the annotated page prints a stray 'l' after 'TÍTULO VII' (the consolidated page does not)"),
+]
+TEXT_FIX_USED: list[str] = []
+FOOTNOTES_DROPPED: dict[str, int] = {}
+NOTE_DOT: dict[str, int] = {}
+_paragraphs15 = P.paragraphs
+_SUPNUM = re.compile(r"<sup\b(?:(?!</sup>).)*?</sup>", re.S | re.I)
+
+
+def _supnum(m):
+    s = re.sub(r"<[^>]+>|&nbsp;|\s", "", m.group(0))
+    return "" if re.fullmatch(r"\d{1,2}", s) else m.group(0)
+
+
+def paragraphs(html, digits):
+    page = B8.CURRENT_PAGE[0]
+    if page == "l8212":
+        # l8212cons.htm keeps the numbered footnote markers of a 1998 edition ('e) as importâncias: <sup>14</sup>'); the
+        # footnotes themselves (on Medidas Provisórias then pending) are printed after the signature, outside the act
+        n0 = len(_SUPNUM.findall(html))
+        html = _SUPNUM.sub(_supnum, html)
+        FOOTNOTES_DROPPED[page] = n0 - len(_SUPNUM.findall(html))
+    out, rest = _paragraphs15(html, digits)
+    for p in out:
+        for pg, wrong, right, why in TEXT_FIX:
+            if pg == page and wrong in p["text"]:
+                p["text"] = p["text"].replace(wrong, right)
+                if p.get("label") == wrong:
+                    p["label"] = right
+                TEXT_FIX_USED.append(why)
+        # '...salário-maternidade; (Redação dada pela Lei nº 9.528, de 10.12.97).': the period closes the note, not the
+        # text ('...;.' once the note is lifted out)
+        if p["notes"] and re.search(r"[;:,]\s*\.$", p["text"]):
+            p["text"] = re.sub(r"\s*\.$", "", p["text"])
+            NOTE_DOT[page] = NOTE_DOT.get(page, 0) + 1
+    return out, rest
+
+
+P.paragraphs = B.paragraphs = paragraphs
+
 EXTRA: list[str] = []
 _inner15 = B6.PB5B._write_part5
 
 
 def _inner(*a):
-    B5.EXTRA_DECISIONS.extend(mp_pairs_decision() + EXTRA)
+    dec = mp_pairs_decision() + EXTRA
+    if FOOTNOTES_DROPPED.get("l8212"):
+        dec.append(f"Lei 8.212: Planalto's annotated page keeps the numbered footnote markers of a 1998 edition "
+                   f"({FOOTNOTES_DROPPED['l8212']} superscript numbers such as 'e) as importâncias: 14'); the footnotes "
+                   "themselves (on Medidas Provisórias then pending, and updated amounts) are printed after the signature, "
+                   "outside the act, so the markers are dropped from the text and the footnotes are not part of the history.")
+    if TEXT_FIX_USED:
+        dec.append("Misprints corrected: " + "; ".join(dict.fromkeys(TEXT_FIX_USED)) + ".")
+    if NOTE_DOT:
+        dec.append("A period printed after an amendment note that follows a line already ending in ';', ':' or ',' ('... "
+                   "salário-maternidade; (Redação dada pela Lei nº 9.528, de 10.12.97).') closes the note and is dropped "
+                   "with it (lines: " + ", ".join(f"{k} {v}" for k, v in sorted(NOTE_DOT.items())) + ").")
+    if SPAN15_USED:
+        dec.append("Life spans set by hand for these acts: " + "; ".join(dict.fromkeys(SPAN15_USED)) + ".")
+    B5.EXTRA_DECISIONS.extend(dec)
     return _inner15(*a)
 
 
