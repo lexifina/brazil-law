@@ -13,6 +13,7 @@ BATCH17_PART selects the part (its acts are PARTS[part]); BATCH17_ACTS=<slug,...
 from __future__ import annotations
 
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -110,12 +111,84 @@ P.MP_PENDING["mp-2165-2001"] = (
     "Emenda Constitucional 32/2001, art. 2; its art. 13 revoked Lei 7.418 art. 1 § 1º. Planalto's note names this edition "
     "only, so the revocation is dated by its publication; earlier editions of the chain are not modelled")
 
+# Lei 7.418/1985: Lei 7.619/1987 (DOU 1.10.1987, in force on publication) art. 1 gave art. 1 caput a new wording and
+# revoked art. 1 § 2º and art. 2, 'renumerando-se os demais'. Planalto prints arts. 3 to 13 of 1985 only under their new
+# numbers (2 to 12, each with '(Renumerado do art. N, pela Lei 7.619, de 30.9.1987)'). Lei 7.619 changed no other words,
+# so each of them stood under its old number from 17.12.1985 to 1.10.1987, with the lines it had then.
+_LVT = "lei-do-vale-transporte"
+RENUM_ART = {_LVT: ("1987-10-01", "lei-7619-1987")}
+RENUM_ART_USED: list[str] = []
+_RENUM_RX = re.compile(r"Renumerad[oa]\s+do\s+art\s*\.\s*(\d+)", re.I)
+
+
+def _ordinal(n: int) -> str:
+    return f"{n}º" if n < 10 else str(n)
+
+
+def renum_articles(paras, act):
+    if act["slug"] not in RENUM_ART:
+        return
+    day, law = RENUM_ART[act["slug"]]
+    act_day = B.ACT_DAY[act["law"]][0]
+    old_of: dict[str, int] = {}
+    for p in paras:
+        if p["heading"] or not p["label"].startswith("Art"):
+            continue
+        for n in p["notes"]:
+            m = _RENUM_RX.search(n)
+            if m:
+                old_of[p["unit"]] = int(m.group(1))
+    if not old_of:
+        return
+    copies, first = [], None
+    for i, p in enumerate(paras):
+        if p["heading"] or p.get("skip") or p["unit"] not in old_of:
+            continue
+        if first is None:
+            first = i
+        if p["start"] > day or (p["end"] is not None and p["end"] <= day):
+            continue
+        old = old_of[p["unit"]]
+        c = dict(p, unit=f"art-{old:02d}", gaps=[], start=act_day, start_law=None, end=day, end_law=law,
+                 end_how="renumbered", notes=[n for n in p["notes"] if not _RENUM_RX.search(n)])
+        if p["label"].startswith("Art"):
+            new_label = f"Art. {_ordinal(old)}"
+            c["text"] = new_label + p["text"][len(p["label"]):]
+            c["label"] = new_label
+            RENUM_ART_USED.append(f"art. {old} -> {p['label'][5:]}")
+        copies.append(c)
+        if p["start"] < day:
+            p["start"], p["start_law"] = day, law
+    copies.sort(key=lambda c: int(c["unit"][4:]))
+    paras[first:first] = copies
+    for i, p in enumerate(paras):
+        p["i"] = i
+
+
+_apply_rewrites17 = P.apply_rewrites
+
+
+def apply_rewrites(paras, act, eff, problems):
+    out = _apply_rewrites17(paras, act, eff, problems)
+    renum_articles(paras, act)
+    return out
+
+
+P.apply_rewrites = B.apply_rewrites = apply_rewrites
+
 # ---------------------------------------------------------------------------------------------------------------
 _inner17 = B6.PB5B._write_part5
 
 
 def _inner(*a):
-    B5.EXTRA_DECISIONS.extend(EXTRA)
+    dec = list(EXTRA)
+    if RENUM_ART_USED:
+        dec.append("Lei 7.418: Lei 7.619/1987 (DOU 1.10.1987) art. 1 rewrote art. 1 caput and revoked art. 1 § 2º and art. 2, "
+                   "'renumerando-se os demais'; it changed no other words. Planalto prints the other 1985 articles only under "
+                   "their new numbers, noted '(Renumerado do art. N, pela Lei 7.619, de 30.9.1987)'; each stands under its old "
+                   "number, with the lines it had then, from 17.12.1985 to 1.10.1987: " + ", ".join(dict.fromkeys(RENUM_ART_USED))
+                   + ".")
+    B5.EXTRA_DECISIONS.extend(dec)
     return _inner17(*a)
 
 
