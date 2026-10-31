@@ -25,7 +25,7 @@ Lei Kandir LC 87/1996 (18 versions, 1996-2026 + repeal 1.1.2033), Lei do ISS LC 
 Hand: VIGENCIA_FIXED lc-102-2000 (1.8.2000), lc-190-2022, lc-122-2006 (pin repinned to Lcp122.htm: Planalto linked
 Lcp138); LexML day for LC 92/1997 (footer misprints 1999); LABEL_FIX art. 13 '2º Não integra' -> § 2º; SPAN_FIX art. 12 §
 5º + I/II from 13.6.2024 (LC 204 veto promulgation), art. 31 § 4º-A ends LC 115/2002 (unclosed note); REPEALS both acts
-2033-01-01 (LC 214 art. 543). LC 214/190 'Produção de efeitos' wordings dated by in-force day (house rule). Open items:
+2033-01-01 (LC 214 art. 543). (SUPERSEDED by the effect-day rule below: LC 214/190 changes now dated by their effect day.) Open items:
 LC 116's list of services and LC 87's struck Anexo not included. Part sha 3c0d6b6c; merged 103 acts, 1974 versions, 1677
 commits, check 0/0, compare identical, audit clean (futuro has the 2033 repeal commit).
 
@@ -103,3 +103,41 @@ Lei 13.874, CBA, Lei 12.288, Lei 1.521, DL 201/1967.
   before it starts' (art. 28 a), art. 50).
 - CPU: the gitlaw-cpu.log five-minute load was above 90 from about 11:52 to 12:04; work waited (one short trial parse and
   the Ato fetches at 12:18, cpu5=91, were started just over the line).
+
+## Effect-day rule (coordinator correction, 2026-10-31) - DONE, then stopped as instructed
+Rule: where an act fixes a later 'produção de efeitos' day for a provision, the change is dated by that day (after
+today -> futuro). Retroactive effects, financial-only effects ('efeitos financeiros') and effects left to a later act,
+regulation, ministerial attestation or event keep the in-force day.
+- Inventory: batch14/.tmp/effects_scan.py (every version credited to a law listed in its part's deferred-effects
+  decision), effects_report.py (each law's articles naming the act + its whole vigência/efeitos article), artsof.py,
+  CF clauses read from corpus.json's decisions. 91 (law, act) pairs + 13 CF amendments reviewed by hand.
+- Engine: scripts/brazil-law/effects_fix.py (post-step over a written part; MOVES table per part with the clause quoted;
+  one-line hunks by difflib + label pairing; a hunk's day from the first matching selector: ALL, units:..., lines_match,
+  dispositivo paths for LC 147, None = never took effect; versions added on effect days, emptied versions dropped,
+  credits moved; later versions reverted until the effect day; idempotent via the 'Effect days (produção de efeitos):'
+  decision; also rewrites the old 'dated by the in-force day' decision wording in every part). Deterministic (two runs
+  identical). Tools: .tmp/effcheck.py <old> <new> (days/units that differ), .tmp/effcount.py.
+- REPRODUCE: the parsers write the pre-fix parts; after regenerating any part in effects_fix.MOVES (or any part, for the
+  decision wording) run `python -X utf8 scripts/brazil-law/effects_fix.py <part>`.
+- Moved (116 unit-moves): CF 10 (EC 58 art. 29-A 1.1.2010; EC 69 28.7.2012; EC 87 1.1.2016; EC 100 and EC 102's
+  non-ADCT 1.1.2020); 50-codes 8 (Lei 14.905 30.8.2024, art. 406 § 2º kept); 90-batch3 3 (LC 91 and Lei 9.532 1.1.1998, LC
+  214 CTN art. 9 1.1.2026); 95-rju 1 (MP 689 1.12.2015); 99-batch5b 3 (Lei 11.196 1.1.2006, Lei 13.327 1.8.2016); 99-batch6
+  4 (LC 157 31.12.2017); 99-batch7 13 (LC 164 1.1.2019, LC 214/224 1.1.2026, Lei 9.249 1.1.1996, MP 517 art. 6 1.1.2011,
+  art. 138 § 3º 22.8.2022, MP 1.040's never); 99-batch10 6 (LPPP art. 6 1.1.2027 futuro, Lei 13.329 1.1.2018, MP 1.063 arts.
+  68-B/C never); 99-batch11 2 (Lei 8.383 1.1.1992, LC 224 1.1.2026); 99-batch14a 12 (LC 115 1.1.2003, LC 120 1.1.2006, LC 190
+  5.4.2022, LC 214 1.1.2026, LC 157 LC 116 art. 8º-A 31.12.2017); 99-batch14e 54 (LC 147 1.1.2015/1.1.2016 by dispositivo,
+  LC 155 1.1.2017/1.1.2018, LC 214 art. 516 1.1.2026).
+- Decision wording only (history byte-identical): 60, 70, 97, 99-batch8, 9, 12, 13a, 13c, 13f, 13g, 14b, 14c.
+- Verified: effcheck shows only the moved units differ and today's text is unchanged except LPPP art. 6 (now 2027);
+  dupline/dupcheck/leakcheck/firstline outputs unchanged except 14a firstline: LC 116 art. 8º-A has only its § 3º from
+  30.12.2016 to 31.12.2017 (the clause names caput and §§ 1º-2º only; kept literal). Merged scratch build 112 acts, 2056
+  versions, 1744 commits, future 5, check.py 0/0, --compare identical, audit_push clean main and futuro. All 25 touched
+  .PUBLISH files (and the folder PUBLISH for CF) have an appended line. README rows (CC 64, S.A. 33, LRF 14, LPPP, LC 116
+  8, LC 123 17), an 'Effect days' note and jurisdiction.json updated.
+- Judgement calls to review: LC 157's one-year period read as ending 30.12.2017 (effects 31.12.2017, Lei 810/1949); LC
+  190's 'observado ... art. 150 III c' read as effects 90 days after publication (5.4.2022); EC 87's 'no ano subsequente e
+  após 90 dias' as 1.1.2016; MP 1.063's 68-B/68-C and MP 1.040's art. 138 § 3º as never in effect (replaced before their
+  effect day); LC 214 art. 517 wordings: none printed on Planalto's LC 123 page (checked line by line), so nothing goes
+  to 2027 there; Decreto 3.995/2001 (120 days for existing companies only) and DL 581/1969 (effect left to a decree) keep
+  the in-force day.
+- 8.212/8.213: to a fresh agent (groundwork above).

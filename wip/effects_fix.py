@@ -519,11 +519,11 @@ def apply_move(act: dict, law: str, day: str, rules, moved: list[str]) -> None:
 
 def run(path: str, out: str | None) -> list[str]:
     name = Path(path).name
-    d = json.loads(Path(path).read_text(encoding="utf-8"))
-    if any(x.startswith(MARK) for x in d["decisions"]) or name not in MOVES:
-        return []
+    raw = Path(path).read_text(encoding="utf-8")
+    d = json.loads(raw)
+    done = any(x.startswith(MARK) for x in d["decisions"])
     moved: list[str] = []
-    for act_slug, law, day, rules, why in MOVES[name]:
+    for act_slug, law, day, rules, why in ([] if done else MOVES.get(name, [])):
         act = next(a for a in d["acts"] if a["slug"] == act_slug)
         if rules == "LC147":
             rules = [(path_sel(LC147_2015, None), "2015-01-01"), (path_sel(LC147_2016, None), "2016-01-01")]
@@ -540,6 +540,12 @@ def run(path: str, out: str | None) -> list[str]:
     d["decisions"] = [x.replace("as for other deferred effects, the wording is dated by the in-force day",
                                 "an effect day left to a later act is not a fixed day, so the wording is dated by the "
                                 "in-force day") for x in d["decisions"]]
+    d["decisions"] = [x.replace("as for other deferred effects, its wording is dated by the in-force day",
+                                "its changes are dated by their effect day (see the effect-days decision)")
+                      for x in d["decisions"]]
+    new_dec = d["decisions"]
+    if not moved and json.loads(raw)["decisions"] == new_dec:
+        return []
     if moved:
         d["decisions"].append(
             MARK + " where an act fixes a later day from which a provision produces effects ('produzindo efeitos a "
