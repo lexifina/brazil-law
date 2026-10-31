@@ -591,6 +591,17 @@ def _inner(*a) -> int:
             "A wording Planalto credits to both the first and the last Medida Provisória of one reissue chain starts with the "
             "first, once its text is found on both MP pages (the reissues kept it in force): "
             + "; ".join(dict.fromkeys(MP_CHAIN_USED)) + ".")
+    eds = sorted({(m.group(1), m.group(3)) for m in (REISSUE_KEY.match(k) for k in a[1]) if m
+                  and (m.group(1), m.group(2), m.group(3)) not in REISSUES})
+    named = [f"{law_label(f'mp-{n}-{y}')} is edition {law_label(f'mp-{n}-{y}').split(' nº ')[1].split(',')[0]}-"
+             f"{pinned_edition(n, y)}" for n, y in eds if f"mp-{n}-{y}" in a[1] and pinned_edition(n, y)]
+    if eds:
+        B5.EXTRA_DECISIONS.append(
+            "Before EC 32/2001 a Medida Provisória was reissued every month as a numbered edition (2.177-43, 2.177-44 ...), "
+            "each a new act with its own DOU day. A note naming an edition is credited to that edition, read on its own "
+            "Planalto page and dated by its own DOU day; the MP's number alone (as in 'Medida Provisória nº 2.177, de 2001') "
+            "stands for the edition whose page is the MP's reference page"
+            + (": " + "; ".join(named) if named else "") + ".")
     if REISSUE_ENDS:
         B5.EXTRA_DECISIONS.append(
             "Before EC 32/2001 a Medida Provisória was reissued as numbered editions, each a new act from its own DOU day; "
