@@ -1113,6 +1113,37 @@ B13.OPEN_ITEMS[_LREURB] = (
     "not part of the history; the rectification published on 6.9.2017 and the consolidated text republished on 8.9.2017 are "
     "read as Planalto prints the Lei (words as corrected); Planalto has no consolidated page for this Lei, so the check "
     "compares the annotated page's present text with itself")
+# part m: Lei 11.977/2009 (Minha Casa, Minha Vida). Hand days set only when the act runs.
+_LMCMV = "lei-minha-casa-minha-vida"
+if any(a["slug"] == _LMCMV for a in ACTS):
+    P.VIGENCIA_FIXED["mp-472-2009"] = (
+        "2009-12-16", "art. 60: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, produzindo efeitos: "
+                      "[...] d) a partir da data de sua publicação, em relação aos demais dispositivos' (DOU 16.12.2009): its "
+                      "art. 46 (Lei 11.977 arts. 6, 11, 13, 20 and 30) falls under I d)")
+    P.VIGENCIA_FIXED["lei-13161-2015"] = (
+        "2015-08-31", "art. 7: 'Esta Lei entra em vigor: I - a partir do primeiro dia do quarto mês subsequente ao de sua "
+                      "publicação quanto aos arts. 1º e 2º; II - na data de sua publicação, quanto aos demais dispositivos' "
+                      "(DOU 31.8.2015): its art. 4 (Lei 11.977 art. 6º-A) falls under II")
+    P.MP_LAPSE["mp-478-2009"] = (
+        "2010-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 18, de 2010 (DOU 15.6.2010): 'teve seu "
+                      "prazo de vigência encerrado no dia 1º de junho do corrente ano'; the wordings it had replaced are back "
+                      "from 2.6.2010")
+    P.MP_PENDING["mp-1382-2026"] = (
+        "published 1.8.2026 (DOU), in force on publication (art. 10); on the retrieval day (31.10.2026) it was neither "
+        "converted nor lapsed (CF art. 62 § 3: 60 days, extendable once by 60, the count suspended in the July recess), so its "
+        "wordings and revocations of Lei 11.977 (art. 6: arts. 8º-A, 20, 26; art. 9 I: art. 20 I to IV and §§ 1º and 1º-A, "
+        "arts. 21, 27, 27-A, 28, 30 and 30-A) stand open")
+    P.MP_PENDING["mp-1350-2026"] = (
+        "published 15.4.2026 (DOU), in force on publication; its art. 1 gave Lei 11.977 art. 20 IV a new wording. Medida "
+        "Provisória 1.382/2026 (1.8.2026, pending) revoked art. 20 IV (art. 9 I a) 1) and revoked Medida Provisória 1.350 "
+        "itself (art. 9 II) before its term ran out, so the wording stands from 15.4.2026 to 1.8.2026 and its later fate "
+        "changes no words of Lei 11.977")
+    for _n in ("Redação dada", "Incluído"):
+        P.NOTE_FIX[f"({_n} pela Mediada Provisória nº 561, de 2012)"] = (
+            f"({_n} pela Medida Provisória nº 561, de 2012)",
+            "Lei 11.977: notes read 'Mediada Provisória nº 561, de 2012'; their links go to Medida Provisória 561/2012 "
+            "(_Ato2011-2014/2012/Mpv/561.htm)")
+
 # Lei 9.430 arts. 18 to 22: the headings above them (Seção V 'Preços de Transferência' and the article headings) are struck
 # with no note; they fall with the articles, revoked by Lei 14.596/2023 (the 'heads' rule would end each with the first
 # change of the article under it)
