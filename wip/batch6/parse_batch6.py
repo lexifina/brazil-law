@@ -337,6 +337,17 @@ def _inner(*a) -> int:
 
 PB5B._write_part5 = _inner
 _outer5 = B5.write_part
+# Chamber of Deputies records the hand tables cite (pinned as ctx:* in sources_batch6.json), listed as a source when an
+# act that relies on them is in the part
+CONTEXT = [
+    {"when": lambda: any(a["law"] == "lei-9605-1998" for a in ACTS),
+     "pins": ["ctx:camara-lei-9605-1998-norma", "ctx:camara-lei-9605-1998-retificacao", "ctx:camara-ad-20-11-2002"],
+     "what": "the record and the retificação (DOU 17.2.1998) of Lei 9.605/1998, and the Ato Declaratório of 20.11.2002 "
+             "declaring Medida Provisória nº 62, de 2002 prejudicada"},
+    {"when": lambda: any(a["law"] == "lei-9784-1999" for a in ACTS),
+     "pins": ["ctx:camara-lei-9784-1999-norma", "ctx:camara-lei-9784-1999-retificacao"],
+     "what": "the record and the retificação (DOU 11.3.1999) of Lei 9.784/1999"},
+]
 
 
 def write_part(*a) -> int:
@@ -352,6 +363,15 @@ def write_part(*a) -> int:
             if act["consolidated"] != act["page"] and act["slug"] in d and no_page in d:
                 d = d.replace(no_page, f"Planalto's consolidated page ({PAGES[act['consolidated']].rsplit('/', 1)[-1]})")
         part["decisions"][i] = d
+    ctx = [c for c in CONTEXT if c["when"]()]
+    if ctx:
+        part["sources"].append({
+            "name": "Câmara dos Deputados, Legislação Informatizada: records of the publication of some acts",
+            "url": "https://www2.camara.leg.br/legin/fed/", "retrieved": "2026-10-31",
+            "requests": sum(len(c["pins"]) for c in ctx),
+            "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
+            "notes": "Read only for facts about publication, never for law text: " + "; ".join(c["what"] for c in ctx)
+                     + ". Each page is pinned to a dated capture in batch6/sources_batch6.json (ids ctx:...)."})
     tmp = B5.OUT.with_suffix(".json.tmp")
     tmp.write_text(_json.dumps(part, ensure_ascii=False, indent=None, separators=(",", ":")) + "\n", encoding="utf-8",
                    newline="\n")
