@@ -289,6 +289,60 @@ P.VIGENCIA_PROVISION.update({
         "2014-05-01", "Lei 12.873/2013 art. 63 I: 'no 1º (primeiro) dia do sétimo mês subsequente à data de sua publicação, em "
                       "relação ao art. 32-C da Lei nº 8.212' (DOU 25.10.2013): 1.5.2014"),
 })
+# ---- Lei 8.213 (part b)
+_MP664 = ("art. 5: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação para os seguintes dispositivos: a) §§ 5º "
+          "e 6º do art. 60 e § 1º do art. 74 da Lei nº 8.213, de 1991; e b) arts. 2º, 4º e alíneas \"a\" e \"d\" do inciso II "
+          "do art. 6º desta Medida Provisória [the revocations of art. 17 § 2º and art. 151]; II - quinze dias a partir da sua "
+          "publicação para o § 2º do art. 74 da Lei nº 8.213, de 1991; e III - no primeiro dia do terceiro mês subseqüente à "
+          "data de publicação desta Medida Provisória quanto aos demais dispositivos' (DOU 30.12.2014)")
+P.VIGENCIA_FIXED.update({
+    "lei-10877-2004": ("2004-06-07", "art. 3: 'Esta Lei entra em vigor na data da sua publicação' (DOU 7.6.2004; the page "
+                                     "breaks the clause after 'publi', so it is set here)"),
+    "mp-664-2014": ("2015-03-01", _MP664 + ": its other changes to Lei 8.213 fall under III, 1.3.2015; I and II by "
+                                           "provision"),
+    "lei-13135-2015": ("2015-06-18", "art. 6: 'Esta Lei entra em vigor em: I - 180 (cento e oitenta) dias a partir de sua "
+                                     "publicação, quanto à inclusão de pessoas com deficiência grave entre os dependentes dos "
+                                     "segurados do [RGPS] e do [RPPS] previstos na Lei nº 8.112 [...]; II - 2 (dois) anos para a "
+                                     "nova redação: a) do art. 16, incisos I e III, e do art. 77, § 2º, inciso IV, da Lei nº "
+                                     "8.213 [...], em relação às pessoas com deficiência intelectual ou mental; [...] III - na "
+                                     "data de sua publicação, para os demais dispositivos' (DOU 18.6.2015); II by provision"),
+    "lei-13876-2019": ("2019-09-23", "art. 5: 'Esta Lei entra em vigor: I - quanto ao art. 3º, a partir do dia 1º de janeiro "
+                                     "de 2020; II - quanto aos demais dispositivos, na data de sua publicação' (DOU 23.9.2019): "
+                                     "its change to Lei 8.213 (art. 4, art. 126) falls under II"),
+    "mp-1355-2026": ("2026-05-04", "art. 27: 'Esta Medida Provisória entra em vigor: I - quinze dias após a data de sua "
+                                   "publicação, quanto aos art. 19 e art. 23; e II - na data de sua publicação, quanto aos "
+                                   "demais dispositivos' (DOU 4.5.2026, edição extra): its change to Lei 8.213 (art. 22, art. "
+                                   "115) falls under II"),
+})
+P.VIGENCIA_PROVISION.update({
+    **{("mp-664-2014", _BN, u): ("2014-12-30", "Medida Provisória 664/2014 " + _MP664 + ": on publication for "
+                                 + what) for u, what in (("art-017", "the revocation of art. 17 § 2º (art. 6 II a)"),
+                                                         ("art-151", "the revocation of art. 151 (art. 6 II d)"))},
+    ("lei-12873-2013", _BN, "art-071-b"): ("2014-01-23", "Lei 12.873/2013 art. 63 II: '90 (noventa) dias após a data de sua "
+                                                         "publicação, em relação: a) aos arts. 71-B e 71-C da Lei nº 8.213' "
+                                                         "(DOU 25.10.2013 + 90 days)"),
+    ("lei-12873-2013", _BN, "art-071-c"): ("2014-01-23", "Lei 12.873/2013 art. 63 II (as for art. 71-B)"),
+    ("lei-13183-2015", _BN, "art-016"): ("2016-01-03", "Lei 13.183/2015 art. 8 I: 'em 3 de janeiro de 2016, quanto à redação "
+                                                       "do art. 16 [...] da Lei nº 8.213'"),
+})
+P.MP_LAPSE.update({
+    "mp-739-2016": ("2016-11-05", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 58, de 2016 (DOU "
+                                  "8.11.2016): 'teve seu prazo de vigência encerrado no dia 4 de novembro'"),
+    "mp-891-2019": ("2019-12-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 67, de 2019 (DOU "
+                                  "5.12.2019): 'teve seu prazo de vigência encerrado no dia 3 de dezembro'"),
+    "mp-1355-2026": ("2026-09-01", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 89, de 2026 (DOU "
+                                   "8.9.2026): 'teve seu prazo de vigência encerrado no dia 31 de agosto de 2026'"),
+})
+P.NOTE_FIX.update({
+    "(Redação dada pela MPv nº 404, de 2007)": ("(Redação dada pela Medida Provisória nº 404, de 2007)",
+                                                "Lei 8.213: notes read 'MPv nº 404' for Medida Provisória nº 404"),
+    "(Incluído pela MPv nº 404, de 2007)": ("(Incluído pela Medida Provisória nº 404, de 2007)",
+                                            "Lei 8.213: notes read 'MPv nº 404' for Medida Provisória nº 404"),
+    "(Redação dada pela Lei nº 11,718, de 2008)": ("(Redação dada pela Lei nº 11.718, de 2008)",
+                                                   "Lei 8.213: notes read 'Lei nº 11,718' (comma) for Lei nº 11.718"),
+    "(Incluído pela Lei nº 11,718, de 2008)": ("(Incluído pela Lei nº 11.718, de 2008)",
+                                               "Lei 8.213: notes read 'Lei nº 11,718' (comma) for Lei nº 11.718"),
+})
 P.VIGENCIA_FIXED["lei-11098-2005"] = (
     "2005-01-14", "art. 14: 'Esta Lei entra em vigor: I - a partir da data de publicação do ato referido no inciso I do art. "
                   "8º, para os arts. 1º, 2º, 3º e 4º; e II - a partir de 5 de outubro de 2004, para os demais artigos' (DOU "
