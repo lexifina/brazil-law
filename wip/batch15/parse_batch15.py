@@ -482,6 +482,9 @@ def paragraphs(html, digits):
                     p["unit"], p["label"] = prev["unit"], ""
                     CELLS_BACK.append(f"{page} {p['unit']}")
     out[:] = [p for p in out if p["text"] or p["notes"] or p.get("label") not in ("", "rubrica")]
+    for p in out:   # a cell of a struck table whose unstruck part is only spacing (Lei 8.213 art. 77, MP 664's table)
+        if p["state"] == "mixed" and not (p.get("plain_text") or "").strip(" -–"):
+            p["state"] = "struck"
     # 'Art. 22A.', 'Art. 22B.', 'Art. 25A.' (Leis 10.256/2001, 10.666/2003: Planalto prints the letter without a hyphen):
     # the shared reader keeps them in the files of arts. 22 and 25; each is its own article (art-022-a, ...)
     cur = None
@@ -714,6 +717,40 @@ B8.SPAN_FIX += [
      "Lei 8.213 art. 106 I (Lei 11.718/2008's wording): Planalto strikes it with a style but gives no revocation note, and "
      "its consolidated page prints it as in force under Lei 13.846/2019's caput; it is kept"),
 ]
+_NOTEIN = ("typesetting: the consolidated page keeps old amendment notes inside the text ('(Parágrafo acrescentado pela Lei "
+           "nº 9.528, de 10.12.97).', '(Alínea acrescentada pela Lei nº 8.647, de 13.4.93)'), which the annotated page sets "
+           "as notes")
+B.EXPLAINED[_C] = {
+    "art-012": _NOTEIN + "; it also prints the revoked incisos III and IV as bare labels ('III -.') and a stray period "
+                         "after '§ 11 do art. 25 desta Lei; e'",
+    "art-020": _NOTEIN, "art-030": _NOTEIN,
+    "art-022": _NOTEIN + "; it prints the suspended inciso IV (Resolução do Senado Federal nº 10, de 2016) as a bare 'IV' "
+                         "label, which the history leaves out from 31.3.2016",
+    "art-097": _NOTEIN + "; '§ 2º (VETADO na Lei nº 9.528, de 10.12.97)' for the annotated page's '§ 2º (VETADO)'",
+    "art-028": "typesetting: the consolidated page prints the revoked alínea c) as a bare label 'c).'",
+    "art-032-a": "typesetting: Planalto prints '§ 3º II' as 'II – R$ 500,00 [...]' with the dash struck (annotated page) and "
+                 "as 'II R$ 500,00 [...] casos..' (consolidated page); the history keeps 'II - R$ 500,00 [...] casos.'",
+    "art-047": "the consolidated page misprints 'a verbação' (annotated: 'a averbação') and keeps a footnote number ('19')",
+    "art-056": "typesetting: the annotated page prints '§ 1º (Revogado pela Medida Provisória nº 2187-13, de 2001). "
+               "(Renumerado do parágrafo único e Incluído pela Lei nº 12.810, de 2013)', kept as the label '§ 1º.'; the "
+               "consolidated page's revocation-note line is read as a revoked placeholder",
+    "art-093": "typesetting: the consolidated page prints 'Art. 93. (Revogado o caput pela Lei nº 9.639, de 25.5.98.)'; the "
+               "annotated page strikes both wordings of the caput and the parágrafo único (revoked by Lei 11.941/2009), so "
+               "the article is not in today's text",
+    "titulos": "typesetting: the consolidated page sets the Capítulo VI name in capitals ('DA CONTRIBUIÇÃO DO PRODUTOR RURAL E "
+               "DO PESCADOR') with the note '(Alterado pela Lei nº 8.398, de 7.1.92)' as a line; the annotated page's "
+               "heading (misprint 'Pescado}' corrected) is used",
+}
+B.EXPLAINED[_BN] = {
+    "art-071-c": "the consolidated page drops the closing period ('... sob pena de suspensão do benefício'), which the "
+                 "annotated page prints",
+    "art-115": "the consolidated page (captured 15.10.2026) is out of date: it still prints Medida Provisória 1.355/2026's "
+               "wording of inciso VI ('[...] observados os limites [...]'), which lost effect on 1.9.2026 (Ato Declaratório "
+               "nº 89, de 2026), and lacks Lei 15.327/2026's change to inciso V; the annotated page has both",
+    "art-124-g": "the consolidated page is out of date: it lacks art. 124-G (Lei 15.327/2026, DOU 7.1.2026), which the "
+                 "annotated page prints",
+    "art-011": "the consolidated page (out of date) prints only one inciso VI of § 8º; see the decision on Lei 15.072/2024",
+}
 TEXT_FIX.append(("l8213", "a das demais deve ser comprovada$", "a das demais deve ser comprovada.",
                  "Lei 8.213 art. 16 § 4º: the annotated page drops the closing period, which the consolidated page prints"))
 # heading lines (B8.SPAN_FIX leaves headings alone): act -> [(text, fields, why)]
