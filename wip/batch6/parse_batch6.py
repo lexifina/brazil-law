@@ -234,28 +234,70 @@ def note_laws(paras: list[dict]) -> set[str]:
     return out
 
 
+# A wording Planalto credits to the first and the last MP of one reissue chain ('Redação dada pela Medida Provisória nº
+# 1.337, de 1996' and '... nº 1.472-31, de 1996'): parse_proc starts it with the later MP. Where the wording is printed
+# in the first MP's own page too, it starts with the first MP (the chain kept it in force; CF art. 62 before EC 32/2001
+# let a reissued MP carry its text on). (first, last) MP keys; the check reads both pages.
+MP_CHAINS: set[tuple[str, str]] = {("mp-1337-1996", "mp-1472-1996"), ("mp-1984-2000", "mp-2180-2001")}
+MP_CHAIN_USED: list[str] = []
+_PAGE_TEXT: dict[str, str] = {}
+
+
+def _alnum(s: str) -> str:
+    return re.sub(r"[^0-9a-zà-ÿ]", "", s.lower())
+
+
+def page_has(key: str, text: str) -> bool:
+    if key not in _PAGE_TEXT:
+        r = P.raw("law:" + key)
+        _PAGE_TEXT[key] = _alnum(P.htmlmod.unescape(re.sub(r"<[^>]+>", " ", P.decode(r[0])))) if r else ""
+    body = _alnum(text[len(text.split(" ", 2)[0]):])[:80] if text else ""
+    return bool(body) and body[5:] in _PAGE_TEXT[key]
+
+
 def lifespans(paras: list[dict], cx) -> list[str]:
+    problems: list[str] = []
     for p in paras:
         for (act, unit, label, start), why in NEVER_IN_FORCE.items():
             if cx.act == act and p["unit"] == unit and p["label"] == label and p["text"].startswith(start) and p["state"] != "plain":
                 p["never"] = why
-    problems = _lifespans6(paras, cx)
-    for p in paras:
-        if p.get("never"):
-            p["skip"], p["end"], p["end_law"], p["end_how"], p["gaps"] = True, p["start"], p["start_law"], "never-in-force", []
-            NEVER_USED.append((p["never"], f"{cx.act} {p['unit']} [{p['label']}] {p['text'][:60]!r}"))
-            continue
-        for n in p["notes"]:
+        keys = {law_key(n): n for n in p["notes"] if P.START_KIND.search(n) and law_key(n)}
+        for first, last in MP_CHAINS:
+            if first in keys and last in keys:
+                if page_has(first, p["text"]) and page_has(last, p["text"]):
+                    p["notes"] = [n for n in p["notes"] if n != keys[last]]
+                    MP_CHAIN_USED.append(f"{cx.act} {p['unit']} [{p['label']}] from {P.law_label(first)} (also printed in "
+                                         f"{P.law_label(last)})")
+                else:
+                    problems.append(f"MP chain {first}/{last}: wording not on both pages: {p['unit']} [{p['label']}]")
+        for i, n in enumerate(p["notes"]):
             m = WITH_WORDING.search(n)
             if not m:
                 continue
             x, y = law_key(m.group(1)), law_key(m.group(2))
-            if x and y and x in cx.eff and y in cx.eff:
-                p["start"], p["start_law"] = max(cx.eff[x], cx.eff[y]), y
-                WITH_WORDING_USED.append(f"{cx.act} {p['unit']} [{p['label']}] ({P.law_label(x)}, wording {P.law_label(y)}, "
-                                         f"from {p['start']})")
-            elif x and y:
+            if not (x and y and x in cx.eff and y in cx.eff):
                 problems.append(f"no in-force day for {x} or {y} (note {n!r})")
+                continue
+            p["notes"][i] = f"(Redação dada pela {P.law_label(y)})"
+            p["with_wording"] = True
+            day = max(cx.eff[x], cx.eff[y])
+            if day != cx.eff[y]:
+                k = (y, cx.act, p["unit"])
+                if P.VIGENCIA_PROVISION.get(k, (day,))[0] != day:
+                    problems.append(f"two in-force days for {y} in {cx.act} {p['unit']}")
+                P.VIGENCIA_PROVISION[k] = (day, f"inserted by {P.law_label(x)} (in force {cx.eff[x]})")
+                other = [q for q in paras if q["unit"] == p["unit"] and q is not p and not q.get("with_wording")
+                         and not any(WITH_WORDING.search(z) for z in q["notes"])
+                         and any(law_key(z) == y for z in q["notes"])]
+                if other:
+                    problems.append(f"{y} also named by other notes in {cx.act} {p['unit']}: its day would move")
+            WITH_WORDING_USED.append(f"{cx.act} {p['unit']} [{p['label']}] ({P.law_label(x)}, wording {P.law_label(y)}, "
+                                     f"from {day})")
+    problems += _lifespans6(paras, cx)
+    for p in paras:
+        if p.get("never"):
+            p["skip"], p["end"], p["end_law"], p["end_how"], p["gaps"] = True, p["start"], p["start_law"], "never-in-force", []
+            NEVER_USED.append((p["never"], f"{cx.act} {p['unit']} [{p['label']}] {p['text'][:60]!r}"))
     return problems
 
 
@@ -279,6 +321,11 @@ def _inner(*a) -> int:
         B5.EXTRA_DECISIONS.append(
             "A dispositivo noted '(Incluído pela Lei X, com a redação dada pela Lei Y)' is credited to Y, the law that wrote "
             "its words, from the later of the two laws' in-force days: " + "; ".join(dict.fromkeys(WITH_WORDING_USED)) + ".")
+    if MP_CHAIN_USED:
+        B5.EXTRA_DECISIONS.append(
+            "A wording Planalto credits to both the first and the last Medida Provisória of one reissue chain starts with the "
+            "first, once its text is found on both MP pages (the reissues kept it in force): "
+            + "; ".join(dict.fromkeys(MP_CHAIN_USED)) + ".")
     if NEVER_USED:
         for code, why in NEVER_WHY.items():
             used = [u for c, u in NEVER_USED if c == code]
