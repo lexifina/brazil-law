@@ -1,0 +1,114 @@
+{
+ "fetch": [
+  {
+   "id": "ato:adc-58-2016-mpv739",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Congresso/adc-058-mpv739.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261017031855",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170348936.54/warc/CC-MAIN-20261017020029-20261017050029-00431.warc.gz",
+    "offset": "41217929",
+    "length": "2257"
+   }
+  },
+  {
+   "id": "ato:adc-67-2019-mpv891",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Congresso/adc-67-mpv891.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-34",
+    "timestamp": "20260812052314",
+    "filename": "crawl-data/CC-MAIN-2026-34/segments/1786091385452.6/warc/CC-MAIN-20260812044543-20260812074543-00314.warc.gz",
+    "offset": "53508735",
+    "length": "2340"
+   }
+  },
+  {
+   "id": "ato:adc-89-2026-mpv1355",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/congresso/adc-89-mpv1.355.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261012064438",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054665.41/warc/CC-MAIN-20261012052001-20261012082001-00744.warc.gz",
+    "offset": "840969436",
+    "length": "2586"
+   }
+  },
+  {
+   "id": "ctx:dec-5256-2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Decreto/D5256.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-25",
+    "timestamp": "20260613002843",
+    "filename": "crawl-data/CC-MAIN-2026-25/segments/1780687572800.0/warc/CC-MAIN-20260612225810-20260613015810-00123.warc.gz",
+    "offset": "329206937",
+    "length": "16721"
+   }
+  },
+  {
+   "id": "ctx:l8212-original",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L8212orig.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260916005115",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492997931.94/warc/CC-MAIN-20260915233002-20260916023002-00956.warc.gz",
+    "offset": "387453947",
+    "length": "37278"
+   }
+  },
+  {
+   "id": "ctx:rsf-10-2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Congresso/RSF%2010.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261014192540",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170055310.3/warc/CC-MAIN-20261014184637-20261014214637-00443.warc.gz",
+    "offset": "36657501",
+    "length": "2558"
+   }
+  },
+  {
+   "id": "ctx:rsf-15-2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Congresso/RSF15.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260912053038",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492700105.72/warc/CC-MAIN-20260912040413-20260912070413-00987.warc.gz",
+    "offset": "11037835",
+    "length": "2836"
+   }
+  },
+  {
+   "id": "ctx:rsf-26-2005",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Congresso/ResSF26-05.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-34",
+    "timestamp": "20260818174347",
+    "filename": "crawl-data/CC-MAIN-2026-34/segments/1786091678506.74/warc/CC-MAIN-20260818162855-20260818192855-00007.warc.gz",
+    "offset": "20216565",
+    "length": "2522"
+   }
+  },
+  {
+   "id": "law:mp-222-2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Mpv/222.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260906093022",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492699655.55/warc/CC-MAIN-20260906075737-20260906105737-00207.warc.gz",
+    "offset": "20254115",
+    "length": "6833"
+   }
+  },
+  {
+   "id": "law:mp-404-2007",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Mpv/404.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261008045923",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054273.70/warc/CC-MAIN-20261008030835-20261008060835-00384.warc.gz",
+    "offset": "805899405",
+    "length": "4016"
+   }
+  }
+ ]
+}
