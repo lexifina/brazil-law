@@ -670,7 +670,7 @@ if _C in ENABLED:
 _W664 = ("Lei 8.213: Medida Provisória 664/2014 (DOU 30.12.2014) put its changes in force on three days (art. 5): art. 60 "
          "§§ 5º-6º and art. 74 § 1º on publication (30.12.2014), art. 74 § 2º fifteen days after it (14.1.2015), the rest on "
          "1.3.2015; all of them ended with its conversion into Lei 13.135/2015 (18.6.2015)")
-_PUB664 = {"start": "2014-12-30", "start_law": "mp-664-2014"}
+_PUB664 = {"start": "2014-12-30", "start_law": "mp-664-2014", "by_provision": True}
 _W13135 = ("Lei 8.213: Lei 13.135/2015 art. 6 II gave '2 (dois) anos' (to 19.6.2017) to 'a nova redação: a) do art. 16, "
            "incisos I e III, e do art. 77, § 2º, inciso IV [...] em relação às pessoas com deficiência intelectual ou mental'. "
            "Art. 77 § 2º IV (its wording, still in force) starts on 19.6.2017; its wording of art. 16 III was replaced by Lei "
@@ -685,7 +685,7 @@ B8.SPAN_FIX += [
         ("§ 5º", "§ 5º O INSS a seu critério"), ("I -", "I - por convênio ou acordo de cooperação técnica"),
         ("II -", "II - por termo de cooperação técnica"), ("§ 6º", "§ 6º Não será devido auxílio-doença")]],
     ((_BN, "art-074", "§ 1º", "§ 1º Não terá direito à pensão por morte o condenado", 0), _PUB664, _W664),
-    *[((_BN, "art-074", lab, pre, 0), {"start": "2015-01-14", "start_law": "mp-664-2014"}, _W664) for lab, pre in [
+    *[((_BN, "art-074", lab, pre, 0), {"start": "2015-01-14", "start_law": "mp-664-2014", "by_provision": True}, _W664) for lab, pre in [
         ("§ 2º", "§ 2º O cônjuge, companheiro ou companheira não terá direito"),
         ("I -", "I - o óbito do segurado seja decorrente de acidente"), ("II -", "II - o cônjuge, o companheiro ou a companheira for considerado incapa")]],
     ((_BN, "art-077", "IV -", "IV - para filho ou irmão que tenha deficiência intelectual", 0),
@@ -751,6 +751,15 @@ B.EXPLAINED[_BN] = {
                  "annotated page prints",
     "art-011": "the consolidated page (out of date) prints only one inciso VI of § 8º; see the decision on Lei 15.072/2024",
 }
+_anachronisms15 = P.anachronisms
+
+
+def anachronisms(paras, cx):
+    """lines dated by hand from a provision's own in-force day (MP 664/2014 art. 5 I and II) are not early"""
+    return _anachronisms15([p for p in paras if not p.get("by_provision")], cx)
+
+
+P.anachronisms = anachronisms
 TEXT_FIX.append(("l8213", "a das demais deve ser comprovada$", "a das demais deve ser comprovada.",
                  "Lei 8.213 art. 16 § 4º: the annotated page drops the closing period, which the consolidated page prints"))
 # heading lines (B8.SPAN_FIX leaves headings alone): act -> [(text, fields, why)]
