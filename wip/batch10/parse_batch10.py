@@ -99,8 +99,8 @@ _PUB = "'Esta Lei entra em vigor na data de sua publicação'"
 ACT_DAY_ALL: dict[str, tuple[str, str]] = {
     "lei-8987-1995": ("1995-02-14", f"Lei 8.987/1995 art. 46: {_PUB} (DOU 14.2.1995)"),
     "lei-11079-2004": ("2004-12-31", f"Lei 11.079/2004 art. 30: {_PUB} (DOU 31.12.2004)"),
-    "lei-11445-2007": ("2007-01-08", "Lei 11.445/2007 art. 60 (as enacted): 'Esta Lei entra em vigor na data de sua "
-                                     "publicação' (DOU 8.1.2007)"),
+    "lei-11445-2007": ("2007-02-22", "Lei 11.445/2007 has no vigência clause (its art. 59 was vetoed; art. 60 revokes Lei "
+                                     "6.528/1978): LINDB art. 1, 45 days after publication in the DOU of 8.1.2007"),
     "lei-9478-1997": ("1997-08-07", f"Lei 9.478/1997 art. 82: {_PUB} (DOU 7.8.1997)"),
     "lei-13869-2019": ("2020-01-03", "Lei 13.869/2019 art. 45: 'Esta Lei entra em vigor após decorridos 120 (cento e vinte) "
                                      "dias de sua publicação oficial' (DOU 5.9.2019, edição extra): the 120th day counted "
@@ -173,6 +173,7 @@ B9.REPEALS.clear()
 B9.FOLD_EARLY.clear()
 P.COURTS = {}
 P.NOTE_FIX = {}
+P.PUBLISHED_FIXED.pop("mp-75-2002", None)   # batch 9's (Código de Trânsito); every entry left there is printed
 
 # ---------------------------------------------------------------------------------------------------------------
 # hand tables for these acts, each read from the official pages named in the reason
