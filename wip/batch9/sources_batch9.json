@@ -1,6 +1,28 @@
 {
  "fetch": [
   {
+   "id": "ato:adc-36-2020-mpv910",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Congresso/adc-36-mpv910.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261007221712",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054242.5/warc/CC-MAIN-20261007210144-20261008000144-00718.warc.gz",
+    "offset": "44504611",
+    "length": "2609"
+   }
+  },
+  {
+   "id": "ato:adc-6-2020-mpv896",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Congresso/adc-6-mpv896.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260908125346",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492699802.46/warc/CC-MAIN-20260908114048-20260908144048-00081.warc.gz",
+    "offset": "785862961",
+    "length": "2259"
+   }
+  },
+  {
    "id": "ato:adc-67-2025",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2025/Congresso/adc-67-mpv1.303.htm",
    "cc": {
@@ -32,6 +54,15 @@
     "offset": "33384083",
     "length": "117386"
    }
+  },
+  {
+   "id": "l8666-2023",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm",
+   "pt": {
+    "timestamp": "20231120085131",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm"
+   },
+   "via": "arquivo.pt"
   },
   {
    "id": "law:lc-141-2012",
@@ -196,6 +227,17 @@
     "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492998095.91/warc/CC-MAIN-20260916023440-20260916053440-00336.warc.gz",
     "offset": "14422426",
     "length": "3847"
+   }
+  },
+  {
+   "id": "law:lei-10973-2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.973.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261011082939",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054573.27/warc/CC-MAIN-20261011074633-20261011104633-00107.warc.gz",
+    "offset": "45769578",
+    "length": "22053"
    }
   },
   {
@@ -493,6 +535,17 @@
     "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170349983.58/warc/CC-MAIN-20261017142238-20261017172238-00341.warc.gz",
     "offset": "754961314",
     "length": "3535"
+   }
+  },
+  {
+   "id": "law:lei-12188-2010",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12188.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260914182610",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492991828.95/warc/CC-MAIN-20260914170406-20260914200406-00884.warc.gz",
+    "offset": "361924970",
+    "length": "9230"
    }
   },
   {

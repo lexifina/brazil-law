@@ -117,3 +117,6 @@ re-verified and PUBLISHed; 10 CLT units stay open (in its decisions). Older part
 hand) plus Crimes Hediondos, LINDB, Organizações Criminosas, Propriedade Industrial, Direitos Autorais, Estatuto da
 Juventude, Lei Geral do Turismo, Estatuto da Pessoa com Deficiência: 10 acts, 109 versions; merged scratch build 43 acts,
 1158 versions, check 0/0, --compare identical. Lei da Ação Civil Pública deferred. Details: batch8/PROGRESS.md.
+99-batch9 PUBLISHed ~05:00Z: LDB, Lei Orgânica da Saúde, Lei das Eleições (130 versions); merged scratch build 46 acts,
+1288 versions, check 0/0, --compare identical. CTB, Código Florestal, Registros Públicos, Lei 8.666 configured in batch9
+but deferred (reasons in batch9/PROGRESS.md).

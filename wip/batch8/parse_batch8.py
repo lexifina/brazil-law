@@ -467,6 +467,10 @@ def lifespans(paras: list[dict], cx) -> list[str]:
     left_out = {f"{p['unit']} [{p['label']}] {p['start']}" for p in paras if p.get("pinned") and p.get("skip")}
     problems = [x for x in problems if not (x.startswith("ends before it starts: ")
                                             and x[len("ends before it starts: "):].split("..")[0] in left_out)]
+    # ... and so is a 'restored wording after an open one' problem on a dispositivo whose wordings are set here by hand
+    pinned = {f"{p['unit']} [{p['label']}]" for p in paras if p.get("pinned")}
+    problems = [x for x in problems if not (x.startswith("restored wording after an open one: ")
+                                            and x[len("restored wording after an open one: "):].split(" '")[0] in pinned)]
     problems += [f"span fix not matched: {x}" for x in SPAN_MISSED if x.split()[0] == cx.act]
     return problems
 
@@ -515,6 +519,8 @@ def build_act(paras, act_day, gate, gate_law, unit_label):
 P.build_act = B.build_act = build_act
 
 _write_part8 = P.write_part
+# law record fields a page prints wrongly: key -> (fields, why); applied to the part's laws when written
+LAW_FIELD_FIX: dict[str, tuple[dict, str]] = {}
 EXTRA_LAWS: dict[str, dict] = {
     "mp-390-2007": {"label": "Medida Provisória nº 390, de 2007", "kind": "law",
                     "title": "Revoga a Medida Provisória nº 379, de 28 de junho de 2007, que altera dispositivos da Lei nº "
@@ -537,6 +543,10 @@ def write_part(*a) -> int:
     for k, rec in EXTRA_LAWS.items():
         if k in used and k not in part["laws"]:
             part["laws"][k] = dict(rec)
+    for k, (fields, why) in LAW_FIELD_FIX.items():
+        if k in part["laws"]:
+            part["laws"][k].update(fields)
+            part["decisions"].append(why + ".")
     part["laws"] = dict(sorted(part["laws"].items()))
     # the MP pages' 'Texto para impressão' link is read into the ementa by page_info: dropped here
     for rec in part["laws"].values():
