@@ -1030,10 +1030,14 @@ def _inner(*a):
                    "Congresso Nacional)', '(Parágrafo vetado e mantido ...)') were promulgated by the President "
                    "(Mensagem nº 928, de 19.8.1997: 'acabo de promulgá-los'; DOU 20.8.1997) and start that day, credited "
                    "to Lei 9.263: " + ", ".join(VETO_KEPT_USED) + ".")
-    if BARE_TEXT_USED:
+    if any(x.startswith("l9430") for x in BARE_TEXT_USED):
+        dec.append("Lei 9.430 art. 88 XXV ends '[...] o art. 89 da Lei nº 8.981, de 20 de janeiro de 1995, com a redação dada "
+                   "pela Lei nº 9.065, de 20 de junho de 1995;': these words name the wording of the article it revokes; they are "
+                   "part of the text, not an amendment note (l9430 art-88).")
+    if any(not x.startswith("l9430") for x in BARE_TEXT_USED):
         dec.append("Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº [...]' (Decretos-"
                    "Leis 2.449/1988 and 1.730/1979): these words name the wording of the other act the article refers to; they "
-                   "are part of the article's text, not an amendment note (" + ", ".join(BARE_TEXT_USED) + ").")
+                   "are part of the article's text, not an amendment note (" + ", ".join(x for x in BARE_TEXT_USED if not x.startswith("l9430")) + ").")
     if QUOTE_DROPPED:
         dec.append("Lei 9.249 art. 9: the caput as Medida Provisória 694/2015 worded it (1.1.2016 to its lapse on 8.3.2016) is "
                    "printed after the opening quotation mark of the MP's quoted text; the mark is left out.")
