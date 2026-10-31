@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 16: 99-batch16a CBA, 16b FGTS, 16c Lei 4.320 PUBLISHed)
+CHECKPOINTED 2026-10-31 (batch 16: 99-batch16a CBA, 16b FGTS, 16c Lei 4.320, 16d Tortura/Genocídio/MI/HD, 16e Índio/Cooperativas/Reforma Agrária PUBLISHed)
 
 # gitlaw-BR progress (Brazil)
 
@@ -166,3 +166,5 @@ Batch 15 (2026-10-31): 99-batch15a (Lei 8.212/1991, 114 versions) and 99-batch15
 Batch 16 (2026-10-31): 99-batch16a PUBLISHed: Código Brasileiro de Aeronáutica (Lei 7.565/1986, 19 versions; MP 1.089/2021 -> Lei 14.368/2022 conversion-child rule, MP 714/2016 vetoed changes, MP 1.240/2024 lapse); merged 115 acts, 2284 versions, 1876 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (115 acts). Details: batch16/PROGRESS.md.
 99-batch16b PUBLISHed: Lei do FGTS (Lei 8.036/1990, 51 versions; MP 905/955 model, Lei 13.932/2019 staged clauses by provision, MP 2.216-37 art. 3 wording, MP 1.336/2026 lapse); merged 116 acts, 2335 versions, 1909 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (116 acts).
 99-batch16c PUBLISHed: Lei 4.320/1964 (6 versions; 'Artigo NN.' labels, veto-override notes, scheme lines, DL 1.939/1982 effect day 1.1.1983 via a new effects_fix MOVES entry); 99-batch16a re-PUBLISHed (decision text fix). Merged 117 acts, 2341 versions, 1914 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (117 acts).
+99-batch16d PUBLISHed: Lei de Tortura, Lei do Genocídio, Lei do Mandado de Injunção, Lei do Habeas Data (6 versions); merged 121 acts, 2347 versions, 1918 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (121 acts).
+99-batch16e PUBLISHed: Estatuto do Índio, Lei das Cooperativas, Lei da Reforma Agrária (22 versions); merged 124 acts, 2369 versions, 1930 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (124 acts).

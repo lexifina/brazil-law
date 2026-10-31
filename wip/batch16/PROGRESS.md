@@ -72,7 +72,23 @@ Lei 4.320/1964, 6 versions 1964-05-07 .. 2024-07-03 (l4320.htm vs l4320compilado
 - Part sha 34c3deae (pre-effects 95d1cb26); merged 117 acts, 2341 versions, 1914 commits, check 0/0, compare identical,
   audit clean. README row + jurisdiction.json (117 acts).
 
-## Next
-Batch 13/14 candidate lists are used up except acts not yet configured. Candidates (not configured, pages not pinned):
-Lei 6.015/1973 done (Registros Públicos); still missing e.g. Lei 9.279 done... check corpus.d before choosing:
-Lei 8.884/1994 (repealed), Lei 10.406 (CC, done), Lei 6.830 (done). Pick from major federal acts not in corpus.d.
+## 99-batch16d - PUBLISHed 2026-10-31 ~16:20 local
+Lei de Tortura 9.455/1997 (3 versions), Lei do Genocídio 2.889/1956 (1; LINDB day 16.11.1956), Lei do Mandado de Injunção
+13.300/2016 (1), Lei do Habeas Data 9.507/1997 (1). Pages pinned (fetch_batch16 pages), cited laws (laws/missing: 1 new).
+TEXT_FIX: Lei 9.455 art. 1 § 4º II stray quote. 0 diffs, 0 problems, 0 effect moves. Part sha ec069db1; merged 121 acts,
+2347 versions, 1918 commits, check 0/0, compare identical, audit clean. README rows + jurisdiction.json (121 acts).
+
+## 99-batch16e - PUBLISHed 2026-10-31 ~16:35 local
+Estatuto do Índio 6.001/1973 (2 versions), Lei das Cooperativas 5.764/1971 (10), Lei da Reforma Agrária 8.629/1993 (10; vs
+l8629compilado.htm). Hand: EInd art. 20 § signs (paragraphs wrapper, SECTION_SIGN); EInd art. 2 IX from Lei 14.701 art. 32
+promulgation 28.12.2023; LCoop art. 110 bare-note words kept as text (BARE_KEPT); MP_PENDING mp-2168-2001; LRA art. 20
+§§ 1º-4º from Lei 13.465 (unnoted lines printed after its caput: found by .tmp/latecaput.py), art. 6 § 9º VETADO ->
+promulgation 13.6.2024. EXPLAINED LRA art-05/art-17; OPEN_ITEMS LRA (MP 2.183 chain from 1997), EInd (ADC 87 etc.).
+Part sha 4057d035 (pre-effects 7940e0dd); merged 124 acts, 2369 versions, 1930 commits, check 0/0, compare identical,
+audit clean. README rows + jurisdiction.json (124 acts).
+- New tool .tmp/latecaput.py <part>: unnoted lines dated from the act's first day printed after a later caput (noisy:
+  mostly untouched children of a rewritten caput; read each). On a-c it found nothing new to fix.
+
+## Configured next (pages pinned 2026-10-31, laws not fetched yet)
+- part f: Lei do Seguro-Desemprego 7.998/1990 (l7998.htm vs l7998compilado.htm, 120 strikes; MP 905/955 likely), MROSC
+  13.019/2014 (its own vigência was amended before it took effect: 540 days, then §§ 1º-2º for municipalities; settle first).

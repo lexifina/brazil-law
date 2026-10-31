@@ -90,7 +90,8 @@ PARTS: dict[str, list[str]] = {
     "c": [_L4320],
     "d": ["lei-de-tortura", "lei-do-genocidio", "lei-do-mandado-de-injuncao", "lei-do-habeas-data"],
     "e": ["estatuto-do-indio", "lei-das-cooperativas", "lei-da-reforma-agraria"],
-    "f": ["lei-do-seguro-desemprego", "marco-regulatorio-das-oscs"],
+    "f": ["lei-do-seguro-desemprego"],
+    "g": ["marco-regulatorio-das-oscs"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH16_ACTS", "").split(",") if s] or VERIFIED
@@ -107,6 +108,12 @@ ACT_DAY_ALL = {**B13.ACT_DAY_ALL, **B14.ACT_DAY_ALL,
                                     "DOU of 2.10.1956"),
     "lei-13300-2016": ("2016-06-24", f"Lei 13.300/2016 art. 15: {_PUB} (DOU 24.6.2016)"),
     "lei-9507-1997": ("1997-11-13", f"Lei 9.507/1997 art. 22: {_PUB} (DOU 13.11.1997)"),
+    "lei-6001-1973": ("1973-12-21", "Lei 6.001/1973 art. 68: 'Esta Lei entrará em vigor na data de sua publicação' (DOU "
+                                    "21.12.1973)"),
+    "lei-5764-1971": ("1971-12-16", "Lei 5.764/1971 art. 117: 'Esta Lei entrará em vigor na data de sua publicação' (DOU "
+                                    "16.12.1971)"),
+    "lei-8629-1993": ("1993-02-26", f"Lei 8.629/1993 art. 27: {_PUB} (DOU 26.2.1993)"),
+    "lei-7998-1990": ("1990-01-12", f"Lei 7.998/1990 art. 31: {_PUB} (DOU 12.1.1990)"),
 }
 ACT_LAWS_ALL = {**B13.ACT_LAWS_ALL, **B14.ACT_LAWS_ALL,
     "lei-9455-1997": _L("Lei nº 9.455, de 1997", "Define os crimes de tortura e dá outras providências.", "1997-04-07",
@@ -117,6 +124,16 @@ ACT_LAWS_ALL = {**B13.ACT_LAWS_ALL, **B14.ACT_LAWS_ALL,
                          "individual e coletivo e dá outras providências.", "2016-06-23", "2016-06-24", PAGES["l13300"]),
     "lei-9507-1997": _L("Lei nº 9.507, de 1997", "Regula o direito de acesso a informações e disciplina o rito processual "
                         "do habeas data.", "1997-11-12", "1997-11-13", PAGES["l9507"]),
+    "lei-6001-1973": _L("Lei nº 6.001, de 1973", "Dispõe sobre o Estatuto do Índio.", "1973-12-19", "1973-12-21",
+                        PAGES["l6001"]),
+    "lei-5764-1971": _L("Lei nº 5.764, de 1971", "Define a Política Nacional de Cooperativismo, institui o regime jurídico "
+                        "das sociedades cooperativas, e dá outras providências.", "1971-12-16", "1971-12-16",
+                        PAGES["l5764"]),
+    "lei-8629-1993": _L("Lei nº 8.629, de 1993", "Dispõe sobre a regulamentação dos dispositivos constitucionais relativos à "
+                        "reforma agrária, previstos no Capítulo III, Título VII, da Constituição Federal.", "1993-02-25",
+                        "1993-02-26", PAGES["l8629"]),
+    "lei-7998-1990": _L("Lei nº 7.998, de 1990", "Regula o Programa do Seguro-Desemprego, o Abono Salarial, institui o Fundo de "
+                        "Amparo ao Trabalhador (FAT), e dá outras providências.", "1990-01-11", "1990-01-12", PAGES["l7998"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -363,6 +380,112 @@ P.MP_PENDING.update({
 })
 
 # ---------------------------------------------------------------------------------------------------------------
+# part e: Estatuto do Índio, Lei das Cooperativas, Lei da Reforma Agrária
+_EIND, _LCOOP, _LRA = "estatuto-do-indio", "lei-das-cooperativas", "lei-da-reforma-agraria"
+P.MP_PENDING["mp-2168-2001"] = (
+    "Medida Provisória nº 2.168-40, de 24.8.2001 (DOU 27.8.2001, in force on publication), kept in force by Emenda "
+    "Constitucional 32/2001, art. 2; its art. 13 gave Lei 5.764 art. 88 its wording. Planalto's note names this edition "
+    "only, so the change is dated by its publication; earlier editions of the chain are not modelled")
+_W14701 = ("Estatuto do Índio art. 2 IX: Lei 14.701/2023 (DOU 20.10.2023) art. 32, which rewrote the inciso, was vetoed; "
+           "Congress overrode the veto and the part was promulgated in the DOU of 28.12.2023 (printed on Lei 14.701's page; "
+           "Planalto marks the note 'Promulgação partes vetadas'): the 1973 wording stands to 28.12.2023")
+_W14757 = ("Lei 8.629 art. 6 § 9º: Lei 14.757/2023 (DOU 20.12.2023) added it, but the President vetoed it ('§ 9º (VETADO).'); "
+           "Congress overrode the veto and the paragraph was promulgated in the DOU of 13.6.2024 (printed on Lei 14.757's page): "
+           "the '(VETADO)' line stands to 13.6.2024 and the text from then")
+_W20 = ("Lei 8.629 art. 20 §§ 1º to 4º: Planalto prints Lei 13.465/2017's §§ 1º, 2º (later replaced), 3º and 4º with no note; "
+        "they come after Lei 13.465's caput and incisos (Medida Provisória 759/2016's §§, which they continue, are printed "
+        "struck above them) and the 1993 article had no parágrafos, so they start with Lei 13.465 (12.7.2017)")
+_L13465 = {"start": "2017-07-12", "start_law": "lei-13465-2017"}
+B8.SPAN_FIX += [
+    ((_EIND, "art-02", "IX -", "IX - garantir aos índios e comunidades indígenas, nos termos da Constituição, a posse", 0),
+     {"end": "2023-12-28", "end_law": "lei-14701-2023", "end_how": "promulgation"}, _W14701),
+    ((_EIND, "art-02", "IX -", "IX - garantir aos índios e comunidades indígenas, nos termos da Constituição Federal", 0),
+     {"start": "2023-12-28", "start_law": "lei-14701-2023", "by_provision": True}, _W14701),
+    ((_LRA, "art-06", "§ 9º", "§ 9º (VETADO)", 0),
+     {"start": "2023-12-20", "start_law": "lei-14757-2023", "end": "2024-06-13", "end_law": "lei-14757-2023",
+      "end_how": "promulgation", "skip": False}, _W14757),
+    ((_LRA, "art-06", "§ 9º", "§ 9º Os laudos que indiquem o grau de utilização", 0),
+     {"start": "2024-06-13", "start_law": "lei-14757-2023", "by_provision": True}, _W14757),
+    ((_LRA, "art-20", "§ 1º", "§ 1º As disposições constantes dos incisos I, II, III, IV e VI do caput deste artigo", 0),
+     _L13465, _W20),
+    ((_LRA, "art-20", "§ 2º", "§ 2º A vedação de que trata o inciso I do caput deste artigo não se aplica", 0), _L13465, _W20),
+    ((_LRA, "art-20", "§ 3º", "§ 3º São considerados serviços de interesse comunitário", 1), _L13465, _W20),
+    ((_LRA, "art-20", "§ 4º", "§ 4º Não perderá a condição de beneficiário aquele que passe a se enquadrar nos incisos I, "
+                              "III, IV e VI do caput deste artigo", 0), _L13465, _W20),
+]
+B.EXPLAINED[_LRA] = {
+    "art-05": "the consolidated page prints incisos II and III of § 3º as one line ('[...] cento e cinqüenta módulos fiscais; e "
+              "III - do segundo ao vigésimo ano [...]'); the annotated page prints them as two",
+    "art-17": "the consolidated page prints '§ 1º (Vetado).', the annotated page '§ 1º (Vetado.)'",
+}
+B13.OPEN_ITEMS[_LRA] = (
+    "Lei 8.629 (open items): its changes by Medida Provisória 2.183-56/2001 (arts. 2, 2-A, 5, 6, 7, 11, 12, 17, 18, 26-A) "
+    "are dated by that edition's publication (27.8.2001), as Planalto's notes name it; the earlier editions of the chain "
+    "(from Medida Provisória 1.577/1997) that first made most of them are not modelled; Planalto's 'Vide' pointers (ADIs "
+    "2.213 and 2.411) strike no words and are not modelled")
+B13.OPEN_ITEMS[_EIND] = (
+    "Estatuto do Índio (open items): Lei 14.701/2023 art. 32's wording of art. 2 IX is the subject of ADC 87 and ADIs 7.582, "
+    "7.583 and 7.586 (pending: 'Vide' pointers on Planalto's page, no words struck); it is shown as promulgated")
+
+# ---------------------------------------------------------------------------------------------------------------
+# part f: Lei do Seguro-Desemprego (Lei 7.998/1990)
+_LSD = "lei-do-seguro-desemprego"
+_MP665 = ("art. 3: 'Esta Medida Provisória entra em vigor: I - sessenta dias após sua publicação quanto às alterações dos "
+          "art. 3º e art. 4º da Lei nº 7.998, de 11 de janeiro de 1990, estabelecidas no art. 1º e ao inciso III do caput do "
+          "art. 4º; II - no primeiro dia do quarto mês subsequente à data de sua publicação quanto ao art. 2º e ao inciso IV "
+          "do caput do art. 4º; III - na data de sua publicação, para os demais dispositivos' (DOU 30.12.2014, edição extra)")
+P.VIGENCIA_FIXED["mp-665-2014"] = (
+    "2014-12-30", _MP665 + ": its other changes to Lei 7.998 (and its art. 4 II, which revoked art. 2º-B, art. 3 II and art. "
+                           "9 parágrafo único) fall under III; arts. 3 and 4 by provision (28.2.2015)")
+P.VIGENCIA_PROVISION.update({
+    ("mp-665-2014", _LSD, u): ("2015-02-28", "Medida Provisória 665/2014 " + _MP665 + ": 60 days after publication, "
+                               "counted from the day of publication (LC 95/1998 art. 8 § 1): 28.2.2015")
+    for u in ("art-03", "art-04")})
+B8.SPAN_FIX.append(((_LSD, "art-03", "II -", "II - ter sido empregado de pessoa jurídica", 0),
+                    {"end": "2014-12-30", "end_law": "mp-665-2014", "end_how": "note"},
+                    "Lei 7.998 art. 3 II: revoked by Medida Provisória 665/2014 art. 4 II, which falls under its art. 3 III (in "
+                    "force on publication, 30.12.2014), not under art. 3 I (the 60-day term for its new wording of arts. 3 and "
+                    "4)"))
+_W25 = ("Lei 7.998 art. 25: Medida Provisória 905/2019 replaced the whole article (caput only, '[...] art. 634-A da "
+        "Consolidação das Leis do Trabalho [...].' (NR)); Planalto prints its wording twice in the reverse of the usual order "
+        "(first the copy noted only 'Vigência encerrada', for 18.8.2020, then the copy noted 'Revogada pela Medida Provisória "
+        "nº 955, de 2020', for 12.11.2019 to 20.4.2020). The 1990 caput and §§ 1º-2º stand to 12.11.2019, again from 20.4.2020 "
+        "to 18.8.2020 (while MP 955 stood) and from 19.8.2020 (the unstruck copy below)")
+B8.SPAN_FIX += [
+    ((_LSD, "art-25", "Art. 25", "Art. 25. As infrações às disposições desta Lei pelo empregador", 0),
+     {"start": "2020-08-18", "start_law": "mp-955-2020-fim", "end": "2020-08-19", "end_law": "mp-905-2019-fim",
+      "end_how": "mp-pair", "gaps": []}, _W25),
+    ((_LSD, "art-25", "Art. 25", "Art. 25. As infrações às disposições desta Lei pelo empregador", 1),
+     {"start": "2019-11-12", "start_law": "mp-905-2019", "end": "2020-04-20", "end_law": "mp-955-2020",
+      "end_how": "mp-pair", "gaps": []}, _W25),
+    *[((_LSD, "art-25", lab, pre, 0), {"end": "2020-08-18", "end_law": "mp-955-2020-fim", "end_how": "mp-pair",
+                                       "gaps": [_MP905_GAP], "skip": False}, _W25)
+      for lab, pre in [("Art. 25", "Art. 25. O empregador que infringir"), ("§ 1º", "§ 1º Serão competentes para impor"),
+                       ("§ 2º", "§ 2º Além das penalidades administrativas")]],
+    *[((_LSD, "art-25", lab, pre, 1), {"start": "2020-08-19", "start_law": "mp-905-2019-fim", "restored": True}, _W25)
+      for lab, pre in [("Art. 25", "Art. 25. O empregador que infringir"), ("§ 1º", "§ 1º Serão competentes para impor"),
+                       ("§ 2º", "§ 2º Além das penalidades administrativas")]],
+]
+B.EXPLAINED[_LSD] = {
+    "art-11": "the consolidated page leaves out inciso V ('V - outros recursos que lhe sejam destinados.'), which the "
+              "annotated page prints, unstruck and without a note, as part of the 1990 text",
+}
+B13.OPEN_ITEMS[_LSD] = (
+    "Lei 7.998 (open items): its changes by Medida Provisória 2.164-41/2001 (arts. 2, 2-A, 2-B, 3-A, 7-A, 8-A to 8-C) are "
+    "dated by that edition's publication (27.8.2001), as Planalto's notes name it; the earlier editions of the chain are not "
+    "modelled; Lei 13.134/2015 art. 4 defers only the financial effects of its art. 9 changes (from the 2016 financial "
+    "year), so they keep the in-force day; art. 19 prints two incisos 'XIV' (the second, '(Vetado);', after XV, as on "
+    "both Planalto pages): kept as printed; Planalto's 'Vide' pointers strike no words and are not modelled")
+P.VIGENCIA_PROVISION[("mp-905-2019", _LSD, "art-04-b")] = (
+    "2020-03-01", "Medida Provisória 905/2019 art. 53 II: 'no primeiro dia do quarto mês subsequente ao da publicação desta "
+                  "Medida Provisória, quanto à inclusão do art. 4º-B na Lei nº 7.998, de 1990, promovida pelo art. 43' (DOU "
+                  "12.11.2019): 1.3.2020")
+P.NOTE_FIX["(Redação dada pela Lei nº 10.261, de 2021)"] = (
+    "(Redação dada pela Lei nº 14.261, de 2021)",
+    "Lei 7.998: two notes read '(Redação dada pela Lei nº 10.261, de 2021)'; their link is Lei nº 14.261, de 16.12.2021 "
+    "(L14261.htm#art12), whose art. 12 amends Lei 7.998")
+
+# ---------------------------------------------------------------------------------------------------------------
 # Lei 4.320/1964, part c: page fixes (paragraphs wrapper)
 #  - many articles (69 to 82, 99 to 113, ...) are printed 'Artigo 109.' at the start of their paragraph: read as 'Art. 109.'
 #  - '(Veto rejeitado no DOU, de 5.5.1964)' / '(Veto rejeitado no D.O. 05/05/1964)' after a line: the parts President
@@ -391,6 +514,26 @@ def paragraphs(html, digits):
             if hits:
                 p["notes"] = list(p["notes"]) + ["(Veto rejeitado no DOU de 5.5.1964)"]
                 VETO_NOTES[page] = VETO_NOTES.get(page, 0) + 1
+    if page == "l6001":
+        # Estatuto do Índio art. 20: the page prints its parágrafos '1º A intervenção [...]' without the § sign
+        for p in out:
+            m = re.match(r"^(\d)º\s", p["text"]) if p["unit"] == "art-20" and not p["label"] and not p["heading"] else None
+            if m:
+                p["text"] = "§ " + p["text"]
+                p["label"] = f"§ {m.group(1)}º"
+                SECTION_SIGN.append(f"art. 20 § {m.group(1)}º")
+    if page == "l5764":
+        # Lei 5.764 art. 110 ends '[...] Decreto-Lei n. 60, de 21 de novembro de 1966, com a redação dada pelo Decreto-Lei
+        # n. 668, de 3 de julho de 1969.': words of the article (which law's wording of DL 60 art. 13 it names), not an
+        # amendment note; the reader took them for a note left without parentheses
+        for p in out:
+            hit = [n for n in p["notes"] if re.fullmatch(r"\(?\s*reda[çc][ãa]o dada pelo Decreto-Lei n\. 668, de 3 de julho "
+                                                         r"de 1969\.?\s*\)?", n.strip(), re.I)]
+            if p["unit"] == "art-110" and hit and p["text"].rstrip().endswith("com a"):
+                p["text"] = p["text"].rstrip() + " redação dada pelo Decreto-Lei n. 668, de 3 de julho de 1969."
+                p["notes"] = [n for n in p["notes"] if n not in hit]
+                BARE_KEPT.append("Lei 5.764 art. 110")
+    if page in ("l4320", "l4320-compilado"):
         # the classification schemes of arts. 11 to 13 (and later ones) are centred lines inside the article: they are
         # lines of that article, not headings (a heading is a Título/Capítulo/Seção line or the name line after it)
         cur = None
@@ -439,6 +582,8 @@ B13.OPEN_ITEMS[_L4320] = (
     "arts. 16 and 18")
 TABLE_LINES: dict[str, int] = {}
 TABLE_DATED: list[str] = []
+SECTION_SIGN: list[str] = []
+BARE_KEPT: list[str] = []
 
 
 def scheme_lines(paras):
@@ -487,6 +632,14 @@ def _inner(*a):
                    + ", ".join(f"{k} {v}" for k, v in sorted(TABLE_LINES.items())) + " lines. The 1964 scheme of art. 11 "
                    "§ 4º (struck, no note) stands as long as § 4º itself, to Decreto-Lei 1.939/1982" +
                    (f" ({len(TABLE_DATED)} lines)" if TABLE_DATED else "") + ".")
+    if SECTION_SIGN:
+        dec.append("Estatuto do Índio art. 20: Planalto's page prints the article's parágrafos without the § sign ('1º A "
+                   "intervenção poderá ser decretada: [...]'); they are read as §§ 1º to 5º: "
+                   + ", ".join(dict.fromkeys(SECTION_SIGN)) + ".")
+    if BARE_KEPT:
+        dec.append("Lei 5.764 art. 110 ends 'Decreto-Lei n. 60, de 21 de novembro de 1966, com a redação dada pelo Decreto-Lei "
+                   "n. 668, de 3 de julho de 1969.': these words name the wording of the provision the article refers to; "
+                   "they are part of the article's text, not an amendment note.")
     B5.EXTRA_DECISIONS.extend(dec)
     return _inner16(*a)
 
