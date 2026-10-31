@@ -172,7 +172,7 @@ def law_key(text, year_of=None):
 def law_label(key):
     if key.startswith("dec-"):
         _, n, y = key.split("-")
-        return f"Decreto nº {int(n):,}, de {y}".replace(",", ".")
+        return "Decreto nº " + f"{int(n):,}".replace(",", ".") + f", de {y}"
     return _law_label12(key)
 
 
@@ -259,6 +259,29 @@ def paragraphs(html, digits):
 
 
 P.paragraphs = B.paragraphs = paragraphs
+
+# replay problems on lines the hand spans above settle (the '(VETADO)' lines of Lei 10.303 art. 9 §§ 3º, 5º, 6º, left out)
+LCVM_SETTLED = tuple(f"no end for struck art-09 [{x}] '{x} (VETADO)'" for x in ("§ 3º", "§ 5º", "§ 6º"))
+_lifespans12 = P.lifespans
+
+
+def lifespans(paras, cx):
+    problems = _lifespans12(paras, cx)
+    if cx.act == _LCVM:
+        problems = [x for x in problems if not x.startswith(LCVM_SETTLED)]
+    return problems
+
+
+P.lifespans = B.lifespans = lifespans
+B9.WORD_FIX[:] = B9.WORD_FIX + [
+    ("lcvm", "Art. 17-A. (VETADO) (Artigo", "Art. 17-A. (VETADO)",
+     "Lei do Mercado de Valores Mobiliários art. 17-A: the first word of the note '(Artigo incluído pela Lei nº 10.303, de "
+     "31.10.2001)' is read into the line; it is dropped"),
+]
+B.EXPLAINED[_LCVM] = {
+    "art-21": "the consolidated page ends § 5º with a stray closing quotation mark ('organizado ou não.\"'); the annotated "
+              "page has none",
+}
 
 _inner12 = B6.PB5B._write_part5
 
