@@ -46,6 +46,7 @@ PAGES = {
     "l8142": "leis/l8142.htm",
     "lgesp": "_ato2023-2026/2023/lei/l14597.htm",
     "etorc": "leis/2003/l10.671.htm",
+    "etorc-2023": "leis/2003/l10.671.htm",
     "etorc-compilado": "leis/2003/l10.671compilado.htm",
     "pnma": "leis/l6938.htm",
     "pnma-compilada": "leis/l6938compilada.htm",
@@ -79,13 +80,14 @@ ALL_ACTS: list[dict] = [
          "Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990)", 2),
     _act("lei-geral-do-esporte", "LGE", "lgesp", "lgesp", "lei-14597-2023",
          "Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023)", 3),
-    _act("estatuto-do-torcedor", "ETor", "etorc", "etorc-compilado", "lei-10671-2003",
+    _act("estatuto-do-torcedor", "ETor", "etorc-2023", "etorc-2023", "lei-10671-2003",
          "Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003)", 2),
     _act("politica-nacional-do-meio-ambiente", "PNMA", "pnma", "pnma-compilada", "lei-6938-1981",
          "Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981)", 2),
 ]
 VERIFIED: list[str] = ["lei-de-concessoes", "lei-das-parcerias-publico-privadas", "lei-de-abuso-de-autoridade",
-                        "lei-das-inelegibilidades", "lei-8142-de-1990", "lei-geral-do-esporte"]
+                        "lei-das-inelegibilidades", "lei-8142-de-1990", "lei-geral-do-esporte",
+                        "estatuto-dos-militares", "estatuto-do-torcedor"]
 ENABLED = [s for s in os.environ.get("BATCH10_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
@@ -202,6 +204,44 @@ P.VIGENCIA_FIXED.update({
                                      "(the changes to Lei 11.079/2004), in force 'na data de sua publicação' (DOU 22.6.2015, "
                                      "edição extra)"),
 })
+P.VIGENCIA_FIXED["lei-11447-2007"] = ("2007-01-08", "art. 3: 'Esta Lei entra em vigor a partir da data de sua publicação' "
+                                                    "(DOU 8.1.2007)")
+P.MP_PENDING.update({
+    "mp-2215-2001": "Medida Provisória nº 2.215-10, de 31.8.2001 (DOU 1.9.2001) was in force on 11.9.2001, so it stays in "
+                    "force until a later MP revokes it or Congress votes on it (Emenda Constitucional 32/2001, art. 2)",
+})
+P.MP_LAPSE.update({
+    "mp-592-2012": ("2013-05-13", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 31, de 2013 (DOU "
+                                  "3.6.2013): 'teve seu prazo de vigência encerrado no dia 12 de maio do corrente ano'"),
+    "mp-844-2018": ("2018-11-20", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 70, de 2018 (DOU "
+                                  "21.11.2018): 'teve seu prazo de vigência encerrado no dia 19 de novembro do corrente "
+                                  "ano'"),
+    "mp-868-2018": ("2019-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 36, de 2019 (DOU "
+                                  "5.6.2019): 'teve seu prazo de vigência encerrado no dia 3 de junho do corrente ano'"),
+})
+B7.CONVERTED_FIX["mp-532-2011"] = ("lei-12490-2011", "the MP page reads 'Convertida pela Lei nº 12.490, de 2011' ('pela' for "
+                                                    "'na'), Lei nº 12.490, de 16.9.2011")
+P.VIGENCIA_FIXED.update({
+    "lc-225-2026": ("2026-01-09", "art. 58 II: in force 'na data de sua publicação' (DOU 9.1.2026) for every provision but "
+                                  "the programmes and seals of its own arts. 19 to 32 and 40 to 47 (art. 58 I, 90 days)"),
+    "mp-844-2018": ("2018-07-09", "art. 8 II: in force 'na data de sua publicação' (DOU 9.7.2018) for every provision but "
+                                  "the art. 10-A it adds to Lei 11.445/2007 (art. 8 I: three years after publication; the MP "
+                                  "lapsed on 20.11.2018, so that art. 10-A never took effect)"),
+    "mp-868-2018": ("2018-12-28", "art. 9 II: in force 'na data de sua publicação' (DOU 28.12.2018) for every provision but "
+                                  "the art. 10-C it adds to Lei 11.445/2007 (art. 9 I: twelve months after publication; the "
+                                  "MP lapsed on 4.6.2019, so that art. 10-C never took effect)"),
+    "lei-13312-2016": ("2021-07-13", "art. 3: 'Esta Lei entra em vigor após decorridos cinco anos de sua publicação oficial' "
+                                     "(DOU 12.7.2016, edição extra): the period ends on 12.7.2021 and the law is in force the "
+                                     "day after (LC 95/1998 art. 8 § 1)"),
+    "lei-15082-2024": ("2024-12-31", "art. 4 II: in force 'na data de sua publicação' (DOU 31.12.2024) for every provision "
+                                     "but the §§ 5º and 6º of art. 7º and art. 9º-B it adds to Lei 13.576/2017 (art. 4 I, "
+                                     "90 days)"),
+})
+P.NOTE_FIX.update({
+    "(Redação dada pela Lei nº 9.990, 2000)": (
+        "(Redação dada pela Lei nº 9.990, de 2000)",
+        "Lei do Petróleo: a note reads 'Lei nº 9.990, 2000' (no 'de'); Lei nº 9.990, de 21.7.2000"),
+})
 P.NOTE_FIX.update({
     "(Redação dada pela Medida provisória nº 513, de 2.010)": (
         "(Redação dada pela Medida Provisória nº 513, de 2010)",
@@ -209,7 +249,36 @@ P.NOTE_FIX.update({
     "(Incluído pela Medida provisória nº 513, de 2.010)": (
         "(Incluído pela Medida Provisória nº 513, de 2010)", "as the 'Redação dada' notes of MP 513/2010"),
 })
+_E = "estatuto-dos-militares"
+B8.LABEL_FIX[:] = [
+    ("emil", "lll - os da reserva remunerada", "III - os da reserva remunerada", "III -",
+     "Estatuto dos Militares art. 3 § 1º b) III in Lei 9.442/1997's wording is printed with the letter l for the numeral "
+     "('lll -'); read as III"),
+    ("emil", "u§ 2º O oficial na inatividade", "§ 2º O oficial na inatividade", "§ 2º",
+     "Estatuto dos Militares art. 77 § 2º is printed with a stray 'u' before the '§'; the consolidated page has none"),
+    ("emil", "u § 2º O oficial na inatividade", "§ 2º O oficial na inatividade", "§ 2º", "as the line above"),
+]
+B8.SPAN_FIX += [
+    ((_E, "art-003", "II -", "II - os reformados", 0), {"keep": True},
+     "Estatuto dos Militares art. 3 § 1º b) II ('os reformados ...') is printed once, unstruck and with no note, under "
+     "alínea b), below the struck a) II; it is the act's own wording, in force throughout (the twin-wording rule, which "
+     "would take it for a copy of a) II, does not apply)"),
+    ((_E, "art-098", "IV -", "IV - ultrapassar o oficial 5 (cinco) anos", 0),
+     {"start": "1981-12-11", "start_law": "lei-6880-1980"},
+     "Estatuto dos Militares art. 98 IV: art. 159 gives it 'vigência 1 (um) ano após a data da publicação desta Lei' "
+     "(DOU 11.12.1980), the rest of the act being in force from 1.1.1981; it enters the history on 11.12.1981, "
+     "credited to Lei 6.880/1980"),
+]
+B8.SPAN_FIX += [
+    (("estatuto-do-torcedor", "art-13", "Parágrafo único", "", 0), {"start": "2003-11-17", "start_law": "lei-10671-2003"},
+     "Estatuto do Torcedor art. 13 parágrafo único and arts. 18, 22, 25 and 33: art. 44 puts them in force 'após seis "
+     "meses da publicação desta Lei' (DOU 16.5.2003), so they enter the history on 17.11.2003, credited to Lei 10.671/2003"),
+]
 B.EXPLAINED.update({
+    _E: {"art-098": "the consolidated page keeps the placeholder 'XIV -;' for the inciso Lei 9.297/1996 revoked; the history "
+                    "leaves revoked text out",
+         "art-101": "the consolidated page leaves out item 4 of art. 101 II a) ('4. 20 (vinte) anos, se Capitão de "
+                    "Corveta ou Major;', Redação dada pela Lei nº 13.954, de 2019), which the annotated page prints"},
     "lei-das-parcerias-publico-privadas": {
         "art-10": "the consolidated page prints incisos VI and VII of the caput in one paragraph; the annotated page and "
                   "the history give them a line each",
@@ -298,10 +367,24 @@ def lifespans(paras, cx):
 
 P.lifespans = B.lifespans = lifespans
 _build_act10 = P.build_act
+B9.REPEALS["estatuto-do-torcedor"] = (
+    "2023-06-15", "lei-14597-2023",
+    "The Estatuto de Defesa do Torcedor (Lei 10.671/2003) was repealed as a whole by the Lei Geral do Esporte (Lei "
+    "14.597/2023 art. 217 III), in force on its publication (DOU 15.6.2023), so its last version, on 15.6.2023, removes "
+    "every provision, credited to Lei 14.597/2023. After the repeal Planalto strikes the whole page, so the page is read "
+    "from a capture of 21.3.2023, before the repeal, and the history up to 14.6.2023 is checked against that capture's "
+    "unstruck text")
+# Lei 10.671/2003 art. 44: 'O disposto no parágrafo único do art. 13, e nos arts. 18, 22, 25 e 33 entrará em vigor após
+# seis meses da publicação desta Lei' (DOU 16.5.2003): the period ends on 16.11.2003, in force from 17.11.2003
+ETOR_LATE = {"art-18", "art-22", "art-25", "art-33"}
+ETOR_DAY = "2003-11-17"
 
 
 def build_act(paras, act_day, gate, gate_law, unit_label):
     slug = ACTS[len(B7._act_order)]["slug"] if len(B7._act_order) < len(ACTS) else "?"
+    if slug == "estatuto-do-torcedor":
+        gate = dict(gate, **{u: ETOR_DAY for u in ETOR_LATE})
+        gate_law = dict(gate_law, **{u: "lei-10671-2003" for u in ETOR_LATE})
     versions = _build_act10(paras, act_day, gate, gate_law, unit_label)
     hit = OWN_PROMULGATION.get(slug)
     if hit and hit[0] > act_day:
@@ -323,6 +406,20 @@ def _inner(*a) -> int:
 
 
 B6.PB5B._write_part5 = _inner
+
+# SPAN_FIX entries with {"keep": True}: a line the stale-wording rules would leave out stands as the replay read it
+_stale_fix = B7.stale_fix.fix
+
+
+def _fix(core, paras, slug, same_day):
+    keep = [(p, p.get("skip"), p.get("end_how"), p["start"], p["start_law"]) for p in paras if p.get("keep")]
+    res = _stale_fix(core, paras, slug, same_day)
+    for p, skip, how, start, law in keep:
+        p["skip"], p["end_how"], p["start"], p["start_law"] = skip, how, start, law
+    return res
+
+
+B7.stale_fix.fix = _fix
 
 SRC = HERE / "sources_batch10.json"
 B5.SRC = SRC
