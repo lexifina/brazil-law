@@ -112,3 +112,8 @@ Deferred acts, facts found:
   21.9.2007, republished 24.9.2007): efficacy suspended by an STF liminar in ADI 3.964 (date still needed), declared
   prejudicada 7.2.2013 (Chamber record, archive copy); MP 417/2008 -> Lei 11.706/2008.
 - Lei de Lavagem: COAF arts. 14/16 chain, see earlier notes.
+Result (02:30Z): parts rewritten and PUBLISH re-verified: 50-codes, 60-phase2, 70-clt, 80-proc, 90-batch3, 95-rju,
+98-batch5, 99-batch5b, 99-batch7 (99-batch6 unchanged). Merged scratch build 998 commits, 33 acts, 1049 versions,
+check.py 0/0, --compare identical; replay checks of every part unchanged; duplicate check clean except the 10 open CLT
+units. LexML: DL 6.109/1943 still 503 -> its published day 1943-12-18 kept as a hand entry in oldparts.py (80-proc).
+Estatuto do Desarmamento and Lei de Lavagem still deferred (facts above).

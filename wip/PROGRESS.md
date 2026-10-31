@@ -108,3 +108,5 @@ Chamber's records of the retificações and the Senate's Ato Declaratório on MP
 99-batch7 (8 acts: Estatuto da Cidade, Pessoa Idosa, LEP, Lei das S.A., LC 182, Maria da Penha, LRF, Mandado de
 Segurança; 132 versions) PUBLISHed 2026-10-31; batch6 republished after a Lei 9.605 art. 25 fix. Desarmamento and Lavagem
 deferred. Details: batch6/PROGRESS.md.
+2026-10-31 ~02:30Z: stale-wording fix (batch7/stale_fix.py) applied to 50/60/70/80/90/95/98/99-batch5b/99-batch7, all
+re-verified and PUBLISHed; 10 CLT units stay open (in its decisions). Older parts now rebuild via batch7/oldparts.py.
