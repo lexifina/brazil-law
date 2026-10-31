@@ -99,8 +99,65 @@ B9.ACTS[:] = ACTS
 B10.ACTS[:] = ACTS
 
 # in-force day of each act as enacted, and its own law record (filled from each page as it is read)
-ACT_DAY_ALL: dict[str, tuple[str, str]] = {}
-ACT_LAWS_ALL: dict[str, dict] = {}
+_PUB = "'Esta Lei entra em vigor na data de sua publicação'"
+ACT_DAY_ALL: dict[str, tuple[str, str]] = {
+    "lei-6830-1980": ("1980-12-23", "Lei 6.830/1980 art. 42: 'esta Lei entrará em vigor 90 (noventa) dias após a data de sua "
+                                    "publicação' (DOU 24.9.1980): 24.9.1980 + 90 days"),
+    "lei-12529-2011": ("2012-05-29", "Lei 12.529/2011 art. 128: 'Esta Lei entra em vigor após decorridos 180 (cento e oitenta) "
+                                     "dias de sua publicação oficial' (DOU 1.12.2011, rectified 2.12.2011; Planalto's page "
+                                     "misprints '1º.11.2011'): the 180th day counted from publication is 28.5.2012 (LC 95/1998 "
+                                     "art. 8 § 1)"),
+    "lei-8906-1994": ("1994-07-05", f"Lei 8.906/1994 art. 86: {_PUB} (DOU 5.7.1994)"),
+    "lei-9868-1999": ("1999-11-11", f"Lei 9.868/1999 art. 31: {_PUB} (DOU 11.11.1999)"),
+    "lei-9882-1999": ("1999-12-06", f"Lei 9.882/1999 art. 14: {_PUB} (DOU 6.12.1999)"),
+    "lei-8137-1990": ("1990-12-28", f"Lei 8.137/1990 art. 22: {_PUB} (DOU 28.12.1990)"),
+    "lei-9296-1996": ("1996-07-25", f"Lei 9.296/1996 art. 11: {_PUB} (DOU 25.7.1996)"),
+    "lei-8009-1990": ("1990-03-30", f"Lei 8.009/1990 art. 7: {_PUB} (DOU 30.3.1990); the conversion of Medida Provisória nº "
+                                    "143, de 8.3.1990, whose own text Planalto's page does not give"),
+    "lei-4717-1965": ("1965-08-19", "Lei 4.717/1965 has no vigência clause: LINDB art. 1, 45 days after publication in the DOU "
+                                    "of 5.7.1965 (republished 8.4.1974)"),
+    "lei-7492-1986": ("1986-06-18", f"Lei 7.492/1986 art. 34: {_PUB} (DOU 18.6.1986)"),
+    "lei-9656-1998": ("1998-09-02", "Lei 9.656/1998 art. 36: 'Esta Lei entra em vigor noventa dias após a data de sua "
+                                    "publicação' (DOU 4.6.1998): 4.6.1998 + 90 days (LC 95/1998 art. 8 § 1)"),
+    "lei-6385-1976": ("1976-12-09", f"Lei 6.385/1976 art. 34 (now 35): {_PUB} (DOU 9.12.1976)"),
+    "lei-6766-1979": ("1979-12-20", f"Lei 6.766/1979 art. 54: {_PUB} (DOU 20.12.1979)"),
+    "lei-8742-1993": ("1993-12-08", f"Lei 8.742/1993 art. 41: {_PUB} (DOU 8.12.1993)"),
+}
+_L = B._act_law
+ACT_LAWS_ALL: dict[str, dict] = {
+    "lei-6830-1980": _L("Lei nº 6.830, de 1980", "Dispõe sobre a cobrança judicial da Dívida Ativa da Fazenda Pública, e dá "
+                        "outras providências.", "1980-09-22", "1980-09-24", PAGES["lef"]),
+    "lei-12529-2011": _L("Lei nº 12.529, de 2011", "Estrutura o Sistema Brasileiro de Defesa da Concorrência; dispõe sobre a "
+                         "prevenção e repressão às infrações contra a ordem econômica; altera a Lei nº 8.137, de 27 de dezembro "
+                         "de 1990, o Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, e a Lei nº 7.347, "
+                         "de 24 de julho de 1985; revoga dispositivos da Lei nº 8.884, de 11 de junho de 1994, e a Lei nº 9.781, "
+                         "de 19 de janeiro de 1999; e dá outras providências.", "2011-11-30", "2011-12-01", PAGES["lcade"]),
+    "lei-8906-1994": _L("Lei nº 8.906, de 1994", "Dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB).",
+                        "1994-07-04", "1994-07-05", PAGES["eoab"]),
+    "lei-9868-1999": _L("Lei nº 9.868, de 1999", "Dispõe sobre o processo e julgamento da ação direta de inconstitucionalidade e "
+                        "da ação declaratória de constitucionalidade perante o Supremo Tribunal Federal.", "1999-11-10",
+                        "1999-11-11", PAGES["ladi"]),
+    "lei-9882-1999": _L("Lei nº 9.882, de 1999", "Dispõe sobre o processo e julgamento da argüição de descumprimento de preceito "
+                        "fundamental, nos termos do § 1º do art. 102 da Constituição Federal.", "1999-12-03", "1999-12-06",
+                        PAGES["ladpf"]),
+    "lei-8137-1990": _L("Lei nº 8.137, de 1990", "Define crimes contra a ordem tributária, econômica e contra as relações de "
+                        "consumo, e dá outras providências.", "1990-12-27", "1990-12-28", PAGES["lcot"]),
+    "lei-9296-1996": _L("Lei nº 9.296, de 1996", "Regulamenta o inciso XII, parte final, do art. 5º da Constituição Federal.",
+                        "1996-07-24", "1996-07-25", PAGES["lit"]),
+    "lei-8009-1990": _L("Lei nº 8.009, de 1990", "Dispõe sobre a impenhorabilidade do bem de família.", "1990-03-29",
+                        "1990-03-30", PAGES["lbf"]),
+    "lei-4717-1965": _L("Lei nº 4.717, de 1965", "Regula a ação popular.", "1965-06-29", "1965-07-05", PAGES["lap"]),
+    "lei-7492-1986": _L("Lei nº 7.492, de 1986", "Define os crimes contra o sistema financeiro nacional, e dá outras "
+                        "providências.", "1986-06-16", "1986-06-18", PAGES["lcsf"]),
+    "lei-9656-1998": _L("Lei nº 9.656, de 1998", "Dispõe sobre os planos e seguros privados de assistência à saúde.",
+                        "1998-06-03", "1998-06-04", PAGES["lps"]),
+    "lei-6385-1976": _L("Lei nº 6.385, de 1976", "Dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores "
+                        "Mobiliários.", "1976-12-07", "1976-12-09", PAGES["lcvm"]),
+    "lei-6766-1979": _L("Lei nº 6.766, de 1979", "Dispõe sobre o Parcelamento do Solo Urbano e dá outras Providências.",
+                        "1979-12-19", "1979-12-20", PAGES["lpsolo"]),
+    "lei-8742-1993": _L("Lei nº 8.742, de 1993", "Dispõe sobre a organização da Assistência Social e dá outras providências.",
+                        "1993-12-07", "1993-12-08", PAGES["loas"]),
+}
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
 B.ACT_LAWS.clear()
