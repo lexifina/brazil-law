@@ -417,8 +417,35 @@ def _promulgation_text(page: str) -> str:
 SAN_SETTLED = ("art-23 [XIII -]", "art-35 [I -]", "art-35 [II -]", "art-35 [III -]", "art-52 [I -]")
 
 
+# Política Nacional do Meio Ambiente: Planalto's annotated page prints 'IBAMA' in lines Leis 9.960/2000 and 10.165/2000
+# wrote with 'Ibama'; a line is corrected only where the corrected words, and not the printed ones, are in the law's text
+PNMA_CASE: list[str] = []
+_LAWTEXT: dict[str, str] = {}
+
+
+def _law_text(law: str) -> str:
+    import html as _h
+    if law not in _LAWTEXT:
+        keep = B8.CURRENT_PAGE[0]
+        r = P.raw("law:" + law)
+        B8.CURRENT_PAGE[0] = keep
+        t = P.decode(r[0]) if r else ""
+        t = re.sub(r"(?is)<script.*?</script>|<style.*?</style>", " ", t)
+        _LAWTEXT[law] = _flat(_h.unescape(re.sub(r"<[^>]+>", " ", t)))
+    return _LAWTEXT[law]
+
+
 def lifespans(paras, cx):
     problems = _lifespans10(paras, cx)
+    if cx.act == "politica-nacional-do-meio-ambiente":
+        for p in paras:
+            if p["start_law"] in ("lei-9960-2000", "lei-10165-2000") and "IBAMA" in p["text"]:
+                src = _law_text(p["start_law"])
+                body = lambda x: _flat(re.sub(r"^(Art\.\s*\S+|§\s*\S+|Parágrafo único|[IVXL]+\s*-)\s*", "", P.norm(x)))
+                fixed = p["text"].replace("IBAMA", "Ibama")
+                if body(fixed) in src and body(p["text"]) not in src:
+                    p["text"] = fixed
+                    PNMA_CASE.append(p["unit"])
     if cx.act == "lei-do-saneamento-basico":
         problems = [x for x in problems if not (x.startswith(("restored wording after an open one: ", "ends before it starts: "))
                                                 and x.split(": ", 1)[1].startswith(SAN_SETTLED))]
@@ -545,6 +572,11 @@ _inner10 = B6.PB5B._write_part5
 
 def _inner(*a) -> int:
     B5.EXTRA_DECISIONS.extend(x + "." for x in dict.fromkeys(OWN_PROMULGATION_USED + ADI4917_USED))
+    if PNMA_CASE:
+        B5.EXTRA_DECISIONS.append(
+            "Política Nacional do Meio Ambiente: Planalto's annotated page prints 'IBAMA' in lines that Leis 9.960/2000 and "
+            "10.165/2000 wrote with 'Ibama'; those lines read as the laws' own texts (checked line by line against them): "
+            + ", ".join(dict.fromkeys(PNMA_CASE)) + ".")
     if SAN_USED:
         B5.EXTRA_DECISIONS.append(
             "Lei do Saneamento Básico, 9.7.2018 to 15.7.2020: Medida Provisória nº 844/2018 (in force 9.7.2018, lapsed "
