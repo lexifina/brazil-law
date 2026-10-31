@@ -103,6 +103,19 @@ B8.SPAN_FIX[:] = [
     ((_LOAS, "art-20", "§ 11-A", "§ 11-A. O regulamento", 0), {"start": "2022-01-01", "start_law": "lei-14176-2021"},
      "Lei Orgânica da Assistência Social art. 20 § 11-A: Lei 14.176/2021 art. 6 I puts it in force on 1.1.2022 (its other "
      "changes to art. 20 on publication, 23.6.2021)"),
+    ((_LOAS, "art-09", "§ 3º", "§ 3º A inscrição da entidade no Conselho Municipal", 2), {"skip": True, "end_how": "twin"},
+     "Lei Orgânica da Assistência Social art. 9 § 3º: Planalto prints Medida Provisória nº 2.187-13/2001's wording twice, "
+     "once noted as revoked by Medida Provisória nº 446/2008 (rejected 10.2.2009) and once as revoked by Lei 12.101/2009; "
+     "the first copy carries the whole life span (2001 to 2009, absent while MP 446 stood) and the second is left out"),
+    ((_LOAS, "art-20", "§ 7º", "§ 7º Na hipótese de não existirem serviços credenciados", 0),
+     {"end": "1998-12-01", "end_law": "lei-9720-1998", "end_how": "successor"},
+     "Lei Orgânica da Assistência Social art. 20 § 7º: the 1993 wording ends when Lei 9.720/1998 gave the paragraph its "
+     "new wording (noted 'Incluído', printed below the struck 1993 text)"),
+]
+B9.WORD_FIX[:] = B9.WORD_FIX + [
+    ("loas", "§ 3º deste artigo. '", "§ 3º deste artigo.",
+     "Lei Orgânica da Assistência Social art. 20 § 14: the annotated page prints a stray apostrophe on its own line after the "
+     "paragraph; it is dropped (the consolidated page and Lei 13.982/2020 have none)"),
 ]
 P.NOTE_FIX.update({
     "(Redação dada pela Lei nº 9.720, de 26.4.1991)": (
