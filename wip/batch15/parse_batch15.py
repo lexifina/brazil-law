@@ -434,6 +434,21 @@ B8.SPAN_FIX += [
      {"start": "2009-05-28", "start_law": "lei-11941-2009", "end": None, "end_law": None, "end_how": None, "skip": False,
       "state": "plain"}, _W32A),
 ]
+_W89 = ("Lei 8.212 art. 89: Planalto prints Lei 9.032/1995's caput and §§ 1º-7º, then Lei 9.129/1995's caput ('Redação dada "
+        "ao caput e parágrafos pela Lei nº 9.129, de 20.11.95') followed by its §§ 1º-7º without notes; those second §§ 1º-7º "
+        "are Lei 9.129's wording and start on 21.11.1995 (they had been read as the 1991 text)")
+_W25 = ("Lei 8.212 art. 25 § 12: vetoed in Lei 13.606/2018 (DOU 10.1.2018); Congress overrode the veto and the part was "
+        "promulgated on 17.4.2018 (DOU 18.4.2018, printed at the end of Lei 13.606's page: 'promulgo [...] as seguintes "
+        "partes vetadas'), so the '§ 12. (VETADO).' line stands from 10.1.2018 to 18.4.2018 and the promulgated § 12 from "
+        "18.4.2018, credited to Lei 13.606")
+B8.SPAN_FIX += [
+    *[((_C, "art-089", lab, lab, 1), {"start": "1995-11-21", "start_law": "lei-9129-1995", "restored": False}, _W89)
+      for lab in ("§ 1º", "§ 2º", "§ 3º", "§ 4º", "§ 5º", "§ 6º", "§ 7º")],
+    ((_C, "art-025", "§ 12", "§ 12. (VETADO)", 0),
+     {"end": "2018-04-18", "end_law": "lei-13606-2018", "end_how": "promulgation"}, _W25),
+    ((_C, "art-025", "§ 12", "§ 12. Não integra a base de cálculo", 0),
+     {"start": "2018-04-18", "start_law": "lei-13606-2018", "promulgated": True}, _W25),
+]
 # Resoluções do Senado Federal suspending dispositivos the STF declared unconstitutional (CF art. 52 X): Planalto strikes
 # the dispositivo and notes '(Execução suspensa pela Resolução do Senado Federal nº N, de AAAA)'; each page pinned ctx:rsf-*
 if _C in ENABLED:
@@ -514,7 +529,51 @@ def apply_rewrites(paras, act, eff, problems):
                     p["end"] = eff[fields["end_law"]]
                 p["pinned"] = True
                 SPAN15_USED.append(why)
+    for fn in ARTICLE_FIX.get(act["slug"], []):
+        fn(paras, eff)
     return out
+
+
+def _art55(paras, eff):
+    """Lei 8.212 art. 55: Planalto prints the whole article twice, first with the caput's note 'Revogado pela Medida
+    Provisória nº 446, de 2008' (MP 446, DOU 10.11.2008, rejected by the Chamber on 10.2.2009), then again with every line
+    noted 'Revogado pela Lei nº 12.101, de 2009'. The first copy is the article: every line in force across MP 446's term
+    has the caput's gap; the second copy is left out (its lines are the same wordings)."""
+    lines = [p for p in paras if p["unit"] == "art-055" and not p["heading"]]
+    cut = next((i for i, p in enumerate(lines) if i and p["label"] == "Art. 55"), None)
+    if cut is None:
+        return
+    gap = next((g for g in lines[0].get("gaps") or [] if g[2] == "mp-446-2008"), None)
+    if not gap:
+        return
+    for p in lines[1:cut]:
+        if not p.get("skip") and p["start"] < gap[0] and (p["end"] is None or p["end"] > gap[1]) and not p["gaps"]:
+            p["gaps"], p["pinned"] = [gap], True
+    for p in lines[cut:]:
+        p["skip"], p["end_how"], p["pinned"] = True, "duplicate", True
+    SPAN15_USED.append("Lei 8.212 art. 55: Planalto prints the whole article twice, first with the caput's note 'Revogado "
+                       "pela Medida Provisória nº 446, de 2008' (MP 446 was rejected on 10.2.2009), then again with every "
+                       "line noted 'Revogado pela Lei nº 12.101, de 2009' (30.11.2009); the first copy is the article, all "
+                       "of it out of force while MP 446 stood (10.11.2008 to 10.2.2009), and the second copy (the same "
+                       "wordings) is left out")
+
+
+def _art25_order(paras, eff):
+    """Lei 8.212 art. 25 I as worded by Lei 9.528/1997 is printed above the caput Lei 10.256/2001 gave the article; it
+    stood under that caput until 13.9.2017, so it is placed after it."""
+    i = next((k for k, p in enumerate(paras) if p["unit"] == "art-025" and p["label"] == "I -"
+              and p["text"].startswith("I - 2% da receita bruta")), None)
+    j = next((k for k, p in enumerate(paras) if p["unit"] == "art-025" and p["label"] == "Art. 25" and p["state"] == "plain"),
+             None)
+    if i is None or j is None or i > j:
+        return
+    paras.insert(j, paras.pop(i))
+    SPAN15_USED.append("Lei 8.212 art. 25 I (Lei 9.528/1997's wording, '2% da receita bruta [...]') is printed above the "
+                       "caput Lei 10.256/2001 gave the article and is placed after that caput, under which it stood until "
+                       "13.9.2017")
+
+
+ARTICLE_FIX: dict[str, list] = {_C: [_art55, _art25_order]}
 
 
 P.apply_rewrites = B.apply_rewrites = apply_rewrites
