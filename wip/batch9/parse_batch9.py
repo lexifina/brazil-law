@@ -276,6 +276,64 @@ B8.SPAN_FIX[:] = [
      "8.883/1994 recast § 2º into incisos I to IV, the convite's period becoming inciso IV ('IV - cinco dias úteis para "
      "convite.'), so it ends with that law (in force 9.6.1994)"),
 ]
+# Código Florestal
+_CF = "codigo-florestal"
+B8.COURT_SPLIT[:] = [("cflo", "art-03", "b)", "")]
+_WADC42 = ("Código Florestal art. 3 VIII b): STF, ADC 42, ADI 4.903 and ADI 4.937 (Plenário, judgment concluded 28.2.2018, "
+           "Informativo STF 892) declared unconstitutional the expressions 'gestão de resíduos' and 'instalações "
+           "necessárias à realização de competições esportivas estaduais, nacionais ou internacionais'; Planalto strikes "
+           "them inside the line. The history drops them from 28.2.2018, the judgment day (the DJe day of the session's ata "
+           "is not in the records read), credited to the ruling")
+P.COURTS = {
+    "stf-adc-42": {
+        "label": "STF, ADC 42 (with ADI 4.903 and 4.937)", "kind": "court", "enacted": "2018-02-28",
+        "published": "2018-02-28",
+        "title": "Ação declaratória de constitucionalidade 42 (julgada com as ADI 4.901, 4.902, 4.903 e 4.937): declara "
+                 "inconstitucionais as expressões 'gestão de resíduos' e 'instalações necessárias à realização de "
+                 "competições esportivas estaduais, nacionais ou internacionais' do art. 3º, VIII, b, da Lei nº 12.651, de "
+                 "2012",
+        "url": "https://www.stf.jus.br/arquivo/informativo/documento/informativo892.htm",
+        "from": "2018-02-28", "case": r"ADC\s*N?º?\s*42", "where": [], "why": _WADC42},
+}
+B8.SPAN_FIX += [
+    ((_CF, "art-03", "b)", "b) as obras de infraestrutura destinadas às concessões", 0),
+     {"end": "2018-02-28", "end_law": "stf-adc-42", "end_how": "court"}, _WADC42),
+    ((_CF, "art-03", "b)", "b) as obras de infraestrutura destinadas às concessões", 1),
+     {"start": "2018-02-28", "start_law": "stf-adc-42"}, _WADC42),
+]
+P.MP_LAPSE["mp-867-2018"] = ("2019-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 35, de 2019 (DOU "
+                                           "5.6.2019): 'teve seu prazo de vigência encerrado no dia 3 de junho do corrente "
+                                           "ano'")
+# a parenthesis inside the text read as a note (Código Florestal art. 74: '... com a redação dada pela Medida Provisória nº
+# 2.216-37 ...' is law text): (pages, line start, note start) -> the note is put back into the line
+NOTE_INTO_TEXT: list[tuple[tuple[str, ...], str, str, str]] = [
+    (("cflo", "cflo-compilado"), "Art. 74. A Câmara de Comércio Exterior", "(redação dada pela Medida Provisória nº 2.216-37",
+     "Código Florestal art. 74: the words '(redação dada pela Medida Provisória nº 2.216-37, de 31 de agosto de 2001, é "
+     "autorizada a adotar medidas [...])' are the article's own text ('... da Lei nº 9.649, de 27 de maio de 1998, com a "
+     "redação dada pela Medida Provisória nº 2.216-37 [...], é autorizada a adotar ...'); the page sets them in a way "
+     "the parser read as a note, so they are put back into the line"),
+]
+NOTE_INTO_USED: list[str] = []
+_paragraphs9 = P.paragraphs
+
+
+def paragraphs(html, digits):
+    out, rest = _paragraphs9(html, digits)
+    page = B8.CURRENT_PAGE[0]
+    for p in out:
+        for pages, start, note, why in NOTE_INTO_TEXT:
+            if page in pages and p["text"].startswith(start):
+                hit = [n for n in p["notes"] if n.startswith(note)]
+                if hit:
+                    p["text"] = P.norm(p["text"] + " " + hit[0][1:-1].rstrip())
+                    if p.get("plain_text"):
+                        p["plain_text"] = p["text"]
+                    p["notes"] = [n for n in p["notes"] if n != hit[0]]
+                    NOTE_INTO_USED.append(why)
+    return out, rest
+
+
+P.paragraphs = B.paragraphs = paragraphs
 _Q = B7._QUOTED
 B8.LAW_FIELD_FIX.update({
     "lei-12529-2011": ({"published": "2011-12-01"},
@@ -371,6 +429,8 @@ _inner9 = B6.PB5B._write_part5
 
 
 def _inner(*a) -> int:
+    if NOTE_INTO_USED:
+        B5.EXTRA_DECISIONS.append("Text read as a note put back into its line: " + "; ".join(dict.fromkeys(NOTE_INTO_USED)) + ".")
     for slug, (_, _, why) in REPEALS.items():
         if any(x["slug"] == slug for x in ACTS):
             B5.EXTRA_DECISIONS.append(why + ".")

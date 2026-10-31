@@ -277,7 +277,7 @@ def paragraphs(html: str, digits: int):
             continue
         base = {k: v for k, v in p.items() if k not in ("text", "state", "notes", "plain_text", "struck_text")}
         for state, t in (("struck", p["text"]), ("plain", p["plain_text"])):
-            t = P.norm(t.replace(hit[3], " "))
+            t = P.norm(t.replace(hit[3], " ") if hit[3] else t)
             t = re.sub(r"\s+([,;.])", r"\1", t)
             res.append({**base, "text": t, "state": state, "notes": list(p["notes"]), "plain_text": "",
                         "struck_text": "", "court_split": state})
