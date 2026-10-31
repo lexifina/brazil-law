@@ -273,6 +273,10 @@ TEXT_FIX: list[tuple[str, str, str, str]] = [
      "reads 'DO PESCADOR'"),
     ("l8212", "TÍTULO VII l", "TÍTULO VII",
      "Lei 8.212 Título VII heading: the annotated page prints a stray 'l' after 'TÍTULO VII' (the consolidated page does not)"),
+    ("l8212", "V, X e XIII do caput, até o dia útil imediatamente anterior$",
+     "V, X e XIII do caput, até o dia útil imediatamente anterior.",
+     "Lei 8.212 art. 30 § 2º II (Lei 13.202/2015): the annotated page drops the closing period, which Lei 13.202's own text "
+     "and the consolidated page print"),
 ]
 TEXT_FIX_USED: list[str] = []
 FOOTNOTES_DROPPED: dict[str, int] = {}
@@ -297,7 +301,12 @@ def paragraphs(html, digits):
     out, rest = _paragraphs15(html, digits)
     for p in out:
         for pg, wrong, right, why in TEXT_FIX:
-            if pg == page and wrong in p["text"]:
+            if pg != page:
+                continue
+            if wrong.endswith("$") and p["text"].endswith(wrong[:-1]):
+                p["text"] = p["text"][:-len(wrong) + 1] + right
+                TEXT_FIX_USED.append(why)
+            elif not wrong.endswith("$") and wrong in p["text"]:
                 p["text"] = p["text"].replace(wrong, right)
                 if p.get("label") == wrong:
                     p["label"] = right
