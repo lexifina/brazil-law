@@ -174,6 +174,27 @@ P.COURTS = {}
 P.NOTE_FIX = {}
 
 # ---------------------------------------------------------------------------------------------------------------
+# hand tables for these acts, each read from the official pages named in the reason
+B7.CONVERTED_FIX.update({
+    "mp-577-2012": ("lei-12767-2012", "the MP page reads 'Convertida pela Lei nº 12.767, de 2012' ('pela' for 'na'), "
+                                      "Lei nº 12.767, de 27.12.2012"),
+})
+B8.SPAN_FIX[:] = [
+    (("lei-geral-do-esporte", "art-099", "IV -", "", 0), {"skip": True},
+     "Lei Geral do Esporte art. 99 § 1º IV: Planalto prints a bare label line 'IV - (Vide Lei nº 15.522, de 2026)' where "
+     "Lei 15.522/2026 rewords the inciso 180 days after its publication (DOU 29.9.2026; its art. 11), a day after the "
+     "data's retrieval; the label line is left out and that future wording, which Planalto's page does not print, is "
+     "not in the history"),
+]
+B.EXPLAINED.update({
+    "lei-de-concessoes": {"art-15": "typesetting: the annotated page prints § 3º without its closing full stop; the "
+                                    "consolidated page has it"},
+    "lei-de-abuso-de-autoridade": {"art-15-a": "the annotated page prints the heading 'Violência Institucional' (Incluído "
+                                               "pela Lei nº 14.321, de 2022) above art. 15-A, kept in that article; the "
+                                               "consolidated page sets it as a heading the replay check does not read"},
+})
+
+# ---------------------------------------------------------------------------------------------------------------
 # An act's own vetoed parts promulgated after Congress overrode the veto (CF art. 66 §§ 5 and 7). Planalto prints the
 # '(VETADO)' line (struck, or not) and then the promulgated wording with the note '(Promulgação partes vetadas)', and the
 # promulgation text itself after the act's signature. A printed line is promulgated when its words are in that text (in
