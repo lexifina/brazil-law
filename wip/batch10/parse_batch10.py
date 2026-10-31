@@ -88,7 +88,8 @@ ALL_ACTS: list[dict] = [
 ]
 VERIFIED: list[str] = ["lei-de-concessoes", "lei-das-parcerias-publico-privadas", "lei-de-abuso-de-autoridade",
                         "lei-das-inelegibilidades", "lei-8142-de-1990", "lei-geral-do-esporte",
-                        "estatuto-dos-militares", "estatuto-do-torcedor"]
+                        "estatuto-dos-militares", "estatuto-do-torcedor", "lei-do-saneamento-basico",
+                        "politica-nacional-do-meio-ambiente"]
 ENABLED = [s for s in os.environ.get("BATCH10_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
@@ -367,9 +368,18 @@ _RETYPED = ("Planalto's consolidated page of this act (l6938compilada.htm) is a 
             "words; every line of the history was checked against its own source, the act as published (the Chamber of "
             "Deputies' reproduction of the DOU of 2.9.1981) or the amending law's text, and matches it (batch10/.tmp/"
             "pnma_adj.py); the consolidated page's variants are not in those texts")
+B8.SPAN_FIX += [
+    (("politica-nacional-do-meio-ambiente", "art-19", "Art. 19", "Art. 19 - (VETADO)", 0),
+     {"end": "1989-07-20", "end_law": "lei-7804-1989", "end_how": "successor"},
+     "Política Nacional do Meio Ambiente art. 19: the 1981 article was vetoed; Lei 7.804/1989 gave art. 19 a text "
+     "('Incluído pela Lei nº 7.804, de 1989'), so the '(VETADO)' line, which Planalto still prints above it, ends then"),
+]
 B.EXPLAINED.update({"politica-nacional-do-meio-ambiente": {u: _RETYPED for u in (
     "art-02", "art-04", "art-05", "art-06", "art-09", "art-11", "art-12", "art-13", "art-14", "art-19", "art-20", "art-21",
     "preambulo")}})
+B.EXPLAINED["politica-nacional-do-meio-ambiente"]["art-19"] = (
+    "the consolidated page keeps the 1981 '(VETADO)' line above the art. 19 Lei 7.804/1989 gave the article; the history "
+    "ends that line then (see the life-span decisions)")
 B.EXPLAINED.update({
     _E: {"art-098": "the consolidated page keeps the placeholder 'XIV -;' for the inciso Lei 9.297/1996 revoked; the history "
                     "leaves revoked text out",
