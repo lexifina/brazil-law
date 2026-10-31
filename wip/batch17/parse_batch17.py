@@ -876,6 +876,17 @@ def paragraphs(html, digits):
                 keep.append(q)
                 L10233_FIXED.append("art-118 § 1º")
         out = keep
+    if page in ("l8745", "l8745-compilada"):
+        # Lei 8.745 art. 2 VI d) and art. 4 caput (2003): Planalto's pointers '(Prorrogação de prazo).' (Medida Provisória
+        # 431/2008 art. 173, struck) and '(Prorrogação de prazo pela Lei nº 11.784, de 2008' (its closing parenthesis missing)
+        # name a law that extended contracts, not a change of words; they and the stray full stops left by the pointers
+        # around them are not text
+        for p in out:
+            t = re.sub(r"\s*\(Prorroga[çc][ãa]o de prazo(?: pela\s+Lei n[º°]\s*11\.784, de 2008)?\)?\.?", "", p["text"])
+            if t != p["text"]:
+                t = re.sub(r"([;:])\s*\.+\s*$", r"\1", t.rstrip())
+                L8745_FIXED.append(f"{p['unit']} [{p['label']}]")
+                p["text"] = t
     if page == "l12462":
         # Lei 12.462 art. 63 § 17 (Medida Provisória 1.349/2026, 'Vigência encerrada', day not read): left out
         n0 = len(out)
@@ -955,6 +966,7 @@ def paragraphs(html, digits):
 L9250_FIXED: list[str] = []
 L9430_FIXED: list[str] = []
 L13465_FIXED: list[str] = []
+L8745_FIXED: list[str] = []
 EMPTY_ITEM_PAGES = {"l9250", "l7713"}
 MIXED_PLAIN: list[str] = []
 L9873_FIXED: list[str] = []
@@ -2047,6 +2059,12 @@ def _inner(*a):
         dec.append("Lei 9.430: the headings above arts. 18 to 22 (" + "; ".join(f"'{x}'" for x in dict.fromkeys(HEADS_USED))
                    + "), struck with no note, fall with the articles under them, revoked by Lei 14.596/2023 from 1.1.2024 "
                    "(its art. 46 VI), not with the first change of the article each heads.")
+    if L8745_FIXED:
+        dec.append("Lei 8.745 art. 2 VI d) and art. 4 caput: Planalto's pointers '(Prorrogação de prazo).' (to Medida Provisória "
+                   "431/2008 art. 173, struck) and '(Prorrogação de prazo pela Lei nº 11.784, de 2008' (to Lei 11.784/2008 art. "
+                   "173, closing parenthesis missing) name the law that extended contracts already in force; they change no "
+                   "words and are left out of the text, with the stray full stops between them (" + ", ".join(dict.fromkeys(
+                       x for x in L8745_FIXED)) + ").")
     if EMPTY_ITEMS:
         dec.append("Struck items printed with a label and only the note '(Vide Medida nº 340, de 2006)', and no words, are "
                    "pointers, not wordings, and are left out (" + ", ".join(dict.fromkeys(EMPTY_ITEMS)) + ").")
@@ -2110,6 +2128,45 @@ B8.SPAN_FIX += [
 B13.OPEN_ITEMS[_LANEEL] = (
     "Lei 9.427 (open items): the republication of 28.9.1998 (Lei 9.648/1998 art. 22) is read as Planalto prints the Lei; 'Vide' "
     "pointers and regulations strike no words and are not modelled")
+
+# part za: Lei 8.745/1993 (contratação temporária). Hand days set only when the act runs.
+_LCTEMP = "lei-da-contratacao-temporaria"
+if any(a["slug"] == _LCTEMP for a in ACTS):
+    P.MP_LAPSE["mp-1181-2023"] = (
+        "2023-11-15", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 79, de 2023: 'teve seu prazo de vigência "
+                      "encerrado no dia 14 de novembro de 2023'; the wordings it gave Lei 8.745 end on 15.11.2023 unless a law "
+                      "replaced them earlier")
+    P.MP_LAPSE["mp-1186-2023"] = (
+        "2024-02-20", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 7, de 2024 (DOU 1.3.2024): 'teve seu "
+                      "prazo de vigência encerrado no dia 19 de fevereiro de 2024'; the wordings it gave Lei 8.745 end on 20.2.2024")
+    P.MP_PENDING["mp-2229-2001"] = (
+        "Medida Provisória nº 2.229-43, de 6.9.2001 (DOU 10.9.2001, in force on publication), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2; it added Lei 8.745 art. 4 § 7º. Planalto's note names this edition only, so the change "
+        "is dated by its publication; earlier editions of the chain are not modelled")
+    P.NOTE_FIX["(Incluído pela MPV nº 2.229-43, de 6.9.2001)"] = (
+        "(Incluído pela Medida Provisória nº 2.229-43, de 6.9.2001)",
+        "Lei 8.745 art. 4 § 7º: the note abbreviates 'Medida Provisória' as 'MPV'")
+_W922PU = ("Lei 8.745 art. 4 parágrafo único ('É admitida a prorrogação dos contratos:', Lei 10.667/2003): Medida Provisória "
+           "922/2020 (DOU 2.3.2020) made it § 1º with new incisos and added a § 2º; the MP lapsed on 29.6.2020 (Ato Declaratório "
+           "72/2020) and the parágrafo único is in force again from 30.6.2020, as its incisos (it was read as renumbered for good)")
+_W5PU = ("Lei 8.745 art. 5 parágrafo único (1993): revoked by Lei 9.849/1999; Planalto prints it a second time, unstruck and "
+         "with the same revocation note, below the article's restored caput; that copy is not in force and is left out")
+B8.SPAN_FIX += [
+    ((_LCTEMP, "art-04", "Parágrafo único", "Parágrafo único. É admitida a prorrogação dos contratos", 0),
+     {"end": None, "end_law": None, "end_how": None}, _W922PU),
+    ((_LCTEMP, "art-05", "Parágrafo único", "Parágrafo único. Os órgãos ou entidades contratantes", 1),
+     {"skip": True, "end_how": "revoked-copy"}, _W5PU),
+    ((_LCTEMP, "art-04", "§ 8º", "§ 8º", 0), {"skip": True, "end_how": "pointer"},
+     "Lei 8.745 art. 4: Planalto prints a struck line holding only '§ 8º' and the note '(Vide Medida Provisória nº 86, de "
+     "18.12.2002)'; it is a pointer, not a wording, and is left out"),
+]
+B.EXPLAINED[_LCTEMP] = {"art-05": "the consolidated page prints art. 5's parágrafo único (1993), revoked by Lei 9.849/1999, "
+                                  "unstruck with its revocation note; it is not in force and is left out"}
+B13.OPEN_ITEMS[_LCTEMP] = (
+    "Lei 8.745 (open items): the STF's ADI 2.380 (Planalto prints only 'Vide ADIN 2380') is not modelled; Medida Provisória "
+    "2.229-43/2001 is dated by that edition (earlier editions of the chain are not modelled); 'Vide' pointers (Medidas "
+    "Provisórias 86/2002, 319/2006, 341/2006 and 2.216-37/2001, Lei 11.204/2005, decrees) and the 'Prorrogação de prazo' "
+    "pointers to Medida Provisória 431/2008 and Lei 11.784/2008 (art. 173) strike no words and are not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

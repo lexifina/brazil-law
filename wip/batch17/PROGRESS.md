@@ -392,6 +392,39 @@ OPEN_ITEMS both acts. effrep: all on publication (13.848 90 days by the reader);
 literal '(revogado)', quotecheck 2 ('alínea "f"'). Part sha a81ebfe4; merged 175 acts, 2978 versions, 2271 commits, check
 0/0, compare identical, audit clean (also after the README rows). README rows + jurisdiction.json (175 acts).
 
+## Ninth session (2026-10-31 night): parts z, za
+robots.txt read at start (web.archive.org 404; archive.org Disallows /control/ /report/ only). Fetching: archive.org only
+(iaonly.py pages/laws/missing/gap). pipe.sh now runs its file checks through run.py too (cpu gate). New tool .tmp/notecount.py
+<page id>... (amending acts named per page). Part names after z: za, zb, ... (corpus.d sorts 99-batch17z before 99-batch17za).
+Pages pinned: l9427 (l9427cons.htm, ts 20261022010720), l9427-compilada, l9782, l9782-compilado, l8745 (l8745cons.htm),
+l8745-compilada; `iaonly.py laws` for the three acts: 33 new pins; NO CAPTURE law:lei-15524-2026 (Lei 9.782, 4 notes).
+edscan: l9427 and l8745 name no pre-EC32 edition except MP 2.229-43 (l8745, its pinned edition) and a 'Vide 2.216-37'; l9782
+names 1.814-4, 1.912-6/-7/-9, 2.000-16/-17, 2.039-24, 2.134-28/-31, 2.190-34 (stack 2.039-24 + 2.190-34 once).
+
+## 99-batch17z - PUBLISHed 2026-10-31 (ninth session)
+Lei 9.427/1996 (ANEEL), 31 versions 1996-12-27 .. 2025-11-25 (l9427cons vs l9427compilada, 0 diffs).
+- Hand (`_LANEEL`, scoped): VIGENCIA_FIXED mp-1300-2025 21.5.2025 (art. 2 + art. 9 I a under III), lei-15235-2025 9.10.2025
+  (conversion keeps only art. 20 § 1º I-II revocation); MP_LAPSE mp-1212-2024 8.8.2024 (ato:adc-62-2024-mpv1212 pinned, read).
+- SPAN_FIX: art-03 XVII and art-20 § 1º MP 1.300 wordings end 9.10.2025, Planalto's struck second copies of the earlier
+  wordings = restored 9.10-25.11.2025 (Lei 15.269); art-26 § 12 '(VETADO)' 2.3-11.6.2021, promulgated § 12 from 11.6.2021
+  (Lei 14.120 promulgation, DOU 11.6.2021, read on its page).
+- effrep: all on publication (z-effrep2.log). effects_fix 0 moves. All checks 0 (quotecheck 4 = 'alínea "f"' law text).
+- Part sha 931d49fa (pre-effects 77b1fb78); merged 176 acts, 3009 versions, 2281 commits, check 0/0, compare identical, audit
+  clean. README row + jurisdiction.json (176 acts).
+
+## 99-batch17za - PUBLISHed 2026-10-31 (ninth session)
+Lei 8.745/1993 (contratação temporária), 32 versions 1993-12-10 .. 2026-03-31 (l8745cons vs l8745compilada, 1 diff EXPLAINED
+art-05). MP 922/2020 (110 notes) handled by the reader (shared lapse 30.6.2020, Ato 72/2020).
+- Hand (`_LCTEMP`, scoped): MP_LAPSE mp-1181-2023 (text for 8.745), mp-1186-2023 20.2.2024 (ato:adc-7-2024-mpv1186 pinned,
+  read); MP_PENDING mp-2229-2001 (8.745 text); NOTE_FIX '(Incluído pela MPV nº 2.229-43, de 6.9.2001)'.
+- SPAN_FIX: art-04 parágrafo único (Lei 10.667) no end (reader's 'renumbered' by MP 922 removed; gap 2.3-30.6.2020 kept);
+  art-05 p.u. unstruck revoked copy (nth 1) skipped; art-04 '§ 8º' Vide MP 86 pointer skipped.
+- paragraphs wrapper l8745 + l8745-compilada: 'Prorrogação de prazo' pointers (MP 431 / Lei 11.784 art. 173, one unclosed)
+  and stray full stops removed from art-02 d) and the 2003 art-04 caput (L8745_FIXED decision).
+- effrep (za-effrep.log): all on publication. effects_fix 0 moves. Benign: leakcheck 1 (art. 9 'Parágrafo único. (Revogado).'
+  as Lei 11.784 worded it), quotecheck 30 (quoted alínea letters). Part sha d4d41427 (pre-effects b889675d); merged 177 acts,
+  3041 versions, 2296 commits, check 0/0, compare identical, audit clean. README row + jurisdiction.json (177 acts).
+
 ## State at handoff (batch 17, eighth session, 2026-10-31)
 Parts 99-batch17a..y installed with .PUBLISH (49 acts); merged 175 acts, 2978 versions, 2271 commits, check 0/0, --compare
 identical, audit clean. All runs foreground through .tmp/run.py at BelowNormal, one at a time (PIDs in the logs; all exited;
