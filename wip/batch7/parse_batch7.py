@@ -267,5 +267,32 @@ SRC = HERE / "sources_batch7.json"
 B5.SRC = SRC
 B5.PIN_FILES = B5.PIN_FILES + [SRC]
 
+# Chamber of Deputies records the in-force days rely on (pinned as ctx:* in sources_batch7.json)
+B6.CONTEXT[:] = [
+    {"when": lambda: any(a["law"] == "lei-10257-2001" for a in ACTS),
+     "pins": ["ctx:camara-lei-10257-2001-norma", "ctx:camara-lei-10257-2001-retificacao"],
+     "what": "the record and the retificação (DOU 17.7.2001) of Lei 10.257/2001"},
+    {"when": lambda: any(a["law"] == "lc-182-2021" for a in ACTS),
+     "pins": ["ctx:camara-lc-182-2021-norma", "ctx:camara-lc-182-2021-retificacao"],
+     "what": "the record and the retificação (DOU 4.6.2021) of Lei Complementar 182/2021"},
+]
+
+_inner6 = B6.PB5B._write_part5
+
+
+def _inner(*a) -> int:
+    if CONVERTED_USED:
+        B5.EXTRA_DECISIONS.append(
+            "Medida Provisória pages whose 'Convertida na Lei' line is mistyped are read with the law their link names: "
+            + "; ".join(f"{P.law_label(k)}: {CONVERTED_FIX[k][1]}" for k in dict.fromkeys(CONVERTED_USED)) + ".")
+    if HEADING_LABEL_FIX:
+        B5.EXTRA_DECISIONS.append(
+            "A dispositivo Planalto prints centred, like a heading, is kept in its article when its line starts with a "
+            "dispositivo label: " + "; ".join(dict.fromkeys(HEADING_LABEL_FIX)) + ".")
+    return _inner6(*a)
+
+
+B6.PB5B._write_part5 = _inner
+
 if __name__ == "__main__":
     sys.exit(P.main(sys.argv[1:]))

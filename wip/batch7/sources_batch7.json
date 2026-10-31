@@ -1647,6 +1647,36 @@
     "offset": "31805340",
     "length": "100786"
    }
+  },
+  {
+   "id": "ctx:camara-lei-10257-2001-norma",
+   "url": "https://www2.camara.leg.br/legin/fed/lei/2001/lei-10257-10-julho-2001-327901-norma-pl.html",
+   "pt": {
+    "timestamp": "20190514000152",
+    "url": "https://www2.camara.leg.br/legin/fed/lei/2001/lei-10257-10-julho-2001-327901-norma-pl.html"
+   },
+   "via": "arquivo.pt"
+  },
+  {
+   "id": "ctx:camara-lei-10257-2001-retificacao",
+   "url": "https://www2.camara.leg.br/legin/fed/lei/2001/lei-10257-10-julho-2001-327901-retificacao-14708-pl.html",
+   "ts": "20260211024211",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ctx:camara-lc-182-2021-norma",
+   "url": "https://www2.camara.leg.br/legin/fed/leicom/2021/leicomplementar-182-1-junho-2021-791408-norma-pl.html",
+   "pt": {
+    "timestamp": "20241031011243",
+    "url": "https://www2.camara.leg.br/legin/fed/leicom/2021/leicomplementar-182-1-junho-2021-791408-norma-pl.html"
+   },
+   "via": "arquivo.pt"
+  },
+  {
+   "id": "ctx:camara-lc-182-2021-retificacao",
+   "url": "https://www2.camara.leg.br/legin/fed/leicom/2021/leicomplementar-182-1-junho-2021-791408-retificacao-162934-pl.html",
+   "ts": "20260213141953",
+   "via": "wayback.py"
   }
  ]
 }
