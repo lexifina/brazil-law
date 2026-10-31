@@ -142,6 +142,44 @@ B13.OPEN_ITEMS.clear()
 # ---------------------------------------------------------------------------------------------------------------
 # hand tables for these acts, each read from the official pages named in the reason
 
+P.VIGENCIA_FIXED.update({
+    "lc-102-2000": ("2000-08-01", "art. 7: 'Esta Lei Complementar entra em vigor no primeiro dia do mês subseqüente ao da sua "
+                                  "publicação' (DOU 12.7.2000)"),
+    "lc-190-2022": ("2022-01-05", "art. 3: 'Esta Lei Complementar entra em vigor na data de sua publicação, observado, quanto à "
+                                  "produção de efeitos, o disposto na alínea \"c\" do inciso III do caput do art. 150 da "
+                                  "Constituição Federal' (DOU 5.1.2022); as for other deferred effects, its wording is dated by "
+                                  "the in-force day"),
+    "lc-122-2006": ("2006-12-13", "art. 2: 'Esta Lei Complementar entra em vigor na data de sua publicação' (DOU 13.12.2006)"),
+})
+_LK = "lei-kandir"
+B8.LABEL_FIX += [
+    ("lc87", "2º Não integra a base de cálculo", "§ 2º Não integra a base de cálculo", "§ 2º",
+     "Lei Kandir art. 13 § 2º: Planalto's page prints the paragraph as '2º Não integra ...', its '§' lost in an empty "
+     "struck span above it; read as § 2º"),
+]
+_LC204 = ("Lei Kandir art. 12 § 5º (with its incisos I and II): vetoed in Lei Complementar 204/2023 (DOU 29.12.2023, in "
+          "force 1.1.2024), the veto overridden by Congress and the part promulgated on 12.6.2024 (DOU 13.6.2024, printed at "
+          "the end of LC 204's page); it starts on 13.6.2024, not with the rest of LC 204")
+B8.SPAN_FIX += [
+    ((_LK, "art-12", lab, pre, 0), {"start": "2024-06-13", "start_law": "lc-204-2023"}, _LC204) for lab, pre in [
+        ("§ 5º", "§ 5º Alternativamente ao disposto no § 4º"),
+        ("I -", "I - nas operações internas, as alíquotas estabelecidas"),
+        ("II -", "II - nas operações interestaduais, as alíquotas fixadas")]
+]
+# LC 214/2025 art. 543: 'Ficam revogados a partir de 1º de janeiro de 2033: [...] III - a Lei Complementar nº 87 [...]; IV -
+# a Lei Complementar nº 116' (art. 544 V: effects of art. 543 from 1.1.2033): both acts end on 1.1.2033 (futuro branch)
+_R2033 = ("{act} is repealed as a whole from 1.1.2033 by Lei Complementar 214/2025 art. 543 ('Ficam revogados a partir de 1º "
+          "de janeiro de 2033: [...] {item}'; art. 544 V: art. 543 takes effect on 1.1.2033), part of the transition to the "
+          "IBS/CBS of Emenda Constitucional 132/2023: its last version, on 1.1.2033, removes every provision, credited to LC "
+          "214/2025, and is on the future branch; the replay check is the usual one, today's text against Planalto's page")
+B9.REPEALS.clear()
+B9.REPEALS.update({
+    "lei-kandir": ("2033-01-01", "lc-214-2025", _R2033.format(act="Lei Complementar 87/1996 (Lei Kandir)",
+                                                             item="III - a Lei Complementar nº 87, de 13 de setembro de 1996")),
+    "lei-do-iss": ("2033-01-01", "lc-214-2025", _R2033.format(act="Lei Complementar 116/2003 (ISS)",
+                                                             item="IV - a Lei Complementar nº 116, de 31 de julho de 2003")),
+})
+
 OPEN_ITEMS = B13.OPEN_ITEMS
 
 SRC = HERE / "sources_batch14.json"
