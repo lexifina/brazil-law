@@ -70,7 +70,18 @@ B9.WORD_FIX[:] = [
      "('§ 1º .....', adding §§ 2º and 3º); both Planalto pages print '§ 1º Parágrafo único. Na hipótese ...', and the "
      "history drops the leftover words 'Parágrafo único.'"),
 ]
-_TYPO = "typesetting: the annotated page prints 'Art. {n}º.' with a full stop after the number; the consolidated page has none"
+# Lei Orgânica da Assistência Social
+B7.CONVERTED_FIX["mp-1164-2023"] = ("lei-14601-2023", "the MP page reads 'Convertida na Lei 14.601, de 2023' (no 'nº'); "
+                                                    "Lei nº 14.601, de 19.6.2023")
+P.MP_LAPSE["mp-446-2008"] = (
+    "2009-02-10", "rejected: Ato do Presidente da Câmara dos Deputados (DOU 12.2.2009) makes known that 'em sessão realizada "
+                  "no dia 10 de fevereiro de 2009, o Plenário da Casa rejeitou a Medida Provisória nº 446' (DOU 10.11.2008, "
+                  "in force on publication); the wording it had replaced is back from 10.2.2009 (CF art. 62 § 3 makes a "
+                  "rejected MP lose effect from its edition; the history keeps its wording for the days Planalto shows it "
+                  "standing)")
+B5.MP_REJECTED["mp-446-2008"] = ("Rejeição da Medida Provisória nº 446, de 2008",
+                                 "Ato do Presidente da Câmara dos Deputados: rejeição da Medida Provisória nº 446, de 2008")
+_TYPO ="typesetting: the annotated page prints 'Art. {n}º.' with a full stop after the number; the consolidated page has none"
 B.EXPLAINED[_LPSU] = {
     **{f"art-{n:02d}": _TYPO.format(n=n) for n in (1, 2, 4, 5, 7)},
     "art-06": _TYPO.format(n=6) + "; inciso VI reads 'caracteristicas' on the annotated page, 'características' on the "
