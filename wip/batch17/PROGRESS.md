@@ -75,6 +75,19 @@ Lei da Mobilidade Urbana 12.587/2012, 13 versions 2012-04-13 .. 2025-11-27 (in f
 - OPEN_ITEMS: Vide MP 1.179/2023, Lei 15.432/2026. effects_fix 0 moves. Part sha 5d79c481; merged 142 acts, 2489
   versions, 1999 commits, check 0/0, compare identical, audit clean. README row + jurisdiction.json (142 acts).
 
+## 99-batch17f - PUBLISHed 2026-10-31 (second session)
+Lei da Faixa de Fronteira 6.634/1979 (5 versions), Lei 9.469/1997 (8, vs l9469compilado.htm), Lei de Segurança do Tráfego
+Aquaviário 9.537/1997 (3; in force 10.6.1998, 180 days) = 16 versions.
+- VIGENCIA_PROVISION lei-14004-2020 x Lei 6.634 art-04/art-08-a = 8.9.2020 (vetoed art. 1 promulgated after the override,
+  DOU 8.9.2020 extra, read on Lei 14.004's page) + EXTRA decision (only when part f's acts run).
+- MP_PENDING mp-2226-2001 (new); mp-2216-2001 text for Lei 6.634 art. 9 § 1º set ONLY when PART == "f" (part b keeps its
+  Lei 9.790 text). The base parser already handles Lei 9.469 art. 6 Parágrafo único -> § 1º (MP 2.226 renumbering).
+- OPEN_ITEMS L9469 (Vide ADIN 2.527-9: the STF suspension of MP 2.226 art. 3 is NOT modelled; portal.stf.jus.br robots.txt
+  now Disallows /processos, so no STF pages may be read; MP 1.561 chain), LESTA (regulations).
+- effects_fix 0 moves. Part sha fabe98f0 (pre-effects b6af9804); merged 145 acts, 2505 versions, 2008 commits, check 0/0,
+  compare identical, audit clean. README rows + jurisdiction.json (145 acts).
+- New: .tmp/pipe.sh <part> runs the whole per-part pipeline (2 parses, sha, effects_fix, every check, merged build).
+
 ## State at handoff (batch 17, 2026-10-31 ~19:00 local)
 Parts 99-batch17a..e installed with .PUBLISH (16 acts, 95 versions; merged 142 acts, 2489 versions, 1999 commits, check
 0/0, --compare identical, audit clean). README rows + jurisdiction.json (142 acts) current. effects_fix.py MOVES added for

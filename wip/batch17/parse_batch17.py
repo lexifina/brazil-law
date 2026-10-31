@@ -111,6 +111,10 @@ ALL_ACTS: list[dict] = [
          "Acordos e intervenção da União em causas judiciais (Lei nº 9.469, de 10 de julho de 1997)", 2),
     _act("lei-da-seguranca-do-trafego-aquaviario", "LESTA", "l9537", "l9537", "lei-9537-1997",
          "Lei de Segurança do Tráfego Aquaviário (Lei nº 9.537, de 11 de dezembro de 1997)", 2),
+    _act("lei-do-susp", "LSUSP", "l13675", "l13675", "lei-13675-2018",
+         "Lei do Sistema Único de Segurança Pública (Lei nº 13.675, de 11 de junho de 2018)", 2),
+    _act("lei-do-mercado-de-capitais", "LMC", "l4728", "l4728-compilado", "lei-4728-1965",
+         "Lei do Mercado de Capitais (Lei nº 4.728, de 14 de julho de 1965)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -121,6 +125,7 @@ PARTS: dict[str, list[str]] = {
     "d": ["lei-de-biosseguranca", "lei-do-planejamento-familiar", "lei-do-processo-eletronico"],
     "e": ["lei-da-mobilidade-urbana"],
     "f": ["lei-da-faixa-de-fronteira", "lei-9469-de-1997", "lei-da-seguranca-do-trafego-aquaviario"],
+    "g": ["lei-do-susp", "lei-do-mercado-de-capitais"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -162,6 +167,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-9469-1997": ("1997-07-11", f"Lei 9.469/1997 art. 13: {_PUB} (DOU 11.7.1997)"),
     "lei-9537-1997": ("1998-06-10", "Lei 9.537/1997 art. 41: 'Esta Lei entra em vigor cento e oitenta dias após a data de "
                                     "sua publicação' (DOU 12.12.1997; 180 days after 12.12.1997 is 10.6.1998)"),
+    "lei-13675-2018": ("2018-07-12", "Lei 13.675/2018 art. 50: 'Esta Lei entra em vigor após decorridos 30 (trinta) dias de "
+                                     "sua publicação oficial' (DOU 12.6.2018; LC 95/1998 art. 8 § 1)"),
+    "lei-4728-1965": ("1965-07-16", "Lei 4.728/1965 art. 83: 'A presente Lei entra em vigor na data de sua publicação' (DOU "
+                                    "16.7.1965, rectified 16.8.1965)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -223,6 +232,14 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         "de 1995, e dá outras providências.", "1997-07-10", "1997-07-11", PAGES["l9469"]),
     "lei-9537-1997": _L("Lei nº 9.537, de 1997", "Dispõe sobre a segurança do tráfego aquaviário em águas sob jurisdição "
                         "nacional e dá outras providências.", "1997-12-11", "1997-12-12", PAGES["l9537"]),
+    "lei-13675-2018": _L("Lei nº 13.675, de 2018", "Disciplina a organização e o funcionamento dos órgãos responsáveis pela "
+                         "segurança pública, nos termos do § 7º do art. 144 da Constituição Federal; cria a Política Nacional "
+                         "de Segurança Pública e Defesa Social (PNSPDS); institui o Sistema Único de Segurança Pública (Susp); "
+                         "altera a Lei Complementar nº 79, de 7 de janeiro de 1994, a Lei nº 10.201, de 14 de fevereiro de 2001, "
+                         "e a Lei nº 11.530, de 24 de outubro de 2007; e revoga dispositivos da Lei nº 12.681, de 4 de julho de "
+                         "2012.", "2018-06-11", "2018-06-12", PAGES["l13675"]),
+    "lei-4728-1965": _L("Lei nº 4.728, de 1965", "Disciplina o mercado de capitais e estabelece medidas para o seu "
+                        "desenvolvimento.", "1965-07-14", "1965-07-16", PAGES["l4728"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -358,6 +375,39 @@ B8.SPAN_FIX += [
      "nº 20/2017)"),
 ]
 
+# part f: Lei 6.634/1979, Lei 9.469/1997, Lei 9.537/1997
+_LFF, _L9469, _LESTA = "lei-da-faixa-de-fronteira", "lei-9469-de-1997", "lei-da-seguranca-do-trafego-aquaviario"
+if PART == "f":   # the text part b published stays as it is for part b
+    P.MP_PENDING["mp-2216-2001"] = (
+        "Medida Provisória nº 2.216-37, de 31.8.2001 (DOU 1.9.2001, art. 32: in force on publication), kept in force by "
+        "Emenda Constitucional 32/2001, art. 2; its art. 33 revoked Lei 6.634 art. 9 § 1º. Planalto's note names this edition "
+        "only, so the revocation is dated by its publication; earlier editions of the chain are not modelled")
+P.MP_PENDING["mp-2226-2001"] = (
+    "Medida Provisória nº 2.226, de 4.9.2001 (DOU 5.9.2001, edição extra; art. 4: in force on publication), kept in force by "
+    "Emenda Constitucional 32/2001, art. 2; its art. 3 renumbered Lei 9.469 art. 6 parágrafo único "
+    "as § 1º and added § 2º, which Lei 13.140/2015 revoked")
+# Lei 14.004/2020 (DOU 27.5.2020) art. 1, the new wording of Lei 6.634 art. 4 caput and the new art. 8-A, was vetoed;
+# Congress overrode the veto and the President of the Senate promulgated it in the DOU of 8.9.2020 (edição extra), printed on
+# Lei 14.004's page ('Promulgação partes vetadas'). Lei 14.004 art. 3: in force on publication.
+_W14004 = ("promulgated after the veto was overridden (Senado Federal, 8.9.2020; DOU 8.9.2020, edição extra; printed on Lei "
+           "14.004's page as 'Promulgação partes vetadas'); Lei 14.004 art. 3: in force on publication")
+P.VIGENCIA_PROVISION.update({("lei-14004-2020", _LFF, u): ("2020-09-08", "Lei 14.004/2020 art. 1 " + _W14004)
+                             for u in ("art-04", "art-08-a")})
+if any(a["slug"] == _LFF for a in ACTS):
+    EXTRA.append("Lei 6.634 art. 4 caput and art. 8-A: Lei 14.004/2020 (DOU 27.5.2020) art. 1, which gave them their wording, "
+                 "was vetoed; Congress overrode the veto and the President of the Senate promulgated the part (DOU 8.9.2020, "
+                 "edição extra; printed on Lei 14.004's page, 'Promulgação partes vetadas'). Lei 14.004 art. 3: in force on "
+                 "publication; the change is dated 8.9.2020, credited to Lei 14.004, and the 1979 caput of art. 4 stands to "
+                 "then.")
+B13.OPEN_ITEMS[_L9469] = (
+    "Lei 9.469 (open items): Planalto's 'Vide ADIN Nº 2.527-9' on art. 6 (the § 2º Medida Provisória 2.226/2001 added, "
+    "revoked by Lei 13.140/2015) and 'Vide Lei nº 14.057, de 2020' on art. 1 are pointers that strike no words on the page "
+    "and are not modelled; the text before 11.7.1997 (the Medida Provisória 1.561 chain; this Lei is the conversion of "
+    "its edition 1.561-6/1997) is not part of the history")
+B13.OPEN_ITEMS[_LESTA] = (
+    "Lei 9.537 (open items): the regulations it names (Decreto 2.596/1998, 'Vide Decreto nº 5.129, de 2004') are not part "
+    "of the history")
+
 # Lei 7.418/1985: Lei 7.619/1987 (DOU 1.10.1987, in force on publication) art. 1 gave art. 1 caput a new wording and
 # revoked art. 1 § 2º and art. 2, 'renumerando-se os demais'. Planalto prints arts. 3 to 13 of 1985 only under their new
 # numbers (2 to 12, each with '(Renumerado do art. N, pela Lei 7.619, de 30.9.1987)'). Lei 7.619 changed no other words,
@@ -476,6 +526,33 @@ def veto_kept(paras, act):
         VETO_KEPT_USED.append(f"art. {int(unit[4:])}" + (f" {label}" if label else "") + f" ({len(hit)} lines)")
 
 
+# part g: Lei 13.675/2018 (Susp). Lei 14.531/2023 (DOU 11.1.2023) art. 2: its art. 9 § 2º XVII and art. 42-A § 7º were
+# vetoed; Congress overrode the vetoes and the Vice-President, as acting President, promulgated them (DOU 19.7.2023, printed
+# on Lei 14.531's page). Planalto prints them with Lei 14.531's other lines, '(Incluído pela Lei nº 14.531, de 2023)'.
+_LSUSP = "lei-do-susp"
+PROMULGATED = {_LSUSP: [("art-09", "XVII -", "XVII - polícia legislativa", "2023-07-19", "lei-14531-2023"),
+                        ("art-42-a", "§ 7º", "§ 7º O disposto neste artigo aplica-se aos integrantes", "2023-07-19",
+                         "lei-14531-2023")]}
+PROMULGATED_USED: list[str] = []
+
+
+def promulgated(paras, act):
+    for unit, label, start, day, law in PROMULGATED.get(act["slug"], []):
+        hit = [p for p in paras if p["unit"] == unit and p["label"] == label and not p["heading"] and not p.get("skip")
+               and P.norm(p["text"]).startswith(start) and p["start"] < day]
+        for p in hit:
+            p["start"], p["start_law"] = day, law
+        PROMULGATED_USED.append(f"art. {unit[4:].lstrip('0')} {label.rstrip(' -')} ({len(hit)} line)")
+
+
+B.EXPLAINED[_LSUSP] = {
+    "art-47": "check artefact: art. 47 quotes Lei 10.201/2001 art. 4 with the dotted line '§ 3º .....', which the history "
+              "keeps as '§ 3º.' and the check, reading label-only lines as revoked dispositivos, drops",
+}
+B13.OPEN_ITEMS[_LSUSP] = (
+    "Lei 13.675 (open items): 'Vide ADPF 995' on art. 9 (the STF's reading of the guardas municipais as part of the Susp) "
+    "strikes no words and is not modelled")
+
 _apply_rewrites17 = P.apply_rewrites
 
 
@@ -484,6 +561,7 @@ def apply_rewrites(paras, act, eff, problems):
     renum_articles(paras, act)
     mp955_two_copies(paras, act)
     veto_kept(paras, act)
+    promulgated(paras, act)
     return out
 
 
@@ -518,6 +596,11 @@ def _inner(*a):
                    "Congresso Nacional)', '(Parágrafo vetado e mantido ...)') were promulgated by the President "
                    "(Mensagem nº 928, de 19.8.1997: 'acabo de promulgá-los'; DOU 20.8.1997) and start that day, credited "
                    "to Lei 9.263: " + ", ".join(VETO_KEPT_USED) + ".")
+    if PROMULGATED_USED:
+        dec.append("Lei 13.675: Lei 14.531/2023 (DOU 11.1.2023, in force on publication) added art. 9 § 2º XVII and art. 42-A "
+                   "§ 7º, but they were vetoed; Congress overrode the vetoes and they were promulgated in the DOU of 19.7.2023 "
+                   "(printed on Lei 14.531's page). Planalto notes them '(Incluído pela Lei nº 14.531, de 2023)' with the "
+                   "law's other lines; they start on 19.7.2023, credited to Lei 14.531: " + ", ".join(PROMULGATED_USED) + ".")
     if FOREIGN_DROPPED:
         dec.append("Lei 605: two unlabelled lines Planalto prints with no note, 'Descanso semanal' (above art. 1) and "
                    "'Harmonização de multas trabalhistas constantes de legislações esparsas' (above art. 12), are the "
