@@ -430,6 +430,17 @@
    }
   },
   {
+   "id": "law:lei-11673-2008",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11673.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261013004741",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054685.16/warc/CC-MAIN-20261012234857-20261013024857-00653.warc.gz",
+    "offset": "36289107",
+    "length": "3363"
+   }
+  },
+  {
    "id": "law:lei-11706-2008",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11706.htm",
    "cc": {
