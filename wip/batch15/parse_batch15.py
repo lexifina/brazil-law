@@ -208,6 +208,65 @@ def mp_pairs_decision() -> list[str]:
             + "; ".join(dict.fromkeys(MP_PAIRS_USED)) + "."]
 
 
+# ---------------------------------------------------------------------------------------------------------------
+# in-force days and MP fates for the laws these acts' notes cite (each read from the law's own cached page; lapse days
+# from the Atos Declaratórios pinned in batch14/sources_batch14.json as ato:*)
+P.VIGENCIA_FIXED.update({
+    "lei-11457-2007": ("2007-05-02", "art. 51: 'Esta Lei entra em vigor: I - na data de sua publicação, para o disposto nos "
+                                     "arts. 40, 41, 47, 48, 49 e 50 desta Lei; II - no primeiro dia útil do segundo mês "
+                                     "subseqüente à data de sua publicação, em relação aos demais dispositivos' (DOU "
+                                     "19.3.2007): its changes to Leis 8.212 and 8.213 (arts. 2, 17, 32) fall under II, the "
+                                     "first business day of May 2007 (1 May is a public holiday): 2.5.2007"),
+    "lei-13670-2018": ("2018-05-30", "art. 11: 'Esta Lei entra em vigor: I - no primeiro dia do quarto mês subsequente ao de "
+                                     "sua publicação, quanto aos arts. 1º e 2º, e ao inciso II do caput do art. 12; e II - na "
+                                     "data de sua publicação, quanto aos demais dispositivos' (DOU 30.5.2018): its changes to "
+                                     "Lei 8.212 (arts. 3 and 5) fall under II"),
+    "lei-13756-2018": ("2018-12-13", "art. 39: 'Esta Lei entra em vigor: I - após decorridos 180 (cento e oitenta dias) [...] "
+                                     "em relação à alteração do art. 18-A da Lei nº 9.615 [...]; e II - na data de sua "
+                                     "publicação, em relação aos demais dispositivos' (DOU 13.12.2018): its change to Lei "
+                                     "8.212 (art. 36) falls under II"),
+    "lei-14784-2023": ("2023-12-28", "art. 7: 'Esta Lei entra em vigor: I - na data de sua publicação, quanto aos arts. 1º, "
+                                     "2º, 4º e 5º; e II - no primeiro dia do quarto mês subsequente ao de sua publicação, "
+                                     "quanto aos arts. 3º e 6º' (DOU 28.12.2023): its changes to Lei 8.212 (arts. 2 and 4) "
+                                     "fall under I"),
+    "mp-258-2005": ("2005-08-15", "art. 38: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, em relação "
+                                  "aos arts. 32 e 37; e II - em 15 de agosto de 2005, os demais artigos' (DOU 22.7.2005): its "
+                                  "changes to Lei 8.212 (arts. 3, 27 and 39) fall under II"),
+})
+P.MP_LAPSE.update({
+    "mp-252-2005": ("2005-10-14", "Ato Declaratório do Presidente da Mesa do Congresso Nacional of 14.10.2005: 'teve seu "
+                                  "prazo de vigência encerrado no dia 13 de outubro do corrente ano'"),
+    "mp-258-2005": ("2005-11-19", "Ato Declaratório do Presidente da Mesa do Congresso Nacional of 21.11.2005: 'teve seu "
+                                  "prazo de vigência encerrado no dia 18 de novembro do corrente ano'"),
+    "mp-793-2017": ("2017-11-29", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 66, de 2017 (DOU "
+                                  "7.12.2017): 'teve seu prazo de vigência encerrado no dia 28 de novembro'"),
+    "mp-841-2018": ("2018-10-24", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 64, de 2018 (DOU "
+                                  "25.10.2018): 'teve seu prazo de vigência encerrado no dia 23 de outubro'"),
+    "mp-927-2020": ("2020-07-20", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 92, de 2020 (DOU "
+                                  "31.7.2020): 'teve seu prazo de vigência encerrado no dia 19 de julho'"),
+    "mp-1110-2022": ("2022-08-08", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 65, de 2022 (DOU "
+                                   "19.8.2022): 'teve seu prazo de vigência encerrado no dia 7 de agosto'"),
+})
+P.MP_PENDING.update({
+    "mp-2170-2001": ("Medida Provisória nº 2.170-36, de 23.8.2001 (DOU 24.8.2001, in force on publication; its effects from "
+                     "1.1.1999 are retroactive, so its changes are dated by publication), kept in force by Emenda "
+                     "Constitucional 32/2001, art. 2; its art. 8 revoked Lei 8.212 art. 60 parágrafo único"),
+    "mp-2216-2001": ("Medida Provisória nº 2.216-37, de 31.8.2001 (DOU 1.9.2001, in force on publication), kept in force by "
+                     "Emenda Constitucional 32/2001, art. 2; its art. 33 revoked Lei 8.212 arts. 6, 7, 63 to 66, 77, 84 and "
+                     "86 and Lei 8.213 arts. 7 and 8. Planalto's notes name this edition only, so the revocations are "
+                     "dated by its publication; earlier editions of the chain are not modelled"),
+})
+EXTRA: list[str] = []
+_inner15 = B6.PB5B._write_part5
+
+
+def _inner(*a):
+    B5.EXTRA_DECISIONS.extend(mp_pairs_decision() + EXTRA)
+    return _inner15(*a)
+
+
+B6.PB5B._write_part5 = _inner
+
 SRC = HERE / "sources_batch15.json"
 B5.SRC = SRC
 B5.PIN_FILES = B5.PIN_FILES + [SRC]
