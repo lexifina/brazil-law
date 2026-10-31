@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-k PUBLISHed, 26 acts, 317 versions; merged 152 acts, 2711 versions; next: Leis 13.465/2017, 11.977/2009; see batch17/PROGRESS.md)
+CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-l PUBLISHed, 27 acts, 325 versions; merged 153 acts, 2719 versions; next: Lei 11.977/2009 (part m, pages pinned, not configured); see batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 
@@ -181,3 +181,4 @@ Batch 17 (2026-10-31): small parts 99-batch17a, b, ... 99-batch17a PUBLISHed: Le
 99-batch17i PUBLISHed: Lei 9.250/1995 (IRPF, 35 versions; MP 644/2014 and MP 1.171/2023 lapses, 17 effect-day moves); merged 150 acts, 2599 versions, 2071 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (150 acts). NOTE: data.commoncrawl.org and arquivo.pt robots.txt Disallow the paths used; fetch via batch17/.tmp/iaonly.py (archive.org only).
 99-batch17j PUBLISHed: Lei 7.713/1988 (IR, 43 versions; MP 1.251/2024 lapse, 1989 MP 68/114 effect days, 20 effect-day moves); 99-batch17i re-PUBLISHed (decision wording); merged 151 acts, 2642 versions, 2101 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (151 acts).
 99-batch17k PUBLISHed: Lei 9.430/1996 (69 versions; Lei 12.715/12.766 and 11.727 provision days, MP 252/478/303/75 chains, Lei 14.596 in force 1.1.2024, 8 effect-day moves, Lei 15.525 2030 on futuro); merged 152 acts, 2711 versions, 2136 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (152 acts).
+99-batch17l PUBLISHed: Lei 13.465/2017 (REURB, 8 versions; vetoed parts promulgated 8.9.2017 modelled); merged 153 acts, 2719 versions, 2138 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (153 acts).

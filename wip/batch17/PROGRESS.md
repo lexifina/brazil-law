@@ -184,12 +184,32 @@ Lei 9.430/1996, 69 versions 1996-12-30 .. 2026-01-14 (+ 2030-01-01 on futuro). I
   incisos, correct); leakcheck only literal '(revogado)'.
 - New tool .tmp/cdxlist.py <planalto path>...: archive.org CDX listing (timestamps, lengths).
 
+## 99-batch17l - PUBLISHed 2026-10-31 (fourth session)
+Lei 13.465/2017 (REURB), 8 versions 2017-07-12 .. 2023-12-20. Page l13465.htm pinned (archive.org ts 20261022110427); no
+compilado page exists (the act's own page is its consolidated page; 4 check artefacts EXPLAINED: dotted quoted '§ 1º.').
+- paragraphs wrapper l13465: '(Partes vetadas)' link stripped; quoted Lei 11.952 art. 16 (no opening quote, inside art. 4)
+  moved from unit art-16 back into art-04 (only before art-05 is seen).
+- SPAN_FIX: promulgated vetoed parts (President, 6.9.2017, DOU 8.9.2017; text at the foot of the page) start 8.9.2017
+  credited to lei-13465-2017: art-03 quoted Lei 13.001 art. 3 caput + its dotted closing line (nth 0), art-03-a (all 2017
+  lines), art-04 quoted § 2º 'Caso a análise'; art-33 § 1º II/III third (unnoted) copy starts with Lei 14.118 (13.1.2021).
+- Amenders all in force on publication (effrep read): 0 effect moves. OPEN_ITEMS: MP 759/2016 text, rectification 6.9.2017.
+- Benign checks: dupline 108 / dupcheck 9 / leakcheck / overlap 3 SAME = quoted text of the amending articles (arts. 2, 4,
+  55, 67, 81, 91-93 ...). Part sha 0eb43315; merged 153 acts, 2719 versions, 2138 commits, check 0/0, compare identical,
+  audit clean. README row + jurisdiction.json (153 acts).
+
+## Part m (not started): Lei 11.977/2009 (Minha Casa, Minha Vida)
+Pages pinned (archive.org): l11977 (ts 20261012031101), l11977-compilado (ts 20261004182151); PAGES entries exist, act NOT
+in ALL_ACTS/PARTS. Size: ~677 struck runs, ~1018 notes (heavier than 9.430). Its Capítulo III (REURB) was revoked by Lei
+13.465 art. 109 IV (12.7.2017). Next: add the _act (page l11977, consolidated l11977-compilado, law lei-11977-2009, DOU
+8.7.2009, in force on publication, last article), `iaonly.py laws l11977` + `missing` (BATCH17_ACTS set), trial, effrep on
+every amender (many MPs: 459/2009 conversion, 514/2010, 561/2012, 656/2014, 698/2015, 759/2016 ...).
+
 ## State at handoff (batch 17, fourth session, 2026-10-31)
-Parts 99-batch17a..k installed with .PUBLISH (26 acts, 317 versions; merged 152 acts, 2711 versions, 2136 commits, check
-0/0, --compare identical, audit clean). README rows + jurisdiction.json (152 acts) current. All runs foreground through
+Parts 99-batch17a..l installed with .PUBLISH (27 acts, 325 versions; merged 153 acts, 2719 versions, 2138 commits, check
+0/0, --compare identical, audit clean). README rows + jurisdiction.json (153 acts) current. All runs foreground through
 .tmp/run.py at BelowNormal; every PID exited; nothing left running. Fetching: archive.org only (iaonly.py); Arquivo.pt is
 user-approved (BRIEF) but not needed so far; no Common Crawl requests.
-Next: Leis 13.465/2017 and 11.977/2009 (pages not yet pinned: `iaonly.py gap <id> <url>`; .tmp/cdxlist.py lists captures).
+Next: Lei 11.977/2009 as part m (pages pinned, not configured: see 'Part m').
 
 ## State at handoff (batch 17, third session, 2026-10-31)
 Parts 99-batch17a..j installed with .PUBLISH (25 acts, 248 versions; merged 151 acts, 2642 versions, 2101 commits, check
