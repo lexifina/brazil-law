@@ -441,7 +441,14 @@ def apply_move(act: dict, law: str, day: str, rules, moved: list[str]) -> None:
                     break
                 continue
             cur = (w["units"].get(u) or {}).get("text")
-            lines = (cur or "").splitlines()
+            if cur == new:
+                # the unit as the law left it: rebuilt exactly from the line operations
+                pend = {id(h) for h in pending}
+                t = rebuild(ops, lambda h: id(h) not in pend)
+                lines = (t or "").splitlines()
+                pending = []
+            else:
+                lines = (cur or "").splitlines()
             for h in pending:
                 if h["new"] and h["old"]:
                     if h["new"][0] in lines:
