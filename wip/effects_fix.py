@@ -160,7 +160,7 @@ MOVES: dict[str, list] = {
         ("lei-das-sociedades-por-acoes", "lei-9249-1995", "1995-12-27", [(ALL, "1996-01-01")],
          "Lei 9.249/1995 art. 35: 'produzindo efeitos a partir de 1º de janeiro de 1996'"),
         ("lei-das-sociedades-por-acoes", "mp-517-2010", "2010-12-31",
-         [(lines_match(r"^Art\. 60\b"), "2010-12-31"), (ALL, "2011-01-01")],
+         [("units:art-060", "2010-12-31"), (ALL, "2011-01-01")],
          "Medida Provisória 517/2010 art. 24: 'produzindo efeitos a partir de 1º de janeiro de 2011 em relação aos arts. 1º "
          "a 17': its art. 6 (arts. 55, 59 and 66) from 1.1.2011; its art. 21 (revocation of art. 60) on publication"),
         ("lei-das-sociedades-por-acoes", "mp-1040-2021", "2021-03-30",
