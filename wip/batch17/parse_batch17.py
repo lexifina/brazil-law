@@ -104,7 +104,6 @@ PAGES.update({
     "l9074-compilada": "leis/l9074compilada.htm",
     "l12815": "_ato2011-2014/2013/lei/l12815.htm",
     "l12783": "_ato2011-2014/2013/lei/l12783.htm",
-    "l10931": "_ato2004-2006/2004/lei/l10931.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
