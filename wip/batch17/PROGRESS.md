@@ -346,6 +346,63 @@ Pages l13848 (ts 20261019033049), l9986 (ts 20261004205325; both their own conso
 - Part sha 7cae6c66 (pre-effects a289b28f). Final merged build (all installed parts, after README edits): 173 acts, 2960
   versions, 2259 commits, check 0/0, compare identical, audit clean.
 
+## Eighth session (2026-10-31 late): MP edition reader (batch 6) + 99-batch17y PUBLISHed
+Reader change, in batch6/parse_batch6.py (the reader every batch 6-17 parser imports; batch 3/4/5/5b, proc, phase2, clt,
+codes, rju do not import it and credit only pinned editions):
+- law_key: a note 'Medida Provisória nº <n>-<e>, de <y>' gets its own key mp-<n>r<e>-<y> whenever the page pinned as
+  law:mp-<n>-<y> is a different edition (pinned_edition() reads the edition from the pinned URL '.../<n>-<e>.htm'); the
+  base key stays the pinned edition (labels unchanged: 'Medida Provisória nº 2.177, de 2001' = 2.177-44). REISSUES (1710-1)
+  kept. page_info for r-keys was already in batch 6 (own pinned page, base-number check, LexML ';n-e').
+- mp_chain() replaces the hand MP_CHAINS (still honoured): 2+ start notes naming pre-EC32 MPs whose editions rise with
+  their DOU days -> the wording starts with the earliest, if its text (alnum, label stripped) is on every edition's page;
+  else latest day kept, listed (MP_CHAIN_UNREAD decision). Renumbering notes left alone.
+- Edition end: page_info marks an MP page before 11.9.2001, not converted / MP_LAPSE / MP_PENDING, with 'Reeditada pela
+  MPv nº X-E' (next page pinned) as REISSUED (MP_PENDING marker so parse_proc raises no fate problem; mp_notes wrapper
+  says 'was reissued as ... (DOU d)'); reissue_ends(): a struck line of that edition with no end ends on the next
+  edition's DOU day unless the next page carries the same label+words (then a problem); also (pre-EC32 editions only) §§
+  an edition made end when a later edition's 'Parágrafo único' after them starts, and a wording printed again later in the
+  article with a later edition's note ends the first copy (successor search stops at a higher-level line). The next
+  edition is added to ACT_LAWS (pruned if unused).
+- LexML for a base key whose pinned page is an edition: record ';<n>-<e>' read if cached (MP 1.891-8: page DOU 27.8.1999 is
+  the previous edition's; LexML 25.9.1999 edição extra).
+- Decision added only when r-keys are in a part: base label = pinned edition list.
+Verification: batch18/.tmp/reparse_all.py <dir> reparses all 53 batch 6-17 parts (+effects_fix), one process at a time.
+Baseline (before the change) in .gitlaw-scratch/brazil-b18/base; after the final reader (after3) every one of the 53 is
+byte-identical to its baseline (17q's 3 problems pre-exist). NOTE: the baseline already differs from several INSTALLED
+parts in sources notes/requests and later global NOTE_FIX decision lines (13a-g, 14a-c, 16a-d, 17a-x): pre-existing drift,
+not from this change.
+Installed parts crediting pre-EC32 MP editions (batch18/.tmp/edparts.py): 6, 7, 9, 10, 12, 14b, 14d, 15a, 15b, 16b, 16e,
+16f, 17a, 17b, 17c, 17f, 17g, 17i, 17k, 17w, 17x (+70-clt, 95-rju, other parsers): every credited edition is the pinned
+one -> 0 units moved; the open items (MPs 2.164, 2.165, 2.183, 2.196, 2.197, 2.216, 1.894, 2.168) stay open because
+Planalto's pages name no earlier edition. Each of the 21 PUBLISH files got a re-verification line.
+Lei 9.656 (99-batch12): NOT extended to 1998: its pre-2.177-44 editions (1.685-5, 1.730-7, 1.801-11/-14, 1.908-17/-18/-20)
+appear only in struck 'Vide' pointers and credit no wording. Next step if wanted: walk chains BACKWARD through each
+edition's convalidation article ('Ficam convalidados os atos praticados com base na Medida Provisória nº X-(E-1)') and date
+a final-edition wording by the earliest edition whose page carries it (~40-56 pages per chain, ~300 pages for all chains
+above); Lei 9.656 back to 1998 would also need the intermediate wordings parsed from the edition pages.
+
+### 99-batch17y - PUBLISHed (eighth session)
+Lei 9.961/2000 ANS (9 versions 2000-01-29 .. 2019-09-24), Lei 9.717/1998 RPPS (9, 1998-11-28 .. 2019-06-18); 0 diffs, 0 problems.
+Pinned (iaonly.py gap, archive.org): mp-1891r9-1999, mp-1891r10-1999, mp-2097r37/r40/r41-2001, mp-2177r43-2001,
+mp-2187r12-2001, mp-2043r21-2000, mp-1976r34-2000; LexML medida.provisoria:1999-09-24;1891-8 cached (robots read: /urn ok).
+Chain starts: ANS art. 4 XVII, XXXV, XL, XLI + a)-g), etc. from 2.177-43 (28.7.2001) / 2.097-36 (27.1.2001) / 1.976-33; 9
+wordings kept at 2.177-44 (text not on the earlier page: 2.177-43's page misprints 'depanos'; 2.097-36's § 7º and art. 33
+differ). Ends: art. 4 XLIII, § 4º (2.177-43) on 27.8.2001; L9717 art. 1 §§ 1º-2º (2.043-20) on 28.7.2001; art. 9 III.
+OPEN_ITEMS both acts. effrep: all on publication (13.848 90 days by the reader); effects_fix 0 moves. Benign: leakcheck 5
+literal '(revogado)', quotecheck 2 ('alínea "f"'). Part sha a81ebfe4; merged 175 acts, 2978 versions, 2271 commits, check
+0/0, compare identical, audit clean (also after the README rows). README rows + jurisdiction.json (175 acts).
+
+## State at handoff (batch 17, eighth session, 2026-10-31)
+Parts 99-batch17a..y installed with .PUBLISH (49 acts); merged 175 acts, 2978 versions, 2271 commits, check 0/0, --compare
+identical, audit clean. All runs foreground through .tmp/run.py at BelowNormal, one at a time (PIDs in the logs; all exited;
+nothing running). Fetching archive.org + one LexML /urn record only; robots.txt read this session (web.archive.org 404,
+archive.org /control/ /report/ only, LexML /urn allowed, Crawl-delay 5). No Common Crawl, no Arquivo.pt.
+DATED RE-CHECK (unchanged): MP 1.382/2026 (part m) after 28.11.2026.
+Next: Lei 9.427/1996 (l9427cons.htm vs l9427compilada.htm), Lei 9.782/1999 (MP 2.190-34 chain), Lei 8.745/1993
+(l8745cons.htm) as small parts: pin pages (iaonly.py pages), run batch18/.tmp/edscan.py / stackscan.py on them first, pin
+every edition a crediting note names that differs from the pinned base edition and each such edition's 'Reeditada pela'
+next edition (edlinks.py lists hrefs), then the usual pipeline (pipe.sh <part>).
+
 ## State at handoff (batch 17, seventh session, 2026-10-31)
 Parts 99-batch17a..x installed with .PUBLISH (47 acts; merged 173 acts, 2960 versions, 2259 commits, check 0/0, --compare
 identical, audit clean). README rows + futuro lines + jurisdiction.json (173 acts) current. All runs foreground through

@@ -112,6 +112,13 @@ PAGES.update({
     "l9961": "leis/l9961.htm",
     "l9717": "leis/l9717.htm",
     "l9717-compilado": "leis/l9717compilado.htm",
+    # parts z, ...: Leis 9.427/1996 (ANEEL), 9.782/1999 (Anvisa), 8.745/1993 (contratação temporária)
+    "l9427": "leis/l9427cons.htm",
+    "l9427-compilada": "leis/l9427compilada.htm",
+    "l9782": "leis/l9782.htm",
+    "l9782-compilado": "leis/l9782compilado.htm",
+    "l8745": "leis/l8745cons.htm",
+    "l8745-compilada": "leis/l8745compilada.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -218,6 +225,12 @@ ALL_ACTS: list[dict] = [
          "Agência Nacional de Saúde Suplementar - ANS (Lei nº 9.961, de 28 de janeiro de 2000)", 2),
     _act("lei-9717-de-1998", "L9717", "l9717", "l9717-compilado", "lei-9717-1998",
          "Regimes próprios de previdência social dos servidores públicos (Lei nº 9.717, de 27 de novembro de 1998)", 2),
+    _act("lei-da-aneel", "LANEEL", "l9427", "l9427-compilada", "lei-9427-1996",
+         "Agência Nacional de Energia Elétrica - ANEEL (Lei nº 9.427, de 26 de dezembro de 1996)", 2),
+    _act("lei-da-anvisa", "LAnvisa", "l9782", "l9782-compilado", "lei-9782-1999",
+         "Sistema Nacional de Vigilância Sanitária e Anvisa (Lei nº 9.782, de 26 de janeiro de 1999)", 2),
+    _act("lei-da-contratacao-temporaria", "LCTemp", "l8745", "l8745-compilada", "lei-8745-1993",
+         "Contratação por tempo determinado na Administração Pública Federal (Lei nº 8.745, de 9 de dezembro de 1993)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -247,6 +260,9 @@ PARTS: dict[str, list[str]] = {
     "w": ["lei-da-antt-e-antaq"],
     "x": ["lei-geral-das-agencias-reguladoras", "lei-9986-de-2000"],
     "y": ["lei-da-ans", "lei-9717-de-1998"],   # MP reissue editions keyed per edition (batch 18 reader, batch6)
+    "z": ["lei-da-aneel"],
+    "za": ["lei-da-contratacao-temporaria"],
+    "zb": ["lei-da-anvisa"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -331,6 +347,9 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-9986-2000": ("2000-07-19", f"Lei 9.986/2000 art. 38: {_PUB} (DOU 19.7.2000)"),
     "lei-9961-2000": ("2000-01-29", f"Lei 9.961/2000 art. 41: {_PUB} (DOU 29.1.2000)"),
     "lei-9717-1998": ("1998-11-28", f"Lei 9.717/1998 art. 11: {_PUB} (DOU 28.11.1998)"),
+    "lei-9427-1996": ("1996-12-27", f"Lei 9.427/1996 art. 35: {_PUB} (DOU 27.12.1996, republished 28.9.1998)"),
+    "lei-9782-1999": ("1999-01-27", f"Lei 9.782/1999 art. 45: {_PUB} (DOU 27.1.1999)"),
+    "lei-8745-1993": ("1993-12-10", f"Lei 8.745/1993 art. 17: {_PUB} (DOU 10.12.1993)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -493,6 +512,14 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-9717-1998": _L("Lei nº 9.717, de 1998", "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes "
                         "próprios de previdência social dos servidores públicos [...] e dá outras providências.", "1998-11-27",
                         "1998-11-28", PAGES["l9717"]),
+    "lei-9427-1996": _L("Lei nº 9.427, de 1996", "Institui a Agência Nacional de Energia Elétrica - ANEEL, disciplina o regime das "
+                        "concessões de serviços públicos de energia elétrica e dá outras providências.", "1996-12-26",
+                        "1996-12-27", PAGES["l9427"]),
+    "lei-9782-1999": _L("Lei nº 9.782, de 1999", "Define o Sistema Nacional de Vigilância Sanitária, cria a Agência Nacional de "
+                        "Vigilância Sanitária, e dá outras providências.", "1999-01-26", "1999-01-27", PAGES["l9782"]),
+    "lei-8745-1993": _L("Lei nº 8.745, de 1993", "Dispõe sobre a contratação por tempo determinado para atender a necessidade "
+                        "temporária de excepcional interesse público, nos termos do inciso IX do art. 37 da Constituição Federal, "
+                        "e dá outras providências.", "1993-12-09", "1993-12-10", PAGES["l8745"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -2039,6 +2066,24 @@ B13.OPEN_ITEMS["lei-9717-de-1998"] = (
     "Lei 9.717 (open items): the editions of the Medida Provisória 1.891 / 2.043 / 2.187 chain that Planalto's notes do "
     "not name (before 1.891-8 of 24.9.1999 and between the named ones) are not modelled; each named edition is dated by its "
     "own DOU day; 'Vide' pointers strike no words")
+
+# part z: Lei 9.427/1996 (ANEEL). Hand days set only when the act runs.
+_LANEEL = "lei-da-aneel"
+if any(a["slug"] == _LANEEL for a in ACTS):
+    P.VIGENCIA_FIXED["mp-1300-2025"] = (
+        "2025-05-21", "'Esta Medida Provisória entra em vigor: I - quarenta e cinco dias [...] quanto ao art. 6º; II - em 1º de "
+                      "janeiro de 2026, quanto ao art. 8º; e III - na data de sua publicação, quanto aos demais dispositivos' (DOU "
+                      "21.5.2025, edição extra): its art. 2 (Lei 9.427) and art. 9 I a) (the revocation of Lei 9.427 art. 20 § 1º I "
+                      "and II) fall under III")
+    P.VIGENCIA_FIXED["lei-15235-2025"] = (
+        "2025-10-09", "'Esta Lei entra em vigor: I - em 1º de janeiro de 2026, quanto ao inciso III do caput do art. 5º; e II - "
+                      "na data de sua publicação, quanto aos demais dispositivos' (DOU 9.10.2025): the conversion of Medida "
+                      "Provisória 1.300/2025; of the MP's changes to Lei 9.427 it keeps only the revocation of art. 20 § 1º I and "
+                      "II (its art. 5 I, under II)")
+    P.MP_LAPSE["mp-1212-2024"] = (
+        "2024-08-08", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 62, de 2024 (DOU 16.8.2024): 'teve seu "
+                      "prazo de vigência encerrado no dia 7 de agosto de 2024'; the wordings it replaced or revoked are back from "
+                      "8.8.2024")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
