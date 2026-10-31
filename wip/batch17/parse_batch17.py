@@ -1233,9 +1233,34 @@ for _lab, _rest in (("§ 1º", "A demarcação urbanística e a legitimação"),
     B15.TEXT_FIX.append(("l11977", f"{_lab} {_lab} {_rest}", f"{_lab} {_rest}",
                          f"Lei 11.977 art. 47 {_lab} in Lei 12.424/2011's wording: the annotated page prints the label twice "
                          f"('{_lab} {_lab} {_rest[:20]}...'); Lei 12.424 art. 47 prints it once"))
+_W2011 = ("Lei 11.977 arts. 5, 12, 18 (caput and § 2º) and 19 (caput): Medida Provisória 514/2010 art. 9 IV and Lei 12.424/2011 "
+          "art. 13 III, its conversion, revoke them 'a partir de 31 de dezembro de 2011'; they end on 31.12.2011, credited to "
+          "Lei 12.424 (Planalto notes only 'Revogado pela Lei nº 12.424, de 2011', which would date them 17.6.2011). Art. 12's "
+          "parágrafo único falls with the article, although both Planalto pages print it unstruck")
+_E2011 = {"end": "2011-12-31", "end_law": "lei-12424-2011", "end_how": "note", "skip": False}
+B8.SPAN_FIX += [((_LMCMV, unit, lab, pre, n), dict(_E2011), _W2011) for unit, lab, pre, n in (
+    ("art-05", "Art. 5º", "Art. 5º Fica a União autorizada", 0),
+    ("art-05", "Parágrafo único", "Parágrafo único. Enquanto não efetivado", 0),
+    ("art-12", "Art. 12", "Art", 0), ("art-12", "Parágrafo único", "Parágrafo único. Enquanto não efetivado", 0),
+    ("art-18", "Art. 18", "Art. 18. Fica a União autorizada a transferir recursos para o Fundo de Arrendamento Residencial - "
+     "FAR, até o limite de R$ 16.500", 1),
+    ("art-18", "§ 2º", "§ 2º Enquanto não efetivado", 0),
+    ("art-19", "Art. 19", "Art. 19. Fica a União autorizada", 0))]
+_W41 = ("Lei 11.977 art. 41: Medida Provisória 656/2014 art. 16 (DOU 8.10.2014) gave it a new wording and added its parágrafo "
+        "único, in force 'trinta dias após a sua publicação em relação aos arts. 9º a 17' (art. 55 II): from 7.11.2014; Lei "
+        "13.097/2015 art. 60 (DOU 20.1.2015), its conversion, likewise 30 days after publication for arts. 54 to 62 (art. 168 "
+        "II): from 19.2.2015 (LC 95/1998 art. 8 § 1)")
+if any(a["slug"] == _LMCMV for a in ACTS):
+    P.VIGENCIA_PROVISION[("mp-656-2014", _LMCMV, "art-41")] = ("2014-11-07", _W41)
+    P.VIGENCIA_PROVISION[("lei-13097-2015", _LMCMV, "art-41")] = ("2015-02-19", _W41)
+    EXTRA.append(_W41 + ".")
+B8.SPAN_FIX.append(((_LMCMV, "art-41", "Parágrafo único", "Parágrafo único. O descumprimento do disposto no caput", 0),
+                    {"end": "2015-02-19", "end_law": "lei-13097-2015", "end_how": "successor"}, _W41))
 B.EXPLAINED[_LMCMV] = {
     "titulos": "the consolidated page still prints the heading 'CAPÍTULO III' of the chapter Medida Provisória 759/2016 and "
                "Lei 13.465/2017 revoked; the annotated page strikes it with the chapter",
+    "art-12": "the consolidated page prints art. 12's parágrafo único under 'Art. 12 (Revogado pela Lei nº 12.424, de 2011)'; "
+              "Lei 12.424 art. 13 III revokes the whole article ('os arts. 5º e 12') from 31.12.2011, so the history ends it then",
 }
 
 # Lei 9.430 arts. 18 to 22: the headings above them (Seção V 'Preços de Transferência' and the article headings) are struck
