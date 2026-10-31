@@ -91,6 +91,20 @@ PAGES.update({
     "l11096-compilado": "_ato2004-2006/2005/lei/l11096compilado.htm",
     "l12711": "_ato2011-2014/2012/lei/l12711.htm",
     "l13431": "_ato2015-2018/2017/lei/l13431.htm",
+    # part q: Lei 10.522/2002
+    "l10522": "leis/2002/l10522.htm",
+    "l10522-compilado": "leis/2002/l10522compilado.htm",
+    # parts r, ...: next candidates
+    "l12462": "_ato2011-2014/2011/lei/l12462.htm",
+    "l12462-compilado": "_ato2011-2014/2011/lei/l12462compilado.htm",
+    "l10520": "leis/2002/l10520.htm",
+    "l9873": "leis/l9873.htm",
+    "l10233": "leis/leis_2001/l10233.htm",
+    "l9074": "leis/l9074cons.htm",
+    "l9074-compilada": "leis/l9074compilada.htm",
+    "l12815": "_ato2011-2014/2013/lei/l12815.htm",
+    "l12783": "_ato2011-2014/2013/lei/l12783.htm",
+    "l10931": "_ato2004-2006/2004/lei/l10931.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -173,6 +187,8 @@ ALL_ACTS: list[dict] = [
          "Lei de Cotas (Lei nº 12.711, de 29 de agosto de 2012)", 2),
     _act("lei-da-escuta-protegida", "LEP17", "l13431", "l13431", "lei-13431-2017",
          "Lei da Escuta Protegida (Lei nº 13.431, de 4 de abril de 2017)", 2),
+    _act("lei-do-cadin", "LCadin", "l10522", "l10522-compilado", "lei-10522-2002",
+         "Lei do Cadin (Lei nº 10.522, de 19 de julho de 2002)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -193,6 +209,7 @@ PARTS: dict[str, list[str]] = {
     "n": ["lei-do-estagio", "lei-da-alienacao-parental", "lei-do-atendimento-prioritario", "lei-dos-alimentos-gravidicos"],
     "o": ["lei-dos-consorcios-publicos", "lei-da-acessibilidade"],
     "p": ["lei-do-prouni", "lei-de-cotas", "lei-da-escuta-protegida"],
+    "q": ["lei-do-cadin"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -261,6 +278,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-12711-2012": ("2012-08-30", f"Lei 12.711/2012 art. 9: {_PUB} (DOU 30.8.2012)"),
     "lei-13431-2017": ("2018-04-05", "Lei 13.431/2017 art. 29: 'Esta Lei entra em vigor após decorrido 1 (um) ano de sua "
                                      "publicação oficial' (DOU 5.4.2017): one year after publication, 5.4.2018"),
+    "lei-10522-2002": ("2002-07-22", f"Lei 10.522/2002 art. 40: {_PUB} (DOU 22.7.2002)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -377,6 +395,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-13431-2017": _L("Lei nº 13.431, de 2017", "Estabelece o sistema de garantia de direitos da criança e do adolescente "
                          "vítima ou testemunha de violência e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança "
                          "e do Adolescente).", "2017-04-04", "2017-04-05", PAGES["l13431"]),
+    "lei-10522-2002": _L("Lei nº 10.522, de 2002", "Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e "
+                         "entidades federais e dá outras providências.", "2002-07-19", "2002-07-22", PAGES["l10522"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})

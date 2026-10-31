@@ -139,6 +139,30 @@
    "via": "wayback.py"
   },
   {
+   "id": "l10233",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10233.htm",
+   "ts": "20261013132425",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l10520",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10520.htm",
+   "ts": "20261022020914",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l10522",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522.htm",
+   "ts": "20261023235250",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l10522-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm",
+   "ts": "20261004174417",
+   "via": "wayback.py"
+  },
+  {
    "id": "l1060",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/l1060.htm",
    "cc": {
@@ -242,6 +266,18 @@
    "via": "wayback.py"
   },
   {
+   "id": "l12462",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12462.htm",
+   "ts": "20261023044340",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l12462-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12462compilado.htm",
+   "ts": "20261009231934",
+   "via": "wayback.py"
+  },
+  {
    "id": "l12587",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12587.htm",
    "cc": {
@@ -256,6 +292,18 @@
    "id": "l12711",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12711.htm",
    "ts": "20261019231459",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l12783",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12783.htm",
+   "ts": "20261004205116",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l12815",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12815.htm",
+   "ts": "20261020015441",
    "via": "wayback.py"
   },
   {
@@ -414,6 +462,18 @@
    }
   },
   {
+   "id": "l9074",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9074cons.htm",
+   "ts": "20261023100234",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l9074-compilada",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9074compilada.htm",
+   "ts": "20261009040231",
+   "via": "wayback.py"
+  },
+  {
    "id": "l9249",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm",
    "cc": {
@@ -550,6 +610,12 @@
     "offset": "28379655",
     "length": "11018"
    }
+  },
+  {
+   "id": "l9873",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9873.htm",
+   "ts": "20261016085430",
+   "via": "wayback.py"
   },
   {
    "id": "law:dl-1089-1970",
