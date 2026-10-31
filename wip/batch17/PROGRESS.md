@@ -226,19 +226,33 @@ No hand tables; 0 diffs, 0 problems, effects_fix 0 moves (amenders read: all on 
 and 13.146 (180 days), which the reader dates). Part sha 9b942bf0; merged 158 acts, 2768 versions, 2165 commits, check 0/0,
 compare identical, audit clean. README rows + jurisdiction.json (158 acts).
 
+## 99-batch17o - PUBLISHed 2026-10-31 (fifth session)
+Lei dos Consórcios Públicos 11.107/2005 (4 versions), Lei da Acessibilidade 10.098/2000 (7) = 11 versions. No hand tables;
+0 diffs, 0 problems, 0 moves (Leis 13.835 +180 days, 13.443 +90 days, 13.146 +180 days dated by the reader). Part sha
+96021f87; merged 160 acts, 2779 versions, 2174 commits, check 0/0, compare identical, audit clean.
+
+## 99-batch17p - PUBLISHed 2026-10-31 (fifth session)
+Lei do ProUni 11.096/2005 (9 versions, vs l11096compilado), Lei de Cotas 12.711/2012 (4), Lei 13.431/2017 escuta protegida
+(2; in force 5.4.2018, one year) = 15 versions.
+- Lei 14.350/2022 art. 6 I: effects from 1.7.2022 for ProUni art. 2 I (+ alíneas a-e) and § 1º (+ I-VI), art. 7 II (+ a-c),
+  §§ 1º, 1º-A, 2º (+ I-II): done as SPAN_FIX start/end 2022-07-01 in parse_batch17 (_WPU). An effects_fix MOVES entry was
+  tried first: its hunk pairing left MP 1.075's § 3º incisos orphaned on 26.5.2022, so it was removed (effects_fix.py is back
+  to its earlier content). MP 1.075's same clause: no printed wordings, nothing to move. Bare struck '§ 1º' (Vide) line in
+  art. 2 skipped.
+- Part sha 14c0577a (pre-effects c4f81fec); merged 163 acts, 2794 versions, 2183 commits, check 0/0, compare identical,
+  audit clean. README rows + jurisdiction.json (163 acts).
+
 ## State at handoff (batch 17, fifth session, 2026-10-31)
-Parts 99-batch17a..n installed with .PUBLISH (32 acts, 374 versions; merged 158 acts, 2768 versions, 2165 commits, check
-0/0, --compare identical, audit clean). README rows + jurisdiction.json (158 acts) current. All runs foreground through
+Parts 99-batch17a..p installed with .PUBLISH (37 acts, 400 versions; merged 163 acts, 2794 versions, 2183 commits, check
+0/0, --compare identical, audit clean). README rows + jurisdiction.json (163 acts) current. All runs foreground through
 .tmp/run.py at BelowNormal (one at a time); every PID exited; nothing left running. Fetching: archive.org only (iaonly.py,
 cdxlist/cdxpre); no Common Crawl or Arquivo.pt requests.
 DATED RE-CHECK: on or after 29.11.2026 read MP 1.382/2026's fate (published 1.8.2026; 60 + 60 days, no recess in the span: term ends about 28.11.2026). If converted: CONVERTED via the MP page, re-parse part m. If lapsed: MP_LAPSE mp-1382-2026 (Ato Declaratório), and MP 1.350/2026 regains effect for its remaining term (revoked-MP rule): re-parse m, effects_fix, checks, re-PUBLISH.
 Unsettled / open: Lei 11.977 art. 12 parágrafo único (ended 31.12.2011 with the article, against both Planalto pages:
-EXPLAINED); MP 1.382/2026 pending (if it lapses, MP 1.350/2026 and the revoked FGHab provisions return: re-check after
-~late Nov 2026); art. 60 § 1º I / § 2º kept in MP 514's wording to 2016 (judgement call).
-Next candidates (not in the corpus; pages in the local path index): Lei 11.107/2005 (consórcios públicos, l11107.htm),
-Lei 10.098/2000 (acessibilidade), Lei 10.522/2002 (CADIN; heavy MP chain), Lei 11.096/2005 (ProUni), Lei 12.711/2012
-(cotas), Lei 13.431/2017, Lei 12.462/2011 (RDC), Lei 10.520/2002 (pregão), Lei 9.873/1999, Lei 10.233/2001, Lei
-9.074/1995, Lei 12.815/2013 (portos), Lei 12.783/2013. Lei 10.931/2004: no page in the index (try archive.org CDX).
+EXPLAINED); art. 60 § 1º I / § 2º kept in MP 514's wording to 2016 (judgement call).
+Next candidates (not in the corpus; pages in the local path index): Lei 10.522/2002 (CADIN; heavy MP chain, own part),
+Lei 12.462/2011 (RDC), Lei 10.520/2002 (pregão), Lei 9.873/1999, Lei 10.233/2001, Lei 9.074/1995, Lei 12.815/2013 (portos),
+Lei 12.783/2013. Lei 10.931/2004: no page in the index (try archive.org CDX).
 
 ## State at handoff (batch 17, fourth session, 2026-10-31)
 Parts 99-batch17a..l installed with .PUBLISH (27 acts, 325 versions; merged 153 acts, 2719 versions, 2138 commits, check

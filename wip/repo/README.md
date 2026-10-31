@@ -168,6 +168,9 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `lei-dos-alimentos-gravidicos/` | Pregnancy maintenance law (Lei 11.804/2008) | 1 | As enacted (in force 6 November 2008); no amendments |
 | `lei-dos-consorcios-publicos/` | Public consortia law (Lei 11.107/2005) | 4 | From its entry into force (7 April 2005) to 25 August 2023 |
 | `lei-da-acessibilidade/` | Accessibility law (Lei 10.098/2000) | 7 | From its entry into force (20 December 2000) to 4 November 2025 |
+| `lei-do-prouni/` | University for All programme, ProUni (Lei 11.096/2005) | 9 | From its entry into force (14 January 2005) to 1 August 2024. Lei 14.350/2022's changes to arts. 2 and 7 dated by their effect day, 1 July 2022 |
+| `lei-de-cotas/` | Quota law for federal universities (Lei 12.711/2012) | 4 | From its entry into force (30 August 2012) to 1 August 2024 |
+| `lei-da-escuta-protegida/` | Child and adolescent victims and witnesses of violence (Lei 13.431/2017) | 2 | From its entry into force (5 April 2018, one year after publication) to 9 July 2022 |
 
 Each article is a file: `constituicao/art-006.md` is art. 6, `constituicao/adct-art-002.md` is art. 2 of the Ato das Disposições Constitucionais Transitórias (ADCT), `codigo-penal/art-121.md` is art. 121 of the Código Penal. Each act's preamble is `preambulo.md` (for the CLT, the text of Decreto-Lei 5.452 itself), and its headings (partes, títulos, capítulos, seções) are in `titulos.md` (and `adct-titulos.md`). In the Código Penal and the Lei das Contravenções Penais the marginal heading of an article (rubrica, "Homicídio simples") is the article file's first line; in the CLT, CPP and CDC the rubricas are kept in `titulos.md`. The CLT's annex (the table of categories that art. 577 refers to) is `clt/anexo.md`. The per-act `README.md` lists every provision, how often it changed and when. Further acts are added in their own folders as they are built.
 

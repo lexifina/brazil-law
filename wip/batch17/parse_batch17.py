@@ -1332,6 +1332,40 @@ B13.OPEN_ITEMS[_LMCMV] = (
     "Lei 12.249/2010's effects reaching back to 16.12.2009 keep its in-force day; 'Vide' pointers (Medidas Provisórias "
     "514/2010 and 1.382/2026 on art. 8º-A § 4º's term, Leis 12.424/2011 and 14.620/2023, decrees) strike no words and are "
     "not modelled")
+B8.SPAN_FIX.append((("lei-do-prouni", "art-02", "§ 1º", "§ 1º", 0), {"skip": True, "end_how": "pointer"},
+                    "Lei 11.096 art. 2: Planalto prints a struck line holding only the label '§ 1º' and the note '(Vide "
+                    "Medida Provisória nº 1.075, de 2021)' among the 2005 lines; the 2005 article had a parágrafo único, no § 1º; "
+                    "the line is a pointer, not a wording, and is left out (§ 1º starts with Lei 14.350/2022)"))
+_WPU = ("Lei 11.096 arts. 2 and 7: Lei 14.350/2022 art. 6 (DOU 26.5.2022, in force on publication): 'produzirá efeitos: I - a "
+        "partir de 1º de julho de 2022, quanto à parte do art. 1º que altera [...] a) o inciso I do caput e o § 1º do art. 2º; e "
+        "b) o inciso II do caput e os §§ 1º, 1º-A e 2º do art. 7º': those wordings (with their alíneas and incisos) start, and "
+        "the wordings they replace end, on 1.7.2022; its other changes on 26.5.2022. Medida Provisória 1.075/2021 had the same "
+        "clause (art. 5 I); Planalto prints none of its wordings of those dispositivos (only 'Vide' notes)")
+_S1 = {"start": "2022-07-01", "start_law": "lei-14350-2022"}
+_E1 = {"end": "2022-07-01", "end_law": "lei-14350-2022", "end_how": "successor"}
+B8.SPAN_FIX += [(("lei-do-prouni", u, lab, pre, 0), dict(f), _WPU) for u, lab, pre, f in (
+    ("art-02", "I -", "I - a estudante que tenha cursado o ensino médio completo", _E1),
+    ("art-02", "I -", "I - a estudante que tenha cursado:", _S1),
+    *[("art-02", x + ")", x + ") o ensino médio", _S1) for x in "abcde"],
+    ("art-02", "§ 1º", "§ 1º A sequência de classificação", _S1),
+    ("art-02", "I -", "I - professor da rede pública", _S1),
+    ("art-02", "II -", "II - estudante que tenha cursado", _S1),
+    ("art-02", "III -", "III - estudante que tenha cursado", _S1),
+    ("art-02", "IV -", "IV - estudante que tenha cursado", _S1),
+    ("art-02", "V -", "V - estudante que tenha cursado", _S1),
+    ("art-02", "VI -", "VI - estudante que tenha cursado", _S1),
+    ("art-07", "II -", "II - percentual de bolsas de estudo destinado à implementação de políticas afirmativas de acesso ao "
+                       "ensino superior de portadores", _E1),
+    ("art-07", "II -", "II - percentual de bolsas de estudo destinado à implementação de políticas afirmativas de acesso ao "
+                       "ensino superior de:", _S1),
+    ("art-07", "a)", "a) pessoas com deficiência", _S1), ("art-07", "b)", "b) autodeclarados", _S1),
+    ("art-07", "c)", "c) estudantes egressos", _S1),
+    ("art-07", "§ 1º", "§ 1º O percentual de que trata o inciso II do caput deste artigo deverá ser", _E1),
+    ("art-07", "§ 1º", "§ 1º O percentual de que trata o inciso II do caput deste artigo será", _S1),
+    ("art-07", "§ 1º-A", "§ 1º-A Para o percentual", _S1),
+    ("art-07", "§ 2º", "§ 2º No caso de não-preenchimento", _E1),
+    ("art-07", "§ 2º", "§ 2º Na hipótese de não preenchimento", _S1),
+    ("art-07", "I -", "I - estudantes que atendam", _S1), ("art-07", "II -", "II - candidatos aos cursos", _S1))]
 B.EXPLAINED[_LMCMV] = {
     "titulos": "the consolidated page still prints the heading 'CAPÍTULO III' of the chapter Medida Provisória 759/2016 and "
                "Lei 13.465/2017 revoked; the annotated page strikes it with the chapter",

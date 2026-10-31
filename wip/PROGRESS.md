@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-n PUBLISHed, 32 acts, 374 versions; merged 158 acts, 2768 versions; next candidates in batch17/PROGRESS.md)
+CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-p PUBLISHed, 37 acts, 400 versions; merged 163 acts, 2794 versions; DATED RE-CHECK of MP 1.382/2026 after 28.11.2026 and next candidates in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 
@@ -184,3 +184,5 @@ Batch 17 (2026-10-31): small parts 99-batch17a, b, ... 99-batch17a PUBLISHed: Le
 99-batch17l PUBLISHed: Lei 13.465/2017 (REURB, 8 versions; vetoed parts promulgated 8.9.2017 modelled); merged 153 acts, 2719 versions, 2138 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (153 acts).
 99-batch17m PUBLISHed: Lei 11.977/2009 (Minha Casa, Minha Vida, 39 versions; MP 478/2009 lapse, Capítulo III revoked by MP 759/2016 with earlier wordings ended by their successors, revocations from 31.12.2011, MP 1.382/2026 pending); merged 154 acts, 2758 versions, 2158 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (154 acts).
 99-batch17n PUBLISHed: Lei do Estágio 11.788/2008, Lei da Alienação Parental 12.318/2010, Lei 10.048/2000 (atendimento prioritário), Lei dos Alimentos Gravídicos 11.804/2008 (10 versions); merged 158 acts, 2768 versions, 2165 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (158 acts).
+99-batch17o PUBLISHed: Lei dos Consórcios Públicos 11.107/2005, Lei da Acessibilidade 10.098/2000 (11 versions); merged 160 acts, 2779 versions, check 0/0, --compare identical, audit clean.
+99-batch17p PUBLISHed: Lei do ProUni 11.096/2005 (Lei 14.350/2022 effects from 1.7.2022), Lei de Cotas 12.711/2012, Lei 13.431/2017 (15 versions); merged 163 acts, 2794 versions, 2183 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (163 acts). Re-check MP 1.382/2026 (Lei 11.977, part m) after its term ends about 28.11.2026.
