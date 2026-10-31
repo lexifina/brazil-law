@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-l PUBLISHed, 27 acts, 325 versions; merged 153 acts, 2719 versions; next: Lei 11.977/2009 (part m, pages pinned, not configured); see batch17/PROGRESS.md)
+CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-n PUBLISHed, 32 acts, 374 versions; merged 158 acts, 2768 versions; next candidates in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 
@@ -182,3 +182,5 @@ Batch 17 (2026-10-31): small parts 99-batch17a, b, ... 99-batch17a PUBLISHed: Le
 99-batch17j PUBLISHed: Lei 7.713/1988 (IR, 43 versions; MP 1.251/2024 lapse, 1989 MP 68/114 effect days, 20 effect-day moves); 99-batch17i re-PUBLISHed (decision wording); merged 151 acts, 2642 versions, 2101 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (151 acts).
 99-batch17k PUBLISHed: Lei 9.430/1996 (69 versions; Lei 12.715/12.766 and 11.727 provision days, MP 252/478/303/75 chains, Lei 14.596 in force 1.1.2024, 8 effect-day moves, Lei 15.525 2030 on futuro); merged 152 acts, 2711 versions, 2136 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (152 acts).
 99-batch17l PUBLISHed: Lei 13.465/2017 (REURB, 8 versions; vetoed parts promulgated 8.9.2017 modelled); merged 153 acts, 2719 versions, 2138 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (153 acts).
+99-batch17m PUBLISHed: Lei 11.977/2009 (Minha Casa, Minha Vida, 39 versions; MP 478/2009 lapse, Capítulo III revoked by MP 759/2016 with earlier wordings ended by their successors, revocations from 31.12.2011, MP 1.382/2026 pending); merged 154 acts, 2758 versions, 2158 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (154 acts).
+99-batch17n PUBLISHed: Lei do Estágio 11.788/2008, Lei da Alienação Parental 12.318/2010, Lei 10.048/2000 (atendimento prioritário), Lei dos Alimentos Gravídicos 11.804/2008 (10 versions); merged 158 acts, 2768 versions, 2165 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (158 acts).

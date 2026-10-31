@@ -78,6 +78,19 @@ PAGES.update({
     "l13465": "_ato2015-2018/2017/lei/l13465.htm",
     "l11977": "_ato2007-2010/2009/lei/l11977.htm",
     "l11977-compilado": "_ato2007-2010/2009/lei/l11977compilado.htm",
+    # part n
+    "l11788": "_ato2007-2010/2008/lei/l11788.htm",
+    "l12318": "_ato2007-2010/2010/lei/l12318.htm",
+    "l10048": "leis/l10048.htm",
+    "l11804": "_ato2007-2010/2008/lei/l11804.htm",
+    # part o
+    "l11107": "_ato2004-2006/2005/lei/l11107.htm",
+    "l10098": "leis/l10098.htm",
+    # part p
+    "l11096": "_ato2004-2006/2005/lei/l11096.htm",
+    "l11096-compilado": "_ato2004-2006/2005/lei/l11096compilado.htm",
+    "l12711": "_ato2011-2014/2012/lei/l12711.htm",
+    "l13431": "_ato2015-2018/2017/lei/l13431.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -142,6 +155,24 @@ ALL_ACTS: list[dict] = [
          "Lei da Regularização Fundiária Rural e Urbana (Lei nº 13.465, de 11 de julho de 2017)", 2),
     _act("lei-minha-casa-minha-vida", "LMCMV", "l11977", "l11977-compilado", "lei-11977-2009",
          "Programa Minha Casa, Minha Vida (Lei nº 11.977, de 7 de julho de 2009)", 2),
+    _act("lei-do-estagio", "LEst", "l11788", "l11788", "lei-11788-2008",
+         "Lei do Estágio (Lei nº 11.788, de 25 de setembro de 2008)", 2),
+    _act("lei-da-alienacao-parental", "LAP", "l12318", "l12318", "lei-12318-2010",
+         "Lei da Alienação Parental (Lei nº 12.318, de 26 de agosto de 2010)", 2),
+    _act("lei-do-atendimento-prioritario", "LAPr", "l10048", "l10048", "lei-10048-2000",
+         "Atendimento prioritário (Lei nº 10.048, de 8 de novembro de 2000)", 2),
+    _act("lei-dos-alimentos-gravidicos", "LAG", "l11804", "l11804", "lei-11804-2008",
+         "Lei dos Alimentos Gravídicos (Lei nº 11.804, de 5 de novembro de 2008)", 2),
+    _act("lei-dos-consorcios-publicos", "LCP", "l11107", "l11107", "lei-11107-2005",
+         "Lei dos Consórcios Públicos (Lei nº 11.107, de 6 de abril de 2005)", 2),
+    _act("lei-da-acessibilidade", "LAc", "l10098", "l10098", "lei-10098-2000",
+         "Lei da Acessibilidade (Lei nº 10.098, de 19 de dezembro de 2000)", 2),
+    _act("lei-do-prouni", "LProUni", "l11096", "l11096-compilado", "lei-11096-2005",
+         "Programa Universidade para Todos - ProUni (Lei nº 11.096, de 13 de janeiro de 2005)", 2),
+    _act("lei-de-cotas", "LCotas", "l12711", "l12711", "lei-12711-2012",
+         "Lei de Cotas (Lei nº 12.711, de 29 de agosto de 2012)", 2),
+    _act("lei-da-escuta-protegida", "LEP17", "l13431", "l13431", "lei-13431-2017",
+         "Lei da Escuta Protegida (Lei nº 13.431, de 4 de abril de 2017)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -159,6 +190,9 @@ PARTS: dict[str, list[str]] = {
     "k": ["lei-9430-de-1996"],
     "l": ["lei-da-regularizacao-fundiaria"],
     "m": ["lei-minha-casa-minha-vida"],
+    "n": ["lei-do-estagio", "lei-da-alienacao-parental", "lei-do-atendimento-prioritario", "lei-dos-alimentos-gravidicos"],
+    "o": ["lei-dos-consorcios-publicos", "lei-da-acessibilidade"],
+    "p": ["lei-do-prouni", "lei-de-cotas", "lei-da-escuta-protegida"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -217,6 +251,16 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-13465-2017": ("2017-07-12", f"Lei 13.465/2017 art. 108: {_PUB} (DOU 12.7.2017, rectified 6.9.2017; the "
                                      "consolidated text republished in the DOU of 8.9.2017)"),
     "lei-11977-2009": ("2009-07-08", f"Lei 11.977/2009 art. 83: {_PUB} (DOU 8.7.2009)"),
+    "lei-11788-2008": ("2008-09-26", f"Lei 11.788/2008 art. 21: {_PUB} (DOU 26.9.2008)"),
+    "lei-12318-2010": ("2010-08-27", f"Lei 12.318/2010 art. 11: {_PUB} (DOU 27.8.2010, rectified 31.8.2010)"),
+    "lei-10048-2000": ("2000-11-09", f"Lei 10.048/2000 art. 8: {_PUB} (DOU 9.11.2000)"),
+    "lei-11804-2008": ("2008-11-06", f"Lei 11.804/2008 art. 12: {_PUB} (DOU 6.11.2008)"),
+    "lei-11107-2005": ("2005-04-07", f"Lei 11.107/2005 art. 21: {_PUB} (DOU 7.4.2005)"),
+    "lei-10098-2000": ("2000-12-20", f"Lei 10.098/2000 art. 27: {_PUB} (DOU 20.12.2000)"),
+    "lei-11096-2005": ("2005-01-14", f"Lei 11.096/2005 art. 23: {_PUB} (DOU 14.1.2005)"),
+    "lei-12711-2012": ("2012-08-30", f"Lei 12.711/2012 art. 9: {_PUB} (DOU 30.8.2012)"),
+    "lei-13431-2017": ("2018-04-05", "Lei 13.431/2017 art. 29: 'Esta Lei entra em vigor após decorrido 1 (um) ano de sua "
+                                     "publicação oficial' (DOU 5.4.2017): one year after publication, 5.4.2018"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -307,6 +351,32 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "de 1941, as Leis nºs 4.380, de 21 de agosto de 1964, 6.015, de 31 de dezembro de 1973, 8.036, de 11 de "
                          "maio de 1990, e 10.257, de 10 de julho de 2001, e a Medida Provisória nº 2.197-43, de 24 de agosto de "
                          "2001; e dá outras providências.", "2009-07-07", "2009-07-08", PAGES["l11977"]),
+    "lei-11788-2008": _L("Lei nº 11.788, de 2008", "Dispõe sobre o estágio de estudantes; altera a redação do art. 428 da "
+                         "Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a "
+                         "Lei nº 9.394, de 20 de dezembro de 1996; revoga as Leis nºs 6.494, de 7 de dezembro de 1977, e 8.859, de "
+                         "23 de março de 1994, o parágrafo único do art. 82 da Lei nº 9.394, de 20 de dezembro de 1996, e o art. 6º "
+                         "da Medida Provisória nº 2.164-41, de 24 de agosto de 2001; e dá outras providências.", "2008-09-25",
+                         "2008-09-26", PAGES["l11788"]),
+    "lei-12318-2010": _L("Lei nº 12.318, de 2010", "Dispõe sobre a alienação parental e altera o art. 236 da Lei nº 8.069, de 13 "
+                         "de julho de 1990.", "2010-08-26", "2010-08-27", PAGES["l12318"]),
+    "lei-10048-2000": _L("Lei nº 10.048, de 2000", "Dá prioridade de atendimento às pessoas que especifica, e dá outras "
+                         "providências.", "2000-11-08", "2000-11-09", PAGES["l10048"]),
+    "lei-11804-2008": _L("Lei nº 11.804, de 2008", "Disciplina o direito a alimentos gravídicos e a forma como ele será exercido "
+                         "e dá outras providências.", "2008-11-05", "2008-11-06", PAGES["l11804"]),
+    "lei-11107-2005": _L("Lei nº 11.107, de 2005", "Dispõe sobre normas gerais de contratação de consórcios públicos e dá outras "
+                         "providências.", "2005-04-06", "2005-04-07", PAGES["l11107"]),
+    "lei-10098-2000": _L("Lei nº 10.098, de 2000", "Estabelece normas gerais e critérios básicos para a promoção da "
+                         "acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras "
+                         "providências.", "2000-12-19", "2000-12-20", PAGES["l10098"]),
+    "lei-11096-2005": _L("Lei nº 11.096, de 2005", "Institui o Programa Universidade para Todos - PROUNI, regula a atuação de "
+                         "entidades beneficentes de assistência social no ensino superior; altera a Lei nº 10.891, de 9 de julho "
+                         "de 2004, e dá outras providências.", "2005-01-13", "2005-01-14", PAGES["l11096"]),
+    "lei-12711-2012": _L("Lei nº 12.711, de 2012", "Dispõe sobre o ingresso nas universidades federais e nas instituições "
+                         "federais de ensino técnico de nível médio e dá outras providências.", "2012-08-29", "2012-08-30",
+                         PAGES["l12711"]),
+    "lei-13431-2017": _L("Lei nº 13.431, de 2017", "Estabelece o sistema de garantia de direitos da criança e do adolescente "
+                         "vítima ou testemunha de violência e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança "
+                         "e do Adolescente).", "2017-04-04", "2017-04-05", PAGES["l13431"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})

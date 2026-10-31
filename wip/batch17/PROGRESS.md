@@ -197,12 +197,48 @@ compilado page exists (the act's own page is its consolidated page; 4 check arte
   55, 67, 81, 91-93 ...). Part sha 0eb43315; merged 153 acts, 2719 versions, 2138 commits, check 0/0, compare identical,
   audit clean. README row + jurisdiction.json (153 acts).
 
-## Part m (not started): Lei 11.977/2009 (Minha Casa, Minha Vida)
-Pages pinned (archive.org): l11977 (ts 20261012031101), l11977-compilado (ts 20261004182151); PAGES entries exist, act NOT
-in ALL_ACTS/PARTS. Size: ~677 struck runs, ~1018 notes (heavier than 9.430). Its Capítulo III (REURB) was revoked by Lei
-13.465 art. 109 IV (12.7.2017). Next: add the _act (page l11977, consolidated l11977-compilado, law lei-11977-2009, DOU
-8.7.2009, in force on publication, last article), `iaonly.py laws l11977` + `missing` (BATCH17_ACTS set), trial, effrep on
-every amender (many MPs: 459/2009 conversion, 514/2010, 561/2012, 656/2014, 698/2015, 759/2016 ...).
+## 99-batch17m - PUBLISHed 2026-10-31 (fifth session)
+Lei 11.977/2009 (Minha Casa, Minha Vida), 39 versions 2009-07-08 .. 2026-08-01 (l11977.htm vs l11977compilado.htm; 2 diffs
+EXPLAINED: titulos 'CAPÍTULO III', art-12 p.u.). Fetch: `iaonly.py laws l11977 l11977-compilado` (15 new pins) + `missing`.
+- Hand (part m block, scoped to the act): VIGENCIA_FIXED mp-472-2009 16.12.2009 (art. 60 I d), lei-13161-2015 31.8.2015 (art.
+  7 II); MP_LAPSE mp-478-2009 2.6.2010; MP_PENDING mp-1382-2026 (1.8.2026, pending on 31.10.2026) and mp-1350-2026 (revoked
+  by MP 1.382 art. 9 II; its only change, art. 20 IV, revoked the same day); NOTE_FIX 'Mediada Provisória nº 561' x2;
+  VIGENCIA_PROVISION art-41: MP 656 7.11.2014, Lei 13.097 19.2.2015 (30 days, arts. 9-17 / 54-62).
+- SPAN_FIX: art-79 2009 copy after MP 478 (nth 1/2) and art-11 p.u. 2nd copy restored 2.6.2010; art-13 I Lei 12.249 copy
+  14.6-2.12.2010; art-04 II '(VETADO)' struck copy skipped; art-59 III '(revogado)' from 17.6.2011; art-63 '(VETADO)' ends
+  23.12.2016; arts. 5, 12 (incl. the unstruck p.u.), 18 caput (nth 1) + § 2º, 19 caput end 31.12.2011 (MP 514 art. 9 IV / Lei
+  12.424 art. 13 III); art-41 p.u. MP 656 to 19.2.2015. TEXT_FIX art. 47 §§ 1º/2º doubled labels.
+- ch3_successors() (apply_rewrites): Capítulo III (arts. 46-71-A) revoked by MP 759 (23.12.2016); Planalto puts the
+  revocation notes on every struck line, so 'note' ends that P.successor() finds earlier are moved back; MP 514 lines
+  restated by Lei 12.424 (arts. 47 IX, 56, 59, 60-A, 71-A) and art. 59's 2009 lines end 17.6.2011; art. 60 § 1º I / § 2º keep
+  MP 514's wording to 2016 (Lei 12.424 left them dotted; judgement call, as Planalto prints); lines noted only 'Revogado
+  pela Lei 13.465' end 23.12.2016; children follow the parent's corrected end.
+- Amenders read with effrep (scratch log .tmp/m-effrep.log): none has a later effect day for this act: effects_fix 0 moves.
+- Part sha 8507788a (pre-effects 6c70a060); merged 154 acts, 2758 versions, 2158 commits, check 0/0, compare identical,
+  audit clean. README row + jurisdiction.json (154 acts). Part l re-parsed after the edits: identical.
+- New tools: .tmp/noteover.py <spans log> (struck lines outliving a later same-label line), .tmp/lawgrep.py <law> <regex>,
+  .tmp/cdxpre.py <archive.org prefix> (CDX prefix listing). OPEN_ITEMS LMCMV (MP 459 text, MP 1.382 pending, Vide).
+
+## 99-batch17n - PUBLISHed 2026-10-31 (fifth session)
+Lei do Estágio 11.788/2008 (2 versions), Lei da Alienação Parental 12.318/2010 (2), Lei 10.048/2000 atendimento prioritário
+(5), Lei dos Alimentos Gravídicos 11.804/2008 (1) = 10 versions. Pages pinned (`iaonly.py pages`, 4) + `laws`/`missing` (3).
+No hand tables; 0 diffs, 0 problems, effects_fix 0 moves (amenders read: all on publication except Leis 10.741 (90 days)
+and 13.146 (180 days), which the reader dates). Part sha 9b942bf0; merged 158 acts, 2768 versions, 2165 commits, check 0/0,
+compare identical, audit clean. README rows + jurisdiction.json (158 acts).
+
+## State at handoff (batch 17, fifth session, 2026-10-31)
+Parts 99-batch17a..n installed with .PUBLISH (32 acts, 374 versions; merged 158 acts, 2768 versions, 2165 commits, check
+0/0, --compare identical, audit clean). README rows + jurisdiction.json (158 acts) current. All runs foreground through
+.tmp/run.py at BelowNormal (one at a time); every PID exited; nothing left running. Fetching: archive.org only (iaonly.py,
+cdxlist/cdxpre); no Common Crawl or Arquivo.pt requests.
+DATED RE-CHECK: on or after 29.11.2026 read MP 1.382/2026's fate (published 1.8.2026; 60 + 60 days, no recess in the span: term ends about 28.11.2026). If converted: CONVERTED via the MP page, re-parse part m. If lapsed: MP_LAPSE mp-1382-2026 (Ato Declaratório), and MP 1.350/2026 regains effect for its remaining term (revoked-MP rule): re-parse m, effects_fix, checks, re-PUBLISH.
+Unsettled / open: Lei 11.977 art. 12 parágrafo único (ended 31.12.2011 with the article, against both Planalto pages:
+EXPLAINED); MP 1.382/2026 pending (if it lapses, MP 1.350/2026 and the revoked FGHab provisions return: re-check after
+~late Nov 2026); art. 60 § 1º I / § 2º kept in MP 514's wording to 2016 (judgement call).
+Next candidates (not in the corpus; pages in the local path index): Lei 11.107/2005 (consórcios públicos, l11107.htm),
+Lei 10.098/2000 (acessibilidade), Lei 10.522/2002 (CADIN; heavy MP chain), Lei 11.096/2005 (ProUni), Lei 12.711/2012
+(cotas), Lei 13.431/2017, Lei 12.462/2011 (RDC), Lei 10.520/2002 (pregão), Lei 9.873/1999, Lei 10.233/2001, Lei
+9.074/1995, Lei 12.815/2013 (portos), Lei 12.783/2013. Lei 10.931/2004: no page in the index (try archive.org CDX).
 
 ## State at handoff (batch 17, fourth session, 2026-10-31)
 Parts 99-batch17a..l installed with .PUBLISH (27 acts, 325 versions; merged 153 acts, 2719 versions, 2138 commits, check
