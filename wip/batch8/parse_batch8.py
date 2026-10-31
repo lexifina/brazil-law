@@ -254,6 +254,11 @@ UNIT_FIX: list[tuple[str, str, str, str, str]] = [
 COURT_SPLIT: list[tuple[str, str, str, str]] = [
     ("edes", "art-06", "III -", "(Expressões declaradas inconstitucionais pela ADIN 5538)"),
 ]
+# (d) the page's navigation links printed as lines between the ementa and the first heading (Lei 12.850's page): left out
+NAV_LINES: dict[str, set[str]] = {
+    "lorcrim": {"Não Remover", "Texto compilado Texto atualizado", "Texto para impressão", "Up", "Down"},
+}
+NAV_USED: list[str] = []
 _paragraphs8 = P.paragraphs
 _PAGE_OF_HTML: dict[int, str] = {}
 
@@ -274,7 +279,12 @@ def paragraphs(html: str, digits: int):
             t = re.sub(r"\s+([,;.])", r"\1", t)
             res.append({**base, "text": t, "state": state, "notes": list(p["notes"]), "plain_text": "",
                         "struck_text": "", "court_split": state})
-    out = res
+    out = []
+    for p in res:
+        if page in NAV_LINES and p["state"] == "plain" and not p["notes"] and p["text"] in NAV_LINES[page]:
+            NAV_USED.append(f"{page}: {p['text']!r}")
+            continue
+        out.append(p)
     for i, p in enumerate(out):
         p["i"] = i
     for p in out:
@@ -528,8 +538,12 @@ def write_part(*a) -> int:
     part["laws"] = dict(sorted(part["laws"].items()))
     # the MP pages' 'Texto para impressão' link is read into the ementa by page_info: dropped here
     for rec in part["laws"].values():
-        if (rec.get("title") or "").startswith("Texto para impressão "):
-            rec["title"] = rec["title"][len("Texto para impressão "):]
+        m = re.match(r"^.{0,120}?Texto para impress\s?ão\s+(?:Exposi[çc][ãa]o de [Mm]otivos\s+)?", rec.get("title") or "")
+        if m:
+            rec["title"] = rec["title"][m.end():]
+    if NAV_USED:
+        part["decisions"].append("Navigation links Planalto prints as lines between the ementa and the first heading are "
+                                 "left out: " + "; ".join(dict.fromkeys(NAV_USED)) + ".")
     if any(x["slug"] == "estatuto-do-desarmamento" for x in ACTS):
         part["sources"].append({
             "name": "Supremo Tribunal Federal: case summary of ADI 3.964, decision in ADI 5.948 MC, Informativo STF 1007; Câmara "
