@@ -359,6 +359,8 @@ B9.WORD_FIX[:] = [
      "(DOU 2.9.1981, the Chamber of Deputies' reproduction of the original publication) reads 'linhas de fiananciamento', "
      "and Lei 7.804/1989 changed only the body named in the inciso ('da SEMA' to 'do IBAMA'); the history keeps the "
      "published words, as Planalto's consolidated page does"),
+    ("pnma", "O PRESIDENTE DA REPÚBLICA, faço saber", "O PRESIDENTE DA REPÚBLICA, Faço saber",
+     "Política Nacional do Meio Ambiente, preamble: 'Faço saber' as in the act as published (the annotated page prints 'faço')"),
 ]
 B.EXPLAINED.update({
     _E: {"art-098": "the consolidated page keeps the placeholder 'XIV -;' for the inciso Lei 9.297/1996 revoked; the history "
