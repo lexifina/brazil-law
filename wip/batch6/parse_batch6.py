@@ -409,6 +409,24 @@ def reissue_ends(paras: list[dict], cx, problems: list[str]) -> None:
                 REISSUE_ENDS.append(f"{cx.act} {p['unit']} [{p['label']}] ({P.law_label(p['start_law'])} to {q['start']}, "
                                     f"replaced by the parágrafo único of {P.law_label(q['start_law'])})")
                 break
+    # an edition's wording printed again, later in the article, with a later edition's note, after a line of a higher
+    # level (Lei 9.717 art. 9: inciso III of MP 1.891-8, its parágrafo único, then III and the parágrafo único of MP
+    # 2.187-13): parse_proc's successor search stops at that line, so the later edition's wording ends it
+    for i, p in enumerate(paras):
+        if (p["state"] == "plain" or p["heading"] or p["end_how"] not in (None, "parent") or p["gaps"]
+                or not _pre32(p.get("start_law"))):
+            continue
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"] or q["heading"]:
+                break
+            if (q["label"] == p["label"] and _pre32(q.get("start_law")) and q["start"] > p["start"]
+                    and (not p["end"] or q["start"] < p["end"])):
+                p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "successor"
+                tag = f"no end for struck {p['unit']} [{p['label']}] {p['text'][:90]!r}"
+                problems[:] = [x for x in problems if not x.startswith(tag)]
+                REISSUE_ENDS.append(f"{cx.act} {p['unit']} [{p['label']}] ({P.law_label(p['start_law'])} to {q['start']}, "
+                                    f"printed again with {P.law_label(q['start_law'])}'s note)")
+                break
     for p in paras:
         hit = REISSUED.get(p.get("start_law") or "")
         if p["state"] == "plain" or p["end"] or p["gaps"] or p.get("skip") or not hit:
