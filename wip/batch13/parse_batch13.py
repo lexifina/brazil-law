@@ -40,6 +40,12 @@ PAGES = {
     "lcp150": "leis/lcp/lcp150.htm",
     "ltemp": "leis/l6019.htm",
     "ltemp-compilado": "leis/l6019compilado.htm",
+    # 13c
+    "lcondo": "leis/l4591.htm",
+    "lcondo-compilado": "leis/l4591compilado.htm",
+    "lsfi": "leis/l9514.htm",
+    "dl911": "decreto-lei/1965-1988/del0911.htm",
+    "dl911-compilado": "decreto-lei/1965-1988/del0911compilado.htm",
 }
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -64,10 +70,17 @@ ALL_ACTS: list[dict] = [
          "Lei do Trabalho Doméstico (Lei Complementar nº 150, de 1º de junho de 2015)", 2),
     _act("lei-do-trabalho-temporario", "LTT", "ltemp", "ltemp-compilado", "lei-6019-1974",
          "Lei do Trabalho Temporário e da Terceirização (Lei nº 6.019, de 3 de janeiro de 1974)", 2),
+    _act("lei-de-condominios-e-incorporacoes", "LCI", "lcondo", "lcondo-compilado", "lei-4591-1964",
+         "Lei de Condomínios e Incorporações (Lei nº 4.591, de 16 de dezembro de 1964)", 2),
+    _act("lei-da-alienacao-fiduciaria-de-imoveis", "LSFI", "lsfi", "lsfi", "lei-9514-1997",
+         "Sistema de Financiamento Imobiliário e alienação fiduciária de imóvel (Lei nº 9.514, de 20 de novembro de 1997)", 2),
+    _act("lei-da-alienacao-fiduciaria", "DL911", "dl911", "dl911-compilado", "dl-911-1969",
+         "Alienação fiduciária em garantia (Decreto-Lei nº 911, de 1º de outubro de 1969)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-das-contravencoes-penais", "lei-dos-crimes-de-responsabilidade", "lei-do-crime-racial"],
     "b": ["lei-de-greve", "lei-do-trabalho-domestico", "lei-do-trabalho-temporario"],
+    "c": ["lei-de-condominios-e-incorporacoes", "lei-da-alienacao-fiduciaria-de-imoveis", "lei-da-alienacao-fiduciaria"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH13_ACTS", "").split(",") if s] or VERIFIED
@@ -88,6 +101,11 @@ ACT_DAY_ALL: dict[str, tuple[str, str]] = {
                                   "(DOU 2.6.2015)"),
     "lei-6019-1974": ("1974-03-05", "Lei 6.019/1974 art. 20: 'Esta Lei entrará em vigor sessenta dias após sua publicação' "
                                     "(DOU 4.1.1974): 4.1.1974 + 60 days"),
+    "lei-4591-1964": ("1964-12-21", "Lei 4.591/1964 art. 70: 'A presente lei entrará em vigor na data de sua publicação' (DOU "
+                                    "21.12.1964, rectified 1.2.1965)"),
+    "lei-9514-1997": ("1997-11-21", f"Lei 9.514/1997 art. 42: {_PUB} (DOU 21.11.1997, rectified 24.11.1997)"),
+    "dl-911-1969": ("1969-10-03", "Decreto-Lei 911/1969 art. 9: 'O presente Decreto-lei entrará em vigor na data de sua "
+                                  "publicação' (DOU 3.10.1969)"),
 }
 _L = B._act_law
 ACT_LAWS_ALL: dict[str, dict] = {
@@ -107,6 +125,13 @@ ACT_LAWS_ALL: dict[str, dict] = {
                       "de dezembro 1995; e dá outras providências.", "2015-06-01", "2015-06-02", PAGES["lcp150"]),
     "lei-6019-1974": _L("Lei nº 6.019, de 1974", "Dispõe sobre o Trabalho Temporário nas Empresas Urbanas, e dá outras "
                         "Providências.", "1974-01-03", "1974-01-04", PAGES["ltemp"]),
+    "lei-4591-1964": _L("Lei nº 4.591, de 1964", "Dispõe sôbre o condomínio em edificações e as incorporações imobiliárias.",
+                        "1964-12-16", "1964-12-21", PAGES["lcondo"]),
+    "lei-9514-1997": _L("Lei nº 9.514, de 1997", "Dispõe sobre o Sistema de Financiamento Imobiliário, institui a alienação "
+                        "fiduciária de coisa imóvel e dá outras providências.", "1997-11-20", "1997-11-21", PAGES["lsfi"]),
+    "dl-911-1969": _L("Decreto-Lei nº 911, de 1969", "Altera a redação do art. 66, da Lei nº 4.728, de 14 de julho de 1965, "
+                      "estabelece normas de processo sôbre alienação fiduciária e dá outras providências.", "1969-10-01",
+                      "1969-10-03", PAGES["dl911"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -134,6 +159,49 @@ P.VIGENCIA_FIXED.update({
 P.MP_LAPSE["mp-883-2019"] = ("2019-09-19", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 58, de 2019 (DOU "
                                            "20.9.2019): MP 883 'teve seu prazo de vigência encerrado no dia 18 de setembro do "
                                            "corrente ano'")
+_LG = "lei-de-greve"
+_LG_WHY = ("Lei de Greve art. 10 X: the 1989 wording stands until Medida Provisória nº 866/2018 (21.12.2018) and again while "
+           "MP 883/2019, which revoked MP 866, was in force (22.5.2019 to its lapse, 19.9.2019: Ato Declaratório nº 58/2019); "
+           "MP 866's wording stands from 21.12.2018 to its conversion law, Lei 13.903/2019 (20.11.2019), except while MP 883 "
+           "was in force. Planalto prints both wordings twice around the MP 883 note; the second copy of MP 866's is left out")
+B8.SPAN_FIX += [
+    ((_LG, "art-10", "X -", "X - controle de tráfego aéreo;", 0),
+     {"start": "1989-06-29", "start_law": None, "end": "2018-12-21", "end_law": "mp-866-2018", "end_how": "successor"},
+     _LG_WHY),
+    ((_LG, "art-10", "X -", "X - controle de tráfego aéreo;", 1),
+     {"start": "2019-05-22", "start_law": "mp-883-2019", "end": "2019-09-19", "end_law": "mp-883-2019-fim",
+      "end_how": "lapse", "state": "struck"}, _LG_WHY),
+    ((_LG, "art-10", "X -", "X - controle de tráfego aéreo e navegação aérea; e", 0),
+     {"start": "2018-12-21", "start_law": "mp-866-2018", "end": "2019-11-20", "end_law": "lei-13903-2019",
+      "end_how": "successor", "gaps": [("2019-05-22", "2019-09-19", "mp-883-2019", "mp-883-2019-fim")]}, _LG_WHY),
+    ((_LG, "art-10", "X -", "X - controle de tráfego aéreo e navegação aérea; e", 1), {"skip": True, "end_how": "twin"},
+     _LG_WHY),
+]
+P.MP_PENDING["mp-2221-2001"] = ("Medida Provisória nº 2.221, de 4.9.2001 (DOU 5.9.2001), in force on 11.9.2001, stayed in force "
+                                "(Emenda Constitucional 32/2001, art. 2) until Lei 10.931/2004 revoked it (its page: 'Revogada "
+                                "pela Lei nº 10.931, de 2004'); its wordings in the Lei de Condomínios e Incorporações end with "
+                                "Lei 10.931's notes")
+B.EXPLAINED["lei-de-condominios-e-incorporacoes"] = {
+    "art-33": "the consolidated page keeps Medida Provisória nº 1.085/2021's parágrafo único ('... a cada cento e oitenta "
+              "dias') above Lei 14.382/2022's ('... a cada 180 (cento e oitenta) dias'), which replaced it on the "
+              "conversion; the annotated page strikes the MP's wording",
+}
+B.EXPLAINED["lei-da-alienacao-fiduciaria"] = {
+    "preambulo": "layout: the consolidated page sets the ementa ('Altera a redação do art. 66 ...') as a centred heading, "
+                 "the annotated page as the preamble's first line",
+    "titulos": "layout: the ementa, see preambulo",
+}
+P.VIGENCIA_FIXED["mp-656-2014"] = (
+    "2014-10-08", "art. 55: in force 'I - a partir de 1º de janeiro de 2015, em relação ao art. 3º; II - trinta dias após a "
+                  "sua publicação em relação aos arts. 9º a 17; e III - a partir da data de sua publicação, em relação aos "
+                  "demais artigos' (DOU 8.10.2014); its change to Lei 9.514/1997 (art. 53) falls under III")
+B8.SPAN_FIX += [
+    (("lei-da-alienacao-fiduciaria", "art-05", "Parágrafo único", "Parágrafo único. Não se aplica à alienação fiduciária o "
+                                                                  "disposto nos incisos IX", 0),
+     {"end": "1974-07-04", "end_law": "lei-6071-1974", "end_how": "successor"},
+     "Decreto-Lei 911/1969 art. 5 parágrafo único: the 1969 wording ends when Lei 6.071/1974 gave the paragraph its new "
+     "wording (4.7.1974); Planalto strikes it with the 1969 caput, which stood until Lei 13.043/2014"),
+]
 
 # court and other open items named in decisions (Planalto's 'Vide' notes are dropped from the text, so nothing is modelled)
 OPEN_ITEMS = {

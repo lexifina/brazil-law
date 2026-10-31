@@ -23,3 +23,9 @@ diffs (Lei 7.716 vs compilado; others vs unstruck text). Hand: VIGENCIA_FIXED DL
 words); P.NOTE_FIX cleared (batch 12's were printed in decisions). Open items (decisions): Vide ADPF 1259/1260 (Lei
 1.079), Vide ADO 26 (Lei 7.716). Part sha dbe2c636; merged 79 acts, 1805 versions, 1578 commits, check 0/0, compare
 identical, audit clean.
+
+## 99-batch13b - PUBLISHed 2026-10-31
+Lei de Greve 7.783/1989 (7 versions, 1989-2020), LC 150/2015 domésticos (2, to Lei 15.455/2026), Lei 6.019/1974 (3, 1974-
+2017). Hand: MP_LAPSE mp-883-2019 (19.9.2019, Ato Declaratório 58/2019 pinned ato:adc-58-2019-mpv883); SPAN_FIX LG art. 10 X
+(1989 / MP 866 / MP 883 gap / Lei 13.903). Dup flags only LC 150 art. 37 quoted §§. Part sha 773c98e0; merged 82 acts,
+1817 versions, 1587 commits, check 0/0, compare identical, audit clean.
