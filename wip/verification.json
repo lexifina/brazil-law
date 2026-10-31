@@ -2,7 +2,7 @@
  "check": {
   "acts": 62,
   "backwards": 0,
-  "corpus_sha256": "e869dae09973b6673765014462bbce95fde69815e26394d76353f64a80aaaa4e",
+  "corpus_sha256": "2e6b1f85ff97cd4419c4132f50a8530aad394f6717ba6deaf60affd286efd621",
   "future_dated": 0,
   "merges": 0,
   "mismatches": 0,
