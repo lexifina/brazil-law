@@ -222,10 +222,49 @@ B8.SPAN_FIX += [
      "Lei 10.411/2002 (in force 27.2.2002) gave it its wording first; the '(VETADO)' line, which Planalto prints unstruck "
      "above that wording, never stood as text and is left out"),
 ]
+# Lei 6.385 art. 9 caput: Planalto's annotated page prints only Decreto nº 3.995/2001's wording of the caput (noted
+# 'Redação dada pelo Decreto'), not the 1976 wording it replaced; that wording is read from Planalto's page of the act as
+# enacted (l6385original.htm, pinned as ctx:lcvm-original) and placed, struck, above the decree's, so it stands from
+# 1976 to 1.11.2001 (without it the article rule would date the whole article from the decree)
+LCVM_ORIGINAL_USED: list[str] = []
+_paragraphs12 = P.paragraphs
+
+
+def _original_caput9() -> str:
+    import html as _h
+    keep = B8.CURRENT_PAGE[0]
+    r = P.raw("ctx:lcvm-original")
+    B8.CURRENT_PAGE[0] = keep
+    t = P.norm(_h.unescape(re.sub(r"<[^>]+>", " ", P.decode(r[0]))))
+    m = re.search(r"Art\.?\s*9\s*[º°o]\s+(A Comissão de Valores Mobiliários terá jurisdição.*?poderá:)", t)
+    return "Art. 9º " + m.group(1)
+
+
+def paragraphs(html, digits):
+    out, rest = _paragraphs12(html, digits)
+    if B8.CURRENT_PAGE[0] == "lcvm":
+        for i, p in enumerate(out):
+            if p["unit"] == "art-09" and p["label"].startswith("Art. 9") and p["state"] == "plain" and any(
+                    "3.995" in n for n in p["notes"]):
+                old = {**p, "text": _original_caput9(), "state": "struck", "notes": [], "plain_text": "",
+                       "struck_text": ""}
+                old["struck_text"] = old["text"]
+                out.insert(i, old)
+                LCVM_ORIGINAL_USED.append(
+                    "Lei do Mercado de Valores Mobiliários art. 9 caput: Planalto's annotated page prints only Decreto nº "
+                    "3.995/2001's wording; the 1976 wording it replaced ('" + old["text"][:90] + "...') is read from "
+                    "Planalto's page of the act as enacted (l6385original.htm) and stands from 9.12.1976 to 1.11.2001")
+                break
+    return out, rest
+
+
+P.paragraphs = B.paragraphs = paragraphs
+
 _inner12 = B6.PB5B._write_part5
 
 
 def _inner(*a):
+    B5.EXTRA_DECISIONS.extend(x + "." for x in dict.fromkeys(LCVM_ORIGINAL_USED))
     for k, rec in a[1].items():
         if k.startswith("dec-"):
             rec["kind"] = "decree"
