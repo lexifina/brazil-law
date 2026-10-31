@@ -224,13 +224,15 @@ def lifespans(paras, cx):
     day, law, why = hit
     act = next(a for a in ACTS if a["slug"] == cx.act)
     text = _promulgation_text(act["page"])
-    noted = {p["unit"] for p in paras if any("Promulgação partes vetadas" in n for n in p["notes"])}
     promulgated = set()
-    for i, p in enumerate(paras):
-        if p["unit"] not in noted or p["state"] != "plain" or p.get("skip") or "(VETADO)" in p["text"]:
-            continue
+    block = None   # the unit of the promulgated block being read: it starts at a line carrying the note
+    for p in paras:
         body = _flat(P.norm(p["text"]))
-        if len(body) < 8 or body not in text:
+        inside = (not p.get("skip") and "(VETADO)" not in p["text"] and len(body) >= 8 and body in text)
+        if inside and any("Promulgação partes vetadas" in n for n in p["notes"]):
+            block = p["unit"]
+        elif not (inside and block == p["unit"] and p["unit"] != "titulos"):
+            block = None
             continue
         promulgated.add((p["unit"], p["label"]))
         if day > cx.act_day:
