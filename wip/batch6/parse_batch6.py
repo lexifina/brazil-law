@@ -26,7 +26,7 @@ import parse_batch5b as PB5B  # noqa: E402  (configures batch 5 / 4 / 3 / parse_
 
 B5, B4, B, P = PB5B.B5, PB5B.B4, PB5B.B, PB5B.P
 PL = P.PL
-B5.OUT = FOLDER / "corpus.d" / "99-batch6.json"
+B5.OUT = Path(os.environ.get("BATCH6_OUT") or FOLDER / "corpus.d" / "99-batch6.json")
 B5.STAGE = HERE / ".tmp" / "stage.json"
 P.RETRIEVED = "2026-10-29"
 
@@ -110,7 +110,8 @@ def law_key(text: str, year_of: dict | None = None) -> str | None:
 def law_label(key: str) -> str:
     m = REISSUE_KEY.match(key)
     if m:
-        return f"Medida Provisória nº {int(m.group(1)):,}-{m.group(2)}, de {m.group(3)}".replace(",", ".")
+        num = f"{int(m.group(1)):,}".replace(",", ".")
+        return f"Medida Provisória nº {num}-{m.group(2)}, de {m.group(3)}"
     return _law_label6(key)
 
 
