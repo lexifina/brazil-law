@@ -186,6 +186,20 @@ def page_info(key: str) -> dict:
     if m and info:
         P.LEXML_USED.discard(_lexml_url6(base, info.get("enacted")))
         P.LEXML_USED.add(lexml_url(key, info.get("enacted")))
+    # a base key whose pinned page is a later edition ('MPV/Antigas/1891-8.htm'): its LexML record is filed under the
+    # edition ('...medida.provisoria:1999-09-24;1891-8'); where that record is cached and its 'Publicação Original' day
+    # differs from the page's DOU line, the LexML day is used (as parse_proc does for every law)
+    bm = re.match(r"^mp-(\d+)-(\d{4})$", key)
+    pe = pinned_edition(bm.group(1), bm.group(2)) if bm and info and info.get("enacted") else None
+    if pe and key not in P.PUB_CORRECTED:
+        u = f"{P.LEXML}medida.provisoria:{info['enacted']};{bm.group(1)}-{pe}"
+        c = P.fetch.cached(u)
+        x = re.sub(r"\s+", " ", P.htmlmod.unescape(re.sub(r"<[^>]+>", " ", c.read_bytes().decode("utf-8", "replace")))) if c else ""
+        lm = re.search(r"Publicação Original (\d{4}-\d{2}-\d{2}) Diário Oficial da União", x)
+        if lm and lm.group(1) != info.get("published"):
+            P.LEXML_USED.add(u)
+            P.PUB_CORRECTED[key] = (info.get("published"), lm.group(1))
+            info = dict(info, published=lm.group(1))
     if info and key not in REISSUED:
         nx = next_edition(key, info)
         if nx:
