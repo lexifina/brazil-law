@@ -716,6 +716,13 @@ def paragraphs(html, digits):
                 cur = p["unit"]
             keep.append(p)
         out = keep
+    if page in ("l10522", "l10522-compilado"):
+        # Lei 10.522 art. 37-B § 10 (Lei 11.941/2009): both Planalto pages (and Lei 11.941's own page) strike only the dash in
+        # 'Custódia – SELIC'; a typesetting slip in a line in force: the line is read as unstruck, dash kept
+        for p in out:
+            if p["state"] == "mixed" and P.norm(p.get("struck_text", "")) in ("–", "-"):
+                p.update({"state": "plain", "plain_text": "", "struck_text": ""})
+                MIXED_PLAIN.append(f"{page} {p['unit']} {p['label']}")
     if page in EMPTY_ITEM_PAGES:
         # Lei 9.250 art. 4 III and VI, Lei 7.713 art. 6 XV: struck 'a) (Vide Medida nº 340, de 2006).' ... 'd)': a label
         # and a pointer, no words
@@ -761,6 +768,7 @@ L9250_FIXED: list[str] = []
 L9430_FIXED: list[str] = []
 L13465_FIXED: list[str] = []
 EMPTY_ITEM_PAGES = {"l9250", "l7713"}
+MIXED_PLAIN: list[str] = []
 EMPTY_ITEMS: list[str] = []
 P.paragraphs = B.paragraphs = paragraphs
 
@@ -1391,6 +1399,28 @@ B.EXPLAINED[_LMCMV] = {
     "art-12": "the consolidated page prints art. 12's parágrafo único under 'Art. 12 (Revogado pela Lei nº 12.424, de 2011)'; "
               "Lei 12.424 art. 13 III revokes the whole article ('os arts. 5º e 12') from 31.12.2011, so the history ends it then",
 }
+
+# part q: Lei 10.522/2002 (Cadin). Hand days set only when the act runs.
+_LCADIN = "lei-do-cadin"
+if any(a["slug"] == _LCADIN for a in ACTS):
+    P.VIGENCIA_FIXED["lei-12844-2013"] = (
+        "2013-07-19", "art. 49: 'Esta Lei entra em vigor: [...] V - na data de sua publicação para os demais dispositivos' "
+                      "(DOU 19.7.2013, edição extra): its art. 21 (Lei 10.522 art. 19) falls under V")
+    P.VIGENCIA_FIXED["lei-13988-2020"] = (
+        "2020-04-14", "'Esta Lei entra em vigor: I - em 120 (cento e vinte) dias [...] em relação ao inciso I do caput e ao "
+                      "parágrafo único do art. 23; e II - na data de sua publicação, em relação aos demais dispositivos' (DOU "
+                      "14.4.2020, edição extra): its art. 28 (Lei 10.522 art. 19-E) falls under II")
+    P.MP_LAPSE["mp-1160-2023"] = (
+        "2023-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 41, de 2023 (DOU 16.6.2023): 'teve seu "
+                      "prazo de vigência encerrado no dia 1º de junho de 2023'; the provision it had revoked is back from "
+                      "2.6.2023")
+B13.OPEN_ITEMS[_LCADIN] = (
+    "Lei 10.522 (open items): the text before 22.7.2002 (Medida Provisória 2.176-79/2001 and its earlier editions, of which "
+    "this Lei is the conversion) is not part of the history; the STF's judgment in ADIs 5.881, 5.886, 5.890, 5.925, 5.931 and "
+    "5.932 on arts. 20-B to 20-E (Planalto prints only 'Vide' notes and strikes no words) is not modelled; 'Vide' pointers "
+    "(Medidas Provisórias 75/2002, 249/2005, 526/2011, 766/2017, 958/2020, 975/2020, 1.028/2021, 1.176/2023 and 1.259/2024, "
+    "Leis 12.453/2011, 12.973/2014, 13.340/2016, 13.999/2020, 14.057/2020, 14.179/2021 and 14.690/2023 on art. 6, ADI "
+    "1.976-7 on the Decreto 70.235 text quoted in art. 32) strike no words and are not modelled")
 
 # Lei 9.430 arts. 18 to 22: the headings above them (Seção V 'Preços de Transferência' and the article headings) are struck
 # with no note; they fall with the articles, revoked by Lei 14.596/2023 (the 'heads' rule would end each with the first
