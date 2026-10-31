@@ -99,12 +99,44 @@ REISSUE_REF = re.compile(r"Medida\s+Provis[óo]ria\s*(?:n\s*[º°o]?\s*\.?)?\s*(
 _law_key6, _law_label6, _lexml_url6, _page_info6 = P.law_key, P.law_label, P.lexml_url, P.page_info
 
 
+# Every edition (batch 18): before Emenda Constitucional 32/2001 an MP was reissued every month as a numbered edition
+# ('2.177-43', '2.177-44'), each a new act with its own DOU day. A note naming an edition gets its own key whenever the
+# page pinned under the base key (law:mp-<n>-<year>) is another edition of that number: the base key stays the pinned
+# edition's (so acts whose notes name only that edition parse as before), every other edition is mp-<n>r<edition>-<year>,
+# pinned to its own Planalto page (MPV/Antigas/<n>-<edition>.htm ...) and dated by its own DOU day.
+_PIN_EDITION: dict[str, str | None] = {}
+PIN_EDITION_RX = re.compile(r"/0*(\d+)(?:-(\d{1,2}))?\.htm$", re.I)
+
+
+def pinned_edition(n: str, y: str) -> str | None:
+    """Edition of the page pinned as law:mp-<n>-<y>: '' for the first issue, None when nothing (or no MP page) is
+    pinned. Read once per run (the pin files do not change during a parse)."""
+    k = f"mp-{n}-{y}"
+    if _PIN_EDITION.get(k) is None:   # a missing pin is looked up again (a later batch may add pin files)
+        s = P.sources().get("law:" + k)
+        m = PIN_EDITION_RX.search(s["url"]) if s else None
+        _PIN_EDITION[k] = (m.group(2) or "") if m and m.group(1) == n else None
+    return _PIN_EDITION[k]
+
+
+def edition_of(key: str) -> int | None:
+    """Edition number of an MP key: its own for mp-<n>r<e>-<y>, the pinned page's for a base key (0 = first issue)."""
+    m = REISSUE_KEY.match(key)
+    if m:
+        return int(m.group(2))
+    m = re.match(r"^mp-(\d+)-(\d{4})$", key)
+    e = pinned_edition(m.group(1), m.group(2)) if m else None
+    return None if e is None else int(e or 0)
+
+
 def law_key(text: str, year_of: dict | None = None) -> str | None:
     m = REISSUE_REF.search(text)
     if m:
         n = m.group(1).replace(".", "")
-        if (n, m.group(2), m.group(3)) in REISSUES and not P.LAW_REF.search(text[:m.start()]):
-            return f"mp-{n}r{m.group(2)}-{m.group(3)}"
+        if not P.LAW_REF.search(text[:m.start()]):
+            pe = pinned_edition(n, m.group(3))
+            if (n, m.group(2), m.group(3)) in REISSUES or (pe is not None and pe != m.group(2)):
+                return f"mp-{n}r{m.group(2)}-{m.group(3)}"
     return _law_key6(text, year_of)
 
 
@@ -349,15 +381,7 @@ def lifespans(paras: list[dict], cx) -> list[str]:
         for (act, unit, label, start), why in NEVER_IN_FORCE.items():
             if cx.act == act and p["unit"] == unit and p["label"] == label and p["text"].startswith(start) and p["state"] != "plain":
                 p["never"] = why
-        keys = {law_key(n): n for n in p["notes"] if P.START_KIND.search(n) and law_key(n)}
-        for first, last in MP_CHAINS:
-            if first in keys and last in keys:
-                if page_has(first, p["text"]) and page_has(last, p["text"]):
-                    p["notes"] = [n for n in p["notes"] if n != keys[last]]
-                    MP_CHAIN_USED.append(f"{cx.act} {p['unit']} [{p['label']}] from {P.law_label(first)} (also printed in "
-                                         f"{P.law_label(last)})")
-                else:
-                    problems.append(f"MP chain {first}/{last}: wording not on both pages: {p['unit']} [{p['label']}]")
+        mp_chain(p, cx, problems)
         for i, n in enumerate(p["notes"]):
             m = WITH_WORDING.search(n)
             if not m:
