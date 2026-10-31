@@ -194,6 +194,11 @@ def page_info(key: str) -> dict:
             if day:
                 REISSUED[key] = (nx, day, ninfo)
                 P.MP_PENDING[key] = REISSUE_MARK
+                # the next edition as a law (an end may be credited to it; write_part keeps only laws in use)
+                P.ACT_LAWS.setdefault(nx, {"label": law_label(nx), "title": ninfo.get("title") or "", "kind": "law",
+                                           "enacted": ninfo.get("enacted"), "published": ninfo.get("published"),
+                                           "url": (P.sources().get("law:" + nx) or {}).get("url"),
+                                           "temporary_until": None, "restores": None, "note": None})
     return info
 
 
@@ -376,11 +381,6 @@ def reissue_ends(paras: list[dict], cx, problems: list[str]) -> None:
         p["end"], p["end_law"], p["end_how"] = day, nx, "reissue"
         problems[:] = [x for x in problems if not x.startswith(tag)]
         REISSUE_ENDS.append(f"{cx.act} {p['unit']} [{p['label']}] ({P.law_label(p['start_law'])} to {day})")
-        if nx not in cx.eff and nx not in P.ACT_LAWS:
-            P.ACT_LAWS[nx] = {"label": P.law_label(nx), "title": ninfo.get("title") or "", "kind": "law",
-                              "enacted": ninfo.get("enacted"), "published": ninfo.get("published"),
-                              "url": (P.sources().get("law:" + nx) or {}).get("url"), "temporary_until": None,
-                              "restores": None, "note": None}
     # children of an ended struck line fall with it (parse_proc's parent rule ran before these ends were set)
     for i, p in enumerate(paras):
         if p["state"] == "plain" or p["end"] or p["gaps"] or p.get("skip") or p["heading"]:
