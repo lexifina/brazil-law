@@ -375,7 +375,8 @@ def reissue_ends(paras: list[dict], cx, problems: list[str]) -> None:
             continue
         nx, day, ninfo = hit
         tag = f"no end for struck {p['unit']} [{p['label']}] {p['text'][:90]!r}"
-        if page_has(nx, p["text"]):
+        page_has(nx, p["text"])   # loads the page text
+        if p["text"] and _alnum(p["text"])[:80] in _PAGE_TEXT[nx]:   # the same label and words: the wording went on
             problems.append(f"edition wording carried on by {nx}: {p['unit']} [{p['label']}] {p['text'][:70]!r}")
             continue
         p["end"], p["end_law"], p["end_how"] = day, nx, "reissue"
