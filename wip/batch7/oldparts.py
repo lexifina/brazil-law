@@ -35,6 +35,9 @@ OPEN = {
 # line start, n-th such line, fields, why)]
 _W8740 = ("Decreto-Lei 8.740/1946 (19.1.1946) rewrote these articles and Decreto-Lei 8.987-A/1946 suspended it, restoring the "
           "1943 wording; Planalto prints the 1943 wording, the 1946 block and the 1943 wording again")
+_W592 = ("CLT art. 592: Planalto prints the 1943 article (caput, I to IV with their alíneas, parágrafo único), the lines "
+         "later decree-laws changed, a second copy of item I with its alíneas, and the items II to IV as Decreto-Lei "
+         "925/1969 rewrote them")
 OLD_FIX: dict[str, list[tuple[str, str, str, str, int, dict, str]]] = {
     "70-clt": [
         ("clt", "art-379", lab, start, 0, {"start": "1984-06-05", "start_law": "lei-7189-1984"},
@@ -64,6 +67,21 @@ OLD_FIX: dict[str, list[tuple[str, str, str, str, int, dict, str]]] = {
                              ("b)", "b) na realização de estudos econômicos e financeiros;"), ("c)", "c) em bibliotecas;"),
                              ("d)", "d) em medidas de divulgação comercial"),
                              ("e)", "e) nas despesas decorrentes dos encargos criados pelo presente capítulo"))],
+        ("clt", "art-592", "a)", "a) em serviços de assistência técnica e judiciária;", 0,
+         {"end": "1976-12-10", "end_law": "lei-6386-1976", "end_how": "parent"},
+         _W592 + "; item I's alínea a) stands until Lei 6.386/1976 rewrote the article, like the rest of item I (it had "
+                 "been ended in 1946 by Decreto-Lei 8.740's new alínea a) of item II)"),
+        *[("clt", "art-592", lab, start, 0,
+           {"skip": False, "end": "1969-10-13", "end_law": "dl-925-1969", "end_how": "successor"},
+           _W592 + "; alíneas of the 1943 items II to IV whose words Decreto-Lei 925/1969 repeated (II d), II j), III a), "
+                   "IV a)) stand from 1943 until then (the twin-wording rule had left them out of the 1943 text)")
+          for lab, start in (("d)", "d) em assistência judiciária;"),
+                             ("j)", "j) nas despesas decorrentes dos encargos criados pelo presente capítulo"),
+                             ("a)", "a) em bibliotecas especializadas;"), ("a)", "a) na assistência à maternidade;"))],
+        ("clt", "art-592", "a)", "a) em agências de colocação, na forma das instruções que forem expedidas pelo ministro", 0,
+         {"skip": False, "start": "1943-11-10", "start_law": None, "end": "1946-01-21", "end_law": "dl-8740-1946",
+          "end_how": "successor"},
+         _W592 + "; item II alínea a) as enacted stands until Decreto-Lei 8.740/1946's wording (" + _W8740 + ")"),
         ("clt", "art-515", "Parágrafo único", "Parágrafo único - O Ministro do Trabalho poderá", 0,
          {"skip": True, "end_how": "twin"},
          "CLT art. 515 parágrafo único: inside the Decreto-Lei 8.740/1946 block Planalto prints the 1943 paragraph again, "
@@ -72,9 +90,6 @@ OLD_FIX: dict[str, list[tuple[str, str, str, str, int, dict, str]]] = {
     ],
 }
 # the same for a run of printed lines: part -> [(act, unit, first line start, start of the line after the run, fields, why)]
-_W592 = ("CLT art. 592: Planalto prints the 1943 article (caput, I to IV with their alíneas, parágrafo único), the lines "
-         "later decree-laws changed, a second copy of item I with its alíneas, and the items II to IV as Decreto-Lei "
-         "925/1969 rewrote them")
 OLD_RANGES: dict[str, list[tuple[str, str, str, str, dict, str]]] = {
     "70-clt": [
         ("clt", "art-592", "II. De empregados:", "Parágrafo único. A aplicação do imposto sindical",
