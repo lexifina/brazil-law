@@ -398,7 +398,8 @@ def _insert_original(out, digits):
         if unit == "art-094":   # the original page prints the 1991 wording of art. 94 unstruck: its caput only
             first = [ou[0]]
         else:                   # the struck lines above the first unstruck caput
-            k = next(i for i, p in enumerate(ou) if i and p["label"].startswith("Art.") and p["state"] == "plain")
+            k = next((i for i, p in enumerate(ou) if i and p["label"].startswith("Art.") and p["state"] == "plain"),
+                     len(ou))
             first = [p for p in ou[:k] if p["state"] != "plain"]
         at = next(i for i, p in enumerate(out) if p["unit"] == unit and not p["heading"])
         new = []
