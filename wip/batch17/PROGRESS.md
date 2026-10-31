@@ -287,6 +287,14 @@ Lei dos Portos 12.815/2013, 7 versions 2013-06-05 .. 2022-02-06. No hand dates; 
 art. 71's quoted Lei 10.233 text. Part sha 37d58a62; merged 168 acts, 2858 versions, 2206 commits, check 0/0, compare
 identical, audit clean. README rows + jurisdiction.json (168 acts).
 
+## 99-batch17u - PUBLISHed 2026-10-31 (sixth session)
+Lei 9.074/1995, 25 versions 1995-07-08 .. 2025-11-25 (l9074cons.htm vs l9074compilada.htm, 0 diffs).
+- Pinned (gap): law:lei-11668-2008, law:lei-15235-2025. Hand (`_L9074`): VIGENCIA_FIXED mp-1300-2025 21.5.2025 (III) and
+  lei-15235-2025 9.10.2025 (conversion that drops MP 1.300 art. 1: its 9.074 wordings end on publication); mp-612-2013
+  settings now set for _LCSE or _L9074 (text differs per act so part s's decisions are unchanged: s reparse = installed except
+  sources[0].requests). OPEN_ITEMS L9074. effects_fix 0 moves; all checks 0. Part sha 52d31eb8 (pre-effects 87993a50);
+  merged 169 acts, 2883 versions, 2220 commits, check 0/0, compare identical, audit clean. README row + jurisdiction (169).
+
 ## State at handoff (batch 17, fifth session, 2026-10-31)
 Parts 99-batch17a..p installed with .PUBLISH (37 acts, 400 versions; merged 163 acts, 2794 versions, 2183 commits, check
 0/0, --compare identical, audit clean). README rows + jurisdiction.json (163 acts) current. All runs foreground through

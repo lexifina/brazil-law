@@ -199,6 +199,8 @@ ALL_ACTS: list[dict] = [
          "Lei dos Portos (Lei nº 12.815, de 5 de junho de 2013)", 2),
     _act("lei-9074-de-1995", "L9074", "l9074", "l9074-compilada", "lei-9074-1995",
          "Outorga e prorrogação de concessões e permissões de serviços públicos (Lei nº 9.074, de 7 de julho de 1995)", 2),
+    _act("lei-do-rdc", "LRDC", "l12462", "l12462-compilado", "lei-12462-2011",
+         "Regime Diferenciado de Contratações Públicas - RDC (Lei nº 12.462, de 4 de agosto de 2011)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -224,6 +226,7 @@ PARTS: dict[str, list[str]] = {
     "s": ["lei-das-concessoes-do-setor-eletrico"],
     "t": ["lei-dos-portos"],
     "u": ["lei-9074-de-1995"],
+    "v": ["lei-do-rdc"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -298,6 +301,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-12783-2013": ("2013-01-14", f"Lei 12.783/2013 art. 32: {_PUB} (DOU 14.1.2013)"),
     "lei-12815-2013": ("2013-06-05", f"Lei 12.815/2013 art. 75: {_PUB} (DOU 5.6.2013, edição extra)"),
     "lei-9074-1995": ("1995-07-08", f"Lei 9.074/1995 art. 39: {_PUB} (DOU 8.7.1995, edição extra; republished 28.9.1998)"),
+    "lei-12462-2011": ("2011-08-05", "Lei 12.462/2011 art. 70: 'Esta Lei entra em vigor na data de sua publicação, produzindo "
+                                     "efeitos financeiros, no tocante ao art. 52 desta Lei, a contar da transferência dos órgãos "
+                                     "ali referidos' (DOU 5.8.2011, edição extra, rectified 10.8.2011): financial effects only, so "
+                                     "the in-force day"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -437,6 +444,16 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          PAGES["l12815"]),
     "lei-9074-1995": _L("Lei nº 9.074, de 1995", "Estabelece normas para outorga e prorrogações das concessões e permissões de "
                         "serviços públicos e dá outras providências.", "1995-07-07", "1995-07-08", PAGES["l9074"]),
+    "lei-12462-2011": _L("Lei nº 12.462, de 2011", "Institui o Regime Diferenciado de Contratações Públicas - RDC; altera a Lei "
+                         "nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos "
+                         "Ministérios, a legislação da Agência Nacional de Aviação Civil (Anac) e a legislação da Empresa Brasileira "
+                         "de Infraestrutura Aeroportuária (Infraero); cria a Secretaria de Aviação Civil, cargos de Ministro de "
+                         "Estado, cargos em comissão e cargos de Controlador de Tráfego Aéreo; autoriza a contratação de "
+                         "controladores de tráfego aéreo temporários; altera as Leis nºs 11.182, de 27 de setembro de 2005, 5.862, "
+                         "de 12 de dezembro de 1972, 8.399, de 7 de janeiro de 1992, 11.526, de 4 de outubro de 2007, 11.458, de 19 "
+                         "de março de 2007, e 12.350, de 20 de dezembro de 2010, e a Medida Provisória nº 2.185-35, de 24 de agosto "
+                         "de 2001; e revoga dispositivos da Lei nº 9.649, de 27 de maio de 1998.", "2011-08-04", "2011-08-05",
+                         PAGES["l12462"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -764,6 +781,13 @@ def paragraphs(html, digits):
                 cur = p["unit"]
             keep.append(p)
         out = keep
+    if page == "l12462":
+        # Lei 12.462 art. 63 § 17 (Medida Provisória 1.349/2026, 'Vigência encerrada', day not read): left out
+        n0 = len(out)
+        out = [p for p in out if not (p["unit"] == "art-63" and P.norm(p["text"]).startswith("§ 17. O apoio financeiro "
+                                                                                        "reembolsável"))]
+        if len(out) != n0:
+            LRDC_FIXED.append("x")
     if page == "l9873":
         # Lei 9.873: the conversion law was promulgated by the President of the Senate; its closing line 'Congresso Nacional,
         # em 23 de novembro de 1999; [...]' is not a line of art. 8
@@ -839,6 +863,7 @@ L13465_FIXED: list[str] = []
 EMPTY_ITEM_PAGES = {"l9250", "l7713"}
 MIXED_PLAIN: list[str] = []
 L9873_FIXED: list[str] = []
+LRDC_FIXED: list[str] = []
 EMPTY_ITEMS: list[str] = []
 P.paragraphs = B.paragraphs = paragraphs
 
@@ -1482,6 +1507,11 @@ if any(a["slug"] == _L9074 for a in ACTS):
         "2025-05-21", "'Esta Medida Provisória entra em vigor: I - quarenta e cinco dias [...] quanto ao art. 6º; II - em 1º de "
                       "janeiro de 2026, quanto ao art. 8º; e III - na data de sua publicação, quanto aos demais dispositivos' (DOU "
                       "21.5.2025, edição extra): its art. 1 (Lei 9.074) falls under III")
+    P.VIGENCIA_FIXED["lei-15235-2025"] = (
+        "2025-10-09", "'Esta Lei entra em vigor: I - em 1º de janeiro de 2026, quanto ao inciso III do caput do art. 5º; e II - "
+                      "na data de sua publicação, quanto aos demais dispositivos' (DOU 9.10.2025): the conversion of Medida "
+                      "Provisória 1.300/2025, which does not keep the MP's art. 1 (its changes to Lei 9.074), takes effect on "
+                      "publication, so those changes end on 9.10.2025 and the wordings they replaced are back")
 if any(a["slug"] in (_LCSE, _L9074) for a in ACTS):
     P.VIGENCIA_FIXED["mp-612-2013"] = (
         "2013-04-04", "art. 28: 'Esta Medida Provisória entra em vigor: [...] III - na data de sua publicação para os demais "
@@ -1579,6 +1609,35 @@ _W27 = ("Lei 12.783 art. 27 (its new wording of Lei 12.111 art. 3 § 16): Medida
          "the article's first line only, so the quoted lines below it get the same gap, 13.6.2024 to 11.10.2024")
 _G1232 = {"gaps": [("2024-06-13", "2024-10-11", "mp-1232-2024", "mp-1232-2024-fim")]}
 B8.SPAN_FIX += [((_LCSE, "art-27", lab, pre, 0), dict(_G1232), _W27) for lab, pre in (("", '"Art. 3'), ("§ 16", "§ 16."))]
+B13.OPEN_ITEMS[_L9074] = (
+    "Lei 9.074 (open items): the text before 8.7.1995 (Medida Provisória 1.017/1995, of which this Lei is the conversion) is "
+    "not part of the history; the republication of 28.9.1998 is read as Planalto prints the Lei; 'Vide' pointers (decrees, "
+    "Lei 12.783/2013) strike no words and are not modelled")
+# part v: Lei 12.462/2011 (RDC). Hand days set only when the act runs.
+_LRDC = "lei-do-rdc"
+if any(a["slug"] == _LRDC for a in ACTS):
+    P.VIGENCIA_FIXED["lei-14133-2021"] = (
+        "2023-12-30", "art. 193, as Lei Complementar 198/2023 worded it: 'Revogam-se: [...] II - em 30 de dezembro de 2023: "
+                      "[...] c) os arts. 1º a 47-A da Lei nº 12.462, de 4 de agosto de 2011' (the first wording set two years "
+                      "from 1.4.2021; Medida Provisória 1.167/2023 and then LC 198/2023 moved it): every note of Lei 14.133 on "
+                      "Lei 12.462's page is that revocation, so it is dated 30.12.2023, not by Lei 14.133's own entry into force")
+    for _n in ("Incluído", "Redação dada"):
+        P.NOTE_FIX[f"({_n} pela Lei nº 1.4002, de 2020)"] = (
+            f"({_n} pela Lei nº 14.002, de 2020)",
+            f"Lei 12.462: notes read '{_n} pela Lei nº 1.4002, de 2020'; their links go to Lei 14.002/2020 (L14002.htm)")
+B.EXPLAINED[_LRDC] = {
+    "art-48": _DOTTED, "art-68": _DOTTED,
+    "titulos": "the consolidated page still prints the headings of Capítulo I's Seções II to V and their Subseções, which the "
+               "annotated page strikes with arts. 1 to 47-A (revoked by Lei 14.133/2021 from 30.12.2023)",
+    "art-63": "the consolidated page prints § 17 (Medida Provisória 1.349/2026), which lapsed on a day not read here and is "
+              "left out of the history",
+}
+B13.OPEN_ITEMS[_LRDC] = (
+    "Lei 12.462 (open items): the text before 5.8.2011 (Medida Provisória 527/2011, of which this Lei is the conversion) is "
+    "not part of the history; the STF's ADIs 4.645 and 4.655 (Planalto prints only 'Vide' notes) are not modelled; art. 63 "
+    "§ 17 (Medida Provisória 1.349/2026, lapsed on a day not read here) is left out; 'Vide' pointers (Decreto 8.024/2013, "
+    "Lei 14.034/2020, Lei 14.133/2021) strike no words and are not modelled")
+
 B13.OPEN_ITEMS[_LCADIN] = (
     "Lei 10.522 (open items): the text before 22.7.2002 (Medida Provisória 2.176-79/2001 and its earlier editions, of which "
     "this Lei is the conversion) is not part of the history; the STF's judgment in ADIs 5.881, 5.886, 5.890, 5.925, 5.931 and "
@@ -1687,6 +1746,11 @@ def _inner(*a):
         dec.append("Lei 9.873 art. 3 II and art. 8 name the act they refer to or revoke '[...] da Lei nº 6.385, de [...] 1976, com "
                    "a redação dada pela Lei nº 9.457, de [...] 1997[...]': these words are part of the text, not an amendment "
                    "note (" + ", ".join(dict.fromkeys(x for x in BARE_TEXT_USED if x.startswith("l9873"))) + ").")
+    if LRDC_FIXED:
+        dec.append("Lei 12.462 art. 63 § 17 was added by Medida Provisória 1.349/2026 (DOU 7.4.2026); Planalto's page of the MP "
+                   "reads 'Vigência encerrada' and links Ato Declaratório nº 77 of 2026, which could not be read, so the day "
+                   "the paragraph lapsed is not known: it is LEFT OUT of every version (the consolidated page, not updated, "
+                   "still prints it).")
     if L9873_FIXED:
         dec.append("Lei 9.873: " + "; ".join(dict.fromkeys(L9873_FIXED)) + " (the Lei, the conversion of Medida Provisória "
                    "1.859-17/1999, was promulgated by the President of the Senate).")
