@@ -293,7 +293,7 @@ P.COURTS = {
                  "competições esportivas estaduais, nacionais ou internacionais' do art. 3º, VIII, b, da Lei nº 12.651, de "
                  "2012",
         "url": "https://www.stf.jus.br/arquivo/informativo/documento/informativo892.htm",
-        "from": "2018-02-28", "case": r"ADC\s*N?º?\s*42", "where": [], "why": _WADC42},
+        "from": "2018-02-28", "case": r"ADC\s*N?º?\s*42", "where": [], "why": _WADC42},
 }
 B8.SPAN_FIX += [
     ((_CF, "art-03", "b)", "b) as obras de infraestrutura destinadas às concessões", 0),
@@ -345,6 +345,7 @@ B8.LAW_FIELD_FIX.update({
 P.VIGENCIA_FIXED["lei-12529-2011"] = ("2012-05-29", "art. 128: 180 days after publication in the DOU of 1.12.2011 (the page "
                                                     "prints 1º.11.2011 by mistake): 29.5.2012")
 B.EXPLAINED.update({
+    "codigo-florestal": {"art-80": _Q.format(x="§ 1º.")},
     "lei-da-acao-civil-publica": {
         "art-01": "the consolidated page prints the numerals of incisos I and II with the letter l ('l -', 'll -') too; the "
                   "history reads them as I and II (see the label decision)",
