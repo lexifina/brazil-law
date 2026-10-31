@@ -67,6 +67,17 @@
    }
   },
   {
+   "id": "ato:adc-72-2020-mpv922",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Congresso/adc-72-mpv922.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261011015220",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054552.43/warc/CC-MAIN-20261011013937-20261011043937-00783.warc.gz",
+    "offset": "424802820",
+    "length": "2844"
+   }
+  },
+  {
    "id": "ato:adc-96-2026-mpv1360",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Congresso/adc-96-mpv1.360.htm",
    "cc": {
@@ -1993,6 +2004,17 @@
     "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170055395.40/warc/CC-MAIN-20261015005537-20261015035537-00946.warc.gz",
     "offset": "14784780",
     "length": "11669"
+   }
+  },
+  {
+   "id": "law:mp-922-2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Mpv/mpv922.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261011032258",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054552.43/warc/CC-MAIN-20261011013937-20261011043937-00676.warc.gz",
+    "offset": "380559978",
+    "length": "11422"
    }
   },
   {
