@@ -180,7 +180,14 @@ B7.CONVERTED_FIX.update({
     "mp-577-2012": ("lei-12767-2012", "the MP page reads 'Convertida pela Lei nº 12.767, de 2012' ('pela' for 'na'), "
                                       "Lei nº 12.767, de 27.12.2012"),
 })
+_W27 = ("Lei de Concessões art. 27: Lei 11.196/2005 (in force 22.11.2005) renumbered the Parágrafo único as § 1º and "
+        "added §§ 2º to 4º; Planalto prints the struck Parágrafo único with its incisos I and II and then the § 1º with "
+        "the same incisos, unstruck and with no note, so these start with the renumbering, when the struck copies end")
 B8.SPAN_FIX[:] = [
+    (("lei-de-concessoes", "art-27", "I -", "I - atender às exigências", 1),
+     {"start": "2005-11-22", "start_law": "lei-11196-2005"}, _W27),
+    (("lei-de-concessoes", "art-27", "II -", "II - comprometer-se", 1),
+     {"start": "2005-11-22", "start_law": "lei-11196-2005"}, _W27),
     (("lei-geral-do-esporte", "art-099", "IV -", "", 0), {"skip": True},
      "Lei Geral do Esporte art. 99 § 1º IV: Planalto prints a bare label line 'IV - (Vide Lei nº 15.522, de 2026)' where "
      "Lei 15.522/2026 rewords the inciso 180 days after its publication (DOU 29.9.2026; its art. 11), a day after the "
