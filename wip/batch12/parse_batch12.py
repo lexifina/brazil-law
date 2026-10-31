@@ -81,7 +81,36 @@ P.MP_LAPSE["mp-446-2008"] = (
                   "standing)")
 B5.MP_REJECTED["mp-446-2008"] = ("Rejeição da Medida Provisória nº 446, de 2008",
                                  "Ato do Presidente da Câmara dos Deputados: rejeição da Medida Provisória nº 446, de 2008")
-_TYPO ="typesetting: the annotated page prints 'Art. {n}º.' with a full stop after the number; the consolidated page has none"
+_LOAS = "lei-organica-da-assistencia-social"
+P.VIGENCIA_FIXED.update({
+    "lei-14176-2021": ("2021-06-23", "art. 6: 'Esta Lei entra em vigor: I - em 1º de janeiro de 2022, quanto ao art. 1º, na "
+                                     "parte que acrescenta o § 11-A no art. 20 e o art. 20-B na Lei nº 8.742 [...]; II - em 1º "
+                                     "de outubro de 2021, quanto ao art. 2º, que institui o auxílio-inclusão [the new Seção VI, "
+                                     "arts. 26-A to 26-H]; e III - na data de sua publicação, quanto aos demais dispositivos' "
+                                     "(DOU 23.6.2021)"),
+    "lei-14601-2023": ("2023-06-20", "art. 34: 'Esta Lei entra em vigor: I - em 1º de janeiro de 2024, quanto: a) aos arts. 30 e "
+                                     "31 e ao inciso I do caput do art. 33; b) ao § 3º do art. 4º; e II - na data de sua "
+                                     "publicação, quanto aos demais dispositivos' (DOU 20.6.2023); its changes to Lei 8.742 "
+                                     "(art. 28) fall under II"),
+})
+P.VIGENCIA_PROVISION.update({
+    ("lei-14176-2021", _LOAS, "art-20-b"): ("2022-01-01", "Lei 14.176/2021 art. 6 I: art. 20-B in force on 1.1.2022"),
+    **{("lei-14176-2021", _LOAS, f"art-26-{c}"): ("2021-10-01", "Lei 14.176/2021 art. 6 II: the auxílio-inclusão (Seção "
+                                                                 "VI, arts. 26-A to 26-H) in force on 1.10.2021")
+       for c in "abcdefgh"},
+})
+B8.SPAN_FIX[:] = [
+    ((_LOAS, "art-20", "§ 11-A", "§ 11-A. O regulamento", 0), {"start": "2022-01-01", "start_law": "lei-14176-2021"},
+     "Lei Orgânica da Assistência Social art. 20 § 11-A: Lei 14.176/2021 art. 6 I puts it in force on 1.1.2022 (its other "
+     "changes to art. 20 on publication, 23.6.2021)"),
+]
+P.NOTE_FIX.update({
+    "(Redação dada pela Lei nº 9.720, de 26.4.1991)": (
+        "(Redação dada pela Lei nº 9.720, de 1998)",
+        "Lei Orgânica da Assistência Social art. 18 VI: the note reads 'Lei nº 9.720, de 26.4.1991'; Lei nº 9.720 is of "
+        "30.11.1998 (the other notes of the page and the law's own page)"),
+})
+_TYPO = "typesetting: the annotated page prints 'Art. {n}º.' with a full stop after the number; the consolidated page has none"
 B.EXPLAINED[_LPSU] = {
     **{f"art-{n:02d}": _TYPO.format(n=n) for n in (1, 2, 4, 5, 7)},
     "art-06": _TYPO.format(n=6) + "; inciso VI reads 'caracteristicas' on the annotated page, 'características' on the "
