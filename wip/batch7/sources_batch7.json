@@ -815,6 +815,17 @@
    }
   },
   {
+   "id": "law:lei-13844-2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13844.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261012130233",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054671.42/warc/CC-MAIN-20261012112958-20261012142958-00010.warc.gz",
+    "offset": "878463167",
+    "length": "56857"
+   }
+  },
+  {
    "id": "law:lei-13870-2019",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Lei/L13870.htm",
    "cc": {
