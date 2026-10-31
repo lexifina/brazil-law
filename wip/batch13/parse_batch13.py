@@ -105,8 +105,8 @@ P.VIGENCIA_FIXED.update({
 # court and other open items named in decisions (Planalto's 'Vide' notes are dropped from the text, so nothing is modelled)
 OPEN_ITEMS = {
     "lei-dos-crimes-de-responsabilidade": (
-        "Lei dos Crimes de Responsabilidade (open item): Planalto's page marks arts. 39, 41 and the procedure articles for "
-        "Ministers of the Supremo Tribunal Federal and the Procurador-Geral da República with '(Vide ADPF 1259)' and "
+        "Lei dos Crimes de Responsabilidade (open item): Planalto's page marks arts. 39, 41, 47, 54, 57 and 70 (crimes and "
+        "procedure for Ministers of the Supremo Tribunal Federal and the Procurador-Geral da República) with '(Vide ADPF 1259)' and "
         "'(Vide ADPF 1260)', with no date and no struck text; the STF decisions in those cases are not modelled, and the "
         "text is the law's own wording"),
     "lei-do-crime-racial": (
@@ -115,7 +115,7 @@ OPEN_ITEMS = {
         "it changes no words and is not modelled"),
     "lei-das-contravencoes-penais": (
         "Lei das Contravenções Penais: Planalto's 'Vide' pointers at the head of the act (Lei 1.390/1951, Lei 7.437/1985) and "
-        "at art. 50 (Decretos-Leis 4.866/1942 and 9.215/1946) name laws that changed no words of the act; they are not "
+        "at art. 50 (Decretos-Leis 4.866/1942 and 9.215/1946) name acts that changed no words of it; they are not "
         "modelled"),
 }
 _inner13 = B6.PB5B._write_part5
