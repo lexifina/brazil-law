@@ -441,9 +441,20 @@ _W25 = ("Lei 8.212 art. 25 § 12: vetoed in Lei 13.606/2018 (DOU 10.1.2018); Con
         "promulgated on 17.4.2018 (DOU 18.4.2018, printed at the end of Lei 13.606's page: 'promulgo [...] as seguintes "
         "partes vetadas'), so the '§ 12. (VETADO).' line stands from 10.1.2018 to 18.4.2018 and the promulgated § 12 from "
         "18.4.2018, credited to Lei 13.606")
+_W32C = ("Lei 8.212 art. 32-C § 3º I-III: Medidas Provisórias 1.107/2022 (DOU 18.3.2022, converted into Lei 14.438/2022, "
+         "25.8.2022) and 1.110/2022 (DOU 28.3.2022, lapsed 7.8.2022) gave § 3º the same three incisos; Planalto prints MP "
+         "1.107's, then MP 1.110's, then MP 1.107's again. MP 1.107's incisos stand from 18.3.2022 to 28.3.2022 and again "
+         "from 8.8.2022 to Lei 14.438 (25.8.2022), MP 1.110's in between")
 B8.SPAN_FIX += [
     *[((_C, "art-089", lab, lab, 1), {"start": "1995-11-21", "start_law": "lei-9129-1995", "restored": False}, _W89)
       for lab in ("§ 1º", "§ 2º", "§ 3º", "§ 4º", "§ 5º", "§ 6º", "§ 7º")],
+    *[((_C, "art-032-c", lab, pre, n), f, _W32C) for lab, pre in [
+        ("I -", "I - as contribuições previstas nos incisos X, XII e XIII do caput do art. 30;"),
+        ("II -", "II - os valores referentes ao FGTS; e"),
+        ("III -", "III - os encargos trabalhistas sob a sua responsabilidade.")]
+      for n, f in [(0, {"end": "2022-03-28", "end_law": "mp-1110-2022", "end_how": "successor"}),
+                   (2, {"start": "2022-08-08", "start_law": "mp-1110-2022-fim", "restored": True, "end": "2022-08-25",
+                        "end_law": "lei-14438-2022", "end_how": "conversion"})]],
     ((_C, "art-025", "§ 12", "§ 12. (VETADO)", 0),
      {"end": "2018-04-18", "end_law": "lei-13606-2018", "end_how": "promulgation"}, _W25),
     ((_C, "art-025", "§ 12", "§ 12. Não integra a base de cálculo", 0),
