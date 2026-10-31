@@ -916,6 +916,12 @@ if any(a["slug"] == _L9430 for a in ACTS):
     P.VIGENCIA_PROVISION.update({("lei-11727-2008", _L9430, u): ("2009-01-01", _W11727)
                                  for u in ("art-24", "art-24-a", "art-24-b")})
     P.VIGENCIA_PROVISION[("mp-449-2008", _L9430, "art-24-a")] = ("2009-01-01", _W449)
+    _W1602 = ("Medida Provisória 1.602/1997 (DOU 17.11.1997) art. 65, the new wordings of Lei 9.430 art. 44 § 2º and art. 47, "
+              "with effects from 1.1.1998 (art. 72 II: 'a partir de 1º de janeiro de 1998, em relação aos demais dispositivos'); "
+              "Lei 9.532/1997 (DOU 11.12.1997), its conversion, kept them in its art. 70, also with effects from 1.1.1998 (art. "
+              "81 II): the wordings apply from 1.1.1998, credited to Lei 9.532, and the MP's never took effect")
+    P.VIGENCIA_PROVISION.update({(k, _L9430, u): ("1998-01-01", _W1602) for k in ("mp-1602-1997", "lei-9532-1997")
+                                 for u in ("art-44", "art-47")})
     B13.OPEN_ITEMS[_L9430] = (
         "Lei 9.430 (open items): art. 87's 'efeitos financeiros a partir de 1º de janeiro de 1997' are financial effects only "
         "(the in-force day, 30.12.1996, is kept); changes whose effects reach back before their in-force day keep that day "
@@ -995,6 +1001,29 @@ B8.SPAN_FIX += [
     ((_L9430, "art-09", "a)", "a) até R$ 15.000,00", 1), {"start": "2015-01-20", "start_law": "lei-13097-2015"},
      "Lei 9.430 art. 9 § 7º II a): Lei 13.097/2015's line (the conversion of Medida Provisória 656/2014's § 7º) is printed "
      "with no note of its own; it starts with Lei 13.097's other lines of § 7º (20.1.2015)"),
+]
+_W44 = ("Lei 9.430 art. 44 §§ 1º and 2º: Planalto prints the 1996 § 1º with its incisos I to V, and the 1997 alíneas a) to c) of § "
+        "2º, a second time below Medida Provisória 303/2006's wordings (MP in force 30.6.2006, lapsed 27.10.2006): that copy is "
+        "the text in force again from 28.10.2006 until Medida Provisória 351/2007 (22.1.2007); inciso V, revoked in 1998, is "
+        "the same line twice")
+_W18 = ("Lei 9.430 art. 18 II: Planalto prints its alíneas a) to d) (and d)'s items 1 and 2) a second time below Medida "
+        "Provisória 478/2009's wording of the article ('Vide Medida Provisória nº 563, de 2012'): that copy is the text in force "
+        "again from 2.6.2010, after the MP lapsed, until Lei 12.715/2012 (1.1.2013); the first copy ends with the MP")
+_R303 = {"start": "2006-10-28", "start_law": "mp-303-2006-fim", "restored": True}
+_R478b = {"start": "2010-06-02", "start_law": "mp-478-2009-fim", "restored": True}
+B8.SPAN_FIX += [
+    *[((_L9430, "art-44", lab, pre, 1), dict(_R303), _W44) for lab, pre in (
+        ("I -", "I - juntamente com o tributo"), ("II -", "II - isoladamente, quando o tributo"),
+        ("III -", "III - isoladamente, no caso de pessoa física"), ("IV -", "IV - isoladamente, no caso de pessoa jurídica"))],
+    ((_L9430, "art-44", "V -", "V - isoladamente, no caso de tributo", 1), {"skip": True, "end_how": "duplicate"}, _W44),
+    *[((_L9430, "art-44", lab, pre, 2), dict(_R303), _W44) for lab, pre in (
+        ("a)", "a) prestar esclarecimentos"), ("b)", "b) apresentar os arquivos"), ("c)", "c) apresentar a documentação técnica"))],
+    *[((_L9430, "art-18", "", pre, 1), {"end": "2009-12-29", "end_law": "mp-478-2009", "end_how": "parent"}, _W18)
+      for pre in ("1. sessenta por cento", "2. vinte por cento")],
+    *[((_L9430, "art-18", lab, pre, n), dict(_R478b), _W18) for lab, pre, n in (
+        ("a)", "a) dos descontos incondicionais", 1), ("b)", "b) dos impostos e contribuições incidentes", 1),
+        ("c)", "c) das comissões e corretagens", 1), ("d)", "d) da margem de lucro de:", 2),
+        ("", "1. sessenta por cento", 2), ("", "2. vinte por cento", 2))],
 ]
 # Lei 9.430 arts. 18 to 22: the headings above them (Seção V 'Preços de Transferência' and the article headings) are struck
 # with no note; they fall with the articles, revoked by Lei 14.596/2023 (the 'heads' rule would end each with the first

@@ -419,11 +419,6 @@ MOVES: dict[str, list] = {
          "2011, para os demais casos' (DOU 28.3.2011): its art. 2 (Lei 7.713 art. 6) falls under II, from 1.4.2011"),
     ],
     "99-batch17k.json": [
-        ("lei-9430-de-1996", "mp-1602-1997", "1997-11-17", [("units:art-44,art-47", "1998-01-01")],
-         "Medida Provisória 1.602/1997 art. 72: 'produzindo efeitos: I - a partir de 17 de novembro de 1997, em relação aos "
-         "arts. 9º, 29 a 34, 37 a 47, 59 a 63, 69 e 70; II - a partir de 1º de janeiro de 1998, em relação aos demais "
-         "dispositivos' (DOU 17.11.1997): its art. 65 (Lei 9.430 art. 44 § 2º and art. 47) from 1.1.1998; the revocation of "
-         "art. 39 (art. 73 I, 'a partir de 17 de novembro de 1997') keeps its day"),
         ("lei-9430-de-1996", "mp-2013-1999", "1999-12-30", [(ALL, "2000-01-01")],
          "Medida Provisória 2.013-4/1999: 'Esta Medida Provisória entra em vigor na data de sua publicação, produzindo efeitos "
          "a partir de 1º de janeiro de 2000' (DOU 30.12.1999): its change to Lei 9.430 art. 18 from 1.1.2000"),
