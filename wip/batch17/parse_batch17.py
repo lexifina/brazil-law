@@ -69,9 +69,23 @@ for M in (B7, B8, B9, B10, B11, B12, B13, B14, B15, B16):
     M.ACTS[:] = ACTS
 _PUB = "'Esta Lei entra em vigor na data de sua publicação'"
 _L = B._act_law
+_PUB2 = "'Esta Lei entrará em vigor na data de sua publicação'"
 ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
+    "lei-5889-1973": ("1973-06-11", f"Lei 5.889/1973 art. 21: {_PUB} (DOU 11.6.1973, rectified 30.10.1973)"),
+    "lei-4090-1962": ("1962-07-26", f"Lei 4.090/1962 art. 4: {_PUB2} (DOU 26.7.1962)"),
+    "lei-605-1949": ("1949-01-14", "Lei 605/1949 art. 15: 'A presente lei entrará em vigor na data de sua publicação' (DOU "
+                                   "14.1.1949)"),
+    "lei-7418-1985": ("1985-12-17", f"Lei 7.418/1985 art. 12 (art. 11 since Lei 7.619/1987): {_PUB} (DOU 17.12.1985)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
+    "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
+                        PAGES["l5889"]),
+    "lei-4090-1962": _L("Lei nº 4.090, de 1962", "Institui a Gratificação de Natal para os Trabalhadores.", "1962-07-13",
+                        "1962-07-26", PAGES["l4090"]),
+    "lei-605-1949": _L("Lei nº 605, de 1949", "Repouso semanal remunerado e o pagamento de salário nos dias feriados civis e "
+                       "religiosos.", "1949-01-05", "1949-01-14", PAGES["l0605"]),
+    "lei-7418-1985": _L("Lei nº 7.418, de 1985", "Institui o Vale-Transporte e dá outras providências.", "1985-12-16",
+                        "1985-12-17", PAGES["l7418"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
