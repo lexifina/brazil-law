@@ -122,3 +122,5 @@ Juventude, Lei Geral do Turismo, Estatuto da Pessoa com Deficiência: 10 acts, 1
 but deferred (reasons in batch9/PROGRESS.md).
 99-batch9 re-PUBLISHed ~06:10Z with Lei 8.666/1993 (repeal version 30.12.2023) and Lei da Ação Civil Pública: 5 acts,
 177 versions; merged 48 acts, 1335 versions, check 0/0. repo/jurisdiction.json updated to the 48 acts.
+99-batch9 re-PUBLISHed ~07:30Z with Código de Trânsito, Código Florestal and Registros Públicos: 8 acts, 338 versions;
+merged 51 acts, 1496 versions, check 0/0, --compare identical. jurisdiction.json updated (51 acts).

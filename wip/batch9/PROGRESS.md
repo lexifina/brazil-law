@@ -26,7 +26,28 @@ build 1226 commits, 48 acts, 1335 versions, check 0/0, --compare identical, audi
 - batch8 changes (99-batch8 regenerates byte-identical, sha d5b1da8c): LAW_FIELD_FIX hook; 'restored wording after an
   open one' problems on hand-pinned dispositivos are dropped.
 
+## 99-batch9 v3 - CTB, Código Florestal, Registros Públicos added, re-PUBLISHed 2026-10-31 ~07:30Z
+8 acts, 338 versions (CTB 69, CFlo 20, LRP 72); the 5 earlier acts byte-identical. Part sha a55c1987; merged scratch
+build 1352 commits, 51 acts, 1496 versions, check 0/0, --compare identical, audit clean. jurisdiction.json: 51 acts.
+- CTB: VIGENCIA_FIXED for 13.160/2015, 12.971/2014, 12.865/2013, 14.229/2021 (+ VIGENCIA_PROVISION per CTB article:
+  131/271/282/338-A on publication, 285/289/289-A 1.1.2024), 12.249/2010, 15.452/2026, 14.440/2022 (on publication; its
+  2027 change to art. 282-A caput/§ 5º is not printed, so not modelled; the bare '§ 5º' label line skipped). MP 75/2002
+  repinned (old pin was a bot page; IA capture 2003) + PUBLISHED_FIXED + rejection 19.12.2002 (Chamber record); lapses
+  646/2014, 882/2019, 1.360/2026 (adc-96, found via the CC index). LABEL_FIX art. 99 § 3º, art. 231 VI; SPAN_FIX art.
+  312-A IV. pin_force.py (batch9/.tmp) pins a page even when an older pin file has a bad pin.
+- Código Florestal: COURT_SPLIT (note-less mixed line, art. 3 VIII b)), stf-adc-42 dated 28.2.2018 (Informativo 892;
+  ata day not in records read), MP 867/2018 lapse 4.6.2019, NOTE_INTO_TEXT for art. 74 ('com a redação dada pela MP
+  2.216-37 ...' was read as a note).
+- Registros Públicos: ACT_DAY 1.1.1976 (Leis 6.064/1974, 6.216/1975); FOLD_EARLY drops the never-in-force as-enacted
+  version (first version = text as republished, with a version note); VIGENCIA_FIXED MP 1.085/2021, Lei 9.534/1997, Lei
+  6.140/1974; lapses MP 922/2020 (repinned: old pin was MP 992's page), MP 700/2015; MP_PENDING 2.220/2001, 2.187/2001;
+  SPAN_FIX art. 167 I 28/37 (MP 2.220 vs Lei 10.257) and art. 288-A § 2º; WORD_FIX art. 195-A § 7º from Lei 13.465's text.
+  Art. 110 prints '§ 1°' twice in the 1975/76 text (kept as printed).
+
 ## Configured but deferred (in ALL_ACTS, not VERIFIED)
+None left in batch 9.
+
+## Old notes (superseded)
 - Código de Trânsito (9.503, in force 22.1.1998): 145 problems: Leis 13.160/2015 and 14.229/2021 have no in-force day
   (staged clauses to read), ~20 'restored wording after an open one'. Next part.
 - Código Florestal (12.651): MP 867/2018 lapse day (Ato Declaratório to fetch), a struck-by-STF expression in art. 3

@@ -1234,13 +1234,13 @@
   },
   {
    "id": "law:mp-922-2020",
-   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Mpv/mpv992.htm",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Mpv/mpv922.htm",
    "cc": {
     "crawl": "CC-MAIN-2026-43",
-    "timestamp": "20261005174932",
-    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170053890.23/warc/CC-MAIN-20261005170247-20261005200247-00124.warc.gz",
-    "offset": "23308981",
-    "length": "10741"
+    "timestamp": "20261011032258",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054552.43/warc/CC-MAIN-20261011013937-20261011043937-00676.warc.gz",
+    "offset": "380559978",
+    "length": "11422"
    }
   },
   {
