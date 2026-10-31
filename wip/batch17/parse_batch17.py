@@ -1144,6 +1144,77 @@ if any(a["slug"] == _LMCMV for a in ACTS):
             "Lei 11.977: notes read 'Mediada Provisória nº 561, de 2012'; their links go to Medida Provisória 561/2012 "
             "(_Ato2011-2014/2012/Mpv/561.htm)")
 
+# Lei 11.977 Capítulo III (arts. 46 to 71-A, regularização fundiária) was revoked whole by Medida Provisória 759/2016 (art.
+# 75 VI, DOU 23.12.2016) and again by Lei 13.465/2017 (art. 109 IV), its conversion. Planalto adds both revocation notes to
+# every struck line of the chapter, also to wordings that Medidas Provisórias 514/2010 and Lei 12.424/2011 had already
+# replaced: those end with the next wording of the same dispositivo, not on 23.12.2016.
+_W_CH3 = ("Lei 11.977 Capítulo III (arts. 46 to 71-A): Medida Provisória 759/2016 (DOU 23.12.2016, art. 75 VI) and Lei "
+          "13.465/2017 (art. 109 IV) revoked the whole chapter; Planalto prints both revocation notes after every struck line "
+          "of the chapter, also after wordings that Medida Provisória 514/2010 (2.12.2010) or Lei 12.424/2011 (17.6.2011) had "
+          "already replaced: each of those ends with the next wording of the same dispositivo, and only the wordings in force "
+          "on 22.12.2016 end on 23.12.2016")
+CH3_REVOKERS = {"mp-759-2016", "lei-13465-2017"}
+CH3_USED: list[str] = []
+
+
+def ch3_successors(paras, act):
+    if act["slug"] != _LMCMV:
+        return
+    for i, p in enumerate(paras):
+        if p.get("pinned") or p["state"] == "plain" or p.get("end_how") != "note" or p.get("end_law") not in CH3_REVOKERS:
+            continue
+        j = P.successor(paras, i)
+        if j is not None and paras[j]["start"] < p["end"]:
+            q = paras[j]
+            p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "successor"
+            CH3_USED.append(f"{p['unit']} {p['label'] or '(line)'} {p['start']}")
+    # lines that fall with their parent follow the parent's corrected end
+    for i, p in enumerate(paras):
+        if p.get("pinned") or p.get("end_how") != "parent" or p["heading"]:
+            continue
+        lv = P.level(p["label"])
+        for q in reversed(paras[:i]):
+            if q["unit"] != p["unit"]:
+                break
+            if P.level(q["label"]) < lv and not q["heading"]:
+                if q["state"] != "plain" and q["end"] and p["start"] < q["end"] < p["end"]:
+                    p["end"], p["end_law"] = q["end"], q["end_law"]
+                    CH3_USED.append(f"{p['unit']} {p['label'] or '(line)'} {p['start']} (parent)")
+                break
+
+
+_W79 = ("Lei 11.977 art. 79: Medida Provisória 478/2009 (29.12.2009) rewrote the article; it lapsed on 1.6.2010 (Ato "
+        "Declaratório nº 18/2010) and the 2009 article (the new wording of Medida Provisória 2.197-43 art. 2) was in force "
+        "again from 2.6.2010 until Medida Provisória 514/2010 (2.12.2010). Planalto prints the 2009 article a second time "
+        "below the MP's lines (struck, no note): that copy starts on 2.6.2010; art. 11's parágrafo único likewise (MP 478 "
+        "had made it § 1º and added § 2º)")
+_R478m = {"start": "2010-06-02", "start_law": "mp-478-2009-fim", "restored": True}
+B8.SPAN_FIX += [
+    *[((_LMCMV, "art-79", lab, pre, n), dict(_R478m), _W79) for lab, pre, n in (
+        ("", '"Art. 2º Os agentes financeiros do SFH', 1), ("§ 1º", "§ 1º Para o cumprimento do disposto no caput", 2),
+        ("I -", "I - disponibilizar, na qualidade de estipulante e beneficiário, uma quantidade", 2),
+        ("II -", "II - aceitar apólices individuais", 2), ("§ 2º", "§ 2º Sem prejuízo da regulamentação", 2))],
+    ((_LMCMV, "art-11", "Parágrafo único", "Parágrafo único. A assistência técnica deve fazer parte", 1), dict(_R478m), _W79),
+    ((_LMCMV, "art-13", "I -", "I - facilitar a produção do imóvel residencial", 1),
+     {"start": "2010-06-14", "start_law": "lei-12249-2010", "end": "2010-12-02", "end_law": "mp-514-2010",
+      "end_how": "successor", "skip": False},
+     "Lei 11.977 art. 13 I: Lei 12.249/2010 (14.6.2010), the conversion of Medida Provisória 472/2009, kept the MP's wording "
+     "('facilitar a produção do imóvel residencial'); Planalto prints that line, noted 'Redação dada pela Lei nº 12.249, de "
+     "2010', after Medida Provisória 514/2010's line: it stands from 14.6.2010 until MP 514 (2.12.2010)"),
+    ((_LMCMV, "art-04", "II -", "II - (VETADO)", 0), {"skip": True, "end_how": "duplicate"},
+     "Lei 11.977 art. 4 § 1º II: '(VETADO)' is printed twice, struck with the 2009 § 1º and unstruck under the present § 1º; "
+     "the inciso was vetoed in 2009 and never had words: one line, from 8.7.2009"),
+    ((_LMCMV, "art-59", "III -", "III - (revogado)", 0), {"start": "2011-06-17", "start_law": "lei-12424-2011"},
+     "Lei 11.977 art. 59 § 1º III: the placeholder '(revogado)' (no note) stands for the revocation by Lei 12.424/2011 "
+     "(17.6.2011); it starts that day"),
+    ((_LMCMV, "art-63", "Art. 63", "Art. 63. (VETADO)", 0),
+     {"end": "2016-12-23", "end_law": "mp-759-2016", "end_how": "note", "skip": False}, _W_CH3),
+]
+B.EXPLAINED[_LMCMV] = {
+    "titulos": "the consolidated page still prints the heading 'CAPÍTULO III' of the chapter Medida Provisória 759/2016 and "
+               "Lei 13.465/2017 revoked; the annotated page strikes it with the chapter",
+}
+
 # Lei 9.430 arts. 18 to 22: the headings above them (Seção V 'Preços de Transferência' and the article headings) are struck
 # with no note; they fall with the articles, revoked by Lei 14.596/2023 (the 'heads' rule would end each with the first
 # change of the article under it)
@@ -1186,6 +1257,7 @@ def apply_rewrites(paras, act, eff, problems):
     veto_kept(paras, act)
     promulgated(paras, act)
     heads_14596(paras, act, eff)
+    ch3_successors(paras, act)
     return out
 
 
@@ -1256,6 +1328,8 @@ def _inner(*a):
         dec.append("Lei 13.465: Planalto's link '(Partes vetadas)' after the parts promulgated on 8.9.2017 is not text and is "
                    "left out; art. 4 quotes Lei 11.952 art. 16 ('Art. 16. As condições resolutivas [...]', §§ 1º to 3º) with no "
                    "opening quotation mark, and those lines are read as lines of art. 4, not as Lei 13.465's own art. 16.")
+    if CH3_USED:
+        dec.append(_W_CH3 + " (" + ", ".join(dict.fromkeys(CH3_USED)) + ").")
     if HEADS_USED:
         dec.append("Lei 9.430: the headings above arts. 18 to 22 (" + "; ".join(f"'{x}'" for x in dict.fromkeys(HEADS_USED))
                    + "), struck with no note, fall with the articles under them, revoked by Lei 14.596/2023 from 1.1.2024 "
