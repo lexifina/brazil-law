@@ -425,6 +425,21 @@ art-05). MP 922/2020 (110 notes) handled by the reader (shared lapse 30.6.2020, 
   as Lei 11.784 worded it), quotecheck 30 (quoted alínea letters). Part sha d4d41427 (pre-effects b889675d); merged 177 acts,
   3041 versions, 2296 commits, check 0/0, compare identical, audit clean. README row + jurisdiction.json (177 acts).
 
+## 99-batch17zb - PUBLISHed 2026-10-31 (ninth session)
+Lei 9.782/1999 (Anvisa), 12 versions 1999-01-27 .. 2019-09-24 (l9782 vs l9782compilado, 1 diff EXPLAINED titulos).
+- Editions: only 2.039-24 (art. 3 caput, stacked with 2.190-34: mp_chain starts it 22.12.2000) and 2.190-34 credit wordings;
+  the other editions are 'Vide' only, so no extra edition pins were needed. law:mp-2134r25-2001 (2.039-24's 'Reeditada pela'
+  next edition): NO archive.org capture (cdxpre lists 2134-26..31 only) -> P.MP_PENDING['mp-2039-2000'] fate text (scoped).
+- Hand (`_LANVISA`, scoped): MP_PENDING mp-2190-2001; MP_LAPSE mp-557-2011 1.6.2012 (ato:apn-26-2012-mpv557 pinned, read);
+  NOTE_FIX 'Lei nº 13.411, de 2017' (x2 forms) -> 2016 (law:lei-13411-2016 pinned to L13411.htm).
+- LEFT OUT: art. 8º-A (Lei 15.524/2026, 4 lines): no archive.org capture of l15524 (cdxlist 4 case variants, cdxpre of
+  2026/lei/l155: 15501-15526 except 15520/15524) -> paragraphs wrapper drops lines noted 'Lei nº 15.524' on l9782 and
+  l9782-compilado; decision + OPEN_ITEMS + README row. Re-check later: if L15524.htm gets archived, pin it, read its
+  vigência and add art. 8º-A.
+- effrep (zb-effrep.log): on publication except 12.090 (60 d), 13.411, 13.848 (90 d) by the reader. effects_fix 0 moves; all
+  checks 0. Part sha f8f86152; merged 178 acts, 3053 versions, 2303 commits, check 0/0, compare identical, audit clean.
+  README row + jurisdiction.json (178 acts). New tool .tmp/pinfo.py <law key>... (reader page_info).
+
 ## State at handoff (batch 17, eighth session, 2026-10-31)
 Parts 99-batch17a..y installed with .PUBLISH (49 acts); merged 175 acts, 2978 versions, 2271 commits, check 0/0, --compare
 identical, audit clean. All runs foreground through .tmp/run.py at BelowNormal, one at a time (PIDs in the logs; all exited;

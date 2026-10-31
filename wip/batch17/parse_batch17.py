@@ -119,6 +119,16 @@ PAGES.update({
     "l9782-compilado": "leis/l9782compilado.htm",
     "l8745": "leis/l8745cons.htm",
     "l8745-compilada": "leis/l8745compilada.htm",
+    # parts zc, zd
+    "l10101": "leis/l10101.htm",
+    "l10101-compilado": "leis/l10101compilado.htm",
+    "l9608": "leis/l9608.htm",
+    "l9608-compilado": "leis/l9608compilado.htm",
+    "l12506": "_ato2011-2014/2011/lei/l12506.htm",
+    "l9984": "leis/l9984.htm",
+    "l9984-compilado": "leis/l9984compilado.htm",
+    "l12334": "_ato2007-2010/2010/lei/l12334.htm",
+    "lcp105": "leis/lcp/lcp105.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -231,6 +241,18 @@ ALL_ACTS: list[dict] = [
          "Sistema Nacional de Vigilância Sanitária e Anvisa (Lei nº 9.782, de 26 de janeiro de 1999)", 2),
     _act("lei-da-contratacao-temporaria", "LCTemp", "l8745", "l8745-compilada", "lei-8745-1993",
          "Contratação por tempo determinado na Administração Pública Federal (Lei nº 8.745, de 9 de dezembro de 1993)", 2),
+    _act("lei-da-participacao-nos-lucros", "LPLR", "l10101", "l10101-compilado", "lei-10101-2000",
+         "Participação dos trabalhadores nos lucros ou resultados (Lei nº 10.101, de 19 de dezembro de 2000)", 2),
+    _act("lei-do-servico-voluntario", "LVol", "l9608", "l9608-compilado", "lei-9608-1998",
+         "Lei do Serviço Voluntário (Lei nº 9.608, de 18 de fevereiro de 1998)", 2),
+    _act("lei-do-aviso-previo", "LAPrev", "l12506", "l12506", "lei-12506-2011",
+         "Aviso prévio proporcional (Lei nº 12.506, de 11 de outubro de 2011)", 2),
+    _act("lei-da-ana", "LANA", "l9984", "l9984-compilado", "lei-9984-2000",
+         "Agência Nacional de Águas e Saneamento Básico - ANA (Lei nº 9.984, de 17 de julho de 2000)", 2),
+    _act("lei-de-seguranca-de-barragens", "LSB", "l12334", "l12334", "lei-12334-2010",
+         "Política Nacional de Segurança de Barragens (Lei nº 12.334, de 20 de setembro de 2010)", 2),
+    _act("lei-do-sigilo-bancario", "LC105", "lcp105", "lcp105", "lc-105-2001",
+         "Sigilo das operações de instituições financeiras (Lei Complementar nº 105, de 10 de janeiro de 2001)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -263,6 +285,9 @@ PARTS: dict[str, list[str]] = {
     "z": ["lei-da-aneel"],
     "za": ["lei-da-contratacao-temporaria"],
     "zb": ["lei-da-anvisa"],
+    "zc": ["lei-da-participacao-nos-lucros", "lei-do-servico-voluntario", "lei-do-aviso-previo"],
+    "zd": ["lei-da-ana", "lei-de-seguranca-de-barragens"],
+    "ze": ["lei-do-sigilo-bancario"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -350,6 +375,13 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-9427-1996": ("1996-12-27", f"Lei 9.427/1996 art. 35: {_PUB} (DOU 27.12.1996, republished 28.9.1998)"),
     "lei-9782-1999": ("1999-01-27", f"Lei 9.782/1999 art. 45: {_PUB} (DOU 27.1.1999)"),
     "lei-8745-1993": ("1993-12-10", f"Lei 8.745/1993 art. 17: {_PUB} (DOU 10.12.1993)"),
+    "lei-10101-2000": ("2000-12-20", f"Lei 10.101/2000 art. 8: {_PUB} (DOU 20.12.2000)"),
+    "lei-9608-1998": ("1998-02-19", f"Lei 9.608/1998 art. 4: {_PUB} (DOU 19.2.1998)"),
+    "lei-12506-2011": ("2011-10-13", f"Lei 12.506/2011 art. 2: {_PUB} (DOU 13.10.2011)"),
+    "lei-9984-2000": ("2000-07-18", f"Lei 9.984/2000 art. 33: {_PUB} (DOU 18.7.2000)"),
+    "lei-12334-2010": ("2010-09-21", f"Lei 12.334/2010 art. 23: {_PUB} (DOU 21.9.2010)"),
+    "lc-105-2001": ("2001-01-11", "Lei Complementar 105/2001 art. 12: 'Esta Lei Complementar entra em vigor na data de sua "
+                                  "publicação' (DOU 11.1.2001)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -520,6 +552,18 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-8745-1993": _L("Lei nº 8.745, de 1993", "Dispõe sobre a contratação por tempo determinado para atender a necessidade "
                         "temporária de excepcional interesse público, nos termos do inciso IX do art. 37 da Constituição Federal, "
                         "e dá outras providências.", "1993-12-09", "1993-12-10", PAGES["l8745"]),
+    "lei-10101-2000": _L("Lei nº 10.101, de 2000", "Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da "
+                         "empresa e dá outras providências.", "2000-12-19", "2000-12-20", PAGES["l10101"]),
+    "lei-9608-1998": _L("Lei nº 9.608, de 1998", "Dispõe sobre o serviço voluntário e dá outras providências.", "1998-02-18",
+                        "1998-02-19", PAGES["l9608"]),
+    "lei-12506-2011": _L("Lei nº 12.506, de 2011", "Dispõe sobre o aviso prévio e dá outras providências.", "2011-10-11",
+                         "2011-10-13", PAGES["l12506"]),
+    "lei-9984-2000": _L("Lei nº 9.984, de 2000", "Dispõe sobre a criação da Agência Nacional de Águas - ANA [...] e dá outras "
+                        "providências.", "2000-07-17", "2000-07-18", PAGES["l9984"]),
+    "lei-12334-2010": _L("Lei nº 12.334, de 2010", "Estabelece a Política Nacional de Segurança de Barragens [...].", "2010-09-20",
+                         "2010-09-21", PAGES["l12334"]),
+    "lc-105-2001": _L("Lei Complementar nº 105, de 2001", "Dispõe sobre o sigilo das operações de instituições financeiras e dá "
+                      "outras providências.", "2001-01-10", "2001-01-11", PAGES["lcp105"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -894,6 +938,12 @@ def paragraphs(html, digits):
                                                                                         "reembolsável"))]
         if len(out) != n0:
             LRDC_FIXED.append("x")
+    if page in ("l9782", "l9782-compilado"):
+        # Lei 9.782: the lines Lei 15.524/2026 added (no archived copy of the Lei, so its in-force day cannot be read): left out
+        n0 = len(out)
+        out = [p for p in out if not any(re.search(r"Lei\s+n[º°]\s*15\.524", n) for n in p["notes"])]
+        if len(out) != n0:
+            L9782_LEFT_OUT.append(f"{page}: {n0 - len(out)} lines")
     if page == "l9873":
         # Lei 9.873: the conversion law was promulgated by the President of the Senate; its closing line 'Congresso Nacional,
         # em 23 de novembro de 1999; [...]' is not a line of art. 8
@@ -967,6 +1017,7 @@ L9250_FIXED: list[str] = []
 L9430_FIXED: list[str] = []
 L13465_FIXED: list[str] = []
 L8745_FIXED: list[str] = []
+L9782_LEFT_OUT: list[str] = []
 EMPTY_ITEM_PAGES = {"l9250", "l7713"}
 MIXED_PLAIN: list[str] = []
 L9873_FIXED: list[str] = []
@@ -2059,6 +2110,10 @@ def _inner(*a):
         dec.append("Lei 9.430: the headings above arts. 18 to 22 (" + "; ".join(f"'{x}'" for x in dict.fromkeys(HEADS_USED))
                    + "), struck with no note, fall with the articles under them, revoked by Lei 14.596/2023 from 1.1.2024 "
                    "(its art. 46 VI), not with the first change of the article each heads.")
+    if L9782_LEFT_OUT:
+        dec.append("Lei 9.782: Lei 15.524/2026 added art. 8º-A (Planalto: 'Incluído pela Lei nº 15.524, de 2026'); no copy "
+                   "of that Lei could be read, so the day it took effect is not known: the article is LEFT OUT of every "
+                   "version (" + "; ".join(dict.fromkeys(L9782_LEFT_OUT)) + ").")
     if L8745_FIXED:
         dec.append("Lei 8.745 art. 2 VI d) and art. 4 caput: Planalto's pointers '(Prorrogação de prazo).' (to Medida Provisória "
                    "431/2008 art. 173, struck) and '(Prorrogação de prazo pela Lei nº 11.784, de 2008' (to Lei 11.784/2008 art. "
@@ -2167,6 +2222,44 @@ B13.OPEN_ITEMS[_LCTEMP] = (
     "2.229-43/2001 is dated by that edition (earlier editions of the chain are not modelled); 'Vide' pointers (Medidas "
     "Provisórias 86/2002, 319/2006, 341/2006 and 2.216-37/2001, Lei 11.204/2005, decrees) and the 'Prorrogação de prazo' "
     "pointers to Medida Provisória 431/2008 and Lei 11.784/2008 (art. 173) strike no words and are not modelled")
+
+# part zb: Lei 9.782/1999 (Anvisa). Hand days set only when the act runs.
+_LANVISA = "lei-da-anvisa"
+if any(a["slug"] == _LANVISA for a in ACTS):
+    P.MP_PENDING["mp-2190-2001"] = (
+        "Medida Provisória nº 2.190-34, de 23.8.2001 (DOU 24.8.2001, in force on publication), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2; it gave Lei 9.782 the wordings Planalto notes with this edition. Earlier editions of "
+        "the chain (1.814, 1.912, 2.000, 2.039, 2.134) are named only in 'Vide' notes, except 2.039-24 (art. 3 caput)")
+    P.MP_PENDING["mp-2039-2000"] = (
+        "Medida Provisória nº 2.039-24, de 21.12.2000: Planalto's page reads 'Revogada e Reeditada pela Medida Provisória nº "
+        "2.134-25'; its wording of Lei 9.782 art. 3 caput is on the pages of 2.039-24 and 2.190-34 (both named in the note) "
+        "and stayed in force through the reissues to 2.190-34, which Emenda Constitucional 32/2001 kept in force")
+    for _how in ("Incluído", "Redação dada"):
+        P.NOTE_FIX[f"({_how} pela Lei nº 13.411, de 2017)"] = (
+            f"({_how} pela Lei nº 13.411, de 2016)",
+            f"Lei 9.782: the notes read '{_how} pela Lei nº 13.411, de 2017'; the link goes to Lei 13.411 of 28.12.2016 (L13411.htm, DOU "
+            "29.12.2016, in force 90 days after publication)")
+    P.MP_LAPSE["mp-557-2011"] = (
+        "2012-06-01", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 26, de 2012 (DOU 14.6.2012): 'teve seu "
+                      "prazo de vigência encerrado no dia 31 de maio do corrente ano'; its changes to Lei 9.782 end on 1.6.2012")
+B.EXPLAINED[_LANVISA] = {"titulos": "the annotated page prints 'CAPÍTULO I' without the chapter's name ('DO SISTEMA NACIONAL "
+                                    "DE VIGILÂNCIA SANITÁRIA'), which the consolidated page has; the history follows the "
+                                    "annotated page"}
+B13.OPEN_ITEMS[_LANVISA] = (
+    "Lei 9.782 (open items): the text before 27.1.1999 (Medida Provisória 1.791/1998, of which this Lei is the conversion) is "
+    "not part of the history; the Anexos (tables of posts and of the Taxa de Fiscalização de Vigilância Sanitária) are not "
+    "part of the history; the editions of the Medida Provisória 1.814 / 1.912 / 2.000 / 2.039 / 2.134 / 2.190 chain that "
+    "Planalto names only in 'Vide' notes are not modelled; wordings noted with Medida Provisória 2.190-34/2001 are dated by "
+    "that edition. LEFT OUT: art. 8º-A, which Lei 15.524/2026 added (caput, parágrafo único and incisos I-II, noted "
+    "'Incluído pela Lei nº 15.524, de 2026'): no copy of the Lei could be read, so its in-force day is not known and they are in no version")
+
+# part zc: Leis 10.101/2000 (PLR), 9.608/1998 (serviço voluntário), 12.506/2011 (aviso prévio)
+_LVOL = "lei-do-servico-voluntario"
+if any(a["slug"] == _LVOL for a in ACTS):
+    P.VIGENCIA_PROVISION[("mp-411-2007", _LVOL, "art-03-a")] = (
+        "2008-01-01", "Medida Provisória 411/2007 (DOU 28.12.2007, in force on publication) art. 24: 'Ficam revogados, a partir "
+                      "de 1º de janeiro de 2008: I - o art. 3º-A da Lei nº 9.608, de 18 de fevereiro de 1998'; Lei 11.692/2008, its "
+                      "conversion, repeats the revocation (art. 24 I): art. 3º-A ends on 1.1.2008")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
