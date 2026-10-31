@@ -870,6 +870,17 @@
    }
   },
   {
+   "id": "law:lei-13901-2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13901.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261013124621",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054768.32/warc/CC-MAIN-20261013120305-20261013150305-00011.warc.gz",
+    "offset": "30341914",
+    "length": "11923"
+   }
+  },
+  {
    "id": "law:lei-13974-2020",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Lei/L13974.htm",
    "cc": {
