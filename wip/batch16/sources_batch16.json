@@ -199,6 +199,17 @@
    }
   },
   {
+   "id": "law:lei-13102-2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13102.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260908061128",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492699789.28/warc/CC-MAIN-20260908053654-20260908083654-00979.warc.gz",
+    "offset": "37762368",
+    "length": "4034"
+   }
+  },
+  {
    "id": "law:lei-13806-2019",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Lei/L13806.htm",
    "cc": {
@@ -207,6 +218,17 @@
     "filename": "crawl-data/CC-MAIN-2026-34/segments/1786091385415.17/warc/CC-MAIN-20260811072451-20260811102451-00448.warc.gz",
     "offset": "774896218",
     "length": "4357"
+   }
+  },
+  {
+   "id": "law:lei-14027-2020",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Lei/L14027.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261014075010",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170055063.80/warc/CC-MAIN-20261014063221-20261014093221-00406.warc.gz",
+    "offset": "17594593",
+    "length": "5644"
    }
   },
   {
@@ -320,6 +342,17 @@
    }
   },
   {
+   "id": "law:mp-658-2014",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/Mpv/mpv658.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261009203908",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054388.1/warc/CC-MAIN-20261009190400-20261009220400-00682.warc.gz",
+    "offset": "43330788",
+    "length": "3468"
+   }
+  },
+  {
    "id": "law:mp-665-2014",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2014/Mpv/mpv665.htm",
    "cc": {
@@ -328,6 +361,17 @@
     "filename": "crawl-data/CC-MAIN-2026-39/segments/1788493000724.71/warc/CC-MAIN-20260917025921-20260917055921-00270.warc.gz",
     "offset": "39295607",
     "length": "6971"
+   }
+  },
+  {
+   "id": "law:mp-684-2015",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Mpv/mpv684.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261007004030",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170054170.15/warc/CC-MAIN-20261006233730-20261007023730-00619.warc.gz",
+    "offset": "782529800",
+    "length": "4137"
    }
   }
  ]

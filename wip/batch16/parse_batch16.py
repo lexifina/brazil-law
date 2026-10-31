@@ -114,6 +114,13 @@ ACT_DAY_ALL = {**B13.ACT_DAY_ALL, **B14.ACT_DAY_ALL,
                                     "16.12.1971)"),
     "lei-8629-1993": ("1993-02-26", f"Lei 8.629/1993 art. 27: {_PUB} (DOU 26.2.1993)"),
     "lei-7998-1990": ("1990-01-12", f"Lei 7.998/1990 art. 31: {_PUB} (DOU 12.1.1990)"),
+    "lei-13019-2014": ("2016-01-23", "Lei 13.019/2014 art. 88 as worded by Lei 13.204/2015: 'Esta Lei entra em vigor após "
+                                     "decorridos quinhentos e quarenta dias de sua publicação oficial, observado o disposto "
+                                     "nos §§ 1º e 2º deste artigo' (DOU 1.8.2014; the 540th day counted from publication is "
+                                     "22.1.2016, LC 95/1998 art. 8 § 1); its § 1º: 'Para os Municípios, esta Lei entra em "
+                                     "vigor a partir de 1º de janeiro de 2017' (§ 2º: earlier by local act). The original "
+                                     "term (90 days) was extended by MP 658/2014 and Lei 13.102/2015 (360 days) and MP "
+                                     "684/2015 (540 days) before it ran out"),
 }
 ACT_LAWS_ALL = {**B13.ACT_LAWS_ALL, **B14.ACT_LAWS_ALL,
     "lei-9455-1997": _L("Lei nº 9.455, de 1997", "Define os crimes de tortura e dá outras providências.", "1997-04-07",
@@ -134,6 +141,13 @@ ACT_LAWS_ALL = {**B13.ACT_LAWS_ALL, **B14.ACT_LAWS_ALL,
                         "1993-02-26", PAGES["l8629"]),
     "lei-7998-1990": _L("Lei nº 7.998, de 1990", "Regula o Programa do Seguro-Desemprego, o Abono Salarial, institui o Fundo de "
                         "Amparo ao Trabalhador (FAT), e dá outras providências.", "1990-01-11", "1990-01-12", PAGES["l7998"]),
+    "lei-13019-2014": _L("Lei nº 13.019, de 2014", "Estabelece o regime jurídico das parcerias voluntárias, envolvendo ou não "
+                         "transferências de recursos financeiros, entre a administração pública e as organizações da "
+                         "sociedade civil, em regime de mútua cooperação, para a consecução de finalidades de interesse "
+                         "público; define diretrizes para a política de fomento e de colaboração com organizações da "
+                         "sociedade civil; institui o termo de colaboração e o termo de fomento; e altera as Leis nºs 8.429, "
+                         "de 2 de junho de 1992, e 9.790, de 23 de março de 1999.", "2014-07-31", "2014-08-01",
+                         PAGES["l13019"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -466,6 +480,30 @@ B8.SPAN_FIX += [
       for lab, pre in [("Art. 25", "Art. 25. O empregador que infringir"), ("§ 1º", "§ 1º Serão competentes para impor"),
                        ("§ 2º", "§ 2º Além das penalidades administrativas")]],
 ]
+_MROSC = "marco-regulatorio-das-oscs"
+_WPRE = ("Lei 13.019 (in force 23.1.2016): Medidas Provisórias 658/2014 and 684/2015 gave arts. 83 §§ 1º-2º and 88 wordings "
+         "that their conversion laws (Leis 13.102/2015 and 13.204/2015) replaced before the act took effect; they never "
+         "stood and are left out (the first day's two versions show the act as enacted and the text in force)")
+_WSAME = ("Lei 13.019 art. 35 i) and art. 42 XX: the wordings of 2014 (struck, no note) were replaced by Lei 13.204/2015 "
+          "before the act took effect; they belong to the act as enacted and end with the first day's second version, like "
+          "the act's other lines Lei 13.204 rewrote")
+B8.SPAN_FIX += [
+    *[((_MROSC, unit, lab, pre, 0), {"skip": True, "end_how": "never-in-force"}, _WPRE) for unit, lab, pre in [
+        ("art-88", "Art. 88", "Art. 88. Esta Lei entra em vigor após decorridos 360 (trezentos e sessenta) dias de sua "
+                              "publicação oficial."),
+        ("art-88", "Art. 88", "Art. 88. Esta Lei entra em vigor após decorridos 540 (quinhentos e quarenta)"),
+        ("art-83", "§ 1º", "§ 1º A exceção de que trata o caput não se aplica às prorrogações"),
+        ("art-83", "§ 2º", "§ 2º Para qualquer parceria referida no caput eventualmente firmada")]],
+    ((_MROSC, "art-35", "i)", "i) da aprovação do regulamento de compras", 0),
+     {"end": "2016-01-23", "end_law": "lei-13204-2015", "end_how": "same-day", "skip": False}, _WSAME),
+    ((_MROSC, "art-42", "XX -", "XX - a responsabilidade exclusiva da organização da sociedade civil pelo pagamento", 0),
+     {"end": "2016-01-23", "end_law": "lei-13204-2015", "end_how": "same-day", "skip": False}, _WSAME),
+]
+B13.OPEN_ITEMS[_MROSC] = (
+    "Lei 13.019 (open items): the history starts on 23.1.2016, the act's in-force day for the Union, States and Federal "
+    "District; for Municipalities its art. 88 § 1º sets 1.1.2017 (or earlier by local act, § 2º), which a single national "
+    "history does not separate; the text amended before 23.1.2016 (Medidas Provisórias 658/2014 and 684/2015, Leis "
+    "13.102/2015 and 13.204/2015) is the first day's second version")
 B.EXPLAINED[_LSD] = {
     "art-11": "the consolidated page leaves out inciso V ('V - outros recursos que lhe sejam destinados.'), which the "
               "annotated page prints, unstruck and without a note, as part of the 1990 text",
@@ -480,10 +518,10 @@ P.VIGENCIA_PROVISION[("mp-905-2019", _LSD, "art-04-b")] = (
     "2020-03-01", "Medida Provisória 905/2019 art. 53 II: 'no primeiro dia do quarto mês subsequente ao da publicação desta "
                   "Medida Provisória, quanto à inclusão do art. 4º-B na Lei nº 7.998, de 1990, promovida pelo art. 43' (DOU "
                   "12.11.2019): 1.3.2020")
-P.NOTE_FIX["(Redação dada pela Lei nº 10.261, de 2021)"] = (
+P.NOTE_FIX.update({} if _LSD not in ENABLED else {"(Redação dada pela Lei nº 10.261, de 2021)": (
     "(Redação dada pela Lei nº 14.261, de 2021)",
     "Lei 7.998: two notes read '(Redação dada pela Lei nº 10.261, de 2021)'; their link is Lei nº 14.261, de 16.12.2021 "
-    "(L14261.htm#art12), whose art. 12 amends Lei 7.998")
+    "(L14261.htm#art12), whose art. 12 amends Lei 7.998")})
 
 # ---------------------------------------------------------------------------------------------------------------
 # Lei 4.320/1964, part c: page fixes (paragraphs wrapper)

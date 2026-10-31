@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 16: 99-batch16a CBA, 16b FGTS, 16c Lei 4.320, 16d Tortura/Genocídio/MI/HD, 16e Índio/Cooperativas/Reforma Agrária PUBLISHed)
+CHECKPOINTED 2026-10-31 (batch 16: 99-batch16a CBA, 16b FGTS, 16c Lei 4.320, 16d Tortura/Genocídio/MI/HD, 16e Índio/Cooperativas/Reforma Agrária, 16f Seguro-Desemprego, 16g MROSC PUBLISHed)
 
 # gitlaw-BR progress (Brazil)
 
@@ -168,3 +168,5 @@ Batch 16 (2026-10-31): 99-batch16a PUBLISHed: Código Brasileiro de Aeronáutica
 99-batch16c PUBLISHed: Lei 4.320/1964 (6 versions; 'Artigo NN.' labels, veto-override notes, scheme lines, DL 1.939/1982 effect day 1.1.1983 via a new effects_fix MOVES entry); 99-batch16a re-PUBLISHed (decision text fix). Merged 117 acts, 2341 versions, 1914 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (117 acts).
 99-batch16d PUBLISHed: Lei de Tortura, Lei do Genocídio, Lei do Mandado de Injunção, Lei do Habeas Data (6 versions); merged 121 acts, 2347 versions, 1918 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (121 acts).
 99-batch16e PUBLISHed: Estatuto do Índio, Lei das Cooperativas, Lei da Reforma Agrária (22 versions); merged 124 acts, 2369 versions, 1930 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (124 acts).
+99-batch16f PUBLISHed: Lei do Seguro-Desemprego 7.998/1990 (20 versions; MP 905/955, MP 665/2014 staged, LC 155 effect day via effects_fix); merged 125 acts, 2389 versions, 1938 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (125 acts).
+99-batch16g PUBLISHed: MROSC Lei 13.019/2014 (5 versions; in force 23.1.2016, pre-in-force amendments as the first day's 'same_day' version). State at handoff (batch 16): 99-batch16a..g, 15 acts, 129 versions; merged 126 acts, 2394 versions, 1941 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (126 acts). No background processes left running. Details and next candidates: batch16/PROGRESS.md.

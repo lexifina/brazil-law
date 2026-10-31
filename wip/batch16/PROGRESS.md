@@ -15,7 +15,9 @@ parts after effects_fix), merged build `brazil-b16-src` / `-build` / `-c`.
 - parse_batch16.py imports batch15 (BATCH15_PART='-', which brings batch 14/13/... and the MP 905/955 model) and
   configures CBA (from batch14 ALL_ACTS), Lei 4.320 and FGTS (from batch13 ALL_ACTS, page ids re-added to PAGES).
 - Fetch/pin: `python batch16/.tmp/run.py <log> scripts/brazil-law/batch16/.tmp/gaps.py id=url ...` (pins into
-  batch16/sources_batch16.json, Common Crawl first). Pinned: ato:adc-112-2024-mpv1240.
+  batch16/sources_batch16.json, Common Crawl first). Pinned: ato:adc-112-2024-mpv1240, ato:adc-48-2026-mpv1336.
+  Act pages and cited laws: `fetch_batch16.py pages` (every PAGES entry), `BATCH16_ACTS=<slugs> fetch_batch16.py laws`,
+  then `... missing` (all through run.py).
 - Tools (.tmp/): spans.py <part> <units|undated>, udiff.py, lawtxt.py, region.py, cons.py, effrep.py, ordercheck.py,
   missorig.py, overlap.py <part> (SAME = identical copies with overlapping spans: a restored copy dated too early),
   convs.py <part> (lines ended by an MP conversion + the next wording), headyear.py (batch16 pins).
@@ -52,7 +54,7 @@ Lei do FGTS (Lei 8.036/1990), 51 versions 1990-05-14 .. 2026-08-07 (page l8036co
 - OPEN_ITEMS: MP editions before 2001, MP 1.107/Lei 14.438 effects tied to an event (in-force day kept), Anexo, Vide.
 - Part sha fc492539 (pre-effects ef51c20b); merged 116 acts, 2335 versions, 1909 commits, check 0/0, compare identical,
   audit clean. README row + jurisdiction.json (116 acts).
-- (Checked later: fresh parses of a and b reproduce them; sources are unchanged by the new pins.)
+- (See the reproducibility note at handoff: later pins change only sources[0].requests.)
 
 ## 99-batch16a re-PUBLISHed ~16:10 local
 Decision text fix only (MP 1.089's revocations are its art. 4 IV, not art. 5 IV); acts/laws byte-identical; sha 1c3e6818
@@ -89,6 +91,37 @@ audit clean. README rows + jurisdiction.json (124 acts).
 - New tool .tmp/latecaput.py <part>: unnoted lines dated from the act's first day printed after a later caput (noisy:
   mostly untouched children of a rewritten caput; read each). On a-c it found nothing new to fix.
 
-## Configured next (pages pinned 2026-10-31, laws not fetched yet)
-- part f: Lei do Seguro-Desemprego 7.998/1990 (l7998.htm vs l7998compilado.htm, 120 strikes; MP 905/955 likely), MROSC
-  13.019/2014 (its own vigência was amended before it took effect: 540 days, then §§ 1º-2º for municipalities; settle first).
+## 99-batch16f - PUBLISHed 2026-10-31 ~16:50 local
+Lei do Seguro-Desemprego 7.998/1990, 20 versions (l7998.htm vs l7998compilado.htm; 1 diff explained: compilado omits art. 11 V).
+- VIGENCIA_FIXED mp-665-2014 30.12.2014 + VIGENCIA_PROVISION arts. 3/4 28.2.2015 (60 days), SPAN_FIX art. 3 II revoked on
+  publication (MP 665 art. 4 II under art. 3 III); VIGENCIA_PROVISION mp-905-2019 art-04-b 1.3.2020 (MP 905 art. 53 II);
+  SPAN_FIX art. 25 (MP 905's two copies printed in reverse order; the 1990 article back while MP 955 stood and from
+  19.8.2020); NOTE_FIX 'Lei nº 10.261, de 2021' -> 14.261 (link L14261.htm#art12).
+- effects_fix MOVES "99-batch16f.json": LC 155/2016 art. 3 § 4º -> 1.1.2018 (art. 11 III). Lei 13.134 art. 4 financial
+  effects only: in-force day kept (open item).
+- Part sha 76f47cb1 (pre-effects a7a4a7e4); merged 125 acts, 2389 versions, 1938 commits, check 0/0, compare identical,
+  audit clean. README row + jurisdiction.json (125 acts).
+
+## 99-batch16g - PUBLISHed 2026-10-31 ~17:00 local
+MROSC Lei 13.019/2014, 5 versions (two on 23.1.2016: as enacted + 'same_day' text in force; then 2020, 2022 x2). In-force
+day 23.1.2016 (art. 88 as worded by Lei 13.204/2015; 540th day 22.1.2016). SPAN_FIX: MP 658/684 wordings of arts. 83 §§
+1º-2º and 88 replaced before the in-force day -> skip ('never-in-force'); arts. 35 i), 42 XX 2014 wordings end same-day.
+OPEN_ITEMS: municipalities 1.1.2017 not separated. 0 diffs, 0 problems, 0 effect moves. Part sha 08fc731c (re-PUBLISHed: first install 3b2abdc5 carried a stray 'Note corrected: Lei 7.998' decision from a global NOTE_FIX, now scoped to part f); merged 126
+acts, 2394 versions, 1941 commits, check 0/0, compare identical, audit clean. README row + jurisdiction.json (126 acts).
+
+## State at handoff (batch 16)
+Parts 99-batch16a..g installed with .PUBLISH (15 acts, 129 versions; merged 126 acts, 2394 versions, 1941 commits, check
+0/0, --compare identical, audit clean). README rows + jurisdiction.json (126 acts) current. effects_fix.py MOVES added for
+99-batch16c (DL 1.939/1982 -> 1.1.1983) and 99-batch16f (LC 155/2016 -> 1.1.2018). No background processes left running
+(every run was foreground through .tmp/run.py; PIDs are printed in the command output only, all exited).
+
+Reproducibility check at handoff: fresh parses of a-g give the installed parts' acts, laws and decisions; a-d differ only
+in sources[0].requests (the count covers the whole growing pin file batch16/sources_batch16.json; batch 13 precedent,
+left as published).
+
+## Next candidates (not configured)
+Major federal acts still missing (check corpus.d first): Lei 5.889/1973 (trabalho rural), Lei 4.090/1962 (13º salário),
+Lei 605/1949 (repouso semanal), Lei 7.418/1985 (vale-transporte), Lei 9.029/1995, Lei 6.634/1979 (faixa de fronteira),
+Lei 9.637/1998 (OS), Lei 9.790/1999 (OSCIP), Lei 8.987 done; tax laws Lei 7.713/1988 (IRPF), Lei 9.430/1996, Lei 9.249/1995
+(heavy MP chains); Lei 6.024/1974; Lei 4.728/1965; Lei 10.931/2004; Lei 11.977/2009; Lei 13.465/2017; Lei 9.609/1998
+(software); Lei 12.037/2009; Lei 6.404 done.
