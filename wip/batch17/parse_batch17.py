@@ -2084,6 +2084,32 @@ if any(a["slug"] == _LANEEL for a in ACTS):
         "2024-08-08", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 62, de 2024 (DOU 16.8.2024): 'teve seu "
                       "prazo de vigência encerrado no dia 7 de agosto de 2024'; the wordings it replaced or revoked are back from "
                       "8.8.2024")
+_W1300 = ("Lei 9.427 art. 3 XVII and art. 20 § 1º: Medida Provisória 1.300/2025 (DOU 21.5.2025, in force on publication for its "
+          "art. 2) gave both new wordings; Lei 15.235/2025, its conversion (DOU 9.10.2025, in force on publication), does not keep "
+          "the MP's art. 2 (it keeps only the revocation of art. 20 § 1º I and II, its art. 5 I), so the MP's wordings end on "
+          "9.10.2025 and the earlier wordings are in force again from that day until Lei 15.269/2025 (DOU 25.11.2025) rewrote "
+          "them: Planalto prints each earlier wording a second time, struck, between the MP's wording and Lei 15.269's")
+_E1300 = {"end": "2025-10-09", "end_law": "lei-15235-2025", "end_how": "conversion"}
+_R1300 = {"start": "2025-10-09", "start_law": "lei-15235-2025", "restored": True,
+          "end": "2025-11-25", "end_law": "lei-15269-2025", "end_how": "successor"}
+_W12 = ("Lei 9.427 art. 26 § 12: added by Lei 14.120/2021 (DOU 2.3.2021) but vetoed ('§ 12. (VETADO).'); Congress overrode "
+        "the veto and the paragraph was promulgated on 10.6.2021 (DOU 11.6.2021, printed on Lei 14.120's page). The '(VETADO)' "
+        "line stands from 2.3.2021 to 11.6.2021, the promulgated paragraph from 11.6.2021, credited to Lei 14.120")
+B8.SPAN_FIX += [
+    ((_LANEEL, "art-03", "XVII -", "XVII - estabelecer mecanismos de regulação e fiscalização para garantir o atendimento ao "
+      "mercado", 0), dict(_E1300), _W1300),
+    ((_LANEEL, "art-03", "XVII -", "XVII - estabelecer mecanismos de regulação e fiscalização para garantir o atendimento à "
+      "totalidade", 1), dict(_R1300), _W1300),
+    ((_LANEEL, "art-20", "§ 1º", "§ 1º A descentralização abrangerá os serviços e as instalações", 0), dict(_E1300), _W1300),
+    ((_LANEEL, "art-20", "§ 1º", "§ 1º A descentralização abrangerá os serviços e instalações", 1), dict(_R1300), _W1300),
+    ((_LANEEL, "art-26", "§ 12", "§ 12. (VETADO", 0),
+     {"end": "2021-06-11", "end_law": "lei-14120-2021", "end_how": "promulgation"}, _W12),
+    ((_LANEEL, "art-26", "§ 12", "§ 12. O agente titular", 0),
+     {"start": "2021-06-11", "start_law": "lei-14120-2021", "promulgated": True}, _W12),
+]
+B13.OPEN_ITEMS[_LANEEL] = (
+    "Lei 9.427 (open items): the republication of 28.9.1998 (Lei 9.648/1998 art. 22) is read as Planalto prints the Lei; 'Vide' "
+    "pointers and regulations strike no words and are not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
