@@ -382,7 +382,33 @@ REISSUED: dict[str, tuple] = {}      # edition key -> (next edition key, its DOU
 REISSUE_ENDS: list[str] = []
 
 
+def _pre32(k) -> bool:
+    return bool(k) and k.startswith("mp-") and cx_eff(k) <= EC32_DAY
+
+
+def cx_eff(k):
+    return "9999"
+
+
 def reissue_ends(paras: list[dict], cx, problems: list[str]) -> None:
+    global cx_eff
+    cx_eff = lambda k: cx.eff.get(k, "9999")  # noqa: E731
+    # paragraphs an edition numbered (§ 1º, § 2º ...) that a later edition of the chain replaced with a 'Parágrafo
+    # único' (printed after them in the same article): parse_proc pairs a parágrafo único with a later § 1º, not the
+    # reverse, so they end when that later edition's parágrafo único starts (Lei 9.717 art. 1: MP 2.043-20's §§ 1º-2º,
+    # MP 2.187-12's parágrafo único)
+    for i, p in enumerate(paras):
+        if p["state"] == "plain" or not p["label"].startswith("§") or not _pre32(p.get("start_law")) or p["heading"]:
+            continue
+        for q in paras[i + 1:]:
+            if q["unit"] != p["unit"] or q["heading"] or P.level(q["label"]) < P.level(p["label"]):
+                break
+            if (q["label"] == "Parágrafo único" and _pre32(q.get("start_law")) and q["start"] > p["start"]
+                    and (not p["end"] or q["start"] < p["end"])):
+                p["end"], p["end_law"], p["end_how"] = q["start"], q["start_law"], "reissue"
+                REISSUE_ENDS.append(f"{cx.act} {p['unit']} [{p['label']}] ({P.law_label(p['start_law'])} to {q['start']}, "
+                                    f"replaced by the parágrafo único of {P.law_label(q['start_law'])})")
+                break
     for p in paras:
         hit = REISSUED.get(p.get("start_law") or "")
         if p["state"] == "plain" or p["end"] or p["gaps"] or p.get("skip") or not hit:
