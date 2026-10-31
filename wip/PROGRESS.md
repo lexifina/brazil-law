@@ -148,4 +148,5 @@ Batch 12 update: Lei 9.656 added to 99-batch12 from 27.8.2001 (oldest version av
 Batch 13 (2026-10-31): small parts 99-batch13a, b, ... (2-4 acts each). 99-batch13a PUBLISHed: Lei das Contravenções
 Penais, Lei 1.079/1950, Lei 7.716/1989 (24 versions); merged 79 acts, 1805 versions, check 0/0, --compare identical.
 99-batch13b PUBLISHed: Lei de Greve, LC 150/2015, Lei 6.019/1974 (12 versions); merged 82 acts, 1817 versions, check 0/0.
+99-batch13c PUBLISHed: Lei 4.591/1964, Lei 9.514/1997, DL 911/1969 (39 versions); merged 85 acts, 1856 versions, check 0/0.
 Details: batch13/PROGRESS.md.

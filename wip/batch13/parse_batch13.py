@@ -46,6 +46,12 @@ PAGES = {
     "lsfi": "leis/l9514.htm",
     "dl911": "decreto-lei/1965-1988/del0911.htm",
     "dl911-compilado": "decreto-lei/1965-1988/del0911compilado.htm",
+    # 13d
+    "l4320": "leis/l4320.htm",
+    "l4320-compilado": "leis/l4320compilado.htm",
+    "lestatais": "_ato2015-2018/2016/lei/l13303.htm",
+    "lpp": "leis/l9096.htm",
+    "lpp-compilado": "leis/l9096compilado.htm",
 }
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -76,10 +82,17 @@ ALL_ACTS: list[dict] = [
          "Sistema de Financiamento Imobiliário e alienação fiduciária de imóvel (Lei nº 9.514, de 20 de novembro de 1997)", 2),
     _act("lei-da-alienacao-fiduciaria", "DL911", "dl911", "dl911-compilado", "dl-911-1969",
          "Alienação fiduciária em garantia (Decreto-Lei nº 911, de 1º de outubro de 1969)", 2),
+    _act("lei-4320-de-1964", "L4320", "l4320", "l4320-compilado", "lei-4320-1964",
+         "Normas gerais de direito financeiro (Lei nº 4.320, de 17 de março de 1964)", 3),
+    _act("lei-das-estatais", "LEst", "lestatais", "lestatais", "lei-13303-2016",
+         "Lei das Estatais (Lei nº 13.303, de 30 de junho de 2016)", 2),
+    _act("lei-dos-partidos-politicos", "LPP", "lpp", "lpp-compilado", "lei-9096-1995",
+         "Lei dos Partidos Políticos (Lei nº 9.096, de 19 de setembro de 1995)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-das-contravencoes-penais", "lei-dos-crimes-de-responsabilidade", "lei-do-crime-racial"],
     "b": ["lei-de-greve", "lei-do-trabalho-domestico", "lei-do-trabalho-temporario"],
+    "d": ["lei-4320-de-1964", "lei-das-estatais", "lei-dos-partidos-politicos"],
     "c": ["lei-de-condominios-e-incorporacoes", "lei-da-alienacao-fiduciaria-de-imoveis", "lei-da-alienacao-fiduciaria"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])

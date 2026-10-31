@@ -34,6 +34,28 @@
    }
   },
   {
+   "id": "l4320",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261016074626",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170346426.84/warc/CC-MAIN-20261016073418-20261016103418-00485.warc.gz",
+    "offset": "350754052",
+    "length": "27919"
+   }
+  },
+  {
+   "id": "l4320-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260914183645",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492991828.95/warc/CC-MAIN-20260914170406-20260914200406-00546.warc.gz",
+    "offset": "19110765",
+    "length": "25281"
+   }
+  },
+  {
    "id": "law:dl-4866-1942",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del4866.htm",
    "cc": {
@@ -441,6 +463,17 @@
    }
   },
   {
+   "id": "lestatais",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-43",
+    "timestamp": "20261015141035",
+    "filename": "crawl-data/CC-MAIN-2026-43/segments/1791170057113.89/warc/CC-MAIN-20261015130851-20261015160851-00508.warc.gz",
+    "offset": "24589499",
+    "length": "43112"
+   }
+  },
+  {
    "id": "lgreve",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.htm",
    "cc": {
@@ -449,6 +482,28 @@
     "filename": "crawl-data/CC-MAIN-2026-34/segments/1786091675778.67/warc/CC-MAIN-20260818011649-20260818041649-00930.warc.gz",
     "offset": "783806176",
     "length": "6709"
+   }
+  },
+  {
+   "id": "lpp",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260914143959",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492701162.69/warc/CC-MAIN-20260914140128-20260914170128-00941.warc.gz",
+    "offset": "17966316",
+    "length": "38050"
+   }
+  },
+  {
+   "id": "lpp-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260915025417",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492992222.68/warc/CC-MAIN-20260915021126-20260915051126-00365.warc.gz",
+    "offset": "758072316",
+    "length": "29428"
    }
   },
   {

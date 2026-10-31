@@ -29,3 +29,12 @@ Lei de Greve 7.783/1989 (7 versions, 1989-2020), LC 150/2015 domésticos (2, to 
 2017). Hand: MP_LAPSE mp-883-2019 (19.9.2019, Ato Declaratório 58/2019 pinned ato:adc-58-2019-mpv883); SPAN_FIX LG art. 10 X
 (1989 / MP 866 / MP 883 gap / Lei 13.903). Dup flags only LC 150 art. 37 quoted §§. Part sha 773c98e0; merged 82 acts,
 1817 versions, 1587 commits, check 0/0, compare identical, audit clean.
+
+## 99-batch13c - PUBLISHed 2026-10-31
+Lei 4.591/1964 (16 versions), Lei 9.514/1997 (17), DL 911/1969 (6; page decreto-lei/1965-1988/del0911.htm). Hand:
+MP_PENDING mp-2221-2001 (revoked by Lei 10.931); VIGENCIA_FIXED mp-656-2014 = 8.10.2014 (FIXED_DAY fallback had taken
+1.1.2015 from art. 55 I); SPAN_FIX DL 911 art. 5 p.u. ends 4.7.1974; EXPLAINED LCI art-33, DL911 preambulo/titulos.
+VIG_AUDIT run on parts a, b, c: no fallback uses. Part sha bec3bdce; merged 85 acts, 1856 versions, 1600 commits, check
+0/0, compare identical, audit clean.
+Note: a fresh parse of 13a/13b now differs from the installed parts only in sources[0].requests (the count covers the
+whole growing pin file sources_batch13.json); left as published, as batch 10 did for 97/99-batch6.
