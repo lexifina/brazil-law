@@ -1,0 +1,128 @@
+{
+ "50-codes": {
+  "sources": [
+   {
+    "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei 10.406/2002 and Lei 13.709/2018 and of every law their notes cite, read as Internet Archive raw captures",
+    "url": "https://www.planalto.gov.br/ccivil_03/",
+    "retrieved": "2026-10-28",
+    "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
+    "notes": "Every page is a dated Internet Archive capture, byte-identical to what Planalto (www.planalto.gov.br) served."
+   }
+  ],
+  "ai_use": [
+   "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP lapse days) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time."
+  ]
+ },
+ "60-phase2": {
+  "sources": [
+   {
+    "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of the Phase 2 acts and of every law their notes cite, read as Internet Archive raw captures",
+    "url": "https://www.planalto.gov.br/ccivil_03/",
+    "retrieved": "2026-10-28",
+    "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
+    "notes": "Every page is a dated Internet Archive capture, byte-identical to what Planalto (www.planalto.gov.br) served."
+   }
+  ],
+  "ai_use": [
+   "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP lapse days) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time."
+  ]
+ },
+ "70-clt": {
+  "sources": [
+   {
+    "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of the CLT and of every law its notes cite, read as Internet Archive raw captures",
+    "url": "https://www.planalto.gov.br/ccivil_03/",
+    "retrieved": "2026-10-28",
+    "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
+    "notes": "Every page is a dated Internet Archive capture, byte-identical to what Planalto (www.planalto.gov.br) served."
+   },
+   {
+    "name": "Supremo Tribunal Federal, case pages (andamentos) of ADI 1.770, 5.938 and 5.766",
+    "url": "https://portal.stf.jus.br/processos/",
+    "retrieved": "2026-10-28",
+    "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
+    "notes": "Read for the judgment dates and the publication of the judgment records (the case search and each case's Andamentos tab)."
+   }
+  ],
+  "ai_use": [
+   "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (staged vigência days, MP fates, STF rulings) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time."
+  ]
+ },
+ "80-proc": {
+  "sources": [
+   {
+    "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of the CPP and the CDC and of every law their notes cite, read as Internet Archive raw captures",
+    "url": "https://www.planalto.gov.br/ccivil_03/",
+    "retrieved": "2026-10-28",
+    "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
+    "notes": "Every page is a dated Internet Archive capture, byte-identical to what Planalto (www.planalto.gov.br) served."
+   },
+   {
+    "name": "LexML Brasil (Senado Federal): record of each cited law, for its 'Publicação Original' DOU day",
+    "url": "https://www.lexml.gov.br/",
+    "retrieved": "2026-10-28",
+    "licence": "Public federal portal; bibliographic data of official acts",
+    "notes": "One URN page per law (urn:lex:br:federal:<kind>:<date>;<number>), used only to check the DOU day printed on the Planalto page."
+   },
+   {
+    "name": "Supremo Tribunal Federal: case pages of ADI 2.797 (decisions and progress)",
+    "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=2082833",
+    "retrieved": "2026-10-28",
+    "licence": "Public court records",
+    "notes": "Judgment day and the day the judgment record was published in the DJ (abaAndamentos)."
+   }
+  ],
+  "ai_use": [
+   "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP lapse days) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time."
+  ]
+ },
+ "90-batch3": {
+  "sources": [
+   {
+    "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of the CTN, ECA, CE and of every law their notes cite, read as Internet Archive raw captures",
+    "url": "https://www.planalto.gov.br/ccivil_03/",
+    "retrieved": "2026-10-28",
+    "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
+    "notes": "Terms checked 2026-10-28: the gov.br Termo de Uso (capture 20261015002456 of https://www.gov.br/pt-br/termos-de-uso) states the portal's own content is CC BY-ND 3.0; the legal texts are official acts, outside copyright (Lei 9.610/1998 art. 8, IV). Every page is a dated Internet Archive capture, byte-identical to what Planalto served."
+   },
+   {
+    "name": "LexML Brasil (Senado Federal): record of each cited law, for its 'Publicação Original' DOU day",
+    "url": "https://www.lexml.gov.br/",
+    "retrieved": "2026-10-28",
+    "licence": "Public federal portal; bibliographic data of official acts",
+    "notes": "One URN page per law (urn:lex:br:federal:<kind>:<date>;<number>); used only to check the DOU day printed on the Planalto page."
+   },
+   {
+    "name": "Supremo Tribunal Federal: case pages of ADI 869, ADI 2.404",
+    "url": "https://portal.stf.jus.br/",
+    "retrieved": "2026-10-28",
+    "licence": "Public court records",
+    "notes": "Judgment day and the day the judgment record was published in the DJ (abaAndamentos)."
+   }
+  ],
+  "ai_use": [
+   "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP fates, court rulings) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time."
+  ]
+ },
+ "95-rju": {
+  "sources": [
+   {
+    "name": "Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei 8.112/1990 (RJU), of every law its notes cite and of the Atos Declaratórios of the President of Congress for its lapsed Medidas Provisórias, read as Internet Archive raw captures",
+    "url": "https://www.planalto.gov.br/ccivil_03/",
+    "retrieved": "2026-10-28",
+    "licence": "Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV)",
+    "notes": "Terms checked 2026-10-28: the gov.br Termo de Uso (capture 20261015002456 of https://www.gov.br/pt-br/termos-de-uso) states the portal's own content is CC BY-ND 3.0; the legal texts are official acts, outside copyright (Lei 9.610/1998 art. 8, IV). Every page is a dated Internet Archive capture, byte-identical to what Planalto served."
+   },
+   {
+    "name": "LexML Brasil (Senado Federal): record of each cited law, for its 'Publicação Original' DOU day",
+    "url": "https://www.lexml.gov.br/",
+    "retrieved": "2026-10-28",
+    "licence": "Public federal portal; bibliographic data of official acts",
+    "notes": "One URN page per law (urn:lex:br:federal:<kind>:<date>;<number>); used only to check the DOU day printed on the Planalto page."
+   }
+  ],
+  "ai_use": [
+   "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (MP lapse days, staged vigência days, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time."
+  ]
+ }
+}
