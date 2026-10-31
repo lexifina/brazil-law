@@ -303,7 +303,18 @@ P.COURTS = {
         "url": "https://www.stf.jus.br/arquivo/informativo/documento/informativo892.htm",
         "from": "2018-02-28", "case": r"ADC\s*N?º?\s*42", "where": [], "why": _WADC42},
 }
+_LRP = "lei-de-registros-publicos"
+_W2220 = ("Lei de Registros Públicos art. 167 I items 28 and 37: Lei 10.257/2001 (enacted 10.7.2001, in force 9.10.2001) "
+          "arts. 55 and 56 gave item 28 and added item 37 with the words 'independente da regularidade do parcelamento do "
+          "solo ou da edificação'; Medida Provisória nº 2.220/2001 (DOU 5.9.2001, edição extra, in force on publication; "
+          "kept in force by Emenda Constitucional 32/2001 art. 2), the later act, gave both items their wording without "
+          "those words, which Planalto prints as today's. Lei 10.257's wordings never stood and are left out")
 B8.SPAN_FIX += [
+    ((_LRP, "art-167", "28)", "28) das sentenças declaratórias de usucapião;", 0),
+     {"end": "2001-09-05", "end_law": "mp-2220-2001", "end_how": "successor"}, _W2220),
+    ((_LRP, "art-167", "28)", "28) das sentenças declaratórias de usucapião, independente", 0), {"skip": True}, _W2220),
+    ((_LRP, "art-167", "37)", "37) dos termos administrativos ou das sentenças declaratórias da concessão de uso especial "
+                              "para fins de moradia, independente", 0), {"skip": True}, _W2220),
     ((_CF, "art-03", "b)", "b) as obras de infraestrutura destinadas às concessões", 0),
      {"end": "2018-02-28", "end_law": "stf-adc-42", "end_how": "court"}, _WADC42),
     ((_CF, "art-03", "b)", "b) as obras de infraestrutura destinadas às concessões", 1),
