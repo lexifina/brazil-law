@@ -158,3 +158,4 @@ Details: batch13/PROGRESS.md.
 Batch 14 (2026-10-31): small parts 99-batch14a, b, ... 99-batch14a PUBLISHed: Lei Kandir (LC 87/1996) and LC 116/2003 (ISS), both repealed 1.1.2033 by LC 214/2025 on futuro (25 versions); merged 103 acts, 1974 versions, check 0/0, compare identical. Details: batch14/PROGRESS.md.
 99-batch14b PUBLISHed: Lei 9.433/1997, DL 201/1967, LGT 9.472/1997, Lei 1.521/1951 (35 versions); merged 107 acts, 2009 versions, check 0/0.
 99-batch14c PUBLISHed: SNUC, Lei da Liberdade Econômica, Estatuto da Igualdade Racial (15 versions); merged 110 acts, 2024 versions, check 0/0.
+99-batch14d PUBLISHed: Estatuto da Terra (12 versions, DL 2.431/1988 and its 1989 rejection modelled); merged 111 acts, 2036 versions, check 0/0.

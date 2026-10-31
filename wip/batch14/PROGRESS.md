@@ -44,7 +44,30 @@ versions. Hand: law:lei-11516-2007 pinned; NOTE_FIX 'Lei nº 11.516, 2007'; EXPL
 article printed above it (LLE art. 7 'Art. 1.368-F'). Part sha f758bf63; merged 110 acts, 2024 versions, 1712 commits,
 check 0/0, compare identical, audit clean.
 
+## 99-batch14d - PUBLISHed 2026-10-31
+Estatuto da Terra 4.504/1964 (12 versions). Hand: VIGENCIA_FIXED dl-2431-1988 (14.5.1988); rejection law record
+adc-1989-dl2431 (via P.COURTS, kind law, 14.6.1989) + SPAN_FIX arts. 27/28 (FUNMIRAD wordings end, restored 1964 copies
+start then); MP_PENDING mp-2183-2001; LexML day lei-6746-1979; 8 consolidated-page diffs EXPLAINED. Part sha 2c75cb00;
+merged 111 acts, 2036 versions, 1725 commits, check 0/0, compare identical, audit clean.
+
 ## Next
 Configured in ALL_ACTS (pages pinned): Lei 8.212/1991 (l8212cons.htm vs compilado), Lei 8.213/1991 (l8213cons.htm vs
 compilado), LC 123/2006 (watch LC 214 art. 543 V: partial 2033 repeals), Estatuto da Terra, LGT 9.472, Lei 9.433, SNUC,
 Lei 13.874, CBA, Lei 12.288, Lei 1.521, DL 201/1967.
+
+## Findings for the heavy acts (not built yet)
+- LC 123/2006: Planalto's page is the 2012 republication (LC 139/2011 art. 5; DOU 31.1.2012 and again 6.3.2012); its notes
+  start with LC 147/2014, so 2006-2011 cannot be rebuilt -> plan: 'oldest version available' from the republication
+  (batch 12's Lei 9.656 pattern). Also: lc-188-2021 day 31.12.2021 (heading lacks 'DE'); art. 18 ('§ 1º A.' label) and
+  art. 18-A § 1º (letter-spaced struck text) problems; LC 214 art. 543 V partial 2033 repeals (about 20 dispositivos) to
+  set as SPAN_FIX ends on futuro; annexes I-V (tax tables) not included.
+- Lei 8.212/1991: 91 versions, 670 struck lines, 47 problems. Staged amenders read (batch14/.tmp/clause.py, whichart.py):
+  Lei 13.756 art. 36 -> 13.12.2018; Lei 11.457 arts. 2/17/32 -> clause II (first business day of the 2nd month after
+  19.3.2007: 2.5.2007); MP 258/2005 arts. 3/27/39 -> 15.8.2005, MP lapsed (date to source); Lei 14.784 arts. 2/4 ->
+  28.12.2023; Lei 13.670 arts. 3/5 -> 30.5.2018; Lei 11.098/2005 art. 4 (art. 39 caput) depends on the act of its art. 8
+  I (open); MP 905/2019 arts. 9/49 -> 12.11.2019, then MP 955 revocation / lapse. MP fates open: 927/2020, 841/2018,
+  793/2017, 252/2005, 2216/2001, 2170/2001, 1202/2023 (lei-14873-2024 page to pin), 1110/2022. 12 consolidated diffs.
+- Lei 8.213/1991: 78 versions, 106 problems: Lei 13.135/2015 and MP 664/2014 staged clauses, MP 905, Lei 13.876 art. 3
+  (1.1.2020), MP 1.355/2026, 'MPv nº 404' and 'Lei nº 11,718' note typos, law:lei-10877-2004 pin points at L10.887
+  (repin), 77 undated struck lines.
+- CBA 7.565/1986: 264 problems (not analysed).

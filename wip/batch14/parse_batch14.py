@@ -100,6 +100,7 @@ PARTS: dict[str, list[str]] = {
           "lei-dos-crimes-contra-a-economia-popular"],
     "c": ["lei-do-snuc", "lei-da-liberdade-economica", "estatuto-da-igualdade-racial"],
     "d": ["estatuto-da-terra"],
+    "e": ["estatuto-da-microempresa"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH14_ACTS", "").split(",") if s] or VERIFIED
@@ -381,6 +382,37 @@ B.EXPLAINED[_ET] = {
     "art-126": "the consolidated page prints 'Lei n.' for 'Lei nº', 'artigo 80' for 'artigo 8º' and '19 de junho de 1964' "
                "for Lei 2.237's date (19 de junho de 1954)",
 }
+# 14e: LC 123/2006. Planalto's page is the act as republished under LC 139/2011 art. 5 (DOU 31.1.2012, republished again
+# 6.3.2012); it notes only the laws from LC 147/2014 on, so the text in force from 2006 to 2012 cannot be rebuilt from it
+P.VIGENCIA_FIXED["lc-188-2021"] = (
+    "2021-12-31", "art. 3: 'Esta Lei Complementar entra em vigor na data de sua publicação' (DOU 31.12.2021, edição extra; "
+                  "the page's heading 'Nº 188, 31 DE DEZEMBRO DE 2021' lacks 'DE', so the day is set here)")
+_ME = "estatuto-da-microempresa"
+ME_START = "2012-03-06"
+ME_WHY = ("Estatuto da Microempresa (Lei Complementar 123/2006): Planalto's page is the act as republished under Lei "
+          "Complementar 139/2011 art. 5 (DOU 31.1.2012, republished again 6.3.2012), with the changes of Leis Complementares "
+          "127/2007, 128/2008, 133/2009 and 139/2011 written in without notes; its amendment notes start with Lei "
+          "Complementar 147/2014. The text in force from 15.12.2006 to 2012 cannot be rebuilt from it, so the history starts "
+          "on 6.3.2012 with the oldest version available (the republished text), credited to the publisher; the 2006 text "
+          "and the 2007-2011 changes are not modelled")
+_build_act14 = P.build_act
+
+
+def build_act(paras, act_day, *a, **k):
+    slug = ACTS[len(B7._act_order)]["slug"] if len(B7._act_order) < len(ACTS) else "?"
+    versions = _build_act14(paras, act_day, *a, **k)
+    if slug == _ME:
+        first = [v for v in versions if v["from"] <= ME_START][-1]
+        versions = [dict(first, **{"from": ME_START})] + [v for v in versions if v["from"] > ME_START]
+        versions[0]["credits"] = {}
+        versions[0].pop("same_day", None)
+        versions[0]["note"] = ("Oldest version available: the act as republished in the DOU of 31.1.2012 and 6.3.2012 "
+                               "(Lei Complementar 139/2011, art. 5); the 2006 text and the changes of 2007-2011 are not "
+                               "modelled.")
+    return versions
+
+
+P.build_act = B.build_act = build_act
 OPEN_ITEMS = B13.OPEN_ITEMS
 OPEN_ITEMS.update({
     "lei-do-iss": (
@@ -401,10 +433,27 @@ def _inner(*a):
             "A line that closes a quoted amendment with single quotation marks (\"'Art. 1.368-F. [...] Capítulo.'\"\"), "
             "which the marginal-heading rule would move into the next article, is kept in the article that quotes it: "
             + "; ".join(dict.fromkeys(SQUOTE_KEPT)) + ".")
+    keep = {}
+    for act in a[0]:
+        if act["slug"] == _ME:
+            keep = {k: a[1][k] for k in ("lc-123-2006",) if k in a[1]}
+            B5.EXTRA_DECISIONS.append(ME_WHY + ".")
     B9.REPEAL_CHECK[:] = [x.replace("the unstruck text of the pre-repeal capture of Planalto's page",
                                     "the unstruck text of Planalto's page (the repeal is in the future)")
                           for x in B9.REPEAL_CHECK]
-    return _inner14(*a)
+    rc = _inner14(*a)
+    if any(act["slug"] == _ME for act in a[0]):
+        import json as _json
+        part = _json.loads(B5.OUT.read_text(encoding="utf-8"))
+        part["laws"].setdefault("lc-123-2006", keep.get("lc-123-2006") or B.ACT_LAWS["lc-123-2006"])
+        for act in part["acts"]:
+            if act["slug"] == _ME:
+                act["first_law"], act["earlier_laws"] = None, ["lc-123-2006"]
+        tmp = B5.OUT.with_suffix(".json.tmp")
+        tmp.write_text(_json.dumps(part, ensure_ascii=False, indent=None, separators=(",", ":")) + "\n", encoding="utf-8",
+                       newline="\n")
+        tmp.replace(B5.OUT)
+    return rc
 
 
 B6.PB5B._write_part5 = _inner
