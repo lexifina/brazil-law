@@ -1446,6 +1446,14 @@ B8.SPAN_FIX += [
      "Lei 10.522 art. 13-A: Planalto prints a struck line holding only 'Art. 13-A -' and the note '(Vide Medida Provisória nº "
      "249, de 2005)'; it is a pointer, not a wording, and is left out (art. 13-A starts with Lei 11.345/2006, 15.9.2006)"),
 ]
+_W11 = ("Lei 10.522 art. 11 §§ 1º to 3º: Medida Provisória 449/2008 (4.12.2008) rewrote art. 11 (a caput with incisos I and "
+        "II, new §§ 1º to 3º, §§ 4º to 9º revoked); Lei 11.941/2009, its conversion (28.5.2009), gave a new wording only to the "
+        "caput and kept the revocations, so MP 449's incisos and §§ 1º to 3º end on 28.5.2009 and the 2002 §§ 1º to 3º are "
+        "in force again from that day: Planalto prints them a second time, unstruck and without notes, below Lei 11.941's "
+        "caput (they had been read as in force from 2002 next to their struck copies)")
+_R11 = {"start": "2009-05-28", "start_law": "lei-11941-2009", "restored": True}
+B8.SPAN_FIX += [((_LCADIN, "art-11", lab, pre, 1), dict(_R11), _W11) for lab, pre in (
+    ("§ 1º", "§ 1º Observados os limites"), ("§ 2º", "§ 2º Enquanto não deferido"), ("§ 3º", "§ 3º O não-cumprimento"))]
 B13.OPEN_ITEMS[_LCADIN] = (
     "Lei 10.522 (open items): the text before 22.7.2002 (Medida Provisória 2.176-79/2001 and its earlier editions, of which "
     "this Lei is the conversion) is not part of the history; the STF's judgment in ADIs 5.881, 5.886, 5.890, 5.925, 5.931 and "
