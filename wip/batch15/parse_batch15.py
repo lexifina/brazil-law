@@ -772,7 +772,8 @@ B.EXPLAINED[_BN] = {
                "nº 89, de 2026), and lacks Lei 15.327/2026's change to inciso V; the annotated page has both",
     "art-124-g": "the consolidated page is out of date: it lacks art. 124-G (Lei 15.327/2026, DOU 7.1.2026), which the "
                  "annotated page prints",
-    "art-011": "the consolidated page (out of date) prints only one inciso VI of § 8º; see the decision on Lei 15.072/2024",
+    "art-096": "the consolidated page is out of date: it still prints the parágrafo único (Lei 13.846/2019), which Lei "
+               "15.363/2026 (27.3.2026) made § 1º when it added § 2º; the annotated page prints §§ 1º and 2º",
 }
 _anachronisms15 = P.anachronisms
 
