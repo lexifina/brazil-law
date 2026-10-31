@@ -368,6 +368,7 @@ TEXT_FIX: list[tuple[str, str, str, str]] = [
 TEXT_FIX_USED: list[str] = []
 LETTER_ARTS: list[str] = []
 CENTERED: dict[str, int] = {}
+TABLES: dict[str, int] = {}
 FOOTNOTES_DROPPED: dict[str, int] = {}
 NOTE_DOT: dict[str, int] = {}
 _paragraphs15 = P.paragraphs
@@ -403,6 +404,21 @@ def paragraphs(html, digits):
             return q.group(0)
         return re.sub(r"<p(?=[\s>])(?![^>]*\balign=)[^>]*>.*?</p>", caps, m.group(0), flags=re.S | re.I)
     html = re.sub(r"<center\b.*?</center>", _centre, html, flags=re.S | re.I)
+    # tables inside the act (Lei 8.212 arts. 20, 29, 32; Lei 8.213 arts. 77, 142): Planalto centres their cells, which the
+    # shared reader takes for heading lines (filed under 'titulos'); their cells are lines of the article they are
+    # printed in, one cell per line (as in the CLT's art. 580)
+    body = re.search(r"Art\.\s*1[º°o]", html)
+    if body:
+        head, rest_html = html[:body.start()], html[body.start():]
+
+        def _tab(m):
+            if re.search(r"TÍTULO|CAPÍTULO|Seção|Brasília", re.sub(r"<[^>]+>", " ", m.group(0))):
+                return m.group(0)
+            TABLES[page] = TABLES.get(page, 0) + 1
+            t = re.sub(r"(<(?:p|td|div|font|span)\b[^>]*?)\s+align=\"?center\"?", r"\1", m.group(0), flags=re.I)
+            t = re.sub(r"</?center\b[^>]*>", " ", t, flags=re.I)
+            return re.sub(r"(<(?:p|td|div)\b[^>]*?)\bstyle=\"[^\"]*text-align:\s*center[^\"]*\"", r"\1", t, flags=re.I)
+        html = head + re.sub(r"<table\b.*?</table>", _tab, rest_html, flags=re.S | re.I)
     if n0:
         CENTERED[page] = n0
     out, rest = _paragraphs15(html, digits)
