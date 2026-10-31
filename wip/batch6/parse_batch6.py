@@ -305,6 +305,68 @@ def page_has(key: str, text: str) -> bool:
     return bool(body) and body[5:] in _PAGE_TEXT[key]
 
 
+# The chain rule, for every reissue chain (batch 18; it replaces the hand list above, which it still honours): when the
+# notes of one wording credit two or more MPs in force before 11.9.2001 (EC 32/2001) whose editions rise with their DOU
+# days (2.097-36 then 2.177-44; 1.337 then 1.472-31), Planalto has stacked a reissue's note on the wording an earlier
+# edition made. The wording starts with the earliest edition, once its text is found on every one of those MP pages
+# (each edition's own page is read); otherwise parse_proc's rule (the latest note) stands and the wording is listed.
+# Renumbering notes are left alone (the renumbered label starts with the renumbering).
+EC32_DAY = "2001-09-11"
+MP_CHAIN_UNREAD: list[str] = []
+
+
+def mp_chain(p: dict, cx, problems: list[str]) -> None:
+    keys: dict[str, str] = {}
+    for n in p["notes"]:
+        k = law_key(n) if P.START_KIND.search(n) and not re.search(r"Renumerad", n, re.I) else None
+        if k and k.startswith("mp-") and cx.eff.get(k, "9999") <= EC32_DAY and edition_of(k) is not None:
+            keys.setdefault(k, n)
+    if len(keys) < 2:
+        return
+    order = sorted(keys, key=lambda k: (cx.eff[k], edition_of(k), k))
+    eds = [edition_of(k) for k in order]
+    hand = any(a in keys and b in keys for a, b in MP_CHAINS)
+    if not hand and not all(x < y for x, y in zip(eds, eds[1:])):
+        return
+    first, last = order[0], order[-1]
+    if all(page_has(k, p["text"]) for k in order):
+        p["notes"] = [n for n in p["notes"] if n not in {keys[k] for k in order[1:]}]
+        MP_CHAIN_USED.append(f"{cx.act} {p['unit']} [{p['label']}] from {P.law_label(first)} (also printed in "
+                             f"{P.law_label(last)})")
+    elif hand:
+        problems.append(f"MP chain {first}/{last}: wording not on both pages: {p['unit']} [{p['label']}]")
+    else:
+        MP_CHAIN_UNREAD.append(f"{cx.act} {p['unit']} [{p['label']}] ({', '.join(P.law_label(k) for k in order)})")
+
+
+# The end of an edition (batch 18): an MP page before EC 32 that is neither converted nor otherwise settled (MP_LAPSE,
+# MP_PENDING) and reads 'Reeditada pela MPv nº <n>-<e>, de <year>' was replaced by that next edition on its DOU day. A
+# struck wording of the edition with no later wording on the act's page ends that day when the next edition's own page
+# does not carry it (read on the page); if it does, the wording went on and is listed as a problem. The next edition's
+# page must be pinned. Editions still standing on 11.9.2001 stay in force (EC 32/2001 art. 2: MP_PENDING).
+REISSUED_RX = re.compile(r"Reeditad[ao]\s+pel[ao]\s+(?:Medida\s+Provis[óo]ria|MPv?)\s*(?:n\s*[º°o]?\s*\.?)?\s*"
+                         r"(\d{1,2}(?:\.\d{3})+|\d+)-(\d{1,2})(?!\d)\s*,?\s*de\s+(\d{4})", re.I)
+REISSUED: dict[str, str] = {}        # edition key -> next edition key
+REISSUE_TARGETS: set[str] = set()     # next editions read only for their day
+REISSUE_ENDS: list[str] = []
+
+
+def next_edition(key: str, info: dict) -> str | None:
+    if (not key.startswith("mp-") or info.get("converted") or key in P.MP_LAPSE or key in P.MP_PENDING
+            or (info.get("published") or "9999") > EC32_DAY):
+        return None
+    r = P.raw("law:" + key)
+    if not r:
+        return None
+    t = P.norm(P.htmlmod.unescape(re.sub(r"<[^>]+>", " ", re.sub(r"(?is)<script.*?</script>|<style.*?</style>", " ",
+                                                                  P.decode(r[0])))))
+    m = REISSUED_RX.search(t[:4000])
+    if not m:
+        return None
+    nk = law_key(f"Medida Provisória nº {m.group(1)}-{m.group(2)}, de {m.group(3)}")
+    return nk if nk and nk != key and P.raw("law:" + nk) else None
+
+
 # Renumbered dispositivos ('Renumerado do § 3º para § 4º pela Lei nº 13.052, de 2014'): Planalto prints only the new
 # label. (1) Where no wording under the old label is printed at all, the line stood under its old label (same words)
 # until the renumbering: that wording is added, ended by the renumbered line. (2) Where the old-label wording is printed
