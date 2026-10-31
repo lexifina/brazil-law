@@ -107,9 +107,22 @@ for M in (B7, B8, B9, B10, B11, B12, B13):
 
 _PUB = "'Esta Lei entra em vigor na data de sua publicação'"
 ACT_DAY_ALL: dict[str, tuple[str, str]] = {
+    "lc-87-1996": ("1996-11-01", "Lei Complementar 87/1996 art. 36: 'Esta Lei Complementar entra em vigor no primeiro dia do "
+                                 "segundo mês seguinte ao da sua publicação, observado o disposto nos arts. 32 e 33 e no Anexo' "
+                                 "(DOU 16.9.1996): 1.11.1996; art. 32 (exports, credits) and the Anexo applied from publication, "
+                                 "16.9.1996, which the history does not separate (the act's first version is 1.11.1996)"),
+    "lc-116-2003": ("2003-08-01", "Lei Complementar 116/2003 art. 9: 'Esta Lei Complementar entra em vigor na data de sua "
+                                  "publicação' (DOU 1.8.2003)"),
 }
 _L = B._act_law
 ACT_LAWS_ALL: dict[str, dict] = {
+    "lc-87-1996": _L("Lei Complementar nº 87, de 1996", "Dispõe sobre o imposto dos Estados e do Distrito Federal sobre "
+                     "operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte "
+                     "interestadual e intermunicipal e de comunicação, e dá outras providências. (LEI KANDIR)", "1996-09-13",
+                     "1996-09-16", PAGES["lc87"]),
+    "lc-116-2003": _L("Lei Complementar nº 116, de 2003", "Dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza, de "
+                      "competência dos Municípios e do Distrito Federal, e dá outras providências.", "2003-07-31", "2003-08-01",
+                      PAGES["lc116"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
