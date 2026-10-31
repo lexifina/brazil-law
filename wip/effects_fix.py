@@ -24,6 +24,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 MARK = "Effect days (produção de efeitos):"
+WARN: list[str] = []
 TODAY = "2026-10-31"
 
 
@@ -406,16 +407,20 @@ def apply_move(act: dict, law: str, day: str, rules, moved: list[str]) -> None:
         drops = [h for h in hs if h["day"] is None]
         if not effs and not drops:
             continue
-        # the unit's next change after this version
+        # context for re-inserting a deleted line: the old-side line before it
+        last = None
+        for h in ops:
+            if "eq" in h:
+                last = h["eq"]
+            else:
+                h["prev"] = last
+                if h["old"]:
+                    last = h["old"][0]
+        # the unit's next change after this version (a dropped hunk is undone only up to it)
         nxt = next((j for j in range(k + 1, len(vs)) if vs[j]["units"].get(u) != v["units"].get(u)), None)
-        nday = vs[nxt]["from"] if nxt is not None else None
-        for e in effs:
-            assert nday is None or e < nday, f"conflict: {act['slug']} {u} {law} effect {e} >= next change {nday}"
+        drop_until = vs[nxt]["from"] if nxt is not None else "9999"
         base_unit = copy.deepcopy(v["units"].get(u) or prev.get(u))
-
-        def text_on(t):
-            return rebuild(ops, lambda h: h["day"] is not None and h["day"] <= t)
-        # insert versions for effect days with none (before the unit's next change)
+        # insert versions for effect days with none
         for e in effs:
             if not any(w["from"] == e for w in vs):
                 pos = next((j for j, w in enumerate(vs) if w["from"] > e), len(vs))
@@ -425,19 +430,44 @@ def apply_move(act: dict, law: str, day: str, rules, moved: list[str]) -> None:
                 nv = {kk: nv[kk] for kk in ("from", "credits", "source_url", "sha256", "units") if nv.get(kk) is not None
                       or kk == "units"}
                 vs.insert(pos, nv)
-                if nxt is not None and pos <= nxt:
-                    nxt += 1
         k = next(i for i, w in enumerate(vs) if w is v)
-        end = nxt if nxt is not None else len(vs)
-        for j in range(k, end):
+        last_eff = max(effs) if effs else day
+        for j in range(k, len(vs)):
             w = vs[j]
-            t = text_on(w["from"])
-            if t is None:
-                w["units"].pop(u, None)
-            else:
-                nu = copy.deepcopy(base_unit)
-                nu["text"] = t
+            pending = [h for h in hs if (h["day"] is not None and h["day"] != day and h["day"] > w["from"])
+                       or (h["day"] is None and w["from"] < drop_until)]
+            if not pending:
+                if w["from"] >= last_eff and w["from"] >= min(drop_until, "9999"):
+                    break
+                continue
+            cur = (w["units"].get(u) or {}).get("text")
+            lines = (cur or "").splitlines()
+            for h in pending:
+                if h["new"] and h["old"]:
+                    if h["new"][0] in lines:
+                        lines[lines.index(h["new"][0])] = h["old"][0]
+                    else:
+                        WARN.append(f"{act['slug']} {u} {w['from']}: replaced line gone, kept: {h['new'][0][:50]}")
+                elif h["new"]:
+                    if h["new"][0] in lines:
+                        lines.remove(h["new"][0])
+                    else:
+                        WARN.append(f"{act['slug']} {u} {w['from']}: inserted line gone: {h['new'][0][:50]}")
+                else:
+                    pos = (lines.index(h["prev"]) + 1) if h["prev"] in lines else (0 if h["prev"] is None else None)
+                    if pos is None:
+                        WARN.append(f"{act['slug']} {u} {w['from']}: no place to restore: {h['old'][0][:50]}")
+                        pos = len(lines)
+                    lines.insert(pos, h["old"][0])
+            if lines:
+                nu = copy.deepcopy(w["units"].get(u) or base_unit)
+                nu["text"] = "\n".join(lines) + "\n"
                 w["units"][u] = nu
+            else:
+                w["units"].pop(u, None)
+
+        def text_on(t):
+            return (next(w for w in vs if w["from"] == t)["units"].get(u) or {}).get("text")
         # credits: the version day keeps the law only if something of it applies then
         if text_on(day) == old:
             v["credits"][u] = [x for x in v["credits"][u] if x != law]
@@ -502,6 +532,8 @@ if __name__ == "__main__":
     out = args[args.index("--out") + 1] if "--out" in args else None
     res = run(args[0], out)
     print(len(res), "moves")
+    for w in WARN:
+        print("WARN", w)
     if "--report" in args:
         for x in res:
             print(" -", x[-700:])
