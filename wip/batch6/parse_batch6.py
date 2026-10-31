@@ -37,7 +37,8 @@ B.PAGES.update(PAGES)
 B5.PAGES = PAGES
 
 ALL_ACTS: list[dict] = [a for a in PB5B.ALL_ACTS if a["page"] in PAGES]
-VERIFIED: list[str] = []
+VERIFIED: list[str] = ["lei-de-improbidade-administrativa", "lei-de-crimes-ambientais", "lei-de-acesso-a-informacao",
+                        "lei-do-processo-administrativo"]
 ENABLED = [s for s in os.environ.get("BATCH6_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
 B.ACTS[:] = ACTS
