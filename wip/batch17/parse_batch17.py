@@ -56,6 +56,15 @@ PAGES.update({
     "l9263": "leis/l9263.htm",
     "l11419": "_ato2004-2006/2006/lei/l11419.htm",
     "l12587": "_ato2011-2014/2012/lei/l12587.htm",
+    # part f
+    "l6634": "leis/l6634.htm",
+    "l9469": "leis/l9469.htm",
+    "l9469-compilado": "leis/l9469compilado.htm",
+    "l9537": "leis/l9537.htm",
+    # part g
+    "l13675": "_ato2015-2018/2018/lei/l13675.htm",
+    "l4728": "leis/l4728.htm",
+    "l4728-compilado": "leis/l4728compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -96,6 +105,12 @@ ALL_ACTS: list[dict] = [
          "Lei do Processo Judicial Eletrônico (Lei nº 11.419, de 19 de dezembro de 2006)", 2),
     _act("lei-da-mobilidade-urbana", "LMU", "l12587", "l12587", "lei-12587-2012",
          "Política Nacional de Mobilidade Urbana (Lei nº 12.587, de 3 de janeiro de 2012)", 2),
+    _act("lei-da-faixa-de-fronteira", "LFF", "l6634", "l6634", "lei-6634-1979",
+         "Lei da Faixa de Fronteira (Lei nº 6.634, de 2 de maio de 1979)", 2),
+    _act("lei-9469-de-1997", "L9469", "l9469", "l9469-compilado", "lei-9469-1997",
+         "Acordos e intervenção da União em causas judiciais (Lei nº 9.469, de 10 de julho de 1997)", 2),
+    _act("lei-da-seguranca-do-trafego-aquaviario", "LESTA", "l9537", "l9537", "lei-9537-1997",
+         "Lei de Segurança do Tráfego Aquaviário (Lei nº 9.537, de 11 de dezembro de 1997)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -103,7 +118,9 @@ PARTS: dict[str, list[str]] = {
     "b": ["lei-9029-de-1995", "lei-do-software", "lei-das-organizacoes-sociais", "lei-das-oscips"],
     "c": ["lei-da-assistencia-judiciaria", "lei-do-protesto-de-titulos", "lei-da-intervencao-e-liquidacao-extrajudicial",
           "lei-da-identificacao-criminal"],
-    "d": ["lei-de-biosseguranca", "lei-do-planejamento-familiar", "lei-do-processo-eletronico", "lei-da-mobilidade-urbana"],
+    "d": ["lei-de-biosseguranca", "lei-do-planejamento-familiar", "lei-do-processo-eletronico"],
+    "e": ["lei-da-mobilidade-urbana"],
+    "f": ["lei-da-faixa-de-fronteira", "lei-9469-de-1997", "lei-da-seguranca-do-trafego-aquaviario"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -132,6 +149,19 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-6024-1974": ("1974-03-13", "Lei 6.024/1974 art. 57: 'Esta Lei entrará em vigor na data de sua publicação' (DOU "
                                     "13.3.1974, rectified 8.4.1974)"),
     "lei-12037-2009": ("2009-10-02", f"Lei 12.037/2009 art. 8: {_PUB} (DOU 2.10.2009)"),
+    "lei-11105-2005": ("2005-03-28", f"Lei 11.105/2005 art. 41: {_PUB} (DOU 28.3.2005)"),
+    "lei-9263-1996": ("1996-01-15", f"Lei 9.263/1996 art. 24: {_PUB} (DOU 15.1.1996)"),
+    "lei-11419-2006": ("2007-03-20", "Lei 11.419/2006 art. 22: 'Esta Lei entra em vigor 90 (noventa) dias depois de sua "
+                                     "publicação' (DOU 20.12.2006; the 90th day counted from publication is 19.3.2007, LC "
+                                     "95/1998 art. 8 § 1)"),
+    "lei-12587-2012": ("2012-04-13", "Lei 12.587/2012 art. 28: 'Esta Lei entra em vigor 100 (cem) dias após a data de sua "
+                                     "publicação' (DOU 4.1.2012; the 100th day counted from publication is 12.4.2012, LC "
+                                     "95/1998 art. 8 § 1)"),
+    "lei-6634-1979": ("1979-05-03", "Lei 6.634/1979 art. 12: 'Esta Lei entrará em vigor na data de sua publicação' (DOU "
+                                    "3.5.1979, rectified 11.5.1979)"),
+    "lei-9469-1997": ("1997-07-11", f"Lei 9.469/1997 art. 13: {_PUB} (DOU 11.7.1997)"),
+    "lei-9537-1997": ("1998-06-10", "Lei 9.537/1997 art. 41: 'Esta Lei entra em vigor cento e oitenta dias após a data de "
+                                    "sua publicação' (DOU 12.12.1997; 180 days after 12.12.1997 is 10.6.1998)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -165,6 +195,34 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-12037-2009": _L("Lei nº 12.037, de 2009", "Dispõe sobre a identificação criminal do civilmente identificado, "
                          "regulamentando o art. 5º, inciso LVIII, da Constituição Federal.", "2009-10-01", "2009-10-02",
                          PAGES["l12037"]),
+    "lei-11105-2005": _L("Lei nº 11.105, de 2005", "Regulamenta os incisos II, IV e V do § 1º do art. 225 da Constituição "
+                         "Federal, estabelece normas de segurança e mecanismos de fiscalização de atividades que envolvam "
+                         "organismos geneticamente modificados – OGM e seus derivados, cria o Conselho Nacional de "
+                         "Biossegurança – CNBS, reestrutura a Comissão Técnica Nacional de Biossegurança – CTNBio, dispõe "
+                         "sobre a Política Nacional de Biossegurança – PNB, revoga a Lei nº 8.974, de 5 de janeiro de 1995, e "
+                         "a Medida Provisória nº 2.191-9, de 23 de agosto de 2001, e os arts. 5º, 6º, 7º, 8º, 9º, 10 e 16 da "
+                         "Lei nº 10.814, de 15 de dezembro de 2003, e dá outras providências.", "2005-03-24", "2005-03-28",
+                         PAGES["l11105"]),
+    "lei-9263-1996": _L("Lei nº 9.263, de 1996", "Regula o § 7º do art. 226 da Constituição Federal, que trata do "
+                        "planejamento familiar, estabelece penalidades e dá outras providências.", "1996-01-12", "1996-01-15",
+                        PAGES["l9263"]),
+    "lei-11419-2006": _L("Lei nº 11.419, de 2006", "Dispõe sobre a informatização do processo judicial; altera a Lei nº "
+                         "5.869, de 11 de janeiro de 1973 – Código de Processo Civil; e dá outras providências.", "2006-12-19",
+                         "2006-12-20", PAGES["l11419"]),
+    "lei-12587-2012": _L("Lei nº 12.587, de 2012", "Institui as diretrizes da Política Nacional de Mobilidade Urbana; revoga "
+                         "dispositivos dos Decretos-Leis nºs 3.326, de 3 de junho de 1941, e 5.405, de 13 de abril de 1943, da "
+                         "Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, "
+                         "e das Leis nºs 5.917, de 10 de setembro de 1973, e 6.261, de 14 de novembro de 1975; e dá outras "
+                         "providências.", "2012-01-03", "2012-01-04", PAGES["l12587"]),
+    "lei-6634-1979": _L("Lei nº 6.634, de 1979", "Dispõe sobre a Faixa de Fronteira, altera o Decreto-lei nº 1.135, de 3 de "
+                        "dezembro de 1970, e dá outras providências.", "1979-05-02", "1979-05-03", PAGES["l6634"]),
+    "lei-9469-1997": _L("Lei nº 9.469, de 1997", "Regulamenta o disposto no inciso VI do art. 4º da Lei Complementar nº 73, de "
+                        "10 de fevereiro de 1993; dispõe sobre a intervenção da União nas causas em que figurarem, como autores "
+                        "ou réus, entes da administração indireta; regula os pagamentos devidos pela Fazenda Pública em virtude "
+                        "de sentença judiciária; revoga a Lei nº 8.197, de 27 de junho de 1991, e a Lei nº 9.081, de 19 de julho "
+                        "de 1995, e dá outras providências.", "1997-07-10", "1997-07-11", PAGES["l9469"]),
+    "lei-9537-1997": _L("Lei nº 9.537, de 1997", "Dispõe sobre a segurança do tráfego aquaviário em águas sob jurisdição "
+                        "nacional e dá outras providências.", "1997-12-11", "1997-12-12", PAGES["l9537"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -273,6 +331,33 @@ def mp955_two_copies(paras, act):
                   "skip": False, "restored": True, "pinned": True, "gaps": []})
         MP955_FIXED.append(f"{act['slug']} {p['unit']} [{p['label']}]")
 
+# part e: Lei da Mobilidade Urbana (Lei 12.587/2012)
+_LMU = "lei-da-mobilidade-urbana"
+P.MP_LAPSE["mp-748-2016"] = (
+    "2017-03-23", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 20, de 2017 (DOU 24.3.2017): 'teve seu "
+                  "prazo de vigência encerrado no dia 22 de março do corrente ano'")
+B13.OPEN_ITEMS[_LMU] = (
+    "Lei 12.587 (open items): Planalto's 'Vide' pointers (Medida Provisória 1.179/2023 on art. 24 § 4º, Lei 15.432/2026 "
+    "on the act) strike no words and are not modelled")
+_W24 = ("Lei 12.587 art. 24 § 3º: Medida Provisória 818/2018 (12.1.2018) gave it a new wording ('sete anos'); Lei 13.683/2018, "
+        "its conversion (20.6.2018), did not keep it, so Lei 13.406/2016's wording ('6 (seis) anos'), printed again unstruck "
+        "below MP 818's, is in force from 20.6.2018 until Medida Provisória 906/2019 revoked the paragraph (20.11.2019); "
+        "the placeholder '§ 3º (Revogado).' is Lei 14.000/2020's wording (MP 906's conversion, 20.5.2020), and the "
+        "paragraph is absent from 20.11.2019 until then")
+B8.SPAN_FIX += [
+    ((_LMU, "art-24", "§ 3º", "§ 3º O Plano de Mobilidade Urbana será compatibilizado", 0),
+     {"end": "2018-06-20", "end_law": "lei-13683-2018", "end_how": "conversion"}, _W24),
+    ((_LMU, "art-24", "§ 3º", "§ 3º O Plano de Mobilidade Urbana deverá ser compatibilizado com o plano diretor municipal", 1),
+     {"start": "2018-06-20", "start_law": "lei-13683-2018", "end": "2019-11-20", "end_law": "mp-906-2019",
+      "end_how": "note", "restored": True, "skip": False, "gaps": []}, _W24),
+    ((_LMU, "art-24", "§ 3º", "§ 3º (", 0), {"start": "2020-05-20", "start_law": "lei-14000-2020"}, _W24),
+    ((_LMU, "art-24", "§ 5º", "§ 5º Encerrado o prazo", 0),
+     {"end": "2017-03-23", "end_law": "mp-748-2016-fim", "end_how": "lapse"},
+     "Lei 12.587 art. 24 § 5º as Medida Provisória 748/2016 added it: Lei 13.406/2016 (27.12.2016), a law of its own "
+     "('Altera os §§ 3º e 4º do art. 24'), did not touch it, so it stands until MP 748 lapsed (22.3.2017; Ato Declaratório "
+     "nº 20/2017)"),
+]
+
 # Lei 7.418/1985: Lei 7.619/1987 (DOU 1.10.1987, in force on publication) art. 1 gave art. 1 caput a new wording and
 # revoked art. 1 § 2º and art. 2, 'renumerando-se os demais'. Planalto prints arts. 3 to 13 of 1985 only under their new
 # numbers (2 to 12, each with '(Renumerado do art. N, pela Lei 7.619, de 30.9.1987)'). Lei 7.619 changed no other words,
@@ -333,6 +418,7 @@ def renum_articles(paras, act):
 # page with MP 905's wordings; they are not words of Lei 605 and are left out.
 FOREIGN_RUBRICS = {"l0605": ("Descanso semanal", "Harmonização de multas trabalhistas constantes de legislações esparsas")}
 FOREIGN_DROPPED: list[str] = []
+QUOTED_HEADINGS: list[str] = []
 _paragraphs17 = P.paragraphs
 
 
@@ -348,10 +434,47 @@ def paragraphs(html, digits):
                 continue
             keep.append(p)
         out = keep
+    if page == "l11105":
+        # Lei 11.105 art. 37 quotes Lei 6.938's Anexo VIII ('"ANEXO VIII' and a table): the quoted annex title is a line
+        # of art. 37, not a heading of Lei 11.105; an empty centred line after it is dropped
+        cur, keep = None, []
+        for p in out:
+            if p["heading"] and not P.norm(p["text"]):
+                QUOTED_HEADINGS.append(f"{page}: empty heading line")
+                continue
+            if p["heading"] and cur and P.norm(p["text"]).startswith('"ANEXO'):
+                p.update({"heading": False, "unit": cur, "label": "", "center": False})
+                QUOTED_HEADINGS.append(f"{page}: {P.norm(p['text'])!r} -> {cur}")
+            elif not p["heading"] and p["unit"].startswith("art-"):
+                cur = p["unit"]
+            keep.append(p)
+        out = keep
     return out, rest
 
 
 P.paragraphs = B.paragraphs = paragraphs
+
+# Lei 9.263/1996: arts. 10, 11 and 15 and art. 14 Parágrafo único were vetoed on 12.1.1996; Congress overrode the vetoes
+# and the President promulgated them (Mensagem nº 928, de 19.8.1997, DOU 20.8.1997: 'acabo de promulgá-los'). Planalto
+# prints them with '(Artigo vetado e mantido pelo Congresso Nacional)' / '(Parágrafo vetado e mantido ...)': they start on
+# 20.8.1997, credited to Lei 9.263 (as 99-batch5's promulgated parts of Lei 14.133); the page prints no '(VETADO)' line
+# for them, so they are absent before.
+VETO_KEPT = {"lei-do-planejamento-familiar": ("1997-08-20", {("art-10", None), ("art-11", None), ("art-15", None),
+                                                             ("art-14", "Parágrafo único")})}
+VETO_KEPT_USED: list[str] = []
+
+
+def veto_kept(paras, act):
+    if act["slug"] not in VETO_KEPT:
+        return
+    day, where = VETO_KEPT[act["slug"]]
+    for unit, label in sorted(where, key=str):
+        hit = [p for p in paras if p["unit"] == unit and not p["heading"] and not p.get("skip")
+               and (label is None or p["label"] == label) and p["start"] < day]
+        for p in hit:
+            p["start"], p["start_law"] = day, act["law"]
+        VETO_KEPT_USED.append(f"art. {int(unit[4:])}" + (f" {label}" if label else "") + f" ({len(hit)} lines)")
+
 
 _apply_rewrites17 = P.apply_rewrites
 
@@ -360,6 +483,7 @@ def apply_rewrites(paras, act, eff, problems):
     out = _apply_rewrites17(paras, act, eff, problems)
     renum_articles(paras, act)
     mp955_two_copies(paras, act)
+    veto_kept(paras, act)
     return out
 
 
@@ -385,6 +509,15 @@ def _inner(*a):
                    "MP 905's last day, and undone from 19.8.2020, when MP 905 lapsed. Planalto prints the line MP 905 "
                    "revoked twice, struck with MP 905's note and again unstruck; the unstruck copy is the line from "
                    "19.8.2020" + (" (" + ", ".join(MP955_FIXED) + ")" if MP955_FIXED else "") + ".")
+    if any("ANEXO" in x for x in QUOTED_HEADINGS):
+        dec.append("Lei 11.105 art. 37 gives Lei 6.938's Anexo VIII (Código 20) a new description and quotes the annex with its "
+                   "title ('\"ANEXO VIII') and table; Planalto centres the quoted title, which is read as a line of art. 37, "
+                   "not as a heading of Lei 11.105.")
+    if VETO_KEPT_USED:
+        dec.append("Lei 9.263: the parts vetoed on 12.1.1996 that Congress kept (Planalto: '(Artigo vetado e mantido pelo "
+                   "Congresso Nacional)', '(Parágrafo vetado e mantido ...)') were promulgated by the President "
+                   "(Mensagem nº 928, de 19.8.1997: 'acabo de promulgá-los'; DOU 20.8.1997) and start that day, credited "
+                   "to Lei 9.263: " + ", ".join(VETO_KEPT_USED) + ".")
     if FOREIGN_DROPPED:
         dec.append("Lei 605: two unlabelled lines Planalto prints with no note, 'Descanso semanal' (above art. 1) and "
                    "'Harmonização de multas trabalhistas constantes de legislações esparsas' (above art. 12), are the "

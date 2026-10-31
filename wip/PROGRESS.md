@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-10-31 (batch 16: 99-batch16a CBA, 16b FGTS, 16c Lei 4.320, 16d Tortura/Genocídio/MI/HD, 16e Índio/Cooperativas/Reforma Agrária, 16f Seguro-Desemprego, 16g MROSC PUBLISHed)
+CHECKPOINTED 2026-10-31 (batch 17: 99-batch17a-e PUBLISHed, 16 acts, 95 versions; merged 142 acts, 2489 versions; next candidates in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 
@@ -173,3 +173,5 @@ Batch 16 (2026-10-31): 99-batch16a PUBLISHed: Código Brasileiro de Aeronáutica
 Batch 17 (2026-10-31): small parts 99-batch17a, b, ... 99-batch17a PUBLISHed: Lei do Trabalho Rural 5.889/1973, Lei 4.090/1962 (13º salário), Lei 605/1949 (repouso semanal), Lei do Vale-Transporte 7.418/1985 (29 versions; Lei 7.619/1987 article renumbering rebuilt, MP 905's headings on the Lei 605 page left out, Lei 9.532 effect day via effects_fix); merged 130 acts, 2423 versions, 1957 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (130 acts). Details: batch17/PROGRESS.md.
 99-batch17b PUBLISHed: Lei 9.029/1995, Lei do Software 9.609/1998, Lei das Organizações Sociais 9.637/1998 (MP 850/2018 rejected 12.2.2019), Lei das OSCIPs 9.790/1999 (14 versions); merged 134 acts, 2437 versions, 1966 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (134 acts).
 99-batch17c PUBLISHed: Lei 1.060/1950, Lei 9.492/1997, Lei 6.024/1974, Lei 12.037/2009 (30 versions); merged 138 acts, 2467 versions, 1982 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (138 acts).
+99-batch17d PUBLISHed: Lei de Biossegurança 11.105/2005, Lei do Planejamento Familiar 9.263/1996 (vetoed parts promulgated 20.8.1997), Lei 11.419/2006 processo eletrônico (9 versions); merged 141 acts, 2476 versions, 1989 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (141 acts).
+99-batch17e PUBLISHed: Lei da Mobilidade Urbana 12.587/2012 (13 versions; MP 748 lapse, MP 818/906 chain on art. 24); merged 142 acts, 2489 versions, 1999 commits, check 0/0, --compare identical, audit clean; README + jurisdiction.json (142 acts).

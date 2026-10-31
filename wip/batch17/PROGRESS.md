@@ -58,8 +58,31 @@ intervenção/liquidação (4), Lei 12.037/2009 identificação criminal (8) = 3
 - effects_fix: 0 moves. Part sha bd72860b (pre-effects a6ad2d21); merged 138 acts, 2467 versions, 1982 commits, check
   0/0, compare identical, audit clean. README rows + jurisdiction.json (138 acts).
 
+## 99-batch17d - PUBLISHed 2026-10-31 ~18:35 local
+Lei de Biossegurança 11.105/2005 (2), Lei do Planejamento Familiar 9.263/1996 (4), Lei 11.419/2006 processo eletrônico (3)
+= 9 versions.
+- VETO_KEPT (veto_kept() in apply_rewrites): Lei 9.263 arts. 10, 11, 15 + art. 14 p.u. from 20.8.1997 (Mensagem 928/1997
+  pinned as ato:mv-928-1997, DOU 20.8.1997).
+- paragraphs wrapper: l11105 quoted '"ANEXO VIII' heading -> line of art. 37; empty heading dropped.
+- Part sha 979f692c (effects_fix 0 moves); merged 141 acts, 2476 versions, 1989 commits, check 0/0, compare identical,
+  audit clean. README rows + jurisdiction.json (141 acts).
+
+## 99-batch17e - PUBLISHed 2026-10-31 ~18:55 local
+Lei da Mobilidade Urbana 12.587/2012, 13 versions 2012-04-13 .. 2025-11-27 (in force 13.4.2012, 100 days).
+- MP_LAPSE mp-748-2016 = 23.3.2017 (ato:adc-20-2017-mpv748 pinned). SPAN_FIX art. 24: § 5º (MP 748) ends at the lapse;
+  § 3º MP 818 wording ends 20.6.2018 (Lei 13.683 conversion dropped it); Lei 13.406's § 3º second copy 20.6.2018-20.11.2019
+  (MP 906); '§ 3º (Revogado).' from Lei 14.000 (20.5.2020) - judgement call: absent 20.11.2019-20.5.2020.
+- OPEN_ITEMS: Vide MP 1.179/2023, Lei 15.432/2026. effects_fix 0 moves. Part sha 5d79c481; merged 142 acts, 2489
+  versions, 1999 commits, check 0/0, compare identical, audit clean. README row + jurisdiction.json (142 acts).
+
+## State at handoff (batch 17, 2026-10-31 ~19:00 local)
+Parts 99-batch17a..e installed with .PUBLISH (16 acts, 95 versions; merged 142 acts, 2489 versions, 1999 commits, check
+0/0, --compare identical, audit clean). README rows + jurisdiction.json (142 acts) current. effects_fix.py MOVES added for
+99-batch17a only. No background processes left running (every run foreground through .tmp/run.py, one at a time; all
+PIDs exited). A fresh parse of a part now differs from the installed one only in sources[0].requests (the pin file
+grows with each part; batch 13/16 precedent, left as published). Nothing deferred or left unsettled among the acts tried.
+
 ## Next candidates (pages in the Common Crawl index)
-Lei 11.105/2005, Lei 9.263/1996, Lei 11.419/2006, Lei
-12.587/2012, Lei 13.675/2018, Lei 9.537/1997, Lei 6.634/1979, Lei 9.469/1997 (+compilado), Lei 4.728/1965 (+compilado);
+Lei 13.675/2018, Lei 9.537/1997, Lei 6.634/1979, Lei 9.469/1997 (+compilado), Lei 4.728/1965 (+compilado);
 heavy tax laws Lei 7.713/1988 (+compilada), 9.430/1996 (+compilada), 9.249/1995, 9.250/1995, 7.689/1988; Lei 13.465/2017,
 Lei 11.977/2009. Lei 10.931/2004: no page in the index.
