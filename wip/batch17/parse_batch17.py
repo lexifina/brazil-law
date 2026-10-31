@@ -246,7 +246,7 @@ PARTS: dict[str, list[str]] = {
     "v": ["lei-do-rdc"],
     "w": ["lei-da-antt-e-antaq"],
     "x": ["lei-geral-das-agencias-reguladoras", "lei-9986-de-2000"],
-    "y": ["lei-da-ans", "lei-9717-de-1998"],   # NOT published: trial only (MP reissue chains; see batch17/PROGRESS.md)
+    "y": ["lei-da-ans", "lei-9717-de-1998"],   # MP reissue editions keyed per edition (batch 18 reader, batch6)
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -2028,6 +2028,17 @@ def _inner(*a):
 
 
 B6.PB5B._write_part5 = _inner
+
+# part y: Lei 9.961/2000 (ANS) and Lei 9.717/1998 (RPPS); their MP editions are read by batch 6's edition reader
+B13.OPEN_ITEMS["lei-da-ans"] = (
+    "Lei 9.961 (open items): the editions of the Medida Provisória 1.976 / 2.097 / 2.177 chain that Planalto's notes do not "
+    "name are not modelled (each named edition is dated by its own DOU day); wordings credited to two editions whose text "
+    "is not on the earlier edition's own page keep the later edition's day (listed in the decisions); 'Vide' pointers "
+    "strike no words")
+B13.OPEN_ITEMS["lei-9717-de-1998"] = (
+    "Lei 9.717 (open items): the editions of the Medida Provisória 1.891 / 2.043 / 2.187 chain that Planalto's notes do "
+    "not name (before 1.891-8 of 24.9.1999 and between the named ones) are not modelled; each named edition is dated by its "
+    "own DOU day; 'Vide' pointers strike no words")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
