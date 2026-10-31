@@ -446,12 +446,32 @@ if _C in ENABLED:
                    "Extraordinário nº 595.838'; art. 2: in force on publication. Lei 8.212 art. 22 IV (added by Lei "
                    "9.876/1999) ends on 31.3.2016, credited to the resolution (kind law: a Senate act)"},
     })
-    EXTRA.append(
-        "Resolução do Senado Federal nº 15, de 12.9.2017 (DOU 13.9.2017) suspended the execution of Lei 8.212 art. 12 VII and "
-        "of Lei 8.540/1992 art. 1 (the wordings of art. 12 V, art. 25 I and II and art. 30 IV), 'todos com a redação "
-        "atualizada até a Lei nº 9.528, de 10 de dezembro de 1997' (STF, RE 363.852). Planalto notes it beside those struck "
-        "wordings, all of which later laws (Leis 9.876/1999, 10.256/2001, 11.718/2008) had already replaced before 2017, so "
-        "it changes no version of the history and is not recorded as a change.")
+    P.COURTS["rsf-15-2017"] = {
+        "label": "Resolução do Senado Federal nº 15, de 2017", "kind": "law", "enacted": "2017-09-12",
+        "published": "2017-09-13",
+        "title": "Suspende, nos termos do art. 52, inciso X, da Constituição Federal, a execução do inciso VII do art. 12 da Lei "
+                 "nº 8.212, de 24 de julho de 1991, e a execução do art. 1º da Lei nº 8.540, de 22 de dezembro de 1992, que deu "
+                 "nova redação ao art. 12, inciso V, ao art. 25, incisos I e II, e ao art. 30, inciso IV, da Lei nº 8.212, de 24 "
+                 "de julho de 1991, todos com a redação atualizada até a Lei nº 9.528, de 10 de dezembro de 1997.",
+        "url": PL + "_Ato2015-2018/2017/Congresso/RSF15.htm", "from": "2017-09-13",
+        "case": r"Resolu[çc][ãa]o\s+do\s+Senado\s+Federal\s+n[º°]\s*15,\s*de\s*2017",
+        "where": [(_C, "art-025", "I -")],
+        "why": "Resolução do Senado Federal nº 15, de 12.9.2017 (DOU 13.9.2017), art. 1: 'É suspensa [...] a execução do "
+               "inciso VII do art. 12 da Lei nº 8.212 [...] e a execução do art. 1º da Lei nº 8.540 [...], que deu nova redação "
+               "ao art. 12, inciso V, ao art. 25, incisos I e II, e ao art. 30, inciso IV, da Lei nº 8.212 [...], todos com a "
+               "redação atualizada até a Lei nº 9.528, de 10 de dezembro de 1997, declarados inconstitucionais [...] nos autos "
+               "do Recurso Extraordinário nº 363.852'; art. 2: in force on publication. Planalto notes the suspension beside "
+               "the struck wordings of art. 12 V (and its alíneas), art. 12 VII and art. 25 I. Of these only art. 25 I (Lei "
+               "9.528/1997's wording, '2% da receita bruta [...]') was still the text in 2017: it ends on 13.9.2017, credited "
+               "to the resolution, and the inciso is absent until Lei 13.606/2018 gave it a new wording (10.1.2018); the "
+               "others had been replaced by Leis 9.876/1999 and 11.718/2008 and are unchanged. Planalto prints no note at "
+               "art. 25 II, which is kept. Medida Provisória 793/2017's wording of art. 25 I ('1,2%'; DOU 1.8.2017) was to "
+               "produce effects from 1.1.2018 (its art. 14 I, for its art. 12) and the MP lapsed on 28.11.2017, so it never "
+               "applied and is left out (as the effect-day rule requires)"}
+    B8.SPAN_FIX.append(((_C, "art-025", "I -", "I - 1,2% (um inteiro e dois décimos por cento)", 0),
+                        {"skip": True, "end_how": "never-in-effect"},
+                        "Lei 8.212 art. 25 I: Medida Provisória 793/2017's wording never took effect (see the Resolução do "
+                        "Senado Federal nº 15, de 2017 decision)"))
 # heading lines (B8.SPAN_FIX leaves headings alone): act -> [(text, fields, why)]
 HEAD_FIX: dict[str, list] = {
     _C: [(t, {"end_law": "lei-8398-1992", "end_how": "successor", "skip": False},
