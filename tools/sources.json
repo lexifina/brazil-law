@@ -1,0 +1,759 @@
+{
+ "fetch": [
+  {
+   "id": "cf",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+   "ts": "20261026203643"
+  },
+  {
+   "id": "cf-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+   "ts": "20261022115717"
+  },
+  {
+   "id": "quadro-emc",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/quadro_emc.htm",
+   "ts": "20261018203258"
+  },
+  {
+   "id": "emc-1",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc01.htm",
+   "ts": "20261006121415"
+  },
+  {
+   "id": "emc-2",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc02.htm",
+   "ts": "20261010081753"
+  },
+  {
+   "id": "emc-3",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc03.htm",
+   "ts": "20261023050325"
+  },
+  {
+   "id": "emc-4",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc04.htm",
+   "ts": "20171208111741"
+  },
+  {
+   "id": "emc-5",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc05.htm",
+   "ts": "20261011005257"
+  },
+  {
+   "id": "emc-6",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc06.htm",
+   "ts": "20261020000425"
+  },
+  {
+   "id": "emc-7",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc07.htm",
+   "ts": "20261004180832"
+  },
+  {
+   "id": "emc-8",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc08.htm",
+   "ts": "20261020015928"
+  },
+  {
+   "id": "emc-9",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc09.htm",
+   "ts": "20261004090035"
+  },
+  {
+   "id": "emc-10",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc10.htm",
+   "ts": "20261019193258"
+  },
+  {
+   "id": "emc-11",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc11.htm",
+   "ts": "20261013110834"
+  },
+  {
+   "id": "emc-12",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc12.htm",
+   "ts": "20261013162935"
+  },
+  {
+   "id": "emc-13",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc13.htm",
+   "ts": "20171109004359"
+  },
+  {
+   "id": "emc-14",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc14.htm",
+   "ts": "20261011013008"
+  },
+  {
+   "id": "emc-15",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc15.htm",
+   "ts": "20260930185716"
+  },
+  {
+   "id": "emc-16",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc16.htm",
+   "ts": "20261024005650"
+  },
+  {
+   "id": "emc-17",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc17.htm",
+   "ts": "20261016125417"
+  },
+  {
+   "id": "emc-18",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc18.htm",
+   "ts": "20261004195316"
+  },
+  {
+   "id": "emc-19",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc19.htm",
+   "ts": "20261024005001"
+  },
+  {
+   "id": "emc-20",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc20.htm",
+   "ts": "20261024002353"
+  },
+  {
+   "id": "emc-21",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc21.htm",
+   "ts": "20261004035158"
+  },
+  {
+   "id": "emc-22",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc22.htm",
+   "ts": "20261011063449"
+  },
+  {
+   "id": "emc-23",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc23.htm",
+   "ts": "20261004200016"
+  },
+  {
+   "id": "emc-24",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc24.htm",
+   "ts": "20261005194042"
+  },
+  {
+   "id": "emc-25",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc25.htm",
+   "ts": "20260923000009"
+  },
+  {
+   "id": "emc-26",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc26.htm",
+   "ts": "20261012050129"
+  },
+  {
+   "id": "emc-27",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc27.htm",
+   "ts": "20261016125307"
+  },
+  {
+   "id": "emc-28",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc28.htm",
+   "ts": "20261012111031"
+  },
+  {
+   "id": "emc-29",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc29.htm",
+   "ts": "20261004231124"
+  },
+  {
+   "id": "emc-30",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc30.htm",
+   "ts": "20261010122707"
+  },
+  {
+   "id": "emc-31",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc31.htm",
+   "ts": "20261008220349"
+  },
+  {
+   "id": "emc-32",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc32.htm",
+   "ts": "20261016125604"
+  },
+  {
+   "id": "emc-33",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc33.htm",
+   "ts": "20261018181923"
+  },
+  {
+   "id": "emc-34",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc34.htm",
+   "ts": "20261012025000"
+  },
+  {
+   "id": "emc-35",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc35.htm",
+   "ts": "20261016083450"
+  },
+  {
+   "id": "emc-36",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc36.htm",
+   "ts": "20261011174548"
+  },
+  {
+   "id": "emc-37",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc37.htm",
+   "ts": "20261014214113"
+  },
+  {
+   "id": "emc-38",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc38.htm",
+   "ts": "20260829030939"
+  },
+  {
+   "id": "emc-39",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc39.htm",
+   "ts": "20261018234028"
+  },
+  {
+   "id": "emc-40",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc40.htm",
+   "ts": "20261013114023"
+  },
+  {
+   "id": "emc-41",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc41.htm",
+   "ts": "20261020205617"
+  },
+  {
+   "id": "emc-42",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc42.htm",
+   "ts": "20261003215054"
+  },
+  {
+   "id": "emc-43",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc43.htm",
+   "ts": "20260921184321"
+  },
+  {
+   "id": "emc-44",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc44.htm",
+   "ts": "20261012155731"
+  },
+  {
+   "id": "emc-45",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc45.htm",
+   "ts": "20261020052854"
+  },
+  {
+   "id": "emc-46",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc46.htm",
+   "ts": "20261018031344"
+  },
+  {
+   "id": "emc-47",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc47.htm",
+   "ts": "20261006221940"
+  },
+  {
+   "id": "emc-48",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc48.htm",
+   "ts": "20261018220527"
+  },
+  {
+   "id": "emc-49",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc49.htm",
+   "ts": "20261017205852"
+  },
+  {
+   "id": "emc-50",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc50.htm",
+   "ts": "20261012163945"
+  },
+  {
+   "id": "emc-51",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc51.htm",
+   "ts": "20261023061023"
+  },
+  {
+   "id": "emc-52",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc52.htm",
+   "ts": "20261013195622"
+  },
+  {
+   "id": "emc-53",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc53.htm",
+   "ts": "20261011202554"
+  },
+  {
+   "id": "emc-54",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc54.htm",
+   "ts": "20261009113923"
+  },
+  {
+   "id": "emc-55",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc55.htm",
+   "ts": "20261012225746"
+  },
+  {
+   "id": "emc-56",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc56.htm",
+   "ts": "20261018003625"
+  },
+  {
+   "id": "emc-57",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc57.htm",
+   "ts": "20261011233034"
+  },
+  {
+   "id": "emc-58",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc58.htm",
+   "ts": "20261012112418"
+  },
+  {
+   "id": "emc-59",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc59.htm",
+   "ts": "20261023184428"
+  },
+  {
+   "id": "emc-60",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc60.htm",
+   "ts": "20260903041557"
+  },
+  {
+   "id": "emc-61",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc61.htm",
+   "ts": "20260829030930"
+  },
+  {
+   "id": "emc-62",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc62.htm",
+   "ts": "20261012082039"
+  },
+  {
+   "id": "emc-63",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc63.htm",
+   "ts": "20261011152026"
+  },
+  {
+   "id": "emc-64",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc64.htm",
+   "ts": "20261011013041"
+  },
+  {
+   "id": "emc-65",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc65.htm",
+   "ts": "20261004182227"
+  },
+  {
+   "id": "emc-66",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc66.htm",
+   "ts": "20261012225745"
+  },
+  {
+   "id": "emc-67",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc67.htm",
+   "ts": "20260829030928"
+  },
+  {
+   "id": "emc-68",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc68.htm",
+   "ts": "20261022115740"
+  },
+  {
+   "id": "emc-69",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc69.htm",
+   "ts": "20261004145743"
+  },
+  {
+   "id": "emc-70",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc70.htm",
+   "ts": "20261011043756"
+  },
+  {
+   "id": "emc-71",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc71.htm",
+   "ts": "20261005211012"
+  },
+  {
+   "id": "emc-72",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc72.htm",
+   "ts": "20261011013048"
+  },
+  {
+   "id": "emc-73",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc73.htm",
+   "ts": "20261016053003"
+  },
+  {
+   "id": "emc-74",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc74.htm",
+   "ts": "20261022115740"
+  },
+  {
+   "id": "emc-75",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc75.htm",
+   "ts": "20261012135943"
+  },
+  {
+   "id": "emc-76",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc76.htm",
+   "ts": "20261004130048"
+  },
+  {
+   "id": "emc-77",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc77.htm",
+   "ts": "20261012161709"
+  },
+  {
+   "id": "emc-78",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc78.htm",
+   "ts": "20260930185716"
+  },
+  {
+   "id": "emc-79",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc79.htm",
+   "ts": "20261004214537"
+  },
+  {
+   "id": "emc-80",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc80.htm",
+   "ts": "20261024003348"
+  },
+  {
+   "id": "emc-81",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc81.htm",
+   "ts": "20261021203313"
+  },
+  {
+   "id": "emc-82",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc82.htm",
+   "ts": "20260917104758"
+  },
+  {
+   "id": "emc-83",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc83.htm",
+   "ts": "20261023235402"
+  },
+  {
+   "id": "emc-84",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc84.htm",
+   "ts": "20261010100613"
+  },
+  {
+   "id": "emc-85",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc85.htm",
+   "ts": "20261019150317"
+  },
+  {
+   "id": "emc-86",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc86.htm",
+   "ts": "20261013062909"
+  },
+  {
+   "id": "emc-87",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc87.htm",
+   "ts": "20261017221607"
+  },
+  {
+   "id": "emc-88",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc88.htm",
+   "ts": "20261016235522"
+  },
+  {
+   "id": "emc-89",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc89.htm",
+   "ts": "20260918163155"
+  },
+  {
+   "id": "emc-90",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc90.htm",
+   "ts": "20261003222332"
+  },
+  {
+   "id": "emc-91",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc91.htm",
+   "ts": "20261016055527"
+  },
+  {
+   "id": "emc-92",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc92.htm",
+   "ts": "20261013163728"
+  },
+  {
+   "id": "emc-93",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc93.htm",
+   "ts": "20261019095701"
+  },
+  {
+   "id": "emc-94",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc94.htm",
+   "ts": "20261011141907"
+  },
+  {
+   "id": "emc-95",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc95.htm",
+   "ts": "20261020000557"
+  },
+  {
+   "id": "emc-96",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc96.htm",
+   "ts": "20261016054338"
+  },
+  {
+   "id": "emc-97",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc97.htm",
+   "ts": "20261024001444"
+  },
+  {
+   "id": "emc-98",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc98.htm",
+   "ts": "20261011154402"
+  },
+  {
+   "id": "emc-99",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc99.htm",
+   "ts": "20261016015053"
+  },
+  {
+   "id": "emc-100",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc100.htm",
+   "ts": "20261022144203"
+  },
+  {
+   "id": "emc-101",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc101.htm",
+   "ts": "20261018121559"
+  },
+  {
+   "id": "emc-102",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc102.htm",
+   "ts": "20261022144203"
+  },
+  {
+   "id": "emc-103",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm",
+   "ts": "20261018135040"
+  },
+  {
+   "id": "emc-104",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc104.htm",
+   "ts": "20261019222058"
+  },
+  {
+   "id": "emc-105",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc105.htm",
+   "ts": "20261020054754"
+  },
+  {
+   "id": "emc-106",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc106.htm",
+   "ts": "20261008212249"
+  },
+  {
+   "id": "emc-107",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc107.htm",
+   "ts": "20261016063649"
+  },
+  {
+   "id": "emc-108",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc108.htm",
+   "ts": "20261012200604"
+  },
+  {
+   "id": "emc-109",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc109.htm",
+   "ts": "20261022144203"
+  },
+  {
+   "id": "emc-110",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc110.htm",
+   "ts": "20260930185716"
+  },
+  {
+   "id": "emc-111",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc111.htm",
+   "ts": "20261023091924"
+  },
+  {
+   "id": "emc-112",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc112.htm",
+   "ts": "20261005001610"
+  },
+  {
+   "id": "emc-113",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc113.htm",
+   "ts": "20261024003909"
+  },
+  {
+   "id": "emc-114",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc114.htm",
+   "ts": "20261015045426"
+  },
+  {
+   "id": "emc-115",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc115.htm",
+   "ts": "20261024004349"
+  },
+  {
+   "id": "emc-116",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc116.htm",
+   "ts": "20260930185716"
+  },
+  {
+   "id": "emc-117",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc117.htm",
+   "ts": "20261012064533"
+  },
+  {
+   "id": "emc-118",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc118.htm",
+   "ts": "20261018121719"
+  },
+  {
+   "id": "emc-119",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc119.htm",
+   "ts": "20261012225506"
+  },
+  {
+   "id": "emc-120",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc120.htm",
+   "ts": "20261019070729"
+  },
+  {
+   "id": "emc-121",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc121.htm",
+   "ts": "20261018224600"
+  },
+  {
+   "id": "emc-122",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc122.htm",
+   "ts": "20261018052147"
+  },
+  {
+   "id": "emc-123",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc123.htm",
+   "ts": "20261022062425"
+  },
+  {
+   "id": "emc-124",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc124.htm",
+   "ts": "20261004200502"
+  },
+  {
+   "id": "emc-125",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc125.htm",
+   "ts": "20261018130125"
+  },
+  {
+   "id": "emc-126",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc126.htm",
+   "ts": "20261015094650"
+  },
+  {
+   "id": "emc-127",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc127.htm",
+   "ts": "20261024003640"
+  },
+  {
+   "id": "emc-128",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc128.htm",
+   "ts": "20261004090559"
+  },
+  {
+   "id": "emc-129",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc129.htm",
+   "ts": "20260830154516"
+  },
+  {
+   "id": "emc-130",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc130.htm",
+   "ts": "20260921184321"
+  },
+  {
+   "id": "emc-131",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc131.htm",
+   "ts": "20261005182411"
+  },
+  {
+   "id": "emc-132",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+   "ts": "20261023144946"
+  },
+  {
+   "id": "emc-133",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc133.htm",
+   "ts": "20261012083254"
+  },
+  {
+   "id": "emc-134",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc134.htm",
+   "ts": "20261018033327"
+  },
+  {
+   "id": "emc-135",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc135.htm",
+   "ts": "20260923000009"
+  },
+  {
+   "id": "emc-136",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc136.htm",
+   "ts": "20261011234652"
+  },
+  {
+   "id": "emc-137",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc137.htm",
+   "ts": "20261022190623"
+  },
+  {
+   "id": "emc-138",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc138.htm",
+   "ts": "20261011124609"
+  },
+  {
+   "id": "emc-139",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc139.htm",
+   "ts": "20261021203312"
+  },
+  {
+   "id": "emc-140",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc140.htm",
+   "ts": "20261022115739"
+  },
+  {
+   "id": "emc-141",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm",
+   "ts": "20261022222529"
+  },
+  {
+   "id": "ecr-1",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/ecr/ecr1.htm",
+   "ts": "20261005005015"
+  },
+  {
+   "id": "ecr-2",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/ecr/ecr2.htm",
+   "ts": "20261018063422"
+  },
+  {
+   "id": "ecr-3",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/ecr/ecr3.htm",
+   "ts": "20261022054810"
+  },
+  {
+   "id": "ecr-4",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/ecr/ecr4.htm",
+   "ts": "20261007152532"
+  },
+  {
+   "id": "ecr-5",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/ecr/ecr5.htm",
+   "ts": "20161024073624"
+  },
+  {
+   "id": "ecr-6",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/ecr/ecr6.htm",
+   "ts": "20161124160315"
+  },
+  {
+   "id": "lcp-200",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp200.htm",
+   "ts": "20261021204933"
+  }
+ ]
+}

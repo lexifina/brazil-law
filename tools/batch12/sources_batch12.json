@@ -1,0 +1,37 @@
+{
+ "fetch": [
+  {
+   "id": "ato:adc-2009-mpv446",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/congresso/adc--mpv446.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-34",
+    "timestamp": "20260818103328",
+    "filename": "crawl-data/CC-MAIN-2026-34/segments/1786091677690.83/warc/CC-MAIN-20260818102432-20260818132432-00817.warc.gz",
+    "offset": "43391727",
+    "length": "2109"
+   }
+  },
+  {
+   "id": "ctx:lcvm-original",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385original.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-30",
+    "timestamp": "20260722173619",
+    "filename": "crawl-data/CC-MAIN-2026-30/segments/1783664247357.85/warc/CC-MAIN-20260722160734-20260722190734-00603.warc.gz",
+    "offset": "35827286",
+    "length": "11188"
+   }
+  },
+  {
+   "id": "law:dec-3995-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/2001/d3995.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-34",
+    "timestamp": "20260815163237",
+    "filename": "crawl-data/CC-MAIN-2026-34/segments/1786091385840.37/warc/CC-MAIN-20260815151410-20260815181410-00886.warc.gz",
+    "offset": "14824696",
+    "length": "5511"
+   }
+  }
+ ]
+}
