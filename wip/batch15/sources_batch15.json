@@ -45,6 +45,17 @@
    }
   },
   {
+   "id": "ctx:l8212-original",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L8212orig.htm",
+   "cc": {
+    "crawl": "CC-MAIN-2026-39",
+    "timestamp": "20260916005115",
+    "filename": "crawl-data/CC-MAIN-2026-39/segments/1788492997931.94/warc/CC-MAIN-20260915233002-20260916023002-00956.warc.gz",
+    "offset": "387453947",
+    "length": "37278"
+   }
+  },
+  {
    "id": "ctx:rsf-10-2016",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Congresso/RSF%2010.htm",
    "cc": {
