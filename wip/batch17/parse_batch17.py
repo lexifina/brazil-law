@@ -209,6 +209,11 @@ PAGES.update({
     "l9494": "leis/l9494.htm",
     "l12813": "_ato2011-2014/2013/lei/l12813.htm",
     "l14129": "_ato2019-2022/2021/lei/l14129.htm",
+    # twenty-third session: next on the ranked list
+    "l8625": "leis/l8625.htm",
+    "l12618": "_ato2011-2014/2012/lei/l12618.htm",
+    "l12865": "_ato2011-2014/2013/lei/l12865.htm",
+    "l14601": "_ato2023-2026/2023/lei/l14601.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -463,6 +468,12 @@ ALL_ACTS: list[dict] = [
     _act("decreto-lei-200-de-1967", "DL200", "del0200", "del0200", "dl-200-1967",
          "Organização da Administração Federal e Reforma Administrativa (Decreto-Lei nº 200, de 25 de fevereiro de 1967)", 3)
     | {"center_headings": False},   # headings are <h4>/<h5> blocks, not centred: a Título's name line went into the article above
+    _act("lei-da-partilha-de-producao", "LPartilha", "l12351", "l12351", "lei-12351-2010",
+         "Partilha de produção do pré-sal e Fundo Social (Lei nº 12.351, de 22 de dezembro de 2010)", 2),
+    _act("lei-organica-nacional-do-ministerio-publico", "LONMP", "l8625", "l8625", "lei-8625-1993",
+         "Lei Orgânica Nacional do Ministério Público (Lei nº 8.625, de 12 de fevereiro de 1993)", 2),
+    _act("lei-do-programa-bolsa-familia", "LPBF", "l14601", "l14601", "lei-14601-2023",
+         "Programa Bolsa Família (Lei nº 14.601, de 19 de junho de 2023)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -538,6 +549,8 @@ PARTS: dict[str, list[str]] = {
     "zzl": ["lei-do-governo-digital"],
     # twenty-third session
     "zzm": ["decreto-lei-200-de-1967"],
+    "zzn": ["lei-da-partilha-de-producao"],
+    "zzo": ["lei-organica-nacional-do-ministerio-publico", "lei-do-programa-bolsa-familia"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -759,6 +772,11 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                   "disposto nos parágrafos do presente artigo e ressalvadas as disposições cuja vigência, na data da "
                                   "publicação, seja por ela expressamente determinada' (DOU 27.2.1967, rectified 8.3.1967, 30.3.1967 "
                                   "and 17.7.1967)"),
+    "lei-12351-2010": ("2010-12-23", f"Lei 12.351/2010 art. 68: {_PUB} (DOU 23.12.2010)"),
+    "lei-8625-1993": ("1993-02-15", "Lei 8.625/1993 art. 83: 'Esta lei entra em vigor na data de sua publicação' (DOU 15.2.1993)"),
+    "lei-14601-2023": ("2023-06-20", "Lei 14.601/2023 art. 34: 'Esta Lei entra em vigor: I - em 1º de janeiro de 2024, quanto: a) aos "
+                                     "arts. 30 e 31 e ao inciso I do caput do art. 33; b) ao § 3º do art. 4º; e II - na data de sua "
+                                     "publicação, quanto aos demais dispositivos' (DOU 20.6.2023)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1149,6 +1167,22 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "13.460, de 26 de junho de 2017.", "2021-03-29", "2021-03-30", "_Ato2019-2022/2021/Lei/L14129.htm"),
     "dl-200-1967": _L("Decreto-Lei nº 200, de 1967", "Dispõe sôbre a organização da Administração Federal, estabelece diretrizes "
                       "para a Reforma Administrativa e dá outras providências.", "1967-02-25", "1967-02-27", PAGES["del0200"]),
+    # as 99-batch10 has the record (title, url)
+    "lei-12351-2010": _L("Lei nº 12.351, de 2010", "Dispõe sobre a exploração e a produção de petróleo, de gás natural e de outros "
+                         "hidrocarbonetos fluidos, sob o regime de partilha de produção, em áreas do pré-sal e em áreas "
+                         "estratégicas; cria o Fundo Social - FS e dispõe sobre sua estrutura e fontes de recursos; altera "
+                         "dispositivos da Lei n o 9.478, de 6 de agosto de 1997; e dá outras providências.", "2010-12-22",
+                         "2010-12-23", "_Ato2007-2010/2010/Lei/L12351.htm"),
+    "lei-8625-1993": _L("Lei nº 8.625, de 1993", "Institui a Lei Orgânica Nacional do Ministério Público, dispõe sobre normas gerais "
+                        "para a organização do Ministério Público dos Estados e dá outras providências.", "1993-02-12", "1993-02-15",
+                        PAGES["l8625"]),
+    # as 99-batch12 and 99-batch17zza have the record
+    "lei-14601-2023": _L("Lei nº 14.601, de 2023", "Institui o Programa Bolsa Família; altera a Lei nº 8.742, de 7 de dezembro de 1993 "
+                         "(Lei Orgânica da Assistência Social), a Lei nº 10.820, de 17 de dezembro de 2003, que dispõe sobre a "
+                         "autorização para desconto em folha de pagamento, e a Lei nº 10.779, de 25 de novembro de 2003; e revoga "
+                         "dispositivos das Leis nºs 14.284, de 29 de dezembro de 2021, e 14.342, de 18 de maio de 2022, e a Medida "
+                         "Provisória nº 1.155, de 1º de janeiro de 2023.", "2023-06-19", "2023-06-20",
+                         "_Ato2023-2026/2023/Lei/L14601.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -3782,8 +3816,12 @@ G10833_USED: list[str] = []
 # Lei Complementar 200/2023 art. 15: 'I - em 1º de janeiro de 2024, quanto ao art. 11' (its changes to Lei Complementar 101)
 _GLC200 = {"art-11": ("2024-01-01", "I")}
 GLC200_USED: list[str] = []
+# Lei 14.601/2023 art. 34 I a): arts. 30 and 31 from 1.1.2024 (art. 4 § 3º and art. 33 I are single lines: SPAN_FIX)
+_G14601 = {"art-30": ("2024-01-01", "I a"), "art-31": ("2024-01-01", "I a")}
+G14601_USED: list[str] = []
 _GATES = {_L9718: (_G9718, "lei-9718-1998", G9718_USED), _L10637: (_G10637, "lei-10637-2002", G10637_USED),
-          _L10833: (_G10833, "lei-10833-2003", G10833_USED), "lei-do-regime-fiscal-sustentavel": (_GLC200, "lc-200-2023", GLC200_USED)}
+          _L10833: (_G10833, "lei-10833-2003", G10833_USED), "lei-do-regime-fiscal-sustentavel": (_GLC200, "lc-200-2023", GLC200_USED),
+          "lei-do-programa-bolsa-familia": (_G14601, "lei-14601-2023", G14601_USED)}
 # Lei 11.727/2008 art. 42: 'Ficam revogados: [...] IV - a partir de 1º de janeiro de 2009: a) os arts. 49, 50, 52, 55, 57 e
 # 58 da Lei nº 10.833 [...]' (IV as Lei 11.827/2008 worded it; Planalto prints those articles unstruck)
 _REV2009 = {"art-49", "art-50", "art-52", "art-55", "art-57", "art-58"}
@@ -5071,7 +5109,168 @@ B13.OPEN_ITEMS[_DL200] = (
     "are not part of the record); 'Vide' pointers (Leis 6.036/1974, 6.228/1975, 7.739/1989, 7.995/1990, 8.028/1990, "
     "10.683/2003 and decrees) strike no words; the history holds the changes Planalto notes on this page")
 
+# part zzn: Lei 12.351/2010 (partilha de produção, Fundo Social). Hand items set only when the act runs (except the tables,
+# which are keyed to the act).
+_LPART = "lei-da-partilha-de-producao"
+_P734 = ("2013-03-15", "lei-12734-2012")   # Lei 12.734/2012's vetoed parts, promulgated 14.3.2013 (DOU 15.3.2013)
+if any(a["slug"] == _LPART for a in ACTS):
+    P.NOTE_FIX["(Redação pela Medida Provisória nº 592, de 2012)"] = (
+        "(Redação dada pela Medida Provisória nº 592, de 2012)",
+        "Lei 12.351 art. 42-B II f): the note of Medida Provisória 592's wording reads 'Redação pela' (the word 'dada' missing)")
+    P.MP_PENDING["mp-1226-2024"] = (
+        "Medida Provisória nº 1.226, de 29.5.2024 (DOU 29.5.2024, in force on publication), was not converted: Lei 14.981/2024 "
+        "art. 29 III revoked it (DOU 23.9.2024, in force on publication) and gave arts. 47 § 4º and 47-A their own wordings, so "
+        "the MP's wordings end on 23.9.2024")
+    EXTRA.append(
+        "Lei 12.351: Lei 12.734/2012 (DOU 30.11.2012, edição extra) was sanctioned in part; the parts the President vetoed and "
+        "Congress restored, promulgated on 14.3.2013 (DOU 15.3.2013; marked '(Promulgado em 14.03.2013)' on Lei 12.734's page), "
+        "start on 15.3.2013: in art. 42-B the items 1, 3, 4 and 5 of alíneas d) and e) of incisos I and II and §§ 1º (with its "
+        "incisos) to 4º, the whole art. 42-C, and the revocation of art. 49 IV and § 1º (Lei 12.734 art. 4 II), so those two "
+        "dispositivos (and the Lei 9.478 text § 1º quotes) stand until 15.3.2013. Before that day the vetoed items read only "
+        "'(VETADO)' in Lei 12.734 and are absent here.")
+    EXTRA.append(
+        "Lei 12.351 art. 60-A (tax exemption of the Fundo Social's operations, added by Lei 15.164/2025): art. 65-A, parágrafo "
+        "único, added by the same Lei, says the renúncia fiscal of art. 60-A 'vigorará de 1º de janeiro de 2026 a 31 de dezembro "
+        "de 2030', so art. 60-A stands from 1.1.2026 and leaves the record on 1.1.2031, the day after its term (on futuro), "
+        "both credited to Lei 15.164.")
+    # the ruling's record exactly as 99-batch10 has it (Lei do Petróleo)
+    B8.EXTRA_LAWS["stf-adi-4917"] = {
+        "label": "STF, ADI 4.917 (medida cautelar)", "kind": "court", "enacted": "2013-03-18", "published": "2013-03-21",
+        "title": "Ação direta de inconstitucionalidade 4.917, medida cautelar (decisão monocrática, ad referendum do Plenário): "
+                 "suspende os efeitos dos arts. 42-B, 42-C, 48, II, 49, II, 49-A, 49-B, 49-C, § 2º do art. 50, 50-A, 50-B, "
+                 "50-C, 50-D e 50-E da Lei nº 9.478, de 1997, com as alterações promovidas pela Lei nº 12.734, de 2012",
+        "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=4379376", "temporary_until": None,
+        "restores": None,
+        "note": "A rapporteur's interim ruling (ADI 4.917, 18 March 2013) suspended the effects of the royalty rules Lei "
+                "12.734/2012 wrote into these provisions until the court's final judgment; the words are unchanged on "
+                "Planalto's page, so they are unchanged here."}
+    EXTRA.append(
+        "Lei 12.351 Anexo (the pre-salt polygon, Lei art. 2 IV): printed after the signature, where the reader stops; read here "
+        "as unit 'anexo', one line per table row (the cells of a row separated by a space, as the page's text runs).")
+PROMULGATED[_LPART] = [("art-42-b", "", f"{_n}. {_t}", *_P734) for _n, _t in (
+    ("1", "os recursos serão distribuídos somente para"), ("3", "o percentual que o FP"), ("4", "o "), ("5", "os recursos que"))] + [
+    ("art-42-b", "§ 1º", "§ 1º A soma dos valores referentes aos royalties", *_P734),
+    ("art-42-b", "I -", "I - os valores que o Município recebeu", *_P734),
+    ("art-42-b", "II -", "II - 2 (duas) vezes o valor per capita", *_P734),
+    ("art-42-b", "§ 2º", "§ 2º A parcela dos royalties de que trata este artigo", *_P734),
+    ("art-42-b", "§ 3º", "§ 3º Os pontos de entrega", *_P734),
+    ("art-42-b", "§ 4º", "§ 4º A opção dos Estados", *_P734),
+    ("art-42-c", "Art. 42-C", "Art. 42-C. Os recursos do fundo especial", *_P734)]
+_W49 = ("Lei 12.351 art. 49 IV and § 1º (with the text of Lei 9.478 arts. 49 § 3º and 50 § 4º that § 1º quotes): revoked by Lei "
+        "12.734/2012 art. 4 II, a part vetoed on enactment and promulgated on 14.3.2013 (DOU 15.3.2013); they stand until that day")
+_E49 = {"end": _P734[0], "end_law": _P734[1], "end_how": "note", "skip": False}
+B8.SPAN_FIX += [((_LPART, "art-49", _l, _t, 0), dict(_E49), _W49) for _l, _t in (
+    ("IV -", "IV - os royalties"), ("§ 1º", "§ 1º A Lei nº 9.478"), ("", '"Art. 49.'), ("§ 3º", "§ 3º Nas áreas localizadas no pré-sal"),
+    ("", '"Art. 50.'), ("§ 4º", "§ 4º Nas áreas localizadas no pré-sal"))]
+_W58 = ("Lei 12.351 art. 58 § 5º: Lei 15.164/2025 art. 1 gave it a new wording ('[...] desta Lei deverão observar critérios de redução "
+        "das desigualdades sociais e regionais', read on its page); Planalto prints the new wording under the 2010 one with no note: "
+        "the 2010 wording ends and the new one starts on 15.7.2025, credited to Lei 15.164")
+B8.SPAN_FIX += [
+    ((_LPART, "art-58", "§ 5º", "§ 5º Os recursos do FS destinados aos programas e projetos de que trata o art. 47 devem", 0),
+     {"end": "2025-07-15", "end_law": "lei-15164-2025", "end_how": "successor", "skip": False}, _W58),
+    ((_LPART, "art-58", "§ 5º", "§ 5º Os recursos do FS destinados aos programas e projetos de que trata o art. 47 desta Lei", 0),
+     {"start": "2025-07-15", "start_law": "lei-15164-2025", "by_provision": True}, _W58)]
+_W42F = ("Lei 12.351 art. 42-B II f): Lei 12.734/2012's wording (30.11.2012) was replaced by Medida Provisória 592/2012 (3.12.2012) "
+        "and is back when the MP lapsed (13.5.2013); Planalto prints it after the MP's struck wording, so the reader started it "
+        "only at the lapse: it stands from 30.11.2012 with the MP's months as a gap")
+B8.SPAN_FIX += [((_LPART, "art-42-b", "f)", "f) 22% (vinte e dois por cento) para a União", 0),
+                 {"start": "2012-11-30", "start_law": "lei-12734-2012", "restored": False,
+                  "gaps": [["2012-12-03", "2013-05-13", "mp-592-2012", "mp-592-2012-fim"]]}, _W42F)]
+_W60A = ("Lei 12.351 art. 60-A: in effect from 1.1.2026 to 31.12.2030 (art. 65-A, parágrafo único, Lei 15.164/2025); it stands from "
+         "1.1.2026 and leaves on 1.1.2031, credited to Lei 15.164")
+B8.SPAN_FIX += [((_LPART, "art-60-a", _l, _t, 0), {"start": "2026-01-01", "start_law": "lei-15164-2025", "by_provision": True,
+                                                   "end": "2031-01-01", "end_law": "lei-15164-2025", "end_how": "term"}, _W60A)
+                for _l, _t in (("Art. 60-A", "Art. 60-A."), ("§ 1º", "§ 1º Ficam reduzidas"), ("§ 2º", "§ 2º Fica a Casa Civil"))]
+B13.OPEN_ITEMS[_LPART] = (
+    "Lei 12.351 (open items): the text before Lei 12.734/2012's vetoed items were promulgated reads '(VETADO)' in that Lei and is "
+    "not printed on Lei 12.351's page (the items are absent until 15.3.2013); STF, ADI 4.917 (medida cautelar of 18.3.2013, "
+    "pending) suspended the effects of arts. 42-B and 42-C: recorded as a version that changes no words; Lei 15.269/2025's vetoed "
+    "art. 47 § 4º III reads '(VETADO)'; 'Vide' pointers and the regulations strike no words")
+B.EXPLAINED[_LPART] = {
+    "anexo": "check artefact: the check sets aside a unit made only of lines with no label and no closing punctuation (taken for "
+             "the marginal heading of a revoked article); this unit holds the Anexo's title lines and its polygon table, which "
+             "Planalto's page prints after the signature"}
+L12351_ANNEX: list[str] = []
+_paragraphsLP = P.paragraphs
+
+
+def paragraphs(html, digits):
+    out, rest = _paragraphsLP(html, digits)
+    if B8.CURRENT_PAGE[0] == "l12351":
+        # the Anexo (pre-salt polygon) after the signature: 'ANEXO', two title rows, a header row and 12 vertex rows
+        ann, row, unit = [], [], None
+        for b in [P.analyse(x) for x in P.blocks_of(html)]:
+            t = b["text"]
+            if unit is None:
+                if t == "ANEXO":
+                    unit = "anexo"
+                    ann.append({**b, "unit": unit, "label": "", "heading": False})
+                continue
+            if not t or t == "*" or re.fullmatch(r"[.;,:\s*]+", t):
+                continue
+            if t in ("POLÍGONO PRÉ-SAL", "COORDENADAS POLICÔNICA/SAD69/MC54"):
+                ann.append({**b, "unit": unit, "label": "", "heading": False})
+                continue
+            row.append(b)
+            if len(row) == 3:
+                ann.append({**row[0], "text": " ".join(x["text"] for x in row), "unit": unit, "label": "", "heading": False})
+                row = []
+        if row:
+            L12351_ANNEX.append(f"unfinished row {[x['text'] for x in row]}")
+        out = out + ann
+        for i, q in enumerate(out):
+            q["i"] = i
+        L12351_ANNEX.append(f"{len(ann)} lines")
+    return out, rest
+
+
+P.paragraphs = B.paragraphs = paragraphs
+_ADI4917_12351 = ("Lei 12.351: STF, ADI 4.917, medida cautelar of 18.3.2013 (the ruling 99-batch10 records for the Lei do Petróleo) "
+                  "names arts. 42-B and 42-C among the provisions whose effects it suspends; those two articles are the ones Lei "
+                  "12.734/2012 added to this Lei (Planalto prints '(Vide ADI 4917)' on art. 42-B). The words are unchanged, so the "
+                  "ruling is recorded as a version on 18.3.2013 that changes no words, credited to those two articles")
+ADI4917_12351_USED: list[str] = []
+
+# part zzo: Lei 8.625/1993 (LONMP) and Lei 14.601/2023 (Bolsa Família)
+_LPBF = "lei-do-programa-bolsa-familia"
+if any(a["slug"] == _LPBF for a in ACTS):
+    EXTRA.append("Lei 14.601: its art. 34 puts arts. 30 and 31, art. 33 I and art. 4 § 3º in force on 1.1.2024 and the rest on "
+                 "publication (20.6.2023): arts. 30 and 31 first show on 1.1.2024, and the § 3º of art. 4 and inciso I of art. 33 "
+                 "start that day, credited to Lei 14.601 (Planalto marks each with a 'Vigência' link).")
+_W14601 = "Lei 14.601 art. 34 I: in force on 1.1.2024"
+B8.SPAN_FIX += [((_LPBF, _u, _l, _t, 0), {"start": "2024-01-01", "start_law": "lei-14601-2023", "by_provision": True}, _W14601)
+                for _u, _l, _t in (("art-04", "§ 3º", "§ 3º O Poder Executivo poderá autorizar o desconto"),
+                                   ("art-33", "I -", "I - os §§ 8º, 9º e 10 do art. 2º da Lei nº 10.779"))]
+B13.OPEN_ITEMS["lei-organica-nacional-do-ministerio-publico"] = (
+    "Lei 8.625 (open items): Planalto's page (capture pinned) carries no amendment note, so the history is the text as enacted; "
+    "'Mensagem de veto' (the vetoed parts) and the regulations strike no words")
+B13.OPEN_ITEMS[_LPBF] = (
+    "Lei 14.601 (open items): the text before 20.6.2023 (Medida Provisória 1.164/2023, of which this Lei is the conversion) is "
+    "not part of the history; the regulations strike no words")
+
 P.build_act = B.build_act = build_act
+_build_actLP = build_act
+
+
+def build_act_lp(paras, act_day, gate, gate_law, unit_label):
+    """Lei 12.351: the ADI 4.917 ruling as a version of 18.3.2013 that changes no words (as 99-batch10 records it for the Lei
+    do Petróleo)."""
+    slug = ACTS[len(B7._act_order)]["slug"] if len(B7._act_order) < len(ACTS) else "?"
+    versions = _build_actLP(paras, act_day, gate, gate_law, unit_label)
+    if slug == _LPART:
+        day = B10.ADI4917_DAY
+        before = [v for v in versions if v["from"] <= day]
+        assert before and before[-1]["from"] < day and not any(v["from"] == day for v in versions)
+        units = before[-1]["units"]
+        cred = {u: ["stf-adi-4917"] for u in ("art-42-b", "art-42-c") if u in units}
+        assert len(cred) == 2
+        versions.insert(len(before), {"from": day, "source_url": before[-1].get("source_url"),
+                                      "sha256": before[-1].get("sha256"), "units": units, "credits": cred})
+        EXTRA.append(_ADI4917_12351 + ".")
+    return versions
+
+
+P.build_act = B.build_act = build_act_lp
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

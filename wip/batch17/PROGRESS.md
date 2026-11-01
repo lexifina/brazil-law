@@ -1424,3 +1424,33 @@ l12351 pinned): read first the fates of MP 1.226/2024 (16 notes), MP 1.291/2025 
 Lei 15.164/2025? Lei 15.269/2025 (= MP 1.304, see part z)) or lapse (Ato Declaratório pinned via iaonly gap) - and Lei 14.981/2024,
 15.164/2025 vigência clauses, before building.
 DATED RE-CHECKS (unchanged): MP 1.382/2026 on or after 29.11.2026; MP 1.370/2026 (and Lei 12.871) once archived after 30.10.2026.
+
+## Twenty-third session (2026-11-01): DL 200/1967, then Lei 12.351/2010
+robots.txt read at start (web.archive.org 404; archive.org Disallows /control/ /report/ only). Fetching: archive.org only, through
+the shared client (iaonly.py laws/missing, cdxlist). Scratch: .gitlaw-scratch/brazil-b23 (cfg*.py edits, trial parses, page dumps,
+tools/dbgvi.py = traces which build_act wrapper drops a line).
+
+### 99-batch17zzm - PUBLISHed: Decreto-Lei 200/1967 (decreto-lei-200-de-1967, DL200, 22 versions 1967-03-15 .. 1998-05-18)
+- No real compilado capture (del0200compilado: all ~3 KB bot pages) -> own page is the consolidated page. `iaonly.py laws` 31 new pins;
+  law:dl-900-1968 (misprinted key) REMOVED from sources_batch17.json after the NOTE_FIX (headyear flagged it).
+- Act dict center_headings False (h4/h5 headings); paragraphs wrapper (page del0200, after the zzh one): 'SEçãO' -> 'SEÇÃO' in the
+  html; heading blocks starting 'SETOR '/'MINISTÉRIO ' go back into the article above (arts. 35, 39); bare 'Vide ...' tails dropped
+  (_VIDE_TAIL); arts. 97/161 'Expressão substituída pelo DL 900' -> struck 1967 line read back from DL 900 art. 7 + new line with a
+  'Redação dada' note (_DL200_SWAP). SPAN_FIX keep x4 art-039 VI lines (stale_fix twin rule dropped them); TEXT_FIX art. 39 ':,'.
+- Hand: NOTE_FIX 'Decreto-Lei nº 900, de 1968' x35; VIGENCIA_FIXED dl-991-1969 30.10.1969. OPEN_ITEMS (art. 113, rectifications,
+  Vide). Amenders all on publication except DL 991 / Lei 7.232 (60 days).
+- pipe.sh zzm (brazil-b23/zzm-pipe2.out): sha 257059c9 x2, 0 moves; benign flags listed in the PUBLISH. Final merged build
+  (final23-build.log): 243 acts, 3487 versions, 2551 commits, check 0/0, compare identical, audit clean. README row + jurisdiction.json
+  (rows-zzm.json). reparse zzl/zzh equal (zzh sources counter only).
+
+### 99-batch17zzn - PUBLISHed: Lei 12.351/2010 (lei-da-partilha-de-producao, LPartilha, 17 versions 2010-12-23 .. 2026-01-01 + 2031 futuro)
+- MP fates (read first): MP 592/2012 lapse 13.5.2013 (batch10's shared MP_LAPSE); MP 1.226/2024 REVOKED by Lei 14.981/2024 art. 29 III
+  (DOU 23.9.2024) -> P.MP_PENDING fate text (no generic 'revoked MP' fate exists); MP 1.291 -> Lei 15.164; MP 1.304 -> Lei 15.269.
+- Block `_LPART` (end of parse_batch17, before SRC): PROMULGATED[_LPART] (Lei 12.734 vetoed parts, 15.3.2013), SPAN_FIX art-49 (IV, §
+  1º + quoted 9.478 lines end 15.3.2013), art-58 § 5º (Lei 15.164), art-60-a (start 1.1.2026, end 1.1.2031 'term'), art-42-b II f)
+  (start 30.11.2012 + MP 592 gap); B8.EXTRA_LAWS stf-adi-4917 = 99-batch10's record word for word; build_act_lp() (new outer
+  build_act wrapper) inserts the ADI 4.917 no-words version 18.3.2013 for art-42-b/42-c; paragraphs wrapper appends the Anexo
+  (polygon table, one line per row); B.EXPLAINED anexo.
+- pipe.sh zzn (brazil-b23/zzn-pipe1.out): sha bd5d025e x2 (eff 04c547fb), 0 moves; benign flags in the PUBLISH. Final merged build
+  (final23c-build.log, after rows-zzn.json docs + README futuro lines): 244 acts, 3504 versions, 2560 commits, check 0/0, compare
+  identical, audit clean.
