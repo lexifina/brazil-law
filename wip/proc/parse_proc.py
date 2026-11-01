@@ -411,7 +411,7 @@ def page_info(key: str) -> dict:
     num = key.split("-")[1]
     m = None
     for mm in re.finditer(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI|DECRETO LEI)[^,]{0,40}?N\s*[º°O]?\s*\.?\s*([\d.]+)(?:-?([A-Z]))?(?:-\d+)?\s*,?\s*"
-                          r"DE\s+(\d{1,2})\s*[º°o]?\s+(?:DE\s+)?(\w+)\s+DE\s+(\d{4})", head, re.I):
+                          r"(?:DE\s+)?(\d{1,2})\s*[º°o]?\s+(?:DE\s+)?(\w+)\s+DE\s+(\d{4})", head, re.I):   # 'Nº 188, 31 DE DEZEMBRO DE 2021' (no DE)
         if str(int(mm.group(1).replace(".", "") or 0)) + (mm.group(2) or "").lower() == num.lstrip("0") or                 str(int(mm.group(1).replace(".", "") or 0)) == num.rstrip("abcdefghijklmnopqrstuvwxyz"):
             m = mm
             break

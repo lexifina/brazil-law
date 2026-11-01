@@ -99,7 +99,7 @@ def ementa_more(after: str) -> str:
     and the formula, the formula in other forms (_FORMULA_MORE), an ementa longer than the old window. An ementa a later
     act rewrote is printed twice, the enacted wording first, then the new one with its '(Redação dada pela ...)' note:
     the law's title is the enacted wording (its first sentence), as other parts already give it."""
-    text = _lead_more(after)
+    text = _lead_more(after.lstrip(" ."))       # the heading's own full stop ('DE 1966. Altera ...')
     f = _FORMULA_MORE.search(text)
     if not f:
         return ""
