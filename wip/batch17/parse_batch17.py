@@ -1254,6 +1254,14 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "dispositivos das Leis nºs 10.865, de 30 de abril de 2004, 10.925, de 23 de julho de 2004, 12.546, de 14 de "
                          "dezembro de 2011, e 4.870, de 1º de dezembro de 1965; e dá outras providências.", "2013-10-09", "2013-10-10",
                          "_Ato2011-2014/2013/Lei/L12865.htm"),
+    # as 99-batch10 has the record
+    "lei-9966-2000": _L("Lei nº 9.966, de 2000", "Dispõe sobre a prevenção, o controle e a fiscalização da poluição causada por "
+                        "lançamento de óleo e outras substâncias nocivas ou perigosas em águas sob jurisdição nacional e dá outras "
+                        "providências.", "2000-04-28", "2000-04-29", "leis/L9966.htm"),
+    "lei-11959-2009": _L("Lei nº 11.959, de 2009", "Dispõe sobre a Política Nacional de Desenvolvimento Sustentável da Aquicultura "
+                         "e da Pesca, regula as atividades pesqueiras, revoga a Lei n o 7.679, de 23 de novembro de 1988, e "
+                         "dispositivos do Decreto-Lei n o 221, de 28 de fevereiro de 1967, e dá outras providências.",
+                         "2009-06-29", "2009-06-30", "_Ato2007-2010/2009/Lei/L11959.htm"),
     # as 99-batch10, 17u and 17z have the record
     "lei-10848-2004": _L("Lei nº 10.848, de 2004", "Dispõe sobre a comercialização de energia elétrica, altera as Leis nºs 5.655, "
                          "de 20 de maio de 1971, 8.631, de 4 de março de 1993, 9.074, de 7 de julho de 1995, 9.427, de 26 de "
