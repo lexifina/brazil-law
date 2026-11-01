@@ -278,6 +278,9 @@ PAGES.update({
     "l10887": "_ato2004-2006/2004/lei/l10.887.htm",
     # thirty-sixth session: consórcio system
     "l11795": "_ato2007-2010/2008/lei/l11795.htm",
+    "l12682": "_ato2011-2014/2012/lei/l12682.htm",
+    "l6383": "leis/l6383.htm",
+    "l10711": "leis/2003/l10.711.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)

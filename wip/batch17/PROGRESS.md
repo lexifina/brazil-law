@@ -2337,3 +2337,24 @@ NEXT: ranked list from Lei 11.795/2008, then 12.682/2012, 6.383/1976, 10.711/200
 Rule learnt: read an STF ruling's own dispositive text (stf.jus.br/arquivo PDFs via archive.org) for its scope before
 modelling a suspension; the Câmara news gives the date only.
 OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff.
+
+## Thirty-sixth session (2026-11-01): ranked list from Lei 11.795/2008, one act per part (zzzs, ...)
+Claim: scripts/world-law/claims/brazil-law.txt taken at the start (release at the end). Scratch: .gitlaw-scratch/brazil-b36
+(before/ = parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json, dupsame_allow.json, README,
+jurisdiction.json before the session; logs/; tools/ = b35's). robots.txt read at start (archive.org: Disallow /control/
+/report/; web.archive.org 404; b36/robots). Coordinator rule confirmed: a change an STF ruling suspends before its own
+effect day never takes effect (no version, a decision line); MP 805 in Lei 10.887 kept as built.
+### 99-batch17zzzs - PUBLISHed: Lei 11.795/2008 (lei-do-sistema-de-consorcios, LSCons, 4 versions 2009-02-06 .. 2017-11-14)
+- Pin `iaonly.py pages` (l11795 = _ato2007-2010/2008/lei/l11795.htm, archive.org); `laws` 2 linked, 0 new; act-scoped
+  `missing` 0. ACT_DAY 6.2.2009 (art. 49: 120 days after DOU 9.10.2008); ACT_LAWS new record lei-11795-2008.
+- Block '# part zzzs': SPAN_FIX _W42_784 (MP 784 art. 52 caput only, '(NR)' no dotted line -> art. 42 I-VIII + p.u. absent
+  8.6-19.10.2017; Planalto's second copies printed after the MP caput start 20.10.2017, were dated from 2009 = overlap),
+  _W784_REV (MP 784 art. 57 I h) revoked art. 7 IV, 43, 44 on 8.6.2017: gap to 20.10.2017); Lei 13.506 art. 63 + 71 XIV
+  (14.11.2017) read on its page. MP_LAPSE mp-784-2017 already shared (batch7, Ato CN 56/2017). OPEN_ITEMS (Lei 13.506
+  art. 64 not shown).
+- pipe.sh zzzs (b36/logs/zzzs-pipe1.out): ebfdfa2a x2, 0 problems, leakcheck 9 = Lei 13.506's '(revogado)' incisos as
+  printed, every other check 0, uniqlaws 0, dupsame 0; merged 288 acts, 3866 versions, 2715 commits, check 0/0, compare
+  identical, audit clean main + futuro. Installed; README row + jurisdiction.json (288 acts, 3866 versions).
+- PIDs (mine, all exited): pages 39548, laws 51928, missing 15532, trial 38552/42724, spans 38676, pipe PIDs in
+  zzzs-pipe1.out (43264, 46568, 35520, 54604, 41840, 45544, 15684). One stray background grep (regex backtracking) stopped by
+  its own task id.
