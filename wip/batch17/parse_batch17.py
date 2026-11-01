@@ -634,6 +634,9 @@ ALL_ACTS: list[dict] = [
          "Transação resolutiva de litígio tributário e da dívida ativa (Lei nº 13.988, de 14 de abril de 2020)", 2),
     _act("lei-10887-de-2004", "L10887", "l10887", "l10887", "lei-10887-2004",
          "Aplicação da Emenda Constitucional nº 41 aos regimes próprios de previdência (Lei nº 10.887, de 18 de junho de 2004)", 2),
+    # thirty-fifth session
+    _act("lei-12990-de-2014", "L12990", "l12990-2025", "l12990-2025", "lei-12990-2014",
+         "Reserva aos negros de vagas em concursos públicos federais (Lei nº 12.990, de 9 de junho de 2014)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -750,6 +753,8 @@ PARTS: dict[str, list[str]] = {
     "zzzo": ["lei-das-assinaturas-eletronicas"],
     "zzzp": ["lei-da-transacao-tributaria"],
     "zzzq": ["lei-10887-de-2004"],
+    # thirty-fifth session
+    "zzzr": ["lei-12990-de-2014"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1036,6 +1041,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-13089-2015": ("2015-01-13", "Lei 13.089/2015 art. 25: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
                                      "13.1.2015)"),
     "lei-11952-2009": ("2009-06-26", f"Lei 11.952/2009 art. 41: {_PUB} (DOU 26.6.2009)"),
+    "lei-12990-2014": ("2014-06-10", "Lei 12.990/2014 art. 6: 'Esta Lei entra em vigor na data de sua publicação e terá "
+                                     "vigência pelo prazo de 10 (dez) anos' (DOU 10.6.2014)"),
     "lei-10887-2004": ("2004-06-21", "Lei 10.887/2004 art. 17: 'Esta Lei entra em vigor na data de sua publicação' (DOU 21.6.2004)"),
     "lei-13988-2020": ("2020-04-14", "Lei 13.988/2020 art. 30: 'Esta Lei entra em vigor: I - em 120 (cento e vinte) dias "
                                      "contados da data da sua publicação, em relação ao inciso I do caput e ao parágrafo único do "
@@ -1610,6 +1617,10 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "situadas em áreas da União, no âmbito da Amazônia Legal; altera as Leis n os 8.666, de 21 de junho de "
                          "1993, e 6.015, de 31 de dezembro de 1973; e dá outras providências.", "2009-06-25", "2009-06-26",
                          "_Ato2007-2010/2009/Lei/L11952.htm"),
+    "lei-12990-2014": _L("Lei nº 12.990, de 2014", "Reserva aos negros 20% (vinte por cento) das vagas oferecidas nos concursos "
+                         "públicos para provimento de cargos efetivos e empregos públicos no âmbito da administração pública "
+                         "federal, das autarquias, das fundações públicas, das empresas públicas e das sociedades de economia mista "
+                         "controladas pela União.", "2014-06-09", "2014-06-10", PAGES["l12990"]),
     # the record 99-batch15a has
     "lei-10887-2004": _L("Lei nº 10.887, de 2004", "Dispõe sobre a aplicação de disposições da Emenda Constitucional nº 41, de 19 de "
                          "dezembro de 2003, altera dispositivos das Leis nºs 9.717, de 27 de novembro de 1998, 8.213, de 24 de julho "
@@ -6980,6 +6991,38 @@ B13.OPEN_ITEMS[_LTRANST] = (
     "Lei 13.988 (open items): it is the conversion of Medida Provisória 899/2019, whose text is not modelled (the history "
     "starts with the Lei, in force on publication, 14.4.2020, except art. 23 I and parágrafo único, from 12.8.2020); 'Vide "
     "Lei Complementar nº 214, de 2025' strikes no words and is not modelled; the page's navigation links are left out")
+
+# part zzzr (thirty-fifth session): Lei 12.990/2014 (reserva de vagas aos negros em concursos públicos federais). Hand items set
+# only when the act runs. Coordinator decision (2026-11-01): the STF's medida cautelar in ADI 7.654 kept the Lei in force past
+# art. 6's ten-year term, so the history has no lapse at the term's end; it ends with the repeal by Lei 15.142/2025.
+_L12990 = "lei-12990-de-2014"
+_T15142 = ("Reserva às pessoas pretas e pardas, indígenas e quilombolas o percentual de 30% (trinta por cento) das vagas oferecidas "
+           "nos concursos públicos para provimento de cargos efetivos e empregos públicos no âmbito da administração pública "
+           "federal direta, das autarquias, das fundações públicas, das empresas públicas e das sociedades de economia mista "
+           "controladas pela União e nos processos seletivos simplificados para o recrutamento de pessoal nas hipóteses de "
+           "contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público para os "
+           "órgãos da administração pública federal direta, as autarquias e as fundações públicas; e revoga a Lei nº 12.990, de 9 "
+           "de junho de 2014.")
+if any(a["slug"] == _L12990 for a in ACTS):
+    B8.EXTRA_LAWS["lei-15142-2025"] = {
+        "label": "Lei nº 15.142, de 2025", "kind": "law", "title": _T15142, "enacted": "2025-06-03", "published": "2025-06-04",
+        "url": PL + PAGES["l15142"], "temporary_until": None, "restores": None, "note": None}
+    B9.REPEALS[_L12990] = (
+        "2025-06-04", "lei-15142-2025",
+        "Lei 12.990/2014 was repealed as a whole by Lei 15.142/2025 art. 13 ('Fica revogada a Lei nº 12.990, de 9 de junho de "
+        "2014, ressalvado o disposto no art. 11 desta Lei'; art. 11 keeps it for the concursos whose editais were published "
+        "before), in force on publication (art. 14; DOU 4.6.2025), so its last version, on 4.6.2025, removes every provision, "
+        "credited to Lei 15.142/2025. After the repeal Planalto marks the page 'Revogada pela Lei nº 15.142, de 2025' and "
+        "strikes only some of its lines, so the page is read from a capture of 31.5.2025, before the repeal, and the history up "
+        "to 3.6.2025 is checked against that capture's text")
+    EXTRA.append("Lei 12.990/2014 art. 6: 'Esta Lei entra em vigor na data de sua publicação e terá vigência pelo prazo de 10 (dez) "
+                 "anos' (DOU 10.6.2014), a term that would have ended in June 2024; the Supremo Tribunal Federal's medida cautelar "
+                 "in ADI 7.654 (Planalto notes 'Vide ADI 7654' on art. 6) kept the Lei in force past that term until a new law, "
+                 "so the history has no version ending it at the term; it ends with the repeal by Lei 15.142/2025 on 4.6.2025.")
+B13.OPEN_ITEMS[_L12990] = (
+    "Lei 12.990 (open items): the ruling in ADI 7.654 changes no words and is not a version; Lei 15.142/2025 art. 11 keeps "
+    "Lei 12.990 for the concursos whose editais were published before 4.6.2025, which the history, ending with the repeal, does "
+    "not show")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
