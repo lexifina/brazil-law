@@ -9,7 +9,9 @@ Found on Planalto's pages (each checked against the page; all are the law's own 
 - 'O presente Decreto-Lei entra em vigor, na data de sua publicação' (subject 'O presente', comma before the day):
   Decreto-Lei 57/1966;
 - 'Esta Lei, que será regulamentada no prazo de 180 (cento e oitenta) dias, entrará em vigor na data de sua publicação'
-  (a relative clause between subject and verb): Lei 6.181/1974.
+  (a relative clause between subject and verb): Lei 6.181/1974;
+- 'O presente Decreto-lei entrará em vigor à data de sua publicação': read as 'na data', as the CLT reader already did
+  (none of the laws so printed is dated by the other readers in any part).
 
 clause_rx(rx) widens a reader's clause pattern by these forms (an alternation: everything the old pattern matched it
 still matches); standard(clause) rewrites them to the standard wording before the day is read from the clause.
@@ -29,4 +31,5 @@ def clause_rx(rx: str) -> str:
 def standard(clause: str) -> str:
     c = re.sub(r"\bentre(\s+em\s+vigor)", r"entra\1", clause, flags=re.I)
     c = re.sub(r"\b(entra(?:r[áa])?)\s+vigor\b", r"\1 em vigor", c, flags=re.I)
+    c = re.sub(r"(\bem\s+vigor)\s+[àa]\s+(data\s+d[ae]\s+sua\s+publica)", r"\1 na \2", c, flags=re.I)
     return re.sub(r"(\bem\s+vigor)\s*,\s*(na\s+data\b)", r"\1 \2", c, flags=re.I)
