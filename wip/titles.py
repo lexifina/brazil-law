@@ -53,3 +53,32 @@ def strip_links(text: str) -> str:
         if not m or not m.group(0).strip():
             return text.lstrip()
         text = text[m.end():]
+
+
+# The ementa: the text after the heading (and its links) up to the enacting formula. The readers took it only when it
+# ended with a full stop right before 'O PRESIDENTE ...'; _OLD is that reading, kept first so every title it gave is
+# unchanged. ementa_more() reads the layouts it missed (below).
+_FORMULA = r"(?:O\s+PRESIDENTE|O\s+VICE|A\s+PRESIDENTA|O\s+CONGRESSO|Fa[çc]o saber)"
+_OLD = re.compile(r"(.*?\.)\s*" + _FORMULA, re.S)
+
+
+def ementa_old(after: str) -> str:
+    em = _OLD.match(after)
+    return em.group(1).strip() if em else ""
+
+
+def ementa_more(after: str) -> str:
+    """Layouts the old reading missed; '' when none fits."""
+    return ""
+
+
+def ementa(after: str) -> str:
+    t = ementa_old(after)
+    if not t:
+        t = ementa_more(after)
+        import os
+        if os.environ.get("TITLES_DUMP"):
+            import json
+            with open(os.environ["TITLES_DUMP"], "a", encoding="utf-8") as f:
+                f.write(json.dumps({"after": after, "title": t}, ensure_ascii=False) + "\n")
+    return t

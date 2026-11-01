@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-01 (batch 17, sixteenth session: wording fixes re-PUBLISHed in 14 parts (zd LC 166 art. 7, batch7 LC 200 title, shared provision-day decisions); 99-batch17zr PUBLISHed (2 acts, 7 versions); merged 211 acts, 3323 versions, check 0/0, compare identical, audit clean; nothing running; DATED RE-CHECK of MP 1.382/2026 on or after 29.11.2026; details in batch17/PROGRESS.md)
+CHECKPOINTED 2026-11-01 (batch 17, seventeenth session: law titles fixed at the source - titles.py strip_links in the title readers; 511 law-title entries in 66 parts re-PUBLISHed (298 merged titles), + 13 enacted days (phase2 heading reader, Lei 7.663); merged 211 acts, 3323 versions, 2435 commits, check 0/0, compare identical, audit clean; nothing running; Task 2 candidates NOT started; DATED RE-CHECK of MP 1.382/2026 on or after 29.11.2026; details in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 

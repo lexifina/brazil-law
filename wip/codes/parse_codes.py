@@ -378,8 +378,7 @@ def page_info(key: str) -> dict:
                        r"\(Vide [^)]*\)|Exposi[çc][ãa]o de motivos|Promulga[çc][ãa]o (?:partes )?vetadas?|Rejeitada|Ato declarat[óo]rio[^.]*?\d{4}|"
                        r"Revogad[ao][^.]*?\d{4}|\.|Prorrogada[^.]*?\d{4}))+", "", after, flags=re.I)
         after = titles.strip_links(after)
-        em = re.match(r"(.*?\.)\s*(?:O\s+PRESIDENTE|O\s+VICE|A\s+PRESIDENTA|O\s+CONGRESSO|Fa[çc]o saber)", after, re.S)
-        info["title"] = em.group(1).strip() if em else ""
+        info["title"] = titles.ementa(after)   # the old full-stop reading first, then the layouts it missed
     conv = re.search(r"Convertid[ao]\s+n[ao]\s+Lei\s+n[º°]?\s*([\d.]+)\s*,?\s*de\s+(?:\d{1,2}[./]\d{1,2}[./])?(\d{4})", head, re.I)
     if conv:
         info["converted"] = f"lei-{int(conv.group(1).replace('.', ''))}-{conv.group(2)}"

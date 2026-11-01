@@ -987,6 +987,47 @@ candidates (`iaonly.py pages`, 10: l11738, l12009, l6996, l9870, l12379, l6437 +
 - Noticed, not changed (published, first by file name in the merged build): 90-batch3's lei-7663-1988 has enacted 1988-06-27
   (same heading slip); 80-proc's lei-9870-1999 title starts '-67, de 1999 Dispõe ...' (MP 1.890-67 conversion link text).
 
+## Seventeenth session (2026-11-01): law titles fixed at the source (coordinator-approved Task 1)
+- New shared module brazil-law/titles.py: strip_links(text) removes, one after another, the link lines Planalto prints between
+  a law's heading and its ementa ('(Promulgação partes vetadas)' and variants, 'Vide ...' (acts, ADIN lists, RSF, Ato
+  Declaratório), 'Conversão da MPv/Medida Provisória nº N-NN, de Y', 'Convertida na/da Lei ...', 'Mensagem de veto [nº N]',
+  'Vigência [encerrada | e produção de efeitos]', 'Regulamento[: Decreto nº ...]', 'Produção de efeito(s)', 'Exposição de
+  motivos', 'Texto para impressão' (and 'Teto'/'de' typos), 'Revogada/Reeditada/Prorrogada pela ...', 'Prejudicada',
+  'Rejeitada', 'Partes promulgadas pelo Congresso Nacional', any parenthesised link, a stray '-67, de 1999' tail). Called in
+  the four title readers (parse_proc, parse_codes, parse_phase2, parse_clt page_info) on the raw text after the heading and
+  again after the older regex (which left remnants such as 'nº 730 Vigência', ') Texto para impressão', '1.977, de 2009').
+- parse_phase2 heading regex now allows 'LEI N o 2.505' (space before the o): 12 laws had the first cited law's date as
+  enacted (Lei 10.028/2000 '1950-04-10', Lei 2.505/1955 '1940-12-07', ...) or none; 10 had empty titles. Fixed (enacted + title).
+- batch3 write_part: Lei 7.663/1988 enacted 27.5.1988 + the same decision line part zr has (only when the Código Eleitoral is
+  among the acts, i.e. batch 3's own part). 80-proc's Lei 9.870 title fixed by the filter.
+- Method (scratch .gitlaw-scratch/brazil-b17/t2): regen.py (all 66 parts, one at a time via run.py; old parsers through
+  runp.py, which redirects OUT; children inherit BelowNormal), runp.py --off (strip_links = identity) for the 50 parts whose
+  fresh parse already differs from the installed file (pre-existing drift: acts/decisions/sources of 50-codes, 60-phase2,
+  70-clt, 80-proc, 90-batch3, 95-rju, 97-batch4, 13a/c/d/f/g, 14a/b/c, 16b, 17q, and pin counts in sources notes of most 17x
+  parts), splice2.py (installs into the installed file only the off->on difference, refusing anything but titles + the
+  allowed enacted/decision; asserts the installed value equals the 'off' value), cmp2.py, chk.py (8 file checks before/after:
+  identical except pubgap, which no longer flags the corrected dates in 60-phase2 / 90-batch3). Previous files: t2/before/.
+- 99-batch17q: the current parser no longer reproduces its law list (lei-13988-2020, lei-14689-2023, mp-1160-2023-fim
+  missing from a fresh parse; mp-1160-2023.temporary_until lost). Its Lei 14.689 title was fixed by applying strip_links to the
+  installed title (equals 99-batch11's). NOT investigated further: re-check part q's hand block before any re-parse of q.
+- Result: 511 law-title entries changed in 66 parts (each PUBLISH appended), 298 merged titles (54 '(Promulgação partes
+  vetadas)', 98 'Conversão ...', 35 'Texto ...', 29 'Vide ...', 10 empty, rest other links), 13 merged enacted days. Final
+  re-parse of all 66 with the final code: only the spliced titles differ. Merged scratch build 211 acts, 3323 versions, 2435
+  commits, check 0/0, --compare identical, audit_push clean (t2/build2.log); built history has no link text in any message.
+- Not settled (not link text, left): 138 merged laws still have EMPTY titles (the reader needs a full stop before 'O
+  PRESIDENTE'; e.g. lei-10741-2003 empty in 60-phase2 (first by name) though 99-batch7 has it); 3 laws whose parts differ only
+  by capture typography or a hand-abbreviated '[...]' title (lei-13848-2019 in 17x, lei-14119-2021 in 17zp, lei-11977-2009 in
+  17m; merged titles correct); page-garbled ementas kept as printed ('I nstitui', lc-155 in 16f).
+- batch7's __main__ TITLE_FIXED wrapper for lc-200-2023 is now redundant (harmless).
+- Task 2 (Lei 12.379/2011, Lei 6.437/1977, Lei 13.005/2014, LC 159/2017, LC 178/2021) NOT started (context). Pages pinned in
+  the sixteenth session; LC 159/178 law keys exist in 99-batch7 (keep ACT_LAWS titles identical).
+- PIDs (all mine, all exited; printed by run.py / regen.py in t2/regen-*.log, chk*.log, build*.log). Nothing running.
+
+## State at handoff (batch 17, seventeenth session, 2026-11-01)
+Task 1 done (above). Merged 211 acts, 3323 versions, 2435 commits, check 0/0, --compare identical, audit clean. Nothing running.
+DATED RE-CHECK (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026 - not before. Next: Task 2 candidates (sixteenth-session
+list below); 17q reproducibility; empty titles (decision: they change commit messages).
+
 ## State at handoff (batch 17, sixteenth session, 2026-11-01)
 Task 1 done (zd art. 7; batch7 LC 200 title; shared provision-day decisions) with 14 parts re-PUBLISHed (decision/title wording
 only). Part zr installed with .PUBLISH. Merged 211 acts, 3323 versions, 2435 commits, check 0/0, --compare identical, audit clean.
