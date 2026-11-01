@@ -690,5 +690,68 @@ if not SRC.exists():
 B5.SRC = SRC
 B5.PIN_FILES = B5.PIN_FILES + [SRC]
 
+# A Medida Provisória's wording its conversion law did not keep: the rule of ../batch17/parse_batch17.py (CONV_RESTORE),
+# for this batch's parts. Planalto prints, after the MP's struck wording, the wording the MP replaced a second time, struck,
+# and then a later law's wording; the reader ends the MP's wording at that later law. The MP's wording ends on the conversion
+# law's in-force day and the repeated wording stands from that day to the later law. Installed only when this file writes a
+# part (batch 17 imports this module and has its own copy of the rule). Found by the 26th batch-17 session's survey.
+CONV_RESTORE16: dict[str, dict[str, str]] = {_FGTS: {"mp-680-2015": "lei-13189-2015"}}
+CONV_WHY16 = {_FGTS: ("Medida Provisória 680/2015, converted into Lei 13.189/2015 (DOU 20.11.2015, in force on publication, "
+                      "art. 12), which does not give art. 15 a new wording (its art. 9 only says the PPE's compensação "
+                      "pecuniária counts for art. 15) and so keeps none of the MP's wording of art. 15")}
+
+
+def _conv_restore16(paras, cx):
+    out = []
+    for i, m in enumerate(paras):
+        if m["heading"] or m["state"] == "plain" or m.get("skip") or not (m["start_law"] or "").startswith("mp-"):
+            continue
+        fate = cx.mp.get(m["start_law"]) or {}
+        c_day, c_law = fate.get("converted_on"), fate.get("converted")
+        a, r = P.predecessor(paras, i), P.successor(paras, i)
+        if not c_day or a is None or r is None:
+            continue
+        A, R = paras[a], paras[r]
+        if R["state"] == "plain" or R.get("skip") or R["text"] != A["text"] or not R.get("end") or not c_day < R["end"]:
+            continue
+        out.append((m, R, A, c_day, c_law))
+    return out
+
+
+def _install_conv_restore16():
+    inner = P.lifespans
+
+    def lifespans(paras, cx):
+        problems = inner(paras, cx)
+        want = CONV_RESTORE16.get(cx.act)
+        if not want:
+            return problems
+        found = _conv_restore16(paras, cx)
+        assert {m["start_law"] for m, *_ in found} <= set(want), found
+        for m, R, A, c_day, c_law in found:
+            assert want[m["start_law"]] == c_law and A.get("end") == m["start"], (m, A)
+            for p, fields in ((m, {"end": c_day, "end_law": c_law, "end_how": "conversion"}),
+                              (R, {"start": c_day, "start_law": c_law, "restored": True})):
+                hits = [q for q in paras if q["unit"] == p["unit"] and q["label"] == p["label"] and not q["heading"]
+                        and B8._norm(q["text"]).startswith(B8._norm(p["text"]))]
+                p.update(fields)
+                p["pinned"] = True
+                B8.SPAN_FIX.append(((cx.act, p["unit"], p["label"], p["text"], hits.index(p)), fields,
+                                    "the conversion rule (CONV_RESTORE16)"))
+            key = f"ends before it starts: {R['unit']} [{R['label']}] "
+            problems = [x for x in problems if not x.startswith(key)]
+        if found:
+            EXTRA.append(
+                "Wordings of a Medida Provisória its conversion law did not keep (rule, not hand dates): where Planalto "
+                "prints, after the MP's struck wording, the wording the MP replaced a second time, struck, before a later "
+                "law's wording, the MP's wording ends on the conversion law's in-force day and the earlier wording is in "
+                "force again from that day until the later law; here " + CONV_WHY16[cx.act] + ": " + "; ".join(
+                    f"{m['unit']} [{m['label']}] ({m['start_law']}, ends {c_day}, {c_law}; the earlier wording again until "
+                    f"{R['end']}, {R['end_law']})" for m, R, A, c_day, c_law in found) + ".")
+        return problems
+    P.lifespans = B.lifespans = lifespans
+
+
 if __name__ == "__main__":
+    _install_conv_restore16()
     sys.exit(P.main(sys.argv[1:]))

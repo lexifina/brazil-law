@@ -952,11 +952,12 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "termos do art. 37, inciso XXI, da Constituição Federal, modalidade de licitação denominada pregão, para "
                          "aquisição de bens e serviços comuns, e dá outras providências.", "2002-07-17", "2002-07-18",
                          PAGES["l10520"]),
+    # same record as parts z and zzr (the form most parts use: their URL case and 'nº s'), so every part agrees
     "lei-12783-2013": _L("Lei nº 12.783, de 2013", "Dispõe sobre as concessões de geração, transmissão e distribuição de energia "
-                         "elétrica, sobre a redução dos encargos setoriais e sobre a modicidade tarifária; altera as Leis nºs "
+                         "elétrica, sobre a redução dos encargos setoriais e sobre a modicidade tarifária; altera as Leis nº s "
                          "10.438, de 26 de abril de 2002, 12.111, de 9 de dezembro de 2009, 9.648, de 27 de maio de 1998, 9.427, de "
                          "26 de dezembro de 1996, e 10.848, de 15 de março de 2004; revoga dispositivo da Lei nº 8.631, de 4 de "
-                         "março de 1993; e dá outras providências.", "2013-01-11", "2013-01-14", PAGES["l12783"]),
+                         "março de 1993; e dá outras providências.", "2013-01-11", "2013-01-14", "_Ato2011-2014/2013/Lei/L12783.htm"),
     "lei-12815-2013": _L("Lei nº 12.815, de 2013", "Dispõe sobre a exploração direta e indireta pela União de portos e "
                          "instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários; altera as Leis "
                          "nºs 5.025, de 10 de junho de 1966, 10.233, de 5 de junho de 2001, 10.683, de 28 de maio de 2003, 9.719, de "
@@ -5515,12 +5516,21 @@ if any(a["slug"] == _LCEE for a in ACTS):
 # conversion law read and named): the MP's wording ends on the conversion law's in-force day, and the copy (same words as the
 # wording before the MP's) stands from that day to the later law. Checked against the hand entries of parts z (Lei 9.427)
 # and u (Lei 9.074): BATCH17_CONV_REPORT=1 prints, for any act, every place the rule finds and the days it would give.
-CONV_RESTORE: dict[str, dict[str, str]] = {_LCEE: {"mp-1300-2025": "lei-15235-2025"}, _L9074: {"mp-1300-2025": "lei-15235-2025"}}
-_WCONV = ("Wordings of a Medida Provisória its conversion law did not keep (rule, not hand dates): where Planalto prints, "
-          "after the MP's struck wording, the wording the MP replaced a second time, struck, before a later law's wording, the "
-          "MP's wording ends on the conversion law's in-force day and the earlier wording is in force again from that day "
-          "until the later law; here Medida Provisória 1.300/2025, converted into Lei 15.235/2025 (in force on publication, "
-          "9.10.2025), which keeps none of the MP's changes to this Lei (its art. 4 for Lei 10.848, its art. 1 for Lei 9.074)")
+# Survey of every published part with MP records (26th session, report mode): besides z, u and zzr the rule finds Lei 10.973
+# art. 2 V (part zw, MP 495/2010 -> Lei 12.349/2010) and Lei 8.036 art. 15 (part 16b; the same rule in parse_batch16's
+# __main__ block); every other place it finds is already dated so.
+CONV_RESTORE: dict[str, dict[str, str]] = {_LCEE: {"mp-1300-2025": "lei-15235-2025"}, _L9074: {"mp-1300-2025": "lei-15235-2025"},
+                                           _LINOV: {"mp-495-2010": "lei-12349-2010"}}
+_WCONV_RULE = ("Wordings of a Medida Provisória its conversion law did not keep (rule, not hand dates): where Planalto prints, "
+               "after the MP's struck wording, the wording the MP replaced a second time, struck, before a later law's wording, "
+               "the MP's wording ends on the conversion law's in-force day and the earlier wording is in force again from that "
+               "day until the later law; here ")
+_W1300 = ("Medida Provisória 1.300/2025, converted into Lei 15.235/2025 (in force on publication, 9.10.2025), which keeps none "
+          "of the MP's changes to this Lei (its art. 4 for Lei 10.848, its art. 1 for Lei 9.074)")
+CONV_WHY: dict[str, str] = {
+    _LCEE: _W1300, _L9074: _W1300,
+    _LINOV: ("Medida Provisória 495/2010, converted into Lei 12.349/2010 (DOU 16.12.2010, in force on publication, art. 8), "
+             "whose art. 5 changes only art. 2 VII and art. 27 IV of this Lei and keeps none of the MP's wording of art. 2 V")}
 CONV_RESTORED: list[str] = []
 _lifespans17r = P.lifespans
 
@@ -5568,7 +5578,7 @@ def lifespans(paras, cx):
             key = f"ends before it starts: {R['unit']} [{R['label']}] "
             problems = [x for x in problems if not x.startswith(key)]
         if found:
-            EXTRA.append(_WCONV + ": " + "; ".join(f"{m['unit']} [{m['label']}] ({m['start_law']}, ends {c_day}, "
+            EXTRA.append(_WCONV_RULE + CONV_WHY[cx.act] + ": " + "; ".join(f"{m['unit']} [{m['label']}] ({m['start_law']}, ends {c_day}, "
                                                       f"{c_law}; the earlier wording again until {R['end']}, {R['end_law']})"
                                                       for m, R, A, c_day, c_law in found) + ".")
     return problems
