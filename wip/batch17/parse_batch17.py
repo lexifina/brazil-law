@@ -264,6 +264,9 @@ PAGES.update({
     "l13089": "_ato2015-2018/2015/lei/l13089.htm",
     # thirty-third session: rural land tax
     "l9393": "leis/l9393.htm",
+    # thirty-fourth session: land regularisation in the Amazônia Legal (Planalto names the consolidated page 'complilado')
+    "l11952": "_ato2007-2010/2009/lei/l11952.htm",
+    "l11952-compilado": "_ato2007-2010/2009/lei/l11952complilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -611,6 +614,9 @@ ALL_ACTS: list[dict] = [
     # thirty-third session
     _act("lei-do-imposto-territorial-rural", "LITR", "l9393", "l9393", "lei-9393-1996",
          "Imposto sobre a Propriedade Territorial Rural - ITR (Lei nº 9.393, de 19 de dezembro de 1996)", 2),
+    # thirty-fourth session
+    _act("lei-da-regularizacao-fundiaria-na-amazonia-legal", "LRFAL", "l11952", "l11952-compilado", "lei-11952-2009",
+         "Regularização fundiária das ocupações em terras da União na Amazônia Legal (Lei nº 11.952, de 25 de junho de 2009)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -721,6 +727,8 @@ PARTS: dict[str, list[str]] = {
     "zzzk": ["estatuto-da-metropole"],
     # thirty-third session
     "zzzl": ["lei-do-imposto-territorial-rural"],
+    # thirty-fourth session
+    "zzzm": ["lei-da-regularizacao-fundiaria-na-amazonia-legal"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1006,6 +1014,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                     "1.1.1997 (as Lei 9.249/1995)"),
     "lei-13089-2015": ("2015-01-13", "Lei 13.089/2015 art. 25: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
                                      "13.1.2015)"),
+    "lei-11952-2009": ("2009-06-26", f"Lei 11.952/2009 art. 41: {_PUB} (DOU 26.6.2009)"),
     "lei-4132-1962": ("1962-12-22", "Lei 4.132/1962 has no vigência clause (art. 6 only revokes contrary provisions): Lei de "
                                     "Introdução (Decreto-Lei 4.657/1942) art. 1, 45 days after its publication (DOU 7.11.1962), "
                                     "22.12.1962"),
@@ -1567,6 +1576,11 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-9393-1996": _L("Lei nº 9.393, de 1996", "Dispõe sobre o Imposto sobre a Propriedade Territorial Rural - ITR, sobre "
                         "pagamento da dívida representada por Títulos da Dívida Agrária e dá outras providências.",
                         "1996-12-19", "1996-12-20", PAGES["l9393"]),
+    # the agreed record (scripts/brazil-law/law_records.json: the page's title without Medida Provisória 910's struck wording)
+    "lei-11952-2009": _L("Lei nº 11.952, de 2009", "Dispõe sobre a regularização fundiária das ocupações incidentes em terras "
+                         "situadas em áreas da União, no âmbito da Amazônia Legal; altera as Leis n os 8.666, de 21 de junho de "
+                         "1993, e 6.015, de 31 de dezembro de 1973; e dá outras providências.", "2009-06-25", "2009-06-26",
+                         "_Ato2007-2010/2009/Lei/L11952.htm"),
     # the record 99-batch7 has
     "lei-13089-2015": _L("Lei nº 13.089, de 2015", "Institui o Estatuto da Metrópole, altera a Lei nº 10.257, de 10 de julho "
                          "de 2001, e dá outras providências.", "2015-01-12", "2015-01-13", "_Ato2015-2018/2015/Lei/L13089.htm"),
@@ -6778,6 +6792,85 @@ if any(a["slug"] == _LITR for a in ACTS):
         "history starts with the Lei, in effect from 1.1.1997, art. 23); its arts. 23-24 (in force 20.12.1996; art. 24 "
         "revokes Lei 8.847/1994's arts. 1-22 and 25) are dated with the rest; 'Regulamento', 'Produção de efeito' and "
         "'Vide' pointers strike no words; the Anexo (table of rates) has no note and stands as enacted")
+
+# part zzzm (thirty-fourth session): Lei 11.952/2009 (regularização fundiária na Amazônia Legal). Hand items set only when the
+# act runs.
+_LRFAL = "lei-da-regularizacao-fundiaria-na-amazonia-legal"
+_W5_910 = ("Lei 11.952 art. 5: Medida Provisória 910/2019 (DOU 11.12.2019) rewrote incisos IV and V, replaced § 1º (with its "
+           "incisos) by a parágrafo único and revoked § 1º; its term ended without conversion (in force to 19.5.2020). Planalto "
+           "prints the MP's struck lines and then incisos IV and V, and § 1º with its incisos, again, unstruck: the earlier "
+           "copies end on 11.12.2019 and the copies printed after the MP stand again from 20.5.2020 (the reader had dated the "
+           "second copies from 2009 and 2017, so those lines read twice)")
+_W5_759 = ("Lei 11.952 art. 5: Medida Provisória 759/2016 (DOU 23.12.2016) turned § 1º into a parágrafo único with incisos I-IV "
+           "and revoked § 2º; its conversion, Lei 13.465/2017 (DOU 12.7.2017), gave the article § 1º with incisos I-IV and "
+           "'§ 2º (Revogado)' again: the 2009 § 1º ends on 23.12.2016 and the MP's parágrafo único stands from 23.12.2016 to "
+           "12.7.2017 (the reader had read it as restored after Medida Provisória 910/2019)")
+_A5_IV = "IV - comprovar o exercício de ocupação e exploração direta, mansa e pacífica, por si ou por seus antecessores, anterior a 22"
+_A5_V = "V - não ter sido beneficiado por programa de reforma agrária ou de regularização fundiária de área rural, ressalvadas as situações admitidas pelo Ministério"
+_A5_P1 = "§ 1º Fica vedada a regularização de ocupações em que o ocupante ou seu cônjuge"
+_A5_INC = (("I -", "I - no Incra;", 1), ("II -", "II - na Secretaria Especial de Agricultura Familiar", 1),
+           ("III -", "III - na Secretaria do Patrimônio da União (SPU)", 0), ("IV -", "IV - nos órgãos estaduais de terras", 1))
+_BACK910 = {"start": "2020-05-20", "start_law": "mp-910-2019-fim", "restored": True, "skip": False}
+_END910 = {"end": "2019-12-11", "end_law": "mp-910-2019", "end_how": "repealed", "gaps": []}
+B8.SPAN_FIX += [
+    ((_LRFAL, "art-05", "IV -", _A5_IV, 1), dict(_BACK910), _W5_910),
+    ((_LRFAL, "art-05", "V -", _A5_V, 1), dict(_BACK910), _W5_910),
+    ((_LRFAL, "art-05", "§ 1º", _A5_P1, 0), dict(_END910), _W5_910),
+    ((_LRFAL, "art-05", "§ 1º", _A5_P1, 1), dict(_BACK910), _W5_910),
+    *[((_LRFAL, "art-05", lab, start, n), dict(_END910), _W5_910) for lab, start, n in _A5_INC],
+    *[((_LRFAL, "art-05", lab, start, n + 1), dict(_BACK910), _W5_910) for lab, start, n in _A5_INC],
+    ((_LRFAL, "art-05", "§ 1º", "§ 1º Fica vedada a regularização de ocupações em que o ocupante, seu cônjuge", 0),
+     {"end": "2016-12-23", "end_law": "mp-759-2016", "end_how": "successor"}, _W5_759),
+    ((_LRFAL, "art-05", "Parágrafo único", "Parágrafo único. Fica vedada a regularização de ocupações em que o ocupante ou o seu", 0),
+     {"start": "2016-12-23", "start_law": "mp-759-2016", "restored": False, "skip": False, "end": "2017-07-12",
+      "end_law": "lei-13465-2017", "end_how": "conversion"}, _W5_759),
+]
+
+_W30_759 = ("Lei 11.952 art. 30: Medida Provisória 759/2016 (DOU 23.12.2016) gave the article a new caput only, closed by '(NR)' "
+            "with no dotted line, so incisos I-IV (with alíneas a-d) and §§ 1º-2º are not in the article during the MP's term (as "
+            "Decreto-Lei 3.365 art. 15-A § 4º under Medida Provisória 700/2015); Lei 13.465/2017, its conversion, prints them as "
+            "'(revogado)' from 12.7.2017. Planalto prints the 2009 lines partly struck and partly not, with no note: they end on "
+            "23.12.2016 (the reader had kept them to 2017 and had left out inciso I)")
+B8.SPAN_FIX += [
+    *[((_LRFAL, "art-30", lab, start, 0), {"end": "2016-12-23", "end_law": "mp-759-2016", "end_how": "successor", "skip": False,
+                                           "gaps": []}, _W30_759)
+      for lab, start in (("I -", "I - alienação gratuita a pessoa natural"), ("a)", "a) possua renda familiar"),
+                         ("b)", "b) ocupe a área de até 1.000"), ("c)", "c) utilize o imóvel"), ("d)", "d) não seja proprietário"),
+                         ("II -", "II - alienação gratuita para órgãos"), ("III -", "III - alienação onerosa"),
+                         ("IV -", "IV - nas situações não abrangidas"), ("§ 1º", "§ 1º No caso previsto no § 2º do art. 21"),
+                         ("§ 2º", "§ 2º O registro decorrente da alienação"))],
+]
+_W19_910 = ("Lei 11.952 art. 19: Planalto prints Lei 13.465/2017's caput, incisos I-II and struck § 1º twice before Medida "
+            "Provisória 910/2019's struck wording (the second copy is left out), and incisos I-II and § 1º once more, unstruck, "
+            "after it. The MP (DOU 11.12.2019) gave the article a caput and § 1º with no dotted line between them, so incisos I-II "
+            "are not in the article during its term; it lapsed (in force to 19.5.2020), so incisos I-II and Lei 13.465's § 1º "
+            "stand again from 20.5.2020 (the reader had dated the last copies from 2017, beside the earlier ones)")
+_A19 = (("I -", "I - as condições de pagamento fixadas nos arts", 2, 3), ("II -", "II - a comprovação do cumprimento das cláusulas", 2, 3),
+        ("§ 1º", "§ 1º O disposto no caput deste artigo", 1, 2))
+B8.SPAN_FIX += [
+    *[((_LRFAL, "art-19", lab, start, dup), {"skip": True}, _W19_910) for lab, start, dup, _n in _A19],
+    *[((_LRFAL, "art-19", lab, start, n), dict(_BACK910), _W19_910) for lab, start, _d, n in _A19],
+    ((_LRFAL, "art-01", "Parágrafo único", "Parágrafo único. Fica vedado beneficiar", 1), dict(_BACK910),
+     "Lei 11.952 art. 1 parágrafo único: absent during Medida Provisória 910/2019's term (its art. 1 has a caput only, closed by "
+     "'(NR)' with no dotted line); the copy Planalto prints after the MP's struck caput stands from 20.5.2020"),
+]
+if any(a["slug"] == _LRFAL for a in ACTS):
+    EXTRA.append("Lei 11.952 art. 1 parágrafo único: Medida Provisória 910/2019 (DOU 11.12.2019) gave art. 1 a new caput closed by "
+                 "'(NR)' with no dotted line, so the parágrafo único is not in the article during the MP's term (to 19.5.2020); "
+                 "Planalto prints it again, unstruck, after the MP's struck caput, so it stands again from 20.5.2020.")
+B.EXPLAINED[_LRFAL] = {
+    "art-01": "check artefact: Planalto's consolidated page (Lei 11.952 'complilado', captured 10.3.2026) leaves out art. 1 "
+              "parágrafo único, which the annotated page prints unstruck, with no note of a revocation, both as enacted and after "
+              "Medida Provisória 910/2019's struck caput; kept",
+    "art-39": _DOTTED,
+}
+B13.OPEN_ITEMS[_LRFAL] = (
+    "Lei 11.952 (open items): it is the conversion of Medida Provisória 458/2009, whose text is not modelled (the history starts "
+    "with the Lei, in force on publication, 26.6.2009); Medida Provisória 910/2019 lapsed (in force to 19.5.2020) and the "
+    "wordings it replaced stand again from 20.5.2020; units an MP's quoted article left out with no dotted line (art. 1 "
+    "parágrafo único under Medida Provisória 910, art. 30 incisos and paragraphs under Medida Provisória 759/2016) are absent "
+    "during its term (judgement call, as LC 95 art. 12 III reads); 'Vide ADIN nº 4.269' notes (art. 15) strike no words and "
+    "are not modelled; 'Regulamento' pointers strike no words")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
