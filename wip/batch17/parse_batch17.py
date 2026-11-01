@@ -163,6 +163,17 @@ PAGES.update({
     "l9434": "leis/l9434.htm",
     "l10216": "leis/leis_2001/l10216.htm",
     "l9434-compilado": "leis/l9434compilado.htm",
+    # parts zr, ...: education, transport, health surveillance, electoral, fiscal federalism
+    "l11738": "_ato2007-2010/2008/lei/l11738.htm",
+    "l12009": "_ato2007-2010/2009/lei/l12009.htm",
+    "l6996": "leis/1980-1988/l6996.htm",
+    "l9870": "leis/l9870.htm",
+    "l12379": "_ato2011-2014/2011/lei/l12379.htm",
+    "l6437": "leis/l6437.htm",
+    "l6437-compilado": "leis/l6437compilado.htm",
+    "l13005": "_ato2011-2014/2014/lei/l13005.htm",
+    "lcp159": "leis/lcp/lcp159.htm",
+    "lcp178": "leis/lcp/lcp178.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -338,6 +349,14 @@ ALL_ACTS: list[dict] = [
          "Lei da Saúde Mental (Lei nº 10.216, de 6 de abril de 2001)", 2),
     _act("lei-dos-transplantes", "LTx", "l9434", "l9434-compilado", "lei-9434-1997",
          "Lei dos Transplantes (Lei nº 9.434, de 4 de fevereiro de 1997)", 2),
+    _act("lei-do-piso-do-magisterio", "LPSPN", "l11738", "l11738", "lei-11738-2008",
+         "Piso salarial profissional nacional do magistério público da educação básica (Lei nº 11.738, de 16 de julho de 2008)", 2),
+    _act("lei-dos-mototaxistas", "LMoto", "l12009", "l12009", "lei-12009-2009",
+         "Mototaxistas, motofretistas e motoboys (Lei nº 12.009, de 29 de julho de 2009)", 2),
+    _act("lei-do-processamento-eletronico-eleitoral", "LPEE", "l6996", "l6996", "lei-6996-1982",
+         "Processamento eletrônico de dados nos serviços eleitorais (Lei nº 6.996, de 7 de junho de 1982)", 2),
+    _act("lei-das-mensalidades-escolares", "LMEsc", "l9870", "l9870", "lei-9870-1999",
+         "Lei das Mensalidades Escolares (Lei nº 9.870, de 23 de novembro de 1999)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -386,6 +405,8 @@ PARTS: dict[str, list[str]] = {
     "zo": ["lei-do-transporte-rodoviario-de-cargas", "lei-do-vale-pedagio", "lei-do-transporte-multimodal"],
     "zp": ["lei-de-gestao-de-florestas-publicas", "lei-do-pagamento-por-servicos-ambientais"],
     "zq": ["lei-do-transporte-de-eleitores", "lei-da-saude-mental", "lei-dos-transplantes"],
+    # lei-do-piso-do-magisterio (Lei 11.738/2008) configured but in no part: Lei 15.437/2026 (31 notes) has no archive.org capture
+    "zr": ["lei-dos-mototaxistas", "lei-do-processamento-eletronico-eleitoral", "lei-das-mensalidades-escolares"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -536,6 +557,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-10216-2001": ("2001-04-09", f"Lei 10.216/2001 art. 13: {_PUB} (DOU 9.4.2001)"),
     "lei-9434-1997": ("1997-03-22", "Lei 9.434/1997 has no in-force clause (art. 25 only revokes): in force 45 days after its publication "
                                     "(LINDB art. 1; DOU 5.2.1997), on 22.3.1997"),
+    "lei-11738-2008": ("2008-07-17", f"Lei 11.738/2008 art. 8: {_PUB} (DOU 17.7.2008)"),
+    "lei-12009-2009": ("2009-07-30", f"Lei 12.009/2009 art. 9: {_PUB} (DOU 30.7.2009)"),
+    "lei-6996-1982": ("1982-06-08", f"Lei 6.996/1982 art. 19: {_PUB} (DOU 8.6.1982)"),
+    "lei-9870-1999": ("1999-11-24", f"Lei 9.870/1999 art. 11: {_PUB} (DOU 24.11.1999, edição extra)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -783,6 +808,18 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "redireciona o modelo assistencial em saúde mental.", "2001-04-06", "2001-04-09", PAGES["l10216"]),
     "lei-9434-1997": _L("Lei nº 9.434, de 1997", "Dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de "
                         "transplante e tratamento e dá outras providências.", "1997-02-04", "1997-02-05", PAGES["l9434"]),
+    "lei-11738-2008": _L("Lei nº 11.738, de 2008", "Regulamenta a alínea “e” do inciso III do caput do art. 60 do Ato das Disposições "
+                         "Constitucionais Transitórias, para instituir o piso salarial profissional nacional para os profissionais do "
+                         "magistério público da educação básica.", "2008-07-16", "2008-07-17", PAGES["l11738"]),
+    "lei-12009-2009": _L("Lei nº 12.009, de 2009", "Regulamenta o exercício das atividades dos profissionais em transporte de "
+                         "passageiros, “mototaxista”, em entrega de mercadorias e em serviço comunitário de rua, e “motoboy”, com o uso "
+                         "de motocicleta, altera a Lei nº 9.503, de 23 de setembro de 1997, para dispor sobre regras de segurança dos "
+                         "serviços de transporte remunerado de mercadorias em motocicletas e motonetas – moto-frete –, estabelece regras "
+                         "gerais para a regulação deste serviço e dá outras providências.", "2009-07-29", "2009-07-30", PAGES["l12009"]),
+    "lei-6996-1982": _L("Lei nº 6.996, de 1982", "Dispõe sobre a utilização de processamento eletrônico de dados nos serviços "
+                        "eleitorais e dá outras providências.", "1982-06-07", "1982-06-08", PAGES["l6996"]),
+    "lei-9870-1999": _L("Lei nº 9.870, de 1999", "Dispõe sobre o valor total das anuidades escolares e dá outras providências.",
+                        "1999-11-23", "1999-11-24", PAGES["l9870"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -1004,6 +1041,7 @@ if any(a["slug"] == _LFF for a in ACTS):
                  "edição extra; printed on Lei 14.004's page, 'Promulgação partes vetadas'). Lei 14.004 art. 3: in force on "
                  "publication; the change is dated 8.9.2020, credited to Lei 14.004, and the 1979 caput of art. 4 stands to "
                  "then.")
+    B5.PROVISION_REPORTED.add(("lei-14004-2020", _LFF))   # explained by the line above
 B13.OPEN_ITEMS[_L9469] = (
     "Lei 9.469 (open items): Planalto's 'Vide ADIN Nº 2.527-9' on art. 6 (the § 2º Medida Provisória 2.226/2001 added, "
     "revoked by Lei 13.140/2015) and 'Vide Lei nº 14.057, de 2020' on art. 1 are pointers that strike no words on the page "
@@ -3011,7 +3049,7 @@ if any(a["slug"] == _LVOL for a in ACTS):
 _LC105 = "lei-do-sigilo-bancario"
 if any(a["slug"] == _LC105 for a in ACTS):
     P.VIGENCIA_FIXED["lc-166-2019"] = (
-        "2019-07-09", "art. 6: 'Esta Lei Complementar entra em vigor: I - na data de sua publicação, quanto ao disposto: a) no "
+        "2019-07-09", "art. 7: 'Esta Lei Complementar entra em vigor: I - na data de sua publicação, quanto ao disposto: a) no "
                       "caput e no § 6º do art. 12 da Lei nº 12.414 [...]; e b) nos arts. 3º e 5º; II - após decorridos 91 (noventa e "
                       "um) dias de sua publicação oficial, quanto aos demais dispositivos' (DOU 9.4.2019): its art. 1 (Lei "
                       "Complementar 105 art. 1) falls under II; 91 days counted from the day of publication, in force on 9.7.2019")
@@ -3733,6 +3771,7 @@ if any(a["slug"] == _LFUNDEB for a in ACTS):
                       "prints no '(VETADO)' line for it, so it is absent before)")
     EXTRA.append("Lei 14.113 art. 21 § 9º: " + P.VIGENCIA_PROVISION[("lei-14276-2021", _LFUNDEB, "art-21")][1]
                  + "; it is credited to Lei 14.276/2021 on 25.3.2022.")
+    B5.PROVISION_REPORTED.add(("lei-14276-2021", _LFUNDEB))
 # part zn: Lei 12.414/2011 (cadastro positivo), Lei Complementar 200/2023 (regime fiscal sustentável). Hand days set only when the
 # act runs.
 _LCADPOS, _LC200 = "lei-do-cadastro-positivo", "lei-do-regime-fiscal-sustentavel"
@@ -3774,6 +3813,7 @@ if any(a["slug"] == _LVP for a in ACTS):
                       "4 added Lei 10.209 art. 8 parágrafo único (the 180 days of art. 7 III are for its other provisions)")
     EXTRA.append("Lei 10.209 art. 8 parágrafo único: " + P.VIGENCIA_PROVISION[("lei-14229-2021", _LVP, "art-08")][1]
                  + "; it starts on 22.10.2021.")
+    B5.PROVISION_REPORTED.add(("lei-14229-2021", _LVP))
 _W5TRC = ("Lei 11.442 art. 5: Lei 14.206/2021 (DOU 28.9.2021) art. 18 numbered the parágrafo único as § 1º and, in the same "
           "article, gave § 1º the wording '§ 1º (Revogado).'; Planalto prints the renumbered wording struck with a 'Renumerado' "
           "note, but it never stood as § 1º: the parágrafo único ends on 28.9.2021 and '§ 1º (Revogado).' starts then (Lei "

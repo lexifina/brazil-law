@@ -460,4 +460,19 @@ def _inner2(*a) -> int:
 B6.PB5B._write_part5 = _inner2
 
 if __name__ == "__main__":
+    # Law titles: the ementa reader skips Planalto's link lines before the ementa, but not a parenthesised
+    # '(Promulgação partes vetadas)' link, which then starts the title. Set right for this part's laws in TITLE_FIXED (batch 7
+    # only, when it runs as its own part; later batches import this module and are not touched). Only LC 200 so far: the
+    # other titles with the same link text (here and in other parts) are the merged build's titles for some laws, so
+    # setting them right changes law commit messages; left for a decision (PROGRESS.md).
+    TITLE_MARK = re.compile(r"^(?:\(\s*Promulga[çc][ãa]o\s+(?:d[ae]s?\s+)?partes?\s+vetadas?\s*\)\s*)+", re.I)
+    TITLE_FIXED = {"lc-200-2023"}
+    _page_info_t = P.page_info
+
+    def _page_info_title(key: str) -> dict:
+        info = _page_info_t(key)
+        if key in TITLE_FIXED and info and TITLE_MARK.match(info.get("title") or ""):
+            info = dict(info, title=TITLE_MARK.sub("", info["title"]))
+        return info
+    P.page_info = B.page_info = _page_info_title
     sys.exit(P.main(sys.argv[1:]))

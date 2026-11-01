@@ -723,6 +723,35 @@ two promulgations (cdxpre of www2.camara.leg.br/legin/fed/lei/2021/lei-14119 lis
   audit clean (final15d-build.log, after rows-zp.json docs).
 - GOTCHA: in heredoc-written Python, "\'" inside r'' collapsed too; zp/fixline.py rewrote the line. Prefer script files.
 
+## 99-batch17zq - PUBLISHed 2026-11-01 (fifteenth session)
+Lei 6.091/1974 (lei-do-transporte-de-eleitores, 3 versions 1974-08-15 .. 1986-06-18), Lei 10.216/2001 (lei-da-saude-mental, 1), Lei
+9.434/1997 (lei-dos-transplantes, 6 versions 1997-03-22 .. 2024-05-22). `iaonly.py laws` (7 new) + `missing` (0); page
+l9434-compilado pinned (leis/l9434compilado.htm) and used as Lei 9.434's comparison page.
+- Lei 9.434: no in-force clause -> ACT_DAY 22.3.1997 (LINDB 45 days from DOU 5.2.1997). paragraphs wrapper (l9434 + compilado):
+  art. 10 '1º Nos casos ...' -> '§ 1º' (L9434_FIXED). EXPLAINED art-10 (compilado keeps the struck 1997 p.u.). MP 2.083-32 (pinned
+  edition, DOU 23.2.2001) -> Lei 10.211 conversion; earlier editions not named (OPEN_ITEMS).
+- Lei 6.091: Lei 7.493/1986 art. 26 revokes arts. 17-25 outright (read). OPEN_ITEMS for all three.
+- Parse sha 3eed2b62 (x2, 0 moves); zp reparsed: equal except sources (pin growth). Merged 209 acts, 3316 versions, 2430 commits, check
+  0/0, compare identical, audit clean (final15e-build.log, after rows-zq.json docs).
+
+## State at handoff (batch 17, fifteenth session, 2026-11-01)
+Parts zm, zn, zo, zp, zq installed with .PUBLISH (12 acts, 52 versions): LC 141/2012, Lei 14.113/2020 (Fundeb), Lei 12.414/2011, LC
+200/2023, Leis 11.442/2007, 10.209/2001, 9.611/1998, 11.284/2006, 14.119/2021, 6.091/1974, 10.216/2001, 9.434/1997. Merged 209 acts,
+3316 versions, 2430 commits, check 0/0, --compare identical, audit clean. README rows + jurisdiction.json (209 acts) current. All runs
+through .tmp/run.py / pipe.sh / reparse.sh at BelowNormal (cpu gate), one at a time; every PID exited; nothing running. Fetching:
+archive.org only (robots.txt read at start); no Common Crawl, no Arquivo.pt, no LexML, no GitHub.
+DATED RE-CHECK (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026 - not before.
+Left out / unsettled (unchanged): Lei 9.782 art. 8º-A; Lei 10.931; Lei 10.522 art. 32 quoted § 2º; Lei 12.462 art. 63 § 17. No act
+of this session was left out.
+Noticed, not changed (published parts, wording only): zd's LC 166 VIGENCIA_FIXED text says 'art. 6' (it is art. 7); 99-batch7's law
+title for lc-200-2023 starts '(Promulgação partes vetadas)'; VIGENCIA_PROVISION reasons are not printed as decisions (zg has none for
+Lei 14.514 art. 21; zm/zn/zo add EXTRA lines instead).
+Next candidates (not in the corpus): Lei 13.005/2014 (PNE), Lei 11.494/2007 (old Fundeb, repealed 2021), Lei 9.424/1996 (Fundef),
+Lei 11.738/2008 (piso do magistério), Lei 10.861/2004 (SINAES), Lei 12.009/2009 (mototaxistas), Lei 13.103/2015 (motorista
+profissional; mostly amends CLT/CTB), Lei 12.379/2011 (Sistema Nacional de Viação), LC 159/2017 (recuperação fiscal), LC 178/2021,
+Lei 6.437/1977 (infrações sanitárias), Lei 6.360/1976 (vigilância sanitária), Lei 6.996/1982 (processamento eletrônico eleitoral),
+Lei 9.870/1999 (mensalidades escolares). Paths: check the local index, then cdxlist.
+
 ## 99-batch17zf - re-PUBLISHed 2026-11-01 (fourteenth session)
 _BX now includes "l9984": the generic Lei 7.689/9.249 BARE_TEXT line is no longer given to part zf. Installed file = previous
 minus that line (sha cf20e3a2); reparse equal except sources[0]. PUBLISH line appended.
@@ -915,3 +944,24 @@ first (smallest; Lei 15.270/2025 changes from 1.1.2026). Then Leis 13.465/2017 a
 Lei 13.675/2018, Lei 9.537/1997, Lei 6.634/1979, Lei 9.469/1997 (+compilado), Lei 4.728/1965 (+compilado);
 heavy tax laws Lei 7.713/1988 (+compilada), 9.430/1996 (+compilada), 9.249/1995, 9.250/1995, 7.689/1988; Lei 13.465/2017,
 Lei 11.977/2009. Lei 10.931/2004: no page in the index.
+
+## Sixteenth session (2026-11-01): wording fixes in published parts + parts zr, ...
+robots.txt read at start (web.archive.org 404; archive.org Disallows /control/ /report/ only). Fetching: archive.org only.
+Task 1 (all three fixed in the parsers, parts regenerated and re-PUBLISHed; merged 209 acts, 3316 versions, 2430 commits, check
+0/0, --compare identical, audit clean; build log batch17/.tmp/t1-build.log):
+- (a) zd: LC 166 VIGENCIA_FIXED text now 'art. 7' (parse_batch17).
+- (b) batch7: lc-200-2023 title without '(Promulgação partes vetadas)' (parse_batch7 __main__ block, TITLE_MARK / TITLE_FIXED =
+  {lc-200-2023}; batch 8+ import batch7 and are not touched). No commit changes (merged build takes lc-200's title from 17zn,
+  first by file name). NOT done (needs a decision: it changes law commit messages): the same link text starts 124 law entries in
+  47 parts (incl. 50-codes, owned by gitlaw-BR-codes), 54 of them the merged build's title (and 183 merged titles start with
+  other page links: 'Vide ...', 'Conversão da MPv ...', 'Mensagem de veto', 'Vigência'); e.g. lc-177-2021, lc-212-2025, lei-14843-2024 (from
+  99-batch7), lc-214-2025 (90-batch3), lei-14273-2021 (17t), lei-14430-2022 (17zj), lei-14711-2023 (50-codes). Root cause:
+  parse_proc.page_info's marker regex lacks the parenthesised form '(Promulgação partes vetadas)' (and 'das partes').
+- (c) batch5/parse_batch5.py provision_decisions() (called in write_part): one decision line per (act, law, day, reason) for
+  every P.VIGENCIA_PROVISION entry whose law the part's versions credit on that unit (laws sharing articles/day/reason merged
+  into one line). Skips B5.PROVISION_AUTO (batch6's 'com a redação dada' keys, added there) and B5.PROVISION_REPORTED (law, act)
+  pairs whose EXTRA line already explains the day (17f lei-14004, 17zm lei-14276, 17zo lei-14229: those parts unchanged).
+- Regenerated (reparse_all for 7, 9, 11, 12, 15a, 15b, 16f; reparse.sh for 17 f k m zc zd zg zk zl zm zo; out in
+  .gitlaw-scratch/brazil-b17/t1/re and brazil-b17/re). Installed = previous file with the regenerated decisions (and laws for
+  batch7) via t1/splice.py (refuses if any other key differs; sources ignored = pin growth). Changed parts (each PUBLISH appended):
+  7, 9, 11, 12, 15a, 15b, 16f, 17k, 17m, 17zc, 17zd, 17zg, 17zk, 17zl. Previous files in brazil-b17/t1/before.

@@ -225,6 +225,33 @@ EXTRA_DECISIONS: list[str] = []
 # Medidas Provisórias Congress rejected (CF art. 62 § 3), modelled through MP_LAPSE (the wording they replaced is back
 # from the given day); their end is relabelled: MP key -> (label, title) of the '<key>-fim' law.
 MP_REJECTED: dict[str, tuple[str, str]] = {}
+# In-force days set per provision (P.VIGENCIA_PROVISION: (law, act, unit) -> (day, reason)) are printed as decisions for
+# every act of the part whose versions credit that law on that unit. Skipped: keys the reader sets itself (batch 6's
+# 'com a redação dada' rule, which prints its own decision) and (law, act) pairs another decision already explains.
+PROVISION_AUTO: set[tuple[str, str, str]] = set()
+PROVISION_REPORTED: set[tuple[str, str]] = set()
+
+
+def provision_decisions(acts_out) -> list[str]:
+    groups: dict[tuple, list[str]] = {}
+    acts = {a["slug"]: a for a in acts_out}
+    for (law, slug, unit), (day, why) in sorted(P.VIGENCIA_PROVISION.items()):
+        act = acts.get(slug)
+        if not act or (law, slug, unit) in PROVISION_AUTO or (law, slug) in PROVISION_REPORTED:
+            continue
+        label, used = None, False
+        for v in act["versions"]:
+            u = (v.get("changes") or v.get("units") or {}).get(unit)
+            label = label or (u or {}).get("label")
+            used = used or law in v["credits"].get(unit, [])
+        if used:
+            groups.setdefault((act["short"], law, day, why), []).append(label or unit)
+    merged: dict[tuple, list[str]] = {}   # one line for laws sharing the articles, day and reason (an MP and its conversion)
+    for (short, law, day, why), labels in groups.items():
+        merged.setdefault((short, tuple(labels), day, why), []).append(P.law_label(law))
+    return [f"{short} {', '.join(labels)}: {' and '.join(laws)} take{'s' if len(laws) == 1 else ''} effect for "
+            f"{'this article' if len(labels) == 1 else 'these articles'} on {day}, by a provision of "
+            f"{'its' if len(laws) == 1 else 'their'} own ({why})." for (short, labels, day, why), laws in merged.items()]
 
 
 def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mpn) -> int:
@@ -238,7 +265,7 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
     pins = {k: v for k, v in allp.items() if k in B.PAGES or (k.startswith(("law:", "ato:")) and k.split(":", 1)[1] in used)}
     B.sources = lambda: pins
     try:
-        decisions = decisions + EXTRA_DECISIONS + [
+        decisions = decisions + EXTRA_DECISIONS + provision_decisions(acts_out) + [
             f"{why} ({'; '.join(PROMULGATED_PARTS_USED)})." for (_, why) in PROMULGATED_PARTS.values()
             if PROMULGATED_PARTS_USED] + (
             ["A line a lapsed Medida Provisória revoked is printed twice, struck with the MP's note and again unstruck "

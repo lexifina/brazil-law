@@ -580,6 +580,7 @@ def lifespans(paras: list[dict], cx) -> list[str]:
                 if P.VIGENCIA_PROVISION.get(k, (day,))[0] != day:
                     problems.append(f"two in-force days for {y} in {cx.act} {p['unit']}")
                 P.VIGENCIA_PROVISION[k] = (day, f"inserted by {P.law_label(x)} (in force {cx.eff[x]})")
+                B5.PROVISION_AUTO.add(k)
                 other = [q for q in paras if q["unit"] == p["unit"] and q is not p and not q.get("with_wording")
                          and not any(WITH_WORDING.search(z) for z in q["notes"])
                          and any(law_key(z) == y for z in q["notes"])]
