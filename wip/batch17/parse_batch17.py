@@ -2611,6 +2611,10 @@ def _inner(*a):
                        "and Medida Provisória 451/2008 art. 10 added art. 58-V to the same regime. The articles start on "
                        "1.1.2009; wordings Medida Provisória 436 and Lei 11.827 gave them before that day start on it, and "
                        "wordings replaced before it never show (" + ", ".join(bev) + ").")
+    if L10833_FIXED:
+        dec.append("Lei 10.833 art. 43: item 1 of the quoted alínea c) ('1. em relação aos fatos geradores que ocorrerem no período "
+                   "de 1º de janeiro de 2004 até 31 de dezembro de 2004: [...]; e') ends without a full stop, like a heading, and "
+                   "would be read as the heading of art. 44; it is a line of art. 43's quoted text and stays there.")
     if REV2009_USED:
         dec.append("Lei 10.833 arts. 49, 50, 52, 55, 57 and 58: Lei 11.727/2008 art. 42 ('Ficam revogados: [...] IV - a partir de "
                    "1º de janeiro de 2009: a) os arts. 49, 50, 52, 55, 57 e 58 da Lei nº 10.833, de 29 de dezembro de 2003, não "
@@ -3095,6 +3099,7 @@ _GATES = {_L9718: (_G9718, "lei-9718-1998", G9718_USED), _L10637: (_G10637, "lei
 # 58 da Lei nº 10.833 [...]' (IV as Lei 11.827/2008 worded it; Planalto prints those articles unstruck)
 _REV2009 = {"art-49", "art-50", "art-52", "art-55", "art-57", "art-58"}
 REV2009_USED: list[str] = []
+L10833_FIXED: list[str] = []
 
 
 def build_act(paras, act_day, gate, gate_law, unit_label):
@@ -3113,6 +3118,11 @@ def build_act(paras, act_day, gate, gate_law, unit_label):
                 p["start"] = g[0]
     if slug == _L10833:
         for p in paras:
+            # art. 43's quoted alínea c) item 1 ('[...] fatos geradores; e') ends without a full stop, so the reader took it
+            # for a heading of art. 44; it is a line of art. 43
+            if p["unit"] == "art-44" and p["label"] == "rubrica" and p["text"].startswith("1. em relação aos fatos geradores"):
+                p["unit"], p["label"] = "art-43", ""
+                L10833_FIXED.append("art. 43 item 1 of the quoted alínea c)")
             if p["unit"] in _REV2009 and not p.get("skip") and not p["heading"] and (p["end"] is None or p["end"] > "2009-01-01"):
                 p["end"], p["end_law"], p["end_how"] = "2009-01-01", "lei-11727-2008", "repealed"
                 REV2009_USED.append(p["unit"])
