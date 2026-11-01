@@ -286,8 +286,8 @@ PARTS: dict[str, list[str]] = {
     "za": ["lei-da-contratacao-temporaria"],
     "zb": ["lei-da-anvisa"],
     "zc": ["lei-da-participacao-nos-lucros", "lei-do-servico-voluntario", "lei-do-aviso-previo"],
-    "zd": ["lei-da-ana", "lei-de-seguranca-de-barragens"],
-    "ze": ["lei-do-sigilo-bancario"],
+    "zd": ["lei-de-seguranca-de-barragens", "lei-do-sigilo-bancario"],
+    "zf": ["lei-da-ana"],   # configured, not published (MP 844/868 chain, MP 437 fate): see PROGRESS
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -859,13 +859,16 @@ FOREIGN_DROPPED: list[str] = []
 QUOTED_HEADINGS: list[str] = []
 # Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº N, de d de m de aaaa.': words of
 # the article (which wording of another act it refers to), not an amendment note; the reader takes them for a bare note.
-BARE_TEXT = {"l7689": "art-11", "l9249": "art-14", "l9430": "art-88", "l9873": ("art-03", "art-08")}
+BARE_TEXT = {"l7689": "art-11", "l9249": "art-14", "l9430": "art-88", "l9873": ("art-03", "art-08"), "l9984": "art-29",
+             "l9984-compilado": "art-29"}
 BARE_TEXT_USED: list[str] = []
 QUOTE_DROPPED: list[str] = []
 _BARE_RX = re.compile(r"\(?\s*(reda[çc][ãa]o dada pel[oa] (?:Decreto-Lei|Lei) n[º°.]?\s*[\d.]+, de \d{1,2} de \w+ de \d{4}[.;]?)\s*\)?",
                       re.I)
 _BARE_RX9873 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Lei n[º°.]?\s*9\.457, de 1997, o art\. 28 da Lei n[º°.]?\s*8\.884, de 1994, e "
                           r"demais disposições em contrário, ainda que constantes de lei especial\.)\s*\)?")
+_BARE_RX9984 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Lei n[º°.]?\s*9\.433, de 1997, passa a vigorar com a seguinte "
+                          r"reda[çc][ãa]o:)\s*\)?")
 _paragraphs17 = P.paragraphs
 
 
@@ -891,6 +894,10 @@ def paragraphs(html, digits):
                 # Lei 9.873 art. 8: '[...] o art. 33 da Lei nº 6.385, de 1976, com a redação dada pela Lei nº 9.457, de 1997, o
                 # art. 28 da Lei nº 8.884, de 1994, e demais disposições em contrário, ainda que constantes de lei especial.'
                 hit = [(n, m) for n in p["notes"] for m in [_BARE_RX9873.fullmatch(n.strip())] if m]
+            if not hit and page in ("l9984", "l9984-compilado"):
+                # Lei 9.984 art. 29: 'O art. 1º da Lei nº 8.001, de 13 de março de 1990, com a redação dada pela Lei nº 9.433, de
+                # 1997, passa a vigorar com a seguinte redação:'
+                hit = [(n, m) for n in p["notes"] for m in [_BARE_RX9984.fullmatch(n.strip())] if m]
             if hit:
                 n, m = hit[0]
                 p["text"] = p["text"].rstrip() + " " + m.group(1)
@@ -1029,6 +1036,32 @@ def paragraphs(html, digits):
                 p["unit"] = cur
             elif p["unit"] != "art-02":
                 cur = None
+    if page == "l9984":
+        # Lei 9.984: Planalto prints Medida Provisória 868/2018's inciso XXIII-A, inciso XXIV-A, § 9º-A and § 10-A of art. 4 as
+        # 'XXIIIA', 'XXIVA -', '§ 9º A' and '§ 10A.', and Medida Provisória 844/2018's art. 4º-A as 'Art. 4ºA.' (the MPs' own
+        # pages: 'XXIII-A', 'XXIV -A', '§ 9º-A', '§ 10-A.', 'Art. 4º-A'); the reader took the last three for the lower label (§ 9º,
+        # § 10) or for lines of art. 4. They keep the MPs' labels; MP 844's art. 4º-A and its lines are read as art. 4º-A.
+        fix = ((r"^XXIIIA\s*-?\s*", "XXIII-A - ", "XXIII-A -"), (r"^XXIVA\s*-\s*", "XXIV-A - ", "XXIV-A -"),
+               (r"^§\s*9º\s*A\s+", "§ 9º-A ", "§ 9º-A"), (r"^§\s*10\s*A\.\s*", "§ 10-A. ", "§ 10-A"))
+        a4a = False
+        for p in out:
+            if p["heading"]:
+                continue
+            if p["unit"] == "art-04" and re.match(r"Art\.\s*4º\s*A\.\s", P.norm(p["text"])):
+                p["text"] = re.sub(r"^\s*Art\.\s*4º\s*A\.\s*", "Art. 4º-A. ", p["text"])
+                p["unit"], p["label"], a4a = "art-04-a", "Art. 4º-A", True
+                L9984_FIXED.append("art-04-a")
+                continue
+            if a4a and p["unit"] == "art-04":
+                p["unit"] = "art-04-a"
+                continue
+            a4a = False
+            if p["unit"] != "art-04":
+                continue
+            for rx, new, lab in fix:
+                if re.match(rx, P.norm(p["text"])):
+                    p["text"], p["label"] = re.sub(rx, new, P.norm(p["text"])), lab
+                    L9984_FIXED.append(lab)
     if page in ("l10522", "l10522-compilado"):
         # Lei 10.522 art. 37-B § 10 (Lei 11.941/2009): both Planalto pages (and Lei 11.941's own page) strike only the dash in
         # 'Custódia – SELIC'; a typesetting slip in a line in force: the line is read as unstruck, dash kept
@@ -1082,6 +1115,7 @@ L9430_FIXED: list[str] = []
 L13465_FIXED: list[str] = []
 L8745_FIXED: list[str] = []
 L9782_LEFT_OUT: list[str] = []
+L9984_FIXED: list[str] = []
 EMPTY_ITEM_PAGES = {"l9250", "l7713"}
 MIXED_PLAIN: list[str] = []
 L9873_FIXED: list[str] = []
@@ -1573,6 +1607,26 @@ _W_CH3 = ("Lei 11.977 Capítulo III (arts. 46 to 71-A): Medida Provisória 759/2
           "Lei 12.424 left as dotted lines, keep the MP's wording, as Planalto prints them, until 23.12.2016")
 CH3_REVOKERS = {"mp-759-2016", "lei-13465-2017"}
 CH3_USED: list[str] = []
+
+
+# part zf: Lei 9.984/2000 (ANA). Medida Provisória 437/2008 (DOU 30.7.2008, in force on publication) art. 13 added art. 4 XIX
+# and § 8º, art. 19-A and art. 20 XI and parágrafo único; Medida Provisória 439/2008 (DOU 29.8.2008, edição extra, in force on
+# publication; converted, Lei 11.805/2008, which repeats it in its art. 4) art. 4: 'Fica revogada a Medida Provisória nº 437,
+# de 29 de julho de 2008'. Every line MP 437 gave Lei 9.984 ends on 29.8.2008 (Lei 12.058/2009 later added art. 4 XIX and § 8º
+# again, from 14.10.2009).
+_LANA = "lei-da-ana"
+ANA_437: list[str] = []
+
+
+def ana_437(paras, act):
+    if act["slug"] != _LANA:
+        return
+    for p in paras:
+        if p["state"] == "plain" or p.get("start_law") != "mp-437-2008":
+            continue
+        p.update({"end": "2008-08-29", "end_law": "mp-439-2008", "end_how": "revoked-mp", "skip": False, "gaps": [],
+                  "pinned": True})
+        ANA_437.append(f"{p['unit']} [{p['label']}]")
 
 
 def ch3_successors(paras, act):
@@ -2071,6 +2125,7 @@ def apply_rewrites(paras, act, eff, problems):
     promulgated(paras, act)
     heads_14596(paras, act, eff)
     ch3_successors(paras, act)
+    ana_437(paras, act)
     return out
 
 
@@ -2113,6 +2168,23 @@ def _inner(*a):
         dec.append("Lei 9.873 art. 3 II and art. 8 name the act they refer to or revoke '[...] da Lei nº 6.385, de [...] 1976, com "
                    "a redação dada pela Lei nº 9.457, de [...] 1997[...]': these words are part of the text, not an amendment "
                    "note (" + ", ".join(dict.fromkeys(x for x in BARE_TEXT_USED if x.startswith("l9873"))) + ").")
+    if any(x.startswith("l9984") for x in BARE_TEXT_USED):
+        dec.append("Lei 9.984 art. 29 begins 'O art. 1º da Lei nº 8.001, de 13 de março de 1990, com a redação dada pela Lei nº "
+                   "9.433, de 1997, passa a vigorar com a seguinte redação:': these words name the wording of the article it "
+                   "rewrites; they are part of the text, not an amendment note (l9984 art-29).")
+    if L9984_FIXED:
+        dec.append("Lei 9.984 art. 4: Planalto prints Medida Provisória 868/2018's incisos XXIII-A and XXIV-A and §§ 9º-A and "
+                   "10-A as 'XXIIIA', 'XXIVA -', '§ 9º A' and '§ 10A.', and Medida Provisória 844/2018's art. 4º-A as 'Art. "
+                   "4ºA.'; the MPs' own pages read 'XXIII-A', 'XXIV -A', '§ 9º-A', '§ 10-A.' and 'Art. 4º-A'. The lines keep the "
+                   "MPs' labels, and MP 844's art. 4º-A with its paragraphs and incisos is read as art. 4º-A, not as lines of "
+                   "art. 4 (" + ", ".join(dict.fromkeys(L9984_FIXED)) + ").")
+    if ANA_437:
+        dec.append("Lei 9.984: Medida Provisória 437/2008 (DOU 30.7.2008, in force on publication) added art. 4 XIX and § 8º, "
+                   "art. 19-A and art. 20 XI and parágrafo único. Medida Provisória 439/2008 (DOU 29.8.2008, edição extra, in "
+                   "force on publication) art. 4: 'Fica revogada a Medida Provisória nº 437, de 29 de julho de 2008'; MP 439 was "
+                   "converted into Lei 11.805/2008, whose art. 4 says the same. Every line MP 437 gave Lei 9.984 ends on "
+                   "29.8.2008, credited to MP 439 (Planalto's note 'Vide Medida Provisória nº 439, de 1998' misprints the year); "
+                   "Lei 12.058/2009 added art. 4 XIX and § 8º again from 14.10.2009 (" + ", ".join(dict.fromkeys(ANA_437)) + ").")
     if LRDC_FIXED:
         dec.append("Lei 12.462 art. 63 § 17 was added by Medida Provisória 1.349/2026 (DOU 7.4.2026); Planalto's page of the MP "
                    "reads 'Vigência encerrada' and links Ato Declaratório nº 77 of 2026, which could not be read, so the day "
@@ -2338,6 +2410,52 @@ if any(a["slug"] == _LVOL for a in ACTS):
         "2008-01-01", "Medida Provisória 411/2007 (DOU 28.12.2007, in force on publication) art. 24: 'Ficam revogados, a partir "
                       "de 1º de janeiro de 2008: I - o art. 3º-A da Lei nº 9.608, de 18 de fevereiro de 1998'; Lei 11.692/2008, its "
                       "conversion, repeats the revocation (art. 24 I): art. 3º-A ends on 1.1.2008")
+
+# part zd: Lei 12.334/2010 (barragens), Lei Complementar 105/2001 (sigilo bancário)
+_LC105 = "lei-do-sigilo-bancario"
+if any(a["slug"] == _LC105 for a in ACTS):
+    P.VIGENCIA_FIXED["lc-166-2019"] = (
+        "2019-07-09", "art. 6: 'Esta Lei Complementar entra em vigor: I - na data de sua publicação, quanto ao disposto: a) no "
+                      "caput e no § 6º do art. 12 da Lei nº 12.414 [...]; e b) nos arts. 3º e 5º; II - após decorridos 91 (noventa e "
+                      "um) dias de sua publicação oficial, quanto aos demais dispositivos' (DOU 9.4.2019): its art. 1 (Lei "
+                      "Complementar 105 art. 1) falls under II; 91 days counted from the day of publication, in force on 9.7.2019")
+    P.VIGENCIA_PROVISION[("lc-224-2025", _LC105, "art-01")] = (
+        "2026-01-01", "Lei Complementar 224/2025 (DOU 26.12.2025, in force on publication) 'produzirá efeitos: [...] III - a "
+                      "partir de 1º de janeiro de 2026, em relação aos demais dispositivos': its art. 3 (Lei Complementar 105 art. "
+                      "1 § 3º VIII) takes effect on 1.1.2026")
+B13.OPEN_ITEMS[_LC105] = (
+    "Lei Complementar 105 (open items): the STF's rulings on the access of the tax authorities to bank data (ADIs 2.390, "
+    "2.386, 2.397, 2.859) changed no words and are not modelled; 'Vide' pointers and regulations strike no words")
+
+# part zf: Lei 9.984/2000 (ANA). Hand days set only when the act runs.
+if any(a["slug"] == _LANA for a in ACTS):
+    P.MP_PENDING["mp-437-2008"] = (
+        "Medida Provisória nº 437, de 29.7.2008 (DOU 30.7.2008, in force on publication): revoked by Medida Provisória nº 439, "
+        "de 29.8.2008 (DOU 29.8.2008, edição extra, art. 4), converted into Lei 11.805/2008 (art. 4); its lines in Lei 9.984 end "
+        "on 29.8.2008")
+    P.MP_PENDING["mp-2216-2001"] = (
+        "Medida Provisória nº 2.216-37, de 31.8.2001 (DOU 1.9.2001, art. 32: in force on publication), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2; it added Lei 9.984 art. 4 XVIII and art. 18-A and revoked arts. 17 and 18. "
+        "Planalto's notes name this edition only (Medida Provisória 2.049-21 and 2.049-23/2000 appear in 'Vide' notes), so the "
+        "changes are dated by its publication; earlier editions of the chain are not modelled")
+    B8.EXTRA_LAWS["mp-439-2008"] = {
+        "label": "Medida Provisória nº 439, de 2008", "kind": "law",
+        "title": "Constitui fonte de recursos adicional para ampliação de limites operacionais do Banco Nacional de "
+                 "Desenvolvimento Econômico e Social - BNDES.",
+        "enacted": "2008-08-29", "published": "2008-08-29",
+        "url": PL + "_Ato2007-2010/2008/Mpv/439.htm", "temporary_until": None, "restores": None, "note": None}
+_W4B = ("Lei 9.984 art. 4º-B: Planalto prints Medida Provisória 844/2018's art. 4º-B (in force 9.7.2018, lapsed 19.11.2018) "
+        "after the art. 4º-B Lei 14.026/2020 gave it; the MP's wording stands from 9.7.2018 to 20.11.2018 only, before Lei "
+        "14.026's, and is not a restored wording")
+B8.SPAN_FIX += [
+    ((_LANA, "art-04-b", "Art. 4º-B", "Art. 4º-B. O acesso aos recursos públicos federais", 0),
+     {"start": "2018-07-09", "start_law": "mp-844-2018", "end": "2018-11-20", "end_law": "mp-844-2018-fim", "end_how": "lapse"},
+     _W4B),
+]
+B13.OPEN_ITEMS[_LANA] = (
+    "Lei 9.984 (open items): art. 4 XVIII, art. 18-A and the revocations of arts. 17 and 18 are dated by Medida "
+    "Provisória 2.216-37/2001, the edition Planalto names (2.049-21 and 2.049-23/2000 appear only in 'Vide' notes; earlier "
+    "editions of the chain are not modelled); 'Vide' pointers and regulations strike no words")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

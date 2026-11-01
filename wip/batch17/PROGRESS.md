@@ -440,6 +440,49 @@ Lei 9.782/1999 (Anvisa), 12 versions 1999-01-27 .. 2019-09-24 (l9782 vs l9782com
   checks 0. Part sha f8f86152; merged 178 acts, 3053 versions, 2303 commits, check 0/0, compare identical, audit clean.
   README row + jurisdiction.json (178 acts). New tool .tmp/pinfo.py <law key>... (reader page_info).
 
+## 99-batch17zc - PUBLISHed 2026-11-01 (ninth session)
+Lei 10.101/2000 PLR (9 versions), Lei 9.608/1998 serviço voluntário (5), Lei 12.506/2011 aviso prévio (1) = 15 versions; 0 diffs.
+- Pages pinned for zc/zd/ze (l10101 + compilado, l9608 + compilado, l12506, l9984 + compilado, l12334, lcp105); `iaonly.py
+  laws` for all six acts (13 new) + `missing` (1).
+- VIGENCIA_PROVISION (mp-411-2007, Lei 9.608, art-03-a) = 1.1.2008 (MP 411 art. 24 I 'a partir de 1º de janeiro de 2008').
+- FOREIGN_RUBRICS l10101 + l10101-compilado: 'Participação nos lucros e prêmios' = MP 905's heading above its art. 48 (read
+  on the MP page); FOREIGN_DROPPED decision now split per page (17a reparse: acts/laws equal, only the effects decision
+  differs because effects_fix MOVES key on the file name - known).
+- lplr_905() (apply_rewrites, Lei 10.101 only): arts. 6/6-A/6-B struck MP 905 copy to 18.8.2020 + unstruck copy (with Lei
+  11.603's note, malformed note tolerated) from 19.8.2020; MP 388 copies of 6-A/6-B printed twice -> second skipped
+  ('duplicate'); art. 2 §§ 3º-A, 5º-10 (+ incisos) MP 905 lines end 20.4.2020 (no 18.8 return: Lei 14.020 of 7.7.2020 gave
+  them their wording); the 18.8 copy of § 3-A skipped. Helper names _lplr_lab/_lplr_alnum (a module-level `_lab` loop
+  variable exists further down: do not reuse that name).
+- effrep (zc-effrep*.log): MP 597 in force 1.1.2013 (reader), Lei 12.832 retroactive effects keep publication. effects_fix 0
+  moves; all checks 0. Part sha 428dae61 (pre-effects 1cfca63f); merged 181 acts, 3068 versions, 2312 commits, check 0/0,
+  compare identical, audit clean. README rows + jurisdiction.json (181 acts).
+
+## 99-batch17zd - PUBLISHed 2026-11-01 (ninth session)
+Lei 12.334/2010 barragens (3 versions), Lei Complementar 105/2001 sigilo bancário (3) = 6 versions; 0 diffs, 0 problems.
+- Hand (`_LC105`, scoped): VIGENCIA_FIXED lc-166-2019 = 9.7.2019 (art. 6 II, 91 days from DOU 9.4.2019, LC 95 counting);
+  VIGENCIA_PROVISION (lc-224-2025, LC 105, art-01) = 1.1.2026 (effects clause III). OPEN_ITEMS LC 105 (STF ADIs).
+- effrep (zd-effrep*.log). effects_fix 0 moves; all checks 0. Part sha 6dde61b9 (pre-effects b1f9424c); merged 183 acts, 3074
+  versions, 2315 commits, check 0/0, compare identical, audit clean (final build after README edits: final9-build.log).
+
+## State at handoff (batch 17, ninth session, 2026-11-01)
+Parts 99-batch17a..zd installed with .PUBLISH (this session: z, za, zb, zc, zd = 9 acts, 95 versions); merged 183 acts, 3074
+versions, 2315 commits, check 0/0, --compare identical, audit clean. README rows + jurisdiction.json (183 acts) current.
+All runs through .tmp/run.py at BelowNormal (cpu gate; pipe.sh's file checks now gated too), at most 2 at once (one waiting
+on the gate while another ran); every PID exited; nothing left running. Fetching: archive.org only (robots read at start).
+DATED RE-CHECK (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026.
+Left out / unsettled this session: Lei 9.782 art. 8º-A (Lei 15.524/2026 not archived); MP 2.134-25 not archived (fate of
+2.039-24 recorded by hand).
+Part zf (Lei 9.984/2000, ANA) CONFIGURED, NOT PUBLISHED: pages pinned (l9984 + compilado), laws pinned; trial zd-t1 (when it
+shared part zd): 17 versions, 0 diffs, 4 problems: mp-437-2008 fate unknown (read its page: conversion line or Ato), and
+'restored wording after an open one' on art-04-b, art-04 § 9º, § 10 (MP 844/2018 lapse 19.11.2018 and MP 868/2018 lapse
+3.6.2019 restored copies vs Lei 14.026/2020; 13 'undated' ends). edscan: 2049-21/-23 'Vide' (check), 2.216-37 x20 (its
+pinned edition: MP_PENDING text for Lei 9.984 needed). Run `BATCH17_PART=zf` trial, spans of art-04/art-04-a/04-b, then pipe.
+Next candidates (none in the corpus; paths in the local index): Lei 11.182/2005 (ANAC, _ato2004-2006/2005/lei/l11182.htm),
+Lei 13.575/2017 (ANM), Lei 11.428/2006 (Mata Atlântica), Lei 4.886/1965 (representação comercial), Lei 11.417/2006 and
+11.418 (súmula vinculante / repercussão geral), Lei 8.397/1992 (cautelar fiscal), Lei 9.795/1999 (educação ambiental), Lei
+13.460/2017 (usuário de serviços públicos), Lei 12.187/2009 (clima), Lei 13.123/2015 (biodiversidade); heavy tax: Leis
+9.718/1998, 10.637/2002, 10.833/2003 (PIS/COFINS, MP chains).
+
 ## State at handoff (batch 17, eighth session, 2026-10-31)
 Parts 99-batch17a..y installed with .PUBLISH (49 acts); merged 175 acts, 2978 versions, 2271 commits, check 0/0, --compare
 identical, audit clean. All runs foreground through .tmp/run.py at BelowNormal, one at a time (PIDs in the logs; all exited;
