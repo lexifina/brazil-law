@@ -1584,3 +1584,35 @@ accepting any 99-batch1* candidate; chk.sh <dir> <part> = pipe.sh's file checks;
 - art. 2 § 6º: Planalto prints only Lei 11.943's caput; 2004 wording read from the Chamber copy, inserted struck above it.
 - EXPLAINED art-10/11/13 _DOTTED; OPEN_ITEMS[_LCEE]. Backups: brazil-b25/parse_batch17.zzr1.py, effects_fix.before.py,
   sources_batch17.before.json.
+### 99-batch17zzr - PUBLISHed: Lei 10.848/2004 (LCEE, 29 versions 2004-03-16 .. 2026-02-23)
+- pipe.sh zzr final (brazil-b25/zzr-pipe4.out): sha bd9e3f10 x2, eff d5a5b0ed (1 move: art. 3º-D to 23.2.2026), all checks benign
+  (PUBLISH lists them). Earlier pipe runs 1-3 superseded (pipe3 tried copying 17s's lei-12783-2013 record: reverted, because
+  99-batch17s and 99-batch17z ALREADY DIFFER for lei-12783-2013 (URL case, 'nºs' vs 'nº s'); zzr equals 17z. OPEN for coordinator).
+- rows-zzr.json docs; final25a-build.log: 249 acts, 3563 versions, 2586 commits, check 0/0, compare identical, audit clean.
+### 99-batch17u re-PUBLISHed: Lei 9.074 art. 15 § 7º (MP 1.300 wording ended 9.10.2025, Lei 10.848 wording back to 25.11.2025)
+- Found by the CONV_RESTORE report; part u added to CONV_RESTORE. Fresh reparse (reparse.sh u): only that 9.10.2025 version text +
+  the rule's decision differ; installed = previous file with acts+decisions from the reparse, sources kept (e60d3f34); checks
+  identical before/after (brazil-b25/ubefore, unew); merged build u-build.log clean. Previous file: brazil-b25/ubefore/.
+### 99-batch17zzs - PUBLISHed: Lei 9.966/2000 (lei-da-poluicao-por-oleo, 1 version 28.7.2000) + Lei 11.959/2009 (lei-da-pesca, 1
+version 29.8.2009); no amendment notes. sha 7b938858; final25b-build.log: 251 acts, 3565 versions, 2588 commits, check 0/0, compare
+identical, audit clean. rows-zzs.json docs.
+
+## State at handoff (batch 17, twenty-fifth session, 2026-11-01)
+Done: Task 1 (Lei 14.286 30.12.2022 in 13f/17g/zzq), zzr (Lei 10.848), 17u re-PUBLISH, zzs (Leis 9.966, 11.959). Final merged build
+of the installed folder after all docs (brazil-b25/final25b-build.log): 251 acts, 3565 versions, 2588 commits, check 0/0, --compare
+identical, audit_push clean main + futuro; README rows + jurisdiction.json (251 acts) current. All runs through run.py / pipe.sh /
+reparse.sh at BelowNormal behind the cpu gate, never two parses at once; PIDs printed in brazil-b25/*.log, pids-chk.txt and the pipe
+outputs; all mine, all exited. Nothing running. Fetching: archive.org only (robots.txt read), no challenge page.
+New in code: batch13 VIGENCIA_FIXED lei-14286-2021; parse_batch17 end: zzr block (MP 1.300 days, MP 641/814 lapses, EXPLAINED,
+OPEN_ITEMS, l10848 paragraphs wrapper: art. 3º-D from Lei 15.269, art. 2 § 6º 2004 wording from the Chamber copy, CONTEXT source),
+CONV_RESTORE rule + lifespans wrapper (BATCH17_CONV_REPORT=1 to survey any part), part zzs config; effects_fix MOVES zzr.
+NEXT (pages pinned this session, not configured): Lei 7.661/1988 (l7661; its footer misprints 'DOU de 18.5.1998': settle the day via
+LexML lexml1.py first; 2 notes: Leis 14.714/2023, 15.190/2025), Lei 5.197/1967 (l5197 + l5197compilado in the local index; 21 notes:
+Leis 7.584, 7.653, 7.679, 9.111, 9.985), Lei 7.735/1989 (l7735; 11 notes incl. MP 2.216-37 (edition key), MP 366/2007 -> Lei 11.516),
+Lei 11.516/2007 (l11516; MP 809/2017 -> Lei 13.668, MP 1.151/2022 -> Lei 14.590; record exists in 14c/zp: copy). Then energy
+(14.300, 10.438 (+compilada), 9.991, 9.847 (+compilado)), banking, public administration as before.
+Optional survey: run parses with BATCH17_CONV_REPORT=1 over other parts with MP conversions to find more places like Lei 9.074 § 7º
+(only z and u were checked).
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once archived
+after 30.10.2026.
+OPEN for the coordinator: lei-12783-2013 record differs between 99-batch17s and 99-batch17z (URL case and 'nºs'/'nº s').
