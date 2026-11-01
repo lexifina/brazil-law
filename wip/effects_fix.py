@@ -488,6 +488,46 @@ MOVES: dict[str, list] = {
          "sua publicação, em relação aos arts. 537 a 540' (DOU 16.1.2025): its arts. 537 and 540 (Lei 9.718 art. 5) from "
          "1.5.2025"),
     ],
+    "99-batch17zk.json": [
+        ("lei-10637-de-2002", "lei-10833-2003", "2003-12-30", [("units:art-06", "2004-02-01")],
+         "Lei 10.833/2003 art. 94: 'Ficam revogados: [...] VI - o art. 6º da Lei nº 10.637, de 30 de dezembro de 2002, a partir da "
+         "data de início dos efeito desta Lei' (DOU 30.12.2003): read as the day its arts. 1 to 15 take effect (art. 93 I, "
+         "1.2.2004); its change to art. 54 on publication (art. 93 VI)"),
+        ("lei-10637-de-2002", "lei-10865-2004", "2004-04-30", [(ALL, "2004-05-01")],
+         "Lei 10.865/2004 art. 53: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir do dia 1º de maio "
+         "de 2004, ressalvadas as disposições contidas nos artigos anteriores' (DOU 30.4.2004): its art. 37 (Lei 10.637 arts. 1, "
+         "2, 3, 5, 5-A and 11) from 1.5.2004"),
+        ("lei-10637-de-2002", "lei-11196-2005", "2005-11-22", [("units:art-03", "2005-12-01"),
+                                                               ("units:art-39,art-40,art-42,art-43", "2006-01-01")],
+         "Lei 11.196/2005 art. 132: 'produzindo efeitos: [...] III - a partir do 1º (primeiro) dia do mês subseqüente ao da "
+         "publicação desta Lei, em relação ao disposto: [...] d) nos arts. 37, 45, 66 e 106 a 108' and art. 133 ('Ficam revogados: "
+         "I - a partir de 1º de janeiro de 2006: [...] d) os arts. 39, 40, 42 e 43 da Lei nº 10.637') (DOU 22.11.2005): its art. 45 "
+         "(Lei 10.637 art. 3) from 1.12.2005, those revocations from 1.1.2006; the revocation of art. 36 (art. 133 III) on "
+         "publication"),
+        ("lei-10637-de-2002", "mp-451-2008", "2008-12-16",
+         [(lines_match(r"^VII - decorrentes de transferência onerosa"), "2009-01-01")],
+         "Medida Provisória 451/2008 art. 22: 'produzindo efeitos: I - a partir de 1º de janeiro de 2009, em relação ao disposto: "
+         "[...] b) no art. 8º, relativamente ao inciso VII do § 3º do art. 1º da Lei nº 10.637' (DOU 16.12.2008): art. 1 § 3º VII "
+         "from 1.1.2009; its art. 3 § 15 from 1.4.2009 (II a), set in the parser); its other changes on publication"),
+        ("lei-10637-de-2002", "lei-13097-2015", "2015-01-20", [(ALL, "2015-05-01")],
+         "Lei 13.097/2015 art. 169: 'Ficam revogados: [...] III - a partir do 1º (primeiro) dia do 4º (quarto) mês subsequente ao "
+         "da publicação desta Lei: a) os incisos VII a IX do § 1º do art. 2º da Lei nº 10.637' (DOU 20.1.2015): from 1.5.2015"),
+        ("lei-10637-de-2002", "lei-13969-2019", "2019-12-27", [(ALL, "2020-04-01")],
+         "Lei 13.969/2019 art. 16: 'Esta Lei entra em vigor na data de sua publicação e produzirá efeitos a partir do primeiro dia "
+         "do quarto mês subsequente à sua publicação' (DOU 27.12.2019): its art. 13 (Lei 10.637 art. 29) from 1.4.2020"),
+        ("lei-10637-de-2002", "mp-1159-2023", "2023-01-12",
+         [(lines_match(r"^III - do ICMS que tenha incidido sobre a operação de aquisição"), "2023-05-01")],
+         "Medida Provisória 1.159/2023 art. 3: 'produz efeitos: I - a partir do primeiro dia do quarto mês subsequente ao de sua "
+         "publicação quanto: a) ao art. 1º, na parte em que altera o inciso III do § 2º do art. 3º da Lei nº 10.637, de 2002 [...]; "
+         "e II - na data de sua publicação, quanto aos demais dispositivos' (DOU 12.1.2023): art. 3 § 2º III from 1.5.2023; its "
+         "other changes on publication"),
+        ("lei-10637-de-2002", "mp-1185-2023", "2023-08-31", [(ALL, "2024-01-01")],
+         "Medida Provisória 1.185/2023 art. 16: 'Esta Medida Provisória entra em vigor na data de sua publicação e produz efeitos a "
+         "partir de 1º de janeiro de 2024' (DOU 31.8.2023): its art. 15 II (revocation of Lei 10.637 art. 1 § 3º X) from 1.1.2024"),
+        ("lei-10637-de-2002", "lc-214-2025", "2025-01-16", [(ALL, "2025-05-01")],
+         "Lei Complementar 214/2025 art. 544: 'produzindo efeitos: I - a partir do primeiro dia do quarto mês subsequente ao da sua "
+         "publicação, em relação aos arts. 537 a 540' (DOU 16.1.2025): its art. 538 (Lei 10.637 art. 2 § 1º-A) from 1.5.2025"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,

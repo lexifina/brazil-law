@@ -3101,6 +3101,52 @@ if any(a["slug"] in (_L10637, _L10833) for a in ACTS):
             "Lei 10.637 art. 10: the note names 'Medida Provisória nº 11.488, de 2007' (no such MP; Lei 11.488/2007 is a "
             "Lei); its link is to Medida Provisória 447/2008, whose art. 2 gave art. 10 these words (read on its page)")
 
+_W413 = ("Lei 10.637 arts. 2 and 3: Medida Provisória 413/2008 (DOU 3.1.2008) art. 14 changed them (art. 2 XI and XII, art. 3 I "
+         "a)); its art. 18 II gave its arts. 3, 7 and 9 to 17 effect from the first day of the fourth month after publication, "
+         "and Medida Provisória 425/2008, before that day came, moved art. 14 to III ('a partir do 1º dia do mês subseqüente ao "
+         "da publicação do ato da Secretaria da Receita Federal do Brasil'); Lei 11.727/2008, its conversion, set the effect of "
+         "its own art. 14 from 1.10.2008: the MP's wordings are not shown as in effect (judgement call, as for Lei 9.718)")
+_W11727 = ("Lei 10.637 arts. 1, 2, 3 and 8: Lei 11.727/2008 (DOU 24.6.2008) art. 41: 'produzindo efeitos em relação: [...] IV - aos "
+           "arts. 7º, 9º a 12 e 14 a 16, a partir do primeiro dia do quarto mês subseqüente ao da publicação desta Lei; [...] VII - "
+           "aos arts. 32 a 39, a partir de 1º de janeiro de 2009' (IV and VII as Medida Provisória 436/2008 and Lei 11.827/2008, "
+           "its conversion, worded them before either day came) and art. 42 III c) (revocation of art. 1 § 3º IV and art. 8 VII "
+           "a) 'a partir do primeiro dia do quarto mês subseqüente ao da publicação desta Lei'): its art. 14 (art. 2 § 1º-A, art. "
+           "3 I a)) and the revocations from 1.10.2008, its art. 35 (art. 2 VIII and IX) from 1.1.2009, the wordings they replaced "
+           "until then (set by hand: Leis 11.787/2008 and Medida Provisória 451/2008 changed arts. 3 and 2 in between, so "
+           "effects_fix cannot move them); its art. 42 II a) (revocation of art. 37 from 1.5.2008) reaches back before the "
+           "publication, which is kept")
+_W451 = ("Lei 10.637 art. 3 § 15: Medida Provisória 451/2008 (DOU 16.12.2008) art. 22: 'produzindo efeitos: [...] II - a partir "
+         "do primeiro dia do quarto mês subseqüente ao da publicação desta Medida Provisória, em relação ao disposto: a) no art. "
+         "8º, relativamente ao § 15 do art. 3º da Lei nº 10.637': the § 15 it added from 1.4.2009 (set by hand: Lei 11.898/2009 "
+         "changed art. 3 in between, so effects_fix cannot move it); its § 16 on publication")
+_E1010 = {"end": "2008-10-01", "end_law": "lei-11727-2008"}
+_S1010 = {"start": "2008-10-01", "start_law": "lei-11727-2008"}
+_E0101 = {"end": "2009-01-01", "end_law": "lei-11727-2008"}
+_S0101 = {"start": "2009-01-01", "start_law": "lei-11727-2008"}
+B8.SPAN_FIX += [
+    ((_L10637, "art-03", "a)", "a) no inciso III do § 3º do art. 1º; e", 0), {"skip": True, "end_how": "never-in-effect"}, _W413),
+    ((_L10637, "art-02", "XI -", "XI no caput do art. 5º da Lei nº 9.718", 0), {"skip": True, "end_how": "never-in-effect"}, _W413),
+    ((_L10637, "art-02", "XII -", "XII - no § 2º do art. 5º da Lei nº 9.718", 0), {"skip": True, "end_how": "never-in-effect"},
+     _W413),
+    ((_L10637, "art-03", "a)", "a) nos incisos III e IV do § 3º do art. 1º desta Lei; e", 0), dict(_E1010, end_how="successor"),
+     _W11727),
+    ((_L10637, "art-03", "a)", "a) no inciso III do § 3º do art. 1º desta Lei; e.", 0), dict(_S1010), _W11727),
+    ((_L10637, "art-02", "§ 1º-A", "§ 1º-A. Excetua-se do disposto no caput deste artigo a receita bruta auferida pelos produtores",
+      0), dict(_S1010), _W11727),
+    ((_L10637, "art-02", "VIII -", "VIII - no art. 49 da Lei nº 10.833", 0), dict(_E0101, end_how="successor"), _W11727),
+    ((_L10637, "art-02", "IX -", "IX - no art. 52 da Lei nº 10.833", 0), dict(_E0101, end_how="successor"), _W11727),
+    ((_L10637, "art-02", "VIII -", "VIII - no art. 58-I da Lei nº 10.833", 0), dict(_S0101), _W11727),
+    ((_L10637, "art-02", "IX -", "IX - no inciso II do art. 58-M da Lei nº 10.833", 0), dict(_S0101), _W11727),
+    ((_L10637, "art-01", "IV -", "IV - de venda de álcool para fins carburantes", 0), dict(_E1010, end_how="note"), _W11727),
+    ((_L10637, "art-08", "a)", "a) referidas no inciso IV do § 3º do art. 1º", 0), dict(_E1010, end_how="note"), _W11727),
+    ((_L10637, "art-03", "§ 15", "§ 15. Sem prejuízo da vedação", 0), {"start": "2009-04-01", "start_law": "mp-451-2008"}, _W451),
+]
+if any(a["slug"] == _L10637 for a in ACTS):
+    P.VIGENCIA_PROVISION[("lei-12973-2014", _L10637, "art-55")] = (
+        "2014-05-14", "Lei 12.973/2014 art. 119: 'Esta Lei entra em vigor em 1º de janeiro de 2015, exceto os arts. 3º, 72 a 75 e "
+                      "93 a 119, que entram em vigor na data de sua publicação' (DOU 14.5.2014); its art. 118 ('Revoga-se o art. "
+                      "55 da Lei nº 10.637 [...], a partir da data de publicação desta Lei') falls under the exception")
+
 P.build_act = B.build_act = build_act
 
 SRC = HERE / "sources_batch17.json"
