@@ -570,7 +570,7 @@ B6.PB5B._write_part5 = _inner
 B8.SPAN_FIX.append(
     ((_CTB, "art-147", "Parágrafo único", "Parágrafo único Os resultados dos exames", 0),
      {"end": "1998-01-22", "end_law": "lei-9602-1998", "end_how": "renumbered"},
-     "Código de Trânsito Brasileiro art. 147: Lei nº 9.602, de 1998, art. 3 renumbered the parágrafo único as § 1º "
+     "Código de Trânsito Brasileiro art. 147: Lei nº 9.602, de 1998, art. 2 renumbered the parágrafo único as § 1º "
      "('renumerando-se o atual parágrafo único para § 1º'), in force 22.1.1998, the code's own first day: the parágrafo "
      "único stands only in the code as enacted"))
 
