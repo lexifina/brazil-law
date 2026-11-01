@@ -1940,3 +1940,49 @@ sources_batch17.json, effects_fix.py, bad_pins.json, law_records.json, README, j
   (MPs 292/335 of 2006 Vide-only, MP 1.647 chain, MPs 152/2003 and 283/2006 Vide).
 - pipe.sh zzzh (b30/zzzh-pipe3.out): sha 76005ca7 x2, 0 moves, flags benign (PUBLISH). conv 0. Installed; rows-zzzh.json; merged
   275 acts, 3773 versions, 2684 commits, check 0/0, compare identical, audit clean.
+### Next ranked list (thirtieth session; checked against every installed part's acts and law keys, no request)
+ 1 Decreto-Lei 3.365/1941 desapropriação [zzzi]   2 Lei 4.132/1962 desapropriação por interesse social [zzzi]
+ 3 Decreto-Lei 25/1937 tombamento [zzzi]          4 Lei 12.608/2012 Proteção e Defesa Civil   5 Lei 13.089/2015 Estatuto da Metrópole
+ 6 Lei 9.393/1996 ITR   7 Lei 11.952/2009 regularização fundiária na Amazônia Legal   8 Lei 13.966/2019 franquia
+ 9 Lei 14.063/2020 assinaturas eletrônicas   10 Lei 13.988/2020 transação tributária   11 Lei 12.990/2014 cotas em concursos
+12 Lei 10.887/2004   13 Lei 11.795/2008 consórcio   14 Lei 12.682/2012 digitalização   15 Lei 6.383/1976 ações discriminatórias
+16 Lei 10.711/2003 sementes   17 Lei 9.069/1995 Plano Real   18 heavy tax laws: Decreto-Lei 1.598/1977, Lei 11.196/2005
+19 historic codes (large): Código Comercial (Lei 556/1850), CPC 1973 (Lei 5.869/1973), Código Civil 1916 (Lei 3.071/1916).
+### 99-batch17zzzi - PUBLISHed: Decreto-Lei 3.365/1941 (LDesap, 22), Lei 4.132/1962 (LDIS, 3), Decreto-Lei 25/1937 (LTomb, 2)
+- Pages pinned (`iaonly.py pages`): del3365, del3365-compilado, l4132, del0025; `laws` 10 new, `missing` 0. Bad pin law:lei-6306-1978
+  (note misprint; page = Lei 6.306/1975) removed + bad_pins.json; gap law:lei-6306-1975. LexML (robots.txt read: /urn allowed,
+  Crawl-delay 5; lexml1.py, 6 s apart, 4 records): lei-6602-1978 published 12.12.1978 (footer misprints 1975; the LexML correction
+  applies it), lei-4132-1962 7.11.1962, dl-3365-1941 18.7.1941, dl-25-1937 6.12.1937.
+- In-force days: DL 3.365 28.7.1941 (DF, 10 days; as Lei 263/1948), Lei 4.132 22.12.1962 (LINDB 45 days), DL 25 9.12.1937 (1916
+  Introdução, 3 days in the DF; republication 11.12.1937 in OPEN_ITEMS).
+- Block '# part zzzi': paragraphs wrapper on del3365 (MP 2.183-56 'Art. 15A' lines -> art-15-a, MP 700 '§ 2ºA' -> § 2º-A label),
+  SPAN_FIX _W15A (MP 2.183 art. 15-A copies: to 9.12.2015 / 18.5.2016-14.7.2023), _W15A4 (§ 4º absent during MP 700), art. 7 second
+  sentence second copy from 18.5.2016, NOTE_FIX Lei 6.306 '1978', _W14701_31 (Lei 4.132 art. 2 IX from the promulgation 28.12.2023,
+  as part 16e's Lei 14.701 art. 32), EXPLAINED art-05, OPEN_ITEMS (ADIs 2.260/2.332; ADC 87 etc.; DL 25 republication).
+- pipe.sh zzzi (b30/zzzi-pipe3.out): sha df7ac180 x2, 0 moves, flags benign (PUBLISH). conv 0. Installed a4fd0439; rows-zzzi.json.
+### 99-batch17zzzg re-PUBLISHed: Seção XIII-A heading (Lei 14.816's name line dated by its label's note; it had read from 2023-06-20)
+- Found by the new check brazil-b30/tools/dupsame.py <part.json>... (a line > 30 chars printed twice in one unit on some day). pipe.sh
+  zzzg (b30/zzzg-pipe2.out): sha 12a1cdd1 x2. Installed 12a1cdd1.
+- dupsame over EVERY installed part (b30/dupsame-all.txt): 104 hits in older parts (70-clt 25, 99-batch9 10, 99-batch10 9, 60-phase2 7,
+  17zt 6, 17zzn 5, 99-batch7 4, 17zzx 4, 17zzi 4, ...); not reviewed: some will be legitimate repeats (quoted amendments, identical
+  incisos), some may be real doubled lines like the two found here. OPEN for the coordinator.
+
+## State at handoff (batch 17, thirtieth session, 2026-11-01)
+Installed with .PUBLISH this session: zzze (Leis 13.448/2017, 10.180/2001, 8.730/1993; 9 versions), zzzf (Lei 11.473/2007; 13), zzzg
+(Lei 14.600/2023; 7), zzzh (Lei 9.636/1998; 22), zzzi (Decreto-Lei 3.365/1941, Lei 4.132/1962, Decreto-Lei 25/1937; 27) = 9 acts, 78
+versions; re-PUBLISHed: zzzd (coordinator decision text), zzm (record lei-9636-1998). Final merged build of the installed folder after
+all docs (brazil-b30/final30-build.log): 278 acts, 3800 versions, 2695 commits, check 0/0, --compare identical, audit_push clean on main
+and futuro; README rows and jurisdiction.json (278 acts, 3800 versions) current. Only the intended parts changed (b30/corpusd-before.txt
+vs corpusd-after.txt). headyear (b30/hy4.log) = b29/hy1. All runs through .tmp/run.py / pipe.sh at BelowNormal behind the cpu gate, at
+most 2 at once, never two parses; PIDs printed in each b30 log / pipe output; all mine, all exited; nothing running. Fetching:
+archive.org through the shared client (robots.txt read at start), 5 LexML /urn records (robots.txt read; >= 6 s apart); no challenge
+page.
+New in code: parse_batch17 PAGES (l14600 ... del0025), acts/PARTS/ACT_DAY/ACT_LAWS zzze-zzzi, blocks '# part zzze' (lei-13328-2016,
+dec-4427-2002 via B12.DECREES), '# part zzzf', '# part zzzg' (+ l14600 heading wrapper), '# part zzzh' (HEAD_FIX, l9636 wrapper,
+SPAN_FIX), '# part zzzi' (del3365 wrapper, SPAN_FIX); law_records.json lei-9636-1998; bad_pins.json + lei-12963-2012, mp-152-2003,
+lei-6306-1978. Backups: brazil-b30/before/.
+NEXT: the ranked list above from item 4 (Lei 12.608/2012). Run dupsame.py on each new part (add it to pipe.sh if the coordinator agrees).
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once archive.org
+has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026 congresso) once archived ->
+MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.
+OPEN for the coordinator: dupsame's 104 hits in older parts (above). zzzd's open item is settled (decision recorded).

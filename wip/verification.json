@@ -1,14 +1,14 @@
 {
  "check": {
-  "acts": 275,
+  "acts": 278,
   "backwards": 0,
-  "corpus_sha256": "1d68787ce7abbaffb071e56d4948797488a4f32620238dad248608c4500d1819",
+  "corpus_sha256": "6fabec6e2d3852b0562fffe8f4ca6c0f0587815ffac03474177b06d6fe9cad71",
   "future_dated": 0,
   "merges": 0,
   "mismatches": 0,
   "missing_in_force": 0,
   "trailer_errors": 0,
-  "versions": 3773
+  "versions": 3800
  },
  "rebuild": {
   "commits": 995,

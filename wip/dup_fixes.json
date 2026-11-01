@@ -1,0 +1,479 @@
+{
+ "about": "Doubled lines removed after the replay by dupfix.py; each reviewed against the pages (2026-11-01).",
+ "fixes": [
+  {
+   "part": "60-phase2",
+   "act": "codigo-penal",
+   "unit": "art-121",
+   "from": "1942-01-01",
+   "until": "2020-01-23",
+   "op": "drop_block",
+   "block": [
+    "VIII - (VETADO):",
+    "Pena - reclusão, de doze a trinta anos."
+   ],
+   "why": "art. 121 § 2º: the '(VETADO)' inciso VIII and the penalty line printed after it stood from 1942; they start with Lei 13.964/2019"
+  },
+  {
+   "part": "60-phase2",
+   "act": "codigo-penal",
+   "unit": "art-129",
+   "from": "2024-10-10",
+   "until": "2026-07-02",
+   "op": "drop",
+   "lines": [
+    "Pena - detenção, de 3 (três) meses a 3 (três) anos."
+   ],
+   "why": "art. 129 § 9º: the 2006 penalty (detenção) stood beside the penalty Lei 14.994/2024 gave; it ends with that law"
+  },
+  {
+   "part": "60-phase2",
+   "act": "codigo-penal",
+   "unit": "titulos",
+   "from": "2009-08-10",
+   "until": null,
+   "op": "drop_block",
+   "block": [
+    "TÍTULO VI",
+    "DOS CRIMES CONTRA OS COSTUMES",
+    "CAPÍTULO I",
+    "DOS CRIMES CONTRA A LIBERDADE SEXUAL"
+   ],
+   "why": "Título VI and its Capítulo I as named in 1940 stood beside the names Lei 12.015/2009 gave them; they end with that law"
+  },
+  {
+   "part": "60-phase2",
+   "act": "codigo-penal",
+   "unit": "titulos",
+   "from": "1942-01-01",
+   "until": "2018-12-20",
+   "op": "drop",
+   "lines": [
+    "DA EXPOSIÇÃO DA INTIMIDADE SEXUAL"
+   ],
+   "why": "the name of Capítulo I-A stood from 1942; it starts with its label, inserted by Lei 13.772/2018"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-530",
+   "from": "1943-11-10",
+   "until": "1945-10-11",
+   "op": "set",
+   "lines": [
+    "Art. 530. Não podem ser eleitos para cargos administrativos ou de representação econômica ou profissional:",
+    "a) os que professarem ideologias incompatíveis com as instituições ou os interesses da Nação;",
+    "b) os que não tiverem aprovadas as suas contas de exercício em cargo de administração;",
+    "c) os que houverem lesado o patrimônio de qualquer entidade sindical;",
+    "d) os que não estiverem, desde dois anos antes, pelo menos, no exercício efetivo da atividade ou da profissão dentro da base territorial do sindicato, ou no desempenho de representação econômica ou profissional;",
+    "e) os que tiverem má conduta, devidamente comprovada.",
+    "Parágrafo único. É vedada a reeleição, para o período imediato de qualquer membro da diretoria e do conselho fiscal dos sindicatos de empregados e de trabalhadores autônomos. Igual proibição se observará em relação ao terço dos membros da diretoria e do conselho fiscal, nos sindicatos de empregadores, de agentes autônomos e de profissionais liberais."
+   ],
+   "why": "art. 530: Planalto prints the 1943 article before and after the 1946 block (Decreto-Lei 8.740, suspended by Decreto-Lei 8.987-A), and each later parágrafo único twice; the article now reads once in each period: alíneas a) to e) of 1943, Decreto-Lei 8.740's a) to d) from 21.1.1946 to 23.2.1946, a) revoked by Lei 1.667/1952, the parágrafo único as Decretos-Leis 8.080, 9.502 and 9.675 worded it until Lei 2.693/1955 revoked it"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-530",
+   "from": "1945-10-11",
+   "until": "1946-01-21",
+   "op": "set",
+   "lines": [
+    "Art. 530. Não podem ser eleitos para cargos administrativos ou de representação econômica ou profissional:",
+    "a) os que professarem ideologias incompatíveis com as instituições ou os interesses da Nação;",
+    "b) os que não tiverem aprovadas as suas contas de exercício em cargo de administração;",
+    "c) os que houverem lesado o patrimônio de qualquer entidade sindical;",
+    "d) os que não estiverem, desde dois anos antes, pelo menos, no exercício efetivo da atividade ou da profissão dentro da base territorial do sindicato, ou no desempenho de representação econômica ou profissional;",
+    "e) os que tiverem má conduta, devidamente comprovada.",
+    "Parágrafo único. É vedada a reeleição, para o período imediato, de um têrço dos membros da diretoria e do conselho fiscal das entidades sindicais."
+   ],
+   "why": "art. 530: Planalto prints the 1943 article before and after the 1946 block (Decreto-Lei 8.740, suspended by Decreto-Lei 8.987-A), and each later parágrafo único twice; the article now reads once in each period: alíneas a) to e) of 1943, Decreto-Lei 8.740's a) to d) from 21.1.1946 to 23.2.1946, a) revoked by Lei 1.667/1952, the parágrafo único as Decretos-Leis 8.080, 9.502 and 9.675 worded it until Lei 2.693/1955 revoked it"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-530",
+   "from": "1946-01-21",
+   "until": "1946-02-23",
+   "op": "set",
+   "lines": [
+    "Art. 530. Não podem ser eleitos para cargos administrativos ou de representação econômica ou profissional:",
+    "a) os que não tiverem aprovadas as suas contas de exercício em cargo de administração;",
+    "b) os que houverem lesado o patrimônio de qualquer entidade sindical;",
+    "c) os que não estiverem, desde dois anos antes, pelo menos, no exercício efetivo da atividade ou da profissão dentro da base territorial do sindicato, ou no desempenho de representação econômica ou profissional;",
+    "d) os que tiverem má conduta, devidamente comprovada.",
+    "Parágrafo único. É vedada a reeleição, para o período imediato, de um têrço dos membros da diretoria e do conselho fiscal das entidades sindicais."
+   ],
+   "why": "art. 530: Planalto prints the 1943 article before and after the 1946 block (Decreto-Lei 8.740, suspended by Decreto-Lei 8.987-A), and each later parágrafo único twice; the article now reads once in each period: alíneas a) to e) of 1943, Decreto-Lei 8.740's a) to d) from 21.1.1946 to 23.2.1946, a) revoked by Lei 1.667/1952, the parágrafo único as Decretos-Leis 8.080, 9.502 and 9.675 worded it until Lei 2.693/1955 revoked it"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-530",
+   "from": "1946-02-23",
+   "until": "1946-07-27",
+   "op": "set",
+   "lines": [
+    "Art. 530. Não podem ser eleitos para cargos administrativos ou de representação econômica ou profissional:",
+    "a) os que professarem ideologias incompatíveis com as instituições ou os interesses da Nação;",
+    "b) os que não tiverem aprovadas as suas contas de exercício em cargo de administração;",
+    "c) os que houverem lesado o patrimônio de qualquer entidade sindical;",
+    "d) os que não estiverem, desde dois anos antes, pelo menos, no exercício efetivo da atividade ou da profissão dentro da base territorial do sindicato, ou no desempenho de representação econômica ou profissional;",
+    "e) os que tiverem má conduta, devidamente comprovada.",
+    "Parágrafo único. É vedada a reeleição, para o período imediato, de um têrço dos membros da diretoria e do conselho fiscal das entidades sindicais."
+   ],
+   "why": "art. 530: Planalto prints the 1943 article before and after the 1946 block (Decreto-Lei 8.740, suspended by Decreto-Lei 8.987-A), and each later parágrafo único twice; the article now reads once in each period: alíneas a) to e) of 1943, Decreto-Lei 8.740's a) to d) from 21.1.1946 to 23.2.1946, a) revoked by Lei 1.667/1952, the parágrafo único as Decretos-Leis 8.080, 9.502 and 9.675 worded it until Lei 2.693/1955 revoked it"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-530",
+   "from": "1946-07-27",
+   "until": "1946-08-31",
+   "op": "set",
+   "lines": [
+    "Art. 530. Não podem ser eleitos para cargos administrativos ou de representação econômica ou profissional:",
+    "a) os que professarem ideologias incompatíveis com as instituições ou os interesses da Nação;",
+    "b) os que não tiverem aprovadas as suas contas de exercício em cargo de administração;",
+    "c) os que houverem lesado o patrimônio de qualquer entidade sindical;",
+    "d) os que não estiverem, desde dois anos antes, pelo menos, no exercício efetivo da atividade ou da profissão dentro da base territorial do sindicato, ou no desempenho de representação econômica ou profissional;",
+    "e) os que tiverem má conduta, devidamente comprovada.",
+    "Parágrafo único: É vedada a releição para o período imediato e no transcurso do tempo correspondente ao respectivo mandato de qualquer membro da diretoria e do conselho fiscal dos sindicatos de empregados,de trabalhadores autônomos, de agentes autônomos, e de profissionais liberais. Igual proibição se observará em relação ao têrço dos membros da diretoria e do conselho fiscal, nos sindicatos dos empregadores."
+   ],
+   "why": "art. 530: Planalto prints the 1943 article before and after the 1946 block (Decreto-Lei 8.740, suspended by Decreto-Lei 8.987-A), and each later parágrafo único twice; the article now reads once in each period: alíneas a) to e) of 1943, Decreto-Lei 8.740's a) to d) from 21.1.1946 to 23.2.1946, a) revoked by Lei 1.667/1952, the parágrafo único as Decretos-Leis 8.080, 9.502 and 9.675 worded it until Lei 2.693/1955 revoked it"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-530",
+   "from": "1946-08-31",
+   "until": "1952-09-05",
+   "op": "set",
+   "lines": [
+    "Art. 530. Não podem ser eleitos para cargos administrativos ou de representação econômica ou profissional:",
+    "a) os que professarem ideologias incompatíveis com as instituições ou os interesses da Nação;",
+    "b) os que não tiverem aprovadas as suas contas de exercício em cargo de administração;",
+    "c) os que houverem lesado o patrimônio de qualquer entidade sindical;",
+    "d) os que não estiverem, desde dois anos antes, pelo menos, no exercício efetivo da atividade ou da profissão dentro da base territorial do sindicato, ou no desempenho de representação econômica ou profissional;",
+    "e) os que tiverem má conduta, devidamente comprovada.",
+    "Parágrafo único. Sòmente será permitida a reeleição, para o período imediato, de 1/3 (um têrço) dos membros da Diretoria, do Conselho Fiscal e do Conselho de Representantes de associação sindical de qualquer grau, vedada a reeleição dos demais, considerando-se sempre inelegíveis, para êsse período, aquêles que exerçam seus mandatas em virtude de reeleição."
+   ],
+   "why": "art. 530: Planalto prints the 1943 article before and after the 1946 block (Decreto-Lei 8.740, suspended by Decreto-Lei 8.987-A), and each later parágrafo único twice; the article now reads once in each period: alíneas a) to e) of 1943, Decreto-Lei 8.740's a) to d) from 21.1.1946 to 23.2.1946, a) revoked by Lei 1.667/1952, the parágrafo único as Decretos-Leis 8.080, 9.502 and 9.675 worded it until Lei 2.693/1955 revoked it"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-530",
+   "from": "1952-09-05",
+   "until": "1955-12-29",
+   "op": "set",
+   "lines": [
+    "Art. 530. Não podem ser eleitos para cargos administrativos ou de representação econômica ou profissional:",
+    "b) os que não tiverem aprovadas as suas contas de exercício em cargo de administração;",
+    "c) os que houverem lesado o patrimônio de qualquer entidade sindical;",
+    "d) os que não estiverem, desde dois anos antes, pelo menos, no exercício efetivo da atividade ou da profissão dentro da base territorial do sindicato, ou no desempenho de representação econômica ou profissional;",
+    "e) os que tiverem má conduta, devidamente comprovada.",
+    "Parágrafo único. Sòmente será permitida a reeleição, para o período imediato, de 1/3 (um têrço) dos membros da Diretoria, do Conselho Fiscal e do Conselho de Representantes de associação sindical de qualquer grau, vedada a reeleição dos demais, considerando-se sempre inelegíveis, para êsse período, aquêles que exerçam seus mandatas em virtude de reeleição."
+   ],
+   "why": "art. 530: Planalto prints the 1943 article before and after the 1946 block (Decreto-Lei 8.740, suspended by Decreto-Lei 8.987-A), and each later parágrafo único twice; the article now reads once in each period: alíneas a) to e) of 1943, Decreto-Lei 8.740's a) to d) from 21.1.1946 to 23.2.1946, a) revoked by Lei 1.667/1952, the parágrafo único as Decretos-Leis 8.080, 9.502 and 9.675 worded it until Lei 2.693/1955 revoked it"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-530",
+   "from": "1955-12-29",
+   "until": "1967-02-28",
+   "op": "set",
+   "lines": [
+    "Art. 530. Não podem ser eleitos para cargos administrativos ou de representação econômica ou profissional:",
+    "b) os que não tiverem aprovadas as suas contas de exercício em cargo de administração;",
+    "c) os que houverem lesado o patrimônio de qualquer entidade sindical;",
+    "d) os que não estiverem, desde dois anos antes, pelo menos, no exercício efetivo da atividade ou da profissão dentro da base territorial do sindicato, ou no desempenho de representação econômica ou profissional;",
+    "e) os que tiverem má conduta, devidamente comprovada."
+   ],
+   "why": "art. 530: Planalto prints the 1943 article before and after the 1946 block (Decreto-Lei 8.740, suspended by Decreto-Lei 8.987-A), and each later parágrafo único twice; the article now reads once in each period: alíneas a) to e) of 1943, Decreto-Lei 8.740's a) to d) from 21.1.1946 to 23.2.1946, a) revoked by Lei 1.667/1952, the parágrafo único as Decretos-Leis 8.080, 9.502 and 9.675 worded it until Lei 2.693/1955 revoked it"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-534",
+   "from": "1946-02-23",
+   "until": "1957-09-23",
+   "op": "dedupe",
+   "lines": [
+    "§ 1º As federações serão constituídas por Estados, podendo o Ministro do Trabalho, Indústria e Comércio autorizar a constituições de federações interestaduais ou nacionais."
+   ],
+   "why": "art. 534 § 1º: the 1943 wording Decreto-Lei 8.987-A restored was read a second time"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-538",
+   "from": "1946-02-23",
+   "until": "1955-12-29",
+   "op": "dedupe",
+   "lines": [
+    "§ 1º A diretoria será constituida, no máximo, de sete e, no mínimo, de três membros, eleitos pelo conselho dos representantes, com mandato por dois anos.",
+    "§ 2º O presidente da federação ou confederação será escolhido, dentre os seus membros, pela diretoria."
+   ],
+   "why": "art. 538 §§ 1º and 2º: the 1943 wording Decreto-Lei 8.987-A restored was read a second time"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-580",
+   "from": "1943-11-10",
+   "until": "1946-01-21",
+   "op": "drop_block",
+   "block": [
+    "Capital até Cr$ 10.000......................................................................................................................................................................................................................",
+    "Cr$ 30",
+    "De mais de Cr$ 10.000 até 50.000.....................................................................................................................................................................................................",
+    "Cr$ 60",
+    "De mais de Cr$ 50.000 até 100.000...................................................................................................................................................................................................",
+    "Cr$ 100",
+    "De mais de Cr$ 100.000 até 250.000...................................................................................................................................................................................................",
+    "Cr$ 250",
+    "De mais de Cr$ 250.000 até 500.000...................................................................................................................................................................................................",
+    "Cr$ 300",
+    "De mais de Cr$ 500.000 até 1.000.000.................................................................................................................................................................................................",
+    "Cr$ 500",
+    "De mais de Cr$ 1.000.000 até 5.000.000..............................................................................................................................................................................................",
+    "Cr$ 1.000",
+    "De mais de Cr$ 5.000.000 até 10.000.000.............................................................................................................................................................................................",
+    "Cr$ 3.000",
+    "Superior a Cr$10.000.000.....................................................................................................................................................................................................................",
+    "Cr$ 5.000"
+   ],
+   "why": "art. 580 alínea c): the 1943 table printed before and after the 1946 block was read twice"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-580",
+   "from": "1946-01-21",
+   "until": "1946-02-23",
+   "op": "drop_block",
+   "block": [
+    "Capital até Cr$ 10.000......................................................................................................................................................................................................................",
+    "Cr$ 30",
+    "De mais de Cr$ 10.000 até 50.000.....................................................................................................................................................................................................",
+    "Cr$ 60",
+    "De mais de Cr$ 50.000 até 100.000...................................................................................................................................................................................................",
+    "Cr$ 100",
+    "De mais de Cr$ 100.000 até 250.000...................................................................................................................................................................................................",
+    "Cr$ 250",
+    "De mais de Cr$ 250.000 até 500.000...................................................................................................................................................................................................",
+    "Cr$ 300",
+    "De mais de Cr$ 500.000 até 1.000.000.................................................................................................................................................................................................",
+    "Cr$ 500",
+    "De mais de Cr$ 1.000.000 até 5.000.000..............................................................................................................................................................................................",
+    "Cr$ 1.000",
+    "De mais de Cr$ 5.000.000 até 10.000.000.............................................................................................................................................................................................",
+    "Cr$ 3.000",
+    "Superior a Cr$10.000.000.....................................................................................................................................................................................................................",
+    "Cr$ 5.000"
+   ],
+   "why": "art. 580 alínea c): Decreto-Lei 8.740 replaced the alínea and its table; the table returns with Decreto-Lei 8.987-A"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-628-a",
+   "from": "2019-11-12",
+   "until": "2020-04-20",
+   "op": "dedupe",
+   "lines": [
+    "Art. 628-A. Fica instituído o Domicílio Eletrônico Trabalhista, regulamentado pela Secretaria Especial de Previdência e Trabalho do Ministério da Economia, destinado a:",
+    "I - cientificar o empregador de quaisquer atos administrativos, ações fiscais, intimações e avisos em geral; e",
+    "II - receber, por parte do empregador, documentação eletrônica exigida no curso das ações fiscais ou apresentação de defesa e recurso no âmbito de processos administrativos.",
+    "§ 1º As comunicações eletrônicas realizadas pelo Domicílio Eletrônico Trabalhista dispensam a sua publicação no Diário Oficial da União e o envio por via postal e são consideradas pessoais para todos os efeitos legais.",
+    "§ 2º A ciência por meio do sistema de comunicação eletrônica, com utilização de certificação digital ou de código de acesso, possuirá os requisitos de validade.",
+    "§ 3º A utilização do sistema de comunicação eletrônica previsto no caput é obrigatória para todos os empregadores, conforme estabelecido em ato da Secretaria Especial de Previdência e Trabalho do Ministério da Economia, garantidos prazos diferenciados para as microempresas e as empresas de pequeno porte.",
+    "§ 4º O empregador deverá consultar o sistema de comunicação eletrônica no prazo de até dez dias, contado da data de notificação por correio eletrônico cadastrado.",
+    "§ 5º Encerrado o prazo a que se refere o § 4º, considera-se automaticamente que a comunicação eletrônica foi realizada.",
+    "§ 6º A comunicação eletrônica a que se refere o caput, em relação ao empregador doméstico, ocorrerá por meio da utilização de sistema eletrônico na forma prevista pelo art. 32 da Lei Complementar nº 150, de 1º de junho de 2015.",
+    "§ 7º A comunicação eletrônica a que se refere o caput não afasta a possibilidade de utilização de outros meios legais de comunicação com o empregador a serem utilizados a critério da autoridade competente."
+   ],
+   "why": "art. 628-A: Planalto prints Medida Provisória 905/2019's article twice (with its own note and with the revoking note)"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-628-a",
+   "from": "2020-08-18",
+   "until": "2020-08-19",
+   "op": "dedupe",
+   "lines": [
+    "Art. 628-A. Fica instituído o Domicílio Eletrônico Trabalhista, regulamentado pela Secretaria Especial de Previdência e Trabalho do Ministério da Economia, destinado a:",
+    "I - cientificar o empregador de quaisquer atos administrativos, ações fiscais, intimações e avisos em geral; e",
+    "II - receber, por parte do empregador, documentação eletrônica exigida no curso das ações fiscais ou apresentação de defesa e recurso no âmbito de processos administrativos.",
+    "§ 1º As comunicações eletrônicas realizadas pelo Domicílio Eletrônico Trabalhista dispensam a sua publicação no Diário Oficial da União e o envio por via postal e são consideradas pessoais para todos os efeitos legais.",
+    "§ 2º A ciência por meio do sistema de comunicação eletrônica, com utilização de certificação digital ou de código de acesso, possuirá os requisitos de validade.",
+    "§ 3º A utilização do sistema de comunicação eletrônica previsto no caput é obrigatória para todos os empregadores, conforme estabelecido em ato da Secretaria Especial de Previdência e Trabalho do Ministério da Economia, garantidos prazos diferenciados para as microempresas e as empresas de pequeno porte.",
+    "§ 4º O empregador deverá consultar o sistema de comunicação eletrônica no prazo de até dez dias, contado da data de notificação por correio eletrônico cadastrado.",
+    "§ 5º Encerrado o prazo a que se refere o § 4º, considera-se automaticamente que a comunicação eletrônica foi realizada.",
+    "§ 6º A comunicação eletrônica a que se refere o caput, em relação ao empregador doméstico, ocorrerá por meio da utilização de sistema eletrônico na forma prevista pelo art. 32 da Lei Complementar nº 150, de 1º de junho de 2015.",
+    "§ 7º A comunicação eletrônica a que se refere o caput não afasta a possibilidade de utilização de outros meios legais de comunicação com o empregador a serem utilizados a critério da autoridade competente."
+   ],
+   "why": "art. 628-A: Planalto prints Medida Provisória 905/2019's article twice (with its own note and with the revoking note)"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "art-553",
+   "from": "2020-04-20",
+   "until": "2020-08-18",
+   "op": "dedupe",
+   "lines": [
+    "Art. 553 - As infrações ao disposto neste Capítulo serão punidas, segundo o seu caráter e a sua gravidade, com as seguintes penalidades:"
+   ],
+   "why": "art. 553: the 1943 caput Medida Provisória 955/2020 brought back was read twice"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "titulos",
+   "from": "2019-11-12",
+   "until": "2020-04-20",
+   "op": "drop_block",
+   "block": [
+    "CAPÍTULO I",
+    "DA FISCALIZAÇÃO, DA AUTUAÇÃO E DA IMPOSIÇÃO DE MULTAS"
+   ],
+   "why": "Título VII Capítulo I: its heading as Medida Provisória 905/2019 printed it was read twice"
+  },
+  {
+   "part": "70-clt",
+   "act": "clt",
+   "unit": "titulos",
+   "from": "2020-04-20",
+   "until": "2020-08-18",
+   "op": "drop_block",
+   "block": [
+    "TÍTULO VII",
+    "DO PROCESSO DE MULTAS ADMINISTRATIVAS",
+    "CAPÍTULO I",
+    "DA FISCALIZAÇÃO, DA AUTUAÇÃO E DA IMPOSIÇÃO DE MULTAS"
+   ],
+   "why": "Título VII and its Capítulo I: the 1943 headings Medida Provisória 955/2020 brought back were read twice"
+  },
+  {
+   "part": "99-batch13f",
+   "act": "lei-do-sistema-financeiro-nacional",
+   "unit": "art-04",
+   "from": "1965-03-31",
+   "until": "1970-02-19",
+   "op": "drop_block",
+   "block": [
+    "das regiões geo-econômicas;",
+    "das prioridades que atribuir às aplicações;",
+    "da natureza das instituições financeiras;",
+    "das regiões geo-econômicas;",
+    "das prioridades que atribuir às aplicações;",
+    "da natureza das instituições financeiras."
+   ],
+   "why": "art. 4º XIV: the three items of alínea a) of each later wording (Decretos-Leis 1.085/1970 and 1.580/1977) stood under the earlier wording; each starts with its wording"
+  },
+  {
+   "part": "99-batch13f",
+   "act": "lei-do-sistema-financeiro-nacional",
+   "unit": "art-04",
+   "from": "1970-02-19",
+   "until": "1977-10-18",
+   "op": "drop_block",
+   "block": [
+    "das regiões geo-econômicas;",
+    "das prioridades que atribuir às aplicações;",
+    "da natureza das instituições financeiras."
+   ],
+   "why": "art. 4º XIV: the three items of alínea a) of each later wording (Decretos-Leis 1.085/1970 and 1.580/1977) stood under the earlier wording; each starts with its wording"
+  },
+  {
+   "part": "99-batch17i",
+   "act": "lei-9250-de-1995",
+   "unit": "art-08",
+   "from": "2011-08-29",
+   "until": "2014-05-02",
+   "op": "dedupe",
+   "lines": [
+    "9. R$ 3.375,83 (três mil, trezentos e setenta e cinco reais e oitenta e três centavos) a partir do ano-calendário de 2014;",
+    "8. R$ 2.156,52 (dois mil, cento e cinquenta e seis reais e cinquenta e dois centavos) a partir do ano-calendário de 2014;"
+   ],
+   "why": "art. 8º II b) item 9 and c) item 8: the wording of Medida Provisória 528/2011 and the same wording of its conversion Lei 12.469/2011 stood side by side; read once, and replaced while Medida Provisória 644/2014 was in force"
+  },
+  {
+   "part": "99-batch17i",
+   "act": "lei-9250-de-1995",
+   "unit": "art-08",
+   "from": "2014-05-02",
+   "until": "2014-08-30",
+   "op": "drop",
+   "lines": [
+    "9. R$ 3.375,83 (três mil, trezentos e setenta e cinco reais e oitenta e três centavos) a partir do ano-calendário de 2014;",
+    "8. R$ 2.156,52 (dois mil, cento e cinquenta e seis reais e cinquenta e dois centavos) a partir do ano-calendário de 2014;"
+   ],
+   "why": "art. 8º II b) item 9 and c) item 8: the wording of Medida Provisória 528/2011 and the same wording of its conversion Lei 12.469/2011 stood side by side; read once, and replaced while Medida Provisória 644/2014 was in force"
+  },
+  {
+   "part": "99-batch17zf",
+   "act": "lei-da-ana",
+   "unit": "preambulo",
+   "from": "2000-07-18",
+   "until": "2018-07-09",
+   "op": "dedupe",
+   "lines": [
+    "Dispõe sobre a criação da Agência Nacional de Águas - ANA, entidade federal de implementação da Política Nacional de Recursos Hídricos e de coordenação do Sistema Nacional de Gerenciamento de Recursos Hídricos, e dá outras providências."
+   ],
+   "why": "the ementa as enacted is printed three times (as enacted, and again after Medidas Provisórias 844/2018 and 868/2018 lapsed); read once, and replaced while each was in force"
+  },
+  {
+   "part": "99-batch17zf",
+   "act": "lei-da-ana",
+   "unit": "preambulo",
+   "from": "2018-07-09",
+   "until": "2018-11-20",
+   "op": "drop",
+   "lines": [
+    "Dispõe sobre a criação da Agência Nacional de Águas - ANA, entidade federal de implementação da Política Nacional de Recursos Hídricos e de coordenação do Sistema Nacional de Gerenciamento de Recursos Hídricos, e dá outras providências."
+   ],
+   "why": "the ementa as enacted is printed three times (as enacted, and again after Medidas Provisórias 844/2018 and 868/2018 lapsed); read once, and replaced while each was in force"
+  },
+  {
+   "part": "99-batch17zf",
+   "act": "lei-da-ana",
+   "unit": "preambulo",
+   "from": "2018-11-20",
+   "until": "2018-12-28",
+   "op": "dedupe",
+   "lines": [
+    "Dispõe sobre a criação da Agência Nacional de Águas - ANA, entidade federal de implementação da Política Nacional de Recursos Hídricos e de coordenação do Sistema Nacional de Gerenciamento de Recursos Hídricos, e dá outras providências."
+   ],
+   "why": "the ementa as enacted is printed three times (as enacted, and again after Medidas Provisórias 844/2018 and 868/2018 lapsed); read once, and replaced while each was in force"
+  },
+  {
+   "part": "99-batch17zf",
+   "act": "lei-da-ana",
+   "unit": "preambulo",
+   "from": "2018-12-28",
+   "until": "2019-06-04",
+   "op": "drop",
+   "lines": [
+    "Dispõe sobre a criação da Agência Nacional de Águas - ANA, entidade federal de implementação da Política Nacional de Recursos Hídricos e de coordenação do Sistema Nacional de Gerenciamento de Recursos Hídricos, e dá outras providências."
+   ],
+   "why": "the ementa as enacted is printed three times (as enacted, and again after Medidas Provisórias 844/2018 and 868/2018 lapsed); read once, and replaced while each was in force"
+  },
+  {
+   "part": "99-batch9",
+   "act": "codigo-florestal",
+   "unit": "titulos",
+   "from": "2012-05-28",
+   "until": "2012-10-18",
+   "op": "dedupe",
+   "lines": [
+    "DO USO ECOLOGICAMENTE SUSTENTÁVEL DOS APICUNS E SALGADOS"
+   ],
+   "why": "Capítulo III-A: its name, as Medida Provisória 571/2012 printed it, was read twice"
+  }
+ ]
+}

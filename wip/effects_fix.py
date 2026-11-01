@@ -965,6 +965,9 @@ if __name__ == "__main__":
     import lawrecords   # the agreed law records (law_records.json), so a reparse keeps every part's records equal
     lr = lawrecords.apply_file(out or args[0])
     print(len(lr), "law records set" + (": " + "; ".join(lr) if lr else ""))
+    import dupfix       # doubled lines reviewed against the pages (dup_fixes.json), so a reparse keeps them removed
+    df = dupfix.apply_file(out or args[0])
+    print(len(df), "doubled-line fixes")
     for w in WARN:
         print("WARN", w)
     if "--report" in args:

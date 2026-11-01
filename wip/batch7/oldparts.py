@@ -25,10 +25,11 @@ import stale_fix  # noqa: E402
 # Units where two wordings of one dispositivo still stand at once for a time, because Planalto's page prints a rewritten
 # block with no note (or with a note naming no day) and nothing on the page dates it; checked by hand 2026-10-31.
 OPEN = {
-    "70-clt": "Open (not dated by the source): in arts. 530, 534, 538, 654, 693, 896 and 902 Planalto prints a superseded "
+    "70-clt": "Open (not dated by the source): in arts. 654, 693, 896 and 902 Planalto prints a superseded "
               "wording of the 1940s-1950s without a note (or a note that names no day), so for some years of that time "
-              "two wordings of one paragraph stand at once in this history; in arts. 553, 628-A, 634 and 636 the same "
-              "happens for a few days around MP 905/2019 and MP 955/2020. The text in force today is not affected.",
+              "two wordings of one paragraph stand at once in this history; in arts. 634 and 636 the same "
+              "happens for a few days around MP 905/2019 and MP 955/2020 (arts. 530, 534, 538, 553 and 628-A: see the "
+              "doubled-lines decision). The text in force today is not affected.",
 }
 # Life spans set by hand after the stale-wording rules, where Planalto's page prints a wording that the rules cannot place
 # (reviewed one by one from the duplicate-line check, batch10/.tmp/dupline.py, 2026-10-31): part -> [(act, unit, label,
