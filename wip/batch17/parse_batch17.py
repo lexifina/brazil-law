@@ -270,7 +270,7 @@ PAGES.update({
     "l13966": "_ato2019-2022/2019/lei/l13966.htm",
     "l14063": "_ato2019-2022/2020/lei/l14063.htm",
     "l13988": "_ato2019-2022/2020/lei/l13988.htm",
-    # thirty-fifth session: Lei 12.990 built from a capture of 31.5.2025, before Lei 15.142/2025 repealed it (the later
+    # thirty-fifth session: Lei 12.990 built from the page as it stood on 31.5.2025, before Lei 15.142/2025 repealed it (the later
     # page strikes some lines and not others); Lei 15.142's own page for the repeal and its in-force day
     "l12990": "_ato2011-2014/2014/lei/l12990.htm",
     "l12990-2025": "_ato2011-2014/2014/lei/l12990.htm",
@@ -7013,8 +7013,8 @@ if any(a["slug"] == _L12990 for a in ACTS):
         "2014, ressalvado o disposto no art. 11 desta Lei'; art. 11 keeps it for the concursos whose editais were published "
         "before), in force on publication (art. 14; DOU 4.6.2025), so its last version, on 4.6.2025, removes every provision, "
         "credited to Lei 15.142/2025. After the repeal Planalto marks the page 'Revogada pela Lei nº 15.142, de 2025' and "
-        "strikes only some of its lines, so the page is read from a capture of 31.5.2025, before the repeal, and the history up "
-        "to 3.6.2025 is checked against that capture's text")
+        "strikes only some of its lines, so the page is read as it stood on 31.5.2025, before the repeal, and the history up to "
+        "3.6.2025 is checked against that text")
     EXTRA.append("Lei 12.990/2014 art. 6: 'Esta Lei entra em vigor na data de sua publicação e terá vigência pelo prazo de 10 (dez) "
                  "anos' (DOU 10.6.2014), a term that would have ended in June 2024; the Supremo Tribunal Federal's medida cautelar "
                  "in ADI 7.654 (Planalto notes 'Vide ADI 7654' on art. 6) kept the Lei in force past that term until a new law, "
