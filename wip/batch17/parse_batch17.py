@@ -1549,7 +1549,7 @@ def unit_label(u, ps):
     if u == "anexo":
         return "Anexo"
     if u.startswith("anexo-meta-"):
-        return f"Anexo, Meta {int(u[11:])}"
+        return f"Meta {int(u[11:])} do Anexo"
     return _unit_label17(u, ps)
 
 
