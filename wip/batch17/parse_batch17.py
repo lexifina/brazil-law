@@ -5406,6 +5406,81 @@ if any(a["slug"] == _LCEE for a in ACTS):
                       "na data de sua publicação, quanto aos demais dispositivos' (DOU 9.10.2025): the conversion of Medida "
                       "Provisória 1.300/2025, which keeps none of the MP's art. 4 (its changes to Lei 10.848), takes effect on "
                       "publication, so those changes end on 9.10.2025 and the wordings they replaced are back")
+    P.MP_LAPSE["mp-641-2014"] = (
+        "2014-07-22", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 30, de 2014 (DOU 24.7.2014): Medida "
+                      "Provisória 641/2014 'teve seu prazo de vigência encerrado no dia 21 de julho do corrente ano'; the wording "
+                      "it replaced is back from 22.7.2014")
+    P.MP_LAPSE["mp-814-2017"] = (
+        "2018-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 30, de 2018 (DOU 6.6.2018): Medida "
+                      "Provisória 814/2017 'teve seu prazo de vigência encerrado no dia 1º de junho do corrente ano'; the "
+                      "provision it had revoked is back from 2.6.2018")
+
+# A Medida Provisória's wording that its conversion law does not keep: Planalto prints, after the MP's (struck) wording, the
+# wording the MP replaced a second time, struck, and then the wording of a later law. The reader ends the MP's wording at that
+# later law (the repeated copy is its successor) and gives the copy no days. Rule (acts in CONV_RESTORE, with the MP and its
+# conversion law read and named): the MP's wording ends on the conversion law's in-force day, and the copy (same words as the
+# wording before the MP's) stands from that day to the later law. Checked against the hand entries of parts z (Lei 9.427)
+# and u (Lei 9.074): BATCH17_CONV_REPORT=1 prints, for any act, every place the rule finds and the days it would give.
+CONV_RESTORE: dict[str, dict[str, str]] = {_LCEE: {"mp-1300-2025": "lei-15235-2025"}}
+_WCONV = ("Wordings of a Medida Provisória its conversion law did not keep (rule, not hand dates): where Planalto prints, "
+          "after the MP's struck wording, the wording the MP replaced a second time, struck, before a later law's wording, the "
+          "MP's wording ends on the conversion law's in-force day and the earlier wording is in force again from that day "
+          "until the later law; Lei 10.848, Medida Provisória 1.300/2025, converted into Lei 15.235/2025 (in force on "
+          "publication, 9.10.2025), which keeps none of the MP's art. 4 (its changes to Lei 10.848)")
+CONV_RESTORED: list[str] = []
+_lifespans17r = P.lifespans
+
+
+def _conv_restore(paras, cx):
+    """(MP line, copy line, line before the MP's, conversion day, conversion law) for each place the rule finds."""
+    out = []
+    for i, m in enumerate(paras):
+        if m["heading"] or m["state"] == "plain" or m.get("skip") or not (m["start_law"] or "").startswith("mp-"):
+            continue
+        fate = cx.mp.get(m["start_law"]) or {}
+        c_day, c_law = fate.get("converted_on"), fate.get("converted")
+        a, r = P.predecessor(paras, i), P.successor(paras, i)
+        if not c_day or a is None or r is None:
+            continue
+        A, R = paras[a], paras[r]
+        if R["state"] == "plain" or R.get("skip") or R["text"] != A["text"] or not R.get("end") or not c_day < R["end"]:
+            continue
+        out.append((m, R, A, c_day, c_law))
+    return out
+
+
+def lifespans(paras, cx):
+    problems = _lifespans17r(paras, cx)
+    if os.environ.get("BATCH17_CONV_REPORT"):
+        for m, R, A, c_day, c_law in _conv_restore(paras, cx):
+            print(f"CONV-RULE {cx.act} {m['unit']} [{m['label']}] MP {m['start']}..{m['end']} ({m['end_law']}, "
+                  f"{m['end_how']}) copy {R['start']}..{R['end']} ({R['start_law']}) | rule: MP ..{c_day} ({c_law}), copy "
+                  f"{c_day}..{R['end']} | pinned {bool(m.get('pinned'))}/{bool(R.get('pinned'))}", file=sys.stderr)
+    want = CONV_RESTORE.get(cx.act)
+    if want:
+        found = _conv_restore(paras, cx)
+        assert {m["start_law"] for m, *_ in found} <= set(want), found
+        for m, R, A, c_day, c_law in found:
+            assert want[m["start_law"]] == c_law and A.get("end") == m["start"], (m, A)
+            for p, fields in ((m, {"end": c_day, "end_law": c_law, "end_how": "conversion"}),
+                              (R, {"start": c_day, "start_law": c_law, "restored": True})):
+                hits = [q for q in paras if q["unit"] == p["unit"] and q["label"] == p["label"] and not q["heading"]
+                        and B8._norm(q["text"]).startswith(B8._norm(p["text"]))]
+                p.update(fields)
+                p["pinned"] = True
+                B8.SPAN_FIX.append(((cx.act, p["unit"], p["label"], p["text"], hits.index(p)), fields,
+                                    "the conversion rule (CONV_RESTORE)"))
+            CONV_RESTORED.append(f"{m['unit']} [{m['label']}]")
+            key = f"ends before it starts: {R['unit']} [{R['label']}] "
+            problems = [x for x in problems if not x.startswith(key)]
+        if found:
+            EXTRA.append(_WCONV + ": " + "; ".join(f"{m['unit']} [{m['label']}] ({m['start_law']}, ends {c_day}, "
+                                                      f"{c_law}; the earlier wording again until {R['end']}, {R['end_law']})"
+                                                      for m, R, A, c_day, c_law in found) + ".")
+    return problems
+
+
+P.lifespans = B.lifespans = lifespans
 
 P.build_act = B.build_act = build_act
 _build_actLP = build_act
