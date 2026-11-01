@@ -571,7 +571,7 @@ Disallows /control/ /report/ only); archive.org only (iaonly.py laws/missing/gap
   merged 196 acts, 3209 versions, 2384 commits, check 0/0, compare identical, audit clean (final12-build.log, after README row +
   jurisdiction.json).
 
-## Part zl (Lei 10.833/2003) - NOT PUBLISHED; items 1-4 of the twelfth-session list DONE (thirteenth session)
+## Part zl (Lei 10.833/2003) - thirteenth-session notes (all items DONE and PUBLISHed in the fourteenth session: see 99-batch17zl below)
 Configured: _act lei-10833-de-2003 (L10833), PARTS zl, ACT_DAY (art. 93: 30.12.2003; gates in _G10833: arts. 1-15, 25-27, 29, 30,
 34, 52 -> 1.2.2004; 49-51, 53-58 -> 1.4.2004), ACT_LAWS. Latest trial zl-t5 (scratch zl-t5.json): 46 versions, 0 problems, 6 diff
 units, all EXPLAINED (art-02 'n o'/'nº' + stray 'IX - n' on the consolidated page, art-03 'desta Lei.' + 'nos'/'nºs', art-18/62/70
@@ -626,12 +626,50 @@ REMAINING (item 5 of the old list: effect days; amenders all read with effrep, l
   d) Anexo Único (TIPI list, revoked by Lei 10.925 art. 16 / 17 from 26.7.2004) is not modelled: add to OPEN_ITEMS (or model it).
   e) Then OPEN_ITEMS[_L10833] text, pipe.sh zl, PUBLISH, README row + jurisdiction.json (docs.py).
 
+## 99-batch17zl - PUBLISHed 2026-11-01 (fourteenth session)
+Lei 10.833/2003, 53 versions 2003-12-30 .. 2025-07-29 (+ 2027-01-01 futuro); 15 diff units all EXPLAINED; 0 problems. Details in
+corpus.d/99-batch17zl.PUBLISH. All in parse_batch17.py (scoped to the act) + effects_fix MOVES "99-batch17zl.json":
+- Gates: _G10833 entries may carry a 3rd item = gate law; _BEV art-58-a..v at ('2009-01-01', 41 VII, lei-11727 / 58-V mp-451).
+  build_act wrapper no longer moves the start of a line that ends on/before its gate (such lines never show; avoids false
+  credits). zj/zk reparsed: equal except sources[0].
+- _REV2009 (arts. 49, 50, 52, 55, 57, 58) end 1.1.2009 lei-11727 'repealed' in the build_act wrapper (REV2009_USED decision);
+  dropped from _FUT2027 ends (decision text notes it). EXPLAINED for those 6 + art-10 (VII a) ended 1.10.2008 by SPAN_FIX).
+- SPAN_FIX block (_W11727Z etc.): Lei 11.727 art. 15 / 42 III d) -> 1.10.2008, art. 36 -> 1.1.2009 lines of arts. 2, 3; MP 451
+  art. 3 § 23 -> 1.4.2009; art-58-m caput start lei-11727, 11.727 I/II end MP 436, 11.827 I/II un-skipped (nth 2); art-58 caput
+  I/II (struck, no note) stand to 1.1.2009; art-69 '§ 3º' pointer skipped. VIGENCIA_PROVISION: lei-11727 art-01 1.10.2008,
+  art-51/53 1.1.2009; lei-13043 art-67/69/76 14.11.2014 (art. 113 general rule; VIGENCIA_FIXED 1.1.2015 stays for art-10).
+- art. 43 quoted item '1. ... ; e' was read as a 'rubrica' of art-44: moved back (L10833_FIXED decision; EXPLAINED art-43/44
+  because the consolidated page is read with the same rule).
+- effects_fix: 12 entries, 57 unit-moves (list in the PUBLISH). Lei 11.196 art. 74 (art. 35 -> 1.1.2006) was missing from the
+  old handoff list; Lei 11.051 § 20 kept on publication (partial effect: OPEN_ITEMS); Lei 12.995 1.1.2015 judgement.
+- OPEN_ITEMS[_L10833] written (Anexo Único not modelled, MP 135/2003, retroactive effects, § 20, MP 451 struck items, 12.995,
+  MP 1.185/Lei 14.789, Vide pointers).
+- Checks: dupline 14 / dupcheck 2 = quoted amendments (arts. 77, 79) + art. 58-R §§ 1º/9º repeated incisos (law text); overlap 2
+  SAME = those; leakcheck 3 literal; firstline 0; order 0; quote 30 benign; missorig 30 = gates; headyear = zk's list.
+  Parse sha fc743e64 (x2), after effects_fix 8b9fb86e; merged 197 acts, 3262 versions, 2395 commits, check 0/0, compare
+  identical, audit clean (final13-build.log, after README row + jurisdiction.json via docs.py rows-zl.json).
+- New tools: .tmp/spansj.py <part> <out.json> (every line's span to JSON, one parse), .tmp/sjq.py <json> <law-rx> [unit-rx],
+  .tmp/cmppart.py <installed> <new> (key compare, sources[0].requests ignored), .tmp/reparse.sh <parts> (parse + effects_fix
+  + compare, one at a time). pipe logs .tmp/zl-pipe1..4.out.
+
+## 99-batch17zf - re-PUBLISHed 2026-11-01 (fourteenth session)
+_BX now includes "l9984": the generic Lei 7.689/9.249 BARE_TEXT line is no longer given to part zf. Installed file = previous
+minus that line (sha cf20e3a2); reparse equal except sources[0]. PUBLISH line appended.
+
 ## 99-batch17zk - re-PUBLISHed 2026-11-01 (thirteenth session)
 fut_2027's caput matcher wanted label 'caput' (capita carry 'Art. N'), so LC 214 art. 507's new caput of art. 35 (2027) was
 described in the decisions but missing from the part; now applied (2027 version gains art-35, credited lc-214-2025). OPEN_ITEMS
 quote 'dos efeitos'. Pipeline (pipe.sh zk, log .tmp/zk-pipe4.out): parse twice identical (pre-effects 5e06b68e, after effects_fix
 fea61a5c, 18 moves), checks as before; zj, zf, h reparsed: equal except sources[0].requests. Merged 196 acts, 3209 versions, 2384
 commits, check 0/0, --compare identical, audit clean. PUBLISH line appended.
+
+## State at handoff (batch 17, fourteenth session, 2026-11-01)
+Part zl (Lei 10.833/2003) installed with .PUBLISH; part zf re-PUBLISHed (wording). Merged 197 acts, 3262 versions, 2395
+commits, check 0/0, --compare identical, audit clean. All runs through .tmp/run.py / pipe.sh / reparse.sh at BelowNormal (cpu
+gate), one at a time; every PID exited; nothing running. No fetching this session (all pages already cached/pinned).
+DATED RE-CHECK (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026 - not before.
+Left out / unsettled (unchanged): Lei 9.782 art. 8º-A; Lei 10.931; Lei 10.522 art. 32 quoted § 2º; Lei 12.462 art. 63 § 17.
+NEXT: pick the next act (see 'Next (tax laws, configured pages only)' below); no part is half-done.
 
 ## State at handoff (batch 17, thirteenth session, 2026-11-01)
 zk re-PUBLISHed (above). zl NOT published: items 1-4 done, effect days (REMAINING a-e in the zl section) still to model; the code

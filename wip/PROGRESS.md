@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-01 (batch 17, thirteenth session: 99-batch17zk re-PUBLISHed (art. 35 2027 caput now applied); merged 196 acts, 3209 versions; Lei 10.833/2003 (zl) NOT published: items 1-4 done, effect days still to model, ordered list in batch17/PROGRESS.md 'Part zl'; DATED RE-CHECK of MP 1.382/2026 on or after 29.11.2026; details in batch17/PROGRESS.md)
+CHECKPOINTED 2026-11-01 (batch 17, fourteenth session: 99-batch17zl (Lei 10.833/2003, 53 versions) PUBLISHed; 99-batch17zf re-PUBLISHed (decision wording only); merged 197 acts, 3262 versions, check 0/0, compare identical, audit clean; nothing running; DATED RE-CHECK of MP 1.382/2026 on or after 29.11.2026; details in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 

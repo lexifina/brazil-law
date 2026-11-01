@@ -149,6 +149,19 @@ PAGES.update({
     "l10637-compilado": "leis/2002/l10637compilado.htm",
     "l10833": "leis/2003/l10.833.htm",
     "l10833-compilado": "leis/2003/l10.833compilado.htm",
+    # parts zm, ...: thin areas (SUS, education, public finance, transport, forests, consumer, electoral)
+    "lcp141": "leis/lcp/lcp141.htm",
+    "l14113": "_ato2019-2022/2020/lei/l14113.htm",
+    "l12414": "_ato2011-2014/2011/lei/l12414.htm",
+    "l11442": "_ato2007-2010/2007/lei/l11442.htm",
+    "lcp200": "leis/lcp/lcp200.htm",
+    "l11284": "_ato2004-2006/2006/lei/l11284.htm",
+    "l6091": "leis/l6091.htm",
+    "l9611": "leis/l9611.htm",
+    "l10209": "leis/leis_2001/l10209.htm",
+    "l14119": "_ato2019-2022/2021/lei/l14119.htm",
+    "l9434": "leis/l9434.htm",
+    "l10216": "leis/leis_2001/l10216.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -299,6 +312,10 @@ ALL_ACTS: list[dict] = [
          "PIS/Pasep não cumulativo (Lei nº 10.637, de 30 de dezembro de 2002)", 2),
     _act("lei-10833-de-2003", "L10833", "l10833", "l10833-compilado", "lei-10833-2003",
          "Cofins não cumulativa (Lei nº 10.833, de 29 de dezembro de 2003)", 2),
+    _act("lei-do-financiamento-da-saude", "LC141", "lcp141", "lcp141", "lc-141-2012",
+         "Aplicação mínima em ações e serviços públicos de saúde (Lei Complementar nº 141, de 13 de janeiro de 2012)", 2),
+    _act("lei-do-fundeb", "LFundeb", "l14113", "l14113", "lei-14113-2020",
+         "Fundo de Manutenção e Desenvolvimento da Educação Básica - Fundeb (Lei nº 14.113, de 25 de dezembro de 2020)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -342,6 +359,7 @@ PARTS: dict[str, list[str]] = {
     "zj": ["lei-9718-de-1998"],
     "zk": ["lei-10637-de-2002"],
     "zl": ["lei-10833-de-2003"],
+    "zm": ["lei-do-financiamento-da-saude", "lei-do-fundeb"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -474,6 +492,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                      "artigos, a partir da data da publicação desta Lei' (DOU 30.12.2003, edição extra-A): the other "
                                      "articles from publication; arts. 1 to 15, 25 to 27, 29, 30, 34 and 52 from 1.2.2004 and arts. 49 to "
                                      "51 and 53 to 58 from 1.4.2004, the days they take effect"),
+    "lc-141-2012": ("2012-01-16", "Lei Complementar 141/2012 art. 48: 'Esta Lei Complementar entra em vigor na data de sua "
+                                  "publicação' (DOU 16.1.2012)"),
+    "lei-14113-2020": ("2020-12-25", "Lei 14.113/2020 art. 54: 'Esta Lei entra em vigor na data da sua publicação' (DOU 25.12.2020, "
+                                     "edição extra)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -686,6 +708,13 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "providências.", "2002-12-30", "2002-12-31", PAGES["l10637"]),
     "lei-10833-2003": _L("Lei nº 10.833, de 2003", "Altera a Legislação Tributária Federal e dá outras providências.", "2003-12-29",
                          "2003-12-30", PAGES["l10833"]),
+    "lc-141-2012": _L("Lei Complementar nº 141, de 2012", "Regulamenta o § 3º do art. 198 da Constituição Federal para dispor sobre os "
+                      "valores mínimos a serem aplicados anualmente pela União, Estados, Distrito Federal e Municípios em ações e "
+                      "serviços públicos de saúde [...] e dá outras providências.", "2012-01-13", "2012-01-16", PAGES["lcp141"]),
+    "lei-14113-2020": _L("Lei nº 14.113, de 2020", "Regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de "
+                         "Valorização dos Profissionais da Educação (Fundeb), de que trata o art. 212-A da Constituição Federal; revoga "
+                         "dispositivos da Lei nº 11.494, de 20 de junho de 2007; e dá outras providências.", "2020-12-25", "2020-12-25",
+                         PAGES["l14113"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -3526,6 +3555,29 @@ B.EXPLAINED[_L10833] = {
     **{u: ("item 1 of art. 43's quoted alínea c) ends without a full stop; read from the consolidated page it is taken for a "
            "heading of art. 44, while the history keeps it in art. 43, where both pages print it") for u in ("art-43", "art-44")},
 }
+
+# part zm: Lei Complementar 141/2012 (aplicação mínima em saúde), Lei 14.113/2020 (Fundeb). Hand days set only when the act runs.
+_LC141, _LFUNDEB = "lei-do-financiamento-da-saude", "lei-do-fundeb"
+if any(a["slug"] == _LFUNDEB for a in ACTS):
+    P.MP_LAPSE["mp-1074-2021"] = (
+        "2022-04-22", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 35, de 2022: 'teve seu prazo de vigência "
+                      "encerrado no dia 21 de abril de 2022'; the wording it gave Lei 14.113 art. 41 § 3º I (DOU 12.11.2021) had "
+                      "already been replaced by Lei 14.276/2021 (DOU 28.12.2021, in force on publication), so nothing returns")
+    P.VIGENCIA_PROVISION[("lei-14276-2021", _LFUNDEB, "art-21")] = (
+        "2022-03-25", "Lei 14.276/2021 art. 1, in the part that added art. 21 § 9º, was vetoed; Congress overrode the veto and the "
+                      "President promulgated it on 24.3.2022 (DOU 25.3.2022, printed on Lei 14.276's page as 'Promulgação partes "
+                      "vetadas'). A promulgated part is law only from its publication: § 9º takes effect on 25.3.2022 (Planalto "
+                      "prints no '(VETADO)' line for it, so it is absent before)")
+B13.OPEN_ITEMS[_LC141] = (
+    "Lei Complementar 141 (open items): Lei Complementar 227/2026's new wordings of arts. 6 and 7 and art. 3 X (the IBS share) "
+    "take effect on its publication (its art. 182 III; DOU 14.1.2026, republished 15.1.2026 and rectified 23.1.2026: dated by the "
+    "first publication, with the words Planalto prints), though the IBS is collected in full only from later years; "
+    "'Vide' pointers (Decreto 7.827/2012, the regulation; ADI 5.897 on art. 11) strike no words and are not modelled")
+B13.OPEN_ITEMS[_LFUNDEB] = (
+    "Lei 14.113 (open items): the transitional rules of arts. 43 to 43-B name the financial years they apply to (2021 to 2024); "
+    "they set no term of their own and stay in the text as Planalto prints them. Medida Provisória 1.074/2021's wording of art. "
+    "41 § 3º I stood from 12.11.2021 until Lei 14.276/2021 replaced it on 28.12.2021 (the MP lapsed on 21.4.2022). The "
+    "regulation ('Regulamento' link) is not modelled")
 
 P.build_act = B.build_act = build_act
 
