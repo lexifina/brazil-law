@@ -219,6 +219,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "ato:ato-19-2018-mpv805",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Congresso/ato-19-mpv805.htm",
+   "ts": "20260712210517",
+   "via": "wayback.py"
+  },
+  {
    "id": "ato:ato-2019-mpv879",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Congresso/ato-23-08-2019-mpv-879.htm",
    "ts": "20260615201049",
@@ -293,6 +299,12 @@
    "id": "ctx:camara-lei-9636-1998-original",
    "url": "https://www2.camara.leg.br/legin/fed/lei/1998/lei-9636-15-maio-1998-367785-publicacaooriginal-1-pl.html",
    "ts": "20250814060134",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ctx:camara-noticia-530114-adi-5809",
+   "url": "https://www.camara.leg.br/noticias/530114-LIMINAR-DO-STF-SUSPENDE-EFEITOS-DA-MP-QUE-ADIOU-REAJUSTE-DE-SERVIDORES",
+   "ts": "20260422171618",
    "via": "wayback.py"
   },
   {

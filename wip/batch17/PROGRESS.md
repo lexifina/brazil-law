@@ -2283,3 +2283,21 @@ OPEN (unchanged): CLT art. 538 § 3º; DL 5.922/1943 in 70-clt dated enactment +
 DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once
 archive.org has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026
 congresso) once archived -> MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.
+
+## Thirty-fifth session (2026-11-01): coordinator decisions (MP '(NR)' no dotted line; Lei 12.990), then Lei 10.887 (zzzq)
+Claim: scripts/world-law/claims/brazil-law.txt taken at the start (release at the end). Scratch: .gitlaw-scratch/brazil-b35
+(before/ = parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json, dupsame_allow.json, README,
+jurisdiction.json before the session; logs/; tools/ = b34's sp.py, dupl.py, paras.py). robots.txt read at start (archive.org:
+Disallow /control/ /report/; web.archive.org 404; b35/robots).
+### Decision 1 (MP '(NR)' with no dotted line): confirmed; 99-batch17zzzm re-PUBLISHed
+- OPEN_ITEMS[_LRFAL] now cites LC 95/1998 art. 12 III (whole unit replaced) instead of 'judgement call', and names all three
+  cases (art. 1 p.u. and art. 19 I-II under MP 910, art. 30 under MP 759). pipe.sh zzzm (b35/logs/zzzm-pipe1.out): 762d3bc8 x2,
+  only that decision line and the sources request count changed; checks as before. Installed, PUBLISH line appended.
+### 99-batch17zzzr - PUBLISHed: Lei 12.990/2014 (lei-12990-de-2014, L12990, 2 versions 2014-06-10, 2025-06-04)
+- Decision 2: no lapse at art. 6's 10-year term (STF medida cautelar ADI 7.654); B9.REPEALS -> empty version on 4.6.2025
+  credited to lei-15142-2025 (art. 13; art. 14 in force on publication, DOU 4.6.2025) + EXTRA decision (term + ruling) +
+  OPEN_ITEMS (ADI not a version; art. 11 saving clause). Pins: PAGES l12990-2025 (`pinat.py`, ts 20250531000943, before the
+  repeal: the later page strikes only some lines), l15142 (`iaonly.py pages`); `laws` 0, act-scoped `missing` 0.
+- pipe.sh zzzr (b35/logs/zzzr-pipe2.out): 18b5ecdc x2, every check 0, REPEAL CHECK 0 articles differ, dupsame 0, uniqlaws 0;
+  merged 286 acts, 3840 versions, 2709 commits, check 0/0, compare identical, audit clean. Installed; README row +
+  jurisdiction.json (286 acts, 3840 versions).
