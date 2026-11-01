@@ -1929,3 +1929,14 @@ sources_batch17.json, effects_fix.py, bad_pins.json, law_records.json, README, j
   No compilado archived: check page = annotated page.
 - pipe.sh zzzg (b30/zzzg-pipe1.out): sha 7ba31b07 x2, 0 moves, flags benign (PUBLISH). conv 0. Installed; rows-zzzg.json; merged
   274 acts, 3751 versions, 2674 commits, check 0/0, compare identical, audit clean.
+### 99-batch17zzm re-PUBLISHed: law record lei-9636-1998 (title without the page's link words) via law_records.json + lawrecords.py
+- merged 274 acts, 3751 versions, 2674 commits, check 0/0, compare identical, audit clean (b30/zzm-build.log). Installed cc99f574.
+### 99-batch17zzzh - PUBLISHed: Lei 9.636/1998 (LBIU, 22 versions 1998-05-18 .. 2022-12-07)
+- Record lei-9636-1998 = law_records.json (new entry). Pinned ctx:camara-lei-9636-1998-original (pinat.py, ts 20250814060134; cdxpre of
+  the Chamber's lei-9636 prefix: 7 URLs) to read the 1998 headings; listed through B6.CONTEXT.
+- Block '# part zzzh': B15.HEAD_FIX + SPAN_FIX _W6_11481 (art. 6 and Seção II 1998 wordings end 31.5.2007), paragraphs wrapper on
+  l9636 (drops the struck 'Seção II-A' heading; moves MP 1.065's art. 1 §§ 1º-2º below Lei 14.011's caput), SPAN_FIX art. 19 'VI -'
+  pointer skip, _W2_1065 (art. 2 p.u. restored 7.2.2022), _W42_852 (art. 42 § 1º 'Numerado' notes), EXPLAINED art-16/art-32, OPEN_ITEMS
+  (MPs 292/335 of 2006 Vide-only, MP 1.647 chain, MPs 152/2003 and 283/2006 Vide).
+- pipe.sh zzzh (b30/zzzh-pipe3.out): sha 76005ca7 x2, 0 moves, flags benign (PUBLISH). conv 0. Installed; rows-zzzh.json; merged
+  275 acts, 3773 versions, 2684 commits, check 0/0, compare identical, audit clean.

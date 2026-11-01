@@ -254,6 +254,11 @@ PAGES.update({
     "l8730": "leis/l8730.htm",
     "l11473": "_ato2007-2010/2007/lei/l11473.htm",
     "l11473-compilado": "_ato2007-2010/2007/lei/L11473compilado.htm",
+    # next ranked list: expropriation and heritage
+    "del3365": "decreto-lei/del3365.htm",
+    "del3365-compilado": "decreto-lei/del3365compilado.htm",
+    "l4132": "leis/l4132.htm",
+    "del0025": "decreto-lei/del0025.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -585,6 +590,13 @@ ALL_ACTS: list[dict] = [
          "Organização básica dos órgãos da Presidência da República e dos Ministérios (Lei nº 14.600, de 19 de junho de 2023)", 2),
     _act("lei-dos-bens-imoveis-da-uniao", "LBIU", "l9636", "l9636-compilado", "lei-9636-1998",
          "Regularização, administração, aforamento e alienação de bens imóveis da União (Lei nº 9.636, de 15 de maio de 1998)", 2),
+    # thirtieth session, next ranked list: expropriation and heritage
+    _act("lei-das-desapropriacoes", "LDesap", "del3365", "del3365-compilado", "dl-3365-1941",
+         "Desapropriações por utilidade pública (Decreto-Lei nº 3.365, de 21 de junho de 1941)", 2),
+    _act("lei-da-desapropriacao-por-interesse-social", "LDIS", "l4132", "l4132", "lei-4132-1962",
+         "Desapropriação por interesse social (Lei nº 4.132, de 10 de setembro de 1962)", 2),
+    _act("lei-do-tombamento", "LTomb", "del0025", "del0025", "dl-25-1937",
+         "Proteção do patrimônio histórico e artístico nacional - tombamento (Decreto-Lei nº 25, de 30 de novembro de 1937)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -688,6 +700,7 @@ PARTS: dict[str, list[str]] = {
     "zzzf": ["lei-da-forca-nacional-de-seguranca-publica"],
     "zzzg": ["lei-da-organizacao-da-presidencia-e-dos-ministerios"],
     "zzzh": ["lei-dos-bens-imoveis-da-uniao"],
+    "zzzi": ["lei-das-desapropriacoes", "lei-da-desapropriacao-por-interesse-social", "lei-do-tombamento"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -961,6 +974,17 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-11473-2007": ("2007-05-11", f"Lei 11.473/2007 art. 10: {_PUB} (DOU 11.5.2007)"),
     "lei-14600-2023": ("2023-06-20", f"Lei 14.600/2023 art. 79: {_PUB} (DOU 20.6.2023, republished 21.6.2023)"),
     "lei-9636-1998": ("1998-05-18", "Lei 9.636/1998 art. 52: 'Esta Lei entra em vigor na data da sua publicação' (DOU 18.5.1998)"),
+    "dl-3365-1941": ("1941-07-28", "Decreto-Lei 3.365/1941 art. 43: 'Esta lei entrará em vigor 10 dias depois de publicada, no "
+                                   "Distrito Federal, e 30 dias no Estados e Território do Acre' (DOU 18.7.1941). Dated by the first "
+                                   "day it was in force, in the Distrito Federal (18.7 + 10 days = 28.7.1941), as Lei 263/1948; in the "
+                                   "states it applied from 17.8.1941"),
+    "lei-4132-1962": ("1962-12-22", "Lei 4.132/1962 has no vigência clause (art. 6 only revokes contrary provisions): Lei de "
+                                    "Introdução (Decreto-Lei 4.657/1942) art. 1, 45 days after its publication (DOU 7.11.1962), "
+                                    "22.12.1962"),
+    "dl-25-1937": ("1937-12-09", "Decreto-Lei 25/1937 has no vigência clause (art. 30 only revokes contrary provisions): the "
+                                 "Introdução ao Código Civil of 1916 (art. 2), then in force, made laws without a term binding in "
+                                 "the Distrito Federal three days after their official publication (DOU 6.12.1937): 9.12.1937, the "
+                                 "first day it was in force (in the states later); the text was republished on 11.12.1937"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1501,6 +1525,12 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         "imóveis de domínio da União, altera dispositivos dos Decretos-Leis n os 9.760, de 5 de setembro de 1946, e "
                         "2.398, de 21 de dezembro de 1987, regulamenta o § 2º do art. 49 do Ato das Disposições Constitucionais "
                         "Transitórias, e dá outras providências.", "1998-05-15", "1998-05-18", "LEIS/L9636.htm"),
+    "dl-3365-1941": _L("Decreto-Lei nº 3.365, de 1941", "Dispõe sobre desapropriações por utilidade pública.", "1941-06-21",
+                       "1941-07-18", PAGES["del3365"]),
+    "lei-4132-1962": _L("Lei nº 4.132, de 1962", "Define os casos de desapropriação por interesse social e dispõe sobre sua "
+                        "aplicação.", "1962-09-10", "1962-11-07", PAGES["l4132"]),
+    "dl-25-1937": _L("Decreto-Lei nº 25, de 1937", "Organiza a proteção do patrimônio histórico e artístico nacional.",
+                     "1937-11-30", "1937-12-06", PAGES["del0025"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -6464,6 +6494,19 @@ def paragraphs(html, digits):
             else:
                 keep.append(p)
         out = keep
+        # art. 1: Planalto prints Medida Provisória 1.065/2021's §§ 1º-2º (term ended) above Lei 14.011/2020's caput, so for the
+        # MP's term the article read '§ 1º ... § 2º ... Art. 1º ...'; the MP's paragraphs are moved below that caput
+        mp = [p for p in out if p["unit"] == "art-01" and p["label"] in ("§ 1º", "§ 2º")
+              and any("1.065" in n for n in p["notes"])]
+        cap = [i for i, p in enumerate(out) if p["unit"] == "art-01" and p["label"] == "Art. 1º" and p["state"] == "plain"
+               and any("14.011" in n for n in p["notes"])]
+        if mp and len(cap) == 1 and out.index(mp[-1]) < cap[0]:
+            rest2 = [p for p in out if not any(p is q for q in mp)]
+            i = next(k for k, p in enumerate(rest2) if p is out[cap[0]])
+            out = rest2[:i + 1] + mp + rest2[i + 1:]
+            if not any("Medida Provisória 1.065/2021's §§ 1º and 2º" in x for x in EXTRA):
+                EXTRA.append("Lei 9.636 art. 1: Planalto prints Medida Provisória 1.065/2021's §§ 1º and 2º (in force 30.8.2021 to "
+                             "6.2.2022) above Lei 14.011/2020's caput; they are placed below the caput, as the MP added them")
         if LBIU_DROPPED and not any("Seção II-A" in x for x in EXTRA):
             EXTRA.append(
                 "Lei 9.636 Seção II-A heading: Planalto prints a struck heading 'Seção II-A / Da Inscrição da Ocupação' with 'Vide' "
@@ -6489,6 +6532,82 @@ B13.OPEN_ITEMS[_LBIU] = (
     "into Lei 11.481/2007) changed provisions that Planalto marks only with 'Vide' notes and does not print their wordings, so "
     "those wordings are not in the history: the earlier wordings stand until Lei 11.481/2007; 'Vide' pointers to Medidas "
     "Provisórias 152/2003 and 283/2006 strike no words and are not modelled")
+
+# part zzzi (thirtieth session): Decreto-Lei 3.365/1941 (desapropriações), Lei 4.132/1962, Decreto-Lei 25/1937 (tombamento). Hand
+# items set only when the acts run.
+_LDESAP, _LDIS, _LTOMB = "lei-das-desapropriacoes", "lei-da-desapropriacao-por-interesse-social", "lei-do-tombamento"
+LDESAP_RELABEL: list[str] = []
+_paragraphsLDESAP = P.paragraphs
+_RX15A = re.compile(r"^Art\.\s*15\s?A\b(?!\.)")
+_RX2A = re.compile(r"^§\s*2º\s?A\s+Será dispensada")
+
+
+def paragraphs(html, digits):
+    """Decreto-Lei 3.365: Planalto prints Medida Provisória 2.183-56's art. 15-A (twice: before Medida Provisória 700/2015's
+    wording and again after its term) as 'Art. 15A No caso ...' and Medida Provisória 700's art. 2 § 2º-A as '§ 2ºA Será ...';
+    the reader took them for art. 15 and § 2º. They are labelled art. 15-A (with their paragraphs) and § 2º-A"""
+    out, rest = _paragraphsLDESAP(html, digits)
+    if B8.CURRENT_PAGE[0] == "del3365":
+        in15a = False
+        for p in out:
+            if _RX15A.match(p["text"]):
+                in15a = True
+                p["unit"], p["label"] = "art-15-a", "Art. 15-A"
+                LDESAP_RELABEL.append("art-15-a")
+            elif in15a and p["unit"] == "art-15" and not p["heading"] and p["label"].startswith("§"):
+                p["unit"] = "art-15-a"
+            else:
+                in15a = False
+            if p["unit"] == "art-02" and _RX2A.match(p["text"]):
+                p["label"] = "§ 2º-A"
+                LDESAP_RELABEL.append("art-02 § 2º-A")
+        if LDESAP_RELABEL and not any("'Art. 15A No caso" in x for x in EXTRA):
+            EXTRA.append(
+                "Decreto-Lei 3.365: Planalto prints Medida Provisória 2.183-56/2001's art. 15-A as 'Art. 15A No caso ...' (twice, "
+                "before Medida Provisória 700/2015's wording and again for the time after that MP's term ended, 18.5.2016, until Lei "
+                "14.620/2023) and Medida Provisória 700's art. 2 § 2º-A as '§ 2ºA Será ...'; they are read as art. 15-A, with its "
+                "paragraphs, and as § 2º-A")
+    return out, rest
+
+
+P.paragraphs = paragraphs
+_W15A4 = ("Decreto-Lei 3.365 art. 15-A § 4º (Medida Provisória 2.183-56/2001): Medida Provisória 700/2015 (DOU 9.12.2015) gave art. "
+          "15-A a caput and §§ 1º-3º closed by '(NR)' with no dotted line, its § 3º taking the matter of § 4º, so § 4º is not in "
+          "the article during the MP's term; the MP's term ended on 17.5.2016 and Planalto prints Medida Provisória 2.183-56's "
+          "art. 15-A again, § 4º included, in force from 18.5.2016 until Lei 14.620/2023 (14.7.2023)")
+B8.SPAN_FIX += [
+    ((_LDESAP, "art-15-a", "§ 4º", "§ 4º Nas ações referidas no § 3º", 0),
+     {"end": "2015-12-09", "end_law": "mp-700-2015", "end_how": "successor"}, _W15A4),
+    ((_LDESAP, "art-15-a", "§ 4º", "§ 4º Nas ações referidas no § 3º", 1),
+     {"start": "2016-05-18", "start_law": "mp-700-2015-fim", "restored": True, "end": "2023-07-14", "end_law": "lei-14620-2023",
+      "end_how": "successor"}, _W15A4),
+]
+B.EXPLAINED[_LDESAP] = {"art-05": "typesetting: Planalto's consolidated page (Decreto-Lei 3.365 compilado) ends art. 5 § 3º with a "
+                                   "full stop the annotated page does not print"}
+B13.OPEN_ITEMS[_LDESAP] = (
+    "Decreto-Lei 3.365 (open items): the Supremo Tribunal Federal's rulings in ADI 2.260 and ADI 2.332 (on provisions Medida "
+    "Provisória 2.183-56/2001 gave this Decreto-Lei) are marked on Planalto's page only with 'Vide' notes and are not modelled; "
+    "the in-force day is the Distrito Federal's (28.7.1941), the states followed on 17.8.1941")
+if any(a["slug"] == _LDESAP for a in ACTS):
+    P.NOTE_FIX["(Redação dada pela Lei nº 6.306, de 1978)"] = (
+        "(Redação dada pela Lei nº 6.306, de 1975)",
+        "Decreto-Lei 3.365 art. 26 § 2º: the note reads 'Lei nº 6.306, de 1978'; its link goes to Lei 6.306 of 15.12.1975 (DOU "
+        "16.12.1975, in force on publication), whose art. 1 gives the paragraph this wording: read as 1975")
+_W14701_31 = ("Lei 4.132 art. 2 IX: Lei 14.701/2023 (DOU 20.10.2023) art. 31, which added the inciso, was vetoed; Congress overrode "
+              "the veto and the part was promulgated in the DOU of 28.12.2023 (printed on Lei 14.701's page; Planalto marks the "
+              "note 'Promulgação partes vetadas'): the inciso starts on 28.12.2023, as Lei 14.701 art. 32's wording of the "
+              "Estatuto do Índio art. 2 IX in part 16e")
+B8.SPAN_FIX += [
+    ((_LDIS, "art-02", "IX -", "IX - a destinação de áreas às comunidades indígenas", 0),
+     {"start": "2023-12-28", "start_law": "lei-14701-2023", "by_provision": True}, _W14701_31),
+]
+B13.OPEN_ITEMS[_LDIS] = (
+    "Lei 4.132 (open items): Lei 14.701/2023 art. 31's inciso IX is the subject of ADC 87 and ADIs 7.582, 7.583 and 7.586 "
+    "('Vide' notes on Lei 14.701's page), not modelled; in force from 22.12.1962 under the Lei de Introdução (no vigência clause)")
+B13.OPEN_ITEMS[_LTOMB] = (
+    "Decreto-Lei 25/1937 (open items): in force in the Distrito Federal from 9.12.1937 under the Introdução ao Código Civil of "
+    "1916 (three days after publication); the text was republished on 11.12.1937, which is not taken to restart the term; "
+    "'Vide' pointer (Lei 6.292/1975) strikes no words and is not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
