@@ -281,6 +281,7 @@ PAGES.update({
     "l12682": "_ato2011-2014/2012/lei/l12682.htm",
     "l6383": "leis/l6383.htm",
     "l10711": "leis/2003/l10.711.htm",
+    "l9069": "leis/l9069.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -645,6 +646,12 @@ ALL_ACTS: list[dict] = [
     # thirty-sixth session
     _act("lei-do-sistema-de-consorcios", "LSCons", "l11795", "l11795", "lei-11795-2008",
          "Sistema de Consórcio (Lei nº 11.795, de 8 de outubro de 2008)", 2),
+    _act("lei-da-digitalizacao-de-documentos", "LDigDoc", "l12682", "l12682", "lei-12682-2012",
+         "Elaboração e arquivamento de documentos em meios eletromagnéticos (Lei nº 12.682, de 9 de julho de 2012)", 2),
+    _act("lei-do-processo-discriminatorio-de-terras-devolutas", "LDiscr", "l6383", "l6383", "lei-6383-1976",
+         "Processo discriminatório de terras devolutas da União (Lei nº 6.383, de 7 de dezembro de 1976)", 2),
+    _act("lei-do-sistema-nacional-de-sementes-e-mudas", "LSem", "l10711", "l10711", "lei-10711-2003",
+         "Sistema Nacional de Sementes e Mudas (Lei nº 10.711, de 5 de agosto de 2003)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -765,6 +772,9 @@ PARTS: dict[str, list[str]] = {
     "zzzr": ["lei-12990-de-2014"],
     # thirty-sixth session
     "zzzs": ["lei-do-sistema-de-consorcios"],
+    "zzzt": ["lei-da-digitalizacao-de-documentos"],
+    "zzzu": ["lei-do-processo-discriminatorio-de-terras-devolutas"],
+    "zzzv": ["lei-do-sistema-nacional-de-sementes-e-mudas"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1055,6 +1065,12 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                      "vigência pelo prazo de 10 (dez) anos' (DOU 10.6.2014)"),
     "lei-11795-2008": ("2009-02-06", "Lei 11.795/2008 art. 49: 'Esta Lei entra em vigor após decorridos 120 (cento e vinte) "
                                      "dias de sua publicação' (DOU 9.10.2008)"),
+    "lei-12682-2012": ("2012-07-10", f"Lei 12.682/2012 art. 8: {_PUB} (DOU 10.7.2012)"),
+    "lei-6383-1976": ("1976-12-09", "Lei 6.383/1976 art. 33: 'Esta Lei entrará em vigor na data de sua publicação, aplicando-se, "
+                                    "desde logo, aos processos pendentes' (DOU 9.12.1976)"),
+    "lei-10711-2003": ("2003-11-04", "Lei 10.711/2003 art. 51: 'Esta Lei entra em vigor 90 (noventa) dias após a data de sua "
+                                     "publicação' (DOU 6.8.2003; the term counted with the day of publication, Lei Complementar "
+                                     "95/1998 art. 8 § 1º, as Lei 13.966/2019)"),
     "lei-10887-2004": ("2004-06-21", "Lei 10.887/2004 art. 17: 'Esta Lei entra em vigor na data de sua publicação' (DOU 21.6.2004)"),
     "lei-13988-2020": ("2020-04-14", "Lei 13.988/2020 art. 30: 'Esta Lei entra em vigor: I - em 120 (cento e vinte) dias "
                                      "contados da data da sua publicação, em relação ao inciso I do caput e ao parágrafo único do "
@@ -1655,6 +1671,12 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "de 2001, e dá outras providências.", "2015-01-12", "2015-01-13", "_Ato2015-2018/2015/Lei/L13089.htm"),
     "lei-11795-2008": _L("Lei nº 11.795, de 2008", "Dispõe sobre o Sistema de Consórcio.", "2008-10-08", "2008-10-09",
                          PAGES["l11795"]),
+    "lei-12682-2012": _L("Lei nº 12.682, de 2012", "Dispõe sobre a elaboração e o arquivamento de documentos em meios "
+                         "eletromagnéticos.", "2012-07-09", "2012-07-10", PAGES["l12682"]),
+    "lei-6383-1976": _L("Lei nº 6.383, de 1976", "Dispõe sobre o Processo Discriminatório de Terras Devolutas da União, e dá "
+                        "outras Providências.", "1976-12-07", "1976-12-09", PAGES["l6383"]),
+    "lei-10711-2003": _L("Lei nº 10.711, de 2003", "Dispõe sobre o Sistema Nacional de Sementes e Mudas e dá outras "
+                         "providências.", "2003-08-05", "2003-08-06", PAGES["l10711"]),
     "dl-25-1937": _L("Decreto-Lei nº 25, de 1937", "Organiza a proteção do patrimônio histórico e artístico nacional.",
                      "1937-11-30", "1937-12-06", PAGES["del0025"]),
 }
@@ -7203,6 +7225,14 @@ B8.SPAN_FIX += [
 B13.OPEN_ITEMS[_LSCONS] = (
     "Lei 11.795 (open items): Lei 13.506/2017 art. 64 (rules on infractions in the Sistema de Consórcios) is a provision of "
     "Lei 13.506, not words of Lei 11.795, and is not shown here; the 'Mensagem de veto' and 'Vigência' links strike no words")
+
+# part zzzu (thirty-sixth session): Lei 6.383/1976 (processo discriminatório de terras devolutas da União).
+_LDISCR = "lei-do-processo-discriminatorio-de-terras-devolutas"
+if any(a["slug"] == _LDISCR for a in ACTS):
+    EXTRA.append("Lei 6.383/1976 art. 29 § 1º: Medida Provisória 458/2009 art. 40 gave it a new wording (in force on publication, "
+                 "art. 43; DOU 11.2.2009); its conversion law, Lei 11.952/2009 (in force on publication, art. 41; DOU 26.6.2009), "
+                 "does not amend Lei 6.383 at all, so the MP's wording ends on 26.6.2009 and the 1976 wording, which Planalto "
+                 "prints again unstruck after the MP's, is in force again from that day (the converted-MP rule).")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

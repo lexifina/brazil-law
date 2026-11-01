@@ -2358,3 +2358,23 @@ effect day never takes effect (no version, a decision line); MP 805 in Lei 10.88
 - PIDs (mine, all exited): pages 39548, laws 51928, missing 15532, trial 38552/42724, spans 38676, pipe PIDs in
   zzzs-pipe1.out (43264, 46568, 35520, 54604, 41840, 45544, 15684). One stray background grep (regex backtracking) stopped by
   its own task id.
+### 99-batch17zzzt - PUBLISHed: Lei 12.682/2012 (lei-da-digitalizacao-de-documentos, LDigDoc, 4 versions 2012-07-10 .. 2021-06-28)
+- Pages l12682, l6383 (leis/l6383.htm), l10711 (leis/2003/l10.711.htm) pinned in one `iaonly.py pages` run (3, archive.org);
+  `laws` for the three (6 linked, 2 new), act-scoped `missing` 0. ACT_DAY 10.7.2012 (art. 8); ACT_LAWS new record.
+- No hand items: MP 881 art. 11 (30.4.2019, art. 19) -> Lei 13.874 art. 10 (20.9.2019, art. 20 II); Lei 14.129 art. 53
+  (art. 3 caput only; 28.6.2021, art. 55 I, as the corpus dates Lei 14.129). conv_report no case.
+- pipe.sh zzzt (b36/logs/zzzt-pipe1.out): a734fe88 x2, all 0, latecaput 1 = art. 3 p.u. under the 2021 caput (intended);
+  merged 289/3870/2716, check 0/0, compare identical, audit clean. Installed; README row + jurisdiction.json.
+### 99-batch17zzzu - PUBLISHed: Lei 6.383/1976 (lei-do-processo-discriminatorio-de-terras-devolutas, LDiscr, 3 versions 1976-12-09, 2009-02-11, 2009-06-26)
+- ACT_DAY 9.12.1976 (art. 33); ACT_LAWS new record. MP 458 art. 40 (art. 29 § 1º; 11.2.2009, art. 43); Lei 11.952 (its
+  conversion) does not amend Lei 6.383 -> 1976 wording back 26.6.2009 (reader already dates it so; block '# part zzzu' adds
+  the decision line only). conv_report no case (dated already).
+- pipe.sh zzzu (b36/logs/zzzu-pipe1.out): 64551042 x2, all 0; lawrecords set lei-11952-2009 title (agreed record);
+  merged 290/3873/2717, check 0/0, compare identical, audit clean. Installed 9638745e; README row + jurisdiction.json.
+### 99-batch17zzzv - PUBLISHed: Lei 10.711/2003 (lei-do-sistema-nacional-de-sementes-e-mudas, LSem, 2 versions 2003-11-04, 2022-12-30)
+- ACT_DAY 4.11.2003 (art. 51, 90 days after DOU 6.8.2003, LC 95 count as Lei 13.966); ACT_LAWS new record. Lei 14.515 art. 50
+  X (art. 42, art. 43 I-VI) effects on publication (art. 51 III, 30.12.2022). No hand items.
+- pipe.sh zzzv (b36/logs/zzzv-pipe1.out): dffbb6a5 x2, all 0 but quotecheck 2 (arts. 22/45 quote 'Semente de'/'Muda de');
+  merged 291/3875/2719, check 0/0, compare identical, audit clean. Installed c83a5e13; README row + jurisdiction.json.
+- PIDs (mine, all exited): pages 44808, laws 8604, missing 49520, trials 41404/46320/39088, spans + lawtxt runs (logs/),
+  conv 28732/35968/35096, pipe PIDs in zzzt/zzzu/zzzv-pipe1.out.
