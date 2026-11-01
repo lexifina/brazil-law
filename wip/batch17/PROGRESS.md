@@ -2301,3 +2301,39 @@ Disallow /control/ /report/; web.archive.org 404; b35/robots).
 - pipe.sh zzzr (b35/logs/zzzr-pipe2.out): 18b5ecdc x2, every check 0, REPEAL CHECK 0 articles differ, dupsame 0, uniqlaws 0;
   merged 286 acts, 3840 versions, 2709 commits, check 0/0, compare identical, audit clean. Installed; README row +
   jurisdiction.json (286 acts, 3840 versions).
+### 99-batch17zzzq - PUBLISHed: Lei 10.887/2004 (lei-10887-de-2004, L10887, 22 versions 2004-06-21 .. 2026-03-31)
+- Pins (archive.org, shared client): ato:ato-19-2018-mpv805 (MP 805 in force to 8.4.2018), ato:apn-25-2012-mpv556 (MP 556 to
+  31.5.2012), ctx:camara-noticia-530114-adi-5809 (dating only) and ctx:stf-adi-5809-liminar (the STF decision PDF, capture
+  20180107121948, text layer read with pypdf in b35/pdf; no OCR). One WebSearch (stf/camara domains) to find the decision.
+- Block '# part zzzq' (scoped): VIGENCIA_FIXED lei-12618-2012 (art. 33 II, 2.5.2012), lei-13328-2016 (art. 152 I),
+  mp-556-2011 (effects 1.4.2012, art. 7 I), lei-12688-2012 (art. 36 IV, 19.7.2012; the reader had taken III's 1.6.2012),
+  lei-14875-2024 (art. 75 II); MP_LAPSE mp-556-2011 1.6.2012 and mp-805-2017 9.4.2018 (text = 95-rju's, so the -fim record
+  is shared); MP_PENDING mp-1203-2023; COURTS stf-adi-5809. ADI 5.809 MC (18.12.2017) suspended MP arts. 1-34 and 40 I-II and
+  Lei 10.887 art. 4 I-II, § 3º and art. 5 in the MP's wording. Model (_W805 decision): increase lines (art. 4 caput/I/II,
+  § 3º + I/II, art. 5 + p.u.) never take effect (art. 38: effects from 1.2.2018, after the ruling) -> skipped, with the
+  struck repeats of 12.618's art. 4 and 2004 art. 5; art. 4 II a)-b) gap 30.10-18.12.2017 and art. 6 + p.u. absent in that
+  window, back from the ruling; § 1º VI / XXV (not named by the ruling) MP wording to the lapse, VI back 9.4.2018.
+  paragraphs wrapper: 'Sem eficácia' markers stripped; art. 10's 'redação dada pela MP 2.187-13 ...' kept as text (it had
+  made a same_day version credited to MP 2.187). law_records.json + lei-12618-2012 (99-batch17zzp's record; zzp unchanged).
+  OPEN_ITEMS (MP 167 text, ADI's later fate, Vide EC 47 / ADI 4.582). conv_report: no case.
+- pipe.sh zzzq (b35/logs/zzzq-pipe2.out): c80bfeda x2, 0 problems, leakcheck 5 + quotecheck 17 = quoted amendments in
+  arts. 10-14 as printed, rest 0, uniqlaws 0, dupsame 0; installed 61c7800f; README row + jurisdiction.json.
+- NOTE: an edit mid-session spliced a duplicate of the zzzg..zzzq blocks into parse_batch17 (index of the wrong
+  MP_PENDING); repaired (broken copy b35/parse_batch17.broken.py) and the diff against b35/before/ shows only the intended
+  changes. zzzm/zzzr were piped before that edit and zzzq after the repair.
+- PIDs (all mine, all exited): run.py children in b35/logs (lawtxt/cdx/pins/trials/sp/pipe/docs: 54916, 27256, 11272,
+  26416, 12964, 21320, 41548, pipe PIDs in zzzr-pipe1/2.out, zzzm-pipe1.out, zzzq-pipe1/2.out, 39416, 45760 (gaps.py
+  failed at once: it tries Common Crawl first and the client refused, no request), 32248, 36948, 18416, 53508, 18944,
+  20844, final 576, uniqlaws 1064). One stray background shell (a slow `find` over .cache) stopped by its own task id.
+
+## State at handoff (batch 17, thirty-fifth session, 2026-11-01)
+Installed with .PUBLISH this session: zzzr (Lei 12.990/2014; 2), zzzq (Lei 10.887/2004; 22); re-PUBLISHed zzzm (decision line
+only). Final merged build of the installed folder (b35/logs/final-build.log): 287 acts, 3862 versions, 2714 commits, check 0/0,
+--compare identical, audit_push clean on main and futuro; uniqlaws --all 0. README rows + jurisdiction.json (287 acts, 3862
+versions) current. corpus.d changed: new 99-batch17zzzq/zzzr (+ PUBLISH), 99-batch17zzzm.json (+ PUBLISH line).
+law_records.json + lei-12618-2012. Fetching: archive.org only (robots read): 2 page pins, 2 Ato pins, 2 ctx pins; no LexML, no
+Common Crawl, no Arquivo.pt; no challenge page.
+NEXT: ranked list from Lei 11.795/2008, then 12.682/2012, 6.383/1976, 10.711/2003, 9.069/1995, heavy tax laws, historic codes.
+Rule learnt: read an STF ruling's own dispositive text (stf.jus.br/arquivo PDFs via archive.org) for its scope before
+modelling a suspension; the Câmara news gives the date only.
+OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff.

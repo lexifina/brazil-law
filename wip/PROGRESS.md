@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-01 (batch 17, thirty-fourth session: zzzm Lei 11.952/2009 (9 versions), zzzn Lei 13.966/2019 (1), zzzo Lei 14.063/2020 (3), zzzp Lei 13.988/2020 (8) PUBLISHed; 99-batch9 and 99-batch17q re-PUBLISHed (one law-record field each, law_records.json); merged 285 acts, 3838 versions, 2707 commits, check 0/0, compare identical, audit clean; Lei 12.990 HELD for a decision; zzzq Lei 10.887/2004 configured, not published (to-do list); NEXT finish zzzq; details in batch17/PROGRESS.md)
+CHECKPOINTED 2026-11-01 (batch 17, thirty-fifth session: coordinator decisions applied - zzzm re-PUBLISHed (LC 95 art. 12 III decision line), zzzr Lei 12.990/2014 (2 versions, repeal by Lei 15.142 on 4.6.2025, ADI 7.654 decision) PUBLISHed; zzzq Lei 10.887/2004 (22 versions; MP 556 staged + lapse, MP 805 per the ADI 5.809 MC's own text, MP 1.203 revoked) PUBLISHed; merged 287 acts, 3862 versions, 2714 commits, check 0/0, compare identical, audit clean; NEXT Lei 11.795/2008 and the ranked list; details in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 

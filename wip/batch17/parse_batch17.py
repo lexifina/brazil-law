@@ -276,6 +276,8 @@ PAGES.update({
     "l12990-2025": "_ato2011-2014/2014/lei/l12990.htm",
     "l15142": "_ato2023-2026/2025/lei/l15142.htm",
     "l10887": "_ato2004-2006/2004/lei/l10.887.htm",
+    # thirty-sixth session: consórcio system
+    "l11795": "_ato2007-2010/2008/lei/l11795.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -637,6 +639,9 @@ ALL_ACTS: list[dict] = [
     # thirty-fifth session
     _act("lei-12990-de-2014", "L12990", "l12990-2025", "l12990-2025", "lei-12990-2014",
          "Reserva aos negros de vagas em concursos públicos federais (Lei nº 12.990, de 9 de junho de 2014)", 2),
+    # thirty-sixth session
+    _act("lei-do-sistema-de-consorcios", "LSCons", "l11795", "l11795", "lei-11795-2008",
+         "Sistema de Consórcio (Lei nº 11.795, de 8 de outubro de 2008)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -755,6 +760,8 @@ PARTS: dict[str, list[str]] = {
     "zzzq": ["lei-10887-de-2004"],
     # thirty-fifth session
     "zzzr": ["lei-12990-de-2014"],
+    # thirty-sixth session
+    "zzzs": ["lei-do-sistema-de-consorcios"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1043,6 +1050,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-11952-2009": ("2009-06-26", f"Lei 11.952/2009 art. 41: {_PUB} (DOU 26.6.2009)"),
     "lei-12990-2014": ("2014-06-10", "Lei 12.990/2014 art. 6: 'Esta Lei entra em vigor na data de sua publicação e terá "
                                      "vigência pelo prazo de 10 (dez) anos' (DOU 10.6.2014)"),
+    "lei-11795-2008": ("2009-02-06", "Lei 11.795/2008 art. 49: 'Esta Lei entra em vigor após decorridos 120 (cento e vinte) "
+                                     "dias de sua publicação' (DOU 9.10.2008)"),
     "lei-10887-2004": ("2004-06-21", "Lei 10.887/2004 art. 17: 'Esta Lei entra em vigor na data de sua publicação' (DOU 21.6.2004)"),
     "lei-13988-2020": ("2020-04-14", "Lei 13.988/2020 art. 30: 'Esta Lei entra em vigor: I - em 120 (cento e vinte) dias "
                                      "contados da data da sua publicação, em relação ao inciso I do caput e ao parágrafo único do "
@@ -1641,6 +1650,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     # the record 99-batch7 has
     "lei-13089-2015": _L("Lei nº 13.089, de 2015", "Institui o Estatuto da Metrópole, altera a Lei nº 10.257, de 10 de julho "
                          "de 2001, e dá outras providências.", "2015-01-12", "2015-01-13", "_Ato2015-2018/2015/Lei/L13089.htm"),
+    "lei-11795-2008": _L("Lei nº 11.795, de 2008", "Dispõe sobre o Sistema de Consórcio.", "2008-10-08", "2008-10-09",
+                         PAGES["l11795"]),
     "dl-25-1937": _L("Decreto-Lei nº 25, de 1937", "Organiza a proteção do patrimônio histórico e artístico nacional.",
                      "1937-11-30", "1937-12-06", PAGES["del0025"]),
 }
@@ -7160,6 +7171,35 @@ B13.OPEN_ITEMS[_L12990] = (
     "Lei 12.990 (open items): the ruling in ADI 7.654 changes no words and is not a version; Lei 15.142/2025 art. 11 keeps "
     "Lei 12.990 for the concursos whose editais were published before 4.6.2025, which the history, ending with the repeal, does "
     "not show")
+
+# part zzzs (thirty-sixth session): Lei 11.795/2008 (Sistema de Consórcio). Hand items set only when the act runs (SPAN_FIX is
+# keyed by the act).
+_LSCONS = "lei-do-sistema-de-consorcios"
+_W42_784 = ("Lei 11.795 art. 42: Medida Provisória 784/2017 (DOU 8.6.2017, in force on publication, art. 58) art. 52 gave the "
+            "article a new caput only, closed by '(NR)' with no dotted line, so under Lei Complementar 95/1998 art. 12 III the "
+            "whole article is replaced and incisos I-VIII and the parágrafo único are not in it during the MP's term; the MP "
+            "lapsed on 19.10.2017 and the 2008 article (caput, incisos, parágrafo único) stands again from 20.10.2017 until Lei "
+            "13.506/2017 (art. 63 and art. 71 XIV, in force 14.11.2017). Planalto prints the 2008 incisos and parágrafo único a "
+            "second time after the MP's struck caput: the first copies end on 8.6.2017 and the second copies stand from "
+            "20.10.2017 (the reader had dated the second copies from 2009, so those lines read twice)")
+_W784_REV = ("Lei 11.795 art. 7 IV, art. 43 and art. 44: revoked by Medida Provisória 784/2017 art. 57 I h) on its publication "
+             "(8.6.2017); the MP lapsed on 19.10.2017, so they are absent from 8.6.2017 and stand again from 20.10.2017 until Lei "
+             "13.506/2017 art. 71 XIV revoked them (14.11.2017)")
+_BACK784 = {"start": "2017-10-20", "start_law": "mp-784-2017-fim", "restored": True, "skip": False}
+_GAP784 = {"gaps": [("2017-06-08", "2017-10-20", "mp-784-2017", "mp-784-2017-fim")]}
+_A42 = (("I -", "I - advertência"), ("II -", "II - suspensão do exercício do cargo"), ("III -", "III - inabilitação por prazo"),
+        ("IV -", "IV - regime especial de fiscalização"), ("V -", "V - multa de até 100%"), ("VI -", "VI - multa de até R$"),
+        ("VII -", "VII - suspensão cautelar imediata"), ("VIII -", "VIII - cassação de autorização"),
+        ("Parágrafo único", "Parágrafo único. Considera-se reincidência"))
+B8.SPAN_FIX += [
+    *[((_LSCONS, "art-42", lab, start, 1), dict(_BACK784), _W42_784) for lab, start in _A42],
+    ((_LSCONS, "art-07", "IV -", "IV - fixar condições para aplicação das penalidades", 0), dict(_GAP784), _W784_REV),
+    ((_LSCONS, "art-43", "Art. 43", "Art. 43. A aplicação das penalidades", 0), dict(_GAP784), _W784_REV),
+    ((_LSCONS, "art-44", "Art. 44", "Art. 44. As multas previstas no art. 42", 0), dict(_GAP784), _W784_REV),
+]
+B13.OPEN_ITEMS[_LSCONS] = (
+    "Lei 11.795 (open items): Lei 13.506/2017 art. 64 (rules on infractions in the Sistema de Consórcios) is a provision of "
+    "Lei 13.506, not words of Lei 11.795, and is not shown here; the 'Mensagem de veto' and 'Vigência' links strike no words")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
