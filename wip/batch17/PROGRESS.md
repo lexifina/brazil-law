@@ -1282,3 +1282,16 @@ unstruck); ADIs 6341/6343/6347/6351/6353 and ADPFs 714/715/718/754 condition or 
   (lowercase page) - lawcmp.py (.gitlaw-scratch/lawcmp.py <part> <name>) compares a candidate's law entries with every part.
 - pipe.sh zzb (t21-zzb-pipe2.out): sha 9624198d x2, 0 moves, 0 diffs; merged 227 acts, 3427 versions, 2504 commits, check 0/0,
   compare identical, audit clean; headyear unchanged (t21-hy2.log). Installed; docs.py rows-zzb.json; PUBLISH written.
+
+### 99-batch17zzc - PUBLISHed 2026-11-01 (twenty-first session): Lei 11.494/2007 (lei-do-fundeb-de-2007, Fundeb07)
+- Page l11494-2020 = archive.org capture 20201215182439 (pinat.py; CDX until 20201231: the ~3 KB rows are bot pages), check
+  page l11494 = today's page (unstruck: preamble, Seção II heading, art. 12 caput + I-III). iaonly laws: 7 cited, 3 new.
+- Partial repeal (no whole-act REPEALS): lifespans wrapper (cx.act == _LF07) ends every line but preamble, art. 12 and art. 12's
+  heading group (found by the 'Da Comissão Intergovernamental ...' name line) on 1.1.2021 (lei-14113-2020, 'act-repealed');
+  art. 12 §§ on 28.12.2021 (lei-14276-2021: art. 53 reworded 'ressalvado o caput do art. 12', retroactive wording -> publication
+  day). B8.EXTRA_LAWS lei-14113-2020 (= ACT_LAWS_ALL) and lei-14276-2021 (= part zm's record). Decision _W53 goes through
+  EXTRA (B5.EXTRA_DECISIONS is cleared by batch5b's writer). OPEN_ITEMS: MP 339 pre-text, Anexo formulas (images).
+- Checks: .gitlaw-scratch/prerepeal.py (version before 1.1.2021 vs l11494-2020 unstruck: 0 differ); parse consolidated vs
+  today's page 0 differ. pipe.sh zzc (t21-zzc-pipe2.out): sha 81ef8146 x2, all checks 0; merged 228 acts, 3437 versions, 2509
+  commits, check 0/0, compare identical, audit clean; headyear unchanged (t21-hy3.log). Installed; docs.py rows-zzc.json;
+  jurisdiction.json build text names the partial repeal; PUBLISH written.

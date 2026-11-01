@@ -191,6 +191,7 @@ PAGES.update({
     "l13979": "_ato2019-2022/2020/lei/l13979.htm",
     "l6360": "leis/l6360.htm",
     "l11494": "_ato2007-2010/2007/lei/l11494.htm",
+    "l11494-2020": "_ato2007-2010/2007/lei/l11494.htm",   # capture of 15.12.2020, before Lei 14.113/2020 repealed it
     "l9424": "leis/l9424.htm",
 })
 B.PAGES.clear()
@@ -410,6 +411,11 @@ ALL_ACTS: list[dict] = [
     _act("lei-da-vigilancia-sanitaria-de-medicamentos", "LVSM", "l6360", "l6360", "lei-6360-1976",
          "Vigilância sanitária de medicamentos, drogas, insumos farmacêuticos, cosméticos e saneantes (Lei nº 6.360, de 23 de "
          "setembro de 1976)", 2),
+    # read from the capture of 15.12.2020 (before the repeal); its consolidated check is the page as it is today
+    _act("lei-do-fundeb-de-2007", "Fundeb07", "l11494-2020", "l11494", "lei-11494-2007",
+         "Fundeb 2007-2020 (Lei nº 11.494, de 20 de junho de 2007)", 2),
+    _act("lei-do-fundef", "Fundef", "l9424", "l9424", "lei-9424-1996",
+         "Fundef e salário-educação (Lei nº 9.424, de 24 de dezembro de 1996)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -472,6 +478,8 @@ PARTS: dict[str, list[str]] = {
     "zz": ["lei-dos-agrotoxicos"],
     "zza": ["lei-do-credito-consignado"],
     "zzb": ["lei-da-vigilancia-sanitaria-de-medicamentos"],
+    "zzc": ["lei-do-fundeb-de-2007"],
+    "zzd": ["lei-do-fundef"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -656,6 +664,9 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-10820-2003": ("2003-12-18", f"Lei 10.820/2003 art. 9: {_PUB} (DOU 18.12.2003)"),
     "lei-6360-1976": ("1976-12-28", "Lei 6.360/1976 art. 88: 'Esta Lei entrará em vigor 95 (noventa e cinco) dias depois de sua "
                                     "publicação' (DOU 24.9.1976; 95 days after 24.9.1976 is 28.12.1976)"),
+    "lei-11494-2007": ("2007-06-21", "Lei 11.494/2007 art. 49: 'Esta Lei entra em vigor na data da sua publicação' (DOU "
+                                     "21.6.2007, rectified 22.6.2007)"),
+    "lei-9424-1996": ("1997-01-01", "Lei 9.424/1996 art. 16: 'Esta Lei entra em vigor em 1º de janeiro de 1997' (DOU 26.12.1996)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -990,6 +1001,14 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-6360-1976": _L("Lei nº 6.360, de 1976", "Dispõe sobre a vigilância sanitária a que ficam sujeitos os medicamentos, as "
                         "drogas, os insumos farmacêuticos e correlatos, cosméticos, saneantes e outros produtos, e dá outras "
                         "providências.", "1976-09-23", "1976-09-24", PAGES["l6360"]),
+    "lei-11494-2007": _L("Lei nº 11.494, de 2007", "Regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de "
+                         "Valorização dos Profissionais da Educação - FUNDEB, de que trata o art. 60 do Ato das Disposições "
+                         "Constitucionais Transitórias; altera a Lei nº 10.195, de 14 de fevereiro de 2001; revoga dispositivos "
+                         "das Leis nºs 9.424, de 24 de dezembro de 1996, 10.880, de 9 de junho de 2004, e 10.845, de 5 de março "
+                         "de 2004; e dá outras providências.", "2007-06-20", "2007-06-21", PAGES["l11494"]),
+    "lei-9424-1996": _L("Lei nº 9.424, de 1996", "Dispõe sobre o Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de "
+                        "Valorização do Magistério, na forma prevista no art. 60, § 7º, do Ato das Disposições Constitucionais "
+                        "Transitórias, e dá outras providências.", "1996-12-24", "1996-12-26", PAGES["l9424"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -4583,6 +4602,119 @@ if any(a["slug"] == _LVSM for a in ACTS):
         ("l6360", "I - benefícios clínicos, econômicos e sociais", "II - benefícios clínicos, econômicos e sociais", "II -",
          "Lei 6.360 art. 17-A: Planalto prints the second inciso as 'I - benefícios clínicos [...]'; Lei 13.411/2016 (art. 1, "
          "read on its page) numbers it 'II -'"))
+
+# part zzc: Lei 11.494/2007 (Fundeb 2007-2020). Repealed from 1.1.2021 by Lei 14.113/2020 art. 53 except art. 12; Lei
+# 14.276/2021 (DOU 28.12.2021, in force on publication) narrowed the exception to the caput of art. 12 (its incisos stay).
+_LF07 = "lei-do-fundeb-de-2007"
+_W53 = ("Lei 11.494/2007: Lei 14.113/2020 (DOU 25.12.2020, in force on publication, art. 54) art. 53, as enacted: 'Fica "
+        "revogada, a partir de 1º de janeiro de 2021, a Lei nº 11.494, de 20 de junho de 2007, ressalvado o art. 12 e mantidos "
+        "seus efeitos financeiros no que se refere à execução dos Fundos relativa ao exercício de 2020' (the Lei's art. 48 had "
+        "set the Funds' term to 31.12.2020). On 1.1.2021 every provision but art. 12 (and the heading of its Seção II) is "
+        "removed, credited to Lei 14.113. Lei 14.276/2021 (DOU 28.12.2021, in force on publication, art. 2) gave art. 53 a new "
+        "wording, 'ressalvado o caput do art. 12': art. 12 §§ 1º to 3º are removed on 28.12.2021, the day that wording took "
+        "effect (its 'a partir de 1º de janeiro de 2021' reaches back, so the publication day is kept), credited to Lei "
+        "14.276; the caput with its incisos I to III stays, as Planalto's page prints it today. The page is read from a "
+        "capture of 15.12.2020, before the repeal (Planalto strikes the rest of the page afterwards); the history up to "
+        "31.12.2020 is checked against that capture's text, the last version against the page as it is today")
+_F07_CHECK: list[str] = []
+_lifespansF07 = P.lifespans
+
+
+def lifespans(paras, cx):
+    problems = _lifespansF07(paras, cx)
+    if cx.act == _LF07:
+        # the heading kept is art. 12's own (its Seção II and name line), found by the name line's heading group
+        grp = {p["label"].rsplit("-", 1)[0] for p in paras if p["unit"] == "titulos" and re.sub(r"\s+", " ", p["text"]).strip()
+               == "Da Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade"}
+        assert len(grp) == 1, grp
+        for p in paras:
+            if p.get("skip") or not (p["end"] is None or p["end"] > "2021-01-01") or p["start"] >= "2021-01-01":
+                continue
+            if p["unit"] == "preambulo":
+                continue
+            if p["unit"] == "titulos" and p["label"].rsplit("-", 1)[0] in grp:
+                continue
+            if p["unit"] == "art-12":
+                if p["label"].startswith("§"):
+                    p["end"], p["end_law"], p["end_how"], p["pinned"] = "2021-12-28", "lei-14276-2021", "act-repealed", True
+                continue
+            p["end"], p["end_law"], p["end_how"], p["pinned"] = "2021-01-01", "lei-14113-2020", "act-repealed", True
+    return problems
+
+
+P.lifespans = B.lifespans = lifespans
+if any(a["slug"] == _LF07 for a in ACTS):
+    EXTRA.append(_W53 + ".")
+    # the two repealing laws no note of the 2020 capture names: records as part zm has them
+    B8.EXTRA_LAWS["lei-14113-2020"] = dict(ACT_LAWS_ALL["lei-14113-2020"])
+    B8.EXTRA_LAWS["lei-14276-2021"] = {
+        "label": "Lei nº 14.276, de 2021", "kind": "law",
+        "title": "Altera a Lei nº 14.113, de 25 de dezembro de 2020, que regulamenta o Fundo de Manutenção e Desenvolvimento da "
+                 "Educação Básica e de Valorização dos Profissionais da Educação (Fundeb).",
+        "enacted": "2021-12-27", "published": "2021-12-28", "url": PL + "_ato2019-2022/2021/Lei/L14276.htm",
+        "temporary_until": None, "restores": None, "note": None}
+B13.OPEN_ITEMS[_LF07] = (
+    "Lei 11.494 (open items): the text before 21.6.2007 (Medida Provisória 339/2006, of which this Lei is the conversion) is "
+    "not part of the history; its Anexo (the distribution formulas, printed as images after the signature) is not read; the "
+    "financial effects for 2020 that Lei 14.113 art. 53 keeps change no words; 'Vide' pointers and regulations strike no "
+    "words")
+
+# part zzd: Lei 9.424/1996 (Fundef). Its arts. 1 to 8 and 13 were revoked 'a partir de 1º de janeiro de 2007' by Medida
+# Provisória 339/2006 art. 48 (DOU 29.12.2006, in force on publication, art. 50); Lei 11.494/2007, its conversion (DOU
+# 21.6.2007), repeats the revocation in its art. 46. Planalto notes 'Revogado pela Lei nº 11.494, de 2007' with '(Vide Medida
+# Provisória nº 339, de 2006)': the lines go on 1.1.2007, the day the revocation took effect, credited to MP 339.
+_LFUNDEF = "lei-do-fundef"
+_W339 = ("Lei 9.424 arts. 1 to 8 and 13: Medida Provisória 339/2006 (DOU 29.12.2006, in force on publication, art. 50) art. 48: "
+         "'Ficam revogados, a partir de 1º de janeiro de 2007, os arts. 1º a 8º e 13 da Lei nº 9.424, de 24 de dezembro de 1996' "
+         "(read on the MP's page); Lei 11.494/2007, its conversion (DOU 21.6.2007), repeats it in its art. 46. Planalto notes "
+         "the lines 'Revogado pela Lei nº 11.494, de 2007' with '(Vide Medida Provisória nº 339, de 2006)'; they are removed on "
+         "1.1.2007, the day the revocation took effect, credited to MP 339 (Lei 11.494's own 'a partir de 1º de janeiro de 2007' "
+         "reaches back before its publication and continues the MP's revocation)")
+_F339_USED: list[str] = []
+_lifespansFD = P.lifespans
+
+
+def lifespans(paras, cx):
+    problems = _lifespansFD(paras, cx)
+    if cx.act == _LFUNDEF:
+        for p in paras:
+            if p["unit"] == "art-04" and p["label"] == "§ 5º" and p.get("start_law") == "lei-10880-2004" and not p.get("skip"):
+                p["start"], p["start_law"], p["pinned"] = "2004-03-17", "mp-173-2004", True
+                _F339_USED.append("art-04 § 5º from 17.3.2004")
+            if p.get("end_law") == "lei-11494-2007" and p.get("end") == "2007-06-21" and not p.get("skip"):
+                p["end"], p["end_law"], p["end_how"], p["pinned"] = "2007-01-01", "mp-339-2006", "note", True
+                _F339_USED.append(f"{p['unit']} {p['label']}")
+    return problems
+
+
+P.lifespans = B.lifespans = lifespans
+if any(a["slug"] == _LFUNDEF for a in ACTS):
+    EXTRA.append(_W339 + ".")
+    EXTRA.append("Lei 9.424 art. 4 § 5º: Planalto notes it '(Incluído pela Lei nº 10.880, de 2004)' (DOU 11.6.2004); Lei 10.880 "
+                 "is the conversion of Medida Provisória 173/2004 (DOU 17.3.2004, in force on publication, art. 11), whose art. 10 "
+                 "added the same § 5º word for word (read on the MP's page), so the paragraph is in force from 17.3.2004, credited "
+                 "to MP 173, and the conversion keeps it.")
+    B8.EXTRA_LAWS["mp-173-2004"] = {
+        "label": "Medida Provisória nº 173, de 2004", "kind": "law",
+        "title": "Institui o Programa Nacional de Apoio ao Transporte do Escolar - PNATE e o Programa de Apoio aos Sistemas de "
+                 "Ensino para Atendimento à Educação de Jovens e Adultos, dispõe sobre o repasse de recursos financeiros do "
+                 "Programa Brasil Alfabetizado, altera o art. 4º da Lei nº 9.424, de 24 de dezembro de 1996, e dá outras "
+                 "providências.",
+        "enacted": "2004-03-16", "published": "2004-03-17",
+        "url": PL + "_Ato2004-2006/2004/Mpv/173.htm", "temporary_until": None, "restores": None, "note": None}
+    # the MP the revocation is credited to: Planalto's notes name it only in 'Vide' pointers
+    B8.EXTRA_LAWS["mp-339-2006"] = {
+        "label": "Medida Provisória nº 339, de 2006", "kind": "law",
+        "title": "Regulamenta o art. 60 do Ato das Disposições Constitucionais Transitórias e dá outras providências.",
+        "enacted": "2006-12-28", "published": "2006-12-29",
+        "url": PL + "_Ato2004-2006/2006/Mpv/339.htm", "temporary_until": None, "restores": None, "note": None}
+    P.VIGENCIA_FIXED["lei-10832-2003"] = (
+        "2004-01-01", "art. 3: 'Esta Lei entra em vigor no 1º (primeiro) dia do exercício financeiro seguinte ao de sua "
+                      "publicação' (DOU 30.12.2003): 1.1.2004")
+B13.OPEN_ITEMS[_LFUNDEF] = (
+    "Lei 9.424 (open items): 'Vide' pointers (ADI 1.627 at art. 9 and art. 10 II, ADPF 188 at art. 15, Decretos 5.299/2004 "
+    "and 5.374/2005, Medida Provisória 339/2006 beside lines it did not revoke) strike no words and are not modelled; the "
+    "regulations strike no words")
 
 P.build_act = B.build_act = build_act
 
