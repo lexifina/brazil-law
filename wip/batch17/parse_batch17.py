@@ -5663,6 +5663,21 @@ def build_act_fp(paras, act_day, gate, gate_law, unit_label):
 
 P.build_act = B.build_act = build_act_fp
 
+# part zzt (twenty-sixth session): Lei 5.197/1967 art. 27 § 4º and its alíneas a) to c): Lei 7.653/1988 added them (one
+# 'Incluído' note, after alínea c)) and Lei 7.679/1988 revoked them (one 'Revogado' note after the struck block); without a note
+# of their own the § 4º caput and alíneas a) and b) took the act's first day (1967; they fine in OTN, created in 1986)
+_LFAUNA = "lei-de-protecao-a-fauna"
+_W5197 = ("Lei 5.197 art. 27 § 4º (piracema) and its alíneas a) to c): Planalto prints one note, 'Incluído pela Lei nº 7.653, de "
+          "12.2.1988', after alínea c), and 'Revogado pela Lei nº 7.679, de 23.11.1988' after the struck block; the whole § 4º "
+          "is dated 17.2.1988 (Lei 7.653, DOU) to 24.11.1988 (Lei 7.679), not from 1967")
+_F5197 = {"start": "1988-02-17", "start_law": "lei-7653-1988", "end": "1988-11-24", "end_law": "lei-7679-1988",
+          "end_how": "note"}
+B8.SPAN_FIX += [
+    ((_LFAUNA, "art-27", "§ 4º", "§ 4º Fica proibido pescar", 0), dict(_F5197), _W5197),
+    ((_LFAUNA, "art-27", "a)", "a) se pescador profissional", 0), dict(_F5197), _W5197),
+    ((_LFAUNA, "art-27", "b)", "b) se a empresa que explora", 0), dict(_F5197), _W5197),
+]
+
 # part zzu (twenty-sixth session): Lei 7.735/1989 (Ibama) and Lei 11.516/2007 (Instituto Chico Mendes)
 _LIBAMA, _LICMBIO = "lei-do-ibama", "lei-do-instituto-chico-mendes"
 if any(a["slug"] == _LIBAMA for a in ACTS):
