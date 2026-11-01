@@ -56,29 +56,83 @@ def strip_links(text: str) -> str:
 
 
 # The ementa: the text after the heading (and its links) up to the enacting formula. The readers took it only when it
-# ended with a full stop right before 'O PRESIDENTE ...'; _OLD is that reading, kept first so every title it gave is
-# unchanged. ementa_more() reads the layouts it missed (below).
+# ended with a full stop right before 'O PRESIDENTE ...' within 1500 characters of the heading; ementa_old is that
+# reading, kept first so every title it gave is unchanged. ementa_more reads the layouts it missed.
 _FORMULA = r"(?:O\s+PRESIDENTE|O\s+VICE|A\s+PRESIDENTA|O\s+CONGRESSO|Fa[çc]o saber)"
 _OLD = re.compile(r"(.*?\.)\s*" + _FORMULA, re.S)
+
+# the enacting formula as the pages print it: in capitals or not ('O Presidente da República, usando da atribuição'),
+# split ('O PRESIDENT E DA REPÚBLICA'), without the article ('PRESIDENTE DA REPÚBLICA'), the 1969 military ministers
+# ('OS MINISTROS DA MARINHA DE GUERRA, ...'), Congress ('O Congresso Nacional decreta'). Case-sensitive on purpose: an
+# ementa names 'do Presidente da República' in lower case.
+_FORMULA_MORE = re.compile(
+    r"O\s+PRESIDENT\s?E\b|O\s+VICE\b|VICE-?\s*PRESIDENTE\s+DA\s+REP|A\s+PRESIDENTA\b|O\s+CONGRESSO\b|Fa[çc]o\s+saber|"
+    r"PRESIDENTE\s+DA\s+REP[ÚU]BLICA|O\s+Presidente\s+da\s+Rep[úu]blica|OS\s+MINISTROS\s+DA\s+MARINHA|"
+    r"O\s+Congresso\s+Nacional\s+decreta|O\s+PRESIDENTE\s+DO\s+SENADO")
+# page links and navigation the old reader's links list lacked, or their remnants, before the ementa
+_LEAD_MORE = re.compile(
+    r"^[\s.]*(?:Fica\s+sem\s+efeito\s+pel[ao]\s+" + _REF + r"|[Ss]uspens[ao]\s+pel[ao]\s+" + _REF + r"|"
+    r"V\s?ide\s+texto\s+compilado|e\s+vig[êe]ncia\b|E\s+feitos?\s+financeiros?|Estrutura\s+Regimental(?:\s*\([^()]*\))?|"
+    r"N[ãa]o\s+remover|Down|Up|-->|Texto\s+atualizado)[\s.;:)]*")
+# the same at the end, between the ementa and the formula: navigation ('Não remover Down Up Texto para impressão Texto
+# atualizado Texto compilado'), every link strip_links knows, and the notes of a rewritten ementa ('(Redação dada pela
+# Lei nº 14.423, de 2022)', '(Vigência encerrada)')
+_TAIL = re.compile(
+    r"(?:\s|^)(?:N[ãa]o\s+remover|Down|Up|-->|Texto\s+atualizado|"
+    r"\(\s*(?:Reda[çc][ãa]o\s+dada|Inclu[íi]d[ao])\s+pel[ao]\s+[^()]*\)|" + "|".join(f"(?:{x})" for x in LINKS) + r")[\s.;:]*$", re.I)
+_REWRITTEN = re.compile(r"\(\s*Reda[çc][ãa]o\s+dada\s+pel[ao]\s", re.I)
+
+
+def _lead_more(text: str) -> str:
+    while True:
+        text = strip_links(text)
+        m = _LEAD_MORE.match(text)
+        if not m or not m.group(0).strip():
+            return text
+        text = text[m.end():]
+
+
+def ementa_more(after: str) -> str:
+    """Layouts the old reading missed, '' when none fits: no full stop before the formula ('Modifica o art. 226 da
+    Consolidação das Leis do Trabalho O Presidente da República, usando ...'), navigation and links between the ementa
+    and the formula, the formula in other forms (_FORMULA_MORE), an ementa longer than the old window. An ementa a later
+    act rewrote is printed twice, the enacted wording first, then the new one with its '(Redação dada pela ...)' note:
+    the law's title is the enacted wording (its first sentence), as other parts already give it."""
+    text = _lead_more(after)
+    f = _FORMULA_MORE.search(text)
+    if not f:
+        return ""
+    e = text[:f.start()]
+    rewritten = bool(_REWRITTEN.search(e))
+    while True:
+        m = _TAIL.search(e)
+        if not m or m.start() == len(e):
+            break
+        e = e[:m.start()]
+    e = " ".join(e.split())
+    if rewritten:
+        s = re.search(r"\.(?=\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇ(])", e)
+        if not s:
+            return ""
+        e = e[:s.end()]
+    if not re.match(r"[A-ZÁÉÍÓÚÂÊÔÃÕÇ]", e) or len(e) < 10 or re.search(r"\bArt\.\s*\d", e):
+        return ""
+    return e
+
+
+def ementa(after: str, rest: str = "") -> str:
+    """The law's title from the text after its heading (links stripped); `rest` is the page text that follows `after`."""
+    t = ementa_old(after)
+    if not t:
+        t = ementa_more(after + rest)
+        import os
+        if os.environ.get("TITLES_DUMP"):
+            import json
+            with open(os.environ["TITLES_DUMP"], "a", encoding="utf-8") as f:
+                f.write(json.dumps({"after": after, "rest": rest, "title": t}, ensure_ascii=False) + "\n")
+    return t
 
 
 def ementa_old(after: str) -> str:
     em = _OLD.match(after)
     return em.group(1).strip() if em else ""
-
-
-def ementa_more(after: str) -> str:
-    """Layouts the old reading missed; '' when none fits."""
-    return ""
-
-
-def ementa(after: str) -> str:
-    t = ementa_old(after)
-    if not t:
-        t = ementa_more(after)
-        import os
-        if os.environ.get("TITLES_DUMP"):
-            import json
-            with open(os.environ["TITLES_DUMP"], "a", encoding="utf-8") as f:
-                f.write(json.dumps({"after": after, "title": t}, ensure_ascii=False) + "\n")
-    return t
