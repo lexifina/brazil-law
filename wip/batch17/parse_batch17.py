@@ -3141,6 +3141,23 @@ B8.SPAN_FIX += [
     ((_L10637, "art-08", "a)", "a) referidas no inciso IV do § 3º do art. 1º", 0), dict(_E1010, end_how="note"), _W11727),
     ((_L10637, "art-03", "§ 15", "§ 15. Sem prejuízo da vedação", 0), {"start": "2009-04-01", "start_law": "mp-451-2008"}, _W451),
 ]
+_X10637 = ("the consolidated page prints a revoked or vetoed dispositivo as a placeholder line ('VII - a IX - (Revogado ...)', "
+           "'§§ 10 e 11. (Revogados ...)', 'Art. 38. (Revogado ...)', 'Arts. 42 e 43. (Revogados ...)'), which the history "
+           "leaves out")
+_N10637 = "the annotated page prints 'nº' as 'n' with a raised 'o' ('no' in the text), the consolidated page as 'nº'"
+B.EXPLAINED[_L10637] = {"art-01": _N10637, "art-02": _X10637, "art-03": _X10637 + "; " + _N10637, "art-38": _X10637,
+                        "art-41": _X10637, "art-52": _N10637}
+B13.OPEN_ITEMS[_L10637] = (
+    "Lei 10.637 (open items): Medida Provisória 66/2002 (DOU 30.8.2002), which the Lei converted, is not part of the history; "
+    "the record starts with the Lei (31.12.2002), so the effects art. 68 I and II give from 1.10.2002 and 1.12.2002 start on "
+    "that day. Effects that reach back before an amending act's publication are dated by the publication (Lei 10.684/2003 "
+    "art. 29 II, Medida Provisória 447/2008 art. 8, Lei 11.933/2009 art. 11 I, Lei 11.945/2009 art. 33 I c) and IV b), Lei "
+    "11.727/2008 art. 42 II a)). Medida Provisória 413/2008's wordings are not shown as in effect (its effect tied to an act "
+    "of the Receita Federal by Medida Provisória 425/2008; Lei 11.727 fixed 1.10.2008). Medida Provisória 451/2008: Planalto's "
+    "page of the MP prints the items of art. 22 I struck; they are read as published (as for Lei 9.718). Lei 10.833/2003 art. "
+    "94 VI ('a partir da data de início dos efeito desta Lei') is read as 1.2.2004, the day its arts. 1 to 15 take effect. "
+    "Lei 12.973/2014 art. 119 § 1º (its rules from 1.1.2014 for taxpayers who opted) is not modelled. 'Vide' pointers "
+    "(Decretos 5.057/2004 and 6.842/2009, Medida Provisória 413/2008) are not modelled")
 if any(a["slug"] == _L10637 for a in ACTS):
     P.VIGENCIA_PROVISION[("lei-12973-2014", _L10637, "art-55")] = (
         "2014-05-14", "Lei 12.973/2014 art. 119: 'Esta Lei entra em vigor em 1º de janeiro de 2015, exceto os arts. 3º, 72 a 75 e "
