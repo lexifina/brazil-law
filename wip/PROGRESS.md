@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-01 (batch 17, fifteenth session: 99-batch17zm, zn, zo, zp, zq PUBLISHed (12 acts, 52 versions); merged 209 acts, 3316 versions, check 0/0, compare identical, audit clean; nothing running; DATED RE-CHECK of MP 1.382/2026 on or after 29.11.2026; details in batch17/PROGRESS.md)
+CHECKPOINTED 2026-11-01 (batch 17, sixteenth session: wording fixes re-PUBLISHed in 14 parts (zd LC 166 art. 7, batch7 LC 200 title, shared provision-day decisions); 99-batch17zr PUBLISHed (2 acts, 7 versions); merged 211 acts, 3323 versions, check 0/0, compare identical, audit clean; nothing running; DATED RE-CHECK of MP 1.382/2026 on or after 29.11.2026; details in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 

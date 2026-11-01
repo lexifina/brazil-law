@@ -39,6 +39,7 @@ HERE = Path(__file__).resolve().parent
 FOLDER = HERE
 sys.path.insert(0, str(FOLDER))
 import fetch  # noqa: E402  (the main Brazil fetcher: cache naming and Wayback URLs)
+import titles  # noqa: E402  (strip_links: Planalto's link lines before a law's ementa)
 
 PL = "https://www.planalto.gov.br/ccivil_03/"
 OUT = FOLDER / "corpus.d" / "60-phase2.json"
@@ -366,7 +367,7 @@ def page_info(key: str) -> dict:
     body = re.sub(r"(?is)<script.*?</script>|<style.*?</style>|<strike>.*?</strike>", " ", t)
     x = norm(htmlmod.unescape(re.sub(r"<[^>]+>", " ", body)))
     info: dict = {"source_url": u, "sha256": hashlib.sha256(b).hexdigest()}
-    m = re.search(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI)[^,]{0,40}?N[º°O]?\s*\.?\s*[\d.]+\s*,?\s*DE\s+(\d{1,2})º?\s+DE\s+(\w+)\s+DE\s+(\d{4})",
+    m = re.search(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI)[^,]{0,40}?N\s*[º°O]?\s*\.?\s*[\d.]+\s*,?\s*DE\s+(\d{1,2})º?\s+DE\s+(\w+)\s+DE\s+(\d{4})",
                   head, re.I)
     if m and m.group(2).lower() in MONTHS:
         info["enacted"] = f"{int(m.group(3)):04d}-{MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
@@ -375,10 +376,12 @@ def page_info(key: str) -> dict:
         info["published"] = f"{int(pub.group(3)):04d}-{int(pub.group(2)):02d}-{int(pub.group(1)):02d}"
     if m:
         after = head[m.end():m.end() + 1500]
+        after = titles.strip_links(after)   # Planalto's link lines before the ementa (again below, after the older regex)
         after = re.sub(r"^(?:\s*(?:Mensagem de veto|Texto compilado|Vig[êe]ncia(?: encerrada)?|Convers[ãa]o da Medida Provis[óo]ria\s+n[º°]?\s*[\d.]+(?:,\s*de\s+\d{4})?|"
                        r"Convertida na Lei\s+n[º°]?\s*[\d.]+(?:,\s*de\s+\d{4})?|Regulamento|Produ[çc][ãa]o de efeitos?|Vide [^.]*?\d{4}\)?|"
                        r"\(Vide [^)]*\)|Exposi[çc][ãa]o de motivos|Promulga[çc][ãa]o (?:partes )?vetadas?|Rejeitada|Ato declarat[óo]rio[^.]*?\d{4}|"
                        r"Revogad[ao][^.]*?\d{4}|\.|Prorrogada[^.]*?\d{4}))+", "", after, flags=re.I)
+        after = titles.strip_links(after)
         em = re.match(r"(.*?\.)\s*(?:O\s+PRESIDENTE|O\s+VICE|A\s+PRESIDENTA|O\s+CONGRESSO|Fa[çc]o saber)", after, re.S)
         info["title"] = em.group(1).strip() if em else ""
     conv = re.search(r"Convertid[ao]\s+n[ao]\s+Lei\s+n[º°]?\s*([\d.]+)\s*,?\s*de\s+(?:\d{1,2}[./]\d{1,2}[./])?(\d{4})", head, re.I)

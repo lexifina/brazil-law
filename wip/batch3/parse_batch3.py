@@ -686,6 +686,13 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
         if laws.get(k, {}).get("restores"):
             used.add(laws[k]["restores"])
     laws = {k: laws[k] for k in sorted(used) if k in laws}
+    # batch 3's own part (the Código Eleitoral is only in its ACTS): Lei 7.663/1988's heading misprints the month
+    if any(a["slug"] == "codigo-eleitoral" for a in ACTS) and "lei-7663-1988" in laws:
+        laws["lei-7663-1988"] = dict(laws["lei-7663-1988"], enacted="1988-05-27")
+        decisions = decisions + [
+            "Lei 7.663/1988: Planalto's page heads it 'DE 27 DE JUNHO DE 1988', but it closes 'Brasília, 27 de maio de "
+            "1988' and was published in the DOU of 31.5.1988: enacted 27.5.1988 (its in-force day, the day of "
+            "publication, is unchanged)."]
     n_pl, n_lx, n_stf = _requests()
     names = ", ".join(a["short"] for a in ACTS)
     srcs = [{

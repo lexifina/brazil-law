@@ -965,3 +965,40 @@ Task 1 (all three fixed in the parsers, parts regenerated and re-PUBLISHed; merg
   .gitlaw-scratch/brazil-b17/t1/re and brazil-b17/re). Installed = previous file with the regenerated decisions (and laws for
   batch7) via t1/splice.py (refuses if any other key differs; sources ignored = pin growth). Changed parts (each PUBLISH appended):
   7, 9, 11, 12, 15a, 15b, 16f, 17k, 17m, 17zc, 17zd, 17zg, 17zk, 17zl. Previous files in brazil-b17/t1/before.
+
+## 99-batch17zr - PUBLISHed 2026-11-01 (sixteenth session)
+Lei 6.996/1982 (lei-do-processamento-eletronico-eleitoral, 4 versions 1982-06-08 .. 1995-09-20) and Lei 9.870/1999
+(lei-das-mensalidades-escolares, 3 versions 1999-11-24 .. 2013-11-27); both own consolidated pages. Pages pinned for zr and later
+candidates (`iaonly.py pages`, 10: l11738, l12009, l6996, l9870, l12379, l6437 + compilado, l13005, lcp159, lcp178); `laws` (5 new)
++ `missing` (0).
+- Lei 6.996: SPAN_FIX art. 16 §§ 1º-2º end 20.9.1995 'repealed' (Lei 9.096 art. 63 revokes the whole article; Planalto strikes
+  only the caput) + EXPLAINED art-16. B8.LAW_FIELD_FIX (scoped): lei-7663-1988 enacted 27.5.1988 (heading misprints JUNHO),
+  lei-7444-1985 title (ementa without full stop).
+- Lei 9.870: MP_PENDING mp-2173-2001 (2.173-24); mesc_renum() in apply_rewrites: MP 2.173-24 renumbered art. 1 §§ 3º-4º -> 5º-6º
+  and art. 6 §§ 1º-3º -> 2º-4º (read on the MP page, no words changed): copies under the old numbers 24.11.1999-24.8.2001
+  (MESC_RENUM decision). OPEN_ITEMS both acts.
+- Amenders all in force on publication; effects_fix 0 moves. Benign: dupline/dupcheck 1 (art. 9 quoted arts. 7º-A/7º-B), quote 4.
+  Parse sha 67be88f2 (x2, 0 moves). Merged 211 acts, 3323 versions, 2435 commits, check 0/0, compare identical, audit clean
+  (final16-build.log, after rows-zr.json docs).
+- NOT built (configured in ALL_ACTS, in no part): Lei 11.738/2008 (lei-do-piso-do-magisterio): Lei 15.437/2026 (31 notes, also
+  rewrote the ementa) has no archive.org capture (cdxpre of 2026/lei/l1543: 15430-15439 except 15435/15437); Lei 12.009/2009
+  (lei-dos-mototaxistas): MP 1.360/2026 (art. 2) lapsed, Ato adc-96-mpv1.360 not archived (cdxlist 3 variants; cdxpre of
+  2026/congresso lists 16 Atos, not this one), so its lapse day cannot be read. Re-check both later.
+- Noticed, not changed (published, first by file name in the merged build): 90-batch3's lei-7663-1988 has enacted 1988-06-27
+  (same heading slip); 80-proc's lei-9870-1999 title starts '-67, de 1999 Dispõe ...' (MP 1.890-67 conversion link text).
+
+## State at handoff (batch 17, sixteenth session, 2026-11-01)
+Task 1 done (zd art. 7; batch7 LC 200 title; shared provision-day decisions) with 14 parts re-PUBLISHed (decision/title wording
+only). Part zr installed with .PUBLISH. Merged 211 acts, 3323 versions, 2435 commits, check 0/0, --compare identical, audit clean.
+README rows + jurisdiction.json (211 acts) current. All runs through .tmp/run.py / pipe.sh / reparse.sh / reparse_all.py at
+BelowNormal (cpu gate), at most 2 at once (a fetch beside a parse), never two parses; every PID this session was printed by run.py
+in its log (t1/reall*.log, t1/re2.out, .tmp/*-zr*.log, *-re.log, t1-build.log, final16-build.log); all mine, all exited. Nothing running.
+DATED RE-CHECK (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026 - not before.
+Left out / unsettled: Lei 9.782 art. 8º-A; Lei 10.931; Lei 10.522 art. 32 quoted § 2º; Lei 12.462 art. 63 § 17; + Lei 11.738 and
+Lei 12.009 (above).
+Decision wanted: page link text at the start of law titles across parts (see Task 1 (b) above).
+Next candidates (pages pinned): Lei 12.379/2011 (Sistema Nacional de Viação; Lei 14.273/2021 58 notes + MP 1.065/2021 36: reuse
+part w's MP 1.065 / Lei 14.273 handling), Lei 6.437/1977 (+ compilado; MP 2.190-34 34 notes, Lei 9.695/1998 20, MP 116/1989),
+Lei 13.005/2014 (PNE; 1 note, Lei 14.627/2023; ten-year term of art. 1 and its extension: read before modelling), LC 159/2017 and
+LC 178/2021 (both law keys already in 99-batch7 with marker-free titles: keep ACT_LAWS titles identical to batch7's so the merged
+build's commit messages do not change). Not pinned yet: Lei 6.360/1976, Lei 11.494/2007, Lei 9.424/1996, Lei 10.861/2004.
