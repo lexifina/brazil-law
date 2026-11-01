@@ -1129,3 +1129,16 @@ LC 159/2017 (lei-do-regime-de-recuperacao-fiscal, 5 versions 2017-05-22 .. 2024-
 - zt: the EXTRA decision duplicated proc's automatic PUBLISHED_FIXED decision: removed; part sha dc3c8fab.
 - Merged after both: 216 acts, 3345 versions, 2448 commits (Lei 9.695's two acts now one commit), check 0/0, compare identical, audit
   clean (final19-b8-build.log).
+
+## 99-batch17zv - PUBLISHed 2026-11-01 (nineteenth session)
+Lei 7.853/1989 (lei-da-pessoa-com-deficiencia-de-1989, 9 versions, vs l7853compilado), Lei 9.807/1999 (lei-de-protecao-a-testemunhas,
+2), Lei 10.861/2004 (lei-do-sinaes, 3). Pages pinned (`iaonly.py pages`: l7853(+compilado), l9807, l10861, l9456; l10973 pinned with
+pinat.py ts 20260901034100 because pick() gave NO CAPTURE); `laws` (10 new) + `missing` (0).
+- Lei 7.853 art. 10: MP 437 (30.7.2008) wording ends 29.8.2008 (MP 439 art. 4), Lei 8.028's restored copy (nth 1) starts 29.8.2008
+  credited mp-439-2008 (EXTRA_LAWS, MP_PENDING mp-437 text scoped); Lei 11.958 (29.6.2009) = MP 437's words.
+- Lei 9.807 art. 17 BARE_TEXT (_BARE_RX9807; 'l9807' in _BX + own decision).
+- MP 1.370/2026 (SINAES art. 5 § 12) MP_PENDING: last capture of mpv1370.htm 22.10.2026, term ends ~30.10.2026 (recess 18-31.7
+  suspends it). RE-CHECK when archive.org has a capture after 30.10.2026 (cdxlist _ato2023-2026/2026/mpv/mpv1370.htm): converted ->
+  CONVERTED via the MP page; lapsed -> MP_LAPSE (Ato Declaratório) and a version on the day after the term.
+- Part sha 149e561a (0 moves); merged 219 acts, 3359 versions, 2456 commits, check 0/0, compare identical, audit clean
+  (final19-zv-build.log, after rows-zv.json docs).
