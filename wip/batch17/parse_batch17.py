@@ -7014,6 +7014,484 @@ if any(a["slug"] == _L10887 for a in ACTS):
     P.MP_LAPSE["mp-556-2011"] = (
         "2012-06-01", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 25, de 2012 (DOU 14.6.2012): 'teve seu "
                       "prazo de vigência encerrado no dia 31 de maio do corrente ano'")
+    P.MP_LAPSE["mp-805-2017"] = (
+        "2018-04-09", "Ato do Presidente da Mesa do Congresso Nacional nº 19, de 2018 (DOU 10.4.2018): 'teve seu prazo de "
+                      "vigência encerrado no dia 8 de abril do corrente ano'; the replaced wording is back from 9.4.2018")
+    P.MP_PENDING["mp-1203-2023"] = (
+        "Medida Provisória nº 1.203, de 29.12.2023 (DOU 29.12.2023, edição extra, in force on publication), revoked by Lei "
+        "14.875/2024 (DOU 31.5.2024, edição extra, art. 74 XVII; in force on publication for that provision, art. 75 II), whose "
+        "art. 54 gave Lei 14.600 art. 50 § 8º its wording the same day; the MP's wording of the paragraph ends on 31.5.2024")
+LOPM_DATED: list[str] = []
+_paragraphsLOPM = P.paragraphs
+
+
+def paragraphs(html, digits):
+    """Lei 14.600 Seção XIII-A: Planalto prints Medida Provisória 1.187/2023's heading (the name struck) and, further on, Lei
+    14.816/2024's heading of the same words, whose name line carries no note of its own (the note '(Incluído pela Lei nº
+    14.816, de 2024)' follows the 'Seção XIII-A' line); the reader dated that name line from 2023. It takes the note of its
+    'Seção XIII-A' line, so the MP's name stands from 13.9.2023 and Lei 14.816's from 17.1.2024"""
+    out, rest = _paragraphsLOPM(html, digits)
+    if B8.CURRENT_PAGE[0] == "l14600":
+        _name = "Do Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte"
+        for k, p in enumerate(out):
+            if (p["heading"] and p["state"] == "plain" and p["text"] == _name and not p["notes"] and k
+                    and out[k - 1]["heading"] and any("14.816" in n for n in out[k - 1]["notes"])):
+                p["notes"] = list(out[k - 1]["notes"])
+                LOPM_DATED.append(p["text"])
+        if LOPM_DATED and not any("Seção XIII-A" in x and "14.816" in x for x in EXTRA):
+            EXTRA.append("Lei 14.600 Seção XIII-A heading: Medida Provisória 1.187/2023 (13.9.2023) added it; Planalto prints the MP's "
+                         "heading (its name struck) and Lei 14.816/2024's heading of the same words, whose name line has no note of "
+                         "its own; it takes the note of its 'Seção XIII-A' line ('Incluído pela Lei nº 14.816, de 2024'), so the "
+                         "name reads once: the MP's from 13.9.2023, Lei 14.816's from 17.1.2024")
+    return out, rest
+
+
+P.paragraphs = paragraphs
+B.EXPLAINED[_LOPM] = {"art-63": _DOTTED}
+B13.OPEN_ITEMS[_LOPM] = (
+    "Lei 14.600 (open items): the text before 20.6.2023 (Medida Provisória 1.154/2023, of which this Lei is the conversion) is "
+    "not part of the history; the Lei leaves the detail of each organ to the decrees of estrutura regimental and keeps the "
+    "earlier structures in force until those decrees take effect (art. 74), which changes no words of the Lei; 'Vide' "
+    "pointers (Decreto 11.837/2023, Medida Provisória 1.187/2023) strike no words and are not modelled")
+
+# part zzzh (thirtieth session): Lei 9.636/1998 (bens imóveis da União). Hand items set only when the act runs.
+_LBIU = "lei-dos-bens-imoveis-da-uniao"
+_W6_11481 = ("Lei 9.636 art. 6 and the heading of Seção II: Lei 11.481/2007 (DOU 31.5.2007, in force on publication) gave the "
+             "heading ('Seção II / Do Cadastramento'), art. 6 caput and § 1º new wordings and revoked §§ 2º-4º (its notes 'Redação "
+             "dada pela Lei nº 11.481, de 2007'). Planalto prints the 1998 wordings struck above Lei 13.465's art. 5º-A, with only "
+             "'Vide' notes (Medidas Provisórias 292/2006 and 335/2006), so the reader found no end for them and left them out: "
+             "they stand from 18.5.1998 until 31.5.2007")
+if any(a["slug"] == _LBIU for a in ACTS):
+    B15.HEAD_FIX[_LBIU] = [(t, {"end_law": "lei-11481-2007", "end_how": "successor", "skip": False}, _W6_11481)
+                           for t in ("SEÇÃO II", "Do Cadastramento das Ocupações")]
+B8.SPAN_FIX += [
+    *[((_LBIU, "art-06", lab, start, 0), {"skip": False, "end": "2007-05-31", "end_law": "lei-11481-2007",
+                                          "end_how": "successor"}, _W6_11481)
+      for lab, start in (("Art. 6º", "Art. 6º O cadastramento de terras ocupadas"),
+                         ("§ 1º", "§ 1º Será considerada de efetivo aproveitamento"),
+                         ("§ 2º", "§ 2º As áreas de acesso necessárias ao terreno"),
+                         ("§ 3º", "§ 3º Poderão ser consideradas, a critério da Administração"),
+                         ("§ 4º", "§ 4º É vedada a inscrição de posse"))],
+    ((_LBIU, "art-19", "VI -", "VI -", 0), {"skip": True, "end_how": "pointer"},
+     "Lei 9.636 art. 19: Planalto prints a bare label 'VI -' followed by struck 'Vide' notes (Medidas Provisórias 292/2006 and "
+     "335/2006) above the inciso VI Lei 11.481/2007 added; the bare label never stood as text and is left out"),
+]
+_W2_1065 = ("Lei 9.636 art. 2 parágrafo único: revoked by Medida Provisória 1.065/2021 (DOU 30.8.2021), whose §§ 1º-2º replaced it; "
+            "the MP's term ended on 6.2.2022, so the parágrafo único (printed again, struck, below the MP's paragraphs) is in force "
+            "again from 7.2.2022 until Lei 14.474/2022 (DOU 7.12.2022) gave the article §§ 1º-2º; the reader had dated that copy "
+            "from the MP's day")
+_W42_852 = ("Lei 9.636 art. 42 § 1º: Medida Provisória 852/2018 (DOU 24.9.2018) numbered the parágrafo único as § 1º with a new "
+            "wording and added § 2º; its conversion, Lei 13.813/2019 (DOU 10.4.2019), did the same with other words. The notes read "
+            "'(Numerado do parágrafo único para parágrafo primeiro pela ...)', which the reader does not date, so it had dated both "
+            "§ 1º wordings from 1998: the MP's wording stands from 24.9.2018 to 10.4.2019, Lei 13.813's from 10.4.2019")
+B8.SPAN_FIX += [
+    ((_LBIU, "art-02", "Parágrafo único", "Parágrafo único. O termo a que se refere este artigo", 1),
+     {"start": "2022-02-07", "start_law": "mp-1065-2021-fim", "restored": True}, _W2_1065),
+    ((_LBIU, "art-42", "§ 1º", "§ 1º Na hipótese de o empreendimento envolver áreas originariamente", 0),
+     {"start": "2018-09-24", "start_law": "mp-852-2018", "end": "2019-04-10", "end_law": "lei-13813-2019",
+      "end_how": "conversion"}, _W42_852),
+    ((_LBIU, "art-42", "§ 1º", "§ 1º Na hipótese de o empreendimento envolver áreas originariamente", 1),
+     {"start": "2019-04-10", "start_law": "lei-13813-2019"}, _W42_852),
+]
+LBIU_DROPPED: list[str] = []
+_paragraphsLBIU = P.paragraphs
+
+
+def paragraphs(html, digits):
+    """Lei 9.636: the struck heading 'Seção II-A / Da Inscrição da Ocupação', printed with 'Vide' notes (Medidas Provisórias
+    292/2006 and 335/2006) above Lei 11.481/2007's heading of the same words, is not in the 1998 text (the Chamber's copy of
+    the original publication has no Seção II-A): left out, so the section heading starts with Lei 11.481"""
+    out, rest = _paragraphsLBIU(html, digits)
+    if B8.CURRENT_PAGE[0] == "l9636":
+        keep = []
+        for p in out:
+            if p["heading"] and p["state"] != "plain" and p["text"] in ("Seção II-A", "Da Inscrição da Ocupação"):
+                LBIU_DROPPED.append(p["text"])
+            else:
+                keep.append(p)
+        out = keep
+        # art. 1: Planalto prints Medida Provisória 1.065/2021's §§ 1º-2º (term ended) above Lei 14.011/2020's caput, so for the
+        # MP's term the article read '§ 1º ... § 2º ... Art. 1º ...'; the MP's paragraphs are moved below that caput
+        mp = [p for p in out if p["unit"] == "art-01" and p["label"] in ("§ 1º", "§ 2º")
+              and any("1.065" in n for n in p["notes"])]
+        cap = [i for i, p in enumerate(out) if p["unit"] == "art-01" and p["label"] == "Art. 1º" and p["state"] == "plain"
+               and any("14.011" in n for n in p["notes"])]
+        if mp and len(cap) == 1 and out.index(mp[-1]) < cap[0]:
+            rest2 = [p for p in out if not any(p is q for q in mp)]
+            i = next(k for k, p in enumerate(rest2) if p is out[cap[0]])
+            out = rest2[:i + 1] + mp + rest2[i + 1:]
+            if not any("Medida Provisória 1.065/2021's §§ 1º and 2º" in x for x in EXTRA):
+                EXTRA.append("Lei 9.636 art. 1: Planalto prints Medida Provisória 1.065/2021's §§ 1º and 2º (in force 30.8.2021 to "
+                             "6.2.2022) above Lei 14.011/2020's caput; they are placed below the caput, as the MP added them")
+        if LBIU_DROPPED and not any("Seção II-A" in x for x in EXTRA):
+            EXTRA.append(
+                "Lei 9.636 Seção II-A heading: Planalto prints a struck heading 'Seção II-A / Da Inscrição da Ocupação' with 'Vide' "
+                "notes (Medidas Provisórias 292/2006 and 335/2006) above the heading Lei 11.481/2007 gave (note 'Redação dada pela "
+                "Lei nº 11.481, de 2007'); the Chamber's copy of the original publication (DOU 18.5.1998) has no Seção II-A, and the "
+                "MPs' wordings are not printed, so the struck heading is left out and the section heading starts on 31.5.2007")
+    return out, rest
+
+
+P.paragraphs = paragraphs
+B6.CONTEXT.append({
+    "when": lambda: bool(LBIU_DROPPED),
+    "pins": ["ctx:camara-lei-9636-1998-original"],
+    "what": "the original publication of Lei 9.636/1998 (DOU 18.5.1998), to read the 1998 section headings"})
+B.EXPLAINED[_LBIU] = {
+    "art-16": "typesetting: Planalto's consolidated page (Lei 9.636 compilado) prints art. 16 twice; the annotated page prints it "
+              "once",
+    "art-32": "typesetting: the consolidated page reads 'Decreto-Lei no 9.760' where the annotated page reads 'Decreto-Lei nº "
+              "9.760'"}
+B13.OPEN_ITEMS[_LBIU] = (
+    "Lei 9.636 (open items): the text before 18.5.1998 (the Medida Provisória 1.647 reissue chain, of which this Lei is the "
+    "conversion of edition 15) is not part of the history; Medidas Provisórias 292/2006 (term ended) and 335/2006 (converted "
+    "into Lei 11.481/2007) changed provisions that Planalto marks only with 'Vide' notes and does not print their wordings, so "
+    "those wordings are not in the history: the earlier wordings stand until Lei 11.481/2007; 'Vide' pointers to Medidas "
+    "Provisórias 152/2003 and 283/2006 strike no words and are not modelled")
+
+# part zzzi (thirtieth session): Decreto-Lei 3.365/1941 (desapropriações), Lei 4.132/1962, Decreto-Lei 25/1937 (tombamento). Hand
+# items set only when the acts run.
+_LDESAP, _LDIS, _LTOMB = "lei-das-desapropriacoes", "lei-da-desapropriacao-por-interesse-social", "lei-do-tombamento"
+LDESAP_RELABEL: list[str] = []
+_paragraphsLDESAP = P.paragraphs
+_RX15A = re.compile(r"^Art\.\s*15\s?A\b(?!\.)")
+_RX2A = re.compile(r"^§\s*2\s*[º°o]?\s*A\.?\s+Será\s+dispensada")
+
+
+def paragraphs(html, digits):
+    """Decreto-Lei 3.365: Planalto prints Medida Provisória 2.183-56's art. 15-A (twice: before Medida Provisória 700/2015's
+    wording and again after its term) as 'Art. 15A No caso ...' and Medida Provisória 700's art. 2 § 2º-A as '§ 2ºA Será ...';
+    the reader took them for art. 15 and § 2º. They are labelled art. 15-A (with their paragraphs) and § 2º-A"""
+    out, rest = _paragraphsLDESAP(html, digits)
+    if B8.CURRENT_PAGE[0] == "del3365":
+        in15a = False
+        for p in out:
+            if _RX15A.match(p["text"]):
+                in15a = True
+                p["unit"], p["label"] = "art-15-a", "Art. 15-A"
+                LDESAP_RELABEL.append("art-15-a")
+            elif in15a and p["unit"] == "art-15" and not p["heading"] and p["label"].startswith("§"):
+                p["unit"] = "art-15-a"
+            else:
+                in15a = False
+            if _RX2A.match(p["text"]):
+                p["label"] = "§ 2º-A"
+                LDESAP_RELABEL.append("art-02 § 2º-A")
+        if LDESAP_RELABEL and not any("'Art. 15A No caso" in x for x in EXTRA):
+            EXTRA.append(
+                "Decreto-Lei 3.365: Planalto prints Medida Provisória 2.183-56/2001's art. 15-A as 'Art. 15A No caso ...' (twice, "
+                "before Medida Provisória 700/2015's wording and again for the time after that MP's term ended, 18.5.2016, until Lei "
+                "14.620/2023) and Medida Provisória 700's art. 2 § 2º-A as '§ 2ºA Será ...'; they are read as art. 15-A, with its "
+                "paragraphs, and as § 2º-A")
+    return out, rest
+
+
+P.paragraphs = paragraphs
+_W15A4 = ("Decreto-Lei 3.365 art. 15-A § 4º (Medida Provisória 2.183-56/2001): Medida Provisória 700/2015 (DOU 9.12.2015) gave art. "
+          "15-A a caput and §§ 1º-3º closed by '(NR)' with no dotted line, its § 3º taking the matter of § 4º, so § 4º is not in "
+          "the article during the MP's term; the MP's term ended on 17.5.2016 and Planalto prints Medida Provisória 2.183-56's "
+          "art. 15-A again, § 4º included, in force from 18.5.2016 until Lei 14.620/2023 (14.7.2023)")
+_W15A = ("Decreto-Lei 3.365 art. 15-A (Medida Provisória 2.183-56/2001): Planalto prints the MP's article twice, before Medida "
+         "Provisória 700/2015's wording (DOU 9.12.2015) and again after it; the MP 700 term ended on 17.5.2016, so the first copy "
+         "ends on 9.12.2015 and the second stands from 18.5.2016 until Lei 14.620/2023 (14.7.2023)")
+B8.SPAN_FIX += [
+    *[((_LDESAP, "art-15-a", lab, start, 0), {"end": "2015-12-09", "end_law": "mp-700-2015", "end_how": "successor"}, _W15A)
+      for lab, start in (("Art. 15-A", "Art. 15A No caso de imissão prévia"), ("§ 1º", "§ 1º Os juros compensatórios destinam-se, apenas"),
+                         ("§ 2º", "§ 2º Não serão devidos juros compensatórios"),
+                         ("§ 3º", "§ 3º O disposto no caput deste artigo aplica-se também"))],
+    *[((_LDESAP, "art-15-a", lab, start, 1), {"start": "2016-05-18", "start_law": "mp-700-2015-fim", "restored": True,
+                                              "end": "2023-07-14", "end_law": "lei-14620-2023", "end_how": "successor"}, _W15A)
+      for lab, start in (("Art. 15-A", "Art. 15A No caso de imissão prévia"), ("§ 1º", "§ 1º Os juros compensatórios destinam-se, apenas"),
+                         ("§ 2º", "§ 2º Não serão devidos juros compensatórios"),
+                         ("§ 3º", "§ 3º O disposto no caput deste artigo aplica-se também"))],
+    ((_LDESAP, "art-07", "", "Àquele que for molestado por excesso ou abuso de poder", 1),
+     {"start": "2016-05-18", "start_law": "mp-700-2015-fim", "restored": True, "end": "2023-07-14", "end_law": "lei-14620-2023",
+      "end_how": "successor"},
+     "Decreto-Lei 3.365 art. 7: the 1941 article's second sentence ('Àquele que for molestado ...') is printed twice, with the "
+     "1941 caput before Medida Provisória 700/2015's wording and again after it; the second copy stands from 18.5.2016, when the "
+     "MP's term had ended, until Lei 14.620/2023 (the reader had dated it from 1941, so the sentence read twice until 2015)"),
+    ((_LDESAP, "art-15-a", "§ 4º", "§ 4º Nas ações referidas no § 3º", 0),
+     {"end": "2015-12-09", "end_law": "mp-700-2015", "end_how": "successor"}, _W15A4),
+    ((_LDESAP, "art-15-a", "§ 4º", "§ 4º Nas ações referidas no § 3º", 1),
+     {"start": "2016-05-18", "start_law": "mp-700-2015-fim", "restored": True, "end": "2023-07-14", "end_law": "lei-14620-2023",
+      "end_how": "successor"}, _W15A4),
+]
+B.EXPLAINED[_LDESAP] = {"art-05": "typesetting: Planalto's consolidated page (Decreto-Lei 3.365 compilado) ends art. 5 § 3º with a "
+                                   "full stop the annotated page does not print"}
+B13.OPEN_ITEMS[_LDESAP] = (
+    "Decreto-Lei 3.365 (open items): the Supremo Tribunal Federal's rulings in ADI 2.260 and ADI 2.332 (on provisions Medida "
+    "Provisória 2.183-56/2001 gave this Decreto-Lei) are marked on Planalto's page only with 'Vide' notes and are not modelled; "
+    "the in-force day is the Distrito Federal's (28.7.1941), the states followed on 17.8.1941")
+if any(a["slug"] == _LDESAP for a in ACTS):
+    P.NOTE_FIX["(Redação dada pela Lei nº 6.306, de 1978)"] = (
+        "(Redação dada pela Lei nº 6.306, de 1975)",
+        "Decreto-Lei 3.365 art. 26 § 2º: the note reads 'Lei nº 6.306, de 1978'; its link goes to Lei 6.306 of 15.12.1975 (DOU "
+        "16.12.1975, in force on publication), whose art. 1 gives the paragraph this wording: read as 1975")
+_W14701_31 = ("Lei 4.132 art. 2 IX: Lei 14.701/2023 (DOU 20.10.2023) art. 31, which added the inciso, was vetoed; Congress overrode "
+              "the veto and the part was promulgated in the DOU of 28.12.2023 (printed on Lei 14.701's page; Planalto marks the "
+              "note 'Promulgação partes vetadas'): the inciso starts on 28.12.2023, as Lei 14.701 art. 32's wording of the "
+              "Estatuto do Índio art. 2 IX in part 16e")
+B8.SPAN_FIX += [
+    ((_LDIS, "art-02", "IX -", "IX - a destinação de áreas às comunidades indígenas", 0),
+     {"start": "2023-12-28", "start_law": "lei-14701-2023", "by_provision": True}, _W14701_31),
+]
+B13.OPEN_ITEMS[_LDIS] = (
+    "Lei 4.132 (open items): Lei 14.701/2023 art. 31's inciso IX is the subject of ADC 87 and ADIs 7.582, 7.583 and 7.586 "
+    "('Vide' notes on Lei 14.701's page), not modelled; in force from 22.12.1962 under the Lei de Introdução (no vigência clause)")
+B13.OPEN_ITEMS[_LTOMB] = (
+    "Decreto-Lei 25/1937 (open items): in force in the Distrito Federal from 9.12.1937 under the Introdução ao Código Civil of "
+    "1916 (three days after publication); the text was republished on 11.12.1937, which is not taken to restart the term; "
+    "'Vide' pointer (Lei 6.292/1975) strikes no words and is not modelled")
+
+# part zzzk (thirty-second session): Lei 13.089/2015 (Estatuto da Metrópole). Hand items set only when the act runs.
+_EMETR = "estatuto-da-metropole"
+if any(a["slug"] == _EMETR for a in ACTS):
+    P.MP_LAPSE["mp-862-2018"] = (
+        "2019-05-15", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 29, de 2019 (DOU 16.5.2019): Medida "
+                      "Provisória 862/2018 'teve seu prazo de vigência encerrado no dia 14 de maio do corrente ano'; the "
+                      "wordings it replaced are back from 15.5.2019")
+    B15.TEXT_FIX.append(("l13089", "com base nos i ncisos XX", "com base nos incisos XX",
+                         "Lei 13.089 art. 1: the annotated page splits 'incisos' at a link (the 'i' outside it, 'ncisos XX do "
+                         "art. 21' inside); read as one word, as Lei 13.089's text prints it"))
+_W862_4 = ("Lei 13.089 art. 4 parágrafo único: Medida Provisória 862/2018 (DOU 5.12.2018) made it § 1º (the same words) and "
+           "added §§ 2º and 3º; Planalto prints the parágrafo único, the MP's struck §§ 1º-3º and the parágrafo único again, "
+           "unstruck and without a note: the first copy ends on 5.12.2018, the second stands from 15.5.2019, when the MP "
+           "lapsed (the reader had dated the second copy from 5.12.2018, so the parágrafo único stood beside the MP's § 1º)")
+B8.SPAN_FIX += [
+    ((_EMETR, "art-04", "Parágrafo único", "Parágrafo único. Até a aprovação das leis complementares", 1),
+     {"start": "2019-05-15", "start_law": "mp-862-2018-fim", "restored": True}, _W862_4),
+]
+
+# part zzzl (thirty-third session): Lei 9.393/1996 (ITR). Hand items set only when the act runs.
+_LITR = "lei-do-imposto-territorial-rural"
+L9393_ANNEX: list[str] = []
+if any(a["slug"] == _LITR for a in ACTS):
+    _paragraphsITR = P.paragraphs
+
+    def _paragraphs_itr(html, digits):
+        out, rest = _paragraphsITR(html, digits)
+        if B8.CURRENT_PAGE[0] == "l9393":
+            # art. 10 § 1º II a) as enacted ends '... previstas na Lei nº 4.771, de 15 de setembro de 1965, com a redação
+            # dada pela Lei nº 7.803, de 18 de julho de 1989;': words of the law, which the bare-note reader took for an
+            # amendment note (cutting them from the line); put back as text
+            for q in out:
+                ns = [n for n in q.get("notes", []) if n == "(redação dada pela Lei nº 7.803, de 18 de julho de 1989;)"]
+                if ns and q["text"].endswith("de 15 de setembro de 1965, com a"):
+                    q["text"] = q["text"] + " redação dada pela Lei nº 7.803, de 18 de julho de 1989;"
+                    q["notes"] = [n for n in q["notes"] if n not in ns]
+                    L9393_ANNEX.append("art. 10 § 1º II a) words restored")
+            # the Anexo (art. 11: 'a alíquota correspondente, prevista no Anexo desta Lei'), the table of rates Planalto
+            # prints after the signature, where the reader stops: its title lines and one line per cell, as the tables
+            # inside articles (batch 15), in unit anexo
+            ann, on = [], False
+            for b in [P.analyse(x) for x in P.blocks_of(html)]:
+                t = b["text"]
+                if not on:
+                    on = t == "TABELA DE ALÍQUOTAS"
+                    if not on:
+                        continue
+                if not t or t == "*" or re.fullmatch(r"[.;,:\s*]+", t):
+                    continue
+                ann.append({**b, "unit": "anexo", "label": "", "heading": False})
+            out = out + ann
+            for i, q in enumerate(out):
+                q["i"] = i
+            L9393_ANNEX.append(f"{len(ann)} lines")
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_itr
+    P.VIGENCIA_FIXED["lei-12844-2013"] = (
+        "2013-07-19", "art. 49: 'Esta Lei entra em vigor: [...] V - na data de sua publicação para os demais dispositivos' "
+                      "(DOU 19.7.2013, edição extra): its art. 24 (Lei 9.393 art. 10 § 1º II a) falls under V")
+    P.VIGENCIA_FIXED["lei-13043-2014"] = (
+        "2015-01-01", "art. 113: 'Esta Lei entra em vigor na data de sua publicação, exceto: [...] II - os arts. 1º a 15, 30 a 32, "
+                      "97, 106 e os artigos da Seção XXI do Capítulo I, que entram em vigor a partir de 1º de janeiro de 2015' (DOU "
+                      "14.11.2014): its arts. 82 and 83 (Lei 9.393 arts. 3º-A and 8) are in Seção XXI ('Do Imposto sobre a "
+                      "Propriedade Territorial Rural e do Imposto de Renda das Pessoas Físicas'), so fall under II")
+    P.MP_PENDING["mp-2166-2001"] = (
+        "Medida Provisória nº 2.166-67, de 24.8.2001 (DOU 25.8.2001, edição extra; in force on publication, art. 8), kept in "
+        "force by Emenda Constitucional 32/2001, art. 2, until Lei 12.651/2012 revoked it; its art. 3 gave Lei 9.393 art. 10 "
+        "the wordings Planalto credits to it. The notes name this edition only, so the changes are dated by its "
+        "publication; earlier editions of the chain are not modelled")
+    EXTRA.append("Lei 9.393 art. 10 § 1º II a) as enacted ends 'previstas na Lei nº 4.771, de 15 de setembro de 1965, com a "
+                 "redação dada pela Lei nº 7.803, de 18 de julho de 1989;': these are words of the law, not an amendment "
+                 "note, and are kept in the line.")
+    EXTRA.append("Lei 9.393 Anexo (the table of rates, art. 11): printed after the signature, where the reader stops; read "
+                 "here as unit anexo: its title lines ('TABELA DE ALÍQUOTAS', '(Art. 11)') and one line per cell, row by row, "
+                 "as printed; no note, so as enacted.")
+    B.EXPLAINED[_LITR] = {
+        "anexo": "check artefact: the check reads the page up to the signature; this unit holds the Anexo (the table of "
+                 "rates of art. 11), which Planalto's page prints after the signature"}
+    B13.OPEN_ITEMS[_LITR] = (
+        "Lei 9.393 (open items): it is the conversion of Medida Provisória 1.528/1996, whose text is not modelled (the "
+        "history starts with the Lei, in effect from 1.1.1997, art. 23); its arts. 23-24 (in force 20.12.1996; art. 24 "
+        "revokes Lei 8.847/1994's arts. 1-22 and 25) are dated with the rest; 'Regulamento', 'Produção de efeito' and "
+        "'Vide' pointers strike no words; the Anexo (table of rates) has no note and stands as enacted")
+
+# part zzzm (thirty-fourth session): Lei 11.952/2009 (regularização fundiária na Amazônia Legal). Hand items set only when the
+# act runs.
+_LRFAL = "lei-da-regularizacao-fundiaria-na-amazonia-legal"
+_W5_910 = ("Lei 11.952 art. 5: Medida Provisória 910/2019 (DOU 11.12.2019) rewrote incisos IV and V, replaced § 1º (with its "
+           "incisos) by a parágrafo único and revoked § 1º; its term ended without conversion (in force to 19.5.2020). Planalto "
+           "prints the MP's struck lines and then incisos IV and V, and § 1º with its incisos, again, unstruck: the earlier "
+           "copies end on 11.12.2019 and the copies printed after the MP stand again from 20.5.2020 (the reader had dated the "
+           "second copies from 2009 and 2017, so those lines read twice)")
+_W5_759 = ("Lei 11.952 art. 5: Medida Provisória 759/2016 (DOU 23.12.2016) turned § 1º into a parágrafo único with incisos I-IV "
+           "and revoked § 2º; its conversion, Lei 13.465/2017 (DOU 12.7.2017), gave the article § 1º with incisos I-IV and "
+           "'§ 2º (Revogado)' again: the 2009 § 1º ends on 23.12.2016 and the MP's parágrafo único stands from 23.12.2016 to "
+           "12.7.2017 (the reader had read it as restored after Medida Provisória 910/2019)")
+_A5_IV = "IV - comprovar o exercício de ocupação e exploração direta, mansa e pacífica, por si ou por seus antecessores, anterior a 22"
+_A5_V = "V - não ter sido beneficiado por programa de reforma agrária ou de regularização fundiária de área rural, ressalvadas as situações admitidas pelo Ministério"
+_A5_P1 = "§ 1º Fica vedada a regularização de ocupações em que o ocupante ou seu cônjuge"
+_A5_INC = (("I -", "I - no Incra;", 1), ("II -", "II - na Secretaria Especial de Agricultura Familiar", 1),
+           ("III -", "III - na Secretaria do Patrimônio da União (SPU)", 0), ("IV -", "IV - nos órgãos estaduais de terras", 1))
+_BACK910 = {"start": "2020-05-20", "start_law": "mp-910-2019-fim", "restored": True, "skip": False}
+_END910 = {"end": "2019-12-11", "end_law": "mp-910-2019", "end_how": "repealed", "gaps": []}
+B8.SPAN_FIX += [
+    ((_LRFAL, "art-05", "IV -", _A5_IV, 1), dict(_BACK910), _W5_910),
+    ((_LRFAL, "art-05", "V -", _A5_V, 1), dict(_BACK910), _W5_910),
+    ((_LRFAL, "art-05", "§ 1º", _A5_P1, 0), dict(_END910), _W5_910),
+    ((_LRFAL, "art-05", "§ 1º", _A5_P1, 1), dict(_BACK910), _W5_910),
+    *[((_LRFAL, "art-05", lab, start, n), dict(_END910), _W5_910) for lab, start, n in _A5_INC],
+    *[((_LRFAL, "art-05", lab, start, n + 1), dict(_BACK910), _W5_910) for lab, start, n in _A5_INC],
+    ((_LRFAL, "art-05", "§ 1º", "§ 1º Fica vedada a regularização de ocupações em que o ocupante, seu cônjuge", 0),
+     {"end": "2016-12-23", "end_law": "mp-759-2016", "end_how": "successor"}, _W5_759),
+    ((_LRFAL, "art-05", "Parágrafo único", "Parágrafo único. Fica vedada a regularização de ocupações em que o ocupante ou o seu", 0),
+     {"start": "2016-12-23", "start_law": "mp-759-2016", "restored": False, "skip": False, "end": "2017-07-12",
+      "end_law": "lei-13465-2017", "end_how": "conversion"}, _W5_759),
+]
+
+_W30_759 = ("Lei 11.952 art. 30: Medida Provisória 759/2016 (DOU 23.12.2016) gave the article a new caput only, closed by '(NR)' "
+            "with no dotted line, so incisos I-IV (with alíneas a-d) and §§ 1º-2º are not in the article during the MP's term (as "
+            "Decreto-Lei 3.365 art. 15-A § 4º under Medida Provisória 700/2015); Lei 13.465/2017, its conversion, prints them as "
+            "'(revogado)' from 12.7.2017. Planalto prints the 2009 lines partly struck and partly not, with no note: they end on "
+            "23.12.2016 (the reader had kept them to 2017 and had left out inciso I)")
+B8.SPAN_FIX += [
+    *[((_LRFAL, "art-30", lab, start, 0), {"end": "2016-12-23", "end_law": "mp-759-2016", "end_how": "successor", "skip": False,
+                                           "gaps": []}, _W30_759)
+      for lab, start in (("I -", "I - alienação gratuita a pessoa natural"), ("a)", "a) possua renda familiar"),
+                         ("b)", "b) ocupe a área de até 1.000"), ("c)", "c) utilize o imóvel"), ("d)", "d) não seja proprietário"),
+                         ("II -", "II - alienação gratuita para órgãos"), ("III -", "III - alienação onerosa"),
+                         ("IV -", "IV - nas situações não abrangidas"), ("§ 1º", "§ 1º No caso previsto no § 2º do art. 21"),
+                         ("§ 2º", "§ 2º O registro decorrente da alienação"))],
+]
+_W19_910 = ("Lei 11.952 art. 19: Planalto prints Lei 13.465/2017's caput, incisos I-II and struck § 1º twice before Medida "
+            "Provisória 910/2019's struck wording (the second copy is left out), and incisos I-II and § 1º once more, unstruck, "
+            "after it. The MP (DOU 11.12.2019) gave the article a caput and § 1º with no dotted line between them, so incisos I-II "
+            "are not in the article during its term; it lapsed (in force to 19.5.2020), so incisos I-II and Lei 13.465's § 1º "
+            "stand again from 20.5.2020 (the reader had dated the last copies from 2017, beside the earlier ones)")
+_A19 = (("I -", "I - as condições de pagamento fixadas nos arts", 2, 3), ("II -", "II - a comprovação do cumprimento das cláusulas", 2, 3),
+        ("§ 1º", "§ 1º O disposto no caput deste artigo", 1, 2))
+B8.SPAN_FIX += [
+    *[((_LRFAL, "art-19", lab, start, dup), {"skip": True}, _W19_910) for lab, start, dup, _n in _A19],
+    *[((_LRFAL, "art-19", lab, start, n), dict(_BACK910), _W19_910) for lab, start, _d, n in _A19],
+    ((_LRFAL, "art-01", "Parágrafo único", "Parágrafo único. Fica vedado beneficiar", 1), dict(_BACK910),
+     "Lei 11.952 art. 1 parágrafo único: absent during Medida Provisória 910/2019's term (its art. 1 has a caput only, closed by "
+     "'(NR)' with no dotted line); the copy Planalto prints after the MP's struck caput stands from 20.5.2020"),
+]
+if any(a["slug"] == _LRFAL for a in ACTS):
+    EXTRA.append("Lei 11.952 art. 1 parágrafo único: Medida Provisória 910/2019 (DOU 11.12.2019) gave art. 1 a new caput closed by "
+                 "'(NR)' with no dotted line, so the parágrafo único is not in the article during the MP's term (to 19.5.2020); "
+                 "Planalto prints it again, unstruck, after the MP's struck caput, so it stands again from 20.5.2020.")
+B.EXPLAINED[_LRFAL] = {
+    "art-01": "check artefact: Planalto's consolidated page (Lei 11.952 'complilado', captured 10.3.2026) leaves out art. 1 "
+              "parágrafo único, which the annotated page prints unstruck, with no note of a revocation, both as enacted and after "
+              "Medida Provisória 910/2019's struck caput; kept",
+    "art-39": _DOTTED,
+}
+B13.OPEN_ITEMS[_LRFAL] = (
+    "Lei 11.952 (open items): it is the conversion of Medida Provisória 458/2009, whose text is not modelled (the history starts "
+    "with the Lei, in force on publication, 26.6.2009); Medida Provisória 910/2019 lapsed (in force to 19.5.2020) and the "
+    "wordings it replaced stand again from 20.5.2020; units an MP's quoted article left out with no dotted line (art. 1 "
+    "parágrafo único and art. 19 incisos I-II under Medida Provisória 910, art. 30 incisos and paragraphs under Medida "
+    "Provisória 759/2016) are absent during its term (Lei Complementar 95/1998 art. 12 III: an article republished with '(NR)' "
+    "and no dotted line replaces the whole unit, so the parts it leaves out are absent while the measure is in force); 'Vide "
+    "ADIN nº 4.269' notes (art. 15) strike no words and are not modelled; 'Regulamento' pointers strike no words")
+
+# part zzzo (thirty-fourth session): Lei 14.063/2020 (assinaturas eletrônicas). Hand items set only when the act runs.
+_LASSE = "lei-das-assinaturas-eletronicas"
+B8.NAV_LINES["l14063"] = {"Não remover", "Down", "Up", "Texto para impressão", "Texto atualizado", "Texto compilado",
+                          "Texto atualizado Texto compilado"}
+LASSE_HEADS: list[str] = []
+if any(a["slug"] in (_LASSE, "lei-da-transacao-tributaria") for a in ACTS):
+    _paragraphsLASSE = P.paragraphs
+
+    def _paragraphs_lasse(html, digits):
+        """Lei 14.063: Planalto prints the names of the Capítulos and Seções (not centred) right after their heading
+        lines; the reader took each for the rubric of the next article (so the article's unit began with it), and Capítulo
+        II's name for a last line of art. 1. A rubric or unlabelled line with no note right after a heading line is read as
+        that heading's name, as on the other pages"""
+        out, rest = _paragraphsLASSE(html, digits)
+        if B8.CURRENT_PAGE[0] in ("l14063", "l13988"):
+            for k, q in enumerate(out):
+                prev = out[k - 1] if k else None
+                if (q["label"] in ("rubrica", "") and not q["heading"] and not q["notes"] and prev and prev["heading"]
+                        and prev["unit"] == "titulos" and re.fullmatch(r"h\d+-\d+", prev["label"])):
+                    g, n = prev["label"].rsplit("-", 1)
+                    q["unit"], q["label"], q["heading"] = "titulos", f"{g}-{int(n) + 1}", True
+                    if q["text"] not in LASSE_HEADS:
+                        LASSE_HEADS.append(q["text"])
+            _law = "Lei 14.063" if B8.CURRENT_PAGE[0] == "l14063" else "Lei 13.988"
+            if LASSE_HEADS and not any(x.startswith(f"{_law}: the names of the Capítulos") for x in EXTRA):
+                EXTRA.append(f"{_law}: the names of the Capítulos and Seções, which Planalto prints right after "
+                             "their heading lines without centring them, are read as the headings' names, not as the rubrics "
+                             "of the next articles"
+                             + (" (Capítulo II's name not as a last line of art. 1)" if _law == "Lei 14.063" else "") + ": "
+                             + "; ".join(f"'{x}'" for x in LASSE_HEADS))
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_lasse
+B13.OPEN_ITEMS[_LASSE] = (
+    "Lei 14.063 (open items): it is the conversion of Medida Provisória 983/2020, whose text is not modelled (the history "
+    "starts with the Lei, in force on publication, 24.9.2020); the page's navigation links ('Não remover', 'Down', 'Up', "
+    "'Texto para impressão') are left out")
+
+# part zzzp (thirty-fourth session): Lei 13.988/2020 (transação tributária). Hand items set only when the act runs.
+_LTRANST = "lei-da-transacao-tributaria"
+B8.NAV_LINES["l13988"] = {"Não remover", "Down", "Up", "Texto para impressão", "Texto atualizado", "Texto compilado",
+                          "Texto atualizado Texto compilado"}
+_W23_120 = ("Lei 13.988 art. 23 I and parágrafo único: art. 30 I puts them in force 'em 120 (cento e vinte) dias contados da data "
+            "da sua publicação' (DOU 14.4.2020, edição extra; Planalto marks both lines '(Vigência)'): they stand from "
+            "12.8.2020, credited to Lei 13.988 itself, the rest of the Lei from its publication (art. 30 II)")
+B8.SPAN_FIX += [
+    ((_LTRANST, "art-23", "I -", "I - o contencioso administrativo fiscal de pequeno valor", 0),
+     {"start": "2020-08-12", "start_law": "lei-13988-2020", "by_provision": True}, _W23_120),
+    ((_LTRANST, "art-23", "Parágrafo único", "Parágrafo único. No contencioso administrativo de pequeno valor", 0),
+     {"start": "2020-08-12", "start_law": "lei-13988-2020", "by_provision": True}, _W23_120),
+]
+if any(a["slug"] == _LTRANST for a in ACTS):
+    P.MP_LAPSE["mp-1160-2023"] = (
+        "2023-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 41, de 2023 (DOU 16.6.2023): 'teve seu "
+                      "prazo de vigência encerrado no dia 1º de junho de 2023'")
+    EXTRA.append("Lei 13.988 art. 27-B (Medida Provisória 1.160/2023, DOU 12.1.2023): Planalto strikes only the label 'Art. 27-B.' "
+                 "and notes 'Vigência encerrada'; the MP lapsed (Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 41, "
+                 "de 2023: in force to 1.6.2023), so the article stands from 12.1.2023 to 2.6.2023.")
+B13.OPEN_ITEMS[_LTRANST] = (
+    "Lei 13.988 (open items): it is the conversion of Medida Provisória 899/2019, whose text is not modelled (the history "
+    "starts with the Lei, in force on publication, 14.4.2020, except art. 23 I and parágrafo único, from 12.8.2020); 'Vide "
+    "Lei Complementar nº 214, de 2025' strikes no words and is not modelled; the page's navigation links are left out")
+
+# part zzzq (thirty-fifth session): Lei 10.887/2004 (aplicação da EC 41 aos regimes próprios). Hand items set only when the act
+# runs.
+_L10887 = "lei-10887-de-2004"
+if any(a["slug"] == _L10887 for a in ACTS):
+    P.VIGENCIA_FIXED["lei-12618-2012"] = (
+        "2012-05-02", "art. 33: 'Esta Lei entra em vigor: I - quanto ao disposto no Capítulo I, na data em que forem criadas "
+                      "quaisquer das entidades de que trata o art. 4º, observado o disposto no art. 31; e II - quanto aos demais "
+                      "dispositivos, na data de sua publicação' (DOU 2.5.2012): its art. 29 (Lei 10.887 art. 4 caput) is outside "
+                      "Capítulo I and falls under II")
+    P.VIGENCIA_FIXED["lei-13328-2016"] = (
+        "2016-07-29", "art. 152: 'Esta Lei entra em vigor: I - na data de sua publicação, quanto aos arts. 1º a 16, 40 a 89, 92 e "
+                      "93, 105 a 108 e 113 a 119; [...]' (DOU 29.7.2016, edição extra): its art. 93 (Lei 10.887 art. 4) falls "
+                      "under I")
+    P.VIGENCIA_FIXED["mp-556-2011"] = (
+        "2012-04-01", "art. 7: 'Esta Medida Provisória entra em vigor na data de sua publicação, produzindo efeitos: I - a partir "
+                      "do primeiro dia do quarto mês subsequente ao da sua publicação, em relação ao disposto no art. 1º [...]' "
+                      "(DOU 26.12.2011): its art. 1, the whole of its changes to Lei 10.887 (Planalto marks each '(Produção de "
+                      "efeito)'), is dated by the day it takes effect, 1.4.2012")
+    P.MP_LAPSE["mp-556-2011"] = (
+        "2012-06-01", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 25, de 2012 (DOU 14.6.2012): 'teve seu "
+                      "prazo de vigência encerrado no dia 31 de maio do corrente ano'")
     P.MP_PENDING["mp-805-2017"] = (
         "Medida Provisória nº 805, de 30.10.2017 (DOU 30.10.2017, edição extra, in force on publication, art. 39; the increase "
         "of the contribution in its Capítulo XXVII to take effect only from 1.2.2018, art. 38): its effects were suspended by "
@@ -7030,9 +7508,10 @@ if any(a["slug"] == _L10887 for a in ACTS):
                       "demais dispositivos' (DOU 31.5.2024, edição extra): its art. 59 (Lei 10.887 art. 4) falls under II")
     P.COURTS["stf-adi-5809"] = {
         "label": "STF, ADI 5.809 (medida cautelar)", "kind": "court", "enacted": "2017-12-18", "published": "2017-12-18",
-        "title": "Ação direta de inconstitucionalidade 5.809, medida cautelar: suspende os efeitos da Medida Provisória nº 805, "
-                 "de 2017",
-        "url": "https://www.camara.leg.br/noticias/530114-LIMINAR-DO-STF-SUSPENDE-EFEITOS-DA-MP-QUE-ADIOU-REAJUSTE-DE-SERVIDORES",
+        "title": "Ação direta de inconstitucionalidade 5.809, medida cautelar (Min. Ricardo Lewandowski, 18.12.2017): suspende a "
+                 "eficácia dos arts. 1º ao 34 e 40, I e II, da Medida Provisória nº 805, de 2017, e do art. 4º, I e II, § 3º e "
+                 "art. 5º da Lei nº 10.887, de 2004, com a redação dada pela Medida Provisória",
+        "url": "http://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/ADI5809liminar.pdf",
         "from": "2017-12-18", "case": r"5\.?809", "where": [], "why": "Medida Provisória 805/2017 suspended by the STF"}
 
     P.VIGENCIA_FIXED["lei-12688-2012"] = (
@@ -7041,13 +7520,15 @@ if any(a["slug"] == _L10887 for a in ACTS):
                       "19.7.2012): its art. 29 (Lei 10.887 arts. 4, 8-A and 16-A) falls under IV")
 _W805 = ("Lei 10.887 arts. 4 to 6: Medida Provisória 805/2017 (DOU 30.10.2017, edição extra; in force on publication, art. 39) "
          "rewrote art. 4 caput with incisos I-II (rates of 11% and 14%), added § 3º with incisos I-II and rewrote art. 5 with a "
-         "parágrafo único, an increase of the contribution that art. 38 lets take effect only from 1.2.2018; it rewrote art. 4 "
-         "§ 1º VI and added § 1º XXV, and its art. 40 revoked art. 4 II alíneas a) and b) and art. 6, from publication. The "
-         "Supremo Tribunal Federal suspended the MP's effects on 18.12.2017 (medida cautelar in ADI 5.809), before 1.2.2018, and "
-         "the MP lapsed on 8.4.2018 (Ato nº 19, de 2018, of the Presidente da Mesa do Congresso Nacional). So the increase never "
-         "takes effect (those struck lines are left out, with Planalto's struck repeats of Lei 12.618's art. 4 and of the 2004 "
-         "art. 5 printed above them); § 1º VI and XXV in the MP's wording stand from 30.10.2017 to 18.12.2017; art. 4 II a)-b) "
-         "and art. 6 are absent from 30.10.2017 and stand again from 18.12.2017, credited to the ruling")
+         "parágrafo único, an increase of the contribution that its art. 38 lets take effect only from 1.2.2018; its art. 37 "
+         "also rewrote art. 4 § 1º VI and added § 1º XXV, and its art. 40 I and II revoked art. 4 II alíneas a) and b) and "
+         "art. 6. The Supremo Tribunal Federal's medida cautelar in ADI 5.809 (18.12.2017) suspended 'a eficácia dos arts. 1° "
+         "ao 34 e 40, I e II, da Medida Provisória 805/2017' and 'do art. 4°, I e II, § 3° e art. 5°, todos da Lei "
+         "10.887/2004, com a redação que lhe foi dada pela MP 805', and the MP lapsed (in force to 8.4.2018). So the increase "
+         "never takes effect (those struck lines are left out, with Planalto's struck repeats of Lei 12.618's art. 4 and of "
+         "the 2004 art. 5 printed above them); art. 4 II a)-b) and art. 6 are absent from 30.10.2017 and stand again from "
+         "18.12.2017, credited to the ruling; § 1º VI and XXV, which the ruling does not name, keep the MP's wording until it "
+         "lapsed, and VI reads 'o auxílio-creche' again from 9.4.2018")
 _C805 = {"end": "2017-12-18", "end_law": "stf-adi-5809", "end_how": "court"}
 _R805 = {"start": "2017-12-18", "start_law": "stf-adi-5809", "restored": True, "skip": False}
 _G805 = {"gaps": [("2017-10-30", "2017-12-18", "mp-805-2017", "stf-adi-5809")]}
@@ -7071,9 +7552,8 @@ B8.SPAN_FIX += [
         ("art-05", "Parágrafo único", "Parágrafo único. A contribuição de que trata o caput incidirá apenas", 0))],
     ((_L10887, "art-04", "a)", "a) que tiver ingressado no serviço público até a data a que se refere o inciso I", 1), dict(_G805), _W805),
     ((_L10887, "art-04", "b)", "b) que tiver ingressado no serviço público a partir da data", 1), dict(_G805), _W805),
-    ((_L10887, "art-04", "VI -", "VI - o auxílio pré-escolar", 0), dict(_C805), _W805),
-    ((_L10887, "art-04", "VI -", "VI - o auxílio-creche", 1), dict(_R805), _W805),
-    ((_L10887, "art-04", "XXV -", "XXV - o adicional de irradiação ionizante", 0), dict(_C805), _W805),
+    ((_L10887, "art-04", "VI -", "VI - o auxílio-creche", 1),
+     {"start": "2018-04-09", "start_law": "mp-805-2017-fim", "restored": True, "skip": False}, _W805),
     ((_L10887, "art-06", "Art. 6º", "Art. 6º Os aposentados", 1), dict(_R805), _W805),
     ((_L10887, "art-06", "Parágrafo único", "Parágrafo único. A contribuição de que trata o caput deste artigo incidirá sobre", 1),
      dict(_R805), _W805),
@@ -7117,9 +7597,9 @@ if any(a["slug"] == _L10887 for a in ACTS):
                  "gave the same units new wordings.")
 B13.OPEN_ITEMS[_L10887] = (
     "Lei 10.887 (open items): it is the conversion of Medida Provisória 167/2004, whose text is not modelled (the history "
-    "starts with the Lei, in force on publication, 21.6.2004); the scope of the medida cautelar in ADI 5.809 is read as the "
-    "MP's effects as a whole (the Chamber of Deputies' report of 18.12.2017); 'Vide Emenda Constitucional nº 47, de 2005' "
-    "(arts. 4 to 6) and 'Vide ADI nº 4.582' (art. 15) strike no words and are not modelled; 'Texto compilado' is not read")
+    "starts with the Lei, in force on publication, 21.6.2004); what became of ADI 5.809 after the MP lapsed "
+    "changes no words and is not modelled; 'Vide Emenda Constitucional nº 47, de 2005' (arts. 4 to 6) and 'Vide ADI nº "
+    "4.582' (art. 15) strike no words and are not modelled; 'Texto compilado' is not read")
 
 # part zzzr (thirty-fifth session): Lei 12.990/2014 (reserva de vagas aos negros em concursos públicos federais). Hand items set
 # only when the act runs. Coordinator decision (2026-11-01): the STF's medida cautelar in ADI 7.654 kept the Lei in force past
