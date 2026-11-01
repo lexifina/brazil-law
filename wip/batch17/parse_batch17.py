@@ -262,6 +262,8 @@ PAGES.update({
     # thirty-first session: civil defence, metropolitan regions
     "l12608": "_ato2011-2014/2012/lei/l12608.htm",
     "l13089": "_ato2015-2018/2015/lei/l13089.htm",
+    # thirty-third session: rural land tax
+    "l9393": "leis/l9393.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -606,6 +608,9 @@ ALL_ACTS: list[dict] = [
     # thirty-second session
     _act("estatuto-da-metropole", "EMetr", "l13089", "l13089", "lei-13089-2015",
          "Estatuto da Metrópole (Lei nº 13.089, de 12 de janeiro de 2015)", 2),
+    # thirty-third session
+    _act("lei-do-imposto-territorial-rural", "LITR", "l9393", "l9393", "lei-9393-1996",
+         "Imposto sobre a Propriedade Territorial Rural - ITR (Lei nº 9.393, de 19 de dezembro de 1996)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -714,6 +719,8 @@ PARTS: dict[str, list[str]] = {
     "zzzj": ["lei-da-protecao-e-defesa-civil"],
     # thirty-second session
     "zzzk": ["estatuto-da-metropole"],
+    # thirty-third session
+    "zzzl": ["lei-do-imposto-territorial-rural"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -993,6 +1000,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                    "states it applied from 17.8.1941"),
     "lei-12608-2012": ("2012-04-11", "Lei 12.608/2012 art. 31: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
                                      "11.4.2012), except its change to Lei 6.766 art. 12 § 2º, two years later"),
+    "lei-9393-1996": ("1997-01-01", "Lei 9.393/1996 art. 23: 'Esta Lei entra em vigor na data de sua publicação, produzindo "
+                                    "efeitos, quanto aos arts. 1º a 22, a partir de janeiro de 1997' (DOU 20.12.1996): arts. 1-22 "
+                                    "are the whole text but the closing articles, so it is dated by the day it takes effect, "
+                                    "1.1.1997 (as Lei 9.249/1995)"),
     "lei-13089-2015": ("2015-01-13", "Lei 13.089/2015 art. 25: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
                                      "13.1.2015)"),
     "lei-4132-1962": ("1962-12-22", "Lei 4.132/1962 has no vigência clause (art. 6 only revokes contrary provisions): Lei de "
@@ -1553,6 +1564,9 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "12.340, de 1º de dezembro de 2010, 10.257, de 10 de julho de 2001, 6.766, de 19 de dezembro de 1979, "
                          "8.239, de 4 de outubro de 1991, e 9.394, de 20 de dezembro de 1996; e dá outras providências.",
                          "2012-04-10", "2012-04-11", "_Ato2011-2014/2012/Lei/L12608.htm"),
+    "lei-9393-1996": _L("Lei nº 9.393, de 1996", "Dispõe sobre o Imposto sobre a Propriedade Territorial Rural - ITR, sobre "
+                        "pagamento da dívida representada por Títulos da Dívida Agrária e dá outras providências.",
+                        "1996-12-19", "1996-12-20", PAGES["l9393"]),
     # the record 99-batch7 has
     "lei-13089-2015": _L("Lei nº 13.089, de 2015", "Institui o Estatuto da Metrópole, altera a Lei nº 10.257, de 10 de julho "
                          "de 2001, e dá outras providências.", "2015-01-12", "2015-01-13", "_Ato2015-2018/2015/Lei/L13089.htm"),
@@ -6698,6 +6712,72 @@ B8.SPAN_FIX += [
     ((_EMETR, "art-04", "Parágrafo único", "Parágrafo único. Até a aprovação das leis complementares", 1),
      {"start": "2019-05-15", "start_law": "mp-862-2018-fim", "restored": True}, _W862_4),
 ]
+
+# part zzzl (thirty-third session): Lei 9.393/1996 (ITR). Hand items set only when the act runs.
+_LITR = "lei-do-imposto-territorial-rural"
+L9393_ANNEX: list[str] = []
+if any(a["slug"] == _LITR for a in ACTS):
+    _paragraphsITR = P.paragraphs
+
+    def _paragraphs_itr(html, digits):
+        out, rest = _paragraphsITR(html, digits)
+        if B8.CURRENT_PAGE[0] == "l9393":
+            # art. 10 § 1º II a) as enacted ends '... previstas na Lei nº 4.771, de 15 de setembro de 1965, com a redação
+            # dada pela Lei nº 7.803, de 18 de julho de 1989;': words of the law, which the bare-note reader took for an
+            # amendment note (cutting them from the line); put back as text
+            for q in out:
+                ns = [n for n in q.get("notes", []) if n == "(redação dada pela Lei nº 7.803, de 18 de julho de 1989;)"]
+                if ns and q["text"].endswith("de 15 de setembro de 1965, com a"):
+                    q["text"] = q["text"] + " redação dada pela Lei nº 7.803, de 18 de julho de 1989;"
+                    q["notes"] = [n for n in q["notes"] if n not in ns]
+                    L9393_ANNEX.append("art. 10 § 1º II a) words restored")
+            # the Anexo (art. 11: 'a alíquota correspondente, prevista no Anexo desta Lei'), the table of rates Planalto
+            # prints after the signature, where the reader stops: its title lines and one line per cell, as the tables
+            # inside articles (batch 15), in unit anexo
+            ann, on = [], False
+            for b in [P.analyse(x) for x in P.blocks_of(html)]:
+                t = b["text"]
+                if not on:
+                    on = t == "TABELA DE ALÍQUOTAS"
+                    if not on:
+                        continue
+                if not t or t == "*" or re.fullmatch(r"[.;,:\s*]+", t):
+                    continue
+                ann.append({**b, "unit": "anexo", "label": "", "heading": False})
+            out = out + ann
+            for i, q in enumerate(out):
+                q["i"] = i
+            L9393_ANNEX.append(f"{len(ann)} lines")
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_itr
+    P.VIGENCIA_FIXED["lei-12844-2013"] = (
+        "2013-07-19", "art. 49: 'Esta Lei entra em vigor: [...] V - na data de sua publicação para os demais dispositivos' "
+                      "(DOU 19.7.2013, edição extra): its art. 24 (Lei 9.393 art. 10 § 1º II a) falls under V")
+    P.VIGENCIA_FIXED["lei-13043-2014"] = (
+        "2015-01-01", "art. 113: 'Esta Lei entra em vigor na data de sua publicação, exceto: [...] II - os arts. 1º a 15, 30 a 32, "
+                      "97, 106 e os artigos da Seção XXI do Capítulo I, que entram em vigor a partir de 1º de janeiro de 2015' (DOU "
+                      "14.11.2014): its arts. 82 and 83 (Lei 9.393 arts. 3º-A and 8) are in Seção XXI ('Do Imposto sobre a "
+                      "Propriedade Territorial Rural e do Imposto de Renda das Pessoas Físicas'), so fall under II")
+    P.MP_PENDING["mp-2166-2001"] = (
+        "Medida Provisória nº 2.166-67, de 24.8.2001 (DOU 25.8.2001, edição extra; in force on publication, art. 8), kept in "
+        "force by Emenda Constitucional 32/2001, art. 2, until Lei 12.651/2012 revoked it; its art. 3 gave Lei 9.393 art. 10 "
+        "the wordings Planalto credits to it. The notes name this edition only, so the changes are dated by its "
+        "publication; earlier editions of the chain are not modelled")
+    EXTRA.append("Lei 9.393 art. 10 § 1º II a) as enacted ends 'previstas na Lei nº 4.771, de 15 de setembro de 1965, com a "
+                 "redação dada pela Lei nº 7.803, de 18 de julho de 1989;': these are words of the law, not an amendment "
+                 "note, and are kept in the line.")
+    EXTRA.append("Lei 9.393 Anexo (the table of rates, art. 11): printed after the signature, where the reader stops; read "
+                 "here as unit anexo: its title lines ('TABELA DE ALÍQUOTAS', '(Art. 11)') and one line per cell, row by row, "
+                 "as printed; no note, so as enacted.")
+    B.EXPLAINED[_LITR] = {
+        "anexo": "check artefact: the check reads the page up to the signature; this unit holds the Anexo (the table of "
+                 "rates of art. 11), which Planalto's page prints after the signature"}
+    B13.OPEN_ITEMS[_LITR] = (
+        "Lei 9.393 (open items): it is the conversion of Medida Provisória 1.528/1996, whose text is not modelled (the "
+        "history starts with the Lei, in effect from 1.1.1997, art. 23); its arts. 23-24 (in force 20.12.1996; art. 24 "
+        "revokes Lei 8.847/1994's arts. 1-22 and 25) are dated with the rest; 'Regulamento', 'Produção de efeito' and "
+        "'Vide' pointers strike no words; the Anexo (table of rates) has no note and stands as enacted")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

@@ -1250,6 +1250,12 @@
    }
   },
   {
+   "id": "l9393",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9393.htm",
+   "ts": "20261023190718",
+   "via": "wayback.py"
+  },
+  {
    "id": "l9424",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/l9424.htm",
    "ts": "20261015110252",
@@ -5061,6 +5067,12 @@
     "offset": "21462954",
     "length": "5632"
    }
+  },
+  {
+   "id": "law:mp-2166-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/2166-67.htm",
+   "ts": "20261018231642",
+   "via": "wayback.py"
   },
   {
    "id": "law:mp-2173-2001",

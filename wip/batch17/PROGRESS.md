@@ -2111,3 +2111,72 @@ OPEN: CLT art. 538 § 3º (1943, no note) beside Decreto-Lei 8.740's § 2º 21.1
 DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once
 archive.org has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026
 congresso) once archived -> MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.
+
+## Thirty-third session (2026-11-01): Task 1 corpus-wide vigência audit (45-day defaults), Task 2 Lei 9.393/1996
+Scratch: .gitlaw-scratch/brazil-b33 (before/ = every part, corpus.json, parsers, effects_fix etc. before the session;
+tools/: vigscan.py (every law the parts' decisions list as dated by the LINDB default), enddump.py / ecdump.py (page
+endings), ecfetch.py (pinned CF captures), vigcmp.py (reader-level before/after over every pinned law page), vgoff.py
+(run a parser with vigforms off = baseline), reparse.sh (base|new reparse + effects_fix, one at a time via run.py),
+mkcand.py (new reparse applied to the installed part, keeping installed sources/ai_use), daydiff/mergedec/chk2/runbuild2
+(from b32; runbuild2 places corpus.json at the root); re0/ = baselines, re1/re2/ = new (sha equal), fin/ = installed).
+robots.txt read at start (archive.org: Disallow /control/ /report/; web.archive.org 404; b33/robots).
+### Task 1 DONE
+- Audit: 43 laws listed in the parts' 'Laws with no vigência clause' decisions + 9 hand-set no-clause acts + the 16 ECs of
+  the CF list; every page's closing text read (enddump1/2.txt, ecdump.txt). The CF pages were not cached on this machine:
+  129 pinned archive.org captures fetched through the shared client (ecfetch.py all; 0 bot pages) so parse.py runs again.
+- Found (9): Leis 9.165/1995, 9.602/1998, 10.223/2001, 10.408/2002 'entra vigor' (no 'em'); 14.310/2022 'entra vigor após
+  decorridos 90 dias'; 8.900/1994 'entre em vigor'; DL 57/1966 'O presente Decreto-Lei entra em vigor, na data';
+  6.181/1974 'Esta Lei, que será regulamentada ..., entrará em vigor'; EC 16/1997 'Esta emenda constitucional' (lower
+  case). All other listed laws truly have no clause (vetoed closing article or only a revocation article).
+- Reader fix: new scripts/brazil-law/vigforms.py (clause_rx widens a reader's clause pattern by alternation; standard()
+  rewrites the forms before the day is read; printed() names the clause for a decision). Used in proc/parse_proc.py,
+  parse_phase2.py, clt/parse_clt.py, codes/parse_codes.py (clause pattern, vigencia_of, and a vig_notes line 'its clause
+  is so printed: ...' for non-hand laws); parse.py final_clause accepts '[Ee]menda'; parse.py BRAZIL_CF_OUT env (scratch
+  output). vigcmp over 2,903 pinned pages (proc 2409, phase2 146, clt 273, codes 75): days move only for the found laws
+  plus laws used by no reader-dated part (O presente Decreto-lei pages pinned for the CLT, which its own reader already
+  read; dl-614/911 are hand-set where used; lei-8845-1994 in no part).
+- 99-batch9: Lei 9.602 now in force on the CTB's own first day: P.SAME_DAY_LAWS + decision SAME_DAY_9602 (added in the
+  write hook), and SPAN_FIX art-147 parágrafo único ends 22.1.1998 (renumbered by Lei 9.602 art. 2; the renumber rules
+  need a later start).
+- Table (law, old -> new in-force day, clause): see the session report; parts 70-clt, 99-batch7, 9, 12, 13g, 14d, 16f and
+  corpus.json reparsed (baseline with vigforms off = installed except sources/ai_use), day diffs only the intended units
+  and decisions (b33/daydiff-final.txt), checks before/after same (chk-b/chk-a logs), dupsame 0, uniqlaws 0, parse x2
+  identical; merged build 280 acts, 3809 versions, 2700 commits, check 0/0, compare identical, audit clean; installed and
+  PUBLISH lines appended (PUBLISH for the CF).
+- Not changed: DL 5.922/1943 (70-clt) dated 'None -> 1943-12-09' (no DOU day on its page, enacted + 45) - noted only.
+### Task 2: 99-batch17zzzl - PUBLISHed: Lei 9.393/1996 (lei-do-imposto-territorial-rural, LITR, 8 versions 1997-01-01 .. 2015-01-01)
+- Pins: `iaonly.py pages l9393` (20261023190718), `laws l9393` 1 new (law:mp-2166-2001). An all-acts `missing` run pinned
+  law:lei-7803-1989 for this act's false note; the pin was removed (the words are law text, see below); act-scoped
+  `missing` (BATCH17_PART=zzzl BATCH17_ACTS=lei-do-imposto-territorial-rural) 0. No compilado archived: check page = page.
+- Config: PAGES l9393, act, PARTS zzzl, ACT_DAY 1.1.1997 (art. 23 'produzindo efeitos, quanto aos arts. 1º a 22, a partir
+  de janeiro de 1997', as Lei 9.249), ACT_LAWS (new record). Block '# part zzzl': paragraphs wrapper on l9393 (art. 10 § 1º
+  II a)'s words 'com a redação dada pela Lei nº 7.803, de 18 de julho de 1989;' put back from the bare-note reader; the
+  Anexo table after the signature read as unit anexo, one line per cell), VIGENCIA_FIXED lei-12844-2013 (art. 49 V, its
+  art. 24) and lei-13043-2014 (1.1.2015: arts. 82-83 in Seção XXI, art. 113 II), MP_PENDING mp-2166-2001, EXTRA decisions,
+  EXPLAINED anexo, OPEN_ITEMS (MP 1.528/1996 text; arts. 23-24 dated with the rest).
+- pipe.sh zzzl (b33/logs/zzzl-pipe3.out): sha 9276fb83 x2, 0 problems, 0 moves, checks 0 (quotecheck: quoted alínea
+  letters only), dupsame 0, uniqlaws 0, conv_report no case. Installed 7cc36131; README row + jurisdiction.json (281 acts,
+  3817 versions). Final merged build (b33/logs/final33-build.log): 281 acts, 3817 versions, 2702 commits, check 0/0,
+  --compare identical, audit clean main + futuro.
+- PIDs (all mine, all exited): vigscan 51184, enddump 34532/28028, ecfetch 34188/45856 (cf all), vigcmp 18080/18336,
+  reparses via reparse.sh (PIDs in b33 re0/re1/re2 *.log and logs/re*.out), checks chk2 (one at a time), build1 31280,
+  pages 40896, laws 18720, missing (all-acts) + missing2, pipe runs (PIDs in zzzl-pipe*.out), conv, final 45520.
+
+## State at handoff (batch 17, thirty-third session, 2026-11-01)
+Task 1 DONE: vigência audit of every 45-day-default law: 9 laws had an in-force clause the readers missed (table in
+the session section above and the report). vigforms.py + reader edits (proc, phase2, clt, codes; parse.py for ECs);
+corpus.json (CF), 70-clt, 99-batch7, 99-batch9, 99-batch12, 99-batch13g, 99-batch14d, 99-batch16f reparsed, checked and
+re-PUBLISHed (PUBLISH lines appended). Task 2: zzzl (Lei 9.393/1996) PUBLISHed. Final merged build of the installed
+folder: 281 acts, 3817 versions, 2702 commits, check 0/0, --compare identical, audit_push clean on main and futuro.
+Everything through run.py / pipe.sh / reparse.sh at BelowNormal behind the cpu gate, one parse at a time (two dupsame runs
+and quick reads were run directly). Nothing running. Fetching: archive.org only (robots read): 16+129 CF captures, 2 pins.
+The CF pages are now cached on this machine again (parse.py runs; BRAZIL_CF_OUT=<file> writes elsewhere).
+Rebuilding an older part for a reader change: b33/tools/reparse.sh base|new <dir> <part>... then mkcand.py
+(installed sources/ai_use kept) and daydiff.py.
+NEXT: ranked list from Lei 11.952/2009, then 13.966/2019, 14.063/2020, 13.988/2020, 12.990/2014, 10.887/2004,
+11.795/2008, 12.682/2012, 6.383/1976, 10.711/2003, 9.069/1995, heavy tax laws, historic codes (pages not pinned yet;
+run `missing` act-scoped: BATCH17_PART/BATCH17_ACTS set, or it pins for every act).
+OPEN: CLT art. 538 § 3º (unchanged); DL 5.922/1943 in 70-clt dated enactment + 45 (page has only a CLBR date).
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once
+archive.org has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026
+congresso) once archived -> MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.
