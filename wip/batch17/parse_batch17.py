@@ -5426,6 +5426,11 @@ L3D_READ: list[str] = []
 _paragraphsLCEE = P.paragraphs
 
 
+def html_text(raw: bytes) -> str:
+    import html as _h
+    return _h.unescape(re.sub(r"<[^>]+>", " ", P.decode(raw)))
+
+
 def paragraphs(html, digits):
     out, rest = _paragraphsLCEE(html, digits)
     if B8.CURRENT_PAGE[0] == "l10848":
@@ -5448,6 +5453,18 @@ def paragraphs(html, digits):
                for k, (x, q) in enumerate(zip(lines, src[i[0]:j[0]]))]
         out[at[0]:at[0] + 1] = new
         L3D_READ.append(str(len(new)))
+        # art. 2 § 6º: Planalto prints only Lei 11.943/2009's wording of the caput; the 2004 wording is read from the
+        # Chamber's copy of the original publication and set above it, struck (ended by Lei 11.943's)
+        k6 = [i for i, p in enumerate(out) if p["label"] == "§ 6º" and not p["heading"]
+              and p["text"].startswith("§ 6º Entendem-se como novos empreendimentos de geração aqueles que até o início de "
+                                       "processo público licitatório")]
+        assert len(k6) == 1 and out[k6[0]]["notes"] == ["(Redação dada pela Lei nº 11.943, de 2009)"], k6
+        ref = re.sub(r"\s+", " ", html_text(P.raw("ctx:camara-lei-10848-2004-original")[0]))
+        w6 = ("§ 6º Entendem-se como novos empreendimentos de geração aqueles que até o início do processo licitatório para a "
+              "expansão em curso:")
+        assert w6 in ref and w6 + " I - não sejam detentores de outorga" in ref
+        out.insert(k6[0], {**out[k6[0]], "text": w6, "state": "struck", "notes": []})
+        L3D_READ.append("art-02 § 6º 2004")
     return out, rest
 
 
@@ -5457,7 +5474,15 @@ if any(a["slug"] == _LCEE for a in ACTS):
                  "15.269, de 2025', 'Produção de efeitos'); its text (caput, incisos I-II, §§ 1º-5º) is read from Lei 15.269/2025's "
                  "own page (art. 9, the quoted article; the check page is read the same way), credited to Lei 15.269; it takes effect 90 days after publication "
                  "(art. 24 II: 'em 90 (noventa) dias da data de sua publicação, quanto ao art. 9º, na parte que inclui o art. "
-                 "3º-D'; DOU 25.11.2025), 23.2.2026 (effects_fix).")
+                 "3º-D'; DOU 25.11.2025), 23.2.2026 (effects_fix). Art. 2 § 6º: Planalto prints only Lei 11.943/2009's "
+                 "wording of the caput ('Redação dada'), not the one it replaced; the 2004 wording ('... aqueles que até o "
+                 "início do processo licitatório para a expansão em curso:') is read from the Chamber of Deputies' copy of the "
+                 "original publication (DOU 16.3.2004) and stands until 29.5.2009.")
+    B6.CONTEXT.append({
+        "when": lambda: any("2004" in x for x in L3D_READ),
+        "pins": ["ctx:camara-lei-10848-2004-original"],
+        "what": "the original publication of Lei 10.848/2004 (DOU 16.3.2004), for the 2004 wording of art. 2 § 6º, which "
+                "Planalto's page does not print"})
 
 # A Medida Provisória's wording that its conversion law does not keep: Planalto prints, after the MP's (struck) wording, the
 # wording the MP replaced a second time, struck, and then the wording of a later law. The reader ends the MP's wording at that
@@ -5465,12 +5490,12 @@ if any(a["slug"] == _LCEE for a in ACTS):
 # conversion law read and named): the MP's wording ends on the conversion law's in-force day, and the copy (same words as the
 # wording before the MP's) stands from that day to the later law. Checked against the hand entries of parts z (Lei 9.427)
 # and u (Lei 9.074): BATCH17_CONV_REPORT=1 prints, for any act, every place the rule finds and the days it would give.
-CONV_RESTORE: dict[str, dict[str, str]] = {_LCEE: {"mp-1300-2025": "lei-15235-2025"}}
+CONV_RESTORE: dict[str, dict[str, str]] = {_LCEE: {"mp-1300-2025": "lei-15235-2025"}, _L9074: {"mp-1300-2025": "lei-15235-2025"}}
 _WCONV = ("Wordings of a Medida Provisória its conversion law did not keep (rule, not hand dates): where Planalto prints, "
           "after the MP's struck wording, the wording the MP replaced a second time, struck, before a later law's wording, the "
           "MP's wording ends on the conversion law's in-force day and the earlier wording is in force again from that day "
-          "until the later law; Lei 10.848, Medida Provisória 1.300/2025, converted into Lei 15.235/2025 (in force on "
-          "publication, 9.10.2025), which keeps none of the MP's art. 4 (its changes to Lei 10.848)")
+          "until the later law; here Medida Provisória 1.300/2025, converted into Lei 15.235/2025 (in force on publication, "
+          "9.10.2025), which keeps none of the MP's changes to this Lei (its art. 4 for Lei 10.848, its art. 1 for Lei 9.074)")
 CONV_RESTORED: list[str] = []
 _lifespans17r = P.lifespans
 
