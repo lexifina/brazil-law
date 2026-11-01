@@ -461,7 +461,8 @@ ALL_ACTS: list[dict] = [
          "Lei do Governo Digital (Lei nº 14.129, de 29 de março de 2021)", 2),
     # twenty-third session
     _act("decreto-lei-200-de-1967", "DL200", "del0200", "del0200", "dl-200-1967",
-         "Organização da Administração Federal e Reforma Administrativa (Decreto-Lei nº 200, de 25 de fevereiro de 1967)", 3),
+         "Organização da Administração Federal e Reforma Administrativa (Decreto-Lei nº 200, de 25 de fevereiro de 1967)", 3)
+    | {"center_headings": False},   # headings are <h4>/<h5> blocks, not centred: a Título's name line went into the article above
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -4989,6 +4990,79 @@ if any(a["slug"] == _DL200 for a in ACTS):
         "(Del0900.htm#art8), the only Decreto-Lei of that number")
     P.VIGENCIA_FIXED["dl-991-1969"] = (
         "1969-10-30", "art. 2: 'Êste Decreto-lei entra em vigor a 30 de outubro de 1969' (DOU 21.10.1969)")
+# art. 39 lists each Ministry's matters under its own heading, numbering the items anew (I, II, ...) under each one: the
+# items VI of the Ministérios da Agricultura, da Indústria e do Comércio, do Interior and do Trabalho are the 1967 text, not
+# copies of the Ministério da Fazenda's item VI (rewritten by Lei 6.228/1975) that the twin-wording rule would leave out
+_W39 = ("Decreto-Lei 200 art. 39 numbers the items anew under each Ministry's heading, so the label 'VI -' occurs six times: "
+        "the items VI of the Ministérios da Agricultura, da Indústria e do Comércio, do Interior and do Trabalho e Previdência "
+        "Social are the 1967 text, in force from 15.3.1967 with no end, and not copies of the Ministério da Fazenda's item VI "
+        "(struck 'Serviços Gerais', rewritten by Lei 6.228/1975 as 'Administração patrimonial')")
+B8.SPAN_FIX += [((_DL200, "art-039", "VI -", _t, 0), {"keep": True}, _W39) for _t in (
+    "VI - Pesquisa e experimentação.", "VI - Pesquisa e experimentação tecnológica.",
+    "VI - Assistência às populações atingidas", "VI - Colaboração com o Ministério Público")]
+B15.TEXT_FIX.append(("del0200", "especificados:,$", "especificados:",
+                     "Decreto-Lei 200 art. 39 caput: Planalto prints a comma between the two 'Vide' links after the caput "
+                     "('especificados: (Vide ...) , (Vide ...)'); the links are dropped and the comma with them"))
+# paragraphs wrapper (page del0200): (1) the struck 'SETOR ...' lines of arts. 35 and 39 (Ministries grouped by sector,
+# 'Suprimido pelo Decreto-Lei 900, de 1969') and art. 39's Ministry names ('MINISTÉRIO DA JUSTIÇA', each above its list of
+# matters) are printed as heading blocks like the Títulos; they are lines of their article.
+# (2) Planalto prints 'Vide' links without parentheses after three lines (arts. 32 and 35 capita, art. 95): dropped, as the
+# reader drops parenthesised 'Vide' notes.
+DL200_FIXED: list[str] = []
+_VIDE_TAIL = re.compile(r"(?:\s*,?\s*Vide (?:Lei|Decreto) nº [\d.]+, de [\d.]+)+\s*,?\s*$")
+_paragraphsDL200 = P.paragraphs
+_DL200_SWAP = {"art-097": ("nas condições previstas neste artigo.", "nos têrmos da legislação trabalhista."),
+               "art-161": ("serão regulados em lei.", "serão regulados em decreto.")}
+
+
+def paragraphs(html, digits):
+    if B8.CURRENT_PAGE[0] == "del0200":
+        # five Seção headings are typed 'SEçãO I' (lower-case 'çã'), which the heading reader does not know: read 'SEÇÃO'
+        html, n = re.subn(r"SE(?:ç|&ccedil;)(?:ã|&atilde;)O", "SEÇÃO", html)
+        DL200_FIXED.extend(["Seção"] * n)
+    out, rest = _paragraphsDL200(html, digits)
+    if B8.CURRENT_PAGE[0] == "del0200":
+        prev = None
+        for p in out:
+            if p["heading"] and p["text"].startswith(("SETOR ", "MINISTÉRIO ")) and prev:
+                p["heading"], p["unit"], p["label"] = False, prev, ""
+                DL200_FIXED.append(f"{prev} {p['text']}")
+            elif not p["heading"] and p["unit"] != "titulos":
+                prev = p["unit"]
+            m = _VIDE_TAIL.search(p["text"])
+            if m and not p["heading"]:
+                p["text"] = p["text"][:m.start()].rstrip()
+                DL200_FIXED.append(f"{p['unit']} Vide links")
+        # arts. 97 and 161: Planalto prints only the wording after Decreto-Lei 900/1969 art. 7 ('Ficam substituídas: I - no
+        # artigo 97 [...] as expressões "nas condições previstas neste artigo" por "nos têrmos da legislação trabalhista";
+        # II - no artigo 161 [...] a palavra "lei" por "decreto"'), noted '(Expressão substituída pelo Decreto-Lei nº 900, de
+        # 1969)': the 1967 wording is read back from that article, as a struck line above the printed one
+        res = []
+        for p in out:
+            sw = _DL200_SWAP.get(p["unit"])
+            if (sw and p["state"] == "plain" and not p["heading"] and p["text"].endswith(sw[1])
+                    and "(Expressão substituída pelo Decreto-Lei nº 900, de 1969)" in p["notes"]):
+                notes = [n for n in p["notes"] if not n.startswith("(Expressão substituída")]
+                res.append({**p, "text": p["text"][:-len(sw[1])] + sw[0], "state": "struck", "notes": notes})
+                res.append({**p, "notes": notes + ["(Redação dada pelo Decreto-Lei nº 900, de 1969)"]})
+                DL200_FIXED.append(f"{p['unit']} 1967 wording")
+            else:
+                res.append(p)
+        out[:] = res
+    return out, rest
+
+
+P.paragraphs = B.paragraphs = paragraphs
+if any(a["slug"] == _DL200 for a in ACTS):
+    EXTRA.append("Decreto-Lei 200: the struck sector lines of arts. 35 and 39 ('SETOR POLÍTICO', 'SETOR ECONÔMICO', ...; "
+                 "'Suprimido pelo Decreto-Lei 900, de 1969') and art. 39's Ministry names ('MINISTÉRIO DA JUSTIÇA', ...), "
+                 "which Planalto prints as heading blocks, are read as lines of their article; the 'Vide' links Planalto prints without parentheses after the capita of arts. 32 and 35 "
+                 "and after art. 95 are dropped, as parenthesised 'Vide' notes are. Arts. 97 and 161: Planalto prints only "
+                 "the wording after Decreto-Lei 900/1969 art. 7 ('Ficam substituídas: I - no artigo 97 [...] as expressões "
+                 "\"nas condições previstas neste artigo\" por \"nos têrmos da legislação trabalhista\"; II - no artigo 161 "
+                 "[...] a palavra \"lei\" por \"decreto\"'), noted 'Expressão substituída'; the 1967 wording is read back "
+                 "from that article and stands until 30.9.1969 (DOU of Decreto-Lei 900, in force on publication). Five Seção "
+                 "headings typed 'SEçãO' are read as 'SEÇÃO'.")
 B13.OPEN_ITEMS[_DL200] = (
     "Decreto-Lei 200 (open items): art. 214 puts the Decreto-Lei in force on 15.3.1967 'ressalvadas as disposições cuja "
     "vigência, na data da publicação, seja por ela expressamente determinada': only art. 113 (revocation of Lei 1.711/1952 "
