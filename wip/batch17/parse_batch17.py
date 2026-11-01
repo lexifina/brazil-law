@@ -314,8 +314,9 @@ ALL_ACTS: list[dict] = [
          "Cofins não cumulativa (Lei nº 10.833, de 29 de dezembro de 2003)", 2),
     _act("lei-do-financiamento-da-saude", "LC141", "lcp141", "lcp141", "lc-141-2012",
          "Aplicação mínima em ações e serviços públicos de saúde (Lei Complementar nº 141, de 13 de janeiro de 2012)", 2),
-    _act("lei-do-fundeb", "LFundeb", "l14113", "l14113", "lei-14113-2020",
-         "Fundo de Manutenção e Desenvolvimento da Educação Básica - Fundeb (Lei nº 14.113, de 25 de dezembro de 2020)", 2),
+    {**_act("lei-do-fundeb", "LFundeb", "l14113", "l14113", "lei-14113-2020",
+            "Fundo de Manutenção e Desenvolvimento da Educação Básica - Fundeb (Lei nº 14.113, de 25 de dezembro de 2020)", 2),
+     "center_headings": False},   # headings are <h4> blocks, not centred: the name line after a Capítulo/Seção line is a heading
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -1038,6 +1039,13 @@ _paragraphs17 = P.paragraphs
 
 def paragraphs(html, digits):
     page = B8.CURRENT_PAGE[0]
+    if page == "l14113":
+        # Lei 14.113 art. 26: Lei 14.276/2021 art. 1 made the parágrafo único § 1º (and added § 2º); Planalto notes the new § 1º
+        # '(Transformado em § 1º pela Lei nº 14.276, de 2021)', a form the reader does not take for a note: read as the
+        # renumbering it describes. The struck parágrafo único lacks the space after its label ('Parágrafo único.Para').
+        html, n1 = re.subn(r"\(\s*Transformado\s+em\s+(§\s*1º)\s+pela\s+", r"(Renumerado do parágrafo único para \1 pela ", html)
+        html, n2 = re.subn(r"(Parágrafo único\.)(</font>\s*<font[^>]*>)(Para)", r"\1\2 \3", html)
+        LFUNDEB_FIXED.extend(["art-26 note"] * n1 + ["art-26 space"] * n2)
     out, rest = _paragraphs17(html, digits)
     drop = FOREIGN_RUBRICS.get(page)
     if drop:
@@ -1368,6 +1376,7 @@ L8745_FIXED: list[str] = []
 L9782_LEFT_OUT: list[str] = []
 L9984_FIXED: list[str] = []
 L4886_FIXED: list[str] = []
+LFUNDEB_FIXED: list[str] = []
 EMPTY_ITEM_PAGES = {"l9250", "l7713"}
 MIXED_PLAIN: list[str] = []
 L9873_FIXED: list[str] = []
@@ -2501,6 +2510,11 @@ def _inner(*a):
                    "4ºA.'; the MPs' own pages read 'XXIII-A', 'XXIV -A', '§ 9º-A', '§ 10-A.' and 'Art. 4º-A'. The lines keep the "
                    "MPs' labels, and MP 844's art. 4º-A with its paragraphs and incisos is read as art. 4º-A, not as lines of "
                    "art. 4 (" + ", ".join(dict.fromkeys(L9984_FIXED)) + ").")
+    if LFUNDEB_FIXED:
+        dec.append("Lei 14.113 art. 26: Lei 14.276/2021 (DOU 28.12.2021) art. 1 made the parágrafo único § 1º, with the same words; "
+                   "Planalto notes the new § 1º '(Transformado em § 1º pela Lei nº 14.276, de 2021)', which is read as that "
+                   "renumbering (the parágrafo único stands to 28.12.2021, § 1º from then, credited to Lei 14.276), and the space "
+                   "missing after the struck 'Parágrafo único.' is restored (" + ", ".join(dict.fromkeys(LFUNDEB_FIXED)) + ").")
     if L4886_FIXED:
         dec.append("Lei 4.886: Lei 8.420/1992 (DOU 11.5.1992, in force on publication) art. 3: 'São suprimidos o parágrafo único "
                    "do art. 10, o parágrafo único do art. 17 e o art. 41'; Planalto marks those struck lines '(Suprimido)', "
