@@ -571,28 +571,79 @@ Disallows /control/ /report/ only); archive.org only (iaonly.py laws/missing/gap
   merged 196 acts, 3209 versions, 2384 commits, check 0/0, compare identical, audit clean (final12-build.log, after README row +
   jurisdiction.json).
 
-## Part zl (Lei 10.833/2003) - CONFIGURED, NOT PUBLISHED (twelfth session)
+## Part zl (Lei 10.833/2003) - NOT PUBLISHED; items 1-4 of the twelfth-session list DONE (thirteenth session)
 Configured: _act lei-10833-de-2003 (L10833), PARTS zl, ACT_DAY (art. 93: 30.12.2003; gates in _G10833: arts. 1-15, 25-27, 29, 30,
-34, 52 -> 1.2.2004; 49-51, 53-58 -> 1.4.2004), ACT_LAWS. `BATCH17_ACTS=lei-10833-de-2003 iaonly.py laws` (11 new) + `missing` (1)
-done. Trial zl-t1 (crashed before writing): 43 versions, 10 problems, 17 diff units. To do, in order:
-1. CRASH KeyError mp-472-2009 in mp_notes: MP 472/2009 and Lei 12.844/2013 have VIGENCIA_FIXED only inside the 9.718 block; read
-   which of their articles touch Lei 10.833 (effrep 10.833 ...) and set their days for zl (MP 472 art. 60 has staged items).
-2. MP_PENDING mp-2158-2001 text for Lei 10.833 (or BARE_TEXT if it is a 'com a redação dada pela' tail, as art-54 in zk; art. 23
-   has such a tail naming Lei 9.990).
-3. SOURCE DISAGREEMENT: the annotated page l10833 prints 'efeito' where the consolidated page prints 'efeitos' in ~14 articles
-   (arts. 40, 52, 61, 64-66, 70, 74, 76, 77, 93, 94 ...), e.g. art. 93 'produzindo efeito, em relação', art. 94 VI 'dos efeito'.
-   Looks like a systematic edit on one page; settle with a third text (Chamber original publication via archive.org, as Lei
-   4.886's ctx:camara pins, pinat.py), then TEXT_FIX or EXPLAINED with the reason. Other diffs: 'n o'/'nº', art-03 § 23 only in
-   consolidated, art-30 '§ 4º' and art-77 'Parágrafo único.'/'§ 2º.' only in replay, art-02 'IX - n'.
-4. Misprinted notes (headyear flags their pins): 'Lei nº 10.685, de 2004' (pinned to 10.865's page; on the struck Anexo's 'Vide'),
-   'Lei nº 11.933, de 2007' (-> 2009), 'Lei nº 12.767, de 2021' (-> 2012); MP 436/2008 notes are lower-case 'me 436' on the page
-   (check law_key). NOTE_FIX each after reading the linked page.
-5. LC 214 futuro for 10.833: art. 539 (art. 2 § 1º-A, 1.5.2025, effects_fix); art. 509 rewrites arts. 23, 30, 31, 32 (caput and
-   parágrafo único caput), 33, 34 (caput) and 67 (caput, § 3º with I and II) from 1.1.2027 (art. 544 III); art. 542 XXI revokes
-   arts. 1-16, 25, 31 § 1º, 49, 50, 52, 55, 57, 58 and 91 from 1.1.2027. Add a _FUT2027 entry; fut_2027 needs (unit, label) rewrites.
-6. Then effrep of all 47 amenders (notecount: 11.727 106, 10.865 79, 13.043 37, 11.827 32, 10.925 31, 13.097 30, 11.051 27, MP 436
-   23, 12.973 24, 11.945 16, 14.651 11 ...), effects_fix MOVES / SPAN_FIX (beverage regime arts. 58-A..58-V: Lei 11.727 arts. 32-39
-   -> 1.1.2009 via MP 436 / Lei 11.827; revoked by Lei 13.097 art. 169 III b) from 1.5.2015), checks, pipe.sh zl, PUBLISH.
+34, 52 -> 1.2.2004; 49-51, 53-58 -> 1.4.2004), ACT_LAWS. Latest trial zl-t5 (scratch zl-t5.json): 46 versions, 0 problems, 6 diff
+units, all EXPLAINED (art-02 'n o'/'nº' + stray 'IX - n' on the consolidated page, art-03 'desta Lei.' + 'nos'/'nºs', art-18/62/70
+'n o', art-77 dotted quoted lines). Done this session (all in parse_batch17.py, scoped to the act):
+- 1. MP 472/2009 (art. 27 -> art. 18, I d) and Lei 12.844/2013 (art. 23 -> art. 62, V): own zl VIGENCIA_FIXED block (end of file),
+  read with effrep; crash gone.
+- 2. MP 2.158-35 / Lei 9.990 / Lei 10.548 'com a redação dada' tails: BARE_TEXT l10833 art-23, art-25 (2003 caput), art-40
+  (+ compilado art-23/40), _BARE_RX10833 + own decision; 'l10833' added to _BX.
+- 3. 'efeito'/'efeitos': third text = the Chamber's copy of the original publication, archive.org capture pinned with pinat.py as
+  ctx:camara-lei-10833-2003-original (ts 20251216123940; robots.txt read: web.archive.org 404, archive.org /control/ /report/
+  only). It prints 'efeitos' wherever the consolidated page does (incl. 'gases liquefeitos', arts. 93, 94 VI): the annotated
+  page dropped the 's' throughout (227 'efeito' vs 57 'efeitos' on the consolidated page). efeitos_fix() in the paragraphs
+  wrapper (page l10833 only): a line whose letters+digits are found in none of EFX_REFS (consolidated page, Chamber original,
+  Lei 11.727's page) or its note's act page, but are found with one set of its 'efeito' made 'efeitos', takes those words: 29
+  lines fixed, 0 open; decisions EFX_FIXED/EFX_OPEN; B6.CONTEXT lists the Chamber page as a source. ACT_DAY and zk OPEN_ITEMS
+  quotes corrected to 'efeitos'. Decision text avoids the phrase "Planalto's consolidated page" (batch5 rewrites it).
+- 4. NOTE_FIX 'Lei nº 11.933, de 2007' (x2) -> 2009 and 'Lei nº 12.767, de 20212' -> 2012 (links read with hrefs.py). 'Vide Lei
+  nº 10.685, de 2004' is a pointer on the struck Anexo Único (credits nothing; its link goes to L10.865#art26): no fix needed.
+  MP 436's lower-case notes key correctly (mp-436-2008).
+- 5. futuro: fut_2027 generalised (ends: unit or (unit, label) + the incisos under it; rewrites: (prefix, new caput) or [(label,
+  prefix, new)]; optional inserts {unit: (after label, [(label, text)])}; capita matched by label 'Art. N' - the old matcher
+  wanted label 'caput', so part zk's art. 35 was never rewritten: zk re-PUBLISHed, see below). _FUT2027[_L10833]: art. 542 XXI
+  (arts. 1-16, 25, 31 § 1º, 49, 50, 52, 55, 57, 58, 91) + art. 509 (capita 23, 30, 31, 33, 34, 67; art. 32 p.u. caput; art. 67
+  § 3º + I, II new), all 1.1.2027 (art. 544 III as LC 227 worded it). Checked on the 2027 state (tool .tmp/state.py).
+- SPAN_FIX pointers skipped: art-03 '§ 22.' (Vide MP 413), art-30 '§ 4º' (Vide MP 232).
+REMAINING (item 5 of the old list: effect days; amenders all read with effrep, log .tmp/zl-effrep.log, clauses in zl-q13/14/15):
+  a) Beverage regime arts. 58-A..58-V: Lei 11.727 art. 41 VII (MP 436 / Lei 11.827 wording) -> effects 1.1.2009 for its arts.
+     32-39. Plan: add art-58-a..art-58-u to _G10833 at ('2009-01-01', 'Lei 11.727 art. 41 VII') with gate law lei-11727-2008
+     (base build_act hides the unit before the gate; the batch17 wrapper moves earlier starts to the gate, so MP 436 lines ended by
+     Lei 11.827 never show, Lei 11.827 / MP 451 lines start 1.1.2009) and print the art-58 entries of G10833_USED in their own
+     decision. CHECK FIRST: art-58-m 'I -'/'II -' Lei 11.827 lines are skip=1 'undated' (wrongly taken as duplicates of MP 436's
+     identical lines: un-skip, end 13.097); art-58-m caput (struck, only a revocation note) starts 2003-12-30: start with Lei 11.727.
+  b) Lei 11.727 art. 42 IV a) (as Lei 11.827 worded it): arts. 49, 50, 52, 55, 57 and 58 REVOKED from 1.1.2009 ('não havendo, após
+     essa data, outra forma de tributação além dos 2 regimes previstos nos arts. 58-A a 58-U'). Planalto prints them unstruck
+     with only 'Vide Lei 11.727'; LC 214 art. 542 XXI revokes them again in 2027. Judgement (recommended): end them 1.1.2009
+     credited lei-11727-2008 (SPAN_FIX end, end_how 'repealed'), EXPLAINED for the consolidated diff, drop them from the zl
+     _FUT2027 ends (nothing left to end). Check whether any later law re-enacted them first.
+  c) Effect-day moves (effects_fix MOVES "99-batch17zl.json", or SPAN_FIX where it refuses): Lei 10.865 -> 1.5.2004 (art. 53);
+     Lei 10.925 art. 5 re art. 2 § 1º and art. 51 -> 1.11.2004 (art. 17 I c); Lei 11.051 art. 23 re § 20 (as to § 19 II) and art.
+     35 IV (art. 84 revoked) -> 1.4.2005 (arts. 24, 35); Lei 11.196 art. 43 re art. 3 and art. 10 XXVII -> 1.12.2005 (art. 132 III
+     c); art. 10 XXVI / art. 15 retroactive 14.10.2005, keep); Lei 11.727 art. 15 (arts. 2, 3) and art. 42 III d) (art. 1 § 3º
+     IV, art. 10 VII a) -> 1.10.2008 (art. 41 IV); MP 451 art. 9 re art. 1 § 3º VI -> 1.1.2009 (art. 22 I c), re art. 3 § 23 ->
+     1.4.2009 (II b; items printed struck on MP 451's page, read as published as in zj/zk); Lei 12.766 art. 3 (art. 10 caput) ->
+     1.1.2013 (II); Lei 12.995 art. 27 I e) (art. 58-T § 2º) -> 1.1.2015; Lei 13.097 art. 37 (art. 3) and art. 169 III b) (art. 2
+     § 1º VII-IX, arts. 51, 53, 54, 58-A..58-V) -> 1.5.2015; MP 1.159 art. 2 re art. 3 § 2º III -> 1.5.2023; MP 1.185 -> 1.1.2024
+     (its art. 15 revocation; check the Lei 14.789 note 'Revogado Lei nº 14.789' without 'pela'); LC 214 art. 539 (art. 2 § 1º-A)
+     -> 1.5.2025. Still to read: Lei 13.043 arts. 56, 79, 114 (items IV-V of art. 113), Lei 13.137 art. 24 (arts. 31, 35).
+     Keep (retroactive or on publication): 10.548 (bare text), 10.996, 11.307, 11.434, 11.452, 11.488, 11.787, 11.827, 11.898,
+     11.933 (1.10.2008 retroactive), 11.945 (I and IV retroactive), 12.024, 12.249 (d retroactive), 12.375, 12.507, 12.767,
+     12.844, 12.973 (1.1.2015 by the reader), 13.670, 14.368, 14.440, 14.592, 14.596 (1.1.2024), 14.651, 14.967, MP 447, MP 466,
+     MP 472, MP 497, LC 216.
+  d) Anexo Único (TIPI list, revoked by Lei 10.925 art. 16 / 17 from 26.7.2004) is not modelled: add to OPEN_ITEMS (or model it).
+  e) Then OPEN_ITEMS[_L10833] text, pipe.sh zl, PUBLISH, README row + jurisdiction.json (docs.py).
+
+## 99-batch17zk - re-PUBLISHed 2026-11-01 (thirteenth session)
+fut_2027's caput matcher wanted label 'caput' (capita carry 'Art. N'), so LC 214 art. 507's new caput of art. 35 (2027) was
+described in the decisions but missing from the part; now applied (2027 version gains art-35, credited lc-214-2025). OPEN_ITEMS
+quote 'dos efeitos'. Pipeline (pipe.sh zk, log .tmp/zk-pipe4.out): parse twice identical (pre-effects 5e06b68e, after effects_fix
+fea61a5c, 18 moves), checks as before; zj, zf, h reparsed: equal except sources[0].requests. Merged 196 acts, 3209 versions, 2384
+commits, check 0/0, --compare identical, audit clean. PUBLISH line appended.
+
+## State at handoff (batch 17, thirteenth session, 2026-11-01)
+zk re-PUBLISHed (above). zl NOT published: items 1-4 done, effect days (REMAINING a-e in the zl section) still to model; the code
+is in place and scoped (a zl parse gives 0 problems, 6 EXPLAINED diffs). Merged state unchanged in acts/versions: 196 acts, 3209
+versions, 2384 commits, check 0/0, --compare identical, audit clean. All runs through .tmp/run.py / pipe.sh at BelowNormal (cpu
+gate), one at a time; every PID exited; nothing running. Fetching: archive.org only (one CDX listing + one pinned capture).
+New tools: .tmp/efx.py (efeito counts on the three texts), .tmp/state.py <part> <day> <unit>... (units in force on a day),
+.tmp/fixbs2.py (replace literal backspaces a shell heredoc writes for ''), .tmp/futedit.py (one-off edit, kept for the record).
+DATED RE-CHECK (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026 - not before.
+Left out / unsettled (unchanged): Lei 9.782 art. 8º-A; Lei 10.931; Lei 10.522 art. 32 quoted § 2º; Lei 12.462 art. 63 § 17.
+Noticed, not fixed: in the BARE_TEXT decisions, _BX lacks "l9984", so part zf also gets the generic Lei 7.689/9.249 decision line
+(published zf; wording only).
 
 ## State at handoff (batch 17, twelfth session, 2026-11-01)
 Part zk (Lei 10.637/2002) installed with .PUBLISH; merged 196 acts, 3209 versions, 2384 commits, check 0/0, --compare identical,
