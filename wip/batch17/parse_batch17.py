@@ -1103,6 +1103,20 @@ def paragraphs(html, digits):
                 if re.match(rx, P.norm(p["text"])):
                     p["text"], p["label"] = re.sub(rx, new, P.norm(p["text"])), lab
                     L9984_FIXED.append(lab)
+    if page == "l4886":
+        # Lei 4.886: Lei 8.420/1992 art. 3 'São suprimidos o parágrafo único do art. 10, o parágrafo único do art. 17 e o art.
+        # 41'; Planalto marks the struck lines '(Suprimido)', naming no law: the mark is read as that revocation. Lei 12.246/2010
+        # (art. 10 '§ 1º (Suprimido)') prints the word as part of its text: there it stays in the line.
+        for p in out:
+            if not any(n.strip() == "(Suprimido)" for n in p["notes"]):
+                continue
+            if p["state"] == "plain":
+                p["text"] = P.norm(p["text"]).rstrip(". ") + " (Suprimido)."
+                p["notes"] = [n for n in p["notes"] if n.strip() != "(Suprimido)"]
+                L4886_FIXED.append(f"{p['unit']} [{p['label']}] text")
+            else:
+                p["notes"] = [("(Revogado pela Lei nº 8.420, de 1992)" if n.strip() == "(Suprimido)" else n) for n in p["notes"]]
+                L4886_FIXED.append(f"{p['unit']} [{p['label']}]")
     if page in ("l10522", "l10522-compilado"):
         # Lei 10.522 art. 37-B § 10 (Lei 11.941/2009): both Planalto pages (and Lei 11.941's own page) strike only the dash in
         # 'Custódia – SELIC'; a typesetting slip in a line in force: the line is read as unstruck, dash kept
@@ -1157,6 +1171,7 @@ L13465_FIXED: list[str] = []
 L8745_FIXED: list[str] = []
 L9782_LEFT_OUT: list[str] = []
 L9984_FIXED: list[str] = []
+L4886_FIXED: list[str] = []
 EMPTY_ITEM_PAGES = {"l9250", "l7713"}
 MIXED_PLAIN: list[str] = []
 L9873_FIXED: list[str] = []
@@ -1648,6 +1663,56 @@ _W_CH3 = ("Lei 11.977 Capítulo III (arts. 46 to 71-A): Medida Provisória 759/2
           "Lei 12.424 left as dotted lines, keep the MP's wording, as Planalto prints them, until 23.12.2016")
 CH3_REVOKERS = {"mp-759-2016", "lei-13465-2017"}
 CH3_USED: list[str] = []
+
+
+# part zh: Lei 4.886/1965 art. 10. Lei 12.246/2010 art. 1 'renumerando-se as atuais alíneas a a g para incisos I a VII';
+# Planalto prints only the incisos, each noted 'Renumerado pela Lei nº 12.246, de 2010'. The alíneas a) to g), with the same
+# words, stand from the act's first day to 28.5.2010, after the caput.
+LRC_RENUM: list[str] = []
+LRC_RENUM92: list[str] = []
+_ROMAN7 = {"I -": "a)", "II -": "b)", "III -": "c)", "IV -": "d)", "V -": "e)", "VI -": "f)", "VII -": "g)"}
+
+
+def lrc_renum(paras, act):
+    if act["slug"] != "lei-dos-representantes-comerciais":
+        return
+    day, law = "2010-05-28", "lei-12246-2010"
+    act_day = B.ACT_DAY[act["law"]][0]
+    cap = next((i for i, p in enumerate(paras) if p["unit"] == "art-10" and p["label"] == "Art. 10" and not p["heading"]), None)
+    if cap is None:
+        return
+    copies = []
+    for p in paras:
+        if (p["unit"] != "art-10" or p["label"] not in _ROMAN7 or p.get("skip")
+                or not any("Renumerado pela Lei nº 12.246" in n for n in p["notes"])):
+            continue
+        lab = _ROMAN7[p["label"]]
+        c = dict(p, label=lab, text=lab + p["text"][len(p["label"]):], gaps=[], start=act_day, start_law=None, end=day,
+                 end_law=law, end_how="renumbered", notes=[n for n in p["notes"] if "Renumerado" not in n])
+        copies.append(c)
+        LRC_RENUM.append(f"{lab} -> {p['label'].rstrip(' -')}")
+    paras[cap + 1:cap + 1] = copies
+    # Lei 8.420/1992 (DOU 11.5.1992) art. 2 added articles 'que passarão a ter os números 41, 42, 43, 44, 45, 46 e 47': the 1965
+    # arts. 42 ('Esta lei entra em vigor na data de sua publicação') and 43 ('Revogam-se as disposições em contrário') became
+    # arts. 48 and 49 (the Chamber's copy of the original publication; Planalto prints only the new numbers, with no note)
+    d92, l92 = "1992-05-11", "lei-8420-1992"
+    for new, old in (("art-48", 42), ("art-49", 43)):
+        src = [p for p in paras if p["unit"] == new and not p["heading"] and not p.get("skip")]
+        at = next((i for i, p in enumerate(paras) if p["unit"] == f"art-{old}"), None)
+        if not src or at is None or src[0]["start"] != act_day:
+            continue
+        cs = []
+        for p in src:
+            c = dict(p, unit=f"art-{old}", gaps=[], start=act_day, start_law=None, end=d92, end_law=l92, end_how="renumbered")
+            if p["label"].startswith("Art"):
+                c["label"] = f"Art. {old}"
+                c["text"] = c["label"] + p["text"][len(p["label"]):]
+            cs.append(c)
+            p["start"], p["start_law"] = d92, l92
+        paras[at:at] = cs
+        LRC_RENUM92.append(f"art. {old} -> art. {int(new[4:])}")
+    for i, p in enumerate(paras):
+        p["i"] = i
 
 
 # part zf: Lei 9.984/2000 (ANA). Medida Provisória 437/2008 (DOU 30.7.2008, in force on publication) art. 13 added art. 4 XIX
@@ -2155,6 +2220,9 @@ def lifespans(paras, cx):
     dated = {f"no end for struck {u} [{lab}] " for p in paras
              if p.get("pinned") and p["state"] != "plain" and p.get("end") and not p.get("skip")
              for u, lab in ((p["unit"], p["label"]), p.get("moved_from") or (p["unit"], p["label"]))}
+    # ... and so is a struck line SPAN_FIX leaves out (a duplicate copy): matched by unit, label and text
+    dated |= {f"no end for struck {p['unit']} [{p['label']}] {p['text'][:90]!r}" for p in paras
+              if p.get("pinned") and p["state"] != "plain" and p.get("skip") and p.get("end_how") == "duplicate"}
     return [x for x in problems if not any(x.startswith(t) for t in dated)]
 
 
@@ -2172,6 +2240,7 @@ def apply_rewrites(paras, act, eff, problems):
     heads_14596(paras, act, eff)
     ch3_successors(paras, act)
     ana_437(paras, act)
+    lrc_renum(paras, act)
     return out
 
 
@@ -2224,6 +2293,22 @@ def _inner(*a):
                    "4ºA.'; the MPs' own pages read 'XXIII-A', 'XXIV -A', '§ 9º-A', '§ 10-A.' and 'Art. 4º-A'. The lines keep the "
                    "MPs' labels, and MP 844's art. 4º-A with its paragraphs and incisos is read as art. 4º-A, not as lines of "
                    "art. 4 (" + ", ".join(dict.fromkeys(L9984_FIXED)) + ").")
+    if L4886_FIXED:
+        dec.append("Lei 4.886: Lei 8.420/1992 (DOU 11.5.1992, in force on publication) art. 3: 'São suprimidos o parágrafo único "
+                   "do art. 10, o parágrafo único do art. 17 e o art. 41'; Planalto marks those struck lines '(Suprimido)', "
+                   "naming no law, and they end on 11.5.1992, credited to Lei 8.420. Lei 12.246/2010 art. 1 gave art. 10 a '§ 1º "
+                   "(Suprimido)' (its own words): that line reads '§ 1º (Suprimido).' (" + ", ".join(dict.fromkeys(L4886_FIXED))
+                   + ").")
+    if LRC_RENUM:
+        dec.append("Lei 4.886 art. 10: Lei 12.246/2010 (DOU 28.5.2010) art. 1 renumbered 'as atuais alíneas a a g para incisos I "
+                   "a VII' and changed no words; Planalto prints only the incisos, noted 'Renumerado pela Lei nº 12.246, de 2010'. "
+                   "The alíneas stand under their letters, with the same words, from 10.12.1965 to 28.5.2010 ("
+                   + ", ".join(dict.fromkeys(LRC_RENUM)) + ").")
+    if LRC_RENUM92:
+        dec.append("Lei 4.886: Lei 8.420/1992 (DOU 11.5.1992) art. 2 added articles 'que passarão a ter os números 41, 42, 43, 44, "
+                   "45, 46 e 47'; the 1965 arts. 42 and 43 (in-force and revocation clauses; the Chamber's copy of the original "
+                   "publication of 10.12.1965) became arts. 48 and 49 with the same words. Planalto prints only the new numbers, "
+                   "with no note: each stands under its 1965 number to 11.5.1992 (" + ", ".join(dict.fromkeys(LRC_RENUM92)) + ").")
     if ANA_437:
         dec.append("Lei 9.984: Medida Provisória 437/2008 (DOU 30.7.2008, in force on publication) added art. 4 XIX and § 8º, "
                    "art. 19-A and art. 20 XI and parágrafo único. Medida Provisória 439/2008 (DOU 29.8.2008, edição extra, in "
@@ -2514,6 +2599,56 @@ B13.OPEN_ITEMS[_LANA] = (
     "Lei 9.984 (open items): art. 4 XVIII, art. 18-A and the revocations of arts. 17 and 18 are dated by Medida "
     "Provisória 2.216-37/2001, the edition Planalto names (2.049-21 and 2.049-23/2000 appear only in 'Vide' notes; earlier "
     "editions of the chain are not modelled); 'Vide' pointers and regulations strike no words")
+
+# part zg: Lei 11.182/2005 (ANAC), Lei 13.575/2017 (ANM). Hand days set only when the act runs.
+_LANAC, _LANM = "lei-da-anac", "lei-da-anm"
+if any(a["slug"] == _LANM for a in ACTS):
+    B7.CONVERTED_FIX["mp-1133-2022"] = (
+        "lei-14514-2022", "Medida Provisória 1.133/2022: its page reads 'Convertida na Lei nº 14 514, de 2022' (the full stop of "
+                          "the number missing); Lei 14.514/2022 reads 'Conversão da Medida Provisória nº 1.133, de 2022'")
+    P.VIGENCIA_FIXED["lei-14514-2022"] = (
+        "2022-12-30", "art. 25: 'Esta Lei entra em vigor: I - (VETADO); II - na data de sua publicação, com produção de efeitos "
+                      "[...] (Lei 8.001/1990); e III - na data de sua publicação, quanto aos demais dispositivos' (DOU 30.12.2022): its "
+                      "art. 13 (Lei 13.575 art. 2 XXXVII-XL) falls under III")
+    P.VIGENCIA_PROVISION[("lei-14514-2022", _LANM, "art-21")] = (
+        "2024-05-22", "Lei 14.514/2022 art. 13, in the part that rewrote Lei 13.575 art. 21 (II-A, III, III-A, V, VII-IX, XI, XIII, "
+                      "XIII-A, XV), art. 24 V b) (revocation of art. 21 X and XII) and art. 25 I ('em 1º de fevereiro de 2023, quanto "
+                      "às alterações efetuadas pelo art. 13 no art. 21 da Lei nº 13.575') were vetoed; Congress overrode the vetoes "
+                      "and the President promulgated them on 21.5.2024 (DOU 22.5.2024, printed at the foot of Lei 14.514's page). "
+                      "A promulgated part is law only from its publication: the changes to art. 21 take effect on 22.5.2024")
+_W34 = ("Lei 11.182 art. 34 quotes the wording it gave Lei 6.009/1973 art. 2 parágrafo único a); Medida Provisória 1.089/2021 "
+        "revoked that alínea of Lei 6.009, not words of Lei 11.182. Planalto prints the quoted lines twice, struck with the MP's "
+        "note and again unstruck; the struck copy is not a wording of Lei 11.182 and is left out")
+B8.SPAN_FIX += [((_LANAC, "art-34", lab, pre, 0), {"skip": True, "end_how": "duplicate"}, _W34) for lab, pre in (
+    ("", '"Art. 2º.'), ("Parágrafo único", "Parágrafo único."), ("a)", "a) por tarifas aeroportuárias"), ("", "....."))]
+B.EXPLAINED[_LANAC] = {"art-34": "art. 34 quotes Lei 6.009's 'Parágrafo único.' (a label with dotted text, the quoted alínea a) "
+                                  "below it); the check reads a line holding only a label as a revoked dispositivo and leaves "
+                                  "it out of the page's side"}
+B13.OPEN_ITEMS[_LANAC] = (
+    "Lei 11.182 (open items): the Anexos (tables of posts and of the TFAC values) are not part of the history; Lei 11.292/2006 "
+    "(in force on publication, 27.4.2006) gave art. 29 the wording that institutes the Taxa de Fiscalização da Aviação Civil "
+    "'respeitando-se [...] o disposto nas alíneas b e c do inciso III do art. 150 da Constituição Federal': the tax could be "
+    "charged only from 1.1.2007, but the wording replaced the 2005 one on publication and is dated by that day; 'Vide' pointers "
+    "(Medida Provisória 269/2005) and regulations strike no words")
+B13.OPEN_ITEMS[_LANM] = (
+    "Lei 13.575 (open items): the text before 27.12.2017 (Medida Provisória 791/2017, of which this Lei is the conversion) is "
+    "not part of the history; 'Vide' pointers and regulations strike no words")
+
+# part zh: Leis 11.428/2006 (Mata Atlântica), 4.886/1965 (representantes comerciais), 8.397/1992 (cautelar fiscal), 9.795/1999
+# (educação ambiental)
+B.EXPLAINED["lei-da-mata-atlantica"] = {
+    "art-48": "art. 48 quotes Lei 9.393's '§ 1º' with dotted text (a label-only line); the check reads a line holding only a "
+              "label as a revoked dispositivo and leaves it out of the page's side"}
+B13.OPEN_ITEMS["lei-da-mata-atlantica"] = (
+    "Lei 11.428 (open items): the DOU of 26.12.2006 was rectified on 9.1.2007; Planalto prints the rectified text, which is "
+    "read from the act's first day; Lei 15.190/2025's revocation of art. 14 §§ 1º and 2º (vetoed, then promulgated on 5.12.2025, "
+    "DOU 8.12.2025, before the Lei's in-force day) takes effect with the Lei on 4.2.2026; 'Vide' pointers and regulations strike "
+    "no words")
+B13.OPEN_ITEMS["lei-dos-representantes-comerciais"] = (
+    "Lei 4.886 (open items): 'Vide' pointers strike no words")
+B13.OPEN_ITEMS["lei-da-medida-cautelar-fiscal"] = (
+    "Lei 8.397 (open items): the DOU of 7.1.1992 was rectified on 16.1.1992; Planalto prints the rectified text, which is read "
+    "from the act's first day")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

@@ -478,6 +478,17 @@ Lei 9.984/2000 (ANA), 18 versions 2000-07-18 .. 2023-06-20 (l9984 vs l9984compil
   '(Revogado).', quotecheck 30 (quoted Lei 8.001 / 9.433 text in arts. 28-32). Part sha b125c12e; zd reparse identical;
   merged 184 acts, 3092 versions, 2318 commits, check 0/0, compare identical, audit clean. README row + jurisdiction.json.
 
+## 99-batch17zg - PUBLISHed 2026-11-01 (tenth session)
+Lei 11.182/2005 ANAC (9 versions 2005-09-28 .. 2022-06-15), Lei 13.575/2017 ANM (5, 2017-12-27 .. 2026-09-16); both own consolidated
+pages (no compilado capture on archive.org: cdxlist). Pages for zg/zh pinned (`iaonly.py pages`, 6) + `laws` (9 new) + `missing` (0).
+- ANM: CONVERTED_FIX mp-1133-2022 -> lei-14514-2022 (page 'Lei nº 14 514'); VIGENCIA_FIXED lei-14514-2022 30.12.2022 (art. 25 III);
+  VIGENCIA_PROVISION (lei-14514-2022, LANM, art-21) = 22.5.2024 (vetoed art. 21 changes promulgated 21.5.2024, DOU 22.5.2024).
+- ANAC: art-34 struck copy of quoted Lei 6.009 lines skipped (duplicate); lifespans wrapper now also settles 'no end for struck'
+  for pinned skipped duplicates (matched by unit, label and text). EXPLAINED art-34 (label-only quoted line). OPEN_ITEMS: Lei
+  11.292 art. 29 TFAC anterioridade kept at in-force day (the wording replaced the 2005 one on publication).
+- effrep (zg-effrep.log): on publication. effects_fix 0 moves. Benign: leakcheck 6 literal, quotecheck 5. Part sha 6fb78e7a
+  (pre-effects 3e49022a); merged 186 acts, 3106 versions, 2326 commits, check 0/0, compare identical, audit clean.
+
 ## State at handoff (batch 17, ninth session, 2026-11-01)
 Parts 99-batch17a..zd installed with .PUBLISH (this session: z, za, zb, zc, zd = 9 acts, 95 versions); merged 183 acts, 3074
 versions, 2315 commits, check 0/0, --compare identical, audit clean. README rows + jurisdiction.json (183 acts) current.
