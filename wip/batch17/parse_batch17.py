@@ -5431,7 +5431,7 @@ _paragraphsLCEE = P.paragraphs
 def paragraphs(html, digits):
     out, rest = _paragraphsLCEE(html, digits)
     if B8.CURRENT_PAGE[0] == "l10848":
-        at = [i for i, p in enumerate(out) if p["unit"] == "art-003-d" and p["text"] == "Art. 3º-D." and not p["heading"]]
+        at = [i for i, p in enumerate(out) if p["label"] == "Art. 3º-D" and p["text"] == "Art. 3º-D." and not p["heading"]]
         assert len(at) == 1, at
         page = B8.CURRENT_PAGE[0]
         src, _ = _paragraphsLCEE(P.decode(P.raw("law:lei-15269-2025")[0]), digits)
@@ -5440,7 +5440,8 @@ def paragraphs(html, digits):
         j = [k for k, q in enumerate(src) if q["text"].startswith('"Art. 3º-E.')]
         assert len(i) == 1 and len(j) == 1 and i[0] < j[0], (i, j)
         lines = [q["text"] for q in src[i[0]:j[0]]]
-        assert all(q["unit"] == "art-009" and q["state"] == "plain" and not q["notes"] for q in src[i[0]:j[0]])
+        assert len({q["unit"] for q in src[i[0]:j[0]]}) == 1 and all(q["state"] == "plain" and not q["notes"]
+                                                                     for q in src[i[0]:j[0]])
         lines[0] = lines[0][1:]
         lines[-1] = lines[-1].rstrip('"').rstrip()
         assert not any('"' in x for x in lines), lines
