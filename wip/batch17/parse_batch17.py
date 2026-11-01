@@ -520,6 +520,9 @@ ALL_ACTS: list[dict] = [
     _act("lei-do-proinfa-e-da-cde", "LProinfa", "l10438", "l10438-compilada", "lei-10438-2002",
          "Proinfa, Conta de Desenvolvimento Energético e universalização do serviço de energia elétrica (Lei nº 10.438, de 26 de "
          "abril de 2002)", 2),
+    _act("lei-da-fiscalizacao-do-abastecimento-de-combustiveis", "LFAC", "l9847", "l9847-compilado", "lei-9847-1999",
+         "Fiscalização do abastecimento nacional de combustíveis e sanções administrativas (Lei nº 9.847, de 26 de outubro de "
+         "1999)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -608,6 +611,7 @@ PARTS: dict[str, list[str]] = {
     # twenty-seventh session: energy laws
     "zzv": ["lei-da-microgeracao-e-minigeracao-distribuida", "lei-de-pesquisa-e-desenvolvimento-do-setor-eletrico"],
     "zzw": ["lei-do-proinfa-e-da-cde"],
+    "zzx": ["lei-da-fiscalizacao-do-abastecimento-de-combustiveis"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -857,6 +861,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-14300-2022": ("2022-01-07", f"Lei 14.300/2022 art. 37: {_PUB} (DOU 7.1.2022)"),
     "lei-9991-2000": ("2000-07-25", f"Lei 9.991/2000 art. 9º: {_PUB} (DOU 25.7.2000)"),
     "lei-10438-2002": ("2002-04-29", f"Lei 10.438/2002 art. 32: {_PUB} (DOU 29.4.2002, edição extra)"),
+    "lei-9847-1999": ("1999-10-27", f"Lei 9.847/1999 art. 22: {_PUB} (DOU 27.10.1999, edição extra)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1340,6 +1345,9 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "elétrica, dá nova redação às Leis n o 9.427, de 26 de dezembro de 1996, n o 9.648, de 27 de maio de 1998, n o "
                          "3.890-A, de 25 de abril de 1961, n o 5.655, de 20 de maio de 1971, n o 5.899, de 5 de julho de 1973, n o "
                          "9.991, de 24 de julho de 2000, e dá outras providências.", "2002-04-26", "2002-04-29", "leis/2002/L10438.htm"),
+    "lei-9847-1999": _L("Lei nº 9.847, de 1999", "Dispõe sobre a fiscalização das atividades relativas ao abastecimento nacional "
+                        "de combustíveis, de que trata a Lei n o 9.478, de 6 de agosto de 1997, estabelece sanções administrativas e dá "
+                        "outras providências.", "1999-10-26", "1999-10-27", PAGES["l9847"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -5837,6 +5845,10 @@ if any(a["slug"] == _LPROINFA for a in ACTS):
         "2025-10-09", "'Esta Lei entra em vigor: I - em 1º de janeiro de 2026, quanto ao inciso III do caput do art. 5º; e II - "
                       "na data de sua publicação, quanto aos demais dispositivos' (DOU 9.10.2025): the conversion of Medida "
                       "Provisória 1.300/2025; its art. 1 (Lei 10.438 art. 13 § 3º-I and art. 25) falls under II")
+    P.VIGENCIA_FIXED["lei-14514-2022"] = (
+        "2022-12-30", "art. 25: 'Esta Lei entra em vigor: I - (VETADO); II - na data de sua publicação, com produção de efeitos "
+                      "[...] (Lei 8.001/1990); e III - na data de sua publicação, quanto aos demais dispositivos' (DOU 30.12.2022): its "
+                      "art. 22 (Lei 10.438 art. 14 § 14) falls under III")
     P.MP_LAPSE["mp-605-2013"] = (
         "2013-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 39, de 2013 (DOU 6.6.2013): Medida "
                       "Provisória 605/2013 'teve seu prazo de vigência encerrado no dia 3 de junho do corrente ano'; the wordings "
@@ -5869,6 +5881,22 @@ if any(a["slug"] == _LPROINFA for a in ACTS):
 # those wordings (its art. 1 changes only art. 13 § 3º-I and art. 25), and Planalto prints the Lei 13.360 wordings a second time,
 # struck, before Lei 15.269's: the converted-MP rule
 CONV_RESTORE[_LPROINFA] = {"mp-1300-2025": "lei-15235-2025"}
+_C10438 = "Planalto's consolidated page (Lei 10.438 compilada) "
+B.EXPLAINED[_LPROINFA] = {
+    "preambulo": _C10438 + "misprints the ementa's 'de 26 de dezembro de 1996' as '1992002'; the annotated page reads 1996",
+    "art-04": _C10438 + "misprints 'práticas concorrenciais' as 'concorrências'; the annotated page reads 'concorrenciais'",
+    "art-06": "typesetting: 'no' / 'nº' (the ordinal sign printed as a superscript o) between the two Planalto pages",
+    "art-07": "typesetting: '1o' / '1º' (the ordinal sign printed as a superscript o) between the two Planalto pages",
+    "art-22": "typesetting: 'no' / 'nº' (the ordinal sign printed as a superscript o) between the two Planalto pages",
+    "art-13": _C10438 + "is out of date here: it lacks art. 13 § 1º-F (Lei 14.120/2021) and still prints § 1º-H (Medida "
+              "Provisória 1.078/2021, which lapsed on 22.5.2022); the annotated page has both right",
+    "art-17": _DOTTED,
+}
+B13.OPEN_ITEMS[_LPROINFA] = (
+    "Lei 10.438 (open items): the text before 29.4.2002 (Medida Provisória 14/2001, of which this Lei is the conversion) is not "
+    "part of the history; Medida Provisória 1.304/2025's art. 13-A (effects from 1.1.2026, art. 7 I) never took effect, since "
+    "its conversion, Lei 15.269/2025 (25.11.2025), does not keep it; 'Vide' pointers (Medida Provisória 144/2003, Decreto "
+    "7.583/2011) and regulations strike no words and are not modelled")
 CONV_WHY[_LPROINFA] = ("Medida Provisória 1.300/2025, converted into Lei 15.235/2025 (in force on publication, 9.10.2025), whose "
                        "art. 1 changes only art. 13 § 3º-I and art. 25 of this Lei and keeps none of the MP's wordings of art. 13 "
                        "§§ 3º-D to 3º-F (its art. 3)")

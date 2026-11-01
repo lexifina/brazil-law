@@ -4198,6 +4198,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-1340-2026",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Mpv/mpv1340.htm",
+   "ts": "20260821034230",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-1349-2026",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Mpv/mpv1349.htm",
    "ts": "20260911102622",
@@ -4225,12 +4231,6 @@
    "id": "law:mp-1382-2026",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1382.htm",
    "ts": "20260803033735",
-   "via": "wayback.py"
-  },
-  {
-   "id": "law:mp-144-2003",
-   "url": "https://www.planalto.gov.br/ccivil_03/MPV/144.htm",
-   "ts": "20040816110502",
    "via": "wayback.py"
   },
   {
@@ -4320,12 +4320,6 @@
    "id": "law:mp-1807r1-1999",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1807-1.htm",
    "ts": "20261004185055",
-   "via": "wayback.py"
-  },
-  {
-   "id": "law:mp-181-2004",
-   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Mpv/181.htm",
-   "ts": "20260712215830",
    "via": "wayback.py"
   },
   {
@@ -4478,6 +4472,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-2056-2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/2056.htm",
+   "ts": "20260510085504",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-2083-2001",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas_2001/2083-32.htm",
    "ts": "20261004121015",
@@ -4522,6 +4522,12 @@
    "id": "law:mp-2134-2001",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas_2001/2134-31.htm",
    "ts": "20260730024742",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-214-2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Mpv/214.htm",
+   "ts": "20260619162408",
    "via": "wayback.py"
   },
   {

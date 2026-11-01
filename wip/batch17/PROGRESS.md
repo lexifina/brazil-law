@@ -1732,3 +1732,14 @@ Pages pinned (`iaonly.py pages`, 6): l14300 (20261021135456), l10438 (2026100420
   futuro line; final27a-build.log: 257 acts, 3611 versions, 2607 commits, check 0/0, compare identical, audit clean; headyear same.
 - PIDs (all mine, all exited): pages 52592, nc 9152, laws 21112, missing 38564, trials 21240/22840/54492, spans 35308/31560, conv
   27524, effrep (eff-zzv.log), pipe PIDs in zzv-pipe*.out, hy 46460/12672, final 40136.
+### 99-batch17zzw - PUBLISHed: Lei 10.438/2002 (lei-do-proinfa-e-da-cde, LProinfa, 42 versions 2002-04-29 .. 2025-11-25)
+- `iaonly.py laws l10438 l10438-compilada` 9 new pins, missing 0. Atos pinned (`iaonly.py gap`): ato:apn-39-2013-mpv605,
+  ato:adc-46-2022-mpv1078, ato:adc-22-2019-mpv855, ato:ato-2019-mpv879 (Chamber rejection 20.8.2019), ato:adc-105-2020-mpv950.
+- Block '# part zzw' (end of parse_batch17, before SRC): scoped VIGENCIA_FIXED mp-1300-2025, lei-15235-2025, lei-14514-2022 (30.12.2022;
+  the reader took art. 25 I's 1.2.2023); MP_LAPSE 605, 814 (zzr text verbatim), 855, 879 (+ B5.MP_REJECTED), 950, 1.078;
+  CONV_RESTORE[_LPROINFA] + CONV_WHY (art. 13 §§ 3º-D..F); EXPLAINED (compilada misprints / out of date; typesetting; _DOTTED);
+  OPEN_ITEMS. effects_fix MOVES "99-batch17zzw.json": MP 1.304 art. 13-A -> None (never took effect).
+- Bad pins law:mp-144-2003 and law:mp-181-2004 (re-pinned by `laws` from Vide links; captures are Lei 9.427's / Lei 10.438's
+  pages) removed again; `laws` re-pins them on every run, so check headyear after each `laws` and remove them.
+- pipe.sh zzw (b27/zzw-pipe3.out): sha 1946ace3 x2, 1 move, flags benign (PUBLISH). Installed aaa39925; docs rows-zzw.json;
+  final27b-build.log: 258 acts, 3653 versions, 2620 commits, check 0/0, compare identical, audit clean. PIDs in b27 logs, all exited.

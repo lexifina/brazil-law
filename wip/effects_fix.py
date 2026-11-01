@@ -616,6 +616,13 @@ MOVES: dict[str, list] = {
          "quanto aos demais dispositivos' (DOU 25.11.2025): art. 1º-A (printed '(VETADO)') from 1.1.2027, its change to art. 2 "
          "on publication"),
     ],
+    "99-batch17zzw.json": [
+        ("lei-do-proinfa-e-da-cde", "mp-1304-2025", "2025-07-11", [("units:art-13-a", None)],
+         "Medida Provisória 1.304/2025 art. 7: 'Esta Medida Provisória entra em vigor na data de sua publicação e produz efeitos: "
+         "I - em 1º de janeiro de 2026, quanto ao art. 1º, na parte em que inclui o art. 13-A na Lei nº 10.438 [...]; e II - na "
+         "data de sua publicação, quanto aos demais dispositivos' (DOU 11.7.2025): art. 13-A never took effect, because Lei "
+         "15.269/2025, the MP's conversion (DOU 25.11.2025), does not keep it"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,
