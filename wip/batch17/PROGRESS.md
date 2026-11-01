@@ -1568,3 +1568,19 @@ accepting any 99-batch1* candidate; chk.sh <dir> <part> = pipe.sh's file checks;
   (build1.log): 248 acts, 3534 versions, 2576 commits, check 0/0, compare identical, audit clean main+futuro. PUBLISH appended to
   13f (c9a35655), 17g (d13c66db), zzq (8da0eb69). Previous files in brazil-b25/before/. README already said 30 December 2022.
 - PIDs (all mine, all exited): 31276 (base), 13140 (ctx), 45640 (new), chk PIDs in brazil-b25/pids-chk.txt, 40964 (build1).
+### Task 2 (zzr, Lei 10.848) - in progress notes
+- robots.txt read this session (archive.org: Disallow /control/ /report/; web.archive.org 404). New pins (archive.org, shared client):
+  ato:adc-30-2014-mpv641 (MP 641 'encerrado no dia 21 de julho' 2014 -> MP_LAPSE 22.7.2014), ato:adc-30-2018-mpv814 (MP 814 ended
+  1.6.2018 -> MP_LAPSE 2.6.2018), ctx:camara-lei-10848-2004-original (Chamber's original publication, ts 20260513233651).
+- GENERAL RULE (CONV_RESTORE + lifespans wrapper at the end of parse_batch17; BATCH17_CONV_REPORT=1 prints every place it finds):
+  MP wording, then a struck repeat of the wording it replaced, then a later law: MP wording ends at its conversion law's day, the
+  repeat stands from then to the later law. Checked: on part z it finds exactly the 2 hand SPAN_FIX places (same days); on zzr 5
+  places (art. 1 § 5º, § 5º II/III, art. 2 III, art. 3 caput); on part u it finds Lei 9.074 art. 15 § 7º, which the PUBLISHED
+  part u gets WRONG (MP 1.300 wording kept 9.10-25.11.2025 instead of the restored Lei 10.848 wording) -> part u added to
+  CONV_RESTORE, to be re-PUBLISHed. MP insertions (art. 1 § 5º IV, art. 2 § 8º-A, art. 3-A § 4º, art. 4 §§ 10-14, art. 4-C) already
+  end 9.10.2025 by the reader's conversion end.
+- art. 3º-D (Lei 15.269 art. 9): Planalto prints the label only; text read from Lei 15.269's page (paragraphs wrapper, page
+  l10848); effects 23.2.2026 (Lei 15.269 art. 24 II, 90 days) via new effects_fix MOVES "99-batch17zzr.json".
+- art. 2 § 6º: Planalto prints only Lei 11.943's caput; 2004 wording read from the Chamber copy, inserted struck above it.
+- EXPLAINED art-10/11/13 _DOTTED; OPEN_ITEMS[_LCEE]. Backups: brazil-b25/parse_batch17.zzr1.py, effects_fix.before.py,
+  sources_batch17.before.json.
