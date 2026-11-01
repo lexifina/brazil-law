@@ -1278,7 +1278,7 @@ def paragraphs(html, digits):
 # publication (DOU 30.12.2003) print 'efeitos'. A line of the annotated page whose words are not found in the consolidated
 # page, the original publication or the page of the act its note names, but are found there with one set of its 'efeito'
 # made 'efeitos', takes those words. Comparison on letters and digits only ('nº' and 'n o' alike).
-EFX_REFS = ("l10833-compilado", "ctx:camara-lei-10833-2003-original")
+EFX_REFS = ("l10833-compilado", "ctx:camara-lei-10833-2003-original", "law:lei-11727-2008")
 _EFX_CACHE: dict[str, str] = {}
 EFX_FIXED: list[str] = []
 EFX_OPEN: list[str] = []
@@ -3359,6 +3359,20 @@ if any(a["slug"] == _L10833 for a in ACTS):
         "pins": ["ctx:camara-lei-10833-2003-original"],
         "what": "the original publication of Lei 10.833/2003 (DOU 30.12.2003, edição extra-A), to settle which of Planalto's two "
                 "printings ('efeito' or 'efeitos') is the published word"})
+B8.SPAN_FIX += [
+    ((_L10833, "art-03", "§ 22", "§ 22.", 0), {"skip": True, "end_how": "pointer"},
+     "Lei 10.833 art. 3 § 22: both Planalto pages print a line holding only '§ 22.' and the note '(Vide Medida Provisória nº 413, "
+     "de 2008)'; it is a pointer, not a wording, and is left out"),
+    ((_L10833, "art-30", "§ 4º", "§ 4º", 0), {"skip": True, "end_how": "pointer"},
+     "Lei 10.833 art. 30 § 4º: Planalto prints a line holding only '§ 4º' and the note '(Vide Medida Provisória nº 232, 2004)'; "
+     "it is a pointer, not a wording, and is left out"),
+]
+_N10833 = "the annotated page prints 'nº' as 'n' with a raised 'o' ('no' in the text), the consolidated page as 'nº'"
+B.EXPLAINED[_L10833] = {
+    "art-02": _N10833 + "; the consolidated page also prints a stray line 'IX - n' (the start of a revoked inciso IX)",
+    "art-03": "the annotated page ends § 15 with a full stop ('desta Lei.'), the consolidated page without",
+    "art-18": _N10833, "art-62": _N10833, "art-70": _N10833, "art-77": _DOTTED,
+}
 
 P.build_act = B.build_act = build_act
 
