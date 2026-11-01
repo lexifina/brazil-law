@@ -3084,6 +3084,11 @@ if any(a["slug"] in (_L10637, _L10833) for a in ACTS):
         "2015-01-01", "art. 113: 'Esta Lei entra em vigor na data de sua publicação, exceto: [...] II - os arts. 1º a 15, 30 a 32, "
                       "97, 106 e os artigos da Seção XXI do Capítulo I, que entram em vigor a partir de 1º de janeiro de 2015' (DOU "
                       "14.11.2014): its arts. 31 (Lei 10.637 art. 8) and 32 (Lei 10.833 art. 10) fall under II")
+    P.MP_PENDING["mp-382-2007"] = (
+        "Medida Provisória nº 382, de 24.7.2007 (DOU 25.7.2007, in force on publication), revoked by Medida Provisória nº 392, "
+        "de 18.9.2007 (DOU 19.9.2007, art. 1: 'Fica revogada a Medida Provisória nº 382, de 24 de julho de 2007'), whose "
+        "conversion, Lei 11.604/2007 (DOU 6.12.2007), repeats the revocation; the wordings Medida Provisória 382 gave end on "
+        "19.9.2007")
     P.NOTE_FIX["(Incluído pela Medida Provisória nº 382, 2007)"] = (
         "(Incluído pela Medida Provisória nº 382, de 2007)", "the note reads 'Medida Provisória nº 382, 2007' (no 'de'); its link "
                                                              "is to Medida Provisória 382/2007")
