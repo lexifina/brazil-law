@@ -543,11 +543,11 @@ P.consolidated = B.consolidated = consolidated
 # (parse_proc's SAME_DAY_LAWS), not folded into it
 if any(a["slug"] == _CTB for a in ACTS):
     P.SAME_DAY_LAWS.add("lei-9602-1998")
-    B5.EXTRA_DECISIONS.append(
-        "Código de Trânsito Brasileiro: Lei nº 9.602, de 1998 (DOU 22.1.1998) is in force on its publication by its own "
-        "art. 8 ('Esta Lei entra vigor na data de sua publicação', so printed, without 'em'), the day the code itself "
-        "entered into force (art. 340: 120 days after its publication); its changes are a second version of 22.1.1998, "
-        "after the code as enacted.")
+SAME_DAY_9602 = (
+    "Código de Trânsito Brasileiro: Lei nº 9.602, de 1998 (DOU 22.1.1998) is in force on its publication by its own "
+    "art. 8 ('Esta Lei entra vigor na data de sua publicação', so printed, without 'em'), the day the code itself "
+    "entered into force (art. 340: 120 days after its publication); its changes are a second version of 22.1.1998, "
+    "after the code as enacted.")
 _inner9 = B6.PB5B._write_part5
 
 
@@ -560,6 +560,8 @@ def _inner(*a) -> int:
             B5.EXTRA_DECISIONS.append(why + ".")
     B5.EXTRA_DECISIONS.extend(x + "." for x in REPEAL_CHECK)
     B5.EXTRA_DECISIONS.extend(x + "." for x in dict.fromkeys(FOLD_USED))
+    if "lei-9602-1998" in P.SAME_DAY_LAWS:
+        B5.EXTRA_DECISIONS.append(SAME_DAY_9602)
     return _inner9(*a)
 
 
