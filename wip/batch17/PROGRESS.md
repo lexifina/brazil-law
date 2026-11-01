@@ -652,6 +652,37 @@ corpus.d/99-batch17zl.PUBLISH. All in parse_batch17.py (scoped to the act) + eff
   .tmp/cmppart.py <installed> <new> (key compare, sources[0].requests ignored), .tmp/reparse.sh <parts> (parse + effects_fix
   + compare, one at a time). pipe logs .tmp/zl-pipe1..4.out.
 
+## Fifteenth session (2026-11-01): parts zm, ...
+robots.txt read at start (web.archive.org 404; archive.org Disallows /control/ /report/ only). Fetching: archive.org only (iaonly.py
+pages/laws/missing/gap, cdxlist). Candidates chosen for thin areas (installed slugs checked first: LDB, Lei 8.142, LC 101, Lei 8.080,
+CDC, CADE, Lei 8.137, Eleições, Partidos, LC 64 are already in). Pages pinned for all of them (`iaonly.py pages`, 12): lcp141, l14113,
+l12414, l11442, lcp200, l11284, l6091, l9611, l10209, l14119, l9434, l10216 (no compilado captures for l14113/l12414). notecount:
+lcp141 7 notes (LC 209/2024, 227/2026, 234/2026); l14113 47 (14.276 32, 14.325 11, MP 1.074, 14.711, LC 227); l12414 67 (all LC
+166/2019); l11442 109 (14.206/2021 34, 14.599/2023 18, MP 1.051/2021 15, MP 1.153/2022 11, 13.103 11, 15.485/2026 9 ...); lcp200 13
+(LC 207, 211, 223); l11284 149 (14.590/2023 108, MP 1.151/2022 40); l6091 28 (Lei 7.493/1986 25); l9611 0; l10209 19 (10.561/2002,
+14.206, MP 1.051); l14119 1; l9434 36 (10.211/2001, MP 2.083-32); l10216 0.
+Plan: zm LC 141 + Fundeb (done), zn Lei 12.414 + LC 200, zo transport (11.442, 10.209, 9.611), zp forests (11.284, 14.119), zq
+6.091 / 9.434 / 10.216.
+
+## 99-batch17zm - PUBLISHed 2026-11-01 (fifteenth session)
+Lei Complementar 141/2012 (lei-do-financiamento-da-saude, 4 versions 2012-01-16 .. 2026-08-07) and Lei 14.113/2020 (lei-do-fundeb, 7
+versions 2020-12-25 .. 2026-01-14); 0 diffs, 0 problems. Laws: `iaonly.py laws` (5 new) + `missing` (0); gap pin
+ato:adc-35-2022-mpv1074.
+- Hand (`_LFUNDEB`, scoped): MP_LAPSE mp-1074-2021 22.4.2022 (wording already replaced by Lei 14.276 on 28.12.2021);
+  VIGENCIA_PROVISION (lei-14276-2021, Fundeb, art-21) = 25.3.2022 (vetoed § 9º promulgated, DOU 25.3.2022, on Lei 14.276's page) +
+  EXTRA decision (VIGENCIA_PROVISION reasons are not printed as decisions by the shared code; published zg has the same gap - wording
+  only, not changed).
+- Fundeb act dict has "center_headings": False (headings are <h4>, not centred: name lines were going into articles; firstline.py
+  caught it). paragraphs wrapper (page l14113 only): '(Transformado em § 1º pela Lei nº 14.276, de 2021)' -> '(Renumerado do
+  parágrafo único para § 1º pela ...)' and the missing space after the struck 'Parágrafo único.' (LFUNDEB_FIXED decision).
+- LC 227/2026 (DOU 14.1.2026, republished 15.1, rectified 23.1.2026): arts. 170-171 under art. 182 III (publication); dated by the
+  first publication (OPEN_ITEMS). No fixed-term clauses in either act (Fundeb art. 43 rules name financial years; kept).
+- Checks all 0 except quotecheck 5 (quoted alínea letters) and latecaput (art. 43 2020 lines, correct). Parse sha f2c001d7 (x2), after
+  effects_fix aca140cb (0 moves); zi reparsed: equal except sources. Merged 199 acts, 3273 versions, 2403 commits, check 0/0, compare
+  identical, audit clean (final15-build.log, after README rows + jurisdiction.json via rows-zm.json).
+- GOTCHA again: a shell heredoc turned r"" in Python into a control character; write such edits from a script FILE (scratch
+  zm/fixlines.py) or the Edit tool.
+
 ## 99-batch17zf - re-PUBLISHed 2026-11-01 (fourteenth session)
 _BX now includes "l9984": the generic Lei 7.689/9.249 BARE_TEXT line is no longer given to part zf. Installed file = previous
 minus that line (sha cf20e3a2); reparse equal except sources[0]. PUBLISH line appended.
