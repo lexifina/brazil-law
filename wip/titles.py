@@ -80,7 +80,7 @@ _LEAD_MORE = re.compile(
 _TAIL = re.compile(
     r"(?:\s|^)(?:N[ãa]o\s+remover|Down|Up|-->|Texto\s+atualizado|"
     r"\(\s*(?:Reda[çc][ãa]o\s+dada|Inclu[íi]d[ao])\s+pel[ao]\s+[^()]*\)|" + "|".join(f"(?:{x})" for x in LINKS) + r")[\s.;:]*$")   # links are capitalised: not re.I
-_NAV = re.compile(r"N[ãa]o\s+remover|Texto\s+(?:compilado|atualizado|para\s+impress)|-->|Up\s+Down|Down\s+Up", re.I)
+_NAV = re.compile(r"\bN[ãa]o\s+remover\b|\bTexto\s+(?:compilado|atualizado|para\s+impress)|-->|\bUp\s+Down\b|\bDown\s+Up\b", re.I)
 _REWRITTEN = re.compile(r"\(\s*Reda[çc][ãa]o\s+dada\s+pel[ao]\s", re.I)
 
 
@@ -114,7 +114,7 @@ def ementa_more(after: str) -> str:
             break
         e = e[:m.start()]
     e = " ".join(e.split())
-    e = re.sub(r"(\.)\s*\([A-ZÁÉÍÓÚÂÊÔÃÕÇ ]+\)$", r"", e)      # a nickname after the ementa: '... providências. (LEI DOS PORTOS)'
+    e = re.sub(r"(\.)\s*\([A-ZÁÉÍÓÚÂÊÔÃÕÇ ]+\)$", r"\1", e)      # a nickname after the ementa: '... providências. (LEI DOS PORTOS)'
     e = e.rstrip(" ,;:")
     if rewritten:
         s = re.search(r"\.(?=\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇ(])", e)
