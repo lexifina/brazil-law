@@ -2573,6 +2573,39 @@ P.lifespans = B.lifespans = lifespans
 _apply_rewrites17 = P.apply_rewrites
 
 
+# Lei 9.870 (part zr): Medida Provisória 2.173-24 (DOU 24.8.2001) art. 1 added art. 1 §§ 3º and 4º 'renumerando-se os atuais
+# §§ 3º e 4º para §§ 5º e 6º' and art. 2 added art. 6 § 1º 'renumerando-se os atuais §§ 1º, 2º e 3º para §§ 2º, 3º e 4º' (read
+# on the MP page), changing no words. Planalto prints only the new numbers, noted 'Renumerado'; the paragraphs stand under
+# their old numbers, with the same words, from the act's first day to 24.8.2001.
+MESC_RENUM: list[str] = []
+_MESC_RENUM = {"art-01": ("§ 2º", {"§ 5º": "§ 3º", "§ 6º": "§ 4º"}),
+               "art-06": ("Art. 6º", {"§ 2º": "§ 1º", "§ 3º": "§ 2º", "§ 4º": "§ 3º"})}
+
+
+def mesc_renum(paras, act):
+    if act["slug"] != "lei-das-mensalidades-escolares":
+        return
+    day, law = "2001-08-24", "mp-2173-2001"
+    act_day = B.ACT_DAY[act["law"]][0]
+    for unit, (after, olds) in _MESC_RENUM.items():
+        at = next((i for i, p in enumerate(paras) if p["unit"] == unit and p["label"] == after and not p["heading"]), None)
+        if at is None:
+            continue
+        copies = []
+        for p in paras:
+            if (p["unit"] != unit or p["label"] not in olds or p.get("skip")
+                    or not any("Renumerado pela Medida Provisória nº 2.173-24" in n for n in p["notes"])):
+                continue
+            old = olds[p["label"]]
+            copies.append(dict(p, label=old, text=old + p["text"][len(p["label"]):], gaps=[], start=act_day, start_law=None,
+                               end=day, end_law=law, end_how="renumbered",
+                               notes=[n for n in p["notes"] if "Renumerado" not in n]))
+            MESC_RENUM.append(f"art. {int(unit[4:])} {old} -> {p['label']}")
+        paras[at + 1:at + 1] = copies
+    for i, p in enumerate(paras):
+        p["i"] = i
+
+
 def apply_rewrites(paras, act, eff, problems):
     out = _apply_rewrites17(paras, act, eff, problems)
     renum_articles(paras, act)
@@ -2585,6 +2618,7 @@ def apply_rewrites(paras, act, eff, problems):
     ana_437(paras, act)
     lrc_renum(paras, act)
     prom_14119(paras, act)
+    mesc_renum(paras, act)
     return out
 
 
@@ -2706,6 +2740,12 @@ def _inner(*a):
                    "a VII' and changed no words; Planalto prints only the incisos, noted 'Renumerado pela Lei nº 12.246, de 2010'. "
                    "The alíneas stand under their letters, with the same words, from 10.12.1965 to 28.5.2010 ("
                    + ", ".join(dict.fromkeys(LRC_RENUM)) + ").")
+    if MESC_RENUM:
+        dec.append("Lei 9.870: Medida Provisória 2.173-24/2001 (DOU 24.8.2001) arts. 1 and 2 added art. 1 §§ 3º-4º and art. 6 § 1º "
+                   "and renumbered the paragraphs after them ('renumerando-se os atuais §§ 3º e 4º para §§ 5º e 6º'; 'os atuais "
+                   "§§ 1º, 2º e 3º para §§ 2º, 3º e 4º'), changing no words; Planalto prints only the new numbers, noted "
+                   "'Renumerado'. The paragraphs stand under their old numbers, with the same words, from 24.11.1999 to 24.8.2001 ("
+                   + ", ".join(dict.fromkeys(MESC_RENUM)) + ").")
     if LRC_RENUM92:
         dec.append("Lei 4.886: Lei 8.420/1992 (DOU 11.5.1992) art. 2 added articles 'que passarão a ter os números 41, 42, 43, 44, "
                    "45, 46 e 47'; the 1965 arts. 42 and 43 (in-force and revocation clauses; the Chamber's copy of the original "
@@ -3890,6 +3930,44 @@ B13.OPEN_ITEMS[_LFUNDEB] = (
     "they set no term of their own and stay in the text as Planalto prints them. Medida Provisória 1.074/2021's wording of art. "
     "41 § 3º I stood from 12.11.2021 until Lei 14.276/2021 replaced it on 28.12.2021 (the MP lapsed on 21.4.2022). The "
     "regulation ('Regulamento' link) is not modelled")
+
+# part zr: Leis 6.996/1982 (processamento eletrônico eleitoral), 9.870/1999 (mensalidades escolares)
+_LPEE, _LMESC = "lei-do-processamento-eletronico-eleitoral", "lei-das-mensalidades-escolares"
+if any(a["slug"] == _LPEE for a in ACTS):
+    B8.LAW_FIELD_FIX["lei-7663-1988"] = (
+        {"enacted": "1988-05-27"},
+        "Lei 7.663/1988: Planalto's page heads it 'DE 27 DE JUNHO DE 1988', but it closes 'Brasília, 27 de maio de 1988' and was "
+        "published in the DOU of 31.5.1988: enacted 27.5.1988 (its in-force day, the day of publication, is unchanged)")
+    B8.LAW_FIELD_FIX["lei-7444-1985"] = (
+        {"title": "Dispõe sobre a implantarão do processamento eletrônico de dados no alistamento eleitoral e a revisão do "
+                  "eleitorado e dá outras providências"},
+        "Lei 7.444/1985: its ementa ends without a full stop, so the title reader found none; the title is the ementa as printed")
+_W16PEE = ("Lei 6.996 art. 16: Lei 9.096/1995 (DOU 20.9.1995, in force on publication) art. 63 revokes 'o art. 16 da Lei nº 6.996, "
+           "de 7 de junho de 1982', the whole article; Planalto strikes only its caput and prints §§ 1º and 2º unstruck. The law's "
+           "text governs: §§ 1º and 2º end on 20.9.1995 with the caput")
+B8.SPAN_FIX += [
+    ((_LPEE, "art-16", "§ 1º", "§ 1º - Deferida a filiação", 0),
+     {"end": "1995-09-20", "end_law": "lei-9096-1995", "end_how": "repealed"}, _W16PEE),
+    ((_LPEE, "art-16", "§ 2º", "§ 2º - Estando em vigor a inscrição", 0),
+     {"end": "1995-09-20", "end_law": "lei-9096-1995", "end_how": "repealed"}, _W16PEE),
+]
+B.EXPLAINED[_LPEE] = {"art-16": "Planalto prints art. 16 §§ 1º and 2º unstruck, though Lei 9.096/1995 art. 63 revoked the whole "
+                                "article; the law's text governs and they end on 20.9.1995"}
+B13.OPEN_ITEMS[_LPEE] = (
+    "Lei 6.996 (open items): Lei 7.444/1985 art. 12 revokes art. 2 § 2º, citing 'Lei nº 6.996, de 7 de junho de 1932' (a slip "
+    "for 1982; the page notes it); Lei 7.663/1988 art. 5 revokes art. 9 (caput, parágrafo único and its incisos), which art. 17 "
+    "still names ('o parágrafo único do art. 9º'): art. 17 keeps its words as Planalto prints them")
+if any(a["slug"] == _LMESC for a in ACTS):
+    P.MP_PENDING["mp-2173-2001"] = (
+        "Medida Provisória nº 2.173-24, de 23.8.2001 (DOU 24.8.2001, art. 4: in force on publication), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2; it added Lei 9.870 art. 1 §§ 3º and 4º and art. 6 § 1º and renumbered the paragraphs "
+        "after them. Planalto's notes name this edition only, so the changes are dated by its publication; earlier editions of "
+        "the chain are not modelled")
+B13.OPEN_ITEMS[_LMESC] = (
+    "Lei 9.870 (open items): the Lei converted Medida Provisória 1.890-67/1999 (its art. 10 keeps the acts done under 1.890-66 "
+    "and the earlier editions in effect); the MP chain before the Lei is not part of the history (the record starts with the "
+    "Lei, 24.11.1999). The changes Medida Provisória 1.930/1999 and its editions made before 2.173-24 are not modelled: "
+    "Planalto prints them only as 'Vide' pointers. Regulations ('Regulamento' links) are not modelled")
 
 P.build_act = B.build_act = build_act
 
