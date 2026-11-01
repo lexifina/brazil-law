@@ -791,6 +791,17 @@
   "restores": null,
   "note": null
  },
+ "mp-1160-2023-fim": {
+  "label": "Medida Provisória nº 1.160, de 2023: vigência encerrada",
+  "title": "Medida Provisória nº 1.160, de 2023 lost effect without conversion into law",
+  "kind": "law",
+  "enacted": "2023-06-02",
+  "published": "2023-06-02",
+  "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Mpv/mpv1160.htm",
+  "temporary_until": null,
+  "restores": "mp-1160-2023",
+  "note": "Medida Provisória nº 1.160, de 2023 lost effect on 2023-06-02 without being converted into law (Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 41, de 2023 (DOU 16.6.2023): 'teve seu prazo de vigência encerrado no dia 1º de junho de 2023'); the wording it had replaced is in force again."
+ },
  "mp-478-2009-fim": {
   "label": "Medida Provisória nº 478, de 2009: vigência encerrada",
   "title": "Medida Provisória nº 478, de 2009 lost effect without conversion into law",

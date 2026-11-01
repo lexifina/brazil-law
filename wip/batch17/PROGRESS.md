@@ -2215,3 +2215,13 @@ Disallow /control/ /report/; web.archive.org 404; b34/robots).
   dupsame 0, uniqlaws 0. Installed 33c8a08b; README row + jurisdiction.json (283 acts, 3827 versions). Final merged build
   (b34/logs/zzzn-final-build.log): 283 acts, 3827 versions, 2704 commits, check 0/0, compare identical, audit clean.
   PIDs: pages 48340, laws 47852, missing 28156, pipe PIDs in zzzn-pipe1.out, final 49336 (all exited).
+### 99-batch17zzzo - PUBLISHed: Lei 14.063/2020 (lei-das-assinaturas-eletronicas, LAssE, 3 versions 2020-09-24, 2023-02-15, 2023-07-14)
+- Pin `iaonly.py pages l14063`; `laws` 2 links, 0 new; act-scoped `missing` 0. ACT_DAY 24.9.2020 (art. 20); ACT_LAWS = 13d's
+  record. Block '# part zzzo': B8.NAV_LINES l14063 (Não remover/Down/Up/Texto para impressão), paragraphs wrapper (names of
+  Capítulos/Seções not centred: rubric or unlabelled line right after a heading -> heading name hN-(M+1); Capítulo II's
+  name had been the last line of art. 1) + EXTRA decision, OPEN_ITEMS (MP 983 not modelled).
+- pipe.sh zzzo (b34/logs/zzzo-pipe2.out): sha 6ee79c97 x2, all 0 except leakcheck 3 (Lei 5.991 art. 35 '(revogada)' alíneas
+  quoted in art. 15) and quotecheck (quoted amendments); conv 0. Installed; README row + jurisdiction.json (284 acts, 3830
+  versions). Final merged build (b34/logs/zzzo-final-build.log): 284 acts, 3830 versions, 2705 commits, check 0/0,
+  compare identical, audit clean. PIDs: pages 42592, laws 33928, missing 48228, trials 47272/30520/50336/11896/46448,
+  paras 53216/44624, pipe PIDs in zzzo-pipe*.out, conv 54512, final 33056 (all exited).

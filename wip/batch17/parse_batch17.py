@@ -269,6 +269,7 @@ PAGES.update({
     "l11952-compilado": "_ato2007-2010/2009/lei/l11952complilado.htm",
     "l13966": "_ato2019-2022/2019/lei/l13966.htm",
     "l14063": "_ato2019-2022/2020/lei/l14063.htm",
+    "l13988": "_ato2019-2022/2020/lei/l13988.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -623,6 +624,8 @@ ALL_ACTS: list[dict] = [
          "Sistema de franquia empresarial (Lei nº 13.966, de 26 de dezembro de 2019)", 2),
     _act("lei-das-assinaturas-eletronicas", "LAssE", "l14063", "l14063", "lei-14063-2020",
          "Assinaturas eletrônicas em interações com entes públicos (Lei nº 14.063, de 23 de setembro de 2020)", 2),
+    _act("lei-da-transacao-tributaria", "LTransT", "l13988", "l13988", "lei-13988-2020",
+         "Transação resolutiva de litígio tributário e da dívida ativa (Lei nº 13.988, de 14 de abril de 2020)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -737,6 +740,7 @@ PARTS: dict[str, list[str]] = {
     "zzzm": ["lei-da-regularizacao-fundiaria-na-amazonia-legal"],
     "zzzn": ["lei-de-franquia"],
     "zzzo": ["lei-das-assinaturas-eletronicas"],
+    "zzzp": ["lei-da-transacao-tributaria"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1023,6 +1027,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-13089-2015": ("2015-01-13", "Lei 13.089/2015 art. 25: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
                                      "13.1.2015)"),
     "lei-11952-2009": ("2009-06-26", f"Lei 11.952/2009 art. 41: {_PUB} (DOU 26.6.2009)"),
+    "lei-13988-2020": ("2020-04-14", "Lei 13.988/2020 art. 30: 'Esta Lei entra em vigor: I - em 120 (cento e vinte) dias "
+                                     "contados da data da sua publicação, em relação ao inciso I do caput e ao parágrafo único do "
+                                     "art. 23; e II - na data de sua publicação, em relação aos demais dispositivos' (DOU 14.4.2020, "
+                                     "edição extra)"),
     "lei-14063-2020": ("2020-09-24", f"Lei 14.063/2020 art. 20: {_PUB} (DOU 24.9.2020)"),
     "lei-13966-2019": ("2020-03-26", "Lei 13.966/2019 art. 10: 'Esta Lei entra em vigor após decorridos 90 (noventa) dias de "
                                      "sua publicação oficial' (DOU 27.12.2019)"),
@@ -1592,6 +1600,10 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "situadas em áreas da União, no âmbito da Amazônia Legal; altera as Leis n os 8.666, de 21 de junho de "
                          "1993, e 6.015, de 31 de dezembro de 1973; e dá outras providências.", "2009-06-25", "2009-06-26",
                          "_Ato2007-2010/2009/Lei/L11952.htm"),
+    # the record 99-batch17q has
+    "lei-13988-2020": _L("Lei nº 13.988, de 2020", "Dispõe sobre a transação nas hipóteses que especifica; e altera as Leis n os "
+                         "13.464, de 10 de julho de 2017, e 10.522, de 19 de julho de 2002.", "2020-04-14", "2020-04-14",
+                         "_Ato2019-2022/2020/Lei/L13988.htm"),
     # the record 99-batch13d has
     "lei-14063-2020": _L("Lei nº 14.063, de 2020", "Dispõe sobre o uso de assinaturas eletrônicas em interações com entes "
                          "públicos, em atos de pessoas jurídicas e em questões de saúde e sobre as licenças de softwares "
@@ -6896,7 +6908,7 @@ _LASSE = "lei-das-assinaturas-eletronicas"
 B8.NAV_LINES["l14063"] = {"Não remover", "Down", "Up", "Texto para impressão", "Texto atualizado", "Texto compilado",
                           "Texto atualizado Texto compilado"}
 LASSE_HEADS: list[str] = []
-if any(a["slug"] == _LASSE for a in ACTS):
+if any(a["slug"] in (_LASSE, "lei-da-transacao-tributaria") for a in ACTS):
     _paragraphsLASSE = P.paragraphs
 
     def _paragraphs_lasse(html, digits):
@@ -6905,7 +6917,7 @@ if any(a["slug"] == _LASSE for a in ACTS):
         II's name for a last line of art. 1. A rubric or unlabelled line with no note right after a heading line is read as
         that heading's name, as on the other pages"""
         out, rest = _paragraphsLASSE(html, digits)
-        if B8.CURRENT_PAGE[0] == "l14063":
+        if B8.CURRENT_PAGE[0] in ("l14063", "l13988"):
             for k, q in enumerate(out):
                 prev = out[k - 1] if k else None
                 if (q["label"] in ("rubrica", "") and not q["heading"] and not q["notes"] and prev and prev["heading"]
@@ -6914,10 +6926,12 @@ if any(a["slug"] == _LASSE for a in ACTS):
                     q["unit"], q["label"], q["heading"] = "titulos", f"{g}-{int(n) + 1}", True
                     if q["text"] not in LASSE_HEADS:
                         LASSE_HEADS.append(q["text"])
-            if LASSE_HEADS and not any(x.startswith("Lei 14.063: the names of the Capítulos") for x in EXTRA):
-                EXTRA.append("Lei 14.063: the names of the Capítulos and Seções, which Planalto prints right after "
+            _law = "Lei 14.063" if B8.CURRENT_PAGE[0] == "l14063" else "Lei 13.988"
+            if LASSE_HEADS and not any(x.startswith(f"{_law}: the names of the Capítulos") for x in EXTRA):
+                EXTRA.append(f"{_law}: the names of the Capítulos and Seções, which Planalto prints right after "
                              "their heading lines without centring them, are read as the headings' names, not as the rubrics "
-                             "of the next articles (Capítulo II's name not as a last line of art. 1): "
+                             "of the next articles"
+                             + (" (Capítulo II's name not as a last line of art. 1)" if _law == "Lei 14.063" else "") + ": "
                              + "; ".join(f"'{x}'" for x in LASSE_HEADS))
         return out, rest
 
@@ -6926,6 +6940,31 @@ B13.OPEN_ITEMS[_LASSE] = (
     "Lei 14.063 (open items): it is the conversion of Medida Provisória 983/2020, whose text is not modelled (the history "
     "starts with the Lei, in force on publication, 24.9.2020); the page's navigation links ('Não remover', 'Down', 'Up', "
     "'Texto para impressão') are left out")
+
+# part zzzp (thirty-fourth session): Lei 13.988/2020 (transação tributária). Hand items set only when the act runs.
+_LTRANST = "lei-da-transacao-tributaria"
+B8.NAV_LINES["l13988"] = {"Não remover", "Down", "Up", "Texto para impressão", "Texto atualizado", "Texto compilado",
+                          "Texto atualizado Texto compilado"}
+_W23_120 = ("Lei 13.988 art. 23 I and parágrafo único: art. 30 I puts them in force 'em 120 (cento e vinte) dias contados da data "
+            "da sua publicação' (DOU 14.4.2020, edição extra; Planalto marks both lines '(Vigência)'): they stand from "
+            "12.8.2020, credited to Lei 13.988 itself, the rest of the Lei from its publication (art. 30 II)")
+B8.SPAN_FIX += [
+    ((_LTRANST, "art-23", "I -", "I - o contencioso administrativo fiscal de pequeno valor", 0),
+     {"start": "2020-08-12", "start_law": "lei-13988-2020", "by_provision": True}, _W23_120),
+    ((_LTRANST, "art-23", "Parágrafo único", "Parágrafo único. No contencioso administrativo de pequeno valor", 0),
+     {"start": "2020-08-12", "start_law": "lei-13988-2020", "by_provision": True}, _W23_120),
+]
+if any(a["slug"] == _LTRANST for a in ACTS):
+    P.MP_LAPSE["mp-1160-2023"] = (
+        "2023-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 41, de 2023 (DOU 16.6.2023): 'teve seu "
+                      "prazo de vigência encerrado no dia 1º de junho de 2023'")
+    EXTRA.append("Lei 13.988 art. 27-B (Medida Provisória 1.160/2023, DOU 12.1.2023): Planalto strikes only the label 'Art. 27-B.' "
+                 "and notes 'Vigência encerrada'; the MP lapsed (Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 41, "
+                 "de 2023: in force to 1.6.2023), so the article stands from 12.1.2023 to 2.6.2023.")
+B13.OPEN_ITEMS[_LTRANST] = (
+    "Lei 13.988 (open items): it is the conversion of Medida Provisória 899/2019, whose text is not modelled (the history "
+    "starts with the Lei, in force on publication, 14.4.2020, except art. 23 I and parágrafo único, from 12.8.2020); 'Vide "
+    "Lei Complementar nº 214, de 2025' strikes no words and is not modelled; the page's navigation links are left out")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
