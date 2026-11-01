@@ -2180,3 +2180,31 @@ OPEN: CLT art. 538 § 3º (unchanged); DL 5.922/1943 in 70-clt dated enactment +
 DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once
 archive.org has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026
 congresso) once archived -> MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.
+
+## Thirty-fourth session (2026-11-01): ranked list from Lei 11.952/2009, one act per part (zzzm, zzzn, ...)
+Claim: scripts/world-law/claims/brazil-law.txt taken at the start (release at the end). Scratch: .gitlaw-scratch/brazil-b34
+(before/ = parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json, dupsame_allow.json, README,
+jurisdiction.json, corpus.d/99-batch9.* before the session; logs/; tools/sp.py (compact spansj dump), tools/dupl.py (per
+version: repeated paragraph/inciso/alínea labels under one parent, repeated lines)). robots.txt read at start (archive.org:
+Disallow /control/ /report/; web.archive.org 404; b34/robots).
+### 99-batch17zzzm - PUBLISHed: Lei 11.952/2009 (lei-da-regularizacao-fundiaria-na-amazonia-legal, LRFAL, 9 versions 2009-06-26 .. 2023-12-20)
+- Pins (`iaonly.py pages l11952 l11952-compilado`, archive.org: 20261015114123 / 20260310100823; Planalto's consolidated page
+  is spelt 'l11952complilado.htm'); `laws` 0 new; act-scoped `missing` (BATCH17_PART=zzzm BATCH17_ACTS=...) 0.
+- Config: PAGES l11952 (+ -compilado), act, PARTS zzzm, ACT_DAY 26.6.2009 (art. 41 on publication), ACT_LAWS lei-11952-2009 =
+  new law_records.json entry (99-batch9's record had MP 910's struck ementa joined to the title; 99-batch9 re-recorded by
+  lawrecords.py, one field, re-PUBLISHed). Block '# part zzzm': SPAN_FIX _W5_910 (art. 5 IV/V and § 1º + I-IV printed again
+  after MP 910's struck lines: first copies end 11.12.2019, second from 20.5.2020), _W5_759 (2009 § 1º ends 23.12.2016; MP
+  759's parágrafo único 23.12.2016-12.7.2017), _W30_759 (art. 30: MP 759 caput only, '(NR)' with no dotted line -> 2009
+  incisos/alíneas/§§ end 23.12.2016; inciso I had been skipped), _W19_910 (art. 19 second struck copy skipped; MP 910 had
+  caput + § 1º with no dotted line between -> I-II absent during the MP; I, II, § 1º back 20.5.2020), art. 1 p.u. second
+  copy from 20.5.2020 (MP 910 art. 1 caput only) + EXTRA decision; EXPLAINED art-01 (compilado leaves out art. 1 p.u.),
+  art-39 (_DOTTED); OPEN_ITEMS (MP 458 text not modelled; the no-dotted-line reading is a judgement call, LC 95 art. 12
+  III; Vide ADIN 4.269).
+- pipe.sh zzzm (b34/logs/zzzm-pipe3.out): sha 85a98b9e x2, 0 problems, 0 moves, dupline/dupcheck/firstline/pubgap/missorig 0,
+  overlap 0, leakcheck 14 = Lei 13.465's '(Revogado)' wordings, ordercheck 1 = art. 18 p.u. '(Revogado)' before §§ as
+  printed, quotecheck = arts. 39/40 quoted amendments, latecaput reviewed (all as intended), dupsame 0, uniqlaws 0 (after
+  99-batch9 re-record); conv_report no case. Installed 85a98b9e; README row + jurisdiction.json (282 acts, 3826 versions).
+  Final merged build (b34/logs/zzzm-final-build.log): 282 acts, 3826 versions, 2703 commits, check 0/0, --compare
+  identical, audit clean main + futuro; dupsame (zzzm + 9) 0 / 14 allowlisted.
+- PIDs (all mine, all exited): pages 40876, laws 45640, missing 28300, trials 53912/47832/39608/51804, spans 3596, lawtxt
+  runs (txt/txtc/mp910/mp759 logs), pipe runs (PIDs in zzzm-pipe*.out), ov3 34988, conv 31428, final 47844, dupsame 52104.

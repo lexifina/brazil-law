@@ -267,6 +267,7 @@ PAGES.update({
     # thirty-fourth session: land regularisation in the Amazônia Legal (Planalto names the consolidated page 'complilado')
     "l11952": "_ato2007-2010/2009/lei/l11952.htm",
     "l11952-compilado": "_ato2007-2010/2009/lei/l11952complilado.htm",
+    "l13966": "_ato2019-2022/2019/lei/l13966.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -617,6 +618,8 @@ ALL_ACTS: list[dict] = [
     # thirty-fourth session
     _act("lei-da-regularizacao-fundiaria-na-amazonia-legal", "LRFAL", "l11952", "l11952-compilado", "lei-11952-2009",
          "Regularização fundiária das ocupações em terras da União na Amazônia Legal (Lei nº 11.952, de 25 de junho de 2009)", 2),
+    _act("lei-de-franquia", "LFranq", "l13966", "l13966", "lei-13966-2019",
+         "Sistema de franquia empresarial (Lei nº 13.966, de 26 de dezembro de 2019)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -729,6 +732,7 @@ PARTS: dict[str, list[str]] = {
     "zzzl": ["lei-do-imposto-territorial-rural"],
     # thirty-fourth session
     "zzzm": ["lei-da-regularizacao-fundiaria-na-amazonia-legal"],
+    "zzzn": ["lei-de-franquia"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1015,6 +1019,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-13089-2015": ("2015-01-13", "Lei 13.089/2015 art. 25: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
                                      "13.1.2015)"),
     "lei-11952-2009": ("2009-06-26", f"Lei 11.952/2009 art. 41: {_PUB} (DOU 26.6.2009)"),
+    "lei-13966-2019": ("2020-03-26", "Lei 13.966/2019 art. 10: 'Esta Lei entra em vigor após decorridos 90 (noventa) dias de "
+                                     "sua publicação oficial' (DOU 27.12.2019)"),
     "lei-4132-1962": ("1962-12-22", "Lei 4.132/1962 has no vigência clause (art. 6 only revokes contrary provisions): Lei de "
                                     "Introdução (Decreto-Lei 4.657/1942) art. 1, 45 days after its publication (DOU 7.11.1962), "
                                     "22.12.1962"),
@@ -1581,6 +1587,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "situadas em áreas da União, no âmbito da Amazônia Legal; altera as Leis n os 8.666, de 21 de junho de "
                          "1993, e 6.015, de 31 de dezembro de 1973; e dá outras providências.", "2009-06-25", "2009-06-26",
                          "_Ato2007-2010/2009/Lei/L11952.htm"),
+    "lei-13966-2019": _L("Lei nº 13.966, de 2019", "Dispõe sobre o sistema de franquia empresarial e revoga a Lei nº 8.955, de 15 "
+                         "de dezembro de 1994 (Lei de Franquia).", "2019-12-26", "2019-12-27", PAGES["l13966"]),
     # the record 99-batch7 has
     "lei-13089-2015": _L("Lei nº 13.089, de 2015", "Institui o Estatuto da Metrópole, altera a Lei nº 10.257, de 10 de julho "
                          "de 2001, e dá outras providências.", "2015-01-12", "2015-01-13", "_Ato2015-2018/2015/Lei/L13089.htm"),
