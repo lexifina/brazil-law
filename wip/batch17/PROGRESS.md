@@ -1188,3 +1188,20 @@ the shared client (iaonly.py, pinat.py, cdxlist.py). Scratch for reads: .gitlaw-
 - pipe.sh zs (t20-zs-pipe.out): parse x2 sha 0acc6bbf, 0 moves, checks as before; merged 221 acts, 3370 versions, 2462 commits,
   check 0/0, compare identical, audit clean; headyear clean (t20-hy.log). Installed; docs.py rows-zs.json (5 versions) +
   jurisdiction.json build text (gap named, '(3)' -> '(5)'). PUBLISH appended.
+
+### 99-batch17zx - PUBLISHed 2026-11-01 (twentieth session)
+Lei 7.802/1989 (lei-dos-agrotoxicos-de-1989, short LAgro), 3 versions 1989-07-12 .. 2023-12-28. Page id l7802-2023 = archive.org
+capture 20231218091920 (pinat.py). Lei 14.785/2023 pinned as page l14785 (capture 20261004152908; also the next candidate act).
+- B9.REPEALS 2023-12-28 credited lei-14785-2023 (B8.EXTRA_LAWS entry, ementa as title); OPEN_ITEMS (regulations).
+- SPAN_FIX keep: art-07 § 2º II d) (stale_fix twin rule skipped it; found with .tmp/dbg8.py, which prints a stack trace where a
+  line gets skip=True). Lei 9.974 art. 7 vetoed -> LINDB 22.7.2000.
+- Part sha 2597bf51 (0 moves); merged 222 acts, 3373 versions, 2465 commits, check 0/0, compare identical, audit clean
+  (zx-build.log); installed; docs.py rows-zx.json + jurisdiction build text (2023 repeals list).
+- Pinned for the next parts: l11947 (20261024010406), l10820 (20261004162912), l9612 (20261021095939); PAGES entries added.
+  NOTE: lawtxt.py with an empty needle prints the page at every position (a 3.4 GB log was written and deleted): omit the needle.
+
+### Part zy (in progress): Lei 9.612/1998 (lei-da-radiodifusao-comunitaria, LRC), Lei 11.947/2009 (lei-da-alimentacao-escolar, PNAE)
+- iaonly laws: 13 pinned, missing 0. Hand (block `_LRC, _LPNAE`): MP_PENDING mp-2143-2001 (2.143-32 -> 2.216-37 chain);
+  VIGENCIA_FIXED lei-15255-2025 = 1.1.2026 (first financial year after DOU 11.11.2025); SPAN_FIX _W14734: Lei 14.734/2023 (LINDB
+  7.1.2024) vetoed art. 17 XI + a)-i) and art. 20 IV, promulgated DOU 22.5.2024: '(VETADO)' lines 7.1.2024-22.5.2024, words from
+  22.5.2024. OPEN_ITEMS (ADI 2566 'Vide' only; Lei 14.734 art. 2; MP 455 text before conversion).

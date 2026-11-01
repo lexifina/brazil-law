@@ -184,6 +184,9 @@ PAGES.update({
     # parts zx, ... (twentieth session)
     "l7802-2023": "leis/l7802.htm",   # capture of 18.12.2023, before Lei 14.785/2023 repealed it
     "l14785": "_ato2023-2026/2023/lei/l14785.htm",
+    "l11947": "_ato2007-2010/2009/lei/l11947.htm",
+    "l10820": "leis/2003/l10.820.htm",
+    "l9612": "leis/l9612.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -391,6 +394,10 @@ ALL_ACTS: list[dict] = [
          "Lei de Proteção de Cultivares (Lei nº 9.456, de 25 de abril de 1997)", 2),
     _act("lei-dos-agrotoxicos-de-1989", "LAgro", "l7802-2023", "l7802-2023", "lei-7802-1989",
          "Lei dos Agrotóxicos (Lei nº 7.802, de 11 de julho de 1989)", 2),
+    _act("lei-da-radiodifusao-comunitaria", "LRC", "l9612", "l9612", "lei-9612-1998",
+         "Serviço de Radiodifusão Comunitária (Lei nº 9.612, de 19 de fevereiro de 1998)", 2),
+    _act("lei-da-alimentacao-escolar", "PNAE", "l11947", "l11947", "lei-11947-2009",
+         "Alimentação escolar e Programa Dinheiro Direto na Escola (Lei nº 11.947, de 16 de junho de 2009)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -449,6 +456,7 @@ PARTS: dict[str, list[str]] = {
     "zv": ["lei-da-pessoa-com-deficiencia-de-1989", "lei-de-protecao-a-testemunhas", "lei-do-sinaes"],
     "zw": ["lei-de-inovacao", "lei-de-protecao-de-cultivares"],
     "zx": ["lei-dos-agrotoxicos-de-1989"],
+    "zy": ["lei-da-radiodifusao-comunitaria", "lei-da-alimentacao-escolar"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -621,6 +629,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                     "publication gives it; Planalto's page misprints '8.4.1997', before the Lei's own date; "
                                     "rectified 26.8.1997 and 25.9.1997)"),
     "lei-7802-1989": ("1989-07-12", f"Lei 7.802/1989 art. 22: {_PUB} (DOU 12.7.1989)"),
+    "lei-9612-1998": ("1998-02-20", f"Lei 9.612/1998 art. 26: {_PUB} (DOU 20.2.1998)"),
+    "lei-11947-2009": ("2009-06-17", f"Lei 11.947/2009 art. 35: {_PUB} (DOU 17.6.2009)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -941,6 +951,13 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         "exportação, o destino final dos resíduos e embalagens, o registro, a classificação, o controle, a inspeção "
                         "e a fiscalização de agrotóxicos, seus componentes e afins, e dá outras providências.", "1989-07-11",
                         "1989-07-12", PAGES["l7802-2023"]),
+    "lei-9612-1998": _L("Lei nº 9.612, de 1998", "Institui o Serviço de Radiodifusão Comunitária e dá outras providências.",
+                        "1998-02-19", "1998-02-20", PAGES["l9612"]),
+    "lei-11947-2009": _L("Lei nº 11.947, de 2009", "Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro "
+                         "Direto na Escola aos alunos da educação básica; altera as Leis nºs 10.880, de 9 de junho de 2004, 11.273, "
+                         "de 6 de fevereiro de 2006, 11.507, de 20 de julho de 2007; revoga dispositivos da Medida Provisória nº "
+                         "2.178-36, de 24 de agosto de 2001, e a Lei nº 8.913, de 12 de julho de 1994; e dá outras providências.",
+                         "2009-06-16", "2009-06-17", PAGES["l11947"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -4392,6 +4409,49 @@ if any(a["slug"] == _LAGRO for a in ACTS):
         "version, on 28.12.2023, removes every provision, credited to Lei 14.785/2023 (its art. 64 validates the acts done under "
         "Lei 7.802). After the repeal Planalto strikes the whole page, so the page is read from a capture of 18.12.2023, before "
         "the repeal, and the history up to 27.12.2023 is checked against that capture's text")
+# part zy: Leis 9.612/1998 (radiodifusão comunitária), 11.947/2009 (alimentação escolar)
+_LRC, _LPNAE = "lei-da-radiodifusao-comunitaria", "lei-da-alimentacao-escolar"
+if any(a["slug"] in (_LRC, _LPNAE) for a in ACTS):
+    P.MP_PENDING["mp-2143-2001"] = (
+        "Medida Provisória nº 2.143-32, de 2.5.2001 (DOU 3.5.2001, in force on publication), an edition of the chain that "
+        "Medida Provisória nº 2.216-37, de 31.8.2001 (same ementa, the numbering continued) closed; its wording of Lei 9.612 "
+        "art. 2 is dated by its publication and ends with 2.216-37's wording (DOU 1.9.2001), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2. Planalto's notes name these two editions only; the editions between are not modelled")
+    P.VIGENCIA_FIXED["lei-15255-2025"] = (
+        "2026-01-01", "art. 3: 'Esta Lei entra em vigor no primeiro exercício financeiro subsequente ao de sua publicação "
+                      "oficial' (DOU 11.11.2025): the financial year 2026, from 1.1.2026")
+_W14734 = ("Lei 11.947 art. 17 XI (with alíneas a) to i)) and art. 20 IV: added by Lei 14.734/2023 (DOU 23.11.2023, edição extra; "
+           "no vigência clause, so in force 45 days later, on 7.1.2024) but vetoed ('XI - (VETADO).', 'IV - (VETADO).'); "
+           "Congress overrode the veto and the parts were promulgated on 21.5.2024 (DOU 22.5.2024, printed on Lei 14.734's "
+           "page, '(Promulgação partes vetadas)'). The '(VETADO)' lines stand from 7.1.2024 to 22.5.2024 (Planalto prints "
+           "them struck with no note, read at first as the 2009 text), the promulgated words from 22.5.2024, credited to Lei "
+           "14.734, as for Lei 9.427 art. 26 § 12 in part z")
+_V14734 = {"start": "2024-01-07", "start_law": "lei-14734-2023", "end": "2024-05-22", "end_law": "lei-14734-2023",
+           "end_how": "promulgation"}
+_P14734 = {"start": "2024-05-22", "start_law": "lei-14734-2023", "promulgated": True}
+B8.SPAN_FIX += [
+    ((_LPNAE, "art-17", "XI -", "XI - (VETADO", 0), dict(_V14734), _W14734),
+    ((_LPNAE, "art-17", "XI -", "XI - complementar, por meio de lei local", 0), dict(_P14734), _W14734),
+    *[((_LPNAE, "art-17", f"{x})", f"{x}) {w}", 0), dict(_P14734), _W14734) for x, w in (
+        ("a", "objetivos;"), ("b", "beneficiários;"), ("c", "forma de gestão;"), ("d", "ações de educação alimentar"),
+        ("e", "procedimentos de aquisição"), ("f", "estrutura e funcionamento do CAE"), ("g", "procedimentos de execução"),
+        ("h", "prestação de contas"), ("i", "monitoramento, avaliação"))],
+    ((_LPNAE, "art-20", "IV -", "IV - (VETADO", 0), dict(_V14734), _W14734),
+    ((_LPNAE, "art-20", "IV -", "IV - não implementarem o disposto no inciso XI", 0), dict(_P14734), _W14734),
+]
+B13.OPEN_ITEMS[_LRC] = (
+    "Lei 9.612 (open items): Planalto prints 'Vide ADIN Nº 2566' beside art. 4 § 1º and leaves its words unstruck, so the "
+    "ruling is not modelled; the regulations ('Regulamento' link) strike no words and are not modelled")
+B13.OPEN_ITEMS[_LPNAE] = (
+    "Lei 11.947 (open items): the text before 17.6.2009 (Medida Provisória 455/2008, of which this Lei is the conversion) is "
+    "not part of the history; Lei 14.734/2023 art. 2 (promulgated 22.5.2024: the FNDE may apply art. 20 IV only three years "
+    "after 23.11.2023) is that law's own rule and changes no words of this Lei; 'Vide' pointers (Leis 14.734/2023 and "
+    "15.255/2025) strike no words and are not modelled")
+B8.SPAN_FIX += [
+    ((_LAGRO, "art-07", "d)", "d) declarações de propriedade relativas à inocuidade", 0), {"keep": True},
+     "Lei 7.802 art. 7 § 2º II d) ('declarações de propriedade relativas à inocuidade [...]') is printed once, unstruck and "
+     "with no note, in § 2º; it is the act's own wording, in force until the repeal (the twin-wording rule, which would take "
+     "it for a copy of the caput's inciso II d), struck and rewritten by Lei 9.974/2000, does not apply)")]
 B13.OPEN_ITEMS[_LAGRO] = (
     "Lei 7.802 (open items): the regulations ('Regulamento' links, Decreto 4.074/2002) strike no words and are not modelled")
 
