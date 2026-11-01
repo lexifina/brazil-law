@@ -325,7 +325,9 @@ def page_text(ident: str) -> str:
 def final_clause(ident: str) -> str:
     """The amendment's own closing 'Esta Emenda ... entra em vigor ...' article, or ''."""
     x = page_text(ident)
-    m = [mm.start() for mm in re.finditer(r"Art\. \d+º?\.?\s*(?:-\s*)?[Ee]sta\s+Emenda[^.]*?entra", x)]
+    # 'Emenda' in either case: EC 16/1997 art. 2 prints 'Esta emenda constitucional entra em vigor na data de sua
+    # publicação' (corpus-wide vigência audit, 2026-11-01; it had been dated by the 45-day default)
+    m = [mm.start() for mm in re.finditer(r"Art\. \d+º?\.?\s*(?:-\s*)?[Ee]sta\s+[Ee]menda[^.]*?entra", x)]
     if not m:
         return ""
     tail = x[m[-1]:]
