@@ -7072,6 +7072,16 @@ B8.SPAN_FIX += [
     ((_L10887, "art-04", "b)", "b) que tiver ingressado no serviço público a partir da data", 1), dict(_G805), _W805),
     ((_L10887, "art-04", "VI -", "VI - o auxílio-creche", 1),
      {"start": "2018-04-09", "start_law": "mp-805-2017-fim", "restored": True, "skip": False}, _W805),
+    ((_L10887, "art-04", "Art. 4º", "Art. 4º A contribuição social do servidor público ativo de qualquer dos Poderes da União, "
+                                    "incluídas suas autarquias e fundações, para a manutenção do respectivo regime próprio de "
+                                    "previdência social, será de 11% (onze por cento), incidentes sobre", 1),
+     {"start": "2012-05-02", "start_law": "lei-12618-2012", "restored": False, "skip": False}, _W805),
+    ((_L10887, "art-05", "Art. 5º", "Art. 5º Os aposentados e os pensionistas de qualquer", 1),
+     {"start": "2004-06-21", "start_law": None, "restored": False, "skip": False}, _W805),
+    ((_L10887, "art-06", "Art. 6º", "Art. 6º Os aposentados", 0),
+     {"end": "2017-10-30", "end_law": "mp-805-2017", "end_how": "repealed"}, _W805),
+    ((_L10887, "art-06", "Parágrafo único", "Parágrafo único. A contribuição de que trata o caput deste artigo incidirá sobre", 0),
+     {"end": "2017-10-30", "end_law": "mp-805-2017", "end_how": "repealed"}, _W805),
     ((_L10887, "art-06", "Art. 6º", "Art. 6º Os aposentados", 1), dict(_R805), _W805),
     ((_L10887, "art-06", "Parágrafo único", "Parágrafo único. A contribuição de que trata o caput deste artigo incidirá sobre", 1),
      dict(_R805), _W805),
