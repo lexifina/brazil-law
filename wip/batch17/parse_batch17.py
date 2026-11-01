@@ -2451,6 +2451,12 @@ def _inner(*a):
                    "12 to 15 on 1.1.1999, the other articles on 28.11.1998" + (
                        "; changes made to those articles before their day start on that day (" + "; ".join(dict.fromkeys(G9718_USED))
                        + ")" if G9718_USED else "") + ".")
+    if L2027_USED:
+        dec.append("Lei 9.718: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] X - os "
+                   "arts. 2º a 8º-B da Lei nº 9.718, de 27 de novembro de 1998') and art. 504 (new wording of art. 9, without 'da "
+                   "contribuição PIS/PASEP e da COFINS'), both in effect from 1.1.2027 (art. 544 III, as Lei Complementar 227/2026 "
+                   "worded it), read on LC 214's page (Planalto's page of Lei 9.718 does not print them): arts. 2 to 8-B end and "
+                   "art. 9 takes the new wording on 1.1.2027, on the future branch (" + ", ".join(dict.fromkeys(L2027_USED)) + ").")
     if R_PUB_USED:
         dec.append("Medida Provisória editions whose Planalto page ends 'Este texto não substitui o publicado no DO de ...' ('DO', "
                    "not 'DOU'): their DOU day is read from that line (" + "; ".join(
@@ -2875,7 +2881,34 @@ def build_act(paras, act_day, gate, gate_law, unit_label):
             if g and p["start_law"] and act_day <= p["start"] < g[0] and not p.get("skip"):
                 G9718_USED.append(f"{p['unit']} {p['label']} ({p['start_law']}, {p['start']})")
                 p["start"] = g[0]
+        lc214_2027(paras)
     return _build_act17(paras, act_day, gate, gate_law, unit_label)
+
+
+# Lei Complementar 214/2025 (IBS/CBS transition; Planalto's page of Lei 9.718 does not print these future changes, read on LC
+# 214's page): art. 542 'Ficam revogados a partir de 1º de janeiro de 2027: [...] X - os arts. 2º a 8º-B da Lei nº 9.718, de
+# 27 de novembro de 1998' and art. 504, the new wording of art. 9 (dropping 'da contribuição PIS/PASEP e da COFINS'); art.
+# 544 III: both from 1.1.2027 (futuro branch).
+_U2027 = {"art-02", "art-03", "art-04", "art-05", "art-06", "art-07", "art-08", "art-08-a", "art-08-b"}
+_OLD9 = "da legislação do imposto de renda, da contribuição social sobre o lucro líquido, da contribuição PIS/PASEP e da COFINS,"
+_NEW9 = "da legislação do imposto sobre a renda e da Contribuição Social sobre o Lucro Líquido,"
+L2027_USED: list[str] = []
+
+
+def lc214_2027(paras):
+    D, L = "2027-01-01", "lc-214-2025"
+    for i, p in enumerate(list(paras)):
+        if p.get("skip") or p["heading"] or (p["end"] is not None and p["end"] <= D):
+            continue
+        if p["unit"] in _U2027:
+            p["end"], p["end_law"], p["end_how"] = D, L, "repealed"
+            L2027_USED.append(p["unit"])
+        elif p["unit"] == "art-09" and _OLD9 in p["text"]:
+            q = dict(p, text=p["text"].replace(_OLD9, _NEW9), start=D, start_law=L, end=None, end_law=None, end_how=None,
+                     notes=["(Redação dada pela Lei Complementar nº 214, de 2025)"], state="plain")
+            p["end"], p["end_law"], p["end_how"] = D, L, "successor"
+            paras.insert(paras.index(p) + 1, q)
+            L2027_USED.append("art-09")
 
 
 P.build_act = B.build_act = build_act
