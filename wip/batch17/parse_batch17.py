@@ -3405,12 +3405,114 @@ B8.SPAN_FIX += [
     ((_L10833, "art-30", "§ 4º", "§ 4º", 0), {"skip": True, "end_how": "pointer"},
      "Lei 10.833 art. 30 § 4º: Planalto prints a line holding only '§ 4º' and the note '(Vide Medida Provisória nº 232, 2004)'; "
      "it is a pointer, not a wording, and is left out"),
+    ((_L10833, "art-69", "§ 3º", "§ 3º", 0), {"skip": True, "end_how": "pointer"},
+     "Lei 10.833 art. 69 § 3º: Planalto prints a struck line holding only '§ 3º' and the note '(Vide Medida Provisória nº 320, "
+     "2006)' above the § 3º Lei 13.043/2014 added; it is a pointer, not a wording, and is left out"),
 ]
+# Lei 11.727/2008 (DOU 24.6.2008) art. 41: 'produzindo efeitos em relação: [...] IV - aos arts. 7º, 9º a 12 e 14 a 16, a partir
+# do primeiro dia do quarto mês subseqüente ao da publicação desta Lei; [...] VII - aos arts. 32 a 39, a partir de 1º de janeiro
+# de 2009' (IV and VII as Lei 11.827/2008 worded them) and art. 42 III d) (revocation of art. 1 § 3º IV and art. 10 VII a) 'a
+# partir do primeiro dia do quarto mês subseqüente ao da publicação desta Lei'): its art. 15 (art. 2 § 1º-A, art. 3 I a) and §
+# 18) and those revocations from 1.10.2008, its art. 36 (art. 2 § 1º VIII and IX, art. 3 § 1º and § 16, arts. 51 and 53) from
+# 1.1.2009; its art. 19 (art. 34) on publication. Lei 11.787/2008 and Medida Provisória 451/2008 changed arts. 2 and 3 in
+# between, so effects_fix cannot move these: set by hand.
+_W11727Z = ("Lei 10.833: Lei 11.727/2008 (DOU 24.6.2008) art. 41 ('produzindo efeitos em relação: [...] IV - aos arts. 7º, 9º a "
+            "12 e 14 a 16, a partir do primeiro dia do quarto mês subseqüente ao da publicação desta Lei; [...] VII - aos arts. 32 a "
+            "39, a partir de 1º de janeiro de 2009', IV and VII as Medida Provisória 436/2008 and Lei 11.827/2008 worded them) and "
+            "art. 42 III d) (revocation of art. 1 § 3º IV and art. 10 VII a) 'a partir do primeiro dia do quarto mês subseqüente ao "
+            "da publicação desta Lei'): its art. 15 (art. 2 § 1º-A, art. 3 I a) and § 18) and those revocations from 1.10.2008; its "
+            "art. 36 (art. 2 § 1º VIII and IX, art. 3 § 1º and § 16, arts. 51 and 53) from 1.1.2009; the wordings they replaced "
+            "until then (set by hand: Lei 11.787/2008 and Medida Provisória 451/2008 changed arts. 2 and 3 in between, so "
+            "effects_fix cannot move them); its art. 19 (art. 34) on publication. Art. 10 VII a) ('referidas no inciso IV do § 3º "
+            "do art. 1º'), which Planalto prints unstruck with only a 'Vide Lei nº 11.727, de 2008' pointer, ends on 1.10.2008: the "
+            "law's text governs")
+_W451Z = ("Lei 10.833 art. 3 § 23: Medida Provisória 451/2008 (DOU 16.12.2008) art. 22: 'produzindo efeitos: [...] II - a partir do "
+          "primeiro dia do quarto mês subseqüente ao da publicação desta Medida Provisória, em relação ao disposto: [...] b) no art. "
+          "9º, relativamente ao § 23 do art. 3º da Lei nº 10.833' (printed struck on the MP's page, read as published): the § 23 it "
+          "added from 1.4.2009 (set by hand: Lei 11.898/2009 changed art. 3 in between, so effects_fix cannot move it)")
+_W58M = ("Lei 10.833 art. 58-M: the caput, added by Lei 11.727/2008 art. 32 with the article, carries only Lei 13.097's revocation "
+         "note and starts with Lei 11.727; incisos I and II: Lei 11.727's wording until Medida Provisória 436/2008 (27.6.2008), "
+         "the MP's until Lei 11.827/2008 (21.11.2008), and Lei 11.827's, which repeats the MP's words, until Lei 13.097 revoked "
+         "the article (the reader had taken Lei 11.827's lines for duplicates of the MP's)")
+_W58Z = ("Lei 10.833 art. 58 caput incisos I and II: Planalto prints them struck with no note (the consolidated page leaves them "
+         "out); Lei 11.051/2004 art. 25 rewrote only § 1º of art. 58 (the caput and its incisos are dotted lines in its text), so "
+         "they stand with the article until Lei 11.727/2008 art. 42 IV a) revoked it (1.1.2009)")
+_E1010Z = {"end": "2008-10-01", "end_law": "lei-11727-2008", "end_how": "successor"}
+_S1010Z = {"start": "2008-10-01", "start_law": "lei-11727-2008"}
+_E0101Z = {"end": "2009-01-01", "end_law": "lei-11727-2008", "end_how": "successor"}
+_S0101Z = {"start": "2009-01-01", "start_law": "lei-11727-2008"}
+_R0101Z = {"end": "2009-01-01", "end_law": "lei-11727-2008", "end_how": "repealed"}
+_I13097 = {"skip": False, "end": "2015-01-20", "end_law": "lei-13097-2015", "end_how": "parent"}
+B8.SPAN_FIX += [((_L10833, u, lab, pre, n), dict(f), w) for u, lab, pre, n, f, w in (
+    ("art-02", "VIII -", "VIII - no art. 49 desta Lei", 0, _E0101Z, _W11727Z),
+    ("art-02", "VIII -", "VIII - no art. 58-I desta Lei", 0, _S0101Z, _W11727Z),
+    ("art-02", "IX -", "IX - no art. 52 desta Lei", 0, _E0101Z, _W11727Z),
+    ("art-02", "IX -", "IX - no inciso II do art. 58-M desta Lei", 0, _S0101Z, _W11727Z),
+    ("art-02", "§ 1º-A", "§ 1º-A. Excetua-se do disposto no caput deste artigo a receita bruta auferida pelos produtores", 0,
+     _S1010Z, _W11727Z),
+    ("art-03", "a)", "a) nos incisos III e IV do § 3º do art. 1º desta Lei", 0, _E1010Z, _W11727Z),
+    ("art-03", "a)", "a) no inciso III do § 3º do art. 1º desta Lei", 0, _S1010Z, _W11727Z),
+    ("art-03", "§ 1º", "§ 1º Observado o disposto no § 15 deste artigo e no § 1º do art. 52", 0, _E0101Z, _W11727Z),
+    ("art-03", "§ 1º", "§ 1º Observado o disposto no § 15 deste artigo, o crédito", 1, _S0101Z, _W11727Z),
+    ("art-03", "§ 16", "§ 16. Opcionalmente", 0, _E0101Z, _W11727Z),
+    ("art-03", "§ 16", "§ 16. Opcionalmente", 1, _S0101Z, _W11727Z),
+    ("art-03", "I -", "I - no prazo de 12 (doze) meses, à razão de 1/12", 0, _S0101Z, _W11727Z),
+    ("art-03", "II -", "II - na hipótese de opção pelo regime especial instituído pelo art. 58-J", 0, _S0101Z, _W11727Z),
+    ("art-03", "§ 18", "§ 18. O crédito, na hipótese de devolução", 0, _E1010Z, _W11727Z),
+    ("art-03", "§ 18", "§ 18. No caso de devolução de vendas", 0, _S1010Z, _W11727Z),
+    ("art-10", "a)", "a) referidas no inciso IV do § 3º do art. 1º", 0, dict(_E1010Z, end_how="repealed"), _W11727Z),
+    ("art-03", "§ 23", "§ 23. Sem prejuízo da vedação", 0, {"start": "2009-04-01", "start_law": "mp-451-2008"}, _W451Z),
+    ("art-58-m", "Art. 58-M", "Art. 58-M. Para os efeitos do regime especial", 0,
+     {"start": "2008-06-24", "start_law": "lei-11727-2008"}, _W58M),
+    ("art-58-m", "I -", "I - o Poder Executivo estabelecerá as alíquotas do IPI", 0,
+     {"end": "2008-06-27", "end_law": "mp-436-2008", "end_how": "successor"}, _W58M),
+    ("art-58-m", "II -", "II - as alíquotas da Contribuição para o PIS/Pasep e da Cofins serão de 2,5%", 0,
+     {"end": "2008-06-27", "end_law": "mp-436-2008", "end_how": "successor"}, _W58M),
+    ("art-58-m", "I -", "I - o Poder Executivo estabelecerá as alíquotas do IPI", 2, _I13097, _W58M),
+    ("art-58-m", "II -", "II - as alíquotas da Contribuição para o PIS/Pasep e da Cofins serão de 2,5%", 2, _I13097, _W58M),
+    ("art-58", "I -", "I - contribuição para o PIS/PASEP, do saldo dos créditos", 0, dict(_R0101Z, skip=False), _W58Z),
+    ("art-58", "II -", "II - COFINS, do valor equivalente a 3%", 0, _R0101Z, _W58Z),
+)]
+if any(a["slug"] == _L10833 for a in ACTS):
+    _W1727P = ("Lei 11.727/2008 (DOU 24.6.2008): art. 42 III d) revokes art. 1 § 3º IV of Lei 10.833 'a partir do primeiro dia do "
+               "quarto mês subseqüente ao da publicação desta Lei' (1.10.2008); art. 36 (arts. 51 and 53) takes effect from "
+               "1.1.2009 (art. 41 VII, as Lei 11.827/2008 worded it)")
+    P.VIGENCIA_PROVISION.update({("lei-11727-2008", _L10833, "art-01"): ("2008-10-01", _W1727P),
+                                 ("lei-11727-2008", _L10833, "art-51"): ("2009-01-01", _W1727P),
+                                 ("lei-11727-2008", _L10833, "art-53"): ("2009-01-01", _W1727P)})
+    _W13043P = ("Lei 13.043/2014 art. 113 ('Esta Lei entra em vigor na data de sua publicação, exceto: [...] II - os arts. 1º a 15, "
+                "30 a 32, 97, 106 e os artigos da Seção XXI do Capítulo I, que entram em vigor a partir de 1º de janeiro de 2015; "
+                "[...] IV - [...] b) o art. 98 e os artigos das Seções XVI, XVII, XIX e XX do Capítulo I', DOU 14.11.2014): its "
+                "art. 56 (Lei 10.833 arts. 67 and 69, Seção XI) and art. 114 III (art. 76 alíneas) fall under the general rule, in "
+                "force on publication; its art. 32 (art. 10 XXX) under II (1.1.2015); its art. 79 (art. 10 XX, Seção XX) under IV "
+                "b) (1.3.2015, moved by effects_fix)")
+    P.VIGENCIA_PROVISION.update({("lei-13043-2014", _L10833, u): ("2014-11-14", _W13043P) for u in ("art-67", "art-69", "art-76")})
+B13.OPEN_ITEMS[_L10833] = (
+    "Lei 10.833 (open items): Medida Provisória 135/2003 (DOU 31.10.2003), which the Lei converted, is not part of the history; "
+    "the record starts with the Lei (30.12.2003). The Anexo Único (the list of goods, by TIPI code, named in arts. 50 and 58, "
+    "revoked by Lei 10.925/2004) is not modelled. Effects that reach back before an amending act's publication are dated by "
+    "the publication (Lei 11.196/2005 art. 132 II b), Lei 11.933/2009 art. 11 I, Lei 11.945/2009 art. 33 I d) and IV c), Lei "
+    "12.249/2010 art. 139 I d)). "
+    "Lei 11.051/2004 art. 24 gives art. 3 § 20 effect from 1.4.2005 only 'no que se refere ao inciso II do § 19': its words "
+    "apply to § 19 I from publication, so the paragraph is dated by the publication (30.12.2004). Medida Provisória 451/2008: "
+    "Planalto's page of the MP prints the items of art. 22 I and II b) struck; they are read as published (as for Leis 9.718 "
+    "and 10.637). Lei 12.995/2014 art. 27 I e) revokes art. 58-T § 2º 'a partir da entrada em vigor do art. 13', whose effects "
+    "its art. 26 sets from the first day of the following year: read as 1.1.2015 (judgement call). Art. 1 § 3º IX: Planalto "
+    "notes the revocation by Medida Provisória 1.185/2023 and 'Revogado Lei nº 14.789, de 2023' (its conversion), both from "
+    "1.1.2024; the MP is credited. Lei Complementar 214/2025's changes from 1.1.2027 are on the future branch. 'Vide' "
+    "pointers (Medidas Provisórias 164/2004, 232/2004, 320/2006, 413/2008 and 497/2010, Decretos 5.062/2004 and 5.162/2004, "
+    "Lei 10.685/2004) are not modelled")
 _N10833 = "the annotated page prints 'nº' as 'n' with a raised 'o' ('no' in the text), the consolidated page as 'nº'"
+_REV10833 = ("Planalto prints the article unstruck with only a 'Vide Lei nº 11.727, de 2008' pointer, though Lei 11.727/2008 art. 42 "
+             "IV a) (as Lei 11.827/2008 worded it) revoked it from 1.1.2009; the law's text governs and the article ends then")
 B.EXPLAINED[_L10833] = {
     "art-02": _N10833 + "; the consolidated page also prints a stray line 'IX - n' (the start of a revoked inciso IX)",
     "art-03": "the annotated page ends § 15 with a full stop ('desta Lei.'), the consolidated page without",
     "art-18": _N10833, "art-62": _N10833, "art-70": _N10833, "art-77": _DOTTED,
+    "art-10": ("Planalto prints inciso VII a) ('referidas no inciso IV do § 3º do art. 1º') unstruck with only a 'Vide Lei nº "
+               "11.727, de 2008' pointer, though Lei 11.727/2008 art. 42 III d) revoked it from 1.10.2008; the law's text governs "
+               "and the alínea ends then"),
+    **{u: _REV10833 for u in ("art-49", "art-50", "art-52", "art-55", "art-57", "art-58")},
 }
 
 P.build_act = B.build_act = build_act
