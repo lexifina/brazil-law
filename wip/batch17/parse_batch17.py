@@ -2850,6 +2850,8 @@ B8.SPAN_FIX += [
     ((_L9718, "art-05", "§ 13-A", "§ 13-A. O distribuidor sujeito ao regime", 0), dict(_S1063), _W1063),
     ((_L9718, "art-05", "§ 14-A", "§ 14-A. Os créditos de que trata o § 13-A", 0), dict(_S1063), _W1063),
 ]
+B.EXPLAINED[_L9718] = {"art-05": "the consolidated page prints the end of a note ('. Vide Medida Provisória nº 497, de 2010)') inside "
+                                  "the text of a paragraph of art. 5; the annotated page prints it as a note"}
 B13.OPEN_ITEMS[_L9718] = (
     "Lei 9.718 (open items): the Lei's own articles take effect in stages (art. 17): arts. 2 to 8 for fatos geradores from "
     "1.2.1999, arts. 9 and 12 to 15 from 1.1.1999, the rest on publication (28.11.1998); each article starts on its day. Medidas "

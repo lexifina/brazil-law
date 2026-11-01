@@ -441,6 +441,53 @@ MOVES: dict[str, list] = {
          "Lei 15.525/2026: 'produzindo efeitos: [...] II - quanto aos arts. 3º e 4º, a partir de 1º de janeiro de 2030' (DOU "
          "29.9.2026): its art. 4 (Lei 9.430 art. 2 § 5º) from 1.1.2030"),
     ],
+    "99-batch17zj.json": [
+        ("lei-9718-de-1998", "mp-1991-2000", "2000-03-13", [("units:art-04,art-05,art-06", None)],
+         "Medida Provisória 1.991-15/2000 art. 46: 'produzindo efeitos: [...] II - no que se refere à nova redação dos arts. 4º a "
+         "6º da Lei nº 9.718, de 1998 [...], em relação aos fatos geradores ocorridos a partir de 1º de julho de 2000' (DOU "
+         "13.3.2000): its wording of arts. 4 to 6 never took effect (Medida Provisória 1.991-18 replaced it on 10.6.2000, before "
+         "that day); its change to art. 3 on publication"),
+        ("lei-9718-de-1998", "mp-1991r18-2000", "2000-06-10", [(ALL, "2000-07-01")],
+         "Medida Provisória 1.991-18/2000 art. 46 II (same words as 1.991-15): its wording of arts. 4 to 6 from 1.7.2000, until "
+         "Lei 9.990/2000 (DOU 24.7.2000, in force on publication) replaced it"),
+        ("lei-9718-de-1998", "mp-2158-2001", "2001-08-27",
+         [(lines_match(r"^(§ 9º Na determinação|I - co-responsabilidades|II - a parcela das contraprestações|III - o valor referente "
+                       r"às indenizações correspondentes aos eventos)"), "2001-12-01")],
+         "Medida Provisória 2.158-35/2001 art. 92: 'produzindo efeitos: [...] IV - relativamente aos fatos geradores ocorridos a "
+         "partir de: a) 1º de dezembro de 2001, relativamente ao disposto no § 9º do art. 3º da Lei nº 9.718, de 1998' (DOU "
+         "27.8.2001): art. 3 § 9 from 1.12.2001; its other changes on publication"),
+        ("lei-9718-de-1998", "lei-10637-2002", "2002-12-31", [(ALL, "2003-01-01")],
+         "Lei 10.637/2002 art. 68: 'produzindo efeitos: [...] III - a partir de 1º de janeiro de 2003, em relação aos arts. 34, 37 a "
+         "44, 46 e 48' (DOU 31.12.2002): its art. 46 (Lei 9.718 art. 13 caput and art. 14 I) from 1.1.2003"),
+        ("lei-9718-de-1998", "lei-10865-2004", "2004-04-30", [(ALL, "2004-05-01")],
+         "Lei 10.865/2004 art. 53: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir do dia 1º de maio "
+         "de 2004, ressalvadas as disposições contidas nos artigos anteriores' (DOU 30.4.2004): its art. 22 I (Lei 9.718 art. 4) "
+         "from 1.5.2004"),
+        ("lei-9718-de-1998", "mp-413-2008", "2008-01-03", [(ALL, None)],
+         "Medida Provisória 413/2008 art. 18, as Medida Provisória 425/2008 worded it before the original day (1.5.2008) arrived: "
+         "'III - aos arts. 7º, 9º a 12 e 14 a 16, a partir do 1º dia do mês subseqüente ao da publicação do ato da Secretaria da "
+         "Receita Federal do Brasil [...]'; Lei 11.727/2008, its conversion, set the effect of its art. 7 (Lei 9.718 art. 5) from "
+         "1.10.2008: the MP's wording of art. 5 is not shown as in effect (judgement call; open item)"),
+        ("lei-9718-de-1998", "lei-11727-2008", "2008-06-24", [(ALL, "2008-10-01")],
+         "Lei 11.727/2008 art. 41: 'produzindo efeitos em relação: [...] IV - aos arts. 7º, 9º a 12 e 14 a 16, a partir do primeiro "
+         "dia do quarto mês subseqüente ao da publicação desta Lei' and art. 42 III a) (revocation of Lei 9.718 art. 6 parágrafo "
+         "único 'a partir do primeiro dia do quarto mês subseqüente ao da publicação desta Lei') (DOU 24.6.2008): from 1.10.2008"),
+        ("lei-9718-de-1998", "mp-451-2008", "2008-12-16", [(ALL, "2009-01-01")],
+         "Medida Provisória 451/2008 art. 17: 'produzindo efeitos: I - a partir de 1º de janeiro de 2009, em relação ao disposto: a) "
+         "nos arts. 3º a 5º, 7º, [...]' (DOU 16.12.2008): its art. 7 (Lei 9.718 art. 3 § 2 V) from 1.1.2009"),
+        ("lei-9718-de-1998", "mp-601-2012", "2012-12-28", [(ALL, "2013-01-01")],
+         "Medida Provisória 601/2012 art. 7: 'II - na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2013, "
+         "em relação aos arts. 4º e 6º' (DOU 28.12.2012): its art. 6 (Lei 9.718 art. 3 §§ 10 to 12) from 1.1.2013, until it "
+         "lapsed (4.6.2013)"),
+        ("lei-9718-de-1998", "lei-12814-2013", "2013-05-17", [(ALL, "2014-01-01")],
+         "Lei 12.814/2013 art. 9 parágrafo único: 'O disposto no caput do art. 13 e no inciso I do art. 14 da Lei nº 9.718 [...], "
+         "na redação dada pelo art. 7º desta Lei, passa a vigorar a partir de 1º de janeiro do ano seguinte ao da publicação "
+         "desta Lei' (DOU 17.5.2013): from 1.1.2014"),
+        ("lei-9718-de-1998", "lc-214-2025", "2025-01-16", [(ALL, "2025-05-01")],
+         "Lei Complementar 214/2025 art. 544: 'produzindo efeitos: I - a partir do primeiro dia do quarto mês subsequente ao da "
+         "sua publicação, em relação aos arts. 537 a 540' (DOU 16.1.2025): its arts. 537 and 540 (Lei 9.718 art. 5) from "
+         "1.5.2025"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,
