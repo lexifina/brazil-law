@@ -4539,6 +4539,10 @@ B8.SPAN_FIX += [
     ((_LCONS, "art-06", "§ 7º", "§ 7º Aplica-se o previsto no caput e no § 5º deste artigo também", 0),
      {"end": "2023-06-20", "end_law": "lei-14601-2023", "end_how": "successor"}, _W6P7),
 ]
+B.EXPLAINED[_LCONS] = {"art-02": "Planalto prints art. 2 IV twice unstruck, Medida Provisória 681/2015's wording above Lei "
+                                 "13.172/2015's (the same words); the MP's ends on 22.10.2015",
+                       "art-06": "Planalto prints art. 6 § 7º twice unstruck, Lei 14.431/2022's wording above Lei 14.601/2023's, "
+                                 "which rewrote it; Lei 14.431's ends on 20.6.2023"}
 B13.OPEN_ITEMS[_LCONS] = (
     "Lei 10.820 (open items): the text before 18.12.2003 (Medida Provisória 130/2003, of which this Lei is the conversion) is "
     "not part of the history; 'Vide' pointers (Medidas Provisórias 656/2014, 1.006/2020 and 1.355/2026, Lei 14.131/2021, whose "
