@@ -7092,6 +7092,18 @@ if any(a["slug"] == _L10887 for a in ACTS):
                 if t != q["text"]:
                     q["text"] = t
                     L10887_FIXED.append(f"{q['unit']} {q['label']}")
+            for q in out:
+                # art. 10: 'A Lei nº 9.717, de 27 de novembro de 1998, com a redação dada pela Medida Provisória nº 2.187-13, de
+                # 24 de agosto de 2001, passa a vigorar com as seguintes alterações:' (the reader took the words from 'redação
+                # dada' for a note)
+                hit = [n for n in q["notes"] if n.strip().startswith("(redação dada pela Medida Provisória nº 2.187-13")]
+                if q["unit"] == "art-10" and q["text"].rstrip().endswith("com a") and hit:
+                    q["text"] = q["text"].rstrip() + " " + hit[0].strip()[1:-1]
+                    q["notes"] = [n for n in q["notes"] if n != hit[0]]
+                    if not any(x.startswith("Lei 10.887 art. 10:") for x in EXTRA):
+                        EXTRA.append("Lei 10.887 art. 10: the words 'redação dada pela Medida Provisória nº 2.187-13, de 24 de "
+                                     "agosto de 2001, passa a vigorar com as seguintes alterações:' are the article's own text "
+                                     "(the Lei 9.717 it amends as that MP had worded it), not an amendment note")
             if L10887_FIXED and not any(x.startswith("Lei 10.887: Planalto's marker 'Sem eficácia'") for x in EXTRA):
                 EXTRA.append("Lei 10.887: Planalto's marker 'Sem eficácia' after the struck lines of Medida Provisória 556/2011 "
                              "(lapsed) is not part of the text and is left out")
