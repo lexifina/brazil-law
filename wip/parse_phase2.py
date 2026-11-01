@@ -426,6 +426,8 @@ VIGENCIA_FIXED: dict[str, tuple[str, str]] = {
                                   "the provisions item I defers"),
     "lei-10741-2003": ("2004-01-01", "art. 118: 'entra em vigor decorridos 90 (noventa) dias da sua publicação' "
                                      "(published 3.10.2003: 1.1.2004)"),
+    "lei-12720-2012": ("2012-09-28", "art. 5: 'Esta Lei entra vigor na data de sua publicação' (so printed, without "
+                                     "'em'; published 28.9.2012)"),
 }
 # Provisions whose in-force day differs from the rest of their law: (law, act, unit) -> (date, reason).
 VIGENCIA_PROVISION: dict[tuple[str, str, str], tuple[str, str]] = {}

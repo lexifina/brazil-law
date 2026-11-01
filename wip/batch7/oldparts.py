@@ -27,10 +27,11 @@ import stale_fix  # noqa: E402
 OPEN = {
     "70-clt": "Open (not dated by the source): in arts. 654, 693, 896 and 902 Planalto prints a superseded "
               "wording of the 1940s-1950s without a note (or a note that names no day), so for some years of that time "
-              "two wordings of one paragraph stand at once in this history, and in arts. 534 and 538 the same happens "
-              "from 21.1.1946 to 23.2.1946 (Decreto-Lei 8.740); in arts. 634 and 636 the same happens for a few days "
-              "around MP 905/2019 and MP 955/2020 (arts. 530, 553 and 628-A, and the copies printed twice in arts. 534 "
-              "and 538: see the doubled-lines decision). The text in force today is not affected.",
+              "two wordings of one paragraph stand at once in this history; in art. 538, from 21.1.1946 to 23.2.1946, "
+              "the 1943 § 3º (on the conselho dos representantes), which the page prints with no note, stands beside "
+              "the § 2º Decreto-Lei 8.740 wrote on the same subject; in arts. 634 and 636 the same happens for a few "
+              "days around MP 905/2019 and MP 955/2020 (arts. 530, 553 and 628-A: see the doubled-lines decision). "
+              "The text in force today is not affected.",
 }
 # Life spans set by hand after the stale-wording rules, where Planalto's page prints a wording that the rules cannot place
 # (reviewed one by one from the duplicate-line check, batch10/.tmp/dupline.py, 2026-10-31): part -> [(act, unit, label,
@@ -40,6 +41,17 @@ _W8740 = ("Decreto-Lei 8.740/1946 (19.1.1946) rewrote these articles and Decreto
 _W592 = ("CLT art. 592: Planalto prints the 1943 article (caput, I to IV with their alíneas, parágrafo único), the lines "
          "later decree-laws changed, a second copy of item I with its alíneas, and the items II to IV as Decreto-Lei "
          "925/1969 rewrote them")
+_WT7 = ("CLT Título VII headings: Medida Provisória 905/2019 renamed the Título ('DAS PENALIDADES E DO PROCESSO "
+        "ADMINISTRATIVO') and gave its Capítulo I name again; Medida Provisória 955/2020 revoked it from 20.4.2020 and "
+        "lapsed on 18.8.2020, so Medida Provisória 905's names stand again on 18.8.2020, the last day before it lapsed, "
+        "as arts. 553 and 628-A read that day; the 1943 names stand before 12.11.2019, from 20.4.2020 and from 19.8.2020")
+_T7 = (("h109-0", "TÍTULO VII"), ("h109-1", "DO PROCESSO DE MULTAS ADMINISTRATIVAS"), ("h109-2", "CAPÍTULO I"),
+       ("h109-3", "DA FISCALIZAÇÃO, DA AUTUAÇÃO"))
+_W13964 = ("Código Penal art. 121 § 2º VIII: vetoed on 24.12.2019 and promulgated after Congress overrode the veto (DOU "
+           "30.4.2021; the Lei 13.964 page prints the inciso struck as '(VETADO)' and again as promulgated, 'Promulgação "
+           "partes vetadas'); the part's rule for such wording applies: '(VETADO)' from Lei 13.964's day, 23.1.2020, the "
+           "promulgated wording from 30.4.2021 (the '(VETADO)' line had been read as text of 1942 and the wording as in "
+           "force from 23.1.2020)")
 OLD_FIX: dict[str, list[tuple[str, str, str, str, int, dict, str]]] = {
     "70-clt": [
         ("clt", "art-379", lab, start, 0, {"start": "1984-06-05", "start_law": "lei-7189-1984"},
@@ -89,6 +101,52 @@ OLD_FIX: dict[str, list[tuple[str, str, str, str, int, dict, str]]] = {
          "CLT art. 515 parágrafo único: inside the Decreto-Lei 8.740/1946 block Planalto prints the 1943 paragraph again, "
          "struck as revoked by that decree-law; it is the same wording as the 1943 copy above it, which stands until then, "
          "and is left out"),
+        # arts. 534 and 538 (2026-11-01): Decreto-Lei 8.740/1946's paragraphs carry 'Redação dada', so they replaced the
+        # 1943 paragraphs of the same number from 21.1.1946; the 1943 wording Planalto prints again after them (struck,
+        # no note) is the one Decreto-Lei 8.987-A restored on 23.2.1946: the first copy stands with a gap for those days
+        # and keeps its place in the article; the second copy, the same words, is left out
+        *[("clt", unit, lab, start, nth, fields,
+           f"CLT art. {unit[4:]} {lab}: the 1943 wording gives way on 21.1.1946 to the wording Decreto-Lei 8.740/1946 "
+           f"gave the paragraph ('Redação dada') and stands again from 23.2.1946 (" + _W8740 + "); the second copy "
+           f"Planalto prints after Decreto-Lei 8.740's wording is left out (both wordings had stood at once from 21.1 "
+           f"to 23.2.1946)")
+          for unit, lab, start in (("art-534", "§ 1º", "§ 1º As federações serão constituídas por Estados, podendo o Ministro"),
+                                   ("art-538", "§ 1º", "§ 1º A diretoria será constituida, no máximo"),
+                                   ("art-538", "§ 2º", "§ 2º O presidente da federação ou confederação"))
+          for nth, fields in ((0, {"gaps": [("1946-01-21", "1946-02-23", "dl-8740-1946", "dl-8987a-1946")]}),
+                              (1, {"skip": True, "end_how": "twin"}))],
+        # Título VII headings (2026-11-01), as arts. 553 and 628-A read: Medida Provisória 905/2019's names from 12.11.2019,
+        # gone while Medida Provisória 955/2020 stood (20.4 to 18.8.2020), back for 18.8.2020, ended 19.8.2020; the 1943
+        # names (printed twice, struck and plain) up to 12.11.2019 and again from 20.4.2020, except on 18.8.2020
+        *[("clt", "titulos", lab, start, 0, {"end": "2019-11-12", "end_law": "mp-905-2019", "end_how": "successor", "gaps": []},
+           _WT7) for lab, start in _T7],
+        *[("clt", "titulos", lab, start, nth,
+           {"gaps": [("2020-04-20", "2020-08-18", "mp-955-2020", "mp-955-2020-fim")], "end": "2020-08-19",
+            "end_law": "mp-905-2019-fim", "end_how": "mp-pair"}, _WT7)
+          for lab, start, nth in (("h109-0", "TÍTULO VII", 1), ("h109-1", "DAS PENALIDADES E DO PROCESSO ADMINISTRATIVO", 0),
+                                  ("h109-2", "CAPÍTULO I", 1), ("h109-3", "DA FISCALIZAÇÃO, DA AUTUAÇÃO", 1))],
+        *[("clt", "titulos", lab, start, 0, {"skip": True, "end_how": "twin"},
+           _WT7 + "; the second copy of Medida Provisória 905's Capítulo I heading is left out")
+          for lab, start in (("h109-4", "CAPÍTULO I"), ("h109-5", "DA FISCALIZAÇÃO, DA AUTUAÇÃO"))],
+        *[("clt", "titulos", lab, start, nth,
+           {"gaps": [("2020-08-18", "2020-08-19", "mp-955-2020-fim", "mp-905-2019-fim")]}, _WT7)
+          for lab, start, nth in (("h109-0", "TÍTULO VII", 2), ("h109-1", "DO PROCESSO DE MULTAS ADMINISTRATIVAS", 1),
+                                  ("h109-2", "CAPÍTULO I", 2), ("h109-3", "DA FISCALIZAÇÃO, DA AUTUAÇÃO", 2))],
+    ],
+    "60-phase2": [
+        ("codigo-penal", "art-121", "§ 6º", "§ 6º A pena é aumentada de 1/3 (um terço) até a metade se o crime for praticado "
+         "por milícia privada", 0, {"start": "2012-09-28", "start_law": "lei-12720-2012"},
+         "Código Penal art. 121 § 6º: the annotated page prints it without a note; Lei 12.720/2012 art. 2 added it "
+         "('passa a vigorar acrescido do seguinte § 6º', and the compiled page's note 'Incluído pela Lei nº 12.720, de "
+         "2012'), so it starts on that law's day, 28.9.2012 (it had been read as text of 1942)"),
+        ("codigo-penal", "art-121", "VIII -", "VIII - (VETADO):", 0,
+         {"start": "2020-01-23", "start_law": "lei-13964-2019", "end": "2021-04-30", "end_law": "lei-13964-2019",
+          "end_how": "promulgation"}, _W13964),
+        ("codigo-penal", "art-121", "VIII -", "VIII - com emprego de arma de fogo", 0, {"start": "2021-04-30"}, _W13964),
+        ("codigo-penal", "art-121", "", "Pena - reclusão, de doze a trinta anos.", 1,
+         {"start": "2020-01-23", "start_law": "lei-13964-2019"},
+         "Código Penal art. 121 § 2º: the penalty line Planalto prints again after the last inciso starts with Lei "
+         "13.964/2019, which added inciso VIII (it had been read as text of 1942)"),
     ],
 }
 # the same for a run of printed lines: part -> [(act, unit, first line start, start of the line after the run, fields, why)]

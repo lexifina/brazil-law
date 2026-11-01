@@ -603,6 +603,9 @@ ALL_ACTS: list[dict] = [
     # thirty-first session
     _act("lei-da-protecao-e-defesa-civil", "LPDC", "l12608", "l12608", "lei-12608-2012",
          "Política Nacional de Proteção e Defesa Civil (Lei nº 12.608, de 10 de abril de 2012)", 2),
+    # thirty-second session
+    _act("estatuto-da-metropole", "EMetr", "l13089", "l13089", "lei-13089-2015",
+         "Estatuto da Metrópole (Lei nº 13.089, de 12 de janeiro de 2015)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -709,6 +712,8 @@ PARTS: dict[str, list[str]] = {
     "zzzi": ["lei-das-desapropriacoes", "lei-da-desapropriacao-por-interesse-social", "lei-do-tombamento"],
     # thirty-first session
     "zzzj": ["lei-da-protecao-e-defesa-civil"],
+    # thirty-second session
+    "zzzk": ["estatuto-da-metropole"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -988,6 +993,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                    "states it applied from 17.8.1941"),
     "lei-12608-2012": ("2012-04-11", "Lei 12.608/2012 art. 31: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
                                      "11.4.2012), except its change to Lei 6.766 art. 12 § 2º, two years later"),
+    "lei-13089-2015": ("2015-01-13", "Lei 13.089/2015 art. 25: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
+                                     "13.1.2015)"),
     "lei-4132-1962": ("1962-12-22", "Lei 4.132/1962 has no vigência clause (art. 6 only revokes contrary provisions): Lei de "
                                     "Introdução (Decreto-Lei 4.657/1942) art. 1, 45 days after its publication (DOU 7.11.1962), "
                                     "22.12.1962"),
@@ -1546,6 +1553,9 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "12.340, de 1º de dezembro de 2010, 10.257, de 10 de julho de 2001, 6.766, de 19 de dezembro de 1979, "
                          "8.239, de 4 de outubro de 1991, e 9.394, de 20 de dezembro de 1996; e dá outras providências.",
                          "2012-04-10", "2012-04-11", "_Ato2011-2014/2012/Lei/L12608.htm"),
+    # the record 99-batch7 has
+    "lei-13089-2015": _L("Lei nº 13.089, de 2015", "Institui o Estatuto da Metrópole, altera a Lei nº 10.257, de 10 de julho "
+                         "de 2001, e dá outras providências.", "2015-01-12", "2015-01-13", "_Ato2015-2018/2015/Lei/L13089.htm"),
     "dl-25-1937": _L("Decreto-Lei nº 25, de 1937", "Organiza a proteção do patrimônio histórico e artístico nacional.",
                      "1937-11-30", "1937-12-06", PAGES["del0025"]),
 }
@@ -6669,6 +6679,25 @@ B13.OPEN_ITEMS[_LTOMB] = (
     "Decreto-Lei 25/1937 (open items): in force in the Distrito Federal from 9.12.1937 under the Introdução ao Código Civil of "
     "1916 (three days after publication); the text was republished on 11.12.1937, which is not taken to restart the term; "
     "'Vide' pointer (Lei 6.292/1975) strikes no words and is not modelled")
+
+# part zzzk (thirty-second session): Lei 13.089/2015 (Estatuto da Metrópole). Hand items set only when the act runs.
+_EMETR = "estatuto-da-metropole"
+if any(a["slug"] == _EMETR for a in ACTS):
+    P.MP_LAPSE["mp-862-2018"] = (
+        "2019-05-15", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 29, de 2019 (DOU 16.5.2019): Medida "
+                      "Provisória 862/2018 'teve seu prazo de vigência encerrado no dia 14 de maio do corrente ano'; the "
+                      "wordings it replaced are back from 15.5.2019")
+    B15.TEXT_FIX.append(("l13089", "com base nos i ncisos XX", "com base nos incisos XX",
+                         "Lei 13.089 art. 1: the annotated page splits 'incisos' at a link (the 'i' outside it, 'ncisos XX do "
+                         "art. 21' inside); read as one word, as Lei 13.089's text prints it"))
+_W862_4 = ("Lei 13.089 art. 4 parágrafo único: Medida Provisória 862/2018 (DOU 5.12.2018) made it § 1º (the same words) and "
+           "added §§ 2º and 3º; Planalto prints the parágrafo único, the MP's struck §§ 1º-3º and the parágrafo único again, "
+           "unstruck and without a note: the first copy ends on 5.12.2018, the second stands from 15.5.2019, when the MP "
+           "lapsed (the reader had dated the second copy from 5.12.2018, so the parágrafo único stood beside the MP's § 1º)")
+B8.SPAN_FIX += [
+    ((_EMETR, "art-04", "Parágrafo único", "Parágrafo único. Até a aprovação das leis complementares", 1),
+     {"start": "2019-05-15", "start_law": "mp-862-2018-fim", "restored": True}, _W862_4),
+]
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

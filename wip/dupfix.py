@@ -82,7 +82,9 @@ def apply(part: dict, name: str, fixes: list[dict] | None = None) -> list[str]:
                     if u in (v.get("changes") or {}):
                         st[u] = copy.deepcopy(v["changes"][u])
             before.append({u: st.get(u) for u in units})
-        after = copy.deepcopy(before)
+        # one copy per version: versions in which a unit does not change share its text object in `before`, and an op
+        # applied to a shared object would be applied once per version (a drop_block then removes every run, not one)
+        after = [copy.deepcopy(b) for b in before]
         for f in mine:
             n = 0
             for i, v in enumerate(vs):

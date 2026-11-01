@@ -4,19 +4,6 @@
   {
    "part": "60-phase2",
    "act": "codigo-penal",
-   "unit": "art-121",
-   "from": "1942-01-01",
-   "until": "2020-01-23",
-   "op": "drop_block",
-   "block": [
-    "VIII - (VETADO):",
-    "Pena - reclusão, de doze a trinta anos."
-   ],
-   "why": "art. 121 § 2º: the '(VETADO)' inciso VIII and the penalty line printed after it stood from 1942; they start with Lei 13.964/2019"
-  },
-  {
-   "part": "60-phase2",
-   "act": "codigo-penal",
    "unit": "art-129",
    "from": "2024-10-10",
    "until": "2026-07-02",
@@ -196,31 +183,6 @@
   {
    "part": "70-clt",
    "act": "clt",
-   "unit": "art-534",
-   "from": "1946-02-23",
-   "until": "1957-09-23",
-   "op": "dedupe",
-   "lines": [
-    "§ 1º As federações serão constituídas por Estados, podendo o Ministro do Trabalho, Indústria e Comércio autorizar a constituições de federações interestaduais ou nacionais."
-   ],
-   "why": "art. 534 § 1º: the 1943 wording Decreto-Lei 8.987-A restored was read a second time"
-  },
-  {
-   "part": "70-clt",
-   "act": "clt",
-   "unit": "art-538",
-   "from": "1946-02-23",
-   "until": "1955-12-29",
-   "op": "dedupe",
-   "lines": [
-    "§ 1º A diretoria será constituida, no máximo, de sete e, no mínimo, de três membros, eleitos pelo conselho dos representantes, com mandato por dois anos.",
-    "§ 2º O presidente da federação ou confederação será escolhido, dentre os seus membros, pela diretoria."
-   ],
-   "why": "art. 538 §§ 1º and 2º: the 1943 wording Decreto-Lei 8.987-A restored was read a second time"
-  },
-  {
-   "part": "70-clt",
-   "act": "clt",
    "unit": "art-580",
    "from": "1943-11-10",
    "until": "1946-01-21",
@@ -329,34 +291,6 @@
     "Art. 553 - As infrações ao disposto neste Capítulo serão punidas, segundo o seu caráter e a sua gravidade, com as seguintes penalidades:"
    ],
    "why": "art. 553: the 1943 caput Medida Provisória 955/2020 brought back was read twice"
-  },
-  {
-   "part": "70-clt",
-   "act": "clt",
-   "unit": "titulos",
-   "from": "2019-11-12",
-   "until": "2020-04-20",
-   "op": "drop_block",
-   "block": [
-    "CAPÍTULO I",
-    "DA FISCALIZAÇÃO, DA AUTUAÇÃO E DA IMPOSIÇÃO DE MULTAS"
-   ],
-   "why": "Título VII Capítulo I: its heading as Medida Provisória 905/2019 printed it was read twice"
-  },
-  {
-   "part": "70-clt",
-   "act": "clt",
-   "unit": "titulos",
-   "from": "2020-04-20",
-   "until": "2020-08-18",
-   "op": "drop_block",
-   "block": [
-    "TÍTULO VII",
-    "DO PROCESSO DE MULTAS ADMINISTRATIVAS",
-    "CAPÍTULO I",
-    "DA FISCALIZAÇÃO, DA AUTUAÇÃO E DA IMPOSIÇÃO DE MULTAS"
-   ],
-   "why": "Título VII and its Capítulo I: the 1943 headings Medida Provisória 955/2020 brought back were read twice"
   },
   {
    "part": "99-batch13f",
