@@ -363,7 +363,7 @@ def page_info(key: str) -> dict:
     body = re.sub(r"(?is)<script.*?</script>|<style.*?</style>|<strike>.*?</strike>", " ", t)
     x = norm(htmlmod.unescape(re.sub(r"<[^>]+>", " ", body)))
     info: dict = {"source_url": u, "sha256": hashlib.sha256(b).hexdigest()}
-    m = re.search(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI)[^,]{0,40}?N[º°O]?\s*\.?\s*[\d.]+\s*,?\s*DE\s+(\d{1,2})º?\s+DE\s+(\w+)\s+DE\s+(\d{4})",
+    m = re.search(r"(?:LEI|MEDIDA PROVIS[ÓO]RIA|DECRETO-LEI)[^,]{0,40}?N\s*[º°O]?\s*\.?\s*[\d.]+\s*,?\s*DE\s+(\d{1,2})º?\s+DE\s+(\w+)\s+DE\s+(\d{4})",
                   head, re.I)
     if m and m.group(2).lower() in MONTHS:
         info["enacted"] = f"{int(m.group(3)):04d}-{MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
