@@ -31,7 +31,7 @@ LINKS = [
     r"Vig\s?[êe]\s?ncia(?:\s+encerrada|\s+e\s+produ[çc][ãa]o\s+de\s+efeitos?)?",
     r"Regulamento\b(?:\s*:\s*" + _REF + r"(?:[\s.]+" + _REF + r")*)?",   # 'Regulamento: Decreto nº 6.829, de 2009.'
     r"Regulamenta(?=\s+(?:Disp[õo]e|Altera|Institui|Estabelece)\b)",   # a 'Regulamento' link printed 'Regulamenta'
-    r"Produ[çc][ãa]o\s+de\s+e\s?feitos?",
+    r"P\s?rodu[çc][ãa]o\s+de\s+e\s?feitos?",       # also 'P rodução de efeitos' (LC 190/2022)
     r"Exposi[çc][ãa]o\s+d[aeo]s?\s+[Mm]otivos?",
     r"Te(?:x)?to\s+(?:(?:para|de)\s+impress\s?[ãa]o|compilado)",
     r"Prejudicad[ao]\b",
