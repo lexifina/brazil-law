@@ -2449,10 +2449,17 @@ def _inner(*a):
         dec.append("Lei 10.522 art. 37-B § 10 (Lei 11.941/2009): Planalto strikes only the dash in 'Custódia – SELIC' (also on "
                    "Lei 11.941's own page) in a line in force; the strike is read as a typesetting slip and the line as unstruck, "
                    "dash kept (" + ", ".join(dict.fromkeys(MIXED_PLAIN)) + ").")
-    if any(not x.startswith(("l9430", "l9873")) for x in BARE_TEXT_USED):
+    _BX = ("l9430", "l9873", "l10637")
+    if any(not x.startswith(_BX) for x in BARE_TEXT_USED):
         dec.append("Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº [...]' (Decretos-"
                    "Leis 2.449/1988 and 1.730/1979): these words name the wording of the other act the article refers to; they "
-                   "are part of the article's text, not an amendment note (" + ", ".join(x for x in BARE_TEXT_USED if not x.startswith(("l9430", "l9873"))) + ").")
+                   "are part of the article's text, not an amendment note (" + ", ".join(x for x in BARE_TEXT_USED if not x.startswith(_BX)) + ").")
+    if any(x.startswith("l10637") for x in BARE_TEXT_USED):
+        dec.append("Lei 10.637 art. 47 § 2º ('[...] o art. 14 da Lei nº 9.648, de 27 de maio de 1998, com a redação dada pela Lei nº "
+                   "10.433, de 24 de abril de 2002, para efeitos de incidência [...]') and the 2002 wording of art. 54 ('[...] o art. "
+                   "1º do Decreto-Lei nº 1.593, de 21 de dezembro de 1977, com a redação dada pela Medida Provisória nº 2.158-35, de 24 "
+                   "de agosto de 2001.'): these words name the wording of the other act the article refers to; they are part of the "
+                   "text, not an amendment note (" + ", ".join(dict.fromkeys(x for x in BARE_TEXT_USED if x.startswith("l10637"))) + ").")
     if QUOTE_DROPPED:
         dec.append("Lei 9.249 art. 9: the caput as Medida Provisória 694/2015 worded it (1.1.2016 to its lapse on 8.3.2016) is "
                    "printed after the opening quotation mark of the MP's quoted text; the mark is left out.")
@@ -3098,7 +3105,7 @@ if any(a["slug"] in (_L10637, _L10833) for a in ACTS):
     for _how in ("Redação dada", "Incluído"):
         P.NOTE_FIX[f"({_how} pela Medida Provisória nº 11.488, de 2007)"] = (
             f"({_how} pela Medida Provisória nº 447, de 2008)",
-            "Lei 10.637 art. 10: the note names 'Medida Provisória nº 11.488, de 2007' (no such MP; Lei 11.488/2007 is a "
+            f"Lei 10.637 art. 10 ('{_how}'): the note names 'Medida Provisória nº 11.488, de 2007' (no such MP; Lei 11.488/2007 is a "
             "Lei); its link is to Medida Provisória 447/2008, whose art. 2 gave art. 10 these words (read on its page)")
 
 _W413 = ("Lei 10.637 arts. 2 and 3: Medida Provisória 413/2008 (DOU 3.1.2008) art. 14 changed them (art. 2 XI and XII, art. 3 I "
