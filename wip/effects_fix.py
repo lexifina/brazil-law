@@ -531,8 +531,8 @@ MOVES: dict[str, list] = {
     "99-batch17zl.json": [
         ("lei-10833-de-2003", "lei-10865-2004", "2004-04-30", [(ALL, "2004-05-01")],
          "Lei 10.865/2004 art. 53: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir do dia 1º de maio "
-         "de 2004, ressalvadas as disposições contidas nos artigos anteriores' (DOU 30.4.2004): its art. 21 (Lei 10.833 arts. 1, "
-         "2, 3, 6, 10, 12, 15, 25, 27, 32, 34, 49, 50, 51, 52 and 53) from 1.5.2004"),
+         "de 2004, ressalvadas as disposições contidas nos artigos anteriores' (DOU 30.4.2004): its changes to Lei 10.833 from "
+         "1.5.2004"),
         ("lei-10833-de-2003", "lei-10925-2004", "2004-07-26",
          [(lambda h: path_sel([("art-02", "§ 1º", None, None)], None)(h), "2004-11-01"), ("units:art-51", "2004-11-01")],
          "Lei 10.925/2004 art. 17: 'Produz efeitos: I - a partir do 1º (primeiro) dia do 4º (quarto) mês subseqüente ao de "
