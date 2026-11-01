@@ -2791,6 +2791,11 @@ _inner17 = B6.PB5B._write_part5
 
 def _inner(*a):
     dec = list(EXTRA)
+    if PNE_ANNEX:
+        dec.append("Lei 13.005: Planalto prints the Anexo (art. 1: the plan 'na forma do Anexo'; its 20 metas and their "
+                   "estratégias) after the signature; it is part of the Lei and is read as units of its own: 'anexo' (the lines "
+                   "'ANEXO' and 'METAS E ESTRATÉGIAS') and one unit per meta, anexo-meta-01 to anexo-meta-20, holding the "
+                   "meta, the line 'Estratégias:' and the numbered estratégias (labels 'Meta N' and 'N.M)').")
     if RENUM_ART_USED:
         dec.append("Lei 7.418: Lei 7.619/1987 (DOU 1.10.1987) art. 1 rewrote art. 1 caput and revoked art. 1 § 2º and art. 2, "
                    "'renumerando-se os demais'; it changed no other words. Planalto prints the other 1985 articles only under "
