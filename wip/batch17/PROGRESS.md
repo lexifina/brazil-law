@@ -464,6 +464,20 @@ Lei 12.334/2010 barragens (3 versions), Lei Complementar 105/2001 sigilo bancár
 - effrep (zd-effrep*.log). effects_fix 0 moves; all checks 0. Part sha 6dde61b9 (pre-effects b1f9424c); merged 183 acts, 3074
   versions, 2315 commits, check 0/0, compare identical, audit clean (final build after README edits: final9-build.log).
 
+## 99-batch17zf - PUBLISHed 2026-11-01 (tenth session)
+Lei 9.984/2000 (ANA), 18 versions 2000-07-18 .. 2023-06-20 (l9984 vs l9984compilado, 0 diffs, 0 problems).
+- Pinned law:lei-11805-2008 (iaonly.py gap). MP 437/2008 fate: revoked by MP 439/2008 art. 4 (DOU 29.8.2008 extra; Lei 11.805
+  art. 4 repeats it); MP 439's page is pinned under the misprinted key law:mp-439-1998 (note 'Vide MP 439, de 1998'), so the
+  credit uses B8.EXTRA_LAWS['mp-439-2008'] (set only when the act runs). ana_437() (apply_rewrites): every struck MP 437 line ends
+  29.8.2008 (end_how revoked-mp) and is removed from B.UNDATED / B7.NEXT_WORDING_USED (else the generic decisions call them
+  undated). MP_PENDING mp-437-2008 and mp-2216-2001 (Lei 9.984 text), scoped.
+- paragraphs wrapper l9984: 'XXIIIA'/'XXIVA -'/'§ 9º A'/'§ 10A.' -> MP 868 labels XXIII-A, XXIV-A, § 9º-A, § 10-A; MP 844's
+  'Art. 4ºA.' block -> unit art-04-a (L9984_FIXED). BARE_TEXT l9984 + l9984-compilado art-29 (_BARE_RX9984). SPAN_FIX art-04-b MP
+  844 caput pinned (printed after Lei 14.026's 4-B); art-04 § 2º one wording with both MP gaps, copies nth 1/2 skipped.
+- effrep (zf-effrep.log): all on publication (13.848 90 days by the reader). effects_fix 0 moves. Benign: leakcheck 2 literal
+  '(Revogado).', quotecheck 30 (quoted Lei 8.001 / 9.433 text in arts. 28-32). Part sha b125c12e; zd reparse identical;
+  merged 184 acts, 3092 versions, 2318 commits, check 0/0, compare identical, audit clean. README row + jurisdiction.json.
+
 ## State at handoff (batch 17, ninth session, 2026-11-01)
 Parts 99-batch17a..zd installed with .PUBLISH (this session: z, za, zb, zc, zd = 9 acts, 95 versions); merged 183 acts, 3074
 versions, 2315 commits, check 0/0, --compare identical, audit clean. README rows + jurisdiction.json (183 acts) current.

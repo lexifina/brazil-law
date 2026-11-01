@@ -129,6 +129,13 @@ PAGES.update({
     "l9984-compilado": "leis/l9984compilado.htm",
     "l12334": "_ato2007-2010/2010/lei/l12334.htm",
     "lcp105": "leis/lcp/lcp105.htm",
+    # parts zg, zh
+    "l11182": "_ato2004-2006/2005/lei/l11182.htm",
+    "l13575": "_ato2015-2018/2017/lei/l13575.htm",
+    "l11428": "_ato2004-2006/2006/lei/l11428.htm",
+    "l4886": "leis/l4886.htm",
+    "l8397": "leis/l8397.htm",
+    "l9795": "leis/l9795.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -253,6 +260,18 @@ ALL_ACTS: list[dict] = [
          "Política Nacional de Segurança de Barragens (Lei nº 12.334, de 20 de setembro de 2010)", 2),
     _act("lei-do-sigilo-bancario", "LC105", "lcp105", "lcp105", "lc-105-2001",
          "Sigilo das operações de instituições financeiras (Lei Complementar nº 105, de 10 de janeiro de 2001)", 2),
+    _act("lei-da-anac", "LANAC", "l11182", "l11182", "lei-11182-2005",
+         "Agência Nacional de Aviação Civil - ANAC (Lei nº 11.182, de 27 de setembro de 2005)", 2),
+    _act("lei-da-anm", "LANM", "l13575", "l13575", "lei-13575-2017",
+         "Agência Nacional de Mineração - ANM (Lei nº 13.575, de 26 de dezembro de 2017)", 2),
+    _act("lei-da-mata-atlantica", "LMA", "l11428", "l11428", "lei-11428-2006",
+         "Lei da Mata Atlântica (Lei nº 11.428, de 22 de dezembro de 2006)", 2),
+    _act("lei-dos-representantes-comerciais", "LRC", "l4886", "l4886", "lei-4886-1965",
+         "Representantes comerciais autônomos (Lei nº 4.886, de 9 de dezembro de 1965)", 2),
+    _act("lei-da-medida-cautelar-fiscal", "LMCF", "l8397", "l8397", "lei-8397-1992",
+         "Medida cautelar fiscal (Lei nº 8.397, de 6 de janeiro de 1992)", 2),
+    _act("lei-da-educacao-ambiental", "LPNEA", "l9795", "l9795", "lei-9795-1999",
+         "Política Nacional de Educação Ambiental (Lei nº 9.795, de 27 de abril de 1999)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -288,6 +307,9 @@ PARTS: dict[str, list[str]] = {
     "zc": ["lei-da-participacao-nos-lucros", "lei-do-servico-voluntario", "lei-do-aviso-previo"],
     "zd": ["lei-de-seguranca-de-barragens", "lei-do-sigilo-bancario"],
     "zf": ["lei-da-ana"],   # configured, not published (MP 844/868 chain, MP 437 fate): see PROGRESS
+    "zg": ["lei-da-anac", "lei-da-anm"],
+    "zh": ["lei-da-mata-atlantica", "lei-dos-representantes-comerciais", "lei-da-medida-cautelar-fiscal",
+           "lei-da-educacao-ambiental"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -382,6 +404,13 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-12334-2010": ("2010-09-21", f"Lei 12.334/2010 art. 23: {_PUB} (DOU 21.9.2010)"),
     "lc-105-2001": ("2001-01-11", "Lei Complementar 105/2001 art. 12: 'Esta Lei Complementar entra em vigor na data de sua "
                                   "publicação' (DOU 11.1.2001)"),
+    "lei-11182-2005": ("2005-09-28", f"Lei 11.182/2005 art. 51: {_PUB} (DOU 28.9.2005)"),
+    "lei-13575-2017": ("2017-12-27", "Lei 13.575/2017 art. 38: 'Esta Lei entra em vigor: I - (VETADO); II - quanto aos demais "
+                                     "dispositivos, na data de sua publicação' (DOU 27.12.2017)"),
+    "lei-11428-2006": ("2006-12-26", f"Lei 11.428/2006 art. 51: {_PUB} (DOU 26.12.2006)"),
+    "lei-4886-1965": ("1965-12-10", "Lei 4.886/1965 art. 48: 'Esta lei entra em vigor na data de sua publicação' (DOU 10.12.1965)"),
+    "lei-8397-1992": ("1992-01-07", "Lei 8.397/1992 art. 19: 'Esta lei entra em vigor na data de sua publicação' (DOU 7.1.1992)"),
+    "lei-9795-1999": ("1999-04-28", f"Lei 9.795/1999 art. 21: {_PUB} (DOU 28.4.1999)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -564,6 +593,18 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "2010-09-21", PAGES["l12334"]),
     "lc-105-2001": _L("Lei Complementar nº 105, de 2001", "Dispõe sobre o sigilo das operações de instituições financeiras e dá "
                       "outras providências.", "2001-01-10", "2001-01-11", PAGES["lcp105"]),
+    "lei-11182-2005": _L("Lei nº 11.182, de 2005", "Cria a Agência Nacional de Aviação Civil – ANAC, e dá outras providências.",
+                         "2005-09-27", "2005-09-28", PAGES["l11182"]),
+    "lei-13575-2017": _L("Lei nº 13.575, de 2017", "Cria a Agência Nacional de Mineração (ANM); extingue o Departamento Nacional de "
+                         "Produção Mineral (DNPM) [...].", "2017-12-26", "2017-12-27", PAGES["l13575"]),
+    "lei-11428-2006": _L("Lei nº 11.428, de 2006", "Dispõe sobre a utilização e proteção da vegetação nativa do Bioma Mata "
+                         "Atlântica, e dá outras providências.", "2006-12-22", "2006-12-26", PAGES["l11428"]),
+    "lei-4886-1965": _L("Lei nº 4.886, de 1965", "Regula as atividades dos representantes comerciais autônomos.", "1965-12-09",
+                        "1965-12-10", PAGES["l4886"]),
+    "lei-8397-1992": _L("Lei nº 8.397, de 1992", "Institui medida cautelar fiscal e dá outras providências.", "1992-01-06",
+                        "1992-01-07", PAGES["l8397"]),
+    "lei-9795-1999": _L("Lei nº 9.795, de 1999", "Dispõe sobre a educação ambiental, institui a Política Nacional de Educação "
+                        "Ambiental e dá outras providências.", "1999-04-27", "1999-04-28", PAGES["l9795"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -1627,6 +1668,11 @@ def ana_437(paras, act):
         p.update({"end": "2008-08-29", "end_law": "mp-439-2008", "end_how": "revoked-mp", "skip": False, "gaps": [],
                   "pinned": True})
         ANA_437.append(f"{p['unit']} [{p['label']}]")
+        # the earlier passes listed these lines as undated or as ended by the next wording: they are dated here
+        und = f"{act['short']} {p['unit']} [{p['label'] or 'line'}] {p['text'][:60]!r}"
+        B.UNDATED[:] = [u for u in B.UNDATED if not u.startswith(und)]
+        nxt = f"{act['slug']} {p['unit']} [{p['label']}] {p['text'][:40]!r} ends "
+        B7.NEXT_WORDING_USED[:] = [u for u in B7.NEXT_WORDING_USED if not u.startswith(nxt)]
 
 
 def ch3_successors(paras, act):
@@ -2447,10 +2493,22 @@ if any(a["slug"] == _LANA for a in ACTS):
 _W4B = ("Lei 9.984 art. 4º-B: Planalto prints Medida Provisória 844/2018's art. 4º-B (in force 9.7.2018, lapsed 19.11.2018) "
         "after the art. 4º-B Lei 14.026/2020 gave it; the MP's wording stands from 9.7.2018 to 20.11.2018 only, before Lei "
         "14.026's, and is not a restored wording")
+_W42 = ("Lei 9.984 art. 4 § 2º (2000): revoked by Medida Provisória 844/2018 (9.7.2018, lapsed 19.11.2018) and again by Medida "
+        "Provisória 868/2018 (28.12.2018, lapsed 3.6.2019), then by Lei 14.026/2020 (16.7.2020). Planalto prints the 2000 "
+        "wording three times, struck, one copy per revocation; it is one wording, absent while each MP stood and in force "
+        "again from each lapse to 16.7.2020; the second and third copies are left out")
 B8.SPAN_FIX += [
     ((_LANA, "art-04-b", "Art. 4º-B", "Art. 4º-B. O acesso aos recursos públicos federais", 0),
      {"start": "2018-07-09", "start_law": "mp-844-2018", "end": "2018-11-20", "end_law": "mp-844-2018-fim", "end_how": "lapse"},
      _W4B),
+    ((_LANA, "art-04", "§ 2º", "§ 2º As ações a que se refere o inciso X deste artigo", 0),
+     {"end": "2020-07-16", "end_law": "lei-14026-2020", "end_how": "successor",
+      "gaps": [("2018-07-09", "2018-11-20", "mp-844-2018", "mp-844-2018-fim"),
+               ("2018-12-28", "2019-06-04", "mp-868-2018", "mp-868-2018-fim")]}, _W42),
+    ((_LANA, "art-04", "§ 2º", "§ 2º As ações a que se refere o inciso X deste artigo", 1),
+     {"skip": True, "end_how": "duplicate"}, _W42),
+    ((_LANA, "art-04", "§ 2º", "§ 2º As ações a que se refere o inciso X deste artigo", 2),
+     {"skip": True, "end_how": "duplicate"}, _W42),
 ]
 B13.OPEN_ITEMS[_LANA] = (
     "Lei 9.984 (open items): art. 4 XVIII, art. 18-A and the revocations of arts. 17 and 18 are dated by Medida "
