@@ -5416,8 +5416,6 @@ if any(a["slug"] == _LCEE for a in ACTS):
                       "provision it had revoked is back from 2.6.2018")
     B.EXPLAINED[_LCEE] = {
         "art-10": _DOTTED, "art-11": _DOTTED, "art-13": _DOTTED,
-        "art-03-d": "Planalto's page prints art. 3º-D as its label only ('Art. 3º-D.', with the notes 'Incluído pela Lei nº "
-                    "15.269, de 2025' and 'Produção de efeitos'); the history reads its text from Lei 15.269's art. 9",
     }
     B13.OPEN_ITEMS[_LCEE] = (
         "Lei 10.848 (open items): the text before 16.3.2004 (Medida Provisória 144/2003, of which this Lei is the conversion) "
@@ -5457,7 +5455,7 @@ P.paragraphs = B.paragraphs = paragraphs
 if any(a["slug"] == _LCEE for a in ACTS):
     EXTRA.append("Lei 10.848 art. 3º-D: Planalto's page prints the article as its label only ('Art. 3º-D.', 'Incluído pela Lei nº "
                  "15.269, de 2025', 'Produção de efeitos'); its text (caput, incisos I-II, §§ 1º-5º) is read from Lei 15.269/2025's "
-                 "own page (art. 9, the quoted article), credited to Lei 15.269; it takes effect 90 days after publication "
+                 "own page (art. 9, the quoted article; the check page is read the same way), credited to Lei 15.269; it takes effect 90 days after publication "
                  "(art. 24 II: 'em 90 (noventa) dias da data de sua publicação, quanto ao art. 9º, na parte que inclui o art. "
                  "3º-D'; DOU 25.11.2025), 23.2.2026 (effects_fix).")
 
