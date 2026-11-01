@@ -4135,6 +4135,14 @@ if any(a["slug"] == _LPNE for a in ACTS):
         "extension is recorded as continuing the plan. Planalto's page (capture of 20.10.2026) names no later law that extends "
         "the term again, and Planalto does not strike a lapsed plan, so the replay check compares the last version before the "
         "end of the term with the page's text")
+B13.OPEN_ITEMS[_LPNE] = (
+    "Lei 13.005 (open items): the month between the end of the ten-year term (25.6.2024) and Lei 14.934/2024 (26.7.2024) is not "
+    "shown as a gap; 'Vide ADI 5668' (art. 2 III) and 'Vide Decreto 11.713/2023' strike no words and are not modelled; the "
+    "plans of the States and Municipalities (art. 8) are not part of the history")
+B13.OPEN_ITEMS[_LSNV] = (
+    "Lei 12.379 (open items): Anexos I to VII were vetoed (Planalto prints '(VETADO)' for each, after the signature) and are not "
+    "part of the history; the relações descritivas that Lei 14.273/2021's art. 41-A leaves to acts of the Executive are not "
+    "modelled; the vetoed art. 45 stays as Planalto prints it")
 _W1065S = ("Lei 12.379: Medida Provisória 1.065/2021 (DOU 30.8.2021) lapsed at the close of 6.2.2022 (Ato Declaratório 5/2022), and "
            "Lei 14.273/2021 (DOU 23.12.2021, edição extra; no vigência clause, so in force 45 days later, on 6.2.2022) art. 76 gave "
            "new wordings to arts. 2, 20 IV and parágrafo único, 21 IV to VI, 22 (caput, § 1º caput, I caput, c) to f), II, § 2º), "
