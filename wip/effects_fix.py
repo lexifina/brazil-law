@@ -594,6 +594,13 @@ MOVES: dict[str, list] = {
          "Lei Complementar 214/2025 art. 544: 'produzindo efeitos: I - a partir do primeiro dia do quarto mês subsequente ao da sua "
          "publicação, em relação aos arts. 537 a 540' (DOU 16.1.2025): its art. 539 (Lei 10.833 art. 2 § 1º-A) from 1.5.2025"),
     ],
+    "99-batch17zzr.json": [
+        ("lei-da-comercializacao-de-energia-eletrica", "lei-15269-2025", "2025-11-25", [("units:art-03-d", "2026-02-23")],
+         "Lei 15.269/2025 art. 24: 'Esta Lei entra em vigor na data de sua publicação e produz efeitos: [...] II - em 90 "
+         "(noventa) dias da data de sua publicação, quanto ao art. 9º, na parte que inclui o art. 3º-D na Lei nº 10.848 [...]; "
+         "[...] IV - na data de sua publicação, quanto aos demais dispositivos' (DOU 25.11.2025): art. 3º-D from 23.2.2026, its "
+         "other changes to Lei 10.848 on publication"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,

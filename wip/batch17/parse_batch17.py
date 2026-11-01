@@ -5457,7 +5457,7 @@ if any(a["slug"] == _LCEE for a in ACTS):
     EXTRA.append("Lei 10.848 art. 3º-D: Planalto's page prints the article as its label only ('Art. 3º-D.', 'Incluído pela Lei nº "
                  "15.269, de 2025', 'Produção de efeitos'); its text (caput, incisos I-II, §§ 1º-5º) is read from Lei 15.269/2025's "
                  "own page (art. 9, the quoted article), credited to Lei 15.269; it takes effect 90 days after publication "
-                 "(art. 22 II: 'em 90 (noventa) dias da data de sua publicação, quanto ao art. 9º, na parte que inclui o art. "
+                 "(art. 24 II: 'em 90 (noventa) dias da data de sua publicação, quanto ao art. 9º, na parte que inclui o art. "
                  "3º-D'; DOU 25.11.2025), 23.2.2026 (effects_fix).")
 
 # A Medida Provisória's wording that its conversion law does not keep: Planalto prints, after the MP's (struck) wording, the
