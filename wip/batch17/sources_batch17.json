@@ -213,6 +213,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "ato:atocd-2005-mpv246",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Congresso/atocdmpv246-05.htm",
+   "ts": "20260609120248",
+   "via": "wayback.py"
+  },
+  {
    "id": "ato:atocn-18-2010-mpv478",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Congresso/atocn-18-mpv478.htm",
    "ts": "20260715013357",
@@ -269,6 +275,18 @@
    "id": "ctx:camara-lei-4886-1965-retificacao",
    "url": "https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-4886-9-dezembro-1965-368416-retificacao-50618-pl.html",
    "ts": "20260514110054",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ctx:rsf-12-1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/Resolu%C3%A7%C3%A3o/ResSF/ResSF12-90.htm",
+   "ts": "20260727013221",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ctx:rsf-31-1993",
+   "url": "https://www.planalto.gov.br/ccivil_03/Resolu%C3%A7%C3%A3o/ResSF/ResSF31-93.htm",
+   "ts": "20260727013221",
    "via": "wayback.py"
   },
   {
@@ -4845,7 +4863,7 @@
    }
   },
   {
-   "id": "law:mp-246-1997",
+   "id": "law:mp-246-2005",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Mpv/246.htm",
    "ts": "20260714170905",
    "via": "wayback.py"

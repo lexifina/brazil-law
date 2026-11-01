@@ -1808,3 +1808,11 @@ parse_batch17.py, effects_fix.py, README, jurisdiction.json before the session; 
   art. 4º-A after § 3º with (NR)); OPEN_ITEMS. Trial t1 had 2 'restored wording' problems + 2 undated lines, all from the bad notes.
 - pipe.sh zzza (b28/zzza-pipe1.out): sha 6e0c81f1 x2, 0 moves, flags benign (PUBLISH). conv 0. Installed a9b3d6ea; rows-zzza.json;
   final28b-build.log: 264 acts, 3678 versions, 2630 commits, check 0/0, compare identical, audit clean. PIDs in b28 logs, all exited.
+### 99-batch17zzzb - PUBLISHed: Lei 8.159/1991 (LArq, 2) + Lei Complementar 35/1979 (LOMAN, 6)
+- Pages pinned (`iaonly.py pages`, 5): l8159, l9491, l13334, lcp35, l5010 (ts in sources_batch17.json). `laws l8159 lcp35 l5010 l9491`
+  25 new pins; missing 0. gap pins: law:mp-246-2005, ato:atocd-2005-mpv246 (Câmara rejection, session 21.6.2005, DOU 22.6.2005),
+  ctx:rsf-12-1990, ctx:rsf-31-1993. Bad pin law:mp-246-1997 (Lei 9.491 note misprint; page = MP 246/2005) removed and added to
+  bad_pins.json. headyear (b28/hy4.log) = hy1 + NOHEAD law:lei-6044-1974 (UTF-8 BOM page, Vide only; benign).
+- Block '# part zzzb': NOTE_FIX 'Lei nº 54, de 22.12.1986' x2; P.COURTS rsf-12-1990 / rsf-31-1993 (batch15 model); SPAN_FIX _W108 +
+  EXPLAINED art-108. pipe.sh zzzb (b28/zzzb-pipe3.out): sha 87ef6f8a x2, 0 moves, flags benign. Installed; rows-zzzb.json;
+  final28c-build.log: 266 acts, 3686 versions, 2637 commits, check 0/0, compare identical, audit clean.

@@ -6075,6 +6075,102 @@ B13.OPEN_ITEMS[_LCPR] = (
     "2.117-13/2000, whose reissued chain is not part of the history: the notes credit the Lei); 'Vide' pointers (Decreto "
     "10.828/2021) and regulations strike no words and are not modelled")
 
+# part zzzb (twenty-eighth session): Lei 8.159/1991 (arquivos), Lei Complementar 35/1979 (LOMAN)
+_LOMAN = "lei-organica-da-magistratura-nacional"
+if any(a["slug"] == _LOMAN for a in ACTS):
+    for _how in ("Incluído", "Redação dada"):
+        P.NOTE_FIX[f"({_how} pela Lei nº 54, de 22.12.1986)"] = (
+            f"({_how} pela Lei Complementar nº 54, de 22.12.1986)",
+            f"Lei Complementar 35 art. 65 (II, § 3º): the note '({_how} pela Lei nº 54, de 22.12.1986)' omits 'Complementar' (its "
+            "link goes to Lei Complementar 54/1986's page, which gives these wordings): read as Lei Complementar 54")
+    P.COURTS["rsf-12-1990"] = {
+        "label": "Resolução do Senado Federal nº 12, de 1990", "kind": "law", "enacted": "1990-03-26", "published": "1990-03-27",
+        "title": "Suspende, de acordo com a decisão proferida pelo Supremo Tribunal Federal, em acórdão de 5 de março de 1986, a "
+                 "execução do parágrafo único do art. 45 da Lei Orgânica da Magistratura Nacional (Lei Complementar nº 35/79), nos "
+                 "termos do que dispõe o art. 52, inciso X, da Constituição.",
+        "url": PL + "Resolu%C3%A7%C3%A3o/ResSF/ResSF12-90.htm", "from": "1990-03-27",
+        "case": r"Res(?:olu[çc][ãa]o)?/SF\s+n[º°]\s*12/90",
+        "where": [(_LOMAN, "art-45", "Parágrafo único")],
+        "why": "Resolução do Senado Federal nº 12, de 26.3.1990 (published 27.3.1990; no vigência clause, so in force on "
+               "publication), artigo único: 'Fica suspensa, de acordo com a decisão proferida pelo Supremo Tribunal Federal, em "
+               "acórdão de 5 de março de 1986, a execução do parágrafo único do art. 45 da Lei Orgânica da Magistratura Nacional "
+               "[...] nos termos do que dispõe o art. 52, inciso X, da Constituição Federal'. Lei Complementar 35 art. 45 "
+               "parágrafo único ends on 27.3.1990, credited to the resolution (kind law: a Senate act, as for the other "
+               "Senate suspensions in the corpus)"}
+    P.COURTS["rsf-31-1993"] = {
+        "label": "Resolução do Senado Federal nº 31, de 1993", "kind": "law", "enacted": "1993-04-27", "published": "1993-04-29",
+        "title": "Suspende a execução do § 3º do art. 65, da Lei Complementar nº 35, de 1979.",
+        "url": PL + "Resolu%C3%A7%C3%A3o/ResSF/ResSF31-93.htm", "from": "1993-04-29",
+        "case": r"Resolu[çc][ãa]o/SF\s+n[º°]\s*31,\s*de\s*1993",
+        "where": [(_LOMAN, "art-65", "§ 3º")],
+        "why": "Resolução do Senado Federal nº 31, de 27.4.1993 (published 29.4.1993), art. 1: 'É suspensa a execução do § 3º do "
+               "art. 65, da Lei Complementar nº 35, de 1979, introduzido pela Lei Complementar nº 54, de 22 de dezembro de 1986, "
+               "julgado inconstitucional por decisão definitiva do Supremo Tribunal Federal, em 9 de dezembro de 1987'; art. 2: "
+               "in force on publication. Lei Complementar 35 art. 65 § 3º ends on 29.4.1993, credited to the resolution"}
+_W108 = ("Lei Complementar 35 art. 108 III: Lei Complementar 37/1979 (DOU 13.11.1979, in force on publication) art. 1 gave art. "
+         "108 a new inciso III (civil appeals, alíneas a-e) and a new inciso IV (criminal matters); Planalto prints the 1979 "
+         "inciso III unstruck above it, without a note. The 1979 inciso ends on 13.11.1979 (the duplicate check found both in "
+         "force)")
+B.EXPLAINED[_LOMAN] = {"art-108": "Planalto's page prints the 1979 inciso III unstruck above Lei Complementar 37's inciso III; it "
+                                   "ended on 13.11.1979 (see the art. 108 III decision)"}
+B8.SPAN_FIX += [
+    ((_LOMAN, "art-108", "III -", "III - limitar-se a competência do Tribunal de Alçada, em matéria penal", 0),
+     {"end": "1979-11-13", "end_law": "lc-37-1979", "end_how": "successor"}, _W108),
+]
+
+# part zzzc (twenty-eighth session): Lei 5.010/1966 (Justiça Federal), Lei 9.491/1997 (desestatização). Hand items set only
+# when the acts run.
+_LJF, _LPND = "lei-da-justica-federal-de-primeira-instancia", "lei-do-programa-nacional-de-desestatizacao"
+if any(a["slug"] == _LJF for a in ACTS):
+    P.VIGENCIA_FIXED["lei-13876-2019"] = (
+        "2020-01-01", "art. 5: 'Esta Lei entra em vigor: I - quanto ao art. 3º, a partir do dia 1º de janeiro de 2020; II - quanto "
+                      "aos demais dispositivos, na data de sua publicação' (DOU 23.9.2019): its art. 3 (Lei 5.010 art. 15) falls "
+                      "under I")
+if any(a["slug"] == _LPND for a in ACTS):
+    _N246 = "(Revogado pela Medida Provisória nº 246, de 1997 (Rejeitada) (Revogado pela Lei nº 11.483, de 2007)"
+    P.NOTE_FIX[_N246] = (
+        "(Revogado pela Medida Provisória nº 246, de 2005) (Rejeitada) (Revogado pela Lei nº 11.483, de 2007)",
+        "Lei 9.491 art. 2 § 6º: the note reads 'Medida Provisória nº 246, de 1997'; its link goes to Medida Provisória 246 of "
+        "6.4.2005, whose art. 32 revokes the paragraph: read as 2005")
+    P.MP_LAPSE["mp-246-2005"] = (
+        "2005-06-21", "rejected: Ato do Presidente da Câmara dos Deputados de 21 de junho de 2005 (DOU 22.6.2005) makes known "
+                      "that 'em sessão realizada no dia 21 de junho de 2005, o Plenário da Casa rejeitou a Medida Provisória nº "
+                      "246, de 06 de abril de 2005' (MP DOU 7.4.2005, in force on publication; its art. 32 revoked Lei 9.491 art. 2 "
+                      "§ 6º); the paragraph is back from 21.6.2005, as for Medidas Provisórias 850/2018 and 879/2019, until Lei "
+                      "11.483/2007 (DOU 31.5.2007, in force on publication) art. 33 revoked it")
+    B5.MP_REJECTED["mp-246-2005"] = ("Rejeição da Medida Provisória nº 246, de 2005",
+                                     "Ato do Presidente da Câmara dos Deputados: rejeição da Medida Provisória nº 246, de 2005")
+    P.MP_PENDING["mp-2161-2001"] = (
+        "Medida Provisória nº 2.161-35, de 23.8.2001 (DOU 24.8.2001, in force on publication), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2; its art. 1 gave Lei 9.491 the wordings Planalto credits to it. The notes name this "
+        "edition only, so the changes are dated by its publication; earlier editions of the chain are not modelled")
+    _W246 = ("Lei 9.491 art. 2 § 6º (added by Medida Provisória 2.161-35/2001): revoked by Medida Provisória 246/2005 from "
+             "7.4.2005; the Câmara dos Deputados rejected the MP on 21.6.2005, so the paragraph stood again from that day until "
+             "Lei 11.483/2007 revoked it (31.5.2007)")
+    B8.SPAN_FIX += [
+        ((_LPND, "art-02", "§ 6º", "§ 6º A celebração de convênios ou contratos pela Secretaria do Patrimônio da União", 0),
+         {"end": "2007-05-31", "end_law": "lei-11483-2007", "end_how": "note",
+          "gaps": [("2005-04-07", "2005-06-21", "mp-246-2005", "mp-246-2005-fim")]}, _W246),
+    ]
+    # Lei 11.483/2007 is named only in the second half of the § 6º note: its record as 99-batch17w has it
+    B8.EXTRA_LAWS["lei-11483-2007"] = {
+        "label": "Lei nº 11.483, de 2007", "kind": "law",
+        "title": "Dispõe sobre a revitalização do setor ferroviário, altera dispositivos da Lei n o 10.233, de 5 de junho de "
+                 "2001, e dá outras providências.",
+        "enacted": "2007-05-31", "published": "2007-05-31", "url": PL + "_Ato2007-2010/2007/Lei/L11483.htm",
+        "temporary_until": None, "restores": None, "note": None}
+    _W5_8 = ("Lei 9.491 art. 5 § 8º: Medida Provisória 2.161-35/2001 (DOU 24.8.2001, in force on publication) art. 1 gave the "
+             "paragraph its wording ('Ministro de Estado do Desenvolvimento, Indústria e Comércio Exterior [...] Chefe da Casa "
+             "Civil'), read on the MP's page; Planalto strikes the 1997 wording and notes the new one only 'Vide Medida "
+             "Provisória nº 2.161-35, de 2001'. The 1997 wording ends and the new one starts on 24.8.2001, credited to the MP "
+             "(without this the 1997 wording was left out as undated and the 2001 wording dated 1997)")
+    B8.SPAN_FIX += [
+        ((_LPND, "art-05", "§ 8º", "§ 8º Nas ausências ou impedimentos do Ministro de Estado do Planejamento", 0),
+         {"skip": False, "end": "2001-08-24", "end_law": "mp-2161-2001", "end_how": "successor"}, _W5_8),
+        ((_LPND, "art-05", "§ 8º", "§ 8º Nas ausências ou impedimentos do Ministro de Estado do Desenvolvimento", 0),
+         {"start": "2001-08-24", "start_law": "mp-2161-2001"}, _W5_8),
+    ]
+
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
     SRC.write_text('{\n "fetch": []\n}\n', encoding="utf-8", newline="\n")
