@@ -1640,3 +1640,41 @@ Lei 9.613 x3 (MP 870), 16a CBA x3 (MP 714), 17e Lei 12.587 (MP 818), 17j Lei 7.7
 - Merged build after docs (build2.log): 251 acts, 3566 versions, 2588 commits, check 0/0, compare identical, audit clean main +
   futuro. PUBLISH appended to 16b, zw, s. PIDs: survey 49188 (trial 41276), base 47452, new 11976, chk in
   pids-chk.txt, zw-ov 18544, zw-lc 23488, build1 6616, build2 9280; all mine, all exited.
+### Task 3: 99-batch17zzt and 99-batch17zzu PUBLISHed
+- Fetching: one LexML /urn record (lexml1.py lei-7661-1988=1988-05-16 -> DOU 18.5.1988; Planalto footer misprints 1998);
+  archive.org through the shared client: `iaonly.py gap l5197-compilado` (ts 20261012014540), `iaonly.py laws` 5 + 2 new pins,
+  `missing` 0. No challenge page.
+- zzt: Lei 7.661/1988 (lei-do-gerenciamento-costeiro, LGCost, 3 versions) + Lei 5.197/1967 (lei-de-protecao-a-fauna, LFauna,
+  6; check page l5197-compilado). Hand: B8.SPAN_FIX x3 (_W5197) for art. 27 § 4º, a), b): dated 17.2.1988 (Lei 7.653) ..
+  24.11.1988 (Lei 7.679) like alínea c) (one note for the block; latecaput found them dated 1967). pipe.sh zzt
+  (b26/zzt-pipe2.out): sha 7b345380 x2, 0 moves, flags benign (PUBLISH).
+- zzu: Lei 7.735/1989 (lei-do-ibama, LIbama, 8) + Lei 11.516/2007 (lei-do-instituto-chico-mendes, LICMBio, 5; law record =
+  14c/zp's). Hand (block '# part zzu' before SRC): NOTE_FIX 'pela Lei nº 11.516, 2007' x2; SPAN_FIX x3 (_W7735): Lei 7.735
+  art. 2 I, II start 27.4.2007 (MP 366 art. 5 rewrote the whole article; Planalto prints the MP's lines unstruck) and MP
+  2.216-37's parágrafo único ends 27.4.2007; EXPLAINED art-06 _DOTTED; OPEN_ITEMS both. pipe.sh zzu (b26/zzu-pipe2.out): sha
+  88e8505d x2, 0 moves, latecaput 0, quotecheck 30 = Lei 11.516's quoted amendments.
+- lawcmp: zzu clean; zzt only lei-9985-2000 URL case vs 99-batch14c ('l9985'; parts 6 and 10 and zzt use 'L9985'): OPEN, a
+  pre-existing difference like the Lei 12.783 one (not changed). headyear unchanged (b26/hy.log = b25/hy.log). Converted-MP
+  report on zzt/zzu: 0 places.
+- Docs rows-zzt.json, rows-zzu.json; final26-build.log: 255 acts, 3588 versions, 2599 commits, check 0/0, compare identical,
+  audit clean main + futuro. PIDs (all mine, all exited): lexml 31704, gap 40964, laws 2412/40040, missing 1436, trials
+  13652/37696/52552/34504, pipe PIDs in b26/zz[tu]-pipe*.out, conv 21608/50332, region/lawtxt runs in b26/*.log, final 53104.
+
+## State at handoff (batch 17, twenty-sixth session, 2026-11-01)
+Done: Task 1 (converted-MP survey of all 79 parts with MPs: 2 wrong places fixed, 16b Lei 8.036 art. 15 and zw Lei 10.973
+art. 2 V; 16b/zw re-PUBLISHed), Task 2 (Lei 12.783 record = 17z/zzr form in part s; s re-PUBLISHed), Task 3 (zzt Leis 7.661,
+5.197; zzu Leis 7.735, 11.516 PUBLISHed). Final merged build after all docs (brazil-b26/final26-build.log): 255 acts, 3588
+versions, 2599 commits, check 0/0, --compare identical, audit_push clean main + futuro; README rows (+ FGTS 52) and
+jurisdiction.json (255 acts, 3588 versions) current. Nothing running. Fetching: archive.org (shared client) + 1 LexML record;
+robots.txt read; no challenge page.
+New in code: parse_batch16 __main__-only CONV_RESTORE16 (FGTS); parse_batch17 CONV_RESTORE[_LINOV] + CONV_WHY/_WCONV_RULE,
+part s ACT_LAWS lei-12783-2013, zzt/zzu config (PAGES l5197-compilado, acts, PARTS, ACT_DAY, ACT_LAWS, SPAN_FIX/NOTE_FIX
+blocks). Backups: brazil-b26/parse_batch16.before.py, parse_batch17.before.py, before/.
+Tool for later: brazil-b26/conv_report.py <any Brazil parse script> --dry (env for part/out) prints every converted-MP place
+after all rules; survey.py runs it over every part with MPs. Run it on each new part with MPs.
+NEXT: energy (Leis 14.300, 10.438 (+compilada), 9.991, 9.847 (+compilado)), banking (LC 130, Leis 10.214, 13.506, 8.929,
+13.775), public administration (Leis 8.159, 9.491, 13.334; LC 35/1979; Lei 5.010/1966).
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once
+archive.org has a capture of _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026.
+OPEN for the coordinator: lei-9985-2000 URL case: 99-batch14c 'leis/l9985.htm' vs 99-batch6, 99-batch10, 99-batch17zzt
+'leis/L9985.htm' (the same kind of fix as Lei 12.783's, if wanted: 14c to the majority form).
