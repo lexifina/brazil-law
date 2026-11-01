@@ -23,7 +23,7 @@ LINKS = [
     # any parenthesised link: (Vide ...), (Promulgação partes vetadas), (Vigência), (Mensagem de veto), (Regulamento) ...
     r"\(\s*(?:V\s?ide|Promulga|Mensagem|Vig[êe]ncia|Regulamento|Produ[çc][ãa]o|Convers|Convertid|Revogad|Exposi|"
     r"Altera[çc][õo]es\s+contempladas|Texto|Rejeitad|Prorrogad|Partes\s+vetadas|Execu[çc][ãa]o)[^()]*(?:\([^()]*\)[^()]*)*\)",
-    r"V\s?ide\s*:?\s*-?\s*(?:ADIN?\s*n?[º°]?\s*s?\s*[\d./-]+(?:\s+[\d./-]+)*\.?|" + _REF + r"\)?)",
+    r"V\s?ide\s*:?\s*-?\s*(?:ADIN?\s*n?[º°]?\s*s?\s*[\d./-]+(?:\s+[\d./-]+)*(?:-?\s*STF\b)?\.?|" + _REF + r"\)?)",
     r"Convers[ãa]o\s+(?:d[aeo]\s+)?(?:Medida\s+Provis[óo]ria|MPV|MPv|Mpv|PMV)\s*" + _NUM + _OF + r"?",
     r"Convertid[ao]\s+(?:d[ao]|n[ao])\s+" + _REF,
     r"Promulga[çc][ãa]o\s+(?:d[aeo]s?\s+)?(?:partes?|parte)\s+vetadas?",
