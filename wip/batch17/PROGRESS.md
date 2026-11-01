@@ -1521,3 +1521,50 @@ copies of parse_batch17.py, sources_batch17.json, README.md, jurisdiction.json b
 - OPEN (not changed, for the coordinator): Lei 14.286/2021's in-force day differs between parts: its own act (zzg) starts 30.12.2022
   (one year from DOU 30.12.2021, counted with the publication day), while the reader's default credits its changes to other acts on
   31.12.2022 (13f Lei 4.595, 17g Lei 4.728, and now zzq Lei 12.865 art. 25). zzq follows 13f/17g (reader default).
+
+### Lei 10.848/2004 (part zzr) - CONFIGURED, NOT PUBLISHED (stopped here: clean point, context)
+- Configured in parse_batch17: PAGES l10848 = _ato2004-2006/2004/lei/l10.848.htm (pinned, capture via `iaonly.py gap l10848 <url>`;
+  no compilado capture on archive.org), act lei-da-comercializacao-de-energia-eletrica (LCEE), PARTS zzr, ACT_DAY 16.3.2004 (art. 33,
+  publication), law record = 99-batch10/17u/17z's (url _Ato2004-2006/2004/Lei/L10.848.htm). `iaonly.py laws` 6 new pins, `missing` 0.
+  notecount: Lei 15.269/2025 46, Leis 14.120/14.182 21 each, MP 998/2020 19, MP 1.300/2025 14, Lei 13.360 13, Lei 13.203 10 ...
+- Trial parse (brazil-b24/zzr-t1.log) CRASHES in mp_notes (KeyError mp-1300-2025) and lists 19 problems. To do, in a scoped block like
+  part z's (_LANEEL) and part u's (_L9074):
+  a) VIGENCIA_FIXED mp-1300-2025 21.5.2025 (art. 4 = Lei 10.848 changes fall under its clause III) and lei-15235-2025 9.10.2025
+     (the conversion keeps none of the MP's art. 4: read, Lei 15.235 names Lei 10.848 only in citations);
+  b) MP 1.300's wordings end 9.10.2025 (conversion, lei-15235-2025) and Planalto prints each earlier wording again, struck, after the
+     MP line (restored 9.10.2025 -> 25.11.2025, Lei 15.269) - as _E1300/_R1300 in part z; about 12 dispositivos (art. 1 § 5º, § 5º
+     II/III/IV, art. 2 III (odd: Lei 13.360's wording printed unstruck before the MP line AND struck after it), art. 2 § 8º-A, art. 3
+     caput, art. 3-A § 4º, art. 4 §§ 10-14 (MP insertions; Lei 15.269 adds §§ 15 ff.), art. 4-C (MP) vs 4-D (Lei 15.269)). Consider a
+     generic wrapper instead of 12+ SPAN_FIX entries;
+  c) MP_LAPSE for mp-641-2014 and mp-814-2017 (pages say 'Vigência encerrada'): find and pin each Ato Declaratório (cdxpre on
+     _ato2011-2014/2014/congresso/ and _ato2015-2018/2018/congresso/), check whether batch tables already hold them;
+  d) then pipe.sh zzr, lawcmp, docs rows, final build, PUBLISH.
+
+## State at handoff (batch 17, twenty-fourth session, 2026-11-01)
+Installed this session: 99-batch17zzp (Lei 12.618/2012, 7 versions; coordinator decision applied: Capítulo I dated 21.9.2012 by
+Decreto 7.808/2012) and 99-batch17zzq (Lei 12.865/2013, 18 versions incl. 1 futuro). Final merged build of the installed folder after
+all docs (final24b-build.log): 248 acts, 3534 versions, 2576 commits, check 0/0, --compare identical, audit_push clean on main and
+futuro; README rows (+ futuro summary line) and jurisdiction.json (248 acts) current. lawcmp clean for both parts; reparse zzp/zzo equal,
+zzk sources counter only; headyear unchanged (t24-hy2.log). All runs through .tmp/run.py / pipe.sh / reparse.sh at BelowNormal behind
+the cpu gate, one at a time, never two parses; every PID printed in its log (brazil-b24/*.log, .tmp/zz[pq]-*.log, t24-*.log,
+final24*-build.log); all mine, all exited (one stray grep of mine was stopped with TaskStop). Nothing running. Fetching: archive.org
+only through the shared client (robots.txt read at start); no challenge page seen.
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once archive.org
+has a capture of _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026.
+OPEN for the coordinator: Lei 14.286/2021 day 30.12.2022 (zzg act) vs 31.12.2022 (credits in 13f, 17g, zzq).
+NEXT: finish Lei 10.848 (zzr, to-do above), then environment (Leis 9.966, 7.661, 11.959, 5.197, 7.735, 11.516), energy (14.300,
+10.438, 9.991, 9.847), banking (LC 130, Leis 10.214, 13.506, 8.929, 13.775), public administration (Leis 8.159, 9.491, 13.334; LC
+35/1979; Lei 5.010/1966).
+
+## Twenty-fifth session (2026-11-01): Task 1 Lei 14.286 day, Task 2 Lei 10.848 (zzr), then the ranked list
+Scratch: .gitlaw-scratch/brazil-b25 (reparse_all.py = batch18's with every batch-17 part letter; runbuild.py = batch17's
+accepting any 99-batch1* candidate; chk.sh <dir> <part> = pipe.sh's file checks; jd.py = version/decision diff; logs).
+### Task 1 DONE: Lei 14.286/2021 day = 30.12.2022 in every part (coordinator decision)
+- Day table: P.VIGENCIA_FIXED["lei-14286-2021"] = 2022-12-30 added in batch13/parse_batch13.py (after lei-14206-2021, unscoped
+  law fact, inherited by batch14-17). Fresh parses before/after (brazil-b25/base, new): 13f, 17g, zzq differ ONLY in the one
+  version day 2022-12-31 -> 2022-12-30 (credited lei-14286-2021 only) and the law's in-force decision line; zzg identical (sha
+  6569e4af both). Pre-existing drift (not touched): 13f fresh parse adds the Res. SF 16/2006 decision (13g's), sources counter.
+- Installed = previous file + exactly that delta (patch14286.py); per-part checks identical before/after (chk.sh); merged build
+  (build1.log): 248 acts, 3534 versions, 2576 commits, check 0/0, compare identical, audit clean main+futuro. PUBLISH appended to
+  13f (c9a35655), 17g (d13c66db), zzq (8da0eb69). Previous files in brazil-b25/before/. README already said 30 December 2022.
+- PIDs (all mine, all exited): 31276 (base), 13140 (ctx), 45640 (new), chk PIDs in brazil-b25/pids-chk.txt, 40964 (build1).

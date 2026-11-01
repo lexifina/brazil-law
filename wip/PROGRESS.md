@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-01 (batch 17, twenty-fourth session: 99-batch17zzp (Lei 12.618/2012, Capítulo I from 21.9.2012 by Decreto 7.808) and zzq (Lei 12.865/2013) PUBLISHed; merged 248 acts, 3534 versions, 2576 commits, check 0/0, compare identical, audit clean; NEXT: Lei 10.848/2004, then the ranked list; DATED RE-CHECKS: MP 1.382/2026 on or after 29.11.2026, MP 1.370/2026 (and Lei 12.871) once archived after 30.10.2026; details in batch17/PROGRESS.md)
+CHECKPOINTED 2026-11-01 (batch 17, twenty-fourth session: 99-batch17zzp (Lei 12.618/2012, Capítulo I from 21.9.2012 by Decreto 7.808) and zzq (Lei 12.865/2013) PUBLISHed; merged 248 acts, 3534 versions, 2576 commits, check 0/0, compare identical, audit clean; NEXT: finish Lei 10.848/2004 (part zzr configured, not published: MP 1.300 conversion/restored wordings, MP 641/814 lapses), then the ranked list; DATED RE-CHECKS: MP 1.382/2026 on or after 29.11.2026, MP 1.370/2026 (and Lei 12.871) once archived after 30.10.2026; details in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 

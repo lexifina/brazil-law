@@ -403,6 +403,12 @@ B.EXPLAINED["lei-do-sistema-financeiro-nacional"] = {
 P.VIGENCIA_FIXED["lei-14206-2021"] = (
     "2021-09-28", "art. 22: 'Esta Lei entra em vigor: I - (VETADO); e II - na data de sua publicação, para os demais "
                   "dispositivos' (DOU 28.9.2021)")
+# Lei 14.286/2021 (mercado de câmbio), credited in Lei 4.595 here and in later parts (99-batch17g, 17zzq): the reader's month
+# count gave 31.12.2022; its own act (99-batch17zzg) and Lei 13.431/2017's identical clause read one year as 30.12.2022
+# (coordinator decision, 2026-11-01: every part uses that day).
+P.VIGENCIA_FIXED["lei-14286-2021"] = (
+    "2022-12-30", "Lei 14.286/2021 art. 29: 'Esta Lei entra em vigor após decorrido 1 (um) ano de sua publicação oficial' (DOU "
+                  "30.12.2021): one year after publication, 30.12.2022 (as Lei 13.431/2017, same clause)")
 # Lei das Duplicatas, Capítulo V (arts. 15-18): Decreto-Lei 436/1969 (27.1.1969) gave arts. 15 (caput), 16 and 17 new
 # wordings and added art. 15 §§ 12-13, keeping art. 15 §§ 1-11 ('.....' in its text); Lei 6.458/1977 rewrote the whole
 # chapter. Planalto strikes the earlier lines without notes: each ends on Lei 6.458's day.

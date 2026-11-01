@@ -214,6 +214,8 @@ PAGES.update({
     "l12618": "_ato2011-2014/2012/lei/l12618.htm",
     "l12865": "_ato2011-2014/2013/lei/l12865.htm",
     "l14601": "_ato2023-2026/2023/lei/l14601.htm",
+    # twenty-fourth session
+    "l10848": "_ato2004-2006/2004/lei/l10.848.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -479,6 +481,8 @@ ALL_ACTS: list[dict] = [
          "Previdência complementar dos servidores públicos federais - Funpresp (Lei nº 12.618, de 30 de abril de 2012)", 2),
     _act("lei-12865-de-2013", "L12865", "l12865", "l12865", "lei-12865-2013",
          "Arranjos e instituições de pagamento, e outras matérias (Lei nº 12.865, de 9 de outubro de 2013)", 2),
+    _act("lei-da-comercializacao-de-energia-eletrica", "LCEE", "l10848", "l10848", "lei-10848-2004",
+         "Comercialização de energia elétrica (Lei nº 10.848, de 15 de março de 2004)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -559,6 +563,7 @@ PARTS: dict[str, list[str]] = {
     # twenty-fourth session
     "zzp": ["lei-da-previdencia-complementar-dos-servidores-federais"],
     "zzq": ["lei-12865-de-2013"],
+    "zzr": ["lei-da-comercializacao-de-energia-eletrica"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -793,6 +798,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-12865-2013": ("2013-10-10", "Lei 12.865/2013 art. 43: 'Esta Lei entra em vigor: I - a partir do primeiro dia do quarto mês "
                                      "subsequente ao de sua publicação, em relação ao disposto no art. 34 desta Lei; II - na data de "
                                      "sua publicação, para os demais dispositivos' (DOU 10.10.2013): art. 34 from 1.2.2014"),
+    "lei-10848-2004": ("2004-03-16", f"Lei 10.848/2004 art. 33: {_PUB} (DOU 16.3.2004)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1231,6 +1237,12 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "dispositivos das Leis nºs 10.865, de 30 de abril de 2004, 10.925, de 23 de julho de 2004, 12.546, de 14 de "
                          "dezembro de 2011, e 4.870, de 1º de dezembro de 1965; e dá outras providências.", "2013-10-09", "2013-10-10",
                          "_Ato2011-2014/2013/Lei/L12865.htm"),
+    # as 99-batch10, 17u and 17z have the record
+    "lei-10848-2004": _L("Lei nº 10.848, de 2004", "Dispõe sobre a comercialização de energia elétrica, altera as Leis nºs 5.655, "
+                         "de 20 de maio de 1971, 8.631, de 4 de março de 1993, 9.074, de 7 de julho de 1995, 9.427, de 26 de "
+                         "dezembro de 1996, 9.478, de 6 de agosto de 1997, 9.648, de 27 de maio de 1998, 9.991, de 24 de julho de "
+                         "2000, 10.438, de 26 de abril de 2002, e dá outras providências.", "2004-03-15", "2004-03-16",
+                         "_Ato2004-2006/2004/Lei/L10.848.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -5381,6 +5393,19 @@ B13.OPEN_ITEMS[_L12865] = (
 B13.OPEN_ITEMS[_LFUNP] = (
     "Lei 12.618 (open items): 'Vide' pointers (Lei 13.328/2016 and Medida Provisória 1.119/2022 on art. 3 § 7º, the reopened "
     "option periods) change no words and are not modelled; the regulations strike no words")
+
+# part zzr: Lei 10.848/2004 (comercialização de energia elétrica). Hand days set only when the act runs.
+_LCEE = "lei-da-comercializacao-de-energia-eletrica"
+if any(a["slug"] == _LCEE for a in ACTS):
+    P.VIGENCIA_FIXED["mp-1300-2025"] = (
+        "2025-05-21", "'Esta Medida Provisória entra em vigor: I - quarenta e cinco dias [...] quanto ao art. 6º; II - em 1º de "
+                      "janeiro de 2026, quanto ao art. 8º; e III - na data de sua publicação, quanto aos demais dispositivos' (DOU "
+                      "21.5.2025, edição extra): its art. 4 (Lei 10.848) falls under III")
+    P.VIGENCIA_FIXED["lei-15235-2025"] = (
+        "2025-10-09", "'Esta Lei entra em vigor: I - em 1º de janeiro de 2026, quanto ao inciso III do caput do art. 5º; e II - "
+                      "na data de sua publicação, quanto aos demais dispositivos' (DOU 9.10.2025): the conversion of Medida "
+                      "Provisória 1.300/2025, which keeps none of the MP's art. 4 (its changes to Lei 10.848), takes effect on "
+                      "publication, so those changes end on 9.10.2025 and the wordings they replaced are back")
 
 P.build_act = B.build_act = build_act
 _build_actLP = build_act
