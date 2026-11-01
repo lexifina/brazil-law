@@ -406,7 +406,9 @@ PARTS: dict[str, list[str]] = {
     "zp": ["lei-de-gestao-de-florestas-publicas", "lei-do-pagamento-por-servicos-ambientais"],
     "zq": ["lei-do-transporte-de-eleitores", "lei-da-saude-mental", "lei-dos-transplantes"],
     # lei-do-piso-do-magisterio (Lei 11.738/2008) configured but in no part: Lei 15.437/2026 (31 notes) has no archive.org capture
-    "zr": ["lei-dos-mototaxistas", "lei-do-processamento-eletronico-eleitoral", "lei-das-mensalidades-escolares"],
+    # lei-dos-mototaxistas (Lei 12.009/2009) configured but in no part: Medida Provisória 1.360/2026 (art. 2) lapsed ('Vigência
+    # encerrada', Ato adc-96-mpv1.360): the Ato has no archive.org capture, so the lapse day cannot be read
+    "zr": ["lei-do-processamento-eletronico-eleitoral", "lei-das-mensalidades-escolares"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
