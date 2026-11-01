@@ -1743,3 +1743,13 @@ Pages pinned (`iaonly.py pages`, 6): l14300 (20261021135456), l10438 (2026100420
   pages) removed again; `laws` re-pins them on every run, so check headyear after each `laws` and remove them.
 - pipe.sh zzw (b27/zzw-pipe3.out): sha 1946ace3 x2, 1 move, flags benign (PUBLISH). Installed aaa39925; docs rows-zzw.json;
   final27b-build.log: 258 acts, 3653 versions, 2620 commits, check 0/0, compare identical, audit clean. PIDs in b27 logs, all exited.
+### 99-batch17zzx - PUBLISHed: Lei 9.847/1999 (lei-da-fiscalizacao-do-abastecimento-de-combustiveis, LFAC, 7 versions 1999-10-27 .. 2024-10-09)
+- `iaonly.py laws l9847 l9847-compilado` 3 new pins (incl. law:mp-1340-2026), missing 0. MPs 1.340/2026 and 1.349/2026 lapsed, Atos
+  adc-62-mpv1.340 / adc-77-mpv1.349 NOT on archive.org (cdxlist exact paths 0; cdxpre of the 2026 congresso prefix: 16 Atos, neither) ->
+  block '# part zzx' (paragraphs wrapper on l9847) drops every line whose notes cite them (12 lines, art. 3 XXI/XXII/p.u., art. 5 III);
+  EXTRA decision; EXPLAINED arts. 3, 5 (compilado captured 10.5.2026 while the MPs were in force; it also lacks Lei 14.993's art. 3
+  XVIII); OPEN_ITEMS.
+- pipe.sh zzx (b27/zzx-pipe1.out): sha de41b754 x2, 0 moves, flags benign (PUBLISH). Installed de41b754; docs rows-zzx.json;
+  final27c-build.log: 259 acts, 3660 versions, 2621 commits, check 0/0, compare identical, audit clean; headyear same.
+- NEW DATED RE-CHECK: Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026 congresso): once archived, add MPs 1.340/1.349 to zzx with
+  their lapse days, and Lei 12.462 art. 63 § 17 to part v.

@@ -231,6 +231,12 @@ PAGES.update({
     "l9991": "leis/l9991.htm",
     "l9847": "leis/l9847.htm",
     "l9847-compilado": "leis/l9847compilado.htm",
+    # banking laws
+    "lcp130": "leis/lcp/lcp130.htm",
+    "l10214": "leis/leis_2001/l10214.htm",
+    "l13506": "_ato2015-2018/2017/lei/l13506.htm",
+    "l8929": "leis/l8929.htm",
+    "l13775": "_ato2015-2018/2018/lei/l13775.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -523,6 +529,13 @@ ALL_ACTS: list[dict] = [
     _act("lei-da-fiscalizacao-do-abastecimento-de-combustiveis", "LFAC", "l9847", "l9847-compilado", "lei-9847-1999",
          "Fiscalização do abastecimento nacional de combustíveis e sanções administrativas (Lei nº 9.847, de 26 de outubro de "
          "1999)", 2),
+    _act("lei-do-sistema-de-pagamentos-brasileiro", "LSPB", "l10214", "l10214", "lei-10214-2001",
+         "Câmaras e prestadores de serviços de compensação e de liquidação no sistema de pagamentos brasileiro (Lei nº 10.214, "
+         "de 27 de março de 2001)", 2),
+    _act("lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm", "LPAS", "l13506", "l13506", "lei-13506-2017",
+         "Processo administrativo sancionador do Banco Central do Brasil e da CVM (Lei nº 13.506, de 13 de novembro de 2017)", 2),
+    _act("lei-da-duplicata-escritural", "LDupE", "l13775", "l13775", "lei-13775-2018",
+         "Duplicata escritural (Lei nº 13.775, de 20 de dezembro de 2018)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -612,6 +625,8 @@ PARTS: dict[str, list[str]] = {
     "zzv": ["lei-da-microgeracao-e-minigeracao-distribuida", "lei-de-pesquisa-e-desenvolvimento-do-setor-eletrico"],
     "zzw": ["lei-do-proinfa-e-da-cde"],
     "zzx": ["lei-da-fiscalizacao-do-abastecimento-de-combustiveis"],
+    "zzy": ["lei-do-sistema-de-pagamentos-brasileiro", "lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm",
+            "lei-da-duplicata-escritural"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -862,6 +877,11 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-9991-2000": ("2000-07-25", f"Lei 9.991/2000 art. 9º: {_PUB} (DOU 25.7.2000)"),
     "lei-10438-2002": ("2002-04-29", f"Lei 10.438/2002 art. 32: {_PUB} (DOU 29.4.2002, edição extra)"),
     "lei-9847-1999": ("1999-10-27", f"Lei 9.847/1999 art. 22: {_PUB} (DOU 27.10.1999, edição extra)"),
+    "lei-10214-2001": ("2001-03-28", f"Lei 10.214/2001 art. 12: {_PUB} (DOU 28.3.2001, edição extra)"),
+    "lei-13506-2017": ("2017-11-14", f"Lei 13.506/2017 art. 72: {_PUB} (DOU 14.11.2017)"),
+    "lei-13775-2018": ("2019-04-20", "Lei 13.775/2018 art. 13: 'Esta Lei entra em vigor após decorridos 120 (cento e vinte) dias de "
+                                     "sua publicação oficial' (DOU 21.12.2018): 120 days after 21.12.2018, 20.4.2019 (the day part c "
+                                     "dates its change to Lei 9.492)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1348,6 +1368,14 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-9847-1999": _L("Lei nº 9.847, de 1999", "Dispõe sobre a fiscalização das atividades relativas ao abastecimento nacional "
                         "de combustíveis, de que trata a Lei n o 9.478, de 6 de agosto de 1997, estabelece sanções administrativas e dá "
                         "outras providências.", "1999-10-26", "1999-10-27", PAGES["l9847"]),
+    # as 99-batch8 (and seven other parts) and 99-batch17c have the records
+    "lei-13506-2017": _L("Lei nº 13.506, de 2017", "Dispõe sobre o processo administrativo sancionador na esfera de atuação do Banco Central do Brasil e da Comissão de Valores Mobiliários; altera a Lei nº 6.385, de 7 de dezembro de 1976, a Lei nº 4.131, de 3 de setembro de 1962, a Lei nº 4.829, de 5 de novembro de 1965, a Lei nº 6.024, de 13 de março de 1974, a Lei nº 7.492, de 16 de junho de 1986, a Lei nº 9.069, de 29 de junho de 1995, a Lei nº 9.613, de 3 de março de 1998, a Lei nº 10.214, de 27 de março de 2001, a Lei nº 11.371, de 28 de novembro de 2006, a Lei nº 11.795, de 8 de outubro de 2008, a Lei nº 12.810, de 15 de maio de 2013, a Lei nº 12.865, de 9 de outubro de 2013, a Lei nº 4.595, de 31 de dezembro de 1964, o Decreto nº 23.258, de 19 de outubro de 1933, o Decreto-Lei nº 9.025, de 27 de fevereiro de 1946, e a Medida Provisória nº 2.224, de 4 de setembro de 2001; revoga o Decreto-Lei nº 448, de 3 de fevereiro de 1969, e dispositivos da Lei nº 9.447, de 14 de março de 1997, da Lei nº 4.380, de 21 de agosto de 1964, da Lei nº 4.728, de 14 de julho de 1965, e da Lei nº 9.873, de 23 de novembro de 1999; e dá outras providências.",
+        "2017-11-13", "2017-11-14", "_Ato2015-2018/2017/Lei/L13506.htm"),
+    "lei-13775-2018": _L("Lei nº 13.775, de 2018", "Dispõe sobre a emissão de duplicata sob a forma escritural; altera a Lei nº 9.492, de 10 de setembro de 1997; e dá outras providências.",
+        "2018-12-20", "2018-12-21", "_Ato2015-2018/2018/Lei/L13775.htm"),
+    "lei-10214-2001": _L("Lei nº 10.214, de 2001", "Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação "
+                         "e de liquidação, no âmbito do sistema de pagamentos brasileiro, e dá outras providências.", "2001-03-27",
+                         "2001-03-28", PAGES["l10214"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -5900,6 +5928,75 @@ B13.OPEN_ITEMS[_LPROINFA] = (
 CONV_WHY[_LPROINFA] = ("Medida Provisória 1.300/2025, converted into Lei 15.235/2025 (in force on publication, 9.10.2025), whose "
                        "art. 1 changes only art. 13 § 3º-I and art. 25 of this Lei and keeps none of the MP's wordings of art. 13 "
                        "§§ 3º-D to 3º-F (its art. 3)")
+
+# part zzx (twenty-seventh session): Lei 9.847/1999 (fiscalização do abastecimento de combustíveis). Medidas Provisórias
+# 1.340/2026 (DOU 12.3.2026) and 1.349/2026 (DOU 7.4.2026) added art. 3 XXI and XXII and rewrote art. 4, art. 5 and other
+# provisions; both lapsed ('Vigência encerrada' on their pages and on this one), but neither Ato Declaratório (adc-62-mpv1.340,
+# adc-77-mpv1.349) has an archived copy, so the days they lapsed cannot be read: their lines are left out, as Lei 12.462 art. 63
+# § 17 (Medida Provisória 1.349) in part v. The wordings they replaced, which Planalto prints again after them, stand on.
+_LFAC = "lei-da-fiscalizacao-do-abastecimento-de-combustiveis"
+_MP2026 = re.compile(r"Medida\s+Provis[óo]ria\s+n[º°]\s*1\.3(?:40|49),\s+de\s+2026")
+LFAC_DROPPED: list[str] = []
+_paragraphsLFAC = P.paragraphs
+
+
+def paragraphs(html, digits):
+    out, rest = _paragraphsLFAC(html, digits)
+    if B8.CURRENT_PAGE[0] == "l9847":
+        keep = []
+        for p in out:
+            if any(_MP2026.search(n) for n in p["notes"]):
+                LFAC_DROPPED.append(f"{p['unit']} [{p['label']}]")
+            else:
+                keep.append(p)
+        out = keep
+        if LFAC_DROPPED and not any("1.340/2026" in x for x in EXTRA):
+            EXTRA.append(
+                "Lei 9.847: Medidas Provisórias 1.340/2026 (DOU 12.3.2026) and 1.349/2026 (DOU 7.4.2026) added art. 3 XXI and "
+                "XXII and gave new wordings to other provisions (" + ", ".join(dict.fromkeys(LFAC_DROPPED)) + "); both lapsed "
+                "(Planalto prints 'Vigência encerrada' on their pages and on this one), but their Atos Declaratórios (nº 62 and "
+                "nº 77 of 2026) could not be read, so the days they lapsed are not known: every line they gave is LEFT OUT of "
+                "every version, and the wordings they had replaced, which Planalto prints again after them, stand on. The "
+                "consolidated page (captured 10.5.2026, while both MPs were in force) prints their wordings.")
+    return out, rest
+
+
+P.paragraphs = paragraphs
+if any(a["slug"] == _LFAC for a in ACTS):
+    _C9847 = ("Planalto's consolidated page (Lei 9.847 compilado, captured 10.5.2026, while Medidas Provisórias 1.340/2026 and "
+              "1.349/2026 were in force) ")
+    B.EXPLAINED[_LFAC] = {
+        "art-03": _C9847 + "prints the MPs' art. 3 XXI and XXII and parágrafo único, which are left out here (lapsed on days not "
+                  "read), and lacks Lei 14.993/2024's wording of inciso XVIII, which the annotated page prints",
+        "art-05": _C9847 + "prints Medida Provisória 1.349's wording of inciso III (left out here); the annotated page prints "
+                  "Lei 11.097's wording again after it",
+    }
+    B13.OPEN_ITEMS[_LFAC] = (
+        "Lei 9.847 (open items): Medidas Provisórias 1.340/2026 and 1.349/2026 are left out (their lapse days are in Atos "
+        "Declaratórios nº 62 and nº 77 of 2026, not read); the text before 27.10.1999 (the Medida Provisória 1.883 chain, of "
+        "which this Lei is the conversion) is not part of the history; 'Vide' pointers (Lei 13.723/2018) and regulations "
+        "strike no words and are not modelled")
+
+# part zzy (twenty-seventh session): banking laws - Lei 10.214/2001, Lei 13.506/2017, Lei 13.775/2018
+_LSPB, _LPAS, _LDUPE = ("lei-do-sistema-de-pagamentos-brasileiro",
+                        "lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm", "lei-da-duplicata-escritural")
+B.EXPLAINED[_LDUPE] = {"art-08": _DOTTED}
+_W9_784 = ("Lei 10.214 art. 9: Medida Provisória 784/2017 (8.6.2017) gave the article a new caput and parágrafo único, without the "
+           "incisos; it lapsed on 19.10.2017 and the 2001 article was in force again from 20.10.2017 until Lei 13.506/2017 "
+           "(14.11.2017). Planalto prints the 2001 article a second time below the MP's lines (struck, no note); its incisos I "
+           "and II and parágrafo único start on 20.10.2017 with the restored caput, not in 2001 (as for Lei 6.024 art. 19 in "
+           "part c)")
+B8.SPAN_FIX += [
+    ((_LSPB, "art-09", "I -", "I - no art. 44 da Lei", 1), _R784, _W9_784),
+    ((_LSPB, "art-09", "II -", "II - no art. 11 da Lei", 1), _R784, _W9_784),
+    ((_LSPB, "art-09", "Parágrafo único", "Parágrafo único. Das decisões proferidas", 1), _R784, _W9_784),
+]
+B13.OPEN_ITEMS[_LSPB] = (
+    "Lei 10.214 (open items): the text before 28.3.2001 (the Medida Provisória 2.115 chain, of which this Lei is the "
+    "conversion) is not part of the history; regulations strike no words and are not modelled")
+B13.OPEN_ITEMS[_LDUPE] = (
+    "Lei 13.775 (open items): its changes to Lei 9.492/1997 (art. 8) are part of that Lei's history (part c); regulations "
+    "strike no words and are not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
