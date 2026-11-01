@@ -3142,26 +3142,105 @@ _FUT2027 = {
               "names the Cofins and the contribuição para o PIS/Pasep), both in effect from 1.1.2027 (art. 544 III, as Lei "
               "Complementar 227/2026 worded it), read on LC 214's page (Planalto's page of Lei 10.637 does not print them): "
               "those articles end and art. 35 takes the new caput on 1.1.2027, on the future branch"),
+    _L10833: ({*(f"art-{n:02d}" for n in range(1, 17)), "art-25", "art-49", "art-50", "art-52", "art-55", "art-57", "art-58",
+               "art-91", ("art-31", "§ 1º")},
+              {"art-23": ("Art. 23. A incidência da CIDE",
+                          "Art. 23. A incidência da CIDE, nos termos do inciso V do art. 3º da Lei nº 10.336, de 19 de dezembro de "
+                          "2001, sobre os gases liquefeitos de petróleo, classificados na subposição 2711.1 da Nomenclatura Comum "
+                          "do Mercosul - NCM, não alcança os produtos classificados no código 2711.11.00."),
+               "art-30": ("Art. 30. Os pagamentos efetuados pelas pessoas jurídicas",
+                          "Art. 30. Os pagamentos efetuados pelas pessoas jurídicas a outras pessoas jurídicas de direito privado, "
+                          "pela prestação de serviços de limpeza, conservação, manutenção, segurança, vigilância, transporte de "
+                          "valores e locação de mão de obra, pela prestação de serviços de assessoria creditícia, mercadológica, "
+                          "gestão de crédito, seleção e riscos, administração de contas a pagar e a receber, bem como pela "
+                          "remuneração de serviços profissionais, estão sujeitos à retenção na fonte da Contribuição Social sobre "
+                          "o Lucro Líquido - CSLL."),
+               "art-31": ("Art. 31. O valor da CSLL",
+                          "Art. 31. O valor da CSLL de que trata o art. 30 será determinado mediante a aplicação, sobre o montante "
+                          "a ser pago, do percentual de 1% (um por cento)."),
+               "art-32": [("Parágrafo único", "Parágrafo único. A retenção da COFINS",
+                           "Parágrafo único. Será exigida a retenção da CSLL nos pagamentos:")],
+               "art-33": ("Art. 33. A União",
+                          "Art. 33. A União, por intermédio da Secretaria da Receita Federal, poderá celebrar convênios com os "
+                          "Estados, Distrito Federal e Municípios, para estabelecer a responsabilidade pela retenção na fonte da "
+                          "CSLL, mediante a aplicação da alíquota prevista no art. 31, nos pagamentos efetuados por órgãos, "
+                          "autarquias e fundações dessas administrações públicas às pessoas jurídicas de direito privado, pelo "
+                          "fornecimento de bens ou pela prestação de serviços em geral."),
+               "art-34": ("Art. 34. Ficam obrigadas",
+                          "Art. 34. Ficam obrigadas a efetuar as retenções na fonte do imposto sobre a renda e da CSLL, a que se "
+                          "refere o art. 64 da Lei nº 9.430, de 27 de dezembro de 1996, as seguintes entidades da administração "
+                          "pública federal:"),
+               "art-67": ("Art. 67. Na impossibilidade",
+                          "Art. 67. Na impossibilidade de identificação da mercadoria importada, em razão de seu extravio ou "
+                          "consumo, e de descrição genérica nos documentos comerciais e de transporte disponíveis, será aplicada, "
+                          "para fins de determinação dos impostos incidentes na importação, alíquota única de 70% (setenta por "
+                          "cento) relativa ao Imposto de Importação e ao Imposto sobre Produtos Industrializados - IPI.")},
+              "Lei 10.833: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] XXI - "
+              "os seguintes dispositivos da Lei nº 10.833, de 29 de dezembro de 2003: a) os arts. 1º a 16; b) o art. 25; c) o § "
+              "1º do art. 31; d) os arts. 49 e 50; e) o art. 52; f) o art. 55; g) os arts. 57 e 58; e h) o art. 91') and art. "
+              "509 (new capita of arts. 23, 30, 31, 33, 34 and 67, a new caput of art. 32's parágrafo único, and art. 67 § 3º "
+              "with incisos I and II; none of them names the Cofins or the contribuição para o PIS/Pasep any more), all in "
+              "effect from 1.1.2027 (art. 544 III, as Lei Complementar 227/2026 worded it), read on LC 214's page (Planalto's "
+              "page of Lei 10.833 does not print them): on 1.1.2027, on the future branch",
+              {"art-67": ("§ 2º", [("§ 3º", "§ 3º A alíquota de que trata o caput será distribuída nos seguintes percentuais:"),
+                                    ("I -", "I - 35% (trinta e cinco por cento), a título de alíquota do Imposto de Importação; e"),
+                                    ("II -", "II - 35% (trinta e cinco por cento), a título de alíquota do IPI.")])}),
 }
 FUT2027_USED: dict[str, list[str]] = {}
 
 
+def _is_caput(p):
+    return p["label"] == "caput" or p["label"].startswith("Art.") or p["text"].startswith("Art. ")
+
+
 def fut_2027(paras, slug):
+    # entry: (ends, rewrites, decision[, inserts]). ends: unit keys (whole article) or (unit, label) (that dispositivo and
+    # the incisos/alíneas under it). rewrites: {unit: (start of the old caput, new caput)} or {unit: [(label or 'caput',
+    # start of the old line, new line), ...]}. inserts: {unit: (label of the line to insert after, [(label, text), ...])}.
     D, L = "2027-01-01", "lc-214-2025"
-    ends, rew, _ = _FUT2027[slug]
+    entry = _FUT2027[slug]
+    ends, rew, _ = entry[:3]
+    ins = entry[3] if len(entry) > 3 else {}
     used = FUT2027_USED.setdefault(slug, [])
+    sub_end = None   # unit whose incisos/alíneas follow an ended dispositivo
     for p in list(paras):
         if p.get("skip") or p["heading"] or (p["end"] is not None and p["end"] <= D):
             continue
+        if sub_end and p["unit"] == sub_end and p["label"] and not p["label"].startswith(("§", "Parágrafo", "Art.")):
+            p["end"], p["end_law"], p["end_how"] = D, L, "repealed"
+            continue
+        sub_end = None
         if p["unit"] in ends:
             p["end"], p["end_law"], p["end_how"] = D, L, "repealed"
             used.append(p["unit"])
-        elif p["unit"] in rew and p["label"] == "caput" and p["text"].startswith(rew[p["unit"]][0]):
-            q = dict(p, text=rew[p["unit"]][1], start=D, start_law=L, end=None, end_law=None, end_how=None,
-                     notes=["(Redação dada pela Lei Complementar nº 214, de 2025)"], state="plain")
-            p["end"], p["end_law"], p["end_how"] = D, L, "successor"
-            paras.insert(paras.index(p) + 1, q)
-            used.append(p["unit"])
+            continue
+        if (p["unit"], p["label"]) in ends:
+            p["end"], p["end_law"], p["end_how"] = D, L, "repealed"
+            used.append(f"{p['unit']} {p['label']}")
+            sub_end = p["unit"]
+            continue
+        r = rew.get(p["unit"])
+        if r is None:
+            continue
+        rows = [("caput",) + tuple(r)] if isinstance(r, tuple) else r
+        for lab, prefix, new in rows:
+            if (_is_caput(p) if lab == "caput" else p["label"] == lab) and p["text"].startswith(prefix):
+                q = dict(p, text=new, start=D, start_law=L, end=None, end_law=None, end_how=None,
+                         notes=["(Redação dada pela Lei Complementar nº 214, de 2025)"], state="plain")
+                p["end"], p["end_law"], p["end_how"] = D, L, "successor"
+                paras.insert(paras.index(p) + 1, q)
+                used.append(p["unit"] if lab == "caput" else f"{p['unit']} {lab}")
+                break
+    for unit, (after, rows) in ins.items():
+        cur = [p for p in paras if p["unit"] == unit and p["label"] == after and not p.get("skip") and p["end"] is None]
+        if len(cur) != 1:
+            continue
+        at = paras.index(cur[0]) + 1
+        for lab, text in rows:
+            paras.insert(at, dict(cur[0], label=lab, text=text, start=D, start_law=L, end=None, end_law=None, end_how=None,
+                                  notes=["(Incluído pela Lei Complementar nº 214, de 2025)"], state="plain"))
+            at += 1
+        used.append(f"{unit} {rows[0][0]} (new)")
 
 
 # parts zk/zl: hand days, set only when the acts run
