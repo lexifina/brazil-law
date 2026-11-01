@@ -1043,3 +1043,44 @@ part w's MP 1.065 / Lei 14.273 handling), Lei 6.437/1977 (+ compilado; MP 2.190-
 Lei 13.005/2014 (PNE; 1 note, Lei 14.627/2023; ten-year term of art. 1 and its extension: read before modelling), LC 159/2017 and
 LC 178/2021 (both law keys already in 99-batch7 with marker-free titles: keep ACT_LAWS titles identical to batch7's so the merged
 build's commit messages do not change). Not pinned yet: Lei 6.360/1976, Lei 11.494/2007, Lei 9.424/1996, Lei 10.861/2004.
+
+## Eighteenth session (2026-11-01): empty law titles filled (coordinator-approved Task 1) + part q reproducible (Task 2)
+Scratch: ~/Documents/.gitlaw-scratch/brazil-b18/t3 (tools, before-install/ = every part + corpus.json before this
+session's install, re-off/ re/ re-all/ re-q/ regenerated parts, logs). robots.txt read before the only fetch (archive.org:
+Disallows /control/ /report/ only; web.archive.org/robots.txt 404). Only fetch: the six pinned ECR pages (fetch_ecr.py).
+- titles.py: new ementa(after, rest): ementa_old (the old '(.*?\.) O PRESIDENTE' reading, first, so no title it gave changes),
+  else ementa_more on after+rest: _FORMULA_MORE (any case 'O Presidente da República', bare 'PRESIDENTE DA REPÚBLICA', 'O
+  PRESIDENT E', 'OS MINISTROS DA MARINHA', 'O Congresso Nacional decreta', 'A Mesa do Congresso Nacional' ...), _LEAD_MORE
+  (remnant links: 'Fica sem efeito pelo ...', 'suspensa pelo ...', 'Vide texto compilado', 'e vigência', 'E feitos financeiros',
+  'Estrutura Regimental (ANA)'), _NAV (cut at 'Não remover / Texto compilado / Up Down'), _TAIL (links and '(Redação dada ...)'
+  at the end), a rewritten ementa -> its first sentence (the enacted wording, as 99-batch7 and 16g already gave it), trailing
+  nickname '(LEI DOS PORTOS)' dropped. strip_links: 'P rodução de efeitos' too. TITLES_DUMP env = debug log of fallback cases.
+  Readers (parse_proc, parse_codes, parse_phase2, parse_clt) call titles.ementa(after, head[+1500:+12000]); batch3's Ato
+  Complementar reader falls back to ementa_more; parse.py ecr_title for the ECRs.
+- Heading fixes (change enacted/published, allowed): parse_codes heading accepts 'LEI N o 10.677' (lei-10677 enacted 22.5.2003,
+  lei-10825 22.12.2003, was 10.1.2002); parse_proc heading accepts no 'DE' before the day (LC 188/2021, LC 190/2022 now read).
+- Cross-part: 99-batch5b's LGPD title = 50-codes' hand title (__main__ wrapper in parse_batch5b); parse_batch17 ACT_LAWS
+  titles of lei-13465-2017 (17l) and lei-9984-2000 (17zf) made the full ementa. Result: 0 merged empty titles (was 128 +
+  lei-13988 in 17q); 249 law-title entries in 66 parts + 5 ECR titles in corpus.json. 16 laws still differ across parts only by
+  capture typography ('n o' vs 'nº', dashes) or batch 17 hand '[...]' abridgements (lei-12334 17zd, lei-13848 17x) - pre-existing,
+  not empty, left.
+- Method: regen.py --off (runp --off = ementa_more returns '') vs on, all 81 parts with the final code (re-all): law differences
+  vs installed = filled empties + the listed fields only, plus known drift (70-clt dl-6053-1943 extra in a fresh parse, 80-proc
+  dl-6109-1943 published None in a fresh parse: NOT installed); decisions/acts unchanged vs last session's regen (13b/13e have
+  the same 7 pre-existing 'Del' decision drift as 13a/c/d). splice3.py installed laws only; splice_ecr.py the 5 ECR titles.
+  chk3.py (8 file checks before/after, 66 parts): identical except pubgap no longer flagging lei-10825's wrong date.
+- Task 2: part q's hand entries VIGENCIA_FIXED lei-13988-2020 and MP_LAPSE mp-1160-2023 sat inside part s's (_LCSE) block;
+  moved back into the _LCADIN block. Fresh parse of q = installed (acts, laws, decisions; only sources request counts / pin
+  notes drift); 17s and 17u fresh parses unchanged by the move.
+- Merged scratch build (t3/build.log): 211 acts, 3323 versions, 2435 commits, check 0/0, --compare identical, audit_push clean
+  main + futuro. PUBLISH appended for the 66 parts and the folder PUBLISH (corpus.json ECRs).
+- PIDs (all mine, all exited): run.py children 44860 (failed: CRLF list), 25536, 36184, 28716, 27788, 27544, 44164 (fetch), 50640,
+  49228 (checks), build (t3/build.log); regen children in t3/regen-*.log. Nothing running.
+- Gotcha: backslashes in heredoc Python string literals were collapsed (wrote \x08 into titles.py once; fixed): use Edit.
+- Task 3 NOT started (context). Notes for it: Lei 13.005 page has 'Vide Lei 14.934/2024' (term extension, no words changed:
+  a note law, not a wording), 'Incluído pela Lei 14.627/2023' (1 note), 'Vide ADI 5668'; the Anexo is large.
+
+## State at handoff (batch 17, eighteenth session, 2026-11-01)
+Tasks 1 and 2 done (above). Merged 211 acts, 3323 versions, 2435 commits, check 0/0, --compare identical, audit clean. Nothing
+running. DATED RE-CHECK (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026 - not before. Next: Task 3 candidates (Lei
+12.379/2011, Lei 6.437/1977, Lei 13.005/2014, LC 159/2017, LC 178/2021; pages pinned; see sixteenth-session handoff).

@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-01 (batch 17, seventeenth session: law titles fixed at the source - titles.py strip_links in the title readers; 511 law-title entries in 66 parts re-PUBLISHed (298 merged titles), + 13 enacted days (phase2 heading reader, Lei 7.663); merged 211 acts, 3323 versions, 2435 commits, check 0/0, compare identical, audit clean; nothing running; Task 2 candidates NOT started; DATED RE-CHECK of MP 1.382/2026 on or after 29.11.2026; details in batch17/PROGRESS.md)
+CHECKPOINTED 2026-11-01 (batch 17, eighteenth session: empty law titles filled - titles.ementa reads ementas without a full stop and other layouts; 0 merged empty titles (249 entries in 66 parts + 5 ECRs in corpus.json, re-PUBLISHed); part q reproducible again (hand entries moved back from part s's block); merged 211 acts, 3323 versions, 2435 commits, check 0/0, compare identical, audit clean; nothing running; Task 3 candidates NOT started; DATED RE-CHECK of MP 1.382/2026 on or after 29.11.2026; details in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 
