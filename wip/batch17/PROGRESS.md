@@ -1710,3 +1710,25 @@ uniqlaws). Then banking (LC 130, Leis 10.214, 13.506, 8.929,
 DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once
 archive.org has a capture of _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026.
 OPEN for the coordinator: none new (Lei 9.985's URL case fixed by the law-record step).
+
+## Twenty-seventh session (2026-11-01): energy laws as small parts (zzv, zzw, ...)
+robots.txt read at start (archive.org: Disallow /control/ /report/ only; web.archive.org 404). Fetching: archive.org only through
+the shared client (iaonly.py pages/laws/missing). Scratch: .gitlaw-scratch/brazil-b27 (page dumps l*.txt, trial parses, logs,
+before/ = README, jurisdiction.json, effects_fix.py before the session's edits, sources_batch17.before.json).
+Pages pinned (`iaonly.py pages`, 6): l14300 (20261021135456), l10438 (20261004205046), l10438-compilada (20261004222624), l9991
+(20261004222620), l9847 (20261007124148), l9847-compilado (20260510101524). notecount (zzv-era): l10438 266 notes (Lei 10.762 39, Lei
+13.360 33, Lei 12.783 20, MP 579 17, MP 735 16, Lei 15.269 16, MP 1.304 12, Lei 10.848 11, Lei 13.299 11, Lei 14.120 8, MP 879 7, MP
+998 7, MP 1.300 7, MP 1.078 6 ...); l9847 71 (Lei 11.097 26, Lei 14.993 13, MP 1.349/2026 8, MP 532/2011 7, Lei 12.490 6, MP
+1.340/2026 4, '1/2490' misprint 1).
+### 99-batch17zzv - PUBLISHed: Lei 14.300/2022 (LMMGD, 4 versions) + Lei 9.991/2000 (LPDSE, 19 incl. 2027 futuro)
+- Block '# part zzv' before SRC: SPAN_FIX _W14300 (art. 11 § 3º, art. 28 p.u. promulgated DOU 5.8.2022), SPAN_FIX _W14514 (9.991
+  art. 1 I: Lei 14.514's vetoed + promulgated wording from 22.5.2024; 13.203's to then), scoped VIGENCIA_FIXED lei-14514-2022 =
+  30.12.2022 (zg's day; without it the reader took art. 25 I's 1.2.2023) and MP_LAPSE mp-1212-2024 (part z's text word for word);
+  paragraphs wrapper on l9991: art. 1 § 1º note '(Alterado pela Lei 13.280)' -> renumbering note (EXTRA decision _W13280).
+- effects_fix MOVES "99-batch17zzv.json": 14.300 <- Lei 15.269 all to 1.1.2026; 9.991 <- Lei 12.111 all to 1.1.2010; 9.991 art. 1º-A
+  (Lei 15.269, '(VETADO)') to 1.1.2027 (futuro). 6 moves.
+- Bad pin: law:mp-144-2003 (Vide link; capture = Lei 9.427's page; headyear BAD) removed from sources_batch17.json.
+- pipe.sh zzv (b27/zzv-pipe3.out): sha 07dde0b0 x2, 6 moves, flags benign (PUBLISH). Installed ab0b8f03; docs rows-zzv.json + README
+  futuro line; final27a-build.log: 257 acts, 3611 versions, 2607 commits, check 0/0, compare identical, audit clean; headyear same.
+- PIDs (all mine, all exited): pages 52592, nc 9152, laws 21112, missing 38564, trials 21240/22840/54492, spans 35308/31560, conv
+  27524, effrep (eff-zzv.log), pipe PIDs in zzv-pipe*.out, hy 46460/12672, final 40136.

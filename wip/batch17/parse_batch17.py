@@ -517,6 +517,9 @@ ALL_ACTS: list[dict] = [
          "Marco legal da microgeração e minigeração distribuída (Lei nº 14.300, de 6 de janeiro de 2022)", 2),
     _act("lei-de-pesquisa-e-desenvolvimento-do-setor-eletrico", "LPDSE", "l9991", "l9991", "lei-9991-2000",
          "Pesquisa e desenvolvimento e eficiência energética no setor elétrico (Lei nº 9.991, de 24 de julho de 2000)", 2),
+    _act("lei-do-proinfa-e-da-cde", "LProinfa", "l10438", "l10438-compilada", "lei-10438-2002",
+         "Proinfa, Conta de Desenvolvimento Energético e universalização do serviço de energia elétrica (Lei nº 10.438, de 26 de "
+         "abril de 2002)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -604,6 +607,7 @@ PARTS: dict[str, list[str]] = {
     "zzu": ["lei-do-ibama", "lei-do-instituto-chico-mendes"],
     # twenty-seventh session: energy laws
     "zzv": ["lei-da-microgeracao-e-minigeracao-distribuida", "lei-de-pesquisa-e-desenvolvimento-do-setor-eletrico"],
+    "zzw": ["lei-do-proinfa-e-da-cde"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -852,6 +856,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     # twenty-seventh session
     "lei-14300-2022": ("2022-01-07", f"Lei 14.300/2022 art. 37: {_PUB} (DOU 7.1.2022)"),
     "lei-9991-2000": ("2000-07-25", f"Lei 9.991/2000 art. 9º: {_PUB} (DOU 25.7.2000)"),
+    "lei-10438-2002": ("2002-04-29", f"Lei 10.438/2002 art. 32: {_PUB} (DOU 29.4.2002, edição extra)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1328,6 +1333,13 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-9991-2000": _L("Lei nº 9.991, de 2000", "Dispõe sobre realização de investimentos em pesquisa e desenvolvimento e em "
                         "eficiência energética por parte das empresas concessionárias, permissionárias e autorizadas do setor de "
                         "energia elétrica, e dá outras providências.", "2000-07-24", "2000-07-25", PAGES["l9991"]),
+    # as 99-batch17z has the record
+    "lei-10438-2002": _L("Lei nº 10.438, de 2002", "Dispõe sobre a expansão da oferta de energia elétrica emergencial, recomposição "
+                         "tarifária extraordinária, cria o Programa de Incentivo às Fontes Alternativas de Energia Elétrica (Proinfa), "
+                         "a Conta de Desenvolvimento Energético (CDE), dispõe sobre a universalização do serviço público de energia "
+                         "elétrica, dá nova redação às Leis n o 9.427, de 26 de dezembro de 1996, n o 9.648, de 27 de maio de 1998, n o "
+                         "3.890-A, de 25 de abril de 1961, n o 5.655, de 20 de maio de 1971, n o 5.899, de 5 de julho de 1973, n o "
+                         "9.991, de 24 de julho de 2000, e dá outras providências.", "2002-04-26", "2002-04-29", "leis/2002/L10438.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -5786,6 +5798,80 @@ if any(a["slug"] == _LPDSE for a in ACTS):
         "Lei 9.991 (open items): the parts of Lei 15.269/2025 art. 6 that Planalto does not print on this page (art. 4 caput "
         "and art. 5 § 1º, both vetoed) change no words here; 'Vide' pointers and regulations strike no words and are not "
         "modelled")
+# page l9991: art. 1 § 1º ends with the note '(Alterado pela Lei nº 13.280, de 2016)', a word the note reader does not know, so
+# the note stayed in the text and the line started in 2010 beside the struck parágrafo único it replaced. Lei 13.280/2016 art.
+# 1 renumbered the parágrafo único (Lei 12.111/2009) as § 1º (same words) and added § 2º: read as a renumbering note.
+_W13280 = ("Lei 9.991 art. 1 § 1º: Planalto notes it '(Alterado pela Lei nº 13.280, de 2016)'; Lei 13.280/2016 art. 1 renumbered "
+           "the parágrafo único added by Lei 12.111/2009 as § 1º, with the same words, and added § 2º: read as '(Renumerado do "
+           "parágrafo único pela Lei nº 13.280, de 2016)', so the parágrafo único stands to 4.5.2016 and § 1º from that day")
+_ALT13280 = re.compile(r"\s*\(\s*Alterado\s+pela\s+Lei\s+nº\s+13\.280,\s+de\s+2016\s*\)\s*$")
+L9991_READ: list[str] = []
+_paragraphsLPDSE = P.paragraphs
+
+
+def paragraphs(html, digits):
+    out, rest = _paragraphsLPDSE(html, digits)
+    if B8.CURRENT_PAGE[0] == "l9991":
+        at = [p for p in out if not p["heading"] and p["text"].startswith("§ 1º As pessoas jurídicas referidas no caput")
+              and _ALT13280.search(p["text"])]
+        assert len(at) == 1, at
+        p = at[0]
+        p["text"] = _ALT13280.sub("", p["text"])
+        p["notes"] = p["notes"] + ["(Renumerado do parágrafo único pela Lei nº 13.280, de 2016)"]
+        if not L9991_READ:
+            L9991_READ.append(_W13280)
+            EXTRA.append(_W13280)
+    return out, rest
+
+
+P.paragraphs = paragraphs
+
+# part zzw (twenty-seventh session): Lei 10.438/2002 (Proinfa, CDE, universalização). Hand days set only when the act runs.
+_LPROINFA = "lei-do-proinfa-e-da-cde"
+if any(a["slug"] == _LPROINFA for a in ACTS):
+    P.VIGENCIA_FIXED["mp-1300-2025"] = (
+        "2025-05-21", "'Esta Medida Provisória entra em vigor: I - quarenta e cinco dias [...] quanto ao art. 6º; II - em 1º de "
+                      "janeiro de 2026, quanto ao art. 8º; e III - na data de sua publicação, quanto aos demais dispositivos' (DOU "
+                      "21.5.2025, edição extra): its art. 3 (Lei 10.438) falls under III")
+    P.VIGENCIA_FIXED["lei-15235-2025"] = (
+        "2025-10-09", "'Esta Lei entra em vigor: I - em 1º de janeiro de 2026, quanto ao inciso III do caput do art. 5º; e II - "
+                      "na data de sua publicação, quanto aos demais dispositivos' (DOU 9.10.2025): the conversion of Medida "
+                      "Provisória 1.300/2025; its art. 1 (Lei 10.438 art. 13 § 3º-I and art. 25) falls under II")
+    P.MP_LAPSE["mp-605-2013"] = (
+        "2013-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 39, de 2013 (DOU 6.6.2013): Medida "
+                      "Provisória 605/2013 'teve seu prazo de vigência encerrado no dia 3 de junho do corrente ano'; the wordings "
+                      "it replaced are back from 4.6.2013")
+    P.MP_LAPSE["mp-814-2017"] = (
+        "2018-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 30, de 2018 (DOU 6.6.2018): Medida "
+                      "Provisória 814/2017 'teve seu prazo de vigência encerrado no dia 1º de junho do corrente ano'; the "
+                      "provision it had revoked is back from 2.6.2018")
+    P.MP_LAPSE["mp-855-2018"] = (
+        "2019-04-24", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 22, de 2019 (DOU 26.4.2019): Medida "
+                      "Provisória 855/2018 'teve seu prazo de vigência encerrado no dia 23 de abril do corrente ano'; the wordings "
+                      "it replaced are back from 24.4.2019")
+    P.MP_LAPSE["mp-879-2019"] = (
+        "2019-08-20", "rejected: Ato do Presidente da Câmara dos Deputados de 23 de agosto de 2019 (DOU 26.8.2019) makes known "
+                      "that 'em sessão realizada no dia 20 de agosto de 2019, o Plenário da Casa rejeitou, em apreciação "
+                      "preliminar, o atendimento dos pressupostos constitucionais [...] da Medida Provisória nº 879, de 24 de "
+                      "abril de 2019 [...] e determinou o seu arquivamento'; the wordings it had replaced are back from "
+                      "20.8.2019, as for Medida Provisória 850/2018")
+    B5.MP_REJECTED["mp-879-2019"] = ("Rejeição da Medida Provisória nº 879, de 2019",
+                                     "Ato do Presidente da Câmara dos Deputados: rejeição da Medida Provisória nº 879, de 2019")
+    P.MP_LAPSE["mp-950-2020"] = (
+        "2020-08-06", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 105, de 2020 (DOU 7.8.2020): Medida "
+                      "Provisória 950/2020 'teve seu prazo de vigência encerrado no dia 5 de agosto de 2020'; the wordings it "
+                      "replaced are back from 6.8.2020")
+    P.MP_LAPSE["mp-1078-2021"] = (
+        "2022-05-23", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 46, de 2022 (DOU 27.5.2022): Medida "
+                      "Provisória 1.078/2021 'teve seu prazo de vigência encerrado no dia 22 de maio de 2022'; the wordings it "
+                      "replaced are back from 23.5.2022")
+# Medida Provisória 1.300/2025's art. 3 rewrote Lei 10.438 art. 13 §§ 3º-D to 3º-F; Lei 15.235/2025, its conversion, does not keep
+# those wordings (its art. 1 changes only art. 13 § 3º-I and art. 25), and Planalto prints the Lei 13.360 wordings a second time,
+# struck, before Lei 15.269's: the converted-MP rule
+CONV_RESTORE[_LPROINFA] = {"mp-1300-2025": "lei-15235-2025"}
+CONV_WHY[_LPROINFA] = ("Medida Provisória 1.300/2025, converted into Lei 15.235/2025 (in force on publication, 9.10.2025), whose "
+                       "art. 1 changes only art. 13 § 3º-I and art. 25 of this Lei and keeps none of the MP's wordings of art. 13 "
+                       "§§ 3º-D to 3º-F (its art. 3)")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
