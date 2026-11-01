@@ -1816,3 +1816,34 @@ parse_batch17.py, effects_fix.py, README, jurisdiction.json before the session; 
 - Block '# part zzzb': NOTE_FIX 'Lei nº 54, de 22.12.1986' x2; P.COURTS rsf-12-1990 / rsf-31-1993 (batch15 model); SPAN_FIX _W108 +
   EXPLAINED art-108. pipe.sh zzzb (b28/zzzb-pipe3.out): sha 87ef6f8a x2, 0 moves, flags benign. Installed; rows-zzzb.json;
   final28c-build.log: 266 acts, 3686 versions, 2637 commits, check 0/0, compare identical, audit clean.
+### 99-batch17zzzc - PUBLISHed: Lei 5.010/1966 (LJF, 9) + Lei 9.491/1997 (LPND, 9)
+- Block '# part zzzc': VIGENCIA_FIXED lei-13876-2019 (scoped), LAW_FIELD_FIX lei-6741-1979 enacted 5.12.1979 (2 LexML /urn requests,
+  robots read: the 17.12 URN 'não encontrada', the 5.12 one gives DOU 6.12.1979), NOTE_FIX MP 246 '1997', MP_LAPSE/MP_REJECTED
+  mp-246-2005, MP_PENDING mp-2161-2001, SPAN_FIX _W246 (gap) + EXTRA_LAWS lei-11483-2007, SPAN_FIX _W5_8 (art. 5 § 8º 'Vide').
+- pipe.sh zzzc (b28/zzzc-pipe2.out): sha 956397aa x2, 0 moves, flags benign. Installed; rows-zzzc.json; final28d-build.log: 268 acts,
+  3704 versions, 2651 commits, check 0/0, compare identical, audit clean; headyear hy5 = hy4.
+
+## State at handoff (batch 17, twenty-eighth session, 2026-11-01)
+Task 1 DONE: scripts/brazil-law/bad_pins.json (keys law:mp-144-2003, law:mp-181-2004, law:dl-900-1968, law:mp-246-1997) read by
+fetch_batch5.drop_bad() in `laws` and `missing` (every batch fetcher and iaonly.py); a `laws` run skips them with a printed line, no
+sources*.json changed, no part changed. Add a key there (with its reason) whenever headyear catches a pin from a misprinted note
+or a wrong link, then remove the pin from the sources file. `gap` still pins on purpose.
+Task 2: installed with .PUBLISH this session: zzz (LC 130/2009; 3 versions), zzza (Lei 8.929/1994; 8), zzzb (Lei 8.159/1991, 2;
+LC 35/1979, 6), zzzc (Lei 5.010/1966, 9; Lei 9.491/1997, 9) = 6 acts, 37 versions. Final merged build of the installed folder after
+all docs (brazil-b28/final28d-build.log): 268 acts, 3704 versions, 2651 commits, check 0/0, --compare identical, audit_push clean on
+main and futuro; README rows and jurisdiction.json (268 acts, 3704 versions) current. Every earlier part byte-identical
+(b28/corpusd-before.txt vs corpusd-after.txt). headyear (b28/hy5.log) = b27/hy6 + NOHEAD law:lei-6044-1974 (UTF-8 BOM page, a
+Vide pin; benign). All runs through .tmp/run.py / pipe.sh at BelowNormal behind the cpu gate, one at a time, never two parses;
+PIDs printed in each b28 log / pipe output; all mine, all exited. Nothing running. Fetching: archive.org through the shared client
+(robots.txt read at start), 2 LexML /urn records (robots.txt read: /urn allowed, Crawl-delay 5; 6 s apart); no challenge page.
+New in code: fetch_batch5 drop_bad + BAD_PINS; parse_batch17 PAGES l8159/l9491/l13334/lcp35/l5010, acts/PARTS/ACT_DAY/ACT_LAWS for
+zzz-zzzc, blocks '# part zzz', '# part zzza' (NOTE_FIX x2, _W897_4, OPEN_ITEMS), '# part zzzb' (NOTE_FIX LC 54, COURTS rsf-12-1990
+/ rsf-31-1993, _W108 + EXPLAINED), '# part zzzc' (VIGENCIA_FIXED lei-13876-2019, LAW_FIELD_FIX lei-6741-1979, MP 246 note/lapse/
+rejection, MP_PENDING mp-2161-2001, _W246 + EXTRA_LAWS lei-11483-2007, _W5_8). Backups: brazil-b28/before/.
+NEXT: Lei 13.334/2016 (PPI): page l13334 pinned (20261019061454), not configured, `laws`/`missing` not run for it. Heavy: 293 notes
+(MP 882/2019 86, Lei 13.901/2019 63, Lei 13.502/2017 25, Lei 14.600/2023 25, MP 922/2020 21, MP 886/2019 19, MP 768/2017 18, MP
+782/2017 15, MP 1.161/2023 11, MP 870/2019 6, Lei 15.506/2026 2); it is itself the conversion of MP 727/2016. Read every MP's fate
+(conversion or lapse Ato) first and run conv_report.py (copy in brazil-b28) on it. Then the rest of the ranked list.
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once
+archive.org has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026 congresso) once
+archived -> MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.

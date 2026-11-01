@@ -243,6 +243,8 @@ PAGES.update({
     "l13334": "_ato2015-2018/2016/lei/l13334.htm",
     "lcp35": "leis/lcp/lcp35.htm",
     "l5010": "leis/l5010.htm",
+    # twenty-ninth session
+    "l13334-compilado": "_ato2015-2018/2016/lei/L13334compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -556,6 +558,9 @@ ALL_ACTS: list[dict] = [
          "Organização da Justiça Federal de primeira instância (Lei nº 5.010, de 30 de maio de 1966)", 2),
     _act("lei-do-programa-nacional-de-desestatizacao", "LPND", "l9491", "l9491", "lei-9491-1997",
          "Programa Nacional de Desestatização (Lei nº 9.491, de 9 de setembro de 1997)", 2),
+    # twenty-ninth session
+    _act("lei-do-programa-de-parcerias-de-investimentos", "LPPI", "l13334", "l13334-compilado", "lei-13334-2016",
+         "Programa de Parcerias de Investimentos - PPI (Lei nº 13.334, de 13 de setembro de 2016)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -652,6 +657,8 @@ PARTS: dict[str, list[str]] = {
     "zzza": ["lei-da-cedula-de-produto-rural"],
     "zzzb": ["lei-de-arquivos", "lei-organica-da-magistratura-nacional"],
     "zzzc": ["lei-da-justica-federal-de-primeira-instancia", "lei-do-programa-nacional-de-desestatizacao"],
+    # twenty-ninth session
+    "zzzd": ["lei-do-programa-de-parcerias-de-investimentos"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -917,6 +924,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-5010-1966": ("1966-06-01", "Lei 5.010/1966 art. 95: 'Esta Lei entrará em vigor na data de sua publicação' (DOU 1.6.1966, "
                                     "rectified 14.6 and 4.7.1966)"),
     "lei-9491-1997": ("1997-09-10", f"Lei 9.491/1997 art. 34: {_PUB} (DOU 10.9.1997, republished 11.9.1997)"),
+    # twenty-ninth session
+    "lei-13334-2016": ("2016-09-13", f"Lei 13.334/2016 art. 22: {_PUB} (DOU 13.9.2016, edição extra, rectified 15.9.2016)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1427,6 +1436,9 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-9491-1997": _L("Lei nº 9.491, de 1997", "Altera procedimentos relativos ao Programa Nacional de Desestatização, revoga a "
                         "Lei n° 8.031, de 12 de abril de 1990, e dá outras providências.", "1997-09-09", "1997-09-10",
                         "leis/L9491.htm"),
+    "lei-13334-2016": _L("Lei nº 13.334, de 2016", "Cria o Programa de Parcerias de Investimentos - PPI; altera a Lei nº 10.683, "
+                         "de 28 de maio de 2003, e dá outras providências.", "2016-09-13", "2016-09-13",
+                         "_Ato2015-2018/2016/Lei/L13334.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -6126,6 +6138,11 @@ if any(a["slug"] == _LJF for a in ACTS):
         "2020-01-01", "art. 5: 'Esta Lei entra em vigor: I - quanto ao art. 3º, a partir do dia 1º de janeiro de 2020; II - quanto "
                       "aos demais dispositivos, na data de sua publicação' (DOU 23.9.2019): its art. 3 (Lei 5.010 art. 15) falls "
                       "under I")
+    B8.LAW_FIELD_FIX["lei-6741-1979"] = (
+        {"enacted": "1979-12-05"},
+        "Lei 6.741/1979: Planalto's page heads it 'DE 17 DE DEZEMBRO DE 1979', but it closes 'Brasília, em 05 de dezembro de "
+        "1979' and was published in the DOU of 6.12.1979 (the LexML record, Senado Federal: Lei nº 6.741, de 5 de dezembro de "
+        "1979): enacted 5.12.1979 (its in-force day, the day of publication, is unchanged)")
 if any(a["slug"] == _LPND for a in ACTS):
     _N246 = "(Revogado pela Medida Provisória nº 246, de 1997 (Rejeitada) (Revogado pela Lei nº 11.483, de 2007)"
     P.NOTE_FIX[_N246] = (
@@ -6170,6 +6187,73 @@ if any(a["slug"] == _LPND for a in ACTS):
         ((_LPND, "art-05", "§ 8º", "§ 8º Nas ausências ou impedimentos do Ministro de Estado do Desenvolvimento", 0),
          {"start": "2001-08-24", "start_law": "mp-2161-2001"}, _W5_8),
     ]
+
+# part zzzd (twenty-ninth session): Lei 13.334/2016 (Programa de Parcerias de Investimentos). Hand items set only when the act
+# runs.
+_LPPI = "lei-do-programa-de-parcerias-de-investimentos"
+if any(a["slug"] == _LPPI for a in ACTS):
+    P.MP_LAPSE["mp-1161-2023"] = (
+        "2023-06-10", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 42, de 2023 (DOU 16.6.2023, republished "
+                      "19.6.2023): 'teve seu prazo de vigência encerrado no dia 9 de junho de 2023'")
+
+    P.NOTE_FIX["(Redação da pela Medida Provisória nº 768, de 2017)"] = (
+        "(Redação dada pela Medida Provisória nº 768, de 2017)",
+        "Lei 13.334: the notes on art. 4 II, art. 7 § 1º and art. 8 caput read '(Redação da pela Medida Provisória nº 768, de "
+        "2017)', the word 'dada' cut short (Medida Provisória 768's art. 9 gives these wordings): read as 'Redação dada'")
+    P.MP_PENDING["mp-768-2017"] = (
+        "Medida Provisória nº 768, de 2.2.2017 (DOU 3.2.2017, in force on publication), revoked by Medida Provisória nº 782, de "
+        "31.5.2017 (DOU 31.5.2017, edição extra, art. 81 II), whose conversion, Lei 13.502/2017 (DOU 3.11.2017), repeats the "
+        "revocation (its ementa); every wording Medida Provisória 768 gave this Lei is followed on 31.5.2017 by Medida "
+        "Provisória 782's")
+_W870 = ("Lei 13.334 art. 7 § 1º III and IV: Medida Provisória 870/2019 (DOU 1.1.2019, in force on publication) named the "
+         "Ministros de Estado da Economia and da Infraestrutura; its conversion, Lei 13.844/2019 (DOU 18.6.2019, edição extra, in "
+         "force on publication), changes nothing in Lei 13.334 but revokes art. 7 § 1º VI (art. 85 III), so the MP's wordings end "
+         "on 18.6.2019 and Lei 13.502/2017's (Fazenda; Transportes, Portos e Aviação Civil), which Planalto prints again below "
+         "them, stand from that day until Medida Provisória 886/2019 (DOU 19.6.2019) gave the incisos the MP 870 words again "
+         "(the converted-MP rule, set by hand here: the rule's general form also matches the repeated copies)")
+_W882R = ("Lei 13.334 art. 8 I, IV, VI and art. 12 V: revoked by Medida Provisória 882/2019 (DOU 3.5.2019, edição extra), whose "
+          "term ended on 30.8.2019 (Ato Declaratório nº 55, de 2019); Medida Provisória 886/2019 art. 10 II-III revoked only "
+          "some of the MP 882 changes (art. 7 § 1º I, §§ 4º-5º, art. 7º-A, art. 8 caput, art. 8º-B II), not these revocations. "
+          "The provisions are absent from 3.5.2019 and in force again from 31.8.2019 (Planalto prints them again, unstruck, below "
+          "the MP's note) until Lei 13.901/2019 (DOU 12.11.2019) revoked them")
+_W9A = ("Lei 13.334 art. 9º-A: Lei 13.901/2019 (DOU 12.11.2019) art. 4, which added it, was vetoed; Congress overrode the veto and "
+        "the President promulgated the part on 10.12.2019 (DOU 11.12.2019; printed on Lei 13.901's page as 'Promulgação partes "
+        "vetadas'), so the article starts on 11.12.2019, credited to Lei 13.901 (as Lei 10.233 art. 88-A, part w)")
+_W7A = ("Lei 13.334 art. 7º-A parágrafo único: Lei 13.901/2019's wording, replaced by Medida Provisória 922/2020 from 2.3.2020; "
+        "the MP's term ended on 29.6.2020, so Lei 13.901's paragraph (printed again, unstruck) is in force again from 30.6.2020 "
+        "with the article's caput, not from 2019 a second time")
+B.EXPLAINED[_LPPI] = {"art-07": "typesetting: Planalto's consolidated page (Lei 13.334 compilado) drops the full stop after 'de 9 de "
+                                 "setembro de 1997' at the end of art. 7 § 3º; the annotated page prints it"}
+B13.OPEN_ITEMS[_LPPI] = (
+    "Lei 13.334 (open items): the text before 13.9.2016 (Medida Provisória 727/2016, of which this Lei is the conversion) is not "
+    "part of the history; Medidas Provisórias 768/2017 (art. 11) and 782/2017 (art. 80) and Lei 13.502/2017 (art. 84) are in "
+    "force on publication but defer their effects on the structure and competences of organs to the entry into force of the "
+    "decrees of estrutura regimental, which name no day in the acts themselves: their changes to this Lei are dated by "
+    "publication (Planalto marks them 'Produção de efeitos'); 'Vide' pointers (Lei 13.448/2017, Mandado de Segurança 38.606, "
+    "Decretos 10.245/2020 and 11.412/2023) strike no words and are not modelled")
+_G882 = [("2019-05-03", "2019-08-31", "mp-882-2019", "mp-882-2019-fim")]
+B8.SPAN_FIX += [
+    ((_LPPI, "art-07", "III -", "III - o Ministro de Estado da Economia", 0),
+     {"end": "2019-06-18", "end_law": "lei-13844-2019", "end_how": "conversion"}, _W870),
+    ((_LPPI, "art-07", "III -", "III - o Ministro de Estado da Fazenda", 3),
+     {"start": "2019-06-18", "start_law": "lei-13844-2019", "restored": True}, _W870),
+    ((_LPPI, "art-07", "IV -", "IV - o Ministro de Estado da Infraestrutura", 0),
+     {"end": "2019-06-18", "end_law": "lei-13844-2019", "end_how": "conversion"}, _W870),
+    ((_LPPI, "art-07", "IV -", "IV - o Ministro de Estado dos Transportes, Portos e Aviação Civil", 2),
+     {"start": "2019-06-18", "start_law": "lei-13844-2019", "restored": True}, _W870),
+    ((_LPPI, "art-08", "I -", "I - dirigir a SPPI, superintender", 0),
+     {"end": "2019-11-12", "end_law": "lei-13901-2019", "end_how": "successor", "gaps": _G882}, _W882R),
+    ((_LPPI, "art-08", "IV -", "IV - exercer orientação normativa e supervisão técnica", 0),
+     {"end": "2019-11-12", "end_law": "lei-13901-2019", "end_how": "successor", "gaps": _G882}, _W882R),
+    ((_LPPI, "art-08", "VI -", "VI - editar e praticar os atos normativos", 0),
+     {"end": "2019-11-12", "end_law": "lei-13901-2019", "end_how": "successor", "gaps": _G882}, _W882R),
+    ((_LPPI, "art-12", "V -", "V - celebrar diretamente com o Fundo de Apoio", 0),
+     {"end": "2019-11-12", "end_law": "lei-13901-2019", "end_how": "successor", "gaps": _G882}, _W882R),
+    ((_LPPI, "art-09-a", "Art. 9º-A", "Art. 9º-A. A SPPI manterá", 0),
+     {"start": "2019-12-11", "start_law": "lei-13901-2019"}, _W9A),
+    ((_LPPI, "art-07-a", "Parágrafo único", "Parágrafo único. A decisão ad referendum a que se refere o caput deste", 1),
+     {"start": "2020-06-30", "start_law": "mp-922-2020-fim", "restored": True}, _W7A),
+]
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

@@ -101,6 +101,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "ato:adc-42-2023-mpv1161",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/Congresso/adc-42-mpv1.161.htm",
+   "ts": "20260713152202",
+   "via": "wayback.py"
+  },
+  {
    "id": "ato:adc-46-2022-mpv1078",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Congresso/adc-46-mpv1.078.htm",
    "ts": "20260614014613",
@@ -730,6 +736,12 @@
    "id": "l13334",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13334.htm",
    "ts": "20261019061454",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l13334-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/L13334compilado.htm",
+   "ts": "20261014174232",
    "via": "wayback.py"
   },
   {
@@ -2785,6 +2797,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-13502-2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/Lei/L13502.htm",
+   "ts": "20261004164413",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-13640-2018",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13640.htm",
    "cc": {
@@ -4308,6 +4326,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-1161-2023",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Mpv/mpv1161.htm",
+   "ts": "20260714230249",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-1171-2023",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Mpv/mpv1171.htm",
    "ts": "20260618012418",
@@ -5351,6 +5375,18 @@
    "id": "law:mp-766-2017",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Mpv/mpv766.htm",
    "ts": "20261016051802",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-768-2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/Mpv/mpv768.htm",
+   "ts": "20261004221315",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-782-2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/Mpv/mpv782.htm",
+   "ts": "20261005004325",
    "via": "wayback.py"
   },
   {
