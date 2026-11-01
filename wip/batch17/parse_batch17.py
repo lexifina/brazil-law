@@ -2232,6 +2232,15 @@ if any(a["slug"] == _LCADIN for a in ACTS):
     P.VIGENCIA_FIXED["lei-12844-2013"] = (
         "2013-07-19", "art. 49: 'Esta Lei entra em vigor: [...] V - na data de sua publicação para os demais dispositivos' "
                       "(DOU 19.7.2013, edição extra): its art. 21 (Lei 10.522 art. 19) falls under V")
+    # (these two were inside part s's block below since the sixth session, so a fresh parse of part q lost them)
+    P.VIGENCIA_FIXED["lei-13988-2020"] = (
+        "2020-04-14", "'Esta Lei entra em vigor: I - em 120 (cento e vinte) dias [...] em relação ao inciso I do caput e ao "
+                      "parágrafo único do art. 23; e II - na data de sua publicação, em relação aos demais dispositivos' (DOU "
+                      "14.4.2020, edição extra): its art. 28 (Lei 10.522 art. 19-E) falls under II")
+    P.MP_LAPSE["mp-1160-2023"] = (
+        "2023-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 41, de 2023 (DOU 16.6.2023): 'teve seu "
+                      "prazo de vigência encerrado no dia 1º de junho de 2023'; the provision it had revoked is back from "
+                      "2.6.2023")
 _LCSE, _L9074 = "lei-das-concessoes-do-setor-eletrico", "lei-9074-de-1995"
 if any(a["slug"] == _L9074 for a in ACTS):
     P.VIGENCIA_FIXED["mp-1300-2025"] = (
@@ -2264,14 +2273,6 @@ if any(a["slug"] == _LCSE for a in ACTS):
         "2024-10-11", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 101, de 2024 (DOU 31.10.2024): 'teve "
                       "seu prazo de vigência encerrado no dia 10 de outubro de 2024'; the wordings it replaced or revoked are "
                       "back from 11.10.2024")
-    P.VIGENCIA_FIXED["lei-13988-2020"] = (
-        "2020-04-14", "'Esta Lei entra em vigor: I - em 120 (cento e vinte) dias [...] em relação ao inciso I do caput e ao "
-                      "parágrafo único do art. 23; e II - na data de sua publicação, em relação aos demais dispositivos' (DOU "
-                      "14.4.2020, edição extra): its art. 28 (Lei 10.522 art. 19-E) falls under II")
-    P.MP_LAPSE["mp-1160-2023"] = (
-        "2023-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 41, de 2023 (DOU 16.6.2023): 'teve seu "
-                      "prazo de vigência encerrado no dia 1º de junho de 2023'; the provision it had revoked is back from "
-                      "2.6.2023")
 for _w, _r in (("Lei no 8.981", "Lei nº 8.981"), ("Decreto no 70.235", "Decreto nº 70.235"), ("Lei no 10.480", "Lei nº 10.480"),
                ("Lei no 11.457", "Lei nº 11.457")):
     B15.TEXT_FIX.append(("l10522", _w, _r, "Lei 10.522 arts. 17, 32 and 37-B: the annotated page prints the ordinal sign of "

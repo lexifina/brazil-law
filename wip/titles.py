@@ -68,7 +68,8 @@ _OLD = re.compile(r"(.*?\.)\s*" + _FORMULA, re.S)
 _FORMULA_MORE = re.compile(
     r"O\s+PRESIDENT\s?E\b|O\s+VICE\b|VICE-?\s*PRESIDENTE\s+DA\s+REP|A\s+PRESIDENTA\b|O\s+CONGRESSO\b|Fa[çc]o\s+saber|"
     r"PRESIDENTE\s+DA\s+REP[ÚU]BLICA|O\s+Presidente\s+da\s+Rep[úu]blica|OS\s+MINISTROS\s+DA\s+MARINHA|"
-    r"O\s+Congresso\s+Nacional\s+decreta|O\s+PRESIDENTE\s+DO\s+SENADO")
+    r"O\s+Congresso\s+Nacional\s+decreta|O\s+PRESIDENTE\s+DO\s+SENADO|"
+    r"A\s+Mesa\s+do\s+Congresso\s+Nacional|As\s+Mesas\s+da\s+C[âa]mara\s+dos\s+Deputados")   # constitutional amendments
 # page links and navigation the old reader's links list lacked, or their remnants, before the ementa
 _LEAD_MORE = re.compile(
     r"^[\s.]*(?:Fica\s+sem\s+efeito\s+pel[ao]\s+" + _REF + r"|[Ss]uspens[ao]\s+pel[ao]\s+" + _REF + r"|"

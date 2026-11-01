@@ -34,6 +34,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import fetch  # noqa: E402
+import titles  # noqa: E402  (ementa: a law's title from the text after its heading)
 
 PL = "https://www.planalto.gov.br/ccivil_03/"
 CF_URL = PL + "constituicao/constituicao.htm"
@@ -260,6 +261,13 @@ def dmy(s: str) -> str:
     return f"{y:04d}-{m:02d}-{d:02d}"
 
 
+def ecr_title(x: str, m) -> str:
+    """An ECR's ementa: the text after its heading up to 'A Mesa do Congresso Nacional ... promulga' (titles.ementa)."""
+    if not m:
+        return ""
+    return titles.ementa(x[m.end():m.end() + 1500].lstrip(" ."), x[m.end() + 1500:m.end() + 12000])
+
+
 def amendments() -> dict[str, dict]:
     """Law records for the ECs (from quadro_emc) and ECRs (from their own pages)."""
     laws: dict[str, dict] = {}
@@ -294,7 +302,7 @@ def amendments() -> dict[str, dict]:
         pub = re.search(r"publicad[oa]\s+no\s+D\.?\s*O\.?\s*U\.?\s+(?:de\s+)?(\d{1,2}\.\d{1,2}\.\d{4})", x, re.I)
         laws[f"ecr-{n}"] = {
             "label": f"Emenda Constitucional de Revisão nº {n}, de 1994",
-            "title": "", "kind": "law",
+            "title": ecr_title(x, m), "kind": "law",
             "enacted": f"{int(m.group(3)):04d}-{MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}" if m else None,
             "published": dmy(pub.group(1)) if pub else None,
             "url": PL + f"constituicao/emendas/ecr/ecr{n}.htm",
