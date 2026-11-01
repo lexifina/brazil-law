@@ -528,6 +528,72 @@ MOVES: dict[str, list] = {
          "Lei Complementar 214/2025 art. 544: 'produzindo efeitos: I - a partir do primeiro dia do quarto mês subsequente ao da sua "
          "publicação, em relação aos arts. 537 a 540' (DOU 16.1.2025): its art. 538 (Lei 10.637 art. 2 § 1º-A) from 1.5.2025"),
     ],
+    "99-batch17zl.json": [
+        ("lei-10833-de-2003", "lei-10865-2004", "2004-04-30", [(ALL, "2004-05-01")],
+         "Lei 10.865/2004 art. 53: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir do dia 1º de maio "
+         "de 2004, ressalvadas as disposições contidas nos artigos anteriores' (DOU 30.4.2004): its art. 21 (Lei 10.833 arts. 1, "
+         "2, 3, 6, 10, 12, 15, 25, 27, 32, 34, 49, 50, 51, 52 and 53) from 1.5.2004"),
+        ("lei-10833-de-2003", "lei-10925-2004", "2004-07-26",
+         [(lambda h: path_sel([("art-02", "§ 1º", None, None)], None)(h), "2004-11-01"), ("units:art-51", "2004-11-01")],
+         "Lei 10.925/2004 art. 17: 'Produz efeitos: I - a partir do 1º (primeiro) dia do 4º (quarto) mês subseqüente ao de "
+         "publicação desta Lei, o disposto: [...] c) no art. 5º desta Lei, quanto às alterações promovidas no § 1º do art. 2º e no "
+         "art. 51 da Lei nº 10.833 [...]; II - na data da publicação desta Lei, o disposto: [...] c) no art. 5º desta Lei, quanto "
+         "às alterações promovidas no § 4º do art. 2º e nos arts. 3º, 10, 12, 15, 31, 35 e 52 da Lei nº 10.833' (DOU 26.7.2004): "
+         "art. 2 § 1º and art. 51 from 1.11.2004; its other changes on publication"),
+        ("lei-10833-de-2003", "lei-11051-2004", "2004-12-30", [("units:art-84", "2005-04-01")],
+         "Lei 11.051/2004 art. 35: 'Ficam revogados: [...] IV - o art. 84 da Lei nº 10.833, de 29 de dezembro de 2003, a partir do "
+         "1º (primeiro) dia do 4º (quarto) mês subseqüente ao de sua publicação' (DOU 30.12.2004): art. 84 ends on 1.4.2005; its "
+         "other changes on publication (art. 34 III)"),
+        ("lei-10833-de-2003", "lei-11196-2005", "2005-11-22",
+         [(lambda h: path_sel([("art-03", "caput", "VI -", None), ("art-03", "§ 21", None, None),
+                               ("art-10", "caput", "XXVII -", None)], None)(h), "2005-12-01"),
+          ("units:art-35", "2006-01-01")],
+         "Lei 11.196/2005 art. 132: 'produzindo efeitos: [...] II - desde 14 de outubro de 2005, em relação ao disposto: [...] b) "
+         "no art. 43 desta Lei, relativamente ao inciso XXVI do art. 10 e ao art. 15, ambos da Lei nº 10.833 [...]; III - a partir "
+         "do 1º (primeiro) dia do mês subseqüente ao da publicação desta Lei, em relação ao disposto: [...] c) no art. 43 desta Lei, "
+         "relativamente ao art. 3º e ao inciso XXVII do art. 10 da Lei nº 10.833 [...]; IV - a partir de 1º de janeiro de 2006, em "
+         "relação ao disposto: [...] b) nos arts. 17 a 27, 31 e 32, 34, 70 a 75 e 76 a 90 desta Lei; [...] VIII - a partir da data "
+         "da publicação desta Lei, em relação aos demais dispositivos' (DOU 22.11.2005): art. 3 (caput VI, § 21) and art. 10 "
+         "XXVII from 1.12.2005, its art. 74 (art. 35) from 1.1.2006; art. 10 XXVI and art. 15 (II, before the publication) and "
+         "art. 2 § 3º and art. 18 (art. 117: II d)) on publication"),
+        ("lei-10833-de-2003", "mp-451-2008", "2008-12-16",
+         [(lambda h: path_sel([("art-01", "§ 3º", "VI -", None)], None)(h), "2009-01-01")],
+         "Medida Provisória 451/2008 art. 22: 'produzindo efeitos: I - a partir de 1º de janeiro de 2009, em relação ao disposto: "
+         "[...] c) no art. 9º, relativamente ao inciso VI do § 3º do art. 1º, e ao art. 58-J, da Lei nº 10.833' (DOU 16.12.2008; "
+         "the item is printed struck on the MP's page and read as published): art. 1 § 3º VI from 1.1.2009; art. 3 § 23 from "
+         "1.4.2009 (II b), set in the parser); its other changes on publication"),
+        ("lei-10833-de-2003", "lei-12766-2012", "2012-12-28", [(ALL, "2013-01-01")],
+         "Lei 12.766/2012 art. 13: 'produzindo efeitos: [...] II - a partir de 1º de janeiro de 2013, em relação aos arts. 2º, 3º e "
+         "5º' (DOU 28.12.2012): its art. 3 (Lei 10.833 art. 10 XXVIII and XXIX) from 1.1.2013"),
+        ("lei-10833-de-2003", "lei-12995-2014", "2014-06-20", [(ALL, "2015-01-01")],
+         "Lei 12.995/2014 art. 27: 'Revogam-se os seguintes dispositivos legais: I - a partir da entrada em vigor do art. 13: [...] "
+         "e) o § 2º do art. 58-T da Lei nº 10.833' and art. 26 parágrafo único ('O art. 13 produzirá efeitos no primeiro dia do ano "
+         "subsequente ao da publicação desta Lei'; DOU 20.6.2014): art. 58-T § 2º ends on 1.1.2015 (judgement call: the revocation "
+         "follows art. 13's effects)"),
+        ("lei-10833-de-2003", "lei-13043-2014", "2015-01-01",
+         [(lambda h: path_sel([("art-10", "caput", "XX -", None)], None)(h), "2015-03-01")],
+         "Lei 13.043/2014 art. 113: 'exceto: [...] IV - os seguintes dispositivos, que entram em vigor a partir do primeiro dia do "
+         "quarto mês subsequente ao da publicação desta Lei: [...] b) o art. 98 e os artigos das Seções XVI, XVII, XIX e XX do "
+         "Capítulo I' (DOU 14.11.2014): its art. 79 (Seção XX; art. 10 XX) from 1.3.2015; its art. 32 (art. 10 XXX) from 1.1.2015 "
+         "(II)"),
+        ("lei-10833-de-2003", "lei-13097-2015", "2015-01-20", [(ALL, "2015-05-01")],
+         "Lei 13.097/2015 art. 168 ('Esta Lei entra em vigor: [...] III - no 1º (primeiro) dia do 4º (quarto) mês subsequente ao de "
+         "sua publicação, em relação aos arts. 14 a 39') and art. 169 ('Ficam revogados: [...] III - a partir do 1º (primeiro) dia "
+         "do 4º (quarto) mês subsequente ao da publicação desta Lei: [...] b) os incisos VII a IX do § 1º do art. 2º, e os arts. 51, "
+         "53, 54 e 58-A a 58-V da Lei nº 10.833') (DOU 20.1.2015): its art. 37 (art. 3) and those revocations from 1.5.2015"),
+        ("lei-10833-de-2003", "mp-1159-2023", "2023-01-12",
+         [(lambda h: path_sel([("art-03", "§ 2º", "III -", None)], None)(h), "2023-05-01")],
+         "Medida Provisória 1.159/2023 art. 3: 'produz efeitos: I - a partir do primeiro dia do quarto mês subsequente ao de sua "
+         "publicação quanto: [...] b) ao art. 2º, na parte em que altera o inciso III do § 2º do art. 3º da Lei nº 10.833, de 2003 "
+         "[...]; e II - na data de sua publicação, quanto aos demais dispositivos' (DOU 12.1.2023): art. 3 § 2º III from 1.5.2023; "
+         "its other changes on publication"),
+        ("lei-10833-de-2003", "mp-1185-2023", "2023-08-31", [(ALL, "2024-01-01")],
+         "Medida Provisória 1.185/2023 art. 16: 'Esta Medida Provisória entra em vigor na data de sua publicação e produz efeitos a "
+         "partir de 1º de janeiro de 2024' (DOU 31.8.2023): its art. 15 (revocation of Lei 10.833 art. 1 § 3º IX) from 1.1.2024"),
+        ("lei-10833-de-2003", "lc-214-2025", "2025-01-16", [(ALL, "2025-05-01")],
+         "Lei Complementar 214/2025 art. 544: 'produzindo efeitos: I - a partir do primeiro dia do quarto mês subsequente ao da sua "
+         "publicação, em relação aos arts. 537 a 540' (DOU 16.1.2025): its art. 539 (Lei 10.833 art. 2 § 1º-A) from 1.5.2025"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,
