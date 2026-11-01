@@ -281,7 +281,7 @@ def page_info(key: str) -> dict:
         P.PUB_CORRECTED[key] = (info.get("published"), lx)
         info["published"] = lx
     em = re.search(r"DE\s+\d{4}\s*\.?\s*(.*?\.)\s*O\s+PRESIDENTE", x[m.start():m.start() + 1500], re.S)
-    info["title"] = em.group(1).strip() if em else titles.ementa_more(x[m.end():m.start() + 6000])   # layouts without the full stop
+    info["title"] = em.group(1).strip() if em else titles.ementa_more(x[m.end():m.start() + 12000])   # layouts without the full stop
     cl = list(re.finditer(r"(?:Êste|Este|O\s+presente)\s+Ato(?:\s+Complementar)?\s+entra(?:r[áa])?\s+em\s+vigor[^.]*\.", x, re.I))
     info["clause"] = cl[-1].group(0) if cl else ""
     return info
