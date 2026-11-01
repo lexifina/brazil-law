@@ -699,13 +699,24 @@ def lplr_905(paras, act):
                 or p.get("skip") or p.get("end") not in (r_lapse, m_lapse):
             continue
         q = next((q for q in paras[i + 1:] if q["unit"] == p["unit"] and q["state"] == "plain" and q["label"] == p["label"]
-                  and P.norm(q["text"]) == P.norm(p["text"]) and all(n in p["notes"] for n in q["notes"])), None)
+                  and P.norm(q["text"]) == P.norm(p["text"])
+                  and all(any(x.startswith(n.rstrip(") ")) for x in p["notes"]) for n in q["notes"])), None)
         if q is None:
             continue
         p["end"], p["end_law"], p["end_how"] = r_lapse, r_key + "-fim", "mp-pair"
         q.update({"start": m_lapse, "start_law": m_key + "-fim", "end": None, "end_law": None, "end_how": None,
                   "skip": False, "restored": True, "pinned": True, "gaps": []})
         LPLR_905.append(f"{p['unit']} [{p['label']}]")
+    # Planalto prints Medida Provisória 388/2007's arts. 6º-A and 6º-B a second time, struck, in the second block of these
+    # articles; the second copies are the same wordings over the same days and are left out
+    seen = set()
+    for p in paras:
+        if p["unit"] in ("art-06-a", "art-06-b") and p["state"] != "plain" and p.get("start_law") == "mp-388-2007":
+            k = (p["unit"], p["label"], P.norm(p["text"]), p.get("end"))
+            if k in seen and not p.get("skip"):
+                p.update({"skip": True, "end_how": "duplicate", "pinned": True})
+                LPLR_905.append(f"{p['unit']} [{p['label']}] Medida Provisória 388 wording printed twice, second copy left out")
+            seen.add(k)
     later = [q for q in paras if q["unit"] == "art-02" and q["state"] == "plain"
              and any("14.020" in n for n in q["notes"])]
     for p in paras:
@@ -2145,7 +2156,8 @@ def _inner(*a):
                    "(18.8.2020; absent while MP 905 stood). Art. 2 §§ 3º-A and 5º to 10 and their incisos: MP 905 added them "
                    "and Lei 14.020/2020 (DOU 7.7.2020, in force on publication) added them again; MP 905's wordings end when MP "
                    "955 revoked the MP (20.4.2020) and do not come back on 18.8.2020, MP 905's last day, because by then Lei "
-                   "14.020 had given those paragraphs their wording (" + "; ".join(dict.fromkeys(LPLR_905)) + ").")
+                   "14.020 had given those paragraphs their wording; Medida Provisória 388/2007's wordings of arts. 6º-A and 6º-B, "
+                   "printed twice, are read once (" + "; ".join(dict.fromkeys(LPLR_905)) + ").")
     if any(x.startswith("l10101") for x in FOREIGN_DROPPED):
         dec.append("Lei 10.101: the unlabelled line 'Participação nos lucros e prêmios' Planalto prints above art. 2 with no note "
                    "is the heading of Medida Provisória 905/2019's own art. 48 (as printed on the MP's page), copied onto the page "
