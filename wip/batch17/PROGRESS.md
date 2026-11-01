@@ -1105,3 +1105,12 @@ Lei 13.005/2014 (PNE, 3 versions 2014-06-26 .. 2026-01-01) and Lei 12.379/2011 (
   lines end with the lapse 7.2.2022 (2011 wording back). Lei 14.273 2023 promulgated parts do not touch 12.379 (read).
 - Part sha cc0c38dc (0 moves); merged 213 acts, 3330 versions, 2439 commits, check 0/0, compare identical, audit clean
   (final19-zs-build2.log, after rows-zs.json docs + a jurisdiction.json note on the PNE's term).
+
+## 99-batch17zt - PUBLISHed 2026-11-01 (nineteenth session)
+Lei 6.437/1977 (lei-das-infracoes-sanitarias), 7 versions 1977-08-24 .. 2023-09-12, vs l6437compilado (0 diffs, 0 problems).
+- Hand (scoped `_LIS`): MP_PENDING mp-2190-2001 (6.437 text), P.PUBLISHED_FIXED lei-9695-1998 = 21.8.1998 ('publicado pelo D.O.U.'
+  not read by page_info's regex) + EXTRA decision; OPEN_ITEMS (MP 116 -> Lei 7.967 same words; Lei 9.005 converted MP 834).
+- Part sha 5f486783 (0 moves); merged 214 acts, 3337 versions, 2445 commits, check 0/0, compare identical, audit clean
+  (final19-zt-build.log, after rows-zt.json docs).
+- FOUND (not changed yet): 99-batch8 dates Lei 9.695's change of the Crimes Hediondos (art. 1) 1998-08-20 with published None (same
+  page slip); the merged law entry now reads published 1998-08-21 (17zt sorts first). Fix = PUBLISHED_FIXED in batch8's run + re-verify.

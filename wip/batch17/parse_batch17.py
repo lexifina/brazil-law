@@ -4135,6 +4135,41 @@ if any(a["slug"] == _LPNE for a in ACTS):
         "extension is recorded as continuing the plan. Planalto's page (capture of 20.10.2026) names no later law that extends "
         "the term again, and Planalto does not strike a lapsed plan, so the replay check compares the last version before the "
         "end of the term with the page's text")
+# part zu: Leis Complementares 159/2017 (Regime de Recuperação Fiscal) and 178/2021 (Plano de Promoção do Equilíbrio Fiscal)
+_LC159, _LC178 = "lei-do-regime-de-recuperacao-fiscal", "lei-do-plano-de-equilibrio-fiscal"
+if any(a["slug"] == _LC159 for a in ACTS):
+    P.NOTE_FIX["(Incluído pela Lei Complementar nº 189, de 2021)"] = (
+        "(Incluído pela Lei Complementar nº 189, de 2022)",
+        "Lei Complementar 159 art. 2: the note reads 'Lei Complementar nº 189, de 2021'; its link goes to Lcp189.htm#art2, Lei "
+        "Complementar 189 of 4 January 2022 (DOU 5.1.2022), which the other notes of the same article name 'de 2022'")
+B.EXPLAINED[_LC178] = {"art-12": _DOTTED, "art-13": _DOTTED, "art-16": _DOTTED}
+B13.OPEN_ITEMS[_LC159] = (
+    "Lei Complementar 159 (open items): the Regime's own periods (each State's plan, its extensions) are acts of execution, not "
+    "terms of the text; the regulations ('Regulamento' link) are not modelled")
+B13.OPEN_ITEMS[_LC178] = (
+    "Lei Complementar 178 (open items): its art. 16's changes of Lei Complementar 101 arts. 51 and 42 'a partir de 2022' and "
+    "'a partir de 2023' (art. 32 I and II) concern that law's text, not this act's; the dates in its articles (deadlines for "
+    "contract amendments and lawsuits) are not terms of the text; Lei Complementar 212/2025's promulgated vetoed parts (DOU 4.12.2025) do not "
+    "touch this act; the regulations are not modelled")
+# part zt: Lei 6.437/1977 (infrações sanitárias)
+_LIS = "lei-das-infracoes-sanitarias"
+if any(a["slug"] == _LIS for a in ACTS):
+    P.MP_PENDING["mp-2190-2001"] = (
+        "Medida Provisória nº 2.190-34, de 23.8.2001 (DOU 24.8.2001, art. 14: in force on publication), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2; its art. 12 gave Lei 6.437 art. 2 incisos XII and XIII and §§ 1º to 3º and the art. 10 "
+        "wordings Planalto notes with this edition (incisos XXXII to XLI added). Planalto's notes name this edition only, so the "
+        "changes are dated by its publication; earlier editions of the chain are not modelled")
+    P.PUBLISHED_FIXED["lei-9695-1998"] = (
+        "1998-08-21", "Lei 9.695/1998: its page closes 'Este texto não substitui o publicado pelo D.O.U. de 21.8.1998' ('pelo', a "
+                      "form the publication reader does not take); in force on publication (art. 3)")
+    EXTRA.append("Lei 9.695/1998 is dated by its publication in the DOU of 21.8.1998 (its art. 3: in force on publication), which "
+                 "its page prints as 'publicado pelo D.O.U. de 21.8.1998'; the reader takes only 'publicado no DOU', so the day is "
+                 "set by hand (Lei 6.437 arts. 2, 5 and 10)")
+B13.OPEN_ITEMS[_LIS] = (
+    "Lei 6.437 (open items): Medida Provisória 116/1989's wording of art. 5 (DOU 30.11.1989) was kept word for word by its "
+    "conversion, Lei 7.967/1989 (DOU 26.12.1989), so that law changes no words; Lei 9.005/1995 converted Medida Provisória "
+    "834/1995 (its art. 4 keeps the acts done under it), whose change of art. 10 XXX is dated by the Lei, the only act Planalto "
+    "names; the regulations are not modelled")
 B13.OPEN_ITEMS[_LPNE] = (
     "Lei 13.005 (open items): the month between the end of the ten-year term (25.6.2024) and Lei 14.934/2024 (26.7.2024) is not "
     "shown as a gap; 'Vide ADI 5668' (art. 2 III) and 'Vide Decreto 11.713/2023' strike no words and are not modelled; the "
