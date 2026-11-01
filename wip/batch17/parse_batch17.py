@@ -216,6 +216,13 @@ PAGES.update({
     "l14601": "_ato2023-2026/2023/lei/l14601.htm",
     # twenty-fourth session
     "l10848": "_ato2004-2006/2004/lei/l10.848.htm",
+    # twenty-fifth session: environment laws
+    "l9966": "leis/l9966.htm",
+    "l7661": "leis/l7661.htm",
+    "l11959": "_ato2007-2010/2009/lei/l11959.htm",
+    "l5197": "leis/l5197.htm",
+    "l7735": "leis/l7735.htm",
+    "l11516": "_ato2007-2010/2007/lei/l11516.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
