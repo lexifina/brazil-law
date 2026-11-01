@@ -612,6 +612,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "l14785",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14785.htm",
+   "ts": "20261004152908",
+   "via": "wayback.py"
+  },
+  {
    "id": "l4090",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/l4090.htm",
    "cc": {
@@ -761,6 +767,12 @@
     "offset": "804460876",
     "length": "20558"
    }
+  },
+  {
+   "id": "l7802-2023",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7802.htm",
+   "ts": "20231218091920",
+   "via": "wayback.py"
   },
   {
    "id": "l7853",

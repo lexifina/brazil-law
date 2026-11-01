@@ -1142,3 +1142,36 @@ pinat.py ts 20260901034100 because pick() gave NO CAPTURE); `laws` (10 new) + `m
   CONVERTED via the MP page; lapsed -> MP_LAPSE (Ato Declaratório) and a version on the day after the term.
 - Part sha 149e561a (0 moves); merged 219 acts, 3359 versions, 2456 commits, check 0/0, compare identical, audit clean
   (final19-zv-build.log, after rows-zv.json docs).
+
+## LIVE-HOST LIMIT (coordinator, 2026-11-01 ~09:30, BRIEF.md) - read in the nineteenth session
+Any host without a Crawl-delay: <= 1 request / 3 s and ~5,000 / day machine-wide; archive.org through the shared client only (now
+<= 1 request/s machine-wide, ArchiveDailyCap 20,000/day); stop for good on any challenge page. This session's fetches all used the
+shared client (iaonly.py -> fetch_batch5 -> wayback.get / wayback.captures; cdxlist/cdxpre -> wayback.captures; pinat.py -> refetch
+via the same client); one LexML /urn record via lexml1.py (6 s spacing, LexML Crawl-delay 5); robots.txt curls (1 each). No
+challenge page seen. Keep using only these paths; never add a direct curl loop without a 3 s sleep and a daily count.
+
+## 99-batch17zw - PUBLISHed 2026-11-01 (nineteenth session)
+Lei 10.973/2004 (lei-de-inovacao, 7 versions 2004-12-03 .. 2024-10-17) and Lei 9.456/1997 (lei-de-protecao-de-cultivares, 2 versions
+1997-04-28 .. 2018-04-18). l10973 pinned with pinat.py (ts 20260901034100).
+- LInov: NOTE_FIX '(Redação pela Lei nº 13.243, de 2016)' x40 (scoped); act flag center_headings False; paragraphs wrapper (page
+  l10973) moves '(NR)' closing lines the capitals rule took for headings back into arts. 24/25 (LINOV_FIXED decision); EXPLAINED art-24.
+- LPC: ACT_DAY 28.4.1997 from LexML (lexml1.py; robots read: /urn allowed, Crawl-delay 5); SPAN_FIX _P9456 art-10 V and art-14-a start
+  18.4.2018 (Lei 13.606 art. 27 vetoed + promulgated).
+- Part sha cd3846f4 (pre-effects 3b9ddb4c, 0 moves); merged 221 acts, 3368 versions, 2460 commits, check 0/0, compare identical,
+  audit clean (final19-zw-build.log, after rows-zw.json docs).
+
+## State at handoff (batch 17, nineteenth session, 2026-11-01)
+Parts zs, zt, zu, zv, zw installed with .PUBLISH (12 acts, 37 versions): PNE 13.005 (+ Anexo; term to 31.12.2025, lapse version
+1.1.2026, Lei 14.934 as a note), SNV 12.379, Lei 6.437, LC 159, LC 178, Leis 7.853, 9.807, 10.861, 10.973, 9.456. 99-batch8
+re-PUBLISHed (Lei 9.695 dated 21.8.1998). Merged 221 acts, 3368 versions, 2460 commits, check 0/0, --compare identical, audit_push
+clean; README rows + jurisdiction.json (221 acts) current. All runs through .tmp/run.py / pipe.sh / reparse_all.py at BelowNormal (cpu
+gate), one at a time, never two parses; every PID was printed by run.py in its log (.tmp/*-zs..zw*.log, final19-*.log,
+.gitlaw-scratch/brazil-b19/*.log); all mine, all exited. Nothing running.
+DATED RE-CHECKS: MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, SINAES art. 5 § 12) as soon as archive.org
+has a capture of _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026 (its term end).
+Left out / unsettled (unchanged): Lei 9.782 art. 8º-A; Lei 10.931; Lei 10.522 art. 32 quoted § 2º; Lei 12.462 art. 63 § 17; Leis
+11.738 and 12.009 (not built).
+Next candidates (paths found in the local index, captures exist on archive.org): Lei 7.802/1989 (agrotóxicos, repealed by Lei
+14.785/2023: needs a pre-repeal capture via pinat.py + B9.REPEALS), Lei 14.785/2023, Lei 11.947/2009 (PNAE), Lei 10.820/2003
+(consignado), Lei 9.612/1998 (rádio comunitária), Lei 12.871/2013 (Mais Médicos; heavy MPs, incl. MP 1.370), Lei 13.979/2020 (COVID,
+temporary). Not pinned yet: Lei 6.360/1976, Lei 11.494/2007, Lei 9.424/1996.

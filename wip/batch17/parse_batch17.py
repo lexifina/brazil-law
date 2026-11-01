@@ -181,6 +181,9 @@ PAGES.update({
     "l10861": "_ato2004-2006/2004/lei/l10.861.htm",
     "l10973": "_ato2004-2006/2004/lei/l10.973.htm",
     "l9456": "leis/l9456.htm",
+    # parts zx, ... (twentieth session)
+    "l7802-2023": "leis/l7802.htm",   # capture of 18.12.2023, before Lei 14.785/2023 repealed it
+    "l14785": "_ato2023-2026/2023/lei/l14785.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -381,8 +384,9 @@ ALL_ACTS: list[dict] = [
          "Proteção a vítimas e testemunhas ameaçadas (Lei nº 9.807, de 13 de julho de 1999)", 2),
     _act("lei-do-sinaes", "SINAES", "l10861", "l10861", "lei-10861-2004",
          "Sistema Nacional de Avaliação da Educação Superior - SINAES (Lei nº 10.861, de 14 de abril de 2004)", 2),
-    _act("lei-de-inovacao", "LInov", "l10973", "l10973", "lei-10973-2004",
-         "Lei de Inovação (Lei nº 10.973, de 2 de dezembro de 2004)", 2),
+    {**_act("lei-de-inovacao", "LInov", "l10973", "l10973", "lei-10973-2004",
+            "Lei de Inovação (Lei nº 10.973, de 2 de dezembro de 2004)", 2),
+     "center_headings": False},   # chapter name lines are not centred: they were read as rubricas of the next article
     _act("lei-de-protecao-de-cultivares", "LPC", "l9456", "l9456", "lei-9456-1997",
          "Lei de Proteção de Cultivares (Lei nº 9.456, de 25 de abril de 1997)", 2),
 ]
@@ -1543,6 +1547,17 @@ def paragraphs(html, digits):
         out = keep
     if page == "l10833":
         efeitos_fix(out)
+    if page == "l10973":
+        # Lei 10.973 is read without centred headings (its chapter names are not centred); the dotted closing lines of the
+        # amendments arts. 24 and 25 quote ('..... " (NR)') have no lower-case letter, so the capitals rule took them for
+        # headings: they are lines of the article that quotes them
+        last = None
+        for p in out:
+            if p["heading"] and re.search(r"\(NR\)\s*$", p["text"]) and last:
+                p["unit"], p["heading"], p["label"] = last, False, ""
+                LINOV_FIXED.append(f"{last} closing line")
+            elif not p["heading"] and p["unit"].startswith("art-"):
+                last = p["unit"]
     if page == "l13005":
         B15.TABLES.pop(page, None)   # the page's tables are in the Anexo (Meta 7), read below: own decision
         # Lei 13.005: the Anexo (the plan's 20 metas and their estratégias) is printed after the signature, where the reader
@@ -1556,6 +1571,7 @@ def paragraphs(html, digits):
 
 
 PNE_ANNEX: list[str] = []
+LINOV_FIXED: list[str] = []
 
 
 def pne_annex(html):
@@ -2839,6 +2855,10 @@ _inner17 = B6.PB5B._write_part5
 
 def _inner(*a):
     dec = list(EXTRA)
+    if LINOV_FIXED:
+        dec.append("Lei 10.973: its chapter names are not centred, so headings are read by the Capítulo line and the name line "
+                   "after it; the dotted closing lines of the amendments arts. 24 and 25 quote ('..... \" (NR)'), which have no "
+                   "lower-case letter, are kept as lines of those articles, not headings (" + ", ".join(dict.fromkeys(LINOV_FIXED)) + ").")
     if PNE_ANNEX:
         dec.append("Lei 13.005: Planalto prints the Anexo (art. 1: the plan 'na forma do Anexo'; its 20 metas and their "
                    "estratégias) after the signature; it is part of the Lei and is read as units of its own: 'anexo' (the lines "
@@ -3607,8 +3627,32 @@ def build_act(paras, act_day, gate, gate_law, unit_label):
                           "no label and no closing punctuation, taken for the marginal heading of a revoked article; this unit "
                           "holds the Anexo's title lines 'ANEXO' and 'METAS E ESTRATÉGIAS', which the page prints)")
             B9.REPEAL_CHECK[i] = x
-        return versions
+        return pne_term_gap(versions)
     return _build_act17(paras, act_day, gate, gate_law, unit_label)
+
+
+# Lei 13.005 art. 1: ten years from publication (DOU 26.6.2014), so the plan's term ended on 25.6.2024; Lei 14.934/2024
+# (DOU 26.7.2024, in force on publication) extended it to 31.12.2025. Fixed-term lapse rule: the text leaves the record on
+# 26.6.2024 (the day after the term), credited to Lei 13.005 (its art. 1 set the term), and is back, word for word, on
+# 26.7.2024, credited to Lei 14.934; it leaves again on 1.1.2026 (B9.REPEALS).
+_PNE_LAPSE, _PNE_BACK = "2024-06-26", "2024-07-26"
+PNE_GAP_USED: list[str] = []
+
+
+def pne_term_gap(versions):
+    before = [v for v in versions if v["from"] < _PNE_LAPSE]
+    after = [v for v in versions if v["from"] >= _PNE_LAPSE]
+    if not before or not after or after[0]["from"] <= _PNE_BACK or any(v["from"] < "2026-01-01" for v in after):
+        raise SystemExit(f"PNE term gap: unexpected versions {[v['from'] for v in versions]}")
+    last = before[-1]["units"]
+    lapse = {"from": _PNE_LAPSE, "units": {}, "credits": {u: ["lei-13005-2014"] for u in sorted(last)},
+             "note": "The plan's ten-year term (Lei 13.005/2014 art. 1, from its publication on 26.6.2014) ended on "
+                     "25.6.2024, so its text leaves the record from the day after, until Lei 14.934/2024 extended the term."}
+    back = {"from": _PNE_BACK, "units": {u: dict(x) for u, x in last.items()},
+            "credits": {u: ["lei-14934-2024"] for u in sorted(last)}}
+    PNE_GAP_USED.append(f"PNE: {len(last)} units removed on {_PNE_LAPSE} and back on {_PNE_BACK}, as in force on "
+                        f"{before[-1]['from']}")
+    return before + [lapse, back] + after
 
 
 # Lei Complementar 214/2025 (IBS/CBS transition; Planalto's page of Lei 9.718 does not print these future changes, read on LC
@@ -4165,9 +4209,10 @@ B13.OPEN_ITEMS[_LMESC] = (
 
 # part zs: Leis 13.005/2014 (Plano Nacional de Educação), 12.379/2011 (Sistema Nacional de Viação)
 _LPNE, _LSNV = "lei-do-plano-nacional-de-educacao", "lei-do-sistema-nacional-de-viacao"
-_N14934 = ("Extended to 31 December 2025 the term of the Plano Nacional de Educação that Lei 13.005/2014 approved (its art. 1: ten "
-           "years from its publication in the DOU of 26.6.2014); it changed none of the plan's words. The plan's term ended on "
-           "31.12.2025, so its text leaves the record on 1.1.2026, the day after.")
+_N14934 = ("Extended to 31 December 2025 the term of the Plano Nacional de Educação that Lei 13.005/2014 approved for ten years "
+           "from its publication in the DOU of 26.6.2014, a term that had ended on 25.6.2024. It changed none of the plan's words: "
+           "the plan's text, which left the record on 26.6.2024, is back from 26.7.2024, the day this law was published, and "
+           "leaves it again on 1.1.2026, the day after the extended term.")
 if any(a["slug"] == _LPNE for a in ACTS):
     B8.EXTRA_LAWS["lei-14934-2024"] = {
         "label": "Lei nº 14.934, de 2024", "kind": "law",
@@ -4179,13 +4224,41 @@ if any(a["slug"] == _LPNE for a in ACTS):
         "2026-01-01", "lei-14934-2024",
         "Lei 13.005/2014 (Plano Nacional de Educação) art. 1 approves the plan 'com vigência por 10 (dez) anos, a contar da "
         "publicação desta Lei' (DOU 26.6.2014, so to 25.6.2024); Lei 14.934/2024 art. 1 (DOU 26.7.2024, in force on publication) "
-        "'Fica prorrogada, até 31 de dezembro de 2025, a vigência do Plano Nacional de Educação'. The extension changes no words, "
-        "so it is no version of its own: it is the note of the law credited with the end of the term. The act is a plan with a "
-        "fixed term, so its last version, on 1.1.2026 (the day after the term ends), removes every provision, credited to Lei "
-        "14.934/2024, which set that day. The month between 25.6.2024 and the extension (26.7.2024) is not shown as a gap: the "
-        "extension is recorded as continuing the plan. Planalto's page (capture of 20.10.2026) names no later law that extends "
+        "'Fica prorrogada, até 31 de dezembro de 2025, a vigência do Plano Nacional de Educação'. The plan is an act with a "
+        "fixed term, so a version on the day after the term ends removes every provision: on 26.6.2024, credited to Lei "
+        "13.005/2014, whose art. 1 set the ten-year term (the extension came a month after the term had ended, and it does not "
+        "say it reaches back). On 26.7.2024 every provision is back, word for word as in force on 25.6.2024, credited to Lei "
+        "14.934/2024, which changed none of the plan's words (its note says so); the act's last version, on 1.1.2026 (the day "
+        "after the extended term), removes every provision again, credited to Lei 14.934/2024, which set that day. Planalto's "
+        "page (capture of 20.10.2026) names no later law that extends "
         "the term again, and Planalto does not strike a lapsed plan, so the replay check compares the last version before the "
         "end of the term with the page's text")
+# part zw: Leis 10.973/2004 (inovação), 9.456/1997 (proteção de cultivares)
+_LINOV, _LPC = "lei-de-inovacao", "lei-de-protecao-de-cultivares"
+if any(a["slug"] == _LINOV for a in ACTS):
+    P.NOTE_FIX["(Redação pela Lei nº 13.243, de 2016)"] = (
+        "(Redação dada pela Lei nº 13.243, de 2016)",
+        "Lei 10.973: 40 notes read '(Redação pela Lei nº 13.243, de 2016)', the word 'dada' missing (the other notes of the page "
+        "and Lei 13.243's art. 2 give these wordings): read as 'Redação dada pela'")
+_W9456 = ("Lei 9.456 art. 10 V and art. 14-A: added by Lei 13.606/2018 art. 27 (DOU 10.1.2018), which the President vetoed whole "
+          "('Art. 27. (VETADO).'); Congress overrode the veto and the article was promulgated on 17.4.2018 (DOU 18.4.2018, printed "
+          "on Lei 13.606's page, '(Promulgação)'), so both start on 18.4.2018, credited to Lei 13.606, as its art. 20-D of Lei "
+          "10.522 (part q); Planalto's page of Lei 9.456 prints no '(VETADO)' line for them, so they are absent before")
+_P9456 = {"start": "2018-04-18", "start_law": "lei-13606-2018", "promulgated": True}
+B8.SPAN_FIX += [
+    ((_LPC, "art-10", "V -", "V - multiplica, distribui, troca ou comercializa sementes", 0), dict(_P9456), _W9456),
+    ((_LPC, "art-14-a", "Art. 14-A", "Art. 14-A. Ficam isentos de pagamento", 0), dict(_P9456), _W9456),
+]
+B.EXPLAINED[_LINOV] = {"art-24": _DOTTED}
+B13.OPEN_ITEMS[_LINOV] = (
+    "Lei 10.973 (open items): Medida Provisória 495/2010 (converted by Lei 12.349/2010) and 718/2016 (converted by Lei "
+    "13.322/2016) are dated by their publication and their conversions; the page was rectified on 16.5.2005 (DOU), the record "
+    "follows Planalto's text; 'Vide' pointers (Medida Provisória 497/2010, Decreto 9.841/2019) strike no words and are not "
+    "modelled; the regulations are not modelled")
+B13.OPEN_ITEMS[_LPC] = (
+    "Lei 9.456 (open items): Planalto's page dates the DOU '8.4.1997' (a slip: the Lei is of 25.4.1997; LexML's record of the "
+    "original publication gives 28.4.1997, used here); the rectifications of 26.8.1997 and 25.9.1997 are followed as Planalto "
+    "prints the text; the regulations are not modelled")
 # part zv: Leis 7.853/1989 (pessoas com deficiência, Corde), 9.807/1999 (proteção a testemunhas), 10.861/2004 (SINAES)
 _L7853, _LPT, _LSINAES = "lei-da-pessoa-com-deficiencia-de-1989", "lei-de-protecao-a-testemunhas", "lei-do-sinaes"
 if any(a["slug"] == _L7853 for a in ACTS):
@@ -4260,8 +4333,7 @@ B13.OPEN_ITEMS[_LIS] = (
     "834/1995 (its art. 4 keeps the acts done under it), whose change of art. 10 XXX is dated by the Lei, the only act Planalto "
     "names; the regulations are not modelled")
 B13.OPEN_ITEMS[_LPNE] = (
-    "Lei 13.005 (open items): the month between the end of the ten-year term (25.6.2024) and Lei 14.934/2024 (26.7.2024) is not "
-    "shown as a gap; 'Vide ADI 5668' (art. 2 III) and 'Vide Decreto 11.713/2023' strike no words and are not modelled; the "
+    "Lei 13.005 (open items): 'Vide ADI 5668' (art. 2 III) and 'Vide Decreto 11.713/2023' strike no words and are not modelled; the "
     "plans of the States and Municipalities (art. 8) are not part of the history")
 B13.OPEN_ITEMS[_LSNV] = (
     "Lei 12.379 (open items): Anexos I to VII were vetoed (Planalto prints '(VETADO)' for each, after the signature) and are not "
