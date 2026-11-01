@@ -174,6 +174,13 @@ PAGES.update({
     "l13005": "_ato2011-2014/2014/lei/l13005.htm",
     "lcp159": "leis/lcp/lcp159.htm",
     "lcp178": "leis/lcp/lcp178.htm",
+    # parts zv, zw (nineteenth session)
+    "l7853": "leis/l7853.htm",
+    "l7853-compilado": "leis/l7853compilado.htm",
+    "l9807": "leis/l9807.htm",
+    "l10861": "_ato2004-2006/2004/lei/l10.861.htm",
+    "l10973": "_ato2004-2006/2004/lei/l10.973.htm",
+    "l9456": "leis/l9456.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -368,6 +375,16 @@ ALL_ACTS: list[dict] = [
     _act("lei-do-plano-de-equilibrio-fiscal", "LC178", "lcp178", "lcp178", "lc-178-2021",
          "Programa de Acompanhamento e Transparência Fiscal e Plano de Promoção do Equilíbrio Fiscal (Lei Complementar nº 178, "
          "de 13 de janeiro de 2021)", 2),
+    _act("lei-da-pessoa-com-deficiencia-de-1989", "L7853", "l7853", "l7853-compilado", "lei-7853-1989",
+         "Apoio às pessoas portadoras de deficiência e Corde (Lei nº 7.853, de 24 de outubro de 1989)", 2),
+    _act("lei-de-protecao-a-testemunhas", "LPT", "l9807", "l9807", "lei-9807-1999",
+         "Proteção a vítimas e testemunhas ameaçadas (Lei nº 9.807, de 13 de julho de 1999)", 2),
+    _act("lei-do-sinaes", "SINAES", "l10861", "l10861", "lei-10861-2004",
+         "Sistema Nacional de Avaliação da Educação Superior - SINAES (Lei nº 10.861, de 14 de abril de 2004)", 2),
+    _act("lei-de-inovacao", "LInov", "l10973", "l10973", "lei-10973-2004",
+         "Lei de Inovação (Lei nº 10.973, de 2 de dezembro de 2004)", 2),
+    _act("lei-de-protecao-de-cultivares", "LPC", "l9456", "l9456", "lei-9456-1997",
+         "Lei de Proteção de Cultivares (Lei nº 9.456, de 25 de abril de 1997)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -423,6 +440,8 @@ PARTS: dict[str, list[str]] = {
     "zs": ["lei-do-plano-nacional-de-educacao", "lei-do-sistema-nacional-de-viacao"],
     "zt": ["lei-das-infracoes-sanitarias"],
     "zu": ["lei-do-regime-de-recuperacao-fiscal", "lei-do-plano-de-equilibrio-fiscal"],
+    "zv": ["lei-da-pessoa-com-deficiencia-de-1989", "lei-de-protecao-a-testemunhas", "lei-do-sinaes"],
+    "zw": ["lei-de-inovacao", "lei-de-protecao-de-cultivares"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -587,6 +606,13 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                   "II - [...] no que altera o art. 42 [...] a partir de 2023; III - em relação às demais disposições, "
                                   "na data de sua publicação' (DOU 14.1.2021): its own articles from publication (the staged items "
                                   "concern Lei Complementar 101's text)"),
+    "lei-7853-1989": ("1989-10-25", f"Lei 7.853/1989 art. 19: {_PUB} (DOU 25.10.1989)"),
+    "lei-9807-1999": ("1999-07-14", f"Lei 9.807/1999 art. 21: {_PUB} (DOU 14.7.1999)"),
+    "lei-10861-2004": ("2004-04-15", f"Lei 10.861/2004 art. 15: {_PUB} (DOU 15.4.2004)"),
+    "lei-10973-2004": ("2004-12-03", f"Lei 10.973/2004 art. 29: {_PUB} (DOU 3.12.2004, rectified 16.5.2005)"),
+    "lei-9456-1997": ("1997-04-28", f"Lei 9.456/1997 art. 55: {_PUB} (DOU 28.4.1997, as LexML's record of the original "
+                                    "publication gives it; Planalto's page misprints '8.4.1997', before the Lei's own date; "
+                                    "rectified 26.8.1997 and 25.9.1997)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -887,6 +913,21 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                       "27 de maio de 2020, a Lei nº 9.496, de 11 de setembro de 1997, a Lei nº 12.348, de 15 de dezembro de 2010, a Lei "
                       "nº 12.649, de 17 de maio de 2012, e a Medida Provisória nº 2.185-35, de 24 de agosto de 2001; e dá outras "
                       "providências.", "2021-01-13", "2021-01-14", "leis/lcp/Lcp178.htm"),
+    "lei-7853-1989": _L("Lei nº 7.853, de 1989", "Dispõe sobre o apoio às pessoas portadoras de deficiência, sua integração social, "
+                        "sobre a Coordenadoria Nacional para Integração da Pessoa Portadora de Deficiência - Corde, institui a tutela "
+                        "jurisdicional de interesses coletivos ou difusos dessas pessoas, disciplina a atuação do Ministério Público, "
+                        "define crimes, e dá outras providências.", "1989-10-24", "1989-10-25", PAGES["l7853"]),
+    "lei-9807-1999": _L("Lei nº 9.807, de 1999", "Estabelece normas para a organização e a manutenção de programas especiais de "
+                        "proteção a vítimas e a testemunhas ameaçadas, institui o Programa Federal de Assistência a Vítimas e a "
+                        "Testemunhas Ameaçadas e dispõe sobre a proteção de acusados ou condenados que tenham voluntariamente prestado "
+                        "efetiva colaboração à investigação policial e ao processo criminal.", "1999-07-13", "1999-07-14",
+                        PAGES["l9807"]),
+    "lei-10861-2004": _L("Lei nº 10.861, de 2004", "Institui o Sistema Nacional de Avaliação da Educação Superior – SINAES e dá outras "
+                         "providências", "2004-04-14", "2004-04-15", PAGES["l10861"]),
+    "lei-10973-2004": _L("Lei nº 10.973, de 2004", "Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no "
+                         "ambiente produtivo e dá outras providências.", "2004-12-02", "2004-12-03", PAGES["l10973"]),
+    "lei-9456-1997": _L("Lei nº 9.456, de 1997", "Institui a Lei de Proteção de Cultivares e dá outras providências.", "1997-04-25",
+                        "1997-04-28", PAGES["l9456"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -1185,11 +1226,13 @@ QUOTED_HEADINGS: list[str] = []
 # the article (which wording of another act it refers to), not an amendment note; the reader takes them for a bare note.
 BARE_TEXT = {"l7689": "art-11", "l9249": "art-14", "l9430": "art-88", "l9873": ("art-03", "art-08"), "l9984": "art-29",
              "l9984-compilado": "art-29", "l10637": ("art-47", "art-54"), "l10637-compilado": ("art-47", "art-54"),
-             "l10833": ("art-23", "art-25", "art-40"), "l10833-compilado": ("art-23", "art-40")}
+             "l10833": ("art-23", "art-25", "art-40"), "l10833-compilado": ("art-23", "art-40"), "l9807": "art-17"}
 BARE_TEXT_USED: list[str] = []
 QUOTE_DROPPED: list[str] = []
 _BARE_RX = re.compile(r"\(?\s*(reda[çc][ãa]o dada pel[oa] (?:Decreto-Lei|Lei) n[º°.]?\s*[\d.]+, de \d{1,2} de \w+ de \d{4}[.;]?)\s*\)?",
                       re.I)
+_BARE_RX9807 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Lei n[º°.]?\s*9\.708, de 18 de novembro de 1998, passa a ter a seguinte "
+                          r"reda[çc][ãa]o:)\s*\)?", re.I)
 _BARE_RX9873 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Lei n[º°.]?\s*9\.457, de 1997, o art\. 28 da Lei n[º°.]?\s*8\.884, de 1994, e "
                           r"demais disposições em contrário, ainda que constantes de lei especial\.)\s*\)?")
 _BARE_RX9984 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Lei n[º°.]?\s*9\.433, de 1997, passa a vigorar com a seguinte "
@@ -1259,6 +1302,10 @@ def paragraphs(html, digits):
                 # Lei 9.984 art. 29: 'O art. 1º da Lei nº 8.001, de 13 de março de 1990, com a redação dada pela Lei nº 9.433, de
                 # 1997, passa a vigorar com a seguinte redação:'
                 hit = [(n, m) for n in p["notes"] for m in [_BARE_RX9984.fullmatch(n.strip())] if m]
+            if not hit and page == "l9807":
+                # Lei 9.807 art. 17: 'O parágrafo único do art. 58 da Lei nº 6.015 [...], com a redação dada pela Lei nº 9.708, de 18
+                # de novembro de 1998, passa a ter a seguinte redação:'
+                hit = [(n, m) for n in p["notes"] for m in [_BARE_RX9807.fullmatch(n.strip())] if m]
             if not hit and page in ("l10637", "l10637-compilado"):
                 hit = [(n, m) for n in p["notes"] for m in [_BARE_RX10637.fullmatch(n.strip())] if m]
             if not hit and page in ("l10833", "l10833-compilado"):
@@ -2911,7 +2958,11 @@ def _inner(*a):
         dec.append("Lei 10.522 art. 37-B § 10 (Lei 11.941/2009): Planalto strikes only the dash in 'Custódia – SELIC' (also on "
                    "Lei 11.941's own page) in a line in force; the strike is read as a typesetting slip and the line as unstruck, "
                    "dash kept (" + ", ".join(dict.fromkeys(MIXED_PLAIN)) + ").")
-    _BX = ("l9430", "l9873", "l9984", "l10637", "l10833")
+    _BX = ("l9430", "l9873", "l9984", "l10637", "l10833", "l9807")
+    if any(x.startswith("l9807") for x in BARE_TEXT_USED):
+        dec.append("Lei 9.807 art. 17 begins 'O parágrafo único do art. 58 da Lei nº 6.015, de 31 de dezembro de 1973, com a redação "
+                   "dada pela Lei nº 9.708, de 18 de novembro de 1998, passa a ter a seguinte redação:': these words name the wording "
+                   "of the article it rewrites; they are part of the text, not an amendment note (l9807 art-17).")
     if any(not x.startswith(_BX) for x in BARE_TEXT_USED):
         dec.append("Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº [...]' (Decretos-"
                    "Leis 2.449/1988 and 1.730/1979): these words name the wording of the other act the article refers to; they "
@@ -4135,6 +4186,47 @@ if any(a["slug"] == _LPNE for a in ACTS):
         "extension is recorded as continuing the plan. Planalto's page (capture of 20.10.2026) names no later law that extends "
         "the term again, and Planalto does not strike a lapsed plan, so the replay check compares the last version before the "
         "end of the term with the page's text")
+# part zv: Leis 7.853/1989 (pessoas com deficiência, Corde), 9.807/1999 (proteção a testemunhas), 10.861/2004 (SINAES)
+_L7853, _LPT, _LSINAES = "lei-da-pessoa-com-deficiencia-de-1989", "lei-de-protecao-a-testemunhas", "lei-do-sinaes"
+if any(a["slug"] == _L7853 for a in ACTS):
+    P.MP_PENDING["mp-437-2008"] = (
+        "Medida Provisória nº 437, de 29.7.2008 (DOU 30.7.2008, in force on publication): revoked by Medida Provisória nº 439, "
+        "de 29.8.2008 (DOU 29.8.2008, edição extra, art. 4), converted into Lei 11.805/2008 (art. 4); its wording of Lei 7.853 "
+        "art. 10 caput ends on 29.8.2008 and Lei 8.028/1990's wording is back from that day")
+    B8.EXTRA_LAWS["mp-439-2008"] = {
+        "label": "Medida Provisória nº 439, de 2008", "kind": "law",
+        "title": "Constitui fonte de recursos adicional para ampliação de limites operacionais do Banco Nacional de "
+                 "Desenvolvimento Econômico e Social - BNDES.",
+        "enacted": "2008-08-29", "published": "2008-08-29",
+        "url": PL + "_Ato2007-2010/2008/Mpv/439.htm", "temporary_until": None, "restores": None, "note": None}
+_W7853 = ("Lei 7.853 art. 10 caput: Medida Provisória 437/2008 (DOU 30.7.2008) gave it a new wording and was revoked by Medida "
+          "Provisória 439/2008 (art. 4; DOU 29.8.2008, edição extra), so its wording ends on 29.8.2008 and Lei 8.028/1990's wording, "
+          "which Planalto prints again below the MP's line, stands from that day, credited to Medida Provisória 439, until Lei "
+          "11.958/2009 (DOU 29.6.2009) gave the caput the words MP 437 had used")
+B8.SPAN_FIX += [
+    ((_L7853, "art-10", "Art. 10", "Art. 10. A coordenação superior dos assuntos, ações governamentais e medidas referentes a pessoas "
+                                   "portadoras de deficiência caberá", 0),
+     {"end": "2008-08-29", "end_law": "mp-439-2008", "end_how": "revoked-mp"}, _W7853),
+    ((_L7853, "art-10", "Art. 10", "Art. 10. A coordenação superior dos assuntos, ações governamentais e medidas, referentes a pessoas", 1),
+     {"start": "2008-08-29", "start_law": "mp-439-2008"}, _W7853),
+]
+if any(a["slug"] == _LSINAES for a in ACTS):
+    P.MP_PENDING["mp-1370-2026"] = (
+        "Medida Provisória nº 1.370, de 19.6.2026 (DOU 19.6.2026, edição extra), in force on publication; on the day of the last "
+        "copy of its page read here (22.10.2026) it was neither converted nor lapsed. Its term (CF art. 62 §§ 3 and 4: 60 days, "
+        "extendable once by 60, the count suspended in the July recess) ends about 30.10.2026, so its fate is not yet in the record "
+        "and its addition of Lei 10.861 art. 5 § 12 stands open")
+B13.OPEN_ITEMS[_L7853] = (
+    "Lei 7.853 (open items): 'Vide' pointers (Medida Provisória 150/1990, which Lei 8.028/1990 converted; Medida Provisória "
+    "1.799-6/1999, an earlier edition of the chain that Medida Provisória 2.216-37/2001 ended) strike no words and are not "
+    "modelled; the regulations are not modelled")
+B13.OPEN_ITEMS[_LPT] = (
+    "Lei 9.807 (open items): art. 17 rewrites Lei 6.015 art. 58 parágrafo único (quoted, kept as the article's text); the "
+    "regulations are not modelled")
+B13.OPEN_ITEMS[_LSINAES] = (
+    "Lei 10.861 (open items): the Lei converted Medida Provisória 147/2003; the MP's own text before the Lei is not part of the "
+    "history (the record starts with the Lei, 15.4.2004). Medida Provisória 1.370/2026 (art. 5 § 12) was pending on the last "
+    "copy of Planalto's pages read here (22.10.2026): its fate is to be read once a later copy is available")
 # part zu: Leis Complementares 159/2017 (Regime de Recuperação Fiscal) and 178/2021 (Plano de Promoção do Equilíbrio Fiscal)
 _LC159, _LC178 = "lei-do-regime-de-recuperacao-fiscal", "lei-do-plano-de-equilibrio-fiscal"
 if any(a["slug"] == _LC159 for a in ACTS):
@@ -4162,9 +4254,6 @@ if any(a["slug"] == _LIS for a in ACTS):
     P.PUBLISHED_FIXED["lei-9695-1998"] = (
         "1998-08-21", "Lei 9.695/1998: its page closes 'Este texto não substitui o publicado pelo D.O.U. de 21.8.1998' ('pelo', a "
                       "form the publication reader does not take); in force on publication (art. 3)")
-    EXTRA.append("Lei 9.695/1998 is dated by its publication in the DOU of 21.8.1998 (its art. 3: in force on publication), which "
-                 "its page prints as 'publicado pelo D.O.U. de 21.8.1998'; the reader takes only 'publicado no DOU', so the day is "
-                 "set by hand (Lei 6.437 arts. 2, 5 and 10)")
 B13.OPEN_ITEMS[_LIS] = (
     "Lei 6.437 (open items): Medida Provisória 116/1989's wording of art. 5 (DOU 30.11.1989) was kept word for word by its "
     "conversion, Lei 7.967/1989 (DOU 26.12.1989), so that law changes no words; Lei 9.005/1995 converted Medida Provisória "

@@ -1114,3 +1114,18 @@ Lei 6.437/1977 (lei-das-infracoes-sanitarias), 7 versions 1977-08-24 .. 2023-09-
   (final19-zt-build.log, after rows-zt.json docs).
 - FOUND (not changed yet): 99-batch8 dates Lei 9.695's change of the Crimes Hediondos (art. 1) 1998-08-20 with published None (same
   page slip); the merged law entry now reads published 1998-08-21 (17zt sorts first). Fix = PUBLISHED_FIXED in batch8's run + re-verify.
+
+## 99-batch17zu - PUBLISHed 2026-11-01 (nineteenth session)
+LC 159/2017 (lei-do-regime-de-recuperacao-fiscal, 5 versions 2017-05-22 .. 2024-05-17) and LC 178/2021 (lei-do-plano-de-equilibrio-fiscal,
+3 versions 2021-01-14 .. 2025-01-14); own consolidated pages; law entries lc-159/lc-178 = 99-batch7's (checked equal, also lc-206/lc-212).
+- NOTE_FIX (scoped) 'Lei Complementar nº 189, de 2021' -> 2022 (hrefs.py: Lcp189.htm#art2). EXPLAINED LC178 art-12/13/16 = _DOTTED.
+- Part sha 280fbbd2 (0 moves); merged 216 acts, 3345 versions, 2449 commits, check 0/0, compare identical, audit clean
+  (final19-zu-build.log, after rows-zu.json docs). Benign flags listed in the PUBLISH.
+
+## 99-batch8 re-PUBLISHed + 99-batch17zt re-PUBLISHed (nineteenth session)
+- batch8/parse_batch8.py: P.PUBLISHED_FIXED lei-9695-1998 = 21.8.1998 when the Hediondos act runs ('publicado pelo D.O.U.' slip).
+  reparse_all baseline = installed (1ca68ec0); fix e857b16d (x2): only the Hediondos version 1998-08-20 -> 21, the law's published
+  day and one decision. 8 file checks identical except that day (scratch .gitlaw-scratch/brazil-b19: base/, fix/, fix2/, b8-chk-*.txt).
+- zt: the EXTRA decision duplicated proc's automatic PUBLISHED_FIXED decision: removed; part sha dc3c8fab.
+- Merged after both: 216 acts, 3345 versions, 2448 commits (Lei 9.695's two acts now one commit), check 0/0, compare identical, audit
+  clean (final19-b8-build.log).

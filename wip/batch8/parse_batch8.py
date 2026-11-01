@@ -157,6 +157,12 @@ B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
 B.ACT_LAWS.clear()
 B.ACT_LAWS.update({k: v for k, v in ACT_LAWS_ALL.items() if any(a["law"] == k for a in ACTS)})
+if any(a["slug"] == "lei-dos-crimes-hediondos" for a in ACTS):
+    # added 2026-11-01 (batch 17, nineteenth session): the page's DOU line reads 'publicado pelo D.O.U.', which page_info
+    # does not take, so Lei 9.695's change was dated by its enactment (20.8.1998) instead of its publication
+    P.PUBLISHED_FIXED["lei-9695-1998"] = (
+        "1998-08-21", "Lei 9.695/1998: its page closes 'Este texto não substitui o publicado pelo D.O.U. de 21.8.1998' ('pelo', a "
+                      "form the publication reader does not take); in force on publication (art. 3)")
 
 B.EXPLAINED.clear()
 _Q = B7._QUOTED
