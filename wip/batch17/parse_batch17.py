@@ -224,6 +224,13 @@ PAGES.update({
     "l7735": "leis/l7735.htm",
     "l11516": "_ato2007-2010/2007/lei/l11516.htm",
     "l5197-compilado": "leis/l5197compilado.htm",
+    # twenty-seventh session: energy laws
+    "l14300": "_ato2019-2022/2022/lei/l14300.htm",
+    "l10438": "leis/2002/l10438.htm",
+    "l10438-compilada": "leis/2002/l10438compilada.htm",
+    "l9991": "leis/l9991.htm",
+    "l9847": "leis/l9847.htm",
+    "l9847-compilado": "leis/l9847compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -505,6 +512,11 @@ ALL_ACTS: list[dict] = [
          "Criação do Ibama (Lei nº 7.735, de 22 de fevereiro de 1989)", 2),
     _act("lei-do-instituto-chico-mendes", "LICMBio", "l11516", "l11516", "lei-11516-2007",
          "Criação do Instituto Chico Mendes de Conservação da Biodiversidade (Lei nº 11.516, de 28 de agosto de 2007)", 2),
+    # twenty-seventh session: energy laws
+    _act("lei-da-microgeracao-e-minigeracao-distribuida", "LMMGD", "l14300", "l14300", "lei-14300-2022",
+         "Marco legal da microgeração e minigeração distribuída (Lei nº 14.300, de 6 de janeiro de 2022)", 2),
+    _act("lei-de-pesquisa-e-desenvolvimento-do-setor-eletrico", "LPDSE", "l9991", "l9991", "lei-9991-2000",
+         "Pesquisa e desenvolvimento e eficiência energética no setor elétrico (Lei nº 9.991, de 24 de julho de 2000)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -590,6 +602,8 @@ PARTS: dict[str, list[str]] = {
     # twenty-sixth session
     "zzt": ["lei-do-gerenciamento-costeiro", "lei-de-protecao-a-fauna"],
     "zzu": ["lei-do-ibama", "lei-do-instituto-chico-mendes"],
+    # twenty-seventh session: energy laws
+    "zzv": ["lei-da-microgeracao-e-minigeracao-distribuida", "lei-de-pesquisa-e-desenvolvimento-do-setor-eletrico"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -835,6 +849,9 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-5197-1967": ("1967-01-05", f"Lei 5.197/1967 art. 38: {_PUB} (DOU 5.1.1967)"),
     "lei-7735-1989": ("1989-02-23", f"Lei 7.735/1989 art. 6º: {_PUB} (DOU 23.2.1989)"),
     "lei-11516-2007": ("2007-08-28", f"Lei 11.516/2007 art. 15: {_PUB} (DOU 28.8.2007, edição extra)"),
+    # twenty-seventh session
+    "lei-14300-2022": ("2022-01-07", f"Lei 14.300/2022 art. 37: {_PUB} (DOU 7.1.2022)"),
+    "lei-9991-2000": ("2000-07-25", f"Lei 9.991/2000 art. 9º: {_PUB} (DOU 25.7.2000)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1303,6 +1320,14 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "dezembro de 1996, 9.478, de 6 de agosto de 1997, 9.648, de 27 de maio de 1998, 9.991, de 24 de julho de "
                          "2000, 10.438, de 26 de abril de 2002, e dá outras providências.", "2004-03-15", "2004-03-16",
                          "_Ato2004-2006/2004/Lei/L10.848.htm"),
+    # twenty-seventh session; lei-14300-2022 as 99-batch17z and 17zzr have the record
+    "lei-14300-2022": _L("Lei nº 14.300, de 2022", "Institui o marco legal da microgeração e minigeração distribuída, o Sistema "
+                         "de Compensação de Energia Elétrica (SCEE) e o Programa de Energia Renovável Social (PERS); altera as "
+                         "Leis nºs 10.848, de 15 de março de 2004, e 9.427, de 26 de dezembro de 1996; e dá outras providências.",
+                         "2022-01-06", "2022-01-07", "_Ato2019-2022/2022/Lei/L14300.htm"),
+    "lei-9991-2000": _L("Lei nº 9.991, de 2000", "Dispõe sobre realização de investimentos em pesquisa e desenvolvimento e em "
+                        "eficiência energética por parte das empresas concessionárias, permissionárias e autorizadas do setor de "
+                        "energia elétrica, e dá outras providências.", "2000-07-24", "2000-07-25", PAGES["l9991"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -5709,6 +5734,58 @@ if any(a["slug"] == _LICMBIO for a in ACTS):
     B13.OPEN_ITEMS[_LICMBIO] = (
         "Lei 11.516 (open items): the text before 28.8.2007 (Medida Provisória 366/2007, of which this Lei is the conversion) "
         "is not part of the history; 'Vide' pointers and regulations strike no words and are not modelled")
+
+# part zzv (twenty-seventh session): Lei 14.300/2022 (microgeração e minigeração distribuída), Lei 9.991/2000 (P&D e eficiência
+# energética). Hand days set only when the act runs.
+_LMMGD, _LPDSE = "lei-da-microgeracao-e-minigeracao-distribuida", "lei-de-pesquisa-e-desenvolvimento-do-setor-eletrico"
+_W14300 = ("Lei 14.300/2022 (DOU 7.1.2022, in force on publication) was sanctioned with art. 11 § 3º and art. 28 parágrafo "
+           "único vetoed; Congress overrode the vetoes and the President promulgated both on 4.8.2022 (DOU 5.8.2022, printed on "
+           "Planalto's page, '(Promulgação partes vetadas)'). Each '(VETADO)' line stands from 7.1.2022 to 5.8.2022; the "
+           "promulgated words are law from 5.8.2022, credited to Lei 14.300, as for Lei 9.427 art. 26 § 12 in part z")
+
+
+def _v14300(day):
+    return {"skip": False, "end": day, "end_law": "lei-14300-2022", "end_how": "promulgation"}
+
+
+def _p14300(day):
+    return {"start": day, "start_law": "lei-14300-2022", "promulgated": True}
+
+
+B8.SPAN_FIX += [((_LMMGD, u, lab, pre, 0), f, _W14300) for u, lab, pre, f in (
+    ("art-11", "§ 3º", "§ 3º (VETADO", _v14300("2022-08-05")),
+    ("art-11", "§ 3º", "§ 3º A vedação de que trata", _p14300("2022-08-05")),
+    ("art-28", "Parágrafo único", "Parágrafo único. (VETADO", _v14300("2022-08-05")),
+    ("art-28", "Parágrafo único", "Parágrafo único. Para fins desta Lei", _p14300("2022-08-05")))]
+if any(a["slug"] == _LMMGD for a in ACTS):
+    B.EXPLAINED[_LMMGD] = {"art-33": _DOTTED}
+    B13.OPEN_ITEMS[_LMMGD] = (
+        "Lei 14.300 (open items): 'Vide' pointers (Medida Provisória 1.300/2025, printed under the heading with no wording of "
+        "its own on this page) and regulations strike no words and are not modelled")
+_W14514 = ("Lei 9.991 art. 1 I: Lei 14.514/2022 (DOU 30.12.2022) art. 21 gave inciso I a new wording ('até 31 de dezembro de "
+           "2025'), but that part was vetoed; Congress overrode the veto and the President promulgated it on 21.5.2024 (DOU "
+           "22.5.2024, printed at the foot of Lei 14.514's page). The 2015 wording (Lei 13.203) stands to 22.5.2024 and the "
+           "promulgated wording is law from that day; art. 21's inciso III, sanctioned, takes effect on publication (art. 25 III)")
+B8.SPAN_FIX += [
+    ((_LPDSE, "art-01", "I -", "I - até 31 de dezembro de 2022", 0),
+     {"end": "2024-05-22", "end_law": "lei-14514-2022", "end_how": "promulgation"}, _W14514),
+    ((_LPDSE, "art-01", "I -", "I - até 31 de dezembro de 2025", 0),
+     {"start": "2024-05-22", "start_law": "lei-14514-2022", "promulgated": True}, _W14514),
+]
+if any(a["slug"] == _LPDSE for a in ACTS):
+    # the same record as part zg's and part z's (the law entry and the lapse record are built from these texts)
+    P.VIGENCIA_FIXED["lei-14514-2022"] = (
+        "2022-12-30", "art. 25: 'Esta Lei entra em vigor: I - (VETADO); II - na data de sua publicação, com produção de efeitos "
+                      "[...] (Lei 8.001/1990); e III - na data de sua publicação, quanto aos demais dispositivos' (DOU 30.12.2022): its "
+                      "art. 21 (Lei 9.991 art. 1 III) falls under III")
+    P.MP_LAPSE["mp-1212-2024"] = (
+        "2024-08-08", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 62, de 2024 (DOU 16.8.2024): 'teve seu "
+                      "prazo de vigência encerrado no dia 7 de agosto de 2024'; the wordings it replaced or revoked are back from "
+                      "8.8.2024")
+    B13.OPEN_ITEMS[_LPDSE] = (
+        "Lei 9.991 (open items): the parts of Lei 15.269/2025 art. 6 that Planalto does not print on this page (art. 4 caput "
+        "and art. 5 § 1º, both vetoed) change no words here; 'Vide' pointers and regulations strike no words and are not "
+        "modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

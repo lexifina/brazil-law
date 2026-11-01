@@ -356,6 +356,12 @@ NUMWORDS = {"um": 1, "uma": 1, "dois": 2, "duas": 2, "três": 3, "seis": 6, "doz
 # the laws the notes cite: their pages give enactment, publication, vigência, and an MP's fate
 
 
+# Publication days read from the law's LexML record where the Planalto page prints another DOU day (as proc/parse_proc.py
+# does for every law): Lei 1.431/1951, DOU 14.9.1951 (page: 13.9.1951; the same law record as 80-proc).
+PUB_LEXML: dict[str, str] = {"lei-1431-1951": "1951-09-14"}
+PUB_CORRECTED: dict[str, tuple[str | None, str]] = {}
+
+
 def page_info(key: str) -> dict:
     """Enacted and published dates, ementa, the vigência clause and (MPs) the conversion law or lapse."""
     r = raw("law:" + key)
@@ -374,6 +380,9 @@ def page_info(key: str) -> dict:
     pub = re.search(r"publicad[oa]\s+n[oa]\s+D\.?\s*O\.?\s*U\.?\s*(?:de\s*)?(\d{1,2})\s*º?\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})", head, re.I)
     if pub:
         info["published"] = f"{int(pub.group(3)):04d}-{int(pub.group(2)):02d}-{int(pub.group(1)):02d}"
+    if key in PUB_LEXML and info.get("published") != PUB_LEXML[key]:
+        PUB_CORRECTED[key] = (info.get("published"), PUB_LEXML[key])
+        info["published"] = PUB_LEXML[key]
     if m:
         after = head[m.end():m.end() + 1500]
         after = titles.strip_links(after)   # Planalto's link lines before the ementa (again below, after the older regex)
@@ -1425,6 +1434,10 @@ def main(argv: list[str]) -> int:
     if a.dry:
         return 0
     # ... corpus part written below
+    if PUB_CORRECTED:
+        decisions.append("Publication days: where the DOU day the Planalto page prints differs from the 'Publicação "
+                         "Original' of the law's LexML record (Senado Federal), the LexML day is used: " + "; ".join(
+                             f"{law_label(k)} (page {a or 'none'}, LexML {b})" for k, (a, b) in sorted(PUB_CORRECTED.items())) + ".")
     decisions += rubrica_decision()
     decisions += quoted_decision()
     return write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp_notes(infos, eff))

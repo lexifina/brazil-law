@@ -601,6 +601,21 @@ MOVES: dict[str, list] = {
          "[...] IV - na data de sua publicação, quanto aos demais dispositivos' (DOU 25.11.2025): art. 3º-D from 23.2.2026, its "
          "other changes to Lei 10.848 on publication"),
     ],
+    "99-batch17zzv.json": [
+        ("lei-da-microgeracao-e-minigeracao-distribuida", "lei-15269-2025", "2025-11-25", [(ALL, "2026-01-01")],
+         "Lei 15.269/2025 art. 24: 'Esta Lei entra em vigor na data de sua publicação e produz efeitos: I - em 1º de janeiro de "
+         "2026, quanto ao: a) art. 14; b) ao inciso V do art. 23' (DOU 25.11.2025): its art. 14 (Lei 14.300 art. 25) and art. 23 "
+         "V (revocation of Lei 14.300 art. 22 parágrafo único) from 1.1.2026"),
+        ("lei-de-pesquisa-e-desenvolvimento-do-setor-eletrico", "lei-12111-2009", "2009-12-10", [(ALL, "2010-01-01")],
+         "Lei 12.111/2009 art. 15: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeitos em relação: I - ao art. "
+         "6º, a partir de 1º de janeiro de 2010; e II - aos demais artigos, a partir da data de sua publicação' (DOU 10.12.2009): "
+         "its art. 6 (Lei 9.991 arts. 1, 4 and 4-A) from 1.1.2010"),
+        ("lei-de-pesquisa-e-desenvolvimento-do-setor-eletrico", "lei-15269-2025", "2025-11-25", [("units:art-01-a", "2027-01-01")],
+         "Lei 15.269/2025 art. 24: 'produz efeitos: [...] III - em 1º de janeiro de 2027, quanto ao art. 6º, apenas na parte que "
+         "acrescenta o art. 1º-A e nas que alteram os arts. 4º e 5º da Lei nº 9.991 [...]; e IV - na data de sua publicação, "
+         "quanto aos demais dispositivos' (DOU 25.11.2025): art. 1º-A (printed '(VETADO)') from 1.1.2027, its change to art. 2 "
+         "on publication"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,
@@ -940,6 +955,9 @@ if __name__ == "__main__":
     out = args[args.index("--out") + 1] if "--out" in args else None
     res = run(args[0], out)
     print(len(res), "moves")
+    import lawrecords   # the agreed law records (law_records.json), so a reparse keeps every part's records equal
+    lr = lawrecords.apply_file(out or args[0])
+    print(len(lr), "law records set" + (": " + "; ".join(lr) if lr else ""))
     for w in WARN:
         print("WARN", w)
     if "--report" in args:

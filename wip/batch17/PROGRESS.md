@@ -1660,6 +1660,33 @@ Lei 9.613 x3 (MP 870), 16a CBA x3 (MP 714), 17e Lei 12.587 (MP 818), 17j Lei 7.7
   audit clean main + futuro. PIDs (all mine, all exited): lexml 31704, gap 40964, laws 2412/40040, missing 1436, trials
   13652/37696/52552/34504, pipe PIDs in b26/zz[tu]-pipe*.out, conv 21608/50332, region/lawtxt runs in b26/*.log, final 53104.
 
+### Coordinator follow-up (same session): one law record per key across all parts
+- New check batch17/.tmp/uniqlaws.py (--all [part.json ...] or <part.json>): every field of a shared law key's record (label,
+  title, kind, enacted, published, url, temporary_until, restores, note) must agree over corpus.json + corpus.d (a given part
+  replaces the installed one of the same name); exit 1 on any difference. Added to pipe.sh (after the file checks, on $E).
+- Before: 94 differing fields on 72 keys (url 66 keys, title 15, published 3, note 2) of 570 shared keys.
+- Fix: scripts/brazil-law/law_records.json (made by brazil-b26/mktable.py from the installed parts: per field the value most
+  parts use; on a tie the first part's in build order, which build.py already showed; 44 field ties) and
+  scripts/brazil-law/lawrecords.py (apply/apply_file; CLI `lawrecords.py <part.json> ...`). effects_fix.py's __main__ now runs
+  it on every part it is given (idempotent; prints 'N law records set'), so batch reparses keep the agreed records (reparse of
+  17x, 14c, 9: laws equal to installed). Parts written by other parsers (codes, clt, proc, phase2, rju, batch3/4/5,
+  corpus.json) do not run effects_fix: run lawrecords.py on them after writing.
+- Lei 1.431/1951 (published 13.9 in 60-phase2 vs 14.9 in 80-proc): LexML says 14.9.1951 (cached record). parse_phase2 got
+  PUB_LEXML {"lei-1431-1951": "1951-09-14"} + PUB_CORRECTED + the 'Publication days' decision (as parse_proc); fresh parses
+  without/with it (b26/base, new) differ only in that field, the CP version 28.10 -> 29.10.1951 (LINDB +45) and the two decision
+  lines; installed 60-phase2 = previous + exactly that delta (patch1431.py; a fresh parse_phase2 run already differs from the
+  installed part in older post-steps: driver b26/p2out.py writes elsewhere).
+- Applied to all parts: 42 parts changed (list: b26/lawrec-apply.log); onlylaws.py: only law-record fields differ, 0 other
+  differences; uniqlaws --all 0. pubgap before/after on all 42: identical except 70-clt, where the flags for Leis 13.509/2017
+  and 13.877/2019 are gone (the CLT records had the vetoed-parts promulgation day as publication; versions unchanged). Lei
+  9.985's URL (14c) is now the majority 'leis/L9985.htm'.
+- Merged build (b26/build-laws.log): 255 acts, 3588 versions, 2598 commits (CP and CPP Lei 1.431 changes now share 29.10.1951),
+  check 0/0, compare identical, audit clean main + futuro. PUBLISH appended to all 42 (publaws.py; 60-phase2 also the Lei
+  1.431 line). Backups: b26/before-all (every part + PUBLISH before), before/ (effects_fix.py, pipe.sh, parse_phase2.py).
+- Known pre-existing drift seen (not touched): fresh 14c parse adds a DL 2.431/1988 (Estatuto da Terra) decision line.
+- PIDs (all mine, all exited): p2base 41020, p2new 51716, lexml1431 (cached, no request), pubgap_all 42156 (failed on a path) and
+  54044, re3 46336, build-laws 22516.
+
 ## State at handoff (batch 17, twenty-sixth session, 2026-11-01)
 Done: Task 1 (converted-MP survey of all 79 parts with MPs: 2 wrong places fixed, 16b Lei 8.036 art. 15 and zw Lei 10.973
 art. 2 V; 16b/zw re-PUBLISHed), Task 2 (Lei 12.783 record = 17z/zzr form in part s; s re-PUBLISHed), Task 3 (zzt Leis 7.661,
@@ -1672,9 +1699,14 @@ part s ACT_LAWS lei-12783-2013, zzt/zzu config (PAGES l5197-compilado, acts, PAR
 blocks). Backups: brazil-b26/parse_batch16.before.py, parse_batch17.before.py, before/.
 Tool for later: brazil-b26/conv_report.py <any Brazil parse script> --dry (env for part/out) prints every converted-MP place
 after all rules; survey.py runs it over every part with MPs. Run it on each new part with MPs.
-NEXT: energy (Leis 14.300, 10.438 (+compilada), 9.991, 9.847 (+compilado)), banking (LC 130, Leis 10.214, 13.506, 8.929,
+Coordinator follow-up DONE too: uniqlaws check (in pipe.sh) + law_records.json/lawrecords.py; 42 parts
+re-PUBLISHed, Lei 1.431 day fixed in 60-phase2; merged 255 acts, 3588 versions, 2598 commits, check 0/0, compare identical,
+audit clean (brazil-b26/build-laws.log). Lei 9.985 OPEN item closed.
+NEXT (coordinator's item 2, not started): energy as small parts - act pages NOT pinned yet (only law: records for 10.438 and
+14.300): pin l14300 (_ato2019-2022/2022/lei/l14300.htm), l10438 (leis/2002/l10438.htm) + compilada, l9991, l9847 +
+compilado via `iaonly.py gap`, then laws/missing; Lei 10.438 carries MP 1.300/2025 and MP 998/2020 (run conv_report.py and
+uniqlaws). Then banking (LC 130, Leis 10.214, 13.506, 8.929,
 13.775), public administration (Leis 8.159, 9.491, 13.334; LC 35/1979; Lei 5.010/1966).
 DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once
 archive.org has a capture of _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026.
-OPEN for the coordinator: lei-9985-2000 URL case: 99-batch14c 'leis/l9985.htm' vs 99-batch6, 99-batch10, 99-batch17zzt
-'leis/L9985.htm' (the same kind of fix as Lei 12.783's, if wanted: 14c to the majority form).
+OPEN for the coordinator: none new (Lei 9.985's URL case fixed by the law-record step).
