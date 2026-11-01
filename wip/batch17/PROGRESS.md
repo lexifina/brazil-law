@@ -1399,3 +1399,28 @@ first day before building. Not started: DL 200/1967 (pinned del0200, 326 notes),
 Next on the ranked list after those: Lei 8.625/1993, Lei 12.865/2013, Lei 12.618/2012, Lei 14.601/2023, Lei 10.848/2004 (path via
 cdxlist), environment (Leis 9.966, 7.661, 11.959, 5.197, 7.735, 11.516), energy (14.300, 10.438, 9.991, 9.847), banking (LC 130,
 Leis 10.214, 13.506, 8.929, 13.775), public administration (Leis 8.159, 9.491, 13.334; LC 35/1979; Lei 5.010/1966).
+
+## Twenty-second session, continued: coordinator decisions (1) Lei 14.129 by its federal stage, (2) Lei 9.494 from LexML
+- LexML robots.txt read (Allow /urn /sru, Crawl-delay 5); one record via lexml1.py: lei-9494-1997 -> published 1997-09-11.
+### 99-batch17zzk - PUBLISHed: Lei 9.494/1997 (lei-da-tutela-antecipada-contra-a-fazenda-publica, LTAFP, 3 versions 1997-09-11,
+2001-08-27 (MP 2.180-35), 2009-06-30 (Lei 11.960)). sha 9f2b9835, 0 moves, checks 0 (quote 1 = quoted Lei 7.347 art. 16).
+### 99-batch9 re-PUBLISHed: with the LexML day cached, a fresh parse dates Lei 7.347 art. 16 (Lei 9.494 art. 2) 1997-09-11 (was
+1997-12-24), law record published 1997-09-11, + PUB_CORRECTED decision; nothing else differs (sources = pin growth). reparse_all twice
+(scratch brazil-b22/b9, b9b): sha f7afc7c2 both; previous file kept at brazil-b22/b9/99-batch9.before.json.
+### 99-batch17zzl - PUBLISHed: Lei 14.129/2021 (lei-do-governo-digital, LGD, 1 version 2021-06-28 = federal stage, art. 55 I);
+promulgated arts. 32/35 (DOU 11.6.2021) precede that day -> stand from the first version, struck '(VETADO)' lines never in force
+(EXTRA decision); later stages in OPEN_ITEMS. sha ed2c13c1, 0 moves, checks 0 (quote 12 = quoted amendments).
+Final merged build (final22b-build.log, after docs rows-zzkl.json): 242 acts, 3465 versions, 2529 commits, check 0/0, --compare
+identical, audit_push clean main + futuro. PIDs printed in t22-*.log / zzk-* / zzl-*; all mine, all exited. Nothing running.
+
+## State at handoff (batch 17, twenty-second session, end, 2026-11-01)
+Installed this session: zze, zzf, zzg, zzh, zzi, zzj, zzk, zzl (13 acts) + 99-batch9 re-PUBLISH (Lei 9.494 day). Merged 242 acts,
+3465 versions, 2529 commits, check 0/0, compare identical, audit clean; README + jurisdiction.json (242 acts) current.
+NEXT (coordinator order): Decreto-Lei 200/1967 (page del0200 pinned; configure act + ACT_DAY (its vigência clause: read) + ACT_LAWS;
+`iaonly.py laws` for it; notecount: DL 900/1969 79, DL 2.300/1986 76, 'De 900/1968' 35 (check the key/year of those notes), Lei
+6.036/1974 31, DL 991/1969 27, Lei 7.232/1984 12, Lei 6.650/1979 12, Lei 6.118/1974 11, Lei 6.946/1981 10, Lei 7.596/1987 8 ...; pre-1988
+DLs credit by publication; check the compilado capture with cdxlist decreto-lei/del0200compilado.htm), then Lei 12.351/2010 (page
+l12351 pinned): read first the fates of MP 1.226/2024 (16 notes), MP 1.291/2025 (42) and MP 1.304/2025 (6) - conversion (Lei 15.075/2024?
+Lei 15.164/2025? Lei 15.269/2025 (= MP 1.304, see part z)) or lapse (Ato Declaratório pinned via iaonly gap) - and Lei 14.981/2024,
+15.164/2025 vigência clauses, before building.
+DATED RE-CHECKS (unchanged): MP 1.382/2026 on or after 29.11.2026; MP 1.370/2026 (and Lei 12.871) once archived after 30.10.2026.

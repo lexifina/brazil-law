@@ -459,6 +459,9 @@ ALL_ACTS: list[dict] = [
          "Tutela antecipada contra a Fazenda Pública (Lei nº 9.494, de 10 de setembro de 1997)", 2),
     _act("lei-do-governo-digital", "LGD", "l14129", "l14129", "lei-14129-2021",
          "Lei do Governo Digital (Lei nº 14.129, de 29 de março de 2021)", 2),
+    # twenty-third session
+    _act("decreto-lei-200-de-1967", "DL200", "del0200", "del0200", "dl-200-1967",
+         "Organização da Administração Federal e Reforma Administrativa (Decreto-Lei nº 200, de 25 de fevereiro de 1967)", 3),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -532,6 +535,8 @@ PARTS: dict[str, list[str]] = {
     "zzj": ["lei-de-conflito-de-interesses", "lei-das-cautelares-contra-o-poder-publico"],
     "zzk": ["lei-da-tutela-antecipada-contra-a-fazenda-publica"],
     "zzl": ["lei-do-governo-digital"],
+    # twenty-third session
+    "zzm": ["decreto-lei-200-de-1967"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -749,6 +754,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                      "Distrito Federal; III - 180 (cento e oitenta) dias [...] para os Municípios' (DOU 30.3.2021, "
                                      "republished 14.4.2021): dated by its federal stage, 90 days, 28.6.2021 (as for Lei 13.460 in "
                                      "part zi); the later stages are an open item"),
+    "dl-200-1967": ("1967-03-15", "Decreto-Lei 200/1967 art. 214: 'Esta Lei entrará em vigor em 15 de março de 1967, observado o "
+                                  "disposto nos parágrafos do presente artigo e ressalvadas as disposições cuja vigência, na data da "
+                                  "publicação, seja por ela expressamente determinada' (DOU 27.2.1967, rectified 8.3.1967, 30.3.1967 "
+                                  "and 17.7.1967)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1137,6 +1146,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "aumento da eficiência pública e altera a Lei nº 7.116, de 29 de agosto de 1983, a Lei nº 12.527, de 18 "
                          "de novembro de 2011 (Lei de Acesso à Informação), a Lei nº 12.682, de 9 de julho de 2012, e a Lei nº "
                          "13.460, de 26 de junho de 2017.", "2021-03-29", "2021-03-30", "_Ato2019-2022/2021/Lei/L14129.htm"),
+    "dl-200-1967": _L("Decreto-Lei nº 200, de 1967", "Dispõe sôbre a organização da Administração Federal, estabelece diretrizes "
+                      "para a Reforma Administrativa e dá outras providências.", "1967-02-25", "1967-02-27", PAGES["del0200"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -4968,6 +4979,23 @@ B13.OPEN_ITEMS["lei-do-governo-digital"] = (
     "Lei 14.129 (open items): art. 55 staggers its entry into force by level of government (90 days for the União, 28.6.2021; "
     "120 days for the States and the Distrito Federal, 28.7.2021; 180 days for the Municipalities, 26.9.2021); the history is "
     "dated by the federal stage and the later stages change no words; the regulations strike no words")
+
+# part zzm: Decreto-Lei 200/1967 (organização da Administração Federal). Hand items set only when the act runs.
+_DL200 = "decreto-lei-200-de-1967"
+if any(a["slug"] == _DL200 for a in ACTS):
+    P.NOTE_FIX["(Revogado pelo Decreto-Lei nº 900, de 1968)"] = (
+        "(Revogado pelo Decreto-Lei nº 900, de 1969)",
+        "Decreto-Lei 200: 35 notes read 'Decreto-Lei nº 900, de 1968'; their links go to Decreto-Lei 900 of 29.9.1969 "
+        "(Del0900.htm#art8), the only Decreto-Lei of that number")
+    P.VIGENCIA_FIXED["dl-991-1969"] = (
+        "1969-10-30", "art. 2: 'Êste Decreto-lei entra em vigor a 30 de outubro de 1969' (DOU 21.10.1969)")
+B13.OPEN_ITEMS[_DL200] = (
+    "Decreto-Lei 200 (open items): art. 214 puts the Decreto-Lei in force on 15.3.1967 'ressalvadas as disposições cuja "
+    "vigência, na data da publicação, seja por ela expressamente determinada': only art. 113 (revocation of Lei 1.711/1952 "
+    "arts. 62-63 'na data da publicação') is such a provision, and its effect falls on another law, so the history starts on "
+    "15.3.1967; the rectifications of 8.3.1967, 30.3.1967 and 17.7.1967 are read as already in Planalto's text (the DOU pages "
+    "are not part of the record); 'Vide' pointers (Leis 6.036/1974, 6.228/1975, 7.739/1989, 7.995/1990, 8.028/1990, "
+    "10.683/2003 and decrees) strike no words; the history holds the changes Planalto notes on this page")
 
 P.build_act = B.build_act = build_act
 
