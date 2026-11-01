@@ -2810,6 +2810,9 @@ if any(a["slug"] == _L9718 for a in ACTS):
         "2015-01-01", "art. 113: 'Esta Lei entra em vigor na data de sua publicação, exceto: [...] II - os arts. 1º a 15, 30 a 32, "
                       "97, 106 e os artigos da Seção XXI do Capítulo I, que entram em vigor a partir de 1º de janeiro de 2015' (DOU "
                       "14.11.2014): its art. 30 (Lei 9.718 art. 3) falls under II")
+    B15.TEXT_FIX.append(("l9718", 'Parágrafo único. Revogado. "$', "Parágrafo único. Revogado.",
+                         "Lei 9.718 art. 4 parágrafo único (Lei 9.990/2000's wording): the closing quotation mark of the amending "
+                         "text is printed in the line"))
     B15.TEXT_FIX.append(("l9718", "observada regulamentação editada pelo Conselho Monetário Nacional.)$",
                          "observada regulamentação editada pelo Conselho Monetário Nacional.",
                          "Lei 9.718 art. 3 § 8 II (Medida Provisória 1.858-6/1999's wording): the annotated page prints a stray closing "
@@ -2884,6 +2887,18 @@ def build_act(paras, act_day, gate, gate_law, unit_label):
                 G9718_USED.append(f"{p['unit']} {p['label']} ({p['start_law']}, {p['start']})")
                 p["start"] = g[0]
         lc214_2027(paras)
+        # art. 5 § 4º-A: Planalto prints Medida Provisória 1.063's § 4º-A with its incisos I and II, then Medida Provisória
+        # 1.069's new § 4º-A caput; the MP 1.063 caput never took effect (skipped), so its incisos go under MP 1.069's caput
+        cap = [p for p in paras if p["unit"] == "art-05" and p["label"] == "§ 4º-A" and p["start_law"] == "mp-1069-2021"]
+        inc = [p for p in paras if p["unit"] == "art-05" and p["start_law"] == "mp-1063-2021"
+               and p["text"].startswith(("I - nos incisos I e II do caput; ou", "II - nos incisos I e II do § 4º, observado"))]
+        if cap and len(inc) == 2 and paras.index(inc[0]) < paras.index(cap[0]):
+            for p in inc:
+                paras.remove(p)
+            at = paras.index(cap[0]) + 1
+            paras[at:at] = inc
+            G9718_USED.append("art-05 § 4º-A incisos I and II (Medida Provisória 1.063) placed under Medida Provisória 1.069's "
+                              "caput")
     return _build_act17(paras, act_day, gate, gate_law, unit_label)
 
 
