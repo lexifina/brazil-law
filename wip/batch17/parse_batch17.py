@@ -644,10 +644,21 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-9430-1996": _L("Lei nº 9.430, de 1996", "Dispõe sobre a legislação tributária federal, as contribuições para a "
                         "seguridade social, o processo administrativo de consulta e dá outras providências.", "1996-12-27",
                         "1996-12-30", PAGES["l9430"]),
-    "lei-13465-2017": _L("Lei nº 13.465, de 2017", "Dispõe sobre a regularização fundiária rural e urbana, sobre a liquidação "
-                         "de créditos concedidos aos assentados da reforma agrária e sobre a regularização fundiária no âmbito "
-                         "da Amazônia Legal; institui mecanismos para aprimorar a eficiência dos procedimentos de alienação de "
-                         "imóveis da União; e dá outras providências.", "2017-07-11", "2017-07-12", PAGES["l13465"]),
+    "lei-13465-2017": _L("Lei nº 13.465, de 2017", "Dispõe sobre a regularização fundiária rural e urbana, sobre a liquidação de créditos concedidos aos"
+                         " assentados da reforma agrária e sobre a regularização fundiária no âmbito da Amazônia Legal; "
+                         "institui mecanismos para aprimorar a eficiência dos procedimentos de alienação de imóveis da União; "
+                         "altera as Leis n os 8.629, de 25 de fevereiro de 1993, 13.001, de 20 de junho de 2014, 11.952, de 25"
+                         " de junho de 2009, 13.340, de 28 de setembro de 2016, 8.666, de 21 de junho de 1993, 6.015, de 31 de"
+                         " dezembro de 1973, 12.512, de 14 de outubro de 2011, 10.406, de 10 de janeiro de 2002 (Código "
+                         "Civil), 13.105, de 16 de março de 2015 (Código de Processo Civil), 11.977, de 7 de julho de 2009, "
+                         "9.514, de 20 de novembro de 1997, 11.124, de 16 de junho de 2005, 6.766, de 19 de dezembro de 1979, "
+                         "10.257, de 10 de julho de 2001, 12.651, de 25 de maio de 2012, 13.240, de 30 de dezembro de 2015, "
+                         "9.636, de 15 de maio de 1998, 8.036, de 11 de maio de 1990, 13.139, de 26 de junho de 2015, 11.483, "
+                         "de 31 de maio de 2007, e a 12.712, de 30 de agosto de 2012, a Medida Provisória nº 2.220, de 4 de "
+                         "setembro de 2001, e os Decretos-Leis nº 2.398, de 21 de dezembro de 1987, 1.876, de 15 de julho de "
+                         "1981, 9.760, de 5 de setembro de 1946, e 3.365, de 21 de junho de 1941; revoga dispositivos da Lei "
+                         "Complementar nº 76, de 6 de julho de 1993, e da Lei nº 13.347, de 10 de outubro de 2016; e dá outras"
+                         " providências.", "2017-07-11", "2017-07-12", PAGES["l13465"]),
     "lei-11977-2009": _L("Lei nº 11.977, de 2009", "Dispõe sobre o Programa Minha Casa, Minha Vida – PMCMV e a regularização "
                          "fundiária de assentamentos localizados em áreas urbanas; altera o Decreto-Lei nº 3.365, de 21 de junho "
                          "de 1941, as Leis nºs 4.380, de 21 de agosto de 1964, 6.015, de 31 de dezembro de 1973, 8.036, de 11 de "
@@ -739,8 +750,9 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         "1998-02-19", PAGES["l9608"]),
     "lei-12506-2011": _L("Lei nº 12.506, de 2011", "Dispõe sobre o aviso prévio e dá outras providências.", "2011-10-11",
                          "2011-10-13", PAGES["l12506"]),
-    "lei-9984-2000": _L("Lei nº 9.984, de 2000", "Dispõe sobre a criação da Agência Nacional de Águas - ANA [...] e dá outras "
-                        "providências.", "2000-07-17", "2000-07-18", PAGES["l9984"]),
+    "lei-9984-2000": _L("Lei nº 9.984, de 2000", "Dispõe sobre a criação da Agência Nacional de Águas - ANA, entidade federal de implementação da "
+                        "Política Nacional de Recursos Hídricos e de coordenação do Sistema Nacional de Gerenciamento de "
+                        "Recursos Hídricos, e dá outras providências.", "2000-07-17", "2000-07-18", PAGES["l9984"]),
     "lei-12334-2010": _L("Lei nº 12.334, de 2010", "Estabelece a Política Nacional de Segurança de Barragens [...].", "2010-09-20",
                          "2010-09-21", PAGES["l12334"]),
     "lc-105-2001": _L("Lei Complementar nº 105, de 2001", "Dispõe sobre o sigilo das operações de instituições financeiras e dá "
