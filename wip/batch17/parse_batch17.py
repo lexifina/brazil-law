@@ -1496,7 +1496,63 @@ def paragraphs(html, digits):
         out = keep
     if page == "l10833":
         efeitos_fix(out)
+    if page == "l13005":
+        # Lei 13.005: the Anexo (the plan's 20 metas and their estratégias) is printed after the signature, where the reader
+        # stops; it is part of the Lei (art. 1 'na forma do Anexo') and is read here: one unit per meta
+        ann = pne_annex(html)
+        out = out + ann
+        for i, q in enumerate(out):
+            q["i"] = i
+        PNE_ANNEX.append(f"{page}: {len(ann)} lines")
     return out, rest
+
+
+PNE_ANNEX: list[str] = []
+
+
+def pne_annex(html):
+    """The Anexo of Lei 13.005 as paragraphs: the 'ANEXO' / 'METAS E ESTRATÉGIAS' lines in unit anexo, then each 'Meta N:'
+    line with its 'Estratégias:' line and its items 'N.M)' in unit anexo-meta-NN (labels 'Meta N' and 'N.M)')."""
+    res, unit = [], None
+    for b in [P.analyse(x) for x in P.blocks_of(html)]:
+        t = b["text"]
+        if unit is None:
+            if t == "ANEXO" and b["center"]:
+                unit = "anexo"
+            else:
+                continue
+        if not t or re.fullmatch(r"[.;,:\s*]+", t):
+            if b["notes"] and res:
+                res[-1]["notes"] = list(res[-1]["notes"]) + list(b["notes"])
+            continue
+        lab = ""
+        m = re.match(r"Meta (\d+):", t)
+        if m:
+            unit, lab = f"anexo-meta-{int(m.group(1)):02d}", f"Meta {m.group(1)}"
+        else:
+            m = re.match(r"(\d+\.\d+)\)", t)
+            if m:
+                lab = m.group(1) + ")"
+        res.append({**b, "unit": unit, "label": lab, "heading": False})
+    return res
+
+
+_unit_kind17, _unit_label17 = P.unit_kind, P.unit_label
+
+
+def unit_kind(u):
+    return "annex" if u.startswith("anexo") else _unit_kind17(u)
+
+
+def unit_label(u, ps):
+    if u == "anexo":
+        return "Anexo"
+    if u.startswith("anexo-meta-"):
+        return f"Anexo, Meta {int(u[11:])}"
+    return _unit_label17(u, ps)
+
+
+P.unit_kind, P.unit_label = unit_kind, unit_label
 
 
 # Lei 10.833: Planalto's annotated page prints 'efeito' where the Lei says 'efeitos' (art. 23 'gases liquefeito', art. 93
