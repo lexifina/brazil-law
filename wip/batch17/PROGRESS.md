@@ -2237,3 +2237,49 @@ Disallow /control/ /report/; web.archive.org 404; b34/robots).
   jurisdiction.json (285 acts, 3838 versions). Final merged build (b34/logs/zzzp-final-build.log): 285 acts, 3838 versions,
   2707 commits, check 0/0, compare identical, audit clean. PIDs: pages 45228, laws 47748, missing 46412, trials
   47420/21168, zzzo-re 28852, pipe PIDs in zzzp-pipe1.out, conv 31716, final 41216 (all exited).
+### Lei 12.990/2014 (cotas para negros em concursos) - HELD, not built (coordinator decision needed)
+- Pinned (`iaonly.py pages l12990`, PAGES l12990 kept, act removed from ALL_ACTS/PARTS). The page heads 'Revogada pela Lei nº
+  15.142, de 2025' and strikes only some lines (preamble, arts. 1, 2 and the signature); art. 6 'terá vigência pelo prazo de
+  10 (dez) anos' (Vide ADI 7654: the STF's medida cautelar kept it in force past 10.6.2024 until the new law). Decide: (a) end
+  at 10.6.2024 (term, as the PNE's term gap) or at Lei 15.142's repeal (4.6.2025?) under ADI 7.654 (court law note), and (b)
+  read the repeal from Lei 15.142's own page (not pinned yet; its in-force clause to read).
+### Lei 10.887/2004 (part zzzq) - CONFIGURED, NOT PUBLISHED (stopped here: clean point, context)
+- Pins: `iaonly.py pages l10887` (PAGES l10887 = '_ato2004-2006/2004/lei/l10.887.htm'), `laws` 2 new, act-scoped `missing` 0.
+  Config in parse_batch17: act lei-10887-de-2004 (L10887), PARTS zzzq, ACT_DAY 21.6.2004 (art. 17), ACT_LAWS = 15a's record.
+  No hand block yet. Planalto prints 'Texto compilado' (a compilado page may exist: try `iaonly.py pages` with an id for
+  '_ato2004-2006/2004/lei/l10.887compilado.htm' or similar; the check page is the annotated page for now).
+- Trial t1 (b34/logs/zzzq-t1.log, 18 versions): 24 problems = (1) Lei 12.618 'no in-force day' x10 + unhandled clause:
+  art. 33 staged (part zzp's coordinator decision: read which item covers its changes to Lei 10.887; VIGENCIA_FIXED scoped to
+  the act); (2) Lei 13.328/2016 x5 + unhandled clause (art. 119? I publication for arts. 1-16, 40-89, ...; II from 1.8.2016
+  ...: read which article amends Lei 10.887); (3) MP_LAPSE needed for mp-556-2011 ('Sem eficácia', staged 'Produção de
+  efeito' notes on art. 4 X-XIV etc.: read MP 556's own effect clause) and mp-805-2017 (STF ADI 5.809 suspended it in
+  12.2017, then it lapsed in 4.2018: Atos not pinned; a court law for the suspension); MP_PENDING/revocation for
+  mp-1203-2023 (part zzzg has the MP_PENDING text: revoked by Lei 14.875/2024 art. 74 XVII, scope it to this act too);
+  (4) 'restored wording after an open one' on art. 4 caput, VI, XIX and art. 5 caput (expected to clear once the MP fates
+  are known; check with spansj + b34/tools/sp.py). dupl (b34/tools/dupl.py) on t1: art. 4 XIX doubled on 1.6.2012.
+  Notes also cite MPs 431/2008 (-> 11.784), 449/2008 (-> 11.941), 497/2010 (-> 12.350, notes read 'pela de Medida
+  Provisória'), 765/2016 (-> 13.464), 871/2019 (-> 13.846): converted-MP rule + conv_report after the fixes.
+
+## State at handoff (batch 17, thirty-fourth session, 2026-11-01)
+Installed with .PUBLISH this session: zzzm (Lei 11.952/2009; 9 versions), zzzn (Lei 13.966/2019; 1), zzzo (Lei 14.063/2020;
+3), zzzp (Lei 13.988/2020; 8) = 4 acts, 21 versions; re-PUBLISHed for shared law records: 99-batch9 (lei-11952-2009 title)
+and 99-batch17q (mp-1160-2023-fim note), both via new law_records.json entries + lawrecords.py, one field each. Final merged
+build of the installed folder (b34/logs/zzzp-final-build.log): 285 acts, 3838 versions, 2707 commits, check 0/0,
+--compare identical, audit_push clean on main and futuro; uniqlaws --all 0; dupsame over every installed part 0 hits / 132
+allowlisted (b34/logs/dupsame-all2.log). README rows and jurisdiction.json (285 acts, 3838 versions) current. corpus.d
+changed: new 99-batch17zzzm/zzzn/zzzo/zzzp (+ PUBLISH), 99-batch9.json and 99-batch17q.json (one law-record field each, +
+PUBLISH lines). All runs through run.py / pipe.sh at BelowNormal behind the cpu gate, one at a time (never two parses);
+PIDs in the part sections; all mine, all exited; nothing running. Fetching: archive.org only through the shared client
+(robots.txt read at start): 7 page pins + 2 law pins; no LexML, no Common Crawl; no challenge page.
+New in code: parse_batch17 PAGES l11952 (+ 'complilado'), l13966, l14063, l13988, l12990 (pinned, held), l10887; acts/PARTS/
+ACT_DAY/ACT_LAWS zzzm-zzzq; blocks '# part zzzm' (SPAN_FIX art. 5/19/30/1, EXPLAINED, OPEN_ITEMS), '# part zzzo'
+(NAV_LINES, heading-name wrapper for l14063 + l13988, OPEN_ITEMS), '# part zzzp' (NAV_LINES, art. 23 staged SPAN_FIX,
+MP_LAPSE mp-1160-2023, OPEN_ITEMS); law_records.json + lei-11952-2009, mp-1160-2023-fim. Backups: brazil-b34/before/.
+Judgement call to confirm: an MP's quoted article with no dotted line leaves out the units it does not quote during the
+MP's term (zzzm: art. 30 under MP 759; art. 1 p.u. and art. 19 I-II under MP 910), as zzzi's MP 700 art. 15-A § 4º.
+NEXT: finish zzzq (Lei 10.887, to-do above), then 11.795/2008, 12.682/2012, 6.383/1976, 10.711/2003, 9.069/1995, heavy tax
+laws, historic codes; Lei 12.990 held (decision above). Run `missing` act-scoped (BATCH17_PART/BATCH17_ACTS).
+OPEN (unchanged): CLT art. 538 § 3º; DL 5.922/1943 in 70-clt dated enactment + 45.
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once
+archive.org has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026
+congresso) once archived -> MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.

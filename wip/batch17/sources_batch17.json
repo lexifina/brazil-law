@@ -497,6 +497,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "l10887",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.887.htm",
+   "ts": "20261006221909",
+   "via": "wayback.py"
+  },
+  {
    "id": "l10973",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.973.htm",
    "ts": "20260901034100",
@@ -784,6 +790,18 @@
    "id": "l12865",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12865.htm",
    "ts": "20261018014934",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l12990",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12990.htm",
+   "ts": "20261019225601",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l12990-2025",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12990.htm",
+   "ts": "20250531000943",
    "via": "wayback.py"
   },
   {
@@ -2560,6 +2578,12 @@
    "id": "law:lei-12548-2011",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12548.htm",
    "ts": "20260712212845",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-12618-2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12618.htm",
+   "ts": "20261004172957",
    "via": "wayback.py"
   },
   {
@@ -5415,6 +5439,12 @@
    "id": "law:mp-551-2011",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/Mpv/551.htm",
    "ts": "20261008134127",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-556-2011",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Mpv/556.htm",
+   "ts": "20260713010005",
    "via": "wayback.py"
   },
   {

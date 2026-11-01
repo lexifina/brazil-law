@@ -270,7 +270,12 @@ PAGES.update({
     "l13966": "_ato2019-2022/2019/lei/l13966.htm",
     "l14063": "_ato2019-2022/2020/lei/l14063.htm",
     "l13988": "_ato2019-2022/2020/lei/l13988.htm",
+    # thirty-fifth session: Lei 12.990 built from a capture of 31.5.2025, before Lei 15.142/2025 repealed it (the later
+    # page strikes some lines and not others); Lei 15.142's own page for the repeal and its in-force day
     "l12990": "_ato2011-2014/2014/lei/l12990.htm",
+    "l12990-2025": "_ato2011-2014/2014/lei/l12990.htm",
+    "l15142": "_ato2023-2026/2025/lei/l15142.htm",
+    "l10887": "_ato2004-2006/2004/lei/l10.887.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -627,8 +632,8 @@ ALL_ACTS: list[dict] = [
          "Assinaturas eletrônicas em interações com entes públicos (Lei nº 14.063, de 23 de setembro de 2020)", 2),
     _act("lei-da-transacao-tributaria", "LTransT", "l13988", "l13988", "lei-13988-2020",
          "Transação resolutiva de litígio tributário e da dívida ativa (Lei nº 13.988, de 14 de abril de 2020)", 2),
-    _act("lei-de-cotas-em-concursos-publicos", "LCotasC", "l12990", "l12990", "lei-12990-2014",
-         "Reserva de vagas para negros em concursos públicos federais (Lei nº 12.990, de 9 de junho de 2014)", 2),
+    _act("lei-10887-de-2004", "L10887", "l10887", "l10887", "lei-10887-2004",
+         "Aplicação da Emenda Constitucional nº 41 aos regimes próprios de previdência (Lei nº 10.887, de 18 de junho de 2004)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -744,7 +749,7 @@ PARTS: dict[str, list[str]] = {
     "zzzn": ["lei-de-franquia"],
     "zzzo": ["lei-das-assinaturas-eletronicas"],
     "zzzp": ["lei-da-transacao-tributaria"],
-    "zzzq": ["lei-de-cotas-em-concursos-publicos"],
+    "zzzq": ["lei-10887-de-2004"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1031,6 +1036,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-13089-2015": ("2015-01-13", "Lei 13.089/2015 art. 25: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
                                      "13.1.2015)"),
     "lei-11952-2009": ("2009-06-26", f"Lei 11.952/2009 art. 41: {_PUB} (DOU 26.6.2009)"),
+    "lei-10887-2004": ("2004-06-21", "Lei 10.887/2004 art. 17: 'Esta Lei entra em vigor na data de sua publicação' (DOU 21.6.2004)"),
     "lei-13988-2020": ("2020-04-14", "Lei 13.988/2020 art. 30: 'Esta Lei entra em vigor: I - em 120 (cento e vinte) dias "
                                      "contados da data da sua publicação, em relação ao inciso I do caput e ao parágrafo único do "
                                      "art. 23; e II - na data de sua publicação, em relação aos demais dispositivos' (DOU 14.4.2020, "
@@ -1604,6 +1610,11 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "situadas em áreas da União, no âmbito da Amazônia Legal; altera as Leis n os 8.666, de 21 de junho de "
                          "1993, e 6.015, de 31 de dezembro de 1973; e dá outras providências.", "2009-06-25", "2009-06-26",
                          "_Ato2007-2010/2009/Lei/L11952.htm"),
+    # the record 99-batch15a has
+    "lei-10887-2004": _L("Lei nº 10.887, de 2004", "Dispõe sobre a aplicação de disposições da Emenda Constitucional nº 41, de 19 de "
+                         "dezembro de 2003, altera dispositivos das Leis nºs 9.717, de 27 de novembro de 1998, 8.213, de 24 de julho "
+                         "de 1991, 9.532, de 10 de dezembro de 1997, e dá outras providências.", "2004-06-18", "2004-06-21",
+                         "_Ato2004-2006/2004/Lei/L10.887.htm"),
     # the record 99-batch17q has
     "lei-13988-2020": _L("Lei nº 13.988, de 2020", "Dispõe sobre a transação nas hipóteses que especifica; e altera as Leis n os "
                          "13.464, de 10 de julho de 2017, e 10.522, de 19 de julho de 2002.", "2020-04-14", "2020-04-14",

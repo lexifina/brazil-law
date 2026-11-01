@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-01 (batch 17, thirty-third session: Task 1 DONE: vigência audit of every law dated by the 45-day default; 9 missed clauses ('entra vigor', 'entre em vigor', 'O presente Decreto-Lei entra em vigor, na data', a relative clause, EC 16's lower-case 'emenda') now read via vigforms.py; CF, 70-clt, 99-batch7/9/12/13g/14d/16f re-PUBLISHed. Task 2: zzzl (Lei 9.393/1996 ITR, 8 versions) PUBLISHed; merged 281 acts, 3817 versions, 2702 commits, check 0/0, compare identical, audit clean; NEXT Lei 11.952/2009; details in batch17/PROGRESS.md)
+CHECKPOINTED 2026-11-01 (batch 17, thirty-fourth session: zzzm Lei 11.952/2009 (9 versions), zzzn Lei 13.966/2019 (1), zzzo Lei 14.063/2020 (3), zzzp Lei 13.988/2020 (8) PUBLISHed; 99-batch9 and 99-batch17q re-PUBLISHed (one law-record field each, law_records.json); merged 285 acts, 3838 versions, 2707 commits, check 0/0, compare identical, audit clean; Lei 12.990 HELD for a decision; zzzq Lei 10.887/2004 configured, not published (to-do list); NEXT finish zzzq; details in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 
