@@ -474,6 +474,9 @@ ALL_ACTS: list[dict] = [
          "Lei Orgânica Nacional do Ministério Público (Lei nº 8.625, de 12 de fevereiro de 1993)", 2),
     _act("lei-do-programa-bolsa-familia", "LPBF", "l14601", "l14601", "lei-14601-2023",
          "Programa Bolsa Família (Lei nº 14.601, de 19 de junho de 2023)", 2),
+    # twenty-fourth session
+    _act("lei-da-previdencia-complementar-dos-servidores-federais", "LFunpresp", "l12618", "l12618", "lei-12618-2012",
+         "Previdência complementar dos servidores públicos federais - Funpresp (Lei nº 12.618, de 30 de abril de 2012)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -551,6 +554,8 @@ PARTS: dict[str, list[str]] = {
     "zzm": ["decreto-lei-200-de-1967"],
     "zzn": ["lei-da-partilha-de-producao"],
     "zzo": ["lei-organica-nacional-do-ministerio-publico", "lei-do-programa-bolsa-familia"],
+    # twenty-fourth session
+    "zzp": ["lei-da-previdencia-complementar-dos-servidores-federais"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -777,6 +782,11 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-14601-2023": ("2023-06-20", "Lei 14.601/2023 art. 34: 'Esta Lei entra em vigor: I - em 1º de janeiro de 2024, quanto: a) aos "
                                      "arts. 30 e 31 e ao inciso I do caput do art. 33; b) ao § 3º do art. 4º; e II - na data de sua "
                                      "publicação, quanto aos demais dispositivos' (DOU 20.6.2023)"),
+    "lei-12618-2012": ("2012-05-02", "Lei 12.618/2012 art. 33: 'Esta Lei entra em vigor: I - quanto ao disposto no Capítulo I, na "
+                                     "data em que forem criadas quaisquer das entidades de que trata o art. 4º, observado o disposto "
+                                     "no art. 31; e II - quanto aos demais dispositivos, na data de sua publicação' (DOU 2.5.2012); "
+                                     "Capítulo I (arts. 1 to 3) from 21.9.2012, the day the first of those entities was created "
+                                     "(Decreto 7.808/2012)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1183,6 +1193,15 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "dispositivos das Leis nºs 14.284, de 29 de dezembro de 2021, e 14.342, de 18 de maio de 2022, e a Medida "
                          "Provisória nº 1.155, de 1º de janeiro de 2023.", "2023-06-19", "2023-06-20",
                          "_Ato2023-2026/2023/Lei/L14601.htm"),
+    "lei-12618-2012": _L("Lei nº 12.618, de 2012", "Institui o regime de previdência complementar para os servidores públicos federais "
+                         "titulares de cargo efetivo, inclusive os membros dos órgãos que menciona; fixa o limite máximo para a "
+                         "concessão de aposentadorias e pensões pelo regime de previdência de que trata o art. 40 da Constituição "
+                         "Federal; autoriza a criação de 3 (três) entidades fechadas de previdência complementar, denominadas "
+                         "Fundação de Previdência Complementar do Servidor Público Federal do Poder Executivo (Funpresp-Exe), "
+                         "Fundação de Previdência Complementar do Servidor Público Federal do Poder Legislativo (Funpresp-Leg) e "
+                         "Fundação de Previdência Complementar do Servidor Público Federal do Poder Judiciário (Funpresp-Jud); "
+                         "altera dispositivos da Lei nº 10.887, de 18 de junho de 2004; e dá outras providências.", "2012-04-30",
+                         "2012-05-02", PAGES["l12618"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -5248,6 +5267,36 @@ B13.OPEN_ITEMS[_LPBF] = (
     "Lei 14.601 (open items): the text before 20.6.2023 (Medida Provisória 1.164/2023, of which this Lei is the conversion) is "
     "not part of the history; the regulations strike no words")
 
+# part zzp: Lei 12.618/2012 (Funpresp). Hand days set only when the act runs.
+_LFUNP = "lei-da-previdencia-complementar-dos-servidores-federais"
+# Lei 12.618 art. 33 I: Capítulo I (arts. 1 to 3) in force 'na data em que forem criadas quaisquer das entidades de que trata o
+# art. 4º, observado o disposto no art. 31'. Decreto 7.808/2012 art. 1 created the Funpresp-Exe; its art. 12 puts it in force on
+# publication (DOU 21.9.2012). Planalto prints '(Vide Decreto nº 7.808, de 2012)' on art. 33 I.
+_G12618 = {u: ("2012-09-21", "I") for u in ("art-01", "art-02", "art-03")}
+G12618_USED: list[str] = []
+_GATES[_LFUNP] = (_G12618, "lei-12618-2012", G12618_USED)
+if any(a["slug"] == _LFUNP for a in ACTS):
+    B7.CONVERTED_FIX["mp-1119-2022"] = ("lei-14463-2022", "the MP page reads 'Convertida na Lei nº Lei nº 14.463, de 2022' (the "
+                                                          "words 'Lei nº' printed twice); Lei 14.463's page reads 'Conversão da "
+                                                          "Medida Provisória nº 1.119, de 2022'")
+    P.MP_LAPSE["mp-1286-2024"] = (
+        "2025-06-03", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 46, de 2025 (DOU 12.6.2025): 'teve seu prazo "
+                      "de vigência encerrado no dia 2 de junho de 2025'; the wording it gave ends on 3.6.2025, the day Lei 15.141/2025 "
+                      "(DOU 3.6.2025, in force on publication; its art. 217 XXXIX also revokes the Medida Provisória) gives the same "
+                      "words")
+    EXTRA.append("Lei 12.618: art. 33 ('Esta Lei entra em vigor: I - quanto ao disposto no Capítulo I, na data em que forem criadas "
+                 "quaisquer das entidades de que trata o art. 4º, observado o disposto no art. 31; e II - quanto aos demais "
+                 "dispositivos, na data de sua publicação'; DOU 2.5.2012). The first of those entities, the Fundação de Previdência "
+                 "Complementar do Servidor Público Federal do Poder Executivo (Funpresp-Exe), was created by Decreto 7.808, de 20 de "
+                 "setembro de 2012 (art. 1: 'Fica criada a Fundação de Previdência Complementar do Servidor Público Federal do Poder "
+                 "Executivo - Funpresp-Exe'; art. 12: 'Este Decreto entra em vigor na data de sua publicação'; DOU 21.9.2012), the "
+                 "act Planalto names on art. 33 I ('Vide Decreto nº 7.808, de 2012'), within art. 31's 180 days from publication. "
+                 "Capítulo I (arts. 1 to 3) therefore starts on 21.9.2012; the other provisions on 2.5.2012. The acts that created "
+                 "the Funpresp-Jud and the Funpresp-Leg are not read; neither precedes the Decreto on Planalto's page.")
+B13.OPEN_ITEMS[_LFUNP] = (
+    "Lei 12.618 (open items): 'Vide' pointers (Lei 13.328/2016 and Medida Provisória 1.119/2022 on art. 3 § 7º, the reopened "
+    "option periods) change no words and are not modelled; the regulations strike no words")
+
 P.build_act = B.build_act = build_act
 _build_actLP = build_act
 
@@ -5271,6 +5320,25 @@ def build_act_lp(paras, act_day, gate, gate_law, unit_label):
 
 
 P.build_act = B.build_act = build_act_lp
+_build_actFP = build_act_lp
+L12618_HEAD: list[str] = []
+
+
+def build_act_fp(paras, act_day, gate, gate_law, unit_label):
+    """Lei 12.618: the heading of Capítulo I ('CAPÍTULO I' and its name line) starts with the chapter (art. 33 I), on
+    21.9.2012, credited to the Lei, like arts. 1 to 3 (_G12618)."""
+    slug = ACTS[len(B7._act_order)]["slug"] if len(B7._act_order) < len(ACTS) else "?"
+    if slug == _LFUNP:
+        for p in paras:
+            if (p["unit"] == "titulos" and p["text"] in ("CAPÍTULO I", "DO REGIME DE PREVIDÊNCIA COMPLEMENTAR")
+                    and p["start"] == act_day and not p.get("skip") and p["end"] is None):
+                p["start"], p["start_law"] = _G12618["art-01"][0], "lei-12618-2012"
+                L12618_HEAD.append(p["text"])
+        assert len(L12618_HEAD) == 2, L12618_HEAD
+    return _build_actFP(paras, act_day, gate, gate_law, unit_label)
+
+
+P.build_act = B.build_act = build_act_fp
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

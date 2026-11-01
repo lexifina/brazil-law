@@ -77,6 +77,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "ato:adc-46-2025-mpv1286",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2025/Congresso/adc-46-mpv1.286.htm",
+   "ts": "20260712033234",
+   "via": "wayback.py"
+  },
+  {
    "id": "ato:adc-48-2019-mpv877",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Congresso/adc-48-mpv877.htm",
    "ts": "20260606053622",
@@ -1230,6 +1236,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:dec-7808-2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/d7808.htm",
+   "ts": "20261004172246",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:dl-1089-1970",
    "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del1089.htm",
    "cc": {
@@ -2369,6 +2381,12 @@
    "id": "law:lei-13322-2016",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Lei/L13322.htm",
    "ts": "20261018072614",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-13328-2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Lei/L13328.htm",
+   "ts": "20261004152225",
    "via": "wayback.py"
   },
   {
@@ -3750,6 +3768,12 @@
    }
   },
   {
+   "id": "law:mp-1119-2022",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Mpv/mpv1119.htm",
+   "ts": "20260617172029",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-1120-2022",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Mpv/mpv1120.htm",
    "ts": "20260801171645",
@@ -3889,6 +3913,12 @@
    "id": "law:mp-1262-2024",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Mpv/mpv1262.htm",
    "ts": "20261019012324",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1286-2024",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Mpv/mpv1286.htm",
+   "ts": "20261005005640",
    "via": "wayback.py"
   },
   {

@@ -1454,3 +1454,36 @@ tools/dbgvi.py = traces which build_act wrapper drops a line).
 - pipe.sh zzn (brazil-b23/zzn-pipe1.out): sha bd5d025e x2 (eff 04c547fb), 0 moves; benign flags in the PUBLISH. Final merged build
   (final23c-build.log, after rows-zzn.json docs + README futuro lines): 244 acts, 3504 versions, 2560 commits, check 0/0, compare
   identical, audit clean.
+
+### 99-batch17zzo - PUBLISHed: Lei 8.625/1993 (lei-organica-nacional-do-ministerio-publico, LONMP, 1 version) + Lei 14.601/2023
+(lei-do-programa-bolsa-familia, LPBF, 4 versions 2023-06-20 .. 2026-02-13)
+- Pages pinned this session (`iaonly.py pages`, 4): l8625, l12618, l12865, l14601. notecount: l8625 0 notes; l14601 6 (15.077, 15.348);
+  l12618 66 (MP 1.119/2022 29 -> Lei 14.463/2022 29, 13.183, MP 1.286/2024, 15.141); l12865 88 (12.973 24, 14.031 18, MP 930/2020 15,
+  MP 627/2013 9, 14.943 7, MP 1.227/2024 5, MP 897/2019 2, MP 784/2017 1, LC 225/2026 1 ...).
+- Lei 14.601 art. 34: _G14601 (arts. 30, 31 -> 1.1.2024) added to _GATES; SPAN_FIX by_provision art-04 § 3º, art-33 I -> 1.1.2024; EXTRA
+  decision. Law record = 99-batch12's. sha 7dbd3dc3, 0 moves; benign flags in the PUBLISH. Final merged build (final23d-build.log):
+  246 acts, 3509 versions, 2563 commits, check 0/0, compare identical, audit clean. README rows + jurisdiction.json (rows-zzo.json).
+
+## State at handoff (batch 17, twenty-third session, 2026-11-01)
+Installed this session: zzm (Decreto-Lei 200/1967, 22 versions), zzn (Lei 12.351/2010, 17 + Anexo), zzo (Leis 8.625/1993, 14.601/2023;
+5) = 4 acts, 44 versions. Final merged build of the installed folder after all docs (final23d-build.log): 246 acts, 3509 versions, 2563
+commits, check 0/0, --compare identical, audit_push clean on main and futuro; README rows (+ futuro lines for Lei 12.351 art. 60-A) and
+jurisdiction.json (246 acts) current. lawcmp clean for every new part; reparse zzm/zzh/zzl/zzn equal (sources counter only). headyear
+unchanged (t23-hy3.log; misprinted pin law:dl-900-1968 removed from sources_batch17.json, copy before the edit in brazil-b23).
+All runs through .tmp/run.py / pipe.sh / reparse.sh at BelowNormal behind the cpu gate, one at a time (never two parses); every PID
+printed in its log (brazil-b23/*.log, .tmp/zz[mno]-*.log, t23-*.log, final23*-build.log); all mine, all exited. Nothing running.
+Fetching: archive.org only through the shared client (robots.txt read at start); no challenge page seen.
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once archive.org
+has a capture of _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026.
+Left out (unchanged): Lei 9.782 art. 8º-A; Lei 10.931; Lei 10.522 art. 32 quoted § 2º; Lei 12.462 art. 63 § 17; Leis 11.738, 12.009,
+12.871, 13.979. No act of this session was left out.
+NEXT on the ranked list: Lei 12.618/2012 (Funpresp; page l12618 pinned, not configured). Read first: art. 33 I puts Capítulo I in force
+'na data em que forem criadas quaisquer das entidades de que trata o art. 4º' (event-tied: Decreto 7.808/2012 created Funpresp-Exe;
+pin and read it, decide the day with the coordinator if unclear), MP 1.119/2022 -> Lei 14.463/2022 (29 notes each), MP 1.286/2024 (1
+note: fate?), Lei 15.141/2025, Lei 13.183/2015 (records exist in 15a/15b/17zza/17i/6: copy exactly). Then Lei 12.865/2013 (page l12865
+pinned; MPs 627/2013, 784/2017 (lapsed, shared table), 897/2019, 930/2020, 1.227/2024: fates first), Lei 10.848/2004 (cdxlist
+leis/2004/l10.848.htm), environment (Leis 9.966, 7.661, 11.959, 5.197, 7.735, 11.516), energy (14.300, 10.438, 9.991, 9.847), banking (LC
+130, Leis 10.214, 13.506, 8.929, 13.775), public administration (Leis 8.159, 9.491, 13.334; LC 35/1979; Lei 5.010/1966).
+New in parse_batch17 this session (all scoped to their acts): DL 200 paragraphs wrapper (SEçãO, SETOR/MINISTÉRIO heading blocks, bare
+Vide tails, 'Expressão substituída' read back from DL 900 art. 7 via _DL200_SWAP); _LPART block (PROMULGATED, SPAN_FIX, EXTRA_LAWS
+stf-adi-4917, Anexo reader, build_act_lp = new outermost build_act wrapper); _G14601 in _GATES.
