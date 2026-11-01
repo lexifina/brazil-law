@@ -136,6 +136,12 @@ PAGES.update({
     "l4886": "leis/l4886.htm",
     "l8397": "leis/l8397.htm",
     "l9795": "leis/l9795.htm",
+    # parts zi, zj
+    "l11417": "_ato2004-2006/2006/lei/l11417.htm",
+    "l11418": "_ato2004-2006/2006/lei/l11418.htm",
+    "l13460": "_ato2015-2018/2017/lei/l13460.htm",
+    "l12187": "_ato2007-2010/2009/lei/l12187.htm",
+    "l13123": "_ato2015-2018/2015/lei/l13123.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -272,6 +278,14 @@ ALL_ACTS: list[dict] = [
          "Medida cautelar fiscal (Lei nº 8.397, de 6 de janeiro de 1992)", 2),
     _act("lei-da-educacao-ambiental", "LPNEA", "l9795", "l9795", "lei-9795-1999",
          "Política Nacional de Educação Ambiental (Lei nº 9.795, de 27 de abril de 1999)", 2),
+    _act("lei-da-sumula-vinculante", "LSV", "l11417", "l11417", "lei-11417-2006",
+         "Súmula vinculante (Lei nº 11.417, de 19 de dezembro de 2006)", 2),
+    _act("lei-dos-usuarios-de-servicos-publicos", "LUSP", "l13460", "l13460", "lei-13460-2017",
+         "Código de Defesa dos Usuários de Serviços Públicos (Lei nº 13.460, de 26 de junho de 2017)", 2),
+    _act("lei-da-politica-nacional-sobre-mudanca-do-clima", "PNMC", "l12187", "l12187", "lei-12187-2009",
+         "Política Nacional sobre Mudança do Clima (Lei nº 12.187, de 29 de dezembro de 2009)", 2),
+    _act("lei-da-biodiversidade", "LBio", "l13123", "l13123", "lei-13123-2015",
+         "Lei da Biodiversidade (Lei nº 13.123, de 20 de maio de 2015)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -310,6 +324,8 @@ PARTS: dict[str, list[str]] = {
     "zg": ["lei-da-anac", "lei-da-anm"],
     "zh": ["lei-da-mata-atlantica", "lei-dos-representantes-comerciais", "lei-da-medida-cautelar-fiscal",
            "lei-da-educacao-ambiental"],
+    "zi": ["lei-da-sumula-vinculante", "lei-dos-usuarios-de-servicos-publicos", "lei-da-politica-nacional-sobre-mudanca-do-clima",
+           "lei-da-biodiversidade"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -411,6 +427,18 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-4886-1965": ("1965-12-10", "Lei 4.886/1965 art. 48: 'Esta lei entra em vigor na data de sua publicação' (DOU 10.12.1965)"),
     "lei-8397-1992": ("1992-01-07", "Lei 8.397/1992 art. 19: 'Esta lei entra em vigor na data de sua publicação' (DOU 7.1.1992)"),
     "lei-9795-1999": ("1999-04-28", f"Lei 9.795/1999 art. 21: {_PUB} (DOU 28.4.1999)"),
+    "lei-11417-2006": ("2007-03-20", "Lei 11.417/2006 art. 11: 'Esta Lei entra em vigor 3 (três) meses após a sua publicação' (DOU "
+                                     "20.12.2006): in force on 20.3.2007"),
+    "lei-13460-2017": ("2018-06-22", "Lei 13.460/2017 art. 25: 'Esta Lei entra em vigor, a contar da sua publicação, em: I - trezentos "
+                                     "e sessenta dias para a União, os Estados, o Distrito Federal e os Municípios com mais de quinhentos "
+                                     "mil habitantes; II - quinhentos e quarenta dias para os Municípios entre cem mil e quinhentos mil "
+                                     "habitantes; e III - setecentos e vinte dias para os Municípios com menos de cem mil habitantes' (DOU "
+                                     "27.6.2017): dated by I, the federal stage, 360 days counted from the day of publication (LC 95 art. 8 "
+                                     "§ 1º), in force on 22.6.2018"),
+    "lei-12187-2009": ("2009-12-30", f"Lei 12.187/2009 art. 13: {_PUB} (DOU 30.12.2009, edição extra)"),
+    "lei-13123-2015": ("2015-11-17", "Lei 13.123/2015 art. 49: 'Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias da "
+                                     "data de sua publicação oficial' (DOU 21.5.2015, from LexML; Planalto's footer misprints '14.5.2015'): "
+                                     "in force on 17.11.2015"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -605,6 +633,15 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         "1992-01-07", PAGES["l8397"]),
     "lei-9795-1999": _L("Lei nº 9.795, de 1999", "Dispõe sobre a educação ambiental, institui a Política Nacional de Educação "
                         "Ambiental e dá outras providências.", "1999-04-27", "1999-04-28", PAGES["l9795"]),
+    "lei-11417-2006": _L("Lei nº 11.417, de 2006", "Regulamenta o art. 103-A da Constituição Federal e altera a Lei nº 9.784, de 29 "
+                         "de janeiro de 1999, disciplinando a edição, a revisão e o cancelamento de enunciado de súmula vinculante "
+                         "pelo Supremo Tribunal Federal, e dá outras providências.", "2006-12-19", "2006-12-20", PAGES["l11417"]),
+    "lei-13460-2017": _L("Lei nº 13.460, de 2017", "Dispõe sobre participação, proteção e defesa dos direitos do usuário dos serviços "
+                         "públicos da administração pública.", "2017-06-26", "2017-06-27", PAGES["l13460"]),
+    "lei-12187-2009": _L("Lei nº 12.187, de 2009", "Institui a Política Nacional sobre Mudança do Clima - PNMC e dá outras "
+                         "providências.", "2009-12-29", "2009-12-30", PAGES["l12187"]),
+    "lei-13123-2015": _L("Lei nº 13.123, de 2015", "Regulamenta o inciso II do § 1º e o § 4º do art. 225 da Constituição Federal [...] "
+                         "e dá outras providências.", "2015-05-20", "2015-05-21", PAGES["l13123"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -2645,10 +2682,29 @@ B13.OPEN_ITEMS["lei-da-mata-atlantica"] = (
     "DOU 8.12.2025, before the Lei's in-force day) takes effect with the Lei on 4.2.2026; 'Vide' pointers and regulations strike "
     "no words")
 B13.OPEN_ITEMS["lei-dos-representantes-comerciais"] = (
-    "Lei 4.886 (open items): 'Vide' pointers strike no words")
+    "Lei 4.886 (open items): the retificação of 20.12.1965 (art. 13: '2º' to be read '§ 2º') changes no words and is read from "
+    "the act's first day; 'Vide' pointers strike no words")
+if any(a["slug"] == "lei-dos-representantes-comerciais" for a in ACTS):
+    B6.CONTEXT.append({
+        "when": lambda: True,
+        "pins": ["ctx:camara-lei-4886-1965-original", "ctx:camara-lei-4886-1965-retificacao"],
+        "what": "the original publication of Lei 4.886/1965 (DOU 10.12.1965: the numbers of its last articles, 42 and 43) and "
+                "its retificação (DOU 20.12.1965)"})
 B13.OPEN_ITEMS["lei-da-medida-cautelar-fiscal"] = (
     "Lei 8.397 (open items): the DOU of 7.1.1992 was rectified on 16.1.1992; Planalto prints the rectified text, which is read "
     "from the act's first day")
+
+# part zi: Leis 11.417/2006 (súmula vinculante), 13.460/2017 (usuários de serviços públicos), 12.187/2009 (PNMC), 13.123/2015
+# (biodiversidade)
+B13.OPEN_ITEMS["lei-dos-usuarios-de-servicos-publicos"] = (
+    "Lei 13.460 (open items): the Lei and Lei 14.129/2021 (its amender) take effect in stages by level of government (Lei "
+    "13.460 art. 25: 360 days for the União, the States, the Distrito Federal and Municipalities above 500,000 inhabitants, "
+    "540 and 720 days for smaller Municipalities; Lei 14.129's in-force clause: 90 days for the União, 120 for States and the Distrito "
+    "Federal, 180 for Municipalities); the history is dated by the federal stage (22.6.2018 and 28.6.2021), the later stages "
+    "are not separate versions")
+B13.OPEN_ITEMS["lei-da-biodiversidade"] = (
+    "Lei 13.123 (open items): its text before the in-force day (17.11.2015) is the same as on that day (no change in between); "
+    "Medida Provisória 2.186-16/2001, which it revokes (art. 50), is not part of the history; 'Vide' pointers and regulations strike no words")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

@@ -489,6 +489,39 @@ pages (no compilado capture on archive.org: cdxlist). Pages for zg/zh pinned (`i
 - effrep (zg-effrep.log): on publication. effects_fix 0 moves. Benign: leakcheck 6 literal, quotecheck 5. Part sha 6fb78e7a
   (pre-effects 3e49022a); merged 186 acts, 3106 versions, 2326 commits, check 0/0, compare identical, audit clean.
 
+## 99-batch17zh - PUBLISHed 2026-11-01 (tenth session)
+Lei 11.428/2006 Mata Atlântica (3 versions), Lei 4.886/1965 representantes comerciais (4), Lei 8.397/1992 cautelar fiscal (2), Lei
+9.795/1999 educação ambiental (3) = 12 versions; all own consolidated pages.
+- Lei 4.886: paragraphs wrapper l4886: struck '(Suprimido)' marks -> '(Revogado pela Lei nº 8.420, de 1992)' (8.420 art. 3, read);
+  Lei 12.246's plain '§ 1º (Suprimido)' kept as text (L4886_FIXED). lrc_renum() (apply_rewrites): art. 10 alíneas a)-g) copies
+  1965-28.5.2010 (Lei 12.246 art. 1 renumbering, read); 1965 arts. 42/43 copies of arts. 48/49 to 11.5.1992 (Lei 8.420 art. 2
+  'passarão a ter os números 41 ... 47'; original numbering read on the Chamber's publicacaooriginal page via archive.org,
+  pinned ctx:camara-lei-4886-1965-original + -retificacao with pinat.py, listed as a source through B6.CONTEXT).
+- Lei 11.428: Lei 15.190/2025 (180 days -> 4.2.2026); its art. 66 III (revocation of art. 14 §§ 1º-2º) vetoed then promulgated
+  5.12.2025 (DOU 8.12.2025), before the in-force day: 4.2.2026 kept. EXPLAINED art-48. Retificações (11.428: 9.1.2007; 8.397:
+  16.1.1992; 4.886: 20.12.1965 '§' sign only) in OPEN_ITEMS.
+- effrep (zh-effrep*.log): Lei 9.532 art. 65 under art. 81 I (on publication), Lei 14.195 art. 53 under art. 58 V. effects_fix 0
+  moves. All checks 0 except quotecheck 8 (quoted law text). Part sha 6de8461d (pre-effects 19ce6a43); zg reparse identical;
+  merged 190 acts, 3118 versions, 2335 commits, check 0/0, compare identical, audit clean (final10-build.log, after README rows).
+
+## State at handoff (batch 17, tenth session, 2026-11-01)
+Parts 99-batch17a..zh installed with .PUBLISH (this session: zf Lei 9.984, zg Leis 11.182 + 13.575, zh Leis 11.428 + 4.886 + 8.397
++ 9.795 = 7 acts, 44 versions); merged 190 acts, 3118 versions, 2335 commits, check 0/0, --compare identical, audit clean.
+README rows + jurisdiction.json (190 acts) current. All runs through .tmp/run.py / pipe.sh at BelowNormal (cpu gate), one at a
+time; every PID exited; nothing left running. Fetching: archive.org only (robots.txt read at start: web.archive.org 404,
+archive.org Disallows /control/ /report/ only); no Common Crawl, no Arquivo.pt, no LexML this session.
+Shared-code edits this session (all scoped to their acts; zd, zf, zg reparsed after: identical except sources[0].requests): BARE_TEXT
+l9984(+compilado) art-29; paragraphs blocks l9984, l4886; apply_rewrites ana_437, lrc_renum; lifespans wrapper settles 'no end'
+for pinned skipped duplicates (unit+label+text match).
+DATED RE-CHECK (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026 - not before.
+Left out / unsettled (unchanged): Lei 9.782 art. 8º-A (Lei 15.524/2026 not archived); Lei 10.931 (no capture); Lei 10.522 art. 32
+quoted § 2º; Lei 12.462 art. 63 § 17. New open item: Lei 11.182 art. 29 TFAC anterioridade (kept at in-force day).
+Next candidates (pages already in the local path index / cdxlist checked 1.11): Lei 11.417/2006 and 11.418/2006 (súmula
+vinculante / repercussão geral; _ato2004-2006/2006/lei/l11417.htm, l11418.htm, captures exist), Lei 13.460/2017 (usuário de
+serviços públicos), Lei 12.187/2009 (clima), Lei 13.123/2015 (biodiversidade); heavy tax: Leis 9.718/1998, 10.637/2002, 10.833/2003
+(PIS/COFINS, MP chains). Add PAGES, `iaonly.py pages`, `BATCH17_ACTS=... iaonly.py laws` + `missing`, notecount.py, then the
+trial and pipe.sh.
+
 ## State at handoff (batch 17, ninth session, 2026-11-01)
 Parts 99-batch17a..zd installed with .PUBLISH (this session: z, za, zb, zc, zd = 9 acts, 95 versions); merged 183 acts, 3074
 versions, 2315 commits, check 0/0, --compare identical, audit clean. README rows + jurisdiction.json (183 acts) current.
