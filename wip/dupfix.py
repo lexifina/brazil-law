@@ -9,7 +9,7 @@ day is in [from, until) (until null: to the last version):
 
     dedupe      "lines": each listed line printed more than once keeps only its first copy
     drop        "lines": every copy of each listed line is removed
-    drop_block  "block": the last run of these consecutive lines is removed
+    drop_block  "block": the last run of these consecutive lines is removed ("first": true: the first run)
     set         "lines": the unit's text is exactly these lines
 
 Only the text of the named units changes; a version's changes are recomputed for those units only, and the run stops if
@@ -50,7 +50,8 @@ def _apply_op(lines: list[str], f: dict) -> list[str]:
         return [x for x in lines if x not in f["lines"]]
     if op == "drop_block":
         b = f["block"]
-        for i in range(len(lines) - len(b), -1, -1):
+        order = range(len(lines) - len(b) + 1) if f.get("first") else range(len(lines) - len(b), -1, -1)
+        for i in order:
             if lines[i:i + len(b)] == b:
                 return lines[:i] + lines[i + len(b):]
         return lines

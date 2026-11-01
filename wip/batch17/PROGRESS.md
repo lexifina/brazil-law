@@ -1986,3 +1986,66 @@ DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1
 has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026 congresso) once archived ->
 MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.
 OPEN for the coordinator: dupsame's 104 hits in older parts (above). zzzd's open item is settled (decision recorded).
+
+## Thirty-first session (2026-11-01): Task 1 dupsame review (all hits), Task 2 ranked list from Lei 12.608/2012
+Scratch: .gitlaw-scratch/brazil-b31 (before/ = the six parts + PUBLISH, pipe.sh, effects_fix.py, oldparts.py before the session;
+tools/: dupctx/dupnb/unitat/uhist (unit history), pg/dump/dump13 (page dumps), partdiff (before/after part diff), genfix.py
+(writes dup_fixes.json), genallow.py (writes dupsame_allow.json), chk.sh (the file checks + dupsame on a folder); pages/; logs).
+### Task 1 DONE: dupsame in the repo, every hit reviewed, real ones fixed, allowlist read by the check
+- scripts/brazil-law/dupsame.py (moved from b30/tools, rewritten): it replayed only `changes`, so lines doubled in a version written
+  as full `units` (every first version) were never seen: 168 hits, not 104. Prints 'HIT ...' for unlisted hits (exit 1), counts
+  allowlisted ones, prints STALE allowlist entries. In pipe.sh after uniqlaws ($x-dup.log).
+- Reviewed all 168 against the pages: 132 are the law's own repetitions -> scripts/brazil-law/dupsame_allow.json (act, unit, line,
+  why: quoted-amendment elision lines 32, penalty lines 24, repeated heading names 19, tables and parallel lists by article).
+  36 were reading faults, all fixed by scripts/brazil-law/dupfix.py + dup_fixes.json (32 entries; ops dedupe / drop / drop_block
+  [first] / set; only the named units' text changes, changes recomputed for them only; stops if a fix would leave an uncredited
+  change or finds nothing; a decision 'Doubled lines: ...' marks the part done). effects_fix.py runs it after lawrecords, so a
+  reparse keeps the fixes (checked: zf reparse + effects_fix = installed except the known sources drift).
+- Fixed (and re-PUBLISHed): 60-phase2 (CP art. 121 '(VETADO)' VIII + penalty from 1942 -> from Lei 13.964; art. 129 § 9º 2006
+  penalty beside Lei 14.994's 2024-2026; Título VI/Cap. I 1940 names beside Lei 12.015's from 2009; Cap. I-A name from 1942 ->
+  2018), 70-clt (art. 530 set per period 1943-1967: it had lost alíneas b-d from 1946 to 1967; arts. 534/538 1943 copies; art. 580
+  table doubled 1943-1946 and present under DL 8.740; art. 628-A, art. 553, Título VII headings around MPs 905/955; the 'Open (not
+  dated by the source)' decision and batch7/oldparts.py OPEN updated: 534/538 still two wordings 21.1-23.2.1946), 99-batch13f (Lei
+  4.595 art. 4º XIV items of each wording stacked 1965-1982), 99-batch17i (Lei 9.250 art. 8º MP 528 + Lei 12.469 copies), 99-batch17zf
+  (Lei 9.984 ementa printed three times), 99-batch9 (Código Florestal Cap. III-A name). partdiff: only those units + decisions.
+  Two credited units now unchanged on their day (wording-unchanged commits): CLT titulos 18.8.2020 (MP 955 end), Florestal titulos
+  18.10.2012 (Lei 12.727). File checks before/after: same or fewer findings (CLT dupcheck 11->8, dupline 95->61, ordercheck 30->25).
+- dupsame over every installed part + corpus.json: 0 hits, 132 allowlisted. Merged build (b31/build1.log): 278 acts, 3800 versions,
+  2695 commits, check 0/0, --compare identical, audit_push clean main + futuro. PUBLISH appended for the six parts.
+- Found, NOT fixed (not doubled lines): CP art. 121 § 6º (Lei 12.720/2012) has no note on either page, so it reads from 1942; CP art.
+  121 VIII 'arma de fogo' reads from 23.1.2020 although the part's own rule dates promulgated-over-veto wording 30.4.2021; CLT
+  titulos on 18.8.2020 shows the 1943 Título VII name while art. 628-A/553 show MP 905's for that day.
+- PIDs (all mine, all exited): dupsame 21320 / dup-all2-4, fixes 28528 30068 6416 48136 (fix3b) + 13f refix, chk runs (one at a
+  time), build 52584, zf reparse 48844 + eff 44252.
+### Task 2: 99-batch17zzzj - PUBLISHed: Lei 12.608/2012 (lei-da-protecao-e-defesa-civil, LPDC, 3 versions 2012-04-11, 2023-12-13
+  Lei 14.750, 2026-03-31 Lei 15.367 art. 36 -> art. 18-A)
+- robots.txt read at start (archive.org Disallow /control/ /report/ only; web.archive.org 404; copies in b31/robots). PAGES l12608,
+  l13089 pinned (`iaonly.py pages`: l12608 20261019165925, l13089 20261012033005); `laws l12608 l13089` 2 new; `missing` 0.
+- Config: act, PARTS zzzj, ACT_DAY (art. 31, on publication; the Lei 6.766 art. 12 § 2º exception is not this act's text), ACT_LAWS
+  record = 99-batch7/9/12's. No hand items. Trial 0 problems. pipe.sh zzzj (b31/zzzj-pipe1.out): sha 252c6635 x2, 0 moves, flags
+  benign (PUBLISH), dupsame 0. Installed; README row + jurisdiction.json (279 acts, 3803 versions).
+- No consolidated page archived for Lei 12.608 (check page = annotated page). Not done: conv_report (no MPs in the act's notes).
+
+## State at handoff (batch 17, thirty-first session, 2026-11-01)
+Task 1 DONE (above): dupsame.py + dupsame_allow.json (132 reviewed repetitions) + dupfix.py + dup_fixes.json (36 doubled lines in
+6 parts), dupsame in pipe.sh; 60-phase2, 70-clt, 99-batch13f, 99-batch17i, 99-batch17zf, 99-batch9 re-PUBLISHed. Task 2: zzzj
+(Lei 12.608/2012) PUBLISHed. Final merged build of the installed folder after all docs (b31/final31-build.log): 279 acts, 3803
+versions, 2697 commits, check 0/0, --compare identical, audit_push clean on main and futuro. Only the intended parts changed
+(b31/corpusd-before.txt vs corpusd-after.txt). All runs through .tmp/run.py / pipe.sh at BelowNormal behind the cpu gate, one at a
+time, never two parses; PIDs in b31 logs and pipe output; all mine, all exited; nothing running. Fetching: archive.org only (4
+requests through the shared client), no challenge page.
+New in code: dupsame.py, dupsame_allow.json, dupfix.py, dup_fixes.json (generator b31/tools/genfix.py, genallow.py); effects_fix.py
+calls dupfix after lawrecords; batch7/oldparts.py OPEN text for 70-clt; pipe.sh dupsame step; parse_batch17 PAGES l12608/l13089,
+act/PARTS/ACT_DAY/ACT_LAWS for zzzj. Backups: b31/before/ (parse_batch17.py.orig there already has the PAGES lines).
+When a new doubled line is a reading fault: add a dup_fixes.json entry (regenerate with genfix.py or edit by hand), run effects_fix
+on the part; when it is the law's own repetition: add it to dupsame_allow.json with its reason.
+NEXT: ranked list item 5, Lei 13.089/2015 (Estatuto da Metrópole): page l13089 pinned and its laws pinned; act not configured. Then
+Lei 9.393/1996 (ITR), 11.952/2009, 13.966/2019, 14.063/2020, 13.988/2020, 12.990/2014, 10.887/2004, 11.795/2008, 12.682/2012,
+6.383/1976, 10.711/2003, 9.069/1995, heavy tax laws, historic codes.
+OPEN (found in Task 1, not doubled lines, not fixed): CP art. 121 § 6º (Lei 12.720/2012) has no note on either page and reads from
+1942; CP art. 121 VIII 'arma de fogo' reads from 23.1.2020 though the part's rule dates wording promulgated over a veto 30.4.2021;
+CLT titulos on 18.8.2020 keeps the 1943 Título VII name while arts. 553/628-A show MP 905's for that day; CLT arts. 534/538 two
+wordings 21.1-23.2.1946 (in the CLT open-items decision).
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once archive.org
+has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026 congresso) once archived ->
+MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.

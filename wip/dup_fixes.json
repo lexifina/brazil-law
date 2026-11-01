@@ -390,6 +390,38 @@
    "why": "art. 4º XIV: the three items of alínea a) of each later wording (Decretos-Leis 1.085/1970 and 1.580/1977) stood under the earlier wording; each starts with its wording"
   },
   {
+   "part": "99-batch13f",
+   "act": "lei-do-sistema-financeiro-nacional",
+   "unit": "art-04",
+   "from": "1970-02-19",
+   "until": "1977-10-18",
+   "op": "drop_block",
+   "block": [
+    "das regiões geo-econômicas;",
+    "das prioridades que atribuir às aplicações;",
+    "da natureza das instituições financeiras;"
+   ],
+   "first": true,
+   "why": "art. 4º XIV: the items of alínea a) of each earlier wording stayed below inciso XIII after Decretos-Leis 1.085/1970 and 1.580/1977 rewrote the inciso; each ends with its wording"
+  },
+  {
+   "part": "99-batch13f",
+   "act": "lei-do-sistema-financeiro-nacional",
+   "unit": "art-04",
+   "from": "1977-10-18",
+   "until": "1982-09-15",
+   "op": "drop_block",
+   "block": [
+    "das regiões geo-econômicas;",
+    "das prioridades que atribuir às aplicações;",
+    "da natureza das instituições financeiras;",
+    "das regiões geo-econômicas;",
+    "das prioridades que atribuir às aplicações;",
+    "da natureza das instituições financeiras;"
+   ],
+   "why": "art. 4º XIV: the items of alínea a) of each earlier wording stayed below inciso XIII after Decretos-Leis 1.085/1970 and 1.580/1977 rewrote the inciso; each ends with its wording"
+  },
+  {
    "part": "99-batch17i",
    "act": "lei-9250-de-1995",
    "unit": "art-08",

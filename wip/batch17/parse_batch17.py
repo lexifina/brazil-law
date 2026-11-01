@@ -259,6 +259,9 @@ PAGES.update({
     "del3365-compilado": "decreto-lei/del3365compilado.htm",
     "l4132": "leis/l4132.htm",
     "del0025": "decreto-lei/del0025.htm",
+    # thirty-first session: civil defence, metropolitan regions
+    "l12608": "_ato2011-2014/2012/lei/l12608.htm",
+    "l13089": "_ato2015-2018/2015/lei/l13089.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -597,6 +600,9 @@ ALL_ACTS: list[dict] = [
          "Desapropriação por interesse social (Lei nº 4.132, de 10 de setembro de 1962)", 2),
     _act("lei-do-tombamento", "LTomb", "del0025", "del0025", "dl-25-1937",
          "Proteção do patrimônio histórico e artístico nacional - tombamento (Decreto-Lei nº 25, de 30 de novembro de 1937)", 2),
+    # thirty-first session
+    _act("lei-da-protecao-e-defesa-civil", "LPDC", "l12608", "l12608", "lei-12608-2012",
+         "Política Nacional de Proteção e Defesa Civil (Lei nº 12.608, de 10 de abril de 2012)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -701,6 +707,8 @@ PARTS: dict[str, list[str]] = {
     "zzzg": ["lei-da-organizacao-da-presidencia-e-dos-ministerios"],
     "zzzh": ["lei-dos-bens-imoveis-da-uniao"],
     "zzzi": ["lei-das-desapropriacoes", "lei-da-desapropriacao-por-interesse-social", "lei-do-tombamento"],
+    # thirty-first session
+    "zzzj": ["lei-da-protecao-e-defesa-civil"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -978,6 +986,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                    "Distrito Federal, e 30 dias no Estados e Território do Acre' (DOU 18.7.1941). Dated by the first "
                                    "day it was in force, in the Distrito Federal (18.7 + 10 days = 28.7.1941), as Lei 263/1948; in the "
                                    "states it applied from 17.8.1941"),
+    "lei-12608-2012": ("2012-04-11", "Lei 12.608/2012 art. 31: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
+                                     "11.4.2012), except its change to Lei 6.766 art. 12 § 2º, two years later"),
     "lei-4132-1962": ("1962-12-22", "Lei 4.132/1962 has no vigência clause (art. 6 only revokes contrary provisions): Lei de "
                                     "Introdução (Decreto-Lei 4.657/1942) art. 1, 45 days after its publication (DOU 7.11.1962), "
                                     "22.12.1962"),
@@ -1529,6 +1539,13 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                        "1941-07-18", PAGES["del3365"]),
     "lei-4132-1962": _L("Lei nº 4.132, de 1962", "Define os casos de desapropriação por interesse social e dispõe sobre sua "
                         "aplicação.", "1962-09-10", "1962-11-07", PAGES["l4132"]),
+    # the record 99-batch7, 99-batch9 and 99-batch12 have
+    "lei-12608-2012": _L("Lei nº 12.608, de 2012", "Institui a Política Nacional de Proteção e Defesa Civil - PNPDEC; dispõe sobre "
+                         "o Sistema Nacional de Proteção e Defesa Civil - SINPDEC e o Conselho Nacional de Proteção e Defesa Civil - "
+                         "CONPDEC; autoriza a criação de sistema de informações e monitoramento de desastres; altera as Leis nºs "
+                         "12.340, de 1º de dezembro de 2010, 10.257, de 10 de julho de 2001, 6.766, de 19 de dezembro de 1979, "
+                         "8.239, de 4 de outubro de 1991, e 9.394, de 20 de dezembro de 1996; e dá outras providências.",
+                         "2012-04-10", "2012-04-11", "_Ato2011-2014/2012/Lei/L12608.htm"),
     "dl-25-1937": _L("Decreto-Lei nº 25, de 1937", "Organiza a proteção do patrimônio histórico e artístico nacional.",
                      "1937-11-30", "1937-12-06", PAGES["del0025"]),
 }

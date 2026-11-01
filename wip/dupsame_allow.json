@@ -1,0 +1,797 @@
+{
+ "about": "Lines dupsame.py finds printed twice in one unit that are the law's own repetitions, each reviewed against the page (2026-11-01). Doubled lines that were reading faults are removed by dupfix.py (dup_fixes.json).",
+ "lines": [
+  {
+   "act": "codigo-civil",
+   "unit": "art-1638",
+   "line": "a) homicídio, feminicídio ou lesão corporal de natureza grave ou seguida de morte, quando se tratar de crime doloso envolvendo violência doméstica e familiar ou menosprezo ou discriminação à condição de mulher;",
+   "why": "art. 1.638 parágrafo único: incisos I and II list the same alínea a)"
+  },
+  {
+   "act": "lgpd",
+   "unit": "art-060",
+   "line": ".......................................................................................",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "codigo-penal",
+   "unit": "art-184",
+   "line": "Pena - reclusão, de 2 (dois) a 4 (quatro) anos, e multa.",
+   "why": "art. 184: §§ 1º and 3º carry the same penalty"
+  },
+  {
+   "act": "codigo-penal",
+   "unit": "art-121",
+   "line": "Pena - reclusão, de doze a trinta anos.",
+   "why": "art. 121 § 2º: both Planalto pages print the penalty after inciso V (where the 1940 text had it) and again after the last inciso (as Lei 13.964/2019 restated it)"
+  },
+  {
+   "act": "codigo-penal",
+   "unit": "art-129",
+   "line": "Pena - reclusão, de 2 (dois) a 5 (cinco) anos.",
+   "why": "art. 129: §§ 9º and 13 carry the same penalty (Lei 14.994/2024)"
+  },
+  {
+   "act": "codigo-de-processo-civil",
+   "unit": "art-0932",
+   "line": "a) súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do próprio tribunal;",
+   "why": "art. 932: incisos IV and V list the same alíneas a) to c)"
+  },
+  {
+   "act": "codigo-de-processo-civil",
+   "unit": "art-0932",
+   "line": "b) acórdão proferido pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça em julgamento de recursos repetitivos;",
+   "why": "art. 932: incisos IV and V list the same alíneas a) to c)"
+  },
+  {
+   "act": "codigo-de-processo-civil",
+   "unit": "art-0932",
+   "line": "c) entendimento firmado em incidente de resolução de demandas repetitivas ou de assunção de competência;",
+   "why": "art. 932: incisos IV and V list the same alíneas a) to c)"
+  },
+  {
+   "act": "codigo-de-processo-civil",
+   "unit": "art-0932",
+   "line": "b) acórdão proferido pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça em julgamento de recursos repetitivos ou de recursos especiais com a relevância da questão de direito federal infraconstitucional reconhecida;",
+   "why": "art. 932: incisos IV and V list the same alíneas a) to c)"
+  },
+  {
+   "act": "clt",
+   "unit": "titulos",
+   "line": "DAS ATRIBUIÇÕES DO PROCURADOR-GERAL",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "clt",
+   "unit": "titulos",
+   "line": "DAS ATRIBUIÇÕES DOS PROCURADORES",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "clt",
+   "unit": "art-592",
+   "line": "j) nas despesas decorrentes dos encargos criados pelo presente capítulo.",
+   "why": "art. 592: the lists for each category of contributor repeat items"
+  },
+  {
+   "act": "clt",
+   "unit": "anexo",
+   "line": "Atividades ou categorias econômica",
+   "why": "the annex's table repeats its column heading for each group"
+  },
+  {
+   "act": "clt",
+   "unit": "anexo",
+   "line": "Atividades ou categorias econômicas",
+   "why": "the annex's table repeats its column heading for each group"
+  },
+  {
+   "act": "clt",
+   "unit": "art-592",
+   "line": "b) assistência médica, dentária, hospitalar e farmacêutica;",
+   "why": "art. 592: the lists for each category of contributor repeat items"
+  },
+  {
+   "act": "clt",
+   "unit": "art-592",
+   "line": "j) colônias de férias e centros de recreação;",
+   "why": "art. 592: the lists for each category of contributor repeat items"
+  },
+  {
+   "act": "clt",
+   "unit": "art-592",
+   "line": "l) prevenção de acidentes do trabalho;",
+   "why": "art. 592: the lists for each category of contributor repeat items"
+  },
+  {
+   "act": "clt",
+   "unit": "art-592",
+   "line": "m) finalidades desportivas e sociais;",
+   "why": "art. 592: the lists for each category of contributor repeat items"
+  },
+  {
+   "act": "clt",
+   "unit": "art-589",
+   "line": "a) 5% (cinco por cento) para a confederação correspondente;",
+   "why": "art. 589: incisos I and II give the confederation the same share"
+  },
+  {
+   "act": "codigo-de-processo-penal",
+   "unit": "titulos",
+   "line": "DO PROCESSO E DO JULGAMENTO DOS CRIMES",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "codigo-tributario-nacional",
+   "unit": "titulos",
+   "line": "Impôsto sôbre Operações Relativas a Combustíveis, Lubrificantes, Energia Elétrica e Minerais do País",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-de-recuperacao-e-falencia",
+   "unit": "art-035",
+   "line": "b) a constituição do Comitê de Credores, a escolha de seus membros e sua substituição;",
+   "why": "art. 35: incisos I and II list the same alínea b)"
+  },
+  {
+   "act": "lei-de-licitacoes-e-contratos",
+   "unit": "art-178",
+   "line": "Pena - reclusão, de 4 (quatro) anos a 8 (oito) anos, e multa.",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-de-licitacoes-e-contratos",
+   "unit": "art-178",
+   "line": "Pena - reclusão, de 6 (seis) meses a 3 (três) anos, e multa.",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "estatuto-dos-militares",
+   "unit": "art-098",
+   "line": "Cabo e Taifeiro-de-Segunda-Classe",
+   "why": "art. 98: the age table lists each rank once per column"
+  },
+  {
+   "act": "estatuto-dos-militares",
+   "unit": "art-098",
+   "line": "Capitão-Tenente ou Capitão e Oficiais Subalternos",
+   "why": "art. 98: the age table lists each rank once per column"
+  },
+  {
+   "act": "estatuto-dos-militares",
+   "unit": "art-098",
+   "line": "Capitão-de-Fragata e Tenente-Coronel",
+   "why": "art. 98: the age table lists each rank once per column"
+  },
+  {
+   "act": "estatuto-dos-militares",
+   "unit": "art-098",
+   "line": "Capitão-de-Mar-e-Guerra e Coronel",
+   "why": "art. 98: the age table lists each rank once per column"
+  },
+  {
+   "act": "estatuto-dos-militares",
+   "unit": "art-098",
+   "line": "Contra-Almirante, General-de-Brigada e Brigadeiro",
+   "why": "art. 98: the age table lists each rank once per column"
+  },
+  {
+   "act": "estatuto-dos-militares",
+   "unit": "art-098",
+   "line": "Marinheiro, Soldado e Soldado-de-Primeira-Classe",
+   "why": "art. 98: the age table lists each rank once per column"
+  },
+  {
+   "act": "estatuto-dos-militares",
+   "unit": "art-098",
+   "line": "Primeiro-Sargento e Taifeiro-Mor",
+   "why": "art. 98: the age table lists each rank once per column"
+  },
+  {
+   "act": "estatuto-dos-militares",
+   "unit": "art-098",
+   "line": "Segundo-Sargento e Taifeiro-de-Primeira-Classe",
+   "why": "art. 98: the age table lists each rank once per column"
+  },
+  {
+   "act": "estatuto-dos-militares",
+   "unit": "art-098",
+   "line": "Vice-Almirante, General-de-Divisão e Major-Brigadeiro",
+   "why": "art. 98: the age table lists each rank once per column"
+  },
+  {
+   "act": "lei-da-adi-e-da-adc",
+   "unit": "titulos",
+   "line": "Da Admissibilidade e do Procedimento da",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-do-crime-racial",
+   "unit": "art-20",
+   "line": "Pena: reclusão de dois a cinco anos e multa.",
+   "why": "art. 20: §§ 1º and 2º carry the same penalty"
+  },
+  {
+   "act": "lei-do-trabalho-domestico",
+   "unit": "art-37",
+   "line": "..................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-do-sistema-financeiro-nacional",
+   "unit": "art-07",
+   "line": "1 - do Ministério da Indústria e do Comércio;",
+   "why": "art. 7º: the commissions are each made up of representatives of the same bodies"
+  },
+  {
+   "act": "lei-do-sistema-financeiro-nacional",
+   "unit": "art-07",
+   "line": "3 - do Banco Central da República do Brasil;",
+   "why": "art. 7º: the commissions are each made up of representatives of the same bodies"
+  },
+  {
+   "act": "lei-do-sistema-financeiro-nacional",
+   "unit": "art-07",
+   "line": "4 - do Banco Nacional do Desenvolvimento Econômico;",
+   "why": "art. 7º: the commissions are each made up of representatives of the same bodies"
+  },
+  {
+   "act": "estatuto-da-igualdade-racial",
+   "unit": "art-61",
+   "line": "...................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "estatuto-da-microempresa",
+   "unit": "art-18-a",
+   "line": "a) a partir de 1º de janeiro do ano-calendário subseqüente ao da ocorrência do excesso, na hipótese de não ter ultrapassado o referido limite em mais de 20% (vinte por cento);",
+   "why": "art. 18-A § 7º: incisos III and IV have the same alínea a)"
+  },
+  {
+   "act": "lei-do-seguro-desemprego",
+   "unit": "art-04",
+   "line": "b) 4 (quatro) parcelas, se o trabalhador comprovar vínculo empregatício com pessoa jurídica ou pessoa física a ela equiparada de, no mínimo, 12 (doze) meses e, no máximo, 23 (vinte e três) meses, no período de referência; ou",
+   "why": "art. 4º: the parcels for the second and later requests are listed alike"
+  },
+  {
+   "act": "lei-7713-de-1988",
+   "unit": "art-18",
+   "line": "Ano de Aquisição ou Incorporação",
+   "why": "art. 18: the table prints its column headings twice, side by side"
+  },
+  {
+   "act": "lei-9430-de-1996",
+   "unit": "art-09",
+   "line": "I - em relação aos quais tenha havido a declaração de insolvência do devedor, em sentença emanada do Poder Judiciário;",
+   "why": "art. 9º: §§ 1º and 7º list the same incisos"
+  },
+  {
+   "act": "lei-9430-de-1996",
+   "unit": "art-09",
+   "line": "IV - contra devedor declarado falido ou pessoa jurídica em concordata ou recuperação judicial, relativamente à parcela que exceder o valor que esta tenha se comprometido a pagar, observado o disposto no § 5º.",
+   "why": "art. 9º: §§ 1º and 7º list the same incisos"
+  },
+  {
+   "act": "lei-da-regularizacao-fundiaria",
+   "unit": "art-04",
+   "line": "...........................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-regularizacao-fundiaria",
+   "unit": "art-05",
+   "line": ".........................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-regularizacao-fundiaria",
+   "unit": "art-05",
+   "line": "..........................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-regularizacao-fundiaria",
+   "unit": "art-77",
+   "line": "..........................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-regularizacao-fundiaria",
+   "unit": "art-82",
+   "line": "...........................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-regularizacao-fundiaria",
+   "unit": "art-03",
+   "line": "...........................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-do-cadin",
+   "unit": "art-10-a",
+   "line": "a) da primeira à décima segunda prestação: 0,5% (cinco décimos por cento);",
+   "why": "art. 10-A: incisos V and VI list the same rates"
+  },
+  {
+   "act": "lei-do-cadin",
+   "unit": "art-10-a",
+   "line": "b) da décima terceira à vigésima quarta prestação: 0,6% (seis décimos por cento);",
+   "why": "art. 10-A: incisos V and VI list the same rates"
+  },
+  {
+   "act": "lei-das-concessoes-do-setor-eletrico",
+   "unit": "art-29",
+   "line": "...................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-dos-portos",
+   "unit": "art-71",
+   "line": "...................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-dos-portos",
+   "unit": "art-72",
+   "line": "...................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-do-rdc",
+   "unit": "art-53",
+   "line": "...................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-geral-das-agencias-reguladoras",
+   "unit": "art-37",
+   "line": "...........................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-geral-das-agencias-reguladoras",
+   "unit": "art-42",
+   "line": "...........................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-geral-das-agencias-reguladoras",
+   "unit": "art-43",
+   "line": "...........................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-anac",
+   "unit": "art-34",
+   "line": ".....................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-mata-atlantica",
+   "unit": "titulos",
+   "line": "DA PROTEÇÃO DA VEGETAÇÃO SECUNDÁRIA EM",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-10637-de-2002",
+   "unit": "art-32",
+   "line": "I - rendimentos relativos a receitas de aluguel, destinados ao pagamento de benefícios de aposentadoria, pensão, pecúlio e resgates;",
+   "why": "art. 32: the parágrafo único lists the caput's three incisos again"
+  },
+  {
+   "act": "lei-10637-de-2002",
+   "unit": "art-32",
+   "line": "II - receita decorrente da venda de bens imóveis, destinada ao pagamento de benefícios de aposentadoria, pensão, pecúlio e resgates;",
+   "why": "art. 32: the parágrafo único lists the caput's three incisos again"
+  },
+  {
+   "act": "lei-10637-de-2002",
+   "unit": "art-32",
+   "line": "III - resultado positivo auferido na reavaliação da carteira de investimentos imobiliários referida nos incisos I e II.",
+   "why": "art. 32: the parágrafo único lists the caput's three incisos again"
+  },
+  {
+   "act": "lei-10637-de-2002",
+   "unit": "art-46",
+   "line": "..................................................................................................\"(NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-10833-de-2003",
+   "unit": "art-58-r",
+   "line": "I - pelo fator de 0,177 (cento e setenta e sete milésimos), no caso do crédito da Contribuição para o PIS/Pasep; e",
+   "why": "art. 58-R: §§ 1º and 9º give the same factors"
+  },
+  {
+   "act": "lei-10833-de-2003",
+   "unit": "art-58-r",
+   "line": "II - pelo fator de 0,823 (oitocentos e vinte e três milésimos), no caso do crédito da Cofins.",
+   "why": "art. 58-R: §§ 1º and 9º give the same factors"
+  },
+  {
+   "act": "lei-de-gestao-de-florestas-publicas",
+   "unit": "art-39",
+   "line": "II - o preço pago, excluído o valor mencionado no inciso I do caput deste artigo, terá a seguinte destinação:",
+   "why": "art. 39: the caput and § 1º each have an inciso II with the same opening"
+  },
+  {
+   "act": "lei-das-infracoes-sanitarias",
+   "unit": "art-10",
+   "line": "pena - advertência, apreensão, inutilização, interdição, cancelamento do registro, e/ou multa;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-das-infracoes-sanitarias",
+   "unit": "art-10",
+   "line": "pena - advertência, e/ou multa;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-das-infracoes-sanitarias",
+   "unit": "art-10",
+   "line": "pena - advertência, interdição, e/ou multa;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-das-infracoes-sanitarias",
+   "unit": "art-10",
+   "line": "pena - advertência, apreensão, inutilização, interdição, cancelamento da autorização de funcionamento, cancelamento do registro do produto e/ou multa;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-das-infracoes-sanitarias",
+   "unit": "art-10",
+   "line": "pena - advertência, interdição total ou parcial do estabelecimento, cancelamento do registro do produto, cancelamento de autorização para funcionamento da empresa, cancelamento do alvará de licenciamento do estabelecimento e/ou multa;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-das-infracoes-sanitarias",
+   "unit": "art-10",
+   "line": "pena - advertência, interdição, cancelamento da autorização de funcionamento e/ou multa;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-do-plano-de-equilibrio-fiscal",
+   "unit": "art-16",
+   "line": ".....................................................................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-alimentacao-escolar",
+   "unit": "art-30",
+   "line": "...................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-dos-agrotoxicos",
+   "unit": "art-25",
+   "line": "a) relação detalhada do estoque existente;",
+   "why": "art. 25: each inciso has the same alínea a)"
+  },
+  {
+   "act": "lei-do-credito-consignado",
+   "unit": "art-02-a",
+   "line": "a) a autorização para os descontos dos valores das prestações contratadas em operação de crédito, quando realizados por meio de sistemas ou de plataformas digitais;",
+   "why": "art. 2º-A: incisos I and II list the same alíneas"
+  },
+  {
+   "act": "lei-do-credito-consignado",
+   "unit": "art-02-a",
+   "line": "b) o consentimento em compartilhar dados pessoais com os agentes operadores públicos credenciados e com as instituições consignatárias habilitadas para a contratação de operação de crédito consignado; e",
+   "why": "art. 2º-A: incisos I and II list the same alíneas"
+  },
+  {
+   "act": "estatuto-do-ministerio-publico-da-uniao",
+   "unit": "titulos",
+   "line": "Da Competência, dos Órgãos e da Carreira",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "estatuto-do-ministerio-publico-da-uniao",
+   "unit": "titulos",
+   "line": "Das Unidades de Lotação e de Administração",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-organica-da-defensoria-publica",
+   "unit": "titulos",
+   "line": "Da Inamovibilidade e da Remoção",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-organica-da-defensoria-publica",
+   "unit": "titulos",
+   "line": "Da Nomeação, da Lotação e da Distribuição",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-organica-da-defensoria-publica",
+   "unit": "titulos",
+   "line": "Das Garantias e das Prerrogativas",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-organica-da-defensoria-publica",
+   "unit": "titulos",
+   "line": "Dos Deveres, das Proibições, dos Impedimentos e da Responsabilidade Funcional",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-da-partilha-de-producao",
+   "unit": "art-62",
+   "line": "...................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-partilha-de-producao",
+   "unit": "art-42-b",
+   "line": "2. o rateio dos recursos do fundo especial obedecerá às mesmas regras do rateio do Fundo de Participação dos Estados e do Distrito Federal (FPE), de que trata o art. 159 da Constituição;",
+   "why": "art. 42-B: incisos I and II give the same rules for the special funds"
+  },
+  {
+   "act": "lei-da-partilha-de-producao",
+   "unit": "art-42-b",
+   "line": "2. o rateio dos recursos do fundo especial obedecerá às mesmas regras do rateio do Fundo de Participação dos Municípios (FPM), de que trata o art. 159 da Constituição;",
+   "why": "art. 42-B: incisos I and II give the same rules for the special funds"
+  },
+  {
+   "act": "lei-da-partilha-de-producao",
+   "unit": "art-42-b",
+   "line": "3. o percentual que o FPE destina aos Estados e ao Distrito Federal, se for o caso, que serão excluídos do rateio dos recursos do fundo especial em decorrência do disposto no item 1 será redistribuído entre os demais Estados e o Distrito Federal, se for o caso, proporcionalmente às suas participações no FPE;",
+   "why": "art. 42-B: incisos I and II give the same rules for the special funds"
+  },
+  {
+   "act": "lei-da-partilha-de-producao",
+   "unit": "art-42-b",
+   "line": "4. o Estado produtor ou confrontante, e o Distrito Federal, se for produtor, poderá optar por receber os recursos do fundo especial de que trata esta alínea, desde que não receba recursos em decorrência do disposto na alínea \"a\" deste inciso, na alínea \"a\" do inciso II deste artigo, na alínea \"a\" do inciso II dos arts. 48 e 49 da Lei nº 9.478, de 6 de agosto de 1997, e no inciso II do § 2º do art. 50 da Lei nº 9.478, de 6 de agosto de 1997;",
+   "why": "art. 42-B: incisos I and II give the same rules for the special funds"
+  },
+  {
+   "act": "lei-da-partilha-de-producao",
+   "unit": "art-42-b",
+   "line": "5. os recursos que Estados produtores ou confrontantes, ou que o Distrito Federal, se for o caso, tenham deixado de arrecadar em função da opção prevista no item 4 serão adicionados aos recursos do fundo especial de que trata esta alínea;",
+   "why": "art. 42-B: incisos I and II give the same rules for the special funds"
+  },
+  {
+   "act": "lei-organica-nacional-do-ministerio-publico",
+   "unit": "titulos",
+   "line": "Do Conselho Superior do Ministério Público",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-12865-de-2013",
+   "unit": "art-34",
+   "line": "...................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-comercializacao-de-energia-eletrica",
+   "unit": "art-09",
+   "line": "............................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-comercializacao-de-energia-eletrica",
+   "unit": "art-10",
+   "line": "............................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-comercializacao-de-energia-eletrica",
+   "unit": "art-12",
+   "line": "............................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-comercializacao-de-energia-eletrica",
+   "unit": "art-13",
+   "line": "............................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-poluicao-por-oleo",
+   "unit": "art-27",
+   "line": "d) comunicar ao órgão regulador da indústria do petróleo irregularidades encontradas durante a fiscalização de navios, plataformas e suas instalações de apoio, quando atinentes à indústria do petróleo;",
+   "why": "art. 27: incisos I and II have the same alínea d)"
+  },
+  {
+   "act": "lei-da-fiscalizacao-do-abastecimento-de-combustiveis",
+   "unit": "art-03",
+   "line": "Multa - de R$ 20.000,00 (vinte mil reais) a R$ 1.000.000,00 (um milhão de reais);",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-da-fiscalizacao-do-abastecimento-de-combustiveis",
+   "unit": "art-03",
+   "line": "Multa - de R$ 20.000,00 (vinte mil reais) a R$ 5.000.000,00 (cinco milhões de reais);",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-da-fiscalizacao-do-abastecimento-de-combustiveis",
+   "unit": "art-03",
+   "line": "Multa - de R$ 5.000,00 (cinco mil reais) a R$ 10.000,00 (dez mil reais);",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-da-fiscalizacao-do-abastecimento-de-combustiveis",
+   "unit": "art-03",
+   "line": "Multa - de R$ 50.000,00 (cinqüenta mil reais) a R$ 1.000.000,00 (um milhão de reais);",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm",
+   "unit": "art-35",
+   "line": "............................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-10180-de-2001",
+   "unit": "titulos",
+   "line": "DA ORGANIZAÇÃO E DAS COMPETÊNCIAS",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-da-organizacao-da-presidencia-e-dos-ministerios",
+   "unit": "art-64",
+   "line": ".........................................................................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-da-organizacao-da-presidencia-e-dos-ministerios",
+   "unit": "art-68",
+   "line": ".........................................................................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "estatuto-da-pessoa-idosa",
+   "unit": "art-110",
+   "line": "............................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "estatuto-da-pessoa-idosa",
+   "unit": "art-110",
+   "line": ".............................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "lei-das-sociedades-por-acoes",
+   "unit": "titulos",
+   "line": "Forma, Propriedade, Circulação e Ônus",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-das-sociedades-por-acoes",
+   "unit": "titulos",
+   "line": "Transformação, Incorporação, Fusão e Cisão",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-maria-da-penha",
+   "unit": "titulos",
+   "line": "DA ASSISTÊNCIA À MULHER EM SITUAÇÃO DE VIOLÊNCIA DOMÉSTICA E FAMILIAR",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-de-responsabilidade-fiscal",
+   "unit": "art-20",
+   "line": "b) 6% (seis por cento) para o Judiciário;",
+   "why": "art. 20: incisos I and II give the Judiciary the same share"
+  },
+  {
+   "act": "lei-dos-crimes-hediondos",
+   "unit": "art-06",
+   "line": "Pena - reclusão, de dez a quinze anos.",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-dos-crimes-hediondos",
+   "unit": "art-06",
+   "line": "Pena - reclusão, de seis a dez anos.",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "lei-da-propriedade-industrial",
+   "unit": "titulos",
+   "line": "Do Processo Administrativo de Nulidade",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "lei-da-propriedade-industrial",
+   "unit": "titulos",
+   "line": "Do Processo e do Exame do Pedido",
+   "why": "the act gives the same name to headings in different parts (or prints one heading over two lines)"
+  },
+  {
+   "act": "estatuto-da-pessoa-com-deficiencia",
+   "unit": "art-114",
+   "line": "....................................................................................\" (NR)",
+   "why": "a quoted amendment prints the same elision line after several articles it changes"
+  },
+  {
+   "act": "codigo-de-transito-brasileiro",
+   "unit": "art-162",
+   "line": "Penalidade - multa (três vezes) e apreensão do veículo;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "codigo-de-transito-brasileiro",
+   "unit": "art-181",
+   "line": "Medida administrativa - remoção do veículo;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "codigo-de-transito-brasileiro",
+   "unit": "art-218",
+   "line": "Penalidade - multa (três vezes) e suspensão do direito de dirigir;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "codigo-de-transito-brasileiro",
+   "unit": "art-230",
+   "line": "Penalidade - multa e apreensão do veículo;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "codigo-de-transito-brasileiro",
+   "unit": "art-231",
+   "line": "Medida administrativa - retenção do veículo para regularização;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "codigo-de-transito-brasileiro",
+   "unit": "art-061",
+   "line": "2. 90 km/h (noventa quilômetros por hora) para os demais veículos;",
+   "why": "art. 61: the limits for two kinds of road include the same item"
+  },
+  {
+   "act": "codigo-de-transito-brasileiro",
+   "unit": "art-162",
+   "line": "Medida administrativa - retenção do veículo até a apresentação de condutor habilitado;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "codigo-de-transito-brasileiro",
+   "unit": "art-162",
+   "line": "Penalidade - multa (três vezes);",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "codigo-de-transito-brasileiro",
+   "unit": "art-181",
+   "line": "Medida administrativa - remoção do veículo.",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "codigo-de-transito-brasileiro",
+   "unit": "art-230",
+   "line": "Medida administrativa - remoção do veículo;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "codigo-de-transito-brasileiro",
+   "unit": "art-231",
+   "line": "Medida administrativa - remoção do veículo;",
+   "why": "the same penalty or measure follows several items"
+  },
+  {
+   "act": "codigo-florestal",
+   "unit": "art-61-a",
+   "line": "I - 5 (cinco) metros, para imóveis rurais com área de até 1 (um) módulo fiscal;.",
+   "why": "art. 61-A: §§ 5º and 6º give the same width for the smallest holdings"
+  },
+  {
+   "act": "lei-de-registros-publicos",
+   "unit": "art-123",
+   "line": "a) nome, nacionalidade, idade e residência do gerente e do proprietário, se pessoa natural;",
+   "why": "art. 123: two incisos list the same alínea a)"
+  },
+  {
+   "act": "lei-de-registros-publicos",
+   "unit": "art-176",
+   "line": "b) tratando-se de pessoa jurídica, a sede social e o número de inscrição no Cadastro Geral de Contribuintes do Ministério da Fazenda;",
+   "why": "art. 176: two items list the same alínea b)"
+  }
+ ]
+}
