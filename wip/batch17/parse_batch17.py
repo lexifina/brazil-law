@@ -2599,8 +2599,28 @@ def _inner(*a):
                    "subseqüente ao de publicação desta Lei; VI - aos demais artigos, a partir da data da publicação desta Lei'; "
                    "DOU 30.12.2003): arts. 1 to 15, 25 to 27, 29, 30, 34 and 52 start on 1.2.2004, arts. 49 to 51 and 53 to 58 "
                    "on 1.4.2004, the other articles on 30.12.2003" + (
-                       "; changes made to those articles before their day start on that day (" + "; ".join(dict.fromkeys(G10833_USED))
-                       + ")" if G10833_USED else "") + ".")
+                       "; changes made to those articles before their day start on that day (" + "; ".join(
+                           dict.fromkeys(x for x in G10833_USED if not x.startswith("art-58-"))) + ")"
+                       if any(not x.startswith("art-58-") for x in G10833_USED) else "") + ".")
+        bev = list(dict.fromkeys(x.split()[0] for x in G10833_USED if x.startswith("art-58-")))
+        if bev:
+            dec.append("Lei 10.833 arts. 58-A to 58-V (special regime for water, soft drinks and beer): Lei 11.727/2008 (DOU "
+                       "24.6.2008) art. 32 added arts. 58-A to 58-U; its art. 41 ('Esta Lei entra em vigor na data de sua "
+                       "publicação, produzindo efeitos em relação: [...] VII - aos arts. 32 a 39, a partir de 1º de janeiro de "
+                       "2009', VII as Medida Provisória 436/2008 and Lei 11.827/2008 worded it) gives them effect from 1.1.2009, "
+                       "and Medida Provisória 451/2008 art. 10 added art. 58-V to the same regime. The articles start on "
+                       "1.1.2009; wordings Medida Provisória 436 and Lei 11.827 gave them before that day start on it, and "
+                       "wordings replaced before it never show (" + ", ".join(bev) + ").")
+    if REV2009_USED:
+        dec.append("Lei 10.833 arts. 49, 50, 52, 55, 57 and 58: Lei 11.727/2008 art. 42 ('Ficam revogados: [...] IV - a partir de "
+                   "1º de janeiro de 2009: a) os arts. 49, 50, 52, 55, 57 e 58 da Lei nº 10.833, de 29 de dezembro de 2003, não "
+                   "havendo, após essa data, outra forma de tributação além dos 2 (dois) regimes previstos nos arts. 58-A a 58-U "
+                   "[...]', IV as Lei 11.827/2008 worded it, read on Lei 11.727's page) revokes them from 1.1.2009. Planalto "
+                   "prints them unstruck, with only a 'Vide Lei nº 11.727, de 2008' pointer; the law's text governs, so they "
+                   "end on 1.1.2009, credited to Lei 11.727 (" + ", ".join(dict.fromkeys(REV2009_USED)) + "). Art. 58 caput "
+                   "incisos I and II, which Planalto prints struck with no note: Lei 11.051/2004 art. 25 rewrote only § 1º of "
+                   "art. 58 (the caput and its incisos are dotted lines in its text), so they stand until 1.1.2009 with the "
+                   "article.")
     if EFX_FIXED:
         dec.append("Lei 10.833: Planalto's annotated page prints 'efeito' where the Lei says 'efeitos' (for example art. 23 'gases "
                    "liquefeito de petróleo', art. 93 'produzindo efeito', art. 94 VI 'dos efeito desta Lei'); Planalto's "
