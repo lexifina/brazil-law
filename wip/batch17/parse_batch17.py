@@ -858,6 +858,35 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         "eleitorais e dá outras providências.", "1982-06-07", "1982-06-08", PAGES["l6996"]),
     "lei-9870-1999": _L("Lei nº 9.870, de 1999", "Dispõe sobre o valor total das anuidades escolares e dá outras providências.",
                         "1999-11-23", "1999-11-24", PAGES["l9870"]),
+    "lei-13005-2014": _L("Lei nº 13.005, de 2014", "Aprova o Plano Nacional de Educação - PNE e dá outras providências.",
+                         "2014-06-25", "2014-06-26", PAGES["l13005"]),
+    "lei-12379-2011": _L("Lei nº 12.379, de 2011", "Dispõe sobre o Sistema Nacional de Viação - SNV; altera a Lei nº 9.432, de 8 de "
+                         "janeiro de 1997; revoga as Leis nºs 5.917, de 10 de setembro de 1973, 6.346, de 6 de julho de 1976, 6.504, "
+                         "de 13 de dezembro de 1977, 6.555, de 22 de agosto de 1978, 6.574, de 30 de setembro de 1978, 6.630, de 16 de "
+                         "abril de 1979, 6.648, de 16 de maio de 1979, 6.671, de 4 de julho de 1979, 6.776, de 30 de abril de 1980, "
+                         "6.933, de 13 de julho de 1980, 6.976, de 14 de dezembro de 1980, 7.003, de 24 de junho de 1982, 7.436, de 20 "
+                         "de dezembro de 1985, 7.581, de 24 de dezembro de 1986, 9.060, de 14 de junho de 1995, 9.078, de 11 de julho "
+                         "de 1995, 9.830, de 2 de setembro de 1999, 9.852, de 27 de outubro de 1999, 10.030, de 20 de outubro de 2000, "
+                         "10.031, de 20 de outubro de 2000, 10.540, de 1º de outubro de 2002, 10.606, de 19 de dezembro de 2002, "
+                         "10.680, de 23 de maio de 2003, 10.739, de 24 de setembro de 2003, 10.789, de 28 de novembro de 2003, 10.960, "
+                         "de 7 de outubro de 2004, 11.003, de 16 de dezembro de 2004, 11.122, de 31 de maio de 2005, 11.475, de 29 de "
+                         "maio de 2007, 11.550, de 19 de novembro de 2007, 11.701, de 18 de junho de 2008, 11.729, de 24 de junho de "
+                         "2008, e 11.731, de 24 de junho de 2008; revoga dispositivos das Leis nºs 6.261, de 14 de novembro de 1975, "
+                         "6.406, de 21 de março de 1977, 11.297, de 9 de maio de 2006, 11.314, de 3 de julho de 2006, 11.482, de 31 de "
+                         "maio de 2007, 11.518, de 5 de setembro de 2007, e 11.772, de 17 de setembro de 2008; e dá outras "
+                         "providências.", "2011-01-06", "2011-01-07", PAGES["l12379"]),
+    "lei-6437-1977": _L("Lei nº 6.437, de 1977", "Configura infrações à legislação sanitária federal, estabelece as sanções "
+                        "respectivas, e dá outras providências.", "1977-08-20", "1977-08-24", PAGES["l6437"]),
+    # LC 159 and LC 178: the same entries as 99-batch7's (title and URL), so the merged commit messages do not change
+    "lc-159-2017": _L("Lei Complementar nº 159, de 2017", "Institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal "
+                      "e altera as Leis Complementares n o 101, de 4 de maio de 2000, e n o 156, de 28 de dezembro de 2016.",
+                      "2017-05-19", "2017-05-22", "leis/lcp/Lcp159.htm"),
+    "lc-178-2021": _L("Lei Complementar nº 178, de 2021", "Estabelece o Programa de Acompanhamento e Transparência Fiscal e o Plano "
+                      "de Promoção do Equilíbrio Fiscal; altera a Lei Complementar nº 101, de 4 de maio de 2000, a Lei Complementar nº "
+                      "156, de 28 de dezembro de 2016, a Lei Complementar nº 159, de 19 de maio de 2017, a Lei Complementar nº 173, de "
+                      "27 de maio de 2020, a Lei nº 9.496, de 11 de setembro de 1997, a Lei nº 12.348, de 15 de dezembro de 2010, a Lei "
+                      "nº 12.649, de 17 de maio de 2012, e a Medida Provisória nº 2.185-35, de 24 de agosto de 2001; e dá outras "
+                      "providências.", "2021-01-13", "2021-01-14", "leis/lcp/Lcp178.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
