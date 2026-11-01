@@ -3582,6 +3582,8 @@ if any(a["slug"] == _LFUNDEB for a in ACTS):
                       "President promulgated it on 24.3.2022 (DOU 25.3.2022, printed on Lei 14.276's page as 'Promulgação partes "
                       "vetadas'). A promulgated part is law only from its publication: § 9º takes effect on 25.3.2022 (Planalto "
                       "prints no '(VETADO)' line for it, so it is absent before)")
+    EXTRA.append("Lei 14.113 art. 21 § 9º: " + P.VIGENCIA_PROVISION[("lei-14276-2021", _LFUNDEB, "art-21")][1]
+                 + "; it is credited to Lei 14.276/2021 on 25.3.2022.")
 B13.OPEN_ITEMS[_LC141] = (
     "Lei Complementar 141 (open items): Lei Complementar 227/2026's new wordings of arts. 6 and 7 and art. 3 X (the IBS share) "
     "take effect on its publication (its art. 182 III; DOU 14.1.2026, republished 15.1.2026 and rectified 23.1.2026: dated by the "
