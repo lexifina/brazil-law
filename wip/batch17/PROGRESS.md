@@ -1320,3 +1320,39 @@ re-check; Lei 13.979/2020 (end of the act set by STF ADI 6625 and other rulings,
 DATED RE-CHECKS: MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once archive.org has a
 capture of _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026 (none on 1.11.2026).
 Coordinator's list is done (built or left out with reasons). Next: whatever the coordinator names.
+
+## Twenty-second session (2026-11-01): fresh ranked list, parts zze, zzf, zzg, ...
+robots.txt read at start (archive.org: Disallow /control/ /report/ only; web.archive.org 404). Fetching: archive.org only, through
+the shared client (iaonly.py pages/laws/missing). Scratch: .gitlaw-scratch/brazil-b22 (trial parses, cfg1.py, lawfind.py <law key>...
+= every installed part's record of a law). Per-part pipeline: pipe.sh (scratch brazil-b17 as before).
+Fresh ranked list (installed slugs and titles checked; path = local CC index file, read from disk, no request):
+ 1 LC 109/2001 previdência complementar [zze]          2 LC 108/2001 previdência complementar pública [zze]
+ 3 LC 140/2011 cooperação ambiental [zzf]               4 Lei 9.709/1998 plebiscito/referendo [zzf]
+ 5 LC 179/2021 autonomia do BC [zzg]                    6 Lei 14.286/2021 mercado de câmbio [zzg]
+ 7 Decreto-Lei 200/1967 organização da Administração Federal (Decreto-Lei/Del0200.htm)
+ 8 LC 80/1994 Defensoria Pública (leis/lcp/lcp80.htm)   9 LC 75/1993 Estatuto do MPU (leis/lcp/lcp75.htm)
+10 Lei 12.351/2010 pré-sal/partilha (_ato2007-2010/2010/lei/l12351.htm)   11 Lei 14.134/2021 Lei do Gás (_ato2019-2022/2021/lei/l14134.htm)
+12 Lei 8.625/1993 LONMP (leis/l8625.htm)   13 Lei 14.129/2021 Governo Digital   14 Lei 12.813/2013 conflito de interesses
+15 Lei 12.865/2013 arranjos de pagamento   16 Lei 8.437/1992 + Lei 9.494/1997 (tutela contra o Poder Público)
+17 Lei 12.618/2012 Funpresp   18 Lei 14.601/2023 Bolsa Família   19 Lei 10.848/2004 comercialização de energia (no path in the
+local index: cdxlist leis/2004/l10.848.htm first)   20 environment: Lei 9.966/2000 (óleo), Lei 7.661/1988 (costeiro), Lei 11.959/2009
+(pesca), Lei 5.197/1967 (fauna), Lei 7.735/1989 (Ibama), Lei 11.516/2007 (ICMBio)   21 energy: Lei 14.300/2022, Lei 10.438/2002,
+Lei 9.991/2000, Lei 9.847/1999   22 banking: LC 130/2009, Lei 10.214/2001, Lei 13.506/2017, Lei 8.929/1994 (CPR), Lei 13.775/2018
+23 public administration: Lei 8.159/1991, Lei 9.491/1997, Lei 13.334/2016; LC 35/1979 (LOMAN), Lei 5.010/1966.
+Law records that already exist in other parts must be copied exactly (lc-140-2011 = 99-batch10, lc-179-2021 = 13f,
+lei-14286-2021 = 13f/17g): done for zzf/zzg (url 'leis/LCP/Lcp140.htm' etc.).
+
+### 99-batch17zze - PUBLISHed: LC 109/2001 (lei-da-previdencia-complementar, LC109, 2 versions) + LC 108/2001
+(lei-da-previdencia-complementar-do-setor-publico, LC108, 1). VIGENCIA_FIXED lc-213-2025 = 16.1.2025 (art. 13 III; its art. 6 =
+LC 109 art. 38 III), scoped. Parse sha 85734907 x2, 0 moves, all checks 0; merged 231 acts, 3445 versions, 2517 commits, check 0/0,
+compare identical, audit clean. headyear unchanged (t22-hy.log). rows-zze.json docs.
+### 99-batch17zzf - PUBLISHed: LC 140/2011 (lei-da-cooperacao-ambiental, 1 version) + Lei 9.709/1998
+(lei-do-plebiscito-e-do-referendo, 1). No notes on either page. sha d611ee6d, 0 moves; leakcheck 3/quotecheck 5 = LC 140 art. 20's
+quoted Lei 6.938 text. Merged 233 acts, 3447 versions, 2519 commits, check 0/0, compare identical, audit clean.
+### 99-batch17zzg - PUBLISHed: LC 179/2021 (lei-da-autonomia-do-banco-central, 1) + Lei 14.286/2021 (lei-do-mercado-de-cambio,
+3 versions 2022-12-30 .. 2024-01-01; in force one year after DOU 30.12.2021 = 30.12.2022, as Lei 13.431's same clause).
+Hand (_LCAMBIO, scoped): VIGENCIA_FIXED lei-14596-2023 1.1.2024 (art. 46 XI revokes art. 24 'na parte em que altera o art. 50 da
+Lei 8.383'); SPAN_FIX art-24 'Parágrafo único. (Revogado).' (struck on the page with the caput; the reader had skipped it as
+undated) -> skip False, ends 1.1.2024; EXPLAINED art-25 (_DOTTED). sha 778e93d9, 0 moves; leak 6/quote 15 = quoted amendments.
+Merged 235 acts, 3451 versions, 2521 commits, check 0/0, compare identical, audit clean. PIDs: printed in t22-*.log, zz[efg]-*.log,
+all mine, all exited.

@@ -200,6 +200,11 @@ PAGES.update({
     "l9709": "leis/l9709.htm",
     "lcp179": "leis/lcp/lcp179.htm",
     "l14286": "_ato2019-2022/2021/lei/l14286.htm",
+    "l12351": "_ato2007-2010/2010/lei/l12351.htm",
+    "l14134": "_ato2019-2022/2021/lei/l14134.htm",
+    "del0200": "decreto-lei/del0200.htm",
+    "lcp80": "leis/lcp/lcp80.htm",
+    "lcp75": "leis/lcp/lcp75.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -423,6 +428,25 @@ ALL_ACTS: list[dict] = [
          "Fundeb 2007-2020 (Lei nº 11.494, de 20 de junho de 2007)", 2),
     _act("lei-do-fundef", "Fundef", "l9424", "l9424", "lei-9424-1996",
          "Fundef e salário-educação (Lei nº 9.424, de 24 de dezembro de 1996)", 2),
+    # twenty-second session
+    _act("lei-da-previdencia-complementar", "LC109", "lcp109", "lcp109", "lc-109-2001",
+         "Lei da Previdência Complementar (Lei Complementar nº 109, de 29 de maio de 2001)", 2),
+    _act("lei-da-previdencia-complementar-do-setor-publico", "LC108", "lcp108", "lcp108", "lc-108-2001",
+         "Previdência complementar patrocinada pelo setor público (Lei Complementar nº 108, de 29 de maio de 2001)", 2),
+    _act("lei-da-cooperacao-ambiental", "LC140", "lcp140", "lcp140", "lc-140-2011",
+         "Cooperação federativa em matéria ambiental (Lei Complementar nº 140, de 8 de dezembro de 2011)", 2),
+    _act("lei-do-plebiscito-e-do-referendo", "LPR", "l9709", "l9709", "lei-9709-1998",
+         "Plebiscito, referendo e iniciativa popular (Lei nº 9.709, de 18 de novembro de 1998)", 2),
+    _act("lei-da-autonomia-do-banco-central", "LC179", "lcp179", "lcp179", "lc-179-2021",
+         "Autonomia do Banco Central do Brasil (Lei Complementar nº 179, de 24 de fevereiro de 2021)", 2),
+    _act("lei-do-mercado-de-cambio", "LCambio", "l14286", "l14286", "lei-14286-2021",
+         "Lei do Mercado de Câmbio (Lei nº 14.286, de 29 de dezembro de 2021)", 2),
+    _act("lei-do-gas", "LGas", "l14134", "l14134", "lei-14134-2021",
+         "Lei do Gás (Lei nº 14.134, de 8 de abril de 2021)", 2),
+    _act("estatuto-do-ministerio-publico-da-uniao", "LOMPU", "lcp75", "lcp75", "lc-75-1993",
+         "Estatuto do Ministério Público da União (Lei Complementar nº 75, de 20 de maio de 1993)", 2),
+    _act("lei-organica-da-defensoria-publica", "LODP", "lcp80", "lcp80", "lc-80-1994",
+         "Lei Orgânica da Defensoria Pública (Lei Complementar nº 80, de 12 de janeiro de 1994)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -487,6 +511,12 @@ PARTS: dict[str, list[str]] = {
     "zzb": ["lei-da-vigilancia-sanitaria-de-medicamentos"],
     "zzc": ["lei-do-fundeb-de-2007"],
     "zzd": ["lei-do-fundef"],
+    # twenty-second session (fresh ranked list)
+    "zze": ["lei-da-previdencia-complementar", "lei-da-previdencia-complementar-do-setor-publico"],
+    "zzf": ["lei-da-cooperacao-ambiental", "lei-do-plebiscito-e-do-referendo"],
+    "zzg": ["lei-da-autonomia-do-banco-central", "lei-do-mercado-de-cambio"],
+    "zzh": ["lei-do-gas", "estatuto-do-ministerio-publico-da-uniao"],
+    "zzi": ["lei-organica-da-defensoria-publica"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -504,6 +534,8 @@ _T14785 = ("Dispõe sobre a pesquisa, a experimentação, a produção, a embala
            "classificação, o controle, a inspeção e a fiscalização de agrotóxicos, de produtos de controle ambiental, de seus "
            "produtos técnicos e afins; revoga as Leis nºs 7.802, de 11 de julho de 1989, e 9.974, de 6 de junho de 2000, e partes "
            "de anexos das Leis nºs 6.938, de 31 de agosto de 1981, e 9.782, de 26 de janeiro de 1999.")
+# Lei 14.286/2021's ementa: as 99-batch13f and 99-batch17g have the law record
+_T14286 = 'Dispõe sobre o mercado de câmbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no País e a prestação de informações ao Banco Central do Brasil; altera as Leis n os 4.131, de 3 de setembro de 1962, 4.728, de 14 de julho de 1965, 8.383, de 30 de dezembro de 1991, 10.192, de 14 de fevereiro de 2001, e 11.371, de 28 de novembro de 2006, e o Decreto nº 23.258, de 19 de outubro de 1933; e revoga as Leis n os 156, de 27 de novembro de 1947, 1.383, de 13 de junho de 1951, 1.807, de 7 de janeiro de 1953, 2.145, de 29 de dezembro de 1953, 2.698, de 27 de dezembro de 1955, 4.390, de 29 de agosto de 1964, 5.331, de 11 de outubro de 1967, 9.813, de 23 de agosto de 1999, e 13.017, de 21 de julho de 2014, os Decretos-Leis n os 1.201, de 8 de abril de 1939, 9.025, de 27 de fevereiro de 1946, 9.602, de 16 de agosto de 1946, 9.863, de 13 de setembro de 1946, e 857, de 11 de setembro de 1969, a Medida Provisória nº 2.224, de 4 de setembro de 2001, e dispositivos das Leis n os 4.182, de 13 de novembro de 1920, 3.244, de 14 de agosto de 1957, 4.595, de 31 de dezembro de 1964, 5.409, de 9 de abril de 1968, 6.099, de 12 de setembro de 1974, 7.738, de 9 de março de 1989, 8.021, de 12 de abril de 1990, 8.880, de 27 de maio de 1994, 9.069, de 29 de junho de 1995, 9.529, de 10 de dezembro de 1997, 11.803, de 5 de novembro de 2008, 12.865, de 9 de outubro de 2013, 13.292, de 31 de maio de 2016, e 13.506, de 13 de novembro de 2017, e dos Decretos-Leis n os 2.440, de 23 de julho de 1940, 1.060, de 21 de outubro de 1969, 1.986, de 28 de dezembro de 1982, e 2.285, de 23 de julho de 1986.'
 ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-5889-1973": ("1973-06-11", f"Lei 5.889/1973 art. 21: {_PUB} (DOU 11.6.1973, rectified 30.10.1973)"),
     "lei-4090-1962": ("1962-07-26", f"Lei 4.090/1962 art. 4: {_PUB2} (DOU 26.7.1962)"),
@@ -674,6 +706,23 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-11494-2007": ("2007-06-21", "Lei 11.494/2007 art. 49: 'Esta Lei entra em vigor na data da sua publicação' (DOU "
                                      "21.6.2007, rectified 22.6.2007)"),
     "lei-9424-1996": ("1997-01-01", "Lei 9.424/1996 art. 16: 'Esta Lei entra em vigor em 1º de janeiro de 1997' (DOU 26.12.1996)"),
+    "lc-109-2001": ("2001-05-30", "Lei Complementar 109/2001 art. 78: 'Esta Lei Complementar entra em vigor na data de sua "
+                                  "publicação' (DOU 30.5.2001)"),
+    "lc-108-2001": ("2001-05-30", "Lei Complementar 108/2001 art. 31: 'Esta Lei Complementar entra em vigor na data de sua "
+                                  "publicação' (DOU 30.5.2001)"),
+    "lc-140-2011": ("2011-12-09", "Lei Complementar 140/2011 art. 22: 'Esta Lei Complementar entra em vigor na data de sua "
+                                  "publicação' (DOU 9.12.2011, rectified 12.12.2011)"),
+    "lei-9709-1998": ("1998-11-19", f"Lei 9.709/1998 art. 15: {_PUB} (DOU 19.11.1998)"),
+    "lc-179-2021": ("2021-02-25", "Lei Complementar 179/2021 art. 14: 'Esta Lei Complementar entra em vigor na data de sua "
+                                  "publicação' (DOU 25.2.2021)"),
+    "lei-14286-2021": ("2022-12-30", "Lei 14.286/2021 art. 29: 'Esta Lei entra em vigor após decorrido 1 (um) ano de sua "
+                                     "publicação oficial' (DOU 30.12.2021): one year after publication, 30.12.2022 (as Lei "
+                                     "13.431/2017, same clause)"),
+    "lei-14134-2021": ("2021-04-09", f"Lei 14.134/2021 art. 49: {_PUB} (DOU 9.4.2021)"),
+    "lc-75-1993": ("1993-05-21", "Lei Complementar 75/1993 art. 294: 'Esta lei complementar entra em vigor na data de sua "
+                                 "publicação' (DOU 21.5.1993)"),
+    "lc-80-1994": ("1994-01-13", "Lei Complementar 80/1994 art. 148: 'Esta Lei Complementar entra em vigor na data de sua "
+                                 "publicação' (DOU 13.1.1994)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1016,6 +1065,37 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-9424-1996": _L("Lei nº 9.424, de 1996", "Dispõe sobre o Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de "
                         "Valorização do Magistério, na forma prevista no art. 60, § 7º, do Ato das Disposições Constitucionais "
                         "Transitórias, e dá outras providências.", "1996-12-24", "1996-12-26", PAGES["l9424"]),
+    "lc-109-2001": _L("Lei Complementar nº 109, de 2001", "Dispõe sobre o Regime de Previdência Complementar e dá outras "
+                      "providências.", "2001-05-29", "2001-05-30", PAGES["lcp109"]),
+    "lc-108-2001": _L("Lei Complementar nº 108, de 2001", "Dispõe sobre a relação entre a União, os Estados, o Distrito Federal e "
+                      "os Municípios, suas autarquias, fundações, sociedades de economia mista e outras entidades públicas e "
+                      "suas respectivas entidades fechadas de previdência complementar, e dá outras providências.",
+                      "2001-05-29", "2001-05-30", PAGES["lcp108"]),
+    # the three below: records as earlier parts have them (99-batch10, 99-batch13f, 99-batch17g), so merged messages stay
+    "lc-140-2011": _L("Lei Complementar nº 140, de 2011", "Fixa normas, nos termos dos incisos III, VI e VII do caput e do "
+                      "parágrafo único do art. 23 da Constituição Federal, para a cooperação entre a União, os Estados, o "
+                      "Distrito Federal e os Municípios nas ações administrativas decorrentes do exercício da competência comum "
+                      "relativas à proteção das paisagens naturais notáveis, à proteção do meio ambiente, ao combate à poluição "
+                      "em qualquer de suas formas e à preservação das florestas, da fauna e da flora; e altera a Lei n o 6.938, "
+                      "de 31 de agosto de 1981.", "2011-12-08", "2011-12-09", "leis/LCP/Lcp140.htm"),
+    "lei-9709-1998": _L("Lei nº 9.709, de 1998", "Regulamenta a execução do disposto nos incisos I, II e III do art. 14 da "
+                        "Constituição Federal.", "1998-11-18", "1998-11-19", PAGES["l9709"]),
+    "lc-179-2021": _L("Lei Complementar nº 179, de 2021", "Define os objetivos do Banco Central do Brasil e dispõe sobre sua "
+                      "autonomia e sobre a nomeação e a exoneração de seu Presidente e de seus Diretores; e altera artigo da Lei "
+                      "nº 4.595, de 31 de dezembro de 1964.", "2021-02-24", "2021-02-25", "leis/LCP/Lcp179.htm"),
+    "lei-14286-2021": _L("Lei nº 14.286, de 2021", _T14286, "2021-12-29", "2021-12-30", "_Ato2019-2022/2021/Lei/L14286.htm"),
+    # as 99-batch10 has the record
+    "lei-14134-2021": _L("Lei nº 14.134, de 2021", "Dispõe sobre as atividades relativas ao transporte de gás natural, de que "
+                         "trata o art. 177 da Constituição Federal, e sobre as atividades de escoamento, tratamento, "
+                         "processamento, estocagem subterrânea, acondicionamento, liquefação, regaseificação e comercialização de "
+                         "gás natural; altera as Leis nºs 9.478, de 6 de agosto de 1997, e 9.847, de 26 de outubro de 1999; e "
+                         "revoga a Lei nº 11.909, de 4 de março de 2009, e dispositivo da Lei nº 10.438, de 26 de abril de 2002.",
+                         "2021-04-08", "2021-04-09", "_Ato2019-2022/2021/Lei/L14134.htm"),
+    "lc-75-1993": _L("Lei Complementar nº 75, de 1993", "Dispõe sobre a organização, as atribuições e o estatuto do Ministério "
+                     "Público da União.", "1993-05-20", "1993-05-21", PAGES["lcp75"]),
+    "lc-80-1994": _L("Lei Complementar nº 80, de 1994", "Organiza a Defensoria Pública da União, do Distrito Federal e dos "
+                     "Territórios e prescreve normas gerais para sua organização nos Estados, e dá outras providências.",
+                     "1994-01-12", "1994-01-13", PAGES["lcp80"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -4722,6 +4802,80 @@ B13.OPEN_ITEMS[_LFUNDEF] = (
     "Lei 9.424 (open items): 'Vide' pointers (ADI 1.627 at art. 9 and art. 10 II, ADPF 188 at art. 15, Decretos 5.299/2004 "
     "and 5.374/2005, Medida Provisória 339/2006 beside lines it did not revoke) strike no words and are not modelled; the "
     "regulations strike no words")
+
+# part zze: Leis Complementares 109/2001 and 108/2001 (previdência complementar). Hand items set only when the act runs.
+_LC109 = "lei-da-previdencia-complementar"
+if any(a["slug"] == _LC109 for a in ACTS):
+    P.VIGENCIA_FIXED["lc-213-2025"] = (
+        "2025-01-16", "art. 13: 'Esta Lei Complementar entra em vigor: I - quanto ao art. 3º, na parte em que altera o Capítulo X "
+                      "do Decreto-Lei nº 73 [...], após decorrido 1 (um) ano [...]; II - quanto ao art. 3º, na parte em que acresce "
+                      "o § 4º ao art. 88-E do Decreto-Lei nº 73 [...], após decorridos 4 (quatro) anos [...]; III - quanto aos "
+                      "demais dispositivos, na data de sua publicação' (DOU 16.1.2025): its art. 6, which gives Lei Complementar "
+                      "109 art. 38 III its wording, falls under III, in force on 16.1.2025")
+B13.OPEN_ITEMS[_LC109] = (
+    "Lei Complementar 109 (open items): 'Vide' pointers (Decreto 7.123/2010) and the regulations strike no words and are not "
+    "modelled")
+
+# part zzg: Lei Complementar 179/2021 and Lei 14.286/2021 (mercado de câmbio). Hand items set only when the act runs.
+_LCAMBIO = "lei-do-mercado-de-cambio"
+_W24C = ("Lei 14.286 art. 24 (which gave Lei 8.383 art. 50 a new caput and revoked its parágrafo único): Lei 14.596/2023 art. "
+         "46 XI revokes 'a partir de 1º de janeiro de 2024 [...] art. 24 da Lei nº 14.286, de 29 de dezembro de 2021, na parte em "
+         "que altera o art. 50 da Lei nº 8.383' (art. 47: in force 1.1.2024; read on its page). Planalto strikes both quoted "
+         "lines (the caput noted 'Revogado pela Lei nº 14.596, de 2023', the 'Parágrafo único. (Revogado).\" (NR)' line struck "
+         "with it); both end on 1.1.2024, credited to Lei 14.596. Medida Provisória 1.152/2022 (DOU 29.12.2022), whose art. 47 XI "
+         "made the same revocation from 1.1.2024 (art. 48), was converted into Lei 14.596 (DOU 15.6.2023) before that day; "
+         "Planalto names it in a 'Vide' pointer only. Art. 24's opening words stay, as Planalto prints them")
+if any(a["slug"] == _LCAMBIO for a in ACTS):
+    P.VIGENCIA_FIXED["lei-14596-2023"] = (
+        "2024-01-01", "art. 47: 'Esta Lei entra em vigor em 1º de janeiro de 2024, exceto o art. 45, que entra em vigor na data de "
+                      "sua publicação' (DOU 15.6.2023): its art. 46 XI (Lei 14.286 art. 24, in the part that amends Lei 8.383 "
+                      "art. 50) from 1.1.2024")
+B8.SPAN_FIX += [
+    ((_LCAMBIO, "art-24", "Parágrafo único", "Parágrafo único. (Revogado).", 0),
+     {"skip": False, "end": "2024-01-01", "end_law": "lei-14596-2023", "end_how": "note", "pinned": True}, _W24C),
+]
+B.EXPLAINED[_LCAMBIO] = {"art-25": _DOTTED}
+B13.OPEN_ITEMS[_LCAMBIO] = (
+    "Lei 14.286 (open items): its regulations (Resoluções of the Conselho Monetário Nacional and the Banco Central) strike no "
+    "words and are not modelled")
+
+# part zzh: Lei 14.134/2021 (Lei do Gás) and Lei Complementar 75/1993 (Estatuto do MPU).
+_LGAS = "lei-do-gas"
+L14134_FIXED: list[str] = []
+_paragraphsGAS = P.paragraphs
+
+
+def paragraphs(html, digits):
+    out, rest = _paragraphsGAS(html, digits)
+    if B8.CURRENT_PAGE[0] == "l14134":
+        # Lei 14.134 art. 46 quotes Lei 9.478 arts. 2, 8, 8-A, 23 and 58; the first quoted line 'Art. 2º ......' has no opening
+        # quotation mark, so the reader files it and the quoted lines after it under Lei 14.134's own art. 2: they belong to
+        # art. 46 (lines after art. 46's caput and before art. 47)
+        seen46 = seen47 = False
+        for p in out:
+            if p["unit"] == "art-46":
+                seen46 = True
+            elif p["unit"] == "art-47":
+                seen47 = True
+            elif p["unit"] == "art-02" and seen46 and not seen47 and not p["heading"]:
+                p["unit"] = "art-46"
+                if p["label"].startswith("Art"):
+                    p["label"] = ""
+                L14134_FIXED.append(P.norm(p["text"])[:40])
+    return out, rest
+
+
+P.paragraphs = B.paragraphs = paragraphs
+if any(a["slug"] == _LGAS for a in ACTS):
+    EXTRA.append("Lei 14.134: art. 46 quotes Lei 9.478 arts. 2, 8, 8-A, 23 and 58; Planalto prints the first quoted line "
+                 "('Art. 2º ......') with no opening quotation mark, and the quoted lines are read as lines of art. 46, not as "
+                 "Lei 14.134's own art. 2.")
+B.EXPLAINED[_LGAS] = {"art-46": _DOTTED}
+B13.OPEN_ITEMS[_LGAS] = (
+    "Lei 14.134 (open items): its regulations (Decreto 10.712/2021, ANP resolutions) strike no words and are not modelled")
+B13.OPEN_ITEMS["estatuto-do-ministerio-publico-da-uniao"] = (
+    "Lei Complementar 75 (open items): Planalto's page (capture of 11.10.2026) carries no amendment note, so the history is the "
+    "text as enacted; 'Mensagem de veto' (the vetoed parts) and the regulations strike no words")
 
 P.build_act = B.build_act = build_act
 
