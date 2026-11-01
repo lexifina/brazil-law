@@ -4506,6 +4506,44 @@ B13.OPEN_ITEMS[_LAG23] = (
     "Lei 14.785 (open items): the regulations strike no words and are not modelled; its art. 65's repeal of parts of the "
     "Anexos of Leis 6.938/1981 and 9.782/1999 concerns those laws, not this one")
 
+# part zza: Lei 10.820/2003 (crédito consignado). Hand days set only when the act runs.
+_LCONS = "lei-do-credito-consignado"
+_W656C = ("Lei 10.820 arts. 1 to 5: Medida Provisória 656/2014 (DOU 8.10.2014) changed them in its art. 9, in force 'trinta dias "
+          "após a sua publicação em relação aos arts. 9º a 17' (art. 55 II): from 7.11.2014, as for Lei 11.977 art. 41 in part m; "
+          "Lei 13.097/2015 art. 52, its conversion, falls under art. 168 V (on publication, DOU 20.1.2015)")
+if any(a["slug"] == _LCONS for a in ACTS):
+    B7.CONVERTED_FIX["mp-719-2016"] = ("lei-13313-2016", "the MP page reads 'Convertida na Lei 13.313, de 2016' (no 'nº'); "
+                                                        "Lei nº 13.313, de 14.7.2016")
+    B7.CONVERTED_FIX["mp-1292-2025"] = ("lei-15179-2025", "the MP page captured on 11.6.2026 carries no conversion link; Lei nº "
+                                                         "15.179, de 24.7.2025 (DOU 25.7.2025) is headed 'Conversão da Medida "
+                                                         "Provisória nº 1.292, de 2025'")
+    for _u in ("art-01", "art-02", "art-03", "art-04", "art-05"):
+        P.VIGENCIA_PROVISION[("mp-656-2014", _LCONS, _u)] = ("2014-11-07", _W656C)
+_W4P1 = ("Lei 10.820 art. 4 § 1º: Medida Provisória 656/2014 gave it a new wording (from 7.11.2014); Lei 13.097/2015, its "
+         "conversion (DOU 20.1.2015), vetoed that change ('§ 1º (VETADO)' in its art. 52), so the MP's wording ends on 20.1.2015 "
+         "and the 2003 wording, which Planalto prints a second time with '(Vide Medida Provisória nº 656, de 2014)', is back "
+         "from that day until Medida Provisória 681/2015 (DOU 13.7.2015) rewrote it")
+_W2IV = ("Lei 10.820 art. 2 IV: Planalto prints Medida Provisória 681/2015's wording unstruck above the same words given by Lei "
+         "13.172/2015, its conversion (DOU 22.10.2015); the MP's wording ends on 22.10.2015")
+_W6P7 = ("Lei 10.820 art. 6 § 7º: Planalto prints Lei 14.431/2022's wording unstruck above Lei 14.601/2023's (DOU 20.6.2023, art. "
+         "29, in force on publication, art. 34 II), which rewrote it; Lei 14.431's wording ends on 20.6.2023")
+B8.SPAN_FIX += [
+    ((_LCONS, "art-04", "§ 1º", "§ 1º Poderá o empregador firmar com instituições consignatárias", 0),
+     {"end": "2015-01-20", "end_law": "lei-13097-2015", "end_how": "conversion"}, _W4P1),
+    ((_LCONS, "art-04", "§ 1º", "§ 1º Poderá o empregador, com a anuência", 1),
+     {"start": "2015-01-20", "start_law": "lei-13097-2015", "restored": True,
+      "end": "2015-07-13", "end_law": "mp-681-2015", "end_how": "successor"}, _W4P1),
+    ((_LCONS, "art-02", "IV -", "IV - mutuário, empregado que firma com instituição consignatária contrato de empréstimo, "
+      "financiamento, cartão de crédito", 0),
+     {"end": "2015-10-22", "end_law": "lei-13172-2015", "end_how": "conversion"}, _W2IV),
+    ((_LCONS, "art-06", "§ 7º", "§ 7º Aplica-se o previsto no caput e no § 5º deste artigo também", 0),
+     {"end": "2023-06-20", "end_law": "lei-14601-2023", "end_how": "successor"}, _W6P7),
+]
+B13.OPEN_ITEMS[_LCONS] = (
+    "Lei 10.820 (open items): the text before 18.12.2003 (Medida Provisória 130/2003, of which this Lei is the conversion) is "
+    "not part of the history; 'Vide' pointers (Medidas Provisórias 656/2014, 1.006/2020 and 1.355/2026, Lei 14.131/2021, whose "
+    "temporary margins are that law's own rules) strike no words and are not modelled; the regulations strike no words")
+
 P.build_act = B.build_act = build_act
 
 SRC = HERE / "sources_batch17.json"
