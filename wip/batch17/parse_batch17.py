@@ -488,6 +488,11 @@ ALL_ACTS: list[dict] = [
          "Previdência complementar dos servidores públicos federais - Funpresp (Lei nº 12.618, de 30 de abril de 2012)", 2),
     _act("lei-12865-de-2013", "L12865", "l12865", "l12865", "lei-12865-2013",
          "Arranjos e instituições de pagamento, e outras matérias (Lei nº 12.865, de 9 de outubro de 2013)", 2),
+    # twenty-fifth session
+    _act("lei-da-poluicao-por-oleo", "LOleo", "l9966", "l9966", "lei-9966-2000",
+         "Poluição por óleo e substâncias nocivas em águas sob jurisdição nacional (Lei nº 9.966, de 28 de abril de 2000)", 2),
+    _act("lei-da-pesca", "LPesca", "l11959", "l11959", "lei-11959-2009",
+         "Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca (Lei nº 11.959, de 29 de junho de 2009)", 2),
     _act("lei-da-comercializacao-de-energia-eletrica", "LCEE", "l10848", "l10848", "lei-10848-2004",
          "Comercialização de energia elétrica (Lei nº 10.848, de 15 de março de 2004)", 2),
 ]
@@ -571,6 +576,7 @@ PARTS: dict[str, list[str]] = {
     "zzp": ["lei-da-previdencia-complementar-dos-servidores-federais"],
     "zzq": ["lei-12865-de-2013"],
     "zzr": ["lei-da-comercializacao-de-energia-eletrica"],
+    "zzs": ["lei-da-poluicao-por-oleo", "lei-da-pesca"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -806,6 +812,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                      "subsequente ao de sua publicação, em relação ao disposto no art. 34 desta Lei; II - na data de "
                                      "sua publicação, para os demais dispositivos' (DOU 10.10.2013): art. 34 from 1.2.2014"),
     "lei-10848-2004": ("2004-03-16", f"Lei 10.848/2004 art. 33: {_PUB} (DOU 16.3.2004)"),
+    "lei-9966-2000": ("2000-07-28", "Lei 9.966/2000 art. 34: 'Esta Lei entra em vigor noventa dias da data de sua publicação' (DOU "
+                                    "29.4.2000): 90 days after 29.4.2000, 28.7.2000"),
+    "lei-11959-2009": ("2009-08-29", "Lei 11.959/2009 art. 37: 'Esta Lei entra em vigor após decorridos 60 (sessenta) dias de sua "
+                                     "publicação oficial' (DOU 30.6.2009): 60 days after 30.6.2009, 29.8.2009"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
