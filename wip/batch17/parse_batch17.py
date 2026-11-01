@@ -389,6 +389,8 @@ ALL_ACTS: list[dict] = [
      "center_headings": False},   # chapter name lines are not centred: they were read as rubricas of the next article
     _act("lei-de-protecao-de-cultivares", "LPC", "l9456", "l9456", "lei-9456-1997",
          "Lei de Proteção de Cultivares (Lei nº 9.456, de 25 de abril de 1997)", 2),
+    _act("lei-dos-agrotoxicos-de-1989", "LAgro", "l7802-2023", "l7802-2023", "lei-7802-1989",
+         "Lei dos Agrotóxicos (Lei nº 7.802, de 11 de julho de 1989)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -446,6 +448,7 @@ PARTS: dict[str, list[str]] = {
     "zu": ["lei-do-regime-de-recuperacao-fiscal", "lei-do-plano-de-equilibrio-fiscal"],
     "zv": ["lei-da-pessoa-com-deficiencia-de-1989", "lei-de-protecao-a-testemunhas", "lei-do-sinaes"],
     "zw": ["lei-de-inovacao", "lei-de-protecao-de-cultivares"],
+    "zx": ["lei-dos-agrotoxicos-de-1989"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -617,6 +620,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-9456-1997": ("1997-04-28", f"Lei 9.456/1997 art. 55: {_PUB} (DOU 28.4.1997, as LexML's record of the original "
                                     "publication gives it; Planalto's page misprints '8.4.1997', before the Lei's own date; "
                                     "rectified 26.8.1997 and 25.9.1997)"),
+    "lei-7802-1989": ("1989-07-12", f"Lei 7.802/1989 art. 22: {_PUB} (DOU 12.7.1989)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -932,6 +936,11 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "ambiente produtivo e dá outras providências.", "2004-12-02", "2004-12-03", PAGES["l10973"]),
     "lei-9456-1997": _L("Lei nº 9.456, de 1997", "Institui a Lei de Proteção de Cultivares e dá outras providências.", "1997-04-25",
                         "1997-04-28", PAGES["l9456"]),
+    "lei-7802-1989": _L("Lei nº 7.802, de 1989", "Dispõe sobre a pesquisa, a experimentação, a produção, a embalagem e rotulagem, o "
+                        "transporte, o armazenamento, a comercialização, a propaganda comercial, a utilização, a importação, a "
+                        "exportação, o destino final dos resíduos e embalagens, o registro, a classificação, o controle, a inspeção "
+                        "e a fiscalização de agrotóxicos, seus componentes e afins, e dá outras providências.", "1989-07-11",
+                        "1989-07-12", PAGES["l7802-2023"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -4364,6 +4373,27 @@ B8.SPAN_FIX += [((_LSNV, u, lab, pre, n), dict(f), _W1065S) for u, lab, pre, n, 
     ("art-22", "§ 2º", "§ 2º O símbolo \"AF\"", 1, _SKIPS),
     ("art-24", "Art. 24", "Art. 24. Fica a União autorizada a desativar ou erradicar", 1, _E14273S),
     ("art-24", "Art. 24", "Art. 24. Fica a União autorizada a desativar ou erradicar", 2, _SKIPS))]
+
+# part zx: Lei 7.802/1989 (agrotóxicos; repealed as a whole on 28.12.2023, read from a capture of 18.12.2023)
+_LAGRO = "lei-dos-agrotoxicos-de-1989"
+_T14785 = ("Dispõe sobre a pesquisa, a experimentação, a produção, a embalagem, a rotulagem, o transporte, o armazenamento, a "
+           "comercialização, a utilização, a importação, a exportação, o destino final dos resíduos e das embalagens, o registro, a "
+           "classificação, o controle, a inspeção e a fiscalização de agrotóxicos, de produtos de controle ambiental, de seus "
+           "produtos técnicos e afins; revoga as Leis nºs 7.802, de 11 de julho de 1989, e 9.974, de 6 de junho de 2000, e partes "
+           "de anexos das Leis nºs 6.938, de 31 de agosto de 1981, e 9.782, de 26 de janeiro de 1999.")
+if any(a["slug"] == _LAGRO for a in ACTS):
+    B8.EXTRA_LAWS["lei-14785-2023"] = {
+        "label": "Lei nº 14.785, de 2023", "kind": "law", "title": _T14785, "enacted": "2023-12-27", "published": "2023-12-28",
+        "url": PL + PAGES["l14785"], "temporary_until": None, "restores": None, "note": None}
+    B9.REPEALS[_LAGRO] = (
+        "2023-12-28", "lei-14785-2023",
+        "Lei 7.802/1989 was repealed as a whole by Lei 14.785/2023 art. 65 I ('Revogam-se: I - as Leis nºs 7.802, de 11 de julho "
+        "de 1989, e 9.974, de 6 de junho de 2000'; not vetoed), in force on publication (art. 66; DOU 28.12.2023), so its last "
+        "version, on 28.12.2023, removes every provision, credited to Lei 14.785/2023 (its art. 64 validates the acts done under "
+        "Lei 7.802). After the repeal Planalto strikes the whole page, so the page is read from a capture of 18.12.2023, before "
+        "the repeal, and the history up to 27.12.2023 is checked against that capture's text")
+B13.OPEN_ITEMS[_LAGRO] = (
+    "Lei 7.802 (open items): the regulations ('Regulamento' links, Decreto 4.074/2002) strike no words and are not modelled")
 
 P.build_act = B.build_act = build_act
 

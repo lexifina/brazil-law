@@ -1175,3 +1175,16 @@ Next candidates (paths found in the local index, captures exist on archive.org):
 14.785/2023: needs a pre-repeal capture via pinat.py + B9.REPEALS), Lei 14.785/2023, Lei 11.947/2009 (PNAE), Lei 10.820/2003
 (consignado), Lei 9.612/1998 (rádio comunitária), Lei 12.871/2013 (Mais Médicos; heavy MPs, incl. MP 1.370), Lei 13.979/2020 (COVID,
 temporary). Not pinned yet: Lei 6.360/1976, Lei 11.494/2007, Lei 9.424/1996.
+
+## Twentieth session (2026-11-01): Task 1 PNE gap, then Task 2 candidates
+robots.txt read at start (archive.org: Disallow /control/ /report/ only; web.archive.org 404). Fetching: archive.org only, through
+the shared client (iaonly.py, pinat.py, cdxlist.py). Scratch for reads: .gitlaw-scratch/brazil-b20.
+
+### 99-batch17zs re-PUBLISHed (coordinator decision: model the PNE's term gap)
+- parse_batch17: pne_term_gap() (called from the PNE branch of the build_act wrapper): lapse version 2024-06-26 (all units
+  removed, credited lei-13005-2014, version note), back 2024-07-26 (2023-07-20 units, credited lei-14934-2024); 2026-01-01 end
+  unchanged (B9.REPEALS). _N14934 note reworded for both of 14.934's commits; REPEALS decision and OPEN_ITEMS updated. Lei 14.934
+  read (lawtxt): art. 2 on publication, nothing retroactive.
+- pipe.sh zs (t20-zs-pipe.out): parse x2 sha 0acc6bbf, 0 moves, checks as before; merged 221 acts, 3370 versions, 2462 commits,
+  check 0/0, compare identical, audit clean; headyear clean (t20-hy.log). Installed; docs.py rows-zs.json (5 versions) +
+  jurisdiction.json build text (gap named, '(3)' -> '(5)'). PUBLISH appended.
