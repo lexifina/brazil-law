@@ -317,6 +317,16 @@ ALL_ACTS: list[dict] = [
     {**_act("lei-do-fundeb", "LFundeb", "l14113", "l14113", "lei-14113-2020",
             "Fundo de Manutenção e Desenvolvimento da Educação Básica - Fundeb (Lei nº 14.113, de 25 de dezembro de 2020)", 2),
      "center_headings": False},   # headings are <h4> blocks, not centred: the name line after a Capítulo/Seção line is a heading
+    _act("lei-do-cadastro-positivo", "LCadPos", "l12414", "l12414", "lei-12414-2011",
+         "Lei do Cadastro Positivo (Lei nº 12.414, de 9 de junho de 2011)", 2),
+    _act("lei-do-regime-fiscal-sustentavel", "LC200", "lcp200", "lcp200", "lc-200-2023",
+         "Regime Fiscal Sustentável (Lei Complementar nº 200, de 30 de agosto de 2023)", 2),
+    _act("lei-do-transporte-rodoviario-de-cargas", "LTRC", "l11442", "l11442", "lei-11442-2007",
+         "Transporte Rodoviário de Cargas (Lei nº 11.442, de 5 de janeiro de 2007)", 2),
+    _act("lei-do-vale-pedagio", "LVP", "l10209", "l10209", "lei-10209-2001",
+         "Vale-Pedágio obrigatório (Lei nº 10.209, de 23 de março de 2001)", 2),
+    _act("lei-do-transporte-multimodal", "LTM", "l9611", "l9611", "lei-9611-1998",
+         "Transporte Multimodal de Cargas (Lei nº 9.611, de 19 de fevereiro de 1998)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -361,6 +371,8 @@ PARTS: dict[str, list[str]] = {
     "zk": ["lei-10637-de-2002"],
     "zl": ["lei-10833-de-2003"],
     "zm": ["lei-do-financiamento-da-saude", "lei-do-fundeb"],
+    "zn": ["lei-do-cadastro-positivo", "lei-do-regime-fiscal-sustentavel"],
+    "zo": ["lei-do-transporte-rodoviario-de-cargas", "lei-do-vale-pedagio", "lei-do-transporte-multimodal"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -497,6 +509,13 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                   "publicação' (DOU 16.1.2012)"),
     "lei-14113-2020": ("2020-12-25", "Lei 14.113/2020 art. 54: 'Esta Lei entra em vigor na data da sua publicação' (DOU 25.12.2020, "
                                      "edição extra)"),
+    "lei-12414-2011": ("2011-06-10", f"Lei 12.414/2011 art. 18: {_PUB} (DOU 10.6.2011)"),
+    "lc-200-2023": ("2023-08-31", "Lei Complementar 200/2023 art. 15: 'Esta Lei Complementar entra em vigor: I - em 1º de janeiro de "
+                                  "2024, quanto ao art. 11; e II - na data de sua publicação, quanto aos demais dispositivos' (DOU "
+                                  "31.8.2023): every article from publication, art. 11 from 1.1.2024, the day it takes effect"),
+    "lei-11442-2007": ("2007-01-08", "Lei 11.442/2007 art. 23: 'Esta Lei entra em vigor na data de sua publicação [...]' (DOU 8.1.2007)"),
+    "lei-10209-2001": ("2001-03-24", f"Lei 10.209/2001 art. 11: {_PUB} (DOU 24.3.2001, edição extra)"),
+    "lei-9611-1998": ("1998-02-20", f"Lei 9.611/1998 art. 34: {_PUB} (DOU 20.2.1998)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -716,6 +735,20 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "Valorização dos Profissionais da Educação (Fundeb), de que trata o art. 212-A da Constituição Federal; revoga "
                          "dispositivos da Lei nº 11.494, de 20 de junho de 2007; e dá outras providências.", "2020-12-25", "2020-12-25",
                          PAGES["l14113"]),
+    "lei-12414-2011": _L("Lei nº 12.414, de 2011", "Disciplina a formação e consulta a bancos de dados com informações de adimplemento, "
+                         "de pessoas naturais ou de pessoas jurídicas, para formação de histórico de crédito.", "2011-06-09",
+                         "2011-06-10", PAGES["l12414"]),
+    "lc-200-2023": _L("Lei Complementar nº 200, de 2023", "Institui regime fiscal sustentável para garantir a estabilidade "
+                      "macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico, com fundamento no art. 6º "
+                      "da Emenda Constitucional nº 126, de 21 de dezembro de 2022, e no inciso VIII do caput e no parágrafo único do "
+                      "art. 163 da Constituição Federal; e altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de "
+                      "Responsabilidade Fiscal).", "2023-08-30", "2023-08-31", PAGES["lcp200"]),
+    "lei-11442-2007": _L("Lei nº 11.442, de 2007", "Dispõe sobre o transporte rodoviário de cargas por conta de terceiros e mediante "
+                         "remuneração e revoga a Lei nº 6.813, de 10 de julho de 1980.", "2007-01-05", "2007-01-08", PAGES["l11442"]),
+    "lei-10209-2001": _L("Lei nº 10.209, de 2001", "Institui o Vale-Pedágio obrigatório sobre o transporte rodoviário de carga e dá "
+                         "outras providências.", "2001-03-23", "2001-03-24", PAGES["l10209"]),
+    "lei-9611-1998": _L("Lei nº 9.611, de 1998", "Dispõe sobre o Transporte Multimodal de Cargas e dá outras providências.",
+                        "1998-02-19", "1998-02-20", PAGES["l9611"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -2634,6 +2667,12 @@ def _inner(*a):
                    "before the publication, which is the first day of the record)" + (
                        "; changes made to those articles before their day start on that day (" + "; ".join(dict.fromkeys(G10637_USED))
                        + ")" if G10637_USED else "") + ".")
+    if any(a["slug"] == "lei-do-regime-fiscal-sustentavel" for a in ACTS):
+        dec.append("Lei Complementar 200/2023: art. 15 ('Esta Lei Complementar entra em vigor: I - em 1º de janeiro de 2024, quanto "
+                   "ao art. 11; e II - na data de sua publicação, quanto aos demais dispositivos'; DOU 31.8.2023): art. 11 (its "
+                   "changes to Lei Complementar 101/2000) starts on 1.1.2024, the other articles on 31.8.2023" + (
+                       "; changes made to art. 11 before that day start on it (" + "; ".join(dict.fromkeys(GLC200_USED)) + ")"
+                       if GLC200_USED else "") + ".")
     if any(a["slug"] == _L10833 for a in ACTS):
         dec.append("Lei 10.833: art. 93 ('Esta Lei entra em vigor na data de sua publicação, produzindo efeitos, em relação: I - "
                    "aos arts. 1º a 15 e 25, a partir de 1º de fevereiro de 2004; II - aos arts. 26, 27, 29, 30 e 34 desta Lei, a "
@@ -3136,8 +3175,11 @@ _G10833.update({u: ("2009-01-01", "Lei 11.727 art. 41 VII", "mp-451-2008" if u =
                 for u in _BEV})
 G10637_USED: list[str] = []
 G10833_USED: list[str] = []
+# Lei Complementar 200/2023 art. 15: 'I - em 1º de janeiro de 2024, quanto ao art. 11' (its changes to Lei Complementar 101)
+_GLC200 = {"art-11": ("2024-01-01", "I")}
+GLC200_USED: list[str] = []
 _GATES = {_L9718: (_G9718, "lei-9718-1998", G9718_USED), _L10637: (_G10637, "lei-10637-2002", G10637_USED),
-          _L10833: (_G10833, "lei-10833-2003", G10833_USED)}
+          _L10833: (_G10833, "lei-10833-2003", G10833_USED), "lei-do-regime-fiscal-sustentavel": (_GLC200, "lc-200-2023", GLC200_USED)}
 # Lei 11.727/2008 art. 42: 'Ficam revogados: [...] IV - a partir de 1º de janeiro de 2009: a) os arts. 49, 50, 52, 55, 57 e
 # 58 da Lei nº 10.833 [...]' (IV as Lei 11.827/2008 worded it; Planalto prints those articles unstruck)
 _REV2009 = {"art-49", "art-50", "art-52", "art-55", "art-57", "art-58"}
@@ -3584,6 +3626,39 @@ if any(a["slug"] == _LFUNDEB for a in ACTS):
                       "prints no '(VETADO)' line for it, so it is absent before)")
     EXTRA.append("Lei 14.113 art. 21 § 9º: " + P.VIGENCIA_PROVISION[("lei-14276-2021", _LFUNDEB, "art-21")][1]
                  + "; it is credited to Lei 14.276/2021 on 25.3.2022.")
+# part zn: Lei 12.414/2011 (cadastro positivo), Lei Complementar 200/2023 (regime fiscal sustentável). Hand days set only when the
+# act runs.
+_LCADPOS, _LC200 = "lei-do-cadastro-positivo", "lei-do-regime-fiscal-sustentavel"
+if any(a["slug"] == _LCADPOS for a in ACTS):
+    P.VIGENCIA_FIXED["lc-166-2019"] = (
+        "2019-07-09", "art. 7: 'Esta Lei Complementar entra em vigor: I - na data de sua publicação, quanto ao disposto: a) no "
+                      "caput e no § 6º do art. 12 da Lei nº 12.414, de 9 de junho de 2011, com redação dada pelo art. 2º desta Lei "
+                      "Complementar; e b) nos arts. 3º e 5º; II - após decorridos 91 (noventa e um) dias de sua publicação oficial, "
+                      "quanto aos demais dispositivos' (DOU 9.4.2019): its changes to Lei 12.414 fall under II (91 days counted from "
+                      "the day of publication, in force on 9.7.2019), except art. 12 caput and § 6º (I a), in force on 9.4.2019")
+if any(a["slug"] == _LC200 for a in ACTS):
+    EXTRA.append("Lei Complementar 200/2023 art. 11 (its changes to Lei Complementar 101/2000): the new Lei Complementar 101 art. 4 "
+                 "§ 7º was vetoed ('§ 7º (VETADO).'); Congress overrode the veto and the President promulgated it on 22.12.2023 (DOU "
+                 "22.12.2023, edição extra; printed on Lei Complementar 200's page). Both fall before art. 11's own day (1.1.2024, "
+                 "art. 15 I), so art. 11 first shows on 1.1.2024 with the promulgated § 7º and the '(VETADO)' line never shows.")
+B.EXPLAINED[_LC200] = {"art-11": _DOTTED}
+B13.OPEN_ITEMS[_LCADPOS] = (
+    "Lei 12.414 (open items): the Lei converted Medida Provisória 518/2010, which is not part of the history (the record starts "
+    "with the Lei, 10.6.2011); 'Vide' pointers and the regulations ('Regulamento' links) strike no words and are not modelled")
+B13.OPEN_ITEMS[_LC200] = (
+    "Lei Complementar 200 (open items): 'Vide ADI' pointers (ADIs 7.064, 7.641, 7.922 and 8.010) strike no words and are not "
+    "modelled; the transitional rules for the financial years 2023 and 2024 (arts. 12 to 14) set no term of their own and stay in "
+    "the text as Planalto prints them; its changes to Lei Complementar 101/2000 (art. 11) are words of this act, and Lei "
+    "Complementar 101's own history is a separate act of the record")
+_W12414 = ("Lei 12.414 art. 12: Lei Complementar 166/2019 art. 7 I a) puts its new caput and § 6º in force on publication (DOU "
+           "9.4.2019); its other changes to the Lei take effect 91 days after publication (art. 7 II, 9.7.2019)")
+_S0409 = {"start": "2019-04-09", "start_law": "lc-166-2019", "by_provision": True}
+B8.SPAN_FIX += [
+    ((_LCADPOS, "art-12", "Art. 12", "Art. 12. Quando solicitado pelo cliente", 0),
+     {"end": "2019-04-09", "end_law": "lc-166-2019", "end_how": "successor"}, _W12414),
+    ((_LCADPOS, "art-12", "Art. 12", "Art. 12. As instituições autorizadas", 0), dict(_S0409), _W12414),
+    ((_LCADPOS, "art-12", "§ 6º", "§ 6º O órgão administrativo competente", 0), dict(_S0409), _W12414),
+]
 B13.OPEN_ITEMS[_LC141] = (
     "Lei Complementar 141 (open items): Lei Complementar 227/2026's new wordings of arts. 6 and 7 and art. 3 X (the IBS share) "
     "take effect on its publication (its art. 182 III; DOU 14.1.2026, republished 15.1.2026 and rectified 23.1.2026: dated by the "

@@ -680,8 +680,21 @@ ato:adc-35-2022-mpv1074.
 - Checks all 0 except quotecheck 5 (quoted alínea letters) and latecaput (art. 43 2020 lines, correct). Parse sha f2c001d7 (x2), after
   effects_fix aca140cb (0 moves); zi reparsed: equal except sources. Merged 199 acts, 3273 versions, 2403 commits, check 0/0, compare
   identical, audit clean (final15-build.log, after README rows + jurisdiction.json via rows-zm.json).
-- GOTCHA again: a shell heredoc turned r"" in Python into a control character; write such edits from a script FILE (scratch
+- GOTCHA again: a shell heredoc turned r"\1" in Python into a control character; write such edits from a script FILE (scratch
   zm/fixlines.py) or the Edit tool.
+
+## 99-batch17zn - PUBLISHed 2026-11-01 (fifteenth session)
+Lei 12.414/2011 (lei-do-cadastro-positivo, 3 versions 2011-06-10 .. 2019-07-09) and Lei Complementar 200/2023
+(lei-do-regime-fiscal-sustentavel, 5 versions 2023-08-31 .. 2025-12-19). `iaonly.py laws` (2 new) + `missing` (0).
+- Hand (`_LCADPOS`, scoped): VIGENCIA_FIXED lc-166-2019 9.7.2019 (art. 7 II) also for 12.414; SPAN_FIX art. 12 new caput and § 6º from
+  9.4.2019 (art. 7 I a), old caput ends then; flagged "by_provision" so the anachronism check (batch15 wrapper) skips them.
+  NOTE: LC 166's vigência clause is art. 7; published part zd's VIGENCIA_FIXED text says 'art. 6' (wording slip, not changed).
+- LC 200: gate _GLC200 art-11 -> 1.1.2024 (art. 15 I) in _GATES + decision; the art. 11 quoted '§ 7º (VETADO)' line is skipped by the
+  reader and the promulgated § 7º (DOU 22.12.2023) first shows with art. 11 on 1.1.2024 (EXTRA decision). EXPLAINED art-11 (_DOTTED).
+  Published 99-batch7's law entry lc-200-2023 has '(Promulgação partes vetadas)' at the start of its title (cosmetic, not changed).
+- Checks: leakcheck 7 = LC 166's own '(Revogado).' wordings; missorig 1 = gate; quotecheck 4 quoted text; latecaput = struck capita.
+  Parse sha 76baa61c (x2, 0 moves). Merged 201 acts, 3281 versions, 2408 commits, check 0/0, compare identical, audit clean
+  (final15b-build.log, after rows-zn.json docs).
 
 ## 99-batch17zf - re-PUBLISHed 2026-11-01 (fourteenth session)
 _BX now includes "l9984": the generic Lei 7.689/9.249 BARE_TEXT line is no longer given to part zf. Installed file = previous
