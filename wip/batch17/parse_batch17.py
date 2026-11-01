@@ -237,6 +237,12 @@ PAGES.update({
     "l13506": "_ato2015-2018/2017/lei/l13506.htm",
     "l8929": "leis/l8929.htm",
     "l13775": "_ato2015-2018/2018/lei/l13775.htm",
+    # twenty-eighth session: public administration laws
+    "l8159": "leis/l8159.htm",
+    "l9491": "leis/l9491.htm",
+    "l13334": "_ato2015-2018/2016/lei/l13334.htm",
+    "lcp35": "leis/lcp/lcp35.htm",
+    "l5010": "leis/l5010.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -541,6 +547,15 @@ ALL_ACTS: list[dict] = [
          "Sistema Nacional de Crédito Cooperativo (Lei Complementar nº 130, de 17 de abril de 2009)", 2),
     _act("lei-da-cedula-de-produto-rural", "LCPR", "l8929", "l8929", "lei-8929-1994",
          "Cédula de Produto Rural (Lei nº 8.929, de 22 de agosto de 1994)", 2),
+    # twenty-eighth session: public administration laws
+    _act("lei-de-arquivos", "LArq", "l8159", "l8159", "lei-8159-1991",
+         "Política nacional de arquivos públicos e privados (Lei nº 8.159, de 8 de janeiro de 1991)", 2),
+    _act("lei-organica-da-magistratura-nacional", "LOMAN", "lcp35", "lcp35", "lc-35-1979",
+         "Lei Orgânica da Magistratura Nacional (Lei Complementar nº 35, de 14 de março de 1979)", 2),
+    _act("lei-da-justica-federal-de-primeira-instancia", "LJF", "l5010", "l5010", "lei-5010-1966",
+         "Organização da Justiça Federal de primeira instância (Lei nº 5.010, de 30 de maio de 1966)", 2),
+    _act("lei-do-programa-nacional-de-desestatizacao", "LPND", "l9491", "l9491", "lei-9491-1997",
+         "Programa Nacional de Desestatização (Lei nº 9.491, de 9 de setembro de 1997)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -635,6 +650,8 @@ PARTS: dict[str, list[str]] = {
     # twenty-eighth session
     "zzz": ["lei-do-sistema-nacional-de-credito-cooperativo"],
     "zzza": ["lei-da-cedula-de-produto-rural"],
+    "zzzb": ["lei-de-arquivos", "lei-organica-da-magistratura-nacional"],
+    "zzzc": ["lei-da-justica-federal-de-primeira-instancia", "lei-do-programa-nacional-de-desestatizacao"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -894,6 +911,12 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lc-130-2009": ("2009-04-17", "Lei Complementar 130/2009 art. 19: 'Esta Lei Complementar entra em vigor na data de sua "
                                   "publicação' (DOU 17.4.2009, edição extra)"),
     "lei-8929-1994": ("1994-08-23", "Lei 8.929/1994 art. 20: 'Esta lei entra em vigor na data de sua publicação' (DOU 23.8.1994)"),
+    "lei-8159-1991": ("1991-01-09", f"Lei 8.159/1991 art. 27: {_PUB} (DOU 9.1.1991, rectified 28.1.1991)"),
+    "lc-35-1979": ("1979-05-13", "Lei Complementar 35/1979 art. 146: 'Esta Lei entrará em vigor sessenta dias após sua publicação' "
+                                 "(DOU 14.3.1979): 60 days after 14.3.1979, 13.5.1979"),
+    "lei-5010-1966": ("1966-06-01", "Lei 5.010/1966 art. 95: 'Esta Lei entrará em vigor na data de sua publicação' (DOU 1.6.1966, "
+                                    "rectified 14.6 and 4.7.1966)"),
+    "lei-9491-1997": ("1997-09-10", f"Lei 9.491/1997 art. 34: {_PUB} (DOU 10.9.1997, republished 11.9.1997)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1394,6 +1417,16 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                       "2009-04-17", "2009-04-17", "leis/LCP/Lcp130.htm"),
     "lei-8929-1994": _L("Lei nº 8.929, de 1994", "Institui a Cédula de Produto Rural, e dá outras providências.", "1994-08-22",
                         "1994-08-23", PAGES["l8929"]),
+    "lei-8159-1991": _L("Lei nº 8.159, de 1991", "Dispõe sobre a política nacional de arquivos públicos e privados e dá outras "
+                        "providências.", "1991-01-08", "1991-01-09", PAGES["l8159"]),
+    "lc-35-1979": _L("Lei Complementar nº 35, de 1979", "Dispõe sobre a Lei Orgânica da Magistratura Nacional.", "1979-03-14",
+                     "1979-03-14", PAGES["lcp35"]),
+    # as 80-proc and 99-batch16b have the records
+    "lei-5010-1966": _L("Lei nº 5.010, de 1966", "Organiza a Justiça Federal de primeira instância, e dá outras providências.",
+                        "1966-05-30", "1966-06-01", "LEIS/L5010.htm"),
+    "lei-9491-1997": _L("Lei nº 9.491, de 1997", "Altera procedimentos relativos ao Programa Nacional de Desestatização, revoga a "
+                        "Lei n° 8.031, de 12 de abril de 1990, e dá outras providências.", "1997-09-09", "1997-09-10",
+                        "leis/L9491.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -6028,6 +6061,19 @@ if any(a["slug"] == _LCPR for a in ACTS):
     P.NOTE_FIX["(Revogado pela Lei nº 13.986, de 2020"] = (
         "(Revogado pela Lei nº 13.986, de 2020)",
         "Lei 8.929: 19 notes read '(Revogado pela Lei nº 13.986, de 2020', the closing parenthesis missing: read as closed")
+_W897_4 = ("Lei 8.929 art. 4º-A § 4º: added by Medida Provisória 897/2019 (DOU 2.10.2019, in force on publication); its conversion "
+           "law, Lei 13.986/2020 (DOU 7.4.2020, edição extra, in force on publication), art. 42 gives art. 4º-A as caput, inciso I, "
+           "§ 1º and § 3º between dotted lines and closes it after § 3º with '(NR)', without the MP's § 4º, so that § 4º ended on "
+           "7.4.2020; the § 4º in force since 21.7.2022 is Lei 14.421/2022's (Planalto prints the MP's § 4º struck, under the "
+           "MP's note only)")
+B8.SPAN_FIX += [
+    ((_LCPR, "art-04-a", "§ 4º", "§ 4º O Conselho Monetário Nacional poderá estabelecer outras condições", 0),
+     {"end": "2020-04-07", "end_law": "lei-13986-2020", "end_how": "conversion"}, _W897_4),
+]
+B13.OPEN_ITEMS[_LCPR] = (
+    "Lei 8.929 (open items): art. 4º-A and art. 12 § 3º as Lei 10.200/2001 gave them (the conversion of Medida Provisória "
+    "2.117-13/2000, whose reissued chain is not part of the history: the notes credit the Lei); 'Vide' pointers (Decreto "
+    "10.828/2021) and regulations strike no words and are not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

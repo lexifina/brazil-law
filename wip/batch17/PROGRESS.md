@@ -1802,3 +1802,9 @@ parse_batch17.py, effects_fix.py, README, jurisdiction.json before the session; 
 - `iaonly.py laws lcp130 l8929` (PID 52816): 4 new pins law:lc-161-2018, lc-196-2022, lei-10200-2001, mp-1104-2022; missing 0;
   headyear same. No hand items. pipe.sh zzz (b28/zzz-pipe1.out): sha 2d6306ba x2, 0 moves, flags benign (PUBLISH). conv 0.
   Installed; rows-zzz.json; final28a-build.log: 263 acts, 3670 versions, 2627 commits, check 0/0, compare identical, audit clean.
+### 99-batch17zzza - PUBLISHed: Lei 8.929/1994 (LCPR, 8 versions 1994-08-23 .. 2022-07-21)
+- Block '# part zzza' (end of parse_batch17, before SRC): NOTE_FIX '(Redação da pela Lei nº 13.986, de 2020' (x25) and '(Revogado pela
+  Lei nº 13.986, de 2020' (x19, both unclosed); SPAN_FIX _W897_4 (art. 4º-A § 4º of MP 897 ends 7.4.2020: Lei 13.986 art. 42 closes
+  art. 4º-A after § 3º with (NR)); OPEN_ITEMS. Trial t1 had 2 'restored wording' problems + 2 undated lines, all from the bad notes.
+- pipe.sh zzza (b28/zzza-pipe1.out): sha 6e0c81f1 x2, 0 moves, flags benign (PUBLISH). conv 0. Installed a9b3d6ea; rows-zzza.json;
+  final28b-build.log: 264 acts, 3678 versions, 2630 commits, check 0/0, compare identical, audit clean. PIDs in b28 logs, all exited.
