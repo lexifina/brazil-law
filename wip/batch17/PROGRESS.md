@@ -1084,3 +1084,24 @@ Disallows /control/ /report/ only; web.archive.org/robots.txt 404). Only fetch: 
 Tasks 1 and 2 done (above). Merged 211 acts, 3323 versions, 2435 commits, check 0/0, --compare identical, audit clean. Nothing
 running. DATED RE-CHECK (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026 - not before. Next: Task 3 candidates (Lei
 12.379/2011, Lei 6.437/1977, Lei 13.005/2014, LC 159/2017, LC 178/2021; pages pinned; see sixteenth-session handoff).
+
+## Nineteenth session (2026-11-01): Task 3 candidates, parts zs, zt, zu
+robots.txt read at start (archive.org: Disallows /control/ /report/ only; web.archive.org/robots.txt 404). Fetching: archive.org only
+(`iaonly.py laws` for the five acts: 10 new pins; `missing` 0; Lei 14.934/2024 was already pinned). Configured in parse_batch17: ALL_ACTS
++ PARTS zs (PNE, LSNV), zt (Lei 6.437), zu (LC 159, LC 178), ACT_DAY, ACT_LAWS (LC 159/178 entries = 99-batch7's title AND url
+'leis/lcp/Lcp159.htm' / 'Lcp178.htm', so merged messages do not change).
+
+## 99-batch17zs - PUBLISHed 2026-11-01 (nineteenth session)
+Lei 13.005/2014 (PNE, 3 versions 2014-06-26 .. 2026-01-01) and Lei 12.379/2011 (SNV, 4 versions 2011-01-07 .. 2022-02-07).
+- PNE Anexo: the reader stops at the signature; paragraphs wrapper (page l13005) appends pne_annex(): units 'anexo' (ANEXO / METAS E
+  ESTRATÉGIAS) and anexo-meta-01..20 (labels 'Meta N', 'N.M)'); P.unit_kind -> 'annex', P.unit_label -> 'Anexo' / 'Meta N do Anexo'
+  (a comma in the label made commit label lists ambiguous); B15.TABLES count popped for l13005 (tables are in Meta 7; own decision).
+- PNE term (user instruction: extension = note, not a version; lapse = version on the day after the term): B9.REPEALS[PNE] =
+  2026-01-01 credited lei-14934-2024, added by B8.EXTRA_LAWS with a `note` (printed in the commit instead of the standard line). The
+  month 26.6-25.7.2024 between the ten-year term and the extension is NOT a gap (decision + OPEN_ITEMS). build_act wrapper rewords
+  the REPEAL CHECK line for the PNE (term, not repeal; 'anexo: only in replay' is the consolidated() filter of unpunctuated units).
+- LSNV: SPAN_FIX _W1065S (MP 1.065 vs Lei 14.273, part w model): art. 10 I MP line ends 6.2.2022 'repealed'; restored copies skipped
+  (art-10 I nth1, art-22 caput nth1, c) nth1, d) nth1, § 2º nth1, art-24 caput nth2); art-24 MP caput ends 6.2.2022; art-22 a)/b) MP
+  lines end with the lapse 7.2.2022 (2011 wording back). Lei 14.273 2023 promulgated parts do not touch 12.379 (read).
+- Part sha cc0c38dc (0 moves); merged 213 acts, 3330 versions, 2439 commits, check 0/0, compare identical, audit clean
+  (final19-zs-build2.log, after rows-zs.json docs + a jurisdiction.json note on the PNE's term).
