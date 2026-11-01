@@ -73,13 +73,13 @@ _FORMULA_MORE = re.compile(
 _LEAD_MORE = re.compile(
     r"^[\s.]*(?:Fica\s+sem\s+efeito\s+pel[ao]\s+" + _REF + r"|[Ss]uspens[ao]\s+pel[ao]\s+" + _REF + r"|"
     r"V\s?ide\s+texto\s+compilado|e\s+vig[êe]ncia\b|E\s+feitos?\s+financeiros?|Estrutura\s+Regimental(?:\s*\([^()]*\))?|"
-    r"N[ãa]o\s+remover|Down|Up|-->|Texto\s+atualizado)[\s.;:)]*")
+    r"N[ãa]o\s+remover|Down\b|Up\b|-->|Texto\s+atualizado)[\s.;:)]*")
 # the same at the end, between the ementa and the formula: navigation ('Não remover Down Up Texto para impressão Texto
 # atualizado Texto compilado'), every link strip_links knows, and the notes of a rewritten ementa ('(Redação dada pela
 # Lei nº 14.423, de 2022)', '(Vigência encerrada)')
 _TAIL = re.compile(
     r"(?:\s|^)(?:N[ãa]o\s+remover|Down|Up|-->|Texto\s+atualizado|"
-    r"\(\s*(?:Reda[çc][ãa]o\s+dada|Inclu[íi]d[ao])\s+pel[ao]\s+[^()]*\)|" + "|".join(f"(?:{x})" for x in LINKS) + r")[\s.;:]*$", re.I)
+    r"\(\s*(?:Reda[çc][ãa]o\s+dada|Inclu[íi]d[ao])\s+pel[ao]\s+[^()]*\)|" + "|".join(f"(?:{x})" for x in LINKS) + r")[\s.;:]*$")   # links are capitalised: not re.I
 _NAV = re.compile(r"N[ãa]o\s+remover|Texto\s+(?:compilado|atualizado|para\s+impress)|-->|Up\s+Down|Down\s+Up", re.I)
 _REWRITTEN = re.compile(r"\(\s*Reda[çc][ãa]o\s+dada\s+pel[ao]\s", re.I)
 
