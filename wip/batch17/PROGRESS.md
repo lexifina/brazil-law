@@ -710,6 +710,19 @@ versions 2001-03-24 .. 2021-10-22), Lei 9.611/1998 (lei-do-transporte-multimodal
 - Parse sha 3474f7a0 (x2, 0 moves); zm, zn reparsed identical. Merged 204 acts, 3298 versions, 2414 commits, check 0/0, compare
   identical, audit clean (final15c-build.log, after rows-zo.json docs).
 
+## 99-batch17zp - PUBLISHed 2026-11-01 (fifteenth session)
+Lei 11.284/2006 (lei-de-gestao-de-florestas-publicas, 4 versions 2006-03-03 .. 2023-05-25) and Lei 14.119/2021
+(lei-do-pagamento-por-servicos-ambientais, 4 versions 2021-01-14 .. 2023-08-24). `iaonly.py laws` (2 new) + `missing` (0); pinned with
+pinat.py ctx:camara-lei-14119-2021-promulgacao-162551 (DOU 26.3.2021 extra-D) and -162973 (DOU 11.6.2021): Chamber records of the
+two promulgations (cdxpre of www2.camara.leg.br/legin/fed/lei/2021/lei-14119 lists 9 pages).
+- prom_14119() in apply_rewrites (PROM14119 table): '(VETADO)' lines un-skipped, stand to the promulgation; promulgated lines start on
+  their DOU day credited lei-14119-2021; quote marks of the promulgation text dropped (art. 6 § 8º label fixed). EXPLAINED arts. 6,
+  15, 16 (quotes), 23 (_DOTTED). NOTE_FIX 'Lei nº 11.516, 2007' (scoped).
+- Benign: dupline/dupcheck/overlap = art. 39 caput II vs § 1º II (same words) and quoted Leis 9.605/6.938 text; leakcheck 18 literal.
+- Parse sha 80e7a4a5 (x2, 0 moves); zo reparsed identical. Merged 206 acts, 3306 versions, 2420 commits, check 0/0, compare identical,
+  audit clean (final15d-build.log, after rows-zp.json docs).
+- GOTCHA: in heredoc-written Python, "\'" inside r'' collapsed too; zp/fixline.py rewrote the line. Prefer script files.
+
 ## 99-batch17zf - re-PUBLISHed 2026-11-01 (fourteenth session)
 _BX now includes "l9984": the generic Lei 7.689/9.249 BARE_TEXT line is no longer given to part zf. Installed file = previous
 minus that line (sha cf20e3a2); reparse equal except sources[0]. PUBLISH line appended.

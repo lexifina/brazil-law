@@ -162,6 +162,7 @@ PAGES.update({
     "l14119": "_ato2019-2022/2021/lei/l14119.htm",
     "l9434": "leis/l9434.htm",
     "l10216": "leis/leis_2001/l10216.htm",
+    "l9434-compilado": "leis/l9434compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -327,6 +328,16 @@ ALL_ACTS: list[dict] = [
          "Vale-Pedágio obrigatório (Lei nº 10.209, de 23 de março de 2001)", 2),
     _act("lei-do-transporte-multimodal", "LTM", "l9611", "l9611", "lei-9611-1998",
          "Transporte Multimodal de Cargas (Lei nº 9.611, de 19 de fevereiro de 1998)", 2),
+    _act("lei-de-gestao-de-florestas-publicas", "LGFP", "l11284", "l11284", "lei-11284-2006",
+         "Gestão de florestas públicas e Serviço Florestal Brasileiro (Lei nº 11.284, de 2 de março de 2006)", 2),
+    _act("lei-do-pagamento-por-servicos-ambientais", "LPSA", "l14119", "l14119", "lei-14119-2021",
+         "Política Nacional de Pagamento por Serviços Ambientais (Lei nº 14.119, de 13 de janeiro de 2021)", 2),
+    _act("lei-do-transporte-de-eleitores", "LTE", "l6091", "l6091", "lei-6091-1974",
+         "Transporte gratuito de eleitores das zonas rurais (Lei nº 6.091, de 15 de agosto de 1974)", 2),
+    _act("lei-da-saude-mental", "LSM", "l10216", "l10216", "lei-10216-2001",
+         "Lei da Saúde Mental (Lei nº 10.216, de 6 de abril de 2001)", 2),
+    _act("lei-dos-transplantes", "LTx", "l9434", "l9434-compilado", "lei-9434-1997",
+         "Lei dos Transplantes (Lei nº 9.434, de 4 de fevereiro de 1997)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -373,6 +384,8 @@ PARTS: dict[str, list[str]] = {
     "zm": ["lei-do-financiamento-da-saude", "lei-do-fundeb"],
     "zn": ["lei-do-cadastro-positivo", "lei-do-regime-fiscal-sustentavel"],
     "zo": ["lei-do-transporte-rodoviario-de-cargas", "lei-do-vale-pedagio", "lei-do-transporte-multimodal"],
+    "zp": ["lei-de-gestao-de-florestas-publicas", "lei-do-pagamento-por-servicos-ambientais"],
+    "zq": ["lei-do-transporte-de-eleitores", "lei-da-saude-mental", "lei-dos-transplantes"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -516,6 +529,13 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-11442-2007": ("2007-01-08", "Lei 11.442/2007 art. 23: 'Esta Lei entra em vigor na data de sua publicação [...]' (DOU 8.1.2007)"),
     "lei-10209-2001": ("2001-03-24", f"Lei 10.209/2001 art. 11: {_PUB} (DOU 24.3.2001, edição extra)"),
     "lei-9611-1998": ("1998-02-20", f"Lei 9.611/1998 art. 34: {_PUB} (DOU 20.2.1998)"),
+    "lei-11284-2006": ("2006-03-03", f"Lei 11.284/2006 art. 86: {_PUB} (DOU 3.3.2006)"),
+    "lei-14119-2021": ("2021-01-14", f"Lei 14.119/2021 art. 26: {_PUB} (DOU 14.1.2021, rectified 15.1.2021)"),
+    "lei-6091-1974": ("1974-08-15", "Lei 6.091/1974 art. 28: 'Esta Lei entra em vigor na data de sua publicação, revogadas as disposições "
+                                    "em contrário' (DOU 15.8.1974)"),
+    "lei-10216-2001": ("2001-04-09", f"Lei 10.216/2001 art. 13: {_PUB} (DOU 9.4.2001)"),
+    "lei-9434-1997": ("1997-03-22", "Lei 9.434/1997 has no in-force clause (art. 25 only revokes): in force 45 days after its publication "
+                                    "(LINDB art. 1; DOU 5.2.1997), on 22.3.1997"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -749,6 +769,20 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "outras providências.", "2001-03-23", "2001-03-24", PAGES["l10209"]),
     "lei-9611-1998": _L("Lei nº 9.611, de 1998", "Dispõe sobre o Transporte Multimodal de Cargas e dá outras providências.",
                         "1998-02-19", "1998-02-20", PAGES["l9611"]),
+    "lei-11284-2006": _L("Lei nº 11.284, de 2006", "Dispõe sobre a gestão de florestas públicas para a produção sustentável; institui, "
+                         "na estrutura do Ministério do Meio Ambiente, o Serviço Florestal Brasileiro - SFB; cria o Fundo Nacional de "
+                         "Desenvolvimento Florestal - FNDF; altera as Leis nºs 10.683, de 28 de maio de 2003, 5.868, de 12 de dezembro de "
+                         "1972, 9.605, de 12 de fevereiro de 1998, 4.771, de 15 de setembro de 1965, 6.938, de 31 de agosto de 1981, e "
+                         "6.015, de 31 de dezembro de 1973; e dá outras providências.", "2006-03-02", "2006-03-03", PAGES["l11284"]),
+    "lei-14119-2021": _L("Lei nº 14.119, de 2021", "Institui a Política Nacional de Pagamento por Serviços Ambientais; e altera as Leis "
+                         "nºs 8.212, de 24 de julho de 1991, 8.629, de 25 de fevereiro de 1993, e 6.015, de 31 de dezembro de 1973, para "
+                         "adequá-las à nova política.", "2021-01-13", "2021-01-14", PAGES["l14119"]),
+    "lei-6091-1974": _L("Lei nº 6.091, de 1974", "Dispõe sobre o fornecimento gratuito de transporte, em dias de eleição, a eleitores "
+                        "residentes nas zonas rurais, e dá outras providências.", "1974-08-15", "1974-08-15", PAGES["l6091"]),
+    "lei-10216-2001": _L("Lei nº 10.216, de 2001", "Dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais e "
+                         "redireciona o modelo assistencial em saúde mental.", "2001-04-06", "2001-04-09", PAGES["l10216"]),
+    "lei-9434-1997": _L("Lei nº 9.434, de 1997", "Dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de "
+                        "transplante e tratamento e dá outras providências.", "1997-02-04", "1997-02-05", PAGES["l9434"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -1080,6 +1114,12 @@ def paragraphs(html, digits):
         html, n2 = re.subn(r"(Parágrafo único\.)(</font>\s*<font[^>]*>)(Para)", r"\1\2 \3", html)
         LFUNDEB_FIXED.extend(["art-26 note"] * n1 + ["art-26 space"] * n2)
     out, rest = _paragraphs17(html, digits)
+    if page in ("l9434", "l9434-compilado"):
+        # Lei 9.434 art. 10: Planalto prints Lei 10.211/2001's § 1º as '1º Nos casos em que o receptor [...]', the '§' sign missing
+        for p in out:
+            if p["unit"] == "art-10" and p["label"] == "" and p["text"].startswith("1º Nos casos em que o receptor"):
+                p["text"], p["label"] = "§ " + p["text"], "§ 1º"
+                L9434_FIXED.append(f"{page} art-10 § 1º")
     if page == "l11442":
         # Lei 11.442 art. 13: Planalto prints the placeholder 'Parágrafo único. (Revogado).' (Lei 14.599/2023) right after the
         # struck parágrafo único of 2007, above the caput Lei 14.599 gave the article: it is the article's last line
@@ -1422,6 +1462,7 @@ L9984_FIXED: list[str] = []
 L4886_FIXED: list[str] = []
 LFUNDEB_FIXED: list[str] = []
 L11442_FIXED: list[str] = []
+L9434_FIXED: list[str] = []
 EMPTY_ITEM_PAGES = {"l9250", "l7713"}
 MIXED_PLAIN: list[str] = []
 L9873_FIXED: list[str] = []
@@ -2503,7 +2544,47 @@ def apply_rewrites(paras, act, eff, problems):
     ch3_successors(paras, act)
     ana_437(paras, act)
     lrc_renum(paras, act)
+    prom_14119(paras, act)
     return out
+
+
+# Lei 14.119/2021 (part zp): parts vetoed on 13.1.2021 that Congress kept were promulgated by the President in two acts printed
+# at the foot of the page: on 26.3.2021 (DOU 26.3.2021, edição extra-D) art. 6 § 8º, art. 8 § 1º and arts. 13, 15 and 16; on
+# 10.6.2021 (DOU 11.6.2021; the page's footer misprints '11.1.2021') art. 17 and its parágrafo único (days read on the Chamber
+# of Deputies' records of the two promulgations, archive.org copies). Planalto prints each '(VETADO)' line struck before the
+# promulgated text: the '(VETADO)' line stands from the Lei's first day to the promulgation, the promulgated lines from then,
+# credited to Lei 14.119. The promulgated art. 6 § 8º, art. 15 § 4º and art. 16 § 2º keep the quotation marks of the
+# promulgation's own text, which are dropped.
+PROM14119 = {"art-13": ("2021-03-26", None), "art-15": ("2021-03-26", None), "art-16": ("2021-03-26", None),
+             "art-17": ("2021-06-11", None), "art-06": ("2021-03-26", "§ 8º"), "art-08": ("2021-03-26", "§ 1º")}
+PROM14119_USED: list[str] = []
+
+
+def prom_14119(paras, act):
+    if act["slug"] != "lei-do-pagamento-por-servicos-ambientais":
+        return
+    first = B.ACT_DAY[act["law"]][0]
+    for p in paras:
+        if p["heading"] or p["unit"] not in PROM14119:
+            continue
+        day, lab = PROM14119[p["unit"]]
+        t = p["text"]
+        if lab and p["label"] == "" and t.startswith("'" + lab + " "):
+            p["label"] = lab
+        if lab and p["label"] != lab:
+            continue
+        if p["state"] == "struck" and re.fullmatch(r"(?:Art\. \d+\.|§ \d+º) \(VETADO\)\.", P.norm(t)):
+            p.update(skip=False, start=first, start_law=None, end=day, end_law="lei-14119-2021", end_how="promulgated")
+            PROM14119_USED.append(f"{p['unit']} {p['label']} (VETADO) to {day}")
+        elif p["state"] == "plain" and p["start"] == first and not p.get("skip"):
+            t2 = t.strip()
+            if t2.startswith("'"):
+                t2 = t2[1:]
+            if t2.endswith('"'):
+                t2 = t2[:-1]
+            p["text"] = t2
+            p.update(start=day, start_law="lei-14119-2021")
+            PROM14119_USED.append(f"{p['unit']} {p['label']} from {day}")
 
 
 P.apply_rewrites = B.apply_rewrites = apply_rewrites
@@ -2555,6 +2636,16 @@ def _inner(*a):
                    "4ºA.'; the MPs' own pages read 'XXIII-A', 'XXIV -A', '§ 9º-A', '§ 10-A.' and 'Art. 4º-A'. The lines keep the "
                    "MPs' labels, and MP 844's art. 4º-A with its paragraphs and incisos is read as art. 4º-A, not as lines of "
                    "art. 4 (" + ", ".join(dict.fromkeys(L9984_FIXED)) + ").")
+    if PROM14119_USED:
+        dec.append("Lei 14.119/2021: parts vetoed on 13.1.2021 and kept by Congress were promulgated by the President on 26.3.2021 "
+                   "(DOU 26.3.2021, edição extra-D: art. 6 § 8º, art. 8 § 1º, arts. 13, 15 and 16) and on 10.6.2021 (DOU 11.6.2021, "
+                   "though the footer of the promulgation on Planalto's page prints '11.1.2021': art. 17 and its parágrafo único); "
+                   "the days are read on the Chamber of Deputies' records of the two promulgations. Each '(VETADO)' line Planalto "
+                   "prints stands from 14.1.2021 to the promulgation; the promulgated text starts on the day of its DOU, credited to "
+                   "Lei 14.119, without the quotation marks of the promulgation's own text (" + "; ".join(PROM14119_USED) + ").")
+    if L9434_FIXED:
+        dec.append("Lei 9.434 art. 10: Planalto prints Lei 10.211/2001's § 1º without its '§' sign ('1º Nos casos em que o receptor "
+                   "[...]'); read as '§ 1º' (" + ", ".join(dict.fromkeys(L9434_FIXED)) + ").")
     if L11442_FIXED:
         dec.append("Lei 11.442 art. 13: Planalto prints the placeholder 'Parágrafo único. (Revogado).' (Lei 14.599/2023) above the "
                    "caput Lei 14.599 gave the article, right after the struck parágrafo único of 2007; it is kept as the article's "
@@ -3718,6 +3809,35 @@ B13.OPEN_ITEMS[_LVP] = (
     "unstruck copy is the wording. 'Vide ADIN 6031' strikes no words and is not modelled")
 B13.OPEN_ITEMS[_LTM] = (
     "Lei 9.611 (open items): no amendment notes on the page; the regulation ('Regulamento' link) is not modelled")
+# part zp: Leis 11.284/2006 (gestão de florestas públicas), 14.119/2021 (pagamento por serviços ambientais)
+_LGFP, _LPSA = "lei-de-gestao-de-florestas-publicas", "lei-do-pagamento-por-servicos-ambientais"
+if any(a["slug"] == _LGFP for a in ACTS):
+    P.NOTE_FIX["(Redação dada pela Lei nº 11.516, 2007)"] = (
+        "(Redação dada pela Lei nº 11.516, de 2007)",
+        "Lei 11.284 art. 39: the note reads 'Lei nº 11.516, 2007' (the 'de' missing; its link goes to Lei 11.516/2007's page)")
+_Q14119 = ("the promulgated text keeps the quotation marks of the promulgation's own wording on Planalto's page; the history drops "
+           "them (they are not words of the article)")
+B.EXPLAINED[_LPSA] = {"art-23": _DOTTED, "art-06": _Q14119, "art-15": _Q14119, "art-16": _Q14119}
+B13.OPEN_ITEMS[_LGFP] = (
+    "Lei 11.284 (open items): Medida Provisória 1.151/2022 was converted (Lei 14.590/2023); 'Vide' pointers (Medida Provisória "
+    "366/2007, Decreto 10.347/2020, ADI 7.394) strike no words and are not modelled; the regulations are not modelled")
+B13.OPEN_ITEMS[_LPSA] = (
+    "Lei 14.119 (open items): the Lei was rectified in the DOU of 15.1.2021; the record follows Planalto's text. The regulation "
+    "is not modelled")
+# part zq: Leis 6.091/1974 (transporte de eleitores), 10.216/2001 (saúde mental), 9.434/1997 (transplantes)
+B13.OPEN_ITEMS["lei-do-transporte-de-eleitores"] = (
+    "Lei 6.091 (open items): arts. 17 to 25 end on 18.6.1986, revoked by Lei 7.493/1986 art. 26 (a law for the 1986 elections "
+    "whose revocation is not limited to them); Lei 6.961/1981, which had given art. 17 its 1981 wording, was revoked by the same "
+    "article (no words of Lei 6.091 change by that)")
+B13.OPEN_ITEMS["lei-da-saude-mental"] = (
+    "Lei 10.216 (open items): no amendment notes on the page; regulations are not modelled")
+B.EXPLAINED["lei-dos-transplantes"] = {
+    "art-10": ("the compiled page still prints the 1997 parágrafo único after §§ 1º and 2º; the annotated page strikes it: Lei "
+               "10.211/2001 (as Medida Provisória 2.083-32 before it) replaced it with § 1º, which has the same words")}
+B13.OPEN_ITEMS["lei-dos-transplantes"] = (
+    "Lei 9.434 (open items): the Medida Provisória chain that Lei 10.211/2001 converted began in 1998; Planalto's page names "
+    "only its last edition, 2.083-32 (DOU 23.2.2001), so the earlier editions' wordings are not part of the history and the "
+    "changes start with 2.083-32. Regulations ('Regulamento' links) are not modelled")
 B13.OPEN_ITEMS[_LC141] = (
     "Lei Complementar 141 (open items): Lei Complementar 227/2026's new wordings of arts. 6 and 7 and art. 3 X (the IBS share) "
     "take effect on its publication (its art. 182 III; DOU 14.1.2026, republished 15.1.2026 and rectified 23.1.2026: dated by the "
