@@ -4119,6 +4119,31 @@ if any(a["slug"] == _LPNE for a in ACTS):
         "extension is recorded as continuing the plan. Planalto's page (capture of 20.10.2026) names no later law that extends "
         "the term again, and Planalto does not strike a lapsed plan, so the replay check compares the last version before the "
         "end of the term with the page's text")
+_W1065S = ("Lei 12.379: Medida Provisória 1.065/2021 (DOU 30.8.2021) lapsed at the close of 6.2.2022 (Ato Declaratório 5/2022), and "
+           "Lei 14.273/2021 (DOU 23.12.2021, edição extra; no vigência clause, so in force 45 days later, on 6.2.2022) art. 76 gave "
+           "new wordings to arts. 2, 20 IV and parágrafo único, 21 IV to VI, 22 (caput, § 1º caput, I caput, c) to f), II, § 2º), "
+           "23-A, 24 and 41-A, and its art. 78 III revoked arts. 10, 15, 17, 23, 26, 27, 28, 35 and 43. Where Lei 14.273 replaced "
+           "or revoked a line MP 1.065 had changed (art. 10 I, art. 24 caput), the MP's wording ends on 6.2.2022 and the wording "
+           "the MP had replaced is not back (Planalto prints it a second time, struck, below the MP's line: that copy is left out, "
+           "as are the second copies of the 2011 art. 22 caput, c), d) and § 2º). Where Lei 14.273 left the line alone (art. 22 § "
+           "1º I a) and b), kept by its dotted line), the MP's wording ends with its lapse, on 7.2.2022, and the 2011 wording is "
+           "back from that day, as Planalto prints it (as for Lei 10.233 in part w)")
+_E14273S = {"end": "2022-02-06", "end_law": "lei-14273-2021", "end_how": "successor-before-lapse"}
+_E14273R = {"end": "2022-02-06", "end_law": "lei-14273-2021", "end_how": "repealed"}
+_ELAPSES = {"end": "2022-02-07", "end_law": "mp-1065-2021-fim", "end_how": "lapse"}
+_SKIPS = {"skip": True, "end_how": "never-restored"}
+B8.SPAN_FIX += [((_LSNV, u, lab, pre, n), dict(f), _W1065S) for u, lab, pre, n, f in (
+    ("art-10", "I -", "I - aprovação de lei específica, no caso do transporte rodoviário e aquaviário", 0, _E14273R),
+    ("art-10", "I -", "I - aprovação de lei específica, no caso do transporte terrestre e aquaviário", 1, _SKIPS),
+    ("art-22", "Art. 22", "Art. 22. As ferrovias integrantes do Subsistema Ferroviário Federal são designadas pelo símbolo \"EF\" ou",
+     1, _SKIPS),
+    ("art-22", "a)", "a) 1 (um) para as Ferrovias Longitudinais;", 0, _ELAPSES),
+    ("art-22", "b)", "b) 2 (dois) para as Ferrovias Transversais;", 0, _ELAPSES),
+    ("art-22", "c)", "c) 3 (três) para as diagonais; e", 1, _SKIPS),
+    ("art-22", "d)", "d) 4 (quatro) para as ligações;", 1, _SKIPS),
+    ("art-22", "§ 2º", "§ 2º O símbolo \"AF\"", 1, _SKIPS),
+    ("art-24", "Art. 24", "Art. 24. Fica a União autorizada a desativar ou erradicar", 1, _E14273S),
+    ("art-24", "Art. 24", "Art. 24. Fica a União autorizada a desativar ou erradicar", 2, _SKIPS))]
 
 P.build_act = B.build_act = build_act
 
