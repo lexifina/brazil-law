@@ -1497,6 +1497,7 @@ def paragraphs(html, digits):
     if page == "l10833":
         efeitos_fix(out)
     if page == "l13005":
+        B15.TABLES.pop(page, None)   # the page's tables are in the Anexo (Meta 7), read below: own decision
         # Lei 13.005: the Anexo (the plan's 20 metas and their estratégias) is printed after the signature, where the reader
         # stops; it is part of the Lei (art. 1 'na forma do Anexo') and is read here: one unit per meta
         ann = pne_annex(html)
@@ -2795,7 +2796,8 @@ def _inner(*a):
         dec.append("Lei 13.005: Planalto prints the Anexo (art. 1: the plan 'na forma do Anexo'; its 20 metas and their "
                    "estratégias) after the signature; it is part of the Lei and is read as units of its own: 'anexo' (the lines "
                    "'ANEXO' and 'METAS E ESTRATÉGIAS') and one unit per meta, anexo-meta-01 to anexo-meta-20, holding the "
-                   "meta, the line 'Estratégias:' and the numbered estratégias (labels 'Meta N' and 'N.M)').")
+                   "meta, the line 'Estratégias:' and the numbered estratégias (labels 'Meta N' and 'N.M)'); the tables of "
+                   "Meta 7 (IDEB and PISA targets) are one cell per line, as in the CLT's art. 580.")
     if RENUM_ART_USED:
         dec.append("Lei 7.418: Lei 7.619/1987 (DOU 1.10.1987) art. 1 rewrote art. 1 caput and revoked art. 1 § 2º and art. 2, "
                    "'renumerando-se os demais'; it changed no other words. Planalto prints the other 1985 articles only under "
@@ -3541,6 +3543,20 @@ def build_act(paras, act_day, gate, gate_law, unit_label):
             paras[at:at] = inc
             G9718_USED.append("art-05 § 4º-A incisos I and II (Medida Provisória 1.063) placed under Medida Provisória 1.069's "
                               "caput")
+    if slug == _LPNE:
+        n = len(B9.REPEAL_CHECK)
+        versions = _build_act17(paras, act_day, gate, gate_law, unit_label)
+        # the plan's term ended (it was not repealed), and Planalto does not strike a lapsed plan: the check reads today's page
+        for i in range(n, len(B9.REPEAL_CHECK)):
+            x = B9.REPEAL_CHECK[i]
+            x = x.replace("the last version before the repeal", "the last version before the end of its term")
+            x = x.replace("the unstruck text of the pre-repeal capture of Planalto's page",
+                          "the text of Planalto's page (capture of 20.10.2026)")
+            x = x.replace("anexo: only in replay", "anexo: only in replay (the check sets aside a unit made only of lines with "
+                          "no label and no closing punctuation, taken for the marginal heading of a revoked article; this unit "
+                          "holds the Anexo's title lines 'ANEXO' and 'METAS E ESTRATÉGIAS', which the page prints)")
+            B9.REPEAL_CHECK[i] = x
+        return versions
     return _build_act17(paras, act_day, gate, gate_law, unit_label)
 
 
