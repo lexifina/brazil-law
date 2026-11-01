@@ -323,4 +323,16 @@ if __name__ == "__main__":
         B5.EXTRA_DECISIONS.extend(stale_fix.decisions())
         return _inner_plain(*a)
     _write_part5 = _inner_stale
+
+    # Lei 13.709/2018 (LGPD): its page prints the enacted ementa struck and Lei 13.853/2019's 'Lei Geral de Proteção de Dados
+    # Pessoais (LGPD).'; the part that owns the act (50-codes) titles the law with the latter, so this part gives the same
+    # title (one law, one title in every part). Only when this part is written (batch 6 imports this module).
+    _page_info_5b = P.page_info
+
+    def _page_info_lgpd(key: str) -> dict:
+        info = _page_info_5b(key)
+        if key == "lei-13709-2018" and info and not info.get("bad_page"):
+            info = dict(info, title="Lei Geral de Proteção de Dados Pessoais (LGPD).")
+        return info
+    P.page_info = B.page_info = _page_info_lgpd
     sys.exit(P.main(sys.argv[1:]))
