@@ -703,6 +703,17 @@
   "restores": null,
   "note": null
  },
+ "lei-9636-1998": {
+  "label": "Lei nº 9.636, de 1998",
+  "title": "Dispõe sobre a regularização, administração, aforamento e alienação de bens imóveis de domínio da União, altera dispositivos dos Decretos-Leis n os 9.760, de 5 de setembro de 1946, e 2.398, de 21 de dezembro de 1987, regulamenta o § 2º do art. 49 do Ato das Disposições Constitucionais Transitórias, e dá outras providências.",
+  "kind": "law",
+  "enacted": "1998-05-15",
+  "published": "1998-05-18",
+  "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L9636.htm",
+  "temporary_until": null,
+  "restores": null,
+  "note": null
+ },
  "lei-9807-1999": {
   "label": "Lei nº 9.807, de 1999",
   "title": "Estabelece normas para a organização e a manutenção de programas especiais de proteção a vítimas e a testemunhas ameaçadas, institui o Programa Federal de Assistência a Vítimas e a Testemunhas Ameaçadas e dispõe sobre a proteção de acusados ou condenados que tenham voluntariamente prestado efetiva colaboração à investigação policial e ao processo criminal.",

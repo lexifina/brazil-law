@@ -1917,3 +1917,15 @@ sources_batch17.json, effects_fix.py, bad_pins.json, law_records.json, README, j
   lei-13448-2017 = 99-batch17w's.
 - pipe.sh zzze (b30/zzze-pipe1.out): sha 8fc49496 x2, 0 moves, flags benign (PUBLISH). conv 0. Installed ad1bb5b1; rows-zzze.json;
   merged 272 acts, 3731 versions, 2662 commits, check 0/0, compare identical, audit clean.
+### 99-batch17zzzf - PUBLISHed: Lei 11.473/2007 (LFNSP, 13 versions 2007-05-11 .. 2019-06-18)
+- Block '# part zzzf': scoped VIGENCIA_FIXED mp-755-2016 = 20.12.2016 (art. 5 II; the reader took I's 1.1.2017), MP_PENDING mp-755-2016
+  (revoked by MP 781 art. 3 II), SPAN_FIX _W781 (MP 781's art. 3 §§ 1º-2º end 27.10.2017, Lei 13.500 kept neither), OPEN_ITEMS.
+  Check page l11473-compilado (pinned by gap).
+- pipe.sh zzzf (b30/zzzf-pipe1.out): sha cca5b66d x2, 0 moves, flags benign (PUBLISH). conv 0. Installed; rows-zzzf.json; merged
+  273 acts, 3744 versions, 2669 commits, check 0/0, compare identical, audit clean.
+### 99-batch17zzzg - PUBLISHed: Lei 14.600/2023 (LOPM, 7 versions 2023-06-20 .. 2026-02-25)
+- Block '# part zzzg': scoped VIGENCIA_FIXED lei-14875-2024 = 31.5.2024 (art. 75 II; the reader took I's 1.8.2024), MP_PENDING
+  mp-1203-2023 (revoked by Lei 14.875 art. 74 XVII), EXPLAINED art-63 (_DOTTED), OPEN_ITEMS (MP 1.154 text, art. 74 structures, Vide).
+  No compilado archived: check page = annotated page.
+- pipe.sh zzzg (b30/zzzg-pipe1.out): sha 7ba31b07 x2, 0 moves, flags benign (PUBLISH). conv 0. Installed; rows-zzzg.json; merged
+  274 acts, 3751 versions, 2674 commits, check 0/0, compare identical, audit clean.

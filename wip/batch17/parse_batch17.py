@@ -583,6 +583,8 @@ ALL_ACTS: list[dict] = [
          "2007)", 2),
     _act("lei-da-organizacao-da-presidencia-e-dos-ministerios", "LOPM", "l14600", "l14600", "lei-14600-2023",
          "Organização básica dos órgãos da Presidência da República e dos Ministérios (Lei nº 14.600, de 19 de junho de 2023)", 2),
+    _act("lei-dos-bens-imoveis-da-uniao", "LBIU", "l9636", "l9636-compilado", "lei-9636-1998",
+         "Regularização, administração, aforamento e alienação de bens imóveis da União (Lei nº 9.636, de 15 de maio de 1998)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -685,6 +687,7 @@ PARTS: dict[str, list[str]] = {
     "zzze": ["lei-da-relicitacao", "lei-10180-de-2001", "lei-da-declaracao-de-bens-e-rendas"],
     "zzzf": ["lei-da-forca-nacional-de-seguranca-publica"],
     "zzzg": ["lei-da-organizacao-da-presidencia-e-dos-ministerios"],
+    "zzzh": ["lei-dos-bens-imoveis-da-uniao"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -957,6 +960,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-8730-1993": ("1993-11-11", "Lei 8.730/1993 art. 8: 'Esta lei entra em vigor na data de sua publicação' (DOU 11.11.1993)"),
     "lei-11473-2007": ("2007-05-11", f"Lei 11.473/2007 art. 10: {_PUB} (DOU 11.5.2007)"),
     "lei-14600-2023": ("2023-06-20", f"Lei 14.600/2023 art. 79: {_PUB} (DOU 20.6.2023, republished 21.6.2023)"),
+    "lei-9636-1998": ("1998-05-18", "Lei 9.636/1998 art. 52: 'Esta Lei entra em vigor na data da sua publicação' (DOU 18.5.1998)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1492,6 +1496,11 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "13.901, de 11 de novembro de 2019, 14.261, de 16 de dezembro de 2021, e as Leis nºs 8.028, de 12 de abril de "
                          "1990, e 14.074, de 14 de outubro de 2020.", "2023-06-19", "2023-06-20",
                          "_Ato2023-2026/2023/Lei/L14600.htm"),
+    # the agreed record (scripts/brazil-law/law_records.json; 99-batch17zzm's title without the page's link words)
+    "lei-9636-1998": _L("Lei nº 9.636, de 1998", "Dispõe sobre a regularização, administração, aforamento e alienação de bens "
+                        "imóveis de domínio da União, altera dispositivos dos Decretos-Leis n os 9.760, de 5 de setembro de 1946, e "
+                        "2.398, de 21 de dezembro de 1987, regulamenta o § 2º do art. 49 do Ato das Disposições Constitucionais "
+                        "Transitórias, e dá outras providências.", "1998-05-15", "1998-05-18", "LEIS/L9636.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -6379,6 +6388,107 @@ B13.OPEN_ITEMS[_LFNSP] = (
     "Lei 11.473 (open items): the text before 11.5.2007 (Medida Provisória 345/2007, of which this Lei is the conversion) is not "
     "part of the history; after Lei 13.756/2018 numbered the parágrafo único as § 1º, Planalto prints § 1º and the new § 2º with "
     "the same words, and the history follows Planalto's notes")
+
+# part zzzg (thirtieth session): Lei 14.600/2023 (organização da Presidência e dos Ministérios). Hand items set only when the act
+# runs.
+_LOPM = "lei-da-organizacao-da-presidencia-e-dos-ministerios"
+if any(a["slug"] == _LOPM for a in ACTS):
+    P.VIGENCIA_FIXED["lei-14875-2024"] = (
+        "2024-05-31", "art. 75: 'Esta Lei entra em vigor: I - a partir de 1º de agosto de 2024, quanto às alíneas “e”, "
+                      "“f” e “i” do inciso IX do caput do art. 74; e II - na data de sua publicação, quanto aos "
+                      "demais dispositivos' (DOU 31.5.2024, edição extra): its art. 54 (Lei 14.600 art. 50 § 8º) falls under II")
+    P.MP_PENDING["mp-1203-2023"] = (
+        "Medida Provisória nº 1.203, de 29.12.2023 (DOU 29.12.2023, edição extra, in force on publication), revoked by Lei "
+        "14.875/2024 (DOU 31.5.2024, edição extra, art. 74 XVII; in force on publication for that provision, art. 75 II), whose "
+        "art. 54 gave Lei 14.600 art. 50 § 8º its wording the same day; the MP's wording of the paragraph ends on 31.5.2024")
+B.EXPLAINED[_LOPM] = {"art-63": _DOTTED}
+B13.OPEN_ITEMS[_LOPM] = (
+    "Lei 14.600 (open items): the text before 20.6.2023 (Medida Provisória 1.154/2023, of which this Lei is the conversion) is "
+    "not part of the history; the Lei leaves the detail of each organ to the decrees of estrutura regimental and keeps the "
+    "earlier structures in force until those decrees take effect (art. 74), which changes no words of the Lei; 'Vide' "
+    "pointers (Decreto 11.837/2023, Medida Provisória 1.187/2023) strike no words and are not modelled")
+
+# part zzzh (thirtieth session): Lei 9.636/1998 (bens imóveis da União). Hand items set only when the act runs.
+_LBIU = "lei-dos-bens-imoveis-da-uniao"
+_W6_11481 = ("Lei 9.636 art. 6 and the heading of Seção II: Lei 11.481/2007 (DOU 31.5.2007, in force on publication) gave the "
+             "heading ('Seção II / Do Cadastramento'), art. 6 caput and § 1º new wordings and revoked §§ 2º-4º (its notes 'Redação "
+             "dada pela Lei nº 11.481, de 2007'). Planalto prints the 1998 wordings struck above Lei 13.465's art. 5º-A, with only "
+             "'Vide' notes (Medidas Provisórias 292/2006 and 335/2006), so the reader found no end for them and left them out: "
+             "they stand from 18.5.1998 until 31.5.2007")
+if any(a["slug"] == _LBIU for a in ACTS):
+    B15.HEAD_FIX[_LBIU] = [(t, {"end_law": "lei-11481-2007", "end_how": "successor", "skip": False}, _W6_11481)
+                           for t in ("SEÇÃO II", "Do Cadastramento das Ocupações")]
+B8.SPAN_FIX += [
+    *[((_LBIU, "art-06", lab, start, 0), {"skip": False, "end": "2007-05-31", "end_law": "lei-11481-2007",
+                                          "end_how": "successor"}, _W6_11481)
+      for lab, start in (("Art. 6º", "Art. 6º O cadastramento de terras ocupadas"),
+                         ("§ 1º", "§ 1º Será considerada de efetivo aproveitamento"),
+                         ("§ 2º", "§ 2º As áreas de acesso necessárias ao terreno"),
+                         ("§ 3º", "§ 3º Poderão ser consideradas, a critério da Administração"),
+                         ("§ 4º", "§ 4º É vedada a inscrição de posse"))],
+    ((_LBIU, "art-19", "VI -", "VI -", 0), {"skip": True, "end_how": "pointer"},
+     "Lei 9.636 art. 19: Planalto prints a bare label 'VI -' followed by struck 'Vide' notes (Medidas Provisórias 292/2006 and "
+     "335/2006) above the inciso VI Lei 11.481/2007 added; the bare label never stood as text and is left out"),
+]
+_W2_1065 = ("Lei 9.636 art. 2 parágrafo único: revoked by Medida Provisória 1.065/2021 (DOU 30.8.2021), whose §§ 1º-2º replaced it; "
+            "the MP's term ended on 6.2.2022, so the parágrafo único (printed again, struck, below the MP's paragraphs) is in force "
+            "again from 7.2.2022 until Lei 14.474/2022 (DOU 7.12.2022) gave the article §§ 1º-2º; the reader had dated that copy "
+            "from the MP's day")
+_W42_852 = ("Lei 9.636 art. 42 § 1º: Medida Provisória 852/2018 (DOU 24.9.2018) numbered the parágrafo único as § 1º with a new "
+            "wording and added § 2º; its conversion, Lei 13.813/2019 (DOU 10.4.2019), did the same with other words. The notes read "
+            "'(Numerado do parágrafo único para parágrafo primeiro pela ...)', which the reader does not date, so it had dated both "
+            "§ 1º wordings from 1998: the MP's wording stands from 24.9.2018 to 10.4.2019, Lei 13.813's from 10.4.2019")
+B8.SPAN_FIX += [
+    ((_LBIU, "art-02", "Parágrafo único", "Parágrafo único. O termo a que se refere este artigo", 1),
+     {"start": "2022-02-07", "start_law": "mp-1065-2021-fim", "restored": True}, _W2_1065),
+    ((_LBIU, "art-42", "§ 1º", "§ 1º Na hipótese de o empreendimento envolver áreas originariamente", 0),
+     {"start": "2018-09-24", "start_law": "mp-852-2018", "end": "2019-04-10", "end_law": "lei-13813-2019",
+      "end_how": "conversion"}, _W42_852),
+    ((_LBIU, "art-42", "§ 1º", "§ 1º Na hipótese de o empreendimento envolver áreas originariamente", 1),
+     {"start": "2019-04-10", "start_law": "lei-13813-2019"}, _W42_852),
+]
+LBIU_DROPPED: list[str] = []
+_paragraphsLBIU = P.paragraphs
+
+
+def paragraphs(html, digits):
+    """Lei 9.636: the struck heading 'Seção II-A / Da Inscrição da Ocupação', printed with 'Vide' notes (Medidas Provisórias
+    292/2006 and 335/2006) above Lei 11.481/2007's heading of the same words, is not in the 1998 text (the Chamber's copy of
+    the original publication has no Seção II-A): left out, so the section heading starts with Lei 11.481"""
+    out, rest = _paragraphsLBIU(html, digits)
+    if B8.CURRENT_PAGE[0] == "l9636":
+        keep = []
+        for p in out:
+            if p["heading"] and p["state"] != "plain" and p["text"] in ("Seção II-A", "Da Inscrição da Ocupação"):
+                LBIU_DROPPED.append(p["text"])
+            else:
+                keep.append(p)
+        out = keep
+        if LBIU_DROPPED and not any("Seção II-A" in x for x in EXTRA):
+            EXTRA.append(
+                "Lei 9.636 Seção II-A heading: Planalto prints a struck heading 'Seção II-A / Da Inscrição da Ocupação' with 'Vide' "
+                "notes (Medidas Provisórias 292/2006 and 335/2006) above the heading Lei 11.481/2007 gave (note 'Redação dada pela "
+                "Lei nº 11.481, de 2007'); the Chamber's copy of the original publication (DOU 18.5.1998) has no Seção II-A, and the "
+                "MPs' wordings are not printed, so the struck heading is left out and the section heading starts on 31.5.2007")
+    return out, rest
+
+
+P.paragraphs = paragraphs
+B6.CONTEXT.append({
+    "when": lambda: bool(LBIU_DROPPED),
+    "pins": ["ctx:camara-lei-9636-1998-original"],
+    "what": "the original publication of Lei 9.636/1998 (DOU 18.5.1998), to read the 1998 section headings"})
+B.EXPLAINED[_LBIU] = {
+    "art-16": "typesetting: Planalto's consolidated page (Lei 9.636 compilado) prints art. 16 twice; the annotated page prints it "
+              "once",
+    "art-32": "typesetting: the consolidated page reads 'Decreto-Lei no 9.760' where the annotated page reads 'Decreto-Lei nº "
+              "9.760'"}
+B13.OPEN_ITEMS[_LBIU] = (
+    "Lei 9.636 (open items): the text before 18.5.1998 (the Medida Provisória 1.647 reissue chain, of which this Lei is the "
+    "conversion of edition 15) is not part of the history; Medidas Provisórias 292/2006 (term ended) and 335/2006 (converted "
+    "into Lei 11.481/2007) changed provisions that Planalto marks only with 'Vide' notes and does not print their wordings, so "
+    "those wordings are not in the history: the earlier wordings stand until Lei 11.481/2007; 'Vide' pointers to Medidas "
+    "Provisórias 152/2003 and 283/2006 strike no words and are not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
