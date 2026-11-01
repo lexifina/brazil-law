@@ -5685,6 +5685,22 @@ if any(a["slug"] == _LIBAMA for a in ACTS):
         P.NOTE_FIX[f"({_how} pela Lei nº 11.516, 2007)"] = (
             f"({_how} pela Lei nº 11.516, de 2007)", f"Lei 7.735: the '{_how}' notes read 'pela Lei nº 11.516, 2007' (the word "
                                                      "'de' is missing; their links go to Lei 11.516/2007)")
+    # art. 2: Medida Provisória 366/2007 art. 5 gave the whole article a new wording (caput and incisos I to III, closed
+    # with '(NR)', no parágrafo único). Planalto prints the MP's caput and incisos unstruck with only its note struck, so
+    # incisos I and II (no note of their own) took the act's first day, and the parágrafo único of MP 2.216-37 (struck, no
+    # note) ran on to Lei 11.516
+    _W7735 = ("Lei 7.735 art. 2: Medida Provisória 366/2007 (DOU 27.4.2007) art. 5 gave the whole article a new wording, "
+              "'com a finalidade de: I - [...] II - [...] III - [...]' (NR), with no parágrafo único; its incisos I and II "
+              "start on 27.4.2007 (not 1989; Planalto prints the MP's lines unstruck under its struck note) and the parágrafo "
+              "único from Medida Provisória 2.216-37/2001 ('até 30 de abril de 1999') ends that day")
+    B8.SPAN_FIX += [
+        ((_LIBAMA, "art-02", "I -", "I - exercer o poder de polícia ambiental", 0),
+         {"start": "2007-04-27", "start_law": "mp-366-2007"}, _W7735),
+        ((_LIBAMA, "art-02", "II -", "II - executar ações das políticas nacionais", 0),
+         {"start": "2007-04-27", "start_law": "mp-366-2007"}, _W7735),
+        ((_LIBAMA, "art-02", "Parágrafo único", "Parágrafo único. O Poder Executivo disporá", 0),
+         {"end": "2007-04-27", "end_law": "mp-366-2007", "end_how": "successor"}, _W7735),
+    ]
     B13.OPEN_ITEMS[_LIBAMA] = (
         "Lei 7.735 (open items): the text before 23.2.1989 (Medida Provisória 34/1989, of which this Lei is the conversion) is "
         "not part of the history; 'Vide' pointers and regulations strike no words and are not modelled")
