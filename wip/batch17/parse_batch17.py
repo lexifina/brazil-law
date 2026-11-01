@@ -983,7 +983,7 @@ QUOTED_HEADINGS: list[str] = []
 # the article (which wording of another act it refers to), not an amendment note; the reader takes them for a bare note.
 BARE_TEXT = {"l7689": "art-11", "l9249": "art-14", "l9430": "art-88", "l9873": ("art-03", "art-08"), "l9984": "art-29",
              "l9984-compilado": "art-29", "l10637": ("art-47", "art-54"), "l10637-compilado": ("art-47", "art-54"),
-             "l10833": ("art-23", "art-40"), "l10833-compilado": ("art-23", "art-40")}
+             "l10833": ("art-23", "art-25", "art-40"), "l10833-compilado": ("art-23", "art-40")}
 BARE_TEXT_USED: list[str] = []
 QUOTE_DROPPED: list[str] = []
 _BARE_RX = re.compile(r"\(?\s*(reda[çc][ãa]o dada pel[oa] (?:Decreto-Lei|Lei) n[º°.]?\s*[\d.]+, de \d{1,2} de \w+ de \d{4}[.;]?)\s*\)?",
@@ -1277,7 +1277,8 @@ def paragraphs(html, digits):
 # 'produzindo efeito', art. 94 VI 'dos efeito'); its consolidated page and the Chamber of Deputies' copy of the original
 # publication (DOU 30.12.2003) print 'efeitos'. A line of the annotated page whose words are not found in the consolidated
 # page, the original publication or the page of the act its note names, but are found there with one set of its 'efeito'
-# made 'efeitos', takes those words. Comparison on letters and digits only ('nº' and 'n o' alike).
+# made 'efeitos', takes those words (Lei 11.727/2008's page too: art. 58-M's struck caput has only a revocation note).
+# Comparison on letters and digits only ('nº' and 'n o' alike).
 EFX_REFS = ("l10833-compilado", "ctx:camara-lei-10833-2003-original", "law:lei-11727-2008")
 _EFX_CACHE: dict[str, str] = {}
 EFX_FIXED: list[str] = []
@@ -2531,7 +2532,8 @@ def _inner(*a):
                    "text, not an amendment note (" + ", ".join(dict.fromkeys(x for x in BARE_TEXT_USED if x.startswith("l10637"))) + ").")
     if any(x.startswith("l10833") for x in BARE_TEXT_USED):
         dec.append("Lei 10.833 art. 23 ('[...] da Lei nº 9.718, de 27 de novembro de 1998, com a redação dada pela Lei nº 9.990, de "
-                   "21 de julho de 2000, sobre os gases [...]') and art. 40 ('O caput do art. 1º do Decreto-Lei nº 1.593, de 21 de "
+                   "21 de julho de 2000, sobre os gases [...]'), the 2003 wording of art. 25 ('[...] com a redação dada pela Lei "
+                   "nº 10.548, de 13 de novembro de 2002.') and art. 40 ('O caput do art. 1º do Decreto-Lei nº 1.593, de 21 de "
                    "dezembro de 1977, com a redação dada pela Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e o art. 18 do "
                    "mesmo Decreto-Lei passam a vigorar [...]'): these words name the wording of the other act the article refers to; "
                    "they are part of the text, not an amendment note (" + ", ".join(dict.fromkeys(x for x in BARE_TEXT_USED
@@ -2603,8 +2605,8 @@ def _inner(*a):
         dec.append("Lei 10.833: Planalto's annotated page prints 'efeito' where the Lei says 'efeitos' (for example art. 23 'gases "
                    "liquefeito de petróleo', art. 93 'produzindo efeito', art. 94 VI 'dos efeito desta Lei'); Planalto's "
                    "page of the consolidated text (l10.833compilado.htm) and the Chamber of Deputies' copy of the original publication (DOU 30.12.2003, edição "
-                   "extra-A) print 'efeitos'. A line whose words are found in neither of those texts nor on the page of the act "
-                   "its note names, but are found there with 'efeitos' in place of 'efeito', takes those words (comparison of "
+                   "extra-A) print 'efeitos'. A line whose words are found in none of those texts, the page of the act its note "
+                   "names or the page of Lei 11.727/2008 (which added arts. 58-A to 58-U), but are found there with 'efeitos' in place of 'efeito', takes those words (comparison of "
                    "letters and digits only; " + str(len(dict.fromkeys(EFX_FIXED))) + " lines: " + ", ".join(dict.fromkeys(EFX_FIXED)) + ").")
     if EFX_OPEN:
         dec.append("Lei 10.833: lines with 'efeito' that no other text settles, kept as the annotated page prints them ("
