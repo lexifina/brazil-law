@@ -6925,9 +6925,10 @@ B13.OPEN_ITEMS[_LRFAL] = (
     "Lei 11.952 (open items): it is the conversion of Medida Provisória 458/2009, whose text is not modelled (the history starts "
     "with the Lei, in force on publication, 26.6.2009); Medida Provisória 910/2019 lapsed (in force to 19.5.2020) and the "
     "wordings it replaced stand again from 20.5.2020; units an MP's quoted article left out with no dotted line (art. 1 "
-    "parágrafo único under Medida Provisória 910, art. 30 incisos and paragraphs under Medida Provisória 759/2016) are absent "
-    "during its term (judgement call, as LC 95 art. 12 III reads); 'Vide ADIN nº 4.269' notes (art. 15) strike no words and "
-    "are not modelled; 'Regulamento' pointers strike no words")
+    "parágrafo único and art. 19 incisos I-II under Medida Provisória 910, art. 30 incisos and paragraphs under Medida "
+    "Provisória 759/2016) are absent during its term (Lei Complementar 95/1998 art. 12 III: an article republished with '(NR)' "
+    "and no dotted line replaces the whole unit, so the parts it leaves out are absent while the measure is in force); 'Vide "
+    "ADIN nº 4.269' notes (art. 15) strike no words and are not modelled; 'Regulamento' pointers strike no words")
 
 # part zzzo (thirty-fourth session): Lei 14.063/2020 (assinaturas eletrônicas). Hand items set only when the act runs.
 _LASSE = "lei-das-assinaturas-eletronicas"
