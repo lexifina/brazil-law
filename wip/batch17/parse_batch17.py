@@ -536,6 +536,11 @@ ALL_ACTS: list[dict] = [
          "Processo administrativo sancionador do Banco Central do Brasil e da CVM (Lei nº 13.506, de 13 de novembro de 2017)", 2),
     _act("lei-da-duplicata-escritural", "LDupE", "l13775", "l13775", "lei-13775-2018",
          "Duplicata escritural (Lei nº 13.775, de 20 de dezembro de 2018)", 2),
+    # twenty-eighth session
+    _act("lei-do-sistema-nacional-de-credito-cooperativo", "LCoopCred", "lcp130", "lcp130", "lc-130-2009",
+         "Sistema Nacional de Crédito Cooperativo (Lei Complementar nº 130, de 17 de abril de 2009)", 2),
+    _act("lei-da-cedula-de-produto-rural", "LCPR", "l8929", "l8929", "lei-8929-1994",
+         "Cédula de Produto Rural (Lei nº 8.929, de 22 de agosto de 1994)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -627,6 +632,9 @@ PARTS: dict[str, list[str]] = {
     "zzx": ["lei-da-fiscalizacao-do-abastecimento-de-combustiveis"],
     "zzy": ["lei-do-sistema-de-pagamentos-brasileiro", "lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm",
             "lei-da-duplicata-escritural"],
+    # twenty-eighth session
+    "zzz": ["lei-do-sistema-nacional-de-credito-cooperativo"],
+    "zzza": ["lei-da-cedula-de-produto-rural"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -882,6 +890,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-13775-2018": ("2019-04-20", "Lei 13.775/2018 art. 13: 'Esta Lei entra em vigor após decorridos 120 (cento e vinte) dias de "
                                      "sua publicação oficial' (DOU 21.12.2018): 120 days after 21.12.2018, 20.4.2019 (the day part c "
                                      "dates its change to Lei 9.492)"),
+    # twenty-eighth session
+    "lc-130-2009": ("2009-04-17", "Lei Complementar 130/2009 art. 19: 'Esta Lei Complementar entra em vigor na data de sua "
+                                  "publicação' (DOU 17.4.2009, edição extra)"),
+    "lei-8929-1994": ("1994-08-23", "Lei 8.929/1994 art. 20: 'Esta lei entra em vigor na data de sua publicação' (DOU 23.8.1994)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1376,6 +1388,12 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-10214-2001": _L("Lei nº 10.214, de 2001", "Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação "
                          "e de liquidação, no âmbito do sistema de pagamentos brasileiro, e dá outras providências.", "2001-03-27",
                          "2001-03-28", PAGES["l10214"]),
+    # twenty-eighth session; lc-130-2009 as 99-batch13f and 16e have the record
+    "lc-130-2009": _L("Lei Complementar nº 130, de 2009", "Dispõe sobre o Sistema Nacional de Crédito Cooperativo e revoga "
+                      "dispositivos das Leis n os 4.595, de 31 de dezembro de 1964, e 5.764, de 16 de dezembro de 1971.",
+                      "2009-04-17", "2009-04-17", "leis/LCP/Lcp130.htm"),
+    "lei-8929-1994": _L("Lei nº 8.929, de 1994", "Institui a Cédula de Produto Rural, e dá outras providências.", "1994-08-22",
+                        "1994-08-23", PAGES["l8929"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -5997,6 +6015,19 @@ B13.OPEN_ITEMS[_LSPB] = (
 B13.OPEN_ITEMS[_LDUPE] = (
     "Lei 13.775 (open items): its changes to Lei 9.492/1997 (art. 8) are part of that Lei's history (part c); regulations "
     "strike no words and are not modelled")
+
+# part zzz (twenty-eighth session): Lei Complementar 130/2009 (Sistema Nacional de Crédito Cooperativo). No hand items.
+
+# part zzza (twenty-eighth session): Lei 8.929/1994 (Cédula de Produto Rural). Hand items set only when the act runs.
+_LCPR = "lei-da-cedula-de-produto-rural"
+if any(a["slug"] == _LCPR for a in ACTS):
+    P.NOTE_FIX["(Redação da pela Lei nº 13.986, de 2020"] = (
+        "(Redação dada pela Lei nº 13.986, de 2020)",
+        "Lei 8.929: 25 notes read '(Redação da pela Lei nº 13.986, de 2020', the word 'dada' cut short and the closing "
+        "parenthesis missing (Lei 13.986's art. 42 gives these wordings): read as 'Redação dada pela Lei nº 13.986, de 2020'")
+    P.NOTE_FIX["(Revogado pela Lei nº 13.986, de 2020"] = (
+        "(Revogado pela Lei nº 13.986, de 2020)",
+        "Lei 8.929: 19 notes read '(Revogado pela Lei nº 13.986, de 2020', the closing parenthesis missing: read as closed")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

@@ -1645,6 +1645,12 @@
    }
   },
   {
+   "id": "law:lc-161-2018",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp161.htm",
+   "ts": "20260711150010",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lc-166-2019",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp166.htm",
    "ts": "20261018072509",
@@ -1666,6 +1672,12 @@
    "id": "law:lc-189-2022",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp189.htm",
    "ts": "20261004142009",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lc-196-2022",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp196.htm",
+   "ts": "20261007121628",
    "via": "wayback.py"
   },
   {
@@ -1713,6 +1725,12 @@
    "id": "law:lc-98-1999",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp98.htm",
    "ts": "20261013180452",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-10200-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/LEIS_2001/L10200.htm",
+   "ts": "20261004103320",
    "via": "wayback.py"
   },
   {
@@ -4012,6 +4030,12 @@
    "id": "law:mp-1078-2021",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Mpv/mpv1078.htm",
    "ts": "20260609152700",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1104-2022",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Mpv/mpv1104.htm",
+   "ts": "20261015114110",
    "via": "wayback.py"
   },
   {

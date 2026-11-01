@@ -1,0 +1,8 @@
+{
+ "about": "Law keys the automatic pinning commands (fetch_batch5.py laws / missing, and every batch fetcher built on it) never pin: each was pinned once from a note link, and headyear.py showed that the page at the link is a different act. `gap <id> <url>` still pins a key on purpose.",
+ "keys": {
+  "law:mp-144-2003": "the linked pages (MPV/144.htm, MPV/Antigas_2003/144.htm) are Lei 9.427/1996, not MP 144/2003 (removed in parts zzv and zzw)",
+  "law:mp-181-2004": "the linked page (_Ato2004-2006/2004/Mpv/181.htm) is Lei 10.438/2002, not MP 181/2004 (removed in part zzw)",
+  "law:dl-900-1968": "misprinted key: the linked page is Decreto-Lei 900 of 29.9.1969 (removed in part zzm after the NOTE_FIX)"
+ }
+}

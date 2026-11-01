@@ -3,6 +3,7 @@
     python -X utf8 scripts/brazil-law/batch5/fetch_batch5.py ccindex [N]   # Common Crawl index of planalto.gov.br/ccivil_03/ (newest N crawls)
     python -X utf8 scripts/brazil-law/batch5/fetch_batch5.py pages         # pin + fetch the acts' annotated/consolidated pages
     python -X utf8 scripts/brazil-law/batch5/fetch_batch5.py laws [ids]    # pin + fetch every law the notes link to
+                                                                    # (laws and missing skip the keys in ../bad_pins.json)
     python -X utf8 scripts/brazil-law/batch5/fetch_batch5.py missing       # cited laws with no link: Planalto's usual paths
     python -X utf8 scripts/brazil-law/batch5/fetch_batch5.py gap <id> <planalto url>   # pin + fetch one page
     python -X utf8 scripts/brazil-law/batch5/fetch_batch5.py lexml         # LexML record of every cited law (DOU day)
@@ -162,6 +163,17 @@ def pin_many(todo: dict[str, str]) -> int:
     return 1 if bad else 0
 
 
+BAD_PINS = HERE.parent / "bad_pins.json"
+
+
+def drop_bad(todo: dict[str, str]) -> dict[str, str]:
+    """Leave out every key in ../bad_pins.json (pins headyear.py showed to be a different act's page)."""
+    bad = json.loads(BAD_PINS.read_text(encoding="utf-8"))["keys"] if BAD_PINS.exists() else {}
+    for k in sorted(set(todo) & set(bad)):
+        print("skipped (bad_pins.json):", k, "-", bad[k], flush=True)
+    return {k: u for k, u in todo.items() if k not in bad}
+
+
 def linked_laws(idents: list[str]) -> dict[str, str]:
     found: dict[str, str] = {}
     for ident in idents:
@@ -257,7 +269,7 @@ def main(argv: list[str]) -> int:
     if cmd == "laws":
         found = linked_laws(argv[1:] or [a["page"] for a in PB.ACTS])
         print(len(found), "acts linked from the notes", flush=True)
-        return pin_many({"law:" + k: u for k, u in sorted(found.items())})
+        return pin_many(drop_bad({"law:" + k: u for k, u in sorted(found.items())}))
     if cmd == "missing":
         import warnings
         warnings.filterwarnings("ignore")
@@ -279,7 +291,7 @@ def main(argv: list[str]) -> int:
                     break
             else:
                 print("no Common Crawl path for", k)
-        return pin_many(todo)
+        return pin_many(drop_bad(todo))
     if cmd == "lexml":
         return F.main(["lexml"])
     if cmd == "plan":

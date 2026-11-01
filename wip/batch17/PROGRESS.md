@@ -1753,3 +1753,52 @@ Pages pinned (`iaonly.py pages`, 6): l14300 (20261021135456), l10438 (2026100420
   final27c-build.log: 259 acts, 3660 versions, 2621 commits, check 0/0, compare identical, audit clean; headyear same.
 - NEW DATED RE-CHECK: Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026 congresso): once archived, add MPs 1.340/1.349 to zzx with
   their lapse days, and Lei 12.462 art. 63 § 17 to part v.
+### 99-batch17zzy - PUBLISHed: banking - Leis 10.214/2001 (LSPB, 4), 13.506/2017 (LPAS, 2), 13.775/2018 (LDupE, 1)
+- Pages pinned (`iaonly.py pages`, 5): lcp130 (20261021165157), l10214 (20261005192732), l13506 (20261004164912), l8929
+  (20261015144412), l13775 (20261012064658). notecount: lcp130 107 (LC 196/2022 102, LC 161/2018 5); l8929 136 (Lei 13.986/2020 56,
+  MP 897/2019 41, Lei 14.421/2022 23, Lei 10.200/2001 7, Lei 11.076/2004 5, MP 1.104/2022 3, Lei 14.112/2020 1).
+- zzy: ACT_LAWS records copied from 99-batch8 (lei-13506-2017) and 99-batch17c (lei-13775-2018) by a script (exact strings);
+  Lei 13.775 ACT_DAY 20.4.2019 (= part c's day). SPAN_FIX _W9_784 (Lei 10.214 art. 9 restored I/II/p.u. from 20.10.2017, _R784).
+- pipe.sh zzy (b27/zzy-pipe2.out): sha 4ea4b197 x2, 0 moves, flags benign (PUBLISH). Installed; docs rows-zzy.json;
+  final27d-build.log: 262 acts, 3667 versions, 2624 commits, check 0/0, compare identical, audit clean; headyear same.
+- NEXT: LC 130/2009 (lcp130 pinned; LC 196/2022 rewrote most of it: 102 notes; record = 13f's) and Lei 8.929/1994 (CPR; l8929
+  pinned; MP 897/2019 -> Lei 13.986/2020, MP 1.104/2022 -> Lei 14.421/2022: read each conversion and vigência first), then public
+  administration (Leis 8.159, 9.491, 13.334; LC 35/1979; Lei 5.010/1966).
+
+## State at handoff (batch 17, twenty-seventh session, 2026-11-01)
+Installed with .PUBLISH this session: zzv (Leis 14.300/2022, 9.991/2000; 23 versions incl. 1 futuro), zzw (Lei 10.438/2002; 42), zzx
+(Lei 9.847/1999; 7; MPs 1.340/1.349 of 2026 left out), zzy (Leis 10.214/2001, 13.506/2017, 13.775/2018; 7) = 7 acts, 79 versions.
+Final merged build of the installed folder after all docs (brazil-b27/final27d-build.log): 262 acts, 3667 versions, 2624 commits,
+check 0/0, --compare identical, audit_push clean on main and futuro; README rows (+ futuro line for Lei 9.991 art. 1º-A) and
+jurisdiction.json (262 acts, 3667 versions) current. headyear unchanged (b27/hy6.log = b26/hy.log). All runs through .tmp/run.py /
+pipe.sh at BelowNormal behind the cpu gate, one at a time, never two parses; PIDs printed in each b27 log / pipe output; all mine,
+all exited. Nothing running. Fetching: archive.org only through the shared client (robots.txt read at start); no challenge page.
+New in code: parse_batch17 PAGES (energy + banking pages), acts/PARTS/ACT_DAY/ACT_LAWS for zzv-zzy, blocks '# part zzv' (SPAN_FIX
+_W14300, _W14514, scoped VIGENCIA_FIXED/MP_LAPSE, l9991 renumbering wrapper), '# part zzw' (MP fates, CONV_RESTORE/CONV_WHY
+_LPROINFA, EXPLAINED), '# part zzx' (l9847 drop wrapper for MPs 1.340/1.349), '# part zzy' (_W9_784); effects_fix MOVES zzv (6
+moves), zzw (MP 1.304 art. 13-A never in effect). sources_batch17.json: law:mp-144-2003, law:mp-181-2004 removed (bad pins; `laws`
+re-adds them from Vide links: run headyear after every `laws` and remove them again). Backups: brazil-b27/before/.
+DATED RE-CHECKS: MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once archive.org has
+_ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; NEW: Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026 congresso) once archived ->
+add MPs 1.340/1.349 to part zzx and Lei 12.462 art. 63 § 17 to part v.
+NEXT: LC 130/2009 and Lei 8.929/1994 (pages pinned, not configured; see zzy notes), then public administration (Leis 8.159, 9.491,
+13.334; LC 35/1979; Lei 5.010/1966).
+
+## Twenty-eighth session (2026-11-01): Task 1 bad-pin blocklist, Task 2 LC 130, Lei 8.929, then public administration
+robots.txt read at start (archive.org: Disallow /control/ /report/ only; web.archive.org 404). Fetching: archive.org only through
+the shared client (iaonly.py). Scratch: .gitlaw-scratch/brazil-b28 (before/ = fetch_batch5.py, sources_batch17.json,
+parse_batch17.py, effects_fix.py, README, jurisdiction.json before the session; page dumps, logs, conv_report.py copy).
+### Task 1 DONE: scripts/brazil-law/bad_pins.json + fetch_batch5.drop_bad()
+- bad_pins.json {"keys": {key: reason}}: law:mp-144-2003, law:mp-181-2004 (Vide links whose pages are Leis 9.427 / 10.438) and
+  law:dl-900-1968 (misprinted key, removed in zzm): every key headyear caught and a session removed. The headyear BAD lines that
+  stay (hy6 baseline: rNN edition keys, lc-189-*, mp-173/339/37/86, lei-7619-1987 ...) are pinned and some are read by installed
+  parts, so they are not blocked (blocking only stops new pins anyway; already-pinned keys are skipped by pin_many).
+- fetch_batch5.py `laws` and `missing` pass their todo through drop_bad() (prints 'skipped (bad_pins.json): key - reason'); every
+  batch fetcher built on fetch_batch5 (5b, 6-17, iaonly.py) gets it. `gap <id> <url>` still pins on purpose.
+- Test (b28/laws-t1.log, PID 37684): `iaonly.py laws l14300 l9991 l10438 l10438-compilada l9847 l9847-compilado` -> both keys
+  skipped, 0 pinned; every sources*.json byte-identical before/after (srcsha-before/after.txt); headyear = b27/hy6.log (PID
+  52536). No part rewritten, corpus.d untouched.
+### 99-batch17zzz - PUBLISHed: Lei Complementar 130/2009 (LCoopCred, 3 versions 2009-04-17, LC 161 2018-01-05, LC 196 2022-08-25)
+- `iaonly.py laws lcp130 l8929` (PID 52816): 4 new pins law:lc-161-2018, lc-196-2022, lei-10200-2001, mp-1104-2022; missing 0;
+  headyear same. No hand items. pipe.sh zzz (b28/zzz-pipe1.out): sha 2d6306ba x2, 0 moves, flags benign (PUBLISH). conv 0.
+  Installed; rows-zzz.json; final28a-build.log: 263 acts, 3670 versions, 2627 commits, check 0/0, compare identical, audit clean.
