@@ -555,6 +555,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "l11473-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/L11473compilado.htm",
+   "ts": "20260519074649",
+   "via": "wayback.py"
+  },
+  {
    "id": "l11494",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11494.htm",
    "ts": "20261018234644",
@@ -1485,6 +1491,12 @@
    "id": "l9991",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/l9991.htm",
    "ts": "20261004222620",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:dec-4427-2002",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/2002/D4427.htm",
+   "ts": "20260823170333",
    "via": "wayback.py"
   },
   {
@@ -2613,12 +2625,6 @@
    "id": "law:lei-12886-2013",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12886.htm",
    "ts": "20260614101356",
-   "via": "wayback.py"
-  },
-  {
-   "id": "law:lei-12963-2012",
-   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12693.htm",
-   "ts": "20260817002604",
    "via": "wayback.py"
   },
   {
@@ -4609,12 +4615,6 @@
    "id": "law:mp-150-1990",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/1990-1995/150.htm",
    "ts": "20261004161143",
-   "via": "wayback.py"
-  },
-  {
-   "id": "law:mp-152-2003",
-   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas_2003/152.htm",
-   "ts": "20260414051544",
    "via": "wayback.py"
   },
   {

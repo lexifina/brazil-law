@@ -253,6 +253,7 @@ PAGES.update({
     "l9636-compilado": "leis/l9636compilado.htm",
     "l8730": "leis/l8730.htm",
     "l11473": "_ato2007-2010/2007/lei/l11473.htm",
+    "l11473-compilado": "_ato2007-2010/2007/lei/L11473compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -569,6 +570,19 @@ ALL_ACTS: list[dict] = [
     # twenty-ninth session
     _act("lei-do-programa-de-parcerias-de-investimentos", "LPPI", "l13334", "l13334-compilado", "lei-13334-2016",
          "Programa de Parcerias de Investimentos - PPI (Lei nº 13.334, de 13 de setembro de 2016)", 2),
+    # thirtieth session: public administration laws
+    _act("lei-da-relicitacao", "LRelic", "l13448", "l13448", "lei-13448-2017",
+         "Prorrogação e relicitação dos contratos de parceria (Lei nº 13.448, de 5 de junho de 2017)", 2),
+    _act("lei-10180-de-2001", "L10180", "l10180", "l10180", "lei-10180-2001",
+         "Sistemas de Planejamento e de Orçamento, de Administração Financeira, de Contabilidade e de Controle Interno do Poder "
+         "Executivo Federal (Lei nº 10.180, de 6 de fevereiro de 2001)", 2),
+    _act("lei-da-declaracao-de-bens-e-rendas", "LDBens", "l8730", "l8730", "lei-8730-1993",
+         "Declaração de bens e rendas para o exercício de cargos, empregos e funções (Lei nº 8.730, de 10 de novembro de 1993)", 2),
+    _act("lei-da-forca-nacional-de-seguranca-publica", "LFNSP", "l11473", "l11473-compilado", "lei-11473-2007",
+         "Cooperação federativa na segurança pública - Força Nacional de Segurança Pública (Lei nº 11.473, de 10 de maio de "
+         "2007)", 2),
+    _act("lei-da-organizacao-da-presidencia-e-dos-ministerios", "LOPM", "l14600", "l14600", "lei-14600-2023",
+         "Organização básica dos órgãos da Presidência da República e dos Ministérios (Lei nº 14.600, de 19 de junho de 2023)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -667,6 +681,10 @@ PARTS: dict[str, list[str]] = {
     "zzzc": ["lei-da-justica-federal-de-primeira-instancia", "lei-do-programa-nacional-de-desestatizacao"],
     # twenty-ninth session
     "zzzd": ["lei-do-programa-de-parcerias-de-investimentos"],
+    # thirtieth session
+    "zzze": ["lei-da-relicitacao", "lei-10180-de-2001", "lei-da-declaracao-de-bens-e-rendas"],
+    "zzzf": ["lei-da-forca-nacional-de-seguranca-publica"],
+    "zzzg": ["lei-da-organizacao-da-presidencia-e-dos-ministerios"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -934,6 +952,11 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-9491-1997": ("1997-09-10", f"Lei 9.491/1997 art. 34: {_PUB} (DOU 10.9.1997, republished 11.9.1997)"),
     # twenty-ninth session
     "lei-13334-2016": ("2016-09-13", f"Lei 13.334/2016 art. 22: {_PUB} (DOU 13.9.2016, edição extra, rectified 15.9.2016)"),
+    "lei-13448-2017": ("2017-06-06", f"Lei 13.448/2017 art. 37: {_PUB} (DOU 6.6.2017)"),
+    "lei-10180-2001": ("2001-02-07", f"Lei 10.180/2001 art. 40: {_PUB} (DOU 7.2.2001)"),
+    "lei-8730-1993": ("1993-11-11", "Lei 8.730/1993 art. 8: 'Esta lei entra em vigor na data de sua publicação' (DOU 11.11.1993)"),
+    "lei-11473-2007": ("2007-05-11", f"Lei 11.473/2007 art. 10: {_PUB} (DOU 11.5.2007)"),
+    "lei-14600-2023": ("2023-06-20", f"Lei 14.600/2023 art. 79: {_PUB} (DOU 20.6.2023, republished 21.6.2023)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1447,6 +1470,28 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-13334-2016": _L("Lei nº 13.334, de 2016", "Cria o Programa de Parcerias de Investimentos - PPI; altera a Lei nº 10.683, "
                          "de 28 de maio de 2003, e dá outras providências.", "2016-09-13", "2016-09-13",
                          "_Ato2015-2018/2016/Lei/L13334.htm"),
+    # thirtieth session (lei-13448-2017 as 99-batch17w, lei-14600-2023 as 99-batch10 and the other parts have the records)
+    "lei-13448-2017": _L("Lei nº 13.448, de 2017", "Estabelece diretrizes gerais para prorrogação e relicitação dos contratos de "
+                         "parceria definidos nos termos da Lei nº 13.334, de 13 de setembro de 2016, nos setores rodoviário, "
+                         "ferroviário e aeroportuário da administração pública federal, e altera a Lei nº 10.233, de 5 de junho de "
+                         "2001, e a Lei nº 8.987, de 13 de fevereiro de 1995.", "2017-06-05", "2017-06-06",
+                         "_Ato2015-2018/2017/Lei/L13448.htm"),
+    "lei-10180-2001": _L("Lei nº 10.180, de 2001", "Organiza e disciplina os Sistemas de Planejamento e de Orçamento Federal, de "
+                         "Administração Financeira Federal, de Contabilidade Federal e de Controle Interno do Poder Executivo "
+                         "Federal, e dá outras providências.", "2001-02-06", "2001-02-07", PAGES["l10180"]),
+    "lei-8730-1993": _L("Lei nº 8.730, de 1993", "Estabelece a obrigatoriedade da declaração de bens e rendas para o exercício de "
+                        "cargos, empregos e funções nos Poderes Executivo, Legislativo e Judiciário, e dá outras providências.",
+                        "1993-11-10", "1993-11-11", PAGES["l8730"]),
+    "lei-11473-2007": _L("Lei nº 11.473, de 2007", "Dispõe sobre cooperação federativa no âmbito da segurança pública e revoga a "
+                         "Lei nº 10.277, de 10 de setembro de 2001.", "2007-05-10", "2007-05-11", PAGES["l11473"]),
+    "lei-14600-2023": _L("Lei nº 14.600, de 2023", "Estabelece a organização básica dos órgãos da Presidência da República e dos "
+                         "Ministérios; altera as Leis nºs 9.984, de 17 de julho de 2000, 9.433, de 8 de janeiro de 1997, 8.001, de 13 "
+                         "de março de 1990, 14.204, de 16 de setembro de 2021, 11.445, de 5 de janeiro de 2007, 13.334, de 13 de "
+                         "setembro de 2016, 12.897, de 18 de dezembro de 2013, 8.745, de 9 de dezembro de 1993, 9.069, de 29 de junho "
+                         "de 1995, e 10.668, de 14 de maio de 2003; e revoga dispositivos das Leis nºs 13.844, de 18 de junho de 2019, "
+                         "13.901, de 11 de novembro de 2019, 14.261, de 16 de dezembro de 2021, e as Leis nºs 8.028, de 12 de abril de "
+                         "1990, e 14.074, de 14 de outubro de 2020.", "2023-06-19", "2023-06-20",
+                         "_Ato2023-2026/2023/Lei/L14600.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -6274,6 +6319,66 @@ B8.SPAN_FIX += [
 ]
 if any(a["slug"] == _LPPI for a in ACTS):
     EXTRA.append(_W8B + " (the article stands without a caput, as the source gives it)")
+
+# part zzze (thirtieth session): Lei 13.448/2017 (relicitação), Lei 10.180/2001, Lei 8.730/1993. Hand items set only when the
+# acts run.
+_L10180 = "lei-10180-de-2001"
+if any(a["slug"] == _L10180 for a in ACTS):
+    P.VIGENCIA_FIXED["lei-13328-2016"] = (
+        "2016-07-29", "art. 152: 'Esta Lei entra em vigor: I - na data de sua publicação, quanto aos arts. 1º a 16, 40 a 89, 92 e "
+                      "93, 105 a 108 e 113 a 119; II - em 1º de agosto de 2016, ou na data de publicação desta Lei, se posterior, "
+                      "nas hipóteses em que não estiver especificada outra data [...]' (DOU 29.7.2016, edição extra): its art. 41 "
+                      "(Lei 10.180 arts. 22 and 24) falls under I")
+    # Decreto nº 4.427/2002: an autonomous decree (CF art. 84 VI a) that gave Lei 10.180 art. 32 caput and § 1º their wording;
+    # its notes name a decree, keyed as batch 12 keys Decreto 3.995/2001 (dec-<n>-<year>)
+    B12.DECREES["dec-4427-2002"] = {
+        "enacted": "2002-10-17", "published": "2002-10-18",
+        "title": "Dá nova redação ao caput do art. 32 e § 1º da Lei nº 10.180, de 6 de fevereiro de 2001, que organiza e "
+                 "disciplina os Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de "
+                 "Contabilidade Federal e de Controle Interno do Poder Executivo Federal."}
+    P.VIGENCIA_FIXED["dec-4427-2002"] = (
+        "2002-10-18", "art. 2: 'Este Decreto entra em vigor na data de sua publicação' (DOU 18.10.2002); issued under CF art. 84 "
+                      "VI a, its art. 1 gives Lei 10.180 art. 32 caput and § 1º their wording")
+    P.NOTE_FIX["(Redação dada pelo Decreto nº 4.427, de 17.10.2002"] = (
+        "(Redação dada pelo Decreto nº 4.427, de 17.10.2002)",
+        "Lei 10.180 art. 32 caput: the note '(Redação dada pelo Decreto nº 4.427, de 17.10.2002' is not closed: read as closed")
+_LRELIC = "lei-da-relicitacao"
+B13.OPEN_ITEMS[_LRELIC] = (
+    "Lei 13.448 (open items): the text before 6.6.2017 (Medida Provisória 752/2016, of which this Lei is the conversion) is not "
+    "part of the history; 'Vide' pointers (Decreto 9.957/2019, Lei 14.273/2021) strike no words and are not modelled")
+B13.OPEN_ITEMS[_L10180] = (
+    "Lei 10.180 (open items): the text before 7.2.2001 (the Medida Provisória 2.112 reissue chain, of which this Lei is the "
+    "conversion of edition 88) is not part of the history; Decreto 4.427/2002, an autonomous decree (CF art. 84 VI a), is "
+    "credited for the wording of art. 32 caput and § 1º as Planalto's notes credit it")
+
+# part zzzf (thirtieth session): Lei 11.473/2007 (Força Nacional de Segurança Pública). Hand items set only when the act runs.
+_LFNSP = "lei-da-forca-nacional-de-seguranca-publica"
+if any(a["slug"] == _LFNSP for a in ACTS):
+    P.VIGENCIA_FIXED["mp-755-2016"] = (
+        "2016-12-20", "art. 5: 'Esta Medida Provisória entra em vigor: I - em 1º de janeiro de 2017, quanto ao disposto no art. "
+                      "2º; e II - na data de sua publicação, quanto aos demais dispositivos' (DOU 20.12.2016, rectified 21.12.2016): "
+                      "its art. 4 (Lei 11.473 arts. 2, 3 and 5) falls under II")
+    P.MP_PENDING["mp-755-2016"] = (
+        "Medida Provisória nº 755, de 19.12.2016 (DOU 20.12.2016; its art. 4, on Lei 11.473, in force on publication), revoked "
+        "by Medida Provisória nº 781, de 23.5.2017 (DOU 23.5.2017, edição extra, art. 3 II), whose conversion, Lei 13.500/2017 "
+        "(DOU 27.10.2017), repeats the revocation (art. 6 II); every wording Medida Provisória 755 gave this Lei is followed on "
+        "23.5.2017 by Medida Provisória 781's")
+_W781 = ("Lei 11.473 art. 3 §§ 1º and 2º: Medida Provisória 781/2017 (DOU 23.5.2017) gave both paragraphs its wording; its "
+         "conversion, Lei 13.500/2017 (DOU 27.10.2017, in force on publication), wrote art. 3 with incisos VI and VIII-X and "
+         "'Parágrafo único. (Revogado)' and kept neither paragraph, so both end on 27.10.2017 (the converted-MP rule; Planalto "
+         "prints the MP's § 1º unstruck, without an ending note)")
+B8.SPAN_FIX += [
+    ((_LFNSP, "art-03", "§ 1º", "§ 1º A cooperação federativa no âmbito da Secretaria Extraordinária de Segurança para Grandes "
+                               "Eventos do Ministério da Justiça", 0),
+     {"end": "2017-10-27", "end_law": "lei-13500-2017", "end_how": "conversion"}, _W781),
+    ((_LFNSP, "art-03", "§ 2º", "§ 2º As atividades de apoio administrativo imprescindíveis à atuação da Força Nacional de "
+                               "Segurança Pública do Ministério", 0),
+     {"end": "2017-10-27", "end_law": "lei-13500-2017", "end_how": "conversion"}, _W781),
+]
+B13.OPEN_ITEMS[_LFNSP] = (
+    "Lei 11.473 (open items): the text before 11.5.2007 (Medida Provisória 345/2007, of which this Lei is the conversion) is not "
+    "part of the history; after Lei 13.756/2018 numbered the parágrafo único as § 1º, Planalto prints § 1º and the new § 2º with "
+    "the same words, and the history follows Planalto's notes")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

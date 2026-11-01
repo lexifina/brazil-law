@@ -1891,3 +1891,29 @@ has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 an
 MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.
 OPEN for the coordinator: MP 768/782 and Lei 13.502 'produção de efeitos' (effects on organs from the structure decrees' entry into
 force, no day in the acts): dated by publication in zzzd; say if the decree days should be read instead.
+
+## Thirtieth session (2026-11-01): coordinator decision on zzzd, then Leis 13.448, 10.180, 8.730, 11.473, 14.600, 9.636
+robots.txt read at start (archive.org: Disallow /control/ /report/ only; web.archive.org 404; copies in brazil-b30/robots). Fetching:
+archive.org only through the shared client (iaonly.py). Scratch: .gitlaw-scratch/brazil-b30 (before/ = parse_batch17.py,
+sources_batch17.json, effects_fix.py, bad_pins.json, law_records.json, README, jurisdiction.json before the session; tools/dump.py
+(page text dumps <id>.txt), tools/conv_report.py copy; logs and pipe outputs).
+### 99-batch17zzzd re-PUBLISHed: coordinator decision recorded in OPEN_ITEMS[_LPPI]
+- Effects MPs 768/782 and Lei 13.502 leave to undated structure decrees keep the in-force day (an effect left to a later act is not a
+  fixed day). Only that decision text changed. pipe.sh zzzd (b30/zzzd-pipe1.out): sha ced79f03 x2, 0 moves, checks as before, merged
+  269 acts, 3722 versions, 2657 commits, check 0/0, compare identical, audit clean. Installed 5394d410; PUBLISH line appended.
+### Pins
+- `iaonly.py pages` (7): l14600 (20261012093944), l13448 (20261018013834), l10180 (20261004225430), l9636 (20261004150309),
+  l9636-compilado, l8730 (20261012142849), l11473 (20261010022557). `laws` (all 7 pages) 21 new; `missing` (zzze-zzzg acts) 0.
+  gap: law:dec-4427-2002 (decreto/2002/D4427.htm), l11473-compilado (L11473compilado.htm, 2026-05-19 capture).
+- Bad pins from l9636's links (headyear BAD): law:lei-12963-2012 (note misprint; page = Lei 12.693/2012), law:mp-152-2003 (page =
+  Lei 9.636) removed from sources_batch17.json and added to bad_pins.json. headyear (b30/hy2.log) = b29/hy1.
+- notecount: l14600 52 notes (Lei 14.816/2024 30, MP 1.187/2023 18, MP 1.203, Lei 14.875, MP 1.317/2025, Lei 15.352/2026 1 each);
+  l13448 5; l10180 9; l8730 0; l11473 81 (Lei 13.500/2017 26, MP 781 14, MP 755 12, Lei 13.756 5, ...); l9636 534 (Lei 14.011 101,
+  Lei 13.465 100, MP 915/2019 84, Lei 11.481 59, MP 759 35, MP 1.065/2021 29, MP 852 21, Lei 13.813 20, Lei 14.474 20, ...).
+### 99-batch17zzze - PUBLISHed: Lei 13.448/2017 (LRelic, 3), Lei 10.180/2001 (L10180, 5), Lei 8.730/1993 (LDBens, 1)
+- Block '# part zzze': scoped VIGENCIA_FIXED lei-13328-2016 = 29.7.2016 (art. 152 I covers its art. 41) and dec-4427-2002 =
+  18.10.2002; B12.DECREES dec-4427-2002 (autonomous decree for art. 32 caput/§ 1º, batch 12's Decreto 3.995 model); NOTE_FIX for the
+  unclosed Decreto 4.427 note; OPEN_ITEMS LRelic (MP 752 text, Vide) and L10180 (MP 2.112 chain, decree credit). Record
+  lei-13448-2017 = 99-batch17w's.
+- pipe.sh zzze (b30/zzze-pipe1.out): sha 8fc49496 x2, 0 moves, flags benign (PUBLISH). conv 0. Installed ad1bb5b1; rows-zzze.json;
+  merged 272 acts, 3731 versions, 2662 commits, check 0/0, compare identical, audit clean.
