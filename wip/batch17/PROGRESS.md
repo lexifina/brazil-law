@@ -1506,3 +1506,18 @@ copies of parse_batch17.py, sources_batch17.json, README.md, jurisdiction.json b
 - pipe.sh zzp (brazil-b24/zzp-pipe1.out): sha d8be2331 x2, 0 moves, checks benign (see PUBLISH); lawcmp clean; headyear unchanged
   (t24-hy.log). Installed; docs.py rows-zzp.json; final merged build (final24-build.log): 247 acts, 3516 versions, 2568 commits, check
   0/0, compare identical, audit clean; PUBLISH written. PIDs printed in brazil-b24/*.log and .tmp/zzp-*.log, all mine, all exited.
+
+### 99-batch17zzq - PUBLISHed: Lei 12.865/2013 (lei-12865-de-2013, L12865, 18 versions 2013-10-10 .. 2026-01-09 + 2027-01-01 futuro)
+- Hand (block in `if any(... _L12865 ...)`, after the zzp block): _G12865 art-34 1.2.2014 (art. 43 I); scoped VIGENCIA_FIXED mp-627-2013
+  12.11.2013 (art. 98: arts. 92-100 on publication) and lei-12973-2014 14.5.2014 (art. 119: arts. 93-119 on publication) - without
+  them both fell on 1.1.2015 and art. 40 § 7º broke ('restored wording after an open one'); MP_LAPSE mp-1227-2024 4.6.2024 (Ato CN 36/2024:
+  art. 6 rejected, 'não escritos' since its edition) + SPAN_FIX x5 (art. 31 § 6º I II, art. 32 caput + p.u. from 2013: the reader had
+  started them on the MP's day from the struck 'Revogado pela MP 1.227' note); EXPLAINED art-20/art-33 _DOTTED; _FUT2027 arts. 29-32
+  end 1.1.2027 (LC 214 art. 542 LIX) + B8.EXTRA_LAWS lc-214-2025 (= 14a/zj/zk record); OPEN_ITEMS.
+- Pins: 5 laws (iaonly laws), 0 missing. pipe.sh zzq (brazil-b24/zzq-pipe2.out): sha 3d749b53 x2, 0 moves, benign flags (PUBLISH);
+  lawcmp clean; reparse zzp/zzo equal, zzk sources counter only; headyear unchanged (t24-hy2.log). Installed; docs rows-zzq.json; README
+  futuro summary line names the 2027 repeal; final merged build (final24b-build.log): 248 acts, 3534 versions, 2576 commits, check 0/0,
+  compare identical, audit clean; PUBLISH written.
+- OPEN (not changed, for the coordinator): Lei 14.286/2021's in-force day differs between parts: its own act (zzg) starts 30.12.2022
+  (one year from DOU 30.12.2021, counted with the publication day), while the reader's default credits its changes to other acts on
+  31.12.2022 (13f Lei 4.595, 17g Lei 4.728, and now zzq Lei 12.865 art. 25). zzq follows 13f/17g (reader default).
