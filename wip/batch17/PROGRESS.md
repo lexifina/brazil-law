@@ -696,6 +696,20 @@ Lei 12.414/2011 (lei-do-cadastro-positivo, 3 versions 2011-06-10 .. 2019-07-09) 
   Parse sha 76baa61c (x2, 0 moves). Merged 201 acts, 3281 versions, 2408 commits, check 0/0, compare identical, audit clean
   (final15b-build.log, after rows-zn.json docs).
 
+## 99-batch17zo - PUBLISHed 2026-11-01 (fifteenth session)
+Lei 11.442/2007 (lei-do-transporte-rodoviario-de-cargas, 11 versions 2007-01-08 .. 2026-08-06), Lei 10.209/2001 (lei-do-vale-pedagio, 5
+versions 2001-03-24 .. 2021-10-22), Lei 9.611/1998 (lei-do-transporte-multimodal, 1 version). `iaonly.py laws` (3 new) + `missing` (0).
+- Hand (zo block, scoped): VIGENCIA_PROVISION (lei-14229-2021, LVP, art-08) = 22.10.2021 (art. 7 I; batch9's VIGENCIA_FIXED for
+  14.229 is the 180-day default 20.4.2022) + EXTRA decision. SPAN_FIX: LTRC art-05 renumbered § 1º skipped (Lei 14.206 art. 18
+  renumbered and gave '§ 1º (Revogado).' at once); LVP art-04 p.u. ends 14.11.2002 'repealed' (Lei 10.561 art. 4 revoked the whole
+  article; EXPLAINED); LVP art-07 struck copy = 2001 original (notes cleared, start 24.3.2001, ends 14.11.2002).
+- paragraphs wrapper (page l11442): art. 13 'Parágrafo único. (Revogado).' placeholder moved after § 9º and lines renumbered
+  (L11442_FIXED decision); ordercheck flags it in any position (benign).
+- Lei 13.103/2015 has no in-force clause (LINDB 45 days, 17.4.2015, reader). Lei 12.249 art. 128 retroactive (kept at publication).
+  Lei 15.485/2026 converted MP 1.343/2026 (no MP note on the page). OPEN_ITEMS for all three.
+- Parse sha 3474f7a0 (x2, 0 moves); zm, zn reparsed identical. Merged 204 acts, 3298 versions, 2414 commits, check 0/0, compare
+  identical, audit clean (final15c-build.log, after rows-zo.json docs).
+
 ## 99-batch17zf - re-PUBLISHed 2026-11-01 (fourteenth session)
 _BX now includes "l9984": the generic Lei 7.689/9.249 BARE_TEXT line is no longer given to part zf. Installed file = previous
 minus that line (sha cf20e3a2); reparse equal except sources[0]. PUBLISH line appended.

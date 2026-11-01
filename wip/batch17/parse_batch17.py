@@ -1080,6 +1080,17 @@ def paragraphs(html, digits):
         html, n2 = re.subn(r"(Parágrafo único\.)(</font>\s*<font[^>]*>)(Para)", r"\1\2 \3", html)
         LFUNDEB_FIXED.extend(["art-26 note"] * n1 + ["art-26 space"] * n2)
     out, rest = _paragraphs17(html, digits)
+    if page == "l11442":
+        # Lei 11.442 art. 13: Planalto prints the placeholder 'Parágrafo único. (Revogado).' (Lei 14.599/2023) right after the
+        # struck parágrafo único of 2007, above the caput Lei 14.599 gave the article: it is the article's last line
+        pu = [p for p in out if p["unit"] == "art-13" and p["state"] == "plain" and p["text"].startswith("Parágrafo único. (Revogado)")]
+        if len(pu) == 1:
+            out.remove(pu[0])
+            last = max(i for i, q in enumerate(out) if q["unit"] == "art-13")
+            out.insert(last + 1, pu[0])
+            for i, q in enumerate(out):
+                q["i"] = i
+            L11442_FIXED.append("art-13 parágrafo único placeholder after § 9º")
     drop = FOREIGN_RUBRICS.get(page)
     if drop:
         keep = []
@@ -1410,6 +1421,7 @@ L9782_LEFT_OUT: list[str] = []
 L9984_FIXED: list[str] = []
 L4886_FIXED: list[str] = []
 LFUNDEB_FIXED: list[str] = []
+L11442_FIXED: list[str] = []
 EMPTY_ITEM_PAGES = {"l9250", "l7713"}
 MIXED_PLAIN: list[str] = []
 L9873_FIXED: list[str] = []
@@ -2543,6 +2555,10 @@ def _inner(*a):
                    "4ºA.'; the MPs' own pages read 'XXIII-A', 'XXIV -A', '§ 9º-A', '§ 10-A.' and 'Art. 4º-A'. The lines keep the "
                    "MPs' labels, and MP 844's art. 4º-A with its paragraphs and incisos is read as art. 4º-A, not as lines of "
                    "art. 4 (" + ", ".join(dict.fromkeys(L9984_FIXED)) + ").")
+    if L11442_FIXED:
+        dec.append("Lei 11.442 art. 13: Planalto prints the placeholder 'Parágrafo único. (Revogado).' (Lei 14.599/2023) above the "
+                   "caput Lei 14.599 gave the article, right after the struck parágrafo único of 2007; it is kept as the article's "
+                   "last line, after § 9º (" + ", ".join(dict.fromkeys(L11442_FIXED)) + ").")
     if LFUNDEB_FIXED:
         dec.append("Lei 14.113 art. 26: Lei 14.276/2021 (DOU 28.12.2021) art. 1 made the parágrafo único § 1º, with the same words; "
                    "Planalto notes the new § 1º '(Transformado em § 1º pela Lei nº 14.276, de 2021)', which is read as that "
@@ -3659,6 +3675,49 @@ B8.SPAN_FIX += [
     ((_LCADPOS, "art-12", "Art. 12", "Art. 12. As instituições autorizadas", 0), dict(_S0409), _W12414),
     ((_LCADPOS, "art-12", "§ 6º", "§ 6º O órgão administrativo competente", 0), dict(_S0409), _W12414),
 ]
+# part zo: Leis 11.442/2007 (transporte rodoviário de cargas), 10.209/2001 (vale-pedágio), 9.611/1998 (transporte multimodal)
+_LTRC, _LVP, _LTM = "lei-do-transporte-rodoviario-de-cargas", "lei-do-vale-pedagio", "lei-do-transporte-multimodal"
+if any(a["slug"] == _LVP for a in ACTS):
+    P.VIGENCIA_PROVISION[("lei-14229-2021", _LVP, "art-08")] = (
+        "2021-10-22", "Lei 14.229/2021 art. 7 I: in force on publication 'quanto aos arts. 1º, 3º, 4º e 5º' (DOU 22.10.2021); its art. "
+                      "4 added Lei 10.209 art. 8 parágrafo único (the 180 days of art. 7 III are for its other provisions)")
+    EXTRA.append("Lei 10.209 art. 8 parágrafo único: " + P.VIGENCIA_PROVISION[("lei-14229-2021", _LVP, "art-08")][1]
+                 + "; it starts on 22.10.2021.")
+_W5TRC = ("Lei 11.442 art. 5: Lei 14.206/2021 (DOU 28.9.2021) art. 18 numbered the parágrafo único as § 1º and, in the same "
+          "article, gave § 1º the wording '§ 1º (Revogado).'; Planalto prints the renumbered wording struck with a 'Renumerado' "
+          "note, but it never stood as § 1º: the parágrafo único ends on 28.9.2021 and '§ 1º (Revogado).' starts then (Lei "
+          "14.440/2022 later put the same words back as § 3º)")
+_W4VP = ("Lei 10.209 art. 4: Lei 10.561/2002 (DOU 14.11.2002, in force on publication) art. 4 'Fica revogado o art. 4º da Lei nº "
+         "10.209', the whole article; Planalto strikes only the caput and prints the parágrafo único unstruck. The law's text "
+         "governs: the parágrafo único ends on 14.11.2002 with the caput")
+_W7VP = ("Lei 10.209 art. 7: Planalto prints the 2001 wording ('as atividades inerentes ao Ministério dos Transportes', with the "
+         "typing slip 'exerçer') struck, then the note '(Redação dada pela Lei nº 10.561, de 13.11.2002)' outside the strike, then "
+         "the new wording ('inerentes à ANTT') with the same note; the note belongs to the new wording (Lei 10.561 made the same "
+         "change in art. 6), so the struck line is the article as enacted, from 24.3.2001 to 14.11.2002, in Planalto's words")
+B8.SPAN_FIX += [
+    ((_LTRC, "art-05", "§ 1º", "§ 1º Compete à Justiça Comum", 0), {"skip": True, "end_how": "renumbered-and-revoked"}, _W5TRC),
+    ((_LVP, "art-04", "Parágrafo único", "Parágrafo único. A dedução de que trata", 0),
+     {"end": "2002-11-14", "end_law": "lei-10561-2002", "end_how": "repealed"}, _W4VP),
+    ((_LVP, "art-07", "Art. 7º", "Art. 7º Caso o Ministério do Trabalho e Emprego venha a exerçer", 0),
+     {"start": "2001-03-24", "start_law": None, "notes": [], "skip": False, "end": "2002-11-14", "end_law": "lei-10561-2002",
+      "end_how": "successor"}, _W7VP),
+]
+B.EXPLAINED[_LVP] = {"art-04": "Planalto prints art. 4's parágrafo único unstruck, though Lei 10.561/2002 art. 4 revoked the whole "
+                                "article; the law's text governs and it ends on 14.11.2002"}
+B13.OPEN_ITEMS[_LTRC] = (
+    "Lei 11.442 (open items): Lei 12.249/2010 art. 128 (art. 5º-A) has effects from 16.12.2009 (its art. 139 I d), the day of "
+    "Medida Provisória 472/2009, which it converted); the page credits the Lei, so art. 5º-A is dated by the Lei's publication "
+    "(14.6.2010). Lei 13.103/2015 has no in-force clause: in force 45 days after publication (LINDB art. 1; DOU 3.3.2015, "
+    "17.4.2015). Lei 15.485/2026 converted Medida Provisória 1.343/2026; the page credits no wording to the MP. Medidas "
+    "Provisórias 1.051/2021 and 1.153/2022 were converted (Leis 14.206/2021 and 14.599/2023). 'Vide' pointers (Lei 13.103/2015, "
+    "ADC 48) strike no words and are not modelled")
+B13.OPEN_ITEMS[_LVP] = (
+    "Lei 10.209 (open items): the Lei converted Medida Provisória 2.107-12/2001 (its art. 10 validates acts under 2.107-11); "
+    "the earlier editions of the MP chain are not part of the history (the record starts with the Lei, 24.3.2001). Planalto "
+    "prints art. 7 in Lei 10.561/2002's wording twice, once struck with a typing slip ('exerçer') and once unstruck: the "
+    "unstruck copy is the wording. 'Vide ADIN 6031' strikes no words and is not modelled")
+B13.OPEN_ITEMS[_LTM] = (
+    "Lei 9.611 (open items): no amendment notes on the page; the regulation ('Regulamento' link) is not modelled")
 B13.OPEN_ITEMS[_LC141] = (
     "Lei Complementar 141 (open items): Lei Complementar 227/2026's new wordings of arts. 6 and 7 and art. 3 X (the IBS share) "
     "take effect on its publication (its art. 182 III; DOU 14.1.2026, republished 15.1.2026 and rectified 23.1.2026: dated by the "
