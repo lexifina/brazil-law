@@ -3061,10 +3061,20 @@ _G10833 = {**{_u(n): ("2004-02-01", "I") for n in (*range(1, 16), 25)},
            **{_u(n): ("2004-02-01", "II") for n in (26, 27, 29, 30, 34)},
            **{_u(n): ("2004-04-01", "IV") for n in (49, 50, 51, 53, 54, 55, 56, 57, 58)},
            _u(52): ("2004-02-01", "V")}
+# Lei 10.833 arts. 58-A to 58-V (beverage regime): Lei 11.727/2008 art. 32 added arts. 58-A to 58-U, whose effects art. 41 VII
+# (as Medida Provisória 436/2008 and Lei 11.827/2008 worded it) sets from 1.1.2009; Medida Provisória 451/2008 art. 10 added
+# art. 58-V to the same regime. Gate entries with a third item name the law credited when the article first shows.
+_BEV = [f"art-58-{c}" for c in "abcdefghijlmnopqrstuv"]
+_G10833.update({u: ("2009-01-01", "Lei 11.727 art. 41 VII", "mp-451-2008" if u == "art-58-v" else "lei-11727-2008")
+                for u in _BEV})
 G10637_USED: list[str] = []
 G10833_USED: list[str] = []
 _GATES = {_L9718: (_G9718, "lei-9718-1998", G9718_USED), _L10637: (_G10637, "lei-10637-2002", G10637_USED),
           _L10833: (_G10833, "lei-10833-2003", G10833_USED)}
+# Lei 11.727/2008 art. 42: 'Ficam revogados: [...] IV - a partir de 1º de janeiro de 2009: a) os arts. 49, 50, 52, 55, 57 e
+# 58 da Lei nº 10.833 [...]' (IV as Lei 11.827/2008 worded it; Planalto prints those articles unstruck)
+_REV2009 = {"art-49", "art-50", "art-52", "art-55", "art-57", "art-58"}
+REV2009_USED: list[str] = []
 
 
 def build_act(paras, act_day, gate, gate_law, unit_label):
@@ -3072,13 +3082,20 @@ def build_act(paras, act_day, gate, gate_law, unit_label):
     if slug in _GATES:
         tbl, law, used = _GATES[slug]
         gate, gate_law = dict(gate), dict(gate_law)
-        for u, (day, _) in tbl.items():
-            gate[u], gate_law[u] = day, law
+        for u, (day, *rest) in tbl.items():
+            gate[u], gate_law[u] = day, (rest[1] if len(rest) > 1 else law)
         for p in paras:
             g = tbl.get(p["unit"])
-            if g and p["start_law"] and act_day <= p["start"] < g[0] and not p.get("skip"):
+            # a line that ended on or before its article's day never shows, and keeps its days
+            if (g and p["start_law"] and act_day <= p["start"] < g[0] and not p.get("skip")
+                    and not (p["end"] and p["end"] <= g[0])):
                 used.append(f"{p['unit']} {p['label']} ({p['start_law']}, {p['start']})")
                 p["start"] = g[0]
+    if slug == _L10833:
+        for p in paras:
+            if p["unit"] in _REV2009 and not p.get("skip") and not p["heading"] and (p["end"] is None or p["end"] > "2009-01-01"):
+                p["end"], p["end_law"], p["end_how"] = "2009-01-01", "lei-11727-2008", "repealed"
+                REV2009_USED.append(p["unit"])
     if slug in _FUT2027:
         fut_2027(paras, slug)
     if slug == _L9718:
@@ -3144,8 +3161,7 @@ _FUT2027 = {
               "names the Cofins and the contribuição para o PIS/Pasep), both in effect from 1.1.2027 (art. 544 III, as Lei "
               "Complementar 227/2026 worded it), read on LC 214's page (Planalto's page of Lei 10.637 does not print them): "
               "those articles end and art. 35 takes the new caput on 1.1.2027, on the future branch"),
-    _L10833: ({*(f"art-{n:02d}" for n in range(1, 17)), "art-25", "art-49", "art-50", "art-52", "art-55", "art-57", "art-58",
-               "art-91", ("art-31", "§ 1º")},
+    _L10833: ({*(f"art-{n:02d}" for n in range(1, 17)), "art-25", "art-91", ("art-31", "§ 1º")},
               {"art-23": ("Art. 23. A incidência da CIDE",
                           "Art. 23. A incidência da CIDE, nos termos do inciso V do art. 3º da Lei nº 10.336, de 19 de dezembro de "
                           "2001, sobre os gases liquefeitos de petróleo, classificados na subposição 2711.1 da Nomenclatura Comum "
@@ -3179,7 +3195,8 @@ _FUT2027 = {
                           "cento) relativa ao Imposto de Importação e ao Imposto sobre Produtos Industrializados - IPI.")},
               "Lei 10.833: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] XXI - "
               "os seguintes dispositivos da Lei nº 10.833, de 29 de dezembro de 2003: a) os arts. 1º a 16; b) o art. 25; c) o § "
-              "1º do art. 31; d) os arts. 49 e 50; e) o art. 52; f) o art. 55; g) os arts. 57 e 58; e h) o art. 91') and art. "
+              "1º do art. 31; d) os arts. 49 e 50; e) o art. 52; f) o art. 55; g) os arts. 57 e 58; e h) o art. 91'; arts. 49, 50, "
+              "52, 55, 57 and 58 had already ended on 1.1.2009, under Lei 11.727/2008 art. 42 IV a)) and art. "
               "509 (new capita of arts. 23, 30, 31, 33, 34 and 67, a new caput of art. 32's parágrafo único, and art. 67 § 3º "
               "with incisos I and II; none of them names the Cofins or the contribuição para o PIS/Pasep any more), all in "
               "effect from 1.1.2027 (art. 544 III, as Lei Complementar 227/2026 worded it), read on LC 214's page (Planalto's "
