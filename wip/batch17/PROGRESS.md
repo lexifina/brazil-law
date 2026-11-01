@@ -1247,3 +1247,38 @@ Next (coordinator order): Lei 10.820/2003 (consignado; page pinned l10820, PAGES
 681/2015, 719/2016, 922/2020, 1.106/2022, 1.164/2023, 1.292/2025 - several 'Vigência encerrada', so MP_LAPSE days from the Atos
 declaratórios; Lei 15.179/2025 59 notes), then Lei 12.871/2013 (Mais Médicos; MP 1.370), Lei 13.979/2020 (COVID, temporary), and
 the unpinned Leis 6.360/1976, 11.494/2007, 9.424/1996.
+
+## Twenty-first session (2026-11-01): Lei 10.820, then the coordinator's list
+robots.txt read at start (archive.org: Disallow /control/ /report/ only; web.archive.org 404). Fetching: archive.org only,
+through the shared client (iaonly.py). Scratch: .gitlaw-scratch/brazil-b17 (zza-*.json, eff/), page dump .gitlaw-scratch/l10820.txt.
+
+### 99-batch17zza - PUBLISHed 2026-11-01 (twenty-first session): Lei 10.820/2003 (lei-do-credito-consignado, LCons)
+- iaonly laws (19 cited, 6 new pins), missing 0. Hand block `_LCONS`: CONVERTED_FIX mp-719-2016 (page 'Convertida na Lei
+  13.313' without nº) and mp-1292-2025 (page captured 11.6.2026 has no link; Lei 15.179 heading 'Conversão da MP 1.292');
+  VIGENCIA_PROVISION mp-656-2014 arts. 1-5 = 7.11.2014 (art. 55 II, 30 days; MP art. 9); SPAN_FIX art. 4 § 1º (Lei 13.097
+  vetoed MP 656's change: MP line ends 20.1.2015, 2003 'Vide' copy 20.1.2015-13.7.2015), art. 2 IV MP 681 plain copy ends
+  22.10.2015, art. 6 § 7º Lei 14.431 plain copy ends 20.6.2023; EXPLAINED art-02/art-06; OPEN_ITEMS (MP 130 pre-text, Vides).
+- MP 922/2020 lapse = batch9's global MP_LAPSE (30.6.2020); the only lapsed MP on the page ('Vigência encerrada' x10).
+- pipe.sh zza (t21-zza-pipe2.out): sha 045a1b07 x2, 0 moves; flags benign (PUBLISH lists them); headyear unchanged vs t20
+  (t21-hy.log). Merged 226 acts, 3413 versions, 2492 commits, check 0/0, compare identical, audit clean. Installed; docs.py
+  rows-zza.json; PUBLISH written. PIDs (all mine, exited): printed in t21-*.log / zza-*.log.
+
+### Lei 12.871/2013 (Mais Médicos) - LEFT OUT this session
+Medida Provisória 1.370/2026 (19.6.2026; 30 notes on l12871, capture 20.10.2026) changes much of the Lei; its term ended about
+30.10.2026 and archive.org has no capture of mpv1370.htm after 30.10.2026 (CDX from=20261030: 0 rows, 1.11.2026), so whether it
+was converted (and with which words) or lapsed cannot be read. Build it with the MP 1.370 re-check (part zv).
+
+### Lei 13.979/2020 (COVID) - LEFT OUT
+Pinned (l13979, capture 20261023004148), not configured. Its end cannot be settled from the official page: art. 8 ties it to
+Decreto Legislativo 6/2020 (to 31.12.2020), but STF ADI 6625 kept arts. 3 to 3-J in force after that (page prints the Lei
+unstruck); ADIs 6341/6343/6347/6351/6353 and ADPFs 714/715/718/754 condition or suspend parts (MP 928's art. 6-B), and MPs
+926/927/928/951 lapsed ('Vigência encerrada'). Not a fixed-term lapse with one day.
+
+### 99-batch17zzb - PUBLISHed 2026-11-01 (twenty-first session): Lei 6.360/1976 (lei-da-vigilancia-sanitaria-de-medicamentos, LVSM)
+- Pages pinned (`iaonly.py pages`): l13979, l6360 (20261019130600), l11494 (20261018234644), l9424 (20261015110252).
+  iaonly laws (14 cited, 10 new), missing 0. ACT_DAY 28.12.1976 (95 days after DOU 24.9.1976, pre-LC 95 count as Lei 9.537).
+- Hand (block `_LVSM`): MP_PENDING mp-2190-2001 (6.360 text: art. 9, art. 15 revokes art. 82); NOTE_FIX 'Decreto nº 6.480'
+  -> Lei 6.480; B8.LABEL_FIX l6360 art. 17-A 'I - benefícios' -> 'II -'; LAW_FIELD_FIX lei-9782-1999 url = part zb's
+  (lowercase page) - lawcmp.py (.gitlaw-scratch/lawcmp.py <part> <name>) compares a candidate's law entries with every part.
+- pipe.sh zzb (t21-zzb-pipe2.out): sha 9624198d x2, 0 moves, 0 diffs; merged 227 acts, 3427 versions, 2504 commits, check 0/0,
+  compare identical, audit clean; headyear unchanged (t21-hy2.log). Installed; docs.py rows-zzb.json; PUBLISH written.

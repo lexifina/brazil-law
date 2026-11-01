@@ -187,6 +187,11 @@ PAGES.update({
     "l11947": "_ato2007-2010/2009/lei/l11947.htm",
     "l10820": "leis/2003/l10.820.htm",
     "l9612": "leis/l9612.htm",
+    # twenty-first session
+    "l13979": "_ato2019-2022/2020/lei/l13979.htm",
+    "l6360": "leis/l6360.htm",
+    "l11494": "_ato2007-2010/2007/lei/l11494.htm",
+    "l9424": "leis/l9424.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -402,6 +407,9 @@ ALL_ACTS: list[dict] = [
          "Lei dos Agrotóxicos (Lei nº 14.785, de 27 de dezembro de 2023)", 2),
     _act("lei-do-credito-consignado", "LCons", "l10820", "l10820", "lei-10820-2003",
          "Desconto de prestações em folha de pagamento - crédito consignado (Lei nº 10.820, de 17 de dezembro de 2003)", 2),
+    _act("lei-da-vigilancia-sanitaria-de-medicamentos", "LVSM", "l6360", "l6360", "lei-6360-1976",
+         "Vigilância sanitária de medicamentos, drogas, insumos farmacêuticos, cosméticos e saneantes (Lei nº 6.360, de 23 de "
+         "setembro de 1976)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -463,6 +471,7 @@ PARTS: dict[str, list[str]] = {
     "zy": ["lei-da-radiodifusao-comunitaria", "lei-da-alimentacao-escolar"],
     "zz": ["lei-dos-agrotoxicos"],
     "zza": ["lei-do-credito-consignado"],
+    "zzb": ["lei-da-vigilancia-sanitaria-de-medicamentos"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -645,6 +654,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-11947-2009": ("2009-06-17", f"Lei 11.947/2009 art. 35: {_PUB} (DOU 17.6.2009)"),
     "lei-14785-2023": ("2023-12-28", f"Lei 14.785/2023 art. 66: {_PUB} (DOU 28.12.2023, rectified 16.4.2024)"),
     "lei-10820-2003": ("2003-12-18", f"Lei 10.820/2003 art. 9: {_PUB} (DOU 18.12.2003)"),
+    "lei-6360-1976": ("1976-12-28", "Lei 6.360/1976 art. 88: 'Esta Lei entrará em vigor 95 (noventa e cinco) dias depois de sua "
+                                    "publicação' (DOU 24.9.1976; 95 days after 24.9.1976 is 28.12.1976)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -976,6 +987,9 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     # url as in 99-batch15b's entry (capital L), so the merged law entry does not change
     "lei-10820-2003": _L("Lei nº 10.820, de 2003", "Dispõe sobre a autorização para desconto de prestações em folha de "
                          "pagamento, e dá outras providências.", "2003-12-17", "2003-12-18", "leis/2003/L10.820.htm"),
+    "lei-6360-1976": _L("Lei nº 6.360, de 1976", "Dispõe sobre a vigilância sanitária a que ficam sujeitos os medicamentos, as "
+                        "drogas, os insumos farmacêuticos e correlatos, cosméticos, saneantes e outros produtos, e dá outras "
+                        "providências.", "1976-09-23", "1976-09-24", PAGES["l6360"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -4547,6 +4561,28 @@ B13.OPEN_ITEMS[_LCONS] = (
     "Lei 10.820 (open items): the text before 18.12.2003 (Medida Provisória 130/2003, of which this Lei is the conversion) is "
     "not part of the history; 'Vide' pointers (Medidas Provisórias 656/2014, 1.006/2020 and 1.355/2026, Lei 14.131/2021, whose "
     "temporary margins are that law's own rules) strike no words and are not modelled; the regulations strike no words")
+
+# part zzb: Lei 6.360/1976 (vigilância sanitária de medicamentos). Hand items set only when the act runs.
+_LVSM = "lei-da-vigilancia-sanitaria-de-medicamentos"
+if any(a["slug"] == _LVSM for a in ACTS):
+    P.MP_PENDING["mp-2190-2001"] = (
+        "Medida Provisória nº 2.190-34, de 23.8.2001 (DOU 24.8.2001, art. 14: in force on publication), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2; its art. 9 gave arts. 3, 18 and 57 of Lei 6.360 the wordings Planalto notes "
+        "with this edition and its art. 15 revoked art. 82 (noted 'Medida Provisória nº 2.190, de 2001'). Planalto's notes name this edition only, so the changes are dated by its publication; earlier editions of the "
+        "chain are not modelled")
+    for _k in ("Redação dada", "Incluído"):
+        P.NOTE_FIX[f"({_k} pelo Decreto nº 6.480, de 1.12.1977)"] = (
+            f"({_k} pela Lei nº 6.480, de 1.12.1977)",
+            "Lei 6.360: two notes name 'Decreto nº 6.480, de 1.12.1977'; the act of that number and day is Lei nº 6.480, de "
+            "1º de dezembro de 1977, which amends Lei 6.360 (read on its page)")
+    B8.LAW_FIELD_FIX["lei-9782-1999"] = (
+        {"url": PL + PAGES["l9782"]},
+        "Lei 9.782/1999's law record takes the address of its page as part zb has it ('leis/l9782.htm'; Lei 6.360's notes link "
+        "'L9782.htm', the same page), so the two parts' records are equal")
+    B8.LABEL_FIX.append(
+        ("l6360", "I - benefícios clínicos, econômicos e sociais", "II - benefícios clínicos, econômicos e sociais", "II -",
+         "Lei 6.360 art. 17-A: Planalto prints the second inciso as 'I - benefícios clínicos [...]'; Lei 13.411/2016 (art. 1, "
+         "read on its page) numbers it 'II -'"))
 
 P.build_act = B.build_act = build_act
 
