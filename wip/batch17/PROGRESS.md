@@ -2208,3 +2208,10 @@ Disallow /control/ /report/; web.archive.org 404; b34/robots).
   identical, audit clean main + futuro; dupsame (zzzm + 9) 0 / 14 allowlisted.
 - PIDs (all mine, all exited): pages 40876, laws 45640, missing 28300, trials 53912/47832/39608/51804, spans 3596, lawtxt
   runs (txt/txtc/mp910/mp759 logs), pipe runs (PIDs in zzzm-pipe*.out), ov3 34988, conv 31428, final 47844, dupsame 52104.
+### 99-batch17zzzn - PUBLISHed: Lei 13.966/2019 (lei-de-franquia, LFranq, 1 version 2020-03-26)
+- Pin `iaonly.py pages l13966` (archive.org); `laws` 0 links; act-scoped `missing` 0. ACT_DAY 26.3.2020 (art. 10, 90 days
+  after DOU 27.12.2019, counted as Lei 13.848's entry); ACT_LAWS new record. No notes, no hand items, no compilado.
+- pipe.sh zzzn (b34/logs/zzzn-pipe1.out): sha 33c8a08b x2, every check 0 (leak/order/quote too), overlap 0, latecaput 0,
+  dupsame 0, uniqlaws 0. Installed 33c8a08b; README row + jurisdiction.json (283 acts, 3827 versions). Final merged build
+  (b34/logs/zzzn-final-build.log): 283 acts, 3827 versions, 2704 commits, check 0/0, compare identical, audit clean.
+  PIDs: pages 48340, laws 47852, missing 28156, pipe PIDs in zzzn-pipe1.out, final 49336 (all exited).

@@ -268,6 +268,7 @@ PAGES.update({
     "l11952": "_ato2007-2010/2009/lei/l11952.htm",
     "l11952-compilado": "_ato2007-2010/2009/lei/l11952complilado.htm",
     "l13966": "_ato2019-2022/2019/lei/l13966.htm",
+    "l14063": "_ato2019-2022/2020/lei/l14063.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -620,6 +621,8 @@ ALL_ACTS: list[dict] = [
          "Regularização fundiária das ocupações em terras da União na Amazônia Legal (Lei nº 11.952, de 25 de junho de 2009)", 2),
     _act("lei-de-franquia", "LFranq", "l13966", "l13966", "lei-13966-2019",
          "Sistema de franquia empresarial (Lei nº 13.966, de 26 de dezembro de 2019)", 2),
+    _act("lei-das-assinaturas-eletronicas", "LAssE", "l14063", "l14063", "lei-14063-2020",
+         "Assinaturas eletrônicas em interações com entes públicos (Lei nº 14.063, de 23 de setembro de 2020)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -733,6 +736,7 @@ PARTS: dict[str, list[str]] = {
     # thirty-fourth session
     "zzzm": ["lei-da-regularizacao-fundiaria-na-amazonia-legal"],
     "zzzn": ["lei-de-franquia"],
+    "zzzo": ["lei-das-assinaturas-eletronicas"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1019,6 +1023,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-13089-2015": ("2015-01-13", "Lei 13.089/2015 art. 25: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
                                      "13.1.2015)"),
     "lei-11952-2009": ("2009-06-26", f"Lei 11.952/2009 art. 41: {_PUB} (DOU 26.6.2009)"),
+    "lei-14063-2020": ("2020-09-24", f"Lei 14.063/2020 art. 20: {_PUB} (DOU 24.9.2020)"),
     "lei-13966-2019": ("2020-03-26", "Lei 13.966/2019 art. 10: 'Esta Lei entra em vigor após decorridos 90 (noventa) dias de "
                                      "sua publicação oficial' (DOU 27.12.2019)"),
     "lei-4132-1962": ("1962-12-22", "Lei 4.132/1962 has no vigência clause (art. 6 only revokes contrary provisions): Lei de "
@@ -1587,6 +1592,12 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "situadas em áreas da União, no âmbito da Amazônia Legal; altera as Leis n os 8.666, de 21 de junho de "
                          "1993, e 6.015, de 31 de dezembro de 1973; e dá outras providências.", "2009-06-25", "2009-06-26",
                          "_Ato2007-2010/2009/Lei/L11952.htm"),
+    # the record 99-batch13d has
+    "lei-14063-2020": _L("Lei nº 14.063, de 2020", "Dispõe sobre o uso de assinaturas eletrônicas em interações com entes "
+                         "públicos, em atos de pessoas jurídicas e em questões de saúde e sobre as licenças de softwares "
+                         "desenvolvidos por entes públicos; e altera a Lei nº 9.096, de 19 de setembro de 1995, a Lei nº 5.991, de 17 "
+                         "de dezembro de 1973, e a Medida Provisória nº 2.200-2, de 24 de agosto de 2001.", "2020-09-23",
+                         "2020-09-24", "_Ato2019-2022/2020/Lei/L14063.htm"),
     "lei-13966-2019": _L("Lei nº 13.966, de 2019", "Dispõe sobre o sistema de franquia empresarial e revoga a Lei nº 8.955, de 15 "
                          "de dezembro de 1994 (Lei de Franquia).", "2019-12-26", "2019-12-27", PAGES["l13966"]),
     # the record 99-batch7 has
@@ -6879,6 +6890,42 @@ B13.OPEN_ITEMS[_LRFAL] = (
     "parágrafo único under Medida Provisória 910, art. 30 incisos and paragraphs under Medida Provisória 759/2016) are absent "
     "during its term (judgement call, as LC 95 art. 12 III reads); 'Vide ADIN nº 4.269' notes (art. 15) strike no words and "
     "are not modelled; 'Regulamento' pointers strike no words")
+
+# part zzzo (thirty-fourth session): Lei 14.063/2020 (assinaturas eletrônicas). Hand items set only when the act runs.
+_LASSE = "lei-das-assinaturas-eletronicas"
+B8.NAV_LINES["l14063"] = {"Não remover", "Down", "Up", "Texto para impressão", "Texto atualizado", "Texto compilado",
+                          "Texto atualizado Texto compilado"}
+LASSE_HEADS: list[str] = []
+if any(a["slug"] == _LASSE for a in ACTS):
+    _paragraphsLASSE = P.paragraphs
+
+    def _paragraphs_lasse(html, digits):
+        """Lei 14.063: Planalto prints the names of the Capítulos and Seções (not centred) right after their heading
+        lines; the reader took each for the rubric of the next article (so the article's unit began with it), and Capítulo
+        II's name for a last line of art. 1. A rubric or unlabelled line with no note right after a heading line is read as
+        that heading's name, as on the other pages"""
+        out, rest = _paragraphsLASSE(html, digits)
+        if B8.CURRENT_PAGE[0] == "l14063":
+            for k, q in enumerate(out):
+                prev = out[k - 1] if k else None
+                if (q["label"] in ("rubrica", "") and not q["heading"] and not q["notes"] and prev and prev["heading"]
+                        and prev["unit"] == "titulos" and re.fullmatch(r"h\d+-\d+", prev["label"])):
+                    g, n = prev["label"].rsplit("-", 1)
+                    q["unit"], q["label"], q["heading"] = "titulos", f"{g}-{int(n) + 1}", True
+                    if q["text"] not in LASSE_HEADS:
+                        LASSE_HEADS.append(q["text"])
+            if LASSE_HEADS and not any(x.startswith("Lei 14.063: the names of the Capítulos") for x in EXTRA):
+                EXTRA.append("Lei 14.063: the names of the Capítulos and Seções, which Planalto prints right after "
+                             "their heading lines without centring them, are read as the headings' names, not as the rubrics "
+                             "of the next articles (Capítulo II's name not as a last line of art. 1): "
+                             + "; ".join(f"'{x}'" for x in LASSE_HEADS))
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_lasse
+B13.OPEN_ITEMS[_LASSE] = (
+    "Lei 14.063 (open items): it is the conversion of Medida Provisória 983/2020, whose text is not modelled (the history "
+    "starts with the Lei, in force on publication, 24.9.2020); the page's navigation links ('Não remover', 'Down', 'Up', "
+    "'Texto para impressão') are left out")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
