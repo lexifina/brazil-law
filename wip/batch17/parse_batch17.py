@@ -357,6 +357,17 @@ ALL_ACTS: list[dict] = [
          "Processamento eletrônico de dados nos serviços eleitorais (Lei nº 6.996, de 7 de junho de 1982)", 2),
     _act("lei-das-mensalidades-escolares", "LMEsc", "l9870", "l9870", "lei-9870-1999",
          "Lei das Mensalidades Escolares (Lei nº 9.870, de 23 de novembro de 1999)", 2),
+    _act("lei-do-plano-nacional-de-educacao", "PNE", "l13005", "l13005", "lei-13005-2014",
+         "Plano Nacional de Educação - PNE (Lei nº 13.005, de 25 de junho de 2014)", 2),
+    _act("lei-do-sistema-nacional-de-viacao", "LSNV", "l12379", "l12379", "lei-12379-2011",
+         "Sistema Nacional de Viação - SNV (Lei nº 12.379, de 6 de janeiro de 2011)", 2),
+    _act("lei-das-infracoes-sanitarias", "LIS", "l6437", "l6437-compilado", "lei-6437-1977",
+         "Infrações à legislação sanitária federal (Lei nº 6.437, de 20 de agosto de 1977)", 2),
+    _act("lei-do-regime-de-recuperacao-fiscal", "LC159", "lcp159", "lcp159", "lc-159-2017",
+         "Regime de Recuperação Fiscal dos Estados e do Distrito Federal (Lei Complementar nº 159, de 19 de maio de 2017)", 2),
+    _act("lei-do-plano-de-equilibrio-fiscal", "LC178", "lcp178", "lcp178", "lc-178-2021",
+         "Programa de Acompanhamento e Transparência Fiscal e Plano de Promoção do Equilíbrio Fiscal (Lei Complementar nº 178, "
+         "de 13 de janeiro de 2021)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -409,6 +420,9 @@ PARTS: dict[str, list[str]] = {
     # lei-dos-mototaxistas (Lei 12.009/2009) configured but in no part: Medida Provisória 1.360/2026 (art. 2) lapsed ('Vigência
     # encerrada', Ato adc-96-mpv1.360): the Ato has no archive.org capture, so the lapse day cannot be read
     "zr": ["lei-do-processamento-eletronico-eleitoral", "lei-das-mensalidades-escolares"],
+    "zs": ["lei-do-plano-nacional-de-educacao", "lei-do-sistema-nacional-de-viacao"],
+    "zt": ["lei-das-infracoes-sanitarias"],
+    "zu": ["lei-do-regime-de-recuperacao-fiscal", "lei-do-plano-de-equilibrio-fiscal"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -563,6 +577,16 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-12009-2009": ("2009-07-30", f"Lei 12.009/2009 art. 9: {_PUB} (DOU 30.7.2009)"),
     "lei-6996-1982": ("1982-06-08", f"Lei 6.996/1982 art. 19: {_PUB} (DOU 8.6.1982)"),
     "lei-9870-1999": ("1999-11-24", f"Lei 9.870/1999 art. 11: {_PUB} (DOU 24.11.1999, edição extra)"),
+    "lei-13005-2014": ("2014-06-26", f"Lei 13.005/2014 art. 14: {_PUB} (DOU 26.6.2014, edição extra)"),
+    "lei-12379-2011": ("2011-01-07", f"Lei 12.379/2011 art. 44: {_PUB} (DOU 7.1.2011)"),
+    "lei-6437-1977": ("1977-08-24", "Lei 6.437/1977 art. 39: 'Esta Lei entrará em vigor na data de sua publicação' (DOU 24.8.1977)"),
+    "lc-159-2017": ("2017-05-22", "Lei Complementar 159/2017 art. 18: 'Esta Lei Complementar entra em vigor na data de sua "
+                                  "publicação' (DOU 22.5.2017)"),
+    "lc-178-2021": ("2021-01-14", "Lei Complementar 178/2021 art. 32: 'Esta Lei Complementar entra em vigor: I - em relação a seu "
+                                  "art. 16, especificamente no que altera o art. 51 da Lei Complementar nº 101 [...] a partir de 2022; "
+                                  "II - [...] no que altera o art. 42 [...] a partir de 2023; III - em relação às demais disposições, "
+                                  "na data de sua publicação' (DOU 14.1.2021): its own articles from publication (the staged items "
+                                  "concern Lei Complementar 101's text)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
