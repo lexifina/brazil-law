@@ -466,7 +466,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                      "aos arts. 34, 37 a 44, 46 e 48; IV - a partir da data da publicação desta Lei, em relação aos demais "
                                      "artigos' (DOU 31.12.2002, edição extra): every article from publication (the effects under I and II "
                                      "reach back before it), arts. 34, 37 to 44, 46 and 48 from 1.1.2003, the day they take effect"),
-    "lei-10833-2003": ("2003-12-30", "Lei 10.833/2003 art. 93: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeito, "
+    "lei-10833-2003": ("2003-12-30", "Lei 10.833/2003 art. 93: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeitos, "
                                      "em relação: I - aos arts. 1º a 15 e 25, a partir de 1º de fevereiro de 2004; II - aos arts. 26, 27, "
                                      "29, 30 e 34 desta Lei, a partir de 1º de fevereiro de 2004; [...] IV - aos arts. 49 a 51 e 53 a 58 "
                                      "desta Lei, a partir do 1º dia do quarto mês subseqüente ao de sua publicação; V - ao art. 52 desta "
@@ -982,7 +982,8 @@ QUOTED_HEADINGS: list[str] = []
 # Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº N, de d de m de aaaa.': words of
 # the article (which wording of another act it refers to), not an amendment note; the reader takes them for a bare note.
 BARE_TEXT = {"l7689": "art-11", "l9249": "art-14", "l9430": "art-88", "l9873": ("art-03", "art-08"), "l9984": "art-29",
-             "l9984-compilado": "art-29", "l10637": ("art-47", "art-54"), "l10637-compilado": ("art-47", "art-54")}
+             "l9984-compilado": "art-29", "l10637": ("art-47", "art-54"), "l10637-compilado": ("art-47", "art-54"),
+             "l10833": ("art-23", "art-40"), "l10833-compilado": ("art-23", "art-40")}
 BARE_TEXT_USED: list[str] = []
 QUOTE_DROPPED: list[str] = []
 _BARE_RX = re.compile(r"\(?\s*(reda[çc][ãa]o dada pel[oa] (?:Decreto-Lei|Lei) n[º°.]?\s*[\d.]+, de \d{1,2} de \w+ de \d{4}[.;]?)\s*\)?",
@@ -996,6 +997,13 @@ _BARE_RX9984 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Lei n[º°.]?\s*9\.
 # de 1977, com a redação dada pela Medida Provisória nº 2.158-35, de 24 de agosto de 2001.')
 _BARE_RX10637 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pel[oa] (?:Lei n[º°.]?\s*10\.433, de 24 de abril de 2002, para efeitos de "
                            r"incid[êe]ncia .*?|Medida Provis[óo]ria n[º°.]?\s*2\.158-35, de 24 de agosto de 2001\.))\s*\)?")
+# Lei 10.833 art. 23 ('[...] art. 6º, caput, da Lei nº 9.718, de 27 de novembro de 1998, com a redação dada pela Lei nº 9.990, de
+# 21 de julho de 2000, sobre os gases liquefeitos de petróleo [...]') and art. 40 ('O caput do art. 1º do Decreto-Lei nº 1.593, de
+# 21 de dezembro de 1977, com a redação dada pela Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e o art. 18 do mesmo
+# Decreto-Lei passam a vigorar com a seguinte redação:')
+_BARE_RX10833 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela (?:Lei n[º°.]?\s*9\.990, de 21 de julho de 2000, sobre os gases .*?"
+                           r"|Medida Provis[óo]ria n[º°.]?\s*2\.158-35, de 24 de agosto de 2001, e o art\. 18 do mesmo Decreto-Lei passam "
+                           r"a vigorar com a seguinte reda[çc][ãa]o:))\s*\)?")
 _paragraphs17 = P.paragraphs
 
 
@@ -1027,6 +1035,8 @@ def paragraphs(html, digits):
                 hit = [(n, m) for n in p["notes"] for m in [_BARE_RX9984.fullmatch(n.strip())] if m]
             if not hit and page in ("l10637", "l10637-compilado"):
                 hit = [(n, m) for n in p["notes"] for m in [_BARE_RX10637.fullmatch(n.strip())] if m]
+            if not hit and page in ("l10833", "l10833-compilado"):
+                hit = [(n, m) for n in p["notes"] for m in [_BARE_RX10833.fullmatch(n.strip())] if m]
             if hit:
                 n, m = hit[0]
                 p["text"] = p["text"].rstrip() + " " + m.group(1)
@@ -1258,7 +1268,66 @@ def paragraphs(html, digits):
             keep.append(p)
             prev = p
         out = keep
+    if page == "l10833":
+        efeitos_fix(out)
     return out, rest
+
+
+# Lei 10.833: Planalto's annotated page prints 'efeito' where the Lei says 'efeitos' (art. 23 'gases liquefeito', art. 93
+# 'produzindo efeito', art. 94 VI 'dos efeito'); its consolidated page and the Chamber of Deputies' copy of the original
+# publication (DOU 30.12.2003) print 'efeitos'. A line of the annotated page whose words are not found in the consolidated
+# page, the original publication or the page of the act its note names, but are found there with one set of its 'efeito'
+# made 'efeitos', takes those words. Comparison on letters and digits only ('nº' and 'n o' alike).
+EFX_REFS = ("l10833-compilado", "ctx:camara-lei-10833-2003-original")
+_EFX_CACHE: dict[str, str] = {}
+EFX_FIXED: list[str] = []
+EFX_OPEN: list[str] = []
+
+
+def _efx_key(s):
+    s = s.replace("º", "o").replace("°", "o").replace("ª", "a").lower()
+    return "".join(c for c in s if c.isalnum())
+
+
+def _efx_ref(k):
+    if k not in _EFX_CACHE:
+        import html as _h
+        r = P.raw(k)
+        t = ""
+        if r:
+            t = re.sub(r"(?is)<script.*?</script>|<style.*?</style>", " ", P.decode(r[0]))
+            t = _h.unescape(re.sub(r"<[^>]+>", " ", t))
+        _EFX_CACHE[k] = _efx_key(t)
+    return _EFX_CACHE[k]
+
+
+def efeitos_fix(out):
+    for p in out:
+        occ = [m.end() for m in re.finditer(r"efeito\b", p["text"])]
+        if not occ:
+            continue
+        refs = list(EFX_REFS) + ["law:" + k for n in p["notes"] for k in [B6.law_key(n)] if k]
+        keys = [_efx_ref(r) for r in dict.fromkeys(refs)]
+
+        def found(t):
+            kt = _efx_key(t)
+            return any(kt in k for k in keys)
+        if found(p["text"]):
+            continue
+        hits = []
+        for mask in range(1, 2 ** len(occ)):
+            t = p["text"]
+            for i in reversed(range(len(occ))):
+                if mask >> i & 1:
+                    t = t[:occ[i]] + "s" + t[occ[i]:]
+            if found(t):
+                hits.append(t)
+        where = f"{p['unit']} {p['label'] or p['text'][:30]!r}"
+        if len(hits) == 1:
+            p["text"] = hits[0]
+            EFX_FIXED.append(where)
+        elif re.search(r"(?:\bos|\bdos|\bgases liqu|\bproduzindo|\bproduzirá|\bpara|\bcom|\bde) efeito\b", p["text"]):
+            EFX_OPEN.append(where + f" ({len(hits)} matches)")
 
 
 L9250_FIXED: list[str] = []
@@ -2449,7 +2518,7 @@ def _inner(*a):
         dec.append("Lei 10.522 art. 37-B § 10 (Lei 11.941/2009): Planalto strikes only the dash in 'Custódia – SELIC' (also on "
                    "Lei 11.941's own page) in a line in force; the strike is read as a typesetting slip and the line as unstruck, "
                    "dash kept (" + ", ".join(dict.fromkeys(MIXED_PLAIN)) + ").")
-    _BX = ("l9430", "l9873", "l10637")
+    _BX = ("l9430", "l9873", "l10637", "l10833")
     if any(not x.startswith(_BX) for x in BARE_TEXT_USED):
         dec.append("Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº [...]' (Decretos-"
                    "Leis 2.449/1988 and 1.730/1979): these words name the wording of the other act the article refers to; they "
@@ -2460,6 +2529,13 @@ def _inner(*a):
                    "1º do Decreto-Lei nº 1.593, de 21 de dezembro de 1977, com a redação dada pela Medida Provisória nº 2.158-35, de 24 "
                    "de agosto de 2001.'): these words name the wording of the other act the article refers to; they are part of the "
                    "text, not an amendment note (" + ", ".join(dict.fromkeys(x for x in BARE_TEXT_USED if x.startswith("l10637"))) + ").")
+    if any(x.startswith("l10833") for x in BARE_TEXT_USED):
+        dec.append("Lei 10.833 art. 23 ('[...] da Lei nº 9.718, de 27 de novembro de 1998, com a redação dada pela Lei nº 9.990, de "
+                   "21 de julho de 2000, sobre os gases [...]') and art. 40 ('O caput do art. 1º do Decreto-Lei nº 1.593, de 21 de "
+                   "dezembro de 1977, com a redação dada pela Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e o art. 18 do "
+                   "mesmo Decreto-Lei passam a vigorar [...]'): these words name the wording of the other act the article refers to; "
+                   "they are part of the text, not an amendment note (" + ", ".join(dict.fromkeys(x for x in BARE_TEXT_USED
+                                                                                                  if x.startswith("l10833"))) + ").")
     if QUOTE_DROPPED:
         dec.append("Lei 9.249 art. 9: the caput as Medida Provisória 694/2015 worded it (1.1.2016 to its lapse on 8.3.2016) is "
                    "printed after the opening quotation mark of the MP's quoted text; the mark is left out.")
@@ -2514,7 +2590,7 @@ def _inner(*a):
                        "; changes made to those articles before their day start on that day (" + "; ".join(dict.fromkeys(G10637_USED))
                        + ")" if G10637_USED else "") + ".")
     if any(a["slug"] == _L10833 for a in ACTS):
-        dec.append("Lei 10.833: art. 93 ('Esta Lei entra em vigor na data de sua publicação, produzindo efeito, em relação: I - "
+        dec.append("Lei 10.833: art. 93 ('Esta Lei entra em vigor na data de sua publicação, produzindo efeitos, em relação: I - "
                    "aos arts. 1º a 15 e 25, a partir de 1º de fevereiro de 2004; II - aos arts. 26, 27, 29, 30 e 34 desta Lei, a "
                    "partir de 1º de fevereiro de 2004; [...] IV - aos arts. 49 a 51 e 53 a 58 desta Lei, a partir do 1º dia do "
                    "quarto mês subseqüente ao de sua publicação; V - ao art. 52 desta Lei, a partir do 1º dia do segundo mês "
@@ -2523,6 +2599,16 @@ def _inner(*a):
                    "on 1.4.2004, the other articles on 30.12.2003" + (
                        "; changes made to those articles before their day start on that day (" + "; ".join(dict.fromkeys(G10833_USED))
                        + ")" if G10833_USED else "") + ".")
+    if EFX_FIXED:
+        dec.append("Lei 10.833: Planalto's annotated page prints 'efeito' where the Lei says 'efeitos' (for example art. 23 'gases "
+                   "liquefeito de petróleo', art. 93 'produzindo efeito', art. 94 VI 'dos efeito desta Lei'); Planalto's "
+                   "page of the consolidated text (l10.833compilado.htm) and the Chamber of Deputies' copy of the original publication (DOU 30.12.2003, edição "
+                   "extra-A) print 'efeitos'. A line whose words are found in neither of those texts nor on the page of the act "
+                   "its note names, but are found there with 'efeitos' in place of 'efeito', takes those words (comparison of "
+                   "letters and digits only; " + str(len(dict.fromkeys(EFX_FIXED))) + " lines: " + ", ".join(dict.fromkeys(EFX_FIXED)) + ").")
+    if EFX_OPEN:
+        dec.append("Lei 10.833: lines with 'efeito' that no other text settles, kept as the annotated page prints them ("
+                   + ", ".join(dict.fromkeys(EFX_OPEN)) + ").")
     if MP1159_SKIPPED:
         dec.append("Leis 10.637 and 10.833: Medida Provisória 1.159/2023 (DOU 12.1.2023) lapsed on 1.6.2023 (Ato Declaratório do "
                    "Presidente da Mesa do Congresso Nacional nº 40, de 2023); Planalto prints the wordings it had replaced a second "
@@ -3162,7 +3248,7 @@ B13.OPEN_ITEMS[_L10637] = (
     "11.727/2008 art. 42 II a)). Medida Provisória 413/2008's wordings are not shown as in effect (its effect tied to an act "
     "of the Receita Federal by Medida Provisória 425/2008; Lei 11.727 fixed 1.10.2008). Medida Provisória 451/2008: Planalto's "
     "page of the MP prints the items of art. 22 I struck; they are read as published (as for Lei 9.718). Lei 10.833/2003 art. "
-    "94 VI ('a partir da data de início dos efeito desta Lei') is read as 1.2.2004, the day its arts. 1 to 15 take effect. "
+    "94 VI ('a partir da data de início dos efeitos desta Lei') is read as 1.2.2004, the day its arts. 1 to 15 take effect. "
     "Lei 12.973/2014 art. 119 § 1º (its rules from 1.1.2014 for taxpayers who opted) is not modelled. 'Vide' pointers "
     "(Decretos 5.057/2004 and 6.842/2009, Medida Provisória 413/2008) are not modelled")
 if any(a["slug"] == _L10637 for a in ACTS):
@@ -3170,6 +3256,30 @@ if any(a["slug"] == _L10637 for a in ACTS):
         "2014-05-14", "Lei 12.973/2014 art. 119: 'Esta Lei entra em vigor em 1º de janeiro de 2015, exceto os arts. 3º, 72 a 75 e "
                       "93 a 119, que entram em vigor na data de sua publicação' (DOU 14.5.2014); its art. 118 ('Revoga-se o art. "
                       "55 da Lei nº 10.637 [...], a partir da data de publicação desta Lei') falls under the exception")
+
+# part zl: Lei 10.833/2003. Hand days set only when the act runs (each text names the article that touches Lei 10.833).
+if any(a["slug"] == _L10833 for a in ACTS):
+    P.VIGENCIA_FIXED["mp-472-2009"] = (
+        "2009-12-16", "art. 60: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, produzindo efeitos: "
+                      "[...] d) a partir da data de sua publicação, em relação aos demais dispositivos' (DOU 16.12.2009): its "
+                      "art. 27 (Lei 10.833 art. 18) falls under I d)")
+    P.VIGENCIA_FIXED["lei-12844-2013"] = (
+        "2013-07-19", "art. 49: 'Esta Lei entra em vigor: [...] V - na data de sua publicação para os demais dispositivos' "
+                      "(DOU 19.7.2013, edição extra): its art. 23 (Lei 10.833 art. 62) falls under V")
+    for _how in ("Redação dada", "Incluído"):
+        P.NOTE_FIX[f"({_how} pela Lei nº 11.933, de 2007)"] = (
+            f"({_how} pela Lei nº 11.933, de 2009)",
+            f"Lei 10.833 art. 11 ('{_how}'): the note names 'Lei nº 11.933, de 2007'; its link is to Lei 11.933/2009 (L11933.htm#art3), "
+            "whose art. 3 gave art. 11 these words (read on its page)")
+    P.NOTE_FIX["(Incluído pela Lei nº 12.767, de 20212)"] = (
+        "(Incluído pela Lei nº 12.767, de 2012)",
+        "Lei 10.833 art. 61 VIII and IX: the note reads 'Lei nº 12.767, de 20212'; its link is to Lei 12.767/2012 (L12767.htm#art28), "
+        "whose art. 28 added them (read on its page)")
+    B6.CONTEXT.append({
+        "when": lambda: bool(EFX_FIXED),
+        "pins": ["ctx:camara-lei-10833-2003-original"],
+        "what": "the original publication of Lei 10.833/2003 (DOU 30.12.2003, edição extra-A), to settle which of Planalto's two "
+                "printings ('efeito' or 'efeitos') is the published word"})
 
 P.build_act = B.build_act = build_act
 
