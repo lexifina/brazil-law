@@ -39,6 +39,7 @@ FOLDER = HERE.parent
 sys.path.insert(0, str(FOLDER))
 import fetch  # noqa: E402  (the main Brazil fetcher: cache naming and Wayback URLs)
 import titles  # noqa: E402  (strip_links: Planalto's link lines before a law's ementa)
+import vigforms  # noqa: E402  (misprinted in-force clauses: 'entra vigor', 'entre em vigor', ...)
 
 PL = "https://www.planalto.gov.br/ccivil_03/"
 OUT = FOLDER / "corpus.d" / "70-clt.json"
@@ -435,6 +436,7 @@ def page_info(key: str) -> dict:
         info["rejected"] = True
     clause_rx = (r"(?:(?:Est[ae]|[ÊE]st[ae]|O\s+presente|A\s+presente)\s+(?:Lei|Decreto[-\s]?[Ll]ei|Medida\s+Provis[óo]ria|C[óo]digo)"
                  r"(?:\s+Complementar)?)\s*,?\s+entra(?:r[áa])?\s+em\s+vigor|entrando\s+(?:[êe]st[ae]|o\s+presente)\s+(?:Lei|Decreto[-\s]?[Ll]ei)\s+em\s+vigor")
+    clause_rx = vigforms.clause_rx(clause_rx)
     cl = [mm.start() for mm in re.finditer(clause_rx, x, re.I)]
     if not cl:
         # an act revoked as a whole is struck through on its page: read its clause from the struck text
@@ -517,7 +519,7 @@ def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
     if key in VIGENCIA_FIXED:
         d, why = VIGENCIA_FIXED[key]
         return (d or pub), why
-    cl = info.get("clause", "")
+    cl = vigforms.standard(info.get("clause", ""))
     if not pub:
         return None, "no publication date found"
     if not cl:

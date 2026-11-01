@@ -41,6 +41,7 @@ FOLDER = HERE.parent
 sys.path.insert(0, str(FOLDER))
 import fetch  # noqa: E402  (the main Brazil fetcher: cache naming and Wayback URLs)
 import titles  # noqa: E402  (strip_links: Planalto's link lines before a law's ementa)
+import vigforms  # noqa: E402  (misprinted in-force clauses: 'entra vigor', 'entre em vigor', ...)
 
 PL = "https://www.planalto.gov.br/ccivil_03/"
 OUT = FOLDER / "corpus.d" / "80-proc.json"
@@ -454,6 +455,7 @@ def page_info(key: str) -> dict:
         info["rejected"] = True
     clause_re = (r"(?:[EÊ]st[ae]\s+(?:Lei|Medida\s+Provis[óo]ria|C[óo]digo|Decreto[-\s]?[LlI]ei)(?:\s+Complementar)?|"
                  r"A\s+presente\s+Lei)\s+entra(?:r[áa])?\s+em\s+vigor")
+    clause_re = vigforms.clause_rx(clause_re)
     cl = [mm.start() for mm in re.finditer(clause_re, x, re.I)]
     if not cl:
         # a law Planalto shows struck as a whole (revoked): its own clause is inside the struck text
@@ -592,7 +594,7 @@ def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
     if key in VIGENCIA_FIXED:
         return VIGENCIA_FIXED[key]
     pub = info.get("published") or info.get("enacted")
-    cl = info.get("clause", "")
+    cl = vigforms.standard(info.get("clause", ""))
     if not pub:
         return None, "no publication date found"
     if not cl:

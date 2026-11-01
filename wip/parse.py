@@ -1104,9 +1104,10 @@ def main(argv: list[str]) -> int:
             f"consolidated page's bare placeholders for revoked provisions: {len(today_units) - len(mism)} of "
             f"{len(today_units)} units are identical; {len(mism)} differ only where the two official pages are "
             f"typeset differently (annotated page shown second): " + "; ".join(diff_summary(u, y, x) for u, x, y in mism) + ".")
-    tmp = HERE / "corpus.json.tmp"
+    out = Path(os.environ.get("BRAZIL_CF_OUT") or HERE / "corpus.json")   # BRAZIL_CF_OUT: a scratch file for checks
+    tmp = out.with_name(out.name + ".tmp")
     tmp.write_text(json.dumps(corpus, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
-    os.replace(tmp, HERE / "corpus.json")
+    os.replace(tmp, out)
     print(f"corpus.json: {len(versions)} CF versions, {len(out_laws)} laws, {len(problems)} problems")
     return 0
 

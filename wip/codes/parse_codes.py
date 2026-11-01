@@ -42,6 +42,7 @@ FOLDER = HERE.parent
 sys.path.insert(0, str(FOLDER))
 import fetch  # noqa: E402  (the main Brazil fetcher: cache naming and Wayback URLs)
 import titles  # noqa: E402  (strip_links: Planalto's link lines before a law's ementa)
+import vigforms  # noqa: E402  (misprinted in-force clauses: 'entra vigor', 'entre em vigor', ...)
 
 PL = "https://www.planalto.gov.br/ccivil_03/"
 OUT = FOLDER / "corpus.d" / "50-codes.json"
@@ -386,8 +387,8 @@ def page_info(key: str) -> dict:
         info["lapsed"] = True
     if re.search(r"\bRejeitada\b", head[:3000], re.I):
         info["rejected"] = True
-    cl = [mm.start() for mm in re.finditer(r"(?:Est[ae]\s+(?:Lei|Medida\s+Provis[óo]ria|C[óo]digo)(?:\s+Complementar)?|"
-                                            r"A\s+presente\s+Lei)\s+entra(?:r[áa])?\s+em\s+vigor", x, re.I)]
+    cl = [mm.start() for mm in re.finditer(vigforms.clause_rx(r"(?:Est[ae]\s+(?:Lei|Medida\s+Provis[óo]ria|C[óo]digo)(?:\s+Complementar)?|"
+                                            r"A\s+presente\s+Lei)\s+entra(?:r[áa])?\s+em\s+vigor"), x, re.I)]
     if cl:
         tail = x[cl[-1]:]
         end = re.search(r"\.\s+(?:Art\. \d|Bras[íi]lia|Este texto)", tail)
@@ -438,7 +439,7 @@ def vigencia_of(key: str, info: dict) -> tuple[str | None, str]:
     if key in VIGENCIA_FIXED:
         return VIGENCIA_FIXED[key]
     pub = info.get("published") or info.get("enacted")
-    cl = info.get("clause", "")
+    cl = vigforms.standard(info.get("clause", ""))
     if not pub:
         return None, "no publication date found"
     if not cl:

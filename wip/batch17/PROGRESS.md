@@ -2049,3 +2049,65 @@ wordings 21.1-23.2.1946 (in the CLT open-items decision).
 DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once archive.org
 has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026 congresso) once archived ->
 MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.
+
+## Thirty-second session (2026-11-01): Task 1 the four open items from the dupsame review, Task 2 Lei 13.089/2015
+Scratch: .gitlaw-scratch/brazil-b32 (before/ = 60-phase2, 70-clt, 99-batch13f + PUBLISH, dup_fixes.json, dupsame_allow.json,
+effects_fix.py, parse_batch17.py before the session; tools/: dumpparas.py (older parts: oldparts run + paragraph dump),
+dump17.py (the same for a batch-17 part), daydiff.py (before/after diff BY DAY, not by version index), mergedec.py (new part
+with decisions in the installed order), ut.py/uh.py (unit text on a day / unit history of any part file), runbuild2.py
+(runbuild.py accepting any part name), chk2.sh (file checks + dupsame); re/ = baseline reparses, re2/ = reparses with the
+fixes, fin/ = installed files; logs/).
+### Task 1 DONE: 60-phase2 and 70-clt re-PUBLISHed (reparse via batch7/oldparts.py + effects_fix, decisions kept in order)
+- Baseline first: oldparts + effects_fix reproduce the installed 70-clt exactly and 60-phase2 except the order of one decision.
+- (a) CP art. 121 § 6º: Lei 12.720's page, art. 2: 'passa a vigorar acrescido do seguinte § 6º' (the compiled CP page also
+  has the note 'Incluído pela Lei nº 12.720, de 2012'; the annotated page has none). Its art. 5 reads 'Esta Lei entra vigor na
+  data de sua publicação' (no 'em'), which parse_phase2's clause regex missed, so the law had been dated by LINDB +45 days
+  (12.11.2012): parse_phase2 VIGENCIA_FIXED lei-12720-2012 = 28.9.2012. So § 6º starts 28.9.2012 (OLD_FIX) and Lei
+  12.720's changes to arts. 129 § 7º and 288-A move from 12.11.2012 to 28.9.2012 (same law, its own clause).
+- (b) art. 121 § 2º VIII: OLD_FIX '(VETADO)' 23.1.2020..30.4.2021 (Lei 13.964), 'arma de fogo' from 30.4.2021; the penalty
+  line printed after the last inciso starts 23.1.2020 (OLD_FIX; replaces the dup_fixes entry, removed).
+- (c) CLT Título VII headings (OLD_FIX on the h109-* heading lines): 1943 block to 12.11.2019; MP 905's block (Título 'DAS
+  PENALIDADES E DO PROCESSO ADMINISTRATIVO' + Capítulo I) 12.11.2019..20.4.2020 and 18.8.2020 (gap for MP 955), ends 19.8.2020
+  (mp-905-2019-fim); its twin Capítulo I lines skipped; the plain 1943 block from 20.4.2020 with a gap on 18.8.2020. Two
+  dup_fixes titulos entries removed.
+- (d) CLT arts. 534 § 1º, 538 §§ 1º-2º: DL 8.740's paragraphs carry 'Redação dada' -> the first 1943 copy has a gap
+  21.1..23.2.1946 (keeps its place in the article), the second copy skipped (twin); two dup_fixes dedupe entries removed.
+  Open now only: art. 538 § 3º (1943, no note) beside DL 8.740's § 2º on the same subject in that window (OPEN text updated).
+- Found and fixed: dupfix.py applied each op once per version to a text object several versions shared, so a drop_block
+  removed every run, not one. It had removed MP 905's Capítulo I name entirely (CLT, now via (c)) and Lei 4.595 art. 4º XIV
+  a)'s three items 19.2.1970..16.5.1974 (99-batch13f). Fix: one deep copy per version. 99-batch13f refixed from its pre-b31
+  file (b31/before) with effects_fix: day diff = only those items; re-PUBLISHed. The other dupfix parts are identical with
+  the fix (checked on all six).
+- Day diffs (daydiff.py): only the intended units/days + decisions (60-phase2: art-121, art-129/288-A 28.9..12.11.2012,
+  versions 28.9.2012 new / 12.11.2012 gone / 30.4.2021 credit; 70-clt: art-534, art-538 21.1..23.2.1946, titulos
+  12.11.2019..20.4.2020 (Capítulo I name back) and 18.8.2020, 19.8.2020 titulos credit; 13f: art-04 1970..1974).
+- Checks before/after (logs/chk-b-*, chk-a-*): all rc 0, same or fewer (CLT dupcheck 8->6, dupline 61->58); dupsame 0 hits;
+  uniqlaws 0. Merged build with the three: 279 acts, 3803 versions, 2697 commits, check 0/0, compare identical, audit clean.
+### Task 2: 99-batch17zzzk - PUBLISHed: Lei 13.089/2015 (estatuto-da-metropole, EMetr, 6 versions 2015-01-13 .. 2020-07-16)
+- robots.txt read at start (archive.org: Disallow /control/ /report/; web.archive.org 404; b32/robots). One archive.org
+  request via `iaonly.py gap ato:adc-29-2019-mpv862` (Ato CN 29/2019: MP 862 'encerrado no dia 14 de maio') -> MP_LAPSE.
+- Config: act, PARTS zzzk, ACT_DAY (art. 25, publication 13.1.2015), ACT_LAWS (= 99-batch7's record); '# part zzzk' block:
+  MP_LAPSE mp-862-2018, TEXT_FIX 'i ncisos', SPAN_FIX art. 4 parágrafo único second copy from 15.5.2019.
+- pipe.sh zzzk (b32/logs/zzzk-pipe1.out): sha 9b60a619 x2, 0 problems, flags benign (quotecheck = art. 24's quoted art.
+  34-A), dupsame 0, converted-MP report: no case. Installed; README row + jurisdiction.json (280 acts, 3809 versions).
+- PIDs (all mine, all exited): reparse/dump 10524 36232 28932 21768 52708 32820 3148 45784 13588 4904 43528, 13f eff 28636,
+  checks (chk2.sh, one at a time), builds 21784 25524, gap 43732, trials 21444 572 44616 26212 31964, pipe 52372 28336
+  52636 26460 31580 33496 43748, dupsame-all 39376.
+
+## State at handoff (batch 17, thirty-second session, 2026-11-01)
+Task 1 DONE: the four open items fixed in 60-phase2 and 70-clt (batch7/oldparts.py OLD_FIX entries for both parts;
+parse_phase2 VIGENCIA_FIXED lei-12720-2012; 5 dup_fixes.json entries removed as superseded; OPEN text updated); dupfix.py
+shared-object bug fixed and 99-batch13f refixed; all three re-PUBLISHed. Task 2: zzzk (Lei 13.089/2015) PUBLISHed. Final
+merged build of the installed folder (b32/logs/final32-build.log): 280 acts, 3809 versions, 2700 commits, check 0/0,
+--compare identical, audit_push clean on main and futuro; dupsame over every installed part 0 hits / 132 allowlisted;
+uniqlaws 0. corpus.d changed: 60-phase2, 70-clt, 99-batch13f (+ PUBLISH lines), new 99-batch17zzzk (+ PUBLISH). Everything
+through run.py / pipe.sh at BelowNormal behind the cpu gate, one process at a time, never two parses; nothing running.
+Backups: b32/before/. To rebuild an older part: `oldparts.py <part> --out X`, `effects_fix.py X`, then b32/tools/mergedec.py
+for the installed decision order; compare with b32/tools/daydiff.py.
+NEXT: ranked list from Lei 9.393/1996 (ITR), then 11.952/2009, 13.966/2019, 14.063/2020, 13.988/2020, 12.990/2014,
+10.887/2004, 11.795/2008, 12.682/2012, 6.383/1976, 10.711/2003, 9.069/1995, heavy tax laws, historic codes (pages not pinned
+yet: `iaonly.py pages` / `laws` / `missing` first).
+OPEN: CLT art. 538 § 3º (1943, no note) beside Decreto-Lei 8.740's § 2º 21.1-23.2.1946 (in the CLT open-items decision).
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once
+archive.org has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026
+congresso) once archived -> MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.
