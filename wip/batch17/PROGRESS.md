@@ -1487,3 +1487,22 @@ leis/2004/l10.848.htm), environment (Leis 9.966, 7.661, 11.959, 5.197, 7.735, 11
 New in parse_batch17 this session (all scoped to their acts): DL 200 paragraphs wrapper (SEçãO, SETOR/MINISTÉRIO heading blocks, bare
 Vide tails, 'Expressão substituída' read back from DL 900 art. 7 via _DL200_SWAP); _LPART block (PROMULGATED, SPAN_FIX, EXTRA_LAWS
 stf-adi-4917, Anexo reader, build_act_lp = new outermost build_act wrapper); _G14601 in _GATES.
+
+## Twenty-fourth session (2026-11-01): Lei 12.618/2012 (coordinator decision on art. 33 I), then the ranked list
+robots.txt read at start (archive.org: Disallow /control/ /report/ only; web.archive.org 404). Fetching: archive.org only, through the
+shared client (iaonly.py gap/laws/missing, cdxlist, cdxpre). Scratch: .gitlaw-scratch/brazil-b24 (page dumps, trial parses, logs;
+copies of parse_batch17.py, sources_batch17.json, README.md, jurisdiction.json before the session's edits).
+
+### 99-batch17zzp - PUBLISHed: Lei 12.618/2012 (lei-da-previdencia-complementar-dos-servidores-federais, LFunpresp, 7 versions 2012-05-02 .. 2025-06-03)
+- Coordinator decision: Capítulo I takes effect 'na data em que forem criadas quaisquer das entidades de que trata o art. 4º'; date it
+  by an official text if one fixes the first entity's creation day, else leave it out. Read: Decreto 7.808/2012 (pinned
+  law:dec-7808-2012, capture 20261004172246): art. 1 'Fica criada ... Funpresp-Exe', art. 12 in force on publication, DOU 21.9.2012;
+  Planalto prints '(Vide Decreto nº 7.808, de 2012)' on art. 33 I; 21.9.2012 is within art. 31's 180 days. -> Capítulo I DATED
+  21.9.2012: _G12618 in _GATES (arts. 1-3) + build_act_fp (new outermost build_act wrapper) starts the 'CAPÍTULO I' heading lines
+  that day; EXTRA decision. The Funpresp-Jud/-Leg creation acts were not read (said in the decision).
+- MP 1.119/2022 -> Lei 14.463/2022 (CONVERTED_FIX: 'Convertida na Lei nº Lei nº 14.463'); MP 1.286/2024 MP_LAPSE 3.6.2025 (Ato
+  Declaratório CN 46/2025 pinned ato:adc-46-2025-mpv1286: 'encerrado no dia 2 de junho de 2025'); Lei 15.141/2025 (DOU 3.6.2025)
+  gives § 3º-A the same words that day and revokes the MP (art. 217 XXXIX). New pins: 3 laws + the Decreto + the Ato.
+- pipe.sh zzp (brazil-b24/zzp-pipe1.out): sha d8be2331 x2, 0 moves, checks benign (see PUBLISH); lawcmp clean; headyear unchanged
+  (t24-hy.log). Installed; docs.py rows-zzp.json; final merged build (final24-build.log): 247 acts, 3516 versions, 2568 commits, check
+  0/0, compare identical, audit clean; PUBLISH written. PIDs printed in brazil-b24/*.log and .tmp/zzp-*.log, all mine, all exited.

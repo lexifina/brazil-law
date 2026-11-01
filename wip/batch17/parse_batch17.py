@@ -477,6 +477,8 @@ ALL_ACTS: list[dict] = [
     # twenty-fourth session
     _act("lei-da-previdencia-complementar-dos-servidores-federais", "LFunpresp", "l12618", "l12618", "lei-12618-2012",
          "Previdência complementar dos servidores públicos federais - Funpresp (Lei nº 12.618, de 30 de abril de 2012)", 2),
+    _act("lei-12865-de-2013", "L12865", "l12865", "l12865", "lei-12865-2013",
+         "Arranjos e instituições de pagamento, e outras matérias (Lei nº 12.865, de 9 de outubro de 2013)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -556,6 +558,7 @@ PARTS: dict[str, list[str]] = {
     "zzo": ["lei-organica-nacional-do-ministerio-publico", "lei-do-programa-bolsa-familia"],
     # twenty-fourth session
     "zzp": ["lei-da-previdencia-complementar-dos-servidores-federais"],
+    "zzq": ["lei-12865-de-2013"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -787,6 +790,9 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                      "no art. 31; e II - quanto aos demais dispositivos, na data de sua publicação' (DOU 2.5.2012); "
                                      "Capítulo I (arts. 1 to 3) from 21.9.2012, the day the first of those entities was created "
                                      "(Decreto 7.808/2012)"),
+    "lei-12865-2013": ("2013-10-10", "Lei 12.865/2013 art. 43: 'Esta Lei entra em vigor: I - a partir do primeiro dia do quarto mês "
+                                     "subsequente ao de sua publicação, em relação ao disposto no art. 34 desta Lei; II - na data de "
+                                     "sua publicação, para os demais dispositivos' (DOU 10.10.2013): art. 34 from 1.2.2014"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1202,6 +1208,29 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "Fundação de Previdência Complementar do Servidor Público Federal do Poder Judiciário (Funpresp-Jud); "
                          "altera dispositivos da Lei nº 10.887, de 18 de junho de 2004; e dá outras providências.", "2012-04-30",
                          "2012-05-02", PAGES["l12618"]),
+    # as 99-batch17e has the record
+    "lei-12865-2013": _L("Lei nº 12.865, de 2013", "Autoriza o pagamento de subvenção econômica aos produtores da safra 2011/2012 de "
+                         "cana-de-açúcar e de etanol que especifica e o financiamento da renovação e implantação de canaviais com "
+                         "equalização da taxa de juros; dispõe sobre os arranjos de pagamento e as instituições de pagamento "
+                         "integrantes do Sistema de Pagamentos Brasileiro (SPB); autoriza a União a emitir, sob a forma de colocação "
+                         "direta, em favor da Conta de Desenvolvimento Energético (CDE), títulos da dívida pública mobiliária "
+                         "federal; estabelece novas condições para as operações de crédito rural oriundas de, ou contratadas com, "
+                         "recursos do Fundo Constitucional de Financiamento do Nordeste (FNE); altera os prazos previstos nas Leis nº "
+                         "11.941, de 27 de maio de 2009, e nº 12.249, de 11 de junho de 2010; autoriza a União a contratar o Banco do "
+                         "Brasil S.A. ou suas subsidiárias para atuar na gestão de recursos, obras e serviços de engenharia "
+                         "relacionados ao desenvolvimento de projetos, modernização, ampliação, construção ou reforma da rede "
+                         "integrada e especializada para atendimento da mulher em situação de violência; disciplina o documento "
+                         "digital no Sistema Financeiro Nacional; disciplina a transferência, no caso de falecimento, do direito de "
+                         "utilização privada de área pública por equipamentos urbanos do tipo quiosque, trailer, feira e banca de "
+                         "venda de jornais e de revistas; altera a incidência da Contribuição para o PIS/Pasep e da Cofins na cadeia "
+                         "de produção e comercialização da soja e de seus subprodutos; altera as Leis nºs 12.666, de 14 de junho de "
+                         "2012, 5.991, de 17 de dezembro de 1973, 11.508, de 20 de julho de 2007, 9.503, de 23 de setembro de 1997, "
+                         "9.069, de 29 de junho de 1995, 10.865, de 30 de abril de 2004, 12.587, de 3 de janeiro de 2012, 10.826, de "
+                         "22 de dezembro de 2003, 10.925, de 23 de julho de 2004, 12.350, de 20 de dezembro de 2010, 4.870, de 1º de "
+                         "dezembro de 1965 e 11.196, de 21 de novembro de 2005, e o Decreto nº 70.235, de 6 de março de 1972; revoga "
+                         "dispositivos das Leis nºs 10.865, de 30 de abril de 2004, 10.925, de 23 de julho de 2004, 12.546, de 14 de "
+                         "dezembro de 2011, e 4.870, de 1º de dezembro de 1965; e dá outras providências.", "2013-10-09", "2013-10-10",
+                         "_Ato2011-2014/2013/Lei/L12865.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -5275,6 +5304,11 @@ _LFUNP = "lei-da-previdencia-complementar-dos-servidores-federais"
 _G12618 = {u: ("2012-09-21", "I") for u in ("art-01", "art-02", "art-03")}
 G12618_USED: list[str] = []
 _GATES[_LFUNP] = (_G12618, "lei-12618-2012", G12618_USED)
+# part zzq: Lei 12.865/2013 art. 43 I: art. 34 (its changes to Lei 12.350/2010 arts. 54 and 55) from 1.2.2014
+_L12865 = "lei-12865-de-2013"
+_G12865 = {"art-34": ("2014-02-01", "I")}
+G12865_USED: list[str] = []
+_GATES[_L12865] = (_G12865, "lei-12865-2013", G12865_USED)
 if any(a["slug"] == _LFUNP for a in ACTS):
     B7.CONVERTED_FIX["mp-1119-2022"] = ("lei-14463-2022", "the MP page reads 'Convertida na Lei nº Lei nº 14.463, de 2022' (the "
                                                           "words 'Lei nº' printed twice); Lei 14.463's page reads 'Conversão da "
@@ -5291,8 +5325,59 @@ if any(a["slug"] == _LFUNP for a in ACTS):
                  "setembro de 2012 (art. 1: 'Fica criada a Fundação de Previdência Complementar do Servidor Público Federal do Poder "
                  "Executivo - Funpresp-Exe'; art. 12: 'Este Decreto entra em vigor na data de sua publicação'; DOU 21.9.2012), the "
                  "act Planalto names on art. 33 I ('Vide Decreto nº 7.808, de 2012'), within art. 31's 180 days from publication. "
-                 "Capítulo I (arts. 1 to 3) therefore starts on 21.9.2012; the other provisions on 2.5.2012. The acts that created "
+                 "Capítulo I (its heading and arts. 1 to 3) therefore starts on 21.9.2012, credited to Lei 12.618; the other provisions on "
+                 "2.5.2012. The acts that created "
                  "the Funpresp-Jud and the Funpresp-Leg are not read; neither precedes the Decreto on Planalto's page.")
+if any(a["slug"] == _L12865 for a in ACTS):
+    P.VIGENCIA_FIXED["mp-627-2013"] = (
+        "2013-11-12", "art. 98: 'Esta Medida Provisória entra em vigor em 1º de janeiro de 2015, exceto os arts. 67 a 71 e 92 a "
+                      "100, que entram em vigor na data de sua publicação' (DOU 12.11.2013): its art. 92, the changes to Lei "
+                      "12.865 arts. 39 and 40, in force on publication")
+    P.VIGENCIA_FIXED["lei-12973-2014"] = (
+        "2014-05-14", "art. 119: 'Esta Lei entra em vigor em 1º de janeiro de 2015, exceto os arts. 3º, 72 a 75 e 93 a 119, que "
+                      "entram em vigor na data de sua publicação' (DOU 14.5.2014): its art. 93, the changes to Lei 12.865 arts. "
+                      "17, 39 and 40, in force on publication")
+    P.MP_LAPSE["mp-1227-2024"] = (
+        "2024-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 36, de 2024 (DOU 12.6.2024): its art. 6, "
+                      "whose inciso VIII revoked Lei 12.865 art. 31 § 6º and art. 32, rejected outright, 'considera não escritos "
+                      "[...] e declara o encerramento da vigência e eficácia, desde a data de sua edição': the revocation never "
+                      "took effect")
+    _W1227 = ("Lei 12.865 art. 31 § 6º and art. 32: Planalto prints them unstruck under a struck note '(Revogado pela Medida "
+              "Provisória nº 1.227, de 2024) (Vide Ato Declaratório nº 36, de 2024)' and the marker 'Vigência encerrada'; the "
+              "revocation (Medida Provisória 1.227 art. 6 VIII) was rejected outright and declared without effect since the "
+              "MP's edition (Ato Declaratório nº 36, de 2024), so these lines are the 2013 text, in force throughout")
+    B8.SPAN_FIX += [((_L12865, _u, _l, _t, 0), {"start": "2013-10-10", "start_law": None, "end": None, "end_law": None,
+                                                 "end_how": None, "skip": False}, _W1227)
+                    for _u, _l, _t in (("art-31", "§ 6º", "§ 6º A pessoa jurídica que até o final de cada trimestre"),
+                                       ("art-31", "I -", "I - efetuar sua compensação com débitos próprios"),
+                                       ("art-31", "II -", "II - solicitar seu ressarcimento em espécie"),
+                                       ("art-32", "Art. 32", "Art. 32. Os créditos presumidos de que trata o art. 31"),
+                                       ("art-32", "Parágrafo único", "Parágrafo único. O procedimento específico de "
+                                                                     "ressarcimento"))]
+    EXTRA.append(_W1227 + ".")
+    B.EXPLAINED[_L12865] = {"art-20": _DOTTED, "art-33": _DOTTED}
+    _FUT2027[_L12865] = (
+        {"art-29", "art-30", "art-31", "art-32"}, {},
+        "Lei 12.865: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] LIX - os arts. "
+        "29 a 32 da Lei nº 12.865, de 9 de outubro de 2013'), in effect from 1.1.2027 (art. 544 III, as Lei Complementar "
+        "227/2026 worded it), read on LC 214's page (Planalto's page of Lei 12.865 prints only '(Vide Lei Complementar nº 214, "
+        "de 2025)'): arts. 29 to 32 end on 1.1.2027, on the future branch")
+    # the law record as 99-batch14a/17zj/17zk have it (Planalto's page of Lei 12.865 names LC 214 only in a 'Vide' note)
+    B8.EXTRA_LAWS["lc-214-2025"] = {
+        "label": "Lei Complementar nº 214, de 2025", "title": "Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição "
+        "Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação "
+        "tributária.", "kind": "law", "enacted": "2025-01-16", "published": "2025-01-16",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp214.htm", "temporary_until": None, "restores": None,
+        "note": None}
+    EXTRA.append("Lei 12.865: art. 43 ('Esta Lei entra em vigor: I - a partir do primeiro dia do quarto mês subsequente ao de sua "
+                 "publicação, em relação ao disposto no art. 34 desta Lei; II - na data de sua publicação, para os demais "
+                 "dispositivos'; DOU 10.10.2013): art. 34 (its changes to Lei 12.350/2010 arts. 54 and 55) first shows on "
+                 "1.2.2014, credited to Lei 12.865 (Planalto marks it with a 'Vigência' link); the other articles start on "
+                 "10.10.2013.")
+B13.OPEN_ITEMS[_L12865] = (
+    "Lei 12.865 (open items): art. 40 (Lei 12.973's '(Vide)' pointer) and the regulations change no words and are not "
+    "modelled; the text before 10.10.2013 (Medida Provisória 615/2013, of which this Lei is the conversion) is not part of the "
+    "history")
 B13.OPEN_ITEMS[_LFUNP] = (
     "Lei 12.618 (open items): 'Vide' pointers (Lei 13.328/2016 and Medida Provisória 1.119/2022 on art. 3 § 7º, the reopened "
     "option periods) change no words and are not modelled; the regulations strike no words")
