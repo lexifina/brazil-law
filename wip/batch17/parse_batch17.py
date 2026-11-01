@@ -3133,7 +3133,7 @@ B8.SPAN_FIX += [
     ((_L10637, "art-03", "a)", "a) no inciso III do § 3º do art. 1º desta Lei; e.", 0), dict(_S1010), _W11727),
     ((_L10637, "art-02", "§ 1º-A", "§ 1º-A. Excetua-se do disposto no caput deste artigo a receita bruta auferida pelos produtores",
       0), dict(_S1010), _W11727),
-    ((_L10637, "art-02", "VIII -", "VIII - no art. 49 da Lei nº 10.833", 0), dict(_E0101, end_how="successor"), _W11727),
+    ((_L10637, "art-02", "VIII -", "VIII - no art. 49 da Lei nº 10.833, de 29 de dezembro de 2003, e alterações posteriores, no caso de venda de água", 0), dict(_E0101, end_how="successor"), _W11727),
     ((_L10637, "art-02", "IX -", "IX - no art. 52 da Lei nº 10.833", 0), dict(_E0101, end_how="successor"), _W11727),
     ((_L10637, "art-02", "VIII -", "VIII - no art. 58-I da Lei nº 10.833", 0), dict(_S0101), _W11727),
     ((_L10637, "art-02", "IX -", "IX - no inciso II do art. 58-M da Lei nº 10.833", 0), dict(_S0101), _W11727),
