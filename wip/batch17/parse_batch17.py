@@ -245,6 +245,14 @@ PAGES.update({
     "l5010": "leis/l5010.htm",
     # twenty-ninth session
     "l13334-compilado": "_ato2015-2018/2016/lei/L13334compilado.htm",
+    # thirtieth session: public administration laws
+    "l14600": "_ato2023-2026/2023/lei/l14600.htm",
+    "l13448": "_ato2015-2018/2017/lei/l13448.htm",
+    "l10180": "leis/leis_2001/l10180.htm",
+    "l9636": "leis/l9636.htm",
+    "l9636-compilado": "leis/l9636compilado.htm",
+    "l8730": "leis/l8730.htm",
+    "l11473": "_ato2007-2010/2007/lei/l11473.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -6226,11 +6234,17 @@ B.EXPLAINED[_LPPI] = {"art-07": "typesetting: Planalto's consolidated page (Lei 
                                  "setembro de 1997' at the end of art. 7 § 3º; the annotated page prints it"}
 B13.OPEN_ITEMS[_LPPI] = (
     "Lei 13.334 (open items): the text before 13.9.2016 (Medida Provisória 727/2016, of which this Lei is the conversion) is not "
-    "part of the history; Medidas Provisórias 768/2017 (art. 11) and 782/2017 (art. 80) and Lei 13.502/2017 (art. 84) are in "
+    "part of the history; Medidas Provisórias 768/2017 (art. 11) and 782/2017 (art. 80) and Lei 13.502/2017 (art. 81) are in "
     "force on publication but defer their effects on the structure and competences of organs to the entry into force of the "
-    "decrees of estrutura regimental, which name no day in the acts themselves: their changes to this Lei are dated by "
-    "publication (Planalto marks them 'Produção de efeitos'); 'Vide' pointers (Lei 13.448/2017, Mandado de Segurança 38.606, "
+    "decrees of estrutura regimental, which name no day in the acts themselves: their changes to this Lei keep the in-force "
+    "day, their publication (Planalto marks them 'Produção de efeitos'), under the rule that effects left to a later act keep "
+    "the in-force day (an effect day left to a decree is not a fixed day; settled by the coordinator); 'Vide' pointers (Lei 13.448/2017, Mandado de Segurança 38.606, "
     "Decretos 10.245/2020 and 11.412/2023) strike no words and are not modelled")
+_W8B = ("Lei 13.334 art. 8º-B: added by Medida Provisória 882/2019 (caput, incisos I-V, from 3.5.2019); Medida Provisória "
+        "886/2019 (DOU 19.6.2019) revoked its inciso II (art. 10 III b) and gave incisos IV, V and a new VI (art. 5, the caput and "
+        "incisos I and III kept by dotted lines), so the MP 882 incisos IV and V end on 19.6.2019; the MP 882 caput and incisos I "
+        "and III end with that MP's term (31.8.2019), and from then until Lei 13.901/2019 (12.11.2019) only Medida Provisória "
+        "886's incisos IV-VI are in force")
 _G882 = [("2019-05-03", "2019-08-31", "mp-882-2019", "mp-882-2019-fim")]
 B8.SPAN_FIX += [
     ((_LPPI, "art-07", "III -", "III - o Ministro de Estado da Economia", 0),
@@ -6253,7 +6267,13 @@ B8.SPAN_FIX += [
      {"start": "2019-12-11", "start_law": "lei-13901-2019"}, _W9A),
     ((_LPPI, "art-07-a", "Parágrafo único", "Parágrafo único. A decisão ad referendum a que se refere o caput deste", 1),
      {"start": "2020-06-30", "start_law": "mp-922-2020-fim", "restored": True}, _W7A),
+    ((_LPPI, "art-08-b", "IV -", "IV - editar e praticar os atos normativos e os demais atos inerentes às suas atribuições; e", 0),
+     {"end": "2019-06-19", "end_law": "mp-886-2019", "end_how": "successor"}, _W8B),
+    ((_LPPI, "art-08-b", "V -", "V - atuar como Secretário-Executivo do CPPI.", 0),
+     {"end": "2019-06-19", "end_law": "mp-886-2019", "end_how": "successor"}, _W8B),
 ]
+if any(a["slug"] == _LPPI for a in ACTS):
+    EXTRA.append(_W8B + " (the article stands without a caput, as the source gives it)")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

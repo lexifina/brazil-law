@@ -1847,3 +1847,47 @@ NEXT: Lei 13.334/2016 (PPI): page l13334 pinned (20261019061454), not configured
 DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once
 archive.org has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026 congresso) once
 archived -> MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.
+
+## Twenty-ninth session (2026-11-01): Lei 13.334/2016 (PPI), part zzzd
+robots.txt read at start (archive.org: Disallow /control/ /report/ only; web.archive.org 404; copies in brazil-b29/robots). Fetching:
+archive.org only through the shared client (iaonly.py). Scratch: .gitlaw-scratch/brazil-b29 (before/ = parse_batch17.py,
+sources_batch17.json, effects_fix.py, README, jurisdiction.json, bad_pins.json before the session; l13334-reg.txt page dump; trial
+parses, span dumps spj1/spj2, conv_report.py copy and logs; pipe outputs zzzd-pipe1/2.out; final29a-build.log).
+Pins: `iaonly.py laws l13334` 4 new (law:lei-13502-2017, mp-768-2017, mp-782-2017, mp-1161-2023); `missing` 0; `gap` l13334-compilado
+(L13334compilado.htm, ts 20261014174232) and ato:adc-42-2023-mpv1161 (Ato Declaratório 42/2023: MP 1.161 term ended 9.6.2023). headyear
+(b29/hy1.log) = b28/hy5. No bad pin.
+### 99-batch17zzzd - PUBLISHed: Lei 13.334/2016 (lei-do-programa-de-parcerias-de-investimentos, LPPI, 18 versions 2016-09-13 .. 2026-09-16)
+- Config: act (check page l13334-compilado), PARTS zzzd, ACT_DAY 13.9.2016 (art. 22, DOU edição extra), ACT_LAWS lei-13334-2016 (new
+  record). Block '# part zzzd' (end of parse_batch17, before SRC): scoped MP_LAPSE mp-1161-2023 (10.6.2023), NOTE_FIX '(Redação da pela
+  Medida Provisória nº 768, de 2017)', MP_PENDING mp-768-2017 (revoked by MP 782); EXPLAINED art-07 (compilado drops a full stop);
+  OPEN_ITEMS (MP 727 text; MP 768/782 and Lei 13.502 'produção de efeitos' tied to structure decrees with no day: dated by
+  publication; Vide pointers); SPAN_FIX _W870 (art. 7 § 1º III/IV: MP 870 wordings end 18.6.2019, Lei 13.844 kept none; Lei 13.502's
+  copies 18.6-19.6.2019; CONV_RESTORE not used because its general form also matches the MP 886 copy lines and would assert),
+  _W882R (art. 8 I, IV, VI, art. 12 V: gaps 3.5-31.8.2019, MP 882's revocations were not among those MP 886 art. 10 revoked), _W9A
+  (art. 9º-A from the promulgation of Lei 13.901's vetoed part, DOU 11.12.2019), _W7A (art. 7º-A p.u. back 30.6.2020), _W8B (MP 882's
+  art. 8º-B IV/V end 19.6.2019, replaced by MP 886's; 8º-B without caput 31.8-12.11.2019, EXTRA decision, act-scoped).
+- Existing tables used: batch 9's MP_LAPSE mp-882-2019 (31.8.2019) and mp-922-2020 (30.6.2020). 'Alteração revogada pela MP 886' notes
+  were already read as MP 886 ends (art. 7 § 1º I, §§ 4º-5º, art. 7º-A, art. 8 caput, art. 8º-B II), as MP 886 art. 10 II-III says.
+- pipe.sh zzzd (b29/zzzd-pipe2.out): sha 692134c5 x2, 0 moves, 0 law records set, dupline/dupcheck/order 0, firstline 1 (8º-B, above),
+  leakcheck = '(revogado)' text, quotecheck = art. 18, latecaput = art. 7/art. 14 lines under restored caputs (benign), overlap 0,
+  uniqlaws 0, missorig 0. conv_report (b29/zzzd-conv2.log): 11 OK, 0 BAD. Installed 3d3843db; README row + jurisdiction.json (269
+  acts, 3722 versions). final29a-build.log: 269 acts, 3722 versions, 2657 commits, check 0/0, --compare identical, audit clean main +
+  futuro. Every earlier part byte-identical (b29/corpusd-before.txt vs corpusd-after.txt).
+- PIDs (all mine, all exited): laws 2188, missing 32508 (failed, wrong args) / 54312, hy 30760, gap 5524 / 28336, trials 23404 / spans
+  30304 (conv1) / sp1 / spj1 / 39676 (spj2) / t2, pipe1 30028 14328 43120 42132 3572 11948, pipe2 41956 33228 2796 17240 44952 39340,
+  conv2 40408, final 53608.
+
+## State at handoff (batch 17, twenty-ninth session, 2026-11-01)
+Installed with .PUBLISH this session: zzzd (Lei 13.334/2016, 18 versions). Final merged build of the installed folder after all docs
+(brazil-b29/final29a-build.log): 269 acts, 3722 versions, 2657 commits, check 0/0, --compare identical, audit_push clean on main and
+futuro; README row and jurisdiction.json (269 acts, 3722 versions) current. All runs through .tmp/run.py / pipe.sh at BelowNormal
+behind the cpu gate, one at a time, never two parses; nothing running. Fetching: archive.org only (robots.txt read); no challenge page.
+The twenty-second session's ranked list is now finished. NEXT candidates (public administration, not built; check slugs first):
+Lei 14.600/2023 (organização da Presidência e dos Ministérios; current), Lei 13.448/2017 (prorrogação e relicitação de concessões),
+Lei 10.180/2001 (sistemas de planejamento, orçamento, contabilidade e controle interno), Lei 9.636/1998 (bens imóveis da União), Lei
+8.730/1993 (declaração de bens), Lei 11.473/2007 (Força Nacional).
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once archive.org
+has _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026; Atos adc-62-mpv1.340 and adc-77-mpv1.349 (2026 congresso) once archived ->
+MPs 1.340/1.349 in part zzx and Lei 12.462 art. 63 § 17 in part v.
+OPEN for the coordinator: MP 768/782 and Lei 13.502 'produção de efeitos' (effects on organs from the structure decrees' entry into
+force, no day in the acts): dated by publication in zzzd; say if the decree days should be read instead.
