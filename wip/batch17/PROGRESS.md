@@ -2225,3 +2225,15 @@ Disallow /control/ /report/; web.archive.org 404; b34/robots).
   versions). Final merged build (b34/logs/zzzo-final-build.log): 284 acts, 3830 versions, 2705 commits, check 0/0,
   compare identical, audit clean. PIDs: pages 42592, laws 33928, missing 48228, trials 47272/30520/50336/11896/46448,
   paras 53216/44624, pipe PIDs in zzzo-pipe*.out, conv 54512, final 33056 (all exited).
+### 99-batch17zzzp - PUBLISHed: Lei 13.988/2020 (lei-da-transacao-tributaria, LTransT, 8 versions 2020-04-14 .. 2025-01-23)
+- Pin `iaonly.py pages l13988`; `laws` 6 links, 0 new; act-scoped `missing` 0. ACT_DAY 14.4.2020 (art. 30 II); ACT_LAWS = 17q's
+  record. Block '# part zzzp': NAV_LINES l13988; heading-name wrapper of zzzo extended to l13988 (zzzo reparse = installed
+  but for the sources request count); SPAN_FIX _W23_120 (art. 23 I + p.u. from 12.8.2020, art. 30 I: 120 days, start_law
+  lei-13988-2020 by_provision, as Lei 14.601's single lines); MP_LAPSE mp-1160-2023 2.6.2023 (ADC 41/2023, already pinned)
+  + EXTRA (art. 27-B: only its label struck); OPEN_ITEMS. law_records.json mp-1160-2023-fim (neutral note) -> 99-batch17q
+  re-recorded (one field, 253bec26) and re-PUBLISHed.
+- pipe.sh zzzp (b34/logs/zzzp-pipe1.out): sha a88a59df x2; all 0 except leakcheck 2 ('(revogado)' incisos of the amending
+  laws), quotecheck 2 (quoted amendments); latecaput reviewed (Lei 14.375 dotted); conv 0. Installed; README row +
+  jurisdiction.json (285 acts, 3838 versions). Final merged build (b34/logs/zzzp-final-build.log): 285 acts, 3838 versions,
+  2707 commits, check 0/0, compare identical, audit clean. PIDs: pages 45228, laws 47748, missing 46412, trials
+  47420/21168, zzzo-re 28852, pipe PIDs in zzzp-pipe1.out, conv 31716, final 41216 (all exited).

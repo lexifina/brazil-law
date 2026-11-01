@@ -270,6 +270,7 @@ PAGES.update({
     "l13966": "_ato2019-2022/2019/lei/l13966.htm",
     "l14063": "_ato2019-2022/2020/lei/l14063.htm",
     "l13988": "_ato2019-2022/2020/lei/l13988.htm",
+    "l12990": "_ato2011-2014/2014/lei/l12990.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -626,6 +627,8 @@ ALL_ACTS: list[dict] = [
          "Assinaturas eletrônicas em interações com entes públicos (Lei nº 14.063, de 23 de setembro de 2020)", 2),
     _act("lei-da-transacao-tributaria", "LTransT", "l13988", "l13988", "lei-13988-2020",
          "Transação resolutiva de litígio tributário e da dívida ativa (Lei nº 13.988, de 14 de abril de 2020)", 2),
+    _act("lei-de-cotas-em-concursos-publicos", "LCotasC", "l12990", "l12990", "lei-12990-2014",
+         "Reserva de vagas para negros em concursos públicos federais (Lei nº 12.990, de 9 de junho de 2014)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -741,6 +744,7 @@ PARTS: dict[str, list[str]] = {
     "zzzn": ["lei-de-franquia"],
     "zzzo": ["lei-das-assinaturas-eletronicas"],
     "zzzp": ["lei-da-transacao-tributaria"],
+    "zzzq": ["lei-de-cotas-em-concursos-publicos"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
