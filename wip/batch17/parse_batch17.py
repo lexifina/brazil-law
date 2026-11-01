@@ -7007,7 +7007,7 @@ if any(a["slug"] == _L10887 for a in ACTS):
                       "93, 105 a 108 e 113 a 119; [...]' (DOU 29.7.2016, edição extra): its art. 93 (Lei 10.887 art. 4) falls "
                       "under I")
     P.VIGENCIA_FIXED["mp-556-2011"] = (
-        "2012-04-01", "art. 6: 'Esta Medida Provisória entra em vigor na data de sua publicação, produzindo efeitos: I - a partir "
+        "2012-04-01", "art. 7: 'Esta Medida Provisória entra em vigor na data de sua publicação, produzindo efeitos: I - a partir "
                       "do primeiro dia do quarto mês subsequente ao da sua publicação, em relação ao disposto no art. 1º [...]' "
                       "(DOU 26.12.2011): its art. 1, the whole of its changes to Lei 10.887 (Planalto marks each '(Produção de "
                       "efeito)'), is dated by the day it takes effect, 1.4.2012")
@@ -7036,7 +7036,7 @@ if any(a["slug"] == _L10887 for a in ACTS):
         "from": "2017-12-18", "case": r"5\.?809", "where": [], "why": "Medida Provisória 805/2017 suspended by the STF"}
 
     P.VIGENCIA_FIXED["lei-12688-2012"] = (
-        "2012-07-19", "art. 33: 'Esta Lei entra em vigor: I - (VETADO); II - (VETADO); III - a partir de 1º de junho de 2012, "
+        "2012-07-19", "art. 36: 'Esta Lei entra em vigor: I - (VETADO); II - (VETADO); III - a partir de 1º de junho de 2012, "
                       "quanto ao disposto no art. 30; IV - na data de sua publicação, em relação aos demais artigos' (DOU "
                       "19.7.2012): its art. 29 (Lei 10.887 arts. 4, 8-A and 16-A) falls under IV")
 _W805 = ("Lei 10.887 arts. 4 to 6: Medida Provisória 805/2017 (DOU 30.10.2017, edição extra; in force on publication, art. 39) "
@@ -7052,7 +7052,7 @@ _C805 = {"end": "2017-12-18", "end_law": "stf-adi-5809", "end_how": "court"}
 _R805 = {"start": "2017-12-18", "start_law": "stf-adi-5809", "restored": True, "skip": False}
 _G805 = {"gaps": [("2017-10-30", "2017-12-18", "mp-805-2017", "stf-adi-5809")]}
 B8.SPAN_FIX += [
-    *[((_L10887, u, lab, start, n), {"skip": True}, _W805) for u, lab, start, n in (
+    *[((_L10887, u, lab, start, n), {"skip": True, **_C805}, _W805) for u, lab, start, n in (
         ("art-04", "Art. 4º", "Art. 4º A contribuição social do servidor público ativo de qualquer dos Poderes da União, incluídas "
                               "suas autarquias e fundações, para a manutenção do respectivo regime próprio de previdência social, "
                               "será de 11% (onze por cento), incidentes sobre", 0),
@@ -7100,7 +7100,7 @@ if any(a["slug"] == _L10887 for a in ACTS):
     P.paragraphs = B.paragraphs = _paragraphs_l10887
     EXTRA.append(_W805 + ".")
     EXTRA.append("Lei 10.887 (Medida Provisória 556/2011): its art. 1, all of its changes to Lei 10.887, took effect on 1.4.2012 "
-                 "(art. 6 I) and it lapsed (in force to 31.5.2012, Ato Declaratório nº 25/2012), so the earlier wordings, which "
+                 "(art. 7 I) and it lapsed (in force to 31.5.2012, Ato Declaratório nº 25/2012), so the earlier wordings, which "
                  "Planalto prints again after the MP's struck lines, stand from 1.6.2012 until Lei 12.688/2012 (DOU 19.7.2012) "
                  "gave the same units new wordings.")
 B13.OPEN_ITEMS[_L10887] = (
