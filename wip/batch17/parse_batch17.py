@@ -3955,7 +3955,7 @@ B.EXPLAINED[_LPEE] = {"art-16": "Planalto prints art. 16 §§ 1º and 2º unstru
                                 "article; the law's text governs and they end on 20.9.1995"}
 B13.OPEN_ITEMS[_LPEE] = (
     "Lei 6.996 (open items): Lei 7.444/1985 art. 12 revokes art. 2 § 2º, citing 'Lei nº 6.996, de 7 de junho de 1932' (a slip "
-    "for 1982; the page notes it); Lei 7.663/1988 art. 5 revokes art. 9 (caput, parágrafo único and its incisos), which art. 17 "
+    "for 1982); Lei 7.663/1988 art. 5 revokes art. 9 (caput, parágrafo único and its incisos), which art. 17 "
     "still names ('o parágrafo único do art. 9º'): art. 17 keeps its words as Planalto prints them")
 if any(a["slug"] == _LMESC for a in ACTS):
     P.MP_PENDING["mp-2173-2001"] = (
