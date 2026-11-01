@@ -2519,7 +2519,7 @@ def _inner(*a):
         dec.append("Lei 10.522 art. 37-B § 10 (Lei 11.941/2009): Planalto strikes only the dash in 'Custódia – SELIC' (also on "
                    "Lei 11.941's own page) in a line in force; the strike is read as a typesetting slip and the line as unstruck, "
                    "dash kept (" + ", ".join(dict.fromkeys(MIXED_PLAIN)) + ").")
-    _BX = ("l9430", "l9873", "l10637", "l10833")
+    _BX = ("l9430", "l9873", "l9984", "l10637", "l10833")
     if any(not x.startswith(_BX) for x in BARE_TEXT_USED):
         dec.append("Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº [...]' (Decretos-"
                    "Leis 2.449/1988 and 1.730/1979): these words name the wording of the other act the article refers to; they "
