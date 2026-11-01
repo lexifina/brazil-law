@@ -6431,6 +6431,32 @@ if any(a["slug"] == _LOPM for a in ACTS):
         "Medida Provisória nº 1.203, de 29.12.2023 (DOU 29.12.2023, edição extra, in force on publication), revoked by Lei "
         "14.875/2024 (DOU 31.5.2024, edição extra, art. 74 XVII; in force on publication for that provision, art. 75 II), whose "
         "art. 54 gave Lei 14.600 art. 50 § 8º its wording the same day; the MP's wording of the paragraph ends on 31.5.2024")
+LOPM_DATED: list[str] = []
+_paragraphsLOPM = P.paragraphs
+
+
+def paragraphs(html, digits):
+    """Lei 14.600 Seção XIII-A: Planalto prints Medida Provisória 1.187/2023's heading (the name struck) and, further on, Lei
+    14.816/2024's heading of the same words, whose name line carries no note of its own (the note '(Incluído pela Lei nº
+    14.816, de 2024)' follows the 'Seção XIII-A' line); the reader dated that name line from 2023. It takes the note of its
+    'Seção XIII-A' line, so the MP's name stands from 13.9.2023 and Lei 14.816's from 17.1.2024"""
+    out, rest = _paragraphsLOPM(html, digits)
+    if B8.CURRENT_PAGE[0] == "l14600":
+        _name = "Do Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte"
+        for k, p in enumerate(out):
+            if (p["heading"] and p["state"] == "plain" and p["text"] == _name and not p["notes"] and k
+                    and out[k - 1]["heading"] and any("14.816" in n for n in out[k - 1]["notes"])):
+                p["notes"] = list(out[k - 1]["notes"])
+                LOPM_DATED.append(p["text"])
+        if LOPM_DATED and not any("Seção XIII-A" in x and "14.816" in x for x in EXTRA):
+            EXTRA.append("Lei 14.600 Seção XIII-A heading: Medida Provisória 1.187/2023 (13.9.2023) added it; Planalto prints the MP's "
+                         "heading (its name struck) and Lei 14.816/2024's heading of the same words, whose name line has no note of "
+                         "its own; it takes the note of its 'Seção XIII-A' line ('Incluído pela Lei nº 14.816, de 2024'), so the "
+                         "name reads once: the MP's from 13.9.2023, Lei 14.816's from 17.1.2024")
+    return out, rest
+
+
+P.paragraphs = paragraphs
 B.EXPLAINED[_LOPM] = {"art-63": _DOTTED}
 B13.OPEN_ITEMS[_LOPM] = (
     "Lei 14.600 (open items): the text before 20.6.2023 (Medida Provisória 1.154/2023, of which this Lei is the conversion) is "
@@ -6539,7 +6565,7 @@ _LDESAP, _LDIS, _LTOMB = "lei-das-desapropriacoes", "lei-da-desapropriacao-por-i
 LDESAP_RELABEL: list[str] = []
 _paragraphsLDESAP = P.paragraphs
 _RX15A = re.compile(r"^Art\.\s*15\s?A\b(?!\.)")
-_RX2A = re.compile(r"^§\s*2º\s?A\s+Será dispensada")
+_RX2A = re.compile(r"^§\s*2\s*[º°o]?\s*A\.?\s+Será\s+dispensada")
 
 
 def paragraphs(html, digits):
@@ -6558,7 +6584,7 @@ def paragraphs(html, digits):
                 p["unit"] = "art-15-a"
             else:
                 in15a = False
-            if p["unit"] == "art-02" and _RX2A.match(p["text"]):
+            if _RX2A.match(p["text"]):
                 p["label"] = "§ 2º-A"
                 LDESAP_RELABEL.append("art-02 § 2º-A")
         if LDESAP_RELABEL and not any("'Art. 15A No caso" in x for x in EXTRA):
@@ -6575,7 +6601,25 @@ _W15A4 = ("Decreto-Lei 3.365 art. 15-A § 4º (Medida Provisória 2.183-56/2001)
           "15-A a caput and §§ 1º-3º closed by '(NR)' with no dotted line, its § 3º taking the matter of § 4º, so § 4º is not in "
           "the article during the MP's term; the MP's term ended on 17.5.2016 and Planalto prints Medida Provisória 2.183-56's "
           "art. 15-A again, § 4º included, in force from 18.5.2016 until Lei 14.620/2023 (14.7.2023)")
+_W15A = ("Decreto-Lei 3.365 art. 15-A (Medida Provisória 2.183-56/2001): Planalto prints the MP's article twice, before Medida "
+         "Provisória 700/2015's wording (DOU 9.12.2015) and again after it; the MP 700 term ended on 17.5.2016, so the first copy "
+         "ends on 9.12.2015 and the second stands from 18.5.2016 until Lei 14.620/2023 (14.7.2023)")
 B8.SPAN_FIX += [
+    *[((_LDESAP, "art-15-a", lab, start, 0), {"end": "2015-12-09", "end_law": "mp-700-2015", "end_how": "successor"}, _W15A)
+      for lab, start in (("Art. 15-A", "Art. 15A No caso de imissão prévia"), ("§ 1º", "§ 1º Os juros compensatórios destinam-se, apenas"),
+                         ("§ 2º", "§ 2º Não serão devidos juros compensatórios"),
+                         ("§ 3º", "§ 3º O disposto no caput deste artigo aplica-se também"))],
+    *[((_LDESAP, "art-15-a", lab, start, 1), {"start": "2016-05-18", "start_law": "mp-700-2015-fim", "restored": True,
+                                              "end": "2023-07-14", "end_law": "lei-14620-2023", "end_how": "successor"}, _W15A)
+      for lab, start in (("Art. 15-A", "Art. 15A No caso de imissão prévia"), ("§ 1º", "§ 1º Os juros compensatórios destinam-se, apenas"),
+                         ("§ 2º", "§ 2º Não serão devidos juros compensatórios"),
+                         ("§ 3º", "§ 3º O disposto no caput deste artigo aplica-se também"))],
+    ((_LDESAP, "art-07", "", "Àquele que for molestado por excesso ou abuso de poder", 1),
+     {"start": "2016-05-18", "start_law": "mp-700-2015-fim", "restored": True, "end": "2023-07-14", "end_law": "lei-14620-2023",
+      "end_how": "successor"},
+     "Decreto-Lei 3.365 art. 7: the 1941 article's second sentence ('Àquele que for molestado ...') is printed twice, with the "
+     "1941 caput before Medida Provisória 700/2015's wording and again after it; the second copy stands from 18.5.2016, when the "
+     "MP's term had ended, until Lei 14.620/2023 (the reader had dated it from 1941, so the sentence read twice until 2015)"),
     ((_LDESAP, "art-15-a", "§ 4º", "§ 4º Nas ações referidas no § 3º", 0),
      {"end": "2015-12-09", "end_law": "mp-700-2015", "end_how": "successor"}, _W15A4),
     ((_LDESAP, "art-15-a", "§ 4º", "§ 4º Nas ações referidas no § 3º", 1),
