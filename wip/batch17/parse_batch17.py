@@ -6993,6 +6993,122 @@ B13.OPEN_ITEMS[_LTRANST] = (
     "starts with the Lei, in force on publication, 14.4.2020, except art. 23 I and parágrafo único, from 12.8.2020); 'Vide "
     "Lei Complementar nº 214, de 2025' strikes no words and is not modelled; the page's navigation links are left out")
 
+# part zzzq (thirty-fifth session): Lei 10.887/2004 (aplicação da EC 41 aos regimes próprios). Hand items set only when the act
+# runs.
+_L10887 = "lei-10887-de-2004"
+if any(a["slug"] == _L10887 for a in ACTS):
+    P.VIGENCIA_FIXED["lei-12618-2012"] = (
+        "2012-05-02", "art. 33: 'Esta Lei entra em vigor: I - quanto ao disposto no Capítulo I, na data em que forem criadas "
+                      "quaisquer das entidades de que trata o art. 4º, observado o disposto no art. 31; e II - quanto aos demais "
+                      "dispositivos, na data de sua publicação' (DOU 2.5.2012): its art. 29 (Lei 10.887 art. 4 caput) is outside "
+                      "Capítulo I and falls under II")
+    P.VIGENCIA_FIXED["lei-13328-2016"] = (
+        "2016-07-29", "art. 152: 'Esta Lei entra em vigor: I - na data de sua publicação, quanto aos arts. 1º a 16, 40 a 89, 92 e "
+                      "93, 105 a 108 e 113 a 119; [...]' (DOU 29.7.2016, edição extra): its art. 93 (Lei 10.887 art. 4) falls "
+                      "under I")
+    P.VIGENCIA_FIXED["mp-556-2011"] = (
+        "2012-04-01", "art. 6: 'Esta Medida Provisória entra em vigor na data de sua publicação, produzindo efeitos: I - a partir "
+                      "do primeiro dia do quarto mês subsequente ao da sua publicação, em relação ao disposto no art. 1º [...]' "
+                      "(DOU 26.12.2011): its art. 1, the whole of its changes to Lei 10.887 (Planalto marks each '(Produção de "
+                      "efeito)'), is dated by the day it takes effect, 1.4.2012")
+    P.MP_LAPSE["mp-556-2011"] = (
+        "2012-06-01", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 25, de 2012 (DOU 14.6.2012): 'teve seu "
+                      "prazo de vigência encerrado no dia 31 de maio do corrente ano'")
+    P.MP_PENDING["mp-805-2017"] = (
+        "Medida Provisória nº 805, de 30.10.2017 (DOU 30.10.2017, edição extra, in force on publication, art. 39; the increase "
+        "of the contribution in its Capítulo XXVII to take effect only from 1.2.2018, art. 38): its effects were suspended by "
+        "the Supremo Tribunal Federal's medida cautelar in ADI 5.809 on 18.12.2017, and it lapsed (Ato nº 19, de 2018, of the "
+        "Presidente da Mesa do Congresso Nacional, DOU 10.4.2018: 'teve seu prazo de vigência encerrado no dia 8 de abril'); "
+        "its wordings end on 18.12.2017 (set by hand)")
+    P.MP_PENDING["mp-1203-2023"] = (
+        "Medida Provisória nº 1.203, de 29.12.2023 (DOU 29.12.2023, edição extra, in force on publication), revoked by Lei "
+        "14.875/2024 (DOU 31.5.2024, edição extra, art. 74 XVII; in force on publication for that provision, art. 75 II), whose "
+        "art. 59 gave Lei 10.887 art. 4 its wording the same day; the MP's wordings end on 31.5.2024")
+    P.VIGENCIA_FIXED["lei-14875-2024"] = (
+        "2024-05-31", "art. 75: 'Esta Lei entra em vigor: I - a partir de 1º de agosto de 2024, quanto às alíneas “e”, "
+                      "“f” e “i” do inciso IX do caput do art. 74; e II - na data de sua publicação, quanto aos "
+                      "demais dispositivos' (DOU 31.5.2024, edição extra): its art. 59 (Lei 10.887 art. 4) falls under II")
+    P.COURTS["stf-adi-5809"] = {
+        "label": "STF, ADI 5.809 (medida cautelar)", "kind": "court", "enacted": "2017-12-18", "published": "2017-12-18",
+        "title": "Ação direta de inconstitucionalidade 5.809, medida cautelar: suspende os efeitos da Medida Provisória nº 805, "
+                 "de 2017",
+        "url": "https://www.camara.leg.br/noticias/530114-LIMINAR-DO-STF-SUSPENDE-EFEITOS-DA-MP-QUE-ADIOU-REAJUSTE-DE-SERVIDORES",
+        "from": "2017-12-18", "case": r"5\.?809", "where": [], "why": "Medida Provisória 805/2017 suspended by the STF"}
+
+    P.VIGENCIA_FIXED["lei-12688-2012"] = (
+        "2012-07-19", "art. 33: 'Esta Lei entra em vigor: I - (VETADO); II - (VETADO); III - a partir de 1º de junho de 2012, "
+                      "quanto ao disposto no art. 30; IV - na data de sua publicação, em relação aos demais artigos' (DOU "
+                      "19.7.2012): its art. 29 (Lei 10.887 arts. 4, 8-A and 16-A) falls under IV")
+_W805 = ("Lei 10.887 arts. 4 to 6: Medida Provisória 805/2017 (DOU 30.10.2017, edição extra; in force on publication, art. 39) "
+         "rewrote art. 4 caput with incisos I-II (rates of 11% and 14%), added § 3º with incisos I-II and rewrote art. 5 with a "
+         "parágrafo único, an increase of the contribution that art. 38 lets take effect only from 1.2.2018; it rewrote art. 4 "
+         "§ 1º VI and added § 1º XXV, and its art. 40 revoked art. 4 II alíneas a) and b) and art. 6, from publication. The "
+         "Supremo Tribunal Federal suspended the MP's effects on 18.12.2017 (medida cautelar in ADI 5.809), before 1.2.2018, and "
+         "the MP lapsed on 8.4.2018 (Ato nº 19, de 2018, of the Presidente da Mesa do Congresso Nacional). So the increase never "
+         "takes effect (those struck lines are left out, with Planalto's struck repeats of Lei 12.618's art. 4 and of the 2004 "
+         "art. 5 printed above them); § 1º VI and XXV in the MP's wording stand from 30.10.2017 to 18.12.2017; art. 4 II a)-b) "
+         "and art. 6 are absent from 30.10.2017 and stand again from 18.12.2017, credited to the ruling")
+_C805 = {"end": "2017-12-18", "end_law": "stf-adi-5809", "end_how": "court"}
+_R805 = {"start": "2017-12-18", "start_law": "stf-adi-5809", "restored": True, "skip": False}
+_G805 = {"gaps": [("2017-10-30", "2017-12-18", "mp-805-2017", "stf-adi-5809")]}
+B8.SPAN_FIX += [
+    *[((_L10887, u, lab, start, n), {"skip": True}, _W805) for u, lab, start, n in (
+        ("art-04", "Art. 4º", "Art. 4º A contribuição social do servidor público ativo de qualquer dos Poderes da União, incluídas "
+                              "suas autarquias e fundações, para a manutenção do respectivo regime próprio de previdência social, "
+                              "será de 11% (onze por cento), incidentes sobre", 0),
+        ("art-04", "I -", "I - a totalidade da base de contribuição, em se tratando", 0),
+        ("art-04", "II -", "II - a parcela da base de contribuição que não exceder", 0),
+        ("art-04", "a)", "a) que tiver ingressado no serviço público até a data a que se refere o inciso I", 0),
+        ("art-04", "b)", "b) que tiver ingressado no serviço público a partir da data", 0),
+        ("art-04", "Art. 4º", "Art. 4º A contribuição social do servidor público ativo de quaisquer", 0),
+        ("art-04", "I -", "I - onze por cento", 0),
+        ("art-04", "II -", "II - quatorze por cento", 0),
+        ("art-04", "§ 3º", "§ 3º A alíquota estabelecida no inciso II do caput", 0),
+        ("art-04", "I -", "I - que tiver ingressado no serviço público até a data da publicação do ato", 0),
+        ("art-04", "II -", "II - que tiver ingressado no serviço público a partir da data a que se refere a alínea", 0),
+        ("art-05", "Art. 5º", "Art. 5º Os aposentados e os pensionistas de qualquer", 0),
+        ("art-05", "Art. 5º", "Art. 5º Os aposentados e os pensionistas de quaisquer", 0),
+        ("art-05", "Parágrafo único", "Parágrafo único. A contribuição de que trata o caput incidirá apenas", 0))],
+    ((_L10887, "art-04", "a)", "a) que tiver ingressado no serviço público até a data a que se refere o inciso I", 1), dict(_G805), _W805),
+    ((_L10887, "art-04", "b)", "b) que tiver ingressado no serviço público a partir da data", 1), dict(_G805), _W805),
+    ((_L10887, "art-04", "VI -", "VI - o auxílio pré-escolar", 0), dict(_C805), _W805),
+    ((_L10887, "art-04", "VI -", "VI - o auxílio-creche", 1), dict(_R805), _W805),
+    ((_L10887, "art-04", "XXV -", "XXV - o adicional de irradiação ionizante", 0), dict(_C805), _W805),
+    ((_L10887, "art-06", "Art. 6º", "Art. 6º Os aposentados", 1), dict(_R805), _W805),
+    ((_L10887, "art-06", "Parágrafo único", "Parágrafo único. A contribuição de que trata o caput deste artigo incidirá sobre", 1),
+     dict(_R805), _W805),
+]
+L10887_FIXED: list[str] = []
+if any(a["slug"] == _L10887 for a in ACTS):
+    _paragraphsL10887 = P.paragraphs
+
+    def _paragraphs_l10887(html, digits):
+        """Lei 10.887: Planalto's marker 'Sem eficácia' after the struck lines of Medida Provisória 556/2011 (lapsed) is not
+        part of the text"""
+        out, rest = _paragraphsL10887(html, digits)
+        if B8.CURRENT_PAGE[0] == "l10887":
+            for q in out:
+                t = re.sub(r"\s+\(?Sem efic[áa]cia\)?\s*$", "", q["text"])
+                if t != q["text"]:
+                    q["text"] = t
+                    L10887_FIXED.append(f"{q['unit']} {q['label']}")
+            if L10887_FIXED and not any(x.startswith("Lei 10.887: Planalto's marker 'Sem eficácia'") for x in EXTRA):
+                EXTRA.append("Lei 10.887: Planalto's marker 'Sem eficácia' after the struck lines of Medida Provisória 556/2011 "
+                             "(lapsed) is not part of the text and is left out")
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_l10887
+    EXTRA.append(_W805 + ".")
+    EXTRA.append("Lei 10.887 (Medida Provisória 556/2011): its art. 1, all of its changes to Lei 10.887, took effect on 1.4.2012 "
+                 "(art. 6 I) and it lapsed (in force to 31.5.2012, Ato Declaratório nº 25/2012), so the earlier wordings, which "
+                 "Planalto prints again after the MP's struck lines, stand from 1.6.2012 until Lei 12.688/2012 (DOU 19.7.2012) "
+                 "gave the same units new wordings.")
+B13.OPEN_ITEMS[_L10887] = (
+    "Lei 10.887 (open items): it is the conversion of Medida Provisória 167/2004, whose text is not modelled (the history "
+    "starts with the Lei, in force on publication, 21.6.2004); the scope of the medida cautelar in ADI 5.809 is read as the "
+    "MP's effects as a whole (the Chamber of Deputies' report of 18.12.2017); 'Vide Emenda Constitucional nº 47, de 2005' "
+    "(arts. 4 to 6) and 'Vide ADI nº 4.582' (art. 15) strike no words and are not modelled; 'Texto compilado' is not read")
+
 # part zzzr (thirty-fifth session): Lei 12.990/2014 (reserva de vagas aos negros em concursos públicos federais). Hand items set
 # only when the act runs. Coordinator decision (2026-11-01): the STF's medida cautelar in ADI 7.654 kept the Lei in force past
 # art. 6's ten-year term, so the history has no lapse at the term's end; it ends with the repeal by Lei 15.142/2025.
