@@ -3523,6 +3523,8 @@ B.EXPLAINED[_L10833] = {
                "11.727, de 2008' pointer, though Lei 11.727/2008 art. 42 III d) revoked it from 1.10.2008; the law's text governs "
                "and the alínea ends then"),
     **{u: _REV10833 for u in ("art-49", "art-50", "art-52", "art-55", "art-57", "art-58")},
+    **{u: ("item 1 of art. 43's quoted alínea c) ends without a full stop; read from the consolidated page it is taken for a "
+           "heading of art. 44, while the history keeps it in art. 43, where both pages print it") for u in ("art-43", "art-44")},
 }
 
 P.build_act = B.build_act = build_act
