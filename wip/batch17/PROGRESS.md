@@ -1295,3 +1295,28 @@ unstruck); ADIs 6341/6343/6347/6351/6353 and ADPFs 714/715/718/754 condition or 
   today's page 0 differ. pipe.sh zzc (t21-zzc-pipe2.out): sha 81ef8146 x2, all checks 0; merged 228 acts, 3437 versions, 2509
   commits, check 0/0, compare identical, audit clean; headyear unchanged (t21-hy3.log). Installed; docs.py rows-zzc.json;
   jurisdiction.json build text names the partial repeal; PUBLISH written.
+
+### 99-batch17zzd - PUBLISHed 2026-11-01 (twenty-first session): Lei 9.424/1996 (lei-do-fundef, Fundef)
+- iaonly laws: 5 cited, 5 new; MP 173/2004 pinned with `iaonly.py gap law:mp-173-2004 <url>` (ts 20261006130027).
+- Hand (block `_LFUNDEF`): lifespans wrapper moves the 'Revogado pela Lei 11.494' ends (21.6.2007) to 1.1.2007 credited
+  mp-339-2006 (MP 339 art. 48 'a partir de 1º de janeiro de 2007', DOU 29.12.2006); SPAN_FIX art. 4 § 5º start 17.3.2004 credited
+  mp-173-2004 with by_provision (keeps the anachronism check quiet; batch15 precedent); VIGENCIA_FIXED lei-10832-2003 = 1.1.2004
+  (first day of the next financial year); B8.EXTRA_LAWS mp-339-2006, mp-173-2004 (from the MPs' pages); decisions via EXTRA.
+- pipe.sh zzd (t21-zzd-pipe4.out): sha 222503bb x2, all checks 0; merged 229 acts, 3442 versions, 2514 commits, check 0/0,
+  compare identical, audit clean. headyear (t21-hy4.log): only the two new MP pins, false positives (headings 'DE 16 DE MARÇO
+  2004' / 'DE 28 DE DEZEMBRO 2006' lack 'DE' before the year; pages read). Installed; docs.py rows-zzd.json; PUBLISH written.
+- Re-check: part zz reparsed with the session's parser + effects_fix: laws, acts, applies, decisions identical to the installed
+  file (only sources' request counter differs, as before).
+
+## State at handoff (batch 17, twenty-first session, 2026-11-01)
+Parts zza (Lei 10.820/2003, 18 versions), zzb (Lei 6.360/1976, 14), zzc (Lei 11.494/2007, 10; repealed 1.1.2021 except art. 12,
+§§ gone 28.12.2021), zzd (Lei 9.424/1996, 5) PUBLISHed. Final merged build of the installed folder after all docs
+(final21-build.log): 229 acts, 3442 versions, 2514 commits, check 0/0, --compare identical, audit_push clean on main and futuro;
+README rows + jurisdiction.json (229 acts; Lei 11.494's partial repeal named in the build text) current. All runs through
+.tmp/run.py / pipe.sh at BelowNormal behind the cpu gate, one parse at a time; every PID printed in its log (zza-*, zzb-*, zzc-*,
+zzd-*, t21-*, final21-build.log); all mine, all exited. Nothing running.
+LEFT OUT: Lei 12.871/2013 (MP 1.370/2026 outcome unreadable: no capture after its term) - build it together with the MP 1.370
+re-check; Lei 13.979/2020 (end of the act set by STF ADI 6625 and other rulings, not one fixed day).
+DATED RE-CHECKS: MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once archive.org has a
+capture of _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026 (none on 1.11.2026).
+Coordinator's list is done (built or left out with reasons). Next: whatever the coordinator names.

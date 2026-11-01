@@ -642,6 +642,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "l14286",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14286.htm",
+   "ts": "20261011100132",
+   "via": "wayback.py"
+  },
+  {
    "id": "l14785",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14785.htm",
    "ts": "20261004152908",
@@ -1049,6 +1055,12 @@
     "offset": "33845231",
     "length": "11538"
    }
+  },
+  {
+   "id": "l9709",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm",
+   "ts": "20261005004956",
+   "via": "wayback.py"
   },
   {
    "id": "l9717",
@@ -4576,6 +4588,24 @@
    "via": "wayback.py"
   },
   {
+   "id": "lcp108",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp108.htm",
+   "ts": "20261021204529",
+   "via": "wayback.py"
+  },
+  {
+   "id": "lcp109",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm",
+   "ts": "20261021205047",
+   "via": "wayback.py"
+  },
+  {
+   "id": "lcp140",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp140.htm",
+   "ts": "20261019044702",
+   "via": "wayback.py"
+  },
+  {
    "id": "lcp141",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp141.htm",
    "ts": "20261007211329",
@@ -4591,6 +4621,12 @@
    "id": "lcp178",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp178.htm",
    "ts": "20261007000614",
+   "via": "wayback.py"
+  },
+  {
+   "id": "lcp179",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp179.htm",
+   "ts": "20261020015417",
    "via": "wayback.py"
   },
   {

@@ -193,6 +193,13 @@ PAGES.update({
     "l11494": "_ato2007-2010/2007/lei/l11494.htm",
     "l11494-2020": "_ato2007-2010/2007/lei/l11494.htm",   # capture of 15.12.2020, before Lei 14.113/2020 repealed it
     "l9424": "leis/l9424.htm",
+    # twenty-second session: fresh ranked list (social security, environment, electoral, banking)
+    "lcp109": "leis/lcp/lcp109.htm",
+    "lcp108": "leis/lcp/lcp108.htm",
+    "lcp140": "leis/lcp/lcp140.htm",
+    "l9709": "leis/l9709.htm",
+    "lcp179": "leis/lcp/lcp179.htm",
+    "l14286": "_ato2019-2022/2021/lei/l14286.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -4678,9 +4685,6 @@ def lifespans(paras, cx):
     problems = _lifespansFD(paras, cx)
     if cx.act == _LFUNDEF:
         for p in paras:
-            if p["unit"] == "art-04" and p["label"] == "§ 5º" and p.get("start_law") == "lei-10880-2004" and not p.get("skip"):
-                p["start"], p["start_law"], p["pinned"] = "2004-03-17", "mp-173-2004", True
-                _F339_USED.append("art-04 § 5º from 17.3.2004")
             if p.get("end_law") == "lei-11494-2007" and p.get("end") == "2007-06-21" and not p.get("skip"):
                 p["end"], p["end_law"], p["end_how"], p["pinned"] = "2007-01-01", "mp-339-2006", "note", True
                 _F339_USED.append(f"{p['unit']} {p['label']}")
@@ -4690,10 +4694,6 @@ def lifespans(paras, cx):
 P.lifespans = B.lifespans = lifespans
 if any(a["slug"] == _LFUNDEF for a in ACTS):
     EXTRA.append(_W339 + ".")
-    EXTRA.append("Lei 9.424 art. 4 § 5º: Planalto notes it '(Incluído pela Lei nº 10.880, de 2004)' (DOU 11.6.2004); Lei 10.880 "
-                 "is the conversion of Medida Provisória 173/2004 (DOU 17.3.2004, in force on publication, art. 11), whose art. 10 "
-                 "added the same § 5º word for word (read on the MP's page), so the paragraph is in force from 17.3.2004, credited "
-                 "to MP 173, and the conversion keeps it.")
     B8.EXTRA_LAWS["mp-173-2004"] = {
         "label": "Medida Provisória nº 173, de 2004", "kind": "law",
         "title": "Institui o Programa Nacional de Apoio ao Transporte do Escolar - PNATE e o Programa de Apoio aos Sistemas de "
@@ -4711,6 +4711,13 @@ if any(a["slug"] == _LFUNDEF for a in ACTS):
     P.VIGENCIA_FIXED["lei-10832-2003"] = (
         "2004-01-01", "art. 3: 'Esta Lei entra em vigor no 1º (primeiro) dia do exercício financeiro seguinte ao de sua "
                       "publicação' (DOU 30.12.2003): 1.1.2004")
+B8.SPAN_FIX.append(
+    ((_LFUNDEF, "art-04", "§ 5º", "§ 5º Aos Conselhos incumbe acompanhar", 0),
+     {"start": "2004-03-17", "start_law": "mp-173-2004", "by_provision": True},
+     "Lei 9.424 art. 4 § 5º: Planalto notes it '(Incluído pela Lei nº 10.880, de 2004)' (DOU 11.6.2004); Lei 10.880 is the "
+     "conversion of Medida Provisória 173/2004 (DOU 17.3.2004, in force on publication, art. 11), whose art. 10 added the same § "
+     "5º word for word (read on the MP's page), so the paragraph is in force from 17.3.2004, credited to MP 173; the conversion "
+     "keeps it"))
 B13.OPEN_ITEMS[_LFUNDEF] = (
     "Lei 9.424 (open items): 'Vide' pointers (ADI 1.627 at art. 9 and art. 10 II, ADPF 188 at art. 15, Decretos 5.299/2004 "
     "and 5.374/2005, Medida Provisória 339/2006 beside lines it did not revoke) strike no words and are not modelled; the "
