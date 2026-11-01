@@ -504,10 +504,20 @@ Lei 11.428/2006 Mata Atlântica (3 versions), Lei 4.886/1965 representantes come
   moves. All checks 0 except quotecheck 8 (quoted law text). Part sha 6de8461d (pre-effects 19ce6a43); zg reparse identical;
   merged 190 acts, 3118 versions, 2335 commits, check 0/0, compare identical, audit clean (final10-build.log, after README rows).
 
+## 99-batch17zi - PUBLISHed 2026-11-01 (tenth session, after the coordinator's go-ahead)
+Lei 11.417/2006 súmula vinculante (1 version, in force 20.3.2007: 3 months), Lei 13.460/2017 usuários (4; federal stage 360 days
+-> 22.6.2018; Lei 14.129 federal stage 90 days -> 28.6.2021, reader), Lei 12.187/2009 PNMC (3), Lei 13.123/2015 biodiversidade
+(1; DOU 21.5.2015 read in LexML via lexml1.py (robots read: /urn allowed, Crawl-delay 5), Planalto footer misprints 14.5.2015;
+180 days -> 17.11.2015) = 9 versions. ACT_DAY entries carry the reasons; OPEN_ITEMS for the staged stages (13.460) and 13.123.
+- Lei 11.418/2006 NOT built: it only adds arts. 543-A/543-B to the CPC of 1973 (no text of its own to version).
+- effrep (zi-effrep*.log): on publication except Lei 14.129 (staged, reader). effects_fix 0 moves; all checks 0 (quotecheck 4 =
+  quoted Lei 9.784 text). Part sha ff74dbd3; zh reparse equal except sources requests; merged 194 acts, 3127 versions, 2340
+  commits, check 0/0, compare identical, audit clean (final10b-build.log, after README rows).
+
 ## State at handoff (batch 17, tenth session, 2026-11-01)
-Parts 99-batch17a..zh installed with .PUBLISH (this session: zf Lei 9.984, zg Leis 11.182 + 13.575, zh Leis 11.428 + 4.886 + 8.397
-+ 9.795 = 7 acts, 44 versions); merged 190 acts, 3118 versions, 2335 commits, check 0/0, --compare identical, audit clean.
-README rows + jurisdiction.json (190 acts) current. All runs through .tmp/run.py / pipe.sh at BelowNormal (cpu gate), one at a
+Parts 99-batch17a..zi installed with .PUBLISH (this session: zf Lei 9.984, zg Leis 11.182 + 13.575, zh Leis 11.428 + 4.886 + 8.397
++ 9.795, zi Leis 11.417 + 13.460 + 12.187 + 13.123 = 11 acts, 53 versions); merged 194 acts, 3127 versions, 2340 commits, check
+0/0, --compare identical, audit clean. README rows + jurisdiction.json (194 acts) current. All runs through .tmp/run.py / pipe.sh at BelowNormal (cpu gate), one at a
 time; every PID exited; nothing left running. Fetching: archive.org only (robots.txt read at start: web.archive.org 404,
 archive.org Disallows /control/ /report/ only); no Common Crawl, no Arquivo.pt, no LexML this session.
 Shared-code edits this session (all scoped to their acts; zd, zf, zg reparsed after: identical except sources[0].requests): BARE_TEXT
@@ -516,10 +526,8 @@ for pinned skipped duplicates (unit+label+text match).
 DATED RE-CHECK (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026 - not before.
 Left out / unsettled (unchanged): Lei 9.782 art. 8º-A (Lei 15.524/2026 not archived); Lei 10.931 (no capture); Lei 10.522 art. 32
 quoted § 2º; Lei 12.462 art. 63 § 17. New open item: Lei 11.182 art. 29 TFAC anterioridade (kept at in-force day).
-Next candidates (pages already in the local path index / cdxlist checked 1.11): Lei 11.417/2006 and 11.418/2006 (súmula
-vinculante / repercussão geral; _ato2004-2006/2006/lei/l11417.htm, l11418.htm, captures exist), Lei 13.460/2017 (usuário de
-serviços públicos), Lei 12.187/2009 (clima), Lei 13.123/2015 (biodiversidade); heavy tax: Leis 9.718/1998, 10.637/2002, 10.833/2003
-(PIS/COFINS, MP chains). Add PAGES, `iaonly.py pages`, `BATCH17_ACTS=... iaonly.py laws` + `missing`, notecount.py, then the
+Next candidates: heavy tax Leis 9.718/1998, 10.637/2002, 10.833/2003 (PIS/COFINS, MP chains: one act per part); otherwise pick
+further federal acts not in the corpus (check corpus.d first). Lei 11.418/2006 is not a candidate (amending law only). Add PAGES, `iaonly.py pages`, `BATCH17_ACTS=... iaonly.py laws` + `missing`, notecount.py, then the
 trial and pipe.sh.
 
 ## State at handoff (batch 17, ninth session, 2026-11-01)

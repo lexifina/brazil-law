@@ -142,6 +142,13 @@ PAGES.update({
     "l13460": "_ato2015-2018/2017/lei/l13460.htm",
     "l12187": "_ato2007-2010/2009/lei/l12187.htm",
     "l13123": "_ato2015-2018/2015/lei/l13123.htm",
+    # parts zj, zk, zl: PIS/COFINS (Leis 9.718/1998, 10.637/2002, 10.833/2003), one act per part
+    "l9718": "leis/l9718.htm",
+    "l9718-compilada": "leis/l9718compilada.htm",
+    "l10637": "leis/2002/l10637.htm",
+    "l10637-compilado": "leis/2002/l10637compilado.htm",
+    "l10833": "leis/2003/l10.833.htm",
+    "l10833-compilado": "leis/2003/l10.833compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -286,6 +293,8 @@ ALL_ACTS: list[dict] = [
          "Política Nacional sobre Mudança do Clima (Lei nº 12.187, de 29 de dezembro de 2009)", 2),
     _act("lei-da-biodiversidade", "LBio", "l13123", "l13123", "lei-13123-2015",
          "Lei da Biodiversidade (Lei nº 13.123, de 20 de maio de 2015)", 2),
+    _act("lei-9718-de-1998", "L9718", "l9718", "l9718-compilada", "lei-9718-1998",
+         "PIS/Pasep e Cofins (Lei nº 9.718, de 27 de novembro de 1998)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -326,6 +335,7 @@ PARTS: dict[str, list[str]] = {
            "lei-da-educacao-ambiental"],
     "zi": ["lei-da-sumula-vinculante", "lei-dos-usuarios-de-servicos-publicos", "lei-da-politica-nacional-sobre-mudanca-do-clima",
            "lei-da-biodiversidade"],
+    "zj": ["lei-9718-de-1998"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -439,6 +449,11 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-13123-2015": ("2015-11-17", "Lei 13.123/2015 art. 49: 'Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias da "
                                      "data de sua publicação oficial' (DOU 21.5.2015, from LexML; Planalto's footer misprints '14.5.2015'): "
                                      "in force on 17.11.2015"),
+    "lei-9718-1998": ("1998-11-28", "Lei 9.718/1998 art. 17: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeitos: "
+                                    "I - em relação aos arts. 2º a 8º, para os fatos geradores ocorridos a partir de 1º de fevereiro "
+                                    "de 1999; II - em relação aos arts. 9º e 12 a 15, a partir de 1º de janeiro de 1999' (DOU "
+                                    "28.11.1998): the other articles from publication; arts. 9 and 12 to 15 from 1.1.1999 and arts. 2 "
+                                    "to 8 from 1.2.1999, the days they take effect"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -642,6 +657,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "providências.", "2009-12-29", "2009-12-30", PAGES["l12187"]),
     "lei-13123-2015": _L("Lei nº 13.123, de 2015", "Regulamenta o inciso II do § 1º e o § 4º do art. 225 da Constituição Federal [...] "
                          "e dá outras providências.", "2015-05-20", "2015-05-21", PAGES["l13123"]),
+    "lei-9718-1998": _L("Lei nº 9.718, de 1998", "Altera a Legislação Tributária Federal.", "1998-11-27", "1998-11-28",
+                        PAGES["l9718"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -995,6 +1012,14 @@ def paragraphs(html, digits):
                     continue
             keep.append(p)
         out = keep
+    if page in ("l9718", "l9718-compilada"):
+        # Lei 9.718: Planalto's marker 'Sem eficácia' after the struck line of Medida Provisória 252/2005 (art. 3 § 8 III,
+        # lapsed) is not part of the text
+        for p in out:
+            t = re.sub(r"(?:^|\s+)\(?Sem efic[áa]cia\)?\s*$", "", p["text"])
+            if t != p["text"]:
+                p["text"] = t
+                L9718_FIXED.append(p["unit"])
     if page == "l13465":
         # Lei 13.465: Planalto's link '(Partes vetadas)' (to the promulgated parts printed at the foot of the page) is not
         # text; art. 4 quotes Lei 11.952 art. 16 ('Art. 16. As condições resolutivas [...]') with no opening quotation mark,
@@ -1204,6 +1229,7 @@ def paragraphs(html, digits):
 
 L9250_FIXED: list[str] = []
 L9430_FIXED: list[str] = []
+L9718_FIXED: list[str] = []
 L13465_FIXED: list[str] = []
 L8745_FIXED: list[str] = []
 L9782_LEFT_OUT: list[str] = []
@@ -2418,6 +2444,20 @@ def _inner(*a):
         dec.append("Lei 9.430: Planalto's markers '(Sem eficácia)' after struck lines (wordings of Medidas Provisórias "
                    "252/2005, 303/2006 and 478/2009 that lapsed or never took effect, and the 1996 lines they touched) and "
                    "'Rejeitada' after the lines of Medida Provisória 75/2002 (rejected) are not part of the text and are left out (" + ", ".join(dict.fromkeys(L9430_FIXED)) + ").")
+    if any(a["slug"] == _L9718 for a in ACTS):
+        dec.append("Lei 9.718: art. 17 ('Esta Lei entra em vigor na data de sua publicação, produzindo efeitos: I - em relação aos "
+                   "arts. 2º a 8º, para os fatos geradores ocorridos a partir de 1º de fevereiro de 1999; II - em relação aos arts. "
+                   "9º e 12 a 15, a partir de 1º de janeiro de 1999'; DOU 28.11.1998): arts. 2 to 8 start on 1.2.1999, arts. 9 and "
+                   "12 to 15 on 1.1.1999, the other articles on 28.11.1998" + (
+                       "; changes made to those articles before their day start on that day (" + "; ".join(dict.fromkeys(G9718_USED))
+                       + ")" if G9718_USED else "") + ".")
+    if R_PUB_USED:
+        dec.append("Medida Provisória editions whose Planalto page ends 'Este texto não substitui o publicado no DO de ...' ('DO', "
+                   "not 'DOU'): their DOU day is read from that line (" + "; ".join(
+                       f"{P.law_label(k)}: {_R_PUB[k][1]}" for k in sorted(dict.fromkeys(R_PUB_USED))) + ").")
+    if L9718_FIXED:
+        dec.append("Lei 9.718: Planalto's marker 'Sem eficácia' after the struck line of Medida Provisória 252/2005 (lapsed) is "
+                   "not part of the text and is left out (" + ", ".join(dict.fromkeys(L9718_FIXED)) + ").")
     if L13465_FIXED:
         dec.append("Lei 13.465: Planalto's link '(Partes vetadas)' after the parts promulgated on 8.9.2017 is not text and is "
                    "left out; art. 4 quotes Lei 11.952 art. 16 ('Art. 16. As condições resolutivas [...]', §§ 1º to 3º) with no "
@@ -2705,6 +2745,140 @@ B13.OPEN_ITEMS["lei-dos-usuarios-de-servicos-publicos"] = (
 B13.OPEN_ITEMS["lei-da-biodiversidade"] = (
     "Lei 13.123 (open items): its text before the in-force day (17.11.2015) is the same as on that day (no change in between); "
     "Medida Provisória 2.186-16/2001, which it revokes (art. 50), is not part of the history; 'Vide' pointers and regulations strike no words")
+
+# MP editions of 2000 whose pages end 'Este texto não substitui o publicado no DO de d.m.aaaa' ('DO', not 'DOU', which the
+# reader does not take): their day is read from that line, keyed by the edition (batch 6 reads an edition's page under its
+# base key, so the base key's PUBLISHED_FIXED would also date every other edition)
+_R_PUB: dict[str, tuple[str, str]] = {}
+R_PUB_USED: list[str] = []
+
+
+def _with_pub(f):
+    def g(key):
+        if key not in _R_PUB:
+            return f(key)
+        d0 = P.decode
+        P.decode = lambda b: re.sub(r"(publicado\s+no\s+DO)(\s+de\s)", r"\1U\2", d0(b))
+        try:
+            info = f(key)
+        finally:
+            P.decode = d0
+        if info and info.get("published") == _R_PUB[key][0]:
+            R_PUB_USED.append(key)
+        return info
+    return g
+
+
+B6.page_info = _with_pub(B6.page_info)
+P.page_info = B.page_info = _with_pub(P.page_info)
+
+# part zj: Lei 9.718/1998 (PIS/Pasep and Cofins). Hand days set only when the act runs.
+_L9718 = "lei-9718-de-1998"
+if any(a["slug"] == _L9718 for a in ACTS):
+    P.VIGENCIA_FIXED["lei-12844-2013"] = (
+        "2013-07-19", "art. 49: 'Esta Lei entra em vigor: [...] V - na data de sua publicação para os demais dispositivos' "
+                      "(DOU 19.7.2013, edição extra): its art. 36 (Lei 9.718 arts. 3 and 5) falls under V")
+    P.VIGENCIA_FIXED["mp-472-2009"] = (
+        "2009-12-16", "art. 60: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, produzindo efeitos: "
+                      "[...] d) a partir da data de sua publicação, em relação aos demais dispositivos' (DOU 16.12.2009): its "
+                      "art. 22 (Lei 9.718 art. 14 VII) falls under I d)")
+    P.VIGENCIA_FIXED["mp-601-2012"] = (
+        "2012-12-28", "art. 7: 'Esta Medida Provisória entra em vigor: [...] II - na data de sua publicação, produzindo efeitos a "
+                      "partir de 1º de janeiro de 2013, em relação aos arts. 4º e 6º' (DOU 28.12.2012): its art. 6 (Lei 9.718 art. "
+                      "3 §§ 10 to 12) is in force on publication, with effect from 1.1.2013 (effect day: effects_fix)")
+    P.MP_LAPSE["mp-601-2012"] = (
+        "2013-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 36, de 2013 (DOU 6.6.2013): 'teve seu "
+                      "prazo de vigência encerrado no dia 3 de junho do corrente ano'; the wordings it gave Lei 9.718 end on "
+                      "4.6.2013")
+    P.MP_PENDING["mp-2158-2001"] = (
+        "Medida Provisória nº 2.158-35, de 24.8.2001 (DOU 27.8.2001), kept in force by Emenda Constitucional 32/2001, art. 2; "
+        "its art. 92 ('entra em vigor na data de sua publicação, produzindo efeitos: [...] IV - relativamente aos fatos "
+        "geradores ocorridos a partir de: a) 1º de dezembro de 2001, relativamente ao disposto no § 9º do art. 3º da Lei nº "
+        "9.718, de 1998') dates Lei 9.718 art. 3 § 9 from 1.12.2001 (effect day: effects_fix); its other changes to Lei 9.718 "
+        "are in force on publication. Planalto's notes name this edition only; the editions before it are modelled only where "
+        "a note names them (1.807/1999, 1.858-6/1999, 1.991-15 and 1.991-18/2000)")
+    _R_PUB.update({"mp-1991-2000": ("2000-03-13", "13.3.2000"), "mp-1991r16-2000": ("2000-04-12", "12.4.2000"),
+                   "mp-1991r18-2000": ("2000-06-10", "10.6.2000 (Edição extra)"), "mp-2037-2000": ("2000-06-29", "29.6.2000")})
+
+    P.VIGENCIA_FIXED["lei-13043-2014"] = (
+        "2015-01-01", "art. 113: 'Esta Lei entra em vigor na data de sua publicação, exceto: [...] II - os arts. 1º a 15, 30 a 32, "
+                      "97, 106 e os artigos da Seção XXI do Capítulo I, que entram em vigor a partir de 1º de janeiro de 2015' (DOU "
+                      "14.11.2014): its art. 30 (Lei 9.718 art. 3) falls under II")
+    B15.TEXT_FIX.append(("l9718", "observada regulamentação editada pelo Conselho Monetário Nacional.)$",
+                         "observada regulamentação editada pelo Conselho Monetário Nacional.",
+                         "Lei 9.718 art. 3 § 8 II (Medida Provisória 1.858-6/1999's wording): the annotated page prints a stray closing "
+                         "parenthesis after the final full stop (the closing quotation mark of the MP's text); the MP's page has none"))
+_W6 = ("Lei 9.718 art. 3 § 6 I and II: Medida Provisória 1.807/1999 added § 6 with incisos I to IV; its next editions, 1.858-6/1999 "
+       "among them (read on its page), kept the same words, and Medida Provisória 2.158-35/2001 gave § 6 its present wording. The "
+       "reader had ended I and II on 30.6.1999 at § 8's incisos I and II (added by 1.858-6), which are other provisions; "
+       "they end with 2.158-35 (27.8.2001), as the rest of § 6")
+_E2158 = {"end": "2001-08-27", "end_law": "mp-2158-2001", "end_how": "successor"}
+_W1063 = ("Lei 9.718 art. 5: Medida Provisória 1.063/2021 (DOU 12.8.2021) art. 6: 'produz efeitos: I - na data da sua publicação, "
+          "quanto ao: a) art. 1º, na parte que acresce o art. 68-D à Lei nº 9.478, de 1997; e b) art. 3º; e II - no primeiro dia do "
+          "quarto mês subsequente ao de sua publicação, quanto aos demais dispositivos': its arts. 2 and 4 (Lei 9.718 art. 5) take "
+          "effect on 1.12.2021, so its new lines start, and the lines it revoked or replaced end, on that day (effects_fix cannot "
+          "move them: Medida Provisória 1.069/2021, in force on publication, 13.9.2021, changed the article in between). Its own "
+          "wording of § 4º-A never took effect: Medida Provisória 1.069 replaced it on 13.9.2021, before that day")
+_S1063 = {"start": "2021-12-01", "start_law": "mp-1063-2021"}
+_E1063 = {"end": "2021-12-01", "end_law": "mp-1063-2021"}
+B8.SPAN_FIX += [
+    ((_L9718, "art-03", "I -", "I - no caso de bancos comerciais", 0), dict(_E2158), _W6),
+    ((_L9718, "art-03", "II -", "II - no caso de empresas de seguros privados, os rendimentos", 0), dict(_E2158), _W6),
+    ((_L9718, "art-05", "I -", "I - por distribuidor, no caso de venda de álcool anidro", 0), dict(_E1063, end_how="note"), _W1063),
+    ((_L9718, "art-05", "II -", "II - por comerciante varejista, em qualquer caso", 0), dict(_E1063, end_how="successor"), _W1063),
+    ((_L9718, "art-05", "II -", "II - por comerciante varejista, exceto na hipótese", 0), dict(_S1063), _W1063),
+    ((_L9718, "art-05", "§ 3º", "§ 3º As demais pessoas jurídicas que comerciem álcool", 0), dict(_E1063, end_how="note"), _W1063),
+    ((_L9718, "art-05", "§ 19", "§ 19. O disposto no § 3º não se aplica", 0), dict(_E1063, end_how="note"), _W1063),
+    ((_L9718, "art-05", "§ 4º-A", "§ 4º-A Na hipótese de venda efetuada diretamente do produtor ou do importador", 0),
+     {"skip": True, "end_how": "never-in-effect"}, _W1063),
+    ((_L9718, "art-05", "I -", "I - nos incisos I e II do caput; ou", 0), dict(_S1063), _W1063),
+    ((_L9718, "art-05", "II -", "II - nos incisos I e II do § 4º, observado", 0), dict(_S1063), _W1063),
+    ((_L9718, "art-05", "§ 4º-B", "§ 4º-B As alíquotas de que trata o § 4º-A aplicam-se", 0), dict(_S1063), _W1063),
+    ((_L9718, "art-05", "I -", "I - de o importador exercer também a função de distribuidor", 0), dict(_S1063), _W1063),
+    ((_L9718, "art-05", "II -", "II - de as vendas serem efetuadas pelas pessoas jurídicas de que trata o inciso II ou III", 0),
+     dict(_S1063), _W1063),
+    ((_L9718, "art-05", "III -", "III - de as vendas serem efetuadas pelas demais pessoas jurídicas", 0), dict(_S1063), _W1063),
+    ((_L9718, "art-05", "§ 4º-C", "§ 4º-C Na hipótese de venda de gasolina pelo distribuidor", 0), dict(_S1063), _W1063),
+    ((_L9718, "art-05", "I -", "I - no inciso I do caput; ou", 0), dict(_S1063), _W1063),
+    ((_L9718, "art-05", "II -", "II - no inciso I do § 4º, observado", 0), dict(_S1063), _W1063),
+    ((_L9718, "art-05", "§ 13-A", "§ 13-A. O distribuidor sujeito ao regime", 0), dict(_S1063), _W1063),
+    ((_L9718, "art-05", "§ 14-A", "§ 14-A. Os créditos de que trata o § 13-A", 0), dict(_S1063), _W1063),
+]
+B13.OPEN_ITEMS[_L9718] = (
+    "Lei 9.718 (open items): the Lei's own articles take effect in stages (art. 17): arts. 2 to 8 for fatos geradores from "
+    "1.2.1999, arts. 9 and 12 to 15 from 1.1.1999, the rest on publication (28.11.1998); each article starts on its day. Medidas "
+    "Provisórias of the reissue chain 1.807/1999 to 2.158-35/2001 are modelled only where Planalto's notes name an edition "
+    "(1.807, 1.858-6, 1.991-15, 1.991-18, 2.158-35); the other editions are not read. Medida Provisória 413/2008 (art. 5): its "
+    "art. 18, as Medida Provisória 425/2008 worded it before the first fixed day arrived, tied the effect of its art. 7 to an act "
+    "of the Receita Federal; Lei 11.727/2008, the conversion, fixed 1.10.2008; the MP's wording of art. 5 is not shown as in "
+    "effect. Medida Provisória 1.069/2021 art. 6 § 1º (the 'noventena' for taxpayers who did not opt) is not modelled. 'Vide' "
+    "pointers (Decretos 3.048/1999 and 6.573/2008, Lei Complementar 214/2025) are not modelled")
+
+# Lei 9.718 art. 17: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeitos: I - em relação aos arts. 2º a 8º,
+# para os fatos geradores ocorridos a partir de 1º de fevereiro de 1999; II - em relação aos arts. 9º e 12 a 15, a partir de
+# 1º de janeiro de 1999'. Those articles start on their day (gates, as Lei 9.279 in batch 8); a change made to a gated
+# article before its day (Medida Provisória 1.807/1999, DOU 29.1.1999, art. 3 §§ 6 and 7) is dated by that day too.
+_G9718 = {**{f"art-0{n}": ("1999-02-01", "arts. 2 to 8: I") for n in range(2, 9)},
+          **{u: ("1999-01-01", "arts. 9 and 12 to 15: II") for u in ("art-09", "art-12", "art-13", "art-14", "art-15")}}
+G9718_USED: list[str] = []
+_build_act17 = P.build_act
+
+
+def build_act(paras, act_day, gate, gate_law, unit_label):
+    slug = ACTS[len(B7._act_order)]["slug"] if len(B7._act_order) < len(ACTS) else "?"
+    if slug == _L9718:
+        gate, gate_law = dict(gate), dict(gate_law)
+        for u, (day, _) in _G9718.items():
+            gate[u], gate_law[u] = day, "lei-9718-1998"
+        for p in paras:
+            g = _G9718.get(p["unit"])
+            if g and p["start_law"] and act_day <= p["start"] < g[0] and not p.get("skip"):
+                G9718_USED.append(f"{p['unit']} {p['label']} ({p['start_law']}, {p['start']})")
+                p["start"] = g[0]
+    return _build_act17(paras, act_day, gate, gate_law, unit_label)
+
+
+P.build_act = B.build_act = build_act
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

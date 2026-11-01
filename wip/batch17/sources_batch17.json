@@ -141,6 +141,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "ato:apn-36-2013-mpv601",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/Congresso/apn-036-mpv601.htm",
+   "ts": "20260711230815",
+   "via": "wayback.py"
+  },
+  {
    "id": "ato:atocn-18-2010-mpv478",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Congresso/atocn-18-mpv478.htm",
    "ts": "20260715013357",
@@ -261,6 +267,30 @@
     "offset": "349802595",
     "length": "5243"
    }
+  },
+  {
+   "id": "l10637",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637.htm",
+   "ts": "20261020100343",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l10637-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637compilado.htm",
+   "ts": "20261007125144",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l10833",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.833.htm",
+   "ts": "20261024011909",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l10833-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.833compilado.htm",
+   "ts": "20261004172050",
+   "via": "wayback.py"
   },
   {
    "id": "l11096",
@@ -805,6 +835,18 @@
    "via": "wayback.py"
   },
   {
+   "id": "l9718",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9718.htm",
+   "ts": "20261006125520",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l9718-compilada",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9718compilada.htm",
+   "ts": "20261018070545",
+   "via": "wayback.py"
+  },
+  {
    "id": "l9782",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm",
    "ts": "20261023185437",
@@ -1135,6 +1177,12 @@
    "id": "law:lei-10833-2003",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/L10.833.htm",
    "ts": "20261024011909",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-10865-2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L10.865.htm",
+   "ts": "20261024003616",
    "via": "wayback.py"
   },
   {
@@ -1470,6 +1518,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-12814-2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12814.htm",
+   "ts": "20261004173835",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-12815-2013",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12815.htm",
    "ts": "20261020015441",
@@ -1506,6 +1560,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-12859-2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12859.htm",
+   "ts": "20261004121740",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-12868-2013",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12868.htm",
    "ts": "20261003222008",
@@ -1521,6 +1581,12 @@
    "id": "law:lei-12980-2014",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/Lei/L12980.htm",
    "ts": "20261016054637",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-12995-2014",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2014/Lei/L12995.htm",
+   "ts": "20261007130326",
    "via": "wayback.py"
   },
   {
@@ -2616,6 +2682,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-1157-2023",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Mpv/mpv1157.htm",
+   "ts": "20260816210214",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-1160-2023",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Mpv/mpv1160.htm",
    "ts": "20260616160831",
@@ -2781,9 +2853,33 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-1807-1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1807.htm",
+   "ts": "20260725181251",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1807r1-1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1807-1.htm",
+   "ts": "20261004185055",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-1814-1999",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1814-4.htm",
    "ts": "20260711175330",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1858-1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1858-6.htm",
+   "ts": "20260710145445",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1858r7-1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1858-7.htm",
+   "ts": "20261004090433",
    "via": "wayback.py"
   },
   {
@@ -2834,6 +2930,24 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-1991-2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1991-15.htm",
+   "ts": "20260608210302",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1991r16-2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1991-16.htm",
+   "ts": "20260617141402",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-1991r18-2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/1991-18.htm",
+   "ts": "20260711174842",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-2000-2000",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/2000-17.htm",
    "ts": "20260611203143",
@@ -2843,6 +2957,12 @@
    "id": "law:mp-2013-1999",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/2013-4.htm",
    "ts": "20260613124324",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-2037-2000",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas/2037-19.htm",
+   "ts": "20260616033513",
    "via": "wayback.py"
   },
   {
@@ -3270,9 +3390,21 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-601-2012",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Mpv/601.htm",
+   "ts": "20261007133147",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-612-2013",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/Mpv/mpv612.htm",
    "ts": "20261013101931",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-613-2013",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Mpv/mpv613.htm",
+   "ts": "20260614004826",
    "via": "wayback.py"
   },
   {
