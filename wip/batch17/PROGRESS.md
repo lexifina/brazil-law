@@ -1200,8 +1200,50 @@ capture 20231218091920 (pinat.py). Lei 14.785/2023 pinned as page l14785 (captur
 - Pinned for the next parts: l11947 (20261024010406), l10820 (20261004162912), l9612 (20261021095939); PAGES entries added.
   NOTE: lawtxt.py with an empty needle prints the page at every position (a 3.4 GB log was written and deleted): omit the needle.
 
-### Part zy (in progress): Lei 9.612/1998 (lei-da-radiodifusao-comunitaria, LRC), Lei 11.947/2009 (lei-da-alimentacao-escolar, PNAE)
+### 99-batch17zy - PUBLISHed 2026-11-01 (twentieth session): Lei 9.612/1998 (lei-da-radiodifusao-comunitaria, LRC), Lei 11.947/2009 (lei-da-alimentacao-escolar, PNAE)
 - iaonly laws: 13 pinned, missing 0. Hand (block `_LRC, _LPNAE`): MP_PENDING mp-2143-2001 (2.143-32 -> 2.216-37 chain);
   VIGENCIA_FIXED lei-15255-2025 = 1.1.2026 (first financial year after DOU 11.11.2025); SPAN_FIX _W14734: Lei 14.734/2023 (LINDB
   7.1.2024) vetoed art. 17 XI + a)-i) and art. 20 IV, promulgated DOU 22.5.2024: '(VETADO)' lines 7.1.2024-22.5.2024, words from
   22.5.2024. OPEN_ITEMS (ADI 2566 'Vide' only; Lei 14.734 art. 2; MP 455 text before conversion).
+- zy: pipe.sh (t20-zy-pipe.out): parse x2 sha 05f53150, 0 moves; flags benign (art. 30 quoted §§ 1º, LRC art. 6-B caput revoked by
+  Lei 15.182 whose revocation of §§ 1º-2º was vetoed, quoted amendments in arts. 30-32); LRC 7 versions, PNAE 11; merged 224 acts, 3391
+  versions, 2481 commits, check 0/0, compare identical, audit clean; installed, docs.py rows-zy.json, PUBLISH written.
+
+## State at handoff (batch 17, twentieth session, 2026-11-01)
+99-batch17zs re-PUBLISHed (PNE term gap: out 26.6.2024, back 26.7.2024 credited Lei 14.934, out again 1.1.2026; 5 versions);
+99-batch17zx (Lei 7.802/1989, 3 versions) and 99-batch17zy (Leis 9.612/1998, 11.947/2009; 18 versions) PUBLISHed. Final merged build
+of the installed folder after all docs (final20-build.log): 224 acts, 3391 versions, 2481 commits, check 0/0, --compare identical,
+audit_push clean on main and futuro; README rows + jurisdiction.json (224 acts) current. All runs through .tmp/run.py / pipe.sh at
+BelowNormal behind the cpu gate, one parse at a time; PIDs printed in each log (t20-*.log, zx-*.log, zy-*.log, final20-build.log);
+all mine, all exited (one shell of mine stopped by its own task id after lawtxt.py was given an empty needle; no process left).
+Nothing running.
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv) once archive.org has a capture
+of _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026.
+Next candidates: Lei 14.785/2023 (agrotóxicos; page pinned as l14785, capture 20261004152908; 14 'Promulgação partes vetadas' notes:
+vetoed parts promulgated DOU 22.5.2024 and 2.7.2025 (arts. 59-62 taxa), 13 Lei 15.070/2024 rewrites + 2 revocations; law entry
+lei-14785-2023 already exists via part zx's EXTRA_LAWS: keep label/title/url equal), Lei 10.820/2003 (consignado; pinned l10820,
+heavy: MPs 656, 681, 719, 922, 1.106, 1.164, 1.292 - several 'Vigência encerrada'), Lei 12.871/2013 (Mais Médicos; MP 1.370),
+Lei 13.979/2020 (COVID, temporary). Not pinned yet: Lei 6.360/1976, Lei 11.494/2007, Lei 9.424/1996.
+
+## 99-batch17zz - PUBLISHed 2026-11-01 (twentieth session, after the coordinator's 'continue' message)
+Lei 14.785/2023 (lei-dos-agrotoxicos, short LAgro23), 4 versions 2023-12-28 .. 2025-07-02, page l14785 (capture 20261004152908).
+- _T14785 (ementa) moved above ACT_DAY_ALL so ACT_LAWS (part zz) and part zx's EXTRA_LAWS share it: law entries checked equal.
+  zx reparsed after the move: acts, laws, decisions identical; only sources' 'requests' counter differs (grows with every fetch),
+  so the installed zx file was left as it is.
+- SPAN_FIX _W14785: promulgations DOU 22.5.2024 (art. 4 § 5º V, 27 I-III, 28 + par. único, 29 § 2º, 30 § 2º) and DOU 2.7.2025
+  (arts. 59 + §§ 1º-2º, 60, 61, 62 I): '(VETADO)' lines (skip False) to the promulgation, words from it. Lei 15.070 on publication
+  24.12.2024. OPEN_ITEMS (regulations; art. 65's Anexo repeals of other laws).
+- pipe.sh zz: sha 030ccdb7, 0 moves; flags = law text (art. 25 a) under four incisos: dupline 1 / overlap 6 SAME; '(revogado);'
+  x3 Lei 15.070's wording); merged 225 acts, 3395 versions, 2485 commits, check 0/0, compare identical, audit clean; installed,
+  docs.py rows-zz.json, PUBLISH; final merged build after docs (final20b-build.log): same counts, check 0/0, compare identical,
+  audit clean.
+
+## State at handoff (batch 17, twentieth session, end, 2026-11-01)
+Parts this session: zs re-PUBLISHed (PNE gap), zx (Lei 7.802), zy (Leis 9.612, 11.947), zz (Lei 14.785). Merged 225 acts, 3395
+versions, 2485 commits, check 0/0, --compare identical, audit_push clean (final20b-build.log); README rows + jurisdiction.json (225
+acts) current. Nothing running; every PID mine and exited (logs t20-*, zx-*, zy-*, zz-*, final20*).
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv) once archived after 30.10.2026.
+Next (coordinator order): Lei 10.820/2003 (consignado; page pinned l10820, PAGES entry present, not configured: MPs 656/2014,
+681/2015, 719/2016, 922/2020, 1.106/2022, 1.164/2023, 1.292/2025 - several 'Vigência encerrada', so MP_LAPSE days from the Atos
+declaratórios; Lei 15.179/2025 59 notes), then Lei 12.871/2013 (Mais Médicos; MP 1.370), Lei 13.979/2020 (COVID, temporary), and
+the unpinned Leis 6.360/1976, 11.494/2007, 9.424/1996.

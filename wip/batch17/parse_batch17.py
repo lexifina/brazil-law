@@ -398,6 +398,10 @@ ALL_ACTS: list[dict] = [
          "Serviço de Radiodifusão Comunitária (Lei nº 9.612, de 19 de fevereiro de 1998)", 2),
     _act("lei-da-alimentacao-escolar", "PNAE", "l11947", "l11947", "lei-11947-2009",
          "Alimentação escolar e Programa Dinheiro Direto na Escola (Lei nº 11.947, de 16 de junho de 2009)", 2),
+    _act("lei-dos-agrotoxicos", "LAgro23", "l14785", "l14785", "lei-14785-2023",
+         "Lei dos Agrotóxicos (Lei nº 14.785, de 27 de dezembro de 2023)", 2),
+    _act("lei-do-credito-consignado", "LCons", "l10820", "l10820", "lei-10820-2003",
+         "Desconto de prestações em folha de pagamento - crédito consignado (Lei nº 10.820, de 17 de dezembro de 2003)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -457,6 +461,8 @@ PARTS: dict[str, list[str]] = {
     "zw": ["lei-de-inovacao", "lei-de-protecao-de-cultivares"],
     "zx": ["lei-dos-agrotoxicos-de-1989"],
     "zy": ["lei-da-radiodifusao-comunitaria", "lei-da-alimentacao-escolar"],
+    "zz": ["lei-dos-agrotoxicos"],
+    "zza": ["lei-do-credito-consignado"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -468,6 +474,12 @@ for M in (B7, B8, B9, B10, B11, B12, B13, B14, B15, B16):
 _PUB = "'Esta Lei entra em vigor na data de sua publicação'"
 _L = B._act_law
 _PUB2 = "'Esta Lei entrará em vigor na data de sua publicação'"
+# Lei 14.785/2023's ementa: the law entry of part zx (EXTRA_LAWS) and of part zz (its own act) must be identical
+_T14785 = ("Dispõe sobre a pesquisa, a experimentação, a produção, a embalagem, a rotulagem, o transporte, o armazenamento, a "
+           "comercialização, a utilização, a importação, a exportação, o destino final dos resíduos e das embalagens, o registro, a "
+           "classificação, o controle, a inspeção e a fiscalização de agrotóxicos, de produtos de controle ambiental, de seus "
+           "produtos técnicos e afins; revoga as Leis nºs 7.802, de 11 de julho de 1989, e 9.974, de 6 de junho de 2000, e partes "
+           "de anexos das Leis nºs 6.938, de 31 de agosto de 1981, e 9.782, de 26 de janeiro de 1999.")
 ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-5889-1973": ("1973-06-11", f"Lei 5.889/1973 art. 21: {_PUB} (DOU 11.6.1973, rectified 30.10.1973)"),
     "lei-4090-1962": ("1962-07-26", f"Lei 4.090/1962 art. 4: {_PUB2} (DOU 26.7.1962)"),
@@ -631,6 +643,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-7802-1989": ("1989-07-12", f"Lei 7.802/1989 art. 22: {_PUB} (DOU 12.7.1989)"),
     "lei-9612-1998": ("1998-02-20", f"Lei 9.612/1998 art. 26: {_PUB} (DOU 20.2.1998)"),
     "lei-11947-2009": ("2009-06-17", f"Lei 11.947/2009 art. 35: {_PUB} (DOU 17.6.2009)"),
+    "lei-14785-2023": ("2023-12-28", f"Lei 14.785/2023 art. 66: {_PUB} (DOU 28.12.2023, rectified 16.4.2024)"),
+    "lei-10820-2003": ("2003-12-18", f"Lei 10.820/2003 art. 9: {_PUB} (DOU 18.12.2003)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -958,6 +972,10 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "de 6 de fevereiro de 2006, 11.507, de 20 de julho de 2007; revoga dispositivos da Medida Provisória nº "
                          "2.178-36, de 24 de agosto de 2001, e a Lei nº 8.913, de 12 de julho de 1994; e dá outras providências.",
                          "2009-06-16", "2009-06-17", PAGES["l11947"]),
+    "lei-14785-2023": _L("Lei nº 14.785, de 2023", _T14785, "2023-12-27", "2023-12-28", PAGES["l14785"]),
+    # url as in 99-batch15b's entry (capital L), so the merged law entry does not change
+    "lei-10820-2003": _L("Lei nº 10.820, de 2003", "Dispõe sobre a autorização para desconto de prestações em folha de "
+                         "pagamento, e dá outras providências.", "2003-12-17", "2003-12-18", "leis/2003/L10.820.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -4393,11 +4411,6 @@ B8.SPAN_FIX += [((_LSNV, u, lab, pre, n), dict(f), _W1065S) for u, lab, pre, n, 
 
 # part zx: Lei 7.802/1989 (agrotóxicos; repealed as a whole on 28.12.2023, read from a capture of 18.12.2023)
 _LAGRO = "lei-dos-agrotoxicos-de-1989"
-_T14785 = ("Dispõe sobre a pesquisa, a experimentação, a produção, a embalagem, a rotulagem, o transporte, o armazenamento, a "
-           "comercialização, a utilização, a importação, a exportação, o destino final dos resíduos e das embalagens, o registro, a "
-           "classificação, o controle, a inspeção e a fiscalização de agrotóxicos, de produtos de controle ambiental, de seus "
-           "produtos técnicos e afins; revoga as Leis nºs 7.802, de 11 de julho de 1989, e 9.974, de 6 de junho de 2000, e partes "
-           "de anexos das Leis nºs 6.938, de 31 de agosto de 1981, e 9.782, de 26 de janeiro de 1999.")
 if any(a["slug"] == _LAGRO for a in ACTS):
     B8.EXTRA_LAWS["lei-14785-2023"] = {
         "label": "Lei nº 14.785, de 2023", "kind": "law", "title": _T14785, "enacted": "2023-12-27", "published": "2023-12-28",
@@ -4454,6 +4467,44 @@ B8.SPAN_FIX += [
      "it for a copy of the caput's inciso II d), struck and rewritten by Lei 9.974/2000, does not apply)")]
 B13.OPEN_ITEMS[_LAGRO] = (
     "Lei 7.802 (open items): the regulations ('Regulamento' links, Decreto 4.074/2002) strike no words and are not modelled")
+
+# part zz: Lei 14.785/2023 (agrotóxicos). Vetoed parts promulgated in two acts printed on its page.
+_LAG23 = "lei-dos-agrotoxicos"
+_W14785 = ("Lei 14.785/2023 (DOU 28.12.2023, in force on publication) was sanctioned with parts vetoed; Congress overrode the vetoes "
+           "and the President promulgated them in two acts printed on Planalto's page ('(Promulgação partes vetadas)'): on "
+           "21.5.2024 (DOU 22.5.2024) art. 4 § 5º V, art. 27 I to III, art. 28 (caput and parágrafo único), art. 29 § 2º and art. "
+           "30 § 2º; on 1.7.2025 (DOU 2.7.2025) arts. 59 (caput, §§ 1º and 2º), 60 and 61 and art. 62 I (the Taxa de Avaliação e "
+           "de Registro). Each '(VETADO)' line stands from 28.12.2023 to its promulgation (Planalto prints it struck with no "
+           "note); the promulgated words are law from the DOU of the promulgation, credited to Lei 14.785, as for Lei 9.427 art. "
+           "26 § 12 in part z")
+_PR1, _PR2 = "2024-05-22", "2025-07-02"
+
+
+def _v14785(day):
+    return {"skip": False, "end": day, "end_law": "lei-14785-2023", "end_how": "promulgation"}
+
+
+def _p14785(day):
+    return {"start": day, "start_law": "lei-14785-2023", "promulgated": True}
+
+
+B8.SPAN_FIX += [((_LAG23, u, lab, pre, 0), f, _W14785) for u, lab, pre, f in (
+    ("art-04", "V -", "V - (VETADO", _v14785(_PR1)), ("art-04", "V -", "V - coordenar as reanálises", _p14785(_PR1)),
+    ("art-27", "I -", "I - (VETADO", _v14785(_PR1)), ("art-27", "I -", "I - processo produtivo", _p14785(_PR1)),
+    ("art-27", "II -", "II - (VETADO", _v14785(_PR1)), ("art-27", "II -", "II - especificações do produto", _p14785(_PR1)),
+    ("art-27", "III -", "III - (VETADO", _v14785(_PR1)), ("art-27", "III -", "III - alteração de matérias-primas", _p14785(_PR1)),
+    ("art-28", "Art. 28", "Art. 28. (VETADO", _v14785(_PR1)), ("art-28", "Art. 28", "Art. 28. O órgão federal", _p14785(_PR1)),
+    ("art-28", "Parágrafo único", "Parágrafo único. O órgão federal", _p14785(_PR1)),
+    ("art-29", "§ 2º", "§ 2º (VETADO", _v14785(_PR1)), ("art-29", "§ 2º", "§ 2º Os pedidos de registro", _p14785(_PR1)),
+    ("art-30", "§ 2º", "§ 2º (VETADO", _v14785(_PR1)), ("art-30", "§ 2º", "§ 2º Os pedidos de registro", _p14785(_PR1)),
+    ("art-59", "Art. 59", "Art. 59. (VETADO", _v14785(_PR2)), ("art-59", "Art. 59", "Art. 59. É criada a Taxa", _p14785(_PR2)),
+    ("art-59", "§ 1º", "§ 1º São sujeitos passivos", _p14785(_PR2)), ("art-59", "§ 2º", "§ 2º A taxa a que se refere", _p14785(_PR2)),
+    ("art-60", "Art. 60", "Art. 60. (VETADO", _v14785(_PR2)), ("art-60", "Art. 60", "Art. 60. O produto da arrecadação", _p14785(_PR2)),
+    ("art-61", "Art. 61", "Art. 61. (VETADO", _v14785(_PR2)), ("art-61", "Art. 61", "Art. 61. Os recursos arrecadados", _p14785(_PR2)),
+    ("art-62", "I -", "I - (VETADO", _v14785(_PR2)), ("art-62", "I -", "I - valores da arrecadação", _p14785(_PR2)))]
+B13.OPEN_ITEMS[_LAG23] = (
+    "Lei 14.785 (open items): the regulations strike no words and are not modelled; its art. 65's repeal of parts of the "
+    "Anexos of Leis 6.938/1981 and 9.782/1999 concerns those laws, not this one")
 
 P.build_act = B.build_act = build_act
 
