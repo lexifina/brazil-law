@@ -5414,6 +5414,51 @@ if any(a["slug"] == _LCEE for a in ACTS):
         "2018-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 30, de 2018 (DOU 6.6.2018): Medida "
                       "Provisória 814/2017 'teve seu prazo de vigência encerrado no dia 1º de junho do corrente ano'; the "
                       "provision it had revoked is back from 2.6.2018")
+    B.EXPLAINED[_LCEE] = {
+        "art-10": _DOTTED, "art-11": _DOTTED, "art-13": _DOTTED,
+        "art-03-d": "Planalto's page prints art. 3º-D as its label only ('Art. 3º-D.', with the notes 'Incluído pela Lei nº "
+                    "15.269, de 2025' and 'Produção de efeitos'); the history reads its text from Lei 15.269's art. 9",
+    }
+    B13.OPEN_ITEMS[_LCEE] = (
+        "Lei 10.848 (open items): the text before 16.3.2004 (Medida Provisória 144/2003, of which this Lei is the conversion) "
+        "is not part of the history; 'Vide' pointers and regulations strike no words and are not modelled")
+# page l10848: art. 3º-D (Lei 15.269/2025 art. 9) is printed as its label only; its text is read from Lei 15.269's page
+# (the quoted article in art. 9, from '"Art. 3º-D. A contratação' to the line before '"Art. 3º-E.')
+L3D_READ: list[str] = []
+_paragraphsLCEE = P.paragraphs
+
+
+def paragraphs(html, digits):
+    out, rest = _paragraphsLCEE(html, digits)
+    if B8.CURRENT_PAGE[0] == "l10848":
+        at = [i for i, p in enumerate(out) if p["unit"] == "art-003-d" and p["text"] == "Art. 3º-D." and not p["heading"]]
+        assert len(at) == 1, at
+        page = B8.CURRENT_PAGE[0]
+        src, _ = _paragraphsLCEE(P.decode(P.raw("law:lei-15269-2025")[0]), digits)
+        B8.CURRENT_PAGE[0] = page
+        i = [k for k, q in enumerate(src) if q["text"].startswith('"Art. 3º-D. A contratação')]
+        j = [k for k, q in enumerate(src) if q["text"].startswith('"Art. 3º-E.')]
+        assert len(i) == 1 and len(j) == 1 and i[0] < j[0], (i, j)
+        lines = [q["text"] for q in src[i[0]:j[0]]]
+        assert all(q["unit"] == "art-009" and q["state"] == "plain" and not q["notes"] for q in src[i[0]:j[0]])
+        lines[0] = lines[0][1:]
+        lines[-1] = lines[-1].rstrip('"').rstrip()
+        assert not any('"' in x for x in lines), lines
+        tmpl = out[at[0]]
+        new = [{**tmpl, "text": x, "label": (tmpl["label"] if k == 0 else q["label"]), "notes": list(tmpl["notes"])}
+               for k, (x, q) in enumerate(zip(lines, src[i[0]:j[0]]))]
+        out[at[0]:at[0] + 1] = new
+        L3D_READ.append(str(len(new)))
+    return out, rest
+
+
+P.paragraphs = B.paragraphs = paragraphs
+if any(a["slug"] == _LCEE for a in ACTS):
+    EXTRA.append("Lei 10.848 art. 3º-D: Planalto's page prints the article as its label only ('Art. 3º-D.', 'Incluído pela Lei nº "
+                 "15.269, de 2025', 'Produção de efeitos'); its text (caput, incisos I-II, §§ 1º-5º) is read from Lei 15.269/2025's "
+                 "own page (art. 9, the quoted article), credited to Lei 15.269; it takes effect 90 days after publication "
+                 "(art. 22 II: 'em 90 (noventa) dias da data de sua publicação, quanto ao art. 9º, na parte que inclui o art. "
+                 "3º-D'; DOU 25.11.2025), 23.2.2026 (effects_fix).")
 
 # A Medida Provisória's wording that its conversion law does not keep: Planalto prints, after the MP's (struck) wording, the
 # wording the MP replaced a second time, struck, and then the wording of a later law. The reader ends the MP's wording at that
