@@ -2810,9 +2810,10 @@ if any(a["slug"] == _L9718 for a in ACTS):
         "2015-01-01", "art. 113: 'Esta Lei entra em vigor na data de sua publicação, exceto: [...] II - os arts. 1º a 15, 30 a 32, "
                       "97, 106 e os artigos da Seção XXI do Capítulo I, que entram em vigor a partir de 1º de janeiro de 2015' (DOU "
                       "14.11.2014): its art. 30 (Lei 9.718 art. 3) falls under II")
-    B15.TEXT_FIX.append(("l9718", 'Parágrafo único. Revogado. "$', "Parágrafo único. Revogado.",
-                         "Lei 9.718 art. 4 parágrafo único (Lei 9.990/2000's wording): the closing quotation mark of the amending "
-                         "text is printed in the line"))
+    for _pg in ("l9718", "l9718-compilada"):
+        B15.TEXT_FIX.append((_pg, 'Parágrafo único. Revogado. "$', "Parágrafo único. Revogado.",
+                             "Lei 9.718 art. 4 parágrafo único (Lei 9.990/2000's wording): both Planalto pages print the closing "
+                             "quotation mark of the amending text in the line"))
     B15.TEXT_FIX.append(("l9718", "observada regulamentação editada pelo Conselho Monetário Nacional.)$",
                          "observada regulamentação editada pelo Conselho Monetário Nacional.",
                          "Lei 9.718 art. 3 § 8 II (Medida Provisória 1.858-6/1999's wording): the annotated page prints a stray closing "
