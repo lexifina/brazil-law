@@ -205,6 +205,10 @@ PAGES.update({
     "del0200": "decreto-lei/del0200.htm",
     "lcp80": "leis/lcp/lcp80.htm",
     "lcp75": "leis/lcp/lcp75.htm",
+    "l8437": "leis/l8437.htm",
+    "l9494": "leis/l9494.htm",
+    "l12813": "_ato2011-2014/2013/lei/l12813.htm",
+    "l14129": "_ato2019-2022/2021/lei/l14129.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -447,6 +451,14 @@ ALL_ACTS: list[dict] = [
          "Estatuto do Ministério Público da União (Lei Complementar nº 75, de 20 de maio de 1993)", 2),
     _act("lei-organica-da-defensoria-publica", "LODP", "lcp80", "lcp80", "lc-80-1994",
          "Lei Orgânica da Defensoria Pública (Lei Complementar nº 80, de 12 de janeiro de 1994)", 2),
+    _act("lei-de-conflito-de-interesses", "LCI", "l12813", "l12813", "lei-12813-2013",
+         "Lei de Conflito de Interesses (Lei nº 12.813, de 16 de maio de 2013)", 2),
+    _act("lei-das-cautelares-contra-o-poder-publico", "LCPP", "l8437", "l8437", "lei-8437-1992",
+         "Medidas cautelares contra atos do Poder Público (Lei nº 8.437, de 30 de junho de 1992)", 2),
+    _act("lei-da-tutela-antecipada-contra-a-fazenda-publica", "LTAFP", "l9494", "l9494", "lei-9494-1997",
+         "Tutela antecipada contra a Fazenda Pública (Lei nº 9.494, de 10 de setembro de 1997)", 2),
+    _act("lei-do-governo-digital", "LGD", "l14129", "l14129", "lei-14129-2021",
+         "Lei do Governo Digital (Lei nº 14.129, de 29 de março de 2021)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -517,6 +529,9 @@ PARTS: dict[str, list[str]] = {
     "zzg": ["lei-da-autonomia-do-banco-central", "lei-do-mercado-de-cambio"],
     "zzh": ["lei-do-gas", "estatuto-do-ministerio-publico-da-uniao"],
     "zzi": ["lei-organica-da-defensoria-publica"],
+    "zzj": ["lei-de-conflito-de-interesses", "lei-das-cautelares-contra-o-poder-publico"],
+    "zzk": ["lei-da-tutela-antecipada-contra-a-fazenda-publica"],
+    "zzl": ["lei-do-governo-digital"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -723,6 +738,17 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                  "publicação' (DOU 21.5.1993)"),
     "lc-80-1994": ("1994-01-13", "Lei Complementar 80/1994 art. 148: 'Esta Lei Complementar entra em vigor na data de sua "
                                  "publicação' (DOU 13.1.1994)"),
+    "lei-12813-2013": ("2013-07-01", "Lei 12.813/2013: its arts. 14 and 15 (the closing articles) were vetoed, so it has no "
+                                     "vigência clause: LINDB art. 1, 45 days after DOU 17.5.2013 (rectified 20.5.2013): "
+                                     "1.7.2013"),
+    "lei-8437-1992": ("1992-07-01", "Lei 8.437/1992 art. 5: 'Esta lei entra em vigor na data de sua publicação' (DOU 1.7.1992)"),
+    "lei-9494-1997": ("1997-09-11", f"Lei 9.494/1997 art. 4: {_PUB} (DOU 11.9.1997, as LexML's record of the publication gives "
+                                    "it; Planalto's footer misprints 'D.O.U. de 24.12.1997')"),
+    "lei-14129-2021": ("2021-06-28", "Lei 14.129/2021 art. 55: 'Esta Lei entra em vigor após decorridos: I - 90 (noventa) dias de "
+                                     "sua publicação oficial, para a União; II - 120 (cento e vinte) dias [...] para os Estados e o "
+                                     "Distrito Federal; III - 180 (cento e oitenta) dias [...] para os Municípios' (DOU 30.3.2021, "
+                                     "republished 14.4.2021): dated by its federal stage, 90 days, 28.6.2021 (as for Lei 13.460 in "
+                                     "part zi); the later stages are an open item"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1096,6 +1122,21 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lc-80-1994": _L("Lei Complementar nº 80, de 1994", "Organiza a Defensoria Pública da União, do Distrito Federal e dos "
                      "Territórios e prescreve normas gerais para sua organização nos Estados, e dá outras providências.",
                      "1994-01-12", "1994-01-13", PAGES["lcp80"]),
+    "lei-12813-2013": _L("Lei nº 12.813, de 2013", "Dispõe sobre o conflito de interesses no exercício de cargo ou emprego do "
+                         "Poder Executivo federal e impedimentos posteriores ao exercício do cargo ou emprego; e revoga "
+                         "dispositivos da Lei nº 9.986, de 18 de julho de 2000, e das Medidas Provisórias nºs 2.216-37, de 31 de "
+                         "agosto de 2001, e 2.225-45, de 4 de setembro de 2001.", "2013-05-16", "2013-05-17", PAGES["l12813"]),
+    "lei-8437-1992": _L("Lei nº 8.437, de 1992", "Dispõe sobre a concessão de medidas cautelares contra atos do Poder Público e dá "
+                        "outras providências.", "1992-06-30", "1992-07-01", PAGES["l8437"]),
+    # as 99-batch9 has the record (title, url); published from LexML (Planalto's footer misprints 24.12.1997)
+    "lei-9494-1997": _L("Lei nº 9.494, de 1997", "Disciplina a aplicação da tutela antecipada contra a Fazenda Pública, altera a "
+                        "Lei nº 7.347, de 24 de julho de 1985, e dá outras providências.", "1997-09-10", "1997-09-11",
+                        "leis/L9494.htm"),
+    # as 99-batch6 and 99-batch17zi have the record
+    "lei-14129-2021": _L("Lei nº 14.129, de 2021", "Dispõe sobre princípios, regras e instrumentos para o Governo Digital e para o "
+                         "aumento da eficiência pública e altera a Lei nº 7.116, de 29 de agosto de 1983, a Lei nº 12.527, de 18 "
+                         "de novembro de 2011 (Lei de Acesso à Informação), a Lei nº 12.682, de 9 de julho de 2012, e a Lei nº "
+                         "13.460, de 26 de junho de 2017.", "2021-03-29", "2021-03-30", "_Ato2019-2022/2021/Lei/L14129.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -4842,10 +4883,16 @@ B13.OPEN_ITEMS[_LCAMBIO] = (
 # part zzh: Lei 14.134/2021 (Lei do Gás) and Lei Complementar 75/1993 (Estatuto do MPU).
 _LGAS = "lei-do-gas"
 L14134_FIXED: list[str] = []
+LODP_FIXED: list[int] = []
 _paragraphsGAS = P.paragraphs
 
 
 def paragraphs(html, digits):
+    if B8.CURRENT_PAGE[0] == "lcp80":
+        # Lei Complementar 80: Planalto codes the ordinal signs 'º' and 'ª' with a strike tag ('9<s>º</s>', '2<s>ª</s>
+        # Categoria'), 56 times, as on Lei Complementar 132's own page: read as plain text
+        html, n = re.subn(r"<s>\s*([ºª])\s*</s>", r"\1", html)
+        LODP_FIXED.append(n)
     out, rest = _paragraphsGAS(html, digits)
     if B8.CURRENT_PAGE[0] == "l14134":
         # Lei 14.134 art. 46 quotes Lei 9.478 arts. 2, 8, 8-A, 23 and 58; the first quoted line 'Art. 2º ......' has no opening
@@ -4871,11 +4918,56 @@ if any(a["slug"] == _LGAS for a in ACTS):
                  "('Art. 2º ......') with no opening quotation mark, and the quoted lines are read as lines of art. 46, not as "
                  "Lei 14.134's own art. 2.")
 B.EXPLAINED[_LGAS] = {"art-46": _DOTTED}
+_LODP = "lei-organica-da-defensoria-publica"
+if any(a["slug"] == _LODP for a in ACTS):
+    EXTRA.append("Lei Complementar 80: Planalto codes the ordinal signs 'º' and 'ª' with a strike tag in 56 places ('Art. "
+                 "9<s>º</s>', '2<s>ª</s> Categoria'), as on Lei Complementar 132's own page; the signs are read as plain text, "
+                 "not as struck words.")
 B13.OPEN_ITEMS[_LGAS] = (
     "Lei 14.134 (open items): its regulations (Decreto 10.712/2021, ANP resolutions) strike no words and are not modelled")
 B13.OPEN_ITEMS["estatuto-do-ministerio-publico-da-uniao"] = (
     "Lei Complementar 75 (open items): Planalto's page (capture of 11.10.2026) carries no amendment note, so the history is the "
     "text as enacted; 'Mensagem de veto' (the vetoed parts) and the regulations strike no words")
+
+# part zzj: Lei 12.813/2013 (conflito de interesses) and Lei 8.437/1992 (cautelares contra o Poder Público). Hand items set
+# only when the act runs.
+_LCI = "lei-de-conflito-de-interesses"
+_LCPP = "lei-das-cautelares-contra-o-poder-publico"
+if any(a["slug"] == _LCI for a in ACTS):
+    P.MP_LAPSE["mp-792-2017"] = (
+        "2017-11-29", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 65, de 2017 (DOU 7.12.2017): 'teve seu prazo "
+                      "de vigência encerrado no dia 28 de novembro do corrente ano'; the replaced wording is back from 29.11.2017")
+    # (the text is part 95-rju's, word for word: the lapse record built from it must be equal in both parts)
+if any(a["slug"] == _LCPP for a in ACTS):
+    for _k in ("Incluído", "Redação dada"):
+        P.NOTE_FIX[f"({_k} pela Medida Provisória nº 2,180-35, de 2001)"] = (
+            f"({_k} pela Medida Provisória nº 2.180-35, de 2001)",
+            "Lei 8.437: Planalto's notes print the number of Medida Provisória 2.180-35/2001 with a comma ('2,180-35')")
+    P.MP_PENDING["mp-2180-2001"] = (
+        "Medida Provisória nº 2.180-35, de 24.8.2001 (DOU 27.8.2001, in force on publication), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2; its art. 1 gave Lei 8.437 the wordings Planalto notes with this edition. Planalto's "
+        "notes name this edition only, so the changes are dated by its publication; earlier editions of the chain are not "
+        "modelled")
+B13.OPEN_ITEMS[_LCI] = (
+    "Lei 12.813 (open items): 'Vide' pointers and the regulations strike no words and are not modelled")
+B13.OPEN_ITEMS[_LCPP] = (
+    "Lei 8.437 (open items): the earlier editions of Medida Provisória 2.180 (from 1.570/1997 on) are not modelled; 'Vide' "
+    "pointers (ADIs) strike no words")
+
+# parts zzk (Lei 9.494/1997) and zzl (Lei 14.129/2021)
+if any(a["slug"] == "lei-do-governo-digital" for a in ACTS):
+    EXTRA.append("Lei 14.129: arts. 32 and 35 (with its parágrafo único), vetoed on enactment, were promulgated after the veto "
+                 "was overridden (DOU 11.6.2021, '(Promulgação partes vetadas)'); that day falls before the Lei's federal stage "
+                 "(28.6.2021), so the promulgated text stands from the first version and the '(VETADO)' lines Planalto strikes "
+                 "were never in force.")
+B13.OPEN_ITEMS["lei-da-tutela-antecipada-contra-a-fazenda-publica"] = (
+    "Lei 9.494 (open items): the text before 11.9.1997 (Medida Provisória 1.570/1997 and its editions, of which this Lei is the "
+    "conversion) is not part of the history; earlier editions of Medida Provisória 2.180 are not modelled; 'Vide' pointers (ADC "
+    "4, ADIs) strike no words")
+B13.OPEN_ITEMS["lei-do-governo-digital"] = (
+    "Lei 14.129 (open items): art. 55 staggers its entry into force by level of government (90 days for the União, 28.6.2021; "
+    "120 days for the States and the Distrito Federal, 28.7.2021; 180 days for the Municipalities, 26.9.2021); the history is "
+    "dated by the federal stage and the later stages change no words; the regulations strike no words")
 
 P.build_act = B.build_act = build_act
 

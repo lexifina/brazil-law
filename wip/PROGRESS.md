@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-01 (batch 17, twenty-first session: 99-batch17zza (Lei 10.820/2003), zzb (Lei 6.360/1976), zzc (Lei 11.494/2007, repealed 1.1.2021 except art. 12) and zzd (Lei 9.424/1996) PUBLISHed; Leis 12.871/2013 and 13.979/2020 left out (reasons in batch17/PROGRESS.md); merged 229 acts, 3442 versions, 2514 commits, check 0/0, compare identical, audit clean; nothing running; DATED RE-CHECKS: MP 1.382/2026 on or after 29.11.2026, MP 1.370/2026 (and Lei 12.871) once archived after 30.10.2026; details in batch17/PROGRESS.md)
+CHECKPOINTED 2026-11-01 (batch 17, twenty-second session: fresh ranked list; 99-batch17zze (LC 109 + LC 108), zzf (LC 140 + Lei 9.709), zzg (LC 179 + Lei 14.286), zzh (Lei 14.134 + LC 75), zzi (LC 80), zzj (Lei 12.813 + Lei 8.437) PUBLISHed; Lei 9.494 and Lei 14.129 pinned, not built (reasons in batch17/PROGRESS.md); merged 240 acts, 3461 versions, 2527 commits, check 0/0, compare identical, audit clean; nothing running; DATED RE-CHECKS: MP 1.382/2026 on or after 29.11.2026, MP 1.370/2026 (and Lei 12.871) once archived after 30.10.2026; ranked list and details in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 

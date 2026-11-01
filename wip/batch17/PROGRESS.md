@@ -1356,3 +1356,46 @@ Lei 8.383'); SPAN_FIX art-24 'Parágrafo único. (Revogado).' (struck on the pag
 undated) -> skip False, ends 1.1.2024; EXPLAINED art-25 (_DOTTED). sha 778e93d9, 0 moves; leak 6/quote 15 = quoted amendments.
 Merged 235 acts, 3451 versions, 2521 commits, check 0/0, compare identical, audit clean. PIDs: printed in t22-*.log, zz[efg]-*.log,
 all mine, all exited.
+### 99-batch17zzh - PUBLISHed: Lei 14.134/2021 (lei-do-gas, LGas, 1 version) + LC 75/1993 (estatuto-do-ministerio-publico-da-uniao,
+LOMPU, 1; page capture 11.10.2026 carries no amendment note: OPEN_ITEMS says so). Pages pinned (`iaonly.py pages`, 5: l12351, l14134,
+del0200, lcp80, lcp75); laws for zzh/zzi 4 new, missing 0. New paragraphs wrapper (after the zzg block): l14134 art. 46's quoted Lei
+9.478 'Art. 2º ......' has no opening quote -> lines after art. 46's caput and before art. 47 filed under art-02 moved to art-46
+(EXTRA decision); EXPLAINED art-46 (_DOTTED). sha 937dfa60, 0 moves; dupline/dupcheck 1 (quoted § 1º in two quoted articles), leak 6,
+quote 15 = quoted amendments. Merged 237 acts, 3453 versions, 2523 commits, check 0/0, compare identical, audit clean.
+### 99-batch17zzi - PUBLISHed: LC 80/1994 (lei-organica-da-defensoria-publica, LODP, 3 versions: 1994-01-13, LC 98 1999-12-06, LC 132
+2009-10-08). Same wrapper: on lcp80 '<s>º</s>' / '<s>ª</s>' (56 ordinal signs coded with a strike tag, as on LC 132's own page) read as
+plain (the 5 'ª' lines were MIXED and missing from the history before; 'º' lines were already restored by the reader). GOTCHA again:
+a heredoc wrote r"\1" as \x01 - fixed with a byte replace; use the Edit tool for backreferences. sha 82976f26, 0 moves, all checks 0;
+latecaput = 1994 §§ under LC 132 capita (page read: no notes, LC 132 left them). Merged 238 acts, 3456 versions, 2525 commits, check
+0/0, compare identical, audit clean. headyear unchanged after the new pins (t22-hy2.log).
+Next on the list: DL 200/1967 (page del0200 pinned; 326 notes, DLs 900/1969 (79), 2.300/1986 (76), 900/1968? (35; check the year
+key), Lei 6.036/1974 (31), DL 991/1969 (27)), Lei 12.351/2010 (pinned l12351; 189 notes: Lei 15.164/2025 67, MP 1.291/2025 42, MP
+1.226/2024 16, Lei 14.981/2024 16, MP 1.304/2025 6 - settle each MP's fate (conversion or Ato) before building).
+### 99-batch17zzj - PUBLISHed: Lei 12.813/2013 (lei-de-conflito-de-interesses, LCI, 3 versions 2013-07-01 .. 2017-11-29; arts. 14-15
+vetoed -> LINDB 45 days from DOU 17.5.2013) + Lei 8.437/1992 (lei-das-cautelares-contra-o-poder-publico, LCPP, 2 versions 1992-07-01,
+2001-08-27). Pages pinned (`iaonly.py pages`, 4: l8437, l9494, l12813, l14129); laws 0 new; Ato pinned `iaonly.py gap
+ato:adc-65-2017-mpv792 <95-rju's url>`. Hand (scoped): MP_LAPSE mp-792-2017 29.11.2017 with 95-rju's text word for word (the
+mp-792-2017-fim record is built from it and must be equal: lawcmp caught a difference first); NOTE_FIX '2,180-35' (comma) x2;
+MP_PENDING mp-2180-2001 (8.437 text). sha 61d9ce92, 0 moves, all checks 0; latecaput = art. 9 2013 items under the restored caput.
+Merged 240 acts, 3461 versions, 2527 commits, check 0/0, compare identical, audit clean.
+
+## State at handoff (batch 17, twenty-second session, 2026-11-01)
+Parts zze, zzf, zzg, zzh, zzi, zzj PUBLISHed (11 acts, 19 versions): LC 109/2001, LC 108/2001, LC 140/2011, Lei 9.709/1998, LC
+179/2021, Lei 14.286/2021, Lei 14.134/2021, LC 75/1993, LC 80/1994, Lei 12.813/2013, Lei 8.437/1992. Final merged build of the
+installed folder after all docs (final22-build.log): 240 acts, 3461 versions, 2527 commits, check 0/0, --compare identical, audit_push
+clean on main and futuro; README rows + jurisdiction.json (240 acts) current. lawcmp: every new part's law records equal the other
+parts'. reparse.sh zzd zza zze zzg: equal except sources (pin counter growth, known). headyear unchanged (t22-hy3.log). All runs
+through .tmp/run.py / pipe.sh / reparse.sh at BelowNormal behind the cpu gate, one at a time (never two parses); every PID was printed
+in its log (t22-*.log, zz[e-j]-*.log, final22-build.log); all mine, all exited. Nothing running. No challenge page seen; archive.org
+only (robots.txt read at start).
+DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once archive.org
+has a capture of _ato2023-2026/2026/mpv/mpv1370.htm after 30.10.2026.
+Left out this session (configured or pinned, not built, reasons): Lei 9.494/1997 (page pinned l9494): its footer reads 'publicado no
+D.O.U. de 24.12.1997' for a law of 10.9.1997 (conversion of MP 1.570-5) - settle the publication day (LexML /urn, Crawl-delay 5)
+before building; MP 2.180-35 notes (9) + Lei 11.960 (1). Lei 14.129/2021 (pinned l14129; record exists in 99-batch6/17zi): staged
+vigência (90/120/180 days by federative level, art. 55) and promulgated vetoed parts (DOU 11.6.2021) need a decision on the act's
+first day before building. Not started: DL 200/1967 (pinned del0200, 326 notes), Lei 12.351/2010 (pinned l12351; MPs 1.226/2024,
+1.291/2025, 1.304/2025: read each fate first).
+Next on the ranked list after those: Lei 8.625/1993, Lei 12.865/2013, Lei 12.618/2012, Lei 14.601/2023, Lei 10.848/2004 (path via
+cdxlist), environment (Leis 9.966, 7.661, 11.959, 5.197, 7.735, 11.516), energy (14.300, 10.438, 9.991, 9.847), banking (LC 130,
+Leis 10.214, 13.506, 8.929, 13.775), public administration (Leis 8.159, 9.491, 13.334; LC 35/1979; Lei 5.010/1966).
