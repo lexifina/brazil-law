@@ -1337,8 +1337,9 @@ def main(argv: list[str]) -> int:
         eff[k] = d
         if "LINDB" in why:
             lindb.append(f"{law_label(k)} ({info.get('published')} -> {d})")
-        elif k in VIGENCIA_FIXED or "after publication" in why:
-            vig_notes.append(f"{law_label(k)}: in force {d}, {why}.")
+        elif k in VIGENCIA_FIXED or "after publication" in why or vigforms.printed(info.get("clause", "")):
+            pr = "" if k in VIGENCIA_FIXED else vigforms.printed(info.get("clause", ""))
+            vig_notes.append(f"{law_label(k)}: in force {d}, {why}" + (f"; its clause is so printed: '{pr}'" if pr else "") + ".")
     for k, (d, why) in ACT_DAY.items():
         eff[k] = d
     effects = []

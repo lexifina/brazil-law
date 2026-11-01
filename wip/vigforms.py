@@ -28,6 +28,17 @@ def clause_rx(rx: str) -> str:
     return f"(?:{rx})|(?:{EXTRA})"
 
 
+def printed(clause: str) -> str:
+    """The clause as printed, for a decision, when it is one of the misprinted or unusual forms above (not 'à data',
+    which the CLT reader always read); else ''."""
+    if not clause:
+        return ""
+    if (re.search(r"\bentre\s+em\s+vigor|\bentra(?:r[áa])?\s+vigor\b|\bem\s+vigor\s*,\s*na\s+data\b", clause, re.I)
+            or re.match(r"[^,.]{0,60},\s*que\s", clause)):
+        return clause
+    return ""
+
+
 def standard(clause: str) -> str:
     c = re.sub(r"\bentre(\s+em\s+vigor)", r"entra\1", clause, flags=re.I)
     c = re.sub(r"\b(entra(?:r[áa])?)\s+vigor\b", r"\1 em vigor", c, flags=re.I)
