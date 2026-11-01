@@ -5439,6 +5439,8 @@ if any(a["slug"] == _LCEE for a in ACTS):
         "2018-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 30, de 2018 (DOU 6.6.2018): Medida "
                       "Provisória 814/2017 'teve seu prazo de vigência encerrado no dia 1º de junho do corrente ano'; the "
                       "provision it had revoked is back from 2.6.2018")
+    # law record as 99-batch17s and 17z have it (the cited law's own page reads the ementa 'nº s' and another URL case)
+    B.ACT_LAWS["lei-12783-2013"] = dict(ACT_LAWS_ALL["lei-12783-2013"])
     B.EXPLAINED[_LCEE] = {
         "art-10": _DOTTED, "art-11": _DOTTED, "art-13": _DOTTED,
     }
