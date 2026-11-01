@@ -4035,6 +4035,30 @@ B13.OPEN_ITEMS[_LMESC] = (
     "Lei, 24.11.1999). The changes Medida Provisória 1.930/1999 and its editions made before 2.173-24 are not modelled: "
     "Planalto prints them only as 'Vide' pointers. Regulations ('Regulamento' links) are not modelled")
 
+# part zs: Leis 13.005/2014 (Plano Nacional de Educação), 12.379/2011 (Sistema Nacional de Viação)
+_LPNE, _LSNV = "lei-do-plano-nacional-de-educacao", "lei-do-sistema-nacional-de-viacao"
+_N14934 = ("Extended to 31 December 2025 the term of the Plano Nacional de Educação that Lei 13.005/2014 approved (its art. 1: ten "
+           "years from its publication in the DOU of 26.6.2014); it changed none of the plan's words. The plan's term ended on "
+           "31.12.2025, so its text leaves the record on 1.1.2026, the day after.")
+if any(a["slug"] == _LPNE for a in ACTS):
+    B8.EXTRA_LAWS["lei-14934-2024"] = {
+        "label": "Lei nº 14.934, de 2024", "kind": "law",
+        "title": "Prorroga, até 31 de dezembro de 2025, a vigência do Plano Nacional de Educação, aprovado por meio da Lei nº "
+                 "13.005, de 25 de junho de 2014.",
+        "enacted": "2024-07-25", "published": "2024-07-26",
+        "url": PL + "_ato2023-2026/2024/lei/l14934.htm", "temporary_until": None, "restores": None, "note": _N14934}
+    B9.REPEALS[_LPNE] = (
+        "2026-01-01", "lei-14934-2024",
+        "Lei 13.005/2014 (Plano Nacional de Educação) art. 1 approves the plan 'com vigência por 10 (dez) anos, a contar da "
+        "publicação desta Lei' (DOU 26.6.2014, so to 25.6.2024); Lei 14.934/2024 art. 1 (DOU 26.7.2024, in force on publication) "
+        "'Fica prorrogada, até 31 de dezembro de 2025, a vigência do Plano Nacional de Educação'. The extension changes no words, "
+        "so it is no version of its own: it is the note of the law credited with the end of the term. The act is a plan with a "
+        "fixed term, so its last version, on 1.1.2026 (the day after the term ends), removes every provision, credited to Lei "
+        "14.934/2024, which set that day. The month between 25.6.2024 and the extension (26.7.2024) is not shown as a gap: the "
+        "extension is recorded as continuing the plan. Planalto's page (capture of 20.10.2026) names no later law that extends "
+        "the term again, and Planalto does not strike a lapsed plan, so the replay check compares the last version before the "
+        "end of the term with the page's text")
+
 P.build_act = B.build_act = build_act
 
 SRC = HERE / "sources_batch17.json"
