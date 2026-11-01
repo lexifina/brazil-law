@@ -142,7 +142,7 @@ PAGES.update({
     "l13460": "_ato2015-2018/2017/lei/l13460.htm",
     "l12187": "_ato2007-2010/2009/lei/l12187.htm",
     "l13123": "_ato2015-2018/2015/lei/l13123.htm",
-    # parts zj, zk, zl: PIS/COFINS (Leis 9.718/1998, 10.637/2002, 10.833/2003), one act per part
+    # parts zj (published), zk, zl (pinned, not configured): PIS/COFINS (Leis 9.718/1998, 10.637/2002, 10.833/2003), one act per part
     "l9718": "leis/l9718.htm",
     "l9718-compilada": "leis/l9718compilada.htm",
     "l10637": "leis/2002/l10637.htm",
@@ -295,6 +295,10 @@ ALL_ACTS: list[dict] = [
          "Lei da Biodiversidade (Lei nº 13.123, de 20 de maio de 2015)", 2),
     _act("lei-9718-de-1998", "L9718", "l9718", "l9718-compilada", "lei-9718-1998",
          "PIS/Pasep e Cofins (Lei nº 9.718, de 27 de novembro de 1998)", 2),
+    _act("lei-10637-de-2002", "L10637", "l10637", "l10637-compilado", "lei-10637-2002",
+         "PIS/Pasep não cumulativo (Lei nº 10.637, de 30 de dezembro de 2002)", 2),
+    _act("lei-10833-de-2003", "L10833", "l10833", "l10833-compilado", "lei-10833-2003",
+         "Cofins não cumulativa (Lei nº 10.833, de 29 de dezembro de 2003)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -336,6 +340,8 @@ PARTS: dict[str, list[str]] = {
     "zi": ["lei-da-sumula-vinculante", "lei-dos-usuarios-de-servicos-publicos", "lei-da-politica-nacional-sobre-mudanca-do-clima",
            "lei-da-biodiversidade"],
     "zj": ["lei-9718-de-1998"],
+    "zk": ["lei-10637-de-2002"],
+    "zl": ["lei-10833-de-2003"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -454,6 +460,20 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                     "de 1999; II - em relação aos arts. 9º e 12 a 15, a partir de 1º de janeiro de 1999' (DOU "
                                     "28.11.1998): the other articles from publication; arts. 9 and 12 to 15 from 1.1.1999 and arts. 2 "
                                     "to 8 from 1.2.1999, the days they take effect"),
+    "lei-10637-2002": ("2002-12-31", "Lei 10.637/2002 art. 68: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeitos: "
+                                     "I - a partir de 1º de outubro de 2002, em relação aos arts. 29 e 49; II - a partir de 1º de dezembro "
+                                     "de 2002, em relação aos arts. 1º a 6º e 8º a 11; III - a partir de 1º de janeiro de 2003, em relação "
+                                     "aos arts. 34, 37 a 44, 46 e 48; IV - a partir da data da publicação desta Lei, em relação aos demais "
+                                     "artigos' (DOU 31.12.2002, edição extra): every article from publication (the effects under I and II "
+                                     "reach back before it), arts. 34, 37 to 44, 46 and 48 from 1.1.2003, the day they take effect"),
+    "lei-10833-2003": ("2003-12-30", "Lei 10.833/2003 art. 93: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeito, "
+                                     "em relação: I - aos arts. 1º a 15 e 25, a partir de 1º de fevereiro de 2004; II - aos arts. 26, 27, "
+                                     "29, 30 e 34 desta Lei, a partir de 1º de fevereiro de 2004; [...] IV - aos arts. 49 a 51 e 53 a 58 "
+                                     "desta Lei, a partir do 1º dia do quarto mês subseqüente ao de sua publicação; V - ao art. 52 desta "
+                                     "Lei, a partir do 1º dia do segundo mês subseqüente ao de publicação desta Lei; VI - aos demais "
+                                     "artigos, a partir da data da publicação desta Lei' (DOU 30.12.2003, edição extra-A): the other "
+                                     "articles from publication; arts. 1 to 15, 25 to 27, 29, 30, 34 and 52 from 1.2.2004 and arts. 49 to "
+                                     "51 and 53 to 58 from 1.4.2004, the days they take effect"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -659,6 +679,13 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "e dá outras providências.", "2015-05-20", "2015-05-21", PAGES["l13123"]),
     "lei-9718-1998": _L("Lei nº 9.718, de 1998", "Altera a Legislação Tributária Federal.", "1998-11-27", "1998-11-28",
                         PAGES["l9718"]),
+    "lei-10637-2002": _L("Lei nº 10.637, de 2002", "Dispõe sobre a não-cumulatividade na cobrança da contribuição para os Programas "
+                         "de Integração Social (PIS) e de Formação do Patrimônio do Servidor Público (Pasep), nos casos que "
+                         "especifica; sobre o pagamento e o parcelamento de débitos tributários federais, a compensação de créditos "
+                         "fiscais, a declaração de inaptidão de inscrição de pessoas jurídicas, a legislação aduaneira, e dá outras "
+                         "providências.", "2002-12-30", "2002-12-31", PAGES["l10637"]),
+    "lei-10833-2003": _L("Lei nº 10.833, de 2003", "Altera a Legislação Tributária Federal e dá outras providências.", "2003-12-29",
+                         "2003-12-30", PAGES["l10833"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -955,7 +982,7 @@ QUOTED_HEADINGS: list[str] = []
 # Lei 7.689 art. 11 and Lei 9.249 art. 14 end '[...], com a redação dada pelo Decreto-Lei nº N, de d de m de aaaa.': words of
 # the article (which wording of another act it refers to), not an amendment note; the reader takes them for a bare note.
 BARE_TEXT = {"l7689": "art-11", "l9249": "art-14", "l9430": "art-88", "l9873": ("art-03", "art-08"), "l9984": "art-29",
-             "l9984-compilado": "art-29"}
+             "l9984-compilado": "art-29", "l10637": ("art-47", "art-54"), "l10637-compilado": ("art-47", "art-54")}
 BARE_TEXT_USED: list[str] = []
 QUOTE_DROPPED: list[str] = []
 _BARE_RX = re.compile(r"\(?\s*(reda[çc][ãa]o dada pel[oa] (?:Decreto-Lei|Lei) n[º°.]?\s*[\d.]+, de \d{1,2} de \w+ de \d{4}[.;]?)\s*\)?",
@@ -964,6 +991,11 @@ _BARE_RX9873 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Lei n[º°.]?\s*9\.
                           r"demais disposições em contrário, ainda que constantes de lei especial\.)\s*\)?")
 _BARE_RX9984 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Lei n[º°.]?\s*9\.433, de 1997, passa a vigorar com a seguinte "
                           r"reda[çc][ãa]o:)\s*\)?")
+# Lei 10.637 art. 47 § 2º ('[...] o art. 14 da Lei nº 9.648, de 27 de maio de 1998, com a redação dada pela Lei nº 10.433, de
+# 24 de abril de 2002, para efeitos de incidência [...]') and the 2002 art. 54 ('[...] do Decreto-Lei nº 1.593, de 21 de dezembro
+# de 1977, com a redação dada pela Medida Provisória nº 2.158-35, de 24 de agosto de 2001.')
+_BARE_RX10637 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pel[oa] (?:Lei n[º°.]?\s*10\.433, de 24 de abril de 2002, para efeitos de "
+                           r"incid[êe]ncia .*?|Medida Provis[óo]ria n[º°.]?\s*2\.158-35, de 24 de agosto de 2001\.))\s*\)?")
 _paragraphs17 = P.paragraphs
 
 
@@ -993,6 +1025,8 @@ def paragraphs(html, digits):
                 # Lei 9.984 art. 29: 'O art. 1º da Lei nº 8.001, de 13 de março de 1990, com a redação dada pela Lei nº 9.433, de
                 # 1997, passa a vigorar com a seguinte redação:'
                 hit = [(n, m) for n in p["notes"] for m in [_BARE_RX9984.fullmatch(n.strip())] if m]
+            if not hit and page in ("l10637", "l10637-compilado"):
+                hit = [(n, m) for n in p["notes"] for m in [_BARE_RX10637.fullmatch(n.strip())] if m]
             if hit:
                 n, m = hit[0]
                 p["text"] = p["text"].rstrip() + " " + m.group(1)
@@ -2286,9 +2320,21 @@ def lifespans(paras, cx):
     # ... and so is a struck line SPAN_FIX leaves out (a duplicate copy): matched by unit, label and text
     dated |= {f"no end for struck {p['unit']} [{p['label']}] {p['text'][:90]!r}" for p in paras
               if p.get("pinned") and p["state"] != "plain" and p.get("skip") and p.get("end_how") == "duplicate"}
-    return [x for x in problems if not any(x.startswith(t) for t in dated)]
+    problems = [x for x in problems if not any(x.startswith(t) for t in dated)]
+    # Leis 10.637 and 10.833: Planalto prints the wordings Medida Provisória 1.159/2023 replaced a second time, struck, as
+    # restored when it lapsed (1.6.2023); Lei 14.592/2023 (DOU 30.5.2023, in force on publication) had already given those
+    # dispositivos their wording, so the restored copies never were in force and are left out
+    if cx.act in (_L10637, _L10833):
+        for p in paras:
+            if p["start_law"] == "mp-1159-2023-fim" and p.get("end") and p["end"] < p["start"] and not p.get("skip"):
+                p["skip"], p["pinned"], p["end_how"] = True, True, "never-in-effect"
+                MP1159_SKIPPED.append(f"{p['unit']} {p['label']}")
+                key = f"ends before it starts: {p['unit']} [{p['label']}] {p['start']}.."
+                problems = [x for x in problems if not x.startswith(key)]
+    return problems
 
 
+MP1159_SKIPPED: list[str] = []
 P.lifespans = B.lifespans = lifespans
 _apply_rewrites17 = P.apply_rewrites
 
@@ -2451,6 +2497,34 @@ def _inner(*a):
                    "12 to 15 on 1.1.1999, the other articles on 28.11.1998" + (
                        "; changes made to those articles before their day start on that day (" + "; ".join(dict.fromkeys(G9718_USED))
                        + ")" if G9718_USED else "") + ".")
+    if any(a["slug"] == _L10637 for a in ACTS):
+        dec.append("Lei 10.637: art. 68 ('Esta Lei entra em vigor na data de sua publicação, produzindo efeitos: I - a partir de "
+                   "1º de outubro de 2002, em relação aos arts. 29 e 49; II - a partir de 1º de dezembro de 2002, em relação aos "
+                   "arts. 1º a 6º e 8º a 11; III - a partir de 1º de janeiro de 2003, em relação aos arts. 34, 37 a 44, 46 e 48; "
+                   "IV - a partir da data da publicação desta Lei, em relação aos demais artigos'; DOU 31.12.2002): arts. 34, 37 "
+                   "to 44, 46 and 48 start on 1.1.2003; the other articles on 31.12.2002 (the effects under I and II reach back "
+                   "before the publication, which is the first day of the record)" + (
+                       "; changes made to those articles before their day start on that day (" + "; ".join(dict.fromkeys(G10637_USED))
+                       + ")" if G10637_USED else "") + ".")
+    if any(a["slug"] == _L10833 for a in ACTS):
+        dec.append("Lei 10.833: art. 93 ('Esta Lei entra em vigor na data de sua publicação, produzindo efeito, em relação: I - "
+                   "aos arts. 1º a 15 e 25, a partir de 1º de fevereiro de 2004; II - aos arts. 26, 27, 29, 30 e 34 desta Lei, a "
+                   "partir de 1º de fevereiro de 2004; [...] IV - aos arts. 49 a 51 e 53 a 58 desta Lei, a partir do 1º dia do "
+                   "quarto mês subseqüente ao de sua publicação; V - ao art. 52 desta Lei, a partir do 1º dia do segundo mês "
+                   "subseqüente ao de publicação desta Lei; VI - aos demais artigos, a partir da data da publicação desta Lei'; "
+                   "DOU 30.12.2003): arts. 1 to 15, 25 to 27, 29, 30, 34 and 52 start on 1.2.2004, arts. 49 to 51 and 53 to 58 "
+                   "on 1.4.2004, the other articles on 30.12.2003" + (
+                       "; changes made to those articles before their day start on that day (" + "; ".join(dict.fromkeys(G10833_USED))
+                       + ")" if G10833_USED else "") + ".")
+    if MP1159_SKIPPED:
+        dec.append("Leis 10.637 and 10.833: Medida Provisória 1.159/2023 (DOU 12.1.2023) lapsed on 1.6.2023 (Ato Declaratório do "
+                   "Presidente da Mesa do Congresso Nacional nº 40, de 2023); Planalto prints the wordings it had replaced a second "
+                   "time, struck, as restored on its lapse, but Lei 14.592/2023 (DOU 30.5.2023, in force on publication) had given "
+                   "those dispositivos their wording before that day, so the restored copies never were in force and are left out ("
+                   + ", ".join(dict.fromkeys(MP1159_SKIPPED)) + ").")
+    for _slug, _used in FUT2027_USED.items():
+        if _used:
+            dec.append(_FUT2027[_slug][2] + " (" + ", ".join(dict.fromkeys(_used)) + ").")
     if L2027_USED:
         dec.append("Lei 9.718: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] X - os "
                    "arts. 2º a 8º-B da Lei nº 9.718, de 27 de novembro de 1998') and art. 504 (new wording of art. 9, without 'da "
@@ -2874,19 +2948,45 @@ _G9718 = {**{f"art-0{n}": ("1999-02-01", "arts. 2 to 8: I") for n in range(2, 9)
           **{u: ("1999-01-01", "arts. 9 and 12 to 15: II") for u in ("art-09", "art-12", "art-13", "art-14", "art-15")}}
 G9718_USED: list[str] = []
 _build_act17 = P.build_act
+# Date-by-article gates of acts whose own effect clause stages their articles: slug -> (unit -> (day, clause item), act law
+# key, list of the changes moved to a gate). Lei 10.637 art. 68 III: arts. 34, 37 to 44, 46 and 48 from 1.1.2003 (I and II
+# reach back before the publication, 31.12.2002, so those articles start on it). Lei 10.833 art. 93: I/II arts. 1 to 15, 25,
+# 26, 27, 29, 30 and 34 from 1.2.2004; IV arts. 49 to 51 and 53 to 58 from the first day of the fourth month after
+# publication (DOU 30.12.2003: 1.4.2004); V art. 52 from the first day of the second month after it (1.2.2004).
+_L10637 = "lei-10637-de-2002"
+_L10833 = "lei-10833-de-2003"
+
+
+def _u(n):
+    return f"art-{n:02d}"
+
+
+_G10637 = {_u(n): ("2003-01-01", "III") for n in (34, 37, 38, 39, 40, 41, 42, 43, 44, 46, 48)}
+_G10833 = {**{_u(n): ("2004-02-01", "I") for n in (*range(1, 16), 25)},
+           **{_u(n): ("2004-02-01", "II") for n in (26, 27, 29, 30, 34)},
+           **{_u(n): ("2004-04-01", "IV") for n in (49, 50, 51, 53, 54, 55, 56, 57, 58)},
+           _u(52): ("2004-02-01", "V")}
+G10637_USED: list[str] = []
+G10833_USED: list[str] = []
+_GATES = {_L9718: (_G9718, "lei-9718-1998", G9718_USED), _L10637: (_G10637, "lei-10637-2002", G10637_USED),
+          _L10833: (_G10833, "lei-10833-2003", G10833_USED)}
 
 
 def build_act(paras, act_day, gate, gate_law, unit_label):
     slug = ACTS[len(B7._act_order)]["slug"] if len(B7._act_order) < len(ACTS) else "?"
-    if slug == _L9718:
+    if slug in _GATES:
+        tbl, law, used = _GATES[slug]
         gate, gate_law = dict(gate), dict(gate_law)
-        for u, (day, _) in _G9718.items():
-            gate[u], gate_law[u] = day, "lei-9718-1998"
+        for u, (day, _) in tbl.items():
+            gate[u], gate_law[u] = day, law
         for p in paras:
-            g = _G9718.get(p["unit"])
+            g = tbl.get(p["unit"])
             if g and p["start_law"] and act_day <= p["start"] < g[0] and not p.get("skip"):
-                G9718_USED.append(f"{p['unit']} {p['label']} ({p['start_law']}, {p['start']})")
+                used.append(f"{p['unit']} {p['label']} ({p['start_law']}, {p['start']})")
                 p["start"] = g[0]
+    if slug in _FUT2027:
+        fut_2027(paras, slug)
+    if slug == _L9718:
         lc214_2027(paras)
         # art. 5 § 4º-A: Planalto prints Medida Provisória 1.063's § 4º-A with its incisos I and II, then Medida Provisória
         # 1.069's new § 4º-A caput; the MP 1.063 caput never took effect (skipped), so its incisos go under MP 1.069's caput
@@ -2928,6 +3028,73 @@ def lc214_2027(paras):
             paras.insert(paras.index(p) + 1, q)
             L2027_USED.append("art-09")
 
+
+# Lei Complementar 214/2025 changes from 1.1.2027 (art. 544 III, as Lei Complementar 227/2026 worded it) to Leis 10.637 and
+# 10.833, read on LC 214's page (Planalto's pages of the two Leis do not print them): art. 542 revocations and new wordings.
+# slug -> (units ended, {unit: (start of the old caput, new caput)}, the LC 214 items, for the decision).
+_FUT2027 = {
+    _L10637: ({"art-01", "art-02", "art-03", "art-04", "art-05", "art-05-a", "art-07", "art-08", "art-10", "art-11", "art-12",
+               "art-32", "art-47"},
+              {"art-35": ("Art. 35. A receita decorrente da avaliação de títulos",
+                          "Art. 35. A receita decorrente da avaliação de títulos e valores mobiliários, instrumentos financeiros, "
+                          "derivativos e itens objeto de hedge, registrada pelas instituições financeiras e demais entidades "
+                          "autorizadas a funcionar pelo Banco Central do Brasil, instituições autorizadas a operar pela "
+                          "Superintendência de Seguros Privados - Susep e sociedades autorizadas a operar em seguros ou resseguros "
+                          "em decorrência da valoração a preço de mercado no que exceder ao rendimento produzido até a referida "
+                          "data será computada na base de cálculo do Imposto sobre a Renda das Pessoas Jurídicas e da Contribuição "
+                          "Social sobre o Lucro Líquido somente quando da alienação dos respectivos ativos.")},
+              "Lei 10.637: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] XVIII - "
+              "os seguintes dispositivos da Lei nº 10.637, de 30 de dezembro de 2002: a) os arts. 1º a 5º-A; b) os arts. 7º e "
+              "8º; c) os arts. 10 a 12; d) o art. 32; e e) o art. 47') and art. 507 (new caput of art. 35, which no longer "
+              "names the Cofins and the contribuição para o PIS/Pasep), both in effect from 1.1.2027 (art. 544 III, as Lei "
+              "Complementar 227/2026 worded it), read on LC 214's page (Planalto's page of Lei 10.637 does not print them): "
+              "those articles end and art. 35 takes the new caput on 1.1.2027, on the future branch"),
+}
+FUT2027_USED: dict[str, list[str]] = {}
+
+
+def fut_2027(paras, slug):
+    D, L = "2027-01-01", "lc-214-2025"
+    ends, rew, _ = _FUT2027[slug]
+    used = FUT2027_USED.setdefault(slug, [])
+    for p in list(paras):
+        if p.get("skip") or p["heading"] or (p["end"] is not None and p["end"] <= D):
+            continue
+        if p["unit"] in ends:
+            p["end"], p["end_law"], p["end_how"] = D, L, "repealed"
+            used.append(p["unit"])
+        elif p["unit"] in rew and p["label"] == "caput" and p["text"].startswith(rew[p["unit"]][0]):
+            q = dict(p, text=rew[p["unit"]][1], start=D, start_law=L, end=None, end_law=None, end_how=None,
+                     notes=["(Redação dada pela Lei Complementar nº 214, de 2025)"], state="plain")
+            p["end"], p["end_law"], p["end_how"] = D, L, "successor"
+            paras.insert(paras.index(p) + 1, q)
+            used.append(p["unit"])
+
+
+# parts zk/zl: hand days, set only when the acts run
+if any(a["slug"] in (_L10637, _L10833) for a in ACTS):
+    P.MP_LAPSE["mp-1159-2023"] = (
+        "2023-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 40, de 2023 (DOU 16.6.2023): 'teve seu "
+                      "prazo de vigência encerrado no dia 1º de junho de 2023'; the wordings it gave end on 2.6.2023")
+    P.VIGENCIA_FIXED["lei-14596-2023"] = (
+        "2024-01-01", "art. 47: 'Esta Lei entra em vigor em 1º de janeiro de 2024, exceto o art. 45, que entra em vigor na data de "
+                      "sua publicação' (DOU 15.6.2023): its art. 46 (revocations; VII: Lei 10.637 art. 45; VIII: Lei 10.833 art. "
+                      "45) from 1.1.2024")
+    P.VIGENCIA_FIXED["lei-13043-2014"] = (
+        "2015-01-01", "art. 113: 'Esta Lei entra em vigor na data de sua publicação, exceto: [...] II - os arts. 1º a 15, 30 a 32, "
+                      "97, 106 e os artigos da Seção XXI do Capítulo I, que entram em vigor a partir de 1º de janeiro de 2015' (DOU "
+                      "14.11.2014): its arts. 31 (Lei 10.637 art. 8) and 32 (Lei 10.833 art. 10) fall under II")
+    P.NOTE_FIX["(Incluído pela Medida Provisória nº 382, 2007)"] = (
+        "(Incluído pela Medida Provisória nº 382, de 2007)", "the note reads 'Medida Provisória nº 382, 2007' (no 'de'); its link "
+                                                             "is to Medida Provisória 382/2007")
+    P.NOTE_FIX["(Revogado pela Medida Provisória nº 392)"] = (
+        "(Revogado pela Medida Provisória nº 392, de 2007)", "the note gives no year; its link is to Medida Provisória 392/2007, "
+                                                             "which revoked Medida Provisória 382/2007")
+    for _how in ("Redação dada", "Incluído"):
+        P.NOTE_FIX[f"({_how} pela Medida Provisória nº 11.488, de 2007)"] = (
+            f"({_how} pela Medida Provisória nº 447, de 2008)",
+            "Lei 10.637 art. 10: the note names 'Medida Provisória nº 11.488, de 2007' (no such MP; Lei 11.488/2007 is a "
+            "Lei); its link is to Medida Provisória 447/2008, whose art. 2 gave art. 10 these words (read on its page)")
 
 P.build_act = B.build_act = build_act
 

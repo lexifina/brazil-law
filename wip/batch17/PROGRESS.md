@@ -514,6 +514,51 @@ Lei 11.417/2006 súmula vinculante (1 version, in force 20.3.2007: 3 months), Le
   quoted Lei 9.784 text). Part sha ff74dbd3; zh reparse equal except sources requests; merged 194 acts, 3127 versions, 2340
   commits, check 0/0, compare identical, audit clean (final10b-build.log, after README rows).
 
+## 99-batch17zj - PUBLISHed 2026-11-01 (eleventh session)
+Lei 9.718/1998 (PIS/Pasep and Cofins), 38 versions 1998-11-28 .. 2025-05-01 (+ 2027-01-01 on futuro); l9718 vs l9718compilada,
+1 diff EXPLAINED (art-05 'Vide MP 497' note printed in the compilada line). robots.txt read at start (web.archive.org 404;
+archive.org Disallows /control/ /report/ only); archive.org only.
+- Pages pinned for zj/zk/zl (`iaonly.py pages`, 6: l9718 + compilada, l10637 + compilado, l10833 (leis/2003/l10.833.htm) +
+  compilado); `BATCH17_ACTS=lei-9718-de-1998 iaonly.py laws` (10 new) + `missing` (0). Gap pins: law:mp-1991r18-2000,
+  mp-1807r1-1999, mp-1858r7-1999, mp-1991r16-2000, mp-2037-2000 (2.037-19: keyed WITHOUT r because mp-2037-2000 had no pin;
+  next_edition() looks up law_key(), which gives the base key when the base is unpinned - renamed in the pin file),
+  ato:apn-36-2013-mpv601.
+- Staged start (art. 17): build_act wrapper in parse_batch17 (_G9718 gates: arts. 2-8 1.2.1999, arts. 9/12-15 1.1.1999;
+  lines of gated units starting before the gate are moved to the gate, so MP 1.807 is credited with the gate day). Same
+  wrapper: lc214_2027() (LC 214 art. 542 X repeals arts. 2-8-B, art. 504 new art. 9 wording, both 1.1.2027: not on Planalto's
+  9.718 page) and the art. 5 § 4º-A incisos reorder (MP 1.063 incisos under MP 1.069's caput).
+- 'DO de' footers: MP editions of 2000 end 'publicado no DO de' (no U); _R_PUB + _with_pub() (wraps B6.page_info AND
+  P.page_info, patching P.decode for those keys only) - PUBLISHED_FIXED is NOT usable for edition keys (batch 6 reads an edition
+  under its base key, so the base entry dates every edition, and the REISSUED check inside B6.page_info needs the day).
+- Hand (`_L9718`, scoped): VIGENCIA_FIXED lei-12844-2013 (V), mp-472-2009 (I d), mp-601-2012 (publication), lei-13043-2014
+  1.1.2015 (art. 113 II); MP_LAPSE mp-601-2012 4.6.2013; MP_PENDING mp-2158-2001 (9.718 text); SPAN_FIX art-03 § 6 I/II end
+  27.8.2001 (reader had ended them at § 8's I/II), MP 1.063 art-05 lines start/end 1.12.2021 (effects_fix REFUSES: MP 1.069
+  changed art. 5 on 13.9.2021, before the effect day), MP 1.063 § 4º-A skipped; TEXT_FIX (both pages) art. 4 p.u. stray '"',
+  § 8 II '.)'; paragraphs wrapper drops 'Sem eficácia'. OPEN_ITEMS + EXPLAINED.
+- effects_fix MOVES "99-batch17zj.json": 11 entries, 18 moves (MP 1.991-15 arts 4-6 None, 1.991-18 -> 1.7.2000, 2.158-35 § 9 ->
+  1.12.2001, 10.637 -> 1.1.2003, 10.865 -> 1.5.2004, MP 413 None (judgement: event-tied, Lei 11.727 fixed 1.10.2008), 11.727 ->
+  1.10.2008, MP 451 -> 1.1.2009, MP 601 -> 1.1.2013, 12.814 -> 1.1.2014, LC 214 -> 1.5.2025). Amenders read: scratch zj/effrep.txt.
+- Checks: dupline/dupcheck/order/firstline/pubgap 0, leakcheck 7 literal '(revogado)', quotecheck 6 benign, missorig 12 = gates,
+  overlap 0, headyear only rNN false positives. Part sha 9e3dce70 (pre-effects 8cf1b49e); k and zi reparsed: equal except
+  sources[0]. Merged 195 acts, 3165 versions, 2360 commits, check 0/0, compare identical, audit clean (final11-build.log, after
+  README row + jurisdiction.json).
+
+## State at handoff (batch 17, eleventh session, 2026-11-01)
+Part zj (Lei 9.718/1998) installed with .PUBLISH; merged 195 acts, 3165 versions, 2360 commits, check 0/0, --compare identical,
+audit clean. All runs through .tmp/run.py / pipe.sh at BelowNormal (cpu gate), one at a time; every PID exited; nothing running.
+DATED RE-CHECK (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026 - not before.
+Left out / unsettled (unchanged): Lei 9.782 art. 8º-A; Lei 10.931; Lei 10.522 art. 32 quoted § 2º; Lei 12.462 art. 63 § 17.
+NEXT: Lei 10.637/2002 as part zk, then Lei 10.833/2003 as part zl (one act per part). Pages ALREADY PINNED (ids l10637,
+l10637-compilado, l10833, l10833-compilado); acts NOT configured (add _act + PARTS + ACT_DAY + ACT_LAWS as for zj).
+- notecount: l10637 233 notes (heavy: 10.865/2004 29, 12.973/2014 28, 11.196 22, LC 225/2026 20, 10.684 14); l10833 518 notes
+  (11.727/2008 106, 10.865 79, 13.043 37, 11.827 32, 10.925 31, 13.097 30, 11.051 27, MP 436/2008 23 - MP 436's notes are
+  lower-case 'me 436' on the page, check law_key).
+- Both are MP conversions (10.637 of MP 66/2002, 10.833 of MP 135/2003): their own effect clauses are staged (10.637 art. 68: I
+  arts 29/49 1.10.2002, II arts 1-6 and 8-11 1.12.2002, III arts 34, 37-44, 46, 48 1.1.2003, IV rest on publication; 10.833 art.
+  93 similar: read it) -> gates as zj's _G9718 (generalise the wrapper with a per-act table). LC 214 art. 542 (from 1.1.2027)
+  revokes parts of both (read items XII+ on LC 214's page) -> futuro like lc214_2027(). LC 225/2026: read its effect clause.
+- Expect effects_fix refusals where an MP changed the unit between in-force and effect day: settle with SPAN_FIX as MP 1.063.
+
 ## State at handoff (batch 17, tenth session, 2026-11-01)
 Parts 99-batch17a..zi installed with .PUBLISH (this session: zf Lei 9.984, zg Leis 11.182 + 13.575, zh Leis 11.428 + 4.886 + 8.397
 + 9.795, zi Leis 11.417 + 13.460 + 12.187 + 13.123 = 11 acts, 53 versions); merged 194 acts, 3127 versions, 2340 commits, check
