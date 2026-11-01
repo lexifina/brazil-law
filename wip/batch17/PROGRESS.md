@@ -1616,3 +1616,27 @@ Optional survey: run parses with BATCH17_CONV_REPORT=1 over other parts with MP 
 DATED RE-CHECKS (unchanged): MP 1.382/2026 (part m) on or after 29.11.2026; MP 1.370/2026 (part zv, and Lei 12.871) once archived
 after 30.10.2026.
 OPEN for the coordinator: lei-12783-2013 record differs between 99-batch17s and 99-batch17z (URL case and 'nºs'/'nº s').
+
+## Twenty-sixth session (2026-11-01): Task 1 converted-MP survey of every part, Task 2 Lei 12.783 record, Task 3 next candidates
+Scratch: .gitlaw-scratch/brazil-b26 (conv_report.py = report-only outermost lifespans wrapper for ANY Brazil parser, run with
+--dry; survey.py = it over every part with mp-* law records, one process at a time, cpu gate; sv/<part>.log; base/ new/ = fresh
+reparses (b25 reparse_all.py); before/ = previous part, PUBLISH, README, jurisdiction.json; install.py = previous file with
+every top-level key from the reparse except sources; topdiff.py; chk.sh = b25's pointed at b26). robots.txt read at start
+(archive.org Disallow /control/ /report/; web.archive.org 404; LexML /urn /sru allowed, Crawl-delay 5).
+### Task 1 DONE: survey (sv/, survey.log): 79 parts (50-codes, 70-clt, 80-proc, 95-rju, 97-batch4, 98-batch5, 5b, 6-12,
+13-17 with MPs), all rc 0, corpus.d and sources*.json byte-identical after. 22 places found: 20 already dated as the rule dates them (8
+Lei 9.613 x3 (MP 870), 16a CBA x3 (MP 714), 17e Lei 12.587 (MP 818), 17j Lei 7.713 x2 (MPs 68, 114), u, z x2, zza (MP 656), zzr x5); 2 WRONG:
+- 99-batch16b Lei 8.036 art. 15 caput: MP 680/2015 wording kept 7.7.2015..17.3.2022; conversion Lei 13.189/2015 (DOU 20.11.2015,
+  art. 12 on publication) only cites art. 15 in its art. 9 -> MP ends 20.11.2015, 1990 wording again to MP 1.107 (18.3.2022).
+  New rule copy CONV_RESTORE16 in parse_batch16's __main__ block only (batch 17 imports batch16; its own copy stays).
+- 99-batch17zw Lei 10.973 art. 2 V: MP 495/2010 wording kept to 11.1.2016; Lei 12.349/2010 art. 5 changes only art. 2 VII and
+  art. 27 IV -> MP ends 16.12.2010, 2004 wording again to Lei 13.243 (12.1.2016). CONV_RESTORE[_LINOV]; decision text now
+  _WCONV_RULE + CONV_WHY[act] (MP 1.300 text byte-identical: reparse z, u equal installed except the old sources drift, zzr SAME).
+- Fresh reparses: 16b +1 version (20.11.2015, art-15, lei-13189-2015; law record added = 15a's) + decision; zw only the
+  16.12.2010 version text + decision. Installed (install.py, sources kept): 16b ce1eb89a, zw 3609b77d. Checks before/after
+  identical (chk.sh, zw overlap/latecaput identical). README FGTS row 52, jurisdiction.json 3566 versions / (52).
+### Task 2 DONE: lei-12783-2013 = the 17z/zzr form (URL _Ato2011-2014/2013/Lei/L12783.htm, 'Leis nº s') in part s's ACT_LAWS;
+  reparse s: only that record's title+url differ; installed 2084fbf4; checks identical. All 3 parts agree now.
+- Merged build after docs (build2.log): 251 acts, 3566 versions, 2588 commits, check 0/0, compare identical, audit clean main +
+  futuro. PUBLISH appended to 16b, zw, s. PIDs: survey 49188 (trial 41276), base 47452, new 11976, chk in
+  pids-chk.txt, zw-ov 18544, zw-lc 23488, build1 6616, build2 9280; all mine, all exited.

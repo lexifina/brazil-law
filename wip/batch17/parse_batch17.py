@@ -223,6 +223,7 @@ PAGES.update({
     "l5197": "leis/l5197.htm",
     "l7735": "leis/l7735.htm",
     "l11516": "_ato2007-2010/2007/lei/l11516.htm",
+    "l5197-compilado": "leis/l5197compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -495,6 +496,15 @@ ALL_ACTS: list[dict] = [
          "Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca (Lei nº 11.959, de 29 de junho de 2009)", 2),
     _act("lei-da-comercializacao-de-energia-eletrica", "LCEE", "l10848", "l10848", "lei-10848-2004",
          "Comercialização de energia elétrica (Lei nº 10.848, de 15 de março de 2004)", 2),
+    # twenty-sixth session
+    _act("lei-do-gerenciamento-costeiro", "LGCost", "l7661", "l7661", "lei-7661-1988",
+         "Plano Nacional de Gerenciamento Costeiro (Lei nº 7.661, de 16 de maio de 1988)", 2),
+    _act("lei-de-protecao-a-fauna", "LFauna", "l5197", "l5197-compilado", "lei-5197-1967",
+         "Proteção à fauna (Lei nº 5.197, de 3 de janeiro de 1967)", 2),
+    _act("lei-do-ibama", "LIbama", "l7735", "l7735", "lei-7735-1989",
+         "Criação do Ibama (Lei nº 7.735, de 22 de fevereiro de 1989)", 2),
+    _act("lei-do-instituto-chico-mendes", "LICMBio", "l11516", "l11516", "lei-11516-2007",
+         "Criação do Instituto Chico Mendes de Conservação da Biodiversidade (Lei nº 11.516, de 28 de agosto de 2007)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -577,6 +587,9 @@ PARTS: dict[str, list[str]] = {
     "zzq": ["lei-12865-de-2013"],
     "zzr": ["lei-da-comercializacao-de-energia-eletrica"],
     "zzs": ["lei-da-poluicao-por-oleo", "lei-da-pesca"],
+    # twenty-sixth session
+    "zzt": ["lei-do-gerenciamento-costeiro", "lei-de-protecao-a-fauna"],
+    "zzu": ["lei-do-ibama", "lei-do-instituto-chico-mendes"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -816,6 +829,12 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                     "29.4.2000): 90 days after 29.4.2000, 28.7.2000"),
     "lei-11959-2009": ("2009-08-29", "Lei 11.959/2009 art. 37: 'Esta Lei entra em vigor após decorridos 60 (sessenta) dias de sua "
                                      "publicação oficial' (DOU 30.6.2009): 60 days after 30.6.2009, 29.8.2009"),
+    # twenty-sixth session
+    "lei-7661-1988": ("1988-05-18", f"Lei 7.661/1988 art. 12: 'Esta lei entra em vigor na data de sua publicação' (DOU 18.5.1988, "
+                                    "as LexML records it; Planalto's footer misprints 'DOU de 18.5.1998')"),
+    "lei-5197-1967": ("1967-01-05", f"Lei 5.197/1967 art. 38: {_PUB} (DOU 5.1.1967)"),
+    "lei-7735-1989": ("1989-02-23", f"Lei 7.735/1989 art. 6º: {_PUB} (DOU 23.2.1989)"),
+    "lei-11516-2007": ("2007-08-28", f"Lei 11.516/2007 art. 15: {_PUB} (DOU 28.8.2007, edição extra)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1263,6 +1282,21 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "e da Pesca, regula as atividades pesqueiras, revoga a Lei n o 7.679, de 23 de novembro de 1988, e "
                          "dispositivos do Decreto-Lei n o 221, de 28 de fevereiro de 1967, e dá outras providências.",
                          "2009-06-29", "2009-06-30", "_Ato2007-2010/2009/Lei/L11959.htm"),
+    # twenty-sixth session
+    "lei-7661-1988": _L("Lei nº 7.661, de 1988", "Institui o Plano Nacional de Gerenciamento Costeiro e dá outras providências.",
+                        "1988-05-16", "1988-05-18", PAGES["l7661"]),
+    "lei-5197-1967": _L("Lei nº 5.197, de 1967", "Dispõe sobre a proteção à fauna e dá outras providências.", "1967-01-03",
+                        "1967-01-05", PAGES["l5197"]),
+    "lei-7735-1989": _L("Lei nº 7.735, de 1989", "Dispõe sobre a extinção de órgão e de entidade autárquica, cria o Instituto "
+                        "Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis e dá outras providências.", "1989-02-22",
+                        "1989-02-23", PAGES["l7735"]),
+    # as 99-batch14c and 17zp have the record
+    "lei-11516-2007": _L("Lei nº 11.516, de 2007", "Dispõe sobre a criação do Instituto Chico Mendes de Conservação da "
+                         "Biodiversidade - Instituto Chico Mendes; altera as Leis n os 7.735, de 22 de fevereiro de 1989, 11.284, "
+                         "de 2 de março de 2006, 9.985, de 18 de julho de 2000, 10.410, de 11 de janeiro de 2002, 11.156, de 29 de "
+                         "julho de 2005, 11.357, de 19 de outubro de 2006, e 7.957, de 20 de dezembro de 1989; revoga dispositivos "
+                         "da Lei n o 8.028, de 12 de abril de 1990, e da Medida Provisória n o 2.216-37, de 31 de agosto de 2001; e "
+                         "dá outras providências.", "2007-08-28", "2007-08-28", "_ato2007-2010/2007/lei/L11516.htm"),
     # as 99-batch10, 17u and 17z have the record
     "lei-10848-2004": _L("Lei nº 10.848, de 2004", "Dispõe sobre a comercialização de energia elétrica, altera as Leis nºs 5.655, "
                          "de 20 de maio de 1971, 8.631, de 4 de março de 1993, 9.074, de 7 de julho de 1995, 9.427, de 26 de "
@@ -5628,6 +5662,22 @@ def build_act_fp(paras, act_day, gate, gate_law, unit_label):
 
 
 P.build_act = B.build_act = build_act_fp
+
+# part zzu (twenty-sixth session): Lei 7.735/1989 (Ibama) and Lei 11.516/2007 (Instituto Chico Mendes)
+_LIBAMA, _LICMBIO = "lei-do-ibama", "lei-do-instituto-chico-mendes"
+if any(a["slug"] == _LIBAMA for a in ACTS):
+    for _how in ("Redação dada", "Incluído"):
+        P.NOTE_FIX[f"({_how} pela Lei nº 11.516, 2007)"] = (
+            f"({_how} pela Lei nº 11.516, de 2007)", f"Lei 7.735: the '{_how}' notes read 'pela Lei nº 11.516, 2007' (the word "
+                                                     "'de' is missing; their links go to Lei 11.516/2007)")
+    B13.OPEN_ITEMS[_LIBAMA] = (
+        "Lei 7.735 (open items): the text before 23.2.1989 (Medida Provisória 34/1989, of which this Lei is the conversion) is "
+        "not part of the history; 'Vide' pointers and regulations strike no words and are not modelled")
+if any(a["slug"] == _LICMBIO for a in ACTS):
+    B.EXPLAINED[_LICMBIO] = {"art-06": _DOTTED}
+    B13.OPEN_ITEMS[_LICMBIO] = (
+        "Lei 11.516 (open items): the text before 28.8.2007 (Medida Provisória 366/2007, of which this Lei is the conversion) "
+        "is not part of the history; 'Vide' pointers and regulations strike no words and are not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
