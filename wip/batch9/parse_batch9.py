@@ -537,6 +537,17 @@ def consolidated(ident: str, digits: int):
 
 P.build_act = B.build_act = build_act
 P.consolidated = B.consolidated = consolidated
+# Lei 9.602/1998 is in force on its publication, 22.1.1998 (art. 8: 'Esta Lei entra vigor na data de sua publicação', so
+# printed; read since the 2026-11-01 vigência audit, before which it was dated by the 45-day default), the Código de
+# Trânsito's own first day: its changes come as a second version of that day, after the code as enacted
+# (parse_proc's SAME_DAY_LAWS), not folded into it
+if any(a["slug"] == _CTB for a in ACTS):
+    P.SAME_DAY_LAWS.add("lei-9602-1998")
+    B5.EXTRA_DECISIONS.append(
+        "Código de Trânsito Brasileiro: Lei nº 9.602, de 1998 (DOU 22.1.1998) is in force on its publication by its own "
+        "art. 8 ('Esta Lei entra vigor na data de sua publicação', so printed, without 'em'), the day the code itself "
+        "entered into force (art. 340: 120 days after its publication); its changes are a second version of 22.1.1998, "
+        "after the code as enacted.")
 _inner9 = B6.PB5B._write_part5
 
 
