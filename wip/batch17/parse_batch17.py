@@ -9475,6 +9475,36 @@ if any(a["slug"] == _LPELE for a in ACTS):
          {"end": "2018-12-13", "end_law": "lei-13756-2018", "end_how": "note",
           "gaps": [("2018-06-12", "2018-10-24", "mp-841-2018", "mp-841-2018-fim")]}, _W10_3),
     ]
+    # Medida Provisória 841/2018 art. 26 XI (read on its page): 'Ficam revogados [...] XI - os seguintes dispositivos da
+    # Lei nº 9.615 [...]: a) os incisos II, III, IV e VI do caput e o §1º ao § 4º do art. 6º; b) o art. 8º ao art. 10; e c) os
+    # incisos IV, VI e VIII do caput e o § 1º ao § 10 do art. 56'; it lapsed on 23.10.2018 and Lei 13.756/2018 (13.12.2018)
+    # revoked or rewrote the same dispositivos. Planalto prints the lines with the MP's note and then each again, struck,
+    # with Lei 13.756's note only
+    _W841 = ("Lei 9.615 arts. 8, 9 and 56: Medida Provisória 841/2018 art. 26 XI revoked arts. 8 to 10 whole and art. 56 §§ 1º to "
+             "10 (12.6.2018); it lapsed on 23.10.2018 (the lines are back from 24.10.2018) and Lei 13.756/2018 (13.12.2018) "
+             "revoked them. Planalto prints these lines with the MP's note and then again, struck, with Lei 13.756's note "
+             "only: each line stands once, out while the MP stood, to 13.12.2018 (art. 8's 'Parágrafo único. (Revogado).', "
+             "Lei 12.395/2011's wording, has no MP note but falls under the MP's revocation of the whole article)")
+    _G841 = [("2018-06-12", "2018-10-24", "mp-841-2018", "mp-841-2018-fim")]
+    _E841 = {"end": "2018-12-13", "end_law": "lei-13756-2018", "end_how": "parent", "gaps": _G841}
+    _DUP841 = {"skip": True, "end_how": "duplicate"}
+    B8.SPAN_FIX += [
+        ((_LPELE, "art-08", "Parágrafo único", "Parágrafo único. (Revogado)", 0), {"gaps": _G841}, _W841),
+        ((_LPELE, "art-09", "§ 1º", "§ 1º Nos anos de realização dos Jogos Olímpicos", 1), dict(_DUP841), _W841),
+        ((_LPELE, "art-09", "§ 2º", "§ 2º Ao Comitê Paraolímpico Brasileiro serão concedidas", 1), dict(_DUP841), _W841),
+        *[((_LPELE, "art-56", _lab, _pre, 0), dict(_E841), _W841)
+          for _lab, _pre in (("I -", "I - 10% (dez por cento) serão destinados ao desporto escolar"),
+                             ("II -", "II - 5% (cinco por cento) serão destinados ao desporto universitário"),
+                             ("I -", "I - os programas e projetos desenvolvidos por entidade beneficiada"),
+                             ("II -", "II - os valores gastos"),
+                             ("III -", "III - os critérios de escolha de cada beneficiário"))],
+        *[((_LPELE, "art-56", _lab, _pre, 1), dict(_DUP841), _W841)
+          for _lab, _pre in (("I -", "I - 10% (dez por cento) serão destinados ao desporto escolar"),
+                             ("II -", "II - 5% (cinco por cento) serão destinados ao desporto universitário"),
+                             ("I -", "I - os programas e projetos desenvolvidos por entidade beneficiada"),
+                             ("II -", "II - os valores gastos"),
+                             ("III -", "III - os critérios de escolha de cada beneficiário"))],
+    ]
     _PELE_BINGO = {f"art-{n}" for n in range(59, 82)}
     _RX_BINGO_NOTE = re.compile(r"\s*\(Revogad[oa], a partir de 31/12/2001, pela Lei n[º°o]\s*9\.981, de 2000\)\s*$")
     PELE_USED: dict[str, list[str]] = {}
