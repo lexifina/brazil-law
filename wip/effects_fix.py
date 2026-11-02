@@ -632,6 +632,21 @@ MOVES: dict[str, list] = {
          "Lei 14.789/2023 art. 22: 'Esta Lei entra em vigor na data de sua publicação e produzirá efeitos a partir de 1º de janeiro "
          "de 2024' (DOU 29.12.2023): its art. 21 I (revocation of Decreto-Lei 1.598 art. 19 V and art. 38 § 2º) from 1.1.2024"),
     ],
+    "99-batch17zzzy.json": [
+        ("lei-do-bem", "mp-472-2009", "2009-12-16", [("units:art-30", "2010-01-01")],
+         "Medida Provisória 472/2009 art. 60: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, produzindo "
+         "efeitos: [...] b) a partir de 1º de janeiro de 2010, em relação ao disposto nos arts. 15 a 17' (DOU 16.12.2009): its "
+         "art. 17 (Lei 11.196 art. 30 II) from 1.1.2010 (Lei 12.249/2010, its conversion, art. 139 I b, the same)"),
+        ("lei-do-bem", "mp-694-2015", "2015-09-30", [(ALL, "2016-01-01")],
+         "Medida Provisória 694/2015 art. 4: 'Esta Medida Provisória entra em vigor na data de sua publicação, produzindo "
+         "efeitos a partir: [...] II - do primeiro dia do quarto mês subsequente à data de sua publicação, em relação aos arts. "
+         "2º e 3º' (DOU 30.9.2015, edição extra): its art. 3 (Lei 11.196 arts. 19 § 7º, 19-A § 13 and 26 § 5º) from 1.1.2016; "
+         "the MP lapsed on 8.3.2016"),
+        ("lei-do-bem", "lei-11727-2008", "2008-06-24", [("units:art-64", "2008-10-01")],
+         "Lei 11.727/2008 art. 41: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeitos em relação: [...] IV - "
+         "aos arts. 7º, 9º a 12 e 14 a 16, a partir do primeiro dia do quarto mês subseqüente ao da publicação desta Lei' (IV as "
+         "Lei 11.827/2008 worded it; DOU 24.6.2008): its art. 9 (new wording of Lei 11.196 art. 64) from 1.10.2008"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,
