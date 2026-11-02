@@ -2644,3 +2644,65 @@ audit clean; README + jurisdiction.json current). corpus.d unchanged (no 99-batc
 trials. Nothing running. Claim released.
 NEXT: Lei 11.196 (part zzzy), TO DO items 5 (rest) to 9 above, then the historic codes.
 OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff.
+
+## Fortieth session (2026-11-02): Lei 11.196/2005 (Lei do Bem), part 99-batch17zzzy - items 5-9 DONE, PUBLISHed
+Claim: scripts/world-law/claims/brazil-law.txt taken at the start (released at the end). Scratch: .gitlaw-scratch/brazil-b40
+(before/ = parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json, dupsame_allow.json, effects_fix.py, README,
+jurisdiction.json at session start; parse_batch17.after.py / effects_fix.after.py = state at handoff; logs/; tools/ = b39's +
+a70.py (a unit's text in the innermost build's output and its paras' fields after it)). robots.txt read at start: archive.org
+(Disallow /control/ /report/), web.archive.org 404 (b40/robots). archive.org only, through the shared client; no Common Crawl,
+no Arquivo.pt, no LexML, no challenge page. Coordinator readings confirmed: LC 214's 'arts. 55 a 59' takes in 57-A..57-D; art.
+11-J p.u. (benefit end 31.12.2026) is an OPEN_ITEMS line, not a text change.
+### Pins (sources_batch17.json, additions only)
+law:mp-425-2008 (MP 425 of 30.4.2008, DOU extra: put MP 413 art. 18's 1.5.2008 off to an SRFB act), ato:adc-4-2008-mpv425 (rejected
+9.7.2008, after Lei 11.727), law:dec-5602-2005 (regulation of arts. 28-30; shows Decreto 7.981 added VII/VIII), law:dec-7981-2013
+(8.4.2013, DOU 9.4.2013, in force on publication, 'tendo em vista o disposto no art. 62 da Lei nº 12.715'), ato:portaria-mte-240-2024
+(in.gov.br capture; DOU 1.3.2024, in force 1.3.2024; art. 3 leaves the 'operação efetiva' day to an SIT Edital). CDX probes: in.gov.br
+'edital-sit' and 'edital-n-1-de-29-de-fevereiro-de-2024' 0 captures (Edital not found); Receita 'in575' found IN SRF 575/2005, pinned,
+read (it rests on Lei 11.051, not art. 110) and the pin removed again (net: not in sources).
+### Done (parse_batch17.py block '# part zzzy' grown; removals = only _FUT2027's art. 110 entries; effects_fix.py additions only)
+5. Effect days: _effects_model (run from the span-fix wrapper): art. 65 Lei 11.727 art. 39 lines from 1.1.2009 (old wordings end then);
+   art. 64 MP 413 lines set aside (never in effect: MP 425 + Lei 11.727 art. 41 p.u.), 2005 lines end 24.6.2008 so effects_fix's Lei
+   11.727 move gives 1.10.2008; arts. 28-30 MP 690 (the struck copy before the reprinted caput set aside; gap 1.12-31.12.2015, back
+   with Lei 13.241; 30 II ends 1.12.2015); art. 70 I d) hold (below). effects_fix MOVES + MP 460 art-62 -> 1.7.2009, Lei 12.715 art-28
+   -> 9.4.2013 (Decreto 7.981). Decision lines _W_KEPT (MP 447/Lei 11.933, Lei 12.024, MP 451/Lei 11.945 [art. 65's effects start
+   read as art. 132 V c, 1.3.2006], Lei 13.137, Lei 12.249: publication kept) and _W_OTHER (Lei 12.995 art. 27 I: art. 13 in force on
+   publication per art. 26, so art. 60 ends 20.6.2014; MP 1.303 never in effect, only a struck 'Vide' at the page top). Item 5h:
+   no 2010-06-14 version.
+6. art. 132 partial articles (_BEM_PART): art. 33 quoted art. 2 from 1.1.2006; art. 42 from 1.12.2005, its § 3º I and § 7º II from
+   1.3.2006; art. 43 quoted art. 3 and art. 10 XXVII 1.12.2005; art. 44 quoted art. 15 1.12.2005; art. 46 quoted art. 10 1.3.2006
+   (start_law lei-11196-2005). Arts. 110, 114, 115 held with no day (_BEM_HELD; no act found) and left out, with LC 214's art. 110
+   changes on futuro (_FUT2027 entries removed).
+   HOLDS = coordinator rule read literally ('no-day hold' = the change does not enter the history). TO CONFIRM with the coordinator:
+   art. 70 I d) (Lei 14.438; LC 150's d) stands) and arts. 110/114/115 (whole original articles). To undo: empty _BEM_HELD / drop the
+   art-70 d) branch of _effects_model and put art. 110 back into _FUT2027 (b40/before/parse_batch17.py has the entries).
+   If the SIT Edital starting FGTS Digital is found (in.gov.br), hold to its day instead.
+7. dupl.py: every repeated label is a quoted amendment of several articles (arts. 33, 43, 44, 46, 113, 118, 120). Found and fixed:
+   stale_fix rule B paired art. 70 p.u. II a)/b) with caput II's struck a)/b) (both parents 'II -') and set them aside since the
+   first trials: _sf_bem wrapper restores them (decision _W70_PU). B.EXPLAINED[_LBEM] for the 17 differing units.
+8. MP fates on their pages (hrefsm): all converted as the parser has them (413->11.727, 428->11.774, 447->11.933, 451->11.945,
+   457->11.960, 460->12.024, 497->12.350, 517->12.431, 534->12.507, 540->12.546, 545->12.599, 563->12.715, 564->12.712, 613->12.859,
+   656->13.097, 1.107->14.438, 690->13.241, 472->12.249); MP 492 'Sem eficácia' (only a Vide on art. 96); MP 1.110 lapsed (adc-65).
+   conv_report: nothing. ADIN 4254: six 'Vide' links to the petition, nothing struck: lines stand, scope in OPEN_ITEMS.
+9. OPEN_ITEMS[_LBEM]; Lei 11.487's footer 'DOU de 15.5.2007' (signed 15.6.2007) read as 15.6.2007 (page_info wrapper _pi_l11487;
+   PUBGAP gone); dupsame_allow.json + 4 elision lines ('....." (NR)' in arts. 43, 44, 113, 118). pipe.sh zzzy x3 (final
+   b40/logs/zzzy-pipe3.out): 2f529a2f x2, 0 problems, 7 moves, checks as in the PUBLISH line; installed corpus.d/99-batch17zzzy.json
+   (b99f0176) + .PUBLISH; docs.py rows-zzzy.json (README row, jurisdiction 294 acts 3974 versions); final merged build
+   (b40/logs/final-build.log): 294 acts, 3974 versions, 2764 commits, 0/0, identical, audit clean main + futuro.
+- PIDs (all mine, all foreground through run.py unless said; all exited): t7 47992, bylaw1 3572, sp1 36640, multi1 16980, multi2 24356,
+  href1 8368, artof1 8724, multi3 45612, multi4 48228, multi5 30028, multi6 47536, multi7 1368, robots 6540, gap1 34560, gap2 55040,
+  multi8 42732, href2 43748, href3 2624, gap3 26256, gap4 4864, multi9 25792, cdx1 44764, pin5 33292, multi10 46328, multi11 32200,
+  multi12 38236, cdx2 4588, cdx3 47168, pin6 18676, multi13 50048, t8 49296, eff1 12056, dupl1 25248, sp2 33756, a70 45576, a70b
+  45328, multi14 40228, multi15 35140, t9 50460, conv1 33616, fates 9092, multi16 51892, multi17 32268, href4 (rc only), multi18,
+  multi19, multi20, bylaw2, docs 6332, final build 52500; pipe1 (background task, mine) 1436 53296 25752 25204 32200 48096 37684;
+  pipe2 (background) 6340 36128 5984 50660 53836 22980 34956; pipe3 5320 13212 14328 52048 40316 54876 21732. Two background
+  `until` waits, mine, ended by themselves. The unpinning of IN 575 was a one-off inline Python edit of sources_batch17.json.
+
+## State at handoff (batch 17, fortieth session, 2026-11-02)
+Installed with .PUBLISH this session: zzzy (Lei 11.196/2005; 61 versions). Merged scratch build: 294 acts, 3974 versions, 2764
+commits, check 0/0, --compare identical, audit_push clean on main and futuro; uniqlaws 0; dupsame 0. README row + jurisdiction.json
+current. corpus.d: new 99-batch17zzzy.json + .PUBLISH; folder PUBLISH unchanged. Other files changed: parse_batch17.py, effects_fix.py,
+sources_batch17.json (+5 pins), dupsame_allow.json (+4). Nothing running. Claim released.
+NEXT: coordinator to confirm the no-day holds (art. 70 I d; arts. 110, 114, 115); then the historic codes (Código Comercial Lei
+556/1850, CPC 1973 Lei 5.869/1973, Código Civil 1916 Lei 3.071/1916; check each against installed parts first).
+OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff, plus: the SIT Edital dating FGTS Digital's 'operação efetiva'.
