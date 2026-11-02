@@ -9719,6 +9719,86 @@ if any(a["slug"] == _L10931 for a in ACTS):
     P.NOTE_FIX["(Redação da pela Medida Provisória nº 656, de 2014)"] = (
         "(Redação dada pela Medida Provisória nº 656, de 2014)", "Lei 10.931 arts. 4 § 6º and 17: the note reads 'Redação da "
                                                                  "pela' (a misprinted 'dada')")
+    B15.TEXT_FIX.append(("l10931", "(sessenta e seis centésimos por cento) como CSLL$",
+                         "(sessenta e seis centésimos por cento) como CSLL.",
+                         "Lei 10.931 art. 8 IV (Medida Provisória 601/2012): the annotated page drops the closing full stop, "
+                         "which the MP's own text prints ('IV - 0,66% (sessenta e seis centésimos por cento) como CSLL.')"))
+    # Lei Complementar 214/2025, in effect from 1.1.2027 (art. 544 III, as Lei Complementar 227/2026 worded it), read on LC
+    # 214's page (Planalto's annotated page of Lei 10.931 prints only 'Vide' notes for them): art. 510 (new rates in art. 4
+    # caput, §§ 6º and 8º and art. 8 caput and parágrafo único) and art. 542 XXVI (revocation of art. 4 II and IV and of
+    # art. 8 I and II, of the caput and of the parágrafo único). The new lines are today's lines with the rate replaced;
+    # each must be found word for word (spaces aside) in art. 510's text, or nothing is changed.
+    _R10931_2027 = [   # (unit, label or 'caput', start of the line, old words, new words)
+        ("art-04", "caput", "Art. 4º Para cada incorporação", "4% (quatro por cento)",
+         "1,92% (um inteiro e noventa e dois centésimos por cento)"),
+        ("art-04", "§ 6º", "§ 6º Para os projetos", "1% (um por cento)", "0,47% (quarenta e sete centésimos por cento)"),
+        ("art-04", "§ 8º", "§ 8º Para os projetos", "1% (um por cento)", "0,47% (quarenta e sete centésimos por cento)"),
+        ("art-08", "caput", "Art. 8º Para fins de repartição", "4% (quatro por cento)",
+         "1,92% (um inteiro e noventa e dois centésimos por cento)"),
+        ("art-08", "Parágrafo único", "Parágrafo único. O percentual", "1% (um por cento)",
+         "0,47% (quarenta e sete centésimos por cento)"),
+    ]
+    _E10931_2027 = {("art-04", "II -"), ("art-04", "IV -"), ("art-08", "I -"), ("art-08", "II -")}
+    L10931_USED: dict[str, list[str]] = {}
+
+    def _lc214_510_text() -> str:
+        if "ref" not in L10931_USED:
+            import html as _h
+            r = P.raw("law:lc-214-2025")
+            t = re.sub(r"\s+", " ", _h.unescape(re.sub(r"<[^>]+>", " ", P.decode(r[0])))) if r else ""
+            i = t.find("Art. 510. A Lei nº 10.931")
+            j = t.find("Art. 511.", i)
+            L10931_USED["ref"] = [re.sub(r"\s+", "", t[i:j]) if i >= 0 and j > i else ""]
+        return L10931_USED["ref"][0]
+
+    def _l10931_2027(paras, record):
+        D, L = "2027-01-01", "lc-214-2025"
+        if any(p.get("l10931_2027") for p in paras):
+            return
+        ref = _lc214_510_text()
+        for p in list(paras):
+            if p.get("skip") or p["heading"] or p["end"] is not None or p["unit"] not in ("art-04", "art-08"):
+                continue
+            if (p["unit"], p["label"]) in _E10931_2027:
+                p["end"], p["end_law"], p["end_how"], p["pinned"] = D, L, "repealed", True
+                if record:
+                    L10931_USED.setdefault("ended", []).append(f"{p['unit']} {p['label']}")
+                continue
+            for unit, lab, pre, old, new in _R10931_2027:
+                if p["unit"] != unit or not p["text"].startswith(pre) or old not in p["text"]:
+                    continue
+                if not ((_is_caput(p) and lab == "caput") or p["label"] == lab):
+                    continue
+                text = p["text"].replace(old, new, 1)
+                if re.sub(r"\s+", "", text) not in ref:
+                    if record:
+                        B8.SPAN_MISSED.append(f"{_L10931} {unit} {lab}: 2027 wording not found in Lei Complementar 214 art. 510")
+                    break
+                q = dict(p, text=text, start=D, start_law=L, end=None, end_law=None, end_how=None, pinned=True,
+                         notes=["(Redação dada pela Lei Complementar nº 214, de 2025)"], state="plain", l10931_2027=True)
+                p["end"], p["end_law"], p["end_how"], p["pinned"] = D, L, "successor", True
+                paras.insert(paras.index(p) + 1, q)
+                if record:
+                    L10931_USED.setdefault("rewritten", []).append(f"{unit} {lab}")
+                break
+
+    _span_fix10931 = B8.apply_span_fix
+
+    def _apply_span_fix_10931(paras, act_slug, record):
+        _span_fix10931(paras, act_slug, record)
+        if act_slug == _L10931:
+            _l10931_2027(paras, record)
+
+    B8.apply_span_fix = _apply_span_fix_10931
+    EXTRA.append("Lei 10.931 arts. 4 and 8 from 1.1.2027 (future branch): Lei Complementar 214/2025 art. 510 gives art. 4 caput "
+                 "the rate of 1,92% and §§ 6º and 8º the rate of 0,47%, and art. 8 caput and parágrafo único the same rates, "
+                 "and its art. 542 XXVI ('Ficam revogados a partir de 1º de janeiro de 2027: [...] XXVI - os seguintes "
+                 "dispositivos da Lei nº 10.931, de 2 de agosto de 2004: a) os incisos II e IV do caput do art. 4º ; e b) do "
+                 "art. 8º: 1. os incisos I e II do caput ; e 2. os incisos I e II do parágrafo único') revokes the incisos for "
+                 "the Contribuição para o PIS/Pasep and the Cofins; both in effect from 1.1.2027 (art. 544 III, as Lei "
+                 "Complementar 227/2026 worded it). Planalto's annotated page prints only 'Vide Lei Complementar nº 214' "
+                 "notes for them; the new lines are read on Lei Complementar 214's page, each checked word for word against "
+                 "its art. 510")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
