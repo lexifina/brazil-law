@@ -3070,3 +3070,90 @@ l3071), corpus.d/99-batch17zzzza.json + .PUBLISH, PROGRESS.md (+ checkpoint). ef
 jurisdiction.json unchanged. zzzzb is configured in PARTS but not published (no corpus.d file). Nothing running. Claim released.
 NEXT: CC 1916 (part zzzzb) TO DO items 1-10 above (item 1, the end model for an all-struck page, first).
 OPEN / DATED RE-CHECKS: unchanged from the forty-first handoff (the two DOU days are closed).
+
+## Forty-fifth session (2026-11-02): CC 1916 (part zzzzb) items 1, 3, 4 DONE, item 2 PARTLY; NOT PUBLISHED
+Claim taken at the start ('gitlaw-BR-45 alan-dell 2026-11-02T06:00Z'), released at the end. Scratch: .gitlaw-scratch/brazil-b44
+(before45/ = session-start copies of parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json,
+dupsame_allow.json, effects_fix.py, README.md, jurisdiction.json, PUBLISH, firstline.py, pipe.sh, both PROGRESS.md; logs45/;
+pids45.txt; new tools: rr.py (run.py + log print + PID record), sh.py (a shell read under run.py), bdiff45.py (diff vs
+before45), pu.py (one unit's paras from a dump), notes45.py, href45.py (2026 page note links), used45.py (CC16_USED
+counters), lx45.py (LexML: robots first, 6.5 s apart), ia45.py (archive.org: robots first, shared client)). cmp2002.py
+changed: 1916 'Paragrapho unico' / 'Parágrafo.único' and l-for-I numerals read as labels; LB (line split) and ORDER kinds
+shown; units in M._CC16_EXPLAINED (to be written, item 10) count as 'explained'.
+Requests: robots.txt of www.lexml.gov.br, archive.org, web.archive.org (b44/robots45/); LexML 1 record
+(urn:lex:br:federal:decreto:1919-01-15;3725, no challenge); archive.org 1 CDX + 1 capture (D20330.htm) through the shared
+client. No Common Crawl, no Arquivo.pt, no live Planalto, no challenge page.
+Trial t9 (b44/zzzzb-t9.json, logs45/t9.log, cmp9.txt): 0 problems (was 21), 29 versions; cmp2002 ok 1668, differ 57 (was
+89; 10 are LB line splits), only-2002 12, only-replay 2, + 21 Introdução units.
+### Done (parse_batch17.py, zzzzb block only: +254 -12, the 12 removed lines are this block's own trial code; effects_fix.py
+unchanged; sources_batch17.json +2 pins law:dec-3725-1919 (DPL3725-1919.htm, 20261018192140) and law:dec-20330-1931
+(decreto/1930-1949/D20330.htm, 20260801070244))
+1. End model (_cc16_key, _cc16_model): label path per line (caput / § or parágrafo único / inciso / alínea / item, read from
+   the text when the parser gives no label; l-for-I numerals; unlabelled caput lines are (1,'cont')). Ends: own note kept
+   ('note', 'twin', ...); (b) 'next-label' = the next wording of the same path (parágrafo único = § 1º; renum_from); (c)
+   'list-rewritten' = the line above rewritten the same day by the same law with a list of this kind from its first label;
+   'with-caput' for a 'cont' line whose caput is replaced and the new caput has none; (a) 'parent-revoked'; else repeal.
+   Headings no note/slot ends stand to the repeal (not the shared 'heads' rule). Print order (record=False pass): each
+   wording takes its first predecessor's place (arts. 186, 258, ...: 16 units reordered).
+3. Decreto 20.330/1931: B12.DECREES dec-20330-1931 (27.8.1931, DOU 1.9.1931 from its page footer, title from the page),
+   VIGENCIA_FIXED 4.9.1931 (Introdução art. 2, three days). art. 9 parágrafo único -> § 1º, § 2º added: cmp ok.
+4. 'Lei nº 4.123, de 1962' (5 notes): link L4121.htm#art1; Lei 4.121 art. 1 gives art. 246 parágrafo único, 263 XII-XIII,
+   269 III-IV these lines -> NOTE_FIX to Lei 4.121 with reason. Also art. 263 XI's second line 'Redação dada pelo Decreto nº
+   3.725, de 1919' (inside 4.121's recast list, words = Lei 4.121 art. 1's XI) -> NOTE_FIX to Lei 4.121, reason given.
+2 (part). Decreto 3.725/1919: LexML record 'Publicação Original 1919-01-19 Diário Oficial da União. Seção 1. 19/01/1919. p.
+   1084' (cached .cache, fetch.get); no vigência clause (art. 4 only revokes; arts. 1-2 order the corrected edition) ->
+   VIGENCIA_FIXED 22.1.1919 (LICC 1916 = Introdução art. 2, three days, Distrito Federal); B12.DECREES dec-3725-1919;
+   NOTE_FIX of the 6 misprinted forms (all their links open DPL3725-1919.htm: href45.py). Annotation lines (decree
+   instructions printed unstruck in arts. 10, 137, 642) dropped in _paragraphs_cc16 (CC16_USED['annot']). Strike class per
+   line ('cc16_cls': css / tag / none / mixed, from a second read with the CSS removed). _cc16_decree_units(): the 189
+   articles art. 3 corrects (Introdução items keyed art-in-). FINDING: the 2026 page almost never prints both wordings:
+   only 2 'dec-pair' (1916 css line then a corrected <strike> line, no note: arts. 139 and one more) -> corrected line
+   starts 22.1.1919 credited to the decree; 138 'tag-alone-listed' lines = ONE wording printed, struck by <strike>, no note,
+   in an article the decree corrects (mostly the 1916 words; some already corrected, e.g. art. 10), and 7
+   'tag-alone-unlisted' (arts. 6 par. único, 9 par. único (20.330), 332, 346, 413 VI, 883, 1.605 § 1º). These keep the
+   printed wording 1917 -> repeal (coordinator's reading) and need a decision line.
+### TO DO for zzzzb (exact; publish only when every item is closed)
+2 (rest). a) Decision line for the tag-alone lines (CC16_USED 'tag-alone-listed'/'-unlisted'): Planalto prints one
+   wording, struck by <strike> without a note, where Decreto 3.725/1919 corrected the article; the corrected text is not
+   on the page, so the printed wording stands 1917 -> repeal. Read the 7 unlisted ones (332, 346, 413 VI, 883, 1.605 § 1º:
+   another law? 1.605 § 1º is absent in 2002). b) Whole-dispositivo suppressions the decree orders and the page strikes
+   by <strike> (art. 1.372 parágrafo único 'Supprima-se'): end on 22.1.1919 credited to the decree (dated change from
+   official text) - decide case by case; art. 1.786 par. único / 1.787 (decree: 1.787 suppressed, 1.786 par. único becomes
+   art. 1.787) and art. 243 par. único (moved to art. 245 in 2002) are NOT printed in corrected form: keep as printed +
+   decision. c) art. 220: 'none' line 'A anulação ... nºs I, II e III, só poderá demandar o outro cônjuge e, no caso do
+   nº IV, só o marido' (unstruck, no note) + tag line 'A annullação ... o conjuge enganado' both alive (doubled): find the
+   law of the unstruck wording (2002 has the 'cônjuge enganado' wording!), likewise art. 340 (unstruck caput). d) Mixed
+   lines by hand: art. 179 'X. (Eliminado pelo Decretoi ...)' (NOTE_FIX is in place, but the note is inside the struck
+   text: rubrica line), 443 III, 458, 624 caput and par. único. e) art. 35 §§ 3º-4º 'Renumerado do § 1º/§ 2º' start
+   22.1.1919 with no 1917 wording on the page: before 22.1.1919 the old §§ 1º-2º are missing - placeholder line '[A fonte
+   não dá o texto vigente nesta data.]' 1917 -> 22.1.1919 (coordinator rule) or decision. f) Introdução art-in-0005 and
+   art-in-0020 par. único are tag-alone-listed (3.725 corrects them): fold into item 7.
+5-10: unchanged from the forty-fourth session's list above (5 unit keys: art-0001 doubled 'Art. 1. 400' (= art. 1.400,
+   only-2002), 'Art. 1.1504.' (art-11504), 332/333, 1.656-1.669 testamento run, 1.719/1.720; 6 art-0693 restore (no
+   longer a problem line in t9: re-check), 1.723/1.787 ratios, preambulo/titulos; 7 Introdução; 8 pre-1917 folds; 9 every
+   law's in-force day (watch: art. 134 §§ 1º-5º 'Incluído pela Lei nº 6.952, de 1981' start 1973-11-10 in t7: a wrong day
+   or key, check lawdays); 10 pipe.sh x2, dupsame/uniqlaws, merged check, README row, jurisdiction.json, PUBLISH, and the
+   decision lines: the end model, the print-order rule, 3.725/20.330/4.121 days and NOTE_FIXes, _CC16_EXPLAINED (the
+   cmp2002 differences left: LB line splits, ORDER (art. 248 par. único after IV in 2002), retyping, 3.725 not printed)
+   replacing the built-in REPEAL CHECK line (still 1208 articles in t9's log).
+Remaining cmp2002 DIFF units in t9 (57): 0001 0035 0040 0152LB 0159LB 0179 0194 0195LB 0220 0243 0245 0248 0267 0368 0500
+0521 0615 0617 0762LB 0770LB 0772LB 0802 0814LB 0817 0825LB 0889 0904LB 0910 1067 1081LB 1119 1164 1183 1229 1298 1372 1380
+1381 1399 1409 1515 1521 1522 1566 1605 1658 1660 1664 1668 1671 1719 1723 1728 1779LB 1786 1787 preambulo; only-2002:
+0333 1400 1504 1659 1661-1663 1665-1667 1669 1720; only-replay 0332 11504.
+- PIDs (all mine, foreground through run.py via rr.py; all exited): setup45 53344, ls1 38572 (rc 2) 51948, ls2 27292, ls3
+  10108, g1 20816, g2 47424, pu1 33416 (rc 1) 16392, c1 29676, bd1 12096, t6 6816 30064, cmp6 9240, cmp6s 51552, pd6 43676,
+  pu2 35112, c2 9280, t7 45608, cmp7 49156, pd7 42836, pu3 37780, t8 52968, cmp8 20160, cmp8s 27756, c3 40144, c4 27352,
+  lt1 49672, c5 12792, lx1 33408 (LexML), lt2 17088, n1 43408, c6 29188, pd8 14708, pu4 26740, c7 53424, h1 25864, g3
+  20832, u1 30132, u2 26224, c8 33396, c9 33368, ia1 19916 (archive.org), lt3 45404, lt4 21248, g4 49308, g5 49508, t9
+  33788, cmp9 47296, cmp9s 45328, bd2 16916, sd1 7304, then the handoff's pids/release runs (see pids45.txt). Outside the
+  wrappers (mistakes, small local reads/writes, no network): at the start one ls of b44 and b44/tools + a cat of the
+  missing claim file; ls/cat/head of brazil-law, batch17/.tmp/pipe.sh, run.py, setup.py, release.py and the first
+  PROGRESS lines; a 'which cpuwait low.py'; one mkdir of logs45; one sed writing tools/bdiff45.py; small python -c / head
+  reads of my own logs45 files (cmp lists, lt2/lt4 logs, pids45.txt). Nothing running.
+
+## State at handoff (batch 17, forty-fifth session, 2026-11-02)
+Nothing installed or published this session; installed state unchanged: 296 acts, 4046 versions, 2826 commits (check 0/0,
+compare identical, audit clean as at the forty-fourth handoff). zzzzb configured in PARTS, trial t9 only, no corpus.d file.
+Files changed: parse_batch17.py (zzzzb block, +254 -12 vs b44/before45), sources_batch17.json (+2 pins), PROGRESS.md (+
+checkpoint), this file. effects_fix.py, law_records.json, dupsame_allow.json, README, jurisdiction.json unchanged.
+NEXT: zzzzb TO DO 2 (rest, a-f), then 5-10, in order.
