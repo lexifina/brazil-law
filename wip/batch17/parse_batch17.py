@@ -8472,6 +8472,9 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
                 for q in paras[max(0, i - 2): i]:
                     if q["heading"]:
                         q.update({"start": "1995-09-15", "start_law": "lei-9079-1995", "pinned": True})
+            elif p["heading"] and p["state"] == "plain" and t == ")" and paras[i - 1]["heading"]:
+                # the closing parenthesis of 'TÍTULO V / DA REMIÇÃO (Revogado pela Lei nº 11.382, de 2006)', left as a line
+                p.update({"skip": True, "pinned": True, "end_how": "marker"})
             elif (p["heading"] and p["state"] == "struck" and t == "DOS EMBARGOS À ARREMATAÇÃO E À ADJUDICAÇÃO"
                   and i and paras[i - 1]["heading"] and P.norm(paras[i - 1]["text"]) == "CAPÍTULO IV"):
                 for q in (paras[i - 1], p):
