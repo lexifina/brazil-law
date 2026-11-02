@@ -4429,3 +4429,97 @@ TO DO: Lei 12.546 a)-g) above (articles), then the annexes, then the rest of the
 FOR THE COORDINATOR: (1) README reworded (docs only, ships with the next install); (2) mp-794-2017-fim's shared lapse text names
 Lei 10.865 art. 8 § 21; reword to name no act (re-PUBLISH zzzzm with it) before zzzzn ships, or confirm it stays.
 OPEN / DATED RE-CHECKS unchanged.
+
+## Sixtieth session (2026-11-02): mp-794-2017-fim reworded, zzzzm re-PUBLISHED; Lei 12.546 (zzzzn) items b, e, f and part of a done; still TRIAL
+Claim taken at the start ('gitlaw-BR-60 alan-dell 2026-11-02T16:22Z', setup60.py through rr60/run.py, PID 18456), released at the
+end (finish60b.py). Scratch: .gitlaw-scratch/brazil-b44 (before60/ = session-start copies, same set as before59/); logs60/ (n5, n6
+= trials, zzzzn-t5/t6.json their parts; sp1, sp2 = spans dumps (sp2 = the final state); pd1/sd1 = zzzzm part diff; inst1; fb1 =
+final build); pids60.txt; edits60/ (spec-a by hand, mk1.py -> spec-b, spec-c and spec-d by hand; all applied by ed60.py through
+run.py; session60.md = this text). New tools: mk60.py (59 -> 60 copies, run through run.py directly), sdiff60.py (the differing
+middle of one decision string), rw60.py (full rows of a spans dump by row number), install60a.py (re-install of zzzzm),
+finish60b.py (handoff). Requests: none (no network of any kind; every page read was cached). No Common Crawl, no LexML, no
+Arquivo.pt, no archive.org, no STF, no live Planalto, no challenge page.
+
+### 1. Coordinator decision: mp-794-2017-fim (DONE, zzzzm re-PUBLISHED)
+- Both copies of P.MP_LAPSE['mp-794-2017'] (zzzzm block and zzzzn block, word for word) now end "...'teve seu prazo de vigência
+  encerrado no dia 6 de dezembro do corrente ano'; the provisions it had revoked apply again from 7.12.2017" (was: "Medida
+  Provisória 794 had revoked Medida Provisória 774/2017 (art. 1), whose revocation of Lei 10.865 art. 8 § 21 applies again from
+  7.12.2017 until Medida Provisória 774 itself lost effect"). Names no act, as mp-601 (session 50). No other part carries the key.
+- pipe.sh zzzzm (alone, background): e43842eb x2, 0 problems, 9 diff units (all EXPLAINED as session 58), checks as session 58
+  (dupline 23 / dupcheck 3 / leakcheck 3 / ordercheck 1 / quotecheck / missorig = the same law-text flags), uniqlaws 0 (688 keys,
+  155 parts), dupsame 0 (9 allowlisted), overlap SAME 5 (repeated incisos), merged 308 acts, 4285 versions, 2950 commits, check
+  0/0, --compare identical, audit_push clean main + futuro. eff 1a4fbcc9.
+- Part diff (pdiff60, installed 6d5a55a2 vs new): 2 leaves: laws.mp-794-2017-fim.note and decisions[27] (the MP-fate sentence
+  quoting that note; sdiff60: only the quoted lapse text). install60a.py: corpus.d/99-batch17zzzzm.json = 1a4fbcc9, .PUBLISH +1
+  line. README row and jurisdiction.json unchanged (78 versions; 308 acts / 4285 versions). fb1 (installed folder): 308 acts,
+  4285 versions, 2950 commits, check 0/0, --compare identical, audit_push clean main + futuro.
+
+### 2. Lei 12.546 (zzzzn), still TRIAL (no corpus.d/99-batch17zzzzn.*; nothing published). Done in parse_batch17.py:
+- b) block 'part zzzzn, sixtieth session' (before SRC): _MARK12546 strips trailing 'Sem eficácia', 'Produção de efeito(s)
+  (e vigência)', 'Vigência encerrada', 'Vigência' (with or without brackets) from the lines of BOTH l12546 and l12546-compilado
+  (the consolidated page carries them too); a struck line left with an empty plain part is read as struck; L12546_FIXED counts.
+  EXTRA decision line. Effect: the art. 7 II (hoteleiro) pairing now works (the first copy's text carried 'Produção de efei...'),
+  and the consolidated placeholders '§ 3º/§ 4º Produção de efeito e vigência' (art. 7) and the art. 8 I-V '(revogado);' lines no
+  longer differ.
+- e) EXTRA decision line on ADI 7.633 (not shown, record not read; as LC 97's ADI 6.457) and B13.OPEN_ITEMS[_L12546] (the ADI
+  markers after art. 7 and art. 8 caput in Lei 14.784's wording; 'Vide' MPs 563, 582, 669, 794, 1.202, 1.208, Lei 13.161, LC 214).
+- f) _FUT2027[_L12546]: arts. 1-3, 47-A, 47-B end 1.1.2027 on futuro (LC 214 art. 542 LI a) and b), read on LC 214's page);
+  B8.EXTRA_LAWS['lc-214-2025'] word for word as zzzzm's record.
+- a) (part) whole-act days: VIGENCIA_FIXED mp-563-2012 = 1.8.2012 (art. 54 § 2º: arts. 43-46, and art. 53 III, the same day;
+  its arts. 45 (arts. 7-10), 46 (Anexo) and 53 III are all its changes to Lei 12.546) and lei-13670-2018 = 1.9.2018 (art. 11 I:
+  arts. 1-2 and art. 12 II, all its changes and revocations in Lei 12.546, Anexos I and II included). Checked in sp2: every
+  MP 563 line starts/ends 1.8.2012, every Lei 13.670 line 1.9.2018 (art. 9 VIII has a zero-length 13.670 copy 1.9..1.9.2018).
+- Trial n6: 640 paragraphs, 33 versions, 0 problems, 3 units differ (art-07: § 10 and § 9 II-VI in Lei 14.973's wording, the
+  consolidated page prints the older wording; art-08: '§ 10. (VETADO).' only in the replay; art-09: 'IV' only in the consolidated
+  page).
+
+### TO DO for Lei 12.546 (exact; in this order)
+  a) rest, line-level days (set on the lines with an expected count per row, as _EFF58 in zzzzm), each re-read on its page:
+     - art. 52 § 3º: the Lei's own art. 7 §§ 3º-5º and art. 8 III-V from 1.4.2012 (rows 119-123 and 171-175 of logs60/sp2.json
+       start 2011-12-15; art. 7 § 5º has no law so lw60 '[a-z]' hides it: use 'orig').
+     - MP 563 art. 53 IV: arts. 5 and 6 revoked from 1.1.2013 (not covered by the 1.8.2012 whole-act day).
+     - Lei 12.715 art. 78 § 2º II: art. 7 III and art. 8 § 3º (with incisos I-X) from 1.1.2013 (start 2012-09-18 now); the rest
+       of arts. 53-56 keep publication (1.8.2012 is before it; effects 'a partir de sua regulamentação' keep the in-force day,
+       coordinator rule); III/IV concern Anexo codes (annex work).
+     - MP 601 art. 7 I: art. 3, art. 8 § 1º II c) and art. 9 II on publication 28.12.2012 (VIGENCIA_FIXED gives 1.4.2013 now:
+       rows 185 'c)' etc.).
+     - Lei 12.844 art. 49 II a) (art. 7 IV, art. 8 caput, § 4º, § 3º XI-XII: 1.11.2013), IV a)-b) (art. 7 V-VII, art. 8 § 3º
+       XIII-XVI and § 10: 1.1.2014); I (retroactive, publication kept); art. 50 II revocations on publication.
+     - MP 612 art. 28 II (art. 7 V-XI, art. 8 § 3º XIII-XX and § 6º from 1.1.2014, after its lapse 2.8.2013): never in effect
+       (skip, end_how never-in-effect, as MP 413 art. 16 in zzzzm); rows 96-111, 206-220, 230 now run 4.4-19.7.2013.
+     - MP 582/Lei 12.794 (art. 21 I: 1.1.2013, before publication 3.4.2013): rows 95-110 show '(VETADO)' lines from 1.1.2013
+       credited to Lei 12.794: check (Lei 12.794 published 3.4.2013; its lines cannot start 1.1.2013 unless they are MP 582's).
+     - not read yet: MP 651/Lei 13.043 (2014), Lei 12.873 (art. 8 § 11 from 25.10.2013), Lei 12.995 (2014), Lei 13.202, Lei
+       14.020, Lei 14.784 art. 7, Lei 14.973 (staged reoneração, art. 7-A/8-A rates, art. 9-A/9-B): dump their pages with txt60.py
+       (pins law:<key>) and read each 'entra em vigor' clause (vig60.py with VIGPAT=12\.546).
+  NEW (found this session) MP 774 first copies in art. 8 not paired: rows 167-240 of sp2 (art. 8 I-V '(revogado)' first copies
+     skipped, but § 1º-§ 11 first copies carry 'Revogado pela Medida Provisória nº 774' and end by other rules: 'run-revoked' at
+     19.7.2013 (rows 180-200, 187-189) or no end (rows 186, 202, 204, 207-216, 224-240)); their second copies are rows 275-314
+     (ending 1.9.2018 by Lei 13.670). _mp774_12546 pairs only lines whose end_law is mp-774-2017: widen it to lines whose notes
+     carry '(Revogado pela Medida Provisória nº 774, de 2017)' and match on unit/label/text (Lei 12.844's and Lei 13.161's
+     wordings must pair with their own second copies), then check that no line overlaps (overlap.py SAME) and that art. 8 from
+     2012 to 2018 reads once.
+  c) the 3 diff units: art-07 § 9 II-VI and § 10 (Lei 14.973's wording; the consolidated page, captured 12.10.2026, prints the
+     older wording: EXPLAINED after checking 14.973's own text); art-08 '§ 10. (VETADO).' (Lei 12.844 art. 49 IV b) names a §
+     10: read whether the veto leaves a printed line); art-09 'IV' (only in the consolidated page: find the line).
+  d) MP 556 (art. 2 §§ 8º-11, 26.12.2011 to 31.5.2012, then the Lei's § 8º again to Lei 12.688's day): check in sp2 (art-02).
+  g) PARTS comment, then pipe.sh zzzzn, rows-zzzzn.json + docs.py, jurisdiction.json, PUBLISH (only if the act is coherent with
+     the annexes held back and a decision line; else hold).
+TO DO for the annexes (not started): unchanged from the fifty-ninth session's list (MP 563's Anexo, Anexo I in MP 601's and in
+Lei 12.844's wording, each dated by its own act, Anexo II (CNAE), a note per code, revoked 1.9.2018 by Lei 13.670 art. 12 II c)
+with the MP 774/794 gaps). Must replay exactly; else hold with a decision line.
+- PIDs (all mine, all exited): pids60.txt (mk60 17640 through run.py directly; every rr60 run with its PID; pipe.sh zzzzm as a
+  background task with run.py PIDs 53192, 42968, 33292, 25572, 45520, 18192, 44976; fb1 as a background rr60 run; two waits of
+  mine on fb1's output, an until-loop and a Monitor, both ended). Outside the wrappers (slips, no network): `cat`/`tr`/`grep`/
+  `head`/`cut`/`awk`/`sed` on logs, page texts and parser lines; `echo >> pids60.txt.new`; `> /dev/null` on the ut1 run and
+  `| cut` on rr60 output of lw1/lw2; heredocs writing spec-c.json, spec-d.json and rw60.py. Every parser edit went through
+  ed60.py under run.py.
+
+## State at handoff (batch 17, sixtieth session, 2026-11-02)
+RE-PUBLISHED: part zzzzm (1a4fbcc9; only the mp-794-2017-fim note and the decision sentence quoting it changed). Installed: 308
+acts, 4285 versions, 2950 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws 0; dupsame 0.
+Files changed: parse_batch17.py (mp-794 lapse text in two blocks; zzzzn sixtieth-session block: markers, ADI 7633, OPEN_ITEMS,
+LC 214 futuro, MP 563 and Lei 13.670 days), corpus.d/99-batch17zzzzm.json + .PUBLISH, PROGRESS.md, this file. No
+corpus.d/99-batch17zzzzn.* exists. Claim released.
+TO DO: Lei 12.546 a) rest, the MP 774 art. 8 pairing, c), d), g), then the annexes; then the rest of the ranked list.
+OPEN / DATED RE-CHECKS unchanged.

@@ -896,7 +896,7 @@ PARTS: dict[str, list[str]] = {
     "zzzzl": ["lei-9532-de-1997"],
     # fifty-fifth to fifty-eighth sessions
     "zzzzm": ["lei-10865-de-2004"],
-    # fifty-ninth session (TRIAL, not published)
+    # fifty-ninth to sixty-first sessions (articles; the Anexos held back)
     "zzzzn": ["lei-12546-de-2011"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
@@ -11250,7 +11250,8 @@ if any(a["slug"] == _L12546 for a in ACTS):
                       "quanto aos arts. 1º e 2º, e ao inciso II do caput do art. 12' (DOU 30.5.2018, edição extra): its art. 1 "
                       "and art. 12 II, the changes to Lei 12.546 and the revocations in it, from 1.9.2018")
     B13.OPEN_ITEMS[_L12546] = (
-        "Lei 12.546 (open items): Planalto's '(Vide ADI 7633)' markers after art. 7 caput and art. 8 caput (Lei 14.784/2023's "
+        "Lei 12.546 (open items): the Anexos I and II (NCM codes and the list of art. 8 § 3º XII, revoked from 1.9.2018) "
+        "are not part of the history yet; Planalto's '(Vide ADI 7633)' markers after art. 7 caput and art. 8 caput (Lei 14.784/2023's "
         "wording) point to the Supremo Tribunal Federal's judgment in that case, whose effect on the text could not be read "
         "(its record was not read): the judgment is not modelled; 'Vide' pointers (among them Medidas Provisórias 563/2012, "
         "582/2012, 669/2015, 794/2017, 1.202/2023 and 1.208/2024, Lei 13.161/2015 and Lei Complementar 214/2025) strike no "
@@ -11270,6 +11271,218 @@ if any(a["slug"] == _L12546 for a in ACTS):
         "tributária.", "kind": "law", "enacted": "2025-01-16", "published": "2025-01-16",
         "url": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp214.htm", "temporary_until": None, "restores": None,
         "note": None}
+
+# part zzzzn, sixty-first session: in-force days read on each amender's page (Lei 12.794 and Lei 12.688 by act, Lei 14.020's
+# promulgated art. 33 by provision), line-level effect days, Medida Provisória 612's lines that never took effect, the
+# Medida Provisória 774 pairing of art. 8's first copies (§§ 1º to 11), and the units that differ from the consolidated page
+L12546_EFF61: dict = {}
+L12546_774B_OPEN: list[str] = []
+if any(a["slug"] == _L12546 for a in ACTS):
+    P.VIGENCIA_FIXED["lei-12794-2013"] = (
+        "2013-04-03", "art. 21: 'Esta Lei entra em vigor: I - a partir de 1º de janeiro de 2013, em relação aos arts. 1º a 3º, "
+                      "14, 15, 17, 18 e 20 desta Lei [...]; e II - na data de sua publicação para os demais dispositivos' (DOU "
+                      "3.4.2013): its arts. 1 and 2, the changes to Lei 12.546, reach back to 1.1.2013; a retroactive start "
+                      "keeps the day of publication, 3.4.2013")
+    P.VIGENCIA_FIXED["lei-12688-2012"] = (
+        "2012-07-19", "art. 36: 'Esta Lei entra em vigor: [...] III - a partir de 1º de junho de 2012, quanto ao disposto no art. "
+                      "30; IV - na data de sua publicação, em relação aos demais artigos' (DOU 19.7.2012): its art. 32, the "
+                      "change to Lei 12.546 art. 2, falls under IV")
+    _W14020 = ("Lei 14.020/2020 art. 33, promulgated after the veto was overridden (DOU 6.11.2020, edição extra; printed on "
+               "Lei 14.020's page as 'Promulgação partes vetadas'); Lei 14.020 art. 39: in force on publication")
+    P.VIGENCIA_PROVISION.update({("lei-14020-2020", _L12546, u): ("2020-11-06", _W14020) for u in ("art-07", "art-08")})
+    B5.PROVISION_REPORTED.add(("lei-14020-2020", _L12546))   # explained by the EXTRA line below
+    # Medida Provisória 601/2012 art. 7 I: its wording of art. 3, art. 8 § 1º II c) and art. 9 II in force on publication
+    # (DOU 28.12.2012); in art. 8 its other lines are set back to 1.4.2013 (art. 7 III) below
+    _W601 = ("Medida Provisória 601/2012 art. 7 I (on publication, DOU 28.12.2012, for its changes to art. 3, art. 8 § 1º II "
+             "c) and art. 9 II)")
+    P.VIGENCIA_PROVISION.update({("mp-601-2012", _L12546, u): ("2012-12-28", _W601) for u in ("art-03", "art-08", "art-09")})
+    B5.PROVISION_REPORTED.add(("mp-601-2012", _L12546))   # explained by the EXTRA line below
+
+    # (unit, label(s) or None, text regex or None, side, law, day printed, effect day, lines expected); skipped lines
+    # are not counted (after the pairing below)
+    _EFF61 = [
+        # Lei 12.546 art. 52 § 3º: art. 7 §§ 3º to 5º and art. 8 III to V of the Lei's text from 1.4.2012
+        ("art-07", ("§ 3º", "I -", "II -", "§ 4º", "§ 5º"), None, "start", None, "2011-12-15", "2012-04-01", 5),
+        ("art-08", ("III -", "IV -", "V -"), None, "start", None, "2011-12-15", "2012-04-01", 3),
+        # Lei 12.715/2012 art. 78 § 2º II: art. 7 III and art. 8 § 3º (with its incisos) from 1.1.2013
+        ("art-07", ("III -",), None, "start", "lei-12715-2012", "2012-09-18", "2013-01-01", 1),
+        ("art-08", ("§ 3º",), None, "start", "lei-12715-2012", "2012-09-18", "2013-01-01", 1),
+        ("art-08", None, r"(?:I|II|III|IV|V|VI|VII|VIII|IX|X) - de ", "start", "lei-12715-2012", "2012-09-18", "2013-01-01", 10),
+        # Medida Provisória 601/2012 art. 7 III: its other changes to art. 8 from 1.4.2013 (art. 8 is dated 28.12.2012
+        # by provision above, for § 1º II c))
+        ("art-08", ("Art. 8º", "XI -", "XII -", "§ 4º", "§ 5º"), None, "start", "mp-601-2012", "2012-12-28", "2013-04-01", 5),
+        ("art-08", ("Art. 8º", "§ 4º"), None, "end", "mp-601-2012", "2012-12-28", "2013-04-01", 2),
+        # Lei 12.844/2013 art. 49 II a): art. 7 IV, art. 8 caput, § 3º XI and XII and § 4º from 1.11.2013
+        ("art-07", ("IV -",), r"IV - as empresas ", "start", "lei-12844-2013", "2013-07-19", "2013-11-01", 1),
+        ("art-08", ("Art. 8º", "XI -", "XII -", "§ 4º"), None, "start", "lei-12844-2013", "2013-07-19", "2013-11-01", 4),
+        ("art-08", ("Art. 8º", "§ 4º"), None, "end", "lei-12844-2013", "2013-07-19", "2013-11-01", 2),
+        # Lei 12.844 art. 49 IV a) and b): art. 7 V to VII, art. 8 § 3º XIII to XVI and § 10 from 1.1.2014
+        ("art-07", ("V -", "VI -", "VII -"), r"(?:V|VI|VII) - as empresas ", "start", "lei-12844-2013", "2013-07-19",
+         "2014-01-01", 3),
+        ("art-08", ("XIII -", "XIV -", "XV -", "XVI -", "§ 10"), None, "start", "lei-12844-2013", "2013-07-19", "2014-01-01", 5),
+        # Lei 13.043/2014 art. 113 IV a): art. 7 XII and XIII from 1.3.2015
+        ("art-07", ("XII -", "XIII -"), None, "start", "lei-13043-2014", "2014-11-14", "2015-03-01", 2),
+    ]
+    # Lei 12.794's '(VETADO)' lines whose successor is Medida Provisória 612's wording that never took effect:
+    # (unit, labels, end day, end law, end_how, lines expected)
+    _VET61 = [
+        ("art-07", ("V -", "VI -", "VII -"), "2014-01-01", "lei-12844-2013", "successor", 3),
+        ("art-07", ("VIII -", "IX -", "X -", "XI -"), "2013-07-19", "lei-12844-2013", "repealed", 4),
+        ("art-08", ("XIII -", "XIV -", "XV -", "XVI -"), "2014-01-01", "lei-12844-2013", "successor", 4),
+        ("art-08", ("§ 6º",), "2013-07-19", "lei-12844-2013", "successor", 1),
+    ]
+    _MP612_7 = {"V -", "VI -", "VII -", "VIII -", "IX -", "X -", "XI -"}
+    _MP612_8 = {"XIII -", "XIV -", "XV -", "XVI -", "XVII -", "XVIII -", "XIX -", "XX -", "§ 6º"}
+    _R774 = "Revogado pela Medida Provisória nº 774"
+
+    def _eff61_12546(paras, record):
+        rows = [p for p in paras if not p["heading"]]
+        n: dict = {}
+
+        def bump(k):
+            n[k] = n.get(k, 0) + 1
+        # Medida Provisória 612 art. 28 II: art. 7 V to XI, art. 8 § 3º XIII to XX and § 6º from 1.1.2014, after it lost
+        # effect (2.8.2013): never in effect (Lei 12.844 took them over)
+        for p in rows:
+            if p.get("start_law") == "mp-612-2013" and (
+                    (p["unit"] == "art-07" and p["label"] in _MP612_7) or (p["unit"] == "art-08" and p["label"] in _MP612_8)):
+                p.update(skip=True, pinned=True, end_how="never-in-effect", mp612_28=True)
+                bump("mp612 " + p["unit"])
+        # art. 8 §§ 1º to 11: the first copies (with '(Revogado pela Medida Provisória nº 774, de 2017)') of the wordings
+        # Planalto prints again after Medida Provisória 774's lines; the second copy keeps the earlier start and the gaps
+
+        def key(p):
+            return p["unit"], p["label"], B8._norm(p["text"])
+
+        def has774(p):
+            return any(_R774 in x for x in (p.get("notes") or []))
+        for i, p in enumerate(rows):
+            if p.get("skip") or not has774(p):
+                continue
+            later = [q for q in rows[i + 1:] if not q.get("skip") and not has774(q) and key(q) == key(p)
+                     and q.get("start_law") == p.get("start_law")]
+            if later:
+                q = later[0]
+                if p["start"] < q["start"]:
+                    q["start"] = p["start"]
+                q["pinned"] = True
+                if not q.get("gaps") and q["start"] < "2017-07-01" and (q.get("end") is None or q["end"] > "2017-07-01"):
+                    q["gaps"] = list(_G774_12546)
+                p.update(skip=True, pinned=True, mp774b=True)
+                bump("774 paired")
+            elif not p.get("gaps") and (p.get("end") is None or p["end"] > "2017-03-30"):
+                if record:
+                    x = f"{p['unit']} [{p['label']}] {p['text'][:60]!r}"
+                    L12546_774B_OPEN.append(x)
+                    B8.SPAN_MISSED.append(f"{_L12546} Medida Provisória 774 (art. 8): no second copy of {x}")
+        # the wording Medida Provisória 774 replaced (art. 8 caput, art. 8-A) runs, outside the gaps, to the next wording
+        for p in rows:
+            if p.get("skip") or not p.get("gaps") or p.get("end_law") != "mp-774-2017":
+                continue
+            nxt = sorted((q for q in rows if q is not p and not q.get("skip") and q["unit"] == p["unit"]
+                          and q["label"] == p["label"] and (q.get("start") or "") >= "2017-12-09"), key=lambda q: q["start"])
+            if nxt:
+                p.update(end=nxt[0]["start"], end_law=nxt[0]["start_law"], end_how="successor", pinned=True, end774=True)
+        # Medida Provisória 774 art. 3 ('produzindo efeitos a partir do primeiro dia do quarto mês subsequente ao de sua publicação'):
+        # its revocations too take effect on 1.7.2017, so a revoked line's gap 30.3-9.12.2017 is the model's two gaps
+        for p in rows:
+            g = p.get("gaps") or []
+            if not p.get("skip") and any(x[0] == "2017-03-30" and x[1] == "2017-12-09" for x in g):
+                p["gaps"] = [x for x in g if not (x[0] == "2017-03-30" and x[1] == "2017-12-09")] + list(_G774_12546)
+                p.update(pinned=True, gap774=True)
+        for i, (u, labs, rx, side, law, old, new, k) in enumerate(_EFF61):
+            for p in rows:
+                if (p.get("skip") or p["unit"] != u or (labs is not None and p["label"] not in labs)
+                        or p.get(side + "_law") != law or p.get(side) != old
+                        or (rx and not re.match(rx, P.norm(p["text"])))):
+                    continue
+                p[side], p["pinned"], p["eff61_" + side] = new, True, i
+                bump(i)
+        for i, (u, labs, day, law, how, k) in enumerate(_VET61):
+            for p in rows:
+                if (p.get("skip") or p["unit"] != u or p["label"] not in labs or p.get("start_law") != "lei-12794-2013"
+                        or "(VETADO)" not in P.norm(p["text"])):
+                    continue
+                p.update(end=day, end_law=law, end_how=how, pinned=True, vet61=i)
+                bump("vet%d" % i)
+        # Medida Provisória 582/2012's wording of art. 9 § 1º II (1.1.2013) gives way to Lei 12.794's on 3.4.2013
+        for p in rows:
+            if not p.get("skip") and p["unit"] == "art-09" and p["label"] == "II -" and p.get("start_law") == "mp-582-2012":
+                p.update(end="2013-04-03", end_law="lei-12794-2013", end_how="successor", pinned=True)
+                bump("582 end")
+        if record:
+            for k, v in n.items():
+                L12546_EFF61[k] = L12546_EFF61.get(k, 0) + v
+            want = {i: r[7] for i, r in enumerate(_EFF61)}
+            want.update({"vet%d" % i: r[5] for i, r in enumerate(_VET61)})
+            n["774 end"] = sum(1 for p in rows if p.get("end774"))
+            n["774 gaps"] = sum(1 for p in rows if p.get("gap774"))
+            # (the art. 8 caput / art. 8-A ends are set in the second pass, after the date-order rewrites: checked in
+            # the spans dump, not counted here)
+            want.update({"mp612 art-07": 7, "mp612 art-08": 13, "774 gaps": 12, "582 end": 1})
+            for k, v in want.items():
+                if n.get(k, 0) != v:
+                    B8.SPAN_MISSED.append(f"{_L12546} session-61 rule {k}: {n.get(k, 0)} lines, {v} expected")
+
+    _span_fixL12546b = B8.apply_span_fix
+
+    def _apply_span_fix_l12546b(paras, act_slug, record):
+        _span_fixL12546b(paras, act_slug, record)
+        if act_slug == _L12546:
+            _eff61_12546(paras, record)
+
+    B8.apply_span_fix = _apply_span_fix_l12546b
+    EXTRA.append(
+        "Lei 12.546, effect days read in the Lei and in each amending act and set on the lines: the Lei's art. 52 § 3º (art. "
+        "7 §§ 3º to 5º and art. 8 III to V from 1.4.2012); Lei 12.715/2012 art. 78 § 2º II (art. 7 III and art. 8 § 3º, with "
+        "its incisos, from 1.1.2013; its other changes, which § 2º puts in force on 1.8.2012, before its publication, start "
+        "on publication, 18.9.2012); Medida Provisória 601/2012 art. 7 I (its wording of art. 3, art. 8 § 1º II c) and art. "
+        "9 II on publication, 28.12.2012; its other changes from 1.4.2013); Lei 12.794/2013 art. 21 I (its arts. 1 to 3 from "
+        "1.1.2013, before its publication: publication kept, 3.4.2013, so Medida Provisória 582/2012's wording of art. 9 § "
+        "1º II stands from 1.1.2013 to then); Lei 12.844/2013 art. 49 II a) (art. 7 IV, art. 8 caput, § 3º XI and XII and § "
+        "4º from 1.11.2013) and IV a) and b) (art. 7 V to VII, art. 8 § 3º XIII to XVI and § 10 from 1.1.2014; its art. 49 "
+        "I reaches back to 4.6.2013, so publication is kept, 19.7.2013); Lei 13.043/2014 art. 113 IV a) (art. 7 XII and "
+        "XIII from 1.3.2015). Medida Provisória 563/2012 art. 53 IV (the revocation of arts. 5 and 6 from 1.1.2013) never "
+        "took effect: in Lei 12.715/2012, its conversion, that inciso is '(VETADO)' (art. 79 IV), and the page prints arts. "
+        "5 and 6 with no revocation")
+    EXTRA.append(
+        "Lei 12.546: the Anexos are not part of this history yet: Anexo I (the NCM codes of the products of art. 8, which Planalto "
+        "prints in several arrangements, with a note per code naming the act that added or removed it) and Anexo II (the "
+        "list of art. 8 § 3º XII), both revoked by Lei 13.670/2018 art. 12 II c) from 1.9.2018, are held back until each "
+        "code's history replays exactly; the articles' history is complete without them")
+    EXTRA.append(
+        "Lei 12.546 under Medida Provisória 612/2013 (DOU 4.4.2013): its art. 28 II puts its wording of art. 7 V to XI and of "
+        "art. 8 § 3º XIII to XX and § 6º in force from 1.1.2014; it lost effect on 2.8.2013 (Ato Declaratório nº 49, de "
+        "2013), and Lei 12.844/2013 had replaced those provisions, so that wording never took effect and is not shown. Lei "
+        "12.794/2013's '(VETADO)' lines stand until then: art. 7 V to VII and art. 8 § 3º XIII to XVI until Lei 12.844's "
+        "wording takes effect on 1.1.2014, art. 7 VIII to XI until Lei 12.844 art. 50 II revoked them on its publication "
+        "(19.7.2013), and art. 8 § 6º until Lei 12.844's wording on 19.7.2013. Its other changes to Lei 12.546 are in force "
+        "on publication (art. 28 III)")
+    EXTRA.append(
+        "Lei 12.546 art. 8 §§ 1º to 11: Planalto prints them twice, first with '(Revogado pela Medida Provisória nº 774, de "
+        "2017)' and each earlier wording, then again after Medida Provisória 774's lines with their later history; the "
+        "history keeps one copy of each wording, and the gaps of art. 8's other lines under Medidas Provisórias 774 and 794 "
+        "(1.7 to 8.8.2017 and 7 to 8.12.2017) apply to them. Lei 13.161/2015's wording of art. 8 caput and of art. 8-A "
+        "stands, outside those gaps, until Lei 13.670/2018's wording on 1.9.2018")
+    EXTRA.append(
+        "Lei 12.546 arts. 7 and 8 caput: Lei 14.020/2020 (DOU 7.7.2020) art. 33, which gave them the wording 'Até 31 de "
+        "dezembro de 2021', was vetoed; Congress overrode the veto and the part was promulgated (DOU 6.11.2020, edição "
+        "extra; printed on Lei 14.020's page, 'Promulgação partes vetadas'). Lei 14.020 art. 39: in force on publication; "
+        "the change is dated 6.11.2020, credited to Lei 14.020, and Lei 13.670/2018's wording stands to then")
+    EXTRA.append(
+        "Lei 12.546 art. 2 §§ 8º to 11: Medida Provisória 556/2011's wording (in force on publication, 26.12.2011, its art. "
+        "7 II) stands until it lost effect on 1.6.2012 (Ato Declaratório nº 25, de 2012); the Lei's § 8º is back from then "
+        "and §§ 9º to 11, which the Medida Provisória added, are absent, until Lei 12.688/2012's wording (its art. 32) on "
+        "its publication, 19.7.2012 (art. 36 IV)")
+    B.EXPLAINED[_L12546] = {
+        "art-07": "the consolidated page prints art. 7 § 9º II to V and § 10 in their wording from before Lei 14.973/2024 "
+                  "('... relativa a junho de 2013 e será aplicada até o término da obra.'); Lei 14.973 art. 1, read on its "
+                  "page, gives them their present wording ('... relativa a junho de 2013, e será aplicada até o término da "
+                  "obra, observado o disposto no art. 9º-B.'), which the annotated page prints and the history follows",
+        "art-09": "the consolidated page prints the placeholder 'IV (Revogado pela Lei nº 14.360, de 2022)' where the history "
+                  "has no text: Medida Provisória 1.093/2021 art. 2 revoked art. 9 IV on its publication (31.12.2021), and "
+                  "Lei 14.360/2022 is its conversion",
+    }
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
