@@ -828,6 +828,18 @@
    "unit": "titulos",
    "line": "Das Disposições Comuns às Seções Precedentes",
    "why": "the Code's own heading twice: Seção III (before art. 644) and Seção X (before art. 1.038), both printed on the page"
+  },
+  {
+   "act": "lei-de-imprensa",
+   "unit": "art-09",
+   "line": "a) nome, nacionalidade, idade e residência do gerente e do proprietário, se pessoa natural;",
+   "why": "art. 9: incisos II (oficinas impressoras) and IV (emprêsas noticiosas) list the same alínea a)"
+  },
+  {
+   "act": "lei-de-imprensa",
+   "unit": "art-18",
+   "line": "Pena: Reclusão, de 1 (um) a 4 (quatro) anos, e multa de 2 (dois) a 30 (trinta) salários-mínimos da região.",
+   "why": "art. 18: the caput and § 2º carry the same penalty line"
   }
  ]
 }

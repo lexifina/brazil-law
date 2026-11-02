@@ -10047,6 +10047,25 @@ if any(a["slug"] == _LIMP for a in ACTS):
         return problems
 
     P.lifespans = B.lifespans = _lifespans_adpf130
+    B8.SPAN_FIX.append(((_LIMP, "art-03", "§ 7º", "§ 7º Estão excluídas do disposto nos §§ 1º e 2º", 0),
+                        {"start": "1967-04-13", "start_law": "dl-207-1967"},
+                        "Lei de Imprensa art. 3 § 7º: Decreto-Lei 207/1967 art. 1 ('O § 3º, do art. 60 [...] passa a constituir, "
+                        "com a mesma redação, o § 7º do art. 3º da referida Lei'; art. 2 revokes art. 60 § 3º; no in-force "
+                        "clause, so 45 days after its publication in the DOU of 27.2.1967: 13.4.1967). Planalto prints § 7º "
+                        "unstruck with no note, so it is read from 13.4.1967, credited to the Decreto-Lei, the day art. 60 "
+                        "§ 3º ends"))
+    _innerLIMP = B6.PB5B._write_part5
+
+    def _inner_limp(*a) -> int:
+        # B9's check line names 'the pre-repeal capture' (batch 14 rewrites it only for a repeal after 31.10.2026);
+        # here the page was read after the judgment, which Planalto does not strike
+        B9.REPEAL_CHECK[:] = [x.replace("the unstruck text of the pre-repeal capture of Planalto's page",
+                                        "the unstruck text of Planalto's page (unstruck after the judgment)").replace(
+                                            "the last version before the repeal", "the last version before the judgment")
+                              if x.startswith("LImp:") else x for x in B9.REPEAL_CHECK]
+        return _innerLIMP(*a)
+
+    B6.PB5B._write_part5 = _inner_limp
     B13.OPEN_ITEMS[_LIMP] = (
         "Lei 5.250 (open items): the medida cautelar of 21.2.2008 (referendada 27.2.2008, extended 4.9.2008 and 18.2.2009) "
         "suspended some provisions until the judgment; the history does not model it, ending the whole Lei on the judgment "

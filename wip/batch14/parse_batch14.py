@@ -591,8 +591,13 @@ def _inner(*a):
                 "Estatuto da Microempresa (open items): its Anexos I to V (the Simples Nacional rate tables) are not "
                 "included, the history holds the articles only; Lei Complementar 214/2025's and 227/2026's changes that "
                 "Planalto marks only with 'Vide' pointers are not modelled.")
+    # only for an act whose repeal is after the page was read (the same test as consolidated() above): an act repealed in
+    # the past is checked against a pre-repeal capture, and batch 9's wording stays
+    _future14 = {act["short"] for act in ACTS
+                 if act["slug"] in B9.REPEALS and B9.REPEALS[act["slug"]][0] > "2026-10-31"}
     B9.REPEAL_CHECK[:] = [x.replace("the unstruck text of the pre-repeal capture of Planalto's page",
                                     "the unstruck text of Planalto's page (the repeal is in the future)")
+                          if x.split(":", 1)[0] in _future14 else x
                           for x in B9.REPEAL_CHECK]
     rc = _inner14(*a)
     if any(act["slug"] == _ME for act in a[0]):
