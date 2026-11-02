@@ -1,0 +1,61 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL E AMBIENTAL. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. DESTINAÇÃO DE VERBAS DECORRENTES DE IMPOSIÇÃO DE ASTREINTES. FUNDO ESTADUAL DE CONSERVAÇÃO AMBIENTAL E DESENVOLVIMENTO URBANO. REEXAME FÁTICO-PROBATÓRIO E ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL APLICÁVEL À ESPÉCIE. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+
+Relatório
+1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto, com base na al. a do inc. III do art. 102 da Constituição da República, contra o seguinte julgado da Quarta Câmara Cível do Tribunal de Justiça do Rio de Janeiro:
+“AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. DECISUM QUE ACOLHEU EM PARTE A IMPUGNAÇÃO PARA REDUZIR O VALOR DAS ASTRENTES FIXADAS, DESTINANDO-AS AO FECAM - FUNDO ESTADUAL DE CONSERVAÇÃO AMBIENTAL E DESENVOLVIMENTO URBANO. IRRESIGNAÇÃO DO MUNICÍPIO DO RIO DE JANEIRO. - Cuida-se de agravo de instrumento interposto contra decisão que reduziu o valor das astreintes, fixando-as em R$100.000,00 (cem mil reais), destinando-as ao FECAM – Fundo Estadual de Conservação Ambiental e Desenvolvimento Urbano. - A multa fixada deve ser destinada ao Fundo Estadual de Conservação Ambiental e Desenvolvimento Urbano, na forma do artigo 13 da Lei nº 7.347/85. - Caráter pedagógico na responsabilização do ente que estaria perdido, se a sanção decorrente do descumprimento da obrigação ficasse à disposição do Município que vem, reiteradamente, se recusando a cumprir a determinação judicial. - Por certo, se os recursos decorrentes da imposição da multa permanecerem no âmbito de gestão de atuação administrativa municipal, restarão esvaziados os incentivos econômicos típicos da aplicação de uma multa para que o ente possa vir a cumprir a determinação judicial. - Adequada, portanto, a reversão das astreintes ao Fundo Estadual, e não ao Fundo Municipal. DESPROVIMENTO DO RECURSO” (fl. 1, e-doc. 23).
+
+Os embargos de declaração opostos foram rejeitados (e-doc. 49).
+
+2. No recurso extraordinário, o Município do Rio de Janeiro/RJ afirmou ter o Tribunal de origem contrariado os arts. 2º e 18 e o inc. VI do art. 167 da Constituição da República.
+
+Assinalou discutir-se, nestes autos eletrônicos, “a incorreta destinação das astreintes ao qual foi condenado o Município, haja vista que a decisão recorrida entendeu pela aplicação do art. 13 da Lei de Ação Civil Pública, concluindo que o montante deveria ser destinado ao FECAM, ao invés da destinação a Fundo Municipal de Saneamento, consoante requerido pelo Município, nos termos da Lei Municipal nº 6.695/2019” (fl. 6, e-doc. 56).
+
+Alegou que o Tribunal de origem “violou o disposto no art. 18 da CRFB (autonomia federativa), ao deixar de reconhecer que as verbas resultantes de condenações em dinheiro para fins de indenização pelos danos causados em âmbito de interesse local devem ser destinadas aos fundos geridos por Conselhos ‘Municipais’, quando em jogo a reconstituição de bens lesados do Município” (fl. 7, e-doc. 56).
+
+Realçou que “no âmbito Municipal temos o FUNDO MUNICIPAL DE SANEAMENTO BÁSICO, instituído pela Lei Municipal nº 6.695/2019, cuja finalidade abarca obras de drenagem – hipótese dos autos” (fl. 7, e-doc. 56).
+
+Pediu o provimento do recurso extraordinário, “para resguardar que o valor da indenização seja revertido ao Fundo Municipal de Saneamento Básico, e não ao FECAM, afastando-se a afronta aos artigos 2º, 18 e 167, VI da CRFB” (fl. 12, e-doc. 56).
+
+3. O recurso extraordinário foi inadmitido pela incidência das Súmulas ns. 279, 282 e 356 do Supremo Tribunal Federal (e-doc. 66).
+
+4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, o agravante sustenta que “foram devidamente opostos embargos de declaração, com fundamento nos arts. 1.022 e 1.025 do CPC, com vistas a instar o Tribunal local a se pronunciar sobre a questão constitucional” (fl. 4, e-doc. 77).
+
+Afirma ser “absolutamente desnecessária qualquer incursão sobre o contexto fático probatório dos autos para se analisar o mérito do recurso extraordinário” (fl. 5, e-doc. 77).
+
+Pede o provimento do presente recurso extraordinário com agravo.
+
+Examinados os elementos havidos nos autos, DECIDO.
+
+5. Cumpre afastar o óbice da decisão agravada sobre a incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal, por ter sido a matéria objeto de oportuna impugnação, além de prequestionada. A superação desse fundamento é, entretanto, insuficiente para provimento da pretensão do agravante, por subsistirem outros óbices processuais.
+
+6. O Tribunal de Justiça do Rio de Janeiro dirimiu controvérsia sobre destinação do valor fixado a título de astreintes, nos seguintes termos:
+“Pretende o recorrente que a destinação do valor fixado a título de astreintes, deve ser dirigido para a execução da obra específica determinada nos autos ou para o Fundo Municipal de Saneamento instituído pela Lei Municipal nº 6.695/19, cuja finalidade abarca obras de drenagem, ressaltando ainda que tal medida potencializa e preserva a autonomia dos entes federativos.
+E, como veremos, razão não assiste ao agravante
+Pois bem. Conforme determina o artigo 13 da Lei nº 7.347/85, o valor das astreintes deve ser revertido ao FECAM - Fundo Estadual de Conservação Ambiental e Desenvolvimento Urbano. Veja-se referido dispositivo: (...).
+Carece de razoabilidade a pretensão do agravante de ver os valores da multa revertidos ao Fundo Municipal de Saneamento Básico FMSB.
+Ora, o caráter pedagógico na responsabilização do ente estaria perdido se a sanção decorrente do descumprimento da obrigação que a ele compete, ficasse à disposição do Município, acrescentando que o agravante vem, reiteradamente, se recusando a cumprir a determinação judicial.
+Por certo, se os recursos decorrentes da imposição da multa permanecerem no âmbito de gestão de atuação administrativa municipal, restarão esvaziados os incentivos econômicos típicos da aplicação de uma multa para que o ente possa vir a cumprir a determinação judicial, razão pela qual se mostra adequada a reversão das astreintes ao Fundo Estadual e não ao Fundo Municipal” (fls. 5-6, e-doc. 23).
+
+7. Como assentado no juízo de admissibilidade recursal, para rever o entendimento adotado nas instâncias ordinárias, sobre a destinação das verbas decorrentes de multa pelo descumprimento de obrigação no caso sob análise, seria necessário reexame da matéria fático-probatória e da legislação infraconstitucional local aplicável ao processo (Lei municipal n. 6.695/2019 e Lei federal n. 7.347/1985). Incidem, na espécie, as Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Assim, por exemplo:
+“Direito Civil e Processual Civil. Agravo interno em recurso extraordinário com agravo. Previdência privada. Destinação de verba após superávit. Fundo de reserva do patrocinador. Matéria infraconstitucional. Reexame do conjunto fático-probatório. Incidência da súmula nº 279 do STF. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve sentença de improcedência. 2. Para dissentir do entendimento do Tribunal de origem, seria imprescindível analisar a legislação infraconstitucional aplicada ao caso, assim como apreciar os fatos e o material probatório constantes dos autos, procedimentos inviáveis neste momento processual. A hipótese atrai a incidência da Súmula nº 279/STF. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita. 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do CPC/2015” (ARE n. 1.220.594-AgR, Relator o Ministro Luís Roberto Barroso, Plenário, DJe 8.1.2024).
+
+A natureza infraconstitucional da controvérsia é evidenciada pela decisão proferida pela Primeira Turma do Superior Tribunal de Justiça, no julgamento do recurso especial interposto concomitantemente ao recurso extraordinário, ao qual foi negado provimento sob o fundamento de inexistência de contrariedade às normas infraconstitucionais aplicadas ao caso sob análise, nos termos da seguinte ementa:
+
+“PROCESSUAL CIVIL E AMBIENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. ASTREINTES. DESTINAÇÃO. FUNDO ESTADUAL DE CONSERVAÇÃO AMBIENTAL E DESENVOLVIMENTO URBANO (FECAM). MUNICÍPIO DO RIO DE JANEIRO. DESCUMPRIMENTO REITERADO DE OBRIGAÇÃO JUDICIAL. CARÁTER PEDAGÓGICO DA MULTA. PRESERVAÇÃO. ART. 13 DA LEI 7.347/1985. AUSÊNCIA DE PREVISÃO LEGAL PARA DESTINAÇÃO A FUNDOS MUNICIPAIS. ART. 73 DA LEI 9.605/1998. INAPLICABILIDADE AO CASO CONCRETO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO CONFIGURAÇÃO. FUNDAMENTAÇÃO ADEQUADA DO ACÓRDÃO RECORRIDO. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, NEGADO PROVIMENTO. 1. Inexiste violação aos arts. 489, § 1º, VI, e 1.022 do CPC quando o Tribunal de origem aprecia fundamentadamente todos os pontos controvertidos da demanda, sem incorrer em omissão, contradição, obscuridade ou erro material. 2. O art. 13 da Lei 7.347/1985 (Lei da Ação Civil Pública) prevê a destinação das condenações em dinheiro a fundos geridos por conselhos federais ou estaduais, não contemplando, em sua literalidade, a reversão a fundos municipais, ainda que o bem jurídico lesado seja de âmbito local. 3. A destinação das astreintes ao ente municipal que descumpriu reiteradamente obrigação judicial esvaziaria o caráter pedagógico e coercitivo da multa, comprometendo a efetividade da tutela executiva, razão pela qual se mostra adequada a reversão ao fundo estadual. 4. O art. 73 da Lei 9.605/1998 (Lei de Crimes Ambientais) confere ao órgão arrecadador a discricionariedade de destinar os valores às entidades ali elencadas, não impondo obrigatoriedade de reversão a fundos municipais. 5. A Resolução Conjunta CNJ/CNMP 10/2024 regulamenta os critérios de destinação de bens e valores em tutela coletiva, exigindo fundamentação específica quanto à pertinência, à adequação e aos mecanismos de fiscalização, requisitos observados no acórdão recorrido. 6. Agravo de que se conhece para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento” (fls. 1-2, e-doc. 106).
+
+8. Ademais, no julgamento do Recurso Extraordinário com Agravo n. 640.523-RG, Tema 446, Relator o Ministro Cézar Peluso, o Plenário deste Supremo Tribunal reconheceu inexistente repercussão geral de questão similar à discutida nos presentes autos eletrônicos e fixou a seguinte tese: “A questão da legitimidade de destinar parte do valor das astreintes recebidas pelo descumprimento de ordem judicial que determina o restabelecimento de serviço de telefonia a fundo estadual de defesa do consumidor tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009” (DJe 30.8.2011). Esta a ementa desse julgado:
+“RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Valor das astreintes. Destinação. Fundo estadual de defesa do consumidor. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a possibilidade de se destinar parte do valor das astreintes a fundo de defesa do consumidor, versa sobre tema infraconstitucional” (DJe 30.8.2011).
+
+Comprovados os óbices jurídicos impeditivos da admissibilidade do recurso, nada há a prover em relação às alegações do agravante.
+
+9. Pelo exposto, não conheço do presente recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional.
+
+Publique-se.
+
+Brasília, 2 de novembro de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
