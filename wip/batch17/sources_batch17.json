@@ -2057,6 +2057,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:dl-2052-1983",
+   "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del2052.htm",
+   "ts": "20260713070027",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:dl-207-1967",
    "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/1965-1988/Del0207.htm",
    "ts": "20260215055046",
@@ -2376,6 +2382,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lc-17-1973",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp17.htm",
+   "ts": "20260710140925",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lc-181-2021",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp181.htm",
    "ts": "20261021165945",
@@ -2391,6 +2403,12 @@
    "id": "law:lc-189-2022",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp189.htm",
    "ts": "20261004142009",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lc-19-1974",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp19.htm",
+   "ts": "20261019214831",
    "via": "wayback.py"
   },
   {
@@ -2436,6 +2454,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lc-26-1975",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp26.htm",
+   "ts": "20261009135745",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lc-37-1979",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp37.htm",
    "ts": "20260727013221",
@@ -2463,6 +2487,12 @@
     "offset": "372714312",
     "length": "13838"
    }
+  },
+  {
+   "id": "law:lc-8-1970",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp08.htm",
+   "ts": "20261016082759",
+   "via": "wayback.py"
   },
   {
    "id": "law:lc-98-1999",
