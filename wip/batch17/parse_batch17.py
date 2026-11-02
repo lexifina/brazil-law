@@ -7555,6 +7555,150 @@ if any(a["slug"] == _LBEM for a in ACTS):
                       "whose inciso III revoked Lei 11.196 art. 57-A §§ 1º and 2º, rejected outright, 'considera não escritos "
                       "[...] e declara o encerramento da vigência e eficácia, desde a data de sua edição': the revocation never "
                       "took effect")
+    _span_fixBEM = B8.apply_span_fix
+
+    def _apply_span_fix_bem(paras, act_slug, record):
+        """the REIQ (arts. 56 to 58) by hand after the other hand spans: see _reiq_model"""
+        _span_fixBEM(paras, act_slug, record)
+        if act_slug == _LBEM:
+            _reiq_model(paras, record)
+
+    B8.apply_span_fix = _apply_span_fix_bem
+
+# part zzzy, REIQ (arts. 56 to 58 of Lei 11.196). Planalto reprints the articles after each Medida Provisória that revoked them
+# and lapsed or was converted without the revocation, so the page holds two to four copies of every 2013 line; the history
+# keeps one copy of each wording (the last printed) and gives it the days read on the amending acts' own pages:
+# - Medida Provisória 694/2015 (DOU 30.9.2015; art. 4 II: effects from 1.1.2016 for its art. 3) gave art. 56 II a new wording
+#   and (art. 5 I b) revoked art. 56 III and IV and art. 57-B 'a partir de 1º de janeiro de 2016'; it lapsed on 8.3.2016 (back
+#   9.3.2016); its art. 5 II (art. 57 and art. 57-A caput and § 2º 'a partir de 1º de janeiro de 2017') never took effect.
+# - Medida Provisória 836/2018 art. 1 II revoked arts. 56 to 57-B from 1.9.2018 (art. 2); it lapsed on 10.10.2018.
+# - Medida Provisória 1.034/2021 art. 4 II revoked arts. 56 to 57-B from 1.7.2021 (art. 5 II); Lei 14.183/2021 (DOU 15.7.2021),
+#   its conversion, kept them, with new wordings of art. 56 IV and art. 57 § 1º and the new art. 56 V to VIII.
+# - Medida Provisória 1.095/2021 art. 1 II revoked arts. 56 to 58 with effects from 1.4.2022 (art. 2: 'produz efeitos a partir
+#   do primeiro dia do quarto mês posterior ao de sua publicação', DOU 31.12.2021); Lei 14.374/2022 (DOU 22.6.2022, in force on
+#   publication), its conversion, kept arts. 56, 57, 57-A and 58 (new wording of art. 56 VI, new art. 57-C) and revoked art.
+#   57-B (art. 5); its vetoed art. 56 IX and art. 57-D, with the new wording of Lei 14.183 art. 9, were promulgated after
+#   Congress overrode the veto (DOU 22.12.2022).
+_RQ_G694 = ("2016-01-01", "2016-03-09", "mp-694-2015", "mp-694-2015-fim")
+_RQ_G836 = ("2018-09-01", "2018-10-11", "mp-836-2018", "mp-836-2018-fim")
+_RQ_G1034 = ("2021-07-01", "2021-07-15", "mp-1034-2021", "lei-14183-2021")
+_RQ_G1095 = ("2022-04-01", "2022-06-22", "mp-1095-2021", "lei-14374-2022")
+_RQ_P14374 = "2022-12-22"
+_RQ_L13 = {"start": "2013-09-11", "start_law": "lei-12859-2013", "end": None, "end_law": None, "end_how": None}
+_RQ_ALL = {**_RQ_L13, "gaps": [_RQ_G836, _RQ_G1034, _RQ_G1095]}
+_RQ_ALL694 = {**_RQ_L13, "gaps": [_RQ_G694, _RQ_G836, _RQ_G1034, _RQ_G1095]}
+_RQ_14183 = {"start": "2021-07-15", "start_law": "lei-14183-2021", "end": None, "end_law": None, "end_how": None,
+             "gaps": [_RQ_G1095]}
+_RQ_ORIG95 = {"start": "2005-11-22", "start_law": None, "end": None, "end_law": None, "end_how": None, "gaps": [_RQ_G1095]}
+_RQ_57B = {**_RQ_L13, "end": "2022-04-01", "end_law": "mp-1095-2021", "end_how": "note",
+           "gaps": [_RQ_G694, _RQ_G836, _RQ_G1034]}
+_RQ_PROM = {"start": _RQ_P14374, "start_law": "lei-14374-2022"}
+# (unit, label, start of the text, copy kept (index among the lines with that label and start), fields; every other copy of
+# that wording after the first is set aside, except the first one when it is Medida Provisória 613's own line)
+_RQ_TABLE = [
+    ("art-56", "Art. 56", "Art. 56. A Contribuição para o PIS/Pasep e a Cofins devidas pelo produtor ou importador de nafta "
+     "petroquímica, incidentes sobre a receita bruta decorrente da venda desse produto às centrais petroquímicas, serão "
+     "calculadas, respectivamente, com base nas alíquotas de:", 3, 0, _RQ_ALL),
+    ("art-56", "I -", "I - 0,18%", 4, 1, _RQ_ALL),
+    ("art-56", "II -", "II - 0,54%", 5, 1, _RQ_ALL694),
+    ("art-56", "II -", "II - 1,11%", 0, 0, {"start": "2016-01-01", "start_law": "mp-694-2015", "end": "2016-03-09",
+                                             "end_law": "mp-694-2015-fim", "end_how": "lapse", "gaps": []}),
+    ("art-56", "III -", "III - 0,90%", 5, 1, _RQ_ALL694),
+    ("art-56", "IV -", "IV - 1% (um por cento) e 4,6% (quatro inteiros e seis décimos por cento), para os fatos geradores "
+     "ocorridos a partir", 3, 0, {**_RQ_L13, "end": "2021-07-01", "end_law": "mp-1034-2021", "end_how": "note",
+                                  "gaps": [_RQ_G694, _RQ_G836]}),
+    ("art-56", "IV -", "IV - 1% (um por cento) e 4,6% (quatro inteiros e seis décimos por cento), para os fatos geradores "
+     "ocorridos nos anos de 2018 a 2020", 1, 0, _RQ_14183),
+    ("art-56", "V -", "V - 1,13%", 1, 0, _RQ_14183),
+    ("art-56", "VI -", "VI - 1,26% (um inteiro e vinte e seis centésimos por cento) e 5,8% (cinco inteiros e oito décimos por "
+     "cento), para os fatos geradores ocorridos no ano de 2022", 1, 0,
+     {**_RQ_14183, "end": "2022-04-01", "end_law": "mp-1095-2021", "end_how": "note", "gaps": []}),
+    ("art-56", "VII -", "VII - 1,39%", 1, 0, _RQ_14183),
+    ("art-56", "VIII -", "VIII - 1,52%", 1, 0, _RQ_14183),
+    ("art-56", "IX -", "IX - 1,52% (um inteiro e cinquenta e dois centésimos por cento) e 7% (sete por cento), para os fatos "
+     "geradores ocorridos nos anos de 2025 a 2027", 0, 0, _RQ_PROM),
+    ("art-56", "Parágrafo único", "Parágrafo único. O disposto no caput aplica-se também:", 4, 1,
+     {**_RQ_ALL, "end": "2026-03-20", "end_law": "lc-228-2026", "end_how": "successor"}),
+    ("art-56", "I -", "I - às vendas de etano, propano, butano, condensado e correntes", 3, 0, _RQ_ALL),
+    ("art-56", "II -", "II - às vendas de eteno, propeno, buteno, butadieno, orto-xileno, benzeno, tolueno, isopreno e "
+     "paraxileno para", 4, 1, {**_RQ_ALL, "end": "2026-03-20", "end_law": "lc-228-2026", "end_how": "successor"}),
+    ("art-57", "Art. 57", "Art. 57. Na apuração", 3, 0, {**_RQ_ALL, "start": "2005-11-22", "start_law": None}),
+    ("art-57", "§ 1º", "§ 1º Na hipótese de a central petroquímica revender a nafta petroquímica adquirida na forma do art. 56 "
+     "desta Lei ou importada na forma do § 15 do art. 8º da Lei nº 10.865, de 30 de abril de 2004, o crédito de que trata o "
+     "caput deste artigo será calculado mediante a aplicação das alíquotas de 1,0%", 0, 0,
+     {"end": "2013-05-08", "end_law": "mp-613-2013", "end_how": "successor"}),
+    ("art-57", "§ 2º", "§ 2º O disposto no caput", 0, 0, {"end": "2013-05-08", "end_law": "mp-613-2013", "end_how": "successor"}),
+    ("art-57", "§ 1º", "§ 1º Na hipótese de revenda dos produtos", 2, 0,
+     {**_RQ_L13, "end": "2021-07-01", "end_law": "mp-1034-2021", "end_how": "note", "gaps": [_RQ_G836]}),
+    ("art-57", "§ 1º", "§ 1º Na hipótese de a central petroquímica revender a nafta petroquímica adquirida na forma do art. 56 "
+     "desta Lei ou importada na forma do § 15 do art. 8º da Lei nº 10.865, de 30 de abril de 2004, o crédito de que trata o "
+     "caput deste artigo será calculado mediante a aplicação das alíquotas previstas", 1, 0, _RQ_14183),
+    ("art-57", "§ 2º", "§ 2º (Revogado)", 3, 0, _RQ_ALL),
+    ("art-57-a", "Art. 57-A", "Art. 57-A. O disposto no art. 57", 4, 1, _RQ_ALL),
+    ("art-57-a", "§ 1º", "§ 1º O saldo de créditos apurados pelas indústrias petroquímicas na forma do art. 3º da Lei nº 10.637, "
+     "de 30", 3, 0, _RQ_ALL),
+    ("art-57-a", "I -", "I - ser compensado com débitos próprios, vencidos ou vincendos, relativos a tributos administrados", 3, 0,
+     _RQ_ALL),
+    ("art-57-a", "II -", "II - ser ressarcido em dinheiro", 4, 1, _RQ_ALL),
+    ("art-57-a", "§ 2º", "§ 2º O crédito previsto no art. 57", 3, 0, _RQ_ALL),
+    ("art-57-a", "I -", "I - compensado com débitos próprios, vencidos ou vincendos, relativos a impostos e contribuições "
+     "administrados pela Secretaria da Receita Federal do Brasil, observada", 3, 0, _RQ_ALL),
+    ("art-57-a", "II -", "II - ressarcido em espécie", 4, 1, _RQ_ALL),
+    ("art-57-b", "Art. 57-B", "Art. 57-B. É o Poder Executivo", 3, 0, _RQ_57B),
+    ("art-57-b", "§ 1º", "§ 1º O crédito presumido", 4, 1, _RQ_57B),
+    ("art-57-b", "§ 2º", "§ 2º O montante do crédito presumido", 4, 1, _RQ_57B),
+    ("art-57-b", "§ 3º", "§ 3º O crédito presumido", 4, 1, _RQ_57B),
+    ("art-57-d", "Art. 57-D", "Art. 57-D.", 0, 0, _RQ_PROM),
+    ("art-57-d", "§ 1º", "§ 1º O benefício previsto neste artigo", 0, 0, _RQ_PROM),
+    ("art-57-d", "§ 2º", "§ 2º O abatimento proporcionado", 0, 0, _RQ_PROM),
+    ("art-58", "Art. 58", "Art. 58.", 1, 0, _RQ_ORIG95),
+    ("art-58", "", "\"Art. 8º.", 1, 0, _RQ_ORIG95),
+    ("art-58", "§ 15", "§ 15.", 1, 0, _RQ_ORIG95),
+    ("art-58", "I -", "I - 1,0%", 1, 0, _RQ_ORIG95),
+    ("art-58", "II -", "II - 4,6%", 1, 0, _RQ_ORIG95),
+]
+RQ_SET_ASIDE: list[str] = []
+
+
+def _reiq_model(paras, record):
+    for unit, label, start, keep, first, fields in _RQ_TABLE:
+        hits = [p for p in paras if p["unit"] == unit and p["label"] == label and not p["heading"]
+                and not p.get("bem_virtual") and B8._norm(p["text"]).startswith(B8._norm(start))]
+        if len(hits) <= keep:
+            if record:
+                B8.SPAN_MISSED.append(f"{_LBEM} REIQ {unit} [{label}] {start[:40]!r}: {len(hits)} lines")
+            continue
+        for k, p in enumerate(hits):
+            if k == keep:
+                p.update(dict(fields, gaps=[tuple(g) for g in fields.get("gaps", p.get("gaps") or [])]))
+                p["skip"], p["pinned"] = False, True
+            elif k >= first:
+                if record and not p.get("skip"):
+                    RQ_SET_ASIDE.append(unit)
+                p["skip"], p["pinned"] = True, True
+    # the parágrafo único of art. 57 as enacted, which Lei 11.488/2007 art. 36 renumbered as § 1º with the same words
+    # ('renumerando-se o atual parágrafo único para § 1º'): Planalto prints only the renumbered line, and Medida Provisória
+    # 613's own parágrafo único (2013) kept the renumbering rule from adding the enacted line
+    if not any(p.get("bem_virtual") for p in paras):
+        src = [p for p in paras if p["unit"] == "art-57" and p["label"] == "§ 1º" and not p["heading"]
+               and any("Renumerado do parágrafo único pela Lei nº 11.488" in n for n in p["notes"])]
+        if len(src) == 1:
+            s = src[0]
+            v = dict(s, label="Parágrafo único", text="Parágrafo único." + s["text"][len("§ 1º"):],
+                     notes=[], start="2005-11-22", start_law=None, end="2007-06-15", end_law="lei-11488-2007",
+                     end_how="renumbered", gaps=[], skip=False, pinned=True, bem_virtual=True)
+            paras.insert(paras.index(s), v)
+        elif record:
+            B8.SPAN_MISSED.append(f"{_LBEM} REIQ art-57 renumbered § 1º: {len(src)} lines")
+
+
+B15.TEXT_FIX.append(("l11196", "pelos créditos adicionais previstos$",
+                     "pelos créditos adicionais previstos neste artigo será limitado ao valor efetivamente investido nos "
+                     "termos do compromisso a que se refere o caput deste artigo.",
+                     "Lei 11.196 art. 57-D § 2º: both Planalto pages break the paragraph off after 'créditos adicionais "
+                     "previstos'; the rest of the sentence is read on Lei 14.374/2022's page, in the text of its parts "
+                     "promulgated on 22.12.2022 ('[...] previstos neste artigo será limitado ao valor efetivamente investido "
+                     "nos termos do compromisso a que se refere o caput deste artigo.')"))
 _writeBEM = B6.PB5B._write_part5
 
 
