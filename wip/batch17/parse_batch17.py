@@ -11397,6 +11397,8 @@ if any(a["slug"] == _L12546 for a in ACTS):
                         or (rx and not re.match(rx, P.norm(p["text"])))):
                     continue
                 p[side], p["pinned"], p["eff61_" + side] = new, True, i
+                if side == "start" and law is None:
+                    p["start_law"] = "lei-12546-2011"   # the Lei's own art. 52 § 3º, credited as the § 5º gate
                 bump(i)
         for i, (u, labs, day, law, how, k) in enumerate(_VET61):
             for p in rows:
