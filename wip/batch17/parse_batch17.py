@@ -8449,6 +8449,10 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
                 m = re.match(r"([IVXl]{1,6})\s*-\s", p["text"])
                 if p["heading"] or p["label"] or not m or "l" not in m.group(1):
                     continue
+                if p["unit"] == "art-1218" and p["text"].startswith("Vlll - aos protestos"):
+                    # Lei 6.780's new VIII stays a line of its own (dated by its note): read as 'VIII -' it would take
+                    # the place of the 1973 VIII printed struck under it, which Lei 6.780 renumbered as IX
+                    continue
                 tok = m.group(1).replace("l", "I")
                 if _ROMAN.fullmatch(tok):
                     p["label"] = tok + " -"
