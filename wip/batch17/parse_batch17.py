@@ -8378,7 +8378,23 @@ _CPC73_PUB = {   # key: (published as printed, corrected, why)
                       "1º.4.1990'; the act is signed 'Brasília, 31 de março de 1993', so the year is a misprint: published "
                       "1.4.1993, in force that day (art. 2: 'Esta Lei entra em vigor na data de sua publicação')"),
 }
-CPC73_USED: dict[str, list] = {"labels": [], "notes": [], "1102": [], "spans": [], "fold": [], "pub": [], "never": []}
+# line ends the annotated page misprints, corrected from the amending law's own text (as the consolidated page prints them):
+# (unit, regex on the end of a plain line, replacement, why)
+_CPC73_ENDS = [
+    ("art-0275", r"(II - nas causas, qualquer que seja o valor);$", r"\1",
+     "art. 275 II: 'II - nas causas, qualquer que seja o valor' with no ';' (Lei 9.245/1995's text, before its alíneas)"),
+    ("art-0475-e", r"(houver necessidade de alegar e provar fato novo)$", r"\1.",
+     "art. 475-E: '... alegar e provar fato novo.' (Lei 11.232/2005's text)"),
+    ("art-0523", r"(nele expostas sucintamente as razões do agravante)$", r"\1.",
+     "art. 523 § 3º: '... as razões do agravante.' (Lei 11.187/2005's text)"),
+    ("art-0649", r"(observado o disposto no § 3º deste artigo)\.$", r"\1;",
+     "art. 649 IV: '... observado o disposto no § 3º deste artigo;' (Lei 11.382/2006's text, before inciso V)"),
+    ("art-0655-a", r"(de 19 de setembro de 1995)$", r"\1.",
+     "art. 655-A § 4º: '... da Lei nº 9.096, de 19 de setembro de 1995.' (Lei 11.694/2008's text)"),
+]
+_W_CPC73_ENDS = ("Código de Processo Civil de 1973, line ends Planalto's annotated page misprints, corrected from the amending "
+                 "law's own text (the consolidated page prints them so too): {x}")
+CPC73_USED: dict[str, list] = {"labels": [], "notes": [], "fold": [], "never": [], "ends": []}
 if any(a["slug"] == _LCPC73 for a in ACTS):
     P.NOTE_FIX["(Redação pela Lei nº 11.232, de 2005)"] = (
         "(Redação dada pela Lei nº 11.232, de 2005)",
@@ -8387,7 +8403,13 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
         for _s, _u, _lab in (("Art. 1.102.a", "art-1102-a", "Art. 1.102-A"), ("Art. 1.102.b", "art-1102-b", "Art. 1.102-B"),
                              ("Art. 1.102.c", "art-1102-c", "Art. 1.102-C")):
             B8.UNIT_FIX.append((_pg, _s, _u, _lab, _W_CPC73_1102))
-        B8.LABEL_FIX.append((_pg, "X -Xl - à vistoria", "X - à vistoria", "X -", _W_CPC73_SPANS["1218"]))
+        B8.LABEL_FIX.append((_pg, "X -Xl - à vistoria", "X - à vistoria", "X -",
+                             "Código de Processo Civil de 1973 art. 1.218 X (1973 wording): printed 'X -Xl - à vistoria de "
+                             "fazendas avariadas (art. 756);', read as 'X - à vistoria ...' (the renumbered XI, 'Inciso X "
+                             "renumerado pela Lei nº 6.780', has the same words)"))
+    for _k, (_old, _new, _why) in _CPC73_PUB.items():
+        B8.LAW_FIELD_FIX[_k] = ({"published": _new}, _why)
+        P.VIGENCIA_FIXED[_k] = (_new, f"in force on its publication, {_new} (the page misprints the year as {_old[:4]})")
     _F_REN = {"end": "1980-05-13", "end_law": "lei-6780-1980", "end_how": "renumbered"}
     _F746 = {"skip": False, "end": "2007-01-21", "end_law": "lei-11382-2006", "end_how": "successor"}
     B8.SPAN_FIX += [
@@ -8403,19 +8425,6 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
         ((_LCPC73, "art-1218", "XV -", "XV - às arribadas forçadas", 0),
          dict(_F_REN, skip=False, start=_CPC73_DAY, start_law=None), _W_CPC73_SPANS["1218"]),
     ]
-    CPC73_USED["spans"] += ["741"]
-
-    def _pi_cpc73(f):
-        def g(key):
-            info = f(key)
-            if info and key in _CPC73_PUB and info.get("published") == _CPC73_PUB[key][0]:
-                info = dict(info, published=_CPC73_PUB[key][1])
-                CPC73_USED["pub"].append(key)
-            return info
-        return g
-
-    B6.page_info = _pi_cpc73(B6.page_info)
-    P.page_info = B.page_info = _pi_cpc73(P.page_info)
     _paragraphsCPC73 = P.paragraphs
     _ROMAN = re.compile(r"(?=[IVX])X{0,3}(IX|IV|V?I{0,3})")
 
