@@ -350,9 +350,21 @@
    "via": "wayback.py"
   },
   {
+   "id": "auto-dl-2052-1983",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2052.htm",
+   "ts": "20260713070027",
+   "via": "wayback.py"
+  },
+  {
    "id": "auto-dl-2321-1987",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2321.htm",
    "ts": "20261024143353",
+   "via": "wayback.py"
+  },
+  {
+   "id": "auto-dl-368-1968",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0368.htm",
+   "ts": "20260810205931",
    "via": "wayback.py"
   },
   {
@@ -401,6 +413,12 @@
    "id": "auto-lei-8857-1994",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/1989_1994/l8857.htm",
    "ts": "20261008032942",
+   "via": "wayback.py"
+  },
+  {
+   "id": "auto-lei-9277-1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9277.htm",
+   "ts": "20261007120548",
    "via": "wayback.py"
   },
   {

@@ -186,37 +186,6 @@
   "part": "zzzzr"
  },
  {
-  "slug": "lei-7803-de-1989",
-  "short": "L7803",
-  "page": "auto-lei-7803-1989",
-  "path": "leis/l7803.htm",
-  "law": "lei-7803-1989",
-  "title": "Altera a redação da Lei nº 4.771, de 15 de setembro de 1965, e revoga as Leis nºs 6.535, de 15 de junho de 1978, e 7.511, de 7 de julho de 1986 (Lei nº 7.803, de 18 de julho de 1989)",
-  "digits": 2,
-  "act_day": [
-   "1989-07-20",
-   "Lei 7.803/1989 art. 3: 'Esta Lei entra em vigor na data de sua publicação' (DOU 20.7.1989)"
-  ],
-  "law_rec": {
-   "label": "Lei nº 7.803, de 1989",
-   "title": "Altera a redação da Lei nº 4.771, de 15 de setembro de 1965, e revoga as Leis nºs 6.535, de 15 de junho de 1978, e 7.511, de 7 de julho de 1986.",
-   "kind": "law",
-   "enacted": "1989-07-18",
-   "published": "1989-07-20",
-   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7803.htm",
-   "temporary_until": null,
-   "restores": null,
-   "note": null
-  },
-  "ts": "20261019074306",
-  "notes": 0,
-  "vig_ref": "art. 3: in force on publication",
-  "row_title": "Lei 7.803/1989, Altera a redação da Lei nº 4.771, de 15 de setembro de 1965, e revoga as Leis nºs 6.535, de 15 de junho de 1978, e 7.511, de 7 de julho de 1986",
-  "key": "lei-7803",
-  "cited_by": 2,
-  "part": "zzzzr"
- },
- {
   "slug": "lei-12276-de-2010",
   "short": "L12276",
   "page": "auto-lei-12276-2010",
@@ -244,6 +213,99 @@
   "vig_ref": "art. 13: in force on publication",
   "row_title": "Lei 12.276/2010, Autoriza a União a ceder onerosamente à Petróleo Brasileiro S.A. - PETROBRAS o exercício das atividades de pesquisa e lavra de petróleo, de gás natural e de outros hidrocarbonetos fluidos de que trata",
   "key": "lei-12276",
+  "cited_by": 2,
+  "part": "zzzzr"
+ },
+ {
+  "slug": "lei-9277-de-1996",
+  "short": "L9277",
+  "page": "auto-lei-9277-1996",
+  "path": "leis/l9277.htm",
+  "law": "lei-9277-1996",
+  "title": "Autoriza a União a delegar aos municípios, estados da Federação e ao Distrito Federal a administração e exploração de rodovias e portos federais (Lei nº 9.277, de 10 de maio de 1996)",
+  "digits": 2,
+  "act_day": [
+   "1996-05-13",
+   "Lei 9.277/1996 art. 7: 'Esta Lei entra em vigor na data de sua publicação' (DOU 13.5.1996)"
+  ],
+  "law_rec": {
+   "label": "Lei nº 9.277, de 1996",
+   "title": "Autoriza a União a delegar aos municípios, estados da Federação e ao Distrito Federal a administração e exploração de rodovias e portos federais.",
+   "kind": "law",
+   "enacted": "1996-05-10",
+   "published": "1996-05-13",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9277.htm",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "ts": "20261007120548",
+  "notes": 0,
+  "vig_ref": "art. 7: in force on publication",
+  "row_title": "Lei 9.277/1996, Autoriza a União a delegar aos municípios, estados da Federação e ao Distrito Federal a administração e exploração de rodovias e portos federais",
+  "key": "lei-9277",
+  "cited_by": 2,
+  "part": "zzzzr"
+ },
+ {
+  "slug": "decreto-lei-2052-de-1983",
+  "short": "DL2052",
+  "page": "auto-dl-2052-1983",
+  "path": "decreto-lei/del2052.htm",
+  "law": "dl-2052-1983",
+  "title": "Dispõe sobre as contribuições para o PIS-PASEP, sua cobrança, fiscalização, processo administrativo e de consulta, e dá outras providências (Decreto-Lei nº 2.052, de 3 de agosto de 1983)",
+  "digits": 2,
+  "act_day": [
+   "1983-08-04",
+   "Decreto-Lei 2.052/1983 art. 17: 'Este Decreto-lei entra em vigor na data de sua publicação' (DOU 4.8.1983)"
+  ],
+  "law_rec": {
+   "label": "Decreto-Lei nº 2.052, de 1983",
+   "title": "Dispõe sobre as contribuições para o PIS-PASEP, sua cobrança, fiscalização, processo administrativo e de consulta, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1983-08-03",
+   "published": "1983-08-04",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2052.htm",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "ts": "20260713070027",
+  "notes": 16,
+  "vig_ref": "art. 17: in force on publication",
+  "row_title": "Decreto-Lei 2.052/1983, Dispõe sobre as contribuições para o PIS-PASEP, sua cobrança, fiscalização, processo administrativo e de consulta, e dá outras providências",
+  "key": "dl-2052",
+  "cited_by": 2,
+  "part": "zzzzr"
+ },
+ {
+  "slug": "decreto-lei-368-de-1968",
+  "short": "DL368",
+  "page": "auto-dl-368-1968",
+  "path": "decreto-lei/del0368.htm",
+  "law": "dl-368-1968",
+  "title": "Dispõe sobre Efeitos de Débitos Salariais e dá outras providências (Decreto-Lei nº 368, de 19 de dezembro de 1968)",
+  "digits": 2,
+  "act_day": [
+   "1968-12-20",
+   "Decreto-Lei 368/1968 art. 9: 'Este Decreto-lei entrará em vigor na data de sua publicação' (DOU 20.12.1968)"
+  ],
+  "law_rec": {
+   "label": "Decreto-Lei nº 368, de 1968",
+   "title": "Dispõe sobre Efeitos de Débitos Salariais e dá outras providências.",
+   "kind": "law",
+   "enacted": "1968-12-19",
+   "published": "1968-12-20",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0368.htm",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "ts": "20260810205931",
+  "notes": 0,
+  "vig_ref": "art. 9: in force on publication",
+  "row_title": "Decreto-Lei 368/1968, Dispõe sobre Efeitos de Débitos Salariais e dá outras providências",
+  "key": "dl-368",
   "cited_by": 2,
   "part": "zzzzr"
  }
