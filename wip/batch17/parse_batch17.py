@@ -10893,6 +10893,7 @@ if any(a["slug"] == _L10865 for a in ACTS):
         ("art-26", None, "end", "lei-10925-2004", "2004-07-26", "2004-11-01", 3),
         # Lei 11.196/2005 art. 132 III b) (art. 15: 1.12.2005), V c) (art. 58, art. 8 § 15: 1.3.2006), art. 133 VI (§ 12 VIII)
         ("art-15", "V -", "end", "lei-11196-2005", "2005-11-22", "2005-12-01", 1),
+        ("art-15", "V -", "start", "lei-11196-2005", "2005-11-22", "2005-12-01", 1),
         ("art-08", "§ 15", "start", "lei-11196-2005", "2005-11-22", "2006-03-01", 1),
         ("art-08", ("I -", "I - 1,0% (um por cento)"), "start", "lei-11196-2005", "2005-11-22", "2006-03-01", 1),
         ("art-08", ("II -", "II - 4,6% (quatro inteiros"), "start", "lei-11196-2005", "2005-11-22", "2006-03-01", 1),
@@ -10940,17 +10941,14 @@ if any(a["slug"] == _L10865 for a in ACTS):
     L10865_EFF58: dict = {}
 
     def _eff58_model(paras, record):
-        # art. 15 first: lines with no note of their own that the reader dated from Lei 11.727's caput note are the Lei's
-        # own lines (the caput too: Lei 11.727's text does not reword it); inciso V in Lei 11.196's wording from 1.12.2005
+        # art. 15 first: the caput, dated by Planalto's note '(Redação dada pela Lei nº 11.727, de 2008)', which Lei 11.727's
+        # text does not support, is the Lei's own line (the note is set aside); the lines under it with no note of their
+        # own then keep the Lei's first day
         for p in paras:
-            if p["unit"] != "art-15" or p["heading"]:
-                continue
-            if p.get("start_law") == "lei-11727-2008" and p.get("start") == "2008-06-24":
-                ns = " ".join(p.get("notes") or [])
-                if p["label"] == "V -" and "11.196" in ns:
-                    p.update(start="2005-12-01", start_law="lei-11196-2005", pinned=True, art15=True)
-                elif p["label"] == "Art. 15" or not re.search(r"Lei|Medida Provisória", ns):
-                    p.update(start="2004-04-30", start_law=None, pinned=True, art15=True)
+            if (p["unit"] == "art-15" and not p["heading"] and p["label"] == "Art. 15"
+                    and p.get("start_law") == "lei-11727-2008" and p.get("start") == "2008-06-24"):
+                p.update(start="2004-04-30", start_law=None, pinned=True, art15=True,
+                         notes=[n for n in (p.get("notes") or []) if "11.727" not in n])
         for i, (ur, lab, side, law, old, new, n) in enumerate(_EFF58):
             lab, pre = lab if isinstance(lab, tuple) else (lab, None)
             for p in paras:
@@ -10986,7 +10984,7 @@ if any(a["slug"] == _L10865 for a in ACTS):
                 if cnt.get(i, 0) != row[6]:
                     B8.SPAN_MISSED.append(f"{_L10865} effect days {row[0]} {row[1]} {row[2]} {row[3]}: {cnt.get(i, 0)} lines, "
                                           f"{row[6]} expected")
-            for k, n in (("mp413_16", 3), ("pu28", 2), ("art15", 18)):
+            for k, n in (("mp413_16", 3), ("pu28", 2), ("art15", 1)):
                 got = sum(1 for p in paras if p.get(k))
                 L10865_EFF58[k] = got
                 if got != n:
@@ -11018,8 +11016,8 @@ if any(a["slug"] == _L10865 for a in ACTS):
     EXTRA.append(
         "Lei 10.865 art. 15: Planalto prints the caput with the note '(Redação dada pela Lei nº 11.727, de 2008)' and no "
         "earlier wording; Lei 11.727's text changes art. 15 only in § 8º (incisos V and VI, arts. 16 and 37) and does not "
-        "reword the caput, so the note is not supported by the amending law's text and the caput, with the incisos and "
-        "paragraphs that carry no note of their own, is the Lei's text from 1.5.2004 (as Lei 9.532 art. 2 § 2º, where "
+        "reword the caput, so the note is not supported by the amending law's text: the note is set aside and the caput, "
+        "with the incisos and paragraphs that carry no note of their own, is the Lei's text from 1.5.2004 (as Lei 9.532 art. 2 § 2º, where "
         "the law's text governs over Planalto's note); inciso V in Lei 11.196/2005's wording starts on 1.12.2005")
     EXTRA.append(
         "Lei 10.865, effect days read in each amending act and set on the lines: Lei 10.925/2004 art. 17 I d) and art. 16 II "
