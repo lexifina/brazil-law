@@ -8845,6 +8845,8 @@ if any(a["slug"] == _LCC16 for a in ACTS):
 
     # ends a line's own note gives, or a rule of the shared readers that sets lines aside: kept as they are
     _CC16_OWN_ENDS = ("note", "lapse", "twin", "promulgation", "conversion", "run-revoked")
+    # (unit, last label key) of the whole provisions Decreto 3.725/1919 art. 3 suppresses with no note on the page
+    _CC16_SUPPRESSED = {("art-1372", (1, "1")), ("art-1787", (0, "caput"))}
 
     def _cc16_model(paras, record):
         """the end of every wording on the all-struck 2026 page (forty-fifth session, the coordinator's reading): a line
@@ -8911,11 +8913,21 @@ if any(a["slug"] == _LCC16 for a in ACTS):
                 elif record:
                     CC16_USED.setdefault("tag-pair-unlisted" if pair else "tag-alone-listed" if unit in dec
                                          else "tag-alone-unlisted", []).append(tag)
+            # art. 35 §§ 3º and 4º: the decree's 'O § 1º passa a ser § 3º ... o § 2º passa a ser § 4º'; the page prints
+            # them only in that numbering (the § 3º noted 'Renumerado do § 1º'), so they start on the decree's day
+            # (decision _W_CC16_ART35)
+            if unit == "art-0035":
+                for p in ps:
+                    if (p["cc16_path"][-1:] in (((1, "3"),), ((1, "4"),)) and p["start"] == _CC16_DAY
+                            and p["state"] != "plain" and not p.get("skip")):
+                        p.update({"start": _CC16_DAY3725, "start_law": "dec-3725-1919", "cc16_dec": True})
+                        if record:
+                            CC16_USED.setdefault("art35", []).append(p["cc16_path"][-1][1])
             live = [q for q in ps if not q.get("skip") or q.get("cc16")]
             for p in ps:
                 if p.get("skip") and not p.get("cc16"):
                     continue
-                if p["state"] == "plain":
+                if p["state"] == "plain" and not p.get("cc16_plainend"):
                     continue
                 if p.get("pinned") and not p.get("cc16"):
                     continue
@@ -8957,6 +8969,10 @@ if any(a["slug"] == _LCC16 for a in ACTS):
                     # (a) the line above ends by its own note and nothing replaces it
                     if a is not None and a.get("end_how") == "note" and a["end"] and a["end"] > p["start"]:
                         cands.append((a["end"], a["end_law"], "parent-revoked"))
+                    # whole provisions Decreto 3.725/1919 art. 3 suppresses that the page prints with no note of it
+                    # ('Art. 1.372, paragrapho unico: Supprima-se.', 'Art. 1.787: Supprima-se.'): they end on its day
+                    if (unit, path[-1]) in _CC16_SUPPRESSED and p["start"] < _CC16_DAY3725:
+                        cands.append((_CC16_DAY3725, "dec-3725-1919", "dec-suppressed"))
                 if cands:
                     d, law, how = min(cands)
                     p.update({"skip": False, "end": d, "end_law": law or None, "end_how": how, "pinned": True,
