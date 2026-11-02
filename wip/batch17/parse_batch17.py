@@ -712,6 +712,9 @@ ALL_ACTS: list[dict] = [
          "Lei Orgânica da Advocacia-Geral da União (Lei Complementar nº 73, de 10 de fevereiro de 1993)", 2),
     _act("lei-de-seguranca-nacional", "LSN", "l7170", "l7170", "lei-7170-1983",
          "Lei de Segurança Nacional (Lei nº 7.170, de 14 de dezembro de 1983)", 2),
+    # fifty-first session (no compiled page used: the annotated page, unstruck before and after ADPF 130, is its own check)
+    _act("lei-de-imprensa", "LImp", "l5250", "l5250", "lei-5250-1967",
+         "Lei de Imprensa (Lei nº 5.250, de 9 de fevereiro de 1967)", 2),
     # read from the capture of 27.10.2015 (before the repeal); its consolidated check is the compiled page of 29.10.2015
     _act("codigo-de-processo-civil-de-1973", "CPC73", "l5869-2015", "l5869compilada-2015", "lei-5869-1973",
          "Código de Processo Civil de 1973 (Lei nº 5.869, de 11 de janeiro de 1973)", 4),
@@ -863,6 +866,8 @@ PARTS: dict[str, list[str]] = {
     "zzzzg": ["lei-das-forcas-armadas"],
     "zzzzh": ["lei-organica-da-agu"],
     "zzzzi": ["lei-de-seguranca-nacional"],
+    # fifty-first session
+    "zzzzj": ["lei-de-imprensa"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1211,6 +1216,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                  "publicação' (DOU 11.2.1993)"),
     "lei-7170-1983": ("1983-12-15", "Lei 7.170/1983 art. 34: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
                                     "15.12.1983)"),
+    "lei-5250-1967": ("1967-03-14", "Lei 5.250/1967 art. 77: 'Esta Lei entrará em vigor a 14 de março de 1967, revogada as "
+                                    "disposições em contrário' (DOU 10.2.1967, rectified 10.3.1967)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1837,6 +1844,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-7170-1983": _L("Lei nº 7.170, de 1983", "Define os crimes contra a segurança nacional, a ordem política e social, "
                         "estabelece seu processo e julgamento e dá outras providências.", "1983-12-14", "1983-12-15",
                         PAGES["l7170"]),
+    "lei-5250-1967": _L("Lei nº 5.250, de 1967", "Regula a liberdade de manifestação do pensamento e de informação.",
+                        "1967-02-09", "1967-02-10", PAGES["l5250"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
