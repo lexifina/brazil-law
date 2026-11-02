@@ -8356,6 +8356,10 @@ _W_CPC73_SPANS = {
     "741": ("Código de Processo Civil de 1973 art. 741 parágrafo único: the wording Lei 11.232/2005 gave it carries the note "
             "'(Redação pela Lei nº 11.232, de 2005)' ('dada' missing), read as 'Redação dada'; Medida Provisória nº "
             "2.180-35/2001's wording (in force 27.8.2001, still in force under EC 32/2001 art. 2) stood until then"),
+    "541": ("Código de Processo Civil de 1973 art. 541: Lei 8.038/1990 art. 44 ('Revogam-se as disposições em contrário, "
+            "especialmente os arts. 541 a 546 do Código de Processo Civil'; in force on publication, 29.5.1990) revoked it; "
+            "Planalto prints the 1973 wording struck with no note, so it ends then, as arts. 542 to 546 do by their notes, "
+            "until Lei 8.950/1994 revived the articles (in force 12.2.1995)"),
     "746": ("Código de Processo Civil de 1973 art. 746 and its Capítulo IV (Dos embargos à arrematação e à adjudicação): Lei "
             "11.382/2006 rewrote art. 746 and renumbered Capítulo V as IV; Planalto prints the 1973 chapter heading and "
             "article struck, with no note, after the new wording: they end when Lei 11.382 took effect (21.1.2007)"),
@@ -8433,6 +8437,8 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
         ((_LCPC73, "art-0746", "Art. 746", "Art. 746. É lícito ao devedor oferecer embargos", 0), _F746, _W_CPC73_SPANS["746"]),
         ((_LCPC73, "art-0746", "Parágrafo único", "Parágrafo único. Aos embargos opostos na forma deste artigo", 0), _F746,
          _W_CPC73_SPANS["746"]),
+        ((_LCPC73, "art-0541", "Art. 541", "Art. 541. Caberá recurso extraordinário para o Supremo", 0),
+         {"end": "1990-05-29", "end_law": "lei-8038-1990", "end_how": "note"}, _W_CPC73_SPANS["541"]),
         ((_LCPC73, "art-1082", "Art. 1.082", "Art. 1.082. Responde por perdas e danos", 0),
          {"end": "1996-11-23", "end_law": "lei-9307-1996", "end_how": "note"}, _W_CPC73_SPANS["1082"]),
         ((_LCPC73, "art-1218", "XIV -", "XIV - aos salvados marítimos", 0), _F_REN, _W_CPC73_SPANS["1218"]),
@@ -8498,7 +8504,11 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
             if (p["heading"] or p["state"] != "struck" or p.get("pinned") or p["start"] != _CPC73_DAY or p["start_law"]
                     or p["end_how"] not in (None, "undated", "next-wording")):
                 continue
-            nxt = next((q for q in paras[i + 1:] if q["unit"] != p["unit"] or q["state"] != "struck"), None)
+            if p.get("notes"):
+                continue
+            # the next line of the article that a law wrote (struck or not: Lei 5.925's wording of arts. 543 and 545 is
+            # struck too, revoked by Lei 8.038/1990)
+            nxt = next((q for q in paras[i + 1:] if q["unit"] != p["unit"] or q["state"] != "struck" or q["start_law"]), None)
             if nxt is None or nxt["unit"] != p["unit"] or nxt["start_law"] != "lei-5925-1973" or nxt["start"] != _CPC73_DAY:
                 continue
             p.update({"skip": True, "pinned": True, "end": _CPC73_DAY, "end_law": "lei-5925-1973", "end_how": "never-in-force"})
