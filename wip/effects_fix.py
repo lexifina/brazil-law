@@ -646,6 +646,16 @@ MOVES: dict[str, list] = {
          "Lei 11.727/2008 art. 41: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeitos em relação: [...] IV - "
          "aos arts. 7º, 9º a 12 e 14 a 16, a partir do primeiro dia do quarto mês subseqüente ao da publicação desta Lei' (IV as "
          "Lei 11.827/2008 worded it; DOU 24.6.2008): its art. 9 (new wording of Lei 11.196 art. 64) from 1.10.2008"),
+        ("lei-do-bem", "mp-460-2009", "2009-03-31", [("units:art-62", "2009-07-01")],
+         "Medida Provisória 460/2009 art. 7: 'Esta Medida Provisória entra em vigor na data de sua publicação, produzindo "
+         "efeitos: I - a partir do primeiro dia do quarto mês subseqüente à publicação, com relação ao art. 5º' (DOU "
+         "31.3.2009): its art. 5 (new wording of Lei 11.196 art. 62) from 1.7.2009"),
+        ("lei-do-bem", "lei-12715-2012", "2012-09-18", [("units:art-28", "2013-04-09")],
+         "Lei 12.715/2012 art. 78: 'Esta Lei entra em vigor na data de sua publicação, produzindo efeitos: [...] II - em relação "
+         "aos arts. 40 a 44 e 62, a partir de sua regulamentação' (DOU 18.9.2012): its art. 62 (Lei 11.196 art. 28) from "
+         "9.4.2013, the publication of Decreto 7.981/2013 ('tendo em vista o disposto no art. 62 da Lei nº 12.715', in force on "
+         "publication, DOU 9.4.2013), which amended Decreto 5.602/2005, the regulation of the Programa de Inclusão Digital; its "
+         "art. 61 (arts. 2 and 13) on publication"),
     ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,

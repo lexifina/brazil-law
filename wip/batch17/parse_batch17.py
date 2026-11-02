@@ -8012,7 +8012,7 @@ _FUT2027[_LBEM] = (
     {"art-04", "art-05", "art-06", ("art-08", "§ 1º"), ("art-08", "§ 3º"), ("art-08", "§ 5º"), "art-09",
      *(f"art-{n}" for n in range(12, 17)), "art-28", "art-28-a", "art-29", "art-30", ("art-31", "II -"), ("art-31", "§ 7º"),
      *(f"art-{n}" for n in range(41, 52)), "art-55", "art-56", "art-57", "art-57-a", "art-57-b", "art-57-c", "art-57-d",
-     "art-58", "art-59", *(f"art-{n}" for n in range(62, 66)), "art-109", ("art-110", "§ 4º")},
+     "art-58", "art-59", *(f"art-{n}" for n in range(62, 66)), "art-109"},
     {"art-11": [("caput", "Art. 11. A importação dos bens relacionados",
                  "Art. 11. A importação de bens novos relacionados pelo Poder Executivo destinados ao desenvolvimento, no País, "
                  "de software e de serviços de tecnologia da informação, relacionados em regulamento pelo Poder Executivo, sem "
@@ -8020,17 +8020,14 @@ _FUT2027[_LBEM] = (
                  "imobilizado, será efetuada com suspensão da exigência do Imposto sobre Produtos Industrializados - IPI."),
                 ("§ 1º", "§ 1º A suspensão de que trata o caput deste artigo",
                  "§ 1º A suspensão de que trata o caput converte-se em isenção após cumpridas as condições de que trata o art. "
-                 "2º desta Lei, observado que:")],
-     "art-110": [("caput", "Art. 110. Para efeito de determinação da base de cálculo da Contribuição",
-                  "Art. 110. Para efeito de determinação da base de cálculo do IRPJ e da CSLL, as instituições financeiras e as "
-                  "demais instituições autorizadas a funcionar pelo Banco Central do Brasil devem computar como receitas ou "
-                  "despesas incorridas nas operações realizadas em mercados de liquidação futura:")]},
+                 "2º desta Lei, observado que:")]},
     "Lei 11.196: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] XXXIV - os "
     "seguintes dispositivos da Lei nº 11.196, de 21 de novembro de 2005: a) o arts. 4º a 6º; b) os §§ 1º, 3º e 5º do art. "
     "8º; c) o art. 9º; d) os arts. 12 a 16; e) os arts. 28 a 30; f) do art. 31: 1. o inciso II do caput; e 2. o § 7º; g) os "
     "arts. 41 a 51; h) os arts. 55 a 59; i) os arts. 62 a 65; j) o art. 109; e k) o § 4º do art. 110'; a range of articles "
-    "takes in the lettered articles between them: 28-A and 57-A to 57-D) and art. 515 (new caput of art. 11 and of its § 1º, "
-    "with new incisos I and II, and new caput of art. 110), both in effect from 1.1.2027 (art. 544 III, as Lei Complementar "
+    "takes in the lettered articles between them: 28-A and 57-A to 57-D; art. 110, held, is left out) and art. 515 (new "
+    "caput of art. 11 and of its § 1º, with new incisos I and II; its new caput of art. 110 is left out with the article), "
+    "both in effect from 1.1.2027 (art. 544 III, as Lei Complementar "
     "227/2026 worded it), read on LC 214's page (Planalto's page of Lei 11.196 does not print them): on 1.1.2027, on the "
     "future branch",
     {"art-11": ("§ 1º", [("I -", "I - o percentual de exportações de que trata o art. 2º desta Lei será apurado "
