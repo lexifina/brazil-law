@@ -595,13 +595,6 @@ MOVES: dict[str, list] = {
          "publicação, em relação aos arts. 537 a 540' (DOU 16.1.2025): its art. 539 (Lei 10.833 art. 2 § 1º-A) from 1.5.2025"),
     ],
     "99-batch17zzzze.json": [
-        ("lei-10931-de-2004", "mp-601-2012", "2012-12-28",
-         [(lines_match(r"^Art\. [48]º .*quatro por cento|^(I|II|III|IV) - [0-9,]+% \(.*\) como (Cofins|Contribuição|IRPJ|CSLL)"),
-           "2013-01-01")],
-         "Medida Provisória 601/2012 art. 7: 'Esta Medida Provisória entra em vigor: [...] II - na data de sua publicação, "
-         "produzindo efeitos a partir de 1º de janeiro de 2013, em relação aos arts. 4º e 6º' (DOU 28.12.2012): its art. 4 (Lei "
-         "10.931 art. 4 caput and art. 8 caput and incisos) from 1.1.2013, until it lapsed (4.6.2013); Lei 12.767/2012's art. 4 "
-         "§ 7º, the same day, on its in-force day"),
         ("lei-10931-de-2004", "lc-214-2025", "2025-01-16", [(ALL, "2026-01-01")],
          _LC214 + "; its art. 498 (Lei 10.931 art. 3) falls under VI: from 1.1.2026"),
     ],

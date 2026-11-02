@@ -9703,7 +9703,15 @@ if any(a["slug"] == _L10931 for a in ACTS):
     P.VIGENCIA_FIXED["mp-601-2012"] = (
         "2012-12-28", "art. 7: 'Esta Medida Provisória entra em vigor: [...] II - na data de sua publicação, produzindo efeitos a "
                       "partir de 1º de janeiro de 2013, em relação aos arts. 4º e 6º' (DOU 28.12.2012): its art. 4 (Lei 10.931 "
-                      "arts. 4 and 8) is in force on publication, with effect from 1.1.2013 (effect day: effects_fix)")
+                      "arts. 4 and 8) is in force on publication, with effect from 1.1.2013 (VIGENCIA_PROVISION below)")
+    # set in the parser, not by effects_fix: Lei 12.767/2012 changed art. 4 § 7º on the MP's publication day, and a move
+    # of the MP's hunks would leave the MP credited on art. 4 that day
+    for _u in ("art-04", "art-08"):
+        P.VIGENCIA_PROVISION[("mp-601-2012", _L10931, _u)] = (
+            "2013-01-01", "Medida Provisória 601/2012 art. 7: 'Esta Medida Provisória entra em vigor: [...] II - na data de "
+                          "sua publicação, produzindo efeitos a partir de 1º de janeiro de 2013, em relação aos arts. 4º e 6º' "
+                          "(DOU 28.12.2012): its art. 4 (Lei 10.931 art. 4 caput and art. 8) from 1.1.2013, until it lapsed "
+                          "(4.6.2013)")
     P.MP_LAPSE["mp-601-2012"] = (
         "2013-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 36, de 2013 (DOU 6.6.2013): 'teve seu "
                       "prazo de vigência encerrado no dia 3 de junho do corrente ano'; the wordings it gave Lei 9.718 end on "
