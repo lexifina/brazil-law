@@ -10214,6 +10214,10 @@ _G9532 = {_u(n): ("1998-01-01", "II") for n in (*range(1, 9), *range(10, 37), 43
 G9532_USED: list[str] = []
 _GATES[_L9532] = (_G9532, "lei-9532-1997", G9532_USED)
 if any(a["slug"] == _L9532 for a in ACTS):
+    B8.LAW_FIELD_FIX["lei-9718-1998"] = (
+        {"url": PL + PAGES["l9718"]},
+        "Lei 9.718/1998's law record takes the address of its page as part zj has it ('leis/l9718.htm'; Lei 9.532's notes "
+        "link 'L9718.htm', the same page), so the two parts' records are equal")
     EXTRA.append(
         "Lei 9.532: art. 81 ('Esta Lei entra em vigor na data de sua publicação, produzindo efeitos: I - nessa data, em "
         "relação aos arts. 9º, 37 a 42, 44 a 54, 64 a 68, 74 e 75; II - a partir de 1º de janeiro de 1998, em relação aos "
@@ -10250,7 +10254,9 @@ if any(a["slug"] == _L9532 for a in ACTS):
         "Medida Provisória 1.602/1997, the Lei's origin, which the history does not show; Planalto's '(Vide ADIN Nº 1802)' "
         "markers (art. 12 caput, § 1º and § 2º f), art. 13 caput, art. 14) and '(Vide ADI 1.758-4, DE 1998)' marker (art. 28 "
         "caput) point to the Supremo Tribunal Federal's judgments in those cases, whose effect on the text could not be read "
-        "(their records were not read); the markers are left out of the text and the judgments are not modelled")
+        "(their records were not read); the markers are left out of the text and the judgments are not modelled; both "
+        "Planalto pages strike art. 2 § 2º with the note '(Revogado pela Medida provisória nº 2.156-5, de 24.8.2001)', "
+        "while that MP's art. 32 XVII names only 'o § 1º do art. 2º da Lei nº 9.532'; the history follows Planalto's note")
     # coordinator decision (session 54): the STF records of ADI 1.802 and ADI 1.758 sit under the robots-Disallowed
     # /processos; no allowed record of either ruling was found (Informativos 897 and 898, April 2018, read: neither names
     # ADI 1.802), so each gets the decision line LC 97 got for ADI 6457
@@ -10270,6 +10276,61 @@ if any(a["slug"] == _L9532 for a in ACTS):
          {"start": "1997-12-11", "start_law": None, "gaps": [("2002-10-04", "2002-12-12", "mp-71-2002", "mp-71-2002-fim")]},
          _W9532_75),
     ]
+    # art. 27 parágrafo único: Medida Provisória 232/2004 art. 4 gave it a new wording (DOU 30.12.2004; art. 14 III, before
+    # and after Medida Provisória 243/2005 reworded it: effects from 1.1.2005); Medida Provisória 243/2005 art. 4 I (DOU
+    # 31.3.2005, edição extra; art. 3: in force on publication) revoked arts. 4 to 13 of MP 232, so the 1997 wording is back
+    # from 31.3.2005 (Lei 11.119/2005, the conversion of MP 232, does not include its art. 4). Planalto prints the 1997 lines
+    # struck, then MP 232's, then the 1997 lines again unstruck
+    _W9532_27 = ("Lei 9.532 art. 27 parágrafo único: Medida Provisória 232/2004 art. 4 gave it a new wording (DOU "
+                 "30.12.2004), with effect from 1.1.2005 (its art. 14 III, and art. 14 as Medida Provisória 243/2005 worded "
+                 "it); Medida Provisória 243/2005 art. 4 I ('Ficam revogados: I - os arts. 4º a 13 da Medida Provisória nº "
+                 "232, de 30 de dezembro de 2004'; DOU 31.3.2005, edição extra; in force on publication) revoked that change, "
+                 "so the 1997 wording is back from 31.3.2005, credited to Medida Provisória 243 (Lei 11.119/2005, the "
+                 "conversion of Medida Provisória 232, does not include its art. 4; Planalto's page of Lei 9.532 names neither "
+                 "Medida Provisória 243 nor the end of the change). Planalto prints the 1997 lines struck, then the Medida "
+                 "Provisória's, then the 1997 lines again unstruck; the unstruck copy is the history's line (out from 1.1.2005 "
+                 "to 30.3.2005), the struck one a copy left out")
+    _G9532_27 = {"start": "1997-12-11", "start_law": None,
+                 "gaps": [("2005-01-01", "2005-03-31", "mp-232-2004", "mp-243-2005")]}
+    _M9532_27 = {"start": "2005-01-01", "end": "2005-03-31", "end_law": "mp-243-2005", "end_how": "repealed"}
+    _DUP = {"skip": True, "end_how": "duplicate"}
+    _PU27 = "Parágrafo único. A multa a que se refere o art. 88 da Lei nº 8.981, de 1995"
+    B8.SPAN_FIX += [
+        ((_L9532, "art-27", "Parágrafo único", _PU27 + ", será", 0), dict(_DUP), _W9532_27),
+        ((_L9532, "art-27", "a)", "a) deduzida do imposto", 0), dict(_DUP), _W9532_27),
+        ((_L9532, "art-27", "b)", "b) exigida por meio de lançamento", 0), dict(_DUP), _W9532_27),
+        ((_L9532, "art-27", "Parágrafo único", _PU27 + ":", 0), dict(_M9532_27), _W9532_27),
+        ((_L9532, "art-27", "a)", "a) poderá ser deduzida", 0), dict(_M9532_27), _W9532_27),
+        ((_L9532, "art-27", "b)", "b) será exigida por meio", 0), dict(_M9532_27), _W9532_27),
+        ((_L9532, "art-27", "Parágrafo único", _PU27 + ", será", 1), dict(_G9532_27), _W9532_27),
+        ((_L9532, "art-27", "a)", "a) deduzida do imposto", 1), dict(_G9532_27), _W9532_27),
+        ((_L9532, "art-27", "b)", "b) exigida por meio de lançamento", 1), dict(_G9532_27), _W9532_27),
+    ]
+    B8.EXTRA_LAWS["mp-243-2005"] = {
+        "label": "Medida Provisória nº 243, de 2005", "title": "Altera a legislação tributária Federal e dá outras "
+        "providências.", "kind": "law", "enacted": "2005-03-31", "published": "2005-03-31",
+        "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Mpv/243.htm", "temporary_until": None,
+        "restores": None, "note": None}
+    B8.LAW_FIELD_FIX["mp-232-2004"] = (
+        {"title": "Altera a Legislação Tributária Federal e dá outras providências."},
+        "Medida Provisória 232/2004's law record takes its ementa as the page prints it ('A ltera a Legislação Tributária "
+        "Federal e dá outras providências.', with a break inside the first word); the reader had also taken the links above "
+        "it ('Vide texto compilado', 'Exposição de Motivos') into the title")
+    # Lei Complementar 214/2025 art. 542 VI ('Ficam revogados a partir de 1º de janeiro de 2027: [...] VI - os arts. 53 e 54
+    # da Lei nº 9.532'), in effect from 1.1.2027 (art. 544 III, as Lei Complementar 227/2026 worded it): future branch
+    _FUT2027[_L9532] = (
+        {"art-53", "art-54"}, {},
+        "Lei 9.532: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] VI - os arts. "
+        "53 e 54 da Lei nº 9.532, de 10 de dezembro de 1997'), in effect from 1.1.2027 (art. 544 III, as Lei Complementar "
+        "227/2026 worded it), read on LC 214's page (Planalto's page of Lei 9.532 prints only '(Vide Lei Complementar nº 214, "
+        "de 2025)'): arts. 53 and 54 end on 1.1.2027, on the future branch")
+    # the law record as 99-batch14a/17zj/17zk have it (Planalto's page of Lei 9.532 names LC 214 only in 'Vide' notes)
+    B8.EXTRA_LAWS["lc-214-2025"] = {
+        "label": "Lei Complementar nº 214, de 2025", "title": "Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição "
+        "Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação "
+        "tributária.", "kind": "law", "enacted": "2025-01-16", "published": "2025-01-16",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp214.htm", "temporary_until": None, "restores": None,
+        "note": None}
     B.EXPLAINED[_L9532] = {
         "art-67": "check artefact: art. 67 quotes Decreto 70.235/1972 art. 23 with the dotted line '§ 2º .....', which the "
                   "history keeps as '§ 2º.' and the check, reading label-only lines as revoked dispositivos, drops",

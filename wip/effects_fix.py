@@ -661,6 +661,25 @@ MOVES: dict[str, list] = {
          "publication, DOU 9.4.2013), which amended Decreto 5.602/2005, the regulation of the Programa de Inclusão Digital; its "
          "art. 61 (arts. 2 and 13) on publication"),
     ],
+    "99-batch17zzzzl.json": [
+        ("lei-9532-de-1997", "lei-9718-1998", "1998-11-28", [("units:art-15", "1999-01-01")],
+         "Lei 9.718/1998 art. 18: 'Ficam revogados, a partir de 1º de janeiro de 1999: [...] IV - o § 4º do art. 15 da Lei nº "
+         "9.532, de 1997' (DOU 28.11.1998): the revocation from 1.1.1999; its art. 10 (Lei 9.532 arts. 7 and 12) is not among "
+         "the articles art. 17 dates later, so on publication"),
+        ("lei-9532-de-1997", "lei-13043-2014", "2014-11-14", [("units:art-11", "2015-01-01")],
+         "Lei 13.043/2014 art. 113: 'Esta Lei entra em vigor na data de sua publicação, exceto: [...] II - os arts. 1º a 15, "
+         "30 a 32, 97, 106 e os artigos da Seção XXI do Capítulo I, que entram em vigor a partir de 1º de janeiro de 2015' (DOU "
+         "14.11.2014): its art. 85 (Seção XXI; Lei 9.532 art. 11 §§ 6º and 7º) from 1.1.2015; its art. 76 (Seção XVIII; art. 64 "
+         "§ 12) on publication"),
+        ("lei-9532-de-1997", "lei-14439-2022", "2022-08-25", [(ALL, "2023-01-01")],
+         "Lei 14.439/2022 art. 4: 'Esta Lei entra em vigor na data de sua publicação e produzirá efeitos a partir de 1º de "
+         "janeiro do ano-calendário subsequente ao de sua publicação' (DOU 25.8.2022): its art. 2 (Lei 9.532 art. 6 II) from "
+         "1.1.2023"),
+        ("lei-9532-de-1997", "lei-14754-2023", "2023-12-13", [(ALL, "2024-01-01")],
+         "Lei 14.754/2023 art. 47: 'produzirá efeitos: I - imediatamente, quanto aos arts. 28 e 29, aos §§ 4º, 5º e 6º do art. "
+         "30 e aos arts. 42 e 43; e II - a partir de 1º de janeiro de 2024, quanto aos demais dispositivos' (DOU 13.12.2023): "
+         "its art. 46 III (revocation of Lei 9.532 arts. 28 to 35) from 1.1.2024"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,
