@@ -7536,6 +7536,10 @@ if any(a["slug"] == _LBEM for a in ACTS):
     P.VIGENCIA_FIXED["mp-836-2018"] = (
         "2018-09-01", "art. 2: 'Esta Medida Provisória entra em vigor no primeiro dia do quarto mês subsequente ao da sua "
                       "publicação' (DOU 30.5.2018, edição extra): 1.9.2018")
+    P.NOTE_FIX["(Revogado pela Lei nº 13.241, de 1941)"] = (
+        "(Revogado pela Lei nº 13.241, de 2015)",
+        "Lei 11.196 art. 30: the note reads 'Lei nº 13.241, de 1941'; its link goes to Lei 13.241 of 30.12.2015 (conversion of "
+        "Medida Provisória 690/2015), whose art. 14 revokes art. 30")
     B7.CONVERTED_FIX["mp-690-2015"] = ("lei-13241-2015", "the MP page reads 'Convertida na Lei nº 13;241, de 2015' (a semicolon "
                                                          "for the point)")
     P.MP_LAPSE["mp-836-2018"] = (
