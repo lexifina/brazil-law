@@ -324,6 +324,9 @@ PAGES.update({
     "lcp70": "leis/lcp/lcp70.htm",
     "l4380": "leis/l4380.htm",
     "l15040": "_ato2023-2026/2024/lei/l15040.htm",
+    # sixty-fifth session: ranked by the inventory of Planalto's index pages and the corpus's citations
+    "l11326": "_ato2004-2006/2006/lei/l11326.htm",
+    "lcp63": "leis/lcp/lcp63.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -754,6 +757,13 @@ ALL_ACTS: list[dict] = [
          "1991)", 2),
     _act("lei-do-contrato-de-seguro", "LSeg", "l15040", "l15040", "lei-15040-2024",
          "Lei do Contrato de Seguro: normas de seguro privado (Lei nº 15.040, de 9 de dezembro de 2024)", 3),
+    # sixty-fifth session
+    _act("lei-da-agricultura-familiar", "LAF", "l11326", "l11326", "lei-11326-2006",
+         "Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais (Lei nº 11.326, de 24 de julho de "
+         "2006)", 2),
+    _act("lei-complementar-63-de-1990", "LC63", "lcp63", "lcp63", "lc-63-1990",
+         "Crédito das parcelas municipais do produto da arrecadação de impostos estaduais (Lei Complementar nº 63, de 11 "
+         "de janeiro de 1990)", 2),
     # forty-fourth session: read from the 2026 capture with the repeal's page-wide CSS strike removed; its pre-repeal check
     # is the capture of 2.6.2002
     _act("codigo-civil-de-1916", "CC16", "l3071", "l3071-2002", "lei-3071-1916",
@@ -915,6 +925,8 @@ PARTS: dict[str, list[str]] = {
     "zzzzo": ["lei-do-pis"],
     "zzzzp": ["lei-da-cofins"],
     "zzzzq": ["lei-do-contrato-de-seguro"],
+    # sixty-fifth session (TRIAL, not published)
+    "zzzzr": ["lei-da-agricultura-familiar", "lei-complementar-63-de-1990"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1287,6 +1299,9 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-15040-2024": ("2025-12-11", "Lei 15.040/2024 art. 134: 'Esta Lei entra em vigor após decorrido 1 (um) ano de sua "
                                      "publicação oficial' (DOU 10.12.2024; counted as Lei Complementar 95 art. 8 § 1º): "
                                      "11.12.2025"),
+    "lei-11326-2006": ("2006-07-25", f"Lei 11.326/2006 art. 7: {_PUB} (DOU 25.7.2006)"),
+    "lc-63-1990": ("1990-01-12", "Lei Complementar 63/1990 art. 11: 'Esta Lei Complementar entra em vigor na data de sua "
+                                 "publicação' (DOU 12.1.1990)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1944,6 +1959,12 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-15040-2024": _L("Lei nº 15.040, de 2024", "Dispõe sobre normas de seguro privado; e revoga dispositivos da Lei nº "
                          "10.406, de 10 de janeiro de 2002 (Código Civil), e do Decreto-Lei nº 73, de 21 de novembro de "
                          "1966.", "2024-12-09", "2024-12-10", "_Ato2023-2026/2024/Lei/L15040.htm"),
+    "lei-11326-2006": _L("Lei nº 11.326, de 2006", "Estabelece as diretrizes para a formulação da Política Nacional da "
+                         "Agricultura Familiar e Empreendimentos Familiares Rurais.", "2006-07-24", "2006-07-25",
+                         PAGES["l11326"]),
+    "lc-63-1990": _L("Lei Complementar nº 63, de 1990", "Dispõe sobre critérios e prazos de crédito das parcelas do produto "
+                     "da arrecadação de impostos de competência dos Estados e de transferências por estes recebidos, "
+                     "pertencentes aos Municípios, e dá outras providências.", "1990-01-11", "1990-01-12", PAGES["lcp63"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
