@@ -10010,6 +10010,48 @@ if any(a["slug"] == _LSN for a in ACTS):
     B13.OPEN_ITEMS[_LSN] = (
         "Lei 7.170 (open items): the page has no amendment note; the history is the text as enacted, to the revocation")
 
+# part zzzzj (fifty-first session): Lei 5.250/1967 (Lei de Imprensa). In force 14.3.1967 (art. 77). The STF's judgment in
+# ADPF 130 (Plenário, 30.4.2009; acórdão read on the STF's own record: 'julgar procedente a ação' and, in its ementa, 'Total
+# procedência da ADPF, para o efeito de declarar como não recepcionado pela Constituição de 1988 todo o conjunto de
+# dispositivos da Lei federal nº 5.250') ends every provision on the judgment day (coordinator decision, session 51: the day
+# the corpus gives STF rulings), credited to the ruling. Planalto prints the page unstruck under a 'Vide ADPF nº 130' link,
+# so the history to 29.4.2009 is checked against that unstruck text (B9.REPEALS' check), and the ends are marked 'court'.
+_LIMP = "lei-de-imprensa"
+if any(a["slug"] == _LIMP for a in ACTS):
+    _ADPF130_DAY = "2009-04-30"
+    P.COURTS["stf-adpf-130"] = {
+        "label": "STF, ADPF 130", "kind": "court", "enacted": _ADPF130_DAY, "published": _ADPF130_DAY,
+        "title": "Arguição de descumprimento de preceito fundamental 130 (Min. Carlos Britto, Plenário, 30.4.2009): julga "
+                 "procedente a ação, para declarar como não recepcionado pela Constituição de 1988 todo o conjunto de "
+                 "dispositivos da Lei nº 5.250, de 9 de fevereiro de 1967",
+        "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=605411",
+        "from": _ADPF130_DAY, "case": r"ADPF\s*n?[º°]?\s*130", "where": [],
+        "why": "Lei de Imprensa held not received by the 1988 Constitution as a whole"}
+    B9.REPEALS[_LIMP] = (
+        _ADPF130_DAY, "stf-adpf-130",
+        "Lei 5.250/1967 (Lei de Imprensa): the Supremo Tribunal Federal's Plenário judged ADPF 130 on 30.4.2009 ('Brasília, 30 "
+        "de abril de 2009' in the acórdão; 'acordam os Ministros do Supremo Tribunal Federal em julgar procedente a ação'; "
+        "ementa: 'Total procedência da ADPF, para o efeito de declarar como não recepcionado pela Constituição de 1988 todo o "
+        "conjunto de dispositivos da Lei federal nº 5.250, de 9 de fevereiro de 1967'), so its last version, on 30.4.2009, "
+        "the judgment day, removes every provision, credited to the ruling (a court law). The interim orders of 2008 and "
+        "2009 that suspended some of its provisions until the judgment are not modelled. Planalto prints the page unstruck "
+        "under a 'Vide ADPF nº 130' link, and the history up to 29.4.2009 is checked against that unstruck text")
+    _lifespans_limp = P.lifespans
+
+    def _lifespans_adpf130(paras, cx):
+        problems = _lifespans_limp(paras, cx)
+        if cx.act == _LIMP:
+            for p in paras:
+                if p.get("end_law") == "stf-adpf-130" and p.get("end_how") == "act-repealed":
+                    p["end_how"] = "court"
+        return problems
+
+    P.lifespans = B.lifespans = _lifespans_adpf130
+    B13.OPEN_ITEMS[_LIMP] = (
+        "Lei 5.250 (open items): the medida cautelar of 21.2.2008 (referendada 27.2.2008, extended 4.9.2008 and 18.2.2009) "
+        "suspended some provisions until the judgment; the history does not model it, ending the whole Lei on the judgment "
+        "day only")
+
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
     SRC.write_text('{\n "fetch": []\n}\n', encoding="utf-8", newline="\n")
