@@ -734,6 +734,9 @@ ALL_ACTS: list[dict] = [
     # fifty-fourth session: ranked item 10 (annotated page; the compiled page is the consolidated check)
     _act("lei-9532-de-1997", "L9532", "l9532", "l9532-compilado", "lei-9532-1997",
          "Legislação tributária federal (Lei nº 9.532, de 10 de dezembro de 1997)", 2),
+    # fifty-fifth session: ranked item 10, second act (annotated page; the compiled page is the consolidated check)
+    _act("lei-10865-de-2004", "L10865", "l10865", "l10865-compilado", "lei-10865-2004",
+         "PIS/PASEP-Importação e COFINS-Importação (Lei nº 10.865, de 30 de abril de 2004)", 2),
     # forty-fourth session: read from the 2026 capture with the repeal's page-wide CSS strike removed; its pre-repeal check
     # is the capture of 2.6.2002
     _act("codigo-civil-de-1916", "CC16", "l3071", "l3071-2002", "lei-3071-1916",
@@ -887,6 +890,8 @@ PARTS: dict[str, list[str]] = {
     "zzzzk": ["lei-do-dpvat"],
     # fifty-fourth session
     "zzzzl": ["lei-9532-de-1997"],
+    # fifty-fifth session (not verified yet: trial only)
+    "zzzzm": ["lei-10865-de-2004"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1243,6 +1248,9 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                     "efeitos: I - nessa data, em relação aos arts. 9º, 37 a 42, 44 a 54, 64 a 68, 74 e 75; II - a "
                                     "partir de 1º de janeiro de 1998, em relação aos demais dispositivos dela constantes' (DOU "
                                     "11.12.1997); the articles under II start on 1.1.1998"),
+    "lei-10865-2004": ("2004-04-30", "Lei 10.865/2004 art. 53: 'Esta Lei entra em vigor na data de sua publicação, "
+                                     "produzindo efeitos a partir do dia 1º de maio de 2004, ressalvadas as disposições "
+                                     "contidas nos artigos anteriores' (DOU 30.4.2004, edição extra)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1876,6 +1884,10 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         "1974-12-20", PAGES["l6194"]),
     "lei-9532-1997": _L("Lei nº 9.532, de 1997", "Altera a legislação tributária federal e dá outras providências.",
                         "1997-12-10", "1997-12-11", "leis/L9532.htm"),
+    "lei-10865-2004": _L("Lei nº 10.865, de 2004", "Dispõe sobre a Contribuição para os Programas de Integração Social e de "
+                         "Formação do Patrimônio do Servidor Público e a Contribuição para o Financiamento da Seguridade "
+                         "Social incidentes sobre a importação de bens e serviços e dá outras providências.", "2004-04-30",
+                         "2004-04-30", "_Ato2004-2006/2004/Lei/L10.865.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -10361,6 +10373,24 @@ if any(a["slug"] == _L9532 for a in ACTS):
                   "'(Revogado pela Medida provisória nº 2.156-5, de 24.8.2001)', which that Medida Provisória's text does not "
                   "support",
     }
+
+# part zzzzm (fifty-fifth session, TRIAL): Lei 10.865/2004 (PIS/PASEP-Importação and COFINS-Importação; conversion of
+# Medida Provisória 164/2004). Art. 53: in force on publication (DOU 30.4.2004, edição extra), effects from 1.5.2004 save
+# the articles before it that state their own days: art. 48 (art. 39 from 1.1.2005), art. 45 (the Lei's changes to MP 164 in
+# art. 8 §§ 1º-3º, 5º, 8º, 9º, arts. 16, 17 and 22 from 1.8.2004; MP 164's original wording of them from 1.5.2004: NOT YET
+# MODELLED), art. 44 § 1º (the revocation's effects from August 2004, a provision of Lei 10.147). Arts. 45 to 53 are in the
+# first version (as Lei 9.532's art. 81)
+_L10865 = "lei-10865-de-2004"
+_G10865 = {_u(n): ("2004-05-01", "art. 53") for n in range(1, 45)}
+_G10865[_u(39)] = ("2005-01-01", "art. 48")
+G10865_USED: list[str] = []
+_GATES[_L10865] = (_G10865, "lei-10865-2004", G10865_USED)
+if any(a["slug"] == _L10865 for a in ACTS):
+    EXTRA.append(
+        "Lei 10.865: art. 53 ('Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir do dia 1º de "
+        "maio de 2004, ressalvadas as disposições contidas nos artigos anteriores'; DOU 30.4.2004, edição extra): arts. 45 to "
+        "53, which state the effect days, are in the first version, on 30.4.2004; arts. 1 to 38 and 40 to 44 start on "
+        "1.5.2004 and art. 39 on 1.1.2005 (art. 48), credited to Lei 10.865")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
