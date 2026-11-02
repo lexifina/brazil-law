@@ -9486,6 +9486,8 @@ if any(a["slug"] == _LPELE for a in ACTS):
              "only: each line stands once, out while the MP stood, to 13.12.2018 (art. 8's 'Parágrafo único. (Revogado).', "
              "Lei 12.395/2011's wording, has no MP note but falls under the MP's revocation of the whole article)")
     _G841 = [("2018-06-12", "2018-10-24", "mp-841-2018", "mp-841-2018-fim")]
+    _N841 = "(Revogado pela Medida Provisória nº 841, de 2018 (Vigência encerrada))"   # as Planalto notes it on art. 6 § 1º
+    _N12395 = "(Redação dada pela Lei nº 12.395, de 2011)"
     _W841_6 = ("Lei 9.615 art. 6: Medida Provisória 841/2018 art. 22 rewrote inciso I only and its art. 26 XI a) revoked incisos "
                "II, III, IV and VI and §§ 1º to 4º (read on its page); Planalto notes 'Redação dada pela Medida Provisória nº "
                "841' on inciso VI and §§ 2º and 3º, which are read as that revocation: the wordings of Lei 13.155/2015 (VI), "
@@ -9510,7 +9512,8 @@ if any(a["slug"] == _LPELE for a in ACTS):
         # 12.395/2011's wordings): read as the revocation the MP's own text makes
         ((_LPELE, "art-06", "VI -", "VI - 10% (dez por cento) do montante arrecadado por loteria instantânea", 0),
          {"start": "2015-08-05", "start_law": "lei-13155-2015", "end": "2018-12-13", "end_law": "lei-13756-2018",
-          "end_how": "successor", "gaps": _G841}, _W841_6),
+          "end_how": "successor", "gaps": _G841, "notes": ["(Incluído dada pela Lei nº 13.155, de 2015)", _N841]},
+         _W841_6),
         ((_LPELE, "art-06", "VI -", "VI - 10% (dez por cento) do montante arrecadado por loteria instantânea", 1),
          dict(_DUP841), _W841_6),
         ((_LPELE, "art-06", "§ 2º", "§ 2º Do adicional de quatro e meio por cento de que trata o inciso II deste artigo, um "
@@ -9522,13 +9525,13 @@ if any(a["slug"] == _LPELE for a in ACTS):
           "end_how": "conversion", "gaps": []}, _W841_6),
         ((_LPELE, "art-06", "§ 2º", "§ 2º Do adicional de 4,5% (quatro e meio por cento)", 0),
          {"start": "2011-03-17", "start_law": "lei-12395-2011", "end": "2018-12-13", "end_law": "lei-13756-2018",
-          "end_how": "successor", "gaps": _G841}, _W841_6),
+          "end_how": "successor", "gaps": _G841, "notes": [_N12395, _N841]}, _W841_6),
         ((_LPELE, "art-06", "§ 2º", "§ 2º Do adicional de 4,5% (quatro e meio por cento)", 1), dict(_DUP841), _W841_6),
         ((_LPELE, "art-06", "§ 3º", "§ 3º Do montante arrecadado nos termos do § 2º", 0),
          {"end": "2011-03-17", "end_law": "lei-12395-2011", "end_how": "successor", "gaps": []}, _W841_6),
         ((_LPELE, "art-06", "§ 3º", "§ 3º A parcela repassada aos Estados e ao Distrito Federal", 0),
          {"start": "2011-03-17", "start_law": "lei-12395-2011", "end": "2018-12-13", "end_law": "lei-13756-2018",
-          "end_how": "successor", "gaps": _G841}, _W841_6),
+          "end_how": "successor", "gaps": _G841, "notes": [_N12395, _N841]}, _W841_6),
         ((_LPELE, "art-06", "§ 3º", "§ 3º A parcela repassada aos Estados e ao Distrito Federal", 1), dict(_DUP841), _W841_6),
         ((_LPELE, "art-06", "§ 4º", "§ 4º Trimestralmente, a Caixa Econômica Federal - CAIXA", 0),
          {"start": "2011-03-17", "start_law": "lei-12395-2011", "end": "2018-12-13", "end_law": "lei-13756-2018",
