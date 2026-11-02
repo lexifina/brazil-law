@@ -10274,6 +10274,18 @@ if any(a["slug"] == _L9532 for a in ACTS):
         "keeps it")
     B8.SPAN_FIX.append(((_L9532, "art-02", "§ 2º", "§ 2º Ficam extintos, relativamente aos períodos de apuração", 0),
                         {"end": None, "end_law": None, "end_how": None, "skip": False}, _W9532_2S2))
+    # batch 3's pass lists a struck line with no end as undated (left out) before the hand-set span is put back after the
+    # rewrites; the line is kept, so it leaves that list
+    _innerL9532 = B6.PB5B._write_part5
+
+    def _inner_l9532(*a) -> int:
+        tag = "L9532 art-02 [§ 2º] '§ 2º Ficam extintos"
+        hit = [u for u in B.UNDATED if u.startswith(tag)]
+        assert len(hit) <= 1, hit
+        B.UNDATED[:] = [u for u in B.UNDATED if not u.startswith(tag)]
+        return _innerL9532(*a)
+
+    B6.PB5B._write_part5 = _inner_l9532
     # art. 75: Planalto prints the 1997 article twice, both struck: first with Medida Provisória 71/2002's revocation (and
     # 'Rejeitada'), then again with Lei 10.833/2003's; one line, out while the MP stood
     _W9532_75 = ("Lei 9.532 art. 75: Medida Provisória 71/2002 art. 14 revoked it (DOU 4.10.2002); the Chamber of Deputies "
