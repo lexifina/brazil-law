@@ -4718,3 +4718,89 @@ Files changed: parse_batch17.py (one wording fix in the part v block), corpus.d/
 FOR THE COORDINATOR: the Anexos of Lei 12.546 need decisions D1-D4 above before they can replay exactly (D1: subtractions inside printed headings, 3923.30.00 and Lei 13.043 art. 51's five codes; D2: 8544.49.00 added and subtracted by the same article; D3: end day of MP 582's 10 codes Lei 12.794 dropped; D4: follow the acts' own lists where Planalto's notes differ). The ranked list is finished: a fresh one is proposed above (not surveyed).
 TO DO: the Anexos after D1-D4 (exact list above); then rank, pin and survey the fresh candidates.
 OPEN / DATED RE-CHECKS unchanged.
+
+## Sixty-third session (2026-11-02): the Anexos of Lei 12.546 (coordinator decisions D1-D4), zzzzn re-PUBLISHED; fresh ranked list started
+Claim taken at the start ('gitlaw-BR-63 alan-dell 2026-11-02T17:58Z', setup63.py through rr63/run.py, PID 45200), released at
+the end (finish63.py). Scratch: .gitlaw-scratch/brazil-b44 (before63/ = session-start copies of every parser (20), corpus.d,
+corpus.json and the shared files, same set as before62/); logs63/; pids63.txt; edits63/ (anx_block.txt = the block's source,
+developed with the harness anx63.py, then fx1/fx2 specs applied to it by ed63.py; pb1.py/pb2.py -> pb1/pb2.json = the parser
+specs, applied by ed63.py through run.py; session63.md = this text). New tools: mk63.py (62 -> 63 copies, run through run.py
+directly), an63t.py (an act page's tables: title, rows, first/last rows), an63r.py (rows of the Lei page's tables by item
+regex), anx63.py (runs the Anexo model and its day-by-day check outside a part, prints the reports), ax63.py (per version:
+Anexo line counts and credits), vd63.py (old vs new part by day: articles' texts and credits, decisions, laws), install63.py
+(re-PUBLISH or, with --new, a new part), finish63.py.
+Requests: robots.txt of archive.org (200: Disallow /control/ /report/ only) and web.archive.org (404) read first (robots63/);
+then archive.org only, through the shared client: `iaonly.py pages` (4 pins: lcp07, lcp70, l4380, l15040; 0 Common Crawl, 0
+Arquivo.pt). No Common Crawl, LexML, Arquivo.pt, STF or live Planalto request; no challenge page.
+
+### Anexos of Lei 12.546 (zzzzn): DONE, re-PUBLISHED (d44a96c4)
+Block '# part zzzzn, sixty-third session' before SRC in parse_batch17.py (built at the version level: build_act_anx wraps
+P.build_act and calls _anx_merge for Lei 12.546 only; the articles' versions keep their days, texts and credits).
+- Sources read in the parse (cache only): the Lei page's tables 1-5 (MP 563's Anexo 791 rows; Anexo I printed twice, 1,281
+  rows each, asserted identical; Anexo II MP 601 19, Lei 12.844 18); each act's own table after its signature, asserted by
+  count: MP 563 791, Lei 12.715 829, MP 582 368, Lei 12.794 358, MP 601 65 + 19, Lei 12.844 65 + 18; the article lists (Lei
+  12.715 art. 78 § 2º III/IV, MP 582 and Lei 12.794 art. 2 II, Lei 12.844 art. 14 III-VI, MP 612 art. 26 t)/u)/II, Lei 13.043
+  art. 51) asserted word for word on each page; the 'Observação' lines asserted on the acts' pages and the Lei's page.
+- Model: unit anexo-i (title 'Anexo' / 'ANEXO I' as named by MP 601 1.4-4.6.2013 and Lei 12.844 from 19.7.2013, column head
+  'NCM', one line per printed row in table order; MP 563's rows in table-1 order 1.8-18.9.2012) and anexo-ii (title, rows,
+  each act's Observação line). Days: Lei 12.715 18.9.2012 (art. 78 § 2º III/IV codes and the 11 '(VETADO)' rows 1.1.2013:
+  42 rows, asserted); MP 582 1.1-3.4.2013; Lei 12.794 3.4.2013; MP 601 1.4-4.6.2013 (Anexo II too); MP 612 t) 9404.10.00
+  4.4.2013, u) 9619.00.00 1.8.2013, both carried by Lei 12.844 art. 14 III from 1.8.2013 (no break at the lapse 2.8.2013);
+  Lei 12.844 Anexos I and II 1.11.2013; MP 774/794 gaps 1.7-9.8.2017 and 7-9.12.2017; revoked 1.9.2018. Correction to the
+  sixty-second survey: Lei 12.844 art. 14 V and VI fall under art. 49 V (publication, 19.7.2013), not III; only III and IV
+  are 1.8.2013 (read on the page, l. 1072-1095 of txt59).
+- Decisions applied: D1 (3923.30.00 by MP 582/Lei 12.794 art. 2 II inside '39.23'; Lei 13.043 art. 51's five codes inside
+  'Capítulo 19'/'Capítulo 54': the row keeps its words, anexo-i is credited on the day with no word change; 1.3.2015 is a
+  day the articles also change (Lei 13.043 art. 7 XII/XIII), so no extra version); D2 (8544.49.00 never shown, decision line);
+  D3 (MP 582's 10 dropped codes end 3.4.2013; Lei 12.844 art. 14 VI and V, MP 612 II, Lei 12.844 IV for never-effective codes:
+  decision line only); D4 (one line each: 6901.00.00 from 1.1.2013; 8532.29.90 Lei 12.715's row unbroken; '30.06' ->
+  '30.06 (EXCETO ...)' on 3.4.2013; NEW CASE found by the replay: 8526.92.00, a Lei 12.715 row, is subtracted by Lei 12.844
+  art. 14 IV from 1.8.2013 with no Planalto note: ends that day). Trailing '; e' / ';' copied from MP 612's article on some
+  rows ('9404.10.00; e', '9603.40.90;' ...) left out (stated in the main line).
+- Checks (all asserted in the parse; any change in a page stops it): every change day, the replay = the list computed from the
+  acts' lists alone (additive: a code two acts add appears twice, as 9022.29.90/9027.80.99 are printed); on 31.8.2018 the
+  replay = table 2 less exactly 29 rows (17 MP 612 a)-s) rows never in effect, 8544.49.00, the 10 D3 codes, 8526.92.00); the
+  report lists (never, d4, cut, inside, absent) asserted equal to _ANX_WANT. Harness anx63.py (logs63/x2.log) shows the row
+  counts per day (791, 787, 1196, 1261, 1251, 1252, 1187, ..., 1252; anexo-ii 19 / 18).
+- One new version (2013-08-01: Anexo I only, credited Lei 12.844 + MP 612): 40 versions. vd63 (logs63/vd1.log): every
+  article text and article credit identical on every day; decisions: the held-back line and the open item's Anexo sentence
+  removed, 8 Anexo lines added; laws unchanged. So the article flags are those of the published part (dupline 5, leakcheck 19,
+  ordercheck 3, quotecheck = quoted amendments, missorig 18 = the art. 52 § 5º gate, overlap 2 SAME = art. 25 I/II
+  '(revogado);', latecaput = struck lines under rewritten capita: law text as printed).
+- pipe.sh zzzzn (background task; run.py PIDs 15464, 39232, 35404, check runs, 45460, 42424, 17344, 15776): d44a96c4 x2
+  identical, 0 problems, 2 units differ (art-07/art-09, EXPLAINED as published), effects_fix 0 moves, uniqlaws 0, dupsame 0,
+  merged 309 acts, 4325 versions, 2962 commits, check 0/0, --compare identical, main_identical, audit_push clean main +
+  futuro. install63.py zzzzn: installed (old copy eff63/99-batch17zzzzn.before.json), one line appended to .PUBLISH
+  (edits63/publish-zzzzn.txt). jurisdiction.json 'Lei 12.546/2011 2011-2027 (39)' -> '(40)' (ed63) and docs.py
+  (rows63-zzzzn.json): README row updated (40 versions; Anexos sentence), counts 309 acts, 4325 versions.
+
+### Fresh ranked list: pinned and surveyed (nothing configured)
+PAGES added (sixty-third-session comment): lcp07 (leis/lcp/lcp07.htm), lcp70, l4380, l15040; pinned from archive.org; texts in
+txt63/; survey63 (logs63/sv1.log):
+- LC 7/1970 (PIS): 190 lines, 12 notes: LC 26/1975 8 revocations, LCs 8/1970, 17/1973, 19/1974 (Vide), LC 214/2025 1 (Vide:
+  check for a 2027 futuro revocation). Small: build first.
+- LC 70/1991 (Cofins): 200 lines, 17 notes: LC 85/1996 7, Lei 11.196/2005 1, Lei 13.353/2016 1, LC 214/2025 8 (2027 futuro);
+  10 'Produção de efeitos' markers (read each clause), 1 VETADO. Build second.
+- Lei 4.380/1964 (SFH): 1,993 lines, 242 notes over 17 acts: MPs 656/2014 38 and 668/2015 37 (their fates and conversions
+  to read: Leis 13.097 and 13.137 carry the same counts), Leis 13.097/2015 38, 13.137/2015 38, 11.977/2009 30 (MP 459/2009 12), 4.864/1965 17, 5.455/1968 10, 13.506/2017
+  6, DL 1.338/1974 4, MP 2.197-43/2001 3; 39 VETADO, 38 'Vigência'. Two notes look misprinted ('Lei 4.380/1965' and 'Lei
+  5.049/1996' beside 5.049/1966): check before pinning laws. Heavier; third.
+- Lei 15.040/2024 (contrato de seguro): 1,218 lines, no amendment notes, one 'Vigência' marker (vacatio: read its last
+  article for the day it takes effect); likely one version. Easy.
+Rest of the sixty-second list unchanged (LC 24/1975, LC 76/1993, LC 110/2001, Leis 8.177/1991, 9.140/1995, 4.898/1965,
+7.102/1983, 12.871/2013, 14.193/2021, 14.790/2023), not pinned.
+
+- PIDs (all mine, all exited): pids63.txt (setup 45200 ... sv1 34848, every rr63 run); mk63 1012 through run.py directly;
+  pipe.sh zzzzn as one background task of mine (PIDs above), waited on by its notification. Failed runs: kchk63 (PID 17032,
+  rc 2: wrong arguments; its output was filtered with `| tail -3` outside the wrapper), mkinst (PID 13560, rc 2: spec file
+  missing; install63.py then written with the Write tool). Outside the wrappers (slips, no network): `cat edits62/an-s*.json |
+  head`; one heredoc `cat > edits63/fx1.py` + `echo ok` (rewritten with the Write tool before use). Reads otherwise with the
+  Read/Grep/Glob tools; scratch tools and specs written with Write/Edit (one Edit on my own an63r.py). Every parser edit went
+  through ed63.py under run.py (pb1, pb2, pages1). Nothing running.
+
+## State at handoff (batch 17, sixty-third session, 2026-11-02)
+PUBLISHED: zzzzn re-PUBLISHed with the Anexos I and II of Lei 12.546 (coordinator decisions D1-D4; 40 versions; d44a96c4). Installed: 309 acts, 4325 versions, 2962 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws 0; dupsame 0; README row + jurisdiction.json current.
+Files changed: parse_batch17.py (Anexo block, held-back line and open-item sentence removed, PARTS comment, PAGES for four candidates), sources_batch17.json (+4 page pins), corpus.d/99-batch17zzzzn.json + .PUBLISH (one line appended), repo/README.md, repo/jurisdiction.json, PROGRESS.md, this file. Claim released.
+FOR THE COORDINATOR: one D4 case beyond the four surveyed: 8526.92.00 (Lei 12.715's row) ends 1.8.2013 under Lei 12.844 art. 14 IV, which Planalto does not note; decision line written under D4. The sixty-second survey dated Lei 12.844 art. 14 V to 1.8.2013; it is 19.7.2013 (art. 49 V); no visible effect either way.
+TO DO: the fresh ranked list, one act per part: LC 7/1970 first, then LC 70/1991, Lei 15.040/2024, Lei 4.380/1964 (pages pinned and surveyed above); `iaonly.py laws` + `missing` for each before configuring.
+OPEN / DATED RE-CHECKS unchanged.
