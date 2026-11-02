@@ -4804,3 +4804,74 @@ Files changed: parse_batch17.py (Anexo block, held-back line and open-item sente
 FOR THE COORDINATOR: one D4 case beyond the four surveyed: 8526.92.00 (Lei 12.715's row) ends 1.8.2013 under Lei 12.844 art. 14 IV, which Planalto does not note; decision line written under D4. The sixty-second survey dated Lei 12.844 art. 14 V to 1.8.2013; it is 19.7.2013 (art. 49 V); no visible effect either way.
 TO DO: the fresh ranked list, one act per part: LC 7/1970 first, then LC 70/1991, Lei 15.040/2024, Lei 4.380/1964 (pages pinned and surveyed above); `iaonly.py laws` + `missing` for each before configuring.
 OPEN / DATED RE-CHECKS unchanged.
+
+## Sixty-fourth session (2026-11-02): LC 7/1970, LC 70/1991 and Lei 15.040/2024 PUBLISHED as parts zzzzo, zzzzp, zzzzq (held under FAST-FORWARD ONLY)
+Claim taken at the start ('gitlaw-BR-64 alan-dell 2026-11-02T18:31Z', setup64.py through rr64.py, PID 26332), released at the
+end (finish64.py). Scratch: .gitlaw-scratch/brazil-b44 (before64/ = session-start copies of every parser (20), corpus.d,
+corpus.json and the shared files; logs64/; pids64.txt; edits64/ = pb1-pb8 parser specs (.py source + .json applied by ed64.py
+under run.py), publish-*.txt, rows-*.json, session64.md). New tools: mk64.py (63 -> 64 copies, run through run.py directly, PID
+35944), dec64.py (a part's decisions by regex + its laws), install64.py.
+Coordinator confirmation received at the start: D4 case 8526.92.00 ends 1.8.2013 under Lei 12.844 art. 14 IV, with its decision
+line (already in zzzzn; nothing to change).
+Requests: robots.txt of archive.org (200: Disallow /control/ /report/) and web.archive.org (404) read first (robots64/); then
+archive.org only, through iaonly.py: `BATCH17_ACTS=lei-do-pis iaonly.py laws` (5 pins) + `missing` (0); `BATCH17_ACTS=lei-da-cofins
+iaonly.py laws` (1 pin: lc-85-1996) + `missing` (0). No Common Crawl, Arquivo.pt, LexML, STF or live Planalto request; no
+challenge page.
+MID-SESSION RULE (coordinator relay, BRIEF 'FAST-FORWARD ONLY'): all three new parts add commits dated inside the published
+history (1970-2025), so their publication needs a rewrite: autopush holds them. Built, verified and PUBLISH written as before
+(zzzzp and zzzzq's PUBLISH lines say so; zzzzo's line was written before the rule reached me).
+
+### zzzzo: Lei Complementar 7/1970 (lei-do-pis), 3 versions, PUBLISHED (3249679d)
+- In force 8.9.1970 (art. 13). Arts. 8 and 9 revoked by LC 26/1975 art. 7, which Planalto prints 'entrará em vigor em 1º de
+  julho de 1970': before LC 26 itself and LC 7; LC 26 art. 1 unifies the funds from the financial year starting 1.7.1976 and its
+  p.u. keeps balances of 30.6.1976: VIGENCIA_FIXED lc-26-1975 = 1.7.1976 (decision line; FOR THE COORDINATOR). LC 26's
+  publication day 12.9.1975 by PUBLISHED_FIXED (footer has the month in words).
+- LC 214 art. 542 I (read on LC 214's page): art. 3 caput alínea b) and items 1)-4) end 1.1.2027 (futuro). _FUT2027 entry with
+  no label ends + a fut_2027 wrapper scoped by text, because art. 3 § 1º also has an alínea b) (first trial ended it too).
+- The 'Produção de efeitos' link beside the LC 214 note is dropped by the reader. OPEN_ITEMS: Vide pointers.
+- pipe.sh zzzzo (PIDs 29276, 30088, 39360, 42932, 43124, 9280, 47544; the file-check runs' PIDs go to /dev/null in pipe.sh):
+  3249679d x2, 0 problems, 0 diffs, effects_fix 0 moves; quotecheck = art. 8 c) 'itens "a" e "b"' as printed; all other flags
+  0; uniqlaws 0; dupsame 0; merged 310 acts, 4328 versions, 2964 commits, check 0/0, --compare identical, audit clean.
+- Law text as printed, left: art. 3 § 1º a) 'no exercício de 1971 -> 2%;' (Planalto's characters).
+
+### zzzzp: Lei Complementar 70/1991 (lei-da-cofins), 4 versions, PUBLISHED (ee53c3fc)
+- ACT_DAY 1.4.1992 from art. 13's effects clause (published 31.12.1991; +90 days = 30.3.1992; first day of the next month), as
+  Lei 9.249 (part h, coordinator).
+- The 10 'Produção de efeitos' links read: title (art. 13), eight beside the LC 214 Vide notes (arts. 1-6, 9, 10: LC 214 art. 542
+  III, 2027), one after art. 6 IV (Lei 13.353 art. 7 p.u.: effects left to a later condition, so the in-force day 4.11.2016
+  stays, effect-days rule). LC 214's 2027 revocations on futuro (_FUT2027).
+- MP 2.158-35 art. 93 II revokes art. 6 I/III and art. 7 'a partir de 30 de junho de 1999' (retroactive): MP's day 27.8.2001
+  (MP_PENDING text, scoped).
+- LC 85/1996 (DOU 16.2.1996, effects back to 1.4.1992) gave art. 7 the same words as the original, line by line: no version
+  shows it; decision line (FOR THE COORDINATOR if a credit-only version is wanted, as zzzzn D1).
+- pipe.sh zzzzp run twice (first PIDs 9124, 39164, 26892, 52624, 32852, 37532, 32828: clean, then one decision wording fixed,
+  pb7); final run PIDs 40308, 32396, 53620, 1272, 47704, 43312, 46972: 4333b7f6 x2, 0 problems, every flag 0, uniqlaws 0,
+  dupsame 0, merged 311 acts, 4332 versions, 2965 commits, check 0/0, --compare identical, audit clean. Eff sha ee53c3fc
+  (effects_fix rewrote the effect-days decision text, 0 moves).
+
+### zzzzq: Lei 15.040/2024 (lei-do-contrato-de-seguro), 1 version, PUBLISHED (25684300)
+- No amendment note. In force 11.12.2025 (art. 134, one year from DOU 10.12.2024), the day the Código Civil part (50-codes)
+  gives its revocations; law record copied from 50-codes (uniqlaws).
+- pipe.sh zzzzq (PIDs 53120, 36728, 39520, 22120, 52672, 38768, 44392): 25684300 x2, 0 problems, every flag 0, uniqlaws 0,
+  dupsame 0, merged 312 acts, 4333 versions, 2966 commits, check 0/0, --compare identical, audit clean.
+
+### Docs
+docs.py with rows-zzzzo/p/q.json: three README rows added, jurisdiction.json counts 312 acts, 4333 versions + three short
+entries.
+
+- PIDs (all mine, all exited): pids64.txt (every rr64 run), mk64 35944, pipe PIDs above (three pipes run one at a time). Failed
+  run: g3 (PID 46836, rc 2: a tool name that does not exist; dec64.py written instead). Waits: one Monitor and one Bash
+  until-loop on my own pipe log (no other process watched). Every parser edit went through ed64.py under run.py (pb1-pb8).
+  Nothing running.
+
+## State at handoff (batch 17, sixty-fourth session, 2026-11-02)
+PUBLISHED (PUBLISH written; publication HELD by autopush under FAST-FORWARD ONLY, since each adds commits inside the published history): zzzzo LC 7/1970 (3 versions, 3249679d), zzzzp LC 70/1991 (4, ee53c3fc), zzzzq Lei 15.040/2024 (1, 25684300). Installed: 312 acts, 4333 versions, 2966 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws 0; dupsame 0; README rows + jurisdiction.json current.
+Files changed: parse_batch17.py (three acts, PARTS, ACT_DAY/ACT_LAWS, blocks zzzzo/zzzzp before SRC), sources_batch17.json (+6 law pins), corpus.d/99-batch17zzzzo/p/q.json + .PUBLISH (new), repo/README.md, repo/jurisdiction.json, PROGRESS.md, this file. Claim released.
+FOR THE COORDINATOR: (1) LC 26/1975's in-force day read as 1.7.1976 (Planalto prints '1º de julho de 1970'); (2) LC 85/1996 re-enacts LC 70 art. 7 in the same words: decision line only, no credit-only version; (3) the three new parts need a rewrite to publish (held).
+TO DO: Lei 4.380/1964 (SFH; pinned and surveyed in session 63, not configured): add the act, `iaonly.py laws` + `missing`; read the fates of MPs 656/2014 (-> Lei 13.097) and 668/2015 (-> Lei 13.137), MP 459/2009 (-> Lei 11.977), MP 2.197-43; the two suspect notes ('Lei 4.380/1965', 'Lei 5.049/1996' beside 5.049/1966): correct only from the amending act's own text; then the rest of the ranked list (LC 24/1975, LC 76/1993, LC 110/2001, Leis 8.177/1991, 9.140/1995, 4.898/1965, 7.102/1983, 12.871/2013, 14.193/2021, 14.790/2023), not pinned.
+OPEN / DATED RE-CHECKS unchanged.
+
+## Coordinator decisions (gitlaw-scraper-hp-omen, 2026-11-02)
+- LC 26/1975 art. 7: 1.7.1976 stands. The law's own text (art. 1) governs over Planalto's misprinted "1º de julho de 1970"; keep the decision line.
+- LC 85/1996: no version. It changes no words; the decision line is enough.
+- zzzzo, zzzzp, zzzzq stay held until the append-only publisher is wired (fast-forward only). zzzzo's PUBLISH wording is not changed now.
