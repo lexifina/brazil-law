@@ -3396,3 +3396,67 @@ TO DO (fresh ranked list, item 2 done): 3 Lei 10.931/2004 (patrimônio de afeta�
 5 Lei Complementar 97/1999 (Forças Armadas); 6 Lei Complementar 73/1993 (AGU); 7 Lei 5.250/1967 (Lei de Imprensa, ADPF 130); 8 Lei
 7.170/1983 (LSN, revoked by Lei 14.197/2021); 9 Lei 6.194/1974 (DPVAT); 10 heavy tax: Leis 10.865/2004, 9.532/1997, 12.546/2011.
 One act per part, survey first. OPEN / DATED RE-CHECKS unchanged.
+
+## Forty-ninth session (2026-11-02): ranked list item 3, Lei 10.931/2004, PUBLISHED as part zzzze (23 versions incl. 1 futuro)
+Claim taken at the start ('gitlaw-BR-49 alan-dell 2026-11-02T09:03Z'), released at the end. Scratch: .gitlaw-scratch/brazil-b44
+(before49/ = session-start copies, as before48/; NOTE: bad_pins.json was edited a few seconds before setup49 ran, so before49/
+bad_pins.json already holds the two new keys; the true session-start copy is before48/bad_pins.json, unchanged in session 48);
+logs49/ (pipe1-4.out = the four pipe.sh runs, fb1.log = final build); pids49.txt; new tools: setup49.py, rr49.py, bdiff49.py,
+finish49.py, txt49.py (a cached page as plain text, struck text [-...-], into txt49/), lawrec49.py (a law key's record in parts),
+tl49.py (a unit's lines on every day it changes), vc49.py (per version: units changed and credits)).
+Requests: robots.txt of archive.org (200: Disallow /control/ /report/) and web.archive.org (404) read first (robots49/); then
+archive.org only, through the shared client (iaonly.py): `pages` (2 pins: l10931 = _ato2004-2006/2004/lei/l10.931.htm,
+l10931-compilado = l10.931compilado.htm), `laws l10931` (22 linked, 5 new pins), act-scoped `missing` (0). No LexML, no Common
+Crawl, no Arquivo.pt, no live Planalto, no challenge page.
+### Session items
+- bad_pins.json: + law:lei-12876-2013 (Lei 9.615's 'Vide Lei nº 12.876, de 2013' links Lei 12.867's page) and law:mp-39-2002
+  (the page's first heading is Lei 9.615): 'Vide' pins only, credited nowhere; the pinning commands now skip both.
+- Art. 84 § 2º of Lei Pelé ('2º O disposto'): left as printed (zzzzd unchanged).
+### Survey (annotated page: 158 notes over 22 acts; compiled page 65)
+Amenders: Leis 11.196/2005, 12.024/2009 (conv. MP 460), 12.350/2010 (conv. MP 497), 12.543/2011, 12.655/2012 (conv. MP 552),
+12.767/2012, 12.844/2013, 13.097/2015 (conv. MP 656), 13.476/2017 (conv. MP 775), 13.970/2019, 13.986/2020 (conv. MP 897; Planalto
+prints the MP 897 lines unstruck, the reader ends them at the conversion), 14.430/2022 (conv. MP 1.103), 14.620/2023, LC 214/2025
+(art. 498: art. 3; art. 510 + art. 542 XXVI: arts. 4 and 8 from 2027). MP fates: all converted except MP 601/2012 (lapsed, Ato 36/2013).
+### 99-batch17zzzze - PUBLISHED: Lei 10.931/2004 (lei-10931-de-2004, L10931, 23 versions 2004-08-03 .. 2026-01-01 + 2027-01-01 futuro)
+- Config: PAGES l10931 / l10931-compilado; act (2 digits); PARTS zzzze; ACT_DAY_ALL lei-10931-2004 3.8.2004 (art. 66); ACT_LAWS_ALL
+  lei-10931-2004 with the URL path the other parts' record has ('_Ato2004-2006/2004/Lei/L10.931.htm', uniqlaws).
+- Block '# part zzzze' (only when the act runs): VIGENCIA_FIXED mp-601-2012 (28.12.2012) + VIGENCIA_PROVISION (mp-601, art-04/art-08)
+  1.1.2013 (art. 7 II; set in the parser, not effects_fix: Lei 12.767's art. 4 § 7º the same day would keep MP 601 credited on
+  art. 4); MP_LAPSE mp-601-2012 4.6.2013 (text word for word as part zj's: one shared law record); VIGENCIA_FIXED lei-12844-2013
+  19.7.2013 (art. 49 I, 'efeitos retroativos a 4 de junho de 2013': publication day kept); VIGENCIA_FIXED mp-656-2014 8.10.2014
+  (art. 55 III); NOTE_FIX 'Redação da pela MP 656'; TEXT_FIX art. 8 IV full stop (MP 601's own text); _l10931_2027 (apply_span_fix
+  wrapper): LC 214 art. 510 rates (art. 4 caput 1,92%, §§ 6º/8º 0,47%, art. 8 caput 1,92%, parágrafo único 0,47%; each new line =
+  today's line with the rate replaced, accepted only if found word for word, spaces aside, in art. 510's text: all 5 found) and
+  art. 542 XXVI revocations (art. 4 II, IV; art. 8 I, II of caput and parágrafo único) from 1.1.2027 (futuro); EXPLAINED art-08
+  (compiled page prints the 2027 parágrafo único), art-57 (quoted Lei 9.514 headings struck by Planalto with MP 1.103 / Lei 14.430
+  notes); OPEN_ITEMS.
+- effects_fix.py MOVES '99-batch17zzzze.json': lc-214-2025 2025-01-16 -> 2026-01-01 (art. 498 under art. 544 VI). (An MP 601 move
+  was tried and dropped for the VIGENCIA_PROVISION above.)
+- pipe.sh zzzze (logs49/pipe4.out): 11809d5e x2, 0 problems, 1 move; leakcheck, pubgap, ordercheck, missorig 0; dupline 23 /
+  dupcheck 4 / quotecheck = quoted texts arts. 53-61 give other laws (law as printed); firstline = the rubricas printed before arts.
+  53, 55, 58-61; overlap SAME 4 = Lei 12.024's art. 8 III/IV restored copies (one line per version, checked on 2010, 2013-01, 2013-06,
+  2026); latecaput = lines under later capita; uniqlaws 0, dupsame 0; merged 300 acts, 4131 versions, 2877 commits, check 0/0,
+  --compare identical, audit_push clean main + futuro. install.py -> corpus.d/99-batch17zzzze.json 168fbde6 + .PUBLISH
+  (b44/publish-zzzze.txt); docs.py b44/rows-zzzze.json (README row; jurisdiction.json 300 acts 4131 versions, entry 'Lei
+  10.931/2004 2004-2027 (23)'). Final merged build of the installed folder (logs49/fb1.log, PID 25244): 300/4131/2877, check 0/0,
+  0 trailer errors, --compare identical, audit_push clean main + futuro.
+- PIDs (all mine, all exited; listed in b44/pids49.txt): setup 47976 and a cat 32540 through run.py directly; rr49 runs idx1 11412,
+  idx1b, rob1 9584, bd1-bd7, pg1 2736, nc1 2936, tx1 47108, lr1 26524, laws1 39144, miss1 37312, t1 50300, t2 48468, t3 14972, tl1,
+  vc1-vc4, mg1 51516, pg1-pg12, st*, s4*, dec1-2, in1 41104, dk1 37144, fb1 25244; pipe.sh runs pipe1-4 as background tasks of mine
+  (their run.py PIDs in logs49/pipe1-4.out), each waited on by its own notification. A first idx1 attempt failed before starting
+  any child (logs49/ did not exist yet). Outside the wrappers (no network): a `mkdir -p` of robots49, `head`/`grep` filtering of
+  two rr49 outputs and `> /dev/null` redirects, one `cat` of a task output, and two shell wait loops on task-output files (one
+  stopped by me with TaskStop); tool-written files (Write/Edit): parse_batch17.py, effects_fix.py, bad_pins.json, b44 tools/rows/
+  publish files, this text, PROGRESS.md.
+
+## State at handoff (batch 17, forty-ninth session, 2026-11-02)
+PUBLISHED: zzzze (Lei 10.931/2004, 168fbde6, 23 versions 2004-2027 incl. 1 futuro). Installed: 300 acts, 4131 versions, 2877
+commits, check 0/0, compare identical, audit clean main + futuro; uniqlaws 0, dupsame 0; README row + jurisdiction.json current.
+Files changed: parse_batch17.py (vs b44/before49: PAGES, act, PARTS, ACT_DAY/ACT_LAWS lei-10931-2004, '# part zzzze'),
+effects_fix.py (+1 MOVES entry), bad_pins.json (+2 keys), sources_batch17.json (+2 page pins, +5 law pins), corpus.d/99-batch17zzzze
+.json + .PUBLISH (new), repo/README.md (+1 row), repo/jurisdiction.json, PROGRESS.md, this file. law_records.json,
+dupsame_allow.json, firstline.py, pipe.sh unchanged. Claim released.
+TO DO (ranked list, items 2-3 done): 4 Lei 8.171/1991 (política agrícola); 5 Lei Complementar 97/1999 (Forças Armadas); 6 Lei
+Complementar 73/1993 (AGU); 7 Lei 5.250/1967 (Lei de Imprensa, ADPF 130); 8 Lei 7.170/1983 (LSN, revoked by Lei 14.197/2021); 9 Lei
+6.194/1974 (DPVAT); 10 heavy tax: Leis 10.865/2004, 9.532/1997, 12.546/2011. One act per part, survey first (none surveyed yet).
+OPEN / DATED RE-CHECKS unchanged.

@@ -303,6 +303,8 @@ PAGES.update({
     # forty-ninth session: Lei 10.931/2004 (annotated page; the compiled page is the consolidated check)
     "l10931": "_ato2004-2006/2004/lei/l10.931.htm",
     "l10931-compilado": "_ato2004-2006/2004/lei/l10.931compilado.htm",
+    # fiftieth session: Lei 8.171/1991 (política agrícola; annotated page, no compiled page on Planalto)
+    "l8171": "leis/l8171.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -695,6 +697,9 @@ ALL_ACTS: list[dict] = [
     _act("lei-10931-de-2004", "L10931", "l10931", "l10931-compilado", "lei-10931-2004",
          "Patrimônio de afetação, Letra de Crédito Imobiliário, Cédula de Crédito Imobiliário e Cédula de Crédito Bancário "
          "(Lei nº 10.931, de 2 de agosto de 2004)", 2),
+    # fiftieth session (no compiled page: the annotated page is its own consolidated check, as zzzg)
+    _act("lei-da-politica-agricola", "LPAgr", "l8171", "l8171", "lei-8171-1991",
+         "Política agrícola (Lei nº 8.171, de 17 de janeiro de 1991)", 3),
     # read from the capture of 27.10.2015 (before the repeal); its consolidated check is the compiled page of 29.10.2015
     _act("codigo-de-processo-civil-de-1973", "CPC73", "l5869-2015", "l5869compilada-2015", "lei-5869-1973",
          "Código de Processo Civil de 1973 (Lei nº 5.869, de 11 de janeiro de 1973)", 4),
@@ -841,6 +846,8 @@ PARTS: dict[str, list[str]] = {
     "zzzzd": ["lei-pele"],   # PUBLISHED in the forty-eighth session
     # forty-ninth session
     "zzzze": ["lei-10931-de-2004"],
+    # fiftieth session
+    "zzzzf": ["lei-da-politica-agricola"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1181,6 +1188,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                  "dias, a partir da data de sua publicação' (DOU 27.2.1998)"),
     "lei-9615-1998": ("1998-03-25", f"Lei 9.615/1998 art. 95: {_PUB} (DOU 25.3.1998)"),
     "lei-10931-2004": ("2004-08-03", f"Lei 10.931/2004 art. 66: {_PUB} (DOU 3.8.2004)"),
+    "lei-8171-1991": ("1991-01-18", "Lei 8.171/1991 art. 107: 'Esta lei entra em vigor na data de sua publicação' (DOU "
+                                    "18.1.1991)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1798,6 +1807,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "Decreto-Lei nº 911, de 1º de outubro de 1969, as Leis nº 4.591, de 16 de dezembro de 1964, nº 4.728, de "
                          "14 de julho de 1965, e nº 10.406, de 10 de janeiro de 2002, e dá outras providências.",
                          "2004-08-02", "2004-08-03", "_Ato2004-2006/2004/Lei/L10.931.htm"),
+    "lei-8171-1991": _L("Lei nº 8.171, de 1991", "Dispõe sobre a política agrícola.", "1991-01-17", "1991-01-18",
+                        PAGES["l8171"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -4322,8 +4333,8 @@ if any(a["slug"] == _L9718 for a in ACTS):
                       "3 §§ 10 to 12) is in force on publication, with effect from 1.1.2013 (effect day: effects_fix)")
     P.MP_LAPSE["mp-601-2012"] = (
         "2013-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 36, de 2013 (DOU 6.6.2013): 'teve seu "
-                      "prazo de vigência encerrado no dia 3 de junho do corrente ano'; the wordings it gave Lei 9.718 end on "
-                      "4.6.2013")
+                      "prazo de vigência encerrado no dia 3 de junho do corrente ano'; the wordings it gave end on 4.6.2013")
+    # names no act: the same law record is carried by part zzzze (Lei 10.931), uniqlaws (coordinator, session 50)
     P.MP_PENDING["mp-2158-2001"] = (
         "Medida Provisória nº 2.158-35, de 24.8.2001 (DOU 27.8.2001), kept in force by Emenda Constitucional 32/2001, art. 2; "
         "its art. 92 ('entra em vigor na data de sua publicação, produzindo efeitos: [...] IV - relativamente aos fatos "
@@ -9714,8 +9725,8 @@ if any(a["slug"] == _L10931 for a in ACTS):
                           "(4.6.2013)")
     P.MP_LAPSE["mp-601-2012"] = (
         "2013-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 36, de 2013 (DOU 6.6.2013): 'teve seu "
-                      "prazo de vigência encerrado no dia 3 de junho do corrente ano'; the wordings it gave Lei 9.718 end on "
-                      "4.6.2013")   # word for word as part zj's (one shared law record, uniqlaws); its Lei 10.931 wordings end the same day
+                      "prazo de vigência encerrado no dia 3 de junho do corrente ano'; the wordings it gave end on 4.6.2013")
+    # word for word as part zj's (one shared law record, uniqlaws); names no single act (coordinator, session 50)
     P.VIGENCIA_FIXED["lei-12844-2013"] = (
         "2013-07-19", "art. 49: 'Esta Lei entra em vigor: I - na data de sua publicação, com efeitos retroativos a 4 de junho de "
                       "2013, [...] em relação aos arts. 16, 17 e 35 desta Lei' (DOU 19.7.2013, edição extra): its art. 16 (Lei "
