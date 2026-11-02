@@ -737,6 +737,10 @@ ALL_ACTS: list[dict] = [
     # fifty-fifth session: ranked item 10, second act (annotated page; the compiled page is the consolidated check)
     _act("lei-10865-de-2004", "L10865", "l10865", "l10865-compilado", "lei-10865-2004",
          "PIS/PASEP-Importação e COFINS-Importação (Lei nº 10.865, de 30 de abril de 2004)", 2),
+    # fifty-ninth session: ranked item 10, third act (annotated page; the compiled page is the consolidated check)
+    _act("lei-12546-de-2011", "L12546", "l12546", "l12546-compilado", "lei-12546-2011",
+         "Reintegra, IPI da indústria automotiva e contribuição previdenciária sobre a receita bruta (Lei nº 12.546, de 14 de "
+         "dezembro de 2011)", 2),
     # forty-fourth session: read from the 2026 capture with the repeal's page-wide CSS strike removed; its pre-repeal check
     # is the capture of 2.6.2002
     _act("codigo-civil-de-1916", "CC16", "l3071", "l3071-2002", "lei-3071-1916",
@@ -892,6 +896,8 @@ PARTS: dict[str, list[str]] = {
     "zzzzl": ["lei-9532-de-1997"],
     # fifty-fifth to fifty-eighth sessions
     "zzzzm": ["lei-10865-de-2004"],
+    # fifty-ninth session (TRIAL, not published)
+    "zzzzn": ["lei-12546-de-2011"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1251,6 +1257,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-10865-2004": ("2004-04-30", "Lei 10.865/2004 art. 53: 'Esta Lei entra em vigor na data de sua publicação, "
                                      "produzindo efeitos a partir do dia 1º de maio de 2004, ressalvadas as disposições "
                                      "contidas nos artigos anteriores' (DOU 30.4.2004, edição extra)"),
+    "lei-12546-2011": ("2011-12-15", "Lei 12.546/2011 art. 52: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
+                                     "15.12.2011), save the days its paragraphs state"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1888,6 +1896,17 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "Formação do Patrimônio do Servidor Público e a Contribuição para o Financiamento da Seguridade "
                          "Social incidentes sobre a importação de bens e serviços e dá outras providências.", "2004-04-30",
                          "2004-04-30", "_Ato2004-2006/2004/Lei/L10.865.htm"),
+    "lei-12546-2011": _L("Lei nº 12.546, de 2011", "Institui o Regime Especial de Reintegração de Valores Tributários para "
+                         "as Empresas Exportadoras (Reintegra); dispõe sobre a redução do Imposto sobre Produtos "
+                         "Industrializados (IPI) à indústria automotiva; altera a incidência das contribuições "
+                         "previdenciárias devidas pelas empresas que menciona; altera as Leis nº 11.774, de 17 de setembro "
+                         "de 2008, nº 11.033, de 21 de dezembro de 2004, nº 11.196, de 21 de novembro de 2005, nº 10.865, de "
+                         "30 de abril de 2004, nº 11.508, de 20 de julho de 2007, nº 7.291, de 19 de dezembro de 1984, nº "
+                         "11.491, de 20 de junho de 2007, nº 9.782, de 26 de janeiro de 1999, e nº 9.294, de 15 de julho de "
+                         "1996, e a Medida Provisória nº 2.199-14, de 24 de agosto de 2001; revoga o art. 1º da Lei nº "
+                         "11.529, de 22 de outubro de 2007, e o art. 6º do Decreto-Lei nº 1.593, de 21 de dezembro de 1977, "
+                         "nos termos que especifica; e dá outras providências.", "2011-12-14", "2011-12-15",
+                         "_Ato2011-2014/2011/Lei/L12546.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -10445,9 +10464,9 @@ if any(a["slug"] == _L10865 for a in ACTS):
                       "prazo de vigência encerrado no dia 8 de dezembro do corrente ano'")
     P.MP_LAPSE["mp-794-2017"] = (
         "2017-12-07", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 67, de 2017 (DOU 8.12.2017): 'teve seu "
-                      "prazo de vigência encerrado no dia 6 de dezembro do corrente ano'; Medida Provisória 794 had revoked "
-                      "Medida Provisória 774/2017 (art. 1), whose revocation of Lei 10.865 art. 8 § 21 applies again from "
-                      "7.12.2017 until Medida Provisória 774 itself lost effect")
+                      "prazo de vigência encerrado no dia 6 de dezembro do corrente ano'; the provisions it had revoked apply again "
+                      "from 7.12.2017")
+    # word for word as part zzzzn's (one shared law record, uniqlaws); names no act (coordinator, session 60)
     # Medida Provisória 794/2017 (DOU 9.8.2017, in force on publication) revoked Medida Provisória 774/2017; Planalto's page
     # of Lei 10.865 names it only in a 'Vide' note, so it is added to the laws the page cites when MP 774 is among them
     _note_laws10865 = P.note_laws
@@ -11040,6 +11059,217 @@ if any(a["slug"] == _L10865 for a in ACTS):
         "§ 3º, from 1.5.2015; its art. 1 date, 1.1.2015, is before publication, so publication is kept); Lei 13.169/2015 art. "
         "17 II (its art. 15 from 1.2.2016); Lei 14.784/2023 art. 7 II (its art. 3, art. 8 § 21 caput, from 1.4.2024). Medidas "
         "Provisórias 545/2011 and 564/2012 are in force on publication for their changes to this act")
+
+# part zzzzn (fifty-ninth session, TRIAL): Lei 12.546/2011 (Reintegra, IPI for the automotive industry, the contribution on
+# gross revenue; conversion of Medida Provisória 540/2011). Art. 52: in force on publication (DOU 15.12.2011). § 1º (arts. 1 to
+# 3 produce effects only after their regulation) and § 2º (arts. 7 to 9 and 14 to 21 from the first day of the fourth month
+# after Medida Provisória 540's publication, 1.12.2011) fall on or before publication, so publication is kept; § 5º: arts. 28
+# to 45 from 70 days after publication (counted as Lei Complementar 95 art. 8 § 1º: 23.2.2012); § 3º (art. 7 §§ 3º to 5º and
+# art. 8 III to V from 1.4.2012) concerns single lines (to be set on the lines); § 4º concerns Lei 10.865
+_L12546 = "lei-12546-de-2011"
+_G12546 = {_u(n): ("2012-02-23", "art. 52 § 5º") for n in range(28, 46)}
+G12546_USED: list[str] = []
+_GATES[_L12546] = (_G12546, "lei-12546-2011", G12546_USED)
+if any(a["slug"] == _L12546 for a in ACTS):
+    EXTRA.append(
+        "Lei 12.546: art. 52 ('Esta Lei entra em vigor na data de sua publicação'; DOU 15.12.2011) with § 5º ('Os arts. 28 a "
+        "45 entram em vigor 70 (setenta) dias após a data de publicação desta Lei'): arts. 28 to 45 start on 23.2.2012 (the "
+        "70 days counted with the day of publication and the last day, Lei Complementar 95/1998 art. 8 § 1º), credited to "
+        "Lei 12.546; § 2º (arts. 7 to 9 and 14 to 21 from the first day of the fourth month after Medida Provisória 540/2011's "
+        "publication, 1.12.2011) is before publication, so those articles start on publication")
+
+# part zzzzn, fifty-ninth session: in-force days of the amenders whose last article names several days (each read on its own
+# page; the day set here is the clause that covers most of the amender's changes to Lei 12.546; the lines under its other
+# clauses are TO DO, set on the lines) and the fates of the Medidas Provisórias (texts word for word as the shared records)
+if any(a["slug"] == _L12546 for a in ACTS):
+    P.VIGENCIA_FIXED["lei-12844-2013"] = (
+        "2013-07-19", "art. 49: 'Esta Lei entra em vigor: [...] V - na data de sua publicação para os demais dispositivos' (DOU "
+                      "19.7.2013, edição extra): its art. 13, the changes to Lei 12.546, on publication, save the parts that "
+                      "art. 49 I (retroactive to 4.6.2013: publication kept), II (1.11.2013) and IV (1.1.2014) name")
+    P.VIGENCIA_FIXED["lei-13161-2015"] = (
+        "2015-12-01", "art. 7: 'Esta Lei entra em vigor: I - a partir do primeiro dia do quarto mês subsequente ao de sua "
+                      "publicação quanto aos arts. 1º e 2º; [...]' (DOU 31.8.2015, edição extra): its art. 1, the changes to "
+                      "Lei 12.546, from 1.12.2015")
+    P.VIGENCIA_FIXED["lei-14288-2021"] = (
+        "2021-12-31", "art. 5: 'Esta Lei entra em vigor: I – na data de sua publicação, quanto ao art. 2º; [...]' (DOU "
+                      "31.12.2021, edição extra): its art. 2, the changes to Lei 12.546 arts. 7 and 8, on publication")
+    P.VIGENCIA_FIXED["mp-582-2012"] = (
+        "2013-01-01", "art. 20: 'Esta Medida Provisória entra em vigor: I - a partir do primeiro dia do quarto mês subsequente "
+                      "ao da publicação desta Medida Provisória, em relação aos arts. 1º a 3º e 14 a 17; [...]' (DOU "
+                      "21.9.2012): its arts. 1 and 2, the changes to Lei 12.546 and its Anexo, from 1.1.2013")
+    P.VIGENCIA_FIXED["mp-601-2012"] = (
+        "2013-04-01", "art. 7: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, em relação ao art. 1º, nas "
+                      "partes em que altera o art. 3º da Lei nº 12.546 [...], em que inclui a alínea \"c\" no inciso II do §1º "
+                      "do art. 8º [...], e na parte em que altera o inciso II do caput do art. 9º [...]; III - a partir do "
+                      "primeiro dia do quarto mês subsequente ao de sua publicação, em relação aos demais dispositivos' (DOU "
+                      "28.12.2012, edição extra): its other changes to Lei 12.546 from 1.4.2013 (the parts under I on "
+                      "publication)")
+    P.VIGENCIA_FIXED["mp-612-2013"] = (
+        "2013-04-04", "art. 28: 'Esta Medida Provisória entra em vigor: [...] III - na data de sua publicação para os demais "
+                      "dispositivos [...]' (DOU 4.4.2013): its arts. 24 and 25, the changes to Lei 12.546, on publication, "
+                      "save art. 7 V to XI and art. 8 § 3º XIII to XX and § 6º (II: from 1.1.2014, after it lost effect)")
+    P.VIGENCIA_FIXED["mp-556-2011"] = (
+        "2011-12-26", "art. 7: 'Esta Medida Provisória entra em vigor na data de sua publicação, produzindo efeitos: [...] II - na "
+                      "data de sua publicação, em relação aos demais artigos' (DOU 26.12.2011): its art. 5, the change to Lei "
+                      "12.546 art. 2, on publication")
+    P.MP_LAPSE["mp-556-2011"] = (
+        "2012-06-01", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 25, de 2012 (DOU 14.6.2012): 'teve seu "
+                      "prazo de vigência encerrado no dia 31 de maio do corrente ano'")
+    P.MP_LAPSE["mp-601-2012"] = (
+        "2013-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 36, de 2013 (DOU 6.6.2013): 'teve seu "
+                      "prazo de vigência encerrado no dia 3 de junho do corrente ano'; the wordings it gave end on 4.6.2013")
+    P.MP_LAPSE["mp-612-2013"] = (
+        "2013-08-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 49, de 2013 (DOU 7.8.2013): 'teve seu "
+                      "prazo de vigência encerrado no dia 1º de agosto do corrente ano'")
+    P.MP_LAPSE["mp-774-2017"] = (
+        "2017-12-09", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 70, de 2017 (DOU 12.12.2017): 'teve seu "
+                      "prazo de vigência encerrado no dia 8 de dezembro do corrente ano'")
+    P.MP_LAPSE["mp-794-2017"] = (
+        "2017-12-07", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 67, de 2017 (DOU 8.12.2017): 'teve seu "
+                      "prazo de vigência encerrado no dia 6 de dezembro do corrente ano'; the provisions it had revoked apply again "
+                      "from 7.12.2017")
+    # word for word as part zzzzm's (one shared law record, uniqlaws); names no act (coordinator, session 60)
+    # Medida Provisória 794/2017 revoked Medida Provisória 774/2017 (as part zzzzm)
+    _note_laws12546 = P.note_laws
+
+    def _note_laws_l12546(paras):
+        out = _note_laws12546(paras)
+        if "mp-774-2017" in out:
+            out.add("mp-794-2017")
+        return out
+
+    P.note_laws = _note_laws_l12546
+
+# part zzzzn, fifty-ninth session: Medida Provisória 774/2017 (DOU 30.3.2017; art. 3: effects from the first day of the fourth
+# month after publication, 1.7.2017) rewrote arts. 7-A, 8 and 8-A and revoked parts of arts. 7 and 8 (art. 2 II); Medida
+# Provisória 794/2017 (DOU 9.8.2017, in force on publication) revoked it (art. 1) and lost effect on 6.12.2017, so Medida
+# Provisória 774 applies again until it lost effect itself on 8.12.2017 (the model of Lei 10.865 art. 8 § 21, part zzzzm).
+# Planalto prints the Medida Provisória's lines twice (with 'Vide Medida Provisória nº 794' and with 'Vigência encerrada') and
+# the wordings it replaced or revoked a second time after them: one copy of each is kept
+_G774_12546 = [("2017-07-01", "2017-08-09", "mp-774-2017", "mp-794-2017"),
+               ("2017-12-07", "2017-12-09", "mp-794-2017-fim", "mp-774-2017-fim")]
+L12546_774: dict = {}
+L12546_774_OPEN: list[str] = []
+if any(a["slug"] == _L12546 for a in ACTS):
+    def _mp774_12546(paras, record):
+        def key(p):
+            return p["unit"], p["label"], B8._norm(p["text"])
+        rows = [p for p in paras if not p["heading"]]
+        n = {"paired": 0, "mp774": 0, "mp774 copy": 0}
+        for i, p in enumerate(rows):
+            if p.get("end_law") == "mp-774-2017" and not p.get("skip"):
+                # the second copy is dated from the Medida Provisória's lapse, or (art. 8 I to V, '(revogado)') by its own note
+                later = [q for q in rows[i + 1:] if q.get("start_law") in ("mp-774-2017-fim", p["start_law"]) and key(q) == key(p)
+                         and not q.get("skip")]
+                if later:
+                    later[0].update(start=p["start"], start_law=p["start_law"], gaps=list(_G774_12546), pinned=True)
+                    p["skip"], p["pinned"] = True, True
+                    n["paired"] += 1
+                elif record:
+                    x = f"{p['unit']} [{p['label']}] {p['text'][:60]!r}"
+                    L12546_774_OPEN.append(x)
+                    B8.SPAN_MISSED.append(f"{_L12546} Medida Provisória 774: no second copy of {x}")
+        seen = set()
+        for p in rows:
+            if p.get("start_law") == "mp-774-2017" and not p.get("skip"):
+                if key(p) in seen:
+                    p["skip"], p["pinned"] = True, True
+                    n["mp774 copy"] += 1
+                    continue
+                seen.add(key(p))
+                p.update(start="2017-07-01", end="2017-12-09", end_law="mp-774-2017-fim", end_how="lapse", pinned=True,
+                         gaps=[("2017-08-09", "2017-12-07", "mp-794-2017", "mp-794-2017-fim")])
+                n["mp774"] += 1
+        if record:
+            for k, v in n.items():
+                L12546_774[k] = L12546_774.get(k, 0) + v
+
+    _span_fixL12546 = B8.apply_span_fix
+
+    def _apply_span_fix_l12546(paras, act_slug, record):
+        _span_fixL12546(paras, act_slug, record)
+        if act_slug == _L12546:
+            _mp774_12546(paras, record)
+
+    B8.apply_span_fix = _apply_span_fix_l12546
+    EXTRA.append(
+        "Lei 12.546 under Medidas Provisórias 774/2017 and 794/2017: Medida Provisória 774 (DOU 30.3.2017) rewrote arts. 7-A, 8 "
+        "and 8-A and revoked parts of arts. 7 and 8, with effects from 1.7.2017 (its art. 3); Medida Provisória 794/2017 "
+        "(DOU 9.8.2017, in force on publication) revoked it (art. 1), so the earlier wordings are back from 9.8.2017; "
+        "Medida Provisória 794 lost effect on 6.12.2017 (Ato Declaratório do Presidente da Mesa do Congresso Nacional nº "
+        "67, de 2017), so Medida Provisória 774, suspended and not removed by a revocation that was never converted, applies "
+        "again on 7 and 8.12.2017, until it lost effect itself (Ato Declaratório nº 70, de 2017); the earlier wordings are "
+        "back from 9.12.2017. Planalto prints the Medida Provisória's lines twice and the wordings they replaced a second "
+        "time after them; the history keeps one copy of each")
+
+# part zzzzn, sixtieth session: Planalto's markers inside lines of the annotated page ('Sem eficácia' after Medida Provisória
+# 556's lines, 'Produção de efeito e vigência', 'Produção de efeito(s)', 'Vigência encerrada', '(Vigência)') are not part of
+# the text: lifted out (a line struck with an unstruck marker after it is read as struck)
+L12546_FIXED: list[str] = []
+if any(a["slug"] == _L12546 for a in ACTS):
+    _MARK12546 = re.compile(r"(?:\s*\(?\s*(?:Produção\s+de\s+efeitos?(?:\s+e\s+vigência)?|Sem\s+efic[áa]cia|Vigência\s+encerrada"
+                            r"|Vigência)\s*\)?)+\s*$")
+    _paragraphsL12546 = P.paragraphs
+
+    def _paragraphs_l12546(html, digits):
+        out, rest = _paragraphsL12546(html, digits)
+        if B8.CURRENT_PAGE[0] in ("l12546", "l12546-compilado"):
+            for q in out:
+                if q["heading"]:
+                    continue
+                for f in ("text", "struck_text", "plain_text"):
+                    if q.get(f):
+                        t = _MARK12546.sub("", q[f])
+                        if t != q[f] and (t.strip() or f != "text"):
+                            q[f] = t
+                            if f == "text":
+                                L12546_FIXED.append(f"{B8.CURRENT_PAGE[0]} {q['unit']} {q['label']} marker")
+                if q["state"] == "mixed" and not P.norm(q.get("plain_text") or ""):
+                    q.update({"state": "struck", "plain_text": "", "struck_text": ""})
+                    L12546_FIXED.append(f"{q['unit']} {q['label']} struck")
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_l12546
+    EXTRA.append(
+        "Lei 12.546: Planalto's markers 'Sem eficácia', 'Produção de efeito e vigência', 'Produção de efeito(s)', 'Vigência "
+        "encerrada' and '(Vigência)' printed inside lines of the annotated and consolidated pages are not part of the text and are left out; a "
+        "struck line with an unstruck marker after it is read as struck")
+    # Supremo Tribunal Federal, ADI 7.633 (Planalto's '(Vide ADI 7633)' after art. 7 caput and art. 8 caput in Lei 14.784's
+    # wording): not modelled, as Lei Complementar 97's ADI 6.457 (coordinator, session 52)
+    EXTRA.append("Lei 12.546: the Supremo Tribunal Federal's judgment in ADI 7.633, to which Planalto's '(Vide ADI 7633)' "
+                 "markers point, is not shown in the history, because its record could not be read.")
+    # item a), whole-act days (each read on its page; every change of the amender to Lei 12.546 falls under the clause)
+    P.VIGENCIA_FIXED["mp-563-2012"] = (
+        "2012-08-01", "art. 54: 'Esta Medida Provisória entra em vigor na data de sua publicação [...] § 2º Os arts. 43 a 46 "
+                      "entram em vigor no primeiro dia do quarto mês subsequente à data de sua publicação' (DOU 4.4.2012), and "
+                      "art. 53 III (the revocation of art. 7 §§ 3º and 4º and of art. 8 parágrafo único and incisos I to V 'a "
+                      "partir do primeiro dia do quarto mês subsequente à data de sua publicação'): its arts. 45 and 46 and "
+                      "that revocation, the changes to Lei 12.546, from 1.8.2012")
+    P.VIGENCIA_FIXED["lei-13670-2018"] = (
+        "2018-09-01", "art. 11: 'Esta Lei entra em vigor: I - no primeiro dia do quarto mês subsequente ao de sua publicação, "
+                      "quanto aos arts. 1º e 2º, e ao inciso II do caput do art. 12' (DOU 30.5.2018, edição extra): its art. 1 "
+                      "and art. 12 II, the changes to Lei 12.546 and the revocations in it, from 1.9.2018")
+    B13.OPEN_ITEMS[_L12546] = (
+        "Lei 12.546 (open items): Planalto's '(Vide ADI 7633)' markers after art. 7 caput and art. 8 caput (Lei 14.784/2023's "
+        "wording) point to the Supremo Tribunal Federal's judgment in that case, whose effect on the text could not be read "
+        "(its record was not read): the judgment is not modelled; 'Vide' pointers (among them Medidas Provisórias 563/2012, "
+        "582/2012, 669/2015, 794/2017, 1.202/2023 and 1.208/2024, Lei 13.161/2015 and Lei Complementar 214/2025) strike no "
+        "words and are not modelled")
+    # Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] LI - os seguintes
+    # dispositivos da Lei nº 12.546, de 14 de dezembro de 2011: a) os arts. 1º a 3º; e b) os arts. 47-A e 47-B'): future
+    # branch (Planalto's page of Lei 12.546 prints only '(Vide Lei Complementar nº 214, de 2025)')
+    _FUT2027[_L12546] = (
+        {"art-01", "art-02", "art-03", "art-47-a", "art-47-b"}, {},
+        "Lei 12.546: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] LI - os "
+        "seguintes dispositivos da Lei nº 12.546, de 14 de dezembro de 2011: a) os arts. 1º a 3º; e b) os arts. 47-A e "
+        "47-B'), read on LC 214's page (Planalto's page of Lei 12.546 prints only '(Vide Lei Complementar nº 214, de "
+        "2025)'): those articles end on 1.1.2027, on the future branch")
+    B8.EXTRA_LAWS["lc-214-2025"] = {
+        "label": "Lei Complementar nº 214, de 2025", "title": "Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição "
+        "Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação "
+        "tributária.", "kind": "law", "enacted": "2025-01-16", "published": "2025-01-16",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp214.htm", "temporary_until": None, "restores": None,
+        "note": None}
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

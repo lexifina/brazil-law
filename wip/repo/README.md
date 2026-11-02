@@ -378,7 +378,7 @@ The author of a commit is the amendment (or ruling) that made the change, with a
 
 ## How it is built
 
-The Planalto site refuses automated readers, so `tools/fetch.py` reads every Planalto page from an Internet Archive raw copy (`web.archive.org/web/<timestamp>id_/<Planalto URL>`, byte for byte what Planalto served), pinned by timestamp in `tools/sources.json`; it uses curl, one request per second, cached by the sha256 of the URL. `tools/parse.py` turns the cache into `corpus.json`, and the shared builder `tools/build.py` writes the history with `git fast-import`. The same corpus always gives the same hashes. `REPRODUCE.md` records every command, tool version, data hash and decision, and the result of a hash-for-hash rebuild.
+The text is read from Internet Archive copies of the Planalto pages, each pinned by its capture date in `tools/sources.json`. `tools/parse.py` turns those copies into `corpus.json`, and the shared builder `tools/build.py` writes the history with `git fast-import`. The same corpus always gives the same hashes. `REPRODUCE.md` records every command, tool version, data hash and decision, and the result of a hash-for-hash rebuild.
 
 No AI model wrote or changed legal text. Claude Opus 5.5 wrote the scripts and chose the sources; see `REPRODUCE.md`.
 
