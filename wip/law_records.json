@@ -867,5 +867,49 @@
   "temporary_until": null,
   "restores": "mp-700-2015",
   "note": "Medida Provisória nº 700, de 2015 lost effect on 2016-05-18 without being converted into law (Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 23, de 2016 (DOU 19.5.2016): 'teve seu prazo de vigência encerrado no dia 17 de maio'); the wording it had replaced is in force again."
+ },
+ "lei-11419-2006": {
+  "label": "Lei nº 11.419, de 2006",
+  "title": "Dispõe sobre a informatização do processo judicial; altera a Lei nº 5.869, de 11 de janeiro de 1973 – Código de Processo Civil; e dá outras providências.",
+  "kind": "law",
+  "enacted": "2006-12-19",
+  "published": "2006-12-20",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm",
+  "temporary_until": null,
+  "restores": null,
+  "note": null
+ },
+ "lei-8038-1990": {
+  "label": "Lei nº 8.038, de 1990",
+  "title": "Institui normas procedimentais para os processos que especifica, perante o Superior Tribunal de Justiça e o Supremo Tribunal Federal.",
+  "kind": "law",
+  "enacted": "1990-05-28",
+  "published": "1990-05-29",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm",
+  "temporary_until": null,
+  "restores": null,
+  "note": null
+ },
+ "lei-9307-1996": {
+  "label": "Lei nº 9.307, de 1996",
+  "title": "Dispõe sobre a arbitragem.",
+  "kind": "law",
+  "enacted": "1996-09-23",
+  "published": "1996-09-24",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm",
+  "temporary_until": null,
+  "restores": null,
+  "note": null
+ },
+ "lei-9868-1999": {
+  "label": "Lei nº 9.868, de 1999",
+  "title": "Dispõe sobre o processo e julgamento da ação direta de inconstitucionalidade e da ação declaratória de constitucionalidade perante o Supremo Tribunal Federal.",
+  "kind": "law",
+  "enacted": "1999-11-10",
+  "published": "1999-11-11",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm",
+  "temporary_until": null,
+  "restores": null,
+  "note": null
  }
 }

@@ -8440,6 +8440,13 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
          _W_CPC73_SPANS["746"]),
         ((_LCPC73, "art-0541", "Art. 541", "Art. 541. Caberá recurso extraordinário para o Supremo", 0),
          {"end": "1990-05-29", "end_law": "lei-8038-1990", "end_how": "note"}, _W_CPC73_SPANS["541"]),
+        ((_LCPC73, "art-0496", "III -", "III - embargos infringentes", 0), _F496, _W_CPC73_SPANS["496"]),
+        ((_LCPC73, "art-0496", "IV -", "IV - embargos de declaração", 1), _F496, _W_CPC73_SPANS["496"]),
+        ((_LCPC73, "art-0496", "V -", "V - recurso ordinário", 0), _F496, _W_CPC73_SPANS["496"]),
+        ((_LCPC73, "art-0508", "Parágrafo único", "Parágrafo único. No procedimento sumaríssimo", 0), {"skip": True},
+         "Código de Processo Civil de 1973 art. 508 parágrafo único: Planalto prints the 1973 wording twice, once with no note "
+         "under the struck caput and once with its note '(Revogado pela Lei nº 6.314, de 16.12.1975)'; the copy with no note "
+         "is left out and the noted one ends on 17.12.1975"),
         ((_LCPC73, "art-0983", "Parágrafo único", "Parágrafo único. (Revogado)", 0), {"skip": True},
          "Código de Processo Civil de 1973 art. 983 parágrafo único: Lei 11.441/2007 art. 5 revoked it (art. 1 rewrote the "
          "caput); the line Planalto prints after the new caput, 'Parágrafo único. (Revogado).', is a placeholder, not "
