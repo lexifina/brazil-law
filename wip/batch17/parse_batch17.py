@@ -7691,14 +7691,18 @@ def _reiq_model(paras, record):
     # the parágrafo único of art. 57 as enacted, which Lei 11.488/2007 art. 36 renumbered as § 1º with the same words
     # ('renumerando-se o atual parágrafo único para § 1º'): Planalto prints only the renumbered line, and Medida Provisória
     # 613's own parágrafo único (2013) kept the renumbering rule from adding the enacted line
+    _V57 = {"start": "2005-11-22", "start_law": None, "end": "2007-06-15", "end_law": "lei-11488-2007", "end_how": "renumbered",
+            "gaps": [], "skip": False, "pinned": True}
+    for p in paras:
+        if p.get("bem_virtual"):
+            p.update(_V57)   # the rewrite rules run between the two calls must not chain it to Medida Provisória 613's line
     if not any(p.get("bem_virtual") for p in paras):
         src = [p for p in paras if p["unit"] == "art-57" and p["label"] == "§ 1º" and not p["heading"]
                and any("Renumerado do parágrafo único pela Lei nº 11.488" in n for n in p["notes"])]
         if len(src) == 1:
             s = src[0]
             v = dict(s, label="Parágrafo único", text="Parágrafo único." + s["text"][len("§ 1º"):],
-                     notes=[], start="2005-11-22", start_law=None, end="2007-06-15", end_law="lei-11488-2007",
-                     end_how="renumbered", gaps=[], skip=False, pinned=True, bem_virtual=True)
+                     notes=[], bem_virtual=True, **_V57)
             paras.insert(paras.index(s), v)
         elif record:
             B8.SPAN_MISSED.append(f"{_LBEM} REIQ art-57 renumbered § 1º: {len(src)} lines")
