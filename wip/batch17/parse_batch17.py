@@ -7682,7 +7682,6 @@ def _redata_model(paras, record):
 # article falls between the version day and the effect day), the Programa de Inclusão Digital under Medida Provisória 690,
 # the art. 132 items that date only part of an article, and the holds for effects that wait on an executive act.
 _G690 = ("2015-12-01", "2015-12-31", "mp-690-2015", "lei-13241-2015")
-_BEM_HELD = ("art-110", "art-114", "art-115")   # art. 132 VI and VII: no act found that dates them (decision _W_HELD)
 _BEM_PART = [   # (unit, first line of the quoted block or the line, whole block?, day, art. 132 item)
     ("art-33", "\"Art. 2º.", True, "2006-01-01", "IV a"),
     ("art-42", "I - de peças, componentes ou conjuntos", False, "2006-03-01", "V a"),
@@ -7709,22 +7708,21 @@ _W_690 = ("Lei 11.196 arts. 28 to 30 (Programa de Inclusão Digital): Medida Pro
           "1.12.2015 and back on 31.12.2015; Planalto prints arts. 28 and 29 twice, once struck with the note of the Medida "
           "Provisória and again as Lei 13.241 left them: one copy of each wording is kept")
 _W_70 = ("Lei 11.196 art. 70 I d): Medida Provisória 1.107/2022 art. 12 (DOU 18.3.2022), Medida Provisória 1.110/2022 art. 4 "
-         "(DOU 28.3.2022) and Lei 14.438/2022 art. 12 (the conversion of Medida Provisória 1.107, DOU 25.8.2022) give it a new "
-         "wording that takes effect only for fatos geradores from 'a data de início da arrecadação por meio da prestação dos "
-         "serviços digitais de geração de guias' of the FGTS (Medida Provisória 1.107 art. 18 I b 1, Medida Provisória 1.110 "
-         "art. 7 I, Lei 14.438 art. 19 I b 1); Medida Provisória 1.107 was converted and Medida Provisória 1.110 lapsed before "
-         "any such day, so their wordings never took effect; Portaria MTE 240/2024 (DOU 1.3.2024, in force on 1.3.2024) "
-         "leaves the start of that collection ('etapa de implementação em ambiente de produção e em operação efetiva', its "
-         "art. 3 II) to an Edital of the Secretaria de Inspeção do Trabalho, which the official texts read for this record do "
-         "not give: Lei 14.438's wording is held with no day (coordinator rule for effects that wait on an executive act) and "
-         "Lei Complementar 150/2015's wording stands; Planalto's page prints Lei 14.438's")
-_W_HELD = ("Lei 11.196 arts. 110, 114 and 115: art. 132 VII puts art. 110 in effect 'a partir da edição de ato disciplinando a "
-           "matéria' (no earlier than 1.3.2006 for the Contribuição para o PIS/Pasep and the Cofins and 1.1.2006 for the IRPJ "
-           "and the CSLL), and art. 132 VI puts arts. 114 and 115 in effect 'a partir da data da publicação do ato conjunto a "
-           "que se refere o § 3º do art. 7º do Decreto-Lei nº 2.287'; no official text read for this record names or dates "
-           "either act, so the three articles are held with no day (coordinator rule for effects that wait on an executive "
-           "act) and are left out of the history, with Lei Complementar 214/2025's new caput of art. 110 and its revocation "
-           "of art. 110 § 4º (1.1.2027); Planalto's page prints them")
+         "(DOU 28.3.2022) and Lei 14.438/2022 art. 12 (the conversion of Medida Provisória 1.107, DOU 25.8.2022) give it new "
+         "wordings; each act 'entra em vigor na data de sua publicação' and ties only the effects of the change, for fatos "
+         "geradores from 'a data de início da arrecadação por meio da prestação dos serviços digitais de geração de guias' of "
+         "the FGTS (Medida Provisória 1.107 art. 18 I b 1, Medida Provisória 1.110 art. 7 I, Lei 14.438 art. 19 I b 1), to a "
+         "later act: Portaria MTE 240/2024 (DOU 1.3.2024) art. 3 leaves the start of that collection to an Edital of the "
+         "Secretaria de Inspeção do Trabalho, which the official texts read for this record do not date. The record keeps "
+         "the text, not its effects (the rule of this corpus for effects tied to a later undated act), so each wording "
+         "takes its act's in-force day; the effects wait on that Edital")
+_W_HELD = ("Lei 11.196 arts. 110, 114 and 115: the Lei 'entra em vigor na data de sua publicação, produzindo efeitos' (art. "
+           "132); art. 132 VII ties only the effects of art. 110 to 'a partir da edição de ato disciplinando a matéria' (no "
+           "earlier than 1.3.2006 for the Contribuição para o PIS/Pasep and the Cofins and 1.1.2006 for the IRPJ and the CSLL), "
+           "and art. 132 VI ties the effects of arts. 114 and 115 to 'a partir da data da publicação do ato conjunto a que se "
+           "refere o § 3º do art. 7º do Decreto-Lei nº 2.287'. The record keeps the text, not its effects (the rule of this "
+           "corpus for effects tied to a later undated act), so the three articles stand from 22.11.2005; their effects wait "
+           "on those acts, which no official text read for this record names or dates")
 _W_PART = ("Lei 11.196 art. 132 items that date only part of an article: art. 33's quoted art. 2 of Lei 9.317 from 1.1.2006 (IV "
            "a); art. 42 from 1.12.2005 (III a), its quoted § 3º I and § 7º II of Lei 10.485's art. 3 from 1.3.2006 (V a); art. "
            "43's quoted art. 3 and art. 10 XXVII of Lei 10.833 from 1.12.2005 (III c); art. 44's quoted art. 15 of Lei 10.865 "
@@ -7755,11 +7753,6 @@ B.EXPLAINED[_LBEM] = {
               "the future branch), in place of art. 9 § 1º, which stands until art. 9's revocation on 1.1.2027",
     "art-11-b": "the consolidated page breaks § 5º (Lei 15.504/2026) after 'inciso II do' and prints the rest ('§ 2º deste "
                 "artigo deverá ser comprovada [...]') as a line of its own; the history joins the paragraph",
-    "art-110": "held with no day (art. 132 VII: effects from an act disciplining the matter, which no official text read here "
-               "names or dates): left out of the history; the consolidated page prints the article",
-    "art-114": "held with no day (art. 132 VI: effects from the ato conjunto under Decreto-Lei 2.287 art. 7 § 3º, which no "
-               "official text read here names or dates): left out of the history; the consolidated page prints the article",
-    "art-115": "held with no day, with art. 114 (art. 132 VI): left out of the history; the consolidated page prints the article",
     "art-113": _XLBL.format("§ 2º."), "art-118": _XLBL.format("§ 2º."), "art-41": _XLBL.format("§ 8º."),
     "art-63": _XLBL.format("§ 1º."), "art-44": _XLBL.format("§ 11.' and '§ 12."),
     "art-48": "Lei 15.394/2026 (DOU 23.4.2026) quotes the whole of art. 48, ending '(NR)' with no dotted line, so its parágrafo "
@@ -7771,9 +7764,6 @@ B.EXPLAINED[_LBEM] = {
                 "from Lei 14.374/2022's promulgated text (TEXT_FIX on the annotated page only)",
     "art-65": "§ 7º reads 'art. 8o' (a letter o) on the annotated page, as Lei 11.945/2009's own page prints it; the "
               "consolidated page has 'art. 8º'",
-    "art-70": "I d): Lei 14.438/2022's wording is held with no day (effects from the start of FGTS Digital collection, a day "
-              "no official text read here gives), so Lei Complementar 150/2015's stands; the consolidated page prints "
-              "Lei 14.438's",
     "art-83": "the consolidated page prints arts. 84 to 87, revoked by Lei 14.652/2023, as four lines 'Art. (Revogado pela Lei "
               "nº 14.652, de 2023)' with no number, which its reading takes for lines of art. 83",
     "titulos": "the consolidated page keeps the closing quotation mark of Lei 15.504/2026's amending text after the name of "
@@ -7783,10 +7773,10 @@ B13.OPEN_ITEMS[_LBEM] = (
     "Lei 11.196 (open items): art. 11-J parágrafo único (Lei 15.504/2026: the benefits of art. 11-C I to III 'produzirão "
     "efeitos até 31 de dezembro de 2026') limits the effects of those benefits, not the words, which stand. ADIN 4254: "
     "Planalto prints 'Vide ADIN 4254' (a link to the petition) at art. 65 caput, § 1º, § 1º III and IV, § 5º and § 7º, strikes "
-    "none of them and notes no suspension or ruling; the lines stand and the ruling's scope is not modelled. Held with no "
-    "day, to be dated if an official text gives the day: art. 70 I d) in Lei 14.438/2022's wording (the start of FGTS "
-    "Digital collection, set by an Edital of the Secretaria de Inspeção do Trabalho under Portaria MTE 240/2024 art. 3) and "
-    "arts. 110, 114 and 115 (the acts of art. 132 VI and VII). Art. 132 I and II date the effects of arts. 91 and 92 from "
+    "none of them and notes no suspension or ruling; the lines stand and the ruling's scope is not modelled. Effects tied to a later act that the "
+    "official texts read here do not date (the words stand from their in-force days): art. 70 I d) in Lei 14.438/2022's "
+    "wording (the start of FGTS Digital collection, set by an Edital of the Secretaria de Inspeção do Trabalho under "
+    "Portaria MTE 240/2024 art. 3) and arts. 110, 114 and 115 (the acts of art. 132 VI and VII). Art. 132 I and II date the effects of arts. 91 and 92 from "
     "1.7.2005 and of arts. 38 to 41, 111, 116 and 117 and parts of arts. 33, 43 and 44 from 14.10.2005, before the "
     "publication: they keep 22.11.2005. Lei Complementar 228/2026 sets the REIQ's art. 56 rates only to December 2026. "
     "'Vide' pointers (Medida Provisória 492/2010 on art. 96, Medida Provisória 1.303/2025 on the ementa, Lei Complementar "
@@ -7847,15 +7837,6 @@ def _effects_model(paras, record):
             p.update({"skip": True, "pinned": True}); used.append(_W_64)
         if u == "art-64" and p["end_law"] == "mp-413-2008" and not p.get("skip"):
             p.update({"end": "2008-06-24", "end_law": "lei-11727-2008", "end_how": "successor", "pinned": True})
-        # art. 70 I d): Lei 14.438's wording held with no day; the Medidas Provisórias' wordings never took effect
-        if u == "art-70" and p["label"] == "d)" and p["start_law"] in (
-                "mp-1107-2022", "mp-1107-2022-fim", "mp-1110-2022", "mp-1110-2022-fim", "lei-14438-2022"):
-            p.update({"skip": True, "pinned": True}); used.append(_W_70)
-        if u == "art-70" and p["label"] == "d)" and p["start_law"] == "lc-150-2015" and not p.get("skip"):
-            p.update({"end": None, "end_law": None, "end_how": None, "pinned": True})
-        # arts. 110, 114 and 115 held with no day
-        if u in _BEM_HELD:
-            p.update({"skip": True, "pinned": True}); used.append(_W_HELD)
     # arts. 28 to 30: Medida Provisória 690 (one copy of each wording; absent 1.12.2015 to 31.12.2015)
     for unit, cap in (("art-28", "Art. 28"), ("art-29", "Art. 29")):
         rows = [p for p in paras if p["unit"] == unit and not p["heading"]]
@@ -7898,7 +7879,7 @@ def _effects_model(paras, record):
                     p.update({"start": day, "start_law": "lei-11196-2005", "pinned": True})
             used.append(_W_PART)
     if record:
-        for w in (*used, _W_KEPT, _W_OTHER):
+        for w in (*used, _W_KEPT, _W_OTHER, _W_70, _W_HELD):
             if w not in EXTRA:
                 EXTRA.append(w)
 
