@@ -7659,6 +7659,157 @@ def _redata_model(paras, record):
             if record and _W1318_11C not in EXTRA:
                 EXTRA.append(_W1318_11C)
 
+
+# part zzzy (fortieth session): effect days the amending acts fix and effects_fix cannot set (another change of the same
+# article falls between the version day and the effect day), the Programa de Inclusão Digital under Medida Provisória 690,
+# the art. 132 items that date only part of an article, and the holds for effects that wait on an executive act.
+_G690 = ("2015-12-01", "2015-12-31", "mp-690-2015", "lei-13241-2015")
+_BEM_HELD = ("art-110", "art-114", "art-115")   # art. 132 VI and VII: no act found that dates them (decision _W_HELD)
+_BEM_PART = [   # (unit, first line of the quoted block or the line, whole block?, day, art. 132 item)
+    ("art-33", "\"Art. 2º.", True, "2006-01-01", "IV a"),
+    ("art-42", "I - de peças, componentes ou conjuntos", False, "2006-03-01", "V a"),
+    ("art-42", "II - alcança também os pagamentos", False, "2006-03-01", "V a"),
+    ("art-43", "\"Art. 3º.", True, "2005-12-01", "III c"),
+    ("art-43", "XXVII - (VETADO)", False, "2005-12-01", "III c"),
+    ("art-44", "\"Art. 15.", True, "2005-12-01", "III b"),
+    ("art-46", "\"Art. 10.", True, "2006-03-01", "V b"),
+]
+_W_65 = ("Lei 11.196 art. 65: Lei 11.727/2008 art. 39 (new wordings of § 1º VI and § 4º, new § 1º VIII and § 4º I to III; DOU "
+         "24.6.2008) takes effect on 1.1.2009 (its art. 41 VII, added by Medida Provisória 436/2008 and kept by Lei 11.827/2008, "
+         "before the 1.10.2008 of the enacted art. 41 IV), so those lines start, and the 2005 wordings end, on 1.1.2009; Medida "
+         "Provisória 451/2008's art. 12 (§§ 7º and 8º; DOU 16.12.2008) falls between, so the days are set by hand")
+_W_64 = ("Lei 11.196 art. 64: Medida Provisória 413/2008 art. 9 (new wording, DOU 3.1.2008) was to take effect on 1.5.2008 (its "
+         "art. 18 II); Medida Provisória 425/2008 (DOU 30.4.2008, edição extra) put it off to the month after an act of the "
+         "Secretaria da Receita Federal do Brasil, and Lei 11.727/2008, the conversion of Medida Provisória 413 (DOU 24.6.2008), "
+         "kept 'o regime anterior à publicação da Medida Provisória nº 413' until its own art. 9 took effect on 1.10.2008 (art. "
+         "41 IV and parágrafo único; Medida Provisória 425 was rejected on 9.7.2008, Ato Declaratório 4/2008-SF): Medida "
+         "Provisória 413's wording never took effect, and the 2005 wording stands until Lei 11.727's (effect day: effects_fix)")
+_W_690 = ("Lei 11.196 arts. 28 to 30 (Programa de Inclusão Digital): Medida Provisória 690/2015 art. 9 revoked them with effects "
+          "from 1.12.2015 (art. 10 I: 'primeiro dia do quarto mês subsequente ao de sua publicação', DOU 31.8.2015); Lei "
+          "13.241/2015, its conversion (DOU 31.12.2015, in force on publication; art. 11 I and II vetoed), kept them with a new "
+          "wording of art. 28, the new art. 28-A and the revocation of art. 30 II (its art. 12), so they are absent from "
+          "1.12.2015 and back on 31.12.2015; Planalto prints arts. 28 and 29 twice, once struck with the note of the Medida "
+          "Provisória and again as Lei 13.241 left them: one copy of each wording is kept")
+_W_70 = ("Lei 11.196 art. 70 I d): Medida Provisória 1.107/2022 art. 12 (DOU 18.3.2022), Medida Provisória 1.110/2022 art. 4 "
+         "(DOU 28.3.2022) and Lei 14.438/2022 art. 12 (the conversion of Medida Provisória 1.107, DOU 25.8.2022) give it a new "
+         "wording that takes effect only for fatos geradores from 'a data de início da arrecadação por meio da prestação dos "
+         "serviços digitais de geração de guias' of the FGTS (Medida Provisória 1.107 art. 18 I b 1, Medida Provisória 1.110 "
+         "art. 7 I, Lei 14.438 art. 19 I b 1); Medida Provisória 1.107 was converted and Medida Provisória 1.110 lapsed before "
+         "any such day, so their wordings never took effect; Portaria MTE 240/2024 (DOU 1.3.2024, in force on 1.3.2024) "
+         "leaves the start of that collection ('etapa de implementação em ambiente de produção e em operação efetiva', its "
+         "art. 3 II) to an Edital of the Secretaria de Inspeção do Trabalho, which the official texts read for this record do "
+         "not give: Lei 14.438's wording is held with no day (coordinator rule for effects that wait on an executive act) and "
+         "Lei Complementar 150/2015's wording stands; Planalto's page prints Lei 14.438's")
+_W_HELD = ("Lei 11.196 arts. 110, 114 and 115: art. 132 VII puts art. 110 in effect 'a partir da edição de ato disciplinando a "
+           "matéria' (no earlier than 1.3.2006 for the Contribuição para o PIS/Pasep and the Cofins and 1.1.2006 for the IRPJ "
+           "and the CSLL), and art. 132 VI puts arts. 114 and 115 in effect 'a partir da data da publicação do ato conjunto a "
+           "que se refere o § 3º do art. 7º do Decreto-Lei nº 2.287'; no official text read for this record names or dates "
+           "either act, so the three articles are held with no day (coordinator rule for effects that wait on an executive "
+           "act) and are left out of the history, with Lei Complementar 214/2025's new caput of art. 110 and its revocation "
+           "of art. 110 § 4º (1.1.2027); Planalto's page prints them")
+_W_PART = ("Lei 11.196 art. 132 items that date only part of an article: art. 33's quoted art. 2 of Lei 9.317 from 1.1.2006 (IV "
+           "a); art. 42 from 1.12.2005 (III a), its quoted § 3º I and § 7º II of Lei 10.485's art. 3 from 1.3.2006 (V a); art. "
+           "43's quoted art. 3 and art. 10 XXVII of Lei 10.833 from 1.12.2005 (III c); art. 44's quoted art. 15 of Lei 10.865 "
+           "from 1.12.2005 (III b); art. 46's quoted art. 10 of Lei 11.051 from 1.3.2006 (V b); the parts under item II "
+           "(effects from 14.10.2005) and the rest of each article from 22.11.2005, credited to Lei 11.196")
+_W_KEPT = ("Lei 11.196, effect days that reach back before the act's publication (the publication day is kept): Medida "
+           "Provisória 447/2008 art. 5 (art. 70 I d; art. 8: 'em relação aos fatos geradores ocorridos a partir de 1º de "
+           "novembro de 2008', DOU 17.11.2008) and Lei 11.933/2009, its conversion (art. 11 I: from 1.10.2008; DOU 29.4.2009); "
+           "Lei 12.024/2009 art. 5 (art. 62; art. 31 I: from 1.7.2009; DOU 28.8.2009); Lei 11.945/2009 art. 20 (arts. 64 § 6º "
+           "and 65 §§ 7º and 8º; art. 33 I f: 1.1.2009, and III: 'a partir da data de início de produção de efeitos do art. 65 "
+           "da Lei nº 11.196', which art. 132 V c puts on 1.3.2006; DOU 5.6.2009), and Medida Provisória 451/2008 art. 12 (the "
+           "same paragraphs; its effects clause III ties them to the same day; DOU 16.12.2008); Lei 13.137/2015 art. 22 (art. "
+           "65; art. 26 V: effects from 1.5.2015; DOU 22.6.2015); Lei 12.249/2010 art. 139 I b (art. 30 II from 1.1.2010, "
+           "the words of Medida Provisória 472, its conversion: no new version)")
+_W_OTHER = ("Lei 11.196, other effects clauses: art. 60 is revoked by Lei 12.995/2014 art. 27 I b 'a partir da entrada em vigor "
+            "do art. 13', and its art. 26 puts the whole Lei, art. 13 included, in force on publication (DOU 20.6.2014; the "
+            "parágrafo único dates only the effects of art. 13, from 1.1.2015), so art. 60 ends on 20.6.2014; Medida "
+            "Provisória 1.303/2025's change of art. 70 (effects from 1.1.2026, art. 75 I) never took effect: the MP lapsed on "
+            "8.10.2025, and Planalto's page of Lei 11.196 prints only a struck reference to it")
+
+
+def _bem_block(rows, first, whole):
+    hit = [k for k, p in enumerate(rows) if B8._norm(p["text"]).startswith(B8._norm(first))]
+    if len(hit) != 1:
+        return None
+    k = hit[0]
+    if not whole:
+        return [rows[k]]
+    out = [rows[k]]
+    for p in rows[k + 1:]:
+        if p["text"].lstrip().startswith("\""):
+            break
+        out.append(p)
+    return out
+
+
+def _effects_model(paras, record):
+    """effect days set by hand (decisions _W_65, _W_64, _W_690, _W_70, _W_HELD, _W_PART)"""
+    used = []
+    for p in paras:
+        if p["heading"]:
+            continue
+        u = p["unit"]
+        # art. 65: Lei 11.727 art. 39 from 1.1.2009
+        if u == "art-65" and p["start_law"] == "lei-11727-2008" and p["start"] == "2008-06-24":
+            p.update({"start": "2009-01-01", "pinned": True}); used.append(_W_65)
+        if u == "art-65" and p["end_law"] == "lei-11727-2008" and p["end"] == "2008-06-24":
+            p.update({"end": "2009-01-01", "pinned": True}); used.append(_W_65)
+        # art. 64: Medida Provisória 413's wording never took effect
+        if u == "art-64" and p["start_law"] == "mp-413-2008":
+            p.update({"skip": True, "pinned": True}); used.append(_W_64)
+        if u == "art-64" and p["end_law"] == "mp-413-2008" and not p.get("skip"):
+            p.update({"end": "2008-06-24", "end_law": "lei-11727-2008", "end_how": "successor", "pinned": True})
+        # art. 70 I d): Lei 14.438's wording held with no day; the Medidas Provisórias' wordings never took effect
+        if u == "art-70" and p["label"] == "d)" and p["start_law"] in (
+                "mp-1107-2022", "mp-1107-2022-fim", "mp-1110-2022", "mp-1110-2022-fim", "lei-14438-2022"):
+            p.update({"skip": True, "pinned": True}); used.append(_W_70)
+        if u == "art-70" and p["label"] == "d)" and p["start_law"] == "lc-150-2015" and not p.get("skip"):
+            p.update({"end": None, "end_law": None, "end_how": None, "pinned": True})
+        # arts. 110, 114 and 115 held with no day
+        if u in _BEM_HELD:
+            p.update({"skip": True, "pinned": True}); used.append(_W_HELD)
+    # arts. 28 to 30: Medida Provisória 690 (one copy of each wording; absent 1.12.2015 to 31.12.2015)
+    for p in paras:
+        if p["heading"] or p["unit"] not in ("art-28", "art-29", "art-30"):
+            continue
+        if p["end_law"] == "mp-690-2015" and any("Revogado pela Medida Provisória nº 690" in n for n in p["notes"]):
+            p.update({"skip": True, "pinned": True}); used.append(_W_690)
+        elif p["start_law"] == "mp-690-2015" and not p.get("skip"):
+            p.update({"start": "2005-11-22", "start_law": None, "pinned": True})
+    for p in paras:
+        if p["heading"] or p.get("skip") or p["unit"] not in ("art-28", "art-29", "art-30"):
+            continue
+        if p["start"] < _G690[0] and (p["end"] is None or p["end"] > _G690[0]):
+            if p["end"] == _G690[1]:
+                p.update({"end": _G690[0], "end_law": "mp-690-2015", "end_how": "note", "pinned": True})
+            elif tuple(_G690) not in [tuple(g) for g in p.get("gaps") or []]:
+                p.update({"gaps": [*[tuple(g) for g in p.get("gaps") or []], _G690], "pinned": True})
+            used.append(_W_690)
+    # art. 132 items that date only part of an article
+    for unit in dict.fromkeys(x[0] for x in _BEM_PART):
+        rows = [p for p in paras if p["unit"] == unit and not p["heading"] and not p.get("skip")]
+        if unit == "art-42":
+            for p in rows:
+                if p["start"] == "2005-11-22":
+                    p.update({"start": "2005-12-01", "start_law": "lei-11196-2005", "pinned": True})
+        for u, first, whole, day, item in _BEM_PART:
+            if u != unit:
+                continue
+            blk = _bem_block(rows, first, whole)
+            if blk is None:
+                if record:
+                    B8.SPAN_MISSED.append(f"{_LBEM} {unit} art. 132 {item} {first[:30]!r}")
+                continue
+            for p in blk:
+                if p["start"] in ("2005-11-22", "2005-12-01", day):
+                    p.update({"start": day, "start_law": "lei-11196-2005", "pinned": True})
+            used.append(_W_PART)
+    if record:
+        for w in (*used, _W_KEPT, _W_OTHER):
+            if w not in EXTRA:
+                EXTRA.append(w)
+
 # part zzzy, REIQ (arts. 56 to 58 of Lei 11.196). Planalto reprints the articles after each Medida Provisória that revoked them
 # and lapsed or was converted without the revocation, so the page holds two to four copies of every 2013 line; the history
 # keeps one copy of each wording (the last printed) and gives it the days read on the amending acts' own pages:
