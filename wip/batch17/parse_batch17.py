@@ -7605,7 +7605,7 @@ _RQ_TABLE = [
                                              "end_law": "mp-694-2015-fim", "end_how": "lapse", "gaps": []}),
     ("art-56", "III -", "III - 0,90%", 5, 1, _RQ_ALL694),
     ("art-56", "IV -", "IV - 1% (um por cento) e 4,6% (quatro inteiros e seis décimos por cento), para os fatos geradores "
-     "ocorridos a partir", 3, 0, {**_RQ_L13, "end": "2021-07-01", "end_law": "mp-1034-2021", "end_how": "note",
+     "ocorridos a partir", 4, 0, {**_RQ_L13, "end": "2021-07-01", "end_law": "mp-1034-2021", "end_how": "note",
                                   "gaps": [_RQ_G694, _RQ_G836]}),
     ("art-56", "IV -", "IV - 1% (um por cento) e 4,6% (quatro inteiros e seis décimos por cento), para os fatos geradores "
      "ocorridos nos anos de 2018 a 2020", 1, 0, _RQ_14183),
@@ -7676,6 +7676,18 @@ def _reiq_model(paras, record):
                 if record and not p.get("skip"):
                     RQ_SET_ASIDE.append(unit)
                 p["skip"], p["pinned"] = True, True
+    # the copies kept are not all in the article's order on the page: art. 57's caput (the last copy) goes before the
+    # article's other lines, and Medida Provisória 694's art. 56 II after the 2013 inciso II it replaced
+    rows57 = [p for p in paras if p["unit"] == "art-57" and not p["heading"]]
+    cap = [p for p in rows57 if p["label"] == "Art. 57" and not p.get("skip")]
+    if len(cap) == 1 and rows57[0] is not cap[0]:
+        paras.remove(cap[0])
+        paras.insert(paras.index(rows57[0]), cap[0])
+    ii = [p for p in paras if p["unit"] == "art-56" and p["label"] == "II -" and not p.get("skip")
+          and B8._norm(p["text"]).startswith(("II - 0,54%", "II - 1,11%"))]
+    if len(ii) == 3 and ii[1]["text"].startswith("II - 1,11%"):   # MP 613's, MP 694's, the 2013 line kept
+        paras.remove(ii[1])
+        paras.insert(paras.index(ii[2]) + 1, ii[1])
     # the parágrafo único of art. 57 as enacted, which Lei 11.488/2007 art. 36 renumbered as § 1º with the same words
     # ('renumerando-se o atual parágrafo único para § 1º'): Planalto prints only the renumbered line, and Medida Provisória
     # 613's own parágrafo único (2013) kept the renumbering rule from adding the enacted line
