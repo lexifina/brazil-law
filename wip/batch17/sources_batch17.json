@@ -6181,6 +6181,48 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-2080-58-2000",
+   "url": "http://www.planalto.gov.br/ccivil_03/MPV/Antigas/2080-58.htm",
+   "ts": "20260610152332",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-2080-59-2001",
+   "url": "http://www.planalto.gov.br/ccivil_03/mpv/antigas_2001/2080-59.htm",
+   "ts": "20260517211429",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-2080-60-2001",
+   "url": "http://www.planalto.gov.br/ccivil_03/mpv/antigas_2001/2080-60.htm",
+   "ts": "20261013082557",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-2080-61-2001",
+   "url": "http://www.planalto.gov.br/ccivil_03/mpv/antigas_2001/2080-61.htm",
+   "ts": "20260714153336",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-2080-62-2001",
+   "url": "http://www.planalto.gov.br/ccivil_03/mpv/antigas_2001/2080-62.htm",
+   "ts": "20260610161828",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-2080-63-2001",
+   "url": "http://www.planalto.gov.br/ccivil_03/mpv/antigas_2001/2080-63.htm",
+   "ts": "20250508082425",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-2080-64-2001",
+   "url": "http://www.planalto.gov.br/ccivil_03/mpv/antigas_2001/2080-64.htm",
+   "ts": "20260710172905",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-2083-2001",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/Antigas_2001/2083-32.htm",
    "ts": "20261004121015",
@@ -6295,6 +6337,18 @@
    "id": "law:mp-2166-2001",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/2166-67.htm",
    "ts": "20261018231642",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-2166-65-2001",
+   "url": "http://www.planalto.gov.br/ccivil_03/mpv/antigas_2001/2166-65.htm",
+   "ts": "20260613063838",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-2166-66-2001",
+   "url": "http://www.planalto.gov.br/ccivil_03/mpv/antigas_2001/2166-66.htm",
+   "ts": "20260715132315",
    "via": "wayback.py"
   },
   {
@@ -7272,6 +7326,18 @@
    "id": "lcp95",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm",
    "ts": "20261004183623",
+   "via": "wayback.py"
+  },
+  {
+   "id": "lcp97",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm",
+   "ts": "20261025174421",
+   "via": "wayback.py"
+  },
+  {
+   "id": "lcp97-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97compilado.htm",
+   "ts": "20260714073947",
    "via": "wayback.py"
   },
   {

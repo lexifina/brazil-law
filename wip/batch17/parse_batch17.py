@@ -305,6 +305,8 @@ PAGES.update({
     "l10931-compilado": "_ato2004-2006/2004/lei/l10.931compilado.htm",
     # fiftieth session: Lei 8.171/1991 (política agrícola; annotated page, no compiled page on Planalto)
     "l8171": "leis/l8171.htm",
+    "lcp97": "leis/lcp/lcp97.htm",
+    "lcp97-compilado": "leis/lcp/lcp97compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -1189,7 +1191,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-9615-1998": ("1998-03-25", f"Lei 9.615/1998 art. 95: {_PUB} (DOU 25.3.1998)"),
     "lei-10931-2004": ("2004-08-03", f"Lei 10.931/2004 art. 66: {_PUB} (DOU 3.8.2004)"),
     "lei-8171-1991": ("1991-01-18", "Lei 8.171/1991 art. 107: 'Esta lei entra em vigor na data de sua publicação' (DOU "
-                                    "18.1.1991)"),
+                                    "18.1.1991, rectified 12.3.1991)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -9832,6 +9834,73 @@ if any(a["slug"] == _L10931 for a in ACTS):
         "601/2012 on the restored wordings, decrees) strike no words and are not modelled; Lei 12.844/2013's effects reaching "
         "back to 4.6.2013 keep its publication day (19.7.2013); the quoted wordings art. 57 gave Lei 9.514/1997 follow Planalto's "
         "notes")
+
+# part zzzzf (fiftieth session): Lei 8.171/1991 (política agrícola). In force on publication (art. 107, DOU 18.1.1991).
+# Planalto has no compiled page for it: the annotated page is its own consolidated check (as zzzg).
+_L8171 = "lei-da-politica-agricola"
+if any(a["slug"] == _L8171 for a in ACTS):
+    L8171_USED: dict[str, list[str]] = {}
+    P.VIGENCIA_FIXED["lei-9972-2000"] = (
+        "2000-08-24", "art. 12: 'Esta Lei entra em vigor no prazo de noventa dias a partir da data de sua publicação' (DOU "
+                      "26.5.2000): 90 days after 26.5.2000, 24.8.2000")
+    B7.CONVERTED_FIX["mp-432-2008"] = ("lei-11775-2008", "the MP page reads 'Convertida na L ei nº 11.775, de 2008' (a space "
+                                                         "inside 'Lei')")
+    P.MP_LAPSE["mp-1956-2000"] = (
+        "2000-05-28", "Medida Provisória nº 1.956-49, de 27.4.2000 (DOU 28.4.2000; art. 6: in force on publication), art. 7: "
+                      "'Revoga-se o art. 99 da Lei nº 8.171, de 17 de janeiro de 1991'; it was reissued as Medida Provisória nº "
+                      "1.956-50, de 26.5.2000 (DOU 28.5.2000, edição extra; art. 5: in force on publication), which does not "
+                      "repeat that revocation, nor does any later edition of the chain (1.956-51 to 1.956-57, 2.080-58 to "
+                      "2.080-64, 2.166-65 to 2.166-67, read page by page); art. 99 is in force again from 28.5.2000, as "
+                      "Planalto prints it again unstruck")
+    _G1956 = [("2000-04-28", "2000-05-28", "mp-1956-2000", "mp-1956-2000-fim")]
+    _W1956 = ("Lei 8.171 art. 99: Medida Provisória 1.956-49/2000 art. 7 revoked it (DOU 28.4.2000); the next edition, 1.956-50 "
+              "(DOU 28.5.2000), and every later one drop that revocation, so the article (caput, § 1º (Vetado) and § 2º) is "
+              "out from 28.4.2000 to 27.5.2000 and in force again from 28.5.2000. Planalto prints the 1991 article twice: "
+              "first struck (the § 1º unstruck) with the MP's notes, then again unstruck; the second copy is the history's "
+              "line, the first a copy left out")
+    _DUP1956 = {"skip": True, "end_how": "duplicate"}
+    _K1956 = {"start": "1991-01-18", "start_law": None, "end": None, "end_law": None, "end_how": None, "gaps": _G1956,
+              "notes": []}
+    B8.SPAN_FIX += [
+        ((_L8171, "art-099", "Art. 99", "Art. 99. A partir do ano seguinte ao de promulgação desta lei", 0), dict(_DUP1956),
+         _W1956),
+        ((_L8171, "art-099", "§ 1º", "§ 1º (Vetado).", 0), dict(_DUP1956), _W1956),
+        ((_L8171, "art-099", "§ 2º", "§ 2º O reflorestamento de que trata o caput", 0), dict(_DUP1956), _W1956),
+        ((_L8171, "art-099", "Art. 99", "Art. 99. A partir do ano seguinte ao de promulgação desta lei", 1), dict(_K1956),
+         _W1956),
+        ((_L8171, "art-099", "§ 1º", "§ 1º (Vetado).", 1), dict(_K1956), _W1956),
+        ((_L8171, "art-099", "§ 2º", "§ 2º O reflorestamento de que trata o caput", 1), dict(_K1956), _W1956),
+    ]
+    # art. 104 caput ends '[...] prevista na Lei n° 4.771, de 1965, com a nova redação dada pela Lei n° 7.803, de 1989.': words
+    # of the article (which wording of the Código Florestal it refers to), not an amendment note; the reader takes the end of
+    # the line for a bare note
+    _RX8171_BARE = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Lei n[º°]\s*7\.803, de 1989\s*\.)\s*\)?", re.I)
+    _paragraphs8171 = P.paragraphs
+
+    def _paragraphs_8171(html, digits):
+        out, rest = _paragraphs8171(html, digits)
+        if B8.CURRENT_PAGE[0] == "l8171":
+            for q in out:
+                if q["unit"] != "art-104" or not q["text"].rstrip().endswith("com a nova"):
+                    continue
+                hit = [(n, m) for n in q["notes"] for m in [_RX8171_BARE.fullmatch(n.strip())] if m]
+                if hit:
+                    n, m = hit[0]
+                    q["text"] = q["text"].rstrip() + " " + m.group(1)
+                    q["notes"] = [x for x in q["notes"] if x != n]
+                    L8171_USED.setdefault("bare", []).append(q["unit"])
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_8171
+    B.EXPLAINED[_L8171] = {
+        "art-099": "the page prints the 1991 art. 99 twice: first struck with Medida Provisória 1.956-49's notes, its '§ 1º "
+                   "(Vetado).' left unstruck, then again unstruck; the history has one copy, in force again from 28.5.2000 "
+                   "(the consolidated reading of the same page counts the unstruck § 1º twice)",
+    }
+    B13.OPEN_ITEMS[_L8171] = (
+        "Lei 8.171 (open items): 'Vide' pointers (Decreto 175/1991, Decreto 4.623/2003, Medida Provisória 372/2007) and "
+        "'(Regulamento)' links strike no words and are not modelled; the rectification of 12.3.1991 is not printed on the page "
+        "and is not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
