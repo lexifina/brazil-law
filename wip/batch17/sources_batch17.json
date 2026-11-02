@@ -1769,9 +1769,21 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:dec-20330-1931",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/D20330.htm",
+   "ts": "20260801070244",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:dec-2044-1908",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto/1900-1909/D2044.htm",
    "ts": "20080914202730",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:dec-3725-1919",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/Historicos/DPL/DPL3725-1919.htm",
+   "ts": "20261018192140",
    "via": "wayback.py"
   },
   {
@@ -2056,18 +2068,6 @@
    "via": "wayback.py"
   },
   {
-   "id": "law:dec-3725-1919",
-   "url": "https://www.planalto.gov.br/ccivil_03/decreto/Historicos/DPL/DPL3725-1919.htm",
-   "ts": "20261018192140",
-   "via": "wayback.py"
-  },
-  {
-   "id": "law:dec-20330-1931",
-   "url": "https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/D20330.htm",
-   "ts": "20260801070244",
-   "via": "wayback.py"
-  },
-  {
    "id": "law:dl-3725-1970",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto/Historicos/DPL/DPL3725-1919.htm",
    "ts": "20261018192140",
@@ -2182,6 +2182,12 @@
    "id": "law:dl-991-1969",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del0991.htm",
    "ts": "20260714131501",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lc-107-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp107.htm",
+   "ts": "20261016111803",
    "via": "wayback.py"
   },
   {
@@ -6906,6 +6912,12 @@
    "id": "lcp80",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm",
    "ts": "20261016052850",
+   "via": "wayback.py"
+  },
+  {
+   "id": "lcp95",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm",
+   "ts": "20261004183623",
    "via": "wayback.py"
   },
   {

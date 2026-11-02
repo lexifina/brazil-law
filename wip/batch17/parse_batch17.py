@@ -295,6 +295,11 @@ PAGES.update({
     "l5869compilada-2015": "leis/l5869compilada.htm",   # capture of 29.10.2015; later captures are stubs
     "l3071": "leis/l3071.htm",   # CC 1916 as Planalto prints it after the repeal (a CSS strike over every line)
     "l3071-2002": "leis/l3071.htm",   # capture of 2.6.2002, before the repeal (no strikes: a colour legend)
+    # forty-seventh session: a fresh ranked list
+    "lcp95": "leis/lcp/lcp95.htm",
+    # forty-eighth session: Lei Pelé (annotated page; the compiled page is the consolidated check)
+    "l9615": "leis/l9615consol.htm",
+    "l9615-compilado": "leis/l9615compilada.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -677,6 +682,9 @@ ALL_ACTS: list[dict] = [
     # forty-second session: historic codes
     _act("codigo-comercial", "CCom", "lim556", "lim556-compilado", "lei-556-1850",
          "Código Comercial (Lei nº 556, de 25 de junho de 1850)", 3),
+    # forty-seventh session: a fresh ranked list
+    _act("lei-da-elaboracao-das-leis", "LCElab", "lcp95", "lcp95", "lc-95-1998",
+         "Elaboração, redação, alteração e consolidação das leis (Lei Complementar nº 95, de 26 de fevereiro de 1998)", 2),
     # read from the capture of 27.10.2015 (before the repeal); its consolidated check is the compiled page of 29.10.2015
     _act("codigo-de-processo-civil-de-1973", "CPC73", "l5869-2015", "l5869compilada-2015", "lei-5869-1973",
          "Código de Processo Civil de 1973 (Lei nº 5.869, de 11 de janeiro de 1973)", 4),
@@ -816,7 +824,9 @@ PARTS: dict[str, list[str]] = {
     "zzzz": ["codigo-comercial"],
     "zzzza": ["codigo-de-processo-civil-de-1973"],   # in progress, not published
     # forty-fourth session (zzzza above is PUBLISHED since the forty-third session)
-    "zzzzb": ["codigo-civil-de-1916"],   # in progress, not published
+    "zzzzb": ["codigo-civil-de-1916"],   # PUBLISHED since the forty-sixth session
+    # forty-seventh session
+    "zzzzc": ["lei-da-elaboracao-das-leis"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1153,6 +1163,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                     "(DOU 17.1.1973)"),
     "lei-3071-1916": ("1917-01-01", "Lei 3.071/1916 (Código Civil) art. 1.806: 'O Código Civil entrará em vigor no dia 1º de "
                                     "janeiro de 1917' (DOU 5.1.1916)"),
+    "lc-95-1998": ("1998-05-28", "Lei Complementar 95/1998 art. 19: 'Esta Lei Complementar entra em vigor no prazo de noventa "
+                                 "dias, a partir da data de sua publicação' (DOU 27.2.1998)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1759,6 +1771,9 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         PAGES["l5869-2015"]),
     "lei-3071-1916": _L("Lei nº 3.071, de 1916", "Código Civil dos Estados Unidos do Brasil.", "1916-01-01", "1916-01-05",
                         PAGES["l3071"]),
+    "lc-95-1998": _L("Lei Complementar nº 95, de 1998", "Dispõe sobre a elaboração, a redação, a alteração e a consolidação das "
+                     "leis, conforme determina o parágrafo único do art. 59 da Constituição Federal, e estabelece normas para a "
+                     "consolidação dos atos normativos que menciona.", "1998-02-26", "1998-02-27", PAGES["lcp95"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -9353,6 +9368,37 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         return _innerCC16(*a)
 
     B6.PB5B._write_part5 = _inner_cc16
+
+# ---------------------------------------------------------------------------------------------------------------
+# part zzzzc (forty-seventh session): Lei Complementar 95/1998 (elaboração, redação, alteração e consolidação das leis).
+# In force 28.5.1998 (art. 19, ninety days from DOU 27.2.1998); amended only by Lei Complementar 107/2001 (DOU 27.4.2001, in
+# force on publication, art. 3), whose art. 2 adds 'Art. 18A. (VETADO)'.
+_LCELAB = "lei-da-elaboracao-das-leis"
+LCELAB_FIXED: list[str] = []
+if any(a["slug"] == _LCELAB for a in ACTS):
+    _paragraphsLCELAB = P.paragraphs
+    _RX18A = re.compile(r"Art\.\s*18\s*-\s*A\b")
+
+    def _paragraphs_lcelab(html, digits):
+        """Lei Complementar 95: Planalto prints the article Lei Complementar 107/2001 adds as 'Art. 18 - A (VETADO)'; the
+        reader took it for a line of art. 18. It is art. 18-A, its words as printed"""
+        out, rest = _paragraphsLCELAB(html, digits)
+        if B8.CURRENT_PAGE[0] == "lcp95":
+            for q in out:
+                if not q["heading"] and _RX18A.match(q["text"]):
+                    q["unit"], q["label"] = "art-18-a", "Art. 18-A"
+                    if "art-18-a" not in LCELAB_FIXED:
+                        LCELAB_FIXED.append("art-18-a")
+            if LCELAB_FIXED and not any(x.startswith("Lei Complementar 95 art. 18-A:") for x in EXTRA):
+                EXTRA.append("Lei Complementar 95 art. 18-A: Planalto prints the article Lei Complementar 107/2001 art. 2 adds "
+                             "('Art. 18A. (VETADO)') as 'Art. 18 - A (VETADO)'; it is read as art. 18-A, its words as printed")
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_lcelab
+    B15.TEXT_FIX.append(("lcp95", "de sua publicação oficial.$", "de sua publicação oficial'.",
+                         "Lei Complementar 95 art. 8 § 2º (Lei Complementar 107/2001): Planalto's page opens the quoted clause "
+                         "('esta lei entra em vigor após decorridos (o número de) dias de sua publicação oficial') and does not "
+                         "close it; Lei Complementar 107's own text closes it after 'oficial'"))
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

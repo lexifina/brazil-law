@@ -3236,3 +3236,78 @@ FOR THE COORDINATOR: (1) art. 1.605 § 1º now ends with Lei 6.515/1977 from the
 to the repeal); (2) art. 1.786 par. único -> art. 1.787 (decree text gives the new wording, page does not print it) is left
 as printed + decision; could be replayed from the decree's text if wanted; (3) shared batch10/.tmp/firstline.py crashes on
 'art-in-' unit keys (Introdução); pipe.sh shows the traceback. NEXT: none open for zzzzb; OPEN / DATED RE-CHECKS unchanged.
+
+## Forty-seventh session (2026-11-02): zzzzb re-PUBLISHED (art. 1.787 from Decreto 3.725's text); firstline.py widened; LC 95/1998 PUBLISHED (part zzzzc)
+Claim taken at the start ('gitlaw-BR-47 alan-dell 2026-11-02T07:05Z'), released at the end. Scratch: .gitlaw-scratch/brazil-b44
+(before47/ = session-start copies (parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json, dupsame_allow.json,
+effects_fix.py, README.md, jurisdiction.json, PUBLISH, firstline.py, pipe.sh, both PROGRESS.md, corpus.d/99-batch17zzzzb.json);
+logs47/; pids47.txt; new tools: setup47.py, rr47.py, bdiff47.py, finish47.py, flcmp47.py (old vs new firstline.py on every
+part), allacts47.py (installed acts by number), pg47.py (regex over a cached page's text)).
+Requests: robots.txt of archive.org (200: Disallow /control/ /report/) and web.archive.org (404) (b44/robots47/); archive.org
+through the shared client (iaonly.py): 1 page pin (lcp95) + 1 law pin (law:lc-107-2001). No LexML, no Common Crawl, no
+Arquivo.pt, no live Planalto, no challenge page.
+Coordinator decisions applied: art. 1.605 § 1º ends 27.12.1977 and art. 332 ends with Lei 8.560/1992 (both already so; no change).
+### 1. zzzzb: art. 1.786 parágrafo único / new art. 1.787 (re-PUBLISHED)
+- parse_batch17.py zzzzb block: _CC16_MOVED {('art-1786', (1,'1'))} -> the parágrafo único ends 22.1.1919 'dec-moved', credited
+  to dec-3725-1919; _cc16_dec_1787() reads the decree's words from its cached page ('...com esta redacção: «No caso do artigo
+  antecedente, se ao tempo do fallecimento do doador, os donatarios já não possuirem os bens doados, trarão á collação o seu
+  valor»'); _cc16_model inserts 'Art. 1.787. <words>.' (full stop after the quotation, as the decree's sentence) after the
+  1916 art. 1.787 line, from 22.1.1919, credited to the decree, to the repeal (idempotent over the two passes, 'cc16_v1787').
+  Decision _W_CC16_1787 (new); _W_CC16_SUPPR's sentence 'the history has no art. 1.787 from 22.1.1919' replaced by a pointer;
+  _CC16_EXPL_GROUPS 'decadd' no longer lists 1786/1787 (they now match the 2002 page).
+- Unit-level day diff (unitdays.py, installed 1ee67c17 vs new): ONLY art-1786 (T and C on 1919-01-22, T after) and art-1787
+  (T from 1919-01-22) change; same 29 version days. cmp2002 on the new part: ok 1693 (was 1691), explained 44 (was 46), 0 differ.
+- pipe.sh zzzzb (logs47/pipe1.out): parse ae93e796 x2, 0 problems; output identical to session 46's pipe2 except the sha, the
+  firstline traceback (gone, 0 flags) and the built-in repeal-check count (1199 for 1200; that line is replaced by the decision);
+  dupline 3 / ordercheck 1 / quotecheck 2 / latecaput as before; uniqlaws 0, dupsame 0; merged 297 acts, 4075 versions, 2851
+  commits, 0/0, identical, audit clean main + futuro. reinstall.py -> corpus.d/99-batch17zzzzb.json eff29b94; .PUBLISH = the
+  forty-sixth line + a forty-seventh line (b44/publish-zzzzb47.txt). README row + one sentence on art. 1.787 (counts unchanged;
+  jurisdiction.json unchanged: same versions). Final merged build of the installed folder (logs47/fb1.log): 297/4075/2851, 0/0,
+  identical, audit clean.
+### 2. batch10/.tmp/firstline.py (shared checker) widened
+- Unit-key pattern now `(?:adct-)?art-(?:tu-|in-)?0*(\d+)(?:-([a-z]+))?$` (as b44/tools/firstline46.py), comment updated.
+  flcmp47.py (logs47/fl1.log): old (before47 copy) vs new on corpus.json + every corpus.d part (144 files): 143 identical
+  output, rc 0 both; the only difference is 99-batch17zzzzb.json (old: AttributeError on art-in- keys; new: rc 0, no flags).
+### 3. Ranked list: the thirtieth session's list is finished (items 1-19 installed: zzzi .. zzzzb). Fresh ranked list (installed
+acts checked by allacts47.py, no request):
+ 1 Lei Complementar 95/1998 elaboração das leis [zzzzc, DONE]   2 Lei 9.615/1998 Lei Pelé (heavy; much replaced by Lei 14.597/2023)
+ 3 Lei 10.931/2004 patrimônio de afetação / CCB   4 Lei 8.171/1991 política agrícola   5 Lei Complementar 97/1999 Forças Armadas
+ 6 Lei Complementar 73/1993 AGU   7 Lei 5.250/1967 Lei de Imprensa (ADPF 130)   8 Lei 7.170/1983 LSN (revoked by Lei 14.197/2021)
+ 9 Lei 6.194/1974 DPVAT   10 heavy tax: Lei 10.865/2004, Lei 9.532/1997, Lei 12.546/2011.
+### 99-batch17zzzzc - PUBLISHED: Lei Complementar 95/1998 (lei-da-elaboracao-das-leis, LCElab, 2 versions 1998-05-28, 2001-04-27)
+- PAGES lcp95 (leis/lcp/lcp95.htm, pinned by `iaonly.py pages lcp95`); `laws lcp95` 1 new (law:lc-107-2001); act-scoped
+  `missing` 0. Page: 22 notes (Redação 12, Incluído 5, Incluída 1 = LC 107/2001; Vide 4 = Decretos 2.954/1999, 4.176/2002,
+  9.191/2017, 12.002/2024, regulations, not amendments). No compilado pinned (the page links one; the check page = the annotated
+  page, as zzzg).
+- Config: act (2 digits), PARTS zzzzc, ACT_DAY_ALL lc-95-1998 28.5.1998 (art. 19: ninety days from DOU 27.2.1998, counted as Lei
+  13.966's), ACT_LAWS_ALL lc-95-1998 (ementa from the page; enacted 26.2.1998, DOU 27.2.1998). LC 107/2001: DOU 27.4.2001, art. 3
+  in force on publication (read on its page; the reader dates it so).
+- Block '# part zzzzc': paragraphs wrapper on lcp95 ('Art. 18 - A (VETADO)' -> unit art-18-a, label 'Art. 18-A', text as
+  printed; EXTRA decision); B15.TEXT_FIX art. 8 § 2º closing quote after 'oficial' from LC 107's own text (decision via
+  TEXT_FIX_USED).
+- pipe.sh zzzzc (logs47/pipe-c1.out): ec95f93a x2, 0 problems, 0 moves; dupline/dupcheck/leakcheck/firstline/pubgap/ordercheck/
+  missorig 0; quotecheck 5 = quoted words printed in the law; latecaput 3 = 1998 art. 14 I-III (end with LC 107's rewrite of
+  the whole article that day); uniqlaws 0, dupsame 0; merged 298 acts, 4077 versions, 2853 commits, check 0/0, --compare
+  identical, audit_push clean main + futuro. install.py -> corpus.d/99-batch17zzzzc.json ec95f93a + .PUBLISH
+  (b44/publish-zzzzc.txt); docs.py b44/rows-zzzzc.json (README row; jurisdiction.json 298 acts 4077 versions, entry
+  'LC 95/1998 1998-2001 (2)'). Final merged build of the installed folder (logs47/fb2.log): 298 acts, 4077 versions, 2853 commits, check 0/0, 0 trailer errors, --compare identical, audit_push clean main + futuro (fb2 PID 33692).
+- PIDs (all mine; foreground through run.py via rr47.py, listed in b44/pids47.txt: dec1 43452 ... bd6 36416, then fb2, the
+  handoff write and fin1; all exited): setup47 27156, ls1 34168 (rc 1, a /c/ path in Python), ls2 35040 through run.py
+  directly; pipe.sh runs zzzzb and zzzzc foreground (their run.py PIDs in logs47/pipe1.out, pipe-c1.out); three rr47 runs
+  (hd2, pg3, in1+dk1) and fb2 passed the tool's 2-minute limit while run.py waited on the cpu gate and finished as background
+  tasks of mine (each waited on by its own notification, no poller). Outside the wrappers (small local reads/writes, no
+  network): at the start one bash head/ls/wc/grep of brazil-law and batch17/PROGRESS.md, before the rules were re-read; one
+  `cat` of logs47/ls1.log and ls2.log, pipe.sh, pipe1.out, pipe-c1.out and robots47 files; one `head -3` of three b44 tools;
+  one `mkdir -p` of b44/robots47; tool-written files (Write/Edit): parse_batch17.py, batch10/.tmp/firstline.py,
+  repo/README.md (the zzzzb sentence), b44 tools/rows/publish files, this text, PROGRESS.md. Nothing running.
+
+## State at handoff (batch 17, forty-seventh session, 2026-11-02)
+PUBLISHED: zzzzb re-PUBLISH (eff29b94; new art. 1.787 from Decreto 3.725's text) and zzzzc (LC 95/1998, ec95f93a, 2 versions).
+Installed: 298 acts, 4077 versions, 2853 commits, check 0/0, compare identical, audit clean main + futuro; uniqlaws 0, dupsame
+0; README rows + jurisdiction.json current. Files changed: parse_batch17.py (+97 -7 vs b44/before47: PAGES lcp95, act, PARTS
+(+ the stale zzzzb comment), ACT_DAY/ACT_LAWS lc-95-1998, zzzzb block (1.787), '# part zzzzc'), batch10/.tmp/firstline.py (art-in-
+keys), sources_batch17.json (+2 pins: lcp95, law:lc-107-2001), corpus.d/99-batch17zzzzb.json + .PUBLISH, corpus.d/99-batch17zzzzc
+.json + .PUBLISH (new), repo/README.md (+1 row, +1 sentence), repo/jurisdiction.json, PROGRESS.md, this file. effects_fix.py,
+law_records.json, bad_pins.json, dupsame_allow.json unchanged. Claim released.
+NEXT: the fresh ranked list above from item 2 (Lei 9.615/1998, Lei Pelé: survey first; heavy, MPs and Lei 14.597/2023's
+revocations). OPEN / DATED RE-CHECKS unchanged.
