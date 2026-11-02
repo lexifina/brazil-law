@@ -8184,11 +8184,6 @@ if any(a["slug"] == _LCCOM for a in ACTS):
         P.NOTE_FIX[_n] = ("(Revogado pelo Decreto nº 2.044, de 1908)",
                           f"Código Comercial Título XVI: the note reads '{_n[1:-1]}' (a decree of the Poder Legislativo, "
                           "Decreto nº 2.044 of 31.12.1908, art. 57)")
-    # the record of the Código Civil's own part (corpus.d/50-codes.json); the reader would take the page's index line
-    B8.EXTRA_LAWS["lei-10406-2002"] = {
-        "label": "Lei nº 10.406, de 2002", "title": "Institui o Código Civil.", "kind": "law", "enacted": "2002-01-10",
-        "published": "2002-01-11", "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406.htm",
-        "temporary_until": None, "restores": None, "note": None}
     EXTRA += [_W_CCOM_VIDE]
 _paragraphsCCOM = P.paragraphs
 
