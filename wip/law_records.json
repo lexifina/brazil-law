@@ -901,6 +901,17 @@
   "restores": null,
   "note": null
  },
+ "lei-9610-1998": {
+  "label": "Lei nº 9.610, de 1998",
+  "title": "Altera, atualiza e consolida a legislação sobre direitos autorais e dá outras providências.",
+  "kind": "law",
+  "enacted": "1998-02-19",
+  "published": "1998-02-20",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+  "temporary_until": null,
+  "restores": null,
+  "note": null
+ },
  "lei-9868-1999": {
   "label": "Lei nº 9.868, de 1999",
   "title": "Dispõe sobre o processo e julgamento da ação direta de inconstitucionalidade e da ação declaratória de constitucionalidade perante o Supremo Tribunal Federal.",

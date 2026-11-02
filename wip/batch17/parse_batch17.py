@@ -8852,6 +8852,13 @@ if any(a["slug"] == _LCC16 for a in ACTS):
                 a333[0]["notes"].remove(n8560)
                 a332[0]["notes"].append(n8560)
                 CC16_USED.setdefault("note332", []).append(1)
+            # art. 194's closing formula ('De acordo com a vontade que ambos acabais de afirmar perante mim ...'), which
+            # the caput introduces ('declarará efetuado o casamento, nestes termos:'), is read by the parser as the
+            # marginal heading of art. 195; it is a line of art. 194 (_W_CC16_194)
+            for p in out:
+                if p["unit"] == "art-0195" and P.norm(p["text"]).startswith("De acordo com a vontade que ambos"):
+                    p["unit"], p["label"] = "art-0194", ""
+                    CC16_USED.setdefault("f194", []).append(1)
             # art. 1.605 § 1º: struck with no note; the 2002 capture prints '§ 1º Revogado pela Lei n° 6.515, de
             # 26.12.1977' over its 'Texto original' (_W_CC16_1605)
             n6515 = "(Revogado pela Lei nº 6.515, de 1977)"
@@ -9278,6 +9285,8 @@ if any(a["slug"] == _LCC16 for a in ACTS):
             B5.EXTRA_DECISIONS.append(_W_CC16_332 + ".")
         if CC16_USED.get("note1605"):
             B5.EXTRA_DECISIONS.append(_W_CC16_1605 + ".")
+        if CC16_USED.get("f194"):
+            B5.EXTRA_DECISIONS.append(_W_CC16_194 + ".")
         if rows:
             B5.EXTRA_DECISIONS.append(_W_CC16_ROWS.format(n=len(rows)) + ".")
         if CC16_USED.get("dec-added"):
