@@ -8733,7 +8733,10 @@ if any(a["slug"] == _LCC16 for a in ACTS):
             body = t[a:b] if a >= 0 and b > a else ""
             cut = body.find("do proprio Codigo")
             cut = body.rfind("Ao art", 0, cut) if cut > 0 else cut   # 'Ao art. 6º, paragrapho unico, do proprio Codigo'
-            for m in re.finditer(r"(?:^|[.»:;)\]]\s+|–\s+)(?:Ao\s+)?[Aa]rts?\.\s*([\d.]+)\s*º?(?=[\s,:–-])", body):
+            # an item may also follow a comma ('« Das obrigações de dar », Art. 883:', ', Ao art. 1.728') and be
+            # printed 'Ao art: 346' or 'Art. 248;'
+            for m in re.finditer(r"(?:^|[.»:;)\]]\s+|–\s+|,\s+(?=(?:Ao\s+art|Art)))(?:Ao\s+)?[Aa]rts?[.:]\s*([\d.]+)\s*º?"
+                                 r"(?=[\s,:;–-])", body):
                 n = int(m.group(1).replace(".", "").strip() or 0)
                 if not n:
                     continue
@@ -8772,6 +8775,12 @@ if any(a["slug"] == _LCC16 for a in ACTS):
                         and re.match(r"(?:Fa[çc]a-se|Diga-se|Elimine-se|Suppr?ima-se|Redija-se|Accrescente-se|Acrescente-se)\b",
                                      P.norm(p["text"]))):
                     CC16_USED.setdefault("annot", []).append(f"{p['unit']} {P.norm(p['text'])[:50]!r}")
+                    continue
+                # art. 178 § 10, n. X: the page prints only the marker 'X. (Eliminado pelo Decretoi nº 3.725, de 1919)'
+                # (keyed under art. 179), not the 1916 wording the decree eliminated (art. 3: 'Art. 178, § 10, n. X –
+                # Elimine-se'): no line of the Code (decision _W_CC16_ELIM)
+                if re.fullmatch(r"X\.\s*\(Eliminado pelo Decretoi? nº 3\.725, de 1919\)", P.norm(p["text"])):
+                    CC16_USED.setdefault("elim", []).append(f"{p['unit']} {P.norm(p['text'])!r}")
                     continue
                 keep.append(p)
             out[:] = keep
@@ -8891,6 +8900,12 @@ if any(a["slug"] == _LCC16 for a in ACTS):
                 tag = f"{unit} [{q['label'] or ''}] {P.norm(q['text'])[:70]!r}"
                 if pair and unit in dec:
                     q.update({"start": _CC16_DAY3725, "start_law": "dec-3725-1919", "cc16_dec": True})
+                    if p["state"] == "plain":
+                        # art. 220: the 1916 wording printed unstruck above the decree's ('Redija-se assim'): it ends
+                        # when the decree's wording starts, like a struck one
+                        p["cc16_plainend"] = True
+                        if record:
+                            CC16_USED.setdefault("plain-pair", []).append(f"{unit} {P.norm(p['text'])[:70]!r}")
                     if record:
                         CC16_USED.setdefault("dec-pair", []).append(tag)
                 elif record:
