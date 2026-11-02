@@ -9114,6 +9114,13 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "Código Civil de 1916 art. 1.605 § 1º: the page strikes it with no note; Planalto's page as captured on 2.6.2002 "
         "prints '§ 1º Revogado pela Lei n° 6.515, de 26.12.1977' over its 'Texto original', so it ends with Lei nº "
         "6.515/1977, credited to it")
+    B13.OPEN_ITEMS[_LCC16] = (
+        "Código Civil de 1916 (open items): the Introdução (arts. 1 to 21, before the Parte Geral, filed as 'Introdução, "
+        "Art. N') is printed struck like the rest of the Code, with no note of a revocation. Decreto-Lei nº 4.657/1942, "
+        "the Lei de Introdução ao Código Civil Brasileiro (in force 24.10.1942), rules the same matters but has no "
+        "revoking clause, and Planalto's page as captured on 2.6.2002 does not print the Introdução; no official text read "
+        "for this record dates its end, so it stands as printed until the Code's repeal on 11.1.2003. Its art. 5 and art. "
+        "20 parágrafo único, which Decreto nº 3.725/1919 corrects, are printed in one wording only and stand as printed")
     _innerCC16 = B6.PB5B._write_part5
 
     def _inner_cc16(*a) -> int:
