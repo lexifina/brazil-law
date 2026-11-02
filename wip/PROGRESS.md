@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-02 (batch 17, thirty-seventh session: zzzx Decreto-Lei 1.598/1977 (22 versions; dated by its art. 67 effects clause 1.1.1978; DL 2.064 credited for its week; Planalto's misplaced art. 60 IV and art. 61 §§ 2º-3º set by hand; MP 1.185 never took effect) PUBLISHed; merged 293 acts, 3913 versions, 2736 commits, check 0/0, compare identical, audit clean; NEXT Lei 11.196/2005 (pages pinned, survey in batch17/PROGRESS.md), then historic codes)
+CHECKPOINTED 2026-11-02 (batch 17, thirty-eighth session: zzzy Lei 11.196/2005 (Lei do Bem) CONFIGURED, NOT PUBLISHED: act, art. 132 gates, vigência/lapse items, pins (laws 21 + 2 Atos), trial 0 problems 59 versions; hand model of the REIQ (arts. 56-57-D), LC 214 futuro, MP 1.318, effects MOVES still to do (9-item list in batch17/PROGRESS.md); installed state unchanged: 293 acts, 3913 versions, 2736 commits, check 0/0, compare identical, audit clean; NEXT Lei 11.196 items 1-9, then historic codes)
 
 # gitlaw-BR progress (Brazil)
 

@@ -2468,3 +2468,94 @@ the cpu gate, one at a time; all PIDs mine and exited; nothing running.
 NEXT: Lei 11.196/2005 (part zzzy; survey above), then the historic codes (Código Comercial Lei 556/1850, CPC 1973 Lei
 5.869/1973, Código Civil 1916 Lei 3.071/1916; check each against installed parts first).
 OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff.
+
+## Thirty-eighth session (2026-11-02): Lei 11.196/2005 (Lei do Bem), part 99-batch17zzzy - CONFIGURED, NOT PUBLISHED
+Claim: scripts/world-law/claims/brazil-law.txt taken at the start (released at the end). Scratch: .gitlaw-scratch/brazil-b38
+(before/ = parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json, dupsame_allow.json, effects_fix.py, README,
+jurisdiction.json before the session; logs/; tools/ = b37's + multi.py (page passages for many 'key|regex|chars' lines in one
+process, spec1.txt/spec2.txt are the ones read), hrefsm.py (fate links: Vigência/Convertida/Ato on pages), hrefrx.py (<page>
+<rx>: hrefs of matching anchors), robots.py). robots.txt read at start: archive.org (Disallow /control/ /report/),
+web.archive.org 404 (b38/robots). No LexML, no Common Crawl, no Arquivo.pt request; no challenge page.
+### Done (configuration; diff of parse_batch17.py against b38/before/ is additions only; copy b38/parse_batch17.after.py)
+- ALL_ACTS: `lei-do-bem` (LBem, pages l11196 / l11196-compilado, law lei-11196-2005); PARTS zzzy; ACT_DAY 22.11.2005 (art. 132
+  quoted; VIII 'demais dispositivos' on publication); ACT_LAWS lei-11196-2005; law_records.json + lei-11196-2005 (the record the
+  12 parts already share, title 'I nstitui ...' as they print it).
+- Gates (art. 132): _GBEM in _GATES: III d) arts. 37, 45, 66, 106-108 -> 1.12.2005; IV b) arts. 17-27, 31, 32, 34, 70-90 ->
+  1.1.2006; V c) arts. 47, 48, 51, 56-62, 64, 65 -> 1.3.2006 (1st day of the 4th month after Nov. 2005); decision line from
+  _write_bem (wraps B6.PB5B._write_part5, lists GBEM_USED).
+- Block '# part zzzy' (scoped to the act): VIGENCIA_FIXED lei-13161-2015 31.8.2015 (art. 8 I revokes arts. 52-54 'a partir de
+  1º de maio de 2015': retroactive -> publication, said in the text), mp-1034-2021 1.7.2021 (art. 5 II), mp-1300-2025 21.5.2025
+  (art. 9 I b revokes art. 121; MP converted into Lei 15.235/2025, whose art. 5 also revokes it), mp-472-2009 16.12.2009 (in
+  force; effect 1.1.2010 under art. 60 I b: effects_fix MOVE still TO DO), mp-836-2018 1.9.2018 (art. 2); NOTE_FIX 'Lei nº
+  13.241, de 1941' -> 2015 (link L13241.htm#art12); CONVERTED_FIX mp-690-2015 -> lei-13241-2015 ('13;241'); MP_LAPSE
+  mp-836-2018 11.10.2018 (Ato CN 61/2018: ended 10.10.2018), mp-1318-2025 26.2.2026 (Ato CN 11/2026, DOU 27.2.2026: ended
+  25.2.2026), mp-1227-2024 4.6.2024 (Ato CN 36/2024: art. 6 III, revocation of art. 57-A §§ 1º-2º, never took effect; 12.865
+  precedent).
+- Pins (archive.org, shared client): `BATCH17_ACTS=lei-do-bem iaonly.py laws` (67 linked, 21 new), `missing` (BATCH17_PART=zzzy
+  BATCH17_ACTS=lei-do-bem) 0; gap: ato:adc-61-2018-mpv836, ato:adc-11-2026-mpv1318. Bad pin law:lei-13241-1941 (misprinted
+  note year; same page as law:lei-13241-2015) removed from sources_batch17.json and added to bad_pins.json.
+- Trial t3 (b38/zzzy-t3.json, logs/zzzy-t3.log): 0 problems, 59 versions 2005-11-22 .. 2026-09-15, 11 units differ from the
+  consolidated page; spans b38/zzzy-spans2.json (view: python b37/tools/sp.py <json> <units>). NO part file in corpus.d.
+### Facts read this session (for the hand model)
+- MP 1.318/2025 (DOU 18.9.2025): REDATA (ementa, Capítulo I name, arts. 1, 2, 11-A..11-J); its art. 5: effects 1.1.2026 for
+  its changes to art. 11-C, the rest on publication; lapsed 25.2.2026 (Ato 11/2026). Lei 15.504/2026 (DOU 15.9.2026 extra, in
+  force on publication) re-enacts the Redata with its own wording (not a conversion).
+- MP 836/2018 (DOU 30.5.2018 extra) art. 1 II revokes arts. 56 to 57-B; in force 1.9.2018; lapsed 10.10.2018 -> REIQ gap
+  1.9-11.10.2018 (the trial does NOT show it yet).
+- MP 1.034/2021 (DOU 1.3.2021 extra) art. 4 II revokes arts. 56 to 57-B from 1.7.2021; converted into Lei 14.183/2021 (DOU
+  15.7.2021), which instead gives art. 56 new rates (IV-VIII) and art. 57 § 1º, and whose art. 9 (as Lei 14.374/2022 worded
+  it) revokes arts. 56, 57, 57-A and 57-C 'a partir de 1º de janeiro de 2028' (art. 10 I: art. 9 in force 1.1.2025) -> futuro.
+  Read Lei 14.183's original art. 9 and the Lei 14.374 article that rewrote it (an original revocation day before the rewrite
+  never took effect: decision line only).
+- MP 1.095/2021 (31.12.2021, 27 notes) -> Lei 14.374/2022 (22.6.2022; adds 57-C, 57-D); LC 228/2026 (20.3.2026; art. 56,
+  57-C § 5º); Lei 13.161/2015 art. 8 I (arts. 52-54); MP 1.300/2025 -> Lei 15.235/2025 (art. 121).
+### TO DO, per item (in this order; publish only when every item is closed)
+1. REIQ arts. 56, 57, 57-A, 57-B (also 57-C, 57-D): the reader keeps 2-3 overlapping copies of every line 2013-2021 (Planalto
+   reprints the text after each lapse: MP 694 2016, MP 836 2018, MP 1.034/Lei 14.183 2021) and credits MP 1.034 / MP 1.095 with
+   the old wording. Model by hand (SPAN_FIX with nth): one copy per line; MP 694 (read its arts. 4-5 for the art. 56/57-B day;
+   lapsed 9.3.2016, MP_LAPSE exists); MP 836 gap 1.9-11.10.2018 (articles absent, back credited mp-836-2018-fim); MP 1.034
+   revocation 1.7.2021, back 15.7.2021 with Lei 14.183's wording (converted-MP rule: the conversion kept the articles); MP 1.095
+   (read its art. 2 effects clause, link mpv1095.htm#art2, and what it revoked/rewrote) and Lei 14.374; Lei 14.183 art. 9
+   revocation from 1.1.2028 -> futuro (arts. 56, 57, 57-A, 57-C end 2028-01-01 on futuro); MP 1.227 art. 6 III: art. 57-A §§
+   1º-2º unbroken (check after the MP_LAPSE; SPAN_FIX as _W1227 in the 12.865 block if needed).
+2. LC 214/2025 (43 notes; 'Vigência encerrada (Vide LC 214)' on the ementa and articles): no futuro version is built yet. Read
+   LC 214 art. 542/544 (+ LC 227/2026's wording of art. 544) for the Lei 11.196 items and their days; add a _FUT2027 entry (or
+   another day) for lei-do-bem; spans after.
+3. MP 1.318 REDATA: check every line 18.9.2025-26.2.2026 ('Vigência encerrada' markers must not be text); art. 11-C effect day
+   1.1.2026 (the MP lapsed 25.2.2026, after that day, so it took effect: effects_fix MOVE); the ementa / Capítulo I name lines;
+   preambulo has a doubled 'Institui o Regime Especial...' line 2005-11-22..2025-05-21 (dupl.py); art. 11-B § 2º doubled on
+   2026-09-15 (Lei 15.504).
+4. art. 96 § 5º: '... § 4º do art. 5º da Lei nº 9.639, de 25 de maio de 1998, com a' + note '(redação dada pela Medida
+   Provisória nº 2.187-13, de 24 de agosto de 2001.)' -> words of the text (BARE_TEXT needs an MP form of _BARE_RX; today it
+   credits mp-2187-2001 on 2005-11-22, a same_day version). art. 96 § 3º: two struck copies (MP 457 revocation 11.2.2009; Lei
+   11.960, its conversion, 30.6.2009) overlap 2005-2009 -> one line to 11.2.2009.
+5. effects_fix.py MOVES "99-batch17zzzy.json": MP 472 art. 17 -> 1.1.2010; MP 1.318 art. 11-C -> 1.1.2026; then every staged
+   clause the notes link ('Produção de efeito(s)': Lei 11.727 art. 41, MP 447 art. 8, MP 460 art. 7, Lei 12.024 art. 31, Lei
+   12.249 art. 139, Lei 12.715 art. 78, MP 690 art. 10 I, Lei 13.137 art. 26 V, MP 694 arts. 4 II/5 II, Lei 14.183 art. 10,
+   MP 1.107 art. 18, Lei 14.438 art. 19, MP 1.110 art. 7 (lapsed, batch15 MP_LAPSE), Lei 11.933 art. 11, Lei 12.995 art. 27 I,
+   MP 1.303 art. 75 (lapsed 9.10.2025: a change whose day came later never took effect, decision line only)). Read each
+   clause (vigforms.py first).
+6. art. 132 items not gated: mixed articles 33, 42, 43, 44, 46 (parts under II/III/IV/V a-b: decide per quoted line, SPAN_FIX
+   start); art. 110 (VII: from an act, minimum 1.3.2006 / 1.1.2006) and arts. 114-115 (VI: from a joint act) -> OPEN_ITEMS unless
+   the act's date can be read.
+7. dupl.py (b37/tools) on the trial: art-113/118/120/33/43/44/46 doubled labels and dotted lines are quoted amendments (check
+   each against the page, then EXPLAINED or nothing); the 11 'units differ' (art-09, 41, 44, 48, 56, 63, 65, 70, 83, 113,
+   118): EXPLAINED or fix.
+8. MP fates to confirm on their pages (conv_report after the hand model): MPs 413, 428, 447, 451/2008; 457, 460/2009; 492, 497,
+   517/2010; 534, 540, 545/2011; 563, 564/2012; 613/2013; 656/2014; 1.107, 1.110/2022; ADIN 4254 (6 notes: read the ruling's
+   scope before modelling).
+9. Then OPEN_ITEMS[_LBEM], pipe.sh zzzy (two identical parses; every check), dupsame/uniqlaws 0, merged check 0/0 main + futuro,
+   --compare identical, audit clean, README row + jurisdiction.json (docs.py), PUBLISH lines.
+- PIDs (all mine, all exited): robots 42444, laws 43308, missing 54024, t1 47628, multi1 47656, hrefs1 (logs/hrefs1.log),
+  gap 26212 / 46204, multi2 (logs/multi2.log), t2 51068, sp1 38616, t3 32116, dupl (logs/zzzy-dupl3.log), sp2
+  (logs/zzzy-sp2.log), href1941 (logs/href1941.log). One background `until` wait and one Monitor, both mine, ended (the
+  Monitor stopped by its own task id).
+
+## State at handoff (batch 17, thirty-eighth session, 2026-11-02)
+Nothing installed this session; installed state unchanged from the thirty-seventh handoff (293 acts, 3913 versions, 2736 commits,
+check 0/0, compare identical, audit clean; README + jurisdiction.json current). corpus.d unchanged (no 99-batch17zzzy.json).
+Files changed: parse_batch17.py (additions only: act, PARTS zzzy, ACT_DAY/ACT_LAWS lei-11196-2005, block '# part zzzy'),
+sources_batch17.json (+22 pins), law_records.json (+ lei-11196-2005), bad_pins.json (+ law:lei-13241-1941). batch17/.tmp/stage.json
+rewritten by the trial runs (as every run). Nothing running.
+NEXT: Lei 11.196 (part zzzy), TO DO items 1-9 above, then the historic codes.
+OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff.
