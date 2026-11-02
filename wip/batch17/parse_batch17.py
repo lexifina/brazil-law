@@ -8175,6 +8175,10 @@ if any(a["slug"] == _LCCOM for a in ACTS):
     P.VIGENCIA_FIXED["lei-10406-2002"] = (
         _CCOM_DAY2002, "art. 2.044: 'Este Código entrará em vigor 1 (um) ano após a sua publicação' (DOU 11.1.2002): 11.1.2003, "
                        "the Código Civil's first day in its own record")
+    # a decree of the Poder Legislativo: key dec-<n>-<year> (batch 12's decree keys); Diário Official 6.1.1909, p. 116 (the
+    # Chamber of Deputies' record of the original publication)
+    B12.DECREES["dec-2044-1908"] = {"enacted": "1908-12-31", "published": "1909-01-06",
+                                    "title": "Define a letra de câmbio e a nota promissória e regula as Operações Cambiais."}
     for _n in ("(Revogado pelo Decreto do Poder Legislativo nº 2.044, de 1908:)",
                "(Revogado pelo Decreto do Poder Legislativo nº 2.044, 1908:)"):
         P.NOTE_FIX[_n] = ("(Revogado pelo Decreto nº 2.044, de 1908)",
