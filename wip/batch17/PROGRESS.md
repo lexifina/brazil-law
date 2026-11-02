@@ -2868,3 +2868,178 @@ pattern), corpus.d/99-batch17zzzz.json + .PUBLISH, repo/README.md, repo/jurisdic
 effects_fix.py unchanged. zzzza is configured in PARTS but not published (no corpus.d file). Nothing running. Claim released.
 NEXT: CPC 1973 (part zzzza) TO DO items 1-6 above; then CC 1916.
 OPEN / DATED RE-CHECKS: unchanged from the forty-first handoff.
+
+## Forty-third session (2026-11-02): CPC 1973 PUBLISHED (part zzzza, 67 versions); CC 1916 surveyed and pinned (not started in code)
+Claim: scripts/world-law/claims/brazil-law.txt taken at the start (released at the end). Scratch: .gitlaw-scratch/brazil-b43
+(before/ = parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json, dupsame_allow.json, effects_fix.py, README,
+jurisdiction.json, PUBLISH, firstline.py, pipe.sh at session start; parse_batch17.after.py / effects_fix.after.py = state at
+handoff; logs/; tools/ = b42's (paths -> b43) + uq.py (dump filter: key=value, --units, --ctx), uclass.py (undated lines by the
+law of the next line), seq.py (dump in page order between two units), ddiff.py (span-field diff of two dumps), pinfo.py,
+utext.py (one unit's text per version, replaying changes), lawdays.py (per law: days used vs publication; flags), lawvig.py
+(a law page's vigor/efeitos sentences), lawtail.py, lawphr.py (law page text around a regex), lx.py (LexML cache + records),
+lawin.py (installed parts holding a law key), yearnotes.py, strfrac.py (parser's struck/plain count of a page), noteq.py,
+addrec.py, fixwhy.py, fmt.py, after.py; rows-zzzza.json, publish-zzzza.txt). robots.txt read before the first request
+(b43/robots: archive.org Disallow /control/ /report/; web.archive.org 404). archive.org only, 2 requests (1 CDX, 1 capture)
+through the shared client; no Common Crawl, no Arquivo.pt, no live host, no challenge page.
+### Part zzzza: CPC 1973 (Lei 5.869/1973), PUBLISHED, 67 versions 1974-01-01 .. 2016-03-18
+- parse_batch17.py: block '# part zzzza' grown (additions only, +278 -0 vs b43/before; effects_fix.py unchanged). All gated on
+  the act being in ACTS. Items, in the to-do order:
+  1. The 3 problems: art-0500 II (Lei 5.925's wording printed struck below Lei 8.038's: SPAN_FIX 1974..1990); art-0741 par.
+     único (note '(Redação pela Lei nº 11.232, de 2005)': NOTE_FIX; MP 2.180-35's wording now 27.8.2001..24.6.2006);
+     art-1218 XV (SPAN_FIX: 1973 XIV and XV end 13.5.1980 renumbered by Lei 6.780; LABEL_FIX 'X -Xl -' -> 'X -').
+  2. Lei 5.925/1973 (art. 5: in force 1.1.1974): coordinator fold rule. _build_act_cpc73 credits the first version's units
+     with Lei 5.925 wording to ['lei-5869-1973', 'lei-5925-1973'] + version note; decision _W_CPC73_FOLD. _cpc73_model marks
+     the 1973 wording it replaced (struck, no note, start 1.1.1974, no law; the next law-written line of the unit is Lei
+     5.925's on 1.1.1974, struck or not) skip/pinned 'never-in-force': 364 lines. This also removed real doubled text in
+     the trial (arts. 232, 412, 500, 520, 585, 602, 1.095 printed both wordings from 1974).
+  3. Undated struck lines: 0 left (191 were the 5.925 case; others dated by hand: art. 746 + its 1973 Capítulo IV ->
+     21.1.2007 Lei 11.382; art. 1.102.a/.b/.c -> UNIT_FIX art-1102-a/b/c (both pages); Capítulo XV headings from Lei 9.079,
+     its note line '(Capítulo acrescentado ...)' skipped).
+  4. Pre-repeal check 17 -> 9 differences, all consolidated-page artifacts, explained by _W_CPC73_REPEALX (written only when
+     the differing units are exactly those 9; else it prints 'CPC73 REPEAL CHECK: differences not as explained'). Fixed:
+     art-0154 note '(I&nbsp; ncluído' and art-0470 'Vide ...)' mended in the HTML (also art-0602 I 'Inlcluído'); line ends
+     corrected from the amending laws' own texts (_CPC73_ENDS: arts. 275 II, 475-E, 523 § 3º, 649 IV, 655-A § 4º); art-1082
+     caput ends 23.11.1996 (Lei 9.307 art. 44). Why the 'Replay check' says 0: B9.consolidated() returns {} for an act in
+     B9.REPEALS, so that line compares nothing (same for Lei 8.666's part); the pre-repeal check takes its place.
+  5. In-force days: lawdays.py over every law; all own clauses read (vigforms) except the two hand days already set (Leis
+     8.950/1994, 10.173/2001); Lei 11.112/2005 (art. 4 vetoed) and Lei 11.382/2006 (no clause) by LINDB 45 days (checked
+     on the pages). Publication years misprinted on two law pages, corrected by B8.LAW_FIELD_FIX + VIGENCIA_FIXED from the
+     acts' own signing dates: Lei 6.745 ('DOU de 6.12.1976' for a law signed 5.12.1979 -> 1979-12-06), Lei 8.637 ('D.O.U.
+     de 1º.4.1990' for 31.3.1993 -> 1993-04-01). MP 2.180-35 stands (EC 32 art. 2). No amending note after Lei 12.873/2013
+     (yearnotes: only CPC 2015 'Vide' pointers).
+  6. Labels: incisos printed with l for I ('Vl', 'Vll', 'lII', 'Xl', 'l') get the numeral as label (text as printed); art.
+     1.218 'Vlll - aos protestos' excluded (as VIII it displaced the struck 1973 VIII, which a later rule then dropped).
+     Other hand spans: art-0253 par. único (struck copy skipped), art-0496 I-V of Lei 8.038's list start 29.5.1990,
+     art-0508 par. único (unnoted copy skipped), art-0541 1973 caput ends 29.5.1990 (Lei 8.038 art. 44: 'arts. 541 a 546'),
+     art-0983 placeholder 'Parágrafo único. (Revogado).' skipped, heading ')' after Título V skipped, LABEL_FIX art. 275 II
+     'j) de eleição de cabecel' -> 'f)' (Lei 5.925's text). Decision for art-0644 (the page has no 1973 wording).
+     B13.OPEN_ITEMS: art. 1.046 §§ 1º-2º survival; arts. 1.218/1.219.
+- law_records.json + 4 (the installed records of lei-8038-1990, lei-9307-1996, lei-9868-1999, lei-11419-2006: URL case and
+  title differed); dupsame_allow.json + 1 (titulos 'Das Disposições Comuns às Seções Precedentes', printed twice by the Code).
+- pipe.sh zzzza x3 (b43/logs/zzzza-pipe1..3.out): final c717b6be x2, 0 problems, 0 moves; dupline/dupcheck/leakcheck/
+  firstline 0, overlap 0, dupsame 0, uniqlaws 0; benign: pubgap 2 (Lei 7.219/1984 DOU 20.11.1984 and Lei 9.040/1995 DOU
+  10.12.1995 as printed; not provably wrong, see re-checks), ordercheck 1 (art. 557 § 1º-A before § 1º as printed),
+  quotecheck 5 ('visto', 'sem recurso'), missorig 1 (art. 644), latecaput (caput-only rewrites). Merged: 296 acts, 4046
+  versions, 2826 commits, check 0/0, 0 trailer errors, --compare identical, audit_push clean main + futuro. Installed
+  corpus.d/99-batch17zzzza.json 3013d42b + .PUBLISH; docs.py rows-zzzza.json (README row; jurisdiction 296 acts 4046
+  versions, build entry 'Lei 5.869/1973 1974-2016 (67)', one entry).
+### CC 1916 (Lei 3.071/1916): surveyed, pinned, NOT started in code (part zzzzb next)
+- law:lei-3071-1916 (ts 20261022053934) strikes everything: the parser reads 3901 of 3907 paragraphs struck. It still holds
+  the earlier wordings with their notes (1646 strike tags; 'Revogado pela' 129, 'Redação dada' 106, 'Incluído' 38).
+- Pinned l3071-2002 (sources_batch17.json, pinat.py): http://www.planalto.gov.br:80/ccivil_03/leis/L3071.htm ts
+  20020602033457 (CDX before 20030111: 20010509155642, 20011211140515, 20020602033457). It has NO strike tags: a colour
+  legend (black original, blue altered, green revoked, red included) and only the wording in force with 294 'Redação dada'
+  notes (205 name laws the reader does not key, e.g. 'Decreto do Poder Legislativo nº 3.725, de 15.1.1919'). So: use it as
+  the pre-repeal consolidated check (unstruck text = text in force mid-2002), and build the history from the 2026 page with
+  the repeal's page-wide strike removed (find how it is marked: an outer <strike> around the body, or per paragraph; earlier
+  wordings may be struck twice or carry their notes). Check the green (revoked) text is not read as in force on the 2002 page.
+- Then: PAGES l3071 (2026) / l3071-2002; _act (digits 4); ACT_DAY_ALL lei-3071-1916 1917-01-01 (art. 1.806); B9.REPEALS
+  2003-01-11 lei-10406-2002 (VIGENCIA_FIXED as in zzzz); decree keys for 'Decreto do Poder Legislativo' notes (B12.DECREES,
+  as dec-2044-1908); pre-1970 dates clamp in commits (In-force trailer keeps the day); the Decreto 572/1890 / LICC 1916
+  three-day rule for laws without a day.
+- PIDs (all mine, foreground through run.py unless said; all exited): probe 50828 (rc 2), 53012, 43224, setup 14012, r1
+  36432, pd1 40880, pq1 21160, uq1 54096, uq2 36632, uc1 48508, 40436, uq3 4388, g2 16564, uq4 29308, sq1-3 25700 47316
+  30996, pi1 45760, g3 20844, g4 22232, g5 47380, r2 29664, g6 51244, r3 2804, r4 12368, ld1 45564, lv1 19048, lt1 36032,
+  g7 29444, g8 2492, lx1 49628, li1 50600, d84-type reads 47696 1368 13848, lp1 18872 (moved to background by the tool
+  timeout while waiting on the cpu gate, mine, finished), bd1 40208, pd2 51288 (rc 1, KeyError) then 29220 26408, t3 49428,
+  18416, 14036, dd1 18224, sq4-6 33140 37096 51548, ut1 51792, bd3 43096, t4 46664, 30692, pq3 16540, pq4-5 11764 17880,
+  bd4 32772, d2 31880, bd5 51564, t5 33328, pd3 42904, ld2 53164, nq1 2748, sq7 29848, lp4 8460, bd6 8140, pd4 38968, dd2
+  54748, sq8-9 17080 33708, pq6 49056, sq10 29956, rg4 23820, bd7 55228, pd5 12596, dd3 8460, t6 16368, ut 24228 17292
+  26472 11156, ud1 53340, ut 12852 35544 33452 42592, yn1 11196, bd8 49568, sv1 52828, sf1 43032, robots 34468, cdx1 23768,
+  r5 52868, pin1 39244, sf2+sv2 (background task, mine, finished), pd6 53648, 45760 44796 43292 51864 42692, lt2 2712, lp5
+  45012, uq6 29764, rg5 31648, uq7 47700, r6 15844, pq7 38288, fmt 53520, addrec 47892, fixwhy 34352, bd9 5016, uqx 52752
+  49628 28620, bd10 41428, inst 28676, docs 2040, dd 5948, after 38412, bd11 24648, pids 41712; pipe1 (background, mine)
+  41060 29636 39220 22768 27920 51440 30196; pipe2 12848 20636 9752 43064 44476 49096 31236; pipe3 6844 29224 37828 14496
+  43096 42004 51488 (pipe.sh's file-check run.py PIDs go to /dev/null). One Monitor (until-loop on the pipe1 log, mine,
+  ended by itself). Outside the wrappers (mistakes; small local reads/writes only, no network): the first PowerShell
+  Get-ChildItem of brazil-law and batch17 and a New-Item of b43/logs; heads/cats/greps/cut/sed/awk/tr over my own b43 tools
+  and logs and the task output files; one grep of parse_batch17.py; one ls of batch17/.tmp and mkdir/cat of b43/robots;
+  greps of zzzza-build.log, README.md and jurisdiction.json; ls of corpus.d. Nothing running.
+
+## State at handoff (batch 17, forty-third session, 2026-11-02)
+Installed with .PUBLISH this session: zzzza (Código de Processo Civil de 1973, Lei 5.869/1973; 67 versions). Merged build: 296
+acts, 4046 versions, 2826 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws 0; dupsame 0.
+README row + jurisdiction.json current. Files changed: parse_batch17.py (zzzza block, +278 -0 vs b43/before),
+sources_batch17.json (+1 pin l3071-2002), law_records.json (+4), dupsame_allow.json (+1 line), corpus.d/99-batch17zzzza.json +
+.PUBLISH, repo/README.md, repo/jurisdiction.json, PROGRESS.md checkpoint. effects_fix.py unchanged. Nothing running. Claim
+released (release PID 39084).
+NEXT: CC 1916 as part zzzzb (plan above).
+OPEN / DATED RE-CHECKS: unchanged from the forty-first handoff, plus: the DOU days of Lei 7.219/1984 (page: 20.11.1984, signed
+19.9.1984) and Lei 9.040/1995 (page: 10.12.1995, signed 9.5.1995), both in force on publication, against their LexML records
+(not cached; LexML Crawl-delay 5).
+
+## Forty-fourth session (2026-11-02): zzzza DOU days corrected from LexML (re-PUBLISH); CC 1916 (part zzzzb) configured, trials only
+Claim: scripts/world-law/claims/brazil-law.txt taken at the start ('gitlaw-BR-44 alan-dell 2026-11-02T05:23Z'), released at the
+end. Scratch: .gitlaw-scratch/brazil-b44 (before/ = parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json,
+dupsame_allow.json, effects_fix.py, README.md, jurisdiction.json, PUBLISH, firstline.py, pipe.sh at session start, plus the
+installed zzzza part/.PUBLISH as *.installed; pages/ = decoded pages (l3071-2026.html, l3071-2002.html, lindb.html); logs/;
+tools/ = b43's (paths -> b44) + setup.py, rawtxt.py, ltexp.py, colors.py, cls3.py (2026 page: css / tag / none class per
+paragraph), cmp2002.py (THE CC16 pre-repeal check, see below), logsum.py, lxraw.py, reinstall.py; pids.txt). robots.txt read
+before the first request (b44/robots: archive.org Disallow /control/ /report/; web.archive.org 404; www.lexml.gov.br: /urn and
+/sru allowed, /busca/ /doc/ /linker/ disallowed, Crawl-delay 5). Requests: archive.org only through the shared client
+(iaonly.py laws l3071: 32 acts named, 28 pinned); LexML 2 record pages (/urn/, 6 s apart, no challenge). No Common Crawl, no
+Arquivo.pt, no live Planalto.
+### zzzza: Lei 7.219/1984 and Lei 9.040/1995 DOU days (re-PUBLISH)
+- LexML records (cached .cache/686a65c4... and 2c7b026a...): Lei 7.219 'Publicação Original 1984-09-20 Diário Oficial da União.
+  Seção 1. 20/09/1984. p. 13730'; Lei 9.040 'Publicação Original 1995-05-10 Diário Oficial da União. Seção 1. 10/05/1995. p.
+  6641'. Planalto's pages end 'publicado no D.O.U. de 20.11.1984' / '10.12.1995' (misprints); both 'entra em vigor na data de
+  sua publicação' (art. 2). Corrected in the zzzza block (additions only: B8.LAW_FIELD_FIX + VIGENCIA_FIXED, decision lines);
+  only zzzza holds these keys (lawin.py). RESULT: see 'zzzza re-PUBLISH' below.
+### CC 1916 (Lei 3.071/1916), part zzzzb: CONFIGURED, NOT PUBLISHED (trials t1-t5)
+- Config (parse_batch17.py, additions only): PAGES l3071 (2026 page) / l3071-2002; pin l3071 in sources_batch17.json (same url/ts
+  as sources_phase2 law:lei-3071-1916, NO "via" key: that cache lives in the old fetch cache, not wayback.py's); _act
+  codigo-civil-de-1916 (CC16, digits 4); PARTS zzzzb; ACT_DAY_ALL lei-3071-1916 1917-01-01 (art. 1.806); ACT_LAWS_ALL (DOU
+  5.1.1916, the page's footer); block '# part zzzzb' before SRC: VIGENCIA_FIXED lei-10406-2002, B9.REPEALS 2003-01-11, the
+  Introdução's own unit keys art-in-NNNN ('Introdução, Art. N'), the 2002 page's green (#008000, revoked) text removed with
+  'Texto original:' / 'Inciso suprimido ...' marker lines (_cc16_drop_green, _CC16_2002_MARK), _cc16_model (below).
+- FINDING (the handoff's plan does not hold as written): the 2026 page strikes the 1916 ORIGINAL wording with the CSS
+  line-through and every LATER wording (with its 'Redação dada'/'Incluído' note) with <strike> tags. Removing the CSS leaves the
+  1916 text in force and the later wordings struck (e.g. art. 6: 1916 'II. As mulheres casadas' plain, Lei 4.121/1962's wording
+  struck) - trial t3 showed exactly that. cls3.py: 3583 css, 313 tag, 6 none, 5 mixed paragraphs. So the trial reads EVERY line
+  as a wording (no CSS removal), dated by its notes and by the next wording of its label; _cc16_model opens the wordings nothing
+  ends (end_how 'undated': no note, no later wording) until the repeal (end 2003-01-11 lei-10406-2002, 'act-repealed', pinned)
+  and drops them from B3.UNDATED. The 'none' lines are Planalto's annotations, mostly the text of Decreto 3.725/1919 itself
+  ('Faça-se ponto na palavra morte ...', 'Diga-se escrivão em vez de notario.', 'Elimine-se o parenthese ...'): to skip.
+- The 2002 capture is a modernised re-typesetting ('Art. 1º', 'I - os menores de 16 (dezesseis) anos;' for 1916's 'I. Os
+  menores de dezesseis anos.'), has no Introdução at all, and prints only the in-force text in black/blue/red (green =
+  revoked, under 'Texto original:'). The built-in REPEAL CHECK (exact text) therefore differs in ~1200 articles and cannot be
+  the check: cmp2002.py is (per unit: present on both sides, same line labels after normalising, word-similarity >= 0.85 with
+  accents/punctuation removed). Its decision line must replace the built-in one (or explain it) before PUBLISH.
+- Trial t5 (b44/zzzzb-t5.json; logs/t5.log, cmp5.log): 3908 paras, 1820 units, 27 versions, last change before the repeal
+  2001-02-16; cmp2002: ok 1636, differ 89, only-2002 12, only-replay 2 (+21 Introdução units, absent in 2002 by design).
+### TO DO for zzzzb, in this order (publish only when every item is closed)
+1. Replace the parser's struck-line ends for this act by a model fit for an all-struck page (the cause of most of the 89):
+   'next-wording' ends a line at the next law-dated line of the ARTICLE whatever its label, so an 'Incluído' line ends its
+   neighbours (art. 16: Lei 9.096/1995's III and § 3º ended the caput, I, II, §§ 1º-2º; same in arts. 12, 134, 178, 180, 195,
+   248, 258, 267, 589, 947, 1.611, ...). Rule to implement: a line ends (a) by its own Revogado/Suprimido/Eliminado note, (b) at
+   the start of the next line of the same unit with the same label key (roman numeral / § n / parágrafo único / alínea /
+   caput; empty labels: read 'I.' / 'II.' from the text), (c) for sub-lines of a caput a law rewrote WITH new sub-lines of its
+   own (art. 6: Lei 4.121 caput + I-III + par. único), at that rewrite; a caput-only rewrite leaves the old sub-lines; (d)
+   otherwise at the repeal. Check 'parent'/'heads'/'successor' ends the parser set against this. Re-run cmp2002 until 0.
+2. Decreto 3.725/1919 (the user calls it Lei 3.725/1919: 'Decreto do Poder Legislativo', page law:dl-3725-1919 =
+   decreto/Historicos/DPL/DPL3725-1919.htm, cached; key it dec-3725-1919 in B12.DECREES like dec-2044-1908; footer 'publicado
+   na CLBR, de 31.12.1919', signed 15.1.1919, art. 4 only revokes): a normal amendment on its own day (user). Find its Diário
+   Official day (Chamber legin publicacaooriginal copy through archive.org, or LexML /urn/ record, 6 s), day = 3rd day after
+   (CC 1916 Introdução art. 2, Distrito Federal; the LICC 1916 three-day rule). NOTE_FIX every form: 'Decretoi nº 3.725, de
+   1919', 'Decreto nº 3.725, de 1919', 'Decreto-Lei nº 3.725, de 1919' and 'Decreto-Lei nº 3.725, de 1970' (both link to the
+   DPL3725-1919 page: misprints), 'Eliminado pelo', 'Suprimido pelo', 'Renumerado do § 1º / do paragrafo único pelo'.
+   Then the ~150 <strike>-no-note 1916 lines followed by a corrected css wording (cls3 'tagnonote'): each is a 3.725
+   correction only if the decree's text lists that article (its 'Art. N - Diga-se/Supprima-se/Elimine-se ...' items): end the
+   old line / start the corrected one on 3.725's day, credited to it, decision line listing them; any not in the decree stays
+   explained or undated. Skip the decree-text annotation lines ('none'). Mixed lines (arts. 179 'X.', 443, 458, 624 x2):
+   partial strikes inside one line, read each by hand.
+3. Decreto 20.330/1931 (notes 'Incluído/Renumerado pelo Decreto nº 20.330, de 1931', art. 9 §§ 1º-2º; hrefs D20330.htm and
+   D3520.htm): key, record, page and day (a decree of the Provisional Government with force of law).
+4. 'Lei nº 4.123, de 1962' notes (5) link to L4121.htm: read Lei 4.121's text for those words; NOTE_FIX to 4.121 if so (Lei
+   4.121: art. 4 '45 (quarenta e cinco) dias após a sua publicação', DOU 3.9.1962).
+5. Unit keys: 'Art. 1.1504.' (art-11504 -> art-1504, UNIT_FIX), 'Art.. 1.661' and the testamento marítimo/militar run
+   (arts. 1.656-1.669 mis-keyed: only-2002 1.659, 1.661-1.663, 1.665-1.667, 1.669, 1.720; replay 'art' labels in 1.658, 1.660,
+   1.664, 1.668, 1.719), art. 332/333 (only-replay 332, only-2002 333), art. 1.400 (only 2002), art-0001 doubled 'Art. 1'.
+6. 'restored wording after an open one' art-0693 (Lei 2.437/1955?), the 1.723/1.787 low ratios, preambulo/titulos.
+7. Introdução (arts. 1-21): no official note dates its end; the LICC (Decreto-Lei 4.657/1942, in force 24.10.1942) has no
+   revoking clause (checked on the cached lindb page); the 2002 capture omits it. As with the Código Comercial's Parte
+   Terceira: stands as printed, B13.OPEN_ITEMS + decision (its arts. 5 and 20 par. único are <strike> with no note: read them).
+8. Pre-1917 folds: no amending law in the notes is before 1.1.1917 (so far): confirm, and say so in the PUBLISH line.
+9. Every law's in-force day (lawdays.py; pre-1970 dates clamp in commits, In-force trailer keeps the day); last change before
+   the repeal 2001-02-16 in t5: confirm no 2001-2002 change is missing.
+10. pipe.sh x2, dupsame/uniqlaws, merged check, README row (docs.py rows-zzzzb.json), jurisdiction.json, PUBLISH.

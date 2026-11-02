@@ -293,6 +293,8 @@ PAGES.update({
     "l5869": "leis/l5869.htm",   # CPC 1973 as Planalto prints it after the repeal (every line struck)
     "l5869-2015": "leis/l5869.htm",   # capture of 27.10.2015, before the repeal (18.3.2016)
     "l5869compilada-2015": "leis/l5869compilada.htm",   # capture of 29.10.2015; later captures are stubs
+    "l3071": "leis/l3071.htm",   # CC 1916 as Planalto prints it after the repeal (a CSS strike over every line)
+    "l3071-2002": "leis/l3071.htm",   # capture of 2.6.2002, before the repeal (no strikes: a colour legend)
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -678,6 +680,10 @@ ALL_ACTS: list[dict] = [
     # read from the capture of 27.10.2015 (before the repeal); its consolidated check is the compiled page of 29.10.2015
     _act("codigo-de-processo-civil-de-1973", "CPC73", "l5869-2015", "l5869compilada-2015", "lei-5869-1973",
          "Código de Processo Civil de 1973 (Lei nº 5.869, de 11 de janeiro de 1973)", 4),
+    # forty-fourth session: read from the 2026 capture with the repeal's page-wide CSS strike removed; its pre-repeal check
+    # is the capture of 2.6.2002
+    _act("codigo-civil-de-1916", "CC16", "l3071", "l3071-2002", "lei-3071-1916",
+         "Código Civil de 1916 (Lei nº 3.071, de 1º de janeiro de 1916)", 4),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -809,6 +815,8 @@ PARTS: dict[str, list[str]] = {
     # forty-second session
     "zzzz": ["codigo-comercial"],
     "zzzza": ["codigo-de-processo-civil-de-1973"],   # in progress, not published
+    # forty-fourth session (zzzza above is PUBLISHED since the forty-third session)
+    "zzzzb": ["codigo-civil-de-1916"],   # in progress, not published
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1143,6 +1151,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-5869-1973": ("1974-01-01", "Lei 5.869/1973 (Código de Processo Civil) art. 1.220 (renumbered by Lei 5.925/1973): 'Este "
                                     "Código entrará em vigor no dia 1º de janeiro de 1974, revogadas as disposições em contrário' "
                                     "(DOU 17.1.1973)"),
+    "lei-3071-1916": ("1917-01-01", "Lei 3.071/1916 (Código Civil) art. 1.806: 'O Código Civil entrará em vigor no dia 1º de "
+                                    "janeiro de 1917' (DOU 5.1.1916)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1747,6 +1757,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-556-1850": _L("Lei nº 556, de 1850", "Código Comercial.", "1850-06-25", "1850-07-01", PAGES["lim556"]),
     "lei-5869-1973": _L("Lei nº 5.869, de 1973", "Institui o Código de Processo Civil.", "1973-01-11", "1973-01-17",
                         PAGES["l5869-2015"]),
+    "lei-3071-1916": _L("Lei nº 3.071, de 1916", "Código Civil dos Estados Unidos do Brasil.", "1916-01-01", "1916-01-05",
+                        PAGES["l3071"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -8436,6 +8448,23 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
     for _k, (_old, _new, _why) in _CPC73_PUB.items():
         B8.LAW_FIELD_FIX[_k] = ({"published": _new}, _why)
         P.VIGENCIA_FIXED[_k] = (_new, f"in force on its publication, {_new} (the page misprints the year as {_old[:4]})")
+    # forty-fourth session: two DOU days Planalto's law pages misprint, corrected from the official record of each law's
+    # original publication (Diário Oficial da União, Seção 1, as the LexML record cites it)
+    for _k, (_old, _new, _why) in {
+        "lei-7219-1984": ("1984-11-20", "1984-09-20",
+                          "Lei nº 7.219, de 19.9.1984: Planalto's page ends 'Este texto não substitui o publicado no D.O.U. de "
+                          "20.11.1984'; the record of its original publication gives the Diário Oficial da União, Seção 1, of "
+                          "20.9.1984, p. 13730: published 20.9.1984, in force that day (art. 2: 'Esta Lei entra em vigor na "
+                          "data de sua publicação')"),
+        "lei-9040-1995": ("1995-12-10", "1995-05-10",
+                          "Lei nº 9.040, de 9.5.1995: Planalto's page ends 'Este texto não substitui o publicado no D.O.U. de "
+                          "10.12.1995'; the record of its original publication gives the Diário Oficial da União, Seção 1, of "
+                          "10.5.1995, p. 6641: published 10.5.1995, in force that day (art. 2: 'Esta lei entra em vigor na "
+                          "data de sua publicação')"),
+    }.items():
+        B8.LAW_FIELD_FIX[_k] = ({"published": _new}, _why)
+        P.VIGENCIA_FIXED[_k] = (_new, f"in force on its publication, {_new} (the page misprints the day as "
+                                      f"{int(_old[8:])}.{int(_old[5:7])}.{_old[:4]})")
     _F_REN = {"end": "1980-05-13", "end_law": "lei-6780-1980", "end_how": "renumbered"}
     _F746 = {"skip": False, "end": "2007-01-21", "end_law": "lei-11382-2006", "end_how": "successor"}
     _F496 = {"start": "1990-05-29", "start_law": "lei-8038-1990"}
@@ -8599,6 +8628,123 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
         "the repeal on 18.3.2016, does not show that survival. Arts. 1.218 and 1.219 keep the procedures of Decreto-Lei "
         "1.608/1939 they name in force 'até serem incorporados nas leis especiais'; the history shows the articles as "
         "printed and no incorporation")
+
+# part zzzzb (forty-fourth session, IN PROGRESS, not published): Código Civil de 1916 (Lei 3.071/1916). In force 1.1.1917
+# (art. 1.806); repealed as a whole by Lei 10.406/2002 (Código Civil) art. 2.045 ('Revogam-se a Lei nº 3.071, de 1º de janeiro
+# de 1916 - Código Civil [...]'), in force 11.1.2003 (art. 2.044). Planalto's page now strikes every line with a CSS
+# line-through (the repeal); the earlier wordings keep their own <strike> tags and notes. The history is read from that page
+# with the CSS strike removed; the capture of 2.6.2002 (no strikes: blue altered, green revoked, red included) is the
+# pre-repeal check.
+_LCC16 = "codigo-civil-de-1916"
+_CC16_DAY = "1917-01-01"
+CC16_USED: dict[str, list] = {"lt": []}
+_CC16_GREEN = re.compile(r"<font\b[^>]*color\s*=\s*\"?#008000\"?[^>]*>", re.I)
+_CC16_FONT = re.compile(r"<(/?)font\b[^>]*>", re.I)
+_CC16_2002_MARK = re.compile(r"^(?:Texto original:?\s*|(?:[IVXLC]+|[a-z]\)|§ ?\d+º?|Parágrafo único|Art\.? ?[\d.]+º?)?"
+                             r"\s*[-.:]?\s*(?:Inciso|Alínea|Item|Parágrafo|Artigo|Número|§)?\s*"
+                             r"(?:suprimid|revogad|eliminad)[oa]s?\b.*)$", re.I)
+
+
+def _cc16_drop_green(html: str) -> str:
+    """the 2002 capture: remove every green (#008000, 'Redação dos dispositivos revogados') font element with its
+    content, nested fonts included; the legend's own green cells go too"""
+    out, pos = [], 0
+    while True:
+        m = _CC16_GREEN.search(html, pos)
+        if not m:
+            out.append(html[pos:])
+            return "".join(out)
+        out.append(html[pos:m.start()])
+        depth, j = 1, m.end()
+        while depth:
+            f = _CC16_FONT.search(html, j)
+            if not f:
+                j = len(html)
+                break
+            depth += -1 if f.group(1) else 1
+            j = f.end()
+        CC16_USED.setdefault("green", []).append(1)
+        pos = j
+
+
+if any(a["slug"] == _LCC16 for a in ACTS):
+    P.VIGENCIA_FIXED["lei-10406-2002"] = (
+        "2003-01-11", "art. 2.044: 'Este Código entrará em vigor 1 (um) ano após a sua publicação' (DOU 11.1.2002): 11.1.2003, "
+                      "the Código Civil's first day in its own record")
+    B9.REPEALS[_LCC16] = (
+        "2003-01-11", "lei-10406-2002",
+        "Lei 3.071/1916 (Código Civil de 1916) was repealed as a whole by Lei 10.406/2002 (Código Civil) art. 2.045 "
+        "('Revogam-se a Lei nº 3.071, de 1º de janeiro de 1916 - Código Civil e a Parte Primeira do Código Comercial, Lei nº "
+        "556, de 25 de junho de 1850'), in force 11.1.2003 (art. 2.044: 'Este Código entrará em vigor 1 (um) ano após a sua "
+        "publicação', DOU 11.1.2002), the Código Civil's first day in its own record, so its last version, on 11.1.2003, "
+        "removes every provision, credited to Lei 10.406/2002")
+    _paragraphsCC16 = P.paragraphs
+
+    def _paragraphs_cc16(html, digits):
+        """the 2026 page: every line of the Code is struck, the original wording by a CSS line-through and the wordings
+        later laws gave by <strike> tags (so removing the CSS would leave the 1916 wording in force and strike the later
+        ones): every line is read as a wording, dated by its notes and by the next wording of its label; the lines
+        nothing strikes are Planalto's annotations (_cc16_model)"""
+        page = B8.CURRENT_PAGE[0]
+        if page == "l3071":
+            CC16_USED["lt"] = [len(re.findall(r"text-decoration\s*:\s*line-through", html, flags=re.I))]
+        if page == "l3071-2002":
+            html = _cc16_drop_green(html)
+        out, rest = _paragraphsCC16(html, digits)
+        if page == "l3071-2002":
+            # what is left of a revoked provision once its green text is gone: 'Texto original:' and the markers
+            # 'V - Inciso suprimido pela Lei nº 4.121, de 27.8.1962:' are not lines in force
+            keep = [p for p in out if not _CC16_2002_MARK.match(P.norm(p["text"]))]
+            CC16_USED["marks2002"] = [len(out) - len(keep)]
+            out[:] = keep
+            for i, q in enumerate(out):
+                q["i"] = i
+        if page in ("l3071", "l3071-2002"):
+            # the Introdução (arts. 1 to 21, before the Parte Geral) numbers its articles from 1: keyed art-in-NNNN
+            zone = False
+            for p in out:
+                t = P.norm(p["text"]).upper()
+                if p["heading"] and t.startswith("INTRODUÇÃO"):
+                    zone = True
+                elif p["heading"] and t.startswith("PARTE GERAL"):
+                    zone = False
+                if zone and re.match(r"art-\d", p["unit"]):
+                    p["unit"] = "art-in-" + p["unit"][4:]
+                    CC16_USED.setdefault("in", []).append(p["unit"])
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_cc16
+    _unit_labelCC16 = P.unit_label
+
+    def _unit_label_cc16(u, ps):
+        if u.startswith("art-in-"):
+            return "Introdução, " + _unit_labelCC16(u, ps)
+        return _unit_labelCC16(u, ps)
+
+    P.unit_label = _unit_label_cc16
+    _span_fixCC16 = B8.apply_span_fix
+
+    def _cc16_model(paras, record):
+        """a wording no note ends and no later wording of its label follows was in force until the repeal (the page
+        strikes it only for the repeal): it stays open, and the repeal (B9.REPEALS) ends it on 11.1.2003"""
+        b3 = sys.modules.get("parse_batch3")
+        for p in paras:
+            if p["state"] == "plain" or p.get("pinned") or p["end_how"] != "undated" or p["heading"] and not p["text"]:
+                continue
+            p.update({"skip": False, "end": "2003-01-11", "end_law": "lei-10406-2002", "end_how": "act-repealed",
+                      "pinned": True})
+            if record:
+                CC16_USED.setdefault("open", []).append(p["unit"])
+                if b3 is not None:
+                    tag = f"CC16 {p['unit']} [{p['label'] or 'line'}] {p['text'][:60]!r}"
+                    b3.UNDATED[:] = [u for u in b3.UNDATED if u != tag]
+
+    def _apply_span_fix_cc16(paras, act_slug, record):
+        _span_fixCC16(paras, act_slug, record)
+        if act_slug == _LCC16:
+            _cc16_model(paras, record)
+
+    B8.apply_span_fix = _apply_span_fix_cc16
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-02 (batch 17, forty-second session: zzzz Código Comercial (Lei 556/1850) PUBLISHED, 4 versions (Decreto 2.044/1908 dated 9.1.1909 by Decreto 572/1890 art. 1 I); installed state: 295 acts, 3979 versions, 2768 commits, check 0/0, compare identical, audit clean; NEXT CPC 1973 then CC 1916, see batch17/PROGRESS.md forty-second session)
+CHECKPOINTED 2026-11-02 (batch 17, forty-third session: zzzza CPC 1973 (Lei 5.869/1973) PUBLISHED, 67 versions 1974-2016 (Lei 5.925/1973 folded into the first version, credited to both laws; empty final version 18.3.2016); installed state: 296 acts, 4046 versions, 2826 commits, check 0/0, compare identical, audit clean; NEXT CC 1916 as part zzzzb (2002 capture pinned, no strikes: plan in batch17/PROGRESS.md forty-third session))
 
 # gitlaw-BR progress (Brazil)
 
