@@ -8932,6 +8932,26 @@ if any(a["slug"] == _LCC16 for a in ACTS):
     # (unit, text start) of the whole items Decreto 3.725/1919 art. 3 adds that the page prints with no note
     _CC16_DEC_ADDED = (("art-0178", "XIII. A acção do adoptado"), ("art-0178", "VI. A acção do filho natural"),
                        ("art-0242", "IX. Acceitar mandato"), ("art-0391", "IV. Os bens que ao filho couberem"))
+    # (unit, last label key) of the provisions Decreto 3.725/1919 art. 3 moves elsewhere with a wording of its own, which
+    # the page still prints in the old place with no note: art. 1.786's parágrafo único becomes art. 1.787 (forty-seventh
+    # session, the coordinator's ruling: the law's own text governs)
+    _CC16_MOVED = {("art-1786", (1, "1"))}
+
+    def _cc16_dec_1787() -> str | None:
+        """the words Decreto 3.725/1919 art. 3 gives the new art. 1.787 ('transforme-se em artigo o paragrapho unico do
+        art. 1.786, com esta redacção: «...»'), read from the decree's own page"""
+        if "dec1787" in CC16_USED:
+            return CC16_USED["dec1787"][0]
+        import html as _h
+        r = P.raw("law:dec-3725-1919")
+        words = None
+        if r:
+            t = re.sub(r"\s+", " ", _h.unescape(re.sub(r"<[^>]+>", " ", P.decode(r[0]))))
+            m = re.search(r"Art\. 1\.787: Supprima-se\. .{0,200}?paragrapho unico do art\. 1\.786, com esta redacção: «\s*"
+                          r"([^»]+?)\s*»", t)
+            words = m.group(1) if m else None
+        CC16_USED["dec1787"] = [words]
+        return words
 
     def _cc16_model(paras, record):
         """the end of every wording on the all-struck 2026 page (forty-fifth session, the coordinator's reading): a line
@@ -8944,6 +8964,22 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         'next-wording', 'parent', ...) end a line at the next law-written line of the article whatever its label, which
         an all-struck page turns into wrong ends (art. 16: Lei 9.096/1995's III and § 3º ended the caput, I, II, §§ 1º-2º)"""
         b3 = sys.modules.get("parse_batch3")
+        # the new art. 1.787 (Decreto 3.725/1919 art. 3: art. 1.786's parágrafo único made an article 'com esta
+        # redacção'): the page does not print it, so its words are the decree's own, from 22.1.1919, credited to the
+        # decree, after the 1916 art. 1.787 the same item suppresses (decision _W_CC16_1787)
+        if not any(p.get("cc16_v1787") for p in paras):
+            words = _cc16_dec_1787()
+            old = [p for p in paras if p["unit"] == "art-1787" and not p["heading"] and (p["label"] or "").startswith("Art.")]
+            if words and len(old) == 1:
+                o = old[0]
+                # the decree closes the quotation before the sentence's full stop ('... o seu valor».')
+                v = dict(o, text="Art. 1.787. " + words + ("" if words.endswith((".", ";", ":")) else "."), notes=[], gaps=[], start=_CC16_DAY3725, start_law="dec-3725-1919",
+                         end=None, end_law=None, end_how=None, skip=False, pinned=True, cc16=True, cc16_dec=True,
+                         cc16_v1787=True)
+                paras.insert(paras.index(o) + 1, v)
+                CC16_USED["v1787"] = [v["text"][:60]]   # whichever pass inserts it
+            elif record:
+                B8.SPAN_MISSED.append(f"{_LCC16} new art. 1.787: decree words {bool(words)}, {len(old)} old caput lines")
         by_unit: dict[str, list[dict]] = {}
         for p in paras:
             if not p["heading"] and not p.get("cc16_drop"):
@@ -9078,6 +9114,10 @@ if any(a["slug"] == _LCC16 for a in ACTS):
                     # ('Art. 1.372, paragrapho unico: Supprima-se.', 'Art. 1.787: Supprima-se.'): they end on its day
                     if (unit, path[-1]) in _CC16_SUPPRESSED and p["start"] < _CC16_DAY3725:
                         cands.append((_CC16_DAY3725, "dec-3725-1919", "dec-suppressed"))
+                    # provisions the decree moves with a wording of their own (art. 1.786's parágrafo único -> the new
+                    # art. 1.787): they end in their old place on its day
+                    if (unit, path[-1]) in _CC16_MOVED and p["start"] < _CC16_DAY3725:
+                        cands.append((_CC16_DAY3725, "dec-3725-1919", "dec-moved"))
                 if cands:
                     d, law, how = min(cands)
                     p.update({"skip": False, "end": d, "end_law": law or None, "end_how": how, "pinned": True,
@@ -9142,13 +9182,18 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "Código Civil de 1916, whole provisions Decreto nº 3.725/1919 art. 3 suppresses: 'Art. 1.372, paragrapho unico: "
         "Supprima-se.' and 'Art. 1.787: Supprima-se.'; the page prints both struck with no note, and they end on "
         "22.1.1919, credited to the decree (art. 178 § 9º n. V d and arts. 287 and 290 parágrafo único carry their own "
-        "'Suprimido' notes). The same item makes art. 1.786's parágrafo único an article ('transforme-se em artigo o "
-        "paragrapho unico do art. 1.786, com esta redacção: «No caso do artigo antecedente, ...»'); the page prints neither "
-        "that art. 1.787 nor a note on the parágrafo único, which stands as printed to the repeal, so the history has no "
-        "art. 1.787 from 22.1.1919. Art. 243's parágrafo único, which the decree moves ('Passe-se este paragrapho para o "
+        "'Suprimido' notes); the same item makes art. 1.786's parágrafo único the new art. 1.787 (below). Art. 243's "
+        "parágrafo único, which the decree moves ('Passe-se este paragrapho para o "
         "art. 247'), is printed only in its 1916 place and stands there. Art. 178 § 10 n. X ('Elimine-se'): the page "
         "prints only the marker 'X. (Eliminado pelo Decreto nº 3.725, de 1919)', not the 1916 wording, so the history has "
         "no § 10 n. X")
+    _W_CC16_1787 = (
+        "Código Civil de 1916 arts. 1.786 and 1.787: Decreto nº 3.725/1919 art. 3 reads 'Art. 1.787: Supprima-se. Para não "
+        "alterar, entretanto, a numeração, transforme-se em artigo o paragrapho unico do art. 1.786, com esta redacção: "
+        "«{w}»'. Planalto's page prints the 1916 art. 1.787 and art. 1.786's parágrafo único, both struck with no note, "
+        "and not the new article. The decree's own text governs: on 22.1.1919 art. 1.786's parágrafo único and the 1916 "
+        "art. 1.787 end, and art. 1.787 reads, in the decree's words, 'Art. 1.787. {w}.', all credited to the decree; the "
+        "new article stands to the repeal")
     _W_CC16_ART35 = (
         "Código Civil de 1916 art. 35: Decreto nº 3.725/1919 art. 3 adds §§ 1º and 2º after n. IV and makes the 1916 §§ 1º "
         "and 2º §§ 3º and 4º ('O § 1º passa a ser § 3º, supprimindo-se a conjuncção porém ...', 'o § 2º passa a ser § "
@@ -9218,8 +9263,8 @@ if any(a["slug"] == _LCC16 for a in ACTS):
                 "1409 1522 1671 1723 1728"),
         "decmix": ("words of the decree's own instructions printed inside the line ('O preso, in-fine ou o desterrado', "
                    "'e, antes de ajustou, ponha-se a variação pronominal se')", "0040 0889"),
-        "decadd": ("the decree's additions and moves the 2026 page does not print (art. 245 parágrafo único, art. 1.566 n. "
-                   "VIII, art. 1.787 from art. 1.786's parágrafo único)", "0245 1566 1786 1787"),
+        "decadd": ("the decree's addition and move the 2026 page does not print (art. 245 parágrafo único, art. 1.566 n. "
+                   "VIII)", "0245 1566"),
         "lb": ("the same lines split or joined at another place", "0152 0159 0762 0770 0772 0825 0904 1081 1720 1779"),
         "order": ("art. 248's parágrafo único printed after n. IV on the 2002 page", "0248"),
         "labels": ("labels printed otherwise on the 2026 page ('1º' without '§', '§. 1º', 'IV' and 'V' without a stop)",
@@ -9281,6 +9326,8 @@ if any(a["slug"] == _LCC16 for a in ACTS):
                                                          u="; ".join(lab(t) for t in unl)) + ".")
         B5.EXTRA_DECISIONS.append(_W_CC16_PAIRS.format(u=", ".join(art(u) for u in pairs)) + ".")
         B5.EXTRA_DECISIONS.append(_W_CC16_SUPPR + ".")
+        if CC16_USED.get("v1787"):
+            B5.EXTRA_DECISIONS.append(_W_CC16_1787.format(w=CC16_USED["dec1787"][0]) + ".")
         B5.EXTRA_DECISIONS.append(_W_CC16_ART35 + ".")
         B5.EXTRA_DECISIONS.append(_W_CC16_MIXED + ".")
         if CC16_USED.get("labels"):

@@ -3157,3 +3157,82 @@ compare identical, audit clean as at the forty-fourth handoff). zzzzb configured
 Files changed: parse_batch17.py (zzzzb block, +254 -12 vs b44/before45), sources_batch17.json (+2 pins), PROGRESS.md (+
 checkpoint), this file. effects_fix.py, law_records.json, dupsame_allow.json, README, jurisdiction.json unchanged.
 NEXT: zzzzb TO DO 2 (rest, a-f), then 5-10, in order.
+
+## Forty-sixth session (2026-11-02): CC 1916 (part zzzzb) items 2 (a-f) and 5-10 DONE; PUBLISHED
+Claim taken at the start ('gitlaw-BR-46 alan-dell 2026-11-02T06:24Z'), released at the end. Scratch: .gitlaw-scratch/brazil-b44
+(before46/ = session-start copies; logs46/; pids46.txt; new tools: setup46.py, rr46.py, bdiff46.py, dec46.py (Decreto 3.725
+art. 3 items from the cached page), decs46.py (decisions of a part), art2002.py (an article's text on a cached page),
+firstline46.py (firstline.py with the Introdução keys art-in-), lx46.py (LexML, robots first, 6.5 s apart); cmp2002.py now
+counts ONLY units listed in M._CC16_EXPLAINED as explained (old copy cmp2002.bak45.py)).
+Requests: robots.txt of www.lexml.gov.br (read twice, once per lx46 run; b44/robots46/) and 5 LexML /urn/ records, 6.5 s apart
+(decreto.lei:1943-09-20;5860 (no record: wrong day), decreto.lei:1945-11-22;8207, lei:1981-12-10;6969, lei:1981-11-06;6952,
+decreto.lei:1943-09-30;5860). No archive.org, no Common Crawl, no Arquivo.pt, no live Planalto, no challenge page.
+Coordinator decisions applied: art. 263 XI's 'Redação dada pelo Decreto nº 3.725' line credited to Lei 4.121 (its NOTE_FIX
+reason rewritten as the decision line: the decree adds XI once, its list gives no second wording); the one-wording lines stand
+1917 -> repeal with ONE decision line (_W_CC16_ONEWORD; counts now 140 listed + 2 unlisted, see below).
+### Done (parse_batch17.py zzzzb block only, +325 -6 vs before46 (the 6 removed lines are this block's own: the decree-unit
+regex, the plain-line skip, the 263 XI reason); effects_fix.py unchanged; sources_batch17.json +1 pin law:lei-3447-1958 (same
+url/ts as law:lei-3447-1957); law_records.json +1 record lei-9610-1998 (batch8's url, for uniqlaws))
+2a. _W_CC16_ONEWORD (counts from CC16_USED). The decree-unit reader now also takes items after a comma (', Art. 883:'), 'Ao
+   art: 346' and 'Art. 248;' (192 articles, was 189): 346 and 883 moved from 'unlisted' to 'listed'.
+   Unlisted ones read: art. 332 = the 8.560 note misplaced on art. 333 (2002 page: 'Art. 332. Revogado pela Lei n° 8.560');
+   note moved, 332 ends 30.12.1992, 333 to the repeal (_W_CC16_332). Art. 1.605 § 1º: the 2002 page prints '§ 1º Revogado
+   pela Lei n° 6.515, de 26.12.1977' -> note added, ends 27.12.1977 (_W_CC16_1605) [NOT in the coordinator's ruling, which
+   had it standing to the repeal: new evidence from the official 2002 page; revert = drop the note1605 block]. Left unlisted
+   (stand as printed): art. 9 parágrafo único (Decreto 20.330's renumbering, ends by next-label), art. 413 VI.
+2b. _CC16_SUPPRESSED: art. 1.372 parágrafo único and art. 1.787 end 22.1.1919 'dec-suppressed' (_W_CC16_SUPPR, which also says
+   1.786 par. único / new 1.787 and 243 par. único are not printed as moved, and art. 178 § 10 X). The marker line 'X.
+   (Eliminado pelo Decretoi nº 3.725, de 1919)' (keyed art-0179) is dropped (CC16_USED 'elim'). Decree additions printed with
+   no note start 22.1.1919: art. 178 § 6º XIII, § 9º VI, art. 242 IX, art. 391 IV (_CC16_DEC_ADDED, _W_CC16_ADDED).
+2c. art. 220: the unstruck 1916 caput ends 22.1.1919 when the decree's wording starts (cc16_plainend; _W_CC16_PAIRS lists the
+   two pairs, arts. 139 and 220). Art. 340: one wording (caput unstruck), in _W_CC16_ONEWORD.
+2d. Mixed lines (443 III, 458, 624 caput and par. único): one line each, as printed (_W_CC16_MIXED).
+2e. art. 35 §§ 3º-4º start 22.1.1919 (§ 4º set by the block; § 3º by its note) (_W_CC16_ART35).
+2f. Introdução arts. 5 and 20 par. único: in the one-wording count and named in B13.OPEN_ITEMS[_LCC16].
+5. Labels: 'Art.. 1.659.' (1.659, 1.661-1.663, 1.665-1.667, 1.669, 1.720), 'Art. 1. 400.', 'Art. 1.1504.' read as 'Art. N.' and
+   filed with their following lines under their own article (_W_CC16_LABELS); art. 194's closing formula moved from art. 195's
+   'rubrica' to art. 194 (_W_CC16_194). 332/333 as in 2a.
+6. art-0693 fine (1916 -> 2.437 1956 -> 5.827 1972); 1.723/1.787 explained; preamble explained (2002 legend).
+   Also found: the shared 'rows' rule had given 1916 lines later starts (art. 12 II-IV from 1977, art. 178 § 6º X-XIII from
+   1956): set back to 1917 (XIII to the decree) and removed from B3.ROWS (_W_CC16_ROWS); the shared 'next-wording' decision
+   entries for this act removed (the model replaces those ends).
+7. Introdução: B13.OPEN_ITEMS[_LCC16] (stands as printed; LICC 1942 has no revoking clause; not on the 2002 page).
+8. No start/end before 1.1.1917 in the dump: no pre-1917 fold (said in the PUBLISH line).
+9. Law days (lawdays.py): Lei 6.952/1981 published 10.11.1981 (page '1973'; LexML p. 21093; LAW_FIELD_FIX + VIGENCIA_FIXED):
+   art. 134 §§ 1º-5º now start 10.11.1981. Lei 6.969/1981 (page 'DOU 11.12.1980') and Decreto-Lei 8.207/1945 (page CLBR only)
+   corrected by page_info from the cached LexML records (11.12.1981 -> in force 25.1.1982, 45 days, art. 11; 27.11.1945).
+   Decreto-Lei 5.860/1943: of 30.9.1943 (page head '20 de setembro'), DOU 2.10.1943 (LAW_FIELD_FIX enacted+published,
+   VIGENCIA_FIXED). NOTE_FIX 'Lei nº 6.515, de 1970' -> 1977 (link L6515.htm#art50), 'Lei nº 3.447, de 1957' -> 1958 (two
+   forms; Lei 3.447 of 23.10.1958). VIGENCIA_FIXED lei-2437-1955 1.1.1956 (art. 3) so it has a decision line. Last change
+   before the repeal 16.2.2001 (Lei 10.192/2001).
+10. Decision lines _W_CC16_MODEL (end model), _W_CC16_ORDER (print order, 16 articles), _W_CC16_REPEALX (replaces the built-in
+   CC16 REPEAL CHECK line, which listed ~1,200 exact-text differences; 370 KB less in the part) from _CC16_EXPL_GROUPS /
+   _CC16_EXPLAINED (46 units). cmp2002 on the installed part: ok 1691, explained 46, 0 differ, 0 only (+21 Introdução units).
+   pipe.sh zzzzb x2 (logs46/pipe1.out, pipe2.out): pipe2 parse 43303bae x2, 0 problems, 0 moves, dupcheck/leakcheck/pubgap/
+   missorig 0, uniqlaws 0 (pipe1 had 1: lei-9610-1998 url case -> law_records.json), dupsame 0; firstline.py CRASHES on
+   art-in- keys (shared checker, not changed): firstline46.py gives 0. Benign, law text as printed: dupline 3 / ordercheck 1
+   (art. 178 alíneas a)-c) under § 9º I and V), quotecheck 2 (arts. 588, 1.611), latecaput 28 (1916 lines under caput-only
+   rewrites, per the end model); merged 297 acts, 4075 versions, 2851 commits, 0/0, identical, audit clean main + futuro.
+   PUBLISHED: install.py zzzzb -> corpus.d/99-batch17zzzzb.json 1ee67c17 + .PUBLISH (b44/publish-zzzzb.txt); docs.py
+   b44/rows-zzzzb.json (README row; jurisdiction.json 297 acts 4075 versions, entry 'Lei 3.071/1916 1917-2003 (29)', once).
+   Final merged build of the installed folder (logs46/fb1.log): 297 acts, 4075 versions, 2851 commits, check 0/0, 0 trailer
+   errors, --compare identical, audit_push clean main + futuro.
+- PIDs (all mine, foreground through run.py via rr46.py unless said; all exited): see b44/pids46.txt (setup46 39920 ... fb1
+  32952); pipe.sh runs 1 and 2 were background tasks of mine (their run.py PIDs are in logs46/pipe1.out / pipe2.out), each
+  waited on by one Monitor until-loop of mine that ended by itself. Outside the wrappers (small local reads/writes, no
+  network): at the start ls/head/cat/grep of brazil-law, b44, the brief and the handoff; sed copies writing tools/setup46.py,
+  rr46.py, bdiff46.py, lx46.py, firstline46.py; one sed edit of tools/dec46.py; a heredoc writing tools/decs46.py; one python
+  heredoc patching tools/cmp2002.py and one rewording two lines of parse_batch17.py (LF kept); small cat/grep reads of my own
+  logs46 files and pids46.txt; tool-written files (Write/Edit): parse_batch17.py, sources_batch17.json, law_records.json,
+  tools/dec46.py, tools/art2002.py, rows-zzzzb.json, publish-zzzzb.txt, this text. Nothing running.
+
+## State at handoff (batch 17, forty-sixth session, 2026-11-02)
+PUBLISHED: zzzzb (Código Civil de 1916, 29 versions 1917-2003). Installed: 297 acts, 4075 versions, 2851 commits, check 0/0,
+compare identical, audit clean main + futuro; uniqlaws 0, dupsame 0; README row + jurisdiction.json updated.
+Files changed: parse_batch17.py (+325 -6 vs b44/before46), sources_batch17.json (+1 pin), law_records.json (+1 record),
+corpus.d/99-batch17zzzzb.json + .PUBLISH, repo/README.md (+1 row), repo/jurisdiction.json, PROGRESS.md, this file.
+effects_fix.py, dupsame_allow.json unchanged. Claim released.
+FOR THE COORDINATOR: (1) art. 1.605 § 1º now ends with Lei 6.515/1977 from the 2002 page's note (the ruling had it standing
+to the repeal); (2) art. 1.786 par. único -> art. 1.787 (decree text gives the new wording, page does not print it) is left
+as printed + decision; could be replayed from the decree's text if wanted; (3) shared batch10/.tmp/firstline.py crashes on
+'art-in-' unit keys (Introdução); pipe.sh shows the traceback. NEXT: none open for zzzzb; OPEN / DATED RE-CHECKS unchanged.
