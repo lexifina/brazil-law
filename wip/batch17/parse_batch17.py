@@ -8162,9 +8162,8 @@ _W_CCOM_TU = ("Código Comercial Título Único (Da administração da justiça 
               "between the two pointers on the title's heading is not a line of the Code and is left out")
 _W_CCOM_VIDE = ("Código Comercial: Planalto's 'Vide' pointers (Lei 1.237/1864, Decreto-Lei 1.608/1939 and Lei 5.869/1973 on the "
                 "page head and the Título Único; Decreto-Lei 305/1967 on arts. 11 to 19; Decreto-Lei 7.661/1945 on the Parte "
-                "Terceira, Das quebras, arts. 797 to 913) strike no words and are not versions. The Parte Terceira's rules on "
-                "bankruptcy were replaced in practice by the later falência laws, but Planalto's pages strike none of its lines "
-                "and note no revocation, so it stands as printed")
+                "Terceira, Das quebras, arts. 797 to 913) strike no words and are not versions. Planalto's pages strike none of "
+                "the Parte Terceira's lines and note no revocation, so it stands as printed")
 _W_CCOM518 = ("Código Comercial art. 518: Planalto prints it in the same paragraph as the end of art. 517 (no paragraph break "
               "after 'benefício deste (artigo nº. 494).'); it is read as an article of its own, as the consolidated page prints it")
 CCOM_USED: list[str] = []
@@ -8276,8 +8275,8 @@ B.EXPLAINED[_LCCOM] = {
 }
 B13.OPEN_ITEMS[_LCCOM] = (
     "Código Comercial (open items): the Parte Terceira (Das quebras, arts. 797 to 913) is printed unstruck with 'Vide "
-    "Decreto-Lei nº 7.661, 1945' pointers; bankruptcy law was later governed by other acts (Decreto-Lei 7.661/1945, Lei "
-    "11.101/2005), but no official text read for this record notes a revocation of these articles, so they stand as printed. "
+    "Decreto-Lei nº 7.661, 1945' pointers; no official text read for this record notes a revocation of these articles, so "
+    "they stand as printed. "
     "The Título Único is printed unstruck with pointers to the procedural codes (Decreto-Lei 1.608/1939, Lei 5.869/1973) "
     "and stands as printed")
 
