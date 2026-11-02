@@ -9600,6 +9600,22 @@ if any(a["slug"] == _LPELE for a in ACTS):
                 paras.insert(paras.index(o) + 1, v)
             elif record:
                 B8.SPAN_MISSED.append(f"{_LPELE} art. 55-B caput (Lei 13.322): words {bool(words)}, {len(old)} MP lines")
+        # (c) art. 56 § 3º in Lei 12.395/2011's wording: Planalto prints it among the 2001 lines, above Lei 12.395's § 2º; it is
+        # put before Lei 12.395's § 4º, so the paragraphs of 2011-2015 read in order
+        ps = [p for p in paras if p["unit"] == "art-56" and not p["heading"]]
+        mv = [p for p in ps if p["label"] == "§ 3º" and p.get("start_law") == "lei-12395-2011"
+              and p["text"].startswith("§ 3º Os recursos a que se refere o inciso VI serão")]
+        tg = [p for p in ps if p["label"] == "§ 4º" and p.get("start_law") == "lei-12395-2011"
+              and p["text"].startswith("§ 4º Os recursos de que trata o § 3º")]
+        if len(mv) == 1 and tg:
+            m, t = mv[0], tg[0]
+            if paras.index(m) != paras.index(t) - 1:
+                paras.remove(m)
+                paras.insert(paras.index(t), m)
+            if record:
+                PELE_USED.setdefault("order56", []).append("art-56 § 3º")
+        elif record:
+            B8.SPAN_MISSED.append(f"{_LPELE} art. 56 § 3º order: {len(mv)} lines, {len(tg)} targets")
 
     _span_fixPELE = B8.apply_span_fix
 
@@ -9621,6 +9637,9 @@ if any(a["slug"] == _LPELE for a in ACTS):
                  "esporte permanecerão sob a responsabilidade da Justiça Desportiva de que tratam os arts. 49 a 55.'). "
                  "Planalto's annotated page prints only the MP's caput, struck; Lei 13.322's caput is added in Lei 13.322's "
                  "own words from 29.7.2016, credited to it (the consolidated page prints the same words)")
+    EXTRA.append("Lei 9.615 art. 56 § 3º: Planalto prints Lei 12.395/2011's wording among the lines of Lei 10.264/2001, above "
+                 "Lei 12.395's § 2º; it is placed before Lei 12.395's § 4º, so that the paragraphs of 2011 to 2015 read in "
+                 "order (no words change)")
     B.EXPLAINED[_LPELE] = {
         "art-18": "the consolidated page prints the revoked inciso II as a bare label with its revocation note ('II - (Revogado "
                   "pela Lei nº 12.395, de 2011).'); the history leaves revoked lines out",
