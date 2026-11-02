@@ -4605,3 +4605,116 @@ Files changed: parse_batch17.py (zzzzn sixty-first-session block; PARTS comment;
 FOR THE COORDINATOR: (1) the articles are published with the Anexos held back (precedent: Leis 9.986 and 11.182's Anexos are not part of the history); confirm, or ask for the act to be held until the Anexos replay; (2) another block's VIGENCIA_FIXED text for lei-12688-2012 (the Lei 12.462 part, near line 3508) cites 'art. 34' for the vigência clause, which is art. 36 on Lei 12.688's page (wording only, its day 19.7.2012 is right).
 TO DO: the Anexos of Lei 12.546 (list above), then the rest of the ranked list.
 OPEN / DATED RE-CHECKS unchanged.
+
+## Sixty-second session (2026-11-02): coordinator decisions on zzzzn and part v; the Anexos of Lei 12.546 surveyed against every act's own list (still held)
+Claim taken at the start ('gitlaw-BR-62 alan-dell 2026-11-02T17:41Z', setup62.py through rr62/run.py, PID 33240), released at
+the end (finish62.py). Scratch: .gitlaw-scratch/brazil-b44 (before62/ = session-start copies of every parser, corpus.d,
+corpus.json and the shared files); logs62/ (pv1.out = pipe.sh v; tr-l12546.json = the page's tables as rows; an1-an6 = annex
+surveys; aa1 = installed acts); pids62.txt; edits62/ (fix-a.py -> fix-a.json = the parser spec, applied by ed62.py through
+run.py; an-s1..s3.json = survey specs; publish-v.txt; session62.md = this text). New tools: mk62.py (61 -> 62 copies, standalone
+token only, run through run.py directly), tr62.py (a cached page's tables as rows of cells, struck parts marked), rw62t.py
+(rows of one table), an62.py (rewritten: an amender's code list from its page text), an62c.py (Anexo I rows parsed into item +
+notes, compared act by act with each act's own list), an62d.py (is a code a printed row, or inside a printed heading?), an62e.py
+(Lei 12.715 art. 78 § 2º III/IV codes against MP 563's and Lei 12.715's lists), install62.py (re-PUBLISH of a published part),
+finish62.py. Requests: none (no network of any kind; every page read was cached). No Common Crawl, LexML, Arquivo.pt,
+archive.org, STF or live Planalto; no challenge page.
+
+### Coordinator decisions applied
+1. Lei 12.546's articles published without the Anexos: confirmed (precedents Leis 9.986 and 11.182). The decision line and the
+   open item stay as published; nothing changed in zzzzn. FOR THE COORDINATOR (1) of the sixty-first session is closed.
+2. Part v (Lei 12.462, RDC): the VIGENCIA_FIXED text for lei-12688-2012 now cites the vigência clause as art. 36 (Lei 12.688's
+   page: 'Art. 34. (VETADO).', 'Art. 36. Esta Lei entra em vigor:'; read in txt61/lei-12688-2012.txt). Edit: parse_batch17.py
+   (block 'part v', P.VIGENCIA_FIXED["lei-12688-2012"]), one replacement 'art. 34:' -> 'art. 36:' via ed62.py + edits62/fix-a.py
+   under run.py (parser backed up in before62/parsers first). pipe.sh v (logs62/pv1.out): parses baa9e327 x2, 4 units differ
+   from the consolidated page (as published, explained), 0 problems, effects_fix 0 moves; flags unchanged from the published
+   part (dupline 15, dupcheck 1, leakcheck 10, overlap 1 SAME: the quoted amendments printed in arts. 48 and 53; quotecheck =
+   quoted amendments; order 0; missorig 0; latecaput = struck lines under rewritten capita, as published); uniqlaws 0; dupsame 0
+   (1 allowlisted); merged 309 acts, 4324 versions, 2962 commits, check 0/0, --compare identical, main_identical, audit_push
+   clean main + futuro; part sha 55b2e018. Unit diff (pdiff62, installed vs new): decisions[20] (only 'art. 34' -> 'art. 36')
+   and sources[0].notes/.requests (pin counts of the shared pin file, as every re-PUBLISH); no law text, version, day or law
+   record changes. install62.py v: corpus.d/99-batch17v.json replaced (old copy b44/eff62/99-batch17v.before.json), one line
+   appended to 99-batch17v.PUBLISH (edits62/publish-v.txt), re-PUBLISHed under the standing yes for verified rebuilds. README row
+   and jurisdiction.json unchanged (no count changes).
+
+### Anexos of Lei 12.546 (zzzzn): survey done, NOT modelled, still held back
+Read from the page's HTML tables (tr62.py on law:lei-12546-2011 -> logs62/tr-l12546.json; table 1 = MP 563's Anexo, 791 rows;
+tables 2 and 3 = Anexo I under its two denominations, 1,281 data rows each, identical; table 4 = Anexo II, MP 601, 19 rows;
+table 5 = Anexo II, Lei 12.844, 18 rows). Each row is one cell: the code, then its notes. The txt dump's line pairing of codes
+and notes (an61/an1 counts) is unreliable; use the table rows. Own lists read from txt59 (MP 563 l. 971, Lei 12.715 l. 1768,
+MP 582 l. 797, Lei 12.794 l. 368, MP 601 l. 688 and 756, Lei 12.844 l. 1125 and 1196, MP 612 art. 26 l. 403-440, Lei 12.844
+art. 14 l. 563-594) and txt61 (Lei 13.043 art. 51 l. 1136-1143).
+What replays exactly (no decision needed):
+- MP 563's Anexo (table 1) = MP 563's own list, 791 rows (9028.90.90 printed twice in both), all unstruck, no notes. In force
+  1.8.2012 (art. 54 § 2º, VIGENCIA_FIXED mp-563-2012) to 18.9.2012, when Lei 12.715's Anexo replaces the whole table (Lei 12.715
+  reprints many codes in another form, e.g. '84.67.11.10' for '8467.11.10', '9506.62.00' for '95.06.62.00', '85.11 (exceto
+  8511.50.90)': those rows change wording that day; 47 MP 563 rows are not in Lei 12.715's list and end that day).
+- Lei 12.715's rows: page 829 (11 '(VETADO)') = its own list 829. Art. 78 § 2º III (19 codes) and IV (23 items, of which 11
+  are the vetoed rows and 12 printed) start 1.1.2013; none of them is in MP 563's list, so no gap question. The others start on
+  publication 18.9.2012 (art. 78 § 2º puts arts. 53-56 in force on 1.8.2012 'produzindo efeitos a partir de sua regulamentação':
+  the articles' history already uses publication for Lei 12.715's other changes; same rule).
+- MP 582's rows from 1.1.2013 (art. 20 I), Lei 12.794's (its conversion) from 3.4.2013 (publication kept): 356 rows carry both
+  notes (pairing: same row continues, credit changes on 3.4.2013).
+- MP 601's 65 codes 1.4.2013 (art. 7 III) to its lapse 4.6.2013; Lei 12.844's 65 (art. 14 I, its Anexo I) = page 65 exactly,
+  from 1.11.2013 (art. 49 II b)); between 4.6 and 1.11.2013 they are absent (Planalto: 'Vigência encerrada' after MP 601).
+- MP 612 art. 26 I a) to u) (21 items) = the page's 19 'Incluído' + 2 'Redação dada' rows (8526.91.00, 8526.92.00), checked by
+  name, not by script. Days (art. 28): u) 9619.00.00 and II (subtraction of 7403.21.00, 7407.21.10, 7407.21.20, 7409.21.00,
+  7411.10.10, 7411.21.10, 74.12: the 7 'Vide Medida Provisória nº 612' rows) from 1.8.2013; a) to s) from 1.1.2014 (never in
+  effect: lapse 2.8.2013); t) 9404.10.00 on publication 4.4.2013 to the lapse. So u) and the II subtraction are in effect on
+  1.8.2013 only, then Lei 12.844 art. 14 III (adds 9404.10.00 and 9619.00.00) and V (subtracts the same 7 codes) from 1.8.2013
+  (art. 49 III), and its I re-adds those 7 from 1.11.2013 (they are in its Anexo I). Art. 14 IV subtracts Capítulo 93 and the
+  17 other MP 612 codes from 1.8.2013 (they were never in effect: nothing to end).
+- Anexo II: MP 601's (table 4, 19 rows) = its own list, 1.4.2013 to 4.6.2013; Lei 12.844's (table 5, 18 rows, no 'produtos
+  farmacêuticos' row) = its own list, from 1.11.2013 (art. 49 II a), § 3º XII). Planalto's struck/plain marks in table 5 are
+  irregular (row 1 plain, rows 2-18 struck): read as one table. The 'Observação' line after each list is printed on the acts'
+  pages, not in the page's tables: decide whether it is a line of the Anexo (it is in both acts' texts).
+- Both Anexos: MP 774/794 gaps (1.7-8.8.2017 and 7-8.12.2017, as the articles), revoked from 1.9.2018 (Lei 13.670 art. 12 II c),
+  VIGENCIA_FIXED lei-13670-2018).
+What does NOT replay without a coordinator decision (why the Anexos stay held):
+- D1 Subtractions of codes that are inside a printed heading, with no printed row to remove: MP 582 art. 2 II and Lei 12.794
+  art. 2 II subtract 3923.30.00 (inside Lei 12.715's row '39.23'); Lei 13.043 art. 51 (from 1.3.2015, art. 113 IV a)) excludes
+  1901.20.00 and 1901.90.90 (inside 'Capítulo 19') and 5402.33.10, 5402.46.00, 5402.47.00 (inside 'Capítulo 54'). Showing them
+  needs wording no page prints ('Capítulo 19 (exceto ...)'). Options: (a) the row's words stay and the exclusion is a version
+  that changes no words, with a decision line (as court rulings); (b) keep the Anexos held.
+- D2 8544.49.00: MP 582 art. 2 lists it both in I (its Anexo) and in II (subtracted); Lei 12.794 art. 2 the same; Planalto
+  prints it struck with 'Incluído pela Mpv nº 582' and 'Subtraído pela Lei nº 12.794'. Proposed: never in the list (the same
+  article adds and removes it), with a decision line; or 1.1.2013 to 3.4.2013 as Planalto's notes read.
+- D3 The 10 codes MP 582 added that Lei 12.794 did not (7207.11.10, 7208.52.00, 7208.54.00, 7214.10.90, 7214.99.10, 7228.30.00,
+  7228.50.00, 8471.30, 9022.14.13, 9022.30.00; printed struck with MP 582's note only): end 3.4.2013 (conversion without them)
+  or 19.7.2013 (Lei 12.844 art. 14 VI subtracts them, on publication, art. 49 V)? Art. 14 VI also subtracts 3006.30.11 and
+  3006.30.19, already excepted in Lei 12.794's row '30.06 (EXCETO OS CÓDIGOS 3006.30.11 E 3006.30.19)' (no change).
+- D4 Planalto's notes against the acts' lists (proposed: follow the acts' own lists, each read on its page, with a decision line):
+  6901.00.00 is in MP 582's list but printed with Lei 12.794's note only (start 1.1.2013, not 3.4.2013); 8532.29.90 is printed
+  with Lei 12.715's and MP 601's notes, but MP 601's list does not have it (Lei 12.715's row, uninterrupted); MP 582's row reads
+  '30.06', Lei 12.794's '30.06 (EXCETO OS CÓDIGOS 3006.30.11 E 3006.30.19)' (Planalto prints only the later words): wording
+  change on 3.4.2013.
+TO DO (exact; after D1-D4): model each Anexo as one unit (anexo-i, anexo-ii; MP 563's table as the first wording of the unit
+'anexo', as the page prints it under the title 'Anexo'), one line per printed row (codes printed twice stay twice: 9022.29.90,
+9027.80.99, 9028.90.90, as in the acts' lists), dates per row as above; read rows from the tables (tr62.py), not the txt; build
+the expected list for every day from the acts' own lists (an62/an62c) and check the replay against it for each version (not
+only 31.8.2018), then the last version against table 2 as printed (minus the rows ended by the decisions); then pipe.sh zzzzn,
+re-PUBLISH, README row, drop the held-back EXTRA line and the open item's Anexo sentence.
+
+### Ranked list
+Item 10 (Leis 10.865, 9.532, 12.546) is done (12.546 articles only), so the forty-seventh session's list is finished. Fresh
+candidates, not installed (checked against the 309 installed acts with allacts47.py, logs62/aa1.log; pages NOT pinned, robots
+NOT read, nothing surveyed): Lei Complementar 7/1970 (PIS), LC 70/1991 (Cofins), LC 24/1975 (ICMS convênios), LC 76/1993
+(desapropriação para reforma agrária), LC 110/2001 (FGTS), Lei 4.380/1964 (SFH), Lei 8.177/1991 (TR), Lei 9.140/1995
+(desaparecidos políticos), Lei 4.898/1965 (abuso de autoridade, revoked by Lei 13.869/2019), Lei 7.102/1983 (segurança privada),
+Lei 12.871/2013 (Mais Médicos), Lei 14.193/2021 (SAF), Lei 14.790/2023 (apostas de quota fixa), Lei 15.040/2024 (contrato de
+seguro). Rank them first (size, MPs, annexes, futuro), pin and survey before configuring.
+
+- PIDs (all mine, all exited): pids62.txt (every rr62 run with its run.py PID: setup 33240 ... aa1 36640); mk62 14716 through
+  run.py directly; pipe.sh v as one background task of mine (its run.py PIDs in logs62/pv1.out: 3412, 40852, 39076, the check
+  runs, 48208, 27460, 4848, 28544), waited on by its notification. Failed runs: catf.py (PID 3180, rc 2: no such script), ls1
+  (PID 51440, rc 1: run.py given to itself), ed-s2 (PID 53912, rc 1: spec file missing). Outside the wrappers (slips, no
+  network): one `ls` of the scratch folder at the start; one `python -c "print(1)"` and `| head -0` in a no-op call; `cut`, `tr`,
+  `awk`, `sed` and `grep -v` used as filters on rr62 output in several calls; `sh pipe.sh v` with a redirect. Reads otherwise
+  with the Read/Grep/Glob tools; scratch tools and specs written with Write/Edit. The one parser edit went through ed62.py under
+  run.py. Nothing running.
+
+## State at handoff (batch 17, sixty-second session, 2026-11-02)
+PUBLISHED: part v re-PUBLISHed (Lei 12.462; Lei 12.688's vigência clause cited as art. 36; 55b2e018). zzzzn unchanged (articles published, Anexos held back: confirmed by the coordinator). Installed: 309 acts, 4324 versions, 2962 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws 0; dupsame 0; README + jurisdiction.json current (no count change).
+Files changed: parse_batch17.py (one wording fix in the part v block), corpus.d/99-batch17v.json + .PUBLISH (one line appended), PROGRESS.md, this file. Claim released.
+FOR THE COORDINATOR: the Anexos of Lei 12.546 need decisions D1-D4 above before they can replay exactly (D1: subtractions inside printed headings, 3923.30.00 and Lei 13.043 art. 51's five codes; D2: 8544.49.00 added and subtracted by the same article; D3: end day of MP 582's 10 codes Lei 12.794 dropped; D4: follow the acts' own lists where Planalto's notes differ). The ranked list is finished: a fresh one is proposed above (not surveyed).
+TO DO: the Anexos after D1-D4 (exact list above); then rank, pin and survey the fresh candidates.
+OPEN / DATED RE-CHECKS unchanged.
