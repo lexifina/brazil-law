@@ -8182,8 +8182,13 @@ if any(a["slug"] == _LCCOM for a in ACTS):
     for _n in ("(Revogado pelo Decreto do Poder Legislativo nº 2.044, de 1908:)",
                "(Revogado pelo Decreto do Poder Legislativo nº 2.044, 1908:)"):
         P.NOTE_FIX[_n] = ("(Revogado pelo Decreto nº 2.044, de 1908)",
-                          "Código Comercial Título XVI: the note reads 'Revogado pelo Decreto do Poder Legislativo nº 2.044, de "
-                          "1908:' (a decree of the Poder Legislativo, Decreto nº 2.044 of 31.12.1908, art. 57)")
+                          f"Código Comercial Título XVI: the note reads '{_n[1:-1]}' (a decree of the Poder Legislativo, "
+                          "Decreto nº 2.044 of 31.12.1908, art. 57)")
+    # the record of the Código Civil's own part (corpus.d/50-codes.json); the reader would take the page's index line
+    B8.EXTRA_LAWS["lei-10406-2002"] = {
+        "label": "Lei nº 10.406, de 2002", "title": "Institui o Código Civil.", "kind": "law", "enacted": "2002-01-10",
+        "published": "2002-01-11", "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406.htm",
+        "temporary_until": None, "restores": None, "note": None}
     EXTRA += [_W_CCOM_VIDE]
 _paragraphsCCOM = P.paragraphs
 
@@ -8276,6 +8281,8 @@ B.EXPLAINED[_LCCOM] = {
                "page has '(artigo nº. 618).'; the history keeps the annotated page's text",
     "art-730": "the consolidated page prints 'Arts. 731 a 739, revogados pela Lei nº 7.542, de 26.9.1986', a marker for the "
                "revoked articles, which its reading takes for a line of art. 730",
+    "preambulo": "the consolidated page's head ('Código Comercial' and the marker 'Arts. 1º ao 456, revogados pela Lei nº "
+                 "10.406, de 2002') is not read as a preamble there",
 }
 B13.OPEN_ITEMS[_LCCOM] = (
     "Código Comercial (open items): the Parte Terceira (Das quebras, arts. 797 to 913) is printed unstruck with 'Vide "
