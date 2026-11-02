@@ -9537,6 +9537,11 @@ if any(a["slug"] == _LPELE for a in ACTS):
          {"start": "2011-03-17", "start_law": "lei-12395-2011", "end": "2018-12-13", "end_law": "lei-13756-2018",
           "end_how": "successor", "gaps": _G841}, _W841_6),
         ((_LPELE, "art-06", "§ 4º", "§ 4º Trimestralmente, a Caixa Econômica Federal - CAIXA", 1), dict(_DUP841), _W841_6),
+        ((_LPELE, "art-42", "§ 1º", "§ 1º Salvo convenção coletiva de trabalho em contrário", 1),
+         {"start": "2020-10-16", "start_law": "mp-984-2020-fim", "restored": True},
+         "Lei 9.615 art. 42 § 1º: Medida Provisória 984/2020 (18.6.2020) rewrote it and lapsed on 15.10.2020 (Ato "
+         "Declaratório nº 133/2020); Planalto prints Lei 12.395/2011's wording struck above the MP's and again, unstruck, "
+         "below it: that copy is the paragraph in force again from 16.10.2020"),
         *[((_LPELE, "art-56", _lab, _pre, 1), dict(_DUP841), _W841)
           for _lab, _pre in (("I -", "I - 10% (dez por cento) serão destinados ao desporto escolar"),
                              ("II -", "II - 5% (cinco por cento) serão destinados ao desporto universitário"),
