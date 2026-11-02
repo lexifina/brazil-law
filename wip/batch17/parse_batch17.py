@@ -300,6 +300,9 @@ PAGES.update({
     # forty-eighth session: Lei Pelé (annotated page; the compiled page is the consolidated check)
     "l9615": "leis/l9615consol.htm",
     "l9615-compilado": "leis/l9615compilada.htm",
+    # forty-ninth session: Lei 10.931/2004 (annotated page; the compiled page is the consolidated check)
+    "l10931": "_ato2004-2006/2004/lei/l10.931.htm",
+    "l10931-compilado": "_ato2004-2006/2004/lei/l10.931compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -688,6 +691,10 @@ ALL_ACTS: list[dict] = [
     # forty-eighth session
     _act("lei-pele", "LPele", "l9615", "l9615-compilado", "lei-9615-1998",
          "Lei Pelé: normas gerais sobre desporto (Lei nº 9.615, de 24 de março de 1998)", 2),
+    # forty-ninth session
+    _act("lei-10931-de-2004", "L10931", "l10931", "l10931-compilado", "lei-10931-2004",
+         "Patrimônio de afetação, Letra de Crédito Imobiliário, Cédula de Crédito Imobiliário e Cédula de Crédito Bancário "
+         "(Lei nº 10.931, de 2 de agosto de 2004)", 2),
     # read from the capture of 27.10.2015 (before the repeal); its consolidated check is the compiled page of 29.10.2015
     _act("codigo-de-processo-civil-de-1973", "CPC73", "l5869-2015", "l5869compilada-2015", "lei-5869-1973",
          "Código de Processo Civil de 1973 (Lei nº 5.869, de 11 de janeiro de 1973)", 4),
@@ -832,6 +839,8 @@ PARTS: dict[str, list[str]] = {
     "zzzzc": ["lei-da-elaboracao-das-leis"],
     # forty-eighth session
     "zzzzd": ["lei-pele"],   # PUBLISHED in the forty-eighth session
+    # forty-ninth session
+    "zzzze": ["lei-10931-de-2004"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1171,6 +1180,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lc-95-1998": ("1998-05-28", "Lei Complementar 95/1998 art. 19: 'Esta Lei Complementar entra em vigor no prazo de noventa "
                                  "dias, a partir da data de sua publicação' (DOU 27.2.1998)"),
     "lei-9615-1998": ("1998-03-25", f"Lei 9.615/1998 art. 95: {_PUB} (DOU 25.3.1998)"),
+    "lei-10931-2004": ("2004-08-03", f"Lei 10.931/2004 art. 66: {_PUB} (DOU 3.8.2004)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1782,6 +1792,12 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                      "consolidação dos atos normativos que menciona.", "1998-02-26", "1998-02-27", PAGES["lcp95"]),
     "lei-9615-1998": _L("Lei nº 9.615, de 1998", "Institui normas gerais sobre desporto e dá outras providências.",
                         "1998-03-24", "1998-03-25", PAGES["l9615"]),
+    # the URL as the other parts' record of this Lei has it (uniqlaws)
+    "lei-10931-2004": _L("Lei nº 10.931, de 2004", "Dispõe sobre o patrimônio de afetação de incorporações imobiliárias, "
+                         "Letra de Crédito Imobiliário, Cédula de Crédito Imobiliário, Cédula de Crédito Bancário, altera o "
+                         "Decreto-Lei nº 911, de 1º de outubro de 1969, as Leis nº 4.591, de 16 de dezembro de 1964, nº 4.728, de "
+                         "14 de julho de 1965, e nº 10.406, de 10 de janeiro de 2002, e dá outras providências.",
+                         "2004-08-02", "2004-08-03", "_Ato2004-2006/2004/Lei/L10.931.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})

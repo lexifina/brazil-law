@@ -3311,3 +3311,88 @@ keys), sources_batch17.json (+2 pins: lcp95, law:lc-107-2001), corpus.d/99-batch
 law_records.json, bad_pins.json, dupsame_allow.json unchanged. Claim released.
 NEXT: the fresh ranked list above from item 2 (Lei 9.615/1998, Lei Pelé: survey first; heavy, MPs and Lei 14.597/2023's
 revocations). OPEN / DATED RE-CHECKS unchanged.
+
+## Forty-eighth session (2026-11-02): ranked list item 2, Lei 9.615/1998 (Lei Pelé), PUBLISHED as part zzzzd (31 versions)
+Claim taken at the start ('gitlaw-BR-48 alan-dell 2026-11-02T07:53Z'), released at the end. Scratch: .gitlaw-scratch/brazil-b44
+(before48/ = session-start copies (parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json, dupsame_allow.json,
+effects_fix.py, README.md, jurisdiction.json, PUBLISH, firstline.py, pipe.sh, both PROGRESS.md, corpus.d/99-batch17zzzzc.json);
+logs48/ (pipe1-3.out = the three pipe.sh runs); pids48.txt; new tools: setup48.py, rr48.py, bdiff48.py, finish48.py, idx48.py
+(local Common Crawl path index + pins by URL substring, no request), chain48.py (follows a pre-2001 MP reissue chain through
+iaonly's archive.org pinning), dec48.py (a part's decisions, version days, law days), multigrep48.py (a regex over several cached
+law pages), st48.py (a unit's lines on a day)).
+Requests: robots.txt of archive.org (200: Disallow /control/ /report/) and web.archive.org (404) read first (logs48/archive.org.txt,
+web.archive.org.txt); then archive.org only, through the shared client (iaonly.py): `pages` (2 pins: l9615 = leis/l9615consol.htm
+20261012184703, l9615-compilado = leis/l9615compilada.htm 20261019201546), `laws l9615` (15 new law pins), act-scoped `missing`
+(0), `gap` ato:adc-133-2020-mpv984 and law:mp-2141-1-2001, chain48 2.141-2 (law:mp-2141-2-2001, -2141-3, -2193-4, -2193-5,
+-2193-6). No LexML, no Common Crawl, no Arquivo.pt, no live Planalto, no challenge page.
+### Survey (Lei 9.615 page, 931 notes over 29 laws)
+- Lei 14.597/2023 does NOT revoke Lei 9.615: its art. 217 II, the clause that named it, is '(VETADO)' on its page (lgesp pin,
+  batch10); the page has no Lei 14.597 note. The heavy amenders: Leis 9.981/2000, 10.672/2003, 12.395/2011, 13.155/2015,
+  13.756/2018, 13.322/2016, 14.073/2020; MPs 2.141/2001, 502/2010, 671/2015, 718/2016, 841/2018, 846/2018, 984/2020, 229/2004,
+  2.049-24/2000, 2.216-37/2001.
+### 99-batch17zzzzd - PUBLISHED: Lei 9.615/1998 (lei-pele, LPele, 31 versions 1998-03-25 .. 2021-09-20)
+- Config: PAGES l9615 / l9615-compilado; act lei-pele (2 digits); PARTS zzzzd; ACT_DAY_ALL lei-9615-1998 25.3.1998 (art. 95, in
+  force on publication); ACT_LAWS_ALL lei-9615-1998 (ementa from the page; 24.3.1998, DOU 25.3.1998).
+- Block '# part zzzzd' (only when the act runs):
+  - MP fates: MP_PENDING mp-2141-2001 (chain read page by page: 2.141 DOU 24.3.2001 -> -1 23.4 -> -2 23.5 -> -3 22.6 'Revogada e
+    Reeditada pela MPv nº 2.193-4' -> 2.193-4 29.6 -> -5 27.7 -> 2.193-6 24.8.2001, same words throughout (2.193-6 read in full),
+    kept by EC 32 until Lei 10.672/2003 art. 5 revoked it); MP_PENDING mp-2049-2000 (edition 2.049-24, DOU 27.10.2000, art. 26 ->
+    art. 59) and mp-2216-2001 (text for this act); CONVERTED_FIX mp-229-2004 -> lei-11118-2005 ('ded 2005'); MP_LAPSE
+    mp-984-2020 restore 16.10.2020 (Ato Declaratório nº 133/2020, DOU 20.10.2020, read on its page). MP 841's lapse is batch 15's.
+  - VIGENCIA_PROVISION: (lei-13756-2018, lei-pele, art-18-a) 11.6.2019 (Lei 13.756 art. 47 I, 180 days from DOU 13.12.2018,
+    LC 95 art. 8 § 1º; batch 15's 13.12.2018 stays for its other changes); (lei-14117-2021, lei-pele, art-46-a) 30.4.2021 (art. 8
+    vetoed, the veto overridden, promulgation DOU 30.4.2021 printed on Lei 14.117's page).
+  - Lei 14.073/2020: LAW_FIELD_FIX published 15.10.2020 + VIGENCIA_FIXED (its footer reads 'DOU de 15.10 de 2020', which the reader
+    could not take; it had fallen back to the enactment day 14.10).
+  - TEXT_FIX: art. 46-A § 2º drops the link words 'Promulgação partes vetadas' at the line end.
+  - _paragraphs_pele: lifts 'Revogado, a partir de 31/12/2001, pela Lei nº 9.981, de 2000' out of the bingo lines' text.
+  - _pele_model (in an apply_span_fix wrapper, idempotent): (a) every struck line of arts. 59-81 with no end ends 31.12.2001 credited
+    to Lei 9.981 (art. 2 read on its page: 'Ficam revogados, a partir de 31 de dezembro de 2001, os arts. 59 a 81'); 57 of its lines
+    were left out before (undated); (b) art. 55-B caput in Lei 13.322/2016's own words ('... os arts. 49 a 55.') from 29.7.2016 (the annotated page
+    prints only MP 718's caput); (c) art. 56 § 3º (Lei 12.395) moved before Lei 12.395's § 4º (ordercheck).
+  - SPAN_FIX: art. 10 § 3º (VETADO) (notes with a missing ')': ends 13.12.2018 with the MP 841 gap); MP 841 art. 26 XI (read on its
+    page: arts. 6 II-IV, VI, §§ 1-4; arts. 8-10 whole; art. 56 IV, VI, VIII, §§ 1-10): art. 8 parágrafo único gets the MP gap, the
+    reprinted copies of art. 9 §§ 1-2 and art. 56 § 2º I-II / § 8º I-III are left out (duplicate) and their first copies end
+    13.12.2018 with the gap; art. 6 (Planalto's 'Redação dada pela MP 841' on VI, §§ 2 and 3 read as MP 841's revocation, its own
+    text): VI from 15.8.2015 (Lei 13.155), § 2º 1998 -> MP 502 (21.9.2010; its words printed with no note, found in MP 502's text)
+    -> Lei 12.395 (17.3.2011), § 3º 1998 -> Lei 12.395, § 4º Lei 12.395's line, all to 13.12.2018 with the MP 841 gap, their
+    reprints left out; notes of VI/§ 2º/§ 3º set to the real ones (the 'text before its law' check); art. 42 § 1º plain copy from
+    16.10.2020 (MP 984's lapse; the twin rule did the same at build time, now explicit).
+  - EXPLAINED (11 units): art-18/28/29 bare revoked labels on the compiled page; art-27/29/30 'no'/'nº' typesetting; art-31/46-a
+    '§ 4º (VETADO)' and art-90-a/90-b '(VETADO)' the compiled page leaves out; art-84 the 1998 '2º O disposto' printed without '§'
+    (kept as printed: no amending act's text or official record read; anchor 'art84§2'); art-92 'C.L.T.'/'C.L.T'.
+  - OPEN_ITEMS: 'Vide' pointers; Lei 12.868's art. 18-A 'produz efeitos a partir do 6º mês' kept at its in-force day (deferred
+    effect); earlier editions of the MP 2.049 chain not modelled.
+- Undated struck lines still left out (established rule): art. 29 § 7º I-V '(revogado)' (Lei 12.395's placeholders, struck, no day).
+- pipe.sh zzzzd (logs48/pipe3.out): ca2a7953 x2, 0 problems, 0 moves, 0 law records set; dupline 1 and overlap SAME 1 = art. 56
+  'I - (revogado);' printed under both § 2º and § 8º (Lei 13.756's text); dupcheck, firstline, pubgap, ordercheck, missorig 0;
+  leakcheck 32 = '(revogado)'/'(Revogado)' wordings the amending laws wrote (Leis 9.981, 10.672, 12.395, 13.756; listed in
+  logs48/leak2.log); quotecheck 4 = quoted words in the law (art. 15 § 2º, art. 18-A); latecaput = 1998 lines under later capita
+  (kept as law, or ended the same day: arts. 50, 52, 53, 55, 84, 88); uniqlaws 0, dupsame 0; merged 299 acts, 4108 versions, 2872
+  commits, check 0/0, --compare identical, audit_push clean main + futuro. install.py -> corpus.d/99-batch17zzzzd.json d1a45399 +
+  .PUBLISH (b44/publish-zzzzd.txt); docs.py b44/rows-zzzzd.json (README row; jurisdiction.json 299 acts 4108 versions, entry
+  'Lei 9.615/1998 1998-2021 (31)').
+- headyear (logs48/hy1.log vs b30/hy4.log): new BAD lines this session: law:lei-12876-2013 (the header's 'Vide Lei nº 12.876, de
+  2013' links L12867.htm, Lei 12.867's page) and law:mp-39-2002 (its first heading is the Lei 9.615 it amends): both are 'Vide'
+  pins only, credited nowhere; not added to bad_pins.json. Four other new BAD lines (dl-3725-1970, lei-3447-1957, lei-4123-1962,
+  lei-6515-1970) are earlier sessions' CC 1916 pins, unchanged here.
+- PIDs (all mine; foreground through run.py via rr48.py, listed in b44/pids48.txt: idx1 27708 ... bd11 47484, fb1 19448 (final
+  merged build of the installed folder, logs48/fb1.log: 299 acts, 4108 versions, 2872 commits, check 0/0, 0 trailer errors,
+  --compare identical, audit_push clean main + futuro), fbq 31272, fin1 28740 (handoff copies b44/*.after48.py, claim released);
+  all exited): setup48 11920 through run.py directly; pipe.sh runs pipe1-3 in the background as tasks of mine (their run.py PIDs in
+  logs48/pipe1-3.out), each waited on by its own notification; several rr48 runs waited on the cpu gate past the tool's 2-minute
+  limit and finished as background tasks of mine. Outside the wrappers (no network): one bash sed/grep making the session-48 tool
+  copies from the session-47 ones, one bash wc/grep of fetch_batch17.py, and one python reading stdin from a piped rr48 call
+  (st56, by mistake); tool-written files (Write/Edit): parse_batch17.py, b44 tools/rows/publish files, this text, PROGRESS.md.
+
+## State at handoff (batch 17, forty-eighth session, 2026-11-02)
+PUBLISHED: zzzzd (Lei 9.615/1998 Lei Pelé, d1a45399, 31 versions 1998-2021). Installed: 299 acts, 4108 versions, 2872 commits, check
+0/0, compare identical, audit clean main + futuro; uniqlaws 0, dupsame 0; README row + jurisdiction.json current. Files changed:
+parse_batch17.py (+282 -0 vs b44/before48: PAGES l9615/l9615-compilado, act lei-pele, PARTS zzzzd, ACT_DAY/ACT_LAWS lei-9615-1998,
+'# part zzzzd'), sources_batch17.json (+2 page pins, +15 law pins from `laws`, +7 gap/chain pins), corpus.d/99-batch17zzzzd.json +
+.PUBLISH (new), repo/README.md (+1 row), repo/jurisdiction.json, PROGRESS.md, this file. effects_fix.py, law_records.json,
+bad_pins.json, dupsame_allow.json, firstline.py, pipe.sh unchanged. Claim released.
+TO DO (fresh ranked list, item 2 done): 3 Lei 10.931/2004 (patrimônio de afetação / CCB); 4 Lei 8.171/1991 (política agrícola);
+5 Lei Complementar 97/1999 (Forças Armadas); 6 Lei Complementar 73/1993 (AGU); 7 Lei 5.250/1967 (Lei de Imprensa, ADPF 130); 8 Lei
+7.170/1983 (LSN, revoked by Lei 14.197/2021); 9 Lei 6.194/1974 (DPVAT); 10 heavy tax: Leis 10.865/2004, 9.532/1997, 12.546/2011.
+One act per part, survey first. OPEN / DATED RE-CHECKS unchanged.
