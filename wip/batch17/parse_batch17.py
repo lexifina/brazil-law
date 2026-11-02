@@ -7563,6 +7563,7 @@ if any(a["slug"] == _LBEM for a in ACTS):
         if act_slug == _LBEM:
             _reiq_model(paras, record)
             _redata_model(paras, record)
+            _effects_model(paras, record)
 
     B8.apply_span_fix = _apply_span_fix_bem
     _paragraphsBEM = P.paragraphs
