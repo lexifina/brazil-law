@@ -10158,7 +10158,10 @@ if any(a["slug"] == _LDPVAT for a in ACTS):
     B13.OPEN_ITEMS[_LDPVAT] = (
         "Lei 6.194 (open items): its Anexo (the table of permanent-disability percentages that Lei 11.945/2009 added for art. "
         "3), printed after the signature, is not included; the history holds the articles only. Planalto's 'Vide Medida nº "
-        "340, de 2006' pointers strike no words and are not modelled")
+        "340, de 2006' pointers strike no words and are not modelled. Art. 3 § 1º II in Medida Provisória 451/2008's wording "
+        "(16.12.2008 to 4.6.2009) reads 'na forma prevista na alínea “a”', as the Lei's page prints it; the Medida "
+        "Provisória's own page, which notes a rectification in the DOU of 22.12.2008, reads 'na forma prevista no inciso "
+        "anterior'; the history keeps the Lei's page")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
