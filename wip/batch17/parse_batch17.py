@@ -8997,11 +8997,13 @@ if any(a["slug"] == _LCC16 for a in ACTS):
             for p in ps:
                 k = p["cc16_path"][-1] if p.get("cc16_path") else None
                 if (k and k[1] != "cont" and k[0] >= 2 and not p["notes"] and p["start_law"] and p["start"] > _CC16_DAY
-                        and not p.get("cc16_dec") and not p.get("skip") and p["state"] != "plain"
+                        and p["start_law"] != "dec-3725-1919" and not p.get("skip") and p["state"] != "plain"
                         and b3 is not None and any(x.startswith(f"CC16 {unit} {p['text'][:40]!r}") for x in b3.ROWS)):
                     p.update({"start": _CC16_DAY, "start_law": None})
-                    if record:
-                        CC16_USED.setdefault("rows", []).append(f"{unit} {p['text'][:40]!r}")
+                    # the rows rule runs after the recording pass (in the rewrites), so this is noted in either pass
+                    tag = f"{unit} {p['text'][:40]!r}"
+                    if tag not in CC16_USED.setdefault("rows", []):
+                        CC16_USED["rows"].append(tag)
             # whole items the decree adds ('Accrescente-se') that the page prints with no note: from its day
             for p in ps:
                 if (any(unit == u and P.norm(p["text"]).startswith(t) for u, t in _CC16_DEC_ADDED) and not p["notes"]
