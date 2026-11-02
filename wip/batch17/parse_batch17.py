@@ -928,6 +928,18 @@ PARTS: dict[str, list[str]] = {
     # sixty-fifth session (TRIAL, not published)
     "zzzzr": ["lei-da-agricultura-familiar", "lei-complementar-63-de-1990"],
 }
+# sixty-fifth session: acts the unattended lane configures (batch17/auto_acts.json, one entry per act: part, slug, short,
+# page, path, law, title, digits, act_day, law_rec). Each entry was read from its own page (in force on publication, the
+# DOU day from the page's footer) and its part is published only after pipe.sh's full gate.
+import json as _json  # noqa: E402
+_AUTO_FILE = HERE / "auto_acts.json"
+AUTO_ACTS: list[dict] = _json.loads(_AUTO_FILE.read_text(encoding="utf-8")) if _AUTO_FILE.exists() else []
+for _e in AUTO_ACTS:
+    PAGES[_e["page"]] = _e["path"]
+    B.PAGES[_e["page"]] = _e["path"]
+    ALL_ACTS.append(_act(_e["slug"], _e["short"], _e["page"], _e["page"], _e["law"], _e["title"], _e["digits"]))
+    if _e["slug"] not in PARTS.setdefault(_e["part"], []):
+        PARTS[_e["part"]].append(_e["slug"])
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
 ACTS = [a for a in ALL_ACTS if a["slug"] in ENABLED]
@@ -1966,6 +1978,9 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                      "da arrecadação de impostos de competência dos Estados e de transferências por estes recebidos, "
                      "pertencentes aos Municípios, e dá outras providências.", "1990-01-11", "1990-01-12", PAGES["lcp63"]),
 }
+for _e in AUTO_ACTS:
+    ACT_DAY_ALL.setdefault(_e["law"], tuple(_e["act_day"]))
+    ACT_LAWS_ALL.setdefault(_e["law"], dict(_e["law_rec"]))
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
 B.ACT_LAWS.clear()
