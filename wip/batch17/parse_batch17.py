@@ -9566,7 +9566,8 @@ if any(a["slug"] == _LPELE for a in ACTS):
         "art-31": "the consolidated page leaves out '§ 4º (VETADO)', which the annotated page prints ('Incluído e vetado pela "
                   "Lei nº 10.672, de 2003'); the history keeps it as printed",
         "art-46-a": "the consolidated page leaves out '§ 4º (VETADO)', which the annotated page prints ('Incluído e vetado pela "
-                    "Lei nº 10.672, de 2003'); the history keeps it as printed",
+                    "Lei nº 10.672, de 2003'); the history keeps it as printed. Both pages end § 2º with the link "
+                    "'Promulgação partes vetadas', which the history leaves out (TEXT_FIX)",
         "art-90-a": "the consolidated page prints 'Art. 90-A.' with only its note ('Incluído e vetado pela Lei nº 10.672, de "
                     "2003'); the annotated page prints 'Art. 90-A. (VETADO)', which the history keeps as printed",
         "art-90-b": "the consolidated page prints 'Art. 90-B.' with only its note ('Incluído e vetado pela Lei nº 10.672, de "
