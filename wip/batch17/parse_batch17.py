@@ -7728,6 +7728,39 @@ _W_OTHER = ("Lei 11.196, other effects clauses: art. 60 is revoked by Lei 12.995
             "8.10.2025, and Planalto's page of Lei 11.196 prints only a struck reference to it")
 
 
+_XLBL = ("check artefact: the article quotes another law's dispositivo by a line holding only its label ('{}'), above the "
+         "inciso or alínea it changes; the check reads a line holding only a label as a revoked dispositivo and leaves it out "
+         "of the consolidated side")
+B.EXPLAINED[_LBEM] = {
+    "art-09": "the consolidated page prints, after art. 9's caput, Lei Complementar 214/2025's new § 1º of art. 11, with its "
+              "incisos I and II ('A suspensão de que trata o caput converte-se em isenção [...]', in effect from 1.1.2027, on "
+              "the future branch), in place of art. 9 § 1º, which stands until art. 9's revocation on 1.1.2027",
+    "art-11-b": "the consolidated page breaks § 5º (Lei 15.504/2026) after 'inciso II do' and prints the rest ('§ 2º deste "
+                "artigo deverá ser comprovada [...]') as a line of its own; the history joins the paragraph",
+    "art-110": "held with no day (art. 132 VII: effects from an act disciplining the matter, which no official text read here "
+               "names or dates): left out of the history; the consolidated page prints the article",
+    "art-114": "held with no day (art. 132 VI: effects from the ato conjunto under Decreto-Lei 2.287 art. 7 § 3º, which no "
+               "official text read here names or dates): left out of the history; the consolidated page prints the article",
+    "art-115": "held with no day, with art. 114 (art. 132 VI): left out of the history; the consolidated page prints the article",
+    "art-113": _XLBL.format("§ 2º."), "art-118": _XLBL.format("§ 2º."), "art-41": _XLBL.format("§ 8º."),
+    "art-63": _XLBL.format("§ 1º."), "art-44": _XLBL.format("§ 11.' and '§ 12."),
+    "art-48": "Lei 15.394/2026 (DOU 23.4.2026) quotes the whole of art. 48, ending '(NR)' with no dotted line, so its parágrafo "
+              "único falls with the 2005 caput (the annotated page strikes both); the consolidated page keeps the parágrafo "
+              "único under the new caput",
+    "art-56": "the consolidated page prints inciso IV twice, in Lei 12.859/2013's wording ('[...] para os fatos geradores "
+              "ocorridos a partir [...]', struck on the annotated page) and in Lei 14.183/2021's, which replaced it",
+    "art-57-d": "both Planalto pages break § 2º off after 'créditos adicionais previstos'; the history completes the sentence "
+                "from Lei 14.374/2022's promulgated text (TEXT_FIX on the annotated page only)",
+    "art-65": "§ 7º reads 'art. 8o' (a letter o) on the annotated page, as Lei 11.945/2009's own page prints it; the "
+              "consolidated page has 'art. 8º'",
+    "art-70": "I d): Lei 14.438/2022's wording is held with no day (effects from the start of FGTS Digital collection, a day "
+              "no official text read here gives), so Lei Complementar 150/2015's stands; the consolidated page prints "
+              "Lei 14.438's",
+    "art-83": "the consolidated page prints arts. 84 to 87, revoked by Lei 14.652/2023, as four lines 'Art. (Revogado pela Lei "
+              "nº 14.652, de 2023)' with no number, which its reading takes for lines of art. 83",
+    "titulos": "the consolidated page keeps the closing quotation mark of Lei 15.504/2026's amending text after the name of "
+               "Capítulo I; the history drops it (TEXT_FIX on the annotated page)",
+}
 _sfBEM = B7.stale_fix.fix
 _W70_PU = ("Lei 11.196 art. 70 parágrafo único II a) and b) (December 2007) stand from 2005: the rule that sets aside a second "
            "copy of a wording paired them with the struck a) and b) of art. 70 II (IOF), whose parent has the same label 'II -'")
