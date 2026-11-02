@@ -10647,6 +10647,10 @@ if any(a["slug"] == _L10865 for a in ACTS):
         "Congresso Nacional nº 46, de 2010). Medida Provisória 545/2011's wording ('XIII a XXI'; DOU 30.9.2011) to "
         "17.11.2011; Medida Provisória 549/2011's ('XIII a XXXII'; DOU 18.11.2011) from 18.11.2011 to 25.3.2012; Lei "
         "12.599/2012's ('XIII a XXI', the conversion of Medida Provisória 545; DOU 26.3.2012) from 26.3.2012")
+    # art. 15: Planalto prints Medida Provisória 668/2015's paragraph as '§ 1º -A.' (a space before the hyphen), so the
+    # reader labelled it '§ 1º' and it displaced § 1º from 1.5.2015; it is § 1º-A (Lei 13.137's line, which follows it)
+    B8.SPAN_FIX.append(((_L10865, "art-15", "§ 1º", "§ 1º -A. O valor da COFINS-Importação", 0), {"label": "§ 1º-A"},
+                        "Lei 10.865 art. 15: Medida Provisória 668/2015's paragraph, printed '§ 1º -A.', is § 1º-A"))
     _PU28 = "Parágrafo único. O Poder Executivo "
     B8.SPAN_FIX += [
         ((_L10865, "art-28", "Parágrafo único", _PU28 + "regulamentará o disposto no inciso IV do caput", 0),
@@ -10688,6 +10692,14 @@ if any(a["slug"] == _L10865 for a in ACTS):
                 if record:
                     L10865_EFF[k] = L10865_EFF.get(k, 0) + 1
         if record:
+            # counted on the final state (an earlier pass may already have set the days)
+            ps = [p for p in paras if p["unit"] == "art-08" and not p["heading"]]
+            L10865_EFF.update({
+                "12546 IV-VI start": sum(1 for p in ps if p.get("start_law") == "lei-12546-2011" and p.get("start") == "2012-04-01"
+                                         and p["label"] in ("IV -", "V -", "VI -")),
+                "563 start": sum(1 for p in ps if p.get("start_law") == "mp-563-2012" and p.get("start") == "2012-08-01"),
+                "563 end": sum(1 for p in ps if p.get("end_law") == "mp-563-2012" and p.get("end") == "2012-08-01"),
+                "13670 start": sum(1 for p in ps if p.get("start_law") == "lei-13670-2018" and p.get("start") == "2018-09-01")})
             for k, n in (("12546 IV-VI start", 3), ("563 start", 1), ("563 end", 7), ("13670 start", 15)):
                 if L10865_EFF.get(k, 0) < n:
                     B8.SPAN_MISSED.append(f"{_L10865} effect days art-08 {k}: {L10865_EFF.get(k, 0)} lines, {n} expected")
