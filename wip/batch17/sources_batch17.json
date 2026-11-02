@@ -2226,6 +2226,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-10173-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/LEIS_2001/L10173.htm",
+   "ts": "20261004230026",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-10200-2001",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/LEIS_2001/L10200.htm",
    "ts": "20261004103320",
@@ -2249,6 +2255,18 @@
    }
   },
   {
+   "id": "law:lei-10352-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/LEIS_2001/L10352.htm",
+   "ts": "20261019224438",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-10358-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/LEIS_2001/L10358.htm",
+   "ts": "20261004200014",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-10433-2002",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/L10433.htm",
    "ts": "20261018083400",
@@ -2258,6 +2276,12 @@
    "id": "law:lei-10438-2002",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/L10438.htm",
    "ts": "20261004205046",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-10444-2002",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/L10444.htm",
+   "ts": "20261004235156",
    "via": "wayback.py"
   },
   {
@@ -2446,6 +2470,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-11112-2005",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11112.htm",
+   "ts": "20261020014433",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-11119-2005",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11119.htm",
    "ts": "20261005193743",
@@ -2461,6 +2491,30 @@
    "id": "law:lei-11128-2005",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/L11128.htm",
    "ts": "20261019071519",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11187-2005",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11187.htm",
+   "ts": "20261004172445",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11232-2005",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11232.htm",
+   "ts": "20261004093221",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11276-2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11276.htm",
+   "ts": "20261018002809",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11277-2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11277.htm",
+   "ts": "20261019064347",
    "via": "wayback.py"
   },
   {
@@ -2482,9 +2536,33 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-11341-2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11341.htm",
+   "ts": "20260611200115",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-11357-2006",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11357.htm",
    "ts": "20261003214107",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11382-2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11382.htm",
+   "ts": "20261004072941",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11418-2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11418.htm",
+   "ts": "20261018120505",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11419-2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11419.htm",
+   "ts": "20261005030647",
    "via": "wayback.py"
   },
   {
@@ -2497,6 +2575,12 @@
    "id": "law:lei-11440-2006",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11440.htm",
    "ts": "20261016060327",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11441-2007",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11441.htm",
+   "ts": "20261016065516",
    "via": "wayback.py"
   },
   {
@@ -2608,6 +2692,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-11672-2008",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11672.htm",
+   "ts": "20261007100534",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-11692-2008",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11692.htm",
    "ts": "20261012180650",
@@ -2674,6 +2764,18 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-11965-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11965.htm",
+   "ts": "20260711231432",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-11969-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11969.htm",
+   "ts": "20260713030801",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-11970-2009",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11970.htm",
    "cc": {
@@ -2709,6 +2811,24 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-12122-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12122.htm",
+   "ts": "20260611195557",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-12125-2009",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12125.htm",
+   "ts": "20260710200935",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-12195-2010",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Lei/L12195.htm",
+   "ts": "20260616181248",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-12212-2010",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Lei/L12212.htm",
    "ts": "20261008065623",
@@ -2730,6 +2850,12 @@
    "id": "law:lei-12314-2010",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Lei/L12314.htm",
    "ts": "20261008154617",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-12322-2010",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Lei/L12322.htm",
+   "ts": "20261018044247",
    "via": "wayback.py"
   },
   {
@@ -4075,6 +4201,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-5925-1973",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1970-1979/L5925.htm",
+   "ts": "20261004232743",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-6036-1974",
    "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L6036.htm",
    "ts": "20261004092237",
@@ -4116,6 +4248,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-6246-1975",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L6246.htm",
+   "ts": "20260715081148",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-6248-1975",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6248.htm",
    "cc": {
@@ -4147,6 +4285,18 @@
    "id": "law:lei-6306-1975",
    "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L6306.htm",
    "ts": "20260514075506",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-6314-1975",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6314.htm",
+   "ts": "20260713002335",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-6355-1976",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6355.htm",
+   "ts": "20260715065947",
    "via": "wayback.py"
   },
   {
@@ -4219,6 +4369,36 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-6745-1979",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6745.htm",
+   "ts": "20260714190338",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-6771-1980",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L6771.htm",
+   "ts": "20261004200014",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-6780-1980",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L6780.htm",
+   "ts": "20260715075234",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-6820-1980",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L6820.htm",
+   "ts": "20260711000851",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-6851-1980",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L6851.htm",
+   "ts": "20261004072036",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-6903-1981",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L6903.htm",
    "ts": "20261016121908",
@@ -4237,9 +4417,33 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-7005-1982",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L7005.htm",
+   "ts": "20260611140418",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-7019-1982",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L7019.htm",
+   "ts": "20261017194534",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-7219-1984",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L7219.htm",
+   "ts": "20260715070851",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-7232-1984",
    "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L7232.htm",
    "ts": "20261017205833",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-7270-1984",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L7270.htm",
+   "ts": "20261004173639",
    "via": "wayback.py"
   },
   {
@@ -4263,6 +4467,18 @@
     "offset": "804370594",
     "length": "5891"
    }
+  },
+  {
+   "id": "law:lei-7359-1985",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L7359.htm",
+   "ts": "20260617095648",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-7363-1985",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L7363.htm",
+   "ts": "20260616192103",
+   "via": "wayback.py"
   },
   {
    "id": "law:lei-7415-1985",
@@ -4309,6 +4525,12 @@
     "offset": "420119586",
     "length": "3218"
    }
+  },
+  {
+   "id": "law:lei-7513-1986",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L7513.htm",
+   "ts": "20260715080920",
+   "via": "wayback.py"
   },
   {
    "id": "law:lei-7542-1986",
@@ -4527,6 +4749,18 @@
    }
   },
   {
+   "id": "law:lei-8038-1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L8038.htm",
+   "ts": "20261016045223",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-8079-1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1989_1994/L8079.htm",
+   "ts": "20260915061409",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-8134-1990",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L8134.htm",
    "ts": "20261019170751",
@@ -4568,15 +4802,69 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-8455-1992",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1989_1994/L8455.htm",
+   "ts": "20261016110516",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-8541-1992",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L8541.htm",
    "ts": "20261007190330",
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-8637-1993",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1989_1994/L8637.htm",
+   "ts": "20260715065322",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-8710-1993",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L8710.htm",
+   "ts": "20260715063636",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-8718-1993",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1989_1994/L8718.htm",
+   "ts": "20260715071947",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-8848-1994",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L8848.htm",
    "ts": "20260902061819",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-8898-1994",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1989_1994/L8898.htm",
+   "ts": "20260715074630",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-8950-1994",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1989_1994/L8950.htm",
+   "ts": "20261019074455",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-8951-1994",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L8951.htm",
+   "ts": "20261004132601",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-8952-1994",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L8952.htm",
+   "ts": "20261004130822",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-8953-1994",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L8953.htm",
+   "ts": "20261016091400",
    "via": "wayback.py"
   },
   {
@@ -4609,9 +4897,27 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-9028-1995",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9028.htm",
+   "ts": "20261016032002",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-9040-1995",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9040.htm",
+   "ts": "20260715074232",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-9065-1995",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L9065.htm",
    "ts": "20261004141045",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-9079-1995",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9079.htm",
+   "ts": "20260715071315",
    "via": "wayback.py"
   },
   {
@@ -4632,9 +4938,27 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-9139-1995",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9139.htm",
+   "ts": "20261018150112",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-9245-1995",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9245.htm",
+   "ts": "20261019075840",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-9250-1995",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L9250.htm",
    "ts": "20261012012125",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-9280-1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9280.htm",
+   "ts": "20260711000207",
    "via": "wayback.py"
   },
   {
@@ -4647,6 +4971,18 @@
     "offset": "53441566",
     "length": "2882"
    }
+  },
+  {
+   "id": "law:lei-9307-1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9307.htm",
+   "ts": "20261023181215",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-9415-1996",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9415.htm",
+   "ts": "20261019101433",
+   "via": "wayback.py"
   },
   {
    "id": "law:lei-9430-1996",
@@ -4683,6 +5019,18 @@
    }
   },
   {
+   "id": "law:lei-9462-1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9462.htm",
+   "ts": "20260715065918",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-9469-1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9469.htm",
+   "ts": "20261004205322",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-9481-1997",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L9481.htm",
    "ts": "20261005193033",
@@ -4692,6 +5040,12 @@
    "id": "law:lei-9636-1998",
    "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L9636.htm",
    "ts": "20261004150309",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-9668-1998",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9668.htm",
+   "ts": "20261004161014",
    "via": "wayback.py"
   },
   {
@@ -4745,6 +5099,12 @@
    "id": "law:lei-9849-1999",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L9849.htm",
    "ts": "20261016042230",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-9868-1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9868.htm",
+   "ts": "20261024011642",
    "via": "wayback.py"
   },
   {

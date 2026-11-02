@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-02 (batch 17, forty-first session: zzzy Lei 11.196/2005 re-PUBLISHED on the coordinator's effects rule (arts. 110/114/115 and art. 70 I d) stand from their in-force days; no holds), 62 versions; installed state: 294 acts, 3975 versions, 2764 commits, check 0/0, compare identical, audit clean; NEXT historic codes (Código Comercial first), see batch17/PROGRESS.md forty-first handoff)
+CHECKPOINTED 2026-11-02 (batch 17, forty-second session: zzzz Código Comercial (Lei 556/1850) PUBLISHED, 4 versions (Decreto 2.044/1908 dated 9.1.1909 by Decreto 572/1890 art. 1 I); installed state: 295 acts, 3979 versions, 2768 commits, check 0/0, compare identical, audit clean; NEXT CPC 1973 then CC 1916, see batch17/PROGRESS.md forty-second session)
 
 # gitlaw-BR progress (Brazil)
 

@@ -290,6 +290,7 @@ PAGES.update({
     # forty-second session: historic codes
     "lim556": "leis/lim/lim556.htm",
     "lim556-compilado": "leis/lim/lim556compilado.htm",
+    "l5869": "leis/l5869.htm",   # CPC 1973; Planalto's l5869compilada.htm captures are stubs: the annotated page is the check
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -672,6 +673,8 @@ ALL_ACTS: list[dict] = [
     # forty-second session: historic codes
     _act("codigo-comercial", "CCom", "lim556", "lim556-compilado", "lei-556-1850",
          "Código Comercial (Lei nº 556, de 25 de junho de 1850)", 3),
+    _act("codigo-de-processo-civil-de-1973", "CPC73", "l5869", "l5869", "lei-5869-1973",
+         "Código de Processo Civil de 1973 (Lei nº 5.869, de 11 de janeiro de 1973)", 4),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -802,6 +805,7 @@ PARTS: dict[str, list[str]] = {
     "zzzy": ["lei-do-bem"],
     # forty-second session
     "zzzz": ["codigo-comercial"],
+    "zzzza": ["codigo-de-processo-civil-de-1973"],   # in progress, not published
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1133,6 +1137,9 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-556-1850": ("1851-01-01", "Lei 556/1850 (Código Comercial) art. 912: 'O presente Código só principiará a obrigar e ter "
                                    "execução seis meses depois da data da sua publicação na Corte' (published 1.7.1850): "
                                    "1.1.1851"),
+    "lei-5869-1973": ("1974-01-01", "Lei 5.869/1973 (Código de Processo Civil) art. 1.220 (renumbered by Lei 5.925/1973): 'Este "
+                                    "Código entrará em vigor no dia 1º de janeiro de 1974, revogadas as disposições em contrário' "
+                                    "(DOU 17.1.1973)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1735,6 +1742,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                      "1937-11-30", "1937-12-06", PAGES["del0025"]),
     # 'Publicada na Secretaria d'Estado dos Negocios da Justiça em o 1º de Julho de 1850' (the Carta de Lei on the page)
     "lei-556-1850": _L("Lei nº 556, de 1850", "Código Comercial.", "1850-06-25", "1850-07-01", PAGES["lim556"]),
+    "lei-5869-1973": _L("Lei nº 5.869, de 1973", "Institui o Código de Processo Civil.", "1973-01-11", "1973-01-17",
+                        PAGES["l5869"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -8286,6 +8295,23 @@ B13.OPEN_ITEMS[_LCCOM] = (
     "they stand as printed. "
     "The Título Único is printed unstruck with pointers to the procedural codes (Decreto-Lei 1.608/1939, Lei 5.869/1973) "
     "and stands as printed")
+
+# part zzzza (forty-second session, IN PROGRESS, not published): Código de Processo Civil de 1973 (Lei 5.869/1973). In force
+# 1.1.1974 (art. 1.220); repealed as a whole by Lei 13.105/2015 (CPC 2015) art. 1.046 ('Ao entrar em vigor este Código, [...]
+# ficando revogada a Lei nº 5.869, de 11 de janeiro de 1973'), in force 'após decorrido 1 (um) ano da data de sua publicação
+# oficial' (art. 1.045; DOU 17.3.2015): 18.3.2016, the CPC 2015's first day in its own record (60-phase2). Planalto has no
+# consolidated page (l5869compilada.htm captures are stubs): the check is the annotated page itself.
+_LCPC73 = "codigo-de-processo-civil-de-1973"
+if any(a["slug"] == _LCPC73 for a in ACTS):
+    B9.REPEALS[_LCPC73] = (
+        "2016-03-18", "lei-13105-2015",
+        "Lei 5.869/1973 (Código de Processo Civil de 1973) was repealed as a whole by Lei 13.105/2015 (Código de Processo Civil) "
+        "art. 1.046 ('Ao entrar em vigor este Código, suas disposições se aplicarão desde logo aos processos pendentes, ficando "
+        "revogada a Lei nº 5.869, de 11 de janeiro de 1973'), in force 'após decorrido 1 (um) ano da data de sua publicação "
+        "oficial' (art. 1.045; DOU 17.3.2015): 18.3.2016, the Código de Processo Civil's first day in its own record, so its "
+        "last version, on 18.3.2016, removes every provision, credited to Lei 13.105/2015. Art. 1.046 § 1º keeps the 1973 "
+        "rules on the procedimento sumário and the special procedures it revoked for actions filed and not judged before that "
+        "day, which the history, ending with the repeal, does not show")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
