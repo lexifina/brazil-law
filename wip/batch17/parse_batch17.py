@@ -746,6 +746,9 @@ ALL_ACTS: list[dict] = [
     _act("lei-12546-de-2011", "L12546", "l12546", "l12546-compilado", "lei-12546-2011",
          "Reintegra, IPI da indústria automotiva e contribuição previdenciária sobre a receita bruta (Lei nº 12.546, de 14 de "
          "dezembro de 2011)", 2),
+    # sixty-fourth session: the fresh ranked list, one act per part (annotated pages, no compiled page: each is its own check)
+    _act("lei-do-pis", "LPIS", "lcp07", "lcp07", "lc-7-1970",
+         "Programa de Integração Social - PIS (Lei Complementar nº 7, de 7 de setembro de 1970)", 2),
     # forty-fourth session: read from the 2026 capture with the repeal's page-wide CSS strike removed; its pre-repeal check
     # is the capture of 2.6.2002
     _act("codigo-civil-de-1916", "CC16", "l3071", "l3071-2002", "lei-3071-1916",
@@ -903,6 +906,8 @@ PARTS: dict[str, list[str]] = {
     "zzzzm": ["lei-10865-de-2004"],
     # fifty-ninth to sixty-first sessions (articles), sixty-third (the Anexos)
     "zzzzn": ["lei-12546-de-2011"],
+    # sixty-fourth session
+    "zzzzo": ["lei-do-pis"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1264,6 +1269,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                      "contidas nos artigos anteriores' (DOU 30.4.2004, edição extra)"),
     "lei-12546-2011": ("2011-12-15", "Lei 12.546/2011 art. 52: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
                                      "15.12.2011), save the days its paragraphs state"),
+    "lc-7-1970": ("1970-09-08", "Lei Complementar 7/1970 art. 13: 'Esta Lei Complementar entrará em vigor na data de sua "
+                                "publicação' (DOU 8.9.1970, rectified 10.9.1970)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1912,6 +1919,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "11.529, de 22 de outubro de 2007, e o art. 6º do Decreto-Lei nº 1.593, de 21 de dezembro de 1977, "
                          "nos termos que especifica; e dá outras providências.", "2011-12-14", "2011-12-15",
                          "_Ato2011-2014/2011/Lei/L12546.htm"),
+    "lc-7-1970": _L("Lei Complementar nº 7, de 1970", "Institui o Programa de Integração Social, e dá outras providências.",
+                    "1970-09-07", "1970-09-08", PAGES["lcp07"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
