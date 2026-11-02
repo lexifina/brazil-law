@@ -9183,6 +9183,57 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "no note: art. 178 § 6º n. XIII, art. 178 § 9º n. VI, art. 242 n. IX and art. 391 n. IV start on 22.1.1919, "
         "credited to the decree; n. VIII of art. 1.566, which it also adds, and art. 245's parágrafo único, which it "
         "moves from art. 243, are not printed in those places, so the history does not have them")
+    _W_CC16_MODEL = (
+        "Código Civil de 1916: Planalto's page strikes every line of the Code, the 1916 wording and every later one alike "
+        "(the Code is repealed), so a strike does not say whether a later wording replaced the line. Each line is read as "
+        "a wording, from its own note's day (or 1.1.1917) until the first of: its own 'Revogado', 'Suprimido' or "
+        "'Eliminado' note, or such a note ending the line above it; the start of the next wording of the same dispositivo, "
+        "read from its label path (caput; § or parágrafo único, one slot; inciso; alínea; item; the 1916 lines carry their "
+        "labels in the text, 'I. Os menores ...'); a rewrite of the line above it, the same day by the same law, with a "
+        "list of the same kind from its first label (a longer old list loses its tail; a caput-only rewrite leaves the old "
+        "lines); for an unlabelled line of a caput, the caput's replacement when the new caput has no such line; otherwise "
+        "the Code's repeal on 11.1.2003. Struck headings no note ends stand until the repeal")
+    _W_CC16_ORDER = (
+        "Código Civil de 1916, print order: Planalto prints a later wording below the earlier ones, often after the old "
+        "lines below it (art. 186's new caput after the 1916 parágrafo único); in each version a wording takes the place "
+        "of the first wording of its slot, and lines no wording replaces keep their place ({n} articles)")
+    # the pre-repeal check (b44 tools/cmp2002.py): every unit of the last version before the repeal against the 2.6.2002
+    # capture (green text and its markers removed), by structure (units, line labels) and words (>= 0.85 alike, accents,
+    # punctuation and case set aside); the units that still differ, each with its reason
+    _CC16_EXPL_GROUPS = {
+        "dec": ("Decreto nº 3.725/1919 corrections the 2026 page does not print beside the 1916 words (one wording, as "
+                "above), or prints in the decree's own spelling", "0035 0243 0500 0521 0802 0910 1164 1229 1298 1380 1381 "
+                "1409 1522 1671 1723 1728"),
+        "decmix": ("words of the decree's own instructions printed inside the line ('O preso, in-fine ou o desterrado', "
+                   "'e, antes de ajustou, ponha-se a variação pronominal se')", "0040 0889"),
+        "decadd": ("the decree's additions and moves the 2026 page does not print (art. 245 parágrafo único, art. 1.566 n. "
+                   "VIII, art. 1.787 from art. 1.786's parágrafo único)", "0245 1566 1786 1787"),
+        "lb": ("the same lines split or joined at another place", "0152 0159 0195 0762 0770 0772 0825 0904 1081 1720 1779"),
+        "order": ("art. 248's parágrafo único printed after n. IV on the 2002 page", "0248"),
+        "labels": ("labels printed otherwise on the 2026 page ('1º' without '§', '§. 1º', 'IV' and 'V' without a stop)",
+                   "0615 1515 1521"),
+        "pages": ("differences of the two pages themselves: lines only the 2002 page prints (the marriage formula of art. "
+                  "194, a sentence of art. 814, art. 1.067's parágrafo único, art. 1.399 n. VI), amendment notes it prints "
+                  "as text (arts. 267 and 368) and its modern spelling (art. 1.183); words the 2026 page repeats (art. 617), "
+                  "a parágrafo único only it prints (art. 1.119), its vetoed parágrafo único line of art. 817 "
+                  "('Parágrafo único... - VETADO.'), and the 2002 page's colour legend in the preamble",
+                  "0194 0814 1067 1399 0267 0368 1183 0617 1119 0817 preambulo"),
+    }
+    _CC16_EXPLAINED = {("preambulo" if n == "preambulo" else f"art-{n}"): why
+                       for why, units in _CC16_EXPL_GROUPS.values() for n in units.split()}
+
+    def _cc16_arts(units):
+        return ", ".join("the preamble" if n == "preambulo" else f"art. {int(n):,}".replace(",", ".")
+                         for n in units.split())
+
+    _W_CC16_REPEALX = (
+        "Código Civil de 1916, the pre-repeal check: the last version before the repeal (16.2.2001) against Planalto's "
+        "page as captured on 2.6.2002, with its revoked (green) text and the 'Texto original' markers set aside. That "
+        "page is a modernised re-typesetting ('Art. 1º', 'I - os menores de 16 (dezesseis) anos;' for 'I. Os menores de "
+        "dezesseis annos.') and does not print the Introdução, so an exact comparison differs in some 1,200 articles; "
+        "compared by structure (the articles present and their line labels) and by words (at least 85% alike, accents, "
+        "punctuation and case set aside), every remaining difference is explained: "
+        + "; ".join(f"{why}: {_cc16_arts(units)}" for why, units in _CC16_EXPL_GROUPS.values()))
     _innerCC16 = B6.PB5B._write_part5
 
     def _inner_cc16(*a) -> int:
@@ -9231,6 +9282,14 @@ if any(a["slug"] == _LCC16 for a in ACTS):
             B5.EXTRA_DECISIONS.append(_W_CC16_ROWS.format(n=len(rows)) + ".")
         if CC16_USED.get("dec-added"):
             B5.EXTRA_DECISIONS.append(_W_CC16_ADDED + ".")
+        B5.EXTRA_DECISIONS.append(_W_CC16_MODEL + ".")
+        B5.EXTRA_DECISIONS.append(_W_CC16_ORDER.format(n=len(dict.fromkeys(CC16_USED.get("reordered", [])))) + ".")
+        # the built-in pre-repeal check compares exact text with a modernised re-typesetting (about 1,200 articles
+        # differ); its line is replaced by the structural check's, every difference of which is explained
+        rc = [x for x in B9.REPEAL_CHECK if x.startswith("CC16:")]
+        if rc:
+            B9.REPEAL_CHECK[:] = [x for x in B9.REPEAL_CHECK if not x.startswith("CC16:")]
+            B5.EXTRA_DECISIONS.append(_W_CC16_REPEALX + ".")
         return _innerCC16(*a)
 
     B6.PB5B._write_part5 = _inner_cc16
