@@ -685,6 +685,9 @@ ALL_ACTS: list[dict] = [
     # forty-seventh session: a fresh ranked list
     _act("lei-da-elaboracao-das-leis", "LCElab", "lcp95", "lcp95", "lc-95-1998",
          "Elaboração, redação, alteração e consolidação das leis (Lei Complementar nº 95, de 26 de fevereiro de 1998)", 2),
+    # forty-eighth session
+    _act("lei-pele", "LPele", "l9615", "l9615-compilado", "lei-9615-1998",
+         "Lei Pelé: normas gerais sobre desporto (Lei nº 9.615, de 24 de março de 1998)", 2),
     # read from the capture of 27.10.2015 (before the repeal); its consolidated check is the compiled page of 29.10.2015
     _act("codigo-de-processo-civil-de-1973", "CPC73", "l5869-2015", "l5869compilada-2015", "lei-5869-1973",
          "Código de Processo Civil de 1973 (Lei nº 5.869, de 11 de janeiro de 1973)", 4),
@@ -827,6 +830,8 @@ PARTS: dict[str, list[str]] = {
     "zzzzb": ["codigo-civil-de-1916"],   # PUBLISHED since the forty-sixth session
     # forty-seventh session
     "zzzzc": ["lei-da-elaboracao-das-leis"],
+    # forty-eighth session
+    "zzzzd": ["lei-pele"],   # in progress, not published
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1165,6 +1170,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                     "janeiro de 1917' (DOU 5.1.1916)"),
     "lc-95-1998": ("1998-05-28", "Lei Complementar 95/1998 art. 19: 'Esta Lei Complementar entra em vigor no prazo de noventa "
                                  "dias, a partir da data de sua publicação' (DOU 27.2.1998)"),
+    "lei-9615-1998": ("1998-03-25", f"Lei 9.615/1998 art. 95: {_PUB} (DOU 25.3.1998)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1774,6 +1780,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lc-95-1998": _L("Lei Complementar nº 95, de 1998", "Dispõe sobre a elaboração, a redação, a alteração e a consolidação das "
                      "leis, conforme determina o parágrafo único do art. 59 da Constituição Federal, e estabelece normas para a "
                      "consolidação dos atos normativos que menciona.", "1998-02-26", "1998-02-27", PAGES["lcp95"]),
+    "lei-9615-1998": _L("Lei nº 9.615, de 1998", "Institui normas gerais sobre desporto e dá outras providências.",
+                        "1998-03-24", "1998-03-25", PAGES["l9615"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -9399,6 +9407,37 @@ if any(a["slug"] == _LCELAB for a in ACTS):
                          "Lei Complementar 95 art. 8 § 2º (Lei Complementar 107/2001): Planalto's page opens the quoted clause "
                          "('esta lei entra em vigor após decorridos (o número de) dias de sua publicação oficial') and does not "
                          "close it; Lei Complementar 107's own text closes it after 'oficial'"))
+
+# ---------------------------------------------------------------------------------------------------------------
+# part zzzzd (forty-eighth session): Lei 9.615/1998 (Lei Pelé, normas gerais sobre desporto). In force on publication (art.
+# 95, DOU 25.3.1998). Lei 14.597/2023 (Lei Geral do Esporte) does not revoke it: its art. 217 II, which named this Lei, is
+# '(VETADO)' on its page.
+_LPELE = "lei-pele"
+if any(a["slug"] == _LPELE for a in ACTS):
+    P.MP_PENDING["mp-2141-2001"] = (
+        "Medida Provisória nº 2.141, de 23.3.2001 (DOU 24.3.2001, edição extra; art. 2: in force on publication); its art. 1 "
+        "gave Lei 9.615 arts. 4 III, 11, 12-A, 28 § 2º, 29 and 46-A their wordings and its art. 3 revoked art. 27 §§ 3º and 4º "
+        "and art. 28 § 6º. It was reissued within each thirty days with the same words: 2.141-1 (DOU 23.4.2001), 2.141-2 (DOU "
+        "23.5.2001), 2.141-3 (DOU 22.6.2001, 'Revogada e Reeditada pela MPv nº 2.193-4'), 2.193-4 (DOU 29.6.2001), 2.193-5 "
+        "(DOU 27.7.2001) and 2.193-6 (DOU 24.8.2001), which Emenda Constitucional 32/2001, art. 2, kept in force until Lei "
+        "10.672/2003 revoked it ('Revogada pela Lei nº 10.672, de 2003'). Planalto's notes name the first edition only, so "
+        "its changes are dated by its publication and stand until Lei 10.672/2003's")
+    P.MP_PENDING["mp-2049-2000"] = (
+        "Medida Provisória nº 2.049-24, de 26.10.2000 (DOU 27.10.2000; art. 29: in force on publication), one edition of a "
+        "chain of monthly reissues ('Reeditada pela Mpv nº 2.049-25'), later renumbered 2.216; its art. 26 gave Lei 9.615 "
+        "art. 59 its wording. Planalto's note names this edition, and then Medida Provisória 2.216-37/2001 with the same "
+        "words; earlier and later editions of the chain are not modelled")
+    P.MP_PENDING["mp-2216-2001"] = (
+        "Medida Provisória nº 2.216-37, de 31.8.2001 (DOU 1.9.2001, art. 32: in force on publication), kept in force by Emenda "
+        "Constitucional 32/2001, art. 2; Planalto credits it with Lei 9.615 art. 59's wording (the words of Medida "
+        "Provisória 2.049-24/2000), which Lei 9.981/2000 revoked from 31.12.2001. Earlier editions of the chain are not "
+        "modelled")
+    B7.CONVERTED_FIX["mp-229-2004"] = ("lei-11118-2005", "the MP page reads 'Convertida na Lei nº 11.118, ded 2005' (a "
+                                                         "misprinted 'de')")
+    P.MP_LAPSE["mp-984-2020"] = (
+        "2020-10-16", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 133, de 2020 (DOU 20.10.2020): Medida "
+                      "Provisória 984/2020 'teve seu prazo de vigência encerrado no dia 15 de outubro de 2020'; the wordings "
+                      "it had replaced are back from 16.10.2020")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
