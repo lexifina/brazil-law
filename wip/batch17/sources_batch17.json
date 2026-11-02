@@ -30,6 +30,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "ato:adc-11-2026-mpv1318",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Congresso/adc-11-mpv1.318.htm",
+   "ts": "20260924165522",
+   "via": "wayback.py"
+  },
+  {
    "id": "ato:adc-125-2024-mpv1251",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Congresso/adc-125-mpv1.251.htm",
    "ts": "20260616184359",
@@ -151,6 +157,12 @@
    "id": "ato:adc-6-2018-mpv800",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Congresso/adc-6-mpv800.htm",
    "ts": "20260730080415",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ato:adc-61-2018-mpv836",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Congresso/adc-61-mpv836.htm",
+   "ts": "20260715045009",
    "via": "wayback.py"
   },
   {
