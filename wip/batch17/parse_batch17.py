@@ -9220,16 +9220,15 @@ if any(a["slug"] == _LCC16 for a in ACTS):
                    "'e, antes de ajustou, ponha-se a variação pronominal se')", "0040 0889"),
         "decadd": ("the decree's additions and moves the 2026 page does not print (art. 245 parágrafo único, art. 1.566 n. "
                    "VIII, art. 1.787 from art. 1.786's parágrafo único)", "0245 1566 1786 1787"),
-        "lb": ("the same lines split or joined at another place", "0152 0159 0195 0762 0770 0772 0825 0904 1081 1720 1779"),
+        "lb": ("the same lines split or joined at another place", "0152 0159 0762 0770 0772 0825 0904 1081 1720 1779"),
         "order": ("art. 248's parágrafo único printed after n. IV on the 2002 page", "0248"),
         "labels": ("labels printed otherwise on the 2026 page ('1º' without '§', '§. 1º', 'IV' and 'V' without a stop)",
                    "0615 1515 1521"),
-        "pages": ("differences of the two pages themselves: lines only the 2002 page prints (the marriage formula of art. "
-                  "194, a sentence of art. 814, art. 1.067's parágrafo único, art. 1.399 n. VI), amendment notes it prints "
+        "pages": ("differences of the two pages themselves: lines only the 2002 page prints (a sentence of art. 814, art. 1.067's parágrafo único, art. 1.399 n. VI), amendment notes it prints "
                   "as text (arts. 267 and 368) and its modern spelling (art. 1.183); words the 2026 page repeats (art. 617), "
                   "a parágrafo único only it prints (art. 1.119), its vetoed parágrafo único line of art. 817 "
                   "('Parágrafo único... - VETADO.'), and the 2002 page's colour legend in the preamble",
-                  "0194 0814 1067 1399 0267 0368 1183 0617 1119 0817 preambulo"),
+                  "0814 1067 1399 0267 0368 1183 0617 1119 0817 preambulo"),
     }
     _CC16_EXPLAINED = {("preambulo" if n == "preambulo" else f"art-{n}"): why
                        for why, units in _CC16_EXPL_GROUPS.values() for n in units.split()}
