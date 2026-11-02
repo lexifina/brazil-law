@@ -350,6 +350,54 @@
    "via": "wayback.py"
   },
   {
+   "id": "auto-dl-2321-1987",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2321.htm",
+   "ts": "20261024143353",
+   "via": "wayback.py"
+  },
+  {
+   "id": "auto-lc-126-2007",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp126.htm",
+   "ts": "20261006005913",
+   "via": "wayback.py"
+  },
+  {
+   "id": "auto-lc-61-1989",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp61.htm",
+   "ts": "20261010070824",
+   "via": "wayback.py"
+  },
+  {
+   "id": "auto-lei-10835-2004",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.835.htm",
+   "ts": "20261013174222",
+   "via": "wayback.py"
+  },
+  {
+   "id": "auto-lei-6205-1975",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6205.htm",
+   "ts": "20261016090503",
+   "via": "wayback.py"
+  },
+  {
+   "id": "auto-lei-7803-1989",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7803.htm",
+   "ts": "20261019074306",
+   "via": "wayback.py"
+  },
+  {
+   "id": "auto-lei-8857-1994",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1989_1994/l8857.htm",
+   "ts": "20261008032942",
+   "via": "wayback.py"
+  },
+  {
+   "id": "auto-lei-9477-1997",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9477.htm",
+   "ts": "20260711182905",
+   "via": "wayback.py"
+  },
+  {
    "id": "ctx:camara-lei-10833-2003-original",
    "url": "https://www2.camara.leg.br/legin/fed/lei/2003/lei-10833-29-dezembro-2003-497045-publicacaooriginal-1-pl.html",
    "ts": "20251216123940",
@@ -2136,6 +2184,12 @@
     "offset": "841875474",
     "length": "3667"
    }
+  },
+  {
+   "id": "law:dl-2327-1987",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del2327.htm",
+   "ts": "20260714183628",
+   "via": "wayback.py"
   },
   {
    "id": "law:dl-2355-1987",
@@ -4932,6 +4986,12 @@
    }
   },
   {
+   "id": "law:lei-6708-1979",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6708.htm",
+   "ts": "20261023180046",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-6720-1979",
    "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L6720.htm",
    "ts": "20260713185809",
@@ -5334,6 +5394,12 @@
    "id": "law:lei-8014-1990",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/1989_1994/L8014.htm",
    "ts": "20260621135247",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-8016-1990",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1989_1994/L8016.htm",
+   "ts": "20260714074445",
    "via": "wayback.py"
   },
   {

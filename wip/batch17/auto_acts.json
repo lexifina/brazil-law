@@ -1,0 +1,250 @@
+[
+ {
+  "slug": "decreto-lei-2321-de-1987",
+  "short": "DL2321",
+  "page": "auto-dl-2321-1987",
+  "path": "decreto-lei/del2321.htm",
+  "law": "dl-2321-1987",
+  "title": "Institui, em defesa das finanças públicas, regime de administração especial temporária, nas instituições financeiras privadas e públicas não... (Decreto-Lei nº 2.321, de 25 de fevereiro de 1987)",
+  "digits": 2,
+  "act_day": [
+   "1987-02-26",
+   "Decreto-Lei 2.321/1987 art. 20: 'Este decreto-lei entra em vigor na data de sua publicação' (DOU 26.2.1987)"
+  ],
+  "law_rec": {
+   "label": "Decreto-Lei nº 2.321, de 1987",
+   "title": "Institui, em defesa das finanças públicas, regime de administração especial temporária, nas instituições financeiras privadas e públicas não federais, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1987-02-25",
+   "published": "1987-02-26",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del2321.htm",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "ts": "20261024143353",
+  "notes": 3,
+  "vig_ref": "art. 20: in force on publication",
+  "row_title": "Decreto-Lei 2.321/1987, Institui, em defesa das finanças públicas, regime de administração especial temporária, nas instituições financeiras privadas e públicas não...",
+  "key": "dl-2321",
+  "cited_by": 5,
+  "part": "zzzzr"
+ },
+ {
+  "slug": "lei-complementar-126-de-2007",
+  "short": "LC126",
+  "page": "auto-lc-126-2007",
+  "path": "leis/lcp/lcp126.htm",
+  "law": "lc-126-2007",
+  "title": "Dispõe sobre a política de resseguro, retrocessão e sua intermediação, as operações de co-seguro, as contratações de seguro no exterior e as... (Lei Complementar nº 126, de 15 de janeiro de 2007)",
+  "digits": 3,
+  "act_day": [
+   "2007-01-16",
+   "Lei Complementar 126/2007 art. 30: 'Esta Lei Complementar entra em vigor na data de sua publicação' (DOU 16.1.2007)"
+  ],
+  "law_rec": {
+   "label": "Lei Complementar nº 126, de 2007",
+   "title": "Dispõe sobre a política de resseguro, retrocessão e sua intermediação, as operações de co-seguro, as contratações de seguro no exterior e as operações em moeda estrangeira do setor securitário; altera",
+   "kind": "law",
+   "enacted": "2007-01-15",
+   "published": "2007-01-16",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp126.htm",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "ts": "20261006005913",
+  "notes": 39,
+  "vig_ref": "art. 30: in force on publication",
+  "row_title": "Lei Complementar 126/2007, Dispõe sobre a política de resseguro, retrocessão e sua intermediação, as operações de co-seguro, as contratações de seguro no exterior e as...",
+  "key": "lc-126",
+  "cited_by": 4,
+  "part": "zzzzr"
+ },
+ {
+  "slug": "lei-8857-de-1994",
+  "short": "L8857",
+  "page": "auto-lei-8857-1994",
+  "path": "leis/1989_1994/l8857.htm",
+  "law": "lei-8857-1994",
+  "title": "Autoriza a criação de áreas de livre comércio nos Municípios de Brasiléia e Cruzeiro do Sul, no Estado do Acre, e dá outras providências (Lei nº 8.857, de 8 de março de 1994)",
+  "digits": 2,
+  "act_day": [
+   "1994-03-09",
+   "Lei 8.857/1994 art. 15: 'Esta lei entra em vigor na data de sua publicação' (DOU 9.3.1994)"
+  ],
+  "law_rec": {
+   "label": "Lei nº 8.857, de 1994",
+   "title": "Autoriza a criação de áreas de livre comércio nos Municípios de Brasiléia e Cruzeiro do Sul, no Estado do Acre, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1994-03-08",
+   "published": "1994-03-09",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/1989_1994/l8857.htm",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "ts": "20261008032942",
+  "notes": 11,
+  "vig_ref": "art. 15: in force on publication",
+  "row_title": "Lei 8.857/1994, Autoriza a criação de áreas de livre comércio nos Municípios de Brasiléia e Cruzeiro do Sul, no Estado do Acre, e dá outras providências",
+  "key": "lei-8857",
+  "cited_by": 3,
+  "part": "zzzzr"
+ },
+ {
+  "slug": "lei-complementar-61-de-1989",
+  "short": "LC61",
+  "page": "auto-lc-61-1989",
+  "path": "leis/lcp/lcp61.htm",
+  "law": "lc-61-1989",
+  "title": "Estabelece normas para a participação dos Estados e do Distrito Federal no produto da arrecadação do Imposto sobre Produtos Industrializados IPI,... (Lei Complementar nº 61, de 26 de dezembro de 1989)",
+  "digits": 2,
+  "act_day": [
+   "1989-12-27",
+   "Lei Complementar 61/1989 art. 8: 'Esta Lei Complementar entra em vigor na data de sua publicação' (DOU 27.12.1989)"
+  ],
+  "law_rec": {
+   "label": "Lei Complementar nº 61, de 1989",
+   "title": "Estabelece normas para a participação dos Estados e do Distrito Federal no produto da arrecadação do Imposto sobre Produtos Industrializados IPI, relativamente às exportações.",
+   "kind": "law",
+   "enacted": "1989-12-26",
+   "published": "1989-12-27",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp61.htm",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "ts": "20261010070824",
+  "notes": 3,
+  "vig_ref": "art. 8: in force on publication",
+  "row_title": "Lei Complementar 61/1989, Estabelece normas para a participação dos Estados e do Distrito Federal no produto da arrecadação do Imposto sobre Produtos Industrializados IPI,...",
+  "key": "lc-61",
+  "cited_by": 3,
+  "part": "zzzzr"
+ },
+ {
+  "slug": "lei-6205-de-1975",
+  "short": "L6205",
+  "page": "auto-lei-6205-1975",
+  "path": "leis/l6205.htm",
+  "law": "lei-6205-1975",
+  "title": "Estabelece a descaracterização do salário mínimo como fator de correção monetária e acrescenta parágrafo único ao artigo 1º da Lei número 6.147,... (Lei nº 6.205, de 29 de abril de 1975)",
+  "digits": 2,
+  "act_day": [
+   "1975-04-30",
+   "Lei 6.205/1975 art. 4: 'Esta Lei entra em vigor na data de sua publicação' (DOU 30.4.1975)"
+  ],
+  "law_rec": {
+   "label": "Lei nº 6.205, de 1975",
+   "title": "Estabelece a descaracterização do salário mínimo como fator de correção monetária e acrescenta parágrafo único ao artigo 1º da Lei número 6.147, de 29 de novembro de 1974.",
+   "kind": "law",
+   "enacted": "1975-04-29",
+   "published": "1975-04-30",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6205.htm",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "ts": "20261016090503",
+  "notes": 12,
+  "vig_ref": "art. 4: in force on publication",
+  "row_title": "Lei 6.205/1975, Estabelece a descaracterização do salário mínimo como fator de correção monetária e acrescenta parágrafo único ao artigo 1º da Lei número 6.147,...",
+  "key": "lei-6205",
+  "cited_by": 3,
+  "part": "zzzzr"
+ },
+ {
+  "slug": "lei-9477-de-1997",
+  "short": "L9477",
+  "page": "auto-lei-9477-1997",
+  "path": "leis/l9477.htm",
+  "law": "lei-9477-1997",
+  "title": "Institui o Fundo de Aposentadoria Programada Individual - FAPI e o Plano de Incentivo à Aposentadoria Programada Individual, e dá outras providências (Lei nº 9.477, de 24 de julho de 1997)",
+  "digits": 2,
+  "act_day": [
+   "1997-07-25",
+   "Lei 9.477/1997 art. 14: 'Esta Lei entra em vigor na data de sua publicação' (DOU 25.7.1997)"
+  ],
+  "law_rec": {
+   "label": "Lei nº 9.477, de 1997",
+   "title": "Institui o Fundo de Aposentadoria Programada Individual - FAPI e o Plano de Incentivo à Aposentadoria Programada Individual, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1997-07-24",
+   "published": "1997-07-25",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l9477.htm",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "ts": "20260711182905",
+  "notes": 9,
+  "vig_ref": "art. 14: in force on publication",
+  "row_title": "Lei 9.477/1997, Institui o Fundo de Aposentadoria Programada Individual - FAPI e o Plano de Incentivo à Aposentadoria Programada Individual, e dá outras providências",
+  "key": "lei-9477",
+  "cited_by": 2,
+  "part": "zzzzr"
+ },
+ {
+  "slug": "lei-10835-de-2004",
+  "short": "L10835",
+  "page": "auto-lei-10835-2004",
+  "path": "_ato2004-2006/2004/lei/l10.835.htm",
+  "law": "lei-10835-2004",
+  "title": "Institui a renda básica de cidadania e dá outras providências (Lei nº 10.835, de 8 de janeiro de 2004)",
+  "digits": 2,
+  "act_day": [
+   "2004-01-09",
+   "Lei 10.835/2004 art. 5: 'Esta Lei entra em vigor na data de sua publicação' (DOU 9.1.2004)"
+  ],
+  "law_rec": {
+   "label": "Lei nº 10.835, de 2004",
+   "title": "Institui a renda básica de cidadania e dá outras providências.",
+   "kind": "law",
+   "enacted": "2004-01-08",
+   "published": "2004-01-09",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.835.htm",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "ts": "20261013174222",
+  "notes": 1,
+  "vig_ref": "art. 5: in force on publication",
+  "row_title": "Lei 10.835/2004, Institui a renda básica de cidadania e dá outras providências",
+  "key": "lei-10835",
+  "cited_by": 2,
+  "part": "zzzzr"
+ },
+ {
+  "slug": "lei-7803-de-1989",
+  "short": "L7803",
+  "page": "auto-lei-7803-1989",
+  "path": "leis/l7803.htm",
+  "law": "lei-7803-1989",
+  "title": "Altera a redação da Lei nº 4.771, de 15 de setembro de 1965, e revoga as Leis nºs 6.535, de 15 de junho de 1978, e 7.511, de 7 de julho de 1986 (Lei nº 7.803, de 18 de julho de 1989)",
+  "digits": 2,
+  "act_day": [
+   "1989-07-20",
+   "Lei 7.803/1989 art. 3: 'Esta Lei entra em vigor na data de sua publicação' (DOU 20.7.1989)"
+  ],
+  "law_rec": {
+   "label": "Lei nº 7.803, de 1989",
+   "title": "Altera a redação da Lei nº 4.771, de 15 de setembro de 1965, e revoga as Leis nºs 6.535, de 15 de junho de 1978, e 7.511, de 7 de julho de 1986.",
+   "kind": "law",
+   "enacted": "1989-07-18",
+   "published": "1989-07-20",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7803.htm",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "ts": "20261019074306",
+  "notes": 0,
+  "vig_ref": "art. 3: in force on publication",
+  "row_title": "Lei 7.803/1989, Altera a redação da Lei nº 4.771, de 15 de setembro de 1965, e revoga as Leis nºs 6.535, de 15 de junho de 1978, e 7.511, de 7 de julho de 1986",
+  "key": "lei-7803",
+  "cited_by": 2,
+  "part": "zzzzr"
+ }
+]
