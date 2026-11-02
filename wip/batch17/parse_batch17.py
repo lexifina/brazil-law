@@ -9171,6 +9171,16 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "revoking clause, and Planalto's page as captured on 2.6.2002 does not print the Introdução; no official text read "
         "for this record dates its end, so it stands as printed until the Code's repeal on 11.1.2003. Its art. 5 and art. "
         "20 parágrafo único, which Decreto nº 3.725/1919 corrects, are printed in one wording only and stand as printed")
+    _W_CC16_ROWS = (
+        "Código Civil de 1916, the 1916 lines print their numerals in the text ('II. A emancipação ...'), not as labels: "
+        "the rule that starts an unlabelled line with a new wording above it does not apply to them, so art. 12 n. II to "
+        "IV (below Lei nº 6.515/1977's n. I) and art. 178 § 6º n. X to XIII (below Lei nº 2.923/1956's n. IX), {n} lines, "
+        "are read as wordings of their own numbers from 1.1.1917 (n. XIII from Decreto nº 3.725/1919, below)")
+    _W_CC16_ADDED = (
+        "Código Civil de 1916, whole items Decreto nº 3.725/1919 art. 3 adds ('Accrescente-se') that the page prints with "
+        "no note: art. 178 § 6º n. XIII, art. 178 § 9º n. VI, art. 242 n. IX and art. 391 n. IV start on 22.1.1919, "
+        "credited to the decree; n. VIII of art. 1.566, which it also adds, and art. 245's parágrafo único, which it "
+        "moves from art. 243, are not printed in those places, so the history does not have them")
     _innerCC16 = B6.PB5B._write_part5
 
     def _inner_cc16(*a) -> int:
