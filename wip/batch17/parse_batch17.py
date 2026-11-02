@@ -9486,6 +9486,13 @@ if any(a["slug"] == _LPELE for a in ACTS):
              "only: each line stands once, out while the MP stood, to 13.12.2018 (art. 8's 'Parágrafo único. (Revogado).', "
              "Lei 12.395/2011's wording, has no MP note but falls under the MP's revocation of the whole article)")
     _G841 = [("2018-06-12", "2018-10-24", "mp-841-2018", "mp-841-2018-fim")]
+    _W841_6 = ("Lei 9.615 art. 6: Medida Provisória 841/2018 art. 22 rewrote inciso I only and its art. 26 XI a) revoked incisos "
+               "II, III, IV and VI and §§ 1º to 4º (read on its page); Planalto notes 'Redação dada pela Medida Provisória nº "
+               "841' on inciso VI and §§ 2º and 3º, which are read as that revocation: the wordings of Lei 13.155/2015 (VI), "
+               "Medida Provisória 502/2010 (§ 2º, printed with no note; its own text gives the words, 'para aplicação "
+               "exclusiva em jogos escolares de esportes olímpicos e paraolímpicos') and Lei 12.395/2011 (§§ 2º to 4º) stand "
+               "from their own days, out while the MP stood (12.6.2018 to its lapse on 23.10.2018), to Lei 13.756/2018 "
+               "(13.12.2018); Planalto prints each of them again, struck, after the MP's lines, a copy left out")
     _E841 = {"end": "2018-12-13", "end_law": "lei-13756-2018", "end_how": "parent", "gaps": _G841}
     _DUP841 = {"skip": True, "end_how": "duplicate"}
     B8.SPAN_FIX += [
@@ -9498,6 +9505,35 @@ if any(a["slug"] == _LPELE for a in ACTS):
                              ("I -", "I - os programas e projetos desenvolvidos por entidade beneficiada"),
                              ("II -", "II - os valores gastos"),
                              ("III -", "III - os critérios de escolha de cada beneficiário"))],
+        # art. 6: MP 841 art. 22 rewrote only inciso I; its art. 26 XI a) revoked II, III, IV, VI and §§ 1º to 4º. Planalto
+        # notes 'Redação dada pela Medida Provisória nº 841' on inciso VI and on §§ 2º and 3º (Lei 13.155/2015's and Lei
+        # 12.395/2011's wordings): read as the revocation the MP's own text makes
+        ((_LPELE, "art-06", "VI -", "VI - 10% (dez por cento) do montante arrecadado por loteria instantânea", 0),
+         {"start": "2015-08-05", "start_law": "lei-13155-2015", "end": "2018-12-13", "end_law": "lei-13756-2018",
+          "end_how": "successor", "gaps": _G841}, _W841_6),
+        ((_LPELE, "art-06", "VI -", "VI - 10% (dez por cento) do montante arrecadado por loteria instantânea", 1),
+         dict(_DUP841), _W841_6),
+        ((_LPELE, "art-06", "§ 2º", "§ 2º Do adicional de quatro e meio por cento de que trata o inciso II deste artigo, um "
+          "terço será repassado às Secretarias de Esportes", 0),
+         {"end": "2010-09-21", "end_law": "mp-502-2010", "end_how": "successor", "gaps": []}, _W841_6),
+        ((_LPELE, "art-06", "§ 2º", "§ 2º Do adicional de quatro e meio por cento de que trata o inciso II deste artigo, um "
+          "terço será repassado às Secretarias de Esporte dos", 0),
+         {"start": "2010-09-21", "start_law": "mp-502-2010", "end": "2011-03-17", "end_law": "lei-12395-2011",
+          "end_how": "conversion", "gaps": []}, _W841_6),
+        ((_LPELE, "art-06", "§ 2º", "§ 2º Do adicional de 4,5% (quatro e meio por cento)", 0),
+         {"start": "2011-03-17", "start_law": "lei-12395-2011", "end": "2018-12-13", "end_law": "lei-13756-2018",
+          "end_how": "successor", "gaps": _G841}, _W841_6),
+        ((_LPELE, "art-06", "§ 2º", "§ 2º Do adicional de 4,5% (quatro e meio por cento)", 1), dict(_DUP841), _W841_6),
+        ((_LPELE, "art-06", "§ 3º", "§ 3º Do montante arrecadado nos termos do § 2º", 0),
+         {"end": "2011-03-17", "end_law": "lei-12395-2011", "end_how": "successor", "gaps": []}, _W841_6),
+        ((_LPELE, "art-06", "§ 3º", "§ 3º A parcela repassada aos Estados e ao Distrito Federal", 0),
+         {"start": "2011-03-17", "start_law": "lei-12395-2011", "end": "2018-12-13", "end_law": "lei-13756-2018",
+          "end_how": "successor", "gaps": _G841}, _W841_6),
+        ((_LPELE, "art-06", "§ 3º", "§ 3º A parcela repassada aos Estados e ao Distrito Federal", 1), dict(_DUP841), _W841_6),
+        ((_LPELE, "art-06", "§ 4º", "§ 4º Trimestralmente, a Caixa Econômica Federal - CAIXA", 0),
+         {"start": "2011-03-17", "start_law": "lei-12395-2011", "end": "2018-12-13", "end_law": "lei-13756-2018",
+          "end_how": "successor", "gaps": _G841}, _W841_6),
+        ((_LPELE, "art-06", "§ 4º", "§ 4º Trimestralmente, a Caixa Econômica Federal - CAIXA", 1), dict(_DUP841), _W841_6),
         *[((_LPELE, "art-56", _lab, _pre, 1), dict(_DUP841), _W841)
           for _lab, _pre in (("I -", "I - 10% (dez por cento) serão destinados ao desporto escolar"),
                              ("II -", "II - 5% (cinco por cento) serão destinados ao desporto universitário"),
