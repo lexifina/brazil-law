@@ -8437,6 +8437,13 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
             html, n = re.subn(r">Vide Lei nº 13\.105, de 2015\)</a>", ">(Vide Lei nº 13.105, de 2015)</a>", html)
             CPC73_USED["notes"] += ["470"] * n
         out, rest = _paragraphsCPC73(html, digits)
+        if page == "l5869-2015":
+            for p in out:
+                for u, rx, rep, why in _CPC73_ENDS:
+                    if p["unit"] == u and p["state"] == "plain" and not p["heading"]:
+                        p["text"], n = re.subn(rx, rep, p["text"])
+                        if n:
+                            CPC73_USED["ends"].append(why)
         if page in ("l5869-2015", "l5869compilada-2015"):
             for p in out:
                 m = re.match(r"([IVXl]{1,6})\s*-\s", p["text"])
@@ -8477,7 +8484,7 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
                 continue
             p.update({"skip": True, "pinned": True, "end": _CPC73_DAY, "end_law": "lei-5925-1973", "end_how": "never-in-force"})
             if record:
-                CPC73_USED["never"].append(f"{p['unit']} [{p['label']}] {t[:40]!r}" if (t := P.norm(p["text"])) else p["unit"])
+                CPC73_USED["never"].append(f"{p['unit']} [{p['label']}] {P.norm(p['text'])[:40]!r}")
 
     def _apply_span_fix_cpc73(paras, act_slug, record):
         _span_fixCPC73(paras, act_slug, record)
@@ -8512,12 +8519,9 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
                 n=len({x for x in CPC73_USED["labels"] if x.startswith("l5869-2015 ")})) + ".")
         if CPC73_USED["notes"]:
             B5.EXTRA_DECISIONS.append(_W_CPC73_NOTES + ".")
-        if CPC73_USED["1102"]:
-            B5.EXTRA_DECISIONS.append(_W_CPC73_1102 + ".")
-        for k in ("741",):
-            B5.EXTRA_DECISIONS.append(_W_CPC73_SPANS[k] + ".")
-        for k in dict.fromkeys(CPC73_USED["pub"]):
-            B5.EXTRA_DECISIONS.append(_CPC73_PUB[k][2] + ".")
+        if CPC73_USED["ends"]:
+            B5.EXTRA_DECISIONS.append(_W_CPC73_ENDS.format(x="; ".join(dict.fromkeys(CPC73_USED["ends"]))) + ".")
+        B5.EXTRA_DECISIONS.append(_W_CPC73_SPANS["741"] + ".")
         return _innerCPC73(*a)
 
     B6.PB5B._write_part5 = _inner_cpc73
