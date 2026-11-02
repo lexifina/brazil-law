@@ -623,6 +623,15 @@ MOVES: dict[str, list] = {
          "data de sua publicação, quanto aos demais dispositivos' (DOU 11.7.2025): art. 13-A never took effect, because Lei "
          "15.269/2025, the MP's conversion (DOU 25.11.2025), does not keep it"),
     ],
+    "99-batch17zzzx.json": [
+        ("decreto-lei-1598-de-1977", "lei-8541-1992", "1992-12-24", [(ALL, "1993-01-01")],
+         "Lei 8.541/1992 art. 61: 'Esta lei entra em vigor na data de sua publicação e produzirá efeitos a partir de 1º de janeiro "
+         "de 1993, revogando-se [...] especificamente, os: I - art. 16 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977' (DOU "
+         "24.12.1992): its changes to Decreto-Lei 1.598 arts. 14 and 16 from 1.1.1993"),
+        ("decreto-lei-1598-de-1977", "lei-14789-2023", "2023-12-29", [(ALL, "2024-01-01")],
+         "Lei 14.789/2023 art. 22: 'Esta Lei entra em vigor na data de sua publicação e produzirá efeitos a partir de 1º de janeiro "
+         "de 2024' (DOU 29.12.2023): its art. 21 I (revocation of Decreto-Lei 1.598 art. 19 V and art. 38 § 2º) from 1.1.2024"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,

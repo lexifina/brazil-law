@@ -1749,6 +1749,18 @@
    }
   },
   {
+   "id": "law:dl-1648-1978",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del1648.htm",
+   "ts": "20260714073657",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:dl-1654-1978",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del1654.htm",
+   "ts": "20260608031143",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:dl-1730-1979",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del1730.htm",
    "cc": {
@@ -1760,9 +1772,21 @@
    }
   },
   {
+   "id": "law:dl-1733-1979",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del1733.htm",
+   "ts": "20260521114242",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:dl-1763-1980",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del1763.htm",
    "ts": "20260929043813",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:dl-1870-1981",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del1870.htm",
+   "ts": "20260713005348",
    "via": "wayback.py"
   },
   {
@@ -1834,6 +1858,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:dl-2303-1986",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del2303.htm",
+   "ts": "20260919232841",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:dl-2310-1986",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del2310.htm",
    "ts": "20260731083133",
@@ -1877,6 +1907,12 @@
     "offset": "775710266",
     "length": "10579"
    }
+  },
+  {
+   "id": "law:dl-2429-1988",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del2429.htm",
+   "ts": "20260713005721",
+   "via": "wayback.py"
   },
   {
    "id": "law:dl-2449-1988",
@@ -4126,6 +4162,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lei-7450-1985",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L7450.htm",
+   "ts": "20261005193746",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-7493-1986",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L7493.htm",
    "ts": "20260710175459",
@@ -4187,6 +4229,12 @@
    "id": "law:lei-7679-1988",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L7679.htm",
    "ts": "20261011161757",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-7713-1988",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L7713.htm",
+   "ts": "20261024001041",
    "via": "wayback.py"
   },
   {
@@ -4397,6 +4445,12 @@
    "id": "law:lei-8848-1994",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L8848.htm",
    "ts": "20260902061819",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-8981-1995",
+   "url": "https://www.planalto.gov.br/ccivil_03/LEIS/L8981.htm",
+   "ts": "20261024004112",
    "via": "wayback.py"
   },
   {

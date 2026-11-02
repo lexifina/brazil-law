@@ -560,6 +560,17 @@
   "restores": null,
   "note": null
  },
+ "lei-7713-1988": {
+  "label": "Lei nº 7.713, de 1988",
+  "title": "Altera a legislação do imposto de renda e dá outras providências.",
+  "kind": "law",
+  "enacted": "1988-12-22",
+  "published": "1988-12-23",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713.htm",
+  "temporary_until": null,
+  "restores": null,
+  "note": null
+ },
  "lei-8069-1990": {
   "label": "Lei nº 8.069, de 1990",
   "title": "Dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências.",

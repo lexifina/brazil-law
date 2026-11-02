@@ -659,6 +659,9 @@ ALL_ACTS: list[dict] = [
          "Sistema Nacional de Sementes e Mudas (Lei nº 10.711, de 5 de agosto de 2003)", 2),
     _act("lei-do-plano-real", "LPReal", "l9069", "l9069", "lei-9069-1995",
          "Plano Real e Sistema Monetário Nacional (Lei nº 9.069, de 29 de junho de 1995)", 2),
+    # thirty-seventh session: heavy tax laws
+    _act("decreto-lei-1598-de-1977", "DL1598", "del1598", "del1598-compilado", "dl-1598-1977",
+         "Legislação do imposto sobre a renda (Decreto-Lei nº 1.598, de 26 de dezembro de 1977)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -783,6 +786,8 @@ PARTS: dict[str, list[str]] = {
     "zzzu": ["lei-do-processo-discriminatorio-de-terras-devolutas"],
     "zzzv": ["lei-do-sistema-nacional-de-sementes-e-mudas"],
     "zzzw": ["lei-do-plano-real"],
+    # thirty-seventh session
+    "zzzx": ["decreto-lei-1598-de-1977"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1080,6 +1085,11 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                      "publicação' (DOU 6.8.2003; the term counted with the day of publication, Lei Complementar "
                                      "95/1998 art. 8 § 1º, as Lei 13.966/2019)"),
     "lei-9069-1995": ("1995-06-30", f"Lei 9.069/1995 art. 85: {_PUB} (DOU 30.6.1995)"),
+    "dl-1598-1977": ("1978-01-01", "Decreto-Lei 1.598/1977 art. 67: 'Este Decreto-lei entrará em vigor na data da sua publicação e a "
+                                   "legislação do imposto sobre a renda das pessoas jurídicas será aplicada, a partir de 1º de janeiro "
+                                   "de 1978, de acordo com as seguintes normas' (DOU 27.12.1977; its items VI and VII put arts. 60 to 62 "
+                                   "and the rules on acts from that day also on 1.1.1978): dated by its effects clause, as Lei "
+                                   "9.249/1995"),
     "lei-10887-2004": ("2004-06-21", "Lei 10.887/2004 art. 17: 'Esta Lei entra em vigor na data de sua publicação' (DOU 21.6.2004)"),
     "lei-13988-2020": ("2020-04-14", "Lei 13.988/2020 art. 30: 'Esta Lei entra em vigor: I - em 120 (cento e vinte) dias "
                                      "contados da data da sua publicação, em relação ao inciso I do caput e ao parágrafo único do "
@@ -1689,6 +1699,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-9069-1995": _L("Lei nº 9.069, de 1995", "Dispõe sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e "
                         "condições de emissão do REAL e os critérios para conversão das obrigações para o REAL, e dá outras "
                         "providências.", "1995-06-29", "1995-06-30", PAGES["l9069"]),
+    "dl-1598-1977": _L("Decreto-Lei nº 1.598, de 1977", "Altera a legislação do imposto sobre a renda.", "1977-12-26",
+                       "1977-12-27", PAGES["del1598"]),
     "dl-25-1937": _L("Decreto-Lei nº 25, de 1937", "Organiza a proteção do patrimônio histórico e artístico nacional.",
                      "1937-11-30", "1937-12-06", PAGES["del0025"]),
 }
@@ -7324,6 +7336,153 @@ B13.OPEN_ITEMS[_LPREAL] = (
     "Lei 9.069 (open items): it is the conversion of Medida Provisória 1.027/1995 and its reissues (the history starts with the "
     "Lei, 30.6.1995); 'Vide' pointers (Medida Provisória 2.224/2001 on art. 67, Leis 11.128/2005 and 12.844/2013 on art. 60) "
     "strike no words and are not modelled")
+
+# part zzzx (thirty-seventh session): Decreto-Lei 1.598/1977 (imposto sobre a renda). Hand items set only when the act runs.
+_DL1598 = "decreto-lei-1598-de-1977"
+if any(a["slug"] == _DL1598 for a in ACTS):
+    P.NOTE_FIX["(Revogado pelo Decreto-lei nº 1.870, 1981)"] = (
+        "(Revogado pelo Decreto-lei nº 1.870, de 1981)",
+        "Decreto-Lei 1.598 art. 64 § 5º: the note reads 'Decreto-lei nº 1.870, 1981' ('de' missing); its link goes to Decreto-Lei "
+        "1.870 of 1981 (del1870.htm#art3)")
+    P.NOTE_FIX["(Incluído pelo Decreto-lei nº 2.065, de 1983)"] = (
+        "(Incluído pelo Decreto-lei nº 2.064, de 1983)",
+        "Decreto-Lei 1.598 art. 19 IV, first struck wording ('(art.18)'): the note names Decreto-Lei 2.065/1983, but the words are "
+        "those Decreto-Lei 2.064/1983 art. 20 I added (read on both pages; Decreto-Lei 2.065's wording, '(art. 18)', follows "
+        "with its own note)")
+
+    def _pi_dl1654(f):
+        """Decreto-Lei 1.654: the page's heading reads 'DE 9 DE JANEIRO DE 1978' and its last line 'publicado no D.O.U. de
+        10.1.1979'; it is signed 'Brasília, 29 de dezembro de 1978', and its LexML record (urn ...decreto.lei:1978-12-29;1654)
+        gives 'Publicação Original 1978-12-29 Diário Oficial da União. Seção 1. 29/12/1978': both days are taken from there"""
+        def g(key):
+            info = f(key)
+            if key == "dl-1654-1978" and info and info.get("enacted") == "1978-01-09":
+                info = dict(info, enacted="1978-12-29")
+                lx = P.lexml_published(key, "1978-12-29")
+                if lx and lx != info.get("published"):
+                    P.LEXML_USED.add(P.lexml_url(key, "1978-12-29"))
+                    P.PUB_CORRECTED[key] = (info.get("published"), lx)
+                    info["published"] = lx
+                if _W1654 not in EXTRA:
+                    EXTRA.append(_W1654)
+            return info
+        return g
+
+    B6.page_info = _pi_dl1654(B6.page_info)
+    P.page_info = B.page_info = _pi_dl1654(P.page_info)
+    _paragraphsDL1598 = P.paragraphs
+    _H1598 = ("Compra e Venda, Loteamento, Incorporação e Construção de Imóveis", "Determinação do Custo e Apuração do Lucro Bruto")
+
+    def _paragraphs_del1598(html, digits):
+        """Decreto-Lei 1.598: the 1977 names of Subseção III (before art. 27), struck under Lei 12.973's new name, are heading
+        lines, not lines of art. 26"""
+        out, rest = _paragraphsDL1598(html, digits)
+        if B8.CURRENT_PAGE[0] == "del1598":
+            for k, q in enumerate(out):
+                if q["unit"] == "art-26" and q["label"] == "" and q["text"] in _H1598 and k and out[k - 1]["heading"]:
+                    prev = out[k - 1]
+                    g, n = prev["label"].rsplit("-", 1)
+                    q["unit"], q["label"], q["heading"] = "titulos", f"{g}-{int(n) + 1}", True
+                    if _W1598H not in EXTRA:
+                        EXTRA.append(_W1598H)
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_del1598
+    _span_fix1598 = B8.apply_span_fix
+
+    def _apply_span_fix1598(paras, act_slug, record):
+        """B8.SPAN_FIX skips heading lines: Subseção III's two 1977 names end when Lei 12.973's new name takes effect"""
+        _span_fix1598(paras, act_slug, record)
+        if act_slug == _DL1598:
+            for q in paras:
+                if q["heading"] and q["unit"] == "titulos" and q["text"] in _H1598:
+                    q.update({"start": "1978-01-01", "start_law": None, "end": "2015-01-01", "end_law": "lei-12973-2014",
+                              "end_how": "next-wording", "skip": False, "pinned": True})
+
+    B8.apply_span_fix = _apply_span_fix1598
+_W1598H = ("Decreto-Lei 1.598 Subseção III (before art. 27): its 1977 names 'Compra e Venda, Loteamento, Incorporação e Construção "
+           "de Imóveis' and 'Determinação do Custo e Apuração do Lucro Bruto', which Planalto prints struck before Lei "
+           "12.973/2014's new name, are read as the heading's names (the reader had set them aside as lines of art. 26) and end "
+           "when the new name takes effect (1.1.2015)")
+B15.TEXT_FIX.append(("del1598", "lucro líquid o do exercício", "lucro líquido do exercício",
+                     "Decreto-Lei 1.598 art. 7 § 4º: the annotated page splits 'líquid o' (a stray space); the consolidated page "
+                     "prints 'líquido'"))
+B15.TEXT_FIX.append(("del1598", "mencionadas na letra b.\"$", "mencionadas na letra b.",
+                     "Decreto-Lei 1.598 art. 60 § 3º c) (Decreto-Lei 2.064/1983's wording): the annotated page keeps the closing "
+                     "quotation mark of the amending text after the alínea"))
+_W8_II = ("Decreto-Lei 1.598 art. 8 II ('razão auxiliar em ORTN (art. 42)'): Planalto prints the 1977 line unstruck with '(Revogado "
+          "pela Lei nº 12.973, de 2014)'; it stands from 1978 and ends on 1.1.2015 (Lei 12.973 art. 117 III a), 'a partir de 1º "
+          "de janeiro de 2015'); the reader had dated it from 2015")
+_W19_IV = ("Decreto-Lei 1.598 art. 19 IV: Planalto prints two struck wordings, both noted as Decreto-Lei 2.065/1983's; the first "
+           "('(art.18)', 'Incluído') is the wording Decreto-Lei 2.064/1983 art. 20 I added (DOU 20.10.1983, in force on "
+           "publication, art. 46; read on its page), the second ('(art. 18)', 'Redação dada') Decreto-Lei 2.065's art. 20 I (DOU "
+           "28.10.1983, art. 45, which also revoked Decreto-Lei 2.064). The first stands 20.10-28.10.1983, credited to Decreto-Lei "
+           "2.064; the second from 28.10.1983 to Decreto-Lei 2.303/1986 (the reader had kept the first to 2015)")
+_W60_IV = ("Decreto-Lei 1.598 art. 60 IV: Planalto's annotated and consolidated pages strike the 1977 inciso IV ('transfere a pessoa "
+           "ligada, sem pagamento ou por valor inferior ao de mercado, direito de preferência à subscrição de valores mobiliários "
+           "[...]') and print in its place art. 19 IV's wording ('a parte das variações monetárias ativas (art.18) [...]', "
+           "'Redação dada pelo Decreto-lei nº 2.064, de 1983'). Neither Decreto-Lei 2.064 nor 2.065 (art. 20 I adds that inciso "
+           "to art. 19; art. 20 II-V change art. 60 only by adding inciso VII and § 8º and replacing §§ 1º and 3º; read on their "
+           "pages) touches art. 60 IV, and art. 62 I still refers to 'itens I e IV do artigo 60' in the 1977 sense: the 1977 "
+           "inciso IV stands throughout and the misplaced line is left out")
+_W61_23 = ("Decreto-Lei 1.598 art. 61 §§ 2º and 3º: Decreto-Lei 2.064/1983 art. 20 VI ('O artigo 61 passa a vigorar com a seguinte "
+           "redação') and then Decreto-Lei 2.065/1983 art. 20 VI gave the article a new wording of a caput and a parágrafo único, "
+           "with no dotted line, replacing the whole article (read on both pages); Planalto strikes the 1977 caput, incisos and § "
+           "1º but leaves §§ 2º and 3º unstruck (an article with a 'Parágrafo único' and a '§ 2º'). They end on 20.10.1983 with "
+           "the rest of the 1977 article")
+_W38_1185 = ("Decreto-Lei 1.598 art. 38 § 2º (and its alíneas a and b): Medida Provisória 1.185/2023 art. 15 I revoked it with "
+             "effects from 1.1.2024 (art. 16; DOU 31.8.2023); the MP was converted into Lei 14.789/2023 (in force 29.12.2023, "
+             "effects from 1.1.2024, its art. 21 I making the same revocation) before that day, so the MP's revocation never took "
+             "effect and is no version (as Medida Provisória 114/1989 in Lei 7.713); the paragraph ends with Lei 14.789 (the "
+             "reader had ended it on the MP's publication)")
+B8.SPAN_FIX += [
+    ((_DL1598, "art-08", "II -", "II - razão auxiliar em ORTN", 0),
+     {"start": "1978-01-01", "start_law": None, "end": "2015-01-01", "end_law": "lei-12973-2014", "end_how": "note"}, _W8_II),
+    ((_DL1598, "art-19", "IV -", "IV - a parte das variações monetárias ativas (art.18)", 0),
+     {"start": "1983-10-20", "start_law": "dl-2064-1983", "end": "1983-10-28", "end_law": "dl-2065-1983", "end_how": "note"},
+     _W19_IV),
+    ((_DL1598, "art-60", "IV -", "IV - transfere a pessoa ligada", 0),
+     {"end": None, "end_law": None, "end_how": None, "skip": False}, _W60_IV),
+    ((_DL1598, "art-60", "IV -", "IV - a parte das variações monetárias ativas", 0), {"skip": True}, _W60_IV),
+    *[((_DL1598, "art-61", lab, txt, 0),
+       {"end": "1983-10-20", "end_law": "dl-2064-1983", "end_how": "parent"}, _W61_23)
+      for lab, txt in (("§ 2º", "§ 2º - O disposto no § 2º do artigo 60"), ("§ 3º", "§ 3º - O disposto neste artigo não se aplica"))],
+    *[((_DL1598, "art-38", lab, txt, 1),
+       {"end": "2023-12-29", "end_law": "lei-14789-2023", "end_how": "note"}, _W38_1185)
+      for lab, txt in (("§ 2º", "§ 2º - As subvenções para investimento"), ("a)", "a) registradas como reserva de capital"),
+                       ("b)", "b) feitas em cumprimento"))],
+]
+_W1654 = ("Decreto-Lei 1.654/1978 (art. 59 I of Decreto-Lei 1.598): Planalto's page heads it 'DE 9 DE JANEIRO DE 1978' and ends "
+          "'publicado no D.O.U. de 10.1.1979', but it is signed 'Brasília, 29 de dezembro de 1978'; its LexML record gives the "
+          "day of signature and 'Publicação Original' 29.12.1978 (DOU Seção 1, p. 21089), which are used; in force on publication "
+          "(art. 2)")
+_X1598 = ("the consolidated page prints a revoked dispositivo as a placeholder line ('Art 2º - (Revogado ...)', '§ 5º - (Revogado "
+         "...)', '§§ 1º e 2º - (Revogados ...)', '4 - (Revogado ...)', 'Arts. 65 e 66 - (Revogados ...)'), which the history "
+         "leaves out")
+B.EXPLAINED[_DL1598] = {
+    **{u: _X1598 for u in ("art-02", "art-03", "art-04", "art-07", "art-20", "art-25", "art-30", "art-35", "art-62", "art-64")},
+    "art-48": "the consolidated page drops the '§' of '§ 2º' (typesetting); the annotated page prints '§ 2º -'",
+    "art-53": "the consolidated page drops the '§' of '§ 2º' (typesetting); the annotated page prints '§ 2º -'",
+    "art-60": "the consolidated page prints art. 19 IV's wording as art. 60 IV (see the decision on art. 60 IV), and 'pesssoa' "
+              "in inciso VII (as Decreto-Lei 2.065's own page); the annotated page prints 'pessoa'",
+    "art-61": "the consolidated page keeps the 1977 §§ 2º and 3º after Decreto-Lei 2.065's caput and parágrafo único (see the "
+              "decision on art. 61)",
+}
+B13.OPEN_ITEMS[_DL1598] = (
+    "Decreto-Lei 1.598 (open items): its art. 67 items I-V and VII-XI, which apply its rules by período-base and exercício "
+    "financeiro, are read as rules of application, not as in-force days. Decreto-Lei 1.730/1979 has no vigência clause of its "
+    "own (in force by the LINDB, 31.1.1980, 45 days after its DOU of 17.12.1979, the day of its LexML record; Planalto's page "
+    "prints 'D.O.U. de 17.12.1982'); its art. 8 applies its changes from the período-base of the exercício financeiro of 1980 "
+    "(items I and II) and of 1981 (items III to IX), both before that day: the changes keep the in-force day. Lei 8.981/1995's "
+    "'produzindo efeitos a partir de 1º de janeiro de 1995' reaches back before its publication (23.1.1995) and Lei 9.430/1996's "
+    "'efeitos financeiros a partir de 1º de janeiro de 1997' are financial effects only: both keep the in-force day (as for "
+    "Lei 7.713). Lei 12.973/2014 art. 119 § 1º (its rules and revocations from 1.1.2014 for taxpayers who opted under its art. "
+    "75) is not modelled. Decreto-Lei 2.064/1983 is credited for its week in force (20.10-28.10.1983; Planalto's 'Vide DLG nº "
+    "91, de 1983' is not modelled). Planalto prints 'Il' for 'II' in arts. 10, 48, 56, 58 and 62 and 'SEÇÃOO I' before art. 6 (kept as printed; the "
+    "labels read as II). Decreto-Lei 2.287/1986 art. 22 ('Fica revogado o regime de correção monetária das demonstrações "
+    "financeiras, de que tratam os artigos 39 a 52 do Decreto-lei nº 1.598') ends a regime, not words: Planalto strikes "
+    "none of those articles and they are kept; its art. 31 revokes only art. 54's caput (the parágrafo único stands). "
+    "'Vide' pointers (Decreto-Lei 1.648/1978 on art. 10) strike no words")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

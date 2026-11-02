@@ -7,6 +7,7 @@
   "law:mp-246-1997": "misprinted key: Lei 9.491's note reads 'Medida Provisória nº 246, de 1997'; the linked page is Medida Provisória 246 of 6.4.2005 (pinned as law:mp-246-2005; removed in part zzzc)",
   "law:lei-12963-2012": "Lei 9.636 note misprint ('Lei nº 12.963, de 2012'); the linked page is Lei 12.693/2012 (removed in the thirtieth session)",
   "law:mp-152-2003": "the linked page (MPV/Antigas_2003/152.htm) is Lei 9.636/1998, not Medida Provisória 152/2003 (removed in the thirtieth session)",
-  "law:lei-6306-1978": "misprinted key: Decreto-Lei 3.365's note reads 'Lei nº 6.306, de 1978'; the linked page is Lei 6.306 of 15.12.1975 (pinned as law:lei-6306-1975; removed in the thirtieth session)"
+  "law:lei-6306-1978": "misprinted key: Decreto-Lei 3.365's note reads 'Lei nº 6.306, de 1978'; the linked page is Lei 6.306 of 15.12.1975 (pinned as law:lei-6306-1975; removed in the thirtieth session)",
+  "law:dl-1648-1977": "misprinted key: Decreto-Lei 1.598 art. 10's 'Vide Decreto-lei nº 1.648, de 1977' links Del1648.htm, Decreto-Lei 1.648 of 18.12.1978 (removed in part zzzx)"
  }
 }
