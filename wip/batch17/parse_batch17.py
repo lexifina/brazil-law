@@ -731,6 +731,9 @@ ALL_ACTS: list[dict] = [
     _act("lei-do-dpvat", "LDPVAT", "l6194-2024", "l6194-2024", "lei-6194-1974",
          "Seguro obrigatório de danos pessoais causados por veículos automotores de via terrestre, DPVAT (Lei nº 6.194, de "
          "19 de dezembro de 1974)", 2),
+    # fifty-fourth session: ranked item 10 (annotated page; the compiled page is the consolidated check)
+    _act("lei-9532-de-1997", "L9532", "l9532", "l9532-compilado", "lei-9532-1997",
+         "Legislação tributária federal (Lei nº 9.532, de 10 de dezembro de 1997)", 2),
     # forty-fourth session: read from the 2026 capture with the repeal's page-wide CSS strike removed; its pre-repeal check
     # is the capture of 2.6.2002
     _act("codigo-civil-de-1916", "CC16", "l3071", "l3071-2002", "lei-3071-1916",
@@ -882,6 +885,8 @@ PARTS: dict[str, list[str]] = {
     # fifty-first session
     "zzzzj": ["lei-de-imprensa"],
     "zzzzk": ["lei-do-dpvat"],
+    # fifty-fourth session
+    "zzzzl": ["lei-9532-de-1997"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1234,6 +1239,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                     "disposições em contrário' (DOU 10.2.1967, rectified 10.3.1967)"),
     "lei-6194-1974": ("1974-12-20", "Lei 6.194/1974 art. 13: 'Esta Lei entrará em vigor na data de sua publicação' (DOU "
                                     "20.12.1974, rectified 31.12.1974)"),
+    "lei-9532-1997": ("1997-12-11", "Lei 9.532/1997 art. 81: 'Esta Lei entra em vigor na data de sua publicação, produzindo "
+                                    "efeitos: I - nessa data, em relação aos arts. 9º, 37 a 42, 44 a 54, 64 a 68, 74 e 75; II - a "
+                                    "partir de 1º de janeiro de 1998, em relação aos demais dispositivos dela constantes' (DOU "
+                                    "11.12.1997); the articles under II start on 1.1.1998"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1865,6 +1874,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-6194-1974": _L("Lei nº 6.194, de 1974", "Dispõe sobre Seguro Obrigatório de Danos Pessoais causados por veículos "
                         "automotores de via terrestre, ou por sua carga, a pessoas transportadas ou não.", "1974-12-19",
                         "1974-12-20", PAGES["l6194"]),
+    "lei-9532-1997": _L("Lei nº 9.532, de 1997", "Altera a legislação tributária federal e dá outras providências.",
+                        "1997-12-10", "1997-12-11", "leis/L9532.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -10191,6 +10202,52 @@ if any(a["slug"] == _LDPVAT for a in ACTS):
         "Lei 6.194 (open items): its Anexo (the table of permanent-disability percentages that Lei 11.945/2009 added for art. "
         "3), printed after the signature, is not included; the history holds the articles only. Planalto's 'Vide Medida nº "
         "340, de 2006' pointers strike no words and are not modelled")
+
+# part zzzzl (fifty-fourth session): Lei 9.532/1997 (legislação tributária federal; conversion of Medida Provisória 1.602/1997).
+# Art. 81: in force on publication (DOU 11.12.1997), producing effects 'I - nessa data, em relação aos arts. 9º, 37 a 42, 44 a
+# 54, 64 a 68, 74 e 75; II - a partir de 1º de janeiro de 1998, em relação aos demais dispositivos': the articles under II start
+# on 1.1.1998 (gates, as Lei 9.718). Art. 81 itself and art. 82 (whose items I and II state their own days: I 'a partir da data
+# de publicação', II 'a partir de 1º de janeiro de 1998', both about other laws) are in the first version.
+_L9532 = "lei-9532-de-1997"
+_G9532 = {_u(n): ("1998-01-01", "II") for n in (*range(1, 9), *range(10, 37), 43, *range(55, 64), *range(69, 74),
+                                                 *range(76, 81))}
+G9532_USED: list[str] = []
+_GATES[_L9532] = (_G9532, "lei-9532-1997", G9532_USED)
+if any(a["slug"] == _L9532 for a in ACTS):
+    EXTRA.append(
+        "Lei 9.532: art. 81 ('Esta Lei entra em vigor na data de sua publicação, produzindo efeitos: I - nessa data, em "
+        "relação aos arts. 9º, 37 a 42, 44 a 54, 64 a 68, 74 e 75; II - a partir de 1º de janeiro de 1998, em relação aos "
+        "demais dispositivos dela constantes'; DOU 11.12.1997): the articles under I, art. 81 itself and art. 82 (whose items "
+        "I and II name their own days for the provisions of other laws they revoke) are in the first version, on 11.12.1997; "
+        "arts. 1 to 8, 10 to 36, 43, 55 to 63, 69 to 73 and 76 to 80 start on 1.1.1998, credited to Lei 9.532")
+    P.NOTE_FIX["(Redação dada pela Medida Provisória nº 232, 2004)"] = (
+        "(Redação dada pela Medida Provisória nº 232, de 2004)", "Lei 9.532 art. 27 parágrafo único: the notes read 'Medida "
+                                                                  "Provisória nº 232, 2004' (the word 'de' is missing)")
+    P.NOTE_FIX["(Revogado pela Medida Provisória nº 71, de 2000)"] = (
+        "(Revogado pela Medida Provisória nº 71, de 2002)", "Lei 9.532 art. 75: the note reads 'Medida Provisória nº 71, de "
+                                                             "2000'; Medida Provisória 71 is of 3.10.2002 (DOU 4.10.2002), and "
+                                                             "its art. 14 revokes art. 75 of Lei 9.532")
+    P.MP_LAPSE["mp-71-2002"] = (
+        "2002-12-12", "rejected: the Chamber of Deputies' record of the MP: 'Diário Oficial da União - Seção 1 - 12/12/2002, "
+                      "Página 7 (Rejeição)', 'Ato do Presidente de 11 de Dezembro de 2002 (Câmara dos Deputados. Presidência) - "
+                      "(Rejeição)'; its wordings stand until the rejection was published")
+    P.MP_PENDING["mp-2156-2001"] = (
+        "Medida Provisória nº 2.156-5, de 24.8.2001 (DOU 27.8.2001; art. 31: in force on publication), kept in force by "
+        "Emenda Constitucional 32/2001, art. 2; its art. 32 XVII revokes art. 2 § 1º of Lei 9.532. Planalto's notes name "
+        "this edition only; earlier editions of the chain are not modelled")
+    P.MP_PENDING["mp-2158-2001"] = (
+        "Medida Provisória nº 2.158-35, de 24.8.2001 (DOU 27.8.2001), kept in force by Emenda Constitucional 32/2001, art. 2; "
+        "its art. 92 dates only other articles, so its art. 34 (Lei 9.532 art. 1 § 3º) and art. 75 (art. 64-A) are in force "
+        "on publication. Planalto's notes name this edition only; earlier editions of the chain are not modelled")
+    P.MP_PENDING["mp-2199-2001"] = (
+        "Medida Provisória nº 2.199-14, de 24.8.2001 (DOU 27.8.2001; art. 17: in force on publication), kept in force by "
+        "Emenda Constitucional 32/2001, art. 2; its art. 18 revokes art. 4 of Lei 9.532. Planalto's notes name this edition "
+        "only; earlier editions of the chain are not modelled")
+    B13.OPEN_ITEMS[_L9532] = (
+        "Lei 9.532 (open items): 'Vide' pointers (Medidas Provisórias 2.158-35/2001, 2.189-49/2001, 2.199-14/2001, 38/2002, "
+        "66/2002, 135/2003, 1.184/2023 and 1.303/2025, Leis 10.637/2002 and 12.973/2014, Decretos 6.306/2007, 7.212/2010 and "
+        "7.573/2011, Lei Complementar 214/2025) strike no words and are not modelled; art. 80 keeps the acts done under "
+        "Medida Provisória 1.602/1997, the Lei's origin, which the history does not show")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

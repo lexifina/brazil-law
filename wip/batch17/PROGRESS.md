@@ -3792,3 +3792,104 @@ law_records.json, bad_pins.json, dupsame_allow.json, firstline.py, pipe.sh uncha
 TO DO: item 10 heavy tax: Leis 10.865/2004, 9.532/1997, 12.546/2011 (not surveyed; one act per part, survey first). FOR THE
 COORDINATOR: the Disallowed-path list in decision 2 above; zzzzg's open item 'changes no words' (unread); zzzza's doubled
 'the unstruck text of the unstruck text' (batch 5 rewrite). OPEN / DATED RE-CHECKS unchanged.
+
+## Fifty-third session (2026-11-02): coordinator decisions 2-4 (zzzzg, zzzza, zzzzk re-PUBLISHED); item 10 surveyed, pages pinned
+Claim taken at the start ('gitlaw-BR-53 alan-dell 2026-11-02T13:04Z', setup53.py through run.py, PID 11412), released at the end.
+Scratch: .gitlaw-scratch/brazil-b44 (before53/ = session-start copies of the same set as before52/: every batch parser (20) in
+before53/parsers, effects_fix/parse/parse_phase2/lawrecords/dupfix/vigforms/titles, sources_batch17.json, law_records.json,
+bad_pins.json, dupsame_allow.json, README.md, jurisdiction.json, PUBLISH, firstline.py, pipe.sh, both PROGRESS.md, corpus.json and
+every corpus.d file); logs53/ (pipe-g1, pipe-a1, pipe-k1 .out = the pipe.sh runs; rb1 = merged build of the three candidates;
+fb1 = final build); pids53.txt; eff53/ (installed candidates); txt53/ (page texts of the six item-10 pages); robots53/; edits53/
+(mk1.py + spec-*.json: every parser edit, applied by ed53.py through run.py); new tools: setup53, rr53, ed53 (exact-string edit,
+each old string must occur once, LF kept, atomic), bdiff53, g53, sl53, phr53, pdiff53 (leaf-level diff of two part files),
+idx53, txt53, survey53 (note counts per amending law), robots53, kchk53, install53, finish53.
+NOTE for rr53 users: it turns any argument naming a file/dir in its cwd into an absolute path; b44 holds a `pages` folder, so
+`iaonly.py pages` must be run from another cwd (the first try, pg1, printed the usage and fetched nothing, rc 2).
+bdiff53 after every parser edit (bd1-bd3): final parse_batch5.py +6 -3, parse_batch17.py +36 -7; every other parser and
+effects_fix.py unchanged.
+Requests: robots.txt of archive.org (200: Disallow /control/ /report/) and web.archive.org (404) first (robots53/); then
+archive.org only, through the shared client: `iaonly.py pages` (6 pins: l10865, l10865-compilado, l9532, l9532-compilado,
+l12546, l12546-compilado; 0 Common Crawl, 0 Arquivo.pt). No LexML, no Common Crawl, no Arquivo.pt, no STF (no /processos, live or
+archived), no live Planalto, no challenge page.
+### 1. Decision 1 (/processos parts): nothing touched (90-batch3, 80-proc, 70-clt, base, 99-batch10/zzn, 99-batch8 unchanged).
+### 2. Decision 2: LC 97 open item (re-PUBLISHED zzzzg)
+- B13.OPEN_ITEMS[_LC97]: '... point to the Supremo Tribunal Federal's judgment in that case, whose effect on the text could not
+  be read (its record was not read); the markers are left out of the text and the judgment is not modelled'. pipe.sh zzzzg
+  (pipe-g1): f620fac6 x2, checks as in session 52 (quotecheck = arts. 17/18 parágrafo único quotes, law text), uniqlaws 0,
+  dupsame 0, merged 306/4175/2909, 0/0, identical, audit clean. Unit diff: decisions[13] (that line) + sources[0] pin/request
+  counts only.
+### 3. Decision 3: CPC 1973's doubled phrase (re-PUBLISHED zzzza)
+- Source: parse_batch5.py's blanket rewrite of "Planalto's consolidated page" now skips the phrase when it already reads 'the
+  unstruck text of Planalto's consolidated page' (regex lookbehind; the result for every other line is byte-identical to
+  str.replace). Before the fix only zzzza held 'the unstruck text of the unstruck text' (phr53 over every installed part).
+  The check page really is the consolidated page (act config: check = l5869compilada-2015, capture 20151029045434), so the
+  rewrite's '(Planalto publishes no separate consolidated page for it)' was also wrong for this line; the stale comment at
+  the head of the zzzza block ('the check is the annotated page itself') corrected (comment only).
+- zzzza decisions[19] now: '... (the last version before the repeal against the unstruck text of Planalto's consolidated page
+  as captured on 29.10.2015): every remaining difference explained: ...'. pipe.sh zzzza (pipe-a1): 711f41d2 x2, 0 problems,
+  checks as before (quotecheck = the Code's own quoted words), uniqlaws 0, dupsame 0 (1 allowlisted, as before), merged 0/0,
+  identical, audit clean. Unit diff: decisions[19] + sources[0] pin/request counts only.
+### 4. Decision 4: MP 451 lines in Lei 6.194 (re-PUBLISHED zzzzk; open item closed)
+- Comparing the MP's own page (txt52/mp-451-2008.txt, art. 20) with the Lei's struck MP lines (l6194-2024) found TWO lines that
+  differ, not one: § 1º caput ('de que trata o inciso II, deverão' on the Lei's page, 'de que trata o inciso II do caput,
+  deverão' on the MP's) and inciso II ('na forma prevista na alínea “a”' / 'na forma prevista no inciso anterior'). Art. 3
+  caput, inciso I, § 2º, art. 5 § 5º and art. 12 §§ 3º-4º are the same on both. Under the decision (the MP's own text governs)
+  both lines follow the MP's page.
+- Block '# part zzzzk': _MP451_LINES (two exact substitutions in non-plain art-03 lines of l6194-2024; asserted both used);
+  decision _W6194_MP451 names both differences and the DOU rectification of 22.12.2008; the MP 451 sentence of the open item
+  removed. pipe.sh zzzzk (pipe-k1): 79c343ef x2, 0 problems; quotecheck now only the DL 73 quotes of arts. 1-2 (the MP 451
+  flag is gone); leakcheck 6 + ordercheck 1 = Lei 11.482 art. 8's own '(revogada)' lines, as before; REPEAL CHECK 0; uniqlaws
+  0; dupsame 0; merged 0/0, identical, audit clean. Unit diff: versions[3] art-03 text (kchk53: the old text with exactly
+  the two substitutions equals the new; 6 versions as before), one added decision, the open item shortened, sources[0] pin
+  counts (270 -> 276 pages: the six item-10 pins).
+### Install
+- rb1 (the three candidates together): 306 acts, 4175 versions, 2909 commits, check 0/0, --compare identical, audit_push clean
+  main + futuro; uniqlaws 0. install53.py: zzzzg 5b6f4fb8->f620fac6, zzzza 9b399b3b->821ad0bb, zzzzk 95a0257a->35932b70; each
+  .PUBLISH keeps its lines + one fifty-third-session line. dupsame on the installed three 0. README rows and jurisdiction.json
+  unchanged (counts and row texts unaffected). Final build of the installed folder (fb1): 306 acts, 4175 versions, 2909 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws installed 0.
+### 5. Item 10 survey (pages pinned and read; NOTHING configured beyond PAGES; no act, no part)
+- Pins (sources_batch17.json): l10865 (_ato2004-2006/2004/lei/l10.865.htm 20261024003616), l10865-compilado, l9532
+  (leis/l9532.htm 20261022022230), l9532-compilado, l12546 (_ato2011-2014/2011/lei/l12546.htm 20261016051155), l12546-compilado
+  (20261012170119). PAGES entries added in parse_batch17.py (fifty-third session comment). Texts in b44/txt53.
+- Lei 9.532/1997 (smallest; suggested first): 151 notes over 35 acts (Leis 9.779/1999 20, 9.959/2000 11, 12.973/2014 12,
+  14.754/2023 8, 12.868/2013 7, 12.402/2011 6, 10.887/2004 6, 10.637/2002 4; MP reissue chains 2.158-35 (8, two spellings),
+  2.189-49 (8), 2.199-14 (16); MPs 449/2008 7, 1.184/2023 8, 1.303/2025 1 ('vigência encerrada'), 71/2000; LC 214/2025 2, LC
+  187/2021). Art. 81: in force on publication (DOU 11.12.1997), effects from then for arts. 9, 37-42, 44-54, 64-68, 74 and 75,
+  from 1.1.1998 for the rest: a split first version. Art. 80 keeps acts under MP 1.602/1997 (its origin). Court markers:
+  'ADIN Nº 1802' on arts. 12-14 (immunity of education/assistance bodies) and 'ADI 1.758-4, DE 1998' near art. 28: their STF
+  records sit under /processos; read only an allowed record (redir.stf.jus.br acórdão, Informativo) or state them as not
+  modelled (as LC 97/ADI 6457).
+- Lei 10.865/2004 (PIS/COFINS-Importação, conv. MP 164/2004): 511 notes over 69 acts; heavy: Leis 11.727/2008 38,
+  12.649/2012 35, 13.137/2015 30, 12.859/2013 23, 14.183/2021 19, 12.715/2012 15, 13.670/2018 15, 10.925/2004 13, LC 214/2025
+  35 (2027+ effects, futuro), LC 228/2026 3; MPs 549/2011 24, 668/2015 23, 1.034/2021 19, 1.095/2021 11, 563, 564, 836, 413,
+  1.157, 1.202 (partly lapsed/revoked: check each fate), 774 and 794/2017 (774 revoked by 794, which lapsed). 95 'Produção de
+  efeito' and 146 'Vigência' markers: many deferred effect days. Art. 53: in force on publication (DOU 30.4.2004), effects from
+  1.5.2004 save the articles before.
+- Lei 12.546/2011 (Reintegra, desoneração da folha; conv. MP 540/2011): 3,229 notes over 35 acts, nearly all 'Incluído' notes
+  in the NCM code lists of arts. 7-8 and the Anexo (Lei 12.715/2012 1,741, Lei 12.794/2013 732, Lei 12.844/2013 205, MP
+  612/2013 84 (lapsed), MPs 774 63 / 794 58, Lei 13.670/2018 65, Lei 14.195/2021 49, MP 1.040/2021 47); 16,249 page lines. Art.
+  52: in force on publication, arts. 1-3 after regulation, arts. 7-9 and 14-21 from the first day of the fourth month after MP
+  540's publication (2.8.2011: 1.12.2011). '(Vide ADI 7633)' and 'Vide Medida Provisória 1.208/2024' on arts. 7-8 (the 2024
+  dispute): ADI 7633's record is under /processos too. 65 VETADO lines. Heaviest of the three; decide whether the NCM lists are
+  in scope before starting.
+- PIDs (all mine, all exited): pids53.txt (setup53 11412 through run.py directly; every rr53 run with its PID); pipe.sh runs
+  zzzzg, zzzza, zzzzk as background tasks of mine, one at a time, each waited on by its own notification (their run.py PIDs in
+  logs53/pipe-*.out); my own Monitor waiters stopped with TaskStop by task id. Outside the wrappers (no network): the first
+  reads (head/sed/grep/ls/wc/cat) of PROGRESS.md, batch17/PROGRESS.md, BRIEF.md, the claims folder listing, b44 tools, run.py,
+  pipe.sh, fetch_batch5.py's main and iaonly.py before and just after setup; cat/tail/head/grep of my own logs and task
+  outputs; tool files written by sed (52 -> 53 copies) and cat heredocs; mkdir of logs53/edits53/eff53/robots53. Files written
+  with the Write tool: my own tools/specs in b44 (mk1.py, install53.py, this text). Every parser edit went through ed53.py under
+  run.py.
+
+## State at handoff (batch 17, fifty-third session, 2026-11-02)
+PUBLISHED: re-PUBLISH of zzzzg (LC 97 open item: ADI 6457's effect 'could not be read'), zzzza (CPC 1973 pre-repeal check line:
+'the unstruck text of Planalto's consolidated page as captured on 29.10.2015'), zzzzk (MP 451's art. 3 § 1º caput and II from
+the MP's own page; decision line; open item closed). Installed: 306 acts, 4175 versions, 2909 commits, check 0/0, compare
+identical, audit clean main + futuro (fb1); uniqlaws 0, dupsame 0; README rows + jurisdiction.json current. Files changed:
+parse_batch5.py (rewrite lookbehind), parse_batch17.py (zzzzg open item, zzzza comment, zzzzk block, PAGES for item 10),
+sources_batch17.json (+6 page pins), corpus.d (three re-recorded parts + .PUBLISH lines), PROGRESS.md, this file.
+effects_fix.py, law_records.json, bad_pins.json, dupsame_allow.json, firstline.py, pipe.sh, README.md, jurisdiction.json
+unchanged. Claim released.
+TO DO: item 10, one act per part, surveyed above: Lei 9.532/1997 first (split art. 81 effects; ADI 1.802 / 1.758 from
+allowed records only or a 'not modelled' decision), then Lei 10.865/2004, then Lei 12.546/2011 (scope of the NCM lists).
+FOR THE COORDINATOR: decision 1's /processos list unchanged (with the user). OPEN / DATED RE-CHECKS unchanged.
