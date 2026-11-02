@@ -12006,6 +12006,42 @@ if any(a["slug"] == _L12546 for a in ACTS):
         "12.715/2012's row, so it ends that day, though Planalto prints no note of the subtraction (only Lei 12.715's note "
         "and Medida Provisória 612/2013's, whose wording never took effect)")
 
+# part zzzzo (sixty-fourth session): Lei Complementar 7/1970 (Programa de Integração Social). In force on publication (art.
+# 13, DOU 8.9.1970). Its only amendment notes are Lei Complementar 26/1975's revocations of arts. 8 and 9 (art. 7 of LC 26);
+# the 'Vide' notes (Leis Complementares 8/1970, 17/1973, 19/1974, 214/2025, Decreto-Lei 2.052/1983, Decreto 4.524/2002, the
+# 1988 Constitution) strike no words. Lei Complementar 214/2025 art. 542 I revokes art. 3 caput alínea b) from 1.1.2027.
+_LPIS = "lei-do-pis"
+if any(a["slug"] == _LPIS for a in ACTS):
+    # LC 26/1975 art. 7 as Planalto prints it: 'Esta Lei Complementar entrará em vigor em 1º de julho de 1970, revogados os
+    # arts. 8º e seu parágrafo, e 9º, e seus §§ 1º e 2º, da Lei Complementar nº 7 [...]' (DOU 12.9.1975). A day in 1970 is
+    # before the Lei Complementar itself (11.9.1975) and before Lei Complementar 7; its art. 1 unifies the funds 'A partir do
+    # exercício financeiro a iniciar-se em 1º de julho de 1976' and its parágrafo único keeps the balances 'existentes em 30
+    # de junho de 1976': the day is read as 1.7.1976
+    P.VIGENCIA_FIXED["lc-26-1975"] = (
+        "1976-07-01", "art. 7 as Planalto prints it: 'Esta Lei Complementar entrará em vigor em 1º de julho de 1970' (DOU "
+                      "12.9.1975); a day in 1970 is before the Lei Complementar itself (11.9.1975) and before Lei "
+                      "Complementar 7/1970, whose articles it revokes; its art. 1 unifies the PIS and PASEP funds 'A partir "
+                      "do exercício financeiro a iniciar-se em 1º de julho de 1976' and its parágrafo único keeps the balances "
+                      "'existentes em 30 de junho de 1976', so the year is read as 1976: in force 1.7.1976")
+    # Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: I - a alínea "b" do caput do
+    # art. 3º da Lei Complementar nº 7, de 7 de setembro de 1970'): future branch (Planalto's page of Lei Complementar 7
+    # prints only '(Vide Lei Complementar nº 214, de 2025)')
+    _FUT2027[_LPIS] = (
+        {("art-03", "b)")}, {},
+        "Lei Complementar 7: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: I - a "
+        "alínea \"b\" do caput do art. 3º da Lei Complementar nº 7, de 7 de setembro de 1970'), read on LC 214's page "
+        "(Planalto's page of Lei Complementar 7 prints only '(Vide Lei Complementar nº 214, de 2025)'): art. 3 alínea b) and "
+        "its items 1) to 4) end on 1.1.2027, on the future branch")
+    B8.EXTRA_LAWS["lc-214-2025"] = {
+        "label": "Lei Complementar nº 214, de 2025", "title": "Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição "
+        "Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação "
+        "tributária.", "kind": "law", "enacted": "2025-01-16", "published": "2025-01-16",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp214.htm", "temporary_until": None, "restores": None,
+        "note": None}
+    B13.OPEN_ITEMS[_LPIS] = (
+        "Lei Complementar 7 (open items): 'Vide' pointers (Leis Complementares 8/1970, 17/1973 and 19/1974, Decreto-Lei "
+        "2.052/1983, Decreto 4.524/2002 and the 1988 Constitution) strike no words and are not modelled")
+
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
     SRC.write_text('{\n "fetch": []\n}\n', encoding="utf-8", newline="\n")
