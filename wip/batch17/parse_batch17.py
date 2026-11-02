@@ -8281,8 +8281,9 @@ B.EXPLAINED[_LCCOM] = {
                "page has '(artigo nº. 618).'; the history keeps the annotated page's text",
     "art-730": "the consolidated page prints 'Arts. 731 a 739, revogados pela Lei nº 7.542, de 26.9.1986', a marker for the "
                "revoked articles, which its reading takes for a line of art. 730",
-    "preambulo": "the consolidated page's head ('Código Comercial' and the marker 'Arts. 1º ao 456, revogados pela Lei nº "
-                 "10.406, de 2002') is not read as a preamble there",
+    "preambulo": "the consolidated page's head is 'Código Comercial' followed by the marker 'Arts. 1º ao 456, revogados pela "
+                 "Lei nº 10.406, de 2002', which the check does not take as a preamble to compare; the history's preamble is "
+                 "the annotated page's 'Código Comercial'",
 }
 B13.OPEN_ITEMS[_LCCOM] = (
     "Código Comercial (open items): the Parte Terceira (Das quebras, arts. 797 to 913) is printed unstruck with 'Vide "
