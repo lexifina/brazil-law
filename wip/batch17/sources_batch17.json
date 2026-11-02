@@ -201,6 +201,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "ato:adt-1-2006-mpv320",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/Congresso/adt1-06mpv320.htm",
+   "ts": "20260611003944",
+   "via": "wayback.py"
+  },
+  {
    "id": "ato:apn-25-2012-mpv556",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Congresso/apn-025-mpv556.htm",
    "ts": "20260711060622",
@@ -252,6 +258,12 @@
    "id": "ato:atocn-2006-mpv303",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Congresso/atocnmpv303efi.htm",
    "ts": "20260617172235",
+   "via": "wayback.py"
+  },
+  {
+   "id": "ato:atocn-2006-mpv320",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Congresso/atocnmpv320.htm",
+   "ts": "20260610185803",
    "via": "wayback.py"
   },
   {
@@ -341,6 +353,18 @@
    "id": "del0200",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm",
    "ts": "20261019185952",
+   "via": "wayback.py"
+  },
+  {
+   "id": "del1598",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1598.htm",
+   "ts": "20261024011613",
+   "via": "wayback.py"
+  },
+  {
+   "id": "del1598-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1598compilado.htm",
+   "ts": "20261007194705",
    "via": "wayback.py"
   },
   {
@@ -571,6 +595,18 @@
    "id": "l11182",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11182.htm",
    "ts": "20261010232208",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l11196",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11196.htm",
+   "ts": "20261021231658",
+   "via": "wayback.py"
+  },
+  {
+   "id": "l11196-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11196compilado.htm",
+   "ts": "20261004132825",
    "via": "wayback.py"
   },
   {
@@ -3118,6 +3154,12 @@
    }
   },
   {
+   "id": "law:lei-13820-2019",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Lei/L13820.htm",
+   "ts": "20261007152353",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-13821-2019",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Lei/L13821.htm",
    "ts": "20261019165528",
@@ -5248,6 +5290,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:mp-2224-2001",
+   "url": "https://www.planalto.gov.br/ccivil_03/MPV/2224.htm",
+   "ts": "20261006001817",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:mp-2229-2001",
    "url": "https://www.planalto.gov.br/ccivil_03/MPV/2229-43.htm",
    "ts": "20261019073509",
@@ -5333,6 +5381,12 @@
    "id": "law:mp-319-2006",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Mpv/319.htm",
    "ts": "20260908081544",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:mp-320-2006",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/mpv/320.htm",
+   "ts": "20260925190214",
    "via": "wayback.py"
   },
   {

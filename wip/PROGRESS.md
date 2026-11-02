@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-01 (batch 17, thirty-fifth session: coordinator decisions applied - zzzm re-PUBLISHed (LC 95 art. 12 III decision line), zzzr Lei 12.990/2014 (2 versions, repeal by Lei 15.142 on 4.6.2025, ADI 7.654 decision) PUBLISHed; zzzq Lei 10.887/2004 (22 versions; MP 556 staged + lapse, MP 805 per the ADI 5.809 MC's own text, MP 1.203 revoked) PUBLISHed; merged 287 acts, 3862 versions, 2714 commits, check 0/0, compare identical, audit clean; NEXT Lei 11.795/2008 and the ranked list; details in batch17/PROGRESS.md)
+CHECKPOINTED 2026-11-02 (batch 17, thirty-sixth session: one act per part - zzzs Lei 11.795/2008 (4 versions; MP 784 '(NR)' no dotted line on art. 42, lapse), zzzt Lei 12.682/2012 (4), zzzu Lei 6.383/1976 (3; MP 458 not kept by Lei 11.952), zzzv Lei 10.711/2003 (2), zzzw Lei 9.069/1995 (16; MP 320 rejected, MP 784, Lei 13.820 semester clause, MP 1.303 never took effect) PUBLISHed; merged 292 acts, 3891 versions, 2723 commits, check 0/0, compare identical, audit clean; NEXT heavy tax laws, historic codes; details in batch17/PROGRESS.md)
 
 # gitlaw-BR progress (Brazil)
 

@@ -282,6 +282,11 @@ PAGES.update({
     "l6383": "leis/l6383.htm",
     "l10711": "leis/2003/l10.711.htm",
     "l9069": "leis/l9069.htm",
+    # thirty-seventh session: heavy tax laws
+    "del1598": "decreto-lei/del1598.htm",
+    "del1598-compilado": "decreto-lei/del1598compilado.htm",
+    "l11196": "_ato2004-2006/2005/lei/l11196.htm",
+    "l11196-compilado": "_ato2004-2006/2005/lei/l11196compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -652,6 +657,8 @@ ALL_ACTS: list[dict] = [
          "Processo discriminatório de terras devolutas da União (Lei nº 6.383, de 7 de dezembro de 1976)", 2),
     _act("lei-do-sistema-nacional-de-sementes-e-mudas", "LSem", "l10711", "l10711", "lei-10711-2003",
          "Sistema Nacional de Sementes e Mudas (Lei nº 10.711, de 5 de agosto de 2003)", 2),
+    _act("lei-do-plano-real", "LPReal", "l9069", "l9069", "lei-9069-1995",
+         "Plano Real e Sistema Monetário Nacional (Lei nº 9.069, de 29 de junho de 1995)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -775,6 +782,7 @@ PARTS: dict[str, list[str]] = {
     "zzzt": ["lei-da-digitalizacao-de-documentos"],
     "zzzu": ["lei-do-processo-discriminatorio-de-terras-devolutas"],
     "zzzv": ["lei-do-sistema-nacional-de-sementes-e-mudas"],
+    "zzzw": ["lei-do-plano-real"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1071,6 +1079,7 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-10711-2003": ("2003-11-04", "Lei 10.711/2003 art. 51: 'Esta Lei entra em vigor 90 (noventa) dias após a data de sua "
                                      "publicação' (DOU 6.8.2003; the term counted with the day of publication, Lei Complementar "
                                      "95/1998 art. 8 § 1º, as Lei 13.966/2019)"),
+    "lei-9069-1995": ("1995-06-30", f"Lei 9.069/1995 art. 85: {_PUB} (DOU 30.6.1995)"),
     "lei-10887-2004": ("2004-06-21", "Lei 10.887/2004 art. 17: 'Esta Lei entra em vigor na data de sua publicação' (DOU 21.6.2004)"),
     "lei-13988-2020": ("2020-04-14", "Lei 13.988/2020 art. 30: 'Esta Lei entra em vigor: I - em 120 (cento e vinte) dias "
                                      "contados da data da sua publicação, em relação ao inciso I do caput e ao parágrafo único do "
@@ -1677,6 +1686,9 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         "outras Providências.", "1976-12-07", "1976-12-09", PAGES["l6383"]),
     "lei-10711-2003": _L("Lei nº 10.711, de 2003", "Dispõe sobre o Sistema Nacional de Sementes e Mudas e dá outras "
                          "providências.", "2003-08-05", "2003-08-06", PAGES["l10711"]),
+    "lei-9069-1995": _L("Lei nº 9.069, de 1995", "Dispõe sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e "
+                        "condições de emissão do REAL e os critérios para conversão das obrigações para o REAL, e dá outras "
+                        "providências.", "1995-06-29", "1995-06-30", PAGES["l9069"]),
     "dl-25-1937": _L("Decreto-Lei nº 25, de 1937", "Organiza a proteção do patrimônio histórico e artístico nacional.",
                      "1937-11-30", "1937-12-06", PAGES["del0025"]),
 }
@@ -7233,6 +7245,85 @@ if any(a["slug"] == _LDISCR for a in ACTS):
                  "art. 43; DOU 11.2.2009); its conversion law, Lei 11.952/2009 (in force on publication, art. 41; DOU 26.6.2009), "
                  "does not amend Lei 6.383 at all, so the MP's wording ends on 26.6.2009 and the 1976 wording, which Planalto "
                  "prints again unstruck after the MP's, is in force again from that day (the converted-MP rule).")
+
+# part zzzw (thirty-sixth session): Lei 9.069/1995 (Plano Real). Hand items set only when the act runs.
+_LPREAL = "lei-do-plano-real"
+if any(a["slug"] == _LPREAL for a in ACTS):
+    P.VIGENCIA_FIXED["lei-13820-2019"] = (
+        "2019-07-01", "art. 11: 'Esta Lei entra em vigor no primeiro dia do semestre subsequente à data de sua publicação "
+                      "oficial' (DOU 3.5.2019): 1.7.2019; its art. 10 III revokes Lei 9.069 arts. 3, 4, 6 and 7")
+    for _n in ("(Redação dada pela Medida Provisória nº 320, 2006)", "(Incluído pela Medida Provisória nº 320, 2006)"):
+        P.NOTE_FIX[_n] = (_n.replace("nº 320, 2006", "nº 320, de 2006"),
+                          "Lei 9.069 art. 65: the note reads 'Medida Provisória nº 320, 2006' ('de' missing); its link goes to "
+                          "Medida Provisória 320 of 24.8.2006 (DOU 25.8.2006), whose art. 34 gives art. 65 these wordings")
+    P.MP_LAPSE["mp-320-2006"] = (
+        "2006-12-13", "rejected: Ato Declaratório do Presidente do Senado Federal nº 1, de 2006 (DOU 15.12.2006) makes known that "
+                      "'em sessão realizada no dia 13 de dezembro de 2006, o Plenário da Casa rejeitou os pressupostos "
+                      "constitucionais de relevância e urgência da Medida Provisória nº 320, de 24 de agosto de 2006 [...] e "
+                      "determinou o seu arquivamento' (MP DOU 25.8.2006; its art. 34, the change to Lei 9.069 art. 65, in force on "
+                      "publication under its art. 44 II); the wording it had replaced is back from 13.12.2006, as for Medidas "
+                      "Provisórias 446/2008 and 850/2018")
+    _paragraphsLPREAL = P.paragraphs
+    LPREAL_FIXED: list[str] = []
+
+    def _paragraphs_l9069(html, digits):
+        """Lei 9.069: Planalto's marker 'Sem eficácia' after the struck lines of Medida Provisória 320/2006 (rejected) is not
+        part of the text"""
+        out, rest = _paragraphsLPREAL(html, digits)
+        if B8.CURRENT_PAGE[0] == "l9069":
+            for q in out:
+                t = re.sub(r"\s+\(?Sem efic[áa]cia\)?\s*$", "", q["text"])
+                if t != q["text"]:
+                    q["text"] = t
+                    LPREAL_FIXED.append(f"{q['unit']} {q['label']}")
+            for q in out:
+                # art. 72 quotes Lei 4.131's art. 58: the quoted line is part of art. 72, not an article heading
+                if q["unit"] == "art-72" and q["label"] == "Art. 58" and q["text"].startswith("Art. 58. As infrações à presente Lei"):
+                    q["label"] = ""
+                    if _W72_58 + "." not in EXTRA:
+                        EXTRA.append(_W72_58 + ".")
+            if LPREAL_FIXED and not any(x.startswith("Lei 9.069: Planalto's marker 'Sem eficácia'") for x in EXTRA):
+                EXTRA.append("Lei 9.069: Planalto's marker 'Sem eficácia' after the struck lines of Medida Provisória 320/2006 "
+                             "(rejected) is not part of the text and is left out")
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_l9069
+    EXTRA.append("Lei 9.069 arts. 53 and 54: Medida Provisória 1.303/2025 (DOU 11.6.2025) art. 74 XXXIII revoked them with effect "
+                 "from 1.1.2026 (art. 75 I c)); the MP's term ended on 8.10.2025 (Ato Declaratório do Presidente da Mesa do "
+                 "Congresso Nacional nº 67, de 2025) before that day, so the revocation never took effect and is no version; "
+                 "Planalto's 'Vide Medida Provisória nº 1.303, de 2025' and 'Produção de efeitos' / 'Vigência encerrada' "
+                 "markers strike no words.")
+_W65_320 = ("Lei 9.069 art. 65: Medida Provisória 320/2006 (DOU 25.8.2006, in force on publication) art. 34 gave § 1º a wording "
+            "that is one sentence ('Excetua-se do disposto no caput o porte de valores, em espécie, até o limite estabelecido pelo "
+            "Conselho Monetário Nacional, ou, de valores superiores a esse montante, desde que comprovada [...]'), replacing the "
+            "1995 § 1º ('[...] o porte, em espécie, dos valores:') with its incisos I-III, gave § 3º a new wording and added §§ "
+            "4º-6º (the dotted line keeps § 2º); the Senate rejected the MP on 13.12.2006. The 1995 incisos I-III and § 3º are "
+            "absent from 25.8.2006 and stand again from 13.12.2006 (the reader had kept them beside the MP's wording)")
+_W67_784 = ("Lei 9.069 art. 67: Medida Provisória 784/2017 art. 57 I d) revoked the article on its publication (8.6.2017); the "
+            "MP lapsed on 19.10.2017, so the article is absent from 8.6.2017 and stands again from 20.10.2017 until Lei "
+            "13.506/2017 (14.11.2017). § 2º's note on Planalto's page reads 'Revogado pela Lei nº 13.506, de 2017)' (opening "
+            "parenthesis missing), so the reader had left it standing: it ends on 14.11.2017 with the caput and § 1º")
+_W72_58 = ("Lei 9.069 art. 72: the article quotes Lei 4.131's art. 23 §§ 2º-3º and art. 58 in their new wording; the quoted "
+           "'Art. 58. [...]' line is part of art. 72 (the reader had set it aside as an article heading) and ends with the "
+           "article, revoked by Lei 14.286/2021 (30.12.2022)")
+_GAP320 = {"gaps": [("2006-08-25", "2006-12-13", "mp-320-2006", "mp-320-2006-fim")]}
+_GAP784 = {"gaps": [("2017-06-08", "2017-10-20", "mp-784-2017", "mp-784-2017-fim")]}
+B8.SPAN_FIX += [
+    *[((_LPREAL, "art-65", lab, start, 0), dict(_GAP320), _W65_320) for lab, start in (
+        ("I -", "I - quando em moeda nacional"), ("II -", "II - quando em moeda estrangeira"),
+        ("III -", "III - quando comprovada a sua entrada"), ("§ 3º", "§ 3º A não observância"))],
+    ((_LPREAL, "art-67", "Art. 67", "Art. 67. As multas aplicadas", 0), dict(_GAP784), _W67_784),
+    ((_LPREAL, "art-67", "§ 1º", "§ 1º O disposto no caput deste artigo não se aplica", 0), dict(_GAP784), _W67_784),
+    ((_LPREAL, "art-67", "§ 2º", "§ 2º O Conselho Monetário Nacional regulamentará a gradação", 0),
+     {**_GAP784, "end": "2017-11-14", "end_law": "lei-13506-2017", "end_how": "note"}, _W67_784),
+]
+B.EXPLAINED[_LPREAL] = {
+    "art-76": "check artefact: art. 76 quotes Lei 8.880 art. 17 with a dotted '§ 1º ....' line (the paragraph kept); the replay "
+              "keeps that line as printed, the check reader drops it"}
+B13.OPEN_ITEMS[_LPREAL] = (
+    "Lei 9.069 (open items): it is the conversion of Medida Provisória 1.027/1995 and its reissues (the history starts with the "
+    "Lei, 30.6.1995); 'Vide' pointers (Medida Provisória 2.224/2001 on art. 67, Leis 11.128/2005 and 12.844/2013 on art. 60) "
+    "strike no words and are not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

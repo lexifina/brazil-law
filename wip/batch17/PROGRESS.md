@@ -2378,3 +2378,34 @@ effect day never takes effect (no version, a decision line); MP 805 in Lei 10.88
   merged 291/3875/2719, check 0/0, compare identical, audit clean. Installed c83a5e13; README row + jurisdiction.json.
 - PIDs (mine, all exited): pages 44808, laws 8604, missing 49520, trials 41404/46320/39088, spans + lawtxt runs (logs/),
   conv 28732/35968/35096, pipe PIDs in zzzt/zzzu/zzzv-pipe1.out.
+### 99-batch17zzzw - PUBLISHed: Lei 9.069/1995 (lei-do-plano-real, LPReal, 16 versions 1995-06-30 .. 2023-06-20)
+- Pin `iaonly.py pages` (l9069 = leis/l9069.htm); `laws` 15 linked, 2 new; `missing` 0; gap pins (archive.org):
+  law:mp-320-2006, ato:atocn-2006-mpv320 (the 60-day extension, CN 56/2006), ato:adt-1-2006-mpv320 (Senate rejection,
+  13.12.2006). ACT_DAY 30.6.1995 (art. 85); ACT_LAWS new record lei-9069-1995.
+- Block '# part zzzw' (scoped): VIGENCIA_FIXED lei-13820-2019 1.7.2019 (art. 11 'primeiro dia do semestre subsequente', DOU
+  3.5.2019); NOTE_FIX x2 ('Medida Provisória nº 320, 2006'); MP_LAPSE mp-320-2006 13.12.2006 (rejected; as MP 446/850);
+  paragraphs wrapper (strip 'Sem eficácia' on l9069; art. 72's quoted Lei 4.131 'Art. 58.' line label '' so it ends with
+  art. 72); SPAN_FIX _W65_320 (1995 § 1º incisos I-III and § 3º gap 25.8-13.12.2006: MP 320's § 1º is one sentence),
+  _W67_784 (art. 67 caput/§1º/§2º gap 8.6-20.10.2017, MP 784 art. 57 I d); § 2º ends 14.11.2017: note lacks '('),
+  EXTRA (MP 1.303/2025 art. 74 XXXIII on arts. 53-54 with effects 1.1.2026, lapsed 8.10.2025 -> never took effect, no
+  version), EXPLAINED art-76 (quoted dotted '§ 1º'), OPEN_ITEMS.
+- pipe.sh zzzw (b36/logs/zzzw-pipe1.out): b860a4b0 x2, 0 problems; dupline 2/dupcheck 1 = art. 78 quoting two Lei 8.884
+  '§ 3º'; leakcheck 1 = art. 9 IV '(revogado).' (Lei 13.844's own wording); quotecheck = quoted amendments; latecaput 3
+  reviewed (caput-only changes with dotted lines); conv 0; merged 292/3891/2723, check 0/0, compare identical, audit clean.
+  Installed fdf5167e; README row + jurisdiction.json.
+- PIDs (mine, all exited): pages 4224, laws 45456, missing 8804, gaps 8472/42040/27552, trials 43232/34792/14944/30808,
+  spans + lawtxt runs (logs/), pipe PIDs in zzzw-pipe1.out, conv 42388, final 40276, dupsame 39196.
+
+## State at handoff (batch 17, thirty-sixth session, 2026-11-02)
+Installed with .PUBLISH this session: zzzs (Lei 11.795/2008; 4), zzzt (Lei 12.682/2012; 4), zzzu (Lei 6.383/1976; 3), zzzv
+(Lei 10.711/2003; 2), zzzw (Lei 9.069/1995; 16) = 5 acts, 29 versions. Final merged build of the installed folder
+(b36/logs/final-build.log): 292 acts, 3891 versions, 2723 commits, check 0/0, --compare identical, audit_push clean on main
+and futuro; uniqlaws --all 0; dupsame over the 5 new parts 0. README rows + jurisdiction.json (292 acts, 3891 versions)
+current. corpus.d changed: new 99-batch17zzzs..zzzw (+ .PUBLISH); no other part touched; folder PUBLISH unchanged.
+parse_batch17.py: diff against b36/before/ is additions only (PAGES l11795, l12682, l6383, l10711, l9069; 5 acts; PARTS
+zzzs-zzzw; ACT_DAY/ACT_LAWS; blocks '# part zzzs', '# part zzzu', '# part zzzw'); copy in b36/parse_batch17.after.py.
+law_records.json unchanged. Fetching: archive.org only, shared client (robots read at start): 5 page pins, 2 law pins
+(`laws`), 3 gap pins (MP 320 + 2 Atos); no Common Crawl, no Arquivo.pt, no LexML, no challenge page. All runs through
+run.py / pipe.sh at BelowNormal behind the cpu gate, one at a time; all PIDs mine and exited; nothing running.
+NEXT: heavy tax laws, then historic codes (rank and check each against installed parts first).
+OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff.
