@@ -8321,6 +8321,197 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
         "last version, on 18.3.2016, removes every provision, credited to Lei 13.105/2015. Art. 1.046 § 1º keeps the 1973 "
         "rules on the procedimento sumário and the special procedures it revoked for actions filed and not judged before that "
         "day, which the history, ending with the repeal, does not show")
+# - Lei 5.925/1973 ('Retifica dispositivos da Lei nº 5.869', DOU 2.10.1973; art. 5 'Esta Lei entrará em vigor no dia 1º de
+#   janeiro de 1974') rewrote, added and renumbered articles before the Code took effect: coordinator rule, changes enacted
+#   before the amended act's own effect day take effect with it, so they fold into the first version (1.1.1974), credited to
+#   both laws; the 1973 wording Planalto prints struck above them (no note) never took effect and is in no version.
+# - Planalto prints many incisos with a letter l for I ('Vl -', 'Vll -', 'lII -', 'Xl -'): their label is read as the
+#   numeral it stands for (the text stays as printed).
+_CPC73_DAY = "1974-01-01"
+_W_CPC73_FOLD = (
+    "Código de Processo Civil de 1973: Lei nº 5.925, de 1º.10.1973 (DOU 2.10.1973), 'Retifica dispositivos da Lei nº 5.869, "
+    "de 11 de janeiro de 1973, que instituiu o Código de Processo Civil', rewrote, added and renumbered articles before the "
+    "Code took effect; its art. 5 ('Esta Lei entrará em vigor no dia 1º de janeiro de 1974') puts it in force on the Code's "
+    "own first day (art. 1.220). Changes enacted before the amended act's own effect day take effect with it, so they are "
+    "folded into the first version, 1.1.1974, which is credited to Lei 5.869/1973 and, for the {n} provisions Lei 5.925 "
+    "wrote, to both laws. The 1973 wording Planalto prints struck above Lei 5.925's ({m} lines, no note of their own) "
+    "never took effect and is in no version")
+_W_CPC73_LABELS = (
+    "Código de Processo Civil de 1973: Planalto prints {n} incisos with a letter l for the numeral I ('Vl -', 'Vll -', "
+    "'Vlll -', 'lII -', 'Xl -', 'l -'); each is read as the inciso it stands for (its label), its text kept as printed")
+_W_CPC73_NOTES = (
+    "Código de Processo Civil de 1973, notes misprinted on Planalto's page and read as the notes they are: art. 154 § 2º "
+    "'(I ncluído pela Lei nº 11.419, de 2006)' (a run of spaces inside 'Incluído'), art. 470 'Vide Lei nº 13.105, de 2015)' "
+    "(no opening parenthesis; a pointer, dropped like every 'Vide' note)")
+_W_CPC73_1102 = (
+    "Código de Processo Civil de 1973 arts. 1.102-A, 1.102-B and 1.102-C (Capítulo XV, Da ação monitória, added by Lei nº "
+    "9.079/1995): Planalto prints them 'Art. 1.102.a -', 'Art. 1.102.b -', 'Art. 1.102.c -'; they are articles of their own, "
+    "not lines of art. 1.102 (the arbitration article Lei 9.307/1996 revoked), as the Lei 11.232/2005 wording of art. "
+    "1.102-C ('Art. 1.102-C.') shows. The chapter's headings start with Lei 9.079 (in force 15.9.1995), and the line "
+    "'(Capítulo acrescentado pela Lei nº 9.079, de 14.7.1995)' printed under them is a note, not a heading")
+_W_CPC73_SPANS = {
+    "500": ("Código de Processo Civil de 1973 art. 500 II: Lei 5.925/1973's wording ('será admissível na apelação, nos embargos "
+            "infringentes e no recurso extraordinário;') is printed struck below the wording Lei 8.038/1990 gave it; it stood "
+            "from 1.1.1974 until Lei 8.038 (in force 29.5.1990)"),
+    "741": ("Código de Processo Civil de 1973 art. 741 parágrafo único: the wording Lei 11.232/2005 gave it carries the note "
+            "'(Redação pela Lei nº 11.232, de 2005)' ('dada' missing), read as 'Redação dada'; Medida Provisória nº "
+            "2.180-35/2001's wording (in force 27.8.2001, still in force under EC 32/2001 art. 2) stood until then"),
+    "746": ("Código de Processo Civil de 1973 art. 746 and its Capítulo IV (Dos embargos à arrematação e à adjudicação): Lei "
+            "11.382/2006 rewrote art. 746 and renumbered Capítulo V as IV; Planalto prints the 1973 chapter heading and "
+            "article struck, with no note, after the new wording: they end when Lei 11.382 took effect (21.1.2007)"),
+    "1082": ("Código de Processo Civil de 1973 art. 1.082: Planalto leaves the caput ('Responde por perdas e danos o árbitro "
+             "que:') unstruck while striking its incisos; Lei 9.307/1996 art. 44 revoked arts. 1.072 to 1.102, so it ends with "
+             "them on 23.11.1996"),
+    "1218": ("Código de Processo Civil de 1973 art. 1.218: Lei 6.780/1980 (in force 13.5.1980) added an inciso VIII and "
+             "renumbered VIII to XV as IX to XVI; Lei 7.542/1986 (in force 29.9.1986) revoked XV (salvados marítimos, XIV until "
+             "1980). The 1973 XIV and XV end with the renumbering (their words go on as XV and XVI), and the 1973 X, printed "
+             "'X -Xl - à vistoria de fazendas avariadas (art. 756);', is read as 'X - à vistoria ...' (the renumbered XI, "
+             "'Inciso X renumerado', has the same words)"),
+}
+_CPC73_PUB = {   # key: (published as printed, corrected, why)
+    "lei-6745-1979": ("1976-12-06", "1979-12-06",
+                      "Lei nº 6.745, de 5.12.1979: Planalto's page ends 'Este texto não substitui o publicado no DOU de "
+                      "6.12.1976'; the act is signed 'Brasília, em 05 de dezembro de 1979', so the year is a misprint: "
+                      "published 6.12.1979, in force that day (art. 2: 'Esta Lei entrará em vigor na data de sua publicação')"),
+    "lei-8637-1993": ("1990-04-01", "1993-04-01",
+                      "Lei nº 8.637, de 31.3.1993: Planalto's page ends 'Este texto não substitui o publicado no D.O.U. de "
+                      "1º.4.1990'; the act is signed 'Brasília, 31 de março de 1993', so the year is a misprint: published "
+                      "1.4.1993, in force that day (art. 2: 'Esta Lei entra em vigor na data de sua publicação')"),
+}
+CPC73_USED: dict[str, list] = {"labels": [], "notes": [], "1102": [], "spans": [], "fold": [], "pub": [], "never": []}
+if any(a["slug"] == _LCPC73 for a in ACTS):
+    P.NOTE_FIX["(Redação pela Lei nº 11.232, de 2005)"] = (
+        "(Redação dada pela Lei nº 11.232, de 2005)",
+        "Código de Processo Civil de 1973 art. 741 parágrafo único: the note reads 'Redação pela Lei' ('dada' missing)")
+    for _pg in ("l5869-2015", "l5869compilada-2015"):
+        for _s, _u, _lab in (("Art. 1.102.a", "art-1102-a", "Art. 1.102-A"), ("Art. 1.102.b", "art-1102-b", "Art. 1.102-B"),
+                             ("Art. 1.102.c", "art-1102-c", "Art. 1.102-C")):
+            B8.UNIT_FIX.append((_pg, _s, _u, _lab, _W_CPC73_1102))
+        B8.LABEL_FIX.append((_pg, "X -Xl - à vistoria", "X - à vistoria", "X -", _W_CPC73_SPANS["1218"]))
+    _F_REN = {"end": "1980-05-13", "end_law": "lei-6780-1980", "end_how": "renumbered"}
+    _F746 = {"skip": False, "end": "2007-01-21", "end_law": "lei-11382-2006", "end_how": "successor"}
+    B8.SPAN_FIX += [
+        ((_LCPC73, "art-0500", "II -", "II - será admissível na apelação, nos embargos infringentes e no recurso", 0),
+         {"skip": False, "start": _CPC73_DAY, "start_law": "lei-5925-1973", "end": "1990-05-29", "end_law": "lei-8038-1990",
+          "end_how": "successor"}, _W_CPC73_SPANS["500"]),
+        ((_LCPC73, "art-0746", "Art. 746", "Art. 746. É lícito ao devedor oferecer embargos", 0), _F746, _W_CPC73_SPANS["746"]),
+        ((_LCPC73, "art-0746", "Parágrafo único", "Parágrafo único. Aos embargos opostos na forma deste artigo", 0), _F746,
+         _W_CPC73_SPANS["746"]),
+        ((_LCPC73, "art-1082", "Art. 1.082", "Art. 1.082. Responde por perdas e danos", 0),
+         {"end": "1996-11-23", "end_law": "lei-9307-1996", "end_how": "note"}, _W_CPC73_SPANS["1082"]),
+        ((_LCPC73, "art-1218", "XIV -", "XIV - aos salvados marítimos", 0), _F_REN, _W_CPC73_SPANS["1218"]),
+        ((_LCPC73, "art-1218", "XV -", "XV - às arribadas forçadas", 0),
+         dict(_F_REN, skip=False, start=_CPC73_DAY, start_law=None), _W_CPC73_SPANS["1218"]),
+    ]
+    CPC73_USED["spans"] += ["741"]
+
+    def _pi_cpc73(f):
+        def g(key):
+            info = f(key)
+            if info and key in _CPC73_PUB and info.get("published") == _CPC73_PUB[key][0]:
+                info = dict(info, published=_CPC73_PUB[key][1])
+                CPC73_USED["pub"].append(key)
+            return info
+        return g
+
+    B6.page_info = _pi_cpc73(B6.page_info)
+    P.page_info = B.page_info = _pi_cpc73(P.page_info)
+    _paragraphsCPC73 = P.paragraphs
+    _ROMAN = re.compile(r"(?=[IVX])X{0,3}(IX|IV|V?I{0,3})")
+
+    def _paragraphs_cpc73(html, digits):
+        """misprinted notes mended in the HTML (art. 154 § 2º, art. 470); 'l for I' inciso labels"""
+        page = B8.CURRENT_PAGE[0]
+        if page == "l5869-2015":
+            html, n = re.subn(r"\(I(?:&nbsp;|\s)+ncluído pela Lei nº\s+11\.419", "(Incluído pela Lei nº 11.419", html)
+            CPC73_USED["notes"] += ["154"] * n
+            html, n = re.subn(r">Vide Lei nº 13\.105, de 2015\)</a>", ">(Vide Lei nº 13.105, de 2015)</a>", html)
+            CPC73_USED["notes"] += ["470"] * n
+        out, rest = _paragraphsCPC73(html, digits)
+        if page in ("l5869-2015", "l5869compilada-2015"):
+            for p in out:
+                m = re.match(r"([IVXl]{1,6})\s*-\s", p["text"])
+                if p["heading"] or p["label"] or not m or "l" not in m.group(1):
+                    continue
+                tok = m.group(1).replace("l", "I")
+                if _ROMAN.fullmatch(tok):
+                    p["label"] = tok + " -"
+                    CPC73_USED["labels"].append(f"{page} {p['unit']} {m.group(1)}")
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_cpc73
+    _span_fixCPC73 = B8.apply_span_fix
+
+    def _cpc73_model(paras, record):
+        """headings Planalto's notes do not date (Capítulo IV of 1973, Capítulo XV of 1995); the 1973 wording Lei 5.925
+        replaced before the Code took effect (never in force)"""
+        for i, p in enumerate(paras):
+            t = P.norm(p["text"])
+            if p["heading"] and t.startswith("(Capítulo acrescentado pela Lei nº 9.079"):
+                p.update({"skip": True, "pinned": True, "end_how": "marker"})
+                for q in paras[max(0, i - 2): i]:
+                    if q["heading"]:
+                        q.update({"start": "1995-09-15", "start_law": "lei-9079-1995", "pinned": True})
+                if record:
+                    CPC73_USED["1102"].append("heading")
+            elif (p["heading"] and p["state"] == "struck" and t == "DOS EMBARGOS À ARREMATAÇÃO E À ADJUDICAÇÃO"
+                  and i and paras[i - 1]["heading"] and P.norm(paras[i - 1]["text"]) == "CAPÍTULO IV"):
+                for q in (paras[i - 1], p):
+                    q.update({"skip": False, "end": "2007-01-21", "end_law": "lei-11382-2006", "end_how": "successor",
+                              "pinned": True})
+        for i, p in enumerate(paras):
+            if (p["heading"] or p["state"] != "struck" or p.get("pinned") or p["start"] != _CPC73_DAY or p["start_law"]
+                    or p["end_how"] not in (None, "undated", "next-wording")):
+                continue
+            nxt = next((q for q in paras[i + 1:] if q["unit"] != p["unit"] or q["state"] != "struck"), None)
+            if nxt is None or nxt["unit"] != p["unit"] or nxt["start_law"] != "lei-5925-1973" or nxt["start"] != _CPC73_DAY:
+                continue
+            p.update({"skip": True, "pinned": True, "end": _CPC73_DAY, "end_law": "lei-5925-1973", "end_how": "never-in-force"})
+            if record:
+                CPC73_USED["never"].append(f"{p['unit']} [{p['label']}] {t[:40]!r}" if (t := P.norm(p["text"])) else p["unit"])
+
+    def _apply_span_fix_cpc73(paras, act_slug, record):
+        _span_fixCPC73(paras, act_slug, record)
+        if act_slug == _LCPC73:
+            _cpc73_model(paras, record)
+
+    B8.apply_span_fix = _apply_span_fix_cpc73
+    _build_actCPC73 = P.build_act
+
+    def _build_act_cpc73(paras, act_day, gate, gate_law, unit_label):
+        slug = ACTS[len(B7._act_order)]["slug"] if len(B7._act_order) < len(ACTS) else "?"
+        versions = _build_actCPC73(paras, act_day, gate, gate_law, unit_label)
+        if slug == _LCPC73 and versions and versions[0]["from"] == _CPC73_DAY:
+            units = sorted({p["unit"] for p in paras if not p.get("skip") and p["start"] == _CPC73_DAY
+                            and p["start_law"] == "lei-5925-1973"} & set(versions[0]["units"]))
+            versions[0]["credits"] = {u: ["lei-5869-1973", "lei-5925-1973"] for u in units}
+            versions[0]["note"] = ("The text in force on 1 January 1974, the Code's first day, with the changes of Lei nº "
+                                   "5.925/1973 (in force the same day), made before the Code took effect; the 1973 wording "
+                                   "of those provisions never took effect.")
+            CPC73_USED["fold"] = [len(units)]
+        return versions
+
+    P.build_act = B.build_act = _build_act_cpc73
+    _innerCPC73 = B6.PB5B._write_part5
+
+    def _inner_cpc73(*a) -> int:
+        if CPC73_USED["fold"]:
+            B5.EXTRA_DECISIONS.append(_W_CPC73_FOLD.format(n=CPC73_USED["fold"][0],
+                                                           m=len(dict.fromkeys(CPC73_USED["never"]))) + ".")
+        if CPC73_USED["labels"]:
+            B5.EXTRA_DECISIONS.append(_W_CPC73_LABELS.format(
+                n=len({x for x in CPC73_USED["labels"] if x.startswith("l5869-2015 ")})) + ".")
+        if CPC73_USED["notes"]:
+            B5.EXTRA_DECISIONS.append(_W_CPC73_NOTES + ".")
+        if CPC73_USED["1102"]:
+            B5.EXTRA_DECISIONS.append(_W_CPC73_1102 + ".")
+        for k in ("741",):
+            B5.EXTRA_DECISIONS.append(_W_CPC73_SPANS[k] + ".")
+        for k in dict.fromkeys(CPC73_USED["pub"]):
+            B5.EXTRA_DECISIONS.append(_CPC73_PUB[k][2] + ".")
+        return _innerCPC73(*a)
+
+    B6.PB5B._write_part5 = _inner_cpc73
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
