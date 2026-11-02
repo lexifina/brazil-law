@@ -2772,3 +2772,99 @@ lei-556-1850 1851-01-01 (art. 912), law records lei-556-1850 / dec-2044-1908 / l
 Título Único unit prefix, the 1908 day; then CPC 1973, then Código Civil 1916.
 OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff, plus: the SIT Edital dating FGTS Digital's 'operação efetiva'
 (now only an effects date; no text change hangs on it).
+
+## Forty-second session (2026-11-02): Código Comercial PUBLISHED (part zzzz); CPC 1973 configured as part zzzza (trials only)
+Claim: scripts/world-law/claims/brazil-law.txt taken at the start (released at the end). Scratch: .gitlaw-scratch/brazil-b42
+(before/ = parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json, dupsame_allow.json, effects_fix.py, README,
+jurisdiction.json at session start; parse_batch17.after.py / effects_fix.after.py = state at handoff; logs/; tools/ = b41's +
+g.py (grep via run.py), cdxp.py (CDX prefix listing), cdxu.py (CDX between two timestamps), vers.py (versions of a part),
+pdump.py + pq.py (dated paras the innermost build gets, and a query over them), rawgrep.py, head.py, survey2.py (note kinds and
+laws named on a page), lawsdec.py / dec84.py (a part's laws and decisions), bdiff.py (diff vs before/), docdiff.py, jdiff.py,
+install.py, findf.py, pids.py; rows-zzzz.json, publish-zzzz.txt). robots.txt read at start: archive.org (Disallow /control/
+/report/), web.archive.org 404 (b42/robots). archive.org only (shared client: pinat.py, cdxlist.py, iaonly.py laws); no
+Common Crawl, no Arquivo.pt, no live host, no challenge page met.
+### Part zzzz: Código Comercial (Lei 556/1850), PUBLISHED, 4 versions
+- Decreto 2.044/1908 day (task rule: the general vigência rule then in force, from an official text): Decreto 572 of 12.7.1890
+  art. 1 ('As leis da União e decretos do Governo Federal com força de lei obrigam [...] desde o dia que determinarem; e na falta
+  desta determinação: I. No Districto Federal no terceiro dia depois da inserção no Diario Official'), read on the Chamber of
+  Deputies' copy of the original publication; its Dados da Norma: revoked only by Decreto 11 of 18.1.1991. Decreto 2.044's
+  publication: 'Diário Official - 6/1/1909, Página 116' (Chamber copy, Dados da Norma and the original-publication page, whose
+  text has no vigência clause: art. 57 only revokes). Day: 9.1.1909 (third day after 6.1.1909), as dl-25-1937 was dated by the
+  LICC 1916's three-day Distrito Federal rule. Decision line _W_CCOM2044.
+- Pins (sources_batch17.json, additions only): ato:dec-572-1890 (camara publicacaooriginal, 20190224011717),
+  ato:dec-572-1890-norma (20190224003040), ato:dec-2044-1908 (publicacaooriginal, 20190224003045), ato:dec-2044-1908-norma
+  (20190922014138); all www2.camara.leg.br legin captures through archive.org.
+- parse_batch17.py (additions only): PAGES lim556 / lim556-compilado; _act codigo-comercial (CCom, digits 3); PARTS zzzz;
+  ACT_DAY_ALL lei-556-1850 1851-01-01; ACT_LAWS_ALL lei-556-1850 (published 1.7.1850, the Carta de Lei on the page); block
+  '# part zzzz' before SRC: B12.DECREES dec-2044-1908 (batch 12's decree keys: Diário Official 6.1.1909), VIGENCIA_FIXED
+  dec-2044-1908 1909-01-09 and lei-10406-2002 2003-01-11 (both gated on the act), NOTE_FIX for the two forms of 'Revogado pelo
+  Decreto do Poder Legislativo nº 2.044, [de] 1908:'; _paragraphs_ccom (art. 518 split from 517 on lim556; after the 'TÍTULO
+  ÚNICO' heading units art-NNN -> art-tu-NNN on both pages; the heading word 'e' between two Vide pointers dropped);
+  _unit_label_ccom ('Título Único, Art. Nº'); _ccom_model via the apply_span_fix wrapper (Parte Primeira struck lines end
+  11.1.2003 lei-10406-2002, Título XVI 9.1.1909 dec-2044-1908, by page range; the 'Parte' marker heading skipped);
+  EXPLAINED art-742 / art-772 / art-730 / preambulo; OPEN_ITEMS. law_records.json: + lei-10406-2002 (the 50-codes record; the
+  reader took the page's index line 'ÍNDICE Vigência ...' as its title). batch10/.tmp/firstline.py: unit-key pattern takes
+  'art-tu-' (it crashed on the new keys).
+- pipe.sh zzzz x2 (b42/logs/zzzz-pipe1.out, zzzz-pipe2.out): 48d07b87 x2, 0 problems, 4 units differ (EXPLAINED), 0 moves, all
+  file checks 0, uniqlaws 0 (after law_records), dupsame 0, overlap 0, latecaput 0; merged: 295 acts, 3979 versions, 2768
+  commits, 0/0, identical, audit clean. Installed corpus.d/99-batch17zzzz.json (75ad716e) + 99-batch17zzzz.PUBLISH; docs.py
+  rows-zzzz.json (README row; jurisdiction 295 acts 3979 versions, build entry 'Lei 556/1850 1851-2003 (4)', no stray entries).
+  Final merged build of the installed folder (b42/logs/final-build1.log via the task output): same numbers, clean.
+- Note: a reparse of zzzz after this session's later CPC pins differs from the installed file only in sources[0].requests
+  (502 -> 508, the pin count; jdiff b42/logs/jd1.log). Not a content change; no re-publish needed.
+### Part zzzza: CPC 1973 (Lei 5.869/1973), CONFIGURED, NOT PUBLISHED (trials t1, t2)
+- Pins: l5869 (current page, 20261019220418: after the repeal Planalto strikes every line, 4554 of 4647 lines struck, so not
+  usable as the act page), l5869-2015 (http://www.planalto.gov.br:80/ccivil_03/leis/L5869.htm, 20151027142729, the last
+  capture before the repeal), l5869compilada-2015 (L5869compilada.htm, 20151029045434; captures from 12.4.2016 on are stubs);
+  iaonly.py laws l5869: 76 acts named in notes, 60 pinned from archive.org (the rest were cached).
+- parse_batch17.py (additions only): PAGES l5869, l5869-2015, l5869compilada-2015; _act codigo-de-processo-civil-de-1973 (CPC73,
+  page l5869-2015, consolidated l5869compilada-2015, digits 4 like the CPC 2015 / CC 2002 parts); PARTS zzzza; ACT_DAY_ALL
+  lei-5869-1973 1974-01-01 (art. 1.220); ACT_LAWS_ALL lei-5869-1973 (DOU 17.1.1973); block '# part zzzza' before SRC: B9.REPEALS
+  (2016-03-18, lei-13105-2015: art. 1.046, in force per art. 1.045 one year after DOU 17.3.2015 = the CPC 2015's first day in
+  60-phase2), VIGENCIA_FIXED lei-8950-1994 1995-02-12 and lei-10173-2001 2001-03-11 ('no prazo de sessenta dias após/a partir
+  da data de sua publicação', clauses the reader does not parse; pub + 60 days as the reader counts such terms).
+- Trial t2 (b42/logs/c2.log, zzzza-t2.json): 4648 paras (3520 plain, 1128 struck), 1268 units, 66 versions; 3 problems;
+  end_how: successor 315, note 200, undated 197, parent 179, next-wording-first 147, next-wording 44, run-revoked 44, twin 2.
+### TO DO for zzzza, in this order (publish only when every item is closed)
+1. The 3 problems: art-0741 parágrafo único and art-0500 II 'restored wording after an open one'; art-1218 XV 'ends before it
+   starts' (1986-09-29 < 1980-05-13: Lei 6.780/1980 renumbered the incisos of art. 1.218 and Lei 7.542/1986 revoked XV - read
+   which line the note belongs to).
+2. Lei 5.925/1973 (DOU 2.10.1973; ~353 notes) changed and renumbered articles before the Code took effect (1.1.1974): check
+   how the trial dates its lines (expected: the 5.925 wording from 1.1.1974, the 1973 wording never in force; decision line),
+   and read Lei 5.925's own vigência clause on its page.
+3. The 197 'undated' struck lines (pdump.py zzzza + pq.py): each must end by a note, a successor, or be explained.
+4. The repeal check (decision 'differs from the unstruck text of Planalto's page ... in 17 articles', zzzza-t2 decisions;
+   b42/logs/d84.log): art-0018 ('>' stray), art-0039 ('no' for 'nº'), art-0154 (note '(I ncluído pela Lei nº 11.419, de
+   2006)' read as text: NOTE/TEXT fix), art-0275 (';'), art-0315 / art-0511 (renumbering notes on the compiled page),
+   art-0431, art-1088, art-1092, art-1094 (only in consolidated), art-1082 (only in replay), art-0470 ('Vide Lei nº 13.105, de
+   2015)' read as text), art-0475-e, art-0523, art-0649, art-0655-a (punctuation), titulos (CAPÍTULO VI Da liquidação da
+   sentença, Subseção III Da adjudicação de imóvel, TÍTULO V Da remição: only in consolidated). Also find out why the
+   'Replay check' against l5869compilada says 0 articles (does it compare the empty post-repeal version?).
+5. Every amending law's in-force day (77 laws; vigforms, staged clauses; MP 2.180-35/2001 under the MP rules; 'Revigorado'
+   notes of Lei 8.950/1994 = restorations); last change before the repeal in t2 is 25.10.2013 (Lei 12.873/2013?): confirm no
+   2014-2015 change is missing (Lei 13.105's own 'Vide' pointers are not changes).
+6. dupl/dupsame/uniqlaws, OPEN_ITEMS (art. 1.046 § 1º survival rule), EXPLAINED, README row, PUBLISH.
+### Then CC 1916 (Lei 3.071/1916; law:lei-3071-1916 cached, ts 20261022053934): check whether that capture strikes every line
+  after the 2002 repeal (as CPC 1973's does); if so find a capture before 11.1.2003. Ends with the repeal by Lei 10.406 from
+  11.1.2003 (B9.REPEALS; VIGENCIA_FIXED lei-10406-2002 2003-01-11 as in zzzz).
+- PIDs (all mine, foreground through run.py unless said; all exited): probe 8468 (a recursive glob, moved to the background by
+  the tool timeout and stopped by its own task id; no output used), probe2 26884, setup 22728, g2 25516, g3 7780, robots 45924,
+  cdx1 46316, pin1-4 20776 2144 6616 12656 (rc 2, wrong path) then 35260 12272 39012 49676, m2 40220, m3 42120, t1 3448, t2
+  4288, t3 38724, cdx2 29684, pin5 21396, install 13852, docs 8468, final build 28524, q2 7436, laws1 51892 (background task),
+  c1 50452, cdx3 38228, pin6 15984, cdx4 53016, pin7 55048, c2 43148, recheck 21872, pids 23328, claim release 32792; pipe1 (background, mine)
+  10876 27872 29828 38300 44540 39660 22464; pipe2 (background) 34808 40028 42124 46956 27156 54852 14400. g1, m1, m4-m7, pd1,
+  pq1-2, rg1-5, v1-2, q1, q3, sv1-2, ld3-4, bd1-3, dd, pubs, ff, d84, jd1, hd: run.py PIDs not kept (their pipes filtered on
+  'rc'); foreground or my own background waits, all exited. Outside the wrappers (mistakes, all reads of small files, no
+  network): the first ls/head/grep/cat of PROGRESS.md, batch17/.tmp and the claims folder; one `tail` of the cpu log; one `wc`;
+  grep/cut/sort/sed/tail/sha256sum/cp and one `python -c` filter over my own scratch logs and files. Background `until` waits
+  (shell loops, mine) ended by themselves or were stopped by their own task ids. Nothing running.
+
+## State at handoff (batch 17, forty-second session, 2026-11-02)
+Installed with .PUBLISH this session: zzzz (Código Comercial, Lei 556/1850; 4 versions). Merged build of the installed folder: 295
+acts, 3979 versions, 2768 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws 0; dupsame 0. README
+row + jurisdiction.json current. Files changed: parse_batch17.py (additions only: zzzz and zzzza config and blocks; diff vs
+b42/before = +211 -0), sources_batch17.json (pins above), law_records.json (+ lei-10406-2002), batch10/.tmp/firstline.py (key
+pattern), corpus.d/99-batch17zzzz.json + .PUBLISH, repo/README.md, repo/jurisdiction.json, PROGRESS.md checkpoint.
+effects_fix.py unchanged. zzzza is configured in PARTS but not published (no corpus.d file). Nothing running. Claim released.
+NEXT: CPC 1973 (part zzzza) TO DO items 1-6 above; then CC 1916.
+OPEN / DATED RE-CHECKS: unchanged from the forty-first handoff.
