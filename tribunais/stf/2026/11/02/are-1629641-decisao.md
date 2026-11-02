@@ -1,0 +1,67 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PREVIDENCIÁRIO. QUESTÃO REFERENTE À COMPETÊNCIA INTERNA DO TRIBUNAL DE ORIGEM, PARA AFERIÇÃO DE REGULARIDADE NO PAGAMENTO DE PRECATÓRIOS E REQUISIÇÕES DE PEQUENO VALOR. MATÉRIA INFRACONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS NS. 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. OBSERVÂNCIA DO TEMA 1.335 DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto, com base nas als. a e c do inc. III do art. 102 da Constituição da República, contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+“DIREITO PREVIDENCIÁRIO. DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM DECISÃO MONOCRÁTICA PROFERIDA EM AGRAVO DE INSTRUMENTO. CABIMENTO PELO ART. 1.021 DO CPC. AFERIÇÃO DE REGULARIDADE NO PAGAMENTO DOS PRECATÓRIOS. COMPETÊNCIA DA PRESIDÊNCIA DO TRIBUNAL. PRAZO CONSTITUCIONAL PARA QUITAÇÃO DOS PRECATÓRIOS. AFASTAMENTO DA TAXA SELIC PELO STF NO TEMA 1335. AGRAVO INTERNO NÃO PROVIDO. I – Caso em Exame 1. Agravo interno em agravo de instrumento contra decisão monocrática que manteve a sentença recorrida por fundamentos diversos e nos termos do art. 932, IV, do CPC, negou  provimento  ao agravo de instrumento interposto. 2. O agravante sustenta ser o juízo da execução competente para apreciar a satisfação da obrigação, não se tratando de pretensão de natureza administrativamente. Quanto a matéria de fundo, argui que a Emenda Constitucional nº 113/2021 deve ser aplicada imediatamente para a correção monetária do valor devido e pago, inclusive para precatórios em trâmites no tribunal. II – Questão em discussão Documento recebido eletronicamente da origem 3. A questão em discussão consiste em definir a competência para análise e julgamento acerca dos critérios de atualização dos consectários legais aplicados no tribunal no período de pagamento dos precatórios. No mérito, discute-se se devida a aplicação da Taxa Selic, prevista na EC 113/21, durante o período de tramitação do precatório. III – Razões de decidir 4. Na inteligência do art. 1.021 do CPC, contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal. 5. A regularidade das requisições de pagamento e eventual pedido de revisão dos critérios de atualização do crédito durante o período de tramitação do precatório é da competência única e exclusiva da Presidência desta Corte, no desempenho de sua função administrativa, conforme se infere das normas previstas nos art. 32, inciso I, da Resolução 458/2017 e 39, inciso I, da Resolução 822/2023, do CJF.
+6. Em decisão do Supremo Tribunal Federal no RE 1515163 – Tema 1335, ficou assentada a tese de que ‘não incide a taxa SELIC, prevista no art. 3º da EC nº 113/2021, no prazo constitucional de pagamento de precatórios do § 5º do art. 100 da Constituição. 2. Durante o denominado ‘período de graça’, os valores inscritos em precatório terão exclusivamente correção monetária, nos termos decididos na ADI 4.357-QO/DF e na ADI 4.425-QO/DF.’ IV – Dispositivo e tese 7. Agravo interno não provido. Mantida a decisão monocrática que negou provimento ao agravo de instrumento” (e-doc. 23).
+
+Embargos de declaração opostos foram rejeitados (e-doc. 36).
+
+2. No recurso extraordinário, o agravante alegou ter o Tribunal de origem, “ao adotar os parâmetros estabelecidos no artigo 21-A da Resolução
+nº 303/2019 do Conselho Nacional de Justiça e no artigo 29, § 1º, da Lei de Diretrizes Orçamentárias, para o pagamento de precatório, acabou por negar vigência e interpretar equivocadamente a Emenda Constitucional nº 113/2021” (fl. 2, e-doc. 42).
+
+Afirmou que “a discussão acerca da correta aplicação da Emenda Constitucional nº 113/2021 e das ADIs 7064 e 7703 versa sobre matéria exclusiva de direito, com discussão constitucional, além de repercutir de forma econômica, social e jurídica em todas as ações nas quais a Fazenda Pública for devedora” (fl. 12, e-doc. 42).
+
+Realçou que o julgado recorrido “merece ser reformado, pois negou  vigência à Emenda Constitucional nº 113/2021, entendendo que a Lei de  Diretrizes Orçamentárias deve ser aplicada, mas a Taxa Selic não, com o que não podemos concordar” (fl. 15, e-doc. 42).
+
+Pediu “provimento do presente Recurso Extraordinário, para reformar
+o V. Acórdão, com o expresso reconhecimento da aplicação imediata da
+Emenda Constitucional nº 113/2021 na correção dos precatórios e RPVs” (fl. 23, e-doc. 42).
+
+3. O recurso extraordinário foi inadmitido, pelo óbice das Súmulas ns. 283 e 284 do Supremo Tribunal Federal (e-doc. 47).
+
+4. No agravo interposto, o agravante pede sejam “afastados os óbices sumulares (283 e 284 do STF), seja destrancado o Recurso Extraordinário, determinando-se o seu processamento e posterior provimento para garantir a imediata aplicação da Emenda Constitucional nº 113/2021” (fl. 4, e-doc. 48).
+
+Examinados os elementos dos autos, DECIDO.
+
+5. Razão jurídica não assiste ao agravante.
+
+6. Consoante anotado pela Vice-Presidência do Tribunal de origem, ao inadmitir o recurso extraordinário, incide na espécie o óbice das Súmulas ns. 283 e 284 deste Supremo Tribunal.
+
+7. Pelo julgado recorrido, negou-se provimento a agravo interno, analisando-se as normas de competência do Tribunal de origem e consignando-se que “a regularidade das requisições de pagamento e eventual pedido de revisão dos critérios de atualização do crédito durante o período de tramitação do precatório é da competência única e exclusiva da Presidência desta Corte, no desempenho de sua função administrativa, conforme se infere das normas previstas nos arts. 32, inciso I, da Resolução 458/2017 e 39, inciso I, da Resolução 822/2023, do CJF”
+
+Subsiste o fundamento infraconstitucional, autônomo e suficiente para a manutenção do julgado recorrido, pois, pelo que se tem nos autos, o recurso especial interposto pelo agravante não foi conhecido pelo Superior Tribunal de Justiça. Incide, na espécie, a Súmula n. 283 do Supremo Tribunal Federal:
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXERCÍCIO DA ACUPUNTURA POR PSICÓLOGOS. RESOLUÇÃO 5/2002 DO CONSELHO FEDERAL DE PSICOLOGIA. ACÓRDÃO RECORRIDO COM FUNDAMENTOS CONSTITUCIONAIS E INFRACONSTITUCIONAIS SUFICIENTES, POR SI SÓS, PARA MANTÊ-LO. DESPROVIMENTO DO RECURSO ESPECIAL PELO SUPERIOR TRIBUNAL DE JUSTIÇA. TRÂNSITO EM JULGADO DOS FUNDAMENTOS LEGAIS APTOS A MANTER O ACÓRDÃO. SÚMULA 283/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE n. 750.384-AgR/DF, Relator o Ministro Teori Zavascki, DJe 20.8.2013).
+
+“AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. CONVERSÃO EM PECÚNIA DE FÉRIAS-PRÊMIO NÃO USUFRUÍDAS. REEXAME DE LEGISLAÇÃO LOCAL (LEI MUNICIPAL 2.933/1995). ÓBICE DA SÚMULA 280 DO STF. EXISTÊNCIA DE FUNDAMENTO INFRACONSTITUCIONAL NÃO AFASTADO POR MEIO DO RECURSO ESPECIAL. FUNDAMENTO SUFICIENTE PARA A MANUTENÇÃO DO ACÓRDÃO RECORRIDO. A ofensa a direito local não viabiliza o recurso extraordinário (Súmula 280 do STF). O acórdão recorrido se mantém pelo fundamento infraconstitucional suficiente não impugnado por meio do recurso especial. Agravo regimental a que se nega provimento” (ARE n. 665.310-AgR, Relator o Ministro Joaquim Barbosa, DJe 23.5.2012).
+
+8. Analisar e decidir sobre a conclusão do Tribunal de origem também demandaria exame da legislação infraconstitucional pertinente, procedimento incabível em recurso extraordinário. Assim, por exemplo:
+
+“DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. ENSINO FUNDAMENTAL. VAGAS AOS EDUCANDOS EM ESCOLAS PRÓXIMAS ÀS RESIDÊNCIAS. SEPARAÇÃO DE PODERES. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 2º, 23, 208, I, §§ 1º E 2º, E 211, §§ 2º E 3º, DA CONSTITUIÇÃO DA REPÚBLICA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal. Compreensão diversa demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido” (ARE n. 1.171.031-AgR-segundo, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 27.8.2019).
+
+9. Ainda que pudesse ser superado o óbice processual apontado, o que não se dá na espécie, o recorrente não indicou expressamente o dispositivo constitucional que teria sido afrontado pelo acórdão recorrido, limitando-se a afirmar genericamente a negativa de vigência à Emenda Constitucional n. 113/2021. No recurso extraordinário, também não se esclarece como o acórdão recorrido do Tribunal de origem teria incorrido nas inconstitucionalidades alegadas.
+
+Este Supremo Tribunal assentou ser deficiente a argumentação veiculada em recurso no qual não se impugnam todos os fundamentos
+do acórdão recorrido nem se indica expressamente o dispositivo constitucional tido por afrontado, impedindo a exata compreensão da controvérsia. Incide na espécie vertente a Súmula n. 284 do Supremo Tribunal Federal. Assim, por exemplo:
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. INADMISSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é inadmissível quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia, máxime quando as razões recursais encontram-se dissociadas dos fundamentos do acórdão recorrido, ex vi do enunciado da Súmula 284 do STF. 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa
+(artigo 1.021, § 4º, do CPC), caso seja unânime a votação.
+3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE n. 1.371.780-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 16.5.2022).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. DEMONSTRAÇÃO INSUFICIENTE DA PRELIMINAR DE REPERCUSSÃO GERAL. ARGUMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.355.080-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 17.12.2021).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. ARGUMENTAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SUPOSTA AFRONTA AOS PRINCÍPIOS CONSTITUCIONAIS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA, DO CONTRADITÓRIO
+E DA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). RAZÕES DO APELO EXTREMO DISSOCIADAS DO QUE FOI DECIDIDO NO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 1.035, § 2º, do Código de Processo Civil/2015. II O Supremo Tribunal Federal, ao julgar o ARE 748.371-RG/MT (Tema 660), de relatoria do Ministro Gilmar Mendes, rejeitou a repercussão geral da controvérsia referente à suposta ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando o julgamento da causa depender de prévia análise de normas infraconstitucionais, por não configurar situação de ofensa direta à Carta Magna. III Nos termos da Súmula 284/STF, é inadmissível o recurso extraordinário quando as razões recursais estão dissociadas dos fundamentos do acórdão recorrido. IV Agravo regimental a que se nega provimento” (ARE n. 1.343.378-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 4.11.2021).
+
+10. Registre-se, ademais, como consignado no acórdão recorrido, que, “embora esta decisão não comporte o julgamento da matéria, cabe registrar, a título de observação, que, no mérito, melhor sorte não assistiria à parte. Em decisão do Supremo Tribunal Federal no RE 1515163 – Tema 1335, ficou assentada a tese de que ‘não incide a taxa SELIC, prevista no art. 3º da EC
+nº 113/2021, no prazo constitucional de pagamento de precatórios do § 5º do
+art. 100 da Constituição. 2. Durante o denominado ‘período de graça’, os valores inscritos em precatório terão exclusivamente correção monetária, nos termos decididos na ADI 4.357-QO/DF e na ADI 4.425-QO/DF” (fl. 5, e-doc. 23).
+
+11. Comprovados os óbices jurídicos impeditivos da admissibilidade do recurso, nada há a prover em relação às alegações do agravante.
+
+12. Pelo exposto, nego seguimento ao recurso extraordinário com agravo (art. 638 do Código de Processo Penal, inc. III e al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de novembro de 2026.
+Ministra CÁRMEN LÚCIA
+Relatora
