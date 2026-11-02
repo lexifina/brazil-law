@@ -8642,7 +8642,8 @@ _CC16_GREEN = re.compile(r"<font\b[^>]*color\s*=\s*\"?#008000\"?[^>]*>", re.I)
 _CC16_FONT = re.compile(r"<(/?)font\b[^>]*>", re.I)
 _CC16_2002_MARK = re.compile(r"^(?:Texto original:?\s*|(?:[IVXLC]+|[a-z]\)|§ ?\d+º?|Parágrafo único|Art\.? ?[\d.]+º?)?"
                              r"\s*[-.:]?\s*(?:Inciso|Alínea|Item|Parágrafo|Artigo|Número|§)?\s*"
-                             r"(?:suprimid|revogad|eliminad)[oa]s?\b.*)$", re.I)
+                             r"(?:(?:suprimid|revogad|eliminad)[oa]s?\b|acrescentad[oa]s?\b.*\b(?:suprimid|revogad|eliminad)[oa]s?\b).*)$",
+                             re.I)
 
 
 def _cc16_drop_green(html: str) -> str:
@@ -8678,6 +8679,68 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "556, de 25 de junho de 1850'), in force 11.1.2003 (art. 2.044: 'Este Código entrará em vigor 1 (um) ano após a sua "
         "publicação', DOU 11.1.2002), the Código Civil's first day in its own record, so its last version, on 11.1.2003, "
         "removes every provision, credited to Lei 10.406/2002")
+    # Decreto nº 3.725, de 15.1.1919 (a decree of the Poder Legislativo: 'o Congresso Nacional decretou e eu sancciono'),
+    # art. 3: the corrections of the Code. The record of its original publication: Diário Oficial, Seção 1, 19.1.1919,
+    # p. 1084. No vigência clause (art. 4 only revokes): the Code's own Introdução art. 2, 'A obrigatoriedade das leis,
+    # quando não fixem outro prazo, começará no Distrito Federal três dias depois de oficialmente publicadas': 22.1.1919
+    _CC16_DAY3725 = "1919-01-22"
+    B12.DECREES["dec-3725-1919"] = {"enacted": "1919-01-15", "published": "1919-01-19",
+                                    "title": "Faz diversas correcções no Codigo Civil e manda fazer do Codigo corregido uma "
+                                             "edição de cinco mil exemplares."}
+    P.VIGENCIA_FIXED["dec-3725-1919"] = (
+        _CC16_DAY3725, "no vigência clause (art. 4 only revokes): Código Civil de 1916, Introdução art. 2, 'A obrigatoriedade "
+                       "das leis, quando não fixem outro prazo, começará no Distrito Federal três dias depois de oficialmente "
+                       "publicadas' (Diário Oficial 19.1.1919, Seção 1, p. 1084): 22.1.1919")
+    for _n in ("(Incluído pelo Decretoi nº 3.725, de 1919)", "(Renumerado do § 1º pelo Decretoi nº 3.725, de 1919)",
+               "(Suprimido pelo Decretoi nº 3.725, de 1919)", "(Eliminado pelo Decretoi nº 3.725, de 1919)",
+               "(Incluído pelo Decreto-Lei nº 3.725, de 1970)",
+               "(Renumerado do paragrafo único pelo Decreto-Lei nº 3.725, de 1919)"):
+        _fixed = (_n.replace("Decretoi nº", "Decreto nº").replace("Decreto-Lei nº 3.725, de 1970", "Decreto nº 3.725, de 1919")
+                  .replace("Decreto-Lei nº 3.725, de 1919", "Decreto nº 3.725, de 1919"))
+        P.NOTE_FIX[_n] = (_fixed, f"Código Civil de 1916: the note reads '{_n[1:-1]}', and its link opens Decreto nº 3.725 of "
+                                  "15.1.1919 (a decree of the Poder Legislativo; there is no Decreto-Lei nº 3.725)")
+    # Decreto nº 20.330, de 27.8.1931 (Governo Provisório, with the force of law): art. 9's parágrafo único becomes § 1º
+    # and § 2º is added; 'publicado no DOU de 1º.9.1931', no vigência clause: the Introdução art. 2 three-day rule
+    B12.DECREES["dec-20330-1931"] = {"enacted": "1931-08-27", "published": "1931-09-01",
+                                     "title": "Introduz em parágrafo ao art. 9º do Código Civil."}
+    P.VIGENCIA_FIXED["dec-20330-1931"] = (
+        "1931-09-04", "no vigência clause: Código Civil de 1916, Introdução art. 2, 'A obrigatoriedade das leis, quando não "
+                      "fixem outro prazo, começará no Distrito Federal três dias depois de oficialmente publicadas' (DOU "
+                      "1.9.1931): 4.9.1931")
+    P.NOTE_FIX["(Incluído pela Lei nº 4.123, de 1962)"] = (
+        "(Incluído pela Lei nº 4.121, de 1962)",
+        "Código Civil de 1916 arts. 246 parágrafo único, 263 XII and XIII, 269 III and IV: the note reads 'Incluído pela Lei "
+        "nº 4.123, de 1962' and its link opens Lei nº 4.121 of 27.8.1962, whose art. 1 gives arts. 246, 263 and 269 these "
+        "very lines (Lei nº 4.123/1962 does not amend the Code)")
+    P.NOTE_FIX["(Redação dada pelo Decreto nº 3.725, de 1919)"] = (
+        "(Redação dada pela Lei nº 4.121, de 1962)",
+        "Código Civil de 1916 art. 263 XI: Planalto prints two XI lines, Decreto 3.725/1919's (note 'Incluído pelo Decreto nº "
+        "3.725, de 1919') and, inside Lei nº 4.121/1962's recast list of art. 263 (I to XIII), a second one noted 'Redação "
+        "dada pelo Decreto nº 3.725, de 1919'; its words are those of Lei 4.121 art. 1 (art. 263 XI, 'Os bens da herança "
+        "necessária, a que se impuser a cláusula de incomunicabilidade (art. 1.723)'), so it is read as Lei 4.121's wording")
+
+    def _cc16_decree_units() -> set:
+        """the articles Decreto 3.725/1919 art. 3 corrects, read from the decree's page: its items open 'Art. N:' or 'Ao
+        art. N'; the items before 'Ao art. 6º, paragrapho unico, do proprio Codigo' are the Introdução's"""
+        if "dec3725" in CC16_USED:
+            return CC16_USED["dec3725"][0]
+        import html as _h
+        r = P.raw("law:dec-3725-1919")
+        units = set()
+        if r:
+            t = re.sub(r"\s+", " ", _h.unescape(re.sub(r"<[^>]+>", " ", P.decode(r[0]))))
+            a, b = t.find("Art. 3º São as seguintes"), t.find("Art. 4º Revogam-se")
+            body = t[a:b] if a >= 0 and b > a else ""
+            cut = body.find("do proprio Codigo")
+            cut = body.rfind("Ao art", 0, cut) if cut > 0 else cut   # 'Ao art. 6º, paragrapho unico, do proprio Codigo'
+            for m in re.finditer(r"(?:^|[.»:;)\]]\s+|–\s+)(?:Ao\s+)?[Aa]rts?\.\s*([\d.]+)\s*º?(?=[\s,:–-])", body):
+                n = int(m.group(1).replace(".", "").strip() or 0)
+                if not n:
+                    continue
+                units.add((f"art-in-{n:04d}" if 0 <= m.start(1) < cut else f"art-{n:04d}"))
+        CC16_USED["dec3725"] = [units]
+        return units
+
     _paragraphsCC16 = P.paragraphs
 
     def _paragraphs_cc16(html, digits):
@@ -8691,6 +8754,29 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         if page == "l3071-2002":
             html = _cc16_drop_green(html)
         out, rest = _paragraphsCC16(html, digits)
+        if page == "l3071":
+            # each line's strike: 'css' (the line-through every 1916 line carries), 'tag' (<strike>: a wording later
+            # replaced), 'none' (unstruck), 'mixed' (part of the line struck by <strike>); read again with the CSS removed
+            bare, _ = _paragraphsCC16(re.sub(r";?\s*text-decoration\s*:\s*line-through\s*;?", ";", html, flags=re.I), digits)
+            if len(bare) == len(out):
+                for a, b in zip(out, bare):
+                    a["cc16_cls"] = ("none" if a["state"] == "plain" else "mixed" if "mixed" in (a["state"], b["state"])
+                                     else "tag" if b["state"] == "struck" else "css")
+            else:
+                print("CC16: the page read without its CSS strike has", len(bare), "lines, not", len(out))
+            # Planalto's annotations: the instructions of Decreto 3.725/1919 art. 3 printed unstruck under the article
+            # they correct ('Faça-se ponto na palavra morte ...', art. 10): not lines of the Code
+            keep = []
+            for p in out:
+                if (p["state"] == "plain" and not p["label"] and not p["heading"] and p["unit"] != "preambulo"
+                        and re.match(r"(?:Fa[çc]a-se|Diga-se|Elimine-se|Suppr?ima-se|Redija-se|Accrescente-se|Acrescente-se)\b",
+                                     P.norm(p["text"]))):
+                    CC16_USED.setdefault("annot", []).append(f"{p['unit']} {P.norm(p['text'])[:50]!r}")
+                    continue
+                keep.append(p)
+            out[:] = keep
+            for i, q in enumerate(out):
+                q["i"] = i
         if page == "l3071-2002":
             # what is left of a revoked provision once its green text is gone: 'Texto original:' and the markers
             # 'V - Inciso suprimido pela Lei nº 4.121, de 27.8.1962:' are not lines in force
@@ -8724,20 +8810,176 @@ if any(a["slug"] == _LCC16 for a in ACTS):
     P.unit_label = _unit_label_cc16
     _span_fixCC16 = B8.apply_span_fix
 
+    def _cc16_key(p):
+        """(rank, key) of a line: caput 0, § / parágrafo único 1, inciso 2, alínea 3, item 4; the 1916 lines carry no
+        parser label ('I. Os menores ...'), so the label is read from the text"""
+        lab = p["label"] or ""
+        if lab.startswith("Art."):
+            return (0, "caput")
+        s = P.norm(lab or p["text"])
+        if re.match(r"Par[áa]gra(?:ph|f)o[\s.]+[úu]nico", s, re.I):
+            return (1, "1")
+        m = re.match(r"§\s*(\d+)", s)
+        if m:
+            return (1, m.group(1))
+        # incisos printed with l for I ('Ill -', 'Vl.', 'lI -'): the numeral is the label
+        m = re.match(r"([IVXLC]+|[IVXl]*l[IVXl]*)\s*(?:[-–.]|$)", s)
+        if m and (m.group(1).isupper() or re.search(r"[IVX]", m.group(1)) or m.group(1) == "l" and s[1:2] in " -"):
+            return (2, m.group(1).replace("l", "I"))
+        m = re.match(r"([a-z])\s*\)", s)
+        if m:
+            return (3, m.group(1))
+        m = re.match(r"(\d+)\s*[.)\-–]", s)
+        if m:
+            return (4, m.group(1))
+        return None
+
+    # ends a line's own note gives, or a rule of the shared readers that sets lines aside: kept as they are
+    _CC16_OWN_ENDS = ("note", "lapse", "twin", "promulgation", "conversion", "run-revoked")
+
     def _cc16_model(paras, record):
-        """a wording no note ends and no later wording of its label follows was in force until the repeal (the page
-        strikes it only for the repeal): it stays open, and the repeal (B9.REPEALS) ends it on 11.1.2003"""
+        """the end of every wording on the all-struck 2026 page (forty-fifth session, the coordinator's reading): a line
+        ends (a) by its own Revogado/Suprimido/Eliminado note, or with the line above it that such a note ends; (b) when
+        the next wording of the same unit and label starts (the label path: § n / parágrafo único, inciso, alínea, item
+        under its own caput or §; parágrafo único and § 1º are one slot); (c) a sub-line ends when a law rewrote the
+        line above it WITH a list of the same kind beginning at its first label (Lei 4.121/1962's art. 6: caput, I-III and
+        parágrafo único), so a longer old list loses its tail; a caput-only rewrite leaves the old sub-lines; (d)
+        otherwise it was in force until the repeal (B9.REPEALS), 11.1.2003. The shared readers' guesses ('successor',
+        'next-wording', 'parent', ...) end a line at the next law-written line of the article whatever its label, which
+        an all-struck page turns into wrong ends (art. 16: Lei 9.096/1995's III and § 3º ended the caput, I, II, §§ 1º-2º)"""
         b3 = sys.modules.get("parse_batch3")
+        by_unit: dict[str, list[dict]] = {}
         for p in paras:
-            if p["state"] == "plain" or p.get("pinned") or p["end_how"] != "undated" or p["heading"] and not p["text"]:
-                continue
-            p.update({"skip": False, "end": "2003-01-11", "end_law": "lei-10406-2002", "end_how": "act-repealed",
-                      "pinned": True})
-            if record:
-                CC16_USED.setdefault("open", []).append(p["unit"])
-                if b3 is not None:
-                    tag = f"CC16 {p['unit']} [{p['label'] or 'line'}] {p['text'][:60]!r}"
-                    b3.UNDATED[:] = [u for u in b3.UNDATED if u != tag]
+            if not p["heading"] and not p.get("cc16_drop"):
+                by_unit.setdefault(p["unit"], []).append(p)
+        for unit, ps in by_unit.items():
+            # label path of each line: the keys of the nearest earlier lines of lower rank (page order)
+            for k, p in enumerate(ps):
+                key = _cc16_key(p)
+                if key is None and unit != "preambulo":
+                    key = (1, "cont")   # an unlabelled line of the caput ('Compete-lhe:' after art. 233's caput)
+                path = []
+                if key is not None:
+                    want = key[0]
+                    for q in reversed(ps[:k]):
+                        kq = _cc16_key(q)
+                        if kq is not None and kq[0] < want:
+                            path.insert(0, kq)
+                            want = kq[0]
+                            if want == 0:
+                                break
+                p["cc16_path"] = tuple(path) + ((key,) if key else ())
+                p["cc16_anc"] = None
+                p.setdefault("cc16_next", None)
+                if path:
+                    for q in reversed(ps[:k]):
+                        kq = _cc16_key(q)
+                        if kq is not None and kq == path[-1]:
+                            p["cc16_anc"] = q
+                            break
+            # Decreto 3.725/1919's corrections: Planalto prints the corrected wording below the 1916 line (struck by the
+            # CSS, no note) as a later wording, struck by <strike>, with no note. In an article the decree corrects, the
+            # corrected line starts on 22.1.1919, credited to the decree, and the 1916 line of its label ends then (b)
+            dec = _cc16_decree_units()
+            for k, q in enumerate(ps):
+                if (q.get("cc16_dec") or q.get("cc16_cls") != "tag" or q["notes"] or q["start"] != _CC16_DAY
+                        or q.get("skip") or q["state"] == "plain"):
+                    continue
+                p = next((p for p in reversed(ps[:k]) if p["cc16_path"] == q["cc16_path"]), None)
+                pair = (p is not None and p.get("cc16_cls") in ("css", "none") and not p["notes"]
+                        and p["start"] == _CC16_DAY)
+                tag = f"{unit} [{q['label'] or ''}] {P.norm(q['text'])[:70]!r}"
+                if pair and unit in dec:
+                    q.update({"start": _CC16_DAY3725, "start_law": "dec-3725-1919", "cc16_dec": True})
+                    if record:
+                        CC16_USED.setdefault("dec-pair", []).append(tag)
+                elif record:
+                    CC16_USED.setdefault("tag-pair-unlisted" if pair else "tag-alone-listed" if unit in dec
+                                         else "tag-alone-unlisted", []).append(tag)
+            live = [q for q in ps if not q.get("skip") or q.get("cc16")]
+            for p in ps:
+                if p.get("skip") and not p.get("cc16"):
+                    continue
+                if p["state"] == "plain":
+                    continue
+                if p.get("pinned") and not p.get("cc16"):
+                    continue
+                if p.get("end_how") in _CC16_OWN_ENDS and not p.get("cc16"):
+                    p["cc16_own"] = True
+                if p.get("cc16_own"):
+                    continue
+                cands = []
+                path = p["cc16_path"]
+                if path:
+                    nxt = []
+                    for q in live:   # (b) the next wording of the same label path
+                        if q is p or q["start"] <= p["start"]:
+                            continue
+                        qp = q["cc16_path"]
+                        ren = q.get("renum_from")
+                        if qp == path or (ren and ren[0] and qp[:-1] == path[:-1]
+                                          and _cc16_key({"label": ren[0], "text": ren[0]}) == path[-1]):
+                            cands.append((q["start"], q["start_law"] or "", "next-label"))
+                            nxt.append((q["start"], q["i"], q))
+                    p["cc16_next"] = min(nxt, key=lambda x: x[:2])[2] if nxt else None
+                    # (c) the line above rewritten with a new list of this kind from its first label
+                    rank = path[-1][0]
+                    first = {2: "I", 3: "a", 4: "1", 1: "1"}[rank] if rank and path[-1][1] != "cont" else None
+                    a = p.get("cc16_anc")
+                    if path[-1][1] == "cont" and not nxt and a is not None and a.get("cc16_next") is not None:
+                        # an unlabelled caput line goes with its caput when the new caput has no such line of its own
+                        q = a["cc16_next"]
+                        cands.append((q["start"], q["start_law"] or "", "with-caput"))
+                    for q in live:
+                        if not first or q["start"] <= p["start"] or not q["start_law"]:
+                            continue
+                        qp = q["cc16_path"]
+                        if len(qp) == len(path) and qp[:-1] == path[:-1] and qp[-1] == (rank, first):
+                            # a new first item: did the same law rewrite the line above the list the same day?
+                            if any(r is not q and r["start"] == q["start"] and r["start_law"] == q["start_law"]
+                                   and r["cc16_path"] == path[:-1] for r in live):
+                                cands.append((q["start"], q["start_law"], "list-rewritten"))
+                    # (a) the line above ends by its own note and nothing replaces it
+                    if a is not None and a.get("end_how") == "note" and a["end"] and a["end"] > p["start"]:
+                        cands.append((a["end"], a["end_law"], "parent-revoked"))
+                if cands:
+                    d, law, how = min(cands)
+                    p.update({"skip": False, "end": d, "end_law": law or None, "end_how": how, "pinned": True,
+                              "cc16": True})
+                else:
+                    p.update({"skip": False, "end": "2003-01-11", "end_law": "lei-10406-2002",
+                              "end_how": "act-repealed", "pinned": True, "cc16": True})
+                if record:
+                    CC16_USED.setdefault(p["end_how"], []).append(p["unit"])
+                    if b3 is not None:
+                        tag = f"CC16 {p['unit']} [{p['label'] or 'line'}] {p['text'][:60]!r}"
+                        b3.UNDATED[:] = [u for u in b3.UNDATED if u != tag]
+        if not record:
+            # print order: Planalto prints a later wording below the earlier ones (often after the old sub-lines: art.
+            # 186's new caput after the 1916 parágrafo único), so each wording takes the place of the first wording of
+            # its slot; lines no wording replaces keep their place
+            for unit, ps in by_unit.items():
+                if unit in ("preambulo", "titulos"):
+                    continue
+                idx = {id(p): k for k, p in enumerate(ps)}
+                pos = dict(idx)
+                for p in ps:
+                    q = p.get("cc16_next")
+                    if q is not None and id(q) in pos:
+                        pos[id(q)] = min(pos[id(q)], pos[id(p)])
+                new = sorted(ps, key=lambda p: (pos[id(p)], idx[id(p)]))
+                if any(a is not b for a, b in zip(new, ps)):
+                    slots = [k for k, p in enumerate(paras) if id(p) in pos]
+                    for k, p in zip(slots, new):
+                        paras[k] = p
+                    CC16_USED.setdefault("reordered", []).append(unit)
+        # headings: a struck heading that no note and no later wording of its slot ends stands until the repeal (not
+        # with the article below it, as the shared 'heads' rule would have it on this page)
+        for p in paras:
+            if (p["heading"] and p["state"] != "plain" and p["text"]
+                    and (not p["end"] or p["end_how"] in ("undated", "heads"))):
+                p.update({"skip": False, "end": "2003-01-11", "end_law": "lei-10406-2002", "end_how": "act-repealed",
+                          "pinned": True})
 
     def _apply_span_fix_cc16(paras, act_slug, record):
         _span_fixCC16(paras, act_slug, record)

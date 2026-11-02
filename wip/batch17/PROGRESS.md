@@ -2984,7 +2984,13 @@ Arquivo.pt, no live Planalto.
   Seção 1. 20/09/1984. p. 13730'; Lei 9.040 'Publicação Original 1995-05-10 Diário Oficial da União. Seção 1. 10/05/1995. p.
   6641'. Planalto's pages end 'publicado no D.O.U. de 20.11.1984' / '10.12.1995' (misprints); both 'entra em vigor na data de
   sua publicação' (art. 2). Corrected in the zzzza block (additions only: B8.LAW_FIELD_FIX + VIGENCIA_FIXED, decision lines);
-  only zzzza holds these keys (lawin.py). RESULT: see 'zzzza re-PUBLISH' below.
+  only zzzza holds these keys (lawin.py). pipe.sh zzzza x2 (b44/logs/zzzza-pipe1.out, -pipe2.out): parse 0ced74ea x2 in each,
+  0 problems, 0 moves, dupline/dupcheck/leakcheck/firstline 0, pubgap 0 (was 2), overlap 0, dupsame 0, uniqlaws 0; benign as
+  before: ordercheck 1, quotecheck 5, missorig 1, latecaput; merged 296 acts, 4046 versions, 2826 commits, 0/0, identical,
+  audit clean main + futuro; eff 94744386 (versions of 20.9.1984 and 10.5.1995 now; 67 versions as before). RE-PUBLISHED:
+  reinstall.py replaced corpus.d/99-batch17zzzza.json (3013d42b -> 94744386; old file + .PUBLISH kept in b44/before/*.installed)
+  and rewrote its .PUBLISH (b44/publish-zzzza.txt). README row and jurisdiction.json need no change (row text and counts the
+  same). Final merged build of the installed folder (b44/logs/final-build.log): same numbers, clean.
 ### CC 1916 (Lei 3.071/1916), part zzzzb: CONFIGURED, NOT PUBLISHED (trials t1-t5)
 - Config (parse_batch17.py, additions only): PAGES l3071 (2026 page) / l3071-2002; pin l3071 in sources_batch17.json (same url/ts
   as sources_phase2 law:lei-3071-1916, NO "via" key: that cache lives in the old fetch cache, not wayback.py's); _act
@@ -3043,3 +3049,24 @@ Arquivo.pt, no live Planalto.
 9. Every law's in-force day (lawdays.py; pre-1970 dates clamp in commits, In-force trailer keeps the day); last change before
    the repeal 2001-02-16 in t5: confirm no 2001-2002 change is missing.
 10. pipe.sh x2, dupsame/uniqlaws, merged check, README row (docs.py rows-zzzzb.json), jurisdiction.json, PUBLISH.
+- PIDs (all mine, foreground through run.py unless said; all exited): setup 3732, head 20292 (rc 1), rt1 8396, rt2 54264, lt1
+  37568, col1 31236, t1 18224 (rc 1: pin with "via") then 23464, robots 42120, laws1 49960 (background task, iaonly laws), t2
+  27816, lx1 3112 (LexML, 2 requests 6 s apart), lx2 19764, lv1 2668, li1 27208, lt2 47684 (moved to background by the tool
+  timeout while waiting on the cpu gate; finished), rt3 17088, bd1 48736, t3 24548, t3s 44260, cls1 12212, t4 17896, t4s 40072,
+  pd1 7428, t5 29112, cmp5 40452, uq1 21944 (background by timeout; finished), pids1 4864 (rc 1), wait1, lt3 28468, lp1 54888,
+  bd2, lv2, lv3, vd1, inst1 15832, final build 28548, bd3 6896 (+146 -0), finish 45304 (after-copies, claim released); pipe1 (background, mine) 45032 39692 21588
+  51016 50700 43676 25464; pipe2 (foreground) 29224 44580 25392 51688 9240 42832 46104 (pipe.sh's file-check run.py PIDs go to
+  /dev/null). Two waits of my own on the pipe1 log (one background until-loop, one foreground loop), both ended by themselves.
+  Outside the wrappers (mistakes; small local reads/writes, no network): cat of setup.log; cat-heredoc writes of
+  tools/colors.py and tools/logsum.py; mkdir of b44/robots; greps/cut/head/tail/tr over my own b44 logs and the pipe output;
+  one no-op echo. Nothing running.
+
+## State at handoff (batch 17, forty-fourth session, 2026-11-02)
+Re-PUBLISHED this session: zzzza (CPC 1973; Lei 7.219/1984 and Lei 9.040/1995 DOU days from their official publication
+records; 67 versions). Merged build of the installed folder: 296 acts, 4046 versions, 2826 commits, check 0/0, --compare
+identical, audit_push clean main + futuro; uniqlaws 0; dupsame 0. README row + jurisdiction.json unchanged (still current).
+Files changed: parse_batch17.py (+146 -0 vs b44/before: zzzza DOU fix; zzzzb config and block), sources_batch17.json (+1 pin
+l3071), corpus.d/99-batch17zzzza.json + .PUBLISH, PROGRESS.md (+ checkpoint). effects_fix.py, law_records.json, README,
+jurisdiction.json unchanged. zzzzb is configured in PARTS but not published (no corpus.d file). Nothing running. Claim released.
+NEXT: CC 1916 (part zzzzb) TO DO items 1-10 above (item 1, the end model for an all-struck page, first).
+OPEN / DATED RE-CHECKS: unchanged from the forty-first handoff (the two DOU days are closed).

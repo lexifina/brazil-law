@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-02 (batch 17, forty-third session: zzzza CPC 1973 (Lei 5.869/1973) PUBLISHED, 67 versions 1974-2016 (Lei 5.925/1973 folded into the first version, credited to both laws; empty final version 18.3.2016); installed state: 296 acts, 4046 versions, 2826 commits, check 0/0, compare identical, audit clean; NEXT CC 1916 as part zzzzb (2002 capture pinned, no strikes: plan in batch17/PROGRESS.md forty-third session))
+CHECKPOINTED 2026-11-02 (batch 17, forty-fourth session: zzzza CPC 1973 re-PUBLISHED with the DOU days of Lei 7.219/1984 (20.9.1984) and Lei 9.040/1995 (10.5.1995) from their official publication records; CC 1916 configured as part zzzzb, trials only, NOT published (the 2026 page strikes the 1916 wording by CSS and the later wordings by <strike>, so CSS removal alone is wrong: every line read as a wording; cmp2002.py check: 1636 ok, 89 differ); installed state: 296 acts, 4046 versions, 2826 commits, check 0/0, compare identical, audit clean; NEXT zzzzb TO DO 1-10 in batch17/PROGRESS.md forty-fourth session)
 
 # gitlaw-BR progress (Brazil)
 
