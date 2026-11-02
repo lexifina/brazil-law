@@ -8361,6 +8361,13 @@ _W_CPC73_SPANS = {
             "especialmente os arts. 541 a 546 do Código de Processo Civil'; in force on publication, 29.5.1990) revoked it; "
             "Planalto prints the 1973 wording struck with no note, so it ends then, as arts. 542 to 546 do by their notes, "
             "until Lei 8.950/1994 revived the articles (in force 12.2.1995)"),
+    "496": ("Código de Processo Civil de 1973 art. 496: Lei 8.038/1990 (in force 29.5.1990) rewrote the article; Planalto "
+            "strikes the 1973 incisos III to V and prints the new list with a note on the caput only: the unnoted incisos "
+            "III ('embargos infringentes'), IV ('embargos de declaração') and V ('recurso ordinário') of that list start "
+            "with Lei 8.038 (III and IV in the same words as before)"),
+    "644": ("Código de Processo Civil de 1973 art. 644: Planalto's page prints no 1973 wording of the article (only Lei "
+            "8.953/1994's wording, struck, and Lei 10.444/2002's), so the history has no art. 644 before Lei 8.953 took "
+            "effect (12.2.1995): the source gives no text for it"),
     "746": ("Código de Processo Civil de 1973 art. 746 and its Capítulo IV (Dos embargos à arrematação e à adjudicação): Lei "
             "11.382/2006 rewrote art. 746 and renumbered Capítulo V as IV; Planalto prints the 1973 chapter heading and "
             "article struck, with no note, after the new wording: they end when Lei 11.382 took effect (21.1.2007)"),
@@ -8431,6 +8438,10 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
         P.VIGENCIA_FIXED[_k] = (_new, f"in force on its publication, {_new} (the page misprints the year as {_old[:4]})")
     _F_REN = {"end": "1980-05-13", "end_law": "lei-6780-1980", "end_how": "renumbered"}
     _F746 = {"skip": False, "end": "2007-01-21", "end_law": "lei-11382-2006", "end_how": "successor"}
+    _F496 = {"start": "1990-05-29", "start_law": "lei-8038-1990"}
+    B8.LABEL_FIX.append(("l5869-2015", "j) de eleição de cabecel", "f) de eleição de cabecel", "f)",
+                         "Código de Processo Civil de 1973 art. 275 II f) (Lei 5.925/1973's wording): printed 'j) de eleição "
+                         "de cabecel;', read as 'f)', as Lei 5.925's own text has it ('f) de eleição de cabecel;')"))
     B8.SPAN_FIX += [
         ((_LCPC73, "art-0500", "II -", "II - será admissível na apelação, nos embargos infringentes e no recurso", 0),
          {"skip": False, "start": _CPC73_DAY, "start_law": "lei-5925-1973", "end": "1990-05-29", "end_law": "lei-8038-1990",
@@ -8564,6 +8575,7 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
         if CPC73_USED["ends"]:
             B5.EXTRA_DECISIONS.append(_W_CPC73_ENDS.format(x="; ".join(dict.fromkeys(CPC73_USED["ends"]))) + ".")
         B5.EXTRA_DECISIONS.append(_W_CPC73_SPANS["741"] + ".")
+        B5.EXTRA_DECISIONS.append(_W_CPC73_SPANS["644"] + ".")
         rc = [x for x in B9.REPEAL_CHECK if x.startswith("CPC73:")]
         units = set(re.findall(r"(?:: |; )(art-[0-9a-z-]+|titulos): ", rc[0])) if rc else None
         if units == _CPC73_REPEALX_UNITS:
