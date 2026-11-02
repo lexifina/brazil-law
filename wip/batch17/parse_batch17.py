@@ -7562,8 +7562,68 @@ if any(a["slug"] == _LBEM for a in ACTS):
         _span_fixBEM(paras, act_slug, record)
         if act_slug == _LBEM:
             _reiq_model(paras, record)
+            _redata_model(paras, record)
 
     B8.apply_span_fix = _apply_span_fix_bem
+    _paragraphsBEM = P.paragraphs
+
+    def _paragraphs_bem(html, digits):
+        """art. 11-B § 5º (Lei 15.504): Planalto breaks the paragraph after 'inciso II do', printing the note there and the
+        rest, '§ 2º deste artigo deverá ser comprovada [...]', as a line of its own, which the reader takes for a § 2º"""
+        out, rest = _paragraphsBEM(html, digits)
+        if B8.CURRENT_PAGE[0] == "l11196":
+            for k, q in enumerate(out[:-1]):
+                nx = out[k + 1]
+                if (q["unit"] == "art-11-b" and q["text"] == "§ 5º A destinação do fornecimento efetivo de que trata o inciso "
+                        "II do" and nx["unit"] == "art-11-b" and nx["text"].startswith("§ 2º deste artigo deverá ser comprovada")):
+                    q["text"] = q["text"] + " " + nx["text"]
+                    del out[k + 1]
+                    if _W11B5 not in EXTRA:
+                        EXTRA.append(_W11B5)
+                    break
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_bem
+_W11B5 = ("Lei 11.196 art. 11-B § 5º (Lei 15.504/2026): Planalto breaks the paragraph after 'de que trata o inciso II do', with the "
+          "note there, and prints the rest ('§ 2º deste artigo deverá ser comprovada anualmente [...]') as a line of its own; "
+          "the two are one paragraph (as Medida Provisória 1.318's § 5º, 'inciso II do § 2º deverá ser comprovada')")
+B15.TEXT_FIX.append(("l11196", "SERVIÇOS DE DATACENTER (REDATA)'$", "SERVIÇOS DE DATACENTER (REDATA)",
+                     "Lei 11.196 Capítulo I, name as Lei 15.504/2026 worded it: the annotated page keeps the closing quotation "
+                     "mark of the amending text after the name"))
+_W1318_EM = ("Lei 11.196 ementa, art. 1 parágrafo único and the name of Capítulo I: Medida Provisória 1.318/2025 gave them new "
+             "wordings (DOU 18.9.2025, in force on publication) and lapsed on 25.2.2026 (Ato Declaratório 11/2026); the 2005 "
+             "wordings, which Planalto prints again, are back from 26.2.2026 to Lei 15.504/2026 (DOU 15.9.2026, in force on "
+             "publication), whose ementa and Capítulo I name follow; Lei 15.504's name of the chapter starts on that day (the "
+             "page gives the line no note)")
+_W1318_11C = ("Lei 11.196 art. 11-C as Medida Provisória 1.318/2025 added it: the MP's art. 5 ('produz efeitos: I - em 1º de "
+              "janeiro de 2026, quanto às modificações introduzidas no art. 11-C') puts it in effect on 1.1.2026; the MP lapsed "
+              "on 25.2.2026, after that day, so the article stands 1.1.2026 to 26.2.2026; the rest of the MP's Redata from "
+              "18.9.2025")
+B8.SPAN_FIX += [
+    ((_LBEM, "preambulo", "", "Institui o Regime Especial de Tributação para a Plataforma de Exportação de Serviços de Tecnologia "
+      "da Informação - REPES, o Regime Especial de Aquisição", 1),
+     {"start": "2026-02-26", "start_law": "mp-1318-2025-fim", "restored": True}, _W1318_EM),
+    ((_LBEM, "art-01", "Parágrafo único", "Parágrafo único. O Poder Executivo disciplinará", 1),
+     {"start": "2026-02-26", "start_law": "mp-1318-2025-fim", "restored": True}, _W1318_EM),
+]
+_RD_GAP = ("2025-09-18", "2026-02-26", "mp-1318-2025", "mp-1318-2025-fim")
+
+
+def _redata_model(paras, record):
+    """the headings of Capítulo I (SPAN_FIX skips heading lines) and Medida Provisória 1.318's art. 11-C"""
+    for p in paras:
+        if p["unit"] == "titulos" and p["heading"] and not p.get("skip"):
+            if p["text"] in ("CAPÍTULO I", "DO REGIME ESPECIAL DE TRIBUTAÇÃO PARA A PLATAFORMA DE EXPORTAÇÃO DE SERVIÇOS DE "
+                                           "TECNOLOGIA DA INFORMAÇÃO - REPES") and not p["notes"] and p["start"] == "2005-11-22":
+                p.update({"end": "2026-09-15", "end_law": "lei-15504-2026", "end_how": "successor", "gaps": [_RD_GAP],
+                          "pinned": True})
+            elif p["text"].startswith("DO REGIME ESPECIAL DE TRIBUTAÇÃO PARA A PLATAFORMA DE EXPORTAÇÃO DE SERVIÇOS DE TECNOLOGIA "
+                                      "DA INFORMAÇÃO (REPES)") and p["start"] < "2026-09-15":
+                p.update({"start": "2026-09-15", "start_law": "lei-15504-2026", "pinned": True})
+        if p["unit"] == "art-11-c" and p["start_law"] == "mp-1318-2025" and not p.get("skip"):
+            p.update({"start": "2026-01-01", "pinned": True})
+            if record and _W1318_11C not in EXTRA:
+                EXTRA.append(_W1318_11C)
 
 # part zzzy, REIQ (arts. 56 to 58 of Lei 11.196). Planalto reprints the articles after each Medida Provisória that revoked them
 # and lapsed or was converted without the revocation, so the page holds two to four copies of every 2013 line; the history
