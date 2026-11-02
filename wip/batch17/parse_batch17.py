@@ -890,7 +890,7 @@ PARTS: dict[str, list[str]] = {
     "zzzzk": ["lei-do-dpvat"],
     # fifty-fourth session
     "zzzzl": ["lei-9532-de-1997"],
-    # fifty-fifth session (not verified yet: trial only)
+    # fifty-fifth to fifty-eighth sessions
     "zzzzm": ["lei-10865-de-2004"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
@@ -10374,11 +10374,11 @@ if any(a["slug"] == _L9532 for a in ACTS):
                   "support",
     }
 
-# part zzzzm (fifty-fifth session, TRIAL): Lei 10.865/2004 (PIS/PASEP-Importação and COFINS-Importação; conversion of
+# part zzzzm (fifty-fifth to fifty-eighth sessions): Lei 10.865/2004 (PIS/PASEP-Importação and COFINS-Importação; conversion of
 # Medida Provisória 164/2004). Art. 53: in force on publication (DOU 30.4.2004, edição extra), effects from 1.5.2004 save
 # the articles before it that state their own days: art. 48 (art. 39 from 1.1.2005), art. 45 (the Lei's changes to MP 164 in
-# art. 8 §§ 1º-3º, 5º, 8º, 9º, arts. 16, 17 and 22 from 1.8.2004; MP 164's original wording of them from 1.5.2004: NOT YET
-# MODELLED), art. 44 § 1º (the revocation's effects from August 2004, a provision of Lei 10.147). Arts. 45 to 53 are in the
+# art. 8 §§ 1º-3º, 5º, 8º, 9º, arts. 16, 17 and 22 from 1.8.2004; MP 164's original wording of them from 1.5.2004: in the
+# fifty-eighth session's block below), art. 44 § 1º (the revocation's effects from August 2004, a provision of Lei 10.147). Arts. 45 to 53 are in the
 # first version (as Lei 9.532's art. 81)
 _L10865 = "lei-10865-de-2004"
 _G10865 = {_u(n): ("2004-05-01", "art. 53") for n in range(1, 45)}
