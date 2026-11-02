@@ -9180,6 +9180,11 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "revoking clause, and Planalto's page as captured on 2.6.2002 does not print the Introdução; no official text read "
         "for this record dates its end, so it stands as printed until the Code's repeal on 11.1.2003. Its art. 5 and art. "
         "20 parágrafo único, which Decreto nº 3.725/1919 corrects, are printed in one wording only and stand as printed")
+    _W_CC16_194 = (
+        "Código Civil de 1916 art. 194: the closing formula ('De acordo com a vontade que ambos acabais de afirmar perante "
+        "mim, de vos receberdes por marido e mulher, eu, em nome da lei, vos declaro casados'), which the caput introduces "
+        "('declarará efetuado o casamento, nestes termos:'), is printed above art. 195 like a marginal heading; it is read "
+        "as a line of art. 194, as Planalto's page of 2.6.2002 prints it")
     _W_CC16_ROWS = (
         "Código Civil de 1916, the 1916 lines print their numerals in the text ('II. A emancipação ...'), not as labels: "
         "the rule that starts an unlabelled line with a new wording above it does not apply to them, so art. 12 n. II to "
