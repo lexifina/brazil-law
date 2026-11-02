@@ -7571,6 +7571,17 @@ if any(a["slug"] == _LBEM for a in ACTS):
         """art. 11-B § 5º (Lei 15.504): Planalto breaks the paragraph after 'inciso II do', printing the note there and the
         rest, '§ 2º deste artigo deverá ser comprovada [...]', as a line of its own, which the reader takes for a § 2º"""
         out, rest = _paragraphsBEM(html, digits)
+        if B8.CURRENT_PAGE[0] in ("l11196", "l11196-compilado"):
+            for q in out:
+                if q["unit"] != "art-96" or not q["text"].rstrip().endswith("com a"):
+                    continue
+                hit = [(n, m) for n in q["notes"] for m in [_BARE_RX2187.fullmatch(n.strip())] if m]
+                if hit:
+                    n, m = hit[0]
+                    q["text"] = q["text"].rstrip() + " " + m.group(1)
+                    q["notes"] = [x for x in q["notes"] if x != n]
+                    if _W96_5 not in EXTRA:
+                        EXTRA.append(_W96_5)
         if B8.CURRENT_PAGE[0] == "l11196":
             for k, q in enumerate(out[:-1]):
                 nx = out[k + 1]
@@ -7584,6 +7595,22 @@ if any(a["slug"] == _LBEM for a in ACTS):
         return out, rest
 
     P.paragraphs = B.paragraphs = _paragraphs_bem
+_BARE_RX2187 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Medida Provis[óo]ria n[º°.]?\s*2\.187-13, de 24 de agosto de 2001\.)\s*\)?",
+                          re.I)
+_W96_5 = ("Lei 11.196 art. 96 § 5º ends '[...] no limite a que se refere o § 4º do art. 5º da Lei nº 9.639, de 25 de maio de 1998, "
+          "com a redação dada pela Medida Provisória nº 2.187-13, de 24 de agosto de 2001.': these words name the wording of "
+          "the act it refers to; they are part of the text, not an amendment note (Planalto prints them in the style of a note)")
+_W96_3 = ("Lei 11.196 art. 96 § 3º: Planalto prints it struck twice, with the note of Medida Provisória 457/2009 (DOU 11.2.2009, "
+          "in force on publication), which revoked it, and with that of Lei 11.960/2009, its conversion, which revoked it again; "
+          "it ends with the MP, on 11.2.2009")
+_W96_2 = ("Lei 11.196 art. 96 § 2º: Medida Provisória 457/2009 gave it a new wording ('[...] até 31 de maio de 2009'); Lei "
+          "11.960/2009, its conversion (DOU 30.6.2009), did not keep that change, and the 2005 wording, which Planalto prints "
+          "again unstruck with no note, is back from 30.6.2009, credited to Lei 11.960")
+B8.SPAN_FIX += [
+    ((_LBEM, "art-96", "§ 3º", "§ 3º Os débitos de que tratam o caput", 1), {"skip": True}, _W96_3),
+    ((_LBEM, "art-96", "§ 2º", "§ 2º Os débitos ainda não constituídos deverão ser confessados, de forma irretratável e "
+      "irrevogável.", 1), {"start": "2009-06-30", "start_law": "lei-11960-2009", "restored": True}, _W96_2),
+]
 _W11B5 = ("Lei 11.196 art. 11-B § 5º (Lei 15.504/2026): Planalto breaks the paragraph after 'de que trata o inciso II do', with the "
           "note there, and prints the rest ('§ 2º deste artigo deverá ser comprovada anualmente [...]') as a line of its own; "
           "the two are one paragraph (as Medida Provisória 1.318's § 5º, 'inciso II do § 2º deverá ser comprovada')")
