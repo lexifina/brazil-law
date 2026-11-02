@@ -12026,6 +12026,9 @@ if any(a["slug"] == _LPIS for a in ACTS):
     # Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: I - a alínea "b" do caput do
     # art. 3º da Lei Complementar nº 7, de 7 de setembro de 1970'): future branch (Planalto's page of Lei Complementar 7
     # prints only '(Vide Lei Complementar nº 214, de 2025)')
+    P.PUBLISHED_FIXED["lc-26-1975"] = (
+        "1975-09-12", "Lei Complementar 26/1975: its page closes 'Este texto não substitui o publicado no DOU de 12 de "
+                      "setembro de 1975' (the month in words, a form the publication reader does not take)")
     _FUT2027[_LPIS] = (
         set(), {},
         "Lei Complementar 7: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: I - a "
