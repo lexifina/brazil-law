@@ -312,6 +312,13 @@ PAGES.update({
     "l7170": "leis/l7170.htm",
     "l6194": "leis/l6194.htm",
     "l6194-2024": "leis/l6194.htm",   # capture of 10.5.2024, before the repeal by LC 207/2024 (17.5.2024)
+    # fifty-third session: ranked item 10 (annotated pages; the compiled pages are the consolidated checks)
+    "l10865": "_ato2004-2006/2004/lei/l10.865.htm",
+    "l10865-compilado": "_ato2004-2006/2004/lei/l10.865compilado.htm",
+    "l9532": "leis/l9532.htm",
+    "l9532-compilado": "leis/l9532compilado.htm",
+    "l12546": "_ato2011-2014/2011/lei/l12546.htm",
+    "l12546-compilado": "_ato2011-2014/2011/lei/l12546compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -8416,7 +8423,8 @@ B13.OPEN_ITEMS[_LCCOM] = (
 # 1.1.1974 (art. 1.220); repealed as a whole by Lei 13.105/2015 (CPC 2015) art. 1.046 ('Ao entrar em vigor este Código, [...]
 # ficando revogada a Lei nº 5.869, de 11 de janeiro de 1973'), in force 'após decorrido 1 (um) ano da data de sua publicação
 # oficial' (art. 1.045; DOU 17.3.2015): 18.3.2016, the CPC 2015's first day in its own record (60-phase2). Planalto has no
-# consolidated page (l5869compilada.htm captures are stubs): the check is the annotated page itself.
+# consolidated page after 2015 (later l5869compilada.htm captures are stubs): the check is its capture of 29.10.2015
+# (l5869compilada-2015).
 _LCPC73 = "codigo-de-processo-civil-de-1973"
 if any(a["slug"] == _LCPC73 for a in ACTS):
     P.VIGENCIA_FIXED["lei-8950-1994"] = (
@@ -9978,8 +9986,8 @@ if any(a["slug"] == _LC97 for a in ACTS):
     }
     B13.OPEN_ITEMS[_LC97] = (
         "Lei Complementar 97 (open items): Planalto's '(ADI 6457)' markers after art. 1 caput and art. 15 caput and §§ 1º to "
-        "3º point to the Supremo Tribunal Federal's judgment in that case, which changes no words; the markers are left out of "
-        "the text and the judgment is not modelled (its record was not read)")
+        "3º point to the Supremo Tribunal Federal's judgment in that case, whose effect on the text could not be read (its "
+        "record was not read); the markers are left out of the text and the judgment is not modelled")
     # coordinator decision (session 52): ADI 6457 is not modelled; say so as a decision
     EXTRA.append("Lei Complementar 97: the Supremo Tribunal Federal's judgment in ADI 6.457, to which Planalto's '(ADI 6457)' "
                  "markers point, is not shown in the history, because its record could not be read.")
@@ -10118,11 +10126,26 @@ if any(a["slug"] == _LDPVAT for a in ACTS):
     # takes it for a note and leaves a bare label
     _RX6194_PU = re.compile(r"\(\s*Revogado pela Lei n\s*[º°o]\s*8\.441, de 1992\s*\)\.?")
     LDPVAT_USED: list[str] = []
+    # coordinator decision (session 53): Medida Provisória 451/2008's lines of art. 3 read as the MP's own page prints them
+    # (the MP's own text governs); Planalto's page of the Lei prints two of them with other words
+    _MP451_LINES = (
+        ("s1", re.compile("de que trata o inciso II, deverão"), "de que trata o inciso II do caput, deverão"),
+        ("ii", re.compile("na forma prevista na alínea .a.(?=,)"), "na forma prevista no inciso anterior"),
+    )
+    LDPVAT_MP451: set[str] = set()
     _paragraphs6194 = P.paragraphs
 
     def _paragraphs_6194(html, digits):
         out, rest = _paragraphs6194(html, digits)
         if B8.CURRENT_PAGE[0] == "l6194-2024":
+            for q in out:
+                if q["unit"] == "art-03" and q["state"] != "plain" and not q["heading"]:
+                    for key, rx, new in _MP451_LINES:
+                        if rx.search(q["text"]):
+                            for f in ("text", "plain_text", "struck_text"):
+                                if isinstance(q.get(f), str) and q[f]:
+                                    q[f] = rx.sub(new, q[f])
+                            LDPVAT_MP451.add(key)
             for q in out:
                 if q["unit"] != "art-04" or q["state"] != "plain" or q["text"].strip() != "Parágrafo único.":
                     continue
@@ -10140,6 +10163,12 @@ if any(a["slug"] == _LDPVAT for a in ACTS):
         "Lei 6.194 art. 4 parágrafo único: Lei 11.482/2007 art. 8 gives art. 4 a new wording that includes the line "
         "'Parágrafo único. (Revogado pela Lei nº 8.441, de 1992).' (Lei 8.441/1992 had renumbered the parágrafo único as § 1º); "
         "the parenthesis is the amending law's own text, so the line reads so from 31.5.2007, credited to Lei 11.482")
+    _W6194_MP451 = (
+        "Lei 6.194 art. 3 § 1º in Medida Provisória 451/2008's wording (16.12.2008 to 4.6.2009): Planalto's page of the Lei "
+        "prints two of its lines in other words than the Medida Provisória's own page (which notes a rectification in the "
+        "DOU of 22.12.2008): the caput of § 1º 'de que trata o inciso II, deverão' for the Medida Provisória's 'de que trata "
+        "o inciso II do caput, deverão', and inciso II 'na forma prevista na alínea “a”' for its 'na forma prevista no "
+        "inciso anterior'; the Medida Provisória's own text governs, so both lines read as its page prints them")
     EXTRA.append(
         "Lei 6.194: the changes of Lei 11.945/2009 (conversion of Medida Provisória 451/2008) are dated by its publication, "
         "5.6.2009: its art. 33 IV a) makes arts. 30 to 32 (Lei 6.194 arts. 3, 5 and 12 and the Anexo) produce effects from "
@@ -10152,16 +10181,16 @@ if any(a["slug"] == _LDPVAT for a in ACTS):
     def _inner_dpvat(*a) -> int:
         if LDPVAT_USED:
             B5.EXTRA_DECISIONS.append(_W6194_PU + ".")
+        if LDPVAT_MP451:
+            assert LDPVAT_MP451 == {"s1", "ii"}, LDPVAT_MP451
+            B5.EXTRA_DECISIONS.append(_W6194_MP451 + ".")
         return _innerDPVAT(*a)
 
     B6.PB5B._write_part5 = _inner_dpvat
     B13.OPEN_ITEMS[_LDPVAT] = (
         "Lei 6.194 (open items): its Anexo (the table of permanent-disability percentages that Lei 11.945/2009 added for art. "
         "3), printed after the signature, is not included; the history holds the articles only. Planalto's 'Vide Medida nº "
-        "340, de 2006' pointers strike no words and are not modelled. Art. 3 § 1º II in Medida Provisória 451/2008's wording "
-        "(16.12.2008 to 4.6.2009) reads 'na forma prevista na alínea “a”', as the Lei's page prints it; the Medida "
-        "Provisória's own page, which notes a rectification in the DOU of 22.12.2008, reads 'na forma prevista no inciso "
-        "anterior'; the history keeps the Lei's page")
+        "340, de 2006' pointers strike no words and are not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

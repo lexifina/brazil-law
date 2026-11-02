@@ -297,9 +297,12 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
         f"{SRC.parent.name}/{SRC.name} (or, for a page another Brazil part pinned first, that part's pin file); its sha256 "
         "is recorded in each version.")
     for d_i, d in enumerate(part["decisions"]):
-        if "Planalto's consolidated page" in d:
-            part["decisions"][d_i] = d.replace("Planalto's consolidated page", "the unstruck text of Planalto's page of the "
-                                               "act (Planalto publishes no separate consolidated page for it)")
+        # a line that already reads 'the unstruck text of Planalto's consolidated page' names a consolidated page the act
+        # has (CPC 1973's pre-repeal check in 99-batch17zzzza): it is left as it is, so the phrase is not doubled
+        if re.search(r"(?<!the unstruck text of )Planalto's consolidated page", d):
+            part["decisions"][d_i] = re.sub(r"(?<!the unstruck text of )Planalto's consolidated page",
+                                            "the unstruck text of Planalto's page of the act (Planalto publishes no "
+                                            "separate consolidated page for it)", d)
     for k, (label, title) in MP_REJECTED.items():
         if k + "-fim" in part["laws"]:
             part["laws"][k + "-fim"].update(label=label, title=title)

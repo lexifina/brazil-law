@@ -3675,3 +3675,120 @@ firstline.py, pipe.sh unchanged. Claim released.
 TO DO: item 9 Lei 6.194/1974 (above: repeal 17.5.2024, page l6194-2024 pinned); 10 heavy tax: Leis 10.865/2004, 9.532/1997,
 12.546/2011 (not surveyed). FOR THE COORDINATOR: ADI 6457 needs an allowed record (portal /processos is Disallowed); the shared STF
 source template and batch 14's 'repeal is in the future' rewrite (above). OPEN / DATED RE-CHECKS unchanged.
+
+## Fifty-second session (2026-11-02): coordinator decisions 1-3 (nine parts re-PUBLISHED); Lei 6.194 PUBLISHED as zzzzk
+Claim taken at the start ('gitlaw-BR-52 alan-dell 2026-11-02T12:02Z', setup52.py through run.py), released at the end. Scratch:
+.gitlaw-scratch/brazil-b44 (before52/ = session-start copies taken before any edit: sources_batch17.json, law_records.json,
+bad_pins.json, dupsame_allow.json, effects_fix.py, parse.py, parse_phase2.py, lawrecords.py, dupfix.py, vigforms.py, titles.py,
+README.md, jurisdiction.json, PUBLISH, firstline.py, pipe.sh, both PROGRESS.md, corpus.json, every corpus.d file, and EVERY batch
+parser in before52/parsers/<batch>/parse_*.py (all 20: batch3-17, clt, codes, rju)); logs52/; pids52.txt; eff52/ (the installed
+candidates); txt52/ (page texts); robots52/; new tools: setup52, rr52, bdiff52 (all 20 parsers + effects_fix/parse/parse_phase2),
+g52 (grep), sl52 (line range), phr52 (JSON strings holding a phrase), stf52 (a part's STF source + court laws), req52 (every
+requests.jsonl line matching a URL regex, hidden caches included), lawrec52, fdiff52, b3run52 (parse_batch3 with its output sent to
+scratch: batch 3 writes corpus.d/90-batch3.json directly), same52.sh, pipeb52.sh, install52.py.
+bdiff52 after every parser edit (bd1-bd5): final parse_batch3.py +41 -1, parse_batch14.py +5 -0, parse_batch17.py +93 -1; every
+other parser and effects_fix.py unchanged.
+Requests: robots.txt of archive.org (200: Disallow /control/ /report/) and web.archive.org (404) first (robots52/); then
+archive.org only, through the shared client: `iaonly.py laws l6194-2024` (4 linked, 1 pinned: law:lei-8441-1992). No LexML, no
+Common Crawl, no Arquivo.pt, no live STF or Planalto, no challenge page.
+### 1. Decision 1: ADI 6457 (re-PUBLISHED zzzzg)
+- '# part zzzzg' block: EXTRA + "Lei Complementar 97: the Supremo Tribunal Federal's judgment in ADI 6.457, to which Planalto's
+  '(ADI 6457)' markers point, is not shown in the history, because its record could not be read." Unit diff vs installed: that one
+  added decision (the list shifts by one) and sources[0]'s pin/request counts. pipe.sh zzzzg (logs52/pipe-g1.out): 5b6f4fb8 x2,
+  file checks as in session 50, uniqlaws 0, dupsame 0, merged 305/4169/2907, 0/0, identical, audit clean.
+- NOT changed, for the coordinator: the zzzzg open item still says the judgment 'changes no words', which nobody has read either.
+### 2. Decision 2: the shared STF source entry (re-PUBLISHED zzzzj, zzzq, 99-batch8, 99-batch9)
+- What each part citing 'case pages ... (abaAndamentos)' actually read (request logs, .cache/requests.jsonl, cc/ and stf/):
+  * 99-batch17zzzzj (ADPF 130): the acórdão on redir.stf.jus.br/paginadorpub (archive.org capture). Allowed path.
+  * 99-batch17zzzq (ADI 5.809 MC): the decision PDF www.stf.jus.br/arquivo/cms/.../ADI5809liminar.pdf (archive.org). Allowed
+    (www.stf.jus.br/robots.txt answered 404 on 2026-10-31).
+  * 99-batch9 (ADC 42): Informativo STF 892 on www.stf.jus.br (direct, 2026-10-31, after its robots.txt). Allowed.
+  * 99-batch8 (ADI 3.964 MC, ADI 5.948 MC): the case summary www.stf.jus.br/portal/peticaoInicial/verPeticaoInicial.asp (capture
+    20140718) and the ADI 5.948 MC decision PDF (direct). Allowed. BUT see the coordinator list below.
+  * 90-batch3 (ADI 869, ADI 2.404) and 80-proc (ADI 2.797): STF case pages portal.stf.jus.br/processos/abaDecisoes/abaAndamentos,
+    read live through fetch.get (parse_batch3.py comment; base PROGRESS.md line 44 'STF case pages work live'). Their description
+    is accurate, but they were built from the Disallowed /processos path: NOT CHANGED, listed below.
+- Fix at the template: parse_batch3.py STF_READ (court law key -> record description, url, url fragments for the request count)
+  and _stf_read_requests (unique URLs in every .cache/**/requests.jsonl matching a fragment). A part's STF source entry names the
+  records read only when EVERY ruling it carries is in STF_READ; otherwise the old template. Entries: stf-adi-3964, stf-adi-5948,
+  stf-adc-42, stf-adi-5809, stf-adpf-130. Notes: 'Read for the day of each ruling and what it struck or suspended, in the record
+  named.' 90-batch3 and 80-proc unchanged (b3run52 run twice: sources[2] identical to the installed part).
+- Unit diffs (only sources[2] name/url/notes/requests, plus sources[0] pin counts for the batch17 parts): zzzzj 'acórdão of ADPF 130
+  (Plenário, 30.4.2009)' (requests 0 -> 4); zzzq 'decision granting the medida cautelar in ADI 5.809 (18.12.2017)' (0 -> 2); 8 'case
+  summary of ADI 3.964 (medida cautelar, Plenário, 12.12.2007); decision in ADI 5.948 (medida cautelar, 29.6.2018)', url
+  www.stf.jus.br (requests 4, unchanged); 9 'Informativo STF 892, on ADC 42 with ADI 4.903 and 4.937 (judgment concluded
+  28.2.2018)' (0 -> 1). pipeb52.sh 8 and 9: two parses identical (5d76e428, 33305bbd), file checks as before, uniqlaws 0, dupsame 0,
+  cmppart: acts/laws/decisions/ai_use/applies equal, sources differ.
+- FOR THE COORDINATOR (built from, or requested, robots-Disallowed STF paths; nothing changed):
+  * 90-batch3 (stf-adi-869, stf-adi-2404) and 80-proc (stf-adi-2797): dates read live from portal.stf.jus.br/processos case pages.
+  * 70-clt (stf-adi-1770, 5938, 5766; its own source entry, not the shared one): 3 live listarProcessos.asp + 3 abaAndamentos.asp
+    (clt/PROGRESS.md line 56; parse_clt.py line 1735).
+  * base corpus.json (stf-adi-7047, incidente 6318731; parse.py 'Supremo Tribunal Federal, case pages').
+  * 99-batch10 and 99-batch17zzn (stf-adi-4917, incidente 4379376): an archive.org copy of portal.stf.jus.br/processos/
+    abaAndamentos.asp?incidente=4379376 (capture 20260831225339) was fetched 2026-10-31 (.cache/cc/requests.jsonl); check whether
+    the ruling's dates came from it.
+  * 99-batch8: built from allowed records, but on 2026-10-31 one live request to portal.stf.jus.br/processos/listarProcessos.asp
+    (ADI 3964) was made 2 s after reading its robots.txt (batch8/PROGRESS.md: 'deleted from the cache unused'), and an Arquivo.pt
+    copy of /processos/detalhe.asp?incidente=2560579 (capture 20210302214935) was fetched; its law url stf-adi-3964 still points
+    to /processos/detalhe.asp.
+### 3. Decision 3: batch 14's repeal-check rewrite (re-PUBLISHED r, zx, zzzr, zzzza)
+- parse_batch14.py _inner: the '(the repeal is in the future)' rewrite now applies only to REPEAL_CHECK lines of acts whose
+  B9.REPEALS day is after 2026-10-31 (the same test as batch 14's consolidated()), matched by the line's 'short:' prefix; an act
+  repealed in the past keeps batch 9's 'the unstruck text of the pre-repeal capture of Planalto's page'. zzzzj's wrapper comment
+  updated (it rewrote its own line first; its output unchanged).
+- Lines that change: LPreg (r), LAgro (zx), L12990 (zzzr), CPC73 (zzzza): each read from a pre-repeal capture (10.12.2023,
+  18.12.2023, 31.5.2025, 27/29.10.2015). 99-batch14a (LC 87, LC 116, repealed 1.1.2033) keeps '(the repeal is in the future)'
+  (same52.sh: both lines identical; the raw 14a run differs from the installed file elsewhere, from later installed-file
+  post-processing, untouched). Unit diffs: only that decision line + sources[0] pin/request counts (r 130->535, zx 305->531,
+  zzzr 473->530, zzzza 632->657). pipe.sh r 094bfbed, zx 218b00d7, zzzr fca332e8, zzzza 9b399b3b, zzzq b9043757: two parses each
+  identical, 0 problems, uniqlaws 0, dupsame 0.
+- NOT changed, for the coordinator: zzzza decisions[19] reads 'against the unstruck text of the unstruck text of Planalto's page of
+  the act (Planalto publishes no separate consolidated page for it) as captured on 29.10.2015' (batch 5's blanket rewrite of
+  "Planalto's consolidated page" hits _W_CPC73_REPEALX; the CPC73 check is against the compiled page l5869compilada-2015).
+- All nine together (eff52/): uniqlaws 0 (uq-all); merged build (rb1) 305 acts, 4169 versions, 2907 commits, check 0/0, --compare
+  identical, audit_push clean main + futuro. install52.py: zzzzg 98bf4fc4->5b6f4fb8, zzzzj a355fda9->d6656e0e, zzzq
+  61c7800f->b9043757, 8 92ee2e09->a0ebeb24, 9 7b04efa0->98c047df, r 30a57851->094bfbed, zx 2597bf51->218b00d7, zzzr
+  18b5ecdc->fca332e8, zzzza 94744386->9b399b3b; each .PUBLISH keeps its lines + one fifty-second-session line. uniqlaws installed 0.
+- Mistake: pipe zzzzj and pipe r ran at the same time and their merged-build steps collided in brazil-b17-src/-build/-c
+  (zzzzj's crashed, r's printed nothing). From then on one pipe at a time; the rb1 build covers both parts.
+### 99-batch17zzzzk - PUBLISHED: Lei 6.194/1974 (lei-do-dpvat, LDPVAT, 6 versions 1974-12-20 .. 2024-05-17)
+- Config: PAGES l6194-2024 (capture 20240510043901, before the repeal); act (l6194-2024 page and check, 2 digits); PARTS zzzzk;
+  ACT_DAY_ALL lei-6194-1974 20.12.1974 (art. 13, DOU 20.12.1974, rectified 31.12.1974); ACT_LAWS_ALL lei-6194-1974 (url = PAGES
+  l6194). Block '# part zzzzk': EXTRA_LAWS lc-207-2024 (copied from the installed record, uniqlaws 0); B9.REPEALS 17.5.2024,
+  lc-207-2024 (LC 207 art. 28 I, art. 29 in force on publication, DOU 17.5.2024; art. 15 keeps the Lei for accidents before;
+  LC 211/2024 art. 4, DOU 31.12.2024, revokes LC 207 with no repristination clause: all read on their cached pages); a paragraphs
+  wrapper reads art. 4's 'Parágrafo único. (Revogado pela Lei nº 8.441, de 1992).' as text (Lei 11.482 art. 8 prints it so; the
+  reader had taken the parenthesis for a note, leaving a bare label and a REPEAL CHECK difference of 1); EXTRA decision on dating
+  (Lei 11.945 art. 33 IV a) gives arts. 30-32 effect from 16.12.2008: retroactive, so kept on publication 5.6.2009, the corpus
+  rule; MP 451 art. 22 IV from publication, DOU 16.12.2008, rectified 22.12.2008; Lei 11.482 art. 24 III from publication
+  31.5.2007; Lei 8.441 art. 2 on publication 14.7.1992); OPEN_ITEMS (Anexo not included; 'Vide Medida nº 340, de 2006' pointers
+  not modelled; MP 451's art. 3 § 1º II reads 'na alínea “a”' on the Lei's page but 'no inciso anterior' on the MP's own page).
+- pipe.sh zzzzk (logs52/pipe-k2.out): ee86dc56 x2, 0 problems, 0 moves; dupline, dupcheck, firstline, pubgap, missorig, overlap 0;
+  leakcheck 6 + ordercheck 1 = Lei 11.482 art. 8's own '(revogada)'/'(Revogado)' lines in its order; quotecheck = DL 73 quotes in
+  arts. 1-2 and the MP 451 line above; latecaput = art. 7 §§ 1º-2º under Lei 8.441's caput; REPEAL CHECK 0 articles; uniqlaws 0;
+  dupsame 0; merged 306 acts, 4175 versions, 2909 commits, check 0/0, --compare identical, audit_push clean main + futuro.
+  install.py -> corpus.d/99-batch17zzzzk.json 95a0257a + .PUBLISH (b44/publish-zzzzk.txt); docs.py b44/rows-zzzzk.json (README
+  row; jurisdiction.json 306 acts 4175 versions). Final merged build of the installed folder (logs52/fb1.log): 306/4175/2909, 0/0,
+  identical, audit clean; uniqlaws installed 0.
+- PIDs (all mine, all exited): pids52.txt (setup52 4092 through run.py directly; every rr52 run with its PID; same52.sh,
+  pipeb52.sh and pipe.sh runs with their run.py PIDs in logs52/*.out; background tasks of mine, each waited on by its own
+  notification; one `until ... sleep` waiter of mine stopped with TaskStop). Outside the wrappers (no network): the first reads
+  (head/sed/grep/ls/wc/cat) of PROGRESS.md, batch17/PROGRESS.md, BRIEF.md, ACTIVE.txt, the claims folder listing, b44 tools,
+  run.py and pipe.sh before setup; cat/grep/tail/head of my own logs, task outputs and tool/script heads (batch3, batch14, fetch,
+  iaonly, docs.py); one `tail` of the cpu log; find/ls listings; `cp` of candidate parts into eff52; tool files written by cat
+  heredocs and two sed -e/-i on my own tools; ONE direct `python -` heredoc (not through run.py) that made three string edits to
+  parse_batch17.py (PAGES l6194-2024, the act, PARTS zzzzk; asserted, LF kept). Tool-written files (Write/Edit): parse_batch3.py,
+  parse_batch14.py, parse_batch17.py, this text, PROGRESS.md.
+
+## State at handoff (batch 17, fifty-second session, 2026-11-02)
+PUBLISHED: re-PUBLISH of zzzzg (ADI 6457 decision line), zzzzj, zzzq, 99-batch8, 99-batch9 (STF source names the record read), r,
+zx, zzzr, zzzza (repeal-check line names the pre-repeal capture); zzzzk (Lei 6.194/1974, 95a0257a, 6 versions 1974-2024).
+Installed: 306 acts, 4175 versions, 2909 commits, check 0/0, compare identical, audit clean main + futuro (fb1); uniqlaws 0,
+dupsame 0; README row + jurisdiction.json current. Files changed: parse_batch3.py (STF_READ), parse_batch14.py (rewrite test),
+parse_batch17.py (zzzzg decision, zzzzj comment, PAGES l6194-2024, act, PARTS zzzzk, ACT_DAY/ACT_LAWS lei-6194-1974, block
+'# part zzzzk'), sources_batch17.json (+1 law pin via iaonly: lei-8441-1992), corpus.d (nine re-recorded parts + .PUBLISH;
+99-batch17zzzzk.json + .PUBLISH new), repo/README.md (+1 row), repo/jurisdiction.json, PROGRESS.md, this file. effects_fix.py,
+law_records.json, bad_pins.json, dupsame_allow.json, firstline.py, pipe.sh unchanged. Claim released.
+TO DO: item 10 heavy tax: Leis 10.865/2004, 9.532/1997, 12.546/2011 (not surveyed; one act per part, survey first). FOR THE
+COORDINATOR: the Disallowed-path list in decision 2 above; zzzzg's open item 'changes no words' (unread); zzzza's doubled
+'the unstruck text of the unstruck text' (batch 5 rewrite). OPEN / DATED RE-CHECKS unchanged.
