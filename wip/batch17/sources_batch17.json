@@ -362,6 +362,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "auto-lc-156-2016",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp156.htm",
+   "ts": "20261004142005",
+   "via": "wayback.py"
+  },
+  {
    "id": "auto-lc-61-1989",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp61.htm",
    "ts": "20261010070824",
@@ -371,6 +377,12 @@
    "id": "auto-lei-10835-2004",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.835.htm",
    "ts": "20261013174222",
+   "via": "wayback.py"
+  },
+  {
+   "id": "auto-lei-12276-2010",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12276.htm",
+   "ts": "20261007220318",
    "via": "wayback.py"
   },
   {
@@ -5836,6 +5848,12 @@
    "id": "law:lei-9887-1999",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/L9887.htm",
    "ts": "20261005193747",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-9932-1999",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9932.htm",
+   "ts": "20260709114736",
    "via": "wayback.py"
   },
   {

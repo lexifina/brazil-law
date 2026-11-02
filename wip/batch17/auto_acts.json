@@ -5,7 +5,7 @@
   "page": "auto-dl-2321-1987",
   "path": "decreto-lei/del2321.htm",
   "law": "dl-2321-1987",
-  "title": "Institui, em defesa das finanças públicas, regime de administração especial temporária, nas instituições financeiras privadas e públicas não... (Decreto-Lei nº 2.321, de 25 de fevereiro de 1987)",
+  "title": "Institui, em defesa das finanças públicas, regime de administração especial temporária, nas instituições financeiras privadas e públicas não federais, e dá outras providências (Decreto-Lei nº 2.321, de 25 de fevereiro de 1987)",
   "digits": 2,
   "act_day": [
    "1987-02-26",
@@ -25,40 +25,9 @@
   "ts": "20261024143353",
   "notes": 3,
   "vig_ref": "art. 20: in force on publication",
-  "row_title": "Decreto-Lei 2.321/1987, Institui, em defesa das finanças públicas, regime de administração especial temporária, nas instituições financeiras privadas e públicas não...",
+  "row_title": "Decreto-Lei 2.321/1987, Institui, em defesa das finanças públicas, regime de administração especial temporária, nas instituições financeiras privadas e públicas não federais, e dá outras providências",
   "key": "dl-2321",
   "cited_by": 5,
-  "part": "zzzzr"
- },
- {
-  "slug": "lei-complementar-126-de-2007",
-  "short": "LC126",
-  "page": "auto-lc-126-2007",
-  "path": "leis/lcp/lcp126.htm",
-  "law": "lc-126-2007",
-  "title": "Dispõe sobre a política de resseguro, retrocessão e sua intermediação, as operações de co-seguro, as contratações de seguro no exterior e as... (Lei Complementar nº 126, de 15 de janeiro de 2007)",
-  "digits": 3,
-  "act_day": [
-   "2007-01-16",
-   "Lei Complementar 126/2007 art. 30: 'Esta Lei Complementar entra em vigor na data de sua publicação' (DOU 16.1.2007)"
-  ],
-  "law_rec": {
-   "label": "Lei Complementar nº 126, de 2007",
-   "title": "Dispõe sobre a política de resseguro, retrocessão e sua intermediação, as operações de co-seguro, as contratações de seguro no exterior e as operações em moeda estrangeira do setor securitário; altera",
-   "kind": "law",
-   "enacted": "2007-01-15",
-   "published": "2007-01-16",
-   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp126.htm",
-   "temporary_until": null,
-   "restores": null,
-   "note": null
-  },
-  "ts": "20261006005913",
-  "notes": 39,
-  "vig_ref": "art. 30: in force on publication",
-  "row_title": "Lei Complementar 126/2007, Dispõe sobre a política de resseguro, retrocessão e sua intermediação, as operações de co-seguro, as contratações de seguro no exterior e as...",
-  "key": "lc-126",
-  "cited_by": 4,
   "part": "zzzzr"
  },
  {
@@ -98,7 +67,7 @@
   "page": "auto-lc-61-1989",
   "path": "leis/lcp/lcp61.htm",
   "law": "lc-61-1989",
-  "title": "Estabelece normas para a participação dos Estados e do Distrito Federal no produto da arrecadação do Imposto sobre Produtos Industrializados IPI,... (Lei Complementar nº 61, de 26 de dezembro de 1989)",
+  "title": "Estabelece normas para a participação dos Estados e do Distrito Federal no produto da arrecadação do Imposto sobre Produtos Industrializados IPI, relativamente às exportações (Lei Complementar nº 61, de 26 de dezembro de 1989)",
   "digits": 2,
   "act_day": [
    "1989-12-27",
@@ -118,7 +87,7 @@
   "ts": "20261010070824",
   "notes": 3,
   "vig_ref": "art. 8: in force on publication",
-  "row_title": "Lei Complementar 61/1989, Estabelece normas para a participação dos Estados e do Distrito Federal no produto da arrecadação do Imposto sobre Produtos Industrializados IPI,...",
+  "row_title": "Lei Complementar 61/1989, Estabelece normas para a participação dos Estados e do Distrito Federal no produto da arrecadação do Imposto sobre Produtos Industrializados IPI, relativamente às exportações",
   "key": "lc-61",
   "cited_by": 3,
   "part": "zzzzr"
@@ -129,7 +98,7 @@
   "page": "auto-lei-6205-1975",
   "path": "leis/l6205.htm",
   "law": "lei-6205-1975",
-  "title": "Estabelece a descaracterização do salário mínimo como fator de correção monetária e acrescenta parágrafo único ao artigo 1º da Lei número 6.147,... (Lei nº 6.205, de 29 de abril de 1975)",
+  "title": "Estabelece a descaracterização do salário mínimo como fator de correção monetária e acrescenta parágrafo único ao artigo 1º da Lei número 6.147, de 29 de novembro de 1974 (Lei nº 6.205, de 29 de abril de 1975)",
   "digits": 2,
   "act_day": [
    "1975-04-30",
@@ -149,7 +118,7 @@
   "ts": "20261016090503",
   "notes": 12,
   "vig_ref": "art. 4: in force on publication",
-  "row_title": "Lei 6.205/1975, Estabelece a descaracterização do salário mínimo como fator de correção monetária e acrescenta parágrafo único ao artigo 1º da Lei número 6.147,...",
+  "row_title": "Lei 6.205/1975, Estabelece a descaracterização do salário mínimo como fator de correção monetária e acrescenta parágrafo único ao artigo 1º da Lei número 6.147, de 29 de novembro de 1974",
   "key": "lei-6205",
   "cited_by": 3,
   "part": "zzzzr"
@@ -244,6 +213,37 @@
   "vig_ref": "art. 3: in force on publication",
   "row_title": "Lei 7.803/1989, Altera a redação da Lei nº 4.771, de 15 de setembro de 1965, e revoga as Leis nºs 6.535, de 15 de junho de 1978, e 7.511, de 7 de julho de 1986",
   "key": "lei-7803",
+  "cited_by": 2,
+  "part": "zzzzr"
+ },
+ {
+  "slug": "lei-12276-de-2010",
+  "short": "L12276",
+  "page": "auto-lei-12276-2010",
+  "path": "_ato2007-2010/2010/lei/l12276.htm",
+  "law": "lei-12276-2010",
+  "title": "Autoriza a União a ceder onerosamente à Petróleo Brasileiro S.A. - PETROBRAS o exercício das atividades de pesquisa e lavra de petróleo, de gás natural e de outros hidrocarbonetos fluidos de que trata (Lei nº 12.276, de 30 de junho de 2010)",
+  "digits": 2,
+  "act_day": [
+   "2010-06-30",
+   "Lei 12.276/2010 art. 13: 'Esta Lei entra em vigor na data de sua publicação' (DOU 30.6.2010)"
+  ],
+  "law_rec": {
+   "label": "Lei nº 12.276, de 2010",
+   "title": "Autoriza a União a ceder onerosamente à Petróleo Brasileiro S.A. - PETROBRAS o exercício das atividades de pesquisa e lavra de petróleo, de gás natural e de outros hidrocarbonetos fluidos de que trata",
+   "kind": "law",
+   "enacted": "2010-06-30",
+   "published": "2010-06-30",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12276.htm",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "ts": "20261007220318",
+  "notes": 0,
+  "vig_ref": "art. 13: in force on publication",
+  "row_title": "Lei 12.276/2010, Autoriza a União a ceder onerosamente à Petróleo Brasileiro S.A. - PETROBRAS o exercício das atividades de pesquisa e lavra de petróleo, de gás natural e de outros hidrocarbonetos fluidos de que trata",
+  "key": "lei-12276",
   "cited_by": 2,
   "part": "zzzzr"
  }
