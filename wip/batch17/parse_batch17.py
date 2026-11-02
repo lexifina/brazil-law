@@ -319,6 +319,11 @@ PAGES.update({
     "l9532-compilado": "leis/l9532compilado.htm",
     "l12546": "_ato2011-2014/2011/lei/l12546.htm",
     "l12546-compilado": "_ato2011-2014/2011/lei/l12546compilado.htm",
+    # sixty-third session: the fresh ranked list (annotated pages; pinned and surveyed before any act is configured)
+    "lcp07": "leis/lcp/lcp07.htm",
+    "lcp70": "leis/lcp/lcp70.htm",
+    "l4380": "leis/l4380.htm",
+    "l15040": "_ato2023-2026/2024/lei/l15040.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
