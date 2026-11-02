@@ -7536,10 +7536,21 @@ if any(a["slug"] == _LBEM for a in ACTS):
     P.VIGENCIA_FIXED["mp-836-2018"] = (
         "2018-09-01", "art. 2: 'Esta Medida Provisória entra em vigor no primeiro dia do quarto mês subsequente ao da sua "
                       "publicação' (DOU 30.5.2018, edição extra): 1.9.2018")
-    P.PUBLISHED_FIXED["lei-11487-2007"] = (
-        "2007-06-15", "Lei 11.487/2007 ('LEI Nº 11.487, DE 15 DE JUNHO DE 2007', signed 'Brasília, 15 de junho de 2007'; in force "
-                      "on publication): its page closes 'Este texto não substitui o publicado no DOU de 15.5.2007 - "
-                      "Edição extra', a month before it was signed; read as the DOU of 15.6.2007 (edição extra)")
+    def _pi_l11487(f):
+        """Lei 11.487/2007: the page's heading and signature read 15 June 2007 ('LEI Nº 11.487, DE 15 DE JUNHO DE 2007',
+        'Brasília, 15 de junho de 2007'; in force on publication) and its last line 'publicado no DOU de 15.5.2007 - Edição
+        extra', a month before it was signed: read as the DOU of 15.6.2007 (edição extra)"""
+        def g(key):
+            info = f(key)
+            if key == "lei-11487-2007" and info and info.get("enacted") == "2007-06-15" and info.get("published") == "2007-05-15":
+                info = dict(info, published="2007-06-15")
+                if _W11487 not in EXTRA:
+                    EXTRA.append(_W11487)
+            return info
+        return g
+
+    B6.page_info = _pi_l11487(B6.page_info)
+    P.page_info = B.page_info = _pi_l11487(P.page_info)
     P.NOTE_FIX["(Revogado pela Lei nº 13.241, de 1941)"] = (
         "(Revogado pela Lei nº 13.241, de 2015)",
         "Lei 11.196 art. 30: the note reads 'Lei nº 13.241, de 1941'; its link goes to Lei 13.241 of 30.12.2015 (conversion of "
@@ -7601,6 +7612,9 @@ if any(a["slug"] == _LBEM for a in ACTS):
         return out, rest
 
     P.paragraphs = B.paragraphs = _paragraphs_bem
+_W11487 = ("Lei 11.487/2007: its page reads 'LEI Nº 11.487, DE 15 DE JUNHO DE 2007', is signed 'Brasília, 15 de junho de 2007' "
+           "and is in force on publication, but closes 'Este texto não substitui o publicado no DOU de 15.5.2007 - Edição "
+           "extra', a month before it was signed: the publication is read as 15.6.2007")
 _BARE_RX2187 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Medida Provis[óo]ria n[º°.]?\s*2\.187-13, de 24 de agosto de 2001\.)\s*\)?",
                           re.I)
 _W96_5 = ("Lei 11.196 art. 96 § 5º ends '[...] no limite a que se refere o § 4º do art. 5º da Lei nº 9.639, de 25 de maio de 1998, "
