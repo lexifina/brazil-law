@@ -10254,15 +10254,26 @@ if any(a["slug"] == _L9532 for a in ACTS):
         "Medida Provisória 1.602/1997, the Lei's origin, which the history does not show; Planalto's '(Vide ADIN Nº 1802)' "
         "markers (art. 12 caput, § 1º and § 2º f), art. 13 caput, art. 14) and '(Vide ADI 1.758-4, DE 1998)' marker (art. 28 "
         "caput) point to the Supremo Tribunal Federal's judgments in those cases, whose effect on the text could not be read "
-        "(their records were not read); the markers are left out of the text and the judgments are not modelled; both "
-        "Planalto pages strike art. 2 § 2º with the note '(Revogado pela Medida provisória nº 2.156-5, de 24.8.2001)', "
-        "while that MP's art. 32 XVII names only 'o § 1º do art. 2º da Lei nº 9.532'; the history follows Planalto's note")
+        "(their records were not read); the markers are left out of the text and the judgments are not modelled")
     # coordinator decision (session 54): the STF records of ADI 1.802 and ADI 1.758 sit under the robots-Disallowed
     # /processos; no allowed record of either ruling was found (Informativos 897 and 898, April 2018, read: neither names
     # ADI 1.802), so each gets the decision line LC 97 got for ADI 6457
     EXTRA.append("Lei 9.532: the Supremo Tribunal Federal's judgments in ADI 1.802, to which Planalto's '(Vide ADIN Nº 1802)' "
                  "markers on arts. 12 to 14 point, and in ADI 1.758, to which the '(Vide ADI 1.758-4, DE 1998)' marker on art. "
                  "28 points, are not shown in the history, because their records could not be read.")
+    # coordinator decision (session 55): the law's own text governs over Planalto's note. Both pages strike art. 2 § 2º
+    # with '(Revogado pela Medida provisória nº 2.156-5, de 24.8.2001)'; that MP's art. 32 XVII revokes only § 1º, and
+    # no later edition exists (EC 32/2001 art. 2 kept the 24.8.2001 edition in force; LC 125/2007 later revoked the MP)
+    _W9532_2S2 = (
+        "Lei 9.532 art. 2 § 2º: both Planalto pages strike it with the note '(Revogado pela Medida provisória nº 2.156-5, "
+        "de 24.8.2001)', but that Medida Provisória's revoking article (art. 32: 'Ficam revogados: [...] XVII - o § 1º do "
+        "art. 2º da Lei nº 9.532, de 10 de dezembro de 1997') names only § 1º (with its alíneas a) to c)), and no later "
+        "edition followed the edition of 24.8.2001, which Emenda Constitucional 32/2001 art. 2 kept in force until Lei "
+        "Complementar 125/2007 revoked it. Planalto's revocation note on § 2º is not supported by the Medida Provisória's "
+        "text, and the law's own text governs, so § 2º stays in force (from 1.1.1998, under art. 81 II) and the history "
+        "keeps it")
+    B8.SPAN_FIX.append(((_L9532, "art-02", "§ 2º", "§ 2º Ficam extintos, relativamente aos períodos de apuração", 0),
+                        {"end": None, "end_law": None, "end_how": None, "skip": False}, _W9532_2S2))
     # art. 75: Planalto prints the 1997 article twice, both struck: first with Medida Provisória 71/2002's revocation (and
     # 'Rejeitada'), then again with Lei 10.833/2003's; one line, out while the MP stood
     _W9532_75 = ("Lei 9.532 art. 75: Medida Provisória 71/2002 art. 14 revoked it (DOU 4.10.2002); the Chamber of Deputies "
@@ -10334,6 +10345,9 @@ if any(a["slug"] == _L9532 for a in ACTS):
     B.EXPLAINED[_L9532] = {
         "art-67": "check artefact: art. 67 quotes Decreto 70.235/1972 art. 23 with the dotted line '§ 2º .....', which the "
                   "history keeps as '§ 2º.' and the check, reading label-only lines as revoked dispositivos, drops",
+        "art-02": "art. 2 § 2º stays in force (see the decision on it): the consolidated page strikes it under the note "
+                  "'(Revogado pela Medida provisória nº 2.156-5, de 24.8.2001)', which that Medida Provisória's text does not "
+                  "support",
     }
 
 SRC = HERE / "sources_batch17.json"

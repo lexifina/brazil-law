@@ -3893,3 +3893,84 @@ unchanged. Claim released.
 TO DO: item 10, one act per part, surveyed above: Lei 9.532/1997 first (split art. 81 effects; ADI 1.802 / 1.758 from
 allowed records only or a 'not modelled' decision), then Lei 10.865/2004, then Lei 12.546/2011 (scope of the NCM lists).
 FOR THE COORDINATOR: decision 1's /processos list unchanged (with the user). OPEN / DATED RE-CHECKS unchanged.
+
+## Fifty-fourth session (2026-11-02): item 10, Lei 9.532/1997 PUBLISHED as zzzzl
+Claim taken at the start ('gitlaw-BR-54 alan-dell 2026-11-02T13:29Z', setup54.py through run.py, PID 26224), released at the end.
+Scratch: .gitlaw-scratch/brazil-b44 (before54/ = session-start copies of the same set as before53/: every batch parser (20) in
+before54/parsers, effects_fix/parse/parse_phase2/lawrecords/dupfix/vigforms/titles, sources_batch17.json, law_records.json,
+bad_pins.json, dupsame_allow.json, README.md, jurisdiction.json, PUBLISH, firstline.py, pipe.sh, both PROGRESS.md, corpus.json and
+every corpus.d file); logs54/ (pipe-l1, pipe-l2 .out = the pipe.sh runs; fb1 = final build); pids54.txt; edits54/ (mk1-mk6.py
++ spec-a..f.json: every parser/effects_fix edit, applied by ed54.py through run.py; session54.md = this text); txt54/ (texts
+of the amenders' cached pages); stf54/ (MP 71 Chamber record, Informativos 897 and 898); robots54/; new tools: the 53 -> 54 copies
+(setup, rr, ed, bdiff, g, sl, ...) and vig54.py (the article naming Lei 9.532 and the vigência clause of each amender's text).
+bdiff54 (additions only): parse_batch17.py +144 -0, effects_fix.py +19 -0; every other parser unchanged.
+Requests (archive.org only, through the shared client; ≤1/s): robots.txt of archive.org (200: Disallow /control/ /report/) and
+web.archive.org (404) first (robots54/); `iaonly.py laws l9532` (35 acts linked, 11 pinned; NO CAPTURE mp-38-2002, a 'Vide'
+only); `missing` (0); `gap` law:mp-71-2002 (Antigas_2002/71.htm) and law:mp-243-2005 (_Ato2004-2006/2005/Mpv/243.htm), 1 pin
+each; CDX + 1 capture of the Chamber's record of MP 71/2002 (www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-71-3-
+outubro-2002-478934-norma-pe.html, capture 20251215152723); CDX of www.stf.jus.br/robots.txt (the archived captures are 6 KB
+HTML pages, no robots rules; session 52 found 404 live); CDX of www.stf.jus.br/arquivo/informativo/documento/informativo89*
+and 2 captures (Informativo 898, 16-20.4.2018, capture 20220302224816; Informativo 897, 9-13.4.2018, capture
+20180508101835). No LexML, no Common Crawl, no Arquivo.pt, no live STF/Planalto/Chamber, no /processos (live or archived), no
+challenge page.
+
+### 99-batch17zzzzl - PUBLISHED: Lei 9.532/1997 (lei-9532-de-1997, L9532, 31 versions 1997-12-11 .. 2024-01-01 + 2027-01-01 futuro)
+- Config: act (l9532 annotated, l9532-compilado check, 2 digits); PARTS zzzzl; ACT_DAY_ALL lei-9532-1997 11.12.1997 (art. 81);
+  ACT_LAWS_ALL lei-9532-1997 (url leis/L9532.htm, as parts 3, 17a, 17i, 17k, 17zh have it).
+- Block '# part zzzzl': gates _G9532 (art. 81 II: arts. 1-8, 10-36, 43, 55-63, 69-73, 76-80 start 1.1.1998, credited to Lei 9.532;
+  arts. 81 and 82 stay in the first version, art. 82 I/II naming their own days for other laws) + EXTRA decision; NOTE_FIX MP
+  232 'nº 232, 2004' and MP 71 'de 2000' (MP 71 is of 3.10.2002, DOU 4.10.2002; its art. 14 revokes art. 75); MP_LAPSE
+  mp-71-2002 12.12.2002 (rejected: Chamber record 'DOU Seção 1 - 12/12/2002, Página 7 (Rejeição)', Ato do Presidente of
+  11.12.2002); MP_PENDING mp-2156-2001 (art. 32 XVII: art. 2 § 1º), mp-2158-2001 (arts. 34 and 75: art. 1 § 3º, art. 64-A,
+  on publication), mp-2199-2001 (art. 18: art. 4); SPAN_FIX art. 75 (two struck copies: first left out as duplicate, second
+  1997.. with gap 4.10.2002-12.12.2002, mp-71-2002 / mp-71-2002-fim); SPAN_FIX art. 27 parágrafo único and a)/b): MP 232/2004
+  art. 4's wording 1.1.2005 (art. 14 III, effects) to 31.3.2005, when MP 243/2005 art. 4 I (DOU 31.3.2005 ed. extra, in force on
+  publication; page 'Prejudicada') revoked MP 232 arts. 4-13; 1997 wording back from 31.3.2005 credited to mp-243-2005
+  (EXTRA_LAWS record; before: the parser ended it at Lei 11.119's conversion, 27.5.2005, which does not include art. 4);
+  LAW_FIELD_FIX mp-232-2004 title (ementa only) and lei-9718-1998 url (as part zj: leis/l9718.htm; uniqlaws had 1);
+  _FUT2027 arts. 53-54 (LC 214 art. 542 VI, from 1.1.2027; EXTRA_LAWS lc-214-2025 as zzr/14a/zj/zk); EXPLAINED art-67 (dotted
+  quoted '§ 2º' of Decreto 70.235 art. 23, check artefact, as zzzzc/zl precedent); OPEN_ITEMS ('Vide' pointers; art. 80; the ADI
+  markers; art. 2 § 2º: both pages credit its revocation to MP 2.156-5, whose art. 32 XVII names only § 1º; history follows
+  Planalto's note).
+- Coordinator decision 1 (ADI 1.802 on arts. 12-14, ADI 1.758 on art. 28): records under /processos. Searched allowed records:
+  Informativos 897 (9-13.4.2018) and 898 (16-20.4.2018) via archive.org: neither names ADI 1.802 (the April 2018 merits judgment
+  week); no paginador docID known (no blind hunt). So both as LC 97: markers out of the text, EXTRA decision 'the Supremo
+  Tribunal Federal's judgments in ADI 1.802 [...] and in ADI 1.758 [...] are not shown in the history, because their records
+  could not be read', and the open-item sentence.
+- effects_fix.py '99-batch17zzzzl.json': Lei 9.718 art. 18 (art. 15 § 4º revoked from 1.1.1999), Lei 13.043 art. 113 II (art. 85,
+  Seção XXI: art. 11 §§ 6º-7º from 1.1.2015; art. 76, Seção XVIII: art. 64 § 12 on publication), Lei 14.439 art. 4 (art. 6 II
+  from 1.1.2023), Lei 14.754 art. 47 II (arts. 28-35 revoked from 1.1.2024); 11 moves. Other amenders read in their own text
+  (vig54): on publication (9.779, 9.887, 10.184, 10.637 arts. 51/63 under IV, 10.828, 10.833 art. 94 under VI, 10.887, 11.941,
+  12.402 arts. 8/10 under IV, 12.859, 12.868, 13.151, 13.204, 14.788, LC 187, MP 449); Lei 9.959's and Lei 9.779's effects from
+  1.1.2000/1.1.1999 reach back (publication day kept); Lei 12.973 in force 1.1.2015 (art. 119); Lei 13.353 art. 7 parágrafo
+  único (effects tied to a later condition) keeps publication.
+- pipe.sh zzzzl (logs54/pipe-l2.out): 861c6862 x2, 0 problems, 11 moves; leakcheck, ordercheck, firstline, pubgap, overlap 0;
+  dupline 2 / dupcheck 1 = art. 67's quoted §§ of Decreto 70.235 arts. 16, 23 and 30 (one article quoting several; law text);
+  quotecheck = quotation marks the Lei prints (incl. art. 7 III 1997 'alínea " b "'); missorig = the articles that start on
+  1.1.1998 under art. 81 II (gates); latecaput = arts. 21, 48, 52 lines kept under rewritten capita; uniqlaws 0; dupsame 0;
+  merged 307 acts, 4207 versions, 2925 commits, check 0/0, --compare identical, audit_push clean main + futuro.
+  install.py -> corpus.d/99-batch17zzzzl.json 5d3698d8 + .PUBLISH (b44/publish-zzzzl.txt); docs.py b44/rows-zzzzl.json (README
+  row; jurisdiction.json 307 acts 4207 versions). Final build of the installed folder (fb1): 307 acts, 4207 versions, 2925 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws installed 0.
+- PIDs (all mine, all exited): pids54.txt (setup54 26224 through run.py directly; every rr54 run with its PID); pipe.sh runs as
+  background tasks of mine, one at a time, each waited on by its own notification (run.py PIDs in logs54/pipe-l*.out); my own
+  Monitor waiters stopped with TaskStop by task id or ended by themselves. Outside the wrappers (no network): first reads
+  (head/sed/grep/ls/wc/cat) of PROGRESS.md, batch17/PROGRESS.md, BRIEF.md, run.py, pipe.sh, tools, parser lines and page texts;
+  `sed` 53 -> 54 tool copies; mkdir of logs54/edits54/eff54/robots54/txt54/stf54; one python heredoc on my mk1.py (assertion
+  failed, nothing written; mk1 then fixed with the Edit tool); several `python -c` reads of scratch JSON/text files (candidate
+  parts, captures in stf54/, txt54); two `sed -i` on my own rows/publish files; date/tail/wc/ls/grep of logs and the cpu log;
+  `timeout tail -f | grep` on the build log. Files written with Write/Edit: my tools/specs in b44 (mk1-mk6, vig54.py,
+  rows/publish files, this text). Every parser and effects_fix edit went through ed54.py under run.py.
+
+## State at handoff (batch 17, fifty-fourth session, 2026-11-02)
+PUBLISHED: zzzzl (Lei 9.532/1997, 5d3698d8, 31 versions 1997-2024 + 2027 futuro). Installed: 307 acts, 4207 versions, 2925 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws installed 0; dupsame 0; README row +
+jurisdiction.json current. Files changed: parse_batch17.py (act, PARTS zzzzl, ACT_DAY/ACT_LAWS lei-9532-1997, block '# part
+zzzzl'), effects_fix.py (+ '99-batch17zzzzl.json'), sources_batch17.json (+11 law pins + mp-71-2002 + mp-243-2005),
+corpus.d/99-batch17zzzzl.json + .PUBLISH, repo/README.md (+1 row), repo/jurisdiction.json, PROGRESS.md, this file.
+law_records.json, bad_pins.json, dupsame_allow.json, firstline.py, pipe.sh unchanged. Claim released.
+TO DO: item 10 continues: Lei 10.865/2004 (511 notes over 69 acts: MP fates (549, 563, 564, 668, 774 revoked by 794 which lapsed,
+836, 1.034, 1.095, 1.157, 1.202, 413), 95 'Produção de efeito' / 146 'Vigência' markers (read each amender's clause: vig54.py
+on txt54 dumps works well), LC 214's 2027 changes on futuro via _FUT2027); then Lei 12.546/2011 (coordinator: the NCM lists
+of arts. 7-8 and the Anexo are law text and in scope; build last; tables must replay exactly or the act is held, with the
+reason); then the rest of the ranked list. FOR THE COORDINATOR: ADI 1.802 / 1.758 found in no allowed record (Informativos
+897-898 read); art. 2 § 2º's revocation credited by Planalto to MP 2.156-5, whose text names only § 1º (open item).
+OPEN / DATED RE-CHECKS unchanged.
