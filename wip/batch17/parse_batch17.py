@@ -290,7 +290,9 @@ PAGES.update({
     # forty-second session: historic codes
     "lim556": "leis/lim/lim556.htm",
     "lim556-compilado": "leis/lim/lim556compilado.htm",
-    "l5869": "leis/l5869.htm",   # CPC 1973; Planalto's l5869compilada.htm captures are stubs: the annotated page is the check
+    "l5869": "leis/l5869.htm",   # CPC 1973 as Planalto prints it after the repeal (every line struck)
+    "l5869-2015": "leis/l5869.htm",   # capture of 27.10.2015, before the repeal (18.3.2016)
+    "l5869compilada-2015": "leis/l5869compilada.htm",   # capture of 29.10.2015; later captures are stubs
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -673,7 +675,8 @@ ALL_ACTS: list[dict] = [
     # forty-second session: historic codes
     _act("codigo-comercial", "CCom", "lim556", "lim556-compilado", "lei-556-1850",
          "Código Comercial (Lei nº 556, de 25 de junho de 1850)", 3),
-    _act("codigo-de-processo-civil-de-1973", "CPC73", "l5869", "l5869", "lei-5869-1973",
+    # read from the capture of 27.10.2015 (before the repeal); its consolidated check is the compiled page of 29.10.2015
+    _act("codigo-de-processo-civil-de-1973", "CPC73", "l5869-2015", "l5869compilada-2015", "lei-5869-1973",
          "Código de Processo Civil de 1973 (Lei nº 5.869, de 11 de janeiro de 1973)", 4),
 ]
 PARTS: dict[str, list[str]] = {
@@ -1743,7 +1746,7 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     # 'Publicada na Secretaria d'Estado dos Negocios da Justiça em o 1º de Julho de 1850' (the Carta de Lei on the page)
     "lei-556-1850": _L("Lei nº 556, de 1850", "Código Comercial.", "1850-06-25", "1850-07-01", PAGES["lim556"]),
     "lei-5869-1973": _L("Lei nº 5.869, de 1973", "Institui o Código de Processo Civil.", "1973-01-11", "1973-01-17",
-                        PAGES["l5869"]),
+                        PAGES["l5869-2015"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -8303,6 +8306,12 @@ B13.OPEN_ITEMS[_LCCOM] = (
 # consolidated page (l5869compilada.htm captures are stubs): the check is the annotated page itself.
 _LCPC73 = "codigo-de-processo-civil-de-1973"
 if any(a["slug"] == _LCPC73 for a in ACTS):
+    P.VIGENCIA_FIXED["lei-8950-1994"] = (
+        "1995-02-12", "art. 3: 'Esta lei entra em vigor no prazo de sessenta dias após a data de sua publicação' (DOU "
+                      "14.12.1994): the sixtieth day counted from publication, 12.2.1995")
+    P.VIGENCIA_FIXED["lei-10173-2001"] = (
+        "2001-03-11", "'Esta Lei entra em vigor no prazo de sessenta dias a partir da data de sua publicação' (DOU 10.1.2001): "
+                      "the sixtieth day counted from publication, 11.3.2001")
     B9.REPEALS[_LCPC73] = (
         "2016-03-18", "lei-13105-2015",
         "Lei 5.869/1973 (Código de Processo Civil de 1973) was repealed as a whole by Lei 13.105/2015 (Código de Processo Civil) "
