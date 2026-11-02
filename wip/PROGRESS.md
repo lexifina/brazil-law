@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-02 (batch 17, thirty-eighth session: zzzy Lei 11.196/2005 (Lei do Bem) CONFIGURED, NOT PUBLISHED: act, art. 132 gates, vigência/lapse items, pins (laws 21 + 2 Atos), trial 0 problems 59 versions; hand model of the REIQ (arts. 56-57-D), LC 214 futuro, MP 1.318, effects MOVES still to do (9-item list in batch17/PROGRESS.md); installed state unchanged: 293 acts, 3913 versions, 2736 commits, check 0/0, compare identical, audit clean; NEXT Lei 11.196 items 1-9, then historic codes)
+CHECKPOINTED 2026-11-02 (batch 17, thirty-ninth session: zzzy Lei 11.196/2005 (Lei do Bem) NOT PUBLISHED: items 1-4 done (REIQ hand model with the MP 694/836/1.034/1.095 gaps and Lei 14.374's promulgated parts, LC 214 futuro, Redata, art. 96), item 5 partly (MOVES MP 472, MP 694, Lei 11.727 art. 64); trial t6 0 problems 62 versions; installed state unchanged: 293 acts, 3913 versions, 2736 commits, check 0/0, compare identical, audit clean; NEXT Lei 11.196 items 5 (rest) to 9 in batch17/PROGRESS.md, then historic codes)
 
 # gitlaw-BR progress (Brazil)
 

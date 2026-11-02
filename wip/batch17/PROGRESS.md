@@ -2559,3 +2559,88 @@ sources_batch17.json (+22 pins), law_records.json (+ lei-11196-2005), bad_pins.j
 rewritten by the trial runs (as every run). Nothing running.
 NEXT: Lei 11.196 (part zzzy), TO DO items 1-9 above, then the historic codes.
 OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff.
+
+## Thirty-ninth session (2026-11-02): Lei 11.196/2005 (Lei do Bem), part 99-batch17zzzy - items 1-4 DONE, 5 PARTLY, NOT PUBLISHED
+Claim: scripts/world-law/claims/brazil-law.txt taken at the start (released at the end). Scratch: .gitlaw-scratch/brazil-b39
+(before/ = parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json, dupsame_allow.json, effects_fix.py, README,
+jurisdiction.json at session start; parse_batch17.after.py / effects_fix.after.py = state at handoff; logs/; tools/ = b38's +
+rows.py (span rows with notes), spansj.py (batch17/.tmp/spansj.py + 'gaps'), st2.py (line heads of units on days), bylaw.py (days
+and units each law is credited with in a part), ctxhref.py (page anchors with the text before them), artof.py (the article of an
+amending law that names Lei 11.196)). No fetch at all this session (every text read was already cached), so no robots.txt read.
+Diff of parse_batch17.py against b39/before/ is additions only (block '# part zzzy' grown); effects_fix.py additions only (MOVES
+"99-batch17zzzy.json"). No other file changed. NO part file in corpus.d. Last trial: b39/zzzy-t6.json (0 problems, 62 versions
+2005-11-22 .. 2027-01-01, sha e6b47527...); effects_fix test on a copy: b39/eff/99-batch17zzzy.json (5 moves, logs/zzzy-eff1.log).
+### Done
+1. REIQ hand model (_RQ_TABLE + _reiq_model, run from a wrapper of B8.apply_span_fix after the other hand spans): one copy of each
+   wording, gaps MP 694 (1.1-9.3.2016: art. 56 II replaced, III/IV and 57-B out), MP 836 (1.9-11.10.2018: 56-57-B out), MP 1.034
+   (1.7-15.7.2021, back with Lei 14.183's wording: 56 IV new, V-VIII, 57 § 1º new), MP 1.095 (art. 2 effects 1.4.2022: 56-58 out
+   to 22.6.2022, Lei 14.374, its conversion; 57-B ends 1.4.2022 for good; 56 VI new wording 22.6.2022); Lei 14.374's promulgated
+   vetoed parts (DOU 22.12.2022): 56 IX and 57-D from 22.12.2022. Facts read on the acts' pages: Lei 14.183 art. 9 as enacted
+   revoked 56, 57, 57-A, 57-B from 1.1.2025 (art. 10 I) and was rewritten by the promulgated parts of Lei 14.374 (22.12.2022) to
+   56, 57, 57-A, 57-C from 1.1.2028; that is moot on futuro: LC 214 art. 542 XXXIV h) revokes arts. 55-59 (read as taking in
+   57-A..57-D; LC 228/2026 sets REIQ rates only to 12.2026) from 1.1.2027. MP 613's art. 57 'Parágrafo único' replaced the 2007
+   §§ 1º-2º (end 8.5.2013); the enacted art. 57 p.u. (renumbered § 1º by Lei 11.488 art. 36, same words) added as a line
+   2005-11-22..2007-06-15; MP 1.227's revocation of 57-A §§ 1º-2º never effective (unbroken). Line order fixed (art. 57 caput
+   first; MP 694's 56 II after the 2013 II). Art. 57-D § 2º: both pages cut it at 'créditos adicionais previstos' -> TEXT_FIX
+   (l11196 only) with the rest of the sentence from Lei 14.374's promulgation text; the consolidated page keeps the cut
+   (EXPLAINED still to write). Decision text _RQ_DECISION (written by _write_bem with the copies set aside).
+2. LC 214 futuro: _FUT2027[lei-do-bem] (art. 542 XXXIV ends; art. 515 new capita of arts. 11 and 110, art. 11 § 1º, new I/II;
+   all 1.1.2027 under art. 544 III as LC 227 worded it). Planalto's page of Lei 11.196 prints none of LC 214's wordings.
+3. Redata: ementa and art. 1 p.u. restored copies start 26.2.2026 (SPAN_FIX, mp-1318-2025-fim); Capítulo I name and 'CAPÍTULO I'
+   (headings, _redata_model): 2005 lines with a gap 18.9.2025-26.2.2026, end 15.9.2026; Lei 15.504's name from 15.9.2026 plus a
+   TEXT_FIX of its stray closing quote (l11196 only); MP 1.318's art. 11-C from 1.1.2026 (MP art. 5 I; it lapsed after that
+   day); art. 11-B § 5º (Lei 15.504) split by Planalto into '... inciso II do' + '§ 2º deste artigo ...' -> joined (paragraphs
+   wrapper, l11196 only). 'Vigência encerrada' markers are notes, not text (checked in the spans).
+4. art. 96: § 5º 'com a redação dada pela Medida Provisória nº 2.187-13 [...]' read as text (both pages; the same-day version is
+   gone); § 3º second struck copy set aside (ends 11.2.2009, MP 457); § 2º 2005 wording back from 30.6.2009 (Lei 11.960 did not
+   keep MP 457's wording). Same bare-text fix for art. 65 § 1º II and V ('com a redação dada pela Lei nº 10.865 [...];', which
+   had credited lei-10865-2004 on 1.3.2006).
+5 (part). effects_fix MOVES "99-batch17zzzy.json": MP 472 art-30 -> 1.1.2010; MP 694 (arts. 19, 19-A, 26) -> 1.1.2016; Lei 11.727
+   art-64 -> 1.10.2008 (art. 41 IV, its art. 9).
+### TO DO, in this order (publish only when every item is closed)
+5. rest of the effect days (texts already read: b39/logs/multi8.log, artof1.log, prod1.log, prod2.log):
+   a) art. 65: Lei 11.727 art. 39 (VI, VIII, § 4º + I-III) takes effect 1.1.2009 (art. 41 VII), but MP 451 (DOU 16.12.2008; its art.
+      12 adds 65 §§ 7º-8º and 64 § 6º) is dated before that, so effects_fix would refuse it: model by hand (SPAN_FIX starts/ends)
+      after reading MP 451's vigência in full (law:mp-451-2008; multi needle 'entra em vigor', 1500 chars) and Lei 11.945 art. 33
+      (I f: art. 20's 64 § 6º and 65 § 8º from 1.1.2009; III: 65 § 7º 'a partir da data de início de produção ...' - read the rest).
+   b) art. 64, MP 413/2008 (DOU 3.1.2008): read its vigência (not in the old list; its change may be staged like Lei 11.727 art. 41 II).
+   c) art. 70: MP 447 (read 'Art. 8 o': needle 'Art\. 8 o|entra em vigor'); Lei 11.933 art. 5 (art. 11 I: from 1.10.2008, before its
+      publication 29.4.2009 -> keeps the publication day, decision line); MP 1.107 art. 12 / Lei 14.438 art. 12 (art. 19 I b 2: for
+      fatos geradores from the start of collection through FGTS Digital, an executive day: coordinator rule = hold until that day
+      if the act can be found and dated (find the MTE act fixing the start of FGTS Digital collection and its DOU; pin it), else a
+      no-day hold with a decision line); MP 1.110 art. 4 (art. 7 I same condition; lapsed before it -> never took effect, MOVE
+      None); MP 1.303 (art. 70 change, art. 75 I: from 1.1.2026; lapsed 9.10.2025 -> never took effect; check whether a line is printed).
+   d) art. 62: MP 460 (read 'Art. 7 o'); Lei 12.024 art. 5 (art. 31 I: 1.7.2009, before its publication 28.8.2009 -> keeps
+      the publication day).
+   e) art. 65, Lei 13.137 art. 22 (art. 26 V: in force on publication, effects 1.5.2015, before the publication -> keeps 22.6.2015).
+   f) art. 60: Lei 12.995 art. 27 I b) revokes it 'a partir da entrada em vigor do art. 13': read Lei 12.995's vigência for art. 13.
+   g) arts. 28-30 (Inclusão Digital): MP 690 (DOU 31.8.2015; revocation of arts. 28-30 with effects from 1.12.2015, art. 10 I) is
+      not in the trial at all; Lei 13.241 (conversion, DOU 31.12.2015) art. 9 rewrote art. 28 and added 28-A, its art. 12 revokes:
+      model the MP's days, then the conversion rule. Lei 12.715 art. 62 (art. 28 changes) takes effect 'a partir de sua
+      regulamentação' (art. 78 II): hold rule as in c); Lei 12.715 art. 61 (arts. 2, 13) on publication.
+   h) art. 30 II: confirm on the effects_fix output that MP 472's line moved and Lei 12.249's same-words line adds no version.
+6. art. 132 items not gated: mixed articles 33, 42, 43, 44, 46 (parts under II/III/IV/V a-b, decide per quoted line, SPAN_FIX start);
+   art. 110 (VII: from an act, minimum 1.3.2006 / 1.1.2006) and arts. 114-115 (VI: from a joint act): coordinator rule (hold until
+   the act's in-force day if it can be found and dated; else a no-day hold with a decision line).
+7. dupl.py (b37/tools) on the trial; the 14 'units differ' of t6 (art-09, 11-b [§ 5º joined], 41, 44, 48, 56 [consolidated keeps
+   Lei 12.859's IV beside Lei 14.183's], 57-d [§ 2º cut on the consolidated page], 63, 65, 70, 83, 113, 118, titulos [stray quote
+   on the consolidated page]): EXPLAINED or fix. art-09's 'only in consolidated' lines are LC 214's art. 11 § 1º I-II (future wording).
+8. MP fates on their pages (conv_report after the hand model): MPs 413, 428, 447, 451/2008; 457, 460/2009; 492, 497, 517/2010; 534,
+   540, 545/2011; 563, 564/2012; 613/2013; 656/2014; 1.107, 1.110/2022; ADIN 4254 (6 notes; on art. 65 § 1º III-IV: read its scope).
+   Also art. 11-J p.u. (Lei 15.504: benefits of art. 11-C I-III 'produzirão efeitos até 31 de dezembro de 2026'): proposed as an
+   OPEN_ITEMS line (a limit on effects, not on words).
+9. OPEN_ITEMS[_LBEM], pipe.sh zzzy (two identical parses; every check), dupsame/uniqlaws 0, merged check 0/0 main + futuro,
+   --compare identical, audit clean, README row + jurisdiction.json (docs.py), PUBLISH lines.
+- PIDs (all mine, all foreground through batch17/.tmp/run.py, all exited): multi1 41720, multi2 7836, multi3 29340, multi4 30220,
+  multi5 54604, multi6 31172, t1 11196, t2 25140, sp1 37780, t3 23012, multi7 44200, href1 12696, t4 12704, t5 47596, prod1 9260,
+  t6 35408, eff1 34988; sp2, prod2, artof1, multi8: run.py's own stdout (with the PID) was discarded by mistake; foreground,
+  exited (logs in b39/logs). One plain grep over corpus.d ran outside run.py by mistake, as a background task of this session,
+  and was stopped by its own task id after 2 min (no output used). Nothing running.
+
+## State at handoff (batch 17, thirty-ninth session, 2026-11-02)
+Nothing installed this session; installed state unchanged (293 acts, 3913 versions, 2736 commits, check 0/0, compare identical,
+audit clean; README + jurisdiction.json current). corpus.d unchanged (no 99-batch17zzzy.json). Files changed: parse_batch17.py
+(additions only, block '# part zzzy'), effects_fix.py (additions only, MOVES zzzy). batch17/.tmp/stage.json rewritten by the
+trials. Nothing running. Claim released.
+NEXT: Lei 11.196 (part zzzy), TO DO items 5 (rest) to 9 above, then the historic codes.
+OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff.
