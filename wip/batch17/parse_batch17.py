@@ -7710,7 +7710,35 @@ def _write_bem(*a):
             "(the effects under items I and II reach back before the publication, which is the first day of the record)" + (
                 "; changes made to those articles before their day start on that day (" + "; ".join(dict.fromkeys(GBEM_USED))
                 + ")" if GBEM_USED else "") + ".")
+        if RQ_SET_ASIDE:
+            B5.EXTRA_DECISIONS.append(_RQ_DECISION + " Copies set aside: " + ", ".join(
+                f"{u} ({n})" for u, n in Counter(RQ_SET_ASIDE).items()) + ".")
     return _writeBEM(*a)
+
+
+_RQ_DECISION = (
+    "Lei 11.196 arts. 56 to 58 (REIQ), modelled by hand: Planalto prints arts. 56 to 57-B again after each Medida Provisória "
+    "that revoked them, so most 2013 lines stand two to four times on the page; the history keeps one copy of each wording, "
+    "with the days read on the amending acts: Medida Provisória 694/2015 (art. 4 II, effects from 1.1.2016) gave art. 56 II "
+    "a new wording and revoked art. 56 III and IV and art. 57-B from 1.1.2016 (art. 5 I b); it lapsed on 8.3.2016, so they "
+    "are back from 9.3.2016 and its revocation of art. 57 and art. 57-A caput and § 2º 'a partir de 1º de janeiro de 2017' "
+    "(art. 5 II) never took effect. Medida Provisória 836/2018 revoked arts. 56 to 57-B from 1.9.2018 and lapsed on "
+    "10.10.2018 (back 11.10.2018). Medida Provisória 1.034/2021 revoked them from 1.7.2021; Lei 14.183/2021, its conversion "
+    "(DOU 15.7.2021, in force on publication), kept them with new wordings of art. 56 IV and art. 57 § 1º and the new art. 56 "
+    "V to VIII, so they are back from 15.7.2021. Medida Provisória 1.095/2021 revoked arts. 56 to 58 with effects from "
+    "1.4.2022 (art. 2); Lei 14.374/2022, its conversion (DOU 22.6.2022), kept arts. 56, 57, 57-A and 58 (back 22.6.2022, "
+    "with a new art. 56 VI and the new art. 57-C) and revoked art. 57-B (its art. 5), which ends on 1.4.2022. Lei 14.374's "
+    "vetoed art. 56 IX and art. 57-D, promulgated after Congress overrode the veto (DOU 22.12.2022), start on 22.12.2022, "
+    "credited to Lei 14.374. Lei 14.183 art. 9 as enacted (revocation of arts. 56, 57, 57-A and 57-B 'a partir de 1º de "
+    "janeiro de 2025', in force on 1.1.2025 under its art. 10 I) was rewritten by the same promulgated parts of Lei 14.374 "
+    "(22.12.2022) before that day, so it never took effect; as rewritten it revokes arts. 56, 57, 57-A and 57-C 'a partir "
+    "de 1º de janeiro de 2028', but Lei Complementar 214/2025 art. 542 XXXIV h) revokes arts. 55 to 59 (with 57-A to 57-D, "
+    "the articles between them) from 1.1.2027, so on the future branch the REIQ ends on 1.1.2027 and the 2028 revocation "
+    "finds nothing left. Medida Provisória 613/2013 (DOU 8.5.2013) gave art. 57 a parágrafo único in place of §§ 1º and 2º "
+    "(Lei 11.488/2007), which end on 8.5.2013; the parágrafo único of art. 57 as enacted, which Lei 11.488 art. 36 renumbered "
+    "as § 1º with the same words, stands until 15.6.2007. Medida Provisória 1.227/2024's revocation of art. 57-A §§ 1º and "
+    "2º never took effect (Ato Declaratório 36/2024), so they stand unbroken.")
+from collections import Counter  # noqa: E402
 
 
 B6.PB5B._write_part5 = _write_bem
