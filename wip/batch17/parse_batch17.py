@@ -6007,7 +6007,8 @@ if any(a["slug"] == _LCEE for a in ACTS):
     P.MP_LAPSE["mp-814-2017"] = (
         "2018-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 30, de 2018 (DOU 6.6.2018): Medida "
                       "Provisória 814/2017 'teve seu prazo de vigência encerrado no dia 1º de junho do corrente ano'; the "
-                      "provision it had revoked is back from 2.6.2018")
+                      "wording it had replaced or revoked is back from 2.6.2018")
+    # one shared record with part zzw (Lei 10.438, where the MP replaced a wording): names no provision (coordinator, session 51)
     B.EXPLAINED[_LCEE] = {
         "art-10": _DOTTED, "art-11": _DOTTED, "art-13": _DOTTED,
     }
@@ -6345,7 +6346,8 @@ if any(a["slug"] == _LPROINFA for a in ACTS):
     P.MP_LAPSE["mp-814-2017"] = (
         "2018-06-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 30, de 2018 (DOU 6.6.2018): Medida "
                       "Provisória 814/2017 'teve seu prazo de vigência encerrado no dia 1º de junho do corrente ano'; the "
-                      "provision it had revoked is back from 2.6.2018")
+                      "wording it had replaced or revoked is back from 2.6.2018")
+    # word for word as part zzr's (one shared record): names no provision (coordinator, session 51)
     P.MP_LAPSE["mp-855-2018"] = (
         "2019-04-24", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 22, de 2019 (DOU 26.4.2019): Medida "
                       "Provisória 855/2018 'teve seu prazo de vigência encerrado no dia 23 de abril do corrente ano'; the wordings "

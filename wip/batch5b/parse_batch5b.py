@@ -210,8 +210,9 @@ P.MP_LAPSE = {
                                    "'(Rejeitada)' on the Marco Civil page"),
     "mp-703-2015": ("2016-05-30", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 27, de 2016 (DOU "
                                   "31.5.2016): the MP, 'publicada no Diário Oficial da União no dia 21' of December 2015, "
-                                  "'teve seu prazo de vigência encerrado no dia 29 de maio'; the Lei 12.846 wording it had "
-                                  "replaced or revoked is back from 30.5.2016"),
+                                  "'teve seu prazo de vigência encerrado no dia 29 de maio'; the wording it had replaced "
+                                  "or revoked is back from 30.5.2016"),
+    # names no single act: the same law record is carried by part 99-batch6 (Lei 8.429), uniqlaws (coordinator, session 51)
 }
 # Medidas Provisórias whose wording stands with no end of its own (parse_proc's MP_PENDING: a later wording, when there
 # is one, still ends it): reissue chains Planalto credits to their first and last reissue, and MPs in force on

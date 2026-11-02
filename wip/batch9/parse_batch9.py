@@ -211,8 +211,8 @@ P.PUBLISHED_FIXED.update({
 P.MP_LAPSE.update({
     "mp-75-2002": ("2002-12-19", "rejected: the Chamber of Deputies' record of the MP: 'Esta Medida Provisória foi "
                                  "rejeitada pelo Ato da Câmara dos Deputados, em sessão realizada em 18/12/2002 (DOU de "
-                                 "19/12/2002)'; its wording of Código de Trânsito arts. 285 and 288 stands until the "
-                                 "rejection was published"),
+                                 "19/12/2002)'; its wordings stand until the rejection was published"),
+    # names no single act: the same law record is carried by part 99-batch17k (Lei 9.430), uniqlaws (coordinator, session 51)
     "mp-1360-2026": ("2026-09-16", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 96, de 2026 (DOU "
                                    "17.9.2026): 'teve seu prazo de vigência encerrado no dia 15 de setembro de 2026'"),
     "mp-646-2014": ("2014-09-24", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 38, de 2014 (DOU "
