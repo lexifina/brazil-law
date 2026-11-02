@@ -7573,15 +7573,16 @@ if any(a["slug"] == _LBEM for a in ACTS):
         out, rest = _paragraphsBEM(html, digits)
         if B8.CURRENT_PAGE[0] in ("l11196", "l11196-compilado"):
             for q in out:
-                if q["unit"] != "art-96" or not q["text"].rstrip().endswith("com a"):
+                if q["unit"] not in _BARE_BEM or not q["text"].rstrip().endswith("com a"):
                     continue
-                hit = [(n, m) for n in q["notes"] for m in [_BARE_RX2187.fullmatch(n.strip())] if m]
+                rx, why = _BARE_BEM[q["unit"]]
+                hit = [(n, m) for n in q["notes"] for m in [rx.fullmatch(n.strip())] if m]
                 if hit:
                     n, m = hit[0]
                     q["text"] = q["text"].rstrip() + " " + m.group(1)
                     q["notes"] = [x for x in q["notes"] if x != n]
-                    if _W96_5 not in EXTRA:
-                        EXTRA.append(_W96_5)
+                    if why not in EXTRA:
+                        EXTRA.append(why)
         if B8.CURRENT_PAGE[0] == "l11196":
             for k, q in enumerate(out[:-1]):
                 nx = out[k + 1]
@@ -7600,6 +7601,11 @@ _BARE_RX2187 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Medida Provis[óo]r
 _W96_5 = ("Lei 11.196 art. 96 § 5º ends '[...] no limite a que se refere o § 4º do art. 5º da Lei nº 9.639, de 25 de maio de 1998, "
           "com a redação dada pela Medida Provisória nº 2.187-13, de 24 de agosto de 2001.': these words name the wording of "
           "the act it refers to; they are part of the text, not an amendment note (Planalto prints them in the style of a note)")
+_BARE_RX10865 = re.compile(r"\(?\s*(reda[çc][ãa]o dada pela Lei n[º°.]?\s*10\.865, de 30 de abril de 2004;)\s*\)?", re.I)
+_W65_1 = ("Lei 11.196 art. 65 § 1º II and V end '[...] com a redação dada pela Lei nº 10.865, de 30 de abril de 2004;' (as incisos "
+          "III and IV, where Planalto prints the words as text): these words name the wording of the act they refer to; they "
+          "are part of the text, not an amendment note")
+_BARE_BEM = {"art-96": (_BARE_RX2187, _W96_5), "art-65": (_BARE_RX10865, _W65_1)}
 _W96_3 = ("Lei 11.196 art. 96 § 3º: Planalto prints it struck twice, with the note of Medida Provisória 457/2009 (DOU 11.2.2009, "
           "in force on publication), which revoked it, and with that of Lei 11.960/2009, its conversion, which revoked it again; "
           "it ends with the MP, on 11.2.2009")
