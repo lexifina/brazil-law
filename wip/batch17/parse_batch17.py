@@ -752,6 +752,8 @@ ALL_ACTS: list[dict] = [
     _act("lei-da-cofins", "LCofins", "lcp70", "lcp70", "lc-70-1991",
          "Contribuição para o Financiamento da Seguridade Social - Cofins (Lei Complementar nº 70, de 30 de dezembro de "
          "1991)", 2),
+    _act("lei-do-contrato-de-seguro", "LSeg", "l15040", "l15040", "lei-15040-2024",
+         "Lei do Contrato de Seguro: normas de seguro privado (Lei nº 15.040, de 9 de dezembro de 2024)", 3),
     # forty-fourth session: read from the 2026 capture with the repeal's page-wide CSS strike removed; its pre-repeal check
     # is the capture of 2.6.2002
     _act("codigo-civil-de-1916", "CC16", "l3071", "l3071-2002", "lei-3071-1916",
@@ -912,6 +914,7 @@ PARTS: dict[str, list[str]] = {
     # sixty-fourth session
     "zzzzo": ["lei-do-pis"],
     "zzzzp": ["lei-da-cofins"],
+    "zzzzq": ["lei-do-contrato-de-seguro"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1280,6 +1283,10 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                  "publicação, produzindo efeitos a partir do primeiro dia do mês seguinte aos noventa dias "
                                  "posteriores, àquela publicação' (DOU 31.12.1991): the ninety days end on 30.3.1992, so its "
                                  "provisions take effect on 1.4.1992"),
+    # the day the Código Civil part (corpus.d/50-codes) gives Lei 15.040's revocations
+    "lei-15040-2024": ("2025-12-11", "Lei 15.040/2024 art. 134: 'Esta Lei entra em vigor após decorrido 1 (um) ano de sua "
+                                     "publicação oficial' (DOU 10.12.2024; counted as Lei Complementar 95 art. 8 § 1º): "
+                                     "11.12.2025"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1933,6 +1940,10 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lc-70-1991": _L("Lei Complementar nº 70, de 1991", "Institui contribuição para financiamento da Seguridade Social, eleva "
                      "a alíquota da contribuição social sobre o lucro das instituições financeiras e dá outras providências.",
                      "1991-12-30", "1991-12-31", PAGES["lcp70"]),
+    # the record as the Código Civil part (corpus.d/50-codes) has it (uniqlaws)
+    "lei-15040-2024": _L("Lei nº 15.040, de 2024", "Dispõe sobre normas de seguro privado; e revoga dispositivos da Lei nº "
+                         "10.406, de 10 de janeiro de 2002 (Código Civil), e do Decreto-Lei nº 73, de 21 de novembro de "
+                         "1966.", "2024-12-09", "2024-12-10", "_Ato2023-2026/2024/Lei/L15040.htm"),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
