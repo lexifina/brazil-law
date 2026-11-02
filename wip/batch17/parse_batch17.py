@@ -9197,7 +9197,7 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "Código Civil de 1916, print order: Planalto prints a later wording below the earlier ones, often after the old "
         "lines below it (art. 186's new caput after the 1916 parágrafo único); in each version a wording takes the place "
         "of the first wording of its slot, and lines no wording replaces keep their place ({n} articles)")
-    # the pre-repeal check (b44 tools/cmp2002.py): every unit of the last version before the repeal against the 2.6.2002
+    # the pre-repeal check (a structural comparison, run outside the parser): every unit of the last version before the repeal against the 2.6.2002
     # capture (green text and its markers removed), by structure (units, line labels) and words (>= 0.85 alike, accents,
     # punctuation and case set aside); the units that still differ, each with its reason
     _CC16_EXPL_GROUPS = {
@@ -9230,7 +9230,7 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "Código Civil de 1916, the pre-repeal check: the last version before the repeal (16.2.2001) against Planalto's "
         "page as captured on 2.6.2002, with its revoked (green) text and the 'Texto original' markers set aside. That "
         "page is a modernised re-typesetting ('Art. 1º', 'I - os menores de 16 (dezesseis) anos;' for 'I. Os menores de "
-        "dezesseis annos.') and does not print the Introdução, so an exact comparison differs in some 1,200 articles; "
+        "dezesseis anos.') and does not print the Introdução, so an exact comparison differs in some 1,200 articles; "
         "compared by structure (the articles present and their line labels) and by words (at least 85% alike, accents, "
         "punctuation and case set aside), every remaining difference is explained: "
         + "; ".join(f"{why}: {_cc16_arts(units)}" for why, units in _CC16_EXPL_GROUPS.values()))
