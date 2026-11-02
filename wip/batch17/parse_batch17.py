@@ -10247,7 +10247,33 @@ if any(a["slug"] == _L9532 for a in ACTS):
         "Lei 9.532 (open items): 'Vide' pointers (Medidas Provisórias 2.158-35/2001, 2.189-49/2001, 2.199-14/2001, 38/2002, "
         "66/2002, 135/2003, 1.184/2023 and 1.303/2025, Leis 10.637/2002 and 12.973/2014, Decretos 6.306/2007, 7.212/2010 and "
         "7.573/2011, Lei Complementar 214/2025) strike no words and are not modelled; art. 80 keeps the acts done under "
-        "Medida Provisória 1.602/1997, the Lei's origin, which the history does not show")
+        "Medida Provisória 1.602/1997, the Lei's origin, which the history does not show; Planalto's '(Vide ADIN Nº 1802)' "
+        "markers (art. 12 caput, § 1º and § 2º f), art. 13 caput, art. 14) and '(Vide ADI 1.758-4, DE 1998)' marker (art. 28 "
+        "caput) point to the Supremo Tribunal Federal's judgments in those cases, whose effect on the text could not be read "
+        "(their records were not read); the markers are left out of the text and the judgments are not modelled")
+    # coordinator decision (session 54): the STF records of ADI 1.802 and ADI 1.758 sit under the robots-Disallowed
+    # /processos; no allowed record of either ruling was found (Informativos 897 and 898, April 2018, read: neither names
+    # ADI 1.802), so each gets the decision line LC 97 got for ADI 6457
+    EXTRA.append("Lei 9.532: the Supremo Tribunal Federal's judgments in ADI 1.802, to which Planalto's '(Vide ADIN Nº 1802)' "
+                 "markers on arts. 12 to 14 point, and in ADI 1.758, to which the '(Vide ADI 1.758-4, DE 1998)' marker on art. "
+                 "28 points, are not shown in the history, because their records could not be read.")
+    # art. 75: Planalto prints the 1997 article twice, both struck: first with Medida Provisória 71/2002's revocation (and
+    # 'Rejeitada'), then again with Lei 10.833/2003's; one line, out while the MP stood
+    _W9532_75 = ("Lei 9.532 art. 75: Medida Provisória 71/2002 art. 14 revoked it (DOU 4.10.2002); the Chamber of Deputies "
+                 "rejected the MP (DOU 12.12.2002), so the article is in force again from 12.12.2002 until Lei 10.833/2003 "
+                 "revoked it. Planalto prints the 1997 article twice, both struck: first with the MP's note, then with Lei "
+                 "10.833's; the second copy is the history's line (out from 4.10.2002 to 11.12.2002), the first a copy left out")
+    _T9532_75 = "Art. 75. Compete à Secretaria da Receita Federal a administração"
+    B8.SPAN_FIX += [
+        ((_L9532, "art-75", "Art. 75", _T9532_75, 0), {"skip": True, "end_how": "duplicate"}, _W9532_75),
+        ((_L9532, "art-75", "Art. 75", _T9532_75, 1),
+         {"start": "1997-12-11", "start_law": None, "gaps": [("2002-10-04", "2002-12-12", "mp-71-2002", "mp-71-2002-fim")]},
+         _W9532_75),
+    ]
+    B.EXPLAINED[_L9532] = {
+        "art-67": "check artefact: art. 67 quotes Decreto 70.235/1972 art. 23 with the dotted line '§ 2º .....', which the "
+                  "history keeps as '§ 2º.' and the check, reading label-only lines as revoked dispositivos, drops",
+    }
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
