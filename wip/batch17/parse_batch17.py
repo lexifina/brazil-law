@@ -10431,8 +10431,8 @@ if any(a["slug"] == _L10865 for a in ACTS):
     # Medidas Provisórias that lost effect (Atos of the President of the Congress, read on Planalto's pages)
     P.MP_LAPSE["mp-836-2018"] = (
         "2018-10-11", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 61, de 2018: 'teve seu prazo de vigência "
-                      "encerrado no dia 10 de outubro do corrente ano'; the paragraphs it had revoked (Lei 10.865 art. 8 §§ 15, "
-                      "16 and 23, from 1.9.2018) are back from 11.10.2018")
+                      "encerrado no dia 10 de outubro do corrente ano'; the articles it had revoked (Lei 11.196 arts. 56 to 57-B, "
+                      "from 1.9.2018) are back from 11.10.2018")
     P.MP_LAPSE["mp-612-2013"] = (
         "2013-08-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 49, de 2013 (DOU 7.8.2013): 'teve seu "
                       "prazo de vigência encerrado no dia 1º de agosto do corrente ano'")
