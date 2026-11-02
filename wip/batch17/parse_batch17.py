@@ -896,7 +896,7 @@ PARTS: dict[str, list[str]] = {
     "zzzzl": ["lei-9532-de-1997"],
     # fifty-fifth to fifty-eighth sessions
     "zzzzm": ["lei-10865-de-2004"],
-    # fifty-ninth to sixty-first sessions (articles; the Anexos held back)
+    # fifty-ninth to sixty-first sessions (articles), sixty-third (the Anexos)
     "zzzzn": ["lei-12546-de-2011"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
@@ -11250,8 +11250,7 @@ if any(a["slug"] == _L12546 for a in ACTS):
                       "quanto aos arts. 1º e 2º, e ao inciso II do caput do art. 12' (DOU 30.5.2018, edição extra): its art. 1 "
                       "and art. 12 II, the changes to Lei 12.546 and the revocations in it, from 1.9.2018")
     B13.OPEN_ITEMS[_L12546] = (
-        "Lei 12.546 (open items): the Anexos I and II (NCM codes and the list of art. 8 § 3º XII, revoked from 1.9.2018) "
-        "are not part of the history yet; Planalto's '(Vide ADI 7633)' markers after art. 7 caput and art. 8 caput (Lei 14.784/2023's "
+        "Lei 12.546 (open items): Planalto's '(Vide ADI 7633)' markers after art. 7 caput and art. 8 caput (Lei 14.784/2023's "
         "wording) point to the Supremo Tribunal Federal's judgment in that case, whose effect on the text could not be read "
         "(its record was not read): the judgment is not modelled; 'Vide' pointers (among them Medidas Provisórias 563/2012, "
         "582/2012, 669/2015, 794/2017, 1.202/2023 and 1.208/2024, Lei 13.161/2015 and Lei Complementar 214/2025) strike no "
@@ -11448,11 +11447,6 @@ if any(a["slug"] == _L12546 for a in ACTS):
         "took effect: in Lei 12.715/2012, its conversion, that inciso is '(VETADO)' (art. 79 IV), and the page prints arts. "
         "5 and 6 with no revocation")
     EXTRA.append(
-        "Lei 12.546: the Anexos are not part of this history yet: Anexo I (the NCM codes of the products of art. 8, which Planalto "
-        "prints in several arrangements, with a note per code naming the act that added or removed it) and Anexo II (the "
-        "list of art. 8 § 3º XII), both revoked by Lei 13.670/2018 art. 12 II c) from 1.9.2018, are held back until each "
-        "code's history replays exactly; the articles' history is complete without them")
-    EXTRA.append(
         "Lei 12.546 under Medida Provisória 612/2013 (DOU 4.4.2013): its art. 28 II puts its wording of art. 7 V to XI and of "
         "art. 8 § 3º XIII to XX and § 6º in force from 1.1.2014; it lost effect on 2.8.2013 (Ato Declaratório nº 49, de "
         "2013), and Lei 12.844/2013 had replaced those provisions, so that wording never took effect and is not shown. Lei "
@@ -11485,6 +11479,518 @@ if any(a["slug"] == _L12546 for a in ACTS):
                   "has no text: Medida Provisória 1.093/2021 art. 2 revoked art. 9 IV on its publication (31.12.2021), and "
                   "Lei 14.360/2022 is its conversion",
     }
+
+# part zzzzn, sixty-third session: the Anexos of Lei 12.546 (coordinator decisions D1 to D4). Anexo I (unit anexo-i) and Anexo
+# II (unit anexo-ii) are read from the tables Planalto prints after the signature of the Lei's page, one line per printed row
+# (a code printed twice stays twice), each Anexo headed by its printed title; every row is dated by the acts' own lists (the
+# tables after the signature of each act's page) and articles, not by Planalto's notes (D4). The replay is checked, on every
+# day on which anything changes, against the list the acts give for that day, and its last day against the page's table as
+# printed. Built at the version level: the articles' versions keep their days and texts; a day on which only an Anexo
+# changes is a version of its own
+import html as _anx_html  # noqa: E402
+L12546_ANX: dict = {}
+_ANX_NOTE = re.compile(r"\((?:Incluíd[oa]|Redação dada|Vide|Subtraíd[oa]|Revogad[oa])[^)]*\)|\(?Vigência encerrada\)?|\(Vigência\)")
+_ANX_WHO = (("lei-12715-2012", r"Lei nº 12\.715"), ("mp-582-2012", r"Mpv nº 582|Medida Provisória nº 582"),
+            ("lei-12794-2013", r"Lei nº 12\.794"), ("mp-601-2012", r"Mpv nº 601|Medida Provisória nº 601"),
+            ("lei-12844-2013", r"Lei nº 12\.844"), ("mp-612-2013", r"Medida Provisória nº 612"),
+            ("mp-563-2012", r"Medida Provisória nº 563"))
+_ANX_LISTED = ("lei-12715-2012", "mp-582-2012", "lei-12794-2013", "mp-601-2012", "lei-12844-2013")
+
+
+def _anx_txt(x):
+    x = re.sub(r"(?i)<(p|br|div)\b[^>]*>", "\n", x)
+    x = _anx_html.unescape(re.sub(r"<[^>]+>", " ", x))
+    x = x.replace("\x01", " [- ").replace("\x02", " -] ")
+    x = re.sub(r"[ \t\r\n\xa0]+", " ", x).strip()
+    return re.sub(r"\[-\s*-\]", "", x).strip()
+
+
+def _anx_tables(ident):
+    """The page's tables: (the 300 characters of text before the table, rows of cells with struck parts marked)."""
+    h = P.decode(P.raw(ident)[0])
+    h = re.sub(r"(?is)<(script|style)\b.*?</\1>", " ", h)
+    h = re.sub(r"(?i)<(strike|s|del)\b[^>]*>", "\x01", h)
+    h = re.sub(r"(?i)</(strike|s|del)\s*>", "\x02", h)
+    out = []
+    for tm in re.finditer(r"(?is)<table\b.*?</table>", h):
+        rows = [[_anx_txt(c) for c in re.findall(r"(?is)<t[dh]\b.*?(?=<t[dh]\b|</tr>|$)", rm.group(0))]
+                for rm in re.finditer(r"(?is)<tr\b.*?(?=<tr\b|</table>)", tm.group(0))]
+        out.append((_anx_txt(h[max(0, tm.start() - 3000):tm.start()])[-300:], rows))
+    return out
+
+
+def _anx_pagetext(ident):
+    h = P.decode(P.raw(ident)[0])
+    h = re.sub(r"(?is)<(script|style)\b.*?</\1>", " ", h)
+    t = re.sub(r"[\s\xa0]+", " ", _anx_html.unescape(re.sub(r"<[^>]+>", " ", h)))
+    return t.replace(" ,", ",").replace(" ;", ";")
+
+
+def _anx_row(cells):
+    """A row: its item as printed (notes and strike marks lifted out; a cell that prints the item twice, struck and plain,
+    read once), its notes, and whether it is struck."""
+    c = " ".join(cells)
+    struck = "[-" in c
+    c = c.replace("[-", " ").replace("-]", " ")
+    c = re.sub(r"(\(Incluído pela Lei nº 12\.715, de 2012)\s*$", r"\1)", c)
+    notes = [m.group(0) for m in _ANX_NOTE.finditer(c)]
+    x = re.sub(r"\s+", " ", _ANX_NOTE.sub(" ", c)).strip()
+    x = re.sub(r"\s*\(\s*(exceto|EXCETO)", r" (\1", x).strip()
+    x = re.sub(r"\s*;\s*(e\s*)?$", "", x)   # list punctuation of the article a code was copied from
+    h = len(x) // 2
+    if len(x) % 2 == 1 and x[:h] == x[h + 1:] and x[h] == " ":
+        x = x[:h]
+    return {"item": x, "notes": notes, "struck": struck}
+
+
+def _anx_key(x):
+    return re.sub(r"\s+", "", x)
+
+
+def _anx_dkey(x):
+    return re.sub(r"\D", "", x) if re.match(r"\d", x) else _anx_key(x)
+
+
+def _anx_items(rows):
+    return [r for r in (_anx_row(c) for c in rows) if r["item"] not in ("NCM", "")]
+
+
+def _anx_list(ident, title_rx, n):
+    tabs = [rows for title, rows in _anx_tables(ident) if re.search(title_rx, title)]
+    assert len(tabs) == 1, (ident, title_rx, len(tabs))
+    items = [r["item"] for r in _anx_items(tabs[0])]
+    L12546_ANX.setdefault("lists", []).append(f"{ident} {len(items)}")
+    assert n is None or len(items) == n, (ident, len(items), n)
+    return items
+
+
+def _anx_who(note):
+    for k, rx in _ANX_WHO:
+        if re.search(rx, note):
+            return k
+    return None
+
+
+# hand lists from the acts' articles, each checked against its page's text (_ANX_CHECK)
+_ANX_L12715_III = ("2515.11.00 2515.12.10 2516.11.00 2516.12.00 6801.00.00 6802.10.00 6802.21.00 6802.23.00 6802.29.00 6802.91.00 "
+                   "6802.92.00 6802.93.10 6802.93.90 6802.99.90 6803.00.00 8473.30.99 8504.90.10 8518.90.90 8522.90.20").split()
+_ANX_L12715_IV = ["01.03", "02.06", "02.09", "05.04", "05.05", "05.07", "05.10", "05.11", "10.05", "11.06", "12.01", "12.08",
+                  "12.13", "Capítulo 15", "Capítulo 16", "Capítulo 19", "23.01", "23.04", "23.06", "2309.90", "30.02", "30.03",
+                  "30.04"]
+_ANX_COPPER = "7403.21.00 7407.21.10 7407.21.20 7409.21.00 7411.10.10 7411.21.10 74.12".split()
+_ANX_SUB = [   # (day, law, article, codes): subtractions from Anexo I, each read on the act's page with its day
+    ("2013-01-01", "mp-582-2012", "Medida Provisória 582/2012 art. 2 II", ["3923.30.00", "8544.49.00"]),
+    ("2013-04-03", "lei-12794-2013", "Lei 12.794/2013 art. 2 II", ["3923.30.00", "8544.49.00"]),
+    ("2013-07-19", "lei-12844-2013", "Lei 12.844/2013 art. 14 V", _ANX_COPPER),
+    ("2013-07-19", "lei-12844-2013", "Lei 12.844/2013 art. 14 VI",
+     "3006.30.11 3006.30.19 7207.11.10 7208.52.00 7208.54.00 7214.10.90 7214.99.10 7228.30.00 7228.50.00 8471.30 9022.14.13 "
+     "9022.30.00".split()),
+    ("2013-08-01", "mp-612-2013", "Medida Provisória 612/2013 art. 26 II", _ANX_COPPER),
+    ("2013-08-01", "lei-12844-2013", "Lei 12.844/2013 art. 14 IV",
+     ["Capítulo 93"] + "1301.90.90 7310.21.90 7323.99.00 7507.20.00 7612.10.00 7612.90.11 8309.10.00 8526.10.00 8526.92.00 "
+     "9023.00.00 9603.10.00 9603.29.00 9603.30.00 9603.40.10 9603.40.90 9603.50.00 9603.90.00".split()),
+    ("2015-03-01", "lei-13043-2014", "Lei 13.043/2014 art. 51", "1901.20.00 1901.90.90 5402.46.00 5402.47.00 5402.33.10".split()),
+]
+_ANX_CHECK = [   # (page, words the page must print)
+    ("law:lei-12715-2012", ", ".join(_ANX_L12715_III[:-1]) + " e " + _ANX_L12715_III[-1]),
+    ("law:lei-12715-2012", "nas posições 01.03, 02.06, 02.09, 05.04, 05.05, 05.07, 05.10, 05.11, 10.05, 11.06, 12.01, 12.08, "
+                           "12.13, no Capítulo 15, no Capítulo 16, no Capítulo 19, nas posições 23.01, 23.04, 23.06, 2309.90, "
+                           "30.02, 30.03, 30.04"),
+    ("law:mp-582-2012", "subtraído dos produtos classificados nos códigos 3923.30.00 e 8544.49.00"),
+    ("law:lei-12794-2013", "subtraído dos produtos classificados nos códigos 3923.30.00 e 8544.49.00"),
+    ("law:lei-12844-2013", "V - subtraído dos produtos classificados nos códigos " + ", ".join(_ANX_COPPER[:-1]) + " e 74.12"),
+    ("law:lei-12844-2013", "VI - subtraído dos produtos classificados nos códigos 3006.30.11, 3006.30.19, 7207.11.10, "
+                           "7208.52.00, 7208.54.00, 7214.10.90, 7214.99.10, 7228.30.00, 7228.50.00, 8471.30, 9022.14.13 e "
+                           "9022.30.00"),
+    ("law:lei-12844-2013", "III - acrescido dos produtos classificados nos códigos 9404.10.00 e 9619.00.00"),
+    ("law:lei-12844-2013", "IV - subtraído dos produtos classificados no Capítulo 93 e nos códigos 1301.90.90, 7310.21.90, "
+                           "7323.99.00, 7507.20.00, 7612.10.00, 7612.90.11, 8309.10.00, 8526.10.00, 8526.92.00, 9023.00.00, "
+                           "9603.10.00, 9603.29.00, 9603.30.00, 9603.40.10, 9603.40.90, 9603.50.00 e 9603.90.00"),
+    ("law:mp-612-2013", "II - subtraído dos produtos classificados nos códigos " + ", ".join(_ANX_COPPER[:-1]) + " e 74.12"),
+    ("law:mp-612-2013", "t) 9404.10.00; e"),
+    ("law:mp-612-2013", "u) 9619.00.00; e"),
+    ("law:lei-13043-2014", "I - 1901.20.00; II - 1901.90.90; III - 5402.46.00, 5402.47.00 e 5402.33.10"),
+]
+_ANX_GAPS = [("2017-07-01", "2017-08-09", "mp-774-2017", "mp-794-2017"),
+             ("2017-12-07", "2017-12-09", "mp-794-2017-fim", "mp-774-2017-fim")]
+_ANX_END = ("2018-09-01", "lei-13670-2018")
+_ANX_OBS = {"mp-601-2012": "Observação: As Classes e Subclasses CNAE referidas neste Anexos correspondem àquelas relacionadas na "
+                           "Classificação Nacional de Atividades Econômicas - CNAE 2.0.",
+            "lei-12844-2013": "Observação: As Classes e Subclasses CNAE referidas neste Anexo correspondem àquelas relacionadas na "
+                              "Classificação Nacional de Atividades Econômicas - CNAE 2.0."}
+_ANX_N = {"mp-563-2012": 791, "lei-12715-2012": 829, "mp-582-2012": 368, "lei-12794-2013": 358, "mp-601-2012": 65,
+          "lei-12844-2013": 65, "mp-601-2012 II": 19, "lei-12844-2013 II": 18}
+
+
+def _anx_on(s, day):
+    return s[0] <= day and (s[1] is None or day < s[1])
+
+
+def _anx_model():
+    """Lines of the two Anexos: [order, unit, spans [start, end, start law, end law, words], row]; reports in L12546_ANX."""
+    R = L12546_ANX
+    for page, words in _ANX_CHECK:
+        assert words in _anx_pagetext(page), (page, words[:70])
+    tabs = _anx_tables("l12546")
+    sizes = [len(r) for _, r in tabs]
+    assert sizes[1:6] == [792, 1282, 1282, 19, 18], sizes
+    t1, t2, t3, t4, t5 = (_anx_items(tabs[i][1]) for i in range(1, 6))
+    assert [(r["item"], r["notes"]) for r in t2] == [(r["item"], r["notes"]) for r in t3], "Anexo I printed twice, differently"
+    own = {"mp-563-2012": _anx_list("law:mp-563-2012", r"Anexo à Lei nº", _ANX_N["mp-563-2012"]),
+           "lei-12715-2012": _anx_list("law:lei-12715-2012", r"Anexo da Lei n", _ANX_N["lei-12715-2012"]),
+           "mp-582-2012": _anx_list("law:mp-582-2012", r"Acréscimo no Anexo à Lei", _ANX_N["mp-582-2012"]),
+           "lei-12794-2013": _anx_list("law:lei-12794-2013", r"Acréscimo no Anexo I da Lei", _ANX_N["lei-12794-2013"]),
+           "mp-601-2012": _anx_list("law:mp-601-2012", r"Acréscimo ao Anexo I à Lei", _ANX_N["mp-601-2012"]),
+           "lei-12844-2013": _anx_list("law:lei-12844-2013", r"Acréscimo ao Anexo I da Lei", _ANX_N["lei-12844-2013"])}
+    own2 = {"mp-601-2012": _anx_list("law:mp-601-2012", r"ANEXO II \(Anexo II à Lei", _ANX_N["mp-601-2012 II"]),
+            "lei-12844-2013": _anx_list("law:lei-12844-2013", r"ANEXO II \( Anexo II da Lei", _ANX_N["lei-12844-2013 II"])}
+    # MP 563's Anexo as the Lei's page prints it (table 1) is the MP's own list; so are the two Anexo II tables
+    assert [_anx_key(r["item"]) for r in t1] == [_anx_key(x) for x in own["mp-563-2012"]], "MP 563 table"
+    assert [_anx_key(r["item"]) for r in t4] == [_anx_key(x) for x in own2["mp-601-2012"]], "Anexo II, MP 601"
+    assert [_anx_key(r["item"]) for r in t5] == [_anx_key(x) for x in own2["lei-12844-2013"]], "Anexo II, Lei 12.844"
+    lt = _anx_pagetext("l12546")
+    for law, obs in _ANX_OBS.items():
+        assert obs in _anx_pagetext("law:" + law) and obs in lt, law
+    # D2: 8544.49.00 is in the lists of MP 582 and Lei 12.794 (art. 2 I) and subtracted by the same article (art. 2 II)
+    for k in ("mp-582-2012", "lei-12794-2013"):
+        assert own[k].count("8544.49.00") == 1, k
+        own[k] = [x for x in own[k] if x != "8544.49.00"]
+    # each list item -> a row of table 2 with the same words, a row whose notes name the act first; MP 582's '30.06' is the
+    # row Lei 12.794 reworded (D4)
+    alias = {("mp-582-2012", "30.06"): "30.06 (EXCETO OS CÓDIGOS 3006.30.11 E 3006.30.19)"}
+    srcs = [[] for _ in t2]
+    R["unmatched"] = []
+    for law in _ANX_LISTED:
+        for x in own[law]:
+            k = _anx_key(alias.get((law, x), x))
+            cand = [i for i, r in enumerate(t2) if _anx_key(r["item"]) == k and law not in [s[0] for s in srcs[i]]]
+            named = [i for i in cand if any(_anx_who(n) == law for n in t2[i]["notes"])]
+            if not cand:
+                R["unmatched"].append(f"{law} {x}")
+                continue
+            srcs[(named or cand)[0]].append((law, x))
+    assert not R["unmatched"], R["unmatched"]
+    R["d4"] = []
+    for i, r in enumerate(t2):
+        named = {_anx_who(n) for n in r["notes"] if re.match(r"\((Incluíd|Redação)", n)}
+        mine = {s[0] for s in srcs[i]}
+        for law in sorted(mine - named):
+            R["d4"].append(f"{r['item']}: in {law}'s list, no note")
+        for law in sorted((named - mine) & set(_ANX_LISTED)):
+            R["d4"].append(f"{r['item']}: note of {law}, not in its list")
+        for law, x in srcs[i]:
+            if _anx_key(x) != _anx_key(r["item"]):
+                R["d4"].append(f"{r['item']}: {law} prints {x!r}")
+    defer = {_anx_dkey(x) for x in _ANX_L12715_III + _ANX_L12715_IV}
+    span = {"lei-12715-2012": ("2012-09-18", None, "lei-12715-2012", None),
+            "mp-582-2012": ("2013-01-01", "2013-04-03", "mp-582-2012", "lei-12794-2013"),
+            "lei-12794-2013": ("2013-04-03", None, "lei-12794-2013", None),
+            "mp-601-2012": ("2013-04-01", "2013-06-04", "mp-601-2012", "mp-601-2012-fim"),
+            "lei-12844-2013": ("2013-11-01", None, "lei-12844-2013", None)}
+    lines, nd = [], 0
+    for i, r in enumerate(t2):
+        sp = []
+        for law, x in srcs[i]:
+            s, e, sl, el = span[law]
+            if law == "lei-12715-2012" and (_anx_dkey(r["item"]) in defer or r["item"] == "(VETADO)"):
+                s = "2013-01-01"
+                nd += 1
+            sp.append([s, e, sl, el, r["item"] if _anx_key(x) == _anx_key(r["item"]) else x])
+        # Medida Provisória 612 art. 26 I t) (on publication, art. 28 III) and u) (from 1.8.2013, art. 28 I c)), to its
+        # lapse (2.8.2013); Lei 12.844 art. 14 III adds both codes from 1.8.2013 (art. 49 III)
+        if _anx_key(r["item"]) == "9404.10.00":
+            sp += [["2013-04-04", "2013-08-02", "mp-612-2013", "mp-612-2013-fim", r["item"]],
+                   ["2013-08-01", None, "lei-12844-2013", None, r["item"]]]
+        if _anx_key(r["item"]) == "9619.00.00":
+            sp += [["2013-08-01", "2013-08-02", "mp-612-2013", "mp-612-2013-fim", r["item"]],
+                   ["2013-08-01", None, "lei-12844-2013", None, r["item"]]]
+        lines.append([200000 + i, "anexo-i", sp, r])
+    R["deferred"] = nd
+    R["never"] = [r["item"] for o, u, sp, r in lines if not sp]
+    # subtractions: a row with the code's words ends that day; a code inside a printed heading leaves its words (D1)
+    R["cut"], R["inside"], R["absent"] = [], [], []
+    for day, law, art, codes in _ANX_SUB:
+        for c in codes:
+            hit = False
+            for o, u, sp, r in lines:
+                if _anx_key(r["item"]) == _anx_key(c):
+                    for s in sp:
+                        if _anx_on(s, day):
+                            s[1], s[3], hit = day, law, True
+                            R["cut"].append(f"{day} {art}: {r['item']}")
+            if hit:
+                continue
+            dig = re.sub(r"\D", "", c)
+            heads = []
+            for o, u, sp, r in lines:
+                hdig = re.sub(r"\D", "", r["item"].split(" (")[0].split(",")[0])
+                if hdig and hdig != dig and dig.startswith(hdig) and any(_anx_on(s, day) for s in sp):
+                    heads.append(r["item"])
+            (R["inside"] if heads else R["absent"]).append(f"{day} {art}: {c}" + (f" inside {heads}" if heads else ""))
+    # MP 563's Anexo (table 1) from 1.8.2012 (art. 54 § 2º) until Lei 12.715's Anexo replaced it on 18.9.2012
+    for i, r in enumerate(t1):
+        lines.append([100000 + i, "anexo-i", [["2012-08-01", "2012-09-18", "mp-563-2012", "lei-12715-2012", r["item"]]], r])
+    # the title (MP 563 and Lei 12.715 'Anexo'; Medida Provisória 601 and Lei 12.844 named it 'ANEXO I') and the column head
+    lines.append([0, "anexo-i", [["2012-08-01", "2013-04-01", "mp-563-2012", "mp-601-2012", "Anexo"],
+                                 ["2013-04-01", "2013-06-04", "mp-601-2012", "mp-601-2012-fim", "ANEXO I"],
+                                 ["2013-06-04", "2013-07-19", "mp-601-2012-fim", "lei-12844-2013", "Anexo"],
+                                 ["2013-07-19", None, "lei-12844-2013", None, "ANEXO I"]], None])
+    lines.append([1, "anexo-i", [["2012-08-01", None, "mp-563-2012", None, "NCM"]], None])
+    # Anexo II: Medida Provisória 601's list (table 4) and Lei 12.844's (table 5), each with its 'Observação' line
+    for law, tbl, base, s, e, el in (("mp-601-2012", t4, 1000, "2013-04-01", "2013-06-04", "mp-601-2012-fim"),
+                                     ("lei-12844-2013", t5, 2000, "2013-11-01", None, None)):
+        for i, r in enumerate(tbl):
+            lines.append([base + i, "anexo-ii", [[s, e, law, el, r["item"]]], r])
+        lines.append([base + 999, "anexo-ii", [[s, e, law, el, _ANX_OBS[law]]], None])
+    lines.append([0, "anexo-ii", [["2013-04-01", "2013-06-04", "mp-601-2012", "mp-601-2012-fim", "ANEXO II"],
+                                  ["2013-11-01", None, "lei-12844-2013", None, "ANEXO II"]], None])
+    lines.sort(key=lambda x: (x[1], x[0]))
+    return lines, own, own2, t2
+
+
+def _anx_live(day):
+    return not (day >= _ANX_END[0] or any(a <= day < b for a, b, _, _ in _ANX_GAPS))
+
+
+def _anx_text(lines, unit, day):
+    if not _anx_live(day):
+        return None
+    out = []
+    for o, u, sp, r in lines:
+        on = [s for s in sp if _anx_on(s, day)]
+        if u == unit and on:
+            out.append(max(on, key=lambda s: s[0])[4])
+    return "".join(x + "\n" for x in out) if out else None
+
+
+def _anx_expected(own, own2, day):
+    """The rows of each Anexo on a day from the acts' lists and articles alone (each act's list adds its rows, so a code two
+    acts add is there twice; a subtraction removes what an earlier act gave), to compare with the replay."""
+    a, b = Counter(), Counter()
+    if not _anx_live(day):
+        return a, b
+    defer = {_anx_dkey(x) for x in _ANX_L12715_III + _ANX_L12715_IV}
+    l715 = own["lei-12715-2012"]
+    give = [("2012-08-01", "2012-09-18", own["mp-563-2012"]),
+            ("2012-09-18", None, [x for x in l715 if _anx_dkey(x) not in defer and x != "(VETADO)"]),
+            ("2013-01-01", None, [x for x in l715 if _anx_dkey(x) in defer or x == "(VETADO)"]),
+            ("2013-01-01", "2013-04-03", own["mp-582-2012"]), ("2013-04-03", None, own["lei-12794-2013"]),
+            ("2013-04-01", "2013-06-04", own["mp-601-2012"]), ("2013-04-04", None, ["9404.10.00"]),
+            ("2013-08-01", None, ["9619.00.00"]), ("2013-11-01", None, own["lei-12844-2013"])]
+    for s, e, xs in give:
+        if not _anx_on((s, e), day):
+            continue
+        cut = {_anx_key(c) for d, law, art, codes in _ANX_SUB if s <= d <= day for c in codes}
+        a.update(_anx_key(x) for x in xs if _anx_key(x) not in cut)
+    for s, e, law in (("2013-04-01", "2013-06-04", "mp-601-2012"), ("2013-11-01", None, "lei-12844-2013")):
+        if _anx_on((s, e), day):
+            b.update(_anx_key(x) for x in own2[law])
+    return a, b
+
+
+def _anx_days(lines):
+    days = {s[i] for o, u, sp, r in lines for s in sp for i in (0, 1) if s[i]}
+    days |= {g[i] for g in _ANX_GAPS for i in (0, 1)} | {_ANX_END[0]} | {d for d, *_ in _ANX_SUB}
+    return sorted(days)
+
+
+def _anx_rows(lines, unit, day):
+    ls = (_anx_text(lines, unit, day) or "").splitlines()[1:]
+    return Counter(_anx_key(x) for x in ls if x != "NCM" and not x.startswith("Observação"))
+
+
+def _anx_check(lines, own, own2, t2):
+    """On every day on which anything changes the replay equals the acts' lists; on the last day before the revocation it
+    is the page's table as printed, less the rows the acts end (listed in final_missing)."""
+    R = L12546_ANX
+    R["days"] = []
+    for day in _anx_days(lines):
+        a, b = _anx_expected(own, own2, day)
+        g1, g2 = _anx_rows(lines, "anexo-i", day), _anx_rows(lines, "anexo-ii", day)
+        assert g1 == a, (day, sorted((g1 - a).elements())[:12], sorted((a - g1).elements())[:12])
+        assert g2 == b, (day, "anexo-ii")
+        R["days"].append(f"{day}: anexo-i {sum(a.values())} rows, anexo-ii {sum(b.values())}")
+    last = _anx_rows(lines, "anexo-i", "2018-08-31")
+    printed = Counter(_anx_key(r["item"]) for r in t2)
+    assert not (last - printed), sorted((last - printed).elements())
+    R["final_missing"] = sorted((printed - last).elements())
+
+
+def _anx_laws(lines, unit, day):
+    ls = {s[2] for o, u, sp, r in lines if u == unit for s in sp if s[0] == day}
+    ls |= {s[3] for o, u, sp, r in lines if u == unit for s in sp if s[1] == day}
+    ls |= {g[2] for g in _ANX_GAPS if g[0] == day} | {g[3] for g in _ANX_GAPS if g[1] == day}
+    if day == _ANX_END[0]:
+        ls.add(_ANX_END[1])
+    if unit == "anexo-i":
+        R = L12546_ANX
+        ls |= {law for d, law, art, codes in _ANX_SUB if d == day
+               and any(x.startswith(f"{d} {art}:") for x in R["cut"] + R["inside"])}
+    return sorted(x for x in ls if x)
+
+
+def _anx_merge(versions):
+    """The articles' versions with the two Anexos added: each version carries the Anexos' text of its day; a day on which
+    an Anexo changes and the articles do not is a version of its own (the articles' text as before); an Anexo is credited
+    on a day its text changes, and on the day of a subtraction that leaves a printed heading's words (D1)."""
+    lines, own, own2, t2 = _anx_model()
+    _anx_check(lines, own, own2, t2)
+    R = L12546_ANX
+    nowords = {d for d, law, art, codes in _ANX_SUB if any(x.startswith(f"{d} {art}:") for x in R["inside"])}
+    prev, keep = {"anexo-i": None, "anexo-ii": None}, []
+    for d in _anx_days(lines):
+        st = {u: _anx_text(lines, u, d) for u in prev}
+        if st != prev or d in nowords:
+            keep.append(d)
+        prev = st
+    have = {v["from"] for v in versions}
+    for d in keep:
+        if d in have:
+            continue
+        base = [v for v in versions if v["from"] < d][-1]
+        versions.append({"from": d, "source_url": base.get("source_url"), "sha256": base.get("sha256"),
+                         "units": dict(base["units"]), "credits": {}})
+        R.setdefault("inserted", []).append(d)
+    versions.sort(key=lambda v: v["from"])
+    prev, done = {"anexo-i": None, "anexo-ii": None}, set()
+    for v in versions:
+        d = v["from"]
+        units = dict(v["units"])
+        for u, lab in (("anexo-i", "Anexo I"), ("anexo-ii", "Anexo II")):
+            t = _anx_text(lines, u, d)
+            units.pop(u, None)
+            if t:
+                units[u] = {"label": lab, "kind": "annex", "text": t}
+            if t != prev[u] or (u == "anexo-i" and d in nowords and d not in done):
+                laws = _anx_laws(lines, u, d)
+                assert laws, (u, d)
+                v.setdefault("credits", {})[u] = laws
+                R.setdefault("credited", []).append(f"{d} {u} {laws}")
+            prev[u] = t
+        done.add(d)
+        v["units"] = units
+    return versions
+
+
+# what the replay must report (the decision lines below name these rows; a change in any page stops the parse)
+_ANX_WANT = {
+    "deferred": 42,
+    "never": ["1301.90.90", "7310.21.90", "7323.99.00", "7507.20.00", "7612.10.00", "7612.90.11", "8309.10.00", "8526.10.00",
+              "8544.49.00", "9023.00.00", "Capítulo 93, exceto 93.02.00.00, 9306.2 e 9306.30.00", "9603.10.00", "9603.29.00",
+              "9603.30.00", "9603.40.10", "9603.40.90", "9603.50.00", "9603.90.00"],
+    "d4": ["30.06 (EXCETO OS CÓDIGOS 3006.30.11 E 3006.30.19): mp-582-2012 prints '30.06'",
+           "6901.00.00: in mp-582-2012's list, no note", "8532.29.90: note of mp-601-2012, not in its list",
+           "8544.49.00: note of mp-582-2012, not in its list"],
+    "cut": ["2013-08-01 Lei 12.844/2013 art. 14 IV: 8526.92.00"],
+    "inside": ["2013-01-01 Medida Provisória 582/2012 art. 2 II: 3923.30.00 inside ['39.23']",
+               "2013-04-03 Lei 12.794/2013 art. 2 II: 3923.30.00 inside ['39.23 (exceto 3923.30.00 Ex.01)', '39.23']",
+               "2013-07-19 Lei 12.844/2013 art. 14 VI: 3006.30.11 inside ['30.06 (EXCETO OS CÓDIGOS 3006.30.11 E 3006.30.19)']",
+               "2013-07-19 Lei 12.844/2013 art. 14 VI: 3006.30.19 inside ['30.06 (EXCETO OS CÓDIGOS 3006.30.11 E 3006.30.19)']",
+               "2015-03-01 Lei 13.043/2014 art. 51: 1901.20.00 inside ['Capítulo 19']",
+               "2015-03-01 Lei 13.043/2014 art. 51: 1901.90.90 inside ['Capítulo 19']",
+               "2015-03-01 Lei 13.043/2014 art. 51: 5402.46.00 inside ['Capítulo 54']",
+               "2015-03-01 Lei 13.043/2014 art. 51: 5402.47.00 inside ['Capítulo 54']",
+               "2015-03-01 Lei 13.043/2014 art. 51: 5402.33.10 inside ['Capítulo 54']"],
+    "final_missing": ["1301.90.90", "7207.11.10", "7208.52.00", "7208.54.00", "7214.10.90", "7214.99.10", "7228.30.00",
+                      "7228.50.00", "7310.21.90", "7323.99.00", "7507.20.00", "7612.10.00", "7612.90.11", "8309.10.00",
+                      "8471.30", "8526.10.00", "8526.92.00", "8544.49.00", "9022.14.13", "9022.30.00", "9023.00.00",
+                      "9603.10.00", "9603.29.00", "9603.30.00", "9603.40.10", "9603.40.90", "9603.50.00", "9603.90.00",
+                      "Capítulo93,exceto93.02.00.00,9306.2e9306.30.00"],
+}
+_anx_merge0 = _anx_merge
+
+
+def _anx_merge(versions):
+    out = _anx_merge0(versions)
+    for k, v in _ANX_WANT.items():
+        assert L12546_ANX[k] == v, (k, L12546_ANX[k])
+    absent = [x.split(": ")[0] for x in L12546_ANX["absent"]]
+    assert sorted(set(absent)) == ["2013-01-01 Medida Provisória 582/2012 art. 2 II", "2013-04-03 Lei 12.794/2013 art. 2 II",
+                                   "2013-07-19 Lei 12.844/2013 art. 14 V", "2013-07-19 Lei 12.844/2013 art. 14 VI",
+                                   "2013-08-01 Lei 12.844/2013 art. 14 IV",
+                                   "2013-08-01 Medida Provisória 612/2013 art. 26 II"], absent
+    return out
+
+
+if any(a["slug"] == _L12546 for a in ACTS):
+    _build_actANX = P.build_act
+
+    def build_act_anx(paras, act_day, gate, gate_law, unit_label):
+        """Lei 12.546: the articles' versions, then the Anexos (_anx_merge)."""
+        slug = ACTS[len(B7._act_order)]["slug"] if len(B7._act_order) < len(ACTS) else "?"
+        versions = _build_actANX(paras, act_day, gate, gate_law, unit_label)
+        if slug == _L12546:
+            versions = _anx_merge(versions)
+        return versions
+
+    P.build_act = B.build_act = build_act_anx
+    EXTRA.append(
+        "Lei 12.546 Anexos: Anexo I (the NCM codes of the products of art. 8) and Anexo II (the activities of art. 8 § 3º XII) "
+        "are read from the tables Planalto prints after the signature, one line per printed row (a code printed twice stays "
+        "twice), under the Anexo's printed title and, in Anexo I, the column head 'NCM'; Planalto prints Anexo I twice, under "
+        "Medida Provisória 601/2012's and Lei 12.844/2013's denominations, with the same rows, and one copy is kept. Every row "
+        "is dated by the acts' own lists (each act's Anexo, after its signature) and articles, each read on the act's page, "
+        "and the replay was checked, on every day on which anything changes, against the list the acts give for that day, "
+        "and on its last day against the page's table. Medida Provisória 563/2012's Anexo, which the page prints first, "
+        "stands from 1.8.2012 (its art. 54 § 2º) until Lei 12.715/2012's Anexo replaces it on 18.9.2012 (in force on "
+        "publication; its art. 78 § 2º III and IV put 19 codes and 23 positions in force on 1.1.2013, of which the 11 that "
+        "were vetoed print '(VETADO)'); Medida Provisória 582/2012's additions from 1.1.2013 (art. 20 I) and Lei 12.794/2013's, "
+        "its conversion, from 3.4.2013; Medida Provisória 601/2012's additions and its Anexo II from 1.4.2013 (art. 7 III) "
+        "until it lost effect on 4.6.2013; Medida Provisória 612/2013 art. 26 I t) (9404.10.00) on publication, 4.4.2013 "
+        "(art. 28 III), and u) (9619.00.00) from 1.8.2013 (art. 28 I c)), until it lost effect on 2.8.2013; Lei "
+        "12.844/2013 art. 14 III (9404.10.00 and 9619.00.00) and IV from 1.8.2013 (art. 49 III) and its Anexos I and II from "
+        "1.11.2013 (art. 49 II b) and a)). Medida Provisória 612 art. 26 I a) to s) were to take effect on 1.1.2014 (art. 28 "
+        "II c)), after it lost effect, so those rows, which Planalto prints, never show. The title reads 'Anexo' until "
+        "Medida Provisória 601 named it 'ANEXO I' (1.4.2013; 'Anexo' again from 4.6.2013) and Lei 12.844 art. 14 did (on "
+        "publication, 19.7.2013, art. 49 V). The 'Observação' line after each Anexo II is printed in the act's own text and "
+        "on the page, and is kept in each act's words. The list punctuation ('; e', ';') that the page prints after some of "
+        "Medida Provisória 612's codes, copied from its article, is left out. Medida Provisória 774/2017 art. 2 II d) revoked "
+        "both Anexos with effect from 1.7.2017: they are absent from 1.7 to 8.8.2017 and on 7 and 8.12.2017, as the articles "
+        "Medida Provisória 774 revoked; Lei 13.670/2018 art. 12 II c) revoked them from 1.9.2018 (art. 11 I)")
+    EXTRA.append(
+        "Lei 12.546 Anexo I, codes taken out of a printed heading (coordinator decision): Medida Provisória 582/2012 art. 2 II "
+        "(1.1.2013) and Lei 12.794/2013 art. 2 II (3.4.2013) subtract 3923.30.00, which falls inside Lei 12.715's row '39.23' "
+        "(and, from 1.4 to 4.6.2013, Medida Provisória 601's row '39.23 (exceto 3923.30.00 Ex.01)'); Lei 13.043/2014 art. 51 "
+        "(from 1.3.2015, art. 113 IV a)) excludes 1901.20.00 and 1901.90.90, inside the row 'Capítulo 19', and 5402.33.10, "
+        "5402.46.00 and 5402.47.00, inside 'Capítulo 54'. No page prints those headings with the exception, so each row keeps "
+        "its printed words and the exclusion is recorded as a change that alters no words of the Anexo, credited to the act "
+        "that made it on its day (Lei 13.043's on 1.3.2015, the day its wording of art. 7 XII and XIII takes effect "
+        "too). Lei 12.844/2013 art. 14 VI (19.7.2013) also "
+        "subtracts 3006.30.11 and 3006.30.19, which Lei 12.794's row '30.06 (EXCETO OS CÓDIGOS 3006.30.11 E 3006.30.19)' "
+        "already excepts")
+    EXTRA.append(
+        "Lei 12.546 Anexo I, 8544.49.00 (coordinator decision): Medida Provisória 582/2012 art. 2 adds it with its Anexo (I) "
+        "and subtracts it (II), and Lei 12.794/2013 art. 2, its conversion, does the same, so its net effect is nothing and "
+        "the code is never in the Anexo; Planalto's notes ('Incluído pela Mpv nº 582, de 2012', 'Subtraído pela Lei nº "
+        "12.794, de 2013') date it 1.1 to 3.4.2013, but the act's own text excludes it")
+    EXTRA.append(
+        "Lei 12.546 Anexo I, the ten codes Medida Provisória 582/2012 added and its conversion, Lei 12.794/2013, did not "
+        "(7207.11.10, 7208.52.00, 7208.54.00, 7214.10.90, 7214.99.10, 7228.30.00, 7228.50.00, 8471.30, 9022.14.13 and "
+        "9022.30.00; Planalto prints them with Medida Provisória 582's note only) end on the conversion, 3.4.2013, as "
+        "every converted Medida Provisória's wording does (coordinator decision). Lei 12.844/2013 art. 14 VI subtracts them "
+        "again on its publication (19.7.2013, art. 49 V), which changes nothing; so do its art. 14 V and Medida Provisória "
+        "612/2013 art. 26 II (from 1.8.2013) for the seven codes 7403.21.00, 7407.21.10, 7407.21.20, 7409.21.00, "
+        "7411.10.10, 7411.21.10 and 74.12, which Medida Provisória 601's lapse had already taken out and Lei 12.844's Anexo "
+        "I adds again from 1.11.2013; and Lei 12.844 art. 14 IV for Capítulo 93 and the codes Medida Provisória 612 added that "
+        "never took effect")
+    EXTRA.append(
+        "Lei 12.546 Anexo I, where Planalto's notes and the acts' lists differ, the acts' lists are followed (coordinator "
+        "decision): 6901.00.00 is in Medida Provisória 582/2012's list, so it stands from 1.1.2013, though Planalto prints "
+        "only Lei 12.794/2013's note")
+    EXTRA.append(
+        "Lei 12.546 Anexo I, where Planalto's notes and the acts' lists differ, the acts' lists are followed (coordinator "
+        "decision): 8532.29.90 is printed with Lei 12.715/2012's and Medida Provisória 601/2012's notes, but Medida "
+        "Provisória 601's list does not have it: Lei 12.715's row stands without a break")
+    EXTRA.append(
+        "Lei 12.546 Anexo I, where Planalto's notes and the acts' lists differ, the acts' lists are followed (coordinator "
+        "decision): Medida Provisória 582/2012's list reads '30.06' and Lei 12.794/2013's '30.06 (EXCETO OS CÓDIGOS "
+        "3006.30.11 E 3006.30.19)'; Planalto prints only the later words, with both notes: the row reads '30.06' from "
+        "1.1.2013 and takes Lei 12.794's words on 3.4.2013")
+    EXTRA.append(
+        "Lei 12.546 Anexo I, where Planalto's notes and the acts' lists differ, the acts' lists are followed (coordinator "
+        "decision): Lei 12.844/2013 art. 14 IV subtracts 8526.92.00 from 1.8.2013 (art. 49 III); the code is Lei "
+        "12.715/2012's row, so it ends that day, though Planalto prints no note of the subtraction (only Lei 12.715's note "
+        "and Medida Provisória 612/2013's, whose wording never took effect)")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
