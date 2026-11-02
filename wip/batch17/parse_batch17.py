@@ -7761,6 +7761,18 @@ B.EXPLAINED[_LBEM] = {
     "titulos": "the consolidated page keeps the closing quotation mark of Lei 15.504/2026's amending text after the name of "
                "Capítulo I; the history drops it (TEXT_FIX on the annotated page)",
 }
+B13.OPEN_ITEMS[_LBEM] = (
+    "Lei 11.196 (open items): art. 11-J parágrafo único (Lei 15.504/2026: the benefits of art. 11-C I to III 'produzirão "
+    "efeitos até 31 de dezembro de 2026') limits the effects of those benefits, not the words, which stand. ADIN 4254: "
+    "Planalto prints 'Vide ADIN 4254' (a link to the petition) at art. 65 caput, § 1º, § 1º III and IV, § 5º and § 7º, strikes "
+    "none of them and notes no suspension or ruling; the lines stand and the ruling's scope is not modelled. Held with no "
+    "day, to be dated if an official text gives the day: art. 70 I d) in Lei 14.438/2022's wording (the start of FGTS "
+    "Digital collection, set by an Edital of the Secretaria de Inspeção do Trabalho under Portaria MTE 240/2024 art. 3) and "
+    "arts. 110, 114 and 115 (the acts of art. 132 VI and VII). Art. 132 I and II date the effects of arts. 91 and 92 from "
+    "1.7.2005 and of arts. 38 to 41, 111, 116 and 117 and parts of arts. 33, 43 and 44 from 14.10.2005, before the "
+    "publication: they keep 22.11.2005. Lei Complementar 228/2026 sets the REIQ's art. 56 rates only to December 2026. "
+    "'Vide' pointers (Medida Provisória 492/2010 on art. 96, Medida Provisória 1.303/2025 on the ementa, Lei Complementar "
+    "214/2025 on the articles it revokes from 1.1.2027) strike no words")
 _sfBEM = B7.stale_fix.fix
 _W70_PU = ("Lei 11.196 art. 70 parágrafo único II a) and b) (December 2007) stand from 2005: the rule that sets aside a second "
            "copy of a wording paired them with the struck a) and b) of art. 70 II (IOF), whose parent has the same label 'II -'")
