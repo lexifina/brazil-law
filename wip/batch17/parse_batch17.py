@@ -8124,6 +8124,163 @@ _FUT2027[_LBEM] = (
 
 B6.PB5B._write_part5 = _write_bem
 
+# part zzzz (forty-second session): Código Comercial (Lei 556/1850). Hand items set only when the act runs.
+# - In force 1.1.1851 (art. 912, ACT_DAY_ALL). Planalto's page has no 'Redação dada' note: the dated changes are three
+#   revocations, printed as struck text with bare notes: Título XVI (arts. 354 to 427) by Decreto (do Poder Legislativo)
+#   2.044/1908 art. 57, arts. 731 to 739 by Lei 7.542/1986 art. 38, and the Parte Primeira (arts. 1 to 456) by Lei
+#   10.406/2002 art. 2.045 (heading 'Parte revogada pela Lei 10.406, de 10.1.2002').
+# - Decreto 2.044/1908 has no vigência clause: Decreto 572/1890 art. 1 (the rule then in force; revoked only by Decreto
+#   11/1991) made laws without a day binding 'No Districto Federal no terceiro dia depois da inserção no Diario Official'
+#   (in the states later); Decreto 2.044 was published in the Diário Official of 6.1.1909, p. 116 (the Chamber of Deputies'
+#   copy of the original publication), so 9.1.1909.
+# - The Título Único (administração da justiça nos negócios e causas comerciais), printed after art. 913, numbers its
+#   articles again from 1 to 30: its units are keyed art-tu-NNN ('Título Único, Art. Nº'), apart from Parte Primeira's arts.
+#   1 to 30.
+_LCCOM = "codigo-comercial"
+_CCOM_DAY2044 = "1909-01-09"
+_CCOM_DAY2002 = "2003-01-11"
+_W_CCOM2044 = ("Código Comercial Título XVI (arts. 354 to 427, Das letras, notas promissórias e créditos mercantis): revoked by "
+               "Decreto nº 2.044, de 31 de dezembro de 1908 (a decree of the Poder Legislativo), art. 57 ('Ficam revogados todos os "
+               "artigos do Título XVI do Código Comercial e mais disposições em contrário'), which has no vigência clause. The "
+               "rule then in force, Decreto nº 572, de 12 de julho de 1890, art. 1 ('As leis da União e decretos do Governo "
+               "Federal com força de lei obrigam em todo o territorio da Republica dos Estados Unidos do Brazil desde o dia que "
+               "determinarem; e na falta desta determinação: I. No Districto Federal no terceiro dia depois da inserção no "
+               "Diario Official', later in the states), made it binding in the Distrito Federal on the third day after its "
+               "publication in the Diário Official of 6.1.1909 (p. 116): 9.1.1909, the first day it was in force. Planalto "
+               "notes each struck line 'Revogado pelo Decreto do Poder Legislativo nº 2.044, de 1908'; the title's headings and "
+               "incisos without a note of their own end with their articles")
+_W_CCOM2002 = ("Código Comercial Parte Primeira (arts. 1 to 456, Do comércio em geral): revoked by Lei 10.406/2002 (Código Civil) "
+               "art. 2.045 ('Revogam-se a Lei nº 3.071, de 1º de janeiro de 1916 - Código Civil e a Parte Primeira do Código "
+               "Comercial, Lei nº 556, de 25 de junho de 1850'), in force on 11.1.2003 (art. 2.044, as the Código Civil's own "
+               "record); Planalto strikes the whole Parte under the heading 'Parte revogada pela Lei 10.406, de 10.1.2002' "
+               "(printed again before the Parte Segunda), which is a marker, not a line of the Code: every line of the Parte "
+               "Primeira not revoked earlier ends on 11.1.2003")
+_W_CCOM_TU = ("Código Comercial Título Único (Da administração da justiça nos negócios e causas comerciais), printed after art. 913: "
+              "its articles are numbered again from 1 to 30, so they are kept as units of their own ('Título Único, Art. 1º' to "
+              "'Art. 30'), apart from arts. 1 to 30 of the Parte Primeira. Planalto prints 'Vide' pointers on it (Decreto-Lei "
+              "1.608/1939, Lei 5.869/1973) and strikes none of its lines: it stands as printed. The word 'e' Planalto prints "
+              "between the two pointers on the title's heading is not a line of the Code and is left out")
+_W_CCOM_VIDE = ("Código Comercial: Planalto's 'Vide' pointers (Lei 1.237/1864, Decreto-Lei 1.608/1939 and Lei 5.869/1973 on the "
+                "page head and the Título Único; Decreto-Lei 305/1967 on arts. 11 to 19; Decreto-Lei 7.661/1945 on the Parte "
+                "Terceira, Das quebras, arts. 797 to 913) strike no words and are not versions. The Parte Terceira's rules on "
+                "bankruptcy were replaced in practice by the later falência laws, but Planalto's pages strike none of its lines "
+                "and note no revocation, so it stands as printed")
+_W_CCOM518 = ("Código Comercial art. 518: Planalto prints it in the same paragraph as the end of art. 517 (no paragraph break "
+              "after 'benefício deste (artigo nº. 494).'); it is read as an article of its own, as the consolidated page prints it")
+CCOM_USED: list[str] = []
+if any(a["slug"] == _LCCOM for a in ACTS):
+    P.VIGENCIA_FIXED["dec-2044-1908"] = (
+        _CCOM_DAY2044, "no vigência clause (art. 57 only revokes): Decreto 572/1890 art. 1 I, laws without a day bind 'No "
+                       "Districto Federal no terceiro dia depois da inserção no Diario Official' (Diário Official 6.1.1909, "
+                       "p. 116): 9.1.1909")
+    P.VIGENCIA_FIXED["lei-10406-2002"] = (
+        _CCOM_DAY2002, "art. 2.044: 'Este Código entrará em vigor 1 (um) ano após a sua publicação' (DOU 11.1.2002): 11.1.2003, "
+                       "the Código Civil's first day in its own record")
+    for _n in ("(Revogado pelo Decreto do Poder Legislativo nº 2.044, de 1908:)",
+               "(Revogado pelo Decreto do Poder Legislativo nº 2.044, 1908:)"):
+        P.NOTE_FIX[_n] = ("(Revogado pelo Decreto nº 2.044, de 1908)",
+                          "Código Comercial Título XVI: the note reads 'Revogado pelo Decreto do Poder Legislativo nº 2.044, de "
+                          "1908:' (a decree of the Poder Legislativo, Decreto nº 2.044 of 31.12.1908, art. 57)")
+    EXTRA += [_W_CCOM_VIDE]
+_paragraphsCCOM = P.paragraphs
+
+
+def _paragraphs_ccom(html, digits):
+    """the Título Único's own unit keys; art. 518 split from art. 517; the 'e' between two pointers dropped"""
+    page = B8.CURRENT_PAGE[0]
+    if page == "lim556":
+        html, n = re.subn(r"(benef[íi]cio deste \(artigo n[º°]\. 494\)\.)(\s*</font>)", r"\1\2</p><p>", html, count=1)
+        if n:
+            CCOM_USED.append("518")
+    out, rest = _paragraphsCCOM(html, digits)
+    if page in ("lim556", "lim556-compilado"):
+        tu = False
+        keep = []
+        for p in out:
+            if p["heading"] and P.norm(p["text"]).upper().startswith("TÍTULO ÚNICO"):
+                tu = True
+            elif tu and p["heading"] and P.norm(p["text"]) == "e":
+                CCOM_USED.append("e")
+                continue
+            if tu and re.fullmatch(r"art-\d{3}", p["unit"]):
+                p["unit"] = "art-tu-" + p["unit"][4:]
+                CCOM_USED.append("tu")
+            keep.append(p)
+        out[:] = keep
+        for i, q in enumerate(out):
+            q["i"] = i
+    return out, rest
+
+
+P.paragraphs = B.paragraphs = _paragraphs_ccom
+_unit_labelCCOM = P.unit_label
+
+
+def _unit_label_ccom(u, ps):
+    if u.startswith("art-tu-"):
+        return "Título Único, " + _unit_labelCCOM(u, ps)
+    return _unit_labelCCOM(u, ps)
+
+
+P.unit_label = _unit_label_ccom
+_span_fixCCOM = B8.apply_span_fix
+
+
+def _ccom_model(paras, record):
+    """the three revocations by range of the page (decisions _W_CCOM2044, _W_CCOM2002)"""
+    zone, used = None, []
+    for p in paras:
+        t = P.norm(p["text"])
+        if p["heading"]:
+            if t.startswith("PARTE PRIMEIRA"):
+                zone = "p1"
+            elif t.startswith("PARTE SEGUNDA"):
+                zone = None
+            elif zone in ("p1", "t16") and t == "TÍTULO XVI":
+                zone = "t16"
+            elif zone == "t16" and t == "TÍTULO XVII":
+                zone = "p1"
+        if zone is None:
+            continue
+        if p["heading"] and t == "Parte" and any("revogada pela Lei 10.406" in n for n in p.get("notes") or []):
+            p.update({"skip": True, "pinned": True, "end_how": "marker"})   # 'Parte revogada pela Lei 10.406' marker
+            continue
+        if p["state"] != "struck":
+            if record:
+                B8.SPAN_MISSED.append(f"{_LCCOM} {p['unit']} unstruck line in the Parte Primeira: {t[:40]!r}")
+            continue
+        day, law, w = ((_CCOM_DAY2044, "dec-2044-1908", _W_CCOM2044) if zone == "t16"
+                       else (_CCOM_DAY2002, "lei-10406-2002", _W_CCOM2002))
+        p.update({"skip": False, "start": "1851-01-01", "start_law": None, "end": day, "end_law": law, "end_how": "note",
+                  "pinned": True})
+        used.append(w)
+    if record:
+        for w in (*dict.fromkeys(used), _W_CCOM_TU, *([_W_CCOM518] if "518" in CCOM_USED else [])):
+            if w not in EXTRA:
+                EXTRA.append(w)
+
+
+def _apply_span_fix_ccom(paras, act_slug, record):
+    _span_fixCCOM(paras, act_slug, record)
+    if act_slug == _LCCOM:
+        _ccom_model(paras, record)
+
+
+B8.apply_span_fix = _apply_span_fix_ccom
+B.EXPLAINED[_LCCOM] = {
+    "art-742": "the consolidated page prints the first item 'l - se a falta' (a letter l); the annotated page has '1 -'",
+    "art-772": "the annotated page ends the article's first paragraph '(artigo nº. 618)' with no full stop; the consolidated "
+               "page has '(artigo nº. 618).'; the history keeps the annotated page's text",
+    "art-730": "the consolidated page prints 'Arts. 731 a 739, revogados pela Lei nº 7.542, de 26.9.1986', a marker for the "
+               "revoked articles, which its reading takes for a line of art. 730",
+}
+B13.OPEN_ITEMS[_LCCOM] = (
+    "Código Comercial (open items): the Parte Terceira (Das quebras, arts. 797 to 913) is printed unstruck with 'Vide "
+    "Decreto-Lei nº 7.661, 1945' pointers; bankruptcy law was later governed by other acts (Decreto-Lei 7.661/1945, Lei "
+    "11.101/2005), but no official text read for this record notes a revocation of these articles, so they stand as printed. "
+    "The Título Único is printed unstruck with pointers to the procedural codes (Decreto-Lei 1.608/1939, Lei 5.869/1973) "
+    "and stands as printed")
+
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
     SRC.write_text('{\n "fetch": []\n}\n', encoding="utf-8", newline="\n")
