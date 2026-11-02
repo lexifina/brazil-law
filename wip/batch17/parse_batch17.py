@@ -12027,11 +12027,33 @@ if any(a["slug"] == _LPIS for a in ACTS):
     # art. 3º da Lei Complementar nº 7, de 7 de setembro de 1970'): future branch (Planalto's page of Lei Complementar 7
     # prints only '(Vide Lei Complementar nº 214, de 2025)')
     _FUT2027[_LPIS] = (
-        {("art-03", "b)")}, {},
+        set(), {},
         "Lei Complementar 7: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: I - a "
         "alínea \"b\" do caput do art. 3º da Lei Complementar nº 7, de 7 de setembro de 1970'), read on LC 214's page "
         "(Planalto's page of Lei Complementar 7 prints only '(Vide Lei Complementar nº 214, de 2025)'): art. 3 alínea b) and "
         "its items 1) to 4) end on 1.1.2027, on the future branch")
+    _fut2027_lpis = fut_2027
+
+    def fut_2027(paras, slug):
+        """Lei Complementar 7: only the caput's alínea b) and its items 1) to 4) end (art. 3 § 1º has an alínea b) too)"""
+        if slug != _LPIS:
+            return _fut2027_lpis(paras, slug)
+        D, L = "2027-01-01", "lc-214-2025"
+        used = FUT2027_USED.setdefault(slug, [])
+        hit, on = [], False
+        for p in paras:
+            if p.get("skip") or p["heading"] or p["unit"] != "art-03" or (p["end"] is not None and p["end"] <= D):
+                continue
+            if p["label"] == "b)" and p["text"].startswith("b) a segunda, com recursos próprios da empresa"):
+                on = True
+            elif not (on and re.match(r"[1-4]\) no exercício de 197[1-4]", p["text"])):
+                on = False
+            if on:
+                p["end"], p["end_law"], p["end_how"] = D, L, "repealed"
+                hit.append(p["label"] or p["text"][:2])
+        if len(hit) != 5:
+            raise SystemExit(f"Lei Complementar 7 art. 3 b) in 2027: {hit}")
+        used.append("art-03 b) and items 1) to 4)")
     B8.EXTRA_LAWS["lc-214-2025"] = {
         "label": "Lei Complementar nº 214, de 2025", "title": "Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição "
         "Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação "
