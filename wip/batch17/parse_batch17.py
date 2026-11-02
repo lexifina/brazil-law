@@ -9706,8 +9706,8 @@ if any(a["slug"] == _L10931 for a in ACTS):
                       "arts. 4 and 8) is in force on publication, with effect from 1.1.2013 (effect day: effects_fix)")
     P.MP_LAPSE["mp-601-2012"] = (
         "2013-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 36, de 2013 (DOU 6.6.2013): 'teve seu "
-                      "prazo de vigência encerrado no dia 3 de junho do corrente ano'; the wordings it gave Lei 10.931 end on "
-                      "4.6.2013 and those it replaced are back")
+                      "prazo de vigência encerrado no dia 3 de junho do corrente ano'; the wordings it gave Lei 9.718 end on "
+                      "4.6.2013")   # word for word as part zj's (one shared law record, uniqlaws); its Lei 10.931 wordings end the same day
     P.VIGENCIA_FIXED["lei-12844-2013"] = (
         "2013-07-19", "art. 49: 'Esta Lei entra em vigor: I - na data de sua publicação, com efeitos retroativos a 4 de junho de "
                       "2013, [...] em relação aos arts. 16, 17 e 35 desta Lei' (DOU 19.7.2013, edição extra): its art. 16 (Lei "
