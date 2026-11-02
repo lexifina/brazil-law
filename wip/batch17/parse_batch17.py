@@ -311,6 +311,7 @@ PAGES.update({
     "l5250": "leis/l5250.htm",
     "l7170": "leis/l7170.htm",
     "l6194": "leis/l6194.htm",
+    "l6194-2024": "leis/l6194.htm",   # capture of 10.5.2024, before the repeal by LC 207/2024 (17.5.2024)
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -718,6 +719,11 @@ ALL_ACTS: list[dict] = [
     # read from the capture of 27.10.2015 (before the repeal); its consolidated check is the compiled page of 29.10.2015
     _act("codigo-de-processo-civil-de-1973", "CPC73", "l5869-2015", "l5869compilada-2015", "lei-5869-1973",
          "Código de Processo Civil de 1973 (Lei nº 5.869, de 11 de janeiro de 1973)", 4),
+    # fifty-second session: read from the capture of 10.5.2024 (the 2026 page strikes every line after the repeal); no
+    # compiled page: the annotated page is its own check
+    _act("lei-do-dpvat", "LDPVAT", "l6194-2024", "l6194-2024", "lei-6194-1974",
+         "Seguro obrigatório de danos pessoais causados por veículos automotores de via terrestre, DPVAT (Lei nº 6.194, de "
+         "19 de dezembro de 1974)", 2),
     # forty-fourth session: read from the 2026 capture with the repeal's page-wide CSS strike removed; its pre-repeal check
     # is the capture of 2.6.2002
     _act("codigo-civil-de-1916", "CC16", "l3071", "l3071-2002", "lei-3071-1916",
@@ -868,6 +874,7 @@ PARTS: dict[str, list[str]] = {
     "zzzzi": ["lei-de-seguranca-nacional"],
     # fifty-first session
     "zzzzj": ["lei-de-imprensa"],
+    "zzzzk": ["lei-do-dpvat"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1218,6 +1225,8 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                     "15.12.1983)"),
     "lei-5250-1967": ("1967-03-14", "Lei 5.250/1967 art. 77: 'Esta Lei entrará em vigor a 14 de março de 1967, revogada as "
                                     "disposições em contrário' (DOU 10.2.1967, rectified 10.3.1967)"),
+    "lei-6194-1974": ("1974-12-20", "Lei 6.194/1974 art. 13: 'Esta Lei entrará em vigor na data de sua publicação' (DOU "
+                                    "20.12.1974, rectified 31.12.1974)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1846,6 +1855,9 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         PAGES["l7170"]),
     "lei-5250-1967": _L("Lei nº 5.250, de 1967", "Regula a liberdade de manifestação do pensamento e de informação.",
                         "1967-02-09", "1967-02-10", PAGES["l5250"]),
+    "lei-6194-1974": _L("Lei nº 6.194, de 1974", "Dispõe sobre Seguro Obrigatório de Danos Pessoais causados por veículos "
+                        "automotores de via terrestre, ou por sua carga, a pessoas transportadas ou não.", "1974-12-19",
+                        "1974-12-20", PAGES["l6194"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -10073,6 +10085,38 @@ if any(a["slug"] == _LIMP for a in ACTS):
         "Lei 5.250 (open items): the medida cautelar of 21.2.2008 (referendada 27.2.2008, extended 4.9.2008 and 18.2.2009) "
         "suspended some provisions until the judgment; the history does not model it, ending the whole Lei on the judgment "
         "day only")
+
+# part zzzzk (fifty-second session): Lei 6.194/1974 (DPVAT). In force on publication (art. 13, DOU 20.12.1974). Repealed as a
+# whole by Lei Complementar 207/2024 art. 28 I, in force on publication (art. 29, DOU 17.5.2024). Planalto strikes the whole
+# page after the repeal, so the act is read from the capture of 10.5.2024 (page l6194-2024), which is also its check.
+_LDPVAT = "lei-do-dpvat"
+if any(a["slug"] == _LDPVAT for a in ACTS):
+    # the record exactly as the other parts carrying it have it (uniqlaws)
+    B8.EXTRA_LAWS["lc-207-2024"] = {
+        "label": "Lei Complementar nº 207, de 2024", "kind": "law", "enacted": "2024-05-16", "published": "2024-05-17",
+        "title": "Dispõe sobre o Seguro Obrigatório para Proteção de Vítimas de Acidentes de Trânsito (SPVAT); altera o "
+                 "Decreto-Lei nº 73, de 21 de novembro de 1966, as Leis nºs 8.212, de 24 de julho de 1991 (Lei Orgânica da "
+                 "Seguridade Social), 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), e 14.075, de 22 de "
+                 "outubro de 2020, e a Lei Complementar nº 200, de 30 de agosto de 2023 (Novo Arcabouço Fiscal); e revoga as "
+                 "Leis nºs 6.194, de 19 de dezembro de 1974 (Lei do DPVAT), e 8.441, de 13 de julho de 1992, e dispositivos "
+                 "das Leis nºs 8.374, de 30 de dezembro de 1991, 11.482, de 31 de maio de 2007, e 11.945, de 4 de junho de "
+                 "2009.",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp207.htm", "temporary_until": None, "restores": None,
+        "note": None}
+    B9.REPEALS[_LDPVAT] = (
+        "2024-05-17", "lc-207-2024",
+        "Lei 6.194/1974 (Lei do DPVAT) was repealed as a whole by Lei Complementar 207/2024 art. 28 ('Revogam-se: I - a Lei nº "
+        "6.194, de 19 de dezembro de 1974 (Lei do DPVAT)'), in force on publication (art. 29; DOU 17.5.2024), so its last "
+        "version, on 17.5.2024, removes every provision, credited to Lei Complementar 207/2024. Its art. 15 keeps the Lei for "
+        "the indemnities of accidents that happened while it was in force, which the history, ending with the repeal, does "
+        "not show. Lei Complementar 211/2024 art. 4 (DOU 31.12.2024, in force on publication) revoked Lei Complementar 207 "
+        "and does not restore Lei 6.194 (no clause says so). After the repeal Planalto strikes the whole page, so the page "
+        "is read from a capture of 10.5.2024, before the repeal, and the history up to 16.5.2024 is checked against that "
+        "capture's text")
+    B13.OPEN_ITEMS[_LDPVAT] = (
+        "Lei 6.194 (open items): its Anexo (the table of permanent-disability percentages that Lei 11.945/2009 added for art. "
+        "3), printed after the signature, is not included; the history holds the articles only. Planalto's 'Vide Medida nº "
+        "340, de 2006' pointers strike no words and are not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
