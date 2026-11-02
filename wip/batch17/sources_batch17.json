@@ -712,6 +712,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "l11326",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11326.htm",
+   "ts": "20261016205151",
+   "via": "wayback.py"
+  },
+  {
    "id": "l11417",
    "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11417.htm",
    "ts": "20261004100828",
@@ -2370,6 +2376,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:lc-158-2017",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp158.htm",
+   "ts": "20260616192218",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lc-161-2018",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp161.htm",
    "ts": "20260711150010",
@@ -3274,6 +3286,12 @@
    "id": "law:lei-12483-2011",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12483.htm",
    "ts": "20261008123744",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-12512-2011",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12512.htm",
+   "ts": "20261023160816",
    "via": "wayback.py"
   },
   {
@@ -4332,6 +4350,12 @@
    "id": "law:lei-14817-2024",
    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Lei/L14817.htm",
    "ts": "20261011123939",
+   "via": "wayback.py"
+  },
+  {
+   "id": "law:lei-14828-2024",
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Lei/L14828.htm",
+   "ts": "20261017062525",
    "via": "wayback.py"
   },
   {
@@ -7638,6 +7662,12 @@
    "id": "lcp35",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp35.htm",
    "ts": "20261019090302",
+   "via": "wayback.py"
+  },
+  {
+   "id": "lcp63",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp63.htm",
+   "ts": "20261007155227",
    "via": "wayback.py"
   },
   {
