@@ -1,4 +1,4 @@
-CHECKPOINTED 2026-11-02 (batch 17, thirty-sixth session: one act per part - zzzs Lei 11.795/2008 (4 versions; MP 784 '(NR)' no dotted line on art. 42, lapse), zzzt Lei 12.682/2012 (4), zzzu Lei 6.383/1976 (3; MP 458 not kept by Lei 11.952), zzzv Lei 10.711/2003 (2), zzzw Lei 9.069/1995 (16; MP 320 rejected, MP 784, Lei 13.820 semester clause, MP 1.303 never took effect) PUBLISHed; merged 292 acts, 3891 versions, 2723 commits, check 0/0, compare identical, audit clean; NEXT heavy tax laws, historic codes; details in batch17/PROGRESS.md)
+CHECKPOINTED 2026-11-02 (batch 17, thirty-seventh session: zzzx Decreto-Lei 1.598/1977 (22 versions; dated by its art. 67 effects clause 1.1.1978; DL 2.064 credited for its week; Planalto's misplaced art. 60 IV and art. 61 §§ 2º-3º set by hand; MP 1.185 never took effect) PUBLISHed; merged 293 acts, 3913 versions, 2736 commits, check 0/0, compare identical, audit clean; NEXT Lei 11.196/2005 (pages pinned, survey in batch17/PROGRESS.md), then historic codes)
 
 # gitlaw-BR progress (Brazil)
 

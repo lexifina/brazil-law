@@ -662,6 +662,10 @@ ALL_ACTS: list[dict] = [
     # thirty-seventh session: heavy tax laws
     _act("decreto-lei-1598-de-1977", "DL1598", "del1598", "del1598-compilado", "dl-1598-1977",
          "Legislação do imposto sobre a renda (Decreto-Lei nº 1.598, de 26 de dezembro de 1977)", 2),
+    # thirty-eighth session
+    _act("lei-do-bem", "LBem", "l11196", "l11196-compilado", "lei-11196-2005",
+         "Lei do Bem: REPES, RECAP, inclusão digital e incentivos à inovação tecnológica (Lei nº 11.196, de 21 de novembro de "
+         "2005)", 2),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -788,6 +792,8 @@ PARTS: dict[str, list[str]] = {
     "zzzw": ["lei-do-plano-real"],
     # thirty-seventh session
     "zzzx": ["decreto-lei-1598-de-1977"],
+    # thirty-eighth session
+    "zzzy": ["lei-do-bem"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1090,6 +1096,17 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                    "de 1978, de acordo com as seguintes normas' (DOU 27.12.1977; its items VI and VII put arts. 60 to 62 "
                                    "and the rules on acts from that day also on 1.1.1978): dated by its effects clause, as Lei "
                                    "9.249/1995"),
+    "lei-11196-2005": ("2005-11-22", "Lei 11.196/2005 art. 132: 'Esta Lei entra em vigor na data de sua publicação, produzindo "
+                                     "efeitos: [...] III - a partir do 1º (primeiro) dia do mês subseqüente ao da publicação desta "
+                                     "Lei, em relação ao disposto: [...] d) nos arts. 37, 45, 66 e 106 a 108; IV - a partir de 1º de "
+                                     "janeiro de 2006, em relação ao disposto: [...] b) nos arts. 17 a 27, 31 e 32, 34, 70 a 75 e 76 "
+                                     "a 90 desta Lei; V - a partir do 1º (primeiro) dia do 4º (quarto) mês subseqüente ao da "
+                                     "publicação desta Lei, em relação ao disposto: [...] c) nos arts. 47 e 48, 51, 56 a 59, 60 a 62, "
+                                     "64 e 65; [...] VIII - a partir da data da publicação desta Lei, em relação aos demais "
+                                     "dispositivos' (DOU 22.11.2005): the other articles from publication (items I and II reach back "
+                                     "before it, to 1.7.2005 and 14.10.2005, so those articles start on it); arts. 37, 45, 66 and 106 "
+                                     "to 108 from 1.12.2005, arts. 17 to 27, 31, 32, 34 and 70 to 90 from 1.1.2006 and arts. 47, 48, "
+                                     "51 and 56 to 65 but 63 from 1.3.2006, the days they take effect"),
     "lei-10887-2004": ("2004-06-21", "Lei 10.887/2004 art. 17: 'Esta Lei entra em vigor na data de sua publicação' (DOU 21.6.2004)"),
     "lei-13988-2020": ("2020-04-14", "Lei 13.988/2020 art. 30: 'Esta Lei entra em vigor: I - em 120 (cento e vinte) dias "
                                      "contados da data da sua publicação, em relação ao inciso I do caput e ao parágrafo único do "
@@ -1701,6 +1718,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                         "providências.", "1995-06-29", "1995-06-30", PAGES["l9069"]),
     "dl-1598-1977": _L("Decreto-Lei nº 1.598, de 1977", "Altera a legislação do imposto sobre a renda.", "1977-12-26",
                        "1977-12-27", PAGES["del1598"]),
+    "lei-11196-2005": _L("Lei nº 11.196, de 2005", "Institui o Regime Especial de Tributação para a Plataforma de Exportação de "
+                         "Serviços de Tecnologia da Informação - REPES [...]", "2005-11-21", "2005-11-22", PAGES["l11196"]),
     "dl-25-1937": _L("Decreto-Lei nº 25, de 1937", "Organiza a proteção do patrimônio histórico e artístico nacional.",
                      "1937-11-30", "1937-12-06", PAGES["del0025"]),
 }
@@ -7483,6 +7502,30 @@ B13.OPEN_ITEMS[_DL1598] = (
     "financeiras, de que tratam os artigos 39 a 52 do Decreto-lei nº 1.598') ends a regime, not words: Planalto strikes "
     "none of those articles and they are kept; its art. 31 revokes only art. 54's caput (the parágrafo único stands). "
     "'Vide' pointers (Decreto-Lei 1.648/1978 on art. 10) strike no words")
+
+# part zzzy (thirty-eighth session): Lei 11.196/2005 (Lei do Bem). Hand items set only when the act runs.
+_LBEM = "lei-do-bem"
+# art. 132 III d), IV b) and V c): the articles that take effect after publication (DOU 22.11.2005) start on their day
+_GBEM = {**{_u(n): ("2005-12-01", "III d") for n in (37, 45, 66, 106, 107, 108)},
+         **{_u(n): ("2006-01-01", "IV b") for n in (*range(17, 28), 31, 32, 34, *range(70, 91))},
+         **{_u(n): ("2006-03-01", "V c") for n in (47, 48, 51, *range(56, 63), 64, 65)}}
+GBEM_USED: list[str] = []
+_GATES[_LBEM] = (_GBEM, "lei-11196-2005", GBEM_USED)
+_writeBEM = B6.PB5B._write_part5
+
+
+def _write_bem(*a):
+    if any(x["slug"] == _LBEM for x in ACTS):
+        B5.EXTRA_DECISIONS.append(
+            "Lei 11.196: art. 132 III d), IV b) and V c): arts. 37, 45, 66 and 106 to 108 start on 1.12.2005, arts. 17 to 27, 31, 32, "
+            "34 and 70 to 90 on 1.1.2006, arts. 47, 48, 51, 56 to 62, 64 and 65 on 1.3.2006, the other articles on 22.11.2005 "
+            "(the effects under items I and II reach back before the publication, which is the first day of the record)" + (
+                "; changes made to those articles before their day start on that day (" + "; ".join(dict.fromkeys(GBEM_USED))
+                + ")" if GBEM_USED else "") + ".")
+    return _writeBEM(*a)
+
+
+B6.PB5B._write_part5 = _write_bem
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

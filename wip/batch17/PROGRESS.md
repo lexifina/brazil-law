@@ -2409,3 +2409,62 @@ law_records.json unchanged. Fetching: archive.org only, shared client (robots re
 run.py / pipe.sh at BelowNormal behind the cpu gate, one at a time; all PIDs mine and exited; nothing running.
 NEXT: heavy tax laws, then historic codes (rank and check each against installed parts first).
 OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff.
+
+## Thirty-seventh session (2026-11-02): heavy tax laws, one act per part (zzzx, ...)
+Claim: scripts/world-law/claims/brazil-law.txt taken at the start (released at the end). Scratch: .gitlaw-scratch/brazil-b37
+(before/ = parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json, dupsame_allow.json, effects_fix.py, README,
+jurisdiction.json before the session; logs/; tools/ = b36's + state.py (units on a day; reads 'units' and 'changes')).
+robots.txt read at start: archive.org (Disallow /control/ /report/), web.archive.org 404, www.lexml.gov.br (/urn allowed,
+Crawl-delay 5; /busca/ /doc/ /linker/ Disallowed); copies in b37/robots.
+Ranked check (no request): of the heavy tax laws only Decreto-Lei 1.598/1977 and Lei 11.196/2005 are not installed (7.689,
+9.249, 9.250, 7.713, 9.430, 9.718, 10.637, 10.833 are in parts h-zl).
+### 99-batch17zzzx - PUBLISHed: Decreto-Lei 1.598/1977 (decreto-lei-1598-de-1977, DL1598, 22 versions 1978-01-01 .. 2024-01-01)
+- Pins (`iaonly.py pages`, archive.org, one run for 4 pages): del1598, del1598-compilado, l11196, l11196-compilado (the last two
+  for the next part, not configured). `laws` 24 linked, 9 new; `missing` (BATCH17_PART=zzzx BATCH17_ACTS=decreto-lei-1598-de-1977)
+  0, then 1 (dl-1870-1981 after the NOTE_FIX). Bad pin law:dl-1648-1977 (art. 10 'Vide Decreto-lei nº 1.648, de 1977' links
+  DL 1.648/1978) removed + bad_pins.json. LexML (`lexml1.py`, 6 s apart, 3 records): dl-1730-1979 (DOU 17.12.1979; footer
+  1982), dl-1654-1978 (urn 1978-12-29: signed and DOU 29.12.1978; page heading 9.1.1978, footer 10.1.1979), dl-1733-1979.
+- ACT_DAY 1.1.1978 (art. 67 effects clause, as Lei 9.249); ACT_LAWS new record dl-1598-1977.
+- Block '# part zzzx' (scoped): NOTE_FIX DL 1.870 ('1981' without 'de') and art. 19 IV 'Incluído pelo DL 2.065' -> 2.064 (words
+  are DL 2.064's art. 20 I); page_info wrapper for dl-1654-1978 (enacted/published 29.12.1978 from LexML); paragraphs wrapper
+  (Subseção III's struck 1977 names -> titulos h26-1/h26-2) + apply_span_fix wrapper (heading lines end 1.1.2015, SPAN_FIX
+  skips headings); TEXT_FIX 'líquid o', stray closing quote art. 60 § 3º c); SPAN_FIX art. 8 II (1978 to 1.1.2015, Lei 12.973
+  art. 117 III a), printed unstruck), art. 19 IV (DL 2.064 20.10-28.10.1983), art. 60 IV (1977 inciso stands; the misplaced
+  art. 19 IV line on both Planalto pages skipped: DLs 2.064/2.065 never touch art. 60 IV), art. 61 §§ 2º-3º end 20.10.1983
+  (whole-article wording of DL 2.064/2.065), art. 38 § 2º + a)/b) end with Lei 14.789 (MP 1.185's revocation never took
+  effect: converted before its 1.1.2024 effect day; decision line, as MP 114 in 17j); EXPLAINED 14 units; OPEN_ITEMS (art. 67
+  application rules, DL 1.730 art. 8, Lei 8.981 / 9.430 kept days, Lei 12.973 art. 119 § 1º option, DL 2.287 art. 22 regime).
+- effects_fix.py MOVES "99-batch17zzzx.json": Lei 8.541 -> 1.1.1993, Lei 14.789 -> 1.1.2024 (4 moves).
+- law_records.json + lei-7713-1988 (99-batch17j's record; the `laws` pin is LEIS/L7713.htm); dupsame_allow.json + the rubric
+  'Baixa de Bens do Ativo Imobilizado' (before arts. 44 and 49).
+- pipe.sh zzzx (b37/logs/zzzx-pipe2.out): f8f224f7 x2, 0 problems; dupline 2/ordercheck 1 = art. 48 'Il' as printed; firstline
+  1 = art. 54 p.u. after its caput's revocation (DL 2.287 art. 31: caput only); leakcheck 0; quotecheck = quoted words as
+  printed; latecaput 29 reviewed (Lei 12.973 dotted lines read on its page); dupsame 0 / 1 allowlisted; uniqlaws 0; merged
+  293 acts, 3913 versions, 2736 commits, check 0/0, --compare identical, audit_push clean main + futuro. Installed 46f60ea5;
+  README row + jurisdiction.json (293 acts, 3913 versions).
+- PIDs (all mine, all exited): pages 36736, laws 36392, missing 18692/44736, lexml 31856, trials 6844/35132/50088/24536 + t5,
+  spans (sp1/sp2/sp3 logs), lawtxt runs (b37/logs/txt-*), pipe1 PIDs 27400 52716 33896 ... 25132 31788 (+build), pipe2 33448
+  31272 49304 21532 31844 31188 15404.
+### Lei 11.196/2005 (Lei do Bem) - NOT STARTED beyond pins (next part zzzy)
+- Pages l11196 (ts 20261021231658) and l11196-compilado (20261004132825) pinned and in PAGES; no act, no `laws` yet. Survey of
+  the annotated page (311 KB, ~70 amending acts): Lei 12.859/2013 (86 notes), Lei 15.504/2026 (74), MP 1.318/2025 (67; fate to
+  read), LC 214/2025 (43; 2027+ on futuro), MP 1.034/2021 (42) and Lei 14.183/2021, MP 694/2015 (33, lapsed: MP_LAPSE exists,
+  part h), MP 1.095/2021 (27) and Lei 14.374/2022, MP 613/2013, Leis 12.715/2012, 11.774/2008, 11.487/2007, MP 690/2015 ->
+  Lei 13.241/2015 (one note misprints '1941'), MP 428/2008, Lei 11.727/2008, MP 457/2009, Lei 14.652/2023, Lei 13.161/2015,
+  MP 1.227/2024 (Ato Declaratório 36/2024: rejected, never took effect - part 12.865 precedent), ADIN 4254, LC 228/2026, Lei
+  15.394/2026, plus many single notes. Art. 132 is staged ('produzindo efeitos' I-IV; effects_fix already cites IV for other
+  acts). Expect several sessions: configure, `laws` + `missing` act-scoped, then work MP by MP.
+
+## State at handoff (batch 17, thirty-seventh session, 2026-11-02)
+Installed with .PUBLISH this session: zzzx (Decreto-Lei 1.598/1977; 22 versions). Merged scratch build (b37/logs/zzzx-pipe2.out):
+293 acts, 3913 versions, 2736 commits, check 0/0, --compare identical, audit_push clean on main and futuro; uniqlaws 0; dupsame
+0. README row + jurisdiction.json current. corpus.d changed: new 99-batch17zzzx.json + .PUBLISH only; folder PUBLISH unchanged.
+Other files changed: parse_batch17.py (diff against b37/before/ is additions only: PAGES del1598(+compilado), l11196(+compilado);
+act; PARTS zzzx; ACT_DAY/ACT_LAWS; block '# part zzzx'; copy b37/parse_batch17.after.py), effects_fix.py (MOVES zzzx),
+law_records.json (+ lei-7713-1988), bad_pins.json (+ law:dl-1648-1977), dupsame_allow.json (+1), sources_batch17.json (pins).
+Fetching: archive.org only through the shared client (4 page pins, 10 law pins incl. the gap pin, 1 bad pin removed), LexML 3
+URN records 6 s apart; no Common Crawl, no Arquivo.pt, no challenge page. All runs through run.py / pipe.sh at BelowNormal behind
+the cpu gate, one at a time; all PIDs mine and exited; nothing running.
+NEXT: Lei 11.196/2005 (part zzzy; survey above), then the historic codes (Código Comercial Lei 556/1850, CPC 1973 Lei
+5.869/1973, Código Civil 1916 Lei 3.071/1916; check each against installed parts first).
+OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff.
