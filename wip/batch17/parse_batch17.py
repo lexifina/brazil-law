@@ -8714,10 +8714,12 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "very lines (Lei nº 4.123/1962 does not amend the Code)")
     P.NOTE_FIX["(Redação dada pelo Decreto nº 3.725, de 1919)"] = (
         "(Redação dada pela Lei nº 4.121, de 1962)",
-        "Código Civil de 1916 art. 263 XI: Planalto prints two XI lines, Decreto 3.725/1919's (note 'Incluído pelo Decreto nº "
-        "3.725, de 1919') and, inside Lei nº 4.121/1962's recast list of art. 263 (I to XIII), a second one noted 'Redação "
-        "dada pelo Decreto nº 3.725, de 1919'; its words are those of Lei 4.121 art. 1 (art. 263 XI, 'Os bens da herança "
-        "necessária, a que se impuser a cláusula de incomunicabilidade (art. 1.723)'), so it is read as Lei 4.121's wording")
+        "Código Civil de 1916 art. 263 XI: Planalto prints two XI lines, the one Decreto nº 3.725 of 15.1.1919 added (note "
+        "'Incluído pelo Decreto nº 3.725, de 1919') and, inside Lei nº 4.121/1962's recast list of art. 263 (I to XIII), a "
+        "second one noted 'Redação dada pelo Decreto nº 3.725, de 1919'. The decree's art. 3 adds XI once and gives it no "
+        "second wording; the second line's words are those Lei nº 4.121 art. 1 gives art. 263 XI ('Os bens da herança "
+        "necessária, a que se impuser a cláusula de incomunicabilidade (art. 1.723)'), so it is credited to Lei nº 4.121, de "
+        "1962")
 
     def _cc16_decree_units() -> set:
         """the articles Decreto 3.725/1919 art. 3 corrects, read from the decree's page: its items open 'Art. N:' or 'Ao
@@ -9019,14 +9021,8 @@ if any(a["slug"] == _LCC16 for a in ACTS):
 
     B8.apply_span_fix = _apply_span_fix_cc16
 
-    # decision lines (forty-sixth session; the coordinator's readings of the one-wording lines and of art. 263 XI)
-    _W_CC16_263XI = (
-        "Código Civil de 1916 art. 263 XI: the page prints two XI lines, the one Decreto nº 3.725 of 15.1.1919 added "
-        "(noted 'Incluído pelo Decreto nº 3.725, de 1919') and, inside Lei nº 4.121/1962's recast list of art. 263 (I to "
-        "XIII), a second one noted 'Redação dada pelo Decreto nº 3.725, de 1919'. The decree's art. 3 adds XI once and "
-        "gives it no second wording; the second line's words are those Lei nº 4.121 art. 1 gives art. 263 XI ('Os bens da "
-        "herança necessária, a que se impuser a cláusula de incomunicabilidade (art. 1.723)'), so it is credited to Lei nº "
-        "4.121, de 1962")
+    # decision lines (forty-sixth session; the coordinator's reading of the one-wording lines; art. 263 XI's decision is
+    # its NOTE_FIX line above)
     _W_CC16_ONEWORD = (
         "Código Civil de 1916, Decreto nº 3.725 of 15.1.1919 (Diário Oficial 19.1.1919; in force 22.1.1919): its art. 3 "
         "lists corrections to {a} articles. In {n} lines of those articles Planalto's page prints one wording only, struck "
@@ -9080,7 +9076,6 @@ if any(a["slug"] == _LCC16 for a in ACTS):
             return art(u) + (f" {lb}" if lb and not lb.startswith("Art") else "")
 
         pairs = list(dict.fromkeys(x.split(" ", 1)[0] for x in CC16_USED.get("dec-pair", [])))
-        B5.EXTRA_DECISIONS.append(_W_CC16_263XI + ".")
         B5.EXTRA_DECISIONS.append(_W_CC16_ONEWORD.format(a=len(dec), n=len(one), m=len(unl),
                                                          u="; ".join(lab(t) for t in unl)) + ".")
         B5.EXTRA_DECISIONS.append(_W_CC16_PAIRS.format(u=", ".join(art(u) for u in pairs)) + ".")
