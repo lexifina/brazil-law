@@ -8739,6 +8739,8 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "5: 'A presente lei entrará em vigor na data de sua publicação')")
     P.VIGENCIA_FIXED["dl-5860-1943"] = ("1943-10-02", "in force on its publication, 2.10.1943 (Diário Oficial da União, per "
                                                       "the record of its original publication)")
+    P.VIGENCIA_FIXED["lei-2437-1955"] = ("1956-01-01", "art. 3: 'Esta lei entrará em vigor em 1º de janeiro de 1956' (DOU "
+                                                       "12.3.1955)")
     P.NOTE_FIX["(Redação dada pela Lei nº 6.515, de 1970)"] = (
         "(Redação dada pela Lei nº 6.515, de 1977)",
         "Código Civil de 1916 art. 240: the note reads 'Lei nº 6.515, de 1970' and its link opens Lei nº 6.515 of 26.12.1977, "
@@ -9151,6 +9153,13 @@ if any(a["slug"] == _LCC16 for a in ACTS):
     _innerCC16 = B6.PB5B._write_part5
 
     def _inner_cc16(*a) -> int:
+        # the shared 'next-wording' ends of this act's lines are replaced by _cc16_model (every line it ends is pinned
+        # 'cc16'), so their decision entries would state ends the history does not have
+        b7 = sys.modules.get("parse_batch7")
+        if b7 is not None:
+            n = len(b7.NEXT_WORDING_USED)
+            b7.NEXT_WORDING_USED[:] = [x for x in b7.NEXT_WORDING_USED if not x.startswith(_LCC16 + " ")]
+            CC16_USED["nw-dropped"] = [n - len(b7.NEXT_WORDING_USED)]
         dec = _cc16_decree_units()
         one = list(dict.fromkeys(CC16_USED.get("tag-alone-listed", [])))
         unl = list(dict.fromkeys(CC16_USED.get("tag-alone-unlisted", [])))
