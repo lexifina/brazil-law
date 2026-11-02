@@ -287,6 +287,9 @@ PAGES.update({
     "del1598-compilado": "decreto-lei/del1598compilado.htm",
     "l11196": "_ato2004-2006/2005/lei/l11196.htm",
     "l11196-compilado": "_ato2004-2006/2005/lei/l11196compilado.htm",
+    # forty-second session: historic codes
+    "lim556": "leis/lim/lim556.htm",
+    "lim556-compilado": "leis/lim/lim556compilado.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -666,6 +669,9 @@ ALL_ACTS: list[dict] = [
     _act("lei-do-bem", "LBem", "l11196", "l11196-compilado", "lei-11196-2005",
          "Lei do Bem: REPES, RECAP, inclusão digital e incentivos à inovação tecnológica (Lei nº 11.196, de 21 de novembro de "
          "2005)", 2),
+    # forty-second session: historic codes
+    _act("codigo-comercial", "CCom", "lim556", "lim556-compilado", "lei-556-1850",
+         "Código Comercial (Lei nº 556, de 25 de junho de 1850)", 3),
 ]
 PARTS: dict[str, list[str]] = {
     "a": ["lei-do-trabalho-rural", "lei-do-decimo-terceiro-salario", "lei-do-repouso-semanal-remunerado",
@@ -794,6 +800,8 @@ PARTS: dict[str, list[str]] = {
     "zzzx": ["decreto-lei-1598-de-1977"],
     # thirty-eighth session
     "zzzy": ["lei-do-bem"],
+    # forty-second session
+    "zzzz": ["codigo-comercial"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1122,6 +1130,9 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                  "Introdução ao Código Civil of 1916 (art. 2), then in force, made laws without a term binding in "
                                  "the Distrito Federal three days after their official publication (DOU 6.12.1937): 9.12.1937, the "
                                  "first day it was in force (in the states later); the text was republished on 11.12.1937"),
+    "lei-556-1850": ("1851-01-01", "Lei 556/1850 (Código Comercial) art. 912: 'O presente Código só principiará a obrigar e ter "
+                                   "execução seis meses depois da data da sua publicação na Corte' (published 1.7.1850): "
+                                   "1.1.1851"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1722,6 +1733,8 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "Serviços de Tecnologia da Informação - REPES [...]", "2005-11-21", "2005-11-22", PAGES["l11196"]),
     "dl-25-1937": _L("Decreto-Lei nº 25, de 1937", "Organiza a proteção do patrimônio histórico e artístico nacional.",
                      "1937-11-30", "1937-12-06", PAGES["del0025"]),
+    # 'Publicada na Secretaria d'Estado dos Negocios da Justiça em o 1º de Julho de 1850' (the Carta de Lei on the page)
+    "lei-556-1850": _L("Lei nº 556, de 1850", "Código Comercial.", "1850-06-25", "1850-07-01", PAGES["lim556"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
