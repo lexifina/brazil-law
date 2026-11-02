@@ -680,6 +680,20 @@ MOVES: dict[str, list] = {
          "30 e aos arts. 42 e 43; e II - a partir de 1º de janeiro de 2024, quanto aos demais dispositivos' (DOU 13.12.2023): "
          "its art. 46 III (revocation of Lei 9.532 arts. 28 to 35) from 1.1.2024"),
     ],
+    "99-batch17zzzzm.json": [
+        ("lei-10865-de-2004", "mp-472-2009", "2009-12-16", [("units:art-07", "2010-04-01")],
+         "Medida Provisória 472/2009 art. 60: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, "
+         "produzindo efeitos: [...] c) a partir do primeiro dia do quarto mês subseqüente ao da sua publicação, em relação aos "
+         "arts. 29 e 59' (DOU 16.12.2009): its art. 29 (Lei 10.865 art. 7 § 1º) from 1.4.2010 (Lei 12.249/2010, its "
+         "conversion, art. 139 I c, the same); its art. 19 (art. 2) on publication"),
+        ("lei-10865-de-2004", "lei-13137-2015", "2015-06-22",
+         [(lambda h: path_sel([("art-08", "§ 19", None, None), ("art-08", "§ 12", "XXXIX -", None)], None)(h),
+           "2015-10-01")],
+         "Lei 13.137/2015 art. 26: 'Esta Lei entra em vigor: [...] VI - em relação aos arts. 1º, no que altera o § 19 do art. "
+         "8º da Lei nº 10.865 [...] e ao inciso VII do art. 27, no primeiro dia do quarto mês subsequente ao de sua "
+         "publicação' (DOU 22.6.2015): art. 8 § 19 and the revocation of § 12 XXXIX (art. 27 VII) from 1.10.2015; its other "
+         "changes to Lei 10.865 date from 1.5.2015 (I, before publication) or publication (II), so by publication"),
+    ],
 }
 # LC 147/2014 art. 17: 'exceto no que se refere: I - ao § 14 do art. 3º, ao inciso VI do art. 17, ao caput e aos §§ 2º,
 # 5º-D, 5º-F, 5º-I, 7º, 13, 14, 16, 17, 18, 18-A e 24 do art. 18, ao inciso I do § 4º do art. 18-A, ao caput do art. 19,

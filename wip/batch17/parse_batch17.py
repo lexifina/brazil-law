@@ -10662,6 +10662,102 @@ if any(a["slug"] == _L10865 for a in ACTS):
          {"start": "2011-11-18", "start_law": "mp-549-2011", "end": "2012-03-26", "end_law": "lei-12599-2012",
           "end_how": "successor"}, _W10865_28),
     ]
+    # effect days that fall after a later change of art. 8 (effects_fix refuses those), set on the lines (session 57):
+    # Lei 12.546/2011 art. 52 § 4º (art. 8 § 21 IV to VI in its wording from 1.4.2012); Medida Provisória 563/2012 art. 54
+    # § 2º (its art. 43, § 21 caput, in force 1.8.2012) and art. 53 II (§ 21 I to VI revoked from 1.8.2012); Lei
+    # 13.670/2018 art. 11 I (its art. 2, § 21, in force 1.9.2018)
+    L10865_EFF: dict = {}
+
+    def _eff10865(paras, record):
+        for p in paras:
+            if p["unit"] != "art-08" or p["heading"]:
+                continue
+            k = None
+            if p.get("start_law") == "lei-12546-2011" and p.get("start") == "2011-12-15" and p["label"] in ("IV -", "V -", "VI -"):
+                p["start"], k = "2012-04-01", "12546 IV-VI start"
+            elif p.get("start_law") == "mp-563-2012" and p.get("start") == "2012-04-04":
+                p["start"], k = "2012-08-01", "563 start"
+            elif p.get("start_law") == "lei-13670-2018" and p.get("start") == "2018-05-30":
+                p["start"], k = "2018-09-01", "13670 start"
+            if p.get("end_law") == "mp-563-2012" and p.get("end") == "2012-04-04":
+                p["end"], k = "2012-08-01", "563 end"
+            elif p.get("end_law") == "lei-13670-2018" and p.get("end") == "2018-05-30":
+                p["end"], k = "2018-09-01", "13670 end"
+            if k:
+                p["pinned"] = True
+                if record:
+                    L10865_EFF[k] = L10865_EFF.get(k, 0) + 1
+        if record:
+            for k, n in (("12546 IV-VI start", 3), ("563 start", 1), ("563 end", 7), ("13670 start", 15)):
+                if L10865_EFF.get(k, 0) < n:
+                    B8.SPAN_MISSED.append(f"{_L10865} effect days art-08 {k}: {L10865_EFF.get(k, 0)} lines, {n} expected")
+
+    _span_fixL10865e = B8.apply_span_fix
+
+    def _apply_span_fix_l10865e(paras, act_slug, record):
+        _span_fixL10865e(paras, act_slug, record)
+        if act_slug == _L10865:
+            _eff10865(paras, record)
+
+    B8.apply_span_fix = _apply_span_fix_l10865e
+    EXTRA.append(
+        "Lei 10.865 art. 8 § 21, effect days set on the lines (each a later day than the next change of art. 8, so set by "
+        "hand): Lei 12.546/2011 art. 52 § 4º ('Os incisos IV a VI do § 21 do art. 8º da Lei nº 10.865 [...], com a redação "
+        "dada pelo art. 21 desta Lei, produzirão efeitos a partir do primeiro dia do quarto mês subsequente à data de "
+        "publicação desta Lei'; DOU 15.12.2011): incisos IV to VI from 1.4.2012; Medida Provisória 563/2012 art. 54 § 2º "
+        "('Os arts. 43 a 46 entram em vigor no primeiro dia do quarto mês subsequente à data de sua publicação'; DOU "
+        "4.4.2012) and art. 53 II ('Ficam revogados: [...] II - a partir do primeiro dia do quarto mês subsequente à data de "
+        "sua publicação, os incisos I a VI do § 21 do art. 8º da Lei nº 10.865'): the Medida Provisória's § 21 and the "
+        "revocation of incisos I to VI from 1.8.2012 (its art. 51, the change to art. 40, on publication); Lei 13.670/2018 "
+        "art. 11 ('Esta Lei entra em vigor: I - no primeiro dia do quarto mês subsequente ao de sua publicação, quanto aos "
+        "arts. 1º e 2º [...]'; DOU 30.5.2018): its art. 2, § 21 with incisos VII to XX, from 1.9.2018. Lei 12.715/2012, the "
+        "conversion of Medida Provisória 563 (DOU 18.9.2012), dates its art. 53 from 1.8.2012 (art. 78 § 2º), before its "
+        "publication, so its wording is dated by publication. Lei Complementar 228/2026 is in force on publication (art. 5, "
+        "DOU 20.3.2026) and fixes no other day")
+    # Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] XXIII - os seguintes
+    # dispositivos da Lei nº 10.865, de 30 de abril de 2004: a) os arts. 1º a 20; b) os arts. 22 e 23; c) os arts. 27 a
+    # 31; d) o art. 34; e) os arts. 36 a 38; f) o art. 40 e 40-A; e g) o art. 42'): future branch
+    _FUT2027[_L10865] = (
+        {*(_u(n) for n in range(1, 21)), "art-14-a", "art-22", "art-23", *(_u(n) for n in range(27, 32)), "art-34",
+         *(_u(n) for n in range(36, 39)), "art-40", "art-40-a", "art-42"}, {},
+        "Lei 10.865: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] XXIII - os "
+        "seguintes dispositivos da Lei nº 10.865, de 30 de abril de 2004: a) os arts. 1º a 20; b) os arts. 22 e 23; c) os "
+        "arts. 27 a 31; d) o art. 34; e) os arts. 36 a 38; f) o art. 40 e 40-A; e g) o art. 42'), in effect from 1.1.2027 "
+        "(art. 544 III, as Lei Complementar 227/2026 worded it), read on LC 214's page (Planalto's page of Lei 10.865 prints "
+        "only '(Vide Lei Complementar nº 214, de 2025)'): those articles, art. 14-A with them (it stands between arts. 1º "
+        "and 20), end on 1.1.2027, on the future branch")
+    B8.EXTRA_LAWS["lc-214-2025"] = {
+        "label": "Lei Complementar nº 214, de 2025", "title": "Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição "
+        "Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação "
+        "tributária.", "kind": "law", "enacted": "2025-01-16", "published": "2025-01-16",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp214.htm", "temporary_until": None, "restores": None,
+        "note": None}
+    B.EXPLAINED[_L10865] = {
+        "art-08": "the consolidated page differs in four places, none a difference of law: it joins the revoked §§ 6º and "
+                  "6º-A in one line ('§ 6º e 6º-A -'); it leaves out § 12 XVII (produtos do código 8402.19.00 para Usinas "
+                  "Termonucleares, added by Lei 11.774/2008), which the annotated page prints unstruck with no note "
+                  "revoking it; and it prints placeholders where the history has no text: '§ 20. (Sem eficácia)' for "
+                  "Medida Provisória 491/2010's paragraph (the Medida Provisória lost effect) and 'I - Produção de efeito "
+                  "e vigência' to 'III - ...' for § 21 I to III, which Medida Provisória 563/2012 revoked",
+        "art-14-a": "the consolidated page leaves Planalto's marker '(Vgência)' (sic) inside the line; not part of the text",
+        "art-17": "both pages print '§ 3º-A.' with no words (only '(Vide Lei nº 11.727, de 2008)'); the history keeps the "
+                  "label as printed and the check, reading label-only lines as revoked dispositivos, drops it",
+        "art-21": "check artefact: art. 21 quotes Lei 10.833 with dotted lines ('§ 3º .....', '§ 6º .....', 'Parágrafo único "
+                  "....'), which the history keeps as label-only lines and the check drops",
+        "art-24": "check artefact: art. 24 quotes Lei 10.426 with the dotted line '§ 2º .....', kept as '§ 2º.' and dropped "
+                  "by the check",
+        "art-28": "the consolidated page prints the placeholder 'XIX - (Sem eficácia)' for Medida Provisória 491/2010's "
+                  "inciso XIX (the Medida Provisória lost effect on 3.11.2010); the history has no text there",
+        "art-34": "check artefact: art. 34 quotes Lei 10.147 with the dotted line '§ 1º .....', kept as '§ 1º.' and dropped "
+                  "by the check",
+        "art-37": "check artefact: art. 37 quotes Lei 10.637 with the dotted line '§ 3º .....', kept as '§ 3º.' and dropped "
+                  "by the check",
+        "art-42": "the consolidated page cuts the line short ('... na forma do caput des'); the annotated page prints it "
+                  "whole",
+    }
+    B13.OPEN_ITEMS[_L10865] = (
+        "Lei 10.865 (open items): 'Vide' pointers (among them Medidas Provisórias 1.157/2023, 1.202/2023 and 1.208/2024, Leis "
+        "11.727/2008 and 12.649/2012 and Lei Complementar 214/2025) strike no words and are not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
