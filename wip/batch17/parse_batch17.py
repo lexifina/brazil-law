@@ -9019,6 +9019,78 @@ if any(a["slug"] == _LCC16 for a in ACTS):
 
     B8.apply_span_fix = _apply_span_fix_cc16
 
+    # decision lines (forty-sixth session; the coordinator's readings of the one-wording lines and of art. 263 XI)
+    _W_CC16_263XI = (
+        "Código Civil de 1916 art. 263 XI: the page prints two XI lines, the one Decreto nº 3.725 of 15.1.1919 added "
+        "(noted 'Incluído pelo Decreto nº 3.725, de 1919') and, inside Lei nº 4.121/1962's recast list of art. 263 (I to "
+        "XIII), a second one noted 'Redação dada pelo Decreto nº 3.725, de 1919'. The decree's art. 3 adds XI once and "
+        "gives it no second wording; the second line's words are those Lei nº 4.121 art. 1 gives art. 263 XI ('Os bens da "
+        "herança necessária, a que se impuser a cláusula de incomunicabilidade (art. 1.723)'), so it is credited to Lei nº "
+        "4.121, de 1962")
+    _W_CC16_ONEWORD = (
+        "Código Civil de 1916, Decreto nº 3.725 of 15.1.1919 (Diário Oficial 19.1.1919; in force 22.1.1919): its art. 3 "
+        "lists corrections to {a} articles. In {n} lines of those articles Planalto's page prints one wording only, struck "
+        "with no note, where the decree lists a correction (mostly the 1916 words, some already corrected), and in art. "
+        "340 it prints the caput once, unstruck; the corrected wording is not printed beside the other, so it cannot be "
+        "dated separately, and each such line stands as printed from 1.1.1917 to the repeal. The same holds for {m} "
+        "struck lines with no note in articles the decree does not list ({u})")
+    _W_CC16_PAIRS = (
+        "Código Civil de 1916, Decreto nº 3.725/1919: where the page prints both wordings, the 1916 line and below it the "
+        "corrected one with no note ({u}), the corrected line starts on 22.1.1919, credited to the decree, and the 1916 "
+        "line ends then; in art. 220 the 1916 wording is printed unstruck and the decree's ('Redija-se assim: « A "
+        "annullação do casamento, nos casos artigo antecedente, só a poderá demandar o conjuge enganado »') below it")
+    _W_CC16_SUPPR = (
+        "Código Civil de 1916, whole provisions Decreto nº 3.725/1919 art. 3 suppresses: 'Art. 1.372, paragrapho unico: "
+        "Supprima-se.' and 'Art. 1.787: Supprima-se.'; the page prints both struck with no note, and they end on "
+        "22.1.1919, credited to the decree (art. 178 § 9º n. V d and arts. 287 and 290 parágrafo único carry their own "
+        "'Suprimido' notes). The same item makes art. 1.786's parágrafo único an article ('transforme-se em artigo o "
+        "paragrapho unico do art. 1.786, com esta redacção: «No caso do artigo antecedente, ...»'); the page prints neither "
+        "that art. 1.787 nor a note on the parágrafo único, which stands as printed to the repeal, so the history has no "
+        "art. 1.787 from 22.1.1919. Art. 243's parágrafo único, which the decree moves ('Passe-se este paragrapho para o "
+        "art. 247'), is printed only in its 1916 place and stands there. Art. 178 § 10 n. X ('Elimine-se'): the page "
+        "prints only the marker 'X. (Eliminado pelo Decreto nº 3.725, de 1919)', not the 1916 wording, so the history has "
+        "no § 10 n. X")
+    _W_CC16_ART35 = (
+        "Código Civil de 1916 art. 35: Decreto nº 3.725/1919 art. 3 adds §§ 1º and 2º after n. IV and makes the 1916 §§ 1º "
+        "and 2º §§ 3º and 4º ('O § 1º passa a ser § 3º, supprimindo-se a conjuncção porém ...', 'o § 2º passa a ser § "
+        "4º'); the page prints those paragraphs only in the new numbering (§ 3º noted 'Renumerado do § 1º', its words as "
+        "printed), so §§ 3º and 4º start on 22.1.1919, credited to the decree, and before that day the article is printed "
+        "without paragraphs")
+    _W_CC16_MIXED = (
+        "Código Civil de 1916, lines the page strikes only in part, with no note and no second wording: art. 443 III "
+        "('(arts. 413 e 445)'), art. 458 (its words up to 'nascituros'), art. 624 ('condômino' in the caput, 'dividida' in "
+        "the parágrafo único): each is read as one line and stands as printed to the repeal")
+    _innerCC16 = B6.PB5B._write_part5
+
+    def _inner_cc16(*a) -> int:
+        dec = _cc16_decree_units()
+        one = list(dict.fromkeys(CC16_USED.get("tag-alone-listed", [])))
+        unl = list(dict.fromkeys(CC16_USED.get("tag-alone-unlisted", [])))
+
+        def art(u):
+            n = int(u.rsplit("-", 1)[1])
+            return ("Introdução " if u.startswith("art-in-") else "") + f"art. {n:,}".replace(",", ".")
+
+        def lab(t):
+            u, rest = t.split(" ", 1)
+            lb = rest[1:rest.index("]")].strip()
+            if not lb:
+                m = re.match(r"'([IVXLC]+)\.", rest[rest.index("]") + 2:])
+                lb = m.group(1) if m else ""
+            return art(u) + (f" {lb}" if lb and not lb.startswith("Art") else "")
+
+        pairs = list(dict.fromkeys(x.split(" ", 1)[0] for x in CC16_USED.get("dec-pair", [])))
+        B5.EXTRA_DECISIONS.append(_W_CC16_263XI + ".")
+        B5.EXTRA_DECISIONS.append(_W_CC16_ONEWORD.format(a=len(dec), n=len(one), m=len(unl),
+                                                         u="; ".join(lab(t) for t in unl)) + ".")
+        B5.EXTRA_DECISIONS.append(_W_CC16_PAIRS.format(u=", ".join(art(u) for u in pairs)) + ".")
+        B5.EXTRA_DECISIONS.append(_W_CC16_SUPPR + ".")
+        B5.EXTRA_DECISIONS.append(_W_CC16_ART35 + ".")
+        B5.EXTRA_DECISIONS.append(_W_CC16_MIXED + ".")
+        return _innerCC16(*a)
+
+    B6.PB5B._write_part5 = _inner_cc16
+
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
     SRC.write_text('{\n "fetch": []\n}\n', encoding="utf-8", newline="\n")
