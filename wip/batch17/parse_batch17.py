@@ -8362,9 +8362,9 @@ _W_CPC73_SPANS = {
             "Planalto prints the 1973 wording struck with no note, so it ends then, as arts. 542 to 546 do by their notes, "
             "until Lei 8.950/1994 revived the articles (in force 12.2.1995)"),
     "496": ("Código de Processo Civil de 1973 art. 496: Lei 8.038/1990 (in force 29.5.1990) rewrote the article; Planalto "
-            "strikes the 1973 incisos III to V and prints the new list with a note on the caput only: the unnoted incisos "
-            "III ('embargos infringentes'), IV ('embargos de declaração') and V ('recurso ordinário') of that list start "
-            "with Lei 8.038 (III and IV in the same words as before)"),
+            "strikes the 1973 incisos I to V and prints the new list with a note on the caput only: the unnoted incisos I "
+            "('apelação'), II ('agravo de instrumento'), III ('embargos infringentes'), IV ('embargos de declaração') and V "
+            "('recurso ordinário') of that list start with Lei 8.038 (I to IV in the same words as before)"),
     "644": ("Código de Processo Civil de 1973 art. 644: Planalto's page prints no 1973 wording of the article (only Lei "
             "8.953/1994's wording, struck, and Lei 10.444/2002's), so the history has no art. 644 before Lei 8.953 took "
             "effect (12.2.1995): the source gives no text for it"),
@@ -8451,6 +8451,13 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
          _W_CPC73_SPANS["746"]),
         ((_LCPC73, "art-0541", "Art. 541", "Art. 541. Caberá recurso extraordinário para o Supremo", 0),
          {"end": "1990-05-29", "end_law": "lei-8038-1990", "end_how": "note"}, _W_CPC73_SPANS["541"]),
+        ((_LCPC73, "art-0496", "I -", "I - apelação", 1), _F496, _W_CPC73_SPANS["496"]),
+        ((_LCPC73, "art-0496", "II -", "II - agravo de instrumento", 1), _F496, _W_CPC73_SPANS["496"]),
+        ((_LCPC73, "art-0253", "Parágrafo único", "Parágrafo único. Havendo reconvenção ou intervenção de terceiro", 0),
+         {"skip": True},
+         "Código de Processo Civil de 1973 art. 253 parágrafo único: Lei 10.358/2001 rewrote the caput only; Planalto strikes "
+         "the 1973 caput and parágrafo único together and prints the parágrafo único again, in the same words and with no "
+         "note, after the new caput: the struck copy is left out and the parágrafo único stands unchanged from 1.1.1974"),
         ((_LCPC73, "art-0496", "III -", "III - embargos infringentes", 0), _F496, _W_CPC73_SPANS["496"]),
         ((_LCPC73, "art-0496", "IV -", "IV - embargos de declaração", 1), _F496, _W_CPC73_SPANS["496"]),
         ((_LCPC73, "art-0496", "V -", "V - recurso ordinário", 0), _F496, _W_CPC73_SPANS["496"]),
