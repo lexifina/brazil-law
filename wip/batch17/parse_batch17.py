@@ -8340,7 +8340,8 @@ _W_CPC73_LABELS = (
     "Código de Processo Civil de 1973: Planalto prints {n} incisos with a letter l for the numeral I ('Vl -', 'Vll -', "
     "'Vlll -', 'lII -', 'Xl -', 'l -'); each is read as the inciso it stands for (its label), its text kept as printed")
 _W_CPC73_NOTES = (
-    "Código de Processo Civil de 1973, notes misprinted on Planalto's page and read as the notes they are: art. 154 § 2º "
+    "Código de Processo Civil de 1973, notes misprinted on Planalto's page and read as the notes they are: art. 602 I "
+    "'(Inlcluído pela Lei nº 5.925, de 1º.10.1973)'; art. 154 § 2º "
     "'(I ncluído pela Lei nº 11.419, de 2006)' (a run of spaces inside 'Incluído'), art. 470 'Vide Lei nº 13.105, de 2015)' "
     "(no opening parenthesis; a pointer, dropped like every 'Vide' note)")
 _W_CPC73_1102 = (
@@ -8439,6 +8440,10 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
          _W_CPC73_SPANS["746"]),
         ((_LCPC73, "art-0541", "Art. 541", "Art. 541. Caberá recurso extraordinário para o Supremo", 0),
          {"end": "1990-05-29", "end_law": "lei-8038-1990", "end_how": "note"}, _W_CPC73_SPANS["541"]),
+        ((_LCPC73, "art-0983", "Parágrafo único", "Parágrafo único. (Revogado)", 0), {"skip": True},
+         "Código de Processo Civil de 1973 art. 983 parágrafo único: Lei 11.441/2007 art. 5 revoked it (art. 1 rewrote the "
+         "caput); the line Planalto prints after the new caput, 'Parágrafo único. (Revogado).', is a placeholder, not "
+         "text, and is left out (the 1973 wording ends on 5.1.2007)"),
         ((_LCPC73, "art-1082", "Art. 1.082", "Art. 1.082. Responde por perdas e danos", 0),
          {"end": "1996-11-23", "end_law": "lei-9307-1996", "end_how": "note"}, _W_CPC73_SPANS["1082"]),
         ((_LCPC73, "art-1218", "XIV -", "XIV - aos salvados marítimos", 0), _F_REN, _W_CPC73_SPANS["1218"]),
@@ -8456,6 +8461,8 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
             CPC73_USED["notes"] += ["154"] * n
             html, n = re.subn(r">Vide Lei nº 13\.105, de 2015\)</a>", ">(Vide Lei nº 13.105, de 2015)</a>", html)
             CPC73_USED["notes"] += ["470"] * n
+            html, n = re.subn(r"\(Inlcluído pela Lei nº 5\.925", "(Incluído pela Lei nº 5.925", html)
+            CPC73_USED["notes"] += ["602"] * n
         out, rest = _paragraphsCPC73(html, digits)
         if page == "l5869-2015":
             for p in out:
@@ -8501,8 +8508,7 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
                     q.update({"skip": False, "end": "2007-01-21", "end_law": "lei-11382-2006", "end_how": "successor",
                               "pinned": True})
         for i, p in enumerate(paras):
-            if (p["heading"] or p["state"] != "struck" or p.get("pinned") or p["start"] != _CPC73_DAY or p["start_law"]
-                    or p["end_how"] not in (None, "undated", "next-wording")):
+            if p["heading"] or p["state"] != "struck" or p.get("pinned") or p["start"] != _CPC73_DAY or p["start_law"]:
                 continue
             if p.get("notes"):
                 continue
