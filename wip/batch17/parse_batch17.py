@@ -10771,6 +10771,278 @@ if any(a["slug"] == _L10865 for a in ACTS):
         "Lei 10.865 (open items): 'Vide' pointers (among them Medidas Provisórias 1.157/2023, 1.202/2023 and 1.208/2024, Leis "
         "11.727/2008 and 12.649/2012 and Lei Complementar 214/2025) strike no words and are not modelled")
 
+# part zzzzm, fifty-eighth session (coordinator decisions on Lei 10.865): (1) Medida Provisória 164/2004's wording of art. 8
+# §§ 1º-3º, 5º, 8º, 9º and arts. 16-17 from 1.5.2004 to 31.7.2004 (art. 45), the Lei's from 1.8.2004; (2) the Lei's art. 22
+# from 1.8.2004; (3) the deferred effect days of the amenders, each read on its own page; art. 15's lines set back to the
+# Lei's first day (Planalto's note on the caput names Lei 11.727/2008, whose text does not reword it)
+if any(a["slug"] == _L10865 for a in ACTS):
+    _G10865[_u(22)] = ("2004-08-01", "art. 45")
+    B8.EXTRA_LAWS["mp-164-2004"] = {
+        "label": "Medida Provisória nº 164, de 2004", "kind": "law",
+        "title": "Dispõe sobre a Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor "
+                 "Público e a Contribuição para o Financiamento da Seguridade Social incidentes sobre a importação de bens e "
+                 "serviços, e dá outras providências.",
+        "enacted": "2004-01-29", "published": "2004-01-29",
+        "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Mpv/164.htm", "temporary_until": None,
+        "restores": None, "note": None}
+    MP164_USED: dict = {}
+    _MP164_LAB = re.compile(r"^(Art\.?\s*\d+|§\s*\d+|Parágrafo único|[IVXLC]+\s*[-–]|[a-z]\)|CAPÍTULO|D[AOE]S? [A-ZÁÉÍÓÚÂÊÔÃÕÇ])")
+    _MP164_PARS = ("§ 1º", "§ 2º", "§ 3º", "§ 5º", "§ 8º", "§ 9º")
+    _MP164_N = {"§ 1º": 7, "§ 2º": 3, "§ 3º": 3, "§ 5º": 3, "§ 8º": 1, "§ 9º": 3, 16: 1, 17: 8}
+
+    def _mp164_arts() -> dict:
+        """Medida Provisória 164/2004's arts. 8, 16 and 17 from its cached page (Planalto prints the whole Medida
+        Provisória struck, as converted): one line per dispositivo, link fragments joined, 'Vide' notes left out"""
+        if "arts" in MP164_USED:
+            return MP164_USED["arts"]
+        import html as _h
+        arts: dict = {}
+        r = P.raw("law:mp-164-2004")
+        if r:
+            h = P.decode(r[0])
+            h = re.sub(r"(?is)<(script|style)\b.*?</\1>", " ", h)
+            h = re.sub(r"(?i)<(p|br|div|tr|h\d)\b[^>]*>", "\n", h)
+            lines: list[str] = []
+            for x in _h.unescape(re.sub(r"<[^>]+>", " ", h)).split("\n"):
+                x = P.norm(re.sub(r"\(Vide [^)]*\)", " ", P.norm(x)))
+                if not x:
+                    continue
+                if lines and not _MP164_LAB.match(x):
+                    lines[-1] = P.norm(lines[-1] + " " + x)
+                else:
+                    lines.append(x)
+            cur = None
+            for x in lines:
+                m = re.match(r"^Art\.?\s*(\d+)", x)
+                if m:
+                    cur = int(m.group(1))
+                elif re.match(r"^(CAPÍTULO|D[AOE]S? [A-ZÁÉÍÓÚÂÊÔÃÕÇ])", x):
+                    cur = None
+                    continue
+                if cur in (8, 16, 17):
+                    lab = re.match(r"^(Art\.\s*\d+|§\s*\d+º?|[IVXLC]+\s*-|[a-z]\))", x)
+                    lab = lab.group(1) if lab else ""
+                    lab = re.sub(r"^Art\.\s*(\d+)$", r"Art. \1", lab)
+                    lab = re.sub(r"^§\s*(\d)º?$", r"§ \1º", lab)
+                    lab = re.sub(r"^([IVXLC]+)\s*-$", r"\1 -", lab)
+                    arts.setdefault(cur, []).append((lab, x))
+        MP164_USED["arts"] = arts
+        return arts
+
+    def _mp164_line(t: dict, lab: str, text: str) -> dict:
+        v = dict(t, label=lab, text=text, notes=[], gaps=[], start="2004-05-01", start_law="mp-164-2004", end="2004-08-01",
+                 end_law="lei-10865-2004", end_how="conversion", skip=False, pinned=True, state="struck", heading=False,
+                 mp164=True)
+        for k in ("plain_text", "struck_text"):
+            if k in v:
+                v[k] = ""
+        v.pop("restored", None)
+        return v
+
+    def _orig10865(p) -> bool:
+        return not p["heading"] and p.get("start") == "2004-04-30" and not p.get("start_law")
+
+    def _mp164_model(paras, record):
+        if any(p.get("mp164") for p in paras):
+            return
+        arts = _mp164_arts()
+        # art. 8: the paragraphs of art. 45 in the Medida Provisória's wording, the Lei's own lines of them from 1.8.2004
+        a8 = arts.get(8, [])
+        blocks, cur = {}, None
+        for lab, x in a8:
+            if lab.startswith("§"):
+                cur = lab
+            if cur in _MP164_PARS:
+                blocks.setdefault(cur, []).append((lab, x))
+        firsts, cur = {}, None
+        for p in [q for q in paras if q["unit"] == "art-08" and not q["heading"]]:
+            if p["label"].startswith("§"):
+                cur = p["label"]
+            if cur in _MP164_PARS and _orig10865(p):
+                firsts.setdefault(cur, p)
+                p.update(start="2004-08-01", start_law="lei-10865-2004", pinned=True, lei45=True)
+        for par in _MP164_PARS:
+            blk, t = blocks.get(par, []), firsts.get(par)
+            if len(blk) != _MP164_N[par] or t is None:
+                if record:
+                    B8.SPAN_MISSED.append(f"{_L10865} MP 164 art-08 [{par}]: {len(blk)} lines, Lei line {t is not None}")
+                continue
+            at = paras.index(t)
+            paras[at:at] = [_mp164_line(t, lab, x) for lab, x in blk]
+        # arts. 16 and 17: wholly the Medida Provisória's wording to 31.7.2004
+        for n in (16, 17):
+            u = _u(n)
+            os_ = [p for p in paras if p["unit"] == u and _orig10865(p)]
+            blk = arts.get(n, [])
+            if len(blk) != _MP164_N[n] or not os_:
+                if record:
+                    B8.SPAN_MISSED.append(f"{_L10865} MP 164 {u}: {len(blk)} lines, {len(os_)} Lei lines")
+                continue
+            for p in os_:
+                p.update(start="2004-08-01", start_law="lei-10865-2004", pinned=True, lei45=True)
+            at = paras.index(os_[0])
+            paras[at:at] = [_mp164_line(os_[0], lab, x) for lab, x in blk]
+
+    # (unit regex, label or None, side, law, day printed, effect day, lines expected)
+    _EFF58 = [
+        # Lei 10.925/2004 art. 17 I d) (art. 8 § 7º) and art. 16 II b) (art. 17 §§ 1º and 4º, art. 26): 1.11.2004
+        ("art-08", "§ 7º", "end", "lei-10925-2004", "2004-07-26", "2004-11-01", 1),
+        ("art-08", "§ 7º", "start", "lei-10925-2004", "2004-07-26", "2004-11-01", 1),
+        ("art-17", "§ 1º", "end", "lei-10925-2004", "2004-07-26", "2004-11-01", 1),
+        ("art-17", "§ 4º", "end", "lei-10925-2004", "2004-07-26", "2004-11-01", 1),
+        ("art-26", None, "end", "lei-10925-2004", "2004-07-26", "2004-11-01", 3),
+        # Lei 11.196/2005 art. 132 III b) (art. 15: 1.12.2005), V c) (art. 58, art. 8 § 15: 1.3.2006), art. 133 VI (§ 12 VIII)
+        ("art-15", "V -", "end", "lei-11196-2005", "2005-11-22", "2005-12-01", 1),
+        ("art-08", "§ 15", "start", "lei-11196-2005", "2005-11-22", "2006-03-01", 1),
+        ("art-08", ("I -", "I - 1,0% (um por cento)"), "start", "lei-11196-2005", "2005-11-22", "2006-03-01", 1),
+        ("art-08", ("II -", "II - 4,6% (quatro inteiros"), "start", "lei-11196-2005", "2005-11-22", "2006-03-01", 1),
+        ("art-08", "VIII -", "end", "lei-11196-2005", "2005-11-22", "2006-03-01", 1),
+        # Medida Provisória 413/2008 art. 18 II (its art. 3, art. 8 §§ 17 and 18): 1.5.2008
+        ("art-08", "§ 17", "start", "mp-413-2008", "2008-01-03", "2008-05-01", 1),
+        ("art-08", "§ 18", "start", "mp-413-2008", "2008-01-03", "2008-05-01", 1),
+        # Lei 11.727/2008 art. 41 IV (its art. 16, alcohol: art. 8 § 19, art. 15 § 8º V, art. 17 V): 1.10.2008
+        ("art-08", "§ 19", "start", "lei-11727-2008", "2008-06-24", "2008-10-01", 1),
+        ("art-15", "V -", "start", "lei-11727-2008", "2008-06-24", "2008-10-01", 1),
+        ("art-17", "V -", "start", "lei-11727-2008", "2008-06-24", "2008-10-01", 1),
+        # Lei 11.727 art. 41 VII (its arts. 34 and 37) and art. 42 IV b) (art. 8 § 7º, art. 15 §§ 9º and 10): 1.1.2009
+        ("art-08", "XIII -", "start", "lei-11727-2008", "2008-06-24", "2009-01-01", 1),
+        ("art-08", "XIII -", "end", "lei-11727-2008", "2008-06-24", "2009-01-01", 1),
+        ("art-08", "§ 7º", "end", "lei-11727-2008", "2008-06-24", "2009-01-01", 1),
+        ("art-15", "VI -", "start", "lei-11727-2008", "2008-06-24", "2009-01-01", 1),
+        ("art-15", "§ 9º", "end", "lei-11727-2008", "2008-06-24", "2009-01-01", 1),
+        ("art-15", "§ 10", "end", "lei-11727-2008", "2008-06-24", "2009-01-01", 1),
+        ("art-17", "Art. 17", "start", "lei-11727-2008", "2008-06-24", "2009-01-01", 1),
+        ("art-17", "Art. 17", "end", "lei-11727-2008", "2008-06-24", "2009-01-01", 1),
+        ("art-17", "VI -", "start", "lei-11727-2008", "2008-06-24", "2009-01-01", 1),
+        ("art-28", "XIII -", "start", "lei-11727-2008", "2008-06-24", "2009-01-01", 1),
+        # Medida Provisória 451/2008 art. 22 I d) (art. 15 §§ 11 and 12: 1.1.2009) and II c) (art. 16 § 2º: 1.4.2009)
+        ("art-15", "§ 11", "start", "mp-451-2008", "2008-12-16", "2009-01-01", 1),
+        ("art-15", "§ 12", "start", "mp-451-2008", "2008-12-16", "2009-01-01", 1),
+        ("art-16", "§ 2º", "start", "mp-451-2008", "2008-12-16", "2009-04-01", 1),
+        # Lei 12.058/2009 art. 48 (its art. 42, arts. 8 and 28): 1.1.2010
+        ("art-(08|28)", None, "start", "lei-12058-2009", "2009-10-14", "2010-01-01", 10),
+        ("art-(08|28)", None, "end", "lei-12058-2009", "2009-10-14", "2010-01-01", 3),
+        # Medida Provisória 656/2014 art. 55 I (its art. 3, art. 8 § 12 XL and art. 28 XXXVII): 1.1.2015
+        ("art-(08|28)", None, "start", "mp-656-2014", "2014-10-08", "2015-01-01", 2),
+        # Lei 13.097/2015 art. 168 III (its art. 38, art. 17) and art. 169 III c) (revocations): 1.5.2015
+        ("art-17", None, "start", "lei-13097-2015", "2015-01-20", "2015-05-01", 2),
+        ("art-17", None, "end", "lei-13097-2015", "2015-01-20", "2015-05-01", 4),
+        ("art-15", None, "end", "lei-13097-2015", "2015-01-20", "2015-05-01", 3),
+        ("art-08", "§ 6º", "end", "lei-13097-2015", "2015-01-20", "2015-05-01", 1),
+        ("art-08", "§ 6º-A", "end", "lei-13097-2015", "2015-01-20", "2015-05-01", 1),
+        # Lei 13.169/2015 art. 17 II (its art. 15, art. 8 § 12 XL and art. 28 XXXVII): 1.2.2016
+        ("art-(08|28)", None, "start", "lei-13169-2015", "2015-10-07", "2016-02-01", 2),
+        ("art-(08|28)", None, "end", "lei-13169-2015", "2015-10-07", "2016-02-01", 2),
+        # Lei 14.784/2023 art. 7 II (its art. 3, art. 8 § 21 caput): 1.4.2024
+        ("art-08", "§ 21", "start", "lei-14784-2023", "2023-12-28", "2024-04-01", 1),
+        ("art-08", "§ 21", "end", "lei-14784-2023", "2023-12-28", "2024-04-01", 1),
+    ]
+    L10865_EFF58: dict = {}
+
+    def _eff58_model(paras, record):
+        # art. 15 first: lines with no note of their own that the reader dated from Lei 11.727's caput note are the Lei's
+        # own lines (the caput too: Lei 11.727's text does not reword it); inciso V in Lei 11.196's wording from 1.12.2005
+        for p in paras:
+            if p["unit"] != "art-15" or p["heading"]:
+                continue
+            if p.get("start_law") == "lei-11727-2008" and p.get("start") == "2008-06-24":
+                ns = " ".join(p.get("notes") or [])
+                if p["label"] == "V -" and "11.196" in ns:
+                    p.update(start="2005-12-01", start_law="lei-11196-2005", pinned=True, art15=True)
+                elif p["label"] == "Art. 15" or not re.search(r"Lei|Medida Provisória", ns):
+                    p.update(start="2004-04-30", start_law=None, pinned=True, art15=True)
+        for i, (ur, lab, side, law, old, new, n) in enumerate(_EFF58):
+            lab, pre = lab if isinstance(lab, tuple) else (lab, None)
+            for p in paras:
+                if (p["heading"] or not re.fullmatch(ur, p["unit"]) or (lab is not None and p["label"] != lab)
+                        or p.get(side + "_law") != law or (pre and not P.norm(p["text"]).startswith(pre))):
+                    continue
+                if p.get(side) == old:
+                    p[side], p["pinned"], p["eff58_" + side] = new, True, i
+        # Medida Provisória 413/2008 art. 16 (alcohol): never in effect (Lei 11.727 art. 41 parágrafo único keeps the earlier
+        # regime until its own art. 16 takes effect, 1.10.2008)
+        for p in paras:
+            if (not p["heading"] and p.get("start_law") == "mp-413-2008" and p["unit"] in ("art-08", "art-15", "art-17")
+                    and p["label"] in ("§ 19", "V -")):
+                p.update(skip=True, pinned=True, end_how="never-in-effect", mp413_16=True)
+        # art. 28 parágrafo único: Lei 11.727's wording (art. 34, effects 1.1.2009) was replaced by Lei 11.774's on 18.9.2008,
+        # before it took effect; Medida Provisória 428's wording stays to 17.9.2008
+        for p in paras:
+            if p["unit"] != "art-28" or p["heading"] or p["label"] != "Parágrafo único":
+                continue
+            if p.get("start_law") == "lei-11727-2008" and p.get("start") == "2008-06-24":
+                p.update(skip=True, pinned=True, end_how="never-in-effect", pu28=True)
+            elif p.get("start_law") == "mp-428-2008" and p.get("end_law") == "lei-11727-2008":
+                p.update(end="2008-09-18", end_law="lei-11774-2008", end_how="successor", pinned=True, pu28=True)
+        if record:
+            cnt: dict = {}
+            for p in paras:
+                for side in ("start", "end"):
+                    k = p.get("eff58_" + side)
+                    if k is not None and p.get(side) == _EFF58[k][5]:
+                        cnt[k] = cnt.get(k, 0) + 1
+            for i, row in enumerate(_EFF58):
+                L10865_EFF58[i] = cnt.get(i, 0)
+                if cnt.get(i, 0) != row[6]:
+                    B8.SPAN_MISSED.append(f"{_L10865} effect days {row[0]} {row[1]} {row[2]} {row[3]}: {cnt.get(i, 0)} lines, "
+                                          f"{row[6]} expected")
+            for k, n in (("mp413_16", 3), ("pu28", 2), ("art15", 18)):
+                got = sum(1 for p in paras if p.get(k))
+                L10865_EFF58[k] = got
+                if got != n:
+                    B8.SPAN_MISSED.append(f"{_L10865} {k}: {got} lines, {n} expected")
+            got = sum(1 for p in paras if p.get("mp164"))
+            L10865_EFF58["mp164"] = got
+            if got != 29:
+                B8.SPAN_MISSED.append(f"{_L10865} Medida Provisória 164 lines: {got}, 29 expected")
+
+    _span_fixL10865m = B8.apply_span_fix
+
+    def _apply_span_fix_l10865m(paras, act_slug, record):
+        _span_fixL10865m(paras, act_slug, record)
+        if act_slug == _L10865:
+            _mp164_model(paras, record)
+            _eff58_model(paras, record)
+
+    B8.apply_span_fix = _apply_span_fix_l10865m
+    EXTRA.append(
+        "Lei 10.865 art. 45 ('Os arts. 8º, §§ 1º a 3º, 5º, 8º e 9º, 16, 17 e 22 desta Lei, relativamente às alterações nos "
+        "dispositivos da Medida Provisória nº 164, de 29 de janeiro de 2004, produzem efeitos a partir de 1º de agosto de "
+        "2004'): from 1.5.2004 (Medida Provisória 164's own effects day, its art. 27) to 31.7.2004 the history shows the law "
+        "as it then stood, a mix: art. 8 carries Medida Provisória 164's §§ 1º, 2º, 3º, 5º, 8º and 9º (read on its page) "
+        "alongside the Lei's caput, § 4º, §§ 6º and 7º and §§ 10 to 13, and arts. 16 and 17 are wholly the Medida "
+        "Provisória's; Lei 10.925/2004's changes in force on its publication (26.7.2004) apply on top of that; from 1.8.2004 "
+        "the Lei's own wording of those paragraphs and articles takes over, credited to Lei 10.865. The Lei's art. 22 starts "
+        "on 1.8.2004 (art. 45), as arts. 44 § 1º and 46 to 47 with their own days; Medida Provisória 164's art. 22 amended "
+        "another law (Lei 9.718 art. 4) and is not part of this act's history")
+    EXTRA.append(
+        "Lei 10.865 art. 15: Planalto prints the caput with the note '(Redação dada pela Lei nº 11.727, de 2008)' and no "
+        "earlier wording; Lei 11.727's text changes art. 15 only in § 8º (incisos V and VI, arts. 16 and 37) and does not "
+        "reword the caput, so the note is not supported by the amending law's text and the caput, with the incisos and "
+        "paragraphs that carry no note of their own, is the Lei's text from 1.5.2004 (as Lei 9.532 art. 2 § 2º, where "
+        "the law's text governs over Planalto's note); inciso V in Lei 11.196/2005's wording starts on 1.12.2005")
+    EXTRA.append(
+        "Lei 10.865, effect days read in each amending act and set on the lines: Lei 10.925/2004 art. 17 I d) and art. 16 II "
+        "b) (art. 8 § 7º in its wording, and the revocation of art. 17 §§ 1º and 4º and art. 26, from 1.11.2004; its other "
+        "changes on publication, 26.7.2004); Lei 11.196/2005 art. 132 III b) (art. 15 from 1.12.2005) and V c) with art. "
+        "133 VI (art. 8 § 15, added by its art. 58, and the revocation of § 12 VIII, from 1.3.2006; its art. 40 date, "
+        "14.10.2005, is before publication, so publication is kept); Medida Provisória 413/2008 art. 18 II (its art. 3, art. 8 "
+        "§§ 17 and 18, from 1.5.2008); its art. 16 (alcohol: art. 8 § 19, art. 15 § 8º V, art. 17 V) never took effect: "
+        "Medida Provisória 425/2008 tied it to a later act of the Receita Federal, and Lei 11.727/2008 art. 41 parágrafo único "
+        "kept the earlier regime until its own art. 16 took effect; Lei 11.727 art. 41 IV (its art. 16 from 1.10.2008), VII "
+        "(its arts. 34 and 37: art. 8 § 12 XIII, art. 15 § 8º VI, art. 17 caput and VI, art. 28 XIII, from 1.1.2009) and "
+        "art. 42 IV b) (revocation of art. 8 § 7º and art. 15 §§ 9º and 10 from 1.1.2009), as Lei 11.827/2008 worded them; "
+        "its art. 3 date (1.5.2008) is before publication, so publication is kept; art. 28 parágrafo único in its wording "
+        "(art. 34) never took effect, since Lei 11.774/2008 reworded it on 18.9.2008, so Medida Provisória 428/2008's "
+        "wording runs to 17.9.2008; Medida Provisória 451/2008 art. 22 I d) (art. 15 §§ 11 and 12 from 1.1.2009) and II c) "
+        "(art. 16 § 2º from 1.4.2009); Lei 11.945/2009, its conversion, dates them before its publication, so publication is "
+        "kept; Lei 12.058/2009 art. 48 (its art. 42, arts. 8 and 28, from 1.1.2010); Medida Provisória 656/2014 art. 55 I "
+        "(its art. 3, art. 8 § 12 XL and art. 28 XXXVII, from 1.1.2015); Lei 13.097/2015 art. 168 III and art. 169 III c) "
+        "(its art. 38, art. 17, and the revocation of art. 8 §§ 6º and 6º-A, art. 15 § 8º VI and §§ 11 and 12, art. 17 VI and "
+        "§ 3º, from 1.5.2015; its art. 1 date, 1.1.2015, is before publication, so publication is kept); Lei 13.169/2015 art. "
+        "17 II (its art. 15 from 1.2.2016); Lei 14.784/2023 art. 7 II (its art. 3, art. 8 § 21 caput, from 1.4.2024). Medidas "
+        "Provisórias 545/2011 and 564/2012 are in force on publication for their changes to this act")
+
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
     SRC.write_text('{\n "fetch": []\n}\n', encoding="utf-8", newline="\n")
