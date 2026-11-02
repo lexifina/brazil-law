@@ -3506,7 +3506,7 @@ if any(a["slug"] == _LRDC for a in ACTS):
                       "arts. 1º, 2º, 3º, 4º, 5º e 10, a partir do dia 10 de janeiro de 2012' (DOU 23.11.2011): its art. 4 (Lei "
                       "12.462 art. 63) takes effect on 10.1.2012")
     P.VIGENCIA_FIXED["lei-12688-2012"] = (
-        "2012-07-19", "art. 34: 'Esta Lei entra em vigor: [...] III - a partir de 1º de junho de 2012, quanto ao disposto no art. "
+        "2012-07-19", "art. 36: 'Esta Lei entra em vigor: [...] III - a partir de 1º de junho de 2012, quanto ao disposto no art. "
                       "30; IV - na data de sua publicação, em relação aos demais artigos' (DOU 19.7.2012): its art. 28 (Lei "
                       "12.462 arts. 1 and 43) falls under IV")
     for _n in ("Incluído", "Redação dada"):

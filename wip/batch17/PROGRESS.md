@@ -4523,3 +4523,85 @@ LC 214 futuro, MP 563 and Lei 13.670 days), corpus.d/99-batch17zzzzm.json + .PUB
 corpus.d/99-batch17zzzzn.* exists. Claim released.
 TO DO: Lei 12.546 a) rest, the MP 774 art. 8 pairing, c), d), g), then the annexes; then the rest of the ranked list.
 OPEN / DATED RE-CHECKS unchanged.
+
+## Sixty-first session (2026-11-02): Lei 12.546 (zzzzn) articles finished and PUBLISHED with the Anexos held back
+Claim taken at the start ('gitlaw-BR-61 alan-dell 2026-11-02T16:47Z', setup61.py through rr61/run.py, PID 31268), released at
+the end (finish61.py). Scratch: .gitlaw-scratch/brazil-b44 (before61/ = session-start copies, same set as before60/); logs61/
+(n1-n4 = trials, zzzzn-t1..t4.json; sp1 = spansj dump, sp2/sp3 = sp61 dumps with gaps and flags; tx1/tx2 = text dumps into
+txt61/; vg1 = clause reads; an1 = annex survey; uc1/uc2 = uncredited-change check; fb1 = final build); pids61.txt; edits61/
+(mk-a..mk-e.py -> mk-a..mk-e.json = the parser specs, mk-rows.py -> rows-zzzzn.json; every spec JSON written and applied by
+ed61.py through run.py; session61.md = this text). New tools: mk61.py (60 -> 61 copies, run through run.py directly), ed61.py
+(now takes a .py spec source, writes the JSON spec into edits61/ and applies it; NEW:<path> creates a file), sp61.py (spans
+dump with gaps + session flags), lg61.py / fl61.py (compact rows / rows by flag), an61.py (annex survey), pl61.py (part
+summary), uc61.py (versions with uncredited changes), wt61.py (wait for pipe.sh's last line), install61.py, finish61.py.
+Requests: none (no network of any kind; every page read was cached). No Common Crawl, LexML, Arquivo.pt, archive.org, STF or
+live Planalto; no challenge page.
+
+### Lei 12.546 (zzzzn): done this session (block 'part zzzzn, sixty-first session' before SRC in parse_batch17.py)
+- a) line effect days (_EFF61, expected count per row, all matched): art. 52 § 3º (art. 7 §§ 3º-5º, art. 8 III-V from
+  1.4.2012, credited to Lei 12.546 as the § 5º gate); Lei 12.715 art. 78 § 2º II (art. 7 III, art. 8 § 3º and its 10 incisos
+  from 1.1.2013); MP 601 art. 7 I by provision (VIGENCIA_PROVISION mp-601-2012 on art-03/08/09 = 28.12.2012, so the
+  anachronism check passes) and its other art. 8 lines set back to 1.4.2013 (art. 7 III); Lei 12.844 art. 49 II a) (art. 7
+  IV, art. 8 caput, § 3º XI-XII, § 4º from 1.11.2013, predecessors' ends moved) and IV (art. 7 V-VII, art. 8 § 3º XIII-XVI and
+  § 10 from 1.1.2014; text regexes because art. 7 § 9º IV/V share the labels); Lei 13.043 art. 113 IV a) (art. 7 XII-XIII from
+  1.3.2015). Whole-act days: VIGENCIA_FIXED lei-12794-2013 = 3.4.2013 (art. 21 I reaches back to 1.1.2013: publication kept;
+  MP 582's art. 9 § 1º II now ends 3.4.2013 instead of overlapping to 2018) and lei-12688-2012 = 19.7.2012 (art. 36 IV; it
+  was 1.6.2012 from art. 36 III, which concerns its art. 30). VIGENCIA_PROVISION lei-14020-2020 on art-07/08 = 6.11.2020
+  (art. 33 vetoed, veto overridden, promulgated DOU 6.11.2020). MP 612 art. 28 II: art. 7 V-XI, art. 8 § 3º XIII-XX and § 6º
+  never in effect (20 lines skipped, end_how never-in-effect); Lei 12.794's '(VETADO)' lines run on to Lei 12.844's day
+  (1.1.2014 for art. 7 V-VII / art. 8 § 3º XIII-XVI; 19.7.2013 for art. 7 VIII-XI, revoked by Lei 12.844 art. 50 II, and art.
+  8 § 6º). MP 563 art. 53 IV (arts. 5-6 revoked from 1.1.2013) never took effect: Lei 12.715 art. 79 IV is '(VETADO)'; decision
+  line. Read and found on publication (no change): Lei 12.873 art. 63 III, Lei 12.995 art. 26, MP 634 art. 7, MP 651 art. 50,
+  Lei 13.202 art. 16 (its 1.12.2015 is before publication 9.12.2015), Lei 14.784 art. 7 I, Lei 14.973 art. 50, MP 1.093 art. 3.
+- MP 774 pairing in art. 8 §§ 1º-11: every unskipped line with '(Revogado pela Medida Provisória nº 774, de 2017)' is paired
+  with the later line of the same unit/label/text and the same start law (first copy skipped, second keeps the earlier start
+  and gets the model gaps 1.7-9.8.2017 and 7-9.12.2017); unpaired open-ended ungapped lines are reported (none). The 13.161
+  wording of art. 8 caput and art. 8-A now runs to 1.9.2018 outside the gaps (set in the second span-fix pass, after the
+  date-order rewrites; checked in sp3, rows 242/317). MP 774's art. 3 dates its revocations from 1.7.2017 too, so the 12
+  'repeat' lines (art. 7 I, II, §§ 1º-2º; art. 9 VIII, § 1º, I, II, §§ 4º-6º, § 17) with the builder's gap 30.3-9.12.2017
+  carry the model's two gaps instead. EXTRA decision line.
+- c) diff units: art-08 '§ 10. (VETADO).' was the unpaired first copy (the consolidated page prints the line): gone. art-07
+  (Lei 14.973's wording of § 9º II-V and § 10, read on Lei 14.973's page; the consolidated page prints the older wording) and
+  art-09 (the consolidated placeholder 'IV (Revogado pela Lei nº 14.360, de 2022)'; MP 1.093 art. 2 revoked it 31.12.2021,
+  Lei 14.360 is its conversion): B.EXPLAINED[_L12546].
+- d) MP 556: § 8º-§ 11 26.12.2011 to 1.6.2012 (lapse), the Lei's § 8º 1.6-19.7.2012, Lei 12.688's wording from 19.7.2012;
+  EXTRA decision line.
+- g) PARTS comment, OPEN_ITEMS (Anexos held back), EXTRA line on the Anexos; README row (rows-zzzzn.json + docs.py) and
+  jurisdiction.json; PUBLISH (see below).
+
+### TO DO for the Anexos (not started in code; survey in logs61/an1.log; page txt56/law_lei-12546-2011.txt)
+1. Anexo of MP 563/2012 (lines 3789-4588): title '[- Anexo -]' struck with '(Incluído pela Medida Provisória nº 563, de
+   2012)', but its 778 code lines are printed UNSTRUCK with no note: the reader would take them as current; dated by MP 563
+   (1.8.2012, art. 54 § 2º) and replaced by Lei 12.715's Anexo on 18.9.2012 (its art. 78 § 2º III/IV: some codes from the
+   first day of the fourth month after 18.9.2012, i.e. 1.1.2013).
+2. Anexo I, printed twice with identical content (MP 601's denomination 4589-10374, Lei 12.844's 10375-16152): 1,313 code
+   lines each (1,311 struck, 2 plain) with one note per code: Lei 12.715 828, MP 582 367, Lei 12.794 357 (its conversion:
+   pair MP 582's codes with Lei 12.794's, VIGENCIA 1.1.2013 / 3.4.2013), MP 601 66, Lei 12.844 65 (art. 49 II a): from
+   1.11.2013), MP 612 19 (+7 'Vide', 2 'Redação dada'), 11 '(VETADO)', 1 'Subtraído pela Lei nº 12.794', 1 '(EXCETO OS
+   CÓDIGOS 3006.30.11 E 3006.30.19)'. Keep one copy; the two denominations are a title change, dated by MP 601 (1.4.2013) /
+   Lei 12.844.
+3. Removals with no per-code note: Lei 13.043 art. 51 (exclusions, 'Vide Lei nº 13.043' once; art. 113 IV a): from
+   1.3.2015), MP 582 / Lei 12.794 art. 2 II ('Subtraído'), MP 651 if any: read each act's own list.
+4. Anexo II (16153-16249, CNAE classes of art. 8 § 3º XII): MP 601 (1.4.2013, lapsed 4.6.2013), then Lei 12.844 (1.11.2013,
+   art. 49 II a)); no code lines matched an61's pattern (CNAE format): read the block by hand.
+5. All revoked 1.9.2018 by Lei 13.670 art. 12 II c), with the MP 774/794 gaps (1.7-9.8.2017, 7-9.12.2017).
+6. Model as one unit per Anexo (or one per code?), replay against each act's own annex text (txt59 has MP 563, MP 582, MP
+   601, MP 612, Leis 12.715, 12.794, 12.844; dump Lei 13.043 art. 51 and Lei 13.161 if needed); the replay at 31.8.2018 must
+   equal the last printed list exactly, else keep held. Then re-PUBLISH zzzzn, update the README row and drop the held-back
+   decision line and open item.
+
+- PIDs (all mine, all exited): pids61.txt (mk61 37516 through run.py directly; every rr61 run with its PID; pipe.sh zzzzn
+  twice as background tasks of mine (run.py PIDs in their output); waits of mine wt1/wt2 (wt61 through rr61); a mistaken
+  'wait61.py 0' (wt3) whose shell task I stopped with TaskStop: its read-only child (tasklist polling, no network) may run
+  to its own 30-minute limit and exit; its PID was never printed, so nothing was killed; fb1 as a background rr61 run). Outside the
+  wrappers (slips, no network): a `head`/`ls` of PROGRESS.md and the folder at the start, `cat`/`ls`/`grep` of scratch tools
+  and logs; awk/grep filtering of one rr61 output (rw1); `| head -0` on one sl61 run with an empty heredoc to /dev/null; a
+  `python -c` editing my own sp61.py/lg61.py. Reads otherwise with the Read/Grep tools. Every parser edit went through ed61.py
+  under run.py.
+
+## State at handoff (batch 17, sixty-first session, 2026-11-02)
+PUBLISHED: part zzzzn, Lei 12.546/2011 articles (39 versions, one on futuro; e80e3081), the Anexos held back with a decision line and an open item. Installed: 309 acts, 4324 versions, 2962 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws 0; dupsame 0; README row + jurisdiction.json current.
+Files changed: parse_batch17.py (zzzzn sixty-first-session block; PARTS comment; OPEN_ITEMS), corpus.d/99-batch17zzzzn.json + .PUBLISH (new), repo/README.md, repo/jurisdiction.json, PROGRESS.md, this file. Claim released.
+FOR THE COORDINATOR: (1) the articles are published with the Anexos held back (precedent: Leis 9.986 and 11.182's Anexos are not part of the history); confirm, or ask for the act to be held until the Anexos replay; (2) another block's VIGENCIA_FIXED text for lei-12688-2012 (the Lei 12.462 part, near line 3508) cites 'art. 34' for the vigência clause, which is art. 36 on Lei 12.688's page (wording only, its day 19.7.2012 is right).
+TO DO: the Anexos of Lei 12.546 (list above), then the rest of the ranked list.
+OPEN / DATED RE-CHECKS unchanged.
