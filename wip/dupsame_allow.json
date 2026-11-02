@@ -798,6 +798,30 @@
    "unit": "titulos",
    "line": "Baixa de Bens do Ativo Imobilizado",
    "why": "Seção IV: Subseções II (before art. 44) and III (before art. 49) each have this rubric, as printed on both Planalto pages"
+  },
+  {
+   "act": "lei-do-bem",
+   "unit": "art-43",
+   "line": "........................................................................................\" (NR)",
+   "why": "a quoted amendment of several articles of another law closes each with the same elision line and '(NR)'"
+  },
+  {
+   "act": "lei-do-bem",
+   "unit": "art-44",
+   "line": "........................................................................................\" (NR)",
+   "why": "a quoted amendment of several articles of another law closes each with the same elision line and '(NR)'"
+  },
+  {
+   "act": "lei-do-bem",
+   "unit": "art-113",
+   "line": "........................................................................................\" (NR)",
+   "why": "a quoted amendment of several articles of another law closes each with the same elision line and '(NR)'"
+  },
+  {
+   "act": "lei-do-bem",
+   "unit": "art-118",
+   "line": "........................................................................................\" (NR)",
+   "why": "a quoted amendment of several articles of another law closes each with the same elision line and '(NR)'"
   }
  ]
 }
