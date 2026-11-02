@@ -12091,7 +12091,7 @@ if any(a["slug"] == _LCOFINS for a in ACTS):
     P.MP_PENDING["mp-2158-2001"] = (
         "Medida Provisória nº 2.158-35, de 24.8.2001 (DOU 27.8.2001), kept in force by Emenda Constitucional 32/2001, art. 2; "
         "its art. 93 II revokes 'a partir de 30 de junho de 1999' a) art. 6 I and III and b) art. 7 of Lei Complementar 70 "
-        "(and Lei Complementar 85/1996), a day before its own publication: a retroactive revocation, so it keeps the MP's "
+        "(and Lei Complementar 85/1996), a day earlier than its own publication: a retroactive revocation, so it keeps the MP's "
         "in-force day. Planalto's notes name this edition only; earlier editions of the chain are not modelled")
     # Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] III - os seguintes
     # dispositivos da Lei Complementar nº 70, de 30 de dezembro de 1991: a) os arts. 1º a 6º; e b) os arts. 9º e 10'):
