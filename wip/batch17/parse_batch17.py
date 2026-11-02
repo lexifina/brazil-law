@@ -7728,6 +7728,30 @@ _W_OTHER = ("Lei 11.196, other effects clauses: art. 60 is revoked by Lei 12.995
             "8.10.2025, and Planalto's page of Lei 11.196 prints only a struck reference to it")
 
 
+_sfBEM = B7.stale_fix.fix
+_W70_PU = ("Lei 11.196 art. 70 parágrafo único II a) and b) (December 2007) stand from 2005: the rule that sets aside a second "
+           "copy of a wording paired them with the struck a) and b) of art. 70 II (IOF), whose parent has the same label 'II -'")
+
+
+def _sf_bem(core, paras, slug, *a, **k):
+    """art. 70: the parágrafo único's II a) and b) are not copies of caput II's a) and b) (see _W70_PU)"""
+    res = _sfBEM(core, paras, slug, *a, **k)
+    if slug == _LBEM:
+        for p in paras:
+            if (p["unit"] == "art-70" and p.get("end_how") == "twin" and p["start"] == "2005-11-22" and p["end"] is None
+                    and p["text"].startswith(("a) até o 3º (terceiro) dia útil do 2º (segundo) decêndio",
+                                              "b) até o último dia útil do 1º (primeiro) decêndio do mês de janeiro de 2008"))):
+                p.update({"skip": False, "end_how": None, "pinned": True})
+                lab = f"{_LBEM} art-70 [{p['label']}] second copy left out"
+                B7.stale_fix.USED["B"][:] = [x for x in B7.stale_fix.USED["B"] if x != lab]
+                if _W70_PU not in EXTRA:
+                    EXTRA.append(_W70_PU)
+    return res
+
+
+B7.stale_fix.fix = _sf_bem
+
+
 def _bem_block(rows, first, whole):
     hit = [k for k, p in enumerate(rows) if B8._norm(p["text"]).startswith(B8._norm(first))]
     if len(hit) != 1:
