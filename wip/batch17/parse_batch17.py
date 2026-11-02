@@ -8922,6 +8922,9 @@ if any(a["slug"] == _LCC16 for a in ACTS):
     _CC16_OWN_ENDS = ("note", "lapse", "twin", "promulgation", "conversion", "run-revoked")
     # (unit, last label key) of the whole provisions Decreto 3.725/1919 art. 3 suppresses with no note on the page
     _CC16_SUPPRESSED = {("art-1372", (1, "1")), ("art-1787", (0, "caput"))}
+    # (unit, text start) of the whole items Decreto 3.725/1919 art. 3 adds that the page prints with no note
+    _CC16_DEC_ADDED = (("art-0178", "XIII. A acção do adoptado"), ("art-0178", "VI. A acção do filho natural"),
+                       ("art-0242", "IX. Acceitar mandato"), ("art-0391", "IV. Os bens que ao filho couberem"))
 
     def _cc16_model(paras, record):
         """the end of every wording on the all-struck 2026 page (forty-fifth session, the coordinator's reading): a line
@@ -8988,6 +8991,24 @@ if any(a["slug"] == _LCC16 for a in ACTS):
                 elif record:
                     CC16_USED.setdefault("tag-pair-unlisted" if pair else "tag-alone-listed" if unit in dec
                                          else "tag-alone-unlisted", []).append(tag)
+            # the shared rule for unlabelled rows ('Pena - ...') gave 1916 lines the start of a later wording above them
+            # (art. 12 II-IV, Lei 6.515/1977's I; art. 178 § 6º X-XIII, Lei 2.923/1956's IX): the 1916 lines carry their
+            # numerals in the text, so each is a wording of its own label from 1.1.1917 (decision _W_CC16_ROWS)
+            for p in ps:
+                k = p["cc16_path"][-1] if p.get("cc16_path") else None
+                if (k and k[1] != "cont" and k[0] >= 2 and not p["notes"] and p["start_law"] and p["start"] > _CC16_DAY
+                        and not p.get("cc16_dec") and not p.get("skip") and p["state"] != "plain"
+                        and b3 is not None and any(x.startswith(f"CC16 {unit} {p['text'][:40]!r}") for x in b3.ROWS)):
+                    p.update({"start": _CC16_DAY, "start_law": None})
+                    if record:
+                        CC16_USED.setdefault("rows", []).append(f"{unit} {p['text'][:40]!r}")
+            # whole items the decree adds ('Accrescente-se') that the page prints with no note: from its day
+            for p in ps:
+                if (any(unit == u and P.norm(p["text"]).startswith(t) for u, t in _CC16_DEC_ADDED) and not p["notes"]
+                        and p["start"] == _CC16_DAY and not p.get("skip")):
+                    p.update({"start": _CC16_DAY3725, "start_law": "dec-3725-1919", "cc16_dec": True})
+                    if record:
+                        CC16_USED.setdefault("dec-added", []).append(f"{unit} {P.norm(p['text'])[:30]!r}")
             # art. 35 §§ 3º and 4º: the decree's 'O § 1º passa a ser § 3º ... o § 2º passa a ser § 4º'; the page prints
             # them only in that numbering (the § 3º noted 'Renumerado do § 1º'), so they start on the decree's day
             # (decision _W_CC16_ART35)
@@ -9160,6 +9181,11 @@ if any(a["slug"] == _LCC16 for a in ACTS):
             n = len(b7.NEXT_WORDING_USED)
             b7.NEXT_WORDING_USED[:] = [x for x in b7.NEXT_WORDING_USED if not x.startswith(_LCC16 + " ")]
             CC16_USED["nw-dropped"] = [n - len(b7.NEXT_WORDING_USED)]
+        # likewise the unlabelled-row starts _cc16_model set back to 1.1.1917
+        b3 = sys.modules.get("parse_batch3")
+        rows = set(CC16_USED.get("rows", []))
+        if b3 is not None and rows:
+            b3.ROWS[:] = [x for x in b3.ROWS if not any(x.startswith("CC16 " + r) for r in rows)]
         dec = _cc16_decree_units()
         one = list(dict.fromkeys(CC16_USED.get("tag-alone-listed", [])))
         unl = list(dict.fromkeys(CC16_USED.get("tag-alone-unlisted", [])))
@@ -9189,6 +9215,10 @@ if any(a["slug"] == _LCC16 for a in ACTS):
             B5.EXTRA_DECISIONS.append(_W_CC16_332 + ".")
         if CC16_USED.get("note1605"):
             B5.EXTRA_DECISIONS.append(_W_CC16_1605 + ".")
+        if rows:
+            B5.EXTRA_DECISIONS.append(_W_CC16_ROWS.format(n=len(rows)) + ".")
+        if CC16_USED.get("dec-added"):
+            B5.EXTRA_DECISIONS.append(_W_CC16_ADDED + ".")
         return _innerCC16(*a)
 
     B6.PB5B._write_part5 = _inner_cc16
