@@ -3460,3 +3460,120 @@ TO DO (ranked list, items 2-3 done): 4 Lei 8.171/1991 (política agrícola); 5 L
 Complementar 73/1993 (AGU); 7 Lei 5.250/1967 (Lei de Imprensa, ADPF 130); 8 Lei 7.170/1983 (LSN, revoked by Lei 14.197/2021); 9 Lei
 6.194/1974 (DPVAT); 10 heavy tax: Leis 10.865/2004, 9.532/1997, 12.546/2011. One act per part, survey first (none surveyed yet).
 OPEN / DATED RE-CHECKS unchanged.
+
+## Fiftieth session (2026-11-02): MP 601 lapse note re-PUBLISHED (zj, zzzze); ranked items 4, 5, 6, 8 PUBLISHED (zzzzf-zzzzi)
+Claim taken at the start ('gitlaw-BR-50 alan-dell 2026-11-02T09:58Z'), released at the end. Scratch: .gitlaw-scratch/brazil-b44
+(before50/ = session-start copies, taken before any edit: parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json,
+dupsame_allow.json, effects_fix.py, README.md, jurisdiction.json, PUBLISH, firstline.py, pipe.sh, both PROGRESS.md, corpus.json and
+every corpus.d file); logs50/ (pipe-zj1, pipe-zzzze1, pipe-f1, pipe-g1, pipe-h1, pipe-i1 .out = the pipe.sh runs; rb1 = merged build
+with both new zj/zzzze; fb1 = merged build of the installed folder after their re-PUBLISH); pids50.txt; new tools: setup50.py,
+rr50.py, bdiff50.py, finish50.py, lawscan50.py (a law key's record in every file that carries it), shared50.py (every shared law
+record with a note, flagged when its own words name an act), sdiff50.py (the differing middle of two strings at JSON paths),
+chain50.py (a pre-2001 MP reissue chain, Antigas/ or antigas_2001/, with a regex per edition), mkd50.py, mv50.py, app50.py.
+bdiff50.py was run after every edit of parse_batch17.py (bd1-bd10); effects_fix.py is unchanged (+0 -0 every time).
+Requests: robots.txt of archive.org (200: Disallow /control/ /report/) and web.archive.org (404) first (b44/robots50/); then
+archive.org only, through the shared client (iaonly.py): `pages` l8171, lcp97, lcp97-compilado, lcp73, l5250, l7170, l6194 (7 page
+pins); `laws l8171` (18 law pins) + act-scoped `missing` (1); `laws lcp97` (2), `missing` (0); `laws l7170` (0); chain50.py: MP
+1.956-50 .. 1.956-57, 2.080-58 (2000), 2.080-59 .. 2.080-64, 2.166-65, 2.166-66 (2001) (17 pins; one miss: 2.080-59 asked under
+Antigas/, then read under antigas_2001/). No LexML, no Common Crawl, no Arquivo.pt, no live Planalto, no challenge page.
+### 1. Coordinator decision: MP 601 lapse note (re-PUBLISHED zj and zzzze)
+- parse_batch17.py: both MP_LAPSE['mp-601-2012'] texts (zj block and zzzze block) now end "'; the wordings it gave end on
+  4.6.2013" (was "the wordings it gave Lei 9.718 end on 4.6.2013"); a comment at each says why (one shared record, uniqlaws).
+  Only zj and zzzze carry mp-601-2012-fim (lawscan50.py over corpus.json + every corpus.d part).
+- Unit-level diff (jdiff.py / sdiff50.py, installed vs new): zj: every act, version and line identical; changes = the law record
+  note mp-601-2012-fim, the MP-fate decision sentence that repeats it, and sources[0].notes's pin count ('163 pages' -> '292
+  pages', the parser counts today's sources_batch17.json) with sources[0].requests 270 -> 563; zzzze: only the note and the
+  decision sentence. pipe.sh: zj 4a367316 x2, 0 problems (each pipe's own uniqlaws showed 1 = the other part still old, as
+  expected); zzzze 42fa4fe5 x2, 0 problems; with both new parts in place: uniqlaws 0 (uq1), dupsame 0, merged build 300 acts, 4131
+  versions, 2877 commits, check 0/0, --compare identical, audit_push clean (rb1). reinstall.py: zj a9ae6753 -> 4d9f9f90, zzzze
+  168fbde6 -> 9d842732; each .PUBLISH keeps its lines + a fiftieth-session line (b44/publish-zj50.txt, publish-zzzze50.txt).
+  Merged build of the installed folder (fb1): 300/4131/2877, 0/0, identical, audit clean.
+- Other shared law records with the same pattern (shared50.py, 31 shared records with notes; NOT edited, for the coordinator):
+  * mp-703-2015-fim (99-batch5b Lei 12.846 Anticorrupção, 99-batch6 Lei 8.429 Improbidade): "the Lei 12.846 wording it had
+    replaced or revoked is back from 30.5.2016" names Lei 12.846 in Lei 8.429's part too.
+  * mp-75-2002-fim (99-batch17k Lei 9.430, 99-batch9 Código de Trânsito): "its wording of Código de Trânsito arts. 285 and 288
+    stands until the rejection was published" names the CTB in Lei 9.430's part too.
+  * borderline: mp-814-2017-fim (99-batch17zzr, zzw): "the provision it had revoked is back from 2.6.2018" (singular, names no
+    act; true for each part only if each lost one provision).
+### 99-batch17zzzzf - PUBLISHED: Lei 8.171/1991 (lei-da-politica-agricola, LPAgr, 25 versions 1991-01-18 .. 2026-09-30)
+- Survey: annotated page l8171 (capture 20261024004938, no compiled page on Planalto: the page is its own check, as zzzg), 97
+  notes over 23 acts: Leis 9.272/1996, 9.712/1998, 9.972/2000, 10.228/2001, 10.246/2001, 10.298/2001, 10.327/2001, 10.990/2004,
+  11.718/2008, 11.775/2008 (conv. MP 432/2008), 12.058/2009, LC 137/2010, 12.805/2013, 13.158/2015, 13.901/2019 (conv. MP
+  886/2019), 14.515/2022, 15.077/2024, 15.223/2025, 15.490/2026, 15.526/2026 (seguro rural; renames Cap. XV 'DO SEGURO RURAL',
+  rewrites art. 56 and writes '§ 1º (Revogado).' itself), MP 1.956-49/2000.
+- Config: PAGES l8171; act (3 digits); PARTS zzzzf; ACT_DAY_ALL lei-8171-1991 18.1.1991 (art. 107; 'rectified 12.3.1991');
+  ACT_LAWS_ALL lei-8171-1991 (no other part has the record).
+- Block '# part zzzzf': VIGENCIA_FIXED lei-9972-2000 24.8.2000 (art. 12, ninety days from DOU 26.5.2000, counted as Lei 9.966's);
+  CONVERTED_FIX mp-432-2008 -> lei-11775-2008 ('Convertida na L ei'); MP_LAPSE mp-1956-2000 28.5.2000: MP 1.956-49 (DOU 28.4.2000)
+  art. 7 revoked art. 99; its reissue 1.956-50 (26.5.2000, DOU 28.5.2000 edição extra, art. 5 in force on publication) and every
+  later edition to 2.166-67 (read page by page, chain50: no '8.171' in any) drop the revocation; SPAN_FIX art. 99: the first
+  (struck) copy left out as duplicate, the second (unstruck) copy = the 1991 lines with the gap 28.4.2000-28.5.2000 (mp-1956-2000 /
+  mp-1956-2000-fim); paragraphs wrapper: art. 104 caput's 'com a nova redação dada pela Lei n° 7.803, de 1989.' kept as words of the
+  article (the reader had taken it for a bare note, giving 1991 two versions credited to Lei 7.803); EXPLAINED art-099 (§ 1º
+  (Vetado) unstruck twice on the page); OPEN_ITEMS (Vide pointers, rectification not printed).
+- In-force days checked in every amender's own text (multigrep48): all on publication except Lei 9.972 (90 days), Lei 10.990 (no
+  clause: 45 days, 28.1.2005), Lei 12.805 (180 days, 27.10.2013); Lei 12.058 arts. 47-48 and Lei 14.515 art. 51 stagger other
+  articles only (Lei 14.515's art. 49 = Lei 8.171 art. 29-A, under III, on publication).
+- pipe.sh zzzzf (logs50/pipe-f1.out): 26af8bee x2, 0 problems, 0 moves; dupline, dupcheck, firstline, pubgap, ordercheck,
+  quotecheck, missorig 0; leakcheck 1 = art. 56 '§ 1º (Revogado).' as Lei 15.526 art. 2 writes it; latecaput = lines kept under a
+  rewritten caput (arts. 5, 37, 59, 82); uniqlaws 0, dupsame 0, overlap 0; merged 301 acts, 4156 versions, 2896 commits, check 0/0,
+  --compare identical, audit_push clean main + futuro. install.py -> corpus.d/99-batch17zzzzf.json e6dc2f15 + .PUBLISH
+  (b44/publish-zzzzf.txt); docs.py b44/rows-zzzzf.json (README row; jurisdiction.json 301 acts 4156 versions). headyear: no new
+  BAD line against session 48's list.
+### 99-batch17zzzzg - PUBLISHED: Lei Complementar 97/1999 (lei-das-forcas-armadas, LCFA, 3 versions 1999-06-10, 2004-09-03, 2010-08-26)
+- PAGES lcp97 / lcp97-compilado; amended only by LC 117/2004 (DOU 3.9.2004) and LC 136/2010 (DOU 26.8.2010), both in force on
+  publication (read on their pages). Block '# part zzzzg': paragraphs wrapper lifts Planalto's '(ADI 6457)' markers (art. 1 caput,
+  art. 15 caput, §§ 1º-3º) out of the lines (they had leaked into the text); EXPLAINED art-17-a (compiled page: 'Art. 17A.' and the
+  revoked inciso IV kept as a line); OPEN_ITEMS: ADI 6457 changes no words; its judgment record was not read and is not modelled
+  (FOR THE COORDINATOR: model it as a no-words court version, as stf-adi-4917, only with an official record of the judgment day).
+- pipe.sh zzzzg (pipe-g1.out): 98bf4fc4 x2, 0 problems; all file checks 0 except quotecheck 2 ('Autoridade Marítima',
+  'Autoridade Aeronáutica', quoted in the law) and latecaput (arts. 7, 12: kept under a rewritten caput); uniqlaws 0, dupsame 0;
+  merged 302/4159/2899, 0/0, identical, audit clean. install.py 98bf4fc4; docs.py rows-zzzzg.json.
+### 99-batch17zzzzh - PUBLISHED: Lei Complementar 73/1993 (lei-organica-da-agu, LOAGU, 1 version 1993-02-11)
+- PAGES lcp73 (the older law:lc-73-1993 capture has no notes at all; the fresh page pin has only 'Vide' pointers): never amended
+  on Planalto's page. OPEN_ITEMS lists the pointers (Leis 8.682/1993, 9.028/1995, 9.366/1996, 9.469/1997, Decreto 6.120/2007, ADI
+  4.652 on art. 28 III). pipe.sh zzzzh (pipe-h1.out): ab61928a x2, 0 problems; all checks 0 except quotecheck 1 (art. 44's quoted
+  title); merged 303/4160/2900, 0/0, identical, audit clean. install.py ab61928a; docs.py rows-zzzzh.json.
+### 99-batch17zzzzi - Lei 7.170/1983 (lei-de-seguranca-nacional, LSN, 2 versions 1983-12-15, 2021-12-01)
+- PAGES l7170: every line struck after the repeal, one note above the ementa ('Revogado pela Lei nº 14.197, de 2021'); never
+  amended. Block '# part zzzzi': apply_span_fix wrapper ends every line with no end on 1.12.2021, credited to lei-14197-2021,
+  'repealed' (Lei 14.197 art. 4 revokes it; art. 5: ninety days from DOU 2.9.2021; the Código Penal part has the same day);
+  EXTRA decision; OPEN_ITEMS. The page prints 'Il -' / 'Ill -' for II / III in art. 1 (kept as printed).
+- pipe.sh zzzzi (pipe-i1.out): 2b9bba61 x2, 0 problems; every file check, uniqlaws, dupsame, overlap, latecaput 0; merged 304 acts,
+  4162 versions, 2901 commits, check 0/0, --compare identical, audit_push clean main + futuro. install.py -> corpus.d/99-batch17zzzzi
+  .json 2b9bba61 + .PUBLISH (b44/publish-zzzzi.txt); docs.py rows-zzzzi.json (jurisdiction.json 304 acts 4162 versions). Final merged
+  build of the installed folder: logs50/fb2.log.
+### Surveyed, not started
+- Item 7, Lei 5.250/1967 (Lei de Imprensa): page l5250 pinned (11 notes: Decretos-Leis 207/1967, 510/1969, Leis 6.071/1974,
+  6.640/1979, 7.300/1985; header 'Vide ADPF nº 130'). The whole Lei was held not received by the 1988 Constitution in ADPF 130:
+  model as a court law ending every line on the judgment day, which needs an official record of that judgment (not read; the
+  page gives no date). Skipped this session for that reason.
+- Item 9, Lei 6.194/1974 (DPVAT): page l6194 pinned (capture 20261014050243), 48 notes: Leis 8.441/1992, 11.482/2007, MP 451/2008
+  (-> Lei 11.945/2009), and 'Revogado pela Lei Complementar nº 207, de 2024' above the ementa (every line struck). Model = the
+  amendment history + a whole-act repeal as zzzzi; read LC 207's vigência and revocation clause first.
+- Item 10 (Leis 10.865/2004, 9.532/1997, 12.546/2011): not surveyed.
+- PIDs (all mine, all exited; listed in b44/pids50.txt): setup50 55116 through run.py directly; rr50 runs ls1 41860 ... tx10
+  18620 (pids50.txt); pipe.sh runs zj, zzzze, zzzzf, zzzzg, zzzzh, zzzzi as background tasks of mine, each waited on by its own
+  notification (their run.py PIDs: zj 41628 53424 13412 11492 54840 16624 48480; zzzze 42076 35656 39180 55036 11700 23904
+  43760; zzzzf 17800 48644 27728 2148 44060 53852 6972; zzzzg 36868 25936 22748 14372 48844 26648 18916; zzzzh 39608 24512 36884
+  43392 36536 49428; zzzzi in pipe-i1.out); rb1 18800 and fb1 46520 as background tasks of mine. Outside the wrappers (no network):
+  the first bash reads (head/sed/grep/ls/wc/cat) of PROGRESS.md, batch17/PROGRESS.md, BRIEF.md and b44 tools before setup; one
+  stray `python batch17/.tmp/run.py` from the lexifina root before setup (no such file, failed at once, ran nothing); a `cp` of
+  the two installed .PUBLISH files into b44; `cat`/`tail`/`sed`/`grep`/`ls`/`date`/`wc` reads of my own logs, task outputs and
+  page texts; one `sort`/`comm` of headyear BAD lines into /tmp; one `sleep 1`. A relative path in the first mkd50/robots.py runs
+  made ~/Documents/robots50 and txt50 (run.py's cwd); mv50.py moved the two robots files into b44 and removed both
+  directories. Tool-written files (Write/Edit): parse_batch17.py, b44 tools/rows/publish files, this text, PROGRESS.md.
+
+## State at handoff (batch 17, fiftieth session, 2026-11-02)
+PUBLISHED: zj and zzzze re-PUBLISH (MP 601 lapse note names no act; 4d9f9f90, 9d842732); zzzzf (Lei 8.171/1991, e6dc2f15, 25
+versions), zzzzg (LC 97/1999, 98bf4fc4, 3), zzzzh (LC 73/1993, ab61928a, 1), zzzzi (Lei 7.170/1983, 2b9bba61, 2). Installed: 304 acts, 4162 versions, 2901
+commits, check 0/0, compare identical, audit clean main + futuro (fb2); uniqlaws 0,
+dupsame 0; README rows + jurisdiction.json current. Files changed: parse_batch17.py (vs b44/before50: PAGES l8171, lcp97,
+lcp97-compilado, lcp73, l5250, l7170, l6194; acts, PARTS zzzzf-zzzzi, ACT_DAY/ACT_LAWS lei-8171-1991, lc-97-1999, lc-73-1993,
+lei-7170-1983; the two MP 601 lapse texts; blocks '# part zzzzf' .. '# part zzzzi'), sources_batch17.json (+7 page pins, +21 law
+pins, +17 chain pins), corpus.d/99-batch17zj.json, zzzze.json + .PUBLISH (re-PUBLISH), corpus.d/99-batch17zzzzf..zzzzi.json +
+.PUBLISH (new), repo/README.md (+4 rows), repo/jurisdiction.json, PROGRESS.md, this file. effects_fix.py, law_records.json,
+bad_pins.json, dupsame_allow.json, firstline.py, pipe.sh unchanged. Claim released.
+TO DO (ranked list): 7 Lei 5.250/1967 (needs ADPF 130's official judgment record); 9 Lei 6.194/1974 (surveyed: amendments + whole-act
+repeal by LC 207/2024); 10 heavy tax: Leis 10.865/2004, 9.532/1997, 12.546/2011. FOR THE COORDINATOR: mp-703-2015-fim and
+mp-75-2002-fim name one act in a shared record (above); ADI 6457 (LC 97) not modelled. OPEN / DATED RE-CHECKS unchanged.

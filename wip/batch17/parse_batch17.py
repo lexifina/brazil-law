@@ -307,6 +307,10 @@ PAGES.update({
     "l8171": "leis/l8171.htm",
     "lcp97": "leis/lcp/lcp97.htm",
     "lcp97-compilado": "leis/lcp/lcp97compilado.htm",
+    "lcp73": "leis/lcp/lcp73.htm",
+    "l5250": "leis/l5250.htm",
+    "l7170": "leis/l7170.htm",
+    "l6194": "leis/l6194.htm",
 })
 B.PAGES.clear()
 B.PAGES.update(PAGES)
@@ -702,6 +706,12 @@ ALL_ACTS: list[dict] = [
     # fiftieth session (no compiled page: the annotated page is its own consolidated check, as zzzg)
     _act("lei-da-politica-agricola", "LPAgr", "l8171", "l8171", "lei-8171-1991",
          "Política agrícola (Lei nº 8.171, de 17 de janeiro de 1991)", 3),
+    _act("lei-das-forcas-armadas", "LCFA", "lcp97", "lcp97-compilado", "lc-97-1999",
+         "Organização, preparo e emprego das Forças Armadas (Lei Complementar nº 97, de 9 de junho de 1999)", 2),
+    _act("lei-organica-da-agu", "LOAGU", "lcp73", "lcp73", "lc-73-1993",
+         "Lei Orgânica da Advocacia-Geral da União (Lei Complementar nº 73, de 10 de fevereiro de 1993)", 2),
+    _act("lei-de-seguranca-nacional", "LSN", "l7170", "l7170", "lei-7170-1983",
+         "Lei de Segurança Nacional (Lei nº 7.170, de 14 de dezembro de 1983)", 2),
     # read from the capture of 27.10.2015 (before the repeal); its consolidated check is the compiled page of 29.10.2015
     _act("codigo-de-processo-civil-de-1973", "CPC73", "l5869-2015", "l5869compilada-2015", "lei-5869-1973",
          "Código de Processo Civil de 1973 (Lei nº 5.869, de 11 de janeiro de 1973)", 4),
@@ -849,7 +859,10 @@ PARTS: dict[str, list[str]] = {
     # forty-ninth session
     "zzzze": ["lei-10931-de-2004"],
     # fiftieth session
-    "zzzzf": ["lei-da-politica-agricola"],
+    "zzzzf": ["lei-da-politica-agricola"],   # PUBLISHED in the fiftieth session
+    "zzzzg": ["lei-das-forcas-armadas"],
+    "zzzzh": ["lei-organica-da-agu"],
+    "zzzzi": ["lei-de-seguranca-nacional"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1192,6 +1205,12 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
     "lei-10931-2004": ("2004-08-03", f"Lei 10.931/2004 art. 66: {_PUB} (DOU 3.8.2004)"),
     "lei-8171-1991": ("1991-01-18", "Lei 8.171/1991 art. 107: 'Esta lei entra em vigor na data de sua publicação' (DOU "
                                     "18.1.1991, rectified 12.3.1991)"),
+    "lc-97-1999": ("1999-06-10", "Lei Complementar 97/1999 art. 22: 'Esta Lei Complementar entra em vigor na data de sua "
+                                 "publicação' (DOU 10.6.1999)"),
+    "lc-73-1993": ("1993-02-11", "Lei Complementar 73/1993 art. 72: 'Esta lei complementar entra em vigor na data de sua "
+                                 "publicação' (DOU 11.2.1993)"),
+    "lei-7170-1983": ("1983-12-15", "Lei 7.170/1983 art. 34: 'Esta Lei entra em vigor na data de sua publicação' (DOU "
+                                    "15.12.1983)"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1811,6 +1830,13 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "2004-08-02", "2004-08-03", "_Ato2004-2006/2004/Lei/L10.931.htm"),
     "lei-8171-1991": _L("Lei nº 8.171, de 1991", "Dispõe sobre a política agrícola.", "1991-01-17", "1991-01-18",
                         PAGES["l8171"]),
+    "lc-97-1999": _L("Lei Complementar nº 97, de 1999", "Dispõe sobre as normas gerais para a organização, o preparo e o "
+                     "emprego das Forças Armadas.", "1999-06-09", "1999-06-10", PAGES["lcp97"]),
+    "lc-73-1993": _L("Lei Complementar nº 73, de 1993", "Institui a Lei Orgânica da Advocacia-Geral da União e dá outras "
+                     "providências.", "1993-02-10", "1993-02-11", PAGES["lcp73"]),
+    "lei-7170-1983": _L("Lei nº 7.170, de 1983", "Define os crimes contra a segurança nacional, a ordem política e social, "
+                        "estabelece seu processo e julgamento e dá outras providências.", "1983-12-14", "1983-12-15",
+                        PAGES["l7170"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -9901,6 +9927,77 @@ if any(a["slug"] == _L8171 for a in ACTS):
         "Lei 8.171 (open items): 'Vide' pointers (Decreto 175/1991, Decreto 4.623/2003, Medida Provisória 372/2007) and "
         "'(Regulamento)' links strike no words and are not modelled; the rectification of 12.3.1991 is not printed on the page "
         "and is not modelled")
+
+# part zzzzg (fiftieth session): Lei Complementar 97/1999 (Forças Armadas). In force on publication (art. 22, DOU 10.6.1999);
+# amended by Leis Complementares 117/2004 (DOU 3.9.2004) and 136/2010 (DOU 26.8.2010), both in force on publication.
+_LC97 = "lei-das-forcas-armadas"
+if any(a["slug"] == _LC97 for a in ACTS):
+    LC97_USED: dict[str, list[str]] = {}
+    # Planalto prints '(ADI 6457)' after art. 1 caput, art. 15 caput and art. 15 §§ 1º to 3º: a pointer to the court's
+    # judgment, not words of the law; lifted out of the lines (open item)
+    _RX_ADI6457 = re.compile(r"\s*\(\s*ADI\s+6457\s*\)")
+    _paragraphsLC97 = P.paragraphs
+
+    def _paragraphs_lc97(html, digits):
+        out, rest = _paragraphsLC97(html, digits)
+        if B8.CURRENT_PAGE[0] in ("lcp97", "lcp97-compilado"):
+            for q in out:
+                if not q["heading"] and _RX_ADI6457.search(q["text"]):
+                    q["text"] = _RX_ADI6457.sub("", q["text"]).rstrip()
+                    LC97_USED.setdefault("adi", []).append(f"{B8.CURRENT_PAGE[0]} {q['unit']} {q['label']}")
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_lc97
+    B.EXPLAINED[_LC97] = {
+        "art-17-a": "the consolidated page prints 'Art. 17A.' (no hyphen) and keeps inciso IV as the line 'IV – (Revogado pela "
+                    "Lei Complementar nº 136, de 2010).'; the annotated page prints 'Art. 17-A.' and strikes inciso IV and its "
+                    "alíneas, ended by Lei Complementar 136/2010 art. 4 II",
+    }
+    B13.OPEN_ITEMS[_LC97] = (
+        "Lei Complementar 97 (open items): Planalto's '(ADI 6457)' markers after art. 1 caput and art. 15 caput and §§ 1º to "
+        "3º point to the Supremo Tribunal Federal's judgment in that case, which changes no words; the markers are left out of "
+        "the text and the judgment is not modelled (its record was not read)")
+
+# part zzzzh (fiftieth session): Lei Complementar 73/1993 (Lei Orgânica da Advocacia-Geral da União). In force on publication
+# (art. 72, DOU 11.2.1993). Planalto's page has no amendment note: one version.
+_LC73 = "lei-organica-da-agu"
+if any(a["slug"] == _LC73 for a in ACTS):
+    B13.OPEN_ITEMS[_LC73] = (
+        "Lei Complementar 73 (open items): the page has no amendment note, so the history is the text as enacted; its 'Vide' "
+        "pointers (Leis 8.682/1993, 9.028/1995, 9.366/1996, 9.469/1997, Decreto 6.120/2007, and ADI 4.652 on art. 28 III) "
+        "change no words and are not modelled")
+
+# part zzzzi (fiftieth session): Lei 7.170/1983 (Lei de Segurança Nacional). In force on publication (art. 34, DOU 15.12.1983);
+# never amended; revoked by Lei 14.197/2021 art. 4 ('Revogam-se a Lei nº 7.170, de 14 de dezembro de 1983 (Lei de Segurança
+# Nacional) [...]'), in force 90 days after its publication (art. 5, DOU 2.9.2021): 1.12.2021, the day the Código Penal part
+# dates Lei 14.197. Planalto strikes every line after the repeal and notes it only once, above the ementa.
+_LSN = "lei-de-seguranca-nacional"
+if any(a["slug"] == _LSN for a in ACTS):
+    LSN_USED: dict[str, list[str]] = {}
+    _LSN_REPEAL = "2021-12-01"
+
+    def _lsn_repeal(paras, record):
+        for p in paras:
+            if p.get("end") is None and (p.get("skip") or p.get("state") == "struck"):
+                p.update(end=_LSN_REPEAL, end_law="lei-14197-2021", end_how="repealed", skip=False, pinned=True)
+                if record:
+                    LSN_USED.setdefault("ended", []).append(f"{p['unit']} [{p['label']}]")
+
+    _span_fixLSN = B8.apply_span_fix
+
+    def _apply_span_fix_lsn(paras, act_slug, record):
+        _span_fixLSN(paras, act_slug, record)
+        if act_slug == _LSN:
+            _lsn_repeal(paras, record)
+
+    B8.apply_span_fix = _apply_span_fix_lsn
+    EXTRA.append("Lei 7.170/1983 (Lei de Segurança Nacional): revoked by Lei 14.197/2021 art. 4, in force 90 days after its "
+                 "publication (art. 5: 'Esta Lei entra em vigor após decorridos 90 (noventa) dias de sua publicação oficial'; "
+                 "DOU 2.9.2021), 1.12.2021. Planalto strikes every line of the Lei and notes the revocation once, above the "
+                 "ementa ('Revogado pela Lei nº 14.197, de 2021'); every line, never amended, stands from 15.12.1983 and ends "
+                 "on 1.12.2021, credited to Lei 14.197")
+    B13.OPEN_ITEMS[_LSN] = (
+        "Lei 7.170 (open items): the page has no amendment note; the history is the text as enacted, to the revocation")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
