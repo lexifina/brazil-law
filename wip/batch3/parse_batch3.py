@@ -643,6 +643,38 @@ P.paragraphs, P.lifespans, P.apply_rewrites = paragraphs, lifespans, apply_rewri
 # ---------------------------------------------------------------------------------------------------------------
 # the part file
 
+# STF rulings whose record is not the case pages (abaAndamentos) the source entry below otherwise names: the record each
+# part actually read (description, url, url fragments for the request count). A part's STF source entry uses these only
+# when every ruling it carries is listed here; batch 3's and parse_proc's rulings (case pages) are not.
+STF_READ: dict[str, tuple[str, str, tuple[str, ...]]] = {
+    "stf-adi-3964": ("case summary of ADI 3.964 (medida cautelar, Plenário, 12.12.2007)",
+                     "http://www.stf.jus.br/portal/peticaoInicial/verPeticaoInicial.asp?base=ADIN&s1=3964&processo=3964",
+                     ("verPeticaoInicial.asp?base=ADIN&s1=3964", "verPeticaoInicial.asp%3Fbase%3DADIN%26s1%3D3964")),
+    "stf-adi-5948": ("decision in ADI 5.948 (medida cautelar, 29.6.2018)",
+                     "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/ADI5948MCGuardasmunicipais.pdf",
+                     ("ADI5948MC",)),
+    "stf-adc-42": ("Informativo STF 892, on ADC 42 with ADI 4.903 and 4.937 (judgment concluded 28.2.2018)",
+                   "https://www.stf.jus.br/arquivo/informativo/documento/informativo892.htm", ("informativo892",)),
+    "stf-adi-5809": ("decision granting the medida cautelar in ADI 5.809 (18.12.2017)",
+                     "http://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/ADI5809liminar.pdf", ("ADI5809liminar",)),
+    "stf-adpf-130": ("acórdão of ADPF 130 (Plenário, 30.4.2009)",
+                     "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=605411", ("docID=605411",)),
+}
+
+
+def _stf_read_requests(frags) -> int:
+    seen = set()
+    for log in sorted(fetch.CACHE.glob("**/requests.jsonl")):
+        try:
+            lines = log.read_text(encoding="utf-8").splitlines()
+        except OSError:
+            continue
+        for line in lines:
+            u = json.loads(line)["url"]
+            if any(f in u for f in frags):
+                seen.add(u)
+    return len(seen)
+
 
 def _requests() -> tuple[int, int, int]:
     src = sources()
@@ -710,7 +742,15 @@ def write_part(acts_out, laws, decisions, vig_notes, lindb, checks, problems, mp
          "notes": "One URN page per law (urn:lex:br:federal:<kind>:<date>;<number>); used only to check the DOU day "
                   "printed on the Planalto page."}]
     stf = [c for c in P.COURTS.values() if c["kind"] == "court"]
-    if stf:
+    stf_keys = [k for k, c in P.COURTS.items() if c["kind"] == "court"]
+    if stf and all(k in STF_READ for k in stf_keys):
+        read = [STF_READ[k] for k in stf_keys]
+        srcs.append({"name": "Supremo Tribunal Federal: " + "; ".join(r[0] for r in read),
+                     "url": read[0][1] if len(read) == 1 else "https://www.stf.jus.br/", "retrieved": P.RETRIEVED,
+                     "requests": _stf_read_requests(tuple(f for r in read for f in r[2])),
+                     "licence": "Public court records",
+                     "notes": "Read for the day of each ruling and what it struck or suspended, in the record named."})
+    elif stf:
         srcs.append({"name": "Supremo Tribunal Federal: case pages of " + ", ".join(c["label"].replace("STF, ", "")
                                                                                        for c in stf),
                      "url": "https://portal.stf.jus.br/", "retrieved": P.RETRIEVED, "requests": n_stf,

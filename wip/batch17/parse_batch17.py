@@ -9968,6 +9968,9 @@ if any(a["slug"] == _LC97 for a in ACTS):
         "Lei Complementar 97 (open items): Planalto's '(ADI 6457)' markers after art. 1 caput and art. 15 caput and §§ 1º to "
         "3º point to the Supremo Tribunal Federal's judgment in that case, which changes no words; the markers are left out of "
         "the text and the judgment is not modelled (its record was not read)")
+    # coordinator decision (session 52): ADI 6457 is not modelled; say so as a decision
+    EXTRA.append("Lei Complementar 97: the Supremo Tribunal Federal's judgment in ADI 6.457, to which Planalto's '(ADI 6457)' "
+                 "markers point, is not shown in the history, because its record could not be read.")
 
 # part zzzzh (fiftieth session): Lei Complementar 73/1993 (Lei Orgânica da Advocacia-Geral da União). In force on publication
 # (art. 72, DOU 11.2.1993). Planalto's page has no amendment note: one version.
