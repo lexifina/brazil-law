@@ -8721,15 +8721,32 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "necessária, a que se impuser a cláusula de incomunicabilidade (art. 1.723)'), so it is credited to Lei nº 4.121, de "
         "1962")
 
-    # Lei nº 6.952, de 6.11.1981 (art. 134 §§ 1º-5º): its page ends 'Este texto não substitui o publicado no DOU de
-    # 10.11.1973'; signed 'Brasília, em 06 de novembro de 1981', so the year is a misprint (as with Lei 6.745 above)
+    # forty-sixth session: dates the law pages misprint, corrected from the record of each act's original publication
+    # (Diário Oficial da União, Seção 1, as the LexML record cites it). Lei 6.969/1981 and Decreto-Lei 8.207/1945 are
+    # read from their records by page_info itself (their pages print 'DOU de 11.12.1980' and only the CLBR)
     B8.LAW_FIELD_FIX["lei-6952-1981"] = (
         {"published": "1981-11-10"},
         "Lei nº 6.952, de 6.11.1981: Planalto's page ends 'Este texto não substitui o publicado no DOU de 10.11.1973'; the "
-        "act is signed 'Brasília, em 06 de novembro de 1981', so the year is a misprint: published 10.11.1981, in force "
-        "that day (art. 2: 'Esta Lei entrará em vigor na data de sua publicação')")
+        "record of its original publication gives the Diário Oficial da União, Seção 1, of 10.11.1981, p. 21093: "
+        "published 10.11.1981, in force that day (art. 2: 'Esta Lei entrará em vigor na data de sua publicação')")
     P.VIGENCIA_FIXED["lei-6952-1981"] = ("1981-11-10", "in force on its publication, 1981-11-10 (the page misprints the year "
                                                        "as 1973)")
+    B8.LAW_FIELD_FIX["dl-5860-1943"] = (
+        {"enacted": "1943-09-30", "published": "1943-10-02"},
+        "Decreto-Lei nº 5.860/1943: Planalto's page heads it 'de 20 de setembro de 1943', is signed 'Rio de janeiro, 30 de "
+        "setembro de 1943' and cites only the CLBR; the record of its original publication gives Decreto-Lei nº 5.860 of "
+        "30.9.1943, Diário Oficial da União, Seção 1, of 2.10.1943, p. 14721: published 2.10.1943, in force that day (art. "
+        "5: 'A presente lei entrará em vigor na data de sua publicação')")
+    P.VIGENCIA_FIXED["dl-5860-1943"] = ("1943-10-02", "in force on its publication, 2.10.1943 (Diário Oficial da União, per "
+                                                      "the record of its original publication)")
+    P.NOTE_FIX["(Redação dada pela Lei nº 6.515, de 1970)"] = (
+        "(Redação dada pela Lei nº 6.515, de 1977)",
+        "Código Civil de 1916 art. 240: the note reads 'Lei nº 6.515, de 1970' and its link opens Lei nº 6.515 of 26.12.1977, "
+        "whose art. 50 gives art. 240 this wording")
+    for _n in ("(Redação dada pela Lei nº 3.447, de 1957)", "(Incluído pela Lei nº 3.447, de 1957)"):
+        P.NOTE_FIX[_n] = (_n.replace("de 1957", "de 1958"),
+                          f"Código Civil de 1916 art. 649: the note reads '{_n[1:-1]}' and its link opens Lei nº 3.447 of "
+                          "23.10.1958 (DOU 25.10.1958), which gives art. 649 these lines")
 
     def _cc16_decree_units() -> set:
         """the articles Decreto 3.725/1919 art. 3 corrects, read from the decree's page: its items open 'Art. N:' or 'Ao
