@@ -1981,6 +1981,15 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
 for _e in AUTO_ACTS:
     ACT_DAY_ALL.setdefault(_e["law"], tuple(_e["act_day"]))
     ACT_LAWS_ALL.setdefault(_e["law"], dict(_e["law_rec"]))
+# sixty-fifth session, part zzzzr: Decreto-Lei 2.327/1987 (amends Decreto-Lei 2.321/1987) is dated 24.4.1987, but its page
+# closes 'Este texto não substitui o publicado no DOU de 15.4.1987', before it was signed; Planalto's index of
+# Decretos-Leis and LexML's record (urn:lex:br:federal:decreto.lei:1987-04-24;2327: 'Diário Oficial da União. Seção 1.
+# 27/04/1987. p. 5917') give 27.4.1987
+if any(a["slug"] == "decreto-lei-2321-de-1987" for a in ACTS):
+    P.PUBLISHED_FIXED["dl-2327-1987"] = (
+        "1987-04-27", "Decreto-Lei 2.327/1987 (24.4.1987): its page closes 'Este texto não substitui o publicado no DOU de "
+                      "15.4.1987', a day before it was signed; Planalto's index of Decretos-Leis and LexML's record "
+                      "(Diário Oficial da União, Seção 1, 27.4.1987, p. 5917) give 27.4.1987")
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
 B.ACT_LAWS.clear()
