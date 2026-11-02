@@ -8566,6 +8566,13 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
         return _innerCPC73(*a)
 
     B6.PB5B._write_part5 = _inner_cpc73
+    B13.OPEN_ITEMS[_LCPC73] = (
+        "Código de Processo Civil de 1973 (open items): Lei 13.105/2015 art. 1.046 § 1º keeps the 1973 rules on the "
+        "procedimento sumário and the special procedures the new Code revoked for actions filed and not judged before "
+        "18.3.2016, and § 2º keeps the 1973 Code's rules that other laws' procedures refer to; the history, which ends with "
+        "the repeal on 18.3.2016, does not show that survival. Arts. 1.218 and 1.219 keep the procedures of Decreto-Lei "
+        "1.608/1939 they name in force 'até serem incorporados nas leis especiais'; the history shows the articles as "
+        "printed and no incorporation")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
