@@ -4163,3 +4163,96 @@ bad_pins.json (+ law:lei-12456-2011), PROGRESS.md, this file. sources_batch17.js
 ato:adc-67-2017-mpv794, ato:atocn-46-2010-mpv491). No corpus.d/99-batch17zzzzm.* exists. Claim released.
 TO DO: Lei 10.865 f)-j) above, then Lei 12.546/2011, then the rest of the ranked list.
 OPEN / DATED RE-CHECKS unchanged.
+
+## Fifty-seventh session (2026-11-02): Lei 10.865 (part zzzzm) TO DO f), h), i), j)-text done; g) compared, NOT modelled; NOT published
+Claim taken at the start ('gitlaw-BR-57 alan-dell 2026-11-02T15:12Z', setup57.py through rr57/run.py, PID 28988), released at the
+end. Scratch: .gitlaw-scratch/brazil-b44 (before57/ = session-start copies, same set as before56/); logs57/ (m5, m6 = Lei 10.865
+trials; sp1 = spans dump of arts. 7, 8, 15; eff1 = effects_fix on a copy; vig2 = vigência clauses of 45 amenders; cmp1 = MP 164
+against the Lei; ut1/ut2 = unit texts); pids57.txt; edits57/ (mk1.py + spec-a.json + spec-b.json, mk2.py + spec-c.json, applied by
+ed57.py through run.py; session57.md = this text); txt57/ (text dumps of 37 more amenders, cache only); eff57/ (effects_fix copy).
+New tools: mk57.py (56 -> 57 copies), vl57.py (versions and credits of a part), ut57.py (a unit's text on given days), cmp57.py
+(MP 164 vs the Lei, line diff per unit). bdiff57: parse_batch17.py +108 -0 (all inside the '# part zzzzm' block), effects_fix.py
++14 -0 (MOVES '99-batch17zzzzm.json'). law_records.json, bad_pins.json, dupsame_allow.json, firstline.py, pipe.sh, corpus.d, README,
+jurisdiction.json, sources_batch17.json unchanged. No pipe.sh run (g) is open), so nothing was installed.
+Requests: none (no network of any kind this session: every page read was already cached; no robots.txt needed). No LexML, no
+Common Crawl, no Arquivo.pt, no archive.org, no STF, no live Planalto, no challenge page.
+
+### Lei 10.865 (zzzzm): done this session
+- f) B.EXPLAINED[_L10865] (9 units): art-08 (consolidated page joins '§ 6º e 6º-A -', leaves out § 12 XVII (8402.19.00, Usinas
+  Termonucleares, Lei 11.774; the annotated page prints it unstruck, no revoking note), placeholders '§ 20. (Sem eficácia)' (MP
+  491) and 'I-III - Produção de efeito e vigência' (§ 21 I-III, revoked by MP 563)); art-14-a ('(Vgência)' marker left in the
+  consolidated line); art-17 ('§ 3º-A.' printed with no words on both pages, only a Vide note); arts. 21, 24, 34, 37 (dotted
+  quoted lines kept as label-only lines, dropped by the check: as zzzzl art-67); art-28 ('XIX - (Sem eficácia)', MP 491);
+  art-42 (consolidated line cut short).
+- Bug found and fixed: art. 15: MP 668/2015's struck paragraph printed '§ 1º -A.' was labelled '§ 1º' by the reader and
+  displaced the real § 1º from 1.5.2015 (and, once the futuro end was set, from today's text): SPAN_FIX relabels it '§ 1º-A'.
+  § 1º is now in every version from 2008 (checked on 15.5.2015 and today).
+- h) effect days (coordinator's list):
+  * effects_fix '99-batch17zzzzm.json' (2 moves, report eff1): MP 472/2009 art. 29 (art-07 § 1º) 16.12.2009 -> 1.4.2010 (art. 60
+    I c); Lei 13.137/2015 art. 26 VI: art. 8 § 19 and the revocation of § 12 XXXIX (art. 27 VII) 22.6.2015 -> 1.10.2015 (other
+    changes: art. 26 I = 1.5.2015, before publication, kept; II on publication).
+  * by span in the parser (_eff10865 hooked after the REIQ model; effects_fix refuses these because a later change of art. 8
+    comes first): Lei 12.546 art. 52 § 4º: § 21 IV-VI from 1.4.2012 (3 lines); MP 563/2012 art. 54 § 2º + art. 53 II: its § 21
+    caput from 1.8.2012 and Lei 12.546's § 21 caput + I-VI end 1.8.2012 (not 4.4.2012; Lei 12.649 changes art. 8 on 18.5.2012);
+    Lei 13.670/2018 art. 11 I: its § 21 caput + VII-XX from 1.9.2018 and Lei 12.844's § 21 ends 1.9.2018 (same day as MP 836).
+    Counted on the final state (expected 3/1/7/15; a shortfall is a parse problem). One EXTRA decision line.
+  * Lei 12.715/2012 art. 78 § 2º (art. 53 from 1.8.2012, before its publication 18.9.2012): publication kept. LC 228/2026: in
+    force on publication (art. 5, DOU 20.3.2026), no other day; nothing to move.
+- i) futuro: _FUT2027[_L10865] = LC 214 art. 542 XXIII a)-g) (arts. 1-20 with 14-A, 22, 23, 27-31, 34, 36-38, 40, 40-A, 42) from
+  1.1.2027; decision as zzzzl's; lc-214-2025 law record as 14a/zj/zk.
+- j) B13.OPEN_ITEMS[_L10865] (Vide pointers). The PARTS comment 'trial' and the block header's 'TRIAL' stay until g) is done.
+- Trial m6 (zzzzm-t6.json): 820 paragraphs, 57 units, 69 versions, 0 problems, 9 units differ (all EXPLAINED above).
+
+### Lei 10.865: TO DO (next session, in this order)
+  g) art. 45 (MP 164/2004's wording 1.5-31.7.2004). logs57/cmp1.log has the full line diff (cmp57.py txt56/law_mp-164-2004.txt
+     zzzzm-t6.json). Findings:
+     - art. 8: the MP's §§ 1-9 are structured differently from the Lei's: MP § 1º = GLP (2,56%/11,84%) and querosene de aviação
+       (1,25%/5,8%) rates with incisos I-II and alíneas a)-b); MP § 2º = pharmaceuticals AND perfumery together at 2,2%/10,3%
+       (the Lei splits them: § 1º pharma 2,1%/9,9%, § 2º perfumery 2,2%/10,3%); MP § 3º 1,47%/6,79% (Lei 2%/9,6%, and the Lei's
+       caput names 'máquinas e veículos' and 'Nomenclatura Comum do Mercosul - NCM'); MP § 5º 1,43%/6,6% (Lei 2%/9,5%); MP § 8º
+       'produtos referidos no art. 23' (Lei: gasolinas ... querosene de aviação, 'contribuição para o PIS/PASEP e da COFINS');
+       MP § 9º = zero rates (I anexos I e II da Lei 10.485; II posições 27.09, 27.10, 27.11 e 3824.90 'destinados à
+       industrialização'; Lei § 9º = autopeças at 2,3%/10,8%). Caput, § 4º, § 6º, § 7º and §§ 10-13 are not in art. 45, so the
+       Lei's wording of them applies from 1.5.2004 (a hybrid art. 8 for 1.5-31.7.2004: Lei caput/§ 4/§§ 6-7/§§ 10-13 + MP §§
+       1-3, 5, 8, 9). Lines are near-identical only in MP § 2º I-II = Lei § 2º I-II (2,2/10,3) (wording differs: '2,2%,' vs
+       '2,2% (dois inteiros...)').
+     - art. 16: MP 'Ressalvado o disposto no art. 17, é vedada...' without the Lei's parágrafo único.
+     - art. 17: MP caput '§§ 1º a 3º e 5º a 8º', incisos I (§§ 1º e 8º, mistura) and II (§§ 2º, 3º e 5º a 7º); the Lei has I-IV;
+       §§ 1º-5º near the same (references 'desta Lei', full dates); the Lei's '§ 3º-A.' label line.
+     - art. 22: the MP's art. 22 amends only Lei 9.718 art. 4 (I gasolinas 4,23%/19,53%, II diesel 3,51%/16,18%); the Lei's
+       art. 22 amends Lei 9.718 art. 4 (I-III, other rates) and Lei 10.560 art. 2. Art. 22 changes other laws: decide whether to
+       show the MP's art. 22 in Lei 10.865's history or only gate the Lei's art. 22 from 1.8.2004 (as arts. 44 § 1º and 46-47,
+       which concern other laws and were not gated).
+     - Lei 10.925/2004 (DOU 26.7.2004) changes art. 8 and art. 17 before 1.8.2004 (version 2004-07-26): check which lines (its
+       art. 6; art. 17 I d) puts art. 8 § 7º at 1.11.2004, II the rest on publication) and how they meet the 1.8.2004 day.
+     - MP 164 is not a law record of the part yet: add B8.EXTRA_LAWS['mp-164-2004'] (DOU 29.1.2004; its own effects day, read
+       on its page) and credit the MP lines to it; the Lei's lines from 1.8.2004 to lei-10865-2004 ('art. 45').
+     Model: SPAN_FIX/inserted lines as Lei 9.615 art. 55-B (_pele_model) or LC 214's fut_2027 inserts.
+  h2) further deferred effect days found in the amenders' clauses (vig2.log), NOT on the coordinator's list, not yet modelled:
+     Lei 12.058/2009 art. 48 (its art. 42, arts. 8 and 28, from 1.1.2010; effects_fix fits: next changes 14.6/24.6.2010);
+     Lei 11.945/2009 art. 33 I e) (art. 15 §§ 11-12 from 1.1.2009) and II (art. 16 § 2º from 1.4.2009); Lei 11.727/2008 art. 41
+     IV (its art. 16, arts. 8, 15, 17, from 1.10.2008: after Lei 11.774 on 18.9.2008, so by span) and VII (arts. 32-39, among
+     them arts. 34 and 37 on arts. 8, 15, 17, 28, from 1.1.2009); Lei 13.097/2015 art. 168 III / 169 III c) (its art. 38, art. 17,
+     and the revocation of art. 8 §§ 6º-6º-A, art. 15 § 8º VI and §§ 11-12, art. 17 VI and § 3º, from 1.5.2015, the day MP 668
+     changes art. 8: by span); Lei 13.169/2015 art. 17 II (its art. 15, arts. 8 and 28, from 1.2.2016, after MP 694 on 1.1.2016:
+     by span); Lei 11.196/2005 art. 132 (art. 44 on art. 15 from 1.12.2005; the rest of art. 132/133 to read: art. 133 VI
+     revokes § 12 VIII from the 4th month); Lei 14.784/2023 art. 7 II (arts. 3 and 6 from 1.4.2024: check whether its § 21
+     change is art. 3). Not yet read: MPs 413/2008, 451/2008, 545/2011, 564/2012, 656/2014 (vig2.log omitted their long lines).
+     Ask the coordinator whether these belong to this part before PUBLISH (the brief's rule says the effect day counts).
+  then: PARTS comment 'trial' removed, pipe.sh zzzzm (one at a time), dupsame/uniqlaws 0, merged check 0/0 main + futuro,
+     --compare, audit_push, rows-zzzzm.json + docs.py, PUBLISH only when every check is clean.
+  Then Lei 12.546/2011 (NCM tables in scope; must replay exactly or the act is held, with the reason): not started.
+- PIDs (all mine, all exited): pids57.txt (mk57 42060 and cat-mk57 34776 through run.py directly; every rr57 run with its PID).
+  Outside the wrappers (no network): Read/Grep/Glob tool reads of PROGRESS.md, BRIEF.md, batch17/PROGRESS.md, parser and tool
+  lines, page texts and logs; in bash: `mkdir -p logs57` and an `echo >> pids57.txt` before the first run; `grep`/`cut`/`head`
+  on rr57's printed output; one `wc -c` of logs57/cmp1.log (a slip: it should have gone through run.py). Files written with
+  Write: my tools/specs (mk57.py, vl57.py, ut57.py, cmp57.py, edits57/mk1.py, mk2.py, session57.md, finish57.py). Every parser
+  and effects_fix edit went through ed57.py under run.py.
+
+## State at handoff (batch 17, fifty-seventh session, 2026-11-02)
+Nothing published or installed this session. Installed (unchanged): 307 acts, 4207 versions, 2925 commits, check 0/0, --compare
+identical, audit_push clean main + futuro (session 55's fb1). Files changed: parse_batch17.py (part zzzzm block, +108 lines),
+effects_fix.py (+14 lines, MOVES '99-batch17zzzzm.json'), PROGRESS.md, this file. No corpus.d/99-batch17zzzzm.* exists. Claim
+released.
+TO DO: Lei 10.865 g), h2) (with the coordinator), publish; then Lei 12.546/2011; then the rest of the ranked list.
+OPEN / DATED RE-CHECKS unchanged.
