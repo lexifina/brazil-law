@@ -1,0 +1,481 @@
+{
+ "country": "BR-MG-CONTAGEM",
+ "acts": [
+  {
+   "slug": "lei-2026-05775",
+   "short": "Lei 5775/2026",
+   "title": "Lei nº 5.775, de 5 de outubro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5021",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 4,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5021/lei_n.o_5775.2026.pdf",
+     "sha256": "67154c19a4123e8dd81b45fd6a9a15ec4704e58d1ea8a2bb75ba1f5e71de977e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05774",
+   "short": "Lei 5774/2026",
+   "title": "Lei nº 5.774, de 5 de outubro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5020",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5020/lei_n.o_5774.2026.pdf",
+     "sha256": "795292ea2ca81f82d882e166f1a7a248de65655e0bd5f4b89fafa8555bdd9cfe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05772",
+   "short": "Lei 5772/2026",
+   "title": "Lei nº 5.772, de 23 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5012",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5012/lei_n.o_5772.2026.pdf",
+     "sha256": "7f63515602490455169cf71d9651f1e112d07363122dd10df82da14e4f6a2a62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05770",
+   "short": "Lei 5770/2026",
+   "title": "Lei nº 5.770, de 23 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5010",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 3,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5010/lei_n.o_5770.2026.pdf",
+     "sha256": "6d387fcdd221cf2d3f16a5105737715f7633b8ca9d52ba36a5a8abb9ddfaf551"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05768",
+   "short": "Lei 5768/2026",
+   "title": "Lei nº 5.768, de 18 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5004",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 11,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5004/lei_n.o_5768.2026.pdf",
+     "sha256": "d91516fed90d5ca50ae83055166700b9a0b1e6859abd19e25deba25a7d70b9a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05767",
+   "short": "Lei 5767/2026",
+   "title": "Lei nº 5.767, de 17 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5003",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 3,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5003/lei_n.o_5767.2026.pdf",
+     "sha256": "b5e0eecc2bf0737947485037d320b68af84c644577887f184435b6a3f58881e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05766",
+   "short": "Lei 5766/2026",
+   "title": "Lei nº 5.766, de 16 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5002",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 7,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5002/lei_n.o_5766.2026.pdf",
+     "sha256": "37af33fbe398f9aab57269ed0f7c7b673e76b9f5959c31aa70e8786e404b878a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05765",
+   "short": "Lei 5765/2026",
+   "title": "Lei nº 5.765, de 15 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5001",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 3,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5001/lei_n.o_5765.2026.pdf",
+     "sha256": "03a0891ae63e81d833abc411564750bf4edb14f74c4ca4292c2e9b0b0e35d0ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05764",
+   "short": "Lei 5764/2026",
+   "title": "Lei nº 5.764, de 11 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4999",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 3,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4999/lei_n.o_5764.2026.pdf",
+     "sha256": "ddc5cd17739982c65a9cdbd88418cd07aa8157332b130d118a68d762102c1d81"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05763",
+   "short": "Lei 5763/2026",
+   "title": "Lei nº 5.763, de 9 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4998",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4998/lei_n.o_5763.2026.pdf",
+     "sha256": "4dc7d3c7eee311360e21819354125ad9cac4340ffc792fd1b8415d66b4f38f1b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05762",
+   "short": "Lei 5762/2026",
+   "title": "Lei nº 5.762, de 2 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4997",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 17,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4997/lei_n.o_5762.2026.pdf",
+     "sha256": "0a0c6c307be1b82d85742a3e44ccbb9ea92355d40eabf43aedd893e513daedcd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00408",
+   "short": "LC 408/2026",
+   "title": "Lei Complementar nº 408, de 27 de agosto de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4992",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 10,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4992/lei_complementar_n.o_408.2026.pdf",
+     "sha256": "3f6da3d79f2412d4b5b26423a2c5a73721b101a9dc257aff06ebaa997524f630"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00407",
+   "short": "LC 407/2026",
+   "title": "Lei Complementar nº 407, de 3 de agosto de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4987",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4987/4987_texto_integral.pdf",
+     "sha256": "126fa88ff1b32e0cb3b13b825cfe67e073aad7c1f8a3df46945b1443a025d698"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00406",
+   "short": "LC 406/2026",
+   "title": "Lei Complementar nº 406, de 3 de agosto de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4986",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 4,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4986/4986_texto_integral.pdf",
+     "sha256": "ec8b24aa725f9d849dd83bfaca4ec77116d561321797e81c32d314a962ef7bfb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00405",
+   "short": "LC 405/2026",
+   "title": "Lei Complementar nº 405, de 3 de agosto de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4985",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 10,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4985/4985_texto_integral.pdf",
+     "sha256": "1cba21de44ecd467f708cba031aff492e7c2c41ac9154a8f41b519662ab9c067"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05756",
+   "short": "Lei 5756/2026",
+   "title": "Lei nº 5.756, de 28 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4981",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 8,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4981/4981_texto_integral.pdf",
+     "sha256": "9374a0b4a9dfaad46354117a371051949616a127f5f71c792489bbb5931ddefe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05754",
+   "short": "Lei 5754/2026",
+   "title": "Lei nº 5.754, de 28 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5009",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5009/lei_n.o_5754.2026.pdf",
+     "sha256": "f3fc1ad986efe9904fa96555eaaecf0bcb37dad4fae6d1ea637564bb9ffc147e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05753",
+   "short": "Lei 5753/2026",
+   "title": "Lei nº 5.753, de 28 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4978",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 6,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4978/4978_texto_integral.pdf",
+     "sha256": "8f42575c3fc636ae19400d9413c9453c4e0040af4b3cc97e9fe137cb2a68c96e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05750",
+   "short": "Lei 5750/2026",
+   "title": "Lei nº 5.750, de 22 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4983",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 8,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4983/4983_texto_integral.pdf",
+     "sha256": "9300f08547866320ef6c3436b507ff43c2ba25f770bfc59c85605490d263379c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05748",
+   "short": "Lei 5748/2026",
+   "title": "Lei nº 5.748, de 15 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4972",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 7,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4972/4972_texto_integral.pdf",
+     "sha256": "dff7d740eb475d14f9b8ae9def89673fb4333e58f0218e0cb16a863ffb4f8b38"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05747",
+   "short": "Lei 5747/2026",
+   "title": "Lei nº 5.747, de 15 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4973",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4973/4973_texto_integral.pdf",
+     "sha256": "fe21bf3728d9c030a1f525ef93ca98150686e4a36780680eae4fb8fd1cc41f9e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05746",
+   "short": "Lei 5746/2026",
+   "title": "Lei nº 5.746, de 15 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4974",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 10,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4974/4974_texto_integral.pdf",
+     "sha256": "497ab09bf393dea8c6c804a2cf716540911c9da957b97101c2ef38b032e7fa87"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05743",
+   "short": "Lei 5743/2026",
+   "title": "Lei nº 5.743, de 7 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4968",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 20,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4968/4968_texto_integral.pdf",
+     "sha256": "b3d74d413d3161eeafa3988e7af2b3498429d2a5af43c7dfb833597d2836f092"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05742",
+   "short": "Lei 5742/2026",
+   "title": "Lei nº 5.742, de 7 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4967",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 6,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4967/4967_texto_integral.pdf",
+     "sha256": "7e36ea14cd93366402c8f9227771183b7e3307da1db9221b7c03126b6528c9c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05741",
+   "short": "Lei 5741/2026",
+   "title": "Lei nº 5.741, de 6 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4965",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 8,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4965/4965_texto_integral.pdf",
+     "sha256": "6202cd48a5a2a49542bee00e940f21dffb9570c0a1dc209f3a6335d76cae643f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05740",
+   "short": "Lei 5740/2026",
+   "title": "Lei nº 5.740, de 30 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4964",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 21,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4964/4964_texto_integral.pdf",
+     "sha256": "f761d9ea507e51df1310a05e60f646725480b0d0899b1582f42da5f87e53b18f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05739",
+   "short": "Lei 5739/2026",
+   "title": "Lei nº 5.739, de 24 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4966",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4966/4966_texto_integral.pdf",
+     "sha256": "7abb3100ca00a0706aa61a21dfa5b721d5f9e29e990bae0a0eb18aa2353a2cfe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05738",
+   "short": "Lei 5738/2026",
+   "title": "Lei nº 5.738, de 19 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4962",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 3,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4962/4962_texto_integral.pdf",
+     "sha256": "605f98f734b571178d60e024355bf441fc67360b4b3a4fc04fc78dbf2a69a7a2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05736",
+   "short": "Lei 5736/2026",
+   "title": "Lei nº 5.736, de 16 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4960",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4960/4960_texto_integral.pdf",
+     "sha256": "cdc1c9334a489ca1aa54651687b2c057d6c6d8b4d9c71fe9d70754c53c035be3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05735",
+   "short": "Lei 5735/2026",
+   "title": "Lei nº 5.735, de 16 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4959",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 6,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4959/4959_texto_integral.pdf",
+     "sha256": "af10cef864b27c96c1526ece402530749241c90d332fb6eb13791a5d95256f7c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05734",
+   "short": "Lei 5734/2026",
+   "title": "Lei nº 5.734, de 16 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4958",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 6,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4958/4958_texto_integral.pdf",
+     "sha256": "246c65a700a8acb0b8cec4faa391233424f61b55f5f80fb0253c2d9b7065bb80"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05733",
+   "short": "Lei 5733/2026",
+   "title": "Lei nº 5.733, de 16 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4957",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 21,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4957/4957_texto_integral.pdf",
+     "sha256": "d98316319c1c50e3197f512f42bdb0036eebb07c1f4ad59bdea929b4c54cdb23"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05731",
+   "short": "Lei 5731/2026",
+   "title": "Lei nº 5.731, de 2 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4956",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 6,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4956/4956_texto_integral.pdf",
+     "sha256": "19cb78eb663a07818cada360739d8fdec68e4d0aeb6d442ac366c2213344305c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05730",
+   "short": "Lei 5730/2026",
+   "title": "Lei nº 5.730, de 2 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4955",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 4,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4955/4955_texto_integral.pdf",
+     "sha256": "b2950a4e6c3309c08cc3b8a14aa888af0b15eafa72c39f4b7a32e64b0b3bb4d0"
+    }
+   ]
+  }
+ ]
+}
