@@ -7511,6 +7511,46 @@ _GBEM = {**{_u(n): ("2005-12-01", "III d") for n in (37, 45, 66, 106, 107, 108)}
          **{_u(n): ("2006-03-01", "V c") for n in (47, 48, 51, *range(56, 63), 64, 65)}}
 GBEM_USED: list[str] = []
 _GATES[_LBEM] = (_GBEM, "lei-11196-2005", GBEM_USED)
+if any(a["slug"] == _LBEM for a in ACTS):
+    P.VIGENCIA_FIXED["lei-13161-2015"] = (
+        "2015-08-31", "art. 7: 'Esta Lei entra em vigor: I - a partir do primeiro dia do quarto mês subsequente ao de sua "
+                      "publicação quanto aos arts. 1º e 2º; II - na data de sua publicação, quanto aos demais dispositivos' (DOU "
+                      "31.8.2015, edição extra): its art. 8 I ('Ficam revogados: I - a partir de 1º de maio de 2015, os arts. 52 a "
+                      "54 da Lei nº 11.196') falls under II; the revocation reaches back before the publication, so it is dated "
+                      "by the publication")
+    P.VIGENCIA_FIXED["mp-1034-2021"] = (
+        "2021-07-01", "art. 5: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, quanto ao art. 2º; e II "
+                      "- no primeiro dia do quarto mês subsequente ao de sua publicação, quanto aos demais dispositivos' (DOU "
+                      "1.3.2021, edição extra): its art. 4 II, the revocation of Lei 11.196 arts. 56 to 57-B, falls under II, "
+                      "1.7.2021")
+    P.VIGENCIA_FIXED["mp-1300-2025"] = (
+        "2025-05-21", "art. 10: 'Esta Medida Provisória entra em vigor: I - quarenta e cinco dias contados da data de sua "
+                      "publicação, quanto ao art. 6º; II - em 1º de janeiro de 2026, quanto ao art. 8º; e III - na data de sua "
+                      "publicação, quanto aos demais dispositivos' (DOU 21.5.2025, edição extra): its art. 9 I b) (revocation "
+                      "of Lei 11.196 art. 121 'na data de publicação desta Medida Provisória') falls under III")
+    P.VIGENCIA_FIXED["mp-472-2009"] = (
+        "2009-12-16", "art. 60: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, produzindo efeitos: [...] "
+                      "b) a partir de 1º de janeiro de 2010, em relação ao disposto nos arts. 15 a 17 [...]' (DOU 16.12.2009): "
+                      "its art. 17 (Lei 11.196 art. 30 II) is in force on publication, with effect from 1.1.2010 (effect day: "
+                      "effects_fix)")
+    P.VIGENCIA_FIXED["mp-836-2018"] = (
+        "2018-09-01", "art. 2: 'Esta Medida Provisória entra em vigor no primeiro dia do quarto mês subsequente ao da sua "
+                      "publicação' (DOU 30.5.2018, edição extra): 1.9.2018")
+    B7.CONVERTED_FIX["mp-690-2015"] = ("lei-13241-2015", "the MP page reads 'Convertida na Lei nº 13;241, de 2015' (a semicolon "
+                                                         "for the point)")
+    P.MP_LAPSE["mp-836-2018"] = (
+        "2018-10-11", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 61, de 2018: 'teve seu prazo de vigência "
+                      "encerrado no dia 10 de outubro do corrente ano'; the articles it had revoked (Lei 11.196 arts. 56 to 57-B, "
+                      "from 1.9.2018) are back from 11.10.2018")
+    P.MP_LAPSE["mp-1318-2025"] = (
+        "2026-02-26", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 11, de 2026 (DOU 27.2.2026): 'teve seu "
+                      "prazo de vigência encerrado no dia 25 de fevereiro de 2026'; the wordings it had replaced are back from "
+                      "26.2.2026")
+    P.MP_LAPSE["mp-1227-2024"] = (
+        "2024-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 36, de 2024 (DOU 12.6.2024): its art. 6, "
+                      "whose inciso III revoked Lei 11.196 art. 57-A §§ 1º and 2º, rejected outright, 'considera não escritos "
+                      "[...] e declara o encerramento da vigência e eficácia, desde a data de sua edição': the revocation never "
+                      "took effect")
 _writeBEM = B6.PB5B._write_part5
 
 
