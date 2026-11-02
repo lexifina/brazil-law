@@ -8721,6 +8721,16 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "necessária, a que se impuser a cláusula de incomunicabilidade (art. 1.723)'), so it is credited to Lei nº 4.121, de "
         "1962")
 
+    # Lei nº 6.952, de 6.11.1981 (art. 134 §§ 1º-5º): its page ends 'Este texto não substitui o publicado no DOU de
+    # 10.11.1973'; signed 'Brasília, em 06 de novembro de 1981', so the year is a misprint (as with Lei 6.745 above)
+    B8.LAW_FIELD_FIX["lei-6952-1981"] = (
+        {"published": "1981-11-10"},
+        "Lei nº 6.952, de 6.11.1981: Planalto's page ends 'Este texto não substitui o publicado no DOU de 10.11.1973'; the "
+        "act is signed 'Brasília, em 06 de novembro de 1981', so the year is a misprint: published 10.11.1981, in force "
+        "that day (art. 2: 'Esta Lei entrará em vigor na data de sua publicação')")
+    P.VIGENCIA_FIXED["lei-6952-1981"] = ("1981-11-10", "in force on its publication, 1981-11-10 (the page misprints the year "
+                                                       "as 1973)")
+
     def _cc16_decree_units() -> set:
         """the articles Decreto 3.725/1919 art. 3 corrects, read from the decree's page: its items open 'Art. N:' or 'Ao
         art. N'; the items before 'Ao art. 6º, paragrapho unico, do proprio Codigo' are the Introdução's"""
