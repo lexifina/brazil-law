@@ -11,6 +11,7 @@
   "law:dl-1648-1977": "misprinted key: Decreto-Lei 1.598 art. 10's 'Vide Decreto-lei nº 1.648, de 1977' links Del1648.htm, Decreto-Lei 1.648 of 18.12.1978 (removed in part zzzx)",
   "law:lei-13241-1941": "misprinted key: Lei 11.196 art. 30's note reads 'Lei nº 13.241, de 1941'; the linked page is Lei 13.241 of 30.12.2015, pinned as law:lei-13241-2015 (removed in part zzzy; the note is fixed by NOTE_FIX)",
   "law:lei-12876-2013": "Lei 9.615's header note 'Vide Lei nº 12.876, de 2013' links L12867.htm, Lei 12.867/2013's page, not Lei 12.876 (a 'Vide' pin only, credited nowhere; listed in the forty-ninth session)",
-  "law:mp-39-2002": "the linked page's first heading is Lei 9.615/1998, the act it amends, not Medida Provisória 39/2002 (a 'Vide' pin only, credited nowhere; listed in the forty-ninth session)"
+  "law:mp-39-2002": "the linked page's first heading is Lei 9.615/1998, the act it amends, not Medida Provisória 39/2002 (a 'Vide' pin only, credited nowhere; listed in the forty-ninth session)",
+  "law:lei-12456-2011": "misprinted key: Lei 10.865 art. 8 § 21's notes read 'Lei nº 12.456, de 2011'; the linked page is Lei 12.546/2011 (L12546.htm#art21), pinned as law:lei-12546-2011 (the note is fixed by NOTE_FIX; listed in the fifty-sixth session)"
  }
 }

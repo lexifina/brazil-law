@@ -10391,6 +10391,277 @@ if any(a["slug"] == _L10865 for a in ACTS):
         "maio de 2004, ressalvadas as disposições contidas nos artigos anteriores'; DOU 30.4.2004, edição extra): arts. 45 to "
         "53, which state the effect days, are in the first version, on 30.4.2004; arts. 1 to 38 and 40 to 44 start on "
         "1.5.2004 and art. 39 on 1.1.2005 (art. 48), credited to Lei 10.865")
+    # in-force days of the amenders whose last article names several days (each read on its own page)
+    P.VIGENCIA_FIXED["mp-668-2015"] = (
+        "2015-05-01", "art. 3: 'Esta Medida Provisória entra em vigor: I - em relação ao art. 1º, no primeiro dia do quarto mês "
+                      "subsequente ao de sua publicação; [...]' (DOU 30.1.2015, edição extra): its art. 1, the changes to Lei "
+                      "10.865, falls under I, 1.5.2015")
+    P.VIGENCIA_FIXED["mp-836-2018"] = (
+        "2018-09-01", "art. 2: 'Esta Medida Provisória entra em vigor no primeiro dia do quarto mês subsequente ao da sua "
+                      "publicação' (DOU 30.5.2018, edição extra): 1.9.2018")
+    P.VIGENCIA_FIXED["mp-1034-2021"] = (
+        "2021-07-01", "art. 5: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, quanto ao art. 2º; e II "
+                      "- no primeiro dia do quarto mês subsequente ao de sua publicação, quanto aos demais dispositivos' (DOU "
+                      "1.3.2021, edição extra): its art. 4 I, the revocation of Lei 10.865 art. 8 §§ 15, 16 and 23, falls under "
+                      "II, 1.7.2021")
+    P.VIGENCIA_FIXED["mp-472-2009"] = (
+        "2009-12-16", "art. 60: 'Esta Medida Provisória entra em vigor: I - na data de sua publicação, produzindo efeitos: [...] "
+                      "c) a partir do primeiro dia do quarto mês subseqüente ao da sua publicação, em relação aos arts. 29 e 59; "
+                      "e d) a partir da data de sua publicação, em relação aos demais dispositivos' (DOU 16.12.2009): its arts. "
+                      "19 (Lei 10.865 art. 2) and 29 (art. 7 § 1º) are in force on publication (art. 29's effect day: "
+                      "effects_fix)")
+    P.VIGENCIA_FIXED["lei-12844-2013"] = (
+        "2013-08-01", "art. 49: 'Esta Lei entra em vigor: [...] III - a partir do primeiro dia do quarto mês subsequente ao da "
+                      "publicação da Medida Provisória nº 612, de 4 de abril de 2013, em relação ao art. 12 [...]' (DOU "
+                      "19.7.2013, edição extra): its art. 12, the changes to Lei 10.865, falls under III, 1.8.2013")
+    P.VIGENCIA_FIXED["mp-612-2013"] = (
+        "2013-08-01", "art. 28: 'Esta Medida Provisória entra em vigor: I - a partir do primeiro dia do quarto mês subsequente "
+                      "ao da publicação desta Medida Provisória, em relação: a) ao art. 18 [...]' (DOU 4.4.2013): its art. 18, "
+                      "the changes to Lei 10.865, falls under I a), 1.8.2013")
+    P.VIGENCIA_FIXED["lei-14288-2021"] = (
+        "2022-04-01", "art. 5: 'Esta Lei entra em vigor: I – na data de sua publicação, quanto ao art. 2º; e II – no primeiro "
+                      "dia do quarto mês subsequente ao de sua publicação, quanto ao art. 3º' (DOU 31.12.2021, edição extra): "
+                      "its art. 3, Lei 10.865 art. 8 § 21 caput, falls under II, 1.4.2022")
+    # the notes '(Incluído pela Lei nº 12.456, de 2011)' (art. 8 § 21 and its incisos) link L12546.htm#art21: Lei 12.546/2011
+    # art. 21 gives art. 8 that § 21 (read on its page); law:lei-12456-2011 is listed in bad_pins.json
+    P.NOTE_FIX["(Incluído pela Lei nº 12.456, de 2011)"] = (
+        "(Incluído pela Lei nº 12.546, de 2011)", "Lei 10.865 art. 8 § 21: the notes read 'Lei nº 12.456, de 2011'; their link "
+                                                  "is to Lei 12.546 of 14.12.2011, whose art. 21 gives art. 8 this § 21 (read "
+                                                  "on its page)")
+    # Medidas Provisórias that lost effect (Atos of the President of the Congress, read on Planalto's pages)
+    P.MP_LAPSE["mp-836-2018"] = (
+        "2018-10-11", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 61, de 2018: 'teve seu prazo de vigência "
+                      "encerrado no dia 10 de outubro do corrente ano'; the paragraphs it had revoked (Lei 10.865 art. 8 §§ 15, "
+                      "16 and 23, from 1.9.2018) are back from 11.10.2018")
+    P.MP_LAPSE["mp-612-2013"] = (
+        "2013-08-02", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 49, de 2013 (DOU 7.8.2013): 'teve seu "
+                      "prazo de vigência encerrado no dia 1º de agosto do corrente ano'")
+    P.MP_LAPSE["mp-491-2010"] = (
+        "2010-11-04", "Ato do Presidente da Mesa do Congresso Nacional nº 46, de 2010 (DOU 17.11.2010): 'teve seu prazo de "
+                      "vigência encerrado no dia 3 de novembro do corrente ano'; the wordings it gave end and those it replaced "
+                      "are back from 4.11.2010")
+    P.MP_LAPSE["mp-774-2017"] = (
+        "2017-12-09", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 70, de 2017 (DOU 12.12.2017): 'teve seu "
+                      "prazo de vigência encerrado no dia 8 de dezembro do corrente ano'")
+    P.MP_LAPSE["mp-794-2017"] = (
+        "2017-12-07", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 67, de 2017 (DOU 8.12.2017): 'teve seu "
+                      "prazo de vigência encerrado no dia 6 de dezembro do corrente ano'; Medida Provisória 794 had revoked "
+                      "Medida Provisória 774/2017 (art. 1), whose revocation of Lei 10.865 art. 8 § 21 applies again from "
+                      "7.12.2017 until Medida Provisória 774 itself lost effect")
+    # Medida Provisória 794/2017 (DOU 9.8.2017, in force on publication) revoked Medida Provisória 774/2017; Planalto's page
+    # of Lei 10.865 names it only in a 'Vide' note, so it is added to the laws the page cites when MP 774 is among them
+    _note_laws10865 = P.note_laws
+
+    def _note_laws_l10865(paras):
+        out = _note_laws10865(paras)
+        if "mp-774-2017" in out:
+            out.add("mp-794-2017")
+        return out
+
+    P.note_laws = _note_laws_l10865
+    # Medida Provisória 382/2007 and its revocation by Medida Provisória 392/2007 (as part zm's Leis 10.637 and 10.833)
+    P.MP_PENDING["mp-382-2007"] = (
+        "Medida Provisória nº 382, de 24.7.2007 (DOU 25.7.2007, in force on publication), revoked by Medida Provisória nº 392, "
+        "de 18.9.2007 (DOU 19.9.2007, art. 1: 'Fica revogada a Medida Provisória nº 382, de 24 de julho de 2007'), whose "
+        "conversion, Lei 11.604/2007 (DOU 6.12.2007), repeats the revocation; the wordings Medida Provisória 382 gave end on "
+        "19.9.2007")
+    P.NOTE_FIX["(Incluído pela Medida Provisória nº 382, 2007)"] = (
+        "(Incluído pela Medida Provisória nº 382, de 2007)", "the note reads 'Medida Provisória nº 382, 2007' (no 'de'); its link "
+                                                             "is to Medida Provisória 382/2007")
+    P.NOTE_FIX["(Revogado pela Medida Provisória nº 392)"] = (
+        "(Revogado pela Medida Provisória nº 392, de 2007)", "the note gives no year; its link is to Medida Provisória 392/2007, "
+                                                             "which revoked Medida Provisória 382/2007")
+    P.VIGENCIA_FIXED["mp-540-2011"] = (
+        "2011-12-01", "art. 23: 'Esta Medida Provisória entra em vigor na data de sua publicação. [...] § 2º Os arts. 7º a 9º e "
+                      "14 a 21 entram em vigor no primeiro dia do quarto mês subsequente à data de sua publicação' (DOU 3.8.2011): "
+                      "its art. 21, Lei 10.865 art. 8 § 21, falls under § 2º, 1.12.2011")
+    # Planalto's markers inside lines of the annotated page ('Produção de efeito e vigência' after the incisos of art. 8 § 21
+    # that Lei 12.546 added; '(Sem eficácia)' after Medida Provisória 491's art. 28 § 1º) are not part of the text. Art. 8 §
+    # 21 VI: the inciso struck, the marker not (a mixed line; read as struck). Art. 28 VIII (Lei 11.727's wording): only the
+    # words 'Lei nº 9.503, de 23 de setembro de 1997 – Código de Trânsito Brasileiro,' are struck, in a line in force that
+    # the consolidated page prints whole (a typesetting slip, as Lei 10.522 art. 37-B § 10): read as unstruck, words kept
+    L10865_FIXED: list[str] = []
+    _MARK10865 = re.compile(r"\s*\(?\s*(?:Produção de efeitos? e vigência|Sem efic[áa]cia)\s*\)?\s*$")
+    _paragraphsL10865 = P.paragraphs
+
+    def _paragraphs_l10865(html, digits):
+        out, rest = _paragraphsL10865(html, digits)
+        if B8.CURRENT_PAGE[0] == "l10865":
+            for q in out:
+                for f in ("text", "struck_text", "plain_text"):
+                    if q.get(f):
+                        t = _MARK10865.sub("", q[f])
+                        if t != q[f]:
+                            q[f] = t
+                            if f == "text":
+                                L10865_FIXED.append(f"{q['unit']} {q['label']} marker")
+                if q["state"] == "mixed" and not P.norm(q.get("plain_text") or ""):
+                    q.update({"state": "struck", "plain_text": "", "struck_text": ""})
+                    L10865_FIXED.append(f"{q['unit']} {q['label']} struck")
+                if q["state"] == "mixed" and q["unit"] == "art-28" and P.norm(q.get("struck_text") or "").startswith(
+                        "Lei nº 9.503, de 23 de setembro de 1997"):
+                    q.update({"state": "plain", "plain_text": "", "struck_text": ""})
+                    L10865_FIXED.append(f"{q['unit']} {q['label']} plain")
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_l10865
+    EXTRA.append(
+        "Lei 10.865: Planalto's markers 'Produção de efeito e vigência' (after the incisos of art. 8 § 21 that Lei 12.546/2011 "
+        "added) and '(Sem eficácia)' (after Medida Provisória 491/2010's art. 28 § 1º) are not part of the text and are left "
+        "out; art. 8 § 21 VI, struck with an unstruck marker after it, is read as struck. Art. 28 VIII in Lei 11.727/2008's "
+        "wording: the page strikes only the words 'Lei nº 9.503, de 23 de setembro de 1997 – Código de Trânsito Brasileiro,' "
+        "inside a line in force, which the consolidated page prints whole: a typesetting slip, so the line is read as "
+        "unstruck with those words kept")
+    # art. 8 §§ 15, 16 and 23 (REIQ), as Lei 11.196 arts. 56 to 58 (part zzzy): Planalto reprints the paragraphs after each
+    # Medida Provisória that revoked them and lapsed or was converted without the revocation; one copy of each wording is
+    # kept, with the days read on the amending acts: Medida Provisória 694/2015 art. 2 (§ 15 II, effects from 1.1.2016 under
+    # its art. 4 II) and art. 5 I a) (§ 15 III and IV revoked from 1.1.2016), lapsed 8.3.2016; Medida Provisória 836/2018
+    # art. 1 I (§§ 15, 16 and 23 from 1.9.2018), lapsed 10.10.2018; Medida Provisória 1.034/2021 art. 4 I (§§ 15, 16 and 23
+    # from 1.7.2021) and Lei 14.183/2021, its conversion (DOU 15.7.2021, art. 3: new § 15 IV, new V to VIII), which kept
+    # them; Medida Provisória 1.095/2021 art. 1 I (§§ 15, 16 and 23, effects from 1.4.2022 under its art. 2) and Lei
+    # 14.374/2022, its conversion (DOU 22.6.2022: new § 15 VI), which kept them; § 15 IX, vetoed in Lei 14.374 and
+    # promulgated after Congress overrode the veto (DOU 22.12.2022)
+    _RQ10_G694 = ("2016-01-01", "2016-03-09", "mp-694-2015", "mp-694-2015-fim")
+    _RQ10_G836 = ("2018-09-01", "2018-10-11", "mp-836-2018", "mp-836-2018-fim")
+    _RQ10_G1034 = ("2021-07-01", "2021-07-15", "mp-1034-2021", "lei-14183-2021")
+    _RQ10_G1095 = ("2022-04-01", "2022-06-22", "mp-1095-2021", "lei-14374-2022")
+    _RQ10_L13 = {"start": "2013-09-11", "start_law": "lei-12859-2013", "end": None, "end_law": None, "end_how": None}
+    _RQ10_ALL = {**_RQ10_L13, "gaps": [_RQ10_G836, _RQ10_G1034, _RQ10_G1095]}
+    _RQ10_ALL694 = {**_RQ10_L13, "gaps": [_RQ10_G694, _RQ10_G836, _RQ10_G1034, _RQ10_G1095]}
+    _RQ10_14183 = {"start": "2021-07-15", "start_law": "lei-14183-2021", "end": None, "end_law": None, "end_how": None,
+                   "gaps": [_RQ10_G1095]}
+    # (label, start of the text, copy kept, first copy set aside, fields); every unit is art-08
+    _RQ10_TABLE = [
+        ("§ 15", "§ 15. Na importação de etano, propano e butano, destinados à produção de eteno e pr openo; de nafta "
+         "petroquímica e de condensado destinado a centrais petroquímicas; bem como na importação de eteno", 3, 0,
+         {**_RQ10_ALL, "end": "2026-03-20", "end_law": "lc-228-2026", "end_how": "successor"}),
+        ("I -", "I - 0,18%", 4, 1, _RQ10_ALL),
+        ("II -", "II - 0,54%", 5, 1, _RQ10_ALL694),
+        ("II -", "II - 1,11%", 0, 0, {"start": "2016-01-01", "start_law": "mp-694-2015", "end": "2016-03-09",
+                                       "end_law": "mp-694-2015-fim", "end_how": "lapse", "gaps": []}),
+        ("III -", "III - 0,90%", 5, 1, _RQ10_ALL694),
+        ("IV -", "IV - 1% (um por cento) e 4,6% (quatro inteiros e seis décimos por cento), para os fatos geradores ocorridos "
+         "a partir", 4, 0, {**_RQ10_L13, "end": "2021-07-01", "end_law": "mp-1034-2021", "end_how": "note",
+                            "gaps": [_RQ10_G694, _RQ10_G836]}),
+        ("IV -", "IV - 1% (um por cento) e 4,6% (quatro inteiros e seis décimos por cento), para os fatos geradores ocorridos "
+         "nos anos de 2018 a 2020", 1, 0, _RQ10_14183),
+        ("V -", "V - 1,13%", 1, 0, _RQ10_14183),
+        ("VI -", "VI - 1,26% (um inteiro e vinte e seis centésimos por cento) e 5,8% (cinco inteiros e oito décimos por "
+         "cento), para os fatos geradores ocorridos no ano de 2022", 1, 0,
+         {**_RQ10_14183, "end": "2022-04-01", "end_law": "mp-1095-2021", "end_how": "note", "gaps": []}),
+        ("VII -", "VII - 1,39%", 1, 0, _RQ10_14183),
+        ("VIII -", "VIII - 1,52%", 1, 0, _RQ10_14183),
+        ("IX -", "IX - 1,52% (um inteiro e cinquenta e dois centésimos por cento) e 7% (sete por cento), para os fatos "
+         "geradores ocorridos nos anos de 2025 a 2027", 0, 0, {"start": "2022-12-22", "start_law": "lei-14374-2022"}),
+        ("§ 16", "§ 16. Na hipótese da importação de etano", 2, 0,
+         {"start": "2007-06-15", "start_law": "lei-11488-2007", "end": None, "end_law": None, "end_how": None,
+          "gaps": [_RQ10_G836, _RQ10_G1034, _RQ10_G1095]}),
+        ("§ 23", "§ 23. Aplica-se ao condensado", 3, 0,
+         {"start": "2012-09-18", "start_law": "lei-12715-2012", "end": None, "end_law": None, "end_how": None,
+          "gaps": [_RQ10_G836, _RQ10_G1034, _RQ10_G1095]}),
+    ]
+    RQ10_SET_ASIDE: list[str] = []
+
+    def _rq10865_model(paras, record):
+        for label, start, keep, first, fields in _RQ10_TABLE:
+            hits = [p for p in paras if p["unit"] == "art-08" and p["label"] == label and not p["heading"]
+                    and B8._norm(p["text"]).startswith(B8._norm(start))]
+            if len(hits) <= keep:
+                if record:
+                    B8.SPAN_MISSED.append(f"{_L10865} REIQ art-08 [{label}] {start[:40]!r}: {len(hits)} lines")
+                continue
+            for k, p in enumerate(hits):
+                if k == keep:
+                    p.update(dict(fields, gaps=[tuple(g) for g in fields.get("gaps", p.get("gaps") or [])]))
+                    p["skip"], p["pinned"] = False, True
+                elif k >= first:
+                    if record and not p.get("skip"):
+                        RQ10_SET_ASIDE.append(label)
+                    p["skip"], p["pinned"] = True, True
+
+    _span_fixL10865 = B8.apply_span_fix
+
+    def _apply_span_fix_l10865(paras, act_slug, record):
+        _span_fixL10865(paras, act_slug, record)
+        if act_slug == _L10865:
+            _rq10865_model(paras, record)
+
+    B8.apply_span_fix = _apply_span_fix_l10865
+    EXTRA.append(
+        "Lei 10.865 art. 8 §§ 15, 16 and 23 (REIQ), modelled by hand as Lei 11.196 arts. 56 to 58: Planalto prints the "
+        "paragraphs again after each Medida Provisória that revoked them, so most 2013 lines stand two to four times on the "
+        "page; the history keeps one copy of each wording, with the days read on the amending acts. Medida Provisória "
+        "694/2015 gave § 15 II a new wording (art. 2, effects from 1.1.2016 under art. 4 II) and revoked § 15 III and IV from "
+        "1.1.2016 (art. 5 I a)); it lapsed on 8.3.2016, so they are back from 9.3.2016. Medida Provisória 836/2018 revoked "
+        "§§ 15, 16 and 23 from 1.9.2018 and lapsed on 10.10.2018 (back 11.10.2018). Medida Provisória 1.034/2021 revoked them "
+        "from 1.7.2021 (art. 4 I, in force under art. 5 II); Lei 14.183/2021, its conversion (DOU 15.7.2021, in force on "
+        "publication), kept them with a new § 15 IV and the new § 15 V to VIII, so they are back from 15.7.2021. Medida "
+        "Provisória 1.095/2021 revoked §§ 15, 16 and 23 (art. 1 I) with effects from 1.4.2022 (art. 2); Lei 14.374/2022, "
+        "its conversion (DOU 22.6.2022, in force on publication), kept them (back 22.6.2022, with a new § 15 VI). Planalto "
+        "prints Medida Provisória 1.095's note on § 15 and § 23 but not on § 16; the Medida Provisória's text revokes all "
+        "three, and its text governs. § 15 IX, vetoed in Lei 14.374 and promulgated after Congress overrode the veto (DOU "
+        "22.12.2022), starts on 22.12.2022, credited to Lei 14.374. Lei 14.183 art. 9 as enacted (revocation of §§ 15, 16 "
+        "and 23 'a partir de 1º de janeiro de 2025') was rewritten by the same promulgated parts of Lei 14.374 before that "
+        "day ('a partir de 1º de janeiro de 2028'), so it never took effect; Lei Complementar 214/2025 art. 542 revokes "
+        "the whole art. 8 from 1.1.2027, so the 2028 revocation finds nothing left")
+    # art. 8 § 21 under Medidas Provisórias 612/2013, 774/2017 and 794/2017
+    _W10865_21 = (
+        "Lei 10.865 art. 8 § 21 in Lei 12.844/2013's wording: Medida Provisória 774/2017 art. 2 I revoked it (DOU 30.3.2017; "
+        "art. 3: effects from the first day of the fourth month after publication, 1.7.2017); Medida Provisória 794/2017 "
+        "(DOU 9.8.2017, in force on publication) revoked Medida Provisória 774 (art. 1), so § 21 is back from 9.8.2017; "
+        "Medida Provisória 794 lost effect on 6.12.2017 (Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 67, "
+        "de 2017), so Medida Provisória 774, suspended and not removed by a revocation that was never converted, applies "
+        "again until it lost effect itself on 8.12.2017 (Ato Declaratório nº 70, de 2017): § 21 is out on 7 and 8.12.2017 and "
+        "back from 9.12.2017 (the model of Medidas Provisórias 905/2019 and 955/2020). Planalto prints the paragraph twice, "
+        "struck: first with Medida Provisória 774's notes, then with Lei 12.844's note only; the second copy is the "
+        "history's line, the first a copy left out")
+    _W10865_612 = (
+        "Lei 10.865 art. 8 § 21 in Medida Provisória 612/2013's wording: its art. 18 is in force from 1.8.2013 (art. 28 I a)) "
+        "and the Medida Provisória lost effect on 1.8.2013 (Ato Declaratório nº 49, de 2013); Lei 12.844/2013 (DOU 19.7.2013) "
+        "gave § 21 its own wording from the same day (art. 49 III: art. 12 from the first day of the fourth month after "
+        "Medida Provisória 612's publication), and the later act governs, so the Medida Provisória's wording is not shown as "
+        "in effect (judgement call, as for Medida Provisória 413/2008 in Lei 10.637)")
+    _G774 = [("2017-07-01", "2017-08-09", "mp-774-2017", "mp-794-2017"),
+             ("2017-12-07", "2017-12-09", "mp-794-2017-fim", "mp-774-2017-fim")]
+    _T21_12844 = ("§ 21. As alíquotas da Cofins-Importação de que trata este artigo ficam acrescidas de um ponto percentual na "
+                  "hipótese")
+    B8.SPAN_FIX += [
+        ((_L10865, "art-08", "§ 21", _T21_12844, 0), {"skip": True, "end_how": "duplicate"}, _W10865_21),
+        ((_L10865, "art-08", "§ 21", _T21_12844, 1), {"start": "2013-08-01", "start_law": "lei-12844-2013", "gaps": _G774},
+         _W10865_21),
+        ((_L10865, "art-08", "§ 21", "§ 21. As alíquotas da COFINS-Importação de que trata este artigo ficam acrescidas de um "
+                                     "ponto percentual, na hipótese", 0),
+         {"skip": True, "end_how": "never-in-effect"}, _W10865_612),
+    ]
+    # art. 28 parágrafo único: Medida Provisória 428/2008 (DOU 13.5.2008, in force on publication; art. 15 II) gave it the
+    # words 'incisos IV e X' before Lei 11.727/2008 (DOU 24.6.2008) gave 'incisos IV, X e XIII' (Planalto prints the MP's
+    # line after Lei 11.727's); Medida Provisória 491/2010 renumbered it as § 1º (24.6.2010) and lapsed (3.11.2010);
+    # Medida Provisória 549/2011 (DOU 18.11.2011) gave 'XIII a XXXII' before Lei 12.599/2012 (DOU 26.3.2012, conversion of
+    # Medida Provisória 545/2011) gave 'XIII a XXI' again
+    _W10865_28 = (
+        "Lei 10.865 art. 28 parágrafo único, by the days of the acts that worded it: Lei 10.925/2004's wording to 12.5.2008; "
+        "Medida Provisória 428/2008's ('incisos IV e X'; DOU 13.5.2008, in force on publication) from 13.5.2008 to 23.6.2008; "
+        "Lei 11.727/2008's ('IV, X e XIII'; DOU 24.6.2008) from 24.6.2008 (Planalto prints the Medida Provisória's line after "
+        "Lei 11.727's). Lei 12.249/2010's wording is out from 24.6.2010 to 3.11.2010, while Medida Provisória 491/2010 had "
+        "renumbered the parágrafo único as § 1º (the Medida Provisória lost effect on 3.11.2010: Ato do Presidente da Mesa do "
+        "Congresso Nacional nº 46, de 2010). Medida Provisória 545/2011's wording ('XIII a XXI'; DOU 30.9.2011) to "
+        "17.11.2011; Medida Provisória 549/2011's ('XIII a XXXII'; DOU 18.11.2011) from 18.11.2011 to 25.3.2012; Lei "
+        "12.599/2012's ('XIII a XXI', the conversion of Medida Provisória 545; DOU 26.3.2012) from 26.3.2012")
+    _PU28 = "Parágrafo único. O Poder Executivo "
+    B8.SPAN_FIX += [
+        ((_L10865, "art-28", "Parágrafo único", _PU28 + "regulamentará o disposto no inciso IV do caput", 0),
+         {"end": "2008-05-13", "end_law": "mp-428-2008", "end_how": "successor"}, _W10865_28),
+        ((_L10865, "art-28", "Parágrafo único", _PU28 + "regulamentará o disposto nos incisos IV e X do caput", 0),
+         {"start": "2008-05-13", "start_law": "mp-428-2008", "end": "2008-06-24", "end_law": "lei-11727-2008",
+          "end_how": "successor"}, _W10865_28),
+        ((_L10865, "art-28", "Parágrafo único", _PU28 + "poderá regulamentar o disposto nos incisos IV, X e XIII a XVIII do", 0),
+         {"gaps": [("2010-06-24", "2010-11-04", "mp-491-2010", "mp-491-2010-fim")]}, _W10865_28),
+        ((_L10865, "art-28", "Parágrafo único", _PU28 + "poderá regulamentar o disposto nos incisos IV, X e XIII a XXI do", 0),
+         {"end": "2011-11-18", "end_law": "mp-549-2011", "end_how": "successor"}, _W10865_28),
+        ((_L10865, "art-28", "Parágrafo único", _PU28 + "poderá regulamentar o disposto nos incisos IV, X e XIII a XXXII do", 0),
+         {"start": "2011-11-18", "start_law": "mp-549-2011", "end": "2012-03-26", "end_law": "lei-12599-2012",
+          "end_how": "successor"}, _W10865_28),
+    ]
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

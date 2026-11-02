@@ -3974,3 +3974,192 @@ of arts. 7-8 and the Anexo are law text and in scope; build last; tables must re
 reason); then the rest of the ranked list. FOR THE COORDINATOR: ADI 1.802 / 1.758 found in no allowed record (Informativos
 897-898 read); art. 2 § 2º's revocation credited by Planalto to MP 2.156-5, whose text names only § 1º (open item).
 OPEN / DATED RE-CHECKS unchanged.
+
+## Fifty-fifth session (2026-11-02): coordinator decision on Lei 9.532 art. 2 § 2º (zzzzl re-PUBLISHED); Lei 10.865 configured (TRIAL)
+Claim taken at the start ('gitlaw-BR-55 alan-dell 2026-11-02T14:14Z', setup55.py through run.py, PID 18576), released at the end.
+Scratch: .gitlaw-scratch/brazil-b44 (before55/ = session-start copies of the same set as before54/: every batch parser (20),
+effects_fix/parse/parse_phase2/lawrecords/dupfix/vigforms/titles, sources_batch17.json, law_records.json, bad_pins.json,
+dupsame_allow.json, README.md, jurisdiction.json, PUBLISH, firstline.py, pipe.sh, both PROGRESS.md, corpus.json and every
+corpus.d file); logs55/ (pipe-l1..l4 .out = pipe.sh runs, see below; m1/m2 = Lei 10.865 trials; fl1/fl2 = fetches; fb1 =
+final build); pids55.txt; edits55/ (mk1-mk3.py + spec-a..d.json: every parser edit, applied by ed55.py through run.py;
+session55.md = this text); eff55/ (installed candidate). New tools: the 54 -> 55 copies (made by mk55.py through run.py),
+sq55.py (rows of a spans dump), proc55.py (list processes by command line, read-only), wait55.py (wait for PIDs to exit).
+bdiff55: parse_batch17.py +59 -3 (the open-item sentence and one SPAN_FIX field line), every other parser and effects_fix.py
+unchanged.
+Requests (archive.org only, shared client, <=1/s): robots.txt of archive.org (200: Disallow /control/ /report/) and
+web.archive.org (404) first; `BATCH17_ACTS=lei-10865-de-2004 iaonly.py laws l10865` (65 acts linked, 9 pinned) and `missing`
+(1 pinned). No LexML, no Common Crawl, no Arquivo.pt, no STF, no live Planalto, no challenge page.
+
+### 1. Coordinator decision: Lei 9.532 art. 2 § 2º (re-PUBLISHED zzzzl)
+- Read: Medida Provisória 2.156-5 of 24.8.2001 (pinned capture, txt54/law_mp-2156-2001.txt): art. 32 'Ficam revogados: [...]
+  XVII - o § 1º do art. 2º da Lei nº 9.532, de 10 de dezembro de 1997'; no other item names Lei 9.532 (I-XVIII read in full).
+  No later edition exists: 2.156-5 is the last of the chain (its art. 30 validates acts under 2.156-4 of 27.7.2001; EC 32 of
+  11.9.2001, art. 2, kept it in force without reissue; LC 125/2007 later revoked the MP; its page links no later edition). So
+  no edition revokes § 2º: outcome 3 of the decision. (Archive.org was not asked for any further page: none can exist.)
+- Block '# part zzzzl': SPAN_FIX art-02 '§ 2º Ficam extintos...' -> end None, skip False (batch 3's first life-span pass marks
+  a struck line with no end 'undated' and skips it; the hand-set span is put back after the rewrites, so skip must be cleared
+  too: a first try without it dropped § 2º from every version); a _write_part5 wrapper takes that line out of batch 3's
+  UNDATED list (else the 'Struck text with no note [...] is left out' decision would name it); decision _W9532_2S2 ('[...]
+  Planalto's revocation note on § 2º is not supported by the Medida Provisória's text, and the law's own text governs, so § 2º
+  stays in force (from 1.1.1998, under art. 81 II) and the history keeps it'); EXPLAINED art-02 for the consolidated check;
+  the open item's art. 2 § 2º sentence removed.
+- pipe.sh runs: pipe-l1 (first try, § 2º skipped: discarded). pipe-l2: SLIP - started before pipe-l1 had finished (two pipes at
+  once for a few minutes, both mine); its bash task was stopped (TaskStop) but its sh/run.py children (PIDs 32820, 52368,
+  46792, 26748) ran on to the end (left to finish, then confirmed gone with wait55); both results discarded. pipe-l3 (clean,
+  alone): 6019e847 x2 but the undated decision still named § 2º. pipe-l4 (clean, alone, final): 0727041c x2, 0 problems, 11
+  moves; dupline 2 / dupcheck 1 = art. 67's quoted §§ (law text), quotecheck as session 54 (law text), leakcheck/ordercheck/
+  firstline/pubgap/overlap 0, missorig = the art. 81 II gates, latecaput as before; uniqlaws 0; dupsame 0; merged 307 acts,
+  4207 versions, 2925 commits, check 0/0, --compare identical, audit_push clean main + futuro. eff d8245cb4.
+- pdiff55 against the installed part: 5 leaves only: versions[9] (27.8.2001) art-02 text (§ 2º kept), the life-span decision
+  (adds the § 2º sentence), the open item (sentence removed), the replay-check lines (2 units, art-02 explained). Version
+  count unchanged (31).
+- install55.py: zzzzl 5d3698d8 -> d8245cb4, .PUBLISH + one fifty-fifth-session line; docs.py rows-zzzzl55.json (README row
+  gains 'Art. 2 § 2º stays in force: Planalto marks it revoked by Medida Provisória 2.156-5/2001, whose text revokes only § 1º';
+  jurisdiction.json rewritten, counts unchanged 307/4207). Final build of the installed folder (fb1): 307 acts, 4207 versions, 2925 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws installed 0.
+
+### 2. Lei 10.865/2004 (part zzzzm): CONFIGURED, TRIAL ONLY (no PARTS entry is installed; nothing PUBLISHED)
+- Config (parse_batch17.py, spec-c): _act lei-10865-de-2004 (L10865, l10865 annotated, l10865-compilado check, 2 digits); PARTS
+  "zzzzm" (comment: trial); ACT_DAY_ALL lei-10865-2004 30.4.2004 (art. 53); ACT_LAWS_ALL lei-10865-2004 with url
+  '_Ato2004-2006/2004/Lei/L10.865.htm' and title as part zl's record (uniqlaws); block '# part zzzzm' (before SRC): gates
+  _G10865 arts. 1-44 from 1.5.2004 ('art. 53'), art. 39 from 1.1.2005 ('art. 48'); arts. 45-53 in the first version; EXTRA
+  decision for that.
+- Trial m2 (zzzzm-t2.json not written: crash): 820 paragraphs (579 plain, 239 struck, 2 mixed), 57 units, 54 versions, 71
+  problems, 9 units differ, then KeyError 'mp-1034-2021' in parse_proc.mp_notes (no in-force day for the MP).
+TO DO for Lei 10.865 (exact; problems grouped from logs55/m2.log):
+  a) In-force days (VIGENCIA_FIXED, scoped to the act; precedents in parse_batch17.py: grep 'VIGENCIA_FIXED\["mp-1034-2021"\]'
+     (two blocks), '"mp-668-2015"', '"mp-836-2018"', '"mp-472-2009"', '"mp-612-2013"', '"lei-12844-2013"'): mp-668-2015 (23
+     notes; clause I art. 1 'primeiro dia do quarto mês', II arts. 2 and 4 I-IV on publication, III art. 4 V), mp-836-2018 (7;
+     whole MP from the 1st day of the 4th month), mp-1034-2021 (7; I art. 2 on publication, II rest 4th month), lei-12456-2011
+     (7; 'no publication date found': the fetch pinned law:lei-12456-2011 to Planalto's L12546.htm, Lei 12.546/2011's page,
+     because the notes' link goes there: the notes '(Incluído pela Lei nº 12.456, de 2011)' most likely mean Lei 12.546/2011
+     (check the link and the text; then NOTE_FIX to 12.546 and list law:lei-12456-2011 in bad_pins.json, as
+     law:lei-12876-2013 / law:mp-39-2002 were), mp-472-2009 (3), lei-12844-2013 (2), mp-612-2013 (1),
+     lei-14288-2021 (1; I art. 2 on publication, II art. 3 4th month). Read each clause from its cached page (vig55.py: change
+     its '9\.532' pattern to '10\.865' first).
+  b) MP fates: mp-836-2018, mp-774-2017, mp-612-2013 'lapsed: True' with no known lapse day -> MP_LAPSE (precedents: grep
+     'MP_LAPSE\["mp-836-2018"\]', '"mp-612-2013"'); mp-774-2017 was revoked by MP 794/2017, which lapsed (read both pages /
+     Chamber records); mp-491-2010 fate unknown (no conversion/lapse line: read its page, Congress record via archive.org).
+     Also check every other MP listed in the survey (413, 428, 451, 497, 540, 545, 549, 563, 564, 609, 613, 634, 656, 694, 1.095,
+     1.157, 1.202, 1.208) once the parse runs.
+  c) Notes naming no law: '(Incluído pela Medida Provisória nº 382, 2007)' x3 and '(Revogado pela Medida Provisória nº 392)' x3
+     -> NOTE_FIX (read the links with hrefs.py; MP 382/2007 and MP 392/2007, and check whether MP 392 revoked MP 382).
+  d) 'ends before it starts': art-08 § 15 (2026-03-20..2021-12-31, Lei 12.859 wording, Vide MP 1.034) and art-08 § 21
+     (2018-05-30..2017-03-30, Lei 12.844 wording, revoked by an MP): set by SPAN_FIX after a) and b).
+  e) MIXED lines: art-08 VI ('VI - no código 9506.62.00.' struck + 'Produção de efeito e vigência' plain) and art-28 VIII
+     (struck CTB citation + plain VIII): split or fix the reader for those two lines.
+  f) 9 diff units vs the consolidated page: art-08 ('§ 6º e 6º-A -', XVII, '§ 20. (Sem eficácia)', 'Produção de efeito e
+     vigência' lines), art-14-a ('(Vgência)' typo on the consolidated page), art-17 '§ 3º-A.', art-21 '§ 3º.' '§ 6º.' 'Parágrafo
+     único.', art-24 '§ 2º.', art-28 (VIII, 'XIX - (Sem eficácia)'), art-34 '§ 1º.', art-37 '§ 3º.', art-42 (cut line). Most
+     are label-only quoted lines (EXPLAINED as zzzzc/zl) or Planalto markers; 'Sem eficácia' needs a rule (which law?).
+  g) Art. 45: the Lei's changes to MP 164 in art. 8 §§ 1º-3º, 5º, 8º, 9º, arts. 16, 17, 22 produce effects from 1.8.2004; MP
+     164's original wording of them from 1.5.2004. Pin MP 164/2004's page (_Ato2004-2006/2004/Mpv/164.htm, archive.org gap
+     command) and give those units MP 164's wording 1.5-31.7.2004, the Lei's from 1.8.2004 (or the publisher's placeholder if
+     MP 164's text is not readable). Art. 44 § 1º and art. 46-47 concern other laws (no gate here).
+  h) Effect days of the amenders (95 'Produção de efeito', 146 'Vigência' markers): effects_fix '99-batch17zzzzm.json' entries
+     after reading each clause (vig55.py over txt dumps of the 65 linked acts: txt55.py txt55 law:<key> ...).
+  i) LC 214/2025 (35 notes) and LC 228/2026 (3): 2027 changes on futuro via _FUT2027[_L10865] (read art. 542 and the rewriting
+     articles on LC 214's page; precedent _FUT2027[_L10833]); LC 214 changes already in force before 2027 stay on main.
+  j) OPEN_ITEMS[_L10865] (Vide pointers, Anexos if any), PARTS comment 'trial' removed, then pipe.sh zzzzm, README row
+     (rows-zzzzm.json + docs.py), PUBLISH only when every check is clean.
+Lei 12.546/2011 not started (coordinator: NCM tables in scope; they must replay exactly or the act is held, with the reason).
+- PIDs (all mine, all exited): pids55.txt (mk55 38408 and setup55 18576 through run.py directly; every rr55 run with its PID;
+  fb1 through run.py directly); pipe.sh runs as background tasks of mine (run.py PIDs in logs55/pipe-l*.out); the stopped
+  pipe-l2 children 32820/52368/46792/26748 (mine) ran to their end and were confirmed gone (wait55), none killed. Outside the
+  wrappers (no network): first reads with the Read/Grep tools; a `wc`/`ls` of BRIEF.md and the scratch dir, `ls tools`,
+  `cat setup54.py`/`rr54.py`, `cat`/`head` of mk55.log, setup55.log and edits54/mk1.py; `cp` of the candidate into eff55 (twice);
+  grep/tail of my own logs inside rr55/sh.py-wrapped shells; one `python -X utf8 uniqlaws.py` on the installed zzzzl after fb1
+  (as pipe.sh runs it). Every parser edit went through ed55.py under run.py.
+
+## State at handoff (batch 17, fifty-fifth session, 2026-11-02)
+PUBLISHED: re-PUBLISH of zzzzl (Lei 9.532 art. 2 § 2º stays in force; d8245cb4, 31 versions). Installed: 307 acts, 4207 versions, 2925 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws installed 0; dupsame 0;
+README row + jurisdiction.json current. Files changed: parse_batch17.py (zzzzl block: § 2º span, undated-list cleanup, decision,
+EXPLAINED, open item; Lei 10.865 act/PARTS zzzzm/ACT_DAY/ACT_LAWS/gates block), sources_batch17.json (+10 pins from the
+Lei 10.865 laws fetch, among them the suspect law:lei-12456-2011 -> L12546.htm, see TO DO a), corpus.d/99-batch17zzzzl.json + .PUBLISH, repo/README.md (zzzzl row), repo/jurisdiction.json (same
+counts), PROGRESS.md, this file. effects_fix.py, law_records.json, bad_pins.json, dupsame_allow.json, firstline.py, pipe.sh
+unchanged. No corpus.d/99-batch17zzzzm.* exists. Claim released.
+TO DO: Lei 10.865 items a)-j) above (likely two sessions), then Lei 12.546/2011, then the rest of the ranked list.
+FOR THE COORDINATOR: decision on art. 2 § 2º applied (outcome 3: no edition revokes it; MP 2.156-5 is the last edition).
+OPEN / DATED RE-CHECKS unchanged.
+
+## Fifty-sixth session (2026-11-02): Lei 10.865 (part zzzzm) TO DO a)-e) done in the parser, trial at 0 problems; NOT published
+Claim taken at the start ('gitlaw-BR-56 alan-dell 2026-11-02T14:52Z', setup56.py through rr56/run.py, PID 41360), released at the
+end. Scratch: .gitlaw-scratch/brazil-b44 (before56/ = session-start copies, same set as before55/); logs56/ (m3, m4 = Lei 10.865
+trials; sp1, sp2 = spans dumps; fl1-fl3 = fetches); pids56.txt (mk56 19240 through run.py directly, every rr56 run with its PID);
+edits56/ (mk1.py + spec-a.json, mk2.py + spec-b.json + spec-c.json, applied by ed56.py through run.py; session56.md = this
+text); txt56/ (page texts of Lei 10.865, its consolidated page and 30 amenders/Atos). New tools: mk56.py (55 -> 56 copies);
+vig56.py now takes the article pattern from VIGPAT (default '10\.865'). bdiff56: parse_batch17.py +271 -0 (all inside the
+'# part zzzzm' block); bad_pins.json +1 key. effects_fix.py, law_records.json, dupsame_allow.json, firstline.py, pipe.sh,
+corpus.d, README, jurisdiction.json unchanged. No pipe.sh run (the part is not ready), so nothing was installed.
+Requests (archive.org only, shared client, <=1/s): robots.txt of archive.org (200: Disallow /control/ /report/) and
+web.archive.org (404) first (robots56/); `iaonly.py gap` x3: ato:adc-70-2017-mpv774 (_Ato2015-2018/2017/Congresso/adc-070-
+mpv774.htm), ato:adc-67-2017-mpv794 (adc-067-mpv794.htm), ato:atocn-46-2010-mpv491 (_Ato2007-2010/2010/Congresso/atocn-46-
+mpv491.htm), 1 pin each. No LexML, no Common Crawl, no Arquivo.pt, no STF, no live Planalto, no challenge page.
+
+### Lei 10.865 (zzzzm): done this session (all in the '# part zzzzm' block of parse_batch17.py)
+- a) In-force days (VIGENCIA_FIXED, read on each page): mp-668-2015 1.5.2015 (art. 3 I: art. 1), mp-836-2018 1.9.2018,
+  mp-1034-2021 1.7.2021 (art. 5 II: art. 4 I), mp-472-2009 16.12.2009 (art. 60 I; art. 29's effect 1.4.2010 still to do in
+  effects_fix), lei-12844-2013 1.8.2013 (art. 49 III: art. 12), mp-612-2013 1.8.2013 (art. 28 I a): art. 18), lei-14288-2021
+  1.4.2022 (art. 5 II: art. 3), mp-540-2011 1.12.2011 (art. 23 § 2º: art. 21).
+- Wrong pin: the notes '(Incluído pela Lei nº 12.456, de 2011)' (art. 8 § 21 and incisos) link L12546.htm#art21; Lei 12.546 art.
+  21 gives art. 8 that § 21 (read on its page). NOTE_FIX -> 'Lei nº 12.546, de 2011'; bad_pins.json + 'law:lei-12456-2011'.
+  (The sources_batch17.json pin law:lei-12456-2011 is left as it is, as for the earlier bad pins; it is now credited nowhere.)
+- b) MP fates (MP_LAPSE, from the Atos on Planalto's pages): mp-836-2018 11.10.2018 (Ato 61/2018), mp-612-2013 2.8.2013 (Ato
+  49/2013), mp-491-2010 4.11.2010 (Ato 46/2010, DOU 17.11.2010: 'encerrado no dia 3 de novembro'), mp-774-2017 9.12.2017 (Ato
+  70/2017, DOU 12.12.2017: 8.12), mp-794-2017 7.12.2017 (Ato 67/2017, DOU 8.12.2017: 6.12). MP 794 (revoked MP 772, 773, 774;
+  in force on publication 9.8.2017) is added to the page's laws when MP 774 is there (note_laws wrapper, as MP 955).
+  Art. 8 § 21 (Lei 12.844's wording): gaps 1.7.2017-9.8.2017 (MP 774 effects / MP 794) and 7.12.2017-9.12.2017 (MP 794 lapsed,
+  MP 774 applies again until its own lapse: the MP 905/955 model); first struck copy (with MP 774's notes) set aside.
+  MP 612's § 21 wording: never in effect (in force 1.8.2013, lapsed 1.8.2013, Lei 12.844's wording from the same day;
+  judgement call, as MP 413 in Lei 10.637), decision line.
+- c) MP 382/392: MP_PENDING mp-382-2007 + the two NOTE_FIX entries, worded as part zm's (Leis 10.637/10.833).
+- d) Art. 8 §§ 15, 16, 23 (REIQ): _RQ10_TABLE + _rq10865_model, hooked after B8.apply_span_fix (as Lei 11.196's REIQ in
+  zzzy): one copy of each wording, gaps G694 (§ 15 II/III, 1.1-9.3.2016), G836, G1034 (1.7-15.7.2021, back with Lei 14.183),
+  G1095 (1.4-22.6.2022, back with Lei 14.374); § 15 IV old wording ends 1.7.2021 (Lei 14.183's IV from 15.7.2021); § 15 VI
+  (Lei 14.183) ends 1.4.2022; § 15 IX from 22.12.2022 (vetoed, promulgated); § 15 caput (Lei 12.859) ends 20.3.2026 (LC 228).
+  § 16 gets G1095 although Planalto prints no MP 1.095 note on it: MP 1.095 art. 1 I names §§ 15, 16 and 23 (the MP's text
+  governs; decision line). The 'ends before it starts' problems (§ 15, § 21) are gone.
+- e) Mixed lines: a _paragraphs wrapper (page l10865 only) drops Planalto's trailing markers 'Produção de efeito e vigência'
+  and '(Sem eficácia)' from the text; art. 8 § 21 VI is then struck; art. 28 VIII (Lei 11.727's wording, only the CTB citation
+  struck, the consolidated page prints it whole) is read as unstruck with the words kept (as Lei 10.522 art. 37-B § 10).
+- Art. 28 parágrafo único (found on the way): MP 428/2008 wording 13.5-24.6.2008 (Planalto prints it after Lei 11.727's line;
+  it had a zero span), Lei 12.249's wording out 24.6-4.11.2010 (MP 491 renumbered it § 1º), MP 545 to 18.11.2011, MP 549 from
+  18.11.2011 to 26.3.2012 (Lei 12.599, MP 545's conversion, rewords it 'XIII a XXI' again). SPAN_FIX + decision line.
+- Trial m4 (zzzzm-t4.json): 820 paragraphs (580 plain, 240 struck, 0 mixed), 57 units, 67 versions, 0 problems, 9 units differ
+  from the consolidated page (art-08 '§ 6º e 6º-A -' / XVII / '§ 20. (Sem eficácia)' / 'I-III - Produção de efeito e vigência';
+  art-14-a '(Vgência)'; arts. 17, 21, 24, 34, 37 label-only quoted lines; art-28 'XIX - (Sem eficácia)'; art-42 cut line).
+
+### Lei 10.865: TO DO (next session, in this order)
+  f) the 9 diff units: EXPLAINED[_L10865] for the label-only quoted lines (arts. 17, 21, 24, 34, 37: as zzzzc/zl), the
+     consolidated page's '(Sem eficácia)' placeholders (art-08 § 20, art-28 XIX: MP 491, lapsed), its 'Produção de efeito e
+     vigência' placeholders for the revoked § 21 I-III, '(Vgência)' typo (art-14-a), art-42's cut line; art-08 '§ 6º e 6º-A -'
+     and XVII (8402.19.00, 'Usinas Termonucleares'): read both pages before deciding.
+  g) art. 45: MP 164/2004's original wording of art. 8 §§ 1º-3º, 5º, 8º, 9º, arts. 16, 17, 22 from 1.5.2004, the Lei's from
+     1.8.2004. MP 164's page is cached (txt56/law_mp-164-2004.txt, 719 lines): compare unit by unit; SPAN_FIX/inserted lines.
+  h) effect days -> effects_fix.py '99-batch17zzzzm.json' (and SPAN_FIX where a later change intervenes): at least mp-472-2009
+     art. 29 (art. 7 § 1º) 1.4.2010; Lei 12.546 § 21 IV-VI effects 1.4.2012 (art. 52 § 4º); MP 563 art. 43 (§ 21 caput) and art.
+     53 II (revocation of § 21 I-VI) in force 1.8.2012 (art. 54 § 2º), not 4.4.2012 (its art. 51, art. 40, is on publication),
+     Lei 12.715 art. 78 § 2º (arts. 53-56 from 1.8.2012 = before its publication 18.9.2012, publication kept; § 15/§ 23 on
+     publication); Lei 13.137/2015 (conversion of MP 668) effect days; Lei 13.670/2018 art. 2 (§ 21) vigência; LC 228/2026
+     day (20.3.2026?); then the remaining 'Produção de efeito'/'Vigência' markers over the 65 linked acts (vig56.py over
+     txt56 dumps; dump the rest with txt56.py first).
+  i) futuro: _FUT2027[_L10865] = LC 214 art. 542 XXIII (revoked from 1.1.2027): arts. 1-20, 22, 23, 27-31, 34, 36-38, 40,
+     40-A, 42 (read on LC 214's page, txt56/law_lc-214-2025.txt line ~19051; the 35 LC 214 notes on Planalto's page are all
+     'Vide'); decision as zzzzl's; Lei 14.183 art. 9's 2028 revocation is already covered by the REIQ decision line.
+  j) OPEN_ITEMS[_L10865] (Vide pointers incl. MP 1.157/2023, 1.202/2023, 1.208/2024; Anexos if any), PARTS comment 'trial'
+     removed, pipe.sh zzzzm (one at a time), dupsame/uniqlaws 0, merged check 0/0 main + futuro, --compare, audit_push,
+     rows-zzzzm.json + docs.py, PUBLISH only when every check is clean.
+  Then Lei 12.546/2011 (NCM tables in scope; must replay exactly or the act is held, with the reason). Its page is cached
+  (law:lei-12546-2011 = txt56/law_lei-12546-2011.txt, 16,249 lines).
+- PIDs (all mine, all exited): pids56.txt. Outside the wrappers (no network, read-only): Read/Grep/Glob tool reads of
+  PROGRESS.md, BRIEF.md, batch17/PROGRESS.md, parser lines, tools, page texts and logs; at the start one `wc`/`grep` of
+  batch17/PROGRESS.md and one `cat` of mk56.log in a bash call before I switched to rr56. Files written with Write/Edit: my
+  tools/specs (mk56.py, edits56/mk1.py, mk2.py, session56.md, finish56.py) and vig56.py's pattern line. Every parser and
+  bad_pins.json edit went through ed56.py under run.py.
+
+## State at handoff (batch 17, fifty-sixth session, 2026-11-02)
+Nothing published or installed this session. Installed (unchanged): 307 acts, 4207 versions, 2925 commits, check 0/0, --compare
+identical, audit_push clean main + futuro (session 55's fb1). Files changed: parse_batch17.py (part zzzzm block, +271 lines),
+bad_pins.json (+ law:lei-12456-2011), PROGRESS.md, this file. sources_batch17.json: +3 Ato pins (ato:adc-70-2017-mpv774,
+ato:adc-67-2017-mpv794, ato:atocn-46-2010-mpv491). No corpus.d/99-batch17zzzzm.* exists. Claim released.
+TO DO: Lei 10.865 f)-j) above, then Lei 12.546/2011, then the rest of the ranked list.
+OPEN / DATED RE-CHECKS unchanged.
