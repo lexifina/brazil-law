@@ -9438,6 +9438,152 @@ if any(a["slug"] == _LPELE for a in ACTS):
         "2020-10-16", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 133, de 2020 (DOU 20.10.2020): Medida "
                       "Provisória 984/2020 'teve seu prazo de vigência encerrado no dia 15 de outubro de 2020'; the wordings "
                       "it had replaced are back from 16.10.2020")
+    # Lei 13.756/2018 art. 47: 'Esta Lei entra em vigor: I - após decorridos 180 (cento e oitenta dias) da data de sua
+    # publicação oficial, em relação à alteração do art. 18-A da Lei nº 9.615 [...] constante do art. 37 desta Lei; e II - na
+    # data de sua publicação, em relação aos demais dispositivos' (DOU 13.12.2018): 180 days counted as LC 95 art. 8 § 1º
+    P.VIGENCIA_PROVISION[("lei-13756-2018", _LPELE, "art-18-a")] = (
+        "2019-06-11", "Lei 13.756/2018 art. 47 I: its art. 37's change to Lei 9.615 art. 18-A in force 'após decorridos 180 "
+                      "(cento e oitenta dias) da data de sua publicação oficial' (DOU 13.12.2018; counted as Lei Complementar 95 "
+                      "art. 8 § 1º); its other changes to Lei 9.615 in force on publication (art. 47 II)")
+    # Lei 14.117/2021 (DOU 11.1.2021) art. 8, the new wording of art. 46-A § 2º, was vetoed; Congress overrode the veto and
+    # the part was promulgated (DOU 30.4.2021, printed on Lei 14.117's page, 'Promulgação partes vetadas')
+    P.VIGENCIA_PROVISION[("lei-14117-2021", _LPELE, "art-46-a")] = (
+        "2021-04-30", "Lei 14.117/2021 art. 8 (the new wording of Lei 9.615 art. 46-A § 2º) was vetoed in the Lei of 8.1.2021 "
+                      "(DOU 11.1.2021); Congress overrode the veto and the part was promulgated in the DOU of 30.4.2021 "
+                      "(printed on Lei 14.117's page, 'Promulgação partes vetadas'); Lei 14.117 art. 10: in force on "
+                      "publication. The 2003 wording of § 2º stands to then")
+    B15.TEXT_FIX.append(("l9615", "judicial: Promulgação partes vetadas$", "judicial:",
+                         "Lei 9.615 art. 46-A § 2º (Lei 14.117/2021): Planalto prints its link 'Promulgação partes vetadas' at "
+                         "the end of the line; it is not part of the text (Lei 14.117's promulgated art. 8 ends the line at "
+                         "'judicial:')"))
+    # Lei 14.073/2020's page ends 'Este texto não substitui o publicado no DOU de 15.10 de 2020', which the reader cannot
+    # read as a day
+    B8.LAW_FIELD_FIX["lei-14073-2020"] = (
+        {"published": "2020-10-15"},
+        "Lei nº 14.073, de 14.10.2020: its page ends 'Este texto não substitui o publicado no DOU de 15.10 de 2020' (day and "
+        "month written with a full stop, the year with 'de'): published 15.10.2020")
+    P.VIGENCIA_FIXED["lei-14073-2020"] = (
+        "2020-10-15", "art. 21: 'Esta Lei entra em vigor na data de sua publicação' (DOU 15.10.2020, as its page prints it, "
+                      "'15.10 de 2020')")
+    _W10_3 = ("Lei 9.615 art. 10 § 3º ('(VETADO)', Lei 11.118/2005): Planalto prints its two notes with one closing "
+              "parenthesis missing ('(Revogado pela Medida Provisória nº 841, de 2018 ( Vigência encerrada ) (Revogado pela "
+              "Lei nº 13.756, de 2018)'), which the reader cannot split; it ends as the rest of art. 10 does: out while "
+              "Medida Provisória 841/2018 stood (12.6.2018 to its lapse on 23.10.2018), back from 24.10.2018, revoked by Lei "
+              "13.756/2018 (13.12.2018)")
+    B8.SPAN_FIX += [
+        ((_LPELE, "art-10", "§ 3º", "§ 3º (VETADO)", 0),
+         {"end": "2018-12-13", "end_law": "lei-13756-2018", "end_how": "note",
+          "gaps": [("2018-06-12", "2018-10-24", "mp-841-2018", "mp-841-2018-fim")]}, _W10_3),
+    ]
+    _PELE_BINGO = {f"art-{n}" for n in range(59, 82)}
+    _RX_BINGO_NOTE = re.compile(r"\s*\(Revogad[oa], a partir de 31/12/2001, pela Lei n[º°o]\s*9\.981, de 2000\)\s*$")
+    PELE_USED: dict[str, list[str]] = {}
+    _paragraphsPELE = P.paragraphs
+
+    def _paragraphs_pele(html, digits):
+        """Lei 9.615 arts. 59 to 81 (the bingo chapter): Planalto prints 'Revogado, a partir de 31/12/2001, pela Lei nº
+        9.981, de 2000' after some lines, a form the reader leaves in the text; the words are lifted out (the chapter's end
+        is set in _pele_model)"""
+        out, rest = _paragraphsPELE(html, digits)
+        if B8.CURRENT_PAGE[0] == "l9615":
+            for q in out:
+                if not q["heading"] and q["unit"] in _PELE_BINGO and _RX_BINGO_NOTE.search(q["text"]):
+                    q["text"] = _RX_BINGO_NOTE.sub("", q["text"])
+                    PELE_USED.setdefault("bingo_note", []).append(q["unit"])
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_pele
+
+    def _pele_13322_55b() -> str | None:
+        """the caput of art. 55-B in Lei 13.322/2016's own words (art. 1, read on its page)"""
+        if "w55b" in PELE_USED:
+            return PELE_USED["w55b"][0]
+        import html as _h
+        r = P.raw("law:lei-13322-2016")
+        words = None
+        if r:
+            t = re.sub(r"\s+", " ", _h.unescape(re.sub(r"<[^>]+>", " ", P.decode(r[0]))))
+            m = re.search(r"(Art\. 55-B\. Até a entrada em funcionamento da JAD, .{0,300}?de que tratam os arts\. 49 a 55\.)", t)
+            words = m.group(1) if m else None
+        PELE_USED["w55b"] = [words]
+        return words
+
+    def _pele_model(paras, record):
+        """(a) arts. 59 to 81: Lei 9.981/2000 art. 2 ('Ficam revogados, a partir de 31 de dezembro de 2001, os arts. 59 a 81
+        da Lei nº 9.615'); Planalto strikes the whole chapter and notes only some lines, so every struck line of those
+        articles with no end of its own ends on 31.12.2001, credited to Lei 9.981. (b) art. 55-B caput: Lei 13.322/2016, the
+        conversion of Medida Provisória 718/2016, gives it new words ('os arts. 49 a 55'); Planalto prints only the MP's
+        caput (struck), so Lei 13.322's caput is added in its own words from 29.7.2016"""
+        for p in paras:
+            if (not p["heading"] and p["unit"] in _PELE_BINGO and p.get("end") is None
+                    and (p.get("skip") or p.get("state") == "struck")):
+                p.update(end="2001-12-31", end_law="lei-9981-2000", end_how="note", skip=False, pinned=True)
+                if record:
+                    PELE_USED.setdefault("bingo_end", []).append(f"{p['unit']} [{p['label']}]")
+        if not any(p.get("pele_55b") for p in paras):
+            words = _pele_13322_55b()
+            old = [p for p in paras if p["unit"] == "art-55-b" and not p["heading"] and p["label"] == "Art. 55-B"
+                   and p.get("start_law") == "mp-718-2016"]
+            if words and len(old) == 1:
+                o = old[0]
+                v = dict(o, text=words, notes=[], gaps=[], start="2016-07-29", start_law="lei-13322-2016", end=None,
+                         end_law=None, end_how=None, skip=False, pinned=True, state="plain", pele_55b=True)
+                paras.insert(paras.index(o) + 1, v)
+            elif record:
+                B8.SPAN_MISSED.append(f"{_LPELE} art. 55-B caput (Lei 13.322): words {bool(words)}, {len(old)} MP lines")
+
+    _span_fixPELE = B8.apply_span_fix
+
+    def _apply_span_fix_pele(paras, act_slug, record):
+        _span_fixPELE(paras, act_slug, record)
+        if act_slug == _LPELE:
+            _pele_model(paras, record)
+
+    B8.apply_span_fix = _apply_span_fix_pele
+    EXTRA.append("Lei 9.615 arts. 59 to 81 (the bingo chapter): Lei 9.981/2000 (in force on publication, 17.7.2000) art. 2: "
+                 "'Ficam revogados, a partir de 31 de dezembro de 2001, os arts. 59 a 81 da Lei nº 9.615, de 24 de março de "
+                 "1998' (read on its page). Planalto strikes the whole chapter and prints 'Revogado, a partir de 31/12/2001, "
+                 "pela Lei nº 9.981, de 2000' after some of its lines (those words are not part of the text); every line of "
+                 "those articles ends on 31.12.2001, credited to Lei 9.981, unless an earlier wording replaced it (art. 59: "
+                 "Medidas Provisórias 2.049-24/2000 and 2.216-37/2001). The chapter's heading stays, as Planalto prints it")
+    EXTRA.append("Lei 9.615 art. 55-B caput: Medida Provisória 718/2016 added it ('... de que tratam os art. 49 a art. 55'); "
+                 "Lei 13.322/2016 (in force on publication, 29.7.2016), its conversion, gives it new words (art. 1: 'Art. "
+                 "55-B. Até a entrada em funcionamento da JAD, o processo e o julgamento de infrações relativas à dopagem no "
+                 "esporte permanecerão sob a responsabilidade da Justiça Desportiva de que tratam os arts. 49 a 55.'). "
+                 "Planalto's annotated page prints only the MP's caput, struck; Lei 13.322's caput is added in Lei 13.322's "
+                 "own words from 29.7.2016, credited to it (the consolidated page prints the same words)")
+    B.EXPLAINED[_LPELE] = {
+        "art-18": "the consolidated page prints the revoked inciso II as a bare label with its revocation note ('II - (Revogado "
+                  "pela Lei nº 12.395, de 2011).'); the history leaves revoked lines out",
+        "art-28": "the consolidated page prints the revoked incisos of § 5º as bare labels with their revocation notes ('I - "
+                  "(Revogado pela Lei nº 12.395, de 2011).'); the history leaves revoked lines out",
+        "art-29": "the consolidated page prints the incisos of § 7º, which Lei 12.395/2011 wrote as '(revogado)' and Planalto "
+                  "strikes with no day, as bare labels with a revocation note ('I - (Revogado pela Lei nº 12.395, de 2011).'), "
+                  "which the history leaves out; and typesetting: '8o' / '8º' (the ordinal sign printed as a superscript o)",
+        "art-27": "typesetting: 'no' / 'nº' (the ordinal sign printed as a superscript o) between the two Planalto pages",
+        "art-30": "typesetting: 'no' / 'nº' and '1o' / '1º' (the ordinal sign printed as a superscript o) between the two "
+                  "Planalto pages",
+        "art-31": "the consolidated page leaves out '§ 4º (VETADO)', which the annotated page prints ('Incluído e vetado pela "
+                  "Lei nº 10.672, de 2003'); the history keeps it as printed",
+        "art-46-a": "the consolidated page leaves out '§ 4º (VETADO)', which the annotated page prints ('Incluído e vetado pela "
+                    "Lei nº 10.672, de 2003'); the history keeps it as printed",
+        "art-90-a": "the consolidated page prints 'Art. 90-A.' with only its note ('Incluído e vetado pela Lei nº 10.672, de "
+                    "2003'); the annotated page prints 'Art. 90-A. (VETADO)', which the history keeps as printed",
+        "art-90-b": "the consolidated page prints 'Art. 90-B.' with only its note ('Incluído e vetado pela Lei nº 10.672, de "
+                    "2003'); the annotated page prints 'Art. 90-B. (VETADO)', which the history keeps as printed",
+        "art-84": "the annotated page prints the 1998 § 2º without its sign ('2º O disposto neste artigo aplica-se, também, "
+                  "...'; Planalto's anchor for the line is 'art84§2'); the consolidated page prints '§ 2º'. No amending act "
+                  "rewrote § 2º, so the line is kept as printed",
+        "art-92": "typesetting: the annotated page prints 'C.L.T.', the consolidated page 'C.L.T' (no final full stop) before "
+                  "the line's end",
+    }
+    B13.OPEN_ITEMS[_LPELE] = (
+        "Lei 9.615 (open items): Lei 14.597/2023 (Lei Geral do Esporte) does not revoke this Lei (its art. 217 II, which named "
+        "it, is '(VETADO)' on its page); 'Vide' pointers (Medidas Provisórias 1.926/1999, 39/2002 and 984/2020's art. 2, "
+        "Decretos 3.659/2000, 4.201/2002 and 5.139/2004, Leis 9.649/1998, 11.118/2005, 12.876/2013 and 13.756/2018, ADI 7580) "
+        "strike no words and are not modelled; Lei 12.868/2013's art. 18-A takes effect 'a partir do 6º (sexto) mês contado "
+        "da publicação' (art. 20 parágrafo único), a deferred effect: the wording keeps the Lei's in-force day; earlier "
+        "editions of the Medida Provisória 2.049 chain are not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
