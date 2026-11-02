@@ -7770,12 +7770,17 @@ def _effects_model(paras, record):
         if u in _BEM_HELD:
             p.update({"skip": True, "pinned": True}); used.append(_W_HELD)
     # arts. 28 to 30: Medida Provisória 690 (one copy of each wording; absent 1.12.2015 to 31.12.2015)
-    for p in paras:
-        if p["heading"] or p["unit"] not in ("art-28", "art-29", "art-30"):
+    for unit, cap in (("art-28", "Art. 28"), ("art-29", "Art. 29")):
+        rows = [p for p in paras if p["unit"] == unit and not p["heading"]]
+        caps = [k for k, p in enumerate(rows) if p["label"] == cap]
+        if len(caps) != 3:     # the struck copy, the reprint of the 2005 wording, Lei 13.241's
+            if record:
+                B8.SPAN_MISSED.append(f"{_LBEM} {unit} MP 690 copies: {len(caps)} capita")
             continue
-        if p["end_law"] == "mp-690-2015" and any("Revogado pela Medida Provisória nº 690" in n for n in p["notes"]):
+        for p in rows[:caps[1]]:      # the struck copy Planalto prints before the article as Lei 13.241 left it
             p.update({"skip": True, "pinned": True}); used.append(_W_690)
-        elif p["start_law"] == "mp-690-2015" and not p.get("skip"):
+        p = rows[caps[1]]
+        if p["start_law"] == "mp-690-2015":
             p.update({"start": "2005-11-22", "start_law": None, "pinned": True})
     for p in paras:
         if p["heading"] or p.get("skip") or p["unit"] not in ("art-28", "art-29", "art-30"):
