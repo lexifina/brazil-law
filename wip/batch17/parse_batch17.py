@@ -9799,6 +9799,20 @@ if any(a["slug"] == _L10931 for a in ACTS):
                  "Complementar 227/2026 worded it). Planalto's annotated page prints only 'Vide Lei Complementar nº 214' "
                  "notes for them; the new lines are read on Lei Complementar 214's page, each checked word for word against "
                  "its art. 510")
+    B.EXPLAINED[_L10931] = {
+        "art-08": "the consolidated page already prints the parágrafo único in the wording Lei Complementar 214/2025 art. 510 "
+                  "gives it from 1.1.2027 ('O percentual de 0,47% ...'); the history has that wording on the future branch "
+                  "from 1.1.2027 and the wording of Lei 12.024/2009 ('O percentual de 1% ...') until then",
+        "art-57": "art. 57 gives Lei 9.514/1997 new wordings, quoted; the annotated page strikes the quoted 'Art. 8º' and "
+                  "'Art. 16' lines with the notes 'Revogado pela Medida Provisória nº 1.103, de 2022' and 'Revogado pela Lei "
+                  "nº 14.430, de 2022' (which revoked Lei 9.514 art. 8 I and art. 16 § 3º); the history follows the annotated "
+                  "page, the consolidated page still prints the quoted headings",
+    }
+    B13.OPEN_ITEMS[_L10931] = (
+        "Lei 10.931 (open items): 'Vide' pointers (Lei Complementar 214/2025 on arts. 4 and 8 before 2027, Medida Provisória "
+        "601/2012 on the restored wordings, decrees) strike no words and are not modelled; Lei 12.844/2013's effects reaching "
+        "back to 4.6.2013 keep its publication day (19.7.2013); the quoted wordings art. 57 gave Lei 9.514/1997 follow Planalto's "
+        "notes")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():

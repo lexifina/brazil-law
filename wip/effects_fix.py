@@ -594,6 +594,14 @@ MOVES: dict[str, list] = {
          "Lei Complementar 214/2025 art. 544: 'produzindo efeitos: I - a partir do primeiro dia do quarto mês subsequente ao da sua "
          "publicação, em relação aos arts. 537 a 540' (DOU 16.1.2025): its art. 539 (Lei 10.833 art. 2 § 1º-A) from 1.5.2025"),
     ],
+    "99-batch17zzzze.json": [
+        ("lei-10931-de-2004", "mp-601-2012", "2012-12-28", [(ALL, "2013-01-01")],
+         "Medida Provisória 601/2012 art. 7: 'Esta Medida Provisória entra em vigor: [...] II - na data de sua publicação, "
+         "produzindo efeitos a partir de 1º de janeiro de 2013, em relação aos arts. 4º e 6º' (DOU 28.12.2012): its art. 4 (Lei "
+         "10.931 arts. 4 and 8) from 1.1.2013, until it lapsed (4.6.2013)"),
+        ("lei-10931-de-2004", "lc-214-2025", "2025-01-16", [(ALL, "2026-01-01")],
+         _LC214 + "; its art. 498 (Lei 10.931 art. 3) falls under VI: from 1.1.2026"),
+    ],
     "99-batch17zzr.json": [
         ("lei-da-comercializacao-de-energia-eletrica", "lei-15269-2025", "2025-11-25", [("units:art-03-d", "2026-02-23")],
          "Lei 15.269/2025 art. 24: 'Esta Lei entra em vigor na data de sua publicação e produz efeitos: [...] II - em 90 "
