@@ -749,6 +749,9 @@ ALL_ACTS: list[dict] = [
     # sixty-fourth session: the fresh ranked list, one act per part (annotated pages, no compiled page: each is its own check)
     _act("lei-do-pis", "LPIS", "lcp07", "lcp07", "lc-7-1970",
          "Programa de Integração Social - PIS (Lei Complementar nº 7, de 7 de setembro de 1970)", 2),
+    _act("lei-da-cofins", "LCofins", "lcp70", "lcp70", "lc-70-1991",
+         "Contribuição para o Financiamento da Seguridade Social - Cofins (Lei Complementar nº 70, de 30 de dezembro de "
+         "1991)", 2),
     # forty-fourth session: read from the 2026 capture with the repeal's page-wide CSS strike removed; its pre-repeal check
     # is the capture of 2.6.2002
     _act("codigo-civil-de-1916", "CC16", "l3071", "l3071-2002", "lei-3071-1916",
@@ -908,6 +911,7 @@ PARTS: dict[str, list[str]] = {
     "zzzzn": ["lei-12546-de-2011"],
     # sixty-fourth session
     "zzzzo": ["lei-do-pis"],
+    "zzzzp": ["lei-da-cofins"],
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
@@ -1271,6 +1275,11 @@ ACT_DAY_ALL = {**B16.ACT_DAY_ALL,
                                      "15.12.2011), save the days its paragraphs state"),
     "lc-7-1970": ("1970-09-08", "Lei Complementar 7/1970 art. 13: 'Esta Lei Complementar entrará em vigor na data de sua "
                                 "publicação' (DOU 8.9.1970, rectified 10.9.1970)"),
+    # dated by its effects clause, as Lei 9.249/1995 (coordinator, part h): 31.12.1991 + 90 days = 30.3.1992
+    "lc-70-1991": ("1992-04-01", "Lei Complementar 70/1991 art. 13: 'Esta lei complementar entra em vigor na data de sua "
+                                 "publicação, produzindo efeitos a partir do primeiro dia do mês seguinte aos noventa dias "
+                                 "posteriores, àquela publicação' (DOU 31.12.1991): the ninety days end on 30.3.1992, so its "
+                                 "provisions take effect on 1.4.1992"),
 }
 ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
     "lei-5889-1973": _L("Lei nº 5.889, de 1973", "Estatui normas reguladoras do trabalho rural.", "1973-06-08", "1973-06-11",
@@ -1921,6 +1930,9 @@ ACT_LAWS_ALL = {**B16.ACT_LAWS_ALL,
                          "_Ato2011-2014/2011/Lei/L12546.htm"),
     "lc-7-1970": _L("Lei Complementar nº 7, de 1970", "Institui o Programa de Integração Social, e dá outras providências.",
                     "1970-09-07", "1970-09-08", PAGES["lcp07"]),
+    "lc-70-1991": _L("Lei Complementar nº 70, de 1991", "Institui contribuição para financiamento da Seguridade Social, eleva "
+                     "a alíquota da contribuição social sobre o lucro das instituições financeiras e dá outras providências.",
+                     "1991-12-30", "1991-12-31", PAGES["lcp70"]),
 }
 B.ACT_DAY.clear()
 B.ACT_DAY.update({k: v for k, v in ACT_DAY_ALL.items() if any(a["law"] == k for a in ACTS)})
@@ -12066,6 +12078,40 @@ if any(a["slug"] == _LPIS for a in ACTS):
     B13.OPEN_ITEMS[_LPIS] = (
         "Lei Complementar 7 (open items): 'Vide' pointers (Leis Complementares 8/1970, 17/1973 and 19/1974, Decreto-Lei "
         "2.052/1983, Decreto 4.524/2002 and the 1988 Constitution) strike no words and are not modelled")
+
+# part zzzzp (sixty-fourth session): Lei Complementar 70/1991 (Cofins). In force on publication, effects from 1.4.1992 (art.
+# 13; ACT_DAY_ALL). Amended by Lei Complementar 85/1996 (art. 7) and Lei 13.353/2016 (art. 6 IV; its art. 7 parágrafo único
+# leaves the effects to a later condition, so the change keeps the in-force day: effect-days rule); Medida Provisória
+# 2.158-35/2001 art. 93 II a) and b) revokes art. 6 I and III and art. 7 'a partir de 30 de junho de 1999' (a retroactive
+# day: the revocation keeps the MP's in-force day). Planalto's ten 'Produção de efeitos' links: one under the title (art. 13),
+# eight beside the '(Vide Lei Complementar nº 214, de 2025)' notes of arts. 1 to 6, 9 and 10 (LC 214 art. 542 III, from
+# 1.1.2027) and one after art. 6 IV (Lei 13.353 art. 7 parágrafo único).
+_LCOFINS = "lei-da-cofins"
+if any(a["slug"] == _LCOFINS for a in ACTS):
+    P.MP_PENDING["mp-2158-2001"] = (
+        "Medida Provisória nº 2.158-35, de 24.8.2001 (DOU 27.8.2001), kept in force by Emenda Constitucional 32/2001, art. 2; "
+        "its art. 93 II revokes 'a partir de 30 de junho de 1999' a) art. 6 I and III and b) art. 7 of Lei Complementar 70 "
+        "(and Lei Complementar 85/1996), a day before its own publication: a retroactive revocation, so it keeps the MP's "
+        "in-force day. Planalto's notes name this edition only; earlier editions of the chain are not modelled")
+    # Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] III - os seguintes
+    # dispositivos da Lei Complementar nº 70, de 30 de dezembro de 1991: a) os arts. 1º a 6º; e b) os arts. 9º e 10'):
+    # future branch (Planalto's page of LC 70 prints only '(Vide Lei Complementar nº 214, de 2025)')
+    _FUT2027[_LCOFINS] = (
+        {"art-01", "art-02", "art-03", "art-04", "art-05", "art-06", "art-09", "art-10"}, {},
+        "Lei Complementar 70: Lei Complementar 214/2025 art. 542 ('Ficam revogados a partir de 1º de janeiro de 2027: [...] "
+        "III - os seguintes dispositivos da Lei Complementar nº 70, de 30 de dezembro de 1991: a) os arts. 1º a 6º; e b) os "
+        "arts. 9º e 10'), read on LC 214's page (Planalto's page of Lei Complementar 70 prints only '(Vide Lei Complementar "
+        "nº 214, de 2025)' with a 'Produção de efeitos' link beside each of those articles): those articles end on "
+        "1.1.2027, on the future branch")
+    B8.EXTRA_LAWS["lc-214-2025"] = {
+        "label": "Lei Complementar nº 214, de 2025", "title": "Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição "
+        "Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação "
+        "tributária.", "kind": "law", "enacted": "2025-01-16", "published": "2025-01-16",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp214.htm", "temporary_until": None, "restores": None,
+        "note": None}
+    B13.OPEN_ITEMS[_LCOFINS] = (
+        "Lei Complementar 70 (open items): 'Vide' pointers (Lei 11.196/2005 on art. 3, Decreto 4.524/2002) strike no words "
+        "and are not modelled")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
