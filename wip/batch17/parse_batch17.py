@@ -8394,6 +8394,20 @@ _CPC73_ENDS = [
 ]
 _W_CPC73_ENDS = ("Código de Processo Civil de 1973, line ends Planalto's annotated page misprints, corrected from the amending "
                  "law's own text (the consolidated page prints them so too): {x}")
+_CPC73_REPEALX_UNITS = {"art-0018", "art-0039", "art-0315", "art-0431", "art-0511", "art-1088", "art-1092", "art-1094",
+                        "titulos"}
+_W_CPC73_REPEALX = (
+    "Código de Processo Civil de 1973, the pre-repeal check (the last version before the repeal against the unstruck text "
+    "of Planalto's consolidated page as captured on 29.10.2015): every remaining difference explained: art-0018: the "
+    "consolidated page ends the line with a stray '>'; art-0039: it prints 'no I' and 'no II' for 'nº I' and 'nº II'; "
+    "art-0315 and art-0511: it prints the renumbering notes ('§ 1º renumerado pela Lei nº 9.245, de 26.12.1995', 'Parágra "
+    "único renumerado pela Lei nº 9.756, de 17.12.1998') as text; art-0431: it prints '(Revogado pela Lei nº 8.455, de "
+    "24.8.1992))' with a second closing parenthesis, which is left as a line; art-1088, art-1092 and art-1094: it prints a "
+    "stray full stop after the label of these revoked articles ('Art. 1.088. .'), left as a line; titulos: it prints "
+    "unstruck the headings Capítulo VI, Da liquidação da sentença (revoked by Lei 11.232/2005), Subseção III, Da "
+    "adjudicação de imóvel, and Título V, Da remição (revoked by Lei 11.382/2006), which the annotated page strikes under "
+    "those notes. The 'Replay check' line's 0 articles compares nothing: for an act repealed as a whole this pre-repeal "
+    "check takes the place of the check against today's page")
 CPC73_USED: dict[str, list] = {"labels": [], "notes": [], "fold": [], "never": [], "ends": []}
 if any(a["slug"] == _LCPC73 for a in ACTS):
     P.NOTE_FIX["(Redação pela Lei nº 11.232, de 2005)"] = (
@@ -8527,6 +8541,12 @@ if any(a["slug"] == _LCPC73 for a in ACTS):
         if CPC73_USED["ends"]:
             B5.EXTRA_DECISIONS.append(_W_CPC73_ENDS.format(x="; ".join(dict.fromkeys(CPC73_USED["ends"]))) + ".")
         B5.EXTRA_DECISIONS.append(_W_CPC73_SPANS["741"] + ".")
+        rc = [x for x in B9.REPEAL_CHECK if x.startswith("CPC73:")]
+        units = set(re.findall(r"(?:: |; )(art-[0-9a-z-]+|titulos): ", rc[0])) if rc else None
+        if units == _CPC73_REPEALX_UNITS:
+            B5.EXTRA_DECISIONS.append(_W_CPC73_REPEALX + ".")
+        else:
+            print("CPC73 REPEAL CHECK: differences not as explained:", sorted(units or []))
         return _innerCPC73(*a)
 
     B6.PB5B._write_part5 = _inner_cpc73
