@@ -7539,7 +7539,7 @@ if any(a["slug"] == _LBEM for a in ACTS):
     P.NOTE_FIX["(Revogado pela Lei nº 13.241, de 1941)"] = (
         "(Revogado pela Lei nº 13.241, de 2015)",
         "Lei 11.196 art. 30: the note reads 'Lei nº 13.241, de 1941'; its link goes to Lei 13.241 of 30.12.2015 (conversion of "
-        "Medida Provisória 690/2015), whose art. 14 revokes art. 30")
+        "Medida Provisória 690/2015; the link points to its art. 12)")
     B7.CONVERTED_FIX["mp-690-2015"] = ("lei-13241-2015", "the MP page reads 'Convertida na Lei nº 13;241, de 2015' (a semicolon "
                                                          "for the point)")
     P.MP_LAPSE["mp-836-2018"] = (
