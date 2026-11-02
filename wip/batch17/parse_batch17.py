@@ -12112,6 +12112,11 @@ if any(a["slug"] == _LCOFINS for a in ACTS):
     B13.OPEN_ITEMS[_LCOFINS] = (
         "Lei Complementar 70 (open items): 'Vide' pointers (Lei 11.196/2005 on art. 3, Decreto 4.524/2002) strike no words "
         "and are not modelled")
+    EXTRA.append("Lei Complementar 70 art. 7: Lei Complementar 85/1996 (DOU 16.2.1996; art. 2: 'Esta Lei Complementar entra "
+                 "em vigor na data de sua publicação, retroagindo seus efeitos a 1º de abril de 1992') gave art. 7 its "
+                 "wording in the same words as the Lei Complementar's own, line by line (Planalto prints both, struck; the "
+                 "original inciso VI's 'serv iços' is a split word on the page); since no word changes, no version shows "
+                 "it, and art. 7 stands in those words from 1.4.1992 until Medida Provisória 2.158-35/2001 revoked it")
 
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
