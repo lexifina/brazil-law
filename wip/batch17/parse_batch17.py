@@ -9695,6 +9695,31 @@ if any(a["slug"] == _LPELE for a in ACTS):
         "da publicação' (art. 20 parágrafo único), a deferred effect: the wording keeps the Lei's in-force day; earlier "
         "editions of the Medida Provisória 2.049 chain are not modelled")
 
+# ---------------------------------------------------------------------------------------------------------------
+# part zzzze (forty-ninth session): Lei 10.931/2004 (patrimônio de afetação, LCI, CCI, Cédula de Crédito Bancário). In force
+# on publication (art. 66, DOU 3.8.2004).
+_L10931 = "lei-10931-de-2004"
+if any(a["slug"] == _L10931 for a in ACTS):
+    P.VIGENCIA_FIXED["mp-601-2012"] = (
+        "2012-12-28", "art. 7: 'Esta Medida Provisória entra em vigor: [...] II - na data de sua publicação, produzindo efeitos a "
+                      "partir de 1º de janeiro de 2013, em relação aos arts. 4º e 6º' (DOU 28.12.2012): its art. 4 (Lei 10.931 "
+                      "arts. 4 and 8) is in force on publication, with effect from 1.1.2013 (effect day: effects_fix)")
+    P.MP_LAPSE["mp-601-2012"] = (
+        "2013-06-04", "Ato Declaratório do Presidente da Mesa do Congresso Nacional nº 36, de 2013 (DOU 6.6.2013): 'teve seu "
+                      "prazo de vigência encerrado no dia 3 de junho do corrente ano'; the wordings it gave Lei 10.931 end on "
+                      "4.6.2013 and those it replaced are back")
+    P.VIGENCIA_FIXED["lei-12844-2013"] = (
+        "2013-07-19", "art. 49: 'Esta Lei entra em vigor: I - na data de sua publicação, com efeitos retroativos a 4 de junho de "
+                      "2013, [...] em relação aos arts. 16, 17 e 35 desta Lei' (DOU 19.7.2013, edição extra): its art. 16 (Lei "
+                      "10.931 arts. 4 and 8) in force on publication; the retroactive effect keeps the publication day")
+    P.VIGENCIA_FIXED["mp-656-2014"] = (
+        "2014-10-08", "art. 55: in force 'I - a partir de 1º de janeiro de 2015, em relação ao art. 3º; II - trinta dias após a "
+                      "sua publicação em relação aos arts. 9º a 17; e III - a partir da data de sua publicação, em relação aos "
+                      "demais artigos' (DOU 8.10.2014); its arts. 4 and 51 (Lei 10.931 arts. 4 § 6º and 17) fall under III")
+    P.NOTE_FIX["(Redação da pela Medida Provisória nº 656, de 2014)"] = (
+        "(Redação dada pela Medida Provisória nº 656, de 2014)", "Lei 10.931 arts. 4 § 6º and 17: the note reads 'Redação da "
+                                                                 "pela' (a misprinted 'dada')")
+
 SRC = HERE / "sources_batch17.json"
 if not SRC.exists():
     SRC.write_text('{\n "fetch": []\n}\n', encoding="utf-8", newline="\n")
