@@ -831,7 +831,7 @@ PARTS: dict[str, list[str]] = {
     # forty-seventh session
     "zzzzc": ["lei-da-elaboracao-das-leis"],
     # forty-eighth session
-    "zzzzd": ["lei-pele"],   # in progress, not published
+    "zzzzd": ["lei-pele"],   # PUBLISHED in the forty-eighth session
 }
 VERIFIED: list[str] = PARTS.get(PART, [])
 ENABLED = [s for s in os.environ.get("BATCH17_ACTS", "").split(",") if s] or VERIFIED
