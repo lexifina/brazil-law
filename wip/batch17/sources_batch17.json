@@ -1716,6 +1716,12 @@
    "via": "wayback.py"
   },
   {
+   "id": "law:dec-2044-1908",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/1900-1909/D2044.htm",
+   "ts": "20080914202730",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:dec-4427-2002",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto/2002/D4427.htm",
    "ts": "20260823170333",
@@ -4275,6 +4281,12 @@
    }
   },
   {
+   "id": "law:lei-7542-1986",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l7542.htm",
+   "ts": "20261009152716",
+   "via": "wayback.py"
+  },
+  {
    "id": "law:lei-7584-1987",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/L7584.htm",
    "ts": "20261009184125",
@@ -6295,6 +6307,18 @@
    "id": "lcp80",
    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm",
    "ts": "20261016052850",
+   "via": "wayback.py"
+  },
+  {
+   "id": "lim556",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lim/lim556.htm",
+   "ts": "20261023235140",
+   "via": "wayback.py"
+  },
+  {
+   "id": "lim556-compilado",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lim/lim556compilado.htm",
+   "ts": "20261005014152",
    "via": "wayback.py"
   }
  ]

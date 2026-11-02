@@ -2706,3 +2706,69 @@ sources_batch17.json (+5 pins), dupsame_allow.json (+4). Nothing running. Claim 
 NEXT: coordinator to confirm the no-day holds (art. 70 I d; arts. 110, 114, 115); then the historic codes (Código Comercial Lei
 556/1850, CPC 1973 Lei 5.869/1973, Código Civil 1916 Lei 3.071/1916; check each against installed parts first).
 OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff, plus: the SIT Edital dating FGTS Digital's 'operação efetiva'.
+
+## Forty-first session (2026-11-02): zzzy re-PUBLISHed on the coordinator's effects rule; Código Comercial surveyed and pinned
+Claim: scripts/world-law/claims/brazil-law.txt taken at the start (released at the end). Scratch: .gitlaw-scratch/brazil-b41
+(before/ = parse_batch17.py, sources_batch17.json, law_records.json, bad_pins.json, dupsame_allow.json, effects_fix.py, README,
+jurisdiction.json at session start; parse_batch17.after.py / effects_fix.after.py = state at handoff; logs/; tools/ = b40's +
+unitdays.py (unit-level day diff of two part files: text T / credit C per day; replays 'changes'), acts.py (installed acts by
+regex), cached.py (pin keys cached?), survey.py (note kinds and laws named on a page), struck.py (struck runs and headings),
+hrefs.py (hrefs on a page by regex); multi.py patched to read keys outside PAGES). robots.txt read at start: archive.org (Disallow
+/control/ /report/), web.archive.org 404 (b41/robots). archive.org only (pinat.py / cdxlist.py, shared client); no Common Crawl,
+no Arquivo.pt, no challenge page.
+### Coordinator decision applied: zzzy (Lei 11.196) re-PUBLISHed
+- Rule: effects tied to a later undated act -> the text keeps its in-force day (decision line naming the act); only a clause
+  deferring the provision's own vigência gets a hold. Wording read: Lei 11.196 art. 132 'Esta Lei entra em vigor na data de sua
+  publicação, produzindo efeitos: [...] VI [...] VII'; MP 1.107 art. 18, MP 1.110 art. 7 (its vigência article), Lei 14.438 art.
+  19 'entra em vigor na data de sua publicação e produz/produzirá efeitos' -> all effects-only: no holds.
+- parse_batch17.py (block '# part zzzy'): _BEM_HELD and the art-70 d)/held branches of _effects_model removed; _W_70 and _W_HELD
+  rewritten as decision lines (always recorded); EXPLAINED art-70/110/114/115 removed; OPEN_ITEMS sentence rewritten; _FUT2027
+  [_LBEM] art. 110 entries (LC 214 art. 515 caput, art. 542 XXXIV k § 4º) and text restored as in b40/before.
+- unitdays.py installed (b99f0176) vs new: only art-70, 110, 114, 115 change; one new day 18.3.2022. Found: the published part
+  had dropped art. 70 I d) entirely from 2.6.2015 (LC 150's wording, which the hold meant to keep); now LC 150's d) from 2.6.2015,
+  MP 1.107's from 18.3.2022; MP 1.110 and Lei 14.438 print the same words (no version).
+- pipe.sh zzzy (b41/logs/zzzy-pipe1.out): sha 4367bf12 x2, 0 problems, 13 units differ (all EXPLAINED), 7 moves, checks as in
+  the PUBLISH line (latecaput 52 incl. 13 art. 110 lines under LC 214's new caput on futuro, law text: only the caput replaced;
+  note pipe.sh shows only `tail -30` of latecaput). Installed corpus.d/99-batch17zzzy.json 00e3dbd0; PUBLISH line appended;
+  README row (62) + jurisdiction.json (3975 versions; docs.py's 5th field must be the build entry's own text, e.g.
+  'Lei 11.196/2005 2005-2027 (62)', else it appends a new entry: first run did that, jurisdiction.json restored from before/ and
+  redone). Final merged build of the installed folder (b41/logs/final-build.log): 294 acts, 3975 versions, 2764 commits, check
+  0/0, --compare identical, audit_push clean main + futuro.
+### Historic codes: none installed (acts.py over corpus.json + corpus.d). Código Comercial (Lei 556/1850) surveyed, NOT started in code
+- Pins (sources_batch17.json, additions only): lim556 (leis/lim/lim556.htm, ts 20261023235140), lim556-compilado
+  (lim556compilado.htm, 20261005014152), law:lei-7542-1986 (leis/l7542.htm, 20261009152716), law:dec-2044-1908
+  (decreto/1900-1909/D2044.htm, 20080914202730; captures after 2008 are stubs <3.2 KB).
+- What the source supports: the 1850 text; no 'Redação dada' notes at all (150 'Vide' pointers only, mostly DL 7.661/1945 on
+  the Parte Terceira, DL 305/1967 on arts. 11-19, DL 1.608/1939 and Lei 5.869 on the Título Único). Dated changes: (1) in force
+  1.1.1851 (art. 912: 'só principiará a obrigar e ter execução seis meses depois da data da sua publicação na Corte'; published
+  in the Secretaria d'Estado 1.7.1850); (2) Título XVI, arts. 354-427, revoked by Decreto (do Poder Legislativo) 2.044 of
+  31.12.1908 art. 57 (no vigência clause: work out the 1908 default rule and its publication day; CLB 1908 vol. 1 p. 216);
+  (3) arts. 731-739 revoked by Lei 7.542/1986 art. 38 (in force on publication, art. 37; DOU 29.9.1986); (4) Parte Primeira
+  (arts. 1-456) revoked by Lei 10.406/2002 art. 2.045 from 11.1.2003. Notes for (2)-(4) are bare struck text ('Revogado pelo
+  Decreto do Poder Legislativo nº 2.044, de 1908:', 'Revogado pela Lei nº 7.542, de 26.9.1986', heading 'Parte revogada pela Lei
+  10.406, de 10.1.2002'), not parenthesised: check the parser reads them. Consolidated page: 'Arts. 1º ao 456, revogados pela Lei
+  nº 10.406, de 2002', 'Arts. 731 a 739, revogados pela Lei nº 7.542', Parte Terceira (arts. 797-913) and the Título Único printed.
+- Parser issues to expect: the Título Único (administração da justiça) restarts at Art. 1º-30 -> unit keys clash with Parte
+  Primeira arts. 1-30 (needs its own unit prefix); incisos numbered '1 -', '2 -' (act digits param); the Parte Terceira's real
+  replacement by later falência laws is not noted on the page (keep it as printed, decision + README line).
+- CPC 1973 (Lei 5.869): leis/l5869.htm has 1,266 captures (latest ~243 KB, 2026-10); l5869compilada.htm captures are stubs.
+  CC 1916 (Lei 3.071): law:lei-3071-1916 already cached (1.39 MB, ts 20261022053934).
+- PIDs (all mine, foreground through run.py unless said; all exited): t1 35812, m1 24972, m2 19136, m3 49200, eff1 37536, ud1
+  24060 + 21956, m4 40328 + 10436, acts1 50812, cached1 53700, robots 18608, cdx1 18688 (moved to background by the tool
+  timeout, mine, finished), docs 14016, docs2 53184, final build 38068, pin1 13116, survey1 20836, struck1 47764, pin2 5768,
+  m5 46016 + 5472, m6 42504, cached2 51700, cdx2 36764, href1 27908, cdx3 53040, cdx4 26028, pin3 26856, pin4 27268, m7 10884,
+  m8 9388; pipe1 (background task, mine): 43268 12660 12180 17572 44768 54512 42692 (the 8 file checks' run.py PIDs went to
+  /dev/null in pipe.sh). One stray `find /` (no run.py) became a background task of this session and was stopped by its own
+  task id (no output used). Nothing running.
+
+## State at handoff (batch 17, forty-first session, 2026-11-02)
+Installed this session: zzzy re-PUBLISH (00e3dbd0, 62 versions). Merged build of the installed folder: 294 acts, 3975 versions,
+2764 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws 0; dupsame 0. README row + jurisdiction.json
+current. Files changed: parse_batch17.py (zzzy block only; diff vs b41/before = the edits above), sources_batch17.json (+4 pins),
+corpus.d/99-batch17zzzy.json + .PUBLISH (line appended), repo/README.md, repo/jurisdiction.json, PROGRESS.md checkpoint.
+effects_fix.py unchanged. Nothing running. Claim released.
+NEXT: Código Comercial as part zzzz (one act): PAGES lim556/lim556-compilado, _act (digits for '1 -' items), ACT_DAY_ALL
+lei-556-1850 1851-01-01 (art. 912), law records lei-556-1850 / dec-2044-1908 / lei-7542-1986 (lei-10406-2002 exists), the
+Título Único unit prefix, the 1908 day; then CPC 1973, then Código Civil 1916.
+OPEN / DATED RE-CHECKS: unchanged from the thirty-fourth handoff, plus: the SIT Edital dating FGTS Digital's 'operação efetiva'
+(now only an effects date; no text change hangs on it).
