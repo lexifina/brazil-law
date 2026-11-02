@@ -8786,6 +8786,43 @@ if any(a["slug"] == _LCC16 for a in ACTS):
                     continue
                 keep.append(p)
             out[:] = keep
+            # misprinted article labels: 'Art.. 1.659.' (arts. 1.659, 1.661-1.663, 1.665-1.667, 1.669, 1.720), 'Art. 1.
+            # 400.' and 'Art. 1.1504.': the label is read as printed elsewhere ('Art. 1.659.'), and the line and the
+            # unlabelled lines and paragraphs after it are filed under that article, not the one above (_W_CC16_LABELS)
+            cur = None
+            for p in out:
+                t, old, new = p["text"], None, None
+                m = re.match(r"Art\.\.\s*(\d\.\d{3})\.", t)
+                if m:
+                    old, new = m.group(0), f"Art. {m.group(1)}."
+                for o, n in (("Art. 1. 400.", "Art. 1.400."), ("Art. 1.1504.", "Art. 1.504.")):
+                    if t.startswith(o):
+                        old, new = o, n
+                if new and not p["heading"]:
+                    u = f"art-{int(new[5:-1].replace('.', '')):04d}"
+                    cur = (p["unit"], u)
+                    for f in ("text", "plain_text", "struck_text"):
+                        if isinstance(p.get(f), str) and p[f].startswith(old):
+                            p[f] = new + p[f][len(old):]
+                    p["unit"], p["label"] = u, new[:-1]
+                    CC16_USED.setdefault("labels", []).append(f"{old!r} -> {u}")
+                    continue
+                if (cur and p["unit"] == cur[0] and not p["heading"]
+                        and not (p["label"] or "").startswith("Art.")):
+                    p["unit"] = cur[1]
+                    CC16_USED.setdefault("labels-follow", []).append(f"{cur[1]} {P.norm(p['text'])[:30]!r}")
+                else:
+                    cur = None
+            # art. 333: the page prints '(Revogado pela Lei nº 8.560, de 1992)' after art. 333; Lei 8.560/1992 art. 10
+            # revokes art. 332, which the page strikes with no note and the 2002 capture prints as 'Revogado pela Lei
+            # n° 8.560, de 29.12.1992' (art. 333 in force): the note is art. 332's (_W_CC16_332)
+            n8560 = "(Revogado pela Lei nº 8.560, de 1992)"
+            a333 = [p for p in out if p["unit"] == "art-0333" and n8560 in p["notes"]]
+            a332 = [p for p in out if p["unit"] == "art-0332" and (p["label"] or "").startswith("Art.")]
+            if len(a333) == 1 and len(a332) == 1 and not a332[0]["notes"]:
+                a333[0]["notes"].remove(n8560)
+                a332[0]["notes"].append(n8560)
+                CC16_USED.setdefault("note332", []).append(1)
             for i, q in enumerate(out):
                 q["i"] = i
         if page == "l3071-2002":
@@ -9056,6 +9093,16 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "Código Civil de 1916, lines the page strikes only in part, with no note and no second wording: art. 443 III "
         "('(arts. 413 e 445)'), art. 458 (its words up to 'nascituros'), art. 624 ('condômino' in the caput, 'dividida' in "
         "the parágrafo único): each is read as one line and stands as printed to the repeal")
+    _W_CC16_LABELS = (
+        "Código Civil de 1916, misprinted article labels: the page prints 'Art.. 1.659.' (likewise arts. 1.661, 1.662, "
+        "1.663, 1.665, 1.666, 1.667, 1.669 and 1.720), 'Art. 1. 400.' and 'Art. 1.1504.'; each is read as 'Art. 1.659.' "
+        "('Art. 1.400.', 'Art. 1.504.'), and the line with the unlabelled lines and paragraphs printed after it is filed "
+        "under that article, not under the article above it")
+    _W_CC16_332 = (
+        "Código Civil de 1916 arts. 332 and 333: the page prints the note '(Revogado pela Lei nº 8.560, de 1992)' after "
+        "art. 333 and strikes art. 332 with no note; Planalto's page as captured on 2.6.2002 prints 'Art. 332. Revogado "
+        "pela Lei n° 8.560, de 29.12.1992' and art. 333 in force, so the note is read as art. 332's: art. 332 ends with "
+        "Lei nº 8.560/1992 and art. 333 stands to the repeal")
     _innerCC16 = B6.PB5B._write_part5
 
     def _inner_cc16(*a) -> int:
@@ -9082,6 +9129,10 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         B5.EXTRA_DECISIONS.append(_W_CC16_SUPPR + ".")
         B5.EXTRA_DECISIONS.append(_W_CC16_ART35 + ".")
         B5.EXTRA_DECISIONS.append(_W_CC16_MIXED + ".")
+        if CC16_USED.get("labels"):
+            B5.EXTRA_DECISIONS.append(_W_CC16_LABELS + ".")
+        if CC16_USED.get("note332"):
+            B5.EXTRA_DECISIONS.append(_W_CC16_332 + ".")
         return _innerCC16(*a)
 
     B6.PB5B._write_part5 = _inner_cc16
