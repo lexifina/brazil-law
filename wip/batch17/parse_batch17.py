@@ -10113,6 +10113,48 @@ if any(a["slug"] == _LDPVAT for a in ACTS):
         "and does not restore Lei 6.194 (no clause says so). After the repeal Planalto strikes the whole page, so the page "
         "is read from a capture of 10.5.2024, before the repeal, and the history up to 16.5.2024 is checked against that "
         "capture's text")
+    # art. 4 parágrafo único as Lei 11.482/2007 art. 8 wrote it: 'Parágrafo único. (Revogado pela Lei nº 8.441, de 1992).'
+    # The parenthesis is the amending law's own words (it restates the 1992 revocation), not a Planalto note; the reader
+    # takes it for a note and leaves a bare label
+    _RX6194_PU = re.compile(r"\(\s*Revogado pela Lei n\s*[º°o]\s*8\.441, de 1992\s*\)\.?")
+    LDPVAT_USED: list[str] = []
+    _paragraphs6194 = P.paragraphs
+
+    def _paragraphs_6194(html, digits):
+        out, rest = _paragraphs6194(html, digits)
+        if B8.CURRENT_PAGE[0] == "l6194-2024":
+            for q in out:
+                if q["unit"] != "art-04" or q["state"] != "plain" or q["text"].strip() != "Parágrafo único.":
+                    continue
+                hit = [n for n in q["notes"] if _RX6194_PU.fullmatch(n.strip())]
+                if hit:
+                    q["text"] = "Parágrafo único. (Revogado pela Lei nº 8.441, de 1992)."
+                    if q.get("plain_text"):
+                        q["plain_text"] = q["text"]
+                    q["notes"] = [x for x in q["notes"] if x != hit[0]]
+                    LDPVAT_USED.append("art-04")
+        return out, rest
+
+    P.paragraphs = B.paragraphs = _paragraphs_6194
+    _W6194_PU = (
+        "Lei 6.194 art. 4 parágrafo único: Lei 11.482/2007 art. 8 gives art. 4 a new wording that includes the line "
+        "'Parágrafo único. (Revogado pela Lei nº 8.441, de 1992).' (Lei 8.441/1992 had renumbered the parágrafo único as § 1º); "
+        "the parenthesis is the amending law's own text, so the line reads so from 31.5.2007, credited to Lei 11.482")
+    EXTRA.append(
+        "Lei 6.194: the changes of Lei 11.945/2009 (conversion of Medida Provisória 451/2008) are dated by its publication, "
+        "5.6.2009: its art. 33 IV a) makes arts. 30 to 32 (Lei 6.194 arts. 3, 5 and 12 and the Anexo) produce effects from "
+        "16.12.2008, a retroactive effect, and a retroactive start keeps the day of publication; Medida Provisória 451/2008 "
+        "(DOU 16.12.2008; art. 22: in force on publication, and its arts. 19 to 21 are not among those with a later effect "
+        "day) gave those wordings from 16.12.2008. Lei 11.482/2007 art. 8 (Lei 6.194 arts. 3, 4, 5 and 11) produces effects "
+        "from its publication, 31.5.2007 (art. 24 III).")
+    _innerDPVAT = B6.PB5B._write_part5
+
+    def _inner_dpvat(*a) -> int:
+        if LDPVAT_USED:
+            B5.EXTRA_DECISIONS.append(_W6194_PU + ".")
+        return _innerDPVAT(*a)
+
+    B6.PB5B._write_part5 = _inner_dpvat
     B13.OPEN_ITEMS[_LDPVAT] = (
         "Lei 6.194 (open items): its Anexo (the table of permanent-disability percentages that Lei 11.945/2009 added for art. "
         "3), printed after the signature, is not included; the history holds the articles only. Planalto's 'Vide Medida nº "
