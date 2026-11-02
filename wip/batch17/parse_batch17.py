@@ -8307,11 +8307,11 @@ B13.OPEN_ITEMS[_LCCOM] = (
 _LCPC73 = "codigo-de-processo-civil-de-1973"
 if any(a["slug"] == _LCPC73 for a in ACTS):
     P.VIGENCIA_FIXED["lei-8950-1994"] = (
-        "1995-02-12", "art. 3: 'Esta lei entra em vigor no prazo de sessenta dias após a data de sua publicação' (DOU "
-                      "14.12.1994): the sixtieth day counted from publication, 12.2.1995")
+        "1995-02-12", "'Esta lei entra em vigor no prazo de sessenta dias após a data de sua publicação' (DOU 14.12.1994): "
+                      "publication + 60 days, 12.2.1995, as the reader counts its 'N dias após a publicação' clauses")
     P.VIGENCIA_FIXED["lei-10173-2001"] = (
         "2001-03-11", "'Esta Lei entra em vigor no prazo de sessenta dias a partir da data de sua publicação' (DOU 10.1.2001): "
-                      "the sixtieth day counted from publication, 11.3.2001")
+                      "publication + 60 days, 11.3.2001, as the reader counts its 'N dias após a publicação' clauses")
     B9.REPEALS[_LCPC73] = (
         "2016-03-18", "lei-13105-2015",
         "Lei 5.869/1973 (Código de Processo Civil de 1973) was repealed as a whole by Lei 13.105/2015 (Código de Processo Civil) "
