@@ -8823,6 +8823,13 @@ if any(a["slug"] == _LCC16 for a in ACTS):
                 a333[0]["notes"].remove(n8560)
                 a332[0]["notes"].append(n8560)
                 CC16_USED.setdefault("note332", []).append(1)
+            # art. 1.605 § 1º: struck with no note; the 2002 capture prints '§ 1º Revogado pela Lei n° 6.515, de
+            # 26.12.1977' over its 'Texto original' (_W_CC16_1605)
+            n6515 = "(Revogado pela Lei nº 6.515, de 1977)"
+            a1605 = [p for p in out if p["unit"] == "art-1605" and P.norm(p["text"]).startswith("§ 1º Havendo filho")]
+            if len(a1605) == 1 and not a1605[0]["notes"]:
+                a1605[0]["notes"].append(n6515)
+                CC16_USED.setdefault("note1605", []).append(1)
             for i, q in enumerate(out):
                 q["i"] = i
         if page == "l3071-2002":
@@ -9103,6 +9110,10 @@ if any(a["slug"] == _LCC16 for a in ACTS):
         "art. 333 and strikes art. 332 with no note; Planalto's page as captured on 2.6.2002 prints 'Art. 332. Revogado "
         "pela Lei n° 8.560, de 29.12.1992' and art. 333 in force, so the note is read as art. 332's: art. 332 ends with "
         "Lei nº 8.560/1992 and art. 333 stands to the repeal")
+    _W_CC16_1605 = (
+        "Código Civil de 1916 art. 1.605 § 1º: the page strikes it with no note; Planalto's page as captured on 2.6.2002 "
+        "prints '§ 1º Revogado pela Lei n° 6.515, de 26.12.1977' over its 'Texto original', so it ends with Lei nº "
+        "6.515/1977, credited to it")
     _innerCC16 = B6.PB5B._write_part5
 
     def _inner_cc16(*a) -> int:
@@ -9133,6 +9144,8 @@ if any(a["slug"] == _LCC16 for a in ACTS):
             B5.EXTRA_DECISIONS.append(_W_CC16_LABELS + ".")
         if CC16_USED.get("note332"):
             B5.EXTRA_DECISIONS.append(_W_CC16_332 + ".")
+        if CC16_USED.get("note1605"):
+            B5.EXTRA_DECISIONS.append(_W_CC16_1605 + ".")
         return _innerCC16(*a)
 
     B6.PB5B._write_part5 = _inner_cc16
