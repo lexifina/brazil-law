@@ -1,0 +1,41 @@
+DECISÃO
+
+1. Ecovila Ancora Empreendimentos Ltda. formalizou agravo contra decisão que inadmitiu o recurso extraordinário, em razão da incidência da Súmula 279 do Supremo. Nas razões do agravo, refuta-se o fundamento apresentado na decisão de inadmissibilidade.
+
+No apelo excepcional, sustenta violação ao art. 156, § 2º, I, da Carta Magna. Argui que a imunidade de ITBI na integralização de capital social possui natureza incondicionada, aplicando-se a ressalva da atividade preponderante exclusivamente às hipóteses de reorganização societária (fusão, incorporação, cisão ou extinção de pessoa jurídica). Afirma que, enquanto o Tema 796/RG definiu o alcance quantitativo da imunidade (limitado ao valor do capital subscrito), o presente recurso e o Tema 1.348/RG versam sobre a própria incidência da imunidade de ITBI nas transferências de imóveis destinados à integralização de capital social. Postula o provimento do recurso a fim de que seja reformado o acórdão de origem e concedida a segurança pleiteada, reconhecendo-se a imunidade incondicionada do ITBI na operação de integralização de capital social; ou, subsidiariamente, seja determinado o sobrestamento do feito até o julgamento definitivo do Tema 1.348/RG.
+
+É o relatório do essencial. Decido.
+
+2. O extraordinário foi interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (eDoc 17):
+
+EMENTA: DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ITBI. INTEGRALIZAÇÃO DE CAPITAL SOCIAL POR IMÓVEL. ATIVIDADE PREPONDERANTE DO ADQUIRENTE. AFERIÇÃO POR RECEITA OPERACIONAL. PROVA PRÉ-CONSTITUÍDA INSUFICIENTE. TEMA 796/STF. INAPLICABILIDADE. TEMA 1.348/STF. AUSÊNCIA DE SUSPENSÃO NACIONAL. RECURSO DESPROVIDO.
+I. CASO EM EXAME 1. Apelação em mandado de segurança contra exigência de ITBI em transmissão de imóvel para integralização de capital social, fundada na preponderância de atividade imobiliária do adquirente.
+II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) saber se a ressalva da atividade preponderante incide na integralização de capital; e (ii) saber se o mandado de segurança comporta a aferição do requisito diante da necessidade de prova pré-constituída.
+III. RAZÕES DE DECIDIR 3. CF/1988, CTN e legislação municipal condicionam a não incidência do ITBI à ausência de atividade preponderantemente imobiliária, definida por critério objetivo de receita operacional. 4. A via mandamental não admite dilação probatória, e não houve prova pré-constituída suficiente para afastar a preponderância. 5. Tema 796, do STF não se aplica, por tratar de excedente ao capital integralizado, e não de preponderância. 6. Tema 1.348, do STF não impõe sobrestamento sem determinação de suspensão nacional.
+IV. DISPOSITIVO E TESE 7. Recurso conhecido e desprovido.
+Tese de julgamento: “1. A não incidência do ITBI na integralização de capital subordina-se à ressalva da atividade preponderante, aferida por receita operacional nos termos da lei. 2. Sem prova pré-constituída suficiente, não cabe afastar a exigência de ITBI em mandado de segurança.”
+
+Na oportunidade, o Colegiado de origem manteve a sentença denegatória da segurança, sob o fundamento de que o art. 156, § 2º, I, da Constituição Federal, ao disciplinar a imunidade do ITBI nas operações de integralização de capital social, estabelece ressalva expressa vinculada à atividade preponderante do adquirente, a qual exige dilação probatória, inadmissível na via mandamental. Colho do acórdão o seguinte trecho elucidativo:
+
+Todavia, no caso concreto, a controvérsia que efetivamente decide o feito é outra: saber se, na realização de capital por transmissão de imóvel, incide a ressalva constitucional concernente à atividade preponderante do adquirente, e se tal matéria pode ser resolvida pela via do mandado de segurança, à luz da prova pré-constituída constante dos autos.
+A Constituição Federal, no art. 156, § 2º, I, ao prever a não incidência do ITBI nessas hipóteses, estabelece ressalva expressa ligada à atividade preponderante do adquirente. In verbis:
+[...] É precisamente aqui que se revela, com maior intensidade, a natureza e os limites do mandado de segurança. A via mandamental reclama a comprovação pronta e incontroversa do direito líquido e certo, por meio de prova pré-constituída, não se prestando à produção ou complementação probatória.
+Ocorre que a “atividade preponderante”, tanto no CTN quanto no CTM, não é conceito que se esgota na simples declaração do objeto social; ela é, por comando legal, aferida por receita operacional em recorte temporal específico, o que, em regra, demanda exame contábil e documental abrangente, inclusive quanto ao período subsequente ao evento aquisitivo.
+Exatamente por isso, a sentença concluiu que a aferição do requisito torna-se central e que, no caso, a negativa administrativa se fundou na exceção constitucional e legal, sobretudo diante da constatação de que a empresa foi constituída para comprar, vender e administrar bens próprios, reconhecendo, por conseguinte, a legitimidade da exigência tributária.
+[...] Em síntese, o conjunto normativo aplicável, Constituição Federal, CTN e CTM (LC nº 31/2019), explicita a centralidade do requisito da atividade preponderante e define método objetivo de aferição por receita operacional. E, na via do mandado de segurança, não se demonstrou, de forma cabal e pré-constituída, que a impetrante não se enquadra na hipótese legalmente delineada, ao passo que os elementos considerados na origem apontam para atuação no ramo imobiliário. Por conseguinte, ausente direito líquido e certo a amparar a desconstituição do ato administrativo e o afastamento da exigência de ITBI, impõe-se a manutenção da sentença.
+
+A respeito da matéria, o Plenário do Supremo, ao analisar o RE 1.495.108 RG, paradigma do Tema n. 1.348/RG, fixou a tese de que “a imunidade tributária do ITBI, prevista no art. 156, § 2º, I, na realização do capital social mediante integralização de bens e valores, é incondicionada e, portanto, indiferente a atividade preponderantemente imobiliária, ressalvada eventual prática de simulação ou fraude à lei com o objetivo de usufruir indevidamente da imunidade tributária em questão”. Confira-se a decisão de julgamento:
+
+Decisão: O Tribunal, por maioria, apreciando o tema 1.348 da repercussão geral, (i) deu provimento ao recurso extraordinário para reconhecer a imunidade do ITBI incidente sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica em realização de capital, independentemente da atividade preponderante por ela exercida, inclusive quando se tratar de compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento mercantil, ficando a imunidade limitada, contudo, ao valor do capital social a ser integralizado, nos termos do que decidido no Tema 796 da repercussão geral; (ii) ressalvou que esse entendimento não impede os Fiscos municipais de demonstrar eventual prática de simulação ou fraude à lei com o objetivo de usufruir indevidamente da imunidade tributária em questão; e (iii) fixou a seguinte tese: "A imunidade tributária do ITBI, prevista no art. 156, § 2º, I, na realização do capital social mediante integralização de bens e valores, é incondicionada e, portanto, indiferente a atividade preponderantemente imobiliária, ressalvada eventual prática de simulação ou fraude à lei com o objetivo de usufruir indevidamente da imunidade tributária em questão". Tudo nos termos do voto do Relator, Ministro Edson Fachin (Presidente), vencidos os Ministros Gilmar Mendes e Flávio Dino. Plenário, Sessão Virtual de 9.10.2026 a 19.10.2026.
+
+O debate do supradito paradigma é idêntico ao travado nos presentes autos, vez que o acórdão originário condicionou a não incidência do ITBI à ausência de atividade preponderantemente imobiliária, definida por critério objetivo de receita operacional.
+
+3. Em face do exposto, considerando que a matéria impugnada é abarcada pelo Tema 1.348/RG, determino a devolução dos autos ao Tribunal a quo, para que adote o disposto nos arts. 1.039, 1.040 e 1.041 do Código de Processo Civil, após o trânsito em julgado do paradigma.
+
+4. Publique-se.
+
+Brasília, 3 de novembro de 2026.
+
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
