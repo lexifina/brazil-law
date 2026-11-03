@@ -1,0 +1,10 @@
+# Altera a redação do art. 353 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943 (Lei nº 6.651, de 23 de maio de 1979)
+
+L6651 · 1 versions, from 1979-05-24 (latest in force: 1979-05-24) · <https://www.planalto.gov.br/ccivil_03/leis/l6651.htm>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1º | [art-001.md](art-001.md) | 0 |  |
+| Art. 2º | [art-002.md](art-002.md) | 0 |  |
+| Art. 3º | [art-003.md](art-003.md) | 0 |  |
+| Preâmbulo | [preambulo.md](preambulo.md) | 0 |  |

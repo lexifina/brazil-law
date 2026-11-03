@@ -33,6 +33,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
+| Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995), Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004), Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007), Lei do Petróleo (Lei nº 9.478, de 6 de agosto de 1997), Lei de Abuso de Autoridade (Lei nº 13.869, de 5 de setembro de 2019), Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980), Lei das Inelegibilidades (Lei Complementar nº 64, de 18 de maio de 1990), Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990), Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023), Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003), Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-31 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | LexML Brasil (Senado Federal): record of each cited law, for its 'Publicação Original' DOU day | <https://www.lexml.gov.br/> | 2026-10-31 | Public federal portal; bibliographic data of official acts |
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Execução Fiscal (Lei nº 6.830, de 22 de setembro de 1980), Lei de Defesa da Concorrência (Lei nº 12.529, de 30 de novembro de 2011), Estatuto da Advocacia e da OAB (Lei nº 8.906, de 4 de julho de 1994), Lei da ADI e da ADC (Lei nº 9.868, de 10 de novembro de 1999), Lei da ADPF (Lei nº 9.882, de 3 de dezembro de 1999), Crimes contra a ordem tributária, econômica e as relações de consumo (Lei nº 8.137, de 27 de dezembro de 1990), Lei de Interceptação Telefônica (Lei nº 9.296, de 24 de julho de 1996), Lei do Bem de Família (Lei nº 8.009, de 29 de março de 1990), Lei da Ação Popular (Lei nº 4.717, de 29 de junho de 1965), Crimes contra o Sistema Financeiro Nacional (Lei nº 7.492, de 16 de junho de 1986) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-31 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
@@ -4868,6 +4869,506 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-7191-de-1984` | Altera os arts. 16 e 25 da Lei nº 4.737, de 15 de julho de 1965 - Código Eleitoral (Lei nº 7.191, de 4 de junho de 1984) | 1 | 1984-06-05 to 1984-06-05 |
 | `lei-7193-de-1984` | Introduz alteração na Lei nº 6.251, de 8 de outubro de 1975, que “institui normas gerais sobre desportos” (Lei nº 7.193, de 7 de junho de 1984) | 1 | 1984-06-08 to 1984-06-08 |
 | `lei-7194-de-1984` | Autoriza a inclusão de recursos nos Orçamentos da União, e dá outras providências (Lei nº 7.194, de 11 de junho de 1984) | 1 | 1987-04-18 to 1987-04-18 |
+| `decreto-lei-1436-de-1975` | Concede isenção do imposto de importação às obras de arte que participarem das Bienais Internacionais de São Paulo e forem vendidas no recinto da exposição (Decreto-Lei nº 1.436, de 17 de dezembro de 1975) | 1 | 1975-12-18 to 1975-12-18 |
+| `decreto-lei-1440-de-1975` | Dispõe sobre a criação de cargos no Grupo-Polícia Federal, do Quadro Permanente do Departamento de Polícia Federal (Decreto-Lei nº 1.440, de 30 de dezembro de 1975) | 1 | 1975-12-30 to 1975-12-30 |
+| `decreto-lei-1441-de-1976` | Altera, para o exercício de 1976, a distribuição do produto da arrecadação dos impostos únicos (Decreto-Lei nº 1.441, de 12 de janeiro de 1976) | 1 | 1976-01-12 to 1976-01-12 |
+| `decreto-lei-1442-de-1976` | Autoriza o Ministro da Fazenda a estender à Caixa Econômica Federal a condição de Agente do Tesouro Nacional, para os fins que especifica (Decreto-Lei nº 1.442, de 27 de janeiro de 1976) | 1 | 1976-01-28 to 1976-01-28 |
+| `decreto-lei-1444-de-1976` | Prorroga a vigência do Decreto-lei nº 1.124, de 8 de setembro de 1970, altera limite para dedução do Imposto de Renda das pessoas jurídicas em favor do MOBRAL e dá outras providências (Decreto-Lei nº 1.444, de 3 de fevereiro de 1976) | 1 | 1976-02-04 to 1976-02-04 |
+| `decreto-lei-1445-de-1976` | Reajusta os vencimentos e salários dos servidores civis do Poder Executivo, dos membros da Magistratura e do Tribunal de Contas da União, e dá outras providências (Decreto-Lei nº 1.445, de 13 de fevereiro de 1976) | 1 | 1995-03-20 to 1995-03-20 |
+| `decreto-lei-1450-de-1976` | Concede isenção dos impostos de importação e sobre produtos industrializados incidentes nos bens destinados à construção da Usina Hidrelétrica de Itaipu e dá outras providências (Decreto-Lei nº 1.450, de 24 de março de 1976) | 1 | 1979-08-29 to 1979-08-29 |
+| `decreto-lei-1451-de-1976` | Reajusta os vencimentos e salários dos servidores civis dos Quadros Permanentes e Suplementares do Superior Tribunal Militar e das Auditorias da Justiça Militar, e dá outras providências (Decreto-Lei nº 1.451, de 24 de março de 1976) | 1 | 1979-02-21 to 1979-02-21 |
+| `decreto-lei-1458-de-1976` | Reajusta os vencimentos e proventos dos servidores das Secretarias ao Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências (Decreto-Lei nº 1.458, de 19 de abril de 1976) | 1 | 1976-04-19 to 1976-04-19 |
+| `decreto-lei-1459-de-1976` | Reajusta os vencimentos e proventos dos servidores da Secretaria do Tribunal Superior Eleitoral e dá outras providências (Decreto-Lei nº 1.459, de 19 de abril de 1976) | 1 | 1976-04-19 to 1976-04-19 |
+| `decreto-lei-1460-de-1976` | Aumenta os limites do Decreto lei número 1.312, de 15 de fevereiro de 1974, e dá outras providências (Decreto-Lei nº 1.460, de 22 de abril de 1976) | 1 | 1976-04-23 to 1976-04-23 |
+| `decreto-lei-1461-de-1976` | Reajusta os vencimentos e proventos dos servidores das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências (Decreto-Lei nº 1.461, de 23 de abril de 1976) | 1 | 1976-04-23 to 1976-04-23 |
+| `decreto-lei-1465-de-1976` | Dá nova redação ao parágrafo único do artigo 4º do Decreto-lei nº 1.445 de 13 de fevereiro de 1976 (Decreto-Lei nº 1.465, de 30 de abril de 1976) | 1 | 1976-05-03 to 1976-05-03 |
+| `decreto-lei-1466-de-1976` | Altera o Decreto-lei nº 835, de 8 de setembro de 1969, que regula a aplicação do Fundo de Participação dos Estados, do Distrito Federal e dos Territórios, do Fundo de Participação dos Municípios e do Fundo Especial (Decreto-Lei nº 1.466, de 10 de maio de 1976) | 1 | 1976-05-10 to 1976-05-10 |
+| `decreto-lei-1467-de-1976` | Reajusta os vencimentos, salários e proventos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, e dá outras providências (Decreto-Lei nº 1.467, de 10 de maio de 1976) | 1 | 1976-05-11 to 1976-05-11 |
+| `decreto-lei-1468-de-1976` | Reajusta os vencimentos e proventos dos servidores das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá outras providências (Decreto-Lei nº 1.468, de 12 de maio de 1976) | 1 | 1976-05-13 to 1976-05-13 |
+| `decreto-lei-1469-de-1976` | Reajusta os vencimentos e salários dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dá outras providências (Decreto-Lei nº 1.469, de 24 de maio de 1976) | 1 | 1976-10-26 to 1976-10-26 |
+| `decreto-lei-1470-de-1976` | Estabelece condição para emissão ou prorrogação de passaporte comum, concessão de visto policial de saída e dá outras providências (Decreto-Lei nº 1.470, de 4 de junho de 1976) | 1 | 1976-06-04 to 1976-06-04 |
+| `decreto-lei-1471-de-1976` | Estende a financiamentos do BNDE a bancos de investimento privados o sistema de incentivo fiscal previsto no Decreto-lei número 1.452, de 30 de março de 1976 (Decreto-Lei nº 1.471, de 15 de junho de 1976) | 1 | 1976-06-16 to 1976-06-16 |
+| `decreto-lei-1473-de-1976` | Altera o Decreto-lei nº 1.164, de 1 de abril de 1971 (Decreto-Lei nº 1.473, de 13 de julho de 1976) | 1 | 1976-07-14 to 1976-07-14 |
+| `decreto-lei-1474-de-1976` | Altera a redação do artigo 2º do Decreto-Lei nº 1.453, de 6 de abril de 1976, e dá outras providências (Decreto-Lei nº 1.474, de 5 de agosto de 1976) | 1 | 1976-08-06 to 1976-08-06 |
+| `decreto-lei-1475-de-1976` | Altera o artigo 58, da Lei nº 5.025, de 10 de junho de 1966, que dispõe sobre o intercâmbio comercial com o exterior (Decreto-Lei nº 1.475, de 13 de agosto de 1976) | 1 | 1976-08-19 to 1976-08-19 |
+| `decreto-lei-1477-de-1976` | Dispõe sobre correção monetária nos casos de liquidação extrajudicial ou falência das entidades que especifica, e dá outras providências (Decreto-Lei nº 1.477, de 26 de agosto de 1976) | 1 | 1985-11-20 to 1985-11-20 |
+| `decreto-lei-1478-de-1976` | Altera dispositivos do Decreto-lei nº 1.376, de 12 de dezembro de 1974, relativos aos Fundos de Investimentos do Nordeste, da Amazônia e Setoriais, e dá outras providências (Decreto-Lei nº 1.478, de 26 de agosto de 1976) | 1 | 1976-08-27 to 1976-08-27 |
+| `decreto-lei-1484-de-1976` | Altera o Decreto-lei nº 1.469, de 24 de maio de 1976, que reajusta os vencimentos e salários dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal (Decreto-Lei nº 1.484, de 25 de outubro de 1976) | 1 | 1976-10-26 to 1976-10-26 |
+| `decreto-lei-1485-de-1976` | Institui estímulos fiscais ao turismo estrangeiro no País (Decreto-Lei nº 1.485, de 25 de outubro de 1976) | 1 | 1976-10-26 to 1976-10-26 |
+| `decreto-lei-1487-de-1976` | Autoriza remissão de créditos relativos a imposto territorial rural e a contribuição dos que exercem atividades rurais, relativos a 1975, e dispensa a taxa de serviços cadastrais correspondente a 1975 e 1976 (Decreto-Lei nº 1.487, de 10 de novembro de 1976) | 1 | 1976-11-11 to 1976-11-11 |
+| `decreto-lei-1488-de-1976` | Acrescenta um parágrafo no artigo 1º do Decreto-lei número 1.428, de 2 de dezembro de 1975, que dispõe sobre isenções de impostos na importação, cria incentivos fiscais à indústria nacional de bens de capital,... (Decreto-Lei nº 1.488, de 11 de novembro de 1976) | 1 | 1976-11-11 to 1976-11-11 |
+| `decreto-lei-1489-de-1976` | Concede benefício fiscais para construção da ligação ferroviária Belo Horizonte-Itutinga-Volta Redonda, inclusive Ramal de Sepetiba (Decreto-Lei nº 1.489, de 11 de novembro de 1976) | 1 | 1976-11-11 to 1976-11-11 |
+| `decreto-lei-1490-de-1976` | Altera a legislação relativa ao Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos, concede isenção fiscal e dá outras providências (Decreto-Lei nº 1.490, de 30 de novembro de 1976) | 1 | 1980-05-14 to 1980-05-14 |
+| `decreto-lei-1491-de-1976` | Altera a alíquota e os limites do benefício fiscal de que tratam os Decretos-leis números 1.358, de 12 de novembro de 1974 e 1.431, de 5 de dezembro de 1975 (Decreto-Lei nº 1.491, de 1º de dezembro de 1976) | 1 | 1976-12-02 to 1976-12-02 |
+| `decreto-lei-1493-de-1976` | Altera a legislação do Imposto de Renda e dá outras providências (Decreto-Lei nº 1.493, de 7 de dezembro de 1976) | 1 | 1978-05-10 to 1978-05-10 |
+| `decreto-lei-1495-de-1976` | Retifica o Decreto-lei nº 1.480, de 9 de setembro de 1976 (Decreto-Lei nº 1.495, de 9 de dezembro de 1976) | 1 | 1976-12-10 to 1976-12-10 |
+| `decreto-lei-1496-de-1976` | Altera a redação do artigo 4º do Decreto-lei nº 1.083, de 6 de fevereiro de 1970, “que dispõe sobre a incidência e cobrança do Imposto Único sobre Minerais, concede isenções e dá outras providências”, modificado pelo... (Decreto-Lei nº 1.496, de 20 de dezembro de 1976) | 1 | 1976-12-21 to 1976-12-21 |
+| `decreto-lei-1498-de-1976` | Inclui dispositivos no Decreto-lei número 1.445, de 13 de fevereiro de 1976, que reajustou os vencimentos e salários dos servidores civis do Poder Executivo, dos membros da Magistratura e do Tribunal de Contas da União (Decreto-Lei nº 1.498, de 20 de dezembro de 1976) | 1 | 1976-12-21 to 1976-12-21 |
+| `decreto-lei-1499-de-1976` | Dispõe sobre a prorrogação do benefício fiscal concedido às empresas comerciais exportadoras de que trata o artigo 4º do Decreto-lei número 1.248, de 29 de novembro de 1972 (Decreto-Lei nº 1.499, de 20 de dezembro de 1976) | 1 | 1976-12-21 to 1976-12-21 |
+| `decreto-lei-1500-de-1976` | Assegura a manutenção e utilização do crédito do Imposto sobre Produtos Industrializados relativo aos insumos empregados na industrialização dos produtos não tributados que indica (Decreto-Lei nº 1.500, de 20 de dezembro de 1976) | 1 | 1976-12-21 to 1976-12-21 |
+| `decreto-lei-1501-de-1976` | Prorroga os prazos de vigência de Decretos-leis que dispõem sobre acréscimos às alíquotas do imposto de importação e dá outras providências (Decreto-Lei nº 1.501, de 20 de dezembro de 1976) | 1 | 1976-12-21 to 1976-12-21 |
+| `decreto-lei-1502-de-1976` | Revoga o Decreto-lei nº 1.425, de 3 de novembro de 1975, que autoriza restituição do Imposto sobre Produtos Industrializados à TELEBRÁS suas subsidiárias, associadas e demais concessionárias dos serviços de telefonia (Decreto-Lei nº 1.502, de 22 de dezembro de 1976) | 1 | 1976-12-23 to 1976-12-23 |
+| `decreto-lei-1503-de-1976` | Dispõe sobre incentivos fiscais para empreendimentos florestais (Decreto-Lei nº 1.503, de 23 de dezembro de 1976) | 1 | 1976-12-24 to 1976-12-24 |
+| `decreto-lei-1504-de-1976` | Altera dispositivo do Decreto-lei nº 1.455, de 7 de abril de 1976, que dispõe sobre bagagem de passageiro procedente do exterior, disciplina o regime de entreposto aduaneiro, estabelece normas sobre mercadorias... (Decreto-Lei nº 1.504, de 23 de dezembro de 1976) | 1 | 1976-12-24 to 1976-12-24 |
+| `decreto-lei-1505-de-1976` | Altera dispositivo do Decreto-lei nº 651, de 26 de agosto de 1938, e dá outras providências (Decreto-Lei nº 1.505, de 23 de dezembro de 1976) | 1 | 1977-06-08 to 1977-06-08 |
+| `decreto-lei-1508-de-1976` | Altera para o exercício de 1977 a distribuição do produto da arrecadação dos impostos que menciona (Decreto-Lei nº 1.508, de 23 de dezembro de 1976) | 1 | 1976-12-24 to 1976-12-24 |
+| `decreto-lei-1509-de-1976` | Altera dispositivo do Decreto-lei nº 1.189, de 24 de setembro da 1971, que dispõe sobre incentivos à exportação de produtos manufaturados (Decreto-Lei nº 1.509, de 27 de dezembro de 1976) | 1 | 1976-12-28 to 1976-12-28 |
+| `decreto-lei-1511-de-1976` | Altera a redação do artigo 1º do Decreto-lei número 343, de 28 de dezembro de 1967 (Decreto-Lei nº 1.511, de 28 de dezembro de 1976) | 1 | 1976-12-29 to 1976-12-29 |
+| `decreto-lei-1512-de-1976` | Altera a legislação do empréstimo compulsório instituído em favor da Centrais Elétricas Brasileiras S.A. ELETROBRÁS e dá outras providências (Decreto-Lei nº 1.512, de 29 de dezembro de 1976) | 1 | 1976-12-29 to 1976-12-29 |
+| `decreto-lei-1513-de-1976` | Dispõe sobre a incidência do Empréstimo Compulsório em favor da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS (Decreto-Lei nº 1.513, de 29 de dezembro de 1976) | 1 | 1976-12-29 to 1976-12-29 |
+| `decreto-lei-1514-de-1976` | Altera a redação do inciso II, do artigo 11, do Decreto-lei número 1.376, de 12 de dezembro de 1974, já modificado pelo Decreto-lei nº 1.439, de 30 de dezembro de 1975 (Decreto-Lei nº 1.514, de 30 de dezembro de 1976) | 1 | 1976-12-30 to 1976-12-30 |
+| `decreto-lei-1515-de-1976` | Altera a redação da alínea "b" do artigo 74, da Lei número 3.807, de 26 de agosto de 1960, e dá outras providências (Decreto-Lei nº 1.515, de 30 de dezembro de 1976) | 1 | 1976-12-30 to 1976-12-30 |
+| `decreto-lei-1516-de-1976` | Dá nova redação a dispositivos do Decreto-lei nº 1.370, de 9 de dezembro de 1974, que dispõe sobre a tributação dos rendimentos auferidos por garimpeiros matriculados e dá outras providências (Decreto-Lei nº 1.516, de 31 de dezembro de 1976) | 1 | 1976-12-31 to 1976-12-31 |
+| `decreto-lei-1517-de-1976` | Fixa alíquotas do imposto sobre operações relativas à circulação de mercadorias (ICM) nos Territórios Federais (Decreto-Lei nº 1.517, de 31 de dezembro de 1976) | 1 | 1976-12-31 to 1976-12-31 |
+| `decreto-lei-1518-de-1977` | Dispõe sobre a criação do Quadro de Pessoal dos Órgãos Auxiliares da Justiça do Distrito Federal e dos Territórios, retribuido pelos cofres públicos, e dá outras providências (Decreto-Lei nº 1.518, de 4 de janeiro de 1977) | 1 | 1977-01-05 to 1977-01-05 |
+| `decreto-lei-1519-de-1977` | Altera a Tarifa Aduaneira do Brasil (TAB), e dá outras providências (Decreto-Lei nº 1.519, de 5 de janeiro de 1977) | 1 | 1977-01-06 to 1977-01-06 |
+| `decreto-lei-1520-de-1977` | Estabelece condição para aquisição dos derivados de petróleo que menciona e dá outras providências (Decreto-Lei nº 1.520, de 17 de janeiro de 1977) | 1 | 1977-01-18 to 1977-01-18 |
+| `decreto-lei-1521-de-1977` | Revoga, a partir do exercício de 1977, as normas legais e regulamentares autorizativas de destinações especiais dos resultados atribuíveis à União nas empresas públicas e sociedades de economia mista federais (Decreto-Lei nº 1.521, de 26 de janeiro de 1977) | 1 | 1977-01-27 to 1977-01-27 |
+| `decreto-lei-1522-de-1977` | Concede isenção dos impostos de importação e sobre produtos industrializados aos bens destinados a projetos prioritários em execução no setor de energia elétrica, e dá outra providências (Decreto-Lei nº 1.522, de 2 de fevereiro de 1977) | 1 | 1977-02-03 to 1977-02-03 |
+| `decreto-lei-1523-de-1977` | Autoriza a criação de Coordenadorias Especiais no Instituto Nacional de Colonização e Reforma Agrária nas condições que especifica, dispõe sobre a retribuição do respectivo pessoal e dá outras providências (Decreto-Lei nº 1.523, de 3 de fevereiro de 1977) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-1525-de-1977` | Reajusta os vencimentos e salários dos servidores civis do Poder Executivo, dos membros da Magistratura e do Tribunal de Contas da União, e dá outras providências (Decreto-Lei nº 1.525, de 28 de fevereiro de 1977) | 1 | 1978-02-23 to 1978-02-23 |
+| `decreto-lei-1527-de-1977` | Reajusta os vencimentos e salários dos servidores da Secretaria Geral do Tribunal de Contas da União e da outras providências (Decreto-Lei nº 1.527, de 28 de fevereiro de 1977) | 1 | 1977-02-28 to 1977-02-28 |
+| `decreto-lei-1528-de-1977` | Revoga disposição do Decreto-lei nº 4.541, de 31 de julho de 1942 (Decreto-Lei nº 1.528, de 14 de março de 1977) | 1 | 1977-03-15 to 1977-03-15 |
+| `decreto-lei-1529-de-1977` | Reajusta os vencimentos e salários dos servidores das Secretarias dos Tribunais do Trabalho e dá outras providências (Decreto-Lei nº 1.529, de 17 de março de 1977) | 1 | 1977-03-18 to 1977-03-18 |
+| `decreto-lei-1530-de-1977` | Reajusta os vencimentos e salários dos servidores civis dos Quadros Permanentes e Suplementares do Superior Tribunal Militar e das Auditorias da Justiça Militar, e dá outras providências (Decreto-Lei nº 1.530, de 24 de março de 1977) | 1 | 1977-03-25 to 1977-03-25 |
+| `decreto-lei-1531-de-1977` | Concede incentivo a financiamentos para a execução do programa de apoio à capitalização da empresa privada nacional, e dá outras providências (Decreto-Lei nº 1.531, de 24 de março de 1977) | 1 | 1977-03-25 to 1977-03-25 |
+| `decreto-lei-1532-de-1977` | Autoriza a concessão dos incentivos fiscais previstos no Decreto-lei número 1.346, de 25 de setembro de 1974, nos casos que especifica, e dá outras providências (Decreto-Lei nº 1.532, de 30 de março de 1977) | 1 | 1977-03-31 to 1977-03-31 |
+| `decreto-lei-1533-de-1977` | Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Supremo Tribunal Federal e dá outras providências (Decreto-Lei nº 1.533, de 11 de abril de 1977) | 1 | 1977-04-11 to 1977-04-11 |
+| `decreto-lei-1536-de-1977` | Reajusta os vencimentos dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências (Decreto-Lei nº 1.536, de 13 de abril de 1977) | 1 | 1977-04-14 to 1977-04-14 |
+| `decreto-lei-1537-de-1977` | Isenta do pagamento de custas e emolumentos a pratica de quaisquer atos, pelos Ofícios e Cartórios de Registro de Imóveis, de Registro de Títulos e Documentos e de Notas, relativos às solicitações feitas pela União (Decreto-Lei nº 1.537, de 13 de abril de 1977) | 1 | 1983-11-24 to 1983-11-24 |
+| `decreto-lei-1538-de-1977` | Altera a redação do artigo 250 da Lei nº 4.737, de 15 de julho de 1965 modificada pela Lei número 6.339, de 1º de julho de 1976, e dá outras providências (Decreto-Lei nº 1.538, de 14 de abril de 1977) | 1 | 1977-04-14 to 1977-04-14 |
+| `decreto-lei-1539-de-1977` | Altera a Lei Complementar nº 15, de 13 de agosto de 1973, que regula a composição e o funcionamento do colégio que elegerá o Presidente da República (Decreto-Lei nº 1.539, de 14 de abril de 1977) | 1 | 1977-04-14 to 1977-04-14 |
+| `decreto-lei-1540-de-1977` | Regula a composição e o funcionamento do colégio eleitoral que elegerá o Governador de Estado e dá outras providências (Decreto-Lei nº 1.540, de 14 de abril de 1977) | 1 | 1977-04-14 to 1977-04-14 |
+| `decreto-lei-1542-de-1977` | Altera a Lei Complementar nº 5, de 29 de abril de 1970, modificada pela Lei Complementar nº 18, de 10 de maio de 1974 (Decreto-Lei nº 1.542, de 14 de abril de 1977) | 1 | 1977-04-14 to 1977-04-14 |
+| `decreto-lei-1543-de-1977` | Regula a eleição de senador, prevista no § 2º do artigo 41, “in fine”, da Constituição Federal (Decreto-Lei nº 1.543, de 14 de abril de 1977) | 1 | 1977-04-14 to 1977-04-14 |
+| `decreto-lei-1544-de-1977` | Reajusta os vencimentos e salários dos servidores civis do Distrito Federal, a dá outras providências (Decreto-Lei nº 1.544, de 15 de abril de 1977) | 1 | 1977-04-15 to 1977-04-15 |
+| `decreto-lei-1546-de-1977` | Reajusta os vencimentos e gratificações dos membros do Tribunal de Contas do Distrito Federal e respectivo Ministério Público (Decreto-Lei nº 1.546, de 15 de abril de 1977) | 1 | 1977-04-15 to 1977-04-15 |
+| `decreto-lei-1547-de-1977` | Institui incentivo fiscal para o setor siderúrgico e dá outras providências (Decreto-Lei nº 1.547, de 18 de abril de 1977) | 1 | 1977-04-20 to 1977-04-20 |
+| `decreto-lei-1548-de-1977` | Reajusta os vencimentos e proventos dos servidores da Secretaria do Tribunal Superior Eleitoral e dá outras providências (Decreto-Lei nº 1.548, de 20 de abril de 1977) | 1 | 1977-04-22 to 1977-04-22 |
+| `decreto-lei-1549-de-1977` | Reajusta os vencimentos e vencimentos e proventos dos Servidores das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências (Decreto-Lei nº 1.549, de 20 de abril de 1977) | 1 | 1977-04-22 to 1977-04-22 |
+| `decreto-lei-1550-de-1977` | Reajusta os vencimentos dos servidores das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá outra providências (Decreto-Lei nº 1.550, de 26 de abril de 1977) | 1 | 1977-04-27 to 1977-04-27 |
+| `decreto-lei-1551-de-1977` | Reajusta os vencimentos e salários dos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, e dá outras providências (Decreto-Lei nº 1.551, de 2 de maio de 1977) | 1 | 1985-07-03 to 1985-07-03 |
+| `decreto-lei-1552-de-1977` | Autoriza o Poder Executivo a antecipar recursos para os Fundos Especiais, e dá outras providências (Decreto-Lei nº 1.552, de 20 de maio de 1977) | 1 | 1977-05-23 to 1977-05-23 |
+| `decreto-lei-1553-de-1977` | Reajusta os vencimentos e salários dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dá outras providências (Decreto-Lei nº 1.553, de 20 de maio de 1977) | 1 | 1977-05-23 to 1977-05-23 |
+| `decreto-lei-1554-de-1977` | Concede isenção de impostos aos objetos integrantes de uma coleção representativa de desenho industrial, importados pela Federação das Indústrias do Estado de São Paulo (Decreto-Lei nº 1.554, de 24 de maio de 1977) | 1 | 1977-05-25 to 1977-05-25 |
+| `decreto-lei-1555-de-1977` | Estabelece normas para a distribuição e aplicação dos recursos provenientes do adicional do Imposto Único sobre Combustíveis Líquidos e Gasosos (Decreto-Lei nº 1.555, de 27 de maio de 1977) | 1 | 1977-05-27 to 1977-05-27 |
+| `decreto-lei-1556-de-1977` | Dispõe sobre a não-incidência da cota de previdência sobre os combustíveis automotivos destinados à exportação e dá outras providências (Decreto-Lei nº 1.556, de 7 de junho de 1977) | 1 | 1977-06-08 to 1977-06-08 |
+| `decreto-lei-1557-de-1977` | Dispõe sobre a participação acionária da União no capital do Banco da Amazônia SIA e a concessão de incentivos fiscais às pessoas físicas que adquirirem ações do mesmo estabelecimento (Decreto-Lei nº 1.557, de 14 de junho de 1977) | 1 | 1977-06-15 to 1977-06-15 |
+| `decreto-lei-1558-de-1977` | Altera a redação do artigo 4º, e seu parágrafo do Decreto-lei nº 1.312, de 15 de fevereiro de 1974 (Decreto-Lei nº 1.558, de 17 de junho de 1977) | 1 | 1977-06-17 to 1977-06-17 |
+| `decreto-lei-1559-de-1977` | Fixa percentuais de depreciação aplicáveis a bens desembaraçados com a isenção de que tratam os incisos IV e V do artigo 15 do Decreto-lei nº 37, de 18 de novembro de 1966 (Decreto-Lei nº 1.559, de 17 de junho de 1977) | 1 | 1977-06-17 to 1977-06-17 |
+| `decreto-lei-1566-de-1977` | Autoriza a subscrição, pelo Tesouro Nacional, de ações da Siderurgia Brasileira S.A. - SIDERBRÁS e dá outras providências (Decreto-Lei nº 1.566, de 1º de agosto de 1977) | 1 | 1977-08-02 to 1977-08-02 |
+| `decreto-lei-1567-de-1977` | Dispõe sobre aplicação das normas previstas no artigo 3º e seu parágrafo do Decreto-lei nº 1.531, de 30 de março de 1977, aos contratos de financiamento de que trata o artigo 1º do Decreto-lei nº 1.452, de 30 de... (Decreto-Lei nº 1.567, de 1º de agosto de 1977) | 1 | 1977-08-02 to 1977-08-02 |
+| `decreto-lei-1570-de-1977` | Extingue a cobrança dos emolumentos consulares sobre os documentos referentes ao transporte internacional de pessoas ou mercadorias (Decreto-Lei nº 1.570, de 9 de agosto de 1977) | 1 | 1977-08-10 to 1977-08-10 |
+| `decreto-lei-1573-de-1977` | Dispõe sobre criação de cargos e empregos nas Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências (Decreto-Lei nº 1.573, de 6 de setembro de 1977) | 1 | 1977-09-06 to 1977-09-06 |
+| `decreto-lei-1574-de-1977` | Altera o Anexo VII do Decreto-lei nº 1.445, de 13 de fevereiro de 1976, que alterou o Anexo II do Decreto-lei nº 1.341, de 22 de agosto de 1974 (Decreto-Lei nº 1.574, de 19 de setembro de 1977) | 1 | 1977-09-20 to 1977-09-20 |
+| `decreto-lei-1575-de-1977` | Autoriza o Ministro da Fazenda a conceder redução de alíquotas do Imposto sobre Produtos Industrializados para os produtos que menciona, e dá outras providências (Decreto-Lei nº 1.575, de 23 de setembro de 1977) | 1 | 1977-09-26 to 1977-09-26 |
+| `decreto-lei-1576-de-1977` | Reajusta os vencimentos, salários e proventos dos servidores dos Órgãos Auxiliares da Justiça de Primeira Instância do Distrito Federal e dos Territórios (Decreto-Lei nº 1.576, de 6 de outubro de 1977) | 1 | 1977-10-07 to 1977-10-07 |
+| `decreto-lei-1577-de-1977` | Dispõe sobre a concessão de isenção do Imposto de Importação e do Imposto Sobre Produtos Industrializados, nos casos que específica (Decreto-Lei nº 1.577, de 10 de outubro de 1977) | 1 | 1977-10-11 to 1977-10-11 |
+| `decreto-lei-1579-de-1977` | Modifica o Decreto-Lei nº 1.510, de 27 de dezembro de 1976, que dispõe sobre a tributação de resultados obtidos na transferência de participações societárias e nas operações com imóveis (Decreto-Lei nº 1.579, de 11 de outubro de 1977) | 1 | 1977-10-12 to 1977-10-12 |
+| `decreto-lei-1580-de-1977` | Altera o inciso XIV do artigo 4º da Lei nº 4.595, de 31 de dezembro de 1964 (Decreto-Lei nº 1.580, de 17 de outubro de 1977) | 1 | 1977-10-18 to 1977-10-18 |
+| `decreto-lei-1581-de-1977` | Exclui a aplicação do art. 11 do Decreto-lei nº 37, de 18 de novembro de 1966, aos casos que especifica, extingue créditos tributários e dá outras providências (Decreto-Lei nº 1.581, de 3 de novembro de 1977) | 1 | 1977-11-04 to 1977-11-04 |
+| `decreto-lei-1582-de-1977` | Altera o Decreto-lei nº 1.438, de 26 de dezembro de 1975, que dispõe sobre o Imposto sobre os Serviços de Transporte Rodoviário Intermunicipal e Interestadual de Passageiros e Cargas (ISTR) (Decreto-Lei nº 1.582, de 17 de novembro de 1977) | 1 | 1977-11-18 to 1977-11-18 |
+| `decreto-lei-1584-de-1977` | Altera a legislação do Imposto de Renda e dá outras providências (Decreto-Lei nº 1.584, de 29 de novembro de 1977) | 1 | 1977-11-30 to 1977-11-30 |
+| `decreto-lei-1586-de-1977` | Dispõe sobre a utilização de créditos do Imposto sobre Circulação de Mercadorias para dedução do valor do Imposto sobre Produtos Industrializados ou nas modalidades de aproveitamento indicadas pelo Ministro da... (Decreto-Lei nº 1.586, de 6 de dezembro de 1977) | 1 | 1977-12-07 to 1977-12-07 |
+| `decreto-lei-1587-de-1977` | Institui, nas condições que especifica, estímulos fiscais destinados às empresas nacionais prestadoras de serviços a turistas estrangeiros no País (Decreto-Lei nº 1.587, de 19 de dezembro de 1977) | 1 | 1977-12-20 to 1977-12-20 |
+| `decreto-lei-1590-de-1977` | Dá nova redação a dispositivo do Decreto-Lei nº 1.310, de 08 de fevereiro de 1974, que altera a legislação referente ao Fundo do Exército (Decreto-Lei nº 1.590, de 19 de dezembro de 1977) | 1 | 1977-12-20 to 1977-12-20 |
+| `decreto-lei-1591-de-1977` | Prorroga o prazo da isenção dos impostos de importação e sobre produtos industrializados para equipamentos cinematográficos, e dá outras providências (Decreto-Lei nº 1.591, de 21 de dezembro de 1977) | 1 | 1977-12-22 to 1977-12-22 |
+| `decreto-lei-1592-de-1977` | Dispõe sobre a implantação do Grupo-Direção e Assistência Intermediárias, do Plano de Classificação de Cargos do Serviço Civil do Distrito Federal e dá outras providências (Decreto-Lei nº 1.592, de 21 de dezembro de 1977) | 1 | 1977-12-22 to 1977-12-22 |
+| `decreto-lei-1595-de-1977` | Dispõe sobre o imposto de renda devido pelos importadores ou distribuidores de filmes estrangeiros, e dá outras providências (Decreto-Lei nº 1.595, de 22 de dezembro de 1977) | 1 | 1977-12-23 to 1977-12-23 |
+| `decreto-lei-1596-de-1977` | Altera os limites do benefício fiscal de que tratam os Decretos-leis nºs 1.358, de 12 de novembro de 1974, 1.431, de 5 de dezembro de 1975 e 1.491, de 1º de dezembro de 1976, e dá outras providências (Decreto-Lei nº 1.596, de 22 de dezembro de 1977) | 1 | 1977-12-23 to 1977-12-23 |
+| `decreto-lei-1599-de-1977` | Altera a redação do art. 22 do Decreto-lei nº 61, de 21 de novembro de 1966, que modificou a legislação relativa ao Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos e dá outras providências (Decreto-Lei nº 1.599, de 30 de dezembro de 1977) | 1 | 1980-05-14 to 1980-05-14 |
+| `decreto-lei-1600-de-1978` | Altera, para o exercício de 1978, a distribuição do produto da arrecadação dos impostos que menciona (Decreto-Lei nº 1.600, de 3 de janeiro de 1978) | 1 | 1978-01-04 to 1978-01-04 |
+| `decreto-lei-1601-de-1978` | Dispõe sobre a Sistemática a ser aplicada aos incentivos fiscais à atividade turística, que menciona, e dá outras providências (Decreto-Lei nº 1.601, de 18 de janeiro de 1978) | 1 | 1978-01-19 to 1978-01-19 |
+| `decreto-lei-1602-de-1978` | Prorroga, até 31 de dezembro de 1979, o regime especial de que trata o Decreto-lei nº 1.532, de 30 de março de 1977 (Decreto-Lei nº 1.602, de 20 de janeiro de 1978) | 1 | 1978-01-23 to 1978-01-23 |
+| `decreto-lei-1604-de-1978` | Reajusta os vencimentos e salários dos servidores civis do Poder Executivo, dos membros da Magistratura e do Tribunal de Contas União, e dá outras providências (Decreto-Lei nº 1.604, de 22 de fevereiro de 1978) | 1 | 1978-02-23 to 1978-02-23 |
+| `decreto-lei-1605-de-1978` | Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Supremo Tribunal Federal e dá outras providências (Decreto-Lei nº 1.605, de 27 de fevereiro de 1978) | 1 | 1978-02-28 to 1978-02-28 |
+| `decreto-lei-1606-de-1978` | Reajusta os vencimentos, salários e proventos dos servidores da Justiça Eleitoral e dá outras providências (Decreto-Lei nº 1.606, de 27 de fevereiro de 1978) | 1 | 1978-02-28 to 1978-02-28 |
+| `decreto-lei-1607-de-1978` | Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho de Justiça Federal, e dá outras providências (Decreto-Lei nº 1.607, de 28 de fevereiro de 1978) | 1 | 1978-02-28 to 1978-02-28 |
+| `decreto-lei-1609-de-1978` | Altera o artigo 3º da Lei nº 6.441, de 1º de setembro de 1977, que dispõe sobre a abertura de crédito especial para indenização à Companhia Docas da Bahia (Decreto-Lei nº 1.609, de 1º de março de 1978) | 1 | 1978-03-02 to 1978-03-02 |
+| `decreto-lei-1610-de-1978` | Reajusta os vencimentos e proventos dos membros do Tribunal de Contas do Distrito Federal e respectivo Ministério Público (Decreto-Lei nº 1.610, de 2 de março de 1978) | 1 | 1978-03-03 to 1978-03-03 |
+| `decreto-lei-1611-de-1978` | Reajusta os vencimentos e proventos dos servidores das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá outras providências (Decreto-Lei nº 1.611, de 3 de março de 1978) | 1 | 1978-03-06 to 1978-03-06 |
+| `decreto-lei-1612-de-1978` | Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dá outras providências (Decreto-Lei nº 1.612, de 3 de março de 1978) | 1 | 1978-03-06 to 1978-03-06 |
+| `decreto-lei-1613-de-1978` | Reajusta os vencimentos, salários e proventos dos servidores dos Órgãos Auxiliares da Justiça de Primeira Instância do Distrito Federal e dos Territórios (Decreto-Lei nº 1.613, de 3 de março de 1978) | 1 | 1978-03-06 to 1978-03-06 |
+| `decreto-lei-1614-de-1978` | Reajusta os vencimentos e salários dos servidores civis do Distrito Federal e dá outras providências (Decreto-Lei nº 1.614, de 3 de março de 1978) | 1 | 1978-03-06 to 1978-03-06 |
+| `decreto-lei-1615-de-1978` | Reajusta os vencimentos e salários dos servidores da Secretaria Geral do Tribunal de Contas da União e dá outras providências (Decreto-Lei nº 1.615, de 3 de março de 1978) | 1 | 1978-03-06 to 1978-03-06 |
+| `decreto-lei-1616-de-1978` | Reajusta os vencimentos, salários e proventos dos servidores dos Quadros Permanentes e Suplementares do Superior Tribunal Militar e dá outras providências (Decreto-Lei nº 1.616, de 3 de março de 1978) | 1 | 1978-03-06 to 1978-03-06 |
+| `decreto-lei-1619-de-1978` | Reajusta os vencimentos, salários e proventos dos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, e dá outras providências (Decreto-Lei nº 1.619, de 6 de março de 1978) | 1 | 1978-03-07 to 1978-03-07 |
+| `decreto-lei-1620-de-1978` | Reajusta os vencimentos, salários e proventos dos servidores das Secretarias dos Tribunais do Trabalho e dá outras providências (Decreto-Lei nº 1.620, de 10 de março de 1978) | 1 | 1978-03-13 to 1978-03-13 |
+| `decreto-lei-1621-de-1978` | Concede incentivos à capitalização da empresa privada nacional e ao financiamento da pequena e média empresa de regiões menos desenvolvidas e dá outras providências (Decreto-Lei nº 1.621, de 13 de abril de 1978) | 1 | 1978-04-17 to 1978-04-17 |
+| `decreto-lei-1623-de-1978` | Dispõe sobre a retribuição do Governador do Estado de Mato Grosso do Sul do pessoal requisitado para prestar serviços à Comissão Especial de que trata o artigo 48 da Lei Complementar nº 31, de 11 de outubro de 1977,... (Decreto-Lei nº 1.623, de 25 de abril de 1978) | 1 | 1978-04-26 to 1978-04-26 |
+| `decreto-lei-1624-de-1978` | Estende o prazo de redução do imposto sobre a renda e adicionais não restituíveis previsto no artigo 14 da Lei nº 4.239, de 27 de junho de 1963 (Decreto-Lei nº 1.624, de 3 de maio de 1978) | 1 | 1978-05-04 to 1978-05-04 |
+| `decreto-lei-1625-de-1978` | Acrescenta parágrafo ao artigo 15 do Decreto-lei nº 1.493, de 7 de dezembro de 1976, e dá outras providências (Decreto-Lei nº 1.625, de 9 de maio de 1978) | 1 | 1978-05-10 to 1978-05-10 |
+| `decreto-lei-1626-de-1978` | Dispõe sobre isenção do Adicional ao Frete para Renovação da Marinha Mercante e da Taxa de Melhoramento dos Portos, nos casos que especifica, e dá outras providencias (Decreto-Lei nº 1.626, de 1º de junho de 1978) | 1 | 1978-06-02 to 1978-06-02 |
+| `decreto-lei-1627-de-1978` | Dispõe quanto à isenção do Imposto de Importação e do Imposto sobre Produtos Industrializados, nos casos que especifica, e dá outras providências (Decreto-Lei nº 1.627, de 2 de junho de 1978) | 1 | 1978-06-05 to 1978-06-05 |
+| `decreto-lei-1629-de-1978` | Modifica a redação da alínea "f" do artigo 60 da Lei nº 5.025, de 10 de junho de 1966 (Decreto-Lei nº 1.629, de 6 de julho de 1978) | 1 | 1978-07-07 to 1978-07-07 |
+| `decreto-lei-1631-de-1978` | Dispõe sobre a incidência do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos nos álcoois etílico e metílico, para fins carburantes, e dá outras providências (Decreto-Lei nº 1.631, de 2 de agosto de 1978) | 1 | 1979-08-02 to 1979-08-02 |
+| `decreto-lei-1635-de-1978` | Prorroga o prazo de vigência do Decreto-lei nº 1.396, de 12 de março de 1975, que isenta do Imposto Único sobre Minerais as saídas de sal marinho para o exterior (Decreto-Lei nº 1.635, de 1º de setembro de 1978) | 1 | 1978-09-04 to 1978-09-04 |
+| `decreto-lei-1636-de-1978` | Isenta do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos o gasóleo destinado à fabricação de vaselinas sólidas (Decreto-Lei nº 1.636, de 4 de setembro de 1978) | 1 | 1978-09-05 to 1978-09-05 |
+| `decreto-lei-1640-de-1978` | Acrescenta parágrafo ao artigo 6º da Lei nº 4.947, de 6 de abril de 1966, e dá outras providências (Decreto-Lei nº 1.640, de 20 de novembro de 1978) | 1 | 1979-06-19 to 1979-06-19 |
+| `decreto-lei-1643-de-1978` | Prorroga prazos previstos na legislação do Imposto de Renda (Decreto-Lei nº 1.643, de 7 de dezembro de 1978) | 1 | 1978-12-07 to 1978-12-07 |
+| `decreto-lei-1644-de-1978` | Prorroga o prazo de vigência de que trata o artigo 5º do Decreto-Lei nº 1.106, de 16 de junho de 1970 (Decreto-Lei nº 1.644, de 11 de dezembro de 1978) | 1 | 1978-12-12 to 1978-12-12 |
+| `decreto-lei-1648-de-1978` | Altera a legislação do imposto sobre a renda das pessoas jurídicas e dá outras providências (Decreto-Lei nº 1.648, de 18 de dezembro de 1978) | 1 | 1983-10-28 to 1983-10-28 |
+| `decreto-lei-1651-de-1978` | Aumenta os limites do Decreto-lei nº 1.312, de 15 de fevereiro de 1974, alterados pelos Decretos-leis nºs 1.460, de 22 de abril de 1976 e 1.562, 19 de julho de 1977 e da outras providências (Decreto-Lei nº 1.651, de 21 de dezembro de 1978) | 1 | 1978-12-23 to 1978-12-23 |
+| `decreto-lei-1654-de-1979` | Altera o Decreto-lei nº 1.598, de 26 de dezembro de 1977 (Decreto-Lei nº 1.654, de 9 de janeiro de 1979) | 1 | 1979-01-10 to 1979-01-10 |
+| `decreto-lei-1655-de-1979` | Dispõe sobre a guarda e a liquidação dos comprovantes do recolhimento restituível decorrente do consumo de óleo combustível instituído pelo Decreto-Lei nº 1.520, de 17 de janeiro de 1977 (Decreto-Lei nº 1.655, de 9 de janeiro de 1979) | 1 | 1979-01-10 to 1979-01-10 |
+| `decreto-lei-1656-de-1979` | Prorroga o prazo estabelecido no artigo 1º do Decreto-lei nº 1.577, de 10 de outubro de 1977, que dispõe sobre a concessão de isenção do imposto de Importação e do Imposto sobre Produtos Industrializados, nos casos... (Decreto-Lei nº 1.656, de 10 de janeiro de 1979) | 1 | 1979-01-11 to 1979-01-11 |
+| `decreto-lei-1657-de-1979` | Altera os limites de que tratam os Decretos-leis nº 1.358, de 12 de novembro de 1974 (Decreto-Lei nº 1.657, de 23 de janeiro de 1979) | 1 | 1979-01-24 to 1979-01-24 |
+| `decreto-lei-1658-de-1979` | Extingue o estímulo fiscal de que trata o artigo 1º do Decreto-lei nº 491, de 5 de março de 1969 (Decreto-Lei nº 1.658, de 24 de janeiro de 1979) | 1 | 1979-12-04 to 1979-12-04 |
+| `decreto-lei-1662-de-1979` | Altera a legislação do imposto de renda e do imposto sobre produtos industrializados, nos casos que especifica (Decreto-Lei nº 1.662, de 2 de fevereiro de 1979) | 1 | 1979-05-08 to 1979-05-08 |
+| `decreto-lei-1663-de-1979` | Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Supremo Tribunal Federal e dá outras providências (Decreto-Lei nº 1.663, de 13 de fevereiro de 1979) | 1 | 1979-02-14 to 1979-02-14 |
+| `decreto-lei-1664-de-1979` | Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências (Decreto-Lei nº 1.664, de 13 de fevereiro de 1979) | 1 | 1979-02-14 to 1979-02-14 |
+| `decreto-lei-1665-de-1979` | Reajusta os vencimentos e salários dos servidores civis do Distrito Federal e dá outras providências (Decreto-Lei nº 1.665, de 13 de fevereiro de 1979) | 1 | 1979-02-14 to 1979-02-14 |
+| `decreto-lei-1666-de-1979` | Fixa o valor do soldo dos postos de Coronel PM da Policia Militar e de Coronel BM do Corpo de Bombeiros do Distrito Federal e dá outras providências (Decreto-Lei nº 1.666, de 13 de fevereiro de 1979) | 1 | 1979-02-14 to 1979-02-14 |
+| `decreto-lei-1667-de-1979` | Reajusta os vencimentos e proventos dos Membros do Tribunal de Contas do Distrito Federal e respectivo Ministério Público (Decreto-Lei nº 1.667, de 13 de fevereiro de 1979) | 1 | 1979-02-14 to 1979-02-14 |
+| `decreto-lei-1668-de-1979` | Reajusta os vencimentos, salários e proventos dos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, e dá outras providências (Decreto-Lei nº 1.668, de 14 de fevereiro de 1979) | 1 | 1979-02-15 to 1979-02-15 |
+| `decreto-lei-1669-de-1979` | Reajusta os vencimentos e salários dos servidores da Secretaria-Geral do Tribunal de Contas da União e dá outras providências (Decreto-Lei nº 1.669, de 14 de fevereiro de 1979) | 1 | 1979-02-15 to 1979-02-15 |
+| `decreto-lei-1670-de-1979` | Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal (Decreto-Lei nº 1.670, de 14 de fevereiro de 1979) | 1 | 1979-02-15 to 1979-02-15 |
+| `decreto-lei-1671-de-1979` | Reajusta os vencimentos, salários e proventos dos servidores dos Órgãos Auxiliares da Justiça de Primeira Instância do Distrito Federal e dos Territórios (Decreto-Lei nº 1.671, de 14 de fevereiro de 1979) | 1 | 1979-02-15 to 1979-02-15 |
+| `decreto-lei-1672-de-1979` | Altera a legislação do Imposto de Renda em relação a rendimentos sujeitos à retenção na fonte (Decreto-Lei nº 1.672, de 16 de fevereiro de 1979) | 1 | 1979-04-02 to 1979-04-02 |
+| `decreto-lei-1673-de-1979` | Reajusta os vencimentos, salários e proventos dos servidores das Secretarias dos Tribunais do Trabalho e dá outras providências (Decreto-Lei nº 1.673, de 19 de fevereiro de 1979) | 1 | 1979-02-21 to 1979-02-21 |
+| `decreto-lei-1674-de-1979` | Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Superior Tribunal Militar e das Auditorias da Justiça Militar, e dá outras providências (Decreto-Lei nº 1.674, de 19 de fevereiro de 1979) | 1 | 1979-02-21 to 1979-02-21 |
+| `decreto-lei-1675-de-1979` | Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Tribunal Superior Eleitoral e dá outras providências (Decreto-Lei nº 1.675, de 19 de fevereiro de 1979) | 1 | 1979-02-21 to 1979-02-21 |
+| `decreto-lei-1676-de-1979` | Reajusta os vencimentos, salários e proventos dos servidores das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências (Decreto-Lei nº 1.676, de 19 de fevereiro de 1979) | 1 | 1979-02-20 to 1979-02-20 |
+| `decreto-lei-1677-de-1979` | Reajusta os vencimentos, salários e proventos dos servidores das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá outras providências (Decreto-Lei nº 1.677, de 21 de fevereiro de 1979) | 1 | 1979-02-22 to 1979-02-22 |
+| `decreto-lei-1678-de-1979` | Constitui reserva de contenção com parcela das receitas vinculadas da União e dá outras providências (Decreto-Lei nº 1.678, de 22 de fevereiro de 1979) | 1 | 1979-11-27 to 1979-11-27 |
+| `decreto-lei-1679-de-1979` | Concede incentivos à capitalização da empresa privada nacional e ao financiamento da pequena e média empresa de regiões menos desenvolvidas e dá outras providências (Decreto-Lei nº 1.679, de 13 de março de 1979) | 1 | 1979-03-13 to 1979-03-13 |
+| `decreto-lei-1680-de-1979` | Regula a declaração do imposto sobre produtos industrializados e dá outras providências (Decreto-Lei nº 1.680, de 28 de março de 1979) | 1 | 1979-12-21 to 1979-12-21 |
+| `decreto-lei-1682-de-1979` | Reduz alíquotas do imposto sobre Produtos Industrializados, assegura manutenção e utilização de crédito, e dá outras providências (Decreto-Lei nº 1.682, de 7 de maio de 1979) | 1 | 1979-05-08 to 1979-05-08 |
+| `decreto-lei-1683-de-1979` | Dispõe sobre o recebimento de contribuições previdenciárias em atraso, com dispensa total ou parcial de multa (Decreto-Lei nº 1.683, de 29 de maio de 1979) | 1 | 1979-05-30 to 1979-05-30 |
+| `decreto-lei-1684-de-1979` | Altera o artigo 2º do Decreto-lei nº 1.640, de 20 de novembro de 1978 (Decreto-Lei nº 1.684, de 18 de junho de 1979) | 1 | 1979-06-19 to 1979-06-19 |
+| `decreto-lei-1685-de-1979` | Prorroga prazos de vigência de Decretos-leis que dispõem sobre acréscimos às alíquotas do Imposto de Importação e dá outras providências (Decreto-Lei nº 1.685, de 25 de junho de 1979) | 1 | 1979-06-26 to 1979-06-26 |
+| `decreto-lei-1686-de-1979` | Altera alíquotas do IPI incidente sobre os produtos que especifica e dá outras providências (Decreto-Lei nº 1.686, de 26 de julho de 1979) | 1 | 1979-07-27 to 1979-07-27 |
+| `decreto-lei-1688-de-1979` | Limita o benefício previsto no artigo 9º do Decreto-lei nº 1.351, de 24 de outubro de 1974 (Decreto-Lei nº 1.688, de 26 de julho de 1979) | 1 | 1979-07-27 to 1979-07-27 |
+| `decreto-lei-1689-de-1979` | Concede isenção de impostos relativamente a selos, peças filatélicas e material de uso filatélico vendidos no recinto das exportações vinculadas à "Brasiliana 79", e dá outras providências (Decreto-Lei nº 1.689, de 30 de julho de 1979) | 1 | 1979-07-31 to 1979-07-31 |
+| `decreto-lei-1690-de-1979` | Altera dispositivos do Decreto-lei nº 1.631, de 2 de agosto de 1978, que dispõe sobre a incidência do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos nos álcoois etílico e metílico, para fins... (Decreto-Lei nº 1.690, de 1º de agosto de 1979) | 1 | 1979-08-02 to 1979-08-02 |
+| `decreto-lei-1691-de-1979` | Altera a legislação do imposto único sobre Lubrificantes e Combustíveis Líquidos e Gasosos, da Taxa Rodoviária Única, e dá outras providências (Decreto-Lei nº 1.691, de 2 de agosto de 1979) | 1 | 1981-09-27 to 1981-09-27 |
+| `decreto-lei-1694-de-1979` | Cancela débitos para com as autarquias federais e dá outras providências (Decreto-Lei nº 1.694, de 6 de setembro de 1979) | 1 | 1979-09-10 to 1979-09-10 |
+| `decreto-lei-1695-de-1979` | Suprime a incidência do imposto de renda na fonte sobre o 13º salário e atribui competência ao Ministro da Fazenda para fixar prazos de recolhimento de imposto de renda retido por fontes pagadoras de rendimentos (Decreto-Lei nº 1.695, de 18 de setembro de 1979) | 1 | 1979-09-18 to 1979-09-18 |
+| `decreto-lei-1696-de-1979` | Dispõe sobre a aplicação dos recursos atribuídos à Companhia de Pesquisa de Recursos Minerais - CPRM na alínea "j" do item II do artigo 13 da Lei nº 4.452, de 05 de novembro de 1964 (Decreto-Lei nº 1.696, de 24 de setembro de 1979) | 1 | 1979-09-25 to 1979-09-25 |
+| `decreto-lei-1697-de-1979` | Concede isenção dos impostos de importação e sobre produtos industrializados aos bens destinados ao IX Recenseamento Geral do Brasil (Decreto-Lei nº 1.697, de 26 de setembro de 1979) | 1 | 1979-09-27 to 1979-09-27 |
+| `decreto-lei-1698-de-1979` | Altera o limite percentual fixado no Anexo do Decreto-lei nº 1.574, de 19 de setembro de 1977, e dá outras providências (Decreto-Lei nº 1.698, de 3 de outubro de 1979) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-1699-de-1979` | Dispõe sobre cancelamento e parcelamento de débitos, no âmbito da Previdência Social, e dá outras providências (Decreto-Lei nº 1.699, de 16 de outubro de 1979) | 1 | 1979-10-18 to 1979-10-18 |
+| `decreto-lei-1700-de-1979` | Extingue o registro das letras de câmbio e notas promissórias e dá outras providências (Decreto-Lei nº 1.700, de 18 de outubro de 1979) | 1 | 1979-10-19 to 1979-10-19 |
+| `decreto-lei-1701-de-1979` | Prorroga o prazo para destinação de recursos ao PIN e ao PROTERRA (Decreto-Lei nº 1.701, de 18 de outubro de 1979) | 1 | 1979-10-19 to 1979-10-19 |
+| `decreto-lei-1703-de-1979` | Estabelece condições especiais para importação de bens destinados a produção de petróleo bruto e gás natural na Bacia de Campos, na Plataforma Continental Brasileira e dá outras providências (Decreto-Lei nº 1.703, de 18 de outubro de 1979) | 1 | 1981-07-24 to 1981-07-24 |
+| `decreto-lei-1707-de-1979` | Modifica os Decretos-leis nºs. 1.312, de 1974, 1.460, de 1976, 1.562, de 1977, e 1.651, de 1978 (Decreto-Lei nº 1.707, de 30 de outubro de 1979) | 1 | 1979-10-31 to 1979-10-31 |
+| `decreto-lei-1708-de-1979` | Altera o artigo 1º do Decreto-lei nº 1.237, de 12 de setembro de 1972 (Decreto-Lei nº 1.708, de 30 de outubro de 1979) | 1 | 1979-10-31 to 1979-10-31 |
+| `decreto-lei-1709-de-1979` | Dispõe sobre pagamento da Gratificação de Produtividade, nos casos que menciona, e dá outras providências (Decreto-Lei nº 1.709, de 31 de outubro de 1979) | 1 | 1985-07-03 to 1985-07-03 |
+| `decreto-lei-1712-de-1979` | Dispõe sobre a arrecadação das contribuições ao Instituto do Açúcar e do Álcool e dá outras providências (Decreto-Lei nº 1.712, de 14 de novembro de 1979) | 1 | 1982-07-16 to 1982-07-16 |
+| `decreto-lei-1713-de-1979` | Dispõe quanto ao imposto de renda devido na fonte sobre rendimentos do trabalho assalariado (Decreto-Lei nº 1.713, de 19 de novembro de 1979) | 1 | 1979-11-20 to 1979-11-20 |
+| `decreto-lei-1715-de-1979` | Regula a expedição de certidão de quitação de tributos federais e extingue a declaração de devedor remisso (Decreto-Lei nº 1.715, de 22 de novembro de 1979) | 1 | 1979-11-23 to 1979-11-23 |
+| `decreto-lei-1717-de-1979` | Acrescenta os itens V, VI e VII ao § 1º do artigo 1º do Decreto-lei nº 1.678, de 22 de fevereiro de 1979, e dá outras providências (Decreto-Lei nº 1.717, de 26 de novembro de 1979) | 1 | 1979-11-27 to 1979-11-27 |
+| `decreto-lei-1718-de-1979` | Revoga exigência de prestação de informações permanentes referidas na legislação do imposto sobre a renda e dá outras providências (Decreto-Lei nº 1.718, de 27 de novembro de 1979) | 1 | 1979-11-28 to 1979-11-28 |
+| `decreto-lei-1719-de-1979` | Autoriza a garantia do Tesouro Nacional a empréstimo interno para o Estado de Mato Grosso, no limite e condições que especifica (Decreto-Lei nº 1.719, de 28 de novembro de 1979) | 1 | 1979-11-29 to 1979-11-29 |
+| `decreto-lei-1720-de-1979` | Prorroga até 31 de dezembro de 1981 o prazo da isenção concedida as empresas siderúrgicas pelo Decreto-lei nº 569/69 (Decreto-Lei nº 1.720, de 29 de novembro de 1979) | 1 | 1979-11-30 to 1979-11-30 |
+| `decreto-lei-1721-de-1979` | Dá nova redação ao artigo 1º do Decreto-lei nº 1.158, de 16 de março de 1971, ao parágrafo 2º do artigo 1º do Decreto-lei nº 1.189, de 24 de setembro de 1971, e ao artigo 4º do Decreto-lei nº 1.248, de 29 de novembro... (Decreto-Lei nº 1.721, de 3 de dezembro de 1979) | 1 | 1979-12-04 to 1979-12-04 |
+| `decreto-lei-1723-de-1979` | Dispõe sobre a participação dos Territórios Federais na reserva criada pelo Decreto-lei nº 1434, de 11 de dezembro de 1975 (Decreto-Lei nº 1.723, de 6 de dezembro de 1979) | 1 | 1979-12-07 to 1979-12-07 |
+| `decreto-lei-1724-de-1979` | Dispõe sobre os estímulos fiscais de que tratam os artigos 1º e 5º do Decreto-lei nº 491, de 5 de março de 1969 (Decreto-Lei nº 1.724, de 7 de dezembro de 1979) | 1 | 1979-12-07 to 1979-12-07 |
+| `decreto-lei-1728-de-1979` | Altera os limites do benefício fiscal instituído pelo Decreto-lei nº 1.358, de 12 de novembro de 1974, e dá outras providências (Decreto-Lei nº 1.728, de 12 de dezembro de 1979) | 1 | 1979-12-13 to 1979-12-13 |
+| `lei-complementar-30-de-1977` | Permite aposentadoria voluntária, nas condições que especifica, aos funcionários públicos do Distrito Federal, incluídos em Quadro Suplementar ou postos em disponibilidade (Lei Complementar nº 30, de 27 de junho de 1977) | 1 | 1977-06-28 to 1977-06-28 |
+| `lei-complementar-32-de-1977` | Altera a redação do art. 5º, "caput", da Lei Complementar nº 1, de 9 de novembro de 1967, que "dispõe sobre a criação de novos Municípios, e dá outras providências" (Lei Complementar nº 32, de 26 de dezembro de 1977) | 1 | 1977-12-26 to 1977-12-26 |
+| `lei-complementar-33-de-1978` | Dispõe sobre a renovação de eleições para Prefeito, Vice-Prefeito e Vereadores, nos Municípios criados nos termos do art. 2º da Lei Complementar nº 32, de 26 de dezembro de 1977, e dá outras providências (Lei Complementar nº 33, de 16 de maio de 1978) | 1 | 1978-05-17 to 1978-05-17 |
+| `lei-complementar-34-de-1978` | Estabelece, nos termos do art. 103 da Constituição federal, casos de aposentadoria compulsória, no Grupo-Diplomacia, Código D-300 (Lei Complementar nº 34, de 12 de setembro de 1978) | 1 | 1978-09-13 to 1978-09-13 |
+| `lei-complementar-37-de-1979` | Altera a Lei Complementar nº 35, de 14 de março de 1979 (Lei Orgânica da Magistratura Nacional) (Lei Complementar nº 37, de 13 de novembro de 1979) | 1 | 1979-11-13 to 1979-11-13 |
+| `lei-complementar-38-de-1979` | Modifica a redação de dispositivos da Lei Complementar nº 25, de 2 de julho de 1975, que estabelece critérios e limites para a fixação da remuneração de Vereadores (Lei Complementar nº 38, de 13 de novembro de 1979) | 1 | 1979-11-13 to 1979-11-13 |
+| `lei-6286-de-1975` | Fixa os valores de vencimento dos cargos do Grupo - Outras Atividades de Nível Superior do Quadro Permanente da Secretaria-Geral do Tribunal de Contas da União e dá outras providências (Lei nº 6.286, de 11 de dezembro de 1975) | 1 | 1975-12-12 to 1975-12-12 |
+| `lei-6287-de-1975` | Autoriza a alienação de bens imóveis da União, situados nas áreas urbanas das cidades de Macapá, no Território Federal do Amapá, e Boa Vista, no Território Federal de Roraima, nas condições estabelecidas na Lei nº... (Lei nº 6.287, de 11 de dezembro de 1975) | 1 | 1975-12-12 to 1975-12-12 |
+| `lei-6289-de-1975` | Altera a redação do artigo 697 da Consolidação das Leis do Trabalho, aprovado pelo Decreto-lei nº 5.452, de 1º de maio de 1943 (Lei nº 6.289, de 11 de dezembro de 1975) | 1 | 1975-12-12 to 1975-12-12 |
+| `lei-6291-de-1975` | Autoriza o Governo do Distrito Federal a abrir crédito suplementar em reforço de dotações que especifica, constantes do Orçamento do Distrito Federal, para o exercício de 1975 (Lei nº 6.291, de 11 de dezembro de 1975) | 1 | 1975-12-12 to 1975-12-12 |
+| `lei-6292-de-1975` | Dispõe sobre o tombamento de bens no Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN) (Lei nº 6.292, de 15 de dezembro de 1975) | 1 | 1975-12-16 to 1975-12-16 |
+| `lei-6293-de-1975` | Autoriza a União a doar, ao Departamento Nacional de Obras de Saneamento - DNOS, áreas de terra que discrimina (Lei nº 6.293, de 15 de dezembro de 1975) | 1 | 1975-12-17 to 1975-12-17 |
+| `lei-6294-de-1975` | Dispõe sobre doação de lotes, a Estado estrangeiro, pela Companhia Imobiliária de Brasília - TERRACAP (Lei nº 6.294, de 15 de dezembro de 1975) | 1 | 1975-12-16 to 1975-12-16 |
+| `lei-6296-de-1975` | Transforma o Departamento de Trânsito do Distrito Federal em autarquia, e dá outras providências (Lei nº 6.296, de 15 de dezembro de 1975) | 1 | 1975-12-16 to 1975-12-16 |
+| `lei-6299-de-1975` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA - a doar áreas que menciona (Lei nº 6.299, de 15 de dezembro de 1975) | 1 | 1975-12-16 to 1975-12-16 |
+| `lei-6300-de-1975` | Retifica, sem ônus, a Lei nº 6.187, de 16 de dezembro de 1974, que "Estima a Receita e fixa a Despesa da União referente ao exercício financeiro de 1975" (Lei nº 6.300, de 15 de dezembro de 1975) | 1 | 1975-12-16 to 1975-12-16 |
+| `lei-6301-de-1975` | Institui política de exploração de serviço de radiodifusão de emissoras oficiais, autoriza o Poder Executivo a constituir a Empresa Brasileira de Radiodifusão - RADIOBRÁS, e dá outras providências (Lei nº 6.301, de 15 de dezembro de 1975) | 1 | 1975-12-16 to 1975-12-16 |
+| `lei-6303-de-1975` | Fixa os valores de vencimentos dos cargos do Grupo - Outras Atividades de Nível Médio do Serviço Civil do Distrito Federal, e dá outras providências (Lei nº 6.303, de 15 de dezembro de 1975) | 1 | 1975-12-16 to 1975-12-16 |
+| `lei-6304-de-1975` | Estende às duplicatas o processo de autenticação mediante chancela mecânica, nos termos do artigo 1º da Lei 5.589, de 3 de julho de 1970 (Lei nº 6.304, de 15 de dezembro de 1975) | 1 | 1975-12-16 to 1975-12-16 |
+| `lei-6306-de-1975` | Altera o § 2º do art. 26 do Decreto-lei nº 3.365, de 21 de junho de 1941 (Lei nº 6.306, de 15 de dezembro de 1975) | 1 | 1975-12-16 to 1975-12-16 |
+| `lei-6310-de-1975` | Autorizo a instituição da Fundação Projeto Rondon, e dá outras providências (Lei nº 6.310, de 15 de dezembro de 1975) | 1 | 1975-12-16 to 1975-12-16 |
+| `lei-6312-de-1975` | Autoriza o Poder Executivo a instituir a Fundação Nacional de Arte e dá outras providências (Lei nº 6.312, de 16 de dezembro de 1975) | 1 | 1975-12-18 to 1975-12-18 |
+| `lei-6313-de-1975` | Dispõe sobre títulos de crédito à exportação e dá outras providências (Lei nº 6.313, de 16 de dezembro de 1975) | 1 | 1975-12-17 to 1975-12-17 |
+| `lei-6314-de-1975` | Dá nova redação ao artigo 508 do Código de Processo Civil (Lei nº 6.314, de 16 de dezembro de 1975) | 1 | 1975-12-17 to 1975-12-17 |
+| `lei-6315-de-1975` | Dispõe sobre a situação funcional e previdenciária de servidores da Universidade Federal de Viçosa, Estado de Minas Gerais (Lei nº 6.315, de 16 de dezembro de 1975) | 1 | 1975-12-17 to 1975-12-17 |
+| `lei-6317-de-1975` | Dispõe sobre a contratação de seguros sem exigências e restrições previstas na Lei nº 4.594, de 29 de dezembro de 1964 (Lei nº 6.317, de 22 de dezembro de 1975) | 1 | 1975-12-23 to 1975-12-23 |
+| `lei-6318-de-1975` | Altera o parágrafo único do artigo 25 da Lei nº 5.991. de 17 de dezembro de 1973, dispondo sobre a revalidação de licença para o funcionamento de farmácias (Lei nº 6.318, de 22 de dezembro de 1975) | 1 | 1975-12-23 to 1975-12-23 |
+| `lei-6319-de-1976` | Dispõe sobre a isenção da multa prevista pelo artigo 8º da Lei nº 4.737, de 15 de julho de 1965, que institui o Código Eleitoral (Lei nº 6.319, de 2 de janeiro de 1976) | 1 | 1976-01-02 to 1976-01-02 |
+| `lei-6320-de-1976` | Dá nova redação ao artigo 681 da Consolidação das Leis do Trabalho (CLT) (Lei nº 6.320, de 5 de abril de 1976) | 1 | 1976-04-06 to 1976-04-06 |
+| `lei-6322-de-1976` | Dispensa a prestação de fiança por servidores civis da União e dá outras Providências (Lei nº 6.322, de 14 de abril de 1976) | 1 | 1976-04-19 to 1976-04-19 |
+| `lei-6323-de-1976` | Reajusta os vencimentos dos servidores do Senado Federal e dá outras providências (Lei nº 6.323, de 14 de abril de 1976) | 1 | 1976-04-19 to 1976-04-19 |
+| `lei-6324-de-1976` | Acrescenta parágrafo único ao artigo 92 da Lei n º 4.737, de 15 de julho de 1965, que institui o Código Eleitoral (Lei nº 6.324, de 14 de abril de 1976) | 1 | 1976-04-19 to 1976-04-19 |
+| `lei-6325-de-1976` | Aplica aos servidores da Câmara dos Deputados disposições do Decreto-lei nº 1.445. de 13-2-76 (Reajusta os vencimentos e salários dos Servidores civis do Poder Executivo, dos membros da Magistratura, do Tribunal de... (Lei nº 6.325, de 14 de abril de 1976) | 1 | 1979-04-03 to 1979-04-03 |
+| `lei-6326-de-1976` | Autoriza a transferência para o patrimônio da Universidade Federal de Juiz de Fora dos imóveis que menciona (Lei nº 6.326, de 4 de maio de 1976) | 1 | 1976-05-05 to 1976-05-05 |
+| `lei-6327-de-1976` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA - a doar os imóveis que menciona (Lei nº 6.327, de 4 de maio de 1976) | 1 | 1976-05-05 to 1976-05-05 |
+| `lei-6328-de-1976` | Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Supremo Tribunal Federal e dá outras providências (Lei nº 6.328, de 4 de maio de 1976) | 1 | 1976-05-05 to 1976-05-05 |
+| `lei-6330-de-1976` | Cria cargos, em comissão, de Assessor Legislativo, na Assessoria Legislativa da Câmara dos Deputados, e determina outras providências (Lei nº 6.330, de 13 de maio de 1976) | 1 | 1976-05-14 to 1976-05-14 |
+| `lei-6331-de-1976` | Dispõe sobre a opção de transferência, para o quadro de pessoal do Banco Central do Brasil, de funcionários requisitados, e dá outras providências (Lei nº 6.331, de 18 de maio de 1976) | 1 | 1976-05-18 to 1976-05-18 |
+| `lei-6332-de-1976` | Autoriza reajustamento adicional de benefícios previdenciários, nos casos que especifica, altera tetos de contribuição e dá nova redação a dispositivos da Lei nº 6.136, de 7 de novembro de 1974, que "inclui o... (Lei nº 6.332, de 18 de maio de 1976) | 1 | 1979-12-27 to 1979-12-27 |
+| `lei-6334-de-1976` | Fixa idade máxima para inscrição em concurso público destinado ao ingresso em empregos e cargos do Serviço Público Federal (Lei nº 6.334, de 31 de maio de 1976) | 1 | 1984-10-30 to 1984-10-30 |
+| `lei-6335-de-1976` | Dá nova redação ao artigo 2º da Lei nº 6.185, de 11 de dezembro de 1974 (Lei nº 6.335, de 31 de maio de 1976) | 1 | 1976-06-02 to 1976-06-02 |
+| `lei-6336-de-1976` | Acrescenta parágrafo do artigo 135 do Código Eleitoral, dispondo sobre Seções eleitorais em propriedades rurais (Lei nº 6.336, de 1º de junho de 1976) | 1 | 1976-06-02 to 1976-06-02 |
+| `lei-6337-de-1976` | Dá a trecho da BR-319, do Plano Nacional de Viação, a denominação "Rodovia Álvaro Maia" (Lei nº 6.337, de 4 de junho de 1976) | 1 | 1976-06-07 to 1976-06-07 |
+| `lei-6338-de-1976` | Inclui as ações de indenização por acidentes do trabalho entre as que tem curso nas férias forenses (Lei nº 6.338, de 7 de junho de 1976) | 1 | 1976-06-08 to 1976-06-08 |
+| `lei-6339-de-1976` | Dá nova redação ao artigo 250 da Lei nº 4.737, de 15 de julho de 1965, alterado pelo artigo 50, da Lei número 4.961, de 4 de maio de 1966, e ao artigo 118 da Lei nº 5.682, de 21 de julho de 1971 (Lei nº 6.339, de 1º de julho de 1976) | 1 | 1995-09-20 to 1995-09-20 |
+| `lei-6342-de-1976` | Altera disposições da Lei nº 6.082, de 10 de julho de 1974 , e dá outras providências (Lei nº 6.342, de 5 de julho de 1976) | 1 | 1976-07-06 to 1976-07-06 |
+| `lei-6345-de-1976` | Dispõe sobre a transferência de terrenos da União para o patrimônio da Universidade Federal de Minas Gerais (Lei nº 6.345, de 6 de julho de 1976) | 1 | 1976-07-07 to 1976-07-07 |
+| `lei-6347-de-1976` | Revoga a Lei número 1.956, de 26 de agosto de 1953 (Lei nº 6.347, de 6 de julho de 1976) | 1 | 1976-07-07 to 1976-07-07 |
+| `lei-6349-de-1976` | Dispõe sobre a indicação de candidatos a cargos eletivos nos municípios onde os Partidos Políticos não constituiram Diretórios Municipais e dá outras providências (Lei nº 6.349, de 7 de julho de 1976) | 1 | 1976-07-08 to 1976-07-08 |
+| `lei-6353-de-1976` | Dá o nome de “Édison Carneiro” ao Museu do Folclore (Lei nº 6.353, de 13 de julho de 1976) | 1 | 1976-07-14 to 1976-07-14 |
+| `lei-6355-de-1976` | Altera o caput do artigo 20 da Lei nº 5.869, de 11 de janeiro de 1973, que institui o Código de Processo Civil (Lei nº 6.355, de 8 de setembro de 1976) | 1 | 1976-09-09 to 1976-09-09 |
+| `lei-6357-de-1976` | Dispõe sobre a criação de cargos no Grupo - Atividades de Controle Externo do Quadro Permanente da Secretaria Geral do Tribunal de Contas da União e dá outras providências (Lei nº 6.357, de 8 de setembro de 1976) | 1 | 1976-09-09 to 1976-09-09 |
+| `lei-6358-de-1976` | Regula a indicação de candidatos a Prefeito, Vice-Prefeito e Vereadores onde não se tenham realizado convenções partidárias (Lei nº 6.358, de 10 de setembro de 1976) | 1 | 1976-09-10 to 1976-09-10 |
+| `lei-6359-de-1976` | Fixa prazo para domicílio eleitoral e filiação partidária para as eleições municipais de 1976 (Lei nº 6.359, de 22 de setembro de 1976) | 1 | 1976-09-23 to 1976-09-23 |
+| `lei-6361-de-1976` | Revoga a Lei nº 1.252, de 2 de dezembro de 1950, e dá outras providências (Lei nº 6.361, de 23 de setembro de 1976) | 1 | 1976-09-24 to 1976-09-24 |
+| `lei-6362-de-1976` | Altera dispositivos da Lei de Promoções de Oficiais da Ativa das Forças Armadas (Lei nº 6.362, de 23 de setembro de 1976) | 1 | 1976-09-24 to 1976-09-24 |
+| `lei-6363-de-1976` | Acrescenta parágrafo único ao artigo 1º do Decreto-lei nº 1.028, de 21 de outubro de 1969, que aprova o Estatuto da Federação das Escolas Federais Isoladas do Estado do Rio de Janeiro (Lei nº 6.363, de 23 de setembro de 1976) | 1 | 1976-09-24 to 1976-09-24 |
+| `lei-6364-de-1976` | Acrescenta parágrafo ao Art. 40 da Lei número 4.878, de 3 de dezembro de 1965, que "dispõe sobre o regime jurídico peculiar aos funcionários Policiais Civis da União e do Distrito Federal" (Lei nº 6.364, de 4 de outubro de 1976) | 1 | 1976-10-06 to 1976-10-06 |
+| `lei-6366-de-1976` | Dispõe sobre o Estatuto do Magistério Oficial do Distrito Federal (Lei nº 6.366, de 15 de outubro de 1976) | 1 | 1976-10-15 to 1976-10-15 |
+| `lei-6370-de-1976` | Prorroga o prazo de validade de carteira de identidade para estrangeiro (Lei nº 6.370, de 27 de outubro de 1976) | 1 | 1976-10-29 to 1976-10-29 |
+| `lei-6372-de-1976` | Eleva em Cr$ 500.000.000,00 (quinhentos milhões de cruzeiros), o limite atribuído ao Governador do Distrito Federal para a abertura de créditos suplementares (Lei nº 6.372, de 8 de novembro de 1976) | 1 | 1976-11-09 to 1976-11-09 |
+| `lei-6373-de-1976` | Autoriza a União a renunciar a direitos creditórios em favor do Município de Urussanga, no Estado de Santa Catarina (Lei nº 6.373, de 8 de novembro de 1976) | 1 | 1976-11-09 to 1976-11-09 |
+| `lei-6375-de-1976` | Dispõe sobre os servidores públicos civis da Administração direta do Distrito Federal e de suas autarquias, segundo a natureza jurídica do vínculo empregatício, e da outras providências (Lei nº 6.375, de 26 de novembro de 1976) | 1 | 1976-11-29 to 1976-11-29 |
+| `lei-6377-de-1976` | Reserva às empresas contratadas pela Itaipu Binacional o direito à exploração de substâncias mineirais de emprego imediato na construção civil e estabelece a possibilidade da imposição de restrições ao exercício da... (Lei nº 6.377, de 30 de novembro de 1976) | 1 | 1976-12-02 to 1976-12-02 |
+| `lei-6384-de-1976` | Regula a eleição para prefeito, vice-prefeito e vereadores, nos municípios que deixaram de fazê-la no dia 15 de novembro de 1976 (Lei nº 6.384, de 7 de dezembro de 1976) | 1 | 1976-12-07 to 1976-12-07 |
+| `lei-6386-de-1976` | Altera dispositivos da Consolidação das Leis do Trabalho e dá outras providências (Lei nº 6.386, de 9 de dezembro de 1976) | 1 | 1976-12-10 to 1976-12-10 |
+| `lei-6387-de-1976` | Define "moagem colonial", e dá outras providências (Lei nº 6.387, de 9 de dezembro de 1976) | 1 | 1976-12-10 to 1976-12-10 |
+| `lei-6388-de-1976` | Autoriza o Governo do Distrito Federal a contrair empréstimo destinado ao atendimento da Rede de Ensino de Segundo Grau do Distrito Federal (Lei nº 6.388, de 9 de dezembro de 1976) | 1 | 1976-12-10 to 1976-12-10 |
+| `lei-6389-de-1976` | Fixa as Referências de salário dos empregos do Grupo - Processamento de Dados e dá outras providências (Lei nº 6.389, de 9 de dezembro de 1976) | 1 | 1976-12-10 to 1976-12-10 |
+| `lei-6390-de-1976` | Reajuste o valor da pensão especial concedida a Justiniana Fleury Passos (Lei nº 6.390, de 9 de dezembro de 1976) | 1 | 1976-12-10 to 1976-12-10 |
+| `lei-6391-de-1976` | Dispõe sobre o Pessoal do Ministério do Exército e dá outras providências (Lei nº 6.391, de 9 de dezembro de 1976) | 1 | 1976-12-10 to 1976-12-10 |
+| `lei-6392-de-1976` | Altera disposição do Decreto-lei nº 82, de 26 de dezembro de 1966, que regula o Sistema Tributário do Distrito Federal (Lei nº 6.392, de 9 de dezembro de 1976) | 1 | 1976-12-10 to 1976-12-10 |
+| `lei-6393-de-1976` | Eleva em Cr$ 159.608.000,00 (cento e cinqüenta e nove milhões, seiscentos e oito mil cruzeiros) o limite atribuído ao Governador do Distrito Federal para abertura de créditos suplementares (Lei nº 6.393, de 9 de dezembro de 1976) | 1 | 1976-12-10 to 1976-12-10 |
+| `lei-6394-de-1976` | Dispõe sobre a participação do Governo do Distrito Federal no capital da PROFLORA S.A. - Florestamento e Reflorestamento (Lei nº 6.394, de 9 de dezembro de 1976) | 1 | 1976-12-10 to 1976-12-10 |
+| `lei-6397-de-1976` | Veda aos Municípios empenhar, no último mês do mandato do Prefeito, mais do que o duodécimo da despesa prevista no orçamento em vigor (Lei nº 6.397, de 10 de dezembro de 1976) | 1 | 1976-12-13 to 1976-12-13 |
+| `lei-6398-de-1976` | Dispõe sobre pensão especial em favor de Beatriz Ferreira Lucas e Arminda Ferreira Lucas (Lei nº 6.398, de 10 de dezembro de 1976) | 1 | 1976-12-14 to 1976-12-14 |
+| `lei-6399-de-1976` | Acrescenta e altera dispositivos no Decreto-lei nº 764, de 15 de agosto de 1969 ,que autoriza a constituição da sociedade por ações Companhia de Pesquisa de Recursos Minerais - CPRM- e dá outras providências (Lei nº 6.399, de 10 de dezembro de 1976) | 1 | 1976-12-14 to 1976-12-14 |
+| `lei-6400-de-1976` | Prorroga o prazo de validade dos concursos para provimento dos cargos de Juízes Substitutos do Trabalho, estipulado pela Lei nº 6.087, de 16 de julho de 1974 (Lei nº 6.400, de 10 de dezembro de 1976) | 1 | 1976-12-14 to 1976-12-14 |
+| `lei-6402-de-1976` | Dá nova redação ao artigo 8º da Lei nº 6.341, de 5 de julho de 1976, que dispões sobre a organização e o funcionamento de Movimentos Trabalhista e Estudantil nos Partidos Políticos e dá outras providências (Lei nº 6.402, de 10 de dezembro de 1976) | 1 | 1976-12-16 to 1976-12-16 |
+| `lei-6403-de-1976` | Modifica dispositivos do Decreto-lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), alterado pelo Decreto-lei nº 318, de 14 de março de 1967 (Lei nº 6.403, de 15 de dezembro de 1976) | 1 | 1977-12-16 to 1977-12-16 |
+| `lei-6405-de-1976` | Retifica sem ônus a Lei número 6.279, de 9 de dezembro de 1975, que “Estima a Receita e fixa a Despesa da União para o exercício financeiro de 1976” (Lei nº 6.405, de 15 de dezembro de 1976) | 1 | 1977-12-16 to 1977-12-16 |
+| `lei-6406-de-1977` | Altera as diretrizes das rodovias BR-453 e BR-468, integrantes do Plano Nacional de Viação, aprovado pela Lei nº 5.917, de 10 de setembro de 1973 (Lei nº 6.406, de 21 de março de 1977) | 1 | 1977-03-22 to 1977-03-22 |
+| `lei-6407-de-1977` | Dispõe sobre a doação do Hospital Hermínio Amorim e dá outras providências (Lei nº 6.407, de 21 de março de 1977) | 1 | 1977-03-22 to 1977-03-22 |
+| `lei-6408-de-1977` | Reajusta os vencimentos e salários dos servidores da Câmara dos Deputados e dá outras providências (Lei nº 6.408, de 29 de março de 1977) | 1 | 1977-03-30 to 1977-03-30 |
+| `lei-6409-de-1977` | Reajusta os vencimentos dos servidores do Senado Federal e dá outras providências (Lei nº 6.409, de 29 de março de 1977) | 1 | 1977-03-30 to 1977-03-30 |
+| `lei-6410-de-1977` | Autoriza reversão ao Município de Formosa, Estado de Goiás, de imóvel que menciona (Lei nº 6.410, de 15 de abril de 1977) | 1 | 1977-04-19 to 1977-04-19 |
+| `lei-6411-de-1977` | Autoriza a venda pelo Instituto Brasileiro do Café de imóvel de sua propriedade, em Governador Valadares, à União (Lei nº 6.411, de 26 de abril de 1977) | 1 | 1977-04-27 to 1977-04-27 |
+| `lei-6415-de-1977` | Amplia os atuais mandatos partidários (Lei nº 6.415, de 24 de maio de 1977) | 1 | 1977-05-25 to 1977-05-25 |
+| `lei-6416-de-1977` | Altera dispositivos do Código Penal (Decreto-lei nº 2.848, de 7 de dezembro de 1940), do Código de Processo Penal (Decreto-lei nº 3.689, de 3 de outubro de 1941), da Lei das Contravenções Penais (Decreto-lei nº... (Lei nº 6.416, de 24 de maio de 1977) | 1 | 1977-05-25 to 1977-05-25 |
+| `lei-6417-de-1977` | Autoriza o Instituto Brasileiro de Desenvolvimento Florestal - IBDF - a permutar o imóvel que menciona (Lei nº 6.417, de 30 de maio de 1977) | 1 | 1977-05-31 to 1977-05-31 |
+| `lei-6418-de-1977` | Dá nova redação aos artigos 2º e 3º do Decreto-lei nº 1.016, de 21 de outubro de 1969, que dispõe sobre o pagamento de serviços industriais ou comerciais, prestados por órgãos vinculados ao Ministério dos Transportes (Lei nº 6.418, de 30 de maio de 1977) | 1 | 1977-05-31 to 1977-05-31 |
+| `lei-6421-de-1977` | Fixa as diretrizes para a proteção à utilização dos faróis, faroletes e demais sinais visuais de auxílio à navegação na costa brasileira (Lei nº 6.421, de 6 de junho de 1977) | 1 | 1977-06-07 to 1977-06-07 |
+| `lei-6422-de-1977` | Altera a Lei nº 6.385, de 7 de dezembro de 1976, que dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários (Lei nº 6.422, de 8 de junho de 1977) | 1 | 1977-06-10 to 1977-06-10 |
+| `lei-6424-de-1977` | Autoriza a transferência para o Estado do Rio de Janeiro de bens de propriedade da União (Lei nº 6.424, de 17 de junho de 1977) | 1 | 1977-06-21 to 1977-06-21 |
+| `lei-6425-de-1977` | Autoriza o Governo do Distrito Federal a contrair empréstimo destinado ao atendimento da Rede de Ensino de Primeiro Grau da cidade satélite de Ceilândia do Distrito Federal (Lei nº 6.425, de 27 de junho de 1977) | 1 | 1977-06-28 to 1977-06-28 |
+| `lei-6426-de-1977` | Altera dispositivos da Lei nº 1.512, de 19 de dezembro de 1951, que cria a Comissão Nacional de Belas Art es, o Salão Nacional de Arte Moderna, e dá outras providências (Lei nº 6.426, de 30 de junho de 1977) | 1 | 1977-07-04 to 1977-07-04 |
+| `lei-6428-de-1977` | Dispõe sobre a aplicação do artigo 200 do Decreto-lei número 9.760, de 5 de setembro de 1946, aos bens originariamente integrantes do acervo das estradas de ferro incorporadas à Rede Ferroviária Federal S.A (Lei nº 6.428, de 1º de julho de 1977) | 1 | 1977-07-05 to 1977-07-05 |
+| `lei-6429-de-1977` | Altera a redação de dispositivos do Decreto-lei nº 4.238, de 8 de abril de 1942, que dispõe sobre a fabricação, o comércio e o uso de artigos pirotécnicos e dá outras providências (Lei nº 6.429, de 5 de julho de 1977) | 1 | 1977-07-06 to 1977-07-06 |
+| `lei-6432-de-1977` | Veda às diretorias de bancos e entidades oficiais a participação nos lucros oriundos de aplicações em depósitos a prazo fixo, cadernetas de poupança ou títulos de renda (Lei nº 6.432, de 12 de julho de 1977) | 1 | 1977-07-12 to 1977-07-12 |
+| `lei-6433-de-1977` | Fixa os valores de retribuição do Grupo-Saúde e dá outras providências (Lei nº 6.433, de 15 de julho de 1977) | 1 | 1977-07-19 to 1977-07-19 |
+| `lei-6434-de-1977` | Acrescenta dispositivo à Lei nº 4.591, de 16 de dezembro de 1964, que "dispõe sobre o condomínio em edificações e as incorporações imobiliárias." (Lei nº 6.434, de 15 de julho de 1977) | 1 | 1977-07-19 to 1977-07-19 |
+| `lei-6436-de-1977` | Extingue a Junta Especial criada pela Lei nº 609 de 13 de janeiro de 1.949 (Lei nº 6.436, de 15 de agosto de 1977) | 1 | 1977-08-16 to 1977-08-16 |
+| `lei-6438-de-1977` | Altera a redação do § 3º do artigo 24 da Lei nº 3.807, de 26 de agosto de 1960, que "dispõe sobre a Lei Orgânica da Previdência Social" (Lei nº 6.438, de 30 de agosto de 1977) | 1 | 1977-09-01 to 1977-09-01 |
+| `lei-6439-de-1977` | Institui o sistema Nacional de Previdência e Assistência Social e dá outras providências (Lei nº 6.439, de 1º de setembro de 1977) | 1 | 1981-12-30 to 1981-12-30 |
+| `lei-6442-de-1977` | Dispõe sobre áreas de proteção para o funcionamento das estações radiogoniométricas de alta freqüência do Ministério da Marinha e de radiomonitoragem do Ministério das Comunicações (Lei nº 6.442, de 26 de setembro de 1977) | 1 | 1977-09-27 to 1977-09-27 |
+| `lei-6445-de-1977` | Dispõe sobre consignações em folha de pagamento de servidores civis, ativos e inativos, da Administração Federal direta e das autarquias federais e dá outras providências (Lei nº 6.445, de 4 de outubro de 1977) | 1 | 1977-10-05 to 1977-10-05 |
+| `lei-6447-de-1977` | Renova o prazo de validade da carteira de identidade para estrangeiro (Lei nº 6.447, de 6 de outubro de 1977) | 1 | 1977-10-07 to 1977-10-07 |
+| `lei-6448-de-1977` | Dispõe sobre a organização política e administrativa dos Municípios dos Territórios Federais, e dá outras providências (Lei nº 6.448, de 11 de outubro de 1977) | 1 | 1983-12-09 to 1983-12-09 |
+| `lei-6449-de-1977` | Dá nova redação ao § 1º do art. 449 da Consolidação das Leis do Trabalho (CLT) (Lei nº 6.449, de 14 de outubro de 1977) | 1 | 1977-10-18 to 1977-10-18 |
+| `lei-6453-de-1977` | Dispõe sobre a responsabilidade civil por danos nucleares e a responsabilidade criminal por atos relacionados com atividades nucleares e dá outras providências (Lei nº 6.453, de 17 de outubro de 1977) | 1 | 2021-05-17 to 2021-05-17 |
+| `lei-6455-de-1977` | Autoriza o poder Executivo a promover, pelo princípio de bravura, o 2º Sargento do Exército Silvio Delmar Holenbach (Lei nº 6.455, de 24 de outubro de 1977) | 1 | 1977-10-25 to 1977-10-25 |
+| `lei-6456-de-1977` | Transfere o Museu do Açúcar do Instituto do Açúcar e do Álcool para o Instituto Joaquim Nabuco de Pesquisas Sociais, e dá outras providências (Lei nº 6.456, de 26 de outubro de 1977) | 1 | 1977-10-27 to 1977-10-27 |
+| `lei-6457-de-1977` | Acrescenta parágrafo único ao artigo 130 do Decreto-lei nº 200, de 25 de fevereiro de 1967, que dispõe sobre a Organização da Administração Federal, definindo o prazo para cumprimento do objeto da licitação (Lei nº 6.457, de 1º de novembro de 1977) | 1 | 1977-11-03 to 1977-11-03 |
+| `lei-6458-de-1977` | Adapta ao Código de Processo Civil a Lei nº 5.474, de 18 de julho de 1968, e dá outras providências (Lei nº 6.458, de 1º de novembro de 1977) | 1 | 2022-01-07 to 2022-01-07 |
+| `lei-6460-de-1977` | Retifica, sem ônus, a Lei nº 6.395, de 9 de dezembro de 1976, que "estima a Receita e fixa a Despesa da União para o exercício financeiro de 1977" (Lei nº 6.460, de 7 de novembro de 1977) | 1 | 1977-11-09 to 1977-11-09 |
+| `lei-6463-de-1977` | Torna obrigatória a declaração de preço total nas vendas a prestação, e dá outras providências (Lei nº 6.463, de 9 de novembro de 1977) | 1 | 1995-01-16 to 1995-01-16 |
+| `lei-6465-de-1977` | Dá nova redação ao Artigo 14 da Lei nº 1.060, de 5 de fevereiro de 1950, que estabelece normas para a concessão da assistência judiciária aos necessitados (Lei nº 6.465, de 14 de novembro de 1977) | 1 | 1977-11-16 to 1977-11-16 |
+| `lei-6466-de-1977` | Autoriza o Governo do Distrito Federal a contrair empréstimos destinados à elaboração e execução de programas de desenvolvimento urbano e dá outras providências (Lei nº 6.466, de 14 de novembro de 1977) | 1 | 1978-10-20 to 1978-10-20 |
+| `lei-6467-de-1977` | Conceda pensão especial a João Supren Filho, e dá outra providências (Lei nº 6.467, de 14 de novembro de 1977) | 1 | 1977-11-16 to 1977-11-16 |
+| `lei-6468-de-1977` | Dispõe sobre o regime de tributação simplificada para as pessoas jurídicas de pequeno porte, estabelece isenção do imposto de renda em favor daquelas que auferem reduzida receita bruta, e dá outras providências (Lei nº 6.468, de 14 de novembro de 1977) | 1 | 1989-12-29 to 1989-12-29 |
+| `lei-6469-de-1977` | Fixa os efetivos dos Oficiais dos Corpos e Quadros da Marinha, declara em extinção Quadro de Oficiais, e dá outras providências (Lei nº 6.469, de 18 de novembro de 1977) | 1 | 1982-08-31 to 1982-08-31 |
+| `lei-6470-de-1977` | Autoriza o Governo do Distrito Federal a abrir créditos suplementares até o montante de Cr$ 1.140.000.000,00 (hum bilhão e cento e quarenta milhões de cruzeiros) para o fim que especifica (Lei nº 6.470, de 29 de novembro de 1977) | 1 | 1977-11-30 to 1977-11-30 |
+| `lei-6473-de-1977` | Altera o art. 11 do Decreto-Lei n° 67, de 21 de novembro de 1966, que dispõe sobre ações da Companhia de Navegação Lloyd Brasileiro, e dá outras providências (Lei nº 6.473, de 29 de novembro de 1977) | 1 | 1977-11-30 to 1977-11-30 |
+| `lei-6474-de-1977` | Dispõe sobre a criação e extinção de cargos na Secretaria do Supremo Tribunal Federal, e dá outras providências (Lei nº 6.474, de 30 de novembro de 1977) | 1 | 1980-06-26 to 1980-06-26 |
+| `lei-6476-de-1977` | Dispõe sobre a transferência de estabelecimento federal de ensino agrícola para o Governo do Estado da Paraíba, e dá outras providências (Lei nº 6.476, de 1º de dezembro de 1977) | 1 | 1977-12-05 to 1977-12-05 |
+| `lei-6477-de-1977` | Dispõe sobre o Conselho de Disciplina na Polícia Militar e no Corpo de Bombeiros do Distrito Federal, e dá outras providências (Lei nº 6.477, de 1º de dezembro de 1977) | 1 | 1977-12-05 to 1977-12-05 |
+| `lei-6478-de-1977` | Aplica aos diplomas expedidos pela Comissão de Desportos da Aeronáutica o disposto no art. 1º do Decreto-lei nº 1.043, de 21 de outubro de 1969 (Lei nº 6.478, de 1º de dezembro de 1977) | 1 | 1977-12-05 to 1977-12-05 |
+| `lei-6479-de-1977` | Cria Cargos no Tribunal Regional do Trabalho da 9ª Região, e dá outras Providências (Lei nº 6.479, de 1º de dezembro de 1977) | 1 | 1977-12-05 to 1977-12-05 |
+| `lei-6481-de-1977` | Altera dispositivos da Lei nº 1.711, de 28 de outubro de 1952 (Estatuto dos Funcionários Públicos Civis da União) (Lei nº 6.481, de 5 de dezembro de 1977) | 1 | 1977-12-06 to 1977-12-06 |
+| `lei-6491-de-1977` | Altera a Lei nº 5.647, de 10 de dezembro de 1970, que “autoriza o Poder Executivo a instituir a Fundação Universidade Federal de Mato Grosso” (Lei nº 6.491, de 7 de dezembro de 1977) | 1 | 1977-12-09 to 1977-12-09 |
+| `lei-6492-de-1977` | Autoriza a Petrobrás Química S.A. - PETROQUISA a, nas condições que estabelece, participar do capital de outras sociedades (Lei nº 6.492, de 7 de dezembro de 1977) | 1 | 1977-12-09 to 1977-12-09 |
+| `lei-6493-de-1977` | Autoriza a Petrobrás Fertilizantes S.A. a, nas condições que estabelece, participar do capital de outras sociedades (Lei nº 6.493, de 7 de dezembro de 1977) | 1 | 1977-12-09 to 1977-12-09 |
+| `lei-6496-de-1977` | Institui a " Anotação de Responsabilidade Técnica " na prestação de serviços de engenharia, de arquitetura e agronomia (Lei nº 6.496, de 7 de dezembro de 1977) | 1 | 1977-12-09 to 1977-12-09 |
+| `lei-6498-de-1977` | Dispõe sobre o Magistério da Marinha e dá outras providências (Lei nº 6.498, de 7 de dezembro de 1977) | 1 | 1977-12-12 to 1977-12-12 |
+| `lei-6499-de-1977` | Dispõe sobre a educação dos filhos do Sargento Sílvio Delmar Hollenbach (Lei nº 6.499, de 7 de dezembro de 1977) | 1 | 1977-12-12 to 1977-12-12 |
+| `lei-6500-de-1977` | Autoriza a criação de empresa pública, sob a denominação de Empresa de Assistência Técnica e Extensão Rural do Distrito Federal - EMATER/DF, e dá outras providências (Lei nº 6.500, de 7 de dezembro de 1977) | 1 | 1977-12-12 to 1977-12-12 |
+| `lei-6504-de-1977` | Altera a Relação Descritiva das Rodovias do Plano Nacional de Viação, aprovado pela Lei nº 5.917, de 10 de setembro de 1973 (Lei nº 6.504, de 13 de dezembro de 1977) | 1 | 1977-12-16 to 1977-12-16 |
+| `lei-6506-de-1977` | Dá nova denominação ao Instituto de Medicina Legal do Distrito Federal (Lei nº 6.506, de 16 de dezembro de 1977) | 1 | 1977-12-19 to 1977-12-19 |
+| `lei-6508-de-1977` | Dispõe sobre recursos da União, estranhos ao Fundo Federal de Eletrificação, e dá outras providências (Lei nº 6.508, de 19 de dezembro de 1977) | 1 | 1977-12-20 to 1977-12-20 |
+| `lei-6510-de-1977` | Dá nova redação ao artigo 10 da Lei n.º 5.645, de 10 de dezembro de 1970 (Lei nº 6.510, de 19 de dezembro de 1977) | 1 | 1977-12-20 to 1977-12-20 |
+| `lei-6511-de-1977` | Dispõe sobre os Prêmios Literários Nacionais (Lei nº 6.511, de 19 de dezembro de 1977) | 1 | 1980-11-04 to 1980-11-04 |
+| `lei-6512-de-1977` | Dispõe sobre a obrigatoriedade do voto nas eleições sindicais e dá outras providências (Lei nº 6.512, de 19 de dezembro de 1977) | 1 | 1977-12-20 to 1977-12-20 |
+| `lei-6515-de-1977` | Regula os casos de dissolução da sociedade conjugal e do casamento, seus efeitos e respectivos processos, e dá outras providências. (Lei do Divórcio) (Lei nº 6.515, de 26 de dezembro de 1977) | 1 | 1992-02-14 to 1992-02-14 |
+| `lei-6517-de-1978` | Reajusta os vencimentos e salários dos servidores da Câmara dos Deputados e dá outras providências (Lei nº 6.517, de 17 de março de 1978) | 1 | 1978-03-20 to 1978-03-20 |
+| `lei-6518-de-1978` | Reajusta os vencimentos dos servidores do Senado Federal e dá outras providências (Lei nº 6.518, de 17 de março de 1978) | 1 | 1978-03-20 to 1978-03-20 |
+| `lei-6519-de-1978` | Autoriza o Poder Executivo a subscrever ações do Banco do Brasil S.A., abrir crédito especial até o limite de Cr$ 3.500.000.000,00 (três bilhões e quinhentos milhões de cruzeiros) para esse fim, e dá outras providências (Lei nº 6.519, de 28 de março de 1978) | 1 | 1978-03-28 to 1978-03-28 |
+| `lei-6521-de-1978` | Autoriza o Instituto Brasileiro do Café, autarquia federal vinculada ao Ministério da Indústria e do Comércio, a alienar imóvel de sua propriedade, localizado na capital do Estado de São Paulo (Lei nº 6.521, de 8 de abril de 1978) | 1 | 1978-04-11 to 1978-04-11 |
+| `lei-6522-de-1978` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA - a doar o Imóvel que menciona (Lei nº 6.522, de 8 de abril de 1978) | 1 | 1978-04-11 to 1978-04-11 |
+| `lei-6524-de-1978` | Autoriza a União a promover medidas no sentido de tornar efetiva a conversão das ações ordinárias que possua no capital da Indústria Carboquímica Catarinense - ICC, em ações preferenciais sem direito a voto e dá... (Lei nº 6.524, de 11 de abril de 1978) | 1 | 1978-04-13 to 1978-04-13 |
+| `lei-6525-de-1978` | Altera a redação do artigo 7º da Lei nº 6.223, de 14 de julho de 1975, que dispõe sobre a fiscalização financeira e orçamentária da União pelo Congresso Nacional (Lei nº 6.525, de 11 de abril de 1978) | 1 | 1978-04-13 to 1978-04-13 |
+| `lei-6526-de-1978` | Altera a estrutura da Categoria Funcional de Diplomata (Carreira de Diplomata), do Grupo Diplomacia do Quadro Permanente do Ministério das Relações Exteriores (Lei nº 6.526, de 20 de abril de 1978) | 1 | 1978-04-24 to 1978-04-24 |
+| `lei-6531-de-1978` | Dispõe sobre alienação, por permuta, de imóveis residenciais de propriedade da União, localizados no Distrito Federal, e dá nova redação ao item VII, do artigo 3º, da Lei nº 5.861, de 12 de dezembro de 1972 (Lei nº 6.531, de 16 de maio de 1978) | 1 | 1978-05-17 to 1978-05-17 |
+| `lei-6532-de-1978` | Acrescenta e altera dispositivos no Decreto-lei nº 762, de 14 de agosto de 1969, que “autoriza o funcionamento da Universidade de Uberlândia”, e dá outras providências (Lei nº 6.532, de 24 de maio de 1978) | 1 | 1978-05-26 to 1978-05-26 |
+| `lei-6533-de-1978` | Dispõe sobre a regulamentação das profissões de Artistas e de técnico em Espetáculos de Diversões, e dá outras providências (Lei nº 6.533, de 24 de maio de 1978) | 1 | 2020-04-20 to 2020-04-20 |
+| `lei-6534-de-1978` | Dispõe sobre a escolha e o registro, pelos Partidos Políticos, de candidatos às eleições de 1978, para Governadores e Vice-Governadores, Senadores e Deputados Federais e Estaduais, e dá outras providências (Lei nº 6.534, de 26 de maio de 1978) | 1 | 1978-05-29 to 1978-05-29 |
+| `lei-6536-de-1978` | Dá nova redação a dispositivos do Decreto-lei nº 835, de 8 de setembro de 1969, e da Lei nº 5.692, de 11 de agosto de 1971 (Lei nº 6.536, de 16 de junho de 1978) | 1 | 1978-06-20 to 1978-06-20 |
+| `lei-6537-de-1978` | Altera dispositivos da Lei nº 1.411, de 13 de agosto de 1951, que "dispõe sobre a profissão de Economista" (Lei nº 6.537, de 19 de junho de 1978) | 1 | 1978-06-21 to 1978-06-21 |
+| `lei-6538-de-1978` | Dispõe sobre os Serviços Postais (Lei nº 6.538, de 22 de junho de 1978) | 1 | 1978-06-23 to 1978-06-23 |
+| `lei-6539-de-1978` | Dispõe sobre a representação judicial das entidades do Sistema Nacional de Previdência Social nas comarcas do interior do País e a sua representação administrativa nos municípios onde não possua órgão próprio (Lei nº 6.539, de 28 de junho de 1978) | 1 | 1978-06-29 to 1978-06-29 |
+| `lei-6543-de-1978` | Dispõe sobre a vigência dos efeitos financeiros da inclusão do pessoal docente do Magistério da Aeronáutica (Lei nº 6.543, de 30 de junho de 1978) | 1 | 1978-07-04 to 1978-07-04 |
+| `lei-6544-de-1978` | Altera dispositivos do Código Penal Militar (Decreto-lei nº 1.001, de 21 de outubro de 1969) e do Código de Processo Penal Militar (Decreto-lei nº 1.002, de 21 de outubro de 1969) e dá outras providências (Lei nº 6.544, de 30 de junho de 1978) | 1 | 1978-07-04 to 1978-07-04 |
+| `lei-6545-de-1978` | Dispõe sobre a transformação das Escolas Técnicas Federais de Minas Gerais, do Paraná e Celso Suckow da Fonseca em Centros Federais de Educação Tecnológica e dá outras providências (Lei nº 6.545, de 30 de junho de 1978) | 1 | 1994-12-09 to 1994-12-09 |
+| `lei-6546-de-1978` | Dispõe sobre a regulamentação das profissões de Arquivista e de Técnico de Arquivo, e dá outras providências (Lei nº 6.546, de 4 de julho de 1978) | 1 | 2019-11-12 to 2019-11-12 |
+| `lei-6547-de-1978` | Dá nova redação a dispositivos das Leis nº 6.022, de 3 de janeiro de 1974 (Estatuto dos bombeiros-militares do Corpo de Bombeiros do Distrito Federal) e nº 6.023, de 3 de janeiro de 1974 (Estatuto dos... (Lei nº 6.547, de 4 de julho de 1978) | 1 | 1986-06-04 to 1986-06-04 |
+| `lei-6550-de-1978` | Estabelece diretrizes para a classificação de cargos, empregos e funções do Serviço Civil dos Territórios Federais, e dá outras providências (Lei nº 6.550, de 5 de julho de 1978) | 1 | 1978-07-06 to 1978-07-06 |
+| `lei-6551-de-1978` | Concede ao Distrito Federal isenção do pagamento de custas e emolumentos relativos à prática de quaisquer atos, pelo Ofícios e Cartórios de Registro de Imóveis, de Registro de Títulos e Documentos e de Notas,... (Lei nº 6.551, de 5 de julho de 1978) | 1 | 1978-07-06 to 1978-07-06 |
+| `lei-6553-de-1978` | Altera e acrescenta parágrafo ao art. 101 da Lei nº 4.737, de 15 de julho de 1965 (dispõe sobre o preenchimento de vaga e a substituição de candidato às eleições proporcionais ou majoritárias) (Lei nº 6.553, de 19 de agosto de 1978) | 1 | 1978-08-22 to 1978-08-22 |
+| `lei-6554-de-1978` | Dispõe sobre novas inscrições de magistrados federais no Montepio Civil da União e dá outras providências (Lei nº 6.554, de 21 de agosto de 1978) | 1 | 1980-07-08 to 1980-07-08 |
+| `lei-6555-de-1978` | Altera a Relação Descritiva das Rodovias do Plano Nacional de Viação, aprovado pela Lei nº 5.917, de 10 de setembro de 1973 (Lei nº 6.555, de 22 de agosto de 1978) | 1 | 1978-08-23 to 1978-08-23 |
+| `lei-6556-de-1978` | Dispõe sobre a atividade de Secretário e dá outras providências (Lei nº 6.556, de 5 de setembro de 1978) | 1 | 1978-09-06 to 1978-09-06 |
+| `lei-6557-de-1978` | Dispõe sobre doação, à União, pelo Distrito Federal, de bens móveis colocados à disposição da Presidência da República em 17 de novembro de 1967 (Lei nº 6.557, de 5 de setembro de 1978) | 1 | 1978-09-06 to 1978-09-06 |
+| `lei-6559-de-1978` | Extingue a Comissão Especial da Faixa de Fronteiras (CEFF) e dá outras providências (Lei nº 6.559, de 18 de setembro de 1978) | 1 | 1978-09-20 to 1978-09-20 |
+| `lei-6560-de-1978` | Dispõe sobre a incidência de Imposto Único Sobre Lubrificantes e Combustíveis Líquidos e Gasosos nos óleos lubrificantes de origem vegetal, automotivos e industriais (Lei nº 6.560, de 18 de setembro de 1978) | 1 | 1978-09-20 to 1978-09-20 |
+| `lei-6562-de-1978` | Altera a redação dos arts. 48 e 169 do Decreto-lei nº 37, de 18 de novembro de 1966, e dá outras providências (Lei nº 6.562, de 18 de setembro de 1978) | 1 | 1988-09-02 to 1988-09-02 |
+| `lei-6563-de-1978` | Cria Juntas de Conciliação e Julgamento nas Regiões da Justiça do Trabalho, Define Jurisdições e dá outras Providências (Lei nº 6.563, de 19 de setembro de 1978) | 1 | 1978-09-02 to 1978-09-02 |
+| `lei-6565-de-1978` | Autoriza o Instituto Nacional de Colonização e Reforma Agraria - INCRA a doar imóvel que menciona (Lei nº 6.565, de 19 de setembro de 1978) | 1 | 1978-09-20 to 1978-09-20 |
+| `lei-6566-de-1978` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que o imóvel que menciona (Lei nº 6.566, de 19 de setembro de 1978) | 1 | 1978-09-20 to 1978-09-20 |
+| `lei-6568-de-1978` | Autoriza a cessão ao Estado do Rio de Janeiro do imóvel que menciona e dá outras providências (Lei nº 6.568, de 24 de setembro de 1978) | 1 | 1978-09-26 to 1978-09-26 |
+| `lei-6569-de-1978` | Autoriza a Companhia Vale do Rio Doce - CVRD e a Petrobrás Comércio Internacional S.A. - INTERBRÁS a, nas condições que estabelece, participarem do capital de outras sociedades (Lei nº 6.569, de 24 de setembro de 1978) | 1 | 1978-09-26 to 1978-09-26 |
+| `lei-6570-de-1978` | Prorroga o prazo de validade da carteira de identidade para estrangeiros (Lei nº 6.570, de 30 de setembro de 1978) | 1 | 1978-10-03 to 1978-10-03 |
+| `lei-6571-de-1978` | Dispõe sobre o regime jurídico do pessoal da Comissão Nacional de Energia Nuclear (CNEN) e dá outras providências (Lei nº 6.571, de 30 de setembro de 1978) | 1 | 1978-10-03 to 1978-10-03 |
+| `lei-6572-de-1978` | Dá nova redação ao § 2º do art. 1º da Lei nº 5.709, de 7 de outubro de 1971 (Lei nº 6.572, de 30 de setembro de 1978) | 1 | 1978-10-03 to 1978-10-03 |
+| `lei-6573-de-1978` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA - a doar os imóveis que menciona (Lei nº 6.573, de 30 de setembro de 1978) | 1 | 1978-10-03 to 1978-10-03 |
+| `lei-6574-de-1978` | Altera a diretriz da ferrovia EF-463 integrante do Plano Nacional de Viação, aprovado pela Lei nº 5.917, de 10 de setembro de 1973 (Lei nº 6.574, de 30 de setembro de 1978) | 1 | 1978-10-03 to 1978-10-03 |
+| `lei-6576-de-1978` | Dispõe sobre a proibição do abate de açaizeiro em todo o território nacional e dá outras providências (Lei nº 6.576, de 30 de setembro de 1978) | 1 | 1978-10-03 to 1978-10-03 |
+| `lei-6577-de-1978` | Dispõe sobre o Conselho de Justificação da Polícia Militar e do Corpo de Bombeiro do Distrito Federal, e dá outras providências (Lei nº 6.577, de 30 de setembro de 1978) | 1 | 1978-10-13 to 1978-10-13 |
+| `lei-6578-de-1978` | Revoga o Decreto-lei nº 1.004, de 21 de outubro de 1969, e as Leis nºs 6.016, de 1973, e 6.063 de 1974 (Lei nº 6.578, de 11 de outubro de 1978) | 1 | 1978-10-13 to 1978-10-13 |
+| `lei-6579-de-1978` | Autoriza o Distrito Federal a contrair empréstimos destinados a cobrir as despesas com a sua participação no Plano Nacional de Habitação Popular - PLANHAP - e dá outras providências (Lei nº 6.579, de 18 de outubro de 1978) | 1 | 1978-10-20 to 1978-10-20 |
+| `lei-6580-de-1978` | Altera a redação do art. 1º da Lei nº 6.466, de 14 de novembro de 1977 (Lei nº 6.580, de 18 de outubro de 1978) | 1 | 1978-10-20 to 1978-10-20 |
+| `lei-6581-de-1978` | Dispõe sobre cargos em comissão das Secretarias do Tribunal Federal de Recursos e do Conselho de Justiça Federal, e dá outras providências (Lei nº 6.581, de 20 de outubro de 1978) | 1 | 1978-10-24 to 1978-10-24 |
+| `lei-6585-de-1978` | Acrescenta parágrafo ao art. 29 do Decreto-lei nº 221, de 28 de fevereiro de 1967, que dispõe sobre a proteção e estímulo à pesca (Lei nº 6.585, de 24 de outubro de 1978) | 1 | 1978-10-25 to 1978-10-25 |
+| `lei-6586-de-1978` | Classifica o comerciante ambulante para fins trabalhistas e previdenciários (Lei nº 6.586, de 6 de novembro de 1978) | 1 | 1978-11-07 to 1978-11-07 |
+| `lei-6588-de-1978` | Institui normas para a regularização do saldo devedor do Tesouro Nacional, remanescente de operações realizadas junto ao Banco do Brasil S. A. anteriormente à vigência da Lei nº 4.595, de 31 de dezembro de 1964 (Lei nº 6.588, de 16 de novembro de 1978) | 1 | 1978-11-17 to 1978-11-17 |
+| `lei-6591-de-1978` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária--INCRA a doar os imóveis que menciona (Lei nº 6.591, de 16 de novembro de 1978) | 1 | 1978-11-17 to 1978-11-17 |
+| `lei-6593-de-1978` | Autoriza a alienação das ações da Federal de Seguros S.A. e dá outras providências (Lei nº 6.593, de 21 de novembro de 1978) | 1 | 1978-11-21 to 1978-11-21 |
+| `lei-6595-de-1978` | Altera disposições da Lei nº 5.887, de 31 de maio de 1973, que dispõe sobre o regime jurídico do Diplomata (Lei nº 6.595, de 21 de novembro de 1978) | 1 | 1978-11-22 to 1978-11-22 |
+| `lei-6598-de-1978` | Revoga do art. 778, da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943 (Lei nº 6.598, de 1º de dezembro de 1978) | 1 | 1978-12-05 to 1978-12-05 |
+| `lei-6601-de-1978` | Retifica, sem ônus, a Lei nº 6.486, de 6 de dezembro de 1977, que “estima a Receita e fixa a Despesa da União para o exercício financeiro de 1978” (Lei nº 6.601, de 7 de dezembro de 1978) | 1 | 1978-12-12 to 1978-12-12 |
+| `lei-6602-de-1978` | Altera a redação da alínea i do artigo 5º do Decreto-lei nº 3.365, de 21 de junho de 1941, que dispõe sobre desapropriações por utilidade pública, e acrescenta parágrafos ao mesmo artigo (Lei nº 6.602, de 7 de dezembro de 1978) | 1 | 1978-12-12 to 1978-12-12 |
+| `lei-6603-de-1978` | Dispõe sobre cargos em comissão da Secretaria do Tribunal de Justiça do Distrito Federal, e dá outras providências (Lei nº 6.603, de 7 de dezembro de 1978) | 1 | 1978-12-12 to 1978-12-12 |
+| `lei-6604-de-1978` | Dispõe sobre a criação e extinção de cargos no Quadro de Pessoal dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, e dá outras providências (Lei nº 6.604, de 7 de dezembro de 1978) | 1 | 1982-12-07 to 1982-12-07 |
+| `lei-6605-de-1978` | Autoriza o Governo do Território Federal de Roraima a alienar imóveis sob sua administração, localizado na Cidade de Belém, Estado do Pará, e dá outras providências (Lei nº 6.605, de 7 de dezembro de 1978) | 1 | 1978-12-12 to 1978-12-12 |
+| `lei-6608-de-1978` | Autoriza a alienação do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro e dá outras providências (Lei nº 6.608, de 7 de dezembro de 1978) | 1 | 1978-12-12 to 1978-12-12 |
+| `lei-6611-de-1978` | Dispõe sobre a criação de fundo especial, de natureza contábil, denominado Fundo de Desenvolvimento de Recursos Humanos do Distrito Federal - FUNDO-IDR (Lei nº 6.611, de 7 de dezembro de 1978) | 1 | 1978-12-12 to 1978-12-12 |
+| `lei-6612-de-1978` | Altera dispositivos do Decreto-lei nº 972, de 17 de outubro de 1969, que dispõe sôbre a profissão de jornalista (Lei nº 6.612, de 7 de dezembro de 1978) | 1 | 1978-12-12 to 1978-12-12 |
+| `lei-6613-de-1978` | Autoriza o Ministério da Agricultura a doar bens móveis sob a sua jurisdição (Lei nº 6.613, de 7 de dezembro de 1978) | 1 | 1978-12-12 to 1978-12-12 |
+| `lei-6614-de-1978` | Dispõe sobre o patrimônio da Universidade Federal do Rio Grande do Sul (Lei nº 6.614, de 7 de dezembro de 1978) | 1 | 1978-12-12 to 1978-12-12 |
+| `lei-6615-de-1978` | Dispõe sobre a regulamentação da profissão de Radialista e dá outras providências (Lei nº 6.615, de 16 de dezembro de 1978) | 1 | 2026-01-09 to 2026-01-09 |
+| `lei-6616-de-1978` | Acrescenta artigos a Lei nº 6.385, de 7 de dezembro de 1976, que dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários (Lei nº 6.616, de 16 de dezembro de 1978) | 1 | 1978-12-17 to 1978-12-17 |
+| `lei-6618-de-1978` | Dispõe sobre a alteração da denominação da Fundação Centro Nacional de Segurança, Higiene e Medicina do Trabalho (Lei nº 6.618, de 16 de dezembro de 1978) | 1 | 1978-12-17 to 1978-12-17 |
+| `lei-6619-de-1978` | Altera dispositivos da Lei nº 5.194, de 24 de dezembro de 1966, e dá outras providências (Lei nº 6.619, de 16 de dezembro de 1978) | 1 | 1978-12-17 to 1978-12-17 |
+| `lei-6621-de-1978` | Altera dispositivos da Lei de Organização Judiciária Militar (Decreto-lei nº 1.003, de 21 de outubro de 1969), e dá outras providências (Lei nº 6.621, de 22 de dezembro de 1978) | 1 | 1978-12-21 to 1978-12-21 |
+| `lei-6623-de-1979` | Estabelece prazo às entidades públicas e particulares para fornecerem aos beneficiários comprovantes de rendimentos, para fins de imposto de renda (Lei nº 6.623, de 23 de março de 1979) | 1 | 1979-03-27 to 1979-03-27 |
+| `lei-6625-de-1979` | Acrescenta dispositivo ao art. 26 da Lei nº 5.540, de 28 de novembro de 1968 que "fixa normas de organização e funcionamento do ensino superior e sua articulação com a escola média", instituindo matéria obrigatória (Lei nº 6.625, de 23 de março de 1979) | 1 | 1979-03-27 to 1979-03-27 |
+| `lei-6626-de-1979` | Reajusta os valores de vencimentos dos funcionários, ativos e inativos, do Senado Federal (Lei nº 6.626, de 2 de abril de 1979) | 1 | 1979-04-04 to 1979-04-04 |
+| `lei-6627-de-1979` | Reajusta os vencimentos e salários dos servidores da Câmara dos Deputados, e dá outras providências (Lei nº 6.627, de 2 de abril de 1979) | 1 | 1979-04-03 to 1979-04-03 |
+| `lei-6629-de-1979` | Estabelece normas para a comprovação de residência, quando exigida por autoridade pública para a expedição de documento (Lei nº 6.629, de 16 de abril de 1979) | 1 | 1979-04-17 to 1979-04-17 |
+| `lei-6630-de-1979` | Altera disposições da Lei nº 5.917, de 10 de setembro de 1973, que "aprova o Plano Nacional de Viação, e dá outras providências" (Lei nº 6.630, de 16 de abril de 1979) | 1 | 1979-05-17 to 1979-05-17 |
+| `lei-6631-de-1979` | Acrescenta parágrafo no art. 35 do Decreto-lei nº 221, de 28 de fevereiro de 1967, que dispõe sobre a proteção e estímulo à pesca e dá outras providências (Lei nº 6.631, de 19 de abril de 1979) | 1 | 1979-04-20 to 1979-04-20 |
+| `lei-6633-de-1979` | Veda a exibição de cartaz cinematográfico que não seja criado, produzido e impresso por brasileiro ou empresa brasileira (Lei nº 6.633, de 28 de abril de 1979) | 1 | 1979-04-30 to 1979-04-30 |
+| `lei-6635-de-1979` | Altera a composição do Tribunal Regional do Trabalho da ª Região, cria cargos, e dá outras providências (Lei nº 6.635, de 2 de maio de 1979) | 1 | 1979-05-03 to 1979-05-03 |
+| `lei-6636-de-1979` | Dá nova redação ao parágrafo único do art. 12 da Lei nº 3.807, de 26 de agosto de 1960 (Lei Orgânica da Previdência Social) (Lei nº 6.636, de 8 de maio de 1979) | 1 | 1979-05-10 to 1979-05-10 |
+| `lei-6637-de-1979` | Dá nova redação no art. 225 da Consolidação das Leis do Trabalho - CLT (Lei nº 6.637, de 8 de maio de 1979) | 1 | 1979-05-10 to 1979-05-10 |
+| `lei-6639-de-1979` | Introduz alteração na Lei nº 91, de 28 de agosto de 1935, que "determina regras pelas quais são as sociedades declaradas de utilidade pública." (Lei nº 6.639, de 8 de maio de 1979) | 1 | 1979-05-10 to 1979-05-10 |
+| `lei-6640-de-1979` | Altera a redação da alínea d do inciso I do artigo 40 da Lei nº 5.250, de 9 de fevereiro de 1967, que "regula a liberdade de manifestação do pensamento e da informação" (Lei nº 6.640, de 8 de maio de 1979) | 1 | 1979-05-10 to 1979-05-10 |
+| `lei-6641-de-1979` | Cria cargos em comissão e fixa valores de vencimentos do Grupo-Direção e Assessoramento Superiores do Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da 9ª Região e dá outras providências (Lei nº 6.641, de 8 de maio de 1979) | 1 | 1979-05-10 to 1979-05-10 |
+| `lei-6642-de-1979` | Altera dispositivos da Lei nº 4.769, de 9 de setembro de 1965, que dispõe sobre o exercício da profissão de Técnico de Administração (Lei nº 6.642, de 14 de maio de 1979) | 1 | 1979-05-15 to 1979-05-15 |
+| `lei-6643-de-1979` | Acrescenta parágrafo ao art. 9º da Lei nº 5.890, de 8 de junho de 1973, que “altera a legislação de Previdência Social e dá outras providências” (Lei nº 6.643, de 14 de maio de 1979) | 1 | 1979-05-15 to 1979-05-15 |
+| `lei-6644-de-1979` | Cria cargos no Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da 9ª Região e dá outras providências (Lei nº 6.644, de 14 de maio de 1979) | 1 | 1979-05-15 to 1979-05-15 |
+| `lei-6646-de-1979` | Altera o efetivo de Soldados PM da Polícia Militar do Distrito Federal e dá outras providências (Lei nº 6.646, de 16 de maio de 1979) | 1 | 1979-05-15 to 1979-05-15 |
+| `lei-6647-de-1979` | Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional Eleitoral do Pará, e dá outras providências (Lei nº 6.647, de 16 de maio de 1979) | 1 | 1979-05-17 to 1979-05-17 |
+| `lei-6648-de-1979` | Introduz alteração no Plano Nacional de Viação, incluindo trecho rodoviário nos Estados de Santa Catarina e Rio Grande do Sul (Lei nº 6.648, de 16 de maio de 1979) | 1 | 1979-05-17 to 1979-05-17 |
+| `lei-6650-de-1979` | Dispõe sobre a criação, na Presidência da República, da Secretaria de Comunicação Social, altera dispositivos do Decreto-lei nº 200, de 25 de fevereiro de 1967, e dá outras providências (Lei nº 6.650, de 23 de maio de 1979) | 1 | 1979-05-24 to 1979-05-24 |
+| `lei-6651-de-1979` | Altera a redação do art. 353 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943 (Lei nº 6.651, de 23 de maio de 1979) | 1 | 1979-05-24 to 1979-05-24 |
+| `lei-6652-de-1979` | Dispõe sobre o Estatuto dos Policiais Militares das Polícias Militares dos Territórios Federais do Amapá, de Rondônia e de Roraima, e dá outras providências (Lei nº 6.652, de 30 de maio de 1979) | 1 | 1979-05-31 to 1979-05-31 |
+| `lei-6654-de-1979` | Acrescenta parágrafo ao art. 4º da Lei nº 1.060, de 5 de fevereiro de 1950, que estabelece normas para a concessão de assistência judiciária aos necessitados (Lei nº 6.654, de 30 de maio de 1979) | 1 | 1979-05-31 to 1979-05-31 |
+| `lei-6655-de-1979` | Transforma a Federação das Escolas Federais Isoladas do Estado do Rio de Janeiro - FEFIERJ em Universidade do Rio de Janeiro - UNIRIO (Lei nº 6.655, de 5 de junho de 1979) | 1 | 1979-06-06 to 1979-06-06 |
+| `lei-6656-de-1979` | Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional Eleitoral do Rio Grande do Sul, e dá outras providências (Lei nº 6.656, de 5 de junho de 1979) | 1 | 1979-06-06 to 1979-06-06 |
+| `lei-6657-de-1979` | Acresce a alínea "j" ao art. 3º da Lei nº 4898, de 9 de dezembro de 1965, que "regula o direito de representação e o processo de responsabilidade administrativa civil e penal, nos casos de abuso de autoridade" (Lei nº 6.657, de 5 de junho de 1979) | 1 | 1979-06-06 to 1979-06-06 |
+| `lei-6660-de-1979` | Dá nova redação à alínea e, do art. 2º, do Decreto-Lei nº 869, de 12 de setembro de 1969, que “dispõe sobre a inclusão da Educação Moral e Cívica, como disciplina obrigatória, nos sistemas de ensino do País, e dá... (Lei nº 6.660, de 18 de junho de 1979) | 1 | 1979-06-19 to 1979-06-19 |
+| `lei-6663-de-1979` | Autoriza a permuta do terreno que menciona, por imóvel localizado na cidade de Quito, República do Equador (Lei nº 6.663, de 25 de junho de 1979) | 1 | 1979-06-26 to 1979-06-26 |
+| `lei-6664-de-1979` | Disciplina a profissão de Geógrafo e dá outras providências (Lei nº 6.664, de 26 de junho de 1979) | 1 | 1985-11-05 to 1985-11-05 |
+| `lei-6665-de-1979` | Dispõe sobre a criação da Companhia de Desenvolvimento de Barcarena - CODEBAR, e dá outras providências (Lei nº 6.665, de 3 de julho de 1979) | 1 | 1979-07-04 to 1979-07-04 |
+| `lei-6666-de-1979` | Dispõe sobre a contratação de pessoal, pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, para realizar coleta de dados (Lei nº 6.666, de 3 de julho de 1979) | 1 | 1979-07-04 to 1979-07-04 |
+| `lei-6667-de-1979` | Dá nova redação ao caput do art. 843 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943 (Lei nº 6.667, de 3 de julho de 1979) | 1 | 1979-07-04 to 1979-07-04 |
+| `lei-6669-de-1979` | Altera o artigo 21, e seus parágrafos, do Decreto-Lei nº 411, de 8 de janeiro de 1969, e dá outras providências (Lei nº 6.669, de 4 de julho de 1979) | 1 | 1979-07-05 to 1979-07-05 |
+| `lei-6670-de-1979` | Dispõe sobre doação de lote à Organização das Nações Unidas - ONU - pela Companhia Imobiliária de Brasília - TERRACAP (Lei nº 6.670, de 4 de julho de 1979) | 1 | 1979-07-05 to 1979-07-05 |
+| `lei-6671-de-1979` | Inclui no Plano Nacional de Viação, aprovado pela Lei nº 5.917, de 10 de setembro de 1973,o Porto de Tefé, localizado no Município de Tefé, Estado do Amazonas (Lei nº 6.671, de 4 de julho de 1979) | 1 | 1979-07-05 to 1979-07-05 |
+| `lei-6672-de-1979` | Cria cargos em comissão no Ministério Público Federal e dá outras providências (Lei nº 6.672, de 5 de julho de 1979) | 1 | 1979-07-05 to 1979-07-05 |
+| `lei-6674-de-1979` | Autoriza o Poder Executivo a instituir a Fundação Universidade Federal de Mato Grosso do Sul, em obediência ao disposto no art. 39 da Lei Complementar nº 31, de 11 de outubro de 1977 (Lei nº 6.674, de 5 de julho de 1979) | 1 | 1977-06-07 to 1977-06-07 |
+| `lei-6675-de-1979` | Dispõe sobre a duração de mandatos dos representantes classistas no Conselho Curador do Fundo de Garantia do Tempo de Serviço (Lei nº 6.675, de 9 de julho de 1979) | 1 | 1979-07-10 to 1979-07-10 |
+| `lei-6676-de-1979` | Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional Eleitoral do Piauí e dá outras providências (Lei nº 6.676, de 9 de julho de 1979) | 1 | 1979-07-10 to 1979-07-10 |
+| `lei-6679-de-1979` | Autoriza a Comissão de Financiamento da Produção - CFP a alienar o imóvel que menciona (Lei nº 6.679, de 14 de agosto de 1979) | 1 | 1979-08-15 to 1979-08-15 |
+| `lei-6681-de-1979` | Dispõe sobre a inscrição de médicos, cirurgiões-dentistas e farmacêuticos militares em Conselhos Regionais de Medicina, Odontologia e Farmácia, e dá outras providências (Lei nº 6.681, de 16 de agosto de 1979) | 1 | 1979-08-17 to 1979-08-17 |
+| `lei-6684-de-1979` | Regulamenta as profissões de Biólogo e de Biomédico, cria o Conselho Federal e os Conselhos Regionais de Biologia e Biomedicina, e dá outras providências (Lei nº 6.684, de 3 de setembro de 1979) | 1 | 1995-09-20 to 1995-09-20 |
+| `lei-6685-de-1979` | Introduz alterações na Lei nº 5.969, de 11 de dezembro de 1973, que institui o Programa de Garantia da Atividade Agropecuária - PROAGRO (Lei nº 6.685, de 3 de setembro de 1979) | 1 | 1979-09-04 to 1979-09-04 |
+| `lei-6686-de-1979` | Dispõe sobre o exercício da análise clínico-laboratorial (Lei nº 6.686, de 11 de setembro de 1979) | 1 | 1983-10-27 to 1983-10-27 |
+| `lei-6687-de-1979` | Autoriza o Poder Executivo a instituir a Fundação Joaquim Nabuco e dá outras providências (Lei nº 6.687, de 17 de setembro de 1979) | 1 | 1979-09-18 to 1979-09-18 |
+| `lei-6688-de-1979` | Introduz alterações na Lei dos Registros Públicos, quanto às escrituras e partilhas, lavradas ou homologadas na vigência do Decreto nº 4.857, de 9 de novembro de 1939 (Lei nº 6.688, de 17 de setembro de 1979) | 1 | 1979-09-18 to 1979-09-18 |
+| `lei-6689-de-1979` | Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS, Autarquia vinculada ao Ministério do Interior, a doar o imóvel que menciona, situado no Município de Sobral, Estado do Ceará (Lei nº 6.689, de 24 de setembro de 1979) | 1 | 1979-09-25 to 1979-09-25 |
+| `lei-6690-de-1979` | Disciplina o cancelamento de protesto de títulos cambiais, e dá outras providências (Lei nº 6.690, de 25 de setembro de 1979) | 1 | 1985-11-06 to 1985-11-06 |
+| `lei-6691-de-1979` | Estende aos inativos as alterações de estrutura salarial efetuadas pelo artigo 4º do Decreto-lei nº 1.660, de 24 de janeiro de 1979 (Lei nº 6.691, de 1º de outubro de 1979) | 1 | 1979-10-02 to 1979-10-02 |
+| `lei-6693-de-1979` | Dispõe sobre a constituição, no Território Federal de Roraima, da Companhia de Desenvolvimento de Roraima - CODESAIMA e dá outras providências (Lei nº 6.693, de 3 de outubro de 1979) | 1 | 1979-10-04 to 1979-10-04 |
+| `lei-6695-de-1979` | Dispõe sobre receitas do Fundo do Exército (Lei nº 6.695, de 8 de outubro de 1979) | 1 | 1979-10-09 to 1979-10-09 |
+| `lei-6696-de-1979` | Equipara, no tocante a previdência social urbana, os ministros de confissão religiosa e os membros de institutos de vida consagrada, congregação ou ordem religiosa aos trabalhadores autônomos e dá outras providências (Lei nº 6.696, de 8 de outubro de 1979) | 1 | 1973-06-09 to 1973-06-09 |
+| `lei-6699-de-1979` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona (Lei nº 6.699, de 15 de outubro de 1979) | 1 | 1979-10-16 to 1979-10-16 |
+| `lei-6700-de-1979` | Fixa idade máxima para inscrição em concurso público destinado ao ingresso em empregos e cargos do Serviço Civil do Distrito Federal (Lei nº 6.700, de 23 de outubro de 1979) | 1 | 1984-10-30 to 1984-10-30 |
+| `lei-6701-de-1979` | Dispõe sobre o direito às vantagens do art. 184 da Lei nº 1.711, de 28 de outubro de 1952 (Estatuto dos Funcionários Públicos Civis da União) (Lei nº 6.701, de 24 de outubro de 1979) | 1 | 1979-10-25 to 1979-10-25 |
+| `lei-6702-de-1979` | Autoriza a transferência do domínio de bens encampados, anteriormente vinculados à concessão da extinta Companhia Hidro Elétrica de Boa Esperança - COHEBE (Lei nº 6.702, de 24 de outubro de 1979) | 1 | 1979-10-25 to 1979-10-25 |
+| `lei-6703-de-1979` | Estende aos funcionários aposentados da Administração Direta e das Autarquias Federais as vantagens financeiras decorrentes da aplicação do Plano de Classificação de Cargos, instituído pela Lei nº 5.645, de 10 de... (Lei nº 6.703, de 23 de outubro de 1979) | 1 | 1979-10-24 to 1979-10-24 |
+| `lei-6706-de-1979` | Autoriza a permuta dos imóveis que menciona, situados na Cidade de São Paulo, Estado de São Paulo (Lei nº 6.706, de 29 de outubro de 1979) | 1 | 1979-10-30 to 1979-10-30 |
+| `lei-6707-de-1979` | Dá nova redação ao § 1º do art. 4º da Lei nº 1.060, de 5 de fevereiro de 1950, que "estabelece normas para a concessão de assistência judiciária aos necessitados" (Lei nº 6.707, de 29 de outubro de 1979) | 1 | 1979-10-30 to 1979-10-30 |
+| `lei-6708-de-1979` | Dispõe sobre a correção automática dos salários, modifica a política salarial e dá outras providências (Lei nº 6.708, de 30 de outubro de 1979) | 1 | 1983-07-14 to 1983-07-14 |
+| `lei-6709-de-1979` | Altera a redação do art. 17 da Lei nº 4.591, de 16 de dezembro de 1964 (Lei nº 6.709, de 31 de outubro de 1979) | 1 | 1979-11-01 to 1979-11-01 |
+| `lei-6710-de-1979` | Dispõe sobre a profissão de Técnico em Prótese Dentária e determina outras providências (Lei nº 6.710, de 5 de novembro de 1979) | 1 | 1979-11-06 to 1979-11-06 |
+| `lei-6711-de-1979` | Fixa novo valor de salário-família (Lei nº 6.711, de 5 de novembro de 1979) | 1 | 1979-11-06 to 1979-11-06 |
+| `lei-6712-de-1979` | Autoriza a realização de estudos geológicos e topográficos pelas concessionárias de serviços públicos de energia elétrica, para implantação de instalações de transmissão em tensão nominal igual ou superior a 230 KV (Lei nº 6.712, de 5 de novembro de 1979) | 1 | 1979-11-06 to 1979-11-06 |
+| `lei-6714-de-1979` | Acrescenta nível a escala de vencimentos dos cargos em comissão integrantes do Grupo-Direção e Assessoramento Superiores, prevista no art. 1º da Lei nº 6.002, de 19 de dezembro de 1973, cria cargos em comissão do... (Lei nº 6.714, de 5 de novembro de 1979) | 1 | 1979-11-06 to 1979-11-06 |
+| `lei-6716-de-1979` | Altera disposições da Lei nº 5.887, de 31 de maio de 1973, referentes à agregação do Diplomata (Lei nº 6.716, de 12 de novembro de 1979) | 1 | 1979-11-12 to 1979-11-12 |
+| `lei-6719-de-1979` | Dá nova redação ao art. 8º do Decreto-lei nº 860, de 11 de setembro de 1969 (Lei nº 6.719, de 12 de novembro de 1979) | 1 | 1979-11-13 to 1979-11-13 |
+| `lei-6720-de-1979` | Dá nova redação ao art. 124, do Decreto-lei nº 200, de 25 de fevereiro de 1967 (Lei nº 6.720, de 12 de novembro de 1979) | 1 | 1979-11-13 to 1979-11-13 |
+| `lei-6721-de-1979` | Fixa os valores de retribuição de empregos das Categorias Funcionais de Biólogo, Técnico de Turismo, Técnico de Educação Física e Desportos e de Agente de Turismo, do Plano de Classificação de Cargos instuído pela... (Lei nº 6.721, de 12 de novembro de 1979) | 1 | 1979-11-13 to 1979-11-13 |
+| `lei-6722-de-1979` | Autoriza a alienação, pela Superintendência do Desenvolvimento da Amazônia (SUDAM), de bens imóveis de sua propriedade, localizados na área de expansão urbana da cidade de Marabá no Estado do Pará, e dá outras... (Lei nº 6.722, de 19 de novembro de 1979) | 1 | 1979-11-20 to 1979-11-20 |
+| `lei-6723-de-1979` | Suprime o art. 11 das Regras de admissão de Agentes Consulares estrangeiros no Brasil, aprovadas pelo Decreto-Lei nº 4.391, de 18 de junho de 1942 (Lei nº 6.723, de 19 de novembro de 1979) | 1 | 1979-11-20 to 1979-11-20 |
+| `lei-6724-de-1979` | Acrescenta parágrafo único ao art. 14 da Lei nº 6.015, de 31 de dezembro de 1973, alterada pela Lei nº 6.216, de 30 de junho de 1975 (Lei nº 6.724, de 19 de novembro de 1979) | 1 | 1979-11-20 to 1979-11-20 |
+| `lei-6725-de-1979` | Eleva, em até Cr$ 2.000.000.000,00 (dois bilhões de cruzeiros), o limite concedido ao Governo do Distrito Federal para promover abertura de créditos suplementares ao Orçamento vigente (Lei nº 6.725, de 21 de novembro de 1979) | 1 | 1979-11-22 to 1979-11-22 |
+| `lei-6726-de-1979` | Dá nova redação ao parágrafo único do art. 27 do Decreto-lei nº 7.841 de 8 de agosto de 1945 - Código de Águas Minerais (Lei nº 6.726, de 21 de novembro de 1979) | 1 | 1979-11-22 to 1979-11-22 |
+| `lei-6727-de-1979` | Acrescenta parágrafos ao art. 10 do Decreto-lei nº 972, de 17 de outubro de 1969, que dispõe sobre o exercício da profissão de jornalista (Lei nº 6.727, de 21 de novembro de 1979) | 1 | 1979-11-22 to 1979-11-22 |
+| `lei-6728-de-1979` | Institui a obrigatoriedade de declaração de bens para o exercício de cargos ou funções em empresas públicas ou assemelhadas (Lei nº 6.728, de 22 de novembro de 1979) | 1 | 1979-11-23 to 1979-11-23 |
+| `lei-6729-de-1979` | Dispõe sobre a concessão comercial entre produtores e distribuidores de veículos automotores de via terrestre (Lei nº 6.729, de 28 de novembro de 1979) | 1 | 1990-12-27 to 1990-12-27 |
+| `lei-6733-de-1979` | Dispõe sobre a nomeação dos dirigentes das fundações instituídas ou mantidas pela União (Lei nº 6.733, de 4 de dezembro de 1979) | 1 | 1979-12-05 to 1979-12-05 |
+| `lei-6734-de-1979` | Altera o art. 20 do Decreto-lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais) (Lei nº 6.734, de 4 de dezembro de 1979) | 1 | 1979-12-05 to 1979-12-05 |
+| `lei-6735-de-1979` | Renova o prazo de validade de carteira de identidade para estrangeiros (Lei nº 6.735, de 4 de dezembro de 1979) | 1 | 1979-12-05 to 1979-12-05 |
+| `lei-6736-de-1979` | Retifica, sem ônus, a Lei nº 6.597, de 1º de dezembro de 1978, que “estima a Receita e Fixa a Despesa da União para o exercício financeiro de 1979” (Lei nº 6.736, de 5 de dezembro de 1979) | 1 | 1979-12-06 to 1979-12-06 |
+| `lei-6738-de-1979` | Dispõe sobre a revisão dos proventos do pessoal inativo do Magistério Civil da Aeronáutica (Lei nº 6.738, de 5 de dezembro de 1979) | 1 | 1979-12-06 to 1979-12-06 |
+| `lei-6739-de-1979` | Dispõe sobre a Matrícula e o Registro de Imóveis Rurais, e dá outras Providências (Lei nº 6.739, de 5 de dezembro de 1979) | 1 | 2001-08-29 to 2001-08-29 |
+| `lei-6740-de-1979` | Autoriza a permuta dos imóveis que menciona, situados no Município de Porto Alegre, Estado do Rio Grande do Sul (Lei nº 6.740, de 5 de dezembro de 1979) | 1 | 1979-12-06 to 1979-12-06 |
+| `lei-6741-de-1979` | Altera dispositivo da Lei nº 5.010, de 30 de maio de 1966, que organiza a Justiça Federal de primeira instância (Lei nº 6.741, de 5 de dezembro de 1979) | 1 | 1979-12-06 to 1979-12-06 |
+| `lei-6742-de-1979` | Modifica o art. 19 do Decreto-lei nº 3.200, de 19 de abril de 1941, que fixou o valor do bem de família (Lei nº 6.742, de 5 de dezembro de 1979) | 1 | 1979-12-06 to 1979-12-06 |
+| `lei-6744-de-1979` | Dá novas redação ao parágrafo único do art. 4º da Lei nº 5.890, de 8 de junho de 1973, que “altera a Legislação de Previdência Social e dá outras providências” (Lei nº 6.744, de 5 de dezembro de 1979) | 1 | 1979-12-06 to 1979-12-06 |
+| `lei-6745-de-1979` | Acrescenta parágrafo ao art. 20 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil (Lei nº 6.745, de 5 de dezembro de 1979) | 1 | 1979-12-06 to 1979-12-06 |
+| `lei-6748-de-1979` | Reduz a exigência de documentação aos pretendentes à aquisição de unidades habitacionais pelo Sistema Financeiro de Habitação, nos financiamentos de valor igual ou inferior a 1.500 Unidades Padrão de Capital (UPC) (Lei nº 6.748, de 10 de dezembro de 1979) | 1 | 1979-12-11 to 1979-12-11 |
+| `lei-6751-de-1979` | Inclui programa de melhoria de condições de habitabilidade dos trabalhadores nos projetos de financiamentos agropecuários (Lei nº 6.751, de 10 de dezembro de 1979) | 1 | 1979-12-11 to 1979-12-11 |
+| `lei-6752-de-1979` | Dispõe sobre as promoções dos oficiais da ativa das Polícias Militares dos Territórios Federais do Amapá, de Rondônia e de Roraima, e dá outras providências (Lei nº 6.752, de 17 de dezembro de 1979) | 1 | 1979-12-18 to 1979-12-18 |
 | `lei-de-concessoes` | Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995) | 12 | 1995-02-14 to 2021-04-01 |
 | `lei-das-parcerias-publico-privadas` | Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004) | 14 | 2004-12-31 to 2027-01-01 |
 | `lei-do-saneamento-basico` | Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007) | 15 | 2007-02-22 to 2025-03-18 |
@@ -5177,19 +5678,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-de-registros-publicos` | Lei de Registros Públicos (Lei nº 6.015, de 31 de dezembro de 1973) | 73 | 1976-01-01 to 2025-08-24 |
 | `lei-de-licitacoes-de-1993` | Lei de Licitações e Contratos (Lei nº 8.666, de 21 de junho de 1993) | 36 | 1993-06-22 to 2023-12-30 |
 
-The build made 7525 commits:
+The build made 8025 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4823 | first version of an act |
+| 5323 | first version of an act |
 | 2678 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 10 commits on the branch `futuro`: laws not yet in force on 2026-11-03.
-- 233 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 235 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2714 laws in the record.
-- 11616 tags.
+- 12116 tags.
 
 ## Dates
 
@@ -5201,7 +5702,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `57c074c549972d2fd713b01748bef1b113737c6f1278a47711028678aacf4e09` (79335820 bytes).
+- Corpus: sha256 `1d53e2599789bce8fa6e0dd8632d5773691870fffce9160e93bc6e918be9f438` (81576177 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -10126,6 +10627,510 @@ No second build of this corpus has been compared yet.
 - lei-7191-de-1984: from 1984-06-05, its own clause: in force on publication
 - lei-7193-de-1984: from 1984-06-08, its own clause: in force on publication
 - lei-7194-de-1984: from 1987-04-18, the in-force day of Lei 7.599/1987, the latest among the acts its notes name (its DOU day 1987-04-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.599/1987 (DOU 1987-04-18)
+- Part 98-current-010: 500 acts with their current text only, each one version, credited to Planalto as the oldest version available (first_law null). The text is the page as Planalto prints it now, with struck wordings and the notes beside them left out; headings are kept in the titulos unit as the history parts do.
+- Each version starts on the in-force day of the last change the text itself shows: the latest in-force day among the acts its notes name as changing it (Redação dada, Incluído, Revogado, Acrescido, Renumerado, Suprimido), each by the rule the history parts use: the act's own vigência clause, else LINDB art. 1 (publication + 45 days), and a Medida Provisória from its publication (CF art. 62). Where an act's clause was not read, its DOU day (from Planalto's index pages or the corpus's law records) is used and the act's line below names it. An act with no such note starts on its own in-force day by the same rule. Acts whose notes name decrees, rulings, Emendas, a staged in-force clause or the 2025-2026 tax reform (Leis Complementares 214/2025 and 227/2026) are left for their histories.
+- An act revoked as a whole (the revoking act named at the head of its page) has the text as last in force, then a second version that empties it, credited to the revoking act and dated by that act's in-force day by the same rule; its line below names it.
+- Earlier wordings are not shown here; their histories are built afterwards, appended behind these versions.
+- decreto-lei-1436-de-1975: from 1975-12-18, its own clause: in force on publication
+- decreto-lei-1440-de-1975: from 1975-12-30, its own clause: in force on publication
+- decreto-lei-1441-de-1976: from 1976-01-12, its own clause: in force on publication
+- decreto-lei-1442-de-1976: from 1976-01-28, its own clause: in force on publication
+- decreto-lei-1444-de-1976: from 1976-02-04, its own clause: in force on publication
+- decreto-lei-1445-de-1976: from 1995-03-20, the in-force day of Lei 9.007/1995, the latest among the acts its notes name (its DOU day 1995-03-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.465/1976 (DOU 1976-05-03), Decreto-Lei 1.498/1976 (DOU 1976-12-21), Decreto-Lei 1.604/1978 (DOU 1978-02-23), Decreto-Lei 1.660/1979 (DOU 1979-01-25), Decreto-Lei 2.270/1985 (DOU 1985-03-14), Lei 7.163/1983 (DOU 1983-12-09), Lei 9.007/1995 (DOU 1995-03-20)
+- decreto-lei-1450-de-1976: from 1979-08-29, the in-force day of Decreto-Lei 1.692/1979, the latest among the acts its notes name (its DOU day 1979-08-29: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.692/1979 (DOU 1979-08-29)
+- decreto-lei-1451-de-1976: from 1979-02-21, the in-force day of Decreto-Lei 1.674/1979, the latest among the acts its notes name (its DOU day 1979-02-21: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.674/1979 (DOU 1979-02-21)
+- decreto-lei-1458-de-1976: from 1976-04-19, its own clause: in force on publication
+- decreto-lei-1459-de-1976: from 1976-04-19, its own clause: in force on publication
+- decreto-lei-1460-de-1976: from 1976-04-23, its own clause: in force on publication
+- decreto-lei-1461-de-1976: from 1976-04-23, its own clause: in force on publication
+- decreto-lei-1465-de-1976: from 1976-05-03, its own clause: in force on publication
+- decreto-lei-1466-de-1976: from 1976-05-10, its own clause: in force on publication
+- decreto-lei-1467-de-1976: from 1976-05-11, its own clause: in force on publication
+- decreto-lei-1468-de-1976: from 1976-05-13, its own clause: in force on publication
+- decreto-lei-1469-de-1976: from 1976-10-26, the in-force day of Decreto-Lei 1.484/1976, the latest among the acts its notes name (its DOU day 1976-10-26: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.484/1976 (DOU 1976-10-26)
+- decreto-lei-1470-de-1976: from 1976-06-04, its own clause: in force on publication
+- decreto-lei-1471-de-1976: from 1976-06-16, its own clause: in force on publication
+- decreto-lei-1473-de-1976: from 1976-07-14, its own clause: in force on publication
+- decreto-lei-1474-de-1976: from 1976-08-06, its own clause: in force on publication
+- decreto-lei-1475-de-1976: from 1976-08-19, its own clause: in force on publication
+- decreto-lei-1477-de-1976: from 1985-11-20, the in-force day of Decreto-Lei 2.278/1985, the latest among the acts its notes name (its DOU day 1985-11-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.015/1983 (DOU 1983-02-25), Decreto-Lei 2.278/1985 (DOU 1985-11-20)
+- decreto-lei-1478-de-1976: from 1976-08-27, its own clause: in force on publication
+- decreto-lei-1484-de-1976: from 1976-10-26, its own clause: in force on publication
+- decreto-lei-1485-de-1976: from 1976-10-26, its own clause: in force on publication
+- decreto-lei-1487-de-1976: from 1976-11-11, its own clause: in force on publication
+- decreto-lei-1488-de-1976: from 1976-11-11, its own clause: in force on publication
+- decreto-lei-1489-de-1976: from 1976-11-11, its own clause: in force on publication
+- decreto-lei-1490-de-1976: from 1980-05-14, the in-force day of Decreto-Lei 1.785/1980, the latest among the acts its notes name (its DOU day 1980-05-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.785/1980 (DOU 1980-05-14)
+- decreto-lei-1491-de-1976: from 1976-12-02, its own clause: in force on publication
+- decreto-lei-1493-de-1976: from 1978-05-10, the in-force day of Decreto-Lei 1.625/1978, the latest among the acts its notes name (its DOU day 1978-05-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.625/1978 (DOU 1978-05-10)
+- decreto-lei-1495-de-1976: from 1976-12-10, its own clause: in force on publication
+- decreto-lei-1496-de-1976: from 1976-12-21, its own clause: in force on publication
+- decreto-lei-1498-de-1976: from 1976-12-21, its own clause: in force on publication
+- decreto-lei-1499-de-1976: from 1976-12-21, its own clause: in force on publication
+- decreto-lei-1500-de-1976: from 1976-12-21, its own clause: in force on publication
+- decreto-lei-1501-de-1976: from 1976-12-21, its own clause: in force on publication
+- decreto-lei-1502-de-1976: from 1976-12-23, its own clause: in force on publication
+- decreto-lei-1503-de-1976: from 1976-12-24, its own clause: in force on publication
+- decreto-lei-1504-de-1976: from 1976-12-24, its own clause: in force on publication
+- decreto-lei-1505-de-1976: from 1977-06-08, the in-force day of Decreto-Lei 1.556/1977, the latest among the acts its notes name (its DOU day 1977-06-08: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.556/1977 (DOU 1977-06-08)
+- decreto-lei-1508-de-1976: from 1976-12-24, its own clause: in force on publication
+- decreto-lei-1509-de-1976: from 1976-12-28, its own clause: in force on publication
+- decreto-lei-1511-de-1976: from 1976-12-29, its own clause: in force on publication
+- decreto-lei-1512-de-1976: from 1976-12-29, its own clause: in force on publication
+- decreto-lei-1513-de-1976: from 1976-12-29, its own clause: in force on publication
+- decreto-lei-1514-de-1976: from 1976-12-30, its own clause: in force on publication
+- decreto-lei-1515-de-1976: from 1976-12-30, its own clause: in force on publication
+- decreto-lei-1516-de-1976: from 1976-12-31, its own clause: in force on publication
+- decreto-lei-1517-de-1976: from 1976-12-31, its own clause: in force on publication
+- decreto-lei-1518-de-1977: from 1977-01-05, its own clause: in force on publication
+- decreto-lei-1519-de-1977: from 1977-01-06, its own clause: in force on publication
+- decreto-lei-1520-de-1977: from 1977-01-18, its own clause: in force on publication
+- decreto-lei-1521-de-1977: from 1977-01-27, its own clause: in force on publication
+- decreto-lei-1522-de-1977: from 1977-02-03, its own clause: in force on publication
+- decreto-lei-1523-de-1977: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-1525-de-1977: from 1978-02-23, the in-force day of Decreto-Lei 1.604/1978, the latest among the acts its notes name (its DOU day 1978-02-23: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.529/1977 (DOU 1977-03-18), Decreto-Lei 1.604/1978 (DOU 1978-02-23)
+- decreto-lei-1527-de-1977: from 1977-02-28, its own clause: in force on publication
+- decreto-lei-1528-de-1977: from 1977-03-15, its own clause: in force on publication
+- decreto-lei-1529-de-1977: from 1977-03-18, its own clause: in force on publication
+- decreto-lei-1530-de-1977: from 1977-03-25, its own clause: in force on publication
+- decreto-lei-1531-de-1977: from 1977-03-25, its own clause: in force on publication
+- decreto-lei-1532-de-1977: from 1977-03-31, its own clause: in force on publication
+- decreto-lei-1533-de-1977: from 1977-04-11, its own clause: in force on publication
+- decreto-lei-1536-de-1977: from 1977-04-14, its own clause: in force on publication
+- decreto-lei-1537-de-1977: from 1983-11-24, the in-force day of Lei 7.148/1983, the latest among the acts its notes name (its DOU day 1983-11-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.148/1983 (DOU 1983-11-24)
+- decreto-lei-1538-de-1977: from 1977-04-14, its own clause: in force on publication
+- decreto-lei-1539-de-1977: from 1977-04-14, its own clause: in force on publication
+- decreto-lei-1540-de-1977: from 1977-04-14, its own clause: in force on publication
+- decreto-lei-1542-de-1977: from 1977-04-14, its own clause: in force on publication
+- decreto-lei-1543-de-1977: from 1977-04-14, its own clause: in force on publication
+- decreto-lei-1544-de-1977: from 1977-04-15, its own clause: in force on publication
+- decreto-lei-1546-de-1977: from 1977-04-15, its own clause: in force on publication
+- decreto-lei-1547-de-1977: from 1977-04-20, its own clause: in force on publication
+- decreto-lei-1548-de-1977: from 1977-04-22, its own clause: in force on publication
+- decreto-lei-1549-de-1977: from 1977-04-22, its own clause: in force on publication
+- decreto-lei-1550-de-1977: from 1977-04-27, its own clause: in force on publication
+- decreto-lei-1551-de-1977: from 1985-07-03, the in-force day of Lei 7.334/1985, the latest among the acts its notes name (its DOU day 1985-07-03: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.334/1985 (DOU 1985-07-03)
+- decreto-lei-1552-de-1977: from 1977-05-23, its own clause: in force on publication
+- decreto-lei-1553-de-1977: from 1977-05-23, its own clause: in force on publication
+- decreto-lei-1554-de-1977: from 1977-05-25, its own clause: in force on publication
+- decreto-lei-1555-de-1977: from 1977-05-27, its own clause: in force on publication
+- decreto-lei-1556-de-1977: from 1977-06-08, its own clause: in force on publication
+- decreto-lei-1557-de-1977: from 1977-06-15, its own clause: in force on publication
+- decreto-lei-1558-de-1977: from 1977-06-17, its own clause: in force on publication
+- decreto-lei-1559-de-1977: from 1977-06-17, its own clause: in force on publication
+- decreto-lei-1566-de-1977: from 1977-08-02, its own clause: in force on publication
+- decreto-lei-1567-de-1977: from 1977-08-02, its own clause: in force on publication
+- decreto-lei-1570-de-1977: from 1977-08-10, its own clause: in force on publication
+- decreto-lei-1573-de-1977: from 1977-09-06, its own clause: in force on publication
+- decreto-lei-1574-de-1977: from 1977-09-20, its own clause: in force on publication
+- decreto-lei-1575-de-1977: from 1977-09-26, its own clause: in force on publication
+- decreto-lei-1576-de-1977: from 1977-10-07, its own clause: in force on publication
+- decreto-lei-1577-de-1977: from 1977-10-11, its own clause: in force on publication
+- decreto-lei-1579-de-1977: from 1977-10-12, its own clause: in force on publication
+- decreto-lei-1580-de-1977: from 1977-10-18, its own clause: in force on publication
+- decreto-lei-1581-de-1977: from 1977-11-04, its own clause: in force on publication
+- decreto-lei-1582-de-1977: from 1977-11-18, its own clause: in force on publication
+- decreto-lei-1584-de-1977: from 1977-11-30, its own clause: in force on publication
+- decreto-lei-1586-de-1977: from 1977-12-07, its own clause: in force on publication
+- decreto-lei-1587-de-1977: from 1977-12-20, its own clause: in force on publication
+- decreto-lei-1590-de-1977: from 1977-12-20, its own clause: in force on publication
+- decreto-lei-1591-de-1977: from 1977-12-22, its own clause: in force on publication
+- decreto-lei-1592-de-1977: from 1977-12-22, its own clause: in force on publication
+- decreto-lei-1595-de-1977: from 1977-12-23, its own clause: in force on publication
+- decreto-lei-1596-de-1977: from 1977-12-23, its own clause: in force on publication
+- decreto-lei-1599-de-1977: from 1980-05-14, the in-force day of Decreto-Lei 1.785/1980, the latest among the acts its notes name (its DOU day 1980-05-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.785/1980 (DOU 1980-05-14)
+- decreto-lei-1600-de-1978: from 1978-01-04, its own clause: in force on publication
+- decreto-lei-1601-de-1978: from 1978-01-19, its own clause: in force on publication
+- decreto-lei-1602-de-1978: from 1978-01-23, its own clause: in force on publication
+- decreto-lei-1604-de-1978: from 1978-02-23, its own clause: in force on publication
+- decreto-lei-1605-de-1978: from 1978-02-28, its own clause: in force on publication
+- decreto-lei-1606-de-1978: from 1978-02-28, its own clause: in force on publication
+- decreto-lei-1607-de-1978: from 1978-02-28, its own clause: in force on publication
+- decreto-lei-1609-de-1978: from 1978-03-02, its own clause: in force on publication
+- decreto-lei-1610-de-1978: from 1978-03-03, its own clause: in force on publication
+- decreto-lei-1611-de-1978: from 1978-03-06, its own clause: in force on publication
+- decreto-lei-1612-de-1978: from 1978-03-06, its own clause: in force on publication
+- decreto-lei-1613-de-1978: from 1978-03-06, its own clause: in force on publication
+- decreto-lei-1614-de-1978: from 1978-03-06, its own clause: in force on publication
+- decreto-lei-1615-de-1978: from 1978-03-06, its own clause: in force on publication
+- decreto-lei-1616-de-1978: from 1978-03-06, its own clause: in force on publication
+- decreto-lei-1619-de-1978: from 1978-03-07, its own clause: in force on publication
+- decreto-lei-1620-de-1978: from 1978-03-13, its own clause: in force on publication
+- decreto-lei-1621-de-1978: from 1978-04-17, its own clause: in force on publication
+- decreto-lei-1623-de-1978: from 1978-04-26, its own clause: in force on publication
+- decreto-lei-1624-de-1978: from 1978-05-04, its own clause: in force on publication
+- decreto-lei-1625-de-1978: from 1978-05-10, its own clause: in force on publication
+- decreto-lei-1626-de-1978: from 1978-06-02, its own clause: in force on publication
+- decreto-lei-1627-de-1978: from 1978-06-05, its own clause: in force on publication
+- decreto-lei-1629-de-1978: from 1978-07-07, its own clause: in force on publication
+- decreto-lei-1631-de-1978: from 1979-08-02, the in-force day of Decreto-Lei 1.690/1979, the latest among the acts its notes name (its DOU day 1979-08-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.690/1979 (DOU 1979-08-02)
+- decreto-lei-1635-de-1978: from 1978-09-04, its own clause: in force on publication
+- decreto-lei-1636-de-1978: from 1978-09-05, its own clause: in force on publication
+- decreto-lei-1640-de-1978: from 1979-06-19, the in-force day of Decreto-Lei 1.684/1979, the latest among the acts its notes name (its DOU day 1979-06-19: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.684/1979 (DOU 1979-06-19)
+- decreto-lei-1643-de-1978: from 1978-12-07, its own clause: in force on publication
+- decreto-lei-1644-de-1978: from 1978-12-12, its own clause: in force on publication
+- decreto-lei-1648-de-1978: from 1983-10-28, the in-force day of Decreto-Lei 2.065/1983, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1983-10-28))
+- decreto-lei-1651-de-1978: from 1978-12-23, its own clause: in force on publication
+- decreto-lei-1654-de-1979: from 1979-01-10, its own clause: in force on publication
+- decreto-lei-1655-de-1979: from 1979-01-10, its own clause: in force on publication
+- decreto-lei-1656-de-1979: from 1979-01-11, its own clause: in force on publication
+- decreto-lei-1657-de-1979: from 1979-01-24, its own clause: in force on publication
+- decreto-lei-1658-de-1979: from 1979-12-04, the in-force day of Decreto-Lei 1.722/1979, the latest among the acts its notes name (its DOU day 1979-12-04: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.722/1979 (DOU 1979-12-04)
+- decreto-lei-1662-de-1979: from 1979-05-08, the in-force day of Decreto-Lei 1.682/1979, the latest among the acts its notes name (its DOU day 1979-05-08: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.682/1979 (DOU 1979-05-08)
+- decreto-lei-1663-de-1979: from 1979-02-14, its own clause: in force on publication
+- decreto-lei-1664-de-1979: from 1979-02-14, its own clause: in force on publication
+- decreto-lei-1665-de-1979: from 1979-02-14, its own clause: in force on publication
+- decreto-lei-1666-de-1979: from 1979-02-14, its own clause: in force on publication
+- decreto-lei-1667-de-1979: from 1979-02-14, its own clause: in force on publication
+- decreto-lei-1668-de-1979: from 1979-02-15, its own clause: in force on publication
+- decreto-lei-1669-de-1979: from 1979-02-15, its own clause: in force on publication
+- decreto-lei-1670-de-1979: from 1979-02-15, its own clause: in force on publication
+- decreto-lei-1671-de-1979: from 1979-02-15, its own clause: in force on publication
+- decreto-lei-1672-de-1979: from 1979-04-02, no in-force clause of its own: LINDB art. 1, its DOU day (1979-02-16) + 45 days
+- decreto-lei-1673-de-1979: from 1979-02-21, its own clause: in force on publication
+- decreto-lei-1674-de-1979: from 1979-02-21, its own clause: in force on publication
+- decreto-lei-1675-de-1979: from 1979-02-21, its own clause: in force on publication
+- decreto-lei-1676-de-1979: from 1979-02-20, its own clause: in force on publication
+- decreto-lei-1677-de-1979: from 1979-02-22, its own clause: in force on publication
+- decreto-lei-1678-de-1979: from 1979-11-27, the in-force day of Decreto-Lei 1.717/1979, the latest among the acts its notes name (its DOU day 1979-11-27: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.717/1979 (DOU 1979-11-27)
+- decreto-lei-1679-de-1979: from 1979-03-13, its own clause: in force on publication
+- decreto-lei-1680-de-1979: from 1979-12-21, the in-force day of Decreto-Lei 1.736/1979, the latest among the acts its notes name (its DOU day 1979-12-21: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.736/1979 (DOU 1979-12-21)
+- decreto-lei-1682-de-1979: from 1979-05-08, its own clause: in force on publication
+- decreto-lei-1683-de-1979: from 1979-05-30, its own clause: in force on publication
+- decreto-lei-1684-de-1979: from 1979-06-19, its own clause: in force on publication
+- decreto-lei-1685-de-1979: from 1979-06-26, its own clause: in force on publication
+- decreto-lei-1686-de-1979: from 1979-07-27, its own clause: in force on publication
+- decreto-lei-1688-de-1979: from 1979-07-27, its own clause: in force on publication
+- decreto-lei-1689-de-1979: from 1979-07-31, its own clause: in force on publication
+- decreto-lei-1690-de-1979: from 1979-08-02, its own clause: in force on publication
+- decreto-lei-1691-de-1979: from 1981-09-27, the in-force day of Decreto-Lei 1.886/1981, the latest among the acts its notes name (its DOU day 1981-09-27: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.785/1980 (DOU 1980-05-14), Decreto-Lei 1.886/1981 (DOU 1981-09-27)
+- decreto-lei-1694-de-1979: from 1979-09-10, its own clause: in force on publication
+- decreto-lei-1695-de-1979: from 1979-09-18, its own clause: in force on publication
+- decreto-lei-1696-de-1979: from 1979-09-25, its own clause: in force on publication
+- decreto-lei-1697-de-1979: from 1979-09-27, its own clause: in force on publication
+- decreto-lei-1698-de-1979: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-1699-de-1979: from 1979-10-18, its own clause: in force on publication
+- decreto-lei-1700-de-1979: from 1979-10-19, its own clause: in force on publication
+- decreto-lei-1701-de-1979: from 1979-10-19, its own clause: in force on publication
+- decreto-lei-1703-de-1979: from 1981-07-24, the in-force day of Decreto-Lei 1.878/1981, the latest among the acts its notes name (its DOU day 1981-07-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.878/1981 (DOU 1981-07-24)
+- decreto-lei-1707-de-1979: from 1979-10-31, its own clause: in force on publication
+- decreto-lei-1708-de-1979: from 1979-10-31, its own clause: in force on publication
+- decreto-lei-1709-de-1979: from 1985-07-03, the in-force day of Lei 7.333/1985, the latest among the acts its notes name (its DOU day 1985-07-03: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.333/1985 (DOU 1985-07-03)
+- decreto-lei-1712-de-1979: from 1982-07-16, the in-force day of Decreto-Lei 1.952/1982, the latest among the acts its notes name (its DOU day 1982-07-16: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.952/1982 (DOU 1982-07-16)
+- decreto-lei-1713-de-1979: from 1979-11-20, its own clause: in force on publication
+- decreto-lei-1715-de-1979: from 1979-11-23, its own clause: in force on publication
+- decreto-lei-1717-de-1979: from 1979-11-27, its own clause: in force on publication
+- decreto-lei-1718-de-1979: from 1979-11-28, its own clause: in force on publication
+- decreto-lei-1719-de-1979: from 1979-11-29, its own clause: in force on publication
+- decreto-lei-1720-de-1979: from 1979-11-30, its own clause: in force on publication
+- decreto-lei-1721-de-1979: from 1979-12-04, its own clause: in force on publication
+- decreto-lei-1723-de-1979: from 1979-12-07, its own clause: in force on publication
+- decreto-lei-1724-de-1979: from 1979-12-07, its own clause: in force on publication
+- decreto-lei-1728-de-1979: from 1979-12-13, its own clause: in force on publication
+- lei-complementar-30-de-1977: from 1977-06-28, its own clause: in force on publication
+- lei-complementar-32-de-1977: from 1977-12-26, its own clause: in force on publication
+- lei-complementar-33-de-1978: from 1978-05-17, its own clause: in force on publication
+- lei-complementar-34-de-1978: from 1978-09-13, its own clause: in force on publication
+- lei-complementar-37-de-1979: from 1979-11-13, its own clause: in force on publication
+- lei-complementar-38-de-1979: from 1979-11-13, its own clause: in force on publication
+- lei-6286-de-1975: from 1975-12-12, its own clause: in force on publication
+- lei-6287-de-1975: from 1975-12-12, its own clause: in force on publication
+- lei-6289-de-1975: from 1975-12-12, its own clause: in force on publication
+- lei-6291-de-1975: from 1975-12-12, its own clause: in force on publication
+- lei-6292-de-1975: from 1975-12-16, its own clause: in force on publication
+- lei-6293-de-1975: from 1975-12-17, its own clause: in force on publication
+- lei-6294-de-1975: from 1975-12-16, its own clause: in force on publication
+- lei-6296-de-1975: from 1975-12-16, its own clause: in force on publication
+- lei-6299-de-1975: from 1975-12-16, its own clause: in force on publication
+- lei-6300-de-1975: from 1975-12-16, its own clause: in force on publication
+- lei-6301-de-1975: from 1975-12-16, its own clause: in force on publication
+- lei-6303-de-1975: from 1975-12-16, its own clause: in force on publication
+- lei-6304-de-1975: from 1975-12-16, its own clause: in force on publication
+- lei-6306-de-1975: from 1975-12-16, its own clause: in force on publication
+- lei-6310-de-1975: from 1975-12-16, its own clause: in force on publication
+- lei-6312-de-1975: from 1975-12-18, its own clause: in force on publication
+- lei-6313-de-1975: from 1975-12-17, its own clause: in force on publication
+- lei-6314-de-1975: from 1975-12-17, its own clause: in force on publication
+- lei-6315-de-1975: from 1975-12-17, its own clause: in force on publication
+- lei-6317-de-1975: from 1975-12-23, its own clause: in force on publication
+- lei-6318-de-1975: from 1975-12-23, its own clause: in force on publication
+- lei-6319-de-1976: from 1976-01-02, its own clause: in force on publication
+- lei-6320-de-1976: from 1976-04-06, its own clause: in force on publication
+- lei-6322-de-1976: from 1976-04-19, its own clause: in force on publication
+- lei-6323-de-1976: from 1976-04-19, its own clause: in force on publication
+- lei-6324-de-1976: from 1976-04-19, its own clause: in force on publication
+- lei-6325-de-1976: from 1979-04-03, the in-force day of Lei 6.627/1979, the latest among the acts its notes name (its DOU day 1979-04-03: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.627/1979 (DOU 1979-04-03)
+- lei-6326-de-1976: from 1976-05-05, its own clause: in force on publication
+- lei-6327-de-1976: from 1976-05-05, its own clause: in force on publication
+- lei-6328-de-1976: from 1976-05-05, its own clause: in force on publication
+- lei-6330-de-1976: from 1976-05-14, its own clause: in force on publication
+- lei-6331-de-1976: from 1976-05-18, its own clause: in force on publication
+- lei-6332-de-1976: from 1979-12-27, the in-force day of Decreto-Lei 1.739/1979, the latest among the acts its notes name (its DOU day 1979-12-27: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.739/1979 (DOU 1979-12-27), Lei 5.890/1973 (DOU 1973-06-09)
+- lei-6334-de-1976: from 1984-10-30, the in-force day of Lei 7.236/1984, the latest among the acts its notes name (its DOU day 1984-10-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.236/1984 (DOU 1984-10-30)
+- lei-6335-de-1976: from 1976-06-02, its own clause: in force on publication
+- lei-6336-de-1976: from 1976-06-02, its own clause: in force on publication
+- lei-6337-de-1976: from 1976-06-07, its own clause: in force on publication
+- lei-6338-de-1976: from 1976-06-08, its own clause: in force on publication
+- lei-6339-de-1976: from 1995-09-20, the in-force day of Lei 9.096/1995, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1995-09-20))
+- lei-6342-de-1976: from 1976-07-06, its own clause: in force on publication
+- lei-6345-de-1976: from 1976-07-07, its own clause: in force on publication
+- lei-6347-de-1976: from 1976-07-07, its own clause: in force on publication
+- lei-6349-de-1976: from 1976-07-08, its own clause: in force on publication
+- lei-6353-de-1976: from 1976-07-14, its own clause: in force on publication
+- lei-6355-de-1976: from 1976-09-09, its own clause: in force on publication
+- lei-6357-de-1976: from 1976-09-09, its own clause: in force on publication
+- lei-6358-de-1976: from 1976-09-10, its own clause: in force on publication
+- lei-6359-de-1976: from 1976-09-23, its own clause: in force on publication
+- lei-6361-de-1976: from 1976-09-24, its own clause: in force on publication
+- lei-6362-de-1976: from 1976-09-24, its own clause: in force on publication
+- lei-6363-de-1976: from 1976-09-24, its own clause: in force on publication
+- lei-6364-de-1976: from 1976-10-06, its own clause: in force on publication
+- lei-6366-de-1976: from 1976-10-15, its own clause: in force on publication
+- lei-6370-de-1976: from 1976-10-29, its own clause: in force on publication
+- lei-6372-de-1976: from 1976-11-09, its own clause: in force on publication
+- lei-6373-de-1976: from 1976-11-09, its own clause: in force on publication
+- lei-6375-de-1976: from 1976-11-29, its own clause: in force on publication
+- lei-6377-de-1976: from 1976-12-02, its own clause: in force on publication
+- lei-6384-de-1976: from 1976-12-07, its own clause: in force on publication
+- lei-6386-de-1976: from 1976-12-10, its own clause: in force on publication
+- lei-6387-de-1976: from 1976-12-10, its own clause: in force on publication
+- lei-6388-de-1976: from 1976-12-10, its own clause: in force on publication
+- lei-6389-de-1976: from 1976-12-10, its own clause: in force on publication
+- lei-6390-de-1976: from 1976-12-10, its own clause: in force on publication
+- lei-6391-de-1976: from 1976-12-10, its own clause: in force on publication
+- lei-6392-de-1976: from 1976-12-10, its own clause: in force on publication
+- lei-6393-de-1976: from 1976-12-10, its own clause: in force on publication
+- lei-6394-de-1976: from 1976-12-10, its own clause: in force on publication
+- lei-6397-de-1976: from 1976-12-13, its own clause: in force on publication
+- lei-6398-de-1976: from 1976-12-14, its own clause: in force on publication
+- lei-6399-de-1976: from 1976-12-14, its own clause: in force on publication
+- lei-6400-de-1976: from 1976-12-14, its own clause: in force on publication
+- lei-6402-de-1976: from 1976-12-16, its own clause: in force on publication
+- lei-6403-de-1976: from 1977-12-16, its own clause: in force on publication
+- lei-6405-de-1976: from 1977-12-16, its own clause: in force on publication
+- lei-6406-de-1977: from 1977-03-22, its own clause: in force on publication
+- lei-6407-de-1977: from 1977-03-22, its own clause: in force on publication
+- lei-6408-de-1977: from 1977-03-30, its own clause: in force on publication
+- lei-6409-de-1977: from 1977-03-30, its own clause: in force on publication
+- lei-6410-de-1977: from 1977-04-19, its own clause: in force on publication
+- lei-6411-de-1977: from 1977-04-27, its own clause: in force on publication
+- lei-6415-de-1977: from 1977-05-25, its own clause: in force on publication
+- lei-6416-de-1977: from 1977-05-25, its own clause: in force on publication
+- lei-6417-de-1977: from 1977-05-31, its own clause: in force on publication
+- lei-6418-de-1977: from 1977-05-31, its own clause: in force on publication
+- lei-6421-de-1977: from 1977-06-07, its own clause: in force on publication
+- lei-6422-de-1977: from 1977-06-10, its own clause: in force on publication
+- lei-6424-de-1977: from 1977-06-21, its own clause: in force on publication
+- lei-6425-de-1977: from 1977-06-28, its own clause: in force on publication
+- lei-6426-de-1977: from 1977-07-04, its own clause: in force on publication
+- lei-6428-de-1977: from 1977-07-05, its own clause: in force on publication
+- lei-6429-de-1977: from 1977-07-06, its own clause: in force on publication
+- lei-6432-de-1977: from 1977-07-12, its own clause: in force on publication
+- lei-6433-de-1977: from 1977-07-19, its own clause: in force on publication
+- lei-6434-de-1977: from 1977-07-19, its own clause: in force on publication
+- lei-6436-de-1977: from 1977-08-16, its own clause: in force on publication
+- lei-6438-de-1977: from 1977-09-01, its own clause: in force on publication
+- lei-6439-de-1977: from 1981-12-30, the in-force day of Decreto-Lei 1.910/1981, the latest among the acts its notes name (its DOU day 1981-12-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.910/1981 (DOU 1981-12-30)
+- lei-6442-de-1977: from 1977-09-27, its own clause: in force on publication
+- lei-6445-de-1977: from 1977-10-05, its own clause: in force on publication
+- lei-6447-de-1977: from 1977-10-07, its own clause: in force on publication
+- lei-6448-de-1977: from 1983-12-09, the in-force day of Lei 7.160/1983, the latest among the acts its notes name (its DOU day 1983-12-09: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.921/1981 (DOU 1981-06-17), Lei 6.988/1982 (DOU 1982-04-14), Lei 7.160/1983 (DOU 1983-12-09)
+- lei-6449-de-1977: from 1977-10-18, its own clause: in force on publication
+- lei-6453-de-1977: from 2021-05-17, the in-force day of Medida Provisória 1.049/2021, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-6455-de-1977: from 1977-10-25, its own clause: in force on publication
+- lei-6456-de-1977: from 1977-10-27, its own clause: in force on publication
+- lei-6457-de-1977: from 1977-11-03, its own clause: in force on publication
+- lei-6458-de-1977: from 2022-01-07, the in-force day of Lei 14.301/2022, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2022-01-07))
+- lei-6460-de-1977: from 1977-11-09, its own clause: in force on publication
+- lei-6463-de-1977: from 1995-01-16, the in-force day of Lei 8.979/1995, the latest among the acts its notes name (its DOU day 1995-01-16: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.979/1995 (DOU 1995-01-16)
+- lei-6465-de-1977: from 1977-11-16, its own clause: in force on publication
+- lei-6466-de-1977: from 1978-10-20, the in-force day of Lei 6.580/1978, the latest among the acts its notes name (its DOU day 1978-10-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.580/1978 (DOU 1978-10-20)
+- lei-6467-de-1977: from 1977-11-16, its own clause: in force on publication
+- lei-6468-de-1977: from 1989-12-29, the in-force day of Lei 7.988/1989, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1989-12-29)); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.647/1978 (DOU 1978-12-19), Decreto-Lei 1.706/1979 (DOU 1979-10-24), Decreto-Lei 1.736/1979 (DOU 1979-12-21), Decreto-Lei 1.895/1981 (DOU 1981-12-17)
+- lei-6469-de-1977: from 1982-08-31, the in-force day of Lei 7.018/1982, the latest among the acts its notes name (its DOU day 1982-08-31: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.836/1980 (DOU 1980-10-29), Lei 7.018/1982 (DOU 1982-08-31)
+- lei-6470-de-1977: from 1977-11-30, its own clause: in force on publication
+- lei-6473-de-1977: from 1977-11-30, its own clause: in force on publication
+- lei-6474-de-1977: from 1980-06-26, the in-force day of Lei 6.801/1980, the latest among the acts its notes name (its DOU day 1980-06-26: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.801/1980 (DOU 1980-06-26)
+- lei-6476-de-1977: from 1977-12-05, its own clause: in force on publication
+- lei-6477-de-1977: from 1977-12-05, its own clause: in force on publication
+- lei-6478-de-1977: from 1977-12-05, its own clause: in force on publication
+- lei-6479-de-1977: from 1977-12-05, its own clause: in force on publication
+- lei-6481-de-1977: from 1977-12-06, its own clause: in force on publication
+- lei-6491-de-1977: from 1977-12-09, its own clause: in force on publication
+- lei-6492-de-1977: from 1977-12-09, its own clause: in force on publication
+- lei-6493-de-1977: from 1977-12-09, its own clause: in force on publication
+- lei-6496-de-1977: from 1977-12-09, its own clause: in force on publication
+- lei-6498-de-1977: from 1977-12-12, its own clause: in force on publication
+- lei-6499-de-1977: from 1977-12-12, its own clause: in force on publication
+- lei-6500-de-1977: from 1977-12-12, its own clause: in force on publication
+- lei-6504-de-1977: from 1977-12-16, its own clause: in force on publication
+- lei-6506-de-1977: from 1977-12-19, its own clause: in force on publication
+- lei-6508-de-1977: from 1977-12-20, its own clause: in force on publication
+- lei-6510-de-1977: from 1977-12-20, its own clause: in force on publication
+- lei-6511-de-1977: from 1980-11-04, the in-force day of Lei 6.842/1980, the latest among the acts its notes name (its DOU day 1980-11-04: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.842/1980 (DOU 1980-11-04)
+- lei-6512-de-1977: from 1977-12-20, its own clause: in force on publication
+- lei-6515-de-1977: from 1992-02-14, the in-force day of Lei 8.408/1992, the latest among the acts its notes name (its DOU day 1992-02-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.408/1992 (DOU 1992-02-14)
+- lei-6517-de-1978: from 1978-03-20, its own clause: in force on publication
+- lei-6518-de-1978: from 1978-03-20, its own clause: in force on publication
+- lei-6519-de-1978: from 1978-03-28, its own clause: in force on publication
+- lei-6521-de-1978: from 1978-04-11, its own clause: in force on publication
+- lei-6522-de-1978: from 1978-04-11, its own clause: in force on publication
+- lei-6524-de-1978: from 1978-04-13, its own clause: in force on publication
+- lei-6525-de-1978: from 1978-04-13, its own clause: in force on publication
+- lei-6526-de-1978: from 1978-04-24, its own clause: in force on publication
+- lei-6531-de-1978: from 1978-05-17, its own clause: in force on publication
+- lei-6532-de-1978: from 1978-05-26, its own clause: in force on publication
+- lei-6533-de-1978: from 2020-04-20, the in-force day of Medida Provisória 955/2020, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-6534-de-1978: from 1978-05-29, its own clause: in force on publication
+- lei-6536-de-1978: from 1978-06-20, its own clause: in force on publication
+- lei-6537-de-1978: from 1978-06-21, its own clause: in force on publication
+- lei-6538-de-1978: from 1978-06-23, its own clause: in force on publication
+- lei-6539-de-1978: from 1978-06-29, its own clause: in force on publication
+- lei-6543-de-1978: from 1978-07-04, its own clause: in force on publication
+- lei-6544-de-1978: from 1978-07-04, its own clause: in force on publication
+- lei-6545-de-1978: from 1994-12-09, the in-force day of Lei 8.948/1994, the latest among the acts its notes name (its DOU day 1994-12-09: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.350/1985 (DOU 1985-08-28), Lei 8.711/1993 (DOU 1993-09-29), Lei 8.948/1994 (DOU 1994-12-09)
+- lei-6546-de-1978: from 2019-11-12, the in-force day of Medida Provisória 905/2019, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-6547-de-1978: from 1986-06-04, the in-force day of Lei 7.479/1986, the latest among the acts its notes name (its DOU day 1986-06-04: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.289/1984 (DOU 1984-12-19), Lei 7.479/1986 (DOU 1986-06-04)
+- lei-6550-de-1978: from 1978-07-06, its own clause: in force on publication
+- lei-6551-de-1978: from 1978-07-06, its own clause: in force on publication
+- lei-6553-de-1978: from 1978-08-22, its own clause: in force on publication
+- lei-6554-de-1978: from 1980-07-08, the in-force day of Lei 6.810/1980, the latest among the acts its notes name (its DOU day 1980-07-08: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.810/1980 (DOU 1980-07-08)
+- lei-6555-de-1978: from 1978-08-23, its own clause: in force on publication
+- lei-6556-de-1978: from 1978-09-06, its own clause: in force on publication
+- lei-6557-de-1978: from 1978-09-06, its own clause: in force on publication
+- lei-6559-de-1978: from 1978-09-20, its own clause: in force on publication
+- lei-6560-de-1978: from 1978-09-20, its own clause: in force on publication
+- lei-6562-de-1978: from 1988-09-02, the in-force day of Decreto-Lei 2.472/1988, the latest among the acts its notes name (its DOU day 1988-09-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.472/1988 (DOU 1988-09-02)
+- lei-6563-de-1978: from 1978-09-02, its own clause: in force on publication
+- lei-6565-de-1978: from 1978-09-20, its own clause: in force on publication
+- lei-6566-de-1978: from 1978-09-20, its own clause: in force on publication
+- lei-6568-de-1978: from 1978-09-26, its own clause: in force on publication
+- lei-6569-de-1978: from 1978-09-26, its own clause: in force on publication
+- lei-6570-de-1978: from 1978-10-03, its own clause: in force on publication
+- lei-6571-de-1978: from 1978-10-03, its own clause: in force on publication
+- lei-6572-de-1978: from 1978-10-03, its own clause: in force on publication
+- lei-6573-de-1978: from 1978-10-03, its own clause: in force on publication
+- lei-6574-de-1978: from 1978-10-03, its own clause: in force on publication
+- lei-6576-de-1978: from 1978-10-03, its own clause: in force on publication
+- lei-6577-de-1978: from 1978-10-13, its own clause: in force on publication
+- lei-6578-de-1978: from 1978-10-13, its own clause: in force on publication
+- lei-6579-de-1978: from 1978-10-20, its own clause: in force on publication
+- lei-6580-de-1978: from 1978-10-20, its own clause: in force on publication
+- lei-6581-de-1978: from 1978-10-24, its own clause: in force on publication
+- lei-6585-de-1978: from 1978-10-25, its own clause: in force on publication
+- lei-6586-de-1978: from 1978-11-07, its own clause: in force on publication
+- lei-6588-de-1978: from 1978-11-17, its own clause: in force on publication
+- lei-6591-de-1978: from 1978-11-17, its own clause: in force on publication
+- lei-6593-de-1978: from 1978-11-21, its own clause: in force on publication
+- lei-6595-de-1978: from 1978-11-22, its own clause: in force on publication
+- lei-6598-de-1978: from 1978-12-05, its own clause: in force on publication
+- lei-6601-de-1978: from 1978-12-12, its own clause: in force on publication
+- lei-6602-de-1978: from 1978-12-12, its own clause: in force on publication
+- lei-6603-de-1978: from 1978-12-12, its own clause: in force on publication
+- lei-6604-de-1978: from 1982-12-07, the in-force day of Lei 7.060/1982, the latest among the acts its notes name (its DOU day 1982-12-07: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.060/1982 (DOU 1982-12-07)
+- lei-6605-de-1978: from 1978-12-12, its own clause: in force on publication
+- lei-6608-de-1978: from 1978-12-12, its own clause: in force on publication
+- lei-6611-de-1978: from 1978-12-12, its own clause: in force on publication
+- lei-6612-de-1978: from 1978-12-12, its own clause: in force on publication
+- lei-6613-de-1978: from 1978-12-12, its own clause: in force on publication
+- lei-6614-de-1978: from 1978-12-12, its own clause: in force on publication
+- lei-6615-de-1978: from 2026-01-09, the in-force day of Lei 15.335/2026, the latest among the acts its notes name (its DOU day 2026-01-09: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.335/2026 (DOU 2026-01-09)
+- lei-6616-de-1978: from 1978-12-17, its own clause: in force on publication
+- lei-6618-de-1978: from 1978-12-17, its own clause: in force on publication
+- lei-6619-de-1978: from 1978-12-17, its own clause: in force on publication
+- lei-6621-de-1978: from 1978-12-21, its own clause: in force on publication
+- lei-6623-de-1979: from 1979-03-27, its own clause: in force on publication
+- lei-6625-de-1979: from 1979-03-27, its own clause: in force on publication
+- lei-6626-de-1979: from 1979-04-04, its own clause: in force on publication
+- lei-6627-de-1979: from 1979-04-03, its own clause: in force on publication
+- lei-6629-de-1979: from 1979-04-17, its own clause: in force on publication
+- lei-6630-de-1979: from 1979-05-17, its own clause: in force on publication
+- lei-6631-de-1979: from 1979-04-20, its own clause: in force on publication
+- lei-6633-de-1979: from 1979-04-30, its own clause: in force on publication
+- lei-6635-de-1979: from 1979-05-03, its own clause: in force on publication
+- lei-6636-de-1979: from 1979-05-10, its own clause: in force on publication
+- lei-6637-de-1979: from 1979-05-10, its own clause: in force on publication
+- lei-6639-de-1979: from 1979-05-10, its own clause: in force on publication
+- lei-6640-de-1979: from 1979-05-10, its own clause: in force on publication
+- lei-6641-de-1979: from 1979-05-10, its own clause: in force on publication
+- lei-6642-de-1979: from 1979-05-15, its own clause: in force on publication
+- lei-6643-de-1979: from 1979-05-15, its own clause: in force on publication
+- lei-6644-de-1979: from 1979-05-15, its own clause: in force on publication
+- lei-6646-de-1979: from 1979-05-15, its own clause: in force on publication
+- lei-6647-de-1979: from 1979-05-17, its own clause: in force on publication
+- lei-6648-de-1979: from 1979-05-17, its own clause: in force on publication
+- lei-6650-de-1979: from 1979-05-24, its own clause: in force on publication
+- lei-6651-de-1979: from 1979-05-24, its own clause: in force on publication
+- lei-6652-de-1979: from 1979-05-31, its own clause: in force on publication
+- lei-6654-de-1979: from 1979-05-31, its own clause: in force on publication
+- lei-6655-de-1979: from 1979-06-06, its own clause: in force on publication
+- lei-6656-de-1979: from 1979-06-06, its own clause: in force on publication
+- lei-6657-de-1979: from 1979-06-06, its own clause: in force on publication
+- lei-6660-de-1979: from 1979-06-19, its own clause: in force on publication
+- lei-6663-de-1979: from 1979-06-26, its own clause: in force on publication
+- lei-6664-de-1979: from 1985-11-05, the in-force day of Lei 7.399/1985, the latest among the acts its notes name (its DOU day 1985-11-05: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.399/1985 (DOU 1985-11-05)
+- lei-6665-de-1979: from 1979-07-04, its own clause: in force on publication
+- lei-6666-de-1979: from 1979-07-04, its own clause: in force on publication
+- lei-6667-de-1979: from 1979-07-04, its own clause: in force on publication
+- lei-6669-de-1979: from 1979-07-05, its own clause: in force on publication
+- lei-6670-de-1979: from 1979-07-05, its own clause: in force on publication
+- lei-6671-de-1979: from 1979-07-05, its own clause: in force on publication
+- lei-6672-de-1979: from 1979-07-05, its own clause: in force on publication
+- lei-6674-de-1979: from 1977-06-07, the in-force day of Lei 6.420/1977, the latest among the acts its notes name (its DOU day 1977-06-07: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.420/1977 (DOU 1977-06-07)
+- lei-6675-de-1979: from 1979-07-10, its own clause: in force on publication
+- lei-6676-de-1979: from 1979-07-10, its own clause: in force on publication
+- lei-6679-de-1979: from 1979-08-15, its own clause: in force on publication
+- lei-6681-de-1979: from 1979-08-17, its own clause: in force on publication
+- lei-6684-de-1979: from 1995-09-20, the in-force day of Lei 9.098/1995, the latest among the acts its notes name (its DOU day 1995-09-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 9.098/1995 (DOU 1995-09-20)
+- lei-6685-de-1979: from 1979-09-04, its own clause: in force on publication
+- lei-6686-de-1979: from 1983-10-27, the in-force day of Lei 7.135/1983, the latest among the acts its notes name (its DOU day 1983-10-27: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.135/1983 (DOU 1983-10-27)
+- lei-6687-de-1979: from 1979-09-18, its own clause: in force on publication
+- lei-6688-de-1979: from 1979-09-18, its own clause: in force on publication
+- lei-6689-de-1979: from 1979-09-25, its own clause: in force on publication
+- lei-6690-de-1979: from 1985-11-06, the in-force day of Lei 7.401/1985, the latest among the acts its notes name (its DOU day 1985-11-06: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.401/1985 (DOU 1985-11-06)
+- lei-6691-de-1979: from 1979-10-02, its own clause: in force on publication
+- lei-6693-de-1979: from 1979-10-04, its own clause: in force on publication
+- lei-6695-de-1979: from 1979-10-09, its own clause: in force on publication
+- lei-6696-de-1979: from 1973-06-09, the in-force day of Lei 5.890/1973, the latest among the acts its notes name (its DOU day 1973-06-09: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 5.890/1973 (DOU 1973-06-09)
+- lei-6699-de-1979: from 1979-10-16, its own clause: in force on publication
+- lei-6700-de-1979: from 1984-10-30, the in-force day of Lei 7.236/1984, the latest among the acts its notes name (its DOU day 1984-10-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.236/1984 (DOU 1984-10-30)
+- lei-6701-de-1979: from 1979-10-25, its own clause: in force on publication
+- lei-6702-de-1979: from 1979-10-25, its own clause: in force on publication
+- lei-6703-de-1979: from 1979-10-24, its own clause: in force on publication
+- lei-6706-de-1979: from 1979-10-30, its own clause: in force on publication
+- lei-6707-de-1979: from 1979-10-30, its own clause: in force on publication
+- lei-6708-de-1979: from 1983-07-14, the in-force day of Decreto-Lei 2.045/1983, the latest among the acts its notes name (its DOU day 1983-07-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.012/1983 (DOU 1983-01-26), Decreto-Lei 2.024/1983 (DOU 1983-05-26), Decreto-Lei 2.045/1983 (DOU 1983-07-14), Lei 6.886/1980 (DOU 1980-12-11)
+- lei-6709-de-1979: from 1979-11-01, its own clause: in force on publication
+- lei-6710-de-1979: from 1979-11-06, its own clause: in force on publication
+- lei-6711-de-1979: from 1979-11-06, its own clause: in force on publication
+- lei-6712-de-1979: from 1979-11-06, its own clause: in force on publication
+- lei-6714-de-1979: from 1979-11-06, its own clause: in force on publication
+- lei-6716-de-1979: from 1979-11-12, its own clause: in force on publication
+- lei-6719-de-1979: from 1979-11-13, its own clause: in force on publication
+- lei-6720-de-1979: from 1979-11-13, its own clause: in force on publication
+- lei-6721-de-1979: from 1979-11-13, its own clause: in force on publication
+- lei-6722-de-1979: from 1979-11-20, its own clause: in force on publication
+- lei-6723-de-1979: from 1979-11-20, its own clause: in force on publication
+- lei-6724-de-1979: from 1979-11-20, its own clause: in force on publication
+- lei-6725-de-1979: from 1979-11-22, its own clause: in force on publication
+- lei-6726-de-1979: from 1979-11-22, its own clause: in force on publication
+- lei-6727-de-1979: from 1979-11-22, its own clause: in force on publication
+- lei-6728-de-1979: from 1979-11-23, its own clause: in force on publication
+- lei-6729-de-1979: from 1990-12-27, the in-force day of Lei 8.132/1990, the latest among the acts its notes name (its DOU day 1990-12-27: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.132/1990 (DOU 1990-12-27)
+- lei-6733-de-1979: from 1979-12-05, its own clause: in force on publication
+- lei-6734-de-1979: from 1979-12-05, its own clause: in force on publication
+- lei-6735-de-1979: from 1979-12-05, its own clause: in force on publication
+- lei-6736-de-1979: from 1979-12-06, its own clause: in force on publication
+- lei-6738-de-1979: from 1979-12-06, its own clause: in force on publication
+- lei-6739-de-1979: from 2001-08-29, the in-force day of Lei 10.267/2001, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2001-08-29))
+- lei-6740-de-1979: from 1979-12-06, its own clause: in force on publication
+- lei-6741-de-1979: from 1979-12-06, its own clause: in force on publication
+- lei-6742-de-1979: from 1979-12-06, its own clause: in force on publication
+- lei-6744-de-1979: from 1979-12-06, its own clause: in force on publication
+- lei-6745-de-1979: from 1979-12-06, its own clause: in force on publication
+- lei-6748-de-1979: from 1979-12-11, its own clause: in force on publication
+- lei-6751-de-1979: from 1979-12-11, its own clause: in force on publication
+- lei-6752-de-1979: from 1979-12-18, its own clause: in force on publication
 - Acts of this part (Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995); Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004); Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007); Lei do Petróleo (Lei nº 9.478, de 6 de agosto de 1997); Lei de Abuso de Autoridade (Lei nº 13.869, de 5 de setembro de 2019); Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980); Lei das Inelegibilidades (Lei Complementar nº 64, de 18 de maio de 1990); Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990); Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023); Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003); Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981)): each paragraph's life span is read from Planalto's annotated page of the act (l8987cons.htm, l11079.htm, l11445.htm, l9478.htm, l13869.htm, l6880.htm, lcp64.htm, l8142.htm, l14597.htm, l10.671.htm, l6938.htm), with the replay of Lexifina's code (imported, not copied): struck wordings stay in place before the wording that replaced them, each closed by the source's own note ('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted.
 - Credits come only from those notes; a changed article with no note naming a law stays uncredited.
 - A struck wording with no 'Revogado' note ends when the next wording of the same dispositivo (same label in the same article) starts; a Medida Provisória's wording with no later wording ends on the in-force day of the law that converted the MP (read from the MP page's 'Convertida na Lei' line).
@@ -14142,6 +15147,7 @@ Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP lapse days) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP fates, court rulings) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (MP lapse days, staged vigência days, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
