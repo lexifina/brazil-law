@@ -1,0 +1,82 @@
+EMENTA: DIREITO PROCESSUAL CIVIL E DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL E ACESSO A DADOS FISCAIS DE TERCEIROS EM FASE DE CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+
+I. CASO EM EXAME1. Agravo de instrumento interposto por instituição financeira contra decisão que indeferiu pedido de expedição de ofícios à Receita Federal e à Receita Estadual para obtenção de dados fiscais de empresas nas quais o executado figura como sócio, com o objetivo de identificar lucros e dividendos para satisfação de crédito em execução de título extrajudicial; a decisão recorrida considerou que tais empresas não integram o polo passivo da execução e que as informações fiscais já foram parcialmente obtidas por meio de consulta ao sistema Infojud.II. QUESTÃO EM DISCUSSÃO2. A questão em discussão consiste em saber se é cabível a expedição de ofícios à Receita Federal e à Receita Estadual para obtenção de dados fiscais de pessoas jurídicas, não partes na execução, visando à satisfação de crédito contra sócio avalista, sem instauração do incidente próprio e observância do contraditório.III. RAZÕES DE DECIDIR3. Os dados fiscais requisitados referem-se a pessoas jurídicas que não integram o polo passivo da execução, sendo estas entidades distintas do sócio executado, conforme o art. 49-A do Código Civil.
+4. O acesso a informações fiscais e patrimoniais de terceiros estranhos à lide exige incidente próprio com contraditório, o que não ocorreu nos autos.
+5. A finalidade pretendida já foi alcançada por meio de consulta ao Infojud realizada há menos de seis meses, e já houve deferimento de penhora sobre percentual dos lucros faturados.
+6. O pedido extrapola a constrição autorizada, alcançando dados sigilosos protegidos por sigilo fiscal constitucional e legal, cuja quebra é excepcional e subsidiária, restrita a partes no processo.
+7. A empresa Braço Forte Representações Comerciais Ltda. está inativa desde 2021, tornando inútil a requisição de dados fiscais recentes.
+8. O princípio da menor onerosidade da execução impede diligências gravosas a terceiros não demandados quando existem meios menos gravosos para a satisfação do crédito.
+9. A constrição do patrimônio das sociedades para satisfação de dívida pessoal do sócio exige incidente próprio com observância do contraditório, ausente no caso.
+IV. DISPOSITIVO E TESE
+10. Agravo de instrumento conhecido e desprovido.
+Tese de julgamento: É vedado o acesso a dados fiscais e informações sigilosas de pessoas jurídicas estranhas à relação processual na execução de título extrajudicial contra sócio ou avalista, salvo mediante incidente próprio com observância do contraditório e quando não houver meios menos gravosos para a satisfação do crédito.
+_________
+Dispositivos relevantes citados:
+ CPC, arts. 4º, 6º, 300, 795, 805, 1.015, 133 a 137; CC/2002, art. 49-A; CTN, art. 198, § 1º, I; CR/1988, art. 5º, X e XII.
+Jurisprudência relevante citada:
+ N/A.
+Resumo em linguagem acessível: O Banco Safra pediu para o juiz mandar a Receita Federal e a Receita Estadual do Paraná enviarem informações fiscais detalhadas de duas empresas nas quais o executado é sócio, para ajudar a pagar uma dívida. O juiz negou esse pedido porque essas empresas não são partes do processo, têm patrimônio próprio e protegido por sigilo fiscal, e já foram feitas outras consultas para tentar encontrar bens do devedor. Além disso, pedir esses dados seria um jeito muito pesado e injusto para as empresas, que não têm relação direta com a dívida. Por isso, o recurso do banco foi negado, mantendo a decisão que protegeu o sigilo e os direitos das empresas.
+
+Banco Safra S/A interpôs o presente agravo de instrumento com pedido de efeito ativo contra a decisão que, em execução de título extrajudicial, indeferiu o pedido de expedição de ofício à Receita Federal e à Receita Estadual do Paraná (mov. 466.1/474.1 – 1º grau).
+
+Defendeu, em síntese, que: a) a decisão se mostra desarrazoada e equivocada, uma vez que a diligência requerida se trata de uma ferramenta idônea para a simplificação e agilização da busca de dividendos aptos à satisfação do crédito exequendo; b) respeito ao princípio da efetividade da atuação jurisdicional, corolário do devido processo legal, como norma fundamental do processo civil, ao estabelecer nos arts. 4º e 6º do CPC o direito à obtenção da atividade satisfativa; c) a execução é feita no interesse do exequente e não do executado, e o respectivo processo é informado por princípios próprios, em que predominam atos materiais de expropriação de bens do devedor para a satisfação do credor; d) a medida não se traduz em inovação excepcional, obtenção de dados fiscais de pessoas jurídicas autônomas, nas quais o executado figura como sócio e administrador - Guaporé Comércio e Representações Ltda. e Braço Forte Representações Comerciais -, cuja finalidade não é a pesquisa patrimonial pessoal, mas sim a identificação de lucros, distribuição de dividendos e movimentação financeira empresarial, passíveis de constrição; e) a obtenção de dados fiscais das empresas não se confunde com a investigação patrimonial da pessoa física.
+
+Pleiteou a concessão do efeito ativo para o deferimento de “expedição de ofício à Receita Federal, a fim de que sejam prestadas informações como Cópias das declarações fiscais (DCTF, ECF, EFD -ICMS/IPI, entre outras) referentes aos últimos três (3) anos; Relação das notas fiscais eletrônicas emitidas nos exercícios de 2023, 2024 e 2025; Declarações de faturamento mensal, com indicação do regime tributário adotado e eventuais alterações contratuais e cadastrais; Informações sobre vínculos empregatícios constantes nas GFIP/SEFIP, ativos ou encerrados”. No mérito, o provimento do recurso para reformar a decisão agravada.
+
+Não concedida a medida liminar (mov. 9.1 AI).
+
+A parte agravada deixou o prazo transcorrer sem apresentar as contrarrazões (mov. 16 AI).
+
+É o relatório.
+
+Presentes os pressupostos de admissibilidade do recurso. O recurso é tempestivo. A parte agravante efetuou o preparo (mov. 1.3 AI), possui legitimidade e interesse recursal.
+O art. 1015 do Código de Processo Civil dispõe:
+
+“Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:(...)Parágrafo único. Também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário”.
+De acordo com o diploma processual civil, a urgência caracteriza-se em decorrência da probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo, nos termos do art. 300, do Código de Processo Civil:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Na lição de Fredie Didier “As tutelas provisórias de urgência (satisfativa ou cautelar) pressupõem a demonstração de “probabilidade do direito” e do “perigo da demora” (art. 300, CPC). A tutela provisória de evidência (sempre satisfativa/antecipada) pressupõe a demonstração de que as afirmações de fato estejam comprovadas, tornando o direito evidente, o que se presume nas hipóteses do art. 311, examinado mais à frente. A urgência pode servir de fundamento à concessão da tutela provisória cautelar ou satisfativa (art. 294, parágrafo único, e 300, CPC). A evidência, contudo, só autoriza a tutela provisória satisfativa (ou simplesmente “tutela antecipada”, metonímia legislativa) (arts. 294 e 311, CPC)” (Curso de Direito Processual Civil, volume II: Teoria da Prova, Direito Probatório, Ações Probatórias, Decisão, Precedente, Coisa Julgada e Antecipação dos Efeitos da Tutela. 11ª Edição, Salvador: Editora Juspodivm, 2016, p. 584).
+Para Luiz Guilherme Marinoni, Sérgio Cruz Arenhart e Daniel Mitidiero: “A probabilidade que autoriza o emprego da técnica antecipatória para a tutela dos direitos é a probabilidade lógica – que é aquela que surge da confrontação das alegações e das provas com os elementos disponíveis nos autos, sendo provável a hipótese que encontra maior grau de confirmação e menor grau de refutação nesses elementos. O juiz tem que se convencer de que o direito é provável para conceder tutela provisória” (Código de Processo Civil Comentado. São Paulo: Revista dos Tribunais, 2015, p. 312).
+O Banco Safra S/A, a fim de viabilizar a efetividade da execução, requereu a expedição de ofícios à Receita Federal do Brasil e à Receita Estadual do Paraná, para que informem e encaminhem ao Juízo: “Cópias das declarações fiscais (DCTF, ECF, EFD-ICMS/IPI, entre outras) referentes aos últimos três (3) anos; Relação das notas fiscais eletrônicas emitidas nos exercícios de 2023, 2024 e 2025; Declarações de faturamento mensal, com indicação do regime tributário adotado e eventuais alterações contratuais e cadastrais; Informações sobre vínculos empregatícios constantes nas GFIP/SEFIP, ativos ou encerrados” (mov. 462.1 – 1º grau).
+
+O juízo a quo indeferiu a medida:
+“1. A parte exequente requer a expedição de ofícios à Receita Federal do Brasil e à Receita Estadual do Paraná (seq. 462), com a finalidade de obter cópias de declarações e outros dados fiscais da parte executada.2. O pedido não comporta deferimento.
+Isso porque a providência almejada pode ser viabilizada por meio de consulta ao sistema Infojud, já realizada nestes autos no mov. 442, em 04 de outubro de 2025, ou seja, há menos de 6 (seis) meses. Nesse contexto, não se mostram recomendáveis novas diligências, sobretudo diante da ausência de elemento concreto que indique alteração da situação fática apta a justificá-las.3. Intime-se a parte exequente para que, no prazo de 15 (quinze) dias, requeira providências efetivas para o regular prosseguimento do feito. Nada sendo requerido, voltem conclusos para análise de eventual arquivamento provisório, diante da ausência de bens passíveis de constrição” (mov. 466.1 – 1º grau).
+Contra essa decisão foram opostos embargos de declaração (mov. 469.1), que foram rejeitados:
+“Com efeito, embora a parte exequente sustente a necessidade de obtenção de dados fiscais das empresas GUAPORÉ COMÉRCIO E REPRESENTAÇÕES LTDA e BRACO FORTE REPRESENTAÇÕES COMERCIAIS LTDA para identificar eventual patrimônio do executado, verifica-se que tais pessoas jurídicas não integram o polo passivo da presente demanda.Outrossim, a finalidade pretendida, consistente na verificação da participação societária do executado nas referidas empresas, já pode ser verificada por meio das informações constantes das pesquisas patrimoniais disponíveis, inclusive via INFOJUD, em seq. 442, não se justificando, no caso concreto, a expedição de ofícios para obtenção de dados fiscais de terceiros estranhos à relação processual.6. Diante do exposto, rejeito os embargos de declaração opostos em seq. 469, mantendo-se integralmente a decisão de seq. 466” (mov. 474.1 – 1º grau).
+O Banco Safra S/A ajuizou a ação de busca e apreensão em face de Good Quality Indústria e Comércio de Alimentos Ltda., referente ao Caminhão Atego 2425/48, Semi Pesado – 000671555, chassi: 9BM9580949B671555, cor: branco, ano/modelo: 2009/2009, placa: ARU-8273, garantia do contrato de cédula de crédito bancário nº 32117713-4, firmado em 09.09.2009, alegando o inadimplemento de no valor de R$ 63.855,60.
+Concedida a liminar, houve a tentativa de busca e apreensão do bem, que por sua vez restou infrutífera (mov. 18.1). Restrição Renajud (mov. 24.1 – 1º grau). Foi obtida informação de que o bem não se encontrava mais no endereço indicado, solicitando a pesquisa de endereço em nome de Arlei José Luize, fiel depositário (mov. 127.1). Arlei informou que vendeu o caminhão (mov. 228.1 -1º grau).
+Alterada a classe processual para execução de título extrajudicial, em face da Good Quality Indústria e Comércio de Alimentos Ltda. (mov. 233.1 - 1º grau). Considerando a informação que a empresa teve a falência decretada (mov. 291.1), a execução prosseguiu em nome do avalista - Arlei José Luize (mov. 296.1 – 1º grau).
+Foram exauridas tentativas de busca de bens penhoráveis por via Bacenjud, Renajud, Infojud, sendo deferida a inscrição junto ao Serasajud e diligências CNIB (mov. 396.1 – 1º grau).
+Foi obtida informação que o executado é titular de 50% das cotas da empresa Guaporé Comércio e Representações Ltda. (CNPJ: 13.588.043/0001-81) (mov. 442.1 - p. 4) e Braço Forte Representações Comerciais Ltda. (CNPJ 04.340.929/0001-10 (mov. 442.2 p.3), com o deferimento de penhora sobre percentual dos lucros faturados (mov. 447.1 – 1º grau).
+O executado peticionou alegando que a empresa Braço Forte Representações Comerciais Ltda. está inativa desde 16.11.2021, sem atividade e, portanto, lucro (mov. 157.1). Com base nessa informação a instituição financeira requereu a expedição de ofícios, que foi indeferida, resultante no presente agravo.
+Verifica-se que os dados fiscais requisitados dizem respeito a pessoas jurídicas, Guaporé Comércio e Representações Ltda. e Braço Forte Representações Comerciais Ltda., que não integram o polo passivo da execução, dirigida contra o avalista Arlei José Luize.
+A sociedade empresária possui personalidade e patrimônio próprios, distintos dos de seus sócios, conforme dispõe o art. 49-A do Código Civil:
+
+"Art. 49-A. A pessoa jurídica não se confunde com os seus sócios, associados, instituidores ou administradores."
+
+O art. 795 do Código de Processo Civil preceitua:
+
+"Art. 795. Os bens particulares dos sócios não respondem pelas dívidas da sociedade, senão nos casos previstos em lei."
+
+Desse modo, o alcance do sigilo fiscal e do patrimônio da sociedade, para satisfação de dívida pessoal do sócio, pressupõe a instauração do incidente próprio, assegurado o contraditório, o que não ocorreu nos autos.
+
+Ademais, a finalidade declarada, verificação da participação societária do executado, já foi alcançada por consulta ao Infojud realizada em 04.10.2025 (mov. 442 – 1º grau), há menos de seis meses, tendo sobrevindo, inclusive, o deferimento da penhora sobre percentual dos lucros faturados (mov. 447.1 – 1º grau).
+
+A pretensão ora deduzida, de acesso à integralidade da escrituração fiscal das sociedades Guaporé e Braço Forte (declarações, notas fiscais eletrônicas, faturamento mensal e vínculos empregatícios dos últimos três anos), extrapola largamente aquela constrição, alcançando dados sigilosos de terceiros estranhos à lide.
+
+Tais informações estão protegidas por sigilo fiscal, de matriz constitucional (art. 5º, X e XII, da Constituição da República) e legal (art. 198 do Código Tributário Nacional):
+
+"Art. 198. Sem prejuízo do disposto na legislação criminal, é vedada a divulgação, por parte da Fazenda Pública ou de seus servidores, de informação obtida em razão do ofício sobre a situação econômica ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negócios ou atividades."
+
+O sigilo não é, contudo, absoluto: o próprio art. 198, § 1º, I, do Código Tributário Nacional ressalva a requisição de autoridade judiciária no interesse da justiça. Justamente por isso, sua superação por ordem judicial reveste-se de caráter excepcional e subsidiário, quando são parte nos autos.
+
+Ademais, o próprio executado noticiou que a sociedade Braço Forte Representações Comerciais Ltda. está inativa desde 16.11.2021 (mov. 157.1), o que torna inútil, quanto a ela, a requisição de escrituração relativa aos últimos exercícios.
+
+A providência, tal como requerida, tampouco se harmoniza com o princípio da menor onerosidade da execução (art. 805 do Código de Processo Civil), segundo o qual, "quando por vários meios o exequente puder promover a execução, o juiz mandará que se faça pelo modo menos gravoso para o executado", diretriz que se estende, com maior razão, à esfera de terceiros não demandados.
+
+Por fim, a constrição de patrimônio das próprias sociedades, para satisfação de dívida pessoal do sócio, pressupõe o manejo do incidente adequado, com observância do contraditório (arts. 133 a 137 do Código de Processo Civil, no que couber), o que não se verifica nos autos.
+
+Não se descura da efetividade da execução, princípio invocado com apoio nos arts. 4º e 6º do Código de Processo Civil. Ocorre que a efetividade não autoriza, por si só, o acesso indiscriminado a dados sigilosos de terceiros, quando disponíveis meios menos gravosos.
+
+Do exposto, vota-se no sentido de negar provimento ao agravo de instrumento interposto por Banco Safra S/A.
