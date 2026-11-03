@@ -25,6 +25,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Licitações e Contratos Administrativos (Lei nº 14.133, de 1º de abril de 2021) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-29 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | LexML Brasil (Senado Federal): record of each cited law, for its 'Publicação Original' DOU day | <https://www.lexml.gov.br/> | 2026-10-29 | Public federal portal; bibliographic data of official acts |
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
+| Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995), Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004), Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007), Lei do Petróleo (Lei nº 9.478, de 6 de agosto de 1997), Lei de Abuso de Autoridade (Lei nº 13.869, de 5 de setembro de 2019), Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980), Lei das Inelegibilidades (Lei Complementar nº 64, de 18 de maio de 1990), Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990), Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023), Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003), Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-31 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | LexML Brasil (Senado Federal): record of each cited law, for its 'Publicação Original' DOU day | <https://www.lexml.gov.br/> | 2026-10-31 | Public federal portal; bibliographic data of official acts |
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Execução Fiscal (Lei nº 6.830, de 22 de setembro de 1980), Lei de Defesa da Concorrência (Lei nº 12.529, de 30 de novembro de 2011), Estatuto da Advocacia e da OAB (Lei nº 8.906, de 4 de julho de 1994), Lei da ADI e da ADC (Lei nº 9.868, de 10 de novembro de 1999), Lei da ADPF (Lei nº 9.882, de 3 de dezembro de 1999), Crimes contra a ordem tributária, econômica e as relações de consumo (Lei nº 8.137, de 27 de dezembro de 1990), Lei de Interceptação Telefônica (Lei nº 9.296, de 24 de julho de 1996), Lei do Bem de Família (Lei nº 8.009, de 29 de março de 1990), Lei da Ação Popular (Lei nº 4.717, de 29 de junho de 1965), Crimes contra o Sistema Financeiro Nacional (Lei nº 7.492, de 16 de junho de 1986) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-31 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
@@ -860,6 +861,506 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-9964-de-2000` | Institui o Programa de Recuperação Fiscal – Refis e dá outras providências, e altera as Leis n os 8.036, de 11 de maio de 1990, e 8.844, de 20 de janeiro de 1994 (Lei nº 9.964, de 10 de abril de 2000) | 1 | 2022-03-18 to 2022-03-18 |
 | `lei-9973-de-2000` | Dispõe sobre o sistema de armazenagem dos produtos agropecuários . Mensagem de Veto (Lei nº 9.973, de 29 de maio de 2000) | 1 | 2026-06-05 to 2026-06-05 |
 | `lei-9990-de-2000` | Prorroga o período de transição previsto na Lei n o 9.478, de 6 de agosto de 1997, que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de... (Lei nº 9.990, de 21 de julho de 2000) | 1 | 2000-07-24 to 2000-07-24 |
+| `lei-complementar-194-de-2022` | Altera a Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e a Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir), para considerar bens e serviços essenciais os relativos aos... (Lei Complementar nº 194, de 23 de junho de 2022) | 1 | 2022-06-23 to 2022-06-23 |
+| `lei-complementar-195-de-2022` | Dispõe sobre apoio financeiro da União aos Estados, ao Distrito Federal e aos Municípios para garantir ações emergenciais direcionadas ao setor cultural (Lei Complementar nº 195, de 8 de julho de 2022) | 1 | 2023-12-18 to 2023-12-18 |
+| `lei-complementar-196-de-2022` | Altera a Lei Complementar nº 130, de 17 de abril de 2009 (Lei do Sistema Nacional de Crédito Cooperativo), para incluir as confederações de serviço constituídas por cooperativas centrais de crédito entre as... (Lei Complementar nº 196, de 24 de agosto de 2022) | 1 | 2022-08-25 to 2022-08-25 |
+| `lei-complementar-197-de-2022` | Altera a Lei Complementar nº 172, de 15 de abril de 2020, e a Lei nº 14.029, de 28 de julho de 2020, para conceder prazo para que os Estados, o Distrito Federal e os Municípios executem atos de transposição e de... (Lei Complementar nº 197, de 6 de dezembro de 2022) | 1 | 2022-12-07 to 2022-12-07 |
+| `lei-complementar-198-de-2023` | Altera a Lei Complementar nº 91, de 22 de dezembro de 1997, para manter os coeficientes do Fundo de Participação dos Municípios (FPM) de Municípios com redução populacional aferida em censo demográfico, aplicando... (Lei Complementar nº 198, de 28 de junho de 2023) | 1 | 2023-06-28 to 2023-06-28 |
+| `lei-complementar-199-de-2023` | Institui o Estatuto Nacional de Simplificação de Obrigações Tributárias Acessórias (Lei Complementar nº 199, de 1º de agosto de 2023) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-complementar-201-de-2023` | Dispõe sobre a compensação devida pela União nos termos dos arts. 3º e 14 da Lei Complementar nº 194, de 23 de junho de 2022, a dedução das parcelas dos contratos de dívida, a transferência direta de recursos da... (Lei Complementar nº 201, de 24 de outubro de 2023) | 1 | 2023-10-24 to 2023-10-24 |
+| `lei-complementar-202-de-2023` | Altera a Lei Complementar nº 195, de 8 de julho de 2022 (Lei Paulo Gustavo), para prorrogar até 31 de dezembro de 2024 o prazo de execução dos recursos por Estados, Distrito Federal e Municípios (Lei Complementar nº 202, de 15 de dezembro de 2023) | 1 | 2023-12-18 to 2023-12-18 |
+| `lei-complementar-203-de-2023` | Dispõe sobre as despesas voltadas a programa de incentivo à permanência de estudantes no ensino médio (Lei Complementar nº 203, de 15 de dezembro de 2023) | 1 | 2023-12-18 to 2023-12-18 |
+| `lei-complementar-205-de-2024` | Altera a Lei Complementar nº 172, de 15 de abril de 2020, a fim de conceder prazo aos Estados, ao Distrito Federal e aos Municípios para executar atos de transposição e de transferência (Lei Complementar nº 205, de 9 de maio de 2024) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-complementar-206-de-2024` | Autoriza a União a postergar o pagamento da dívida de entes federativos afetados por calamidade pública reconhecida pelo Congresso Nacional, mediante proposta do Poder Executivo federal, e a reduzir a taxa de juros... (Lei Complementar nº 206, de 16 de maio de 2024) | 1 | 2024-05-17 to 2024-05-17 |
+| `lei-complementar-208-de-2024` | Altera a Lei nº 4.320, de 17 de março de 1964, para dispor sobre a cessão de direitos creditórios originados de créditos tributários e não tributários dos entes da Federação, e a Lei nº 5.172, de 25 de outubro de... (Lei Complementar nº 208, de 2 de julho de 2024) | 1 | 2024-07-03 to 2024-07-03 |
+| `lei-complementar-209-de-2024` | Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, que regulamenta o § 3º do art. 198 da Constituição Federal, para dispor sobre as despesas de custeio e de investimento com os hospitais universitários... (Lei Complementar nº 209, de 3 de outubro de 2024) | 1 | 2024-10-04 to 2024-10-04 |
+| `lei-complementar-210-de-2024` | Dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual (Lei Complementar nº 210, de 25 de novembro de 2024) | 1 | 2024-11-26 to 2024-11-26 |
+| `lei-complementar-211-de-2024` | Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico (Lei Complementar nº 211, de 30 de dezembro de 2024) | 1 | 2024-12-31 to 2024-12-31 |
+| `lei-complementar-212-de-2025` | Institui o Programa de Pleno Pagamento de Dívidas dos Estados (Propag), destinado a promover a revisão dos termos das dívidas dos Estados e do Distrito Federal com a União firmadas no âmbito da Lei nº 8.727, de 5 de... (Lei Complementar nº 212, de 13 de janeiro de 2025) | 1 | 2025-01-14 to 2025-01-14 |
+| `lei-complementar-213-de-2025` | Altera o Decreto-Lei nº 73, de 21 de novembro de 1966 (Lei do Seguro Privado), para dispor sobre as sociedades cooperativas de seguros e as operações de proteção patrimonial mutualista, bem como sobre o termo de... (Lei Complementar nº 213, de 15 de janeiro de 2025) | 1 | 2025-03-02 to 2025-03-02 |
+| `lei-complementar-215-de-2025` | Dispõe sobre extensão do prazo para liquidação de restos a pagar não processados de que trata o art. 172 da Lei nº 14.791, de 29 de dezembro de 2023 (Lei de Diretrizes Orçamentárias de 2024) (Lei Complementar nº 215, de 21 de março de 2025) | 1 | 2025-03-21 to 2025-03-21 |
+| `lei-complementar-216-de-2025` | Institui o Programa Acredita Exportação (Lei Complementar nº 216, de 28 de julho de 2025) | 1 | 2025-09-12 to 2025-09-12 |
+| `lei-complementar-217-de-2025` | Altera a Lei Complementar nº 172, de 15 de abril de 2020, a fim de prorrogar o prazo para que os Estados, o Distrito Federal e os Municípios executem atos de transposição e de transferência de saldos financeiros... (Lei Complementar nº 217, de 18 de setembro de 2025) | 1 | 2025-09-19 to 2025-09-19 |
+| `lei-complementar-218-de-2025` | Altera a Lei Complementar nº 116, de 31 de julho de 2003, para explicitar que o Imposto Sobre Serviços de Qualquer Natureza (ISS) incidente sobre os serviços de guincho intramunicipal, de guindaste e de içamento é... (Lei Complementar nº 218, de 24 de setembro de 2025) | 1 | 2025-09-25 to 2025-09-25 |
+| `lei-complementar-219-de-2025` | Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei das Inelegibilidades), para modificar prazos de duração e de fixação dos termos iniciais e finais de contagem de inelegibilidades, e a Lei nº 9.504, de 30... (Lei Complementar nº 219, de 29 de setembro de 2025) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-complementar-220-de-2025` | Institui o Sistema Nacional de Educação (SNE) e fixa normas para a cooperação entre a União, os Estados, o Distrito Federal e os Municípios para elaboração e implementação de políticas, de programas e de ações... (Lei Complementar nº 220, de 31 de outubro de 2025) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-complementar-221-de-2025` | Dispõe sobre projetos estratégicos em defesa nacional (Lei Complementar nº 221, de 18 de novembro de 2025) | 1 | 2026-08-28 to 2026-08-28 |
+| `lei-complementar-222-de-2025` | Dispõe sobre condições e limites para a concessão, a ampliação ou a prorrogação de incentivos fiscais ao esporte pela União, pelos Estados, pelo Distrito Federal e pelos Municípios (Lei Complementar nº 222, de 26 de novembro de 2025) | 1 | 2025-11-27 to 2025-11-27 |
+| `lei-complementar-223-de-2025` | Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para excluir do cômputo dos limites de despesas primárias e das metas fiscais as despesas temporárias com educação pública e saúde de que trata o art. 6º da... (Lei Complementar nº 223, de 19 de dezembro de 2025) | 1 | 2025-11-19 to 2025-11-19 |
+| `lei-complementar-224-de-2025` | Dispõe sobre a redução e os critérios de concessão de incentivos e benefícios de natureza tributária, financeira ou creditícia concedidos exclusivamente no âmbito da União (Lei Complementar nº 224, de 26 de dezembro de 2025) | 1 | 2026-08-28 to 2026-08-28 |
+| `lei-14369-de-2022` | Altera a Lei Complementar nº 89, de 18 de fevereiro de 1997, que institui o Fundo para Aparelhamento e Operacionalização das Atividades-fim da Polícia Federal (Funapol) (Lei nº 14.369, de 15 de junho de 2022) | 1 | 2022-06-15 to 2022-06-15 |
+| `lei-14370-de-2022` | Institui o Programa Nacional de Prestação de Serviço Civil Voluntário e o Prêmio Portas Abertas (Lei nº 14.370, de 15 de junho de 2022) | 1 | 2022-06-15 to 2022-06-15 |
+| `lei-14374-de-2022` | Altera as Leis nºs 11.196, de 21 de novembro de 2005, e 10.865, de 30 de abril de 2004, para definir condições para a apuração do valor a recolher da Contribuição para os Programas de Integração Social e de Formação... (Lei nº 14.374, de 21 de junho de 2022) | 1 | 2022-06-22 to 2022-06-22 |
+| `lei-14375-de-2022` | Altera as Leis nºs 10.260, de 12 de julho de 2001, 10.522, de 19 de julho de 2002, e 12.087, de 11 de novembro de 2009, para estabelecer os requisitos e as condições para realização das transações resolutivas de... (Lei nº 14.375, de 21 de junho de 2022) | 1 | 2022-06-22 to 2022-06-22 |
+| `lei-14377-de-2022` | Dispõe sobre a estruturação do Plano de Carreiras e Cargos de Provimento Efetivo dos Servidores da Defensoria Pública da União (Lei nº 14.377, de 22 de junho de 2022) | 1 | 2022-06-23 to 2022-06-23 |
+| `lei-14385-de-2022` | Altera a Lei nº 9.427, de 26 de dezembro de 1996, para disciplinar a devolução de valores de tributos recolhidos a maior pelas prestadoras do serviço público de distribuição de energia elétrica (Lei nº 14.385, de 27 de junho de 2022) | 1 | 2022-06-28 to 2022-06-28 |
+| `lei-14386-de-2022` | Altera a Lei nº 9.696, de 1º de setembro de 1998, que dispõe sobre a regulamentação da profissão de Educação Física e cria o Conselho Federal de Educação Física e os Conselhos Regionais de Educação Física (Lei nº 14.386, de 27 de junho de 2022) | 1 | 2022-06-28 to 2022-06-28 |
+| `lei-14390-de-2022` | Altera a Lei nº 14.046, de 24 de agosto de 2020, para dispor sobre medidas emergenciais para atenuar os efeitos da crise decorrente da pandemia da covid-19 nos setores de turismo e de cultura (Lei nº 14.390, de 4 de julho de 2022) | 1 | 2022-07-05 to 2022-07-05 |
+| `lei-14391-de-2022` | Altera a Lei nº 9.875, de 25 de novembro de 1999, para denominar “Rodovia Ulysses Guimarães – Travessia Urbana Renato Nunes de Oliveira” o trecho da rodovia BR-282 entre o km 214,34 e o km 222,06, no Município de... (Lei nº 14.391, de 4 de julho de 2022) | 1 | 2022-07-05 to 2022-07-05 |
+| `lei-14392-de-2022` | Reconhece a Marcha de Resistência do Cavalo Crioulo do Rio Grande do Sul como manifestação da cultura nacional (Lei nº 14.392, de 4 de julho de 2022) | 1 | 2022-07-05 to 2022-07-05 |
+| `lei-14393-de-2022` | Altera a Lei nº 9.795, de 27 de abril de 1999, que dispõe sobre a Política Nacional de Educação Ambiental, para instituir a Campanha Junho Verde (Lei nº 14.393, de 4 de julho de 2022) | 1 | 2022-07-05 to 2022-07-05 |
+| `lei-14394-de-2022` | Reconhece a competição Freio de Ouro como manifestação da cultura nacional (Lei nº 14.394, de 4 de julho de 2022) | 1 | 2022-07-05 to 2022-07-05 |
+| `lei-14395-de-2022` | Altera a Lei nº 4.502, de 30 de novembro de 1964, para conceituar o termo “praça” para os fins que especifica (Lei nº 14.395, de 8 de julho de 2022) | 1 | 2022-07-08 to 2022-07-08 |
+| `lei-14397-de-2022` | Anistia infrações e anula multas por atraso na entrega da Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e Informações à Previdência Social (GFIP) (Lei nº 14.397, de 8 de julho de 2022) | 1 | 2022-07-08 to 2022-07-08 |
+| `lei-14398-de-2022` | Institui o documento de identidade de notários e registradores e de escreventes de serventias extrajudiciais (Lei nº 14.398, de 8 de julho de 2022) | 1 | 2022-07-08 to 2022-07-08 |
+| `lei-14399-de-2022` | Institui a Política Nacional Aldir Blanc de Fomento à Cultura (Lei nº 14.399, de 8 de julho de 2022) | 1 | 2025-05-02 to 2025-05-02 |
+| `lei-14400-de-2022` | Altera a Lei nº 13.992, de 22 de abril de 2020, para prorrogar a suspensão da obrigatoriedade da manutenção das metas quantitativas e qualitativas contratualizadas pelos prestadores de serviço de saúde, de qualquer... (Lei nº 14.400, de 8 de julho de 2022) | 1 | 2022-07-08 to 2022-07-08 |
+| `lei-14405-de-2022` | Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para tornar exigível, em condomínios edilícios, a aprovação de 2/3 (dois terços) dos votos dos condôminos para a mudança da destinação do edifício ou... (Lei nº 14.405, de 12 de julho de 2022) | 1 | 2022-07-13 to 2022-07-13 |
+| `lei-14406-de-2022` | Altera a Lei nº 12.651, de 25 de maio de 2012, que dispõe sobre a proteção da vegetação nativa, e o Decreto-Lei nº 917, de 8 de outubro de 1969, que dispõe sobre o emprego da aviação agrícola no País, para incluir o... (Lei nº 14.406, de 12 de julho de 2022) | 1 | 2022-07-13 to 2022-07-13 |
+| `lei-14407-de-2022` | Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para estabelecer o compromisso da educação básica com a formação do leitor e o estímulo à leitura (Lei nº 14.407, de 12 de julho de 2022) | 1 | 2022-07-13 to 2022-07-13 |
+| `lei-14408-de-2022` | Altera a Lei nº 4.117, de 27 de agosto de 1962 (Código Brasileiro de Telecomunicações), para dispor sobre a transferência, a comercialização e a cessão do tempo de programação para a produção independente (Lei nº 14.408, de 12 de julho de 2022) | 1 | 2022-07-13 to 2022-07-13 |
+| `lei-14412-de-2022` | Altera a Lei nº 14.303, de 21 de janeiro de 2022, que estima a receita e fixa a despesa da União para o exercício financeiro de 2022 (Lei nº 14.412, de 15 de julho de 2022) | 1 | 2022-07-15 to 2022-07-15 |
+| `lei-14416-de-2022` | Altera a Lei nº 9.875, de 25 de novembro de 1999, para denominar “Rodovia Ulysses Guimarães – Trecho José Paschoal Baggio” o trecho da rodovia BR-282 que especifica (Lei nº 14.416, de 19 de julho de 2022) | 1 | 2022-07-20 to 2022-07-20 |
+| `lei-14417-de-2022` | Altera a Lei nº 12.513, de 26 de outubro de 2011, para permitir a execução do Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec) às instituições públicas prestadoras oficiais dos serviços de... (Lei nº 14.417, de 20 de julho de 2022) | 1 | 2022-07-21 to 2022-07-21 |
+| `lei-14420-de-2022` | Institui a Semana Nacional de Conscientização sobre o Transtorno do Déficit de Atenção com Hiperatividade (TDAH) (Lei nº 14.420, de 20 de julho de 2022) | 1 | 2022-07-21 to 2022-07-21 |
+| `lei-14421-de-2022` | Altera as Leis nºs 492, de 30 de agosto de 1937, 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos), 8.668, de 25 de junho de 1993, 8.929, de 22 de agosto de 1994, 10.925, de 23 de julho de 2004, 11.076, de... (Lei nº 14.421, de 20 de julho de 2022) | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-14423-de-2022` | Altera a Lei nº 10.741, de 1º de outubro de 2003, para substituir, em toda a Lei, as expressões “idoso” e “idosos” pelas expressões “pessoa idosa” e “pessoas idosas”, respectivamente (Lei nº 14.423, de 22 de julho de 2022) | 1 | 2022-07-25 to 2022-07-25 |
+| `lei-14424-de-2022` | Altera a Lei nº 13.116, de 20 de abril de 2015, para autorizar a instalação de infraestrutura de telecomunicações, nos termos do requerimento de instalação, em caso de não manifestação do órgão competente no prazo... (Lei nº 14.424, de 27 de julho de 2022) | 1 | 2022-07-28 to 2022-07-28 |
+| `lei-14431-de-2022` | Altera as Leis nºs 10.820, de 17 de dezembro de 2003, 8.213, de 24 de julho de 1991, e 8.112, de 11 de dezembro de 1990, para ampliar a margem de crédito consignado aos empregados regidos pela Consolidação das Leis... (Lei nº 14.431, de 3 de agosto de 2022) | 1 | 2022-12-28 to 2022-12-28 |
+| `lei-14432-de-2022` | Institui a campanha Maio Laranja, a ser realizada no mês de maio de cada ano, em todo o território nacional, com ações efetivas de combate ao abuso e à exploração sexual de crianças e adolescentes (Lei nº 14.432, de 3 de agosto de 2022) | 1 | 2022-08-04 to 2022-08-04 |
+| `lei-14434-de-2022` | Altera a Lei nº 7.498, de 25 de junho de 1986, para instituir o piso salarial nacional do Enfermeiro, do Técnico de Enfermagem, do Auxiliar de Enfermagem e da Parteira (Lei nº 14.434, de 4 de agosto de 2022) | 1 | 2022-08-05 to 2022-08-05 |
+| `lei-14435-de-2022` | Altera a Lei nº 14.194, de 20 de agosto de 2021, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2022 (Lei nº 14.435, de 4 de agosto de 2022) | 1 | 2022-08-05 to 2022-08-05 |
+| `lei-14437-de-2022` | Autoriza o Poder Executivo federal a dispor sobre a adoção, por empregados e empregadores, de medidas trabalhistas alternativas e sobre o Programa Emergencial de Manutenção do Emprego e da Renda, para enfrentamento... (Lei nº 14.437, de 15 de agosto de 2022) | 1 | 2022-08-16 to 2022-08-16 |
+| `lei-14440-de-2022` | Institui o Programa de Aumento da Produtividade da Frota Rodoviária no País (Renovar) (Lei nº 14.440, de 2 de setembro de 2022) | 1 | 2024-07-29 to 2024-07-29 |
+| `lei-14441-de-2022` | Altera as Leis nºs 8.213, de 24 de julho de 1991, 8.742, de 7 de dezembro de 1993, 11.699, de 13 de junho de 2008, 13.240, de 30 de dezembro de 2015, e 13.846, de 18 de junho de 2019, para dispor sobre o fluxo de... (Lei nº 14.441, de 2 de setembro de 2022) | 1 | 2022-09-05 to 2022-09-05 |
+| `lei-14442-de-2022` | Dispõe sobre o pagamento de auxílio-alimentação ao empregado e altera a Lei nº 6.321, de 14 de abril de 1976, e a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (Lei nº 14.442, de 2 de setembro de 2022) | 1 | 2022-09-05 to 2022-09-05 |
+| `lei-14445-de-2022` | Altera a Lei nº 13.703, de 8 de agosto de 2018, que institui a Política Nacional de Pisos Mínimos do Transporte Rodoviário de Cargas (Lei nº 14.445, de 2 de setembro de 2022) | 1 | 2022-09-05 to 2022-09-05 |
+| `lei-14447-de-2022` | Altera os limites da Floresta Nacional de Brasília (Lei nº 14.447, de 9 de setembro de 2022) | 1 | 2022-09-09 to 2022-09-09 |
+| `lei-14449-de-2022` | Autoriza o Poder Executivo federal a doar dez Viaturas Blindadas de Combate Obuseiro Autopropulsado (VBCOAP) M-108 e onze Viaturas Blindadas de Transporte de Pessoal (VBTP) EE-11 Urutu, do Comando do Exército, para a... (Lei nº 14.449, de 15 de setembro de 2022) | 1 | 2022-09-16 to 2022-09-16 |
+| `lei-14451-de-2022` | Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para modificar os quóruns de deliberação dos sócios da sociedade limitada previstos nos arts. 1.061 e 1.076 (Lei nº 14.451, de 21 de setembro de 2022) | 1 | 2022-10-22 to 2022-10-22 |
+| `lei-14452-de-2022` | Redefine os limites do Parque Nacional da Serra dos Órgãos (Lei nº 14.452, de 21 de setembro de 2022) | 1 | 2022-12-30 to 2022-12-30 |
+| `lei-14453-de-2022` | Estabelece critérios para autorizar a prorrogação do direito de uso de radiofrequência associado à exploração do Serviço Especial de Televisão por Assinatura (TVA), criado pelo Decreto nº 95.744, de 23 de fevereiro... (Lei nº 14.453, de 21 de setembro de 2022) | 1 | 2022-09-22 to 2022-09-22 |
+| `lei-14454-de-2022` | Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos privados de assistência à saúde, para estabelecer critérios que permitam a cobertura de exames ou tratamentos de saúde que não estão incluídos... (Lei nº 14.454, de 21 de setembro de 2022) | 1 | 2022-09-22 to 2022-09-22 |
+| `lei-14455-de-2022` | Autoriza o Poder Executivo a instituir os produtos lotéricos denominados Loteria da Saúde e Loteria do Turismo (Lei nº 14.455, de 21 de setembro de 2022) | 1 | 2022-09-22 to 2022-09-22 |
+| `lei-14456-de-2022` | Transforma cargos vagos das carreiras de Auxiliar Judiciário e de Técnico Judiciário em cargos vagos da carreira de Analista Judiciário no Quadro Permanente do Tribunal de Justiça do Distrito Federal e dos Territórios (Lei nº 14.456, de 21 de setembro de 2022) | 1 | 2022-09-22 to 2022-09-22 |
+| `lei-14457-de-2022` | Institui o Programa Emprega + Mulheres (Lei nº 14.457, de 21 de setembro de 2022) | 1 | 2022-09-22 to 2022-09-22 |
+| `lei-14459-de-2022` | Altera a Lei nº 12.598, de 21 de março de 2012, que estabelece normas especiais para as compras, as contratações e o desenvolvimento de produtos e de sistemas de defesa e dispõe sobre regras de incentivo à área... (Lei nº 14.459, de 25 de outubro de 2022) | 1 | 2022-10-26 to 2022-10-26 |
+| `lei-14460-de-2022` | Transforma a Autoridade Nacional de Proteção de Dados (ANPD) em autarquia de natureza especial e transforma cargos comissionados (Lei nº 14.460, de 25 de outubro de 2022) | 1 | 2022-10-26 to 2022-10-26 |
+| `lei-14461-de-2022` | Autoriza a prorrogação de contratos por tempo determinado no âmbito da Fundação Instituto Brasileiro de Geografia e Estatística (IBGE) (Lei nº 14.461, de 25 de outubro de 2022) | 1 | 2022-10-26 to 2022-10-26 |
+| `lei-14462-de-2022` | Altera as Leis nºs 11.977, de 7 de julho de 2009, 14.118, de 12 de janeiro de 2021, 12.087, de 11 de novembro de 2009, e 14.042, de 19 de agosto de 2020, que dispõem sobre o Fundo Garantidor da Habitação Popular... (Lei nº 14.462, de 26 de outubro de 2022) | 1 | 2022-10-27 to 2022-10-27 |
+| `lei-14463-de-2022` | Dispõe sobre a reabertura do prazo para opção pelo regime de previdência complementar e altera a Lei nº 12.618, de 30 de abril de 2012, e a Lei nº 9.250, de 26 de dezembro de 1995, para adequá-las à Emenda... (Lei nº 14.463, de 26 de outubro de 2022) | 1 | 2022-10-27 to 2022-10-27 |
+| `lei-14464-de-2022` | Autoriza o Poder Executivo federal a doar 20 (vinte) viaturas operacionais MBB 1418 revitalizadas ao Exército Paraguaio (Lei nº 14.464, de 1º de novembro de 2022) | 1 | 2022-11-03 to 2022-11-03 |
+| `lei-14465-de-2022` | Transforma Funções Gratificadas (FG) em Cargos Comissionados de Direção (CD) e Cargos Comissionados de Gerência Executiva (CGE) destinados à Agência Nacional de Transportes Aquaviários (Antaq) (Lei nº 14.465, de 9 de novembro de 2022) | 1 | 2022-11-10 to 2022-11-10 |
+| `lei-14466-de-2022` | Revoga a Lei nº 14.125, de 10 de março de 2021, que "dispõe sobre a responsabilidade civil relativa a eventos adversos pós-vacinação contra a Covid-19 e sobre a aquisição e distribuição de vacinas por pessoas... (Lei nº 14.466, de 16 de novembro de 2022) | 1 | 2022-11-17 to 2022-11-17 |
+| `lei-14467-de-2022` | Dispõe sobre o tratamento tributário aplicável às perdas incorridas no recebimento de créditos decorrentes das atividades das instituições financeiras e das demais instituições autorizadas a funcionar pelo Banco... (Lei nº 14.467, de 16 de novembro de 2022) | 1 | 2026-05-04 to 2026-05-04 |
+| `lei-14468-de-2022` | Altera a Lei nº 12.343, de 2 de dezembro de 2010, para ampliar o período de vigência do Plano Nacional de Cultura (PNC) (Lei nº 14.468, de 16 de novembro de 2022) | 1 | 2022-11-17 to 2022-11-17 |
+| `lei-14470-de-2022` | Altera a Lei nº 12.529, de 30 de novembro de 2011 (Lei de Defesa da Concorrência), para prever novas disposições aplicáveis à repressão de infrações à ordem econômica (Lei nº 14.470, de 16 de novembro de 2022) | 1 | 2022-11-17 to 2022-11-17 |
+| `lei-14473-de-2022` | Altera a Lei nº 5.851, de 7 de dezembro de 1972, para prever que constituirão recursos da Empresa Brasileira de Pesquisa Agropecuária (Embrapa) os oriundos dos contratos de transferência de tecnologias e dos... (Lei nº 14.473, de 6 de dezembro de 2022) | 1 | 2022-12-07 to 2022-12-07 |
+| `lei-14474-de-2022` | Altera a Lei nº 9.636, de 15 de maio de 1998, para modificar a forma de reajuste das receitas patrimoniais da União decorrentes da atualização da planta de valores e desburocratizar procedimentos de alienação e... (Lei nº 14.474, de 6 de dezembro de 2022) | 1 | 2022-12-07 to 2022-12-07 |
+| `lei-14475-de-2022` | Institui a Política Nacional de Incentivo à Agricultura e Pecuária de Precisão para ampliação da eficiência na aplicação de recursos e insumos de produção, de forma a diminuir o desperdício, reduzir os custos de... (Lei nº 14.475, de 13 de dezembro de 2022) | 1 | 2022-12-14 to 2022-12-14 |
+| `lei-14476-de-2022` | Dispõe sobre o funcionamento e as operações do Fundo Geral de Turismo e passa a denominá-lo Novo Fungetur (Lei nº 14.476, de 14 de dezembro de 2022) | 1 | 2022-12-15 to 2022-12-15 |
+| `lei-14479-de-2022` | Institui a Política Nacional de Desfazimento e Recondicionamento de Equipamentos Eletroeletrônicos e dispõe sobre o Programa Computadores para Inclusão (Lei nº 14.479, de 21 de dezembro de 2022) | 1 | 2022-12-22 to 2022-12-22 |
+| `lei-14489-de-2022` | Altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), para vedar o emprego de técnicas construtivas hostis em espaços livres de uso público – Lei Padre Júlio Lancelotti (Lei nº 14.489, de 21 de dezembro de 2022) | 1 | 2022-12-22 to 2022-12-22 |
+| `lei-14508-de-2022` | Altera o art. 6º da Lei nº 8.906, de 4 de julho de 1994, que “Dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB)”, para estabelecer normas sobre a posição topográfica dos advogados durante... (Lei nº 14.508, de 27 de dezembro de 2022) | 1 | 2022-12-28 to 2022-12-28 |
+| `lei-14510-de-2022` | Altera a Lei nº 8.080, de 19 de setembro de 1990, para autorizar e disciplinar a prática da telessaúde em todo o território nacional, e a Lei nº 13.146, de 6 de julho de 2015 (Lei nº 14.510, de 27 de dezembro de 2022) | 1 | 2022-12-28 to 2022-12-28 |
+| `lei-14513-de-2022` | Altera a Lei nº 14.194, de 20 de agosto de 2021, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2022 (Lei nº 14.513, de 27 de dezembro de 2022) | 1 | 2022-12-28 to 2022-12-28 |
+| `lei-14514-de-2022` | Dispõe sobre a empresa Indústrias Nucleares do Brasil S.A. (INB), sobre a pesquisa, a lavra e a comercialização de minérios nucleares, de seus concentrados e derivados, e de materiais nucleares, e sobre a atividade... (Lei nº 14.514, de 29 de dezembro de 2022) | 1 | 2023-02-13 to 2023-02-13 |
+| `lei-14516-de-2022` | Altera a Lei nº 14.452, de 21 de setembro de 2022, que redefine os limites do Parque Nacional da Serra dos Órgãos (Lei nº 14.516, de 29 de dezembro de 2022) | 1 | 2022-12-30 to 2022-12-30 |
+| `lei-14520-de-2023` | Fixa o subsídio de Ministro do Supremo Tribunal Federal, referido no inciso XV do caput do art. 48 da Constituição Federal (Lei nº 14.520, de 9 de janeiro de 2023) | 1 | 2023-01-10 to 2023-01-10 |
+| `lei-14521-de-2023` | Dispõe sobre o subsídio do Procurador-Geral da República (Lei nº 14.521, de 9 de janeiro de 2023) | 1 | 2023-01-10 to 2023-01-10 |
+| `lei-14522-de-2023` | Fixa o subsídio do Defensor Público-Geral Federal (Lei nº 14.522, de 9 de janeiro de 2023) | 1 | 2023-01-10 to 2023-01-10 |
+| `lei-14523-de-2023` | Altera a Lei nº 11.416, de 15 de dezembro de 2006, para reajustar a remuneração das carreiras dos servidores dos quadros de pessoal do Poder Judiciário da União (Lei nº 14.523, de 9 de janeiro de 2023) | 1 | 2023-01-10 to 2023-01-10 |
+| `lei-14524-de-2023` | Altera a Lei nº 13.316, de 20 de julho de 2016, para reajustar a remuneração das carreiras dos servidores do Ministério Público da União e do Conselho Nacional do Ministério Público (Lei nº 14.524, de 9 de janeiro de 2023) | 1 | 2023-01-10 to 2023-01-10 |
+| `lei-14525-de-2023` | Altera a Lei nº 14.377, de 22 de junho de 2022, para reajustar a remuneração dos servidores integrantes do Plano de Carreiras e Cargos da Defensoria Pública da União e dos cargos em comissão e das funções de... (Lei nº 14.525, de 9 de janeiro de 2023) | 1 | 2023-01-10 to 2023-01-10 |
+| `lei-14526-de-2023` | Altera a Lei nº 12.300, de 28 de julho de 2010, para reajustar as Tabelas de Vencimentos Básicos dos Servidores Ocupantes de Cargo Efetivo do Quadro de Pessoal do Senado Federal (Lei nº 14.526, de 9 de janeiro de 2023) | 1 | 2023-01-10 to 2023-01-10 |
+| `lei-14527-de-2023` | Altera a Lei nº 10.356, de 27 de dezembro de 2001, para reajustar a remuneração dos servidores do quadro de pessoal do Tribunal de Contas da União (Lei nº 14.527, de 9 de janeiro de 2023) | 1 | 2023-01-10 to 2023-01-10 |
+| `lei-14528-de-2023` | Altera a Lei nº 12.777, de 28 de dezembro de 2012, para reajustar a remuneração dos servidores do Quadro de Pessoal da Câmara dos Deputados (Lei nº 14.528, de 9 de janeiro de 2023) | 1 | 2023-01-10 to 2023-01-10 |
+| `lei-14529-de-2023` | Altera a Lei nº 14.017, de 29 de junho de 2020, para dispor sobre a prorrogação da prestação de contas à União relativa aos recursos recebidos pelos entes federativos para a cultura (Lei nº 14.529, de 10 de janeiro de 2023) | 1 | 2023-01-11 to 2023-01-11 |
+| `lei-14530-de-2023` | Altera a Lei nº 11.930, de 22 de abril de 2009, para facilitar a localização de doadores cadastrados no Registro Nacional de Doadores de Medula Óssea (Redome) (Lei nº 14.530, de 10 de janeiro de 2023) | 1 | 2023-01-11 to 2023-01-11 |
+| `lei-14531-de-2023` | Altera as Leis nºs 13.675, de 11 de junho de 2018, que cria a Política Nacional de Segurança Pública e Defesa Social (PNSPDS), e 13.819, de 26 de abril de 2019, que institui a Política Nacional de Prevenção da... (Lei nº 14.531, de 10 de janeiro de 2023) | 1 | 2023-01-11 to 2023-01-11 |
+| `lei-14533-de-2023` | Institui a Política Nacional de Educação Digital e altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), 9.448, de 14 de março de 1997, 10.260, de 12 de julho de 2001,... (Lei nº 14.533, de 11 de janeiro de 2023) | 1 | 2023-01-11 to 2023-01-11 |
+| `lei-14536-de-2023` | Altera a Lei nº 11.350, de 5 de outubro de 2006, a fim de considerar os Agentes Comunitários de Saúde e os Agentes de Combate às Endemias como profissionais de saúde, com profissões regulamentadas, para a finalidade... (Lei nº 14.536, de 20 de janeiro de 2023) | 1 | 2023-01-20 to 2023-01-20 |
+| `lei-14538-de-2023` | Altera as Leis nºs 9.656, de 3 de junho de 1998, e 9.797, de 6 de maio de 1999, para assegurar às pacientes a substituição do implante mamário utilizado na reconstrução mamária ou na simetrização da mama... (Lei nº 14.538, de 31 de março de 2023) | 1 | 2023-07-02 to 2023-07-02 |
+| `lei-14540-de-2023` | Institui o Programa de Prevenção e Enfrentamento ao Assédio Sexual e demais Crimes contra a Dignidade Sexual e à Violência Sexual no âmbito da administração pública, direta e indireta, federal, estadual, distrital e... (Lei nº 14.540, de 3 de abril de 2023) | 1 | 2023-04-04 to 2023-04-04 |
+| `lei-14541-de-2023` | Dispõe sobre a criação e o funcionamento ininterrupto de Delegacias Especializadas de Atendimento à Mulher (Lei nº 14.541, de 3 de abril de 2023) | 1 | 2023-04-04 to 2023-04-04 |
+| `lei-14542-de-2023` | Altera a Lei nº 13.667, de 17 de maio de 2018, para dispor sobre a prioridade no atendimento às mulheres em situação de violência doméstica e familiar pelo Sistema Nacional de Emprego (Sine) (Lei nº 14.542, de 3 de abril de 2023) | 1 | 2023-04-04 to 2023-04-04 |
+| `lei-14543-de-2023` | Institui a Semana Nacional de Conscientização sobre a Depressão, a ser celebrada anualmente na semana que compreender o dia 10 de outubro (Lei nº 14.543, de 3 de abril de 2023) | 1 | 2023-04-04 to 2023-04-04 |
+| `lei-14544-de-2023` | Dispõe sobre a gestão e a operacionalização dos pedidos das indenizações previstas no art. 3º da Lei nº 6.194, de 19 de dezembro de 1974, com vistas a assegurar a sua continuidade (Lei nº 14.544, de 4 de abril de 2023) | 1 | 2023-04-05 to 2023-04-05 |
+| `lei-14546-de-2023` | Altera a Lei nº 11.445, de 5 de janeiro de 2007 (Lei de Saneamento Básico), para estabelecer medidas de prevenção a desperdícios, de aproveitamento das águas de chuva e de reúso não potável das águas cinzas (Lei nº 14.546, de 4 de abril de 2023) | 1 | 2023-04-05 to 2023-04-05 |
+| `lei-14547-de-2023` | Altera a Lei nº 12.973, de 13 de maio de 2014, para ampliar o prazo de vigência do crédito presumido e do regime de consolidação (Lei nº 14.547, de 13 de abril de 2023) | 1 | 2023-04-14 to 2023-04-14 |
+| `lei-14548-de-2023` | Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para compatibilizá-la com a Lei nº 12.127, de 17 de dezembro de 2009, que criou o Cadastro Nacional de Crianças e Adolescentes... (Lei nº 14.548, de 13 de abril de 2023) | 1 | 2023-04-14 to 2023-04-14 |
+| `lei-14549-de-2023` | Institui a Semana Nacional do Uso Consciente da Água (Lei nº 14.549, de 13 de abril de 2023) | 1 | 2023-04-14 to 2023-04-14 |
+| `lei-14550-de-2023` | Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre as medidas protetivas de urgência e estabelecer que a causa ou a motivação dos atos de violência e a condição do ofensor ou da... (Lei nº 14.550, de 19 de abril de 2023) | 1 | 2023-04-20 to 2023-04-20 |
+| `lei-14553-de-2023` | Altera os arts. 39 e 49 da Lei nº 12.288, de 20 de julho de 2010 (Estatuto da Igualdade Racial), para determinar procedimentos e critérios de coleta de informações relativas à distribuição dos segmentos étnicos e... (Lei nº 14.553, de 20 de abril de 2023) | 1 | 2023-04-24 to 2023-04-24 |
+| `lei-14554-de-2023` | Altera as Leis nºs 13.999, de 18 de maio de 2020, 14.166, de 10 de junho de 2021, 11.540, de 12 de novembro de 2007, e 14.042, de 19 de agosto de 2020, para flexibilizar e aprimorar as condições de contratação e de... (Lei nº 14.554, de 20 de abril de 2023) | 1 | 2023-04-24 to 2023-04-24 |
+| `lei-14555-de-2023` | Reconhece as festas juninas como manifestação da cultura nacional (Lei nº 14.555, de 25 de abril de 2023) | 1 | 2024-06-24 to 2024-06-24 |
+| `lei-14556-de-2023` | Institui a campanha Janeiro Branco, dedicada à promoção da saúde mental (Lei nº 14.556, de 25 de abril de 2023) | 1 | 2023-04-26 to 2023-04-26 |
+| `lei-14560-de-2023` | Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para inserir, como despesa de manutenção e desenvolvimento do ensino, aquela realizada com atividades curriculares... (Lei nº 14.560, de 26 de abril de 2023) | 1 | 2023-04-27 to 2023-04-27 |
+| `lei-14561-de-2023` | Dispõe sobre a transformação de cargos vagos de Analista e de Técnico do Ministério Público da União em cargos de Subprocurador-Geral do Trabalho e Procurador Regional do Trabalho e em cargos em comissão, código... (Lei nº 14.561, de 26 de abril de 2023) | 1 | 2023-04-27 to 2023-04-27 |
+| `lei-14562-de-2023` | Altera o art. 311 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para criminalizar a conduta de quem adultera sinal identificador de veículo não categorizado como automotor (Lei nº 14.562, de 26 de abril de 2023) | 1 | 2023-04-27 to 2023-04-27 |
+| `lei-14563-de-2023` | Altera o Anexo V à Lei nº 14.535, de 17 de janeiro de 2023, que estima a receita e fixa a despesa da União para o exercício financeiro de 2023 (Lei nº 14.563, de 28 de abril de 2023) | 1 | 2023-04-28 to 2023-04-28 |
+| `lei-14564-de-2023` | Altera a Lei nº 12.715, de 17 de setembro de 2012, para prorrogar a faculdade de dedução do imposto sobre a renda dos valores correspondentes a doações e patrocínios em prol de ações e serviços do Programa Nacional... (Lei nº 14.564, de 4 de maio de 2023) | 1 | 2023-05-04 to 2023-05-04 |
+| `lei-14566-de-2023` | Altera a Lei nº 5.809, de 10 de outubro de 1972, para estabelecer regras de aplicação do fator de conversão da retribuição básica (Lei nº 14.566, de 4 de maio de 2023) | 1 | 2023-05-05 to 2023-05-05 |
+| `lei-14567-de-2023` | Reconhece as escolas de samba como manifestação da cultura nacional (Lei nº 14.567, de 4 de maio de 2023) | 1 | 2023-05-05 to 2023-05-05 |
+| `lei-14568-de-2023` | Altera a Lei nº 8.313, de 23 de dezembro de 1991, a fim de possibilitar que recursos do Programa Nacional de Apoio à Cultura (Pronac) sejam utilizados para estimular a participação de artistas locais e regionais em... (Lei nº 14.568, de 4 de maio de 2023) | 1 | 2023-05-05 to 2023-05-05 |
+| `lei-14572-de-2023` | Institui a Política Nacional de Saúde Bucal no âmbito do Sistema Único de Saúde (SUS) e altera a Lei nº 8.080, de 19 de setembro de 1990, para incluir a saúde bucal no campo de atuação do SUS (Lei nº 14.572, de 8 de maio de 2023) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-14580-de-2023` | Autoriza a prorrogação de contratos por tempo determinado e a contratação de profissionais, para os fins que especifica, no âmbito do Ministério da Saúde (Lei nº 14.580, de 11 de maio de 2023) | 1 | 2023-05-12 to 2023-05-12 |
+| `lei-14582-de-2023` | Dispõe sobre a criação de cargos de provimento efetivo e de cargos em comissão no Quadro de Pessoal do Tribunal Superior do Trabalho e dá outras providências (Lei nº 14.582, de 16 de maio de 2023) | 1 | 2023-05-17 to 2023-05-17 |
+| `lei-14583-de-2023` | Dispõe sobre a difusão por órgãos públicos dos direitos fundamentais e dos direitos humanos, especialmente os que tratam de mulheres, crianças, adolescentes e idosos (Lei nº 14.583, de 16 de maio de 2023) | 1 | 2023-05-17 to 2023-05-17 |
+| `lei-14588-de-2023` | Institui a Semana Nacional de Conscientização sobre Hemangiomas e Anomalias Vasculares (Lei nº 14.588, de 18 de maio de 2023) | 1 | 2023-05-19 to 2023-05-19 |
+| `lei-14590-de-2023` | Altera a Lei nº 11.284, de 2 de março de 2006, que dispõe sobre a gestão de florestas públicas para a produção sustentável, a Lei nº 11.516, de 28 de agosto de 2007, que dispõe sobre a criação do Instituto Chico... (Lei nº 14.590, de 24 de maio de 2023) | 1 | 2023-05-25 to 2023-05-25 |
+| `lei-14591-de-2023` | Dispõe sobre a transformação de cargos de Analista do Ministério Público da União em cargos de Procurador da Justiça Militar, em cargos de Promotor da Justiça Militar e em cargos em comissão que especifica, no âmbito... (Lei nº 14.591, de 25 de maio de 2023) | 1 | 2023-05-26 to 2023-05-26 |
+| `lei-14592-de-2023` | Altera a Lei nº 14.148, de 3 de maio de 2021, que instituiu o Programa Emergencial de Retomada do Setor de Eventos (Perse) (Lei nº 14.592, de 30 de maio de 2023) | 1 | 2023-12-29 to 2023-12-29 |
+| `lei-14593-de-2023` | Altera a Lei nº 13.693, de 10 de julho de 2018, para instituir a Semana Nacional da Informação, Capacitação e Pesquisa sobre Doenças Raras e alterar a denominação do Dia Nacional de Doenças Raras (Lei nº 14.593, de 2 de junho de 2023) | 1 | 2023-06-05 to 2023-06-05 |
+| `lei-14595-de-2023` | Altera a Lei nº 12.651, de 25 de maio de 2012, de forma a regulamentar prazos e condições para a adesão ao Programa de Regularização Ambiental (PRA), e a Lei n° 11.428, de 22 de dezembro de 2006 (Lei nº 14.595, de 5 de junho de 2023) | 1 | 2023-06-06 to 2023-06-06 |
+| `lei-14598-de-2023` | Dispõe sobre a realização de exames em gestantes (Lei nº 14.598, de 14 de junho de 2023) | 1 | 2023-06-15 to 2023-06-15 |
+| `lei-14599-de-2023` | Posterga a exigência do exame toxicológico periódico para obtenção e renovação da Carteira Nacional de Habilitação (Lei nº 14.599, de 19 de junho de 2023) | 1 | 2023-06-20 to 2023-06-20 |
+| `lei-14602-de-2023` | Altera a Lei nº 7.498, de 25 de junho de 1986, para dispor sobre as condições de repouso dos profissionais de enfermagem durante o horário de trabalho (Lei nº 14.602, de 20 de junho de 2023) | 1 | 2023-06-21 to 2023-06-21 |
+| `lei-14603-de-2023` | Reconhece o carnaval do Município de Nova Russas, no Estado do Ceará, como manifestação da cultura nacional (Lei nº 14.603, de 20 de junho de 2023) | 1 | 2023-06-21 to 2023-06-21 |
+| `lei-14606-de-2023` | Institui o mês de abril como o Mês da Conscientização da Doença de Parkinson e estabelece como seu símbolo a tulipa vermelha (Lei nº 14.606, de 20 de junho de 2023) | 1 | 2024-12-02 to 2024-12-02 |
+| `lei-14610-de-2023` | Inscreve no Livro dos Heróis e Heroínas da Pátria o nome do Brigadeiro Antônio Tibúrcio Ferreira de Souza (Lei nº 14.610, de 28 de junho de 2023) | 1 | 2023-06-29 to 2023-06-29 |
+| `lei-14611-de-2023` | Dispõe sobre a igualdade salarial e de critérios remuneratórios entre mulheres e homens (Lei nº 14.611, de 3 de julho de 2023) | 1 | 2023-07-04 to 2023-07-04 |
+| `lei-14612-de-2023` | Altera a Lei nº 8.906, de 4 de julho de 1994 (Estatuto da Advocacia), para incluir o assédio moral, o assédio sexual e a discriminação entre as infrações ético-disciplinares no âmbito da Ordem dos Advogados do Brasil (Lei nº 14.612, de 3 de julho de 2023) | 1 | 2023-07-04 to 2023-07-04 |
+| `lei-14613-de-2023` | Altera a Lei nº 13.802, de 10 de janeiro de 2019, para dispor sobre as ações desenvolvidas durante as atividades do Julho Amarelo (Lei nº 14.613, de 3 de julho de 2023) | 1 | 2023-07-04 to 2023-07-04 |
+| `lei-14614-de-2023` | Altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para garantir às atletas gestantes ou puérperas, no âmbito da Bolsa-Atleta, o respeito à maternidade e aos direitos que as protegem (Lei nº 14.614, de 3 de julho de 2023) | 1 | 2023-07-04 to 2023-07-04 |
+| `lei-14615-de-2023` | Altera a Lei nº 12.188, de 11 de janeiro de 2010, para estabelecer novo prazo para o credenciamento de Entidade Executora do Programa Nacional de Assistência Técnica e Extensão Rural na Agricultura Familiar e na... (Lei nº 14.615, de 7 de julho de 2023) | 1 | 2023-07-10 to 2023-07-10 |
+| `lei-14617-de-2023` | Institui o mês de agosto como o Mês da Primeira Infância (Lei nº 14.617, de 10 de julho de 2023) | 1 | 2023-07-11 to 2023-07-11 |
+| `lei-14619-de-2023` | Inclui a Caminhada da Água como evento ambiental comemorativo do Dia Mundial da Água (Lei nº 14.619, de 11 de julho de 2023) | 1 | 2023-07-12 to 2023-07-12 |
+| `lei-14624-de-2023` | Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para instituir o uso do cordão de fita com desenhos de girassóis para a identificação de pessoas com deficiências ocultas (Lei nº 14.624, de 17 de julho de 2023) | 1 | 2023-07-17 to 2023-07-17 |
+| `lei-14625-de-2023` | Altera o Anexo V à Lei nº 14.535, de 17 de janeiro de 2023, que estima a receita e fixa a despesa da União para o exercício financeiro de 2023 (Lei nº 14.625, de 18 de julho de 2023) | 1 | 2023-07-18 to 2023-07-18 |
+| `lei-14626-de-2023` | Altera a Lei nº 10.048, de 8 de novembro de 2000, e a Lei nº 10.205, de 21 de março de 2001, para prever atendimento prioritário a pessoas com transtorno do espectro autista ou com mobilidade reduzida e a doadores de... (Lei nº 14.626, de 19 de julho de 2023) | 1 | 2023-07-20 to 2023-07-20 |
+| `lei-14627-de-2023` | Acrescenta a Estratégia 8.7 à Meta 8 do Anexo da Lei nº 13.005, de 25 de junho de 2014, referente ao Plano Nacional de Educação, para promover os direitos educacionais dos brasileiros residentes no exterior (Lei nº 14.627, de 19 de julho de 2023) | 1 | 2023-07-20 to 2023-07-20 |
+| `lei-14637-de-2023` | Institui a Política Nacional de Incentivo à Cultura de Flores e de Plantas Ornamentais de Qualidade (Lei nº 14.637, de 25 de julho de 2023) | 1 | 2023-07-26 to 2023-07-26 |
+| `lei-14639-de-2023` | Institui a Política Nacional de Incentivo à Produção Melífera e ao Desenvolvimento de Produtos e Serviços Apícolas e Meliponícolas de Qualidade (Lei nº 14.639, de 25 de julho de 2023) | 1 | 2023-07-26 to 2023-07-26 |
+| `lei-14640-de-2023` | Institui o Programa Escola em Tempo Integral (Lei nº 14.640, de 31 de julho de 2023) | 1 | 2024-08-01 to 2024-08-01 |
+| `lei-14643-de-2023` | Autoriza o Poder Executivo a implantar serviço de monitoramento de ocorrências de violência escolar (Lei nº 14.643, de 2 de agosto de 2023) | 1 | 2023-08-03 to 2023-08-03 |
+| `lei-14644-de-2023` | Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para prever a instituição de Conselhos Escolares e de Fóruns dos Conselhos Escolares (Lei nº 14.644, de 2 de agosto de 2023) | 1 | 2023-08-03 to 2023-08-03 |
+| `lei-14645-de-2023` | Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre a educação profissional e tecnológica e articular a educação profissional técnica de nível médio... (Lei nº 14.645, de 2 de agosto de 2023) | 1 | 2023-08-03 to 2023-08-03 |
+| `lei-14647-de-2023` | Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para estabelecer a inexistência de vínculo empregatício entre entidades religiosas ou instituições de... (Lei nº 14.647, de 4 de agosto de 2023) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-14648-de-2023` | Autoriza a ozonioterapia no território nacional (Lei nº 14.648, de 4 de agosto de 2023) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-14649-de-2023` | Inscreve no Livro dos Heróis e Heroínas da Pátria o nome de Margarida Alves (Lei nº 14.649, de 16 de agosto de 2023) | 1 | 2023-08-17 to 2023-08-17 |
+| `lei-14651-de-2023` | Altera o Decreto-Lei nº 1.455, de 7 de abril de 1976, as Leis nºs 10.833, de 29 de dezembro de 2003, e 14.286, de 29 de dezembro de 2021, para dispor sobre a aplicação e o julgamento da pena de perdimento de... (Lei nº 14.651, de 23 de agosto de 2023) | 1 | 2023-08-24 to 2023-08-24 |
+| `lei-14652-de-2023` | Dispõe sobre a faculdade de concessão, como garantia de operações de crédito, do direito de resgate assegurado aos participantes de planos de previdência complementar aberta, aos segurados de seguros de pessoas, aos... (Lei nº 14.652, de 23 de agosto de 2023) | 1 | 2023-08-24 to 2023-08-24 |
+| `lei-14653-de-2023` | Altera as Leis nºs 12.651, de 25 de maio de 2012, e 14.119, de 13 de janeiro de 2021, para disciplinar a intervenção e a implantação de instalações necessárias à recuperação e à proteção de nascentes (Lei nº 14.653, de 23 de agosto de 2023) | 1 | 2023-08-24 to 2023-08-24 |
+| `lei-14655-de-2023` | Altera a Lei nº 8.080, de 19 de setembro de 1990, para assegurar a participação de especialista indicado pela Associação Médica Brasileira na Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Lei nº 14.655, de 23 de agosto de 2023) | 1 | 2023-08-24 to 2023-08-24 |
+| `lei-14657-de-2023` | Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para permitir que as partes e os advogados se retirem em caso de atraso injustificado do início de audiência (Lei nº 14.657, de 23 de agosto de 2023) | 1 | 2023-08-24 to 2023-08-24 |
+| `lei-14658-de-2023` | Institui o Estado do Tocantins como Rota Nacional do Turismo de Aventura, Ecológico, Rural, de Sol e Praia Doce, de Vivência, Cultural, Religioso e Gastronômico (Lei nº 14.658, de 23 de agosto de 2023) | 1 | 2023-08-24 to 2023-08-24 |
+| `lei-14660-de-2023` | Altera o art. 14 da Lei nº 11.947, de 16 de junho de 2009, para incluir grupos formais e informais de mulheres da agricultura familiar entre aqueles com prioridade na aquisição de gêneros alimentícios no âmbito do... (Lei nº 14.660, de 23 de agosto de 2023) | 1 | 2023-08-24 to 2023-08-24 |
+| `lei-14661-de-2023` | Acrescenta art. 1.815-A à Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para determinar, nos casos de indignidade, que o trânsito em julgado da sentença penal condenatória acarretará a exclusão imediata do... (Lei nº 14.661, de 23 de agosto de 2023) | 1 | 2023-08-24 to 2023-08-24 |
+| `lei-14662-de-2023` | Altera a Lei nº 11.107, de 6 de abril de 2005, para determinar que a alteração de contrato de consórcio público dependerá de ratificação mediante leis aprovadas pela maioria dos entes federativos consorciados (Lei nº 14.662, de 24 de agosto de 2023) | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-14663-de-2023` | Define o valor do salário mínimo a partir de 1º de maio de 2023 (Lei nº 14.663, de 28 de agosto de 2023) | 1 | 2023-08-28 to 2023-08-28 |
+| `lei-14666-de-2023` | Institui a Política Nacional de Estímulo ao Empreendedorismo do Jovem do Campo (PNEEJC) e define seus princípios, objetivos e ações (Lei nº 14.666, de 4 de setembro de 2023) | 1 | 2023-09-05 to 2023-09-05 |
+| `lei-14667-de-2023` | Institui a Semana Nacional do Empreendedorismo Feminino (Lei nº 14.667, de 4 de setembro de 2023) | 1 | 2023-09-05 to 2023-09-05 |
+| `lei-14668-de-2023` | Concede ao Município de São Luís, capital do Estado do Maranhão, o título de Capital Nacional do Reggae (Lei nº 14.668, de 11 de setembro de 2023) | 1 | 2023-09-12 to 2023-09-12 |
+| `lei-14671-de-2023` | Altera a Lei nº 6.437, de 20 de agosto de 1977, para dispor sobre a celebração de termo de compromisso com a finalidade de promover correções e ajustes às exigências da legislação sanitária (Lei nº 14.671, de 11 de setembro de 2023) | 1 | 2023-09-12 to 2023-09-12 |
+| `lei-14674-de-2023` | Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre auxílio-aluguel a ser concedido pelo juiz em decorrência de situação de vulnerabilidade social e econômica da ofendida afastada... (Lei nº 14.674, de 14 de setembro de 2023) | 1 | 2023-09-15 to 2023-09-15 |
+| `lei-14675-de-2023` | Dispõe sobre o funcionamento dos serviços privados de vacinação humana (Lei nº 14.675, de 14 de setembro de 2023) | 1 | 2023-12-14 to 2023-12-14 |
+| `lei-14676-de-2023` | Cria funções comissionadas no Quadro de Pessoal do Tribunal de Justiça do Distrito Federal e dos Territórios (Lei nº 14.676, de 18 de setembro de 2023) | 1 | 2023-09-19 to 2023-09-19 |
+| `lei-14677-de-2023` | Cria funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 22ª Região e dá outras providências (Lei nº 14.677, de 18 de setembro de 2023) | 1 | 2023-09-19 to 2023-09-19 |
+| `lei-14678-de-2023` | Institui a Semana do Migrante e do Refugiado (Lei nº 14.678, de 18 de setembro de 2023) | 1 | 2023-09-19 to 2023-09-19 |
+| `lei-14679-de-2023` | Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional) e a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para incluir a proteção integral dos direitos de... (Lei nº 14.679, de 18 de setembro de 2023) | 1 | 2023-11-03 to 2023-11-03 |
+| `lei-14680-de-2023` | Altera a Lei nº 13.960, de 19 de dezembro de 2019, para postergar a instituição do Biênio da Primeira Infância do Brasil, originalmente instituído no período de 2020 a 2021 (Lei nº 14.680, de 18 de setembro de 2023) | 1 | 2023-09-19 to 2023-09-19 |
+| `lei-14681-de-2023` | Institui a Política de Bem-Estar, Saúde e Qualidade de Vida no Trabalho e Valorização dos Profissionais da Educação (Lei nº 14.681, de 18 de setembro de 2023) | 1 | 2023-09-19 to 2023-09-19 |
+| `lei-14683-de-2023` | Institui o selo Empresa Amiga da Amamentação, para estimular o desenvolvimento de ações de incentivo ao aleitamento materno (Lei nº 14.683, de 20 de setembro de 2023) | 1 | 2023-09-21 to 2023-09-21 |
+| `lei-14684-de-2023` | Acrescenta inciso ao art. 193 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para considerar perigosas as atividades desempenhadas pelos agentes das autoridades... (Lei nº 14.684, de 20 de setembro de 2023) | 1 | 2023-09-21 to 2023-09-21 |
+| `lei-14685-de-2023` | Acrescenta dispositivo à Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para determinar ao poder público a obrigação de divulgar a lista de espera por vagas nos... (Lei nº 14.685, de 20 de setembro de 2023) | 1 | 2023-09-21 to 2023-09-21 |
+| `lei-14687-de-2023` | Dispõe sobre a criação de funções comissionadas e cargos efetivos no Quadro de Pessoal do Conselho Nacional de Justiça (Lei nº 14.687, de 20 de setembro de 2023) | 1 | 2023-09-21 to 2023-09-21 |
+| `lei-14688-de-2023` | Altera o Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), a fim de compatibilizá-lo com o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e com a Constituição Federal, e a Lei nº... (Lei nº 14.688, de 20 de setembro de 2023) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-14689-de-2023` | Disciplina a proclamação de resultados de julgamentos na hipótese de empate na votação no âmbito do Conselho Administrativo de Recursos Fiscais (Carf) (Lei nº 14.689, de 20 de setembro de 2023) | 1 | 2023-09-21 to 2023-09-21 |
+| `lei-14690-de-2023` | Institui o Programa Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes – Desenrola Brasil (Lei nº 14.690, de 3 de outubro de 2023) | 1 | 2026-09-25 to 2026-09-25 |
+| `lei-14691-de-2023` | Altera as Leis nºs 12.340, de 1º de dezembro de 2010, e 9.605, de 12 de fevereiro de 1998, para destinar parcela das arrecadações de recursos financeiros advindos do pagamento de multas por crimes e infrações... (Lei nº 14.691, de 3 de outubro de 2023) | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-14692-de-2023` | Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para possibilitar ao doador de recursos aos Fundos dos Direitos da Criança e do Adolescente a indicação da destinação desses... (Lei nº 14.692, de 3 de outubro de 2023) | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-14694-de-2023` | Institui o Novembrinho Azul, a ser realizado no mês de novembro (Lei nº 14.694, de 10 de outubro de 2023) | 1 | 2023-10-11 to 2023-10-11 |
+| `lei-14695-de-2023` | Altera a Lei nº 11.892, de 29 de dezembro de 2008, para proporcionar acesso a bolsas de pesquisa, de desenvolvimento, de inovação e de intercâmbio a alunos, a docentes, a ocupantes de cargo público efetivo, a... (Lei nº 14.695, de 10 de outubro de 2023) | 1 | 2023-10-11 to 2023-10-11 |
+| `lei-14697-de-2023` | Altera o Decreto-Lei nº 288, de 28 de fevereiro de 1967, para estabelecer prazo máximo para análise de proposta de Processo Produtivo Básico (PPB) (Lei nº 14.697, de 11 de outubro de 2023) | 1 | 2023-10-16 to 2023-10-16 |
+| `lei-14698-de-2023` | Erige em monumento nacional o Caminho da Estrada Real, que abrange os Estados de Minas Gerais, Rio de Janeiro e São Paulo (Lei nº 14.698, de 19 de outubro de 2023) | 1 | 2023-10-20 to 2023-10-20 |
+| `lei-14701-de-2023` | Regulamenta o art. 231 da Constituição Federal, para dispor sobre o reconhecimento, a demarcação, o uso e a gestão de terras indígenas (Lei nº 14.701, de 20 de outubro de 2023) | 1 | 2023-10-20 to 2023-10-20 |
+| `lei-14704-de-2023` | Altera a Lei nº 12.319, de 1º de setembro de 2010, para dispor sobre o exercício profissional e as condições de trabalho do profissional tradutor, intérprete e guia-intérprete da Língua Brasileira de Sinais (Libras) (Lei nº 14.704, de 25 de outubro de 2023) | 1 | 2023-10-26 to 2023-10-26 |
+| `lei-14705-de-2023` | Estabelece diretrizes para o atendimento prestado pelo Sistema Único de Saúde (SUS) às pessoas acometidas por Síndrome de Fibromialgia ou Fadiga Crônica ou por Síndrome Complexa de Dor Regional ou outras doenças... (Lei nº 14.705, de 25 de outubro de 2023) | 1 | 2025-07-24 to 2025-07-24 |
+| `lei-14711-de-2023` | Dispõe sobre o aprimoramento das regras de garantia, a execução extrajudicial de créditos garantidos por hipoteca, a execução extrajudicial de garantia imobiliária em concurso de credores, o procedimento de busca e... (Lei nº 14.711, de 30 de outubro de 2023) | 1 | 2023-12-15 to 2023-12-15 |
+| `lei-14713-de-2023` | Altera as Leis nºs 10.406, de 10 de janeiro de 2002 (Código Civil), 13.105, de 16 de março de 2015 (Código de Processo Civil), para estabelecer o risco de violência doméstica ou familiar como causa impeditiva ao... (Lei nº 14.713, de 30 de outubro de 2023) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-14714-de-2023` | Altera a Lei nº 7.661, de 16 de maio de 1988, para incluir como diretriz do Plano Nacional de Gerenciamento Costeiro (PNGC) o controle da erosão marítima e fluvial (Lei nº 14.714, de 30 de outubro de 2023) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-14715-de-2023` | Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para incluir no campo de atuação do Sistema Único de Saúde (SUS) a formulação e a execução da política de informação e assistência... (Lei nº 14.715, de 30 de outubro de 2023) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-14718-de-2023` | Erige em monumento nacional a Rota do Café (Lei nº 14.718, de 1º de novembro de 2023) | 1 | 2023-11-03 to 2023-11-03 |
+| `lei-14719-de-2023` | Institui o Pacto Nacional pela Retomada de Obras e de Serviços de Engenharia Destinados à Educação Básica e Profissionalizante e à Saúde (Lei nº 14.719, de 1º de novembro de 2023) | 1 | 2023-11-03 to 2023-11-03 |
+| `lei-14720-de-2023` | Reconhece o forró como manifestação da cultura nacional (Lei nº 14.720, de 7 de novembro de 2023) | 1 | 2023-11-08 to 2023-11-08 |
+| `lei-14722-de-2023` | Institui a Política Nacional de Conscientização e Incentivo à Doação e ao Transplante de Órgãos e Tecidos (Lei nº 14.722, de 8 de novembro de 2023) | 1 | 2024-02-07 to 2024-02-07 |
+| `lei-14723-de-2023` | Altera a Lei nº 12.711, de 29 de agosto de 2012, para dispor sobre o programa especial para o acesso às instituições federais de educação superior e de ensino técnico de nível médio de estudantes pretos, pardos,... (Lei nº 14.723, de 13 de novembro de 2023) | 1 | 2023-11-14 to 2023-11-14 |
+| `lei-14724-de-2023` | Institui o Programa de Enfrentamento à Fila da Previdência Social (PEFPS) (Lei nº 14.724, de 14 de novembro de 2023) | 1 | 2024-11-13 to 2024-11-13 |
+| `lei-14725-de-2023` | Regula a profissão de sanitarista (Lei nº 14.725, de 16 de novembro de 2023) | 1 | 2023-11-17 to 2023-11-17 |
+| `lei-14740-de-2023` | Dispõe sobre a autorregularização incentivada de tributos administrados pela Secretaria Especial da Receita Federal do Brasil do Ministério da Fazenda (Lei nº 14.740, de 29 de novembro de 2023) | 1 | 2023-11-30 to 2023-11-30 |
+| `lei-14747-de-2023` | Institui o mês de setembro como o Mês de Conscientização sobre as Doenças Cardiovasculares (Lei nº 14.747, de 5 de dezembro de 2023) | 1 | 2024-01-05 to 2024-01-05 |
+| `lei-14748-de-2023` | Altera a Lei nº 12.587, de 3 de janeiro de 2012, a fim de dispor sobre o prazo para a elaboração do Plano de Mobilidade Urbana pelos Municípios (Lei nº 14.748, de 5 de dezembro de 2023) | 1 | 2023-12-06 to 2023-12-06 |
+| `lei-14750-de-2023` | Altera as Leis nºs 12.608, de 10 de abril de 2012, e 12.340, de 1º de dezembro de 2010, para aprimorar os instrumentos de prevenção de acidentes ou desastres e de recuperação de áreas por eles atingidas, as ações de... (Lei nº 14.750, de 12 de dezembro de 2023) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-14751-de-2023` | Institui a Lei Orgânica Nacional das Polícias Militares e dos Corpos de Bombeiros Militares dos Estados, do Distrito Federal e dos Territórios, nos termos do inciso XXI do caput do art. 22 da Constituição Federal,... (Lei nº 14.751, de 12 de dezembro de 2023) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-14752-de-2023` | Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e o Decreto-Lei nº 1.002, de 21 de outubro de 1969 (Código de Processo Penal Militar), para disciplinar o caso de abandono do... (Lei nº 14.752, de 12 de dezembro de 2023) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-14753-de-2023` | Altera a Medida Provisória nº 2.199-14, de 24 de agosto de 2001, para fixar novo prazo para a aprovação de projetos beneficiados com incentivos fiscais de redução e reinvestimento do imposto sobre a renda e... (Lei nº 14.753, de 12 de dezembro de 2023) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-14757-de-2023` | Altera a Lei nº 11.952, de 25 de junho de 2009, a Lei nº 8.629, de 25 de fevereiro de 1993, e a Lei nº 13.465, de 11 de julho de 2017, para dispor sobre a extinção de cláusulas resolutivas constantes de títulos... (Lei nº 14.757, de 19 de dezembro de 2023) | 1 | 2023-12-20 to 2023-12-20 |
+| `lei-14758-de-2023` | Institui a Política Nacional de Prevenção e Controle do Câncer no âmbito do Sistema Único de Saúde (SUS) e o Programa Nacional de Navegação da Pessoa com Diagnóstico de Câncer (Lei nº 14.758, de 19 de dezembro de 2023) | 1 | 2026-04-13 to 2026-04-13 |
+| `lei-14766-de-2023` | Acresce dispositivo à Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para estabelecer a não caracterização como perigosas das atividades ou operações que envolvam... (Lei nº 14.766, de 22 de dezembro de 2023) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-14767-de-2023` | Altera a Lei nº 9.394, de 20 de dezembro de 1996, que “estabelece as diretrizes e bases da educação nacional”, para possibilitar o uso da pedagogia da alternância nas escolas do campo (Lei nº 14.767, de 22 de dezembro de 2023) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-14770-de-2023` | Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para determinar o modo de disputa fechado nas licitações de obras e serviços que especifica, facultar a adesão de... (Lei nº 14.770, de 22 de dezembro de 2023) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-14784-de-2023` | Prorroga até 31 de dezembro de 2027 os prazos de que tratam os arts. 7º e 8º da Lei nº 12.546, de 14 de dezembro de 2011, e o caput do § 21 do art. 8º da Lei nº 10.865, de 30 de abril de 2004, e dá outras providências (Lei nº 14.784, de 27 de dezembro de 2023) | 1 | 2024-02-11 to 2024-02-11 |
+| `lei-14787-de-2023` | Altera a Lei nº 11.033, de 21 de dezembro de 2004, para prorrogar o Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária (Reporto) (Lei nº 14.787, de 28 de dezembro de 2023) | 1 | 2023-12-29 to 2023-12-29 |
+| `lei-14788-de-2023` | Altera a Lei nº 9.532, de 10 de dezembro de 1997, para aplicar o prazo constitucional de vigência dos benefícios fiscais da Zona Franca de Manaus e de áreas da Amazônia Ocidental (Lei nº 14.788, de 28 de dezembro de 2023) | 1 | 2023-12-29 to 2023-12-29 |
+| `lei-14794-de-2024` | Institui o ano de 2024 como Ano Nacional Fernando Sabino (Lei nº 14.794, de 5 de janeiro de 2024) | 1 | 2024-01-08 to 2024-01-08 |
+| `lei-14795-de-2024` | Inscreve os Lanceiros Negros no Livro dos Heróis e Heroínas da Pátria (Lei nº 14.795, de 5 de janeiro de 2024) | 1 | 2024-01-08 to 2024-01-08 |
+| `lei-14799-de-2024` | Altera a Lei nº 11.350, de 5 de outubro de 2006, para denominá-la Lei Ruth Brilhante (Lei nº 14.799, de 5 de janeiro de 2024) | 1 | 2024-01-08 to 2024-01-08 |
+| `lei-14801-de-2024` | Dispõe sobre as debêntures de infraestrutura (Lei nº 14.801, de 9 de janeiro de 2024) | 1 | 2026-09-16 to 2026-09-16 |
+| `lei-14802-de-2024` | Institui o Plano Plurianual da União para o período de 2024 a 2027 (Lei nº 14.802, de 10 de janeiro de 2024) | 1 | 2024-01-11 to 2024-01-11 |
+| `lei-14803-de-2024` | Altera a Lei nº 11.053, de 29 de dezembro de 2004, para permitir a participantes e assistidos de plano de previdência complementar optarem pelo regime de tributação por ocasião da obtenção do benefício ou do primeiro... (Lei nº 14.803, de 10 de janeiro de 2024) | 1 | 2024-01-11 to 2024-01-11 |
+| `lei-14804-de-2024` | Dispõe sobre a atuação do Tribunal de Contas da União (TCU) como membro do Conselho de Auditores da Organização das Nações Unidas (ONU) (Lei nº 14.804, de 10 de janeiro de 2024) | 1 | 2024-01-11 to 2024-01-11 |
+| `lei-14809-de-2024` | Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para estabelecer que os valores recebidos a título de auxílio financeiro temporário ou de indenização por danos sofridos em... (Lei nº 14.809, de 12 de janeiro de 2024) | 1 | 2024-01-15 to 2024-01-15 |
+| `lei-14810-de-2024` | Dispõe sobre a transformação de cargos efetivos em cargos em comissão e funções de confiança no quadro de pessoal do Ministério Público da União (Lei nº 14.810, de 12 de janeiro de 2024) | 1 | 2024-01-15 to 2024-01-15 |
+| `lei-14811-de-2024` | Institui medidas de proteção à criança e ao adolescente contra a violência nos estabelecimentos educacionais ou similares, prevê a Política Nacional de Prevenção e Combate ao Abuso e Exploração Sexual da Criança e do... (Lei nº 14.811, de 12 de janeiro de 2024) | 1 | 2024-01-15 to 2024-01-15 |
+| `lei-14812-de-2024` | Altera o Decreto-Lei nº 236, de 28 de fevereiro de 1967 (Lei nº 14.812, de 15 de janeiro de 2024) | 1 | 2024-01-16 to 2024-01-16 |
+| `lei-14813-de-2024` | Altera a Lei nº 9.537, de 11 de dezembro de 1997, que dispõe sobre a segurança do tráfego aquaviário em águas sob jurisdição nacional, para conferir segurança jurídica e estabilidade regulatória aos serviços de... (Lei nº 14.813, de 15 de janeiro de 2024) | 1 | 2024-01-16 to 2024-01-16 |
+| `lei-14814-de-2024` | Altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, que estabelece princípios gerais da Política Nacional do Cinema, para prorrogar o prazo de obrigatoriedade de exibição comercial de obras... (Lei nº 14.814, de 15 de janeiro de 2024) | 1 | 2024-01-16 to 2024-01-16 |
+| `lei-14815-de-2024` | Altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, que estabelece princípios gerais da Política Nacional do Cinema, e a Lei nº 12.485, de 12 de setembro de 2011, que dispõe sobre a comunicação... (Lei nº 14.815, de 15 de janeiro de 2024) | 1 | 2024-01-16 to 2024-01-16 |
+| `lei-14816-de-2024` | Altera a Lei nº 14.600, de 19 de junho de 2023, para criar o Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte (Lei nº 14.816, de 16 de janeiro de 2024) | 1 | 2024-01-17 to 2024-01-17 |
+| `lei-14817-de-2024` | Estabelece diretrizes para a valorização dos profissionais da educação escolar básica pública (Lei nº 14.817, de 16 de janeiro de 2024) | 1 | 2024-01-17 to 2024-01-17 |
+| `lei-14818-de-2024` | Institui incentivo financeiro-educacional, na modalidade de poupança, aos estudantes matriculados no ensino médio público (Lei nº 14.818, de 16 de janeiro de 2024) | 1 | 2025-11-21 to 2025-11-21 |
+| `lei-14819-de-2024` | Institui a Política Nacional de Atenção Psicossocial nas Comunidades Escolares (Lei nº 14.819, de 16 de janeiro de 2024) | 1 | 2024-01-17 to 2024-01-17 |
+| `lei-14820-de-2024` | Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para estabelecer a revisão periódica dos valores de remuneração dos serviços prestados ao Sistema Único de Saúde (SUS), com garantia da... (Lei nº 14.820, de 16 de janeiro de 2024) | 1 | 2024-01-17 to 2024-01-17 |
+| `lei-14821-de-2024` | Institui a Política Nacional de Trabalho Digno e Cidadania para a População em Situação de Rua (PNTC PopRua) (Lei nº 14.821, de 16 de janeiro de 2024) | 1 | 2024-01-17 to 2024-01-17 |
+| `lei-14824-de-2024` | Dispõe sobre a composição, o funcionamento e a competência do Conselho Superior da Justiça do Trabalho (Lei nº 14.824, de 20 de março de 2024) | 1 | 2024-03-21 to 2024-03-21 |
+| `lei-14825-de-2024` | Altera a Lei nº 13.097, de 19 de janeiro de 2015, para garantir a eficácia dos negócios jurídicos relativos a imóveis em cuja matrícula inexista averbação, mediante decisão judicial, de qualquer tipo de constrição... (Lei nº 14.825, de 20 de março de 2024) | 1 | 2024-03-21 to 2024-03-21 |
+| `lei-14828-de-2024` | Altera a Lei nº 11.326, de 24 de julho de 2006 (Lei da Agricultura Familiar), para ampliar o âmbito do planejamento e da execução das ações da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais (Lei nº 14.828, de 20 de março de 2024) | 1 | 2024-03-21 to 2024-03-21 |
+| `lei-14829-de-2024` | Reconhece a Festa de Nossa Senhora Achiropita, realizada no Município de São Paulo, no Estado de São Paulo, como manifestação da cultura nacional (Lei nº 14.829, de 26 de março de 2024) | 1 | 2024-03-27 to 2024-03-27 |
+| `lei-14831-de-2024` | Institui o Certificado Empresa Promotora da Saúde Mental e estabelece os requisitos para a concessão da certificação (Lei nº 14.831, de 27 de março de 2024) | 1 | 2024-03-28 to 2024-03-28 |
+| `lei-14832-de-2024` | Acrescenta art. 15-B à Lei nº 10.356, de 27 de dezembro de 2001, para instituir o Adicional de Especialização e Qualificação aos servidores do quadro de pessoal da Secretaria do Tribunal de Contas da União (Lei nº 14.832, de 27 de março de 2024) | 1 | 2024-03-28 to 2024-03-28 |
+| `lei-14833-de-2024` | Acrescenta parágrafo único ao art. 499 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para conferir ao réu a oportunidade de cumprir a tutela específica em caso de requerimento de sua conversão... (Lei nº 14.833, de 27 de março de 2024) | 1 | 2024-03-28 to 2024-03-28 |
+| `lei-14835-de-2024` | Institui o marco regulatório do Sistema Nacional de Cultura (SNC), para garantia dos direitos culturais, organizado em regime de colaboração entre os entes federativos para gestão conjunta das políticas públicas de... (Lei nº 14.835, de 4 de abril de 2024) | 1 | 2024-04-05 to 2024-04-05 |
+| `lei-14836-de-2024` | Altera a Lei nº 8.038, de 28 de maio de 1990, e o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre o resultado de julgamento em matéria penal ou processual penal em órgãos... (Lei nº 14.836, de 8 de abril de 2024) | 1 | 2024-04-09 to 2024-04-09 |
+| `lei-14837-de-2024` | Altera a Lei nº 12.244, de 24 de maio de 2010, que “dispõe sobre a universalização das bibliotecas nas instituições de ensino do País”, para modificar a definição de biblioteca escolar e criar o Sistema Nacional de... (Lei nº 14.837, de 8 de abril de 2024) | 1 | 2024-04-09 to 2024-04-09 |
+| `lei-14841-de-2024` | Reconhece o Município de Cruzeiro, no Estado de São Paulo, como Capital da Revolução Constitucionalista de 1932 (Lei nº 14.841, de 10 de abril de 2024) | 1 | 2024-04-11 to 2024-04-11 |
+| `lei-14842-de-2024` | Dispõe sobre a atividade profissional de musicoterapeuta (Lei nº 14.842, de 11 de abril de 2024) | 1 | 2024-04-11 to 2024-04-11 |
+| `lei-14843-de-2024` | Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a monitoração eletrônica do preso, prever a realização de exame criminológico para progressão de regime e restringir o... (Lei nº 14.843, de 11 de abril de 2024) | 1 | 2024-04-11 to 2024-04-11 |
+| `lei-14844-de-2024` | Institui a região turística Vale do Panema como Área Especial de Interesse Turístico, nos termos que especifica (Lei nº 14.844, de 24 de abril de 2024) | 1 | 2024-04-25 to 2024-04-25 |
+| `lei-14845-de-2024` | Reconhece como manifestação da cultura nacional os blocos e as bandas de carnaval (Lei nº 14.845, de 24 de abril de 2024) | 1 | 2024-04-25 to 2024-04-25 |
+| `lei-14846-de-2024` | Acrescenta dispositivo à Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para atribuir medida especial de proteção ao trabalho realizado em arquivos, em... (Lei nº 14.846, de 24 de abril de 2024) | 1 | 2024-04-25 to 2024-04-25 |
+| `lei-14847-de-2024` | Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para dispor sobre o atendimento de mulheres vítimas de violência em ambiente privativo e individualizado nos serviços de saúde prestados no... (Lei nº 14.847, de 25 de abril de 2024) | 1 | 2024-04-26 to 2024-04-26 |
+| `lei-14849-de-2024` | Altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), para exigir análise de mobilidade urbana nos estudos prévios de impacto de vizinhança (Lei nº 14.849, de 2 de maio de 2024) | 1 | 2024-05-03 to 2024-05-03 |
+| `lei-14850-de-2024` | Institui a Política Nacional de Qualidade do Ar (Lei nº 14.850, de 2 de maio de 2024) | 1 | 2024-05-03 to 2024-05-03 |
+| `lei-14851-de-2024` | Dispõe sobre a obrigatoriedade de criação de mecanismos de levantamento e de divulgação da demanda por vagas no atendimento à educação infantil de crianças de 0 (zero) a 3 (três) anos de idade (Lei nº 14.851, de 3 de maio de 2024) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-14855-de-2024` | Altera a Lei nº 14.791, de 29 de dezembro de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024 (Lei nº 14.855, de 16 de maio de 2024) | 1 | 2024-05-17 to 2024-05-17 |
+| `lei-14856-de-2024` | Altera a Lei nº 14.822, de 22 de janeiro de 2024, que estima a receita e fixa a despesa da União para o exercício financeiro de 2024 (Lei nº 14.856, de 17 de maio de 2024) | 1 | 2024-05-17 to 2024-05-17 |
+| `lei-14858-de-2024` | Altera a Lei nº 9.434, de 4 de fevereiro de 1997, que dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento, com o objetivo de instituir a obrigatoriedade de... (Lei nº 14.858, de 21 de maio de 2024) | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-14859-de-2024` | Altera a Lei nº 14.148, de 3 de maio de 2021, para estabelecer alíquotas reduzidas no âmbito do Programa Emergencial de Retomada do Setor de Eventos - Perse (Lei nº 14.859, de 22 de maio de 2024) | 1 | 2024-05-23 to 2024-05-23 |
+| `lei-14862-de-2024` | Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para permitir que os professores da educação básica pública utilizem os veículos de transporte escolar dos Estados,... (Lei nº 14.862, de 27 de maio de 2024) | 1 | 2024-05-28 to 2024-05-28 |
+| `lei-14872-de-2024` | Altera a Lei nº 12.340, de 1º de dezembro de 2010, para dispor sobre o custeio de ações de recuperação em propriedades de agricultura familiar atingidas por desastres (Lei nº 14.872, de 28 de maio de 2024) | 1 | 2024-05-29 to 2024-05-29 |
+| `lei-14873-de-2024` | Altera a Lei nº 9.430, de 27 de dezembro de 1996, para limitar a compensação tributária dos créditos decorrentes de decisões judiciais transitadas em julgado (Lei nº 14.873, de 28 de maio de 2024) | 1 | 2024-05-29 to 2024-05-29 |
+| `lei-14874-de-2024` | Dispõe sobre a pesquisa com seres humanos e institui o Sistema Nacional de Ética em Pesquisa com Seres Humanos (Lei nº 14.874, de 28 de maio de 2024) | 1 | 2024-08-27 to 2024-08-27 |
+| `lei-14876-de-2024` | Altera a descrição do Código 20 do Anexo VIII da Lei nº 6.938, de 31 de agosto de 1981, acrescido pela Lei nº 10.165, de 27 de dezembro de 2000, para excluir a silvicultura do rol de atividades potencialmente... (Lei nº 14.876, de 31 de maio de 2024) | 1 | 2024-05-31 to 2024-05-31 |
+| `lei-14878-de-2024` | Institui a Política Nacional de Cuidado Integral às Pessoas com Doença de Alzheimer e Outras Demências (Lei nº 14.878, de 4 de junho de 2024) | 1 | 2024-06-05 to 2024-06-05 |
+| `lei-14879-de-2024` | Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para estabelecer que a eleição de foro deve guardar pertinência com o domicílio das partes ou com o local da obrigação e que o ajuizamento de... (Lei nº 14.879, de 4 de junho de 2024) | 1 | 2024-06-05 to 2024-06-05 |
+| `lei-14880-de-2024` | Altera a Lei nº 13.257, de 8 de março de 2016 (Marco Legal da Primeira Infância), para instituir a Política Nacional de Atendimento Educacional Especializado a Crianças de Zero a Três Anos (Atenção Precoce) e para... (Lei nº 14.880, de 4 de junho de 2024) | 1 | 2024-06-05 to 2024-06-05 |
+| `lei-14882-de-2024` | Reconhece como manifestação da cultura nacional a Festa de São Vito, realizada no Município de São Paulo, no Estado de São Paulo (Lei nº 14.882, de 11 de junho de 2024) | 1 | 2024-06-12 to 2024-06-12 |
+| `lei-14886-de-2024` | Institui o Programa Nacional de Vacinação em Escolas Públicas (Lei nº 14.886, de 11 de junho de 2024) | 1 | 2024-06-12 to 2024-06-12 |
+| `lei-14887-de-2024` | Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer prioridade na assistência à mulher em situação de violência doméstica e familiar, e a Lei nº 13.239, de 30 de dezembro de 2015,... (Lei nº 14.887, de 12 de junho de 2024) | 1 | 2024-06-13 to 2024-06-13 |
+| `lei-14888-de-2024` | Dispõe sobre a criação de cargos de provimento efetivo e de cargos em comissão no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 19ª Região e dá outras providências (Lei nº 14.888, de 12 de junho de 2024) | 1 | 2024-06-13 to 2024-06-13 |
+| `lei-14899-de-2024` | Dispõe sobre a elaboração e a implementação de plano de metas para o enfrentamento integrado da violência doméstica e familiar contra a mulher, da Rede Estadual de Enfrentamento da Violência contra a Mulher e da Rede... (Lei nº 14.899, de 17 de junho de 2024) | 1 | 2026-04-10 to 2026-04-10 |
+| `lei-14900-de-2024` | Altera a Lei nº 14.555, de 25 de abril de 2023, para reconhecer as quadrilhas juninas como manifestação da cultura nacional (Lei nº 14.900, de 21 de junho de 2024) | 1 | 2024-06-24 to 2024-06-24 |
+| `lei-14902-de-2024` | Institui o Programa Mobilidade Verde e Inovação (Programa Mover) (Lei nº 14.902, de 27 de junho de 2024) | 1 | 2024-12-24 to 2024-12-24 |
+| `lei-14903-de-2024` | Estabelece o marco regulatório do fomento à cultura, no âmbito da administração pública da União, dos Estados, do Distrito Federal e dos Municípios (Lei nº 14.903, de 27 de junho de 2024) | 1 | 2024-06-28 to 2024-06-28 |
+| `lei-14904-de-2024` | Estabelece diretrizes para a elaboração de planos de adaptação à mudança do clima (Lei nº 14.904, de 27 de junho de 2024) | 1 | 2024-06-28 to 2024-06-28 |
+| `lei-14906-de-2024` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 5ª Região e dá outras providências (Lei nº 14.906, de 1º de julho de 2024) | 1 | 2024-07-02 to 2024-07-02 |
+| `lei-14911-de-2024` | Altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para coibir a prática de intimidação sistemática ( bullying ) no esporte (Lei nº 14.911, de 3 de julho de 2024) | 1 | 2024-07-04 to 2024-07-04 |
+| `lei-14912-de-2024` | Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para determinar a realização de campanhas permanentes sobre os riscos da automedicação (Lei nº 14.912, de 3 de julho de 2024) | 1 | 2024-07-04 to 2024-07-04 |
+| `lei-14913-de-2024` | Altera a Lei nº 11.788, de 25 de setembro de 2008, que dispõe sobre o estágio de estudantes, para disciplinar o intercâmbio internacional (Lei nº 14.913, de 3 de julho de 2024) | 1 | 2024-07-04 to 2024-07-04 |
+| `lei-14914-de-2024` | Institui a Política Nacional de Assistência Estudantil (PNAES) (Lei nº 14.914, de 3 de julho de 2024) | 1 | 2025-07-18 to 2025-07-18 |
+| `lei-14917-de-2024` | Dispõe sobre medidas emergenciais destinadas aos setores de turismo e de cultura do Estado do Rio Grande do Sul (Lei nº 14.917, de 5 de julho de 2024) | 1 | 2024-07-08 to 2024-07-08 |
+| `lei-14921-de-2024` | Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para estabelecer a idade máxima dos veículos destinados à formação de condutores (Lei nº 14.921, de 10 de julho de 2024) | 1 | 2024-07-11 to 2024-07-11 |
+| `lei-14924-de-2024` | Dispõe sobre a profissão de técnico em nutrição e dietética (Lei nº 14.924, de 12 de julho de 2024) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-14925-de-2024` | Dispõe sobre a prorrogação dos prazos de conclusão de cursos ou de programas para estudantes e pesquisadores da educação superior, em virtude de parto, de nascimento de filho, de adoção ou de obtenção de guarda... (Lei nº 14.925, de 17 de julho de 2024) | 1 | 2024-07-18 to 2024-07-18 |
+| `lei-14932-de-2024` | Acrescenta § 5º ao art. 29 da Lei nº 12.651, de 25 de maio de 2012 (Código Florestal), para autorizar a apresentação do Cadastro Ambiental Rural (CAR) para fins de apuração da área tributável de imóvel rural (Lei nº 14.932, de 23 de julho de 2024) | 1 | 2024-07-24 to 2024-07-24 |
+| `lei-14933-de-2024` | Altera a Lei nº 11.438, de 29 de dezembro de 2006, para permitir que pessoas físicas sejam proponentes de projetos no âmbito da referida Lei (Lei nº 14.933, de 24 de julho de 2024) | 1 | 2024-07-25 to 2024-07-25 |
+| `lei-14934-de-2024` | Prorroga, até 31 de dezembro de 2025, a vigência do Plano Nacional de Educação, aprovado por meio da Lei nº 13.005, de 25 de junho de 2014 (Lei nº 14.934, de 25 de julho de 2024) | 1 | 2024-07-26 to 2024-07-26 |
+| `lei-14935-de-2024` | Institui a Política Nacional de Agricultura Urbana e Periurbana (Lei nº 14.935, de 26 de julho de 2024) | 1 | 2024-07-29 to 2024-07-29 |
+| `lei-14939-de-2024` | Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para prever que o tribunal determine a correção do vício de não comprovação da ocorrência de feriado local pelo recorrente, ou desconsidere a... (Lei nº 14.939, de 30 de julho de 2024) | 1 | 2024-07-31 to 2024-07-31 |
+| `lei-14944-de-2024` | Institui a Política Nacional de Manejo Integrado do Fogo e altera as Leis nºs 7.735, de 22 de fevereiro de 1989, 12.651, de 25 de maio de 2012 (Código Florestal), e 9.605, de 12 de fevereiro de 1998 (Lei dos Crimes... (Lei nº 14.944, de 31 de julho de 2024) | 1 | 2024-11-25 to 2024-11-25 |
+| `lei-14952-de-2024` | Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), a fim de estabelecer regime escolar especial para atendimento a educandos nas situações que especifica (Lei nº 14.952, de 6 de agosto de 2024) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-14958-de-2024` | Altera a Lei nº 14.791, de 29 de dezembro de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024 (Lei nº 14.958, de 3 de setembro de 2024) | 1 | 2024-09-04 to 2024-09-04 |
+| `lei-14959-de-2024` | Estabelece critérios mínimos para a outorga do título de Capital Nacional (Lei nº 14.959, de 4 de setembro de 2024) | 1 | 2024-09-05 to 2024-09-05 |
+| `lei-14960-de-2024` | Reconhece o Festival Folclórico de Parintins e os Bois Garantido e Caprichoso como manifestação da cultura nacional (Lei nº 14.960, de 4 de setembro de 2024) | 1 | 2024-09-05 to 2024-09-05 |
+| `lei-14961-de-2024` | Reconhece o Arraial do Pavulagem como manifestação da cultura nacional (Lei nº 14.961, de 4 de setembro de 2024) | 1 | 2024-09-05 to 2024-09-05 |
+| `lei-14963-de-2024` | Dispõe sobre a identificação de produtos alimentícios artesanais de origem vegetal (Lei nº 14.963, de 5 de setembro de 2024) | 1 | 2024-09-06 to 2024-09-06 |
+| `lei-14967-de-2024` | Institui o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras (Lei nº 14.967, de 9 de setembro de 2024) | 1 | 2024-09-10 to 2024-09-10 |
+| `lei-14969-de-2024` | Reconhece as expressões artísticas cristãs e os reflexos e as influências do cristianismo, além de seus aspectos religiosos, como manifestação cultural nacional (Lei nº 14.969, de 13 de setembro de 2024) | 1 | 2024-09-16 to 2024-09-16 |
+| `lei-14972-de-2024` | Reconhece como manifestação da cultura nacional o Círio de Nazaré, realizado na cidade de São Luís, no Estado do Maranhão (Lei nº 14.972, de 13 de setembro de 2024) | 1 | 2024-09-16 to 2024-09-16 |
+| `lei-14973-de-2024` | Estabelece regime de transição para a contribuição substitutiva prevista nos arts. 7º e 8º da Lei nº 12.546, de 14 de dezembro de 2011, e para o adicional sobre a Cofins-Importação previsto no § 21 do art. 8º da Lei... (Lei nº 14.973, de 16 de setembro de 2024) | 1 | 2026-05-04 to 2026-05-04 |
+| `lei-14975-de-2024` | Institui a Política Nacional de Incentivo à Cocoicultura de Qualidade (Lei nº 14.975, de 18 de setembro de 2024) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-14976-de-2024` | Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), a fim de dispor sobre a competência dos juizados especiais cíveis para o processamento e o julgamento das causas previstas no inciso II do... (Lei nº 14.976, de 18 de setembro de 2024) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-14978-de-2024` | Altera as Leis nºs 7.064, de 6 de dezembro de 1982, 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), 11.771, de 17 de setembro de 2008 (Lei Geral do Turismo), 12.462, de 4 de agosto de 2011,... (Lei nº 14.978, de 18 de setembro de 2024) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-14979-de-2024` | Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), a fim de tornar obrigatória, para a autoridade judiciária, a consulta aos cadastros estaduais, distrital e nacional de crianças e... (Lei nº 14.979, de 18 de setembro de 2024) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-14980-de-2024` | Institui o projeto Adote um Museu e o Dia Nacional do Museu, para incentivar ações de preservação e de valorização da memória histórica, artística e cultural (Lei nº 14.980, de 18 de setembro de 2024) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-14981-de-2024` | Dispõe sobre medidas excepcionais para a aquisição de bens e a contratação de obras e de serviços, inclusive de engenharia, destinados ao enfrentamento de impactos decorrentes de estado de calamidade pública (Lei nº 14.981, de 20 de setembro de 2024) | 1 | 2024-12-02 to 2024-12-02 |
+| `lei-14982-de-2024` | Dispõe sobre regras aplicáveis às vantagens pessoais nominalmente identificáveis dos servidores ativos e inativos e dos pensionistas do Quadro de Pessoal do Senado Federal (Lei nº 14.982, de 20 de setembro de 2024) | 1 | 2024-09-23 to 2024-09-23 |
+| `lei-14983-de-2024` | Altera a Lei nº 12.777, de 28 de dezembro de 2012, para dispor sobre regras aplicáveis às vantagens pessoais nominalmente identificadas dos servidores ativos, inativos e pensionistas do Quadro de Pessoal da Câmara... (Lei nº 14.983, de 20 de setembro de 2024) | 1 | 2024-09-23 to 2024-09-23 |
+| `lei-14984-de-2024` | Altera a Lei nº 11.597, de 29 de novembro de 2007, para possibilitar a organização do Livro dos Heróis e Heroínas da Pátria em subdivisões físicas, como volumes, seções ou tomos (Lei nº 14.984, de 24 de setembro de 2024) | 1 | 2024-09-25 to 2024-09-25 |
+| `lei-14987-de-2024` | Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estender o direito ao atendimento psicossocial às crianças e aos adolescentes que tiverem qualquer dos pais ou responsáveis... (Lei nº 14.987, de 25 de setembro de 2024) | 1 | 2024-12-25 to 2024-12-25 |
+| `lei-14988-de-2024` | Institui a Semana Cultural Interescolar nos estabelecimentos de ensino fundamental e médio (Lei nº 14.988, de 25 de setembro de 2024) | 1 | 2024-09-26 to 2024-09-26 |
+| `lei-14989-de-2024` | Dispõe sobre medidas para o enfrentamento de emergência fitossanitária ou zoossanitária (Lei nº 14.989, de 25 de setembro de 2024) | 1 | 2024-09-26 to 2024-09-26 |
+| `lei-14990-de-2024` | Institui o Programa de Desenvolvimento do Hidrogênio de Baixa Emissão de Carbono (PHBC) (Lei nº 14.990, de 27 de setembro de 2024) | 1 | 2025-11-25 to 2025-11-25 |
+| `lei-14991-de-2024` | Reconhece os modos de produção dos instrumentos musicais de samba e as práticas a eles associadas como manifestações da cultura nacional (Lei nº 14.991, de 27 de setembro de 2024) | 1 | 2024-09-30 to 2024-09-30 |
+| `lei-14992-de-2024` | Altera a Lei nº 13.667, de 17 de maio de 2018, para estabelecer medidas que favoreçam a inserção de pessoas com transtorno do espectro autista no mercado de trabalho (Lei nº 14.992, de 3 de outubro de 2024) | 1 | 2024-10-04 to 2024-10-04 |
+| `lei-14994-de-2024` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), o Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais), a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução... (Lei nº 14.994, de 9 de outubro de 2024) | 1 | 2024-10-10 to 2024-10-10 |
+| `lei-14995-de-2024` | Institui o Programa Acredita no Primeiro Passo e o Programa de Mobilização de Capital Privado Externo e Proteção Cambial – Programa Eco Invest Brasil (Lei nº 14.995, de 10 de outubro de 2024) | 1 | 2024-12-27 to 2024-12-27 |
+| `lei-14996-de-2024` | Reconhece as expressões artísticas charge , caricatura, cartum e grafite como manifestações da cultura brasileira (Lei nº 14.996, de 15 de outubro de 2024) | 1 | 2024-10-16 to 2024-10-16 |
+| `lei-14997-de-2024` | Reconhece como manifestação da cultura nacional a Festa do Sairé, realizada no distrito de Alter do Chão, no Município de Santarém, no Estado do Pará (Lei nº 14.997, de 15 de outubro de 2024) | 1 | 2024-10-16 to 2024-10-16 |
+| `lei-15005-de-2024` | Reconhece o artesanato em capim dourado como manifestação da cultura nacional (Lei nº 15.005, de 17 de outubro de 2024) | 1 | 2024-10-18 to 2024-10-18 |
+| `lei-15006-de-2024` | Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para criar a Semana Nacional de Prevenção a Acidentes com Motociclistas e instituir o Dia Nacional do Motociclista (Lei nº 15.006, de 17 de outubro de 2024) | 1 | 2024-10-18 to 2024-10-18 |
+| `lei-15008-de-2024` | Regulamenta o Rodeio Crioulo como atividade da cultura popular (Lei nº 15.008, de 17 de outubro de 2024) | 1 | 2024-10-18 to 2024-10-18 |
+| `lei-15009-de-2024` | Altera a Lei nº 13.733, de 16 de novembro de 2018, para instituir o Outubrinho Rosa, a ser realizado no mês de outubro (Lei nº 15.009, de 29 de outubro de 2024) | 1 | 2024-10-30 to 2024-10-30 |
+| `lei-15012-de-2024` | Altera a Lei nº 11.445, de 5 de janeiro de 2007, para conferir publicidade a documentos referentes à regulação e à fiscalização dos serviços públicos de saneamento básico, bem como aos direitos e deveres dos usuários... (Lei nº 15.012, de 4 de novembro de 2024) | 1 | 2024-11-05 to 2024-11-05 |
+| `lei-15014-de-2024` | Altera a Lei nº 11.350, de 5 de outubro de 2006, para prever a concessão de indenização de transporte ao Agente Comunitário de Saúde e ao Agente de Combate às Endemias como forma de custeio de locomoção (Lei nº 15.014, de 6 de novembro de 2024) | 1 | 2024-11-07 to 2024-11-07 |
+| `lei-15015-de-2024` | Concede ao Município de Irineópolis, no Estado de Santa Catarina, o título de Capital Nacional do Trator (Lei nº 15.015, de 12 de novembro de 2024) | 1 | 2024-11-13 to 2024-11-13 |
+| `lei-15017-de-2024` | Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre a publicização de dados e microdados coletados nos censos da educação básica e superior e nos... (Lei nº 15.017, de 12 de novembro de 2024) | 1 | 2024-11-13 to 2024-11-13 |
+| `lei-15021-de-2024` | Dispõe sobre o controle de material genético animal e sobre a obtenção e o fornecimento de clones de animais domésticos destinados à produção de animais domésticos de interesse zootécnico e dá outras providências (Lei nº 15.021, de 12 de novembro de 2024) | 1 | 2025-02-11 to 2025-02-11 |
+| `lei-15022-de-2024` | Estabelece o Inventário Nacional de Substâncias Químicas e a avaliação e o controle de risco das substâncias químicas utilizadas, produzidas ou importadas, no território nacional, com o objetivo de minimizar os... (Lei nº 15.022, de 13 de novembro de 2024) | 1 | 2024-11-14 to 2024-11-14 |
+| `lei-15026-de-2024` | Dispõe sobre a aplicação das Leis nºs 4.950-A, de 22 de abril de 1966, 5.194, de 24 de dezembro de 1966, e 7.410, de 27 de novembro de 1985, aos diplomados em Geologia ou Engenharia Geológica (Lei nº 15.026, de 18 de novembro de 2024) | 1 | 2024-11-19 to 2024-11-19 |
+| `lei-15027-de-2024` | Reconhece como patrimônio cultural material do Brasil o acervo jornalístico do Diario de Pernambuco (Lei nº 15.027, de 18 de novembro de 2024) | 1 | 2024-11-19 to 2024-11-19 |
+| `lei-15033-de-2024` | Autoriza transferência de capital, a título de contribuição, mediante celebração de convênios entre a União e as Associações de Proteção e Assistência aos Condenados (APACs), em atenção ao disposto no § 6º do art. 12... (Lei nº 15.033, de 26 de novembro de 2024) | 1 | 2024-11-27 to 2024-11-27 |
+| `lei-15034-de-2024` | Altera a Lei nº 13.999, de 18 de maio de 2020, e a Lei nº 12.087, de 11 de novembro de 2009, para autorizar o aumento da participação da União no Fundo Garantidor de Operações (FGO), com o objetivo de garantir as... (Lei nº 15.034, de 27 de novembro de 2024) | 1 | 2024-11-28 to 2024-11-28 |
+| `lei-15035-de-2024` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para permitir a consulta pública do nome completo e do número de inscrição no Cadastro de Pessoas Físicas (CPF) das pessoas condenadas por... (Lei nº 15.035, de 27 de novembro de 2024) | 1 | 2024-11-28 to 2024-11-28 |
+| `lei-15037-de-2024` | Altera a Lei nº14.606, de 20 de junho de 2023, para especificar que o símbolo da campanha de conscientização sobre a doença de Parkinson será uma tulipa vermelha denominada Dr. James Parkinson, desenvolvida pelo... (Lei nº 15.037, de 29 de novembro de 2024) | 1 | 2024-12-02 to 2024-12-02 |
+| `lei-15038-de-2024` | Autoriza o Poder Executivo federal a conceder subvenção econômica, sob a forma de desconto para liquidação ou renegociação de parcelas de operações de crédito rural de custeio, de investimento e de industrialização... (Lei nº 15.038, de 29 de novembro de 2024) | 1 | 2024-12-02 to 2024-12-02 |
+| `lei-15039-de-2024` | Altera os limites da Reserva Extrativista do Rio Ouro Preto, define sua zona de amortecimento e amplia a Reserva Extrativista do Lago do Cuniã (Lei nº 15.039, de 9 de dezembro de 2024) | 1 | 2024-12-10 to 2024-12-10 |
+| `lei-15041-de-2024` | Altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para dispor sobre os subsistemas esportivos privados, e revoga dispositivos da Lei nº 9.615, de 24 de março de 1998 (Lei Pelé) (Lei nº 15.041, de 9 de dezembro de 2024) | 1 | 2024-12-10 to 2024-12-10 |
+| `lei-15042-de-2024` | Institui o Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE) (Lei nº 15.042, de 11 de dezembro de 2024) | 1 | 2024-12-27 to 2024-12-27 |
+| `lei-15046-de-2024` | Autoriza a criação do Cadastro Nacional de Animais Domésticos (Lei nº 15.046, de 17 de dezembro de 2024) | 1 | 2024-12-18 to 2024-12-18 |
+| `lei-15047-de-2024` | Institui o regime disciplinar da Polícia Federal e da Polícia Civil do Distrito Federal e revoga dispositivos da Lei nº 4.878, de 3 de dezembro de 1965 (Lei nº 15.047, de 17 de dezembro de 2024) | 1 | 2024-12-18 to 2024-12-18 |
+| `lei-15052-de-2024` | Altera a Lei nº 14.822, de 22 de janeiro de 2024, que estima a receita e fixa a despesa da União para o exercício financeiro de 2024 (Lei nº 15.052, de 20 de dezembro de 2024) | 1 | 2024-12-23 to 2024-12-23 |
+| `lei-15060-de-2024` | Altera a Lei nº 14.802, de 10 de janeiro de 2024, que institui o Plano Plurianual da União para o período de 2024 a 2027 (Lei nº 15.060, de 23 de dezembro de 2024) | 1 | 2024-12-23 to 2024-12-23 |
+| `lei-15067-de-2024` | Altera a Lei nº 14.791, de 29 de dezembro de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024 (Lei nº 15.067, de 23 de dezembro de 2024) | 1 | 2024-12-23 to 2024-12-23 |
+| `lei-15068-de-2024` | Dispõe sobre os empreendimentos de economia solidária e a Política Nacional de Economia Solidária (Lei nº 15.068, de 23 de dezembro de 2024) | 1 | 2024-12-24 to 2024-12-24 |
+| `lei-15069-de-2024` | Institui a Política Nacional de Cuidados (Lei nº 15.069, de 23 de dezembro de 2024) | 1 | 2024-12-24 to 2024-12-24 |
+| `lei-15070-de-2024` | Dispõe sobre a produção, a importação, a exportação, o registro, a comercialização, o uso, a inspeção, a fiscalização, a pesquisa, a experimentação, a embalagem, a rotulagem, a propaganda, o transporte, o... (Lei nº 15.070, de 23 de dezembro de 2024) | 1 | 2024-12-24 to 2024-12-24 |
+| `lei-15071-de-2024` | Altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980, que trata da tributação simplificada das remessas postais internacionais, e a Lei nº 14.902, de 27 de junho de 2024, que institui o Programa Mobilidade Verde e... (Lei nº 15.071, de 23 de dezembro de 2024) | 1 | 2024-12-24 to 2024-12-24 |
+| `lei-15072-de-2024` | Altera a Lei nº 8.212, de 24 de julho de 1991 (Lei Orgânica da Seguridade Social), e a Lei nº 8.213, de 24 de julho de 1991 (Lei de Benefícios da Previdência Social), para dispor sobre a condição de segurado especial... (Lei nº 15.072, de 26 de dezembro de 2024) | 1 | 2024-12-27 to 2024-12-27 |
+| `lei-15073-de-2024` | Altera a Lei nº 11.771, de 17 de setembro de 2008 (Lei Geral do Turismo), para prever sanções aos prestadores de serviços turísticos que cometerem infrações associadas à facilitação do turismo sexual (Lei nº 15.073, de 26 de dezembro de 2024) | 1 | 2024-12-27 to 2024-12-27 |
+| `lei-15074-de-2024` | Regula o exercício da profissão de geofísico (Lei nº 15.074, de 26 de dezembro de 2024) | 1 | 2024-12-27 to 2024-12-27 |
+| `lei-15075-de-2024` | Altera a Lei nº 9.478, de 6 de agosto de 1997, para autorizar a transferência de excedentes de conteúdo local entre contratos para exploração e produção de petróleo e gás natural vigentes (Lei nº 15.075, de 26 de dezembro de 2024) | 1 | 2024-12-27 to 2024-12-27 |
+| `lei-15076-de-2024` | Altera as Leis nºs 13.999, de 18 de maio de 2020, e 12.087, de 11 de novembro de 2009, para assegurar que os recursos do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe) sejam... (Lei nº 15.076, de 26 de dezembro de 2024) | 1 | 2024-12-27 to 2024-12-27 |
+| `lei-15077-de-2024` | Altera as Leis nºs 8.171, de 17 de janeiro de 1991 (Lei da Política Agrícola), 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), 14.601, de 19 de junho de 2023 (Lei do Programa Bolsa Família), e... (Lei nº 15.077, de 27 de dezembro de 2024) | 1 | 2024-12-27 to 2024-12-27 |
+| `lei-15078-de-2024` | Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas incorridas no recebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar... (Lei nº 15.078, de 27 de dezembro de 2024) | 1 | 2024-12-30 to 2024-12-30 |
+| `lei-15081-de-2024` | Altera a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa, Minha Vida (PMCMV), para assegurar o apoio técnico e financeiro às iniciativas de regularização fundiária de assentamentos urbanos (Lei nº 15.081, de 30 de dezembro de 2024) | 1 | 2024-12-31 to 2024-12-31 |
+| `lei-15082-de-2024` | Altera a Lei nº 13.576, de 26 de dezembro de 2017, que dispõe sobre a Política Nacional de Biocombustíveis (RenovaBio), para nela incluir os produtores independentes de matéria-prima destinada à produção de... (Lei nº 15.082, de 30 de dezembro de 2024) | 1 | 2025-02-14 to 2025-02-14 |
+| `lei-15083-de-2025` | Altera a Lei nº 13.903, de 19 de novembro de 2019, para autorizar a criação de subsidiária da NAV Brasil Serviços de Navegação Aérea S.A. (NAV Brasil), nos termos que especifica, e dispõe sobre a possibilidade de... (Lei nº 15.083, de 2 de janeiro de 2025) | 1 | 2025-01-03 to 2025-01-03 |
+| `lei-15088-de-2025` | Altera a Lei nº 12.305, de 2 de agosto de 2010 (Lei de Resíduos Sólidos), para proibir a importação de resíduos sólidos e de rejeitos, ressalvados os casos que especifica (Lei nº 15.088, de 6 de janeiro de 2025) | 1 | 2025-01-07 to 2025-01-07 |
+| `lei-15089-de-2025` | Institui a Política Nacional para o Manejo Sustentável, Plantio, Extração, Consumo, Comercialização e Transformação do Pequi ( Caryocar brasiliense ) e demais Frutos e Produtos Nativos do Cerrado (Lei nº 15.089, de 7 de janeiro de 2025) | 1 | 2025-01-08 to 2025-01-08 |
+| `lei-15090-de-2025` | Altera os limites do Parque Nacional da Serra do Itajaí, criado por decreto não numerado de 4 de junho de 2004, e localizado nos Municípios de Apiúna, Blumenau, Botuverá, Gaspar, Guabiruba, Indaial, Presidente Nereu... (Lei nº 15.090, de 7 de janeiro de 2025) | 1 | 2025-01-08 to 2025-01-08 |
+| `lei-15092-de-2025` | Reconhece como patrimônio cultural brasileiro as barracas de praia e a atividade desempenhada pelos barraqueiros da Praia do Futuro, em Fortaleza, Estado do Ceará (Lei nº 15.092, de 7 de janeiro de 2025) | 1 | 2025-01-08 to 2025-01-08 |
+| `lei-15094-de-2025` | Torna obrigatória a realização de exame clínico destinado a identificar a Fibrodisplasia Ossificante Progressiva (FOP) nos recém-nascidos na triagem neonatal das redes pública e privada de saúde, com cobertura do... (Lei nº 15.094, de 8 de janeiro de 2025) | 1 | 2025-01-09 to 2025-01-09 |
+| `lei-15095-de-2025` | Dispõe sobre a criação de cargos em comissão e a transformação de cargos de Técnico e de Analista em cargos em comissão, no âmbito do Conselho Nacional do Ministério Público (Lei nº 15.095, de 9 de janeiro de 2025) | 1 | 2025-01-10 to 2025-01-10 |
+| `lei-15096-de-2025` | Dispõe sobre a transformação de cargos vagos no quadro permanente do Tribunal Regional do Trabalho da 15ª Região, sem aumento de despesas (Lei nº 15.096, de 9 de janeiro de 2025) | 1 | 2025-01-10 to 2025-01-10 |
+| `lei-15097-de-2025` | Disciplina o aproveitamento de potencial energético offshore (Lei nº 15.097, de 10 de janeiro de 2025) | 1 | 2025-01-10 to 2025-01-10 |
+| `lei-15100-de-2025` | Dispõe sobre a utilização, por estudantes, de aparelhos eletrônicos portáteis pessoais nos estabelecimentos públicos e privados de ensino da educação básica (Lei nº 15.100, de 13 de janeiro de 2025) | 1 | 2025-01-14 to 2025-01-14 |
+| `lei-15102-de-2025` | Altera a Lei nº 14.165, de 10 de junho de 2021, para estabelecer critérios adicionais para a recompra de cotas pelo Fundo de Investimentos da Amazônia (Finam) e pelo Fundo de Investimentos do Nordeste (Finor) (Lei nº 15.102, de 15 de janeiro de 2025) | 1 | 2025-01-16 to 2025-01-16 |
+| `lei-15103-de-2025` | Institui o Programa de Aceleração da Transição Energética (Paten) (Lei nº 15.103, de 22 de janeiro de 2025) | 1 | 2025-01-23 to 2025-01-23 |
+| `lei-15108-de-2025` | Altera o § 2º do art. 16 da Lei nº 8.213, de 24 de julho de 1991, para equiparar ao filho do segurado o menor sob sua guarda judicial, mediante declaração do segurado, desde que o menor não possua condições... (Lei nº 15.108, de 13 de março de 2025) | 1 | 2025-03-14 to 2025-03-14 |
+| `lei-15109-de-2025` | Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para dispensar o advogado do adiantamento de custas processuais em ações de cobrança e em execuções de honorários advocatícios (Lei nº 15.109, de 13 de março de 2025) | 1 | 2025-03-14 to 2025-03-14 |
+| `lei-15112-de-2025` | Altera a Lei nº 11.445, de 5 de janeiro de 2007 (Lei de Saneamento Básico), para prever a possibilidade de emprego de recursos públicos em serviços de drenagem e manejo de águas urbanas em condições emergenciais (Lei nº 15.112, de 17 de março de 2025) | 1 | 2025-03-18 to 2025-03-18 |
+| `lei-15113-de-2025` | Reconhece como manifestação da cultura nacional a cerimônia do Kuarup, realizada no Parque Nacional do Xingu, no Estado de Mato Grosso (Lei nº 15.113, de 18 de março de 2025) | 1 | 2025-03-19 to 2025-03-19 |
+| `lei-15116-de-2025` | Institui o Programa de Reconstrução Dentária para Mulheres Vítimas de Violência Doméstica, no âmbito do Sistema Único de Saúde (SUS), com vistas a garantir a prestação de serviços odontológicos para reconstrução e... (Lei nº 15.116, de 2 de abril de 2025) | 1 | 2025-04-03 to 2025-04-03 |
+| `lei-15117-de-2025` | Dispõe sobre a veiculação gratuita de informação educativa acerca da prevenção de doenças pelas emissoras de rádio e televisão (Lei nº 15.117, de 2 de abril de 2025) | 1 | 2025-04-03 to 2025-04-03 |
+| `lei-15122-de-2025` | Estabelece critérios para suspensão de concessões comerciais, de investimentos e de obrigações relativas a direitos de propriedade intelectual em resposta a medidas unilaterais adotadas por país ou bloco econômico... (Lei nº 15.122, de 11 de abril de 2025) | 1 | 2025-04-14 to 2025-04-14 |
+| `lei-15123-de-2025` | Altera o art. 147-B do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer causa de aumento de pena no crime de violência psicológica contra a mulher quando praticado com o uso de... (Lei nº 15.123, de 24 de abril de 2025) | 1 | 2025-04-25 to 2025-04-25 |
+| `lei-15124-de-2025` | Veda a adoção de critérios discriminatórios contra estudantes e pesquisadores em virtude de gestação, de parto, de nascimento de filho ou de adoção ou obtenção de guarda judicial para fins de adoção nos processos de... (Lei nº 15.124, de 24 de abril de 2025) | 1 | 2025-04-25 to 2025-04-25 |
+| `lei-15125-de-2025` | Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para sujeitar o agressor a monitoração eletrônica durante aplicação de medida protetiva de urgência em casos de violência doméstica e familiar (Lei nº 15.125, de 24 de abril de 2025) | 1 | 2025-04-25 to 2025-04-25 |
+| `lei-15126-de-2025` | Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para estabelecer a atenção humanizada como princípio no âmbito do Sistema Único de Saúde (SUS) (Lei nº 15.126, de 28 de abril de 2025) | 1 | 2025-04-29 to 2025-04-29 |
+| `lei-15127-de-2025` | Institui a Campanha Nacional de Incentivo à Doação de Cabelo a Pessoas Carentes em Tratamento de Câncer e Vítimas de Escalpelamento (Lei nº 15.127, de 28 de abril de 2025) | 1 | 2025-04-29 to 2025-04-29 |
+| `lei-15131-de-2025` | Altera a Lei nº 12.764, de 27 de dezembro de 2012 (Lei Berenice Piana), para especificar a nutrição adequada e a terapia nutricional a ser aplicada à pessoa com transtorno do espectro autista (Lei nº 15.131, de 29 de abril de 2025) | 1 | 2025-04-30 to 2025-04-30 |
+| `lei-15133-de-2025` | Estabelece a obrigatoriedade da prestação de cirurgia reconstrutiva de lábio leporino ou fenda palatina pelo Sistema Único de Saúde (SUS) (Lei nº 15.133, de 6 de maio de 2025) | 1 | 2025-05-07 to 2025-05-07 |
+| `lei-15134-de-2025` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e as Leis nºs 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), 12.694, de 24 de julho de 2012, e 13.709, de 14 de agosto de 2018 (Lei... (Lei nº 15.134, de 6 de maio de 2025) | 1 | 2025-05-07 to 2025-05-07 |
+| `lei-15137-de-2025` | Reconhece o Carnaval de Pernambuco como manifestação da cultura nacional (Lei nº 15.137, de 21 de maio de 2025) | 1 | 2025-05-22 to 2025-05-22 |
+| `lei-15139-de-2025` | Institui a Política Nacional de Humanização do Luto Materno e Parental e altera a Lei nº 6.015, de 31 de dezembro de 1973 (Lei dos Registros Públicos), para dispor sobre o registro de criança nascida morta (Lei nº 15.139, de 23 de maio de 2025) | 1 | 2025-08-24 to 2025-08-24 |
+| `lei-15140-de-2025` | Institui a Política Nacional de Proteção dos Direitos da Pessoa com Albinismo (Lei nº 15.140, de 28 de maio de 2025) | 1 | 2025-05-29 to 2025-05-29 |
+| `lei-15142-de-2025` | Reserva às pessoas pretas e pardas, indígenas e quilombolas o percentual de 30% (trinta por cento) das vagas oferecidas nos concursos públicos para provimento de cargos efetivos e empregos públicos no âmbito da... (Lei nº 15.142, de 3 de junho de 2025) | 1 | 2025-06-04 to 2025-06-04 |
+| `lei-15143-de-2025` | Dispõe sobre medidas excepcionais para concessão de colaboração financeira à União, aos Estados e ao Distrito Federal, para apoio a ações de prevenção e combate à ocorrência de queimadas irregulares e de incêndios... (Lei nº 15.143, de 5 de junho de 2025) | 1 | 2025-06-06 to 2025-06-06 |
+| `lei-15146-de-2025` | Reconhece como manifestação da cultura nacional o espetáculo Paixão de Cristo de Nova Jerusalém, que se realiza na cidade-teatro de Nova Jerusalém, localizada no distrito de Fazenda Nova, no Município do Brejo da... (Lei nº 15.146, de 9 de junho de 2025) | 1 | 2025-06-10 to 2025-06-10 |
+| `lei-15150-de-2025` | Altera a Lei nº 9.605, de 12 de fevereiro de 1998, que “dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente”, para proibir a realização de tatuagens e a... (Lei nº 15.150, de 16 de junho de 2025) | 1 | 2025-06-17 to 2025-06-17 |
+| `lei-15156-de-2025` | Dispõe sobre o direito a indenização por dano moral e a concessão de pensão especial à pessoa com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika (Lei nº 15.156, de 1º de julho de 2025) | 1 | 2025-07-02 to 2025-07-02 |
+| `lei-15157-de-2025` | Altera a Lei nº 8.213, de 24 de julho de 1991 (Lei de Benefícios da Previdência Social), e a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para dispensar o segurado do Regime Geral de... (Lei nº 15.157, de 1º de julho de 2025) | 1 | 2025-07-02 to 2025-07-02 |
+| `lei-15159-de-2025` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para recrudescer o tratamento penal dispensado ao autor de crime praticado... (Lei nº 15.159, de 3 de julho de 2025) | 1 | 2025-07-04 to 2025-07-04 |
+| `lei-15160-de-2025` | Modifica os arts. 65 e 115 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para alterar circunstância atenuante e vedar a redução do prazo de prescrição para os crimes que envolvam violência sexual... (Lei nº 15.160, de 3 de julho de 2025) | 1 | 2025-07-04 to 2025-07-04 |
+| `lei-15163-de-2025` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para modificar as penas dos crimes de abandono de incapaz e de maus-tratos, a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa... (Lei nº 15.163, de 3 de julho de 2025) | 1 | 2025-07-04 to 2025-07-04 |
+| `lei-15168-de-2025` | Altera a Lei nº 11.678, de 19 de maio de 2008, para denominar os trechos que especifica da rodovia BR-158 (Lei nº 15.168, de 17 de julho de 2025) | 1 | 2025-07-18 to 2025-07-18 |
+| `lei-15169-de-2025` | Altera a Lei nº 12.858, de 9 de setembro de 2013, para incluir as políticas de assistência aos estudantes da educação superior e da educação profissional, científica e tecnológica entre as prioridades para... (Lei nº 15.169, de 17 de julho de 2025) | 1 | 2025-07-18 to 2025-07-18 |
+| `lei-15172-de-2025` | Cria varas federais no Estado de Santa Catarina (Lei nº 15.172, de 22 de julho de 2025) | 1 | 2025-07-23 to 2025-07-23 |
+| `lei-15173-de-2025` | Transforma cargos vagos da carreira de Técnico Judiciário em novos cargos da carreira de Analista Judiciário no quadro permanente do Superior Tribunal de Justiça (Lei nº 15.173, de 22 de julho de 2025) | 1 | 2025-07-23 to 2025-07-23 |
+| `lei-15174-de-2025` | Institui a Política Nacional de Enfrentamento da Infecção por Papilomavírus Humano (Lei nº 15.174, de 22 de julho de 2025) | 1 | 2025-10-21 to 2025-10-21 |
+| `lei-15175-de-2025` | Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre a transferência de empregado público cujo cônjuge ou companheiro tenha sido deslocado no... (Lei nº 15.175, de 23 de julho de 2025) | 1 | 2025-07-24 to 2025-07-24 |
+| `lei-15178-de-2025` | Institui a Política Nacional de Juventude e Sucessão Rural e o Plano Nacional de Juventude e Sucessão Rural e altera a Lei nº 12.852, de 5 de agosto de 2013 (Estatuto da Juventude), a Lei nº 11.947, de 16 de junho de... (Lei nº 15.178, de 23 de julho de 2025) | 1 | 2025-07-24 to 2025-07-24 |
+| `lei-15179-de-2025` | Altera a Lei nº 10.820, de 17 de dezembro de 2003 (Lei do Crédito Consignado), para dispor sobre a operacionalização das operações de crédito consignado por meio de sistemas ou de plataformas digitais (Lei nº 15.179, de 24 de julho de 2025) | 1 | 2025-07-25 to 2025-07-25 |
+| `lei-15180-de-2025` | Institui a Política Nacional de Incentivo à Visitação a Unidades de Conservação e autoriza o Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) e os órgãos estaduais e municipais executores do Sistema... (Lei nº 15.180, de 25 de julho de 2025) | 1 | 2025-07-28 to 2025-07-28 |
+| `lei-15181-de-2025` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para aumentar as penas aplicadas ao furto, roubo e receptação de fios, cabos ou equipamentos utilizados para fornecimento ou transmissão de... (Lei nº 15.181, de 28 de julho de 2025) | 1 | 2025-07-29 to 2025-07-29 |
+| `lei-15182-de-2025` | Altera as Leis nºs 4.117, de 27 de agosto de 1962 (Código Brasileiro de Telecomunicações), 9.612, de 19 de fevereiro de 1998 (Lei das Rádios Comunitárias), 13.424, de 28 de março de 2017, 5.785, de 23 de junho de... (Lei nº 15.182, de 30 de julho de 2025) | 1 | 2025-07-31 to 2025-07-31 |
+| `lei-15183-de-2025` | Altera as Leis nºs 11.794, de 8 de outubro de 2008, e 6.360, de 23 de setembro de 1976, para vedar a utilização de animais em testes de produtos de higiene pessoal, cosméticos e perfumes e de seus ingredientes (Lei nº 15.183, de 30 de julho de 2025) | 1 | 2025-07-31 to 2025-07-31 |
+| `lei-15184-de-2025` | Altera a Lei nº 11.540, de 12 de novembro de 2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), para aprimorar a destinação de recursos do Fundo (Lei nº 15.184, de 4 de agosto de 2025) | 1 | 2025-08-05 to 2025-08-05 |
+| `lei-15185-de-2025` | Reestrutura cargos da magistratura no quadro permanente da Justiça Federal da 1ª Região (Lei nº 15.185, de 4 de agosto de 2025) | 1 | 2025-08-05 to 2025-08-05 |
+| `lei-15186-de-2025` | Concede o título de Capital Nacional dos Bombeiros Voluntários ao Município de Joinville, no Estado de Santa Catarina (Lei nº 15.186, de 4 de agosto de 2025) | 1 | 2025-08-05 to 2025-08-05 |
+| `lei-15188-de-2025` | Reconhece como manifestação da cultura nacional o Carnaval do Município do Rio de Janeiro, no Estado do Rio de Janeiro (Lei nº 15.188, de 6 de agosto de 2025) | 1 | 2025-08-07 to 2025-08-07 |
+| `lei-15190-de-2025` | Dispõe sobre o licenciamento ambiental (Lei nº 15.190, de 8 de agosto de 2025) | 1 | 2025-12-23 to 2025-12-23 |
+| `lei-15191-de-2025` | Altera a Lei nº 11.482, de 31 de maio de 2007, a fim de modificar os valores da tabela progressiva mensal do Imposto sobre a Renda da Pessoa Física (IRPF) (Lei nº 15.191, de 11 de agosto de 2025) | 1 | 2025-09-25 to 2025-09-25 |
+| `lei-15192-de-2025` | Reconhece como manifestação da cultura nacional a guitarrada (Lei nº 15.192, de 28 de agosto de 2025) | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-15196-de-2025` | Reconhece como manifestação da cultura nacional o Carnaval de Salvador, no Estado da Bahia (Lei nº 15.196, de 5 de setembro de 2025) | 1 | 2025-09-08 to 2025-09-08 |
+| `lei-15199-de-2025` | Institui a campanha Setembro Amarelo, o Dia Nacional de Prevenção da Automutilação e o Dia Nacional de Prevenção do Suicídio (Lei nº 15.199, de 8 de setembro de 2025) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-15201-de-2025` | Institui o Programa de Gerenciamento de Benefícios (PGB) no âmbito do Instituto Nacional do Seguro Social (INSS) e do Departamento de Perícia Médica Federal da Secretaria de Regime Geral de Previdência Social do... (Lei nº 15.201, de 9 de setembro de 2025) | 1 | 2025-09-10 to 2025-09-10 |
+| `lei-15202-de-2025` | Autoriza a criação da Carteira Nacional de Docente no Brasil (CNDB) (Lei nº 15.202, de 11 de setembro de 2025) | 1 | 2025-09-12 to 2025-09-12 |
+| `lei-15203-de-2025` | Reconhece o sítio arqueológico Cais do Valongo, na região portuária do Município do Rio de Janeiro, como patrimônio histórico-cultural afro-brasileiro essencial à formação da identidade nacional e estabelece... (Lei nº 15.203, de 11 de setembro de 2025) | 1 | 2025-09-12 to 2025-09-12 |
+| `lei-15205-de-2025` | Reconhece como manifestação da cultura nacional a Festa de San Gennaro, realizada no Município de São Paulo, no Estado de São Paulo (Lei nº 15.205, de 12 de setembro de 2025) | 1 | 2025-09-15 to 2025-09-15 |
+| `lei-15206-de-2025` | Altera a Lei nº 13.178, de 22 de outubro de 2015, para ampliar o prazo para requerer a certificação de georreferenciamento e a atualização do Sistema Nacional de Cadastro Rural para fins de ratificação de registros... (Lei nº 15.206, de 12 de setembro de 2025) | 1 | 2025-09-15 to 2025-09-15 |
+| `lei-15207-de-2025` | Institui a campanha Agosto Branco, destinada a conscientizar a população sobre o câncer de pulmão (Lei nº 15.207, de 12 de setembro de 2025) | 1 | 2025-09-15 to 2025-09-15 |
+| `lei-15208-de-2025` | Dispõe sobre a transformação de cargos vagos no quadro permanente do Tribunal Regional do Trabalho da 2ª Região, sem aumento de despesas (Lei nº 15.208, de 15 de setembro de 2025) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-15211-de-2025` | Dispõe sobre a proteção de crianças e adolescentes em ambientes digitais (Estatuto Digital da Criança e do Adolescente) (Lei nº 15.211, de 17 de setembro de 2025) | 1 | 2026-09-15 to 2026-09-15 |
+| `lei-15212-de-2025` | Altera a ementa da Lei nº 11.340, de 7 de agosto de 2006, para denominá-la oficialmente Lei Maria da Penha (Lei nº 15.212, de 18 de setembro de 2025) | 1 | 2025-09-19 to 2025-09-19 |
+| `lei-15215-de-2025` | Dispõe sobre os procedimentos para a denominação de instituições públicas de ensino indígenas, quilombolas e do campo no território nacional (Lei nº 15.215, de 18 de setembro de 2025) | 1 | 2025-09-19 to 2025-09-19 |
+| `lei-15220-de-2025` | Altera a Lei nº 13.257, de 8 de março de 2016 (Marco Legal da Primeira Infância), para criar sistema nacional de informação sobre o desenvolvimento integral da primeira infância (Lei nº 15.220, de 26 de setembro de 2025) | 1 | 2025-09-29 to 2025-09-29 |
+| `lei-15221-de-2025` | Institui a Semana Nacional de Conscientização sobre os Cuidados com as Gestantes e as Mães (Lei nº 15.221, de 29 de setembro de 2025) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-15222-de-2025` | Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para prorrogar a licença-maternidade em até 120 (cento e vinte) dias após a alta hospitalar do... (Lei nº 15.222, de 29 de setembro de 2025) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-15229-de-2025` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever que o estelionato cometido contra pessoa com deficiência procede-se mediante ação penal pública incondicionada (Lei nº 15.229, de 2 de outubro de 2025) | 1 | 2025-10-03 to 2025-10-03 |
+| `lei-15230-de-2025` | Altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para disciplinar a aferição da idade de elegibilidade e para dispor sobre o uso de panfletos em sistema Braille nas campanhas eleitorais dos... (Lei nº 15.230, de 2 de outubro de 2025) | 1 | 2025-10-03 to 2025-10-03 |
+| `lei-15231-de-2025` | Altera as Leis nºs 13.819, de 26 de abril de 2019, e 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre a notificação ao Conselho Tutelar, pelos estabelecimentos de... (Lei nº 15.231, de 6 de outubro de 2025) | 1 | 2025-10-07 to 2025-10-07 |
+| `lei-15232-de-2025` | Altera a Lei nº 13.819, de 26 de abril de 2019, que institui a Política Nacional de Prevenção da Automutilação e do Suicídio, para prever ações direcionadas às pessoas psicossocialmente mais vulneráveis ou com... (Lei nº 15.232, de 6 de outubro de 2025) | 1 | 2025-10-07 to 2025-10-07 |
+| `lei-15233-de-2025` | Institui o Programa Agora Tem Especialistas (Lei nº 15.233, de 7 de outubro de 2025) | 1 | 2025-10-08 to 2025-10-08 |
+| `lei-15234-de-2025` | Cria causa de aumento de pena para o crime de vender, fornecer, servir, ministrar ou entregar, ainda que gratuitamente, de qualquer forma, a criança ou a adolescente, bebida alcoólica ou, sem justa causa, outros... (Lei nº 15.234, de 7 de outubro de 2025) | 1 | 2025-10-08 to 2025-10-08 |
+| `lei-15235-de-2025` | Altera as Leis nºs 10.438, de 26 de abril de 2002, 12.111, de 9 de dezembro de 2009, e 12.212, de 20 de janeiro de 2010 (Lei nº 15.235, de 8 de outubro de 2025) | 1 | 2025-11-25 to 2025-11-25 |
+| `lei-15236-de-2025` | Altera a Lei nº 10.420, de 10 de abril de 2002, para modificar disposições relativas ao Fundo Garantia-Safra e ao Benefício Garantia-Safra (Lei nº 15.236, de 16 de outubro de 2025) | 1 | 2025-10-17 to 2025-10-17 |
+| `lei-15240-de-2025` | Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para caracterizar o abandono afetivo como ilícito civil (Lei nº 15.240, de 28 de outubro de 2025) | 1 | 2025-10-29 to 2025-10-29 |
+| `lei-15245-de-2025` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre o crime de associação criminosa, a Lei nº 12.694, de 24 de julho de 2012, para ampliar a proteção pessoal dos agentes públicos... (Lei nº 15.245, de 29 de outubro de 2025) | 1 | 2025-10-30 to 2025-10-30 |
+| `lei-15246-de-2025` | Altera a Lei nº 15.080, de 30 de dezembro de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2025 (Lei nº 15.246, de 31 de outubro de 2025) | 1 | 2025-10-31 to 2025-10-31 |
+| `lei-15247-de-2025` | Dispõe sobre o Compromisso Nacional Criança Alfabetizada (Compromisso) (Lei nº 15.247, de 31 de outubro de 2025) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-15249-de-2025` | Altera a Lei nº 10.098, de 19 de dezembro de 2000 (Lei da Acessibilidade), e a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para dispor sobre a instalação de sistemas de comunicação... (Lei nº 15.249, de 3 de novembro de 2025) | 1 | 2025-11-04 to 2025-11-04 |
+| `lei-15250-de-2025` | Dispõe sobre o exercício da atividade de condutor de ambulância (Lei nº 15.250, de 3 de novembro de 2025) | 1 | 2025-11-04 to 2025-11-04 |
+| `lei-15251-de-2025` | Dispõe sobre a transferência simbólica da capital da República Federativa do Brasil para a cidade de Belém, no Estado do Pará, durante a 30ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança... (Lei nº 15.251, de 3 de novembro de 2025) | 1 | 2025-11-04 to 2025-11-04 |
+| `lei-15252-de-2025` | Dispõe sobre os direitos da pessoa natural usuária de serviços financeiros (Lei nº 15.252, de 4 de novembro de 2025) | 1 | 2025-11-05 to 2025-11-05 |
+| `lei-15253-de-2025` | Cria funções comissionadas e cargos de provimento efetivo da carreira de Técnico Judiciário – Área Administrativa - Agente da Polícia Judicial no quadro de pessoal do Supremo Tribunal Federal (Lei nº 15.253, de 5 de novembro de 2025) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-15256-de-2025` | Altera a Lei nº 12.764, de 27 de dezembro de 2012, para incentivar a realização da investigação diagnóstica do transtorno do espectro autista em pessoas adultas e idosas (Lei nº 15.256, de 12 de novembro de 2025) | 1 | 2025-11-13 to 2025-11-13 |
+| `lei-15257-de-2025` | Revoga as Leis nºs 3.807, de 26 de agosto de 1960 (Lei Orgânica da Previdência Social), 5.890, de 8 de junho de 1973, e 6.367, de 19 de outubro de 1976, e dispositivos do Decreto-Lei nº 72, de 21 de novembro de 1966 (Lei nº 15.257, de 12 de novembro de 2025) | 1 | 2025-11-13 to 2025-11-13 |
+| `lei-15258-de-2025` | Institui o mês de novembro como o Mês Nacional da Segurança Aquática (Lei nº 15.258, de 12 de novembro de 2025) | 1 | 2025-11-13 to 2025-11-13 |
+| `lei-15260-de-2025` | Altera a Lei nº 8.934, de 18 de novembro de 1994, que dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins (Lei nº 15.260, de 12 de novembro de 2025) | 1 | 2025-11-13 to 2025-11-13 |
+| `lei-15261-de-2025` | Altera a Lei nº 6.791, de 9 de junho de 1980, para modificar a data do Dia Nacional da Mulher e incluir o Dia Internacional da Mulher no calendário nacional de datas comemorativas (Lei nº 15.261, de 13 de novembro de 2025) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-15262-de-2025` | Cria funções comissionadas no quadro de pessoal do Superior Tribunal de Justiça (Lei nº 15.262, de 13 de novembro de 2025) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-15263-de-2025` | Institui a Política Nacional de Linguagem Simples nos órgãos e entidades da administração pública direta e indireta de todos os Poderes da União, dos Estados, do Distrito Federal e dos Municípios (Lei nº 15.263, de 14 de novembro de 2025) | 1 | 2025-11-17 to 2025-11-17 |
+| `lei-15266-de-2025` | Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para prever o uso do Sistema de Compras Expressas (Sicx) na contratação de bens e serviços comuns padronizados (Lei nº 15.266, de 21 de novembro de 2025) | 1 | 2025-11-24 to 2025-11-24 |
+| `lei-15268-de-2025` | Altera a alínea “a” do inciso III do caput do art. 136 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para substituir a expressão “serviço social” por “assistência social” (Lei nº 15.268, de 21 de novembro de 2025) | 1 | 2025-11-24 to 2025-11-24 |
+| `lei-15271-de-2025` | Dispõe sobre a isenção da cobrança da taxa de verificação inicial e subsequente de taxímetro (Lei nº 15.271, de 26 de novembro de 2025) | 1 | 2025-11-27 to 2025-11-27 |
+| `lei-15272-de-2025` | Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre as circunstâncias que recomendam a conversão da prisão em flagrante em preventiva, sobre a coleta de material... (Lei nº 15.272, de 26 de novembro de 2025) | 1 | 2025-11-27 to 2025-11-27 |
+| `lei-15273-de-2025` | Altera a Lei nº 8.256, de 25 de novembro de 1991, para incluir o Município de Pacaraima, no Estado de Roraima, na Área de Livre Comércio de Boa Vista (ALCBV) (Lei nº 15.273, de 26 de novembro de 2025) | 1 | 2025-11-27 to 2025-11-27 |
+| `lei-15279-de-2025` | Estabelece a isenção de tributos federais para a doação de medicamentos aos órgãos da administração direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios, e às entidades reconhecidas como de... (Lei nº 15.279, de 2 de dezembro de 2025) | 1 | 2025-12-03 to 2025-12-03 |
+| `lei-15280-de-2025` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar a pena dos crimes contra a dignidade sexual de pessoa vulnerável (Lei nº 15.280, de 5 de dezembro de 2025) | 1 | 2025-12-08 to 2025-12-08 |
+| `lei-15281-de-2025` | Altera a Lei nº 11.343, de 23 de agosto de 2006, para dispor sobre a criação de estratégia de saúde direcionada às mulheres alcoolistas (Lei nº 15.281, de 5 de dezembro de 2025) | 1 | 2025-12-08 to 2025-12-08 |
+| `lei-15282-de-2025` | Isenta a Empresa Brasileira de Pesquisa Agropecuária (Embrapa) do pagamento de taxas e de contribuições por serviços prestados, cobradas pelos órgãos reguladores, incidentes sobre os seus pedidos de registro e... (Lei nº 15.282, de 9 de dezembro de 2025) | 1 | 2025-12-10 to 2025-12-10 |
+| `lei-15284-de-2025` | Altera a Lei nº 11.664, de 29 de abril de 2008, para assegurar a todas as mulheres a partir dos 40 (quarenta) anos de idade o direito à realização do exame de mamografia (Lei nº 15.284, de 18 de dezembro de 2025) | 1 | 2025-12-19 to 2025-12-19 |
+| `lei-15285-de-2025` | Altera a Lei nº 11.416, de 15 de dezembro de 2006, para dispor sobre a especialidade de polícia judicial no âmbito das carreiras do quadro permanente de servidores do Poder Judiciário (Lei nº 15.285, de 18 de dezembro de 2025) | 1 | 2025-12-19 to 2025-12-19 |
+| `lei-15288-de-2025` | Altera a Lei nº 8.213, de 24 de julho de 1991, para prever a atuação do Serviço Social nos hospitais públicos (Lei nº 15.288, de 18 de dezembro de 2025) | 1 | 2025-12-19 to 2025-12-19 |
+| `lei-15292-de-2025` | Altera a Lei nº 11.416, de 15 de dezembro de 2006, para dispor sobre o adicional de qualificação dos servidores do Poder Judiciário da União (Lei nº 15.292, de 19 de dezembro de 2025) | 1 | 2025-12-22 to 2025-12-22 |
+| `lei-15293-de-2025` | Altera a Lei nº 11.416, de 15 de dezembro de 2006, que dispõe sobre as carreiras dos servidores do Poder Judiciário da União (Lei nº 15.293, de 19 de dezembro de 2025) | 1 | 2025-12-22 to 2025-12-22 |
+| `lei-15295-de-2025` | Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), e a Lei nº 12.037, de 1º de outubro de 2009, para dispor sobre a obtenção do perfil genético na identificação criminal (Lei nº 15.295, de 19 de dezembro de 2025) | 1 | 2026-01-21 to 2026-01-21 |
+| `lei-15299-de-2025` | Altera a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei de Crimes Ambientais), para estabelecer que não configura crime a poda ou o corte de árvore em logradouros públicos ou em propriedades privadas no caso de não... (Lei nº 15.299, de 22 de dezembro de 2025) | 1 | 2025-12-23 to 2025-12-23 |
+| `lei-15300-de-2025` | Dispõe sobre o licenciamento ambiental especial, para a consecução eficiente e eficaz de atividades e de empreendimentos estratégicos, nos termos que especifica (Lei nº 15.300, de 22 de dezembro de 2025) | 1 | 2025-12-23 to 2025-12-23 |
+| `lei-15302-de-2025` | Altera a Lei nº 15.080, de 30 de dezembro de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2025 (Lei nº 15.302, de 22 de dezembro de 2025) | 1 | 2025-12-23 to 2025-12-23 |
+| `lei-15306-de-2025` | Altera a Lei nº 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), para conceder porte de arma de fogo aos policiais legislativos das Assembleias Legislativas dos Estados e da Câmara Legislativa do... (Lei nº 15.306, de 22 de dezembro de 2025) | 1 | 2025-12-23 to 2025-12-23 |
+| `lei-15319-de-2025` | Reconhece a obra musical do violonista Sebastião Tapajós como manifestação da cultura nacional (Lei nº 15.319, de 26 de dezembro de 2025) | 1 | 2025-12-29 to 2025-12-29 |
+| `lei-15322-de-2026` | Institui a campanha Julho Dourado, destinada à promoção da saúde dos animais domésticos e de rua e à prevenção de zoonoses (Lei nº 15.322, de 6 de janeiro de 2026) | 1 | 2026-01-07 to 2026-01-07 |
+| `lei-15324-de-2026` | Altera as Leis nºs 9.472, de 16 de julho de 1997, e 9.295, de 19 de julho de 1996, para assegurar a prestação dos serviços de telecomunicações por cooperativas (Lei nº 15.324, de 6 de janeiro de 2026) | 1 | 2026-01-07 to 2026-01-07 |
+| `lei-15325-de-2026` | Dispõe sobre o exercício da profissão de multimídia (Lei nº 15.325, de 6 de janeiro de 2026) | 1 | 2026-01-07 to 2026-01-07 |
+| `lei-15326-de-2026` | Altera a Lei nº 11.738, de 16 de julho de 2008, para incluir os professores da educação infantil como profissionais do magistério, e a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação... (Lei nº 15.326, de 6 de janeiro de 2026) | 1 | 2026-01-07 to 2026-01-07 |
+| `lei-15327-de-2026` | Veda descontos relativos a mensalidades associativas nos benefícios administrados pelo Instituto Nacional do Seguro Social (INSS) (Lei nº 15.327, de 6 de janeiro de 2026) | 1 | 2026-01-07 to 2026-01-07 |
+| `lei-15329-de-2026` | Altera o Decreto-Lei nº 401, de 30 de dezembro de 1968, para dispor sobre a responsabilidade pela retenção e pelo recolhimento do Imposto sobre a Renda na fonte incidente sobre os juros remetidos para o exterior... (Lei nº 15.329, de 7 de janeiro de 2026) | 1 | 2026-01-08 to 2026-01-08 |
+| `lei-15330-de-2026` | Altera o art. 1º da Lei nº 11.675, de 19 de maio de 2008, para designar o açaí como fruta nacional (Lei nº 15.330, de 7 de janeiro de 2026) | 1 | 2026-01-08 to 2026-01-08 |
+| `lei-15331-de-2026` | Institui o Mês Nacional das Olimpíadas Científicas e do Conhecimento, a ser celebrado, anualmente, no mês de julho (Lei nº 15.331, de 7 de janeiro de 2026) | 1 | 2026-01-08 to 2026-01-08 |
 | `lei-de-concessoes` | Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995) | 12 | 1995-02-14 to 2021-04-01 |
 | `lei-das-parcerias-publico-privadas` | Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004) | 14 | 2004-12-31 to 2027-01-01 |
 | `lei-do-saneamento-basico` | Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007) | 15 | 2007-02-22 to 2025-03-18 |
@@ -1169,11 +1670,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-de-registros-publicos` | Lei de Registros Públicos (Lei nº 6.015, de 31 de dezembro de 1973) | 73 | 1976-01-01 to 2025-08-24 |
 | `lei-de-licitacoes-de-1993` | Lei de Licitações e Contratos (Lei nº 8.666, de 21 de junho de 1993) | 36 | 1993-06-22 to 2023-12-30 |
 
-The build made 3519 commits:
+The build made 4019 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 823 | first version of an act |
+| 1323 | first version of an act |
 | 2672 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -1181,7 +1682,7 @@ Other counts:
 - 10 commits on the branch `futuro`: laws not yet in force on 2026-11-03.
 - 219 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2711 laws in the record.
-- 7607 tags.
+- 8107 tags.
 
 ## Dates
 
@@ -1193,13 +1694,13 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `efe16256f8dce120ef9f0c5b806ecc1dc15f7b92a415ddc2ea0ec0ad79330c90` (54186340 bytes).
+- Corpus: sha256 `98a8e85a46b7df0fce511dfc1a76920739c13550ed1658f5e0c3d6259cc2410d` (58785603 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-4860 versions of 823 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -2086,6 +2587,510 @@ No second build of this corpus has been compared yet.
 - lei-9964-de-2000: from 2022-03-18, the in-force day of Medida Provisória 1.107/2022, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62)); in-force day not read, so its DOU day is used, for: Lei 10.189/2001 (DOU 2001-02-16)
 - lei-9973-de-2000: from 2026-06-05, the in-force day of Lei 15.429/2026, the latest among the acts its notes name (its DOU day 2026-06-05: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.429/2026 (DOU 2026-06-05)
 - lei-9990-de-2000: from 2000-07-24, its own clause: in force on publication
+- Part 98-current-002: 500 acts with their current text only, each one version, credited to Planalto as the oldest version available (first_law null). The text is the page as Planalto prints it now, with struck wordings and the notes beside them left out; headings are kept in the titulos unit as the history parts do.
+- Each version starts on the in-force day of the last change the text itself shows: the latest in-force day among the acts its notes name as changing it (Redação dada, Incluído, Revogado, Acrescido, Renumerado, Suprimido), each by the rule the history parts use: the act's own vigência clause, else LINDB art. 1 (publication + 45 days), and a Medida Provisória from its publication (CF art. 62). Where an act's clause was not read, its DOU day (from Planalto's index pages or the corpus's law records) is used and the act's line below names it. An act with no such note starts on its own in-force day by the same rule. Acts whose notes name decrees, rulings, Emendas, a staged in-force clause or the 2025-2026 tax reform (Leis Complementares 214/2025 and 227/2026) are left for their histories.
+- An act revoked as a whole (the revoking act named at the head of its page) has the text as last in force, then a second version that empties it, credited to the revoking act and dated by that act's in-force day by the same rule; its line below names it.
+- Earlier wordings are not shown here; their histories are built afterwards, appended behind these versions.
+- lei-complementar-194-de-2022: from 2022-06-23, its own clause: in force on publication
+- lei-complementar-195-de-2022: from 2023-12-18, the in-force day of Lei Complementar 202/2023, the latest among the acts its notes name (its DOU day 2023-12-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei Complementar 202/2023 (DOU 2023-12-18)
+- lei-complementar-196-de-2022: from 2022-08-25, its own clause: in force on publication
+- lei-complementar-197-de-2022: from 2022-12-07, its own clause: in force on publication
+- lei-complementar-198-de-2023: from 2023-06-28, its own clause: in force on publication
+- lei-complementar-199-de-2023: from 2023-08-02, its own clause: in force on publication
+- lei-complementar-201-de-2023: from 2023-10-24, its own clause: in force on publication
+- lei-complementar-202-de-2023: from 2023-12-18, its own clause: in force on publication
+- lei-complementar-203-de-2023: from 2023-12-18, its own clause: in force on publication
+- lei-complementar-205-de-2024: from 2024-05-10, its own clause: in force on publication
+- lei-complementar-206-de-2024: from 2024-05-17, its own clause: in force on publication
+- lei-complementar-208-de-2024: from 2024-07-03, its own clause: in force on publication
+- lei-complementar-209-de-2024: from 2024-10-04, its own clause: in force on publication
+- lei-complementar-210-de-2024: from 2024-11-26, its own clause: in force on publication
+- lei-complementar-211-de-2024: from 2024-12-31, its own clause: in force on publication
+- lei-complementar-212-de-2025: from 2025-01-14, its own clause: in force on publication
+- lei-complementar-213-de-2025: from 2025-03-02, no in-force clause of its own: LINDB art. 1, its DOU day (2025-01-16) + 45 days
+- lei-complementar-215-de-2025: from 2025-03-21, its own clause: in force on publication
+- lei-complementar-216-de-2025: from 2025-09-12, no in-force clause of its own: LINDB art. 1, its DOU day (2025-07-29) + 45 days
+- lei-complementar-217-de-2025: from 2025-09-19, its own clause: in force on publication
+- lei-complementar-218-de-2025: from 2025-09-25, its own clause: in force on publication
+- lei-complementar-219-de-2025: from 2025-09-30, its own clause: in force on publication
+- lei-complementar-220-de-2025: from 2025-11-03, its own clause: in force on publication
+- lei-complementar-221-de-2025: from 2026-08-28, the in-force day of Lei Complementar 235/2026, the latest among the acts its notes name (its DOU day 2026-08-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei Complementar 235/2026 (DOU 2026-08-28)
+- lei-complementar-222-de-2025: from 2025-11-27, its own clause: in force on publication
+- lei-complementar-223-de-2025: from 2025-11-19, its own clause: in force on publication
+- lei-complementar-224-de-2025: from 2026-08-28, the in-force day of Lei Complementar 235/2026, the latest among the acts its notes name (its DOU day 2026-08-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei Complementar 235/2026 (DOU 2026-08-28)
+- lei-14369-de-2022: from 2022-06-15, its own clause: in force on publication
+- lei-14370-de-2022: from 2022-06-15, its own clause: in force on publication
+- lei-14374-de-2022: from 2022-06-22, its own clause: in force on publication
+- lei-14375-de-2022: from 2022-06-22, its own clause: in force on publication
+- lei-14377-de-2022: from 2022-06-23, its own clause: in force on publication
+- lei-14385-de-2022: from 2022-06-28, its own clause: in force on publication
+- lei-14386-de-2022: from 2022-06-28, its own clause: in force on publication
+- lei-14390-de-2022: from 2022-07-05, its own clause: in force on publication
+- lei-14391-de-2022: from 2022-07-05, its own clause: in force on publication
+- lei-14392-de-2022: from 2022-07-05, its own clause: in force on publication
+- lei-14393-de-2022: from 2022-07-05, its own clause: in force on publication
+- lei-14394-de-2022: from 2022-07-05, its own clause: in force on publication
+- lei-14395-de-2022: from 2022-07-08, its own clause: in force on publication
+- lei-14397-de-2022: from 2022-07-08, its own clause: in force on publication
+- lei-14398-de-2022: from 2022-07-08, its own clause: in force on publication
+- lei-14399-de-2022: from 2025-05-02, the in-force day of Lei 15.132/2025, the latest among the acts its notes name (its DOU day 2025-05-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.132/2025 (DOU 2025-05-02)
+- lei-14400-de-2022: from 2022-07-08, its own clause: in force on publication
+- lei-14405-de-2022: from 2022-07-13, its own clause: in force on publication
+- lei-14406-de-2022: from 2022-07-13, its own clause: in force on publication
+- lei-14407-de-2022: from 2022-07-13, its own clause: in force on publication
+- lei-14408-de-2022: from 2022-07-13, its own clause: in force on publication
+- lei-14412-de-2022: from 2022-07-15, its own clause: in force on publication
+- lei-14416-de-2022: from 2022-07-20, its own clause: in force on publication
+- lei-14417-de-2022: from 2022-07-21, its own clause: in force on publication
+- lei-14420-de-2022: from 2022-07-21, its own clause: in force on publication
+- lei-14421-de-2022: from 2024-06-04, the in-force day of Medida Provisória 1.227/2024, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-14423-de-2022: from 2022-07-25, its own clause: in force on publication
+- lei-14424-de-2022: from 2022-07-28, its own clause: in force on publication
+- lei-14431-de-2022: from 2022-12-28, the in-force day of Lei 14.509/2022, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2022-12-28))
+- lei-14432-de-2022: from 2022-08-04, its own clause: in force on publication
+- lei-14434-de-2022: from 2022-08-05, its own clause: in force on publication
+- lei-14435-de-2022: from 2022-08-05, its own clause: in force on publication
+- lei-14437-de-2022: from 2022-08-16, its own clause: in force on publication
+- lei-14440-de-2022: from 2024-07-29, the in-force day of Lei 14.937/2024, the latest among the acts its notes name (its DOU day 2024-07-29: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.937/2024 (DOU 2024-07-29)
+- lei-14441-de-2022: from 2022-09-05, its own clause: in force on publication
+- lei-14442-de-2022: from 2022-09-05, its own clause: in force on publication
+- lei-14445-de-2022: from 2022-09-05, its own clause: in force on publication
+- lei-14447-de-2022: from 2022-09-09, its own clause: in force on publication
+- lei-14449-de-2022: from 2022-09-16, its own clause: in force on publication
+- lei-14451-de-2022: from 2022-10-22, its own clause: 30 days after its DOU day
+- lei-14452-de-2022: from 2022-12-30, the in-force day of Lei 14.516/2022, the latest among the acts its notes name (its DOU day 2022-12-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.516/2022 (DOU 2022-12-30)
+- lei-14453-de-2022: from 2022-09-22, its own clause: in force on publication
+- lei-14454-de-2022: from 2022-09-22, its own clause: in force on publication
+- lei-14455-de-2022: from 2022-09-22, its own clause: in force on publication
+- lei-14456-de-2022: from 2022-09-22, its own clause: in force on publication
+- lei-14457-de-2022: from 2022-09-22, its own clause: in force on publication
+- lei-14459-de-2022: from 2022-10-26, its own clause: in force on publication
+- lei-14460-de-2022: from 2022-10-26, its own clause: in force on publication
+- lei-14461-de-2022: from 2022-10-26, its own clause: in force on publication
+- lei-14462-de-2022: from 2022-10-27, its own clause: in force on publication
+- lei-14463-de-2022: from 2022-10-27, its own clause: in force on publication
+- lei-14464-de-2022: from 2022-11-03, its own clause: in force on publication
+- lei-14465-de-2022: from 2022-11-10, its own clause: in force on publication
+- lei-14466-de-2022: from 2022-11-17, its own clause: in force on publication
+- lei-14467-de-2022: from 2026-05-04, the in-force day of Medida Provisória 1.355/2026, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62)); in-force day not read, so its DOU day is used, for: Lei 15.078/2024 (DOU 2024-12-30)
+- lei-14468-de-2022: from 2022-11-17, its own clause: in force on publication
+- lei-14470-de-2022: from 2022-11-17, its own clause: in force on publication
+- lei-14473-de-2022: from 2022-12-07, its own clause: in force on publication
+- lei-14474-de-2022: from 2022-12-07, its own clause: in force on publication
+- lei-14475-de-2022: from 2022-12-14, its own clause: in force on publication
+- lei-14476-de-2022: from 2022-12-15, its own clause: in force on publication
+- lei-14479-de-2022: from 2022-12-22, its own clause: in force on publication
+- lei-14489-de-2022: from 2022-12-22, its own clause: in force on publication
+- lei-14508-de-2022: from 2022-12-28, its own clause: in force on publication
+- lei-14510-de-2022: from 2022-12-28, its own clause: in force on publication
+- lei-14513-de-2022: from 2022-12-28, its own clause: in force on publication
+- lei-14514-de-2022: from 2023-02-13, no in-force clause of its own: LINDB art. 1, its DOU day (2022-12-30) + 45 days
+- lei-14516-de-2022: from 2022-12-30, its own clause: in force on publication
+- lei-14520-de-2023: from 2023-01-10, its own clause: in force on publication
+- lei-14521-de-2023: from 2023-01-10, its own clause: in force on publication
+- lei-14522-de-2023: from 2023-01-10, its own clause: in force on publication
+- lei-14523-de-2023: from 2023-01-10, its own clause: in force on publication
+- lei-14524-de-2023: from 2023-01-10, its own clause: in force on publication
+- lei-14525-de-2023: from 2023-01-10, its own clause: in force on publication
+- lei-14526-de-2023: from 2023-01-10, its own clause: in force on publication
+- lei-14527-de-2023: from 2023-01-10, its own clause: in force on publication
+- lei-14528-de-2023: from 2023-01-10, its own clause: in force on publication
+- lei-14529-de-2023: from 2023-01-11, its own clause: in force on publication
+- lei-14530-de-2023: from 2023-01-11, its own clause: in force on publication
+- lei-14531-de-2023: from 2023-01-11, its own clause: in force on publication
+- lei-14533-de-2023: from 2023-01-11, its own clause: in force on publication
+- lei-14536-de-2023: from 2023-01-20, its own clause: in force on publication
+- lei-14538-de-2023: from 2023-07-02, its own clause: 90 days after its DOU day
+- lei-14540-de-2023: from 2023-04-04, its own clause: in force on publication
+- lei-14541-de-2023: from 2023-04-04, its own clause: in force on publication
+- lei-14542-de-2023: from 2023-04-04, its own clause: in force on publication
+- lei-14543-de-2023: from 2023-04-04, its own clause: in force on publication
+- lei-14544-de-2023: from 2023-04-05, its own clause: in force on publication
+- lei-14546-de-2023: from 2023-04-05, its own clause: in force on publication
+- lei-14547-de-2023: from 2023-04-14, its own clause: in force on publication
+- lei-14548-de-2023: from 2023-04-14, its own clause: in force on publication
+- lei-14549-de-2023: from 2023-04-14, its own clause: in force on publication
+- lei-14550-de-2023: from 2023-04-20, its own clause: in force on publication
+- lei-14553-de-2023: from 2023-04-24, its own clause: in force on publication
+- lei-14554-de-2023: from 2023-04-24, its own clause: in force on publication
+- lei-14555-de-2023: from 2024-06-24, the in-force day of Lei 14.900/2024, the latest among the acts its notes name (its DOU day 2024-06-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.900/2024 (DOU 2024-06-24)
+- lei-14556-de-2023: from 2023-04-26, its own clause: in force on publication
+- lei-14560-de-2023: from 2023-04-27, its own clause: in force on publication
+- lei-14561-de-2023: from 2023-04-27, its own clause: in force on publication
+- lei-14562-de-2023: from 2023-04-27, its own clause: in force on publication
+- lei-14563-de-2023: from 2023-04-28, its own clause: in force on publication
+- lei-14564-de-2023: from 2023-05-04, its own clause: in force on publication
+- lei-14566-de-2023: from 2023-05-05, its own clause: in force on publication
+- lei-14567-de-2023: from 2023-05-05, its own clause: in force on publication
+- lei-14568-de-2023: from 2023-05-05, its own clause: in force on publication
+- lei-14572-de-2023: from 2023-08-07, its own clause: 90 days after its DOU day
+- lei-14580-de-2023: from 2023-05-12, its own clause: in force on publication
+- lei-14582-de-2023: from 2023-05-17, its own clause: in force on publication
+- lei-14583-de-2023: from 2023-05-17, its own clause: in force on publication
+- lei-14588-de-2023: from 2023-05-19, its own clause: in force on publication
+- lei-14590-de-2023: from 2023-05-25, its own clause: in force on publication
+- lei-14591-de-2023: from 2023-05-26, its own clause: in force on publication
+- lei-14592-de-2023: from 2023-12-29, the in-force day of Lei 14.789/2023, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2023-12-29))
+- lei-14593-de-2023: from 2023-06-05, its own clause: in force on publication
+- lei-14595-de-2023: from 2023-06-06, its own clause: in force on publication
+- lei-14598-de-2023: from 2023-06-15, its own clause: in force on publication
+- lei-14599-de-2023: from 2023-06-20, its own clause: in force on publication
+- lei-14602-de-2023: from 2023-06-21, its own clause: in force on publication
+- lei-14603-de-2023: from 2023-06-21, its own clause: in force on publication
+- lei-14606-de-2023: from 2024-12-02, the in-force day of Lei 15.037/2024, the latest among the acts its notes name (its DOU day 2024-12-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.037/2024 (DOU 2024-12-02)
+- lei-14610-de-2023: from 2023-06-29, its own clause: in force on publication
+- lei-14611-de-2023: from 2023-07-04, its own clause: in force on publication
+- lei-14612-de-2023: from 2023-07-04, its own clause: in force on publication
+- lei-14613-de-2023: from 2023-07-04, its own clause: in force on publication
+- lei-14614-de-2023: from 2023-07-04, its own clause: in force on publication
+- lei-14615-de-2023: from 2023-07-10, its own clause: in force on publication
+- lei-14617-de-2023: from 2023-07-11, its own clause: in force on publication
+- lei-14619-de-2023: from 2023-07-12, its own clause: in force on publication
+- lei-14624-de-2023: from 2023-07-17, its own clause: in force on publication
+- lei-14625-de-2023: from 2023-07-18, its own clause: in force on publication
+- lei-14626-de-2023: from 2023-07-20, its own clause: in force on publication
+- lei-14627-de-2023: from 2023-07-20, its own clause: in force on publication
+- lei-14637-de-2023: from 2023-07-26, its own clause: in force on publication
+- lei-14639-de-2023: from 2023-07-26, its own clause: in force on publication
+- lei-14640-de-2023: from 2024-08-01, the in-force day of Lei 14.945/2024, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2024-08-01))
+- lei-14643-de-2023: from 2023-08-03, its own clause: in force on publication
+- lei-14644-de-2023: from 2023-08-03, its own clause: in force on publication
+- lei-14645-de-2023: from 2023-08-03, its own clause: in force on publication
+- lei-14647-de-2023: from 2023-08-07, its own clause: in force on publication
+- lei-14648-de-2023: from 2023-08-07, its own clause: in force on publication
+- lei-14649-de-2023: from 2023-08-17, its own clause: in force on publication
+- lei-14651-de-2023: from 2023-08-24, its own clause: in force on publication
+- lei-14652-de-2023: from 2023-08-24, its own clause: in force on publication
+- lei-14653-de-2023: from 2023-08-24, its own clause: in force on publication
+- lei-14655-de-2023: from 2023-08-24, its own clause: in force on publication
+- lei-14657-de-2023: from 2023-08-24, its own clause: in force on publication
+- lei-14658-de-2023: from 2023-08-24, its own clause: in force on publication
+- lei-14660-de-2023: from 2023-08-24, its own clause: in force on publication
+- lei-14661-de-2023: from 2023-08-24, its own clause: in force on publication
+- lei-14662-de-2023: from 2023-08-25, its own clause: in force on publication
+- lei-14663-de-2023: from 2023-08-28, its own clause: in force on publication
+- lei-14666-de-2023: from 2023-09-05, its own clause: in force on publication
+- lei-14667-de-2023: from 2023-09-05, its own clause: in force on publication
+- lei-14668-de-2023: from 2023-09-12, its own clause: in force on publication
+- lei-14671-de-2023: from 2023-09-12, its own clause: in force on publication
+- lei-14674-de-2023: from 2023-09-15, its own clause: in force on publication
+- lei-14675-de-2023: from 2023-12-14, its own clause: 90 days after its DOU day
+- lei-14676-de-2023: from 2023-09-19, its own clause: in force on publication
+- lei-14677-de-2023: from 2023-09-19, its own clause: in force on publication
+- lei-14678-de-2023: from 2023-09-19, its own clause: in force on publication
+- lei-14679-de-2023: from 2023-11-03, no in-force clause of its own: LINDB art. 1, its DOU day (2023-09-19) + 45 days
+- lei-14680-de-2023: from 2023-09-19, its own clause: in force on publication
+- lei-14681-de-2023: from 2023-09-19, its own clause: in force on publication
+- lei-14683-de-2023: from 2023-09-21, its own clause: in force on publication
+- lei-14684-de-2023: from 2023-09-21, its own clause: in force on publication
+- lei-14685-de-2023: from 2023-09-21, its own clause: in force on publication
+- lei-14687-de-2023: from 2023-09-21, its own clause: in force on publication
+- lei-14688-de-2023: from 2023-11-20, its own clause: 60 days after its DOU day
+- lei-14689-de-2023: from 2023-09-21, its own clause: in force on publication
+- lei-14690-de-2023: from 2026-09-25, the in-force day of Medida Provisória 1.393/2026, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-14691-de-2023: from 2023-10-04, its own clause: in force on publication
+- lei-14692-de-2023: from 2023-10-04, its own clause: in force on publication
+- lei-14694-de-2023: from 2023-10-11, its own clause: in force on publication
+- lei-14695-de-2023: from 2023-10-11, its own clause: in force on publication
+- lei-14697-de-2023: from 2023-10-16, its own clause: in force on publication
+- lei-14698-de-2023: from 2023-10-20, its own clause: in force on publication
+- lei-14701-de-2023: from 2023-10-20, its own clause: in force on publication
+- lei-14704-de-2023: from 2023-10-26, its own clause: in force on publication
+- lei-14705-de-2023: from 2025-07-24, the in-force day of Lei 15.176/2025, the latest among the acts its notes name (its DOU day 2025-07-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.176/2025 (DOU 2025-07-24)
+- lei-14711-de-2023: from 2023-12-15, no in-force clause of its own: LINDB art. 1, its DOU day (2023-10-31) + 45 days
+- lei-14713-de-2023: from 2023-10-31, its own clause: in force on publication
+- lei-14714-de-2023: from 2023-10-31, its own clause: in force on publication
+- lei-14715-de-2023: from 2023-10-31, its own clause: in force on publication
+- lei-14718-de-2023: from 2023-11-03, its own clause: in force on publication
+- lei-14719-de-2023: from 2023-11-03, its own clause: in force on publication
+- lei-14720-de-2023: from 2023-11-08, its own clause: in force on publication
+- lei-14722-de-2023: from 2024-02-07, its own clause: 90 days after its DOU day
+- lei-14723-de-2023: from 2023-11-14, its own clause: in force on publication
+- lei-14724-de-2023: from 2024-11-13, the in-force day of Medida Provisória 1.273/2024, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-14725-de-2023: from 2023-11-17, its own clause: in force on publication
+- lei-14740-de-2023: from 2023-11-30, its own clause: in force on publication
+- lei-14747-de-2023: from 2024-01-05, its own clause: 30 days after its DOU day
+- lei-14748-de-2023: from 2023-12-06, its own clause: in force on publication
+- lei-14750-de-2023: from 2023-12-13, its own clause: in force on publication
+- lei-14751-de-2023: from 2023-12-13, its own clause: in force on publication
+- lei-14752-de-2023: from 2023-12-13, its own clause: in force on publication
+- lei-14753-de-2023: from 2023-12-13, its own clause: in force on publication
+- lei-14757-de-2023: from 2023-12-20, its own clause: in force on publication
+- lei-14758-de-2023: from 2026-04-13, the in-force day of Lei 15.385/2026, the latest among the acts its notes name (its DOU day 2026-04-13: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.385/2026 (DOU 2026-04-13)
+- lei-14766-de-2023: from 2023-12-22, its own clause: in force on publication
+- lei-14767-de-2023: from 2023-12-22, its own clause: in force on publication
+- lei-14770-de-2023: from 2023-12-22, its own clause: in force on publication
+- lei-14784-de-2023: from 2024-02-11, no in-force clause of its own: LINDB art. 1, its DOU day (2023-12-28) + 45 days
+- lei-14787-de-2023: from 2023-12-29, its own clause: in force on publication
+- lei-14788-de-2023: from 2023-12-29, its own clause: in force on publication
+- lei-14794-de-2024: from 2024-01-08, its own clause: in force on publication
+- lei-14795-de-2024: from 2024-01-08, its own clause: in force on publication
+- lei-14799-de-2024: from 2024-01-08, its own clause: in force on publication
+- lei-14801-de-2024: from 2026-09-16, the in-force day of Lei 15.506/2026, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2026-09-16))
+- lei-14802-de-2024: from 2024-01-11, its own clause: in force on publication
+- lei-14803-de-2024: from 2024-01-11, its own clause: in force on publication
+- lei-14804-de-2024: from 2024-01-11, its own clause: in force on publication
+- lei-14809-de-2024: from 2024-01-15, its own clause: in force on publication
+- lei-14810-de-2024: from 2024-01-15, its own clause: in force on publication
+- lei-14811-de-2024: from 2024-01-15, its own clause: in force on publication
+- lei-14812-de-2024: from 2024-01-16, its own clause: in force on publication
+- lei-14813-de-2024: from 2024-01-16, its own clause: in force on publication
+- lei-14814-de-2024: from 2024-01-16, its own clause: in force on publication
+- lei-14815-de-2024: from 2024-01-16, its own clause: in force on publication
+- lei-14816-de-2024: from 2024-01-17, its own clause: in force on publication
+- lei-14817-de-2024: from 2024-01-17, its own clause: in force on publication
+- lei-14818-de-2024: from 2025-11-21, the in-force day of Lei 15.265/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-11-21))
+- lei-14819-de-2024: from 2024-01-17, its own clause: in force on publication
+- lei-14820-de-2024: from 2024-01-17, its own clause: in force on publication
+- lei-14821-de-2024: from 2024-01-17, its own clause: in force on publication
+- lei-14824-de-2024: from 2024-03-21, its own clause: in force on publication
+- lei-14825-de-2024: from 2024-03-21, its own clause: in force on publication
+- lei-14828-de-2024: from 2024-03-21, its own clause: in force on publication
+- lei-14829-de-2024: from 2024-03-27, its own clause: in force on publication
+- lei-14831-de-2024: from 2024-03-28, its own clause: in force on publication
+- lei-14832-de-2024: from 2024-03-28, its own clause: in force on publication
+- lei-14833-de-2024: from 2024-03-28, its own clause: in force on publication
+- lei-14835-de-2024: from 2024-04-05, its own clause: in force on publication
+- lei-14836-de-2024: from 2024-04-09, its own clause: in force on publication
+- lei-14837-de-2024: from 2024-04-09, its own clause: in force on publication
+- lei-14841-de-2024: from 2024-04-11, its own clause: in force on publication
+- lei-14842-de-2024: from 2024-04-11, its own clause: in force on publication
+- lei-14843-de-2024: from 2024-04-11, its own clause: in force on publication
+- lei-14844-de-2024: from 2024-04-25, its own clause: in force on publication
+- lei-14845-de-2024: from 2024-04-25, its own clause: in force on publication
+- lei-14846-de-2024: from 2024-04-25, its own clause: in force on publication
+- lei-14847-de-2024: from 2024-04-26, its own clause: in force on publication
+- lei-14849-de-2024: from 2024-05-03, its own clause: in force on publication
+- lei-14850-de-2024: from 2024-05-03, its own clause: in force on publication
+- lei-14851-de-2024: from 2024-05-06, its own clause: in force on publication
+- lei-14855-de-2024: from 2024-05-17, its own clause: in force on publication
+- lei-14856-de-2024: from 2024-05-17, its own clause: in force on publication
+- lei-14858-de-2024: from 2024-05-22, its own clause: in force on publication
+- lei-14859-de-2024: from 2024-05-23, its own clause: in force on publication
+- lei-14862-de-2024: from 2024-05-28, its own clause: in force on publication
+- lei-14872-de-2024: from 2024-05-29, its own clause: in force on publication
+- lei-14873-de-2024: from 2024-05-29, its own clause: in force on publication
+- lei-14874-de-2024: from 2024-08-27, its own clause: 90 days after its DOU day
+- lei-14876-de-2024: from 2024-05-31, its own clause: in force on publication
+- lei-14878-de-2024: from 2024-06-05, its own clause: in force on publication
+- lei-14879-de-2024: from 2024-06-05, its own clause: in force on publication
+- lei-14880-de-2024: from 2024-06-05, its own clause: in force on publication
+- lei-14882-de-2024: from 2024-06-12, its own clause: in force on publication
+- lei-14886-de-2024: from 2024-06-12, its own clause: in force on publication
+- lei-14887-de-2024: from 2024-06-13, its own clause: in force on publication
+- lei-14888-de-2024: from 2024-06-13, its own clause: in force on publication
+- lei-14899-de-2024: from 2026-04-10, the in-force day of Lei 15.383/2026, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2026-04-10))
+- lei-14900-de-2024: from 2024-06-24, its own clause: in force on publication
+- lei-14902-de-2024: from 2024-12-24, the in-force day of Lei 15.071/2024, the latest among the acts its notes name (its DOU day 2024-12-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.071/2024 (DOU 2024-12-24)
+- lei-14903-de-2024: from 2024-06-28, its own clause: in force on publication
+- lei-14904-de-2024: from 2024-06-28, its own clause: in force on publication
+- lei-14906-de-2024: from 2024-07-02, its own clause: in force on publication
+- lei-14911-de-2024: from 2024-07-04, its own clause: in force on publication
+- lei-14912-de-2024: from 2024-07-04, its own clause: in force on publication
+- lei-14913-de-2024: from 2024-07-04, its own clause: in force on publication
+- lei-14914-de-2024: from 2025-07-18, the in-force day of Lei 15.169/2025, the latest among the acts its notes name (its DOU day 2025-07-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.169/2025 (DOU 2025-07-18)
+- lei-14917-de-2024: from 2024-07-08, its own clause: in force on publication
+- lei-14921-de-2024: from 2024-07-11, its own clause: in force on publication
+- lei-14924-de-2024: from 2024-07-15, its own clause: in force on publication
+- lei-14925-de-2024: from 2024-07-18, its own clause: in force on publication
+- lei-14932-de-2024: from 2024-07-24, its own clause: in force on publication
+- lei-14933-de-2024: from 2024-07-25, its own clause: in force on publication
+- lei-14934-de-2024: from 2024-07-26, its own clause: in force on publication
+- lei-14935-de-2024: from 2024-07-29, its own clause: in force on publication
+- lei-14939-de-2024: from 2024-07-31, its own clause: in force on publication
+- lei-14944-de-2024: from 2024-11-25, the in-force day of Medida Provisória 1.276/2024, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-14952-de-2024: from 2024-08-07, its own clause: in force on publication
+- lei-14958-de-2024: from 2024-09-04, its own clause: in force on publication
+- lei-14959-de-2024: from 2024-09-05, its own clause: in force on publication
+- lei-14960-de-2024: from 2024-09-05, its own clause: in force on publication
+- lei-14961-de-2024: from 2024-09-05, its own clause: in force on publication
+- lei-14963-de-2024: from 2024-09-06, its own clause: in force on publication
+- lei-14967-de-2024: from 2024-09-10, its own clause: in force on publication
+- lei-14969-de-2024: from 2024-09-16, its own clause: in force on publication
+- lei-14972-de-2024: from 2024-09-16, its own clause: in force on publication
+- lei-14973-de-2024: from 2026-05-04, the in-force day of Medida Provisória 1.355/2026, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-14975-de-2024: from 2024-09-19, its own clause: in force on publication
+- lei-14976-de-2024: from 2024-09-19, its own clause: in force on publication
+- lei-14978-de-2024: from 2024-09-19, its own clause: in force on publication
+- lei-14979-de-2024: from 2024-09-19, its own clause: in force on publication
+- lei-14980-de-2024: from 2024-09-19, its own clause: in force on publication
+- lei-14981-de-2024: from 2024-12-02, the in-force day of Lei 15.038/2024, the latest among the acts its notes name (its DOU day 2024-12-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.038/2024 (DOU 2024-12-02)
+- lei-14982-de-2024: from 2024-09-23, its own clause: in force on publication
+- lei-14983-de-2024: from 2024-09-23, its own clause: in force on publication
+- lei-14984-de-2024: from 2024-09-25, its own clause: in force on publication
+- lei-14987-de-2024: from 2024-12-25, its own clause: 90 days after its DOU day
+- lei-14988-de-2024: from 2024-09-26, its own clause: in force on publication
+- lei-14989-de-2024: from 2024-09-26, its own clause: in force on publication
+- lei-14990-de-2024: from 2025-11-25, the in-force day of Lei 15.269/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-11-25))
+- lei-14991-de-2024: from 2024-09-30, its own clause: in force on publication
+- lei-14992-de-2024: from 2024-10-04, its own clause: in force on publication
+- lei-14994-de-2024: from 2024-10-10, its own clause: in force on publication
+- lei-14995-de-2024: from 2024-12-27, the in-force day of Lei 15.077/2024, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2024-12-27))
+- lei-14996-de-2024: from 2024-10-16, its own clause: in force on publication
+- lei-14997-de-2024: from 2024-10-16, its own clause: in force on publication
+- lei-15005-de-2024: from 2024-10-18, its own clause: in force on publication
+- lei-15006-de-2024: from 2024-10-18, its own clause: in force on publication
+- lei-15008-de-2024: from 2024-10-18, its own clause: in force on publication
+- lei-15009-de-2024: from 2024-10-30, its own clause: in force on publication
+- lei-15012-de-2024: from 2024-11-05, its own clause: in force on publication
+- lei-15014-de-2024: from 2024-11-07, its own clause: in force on publication
+- lei-15015-de-2024: from 2024-11-13, its own clause: in force on publication
+- lei-15017-de-2024: from 2024-11-13, its own clause: in force on publication
+- lei-15021-de-2024: from 2025-02-11, its own clause: 90 days after its DOU day
+- lei-15022-de-2024: from 2024-11-14, its own clause: in force on publication
+- lei-15026-de-2024: from 2024-11-19, its own clause: in force on publication
+- lei-15027-de-2024: from 2024-11-19, its own clause: in force on publication
+- lei-15033-de-2024: from 2024-11-27, its own clause: in force on publication
+- lei-15034-de-2024: from 2024-11-28, its own clause: in force on publication
+- lei-15035-de-2024: from 2024-11-28, its own clause: in force on publication
+- lei-15037-de-2024: from 2024-12-02, its own clause: in force on publication
+- lei-15038-de-2024: from 2024-12-02, its own clause: in force on publication
+- lei-15039-de-2024: from 2024-12-10, its own clause: in force on publication
+- lei-15041-de-2024: from 2024-12-10, its own clause: in force on publication
+- lei-15042-de-2024: from 2024-12-27, the in-force day of Lei 15.076/2024, the latest among the acts its notes name (its DOU day 2024-12-27: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.076/2024 (DOU 2024-12-27)
+- lei-15046-de-2024: from 2024-12-18, its own clause: in force on publication
+- lei-15047-de-2024: from 2024-12-18, its own clause: in force on publication
+- lei-15052-de-2024: from 2024-12-23, its own clause: in force on publication
+- lei-15060-de-2024: from 2024-12-23, its own clause: in force on publication
+- lei-15067-de-2024: from 2024-12-23, its own clause: in force on publication
+- lei-15068-de-2024: from 2024-12-24, its own clause: in force on publication
+- lei-15069-de-2024: from 2024-12-24, its own clause: in force on publication
+- lei-15070-de-2024: from 2024-12-24, its own clause: in force on publication
+- lei-15071-de-2024: from 2024-12-24, its own clause: in force on publication
+- lei-15072-de-2024: from 2024-12-27, its own clause: in force on publication
+- lei-15073-de-2024: from 2024-12-27, its own clause: in force on publication
+- lei-15074-de-2024: from 2024-12-27, its own clause: in force on publication
+- lei-15075-de-2024: from 2024-12-27, its own clause: in force on publication
+- lei-15076-de-2024: from 2024-12-27, its own clause: in force on publication
+- lei-15077-de-2024: from 2024-12-27, its own clause: in force on publication
+- lei-15078-de-2024: from 2024-12-30, its own clause: in force on publication
+- lei-15081-de-2024: from 2024-12-31, its own clause: in force on publication
+- lei-15082-de-2024: from 2025-02-14, no in-force clause of its own: LINDB art. 1, its DOU day (2024-12-31) + 45 days
+- lei-15083-de-2025: from 2025-01-03, its own clause: in force on publication
+- lei-15088-de-2025: from 2025-01-07, its own clause: in force on publication
+- lei-15089-de-2025: from 2025-01-08, its own clause: in force on publication
+- lei-15090-de-2025: from 2025-01-08, its own clause: in force on publication
+- lei-15092-de-2025: from 2025-01-08, its own clause: in force on publication
+- lei-15094-de-2025: from 2025-01-09, its own clause: in force on publication
+- lei-15095-de-2025: from 2025-01-10, its own clause: in force on publication
+- lei-15096-de-2025: from 2025-01-10, its own clause: in force on publication
+- lei-15097-de-2025: from 2025-01-10, its own clause: in force on publication
+- lei-15100-de-2025: from 2025-01-14, its own clause: in force on publication
+- lei-15102-de-2025: from 2025-01-16, its own clause: in force on publication
+- lei-15103-de-2025: from 2025-01-23, its own clause: in force on publication
+- lei-15108-de-2025: from 2025-03-14, its own clause: in force on publication
+- lei-15109-de-2025: from 2025-03-14, its own clause: in force on publication
+- lei-15112-de-2025: from 2025-03-18, its own clause: in force on publication
+- lei-15113-de-2025: from 2025-03-19, its own clause: in force on publication
+- lei-15116-de-2025: from 2025-04-03, its own clause: in force on publication
+- lei-15117-de-2025: from 2025-04-03, its own clause: in force on publication
+- lei-15122-de-2025: from 2025-04-14, its own clause: in force on publication
+- lei-15123-de-2025: from 2025-04-25, its own clause: in force on publication
+- lei-15124-de-2025: from 2025-04-25, its own clause: in force on publication
+- lei-15125-de-2025: from 2025-04-25, its own clause: in force on publication
+- lei-15126-de-2025: from 2025-04-29, its own clause: in force on publication
+- lei-15127-de-2025: from 2025-04-29, its own clause: in force on publication
+- lei-15131-de-2025: from 2025-04-30, its own clause: in force on publication
+- lei-15133-de-2025: from 2025-05-07, its own clause: in force on publication
+- lei-15134-de-2025: from 2025-05-07, its own clause: in force on publication
+- lei-15137-de-2025: from 2025-05-22, its own clause: in force on publication
+- lei-15139-de-2025: from 2025-08-24, its own clause: 90 days after its DOU day
+- lei-15140-de-2025: from 2025-05-29, its own clause: in force on publication
+- lei-15142-de-2025: from 2025-06-04, its own clause: in force on publication
+- lei-15143-de-2025: from 2025-06-06, its own clause: in force on publication
+- lei-15146-de-2025: from 2025-06-10, its own clause: in force on publication
+- lei-15150-de-2025: from 2025-06-17, its own clause: in force on publication
+- lei-15156-de-2025: from 2025-07-02, its own clause: in force on publication
+- lei-15157-de-2025: from 2025-07-02, its own clause: in force on publication
+- lei-15159-de-2025: from 2025-07-04, its own clause: in force on publication
+- lei-15160-de-2025: from 2025-07-04, its own clause: in force on publication
+- lei-15163-de-2025: from 2025-07-04, its own clause: in force on publication
+- lei-15168-de-2025: from 2025-07-18, its own clause: in force on publication
+- lei-15169-de-2025: from 2025-07-18, its own clause: in force on publication
+- lei-15172-de-2025: from 2025-07-23, its own clause: in force on publication
+- lei-15173-de-2025: from 2025-07-23, its own clause: in force on publication
+- lei-15174-de-2025: from 2025-10-21, its own clause: 90 days after its DOU day
+- lei-15175-de-2025: from 2025-07-24, its own clause: in force on publication
+- lei-15178-de-2025: from 2025-07-24, its own clause: in force on publication
+- lei-15179-de-2025: from 2025-07-25, its own clause: in force on publication
+- lei-15180-de-2025: from 2025-07-28, its own clause: in force on publication
+- lei-15181-de-2025: from 2025-07-29, its own clause: in force on publication
+- lei-15182-de-2025: from 2025-07-31, its own clause: in force on publication
+- lei-15183-de-2025: from 2025-07-31, its own clause: in force on publication
+- lei-15184-de-2025: from 2025-08-05, its own clause: in force on publication
+- lei-15185-de-2025: from 2025-08-05, its own clause: in force on publication
+- lei-15186-de-2025: from 2025-08-05, its own clause: in force on publication
+- lei-15188-de-2025: from 2025-08-07, its own clause: in force on publication
+- lei-15190-de-2025: from 2025-12-23, the in-force day of Lei 15.300/2025, the latest among the acts its notes name (its DOU day 2025-12-23: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.300/2025 (DOU 2025-12-23)
+- lei-15191-de-2025: from 2025-09-25, no in-force clause of its own: LINDB art. 1, its DOU day (2025-08-11) + 45 days
+- lei-15192-de-2025: from 2025-08-29, its own clause: in force on publication
+- lei-15196-de-2025: from 2025-09-08, its own clause: in force on publication
+- lei-15199-de-2025: from 2025-09-09, its own clause: in force on publication
+- lei-15201-de-2025: from 2025-09-10, its own clause: in force on publication
+- lei-15202-de-2025: from 2025-09-12, its own clause: in force on publication
+- lei-15203-de-2025: from 2025-09-12, its own clause: in force on publication
+- lei-15205-de-2025: from 2025-09-15, its own clause: in force on publication
+- lei-15206-de-2025: from 2025-09-15, its own clause: in force on publication
+- lei-15207-de-2025: from 2025-09-15, its own clause: in force on publication
+- lei-15208-de-2025: from 2025-09-16, its own clause: in force on publication
+- lei-15211-de-2025: from 2026-09-15, the in-force day of Lei 15.504/2026, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2026-09-15))
+- lei-15212-de-2025: from 2025-09-19, its own clause: in force on publication
+- lei-15215-de-2025: from 2025-09-19, its own clause: in force on publication
+- lei-15220-de-2025: from 2025-09-29, its own clause: in force on publication
+- lei-15221-de-2025: from 2025-09-30, its own clause: in force on publication
+- lei-15222-de-2025: from 2025-09-30, its own clause: in force on publication
+- lei-15229-de-2025: from 2025-10-03, its own clause: in force on publication
+- lei-15230-de-2025: from 2025-10-03, its own clause: in force on publication
+- lei-15231-de-2025: from 2025-10-07, its own clause: in force on publication
+- lei-15232-de-2025: from 2025-10-07, its own clause: in force on publication
+- lei-15233-de-2025: from 2025-10-08, its own clause: in force on publication
+- lei-15234-de-2025: from 2025-10-08, its own clause: in force on publication
+- lei-15235-de-2025: from 2025-11-25, the in-force day of Lei 15.269/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-11-25))
+- lei-15236-de-2025: from 2025-10-17, its own clause: in force on publication
+- lei-15240-de-2025: from 2025-10-29, its own clause: in force on publication
+- lei-15245-de-2025: from 2025-10-30, its own clause: in force on publication
+- lei-15246-de-2025: from 2025-10-31, its own clause: in force on publication
+- lei-15247-de-2025: from 2025-11-03, its own clause: in force on publication
+- lei-15249-de-2025: from 2025-11-04, its own clause: in force on publication
+- lei-15250-de-2025: from 2025-11-04, its own clause: in force on publication
+- lei-15251-de-2025: from 2025-11-04, its own clause: in force on publication
+- lei-15252-de-2025: from 2025-11-05, its own clause: in force on publication
+- lei-15253-de-2025: from 2025-11-06, its own clause: in force on publication
+- lei-15256-de-2025: from 2025-11-13, its own clause: in force on publication
+- lei-15257-de-2025: from 2025-11-13, its own clause: in force on publication
+- lei-15258-de-2025: from 2025-11-13, its own clause: in force on publication
+- lei-15260-de-2025: from 2025-11-13, its own clause: in force on publication
+- lei-15261-de-2025: from 2025-11-14, its own clause: in force on publication
+- lei-15262-de-2025: from 2025-11-14, its own clause: in force on publication
+- lei-15263-de-2025: from 2025-11-17, its own clause: in force on publication
+- lei-15266-de-2025: from 2025-11-24, its own clause: in force on publication
+- lei-15268-de-2025: from 2025-11-24, its own clause: in force on publication
+- lei-15271-de-2025: from 2025-11-27, its own clause: in force on publication
+- lei-15272-de-2025: from 2025-11-27, its own clause: in force on publication
+- lei-15273-de-2025: from 2025-11-27, its own clause: in force on publication
+- lei-15279-de-2025: from 2025-12-03, its own clause: in force on publication
+- lei-15280-de-2025: from 2025-12-08, its own clause: in force on publication
+- lei-15281-de-2025: from 2025-12-08, its own clause: in force on publication
+- lei-15282-de-2025: from 2025-12-10, its own clause: in force on publication
+- lei-15284-de-2025: from 2025-12-19, its own clause: in force on publication
+- lei-15285-de-2025: from 2025-12-19, its own clause: in force on publication
+- lei-15288-de-2025: from 2025-12-19, its own clause: in force on publication
+- lei-15292-de-2025: from 2025-12-22, its own clause: in force on publication
+- lei-15293-de-2025: from 2025-12-22, its own clause: in force on publication
+- lei-15295-de-2025: from 2026-01-21, its own clause: 30 days after its DOU day
+- lei-15299-de-2025: from 2025-12-23, its own clause: in force on publication
+- lei-15300-de-2025: from 2025-12-23, its own clause: in force on publication
+- lei-15302-de-2025: from 2025-12-23, its own clause: in force on publication
+- lei-15306-de-2025: from 2025-12-23, its own clause: in force on publication
+- lei-15319-de-2025: from 2025-12-29, its own clause: in force on publication
+- lei-15322-de-2026: from 2026-01-07, its own clause: in force on publication
+- lei-15324-de-2026: from 2026-01-07, its own clause: in force on publication
+- lei-15325-de-2026: from 2026-01-07, its own clause: in force on publication
+- lei-15326-de-2026: from 2026-01-07, its own clause: in force on publication
+- lei-15327-de-2026: from 2026-01-07, its own clause: in force on publication
+- lei-15329-de-2026: from 2026-01-08, its own clause: in force on publication
+- lei-15330-de-2026: from 2026-01-08, its own clause: in force on publication
+- lei-15331-de-2026: from 2026-01-08, its own clause: in force on publication
 - Acts of this part (Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995); Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004); Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007); Lei do Petróleo (Lei nº 9.478, de 6 de agosto de 1997); Lei de Abuso de Autoridade (Lei nº 13.869, de 5 de setembro de 2019); Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980); Lei das Inelegibilidades (Lei Complementar nº 64, de 18 de maio de 1990); Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990); Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023); Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003); Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981)): each paragraph's life span is read from Planalto's annotated page of the act (l8987cons.htm, l11079.htm, l11445.htm, l9478.htm, l13869.htm, l6880.htm, lcp64.htm, l8142.htm, l14597.htm, l10.671.htm, l6938.htm), with the replay of Lexifina's code (imported, not copied): struck wordings stay in place before the wording that replaced them, each closed by the source's own note ('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted.
 - Credits come only from those notes; a changed article with no note naming a law stays uncredited.
 - A struck wording with no 'Revogado' note ends when the next wording of the same dispositivo (same label in the same article) starts; a Medida Provisória's wording with no later wording ends on the in-force day of the law that converted the MP (read from the MP page's 'Convertida na Lei' line).
@@ -6102,6 +7107,7 @@ Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP lapse days) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP fates, court rulings) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (MP lapse days, staged vigência days, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
