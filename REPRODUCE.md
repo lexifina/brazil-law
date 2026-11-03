@@ -29,6 +29,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
+| Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995), Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004), Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007), Lei do Petróleo (Lei nº 9.478, de 6 de agosto de 1997), Lei de Abuso de Autoridade (Lei nº 13.869, de 5 de setembro de 2019), Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980), Lei das Inelegibilidades (Lei Complementar nº 64, de 18 de maio de 1990), Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990), Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023), Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003), Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-31 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | LexML Brasil (Senado Federal): record of each cited law, for its 'Publicação Original' DOU day | <https://www.lexml.gov.br/> | 2026-10-31 | Public federal portal; bibliographic data of official acts |
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Execução Fiscal (Lei nº 6.830, de 22 de setembro de 1980), Lei de Defesa da Concorrência (Lei nº 12.529, de 30 de novembro de 2011), Estatuto da Advocacia e da OAB (Lei nº 8.906, de 4 de julho de 1994), Lei da ADI e da ADC (Lei nº 9.868, de 10 de novembro de 1999), Lei da ADPF (Lei nº 9.882, de 3 de dezembro de 1999), Crimes contra a ordem tributária, econômica e as relações de consumo (Lei nº 8.137, de 27 de dezembro de 1990), Lei de Interceptação Telefônica (Lei nº 9.296, de 24 de julho de 1996), Lei do Bem de Família (Lei nº 8.009, de 29 de março de 1990), Lei da Ação Popular (Lei nº 4.717, de 29 de junho de 1965), Crimes contra o Sistema Financeiro Nacional (Lei nº 7.492, de 16 de junho de 1986) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-31 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
@@ -2864,6 +2865,506 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-12321-de-2010` | Dispõe sobre a criação de cargos e funções nos Quadros de Pessoal dos ramos do Ministério Público da União (Lei nº 12.321, de 8 de setembro de 2010) | 1 | 2010-09-08 to 2010-09-08 |
 | `lei-12322-de-2010` | Transforma o agravo de instrumento interposto contra decisão que não admite recurso extraordinário ou especial em agravo nos próprios autos, alterando dispositivos da Lei n o 5.869, de 11 de janeiro de 1973 - Código... (Lei nº 12.322, de 9 de setembro de 2010) | 1 | 2010-12-09 to 2010-12-09 |
 | `lei-12323-de-2010` | Cria cargos no Quadro de Pessoal Permanente da Agência Nacional de Cinema - ANCINE, de que trata a Lei n o 10.871, de 20 de maio de 2004 (Lei nº 12.323, de 15 de setembro de 2010) | 1 | 2010-09-16 to 2010-09-16 |
+| `lei-complementar-103-de-2000` | Autoriza os Estados e o Distrito Federal a instituir o piso salarial a que se refere o inciso V do art. 7º da Constituição Federal, por aplicação do disposto no parágrafo único do seu art. 22 (Lei Complementar nº 103, de 14 de julho de 2000) | 1 | 2000-07-17 to 2000-07-17 |
+| `lei-complementar-104-de-2001` | Altera dispositivos da Lei nº 5.172, de 25 de outubro de 1966 – Código Tributário Nacional (Lei Complementar nº 104, de 10 de janeiro de 2001) | 1 | 2001-01-11 to 2001-01-11 |
+| `lei-complementar-106-de-2001` | Dá nova redação aos §§ 1º e 2º do art. 2º da Lei Complementar nº 91, de 22 de dezembro de 1997, que dispõe sobre a fixação dos coeficientes de distribuição dos recursos do Fundo de Participação dos Municípios.... (Lei Complementar nº 106, de 23 de março de 2001) | 1 | 2001-03-26 to 2001-03-26 |
+| `lei-complementar-111-de-2001` | Dispõe sobre o Fundo de Combate e Erradicação da Pobreza, na forma prevista nos artigos 79, 80 e 81 do Ato das Disposições Constitucionais Transitórias (Lei Complementar nº 111, de 6 de julho de 2001) | 1 | 2001-07-09 to 2001-07-09 |
+| `lei-complementar-112-de-2001` | Autoriza o Poder Executivo a criar a Região Integrada de Desenvolvimento da Grande Teresina e instituir o Programa Especial de Desenvolvimento da Grande Teresina e dá outras providências (Lei Complementar nº 112, de 19 de setembro de 2001) | 1 | 2001-09-20 to 2001-09-20 |
+| `lei-complementar-113-de-2001` | Autoriza o Poder Executivo a criar a Região Administrativa Integrada de Desenvolvimento do Pólo Petrolina/PE e Juazeiro/BA e instituir o Programa Especial de Desenvolvimento do Pólo Petrolina/PE e Juazeiro/BA (Lei Complementar nº 113, de 19 de setembro de 2001) | 1 | 2001-09-20 to 2001-09-20 |
+| `lei-complementar-114-de-2002` | Altera dispositivos da Lei Complementar nº 87, de 13 de setembro de 1996, que dispõe sobre o imposto dos Estados e do Distrito Federal sobre operações relativas à circulação de mercadorias e sobre prestações de... (Lei Complementar nº 114, de 16 de dezembro de 2002) | 1 | 2002-12-17 to 2002-12-17 |
+| `lei-complementar-117-de-2004` | Altera a Lei Complementar nº 97, de 9 de junho de 1999, que dispõe sobre as normas gerais para a organização, o preparo e o emprego das Forças Armadas, para estabelecer novas atribuições subsidiárias (Lei Complementar nº 117, de 2 de setembro de 2004) | 1 | 2004-09-03 to 2004-09-03 |
+| `lei-complementar-88-de-1996` | Altera a redação dos arts. 5°, 6°, 10 e 17 da Lei Complementar n° 76, de 6 de julho de 1993, que dispõe sobre o procedimento contraditório especial, de rito sumário, para o processo de desapropriação de imóvel rural,... (Lei Complementar nº 88, de 23 de dezembro de 1996) | 1 | 1996-12-24 to 1996-12-24 |
+| `lei-complementar-89-de-1997` | Institui o Fundo para Aparelhamento e Operacionalização das Atividades-fim da Polícia Federal - FUNAPOL, e dá outras providências (Lei Complementar nº 89, de 18 de fevereiro de 1997) | 1 | 2026-07-31 to 2026-07-31 |
+| `lei-complementar-90-de-1997` | Determina os casos em que forças estrangeiras possam transitar pelo território nacional ou nele permanecer temporariamente (Lei Complementar nº 90, de 1º de outubro de 1997) | 1 | 2015-01-13 to 2015-01-13 |
+| `lei-complementar-91-de-1997` | Dispõe sobre a fixação dos coeficientes do Fundo de Participação dos Municípios (Lei Complementar nº 91, de 22 de dezembro de 1997) | 1 | 2023-06-28 to 2023-06-28 |
+| `lei-complementar-94-de-1998` | Autoriza o Poder Executivo a criar a Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE e instituir o Programa Especial de Desenvolvimento do Entorno do Distrito Federal, e dá outras providências (Lei Complementar nº 94, de 19 de fevereiro de 1998) | 1 | 2018-06-15 to 2018-06-15 |
+| `lei-complementar-98-de-1999` | Altera dispositivos da Lei Complementar nº 80, de 12 de janeiro de 1994 (Lei Complementar nº 98, de 3 de dezembro de 1999) | 1 | 1999-12-06 to 1999-12-06 |
+| `lei-complementar-99-de-1999` | Dá nova redação ao inciso I do art. 33 da Lei Complementar nº 87, de 13 de setembro de 1996, que dispõe sobre o imposto dos Estados e do Distrito Federal sobre operações relativas à circulação de mercadorias e sobre... (Lei Complementar nº 99, de 20 de dezembro de 1999) | 1 | 1999-12-21 to 1999-12-21 |
+| `lei-10000-de-2000` | Dispõe sobre a criação do "Dia Nacional do Choro" e dá outras providências (Lei nº 10.000, de 4 de setembro de 2000) | 1 | 2000-09-05 to 2000-09-05 |
+| `lei-10001-de-2000` | Dispõe sobre a prioridade nos procedimentos a serem adotados pelo Ministério Público e por outros órgãos a respeito das conclusões das comissões parlamentares de inquérito (Lei nº 10.001, de 4 de setembro de 2000) | 1 | 2000-09-05 to 2000-09-05 |
+| `lei-10029-de-2000` | Estabelece normas gerais para a prestação voluntária de serviços administrativos e de serviços auxiliares de saúde e de defesa civil nas Polícias Militares e nos Corpos de Bombeiros Militares e dá outras providências (Lei nº 10.029, de 20 de outubro de 2000) | 1 | 2000-10-23 to 2000-10-23 |
+| `lei-10030-de-2000` | Altera a Lei n o 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, de modo a incluir, na Relação Descritiva das Rodovias do Sistema Rodoviário Federal, a rodovia que especifica, sob a... (Lei nº 10.030, de 20 de outubro de 2000) | 1 | 2000-10-23 to 2000-10-23 |
+| `lei-10031-de-2000` | Altera a Lei n o 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, de modo a incluir, na Relação Descritiva das Rodovias do Sistema Rodoviário Federal, a rodovia que especifica, sob a... (Lei nº 10.031, de 20 de outubro de 2000) | 1 | 2000-10-23 to 2000-10-23 |
+| `lei-10032-de-2000` | Autoriza o Poder Executivo a instituir a Fundação Universidade Federal do Tocantins (Lei nº 10.032, de 23 de outubro de 2000) | 1 | 2000-10-24 to 2000-10-24 |
+| `lei-10033-de-2000` | Cria cargos de Procurador da República na carreira do Ministério Público Federal (Lei nº 10.033, de 24 de outubro de 2000) | 1 | 2000-10-25 to 2000-10-25 |
+| `lei-10035-de-2000` | Altera a Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei n o 5.452, de 1 o de maio de 1943, para estabelecer os procedimentos, no âmbito da Justiça do Trabalho, de execução das contribuições... (Lei nº 10.035, de 25 de outubro de 2000) | 1 | 2000-10-26 to 2000-10-26 |
+| `lei-10050-de-2000` | Altera o art. 1.611 da Lei n o 3.071, de 1 o de janeiro de 1916 – Código Civil, estendendo o benefício do § 2 o ao filho necessitado portador de deficiência (Lei nº 10.050, de 14 de novembro de 2000) | 1 | 2000-11-16 to 2000-11-16 |
+| `lei-10052-de-2000` | Institui o Fundo para o Desenvolvimento Tecnológico das Telecomunicações – Funttel, e dá outras providências. Mensagem de Veto (Lei nº 10.052, de 28 de novembro de 2000) | 1 | 2001-12-20 to 2001-12-20 |
+| `lei-10053-de-2000` | Dispõe sobre a criação de Procuradorias da República em Municípios e dá outras providências (Lei nº 10.053, de 28 de novembro de 2000) | 1 | 2000-11-29 to 2000-11-29 |
+| `lei-10055-de-2000` | Cria cargos na Carreira Policial Federal (Lei nº 10.055, de 12 de dezembro de 2000) | 1 | 2000-12-13 to 2000-12-13 |
+| `lei-10099-de-2000` | Altera a Lei n o 8.213, de 24 de julho de 1991, regulamentando o disposto no § 3 o do art. 100 da Constituição Federal, definindo obrigações de pequeno valor para a Previdência Social (Lei nº 10.099, de 19 de dezembro de 2000) | 1 | 2000-12-20 to 2000-12-20 |
+| `lei-10148-de-2000` | Dá nova redação ao art. 1 o da Lei n o 9.530, de 10 de dezembro de 1997 (Lei nº 10.148, de 21 de dezembro de 2000) | 1 | 2000-12-22 to 2000-12-22 |
+| `lei-10149-de-2000` | Altera e acrescenta dispositivos à Lei n o 8.884, de 11 de junho de 1994, que transforma o Conselho Administrativo de Defesa Econômica – CADE em autarquia, dispõe sobre a prevenção e repressão às infrações contra a... (Lei nº 10.149, de 21 de dezembro de 2000) | 1 | 2000-12-22 to 2000-12-22 |
+| `lei-10164-de-2000` | Prorroga o prazo para as ratificações de concessões e alienações de terras feitas pelos Estados na faixa de fronteira e dá outras providências (Lei nº 10.164, de 27 de dezembro de 2000) | 1 | 2000-12-28 to 2000-12-28 |
+| `lei-10166-de-2000` | Altera a Lei n o 7.542, de 26 de setembro de 1986, que dispõe sobre a pesquisa, exploração, remoção e demolição de coisas ou bens afundados, submersos, encalhados e perdidos em águas sob jurisdição nacional, em... (Lei nº 10.166, de 27 de dezembro de 2000) | 1 | 2000-12-28 to 2000-12-28 |
+| `lei-10170-de-2000` | Acrescenta parágrafos ao art. 22 da Lei n o 8.212, de 24 de julho de 1991, dispensando as instituições religiosas do recolhimento da contribuição previdenciária incidente sobre o valor pago aos ministros de confissão... (Lei nº 10.170, de 29 de dezembro de 2000) | 1 | 2000-12-30 to 2000-12-30 |
+| `lei-10172-de-2001` | Aprova o Plano Nacional de Educação e dá outras providências. Mensagem de Veto nº 9 (Lei nº 10.172, de 9 de janeiro de 2001) | 1 | 2009-12-02 to 2009-12-02 |
+| `lei-10174-de-2001` | Altera o art. 11 da Lei º 9.311, de 24 de outubro de 1996, que institui a Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Crédito e Direitos de Natureza Financeira – CPMF, e dá outras... (Lei nº 10.174, de 9 de janeiro de 2001) | 1 | 2001-01-10 to 2001-01-10 |
+| `lei-10175-de-2001` | Autoriza o Instituto Nacional do Seguro Social a doar imóvel que especifica ao Município de Recife - PE (Lei nº 10.175, de 10 de janeiro de 2001) | 1 | 2001-01-11 to 2001-01-11 |
+| `lei-10178-de-2001` | Altera as ações do programa Reaparelhamento e Adequação do Exército Brasileiro constante do Plano Plurianual para o período de 2000/2003 (Lei nº 10.178, de 12 de janeiro de 2001) | 1 | 2001-01-15 to 2001-01-15 |
+| `lei-10179-de-2001` | Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria (Lei nº 10.179, de 6 de fevereiro de 2001) | 1 | 2014-11-14 to 2014-11-14 |
+| `lei-10181-de-2001` | Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências (Lei nº 10.181, de 12 de fevereiro de 2001) | 1 | 2001-02-14 to 2001-02-14 |
+| `lei-10182-de-2001` | Restaura a vigência da Lei nº 8.989, de 24 de fevereiro de 1995, que dispõe sobre a isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis destinados ao transporte autônomo de passageiros... (Lei nº 10.182, de 12 de fevereiro de 2001) | 1 | 2010-12-21 to 2010-12-21 |
+| `lei-10183-de-2001` | Altera dispositivos da Lei nº 9.365, de 16 de dezembro de 1996, que institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao... (Lei nº 10.183, de 12 de fevereiro de 2001) | 1 | 2001-02-14 to 2001-02-14 |
+| `lei-10184-de-2001` | Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências (Lei nº 10.184, de 12 de fevereiro de 2001) | 1 | 2026-03-25 to 2026-03-25 |
+| `lei-10185-de-2001` | Dispõe sobre a especialização das sociedades seguradoras em planos privados de assistência à saúde e dá outras providências (Lei nº 10.185, de 12 de fevereiro de 2001) | 1 | 2001-08-27 to 2001-08-27 |
+| `lei-10186-de-2001` | Dispõe sobre a realização de contratos de financiamento do Programa de Fortalecimento da Agricultura Familiar - PRONAF, e de projetos de estruturação dos assentados e colonos nos programas oficiais de assentamento,... (Lei nº 10.186, de 12 de fevereiro de 2001) | 1 | 2008-09-18 to 2008-09-18 |
+| `lei-10187-de-2001` | Institui a Gratificação de Incentivo à Docência e dá outras providências (Lei nº 10.187, de 12 de fevereiro de 2001) | 1 | 2002-01-10 to 2002-01-10 |
+| `lei-10193-de-2001` | Institui o Programa Especial de Financiamento para combate aos efeitos da estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências (Lei nº 10.193, de 14 de fevereiro de 2001) | 1 | 2001-02-16 to 2001-02-16 |
+| `lei-10196-de-2001` | Altera e acresce dispositivos à Lei nº 9.279, de 14 de maio de 1996, que regula direitos e obrigações relativos à propriedade industrial, e dá outras providências (Lei nº 10.196, de 14 de fevereiro de 2001) | 1 | 2001-02-16 to 2001-02-16 |
+| `lei-10197-de-2001` | Acresce dispositivos ao Decreto-Lei nº 719, de 31 de julho de 1969, para dispor sobre o financiamento a projetos de implantação e recuperação de infra-estrutura de pesquisa nas instituições públicas de ensino... (Lei nº 10.197, de 14 de fevereiro de 2001) | 1 | 2001-02-16 to 2001-02-16 |
+| `lei-10198-de-2001` | Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências (Lei nº 10.198, de 14 de fevereiro de 2001) | 1 | 2001-08-27 to 2001-08-27 |
+| `lei-10199-de-2001` | Dá nova redação aos arts. 6º e 9º da Lei nº 8.019, de 11 de abril de 1990, e acresce dispositivo à Lei nº 9.365, de 16 de dezembro de 1996 (Lei nº 10.199, de 14 de fevereiro de 2001) | 1 | 2001-02-16 to 2001-02-16 |
+| `lei-10200-de-2001` | Acresce e altera dispositivos da Lei nº 8.929, de 22 de agosto de 1994, que institui a Cédula de Produto Rural, e dá outras providências (Lei nº 10.200, de 14 de fevereiro de 2001) | 1 | 2001-02-16 to 2001-02-16 |
+| `lei-10202-de-2001` | Altera o art. 10 da Lei nº 9.478, de 6 de agosto de 1997, que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a... (Lei nº 10.202, de 20 de fevereiro de 2001) | 1 | 2001-02-21 to 2001-02-21 |
+| `lei-10203-de-2001` | Dá nova redação aos arts. 9º e 12 da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores, e dá outras providências (Lei nº 10.203, de 22 de fevereiro de 2001) | 1 | 2001-02-23 to 2001-02-23 |
+| `lei-10204-de-2001` | Altera a Lei nº 4.229, de 1º de junho de 1963, autoriza a doação de bens e dá outras providências (Lei nº 10.204, de 22 de fevereiro de 2001) | 1 | 2001-02-23 to 2001-02-23 |
+| `lei-10205-de-2001` | Regulamenta o § 4º do art. 199 da Constituição Federal, relativo à coleta, processamento, estocagem, distribuição e aplicação do sangue, seus componentes e derivados, estabelece o ordenamento institucional... (Lei nº 10.205, de 21 de março de 2001) | 1 | 2023-07-20 to 2023-07-20 |
+| `lei-10207-de-2001` | Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências (Lei nº 10.207, de 23 de março de 2001) | 1 | 2001-07-13 to 2001-07-13 |
+| `lei-10208-de-2001` | Acresce dispositivos à Lei nº 5.859, de 11 de dezembro de 1972, que dispõe sobre a profissão de empregado doméstico, para facultar o acesso ao Fundo de Garantia do Tempo de Serviço - FGTS e ao seguro-desemprego (Lei nº 10.208, de 23 de março de 2001) | 1 | 2001-03-24 to 2001-03-24 |
+| `lei-10210-de-2001` | Altera dispositivos das Leis nº s 9.082, de 25 de julho de 1995, 9.293, de 15 de julho de 1996, 9.473, de 22 de julho de 1997, 9.692, de 27 de julho de 1998, 9.811, de 28 de julho de 1999, e 9.995, de 25 de julho de... (Lei nº 10.210, de 23 de março de 2001) | 1 | 2001-03-24 to 2001-03-24 |
+| `lei-10211-de-2001` | Altera dispositivos da Lei nº 9.434, de 4 de fevereiro de 1997, que "dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento". Mensagem de Veto nº 252 (Lei nº 10.211, de 23 de março de 2001) | 1 | 2001-03-24 to 2001-03-24 |
+| `lei-10212-de-2001` | Acrescenta dispositivos à Lei nº 9.020, de 30 de março de 1995, que dispõe sobre a implantação, em caráter emergencial e provisório, da Defensoria Pública da União (Lei nº 10.212, de 23 de março de 2001) | 1 | 2001-03-26 to 2001-03-26 |
+| `lei-10215-de-2001` | Dá nova redação ao art. 46 da Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os Registros Públicos (Lei nº 10.215, de 6 de abril de 2001) | 1 | 2001-04-09 to 2001-04-09 |
+| `lei-10217-de-2001` | Altera os arts. 1º e 2º da Lei nº 9.034, de 3 de maio de 1995, que dispõe sobre a utilização de meios operacionais para a prevenção e repressão de ações praticadas por organizações criminosas (Lei nº 10.217, de 11 de abril de 2001) | 1 | 2001-04-12 to 2001-04-12 |
+| `lei-10218-de-2001` | Acrescenta dispositivos ao art. 487 da Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (Lei nº 10.218, de 11 de abril de 2001) | 1 | 2001-04-12 to 2001-04-12 |
+| `lei-10220-de-2001` | Institui normas gerais relativas à atividade de peão de rodeio, equiparando-o a atleta profissional. Mensagem de Veto nº 330 (Lei nº 10.220, de 11 de abril de 2001) | 1 | 2001-04-12 to 2001-04-12 |
+| `lei-10222-de-2001` | Padroniza o volume de áudio das transmissões de rádio e televisão nos espaços dedicados à propaganda e dá outras providências (Lei nº 10.222, de 9 de maio de 2001) | 1 | 2013-05-16 to 2013-05-16 |
+| `lei-10223-de-2001` | Altera a Lei nº 9.656, de 3 de junho de 1998, para dispor sobre a obrigatoriedade de cirurgia plástica reparadora de mama por planos e seguros privados de assistência à saúde nos casos de mutilação decorrente de... (Lei nº 10.223, de 15 de maio de 2001) | 1 | 2001-06-30 to 2001-06-30 |
+| `lei-10224-de-2001` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para dispor sobre o crime de assédio sexual e dá outras providências. Mensagem de Veto nº 424 (Lei nº 10.224, de 15 de maio de 2001) | 1 | 2001-05-16 to 2001-05-16 |
+| `lei-10226-de-2001` | Acrescenta parágrafos ao art. 135 da Lei nº 4.737, de 15 de julho de 1965, que institui o Código Eleitoral, determinando a expedição de instruções sobre a escolha dos locais de votação de mais fácil acesso para o... (Lei nº 10.226, de 15 de maio de 2001) | 1 | 2001-05-16 to 2001-05-16 |
+| `lei-10228-de-2001` | Acrescenta artigo à Lei nº 8.171, de 17 de janeiro de 1991, que dispõe sobre a política agrícola, a fim de estabelecer procedimentos relativos ao cadastramento e à recuperação de áreas desertificadas (Lei nº 10.228, de 29 de maio de 2001) | 1 | 2001-05-30 to 2001-05-30 |
+| `lei-10241-de-2001` | Transforma e cria cargos no Quadro de Pessoal do Conselho da Justiça Federal (Lei nº 10.241, de 18 de junho de 2001) | 1 | 2001-06-19 to 2001-06-19 |
+| `lei-10243-de-2001` | Acrescenta parágrafos ao art. 58 e dá nova redação ao § 2º do art. 458 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943. Mensagem de Veto nº 581 (Lei nº 10.243, de 19 de junho de 2001) | 1 | 2001-06-20 to 2001-06-20 |
+| `lei-10244-de-2001` | Revoga o art. 376 da Consolidação das Leis do Trabalho – CLT para permitir a realização de horas-extras por mulheres (Lei nº 10.244, de 27 de junho de 2001) | 1 | 2001-06-28 to 2001-06-28 |
+| `lei-10255-de-2001` | Institui o "Dia da Televisão" (Lei nº 10.255, de 9 de julho de 2001) | 1 | 2001-07-10 to 2001-07-10 |
+| `lei-10256-de-2001` | Altera a Lei nº 8.212, de 24 de julho de 1991 , a Lei nº 8.870, de 15 de abril de 1994 , a Lei nº 9.317, de 5 de dezembro de 1996 , e a Lei nº 9.528, de 10 de dezembro de 1997. Mensagem de Veto nº 729 (Lei nº 10.256, de 9 de julho de 2001) | 1 | 2004-12-15 to 2004-12-15 |
+| `lei-10258-de-2001` | Altera o art. 295 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal, que trata de prisão especial (Lei nº 10.258, de 11 de julho de 2001) | 1 | 2001-07-12 to 2001-07-12 |
+| `lei-10261-de-2001` | Desvincula, parcialmente, no exercício de 2001, a aplicação dos recursos de que tratam os arts. 48, 49 e 50 da Lei nº 9.478, de 6 de agosto de 1997 , pertencentes à União (Lei nº 10.261, de 12 de julho de 2001) | 1 | 2001-09-01 to 2001-09-01 |
+| `lei-10264-de-2001` | Acrescenta inciso e parágrafos ao art. 56 da Lei nº 9.615, de 24 de março de 1998 , que institui normas gerais sobre desporto (Lei nº 10.264, de 16 de julho de 2001) | 1 | 2001-07-17 to 2001-07-17 |
+| `lei-10265-de-2001` | Inclui programa e altera ações do Plano Plurianual para o período 2000/2003 (Lei nº 10.265, de 19 de julho de 2001) | 1 | 2001-07-20 to 2001-07-20 |
+| `lei-10268-de-2001` | Altera dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal (Lei nº 10.268, de 28 de agosto de 2001) | 1 | 2001-08-29 to 2001-08-29 |
+| `lei-10269-de-2001` | Dá nova denominação ao Instituto Nacional de Estudos e Pesquisas Educacionais – INEP. Mensagem de Veto nº 927 (Lei nº 10.269, de 29 de agosto de 2001) | 1 | 2001-10-14 to 2001-10-14 |
+| `lei-10270-de-2001` | Acrescenta §§ 4º e 5º ao art. 29 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para proibir anotações desabonadoras na Carteira de Trabalho e Previdência Social (Lei nº 10.270, de 29 de agosto de 2001) | 1 | 2001-08-30 to 2001-08-30 |
+| `lei-10272-de-2001` | Altera a redação do art. 467 da Consolidação das Leis do Trabalho – CLT, que dispõe sobre o pagamento de verbas rescisórias em juízo (Lei nº 10.272, de 5 de setembro de 2001) | 1 | 2001-09-06 to 2001-09-06 |
+| `lei-10287-de-2001` | Altera dispositivo da Lei nº 9.394, de 20 de dezembro de 1996 , que estabelece as Diretrizes e Bases da Educação Nacional (Lei nº 10.287, de 20 de setembro de 2001) | 1 | 2001-09-21 to 2001-09-21 |
+| `lei-10288-de-2001` | Altera a Consolidação das Leis do Trabalho, dispondo sobre o jus postulandi, a assistência judiciária e a representação dos menores no foro trabalhista (Lei nº 10.288, de 20 de setembro de 2001) | 1 | 2001-09-21 to 2001-09-21 |
+| `lei-10289-de-2001` | Institui o Programa Nacional de Controle do Câncer de Próstata (Lei nº 10.289, de 20 de setembro de 2001) | 1 | 2014-11-26 to 2014-11-26 |
+| `lei-10293-de-2001` | Dispõe sobre a criação de cargos de Procurador de Justiça, Promotor de Justiça e Promotor de Justiça Adjunto no âmbito do Ministério Público do Distrito Federal e Territórios, e dá outras providências (Lei nº 10.293, de 28 de setembro de 2001) | 1 | 2001-10-01 to 2001-10-01 |
+| `lei-10295-de-2001` | Dispõe sobre a Política Nacional de Conservação e Uso Racional de Energia e dá outras providências (Lei nº 10.295, de 17 de outubro de 2001) | 1 | 2001-10-18 to 2001-10-18 |
+| `lei-10297-de-2001` | Altera o Plano Plurianual para o período 2000 - 2003 (Lei nº 10.297, de 26 de outubro de 2001) | 1 | 2001-10-29 to 2001-10-29 |
+| `lei-10298-de-2001` | Acrescenta incisos ao art. 3º da Lei nº 8.171, de 17 de janeiro de 1991 , que dispõe sobre a política agrícola (Lei nº 10.298, de 30 de outubro de 2001) | 1 | 2001-10-31 to 2001-10-31 |
+| `lei-10302-de-2001` | Dispõe sobre os vencimentos dos servidores que menciona das Instituições Federais de Ensino vinculadas ao Ministério da Educação, e dá outras providências (Lei nº 10.302, de 31 de outubro de 2001) | 1 | 2025-06-03 to 2025-06-03 |
+| `lei-10305-de-2001` | Estabelece normas para registro do resultado líquido negativo decorrente do ajuste dos valores em reais de obrigações e créditos, e dá outras providências (Lei nº 10.305, de 7 de novembro de 2001) | 1 | 2001-11-08 to 2001-11-08 |
+| `lei-10306-de-2001` | Altera a redação do art. 3º da Lei nº 9.311, de 24 de outubro de 1996 , para isentar de Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF os... (Lei nº 10.306, de 8 de novembro de 2001) | 1 | 2001-11-09 to 2001-11-09 |
+| `lei-10308-de-2001` | Dispõe sobre a seleção de locais, a construção, o licenciamento, a operação, a fiscalização, os custos, a indenização, a responsabilidade civil e as garantias referentes aos depósitos de rejeitos radioativos, e dá... (Lei nº 10.308, de 20 de novembro de 2001) | 1 | 2021-05-17 to 2021-05-17 |
+| `lei-10309-de-2001` | Dispõe sobre a assunção pela União de responsabilidades civis perante terceiros no caso de atentados terroristas ou atos de guerra contra aeronaves de empresas aéreas brasileiras (Lei nº 10.309, de 22 de novembro de 2001) | 1 | 2001-11-23 to 2001-11-23 |
+| `lei-10310-de-2001` | Dispõe sobre a complementação pela União dos recursos necessários ao pagamento de bônus aos consumidores residenciais de energia elétrica e dá outras providências (Lei nº 10.310, de 22 de novembro de 2001) | 1 | 2001-11-27 to 2001-11-27 |
+| `lei-10311-de-2001` | Institui feriados civis nos Estados que especifica e dá outras providências (Lei nº 10.311, de 22 de novembro de 2001) | 1 | 2001-11-27 to 2001-11-27 |
+| `lei-10312-de-2001` | Dispõe sobre a incidência das Contribuições para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social nas operações de venda de gás natural e de carvão mineral (Lei nº 10.312, de 27 de novembro de 2001) | 1 | 2011-06-27 to 2011-06-27 |
+| `lei-10317-de-2001` | Altera a Lei nº 1.060, de 5 de fevereiro de 1950, que estabelece normas para a concessão de assistência judiciária aos necessitados, para conceder a gratuidade do exame de DNA, nos casos que especifica (Lei nº 10.317, de 6 de dezembro de 2001) | 1 | 2001-12-07 to 2001-12-07 |
+| `lei-10328-de-2001` | Introduz a palavra "obrigatório" após a expressão "curricular", constante do § 3º do art. 26 da Lei nº 9.394, de 20 de dezembro de 1996 , que estabelece as diretrizes e bases da educação nacional (Lei nº 10.328, de 12 de dezembro de 2001) | 1 | 2001-12-13 to 2001-12-13 |
+| `lei-10331-de-2001` | Regulamenta o inciso X do art. 37 da Constituição, que dispõe sobre a revisão geral e anual das remunerações e subsídios dos servidores públicos federais dos Poderes Executivo, Legislativo e Judiciário da União, das... (Lei nº 10.331, de 18 de dezembro de 2001) | 1 | 2003-07-03 to 2003-07-03 |
+| `lei-10333-de-2001` | Extingue a 5ª e a 6ª Auditorias da 1ª Circunscrição Judiciária Militar, extingue cargos da Magistratura e do Quadro Permanente das Auditorias da Justiça Militar da União, e dá outras providências (Lei nº 10.333, de 19 de dezembro de 2001) | 1 | 2012-03-26 to 2012-03-26 |
+| `lei-10334-de-2001` | Dispõe sobre a obrigatoriedade de fabricação e comercialização de lâmpadas incandescentes para uso em tensões de valor igual ou superior ao da tensão nominal da rede de distribuição, e dá outras providências (Lei nº 10.334, de 19 de dezembro de 2001) | 1 | 2001-12-20 to 2001-12-20 |
+| `lei-10350-de-2001` | Altera a Lei nº 9.503, de 23 de setembro de 1997 – Código de Trânsito Brasileiro, de forma a obrigar a realização de exame psicológico periódico para os motoristas profissionais (Lei nº 10.350, de 21 de dezembro de 2001) | 1 | 2002-02-20 to 2002-02-20 |
+| `lei-10357-de-2001` | Estabelece normas de controle e fiscalização sobre produtos químicos que direta ou indiretamente possam ser destinados à elaboração ilícita de substâncias entorpecentes, psicotrópicas ou que determinem dependência... (Lei nº 10.357, de 27 de dezembro de 2001) | 1 | 2001-12-28 to 2001-12-28 |
+| `lei-10359-de-2001` | Dispõe sobre a obrigatoriedade de os novos aparelhos de televisão conterem dispositivo que possibilite o bloqueio temporário da recepção de programação inadequada (Lei nº 10.359, de 27 de dezembro de 2001) | 1 | 2003-05-16 to 2003-05-16 |
+| `lei-10360-de-2001` | Altera a Lei nº 9.872, de 23 de novembro de 1999 , que cria o Fundo de Aval para a Geração de Emprego e Renda – FUNPROGER (Lei nº 10.360, de 27 de dezembro de 2001) | 1 | 2001-12-28 to 2001-12-28 |
+| `lei-10363-de-2001` | Prorroga o prazo para as ratificações de concessões e alienações de terras feitas pelos Estados na faixa de fronteira e dá outras providências (Lei nº 10.363, de 28 de dezembro de 2001) | 1 | 2001-12-28 to 2001-12-28 |
+| `lei-10390-de-2001` | Altera o objetivo do programa 0119 – Saneamento Básico do Plano Plurianual 2000/2003 (Lei nº 10.390, de 28 de dezembro de 2001) | 1 | 2001-12-28 to 2001-12-28 |
+| `lei-10401-de-2002` | Institui o ano 2002 como "Ano Nacional Carlos Drummond de Andrade" (Lei nº 10.401, de 7 de janeiro de 2002) | 1 | 2002-01-08 to 2002-01-08 |
+| `lei-10403-de-2002` | Altera as Leis nº 8.212 e 8.213, ambas de 24 de julho de 1991 (Lei nº 10.403, de 8 de janeiro de 2002) | 1 | 2002-01-09 to 2002-01-09 |
+| `lei-10405-de-2002` | Dá nova redação ao art. 4º da Lei nº 6.932, de 7 de julho de 1981 , altera as tabelas de vencimento básico dos professores do ensino de 3º grau e dos professores de 1º e 2º graus, integrantes dos quadros de pessoal... (Lei nº 10.405, de 9 de janeiro de 2002) | 1 | 2006-12-04 to 2006-12-04 |
+| `lei-10408-de-2002` | Altera a Lei nº 9.504, de 30 de setembro de 1997 , que estabelece normas para as eleições, para ampliar a segurança e a fiscalização do voto eletrônico (Lei nº 10.408, de 10 de janeiro de 2002) | 1 | 2003-10-02 to 2003-10-02 |
+| `lei-10411-de-2002` | Altera e acresce dispositivos à Lei nº 6.385, de 7 de dezembro de 1976 , que dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários (Lei nº 10.411, de 26 de fevereiro de 2002) | 1 | 2002-02-27 to 2002-02-27 |
+| `lei-10413-de-2002` | Determina o tombamento dos bens culturais das empresas incluídas no Programa Nacional de Desestatização (Lei nº 10.413, de 12 de março de 2002) | 1 | 2002-02-13 to 2002-02-13 |
+| `lei-10416-de-2002` | Altera o art. 98 da Lei nº 6.880, de 9 de dezembro de 1980 , que dispõe sobre o Estatuto dos Militares (Lei nº 10.416, de 27 de março de 2002) | 1 | 2002-03-28 to 2002-03-28 |
+| `lei-10419-de-2002` | Dispõe sobre a criação da Universidade Federal de Campina Grande - UFCG, a partir do desmembramento da Universidade Federal da Paraíba - UFPB, e dá outras providências (Lei nº 10.419, de 9 de abril de 2002) | 1 | 2002-04-10 to 2002-04-10 |
+| `lei-10421-de-2002` | Estende à mãe adotiva o direito à licença-maternidade e ao salário-maternidade, alterando a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 8.213, de 24 de... (Lei nº 10.421, de 15 de abril de 2002) | 1 | 2002-04-16 to 2002-04-16 |
+| `lei-10422-de-2002` | Autoriza doação de imóvel de propriedade do Instituto Nacional do Seguro Social (Lei nº 10.422, de 15 de abril de 2002) | 1 | 2002-04-16 to 2002-04-16 |
+| `lei-10424-de-2002` | Acrescenta capítulo e artigo à Lei nº 8.080, de 19 de setembro de 1990 , que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento de serviços correspondentes e... (Lei nº 10.424, de 15 de abril de 2002) | 1 | 2002-04-16 to 2002-04-16 |
+| `lei-10425-de-2002` | Dispõe sobre a transformação da Fundação de Ensino Superior de São João del Rei em Fundação Universidade Federal de São João del Rei, e dá outras providências (Lei nº 10.425, de 19 de abril de 2002) | 1 | 2002-04-22 to 2002-04-22 |
+| `lei-10432-de-2002` | Dispõe sobre a extinção da gratificação de produção suplementar devida aos servidores da Imprensa Nacional, e dá outras providências (Lei nº 10.432, de 24 de abril de 2002) | 1 | 2005-01-10 to 2005-01-10 |
+| `lei-10435-de-2002` | Dispõe sobre a transformação da Escola Federal de Engenharia de Itajubá em Universidade Federal de Itajubá - UNIFEI e dá outras providências (Lei nº 10.435, de 24 de abril de 2002) | 1 | 2002-04-25 to 2002-04-25 |
+| `lei-10436-de-2002` | Dispõe sobre a Língua Brasileira de Sinais - Libras e dá outras providências (Lei nº 10.436, de 24 de abril de 2002) | 1 | 2002-04-25 to 2002-04-25 |
+| `lei-10437-de-2002` | Dispõe sobre o alongamento de dívidas originárias de crédito rural, de que trata a Lei nº 9.138, de 29 de novembro de 1995 , e dá outras providências (Lei nº 10.437, de 25 de abril de 2002) | 1 | 2003-07-03 to 2003-07-03 |
+| `lei-10445-de-2002` | Altera dispositivos da Lei nº 8.457, de 4 de setembro de 1992 (Lei nº 10.445, de 7 de maio de 2002) | 1 | 2002-05-08 to 2002-05-08 |
+| `lei-10446-de-2002` | Dispõe sobre infrações penais de repercussão interestadual ou internacional que exigem repressão uniforme, para os fins do disposto no inciso I do § 1º do art. 144 da Constituição (Lei nº 10.446, de 8 de maio de 2002) | 1 | 2024-09-10 to 2024-09-10 |
+| `lei-10449-de-2002` | Dispõe sobre a comercialização de preservativos masculinos de látex de borracha (Lei nº 10.449, de 9 de maio de 2002) | 1 | 2002-05-10 to 2002-05-10 |
+| `lei-10453-de-2002` | Dispõe sobre subvenções ao preço e ao transporte do álcool combustível e subsídios ao preço do gás liqüefeito de petróleo - GLP, e dá outras providências (Lei nº 10.453, de 13 de maio de 2002) | 1 | 2012-06-15 to 2012-06-15 |
+| `lei-10454-de-2002` | Dispõe sobre remissão da Contribuição para o Desenvolvimento da Indústria Cinematográfica - CONDECINE, de que trata a Medida Provisória nº 2.228-1, de 6 de setembro de 2001 , e dá outras providências (Lei nº 10.454, de 13 de maio de 2002) | 1 | 2002-05-14 to 2002-05-14 |
+| `lei-10455-de-2002` | Modifica o parágrafo único do art. 69 da Lei nº 9.099, de 26 de setembro de 1995 (Lei nº 10.455, de 13 de maio de 2002) | 1 | 2002-06-28 to 2002-06-28 |
+| `lei-10458-de-2002` | Institui o Programa Bolsa-Renda para atendimento a agricultores familiares atingidos pelos efeitos da estiagem nos Municípios em estado de calamidade pública ou situação de emergência, e dá outras providências (Lei nº 10.458, de 14 de maio de 2002) | 1 | 2002-05-15 to 2002-05-15 |
+| `lei-10459-de-2002` | Prorroga a autorização de que trata a Lei nº 10.309, de 22 de novembro de 2001 , que dispõe sobre a assunção pela União de responsabilidades civis perante terceiros no caso de atentados terroristas ou atos de guerra... (Lei nº 10.459, de 15 de maio de 2002) | 1 | 2002-05-16 to 2002-05-16 |
+| `lei-10461-de-2002` | Acrescenta alínea ao inciso I do art. 23 da Lei nº 8.977, de 6 de janeiro de 1995, que dispõe sobre o Serviço de TV a Cabo, para incluir canal reservado ao Supremo Tribunal Federal (Lei nº 10.461, de 17 de maio de 2002) | 1 | 2002-05-20 to 2002-05-20 |
+| `lei-10463-de-2002` | Altera a sede e o foro da Indústrias Nucleares do Brasil S.A. - INB (Lei nº 10.463, de 23 de maio de 2002) | 1 | 2002-05-24 to 2002-05-24 |
+| `lei-10466-de-2002` | Dispõe sobre o Programa Grande Fronteira do Mercosul (Lei nº 10.466, de 29 de maio de 2002) | 1 | 2002-05-31 to 2002-05-31 |
+| `lei-10467-de-2002` | Acrescenta o Capítulo II-A ao Título XI do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, e dispositivo à Lei nº 9.613, de 3 de março de 1998 , que "dispõe sobre os crimes de ‘lavagem’ ou ocultação de... (Lei nº 10.467, de 11 de junho de 2002) | 1 | 2002-06-12 to 2002-06-12 |
+| `lei-10468-de-2002` | Altera o art. 3º da Lei nº 4.069-A, de 12 de junho de 1962 , dando nova denominação à Universidade do Amazonas (Lei nº 10.468, de 20 de junho de 2002) | 1 | 2002-06-21 to 2002-06-21 |
+| `lei-10470-de-2002` | Dispõe sobre a remuneração dos Cargos em Comissão de Natureza Especial - NES e do Grupo-Direção e Assessoramento Superiores - DAS, dos Cargos de Direção - CD e das Funções Gratificadas - FG das Instituições Federais... (Lei nº 10.470, de 25 de junho de 2002) | 1 | 2007-10-05 to 2007-10-05 |
+| `lei-10473-de-2002` | Institui a Fundação Universidade Federal do Vale do São Francisco (Lei nº 10.473, de 27 de junho de 2002) | 1 | 2002-06-28 to 2002-06-28 |
+| `lei-10474-de-2002` | Dispõe sobre a remuneração da magistratura da União (Lei nº 10.474, de 27 de junho de 2002) | 1 | 2002-06-28 to 2002-06-28 |
+| `lei-10477-de-2002` | Dispõe sobre a remuneração dos membros do Ministério Público da União (Lei nº 10.477, de 27 de junho de 2002) | 1 | 2002-06-28 to 2002-06-28 |
+| `lei-10486-de-2002` | Dispõe sobre a remuneração dos militares do Distrito Federal e dá outras providências (Lei nº 10.486, de 4 de julho de 2002) | 1 | 2026-04-28 to 2026-04-28 |
+| `lei-10504-de-2002` | Dispõe sobre a criação do Dia Nacional do Consumidor (Lei nº 10.504, de 8 de julho de 2002) | 1 | 2002-07-09 to 2002-07-09 |
+| `lei-10506-de-2002` | Altera o art. 16 da Lei nº 8.935, de 18 de novembro de 1994, que regulamenta o art. 236 da Constituição Federal (Lei nº 10.506, de 9 de julho de 2002) | 1 | 2002-07-10 to 2002-07-10 |
+| `lei-10508-de-2002` | Altera o inciso I do art. 2º da Lei nº 7.394, de 29 de outubro de 1985 (Lei nº 10.508, de 10 de julho de 2002) | 1 | 2002-07-11 to 2002-07-11 |
+| `lei-10511-de-2002` | Altera o Quadro VI da Lei n º 10.407, de 10 de janeiro de 2002 (Lei nº 10.511, de 11 de julho de 2002) | 1 | 2002-07-12 to 2002-07-12 |
+| `lei-10515-de-2002` | Institui o 12 de agosto como Dia Nacional da Juventude (Lei nº 10.515, de 11 de julho de 2002) | 1 | 2002-07-12 to 2002-07-12 |
+| `lei-10516-de-2002` | Institui a CARTEIRA NACIONAL DE SAÚDE DA MULHER (Lei nº 10.516, de 11 de julho de 2002) | 1 | 2002-07-12 to 2002-07-12 |
+| `lei-10517-de-2002` | Acrescenta dispositivos à Lei nº 9.503, de 23 de setembro de 1997 , que institui o Código de Trânsito Brasileiro, para permitir o uso de semi-reboque acoplado a motocicleta ou motoneta, nas condições que estabelece (Lei nº 10.517, de 11 de julho de 2002) | 1 | 2002-07-12 to 2002-07-12 |
+| `lei-10519-de-2002` | Dispõe sobre a promoção e a fiscalização da defesa sanitária animal quando da realização de rodeio e dá outras providências (Lei nº 10.519, de 17 de julho de 2002) | 1 | 2002-09-16 to 2002-09-16 |
+| `lei-10521-de-2002` | Assegura a instalação de Municípios criados por Lei Estadual (Lei nº 10.521, de 18 de julho de 2002) | 1 | 2002-07-19 to 2002-07-19 |
+| `lei-10523-de-2002` | Cria e transforma, no Quadro Permanente de Pessoal da Secretaria do Tribunal Regional do Trabalho da 9ª Região, os cargos que menciona e dá outras providências (Lei nº 10.523, de 23 de julho de 2002) | 1 | 2002-07-24 to 2002-07-24 |
+| `lei-10536-de-2002` | Altera dispositivos da Lei nº 9.140, de 4 de dezembro de 1995 , que reconhece como mortas pessoas desaparecidas em razão de participação, ou de acusação de participação, em atividades políticas, no período de 2 de... (Lei nº 10.536, de 14 de agosto de 2002) | 1 | 2002-08-15 to 2002-08-15 |
+| `lei-10537-de-2002` | Altera os arts. 789 e 790 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, sobre custas e emolumentos da Justiça do Trabalho, e acrescenta os arts. 789-A, 789-B,... (Lei nº 10.537, de 27 de agosto de 2002) | 1 | 2002-09-27 to 2002-09-27 |
+| `lei-10539-de-2002` | Dispõe sobre a estruturação de órgãos, cria cargos em comissão no âmbito do Poder Executivo Federal, e dá outras providências (Lei nº 10.539, de 23 de setembro de 2002) | 1 | 2002-09-24 to 2002-09-24 |
+| `lei-10540-de-2002` | Altera a Lei nº 5.917, de 10 de setembro de 1973 , que "aprova o Plano Nacional de Viação", de modo a incluir, na Relação Descritiva das Rodovias do Sistema Rodoviário Federal, a interligação das rodovias federais... (Lei nº 10.540, de 1º de outubro de 2002) | 1 | 2002-10-02 to 2002-10-02 |
+| `lei-10547-de-2002` | Altera ações dos programas Nosso Bairro, Morar Melhor e Gestão da Política de Desenvolvimento Urbano constantes do Plano Plurianual para o período 2000 - 2003 (Lei nº 10.547, de 12 de novembro de 2002) | 1 | 2002-11-13 to 2002-11-13 |
+| `lei-10549-de-2002` | Dispõe sobre a remuneração dos cargos da Carreira de Procurador da Fazenda Nacional, e dá outras providências (Lei nº 10.549, de 13 de novembro de 2002) | 1 | 2002-11-14 to 2002-11-14 |
+| `lei-10552-de-2002` | Autoriza o Poder Executivo a contratar em nome da União operação de crédito interno e a conceder garantia da União a entidades da administração federal indireta, bem como a Estados, ao Distrito Federal, aos... (Lei nº 10.552, de 13 de novembro de 2002) | 1 | 2013-10-24 to 2013-10-24 |
+| `lei-10555-de-2002` | Autoriza condições especiais para o crédito de valores iguais ou inferiores a R$ 100,00, de que trata a Lei Complementar n º 110, de 29 de junho de 2001 , e dá outras providências (Lei nº 10.555, de 13 de novembro de 2002) | 1 | 2004-08-13 to 2004-08-13 |
+| `lei-10556-de-2002` | Dispõe sobre a inclusão dos cargos que especifica no Plano de Classificação de Cargos, instituído pela Lei nº 5.645, de 10 de dezembro de 1970, altera as Leis nº 10.486, de 4 de julho de 2002 , e 5.662, de 21 de... (Lei nº 10.556, de 13 de novembro de 2002) | 1 | 2021-09-17 to 2021-09-17 |
+| `lei-10559-de-2002` | Regulamenta o art. 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências (Lei nº 10.559, de 13 de novembro de 2002) | 1 | 2019-06-18 to 2019-06-18 |
+| `lei-10561-de-2002` | Altera as Leis nº s 10.209, de 23 de março de 2001 , e 10.233, de 5 de junho de 2001, e dá outras providências (Lei nº 10.561, de 13 de novembro de 2002) | 1 | 2002-11-14 to 2002-11-14 |
+| `lei-10568-de-2002` | Exclui da vedação prevista no art. 3º da Lei nº 9.491, de 9 de setembro de 1997 , as ações detidas pela União no capital do Banco do Brasil S.A., e dá outras providências (Lei nº 10.568, de 19 de novembro de 2002) | 1 | 2002-11-20 to 2002-11-20 |
+| `lei-10577-de-2002` | Prorroga o prazo constante do parágrafo único do art. 1º da Lei nº 9.074, de 7 de julho de 1995 , acrescentado pelo art. 3º da Lei nº 9.648, de 27 de maio de 1998 (Lei nº 10.577, de 27 de novembro de 2002) | 1 | 2002-11-28 to 2002-11-28 |
+| `lei-10595-de-2002` | Dispõe sobre a utilização das fontes de recursos existentes no Tesouro Nacional no encerramento do exercício financeiro de 2001, e dá outras providências (Lei nº 10.595, de 11 de dezembro de 2002) | 1 | 2002-12-12 to 2002-12-12 |
+| `lei-10597-de-2002` | Altera o parágrafo único do art. 6º da Lei nº 9.612, de 19 de fevereiro de 1998 , que institui o Serviço de Radiodifusão Comunitária, para aumentar o prazo de outorga (Lei nº 10.597, de 11 de dezembro de 2002) | 1 | 2002-12-12 to 2002-12-12 |
+| `lei-10598-de-2002` | Altera programas do Plano Plurianual para o período 2000 - 2003 (Lei nº 10.598, de 11 de dezembro de 2002) | 1 | 2002-12-12 to 2002-12-12 |
+| `lei-10602-de-2002` | Dispõe sobre o Conselho Federal e os Conselhos Regionais dos Despachantes Documentalistas e dá outras providências (Lei nº 10.602, de 12 de dezembro de 2002) | 1 | 2002-12-13 to 2002-12-13 |
+| `lei-10603-de-2002` | Dispõe sobre a proteção de informação não divulgada submetida para aprovação da comercialização de produtos e dá outras providências (Lei nº 10.603, de 17 de dezembro de 2002) | 1 | 2024-12-24 to 2024-12-24 |
+| `lei-10606-de-2002` | Altera a Lei nº 5.917, de 10 de setembro de 1973 (entroncamento com a BR-020 ao entroncamento com a BR-040, no Distrito Federal) (Lei nº 10.606, de 19 de dezembro de 2002) | 1 | 2002-12-20 to 2002-12-20 |
+| `lei-10607-de-2002` | Dá nova redação ao art. 1º da Lei nº 662, de 6 de abril de 1949 , que "declara feriados nacionais os dias 1º de janeiro, 1º de maio, 7 de setembro, 15 de novembro e 25 de dezembro", e dá outras providências (Lei nº 10.607, de 19 de dezembro de 2002) | 1 | 2002-12-20 to 2002-12-20 |
+| `lei-10608-de-2002` | Altera a Lei nº 7.998, de 11 de janeiro de 1990 , para assegurar o pagamento de seguro-desemprego ao trabalhador resgatado da condição análoga à de escravo (Lei nº 10.608, de 20 de dezembro de 2002) | 1 | 2002-12-23 to 2002-12-23 |
+| `lei-10609-de-2002` | Dispõe sobre a instituição de equipe de transição pelo candidato eleito para o cargo de Presidente da República, cria cargos em comissão, e dá outras providências (Lei nº 10.609, de 20 de dezembro de 2002) | 1 | 2007-10-05 to 2007-10-05 |
+| `lei-10611-de-2002` | Dispõe sobre a transformação da Faculdade de Ciências Agrárias do Pará em Universidade Federal Rural da Amazônia e dá outras providências (Lei nº 10.611, de 23 de dezembro de 2002) | 1 | 2002-12-24 to 2002-12-24 |
+| `lei-10612-de-2002` | Dispõe sobre a concessão de subvenção econômica à aquisição de veículos automotores movidos a álcool etílico hidratado carburante e dá outras providências (Lei nº 10.612, de 23 de dezembro de 2002) | 1 | 2002-12-24 to 2002-12-24 |
+| `lei-10628-de-2002` | Altera a redação do art. 84 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal (Lei nº 10.628, de 24 de dezembro de 2002) | 1 | 2002-12-26 to 2002-12-26 |
+| `lei-10633-de-2002` | Institui o Fundo Constitucional do Distrito Federal - FCDF, para atender o disposto no inciso XIV do art. 21 da Constituição Federal (Lei nº 10.633, de 27 de dezembro de 2002) | 1 | 2026-04-28 to 2026-04-28 |
+| `lei-10634-de-2002` | Dá ao Aeroporto de Navegantes, no Estado de Santa Catarina, a denominação de "Aeroporto de Navegantes - Ministro Victor Konder" (Lei nº 10.634, de 30 de dezembro de 2002) | 1 | 2002-12-31 to 2002-12-31 |
+| `lei-10635-de-2002` | Autoriza o Instituto Nacional do Seguro Social - INSS a receber em dação em pagamento o imóvel que especifica (Lei nº 10.635, de 30 de dezembro de 2002) | 1 | 2002-12-31 to 2002-12-31 |
+| `lei-10636-de-2002` | Dispõe sobre a aplicação dos recursos originários da Contribuição de Intervenção no Domínio Econômico - Cide incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus... (Lei nº 10.636, de 30 de dezembro de 2002) | 1 | 2018-10-05 to 2018-10-05 |
+| `lei-10638-de-2003` | Institui o Programa Permanente de Combate à Seca - PROSECA (Lei nº 10.638, de 6 de janeiro de 2003) | 1 | 2003-01-07 to 2003-01-07 |
+| `lei-10639-de-2003` | Altera a Lei n o 9.394, de 20 de dezembro de 1996 , que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da Rede de Ensino a obrigatoriedade da temática "História e Cultura... (Lei nº 10.639, de 9 de janeiro de 2003) | 1 | 2003-01-10 to 2003-01-10 |
+| `lei-10648-de-2003` | Altera o art. 5 o da Lei n o 8.427, de 27 de maio de 1992 , que dispõe sobre a concessão de subvenção econômica nas operações de crédito rural (Lei nº 10.648, de 3 de abril de 2003) | 1 | 2003-04-04 to 2003-04-04 |
+| `lei-10651-de-2003` | Dispõe sobre o controle do uso da talidomida (Lei nº 10.651, de 16 de abril de 2003) | 1 | 2003-07-16 to 2003-07-16 |
+| `lei-10661-de-2003` | Altera o art. 26 da Medida Provisória n º 2.192-70, de 24 de agosto de 2001, que estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe... (Lei nº 10.661, de 22 de abril de 2003) | 1 | 2003-04-23 to 2003-04-23 |
+| `lei-10664-de-2003` | Altera as Leis n os 8.248, de 23 de outubro de 1991, 8.387, de 30 de dezembro de 1991, e 10.176, de 11 de janeiro de 2001, dispondo sobre a capacitação e competitividade do setor de tecnologia da informação, e dá... (Lei nº 10.664, de 22 de abril de 2003) | 1 | 2003-04-23 to 2003-04-23 |
+| `lei-10667-de-2003` | Altera dispositivos da Lei n o 8.745, de 9 de dezembro de 1993 , da Lei n o 10.470, de 25 de junho de 2002 , e da Lei n o 8.112, de 11 de dezembro de 1990 , cria cargos efetivos, cargos comissionados e gratificações... (Lei nº 10.667, de 14 de maio de 2003) | 1 | 2021-09-17 to 2021-09-17 |
+| `lei-10669-de-2003` | Altera a Lei n o 6.360, de 23 de setembro de 1976 , que dispõe sobre a vigilância sanitária a que ficam sujeitos os medicamentos, as drogas, os insumos farmacêuticos e correlatos, cosméticos, saneantes e outros produtos (Lei nº 10.669, de 14 de maio de 2003) | 1 | 2003-05-15 to 2003-05-15 |
+| `lei-10674-de-2003` | Obriga a que os produtos alimentícios comercializados informem sobre a presença de glúten, como medida preventiva e de controle da doença celíaca (Lei nº 10.674, de 16 de maio de 2003) | 1 | 2003-07-10 to 2003-07-10 |
+| `lei-10676-de-2003` | Dispõe sobre a contribuição para o Programa de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Contribuição para Seguridade Social - COFINS devidas pelas sociedades cooperativas em... (Lei nº 10.676, de 22 de maio de 2003) | 1 | 2003-05-23 to 2003-05-23 |
+| `lei-10677-de-2003` | Revoga o art. 374 da Lei n o 10.406, de 10 de janeiro de 2002 - Código Civil (Lei nº 10.677, de 22 de maio de 2003) | 1 | 2003-05-23 to 2003-05-23 |
+| `lei-10679-de-2003` | Dispõe sobre a atuação de advogado durante depoimento perante Comissão Parlamentar de Inquérito (Lei nº 10.679, de 23 de maio de 2003) | 1 | 2003-05-26 to 2003-05-26 |
+| `lei-10680-de-2003` | Altera a Lei n o 5.917, de 10 de setembro de 1973 , que aprova o Plano Nacional de Viação, para incluir, na Relação Descritiva das Ferrovias do Plano Nacional de Viação, trechos ferroviários situados nos Estados da... (Lei nº 10.680, de 23 de maio de 2003) | 1 | 2003-05-26 to 2003-05-26 |
+| `lei-10681-de-2003` | Altera o Quadro VI da Lei n o 10.640, de 14 de janeiro de 2003 (Lei nº 10.681, de 27 de maio de 2003) | 1 | 2003-05-28 to 2003-05-28 |
+| `lei-10685-de-2003` | Dispõe sobre a alienação por doação de uma Corveta da Marinha do Brasil (Lei nº 10.685, de 5 de junho de 2003) | 1 | 2003-06-06 to 2003-06-06 |
+| `lei-10686-de-2003` | Autoriza o Poder Executivo a conceder subvenção econômica à Companhia de Navegação do São Francisco - Franave (Lei nº 10.686, de 11 de junho de 2003) | 1 | 2003-06-12 to 2003-06-12 |
+| `lei-10688-de-2003` | Estabelece normas para a comercialização da produção de soja da safra de 2003 e dá outras providências (Lei nº 10.688, de 13 de junho de 2003) | 1 | 2003-06-16 to 2003-06-16 |
+| `lei-10692-de-2003` | Altera o Quadro VI da Lei n o 10.640, de 14 de janeiro de 2003 (Lei nº 10.692, de 18 de junho de 2003) | 1 | 2003-06-20 to 2003-06-20 |
+| `lei-10695-de-2003` | Altera e acresce parágrafo ao art. 184 e dá nova redação ao art. 186 do Decreto-Lei n o 2.848, de 7 de dezembro de 1940 - Código Penal, alterado pelas Leis n os 6.895, de 17 de dezembro de 1980, e 8.635, de 16 de... (Lei nº 10.695, de 1º de julho de 2003) | 1 | 2003-08-01 to 2003-08-01 |
+| `lei-10700-de-2003` | Altera as Leis n os 10.420, de 10 de abril de 2002, e 10.674, de 16 de maio de 2003, e dá outras providências (Lei nº 10.700, de 9 de julho de 2003) | 1 | 2003-07-10 to 2003-07-10 |
+| `lei-10701-de-2003` | Altera e acrescenta dispositivos à Lei n o 9.613, de 3 de março de 1998, que dispõe sobre os crimes de lavagem ou ocultação de bens, direitos e valores (Lei nº 10.701, de 9 de julho de 2003) | 1 | 2003-07-10 to 2003-07-10 |
+| `lei-10702-de-2003` | Altera a Lei n o 9.294, de 15 de julho de 1996 , que dispõe sobre as restrições ao uso e à propaganda de produtos fumígeros, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4 o do... (Lei nº 10.702, de 14 de julho de 2003) | 1 | 2003-07-15 to 2003-07-15 |
+| `lei-10703-de-2003` | Dispõe sobre o cadastramento de usuários de telefones celulares pré-pagos e dá outras providências (Lei nº 10.703, de 18 de julho de 2003) | 1 | 2003-07-21 to 2003-07-21 |
+| `lei-10706-de-2003` | Autoriza a União a conceder indenização a José Pereira Ferreira (Lei nº 10.706, de 30 de julho de 2003) | 1 | 2003-07-31 to 2003-07-31 |
+| `lei-10710-de-2003` | Altera a Lei n o 8.213, de 24 de julho de 1991 , para restabelecer o pagamento, pela empresa, do salário-maternidade devido à segurada empregada gestante (Lei nº 10.710, de 5 de agosto de 2003) | 1 | 1997-12-11 to 1997-12-11 |
+| `lei-10712-de-2003` | Altera o art. 16 da Medida Provisória n o 2.181-45, de 24 de agosto de 2001 , que dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências (Lei nº 10.712, de 12 de agosto de 2003) | 1 | 2003-08-13 to 2003-08-13 |
+| `lei-10714-de-2003` | Autoriza o Poder Executivo a disponibilizar, em âmbito nacional, número telefônico destinado a atender denúncias de violência contra a mulher (Lei nº 10.714, de 13 de agosto de 2003) | 1 | 2026-07-30 to 2026-07-30 |
+| `lei-10727-de-2003` | Altera a redação do item 4 do Quadro VI da Lei n o 10.640, de 14 de janeiro de 2003 , que estima a receita e fixa a despesa da União para o exercício de 2003 (Lei nº 10.727, de 2 de setembro de 2003) | 1 | 2003-09-03 to 2003-09-03 |
+| `lei-10732-de-2003` | Altera a redação do art. 359 da Lei n o 4.737, de 15 de julho de 1965 - Código Eleitoral (institui a obrigatoriedade do depoimento pessoal no processo penal eleitoral) (Lei nº 10.732, de 5 de setembro de 2003) | 1 | 2003-10-23 to 2003-10-23 |
+| `lei-10736-de-2003` | Concede remissão de débito previdenciário do período de abril de 1994 a abril de 1997, em face do recolhimento com base na Lei n o 8.870, de 15 de abril de 1994 , pelas agroindústrias (Lei nº 10.736, de 15 de setembro de 2003) | 1 | 2003-09-16 to 2003-09-16 |
+| `lei-10738-de-2003` | Dispõe sobre a criação de subsidiárias integrais do Banco do Brasil S.A. para atuação no segmento de microfinanças e consórcios (Lei nº 10.738, de 17 de setembro de 2003) | 1 | 2003-09-18 to 2003-09-18 |
+| `lei-10739-de-2003` | Altera a Lei n o 5.917, de 10 de setembro de 1973 , que aprova o Plano Nacional de Viação, de modo a incluir, na Relação Descritiva das Rodovias do Sistema Rodoviário Federal, a rodovia que especifica, sob a... (Lei nº 10.739, de 24 de setembro de 2003) | 1 | 2003-09-25 to 2003-09-25 |
+| `lei-10742-de-2003` | Define normas de regulação para o setor farmacêutico, cria a Câmara de Regulação do Mercado de Medicamentos - CMED e altera a Lei n o 6.360, de 23 de setembro de 1976 , e dá outras providências (Lei nº 10.742, de 6 de outubro de 2003) | 1 | 2016-12-20 to 2016-12-20 |
+| `lei-10744-de-2003` | Dispõe sobre a assunção, pela União, de responsabilidades civis perante terceiros no caso de atentados terroristas, atos de guerra ou eventos correlatos, contra aeronaves de matrícula brasileira operadas por empresas... (Lei nº 10.744, de 9 de outubro de 2003) | 1 | 2003-10-10 to 2003-10-10 |
+| `lei-10745-de-2003` | Institui o ano de 2004 como o "Ano da Mulher" (Lei nº 10.745, de 9 de outubro de 2003) | 1 | 2003-10-10 to 2003-10-10 |
+| `lei-10752-de-2003` | Revoga a Medida Provisória nº 124, de 11 de julho de 2003 , que dispõe sobre o Quadro de Pessoal da Agência Nacional de Águas, e dá outras providências (Lei nº 10.752, de 30 de outubro de 2003) | 1 | 2003-10-31 to 2003-10-31 |
+| `lei-10754-de-2003` | Altera a Lei n o 8.989, de 24 de fevereiro de 1995 que "dispõe sobre a isenção do Imposto Sobre Produtos Industrializados - IPI, na aquisição de automóveis para utilização no transporte autônomo de passageiros, bem... (Lei nº 10.754, de 31 de outubro de 2003) | 1 | 2003-11-03 to 2003-11-03 |
+| `lei-10762-de-2003` | Dispõe sobre a criação do Programa Emergencial e Excepcional de Apoio às Concessionárias de Serviços Públicos de Distribuição de Energia Elétrica, altera as Leis n os 8.631, de 4 de março de 1993, 9.427, de 26 de... (Lei nº 10.762, de 11 de novembro de 2003) | 1 | 2002-04-29 to 2002-04-29 |
+| `lei-10763-de-2003` | Acrescenta artigo ao Código Penal e modifica a pena cominada aos crimes de corrupção ativa e passiva (Lei nº 10.763, de 12 de novembro de 2003) | 1 | 2003-11-13 to 2003-11-13 |
+| `lei-10764-de-2003` | Altera a Lei n o 8.069, de 13 de julho de 1990 , que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências (Lei nº 10.764, de 12 de novembro de 2003) | 1 | 2003-11-13 to 2003-11-13 |
+| `lei-10769-de-2003` | Altera dispositivos da Medida Provisória n o 2.229-43, de 6 de setembro de 2001, que dispõe sobre a criação, reestruturação e organização de carreiras, cargos e funções comissionadas técnicas no âmbito da... (Lei nº 10.769, de 19 de novembro de 2003) | 1 | 2003-11-20 to 2003-11-20 |
+| `lei-10770-de-2003` | Dispõe sobre a criação de Varas do Trabalho nas Regiões da Justiça do Trabalho, define jurisdições e dá outras providências (Lei nº 10.770, de 21 de novembro de 2003) | 1 | 2003-11-24 to 2003-11-24 |
+| `lei-10771-de-2003` | Dispõe sobre a criação de cargos de Membro, criação de Cargos Efetivos, criação e transformação de Funções Comissionadas no âmbito do Ministério Público da União, e a criação e transformação de Procuradorias da... (Lei nº 10.771, de 21 de novembro de 2003) | 1 | 2013-12-27 to 2013-12-27 |
+| `lei-10772-de-2003` | Dispõe sobre a criação de 183 (cento e oitenta e três) Varas Federais destinadas precipuamente à interiorização da Justiça Federal de Primeiro Grau e à implantação dos Juizados Especiais no País e dá outras providências (Lei nº 10.772, de 21 de novembro de 2003) | 1 | 2003-11-24 to 2003-11-24 |
+| `lei-10774-de-2003` | Transforma os cargos de Auxiliar Judiciário, criados pela Lei n o 9.607, de 18 de fevereiro de 1998 , do Quadro de Pessoal da Secretaria do Supremo Tribunal Federal (Lei nº 10.774, de 21 de novembro de 2003) | 1 | 2003-11-24 to 2003-11-24 |
+| `lei-10775-de-2003` | Dispõe sobre o enquadramento dos servidores ocupantes de cargos da Carreira de Especialista em Meio Ambiente nas tabelas de vencimentos instituídas pela Lei n o 10.410, de 11 de janeiro de 2002 (Lei nº 10.775, de 21 de novembro de 2003) | 1 | 2003-11-24 to 2003-11-24 |
+| `lei-10777-de-2003` | Acresce parágrafos ao art. 59 da Lei n º 10.707, de 30 de julho de 2003 , que dispõe sobre as diretrizes para a elaboração da Lei Orçamentária de 2004 (Lei nº 10.777, de 24 de novembro de 2003) | 1 | 2003-11-25 to 2003-11-25 |
+| `lei-10787-de-2003` | Prorroga o prazo do art. 1 o da Lei n o 9.871, de 23 de novembro de 1999 , alterado pelas Leis n os 10.164, de 27 de dezembro de 2000 , e 10.363, de 28 de dezembro de 2001 , referente a ratificação das concessões e... (Lei nº 10.787, de 25 de novembro de 2003) | 1 | 2003-11-26 to 2003-11-26 |
+| `lei-10791-de-2003` | Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Superior Tribunal de Justiça e dá outras providências (Lei nº 10.791, de 1º de dezembro de 2003) | 1 | 2003-12-02 to 2003-12-02 |
+| `lei-10792-de-2003` | Altera a Lei n o 7.210, de 11 de junho de 1984 - Lei de Execução Penal e o Decreto-Lei n o 3.689, de 3 de outubro de 1941 - Código de Processo Penal e dá outras providências (Lei nº 10.792, de 1º de dezembro de 2003) | 1 | 2003-12-02 to 2003-12-02 |
+| `lei-10795-de-2003` | Altera os arts. 11 e 16 da Lei n o 6.530, de 12 de maio de 1978 , para dispor sobre a eleição dos conselheiros nos Conselhos Regionais de Corretores de Imóveis e fixar valores máximos para as anuidades devidas pelos... (Lei nº 10.795, de 5 de dezembro de 2003) | 1 | 2003-12-03 to 2003-12-03 |
+| `lei-10799-de-2003` | Dispõe sobre a criação de cargos efetivos e de funções de confiança na Secretaria do Tribunal de Contas da União, e dá outras providências (Lei nº 10.799, de 10 de dezembro de 2003) | 1 | 2003-12-11 to 2003-12-11 |
+| `lei-10800-de-2003` | Cria cargos do Grupo Processamento de Dados do Quadro Permanente de Pessoal da Secretaria do Tribunal Regional do Trabalho da 9ª Região e dá outras providências (Lei nº 10.800, de 10 de dezembro de 2003) | 1 | 2003-12-11 to 2003-12-11 |
+| `lei-10803-de-2003` | Altera o art. 149 do Decreto-Lei n o 2.848, de 7 de dezembro de 1940 - Código Penal, para estabelecer penas ao crime nele tipificado e indicar as hipóteses em que se configura condição análoga à de escravo (Lei nº 10.803, de 11 de dezembro de 2003) | 1 | 2003-12-12 to 2003-12-12 |
+| `lei-10804-de-2003` | Altera o Quadro VI da Lei n o 10.640, de 14 de janeiro de 2003 (Lei nº 10.804, de 11 de dezembro de 2003) | 1 | 2003-12-12 to 2003-12-12 |
+| `lei-10821-de-2003` | Concede indenização, a título de reparação de danos, às famílias das vítimas do acidente de Alcântara e à família do subtenente do Exército Alcir José Tomasi (Lei nº 10.821, de 18 de dezembro de 2003) | 1 | 2003-12-19 to 2003-12-19 |
+| `lei-10822-de-2003` | Altera o valor da pensão especial concedida a Cleonice dos Santos Azevedo pela Lei n o 7.559, de 19 de dezembro de 1986 (Lei nº 10.822, de 19 de dezembro de 2003) | 1 | 2003-12-22 to 2003-12-22 |
+| `lei-10823-de-2003` | Dispõe sobre a subvenção econômica ao prêmio do Seguro Rural e dá outras providências (Lei nº 10.823, de 19 de dezembro de 2003) | 1 | 2026-09-30 to 2026-09-30 |
+| `lei-10825-de-2003` | Dá nova redação aos arts. 44 e 2.031 da Lei n o 10.406, de 10 de janeiro de 2002 , que institui o Código Civil (Lei nº 10.825, de 22 de dezembro de 2003) | 1 | 2003-12-23 to 2003-12-23 |
+| `lei-10828-de-2003` | Altera a legislação tributária federal (Lei nº 10.828, de 23 de dezembro de 2003) | 1 | 2003-12-24 to 2003-12-24 |
+| `lei-10830-de-2003` | Altera os arts. 61, 105 e 338 da Lei n o 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre especificidades dos veículos de duas e de três rodas (Lei nº 10.830, de 23 de dezembro de 2003) | 1 | 2003-12-24 to 2003-12-24 |
+| `lei-10839-de-2004` | Altera e acresce dispositivo à Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social (Lei nº 10.839, de 5 de fevereiro de 2004) | 1 | 2004-02-06 to 2004-02-06 |
+| `lei-10842-de-2004` | Cria e transforma cargos e funções nos Quadros de Pessoal dos Tribunais Regionais Eleitorais, destinados às Zonas Eleitorais (Lei nº 10.842, de 20 de fevereiro de 2004) | 1 | 2004-02-20 to 2004-02-20 |
+| `lei-10844-de-2004` | Dispõe sobre os créditos do Banco Central do Brasil contra instituição financeira credenciada a operar no Convênio de Pagamentos e Créditos Recíprocos - CCR, e dá outras providências (Lei nº 10.844, de 4 de março de 2004) | 1 | 2004-03-05 to 2004-03-05 |
+| `lei-10846-de-2004` | Dá nova redação ao art. 2º da Lei nº 10.260, de 12 de julho de 2001, que dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior (Lei nº 10.846, de 12 de março de 2004) | 1 | 2004-03-15 to 2004-03-15 |
+| `lei-10847-de-2004` | Autoriza a criação da Empresa de Pesquisa Energética - EPE e dá outras providências (Lei nº 10.847, de 15 de março de 2004) | 1 | 2025-11-25 to 2025-11-25 |
+| `lei-10850-de-2004` | Atribui competências à Agência Nacional de Saúde Suplementar - ANS e fixa as di-retrizes a serem observadas na definição de normas para implantação de programas es-peciais de incentivo à adaptação de con-tratos... (Lei nº 10.850, de 25 de março de 2004) | 1 | 2004-03-26 to 2004-03-26 |
+| `lei-10854-de-2004` | Autoriza o Poder Executivo a conceder subvenção econômica à Companhia de Navegação do São Francisco - FRANAVE (Lei nº 10.854, de 31 de março de 2004) | 1 | 2006-02-08 to 2006-02-08 |
+| `lei-10856-de-2004` | Extingue o Conselho Diretor do Fundo de Garantia à Exportação - CFGE, altera dispositivos da Lei nº 9.818, de 23 de agosto de 1999, e dá outras providências (Lei nº 10.856, de 5 de abril de 2004) | 1 | 2004-04-06 to 2004-04-06 |
+| `lei-10858-de-2004` | Autoriza a Fundação Oswaldo Cruz - Fiocruz a disponibilizar medicamentos, mediante ressarcimento, e dá outras providências (Lei nº 10.858, de 13 de abril de 2004) | 1 | 2004-04-14 to 2004-04-14 |
+| `lei-10859-de-2004` | Altera a Lei nº 10.188, de 12 de fevereiro de 2001, que institui o Programa de Arrendamento Residencial e dá outras providências (Lei nº 10.859, de 14 de abril de 2004) | 1 | 2004-04-15 to 2004-04-15 |
+| `lei-10860-de-2004` | Dispõe sobre a criação do Instituto Nacional do Semi-Árido - INSA, unidade de pesquisa integrante da estrutura básica do Ministério da Ciência e Tecnologia, e dá outras providências. Mensagem de Veto (Lei nº 10.860, de 14 de abril de 2004) | 1 | 2004-04-15 to 2004-04-15 |
+| `lei-10866-de-2004` | Acresce os arts. 1º-A e 1º-B à Lei nº 10.336, de 19 de dezembro de 2001, com o objetivo de regulamentar a partilha com os Estados, o Distrito Federal e os Municípios da arrecadação da Contribuição de Intervenção no... (Lei nº 10.866, de 4 de maio de 2004) | 1 | 2004-05-05 to 2004-05-05 |
+| `lei-10867-de-2004` | Altera o art. 6º da Lei nº 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - Sinarm, define crimes e dá outras... (Lei nº 10.867, de 12 de maio de 2004) | 1 | 2004-05-13 to 2004-05-13 |
+| `lei-10869-de-2004` | Altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências (Lei nº 10.869, de 13 de maio de 2004) | 1 | 2008-07-24 to 2008-07-24 |
+| `lei-10870-de-2004` | Institui a Taxa de Avaliação in loco das instituições de educação superior e dos cursos de graduação e dá outras providências (Lei nº 10.870, de 19 de maio de 2004) | 1 | 2004-05-20 to 2004-05-20 |
+| `lei-10873-de-2004` | Dispõe sobre a transformação de funções comissionadas em cargos em comissão no Quadro de Pessoal da Secretaria do Tribunal Superior do Trabalho e dá outras providências (Lei nº 10.873, de 26 de maio de 2004) | 1 | 2004-05-27 to 2004-05-27 |
+| `lei-10875-de-2004` | Altera dispositivos da Lei no 9.140, de 4 de dezembro de 1995, que reconhece como mortas pessoas desaparecidas em razão de participação, ou acusação de participação, em atividades políticas (Lei nº 10.875, de 1º de junho de 2004) | 1 | 2004-06-02 to 2004-06-02 |
+| `lei-10878-de-2004` | Acrescenta o inciso XVI ao caput do art. 20 da Lei nº 8.036, de 11 de maio de 1990, que dispõe sobre o Fundo de Garantia do Tempo de Serviço - FGTS, para permitir a movimentação da conta vinculada em caso de... (Lei nº 10.878, de 8 de junho de 2004) | 1 | 2004-06-09 to 2004-06-09 |
+| `lei-10881-de-2004` | Dispõe sobre os contratos de gestão entre a Agência Nacional de Águas e entidades delegatárias das funções de Agências de Águas relativas à gestão de recursos hídricos de domínio da União e dá outras providências (Lei nº 10.881, de 9 de junho de 2004) | 1 | 2004-06-11 to 2004-06-11 |
+| `lei-10882-de-2004` | Dispõe sobre a criação do Plano Especial de Cargos da Agência Nacional de Vigilância Sanitária - ANVISA e da Gratificação Temporária de Vigilância Sanitária, e dá outras providências (Lei nº 10.882, de 9 de junho de 2004) | 1 | 2025-06-03 to 2025-06-03 |
+| `lei-10883-de-2004` | Reestrutura a remuneração e define as competências dos ocupantes dos cargos da Carreira de Fiscal Federal Agropecuário e dá outras providências (Lei nº 10.883, de 16 de junho de 2004) | 1 | 2025-06-03 to 2025-06-03 |
+| `lei-10884-de-2004` | Altera os prazos previstos nos arts. 29, 30 e 32 da Lei nº 10.826, de 22 de dezembro de 2003, e os arts. 5º e 6º da referida Lei e dá outras providências (Lei nº 10.884, de 17 de junho de 2004) | 1 | 2004-06-18 to 2004-06-18 |
+| `lei-10885-de-2004` | Altera a Lei nº 10.150, de 21 de dezembro de 2000, que dispõe sobre a novação de dívidas e responsabilidades do Fundo de Compensação de Variações Salariais, e dá outras providências (Lei nº 10.885, de 17 de junho de 2004) | 1 | 2004-06-18 to 2004-06-18 |
+| `lei-10886-de-2004` | Acrescenta parágrafos ao art. 129 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, criando o tipo especial denominado "Violência Doméstica" (Lei nº 10.886, de 17 de junho de 2004) | 1 | 2004-06-18 to 2004-06-18 |
+| `lei-10888-de-2004` | Dispõe sobre o salário mínimo a partir de 1º de maio de 2004, e dá outras providências (Lei nº 10.888, de 24 de junho de 2004) | 1 | 2006-07-10 to 2006-07-10 |
+| `lei-10889-de-2004` | Autoriza a Centrais Elétricas Brasileiras S.A. - ELETROBRÁS a efetuar capitalização na Companhia Energética do Maranhão - CEMAR e altera a alínea a do inciso I do art. 3º da Lei nº 10.438, de 26 de abril de 2002 (Lei nº 10.889, de 25 de junho de 2004) | 1 | 2004-06-28 to 2004-06-28 |
+| `lei-10890-de-2004` | Autoriza, em caráter excepcional, a antecipação da transferência de recursos prevista no art. 1º-A da Lei nº 10.336, de 19 de dezembro de 2001, nas condições que especifica (Lei nº 10.890, de 2 de julho de 2004) | 1 | 2004-07-02 to 2004-07-02 |
+| `lei-10892-de-2004` | Altera os arts. 8º e 16 da Lei nº 9.311, de 24 de outubro de 1996, que institui a Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF, e dá... (Lei nº 10.892, de 13 de julho de 2004) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-10904-de-2004` | Altera a redação dos itens II e III do Anexo VII da Lei nº 10.837, de 16 de janeiro de 2004 (Lei nº 10.904, de 15 de julho de 2004) | 1 | 2004-07-16 to 2004-07-16 |
+| `lei-10905-de-2004` | Amplia o limite a que se refere o item III.4 do Anexo VII da Lei nº 10.837, de 16 de janeiro de 2004 (Lei nº 10.905, de 15 de julho de 2004) | 1 | 2004-07-16 to 2004-07-16 |
+| `lei-10906-de-2004` | Amplia o limite a que se refere o item III.4 do Anexo VII da Lei nº 10.837, de 16 de janeiro de 2004 (Lei nº 10.906, de 15 de julho de 2004) | 1 | 2004-07-16 to 2004-07-16 |
+| `lei-10907-de-2004` | Institui a Gratificação Específica de Apoio Técnico-Administrativo da Advocacia-Geral da União - GEATA, altera a Lei nº 10.480, de 2 de julho de 2002, e dá outras providências (Lei nº 10.907, de 15 de julho de 2004) | 1 | 2025-06-03 to 2025-06-03 |
+| `lei-10930-de-2004` | Altera dispositivos da Lei nº 10.356, de 27 de dezembro de 2001 - Plano de Carreira do Tribunal de Contas da União, e dá outras providências (Lei nº 10.930, de 2 de agosto de 2004) | 1 | 2004-08-03 to 2004-08-03 |
+| `lei-10932-de-2004` | Altera o art. 4º da Lei nº 6.766, de 19 de dezembro de 1979, que "dispõe sobre o parcelamento do solo urbano e dá outras providências" (Lei nº 10.932, de 2 de agosto de 2004) | 1 | 2004-08-03 to 2004-08-03 |
+| `lei-10933-de-2004` | Dispõe sobre o Plano Plurianual para o período 2004/2007 (Lei nº 10.933, de 11 de agosto de 2004) | 1 | 2007-02-08 to 2007-02-08 |
+| `lei-10936-de-2004` | Altera a Lei nº 10.555, de 13 de novembro de 2002, que autoriza condições especiais para o crédito de valores iguais ou inferiores a R$ 100,00, de que trata a Lei Complementar nº 110, de 29 de junho de 2001, e dá... (Lei nº 10.936, de 12 de agosto de 2004) | 1 | 2004-08-13 to 2004-08-13 |
+| `lei-10937-de-2004` | Dispõe sobre a remuneração dos militares, a serviço da União, integrantes de contingente armado de força multinacional empregada em operações de paz, em cumprimento de obrigações assumidas pelo Brasil em... (Lei nº 10.937, de 12 de agosto de 2004) | 1 | 2004-08-13 to 2004-08-13 |
+| `lei-10940-de-2004` | Altera e acrescenta dispositivos à Lei nº 10.748, de 22 de outubro de 2003, que cria o Programa Nacional de Estímulo ao Primeiro Emprego para os Jovens - PNPE e à Lei nº 9.608, de 18 de fevereiro de 1998, que dispõe... (Lei nº 10.940, de 27 de agosto de 2004) | 1 | 2008-06-11 to 2008-06-11 |
+| `lei-10941-de-2004` | Altera os itens II e III do Anexo VII da Lei nº 10.837, de 16 de janeiro de 2004 (Lei nº 10.941, de 15 de setembro de 2004) | 1 | 2004-09-16 to 2004-09-16 |
+| `lei-10943-de-2004` | Dispõe sobre a criação de cargos em comissão e funções comissionadas no Quadro de Pessoal do Superior Tribunal de Justiça e dá outras providências (Lei nº 10.943, de 16 de setembro de 2004) | 1 | 2004-09-17 to 2004-09-17 |
+| `lei-10945-de-2004` | Cria cargos e funções no Quadro de Pessoal da Secretaria do Supremo Tribunal Federal (Lei nº 10.945, de 16 de setembro de 2004) | 1 | 2004-09-17 to 2004-09-17 |
+| `lei-10950-de-2004` | Amplia o limite a que se refere o item III.4 do Anexo VII da Lei nº 10.837, de 16 de janeiro de 2004 (Lei nº 10.950, de 20 de setembro de 2004) | 1 | 2004-09-21 to 2004-09-21 |
+| `lei-10953-de-2004` | Altera o art. 6º da Lei nº 10.820, de 17 de dezembro de 2003, que dispõe sobre a autorização para desconto de prestações em folha de pagamento (Lei nº 10.953, de 27 de setembro de 2004) | 1 | 2004-09-28 to 2004-09-28 |
+| `lei-10954-de-2004` | Institui, no âmbito do Programa de Resposta aos Desastres, o Auxílio Emergencial Financeiro para atendimento à população atingida por desastres, residentes nos Municípios em estado de calamidade pública ou situação... (Lei nº 10.954, de 29 de setembro de 2004) | 1 | 2014-06-20 to 2014-06-20 |
+| `lei-10960-de-2004` | Altera a Lei nº 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, de modo a incluir, na Relação Descritiva das Rodovias do Sistema Rodoviário Federal, o trecho rodoviário compreendido entre as... (Lei nº 10.960, de 7 de outubro de 2004) | 1 | 2004-10-08 to 2004-10-08 |
+| `lei-10961-de-2004` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal do Tribunal Regional do Trabalho da 12ª Região e dá outras providências (Lei nº 10.961, de 11 de outubro de 2004) | 1 | 2004-10-13 to 2004-10-13 |
+| `lei-10962-de-2004` | Dispõe sobre a oferta e as formas de afixação de preços de produtos e serviços para o consumidor. Mensagem de Veto (Lei nº 10.962, de 11 de outubro de 2004) | 1 | 2017-12-20 to 2017-12-20 |
+| `lei-10964-de-2004` | Dá nova redação a dispositivos das Leis de nºs 8.010, de 29 de março de 1990, e 8.032, de 12 de abril de 1990, para estender a cientistas e pesquisadores a isenção tributária relativa a bens destinados à pesquisa... (Lei nº 10.964, de 28 de outubro de 2004) | 1 | 2004-12-30 to 2004-12-30 |
+| `lei-10966-de-2004` | Autoriza a União a prestar auxílio financeiro aos Estados, ao Distrito Federal e aos Municípios, com o objetivo de fomentar as exportações do País (Lei nº 10.966, de 9 de novembro de 2004) | 1 | 2004-11-09 to 2004-11-09 |
+| `lei-10969-de-2004` | Autoriza o Instituto Nacional do Seguro Social a doar imóvel que especifica à União Brasileira de Escritores (Lei nº 10.969, de 9 de novembro de 2004) | 1 | 2004-11-10 to 2004-11-10 |
+| `lei-10970-de-2004` | Altera dispositivos da Lei nº 7.678, de 8 de novembro de 1988, que dispõe sobre a produção, circulação e comercialização do vinho e derivados da uva e do vinho, e dá outras providências (Lei nº 10.970, de 12 de novembro de 2004) | 1 | 2004-11-16 to 2004-11-16 |
+| `lei-9248-de-1995` | Acrescenta inciso ao art. 32 da Lei de Organização Judiciária do Distrito Federal e Territórios (Lei nº 9.248, de 26 de dezembro de 1995) | 1 | 1995-12-27 to 1995-12-27 |
+| `lei-9254-de-1996` | Altera a redação do art. 12 da Lei nº 7.520, de 15 de julho de 1986 (Lei nº 9.254, de 3 de janeiro de 1996) | 1 | 1996-01-04 to 1996-01-04 |
+| `lei-9255-de-1996` | Autoriza o Poder Executivo a conceder pensão especial a LÚCIA DE OLIVEIRA MENEZES, tetraneta de Joaquim José da Silva Xavier, o Tiradentes (Lei nº 9.255, de 3 de janeiro de 1996) | 1 | 1996-01-04 to 1996-01-04 |
+| `lei-9256-de-1996` | Altera o caput do art. 53 e o § 3º do art. 63 da Lei nº 8.245, de 18 de outubro de 1991, que dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes (Lei nº 9.256, de 9 de janeiro de 1996) | 1 | 1996-01-10 to 1996-01-10 |
+| `lei-9257-de-1996` | Dispõe sobre o Conselho Nacional de Ciência e Tecnologia (Lei nº 9.257, de 9 de janeiro de 1996) | 1 | 2001-09-01 to 2001-09-01 |
+| `lei-9261-de-1996` | Altera a redação dos incisos I e II do art. 2º, o caput do art. 3º, o inciso VI do art. 4º e o parágrafo único do art. 6º da Lei nº 7.377, de 30 de setembro de 1985 (Lei nº 9.261, de 10 de janeiro de 1996) | 1 | 1996-01-11 to 1996-01-11 |
+| `lei-9264-de-1996` | Dispõe sobre o desmembramento e a reorganização da Carreira Policial Civil do Distrito Federal, fixa remuneração de seus cargos e dá outras providências (Lei nº 9.264, de 7 de fevereiro de 1996) | 1 | 2026-04-28 to 2026-04-28 |
+| `lei-9265-de-1996` | Regulamenta o inciso LXXVII do art. 5º da Constituição, dispondo sobre a gratuidade dos atos necessários ao exercício da cidadania (Lei nº 9.265, de 12 de fevereiro de 1996) | 1 | 2020-01-09 to 2020-01-09 |
+| `lei-9267-de-1996` | Altera a redação do § 4º do art. 24 da Lei nº 4.591, de 16 de dezembro de 1964, que dispõe sobre o condomínio em edificações e as incorporações imobiliárias (Lei nº 9.267, de 25 de março de 1996) | 1 | 1996-03-26 to 1996-03-26 |
+| `lei-9268-de-1996` | Altera dispositivos do Decreto-lei n° 2.848, de 7 de dezembro de 1940 - Código Penal - Parte Geral (Lei nº 9.268, de 1º de abril de 1996) | 1 | 1996-04-02 to 1996-04-02 |
+| `lei-9269-de-1996` | Dá nova redação ao § 4° do art. 159 do Código Penal (Lei nº 9.269, de 2 de abril de 1996) | 1 | 1996-04-03 to 1996-04-03 |
+| `lei-9270-de-1996` | Acrescenta inciso ao art. 659 da Consolidação das Leis do Trabalho (Lei nº 9.270, de 17 de abril de 1996) | 1 | 1996-04-18 to 1996-04-18 |
+| `lei-9272-de-1996` | Acrescenta incisos ao art. 30 da Lei n° 8.171, de 17 de janeiro de 1991, que dispõe sobre a política agrícola (Lei nº 9.272, de 3 de maio de 1996) | 1 | 1996-05-06 to 1996-05-06 |
+| `lei-9274-de-1996` | Dispõe sobre anistia relativamente às eleições de 3 de outubro e de 15 de novembro dos anos de 1992 e 1994 (Lei nº 9.274, de 7 de maio de 1996) | 1 | 1996-05-08 to 1996-05-08 |
+| `lei-9276-de-1996` | Dispõe sobre o Plano Plurianual para o período de 1996/1999 e dá outras providências (Lei nº 9.276, de 9 de maio de 1996) | 1 | 1996-05-10 to 1996-05-10 |
+| `lei-9278-de-1996` | Regula o § 3° do art. 226 da Constituição Federal (Lei nº 9.278, de 10 de maio de 1996) | 1 | 1996-05-13 to 1996-05-13 |
+| `lei-9280-de-1996` | Acrescenta um § 2° ao art. 1.031 do Código de Processo Civil, transformando o atual parágrafo único em § 1° (Lei nº 9.280, de 30 de maio de 1996) | 1 | 1996-05-31 to 1996-05-31 |
+| `lei-9281-de-1996` | Revoga os parágrafos únicos dos arts. 213 e 214 do Decreto-lei n° 2.848, de 7 de dezembro de 1940 - Código Penal (Lei nº 9.281, de 4 de junho de 1996) | 1 | 1996-06-05 to 1996-06-05 |
+| `lei-9282-de-1996` | Reajusta a pensão especial concedida pela Lei n° 3.233, de 29 de julho de 1957, a Rosália Maria de Almeida da Conceição, viúva do ex-servidor federal Vital da Conceição (Lei nº 9.282, de 13 de junho de 1996) | 1 | 1996-06-14 to 1996-06-14 |
+| `lei-9283-de-1996` | Altera a Lei n° 8.457, de 4 de setembro de 1992 (Lei nº 9.283, de 13 de junho de 1996) | 1 | 1996-06-14 to 1996-06-14 |
+| `lei-9288-de-1996` | Altera dispositivos da Lei n° 8.436, de 25 de junho de 1992, que institucionaliza o Programa de Crédito Educativo para estudantes carentes (Lei nº 9.288, de 1º de julho de 1996) | 1 | 1996-07-02 to 1996-07-02 |
+| `lei-9290-de-1996` | Modifica o valor da pensão especial de que trata o art. 1° da Lei n° 7.099, de 13 de junho de 1983, e dá outras providências (Lei nº 9.290, de 8 de julho de 1996) | 1 | 1996-07-09 to 1996-07-09 |
+| `lei-9292-de-1996` | Dispõe sobre a remuneração dos membros dos conselhos de administração e fiscal das entidades que menciona e dá outras providências (Lei nº 9.292, de 12 de julho de 1996) | 1 | 1996-07-15 to 1996-07-15 |
+| `lei-9297-de-1996` | Dá nova redação a dispositivos da Lei n° 6.880, de 9 de dezembro de 1980, que dispõe sobre o Estatuto dos Militares (Lei nº 9.297, de 25 de julho de 1996) | 1 | 1996-07-26 to 1996-07-26 |
+| `lei-9298-de-1996` | Altera a redação do § 1° do art. 52 da Lei n° 8.078, de 11 de setembro de 1990, que "dispõe sobre a proteção do consumidor e dá outras providências" (Lei nº 9.298, de 1º de agosto de 1996) | 1 | 1996-08-02 to 1996-08-02 |
+| `lei-9299-de-1996` | Altera dispositivos dos Decretos-leis n° s 1.001 e 1.002, de 21 de outubro de 1969, Códigos Penal Militar e de Processo Penal Militar, respectivamente (Lei nº 9.299, de 7 de agosto de 1996) | 1 | 1996-08-08 to 1996-08-08 |
+| `lei-9300-de-1996` | Acrescenta parágrafo ao art. 9° da Lei n° 5.889, de 8 de junho de 1973, que estatui normas reguladoras do trabalho rural e dá outras providências (Lei nº 9.300, de 29 de agosto de 1996) | 1 | 1996-08-30 to 1996-08-30 |
+| `lei-9301-de-1996` | Revoga o art. 75 da Lei n° 9.100, de 29 de setembro de 1995, que estabelece normas para a realização das eleições municipais de 3 de outubro de 1996, e dá outras providências (Lei nº 9.301, de 29 de agosto de 1996) | 1 | 1996-08-30 to 1996-08-30 |
+| `lei-9302-de-1996` | Autoriza o Banco Central do Brasil, autarquia vinculada ao Ministério da Fazenda, a doar o imóvel que menciona, no Município do Rio de Janeiro, Estado do Rio de Janeiro (Lei nº 9.302, de 4 de setembro de 1996) | 1 | 1996-09-05 to 1996-09-05 |
+| `lei-9303-de-1996` | Altera a redação do art. 8° da Lei n° 9.034, de 3 de maio de 1995, que "dispõe sobre a utilização de meios operacionais para a prevenção e repressão de ações praticadas por organizações criminosas" (Lei nº 9.303, de 5 de setembro de 1996) | 1 | 1996-09-06 to 1996-09-06 |
+| `lei-9305-de-1996` | Concede, a título de indenização decorrente de responsabilidade civil da União, pensão especial aos dependentes de José Ivanildo Sampaio de Souza (Lei nº 9.305, de 12 de setembro de 1996) | 1 | 1996-09-13 to 1996-09-13 |
+| `lei-9309-de-1996` | Revoga a Lei n° 7.700, de 21 de dezembro de 1988, que cria o Adicional de Tarifa Portuária - ATP, e dá outras providências (Lei nº 9.309, de 2 de outubro de 1996) | 1 | 1996-10-04 to 1996-10-04 |
+| `lei-9312-de-1996` | Altera o art. 5° da Lei n° 8.313, de 23 de dezembro de 1991, que "restabelece princípios da Lei n° 7.505, de 2 de julho de 1986, institui o Programa Nacional de Apoio à Cultura - PRONAC e dá outras providências" (Lei nº 9.312, de 5 de novembro de 1996) | 1 | 1996-11-06 to 1996-11-06 |
+| `lei-9313-de-1996` | Dispõe sobre a distribuição gratuita de medicamentos aos portadores do HIV e doentes de AIDS (Lei nº 9.313, de 13 de novembro de 1996) | 1 | 1996-11-14 to 1996-11-14 |
+| `lei-9318-de-1996` | Altera a alínea h do inciso II do art. 61 do Código Penal (Lei nº 9.318, de 5 de dezembro de 1996) | 1 | 1996-12-06 to 1996-12-06 |
+| `lei-9321-de-1996` | Dispensa a comprovação de regularidade do recolhimento do Imposto sobre a Propriedade Territorial Rural (ITR) para fins de financiamento ao amparo do Programa Nacional de Fortalecimento da Agricultura Familiar -... (Lei nº 9.321, de 5 de dezembro de 1996) | 1 | 1996-12-06 to 1996-12-06 |
+| `lei-9322-de-1996` | Dispõe sobre a alocação, em depósitos especiais, remunerados, de recursos das disponibilidades financeiras do Fundo de Amparo ao Trabalhador - FAT (Lei nº 9.322, de 5 de dezembro de 1996) | 1 | 1991-12-31 to 1991-12-31 |
+| `lei-9323-de-1996` | Altera o limite de dedução de que trata o § 2 o do art. 1 o da Lei n o 8.685, de 20 de julho de 1993, que cria mecanismos de fomento à atividade audiovisual, e dá outras providências (Lei nº 9.323, de 5 de dezembro de 1996) | 1 | 1996-12-06 to 1996-12-06 |
+| `lei-9327-de-1996` | Dispõe sobre a condução de veículo oficial (Lei nº 9.327, de 9 de dezembro de 1996) | 1 | 1996-12-10 to 1996-12-10 |
+| `lei-9331-de-1996` | Autoriza o Poder Executivo a contratar com a ITAIPU pagamento de débito junto ao Tesouro Nacional com títulos da dívida externa brasileira, no valor correspondente a até US$ 140,000,000.00 (cento e quarenta milhões... (Lei nº 9.331, de 10 de dezembro de 1996) | 1 | 1996-12-11 to 1996-12-11 |
+| `lei-9335-de-1996` | Altera a Lei n° 9.093, de 12 de setembro de 1995, que dispõe sobre feriados (Lei nº 9.335, de 10 de dezembro de 1996) | 1 | 1996-12-11 to 1996-12-11 |
+| `lei-9359-de-1996` | Isenta do Imposto de Importação e do Imposto sobre Produtos Industrializados bens de informática adquiridos pelo Tribunal Superior Eleitoral (Lei nº 9.359, de 12 de dezembro de 1996) | 1 | 1996-12-13 to 1996-12-13 |
+| `lei-9360-de-1996` | Dá nova redação ao parágrafo único do art. 1 o da Lei n o 8.995, de 24 de fevereiro de 1995, que autoriza o Ministério dos Transportes, por intermédio da Companhia Brasileira de Trens Urbanos - CBTU, a transferir à... (Lei nº 9.360, de 13 de dezembro de 1996) | 1 | 1996-12-17 to 1996-12-17 |
+| `lei-9362-de-1996` | Dispõe sobre medidas reguladoras do abastecimento do mercado interno de produtos do setor sucroalcooleiro (Lei nº 9.362, de 13 de dezembro de 1996) | 1 | 1996-12-17 to 1996-12-17 |
+| `lei-9364-de-1996` | Dispõe sobre o pagamento com sub-rogação, pela União, de dívidas da Rede Ferroviária Federal S.A. - RFFSA junto ao Instituto Nacional do Seguro Social - INSS e à Fundação Rede Ferroviária de Seguridade Social -... (Lei nº 9.364, de 16 de dezembro de 1996) | 1 | 2001-08-27 to 2001-08-27 |
+| `lei-9365-de-1996` | Institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências (Lei nº 9.365, de 16 de dezembro de 1996) | 1 | 2022-06-09 to 2022-06-09 |
+| `lei-9366-de-1996` | Dispõe sobre os quadros de cargos do Grupo-Direção e Assessoramento Superiores - DAS da Advocacia-Geral da União, do Ministério da Fazenda, e dá outras providências (Lei nº 9.366, de 16 de dezembro de 1996) | 1 | 1996-12-18 to 1996-12-18 |
+| `lei-9367-de-1996` | Fixa critérios para a progressiva unificação das tabelas de vencimentos dos servidores, altera o Anexo II da Lei n o 8.237, de 30 de setembro de 1991, para implementação da isonomia a que se refere o § 1 o do art. 39... (Lei nº 9.367, de 16 de dezembro de 1996) | 1 | 2001-09-01 to 2001-09-01 |
+| `lei-9392-de-1996` | Disciplina a remuneração e demais vantagens devidas a funcionários das carreiras do Serviço Exterior, casados entre si, servindo juntos no exterior (Lei nº 9.392, de 19 de dezembro de 1996) | 1 | 1996-12-20 to 1996-12-20 |
+| `lei-9415-de-1996` | Dá nova redação ao inciso III do art. 82 da Lei n° 5.869, de 11 de janeiro de 1973 - Código de Processo Civil (Lei nº 9.415, de 23 de dezembro de 1996) | 1 | 1996-12-24 to 1996-12-24 |
+| `lei-9422-de-1996` | Dispõe sobre a concessão de pensão especial aos dependentes que especifica e dá outras providências (Lei nº 9.422, de 24 de dezembro de 1996) | 1 | 1996-12-26 to 1996-12-26 |
+| `lei-9423-de-1996` | Autoriza a Telecomunicações Brasileiras S.A. - TELEBRÁS a participar do capital social de empresa privada com sede no exterior, e dá outras providências (Lei nº 9.423, de 24 de dezembro de 1996) | 1 | 1996-12-26 to 1996-12-26 |
+| `lei-9425-de-1996` | Dispõe sobre a concessão de pensão especial às vítimas do acidente nuclear ocorrido em Goiânia, Goiás (Lei nº 9.425, de 24 de dezembro de 1996) | 1 | 1996-12-26 to 1996-12-26 |
+| `lei-9426-de-1996` | Altera dispositivos do Decreto-lei n° 2.848, de 7 de dezembro de 1940 - Código Penal - Parte Especial (Lei nº 9.426, de 24 de dezembro de 1996) | 1 | 1996-12-26 to 1996-12-26 |
+| `lei-9429-de-1996` | Dispõe sobre prorrogação de prazo para renovação de Certificado de Entidades de Fins Filantrópicos e de recadastramento junto ao Conselho Nacional de Assistência Social - CNAS e anulação de atos emanados do Instituto... (Lei nº 9.429, de 26 de dezembro de 1996) | 1 | 2009-11-30 to 2009-11-30 |
+| `lei-9431-de-1997` | Dispõe sobre a obrigatoriedade da manutenção de programa de controle de infecções hospitalares pelos hospitais do País (Lei nº 9.431, de 6 de janeiro de 1997) | 1 | 1997-01-07 to 1997-01-07 |
+| `lei-9439-de-1997` | Altera para 285% o limite máximo da Gratificação Extraordinária devida aos servidores da categoria funcional de Técnico do Ministério Público da União (Lei nº 9.439, de 7 de março de 1997) | 1 | 1997-03-10 to 1997-03-10 |
+| `lei-9441-de-1997` | Extingue créditos oriundos de contribuições arrecadadas pelo Instituto Nacional do Seguro Social - INSS, no valor e condições que especifica, e dá outras providências (Lei nº 9.441, de 14 de março de 1997) | 1 | 1997-03-15 to 1997-03-15 |
+| `lei-9443-de-1997` | Dispõe sobre os fundos que especifica e dá outras providências (Lei nº 9.443, de 14 de março de 1997) | 1 | 1997-03-15 to 1997-03-15 |
+| `lei-9448-de-1997` | Transforma o Instituto Nacional de Estudos e Pesquisas Educacionais - INEP em Autarquia Federal, e dá outras providências (Lei nº 9.448, de 14 de março de 1997) | 1 | 2023-01-11 to 2023-01-11 |
+| `lei-9450-de-1997` | Acrescenta parágrafos ao art. 75 da Lei n o 4.728, de 14 de julho de 1965 (Lei nº 9.450, de 14 de março de 1997) | 1 | 1997-03-15 to 1997-03-15 |
+| `lei-9453-de-1997` | Acrescenta parágrafo ao art. 2° da Lei n° 5.553, de 6 de dezembro de 1968, que dispõe sobre a apresentação e uso de documentos de identificação pessoal (Lei nº 9.453, de 20 de março de 1997) | 1 | 1997-03-21 to 1997-03-21 |
+| `lei-9454-de-1997` | Institui o número único de Registro de Identidade Civil e dá outras providências (Lei nº 9.454, de 7 de abril de 1997) | 1 | 2023-01-11 to 2023-01-11 |
+| `lei-9458-de-1997` | Dá nova redação ao inciso I do art. 22 da Lei nº 8.829, de 22 de dezembro de 1993, que cria, no Serviço Exterior Brasileiro, as Carreiras de Oficial de Chancelaria e de Assistente de Chancelaria (Lei nº 9.458, de 9 de maio de 1997) | 1 | 1997-05-12 to 1997-05-12 |
+| `lei-9459-de-1997` | Altera os arts. 1º e 20 da Lei nº 7.716, de 5 de janeiro de 1989, que define os crimes resultantes de preconceito de raça ou de cor, e acrescenta parágrafo ao art. 140 do Decreto-lei nº 2.848, de 7 de dezembro de 1940 (Lei nº 9.459, de 13 de maio de 1997) | 1 | 1997-05-14 to 1997-05-14 |
+| `lei-9460-de-1997` | Altera o art. 82 da Lei n° 7.210, de 11 de julho de 1984, que institui a Lei de Execução Penal (Lei nº 9.460, de 4 de junho de 1997) | 1 | 1997-06-05 to 1997-06-05 |
+| `lei-9462-de-1997` | Determina seja dada maior publicidade aos editais, avisos, anúncios e quadro geral de credores na falência, na concordata e na insolvência civil (Lei nº 9.462, de 19 de junho de 1997) | 1 | 1997-06-20 to 1997-06-20 |
+| `lei-9465-de-1997` | Dispõe sobre fornecimento gratuito de registro extemporâneo de nascimento (Lei nº 9.465, de 7 de julho de 1997) | 1 | 1997-07-08 to 1997-07-08 |
+| `lei-9466-de-1997` | Dá nova redação ao § 3º do art. 52 da Lei nº 8.931, de 22 de setembro de 1994, que dispõe sobre a amortização, juros e outros encargos decorrentes da extinção ou dissolução de entidades da Administração Pública... (Lei nº 9.466, de 9 de julho de 1997) | 1 | 1997-07-10 to 1997-07-10 |
+| `lei-9467-de-1997` | Dá nova redação aos arts. 9º da Lei nº 8.036, de 11 de maio de, 1990 e 2º da Lei nº 8.844, de 20 de janeiro de 1994 (Lei nº 9.467, de 10 de julho de 1997) | 1 | 1997-07-11 to 1997-07-11 |
+| `lei-9468-de-1997` | Institui o Programa de Desligamento Voluntário de servidores civis do Poder Executivo Federal e dá outras providências (Lei nº 9.468, de 10 de julho de 1997) | 1 | 1997-07-11 to 1997-07-11 |
+| `lei-9470-de-1997` | Acrescenta § 5° ao art. 4° da Lei n° 8.884, de 11 de junho de 1994, e dá outras providências (Lei nº 9.470, de 10 de julho de 1997) | 1 | 1997-07-11 to 1997-07-11 |
+| `lei-9471-de-1997` | Acrescenta inciso ao art. 473 da Consolidação das Leis do Trabalho - CLT (Lei nº 9.471, de 14 de julho de 1997) | 1 | 1997-07-15 to 1997-07-15 |
+| `lei-9475-de-1997` | Dá nova redação ao art. 33 da Lei n° 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional (Lei nº 9.475, de 22 de julho de 1997) | 1 | 1997-07-23 to 1997-07-23 |
+| `lei-9476-de-1997` | Altera dispositivos da Lei nº 8.212, de 24 de julho de 1991, que dispõe sobre a organização da Seguridade Social, institui o Plano de Custeio e dá outras providências (Lei nº 9.476, de 23 de julho de 1997) | 1 | 1994-04-16 to 1994-04-16 |
+| `lei-9480-de-1997` | Excepciona o contrato celebrado entre o Banco Nacional de Desenvolvimento Econômico e Social e a Companhia Docas do Rio de Janeiro de exigências fixadas em lei, ou ato dela decorrente (Lei nº 9.480, de 13 de agosto de 1997) | 1 | 1997-08-14 to 1997-08-14 |
+| `lei-9482-de-1997` | Dispõe sobre a administração do Instituto de Resseguros do Brasil - IRB, sobre a transferência e a transformação de suas ações, e dá outras providências (Lei nº 9.482, de 13 de agosto de 1997) | 1 | 1997-08-14 to 1997-08-14 |
+| `lei-9483-de-1997` | Autoriza o Presidente da República a proceder à restituição dos bens de que trata o Decreto nº 65.157, de 15 de setembro de 1969, e dá outras providências (Lei nº 9.483, de 25 de agosto de 1997) | 1 | 1997-08-26 to 1997-08-26 |
+| `lei-9484-de-1997` | Dispõe sobre a transferência da Escola de Enfermagem de Manaus, unidade organizacional descentralizada da Fundação Nacional de Saúde, para a Fundação Universidade do Amazonas, e dá outras providências (Lei nº 9.484, de 27 de agosto de 1997) | 1 | 1997-08-28 to 1997-08-28 |
+| `lei-9497-de-1997` | Dispõe sobre a implantação e a gestão do Parque Histórico Nacional dos Guararapes (Lei nº 9.497, de 11 de setembro de 1997) | 1 | 2019-04-10 to 2019-04-10 |
+| `lei-9505-de-1997` | Acrescenta parágrafo ao art. 2º do Decreto-lei nº 2.236, de 23 de janeiro de 1985, que altera a tabela de emolumentos e taxas aprovada pelo art. 131 de Lei nº 6.815, de 19 de agosto de 1980 (Lei nº 9.505, de 15 de outubro de 1997) | 1 | 1997-10-16 to 1997-10-16 |
+| `lei-9506-de-1997` | Extingue o Instituto de Previdência dos Congressistas - IPC, e dá outras providências (Lei nº 9.506, de 30 de outubro de 1997) | 1 | 1997-10-31 to 1997-10-31 |
+| `lei-9513-de-1997` | Amplia os limites do Parque Nacional do Superagui, criado pelo Decreto nº 97.688, de 25 de abril de 1989 (Lei nº 9.513, de 20 de novembro de 1997) | 1 | 1997-11-21 to 1997-11-21 |
+| `lei-9515-de-1997` | Dispõe sobre a admissão de professores, técnicos e cientistas estrangeiros pelas universidades e pelas instituições de pesquisa científica e tecnológica federais (Lei nº 9.515, de 20 de novembro de 1997) | 1 | 1997-11-21 to 1997-11-21 |
+| `lei-9519-de-1997` | Dispõe sobre a reestruturação dos Corpos e Quadros de Oficiais e de Praças da Marinha (Lei nº 9.519, de 26 de novembro de 1997) | 1 | 2017-12-19 to 2017-12-19 |
+| `lei-9520-de-1997` | Revoga dispositivos do Decreto-lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, referentes ao exercício do direito de queixa pela mulher (Lei nº 9.520, de 27 de novembro de 1997) | 1 | 1997-11-28 to 1997-11-28 |
+| `lei-9521-de-1997` | Revoga o art. 27 do Decreto-lei nº 3.688, de 3 de outubro de 1941 - Lei das Contravenções Penais (Lei nº 9.521, de 27 de novembro de 1997) | 1 | 1997-11-28 to 1997-11-28 |
+| `lei-9525-de-1997` | Dispõe sobre as férias dos servidores públicos civis da União, das autarquias e das fundações públicas federais, e dá outras providências (Lei nº 9.525, de 2 de dezembro de 1997) | 1 | 2001-09-05 to 2001-09-05 |
+| `lei-9526-de-1997` | Dispõe sobre recursos não reclamados correspondentes às contas de depósitos não recadastrados, e dá outras providências (Lei nº 9.526, de 8 de dezembro de 1997) | 1 | 1999-08-24 to 1999-08-24 |
+| `lei-9533-de-1997` | Autoriza o Poder Executivo a conceder apoio financeiro aos Municípios que instituírem programas de garantia de renda mínima associados a ações socioeducativas (Lei nº 9.533, de 10 de dezembro de 1997) | 1 | 2001-08-25 to 2001-08-25 |
+| `lei-9557-de-1997` | Acrescenta incisos ao § 1º do art. 1º da Lei nº 8.691, de 28 de julho de 1993 (Lei nº 9.557, de 17 de dezembro de 1997) | 1 | 1997-12-18 to 1997-12-18 |
+| `lei-9558-de-1997` | Dispõe sobre a absorção, pela União, de obrigação do Departamento Nacional de Estradas de Rodagem - DNER (Lei nº 9.558, de 17 de dezembro de 1997) | 1 | 1997-12-18 to 1997-12-18 |
+| `lei-9578-de-1997` | Altera dispositivos da Lei nº 2.180, de 5 de fevereiro de 1954, que dispõe sobre o Tribunal Marítimo (Lei nº 9.578, de 19 de dezembro de 1997) | 1 | 1997-12-22 to 1997-12-22 |
+| `lei-9602-de-1998` | Dispõe sobre legislação de trânsito e dá outras providências (Lei nº 9.602, de 21 de janeiro de 1998) | 1 | 1998-03-08 to 1998-03-08 |
+| `lei-9606-de-1998` | Dispõe sobre a criação e extinção de cargos no Instituto Nacional de Metrologia, Normalização e Qualidade Industrial e no Instituto Nacional da Propriedade Industrial (Lei nº 9.606, de 16 de fevereiro de 1998) | 1 | 1998-02-17 to 1998-02-17 |
+| `lei-9607-de-1998` | Cria, transforma e extingue cargos e funções no Quadro de Pessoal da Secretaria do Supremo Tribunal Federal, e dá outras providências (Lei nº 9.607, de 18 de fevereiro de 1998) | 1 | 1998-02-19 to 1998-02-19 |
+| `lei-9614-de-1998` | Altera a Lei nº 7.565, de 19 de dezembro de 1986, para incluir hipótese destruição de aeronave (Lei nº 9.614, de 5 de março de 1998) | 1 | 1998-03-06 to 1998-03-06 |
+| `lei-9617-de-1998` | Extingue a Companhia de Navegação Lloyd Brasileiros - LLOYDBRAS e dá outras providências (Lei nº 9.617, de 2 de abril de 1998) | 1 | 1998-04-03 to 1998-04-03 |
+| `lei-9618-de-1998` | Dispõe sobre a extinção dos órgãos que menciona e dá outras providências (Lei nº 9.618, de 2 de abril de 1998) | 1 | 1998-04-03 to 1998-04-03 |
+| `lei-9626-de-1998` | Dispõe e sobre a inclusão no rito processual da Lei nº 8.029, de 12 de abril de 1990, das liquidações do Banco de Roraima S.A. - BANRORAIMA e da Companhia Usinas Nacionais - CUN, e dá outras providências (Lei nº 9.626, de 8 de abril de 1998) | 1 | 1998-04-09 to 1998-04-09 |
+| `lei-9627-de-1998` | Altera dispositivos da Lei nº 9.473, de 22 de julho de 1997, que dispõe sobre as diretrizes para a elaboração da lei orçamentária de 1998 e dá outras providências (Lei nº 9.627, de 13 de abril de 1998) | 1 | 1998-04-14 to 1998-04-14 |
+| `lei-9628-de-1998` | Dispõe sobre a criação da Escola Superior do Ministério Público da União e dá outras providências (Lei nº 9.628, de 14 de abril de 1998) | 1 | 2014-09-25 to 2014-09-25 |
+| `lei-9629-de-1998` | Transforma cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS na Secretaria do Tribunal Superior Eleitoral (Lei nº 9.629, de 22 de abril de 1998) | 1 | 1998-04-23 to 1998-04-23 |
+| `lei-9631-de-1998` | Transforma cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS - Secretaria do Tribunal Superior Eleitoral (Lei nº 9.631, de 28 de abril de 1998) | 1 | 1998-04-29 to 1998-04-29 |
+| `lei-9632-de-1998` | Dispõe sobre a extinção de cargos no âmbito da Administração Pública Federal direta, autárquica e fundacional, e dá outras providências (Lei nº 9.632, de 7 de maio de 1998) | 1 | 1998-05-08 to 1998-05-08 |
+| `lei-9635-de-1998` | Altera procedimentos relativos ao Programa Nacional de Desestatização de que trata a Lei n o 9.491, de 9 de setembro de 1997, e dá outras providências (Lei nº 9.635, de 15 de maio de 1998) | 1 | 1997-09-10 to 1997-09-10 |
+| `lei-9640-de-1998` | Dispõe sobre o número de Cargos de Direção e Funções Gratificadas das Instituições Federais de Ensino Superior, dos Centros Federais de Educação Tecnológica, das Escolas Agrotécnicas Federais, das Escolas Técnicas... (Lei nº 9.640, de 25 de maio de 1998) | 1 | 1998-05-26 to 1998-05-26 |
+| `lei-9642-de-1998` | Dispõe sobre a reestruturação da Justiça Federal de Primeiro Grau da 1ª Região, e dá outras providências (Lei nº 9.642, de 25 de maio de 1998) | 1 | 1998-05-26 to 1998-05-26 |
+| `lei-9643-de-1998` | Isenta do Imposto de Importação e do Imposto sobre Produtos Industrializados partes e peças destinadas industrialização de bens de informática a serem adquiridos pelo Tribunal Superior Eleitoral - TSE (Lei nº 9.643, de 26 de maio de 1998) | 1 | 1998-05-27 to 1998-05-27 |
+| `lei-9644-de-1998` | Autoriza a utilização de recursos do Fundo da Marinha Mercante - FMM, em favor da Companhia de Navegação Lloyd Brasileiro - LLOYDBRAS, e dá outras providências (Lei nº 9.644, de 26 de maio de 1998) | 1 | 1998-05-27 to 1998-05-27 |
+| `lei-9650-de-1998` | Dispõe sobre o Plano de Carreira dos servidores do Banco Central do Brasil e dá outras providências (Lei nº 9.650, de 27 de maio de 1998) | 1 | 2025-06-03 to 2025-06-03 |
+| `lei-9651-de-1998` | Institui as Gratificações de Desempenho de Função Essencial à Justiça - GFJ, de Atividade de Informações Estratégicas - GDI, de Atividade Fundiária - GAF e Provisória - GP, e dá outras providências (Lei nº 9.651, de 27 de maio de 1998) | 1 | 2008-09-18 to 2008-09-18 |
+| `lei-9658-de-1998` | Dá nova redação ao art. 11 da Consolidação das Leis do Trabalho e determina outras providências (Lei nº 9.658, de 5 de junho de 1998) | 1 | 1998-06-08 to 1998-06-08 |
+| `lei-9659-de-1998` | Dispõe sobre a criação de cargos efetivos de Agente Penitenciário na Carreira Policial Civil do Distrito Federal e dá outras providências (Lei nº 9.659, de 9 de junho de 1998) | 1 | 1998-06-10 to 1998-06-10 |
+| `lei-9660-de-1998` | Dispõe sobre a substituição gradual da frota oficial de veículos e dá outras providências (Lei nº 9.660, de 16 de junho de 1998) | 1 | 2001-02-14 to 2001-02-14 |
+| `lei-9664-de-1998` | Dispõe sobre a reestruturação da Justiça Federal de Primeiro Grau da 4 a Região e dá outras providências (Lei nº 9.664, de 19 de junho de 1998) | 1 | 1998-06-22 to 1998-06-22 |
+| `lei-9665-de-1998` | Autoriza o Poder Executivo a conceder remissão parcial de créditos externos, em consonância com parâmetros estabelecidos nas Atas de Entendimentos originárias do chamado "Clube de Paris" ou em Memorandos de... (Lei nº 9.665, de 19 de junho de 1998) | 1 | 1998-06-22 to 1998-06-22 |
+| `lei-9668-de-1998` | Altera os arts. 17 e 18 da Lei n o 5.869, de 11 de janeiro de 1973, que institui o Código de Processo Civil (Lei nº 9.668, de 23 de junho de 1998) | 1 | 1998-06-24 to 1998-06-24 |
+| `lei-9674-de-1998` | Dispõe sobre o exercício da profissão de Bibliotecário e determina outras providências. Mensagem de Veto (Lei nº 9.674, de 25 de junho de 1998) | 1 | 1998-06-26 to 1998-06-26 |
+| `lei-9675-de-1998` | Amplia, para o estrangeiro em situação ilegal no território nacional, o prazo para requerer registro provisório (Lei nº 9.675, de 29 de junho de 1998) | 1 | 1998-06-30 to 1998-06-30 |
+| `lei-9676-de-1998` | Dispõe sobre a periodicidade de recolhimento das contribuições previdenciárias arrecadadas pelo Instituto Nacional do Seguro Social – INSS (Lei nº 9.676, de 30 de junho de 1998) | 1 | 1997-12-11 to 1997-12-11 |
+| `lei-9688-de-1998` | Dispõe sobre a extinção dos cargos de Censor Federal e sobre o enquadramento de seus atuais ocupantes e dá outras providências (Lei nº 9.688, de 6 de julho de 1998) | 1 | 1998-07-07 to 1998-07-07 |
+| `lei-9689-de-1998` | Concede anistia de multas cominadas pelo Tribunal Superior do Trabalho a entidades sindicais representativas dos empregados da Empresa Petróleo Brasileiro S/A – PETROBRÁS, no período em que menciona (Lei nº 9.689, de 14 de julho de 1998) | 1 | 1998-08-29 to 1998-08-29 |
+| `lei-9690-de-1998` | Dispõe sobre a inclusão do Vale do Jequitinhonha do Estado de Minas Gerais e de Municípios da região norte do Estado do Espírito Santo na área de atuação da Superintendência do Desenvolvimento do Nordeste-SUDENE (Lei nº 9.690, de 15 de julho de 1998) | 1 | 1998-07-16 to 1998-07-16 |
+| `lei-9691-de-1998` | Altera a Tabela de Valores da Taxa de Fiscalização da Instalação por Estação, objeto do ANEXO III da Lei n o 9.472, de 16 de julho de 1997, que dispõe sobre a organização dos serviços de telecomunicações, a criação e... (Lei nº 9.691, de 22 de julho de 1998) | 1 | 1998-07-23 to 1998-07-23 |
+| `lei-9694-de-1998` | Autoriza a promoção post mortem do Procurador da República Pedro Jorge de Melo e Silva (Lei nº 9.694, de 10 de agosto de 1998) | 1 | 1998-08-11 to 1998-08-11 |
+| `lei-9696-de-1998` | Dispõe sobre a regulamentação da Profissão de Educação Física e cria os respectivos Conselho Federal e Conselhos Regionais de Educação Física (Lei nº 9.696, de 1º de setembro de 1998) | 1 | 2022-06-28 to 2022-06-28 |
+| `lei-9697-de-1998` | Cria Juntas de Conciliação e Julgamento na 2ª Região da Justiça do Trabalho, define jurisdição e dá outras providências (Lei nº 9.697, de 2 de setembro de 1998) | 1 | 1998-09-03 to 1998-09-03 |
+| `lei-9698-de-1998` | Dispõe sobre a criação de Juntas de Conciliação e Julgamento na 15ª Região da Justiça do Trabalho, define jurisdições e dá outras providências (Lei nº 9.698, de 2 de setembro de 1998) | 1 | 1998-09-03 to 1998-09-03 |
+| `lei-9699-de-1998` | Altera a Lei n o 8.185, de 14 de maio de 1991, alterada pela Lei n o 8.407, de 10 de janeiro de 1992, que dispõe sobre a Organização Judiciária do Distrito Federal e Territórios e cria os Juizados Especiais Cíveis e... (Lei nº 9.699, de 8 de setembro de 1998) | 1 | 1998-09-09 to 1998-09-09 |
+| `lei-9700-de-1998` | Modifica dispositivo da Lei n o 9.491, de 9 de setembro de 1997, que "altera procedimentos relativos ao Programa Nacional de Desestatização, revoga a Lei n o 8.031, de 12 de abril de 1990, e dá outras providências" (Lei nº 9.700, de 12 de novembro de 1998) | 1 | 1998-11-13 to 1998-11-13 |
+| `lei-9701-de-1998` | Dispõe sobre a base de cálculo da Contribuição para o Programa de Integração Social - PIS devida pelas pessoas jurídicas a que se refere o § 1 o do art. 22 da Lei n o 8.212, de 24 de julho de 1991, e dá outras... (Lei nº 9.701, de 17 de novembro de 1998) | 1 | 2001-08-27 to 2001-08-27 |
+| `lei-9702-de-1998` | Dispõe sobre critérios especiais para alienação de imóveis de propriedade do Instituto Nacional do Seguro Social - INSS e dá outras providências (Lei nº 9.702, de 17 de novembro de 1998) | 1 | 2020-06-12 to 2020-06-12 |
+| `lei-9704-de-1998` | Institui normas relativas ao exercício, pelo Advogado-Geral da União, de orientação normativa e de supervisão técnica sobre os órgãos jurídicos das autarquias federais e das fundações instituídas e mantidas pela União (Lei nº 9.704, de 17 de novembro de 1998) | 1 | 2001-08-27 to 2001-08-27 |
+| `lei-9711-de-1998` | Dispõe sobre a recuperação de haveres do Tesouro Nacional e do Instituto Nacional do Seguro Social - INSS, a utilização de Títulos da Dívida Pública, de responsabilidade do Tesouro Nacional, na quitação de débitos... (Lei nº 9.711, de 20 de novembro de 1998) | 1 | 2010-12-16 to 2010-12-16 |
+| `lei-9712-de-1998` | Altera a Lei n o 8.171, de 17 de janeiro de 1991, acrescentando-lhe dispositivos referentes à defesa agropecuária (Lei nº 9.712, de 20 de novembro de 1998) | 1 | 1998-11-23 to 1998-11-23 |
+| `lei-9713-de-1998` | Altera dispositivo da Lei n o 6.450, de 14 de outubro de 1977, e dá outras providências (Lei nº 9.713, de 25 de novembro de 1998) | 1 | 2023-11-14 to 2023-11-14 |
+| `lei-9714-de-1998` | Altera dispositivos do Decreto-Lei n o 2.848, de 7 de dezembro de 1940 - Código Penal. Mensagem de Veto (Lei nº 9.714, de 25 de novembro de 1998) | 1 | 1998-11-26 to 1998-11-26 |
+| `lei-9724-de-1998` | Dispõe sobre a autonomia de gestão das Organizações Militares Prestadoras de Serviços da Marinha e dá outras providências (Lei nº 9.724, de 1º de dezembro de 1998) | 1 | 1998-12-02 to 1998-12-02 |
+| `lei-9745-de-1998` | Institui o Programa Emergencial de Frentes Produtivas e dá outras providências (Lei nº 9.745, de 15 de dezembro de 1998) | 1 | 1991-12-31 to 1991-12-31 |
+| `lei-9764-de-1998` | Altera a redação do art. 190 do Decreto-Lei n o 1.001, de 21 de outubro de 1969 - Código Penal Militar (Lei nº 9.764, de 17 de dezembro de 1998) | 1 | 1998-12-18 to 1998-12-18 |
+| `lei-9765-de-1998` | Institui taxa de licenciamento, controle e fiscalização de materiais nucleares e radioativos e suas instalações (Lei nº 9.765, de 17 de dezembro de 1998) | 1 | 2021-05-17 to 2021-05-17 |
+| `lei-9774-de-1998` | Altera a Lei n o 7.652, de 3 de fevereiro de 1988, que dispõe sobre o Registro da Propriedade Marítima (Lei nº 9.774, de 21 de dezembro de 1998) | 1 | 1998-12-22 to 1998-12-22 |
+| `lei-9775-de-1998` | Altera dispositivos da Lei n o 9.620, de 2 de abril de 1998, e dá outras providências (Lei nº 9.775, de 21 de dezembro de 1998) | 1 | 1998-12-22 to 1998-12-22 |
+| `lei-9777-de-1998` | Altera os arts. 132, 203 e 207 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal (Lei nº 9.777, de 29 de dezembro de 1998) | 1 | 1998-12-30 to 1998-12-30 |
+| `lei-9786-de-1999` | Dispõe sobre o Ensino no Exército Brasileiro e dá outras providências (Lei nº 9.786, de 8 de fevereiro de 1999) | 1 | 1999-02-09 to 1999-02-09 |
+| `lei-9787-de-1999` | Altera a Lei nº 6.360, de 23 de setembro de 1976, que dispõe sobre a vigilância sanitária, estabelece o medicamento genérico, dispõe sobre a utilização de nomes genéricos em produtos farmacêuticos e dá outras... (Lei nº 9.787, de 10 de fevereiro de 1999) | 1 | 2001-08-24 to 2001-08-24 |
+| `lei-9788-de-1999` | Dispõe sobre a reestruturação da Justiça Federal de Primeiro Grau nas cinco Regiões, com a criação de Varas Federais e dá outras providências (Lei nº 9.788, de 19 de fevereiro de 1999) | 1 | 1999-02-22 to 1999-02-22 |
+| `lei-9791-de-1999` | Dispõe sobre a obrigatoriedade de as concessionárias de serviços públicos estabelecerem ao consumidor e ao usuário datas opcionais para o vencimento de seus débitos. Mensagem de Veto (Lei nº 9.791, de 24 de março de 1999) | 1 | 1999-05-09 to 1999-05-09 |
+| `lei-9792-de-1999` | Revoga o art. 112 da Lei nº 9.503, de 23 de setembro de 1997 – Código de Trânsito Brasileiro (Lei nº 9.792, de 14 de abril de 1999) | 1 | 1999-04-15 to 1999-04-15 |
+| `lei-9794-de-1999` | Altera o nome do Aeroporto Internacional de Brasília (Lei nº 9.794, de 20 de abril de 1999) | 1 | 1999-04-22 to 1999-04-22 |
+| `lei-9797-de-1999` | Dispõe sobre a obrigatoriedade da cirurgia plástica reparadora da mama pela rede de unidades integrantes do Sistema Único de Saúde - SUS nos casos de mutilação decorrentes de tratamento de câncer (Lei nº 9.797, de 6 de maio de 1999) | 1 | 2025-11-24 to 2025-11-24 |
+| `lei-9798-de-1999` | Altera a Lei nº 7.674, de 4 de outubro de 1988, que autoriza o Instituto de Administração Financeira da Previdência e Assistência Social-Iapas a doar à Academia Nacional de Medicina imóveis destinados à instalação de... (Lei nº 9.798, de 18 de maio de 1999) | 1 | 1999-05-19 to 1999-05-19 |
+| `lei-9799-de-1999` | Insere na Consolidação das Leis do Trabalho regras sobre o acesso da mulher ao mercado de trabalho e dá outras providências. Mensagem de Veto (Lei nº 9.799, de 26 de maio de 1999) | 1 | 1999-05-27 to 1999-05-27 |
+| `lei-9800-de-1999` | Permite às partes a utilização de sistema de transmissão de dados para a prática de atos processuais (Lei nº 9.800, de 26 de maio de 1999) | 1 | 2024-03-29 to 2024-03-29 |
+| `lei-9801-de-1999` | Dispõe sobre as normas gerais para perda de cargo público por excesso de despesa e dá outras providências (Lei nº 9.801, de 14 de junho de 1999) | 1 | 1999-07-30 to 1999-07-30 |
+| `lei-9804-de-1999` | Altera a redação do art. 34 da Lei nº 6.368, de 21 de outubro de 1976, que dispõe sobre medidas de prevenção e repressão ao tráfico ilícito e uso indevido de substâncias entorpecentes ou que determinem dependência... (Lei nº 9.804, de 30 de junho de 1999) | 1 | 1999-07-02 to 1999-07-02 |
+| `lei-9808-de-1999` | Define diretrizes e incentivos fiscais para o desenvolvimento regional e dá outras providências. Mensagem de Veto (Lei nº 9.808, de 20 de julho de 1999) | 1 | 2011-06-27 to 2011-06-27 |
+| `lei-9812-de-1999` | Acrescenta parágrafos ao art. 30 da Lei nº 6.015, de 31 de dezembro de 1973, com a redação dada pela Lei nº 9.534, de 10 de dezembro de 1997, e inciso VI ao art. 39 da Lei nº 8.935, de 18 de novembro de 1994 (Lei nº 9.812, de 10 de agosto de 1999) | 1 | 1998-03-11 to 1998-03-11 |
+| `lei-9814-de-1999` | Acresce dispositivo às Leis nº 9.526, de 8 de dezembro de 1997, e 9.496, de 11 de setembro de 1997 (Lei nº 9.814, de 23 de agosto de 1999) | 1 | 1999-08-24 to 1999-08-24 |
+| `lei-9816-de-1999` | Estabelece normas para registro do resultado líquido negativo decorrente do ajuste dos valores em reais de obrigações e créditos, e dá outras providências (Lei nº 9.816, de 23 de agosto de 1999) | 1 | 1999-08-24 to 1999-08-24 |
+| `lei-9819-de-1999` | Acrescenta os §§ 1º e 2º ao art. 17 da Lei nº 8.029, de 12 de abril de 1990, renumerado para art. 20, nos termos da Lei nº 8.154, de 28 de dezembro de 1990 (Lei nº 9.819, de 23 de agosto de 1999) | 1 | 1999-08-24 to 1999-08-24 |
+| `lei-9821-de-1999` | Altera dispositivos das Leis nº 5.972, de 11 de dezembro de 1973, e 9.636, de 15 de maio de 1998, e dá outras providências (Lei nº 9.821, de 23 de agosto de 1999) | 1 | 1999-08-24 to 1999-08-24 |
+| `lei-9822-de-1999` | Altera dispositivos do Decreto-Lei nº 1.593, de 21 de dezembro de 1977, e dá outras providências (Lei nº 9.822, de 23 de agosto de 1999) | 1 | 1999-08-24 to 1999-08-24 |
+| `lei-9827-de-1999` | Acrescenta parágrafo único ao art. 2º do Decreto-Lei nº 227, de 28 de fevereiro de 1967, com a redação dada pela Lei nº 9.314, de 14 de novembro de 1996 (Lei nº 9.827, de 27 de agosto de 1999) | 1 | 1996-11-18 to 1996-11-18 |
+| `lei-9829-de-1999` | Altera a redação do inciso III do art. 12 da Lei nº 8.934, de 18 de novembro de 1994, que dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins e dá outras providências. Mensagem de Veto (Lei nº 9.829, de 2 de setembro de 1999) | 1 | 1999-10-18 to 1999-10-18 |
+| `lei-9830-de-1999` | Altera a Lei nº 5.917, de 10 de setembro de 1973, para incluir a ligação rodoviária Bragança (PA) - Itaúna (MA) na Relação Descritiva das Rodovias do Sistema Rodoviário Federal (Lei nº 9.830, de 2 de setembro de 1999) | 1 | 1999-09-03 to 1999-09-03 |
+| `lei-9831-de-1999` | Estabelece, em todo o País, a data de 1º de junho de cada ano para as comemorações do Dia da Imprensa (Lei nº 9.831, de 13 de setembro de 1999) | 1 | 1999-09-14 to 1999-09-14 |
+| `lei-9832-de-1999` | Proíbe o uso industrial de embalagens metálicas soldadas com liga de chumbo e estanho para acondicionamento de gêneros alimentícios, exceto para produtos secos ou desidratados (Lei nº 9.832, de 14 de setembro de 1999) | 1 | 1999-09-15 to 1999-09-15 |
+| `lei-9836-de-1999` | Acrescenta dispositivos à Lei nº 8.080, de 19 de setembro de 1990, que "dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá... (Lei nº 9.836, de 23 de setembro de 1999) | 1 | 1999-09-24 to 1999-09-24 |
+| `lei-9837-de-1999` | Dá nova redação a dispositivo da Lei nº 2.929, de 27 de outubro de 1956, que disciplina o processo de alteração ou retificação de idade dos oficiais das Forças Armadas e dá outras providências (Lei nº 9.837, de 23 de setembro de 1999) | 1 | 1999-09-24 to 1999-09-24 |
+| `lei-9839-de-1999` | Acrescenta artigo à Lei nº 9.099, de 26 de setembro de 1995 (Lei nº 9.839, de 27 de setembro de 1999) | 1 | 1999-09-28 to 1999-09-28 |
+| `lei-9840-de-1999` | Altera dispositivos da Lei nº 9.504, de 30 de setembro de 1997, e da Lei nº 4.737, de 15 de julho de 1965 – Código Eleitoral (Lei nº 9.840, de 28 de setembro de 1999) | 1 | 1999-09-29 to 1999-09-29 |
+| `lei-9842-de-1999` | Revoga os arts. 723, 724 e 725 do Decreto-Lei nº 5.452, de 1º de maio de 1943, que aprova a Consolidação das Leis do Trabalho (Lei nº 9.842, de 7 de outubro de 1999) | 1 | 1999-10-08 to 1999-10-08 |
+| `lei-9845-de-1999` | Altera dispositivos da Lei nº 8.432, de 11 de junho de 1992, determina a transferência de Sede de Junta de Conciliação e Julgamento, define jurisdição e dá outras providências (Lei nº 9.845, de 20 de outubro de 1999) | 1 | 1999-10-21 to 1999-10-21 |
+| `lei-9846-de-1999` | Estabelece critérios para a concessão de empréstimo, pela União, aos Estados e ao Distrito Federal, destinado ao ressarcimento parcial das perdas decorrentes da aplicação da Lei nº 9.424, de 24 de dezembro de 1996 (Lei nº 9.846, de 26 de outubro de 1999) | 1 | 1999-10-27 to 1999-10-27 |
+| `lei-9848-de-1999` | Altera dispositivos das Leis nº 9.138, de 29 de novembro de 1995, 8.427, de 27 de maio de 1992, e 9.126, de 10 de novembro de 1995, que dispõem, respectivamente, sobre o crédito rural (Lei nº 9.848, de 26 de outubro de 1999) | 1 | 2001-08-27 to 2001-08-27 |
+| `lei-9849-de-1999` | Altera os arts. 2º , 3º , 4º , 5º , 6º , 7º e 9º da Lei nº 8.745, de 9 de dezembro de 1993, que dispõe sobre a contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público,... (Lei nº 9.849, de 26 de outubro de 1999) | 1 | 1999-10-27 to 1999-10-27 |
+| `lei-9850-de-1999` | Dispõe sobre o número de cargos de Natureza Especial, de cargos do Grupo-Direção e Assessoramento Superiores e de Funções de Confiança existentes nos órgãos da Administração Pública Federal direta, autárquica e... (Lei nº 9.850, de 26 de outubro de 1999) | 1 | 1999-10-27 to 1999-10-27 |
+| `lei-9851-de-1999` | Dá nova redação ao § 1º do art. 651 da Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452 (Lei nº 9.851, de 27 de outubro de 1999) | 1 | 1999-10-28 to 1999-10-28 |
+| `lei-9852-de-1999` | Altera a Lei nº 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, de modo a incluir na Relação Descritiva dos Portos Marítimos, Fluviais e Lacustres do Sistema Portuário Nacional os portos que... (Lei nº 9.852, de 27 de outubro de 1999) | 1 | 1999-10-28 to 1999-10-28 |
+| `lei-9853-de-1999` | Acrescenta inciso ao art. 473 da Consolidação das Leis do Trabalho, permitindo ao empregado faltar ao serviço, na hipótese que especifica (Lei nº 9.853, de 27 de outubro de 1999) | 1 | 1999-10-28 to 1999-10-28 |
+| `lei-9866-de-1999` | Dispõe sobre o alongamento de dívidas originárias de crédito rural, de que trata a Lei nº 9.138, de 29 de novembro de 1995, e de dívidas para com o Fundo de Defesa da Economia Cafeeira - Funcafé, instituído pelo... (Lei nº 9.866, de 9 de novembro de 1999) | 1 | 2001-02-14 to 2001-02-14 |
+| `lei-9874-de-1999` | Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências (Lei nº 9.874, de 23 de novembro de 1999) | 1 | 1999-11-24 to 1999-11-24 |
+| `lei-9883-de-1999` | Institui o Sistema Brasileiro de Inteligência, cria a Agência Brasileira de Inteligência - ABIN, e dá outras providências (Lei nº 9.883, de 7 de dezembro de 1999) | 1 | 2001-09-01 to 2001-09-01 |
+| `lei-9896-de-1999` | Institui o Programa Emergencial de Combate aos Efeitos da Seca, autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor da Presidência da República, crédito extraordinário no valor de... (Lei nº 9.896, de 14 de dezembro de 1999) | 1 | 1999-12-15 to 1999-12-15 |
+| `lei-9911-de-1999` | Altera o nome do Aeroporto Campo dos Palmares no Estado de Alagoas (Lei nº 9.911, de 15 de dezembro de 1999) | 1 | 1999-12-16 to 1999-12-16 |
+| `lei-9933-de-1999` | Dispõe sobre as competências do Conmetro e do Inmetro, institui a Taxa de Serviços Metrológicos, e dá outras providências (Lei nº 9.933, de 20 de dezembro de 1999) | 1 | 2011-12-15 to 2011-12-15 |
+| `lei-9934-de-1999` | Altera a Lei nº 6.015, de 31 de dezembro de 1973, para acrescentar dispositivos sobre a redução de despesas cartorárias com as escrituras públicas e os registros imobiliários para a aquisição de imóvel construído... (Lei nº 9.934, de 20 de dezembro de 1999) | 1 | 1999-12-21 to 1999-12-21 |
+| `lei-9954-de-2000` | Autoriza o Poder Executivo a alterar a razão social da Companhia de Desenvolvimento do Vale do São Francisco – Codevasf, nos termos que especifica e dá outras providências (Lei nº 9.954, de 6 de janeiro de 2000) | 1 | 2000-01-07 to 2000-01-07 |
+| `lei-9955-de-2000` | Acrescenta parágrafo único ao art. 4 o da Lei n o 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos e dá outras providências (Lei nº 9.955, de 6 de janeiro de 2000) | 1 | 2000-01-07 to 2000-01-07 |
+| `lei-9956-de-2000` | Proíbe o funcionamento de bombas de auto-serviço nos postos de abastecimento de combustíveis e dá outras providências (Lei nº 9.956, de 12 de janeiro de 2000) | 1 | 2000-01-13 to 2000-01-13 |
+| `lei-9962-de-2000` | Disciplina o regime de emprego público do pessoal da Administração federal direta, autárquica e fundacional, e dá outras providências. Mensagem de Veto (Lei nº 9.962, de 22 de fevereiro de 2000) | 1 | 2000-02-23 to 2000-02-23 |
+| `lei-9965-de-2000` | Restringe a venda de esteróides ou peptídeos anabolizantes e dá outras providências (Lei nº 9.965, de 27 de abril de 2000) | 1 | 2000-04-28 to 2000-04-28 |
+| `lei-9972-de-2000` | Institui a classificação de produtos vegetais, subprodutos e resíduos de valor econômico, e dá outras providências. Mensagem de Veto (Lei nº 9.972, de 25 de maio de 2000) | 1 | 2022-12-30 to 2022-12-30 |
+| `lei-9975-de-2000` | Acrescenta artigo à Lei n o 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente (Lei nº 9.975, de 23 de junho de 2000) | 1 | 2000-06-26 to 2000-06-26 |
+| `lei-9976-de-2000` | Dispõe sobre a produção de cloro e dá outras providências (Lei nº 9.976, de 3 de julho de 2000) | 1 | 2000-07-04 to 2000-07-04 |
+| `lei-9981-de-2000` | Altera dispositivos da Lei n o 9.615, de 24 de março de 1998, e dá outras providências. Mensagem de Veto (Lei nº 9.981, de 14 de julho de 2000) | 1 | 2000-07-17 to 2000-07-17 |
+| `lei-9982-de-2000` | Dispõe sobre a prestação de assistência religiosa nas entidades hospitalares públicas e privadas, bem como nos estabelecimentos prisionais civis e militares. Mensagem de Veto (Lei nº 9.982, de 14 de julho de 2000) | 1 | 2000-07-17 to 2000-07-17 |
+| `lei-9987-de-2000` | Dispõe sobre a transformação de funções comissionadas do Tribunal de Justiça do Distrito Federal e Territórios, para adequação das atividades administrativas e judiciárias (Lei nº 9.987, de 19 de julho de 2000) | 1 | 2000-07-20 to 2000-07-20 |
+| `lei-9988-de-2000` | Dispõe sobre a transferência de títulos da dívida pública da União para os Estados, e dá outras providências. Mensagem de Veto (Lei nº 9.988, de 19 de julho de 2000) | 1 | 2000-07-20 to 2000-07-20 |
+| `lei-9989-de-2000` | Dispõe sobre o Plano Plurianual para o período de 2000/2003. Mensagem de Veto (Lei nº 9.989, de 21 de julho de 2000) | 1 | 2001-10-29 to 2001-10-29 |
+| `lei-9992-de-2000` | Altera a destinação de receitas próprias decorrentes de contratos firmados pelo Departamento Nacional de Estradas de Rodagem, visando o financiamento de programas e projetos de pesquisa científica e desenvolvimento... (Lei nº 9.992, de 24 de julho de 2000) | 1 | 2000-07-25 to 2000-07-25 |
+| `lei-9993-de-2000` | Destina recursos da compensação financeira pela utilização de recursos hídricos para fins de geração de energia elétrica e pela exploração de recursos minerais para o setor de ciência e tecnologia (Lei nº 9.993, de 24 de julho de 2000) | 1 | 2000-07-25 to 2000-07-25 |
+| `lei-9994-de-2000` | Institui o Programa de Desenvolvimento Científico e Tecnológico do Setor Espacial, e dá outras providências (Lei nº 9.994, de 24 de julho de 2000) | 1 | 2000-07-25 to 2000-07-25 |
+| `lei-9996-de-2000` | Dispõe sobre anistia de multas aplicadas pela Justiça Eleitoral em 1996 e 1998. Mensagem de Veto (Lei nº 9.996, de 14 de agosto de 2000) | 1 | 2000-08-15 to 2000-08-15 |
+| `lei-9997-de-2000` | Dá nova redação ao item 9 o do art. 54 da Lei n o 6.015, de 31 de dezembro de 1973, que dispõe sobre os Registros Públicos e dá outras providências (Lei nº 9.997, de 17 de agosto de 2000) | 1 | 2000-08-18 to 2000-08-18 |
 | `lei-de-concessoes` | Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995) | 12 | 1995-02-14 to 2021-04-01 |
 | `lei-das-parcerias-publico-privadas` | Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004) | 14 | 2004-12-31 to 2027-01-01 |
 | `lei-do-saneamento-basico` | Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007) | 15 | 2007-02-22 to 2025-03-18 |
@@ -3173,11 +3674,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-de-registros-publicos` | Lei de Registros Públicos (Lei nº 6.015, de 31 de dezembro de 1973) | 73 | 1976-01-01 to 2025-08-24 |
 | `lei-de-licitacoes-de-1993` | Lei de Licitações e Contratos (Lei nº 8.666, de 21 de junho de 1993) | 36 | 1993-06-22 to 2023-12-30 |
 
-The build made 5520 commits:
+The build made 6020 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2823 | first version of an act |
+| 3323 | first version of an act |
 | 2673 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -3185,7 +3686,7 @@ Other counts:
 - 10 commits on the branch `futuro`: laws not yet in force on 2026-11-03.
 - 219 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2711 laws in the record.
-- 9608 tags.
+- 10108 tags.
 
 ## Dates
 
@@ -3197,7 +3698,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e0f0a500359f6308c95e1f1551976006cb5f77b75fe042632badc4a056136721` (70074886 bytes).
+- Corpus: sha256 `26e74ece89326ba6cdf82377d3bfcd91f3b9d81f113db8f144b2cc57e107c797` (72663282 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -6106,6 +6607,510 @@ No second build of this corpus has been compared yet.
 - lei-12321-de-2010: from 2010-09-08, its own clause: in force on publication
 - lei-12322-de-2010: from 2010-12-09, its own clause: 90 days after its DOU day
 - lei-12323-de-2010: from 2010-09-16, its own clause: in force on publication
+- Part 98-current-006: 500 acts with their current text only, each one version, credited to Planalto as the oldest version available (first_law null). The text is the page as Planalto prints it now, with struck wordings and the notes beside them left out; headings are kept in the titulos unit as the history parts do.
+- Each version starts on the in-force day of the last change the text itself shows: the latest in-force day among the acts its notes name as changing it (Redação dada, Incluído, Revogado, Acrescido, Renumerado, Suprimido), each by the rule the history parts use: the act's own vigência clause, else LINDB art. 1 (publication + 45 days), and a Medida Provisória from its publication (CF art. 62). Where an act's clause was not read, its DOU day (from Planalto's index pages or the corpus's law records) is used and the act's line below names it. An act with no such note starts on its own in-force day by the same rule. Acts whose notes name decrees, rulings, Emendas, a staged in-force clause or the 2025-2026 tax reform (Leis Complementares 214/2025 and 227/2026) are left for their histories.
+- An act revoked as a whole (the revoking act named at the head of its page) has the text as last in force, then a second version that empties it, credited to the revoking act and dated by that act's in-force day by the same rule; its line below names it.
+- Earlier wordings are not shown here; their histories are built afterwards, appended behind these versions.
+- lei-complementar-103-de-2000: from 2000-07-17, its own clause: in force on publication
+- lei-complementar-104-de-2001: from 2001-01-11, its own clause: in force on publication
+- lei-complementar-106-de-2001: from 2001-03-26, its own clause: in force on publication
+- lei-complementar-111-de-2001: from 2001-07-09, its own clause: in force on publication
+- lei-complementar-112-de-2001: from 2001-09-20, its own clause: in force on publication
+- lei-complementar-113-de-2001: from 2001-09-20, its own clause: in force on publication
+- lei-complementar-114-de-2002: from 2002-12-17, its own clause: in force on publication
+- lei-complementar-117-de-2004: from 2004-09-03, its own clause: in force on publication
+- lei-complementar-88-de-1996: from 1996-12-24, its own clause: in force on publication
+- lei-complementar-89-de-1997: from 2026-07-31, the in-force day of Lei 15.480/2026, the latest among the acts its notes name (its DOU day 2026-07-31: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.369/2022 (DOU 2022-06-15), Lei 15.480/2026 (DOU 2026-07-31)
+- lei-complementar-90-de-1997: from 2015-01-13, the in-force day of Lei Complementar 149/2015, the latest among the acts its notes name (its DOU day 2015-01-13: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei Complementar 149/2015 (DOU 2015-01-13)
+- lei-complementar-91-de-1997: from 2023-06-28, the in-force day of Lei Complementar 198/2023, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2023-06-28)); in-force day not read, so its DOU day is used, for: Lei Complementar 106/2001 (DOU 2001-03-26), Lei Complementar 165/2019 (DOU 2019-01-04)
+- lei-complementar-94-de-1998: from 2018-06-15, the in-force day of Lei Complementar 163/2018, the latest among the acts its notes name (its DOU day 2018-06-15: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei Complementar 163/2018 (DOU 2018-06-15)
+- lei-complementar-98-de-1999: from 1999-12-06, its own clause: in force on publication
+- lei-complementar-99-de-1999: from 1999-12-21, its own clause: in force on publication
+- lei-10000-de-2000: from 2000-09-05, its own clause: in force on publication
+- lei-10001-de-2000: from 2000-09-05, its own clause: in force on publication
+- lei-10029-de-2000: from 2000-10-23, its own clause: in force on publication
+- lei-10030-de-2000: from 2000-10-23, its own clause: in force on publication
+- lei-10031-de-2000: from 2000-10-23, its own clause: in force on publication
+- lei-10032-de-2000: from 2000-10-24, its own clause: in force on publication
+- lei-10033-de-2000: from 2000-10-25, its own clause: in force on publication
+- lei-10035-de-2000: from 2000-10-26, its own clause: in force on publication
+- lei-10050-de-2000: from 2000-11-16, its own clause: in force on publication
+- lei-10052-de-2000: from 2001-12-20, the in-force day of Lei 10.332/2001, the latest among the acts its notes name (its DOU day 2001-12-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.332/2001 (DOU 2001-12-20)
+- lei-10053-de-2000: from 2000-11-29, its own clause: in force on publication
+- lei-10055-de-2000: from 2000-12-13, its own clause: in force on publication
+- lei-10099-de-2000: from 2000-12-20, its own clause: in force on publication
+- lei-10148-de-2000: from 2000-12-22, its own clause: in force on publication
+- lei-10149-de-2000: from 2000-12-22, its own clause: in force on publication
+- lei-10164-de-2000: from 2000-12-28, its own clause: in force on publication
+- lei-10166-de-2000: from 2000-12-28, its own clause: in force on publication
+- lei-10170-de-2000: from 2000-12-30, its own clause: in force on publication
+- lei-10172-de-2001: from 2009-12-02, the in-force day of Lei 12.102/2009, the latest among the acts its notes name (its DOU day 2009-12-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.102/2009 (DOU 2009-12-02)
+- lei-10174-de-2001: from 2001-01-10, its own clause: in force on publication
+- lei-10175-de-2001: from 2001-01-11, its own clause: in force on publication
+- lei-10178-de-2001: from 2001-01-15, its own clause: in force on publication
+- lei-10179-de-2001: from 2014-11-14, the in-force day of Lei 13.043/2014, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2014-11-14)); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.105/1984 (DOU 1984-01-25), Lei 11.803/2008 (DOU 2008-11-06)
+- lei-10181-de-2001: from 2001-02-14, its own clause: in force on publication
+- lei-10182-de-2001: from 2010-12-21, the in-force day of Lei 12.350/2010, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2010-12-21))
+- lei-10183-de-2001: from 2001-02-14, its own clause: in force on publication
+- lei-10184-de-2001: from 2026-03-25, the in-force day of Lei 15.359/2026, the latest among the acts its notes name (its DOU day 2026-03-25: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.499/2007 (DOU 2007-06-29), Lei 15.359/2026 (DOU 2026-03-25)
+- lei-10185-de-2001: from 2001-08-27, the in-force day of Medida Provisória 2.177-44/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-10186-de-2001: from 2008-09-18, the in-force day of Lei 11.775/2008, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2008-09-18))
+- lei-10187-de-2001: from 2002-01-10, the in-force day of Lei 10.405/2002, the latest among the acts its notes name (its DOU day 2002-01-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.405/2002 (DOU 2002-01-10)
+- lei-10193-de-2001: from 2001-02-16, its own clause: in force on publication
+- lei-10196-de-2001: from 2001-02-16, its own clause: in force on publication
+- lei-10197-de-2001: from 2001-02-16, its own clause: in force on publication
+- lei-10198-de-2001: from 2001-08-27, the in-force day of Medida Provisória 2.181-45/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-10199-de-2001: from 2001-02-16, its own clause: in force on publication
+- lei-10200-de-2001: from 2001-02-16, its own clause: in force on publication
+- lei-10202-de-2001: from 2001-02-21, its own clause: in force on publication
+- lei-10203-de-2001: from 2001-02-23, its own clause: in force on publication
+- lei-10204-de-2001: from 2001-02-23, its own clause: in force on publication
+- lei-10205-de-2001: from 2023-07-20, the in-force day of Lei 14.626/2023, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2023-07-20))
+- lei-10207-de-2001: from 2001-07-13, the in-force day of Lei 10.260/2001, the latest among the acts its notes name (its DOU day 2001-07-13: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.260/2001 (DOU 2001-07-13)
+- lei-10208-de-2001: from 2001-03-24, its own clause: in force on publication
+- lei-10210-de-2001: from 2001-03-24, its own clause: in force on publication
+- lei-10211-de-2001: from 2001-03-24, its own clause: in force on publication
+- lei-10212-de-2001: from 2001-03-26, its own clause: in force on publication
+- lei-10215-de-2001: from 2001-04-09, its own clause: in force on publication
+- lei-10217-de-2001: from 2001-04-12, its own clause: in force on publication
+- lei-10218-de-2001: from 2001-04-12, its own clause: in force on publication
+- lei-10220-de-2001: from 2001-04-12, its own clause: in force on publication
+- lei-10222-de-2001: from 2013-05-16, the in-force day of Lei 12.810/2013, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2013-05-16))
+- lei-10223-de-2001: from 2001-06-30, no in-force clause of its own: LINDB art. 1, its DOU day (2001-05-16) + 45 days
+- lei-10224-de-2001: from 2001-05-16, its own clause: in force on publication
+- lei-10226-de-2001: from 2001-05-16, its own clause: in force on publication
+- lei-10228-de-2001: from 2001-05-30, its own clause: in force on publication
+- lei-10241-de-2001: from 2001-06-19, its own clause: in force on publication
+- lei-10243-de-2001: from 2001-06-20, its own clause: in force on publication
+- lei-10244-de-2001: from 2001-06-28, its own clause: in force on publication
+- lei-10255-de-2001: from 2001-07-10, its own clause: in force on publication
+- lei-10256-de-2001: from 2004-12-15, the in-force day of Lei 10.993/2004, the latest among the acts its notes name (its DOU day 2004-12-15: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.993/2004 (DOU 2004-12-15)
+- lei-10258-de-2001: from 2001-07-12, its own clause: in force on publication
+- lei-10261-de-2001: from 2001-09-01, the in-force day of Medida Provisória 2.214/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-10264-de-2001: from 2001-07-17, its own clause: in force on publication
+- lei-10265-de-2001: from 2001-07-20, its own clause: in force on publication
+- lei-10268-de-2001: from 2001-08-29, its own clause: in force on publication
+- lei-10269-de-2001: from 2001-10-14, no in-force clause of its own: LINDB art. 1, its DOU day (2001-08-30) + 45 days
+- lei-10270-de-2001: from 2001-08-30, its own clause: in force on publication
+- lei-10272-de-2001: from 2001-09-06, its own clause: in force on publication
+- lei-10287-de-2001: from 2001-09-21, its own clause: in force on publication
+- lei-10288-de-2001: from 2001-09-21, its own clause: in force on publication
+- lei-10289-de-2001: from 2014-11-26, the in-force day of Lei 13.045/2014, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2014-11-26))
+- lei-10293-de-2001: from 2001-10-01, its own clause: in force on publication
+- lei-10295-de-2001: from 2001-10-18, its own clause: in force on publication
+- lei-10297-de-2001: from 2001-10-29, its own clause: in force on publication
+- lei-10298-de-2001: from 2001-10-31, its own clause: in force on publication
+- lei-10302-de-2001: from 2025-06-03, the in-force day of Lei 15.141/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-06-03))
+- lei-10305-de-2001: from 2001-11-08, its own clause: in force on publication
+- lei-10306-de-2001: from 2001-11-09, its own clause: in force on publication
+- lei-10308-de-2001: from 2021-05-17, the in-force day of Medida Provisória 1.049/2021, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-10309-de-2001: from 2001-11-23, its own clause: in force on publication
+- lei-10310-de-2001: from 2001-11-27, its own clause: in force on publication
+- lei-10311-de-2001: from 2001-11-27, its own clause: in force on publication
+- lei-10312-de-2001: from 2011-06-27, the in-force day of Lei 12.431/2011, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2011-06-27))
+- lei-10317-de-2001: from 2001-12-07, its own clause: in force on publication
+- lei-10328-de-2001: from 2001-12-13, its own clause: in force on publication
+- lei-10331-de-2001: from 2003-07-03, the in-force day of Lei 10.697/2003, the latest among the acts its notes name (its DOU day 2003-07-03: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.697/2003 (DOU 2003-07-03)
+- lei-10333-de-2001: from 2012-03-26, the in-force day of Lei 12.600/2012, the latest among the acts its notes name (its DOU day 2012-03-26: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.600/2012 (DOU 2012-03-26)
+- lei-10334-de-2001: from 2001-12-20, its own clause: in force on publication
+- lei-10350-de-2001: from 2002-02-20, its own clause: 60 days after its DOU day
+- lei-10357-de-2001: from 2001-12-28, its own clause: in force on publication
+- lei-10359-de-2001: from 2003-05-16, the in-force day of Lei 10.672/2003, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2003-05-16))
+- lei-10360-de-2001: from 2001-12-28, its own clause: in force on publication
+- lei-10363-de-2001: from 2001-12-28, its own clause: in force on publication
+- lei-10390-de-2001: from 2001-12-28, its own clause: in force on publication
+- lei-10401-de-2002: from 2002-01-08, its own clause: in force on publication
+- lei-10403-de-2002: from 2002-01-09, its own clause: in force on publication
+- lei-10405-de-2002: from 2006-12-04, the in-force day of Lei 11.381/2006, the latest among the acts its notes name (its DOU day 2006-12-04: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.344/2006 (DOU 2006-09-11), Lei 11.381/2006 (DOU 2006-12-04)
+- lei-10408-de-2002: from 2003-10-02, the in-force day of Lei 10.740/2003, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2003-10-02))
+- lei-10411-de-2002: from 2002-02-27, its own clause: in force on publication
+- lei-10413-de-2002: from 2002-02-13, its own clause: in force on publication
+- lei-10416-de-2002: from 2002-03-28, its own clause: in force on publication
+- lei-10419-de-2002: from 2002-04-10, its own clause: in force on publication
+- lei-10421-de-2002: from 2002-04-16, its own clause: in force on publication
+- lei-10422-de-2002: from 2002-04-16, its own clause: in force on publication
+- lei-10424-de-2002: from 2002-04-16, its own clause: in force on publication
+- lei-10425-de-2002: from 2002-04-22, its own clause: in force on publication
+- lei-10432-de-2002: from 2005-01-10, the in-force day of Lei 11.090/2005, the latest among the acts its notes name (its DOU day 2005-01-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.090/2005 (DOU 2005-01-10)
+- lei-10435-de-2002: from 2002-04-25, its own clause: in force on publication
+- lei-10436-de-2002: from 2002-04-25, its own clause: in force on publication
+- lei-10437-de-2002: from 2003-07-03, the in-force day of Lei 10.696/2003, the latest among the acts its notes name (its DOU day 2003-07-03: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.646/2003 (DOU 2003-03-31), Lei 10.696/2003 (DOU 2003-07-03)
+- lei-10445-de-2002: from 2002-05-08, its own clause: in force on publication
+- lei-10446-de-2002: from 2024-09-10, the in-force day of Lei 14.967/2024, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2024-09-10)); in-force day not read, so its DOU day is used, for: Lei 12.894/2013 (DOU 2013-12-18), Lei 13.124/2015 (DOU 2015-05-22), Lei 13.642/2018 (DOU 2018-04-04)
+- lei-10449-de-2002: from 2002-05-10, its own clause: in force on publication
+- lei-10453-de-2002: from 2012-06-15, the in-force day of Lei 12.666/2012, the latest among the acts its notes name (its DOU day 2012-06-15: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.666/2012 (DOU 2012-06-15)
+- lei-10454-de-2002: from 2002-05-14, its own clause: in force on publication
+- lei-10455-de-2002: from 2002-06-28, no in-force clause of its own: LINDB art. 1, its DOU day (2002-05-14) + 45 days
+- lei-10458-de-2002: from 2002-05-15, its own clause: in force on publication
+- lei-10459-de-2002: from 2002-05-16, its own clause: in force on publication
+- lei-10461-de-2002: from 2002-05-20, its own clause: in force on publication
+- lei-10463-de-2002: from 2002-05-24, its own clause: in force on publication
+- lei-10466-de-2002: from 2002-05-31, its own clause: in force on publication
+- lei-10467-de-2002: from 2002-06-12, its own clause: in force on publication
+- lei-10468-de-2002: from 2002-06-21, its own clause: in force on publication
+- lei-10470-de-2002: from 2007-10-05, the in-force day of Lei 11.526/2007, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2007-10-05)); in-force day not read, so its DOU day is used, for: Lei 10.869/2004 (DOU 2004-05-14)
+- lei-10473-de-2002: from 2002-06-28, its own clause: in force on publication
+- lei-10474-de-2002: from 2002-06-28, its own clause: in force on publication
+- lei-10477-de-2002: from 2002-06-28, its own clause: in force on publication
+- lei-10486-de-2002: from 2026-04-28, the in-force day of Lei 15.395/2026, the latest among the acts its notes name (its DOU day 2026-04-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.556/2002 (DOU 2002-11-14), Lei 11.134/2005 (DOU 2005-07-18), Lei 12.086/2009 (DOU 2009-11-09), Lei 12.808/2013 (DOU 2013-05-09), Lei 15.395/2026 (DOU 2026-04-28)
+- lei-10504-de-2002: from 2002-07-09, its own clause: in force on publication
+- lei-10506-de-2002: from 2002-07-10, its own clause: in force on publication
+- lei-10508-de-2002: from 2002-07-11, its own clause: in force on publication
+- lei-10511-de-2002: from 2002-07-12, its own clause: in force on publication
+- lei-10515-de-2002: from 2002-07-12, its own clause: in force on publication
+- lei-10516-de-2002: from 2002-07-12, its own clause: in force on publication
+- lei-10517-de-2002: from 2002-07-12, its own clause: in force on publication
+- lei-10519-de-2002: from 2002-09-16, its own clause: 60 days after its DOU day
+- lei-10521-de-2002: from 2002-07-19, its own clause: in force on publication
+- lei-10523-de-2002: from 2002-07-24, its own clause: in force on publication
+- lei-10536-de-2002: from 2002-08-15, its own clause: in force on publication
+- lei-10537-de-2002: from 2002-09-27, its own clause: 30 days after its DOU day
+- lei-10539-de-2002: from 2002-09-24, its own clause: in force on publication
+- lei-10540-de-2002: from 2002-10-02, its own clause: in force on publication
+- lei-10547-de-2002: from 2002-11-13, its own clause: in force on publication
+- lei-10549-de-2002: from 2002-11-14, its own clause: in force on publication
+- lei-10552-de-2002: from 2013-10-24, the in-force day of Lei 12.872/2013, the latest among the acts its notes name (its DOU day 2013-10-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.872/2013 (DOU 2013-10-24)
+- lei-10555-de-2002: from 2004-08-13, the in-force day of Lei 10.936/2004, the latest among the acts its notes name (its DOU day 2004-08-13: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.936/2004 (DOU 2004-08-13)
+- lei-10556-de-2002: from 2021-09-17, the in-force day of Lei 14.204/2021, the latest among the acts its notes name (its DOU day 2021-09-17: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.204/2021 (DOU 2021-09-17)
+- lei-10559-de-2002: from 2019-06-18, the in-force day of Lei 13.844/2019, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2019-06-18))
+- lei-10561-de-2002: from 2002-11-14, its own clause: in force on publication
+- lei-10568-de-2002: from 2002-11-20, its own clause: in force on publication
+- lei-10577-de-2002: from 2002-11-28, its own clause: in force on publication
+- lei-10595-de-2002: from 2002-12-12, its own clause: in force on publication
+- lei-10597-de-2002: from 2002-12-12, its own clause: in force on publication
+- lei-10598-de-2002: from 2002-12-12, its own clause: in force on publication
+- lei-10602-de-2002: from 2002-12-13, its own clause: in force on publication
+- lei-10603-de-2002: from 2024-12-24, the in-force day of Lei 15.070/2024, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2024-12-24))
+- lei-10606-de-2002: from 2002-12-20, its own clause: in force on publication
+- lei-10607-de-2002: from 2002-12-20, its own clause: in force on publication
+- lei-10608-de-2002: from 2002-12-23, its own clause: in force on publication
+- lei-10609-de-2002: from 2007-10-05, the in-force day of Lei 11.526/2007, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2007-10-05))
+- lei-10611-de-2002: from 2002-12-24, its own clause: in force on publication
+- lei-10612-de-2002: from 2002-12-24, its own clause: in force on publication
+- lei-10628-de-2002: from 2002-12-26, its own clause: in force on publication
+- lei-10633-de-2002: from 2026-04-28, the in-force day of Lei 15.395/2026, the latest among the acts its notes name (its DOU day 2026-04-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.395/2026 (DOU 2026-04-28)
+- lei-10634-de-2002: from 2002-12-31, its own clause: in force on publication
+- lei-10635-de-2002: from 2002-12-31, its own clause: in force on publication
+- lei-10636-de-2002: from 2018-10-05, the in-force day of Lei 13.724/2018, the latest among the acts its notes name (its DOU day 2018-10-05: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.724/2018 (DOU 2018-10-05)
+- lei-10638-de-2003: from 2003-01-07, its own clause: in force on publication
+- lei-10639-de-2003: from 2003-01-10, its own clause: in force on publication
+- lei-10648-de-2003: from 2003-04-04, its own clause: in force on publication
+- lei-10651-de-2003: from 2003-07-16, its own clause: 90 days after its DOU day
+- lei-10661-de-2003: from 2003-04-23, its own clause: in force on publication
+- lei-10664-de-2003: from 2003-04-23, its own clause: in force on publication
+- lei-10667-de-2003: from 2021-09-17, the in-force day of Lei 14.204/2021, the latest among the acts its notes name (its DOU day 2021-09-17: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.204/2021 (DOU 2021-09-17)
+- lei-10669-de-2003: from 2003-05-15, its own clause: in force on publication
+- lei-10674-de-2003: from 2003-07-10, the in-force day of Lei 10.700/2003, the latest among the acts its notes name (its DOU day 2003-07-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.700/2003 (DOU 2003-07-10)
+- lei-10676-de-2003: from 2003-05-23, its own clause: in force on publication
+- lei-10677-de-2003: from 2003-05-23, its own clause: in force on publication
+- lei-10679-de-2003: from 2003-05-26, its own clause: in force on publication
+- lei-10680-de-2003: from 2003-05-26, its own clause: in force on publication
+- lei-10681-de-2003: from 2003-05-28, its own clause: in force on publication
+- lei-10685-de-2003: from 2003-06-06, its own clause: in force on publication
+- lei-10686-de-2003: from 2003-06-12, its own clause: in force on publication
+- lei-10688-de-2003: from 2003-06-16, its own clause: in force on publication
+- lei-10692-de-2003: from 2003-06-20, its own clause: in force on publication
+- lei-10695-de-2003: from 2003-08-01, its own clause: 30 days after its DOU day
+- lei-10700-de-2003: from 2003-07-10, its own clause: in force on publication
+- lei-10701-de-2003: from 2003-07-10, its own clause: in force on publication
+- lei-10702-de-2003: from 2003-07-15, its own clause: in force on publication
+- lei-10703-de-2003: from 2003-07-21, its own clause: in force on publication
+- lei-10706-de-2003: from 2003-07-31, its own clause: in force on publication
+- lei-10710-de-2003: from 1997-12-11, the in-force day of Lei 9.528/1997, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1997-12-11))
+- lei-10712-de-2003: from 2003-08-13, its own clause: in force on publication
+- lei-10714-de-2003: from 2026-07-30, the in-force day of Lei 15.478/2026, the latest among the acts its notes name (its DOU day 2026-07-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.025/2014 (DOU 2014-09-04), Lei 15.478/2026 (DOU 2026-07-30)
+- lei-10727-de-2003: from 2003-09-03, its own clause: in force on publication
+- lei-10732-de-2003: from 2003-10-23, no in-force clause of its own: LINDB art. 1, its DOU day (2003-09-08) + 45 days
+- lei-10736-de-2003: from 2003-09-16, its own clause: in force on publication
+- lei-10738-de-2003: from 2003-09-18, its own clause: in force on publication
+- lei-10739-de-2003: from 2003-09-25, its own clause: in force on publication
+- lei-10742-de-2003: from 2016-12-20, the in-force day of Medida Provisória 754/2016, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-10744-de-2003: from 2003-10-10, its own clause: in force on publication
+- lei-10745-de-2003: from 2003-10-10, its own clause: in force on publication
+- lei-10752-de-2003: from 2003-10-31, its own clause: in force on publication
+- lei-10754-de-2003: from 2003-11-03, its own clause: in force on publication
+- lei-10762-de-2003: from 2002-04-29, the in-force day of Lei 10.438/2002, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2002-04-29))
+- lei-10763-de-2003: from 2003-11-13, its own clause: in force on publication
+- lei-10764-de-2003: from 2003-11-13, its own clause: in force on publication
+- lei-10769-de-2003: from 2003-11-20, its own clause: in force on publication
+- lei-10770-de-2003: from 2003-11-24, its own clause: in force on publication
+- lei-10771-de-2003: from 2013-12-27, the in-force day of Lei 12.930/2013, the latest among the acts its notes name (its DOU day 2013-12-27: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.930/2013 (DOU 2013-12-27)
+- lei-10772-de-2003: from 2003-11-24, its own clause: in force on publication
+- lei-10774-de-2003: from 2003-11-24, its own clause: in force on publication
+- lei-10775-de-2003: from 2003-11-24, its own clause: in force on publication
+- lei-10777-de-2003: from 2003-11-25, its own clause: in force on publication
+- lei-10787-de-2003: from 2003-11-26, its own clause: in force on publication
+- lei-10791-de-2003: from 2003-12-02, its own clause: in force on publication
+- lei-10792-de-2003: from 2003-12-02, its own clause: in force on publication
+- lei-10795-de-2003: from 2003-12-03, its own clause: in force on publication
+- lei-10799-de-2003: from 2003-12-11, its own clause: in force on publication
+- lei-10800-de-2003: from 2003-12-11, its own clause: in force on publication
+- lei-10803-de-2003: from 2003-12-12, its own clause: in force on publication
+- lei-10804-de-2003: from 2003-12-12, its own clause: in force on publication
+- lei-10821-de-2003: from 2003-12-19, its own clause: in force on publication
+- lei-10822-de-2003: from 2003-12-22, its own clause: in force on publication
+- lei-10823-de-2003: from 2026-09-30, the in-force day of Lei 15.526/2026, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2026-09-30)); in-force day not read, so its DOU day is used, for: Lei 13.195/2015 (DOU 2015-11-26)
+- lei-10825-de-2003: from 2003-12-23, its own clause: in force on publication
+- lei-10828-de-2003: from 2003-12-24, its own clause: in force on publication
+- lei-10830-de-2003: from 2003-12-24, its own clause: in force on publication
+- lei-10839-de-2004: from 2004-02-06, its own clause: in force on publication
+- lei-10842-de-2004: from 2004-02-20, its own clause: in force on publication
+- lei-10844-de-2004: from 2004-03-05, its own clause: in force on publication
+- lei-10846-de-2004: from 2004-03-15, its own clause: in force on publication
+- lei-10847-de-2004: from 2025-11-25, the in-force day of Lei 15.269/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-11-25))
+- lei-10850-de-2004: from 2004-03-26, its own clause: in force on publication
+- lei-10854-de-2004: from 2006-02-08, the in-force day of Lei 11.278/2006, the latest among the acts its notes name (its DOU day 2006-02-08: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.278/2006 (DOU 2006-02-08)
+- lei-10856-de-2004: from 2004-04-06, its own clause: in force on publication
+- lei-10858-de-2004: from 2004-04-14, its own clause: in force on publication
+- lei-10859-de-2004: from 2004-04-15, its own clause: in force on publication
+- lei-10860-de-2004: from 2004-04-15, its own clause: in force on publication
+- lei-10866-de-2004: from 2004-05-05, its own clause: in force on publication
+- lei-10867-de-2004: from 2004-05-13, its own clause: in force on publication
+- lei-10869-de-2004: from 2008-07-24, the in-force day of Lei 11.754/2008, the latest among the acts its notes name (its DOU day 2008-07-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.754/2008 (DOU 2008-07-24)
+- lei-10870-de-2004: from 2004-05-20, its own clause: in force on publication
+- lei-10873-de-2004: from 2004-05-27, its own clause: in force on publication
+- lei-10875-de-2004: from 2004-06-02, its own clause: in force on publication
+- lei-10878-de-2004: from 2004-06-09, its own clause: in force on publication
+- lei-10881-de-2004: from 2004-06-11, its own clause: in force on publication
+- lei-10882-de-2004: from 2025-06-03, the in-force day of Lei 15.141/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-06-03)); in-force day not read, so its DOU day is used, for: Lei 10.971/2004 (DOU 2004-11-26)
+- lei-10883-de-2004: from 2025-06-03, the in-force day of Lei 15.141/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-06-03)); in-force day not read, so its DOU day is used, for: Lei 11.344/2006 (DOU 2006-09-11), Lei 12.775/2012 (DOU 2012-12-31), Lei 13.324/2016 (DOU 2016-07-29)
+- lei-10884-de-2004: from 2004-06-18, its own clause: in force on publication
+- lei-10885-de-2004: from 2004-06-18, its own clause: in force on publication
+- lei-10886-de-2004: from 2004-06-18, its own clause: in force on publication
+- lei-10888-de-2004: from 2006-07-10, the in-force day of Lei 11.321/2006, the latest among the acts its notes name (its DOU day 2006-07-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.321/2006 (DOU 2006-07-10)
+- lei-10889-de-2004: from 2004-06-28, its own clause: in force on publication
+- lei-10890-de-2004: from 2004-07-02, its own clause: in force on publication
+- lei-10892-de-2004: from 2023-12-13, the in-force day of Lei 14.754/2023, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2023-12-13))
+- lei-10904-de-2004: from 2004-07-16, its own clause: in force on publication
+- lei-10905-de-2004: from 2004-07-16, its own clause: in force on publication
+- lei-10906-de-2004: from 2004-07-16, its own clause: in force on publication
+- lei-10907-de-2004: from 2025-06-03, the in-force day of Lei 15.141/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-06-03))
+- lei-10930-de-2004: from 2004-08-03, its own clause: in force on publication
+- lei-10932-de-2004: from 2004-08-03, its own clause: in force on publication
+- lei-10933-de-2004: from 2007-02-08, the in-force day of Lei 11.450/2007, the latest among the acts its notes name (its DOU day 2007-02-08: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.044/2004 (DOU 2004-12-24), Lei 11.318/2006 (DOU 2006-07-06), Lei 11.450/2007 (DOU 2007-02-08)
+- lei-10936-de-2004: from 2004-08-13, its own clause: in force on publication
+- lei-10937-de-2004: from 2004-08-13, its own clause: in force on publication
+- lei-10940-de-2004: from 2008-06-11, the in-force day of Lei 11.692/2008, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2008-06-11))
+- lei-10941-de-2004: from 2004-09-16, its own clause: in force on publication
+- lei-10943-de-2004: from 2004-09-17, its own clause: in force on publication
+- lei-10945-de-2004: from 2004-09-17, its own clause: in force on publication
+- lei-10950-de-2004: from 2004-09-21, its own clause: in force on publication
+- lei-10953-de-2004: from 2004-09-28, its own clause: in force on publication
+- lei-10954-de-2004: from 2014-06-20, the in-force day of Lei 12.999/2014, the latest among the acts its notes name (its DOU day 2014-06-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.999/2014 (DOU 2014-06-20)
+- lei-10960-de-2004: from 2004-10-08, its own clause: in force on publication
+- lei-10961-de-2004: from 2004-10-13, its own clause: in force on publication
+- lei-10962-de-2004: from 2017-12-20, the in-force day of Lei 13.543/2017, the latest among the acts its notes name (its DOU day 2017-12-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.175/2015 (DOU 2015-10-22), Lei 13.455/2017 (DOU 2017-06-27), Lei 13.543/2017 (DOU 2017-12-20)
+- lei-10964-de-2004: from 2004-12-30, the in-force day of Lei 11.051/2004, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2004-12-30))
+- lei-10966-de-2004: from 2004-11-09, its own clause: in force on publication
+- lei-10969-de-2004: from 2004-11-10, its own clause: in force on publication
+- lei-10970-de-2004: from 2004-11-16, its own clause: in force on publication
+- lei-9248-de-1995: from 1995-12-27, its own clause: in force on publication
+- lei-9254-de-1996: from 1996-01-04, its own clause: in force on publication
+- lei-9255-de-1996: from 1996-01-04, its own clause: in force on publication
+- lei-9256-de-1996: from 1996-01-10, its own clause: in force on publication
+- lei-9257-de-1996: from 2001-09-01, the in-force day of Medida Provisória 2.216-37/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9261-de-1996: from 1996-01-11, its own clause: in force on publication
+- lei-9264-de-1996: from 2026-04-28, the in-force day of Lei 15.395/2026, the latest among the acts its notes name (its DOU day 2026-04-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.874/2004 (DOU 2004-06-02), Lei 11.134/2005 (DOU 2005-07-18), Lei 11.361/2006 (DOU 2006-10-20), Lei 13.047/2014 (DOU 2014-12-03), Lei 13.064/2014 (DOU 2014-12-31), Lei 13.197/2015 (DOU 2015-12-02), Lei 13.690/2018 (DOU 2018-07-11), Lei 14.059/2020 (DOU 2020-09-23), Lei 14.262/2021 (DOU 2021-12-17), Lei 15.395/2026 (DOU 2026-04-28)
+- lei-9265-de-1996: from 2020-01-09, the in-force day of Lei 13.977/2020, the latest among the acts its notes name (its DOU day 2020-01-09: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.977/2020 (DOU 2020-01-09)
+- lei-9267-de-1996: from 1996-03-26, its own clause: in force on publication
+- lei-9268-de-1996: from 1996-04-02, its own clause: in force on publication
+- lei-9269-de-1996: from 1996-04-03, its own clause: in force on publication
+- lei-9270-de-1996: from 1996-04-18, its own clause: in force on publication
+- lei-9272-de-1996: from 1996-05-06, its own clause: in force on publication
+- lei-9274-de-1996: from 1996-05-08, its own clause: in force on publication
+- lei-9276-de-1996: from 1996-05-10, its own clause: in force on publication
+- lei-9278-de-1996: from 1996-05-13, its own clause: in force on publication
+- lei-9280-de-1996: from 1996-05-31, its own clause: in force on publication
+- lei-9281-de-1996: from 1996-06-05, its own clause: in force on publication
+- lei-9282-de-1996: from 1996-06-14, its own clause: in force on publication
+- lei-9283-de-1996: from 1996-06-14, its own clause: in force on publication
+- lei-9288-de-1996: from 1996-07-02, its own clause: in force on publication
+- lei-9290-de-1996: from 1996-07-09, its own clause: in force on publication
+- lei-9292-de-1996: from 1996-07-15, its own clause: in force on publication
+- lei-9297-de-1996: from 1996-07-26, its own clause: in force on publication
+- lei-9298-de-1996: from 1996-08-02, its own clause: in force on publication
+- lei-9299-de-1996: from 1996-08-08, its own clause: in force on publication
+- lei-9300-de-1996: from 1996-08-30, its own clause: in force on publication
+- lei-9301-de-1996: from 1996-08-30, its own clause: in force on publication
+- lei-9302-de-1996: from 1996-09-05, its own clause: in force on publication
+- lei-9303-de-1996: from 1996-09-06, its own clause: in force on publication
+- lei-9305-de-1996: from 1996-09-13, its own clause: in force on publication
+- lei-9309-de-1996: from 1996-10-04, its own clause: in force on publication
+- lei-9312-de-1996: from 1996-11-06, its own clause: in force on publication
+- lei-9313-de-1996: from 1996-11-14, its own clause: in force on publication
+- lei-9318-de-1996: from 1996-12-06, its own clause: in force on publication
+- lei-9321-de-1996: from 1996-12-06, its own clause: in force on publication
+- lei-9322-de-1996: from 1991-12-31, the in-force day of Lei 8.352/1991, the latest among the acts its notes name (its DOU day 1991-12-31: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.352/1991 (DOU 1991-12-31)
+- lei-9323-de-1996: from 1996-12-06, its own clause: in force on publication
+- lei-9327-de-1996: from 1996-12-10, its own clause: in force on publication
+- lei-9331-de-1996: from 1996-12-11, its own clause: in force on publication
+- lei-9335-de-1996: from 1996-12-11, its own clause: in force on publication
+- lei-9359-de-1996: from 1996-12-13, its own clause: in force on publication
+- lei-9360-de-1996: from 1996-12-17, its own clause: in force on publication
+- lei-9362-de-1996: from 1996-12-17, its own clause: in force on publication
+- lei-9364-de-1996: from 2001-08-27, the in-force day of Medida Provisória 2.181-45/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9365-de-1996: from 2022-06-09, the in-force day of Lei 14.366/2022, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2022-06-09)); in-force day not read, so its DOU day is used, for: Lei 10.183/2001 (DOU 2001-02-14), Lei 10.199/2001 (DOU 2001-02-16), Lei 10.206/2001 (DOU 2001-03-24), Lei 10.893/2004 (DOU 2004-07-14), Lei 11.786/2008 (DOU 2008-09-26), Lei 13.483/2017 (DOU 2017-09-22), Lei 9.780/1999 (DOU 1999-01-20), Lei 9.872/1999 (DOU 1999-11-24)
+- lei-9366-de-1996: from 1996-12-18, its own clause: in force on publication
+- lei-9367-de-1996: from 2001-09-01, the in-force day of Medida Provisória 2.215-10/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9392-de-1996: from 1996-12-20, its own clause: in force on publication
+- lei-9415-de-1996: from 1996-12-24, its own clause: in force on publication
+- lei-9422-de-1996: from 1996-12-26, its own clause: in force on publication
+- lei-9423-de-1996: from 1996-12-26, its own clause: in force on publication
+- lei-9425-de-1996: from 1996-12-26, its own clause: in force on publication
+- lei-9426-de-1996: from 1996-12-26, its own clause: in force on publication
+- lei-9429-de-1996: from 2009-11-30, the in-force day of Lei 12.101/2009, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2009-11-30))
+- lei-9431-de-1997: from 1997-01-07, its own clause: in force on publication
+- lei-9439-de-1997: from 1997-03-10, its own clause: in force on publication
+- lei-9441-de-1997: from 1997-03-15, its own clause: in force on publication
+- lei-9443-de-1997: from 1997-03-15, its own clause: in force on publication
+- lei-9448-de-1997: from 2023-01-11, the in-force day of Lei 14.533/2023, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2023-01-11))
+- lei-9450-de-1997: from 1997-03-15, its own clause: in force on publication
+- lei-9453-de-1997: from 1997-03-21, its own clause: in force on publication
+- lei-9454-de-1997: from 2023-01-11, the in-force day of Lei 14.534/2023, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2023-01-11))
+- lei-9458-de-1997: from 1997-05-12, its own clause: in force on publication
+- lei-9459-de-1997: from 1997-05-14, its own clause: in force on publication
+- lei-9460-de-1997: from 1997-06-05, its own clause: in force on publication
+- lei-9462-de-1997: from 1997-06-20, its own clause: in force on publication
+- lei-9465-de-1997: from 1997-07-08, its own clause: in force on publication
+- lei-9466-de-1997: from 1997-07-10, its own clause: in force on publication
+- lei-9467-de-1997: from 1997-07-11, its own clause: in force on publication
+- lei-9468-de-1997: from 1997-07-11, its own clause: in force on publication
+- lei-9470-de-1997: from 1997-07-11, its own clause: in force on publication
+- lei-9471-de-1997: from 1997-07-15, its own clause: in force on publication
+- lei-9475-de-1997: from 1997-07-23, its own clause: in force on publication
+- lei-9476-de-1997: from 1994-04-16, the in-force day of Lei 8.870/1994, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1994-04-16))
+- lei-9480-de-1997: from 1997-08-14, its own clause: in force on publication
+- lei-9482-de-1997: from 1997-08-14, its own clause: in force on publication
+- lei-9483-de-1997: from 1997-08-26, its own clause: in force on publication
+- lei-9484-de-1997: from 1997-08-28, its own clause: in force on publication
+- lei-9497-de-1997: from 2019-04-10, the in-force day of Lei 13.813/2019, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2019-04-10))
+- lei-9505-de-1997: from 1997-10-16, its own clause: in force on publication
+- lei-9506-de-1997: from 1997-10-31, its own clause: in force on publication
+- lei-9513-de-1997: from 1997-11-21, its own clause: in force on publication
+- lei-9515-de-1997: from 1997-11-21, its own clause: in force on publication
+- lei-9519-de-1997: from 2017-12-19, the in-force day of Lei 13.541/2017, the latest among the acts its notes name (its DOU day 2017-12-19: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.643/2008 (DOU 2008-03-11), Lei 12.216/2010 (DOU 2010-03-12), Lei 13.541/2017 (DOU 2017-12-19)
+- lei-9520-de-1997: from 1997-11-28, its own clause: in force on publication
+- lei-9521-de-1997: from 1997-11-28, its own clause: in force on publication
+- lei-9525-de-1997: from 2001-09-05, the in-force day of Medida Provisória 2.225-45/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9526-de-1997: from 1999-08-24, the in-force day of Lei 9.814/1999, the latest among the acts its notes name (its DOU day 1999-08-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 9.814/1999 (DOU 1999-08-24)
+- lei-9533-de-1997: from 2001-08-25, the in-force day of Medida Provisória 2.178-36/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9557-de-1997: from 1997-12-18, its own clause: in force on publication
+- lei-9558-de-1997: from 1997-12-18, its own clause: in force on publication
+- lei-9578-de-1997: from 1997-12-22, its own clause: in force on publication
+- lei-9602-de-1998: from 1998-03-08, no in-force clause of its own: LINDB art. 1, its DOU day (1998-01-22) + 45 days
+- lei-9606-de-1998: from 1998-02-17, its own clause: in force on publication
+- lei-9607-de-1998: from 1998-02-19, its own clause: in force on publication
+- lei-9614-de-1998: from 1998-03-06, its own clause: in force on publication
+- lei-9617-de-1998: from 1998-04-03, its own clause: in force on publication
+- lei-9618-de-1998: from 1998-04-03, its own clause: in force on publication
+- lei-9626-de-1998: from 1998-04-09, its own clause: in force on publication
+- lei-9627-de-1998: from 1998-04-14, its own clause: in force on publication
+- lei-9628-de-1998: from 2014-09-25, the in-force day of Lei 13.032/2014, the latest among the acts its notes name (its DOU day 2014-09-25: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.032/2014 (DOU 2014-09-25)
+- lei-9629-de-1998: from 1998-04-23, its own clause: in force on publication
+- lei-9631-de-1998: from 1998-04-29, its own clause: in force on publication
+- lei-9632-de-1998: from 1998-05-08, its own clause: in force on publication
+- lei-9635-de-1998: from 1997-09-10, the in-force day of Lei 9.491/1997, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1997-09-10))
+- lei-9640-de-1998: from 1998-05-26, its own clause: in force on publication
+- lei-9642-de-1998: from 1998-05-26, its own clause: in force on publication
+- lei-9643-de-1998: from 1998-05-27, its own clause: in force on publication
+- lei-9644-de-1998: from 1998-05-27, its own clause: in force on publication
+- lei-9650-de-1998: from 2025-06-03, the in-force day of Lei 15.141/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-06-03)); in-force day not read, so its DOU day is used, for: Lei 10.769/2003 (DOU 2003-11-20), Lei 10.909/2004 (DOU 2004-07-16), Lei 11.036/2004 (DOU 2004-12-23), Lei 11.344/2006 (DOU 2006-09-11), Lei 11.890/2008 (DOU 2008-12-26)
+- lei-9651-de-1998: from 2008-09-18, the in-force day of Lei 11.776/2008, the latest among the acts its notes name (its DOU day 2008-09-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.776/2008 (DOU 2008-09-18)
+- lei-9658-de-1998: from 1998-06-08, its own clause: in force on publication
+- lei-9659-de-1998: from 1998-06-10, its own clause: in force on publication
+- lei-9660-de-1998: from 2001-02-14, the in-force day of Lei 10.182/2001, the latest among the acts its notes name (its DOU day 2001-02-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.182/2001 (DOU 2001-02-14)
+- lei-9664-de-1998: from 1998-06-22, its own clause: in force on publication
+- lei-9665-de-1998: from 1998-06-22, its own clause: in force on publication
+- lei-9668-de-1998: from 1998-06-24, its own clause: in force on publication
+- lei-9674-de-1998: from 1998-06-26, its own clause: in force on publication
+- lei-9675-de-1998: from 1998-06-30, its own clause: in force on publication
+- lei-9676-de-1998: from 1997-12-11, the in-force day of Lei 9.528/1997, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1997-12-11))
+- lei-9688-de-1998: from 1998-07-07, its own clause: in force on publication
+- lei-9689-de-1998: from 1998-08-29, no in-force clause of its own: LINDB art. 1, its DOU day (1998-07-15) + 45 days
+- lei-9690-de-1998: from 1998-07-16, its own clause: in force on publication
+- lei-9691-de-1998: from 1998-07-23, its own clause: in force on publication
+- lei-9694-de-1998: from 1998-08-11, its own clause: in force on publication
+- lei-9696-de-1998: from 2022-06-28, the in-force day of Lei 14.386/2022, the latest among the acts its notes name (its DOU day 2022-06-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.386/2022 (DOU 2022-06-28)
+- lei-9697-de-1998: from 1998-09-03, its own clause: in force on publication
+- lei-9698-de-1998: from 1998-09-03, its own clause: in force on publication
+- lei-9699-de-1998: from 1998-09-09, its own clause: in force on publication
+- lei-9700-de-1998: from 1998-11-13, its own clause: in force on publication
+- lei-9701-de-1998: from 2001-08-27, the in-force day of Medida Provisória 2.158-35/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9702-de-1998: from 2020-06-12, the in-force day of Lei 14.011/2020, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2020-06-12))
+- lei-9704-de-1998: from 2001-08-27, the in-force day of Medida Provisória 2.180-35/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9711-de-1998: from 2010-12-16, the in-force day of Lei 12.348/2010, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2010-12-16))
+- lei-9712-de-1998: from 1998-11-23, its own clause: in force on publication
+- lei-9713-de-1998: from 2023-11-14, the in-force day of Lei 14.724/2023, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2023-11-14)); in-force day not read, so its DOU day is used, for: Lei 12.086/2009 (DOU 2009-11-09)
+- lei-9714-de-1998: from 1998-11-26, its own clause: in force on publication
+- lei-9724-de-1998: from 1998-12-02, its own clause: in force on publication
+- lei-9745-de-1998: from 1991-12-31, the in-force day of Lei 8.352/1991, the latest among the acts its notes name (its DOU day 1991-12-31: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.352/1991 (DOU 1991-12-31)
+- lei-9764-de-1998: from 1998-12-18, its own clause: in force on publication
+- lei-9765-de-1998: from 2021-05-17, the in-force day of Medida Provisória 1.049/2021, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9774-de-1998: from 1998-12-22, its own clause: in force on publication
+- lei-9775-de-1998: from 1998-12-22, its own clause: in force on publication
+- lei-9777-de-1998: from 1998-12-30, its own clause: in force on publication
+- lei-9786-de-1999: from 1999-02-09, its own clause: in force on publication
+- lei-9787-de-1999: from 2001-08-24, the in-force day of Medida Provisória 2.190-34/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9788-de-1999: from 1999-02-22, its own clause: in force on publication
+- lei-9791-de-1999: from 1999-05-09, no in-force clause of its own: LINDB art. 1, its DOU day (1999-03-25) + 45 days
+- lei-9792-de-1999: from 1999-04-15, its own clause: in force on publication
+- lei-9794-de-1999: from 1999-04-22, its own clause: in force on publication
+- lei-9797-de-1999: from 2025-11-24, the in-force day of Lei 15.267/2025, the latest among the acts its notes name (its DOU day 2025-11-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.802/2013 (DOU 2013-04-25), Lei 15.267/2025 (DOU 2025-11-24)
+- lei-9798-de-1999: from 1999-05-19, its own clause: in force on publication
+- lei-9799-de-1999: from 1999-05-27, its own clause: in force on publication
+- lei-9800-de-1999: from 2024-03-29, the in-force day of Lei 14.318/2022, the latest among the acts its notes name (own clause: 730 days after publication (2022-03-30; LC 95/1998 art. 8 § 1))
+- lei-9801-de-1999: from 1999-07-30, no in-force clause of its own: LINDB art. 1, its DOU day (1999-06-15) + 45 days
+- lei-9804-de-1999: from 1999-07-02, its own clause: in force on publication
+- lei-9808-de-1999: from 2011-06-27, the in-force day of Lei 12.431/2011, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2011-06-27)); in-force day not read, so its DOU day is used, for: Lei 10.177/2001 (DOU 2001-01-15)
+- lei-9812-de-1999: from 1998-03-11, the in-force day of Lei 9.534/1997, the latest among the acts its notes name ('Esta Lei entra em vigor no prazo de noventa dias, contado da data de sua publicação' (DOU 11.12.1997): 11.3.1998)
+- lei-9814-de-1999: from 1999-08-24, its own clause: in force on publication
+- lei-9816-de-1999: from 1999-08-24, its own clause: in force on publication
+- lei-9819-de-1999: from 1999-08-24, its own clause: in force on publication
+- lei-9821-de-1999: from 1999-08-24, its own clause: in force on publication
+- lei-9822-de-1999: from 1999-08-24, its own clause: in force on publication
+- lei-9827-de-1999: from 1996-11-18, the in-force day of Lei 9.314/1996, the latest among the acts its notes name (its DOU day 1996-11-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 9.314/1996 (DOU 1996-11-18)
+- lei-9829-de-1999: from 1999-10-18, no in-force clause of its own: LINDB art. 1, its DOU day (1999-09-03) + 45 days
+- lei-9830-de-1999: from 1999-09-03, its own clause: in force on publication
+- lei-9831-de-1999: from 1999-09-14, its own clause: in force on publication
+- lei-9832-de-1999: from 1999-09-15, its own clause: in force on publication
+- lei-9836-de-1999: from 1999-09-24, its own clause: in force on publication
+- lei-9837-de-1999: from 1999-09-24, its own clause: in force on publication
+- lei-9839-de-1999: from 1999-09-28, its own clause: in force on publication
+- lei-9840-de-1999: from 1999-09-29, its own clause: in force on publication
+- lei-9842-de-1999: from 1999-10-08, its own clause: in force on publication
+- lei-9845-de-1999: from 1999-10-21, its own clause: in force on publication
+- lei-9846-de-1999: from 1999-10-27, its own clause: in force on publication
+- lei-9848-de-1999: from 2001-08-27, the in-force day of Medida Provisória 2.168-40/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9849-de-1999: from 1999-10-27, its own clause: in force on publication
+- lei-9850-de-1999: from 1999-10-27, its own clause: in force on publication
+- lei-9851-de-1999: from 1999-10-28, its own clause: in force on publication
+- lei-9852-de-1999: from 1999-10-28, its own clause: in force on publication
+- lei-9853-de-1999: from 1999-10-28, its own clause: in force on publication
+- lei-9866-de-1999: from 2001-02-14, the in-force day of Lei 10.186/2001, the latest among the acts its notes name (its DOU day 2001-02-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.186/2001 (DOU 2001-02-14)
+- lei-9874-de-1999: from 1999-11-24, its own clause: in force on publication
+- lei-9883-de-1999: from 2001-09-01, the in-force day of Medida Provisória 2.216-37/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9896-de-1999: from 1999-12-15, its own clause: in force on publication
+- lei-9911-de-1999: from 1999-12-16, its own clause: in force on publication
+- lei-9933-de-1999: from 2011-12-15, the in-force day of Lei 12.545/2011, the latest among the acts its notes name (its DOU day 2011-12-15: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.545/2011 (DOU 2011-12-15)
+- lei-9934-de-1999: from 1999-12-21, its own clause: in force on publication
+- lei-9954-de-2000: from 2000-01-07, its own clause: in force on publication
+- lei-9955-de-2000: from 2000-01-07, its own clause: in force on publication
+- lei-9956-de-2000: from 2000-01-13, its own clause: in force on publication
+- lei-9962-de-2000: from 2000-02-23, its own clause: in force on publication
+- lei-9965-de-2000: from 2000-04-28, its own clause: in force on publication
+- lei-9972-de-2000: from 2022-12-30, the in-force day of Lei 14.515/2022, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2022-12-30)); in-force day not read, so its DOU day is used, for: Lei 12.341/2010 (DOU 2010-12-02)
+- lei-9975-de-2000: from 2000-06-26, its own clause: in force on publication
+- lei-9976-de-2000: from 2000-07-04, its own clause: in force on publication
+- lei-9981-de-2000: from 2000-07-17, its own clause: in force on publication
+- lei-9982-de-2000: from 2000-07-17, its own clause: in force on publication
+- lei-9987-de-2000: from 2000-07-20, its own clause: in force on publication
+- lei-9988-de-2000: from 2000-07-20, its own clause: in force on publication
+- lei-9989-de-2000: from 2001-10-29, the in-force day of Lei 10.297/2001, the latest among the acts its notes name (its DOU day 2001-10-29: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.297/2001 (DOU 2001-10-29)
+- lei-9992-de-2000: from 2000-07-25, its own clause: in force on publication
+- lei-9993-de-2000: from 2000-07-25, its own clause: in force on publication
+- lei-9994-de-2000: from 2000-07-25, its own clause: in force on publication
+- lei-9996-de-2000: from 2000-08-15, its own clause: in force on publication
+- lei-9997-de-2000: from 2000-08-18, its own clause: in force on publication
 - Acts of this part (Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995); Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004); Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007); Lei do Petróleo (Lei nº 9.478, de 6 de agosto de 1997); Lei de Abuso de Autoridade (Lei nº 13.869, de 5 de setembro de 2019); Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980); Lei das Inelegibilidades (Lei Complementar nº 64, de 18 de maio de 1990); Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990); Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023); Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003); Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981)): each paragraph's life span is read from Planalto's annotated page of the act (l8987cons.htm, l11079.htm, l11445.htm, l9478.htm, l13869.htm, l6880.htm, lcp64.htm, l8142.htm, l14597.htm, l10.671.htm, l6938.htm), with the replay of Lexifina's code (imported, not copied): struck wordings stay in place before the wording that replaced them, each closed by the source's own note ('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted.
 - Credits come only from those notes; a changed article with no note naming a law stays uncredited.
 - A struck wording with no 'Revogado' note ends when the next wording of the same dispositivo (same label in the same article) starts; a Medida Provisória's wording with no later wording ends on the in-force day of the law that converted the MP (read from the MP page's 'Convertida na Lei' line).
@@ -10122,6 +11127,7 @@ Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP lapse days) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP fates, court rulings) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (MP lapse days, staged vigência days, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
