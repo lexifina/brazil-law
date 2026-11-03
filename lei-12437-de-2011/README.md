@@ -1,0 +1,9 @@
+# Acrescenta parágrafo ao art. 791 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (Lei nº 12.437, de 6 de julho de 2011)
+
+L12437 · 1 versions, from 2011-07-07 (latest in force: 2011-07-07) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12437.htm>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1º | [art-001.md](art-001.md) | 0 |  |
+| Art. 2º | [art-002.md](art-002.md) | 0 |  |
+| Preâmbulo | [preambulo.md](preambulo.md) | 0 |  |

@@ -27,6 +27,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
+| Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995), Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004), Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007), Lei do Petróleo (Lei nº 9.478, de 6 de agosto de 1997), Lei de Abuso de Autoridade (Lei nº 13.869, de 5 de setembro de 2019), Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980), Lei das Inelegibilidades (Lei Complementar nº 64, de 18 de maio de 1990), Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990), Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023), Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003), Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-31 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | LexML Brasil (Senado Federal): record of each cited law, for its 'Publicação Original' DOU day | <https://www.lexml.gov.br/> | 2026-10-31 | Public federal portal; bibliographic data of official acts |
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Execução Fiscal (Lei nº 6.830, de 22 de setembro de 1980), Lei de Defesa da Concorrência (Lei nº 12.529, de 30 de novembro de 2011), Estatuto da Advocacia e da OAB (Lei nº 8.906, de 4 de julho de 1994), Lei da ADI e da ADC (Lei nº 9.868, de 10 de novembro de 1999), Lei da ADPF (Lei nº 9.882, de 3 de dezembro de 1999), Crimes contra a ordem tributária, econômica e as relações de consumo (Lei nº 8.137, de 27 de dezembro de 1990), Lei de Interceptação Telefônica (Lei nº 9.296, de 24 de julho de 1996), Lei do Bem de Família (Lei nº 8.009, de 29 de março de 1990), Lei da Ação Popular (Lei nº 4.717, de 29 de junho de 1965), Crimes contra o Sistema Financeiro Nacional (Lei nº 7.492, de 16 de junho de 1986) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-31 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
@@ -1862,6 +1863,506 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-14366-de-2022` | Dispõe sobre a prorrogação excepcional de prazos de isenção, de redução a zero de alíquotas ou de suspensão de tributos em regimes especiais de drawback (Lei nº 14.366, de 8 de junho de 2022) | 1 | 2024-07-29 to 2024-07-29 |
 | `lei-14367-de-2022` | Altera as Leis nºs 9.478, de 6 de agosto de 1997, e 9.718, de 27 de novembro de 1998, para promover ajustes na cobrança da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor... (Lei nº 14.367, de 14 de junho de 2022) | 1 | 2022-06-15 to 2022-06-15 |
 | `lei-14368-de-2022` | Altera as Leis nºs 6.009, de 26 de dezembro de 1973, 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), 13.448, de 5 de junho de 2017, 11.182, de 27 de setembro de 2005, 9.826, de 23 de agosto de... (Lei nº 14.368, de 14 de junho de 2022) | 1 | 2022-06-15 to 2022-06-15 |
+| `lei-complementar-138-de-2010` | Altera a Lei Complementar nº 87, de 13 de setembro de 1996, que dispõe sobre o imposto dos Estados e do Distrito Federal sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de... (Lei Complementar nº 138, de 29 de dezembro de 2010) | 1 | 2010-12-30 to 2010-12-30 |
+| `lei-complementar-144-de-2014` | Atualiza a ementa e altera o art. 1º da Lei Complementar nº 51, de 20 de dezembro de 1985, que “Dispõe sobre a aposentadoria do funcionário policial, nos termos do art. 103, da Constituição Federal”, para... (Lei Complementar nº 144, de 15 de maio de 2014) | 1 | 2014-05-16 to 2014-05-16 |
+| `lei-complementar-145-de-2014` | Altera dispositivos da Lei Complementar nº 93, de 4 de fevereiro de 1998, que institui o Fundo de Terras e da Reforma Agrária - Banco da Terra (Lei Complementar nº 145, de 15 de maio de 2014) | 1 | 2014-05-16 to 2014-05-16 |
+| `lei-complementar-146-de-2014` | Estende a estabilidade provisória prevista na alínea b do inciso II do art. 10 do Ato das Disposições Constitucionais Transitórias à trabalhadora gestante, nos casos de morte desta, a quem detiver a guarda de seu filho (Lei Complementar nº 146, de 25 de junho de 2014) | 1 | 2014-06-26 to 2014-06-26 |
+| `lei-complementar-149-de-2015` | Altera a Lei Complementar nº 90, de 1º de outubro de 1997, que determina os casos em que forças estrangeiras possam transitar pelo território nacional ou nele permanecer temporariamente (Lei Complementar nº 149, de 12 de janeiro de 2015) | 1 | 2015-01-13 to 2015-01-13 |
+| `lei-complementar-152-de-2015` | Dispõe sobre a aposentadoria compulsória por idade, com proventos proporcionais, nos termos do inciso II do § 1 º do art. 40 da Constituição Federal (Lei Complementar nº 152, de 3 de dezembro de 2015) | 1 | 2015-12-04 to 2015-12-04 |
+| `lei-complementar-153-de-2015` | Altera o art. 3 º da Lei Complementar n º 79, de 7 de janeiro de 1994, que cria o Fundo Penitenciário Nacional - FUNPEN, e dá outras providências (Lei Complementar nº 153, de 9 de dezembro de 2015) | 1 | 2015-12-10 to 2015-12-10 |
+| `lei-complementar-154-de-2016` | Acrescenta § 25 ao art. 18-A da Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir ao microempreendedor individual utilizar sua residência como sede do estabelecimento (Lei Complementar nº 154, de 18 de abril de 2016) | 1 | 2016-04-19 to 2016-04-19 |
+| `lei-complementar-155-de-2016` | Altera a Lei C o m pl e m e ntar n o 12 3 , de 14 de dez e m bro d e 2006, p ar a reorganiz a r e s i mp l i f icar a m e t odolo g ia de apu r ação do i m posto de vido por optantes pelo S i mples Nacional (Lei Complementar nº 155, de 27 de outubro de 2016) | 1 | 2016-12-12 to 2016-12-12 |
+| `lei-12324-de-2010` | Revoga o Decreto-Lei n o 7.270, de 25 de janeiro de 1945, e o Decreto-Lei n o 7.776, de 25 de julho de 1945 (Lei nº 12.324, de 15 de setembro de 2010) | 1 | 2010-09-16 to 2010-09-16 |
+| `lei-12325-de-2010` | Dispõe sobre o Dia Nacional do Respeito ao Contribuinte (Lei nº 12.325, de 15 de setembro de 2010) | 1 | 2010-09-16 to 2010-09-16 |
+| `lei-12335-de-2010` | Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS destinados ao Ministério da Fazenda (Lei nº 12.335, de 22 de setembro de 2010) | 1 | 2010-09-22 to 2010-09-22 |
+| `lei-12336-de-2010` | Altera as Leis n o 4.375, de 17 de agosto de 1964, que dispõe sobre o serviço militar, e n o 5.292, de 8 de junho de 1967, que dispõe sobre a prestação do serviço militar pelos estudantes de Medicina, Farmácia,... (Lei nº 12.336, de 26 de outubro de 2010) | 1 | 2010-10-27 to 2010-10-27 |
+| `lei-12341-de-2010` | Define prioridades para a destinação de produtos de origem animal e vegetal apreendidos na forma da lei, alterando as Leis n os 7.889, de 23 de novembro de 1989, e 9.972, de 25 de maio de 2000 (Lei nº 12.341, de 1º de dezembro de 2010) | 1 | 2010-12-02 to 2010-12-02 |
+| `lei-12342-de-2010` | Altera a Lei n o 11.358, de 19 de outubro de 2006, no tocante ao subsídio dos Policiais Rodoviários Federais (Lei nº 12.342, de 1º de dezembro de 2010) | 1 | 2010-12-02 to 2010-12-02 |
+| `lei-12344-de-2010` | Altera a redação do inciso II do art. 1.641 da Lei n o 10.406, de 10 de janeiro de 2002 (Código Civil), para aumentar para 70 (setenta) anos a idade a partir da qual se torna obrigatório o regime da separação de bens... (Lei nº 12.344, de 9 de dezembro de 2010) | 1 | 2010-12-10 to 2010-12-10 |
+| `lei-12345-de-2010` | Fixa critério para instituição de datas comemorativas (Lei nº 12.345, de 9 de dezembro de 2010) | 1 | 2010-12-10 to 2010-12-10 |
+| `lei-12347-de-2010` | Revoga o art. 508 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei n o 5.452, de 1 o de maio de 1943 (Lei nº 12.347, de 10 de dezembro de 2010) | 1 | 2010-12-13 to 2010-12-13 |
+| `lei-12349-de-2010` | Altera as Leis nos 8.666, de 21 de junho de 1993, 8.958, de 20 de dezembro de 1994, e 10.973, de 2 de dezembro de 2004 (Lei nº 12.349, de 15 de dezembro de 2010) | 1 | 2010-12-16 to 2010-12-16 |
+| `lei-12352-de-2010` | Altera o Anexo I da Lei nº 11.653, de 7 de abril de 2008, que dispõe sobre o Plano Plurianual para o período 2008-2011 (Lei nº 12.352, de 28 de dezembro de 2010) | 1 | 2010-12-29 to 2010-12-29 |
+| `lei-12376-de-2010` | Altera a ementa do Decreto-Lei n o 4.657, de 4 de setembro de 1942 (Lei nº 12.376, de 30 de dezembro de 2010) | 1 | 2010-12-31 to 2010-12-31 |
+| `lei-12377-de-2010` | Altera o art. 2º e o Anexo IV da Lei nº 12.017, de 12 de agosto de 2009, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2010, e o art. 2º e o Anexo III da Lei nº 12.309, de 9 de... (Lei nº 12.377, de 30 de dezembro de 2010) | 1 | 2010-12-31 to 2010-12-31 |
+| `lei-12378-de-2010` | Regulamenta o exercício da Arquitetura e Urbanismo (Lei nº 12.378, de 31 de dezembro de 2010) | 1 | 2011-02-14 to 2011-02-14 |
+| `lei-12380-de-2011` | Autoriza a União e as entidades da administração pública federal indireta a contratar, reciprocamente ou com fundo privado do qual seja o Tesouro Nacional cotista único, a aquisição, alienação, cessão e permuta de... (Lei nº 12.380, de 10 de janeiro de 2011) | 1 | 2014-11-14 to 2014-11-14 |
+| `lei-12383-de-2011` | Dá nova redação ao art. 1º da Lei nº 5.851, de 7 de dezembro de 1972, que autoriza o Poder Executivo a instituir empresa pública, sob a denominação de Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA) (Lei nº 12.383, de 1º de março de 2011) | 1 | 2011-03-02 to 2011-03-02 |
+| `lei-12385-de-2011` | Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, no exercício de 2010, com o objetivo de fomentar as exportações do País (Lei nº 12.385, de 3 de março de 2011) | 1 | 2011-07-22 to 2011-07-22 |
+| `lei-12389-de-2011` | Dispõe sobre a instituição do Dia Nacional do Calcário Agrícola (Lei nº 12.389, de 3 de março de 2011) | 1 | 2011-03-04 to 2011-03-04 |
+| `lei-12391-de-2011` | Inscreve no Livro dos Heróis da Pátria os nomes dos heróis da “Revolta dos Búzios” João de Deus do Nascimento, Lucas Dantas de Amorim Torres, Manuel Faustino Santos Lira e Luís Gonzaga das Virgens e Veiga (Lei nº 12.391, de 4 de março de 2011) | 1 | 2011-03-04 to 2011-03-04 |
+| `lei-12392-de-2011` | Institui o ano de 2011 como o Ano da Holanda no Brasil (Lei nº 12.392, de 4 de março de 2011) | 1 | 2011-03-04 to 2011-03-04 |
+| `lei-12393-de-2011` | Institui a Semana de Mobilização Nacional para Busca e Defesa da Criança Desaparecida (Lei nº 12.393, de 4 de março de 2011) | 1 | 2011-03-04 to 2011-03-04 |
+| `lei-12395-de-2011` | Altera as Leis nº s 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto, e 10.891, de 9 de julho de 2004, que institui a Bolsa-Atleta (Lei nº 12.395, de 16 de março de 2011) | 1 | 2011-03-17 to 2011-03-17 |
+| `lei-12397-de-2011` | Constitui fonte de recursos adicional ao Banco Nacional de Desenvolvimento Econômico e Social – BNDES (Lei nº 12.397, de 23 de março de 2011) | 1 | 2011-03-24 to 2011-03-24 |
+| `lei-12398-de-2011` | Acrescenta parágrafo único ao art. 1.589 da Lei no 10.406, de 10 de janeiro de 2002 - Código Civil, e dá nova redação ao inciso VII do art. 888 da Lei no 5.869, de 11 de janeiro de 1973 - Código de Processo Civil,... (Lei nº 12.398, de 28 de março de 2011) | 1 | 2011-03-29 to 2011-03-29 |
+| `lei-12399-de-2011` | Acresce o § 3º ao art. 974 da Lei nº 10.406, de 10 de janeiro de 2002, que institui o Código Civil (Lei nº 12.399, de 1º de abril de 2011) | 1 | 2011-04-04 to 2011-04-04 |
+| `lei-12400-de-2011` | Altera a Lei nº 11.668, de 2 de maio de 2008, que dispõe sobre o exercício da atividade de franquia postal (Lei nº 12.400, de 7 de abril de 2011) | 1 | 2011-04-08 to 2011-04-08 |
+| `lei-12402-de-2011` | Regula o cumprimento de obrigações tributárias por consórcios que realizarem contratações de pessoas jurídicas e físicas (Lei nº 12.402, de 2 de maio de 2011) | 1 | 2014-06-20 to 2014-06-20 |
+| `lei-12403-de-2011` | Altera dispositivos do Decreto-Lei no 3.689, de 3 de outubro de 1941 - Código de Processo Penal, relativos à prisão processual, fiança, liberdade provisória, demais medidas cautelares, e dá outras providências (Lei nº 12.403, de 4 de maio de 2011) | 1 | 2011-07-04 to 2011-07-04 |
+| `lei-12404-de-2011` | Autoriza a criação da Empresa de Transporte Ferroviário de Alta Velocidade S.A. - ETAV (Lei nº 12.404, de 4 de maio de 2011) | 1 | 2017-07-11 to 2017-07-11 |
+| `lei-12405-de-2011` | Acrescenta § 6º ao art. 879 da Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para facultar a elaboração de cálculos de liquidação complexos por perito e autorizar... (Lei nº 12.405, de 16 de maio de 2011) | 1 | 2011-05-17 to 2011-05-17 |
+| `lei-12406-de-2011` | Dispõe sobre a criação de cargos em comissão e funções de confiança destinados ao Instituto Nacional do Seguro Social - INSS e cria cargos efetivos de Perito Médico Previdenciário (Lei nº 12.406, de 18 de maio de 2011) | 1 | 2016-10-11 to 2016-10-11 |
+| `lei-12408-de-2011` | Altera o art. 65 da Lei nº 9.605, de 12 de fevereiro de 1998, para descriminalizar o ato de grafitar, e dispõe sobre a proibição de comercialização de tintas em embalagens do tipo aerossol a menores de 18 (dezoito) anos (Lei nº 12.408, de 25 de maio de 2011) | 1 | 2011-05-26 to 2011-05-26 |
+| `lei-12409-de-2011` | Autoriza o Fundo de Compensação de Variações Salariais - FCVS, a assumir, na forma disciplinada em ato do Conselho Curador do Fundo de Compensação de Variações Salariais - CCFCVS, direitos e obrigações do Seguro... (Lei nº 12.409, de 25 de maio de 2011) | 1 | 2014-11-14 to 2014-11-14 |
+| `lei-12411-de-2011` | Dispõe sobre a criação de cargos de Juiz do Trabalho e de Varas do Trabalho no Tribunal Regional do Trabalho da 7ª Região, define jurisdições e dá outras providências (Lei nº 12.411, de 27 de maio de 2011) | 1 | 2011-05-30 to 2011-05-30 |
+| `lei-12415-de-2011` | Acrescenta parágrafo único ao art. 130 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para determinar que alimentos provisórios sejam fixados cautelarmente em favor da criança ou... (Lei nº 12.415, de 9 de junho de 2011) | 1 | 2011-06-10 to 2011-06-10 |
+| `lei-12416-de-2011` | Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre a oferta de educação superior para os povos indígenas (Lei nº 12.416, de 9 de junho de 2011) | 1 | 2011-06-10 to 2011-06-10 |
+| `lei-12418-de-2011` | Altera o inciso I do caput do art. 38 da Lei nº 10.741, de 1º de outubro de 2003, que dispõe sobre o Estatuto do Idoso, para reservar aos idosos pelo menos 3% (três por cento) das unidades residenciais em programas... (Lei nº 12.418, de 9 de junho de 2011) | 1 | 2011-06-10 to 2011-06-10 |
+| `lei-12419-de-2011` | Altera o art. 38 da Lei nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso), para garantir a prioridade dos idosos na aquisição de unidades residenciais térreas, nos programas nele mencionados (Lei nº 12.419, de 9 de junho de 2011) | 1 | 2011-06-10 to 2011-06-10 |
+| `lei-12420-de-2011` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 23ª Região e dá outras providências (Lei nº 12.420, de 15 de junho de 2011) | 1 | 2011-06-16 to 2011-06-16 |
+| `lei-12421-de-2011` | Altera a composição do Tribunal Regional do Trabalho da 4ª Região e dá outras providências (Lei nº 12.421, de 16 de junho de 2011) | 1 | 2011-06-17 to 2011-06-17 |
+| `lei-12422-de-2011` | Altera a composição do Tribunal Regional do Trabalho da 13a Região e dá outras providências (Lei nº 12.422, de 16 de junho de 2011) | 1 | 2011-06-17 to 2011-06-17 |
+| `lei-12423-de-2011` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 22ª Região e dá outras providências (Lei nº 12.423, de 16 de junho de 2011) | 1 | 2011-06-17 to 2011-06-17 |
+| `lei-12425-de-2011` | Altera a Lei nº 8.745, de 9 de dezembro de 1993, no tocante à contratação de professores (Lei nº 12.425, de 17 de junho de 2011) | 1 | 2011-06-20 to 2011-06-20 |
+| `lei-12426-de-2011` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 16a Região e dá outras providências (Lei nº 12.426, de 17 de junho de 2011) | 1 | 2011-06-20 to 2011-06-20 |
+| `lei-12427-de-2011` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 2ª Região e dá outras providências (Lei nº 12.427, de 17 de junho de 2011) | 1 | 2011-06-20 to 2011-06-20 |
+| `lei-12430-de-2011` | Inscreve os nomes de Martins, Miragaia, Dráusio e Camargo (MMDC), heróis paulistas da Revolução Constitucionalista de 1932, no Livro dos Heróis da Pátria (Lei nº 12.430, de 20 de junho de 2011) | 1 | 2011-06-21 to 2011-06-21 |
+| `lei-12432-de-2011` | Estabelece a competência da Justiça Militar para julgamento dos crimes praticados no contexto do art. 303 da Lei nº 7.565, de 19 de dezembro de 1986 - Código Brasileiro de Aeronáutica, alterando o parágrafo único do... (Lei nº 12.432, de 29 de junho de 2011) | 1 | 2011-06-30 to 2011-06-30 |
+| `lei-12433-de-2011` | Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a remição de parte do tempo de execução da pena por estudo ou por trabalho (Lei nº 12.433, de 29 de junho de 2011) | 1 | 2011-06-30 to 2011-06-30 |
+| `lei-12435-de-2011` | Altera a Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social (Lei nº 12.435, de 6 de julho de 2011) | 1 | 2011-07-07 to 2011-07-07 |
+| `lei-12436-de-2011` | Veda o emprego de práticas que estimulem o aumento de velocidade por motociclistas profissionais (Lei nº 12.436, de 6 de julho de 2011) | 1 | 2011-07-07 to 2011-07-07 |
+| `lei-12437-de-2011` | Acrescenta parágrafo ao art. 791 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (Lei nº 12.437, de 6 de julho de 2011) | 1 | 2011-07-07 to 2011-07-07 |
+| `lei-12438-de-2011` | Altera a Lei nº 8.689, de 27 de julho de 1993, que dispõe sobre a extinção do Instituto Nacional de Assistência Médica da Previdência Social - INAMPS e dá outras providências, para que a prestação de contas dos... (Lei nº 12.438, de 6 de julho de 2011) | 1 | 2011-07-07 to 2011-07-07 |
+| `lei-12439-de-2011` | Cria Cargos em Comissão e Funções Comissionadas no Tribunal Regional do Trabalho da 2ª Região e dá outras providências (Lei nº 12.439, de 7 de julho de 2011) | 1 | 2011-07-08 to 2011-07-08 |
+| `lei-12452-de-2011` | Altera o art. 143 da Lei no 9.503, de 23 de setembro de 1997, que “institui o Código de Trânsito Brasileiro”, de modo a disciplinar a habilitação de condutores de combinações de veículos (Lei nº 12.452, de 21 de julho de 2011) | 1 | 2011-07-22 to 2011-07-22 |
+| `lei-12453-de-2011` | Constitui fonte de recursos adicional ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES (Lei nº 12.453, de 21 de julho de 2011) | 1 | 2012-08-31 to 2012-08-31 |
+| `lei-12458-de-2011` | Estabelece critérios mínimos para a outorga do título de patrono ou patrona (Lei nº 12.458, de 26 de julho de 2011) | 1 | 2019-12-12 to 2019-12-12 |
+| `lei-12461-de-2011` | Altera a Lei nº 10.741, de 1º de outubro de 2003, para estabelecer a notificação compulsória dos atos de violência praticados contra o idoso atendido em serviço de saúde (Lei nº 12.461, de 26 de julho de 2011) | 1 | 2011-10-25 to 2011-10-25 |
+| `lei-12463-de-2011` | Dispõe sobre a criação de cargos e de funções no Quadro de Pessoal do Conselho Nacional de Justiça - CNJ (Lei nº 12.463, de 4 de agosto de 2011) | 1 | 2011-08-05 to 2011-08-05 |
+| `lei-12464-de-2011` | Dispõe sobre o ensino na Aeronáutica (Lei nº 12.464, de 4 de agosto de 2011) | 1 | 2011-08-05 to 2011-08-05 |
+| `lei-12466-de-2011` | Acrescenta arts. 14-A e 14-B à Lei nº 8.080, de 19 de setembro de 1990, que “dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e... (Lei nº 12.466, de 24 de agosto de 2011) | 1 | 2011-08-25 to 2011-08-25 |
+| `lei-12467-de-2011` | Dispõe sobre a regulamentação do exercício da profissão de Sommelier (Lei nº 12.467, de 26 de agosto de 2011) | 1 | 2011-08-29 to 2011-08-29 |
+| `lei-12469-de-2011` | Altera os valores constantes da tabela do Imposto sobre a Renda da Pessoa Física e altera as Leis nºs 11.482, de 31 de maio de 2007, 7.713, de 22 de dezembro de 1988, 9.250, de 26 de dezembro de 1995, 9.656, de 3 de... (Lei nº 12.469, de 26 de agosto de 2011) | 1 | 2015-06-22 to 2015-06-22 |
+| `lei-12472-de-2011` | Acrescenta § 6o ao art. 32 da Lei no 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, incluindo os símbolos nacionais como tema transversal nos currículos do ensino fundamental (Lei nº 12.472, de 1º de setembro de 2011) | 1 | 2011-12-01 to 2011-12-01 |
+| `lei-12474-de-2011` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 23ª Região e dá outras providências (Lei nº 12.474, de 2 de setembro de 2011) | 1 | 2011-09-05 to 2011-09-05 |
+| `lei-12475-de-2011` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 4ª Região e dá outras providências (Lei nº 12.475, de 2 de setembro de 2011) | 1 | 2011-09-05 to 2011-09-05 |
+| `lei-12476-de-2011` | Altera a composição do Tribunal Regional do Trabalho da 6ª Região, cria Varas do Trabalho com sua jurisdição e dá outras providências (Lei nº 12.476, de 2 de setembro de 2011) | 1 | 2011-09-05 to 2011-09-05 |
+| `lei-12477-de-2011` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 12ª Região e dá outras providências (Lei nº 12.477, de 2 de setembro de 2011) | 1 | 2011-09-05 to 2011-09-05 |
+| `lei-12478-de-2011` | Altera a composição do Tribunal Regional do Trabalho da 18ª Região, cria Varas do Trabalho em sua jurisdição e dá outras providências (Lei nº 12.478, de 2 de setembro de 2011) | 1 | 2011-09-05 to 2011-09-05 |
+| `lei-12479-de-2011` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 19ª Região e dá outras providências (Lei nº 12.479, de 2 de setembro de 2011) | 1 | 2011-09-05 to 2011-09-05 |
+| `lei-12480-de-2011` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 20ª Região e dá outras providências (Lei nº 12.480, de 2 de setembro de 2011) | 1 | 2011-09-05 to 2011-09-05 |
+| `lei-12481-de-2011` | Altera a composição do Tribunal Regional do Trabalho da 9ª Região e dá outras providências (Lei nº 12.481, de 2 de setembro de 2011) | 1 | 2011-09-05 to 2011-09-05 |
+| `lei-12482-de-2011` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 21ª Região, cria Varas do Trabalho em sua jurisdição e dá outras providências (Lei nº 12.482, de 2 de setembro de 2011) | 1 | 2011-09-05 to 2011-09-05 |
+| `lei-12483-de-2011` | Acresce o art. 19-A à Lei nº 9.807, de 13 de julho de 1999, que estabelece normas para a organização e a manutenção de programas especiais de proteção a vítimas e a testemunhas ameaçadas, institui o Programa Federal... (Lei nº 12.483, de 8 de setembro de 2011) | 1 | 2011-09-09 to 2011-09-09 |
+| `lei-12484-de-2011` | Dispõe sobre a Política Nacional de Incentivo ao Manejo Sustentado e ao Cultivo do Bambu e dá outras providências (Lei nº 12.484, de 8 de setembro de 2011) | 1 | 2011-09-09 to 2011-09-09 |
+| `lei-12486-de-2011` | Inclui o nome do cidadão Pedro Aleixo na galeria dos que foram ungidos pela Nação Brasileira para a Suprema Magistratura (Lei nº 12.486, de 12 de setembro de 2011) | 1 | 2011-09-13 to 2011-09-13 |
+| `lei-12487-de-2011` | Institui, no âmbito do Ministério da Educação, o plano especial de recuperação da rede física escolar pública, com a finalidade de prestar assistência financeira para recuperação das redes físicas das escolas... (Lei nº 12.487, de 15 de setembro de 2011) | 1 | 2011-09-16 to 2011-09-16 |
+| `lei-12490-de-2011` | Altera as Leis nºs 9.478, de 6 de agosto de 1997, e 9.847, de 26 de outubro de 1999, que dispõem sobre a política e a fiscalização das atividades relativas ao abastecimento nacional de combustíveis (Lei nº 12.490, de 16 de setembro de 2011) | 1 | 2011-09-19 to 2011-09-19 |
+| `lei-12499-de-2011` | Autoriza a União a transferir recursos financeiros aos Municípios e ao Distrito Federal, com a finalidade de prestar apoio financeiro à manutenção de novos estabelecimentos públicos de educação infantil, e dá outras... (Lei nº 12.499, de 29 de setembro de 2011) | 1 | 2011-09-30 to 2011-09-30 |
+| `lei-12501-de-2011` | Autoriza a prorrogação de contratos por tempo determinado firmados com fundamento na alínea "g" do inciso VI do art. 2º da Lei nº 8.745, de 9 de dezembro de 1993, e dá outras providências (Lei nº 12.501, de 7 de outubro de 2011) | 1 | 2011-10-10 to 2011-10-10 |
+| `lei-12505-de-2011` | Concede anistia aos policiais e bombeiros militares dos Estados de Alagoas, da Bahia, do Ceará, de Mato Grosso, de Minas Gerais, de Pernambuco, do Rio de Janeiro, do Rio Grande do Norte, de Rondônia, de Roraima, de... (Lei nº 12.505, de 11 de outubro de 2011) | 1 | 2016-06-02 to 2016-06-02 |
+| `lei-12514-de-2011` | Dá nova redação ao art. 4º da Lei nº 6.932, de 7 de julho de 1981, que dispõe sobre as atividades do médico-residente (Lei nº 12.514, de 28 de outubro de 2011) | 1 | 2021-08-27 to 2021-08-27 |
+| `lei-12522-de-2011` | Altera a Lei nº 12.309, de 9 de agosto de 2010 (Lei nº 12.522, de 11 de novembro de 2011) | 1 | 2011-11-14 to 2011-11-14 |
+| `lei-12544-de-2011` | Altera a redação do art. 12 da Lei nº 605, de 5 de janeiro de 1949, que dispõe sobre o repouso semanal remunerado e o pagamento de salário nos dias feriados civis e religiosos, para atualizar o valor da multa... (Lei nº 12.544, de 8 de dezembro de 2011) | 1 | 2011-12-09 to 2011-12-09 |
+| `lei-12545-de-2011` | Dispõe sobre o Fundo de Financiamento à Exportação (FFEX), altera o art. 1º da Lei nº 12.096, de 24 de novembro de 2009, e as Leis nºs 10.683, de 28 de maio de 2003, 11.529, de 22 de outubro de 2007, 5.966, de 11 de... (Lei nº 12.545, de 14 de dezembro de 2011) | 1 | 2012-08-31 to 2012-08-31 |
+| `lei-12547-de-2011` | Altera o art. 261 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro (Lei nº 12.547, de 14 de dezembro de 2011) | 1 | 2011-12-15 to 2011-12-15 |
+| `lei-12550-de-2011` | Autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Serviços Hospitalares - EBSERH (Lei nº 12.550, de 15 de dezembro de 2011) | 1 | 2013-09-25 to 2013-09-25 |
+| `lei-12589-de-2012` | Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, destinados ao Ministério do Esporte (Lei nº 12.589, de 9 de janeiro de 2012) | 1 | 2012-01-10 to 2012-01-10 |
+| `lei-12590-de-2012` | Altera a Lei nº 8.313, de 23 de dezembro de 1991 – Lei Rouanet – para reconhecer a música gospel e os eventos a ela relacionados como manifestação cultural (Lei nº 12.590, de 9 de janeiro de 2012) | 1 | 2012-01-10 to 2012-01-10 |
+| `lei-12591-de-2012` | Reconhece a profissão de Turismólogo e disciplina o seu exercício (Lei nº 12.591, de 18 de janeiro de 2012) | 1 | 2012-01-19 to 2012-01-19 |
+| `lei-12593-de-2012` | Institui o Plano Plurianual da União para o período de 2012 a 2015 (Lei nº 12.593, de 18 de janeiro de 2012) | 1 | 2012-01-19 to 2012-01-19 |
+| `lei-12594-de-2012` | Institui o Sistema Nacional de Atendimento Socioeducativo (Sinase), regulamenta a execução das medidas socioeducativas destinadas a adolescente que pratique ato infracional (Lei nº 12.594, de 18 de janeiro de 2012) | 1 | 2012-04-18 to 2012-04-18 |
+| `lei-12597-de-2012` | Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, no exercício de 2011, com o objetivo de fomentar as exportações do País (Lei nº 12.597, de 21 de março de 2012) | 1 | 2012-03-22 to 2012-03-22 |
+| `lei-12599-de-2012` | Altera as Leis nºs 10.893, de 13 de julho de 2004, que dispõe sobre o Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e o Fundo da Marinha Mercante - FMM, 11.434, de 28 de dezembro de 2006, 11.196, de... (Lei nº 12.599, de 23 de março de 2012) | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-12601-de-2012` | Cria cargos na Carreira de Diplomata (Lei nº 12.601, de 23 de março de 2012) | 1 | 2012-03-26 to 2012-03-26 |
+| `lei-12602-de-2012` | Institui a Semana e o Dia Nacional da Educação Infantil (Lei nº 12.602, de 3 de abril de 2012) | 1 | 2012-04-04 to 2012-04-04 |
+| `lei-12603-de-2012` | Altera o inciso I do § 4º do art. 80 da Lei nº 9.394, de 20 de dezembro de 1996, para beneficiar a educação a distância com a redução de custos em meios de comunicação que sejam explorados mediante autorização,... (Lei nº 12.603, de 3 de abril de 2012) | 1 | 2012-04-04 to 2012-04-04 |
+| `lei-12604-de-2012` | Institui a Semana Nacional de Controle e Combate à Leishmaniose (Lei nº 12.604, de 3 de abril de 2012) | 1 | 2012-04-04 to 2012-04-04 |
+| `lei-12605-de-2012` | Determina o emprego obrigatório da flexão de gênero para nomear profissão ou grau em diplomas (Lei nº 12.605, de 3 de abril de 2012) | 1 | 2012-04-04 to 2012-04-04 |
+| `lei-12607-de-2012` | Altera o § 1º do art. 1.331 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, no que tange ao critério de fixação da fração ideal e às disposições sobre alienação e locação de abrigos para veículos em... (Lei nº 12.607, de 4 de abril de 2012) | 1 | 2012-05-20 to 2012-05-20 |
+| `lei-12613-de-2012` | Altera a Lei nº 10.735, de 11 de setembro de 2003, que dispõe sobre o direcionamento de depósitos à vista captados pelas instituições financeiras para operações de crédito destinadas à população de baixa renda e a... (Lei nº 12.613, de 18 de abril de 2012) | 1 | 2012-04-19 to 2012-04-19 |
+| `lei-12614-de-2012` | Dispõe sobre a inscrição do nome do Padre Roberto Landell de Moura no Livro dos Heróis da Pátria (Lei nº 12.614, de 27 de abril de 2012) | 1 | 2012-04-30 to 2012-04-30 |
+| `lei-12616-de-2012` | Altera a composição do Tribunal Regional do Trabalho da 3 a Região, cria Varas do Trabalho em sua jurisdição e dá outras providências (Lei nº 12.616, de 30 de abril de 2012) | 1 | 2012-05-02 to 2012-05-02 |
+| `lei-12617-de-2012` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 9a Região e dá outras providências (Lei nº 12.617, de 30 de abril de 2012) | 1 | 2012-05-02 to 2012-05-02 |
+| `lei-12619-de-2012` | Dispõe sobre o exercício da profissão de motorista (Lei nº 12.619, de 30 de abril de 2012) | 1 | 2015-04-17 to 2015-04-17 |
+| `lei-12648-de-2012` | Altera dispositivos das Leis nos 7.920, de 12 de dezembro de 1989, 8.399, de 7 de janeiro de 1992, 9.825, de 23 de agosto de 1999, 12.462, de 5 de agosto de 2011, 6.009, de 26 de dezembro de 1973, e 5.862, de 12 de... (Lei nº 12.648, de 17 de maio de 2012) | 1 | 2021-12-30 to 2021-12-30 |
+| `lei-12650-de-2012` | Altera o Decreto-Lei n o 2.848, de 7 de dezembro de 1940 - Código Penal, com a finalidade de modificar as regras relativas à prescrição dos crimes praticados contra crianças e adolescentes (Lei nº 12.650, de 17 de maio de 2012) | 1 | 2012-05-18 to 2012-05-18 |
+| `lei-12652-de-2012` | Altera a Lei nº 12.337, de 12 de novembro de 2010, para autorizar a prorrogação de contratos por tempo determinado firmados com fundamento na alínea h do inciso VI do caput do art. 2º da Lei nº 8.745, de 9 de... (Lei nº 12.652, de 25 de maio de 2012) | 1 | 2012-05-28 to 2012-05-28 |
+| `lei-12653-de-2012` | Acresce o art. 135-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para tipificar o crime de condicionar atendimento médico-hospitalar emergencial a qualquer garantia e dá outras providências (Lei nº 12.653, de 28 de maio de 2012) | 1 | 2012-05-29 to 2012-05-29 |
+| `lei-12655-de-2012` | Altera o art. 4º da Lei nº 10.931, de 2 de agosto de 2004, e o art. 1º da Lei nº 10.925, de 23 de julho de 2004 (Lei nº 12.655, de 30 de maio de 2012) | 1 | 2012-05-31 to 2012-05-31 |
+| `lei-12656-de-2012` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 1ª Região, define jurisdição e dá outras providências (Lei nº 12.656, de 5 de junho de 2012) | 1 | 2012-06-06 to 2012-06-06 |
+| `lei-12657-de-2012` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 7 a Região e dá outras providências (Lei nº 12.657, de 5 de junho de 2012) | 1 | 2012-06-06 to 2012-06-06 |
+| `lei-12658-de-2012` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 12ª Região e dá outras providências (Lei nº 12.658, de 5 de junho de 2012) | 1 | 2012-06-06 to 2012-06-06 |
+| `lei-12659-de-2012` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 8ª Região e dá outras providências (Lei nº 12.659, de 5 de junho de 2012) | 1 | 2012-06-06 to 2012-06-06 |
+| `lei-12660-de-2012` | Dispõe sobre a criação de 1 (uma) Vara do Trabalho na jurisdição do Tribunal Regional do Trabalho da 23 a Região e dá outras providências (Lei nº 12.660, de 5 de junho de 2012) | 1 | 2012-06-06 to 2012-06-06 |
+| `lei-12661-de-2012` | Dispõe sobre a criação de Vara do Trabalho na jurisdição do Tribunal Regional do Trabalho da 19 a Região e dá outras providências (Lei nº 12.661, de 5 de junho de 2012) | 1 | 2012-06-06 to 2012-06-06 |
+| `lei-12662-de-2012` | Assegura validade nacional à Declaração de Nascido Vivo - DNV, regula sua expedição, altera a Lei nº 6.015, de 31 de dezembro de 1973, e dá outras providências (Lei nº 12.662, de 5 de junho de 2012) | 1 | 2018-06-26 to 2018-06-26 |
+| `lei-12663-de-2012` | Dispõe sobre as medidas relativas à Copa das Confederações FIFA 2013, à Copa do Mundo FIFA 2014 e à Jornada Mundial da Juventude - 2013, que serão realizadas no Brasil (Lei nº 12.663, de 5 de junho de 2012) | 1 | 2013-06-21 to 2013-06-21 |
+| `lei-12664-de-2012` | Dispõe sobre a venda de uniformes das Forças Armadas, dos órgãos de segurança pública, das guardas municipais e das empresas de segurança privada (Lei nº 12.664, de 5 de junho de 2012) | 1 | 2012-06-06 to 2012-06-06 |
+| `lei-12665-de-2012` | Dispõe sobre a criação de estrutura permanente para as Turmas Recursais dos Juizados Especiais Federais (Lei nº 12.665, de 13 de junho de 2012) | 1 | 2012-06-14 to 2012-06-14 |
+| `lei-12667-de-2012` | Altera a Lei nº 11.442, de 5 de janeiro de 2007, que dispõe sobre o transporte rodoviário de cargas por conta de terceiros e mediante remuneração e revoga a Lei nº 6.813, de 10 de julho de 1980, para determinar, no... (Lei nº 12.667, de 15 de junho de 2012) | 1 | 2012-06-18 to 2012-06-18 |
+| `lei-12669-de-2012` | Dispõe sobre a obrigatoriedade de empresas de beneficiamento e comércio de laticínios informarem ao produtor de leite o valor pago pelo produto até o dia 25 (vinte e cinco) de cada mês (Lei nº 12.669, de 19 de junho de 2012) | 1 | 2012-06-20 to 2012-06-20 |
+| `lei-12670-de-2012` | Altera o inciso V do art. 108 da Lei nº 6.880, de 9 de dezembro de 1980, que dispõe sobre o Estatuto dos Militares, para incluir a esclerose múltipla no rol das doenças incapacitantes (Lei nº 12.670, de 19 de junho de 2012) | 1 | 2012-06-20 to 2012-06-20 |
+| `lei-12671-de-2012` | Cria cargos de Advogado da União (Lei nº 12.671, de 19 de junho de 2012) | 1 | 2012-06-20 to 2012-06-20 |
+| `lei-12673-de-2012` | Dispõe sobre a criação de cargos no quadro do Ministério Público Militar (Lei nº 12.673, de 25 de junho de 2012) | 1 | 2012-06-26 to 2012-06-26 |
+| `lei-12674-de-2012` | Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 10ª Região e dá outras providências (Lei nº 12.674, de 25 de junho de 2012) | 1 | 2012-06-26 to 2012-06-26 |
+| `lei-12675-de-2012` | Dispõe sobre a criação de cargos no quadro de pessoal do Tribunal Regional Federal da 2ª Região e dá outras providências (Lei nº 12.675, de 25 de junho de 2012) | 1 | 2012-06-26 to 2012-06-26 |
+| `lei-12676-de-2012` | Transforma cargos de Promotor de Justiça Adjunto em cargos de Procurador de Justiça e de Promotor de Justiça, no âmbito do Ministério Público do Distrito Federal e Territórios (Lei nº 12.676, de 25 de junho de 2012) | 1 | 2012-06-26 to 2012-06-26 |
+| `lei-12677-de-2012` | Dispõe sobre a criação de cargos efetivos, cargos de direção e funções gratificadas no âmbito do Ministério da Educação, destinados às instituições federais de ensino (Lei nº 12.677, de 25 de junho de 2012) | 1 | 2012-12-31 to 2012-12-31 |
+| `lei-12678-de-2012` | Dispõe sobre alterações nos limites dos Parques Nacionais da Amazônia, dos Campos Amazônicos e Mapinguari, das Florestas Nacionais de Itaituba I, Itaituba II e do Crepori e da Área de Proteção Ambiental do Tapajós (Lei nº 12.678, de 25 de junho de 2012) | 1 | 2012-06-26 to 2012-06-26 |
+| `lei-12683-de-2012` | Altera a Lei nº 9.613, de 3 de março de 1998, para tornar mais eficiente a persecução penal dos crimes de lavagem de dinheiro (Lei nº 12.683, de 9 de julho de 2012) | 1 | 2012-07-10 to 2012-07-10 |
+| `lei-12686-de-2012` | Normatiza a divulgação de documentos institucionais produzidos em língua estrangeira, nos sítios e portais da rede mundial de computadores - internet mantidos por órgãos e entidades públicos (Lei nº 12.686, de 18 de julho de 2012) | 1 | 2012-10-17 to 2012-10-17 |
+| `lei-12687-de-2012` | Altera dispositivo da Lei nº 7.116, de 29 de agosto de 1983, para tornar gratuita a emissão de carteira de identidade no caso que menciona (Lei nº 12.687, de 18 de julho de 2012) | 1 | 2012-07-19 to 2012-07-19 |
+| `lei-12688-de-2012` | Autoriza a Centrais Elétricas Brasileiras S.A. (Eletrobras) a adquirir o controle acionário da Celg Distribuição S.A. (Celg D) (Lei nº 12.688, de 18 de julho de 2012) | 1 | 2014-11-14 to 2014-11-14 |
+| `lei-12689-de-2012` | Altera o Decreto-Lei n o 467, de 13 de fevereiro de 1969, para estabelecer o medicamento genérico de uso veterinário (Lei nº 12.689, de 19 de julho de 2012) | 1 | 2012-10-18 to 2012-10-18 |
+| `lei-12691-de-2012` | Cria cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, Gratificações de Representação, Gratificações de Exercício em Cargo de Confiança devidas a militares e Gratificações de Representação pelo... (Lei nº 12.691, de 24 de julho de 2012) | 1 | 2012-07-25 to 2012-07-25 |
+| `lei-12692-de-2012` | Altera os arts. 32 e 80 da Lei nº 8.212, de 24 de julho de 1991, para dispor sobre o acesso do empregado às informações relativas ao recolhimento de suas contribuições ao INSS (Lei nº 12.692, de 24 de julho de 2012) | 1 | 2012-07-25 to 2012-07-25 |
+| `lei-12693-de-2012` | Altera as Leis nºs 12.409, de 25 de maio de 2011, 11.578, de 26 de novembro de 2007, 11.977, de 7 de julho de 2009, 10.188, de 12 de fevereiro de 2001, 10.150, de 21 de dezembro de 2000, 10.637, de 30 de dezembro de... (Lei nº 12.693, de 24 de julho de 2012) | 1 | 2012-07-25 to 2012-07-25 |
+| `lei-12694-de-2012` | Dispõe sobre o processo e o julgamento colegiado em primeiro grau de jurisdição de crimes praticados por organizações criminosas (Lei nº 12.694, de 24 de julho de 2012) | 1 | 2025-10-30 to 2025-10-30 |
+| `lei-12695-de-2012` | Dispõe sobre o apoio técnico ou financeiro da União no âmbito do Plano de Ações Articuladas (Lei nº 12.695, de 25 de julho de 2012) | 1 | 2012-07-26 to 2012-07-26 |
+| `lei-12696-de-2012` | Altera os arts. 132, 134, 135 e 139 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre os Conselhos Tutelares (Lei nº 12.696, de 25 de julho de 2012) | 1 | 2012-07-26 to 2012-07-26 |
+| `lei-12701-de-2012` | Inscreve os nomes de Francisco Barreto de Menezes, João Fernandes Vieira, André Vidal de Negreiros, Henrique Dias, Antônio Filipe Camarão e Antônio Dias Cardoso no Livro dos Heróis da Pátria (Lei nº 12.701, de 6 de agosto de 2012) | 1 | 2012-08-07 to 2012-08-07 |
+| `lei-12703-de-2012` | Altera o art. 12 da Lei nº 8.177, de 1º de março de 1991, que estabelece regras para a desindexação da economia e dá outras providências, o art. 25 da Lei nº 9.514, de 20 de novembro de 1997, que dispõe sobre o... (Lei nº 12.703, de 7 de agosto de 2012) | 1 | 2013-05-16 to 2013-05-16 |
+| `lei-12704-de-2012` | Altera a Lei nº 11.279, de 9 de fevereiro de 2006, que dispõe sobre o ensino na Marinha, no que se refere aos requisitos para ingresso nas Carreiras da Marinha (Lei nº 12.704, de 8 de agosto de 2012) | 1 | 2012-08-09 to 2012-08-09 |
+| `lei-12705-de-2012` | Dispõe sobre os requisitos para ingresso nos cursos de formação de militares de carreira do Exército (Lei nº 12.705, de 8 de agosto de 2012) | 1 | 2019-12-17 to 2019-12-17 |
+| `lei-12706-de-2012` | Autoriza a criação da empresa pública Amazônia Azul Tecnologias de Defesa S.A. - AMAZUL e dá outras providências (Lei nº 12.706, de 8 de agosto de 2012) | 1 | 2012-08-09 to 2012-08-09 |
+| `lei-12709-de-2012` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 3 a Região e dá outras providências (Lei nº 12.709, de 29 de agosto de 2012) | 1 | 2012-08-30 to 2012-08-30 |
+| `lei-12710-de-2012` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 18ª Região (Lei nº 12.710, de 29 de agosto de 2012) | 1 | 2012-10-14 to 2012-10-14 |
+| `lei-12717-de-2012` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 21 a Região (Lei nº 12.717, de 26 de setembro de 2012) | 1 | 2012-09-27 to 2012-09-27 |
+| `lei-12718-de-2012` | Autoriza o Banco Central do Brasil a doar ao Estado de Pernambuco o imóvel que especifica (Lei nº 12.718, de 26 de setembro de 2012) | 1 | 2012-09-27 to 2012-09-27 |
+| `lei-12719-de-2012` | Altera o inciso III do art. 2º da Lei nº 11.476, de 29 de maio de 2007, para permitir que os portadores de diploma de técnico de nível médio em Enologia e os alunos que ingressaram em curso deste nível até 29 de maio... (Lei nº 12.719, de 26 de setembro de 2012) | 1 | 2012-09-27 to 2012-09-27 |
+| `lei-12720-de-2012` | Dispõe sobre o crime de extermínio de seres humanos (Lei nº 12.720, de 27 de setembro de 2012) | 1 | 2012-11-12 to 2012-11-12 |
+| `lei-12721-de-2012` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 6ª Região (Lei nº 12.721, de 2 de outubro de 2012) | 1 | 2012-10-03 to 2012-10-03 |
+| `lei-12723-de-2012` | Altera o Decreto-Lei nº 1.455, de 7 de abril de 1976, que dispõe sobre bagagem de passageiro procedente do exterior, disciplina o regime de entreposto aduaneiro, estabelece normas sobre mercadorias estrangeiras... (Lei nº 12.723, de 9 de outubro de 2012) | 1 | 2012-10-10 to 2012-10-10 |
+| `lei-12726-de-2012` | Acrescenta parágrafo único ao art. 95 da Lei nº 9.099, de 26 de setembro de 1995, para dispor sobre o Juizado Especial Itinerante (Lei nº 12.726, de 16 de outubro de 2012) | 1 | 2012-10-17 to 2012-10-17 |
+| `lei-12727-de-2012` | Altera a Lei nº 12.651, de 25 de maio de 2012, que dispõe sobre a proteção da vegetação nativa (Lei nº 12.727, de 17 de outubro de 2012) | 1 | 2012-10-18 to 2012-10-18 |
+| `lei-12730-de-2012` | Altera o § 2º do art. 3º e revoga o § 3º do art. 3º e o art. 4º, todos do Decreto-Lei nº 467, de 13 de fevereiro de 1969 (Lei nº 12.730, de 14 de novembro de 2012) | 1 | 2012-11-16 to 2012-11-16 |
+| `lei-12731-de-2012` | Institui o Sistema de Proteção ao Programa Nuclear Brasileiro - SIPRON e revoga o Decreto-Lei nº 1.809, de 7 de outubro de 1980 (Lei nº 12.731, de 21 de novembro de 2012) | 1 | 2012-11-22 to 2012-11-22 |
+| `lei-12732-de-2012` | Dispõe sobre o primeiro tratamento de paciente com neoplasia maligna comprovada e estabelece prazo para seu início (Lei nº 12.732, de 22 de novembro de 2012) | 1 | 2025-10-08 to 2025-10-08 |
+| `lei-12733-de-2012` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 14 a Região (Lei nº 12.733, de 22 de novembro de 2012) | 1 | 2012-11-23 to 2012-11-23 |
+| `lei-12734-de-2012` | Modifica as Leis nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, para determinar novas regras de distribuição entre os entes da Federação dos royalties e da participação especial devidos em... (Lei nº 12.734, de 30 de novembro de 2012) | 1 | 2012-11-30 to 2012-11-30 |
+| `lei-12736-de-2012` | Dá nova redação ao art. 387 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para a detração ser considerada pelo juiz que proferir sentença condenatória (Lei nº 12.736, de 30 de novembro de 2012) | 1 | 2012-12-03 to 2012-12-03 |
+| `lei-12740-de-2012` | Altera o art. 193 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a fim de redefinir os critérios para caracterização das atividades ou operações perigosas, e... (Lei nº 12.740, de 8 de dezembro de 2012) | 1 | 2012-12-10 to 2012-12-10 |
+| `lei-12741-de-2012` | Dispõe sobre as medidas de esclarecimento ao consumidor, de que trata o § 5º do artigo 150 da Constituição Federal (Lei nº 12.741, de 8 de dezembro de 2012) | 1 | 2014-06-06 to 2014-06-06 |
+| `lei-12742-de-2012` | Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e de Funções Gratificadas, destinados ao Ministério da Integração Nacional, à Superintendência do Desenvolvimento do... (Lei nº 12.742, de 17 de dezembro de 2012) | 1 | 2012-12-18 to 2012-12-18 |
+| `lei-12743-de-2012` | Altera as Leis n os 10.233, de 5 de junho de 2001, e 12.404, de 4 de maio de 2011, para modificar a denominação da Empresa de Transporte Ferroviário de Alta Velocidade S.A. - ETAV para Empresa de Planejamento e... (Lei nº 12.743, de 19 de dezembro de 2012) | 1 | 2012-12-20 to 2012-12-20 |
+| `lei-12744-de-2012` | Altera o art. 4 o e acrescenta art. 54-A à Lei n o 8.245, de 18 de outubro de 1991, que “dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes”, para dispor sobre a locação nos contratos... (Lei nº 12.744, de 19 de dezembro de 2012) | 1 | 2012-12-20 to 2012-12-20 |
+| `lei-12745-de-2012` | Altera as Leis n os 11.759, de 31 de julho de 2008, que autoriza a criação da empresa pública Centro Nacional de Tecnologia Eletrônica Avançada S.A. - CEITEC, 11.578, de 26 de novembro de 2007, que dispõe sobre a... (Lei nº 12.745, de 19 de dezembro de 2012) | 1 | 2012-12-20 to 2012-12-20 |
+| `lei-12761-de-2012` | Institui o Programa de Cultura do Trabalhador (Lei nº 12.761, de 27 de dezembro de 2012) | 1 | 2013-10-24 to 2013-10-24 |
+| `lei-12762-de-2012` | Dispõe sobre a criação de 3 (três) varas federais no Estado do Amapá e sobre a criação de cargos efetivos e em comissão e funções de confiança nos Quadros de Pessoal da Justiça Federal e do Superior Tribunal de... (Lei nº 12.762, de 27 de dezembro de 2012) | 1 | 2012-12-28 to 2012-12-28 |
+| `lei-12763-de-2012` | Dispõe sobre a criação de cargos de Defensor Público Federal (Lei nº 12.763, de 27 de dezembro de 2012) | 1 | 2012-12-28 to 2012-12-28 |
+| `lei-12765-de-2012` | Altera as Leis nºs 12.468, de 26 de agosto de 2011, e 6.094, de 30 de agosto de 1974 (Lei nº 12.765, de 27 de dezembro de 2012) | 1 | 2013-03-28 to 2013-03-28 |
+| `lei-12766-de-2012` | Altera as Leis n os 11.079, de 30 de dezembro de 2004, que institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública, para dispor sobre o aporte de recursos em... (Lei nº 12.766, de 27 de dezembro de 2012) | 1 | 2023-06-15 to 2023-06-15 |
+| `lei-12767-de-2012` | Dispõe sobre a extinção das concessões de serviço público de energia elétrica e a prestação temporária do serviço e sobre a intervenção para adequação do serviço público de energia elétrica (Lei nº 12.767, de 27 de dezembro de 2012) | 1 | 2013-07-10 to 2013-07-10 |
+| `lei-12770-de-2012` | Dispõe sobre o subsídio do Procurador-Geral da República, referido no inciso XI do art. 37 e no § 4º do art. 39, combinados com o § 2º do art. 127 e a alínea c do inciso I do § 5º do art. 128, todos da Constituição... (Lei nº 12.770, de 28 de dezembro de 2012) | 1 | 2015-01-13 to 2015-01-13 |
+| `lei-12771-de-2012` | Dispõe sobre o subsídio de Ministro do Supremo Tribunal Federal, referido no inciso XV do art. 48 da Constituição Federal, e dá outras providências (Lei nº 12.771, de 28 de dezembro de 2012) | 1 | 2015-01-13 to 2015-01-13 |
+| `lei-12772-de-2012` | Dispõe sobre a estruturação do Plano de Carreiras e Cargos de Magistério Federal (Lei nº 12.772, de 28 de dezembro de 2012) | 1 | 2026-03-31 to 2026-03-31 |
+| `lei-12773-de-2012` | Altera a Lei nº 11.415, de 15 de dezembro de 2006, que dispõe sobre as Carreiras dos Servidores do Ministério Público da União, fixa os valores de sua remuneração e dá outras providências (Lei nº 12.773, de 28 de dezembro de 2012) | 1 | 2012-12-31 to 2012-12-31 |
+| `lei-12774-de-2012` | Altera a Lei nº 11.416, de 15 de dezembro de 2006, que dispõe sobre as Carreiras dos Servidores do Poder Judiciário da União, fixa os valores de sua remuneração e dá outras providências (Lei nº 12.774, de 28 de dezembro de 2012) | 1 | 2012-12-31 to 2012-12-31 |
+| `lei-12776-de-2012` | Altera dispositivos da Lei no 10.356, de 27 de dezembro de 2001, que dispõe sobre o Quadro de Pessoal e o Plano de Carreira do Tribunal de Contas da União e dá outras providências (Lei nº 12.776, de 28 de dezembro de 2012) | 1 | 2012-12-31 to 2012-12-31 |
+| `lei-12777-de-2012` | Altera o Plano de Carreira dos Servidores da Câmara dos Deputados e dá outras providências (Lei nº 12.777, de 28 de dezembro de 2012) | 1 | 2024-09-23 to 2024-09-23 |
+| `lei-12778-de-2012` | Dispõe sobre remuneração e reajuste de Planos de Cargos, Carreiras e Planos Especiais de Cargos do Poder Executivo federal (Lei nº 12.778, de 28 de dezembro de 2012) | 1 | 2012-12-31 to 2012-12-31 |
+| `lei-12781-de-2013` | Altera a Lei no 6.454, de 24 de outubro de 1977, para vedar que pessoa condenada pela exploração de mão de obra escrava seja homenageada na denominação de bens públicos (Lei nº 12.781, de 10 de janeiro de 2013) | 1 | 2013-01-11 to 2013-01-11 |
+| `lei-12782-de-2013` | Dispõe sobre a transformação de cargos no Quadro Permanente da Justiça do Distrito Federal e dos Territórios (Lei nº 12.782, de 10 de janeiro de 2013) | 1 | 2013-01-11 to 2013-01-11 |
+| `lei-12784-de-2013` | Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e de Gratificação por Exercício em Cargo de Confiança nos órgãos da Presidência da República (Lei nº 12.784, de 11 de janeiro de 2013) | 1 | 2013-01-14 to 2013-01-14 |
+| `lei-12785-de-2013` | Dispõe sobre a criação de cargos de provimento efetivo e de cargos em comissão no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 17ª Região (Lei nº 12.785, de 11 de janeiro de 2013) | 1 | 2013-01-14 to 2013-01-14 |
+| `lei-12786-de-2013` | Altera dispositivos da Lei nº 7.831, de 2 de outubro de 1989, que cria o Quadro Complementar de Oficiais do Exército - QCO (Lei nº 12.786, de 11 de janeiro de 2013) | 1 | 2013-01-14 to 2013-01-14 |
+| `lei-12787-de-2013` | Dispõe sobre a Política Nacional de Irrigação (Lei nº 12.787, de 11 de janeiro de 2013) | 1 | 2018-08-07 to 2018-08-07 |
+| `lei-12789-de-2013` | Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios no exercício de 2012, com o objetivo de fomentar as exportações do País (Lei nº 12.789, de 21 de fevereiro de 2013) | 1 | 2013-02-22 to 2013-02-22 |
+| `lei-12790-de-2013` | Dispõe sobre a regulamentação do exercício da profissão de comerciário (Lei nº 12.790, de 14 de março de 2013) | 1 | 2013-03-15 to 2013-03-15 |
+| `lei-12793-de-2013` | Dispõe sobre o Fundo de Desenvolvimento do Centro-Oeste - FDCO (Lei nº 12.793, de 2 de abril de 2013) | 1 | 2013-10-16 to 2013-10-16 |
+| `lei-12794-de-2013` | Altera a Lei no 12.546, de 14 de dezembro de 2011, quanto à contribuição previdenciária de empresas dos setores industriais e de serviços (Lei nº 12.794, de 2 de abril de 2013) | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-12795-de-2013` | Altera a Lei nº 12.708, de 17 de agosto de 2012, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2013 e dá outras providências (Lei nº 12.795, de 2 de abril de 2013) | 1 | 2013-04-03 to 2013-04-03 |
+| `lei-12796-de-2013` | Altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para dispor sobre a formação dos profissionais da educação e dar outras providências (Lei nº 12.796, de 4 de abril de 2013) | 1 | 2013-04-05 to 2013-04-05 |
+| `lei-12797-de-2013` | Dispõe sobre a criação do Quadro de Oficiais de Apoio - QOAp no Corpo de Oficiais da Ativa do Comando da Aeronáutica e dá outras providências (Lei nº 12.797, de 4 de abril de 2013) | 1 | 2013-04-05 to 2013-04-05 |
+| `lei-12799-de-2013` | Dispõe sobre a isenção de pagamento de taxas para inscrição em processos seletivos de ingresso nos cursos das instituições federais de educação superior (Lei nº 12.799, de 10 de abril de 2013) | 1 | 2013-04-11 to 2013-04-11 |
+| `lei-12801-de-2013` | Dispõe sobre o apoio técnico e financeiro da União aos entes federados no âmbito do Pacto Nacional pela Alfabetização na Idade Certa e altera as Leis nºs 5.537, de 21 de novembro de 1968, 8.405, de 9 de janeiro de... (Lei nº 12.801, de 24 de abril de 2013) | 1 | 2013-04-25 to 2013-04-25 |
+| `lei-12802-de-2013` | Altera a Lei nº 9.797, de 6 de maio de 1999, que “dispõe sobre a obrigatoriedade da cirurgia plástica reparadora da mama pela rede de unidades integrantes do Sistema Único de Saúde - SUS nos casos de mutilação... (Lei nº 12.802, de 24 de abril de 2013) | 1 | 2013-04-25 to 2013-04-25 |
+| `lei-12803-de-2013` | Cria cargos nas Carreiras de Delegado de Polícia do Distrito Federal e de Polícia Civil do Distrito Federal, e revoga dispositivos do Decreto-Lei nº 2.266, de 12 de março de 1985, e da Lei nº 8.674, de 6 de julho de 1993 (Lei nº 12.803, de 24 de abril de 2013) | 1 | 2013-04-25 to 2013-04-25 |
+| `lei-12804-de-2013` | Dispõe sobre a remuneração dos militares do Distrito Federal e das Carreiras de Delegado de Polícia do Distrito Federal e de Polícia Civil do Distrito Federal e altera as Leis nºs 11.134, de 15 de julho de 2005,... (Lei nº 12.804, de 24 de abril de 2013) | 1 | 2013-04-25 to 2013-04-25 |
+| `lei-12806-de-2013` | Autoriza para a safra 2011/2012 o pagamento de valor adicional ao Benefício Garantia-Safra, de que trata a Lei nº 10.420, de 10 de abril de 2002 (Lei nº 12.806, de 7 de maio de 2013) | 1 | 2014-06-23 to 2014-06-23 |
+| `lei-12807-de-2013` | Dispõe sobre a criação de cargos de Controlador de Tráfego Aéreo do Grupo-Defesa Aérea e Controle de Tráfego Aéreo (Lei nº 12.807, de 8 de maio de 2013) | 1 | 2013-05-09 to 2013-05-09 |
+| `lei-12808-de-2013` | Dispõe sobre a remuneração das Carreiras de Auditoria da Receita Federal do Brasil e Auditoria-Fiscal do Trabalho, de que trata a Lei nº 10.910, de 15 de julho de 2004 (Lei nº 12.808, de 8 de maio de 2013) | 1 | 2013-05-09 to 2013-05-09 |
+| `lei-12809-de-2013` | Autoriza a prorrogação de contratos por tempo determinado no âmbito do Centro Gestor e Operacional do Sistema de Proteção da Amazônia - CENSIPAM e do Fundo Nacional de Desenvolvimento da Educação - FNDE (Lei nº 12.809, de 15 de maio de 2013) | 1 | 2013-05-16 to 2013-05-16 |
+| `lei-12811-de-2013` | Acrescenta 2 (dois) cargos em comissão no Quadro de Pessoal da Secretaria do Tribunal de Contas da União para provimento em Gabinete de Auditor do Tribunal de Contas da União e dá outras providências (Lei nº 12.811, de 16 de maio de 2013) | 1 | 1995-12-20 to 1995-12-20 |
+| `lei-12812-de-2013` | Acrescenta o art. 391-A à Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre a estabilidade provisória da gestante, prevista na alínea b do inciso II... (Lei nº 12.812, de 16 de maio de 2013) | 1 | 2013-05-17 to 2013-05-17 |
+| `lei-12816-de-2013` | Altera as Leis nºs 12.513, de 26 de outubro de 2011, para ampliar o rol de beneficiários e ofertantes da Bolsa-Formação Estudante, no âmbito do Programa Nacional de Acesso ao Ensino Técnico e Emprego - PRONATEC (Lei nº 12.816, de 5 de junho de 2013) | 1 | 2013-06-06 to 2013-06-06 |
+| `lei-12817-de-2013` | Altera a Lei nº 10.836, de 9 de janeiro de 2004, para ampliar a idade limite de crianças e adolescentes que compõem as unidades familiares beneficiárias do Programa Bolsa Família elegíveis ao recebimento do benefício... (Lei nº 12.817, de 5 de junho de 2013) | 1 | 2013-06-06 to 2013-06-06 |
+| `lei-12818-de-2013` | Dispõe sobre a criação da Universidade Federal do Sul da Bahia - UFESBA, e dá outras providências (Lei nº 12.818, de 5 de junho de 2013) | 1 | 2013-06-06 to 2013-06-06 |
+| `lei-12823-de-2013` | Altera as Leis nºs 8.691, de 28 de julho de 1993, 11.539, de 8 de novembro de 2007 (Lei nº 12.823, de 5 de junho de 2013) | 1 | 2013-06-06 to 2013-06-06 |
+| `lei-12824-de-2013` | Dispõe sobre a criação da Universidade Federal do Sul e Sudeste do Pará - UNIFESSPA, por desmembramento da Universidade Federal do Pará - UFPA, e dá outras providências (Lei nº 12.824, de 5 de junho de 2013) | 1 | 2013-06-06 to 2013-06-06 |
+| `lei-12825-de-2013` | Dispõe sobre a criação da Universidade Federal do Oeste da Bahia - UFOB, por desmembramento da Universidade Federal da Bahia - UFBA, e dá outras providências (Lei nº 12.825, de 5 de junho de 2013) | 1 | 2013-06-06 to 2013-06-06 |
+| `lei-12826-de-2013` | Dispõe sobre a criação da Universidade Federal do Cariri - UFCA, por desmembramento da Universidade Federal do Ceará - UFC, e dá outras providências (Lei nº 12.826, de 5 de junho de 2013) | 1 | 2013-06-06 to 2013-06-06 |
+| `lei-12828-de-2013` | Dispõe sobre a criação de funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 18ª Região e dá outras providências (Lei nº 12.828, de 20 de junho de 2013) | 1 | 2013-06-21 to 2013-06-21 |
+| `lei-12830-de-2013` | Dispõe sobre a investigação criminal conduzida pelo delegado de polícia (Lei nº 12.830, de 20 de junho de 2013) | 1 | 2013-06-21 to 2013-06-21 |
+| `lei-12833-de-2013` | Altera as Leis nºs 12.409, de 25 de maio de 2011, 12.793, de 2 de abril de 2013, que dispõe sobre o Fundo de Desenvolvimento do Centro-Oeste - FDCO, constitui fonte adicional de recursos para ampliação de limites... (Lei nº 12.833, de 20 de junho de 2013) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-12836-de-2013` | Altera os arts. 2º , 32 e 33 da Lei nº 10.257, de 10 de julho de 2001 - Estatuto da Cidade (Lei nº 12.836, de 2 de julho de 2013) | 1 | 2013-07-03 to 2013-07-03 |
+| `lei-12837-de-2013` | Altera as Leis nºs 6.704, de 26 de outubro de 1979, para dispor sobre o Seguro de Crédito à Exportação nas operações relativas a exportações do setor aeronáutico, 11.494, de 20 de junho de 2007, para dispor sobre o... (Lei nº 12.837, de 9 de julho de 2013) | 1 | 2013-07-10 to 2013-07-10 |
+| `lei-12839-de-2013` | Reduz a zero as alíquotas da Contribuição para o PIS/Pasep, da Cofins, da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação incidentes sobre a receita decorrente da venda no mercado interno e sobre a... (Lei nº 12.839, de 9 de julho de 2013) | 1 | 2013-07-10 to 2013-07-10 |
+| `lei-12840-de-2013` | Dispõe sobre a destinação dos bens de valor cultural, artístico ou histórico aos museus, nas hipóteses que descreve (Lei nº 12.840, de 9 de julho de 2013) | 1 | 2013-07-10 to 2013-07-10 |
+| `lei-12841-de-2013` | Altera a Lei nº 9.472, de 16 de julho de 1997 - Lei Geral de Telecomunicações, para estabelecer a possibilidade de utilização das redes de telefonia móvel para localização de pessoas desaparecidas (Lei nº 12.841, de 9 de julho de 2013) | 1 | 2013-07-10 to 2013-07-10 |
+| `lei-12842-de-2013` | Dispõe sobre o exercício da Medicina (Lei nº 12.842, de 10 de julho de 2013) | 1 | 2016-04-14 to 2016-04-14 |
+| `lei-12847-de-2013` | Institui o Sistema Nacional de Prevenção e Combate à Tortura (Lei nº 12.847, de 2 de agosto de 2013) | 1 | 2013-08-05 to 2013-08-05 |
+| `lei-12848-de-2013` | Altera a Lei nº 12.505, de 11 de outubro de 2011, que “concede anistia aos policiais e bombeiros militares dos Estados de Alagoas, da Bahia, do Ceará, de Mato Grosso, de Minas Gerais, de Pernambuco, do Rio de... (Lei nº 12.848, de 2 de agosto de 2013) | 1 | 2013-08-05 to 2013-08-05 |
+| `lei-12854-de-2013` | Fomenta e incentiva ações que promovam a recuperação florestal e a implantação de sistemas agroflorestais em áreas rurais desapropriadas e em áreas degradadas, nos casos que especifica (Lei nº 12.854, de 26 de agosto de 2013) | 1 | 2013-08-27 to 2013-08-27 |
+| `lei-12857-de-2013` | Cria cargos de Especialista em Infraestrutura Sênior, cargos das carreiras de Analista de Infraestrutura, de Especialista em Meio Ambiente e de Analista de Comércio Exterior, cargos nos quadros de pessoal da... (Lei nº 12.857, de 2 de setembro de 2013) | 1 | 2013-09-03 to 2013-09-03 |
+| `lei-12860-de-2013` | Dispõe sobre a redução a 0% (zero por cento) das alíquotas das Contribuições Sociais para o PIS/Pasep e Cofins incidentes sobre as receitas decorrentes da atividade de transporte municipal local (Lei nº 12.860, de 11 de setembro de 2013) | 1 | 2014-11-14 to 2014-11-14 |
+| `lei-12862-de-2013` | Altera a Lei nº 11.445, de 5 de janeiro de 2007, que estabelece diretrizes nacionais para o saneamento básico, com o objetivo de incentivar a economia no consumo de água (Lei nº 12.862, de 17 de setembro de 2013) | 1 | 2013-09-18 to 2013-09-18 |
+| `lei-12863-de-2013` | Altera a Lei nº 12.772, de 28 de dezembro de 2012, que dispõe sobre a estruturação do Plano de Carreiras e Cargos de Magistério Federal (Lei nº 12.863, de 24 de setembro de 2013) | 1 | 2013-09-25 to 2013-09-25 |
+| `lei-12864-de-2013` | Altera o caput do art. 3º da Lei nº 8.080, de 19 de setembro de 1990, incluindo a atividade física como fator determinante e condicionante da saúde (Lei nº 12.864, de 24 de setembro de 2013) | 1 | 2013-09-25 to 2013-09-25 |
+| `lei-12868-de-2013` | Altera a Lei nº 12.793, de 2 de abril de 2013, para dispor sobre o financiamento de bens de consumo duráveis a beneficiários do Programa Minha Casa, Minha Vida (PMCMV) (Lei nº 12.868, de 15 de outubro de 2013) | 1 | 2013-10-16 to 2013-10-16 |
+| `lei-12869-de-2013` | Dispõe sobre o exercício da atividade e a remuneração do permissionário lotérico e dá outras providências (Lei nº 12.869, de 15 de outubro de 2013) | 1 | 2015-10-23 to 2015-10-23 |
+| `lei-12870-de-2013` | Dispõe sobre o exercício da atividade profissional de vaqueiro (Lei nº 12.870, de 15 de outubro de 2013) | 1 | 2013-10-16 to 2013-10-16 |
+| `lei-12872-de-2013` | Altera a Lei nº 10.552, de 13 de novembro de 2002, para dispor sobre a concessão de garantia da União a entidades controladas indiretamente pelos entes da Federação (Lei nº 12.872, de 24 de outubro de 2013) | 1 | 2013-10-24 to 2013-10-24 |
+| `lei-12875-de-2013` | Altera as Leis nos 9.096, de 19 de setembro de 1995, e 9.504, de 30 de setembro de 1997, nos termos que especifica (Lei nº 12.875, de 30 de outubro de 2013) | 1 | 2013-10-31 to 2013-10-31 |
+| `lei-12878-de-2013` | Altera a Lei no 6.815, de 19 de agosto de 1980 (Estatuto do Estrangeiro), para estabelecer nova disciplina à prisão cautelar para fins de extradição (Lei nº 12.878, de 4 de novembro de 2013) | 1 | 2013-11-05 to 2013-11-05 |
+| `lei-12879-de-2013` | Dispõe sobre a gratuidade dos atos de registro, pelas associações de moradores, necessários à adaptação estatutária à Lei no 10.406, de 10 de janeiro de 2002 - Código Civil, e para fins de enquadramento dessas... (Lei nº 12.879, de 5 de novembro de 2013) | 1 | 2013-11-06 to 2013-11-06 |
+| `lei-12881-de-2013` | Dispõe sobre a definição, qualificação, prerrogativas e finalidades das Instituições Comunitárias de Educação Superior - ICES, disciplina o Termo de Parceria e dá outras providências (Lei nº 12.881, de 12 de novembro de 2013) | 1 | 2013-11-13 to 2013-11-13 |
+| `lei-12883-de-2013` | Dispõe sobre a criação de cargos de membro, cargos efetivos, cargos em comissão e funções de confiança no âmbito do Ministério Público do Trabalho (Lei nº 12.883, de 21 de novembro de 2013) | 1 | 2013-11-22 to 2013-11-22 |
+| `lei-12886-de-2013` | Acrescenta § 7º ao art. 1º da Lei nº 9.870, de 23 de novembro de 1999, dispondo sobre nulidade de cláusula contratual que obrigue o contratante a pagamento adicional ou a fornecimento de qualquer material escolar de... (Lei nº 12.886, de 26 de novembro de 2013) | 1 | 2013-11-27 to 2013-11-27 |
+| `lei-12887-de-2013` | Revoga o § 4º do art. 107 da Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica) (Lei nº 12.887, de 26 de novembro de 2013) | 1 | 2013-11-27 to 2013-11-27 |
+| `lei-12890-de-2013` | Altera a Lei no 6.894, de 16 de dezembro de 1980, para incluir os remineralizadores como uma categoria de insumo destinado à agricultura, e dá outras providências (Lei nº 12.890, de 10 de dezembro de 2013) | 1 | 2013-12-11 to 2013-12-11 |
+| `lei-12891-de-2013` | Altera as Leis nºs 4.737, de 15 de julho de 1965, 9.096, de 19 de setembro de 1995, e 9.504, de 30 de setembro de 1997, para diminuir o custo das campanhas eleitorais, e revoga dispositivos das Leis nºs 4.737, de 15... (Lei nº 12.891, de 11 de dezembro de 2013) | 1 | 2013-12-12 to 2013-12-12 |
+| `lei-12894-de-2013` | Acrescenta inciso V ao art. 1o da Lei no 10.446, de 8 de maio de 2002, para prever a atribuição da Polícia Federal para apurar os crimes de falsificação, corrupção e adulteração de medicamentos, assim como sua venda,... (Lei nº 12.894, de 17 de dezembro de 2013) | 1 | 2013-12-18 to 2013-12-18 |
+| `lei-12895-de-2013` | Altera a Lei nº 8.080, de 19 de setembro de 1990, obrigando os hospitais de todo o País a manter, em local visível de suas dependências, aviso informando sobre o direito da parturiente a acompanhante (Lei nº 12.895, de 18 de dezembro de 2013) | 1 | 2013-12-19 to 2013-12-19 |
+| `lei-12896-de-2013` | Acrescenta os §§ 5º e 6º ao art. 15 da Lei nº 10.741, de 1º de outubro de 2003, vedando a exigência de comparecimento do idoso enfermo aos órgãos públicos e assegurando-lhe o atendimento domiciliar para obtenção de... (Lei nº 12.896, de 18 de dezembro de 2013) | 1 | 2013-12-19 to 2013-12-19 |
+| `lei-12899-de-2013` | Altera o art. 42 da Lei nº 10.741, de 1º de outubro 2003, que institui o Estatuto do Idoso, para dispor sobre a prioridade e a segurança do idoso nos procedimentos de embarque e desembarque nos veículos de transporte... (Lei nº 12.899, de 18 de dezembro de 2013) | 1 | 2013-12-19 to 2013-12-19 |
+| `lei-12900-de-2013` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 1ª Região (Lei nº 12.900, de 18 de dezembro de 2013) | 1 | 2013-12-19 to 2013-12-19 |
+| `lei-12901-de-2013` | Altera o caput do art. 2º e o Anexo IV.1 da Lei nº 12.708, de 17 de agosto de 2012, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2013 e dá outras providências (Lei nº 12.901, de 18 de dezembro de 2013) | 1 | 2013-12-19 to 2013-12-19 |
+| `lei-12918-de-2013` | Altera o art. 1º da Lei nº 7.150, de 1º de dezembro de 1983, que fixa os efetivos do Exército em tempo de paz (Lei nº 12.918, de 20 de dezembro de 2013) | 1 | 2013-12-23 to 2013-12-23 |
+| `lei-12922-de-2013` | Dispõe sobre a transformação de funções comissionadas em cargos em comissão, no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 3ª Região (Lei nº 12.922, de 26 de dezembro de 2013) | 1 | 2013-12-27 to 2013-12-27 |
+| `lei-12923-de-2013` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Superior do Trabalho (Lei nº 12.923, de 26 de dezembro de 2013) | 1 | 2013-12-27 to 2013-12-27 |
+| `lei-12924-de-2013` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 15ª Região (Lei nº 12.924, de 26 de dezembro de 2013) | 1 | 2013-12-27 to 2013-12-27 |
+| `lei-12925-de-2013` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 22ª Região (Lei nº 12.925, de 26 de dezembro de 2013) | 1 | 2013-12-27 to 2013-12-27 |
+| `lei-12926-de-2013` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 4ª Região (Lei nº 12.926, de 26 de dezembro de 2013) | 1 | 2013-12-27 to 2013-12-27 |
+| `lei-12927-de-2013` | Dispõe sobre a criação de cargos no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 9ª Região (Lei nº 12.927, de 26 de dezembro de 2013) | 1 | 2013-12-27 to 2013-12-27 |
+| `lei-12928-de-2013` | Dispõe sobre a criação de funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 5ª Região e dá outras providências (Lei nº 12.928, de 26 de dezembro de 2013) | 1 | 2013-12-27 to 2013-12-27 |
+| `lei-12929-de-2013` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 8ª Região (Lei nº 12.929, de 26 de dezembro de 2013) | 1 | 2013-12-27 to 2013-12-27 |
+| `lei-12930-de-2013` | Altera a Lei nº 10.771, de 21 de novembro de 2003, na parte que dispõe sobre a criação de Procuradorias da República em Municípios no âmbito do Ministério Público Federal (Lei nº 12.930, de 26 de dezembro de 2013) | 1 | 2013-12-27 to 2013-12-27 |
+| `lei-12931-de-2013` | Dispõe sobre a criação de cargos de membro e cargos em comissão, no âmbito do Ministério Público Federal (Lei nº 12.931, de 26 de dezembro de 2013) | 1 | 2013-12-27 to 2013-12-27 |
+| `lei-12933-de-2013` | Dispõe sobre o benefício do pagamento de meia-entrada para estudantes, idosos, pessoas com deficiência e jovens de 15 a 29 anos comprovadamente carentes em espetáculos artístico-culturais e esportivos, e revoga a... (Lei nº 12.933, de 26 de dezembro de 2013) | 1 | 2019-09-09 to 2019-09-09 |
+| `lei-12934-de-2013` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Conselho Superior da Justiça do Trabalho (Lei nº 12.934, de 27 de dezembro de 2013) | 1 | 2013-12-30 to 2013-12-30 |
+| `lei-12935-de-2013` | Transforma cargos vagos do Plano special de Cargos da Cultura, alocados no Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN (Lei nº 12.935, de 27 de dezembro de 2013) | 1 | 2013-12-30 to 2013-12-30 |
+| `lei-12953-de-2014` | Altera o Anexo I à Lei nº 12.593, de 18 de janeiro de 2012, que institui o Plano Plurianual da União para o período de 2012 a 2015 (Lei nº 12.953, de 5 de fevereiro de 2014) | 1 | 2014-02-06 to 2014-02-06 |
+| `lei-12955-de-2014` | Acrescenta § 9º ao art. 47 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer prioridade de tramitação aos processos de adoção em que o adotando for criança ou... (Lei nº 12.955, de 5 de fevereiro de 2014) | 1 | 2014-02-06 to 2014-02-06 |
+| `lei-12957-de-2014` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 12a Região (Lei nº 12.957, de 19 de março de 2014) | 1 | 2014-03-20 to 2014-03-20 |
+| `lei-12958-de-2014` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 20a Região (Lei nº 12.958, de 19 de março de 2014) | 1 | 2014-03-20 to 2014-03-20 |
+| `lei-12959-de-2014` | Altera a Lei no 7.678, de 8 de novembro de 1988, para tipificar o vinho produzido por agricultor familiar ou empreendedor familiar rural, estabelecer requisitos e limites para a sua produção e comercialização e... (Lei nº 12.959, de 19 de março de 2014) | 1 | 2014-03-20 to 2014-03-20 |
+| `lei-12960-de-2014` | Altera a Lei no 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para fazer constar a exigência de manifestação de órgão normativo do sistema de ensino para o fechamento de... (Lei nº 12.960, de 27 de março de 2014) | 1 | 2014-03-28 to 2014-03-28 |
+| `lei-12961-de-2014` | Altera a Lei no 11.343, de 23 de agosto de 2006, para dispor sobre a destruição de drogas apreendidas (Lei nº 12.961, de 4 de abril de 2014) | 1 | 2014-04-07 to 2014-04-07 |
+| `lei-12962-de-2014` | Altera a Lei no 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para assegurar a convivência da criança e do adolescente com os pais privados de liberdade (Lei nº 12.962, de 8 de abril de 2014) | 1 | 2014-04-09 to 2014-04-09 |
+| `lei-12963-de-2014` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 24a Região (Lei nº 12.963, de 8 de abril de 2014) | 1 | 2014-04-09 to 2014-04-09 |
+| `lei-12966-de-2014` | Altera a Lei no 7.347, de 24 de julho de 1985 (Lei da Ação Civil Pública), para incluir a proteção à honra e à dignidade de grupos raciais, étnicos ou religiosos (Lei nº 12.966, de 24 de abril de 2014) | 1 | 2014-04-25 to 2014-04-25 |
+| `lei-12968-de-2014` | Estabelece procedimento alternativo para a concessão de visto de turismo a estrangeiro e altera os arts. 9o, 10 e 56 da Lei no 6.815, de 19 de agosto de 1980 (Lei nº 12.968, de 6 de maio de 2014) | 1 | 2014-05-07 to 2014-05-07 |
+| `lei-12970-de-2014` | Altera o Capítulo VI do Título III e o art. 302 e revoga os arts. 89, 91 e 92 da Lei no 7.565, de 19 de dezembro de 1986 - Código Brasileiro de Aeronáutica, para dispor sobre as investigações do Sistema de... (Lei nº 12.970, de 8 de maio de 2014) | 1 | 2014-05-09 to 2014-05-09 |
+| `lei-12974-de-2014` | Dispõe sobre as atividades das Agências de Turismo (Lei nº 12.974, de 15 de maio de 2014) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-12976-de-2014` | Altera o § 3º do art. 59 da Lei nº 9.504, de 30 de setembro de 1997, para estabelecer a ordem dos painéis na urna eletrônica (Lei nº 12.976, de 19 de maio de 2014) | 1 | 2014-05-20 to 2014-05-20 |
+| `lei-12978-de-2014` | Altera o nome jurídico do art. 218-B do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal (Lei nº 12.978, de 21 de maio de 2014) | 1 | 2014-05-22 to 2014-05-22 |
+| `lei-12979-de-2014` | Constitui fonte adicional de recursos para o Banco Nacional de Desenvolvimento Econômico e Social - BNDES (Lei nº 12.979, de 27 de maio de 2014) | 1 | 2014-05-28 to 2014-05-28 |
+| `lei-12980-de-2014` | Altera a Lei no 12.462, de 4 de agosto de 2011, que institui o Regime Diferenciado de Contratações Públicas - RDC e dá outras providências (Lei nº 12.980, de 28 de maio de 2014) | 1 | 2014-05-29 to 2014-05-29 |
+| `lei-12981-de-2014` | Dispõe sobre a oficialização no território nacional do Hino à Negritude (Lei nº 12.981, de 28 de maio de 2014) | 1 | 2014-05-29 to 2014-05-29 |
+| `lei-12982-de-2014` | Altera a Lei no 11.947, de 16 de junho de 2009, para determinar o provimento de alimentação escolar adequada aos alunos portadores de estado ou de condição de saúde específica (Lei nº 12.982, de 28 de maio de 2014) | 1 | 2014-08-27 to 2014-08-27 |
+| `lei-12983-de-2014` | Altera a Lei no 12.340, de 1o de dezembro de 2010, para dispor sobre as transferências de recursos da União aos órgãos e entidades dos Estados, Distrito Federal e Municípios para a execução de ações de prevenção em... (Lei nº 12.983, de 2 de junho de 2014) | 1 | 2014-06-03 to 2014-06-03 |
+| `lei-12984-de-2014` | Define o crime de discriminação dos portadores do vírus da imunodeficiência humana (HIV) e doentes de aids (Lei nº 12.984, de 2 de junho de 2014) | 1 | 2014-06-03 to 2014-06-03 |
+| `lei-12986-de-2014` | Transforma o Conselho de Defesa dos Direitos da Pessoa Humana em Conselho Nacional dos Direitos Humanos - CNDH (Lei nº 12.986, de 2 de junho de 2014) | 1 | 2014-06-03 to 2014-06-03 |
+| `lei-12987-de-2014` | Dispõe sobre a criação do Dia Nacional de Tereza de Benguela e da Mulher Negra (Lei nº 12.987, de 2 de junho de 2014) | 1 | 2014-06-03 to 2014-06-03 |
+| `lei-12991-de-2014` | Dispõe sobre a criação de cargos de provimento efetivo e em comissão e de funções comissionadas destinados ao Quadro de Pessoal do Superior Tribunal de Justiça e dá outras providências (Lei nº 12.991, de 17 de junho de 2014) | 1 | 2014-06-18 to 2014-06-18 |
+| `lei-12992-de-2014` | Cria cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS no âmbito do Poder Executivo federal, destinados ao Ministério da Cultura (Lei nº 12.992, de 17 de junho de 2014) | 1 | 2014-06-18 to 2014-06-18 |
+| `lei-12993-de-2014` | Altera a Lei nº 10.826, de 22 de dezembro de 2003, para conceder porte de arma funcional (Lei nº 12.993, de 17 de junho de 2014) | 1 | 2014-06-18 to 2014-06-18 |
+| `lei-12994-de-2014` | Altera a Lei no 11.350, de 5 de outubro de 2006, para instituir piso salarial profissional nacional e diretrizes para o plano de carreira dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias (Lei nº 12.994, de 17 de junho de 2014) | 1 | 2014-06-18 to 2014-06-18 |
+| `lei-12995-de-2014` | Prorroga o prazo para a destinação de recursos aos Fundos Fiscais de Investimentos, altera a legislação tributária federal (Lei nº 12.995, de 18 de junho de 2014) | 1 | 2019-11-06 to 2019-11-06 |
+| `lei-12996-de-2014` | Altera as Leis nos 12.715, de 17 de setembro de 2012, que institui o Programa de Incentivo à Inovação Tecnológica e Adensamento da Cadeia Produtiva de Veículos Automotores - INOVAR-AUTO, 12.873, de 24 de outubro de... (Lei nº 12.996, de 18 de junho de 2014) | 1 | 2014-11-14 to 2014-11-14 |
+| `lei-12997-de-2014` | Acrescenta § 4o ao art. 193 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943, para considerar perigosas as atividades de trabalhador em motocicleta (Lei nº 12.997, de 18 de junho de 2014) | 1 | 2014-06-20 to 2014-06-20 |
+| `lei-12998-de-2014` | Dispõe sobre remuneração das Carreiras e dos Planos Especiais de Cargos das Agências Reguladoras, das Carreiras e do Plano Especial de Cargos do Departamento Nacional de Infraestrutura de Transportes - DNIT, das... (Lei nº 12.998, de 18 de junho de 2014) | 1 | 2014-06-20 to 2014-06-20 |
+| `lei-12999-de-2014` | Dispõe sobre a ampliação do valor do Benefício Garantia-Safra para a safra de 2012/2013 e sobre a ampliação do Auxílio Emergencial Financeiro relativo aos desastres ocorridos em 2012 (Lei nº 12.999, de 18 de junho de 2014) | 1 | 2014-06-20 to 2014-06-20 |
+| `lei-13000-de-2014` | Altera as Leis nos 12.096, de 24 de novembro de 2009, que autoriza a concessão de subvenção econômica sob a modalidade de equalização de taxas de juros pela União, e 12.409, de 25 de maio de 2011, que autoriza o... (Lei nº 13.000, de 18 de junho de 2014) | 1 | 2014-06-20 to 2014-06-20 |
+| `lei-13003-de-2014` | Altera a Lei no 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, com a redação dada pela Medida Provisória no 2.177-44, de 24 de agosto de 2001, para tornar... (Lei nº 13.003, de 24 de junho de 2014) | 1 | 2001-08-27 to 2001-08-27 |
+| `lei-13004-de-2014` | Altera os arts. 1o, 4o e 5o da Lei no 7.347, de 24 de julho de 1985, para incluir, entre as finalidades da ação civil pública, a proteção do patrimônio público e social (Lei nº 13.004, de 24 de junho de 2014) | 1 | 2014-08-24 to 2014-08-24 |
+| `lei-13006-de-2014` | Acrescenta § 8o ao art. 26 da Lei no 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para obrigar a exibição de filmes de produção nacional nas escolas de educação básica (Lei nº 13.006, de 26 de junho de 2014) | 1 | 2014-06-27 to 2014-06-27 |
+| `lei-13007-de-2014` | Autoriza a Fundação Universidade Federal da Grande Dourados - UFGD a alienar, por meio de doação, imóvel à Fundação Universidade Estadual de Mato Grosso do Sul - UEMS (Lei nº 13.007, de 26 de junho de 2014) | 1 | 2014-06-27 to 2014-06-27 |
+| `lei-13008-de-2014` | Dá nova redação ao art. 334 do Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal e acrescenta-lhe o art. 334-A (Lei nº 13.008, de 26 de junho de 2014) | 1 | 2014-06-27 to 2014-06-27 |
+| `lei-13009-de-2014` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 16a Região (Lei nº 13.009, de 26 de junho de 2014) | 1 | 2014-06-27 to 2014-06-27 |
+| `lei-13010-de-2014` | Altera a Lei no 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer o direito da criança e do adolescente de serem educados e cuidados sem o uso de castigos físicos ou de tratamento... (Lei nº 13.010, de 26 de junho de 2014) | 1 | 2014-06-27 to 2014-06-27 |
+| `lei-13011-de-2014` | Autoriza o Banco Central do Brasil a alienar à Companhia de Desenvolvimento Urbano da Região do Porto do Rio de Janeiro S.A. - CDURP os imóveis que especifica (Lei nº 13.011, de 16 de julho de 2014) | 1 | 2014-07-17 to 2014-07-17 |
+| `lei-13014-de-2014` | Altera as Leis no 8.742, de 7 de dezembro de 1993, e no 12.512, de 14 de outubro de 2011, para determinar que os benefícios monetários nelas previstos sejam pagos preferencialmente à mulher responsável pela unidade... (Lei nº 13.014, de 21 de julho de 2014) | 1 | 2014-10-20 to 2014-10-20 |
+| `lei-13015-de-2014` | Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943, para dispor sobre o processamento de recursos no âmbito da Justiça do Trabalho (Lei nº 13.015, de 21 de julho de 2014) | 1 | 2014-09-20 to 2014-09-20 |
+| `lei-13020-de-2014` | Cria, em caráter temporário, as Funções Comissionadas de Grandes Eventos - FCGE e extingue Funções Comissionadas Técnicas - FCT (Lei nº 13.020, de 6 de agosto de 2014) | 1 | 2014-08-07 to 2014-08-07 |
+| `lei-13021-de-2014` | Dispõe sobre o exercício e a fiscalização das atividades farmacêuticas (Lei nº 13.021, de 8 de agosto de 2014) | 1 | 2014-08-11 to 2014-08-11 |
+| `lei-13022-de-2014` | Dispõe sobre o Estatuto Geral das Guardas Municipais (Lei nº 13.022, de 8 de agosto de 2014) | 1 | 2014-08-11 to 2014-08-11 |
+| `lei-13023-de-2014` | Altera as Leis nº s 8.248, de 23 de outubro de 1991, e 8.387, de 30 de dezembro de 1991, e revoga dispositivo da Lei nº 10.176, de 11 de janeiro de 2001, para dispor sobre a prorrogação de prazo dos benefícios... (Lei nº 13.023, de 8 de agosto de 2014) | 1 | 2014-08-11 to 2014-08-11 |
+| `lei-13025-de-2014` | Altera o art. 1º da Lei nº 10.714, de 13 de agosto de 2003, que autoriza o Poder Executivo a disponibilizar, em âmbito nacional, número telefônico destinado a atender denúncias de violência contra a mulher (Lei nº 13.025, de 3 de setembro de 2014) | 1 | 2014-09-04 to 2014-09-04 |
+| `lei-13026-de-2014` | Altera as Leis nºs 10.410, de 11 de janeiro de 2002, que cria e disciplina a Carreira de Especialista em Meio Ambiente, e 11.357, de 19 de outubro de 2006, na parte em que dispõe sobre o Plano Especial de Cargos do... (Lei nº 13.026, de 3 de setembro de 2014) | 1 | 2014-09-04 to 2014-09-04 |
+| `lei-13028-de-2014` | Dispõe sobre a criação de funções comissionadas e de cargos em comissão no Quadro de Pessoal da Secretaria do Supremo Tribunal Federal (Lei nº 13.028, de 24 de setembro de 2014) | 1 | 2014-09-25 to 2014-09-25 |
+| `lei-13029-de-2014` | Dispõe sobre a criação de cargos em comissão e funções de confiança no Quadro de Pessoal da Secretaria do Supremo Tribunal Federal (Lei nº 13.029, de 24 de setembro de 2014) | 1 | 2014-09-25 to 2014-09-25 |
+| `lei-13030-de-2014` | Altera o § 9º do art. 8º-E da Lei nº 11.530, de 24 de outubro de 2007, para incluir os agentes de trânsito entre os beneficiários do projeto Bolsa-Formação (Lei nº 13.030, de 24 de setembro de 2014) | 1 | 2014-09-25 to 2014-09-25 |
+| `lei-13031-de-2014` | Dispõe sobre a caracterização de símbolo que permita a identificação de local ou serviço habilitado ao uso por pessoas com ostomia, denominado Símbolo Nacional de Pessoa Ostomizada (Lei nº 13.031, de 24 de setembro de 2014) | 1 | 2014-09-25 to 2014-09-25 |
+| `lei-13032-de-2014` | Dispõe sobre a criação do quadro de pessoal, dos cargos efetivos, dos cargos em comissão e das funções de confiança da Escola Superior do Ministério Público da União, e dá outras providências (Lei nº 13.032, de 24 de setembro de 2014) | 1 | 2014-09-25 to 2014-09-25 |
+| `lei-13034-de-2014` | Dispõe sobre a reestruturação da Carreira Policial Federal, alterando a Lei nº 9.266, de 15 de março de 1996, e sobre a remuneração da Carreira de Perito Federal Agrário, alterando a Lei nº 10.550, de 13 de novembro... (Lei nº 13.034, de 28 de outubro de 2014) | 1 | 2014-10-29 to 2014-10-29 |
+| `lei-13045-de-2014` | Altera as Leis nºs 9.263, de 12 de janeiro de 1996, que “regula o § 7º do art. 226 da Constituição Federal, que trata do planejamento familiar, estabelece penalidades e dá outras providências”, e 10.289, de 20 de... (Lei nº 13.045, de 25 de novembro de 2014) | 1 | 2014-11-26 to 2014-11-26 |
+| `lei-13046-de-2014` | Altera a Lei nº 8.069, de 13 de julho de 1990, que “dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências”, para obrigar entidades a terem, em seus quadros, pessoal capacitado para reconhecer e... (Lei nº 13.046, de 1º de dezembro de 2014) | 1 | 2014-12-02 to 2014-12-02 |
+| `lei-13047-de-2014` | Altera as Leis nºs 9.266, de 15 de março de 1996, que reorganiza as classes da Carreira Policial Federal, fixa a remuneração dos cargos que as integram e dá outras providências, e 9.264, de 7 de fevereiro de 1996 (Lei nº 13.047, de 2 de dezembro de 2014) | 1 | 2014-12-03 to 2014-12-03 |
+| `lei-13048-de-2014` | Transforma os cargos de Auxiliar Judiciário em cargos de Técnico Judiciário e de Analista Judiciário no Quadro Permanente da Justiça do Distrito Federal e dos Territórios (Lei nº 13.048, de 2 de dezembro de 2014) | 1 | 2014-12-03 to 2014-12-03 |
+| `lei-13049-de-2014` | Transforma os cargos de Juiz de Direito em Juiz de Direito de Turma Recursal no Quadro Permanente da Justiça do Distrito Federal e dos Territórios (Lei nº 13.049, de 2 de dezembro de 2014) | 1 | 2021-10-18 to 2021-10-18 |
+| `lei-13051-de-2014` | Altera a Lei nº 10.891, de 9 de julho de 2004, que institui a Bolsa-Atleta, para incluir a não violação de regras antidoping como requisito adicional a ser cumprido por atletas candidatos ao benefício e instituir... (Lei nº 13.051, de 8 de dezembro de 2014) | 1 | 2014-12-09 to 2014-12-09 |
+| `lei-13052-de-2014` | Altera o art. 25 da Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente e dá outras providências, para determinar... (Lei nº 13.052, de 8 de dezembro de 2014) | 1 | 2014-12-09 to 2014-12-09 |
+| `lei-13053-de-2014` | Altera a lei nº 12.919, de 24 de dezembro de 2013, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2014 (Lei nº 13.053, de 15 de dezembro de 2014) | 1 | 2014-12-15 to 2014-12-15 |
+| `lei-13057-de-2014` | Cria cargos de provimento efetivo, em comissão e funções comissionadas no Tribunal de Justiça do Distrito Federal e dos Territórios - TJDFT (Lei nº 13.057, de 22 de dezembro de 2014) | 1 | 2014-12-23 to 2014-12-23 |
+| `lei-13058-de-2014` | Altera os arts. 1.583, 1.584, 1.585 e 1.634 da Lei no 10.406, de 10 de janeiro de 2002 (Código Civil), para estabelecer o significado da expressão “guarda compartilhada” e dispor sobre sua aplicação (Lei nº 13.058, de 22 de dezembro de 2014) | 1 | 2014-12-23 to 2014-12-23 |
+| `lei-13060-de-2014` | Disciplina o uso dos instrumentos de menor potencial ofensivo pelos agentes de segurança pública, em todo o território nacional (Lei nº 13.060, de 22 de dezembro de 2014) | 1 | 2014-12-23 to 2014-12-23 |
+| `lei-13063-de-2014` | Altera a Lei nº 8.213, de 24 de julho de 1991, para isentar o aposentado por invalidez e o pensionista inválido beneficiários do Regime Geral da Previdência Social - RGPS de se submeterem a exame médico-pericial após... (Lei nº 13.063, de 30 de dezembro de 2014) | 1 | 2014-12-31 to 2014-12-31 |
+| `lei-13064-de-2014` | Altera a nomenclatura do cargo de Agente Penitenciário da Carreira de Polícia Civil do Distrito Federal, de que trata a Lei nº 9.264, de 7 de fevereiro de 1996, para Agente Policial de Custódia (Lei nº 13.064, de 30 de dezembro de 2014) | 1 | 2014-12-31 to 2014-12-31 |
+| `lei-13065-de-2014` | Concede auxílio especial e bolsa especial de educação aos dependentes dos militares da Marinha do Brasil falecidos no acidente ocorrido em fevereiro de 2012 na Estação Antártica Comandante Ferraz - EACF (Lei nº 13.065, de 30 de dezembro de 2014) | 1 | 2014-12-31 to 2014-12-31 |
+| `lei-13067-de-2014` | Altera a Lei nº 12.919, de 24 de dezembro de 2013, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2014 e dá outras providências (Lei nº 13.067, de 30 de dezembro de 2014) | 1 | 2014-12-31 to 2014-12-31 |
+| `lei-13081-de-2015` | Dispõe sobre a construção e a operação de eclusas ou de outros dispositivos de transposição hidroviária de níveis em vias navegáveis e potencialmente navegáveis (Lei nº 13.081, de 2 de janeiro de 2015) | 1 | 2015-01-05 to 2015-01-05 |
+| `lei-13085-de-2015` | Dispõe sobre o Dia Nacional de Atenção à Dislexia (Lei nº 13.085, de 8 de janeiro de 2015) | 1 | 2015-01-09 to 2015-01-09 |
+| `lei-13086-de-2015` | Institui, no Calendário Oficial do Governo Federal, o Dia da Conquista do Voto Feminino no Brasil (Lei nº 13.086, de 8 de janeiro de 2015) | 1 | 2015-01-09 to 2015-01-09 |
+| `lei-13088-de-2015` | Dispõe sobre a criação de 1 (uma) vara federal no Estado do Paraná e sobre a criação de cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá outras providências (Lei nº 13.088, de 12 de janeiro de 2015) | 1 | 2015-01-13 to 2015-01-13 |
+| `lei-13090-de-2015` | Altera os limites do Parque Nacional das Nascentes do Rio Parnaíba, nos Estados do Piauí, Maranhão, Bahia e Tocantins, criado pelo Decreto s/nº de 16 de julho de 2002 (Lei nº 13.090, de 12 de janeiro de 2015) | 1 | 2015-01-13 to 2015-01-13 |
+| `lei-13091-de-2015` | Dispõe sobre o subsídio de Ministro do Supremo Tribunal Federal, referido no inciso XV do art. 48 da Constituição Federal (Lei nº 13.091, de 12 de janeiro de 2015) | 1 | 2015-01-13 to 2015-01-13 |
+| `lei-13092-de-2015` | Dispõe sobre o subsídio do Procurador-Geral da República, referido no inciso XI do art. 37 e no § 4º do art. 39, combinados com o § 2º do art. 127 e a alínea c do inciso I do § 5º do art. 128, todos da Constituição... (Lei nº 13.092, de 12 de janeiro de 2015) | 1 | 2015-01-13 to 2015-01-13 |
+| `lei-13093-de-2015` | Institui a gratificação por exercício cumulativo de jurisdição aos membros da Justiça Federal e dá outras providências (Lei nº 13.093, de 12 de janeiro de 2015) | 1 | 2015-01-13 to 2015-01-13 |
+| `lei-13094-de-2015` | Institui a Gratificação por Exercício Cumulativo de Jurisdição devida aos membros da Justiça do Distrito Federal e dos Territórios (Lei nº 13.094, de 12 de janeiro de 2015) | 1 | 2015-01-13 to 2015-01-13 |
+| `lei-13095-de-2015` | Institui a Gratificação por Exercício Cumulativo de Jurisdição devida aos membros da Justiça do Trabalho e dá outras providências (Lei nº 13.095, de 12 de janeiro de 2015) | 1 | 2015-01-13 to 2015-01-13 |
+| `lei-13096-de-2015` | Institui a Gratificação por Exercício Cumulativo de Jurisdição aos Membros da Justiça Militar da União e dá outras providências (Lei nº 13.096, de 12 de janeiro de 2015) | 1 | 2015-01-13 to 2015-01-13 |
+| `lei-13098-de-2015` | I nstitui o Dia Nacional da Vigilância Sanitária (Lei nº 13.098, de 27 de janeiro de 2015) | 1 | 2015-01-28 to 2015-01-28 |
+| `lei-13101-de-2015` | Dispõe sobre o Dia Nacional do Milho (Lei nº 13.101, de 27 de janeiro de 2015) | 1 | 2015-01-28 to 2015-01-28 |
+| `lei-13104-de-2015` | Altera o art. 121 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para prever o feminicídio como circunstância qualificadora do crime de homicídio, e o art. 1º da Lei nº 8.072, de 25 de julho de... (Lei nº 13.104, de 9 de março de 2015) | 1 | 2015-03-10 to 2015-03-10 |
+| `lei-13106-de-2015` | Altera a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para tornar crime vender, fornecer, servir, ministrar ou entregar bebida alcoólica a criança ou a adolescente (Lei nº 13.106, de 17 de março de 2015) | 1 | 2015-03-18 to 2015-03-18 |
+| `lei-13107-de-2015` | Altera as Leis n os 9.096, de 19 de setembro de 1995, e 9.504, de 30 de setembro de 1997, para dispor sobre fusão de partidos políticos (Lei nº 13.107, de 24 de março de 2015) | 1 | 2015-03-25 to 2015-03-25 |
+| `lei-13109-de-2015` | Dispõe sobre a licença à gestante e à adotante, as medidas de proteção à maternidade para militares grávidas e a licença-paternidade, no âmbito das Forças Armadas (Lei nº 13.109, de 25 de março de 2015) | 1 | 2018-09-25 to 2018-09-25 |
+| `lei-13110-de-2015` | Altera a Lei n o 11.145, de 26 de julho de 2005, que institui a Fundação Universidade Federal do ABC - UFABC, e dá outras providências (Lei nº 13.110, de 25 de março de 2015) | 1 | 2015-03-26 to 2015-03-26 |
+| `lei-13111-de-2015` | Dispõe sobre a obrigatoriedade de os empresários que comercializam veículos automotores informarem ao comprador o valor dos tributos incidentes sobre a venda e a situação de regularidade do veículo quanto a furto,... (Lei nº 13.111, de 25 de março de 2015) | 1 | 2015-05-25 to 2015-05-25 |
+| `lei-13112-de-2015` | Altera os itens 1º e 2º do art. 52 da Lei nº 6.015, de 31 de dezembro de 1973, para permitir à mulher, em igualdade de condições, proceder ao registro de nascimento do filho (Lei nº 13.112, de 30 de março de 2015) | 1 | 2015-03-31 to 2015-03-31 |
+| `lei-13114-de-2015` | Dispõe sobre a obrigatoriedade de os serviços de registros civis de pessoas naturais comunicarem à Receita Federal e à Secretaria de Segurança Pública os óbitos registrados, acrescentando parágrafo único ao art. 80... (Lei nº 13.114, de 16 de abril de 2015) | 1 | 2015-04-17 to 2015-04-17 |
+| `lei-13116-de-2015` | Estabelece normas gerais para implantação e compartilhamento da infraestrutura de telecomunicações e altera as Leis n º 9.472, de 16 de julho de 1997, 11.934, de 5 de maio de 2009, e 10.257, de 10 de julho de 2001 (Lei nº 13.116, de 20 de abril de 2015) | 1 | 2025-12-23 to 2025-12-23 |
+| `lei-13124-de-2015` | Altera a Lei nº 10.446, de 8 de maio de 2002, que dispõe sobre infrações penais de repercussão interestadual ou internacional que exigem repressão uniforme, para os fins do disposto no inciso I do § 1º do art. 144 da... (Lei nº 13.124, de 21 de maio de 2015) | 1 | 2015-05-22 to 2015-05-22 |
+| `lei-13126-de-2015` | Autoriza a União a conceder crédito ao Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e a destinar superávit financeiro das fontes de recursos existentes no Tesouro Nacional à cobertura de despesas... (Lei nº 13.126, de 21 de maio de 2015) | 1 | 2015-05-22 to 2015-05-22 |
+| `lei-13127-de-2015` | Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, para eximir as entidades de autogestão constituídas sob a forma de fundação, de sindicato ou de... (Lei nº 13.127, de 26 de maio de 2015) | 1 | 2015-05-27 to 2015-05-27 |
+| `lei-13129-de-2015` | Altera a Lei nº 9.307, de 23 de setembro de 1996, e a Lei nº 6.404, de 15 de dezembro de 1976, para ampliar o âmbito de aplicação da arbitragem e dispor sobre a escolha dos árbitros quando as partes recorrem a órgão... (Lei nº 13.129, de 26 de maio de 2015) | 1 | 2015-07-26 to 2015-07-26 |
+| `lei-13132-de-2015` | Altera a Lei nº 12.096, de 24 de novembro de 2009 (Lei nº 13.132, de 9 de junho de 2015) | 1 | 2015-06-10 to 2015-06-10 |
+| `lei-13133-de-2015` | Acrescenta dispositivos à Lei nº 7.565, de 19 de dezembro de 1986 - Código Brasileiro de Aeronáutica, para explicitar a obrigatoriedade do uso e da manutenção de sinalizadores ou balizadores aéreos de obstáculos... (Lei nº 13.133, de 15 de junho de 2015) | 1 | 2015-06-16 to 2015-06-16 |
+| `lei-13134-de-2015` | Altera as Leis nº 7.998, de 11 de janeiro de 1990, que regula o Programa do Seguro-Desemprego e o Abono Salarial e institui o Fundo de Amparo ao Trabalhador (FAT), nº 10.779, de 25 de novembro de 2003, que dispõe... (Lei nº 13.134, de 16 de junho de 2015) | 1 | 2015-06-17 to 2015-06-17 |
+| `lei-13136-de-2015` | Dispõe sobre a instituição do Dia Nacional do Vigilante (Lei nº 13.136, de 17 de junho de 2015) | 1 | 2015-06-18 to 2015-06-18 |
+| `lei-13138-de-2015` | Altera o art. 19 do Regulamento a que se refere o Decreto nº 21.981, de 19 de outubro de 1932, que regula a profissão de Leiloeiro ao território da República, para incluir como competência dos leiloeiros a venda em... (Lei nº 13.138, de 26 de junho de 2015) | 1 | 2015-06-29 to 2015-06-29 |
+| `lei-13142-de-2015` | Altera os arts. 121 e 129 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e o art. 1º da Lei nº 8.072, de 25 de julho de 1990 (Lei de Crimes Hediondos) (Lei nº 13.142, de 6 de julho de 2015) | 1 | 2015-07-07 to 2015-07-07 |
+| `lei-13143-de-2015` | Dispõe sobre a criação de cargos de provimento efetivo, de cargos em comissão e de funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 18ª Região e dá outras providências (Lei nº 13.143, de 6 de julho de 2015) | 1 | 2015-07-07 to 2015-07-07 |
+| `lei-13144-de-2015` | Altera o inciso III do art. 3º da Lei nº 8.009, de 29 de março de 1990, que disciplina o instituto do bem de família, para assegurar proteção ao patrimônio do novo cônjuge ou companheiro do devedor de pensão alimentícia (Lei nº 13.144, de 6 de julho de 2015) | 1 | 2015-07-07 to 2015-07-07 |
+| `lei-13149-de-2015` | Altera as Leis n os 11.482, de 31 de maio de 2007, para dispor sobre os valores da tabela mensal do Imposto sobre a Renda da Pessoa Física, 7.713, de 22 de dezembro de 1988, 9.250, de 26 de dezembro de 1995, e... (Lei nº 13.149, de 21 de julho de 2015) | 1 | 2015-07-22 to 2015-07-22 |
+| `lei-13150-de-2015` | Cria cargos efetivos e funções comissionadas nos quadros de pessoal dos Tribunais Regionais Eleitorais, destinados às Zonas Eleitorais, e transforma funções de Chefe de Cartório (Lei nº 13.150, de 27 de julho de 2015) | 1 | 2015-07-28 to 2015-07-28 |
+| `lei-13151-de-2015` | Altera os arts. 62, 66 e 67 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, o art. 12 da Lei nº 9.532, de 10 de dezembro de 1997, o art. 1º da Lei nº 91, de 28 de agosto de 1935, e o art. 29 da Lei nº... (Lei nº 13.151, de 28 de julho de 2015) | 1 | 2015-07-29 to 2015-07-29 |
+| `lei-13152-de-2015` | Dispõe sobre a política de valorização do salário-mínimo e dos benefícios pagos pelo Regime Geral de Previdência Social (RGPS) para o período de 2016 a 2019 (Lei nº 13.152, de 29 de julho de 2015) | 1 | 2015-07-30 to 2015-07-30 |
+| `lei-13153-de-2015` | Institui a Política Nacional de Combate à Desertificação e Mitigação dos Efeitos da Seca e seus instrumentos (Lei nº 13.153, de 30 de julho de 2015) | 1 | 2015-07-31 to 2015-07-31 |
+| `lei-13154-de-2015` | Altera a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 13.001, de 20 de... (Lei nº 13.154, de 30 de julho de 2015) | 1 | 2015-07-31 to 2015-07-31 |
+| `lei-13156-de-2015` | Altera a redação do § 2º do art. 5º da Lei nº 7.797, de 10 de julho de 1989, que cria o Fundo Nacional de Meio Ambiente e dá outras providências (Lei nº 13.156, de 4 de agosto de 2015) | 1 | 2015-08-05 to 2015-08-05 |
+| `lei-13158-de-2015` | Altera os arts. 48 e 103 da Lei nº 8.171, de 17 de janeiro de 1991, com a finalidade de instituir, entre os objetivos do crédito rural, estímulos à substituição do sistema de pecuária extensivo pelo sistema de... (Lei nº 13.158, de 4 de agosto de 2015) | 1 | 2015-08-05 to 2015-08-05 |
+| `lei-13159-de-2015` | Altera a Lei nº 11.484, de 31 de maio de 2007, que dispõe sobre os incentivos às indústrias de equipamentos para TV Digital e de componentes eletrônicos semicondutores e sobre a proteção à propriedade intelectual das... (Lei nº 13.159, de 10 de agosto de 2015) | 1 | 2015-08-11 to 2015-08-11 |
+| `lei-13161-de-2015` | Altera as Leis n º 12.546, de 14 de dezembro de 2011, quanto à contribuição previdenciária sobre a receita bruta, 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no... (Lei nº 13.161, de 31 de agosto de 2015) | 1 | 2015-10-15 to 2015-10-15 |
+| `lei-13163-de-2015` | Modifica a Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal, para instituir o ensino médio nas penitenciárias (Lei nº 13.163, de 9 de setembro de 2015) | 1 | 2015-09-10 to 2015-09-10 |
+| `lei-13165-de-2015` | Altera as Leis n º 9.504, de 30 de setembro de 1997, 9.096, de 19 de setembro de 1995, e 4.737, de 15 de julho de 1965 - Código Eleitoral, para reduzir os custos das campanhas eleitorais, simplificar a administração... (Lei nº 13.165, de 29 de setembro de 2015) | 1 | 2017-10-06 to 2017-10-06 |
+| `lei-13166-de-2015` | Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, relativo ao exercício de 2014, com o objetivo de fomentar as exportações do País (Lei nº 13.166, de 1º de outubro de 2015) | 1 | 2015-10-02 to 2015-10-02 |
+| `lei-13167-de-2015` | Altera o disposto no art. 84 da Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal, para estabelecer critérios para a separação de presos nos estabelecimentos penais (Lei nº 13.167, de 6 de outubro de 2015) | 1 | 2015-10-07 to 2015-10-07 |
+| `lei-13168-de-2015` | Altera a redação do § 1º do art. 47 da Lei nº 9.394, de 20 de dezembro de 1996 - Lei de Diretrizes e Bases da Educação Nacional (Lei nº 13.168, de 6 de outubro de 2015) | 1 | 2015-10-07 to 2015-10-07 |
+| `lei-13171-de-2015` | Dispõe sobre o empregador rural (Lei nº 13.171, de 21 de outubro de 2015) | 1 | 2015-10-22 to 2015-10-22 |
+| `lei-13172-de-2015` | Altera as Leis n º 10.820, de 17 de dezembro de 2003, 8.213, de 24 de julho de 1991, e 8.112, de 11 de dezembro de 1990, para dispor sobre desconto em folha de pagamento de valores destinados ao pagamento de cartão... (Lei nº 13.172, de 21 de outubro de 2015) | 1 | 2015-10-22 to 2015-10-22 |
+| `lei-13173-de-2015` | Dispõe sobre autorização para a realização de obras e serviços necessários ao fornecimento de energia elétrica temporária para os Jogos Rio 2016 (Lei nº 13.173, de 21 de outubro de 2015) | 1 | 2015-10-22 to 2015-10-22 |
+| `lei-13174-de-2015` | Insere inciso VIII no art. 43 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir, entre as finalidades da educação superior, seu envolvimento com a... (Lei nº 13.174, de 21 de outubro de 2015) | 1 | 2015-10-22 to 2015-10-22 |
+| `lei-13175-de-2015` | Acrescenta art. 2º -A à Lei nº 10.962, de 11 de outubro de 2004, que dispõe sobre a oferta e as formas de afixação de preços de produtos e serviços para o consumidor, para obrigar a informação do preço por unidade de... (Lei nº 13.175, de 21 de outubro de 2015) | 1 | 2015-10-22 to 2015-10-22 |
+| `lei-13176-de-2015` | Acrescenta inciso IX ao art. 964 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, para outorgar privilégio especial, sobre os produtos do abate, ao credor por animais (Lei nº 13.176, de 21 de outubro de 2015) | 1 | 2015-10-22 to 2015-10-22 |
+| `lei-13177-de-2015` | Altera a Lei nº 12.869, de 15 de outubro de 2013, acerca do regime de permissão de serviços públicos (Lei nº 13.177, de 22 de outubro de 2015) | 1 | 2015-10-23 to 2015-10-23 |
+| `lei-13178-de-2015` | Dispõe sobre a ratificação dos registros imobiliários decorrentes de alienações e concessões de terras públicas situadas nas faixas de fronteira (Lei nº 13.178, de 22 de outubro de 2015) | 1 | 2025-09-15 to 2025-09-15 |
+| `lei-13179-de-2015` | Obriga o fornecedor de ingresso para evento cultural pela internet a tornar disponível a venda de meia-entrada por esse veículo (Lei nº 13.179, de 22 de outubro de 2015) | 1 | 2015-10-23 to 2015-10-23 |
+| `lei-13180-de-2015` | Dispõe sobre a profissão de artesão e dá outras providências (Lei nº 13.180, de 22 de outubro de 2015) | 1 | 2026-05-29 to 2026-05-29 |
+| `lei-13183-de-2015` | Altera as Leis nºs 8.212, de 24 de julho de 1991, e 8.213, de 24 de julho de 1991, para tratar da associação do segurado especial em cooperativa de crédito rural e, ainda essa última, para atualizar o rol de... (Lei nº 13.183, de 4 de novembro de 2015) | 1 | 2015-12-20 to 2015-12-20 |
+| `lei-13184-de-2015` | Acrescenta § 2º ao art. 44 da Lei nº 9.394, de 20 de dezembro de 1996 - Lei de Diretrizes e Bases da Educação Nacional, para dispor sobre a matrícula do candidato de renda familiar inferior a dez salários mínimos nas... (Lei nº 13.184, de 4 de novembro de 2015) | 1 | 2015-11-05 to 2015-11-05 |
+| `lei-13185-de-2015` | Institui o Programa de Combate à Intimidação Sistemática (Bullying) (Lei nº 13.185, de 6 de novembro de 2015) | 1 | 2016-02-07 to 2016-02-07 |
+| `lei-13186-de-2015` | Institui a Política de Educação para o Consumo Sustentável (Lei nº 13.186, de 11 de novembro de 2015) | 1 | 2015-11-12 to 2015-11-12 |
+| `lei-13188-de-2015` | Dispõe sobre o direito de resposta ou retificação do ofendido em matéria divulgada, publicada ou transmitida por veículo de comunicação social (Lei nº 13.188, de 11 de novembro de 2015) | 1 | 2015-11-12 to 2015-11-12 |
+| `lei-13190-de-2015` | Altera as Leis n º 12.462, de 4 de agosto de 2011, que institui o Regime Diferenciado de Contratações Públicas - RDC, 7.210, de 11 de julho de 1984, 6.015, de 31 de dezembro de 1973, 8.935, de 18 de novembro de 1994,... (Lei nº 13.190, de 19 de novembro de 2015) | 1 | 2015-11-20 to 2015-11-20 |
+| `lei-13191-de-2015` | Altera o Anexo V à Lei nº 13.115, de 20 de abril de 2015, que estima a receita e fixa a despesa da União para o exercício financeiro de 2015 (Lei nº 13.191, de 23 de novembro de 2015) | 1 | 2015-11-24 to 2015-11-24 |
+| `lei-13192-de-2015` | Altera a Lei nº 13.080, de 2 de janeiro de 2015, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2015 (Lei nº 13.192, de 23 de novembro de 2015) | 1 | 2015-11-24 to 2015-11-24 |
+| `lei-13193-de-2015` | Altera a Lei nº 6.815, de 19 de agosto de 1980, que define a situação jurídica do estrangeiro no Brasil e cria o Conselho Nacional de Imigração, para dispor sobre a dispensa unilateral do visto de turista por ocasião... (Lei nº 13.193, de 24 de novembro de 2015) | 1 | 2015-11-25 to 2015-11-25 |
+| `lei-13194-de-2015` | Altera a Lei nº 7.573, de 23 de dezembro de 1986, que “dispõe sobre o Ensino Profissional Marítimo” (Lei nº 13.194, de 24 de novembro de 2015) | 1 | 2015-11-25 to 2015-11-25 |
+| `lei-13195-de-2015` | Altera a Lei nº 12.712, de 30 de agosto de 2012, para estabelecer que a Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. – ABGF ficará encarregada da gestão do Fundo de Estabilidade do Seguro Rural... (Lei nº 13.195, de 25 de novembro de 2015) | 1 | 2015-11-26 to 2015-11-26 |
+| `lei-13196-de-2015` | Altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, para dispor sobre a Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional (Condecine) e prorrogar a vigência de incentivo fiscal no... (Lei nº 13.196, de 1º de dezembro de 2015) | 1 | 2016-01-16 to 2016-01-16 |
+| `lei-13197-de-2015` | Altera a Lei nº 9.264, de 7 de fevereiro de 1996, para transformar em cargos de nível superior os cargos da Carreira Policial Civil do Distrito Federal (Lei nº 13.197, de 1º de dezembro de 2015) | 1 | 2015-12-02 to 2015-12-02 |
+| `lei-13199-de-2015` | Altera os dispositivos que menciona da Lei nº 13.080, de 2 de janeiro de 2015, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2015 (Lei nº 13.199, de 3 de dezembro de 2015) | 1 | 2015-12-03 to 2015-12-03 |
+| `lei-13202-de-2015` | Institui o Programa de Redução de Litígios Tributários - PRORELIT (Lei nº 13.202, de 8 de dezembro de 2015) | 1 | 2016-01-23 to 2016-01-23 |
+| `lei-13228-de-2015` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para estabelecer causa de aumento de pena para o caso de estelionato cometido contra idoso (Lei nº 13.228, de 28 de dezembro de 2015) | 1 | 2015-12-29 to 2015-12-29 |
+| `lei-13230-de-2015` | Institui a semana nacional de prevenção do câncer bucal (Lei nº 13.230, de 28 de dezembro de 2015) | 1 | 2015-12-29 to 2015-12-29 |
+| `lei-13234-de-2015` | Altera a Lei n o 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre a identificação, o cadastramento e o atendimento, na educação básica e na educação superior, de... (Lei nº 13.234, de 29 de dezembro de 2015) | 1 | 2015-12-30 to 2015-12-30 |
+| `lei-13239-de-2015` | Dispõe sobre a oferta e a realização, no âmbito do Sistema Único de Saúde - SUS, de cirurgia plástica reparadora de sequelas de lesões causadas por atos de violência contra a mulher (Lei nº 13.239, de 30 de dezembro de 2015) | 1 | 2024-06-13 to 2024-06-13 |
+| `lei-13243-de-2016` | Dispõe sobre estímulos ao desenvolvimento científico, à pesquisa, à capacitação científica e tecnológica e à inovação e altera a Lei nº 10.973, de 2 de dezembro de 2004, a Lei nº 6.815, de 19 de agosto de 1980, a Lei... (Lei nº 13.243, de 11 de janeiro de 2016) | 1 | 2016-01-12 to 2016-01-12 |
+| `lei-13245-de-2016` | Altera o art. 7º da Lei nº 8.906, de 4 de julho de 1994 (Estatuto da Ordem dos Advogados do Brasil) (Lei nº 13.245, de 12 de janeiro de 2016) | 1 | 2016-01-13 to 2016-01-13 |
+| `lei-13247-de-2016` | Altera a Lei nº 8.906, de 4 de julho de 1994 - Estatuto da Advocacia (Lei nº 13.247, de 12 de janeiro de 2016) | 1 | 2016-01-13 to 2016-01-13 |
+| `lei-13249-de-2016` | Institui o Plano Plurianual da União para o período de 2016 a 2019 (Lei nº 13.249, de 13 de janeiro de 2016) | 1 | 2018-01-04 to 2018-01-04 |
+| `lei-13250-de-2016` | Cria cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Tribunal Superior Eleitoral e dá outras providências (Lei nº 13.250, de 13 de janeiro de 2016) | 1 | 2016-01-14 to 2016-01-14 |
+| `lei-13251-de-2016` | Dispõe sobre a criação de uma vara federal no Estado de Mato Grosso e sobre a criação de cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá outras providências (Lei nº 13.251, de 13 de janeiro de 2016) | 1 | 2016-01-14 to 2016-01-14 |
+| `lei-13252-de-2016` | Dispõe sobre a criação de duas varas federais no Estado do Tocantins e sobre a criação de cargos de juízes, cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá outras... (Lei nº 13.252, de 13 de janeiro de 2016) | 1 | 2016-01-14 to 2016-01-14 |
+| `lei-13253-de-2016` | Dispõe sobre a criação de uma vara federal no Estado do Paraná e sobre a criação de cargos de juízes, cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá outras providências (Lei nº 13.253, de 13 de janeiro de 2016) | 1 | 2016-01-14 to 2016-01-14 |
+| `lei-13254-de-2016` | Dispõe sobre o Regime Especial de Regularização Cambial e Tributária (RERCT) de recursos, bens ou direitos de origem lícita, não declarados ou declarados incorretamente, remetidos, mantidos no exterior ou repatriados... (Lei nº 13.254, de 13 de janeiro de 2016) | 1 | 2017-03-31 to 2017-03-31 |
+| `lei-13257-de-2016` | Dispõe sobre as políticas públicas para a primeira infância e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo... (Lei nº 13.257, de 8 de março de 2016) | 1 | 2025-09-29 to 2025-09-29 |
+| `lei-13258-de-2016` | Altera o inciso XX do art. 19 da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a expedição da permissão internacional para conduzir veículo (Lei nº 13.258, de 8 de março de 2016) | 1 | 2016-03-09 to 2016-03-09 |
+| `lei-13259-de-2016` | Altera as Leis n º 8.981, de 20 de janeiro de 1995, para dispor acerca da incidência de imposto sobre a renda na hipótese de ganho de capital em decorrência da alienação de bens e direitos de qualquer natureza, e... (Lei nº 13.259, de 16 de março de 2016) | 1 | 2020-06-12 to 2020-06-12 |
+| `lei-13262-de-2016` | Autoriza o Banco do Brasil S.A. e a Caixa Econômica Federal a constituírem subsidiárias e adquirirem participação nos termos e condições previstos no art. 2º da Lei nº 11.908, de 3 de março de 2009 (Lei nº 13.262, de 22 de março de 2016) | 1 | 2016-03-23 to 2016-03-23 |
+| `lei-13263-de-2016` | Altera a Lei nº 13.033, de 24 de setembro de 2014, para dispor sobre os percentuais de adição de biodiesel ao óleo diesel comercializado no território nacional (Lei nº 13.263, de 23 de março de 2016) | 1 | 2016-03-24 to 2016-03-24 |
+| `lei-13264-de-2016` | Dispõe sobre a transformação de cargos vagos no Quadro Permanente da Justiça do Distrito Federal e dos Territórios (Lei nº 13.264, de 1º de abril de 2016) | 1 | 2016-04-04 to 2016-04-04 |
+| `lei-13265-de-2016` | Altera as Leis n º 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016 (Lei nº 13.265, de 1º de abril de 2016) | 1 | 2016-04-04 to 2016-04-04 |
+| `lei-13267-de-2016` | Disciplina a criação e a organização das associações denominadas empresas juniores, com funcionamento perante instituições de ensino superior (Lei nº 13.267, de 6 de abril de 2016) | 1 | 2016-04-07 to 2016-04-07 |
+| `lei-13269-de-2016` | Autoriza o uso da fosfoetanolamina sintética por pacientes diagnosticados com neoplasia maligna (Lei nº 13.269, de 13 de abril de 2016) | 1 | 2016-04-14 to 2016-04-14 |
+| `lei-13270-de-2016` | Altera o art. 6º da Lei nº 12.842, de 10 de julho de 2013, que dispõe sobre o exercício da Medicina (Lei nº 13.270, de 13 de abril de 2016) | 1 | 2016-04-14 to 2016-04-14 |
+| `lei-13271-de-2016` | Dispõe sobre a proibição de revista íntima de funcionárias nos locais de trabalho e trata da revista íntima em ambientes prisionais (Lei nº 13.271, de 15 de abril de 2016) | 1 | 2016-04-18 to 2016-04-18 |
+| `lei-13272-de-2016` | Institui o ano de 2016 como o Ano do Empoderamento da Mulher na Política e no Esporte (Lei nº 13.272, de 15 de abril de 2016) | 1 | 2016-04-18 to 2016-04-18 |
+| `lei-13273-de-2016` | Altera os limites do Parque Nacional de São Joaquim, no Estado de Santa Catarina (Lei nº 13.273, de 15 de abril de 2016) | 1 | 2016-04-18 to 2016-04-18 |
+| `lei-13274-de-2016` | Altera a Lei nº 11.977, de 7 de julho de 2009, para dispor sobre operações de financiamento habitacional com desconto ao beneficiário concedido pelo Fundo de Garantia do Tempo de Serviço - FGTS para aquisição de... (Lei nº 13.274, de 26 de abril de 2016) | 1 | 2016-04-27 to 2016-04-27 |
+| `lei-13278-de-2016` | Altera o § 6º do art. 26 da Lei nº 9.394, de 20 de dezembro de 1996, que fixa as diretrizes e bases da educação nacional, referente ao ensino da arte (Lei nº 13.278, de 2 de maio de 2016) | 1 | 2016-05-03 to 2016-05-03 |
+| `lei-13280-de-2016` | Altera a Lei nº 9.991, de 24 de julho de 2000, para disciplinar a aplicação dos recursos destinados a programas de eficiência energética (Lei nº 13.280, de 3 de maio de 2016) | 1 | 2016-05-04 to 2016-05-04 |
+| `lei-13281-de-2016` | Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), e a Lei nº 13.146, de 6 de julho de 2015 (Lei nº 13.281, de 4 de maio de 2016) | 1 | 2016-06-19 to 2016-06-19 |
+| `lei-13282-de-2016` | Dispõe sobre a criação de duas varas federais no Estado do Rio Grande do Sul e sobre a criação de cargos de juízes, cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá... (Lei nº 13.282, de 4 de maio de 2016) | 1 | 2016-05-05 to 2016-05-05 |
+| `lei-13283-de-2016` | Dispõe sobre a criação de uma vara federal no Estado do Rio Grande do Sul e sobre a criação de cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá outras providências (Lei nº 13.283, de 4 de maio de 2016) | 1 | 2016-05-05 to 2016-05-05 |
+| `lei-13284-de-2016` | Dispõe sobre as medidas relativas aos Jogos Olímpicos e Paraolímpicos de 2016 e aos eventos relacionados, que serão realizados no Brasil (Lei nº 13.284, de 10 de maio de 2016) | 1 | 2016-05-11 to 2016-05-11 |
+| `lei-13286-de-2016` | Dispõe sobre a responsabilidade civil de notários e registradores, alterando o art. 22 da Lei nº 8.935, de 18 de novembro de 1994 (Lei nº 13.286, de 10 de maio de 2016) | 1 | 2016-05-11 to 2016-05-11 |
+| `lei-13287-de-2016` | Acrescenta dispositivo à Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para proibir o trabalho da gestante ou lactante em atividades, operações ou locais insalubres (Lei nº 13.287, de 11 de maio de 2016) | 1 | 2016-05-11 to 2016-05-11 |
+| `lei-13289-de-2016` | Dispõe sobre o Selo Empresa Solidária com a Vida e dá outras providências (Lei nº 13.289, de 20 de maio de 2016) | 1 | 2016-05-23 to 2016-05-23 |
+| `lei-13290-de-2016` | Torna obrigatório o uso, nas rodovias, de farol baixo aceso durante o dia e dá outras providências (Lei nº 13.290, de 23 de maio de 2016) | 1 | 2016-07-08 to 2016-07-08 |
+| `lei-13291-de-2016` | Altera os dispositivos que menciona da Lei nº 13.242, de 30 de dezembro de 2015, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2016 (Lei nº 13.291, de 25 de maio de 2016) | 1 | 2016-05-27 to 2016-05-27 |
+| `lei-13293-de-2016` | Altera a Lei nº 12.505, de 11 de outubro de 2011, que “concede anistia aos policiais e bombeiros militares dos Estados de Alagoas, de Goiás, do Maranhão, de Minas Gerais, da Paraíba, do Piauí, do Rio de Janeiro, de... (Lei nº 13.293, de 1º de junho de 2016) | 1 | 2016-06-02 to 2016-06-02 |
+| `lei-13295-de-2016` | Altera a Lei n o 12.096, de 24 de novembro de 2009, a Lei n o 12.844, de 19 de julho de 2013, a Lei n o 12.651, de 25 de maio de 2012, e a Lei n o 10.177, de 12 de janeiro de 2001 (Lei nº 13.295, de 14 de junho de 2016) | 1 | 2016-06-15 to 2016-06-15 |
+| `lei-13297-de-2016` | Altera o art. 1º da Lei nº 9.608, de 18 de fevereiro de 1998, para incluir a assistência à pessoa como objetivo de atividade não remunerada reconhecida como serviço voluntário (Lei nº 13.297, de 16 de junho de 2016) | 1 | 2016-06-17 to 2016-06-17 |
+| `lei-13298-de-2016` | Estabelece a reincorporação pela União dos trechos de rodovias federais transferidos aos Estados e ao Distrito Federal por força da Medida Provisória nº 82, de 7 de dezembro de 2002 (Lei nº 13.298, de 20 de junho de 2016) | 1 | 2016-06-21 to 2016-06-21 |
+| `lei-13299-de-2016` | Altera a Lei nº 9.074, de 7 de julho de 1995, a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 10.438, de 26 de abril de 2002, a Lei nº 12.111, de 9 de dezembro de 2009, a Lei nº 12.783, de 11 de janeiro de 2013,... (Lei nº 13.299, de 21 de junho de 2016) | 1 | 2018-11-14 to 2018-11-14 |
+| `lei-13301-de-2016` | Dispõe sobre a adoção de medidas de vigilância em saúde quando verificada situação de iminente perigo à saúde pública pela presença do mosquito transmissor do vírus da dengue, do vírus chikungunya e do vírus da zika (Lei nº 13.301, de 27 de junho de 2016) | 1 | 2020-04-07 to 2020-04-07 |
+| `lei-13302-de-2016` | Reajusta a remuneração dos servidores do Senado Federal e disciplina o pagamento de parcelas remuneratórias devidas a esses servidores (Lei nº 13.302, de 27 de junho de 2016) | 1 | 2016-08-12 to 2016-08-12 |
+| `lei-13306-de-2016` | Altera a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, a fim de fixar em cinco anos a idade máxima para o atendimento na educação infantil (Lei nº 13.306, de 4 de julho de 2016) | 1 | 2016-07-05 to 2016-07-05 |
+| `lei-13307-de-2016` | Dispõe sobre a forma de divulgação das atividades, bens ou serviços resultantes de projetos esportivos, paraesportivos e culturais e de produções audiovisuais e artísticas financiados com recursos públicos federais (Lei nº 13.307, de 6 de julho de 2016) | 1 | 2016-07-07 to 2016-07-07 |
+| `lei-13308-de-2016` | Altera a Lei nº 11.445, de 5 de janeiro de 2007, que estabelece diretrizes nacionais para o saneamento básico, determinando a manutenção preventiva das redes de drenagem pluvial (Lei nº 13.308, de 6 de julho de 2016) | 1 | 2016-07-07 to 2016-07-07 |
+| `lei-13311-de-2016` | Institui, nos termos do caput do art. 182 da Constituição Federal, normas gerais para a ocupação e utilização de área pública urbana por equipamentos urbanos do tipo quiosque, trailer , feira e banca de venda de... (Lei nº 13.311, de 11 de julho de 2016) | 1 | 2016-07-12 to 2016-07-12 |
+| `lei-13313-de-2016` | Altera as Leis nºs 10.820, de 17 de dezembro de 2003, que dispõe sobre a autorização para desconto de prestações em folha de pagamento (Lei nº 13.313, de 14 de julho de 2016) | 1 | 2016-07-15 to 2016-07-15 |
+| `lei-13317-de-2016` | Altera dispositivos da Lei n o 11.416, de 15 de dezembro de 2006, que dispõe sobre as Carreiras dos Servidores do Poder Judiciário da União, e dá outras providências (Lei nº 13.317, de 20 de julho de 2016) | 1 | 2016-07-21 to 2016-07-21 |
+| `lei-13319-de-2016` | Extingue o Adicional de Tarifa Aeroportuária (Lei nº 13.319, de 25 de julho de 2016) | 1 | 2020-08-06 to 2020-08-06 |
+| `lei-13320-de-2016` | Altera os Anexos III, IV, V e VI da Lei n o 10.356, de 27 de dezembro de 2001, que dispõe sobre o quadro de pessoal e o plano de carreira do Tribunal de Contas da União (Lei nº 13.320, de 27 de julho de 2016) | 1 | 2016-07-28 to 2016-07-28 |
+| `lei-13322-de-2016` | Altera as Leis n os 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto, para dispor sobre o controle de dopagem, 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes... (Lei nº 13.322, de 28 de julho de 2016) | 1 | 2016-07-29 to 2016-07-29 |
+| `lei-13323-de-2016` | Reajusta a remuneração dos servidores integrantes do Quadro de Pessoal da Câmara dos Deputados (Lei nº 13.323, de 28 de julho de 2016) | 1 | 2016-09-12 to 2016-09-12 |
+| `lei-13325-de-2016` | Altera a remuneração, as regras de promoção, as regras de incorporação de gratificação de desempenho a aposentadorias e pensões de servidores públicos da área da educação, e dá outras providências (Lei nº 13.325, de 29 de julho de 2016) | 1 | 2025-06-03 to 2025-06-03 |
+| `lei-13326-de-2016` | Altera a remuneração de servidores públicos (Lei nº 13.326, de 29 de julho de 2016) | 1 | 2026-02-25 to 2026-02-25 |
+| `lei-13328-de-2016` | Cria, transforma e extingue cargos e funções (Lei nº 13.328, de 29 de julho de 2016) | 1 | 2023-11-14 to 2023-11-14 |
+| `lei-13330-de-2016` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar, de forma mais gravosa, os crimes de furto e de receptação de semovente domesticável de produção, ainda que abatido ou dividido... (Lei nº 13.330, de 2 de agosto de 2016) | 1 | 2016-08-03 to 2016-08-03 |
+| `lei-13331-de-2016` | Altera a Lei nº 11.076, de 30 de dezembro de 2004, que dispõe sobre o Certificado de Depósito Agropecuário-CDA, o Warrant Agropecuário-WA, o Certificado de Direitos Creditórios do Agronegócio-CDCA, a Letra de Crédito... (Lei nº 13.331, de 1º de setembro de 2016) | 1 | 2022-08-04 to 2022-08-04 |
+| `lei-13332-de-2016` | Altera a Lei nº 13.255, de 14 de janeiro de 2016, que estima a receita e fixa a despesa da União para o exercício financeiro de 2016 (Lei nº 13.332, de 1º de setembro de 2016) | 1 | 2016-09-02 to 2016-09-02 |
+| `lei-13333-de-2016` | Prorroga o prazo de dispensa de que trata o art. 16 da Lei nº 12.871, de 22 de outubro de 2013 (Lei nº 13.333, de 12 de setembro de 2016) | 1 | 2016-09-13 to 2016-09-13 |
+| `lei-13335-de-2016` | Altera a Lei nº 12.651, de 25 de maio de 2012, para dispor sobre a extensão dos prazos de inscrição no Cadastro Ambiental Rural e adesão ao Programa de Regularização Ambiental (Lei nº 13.335, de 14 de setembro de 2016) | 1 | 2016-09-15 to 2016-09-15 |
+| `lei-13342-de-2016` | Altera a Lei nº 11.350, de 5 de outubro de 2006, para dispor sobre a formação profissional e sobre benefícios trabalhistas e previdenciários dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias, e a... (Lei nº 13.342, de 3 de outubro de 2016) | 1 | 2016-10-04 to 2016-10-04 |
+| `lei-13345-de-2016` | Altera a Lei nº 10.683, de 28 de maio de 2003, cria as Secretarias Especiais dos Direitos da Pessoa com Deficiência e de Promoção e Defesa dos Direitos da Pessoa Idosa, e dá outras providências (Lei nº 13.345, de 10 de outubro de 2016) | 1 | 2016-10-11 to 2016-10-11 |
+| `lei-13348-de-2016` | Altera as Leis n º 12.722, de 3 de outubro de 2012, que dispõe sobre o apoio financeiro da União aos Municípios e ao Distrito Federal para ampliação da oferta de educação infantil, para incluir as crianças... (Lei nº 13.348, de 10 de outubro de 2016) | 1 | 2016-10-11 to 2016-10-11 |
+| `lei-13351-de-2016` | Dispõe sobre a prestação de apoio financeiro pela União ao Estado do Rio de Janeiro para auxiliar nas despesas com Segurança Pública do Estado do Rio de Janeiro decorrentes dos Jogos Olímpicos e Paraolímpicos - Rio 2016 (Lei nº 13.351, de 25 de outubro de 2016) | 1 | 2016-10-26 to 2016-10-26 |
+| `lei-13353-de-2016` | Altera a Lei Complementar nº 70, de 30 de dezembro de 1991, as Leis n º 9.532, de 10 de dezembro de 1997, e 8.894, de 21 de junho de 1994, e a Medida Provisória nº 2.158-35, de 24 de agosto de 2001, para conceder... (Lei nº 13.353, de 3 de novembro de 2016) | 1 | 2016-11-04 to 2016-11-04 |
+| `lei-13358-de-2016` | Dispõe sobre a instituição do Biênio da Matemática 2017-2018 Gomes de Sousa (Lei nº 13.358, de 7 de novembro de 2016) | 1 | 2016-11-08 to 2016-11-08 |
+| `lei-13360-de-2016` | Altera a Lei nº 5.655, de 20 de maio de 1971, a Lei nº 10.438, de 26 de abril de 2002, a Lei nº 9.648, de 27 de maio de 1998, a Lei nº 12.111, de 9 de dezembro de 2009, a Lei nº 12.783, de 11 de janeiro de 2013, a... (Lei nº 13.360, de 17 de novembro de 2016) | 1 | 2016-11-18 to 2016-11-18 |
+| `lei-13361-de-2016` | Altera a Lei n o 11.473, de 10 de maio de 2007, que dispõe sobre a cooperação federativa no âmbito da segurança pública (Lei nº 13.361, de 23 de novembro de 2016) | 1 | 2016-11-24 to 2016-11-24 |
+| `lei-13362-de-2016` | Altera a Lei nº 11.664, de 29 de abril de 2008, que "dispõe sobre a efetivação de ações de saúde que assegurem a prevenção, a detecção, o tratamento e o seguimento dos cânceres do colo uterino e de mama, no âmbito do... (Lei nº 13.362, de 23 de novembro de 2016) | 1 | 2016-11-24 to 2016-11-24 |
+| `lei-13363-de-2016` | Altera a Lei n o 8.906, de 4 de julho de 1994, e a Lei n o 13.105, de 16 de março de 2015 (Código de Processo Civil), para estipular direitos e garantias para a advogada gestante, lactante, adotante ou que der à luz... (Lei nº 13.363, de 25 de novembro de 2016) | 1 | 2016-11-28 to 2016-11-28 |
+| `lei-13364-de-2016` | Eleva o Rodeio , a Vaquejada, bem como as respectivas expressões artístico-culturais, à condição de manifestação cultural nacional e de patrimônio cultural imaterial (Lei nº 13.364, de 29 de novembro de 2016) | 1 | 2019-09-18 to 2019-09-18 |
+| `lei-13365-de-2016` | Altera a Lei nº 12.351, de 22 de dezembro de 2010, para facultar à Petrobras o direito de preferência para atuar como operador e possuir participação mínima de 30% (trinta por cento) nos consórcios formados para... (Lei nº 13.365, de 29 de novembro de 2016) | 1 | 2016-11-30 to 2016-11-30 |
+| `lei-13366-de-2016` | Altera as Leis n os 10.260, de 12 de julho de 2001, que “dispõe sobre o Fundo de Financiamento ao estudante do Ensino Superior e dá outras providências”, para atribuir às instituições de ensino responsabilidade... (Lei nº 13.366, de 1º de dezembro de 2016) | 1 | 2016-12-02 to 2016-12-02 |
+| `lei-13367-de-2016` | Altera a Lei nº 1.579, de 18 de março de 1952, que dispõe sobre as Comissões Parlamentares de Inquérito (Lei nº 13.367, de 5 de dezembro de 2016) | 1 | 2016-12-06 to 2016-12-06 |
+| `lei-13369-de-2016` | Dispõe sobre a garantia do exercício da profissão de designer de interiores e ambientes e dá outras providências (Lei nº 13.369, de 12 de dezembro de 2016) | 1 | 2016-12-13 to 2016-12-13 |
+| `lei-13370-de-2016` | Altera o § 3º do art. 98 da Lei nº 8.112, de 11 de dezembro de 1990, para estender o direito a horário especial ao servidor público federal que tenha cônjuge, filho ou dependente com deficiência de qualquer natureza... (Lei nº 13.370, de 12 de dezembro de 2016) | 1 | 2016-12-13 to 2016-12-13 |
+| `lei-13397-de-2016` | Altera a Lei nº 13.249, de 13 de janeiro de 2016, que institui o Plano Plurianual da União para o período de 2016 a 2019 (Lei nº 13.397, de 21 de dezembro de 2016) | 1 | 2016-12-22 to 2016-12-22 |
+| `lei-13406-de-2016` | Altera os §§ 3º e 4º do art. 24 da Lei nº 12.587, de 3 de janeiro de 2012, para estender o prazo exigido para a elaboração do Plano de Mobilidade Urbana e para sua compatibilização com o plano diretor municipal (Lei nº 13.406, de 26 de dezembro de 2016) | 1 | 2016-12-27 to 2016-12-27 |
+| `lei-13409-de-2016` | Altera a Lei nº 12.711, de 29 de agosto de 2012, para dispor sobre a reserva de vagas para pessoas com deficiência nos cursos técnico de nível médio e superior das instituições federais de ensino (Lei nº 13.409, de 28 de dezembro de 2016) | 1 | 2016-12-29 to 2016-12-29 |
+| `lei-13410-de-2016` | Altera a Lei nº 11.903, de 14 de janeiro de 2009, para dispor sobre o Sistema Nacional de Controle de Medicamentos (Lei nº 13.410, de 28 de dezembro de 2016) | 1 | 2016-12-29 to 2016-12-29 |
+| `lei-13412-de-2016` | Dispõe sobre a remuneração dos cargos de Natureza Especial de Defensor Público-Geral Federal e de Subdefensor Público-Geral Federal e sobre o subsídio dos membros da Defensoria Pública da União (Lei nº 13.412, de 29 de dezembro de 2016) | 1 | 2023-01-10 to 2023-01-10 |
+| `lei-13413-de-2016` | Altera a Lei n º 5.700, de 1º de setembro de 1971, que “dispõe sobre a forma e a apresentação dos Símbolos Nacionais, e dá outras providências”, para determinar que o Hino Nacional seja executado na abertura das... (Lei nº 13.413, de 29 de dezembro de 2016) | 1 | 2016-12-30 to 2016-12-30 |
 | `lei-de-concessoes` | Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995) | 12 | 1995-02-14 to 2021-04-01 |
 | `lei-das-parcerias-publico-privadas` | Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004) | 14 | 2004-12-31 to 2027-01-01 |
 | `lei-do-saneamento-basico` | Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007) | 15 | 2007-02-22 to 2025-03-18 |
@@ -2171,11 +2672,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-de-registros-publicos` | Lei de Registros Públicos (Lei nº 6.015, de 31 de dezembro de 1973) | 73 | 1976-01-01 to 2025-08-24 |
 | `lei-de-licitacoes-de-1993` | Lei de Licitações e Contratos (Lei nº 8.666, de 21 de junho de 1993) | 36 | 1993-06-22 to 2023-12-30 |
 
-The build made 4520 commits:
+The build made 5020 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1823 | first version of an act |
+| 2323 | first version of an act |
 | 2673 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -2183,7 +2684,7 @@ Other counts:
 - 10 commits on the branch `futuro`: laws not yet in force on 2026-11-03.
 - 219 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2711 laws in the record.
-- 8608 tags.
+- 9108 tags.
 
 ## Dates
 
@@ -2195,7 +2696,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a17993c6540ec17f2ac2a62b7d9d186efa7646462e523390e8b14417e738eac8` (63041409 bytes).
+- Corpus: sha256 `8459674b3bb9091bff8fce4aa7d8b4d47b5d010ed05c82b9a6b6f668810b33dc` (66707822 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -4096,6 +4597,510 @@ No second build of this corpus has been compared yet.
 - lei-14366-de-2022: from 2024-07-29, the in-force day of Lei 14.937/2024, the latest among the acts its notes name (its DOU day 2024-07-29: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.937/2024 (DOU 2024-07-29)
 - lei-14367-de-2022: from 2022-06-15, its own clause: in force on publication
 - lei-14368-de-2022: from 2022-06-15, its own clause: in force on publication
+- Part 98-current-004: 500 acts with their current text only, each one version, credited to Planalto as the oldest version available (first_law null). The text is the page as Planalto prints it now, with struck wordings and the notes beside them left out; headings are kept in the titulos unit as the history parts do.
+- Each version starts on the in-force day of the last change the text itself shows: the latest in-force day among the acts its notes name as changing it (Redação dada, Incluído, Revogado, Acrescido, Renumerado, Suprimido), each by the rule the history parts use: the act's own vigência clause, else LINDB art. 1 (publication + 45 days), and a Medida Provisória from its publication (CF art. 62). Where an act's clause was not read, its DOU day (from Planalto's index pages or the corpus's law records) is used and the act's line below names it. An act with no such note starts on its own in-force day by the same rule. Acts whose notes name decrees, rulings, Emendas, a staged in-force clause or the 2025-2026 tax reform (Leis Complementares 214/2025 and 227/2026) are left for their histories.
+- An act revoked as a whole (the revoking act named at the head of its page) has the text as last in force, then a second version that empties it, credited to the revoking act and dated by that act's in-force day by the same rule; its line below names it.
+- Earlier wordings are not shown here; their histories are built afterwards, appended behind these versions.
+- lei-complementar-138-de-2010: from 2010-12-30, its own clause: in force on publication
+- lei-complementar-144-de-2014: from 2014-05-16, its own clause: in force on publication
+- lei-complementar-145-de-2014: from 2014-05-16, its own clause: in force on publication
+- lei-complementar-146-de-2014: from 2014-06-26, its own clause: in force on publication
+- lei-complementar-149-de-2015: from 2015-01-13, its own clause: in force on publication
+- lei-complementar-152-de-2015: from 2015-12-04, its own clause: in force on publication
+- lei-complementar-153-de-2015: from 2015-12-10, its own clause: in force on publication
+- lei-complementar-154-de-2016: from 2016-04-19, its own clause: in force on publication
+- lei-complementar-155-de-2016: from 2016-12-12, no in-force clause of its own: LINDB art. 1, its DOU day (2016-10-28) + 45 days
+- lei-12324-de-2010: from 2010-09-16, its own clause: in force on publication
+- lei-12325-de-2010: from 2010-09-16, its own clause: in force on publication
+- lei-12335-de-2010: from 2010-09-22, its own clause: in force on publication
+- lei-12336-de-2010: from 2010-10-27, its own clause: in force on publication
+- lei-12341-de-2010: from 2010-12-02, its own clause: in force on publication
+- lei-12342-de-2010: from 2010-12-02, its own clause: in force on publication
+- lei-12344-de-2010: from 2010-12-10, its own clause: in force on publication
+- lei-12345-de-2010: from 2010-12-10, its own clause: in force on publication
+- lei-12347-de-2010: from 2010-12-13, its own clause: in force on publication
+- lei-12349-de-2010: from 2010-12-16, its own clause: in force on publication
+- lei-12352-de-2010: from 2010-12-29, its own clause: in force on publication
+- lei-12376-de-2010: from 2010-12-31, its own clause: in force on publication
+- lei-12377-de-2010: from 2010-12-31, its own clause: in force on publication
+- lei-12378-de-2010: from 2011-02-14, no in-force clause of its own: LINDB art. 1, its DOU day (2010-12-31) + 45 days
+- lei-12380-de-2011: from 2014-11-14, the in-force day of Lei 13.043/2014, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2014-11-14))
+- lei-12383-de-2011: from 2011-03-02, its own clause: in force on publication
+- lei-12385-de-2011: from 2011-07-22, the in-force day of Lei 12.453/2011, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2011-07-22))
+- lei-12389-de-2011: from 2011-03-04, its own clause: in force on publication
+- lei-12391-de-2011: from 2011-03-04, its own clause: in force on publication
+- lei-12392-de-2011: from 2011-03-04, its own clause: in force on publication
+- lei-12393-de-2011: from 2011-03-04, its own clause: in force on publication
+- lei-12395-de-2011: from 2011-03-17, its own clause: in force on publication
+- lei-12397-de-2011: from 2011-03-24, its own clause: in force on publication
+- lei-12398-de-2011: from 2011-03-29, its own clause: in force on publication
+- lei-12399-de-2011: from 2011-04-04, its own clause: in force on publication
+- lei-12400-de-2011: from 2011-04-08, its own clause: in force on publication
+- lei-12402-de-2011: from 2014-06-20, the in-force day of Lei 12.995/2014, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2014-06-20))
+- lei-12403-de-2011: from 2011-07-04, its own clause: 60 days after its DOU day
+- lei-12404-de-2011: from 2017-07-11, the in-force day of Lei 13.464/2017, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2017-07-11))
+- lei-12405-de-2011: from 2011-05-17, its own clause: in force on publication
+- lei-12406-de-2011: from 2016-10-11, the in-force day of Lei 13.346/2016, the latest among the acts its notes name (its DOU day 2016-10-11: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.346/2016 (DOU 2016-10-11)
+- lei-12408-de-2011: from 2011-05-26, its own clause: in force on publication
+- lei-12409-de-2011: from 2014-11-14, the in-force day of Lei 13.043/2014, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2014-11-14)); in-force day not read, so its DOU day is used, for: Lei 12.597/2012 (DOU 2012-03-22), Lei 13.000/2014 (DOU 2014-06-20)
+- lei-12411-de-2011: from 2011-05-30, its own clause: in force on publication
+- lei-12415-de-2011: from 2011-06-10, its own clause: in force on publication
+- lei-12416-de-2011: from 2011-06-10, its own clause: in force on publication
+- lei-12418-de-2011: from 2011-06-10, its own clause: in force on publication
+- lei-12419-de-2011: from 2011-06-10, its own clause: in force on publication
+- lei-12420-de-2011: from 2011-06-16, its own clause: in force on publication
+- lei-12421-de-2011: from 2011-06-17, its own clause: in force on publication
+- lei-12422-de-2011: from 2011-06-17, its own clause: in force on publication
+- lei-12423-de-2011: from 2011-06-17, its own clause: in force on publication
+- lei-12425-de-2011: from 2011-06-20, its own clause: in force on publication
+- lei-12426-de-2011: from 2011-06-20, its own clause: in force on publication
+- lei-12427-de-2011: from 2011-06-20, its own clause: in force on publication
+- lei-12430-de-2011: from 2011-06-21, its own clause: in force on publication
+- lei-12432-de-2011: from 2011-06-30, its own clause: in force on publication
+- lei-12433-de-2011: from 2011-06-30, its own clause: in force on publication
+- lei-12435-de-2011: from 2011-07-07, its own clause: in force on publication
+- lei-12436-de-2011: from 2011-07-07, its own clause: in force on publication
+- lei-12437-de-2011: from 2011-07-07, its own clause: in force on publication
+- lei-12438-de-2011: from 2011-07-07, its own clause: in force on publication
+- lei-12439-de-2011: from 2011-07-08, its own clause: in force on publication
+- lei-12452-de-2011: from 2011-07-22, its own clause: in force on publication
+- lei-12453-de-2011: from 2012-08-31, the in-force day of Lei 12.712/2012, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2012-08-31))
+- lei-12458-de-2011: from 2019-12-12, the in-force day of Lei 13.933/2019, the latest among the acts its notes name (its DOU day 2019-12-12: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.933/2019 (DOU 2019-12-12)
+- lei-12461-de-2011: from 2011-10-25, its own clause: 90 days after its DOU day
+- lei-12463-de-2011: from 2011-08-05, its own clause: in force on publication
+- lei-12464-de-2011: from 2011-08-05, its own clause: in force on publication
+- lei-12466-de-2011: from 2011-08-25, its own clause: in force on publication
+- lei-12467-de-2011: from 2011-08-29, its own clause: in force on publication
+- lei-12469-de-2011: from 2015-06-22, the in-force day of Lei 13.137/2015, the latest among the acts its notes name (art. 26 VII: the provisions not named in its incisos I to VI, which include art. 7 (Lei 8.212 art. 22 § 14), in force 'na data de sua publicação' (DOU 22.6.2015, edição extra)); in-force day not read, so its DOU day is used, for: Lei 12.809/2013 (DOU 2013-05-16)
+- lei-12472-de-2011: from 2011-12-01, its own clause: 90 days after its DOU day
+- lei-12474-de-2011: from 2011-09-05, its own clause: in force on publication
+- lei-12475-de-2011: from 2011-09-05, its own clause: in force on publication
+- lei-12476-de-2011: from 2011-09-05, its own clause: in force on publication
+- lei-12477-de-2011: from 2011-09-05, its own clause: in force on publication
+- lei-12478-de-2011: from 2011-09-05, its own clause: in force on publication
+- lei-12479-de-2011: from 2011-09-05, its own clause: in force on publication
+- lei-12480-de-2011: from 2011-09-05, its own clause: in force on publication
+- lei-12481-de-2011: from 2011-09-05, its own clause: in force on publication
+- lei-12482-de-2011: from 2011-09-05, its own clause: in force on publication
+- lei-12483-de-2011: from 2011-09-09, its own clause: in force on publication
+- lei-12484-de-2011: from 2011-09-09, its own clause: in force on publication
+- lei-12486-de-2011: from 2011-09-13, its own clause: in force on publication
+- lei-12487-de-2011: from 2011-09-16, its own clause: in force on publication
+- lei-12490-de-2011: from 2011-09-19, its own clause: in force on publication
+- lei-12499-de-2011: from 2011-09-30, its own clause: in force on publication
+- lei-12501-de-2011: from 2011-10-10, its own clause: in force on publication
+- lei-12505-de-2011: from 2016-06-02, the in-force day of Lei 13.293/2016, the latest among the acts its notes name (its DOU day 2016-06-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.848/2013 (DOU 2013-08-05), Lei 13.293/2016 (DOU 2016-06-02)
+- lei-12514-de-2011: from 2021-08-27, the in-force day of Lei 14.195/2021, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2021-08-27))
+- lei-12522-de-2011: from 2011-11-14, its own clause: in force on publication
+- lei-12544-de-2011: from 2011-12-09, its own clause: in force on publication
+- lei-12545-de-2011: from 2012-08-31, the in-force day of Lei 12.712/2012, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2012-08-31))
+- lei-12547-de-2011: from 2011-12-15, its own clause: in force on publication
+- lei-12550-de-2011: from 2013-09-25, the in-force day of Lei 12.863/2013, the latest among the acts its notes name (its DOU day 2013-09-25: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.863/2013 (DOU 2013-09-25)
+- lei-12589-de-2012: from 2012-01-10, its own clause: in force on publication
+- lei-12590-de-2012: from 2012-01-10, its own clause: in force on publication
+- lei-12591-de-2012: from 2012-01-19, its own clause: in force on publication
+- lei-12593-de-2012: from 2012-01-19, its own clause: in force on publication
+- lei-12594-de-2012: from 2012-04-18, its own clause: 90 days after its DOU day
+- lei-12597-de-2012: from 2012-03-22, its own clause: in force on publication
+- lei-12599-de-2012: from 2024-06-04, the in-force day of Medida Provisória 1.227/2024, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62)); in-force day not read, so its DOU day is used, for: Lei 13.524/2017 (DOU 2017-11-28)
+- lei-12601-de-2012: from 2012-03-26, its own clause: in force on publication
+- lei-12602-de-2012: from 2012-04-04, its own clause: in force on publication
+- lei-12603-de-2012: from 2012-04-04, its own clause: in force on publication
+- lei-12604-de-2012: from 2012-04-04, its own clause: in force on publication
+- lei-12605-de-2012: from 2012-04-04, its own clause: in force on publication
+- lei-12607-de-2012: from 2012-05-20, no in-force clause of its own: LINDB art. 1, its DOU day (2012-04-05) + 45 days
+- lei-12613-de-2012: from 2012-04-19, its own clause: in force on publication
+- lei-12614-de-2012: from 2012-04-30, its own clause: in force on publication
+- lei-12616-de-2012: from 2012-05-02, its own clause: in force on publication
+- lei-12617-de-2012: from 2012-05-02, its own clause: in force on publication
+- lei-12619-de-2012: from 2015-04-17, the in-force day of Lei 13.103/2015, the latest among the acts its notes name (no vigência clause: LINDB art. 1, published 2015-03-03 + 45 days)
+- lei-12648-de-2012: from 2021-12-30, the in-force day of Medida Provisória 1.089/2021, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-12650-de-2012: from 2012-05-18, its own clause: in force on publication
+- lei-12652-de-2012: from 2012-05-28, its own clause: in force on publication
+- lei-12653-de-2012: from 2012-05-29, its own clause: in force on publication
+- lei-12655-de-2012: from 2012-05-31, its own clause: in force on publication
+- lei-12656-de-2012: from 2012-06-06, its own clause: in force on publication
+- lei-12657-de-2012: from 2012-06-06, its own clause: in force on publication
+- lei-12658-de-2012: from 2012-06-06, its own clause: in force on publication
+- lei-12659-de-2012: from 2012-06-06, its own clause: in force on publication
+- lei-12660-de-2012: from 2012-06-06, its own clause: in force on publication
+- lei-12661-de-2012: from 2012-06-06, its own clause: in force on publication
+- lei-12662-de-2012: from 2018-06-26, the in-force day of Lei 13.685/2018, the latest among the acts its notes name (its DOU day 2018-06-26: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.685/2018 (DOU 2018-06-26)
+- lei-12663-de-2012: from 2013-06-21, the in-force day of Lei 12.833/2013, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2013-06-21))
+- lei-12664-de-2012: from 2012-06-06, its own clause: in force on publication
+- lei-12665-de-2012: from 2012-06-14, its own clause: in force on publication
+- lei-12667-de-2012: from 2012-06-18, its own clause: in force on publication
+- lei-12669-de-2012: from 2012-06-20, its own clause: in force on publication
+- lei-12670-de-2012: from 2012-06-20, its own clause: in force on publication
+- lei-12671-de-2012: from 2012-06-20, its own clause: in force on publication
+- lei-12673-de-2012: from 2012-06-26, its own clause: in force on publication
+- lei-12674-de-2012: from 2012-06-26, its own clause: in force on publication
+- lei-12675-de-2012: from 2012-06-26, its own clause: in force on publication
+- lei-12676-de-2012: from 2012-06-26, its own clause: in force on publication
+- lei-12677-de-2012: from 2012-12-31, the in-force day of Lei 12.772/2012, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2012-12-31))
+- lei-12678-de-2012: from 2012-06-26, its own clause: in force on publication
+- lei-12683-de-2012: from 2012-07-10, its own clause: in force on publication
+- lei-12686-de-2012: from 2012-10-17, its own clause: 90 days after its DOU day
+- lei-12687-de-2012: from 2012-07-19, its own clause: in force on publication
+- lei-12688-de-2012: from 2014-11-14, the in-force day of Lei 13.043/2014, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2014-11-14)); in-force day not read, so its DOU day is used, for: Lei 12.989/2014 (DOU 2014-06-10)
+- lei-12689-de-2012: from 2012-10-18, its own clause: 90 days after its DOU day
+- lei-12691-de-2012: from 2012-07-25, its own clause: in force on publication
+- lei-12692-de-2012: from 2012-07-25, its own clause: in force on publication
+- lei-12693-de-2012: from 2012-07-25, its own clause: in force on publication
+- lei-12694-de-2012: from 2025-10-30, the in-force day of Lei 15.245/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-10-30))
+- lei-12695-de-2012: from 2012-07-26, its own clause: in force on publication
+- lei-12696-de-2012: from 2012-07-26, its own clause: in force on publication
+- lei-12701-de-2012: from 2012-08-07, its own clause: in force on publication
+- lei-12703-de-2012: from 2013-05-16, the in-force day of Lei 12.810/2013, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2013-05-16))
+- lei-12704-de-2012: from 2012-08-09, its own clause: in force on publication
+- lei-12705-de-2012: from 2019-12-17, the in-force day of Lei 13.954/2019, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2019-12-17))
+- lei-12706-de-2012: from 2012-08-09, its own clause: in force on publication
+- lei-12709-de-2012: from 2012-08-30, its own clause: in force on publication
+- lei-12710-de-2012: from 2012-10-14, no in-force clause of its own: LINDB art. 1, its DOU day (2012-08-30) + 45 days
+- lei-12717-de-2012: from 2012-09-27, its own clause: in force on publication
+- lei-12718-de-2012: from 2012-09-27, its own clause: in force on publication
+- lei-12719-de-2012: from 2012-09-27, its own clause: in force on publication
+- lei-12720-de-2012: from 2012-11-12, no in-force clause of its own: LINDB art. 1, its DOU day (2012-09-28) + 45 days
+- lei-12721-de-2012: from 2012-10-03, its own clause: in force on publication
+- lei-12723-de-2012: from 2012-10-10, its own clause: in force on publication
+- lei-12726-de-2012: from 2012-10-17, its own clause: in force on publication
+- lei-12727-de-2012: from 2012-10-18, its own clause: in force on publication
+- lei-12730-de-2012: from 2012-11-16, its own clause: in force on publication
+- lei-12731-de-2012: from 2012-11-22, its own clause: in force on publication
+- lei-12732-de-2012: from 2025-10-08, the in-force day of Lei 15.233/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-10-08)); in-force day not read, so its DOU day is used, for: Lei 13.685/2018 (DOU 2018-06-26), Lei 13.896/2019 (DOU 2019-10-31)
+- lei-12733-de-2012: from 2012-11-23, its own clause: in force on publication
+- lei-12734-de-2012: from 2012-11-30, its own clause: in force on publication
+- lei-12736-de-2012: from 2012-12-03, its own clause: in force on publication
+- lei-12740-de-2012: from 2012-12-10, its own clause: in force on publication
+- lei-12741-de-2012: from 2014-06-06, the in-force day of Medida Provisória 649/2014, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-12742-de-2012: from 2012-12-18, its own clause: in force on publication
+- lei-12743-de-2012: from 2012-12-20, its own clause: in force on publication
+- lei-12744-de-2012: from 2012-12-20, its own clause: in force on publication
+- lei-12745-de-2012: from 2012-12-20, its own clause: in force on publication
+- lei-12761-de-2012: from 2013-10-24, the in-force day of Lei 12.872/2013, the latest among the acts its notes name (its DOU day 2013-10-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.872/2013 (DOU 2013-10-24)
+- lei-12762-de-2012: from 2012-12-28, its own clause: in force on publication
+- lei-12763-de-2012: from 2012-12-28, its own clause: in force on publication
+- lei-12765-de-2012: from 2013-03-28, its own clause: 90 days after its DOU day
+- lei-12766-de-2012: from 2023-06-15, the in-force day of Lei 14.596/2023, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2023-06-15))
+- lei-12767-de-2012: from 2013-07-10, the in-force day of Lei 12.839/2013, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2013-07-10))
+- lei-12770-de-2012: from 2015-01-13, the in-force day of Lei 13.092/2015, the latest among the acts its notes name (its DOU day 2015-01-13: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.092/2015 (DOU 2015-01-13)
+- lei-12771-de-2012: from 2015-01-13, the in-force day of Lei 13.091/2015, the latest among the acts its notes name (its DOU day 2015-01-13: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.091/2015 (DOU 2015-01-13)
+- lei-12772-de-2012: from 2026-03-31, the in-force day of Lei 15.367/2026, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2026-03-31)); in-force day not read, so its DOU day is used, for: Lei 12.863/2013 (DOU 2013-09-25), Lei 13.325/2016 (DOU 2016-07-29), Lei 14.673/2023 (DOU 2023-09-15)
+- lei-12773-de-2012: from 2012-12-31, its own clause: in force on publication
+- lei-12774-de-2012: from 2012-12-31, its own clause: in force on publication
+- lei-12776-de-2012: from 2012-12-31, its own clause: in force on publication
+- lei-12777-de-2012: from 2024-09-23, the in-force day of Lei 14.983/2024, the latest among the acts its notes name (its DOU day 2024-09-23: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.983/2024 (DOU 2024-09-23)
+- lei-12778-de-2012: from 2012-12-31, its own clause: in force on publication
+- lei-12781-de-2013: from 2013-01-11, its own clause: in force on publication
+- lei-12782-de-2013: from 2013-01-11, its own clause: in force on publication
+- lei-12784-de-2013: from 2013-01-14, its own clause: in force on publication
+- lei-12785-de-2013: from 2013-01-14, its own clause: in force on publication
+- lei-12786-de-2013: from 2013-01-14, its own clause: in force on publication
+- lei-12787-de-2013: from 2018-08-07, the in-force day of Lei 13.702/2018, the latest among the acts its notes name (its DOU day 2018-08-07: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.702/2018 (DOU 2018-08-07)
+- lei-12789-de-2013: from 2013-02-22, its own clause: in force on publication
+- lei-12790-de-2013: from 2013-03-15, its own clause: in force on publication
+- lei-12793-de-2013: from 2013-10-16, the in-force day of Lei 12.868/2013, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2013-10-16))
+- lei-12794-de-2013: from 2024-06-04, the in-force day of Medida Provisória 1.227/2024, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-12795-de-2013: from 2013-04-03, its own clause: in force on publication
+- lei-12796-de-2013: from 2013-04-05, its own clause: in force on publication
+- lei-12797-de-2013: from 2013-04-05, its own clause: in force on publication
+- lei-12799-de-2013: from 2013-04-11, its own clause: in force on publication
+- lei-12801-de-2013: from 2013-04-25, its own clause: in force on publication
+- lei-12802-de-2013: from 2013-04-25, its own clause: in force on publication
+- lei-12803-de-2013: from 2013-04-25, its own clause: in force on publication
+- lei-12804-de-2013: from 2013-04-25, its own clause: in force on publication
+- lei-12806-de-2013: from 2014-06-23, the in-force day of Lei 13.001/2014, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2014-06-23))
+- lei-12807-de-2013: from 2013-05-09, its own clause: in force on publication
+- lei-12808-de-2013: from 2013-05-09, its own clause: in force on publication
+- lei-12809-de-2013: from 2013-05-16, its own clause: in force on publication
+- lei-12811-de-2013: from 1995-12-20, the in-force day of Lei 9.165/1995, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1995-12-20))
+- lei-12812-de-2013: from 2013-05-17, its own clause: in force on publication
+- lei-12816-de-2013: from 2013-06-06, its own clause: in force on publication
+- lei-12817-de-2013: from 2013-06-06, its own clause: in force on publication
+- lei-12818-de-2013: from 2013-06-06, its own clause: in force on publication
+- lei-12823-de-2013: from 2013-06-06, its own clause: in force on publication
+- lei-12824-de-2013: from 2013-06-06, its own clause: in force on publication
+- lei-12825-de-2013: from 2013-06-06, its own clause: in force on publication
+- lei-12826-de-2013: from 2013-06-06, its own clause: in force on publication
+- lei-12828-de-2013: from 2013-06-21, its own clause: in force on publication
+- lei-12830-de-2013: from 2013-06-21, its own clause: in force on publication
+- lei-12833-de-2013: from 2024-09-19, the in-force day of Lei 14.978/2024, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2024-09-19))
+- lei-12836-de-2013: from 2013-07-03, its own clause: in force on publication
+- lei-12837-de-2013: from 2013-07-10, its own clause: in force on publication
+- lei-12839-de-2013: from 2013-07-10, its own clause: in force on publication
+- lei-12840-de-2013: from 2013-07-10, its own clause: in force on publication
+- lei-12841-de-2013: from 2013-07-10, its own clause: in force on publication
+- lei-12842-de-2013: from 2016-04-14, the in-force day of Lei 13.270/2016, the latest among the acts its notes name (its DOU day 2016-04-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.270/2016 (DOU 2016-04-14)
+- lei-12847-de-2013: from 2013-08-05, its own clause: in force on publication
+- lei-12848-de-2013: from 2013-08-05, its own clause: in force on publication
+- lei-12854-de-2013: from 2013-08-27, its own clause: in force on publication
+- lei-12857-de-2013: from 2013-09-03, its own clause: in force on publication
+- lei-12860-de-2013: from 2014-11-14, the in-force day of Lei 13.043/2014, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2014-11-14))
+- lei-12862-de-2013: from 2013-09-18, its own clause: in force on publication
+- lei-12863-de-2013: from 2013-09-25, its own clause: in force on publication
+- lei-12864-de-2013: from 2013-09-25, its own clause: in force on publication
+- lei-12868-de-2013: from 2013-10-16, its own clause: in force on publication
+- lei-12869-de-2013: from 2015-10-23, the in-force day of Lei 13.177/2015, the latest among the acts its notes name (its DOU day 2015-10-23: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.177/2015 (DOU 2015-10-23)
+- lei-12870-de-2013: from 2013-10-16, its own clause: in force on publication
+- lei-12872-de-2013: from 2013-10-24, its own clause: in force on publication
+- lei-12875-de-2013: from 2013-10-31, its own clause: in force on publication
+- lei-12878-de-2013: from 2013-11-05, its own clause: in force on publication
+- lei-12879-de-2013: from 2013-11-06, its own clause: in force on publication
+- lei-12881-de-2013: from 2013-11-13, its own clause: in force on publication
+- lei-12883-de-2013: from 2013-11-22, its own clause: in force on publication
+- lei-12886-de-2013: from 2013-11-27, its own clause: in force on publication
+- lei-12887-de-2013: from 2013-11-27, its own clause: in force on publication
+- lei-12890-de-2013: from 2013-12-11, its own clause: in force on publication
+- lei-12891-de-2013: from 2013-12-12, its own clause: in force on publication
+- lei-12894-de-2013: from 2013-12-18, its own clause: in force on publication
+- lei-12895-de-2013: from 2013-12-19, its own clause: in force on publication
+- lei-12896-de-2013: from 2013-12-19, its own clause: in force on publication
+- lei-12899-de-2013: from 2013-12-19, its own clause: in force on publication
+- lei-12900-de-2013: from 2013-12-19, its own clause: in force on publication
+- lei-12901-de-2013: from 2013-12-19, its own clause: in force on publication
+- lei-12918-de-2013: from 2013-12-23, its own clause: in force on publication
+- lei-12922-de-2013: from 2013-12-27, its own clause: in force on publication
+- lei-12923-de-2013: from 2013-12-27, its own clause: in force on publication
+- lei-12924-de-2013: from 2013-12-27, its own clause: in force on publication
+- lei-12925-de-2013: from 2013-12-27, its own clause: in force on publication
+- lei-12926-de-2013: from 2013-12-27, its own clause: in force on publication
+- lei-12927-de-2013: from 2013-12-27, its own clause: in force on publication
+- lei-12928-de-2013: from 2013-12-27, its own clause: in force on publication
+- lei-12929-de-2013: from 2013-12-27, its own clause: in force on publication
+- lei-12930-de-2013: from 2013-12-27, its own clause: in force on publication
+- lei-12931-de-2013: from 2013-12-27, its own clause: in force on publication
+- lei-12933-de-2013: from 2019-09-09, the in-force day of Medida Provisória 895/2019, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-12934-de-2013: from 2013-12-30, its own clause: in force on publication
+- lei-12935-de-2013: from 2013-12-30, its own clause: in force on publication
+- lei-12953-de-2014: from 2014-02-06, its own clause: in force on publication
+- lei-12955-de-2014: from 2014-02-06, its own clause: in force on publication
+- lei-12957-de-2014: from 2014-03-20, its own clause: in force on publication
+- lei-12958-de-2014: from 2014-03-20, its own clause: in force on publication
+- lei-12959-de-2014: from 2014-03-20, its own clause: in force on publication
+- lei-12960-de-2014: from 2014-03-28, its own clause: in force on publication
+- lei-12961-de-2014: from 2014-04-07, its own clause: in force on publication
+- lei-12962-de-2014: from 2014-04-09, its own clause: in force on publication
+- lei-12963-de-2014: from 2014-04-09, its own clause: in force on publication
+- lei-12966-de-2014: from 2014-04-25, its own clause: in force on publication
+- lei-12968-de-2014: from 2014-05-07, its own clause: in force on publication
+- lei-12970-de-2014: from 2014-05-09, its own clause: in force on publication
+- lei-12974-de-2014: from 2024-09-19, the in-force day of Lei 14.978/2024, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2024-09-19))
+- lei-12976-de-2014: from 2014-05-20, its own clause: in force on publication
+- lei-12978-de-2014: from 2014-05-22, its own clause: in force on publication
+- lei-12979-de-2014: from 2014-05-28, its own clause: in force on publication
+- lei-12980-de-2014: from 2014-05-29, its own clause: in force on publication
+- lei-12981-de-2014: from 2014-05-29, its own clause: in force on publication
+- lei-12982-de-2014: from 2014-08-27, its own clause: 90 days after its DOU day
+- lei-12983-de-2014: from 2014-06-03, its own clause: in force on publication
+- lei-12984-de-2014: from 2014-06-03, its own clause: in force on publication
+- lei-12986-de-2014: from 2014-06-03, its own clause: in force on publication
+- lei-12987-de-2014: from 2014-06-03, its own clause: in force on publication
+- lei-12991-de-2014: from 2014-06-18, its own clause: in force on publication
+- lei-12992-de-2014: from 2014-06-18, its own clause: in force on publication
+- lei-12993-de-2014: from 2014-06-18, its own clause: in force on publication
+- lei-12994-de-2014: from 2014-06-18, its own clause: in force on publication
+- lei-12995-de-2014: from 2019-11-06, the in-force day of Medida Provisória 902/2019, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-12996-de-2014: from 2014-11-14, the in-force day of Lei 13.043/2014, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2014-11-14))
+- lei-12997-de-2014: from 2014-06-20, its own clause: in force on publication
+- lei-12998-de-2014: from 2014-06-20, its own clause: in force on publication
+- lei-12999-de-2014: from 2014-06-20, its own clause: in force on publication
+- lei-13000-de-2014: from 2014-06-20, its own clause: in force on publication
+- lei-13003-de-2014: from 2001-08-27, the in-force day of Medida Provisória 2.177-44/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-13004-de-2014: from 2014-08-24, its own clause: 60 days after its DOU day
+- lei-13006-de-2014: from 2014-06-27, its own clause: in force on publication
+- lei-13007-de-2014: from 2014-06-27, its own clause: in force on publication
+- lei-13008-de-2014: from 2014-06-27, its own clause: in force on publication
+- lei-13009-de-2014: from 2014-06-27, its own clause: in force on publication
+- lei-13010-de-2014: from 2014-06-27, its own clause: in force on publication
+- lei-13011-de-2014: from 2014-07-17, its own clause: in force on publication
+- lei-13014-de-2014: from 2014-10-20, its own clause: 90 days after its DOU day
+- lei-13015-de-2014: from 2014-09-20, its own clause: 60 days after its DOU day
+- lei-13020-de-2014: from 2014-08-07, its own clause: in force on publication
+- lei-13021-de-2014: from 2014-08-11, the in-force day of Medida Provisória 653/2014, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-13022-de-2014: from 2014-08-11, its own clause: in force on publication
+- lei-13023-de-2014: from 2014-08-11, its own clause: in force on publication
+- lei-13025-de-2014: from 2014-09-04, its own clause: in force on publication
+- lei-13026-de-2014: from 2014-09-04, its own clause: in force on publication
+- lei-13028-de-2014: from 2014-09-25, its own clause: in force on publication
+- lei-13029-de-2014: from 2014-09-25, its own clause: in force on publication
+- lei-13030-de-2014: from 2014-09-25, its own clause: in force on publication
+- lei-13031-de-2014: from 2014-09-25, its own clause: in force on publication
+- lei-13032-de-2014: from 2014-09-25, its own clause: in force on publication
+- lei-13034-de-2014: from 2014-10-29, its own clause: in force on publication
+- lei-13045-de-2014: from 2014-11-26, its own clause: in force on publication
+- lei-13046-de-2014: from 2014-12-02, its own clause: in force on publication
+- lei-13047-de-2014: from 2014-12-03, its own clause: in force on publication
+- lei-13048-de-2014: from 2014-12-03, its own clause: in force on publication
+- lei-13049-de-2014: from 2021-10-18, the in-force day of Lei 14.221/2021, the latest among the acts its notes name (its DOU day 2021-10-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.221/2021 (DOU 2021-10-18)
+- lei-13051-de-2014: from 2014-12-09, its own clause: in force on publication
+- lei-13052-de-2014: from 2014-12-09, its own clause: in force on publication
+- lei-13053-de-2014: from 2014-12-15, its own clause: in force on publication
+- lei-13057-de-2014: from 2014-12-23, its own clause: in force on publication
+- lei-13058-de-2014: from 2014-12-23, its own clause: in force on publication
+- lei-13060-de-2014: from 2014-12-23, its own clause: in force on publication
+- lei-13063-de-2014: from 2014-12-31, its own clause: in force on publication
+- lei-13064-de-2014: from 2014-12-31, its own clause: in force on publication
+- lei-13065-de-2014: from 2014-12-31, its own clause: in force on publication
+- lei-13067-de-2014: from 2014-12-31, its own clause: in force on publication
+- lei-13081-de-2015: from 2015-01-05, its own clause: in force on publication
+- lei-13085-de-2015: from 2015-01-09, its own clause: in force on publication
+- lei-13086-de-2015: from 2015-01-09, its own clause: in force on publication
+- lei-13088-de-2015: from 2015-01-13, its own clause: in force on publication
+- lei-13090-de-2015: from 2015-01-13, its own clause: in force on publication
+- lei-13091-de-2015: from 2015-01-13, its own clause: in force on publication
+- lei-13092-de-2015: from 2015-01-13, its own clause: in force on publication
+- lei-13093-de-2015: from 2015-01-13, its own clause: in force on publication
+- lei-13094-de-2015: from 2015-01-13, its own clause: in force on publication
+- lei-13095-de-2015: from 2015-01-13, its own clause: in force on publication
+- lei-13096-de-2015: from 2015-01-13, its own clause: in force on publication
+- lei-13098-de-2015: from 2015-01-28, its own clause: in force on publication
+- lei-13101-de-2015: from 2015-01-28, its own clause: in force on publication
+- lei-13104-de-2015: from 2015-03-10, its own clause: in force on publication
+- lei-13106-de-2015: from 2015-03-18, its own clause: in force on publication
+- lei-13107-de-2015: from 2015-03-25, its own clause: in force on publication
+- lei-13109-de-2015: from 2018-09-25, the in-force day of Lei 13.716/2018, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2018-09-25))
+- lei-13110-de-2015: from 2015-03-26, its own clause: in force on publication
+- lei-13111-de-2015: from 2015-05-25, its own clause: 60 days after its DOU day
+- lei-13112-de-2015: from 2015-03-31, its own clause: in force on publication
+- lei-13114-de-2015: from 2015-04-17, its own clause: in force on publication
+- lei-13116-de-2015: from 2025-12-23, the in-force day of Lei 15.300/2025, the latest among the acts its notes name (its DOU day 2025-12-23: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.424/2022 (DOU 2022-07-28), Lei 15.300/2025 (DOU 2025-12-23)
+- lei-13124-de-2015: from 2015-05-22, its own clause: in force on publication
+- lei-13126-de-2015: from 2015-05-22, its own clause: in force on publication
+- lei-13127-de-2015: from 2015-05-27, its own clause: in force on publication
+- lei-13129-de-2015: from 2015-07-26, its own clause: 60 days after its DOU day
+- lei-13132-de-2015: from 2015-06-10, its own clause: in force on publication
+- lei-13133-de-2015: from 2015-06-16, its own clause: in force on publication
+- lei-13134-de-2015: from 2015-06-17, its own clause: in force on publication
+- lei-13136-de-2015: from 2015-06-18, its own clause: in force on publication
+- lei-13138-de-2015: from 2015-06-29, its own clause: in force on publication
+- lei-13142-de-2015: from 2015-07-07, its own clause: in force on publication
+- lei-13143-de-2015: from 2015-07-07, its own clause: in force on publication
+- lei-13144-de-2015: from 2015-07-07, its own clause: in force on publication
+- lei-13149-de-2015: from 2015-07-22, its own clause: in force on publication
+- lei-13150-de-2015: from 2015-07-28, its own clause: in force on publication
+- lei-13151-de-2015: from 2015-07-29, its own clause: in force on publication
+- lei-13152-de-2015: from 2015-07-30, its own clause: in force on publication
+- lei-13153-de-2015: from 2015-07-31, its own clause: in force on publication
+- lei-13154-de-2015: from 2015-07-31, its own clause: in force on publication
+- lei-13156-de-2015: from 2015-08-05, its own clause: in force on publication
+- lei-13158-de-2015: from 2015-08-05, its own clause: in force on publication
+- lei-13159-de-2015: from 2015-08-11, its own clause: in force on publication
+- lei-13161-de-2015: from 2015-10-15, no in-force clause of its own: LINDB art. 1, its DOU day (2015-08-31) + 45 days
+- lei-13163-de-2015: from 2015-09-10, its own clause: in force on publication
+- lei-13165-de-2015: from 2017-10-06, the in-force day of Lei 13.488/2017, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2017-10-06))
+- lei-13166-de-2015: from 2015-10-02, its own clause: in force on publication
+- lei-13167-de-2015: from 2015-10-07, its own clause: in force on publication
+- lei-13168-de-2015: from 2015-10-07, its own clause: in force on publication
+- lei-13171-de-2015: from 2015-10-22, its own clause: in force on publication
+- lei-13172-de-2015: from 2015-10-22, its own clause: in force on publication
+- lei-13173-de-2015: from 2015-10-22, its own clause: in force on publication
+- lei-13174-de-2015: from 2015-10-22, its own clause: in force on publication
+- lei-13175-de-2015: from 2015-10-22, its own clause: in force on publication
+- lei-13176-de-2015: from 2015-10-22, its own clause: in force on publication
+- lei-13177-de-2015: from 2015-10-23, its own clause: in force on publication
+- lei-13178-de-2015: from 2025-09-15, the in-force day of Lei 15.206/2025, the latest among the acts its notes name (its DOU day 2025-09-15: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.177/2021 (DOU 2021-06-23), Lei 15.206/2025 (DOU 2025-09-15)
+- lei-13179-de-2015: from 2015-10-23, its own clause: in force on publication
+- lei-13180-de-2015: from 2026-05-29, the in-force day of Lei 15.419/2026, the latest among the acts its notes name (its DOU day 2026-05-29: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.419/2026 (DOU 2026-05-29)
+- lei-13183-de-2015: from 2015-12-20, no in-force clause of its own: LINDB art. 1, its DOU day (2015-11-05) + 45 days
+- lei-13184-de-2015: from 2015-11-05, its own clause: in force on publication
+- lei-13185-de-2015: from 2016-02-07, its own clause: 90 days after its DOU day
+- lei-13186-de-2015: from 2015-11-12, its own clause: in force on publication
+- lei-13188-de-2015: from 2015-11-12, its own clause: in force on publication
+- lei-13190-de-2015: from 2015-11-20, its own clause: in force on publication
+- lei-13191-de-2015: from 2015-11-24, its own clause: in force on publication
+- lei-13192-de-2015: from 2015-11-24, its own clause: in force on publication
+- lei-13193-de-2015: from 2015-11-25, its own clause: in force on publication
+- lei-13194-de-2015: from 2015-11-25, its own clause: in force on publication
+- lei-13195-de-2015: from 2015-11-26, its own clause: in force on publication
+- lei-13196-de-2015: from 2016-01-16, no in-force clause of its own: LINDB art. 1, its DOU day (2015-12-02) + 45 days
+- lei-13197-de-2015: from 2015-12-02, its own clause: in force on publication
+- lei-13199-de-2015: from 2015-12-03, its own clause: in force on publication
+- lei-13202-de-2015: from 2016-01-23, no in-force clause of its own: LINDB art. 1, its DOU day (2015-12-09) + 45 days
+- lei-13228-de-2015: from 2015-12-29, its own clause: in force on publication
+- lei-13230-de-2015: from 2015-12-29, its own clause: in force on publication
+- lei-13234-de-2015: from 2015-12-30, its own clause: in force on publication
+- lei-13239-de-2015: from 2024-06-13, the in-force day of Lei 14.887/2024, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2024-06-13))
+- lei-13243-de-2016: from 2016-01-12, its own clause: in force on publication
+- lei-13245-de-2016: from 2016-01-13, its own clause: in force on publication
+- lei-13247-de-2016: from 2016-01-13, its own clause: in force on publication
+- lei-13249-de-2016: from 2018-01-04, the in-force day of Lei 13.588/2018, the latest among the acts its notes name (its DOU day 2018-01-04: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.588/2018 (DOU 2018-01-04)
+- lei-13250-de-2016: from 2016-01-14, its own clause: in force on publication
+- lei-13251-de-2016: from 2016-01-14, its own clause: in force on publication
+- lei-13252-de-2016: from 2016-01-14, its own clause: in force on publication
+- lei-13253-de-2016: from 2016-01-14, its own clause: in force on publication
+- lei-13254-de-2016: from 2017-03-31, the in-force day of Lei 13.428/2017, the latest among the acts its notes name (its DOU day 2017-03-31: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.428/2017 (DOU 2017-03-31)
+- lei-13257-de-2016: from 2025-09-29, the in-force day of Lei 15.220/2025, the latest among the acts its notes name (its DOU day 2025-09-29: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.880/2024 (DOU 2024-06-05), Lei 15.220/2025 (DOU 2025-09-29)
+- lei-13258-de-2016: from 2016-03-09, its own clause: in force on publication
+- lei-13259-de-2016: from 2020-06-12, the in-force day of Lei 14.011/2020, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2020-06-12))
+- lei-13262-de-2016: from 2016-03-23, its own clause: in force on publication
+- lei-13263-de-2016: from 2016-03-24, its own clause: in force on publication
+- lei-13264-de-2016: from 2016-04-04, its own clause: in force on publication
+- lei-13265-de-2016: from 2016-04-04, its own clause: in force on publication
+- lei-13267-de-2016: from 2016-04-07, its own clause: in force on publication
+- lei-13269-de-2016: from 2016-04-14, its own clause: in force on publication
+- lei-13270-de-2016: from 2016-04-14, its own clause: in force on publication
+- lei-13271-de-2016: from 2016-04-18, its own clause: in force on publication
+- lei-13272-de-2016: from 2016-04-18, its own clause: in force on publication
+- lei-13273-de-2016: from 2016-04-18, its own clause: in force on publication
+- lei-13274-de-2016: from 2016-04-27, its own clause: in force on publication
+- lei-13278-de-2016: from 2016-05-03, its own clause: in force on publication
+- lei-13280-de-2016: from 2016-05-04, its own clause: in force on publication
+- lei-13281-de-2016: from 2016-06-19, no in-force clause of its own: LINDB art. 1, its DOU day (2016-05-05) + 45 days
+- lei-13282-de-2016: from 2016-05-05, its own clause: in force on publication
+- lei-13283-de-2016: from 2016-05-05, its own clause: in force on publication
+- lei-13284-de-2016: from 2016-05-11, its own clause: in force on publication
+- lei-13286-de-2016: from 2016-05-11, its own clause: in force on publication
+- lei-13287-de-2016: from 2016-05-11, its own clause: in force on publication
+- lei-13289-de-2016: from 2016-05-23, its own clause: in force on publication
+- lei-13290-de-2016: from 2016-07-08, no in-force clause of its own: LINDB art. 1, its DOU day (2016-05-24) + 45 days
+- lei-13291-de-2016: from 2016-05-27, its own clause: in force on publication
+- lei-13293-de-2016: from 2016-06-02, its own clause: in force on publication
+- lei-13295-de-2016: from 2016-06-15, its own clause: in force on publication
+- lei-13297-de-2016: from 2016-06-17, its own clause: in force on publication
+- lei-13298-de-2016: from 2016-06-21, its own clause: in force on publication
+- lei-13299-de-2016: from 2018-11-14, the in-force day of Medida Provisória 855/2018, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-13301-de-2016: from 2020-04-07, the in-force day of Lei 13.985/2020, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2020-04-07))
+- lei-13302-de-2016: from 2016-08-12, no in-force clause of its own: LINDB art. 1, its DOU day (2016-06-28) + 45 days
+- lei-13306-de-2016: from 2016-07-05, its own clause: in force on publication
+- lei-13307-de-2016: from 2016-07-07, its own clause: in force on publication
+- lei-13308-de-2016: from 2016-07-07, its own clause: in force on publication
+- lei-13311-de-2016: from 2016-07-12, its own clause: in force on publication
+- lei-13313-de-2016: from 2016-07-15, its own clause: in force on publication
+- lei-13317-de-2016: from 2016-07-21, its own clause: in force on publication
+- lei-13319-de-2016: from 2020-08-06, the in-force day of Lei 14.034/2020, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2020-08-06))
+- lei-13320-de-2016: from 2016-07-28, its own clause: in force on publication
+- lei-13322-de-2016: from 2016-07-29, its own clause: in force on publication
+- lei-13323-de-2016: from 2016-09-12, no in-force clause of its own: LINDB art. 1, its DOU day (2016-07-29) + 45 days
+- lei-13325-de-2016: from 2025-06-03, the in-force day of Lei 15.141/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-06-03))
+- lei-13326-de-2016: from 2026-02-25, the in-force day of Lei 15.352/2026, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2026-02-25))
+- lei-13328-de-2016: from 2023-11-14, the in-force day of Lei 14.724/2023, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2023-11-14)); in-force day not read, so its DOU day is used, for: Lei 13.915/2019 (DOU 2019-11-29)
+- lei-13330-de-2016: from 2016-08-03, its own clause: in force on publication
+- lei-13331-de-2016: from 2022-08-04, the in-force day of Lei 14.430/2022, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2022-08-04))
+- lei-13332-de-2016: from 2016-09-02, its own clause: in force on publication
+- lei-13333-de-2016: from 2016-09-13, its own clause: in force on publication
+- lei-13335-de-2016: from 2016-09-15, its own clause: in force on publication
+- lei-13342-de-2016: from 2016-10-04, its own clause: in force on publication
+- lei-13345-de-2016: from 2016-10-11, its own clause: in force on publication
+- lei-13348-de-2016: from 2016-10-11, its own clause: in force on publication
+- lei-13351-de-2016: from 2016-10-26, its own clause: in force on publication
+- lei-13353-de-2016: from 2016-11-04, its own clause: in force on publication
+- lei-13358-de-2016: from 2016-11-08, its own clause: in force on publication
+- lei-13360-de-2016: from 2016-11-18, its own clause: in force on publication
+- lei-13361-de-2016: from 2016-11-24, its own clause: in force on publication
+- lei-13362-de-2016: from 2016-11-24, its own clause: in force on publication
+- lei-13363-de-2016: from 2016-11-28, its own clause: in force on publication
+- lei-13364-de-2016: from 2019-09-18, the in-force day of Lei 13.873/2019, the latest among the acts its notes name (its DOU day 2019-09-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.873/2019 (DOU 2019-09-18)
+- lei-13365-de-2016: from 2016-11-30, its own clause: in force on publication
+- lei-13366-de-2016: from 2016-12-02, its own clause: in force on publication
+- lei-13367-de-2016: from 2016-12-06, its own clause: in force on publication
+- lei-13369-de-2016: from 2016-12-13, its own clause: in force on publication
+- lei-13370-de-2016: from 2016-12-13, its own clause: in force on publication
+- lei-13397-de-2016: from 2016-12-22, its own clause: in force on publication
+- lei-13406-de-2016: from 2016-12-27, its own clause: in force on publication
+- lei-13409-de-2016: from 2016-12-29, its own clause: in force on publication
+- lei-13410-de-2016: from 2016-12-29, its own clause: in force on publication
+- lei-13412-de-2016: from 2023-01-10, the in-force day of Lei 14.522/2023, the latest among the acts its notes name (its DOU day 2023-01-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.522/2023 (DOU 2023-01-10)
+- lei-13413-de-2016: from 2016-12-30, its own clause: in force on publication
 - Acts of this part (Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995); Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004); Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007); Lei do Petróleo (Lei nº 9.478, de 6 de agosto de 1997); Lei de Abuso de Autoridade (Lei nº 13.869, de 5 de setembro de 2019); Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980); Lei das Inelegibilidades (Lei Complementar nº 64, de 18 de maio de 1990); Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990); Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023); Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003); Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981)): each paragraph's life span is read from Planalto's annotated page of the act (l8987cons.htm, l11079.htm, l11445.htm, l9478.htm, l13869.htm, l6880.htm, lcp64.htm, l8142.htm, l14597.htm, l10.671.htm, l6938.htm), with the replay of Lexifina's code (imported, not copied): struck wordings stay in place before the wording that replaced them, each closed by the source's own note ('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted.
 - Credits come only from those notes; a changed article with no note naming a law stays uncredited.
 - A struck wording with no 'Revogado' note ends when the next wording of the same dispositivo (same label in the same article) starts; a Medida Provisória's wording with no later wording ends on the in-force day of the law that converted the MP (read from the MP page's 'Convertida na Lei' line).
@@ -8112,6 +9117,7 @@ Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP lapse days) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP fates, court rulings) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (MP lapse days, staged vigência days, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
