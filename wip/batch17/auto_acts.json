@@ -1,36 +1,5 @@
 [
  {
-  "slug": "decreto-lei-2321-de-1987",
-  "short": "DL2321",
-  "page": "auto-dl-2321-1987",
-  "path": "decreto-lei/del2321.htm",
-  "law": "dl-2321-1987",
-  "title": "Institui, em defesa das finanças públicas, regime de administração especial temporária, nas instituições financeiras privadas e públicas não federais, e dá outras providências (Decreto-Lei nº 2.321, de 25 de fevereiro de 1987)",
-  "digits": 2,
-  "act_day": [
-   "1987-02-26",
-   "Decreto-Lei 2.321/1987 art. 20: 'Este decreto-lei entra em vigor na data de sua publicação' (DOU 26.2.1987)"
-  ],
-  "law_rec": {
-   "label": "Decreto-Lei nº 2.321, de 1987",
-   "title": "Institui, em defesa das finanças públicas, regime de administração especial temporária, nas instituições financeiras privadas e públicas não federais, e dá outras providências.",
-   "kind": "law",
-   "enacted": "1987-02-25",
-   "published": "1987-02-26",
-   "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del2321.htm",
-   "temporary_until": null,
-   "restores": null,
-   "note": null
-  },
-  "ts": "20261024143353",
-  "notes": 3,
-  "vig_ref": "art. 20: in force on publication",
-  "row_title": "Decreto-Lei 2.321/1987, Institui, em defesa das finanças públicas, regime de administração especial temporária, nas instituições financeiras privadas e públicas não federais, e dá outras providências",
-  "key": "dl-2321",
-  "cited_by": 5,
-  "part": "zzzzr"
- },
- {
   "slug": "lei-8857-de-1994",
   "short": "L8857",
   "page": "auto-lei-8857-1994",
