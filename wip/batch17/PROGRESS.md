@@ -4875,3 +4875,129 @@ OPEN / DATED RE-CHECKS unchanged.
 - LC 26/1975 art. 7: 1.7.1976 stands. The law's own text (art. 1) governs over Planalto's misprinted "1º de julho de 1970"; keep the decision line.
 - LC 85/1996: no version. It changes no words; the decision line is enough.
 - zzzzo, zzzzp, zzzzq stay held until the append-only publisher is wired (fast-forward only). zzzzo's PUBLISH wording is not changed now.
+
+## Sixty-fifth session (2026-11-02/03, gitlaw-scraper-hp-omen): enumeration, part zzzzr PUBLISHED (11 acts), the unattended lane and the breadth-first current-text runner
+Claim: world-law/claims/brazil-law.txt ('gitlaw-scraper-hp-omen 2026-11-02T20:42:46Z ...', written by the composer), released
+at the end. Scratch: ~/Documents/.gitlaw-scratch/brazil-lexml65 (before65/ = session-start copies of
+parse_batch17.py, sources_batch17.json, README.md, jurisdiction.json; tools/; data/; logs/; lane/; cur/; pids65.txt).
+Every live request went through gitlaw_common/fetch_scheduler.get (GITLAW_SESSION=gitlaw-scraper-hp-omen); archive.org
+through the shared wayback client. No Common Crawl, no Arquivo.pt, no STF, no Senado; no challenge page anywhere.
+
+### Robots, terms, endpoints (read first)
+- www.lexml.gov.br/robots.txt (200, 20:47Z): `User-Agent: *` Disallow /busca/ /doc/ /linker/, Allow /urn /sru,
+  Crawl-delay 5. The documented SRU search is https://www.lexml.gov.br/busca/SRU: under the Disallowed /busca/, so NOT
+  requested. /sru, /sru/, /sru/SRU, /oai, /oai/request: 404 (one probe each; coordinator then said stop probing). The URN
+  resolver works for one URN per request (year-only URNs resolve; 'urn:lex:br:federal:lei:2011' does not list). LexML's
+  documentation (projeto.lexml.gov.br FAQ, read once) sends "Dados Abertos" to dadosabertos.senado.gov.br/group/lexml: a
+  Senado host, left alone. So LexML gives no whole-set export or enumeration this lane may use.
+- legis.senado.leg.br/robots.txt: HTTP 403 -> the scheduler stopped the host for good (HostStopped). Not retried.
+- www.planalto.gov.br/robots.txt: timed out three times (20:48Z, 20:51Z, ~23:05Z): Planalto read only from Internet
+  Archive copies (D2: the site times out). Its terms as recorded in the existing sources entries (gov.br Termo de Uso).
+
+### LexML/Planalto inventory (data/inventory.json; tools/iaq.py, inv.py, rank.py)
+Planalto's own index pages ('quadro' pages: Leis by year/period, Leis Complementares, Leis Delegadas, Decretos-Leis
+1937-1946 and 1965-1988, Medidas Provisórias by period): 60 pages, newest complete archive.org copy each, pinned in
+data/index_pins.json (59 pinned; quadro_cod and _lei-ordinaria are menus). Rows: number, signing day, DOU day, Planalto
+path, ementa; MPs also their fate column.
+- Counts: Leis 14,523 (1891-2026; 14,012+ with a DOU day; post-1946 numbering ~92% covered: gaps 95-115, 165-208, 241-261,
+  459-479, 500-591, 668-748, 888-908 (early pages) and 1988-1991 (7.689-7.714, 7.862-7.990, 8.242-8.269: the 1988 page is
+  partial)); Leis Complementares 239 (1962-2026); Decretos-Leis 3,799 (1937-1988); Leis Delegadas 13; Medidas Provisórias
+  1,975 base rows (1988-2026; editions of the 1988-2001 reissue chains are not rows of their own).
+- In force vs revoked: the index pages do not mark it for Leis/LCs/DLs. Lower bound from later acts' ementas ('revoga a
+  Lei nº ...' as a whole): Leis 144, LCs 4, DLs 61. Page-head check on the acts read so far: 26 of ~125 lane candidates and
+  16 of the first ~120 runner pages carry 'Revogada pela ...' at the head (left out). MP fates (fate column): converted 890,
+  lapsed ('vigência encerrada' / 'sem eficácia') 350, rejected 39, revoked 28, prejudged 5, archived 4, pending 48, column
+  naming an originating act 370, unmarked 241.
+- Non-normative by ementa (budget credits, names of roads, commemorative days, pensions, donations): Leis 5,273, DLs 318,
+  LCs 8 (kept in the queue, after the normative acts).
+- Ranking (data/cites.json, ranked.json): for each norm, the number of installed acts whose text cites it (any version),
+  mentions as tie-break; 828 cited norms not installed, 782 without a whole-act revocation in an ementa.
+
+### Part zzzzr: 11 acts, 25 versions, PUBLISHED (corpus.d/99-batch17zzzzr.json 0a495e0e, parses 45e9b02c)
+Hand-configured (parse_batch17.py PAGES/ALL_ACTS/PARTS/ACT_DAY_ALL/ACT_LAWS_ALL): Lei 11.326/2006 (agricultura familiar,
+4 versions, 2006-2024; art. 7 on publication, DOU 25.7.2006), Lei Complementar 63/1990 (5, 1990-2026; art. 11; LC 227/2026
+art. 166 in effect on publication under its art. 182 III, read on LC 227's page). Lane-configured (batch17/auto_acts.json,
+loaded by a new block before VERIFIED and after ACT_LAWS_ALL): Lei 8.857/1994 (3), LC 61/1989 (1), Lei 6.205/1975 (2),
+Lei 9.477/1997 (2), Lei 10.835/2004 (1), Lei 12.276/2010 (1), Lei 9.277/1996 (1), Decreto-Lei 2.052/1983 (4), Decreto-Lei
+368/1968 (1). Every one in force on publication by its own clause, DOU day from its footer = Planalto's index.
+- Gate (pipe.sh zzzzr, second run, lane/zzzzr-pipe.log): 45e9b02c x2, 0 problems, 0 units differ on all 11, effects_fix
+  0 moves, dupline/dupcheck/leakcheck/ordercheck/missorig 0, quotecheck 4 = quoted words printed in the laws (LC 63 art. 4
+  account name; Lei 6.205 art. 1 "caput", art. 3 the paragraph it adds to Lei 6.147), uniqlaws 0, dupsame 0, SAME 0,
+  latecaput 0, merged 323 acts, 4358 versions, 2982 commits, check 0/0, --compare identical, main_identical, audit_push
+  clean main + futuro. Re-parse after the later parser edits: 45e9b02c again (logs/zzzzr-recheck.json).
+- Installed with one PUBLISH line (its hash wording corrected by hand: parses 45e9b02c, file 0a495e0e); README rows +
+  jurisdiction.json via batch14/.tmp/docs.py (323 acts, 4358 versions). Publication: queues behind the brazil drift hold
+  (append-only; new acts).
+- Dropped from the part on the way (state in lane/state.json): Lei 7.803/1989 (an amending act: rule added), LC 156/2016 (3
+  units differ from the consolidated page), LC 126/2007 (no in-force day for LC 213/2025), Decreto-Lei 2.321/1987 (pubgap:
+  Decreto-Lei 2.327/1987 dated 24.4 but its page footer says DOU 15.4.1987). DL 2.327's day: Planalto's DL index and LexML's
+  record (urn:lex:br:federal:decreto.lei:1987-04-24;2327, read once through the scheduler, 'Diário Oficial da União. Seção
+  1. 27/04/1987. p. 5917') give 27.4.1987; the record was copied into the parser's fetch cache (.cache/bb78e192...bin, no
+  second request), so P.lexml_published now corrects it the established way (PUB_CORRECTED). DL 2.321 re-queued for the
+  lane's next part.
+
+### The lane (tools/lane.py; THROUGHPUT RULES)
+Unattended, resumable, BelowNormal, one child at a time, cpu5 gate (gitlaw-cpu.log <= 92). Picks ranked candidates whose page
+passes: no revocation at the head; one plain 'entra em vigor na data de sua publicação' clause (no effects/exceptions);
+footer DOU = index DOU; heading date = index date; <= 40 notes, none naming an MP, an EC or a ruling; not an amending act
+(ementa 'Altera/Acrescenta/Revoga/...'). Writes auto_acts.json, runs iaonly.py pages/laws/missing, a screening parse (drops
+acts with PROBLEM/MIXED/DIFF lines), then pipe.sh; a gate line naming an act (or a law key credited only by some acts) drops
+those acts and reruns; anything else stops the lane. Installs 99-batch17<part>.json + .PUBLISH + docs rows; never replaces an
+installed part; never pushes. Files: lane/lane.log, lane.pid, status.json, state.json (125 rejections with reasons),
+children.txt. Next part name: zzzzs.
+Command: `Start-Process -WindowStyle Hidden -FilePath python -ArgumentList '-X','utf8','~\Documents\.gitlaw-scratch\brazil-lexml65\tools\lane.py','--batch','10' -WorkingDirectory ~\Documents\.gitlaw-scratch\brazil-lexml65`
+(then set BelowNormal), after writing a claim line containing `brazil-law-lane-runner`. Run it alone or with cur.py
+stopped (two processes at most).
+
+### Breadth first: current-text runner (tools/cur.py + curread.py; BRIEF 'BREADTH FIRST')
+Queue: every Lei, LC, Lei Delegada and DL on the index pages not held (installed, configured or in auto_acts.json): 18,132
+(12,555 normative), normative first, most cited first, newest first. Per act: newest complete archive.org copy of its page
+(same cache and pin rule as fetch_batch5.pin_ia); left out if revoked at the head; text = batch 17's reader (parse_batch17's
+wrapped paragraphs(), imported with no act configured): plain paragraphs, the plain part of mixed ones, struck ones and
+notes left out; units preambulo / titulos (every heading and rubric line, document order) / art-NNN; first_law null
+(oldest version available). `from` = the latest DOU day among the acts its change notes name (Redação dada / Incluído /
+Revogado / Acrescido / Renumerado / Suprimido), DOU days from the index pages, then the corpus's own law records; MPs
+included (in effect on publication); a note without a year is resolved when the number is unique in the index. No such note:
+its own clause (on publication, or N days after its DOU day). Left out: notes naming decrees, rulings, Emendas, LC 214/2025
+or LC 227/2026 (deferred effects), unknown DOU days, unreadable clauses, days after today. Second build re-reads every page
+from the cache and must give the same bytes; then a merged scratch build of the whole folder + the part: build, check.py
+0/0, --compare identical, audit_push clean; install corpus.d/98-current-NNN.json + .PUBLISH. Batches of 500.
+State at handoff: first batch reading pages (PID 6996): see cur/status.json and cur/state.json (pending.json = acts read
+so far). It stops itself at its next claim check once the claim is released; resumable (pending.json kept).
+Command: `Start-Process -WindowStyle Hidden -FilePath python -ArgumentList '-X','utf8','~\Documents\.gitlaw-scratch\brazil-lexml65\tools\cur.py','--batch','500' -WorkingDirectory ~\Documents\.gitlaw-scratch\brazil-lexml65`
+(then set BelowNormal), after writing a claim line containing `brazil-law-cur-runner`.
+Not yet: README paragraph for current-text acts (docs.py adds history rows only; a 'Acts with their current text only'
+paragraph and count are needed when the first 98-current part installs).
+
+### Decisions to confirm (coordinator)
+1. LexML enumeration: not used (SRU under robots-Disallowed /busca/; no OAI; export only via the Senado). Inventory from
+   Planalto's index pages (archive.org copies, D2); LexML /urn only for single records.
+2. Unattended PUBLISH after pipe.sh's full gate (lane parts) and after the build/check/compare/audit gate (current-text
+   parts), with no person reading each act.
+3. Current-text dating: the latest DOU day among the acts its notes name; where an amending act took effect later than its
+   DOU day the version starts early (decision line in each part). MP DOU days count as in-force days.
+4. Current-text acts use the lane's slugs (lei-N-de-YYYY ...); a later history for one of them changes a published version:
+   it needs the correction-commit path (D12), i.e. histories for current-text acts are corrections, not appends.
+5. Part zzzzr mixes 2 hand acts and 9 lane acts; README titles from the ementa's first clause.
+6. DL 2.327/1987 published 27.4.1987 (LexML + index), not the page footer's 15.4.1987.
+
+### Corrections to published text: none found.
+
+### Next leads
+- Index gaps: MP 1.072/2021 has no DOU day; early Lei pages (numbers 95-908) and 1988-1991 partial; Decretos not
+  enumerated (decreto/quadros/* pages exist: 1960-2000 per year, 2001-2003, then _ato*/decreto/_quadro.htm).
+- Planalto note typos seen: 'Lei nº 134360' (Lei 9.648's page, 2016), 'Lei 5.049/1996' (Lei 4.380's page).
+- Lane rejects to hand work: LC 156/2016 (3 units differ), LC 126/2007 (LC 213/2025's day), the MP-noted acts (Lei 10.684,
+  Lei 9.447, DL 271, Lei 12.810, ...), the >40-note acts (LC 123, Lei 8.981, DL 9.760, Lei 4.380, DL 73, ...).
+- Lei 4.380/1964 (from the sixty-fourth session's list) unchanged: still hand work.
+
+- PIDs (all mine): pids65.txt. Stopped by me, by PID: 41908, 49096 (lane restarts), 28560 (runner restart). Lane runs
+  10480 (stopped itself on the gate), 556 (installed zzzzr, exited). Children in lane/children.txt. Watchers: each one
+  stopped by its task id (duplicates included) or ended with its job; none left. Still running at handoff: cur.py PID 6996
+  (stops itself at the claim check after the claim is released).
+
+## State at handoff (batch 17, sixty-fifth session, 2026-11-03)
+PUBLISHED: zzzzr (11 acts, 25 versions; parses 45e9b02c, file 0a495e0e): Lei 11.326/2006, LC 63/1990 (hand), Leis 8.857/1994, 6.205/1975, 9.477/1997, 10.835/2004, 12.276/2010, 9.277/1996, LC 61/1989, DLs 2.052/1983, 368/1968 (lane). Installed: 323 acts, 4358 versions, 2982 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws 0; dupsame 0; README rows + jurisdiction.json current. Publication queues behind the brazil drift hold (new acts, append).
+Files changed: parse_batch17.py (PAGES l11326/lcp63, two acts, PARTS zzzzr, ACT_DAY/ACT_LAWS, the auto_acts.json loader in two places), batch17/auto_acts.json (new: the lane's 9 acts), sources_batch17.json (lane pins), corpus.d/99-batch17zzzzr.json + .PUBLISH (new), .cache (one LexML record copied in: DL 2.327), repo/README.md, repo/jurisdiction.json, PROGRESS.md, this file. Claim released.
+RUNNING: none after the claim release (cur.py PID 6996 stops itself at its next claim check; resumable).
+TO DO: start cur.py (breadth first, 500-act current-text parts) with a claim line containing brazil-law-cur-runner; add the README 'current text only' paragraph when 98-current-001 installs; lane parts from zzzzs (DL 2.321 re-queued); decisions 1-6 above.
