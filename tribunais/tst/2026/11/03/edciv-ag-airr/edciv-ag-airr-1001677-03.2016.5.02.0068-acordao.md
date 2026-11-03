@@ -1,0 +1,365 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-Ag-AIRR - 1001677-03.2016.5.02.0068
+A C Ó R D Ã O
+4ª Turma
+GMMCP /dpf/ac
+EMBARGOS DE DECLARAÇÃO DA PARTE RECLAMANTE EM
+AGRAVO EM AGRAVO DE INSTRUMENTO – ADICIONAL DE
+PERICULOSIDADE – INFLAMÁVEIS – PRÉDIO VERTICAL
+Não há omissão, contradição ou obscuridade no acórdão. O
+Embargante pretende a modificação do julgado, o que não se
+coaduna com a via eleita.
+Embargos de Declaração rejeitados.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo em Agravo de Instrumento em Recurso de Revista nº TST-EDCiv-Ag-AIRR - 1001677-
+03.2016.5.02.0068, em que é Embargante CLEDER HERNANDES FERREIRA e é Embargada TELEFÔNICA
+BRASIL S.A..
+A C. 4ª Turma negou provimento ao Agravo do Reclamante (fls. 1.846/1.850).
+O Reclamante opõe Embargos de Declaração às fls. 1.852/1.858.
+A Reclamada apresentou manifestação à fl. 1.863.
+É o relatório.
+V O T O
+I - CONHECIMENTO
+Tempestivos e regularmente subscritos, conheço dos Embargos de Declaração.
+II – MÉRITO
+Esta C. Turma negou provimento ao Agravo do Reclamante, nos seguintes termos:
+O Reclamante requer a condenação da Reclamada ao pagamento de adicional de
+periculosidade, ao fundamento de que laborou em condições de risco decorrentes do irregular
+armazenamento de líquido inflamável no prédio em que laborava. Afirma que, no subsolo do bloco B,
+está armazenado óleo diesel em quantidade superior à permitida, ultrapassando os 250 litros
+autorizados pela NR-16. Aponta contrariedade à Orientação Jurisprudencial nº 385 da SBDI-1.
+Colaciona julgados.
+Não renova a preliminar de nulidade do acórdão regional por negativa de prestação
+jurisdicional, que resta preclusa.
+A decisão agravada não comporta reforma.
+O Tribunal Regional excluiu a condenação da Reclamada ao pagamento do adicional de
+periculosidade, nos seguintes termos:
+ADICIONAL DE PERICULOSIDADE
+O reclamante trabalhou para a ré de 20.02.1992 a 03.08.2016 e a sentença
+decretou a prescrição de verbas anteriores a 09.09.2011.
+Consigno, inicialmente, que a NR-20 define o que são líquidos combustíveis e
+inflamáveis e fixa normas de armazenamento sem, contudo, estabelecer critérios para
+delimitação da periculosidade, o que é feito pela NR-16. E esta não deixa dúvida no
+sentido de que a área de risco na hipótese de tanques de inflamáveis líquidos é toda
+a bacia de segurança, não autorizando sua extensão para todo o prédio.
+Outrossim, deve ser observado que a NR 20 sofreu alteração em razão da Portaria
+308/2012, publicada no DOU de 06.03.2012, sendo certo que a apreciação do tema
+concernente ao direito ao recebimento do adicional de periculosidade deve atentar para
+a legislação que vigorava à época da prestação dos serviços. De acordo com o artigo 3º,
+da Portaria 308/2012, que modificou a norma regulamentadora, as disposições
+constantes do subitem 20.17.2.1 da NR 20, à exceção das letras "c" e "e", passaram a ter
+validade doze meses após a publicação da referida portaria. Portanto, tendo em vista
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100686435352B5BF61.
+que a publicação da norma ocorreu em 06.03.2012, a antiga redação da NR 20 teve
+aplicação até 06.03.2013.
+O laudo pericial foi juntado às fls. 345/364.Esclarece o senhor vistor que a
+edificação inspecionada possui dois blocos, "A" e "B", e que o autor trabalhou no 7º
+andar do bloco "B", apontando que o "óleo diesel está armazenado na sala dos tanques
+(subsolo do bloco "B"). No local existem 1 tanque enterrado de 5.000 litros e 3 tanques
+com capacidade para 200 litros de óleo diesel. Os tanques de 200 litros são
+independentes, estão instalados em bacia de contenção, possuem respiro externo, estão
+aterrados e a sala possui iluminação blindada ", acrescentando que " na área externa da
+edificação, existe um tanque aéreo com capacidade para 1.000 litros de óleo diesel,
+instalado em bacia de contenção ". Referiu o louvado que "Prova emprestada (documento
+ID "1d909ea" e "c136e4e") indica que em novembro de 2013 foram instalados dois
+geradores móveis e dois containers de 500 litros de óleo diesel no subsolo do bloco "B" .
+Este profissional pode afirmar que em janeiro de 2014 os containers de 500 litros
+estavam no local, mas não tem condições de precisar quando os geradores e os tanques
+foram retirados ", concluindo, em razão desse fato, que a partir de novembro de 2013,
+o autor desenvolveu atividades em área de risco .
+Entretanto, encontra-se equivocado o entendimento do senhor perito.O fato de
+ter sido constatado que havia na ré, em novembro de 2013, contêiner de
+combustível não enterrado, instalado no subsolo, por si só, nenhum benefício traz
+ao trabalhador . Tendo em vista que o laudo pericial não demonstra desrespeito ao
+limite legal previsto na NR-20 (250lts até 05.03.2013 e 3.000lts a partir de 06.03.2013),
+eventuais outras irregularidades na instalação dos tanques de combustíveis apenas
+permitem reconhecer como área de risco a bacia de segurança, não autorizando a
+extensão da periculosidade para todo o edifício .A hipótese em questão não
+comporta a aplicação da Orientação Jurisprudencial 385 da SDI-I do C. TST, a qual
+estabelece como área de risco toda a área interna da construção vertical, quando a
+quantidade de líquido inflamável armazenado, esteja acima do limite legal, o que
+não ocorre no caso . E o demandante não laborava no local onde estavam instalados os
+contêineres de combustíveis.
+Nesse contexto, não há se falar em pagamento de adicional de periculosidade na
+hipótese.
+Reformo para excluir da condenação o pagamento do adicional de
+periculosidade e reflexos e reverter ao autor o pagamento dos honorários periciais, de
+cujo recolhimento fica isento, devendo a verba ser recolhida nos termos da Súmula nº
+457, do C. TST. (fls. 582/583 - destaquei)
+No julgamento dos Embargos de Declaração, o Eg. TRT consignou o seguinte:
+In casu,todas as questões debatidas no feito restaram devidamente analisadas,
+estando fundamentado o direcionamento adotado por esta Relatora.
+Com efeito, o acórdão destacou que "a NR-20 define o que são líquidos combustíveis
+e inflamáveis e fixa normas de armazenamento sem, contudo, estabelecer critérios para
+delimitação da periculosidade, o que é feito pela NR-16. E esta não deixa dúvida no sentido
+de que a área de risco na hipótese de tanques de inflamáveis líquidos é toda a bacia de
+segurança, não autorizando sua extensão para todo o prédio ", chamando a atenção para a
+alteração da redação da NR 20 pela Portaria 308/2012, publicada no DOU de 06.03.2012,
+pelo que " a apreciação do tema concernente ao direito ao recebimento do adicional de
+periculosidade deve atentar para a legislação que vigorava à época da prestação dos
+serviços. De acordo com o artigo 3º, da Portaria 308/2012, que modificou a norma
+regulamentadora, as disposições constantes do subitem 20.17.2.1 da NR 20, à exceção das
+letras "c" e "e", passaram a ter validade doze meses após a publicação da referida portaria.
+Portanto, tendo em vista que a publicação da norma ocorreu em 06.03.2012, a antiga
+redação da NR 20 teve aplicação até 06.03.2013 ".
+Nesse norte, após análise do laudo pericial de fls. 345/364 e considerando que o
+pacto laboral se deu de 20.02.1992 a 03.08.2016, decretada a prescrição das parcelas
+anteriores a 09.09.2011, explicou-se que "encontra-se equivocado o entendimento do
+senhor perito. O fato de ter sido constatado que havia na ré, em novembro de 2013,
+contêiner de combustível não enterrado, instalado no subsolo, por si só, nenhum
+benefício traz ao trabalhador. Tendo em vista que o laudo pericial não demonstra
+desrespeito ao limite legal previsto na NR-20 (250lts até 05.03.2013 e 3.000lts a partir de
+06.03.2013), eventuais outras irregularidades na instalação dos tanques de combustíveis
+apenas permitem reconhecer como área de risco a bacia de segurança, não autorizando
+a extensão da periculosidade para todo o edifício. A hipótese em questão não comporta a
+aplicação da Orientação Jurisprudencial 385 da SDI-I do C. TST, a qual estabelece como área
+de risco toda a área interna da construção vertical, quando a quantidade de líquido
+inflamável armazenado, esteja acima do limite legal, o que não ocorre no caso. E o
+demandante não laborava no local onde estavam instalados os contêineres de combustíveis
+".
+O aresto embargado apresentou tese explícita sobre os pontos objeto da
+controvérsia, não se justificando a oposição dos presentes embargos para fins de
+prequestionamento. (fls. 603/604 - destaquei)
+Reconheço a transcendência jurídica, tendo em vista que a questão controvertida foi afetada
+ao rito dos Recursos de Revista Repetitivos sob o nº 154, ainda sem julgamento definitivo, porém,
+sem determinação de suspensão.
+Restou consignado no acórdão regional que o Reclamante trabalhou para a Reclamada de
+20/2/1992 a 3/8/2016, tendo sido decretada pela sentença a prescrição das verbas anteriores a
+9/9/2011.
+O perito esclareceu que a edificação inspecionada possui dois blocos (A e B) e que o
+Reclamante trabalhava no 7º andar do bloco B, apontando que o óleo diesel está armazenado na sala
+dos tanques, no subsolo deste bloco.
+Registrou que, antes de novembro de 2013, no local, existiam 1 tanque enterrado de 5.000
+litros e 3 tanques com capacidade para 200 litros de óleo diesel, sendo estes independentes,
+instalados em bacia de contenção, com respiro externo, e aterrados. Entendeu que, neste período, o
+Reclamante não desenvolveu atividades em área de risco.
+Quanto ao período posterior a novembro de 2013 até o final do contrato, esclareceu, com base
+em prova emprestada, que foram instalados dois geradores móveis e dois containers de 500 litros de
+óleo diesel no subsolo do bloco B. Desse modo, concluiu que, a partir desta data, o empregado
+desenvolveu atividades em área de risco.
+O Tribunal Regional, com base no art. 479 do CPC, divergiu da conclusão do laudo pericial, ao
+fundamento de que "o fato de ter sido constatado que havia na ré, em novembro de 2013,contêiner de
+combustível não enterrado, instalado no subsolo, por si só, nenhum benefício traz ao trabalhador. Tendo
+em vista que o laudo pericial não demonstra desrespeito ao limite legal previsto na NR-20 (250lts até
+05.03.2013 e 3.000lts a partir de 06.03.2013), eventuais outras irregularidades na instalação dos
+tanques de combustíveis apenas permitem reconhecer como área de risco a bacia de segurança, não
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100686435352B5BF61.
+autorizando a extensão da periculosidade para todo o edifício ." (fl. 583 - destaquei).
+A Orientação Jurisprudencial nº 385 da SBDI-1 dispõe que o deferimento do adicional de
+periculosidade somente ocorre quando ultrapassado o limite legal disposto na NR nº 16, prevista na
+Portaria nº 3.214/1978 do Ministério do Trabalho. Nesse sentido:
+ADICIONAL DE PERICULOSIDADE. DEVIDO. ARMAZENAMENTO DE LÍQUIDO
+INFLAMÁVEL NO PRÉDIO. CONSTRUÇÃO VERTICAL. É devido o pagamento do adicional
+de periculosidade ao empregado que desenvolve suas atividades em edifício (construção
+vertical), seja em pavimento igual ou distinto daquele onde estão instalados tanques
+para armazenamento de líquido inflamável, em quantidade acima do limite legal,
+considerando-se como área de risco toda a área interna da construção vertical.
+(destaquei)
+Em relação ao períodoanterior a novembro de 2013, de fato, não há falar em pagamento de
+adicional de periculosidade, porquanto respeitados os limites e a forma de armazenamento descritos
+nas normas regulamentadoras.
+Quanto ao período posterior a novembro de 2013, em que ficou registrada a instalação de
+dois geradores móveis e dois containers de 500 litros de óleo diesel, não enterrados, no subsolo do
+bloco B, apesar do item 1 do Anexo III da NR 20 prever que os tanques de líquidos inflamáveis
+somente poderão ser instalados no interior dos edifícios de forma enterrada, o item 2 excetua tal
+exigência quando os tanques são destinados apenas para armazenamento de óleo diesel para
+alimentação de motores utilizados para a geração de energia elétrica em situações de emergência.
+Esse é exatamente o caso dos autos, pois, apesar de não estarem enterrados, oscontainers
+foram instalados juntamente com dois geradores, provavelmente com a função de abastecimento
+deles.
+Além disso, o Eg. TRT consignou que a quantidade de líquido não excedia o limite estabelecido
+Anexo III, 2.1, da NR 20.
+Cito, a seguir, julgados em casos análogos ao dos autos, em que os tanques eram utilizados
+para abastecimento de geradores:
+AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. ACÓRDÃO
+PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017. ADICIONAL DE PERICULOSIDADE.
+TANQUES DE ABASTECIMENTO DE GERADORES. ARMAZENAMENTO DE LÍQUIDOS
+INFLAMÁVEIS. CONSTRUÇÃO VERTICAL. TEMA REPETITIVO Nº 154. TRANSCENDÊNCIA
+JURÍDICA RECONHECIDA. Agravo a que se dá provimento para examinar o agravo de
+instrumento em recurso de revista. Agravo provido. AGRAVO DE INSTRUMENTO EM
+RECURSO DE REVISTA. ACÓRDÃO PUBLICADO NA VIGÊNCIA DA LEI N° 13.467/2017.
+ADICIONAL DE PERICULOSIDADE. TANQUES DE ABASTECIMENTO DE GERADORES.
+ARMAZENAMENTO DE LÍQUIDOS INFLAMÁVEIS. CONSTRUÇÃO VERTICAL. TEMA
+REPETITIVO Nº 154. TRANSCENDÊNCIA JURÍDICA RECONHECIDA Em razão do
+reconhecimento da transcendência jurídica da matéria, viabilizando-se o debate em
+torno da interpretação do alcance dado ao art. 5º, II, da CF, dá-se provimento ao agravo
+de instrumento para determinar o prosseguimento do recurso de revista. Agravo de
+instrumento provido. RECURSO DE REVISTA. ACÓRDÃO PUBLICADO NA VIGÊNCIA DA LEI
+N° 13.467/2017. ADICIONAL DE PERICULOSIDADE. TANQUES DE ABASTECIMENTO DE
+GERADORES. ARMAZENAMENTO DE LÍQUIDOS INFLAMÁVEIS. CONSTRUÇÃO VERTICAL.
+TEMA REPETITIVO Nº 154. TRANSCENDÊNCIA JURÍDICA RECONHECIDA. O Tribunal Pleno
+desta Corte admitiu Incidente de recurso repetitivo nº 154 acerca da questão " O
+trabalho em edifício em que se armazene líquido inflamável acima do limite legal,
+constatado por perícia técnica, gera o direito ao adicional de periculosidade também ao
+empregado que trabalha em andar diverso do armazenamento (dimensão vertical) ou
+em edifício contíguo com subsolo comum (dimensão horizontal)? ". Ocorre que o Relator
+do incidente não determinou a suspensão dos recursos, na forma do art. 896-C, § 5º, da
+CLT, razão pela qual remanesce a atual orientação da Eg. 5ª Turma. Na hipótese, o
+Regional manteve a condenação da reclamada ao pagamento do adicional de
+periculosidade sob o fundamento de que, conforme consta no laudo pericial, " ficou
+constatada a presença, no primeiro prédio, de 1 tanque não enterrados de 1.000 litros
+de óleo diesel para atender a 02 geradores 360 KVA cada, não enterrado, ao arrepio da
+norma regulamentadora que disciplina a questão ." Consta, ainda, que " os tanques que
+armazenam tal combustíveis utilizados pelos geradores, são vulneráveis a quaisquer
+situações de emergência, além de não atenderem nenhum requisito para sua instalação,
+não possuindo nenhum tipo de laudo que viabilize a sua instalação e segurança ." Não se
+desconhece a existência de jurisprudência desta Corte, no sentido de que os tanques de
+líquidos inflamáveis, localizados no interior de edifícios, deverão ser instalados sob a
+forma de tanque enterrado, consoante dispõe o item 1 do anexo III da NR-20 do MTE,
+ainda que o volume de armazenamento seja inferior ao limite máximo previsto na
+referida Norma Regulamentar, sob pena que caracterizar risco a toda a área interna da
+construção vertical. Ocorre que referido entendimento aplica-se aos "tanques de
+armazenamento de combustíveis", sendo excepcionado quando os "tanques são
+utilizados para a geração de energia elétrica em situações de emergência, para
+assegurar a continuidade operacional ou para o funcionamento das bombas de
+pressurização da rede de água para combate a incêndios", nos termos do item e do
+anexo III da NR-20 do MTE. Isso porque os tanques de abastecimento acoplados aos
+geradores, em razão da sua capacidade inferior de armazenamento de combustível,
+possuem menor potencial de risco, além do que não é fisicamente viável enterrar
+referidos tanques, os quais, para cumprir a sua finalidade, precisam estar acoplados aos
+geradores, caso dos autos. Precedentes. Recurso de revista conhecido e provido. (RR￾1000223-32.2023.5.02.0071, 5ª Turma, Relator Ministro Breno Medeiros, DEJT
+04/12/2025).
+AGRAVO INTERPOSTO PELA PARTE RÉ. PROVIMENTO DO RECURSO DE REVISTA DA
+PARTE ADVERSA. ADICIONAL DE PERICULOSIDADE. A parte agravante logrou demonstrar
+o equívoco no provimento jurisdicional. Logo, dá-se provimento ao agravo para o
+rejulgamento do recurso de revista interposto pelos autores, parte adversa. Agravo
+conhecido e provido. RECURSO DE REVISTA INTERPOSTO PELA PARTE AUTORA.
+ADICIONAL DE PERICULOSIDADE. ARMAZENAMENTO DE LÍQUIDO INFLAMÁVEL NO
+SUBSOLO DE PRÉDIO VERTICAL PARA ALIMENTAÇÃO DE TANQUES ACOPLADOS A
+GERADORES UTILIZADOS PARA GERAÇÃO DE ENERGIA ELÉTRICA EM SITUAÇÕES DE
+EMERGÊNCIA. IMPOSSIBILIDADE FÍSICA DE INSTALAÇÃO DA FORMA ENTERRADA. NR-20
+DO MTE. SITUAÇÃO QUE NÃO CONFIGURA PERICULOSIDADE. 1. O entendimento desta
+Corte Superior, consubstanciado na Orientação Jurisprudencial n. 385 da SBDI-I do TST, é
+no sentido de que é devido o pagamento do adicional de periculosidade ao empregado
+que desenvolve suas atividades em edifício (construção vertical), seja em pavimento
+igual ou distinto daquele onde estão instalados tanques para armazenamento de líquido
+inflamável, em quantidade acima do limite legal. 2. O item 20.17.2.1, "d", da NR 20,
+estabeleceu que "os tanques para armazenamento de líquidos inflamáveis somente
+poderão ser instalados no interior dos edifícios sob a forma de tanque enterrado e
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100686435352B5BF61.
+destinados somente a óleo diesel", porém, no item 20.17.2 da mesma NR se abre a
+seguinte exceção: "Excetuam-se da aplicação do item 20.17.1 os tanques de superfície
+que armazenem óleo diesel destinados à alimentação de motores utilizados para a
+geração de energia elétrica em situações de emergência ou para o funcionamento das
+bombas de pressurização da rede de água para combate a incêndios , nos casos em que
+seja comprovada a impossibilidade de instalá-lo enterrado ou fora da projeção
+horizontal do edifício". 3. Tendo em conta as disposições supra, é possível fazer uma
+distinção relevante entre "tanques de armazenamento de combustível" e tanques que
+são utilizados para a geração de energia elétrica ou para o funcionamento das bombas
+de pressurização da rede de água. 4. Quando o item 20.17.1 da NR 20 preconiza que os
+tanques deverão ser instalados de forma enterrada, por certo que se refere aos tanques
+de armazenamento, os quais, em razão de sua função precípua - abastecimento de
+tanques acoplados a geradores de energia ou a bombas de pressurização de água,
+possuem grande capacidade de armazenagem. 5. Não há como considerar que a
+necessidade de manter tanques enterrados se estenda aos tanques de abastecimento
+acoplados aos geradores de energia, os quais, além de terem capacidade de
+armazenagem muito inferior (e, portanto, representarem menor potencial de risco),
+precisam permanecer acoplados aos geradores, sob pena de não cumprirem sua missão.
+6. O raciocínio é lógico e tem duas premissas fáticas bastante razoáveis: 1ª A obrigação
+de enterrar tanque de combustível só se justifica pelo potencial de risco ocasionado pela
+grande quantidade de combustível armazenado (até três mil litros na redação da NR 20
+vigente à época), não fazendo sentido quando se está tratando de tanques pequenos,
+destinados apenas ao abastecimento de geradores de energia, quando os cuidados
+deverão existir, mas restritos às exigências do item 20.17.1 da referida NR. 2ª Não é
+fisicamente possível enterrar tanques de abastecimento de geradores, pois para
+cumprirem seu objetivo necessitam ficar acoplados aos próprios geradores de energia.
+7. Assim, conforme dispõe o item 20.17.2 da NR 20, não se aplica a exigência de
+instalação de tanque enterrado quando ele não for destinado à armazenagem de
+combustível, sendo utilizado para consumo, acoplado a gerador de energia ou para
+bombeamento de água. 8. Portanto, considerando a excepcionalidade prevista no item 2
+do Anexo III da NR 20 e o fato de o Tribunal Regional não ter analisado a controvérsia
+sob o enfoque do cumprimento dos requisitos previstos na referida Norma
+Regulamentadora para instalação de tanques aéreos, não vejo como reconhecer
+contrariedade à Orientação Jurisprudencial n. 385 da SbDI-I. Recurso de revista não
+conhecido. (Ag-RR-543-16.2022.5.13.0011, 8ª Turma, Redator Ministro amaury rodrigues
+pinto junior, DEJT 09/12/2025).
+RECURSO DE REVISTA INTERPOSTO PELO RECLAMANTE ADICIONAL DE
+PERICULOSIDADE. TANQUES DE ARMAZENAMENTO E TANQUES DE ABASTECIMENTO DE
+GERADORES. DISTINÇÃO. TANQUES ENTERRADOS. NR 20 OBSERVADA. TRANSCENDÊNCIA
+JURÍDICA RECONHECIDA. NÃO CONHECIMENTO. I. Em resumo, pode-se extrair do
+acórdão regional a premissa fática de que os tanques instalados no interior do prédio
+em que a parte Reclamante trabalhava estavam enterrados. Os que não eram
+enterrados tinham capacidade de armazenamento menor do que 250 litros. Ademais,
+restou incontroverso que os tanques eram destinados a abastecer geradores de energia.
+II . Não se ignora, no que diz respeito ao volume dos tanques de armazenamento, a
+SBDI-I desta Corte Superior, no julgamento do E-RR 970-73.2010.5.04.0014, consolidou
+entendimento no sentido de que, para o deferimento do adicional de periculosidade, há
+necessidade de observância da quantidade mínima de líquido inflamável armazenado
+(quantidade superior a 250 litros de líquidos inflamáveis). III . Todavia, a primeira
+distinção do caso em análise ao precedente em questão, é que os tanques encontravam￾se enterrados e que o que não estava enterrado, tinha capacidade menor do que 250
+litros. IV . Outro dado relevante é se o tanque é destinado apenas para armazenamento
+de diesel para alimentação de geradores no caso de emergência, pois a própria NR 20
+traz essa exceção quando informa que " Excetuam-se da aplicação do item 1 deste anexo
+os tanques de superfície para consumo de óleo diesel e biodiesel destinados à
+alimentação de motores utilizados para a geração de energia elétrica em situações de
+emergência, para assegurar a continuidade operacional ou para o funcionamento das
+bombas de pressurização da rede de água para combate a incêndios ." Precedentes. V .
+Na hipótese, resta incontroverso que os tanques eram destinados à alimentação de
+geradores no caso de emergência e todos os requisitos para a sua construção foram
+observados. VI. Recurso de revista não conhecido. (RR-1000609-78.2018.5.02.0090, 4ª
+Turma, Relator Ministro Alexandre Luiz Ramos, DEJT 10/09/2025).
+RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA LEI 13.467/2017. ADICIONAL
+DE PERICULOSIDADE. TANQUES DE COMBUSTÍVEIS DESTINADOS AO ARMAZENAMENTO
+DE ÓLEO DIESEL PARA ALIMENTAÇÃO DE MOTORES UTILIZADOS PARA GERAÇÃO DE
+ENERGIA ELÉTRICA. EXCEÇÃO. TRANSCENDÊNCIA JURÍDICA RECONHECIDA. O debate
+sobre o direito ao adicional de periculosidade, decorrente de labor em prédio que
+contém armazenamento de líquidos inflamáveis, com discussão sobre a forma de
+instalação dos respectivos reservatórios respeitarem a NR 20, detém transcendência
+jurídica, nos termos do art. 896-A, IV, da CLT. A incidência do entendimento insculpido na
+OJ 385, da SBDI-1 do TST requer que os tanques tenham capacidade de armazenamento
+" em quantidade acima do limite legal " e, nos dois primeiros itens do Anexo III da NR 20,
+a restrição à instalação de tanques instalados no interior dos edifícios comporta, como
+exceção, a situação retratada nos autos, ou seja, a hipótese em que os tanques são
+destinados à alimentação de motores utilizados para a geração de energia elétrica em
+situações de emergência. O item 2 do Anexo III da Norma Regulamentadora nº 20
+estabelece: " Excetuam-se da aplicação do item 1 deste anexo os tanques de superfície
+para consumo de óleo diesel e biodiesel destinados à alimentação de motores utilizados
+para a geração de energia elétrica em situações de emergência, para assegurar a
+continuidade operacional ou para o funcionamento das bombas de pressurização da
+rede de água para combate a incêndios, nos casos em que seja comprovada a
+impossibilidade de instalá-lo enterrado ou fora da projeção horizontal do edifício ". A par
+de tal dispositivo, é possível fazer uma distinção relevante entre " tanques de
+armazenamento de combustível " e tanques que são utilizados para a geração de
+energia elétrica ou para o funcionamento das bombas de pressurização da rede de água.
+No caso concreto, constatado no acórdão regional que os tanques eram destinados à
+alimentação de motores utilizados para a geração de energia elétrica em situações de
+emergência e não ocorrendo armazenamento em quantidade acima do limite legal, não
+tem lugar a aplicação da OJ 385 da SBDI-1 do TST. Transcendência jurídica reconhecida.
+Recurso de revista não conhecido. (RR-0001025-52.2021.5.09.0029, 6ª Turma, Relator Ministro Augusto Cesar Leite de Carvalho, DEJT 25/06/2025).
+Diante do exposto, o Tribunal Regional, ao concluir pela ausência de periculosidade a ensejar o
+pagamento do respectivo adicional, decidiu conforme o entendimento desta Corte Superior. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100686435352B5BF61.
+Ao negar seguimento a recurso improcedente, a decisão agravada foi proferida em observância
+aos artigos 932, III, IV e VIII, do CPC e 5º, LXXVIII, da Constituição da República.
+Ante o exposto, nego provimento ao Agravo. (fls. 1.847/1.850 – destaques no original)
+O Reclamante sustenta a existência de omissão e de erro de fato no acórdão
+embargado. Afirma que esta C. Turma decidiu por presunção, ao afirmar que os tanques de 500 litros
+elevados, provavelmente, prestam-se à alimentação de geradores. Alega que a exceção prevista no item
+2 do Anexo III da NR-20 somente se aplica nos casos em que comprovada a impossibilidade de
+instalação dos tanques de forma enterrada ou fora da projeção horizontal do edifícios, fatos que não
+foram demonstrados nos autos. Aduz que existiam três tanques de 200 litros independentes, ou seja,
+sem vinculação a outro equipamento, que não estavam enterrados. Assevera que a NR-16 estabelece a
+quantidade de litros aceita para armazenamento de inflamáveis no interior de prédios, qual seja, 250
+litros em sua armazenagem total. Argumenta que, no prédio, existiam 600 litros de inflamáveis,
+instalados em três tanques elevados e independentes, até novembro de 2013 e mais 1.000 litros,
+instalados em dois tanques elevados, a partir desta data até o final do contrato, o que ultrapassava o
+limite permitido. Aponta contrariedade à Orientação Jurisprudencial nº 385 da SBDI-1.
+Verifica-se que esta C. Turma analisou a questão de maneira suficiente e
+fundamentada, observando o panorama fático-jurídico tal como descrito e enfrentado pelo Eg. TRT, não
+sendo os Embargos de Declaração o meio processual adequado à obtenção de efeitos infringentes.
+Ressalte-se que não há falar em omissão quando a questão é examinada de forma
+clara e suficiente, como no caso dos autos, inclusive com a transcrição de julgados para corroborar o
+entendimento aplicado.
+As hipóteses de cabimento de Embargos de Declaração são, exclusivamente, as
+elencadas nos artigos 1.022 do CPC e 897-A da CLT, não presentes no caso.
+Com essas considerações, rejeito os Embargos de Declaração.
+ISTO POSTO
+ACORDAM os Ministros da Quarta Turma do Tribunal Superior do Trabalho, por
+unanimidade, rejeitar os Embargos de Declaração.
+Brasília, 28 de outubro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MARIA CRISTINA IRIGOYEN PEDUZZI
+Ministra Relatora
+Firmado por assinatura digital em 29/10/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100686435352B5BF61.
