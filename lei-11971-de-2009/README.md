@@ -1,0 +1,12 @@
+# Dispõe sobre as certidões expedidas pelos Ofícios do Registro de Distribuição e Distribuidores Judiciais (Lei nº 11.971, de 6 de julho de 2009)
+
+L11971 · 1 versions, from 2009-07-07 (latest in force: 2009-07-07) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11971.htm>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1º | [art-001.md](art-001.md) | 0 |  |
+| Art. 2º | [art-002.md](art-002.md) | 0 |  |
+| Art. 3º | [art-003.md](art-003.md) | 0 |  |
+| Art. 4º | [art-004.md](art-004.md) | 0 |  |
+| Art. 5º | [art-005.md](art-005.md) | 0 |  |
+| Preâmbulo | [preambulo.md](preambulo.md) | 0 |  |

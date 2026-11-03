@@ -28,6 +28,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
+| Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995), Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004), Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007), Lei do Petróleo (Lei nº 9.478, de 6 de agosto de 1997), Lei de Abuso de Autoridade (Lei nº 13.869, de 5 de setembro de 2019), Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980), Lei das Inelegibilidades (Lei Complementar nº 64, de 18 de maio de 1990), Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990), Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023), Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003), Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-31 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | LexML Brasil (Senado Federal): record of each cited law, for its 'Publicação Original' DOU day | <https://www.lexml.gov.br/> | 2026-10-31 | Public federal portal; bibliographic data of official acts |
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Execução Fiscal (Lei nº 6.830, de 22 de setembro de 1980), Lei de Defesa da Concorrência (Lei nº 12.529, de 30 de novembro de 2011), Estatuto da Advocacia e da OAB (Lei nº 8.906, de 4 de julho de 1994), Lei da ADI e da ADC (Lei nº 9.868, de 10 de novembro de 1999), Lei da ADPF (Lei nº 9.882, de 3 de dezembro de 1999), Crimes contra a ordem tributária, econômica e as relações de consumo (Lei nº 8.137, de 27 de dezembro de 1990), Lei de Interceptação Telefônica (Lei nº 9.296, de 24 de julho de 1996), Lei do Bem de Família (Lei nº 8.009, de 29 de março de 1990), Lei da Ação Popular (Lei nº 4.717, de 29 de junho de 1965), Crimes contra o Sistema Financeiro Nacional (Lei nº 7.492, de 16 de junho de 1986) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-31 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
@@ -2363,6 +2364,506 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-13410-de-2016` | Altera a Lei nº 11.903, de 14 de janeiro de 2009, para dispor sobre o Sistema Nacional de Controle de Medicamentos (Lei nº 13.410, de 28 de dezembro de 2016) | 1 | 2016-12-29 to 2016-12-29 |
 | `lei-13412-de-2016` | Dispõe sobre a remuneração dos cargos de Natureza Especial de Defensor Público-Geral Federal e de Subdefensor Público-Geral Federal e sobre o subsídio dos membros da Defensoria Pública da União (Lei nº 13.412, de 29 de dezembro de 2016) | 1 | 2023-01-10 to 2023-01-10 |
 | `lei-13413-de-2016` | Altera a Lei n º 5.700, de 1º de setembro de 1971, que “dispõe sobre a forma e a apresentação dos Símbolos Nacionais, e dá outras providências”, para determinar que o Hino Nacional seja executado na abertura das... (Lei nº 13.413, de 29 de dezembro de 2016) | 1 | 2016-12-30 to 2016-12-30 |
+| `lei-complementar-119-de-2005` | Acrescenta inciso ao art. 3º da Lei Complementar nº 79, de 7 de janeiro de 1994, que "cria o Fundo Penitenciário Nacional – FUNPEN e dá outras providências", para incluir a manutenção das casas de abrigo (Lei Complementar nº 119, de 19 de outubro de 2005) | 1 | 2005-10-20 to 2005-10-20 |
+| `lei-complementar-122-de-2006` | Altera o art. 33 da Lei Complementar nº 87, de 13 de setembro de 1996, que dispõe sobre o imposto dos Estados e do Distrito Federal sobre operações relativas à circulação de mercadorias e sobre prestações de serviços... (Lei Complementar nº 122, de 12 de dezembro de 2006) | 1 | 2006-12-13 to 2006-12-13 |
+| `lei-complementar-125-de-2007` | Institui, na forma do art. 43 da Constituição Federal, a Superintendência do Desenvolvimento do Nordeste - SUDENE (Lei Complementar nº 125, de 3 de janeiro de 2007) | 1 | 2021-10-07 to 2021-10-07 |
+| `lei-complementar-129-de-2009` | Institui, na forma do art. 43 da Constituição Federal, a Superintendência do Desenvolvimento do Centro-Oeste - SUDECO, estabelece sua missão institucional, natureza jurídica, objetivos, área de atuação, instrumentos... (Lei Complementar nº 129, de 8 de janeiro de 2009) | 1 | 2026-06-17 to 2026-06-17 |
+| `lei-complementar-131-de-2009` | Acrescenta dispositivos à Lei Complementar nº 101, de 4 de maio de 2000, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências, a fim de determinar a... (Lei Complementar nº 131, de 27 de maio de 2009) | 1 | 2009-05-28 to 2009-05-28 |
+| `lei-complementar-132-de-2009` | Altera dispositivos da Lei Complementar n º 80, de 12 de janeiro de 1994, que organiza a Defensoria Pública da União, do Distrito Federal e dos Territórios e prescreve normas gerais para sua organização nos Estados,... (Lei Complementar nº 132, de 7 de outubro de 2009) | 1 | 2009-10-08 to 2009-10-08 |
+| `lei-complementar-136-de-2010` | Altera a Lei Complementar nº 97, de 9 de junho de 1999, que “dispõe sobre as normas gerais para a organização, o preparo e o emprego das Forças Armadas”, para criar o Estado-Maior Conjunto das Forças Armadas e... (Lei Complementar nº 136, de 25 de agosto de 2010) | 1 | 2010-08-26 to 2010-08-26 |
+| `lei-complementar-137-de-2010` | Autoriza a participação da União em fundo destinado à cobertura suplementar dos riscos do seguro rural (Lei Complementar nº 137, de 26 de agosto de 2010) | 1 | 2026-09-30 to 2026-09-30 |
+| `lei-10971-de-2004` | Altera dispositivos das Leis nºs 10.404, de 9 de janeiro de 2002, que dispõe sobre a criação da Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, 10.483, de 3 de julho de 2002, que dispõe sobre... (Lei nº 10.971, de 25 de novembro de 2004) | 1 | 2025-06-03 to 2025-06-03 |
+| `lei-10972-de-2004` | Autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Hemoderivados e Biotecnologia - HEMOBRÁS e dá outras providências (Lei nº 10.972, de 2 de dezembro de 2004) | 1 | 2004-12-03 to 2004-12-03 |
+| `lei-10992-de-2004` | Cria cargos de provimento efetivo e funções comissionadas no Quadro de Pessoal do Tribunal Regional do Trabalho da 2ª Região e dá outras providências (Lei nº 10.992, de 14 de dezembro de 2004) | 1 | 2004-12-15 to 2004-12-15 |
+| `lei-10994-de-2004` | Dispõe sobre o depósito legal de Publicações, na Biblioteca Nacional, e dá outras providências (Lei nº 10.994, de 14 de dezembro de 2004) | 1 | 2004-12-15 to 2004-12-15 |
+| `lei-10997-de-2004` | Institui a Gratificação Específica do Seguro Social - GESS, altera disposições das Leis nºs 10.855, de 1º de abril de 2004, que dispõe sobre a reestruturação da Carreira Previdenciária de que trata a Lei nº 10.355,... (Lei nº 10.997, de 15 de dezembro de 2004) | 1 | 2009-12-23 to 2009-12-23 |
+| `lei-10998-de-2004` | Altera o Programa de Subsídio à Habitação de Interesse Social (Lei nº 10.998, de 15 de dezembro de 2004) | 1 | 2004-12-16 to 2004-12-16 |
+| `lei-10999-de-2004` | Autoriza a revisão dos benefícios previdenciários concedidos com data de início posterior a fevereiro de 1994 e o pagamento dos valores atrasados nas condições que especifica (Lei nº 10.999, de 15 de dezembro de 2004) | 1 | 2004-12-16 to 2004-12-16 |
+| `lei-11000-de-2004` | Altera dispositivos da Lei nº 3.268, de 30 de setembro de 1957, que dispõe sobre os Conselhos de Medicina, e dá outras providências (Lei nº 11.000, de 15 de dezembro de 2004) | 1 | 2004-12-16 to 2004-12-16 |
+| `lei-11003-de-2004` | Altera a Lei nº 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, de modo a incluir, na Relação Descritiva das Rodovias do Sistema Rodoviário Federal, a interligação das rodovias federais... (Lei nº 11.003, de 16 de dezembro de 2004) | 1 | 2004-12-17 to 2004-12-17 |
+| `lei-11011-de-2004` | Dispõe sobre a concessão de subvenção para equalização de taxas de juros e outros encargos financeiros em operações de crédito para investimentos na Região Centro-Oeste, a serem contratadas até 31 de dezembro de 2005 (Lei nº 11.011, de 20 de dezembro de 2004) | 1 | 2004-12-21 to 2004-12-21 |
+| `lei-11012-de-2004` | Altera o Programa Inclusão Digital constante do Plano Plurianual para o período 2004-2007 (Lei nº 11.012, de 21 de dezembro de 2004) | 1 | 2004-12-21 to 2004-12-21 |
+| `lei-11013-de-2004` | Altera o Programa Mudanças Climáticas e Meio Ambiente, constante do Plano Plurianual para o período 2004-2007, e inclui o Programa Litoral Brasileiro Sustentável (Lei nº 11.013, de 21 de dezembro de 2004) | 1 | 2004-12-21 to 2004-12-21 |
+| `lei-11014-de-2004` | Altera o Programa Pólo Industrial de Manaus constante do Plano Plurianual para o período 2004-2007 (Lei nº 11.014, de 21 de dezembro de 2004) | 1 | 2004-12-21 to 2004-12-21 |
+| `lei-11015-de-2004` | Altera os Programas Oferta de Petróleo e Gás Natural, Brasil com Todo Gás e cria o Programa Indústria Petroquímica no Plano Plurianual para o período 2004-2007 (Lei nº 11.015, de 21 de dezembro de 2004) | 1 | 2004-12-21 to 2004-12-21 |
+| `lei-11016-de-2004` | Altera os Programas Relações do Brasil com Estados Estrangeiros e Apoio Administrativo constantes do Plano Plurianual para o período 2004-2007 (Lei nº 11.016, de 21 de dezembro de 2004) | 1 | 2004-12-21 to 2004-12-21 |
+| `lei-11017-de-2004` | Altera os Programas Gestão da Participação em Organismos Internacionais e Gestão das Políticas de Governo constantes do Plano Plurianual para o período 2004-2007 (Lei nº 11.017, de 21 de dezembro de 2004) | 1 | 2004-12-21 to 2004-12-21 |
+| `lei-11029-de-2004` | Autoriza a União a fornecer equipamentos e auxílio técnico aos países africanos, no combate à praga de gafanhotos (Lei nº 11.029, de 21 de dezembro de 2004) | 1 | 2004-12-22 to 2004-12-22 |
+| `lei-11030-de-2004` | Altera o Programa Aqüicultura e Pesca do Brasil constante do Plano Plurianual para o período 2004-2007 (Lei nº 11.030, de 21 de dezembro de 2004) | 1 | 2004-12-21 to 2004-12-21 |
+| `lei-11034-de-2004` | Altera dispositivos da Lei nº 9.657, de 3 de junho de 1998, que cria, no âmbito das Forças Armadas, a Carreira de Tecnologia Militar, a Gratificação de Desempenho de Atividade de Tecnologia Militar e os cargos que... (Lei nº 11.034, de 22 de dezembro de 2004) | 1 | 2006-10-20 to 2006-10-20 |
+| `lei-11035-de-2004` | Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal (Lei nº 11.035, de 22 de dezembro de 2004) | 1 | 2004-12-23 to 2004-12-23 |
+| `lei-11036-de-2004` | Altera disposições das Leis nºs 10.683, de 28 de maio de 2003, e 9.650, de 27 de maio de 1998, e dá outras providências (Lei nº 11.036, de 22 de dezembro de 2004) | 1 | 2006-09-11 to 2006-09-11 |
+| `lei-11043-de-2004` | Altera os Programas Descentralização dos Sistemas de Transporte Ferroviário Urbano de Passageiros, Mobilidade Urbana e Trilhos Urbanos constantes do Plano Plurianual para o período 2004-2007 (Lei nº 11.043, de 24 de dezembro de 2004) | 1 | 2004-12-24 to 2004-12-24 |
+| `lei-11044-de-2004` | Altera a Lei nº 10.933, de 11 de agosto de 2004, que dispõe sobre o Plano Plurianual para o período 2004/2007 (Lei nº 11.044, de 24 de dezembro de 2004) | 1 | 2004-12-24 to 2004-12-24 |
+| `lei-11045-de-2004` | Altera o Programa Administração Tributária e Aduaneira constante do Plano Plurianual para o período 2004-2007 (Lei nº 11.045, de 24 de dezembro de 2004) | 1 | 2004-12-24 to 2004-12-24 |
+| `lei-11052-de-2004` | Altera o inciso XIV da Lei nº 7.713, de 22 de dezembro de 1988, com a redação dada pela Lei nº 8.541, de 23 de dezembro de 1992, para incluir entre os rendimentos isentos do imposto de renda os proventos percebidos... (Lei nº 11.052, de 29 de dezembro de 2004) | 1 | 1992-12-24 to 1992-12-24 |
+| `lei-11057-de-2004` | Altera a redação dos itens II.2.II e III.3 do Anexo VII da Lei nº 10.837, de 16 de janeiro de 2004 (Lei nº 11.057, de 30 de dezembro de 2004) | 1 | 2004-12-30 to 2004-12-30 |
+| `lei-11064-de-2004` | Altera o Programa Defesa da Ordem Jurídica constante do Plano Plurianual para o período 2004-2007 (Lei nº 11.064, de 30 de dezembro de 2004) | 1 | 2004-12-30 to 2004-12-30 |
+| `lei-11065-de-2004` | Altera o Programa Segurança Pública nas Rodovias Federais constante do Plano Plurianual para o período 2004-2007 (Lei nº 11.065, de 30 de dezembro de 2004) | 1 | 2004-12-30 to 2004-12-30 |
+| `lei-11066-de-2004` | Altera os Programas Desenvolvimento do Comércio Exterior, Competitividade das Cadeias Produtivas, Arranjos Produtivos Locais, Metrologia e Qualidade Industrial, Desenvolvimento do Sistema Financeiro Nacional e Apoio... (Lei nº 11.066, de 30 de dezembro de 2004) | 1 | 2004-12-30 to 2004-12-30 |
+| `lei-11067-de-2004` | Altera o Programa Combate à Criminalidade constante do Plano Plurianual para o período 2004-2007 (Lei nº 11.067, de 30 de dezembro de 2004) | 1 | 2004-12-30 to 2004-12-30 |
+| `lei-11068-de-2004` | Dispõe sobre alterações dos Programas Gestão da Política dos Transportes, Corredor São Francisco, Corredor Leste, Corredor Transmetropolitano, Corredor Sudoeste, Corredor Mercosul e Corredor Nordeste, constantes do... (Lei nº 11.068, de 30 de dezembro de 2004) | 1 | 2004-12-30 to 2004-12-30 |
+| `lei-11070-de-2004` | Altera os Programas Brasil Patrimônio Cultural e Transferência da Gestão dos Perímetros Públicos de Irrigação constantes do Plano Plurianual para o período 2004-2007 (Lei nº 11.070, de 30 de dezembro de 2004) | 1 | 2004-12-30 to 2004-12-30 |
+| `lei-11071-de-2004` | Altera o Programa Corredor Mercosul constante do Plano Plurianual para o período 2004-2007 (Lei nº 11.071, de 30 de dezembro de 2004) | 1 | 2004-12-30 to 2004-12-30 |
+| `lei-11075-de-2004` | Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, no âmbito do Poder Executivo Federal, e dá nova redação a dispositivos das Leis nºs 10.438, de 26 de abril de 2002,... (Lei nº 11.075, de 30 de dezembro de 2004) | 1 | 2004-12-31 to 2004-12-31 |
+| `lei-11077-de-2004` | Altera a Lei nº 8.248, de 23 de outubro de 1991, a Lei nº 8.387, de 30 de dezembro de 1991, e a Lei nº 10.176, de 11 de janeiro de 2001, dispondo sobre a capacitação e competitividade do setor de informática e... (Lei nº 11.077, de 30 de dezembro de 2004) | 1 | 2004-12-31 to 2004-12-31 |
+| `lei-11086-de-2004` | Altera o inciso IV do § 4º do art. 7º , inclui os §§ 2º-A e 5º-A ao art. 19, altera o inciso III do § 1º do art. 29, acrescenta o § 4º ao art. 64 e o art. 100-A à Lei nº 10.934, de 11 de agosto de 2004, que dispõe... (Lei nº 11.086, de 31 de dezembro de 2004) | 1 | 2004-12-31 to 2004-12-31 |
+| `lei-11092-de-2005` | Estabelece normas para o plantio e comercialização da produção de soja geneticamente modificada da safra de 2005, altera a Lei nº 10.814, de 15 de dezembro de 2003, e dá outras providências (Lei nº 11.092, de 12 de janeiro de 2005) | 1 | 2005-01-13 to 2005-01-13 |
+| `lei-11094-de-2005` | Altera dispositivos da Medida Provisória nº 2.229-43, de 6 de setembro de 2001, que dispõe sobre a criação, reestruturação e organização de carreiras, cargos e funções comissionadas técnicas no âmbito da... (Lei nº 11.094, de 13 de janeiro de 2005) | 1 | 2010-06-22 to 2010-06-22 |
+| `lei-11097-de-2005` | Dispõe sobre a introdução do biodiesel na matriz energética brasileira (Lei nº 11.097, de 13 de janeiro de 2005) | 1 | 2014-09-25 to 2014-09-25 |
+| `lei-11098-de-2005` | Atribui ao Ministério da Previdência Social competências relativas à arrecadação, fiscalização, lançamento e normatização de receitas previdenciárias, autoriza a criação da Secretaria da Receita Previdenciária no... (Lei nº 11.098, de 13 de janeiro de 2005) | 1 | 2007-07-12 to 2007-07-12 |
+| `lei-11099-de-2005` | Altera os Programas Energia Cidadã e Energia na Região Nordeste e inclui o Programa Corredor Atlântico-Pacífico no Plano Plurianual para o período 2004-2007 (Lei nº 11.099, de 14 de janeiro de 2005) | 1 | 2005-01-17 to 2005-01-17 |
+| `lei-11102-de-2005` | Autoriza a Caixa Econômica Federal, em caráter excepcional e por tempo determinado, a arrecadar e alienar os diamantes brutos em poder dos indígenas Cintas-Largas habitantes das Terras Indígenas Roosevelt, Parque... (Lei nº 11.102, de 8 de março de 2005) | 1 | 2005-03-09 to 2005-03-09 |
+| `lei-11106-de-2005` | Altera os arts. 148, 215, 216, 226, 227, 231 e acrescenta o art. 231-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal e dá outras providências (Lei nº 11.106, de 28 de março de 2005) | 1 | 2005-03-29 to 2005-03-29 |
+| `lei-11108-de-2005` | Altera a Lei nº 8.080, de 19 de setembro de 1990, para garantir às parturientes o direito à presença de acompanhante durante o trabalho de parto, parto e pós-parto imediato, no âmbito do Sistema Único de Saúde - SUS (Lei nº 11.108, de 7 de abril de 2005) | 1 | 2005-04-08 to 2005-04-08 |
+| `lei-11112-de-2005` | Altera o art. 1.121 da Lei nº 5.869, de 11 de janeiro de 1973 – Código de Processo Civil, para incluir, como requisito indispensável à petição da separação consensual, o acordo entre os cônjuges relativo ao regime de... (Lei nº 11.112, de 13 de maio de 2005) | 1 | 2005-06-30 to 2005-06-30 |
+| `lei-11113-de-2005` | Dá nova redação ao caput e ao § 3º do art. 304 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal (Lei nº 11.113, de 13 de maio de 2005) | 1 | 2005-06-30 to 2005-06-30 |
+| `lei-11116-de-2005` | Dispõe sobre o Registro Especial, na Secretaria da Receita Federal do Ministério da Fazenda, de produtor ou importador de biodiesel e sobre a incidência da Contribuição para o PIS/Pasep e da Cofins sobre as receitas... (Lei nº 11.116, de 18 de maio de 2005) | 1 | 2005-05-19 to 2005-05-19 |
+| `lei-11118-de-2005` | Acrescenta parágrafos ao art. 10 da Lei nº 9.615, de 24 de março de 1998, e prorroga os prazos previstos nos arts. 30 e 32 da Lei nº 10.826, de 22 de dezembro de 2003 (Lei nº 11.118, de 19 de maio de 2005) | 1 | 2004-06-18 to 2004-06-18 |
+| `lei-11123-de-2005` | Cria, na Carreira da Seguridade Social e do Trabalho, para lotação no Ministério da Saúde, os cargos que menciona (Lei nº 11.123, de 7 de junho de 2005) | 1 | 2005-06-08 to 2005-06-08 |
+| `lei-11125-de-2005` | Cria no âmbito do Ministério da Cultura o Prêmio de Artes Plásticas Marcantônio Vilaça e dá outras providências (Lei nº 11.125, de 20 de junho de 2005) | 1 | 2005-06-21 to 2005-06-21 |
+| `lei-11127-de-2005` | Altera os arts. 54, 57, 59, 60 e 2.031 da Lei nº 10.406, de 10 de janeiro de 2002, que institui o Código Civil, e o art. 192 da Lei nº 11.101, de 9 de fevereiro de 2005, e dá outras providências (Lei nº 11.127, de 28 de junho de 2005) | 1 | 2005-06-29 to 2005-06-29 |
+| `lei-11129-de-2005` | Institui o Programa Nacional de Inclusão de Jovens – ProJovem (Lei nº 11.129, de 30 de junho de 2005) | 1 | 2011-10-27 to 2011-10-27 |
+| `lei-11131-de-2005` | Autoriza a União a prestar auxílio financeiro aos Estados, ao Distrito Federal e aos Municípios, com o objetivo de fomentar as exportações do País (Lei nº 11.131, de 1º de julho de 2005) | 1 | 2005-07-04 to 2005-07-04 |
+| `lei-11132-de-2005` | Acrescenta artigo à Lei nº 9.985, de 18 de julho de 2000, que regulamenta o art. 225, § 1º , incisos I, II, III e VII da Constituição Federa l e institui o Sistema Nacional de Unidades de Conservação da Natureza (Lei nº 11.132, de 4 de julho de 2005) | 1 | 2005-07-05 to 2005-07-05 |
+| `lei-11134-de-2005` | Institui a Vantagem Pecuniária Especial – VPE, devida aos militares da Polícia Militar do Distrito Federal e do Corpo de Bombeiros Militar do Distrito Federal (Lei nº 11.134, de 15 de julho de 2005) | 1 | 2026-04-28 to 2026-04-28 |
+| `lei-11137-de-2005` | Altera o item III.2.b do Anexo V da Lei nº 11.100, de 25 de janeiro de 2005 (Lei nº 11.137, de 22 de julho de 2005) | 1 | 2005-07-25 to 2005-07-25 |
+| `lei-11138-de-2005` | Altera o item III.3 do Anexo V da Lei nº 11.100, de 25 de janeiro de 2005 (Lei nº 11.138, de 22 de julho de 2005) | 1 | 2005-07-25 to 2005-07-25 |
+| `lei-11143-de-2005` | Dispõe sobre o subsídio de Ministro do Supremo Tribunal Federal, referido no art. 48, inciso XV, da Constituição Federal, e dá nova redação ao caput do art. 2º da Lei nº 8.350, de 28 de dezembro de 1991 (Lei nº 11.143, de 26 de julho de 2005) | 1 | 2005-07-27 to 2005-07-27 |
+| `lei-11144-de-2005` | Dispõe sobre o subsídio do Procurador-Geral da República de que tratam os arts. 39, § 4º , 127, § 2º , e 128, § 5º , inciso I, alínea c, da Constituição Federal (Lei nº 11.144, de 26 de julho de 2005) | 1 | 2005-07-27 to 2005-07-27 |
+| `lei-11145-de-2005` | Institui a Fundação Universidade Federal do ABC – UFABC e dá outras providências (Lei nº 11.145, de 26 de julho de 2005) | 1 | 2015-03-26 to 2015-03-26 |
+| `lei-11146-de-2005` | Autoriza o Poder Executivo a efetuar contribuições ao Grupo dos 24 (G-24) (Lei nº 11.146, de 26 de julho de 2005) | 1 | 2005-07-27 to 2005-07-27 |
+| `lei-11147-de-2005` | Altera o item III.4.2. do Anexo V da Lei nº 11.100, de 25 de janeiro de 2005 (Lei nº 11.147, de 26 de julho de 2005) | 1 | 2005-07-27 to 2005-07-27 |
+| `lei-11160-de-2005` | Altera o caput do art. 1º do Decreto-Lei nº 1.040, de 21 de outubro de 1969, que dispõe sobre os Conselhos Federal e Regionais de Contabilidade, regula a eleição de seus membros, e dá outras providências (Lei nº 11.160, de 2 de agosto de 2005) | 1 | 2005-08-03 to 2005-08-03 |
+| `lei-11168-de-2005` | Altera o programa Gestão Pública para um Brasil de Todos, constante do Plano Plurianual para o período 2004-2007 (Lei nº 11.168, de 1º de setembro de 2005) | 1 | 2005-09-02 to 2005-09-02 |
+| `lei-11169-de-2005` | Altera a remuneração dos servidores públicos integrantes dos Quadros de Pessoal da Câmara dos Deputados (Lei nº 11.169, de 2 de setembro de 2005) | 1 | 2005-09-03 to 2005-09-03 |
+| `lei-11170-de-2005` | Altera a remuneração dos servidores públicos integrantes dos Quadros de Pessoal do Senado Federal (Lei nº 11.170, de 2 de setembro de 2005) | 1 | 2005-09-03 to 2005-09-03 |
+| `lei-11173-de-2005` | Transforma as Faculdades Federais Integradas de Diamantina em Universidade Federal dos Vales do Jequitinhonha e Mucuri - UFVJM e dá outras providências (Lei nº 11.173, de 6 de setembro de 2005) | 1 | 2005-09-08 to 2005-09-08 |
+| `lei-11174-de-2005` | Autoriza a transferência das cotas representativas da participação da União no capital da empresa Serviços Aéreos Especializados Médico-Hospitalar Conceição Ltda (Lei nº 11.174, de 6 de setembro de 2005) | 1 | 2005-09-08 to 2005-09-08 |
+| `lei-11179-de-2005` | Altera os arts. 53 e 67 da Lei nº 8.906, de 4 de julho de 1994, que dispõe sobre o Estatuto da Advocacia e da Ordem dos Advogados do Brasil - OAB (Lei nº 11.179, de 22 de setembro de 2005) | 1 | 2005-09-23 to 2005-09-23 |
+| `lei-11180-de-2005` | Institui o Projeto Escola de Fábrica, autoriza a concessão de bolsas de permanência a estudantes beneficiários do Programa Universidade para Todos – PROUNI, institui o Programa de Educação Tutorial – PET, altera a... (Lei nº 11.180, de 23 de setembro de 2005) | 1 | 2011-06-27 to 2011-06-27 |
+| `lei-11183-de-2005` | Dá nova redação ao inciso II do caput do art. 20 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional (Lei nº 11.183, de 5 de outubro de 2005) | 1 | 2005-10-06 to 2005-10-06 |
+| `lei-11184-de-2005` | Dispõe sobre a transformação do Centro Federal de Educação Tecnológica do Paraná em Universidade Tecnológica Federal do Paraná e dá outras providências (Lei nº 11.184, de 7 de outubro de 2005) | 1 | 2005-10-10 to 2005-10-10 |
+| `lei-11185-de-2005` | Altera o caput do art. 11 da Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências (Lei nº 11.185, de 7 de outubro de 2005) | 1 | 2005-10-10 to 2005-10-10 |
+| `lei-11186-de-2005` | Revoga a Medida Provisória nº 249, de 4 de maio de 2005, que dispõe sobre a instituição de concurso de prognóstico destinado ao desenvolvimento da prática desportiva, a participação de entidades desportivas da... (Lei nº 11.186, de 19 de outubro de 2005) | 1 | 2005-10-20 to 2005-10-20 |
+| `lei-11187-de-2005` | Altera a Lei nº 5.869, de 11 de janeiro de 1973 – Código de Processo Civil, para conferir nova disciplina ao cabimento dos agravos retido e de instrumento, e dá outras providências (Lei nº 11.187, de 19 de outubro de 2005) | 1 | 2006-01-18 to 2006-01-18 |
+| `lei-11190-de-2005` | Autoriza o Departamento Nacional de Obras Contra as Secas – DNOCS a doar ao Município de Alvorada do Gurguéia, Estado do Piauí, o imóvel que especifica (Lei nº 11.190, de 3 de novembro de 2005) | 1 | 2005-11-04 to 2005-11-04 |
+| `lei-11191-de-2005` | Prorroga os prazos previstos nos arts. 30 e 32 da Lei nº 10.826, de 22 de dezembro de 2003 (Lei nº 11.191, de 10 de novembro de 2005) | 1 | 2005-11-11 to 2005-11-11 |
+| `lei-11194-de-2005` | Altera o programa Gestão Pública para um Brasil de Todos, constante do Plano Plurianual para o período 2004-2007 (Lei nº 11.194, de 17 de novembro de 2005) | 1 | 2005-11-18 to 2005-11-18 |
+| `lei-11195-de-2005` | Dá nova redação ao § 5º do art. 3º da Lei nº 8.948, de 8 de dezembro de 1994 (Lei nº 11.195, de 18 de novembro de 2005) | 1 | 2005-11-18 to 2005-11-18 |
+| `lei-11197-de-2005` | Amplia o limite a que se refere o item III.4.2 do Anexo V da Lei nº 11.100, de 25 de janeiro de 2005 (Lei nº 11.197, de 24 de novembro de 2005) | 1 | 2005-11-25 to 2005-11-25 |
+| `lei-11202-de-2005` | Extingue e cria cargos e funções nos quadros de pessoal do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais (Lei nº 11.202, de 29 de novembro de 2005) | 1 | 2005-11-30 to 2005-11-30 |
+| `lei-11204-de-2005` | Altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios (Lei nº 11.204, de 5 de dezembro de 2005) | 1 | 2008-07-24 to 2008-07-24 |
+| `lei-11211-de-2005` | Dispõe sobre as condições exigíveis para a identificação do couro e das matérias-primas sucedâneas, utilizados na confecção de calçados e artefatos (Lei nº 11.211, de 19 de dezembro de 2005) | 1 | 2005-12-20 to 2005-12-20 |
+| `lei-11234-de-2005` | Autoriza a Fundação Instituto Brasileiro de Geografia e Estatística - IBGE a alienar os imóveis que especifica, localizados em Brasília, Distrito Federal (Lei nº 11.234, de 22 de dezembro de 2005) | 1 | 2005-12-23 to 2005-12-23 |
+| `lei-11250-de-2005` | Regulamenta o inciso III do § 4º do art. 153 da Constituição Federal (Lei nº 11.250, de 27 de dezembro de 2005) | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-11254-de-2005` | Estabelece as sanções administrativas e penais em caso de realização de atividades proibidas pela Convenção Internacional sobre a Proibição do Desenvolvimento, Produção, Estocagem e Uso das Armas Químicas e sobre a... (Lei nº 11.254, de 27 de dezembro de 2005) | 1 | 2005-12-28 to 2005-12-28 |
+| `lei-11255-de-2005` | Define as diretrizes da Política de Prevenção e Atenção Integral à Saúde da Pessoa Portadora de Hepatite, em todas as suas formas, no âmbito do Sistema Único de Saúde - SUS, e dá outras providências (Lei nº 11.255, de 27 de dezembro de 2005) | 1 | 2005-12-28 to 2005-12-28 |
+| `lei-11257-de-2005` | Altera o valor da pensão especial concedida a Mário Kozel e Terezinha Lana Kozel pela Lei nº 10.724, de 20 de agosto de 2003 (Lei nº 11.257, de 27 de dezembro de 2005) | 1 | 2005-12-28 to 2005-12-28 |
+| `lei-11258-de-2005` | Altera a Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social, para acrescentar o serviço de atendimento a pessoas que vivem em situação de rua (Lei nº 11.258, de 30 de dezembro de 2005) | 1 | 2006-01-02 to 2006-01-02 |
+| `lei-11259-de-2005` | Acrescenta dispositivo à Lei nº 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente, para determinar investigação imediata em caso de desaparecimento de criança ou adolescente (Lei nº 11.259, de 30 de dezembro de 2005) | 1 | 2006-01-02 to 2006-01-02 |
+| `lei-11260-de-2005` | Institui o ano de 2006 como Ano do Turismo (Lei nº 11.260, de 30 de dezembro de 2005) | 1 | 2006-01-02 to 2006-01-02 |
+| `lei-11262-de-2005` | Institui o ano de 2006 como "Ano Nacional Santos Dumont" (Lei nº 11.262, de 30 de dezembro de 2005) | 1 | 2006-01-02 to 2006-01-02 |
+| `lei-11263-de-2006` | Concede auxílio especial aos dependentes legais dos servidores do Ministério do Trabalho e Emprego assassinados durante ação fiscal e dá outras providências (Lei nº 11.263, de 2 de janeiro de 2006) | 1 | 2006-01-03 to 2006-01-03 |
+| `lei-11265-de-2006` | Regulamenta a comercialização de alimentos para lactentes e crianças de primeira infância e também a de produtos de puericultura correlatos (Lei nº 11.265, de 3 de janeiro de 2006) | 1 | 2007-05-16 to 2007-05-16 |
+| `lei-11268-de-2006` | Institui abono aos militares das Forças Armadas (Lei nº 11.268, de 19 de janeiro de 2006) | 1 | 2006-01-20 to 2006-01-20 |
+| `lei-11274-de-2006` | Altera a redação dos arts. 29, 30, 32 e 87 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, dispondo sobre a duração de 9 (nove) anos para o ensino fundamental,... (Lei nº 11.274, de 6 de fevereiro de 2006) | 1 | 2006-02-07 to 2006-02-07 |
+| `lei-11275-de-2006` | Altera a redação dos arts. 165, 277 e 302 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro (Lei nº 11.275, de 7 de fevereiro de 2006) | 1 | 2006-02-08 to 2006-02-08 |
+| `lei-11276-de-2006` | Altera os arts. 504, 506, 515 e 518 da Lei no 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, relativamente à forma de interposição de recursos, ao saneamento de nulidades processuais, ao recebimento de... (Lei nº 11.276, de 7 de fevereiro de 2006) | 1 | 2006-05-09 to 2006-05-09 |
+| `lei-11277-de-2006` | Acresce o art. 285-A à Lei nº 5.869, de 11 de janeiro de 1973, que institui o Código de Processo Civil (Lei nº 11.277, de 7 de fevereiro de 2006) | 1 | 2006-05-09 to 2006-05-09 |
+| `lei-11278-de-2006` | Dispõe sobre a concessão de subvenção econômica à Companhia de Navegação do São Francisco – FRANAVE (Lei nº 11.278, de 7 de fevereiro de 2006) | 1 | 2006-02-08 to 2006-02-08 |
+| `lei-11279-de-2006` | Dispõe sobre o ensino na Marinha (Lei nº 11.279, de 9 de fevereiro de 2006) | 1 | 2022-01-05 to 2022-01-05 |
+| `lei-11280-de-2006` | Altera os arts. 112, 114, 154, 219, 253, 305, 322, 338, 489 e 555 da Lei no 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, relativos à incompetência relativa, meios eletrônicos, prescrição, distribuição... (Lei nº 11.280, de 16 de fevereiro de 2006) | 1 | 2006-05-18 to 2006-05-18 |
+| `lei-11282-de-2006` | Anistia os trabalhadores da Empresa Brasileira de Correios e Telégrafos – ECT punidos em razão da participação em movimento grevista (Lei nº 11.282, de 23 de fevereiro de 2006) | 1 | 2006-02-24 to 2006-02-24 |
+| `lei-11285-de-2006` | Altera os limites do Parque Nacional de Brasília (Lei nº 11.285, de 8 de março de 2006) | 1 | 2006-03-09 to 2006-03-09 |
+| `lei-11289-de-2006` | Autoriza a União a prestar auxílio financeiro complementar aos Estados, ao Distrito Federal e aos Municípios, com o objetivo de fomentar as exportações do País (Lei nº 11.289, de 30 de março de 2006) | 1 | 2006-03-31 to 2006-03-31 |
+| `lei-11291-de-2006` | Dispõe sobre a inclusão nos locais indicados de aviso alertando sobre os malefícios resultantes do uso de equipamentos de som em potência superior a 85 (oitenta e cinco) decibéis (Lei nº 11.291, de 26 de abril de 2006) | 1 | 2006-06-11 to 2006-06-11 |
+| `lei-11295-de-2006` | Altera o art. 526 da Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, estabelecendo o direito de sindicalização para o empregado de entidade sindical (Lei nº 11.295, de 9 de maio de 2006) | 1 | 2006-05-10 to 2006-05-10 |
+| `lei-11297-de-2006` | Acrescenta e altera dispositivos na Lei nº 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação (Lei nº 11.297, de 9 de maio de 2006) | 1 | 2008-09-18 to 2008-09-18 |
+| `lei-11300-de-2006` | Dispõe sobre propaganda, financiamento e prestação de contas das despesas com campanhas eleitorais, alterando a Lei nº 9.504, de 30 de setembro de 1997 (Lei nº 11.300, de 10 de maio de 2006) | 1 | 2006-05-11 to 2006-05-11 |
+| `lei-11301-de-2006` | Altera o art. 67 da Lei nº 9.394, de 20 de dezembro de 1996, incluindo, para os efeitos do disposto no § 5º do art. 40 e no § 8º do art. 201 da Constituição Federal, definição de funções de magistério (Lei nº 11.301, de 10 de maio de 2006) | 1 | 2006-05-11 to 2006-05-11 |
+| `lei-11302-de-2006` | Altera as Leis nºs 10.355, de 26 de dezembro de 2001, que dispõe sobre a estruturação da Carreira Previdenciária no âmbito do Instituto Nacional do Seguro Social - INSS, 10.855, de 1º de abril de 2004, que dispõe... (Lei nº 11.302, de 10 de maio de 2006) | 1 | 2007-07-12 to 2007-07-12 |
+| `lei-11304-de-2006` | Acrescenta inciso ao art. 473 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para permitir a ausência do trabalhador ao serviço, sem prejuízo do salário, na... (Lei nº 11.304, de 11 de maio de 2006) | 1 | 2006-05-12 to 2006-05-12 |
+| `lei-11311-de-2006` | Altera a legislação tributária federal, modificando as Leis nºs 11.119, de 25 de maio de 2005, 7.713, de 22 de dezembro de 1988, 9.250, de 26 de dezembro de 1995, 9.964, de 10 de abril de 2000, e 11.033, de 21 de... (Lei nº 11.311, de 13 de junho de 2006) | 1 | 2007-05-31 to 2007-05-31 |
+| `lei-11313-de-2006` | Altera os arts. 60 e 61 da Lei nº 9.099, de 26 de setembro de 1995 , e o art. 2º da Lei nº 10.259, de 12 de julho de 2001 , pertinentes à competência dos Juizados Especiais Criminais, no âmbito da Justiça Estadual e... (Lei nº 11.313, de 28 de junho de 2006) | 1 | 2006-06-29 to 2006-06-29 |
+| `lei-11319-de-2006` | Altera dispositivos da Lei nº 10.479, de 28 de junho de 2002, que dispõe sobre a remuneração dos integrantes das Carreiras de Diplomata, Oficial de Chancelaria e Assistente de Chancelaria (Lei nº 11.319, de 6 de julho de 2006) | 1 | 2012-08-08 to 2012-08-08 |
+| `lei-11320-de-2006` | Fixa os efetivos do Comando da Aeronáutica em tempo de paz e dá outras providências (Lei nº 11.320, de 6 de julho de 2006) | 1 | 2010-05-25 to 2010-05-25 |
+| `lei-11322-de-2006` | Dispõe sobre a renegociação de dívidas oriundas de operações de crédito rural contratadas na área de atuação da Agência de Desenvolvimento do Nordeste - ADENE e dá outras providências (Lei nº 11.322, de 13 de julho de 2006) | 1 | 2009-10-14 to 2009-10-14 |
+| `lei-11323-de-2006` | Autoriza o Poder Executivo a alienar, por doação, um helicóptero Esquilo Biturbina para a Armada da República Oriental do Uruguai (Lei nº 11.323, de 19 de julho de 2006) | 1 | 2006-07-20 to 2006-07-20 |
+| `lei-11328-de-2006` | Institui o ano de 2006 como o Ano Nacional dos Museus (Lei nº 11.328, de 24 de julho de 2006) | 1 | 2006-07-25 to 2006-07-25 |
+| `lei-11329-de-2006` | Dispõe sobre a prorrogação de incentivos fiscais para aplicação em fundos destinados ao desenvolvimento da indústria cinematográfica, alterando a Medida Provisória nº 2.228-1, de 6 de setembro de 2001 (Lei nº 11.329, de 25 de julho de 2006) | 1 | 2006-07-26 to 2006-07-26 |
+| `lei-11330-de-2006` | Dá nova redação ao § 3º do art. 87 da Lei nº 9.394, de 20 de dezembro de 1996 (Lei nº 11.330, de 25 de julho de 2006) | 1 | 2006-07-26 to 2006-07-26 |
+| `lei-11331-de-2006` | Acrescenta parágrafo ao art. 44 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, com relação a processo seletivo de acesso a cursos superiores de graduação (Lei nº 11.331, de 25 de julho de 2006) | 1 | 2006-07-26 to 2006-07-26 |
+| `lei-11332-de-2006` | Institui o ano de 2006 como o Ano da Juventude (Lei nº 11.332, de 25 de julho de 2006) | 1 | 2006-07-26 to 2006-07-26 |
+| `lei-11334-de-2006` | Dá nova redação ao art. 218 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, alterando os limites de velocidade para fins de enquadramentos infracionais e de penalidades (Lei nº 11.334, de 25 de julho de 2006) | 1 | 2006-07-26 to 2006-07-26 |
+| `lei-11335-de-2006` | Reorganiza o Plano de Carreira da Câmara dos Deputados e aplica aos seus servidores efetivos, no que couber, Gratificação de Representação instituída pela Resolução nº 7, de 2002, do Senado Federal, convalidada pela... (Lei nº 11.335, de 25 de julho de 2006) | 1 | 2026-02-18 to 2026-02-18 |
+| `lei-11336-de-2006` | Dispõe sobre a criação de funções comissionadas no Quadro de Pessoal do Tribunal Regional do Trabalho da 24ª Região e dá outras providências (Lei nº 11.336, de 25 de julho de 2006) | 1 | 2006-07-26 to 2006-07-26 |
+| `lei-11337-de-2006` | Determina a obrigatoriedade de as edificações possuírem sistema de aterramento e instalações elétricas compatíveis com a utilização de condutor-terra de proteção, bem como torna obrigatória a existência de... (Lei nº 11.337, de 26 de julho de 2006) | 1 | 2009-12-16 to 2009-12-16 |
+| `lei-11341-de-2006` | Altera o parágrafo único do art. 541 do Código de Processo Civil - Lei nº 5.869, de 11 de janeiro de 1973, para admitir as decisões disponíveis em mídia eletrônica, inclusive na Internet, entre as suscetíveis de... (Lei nº 11.341, de 7 de agosto de 2006) | 1 | 2006-08-08 to 2006-08-08 |
+| `lei-11342-de-2006` | Dispõe sobre o Dia do Profissional de Educação Física (Lei nº 11.342, de 18 de agosto de 2006) | 1 | 2006-08-21 to 2006-08-21 |
+| `lei-11348-de-2006` | Dispõe sobre a criação de funções comissionadas no Quadro de Pessoal do Tribunal Regional do Trabalho da 15ª Região e dá outras providências (Lei nº 11.348, de 27 de setembro de 2006) | 1 | 2010-06-22 to 2010-06-22 |
+| `lei-11349-de-2006` | Dispõe sobre a criação de funções comissionadas no Quadro de Pessoal do Tribunal Regional do Trabalho da 8ª Região e dá outras providências (Lei nº 11.349, de 27 de setembro de 2006) | 1 | 2006-09-28 to 2006-09-28 |
+| `lei-11352-de-2006` | Dispõe sobre a criação de cargos efetivos, cargos de direção e funções gratificadas no âmbito do Ministério da Educação, para fins de constituição dos quadros de pessoal das novas instituições federais de educação... (Lei nº 11.352, de 11 de outubro de 2006) | 1 | 2006-10-13 to 2006-10-13 |
+| `lei-11354-de-2006` | Autoriza o Poder Executivo, na forma e condições estipuladas, a pagar valores devidos aos anistiados políticos de que trata a Lei nº 10.559, de 13 de novembro de 2002, e dá outras providências (Lei nº 11.354, de 19 de outubro de 2006) | 1 | 2007-10-25 to 2007-10-25 |
+| `lei-11361-de-2006` | Fixa o subsídio dos cargos das Carreiras de Delegado de Polícia do Distrito Federal e de Polícia Civil do Distrito Federal (Lei nº 11.361, de 19 de outubro de 2006) | 1 | 2026-04-28 to 2026-04-28 |
+| `lei-11364-de-2006` | Dispõe sobre as atividades de apoio ao Conselho Nacional de Justiça e dá outras providências (Lei nº 11.364, de 26 de outubro de 2006) | 1 | 2007-12-20 to 2007-12-20 |
+| `lei-11368-de-2006` | Prorroga, para o trabalhador rural empregado, o prazo previsto no art. 143 da Lei nº 8.213, de 24 de julho de 1991 (Lei nº 11.368, de 9 de novembro de 2006) | 1 | 2007-08-23 to 2007-08-23 |
+| `lei-11372-de-2006` | Regulamenta o § 1º do art. 130-A da Constituição Federal, para dispor sobre a forma de indicação dos membros do Conselho Nacional do Ministério Público oriundos do Ministério Público e criar sua estrutura... (Lei nº 11.372, de 28 de novembro de 2006) | 1 | 2009-07-07 to 2009-07-07 |
+| `lei-11375-de-2006` | Altera os itens III.l, III.2, III.3 e III.4 do Anexo V da Lei nº 11.306, de 16 de maio de 2006 (Lei nº 11.375, de 1º de dezembro de 2006) | 1 | 2006-12-04 to 2006-12-04 |
+| `lei-11380-de-2006` | Institui o Registro Temporário Brasileiro para embarcações de pesca estrangeiras arrendadas ou afretadas, a casco nu, por empresas, armadores de pesca ou cooperativas de pesca brasileiras e dá outras providências (Lei nº 11.380, de 1º de dezembro de 2006) | 1 | 2006-12-04 to 2006-12-04 |
+| `lei-11381-de-2006` | Altera a Lei nº 6.932, de 7 de julho de 1981, que dispõe sobre as atividades do médico residente, e revoga dispositivos da Lei nº 10.405, de 9 de janeiro de 2002 (Lei nº 11.381, de 1º de dezembro de 2006) | 1 | 2006-12-04 to 2006-12-04 |
+| `lei-11382-de-2006` | Altera dispositivos da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, relativos ao processo de execução e a outros assuntos (Lei nº 11.382, de 6 de dezembro de 2006) | 1 | 2007-01-21 to 2007-01-21 |
+| `lei-11383-de-2006` | Altera a remuneração dos servidores públicos integrantes do Quadro de Pessoal do Tribunal de Contas da União (Lei nº 11.383, de 11 de dezembro de 2006) | 1 | 2006-12-12 to 2006-12-12 |
+| `lei-11384-de-2006` | Dispõe sobre a criação de cargos efetivos e em comissão no Quadro de Pessoal do Tribunal Regional do Trabalho da 1ª Região (Lei nº 11.384, de 11 de dezembro de 2006) | 1 | 2006-12-12 to 2006-12-12 |
+| `lei-11387-de-2006` | Autoriza a União a efetuar contribuição à Organização Mundial da Saúde - OMS, destinada a apoiar a viabilização da Central Internacional para a Compra de Medicamentos contra a AIDS, malária e tuberculose... (Lei nº 11.387, de 14 de dezembro de 2006) | 1 | 2006-12-15 to 2006-12-15 |
+| `lei-11416-de-2006` | Dispõe sobre as Carreiras dos Servidores do Poder Judiciário da União (Lei nº 11.416, de 15 de dezembro de 2006) | 1 | 2025-12-22 to 2025-12-22 |
+| `lei-11418-de-2006` | Acrescenta à Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, dispositivos que regulamentam o § 3º do art. 102 da Constituição Federal (Lei nº 11.418, de 19 de dezembro de 2006) | 1 | 2007-02-18 to 2007-02-18 |
+| `lei-11420-de-2006` | Altera dispositivos da Lei nº 11.322, de 13 de julho de 2006, que dispõe sobre a renegociação de dívidas oriundas de operações de crédito rural contratadas na área de atuação da Agência de Desenvolvimento do Nordeste... (Lei nº 11.420, de 20 de dezembro de 2006) | 1 | 2006-12-21 to 2006-12-21 |
+| `lei-11421-de-2006` | Altera o valor do auxílio-invalidez devido aos militares das Forças Armadas na inatividade remunerada e revoga a Tabela V do Anexo IV da Medida Provisória nº 2.215-10, de 31 de agosto de 2001 (Lei nº 11.421, de 21 de dezembro de 2006) | 1 | 2012-08-08 to 2012-08-08 |
+| `lei-11422-de-2006` | Autoriza o Poder Executivo a desapropriar, em favor do Ministério Público Federal, os imóveis que especifica, de propriedade do Município do Rio de Janeiro (Lei nº 11.422, de 21 de dezembro de 2006) | 1 | 2006-12-22 to 2006-12-22 |
+| `lei-11423-de-2006` | Inclui programações no Anexo VII da Lei nº 11.306, de 16 de maio de 2006, que estima a receita e fixa a despesa da União para o exercício financeiro de 2006, e dá outras providências (Lei nº 11.423, de 21 de dezembro de 2006) | 1 | 2006-12-22 to 2006-12-22 |
+| `lei-11430-de-2006` | Altera as Leis nºs 8.213, de 24 de julho de 1991, e 9.796, de 5 de maio de 1999, aumenta o valor dos benefícios da previdência social (Lei nº 11.430, de 26 de dezembro de 2006) | 1 | 2006-12-27 to 2006-12-27 |
+| `lei-11433-de-2006` | Dispõe sobre o Dia Nacional do Idoso (Lei nº 11.433, de 28 de dezembro de 2006) | 1 | 2006-12-29 to 2006-12-29 |
+| `lei-11434-de-2006` | Acresce art. 18-A à Lei nº 8.177, de 1º de março de 1991, que estabelece regras para a desindexação da economia (Lei nº 11.434, de 28 de dezembro de 2006) | 1 | 2022-01-07 to 2022-01-07 |
+| `lei-11435-de-2006` | Altera os arts. 136, 137, 138, 139, 141 e 143 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal, para substituir a expressão “seqüestro” por “arresto”, com os devidos ajustes redacionais (Lei nº 11.435, de 28 de dezembro de 2006) | 1 | 2006-12-29 to 2006-12-29 |
+| `lei-11436-de-2006` | Cria e transforma, no Quadro de Pessoal do Tribunal Regional do Trabalho da 4ª Região, os cargos que menciona e dá outras providências (Lei nº 11.436, de 28 de dezembro de 2006) | 1 | 2006-12-29 to 2006-12-29 |
+| `lei-11437-de-2006` | Altera a destinação de receitas decorrentes da Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional -CONDECINE, criada pela Medida Provisória nº 2.228-1, de 6 de setembro de 2001, visando ao... (Lei nº 11.437, de 28 de dezembro de 2006) | 1 | 2011-09-13 to 2011-09-13 |
+| `lei-11440-de-2006` | Institui o Regime Jurídico dos Servidores do Serviço Exterior Brasileiro, altera a Lei nº 8.829, de 22 de dezembro de 1993, que cria, no Serviço Exterior Brasileiro, as Carreiras de Oficial de Chancelaria e de... (Lei nº 11.440, de 29 de dezembro de 2006) | 1 | 2019-06-18 to 2019-06-18 |
+| `lei-11441-de-2007` | Altera dispositivos da Lei nº 5.869, de 11 de janeiro de 1973 – Código de Processo Civil, possibilitando a realização de inventário, partilha, separação consensual e divórcio consensual por via administrativa (Lei nº 11.441, de 4 de janeiro de 2007) | 1 | 2007-01-05 to 2007-01-05 |
+| `lei-11443-de-2007` | Dá nova redação aos arts. 95 e 96 da Lei nº 4.504, de 30 de novembro de 1964, que dispõe sobre o Estatuto da Terra (Lei nº 11.443, de 5 de janeiro de 2007) | 1 | 2007-01-08 to 2007-01-08 |
+| `lei-11446-de-2007` | Altera a Lei nº 4.504, de 30 de novembro de 1964, dispondo sobre parcelamentos de imóveis rurais, destinados à agricultura familiar, promovidos pelo Poder Público (Lei nº 11.446, de 5 de janeiro de 2007) | 1 | 2007-01-08 to 2007-01-08 |
+| `lei-11448-de-2007` | Altera o art. 5º da Lei nº 7.347, de 24 de julho de 1985, que disciplina a ação civil pública, legitimando para sua propositura a Defensoria Pública (Lei nº 11.448, de 15 de janeiro de 2007) | 1 | 2007-01-16 to 2007-01-16 |
+| `lei-11449-de-2007` | Altera o art. 306 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal (Lei nº 11.449, de 15 de janeiro de 2007) | 1 | 2007-01-16 to 2007-01-16 |
+| `lei-11450-de-2007` | Altera a Lei nº 10.933, de 11 de agosto de 2004, que dispõe sobre o Plano Plurianual para o período 2004/2007 (Lei nº 11.450, de 7 de fevereiro de 2007) | 1 | 2006-07-06 to 2006-07-06 |
+| `lei-11460-de-2007` | Dispõe sobre o plantio de organismos geneticamente modificados em unidades de conservação (Lei nº 11.460, de 21 de março de 2007) | 1 | 2007-03-22 to 2007-03-22 |
+| `lei-11462-de-2007` | Autoriza a Superintendência da Zona Franca de Manaus - SUFRAMA a efetuar doação de área ao Governo do Estado do Amazonas, objeto de ocupação, localizada na Área de Expansão do Distrito Industrial, para atender ao... (Lei nº 11.462, de 28 de março de 2007) | 1 | 2007-03-29 to 2007-03-29 |
+| `lei-11464-de-2007` | Dá nova redação ao art. 2º da Lei nº 8.072, de 25 de julho de 1990, que dispõe sobre os crimes hediondos, nos termos do inciso XLIII do art. 5º da Constituição Federal (Lei nº 11.464, de 28 de março de 2007) | 1 | 2007-03-29 to 2007-03-29 |
+| `lei-11465-de-2007` | Altera os incisos I e III do caput do art. 1º da Lei nº 9.991, de 24 de julho de 2000, prorrogando, até 31 de dezembro de 2010, a obrigação de as concessionárias e permissionárias de serviços públicos de distribuição... (Lei nº 11.465, de 28 de março de 2007) | 1 | 2007-03-29 to 2007-03-29 |
+| `lei-11466-de-2007` | Altera a Lei nº 7.210, de 11 de julho de 1984 – Lei de Execução Penal, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para prever como falta disciplinar grave do preso e crime do agente público a... (Lei nº 11.466, de 28 de março de 2007) | 1 | 2007-03-29 to 2007-03-29 |
+| `lei-11472-de-2007` | Altera e acresce dispositivos à Lei nº 11.438, de 29 de dezembro de 2006, que dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo (Lei nº 11.472, de 2 de maio de 2007) | 1 | 2007-05-03 to 2007-05-03 |
+| `lei-11474-de-2007` | Altera a Lei n o 10.188, de 12 de fevereiro de 2001, que cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra, e a Lei n o 11.265, de 3 de janeiro de 2006, que... (Lei nº 11.474, de 15 de maio de 2007) | 1 | 2007-05-16 to 2007-05-16 |
+| `lei-11475-de-2007` | Altera a Lei nº 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, para incluir na Relação Descritiva das Rodovias do Sistema Rodoviário Nacional o acesso da BR-293 à fronteira do Brasil com o... (Lei nº 11.475, de 29 de maio de 2007) | 1 | 2007-05-30 to 2007-05-30 |
+| `lei-11476-de-2007` | Dispõe sobre a regulamentação das profissões de Enólogo e Técnico em Enologia (Lei nº 11.476, de 29 de maio de 2007) | 1 | 2012-09-27 to 2012-09-27 |
+| `lei-11477-de-2007` | Altera dispositivos da Lei nº 11.439, de 29 de dezembro de 2006, que dispõe sobre as diretrizes para a elaboração da Lei Orçamentária de 2007 (Lei nº 11.477, de 29 de maio de 2007) | 1 | 2007-05-30 to 2007-05-30 |
+| `lei-11480-de-2007` | Autoriza a renegociação dos créditos da União e da Centrais Elétricas Brasileiras S. A. - ELETROBRÁS junto à Itaipu Binacional, e dá outras providências (Lei nº 11.480, de 30 de maio de 2007) | 1 | 2007-05-31 to 2007-05-31 |
+| `lei-11485-de-2007` | Constitui fonte de recursos adicional para ampliação de limites operacionais da Caixa Econômica Federal – CEF (Lei nº 11.485, de 13 de junho de 2007) | 1 | 2007-06-14 to 2007-06-14 |
+| `lei-11486-de-2007` | Altera os limites originais do Parque Nacional de Jericoacoara, situado nos Municípios de Jijoca de Jericoacoara e Cruz, no Estado do Ceará (Lei nº 11.486, de 15 de junho de 2007) | 1 | 2007-06-15 to 2007-06-15 |
+| `lei-11487-de-2007` | Altera a Lei nº 11.196, de 21 de novembro de 2005, para incluir novo incentivo à inovação tecnológica e modificar as regras relativas à amortização acelerada para investimentos vinculados a pesquisa e ao desenvolvimento (Lei nº 11.487, de 15 de junho de 2007) | 1 | 2007-06-15 to 2007-06-15 |
+| `lei-11490-de-2007` | Altera as Leis nº 9.657, de 3 de junho de 1998, 10.480, de 2 de julho de 2002, 11.314, de 3 de julho de 2006, 11.344, de 8 de setembro de 2006, 11.355, 11.356, 11.357 e 11.358, de 19 de outubro de 2006, 8.025, de 12... (Lei nº 11.490, de 20 de junho de 2007) | 1 | 2025-06-03 to 2025-06-03 |
+| `lei-11492-de-2007` | Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, no exercício de 2007, com o objetivo de fomentar as exportações do País (Lei nº 11.492, de 20 de junho de 2007) | 1 | 2007-06-21 to 2007-06-21 |
+| `lei-11493-de-2007` | Cria cargos e funções no Quadro de Pessoal da Secretaria do Tribunal Superior do Trabalho (Lei nº 11.493, de 20 de junho de 2007) | 1 | 2007-06-21 to 2007-06-21 |
+| `lei-11495-de-2007` | Dá nova redação ao caput do art. 836 da Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a fim de dispor sobre o depósito prévio em ação rescisória (Lei nº 11.495, de 22 de junho de 2007) | 1 | 2007-09-23 to 2007-09-23 |
+| `lei-11496-de-2007` | Dá nova redação ao art. 894 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e à alínea b do inciso III do art. 3º da Lei nº 7.701, de 21 de dezembro de 1988,... (Lei nº 11.496, de 22 de junho de 2007) | 1 | 2007-09-23 to 2007-09-23 |
+| `lei-11497-de-2007` | Altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências (Lei nº 11.497, de 28 de junho de 2007) | 1 | 2007-06-29 to 2007-06-29 |
+| `lei-11499-de-2007` | Acrescenta o art. 2º -A e altera o art. 3º da Lei nº 10.184, de 12 de fevereiro de 2001, que dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais (Lei nº 11.499, de 28 de junho de 2007) | 1 | 2007-06-29 to 2007-06-29 |
+| `lei-11502-de-2007` | Modifica as competências e a estrutura organizacional da fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES, de que trata a Lei nº 8.405, de 9 de janeiro de 1992 (Lei nº 11.502, de 11 de julho de 2007) | 1 | 2007-07-12 to 2007-07-12 |
+| `lei-11505-de-2007` | Altera dispositivos das Leis nº 11.345, de 14 de setembro de 2006, 8.212, de 24 de julho de 1991, e 8.685, de 20 de julho de 1993, e dá outras providências (Lei nº 11.505, de 18 de julho de 2007) | 1 | 2007-07-19 to 2007-07-19 |
+| `lei-11506-de-2007` | Institui a data de 16 de novembro como o Dia Nacional dos Ostomizados (Lei nº 11.506, de 19 de julho de 2007) | 1 | 2007-07-20 to 2007-07-20 |
+| `lei-11509-de-2007` | Altera o § 4º do art. 7º da Lei nº 11.096, de 13 de janeiro de 2005, que instituiu o Programa Universidade para Todos - PROUNI, para dispor sobre a desvinculação dos cursos com desempenho insuficiente no Sistema... (Lei nº 11.509, de 20 de julho de 2007) | 1 | 2007-07-23 to 2007-07-23 |
+| `lei-11512-de-2007` | Dispõe sobre a prestação de auxílio financeiro pela União aos Estados e aos Municípios, no exercício de 2007, com o objetivo de fomentar as exportações do País (Lei nº 11.512, de 8 de agosto de 2007) | 1 | 2007-09-23 to 2007-09-23 |
+| `lei-11515-de-2007` | Altera dispositivos da Lei nº 569, de 21 de dezembro de 1948, que estabelece medidas de defesa sanitária animal (Lei nº 11.515, de 28 de agosto de 2007) | 1 | 2007-08-28 to 2007-08-28 |
+| `lei-11521-de-2007` | Altera a Lei nº 9.434, de 4 de fevereiro de 1997, para permitir a retirada pelo Sistema Único de Saúde de órgãos e tecidos de doadores que se encontrem em instituições hospitalares não autorizadas a realizar transplantes (Lei nº 11.521, de 18 de setembro de 2007) | 1 | 2007-12-18 to 2007-12-18 |
+| `lei-11522-de-2007` | Institui o ano de 2008 como Ano Nacional Machado de Assis (Lei nº 11.522, de 18 de setembro de 2007) | 1 | 2007-09-19 to 2007-09-19 |
+| `lei-11523-de-2007` | Institui a Semana Nacional de Prevenção da Violência na Primeira Infância (Lei nº 11.523, de 18 de setembro de 2007) | 1 | 2007-09-19 to 2007-09-19 |
+| `lei-11524-de-2007` | Dispõe sobre a utilização de recursos das exigibilidades de aplicação em crédito rural oriundos da poupança rural e dos depósitos a vista para financiamentos destinados à liquidação de dívidas de produtores rurais ou... (Lei nº 11.524, de 24 de setembro de 2007) | 1 | 2012-09-24 to 2012-09-24 |
+| `lei-11525-de-2007` | Acrescenta § 5º ao art. 32 da Lei nº 9.394, de 20 de dezembro de 1996, para incluir conteúdo que trate dos direitos das crianças e dos adolescentes no currículo do ensino fundamental (Lei nº 11.525, de 25 de setembro de 2007) | 1 | 2007-09-26 to 2007-09-26 |
+| `lei-11531-de-2007` | Altera o art. 12 da Lei nº 10.666, de 8 de maio de 2003, tratando do prazo para apresentação de dados para fins de compensação financeira entre o regime geral de previdência social e os regimes próprios de... (Lei nº 11.531, de 24 de outubro de 2007) | 1 | 2007-10-25 to 2007-10-25 |
+| `lei-11533-de-2007` | Dá nova redação ao caput do art. 5º da Lei nº 10.195, de 14 de fevereiro de 2001, que institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados (Lei nº 11.533, de 25 de outubro de 2007) | 1 | 2007-10-26 to 2007-10-26 |
+| `lei-11534-de-2007` | Dispõe sobre a criação de Escolas Técnicas e Agrotécnicas Federais e dá outras providências (Lei nº 11.534, de 25 de outubro de 2007) | 1 | 2007-10-26 to 2007-10-26 |
+| `lei-11543-de-2007` | Cria mil novecentos e cinqüenta e um cargos da Carreira da Previdência, da Saúde e do Trabalho, para o Quadro do Ministério do Trabalho e Emprego e extingue dois mil, cento e noventa e um cargos vagos disponíveis no... (Lei nº 11.543, de 13 de novembro de 2007) | 1 | 2007-11-14 to 2007-11-14 |
+| `lei-11550-de-2007` | Altera a Lei nº 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, de modo a incluir, na Relação Descritiva dos Portos Marítimos, Fluviais e Lacustres, o Porto de Regência, no Estado do Espírito... (Lei nº 11.550, de 19 de novembro de 2007) | 1 | 2007-11-20 to 2007-11-20 |
+| `lei-11551-de-2007` | Institui o Programa Disque Idoso (Lei nº 11.551, de 19 de novembro de 2007) | 1 | 2007-11-20 to 2007-11-20 |
+| `lei-11552-de-2007` | Altera a Lei nº 10.260, de 12 de julho de 2001, que dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior – Fies (Lei nº 11.552, de 19 de novembro de 2007) | 1 | 2010-04-26 to 2010-04-26 |
+| `lei-11579-de-2007` | Revoga a Medida Provisória n o 379, de 28 de junho de 2007, que altera dispositivos da Lei nº 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o... (Lei nº 11.579, de 27 de novembro de 2007) | 1 | 2007-11-28 to 2007-11-28 |
+| `lei-11580-de-2007` | Revoga a Medida Provisória n o 380, de 28 de junho de 2007, que institui o Regime de Tributação Unificada - RTU na importação, por via terrestre, de mercadorias procedentes do Paraguai (Lei nº 11.580, de 27 de novembro de 2007) | 1 | 2007-11-28 to 2007-11-28 |
+| `lei-11583-de-2007` | Institui a data de 5 de dezembro como o Dia Nacional da Pastoral da Criança (Lei nº 11.583, de 28 de novembro de 2007) | 1 | 2007-11-29 to 2007-11-29 |
+| `lei-11596-de-2007` | Altera o inciso IV do caput do art. 117 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para definir como causa interruptiva da prescrição a publicação da sentença ou acórdão condenatório recorrível (Lei nº 11.596, de 29 de novembro de 2007) | 1 | 2007-11-30 to 2007-11-30 |
+| `lei-11597-de-2007` | Dispõe sobre a inscrição de nomes no Livro dos Heróis da Pátria (Lei nº 11.597, de 29 de novembro de 2007) | 1 | 2025-10-29 to 2025-10-29 |
+| `lei-11603-de-2007` | Altera e acresce dispositivos à Lei nº 10.101, de 19 de dezembro de 2000 (Lei nº 11.603, de 5 de dezembro de 2007) | 1 | 2007-12-06 to 2007-12-06 |
+| `lei-11604-de-2007` | Revoga a Medida Provisória no 382, de 24de julho de 2007, dispõe sobre o desconto de créditos da Contribuição para o PIS/PASEP e da COFINS, na aquisição no mercado interno ou importação de bens de capita destinados à... (Lei nº 11.604, de 5 de dezembro de 2007) | 1 | 2007-12-06 to 2007-12-06 |
+| `lei-11612-de-2007` | Altera os itens I.2 e I.4 do Anexo V da Lei nº 11.451, de 7 de fevereiro de 2007 (Lei nº 11.612, de 17 de dezembro de 2007) | 1 | 2007-12-18 to 2007-12-18 |
+| `lei-11617-de-2007` | Cria cargos no Quadro de Pessoal da Secretaria do Supremo Tribunal Federal (Lei nº 11.617, de 19 de dezembro de 2007) | 1 | 2007-12-20 to 2007-12-20 |
+| `lei-11618-de-2007` | Dispõe sobre a criação de cargos e de funções no Quadro de Pessoal do Conselho Nacional de Justiça e altera a Lei nº 11.364, de 26 de outubro de 2006 (Lei nº 11.618, de 19 de dezembro de 2007) | 1 | 2007-12-20 to 2007-12-20 |
+| `lei-11629-de-2007` | Substitui o Anexo VII da Lei nº 11.451, de 7 de fevereiro de 2007 (Lei nº 11.629, de 26 de dezembro de 2007) | 1 | 2007-12-27 to 2007-12-27 |
+| `lei-11631-de-2007` | Dispõe sobre a Mobilização Nacional e cria o Sistema Nacional de Mobilização - SINAMOB (Lei nº 11.631, de 27 de dezembro de 2007) | 1 | 2007-12-28 to 2007-12-28 |
+| `lei-11632-de-2007` | Altera o inciso I do caput do art. 44, da Lei nº 9.394, de 20 de dezembro de 1996 (Lei nº 11.632, de 27 de dezembro de 2007) | 1 | 2007-12-28 to 2007-12-28 |
+| `lei-11633-de-2007` | Altera a Lei nº 9.434, de 4 de fevereiro de 1997 (Lei nº 11.633, de 27 de dezembro de 2007) | 1 | 2007-12-28 to 2007-12-28 |
+| `lei-11634-de-2007` | Dispõe sobre o direito da gestante ao conhecimento e a vinculação à maternidade onde receberá assistência no âmbito do Sistema Único de Saúde (Lei nº 11.634, de 27 de dezembro de 2007) | 1 | 2007-12-28 to 2007-12-28 |
+| `lei-11637-de-2007` | Dispõe sobre o programa de qualificação dos serviços turísticos e do Selo de Qualidade Nacional de Turismo (Lei nº 11.637, de 28 de dezembro de 2007) | 1 | 2007-12-28 to 2007-12-28 |
+| `lei-11639-de-2008` | Altera o art. 6 o da Lei n o 5.895, de 19 de junho de 1973, para aumentar de 3 (três) para 4 (quatro) o número de Diretores da Casa da Moeda do Brasil (Lei nº 11.639, de 8 de janeiro de 2008) | 1 | 2008-01-09 to 2008-01-09 |
+| `lei-11640-de-2008` | Institui a Fundação Universidade Federal do Pampa - UNIPAMPA e dá outras providências (Lei nº 11.640, de 11 de janeiro de 2008) | 1 | 2008-01-14 to 2008-01-14 |
+| `lei-11641-de-2008` | Dispõe sobre a transformação da Fundação Faculdade Federal de Ciências Médicas de Porto Alegre – FFFCMPA em Fundação Universidade Federal de Ciências da Saúde de Porto Alegre – UFCSPA e dá outras providências (Lei nº 11.641, de 11 de janeiro de 2008) | 1 | 2008-01-14 to 2008-01-14 |
+| `lei-11642-de-2008` | Considera o Município de Iguape, localizado no Estado de São Paulo, o Berço da Colonização Japonesa no Brasil (Lei nº 11.642, de 11 de janeiro de 2008) | 1 | 2008-01-14 to 2008-01-14 |
+| `lei-11643-de-2008` | Altera os incisos II e III do caput do art. 11 da Lei n o 9.519, de 26 de novembro de 1997, que dispõe sobre a reestruturação dos Corpos e Quadros de Oficiais e de Praças da Marinha (Lei nº 11.643, de 10 de março de 2008) | 1 | 2008-03-11 to 2008-03-11 |
+| `lei-11644-de-2008` | Acrescenta art. 442-A à Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei n o 5.452, de 1 o de maio de 1943, impedindo a exigência de comprovação de experiência prévia por tempo superior a 6 (seis) meses (Lei nº 11.644, de 10 de março de 2008) | 1 | 2008-03-11 to 2008-03-11 |
+| `lei-11645-de-2008` | Altera a Lei n o 9.394, de 20 de dezembro de 1996, modificada pela Lei n o 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de... (Lei nº 11.645, de 10 de março de 2008) | 1 | 2008-03-11 to 2008-03-11 |
+| `lei-11646-de-2008` | Altera dispositivos da Lei n o 8.313, de 23 de dezembro de 1991, para estender o benefício fiscal às doações e patrocínios destinados à construção de salas de cinema em Municípios com menos de 100.000 (cem mil)... (Lei nº 11.646, de 10 de março de 2008) | 1 | 2001-09-10 to 2001-09-10 |
+| `lei-11648-de-2008` | Dispõe sobre o reconhecimento formal das centrais sindicais para os fins que especifica, altera a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei n o 5.452, de 1 o de maio de 1943, e dá outras... (Lei nº 11.648, de 31 de março de 2008) | 1 | 2008-03-31 to 2008-03-31 |
+| `lei-11652-de-2008` | Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta (Lei nº 11.652, de 7 de abril de 2008) | 1 | 2017-03-02 to 2017-03-02 |
+| `lei-11653-de-2008` | Dispõe sobre o Plano Plurianual para o período 2008/2011 (Lei nº 11.653, de 7 de abril de 2008) | 1 | 2008-04-08 to 2008-04-08 |
+| `lei-11661-de-2008` | Autoriza, em caráter excepcional, a prorrogação de contratos temporários no âmbito de projetos de cooperação com prazo determinado, implementados mediante acordos com organismos internacionais, altera as Leis n o s... (Lei nº 11.661, de 24 de abril de 2008) | 1 | 2008-04-25 to 2008-04-25 |
+| `lei-11663-de-2008` | Altera as Leis n os 11.134, de 15 de julho de 2005, que dispõe sobre a remuneração devida aos militares da Polícia Militar do Distrito Federal e do Corpo de Bombeiros Militar do Distrito Federal, e 11.361, de 19 de... (Lei nº 11.663, de 24 de abril de 2008) | 1 | 2008-05-09 to 2008-05-09 |
+| `lei-11664-de-2008` | Dispõe sobre a efetivação de ações de saúde que assegurem a prevenção, a detecção, o tratamento e o seguimento dos cânceres do colo uterino e de mama, no âmbito do Sistema Único de Saúde – SUS (Lei nº 11.664, de 29 de abril de 2008) | 1 | 2025-12-19 to 2025-12-19 |
+| `lei-11665-de-2008` | Altera o art. 41-A da Lei n o 8.213, de 24 de julho de 1991, modificando a data de pagamento dos benefícios da previdência social (Lei nº 11.665, de 29 de abril de 2008) | 1 | 2008-04-30 to 2008-04-30 |
+| `lei-11668-de-2008` | Dispõe sobre o exercício da atividade de franquia postal, revoga o § 1 o do art. 1 o da Lei n o 9.074, de 7 de julho de 1995, e dá outras providências. Mensagem de veto (Lei nº 11.668, de 2 de maio de 2008) | 1 | 2011-04-08 to 2011-04-08 |
+| `lei-11675-de-2008` | Designa o cupuaçu fruta nacional (Lei nº 11.675, de 19 de maio de 2008) | 1 | 2008-05-20 to 2008-05-20 |
+| `lei-11679-de-2008` | Dispõe sobre a transformação de Funções Comissionadas no Quadro de Pessoal do Tribunal Regional do Trabalho da 5 a Região e dá outras providências (Lei nº 11.679, de 27 de maio de 2008) | 1 | 2008-05-28 to 2008-05-28 |
+| `lei-11681-de-2008` | Dispõe sobre a criação de cargos de provimento efetivo, cargos em comissão e funções comissionadas no Quadro Permanente de Pessoal do Tribunal Regional do Trabalho da 23 a Região e dá outras providências (Lei nº 11.681, de 27 de maio de 2008) | 1 | 2008-05-28 to 2008-05-28 |
+| `lei-11682-de-2008` | Dispõe sobre a transformação e criação de cargos em comissão e de funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 12 a Região e dá outras providências (Lei nº 11.682, de 27 de maio de 2008) | 1 | 2008-05-28 to 2008-05-28 |
+| `lei-11683-de-2008` | Altera a Lei n o 3.419, de 5 de julho de 1958, e determina outras providências (Lei nº 11.683, de 27 de maio de 2008) | 1 | 2008-05-28 to 2008-05-28 |
+| `lei-11684-de-2008` | Altera o art. 36 da Lei n o 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir a Filosofia e a Sociologia como disciplinas obrigatórias nos currículos do ensino... (Lei nº 11.684, de 2 de junho de 2008) | 1 | 2008-06-03 to 2008-06-03 |
+| `lei-11685-de-2008` | Institui o Estatuto do Garimpeiro e dá outras providências (Lei nº 11.685, de 2 de junho de 2008) | 1 | 2008-06-03 to 2008-06-03 |
+| `lei-11686-de-2008` | Altera a categoria da unidade de conservação Parque Nacional dos Pontões Capixabas para Monumento Natural dos Pontões Capixabas, nos Municípios de Pancas e Águia Branca, no Estado do Espírito Santo (Lei nº 11.686, de 2 de junho de 2008) | 1 | 2008-06-03 to 2008-06-03 |
+| `lei-11687-de-2008` | Dispõe sobre a instituição do “Dia Nacional do Imigrante Italiano” e dá outras providências (Lei nº 11.687, de 2 de junho de 2008) | 1 | 2008-06-03 to 2008-06-03 |
+| `lei-11688-de-2008` | Constitui fonte de recursos adicional para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômicoe Social - BNDES (Lei nº 11.688, de 4 de junho de 2008) | 1 | 2008-06-05 to 2008-06-05 |
+| `lei-11689-de-2008` | Altera dispositivos do Decreto-Lei n o 3.689, de 3 de outubro de 1941 – Código de Processo Penal, relativos ao Tribunal do Júri, e dá outras providências (Lei nº 11.689, de 9 de junho de 2008) | 1 | 2008-08-09 to 2008-08-09 |
+| `lei-11690-de-2008` | Altera dispositivos do Decreto-Lei n o 3.689, de 3 de outubro de 1941 – Código de Processo Penal, relativos à prova, e dá outras providências (Lei nº 11.690, de 9 de junho de 2008) | 1 | 2008-08-09 to 2008-08-09 |
+| `lei-11692-de-2008` | Dispõe sobre o Programa Nacional de Inclusão de Jovens - Projovem, instituído pela Lei n o 11.129, de 30 de junho de 2005 (Lei nº 11.692, de 10 de junho de 2008) | 1 | 2008-06-11 to 2008-06-11 |
+| `lei-11693-de-2008` | Altera as Leis nºs 10.683, de 28 de maio de 2003, e 10.678, de 23 de maio de 2003, transformando o cargo de Secretário Especial de Políticas de Promoção da Igualdade Racial em Ministro de Estado Chefe da Secretaria... (Lei nº 11.693, de 11 de junho de 2008) | 1 | 2008-06-12 to 2008-06-12 |
+| `lei-11694-de-2008` | Altera dispositivos da Lei n o 9.096, de 19 de setembro de 1995 - Lei dos Partidos Políticos, e da Lei n o 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, para dispor sobre a responsabilidade civil e a... (Lei nº 11.694, de 12 de junho de 2008) | 1 | 2008-06-13 to 2008-06-13 |
+| `lei-11698-de-2008` | Altera os arts. 1.583 e 1.584 da Lei n o 10.406, de 10 de janeiro de 2002 – Código Civil, para instituir e disciplinar a guarda compartilhada (Lei nº 11.698, de 13 de junho de 2008) | 1 | 2008-08-15 to 2008-08-15 |
+| `lei-11699-de-2008` | Dispõe sobre as Colônias, Federações e Confederação Nacional dos Pescadores, regulamentando o parágrafo único do art. 8 o da Constituição Federal e revoga dispositivo do Decreto-Lei n o 221, de 28 de fevereiro de 1967 (Lei nº 11.699, de 13 de junho de 2008) | 1 | 2022-09-05 to 2022-09-05 |
+| `lei-11701-de-2008` | Altera a redação da Lei n o 5.917, de 10 de setembro de 1973, para incluir o Porto Barra do Riacho na relação descritiva dos portos marítimos, fluviais e lacustres do Plano Nacional de Viação, de que trata o item 4.2 (Lei nº 11.701, de 18 de junho de 2008) | 1 | 2008-06-19 to 2008-06-19 |
+| `lei-11705-de-2008` | Altera a Lei n o 9.503, de 23 de setembro de 1997, que ‘institui o Código de Trânsito Brasileiro’, e a Lei n o 9.294, de 15 de julho de 1996, que dispõe sobre as restrições ao uso e à propaganda de produtos... (Lei nº 11.705, de 19 de junho de 2008) | 1 | 2008-06-20 to 2008-06-20 |
+| `lei-11706-de-2008` | Altera e acresce dispositivos à Lei n o 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição e sobre o Sistema Nacional de Armas - Sinarm e define crimes (Lei nº 11.706, de 19 de junho de 2008) | 1 | 2008-06-20 to 2008-06-20 |
+| `lei-11716-de-2008` | Dispõe sobre a criação do Dia Nacional do Pecuarista (Lei nº 11.716, de 20 de junho de 2008) | 1 | 2008-06-23 to 2008-06-23 |
+| `lei-11717-de-2008` | Dá o nome de Palácio Tuiuiú ao prédio do Tribunal Regional Eleitoral de Mato Grosso do Sul (Lei nº 11.717, de 20 de junho de 2008) | 1 | 2008-06-23 to 2008-06-23 |
+| `lei-11719-de-2008` | Altera dispositivos do Decreto-Lei n o 3.689, de 3 de outubro de 1941 - Código de Processo Penal, relativos à suspensão do processo, emendatio libelli , mutatio libelli e aos procedimentos (Lei nº 11.719, de 20 de junho de 2008) | 1 | 2008-08-22 to 2008-08-22 |
+| `lei-11722-de-2008` | Dispõe sobre a criação do Dia Nacional do Teatro para a Infância e Juventude (Lei nº 11.722, de 23 de junho de 2008) | 1 | 2008-06-24 to 2008-06-24 |
+| `lei-11726-de-2008` | Dispõe sobre a prorrogação do Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária - Reporto, instituído pela Lei n o 11.033, de 21 de dezembro de 2004, e altera as Leis n os 11.033,... (Lei nº 11.726, de 23 de junho de 2008) | 1 | 2008-06-24 to 2008-06-24 |
+| `lei-11729-de-2008` | Altera a Lei n o 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, para incluir, na Relação Descritiva das Rodovias do Sistema Rodoviário Nacional, trecho rodoviário que contorna a cidade de... (Lei nº 11.729, de 24 de junho de 2008) | 1 | 2008-06-25 to 2008-06-25 |
+| `lei-11731-de-2008` | Altera a Lei n o 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, para modificar a descrição da rodovia BR-461, na Relação Descritiva das Rodovias do Sistema Rodoviário Federal (Lei nº 11.731, de 26 de junho de 2008) | 1 | 2008-06-25 to 2008-06-25 |
+| `lei-11732-de-2008` | Altera as Leis n os 11.508, de 20 de julho de 2007, que dispõe sobre o regime tributário, cambial e administrativo das Zonas de Processamento de Exportação, e 8.256, de 25 de novembro de 1991, que cria áreas de livre... (Lei nº 11.732, de 30 de junho de 2008) | 1 | 2009-05-28 to 2009-05-28 |
+| `lei-11733-de-2008` | Amplia os limites de despesa no exercício de 2008 e anualizada a que se refere o item II.4.1 do Anexo V da Lei n o 11.647, de 24 de março de 2008 (Lei nº 11.733, de 1º de julho de 2008) | 1 | 2008-07-02 to 2008-07-02 |
+| `lei-11737-de-2008` | Altera o art. 13 da Lei n o 10.741, de 1 o de outubro de 2003 – Estatuto do Idoso, para atribuir aos Defensores Públicos o poder de referendar transações relativas a alimentos (Lei nº 11.737, de 14 de julho de 2008) | 1 | 2008-07-15 to 2008-07-15 |
+| `lei-11739-de-2008` | Cria cargos efetivos, cargos comissionados e funções gratificadas no âmbito do Ministério da Educação (Lei nº 11.739, de 16 de julho de 2008) | 1 | 2008-07-17 to 2008-07-17 |
+| `lei-11740-de-2008` | Cria cargos efetivos, cargos em comissão e funções gratificadas no âmbito do Ministério da Educação destinados a instituições federais de educação profissional e tecnológica e de ensino superior (Lei nº 11.740, de 16 de julho de 2008) | 1 | 2008-12-30 to 2008-12-30 |
+| `lei-11741-de-2008` | Altera dispositivos da Lei n o 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para redimensionar, institucionalizar e integrar as ações da educação profissional técnica... (Lei nº 11.741, de 16 de julho de 2008) | 1 | 2008-07-17 to 2008-07-17 |
+| `lei-11744-de-2008` | Altera o Anexo V da Lei n º 11.647, de 24 de março de 2008 (Lei nº 11.744, de 21 de julho de 2008) | 1 | 2008-07-22 to 2008-07-22 |
+| `lei-11753-de-2008` | Concede, a título de indenização decorrente de responsabilidade civil da União, pensão especial à dependente de Roberto Vicente da Silva (Lei nº 11.753, de 22 de julho de 2008) | 1 | 2008-07-23 to 2008-07-23 |
+| `lei-11754-de-2008` | Acresce, altera e revoga dispositivos da Lei n o 10.683, de 28 de maio de 2003, cria a Secretaria de Assuntos Estratégicos da Presidência da República, cria cargos em comissão (Lei nº 11.754, de 23 de julho de 2008) | 1 | 2008-07-24 to 2008-07-24 |
+| `lei-11756-de-2008` | Concede anistia post mortem a João Cândido Felisberto, líder da chamada Revolta da Chibata, e aos demais participantes do movimento (Lei nº 11.756, de 23 de julho de 2008) | 1 | 2008-07-24 to 2008-07-24 |
+| `lei-11758-de-2008` | Dispõe sobre a criação e a transformação de cargos em comissão e funções comissionadas no Quadro de Pessoal do Tribunal Regional do Trabalho da 1 a Região e dá outras providências (Lei nº 11.758, de 28 de julho de 2008) | 1 | 2008-07-29 to 2008-07-29 |
+| `lei-11759-de-2008` | Autoriza a criação da empresa pública Centro Nacional de Tecnologia Eletrônica Avançada S.A. - CEITEC e dá outras providências (Lei nº 11.759, de 31 de julho de 2008) | 1 | 2012-09-17 to 2012-09-17 |
+| `lei-11765-de-2008` | Acrescenta inciso ao parágrafo único do art. 3 o da Lei n o 10.741, de 1 o de outubro de 2003 – Estatuto do Idoso, para dar prioridade ao idoso no recebimento da restituição do Imposto de Renda (Lei nº 11.765, de 5 de agosto de 2008) | 1 | 2008-08-06 to 2008-08-06 |
+| `lei-11767-de-2008` | Altera o art. 7 o da Lei n o 8.906, de 4 de julho de 1994, para dispor sobre o direito à inviolabilidade do local e instrumentos de trabalho do advogado, bem como de sua correspondência (Lei nº 11.767, de 7 de agosto de 2008) | 1 | 2008-08-08 to 2008-08-08 |
+| `lei-11769-de-2008` | Altera a Lei n o 9.394, de 20 de dezembro de 1996, Lei de Diretrizes e Bases da Educação, para dispor sobre a obrigatoriedade do ensino da música na educação básica (Lei nº 11.769, de 18 de agosto de 2008) | 1 | 2008-08-19 to 2008-08-19 |
+| `lei-11772-de-2008` | Acrescenta e altera dispositivos na Lei n o 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação (Lei nº 11.772, de 17 de setembro de 2008) | 1 | 2012-12-20 to 2012-12-20 |
+| `lei-11777-de-2008` | Dispõe sobre a criação de cargos de provimento efetivo e em comissão e de funções comissionadas no Quadro de Pessoal do Superior Tribunal de Justiça e dá outras providências (Lei nº 11.777, de 17 de setembro de 2008) | 1 | 2008-09-18 to 2008-09-18 |
+| `lei-11778-de-2008` | Dispõe sobre a criação de Cargos de provimento efetivo e em Comissão e Funções Comissionadas no Tribunal Regional do Trabalho da 17 a Região, sediado em Vitória, no Estado do Espírito Santo, e dá outras providências (Lei nº 11.778, de 17 de setembro de 2008) | 1 | 2008-09-18 to 2008-09-18 |
+| `lei-11779-de-2008` | Cria cargos de provimento efetivo e funções comissionadas no Tribunal Regional do Trabalho da 17 a Região, sediado em Vitória, no Estado do Espírito Santo, e dá outras providências (Lei nº 11.779, de 17 de setembro de 2008) | 1 | 2008-09-18 to 2008-09-18 |
+| `lei-11780-de-2008` | Dispõe sobre a criação de funções de confiança no Quadro de Pessoal do Tribunal de Contas da União (Lei nº 11.780, de 17 de setembro de 2008) | 1 | 2008-09-18 to 2008-09-18 |
+| `lei-11781-de-2008` | Dispõe sobre a criação e a transformação de funções comissionadas no Quadro de Pessoal do Tribunal Regional do Trabalho da 6 a Região e dá outras providências (Lei nº 11.781, de 17 de setembro de 2008) | 1 | 2008-09-18 to 2008-09-18 |
+| `lei-11782-de-2008` | Dispõe sobre a criação de cargos efetivos no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 11 a Região e dá outras providências (Lei nº 11.782, de 17 de setembro de 2008) | 1 | 2008-09-18 to 2008-09-18 |
+| `lei-11783-de-2008` | Acrescenta o inciso XXIX ao caput do art. 24 da Lei n o 8.666, de 21 de junho de 1993, que regulamenta o inciso XXI do caput do art. 37 da Constituição Federal, institui normas para licitações e contratos da... (Lei nº 11.783, de 17 de setembro de 2008) | 1 | 2008-09-18 to 2008-09-18 |
+| `lei-11785-de-2008` | Altera o § 3 o do art. 54 da Lei n o 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor – CDC, para definir tamanho mínimo da fonte em contratos de adesão (Lei nº 11.785, de 22 de setembro de 2008) | 1 | 2008-09-23 to 2008-09-23 |
+| `lei-11786-de-2008` | Autoriza a União a participar em Fundo de Garantia para a Construção Naval - FGCN para a formação de seu patrimônio (Lei nº 11.786, de 25 de setembro de 2008) | 1 | 2009-10-14 to 2009-10-14 |
+| `lei-11787-de-2008` | Reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS incidentes na importação e na comercialização do mercado interno de farinha de trigo,... (Lei nº 11.787, de 25 de setembro de 2008) | 1 | 2008-09-26 to 2008-09-26 |
+| `lei-11789-de-2008` | Proíbe a inserção nas certidões de nascimento e de óbito de expressões que indiquem condição de pobreza ou semelhantes e altera as Leis n os 6.015, de 31 de dezembro de 1973 – Lei de Registros Públicos, e 8.935, de... (Lei nº 11.789, de 2 de outubro de 2008) | 1 | 2008-10-03 to 2008-10-03 |
+| `lei-11790-de-2008` | Altera o art. 46 da Lei n o 6.015, de 31 de dezembro de 1973 – Lei de Registros Públicos, para permitir o registro da declaração de nascimento fora do prazo legal diretamente nas serventias extrajudiciais, e dá... (Lei nº 11.790, de 2 de outubro de 2008) | 1 | 2008-10-03 to 2008-10-03 |
+| `lei-11793-de-2008` | Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, no exercício de 2008, com o objetivo de fomentar as exportações do País (Lei nº 11.793, de 6 de outubro de 2008) | 1 | 2008-10-07 to 2008-10-07 |
+| `lei-11798-de-2008` | Dispõe sobre a composição e a competência do Conselho da Justiça Federal, revoga a Lei n o 8.472, de 14 de outubro de 1992, e dá outras providências (Lei nº 11.798, de 29 de outubro de 2008) | 1 | 2021-10-21 to 2021-10-21 |
+| `lei-11799-de-2008` | Transforma a Estação Ecológica de Anavilhanas, criada pelo Decreto n o 86.061, de 2 de junho de 1981, em Parque Nacional de Anavilhanas (Lei nº 11.799, de 29 de outubro de 2008) | 1 | 2008-10-30 to 2008-10-30 |
+| `lei-11800-de-2008` | Acrescenta parágrafo único ao art. 33 da Lei n o 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor, para impedir que os fornecedores veiculem publicidade ao consumidor que aguarda, na linha... (Lei nº 11.800, de 29 de outubro de 2008) | 1 | 2008-10-30 to 2008-10-30 |
+| `lei-11801-de-2008` | Dispõe sobre o reconhecimento do dia 26 de outubro como Dia Nacional dos Trabalhadores Metroviários (Lei nº 11.801, de 4 de novembro de 2008) | 1 | 2008-11-05 to 2008-11-05 |
+| `lei-11802-de-2008` | Acrescenta § 3 o -C ao art. 30 da Lei n o 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos e dá outras providências (Lei nº 11.802, de 4 de novembro de 2008) | 1 | 2008-11-05 to 2008-11-05 |
+| `lei-11805-de-2008` | Constitui fonte de recursos adicional para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômico e Social - BNDES (Lei nº 11.805, de 6 de novembro de 2008) | 1 | 2009-05-29 to 2009-05-29 |
+| `lei-11827-de-2008` | Altera as Leis n os 10.833, de 29 de dezembro de 2003, e 11.727, de 23 de junho de 2008, relativamente à incidência do Imposto sobre Produtos Industrializados - IPI, da Contribuição para o PIS/Pasep e da Contribuição... (Lei nº 11.827, de 20 de novembro de 2008) | 1 | 2008-11-21 to 2008-11-21 |
+| `lei-11828-de-2008` | Dispõe sobre medidas tributárias aplicáveis às doações em espécie recebidas por instituições financeiras públicas controladas pela União e destinadas a ações de prevenção, monitoramento e combate ao desmatamento e de... (Lei nº 11.828, de 20 de novembro de 2008) | 1 | 2013-05-16 to 2013-05-16 |
+| `lei-11829-de-2008` | Altera a Lei n o 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para aprimorar o combate à produção, venda e distribuição de pornografia infantil, bem como criminalizar a aquisição e a posse de... (Lei nº 11.829, de 25 de novembro de 2008) | 1 | 2008-11-26 to 2008-11-26 |
+| `lei-11830-de-2008` | Altera o Anexo V da Lei n o 11.647, de 24 de março de 2008 (Lei nº 11.830, de 27 de novembro de 2008) | 1 | 2008-11-28 to 2008-11-28 |
+| `lei-11862-de-2008` | Altera a Lei n o 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação e dá outras providências, de modo a incluir na Relação Descritiva das Rodovias do Sistema Rodoviário Federal o acesso da... (Lei nº 11.862, de 15 de dezembro de 2008) | 1 | 2008-12-16 to 2008-12-16 |
+| `lei-11877-de-2008` | Dispõe sobre a criação de cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal do Tribunal Regional do Trabalho da 1 a Região (Lei nº 11.877, de 19 de dezembro de 2008) | 1 | 2008-12-22 to 2008-12-22 |
+| `lei-11879-de-2008` | Altera a Lei n o 5.917, de 10 de setembro de 1973, que “aprova o Plano Nacional de Viação e dá outras providências”, para modificar o traçado da BR-174 (Lei nº 11.879, de 19 de dezembro de 2008) | 1 | 2008-12-22 to 2008-12-22 |
+| `lei-11880-de-2008` | Altera a Lei n o 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação e dá outras providências, de modo a incluir, na Relação Descritiva das Rodovias do Sistema Rodoviário Nacional, o acesso da... (Lei nº 11.880, de 19 de dezembro de 2008) | 1 | 2008-12-22 to 2008-12-22 |
+| `lei-11882-de-2008` | Dispõe sobre as operações de redesconto pelo Banco Central do Brasil, autoriza a emissão da Letra de Arrendamento Mercantil - LAM, altera a Lei n o 6.099, de 12 de setembro de 1974, e dá outras providências (Lei nº 11.882, de 23 de dezembro de 2008) | 1 | 2009-10-14 to 2009-10-14 |
+| `lei-11883-de-2008` | Dispõe sobre a remuneração dos membros do Conselho Nacional do Ministério Público (Lei nº 11.883, de 23 de dezembro de 2008) | 1 | 2008-12-24 to 2008-12-24 |
+| `lei-11889-de-2008` | Regulamenta o exercício das profissões de Técnico em Saúde Bucal - TSB e de Auxiliar em Saúde Bucal - ASB (Lei nº 11.889, de 24 de dezembro de 2008) | 1 | 2008-12-26 to 2008-12-26 |
+| `lei-11891-de-2008` | Dispõe sobre a criação da Área de Proteção Ambiental Serra da Meruoca, no Estado do Ceará, e dá outras providências (Lei nº 11.891, de 24 de dezembro de 2008) | 1 | 2008-12-26 to 2008-12-26 |
+| `lei-11898-de-2009` | Institui o Regime de Tributação Unificada - RTU na importação, por via terrestre, de mercadorias procedentes do Paraguai (Lei nº 11.898, de 8 de janeiro de 2009) | 1 | 2009-01-09 to 2009-01-09 |
+| `lei-11900-de-2009` | Altera dispositivos do Decreto-Lei n o 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para prever a possibilidade de realização de interrogatório e outros atos processuais por sistema de videoconferência,... (Lei nº 11.900, de 8 de janeiro de 2009) | 1 | 2009-01-09 to 2009-01-09 |
+| `lei-11901-de-2009` | Dispõe sobre a profissão de Bombeiro Civil e dá outras providências (Lei nº 11.901, de 12 de janeiro de 2009) | 1 | 2009-01-13 to 2009-01-13 |
+| `lei-11902-de-2009` | Acrescenta dispositivo à Lei n o 8.906, de 4 de julho de 1994, que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil-OAB (Lei nº 11.902, de 12 de janeiro de 2009) | 1 | 2009-01-13 to 2009-01-13 |
+| `lei-11903-de-2009` | Dispõe sobre o rastreamento da produção e do consumo de medicamentos por meio de tecnologia de captura, armazenamento e transmissão eletrônica de dados (Lei nº 11.903, de 14 de janeiro de 2009) | 1 | 2022-05-12 to 2022-05-12 |
+| `lei-11908-de-2009` | Autoriza o Banco do Brasil S.A. e a Caixa Econômica Federal a constituírem subsidiárias e a adquirirem participação em instituições financeiras sediadas no Brasil (Lei nº 11.908, de 3 de março de 2009) | 1 | 2022-03-30 to 2022-03-30 |
+| `lei-11910-de-2009` | Altera o art. 105 da Lei n o 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para estabelecer a obrigatoriedade de uso do equipamento suplementar de retenção - air bag (Lei nº 11.910, de 18 de março de 2009) | 1 | 2009-03-19 to 2009-03-19 |
+| `lei-11920-de-2009` | Altera o nome do Aeroporto Internacional de Boa Vista, no Estado de Roraima (Lei nº 11.920, de 9 de abril de 2009) | 1 | 2009-04-13 to 2009-04-13 |
+| `lei-11921-de-2009` | Altera a redação dos arts. 6 o e 49 da Lei n o 9.478, de 6 de agosto de 1997, e dá outras providências (Lei nº 11.921, de 13 de abril de 2009) | 1 | 2009-04-14 to 2009-04-14 |
+| `lei-11922-de-2009` | Dispõe sobre a dispensa de recolhimento de parte dos dividendos e juros sobre capital próprio pela Caixa Econômica Federal (Lei nº 11.922, de 13 de abril de 2009) | 1 | 2009-04-14 to 2009-04-14 |
+| `lei-11923-de-2009` | Acrescenta parágrafo ao art. 158 do Decreto-Lei n o 2.848, de 7 de dezembro de 1940 – Código Penal, para tipificar o chamado “sequestro relâmpago” (Lei nº 11.923, de 17 de abril de 2009) | 1 | 2009-04-17 to 2009-04-17 |
+| `lei-11924-de-2009` | Altera o art. 57 da Lei no 6.015, de 31 de dezembro de 1973, para autorizar o enteado ou a enteada a adotar o nome da família do padrasto ou da madrasta (Lei nº 11.924, de 17 de abril de 2009) | 1 | 2009-04-17 to 2009-04-17 |
+| `lei-11925-de-2009` | Dá nova redação aos arts. 830 e 895 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943 (Lei nº 11.925, de 17 de abril de 2009) | 1 | 2009-07-16 to 2009-07-16 |
+| `lei-11930-de-2009` | Institui a Semana de Mobilização Nacional para Doação de Medula Óssea (Lei nº 11.930, de 22 de abril de 2009) | 1 | 2023-01-11 to 2023-01-11 |
+| `lei-11935-de-2009` | Altera o art. 36-C da Lei n o 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde (Lei nº 11.935, de 11 de maio de 2009) | 1 | 2009-05-12 to 2009-05-12 |
+| `lei-11936-de-2009` | Proíbe a fabricação, a importação, a exportação, a manutenção em estoque, a comercialização e o uso de diclorodifeniltricloretano (DDT) e dá outras providências (Lei nº 11.936, de 14 de maio de 2009) | 1 | 2009-05-15 to 2009-05-15 |
+| `lei-11940-de-2009` | Estabelece 2009 como Ano da Educação Profissional e Tecnológica e o dia 23 de setembro como o Dia Nacional dos Profissionais de Nível Técnico (Lei nº 11.940, de 19 de maio de 2009) | 1 | 2009-05-20 to 2009-05-20 |
+| `lei-11942-de-2009` | Dá nova redação aos arts. 14, 83 e 89 da Lei n o 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para assegurar às mães presas e aos recém-nascidos condições mínimas de assistência (Lei nº 11.942, de 28 de maio de 2009) | 1 | 2009-05-29 to 2009-05-29 |
+| `lei-11946-de-2009` | Institui o ano de 2010 como Ano Nacional Joaquim Nabuco (Lei nº 11.946, de 15 de junho de 2009) | 1 | 2009-06-16 to 2009-06-16 |
+| `lei-11949-de-2009` | Dá nova redação à Lei n o 10.304, de 5 de novembro de 2001, que transfere ao domínio dos Estados de Roraima e do Amapá as terras pertencentes à União e dá outras providências (Lei nº 11.949, de 17 de junho de 2009) | 1 | 2009-06-18 to 2009-06-18 |
+| `lei-11950-de-2009` | Altera dispositivos da Lei n o 10.356, de 27 de dezembro de 2001 – Plano de Carreira do Tribunal de Contas da União e dá outras providências (Lei nº 11.950, de 17 de junho de 2009) | 1 | 2009-06-18 to 2009-06-18 |
+| `lei-11951-de-2009` | Altera o art. 36 da Lei n o 5.991, de 17 de dezembro de 1973, que dispõe sobre o controle sanitário do comércio de drogas, medicamentos, insumos farmacêuticos e correlatos, para proibir a captação de receitas... (Lei nº 11.951, de 24 de junho de 2009) | 1 | 2009-06-25 to 2009-06-25 |
+| `lei-11960-de-2009` | Altera e acresce dispositivos às Leis n os 9.639, de 25 de maio de 1998, e 11.196, de 21 de novembro de 2005, para dispor sobre parcelamento de débitos de responsabilidade dos Municípios, decorrentes de contribuições... (Lei nº 11.960, de 29 de junho de 2009) | 1 | 2009-06-30 to 2009-06-30 |
+| `lei-11961-de-2009` | Dispõe sobre a residência provisória para o estrangeiro em situação irregular no território nacional e dá outras providências (Lei nº 11.961, de 2 de julho de 2009) | 1 | 2009-07-03 to 2009-07-03 |
+| `lei-11962-de-2009` | Altera o art. 1 o da Lei n o 7.064, de 6 de dezembro de 1982, estendendo as regras desse diploma legal a todas as empresas que venham a contratar ou transferir trabalhadores para prestar serviço no exterior (Lei nº 11.962, de 3 de julho de 2009) | 1 | 2009-07-06 to 2009-07-06 |
+| `lei-11963-de-2009` | Dispõe sobre a criação de cargos de provimento efetivo e funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 5 a Região (Lei nº 11.963, de 3 de julho de 2009) | 1 | 2009-07-06 to 2009-07-06 |
+| `lei-11964-de-2009` | Altera a composição do Tribunal Regional do Trabalho da 18 a Região e dá outras providências (Lei nº 11.964, de 3 de julho de 2009) | 1 | 2009-07-06 to 2009-07-06 |
+| `lei-11965-de-2009` | Dá nova redação aos arts. 982 e 1.124-A da Lei n o 5.869, de 11 de janeiro de 1973, que institui o Código de Processo Civil (Lei nº 11.965, de 3 de julho de 2009) | 1 | 2009-07-06 to 2009-07-06 |
+| `lei-11966-de-2009` | Altera o art. 5 o do Decreto-Lei n o 201, de 27 de fevereiro de 1967, que dispõe sobre a responsabilidade dos Prefeitos e Vereadores e dá outras providências (Lei nº 11.966, de 3 de julho de 2009) | 1 | 2009-07-06 to 2009-07-06 |
+| `lei-11967-de-2009` | Dispõe sobre a estrutura organizacional e funcional do Conselho Nacional do Ministério Público e dá outras providências (Lei nº 11.967, de 6 de julho de 2009) | 1 | 2009-07-07 to 2009-07-07 |
+| `lei-11968-de-2009` | Inclui na relação descritiva do Sistema Rodoviário Federal, integrante do Anexo da Lei n o 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, a ligação rodoviária entre Redenção/PA e Marabá/PA (Lei nº 11.968, de 6 de julho de 2009) | 1 | 2009-07-07 to 2009-07-07 |
+| `lei-11969-de-2009` | Altera a redação do § 2 o do art. 40 da Lei n o 5.869, de 11 de janeiro de 1973, que institui o Código de Processo Civil (Lei nº 11.969, de 6 de julho de 2009) | 1 | 2009-07-07 to 2009-07-07 |
+| `lei-11970-de-2009` | Altera a Lei n o 9.537, de 11 de dezembro de 1997, para tornar obrigatório o uso de proteção no motor, eixo e partes móveis das embarcações (Lei nº 11.970, de 6 de julho de 2009) | 1 | 2009-08-06 to 2009-08-06 |
+| `lei-11971-de-2009` | Dispõe sobre as certidões expedidas pelos Ofícios do Registro de Distribuição e Distribuidores Judiciais (Lei nº 11.971, de 6 de julho de 2009) | 1 | 2009-07-07 to 2009-07-07 |
+| `lei-11972-de-2009` | Altera a Lei n o 9.782, de 26 de janeiro de 1999, para dispor sobre as Certificações de Boas Práticas para os produtos sujeitos ao regime de vigilância sanitária (Lei nº 11.972, de 6 de julho de 2009) | 1 | 2014-11-14 to 2014-11-14 |
+| `lei-11975-de-2009` | Dispõe sobre a validade dos bilhetes de passagem no transporte coletivo rodoviário de passageiros e dá outras providências (Lei nº 11.975, de 7 de julho de 2009) | 1 | 2009-07-08 to 2009-07-08 |
+| `lei-11976-de-2009` | Dispõe sobre a Declaração de Óbito e a realização de estatísticas de óbitos em hospitais públicos e privados (Lei nº 11.976, de 7 de julho de 2009) | 1 | 2009-07-08 to 2009-07-08 |
+| `lei-11978-de-2009` | Cria cargos de provimento efetivo e em comissão no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 18 a Região e dá outras providências (Lei nº 11.978, de 8 de julho de 2009) | 1 | 2009-07-09 to 2009-07-09 |
+| `lei-11979-de-2009` | Dispõe sobre a criação de cargos de provimento efetivo e em comissão e funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 9 a Região e dá outras providências (Lei nº 11.979, de 8 de julho de 2009) | 1 | 2009-07-09 to 2009-07-09 |
+| `lei-11982-de-2009` | Acrescenta parágrafo único ao art. 4 o da Lei n o 10.098, de 19 de dezembro de 2000, para determinar a adaptação de parte dos brinquedos e equipamentos dos parques de diversões às necessidades das pessoas com... (Lei nº 11.982, de 16 de julho de 2009) | 1 | 2009-07-17 to 2009-07-17 |
+| `lei-11983-de-2009` | Revoga o art. 60 do Decreto-Lei n o 3.688, de 3 de outubro de 1941 - Lei de Contravenções Penais (Lei nº 11.983, de 16 de julho de 2009) | 1 | 2009-07-17 to 2009-07-17 |
+| `lei-11985-de-2009` | Dispõe sobre a criação de cargos de provimento efetivo e em comissão e funções comissionadas no Tribunal Regional do Trabalho da 16 a Região, sediado em São Luís – MA, e dá outras providências (Lei nº 11.985, de 27 de julho de 2009) | 1 | 2009-07-28 to 2009-07-28 |
+| `lei-11986-de-2009` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 17 a Região (Lei nº 11.986, de 27 de julho de 2009) | 1 | 2009-07-28 to 2009-07-28 |
+| `lei-11987-de-2009` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 11 a Região - AM/RR, com sede em Manaus, Estado do Amazonas, e dá outras providências (Lei nº 11.987, de 27 de julho de 2009) | 1 | 2009-07-28 to 2009-07-28 |
+| `lei-11996-de-2009` | Autoriza o Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - INMETRO a promover a alienação de bem público (Lei nº 11.996, de 29 de julho de 2009) | 1 | 2009-07-30 to 2009-07-30 |
+| `lei-11997-de-2009` | Cria funções comissionadas e cargos de provimento efetivo no Quadro de Pessoal do Tribunal Regional do Trabalho da 2 a Região e dá outras providências (Lei nº 11.997, de 29 de julho de 2009) | 1 | 2009-07-30 to 2009-07-30 |
+| `lei-11998-de-2009` | Dispõe sobre a criação de cargos de Juiz do Trabalho Substituto, de cargos de provimento efetivo e em comissão e de funções comissionadas no Quadro de Pessoal do Tribunal Regional do Trabalho da 2 a Região (Lei nº 11.998, de 29 de julho de 2009) | 1 | 2009-07-30 to 2009-07-30 |
+| `lei-11999-de-2009` | Altera a composição do Tribunal Regional do Trabalho da 7 a Região (Lei nº 11.999, de 29 de julho de 2009) | 1 | 2009-07-30 to 2009-07-30 |
+| `lei-12000-de-2009` | Cria cargos de Juiz do Trabalho Substituto e de Analista Judiciário no Tribunal Regional do Trabalho da 15 a Região, com sede em Campinas, Estado de São Paulo, e dá outras providências (Lei nº 12.000, de 29 de julho de 2009) | 1 | 2009-07-30 to 2009-07-30 |
+| `lei-12001-de-2009` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 15 a Região, com sede em Campinas, Estado de São Paulo, e dá outras providências (Lei nº 12.001, de 29 de julho de 2009) | 1 | 2009-07-30 to 2009-07-30 |
+| `lei-12002-de-2009` | Dispõe sobre a criação de Funções Comissionadas do DNPM - FCDNPM, no Departamento Nacional de Produção Mineral - DNPM, de Cargos em Comissão do Grupo-Direção e Assessoramento Superiores - DAS e Funções Gratificadas -... (Lei nº 12.002, de 29 de julho de 2009) | 1 | 2016-10-11 to 2016-10-11 |
+| `lei-12003-de-2009` | Dispõe sobre a criação de número telefônico para uso exclusivo dos Conselhos Tutelares (Lei nº 12.003, de 29 de julho de 2009) | 1 | 2009-07-30 to 2009-07-30 |
+| `lei-12004-de-2009` | Altera a Lei n o 8.560, de 29 de dezembro de 1992, que regula a investigação de paternidade dos filhos havidos fora do casamento e dá outras providências (Lei nº 12.004, de 29 de julho de 2009) | 1 | 2009-07-30 to 2009-07-30 |
+| `lei-12005-de-2009` | Dispõe sobre a criação de 1 (um) cargo em comissão e de funções comissionadas no Quadro de Pessoal do Tribunal Regional do Trabalho da 1 a Região (Lei nº 12.005, de 29 de julho de 2009) | 1 | 2009-07-30 to 2009-07-30 |
+| `lei-12006-de-2009` | Acrescenta artigos à Lei no 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para estabelecer mecanismos para a veiculação de mensagens educativas de trânsito, nas modalidades de... (Lei nº 12.006, de 29 de julho de 2009) | 1 | 2009-07-30 to 2009-07-30 |
+| `lei-12007-de-2009` | Dispõe sobre a emissão de declaração de quitação anual de débitos pelas pessoas jurídicas prestadoras de serviços públicos ou privados (Lei nº 12.007, de 29 de julho de 2009) | 1 | 2009-07-30 to 2009-07-30 |
+| `lei-12008-de-2009` | Altera os arts. 1.211-A, 1.211-B e 1.211-C da Lei n o 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, e acrescenta o art. 69-A à Lei n o 9.784, de 29 de janeiro de 1999, que regula o processo... (Lei nº 12.008, de 29 de julho de 2009) | 1 | 2009-07-30 to 2009-07-30 |
+| `lei-12010-de-2009` | Dispõe sobre adoção (Lei nº 12.010, de 3 de agosto de 2009) | 1 | 2009-11-02 to 2009-11-02 |
+| `lei-12011-de-2009` | Dispõe sobre a criação de 230 (duzentas e trinta) Varas Federais, destinadas, precipuamente, à interiorização da Justiça Federal de primeiro grau e à implantação dos Juizados Especiais Federais no País, e dá outras... (Lei nº 12.011, de 4 de agosto de 2009) | 1 | 2009-08-05 to 2009-08-05 |
+| `lei-12012-de-2009` | Acrescenta o art. 349-A ao Decreto-Lei n o 2.848, de 7 de dezembro de 1940 - Código Penal (Lei nº 12.012, de 6 de agosto de 2009) | 1 | 2009-08-07 to 2009-08-07 |
+| `lei-12013-de-2009` | Altera o art. 12 da Lei n o 9.394, de 20 de dezembro de 1996, determinando às instituições de ensino obrigatoriedade no envio de informações escolares aos pais, conviventes ou não com seus filhos (Lei nº 12.013, de 6 de agosto de 2009) | 1 | 2009-08-07 to 2009-08-07 |
+| `lei-12014-de-2009` | Altera o art. 61 da Lei n o 9.394, de 20 de dezembro de 1996, com a finalidade de discriminar as categorias de trabalhadores que se devem considerar profissionais da educação (Lei nº 12.014, de 6 de agosto de 2009) | 1 | 2009-08-07 to 2009-08-07 |
+| `lei-12015-de-2009` | Altera o Título VI da Parte Especial do Decreto-Lei n o 2.848, de 7 de dezembro de 1940 - Código Penal, e o art. 1 o da Lei n o 8.072, de 25 de julho de 1990, que dispõe sobre os crimes hediondos, nos termos do... (Lei nº 12.015, de 7 de agosto de 2009) | 1 | 2009-08-10 to 2009-08-10 |
+| `lei-12019-de-2009` | Insere inciso III no art. 3 º da Lei n o 8.038, de 28 de maio de 1990, para prever a possibilidade de o relator de ações penais de competência originária do Superior Tribunal de Justiça e do Supremo Tribunal Federal... (Lei nº 12.019, de 21 de agosto de 2009) | 1 | 2009-08-24 to 2009-08-24 |
+| `lei-12020-de-2009` | Dá nova redação ao inciso II do caput do art. 20 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para modificar o rol de instituições de ensino comunitárias (Lei nº 12.020, de 27 de agosto de 2009) | 1 | 2009-08-28 to 2009-08-28 |
+| `lei-12021-de-2009` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal do Tribunal Regional do Trabalho da 8 a Região (Lei nº 12.021, de 27 de agosto de 2009) | 1 | 2009-08-28 to 2009-08-28 |
+| `lei-12022-de-2009` | Dispõe sobre a criação de cargos de provimento efetivo e funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 20 a Região e dá outras providências (Lei nº 12.022, de 27 de agosto de 2009) | 1 | 2009-08-28 to 2009-08-28 |
+| `lei-12023-de-2009` | Dispõe sobre as atividades de movimentação de mercadorias em geral e sobre o trabalho avulso (Lei nº 12.023, de 27 de agosto de 2009) | 1 | 2020-04-20 to 2020-04-20 |
+| `lei-12027-de-2009` | Cria cargos de juiz do trabalho substituto no Tribunal Regional do Trabalho da 2 a Região, com sede em São Paulo (Lei nº 12.027, de 9 de setembro de 2009) | 1 | 2009-09-10 to 2009-09-10 |
+| `lei-12030-de-2009` | Dispõe sobre as perícias oficiais e dá outras providências (Lei nº 12.030, de 17 de setembro de 2009) | 1 | 2009-12-17 to 2009-12-17 |
+| `lei-12031-de-2009` | Altera a Lei n o 5.700, de 1 o de setembro de 1971, para determinar a obrigatoriedade de execução semanal do Hino Nacional nos estabelecimentos de ensino fundamental (Lei nº 12.031, de 21 de setembro de 2009) | 1 | 2009-09-22 to 2009-09-22 |
+| `lei-12033-de-2009` | Altera a redação do parágrafo único do art. 145 do Decreto-Lei n o 2.848, de 7 de dezembro de 1940 - Código Penal, tornando pública condicionada a ação penal em razão da injúria que especifica (Lei nº 12.033, de 29 de setembro de 2009) | 1 | 2009-09-30 to 2009-09-30 |
+| `lei-12034-de-2009` | Altera as Leis n os 9.096, de 19 de setembro de 1995 - Lei dos Partidos Políticos, 9.504, de 30 de setembro de 1997, que estabelece normas para as eleições, e 4.737, de 15 de julho de 1965 - Código Eleitoral (Lei nº 12.034, de 29 de setembro de 2009) | 1 | 2009-09-30 to 2009-09-30 |
+| `lei-12036-de-2009` | Altera o Decreto-Lei n º 4.657, de 4 de setembro de 1942 – Lei de Introdução ao Código Civil Brasileiro, para adequá-lo à Constituição Federal em vigor (Lei nº 12.036, de 1º de outubro de 2009) | 1 | 2009-10-02 to 2009-10-02 |
+| `lei-12038-de-2009` | Altera o art. 250 da Lei nº 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente, para determinar o fechamento definitivo de hotel, pensão, motel ou congênere que reiteradamente hospede crianças e... (Lei nº 12.038, de 1º de outubro de 2009) | 1 | 2009-10-02 to 2009-10-02 |
+| `lei-12039-de-2009` | Inclui dispositivo na Lei nº 8.078, de 11 de setembro de 1990, para determinar que constem, nos documentos de cobrança de dívida encaminhados ao consumidor, o nome, o endereço e o número de inscrição no Cadastro de... (Lei nº 12.039, de 1º de outubro de 2009) | 1 | 2009-10-02 to 2009-10-02 |
+| `lei-12040-de-2009` | Altera o art. 2º da Lei nº 6.088, de 16 de julho de 1974, para incluir o Ceará na área de atuação da Codevasf, e dá outras providências (Lei nº 12.040, de 1º de outubro de 2009) | 1 | 2009-10-02 to 2009-10-02 |
+| `lei-12041-de-2009` | Dispõe sobre a revisão do subsídio de Ministro do Supremo Tribunal Federal, referido no inciso XV do art. 48 da Constituição Federal (Lei nº 12.041, de 8 de outubro de 2009) | 1 | 2009-10-09 to 2009-10-09 |
+| `lei-12042-de-2009` | Dispõe sobre a revisão do subsídio do Procurador-Geral da República, referido no inciso XI do art. 37 e no § 4 o do art. 39, c/c o § 2 o do art. 127 e a alínea c do inciso I do § 5 o do art. 128, todos da... (Lei nº 12.042, de 8 de outubro de 2009) | 1 | 2009-10-09 to 2009-10-09 |
+| `lei-12053-de-2009` | Altera os arts. 2 º , 3 º e 7 º e o Anexo IV da Lei n º 11.768, de 14 de agosto de 2008, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2009 e dá outras providências. Mensagem (Lei nº 12.053, de 9 de outubro de 2009) | 1 | 2009-10-13 to 2009-10-13 |
+| `lei-12055-de-2009` | Institui a data de 5 de junho como o Dia Nacional da Reciclagem (Lei nº 12.055, de 9 de outubro de 2009) | 1 | 2009-10-13 to 2009-10-13 |
+| `lei-12056-de-2009` | Acrescenta parágrafos ao art. 62 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional (Lei nº 12.056, de 13 de outubro de 2009) | 1 | 2009-10-14 to 2009-10-14 |
+| `lei-12058-de-2009` | Dispõe sobre a prestação de apoio financeiro pela União aos entes federados que recebem recursos do Fundo de Participação dos Municípios - FPM, no exercício de 2009, com o objetivo de superar dificuldades financeiras... (Lei nº 12.058, de 13 de outubro de 2009) | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-12060-de-2009` | Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores – DAS, destinados ao Ministério do Planejamento, Orçamento e Gestão (Lei nº 12.060, de 23 de outubro de 2009) | 1 | 2009-10-26 to 2009-10-26 |
+| `lei-12062-de-2009` | Altera a Lei no 9.875, de 25 de novembro de 1999, para dar a denominação suplementar Rodovia Ulysses Guimarães - Trecho Carlos Joffre do Amaral ao trecho que menciona da Rodovia BR-282 (Lei nº 12.062, de 27 de outubro de 2009) | 1 | 2009-10-28 to 2009-10-28 |
+| `lei-12063-de-2009` | Acrescenta à Lei n o 9.868, de 10 de novembro de 1999, o Capítulo II-A, que estabelece a disciplina processual da ação direta de inconstitucionalidade por omissão (Lei nº 12.063, de 27 de outubro de 2009) | 1 | 2009-10-28 to 2009-10-28 |
+| `lei-12064-de-2009` | Dispõe sobre a criação do Dia Nacional de Combate ao Trabalho Escravo, bem como da Semana Nacional de Combate ao Trabalho Escravo (Lei nº 12.064, de 29 de outubro de 2009) | 1 | 2009-10-30 to 2009-10-30 |
+| `lei-12083-de-2009` | Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, destinados ao Ministério do Desenvolvimento Social e Combate à Fome e à Fundação Nacional do Índio - FUNAI (Lei nº 12.083, de 29 de outubro de 2009) | 1 | 2009-10-30 to 2009-10-30 |
+| `lei-12084-de-2009` | Autoriza, em caráter excepcional, a prorrogação de contratos por tempo determinado firmados com fundamento nas alíneas “d” e “h” do inciso VI do art. 2 o da Lei n o 8.745, de 9 de dezembro de 1993, e dá outras... (Lei nº 12.084, de 30 de outubro de 2009) | 1 | 2009-11-03 to 2009-11-03 |
+| `lei-12085-de-2009` | Dispõe sobre a criação da Universidade Federal do Oeste do Pará - UFOPA, por desmembramento da Universidade Federal do Pará - UFPA e da Universidade Federal Rural da Amazônia - UFRA, e dá outras providências (Lei nº 12.085, de 5 de novembro de 2009) | 1 | 2009-11-06 to 2009-11-06 |
+| `lei-12086-de-2009` | Dispõe sobre os militares da Polícia Militar do Distrito Federal e do Corpo de Bombeiros Militar do Distrito Federal (Lei nº 12.086, de 6 de novembro de 2009) | 1 | 2026-04-28 to 2026-04-28 |
+| `lei-12089-de-2009` | Proíbe que uma mesma pessoa ocupe 2 (duas) vagas simultaneamente em instituições públicas de ensino superior (Lei nº 12.089, de 11 de novembro de 2009) | 1 | 2009-12-12 to 2009-12-12 |
+| `lei-12090-de-2009` | Altera a Lei n o 9.782, de 26 de janeiro de 1999, para dispor sobre a cooperação institucional entre a Agência Nacional de Vigilância Sanitária e instituições de ensino superior e de pesquisa mantidas pelo poder... (Lei nº 12.090, de 11 de novembro de 2009) | 1 | 2010-01-11 to 2010-01-11 |
+| `lei-12091-de-2009` | Acrescenta inciso VII ao § 2o do art. 81 da Lei no 9.610, de 19 de fevereiro de 1998, para incluir o nome dos dubladores nos créditos das obras audiovisuais (Lei nº 12.091, de 11 de novembro de 2009) | 1 | 2010-01-11 to 2010-01-11 |
+| `lei-12093-de-2009` | Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, destinados ao Ministério do Desenvolvimento, Indústria e Comércio Exterior (Lei nº 12.093, de 16 de novembro de 2009) | 1 | 2009-11-17 to 2009-11-17 |
+| `lei-12098-de-2009` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da Segunda Região, com sede em São Paulo, e dá outras providências (Lei nº 12.098, de 24 de novembro de 2009) | 1 | 2009-11-25 to 2009-11-25 |
+| `lei-12100-de-2009` | Dá nova redação aos arts. 40, 57 e 110 da Lei n o 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos e dá outras providências (Lei nº 12.100, de 27 de novembro de 2009) | 1 | 2009-11-30 to 2009-11-30 |
+| `lei-12104-de-2009` | Dispõe sobre a instituição do Dia Nacional de Luta pelos Direitos das Pessoas com Doenças Falciformes (Lei nº 12.104, de 1º de dezembro de 2009) | 1 | 2009-12-02 to 2009-12-02 |
+| `lei-12106-de-2009` | Cria, no âmbito do Conselho Nacional de Justiça, o Departamento de Monitoramento e Fiscalização do Sistema Carcerário e do Sistema de Execução de Medidas Socioeducativas e dá outras providências (Lei nº 12.106, de 7 de dezembro de 2009) | 1 | 2009-12-08 to 2009-12-08 |
+| `lei-12112-de-2009` | Altera a Lei no 8.245, de 18 de outubro de 1991, para aperfeiçoar as regras e procedimentos sobre locação de imóvel urbano (Lei nº 12.112, de 9 de dezembro de 2009) | 1 | 2010-01-24 to 2010-01-24 |
+| `lei-12113-de-2009` | Dá nova redação ao art. 4o da Lei no 8.989, de 24 de fevereiro de 1995, que dispõe sobre a isenção do Imposto sobre Produtos Industrializados - IPI, na aquisição de automóveis para utilização no transporte autônomo... (Lei nº 12.113, de 9 de dezembro de 2009) | 1 | 2009-12-10 to 2009-12-10 |
+| `lei-12117-de-2009` | Autoriza a União a doar recursos à República de Moçambique para a primeira fase de instalação de fábrica de antirretrovirais e outros medicamentos (Lei nº 12.117, de 14 de dezembro de 2009) | 1 | 2009-12-15 to 2009-12-15 |
+| `lei-12120-de-2009` | Altera os arts. 12 e 21 da Lei n o 8.429, de 2 de junho de 1992 - Lei de Improbidade Administrativa (Lei nº 12.120, de 15 de dezembro de 2009) | 1 | 2009-12-16 to 2009-12-16 |
+| `lei-12122-de-2009` | Altera o art. 275 da Lei n o 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, incluindo como sujeitas ao procedimento sumário as causas relativas à revogação de doação (Lei nº 12.122, de 15 de dezembro de 2009) | 1 | 2009-12-16 to 2009-12-16 |
+| `lei-12123-de-2009` | Dá nova redação à alínea o do inciso VII do caput do art. 27 da Lei n o 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios (Lei nº 12.123, de 15 de dezembro de 2009) | 1 | 2009-12-16 to 2009-12-16 |
+| `lei-12124-de-2009` | Dispõe sobre a instituição do dia 18 de março como data comemorativa do Dia Nacional da Imigração Judaica e dá outras providências (Lei nº 12.124, de 16 de dezembro de 2009) | 1 | 2009-12-17 to 2009-12-17 |
+| `lei-12125-de-2009` | Acrescenta parágrafo ao art. 1.050 da Lei n o 5.869, de 11 de janeiro de 1973 (Código de Processo Civil), para dispensar, nos embargos de terceiro, a citação pessoal (Lei nº 12.125, de 16 de dezembro de 2009) | 1 | 2009-12-17 to 2009-12-17 |
+| `lei-12126-de-2009` | Dá nova redação ao § 1 o do art. 8 o da Lei n o 9.099, de 26 de setembro de 1995, que dispõe sobre os Juizados Especiais Cíveis e Criminais (Lei nº 12.126, de 16 de dezembro de 2009) | 1 | 2009-12-17 to 2009-12-17 |
+| `lei-12128-de-2009` | Dispõe sobre a criação do Dia Nacional do Arqueólogo (Lei nº 12.128, de 17 de dezembro de 2009) | 1 | 2009-12-18 to 2009-12-18 |
+| `lei-12132-de-2009` | Institui o ano de 2009 como o Ano Nacional Patativa do Assaré (Lei nº 12.132, de 17 de dezembro de 2009) | 1 | 2009-12-18 to 2009-12-18 |
+| `lei-12133-de-2009` | Dá nova redação ao art. 1.526 da Lei n o 10.406, de 10 de janeiro de 2002 (Código Civil), para determinar que a habilitação para o casamento seja feita pessoalmente perante o oficial do Registro Civil (Lei nº 12.133, de 17 de dezembro de 2009) | 1 | 2010-01-17 to 2010-01-17 |
+| `lei-12134-de-2009` | Altera a Lei n o 6.815, de 19 de agosto de 1980, para instituir a reciprocidade na concessão de prazos de permanência de estrangeiros no Brasil e dá outras providências (Lei nº 12.134, de 18 de dezembro de 2009) | 1 | 2009-12-21 to 2009-12-21 |
+| `lei-12137-de-2009` | Altera o § 4 o do art. 9 o da Lei n o 9.099, de 26 de setembro de 1995, que dispõe sobre os Juizados Especiais Cíveis e Criminais e dá outras providências (Lei nº 12.137, de 18 de dezembro de 2009) | 1 | 2009-12-21 to 2009-12-21 |
+| `lei-12155-de-2009` | Dispõe sobre a concessão de Bônus Especial de Desempenho Institucional - BESP/DNIT aos servidores do Departamento Nacional de Infra-Estrutura de Transportes - DNIT (Lei nº 12.155, de 23 de dezembro de 2009) | 1 | 2009-12-23 to 2009-12-23 |
+| `lei-12156-de-2009` | Cria cargos efetivos, cargos comissionados e funções gratificadas no âmbito do Ministério da Educação (Lei nº 12.156, de 23 de dezembro de 2009) | 1 | 2009-12-24 to 2009-12-24 |
+| `lei-12157-de-2009` | Altera o art. 13 da Lei n o 5.700, de 1 o de setembro de 1971 (Lei nº 12.157, de 23 de dezembro de 2009) | 1 | 2010-02-07 to 2010-02-07 |
+| `lei-12182-de-2009` | Altera o caput do art. 3 º e o art. 78 da Lei n º 12.017, de 12 de agosto de 2009, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2010 e dá outras providências (Lei nº 12.182, de 29 de dezembro de 2009) | 1 | 2009-12-30 to 2009-12-30 |
+| `lei-12186-de-2009` | Dispõe sobre os valores das parcelas remuneratórias dos integrantes das Carreiras e do Plano Especial de Cargos do DNIT, de que trata a Lei n o 11.171, de 2 de setembro de 2005, da Carreira de Analista de... (Lei nº 12.186, de 29 de dezembro de 2009) | 1 | 2009-12-30 to 2009-12-30 |
+| `lei-12191-de-2010` | Concede anistia a policiais e bombeiros militares do Rio Grande do Norte, Bahia, Roraima, Tocantins, Pernambuco, Mato Grosso, Ceará, Santa Catarina e Distrito Federal punidos por participar de movimentos reivindicatórios (Lei nº 12.191, de 13 de janeiro de 2010) | 1 | 2010-01-14 to 2010-01-14 |
+| `lei-12192-de-2010` | Dispõe sobre o depósito legal de obras musicais na Biblioteca Nacional (Lei nº 12.192, de 14 de janeiro de 2010) | 1 | 2010-01-15 to 2010-01-15 |
+| `lei-12193-de-2010` | Designa como Dia da Inovação o dia 19 de outubro (Lei nº 12.193, de 14 de janeiro de 2010) | 1 | 2010-01-15 to 2010-01-15 |
+| `lei-12196-de-2010` | Altera a Lei no 6.088, de 16 de julho de 1974, que dispõe sobre a criação da Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF, e dá outras providências (Lei nº 12.196, de 14 de janeiro de 2010) | 1 | 2010-01-15 to 2010-01-15 |
+| `lei-12197-de-2010` | Fixa limites para o valor das anuidades devidas ao Conselho Federal e aos Conselhos Regionais de Educação Física (Lei nº 12.197, de 14 de janeiro de 2010) | 1 | 2010-01-15 to 2010-01-15 |
+| `lei-12198-de-2010` | Dispõe sobre o exercício da profissão de Repentista (Lei nº 12.198, de 14 de janeiro de 2010) | 1 | 2010-01-15 to 2010-01-15 |
+| `lei-12200-de-2010` | Cria cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS destinados ao Gabinete de Segurança Institucional e ao Ministério da Justiça (Lei nº 12.200, de 14 de janeiro de 2010) | 1 | 2010-01-15 to 2010-01-15 |
+| `lei-12201-de-2010` | Cria cargos de Analista, Inspetor e Agente Executivo no quadro de pessoal da Comissão de Valores Mobiliários (Lei nº 12.201, de 14 de janeiro de 2010) | 1 | 2010-01-15 to 2010-01-15 |
+| `lei-12202-de-2010` | Altera a Lei n o 10.260, de 12 de julho de 2001, que dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior - FIES (permite abatimento de saldo devedor do FIES aos profissionais do magistério público e... (Lei nº 12.202, de 14 de janeiro de 2010) | 1 | 2010-04-26 to 2010-04-26 |
+| `lei-12213-de-2010` | Institui o Fundo Nacional do Idoso e autoriza deduzir do imposto de renda devido pelas pessoas físicas e jurídicas as doações efetuadas aos Fundos Municipais, Estaduais e Nacional do Idoso (Lei nº 12.213, de 20 de janeiro de 2010) | 1 | 2026-01-07 to 2026-01-07 |
+| `lei-12216-de-2010` | Altera os arts. 1 o , 11, 16 e 17 e acrescenta os arts. 7 o -A e 7 o -B à Lei n o 9.519, de 26 de novembro de 1997, que dispõe sobre a reestruturação dos Corpos e Quadros de Oficiais e de Praças da Marinha (Lei nº 12.216, de 11 de março de 2010) | 1 | 2010-03-12 to 2010-03-12 |
+| `lei-12217-de-2010` | Acrescenta dispositivo ao art. 158 da Lei n o 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, para tornar obrigatória aprendizagem noturna (Lei nº 12.217, de 17 de março de 2010) | 1 | 2010-05-17 to 2010-05-17 |
+| `lei-12229-de-2010` | Dispõe sobre a criação do Monumento Natural do Arquipélago das Ilhas Cagarras (Lei nº 12.229, de 13 de abril de 2010) | 1 | 2010-04-14 to 2010-04-14 |
+| `lei-12230-de-2010` | Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores – DAS, destinados ao Ministério da Justiça (Lei nº 12.230, de 20 de abril de 2010) | 1 | 2010-04-22 to 2010-04-22 |
+| `lei-12234-de-2010` | Altera os arts. 109 e 110 do Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal (Lei nº 12.234, de 5 de maio de 2010) | 1 | 2010-05-06 to 2010-05-06 |
+| `lei-12236-de-2010` | Altera o art. 723 da Lei n o 10.406, de 10 de janeiro de 2002 - Código Civil, para adequá-lo às exigências da Lei Complementar n o 95, de 26 de fevereiro de 1998, que dispõe sobre a elaboração, a redação, a alteração... (Lei nº 12.236, de 19 de maio de 2010) | 1 | 2010-05-20 to 2010-05-20 |
+| `lei-12243-de-2010` | Altera o art. 1o da Lei no 11.320, de 6 de julho de 2006, que fixa os efetivos do Comando da Aeronáutica em tempo de paz, para criar cargos no âmbito dessa Força (Lei nº 12.243, de 24 de maio de 2010) | 1 | 2010-05-25 to 2010-05-25 |
+| `lei-12244-de-2010` | Dispõe sobre a universalização das bibliotecas nas instituições de ensino do País (Lei nº 12.244, de 24 de maio de 2010) | 1 | 2024-04-09 to 2024-04-09 |
+| `lei-12245-de-2010` | Altera o art. 83 da Lei no 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para autorizar a instalação de salas de aulas nos presídios (Lei nº 12.245, de 24 de maio de 2010) | 1 | 2010-05-25 to 2010-05-25 |
+| `lei-12246-de-2010` | Altera dispositivos da Lei no 4.886, de 9 de dezembro de 1965, que regula as atividades dos representantes comerciais autônomos, para dispor sobre fixação do valor das anuidades, taxas e emolumentos devidos pelos... (Lei nº 12.246, de 27 de maio de 2010) | 1 | 2010-05-28 to 2010-05-28 |
+| `lei-12247-de-2010` | Altera a Lei no 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação e dá outras providências, para incluir as hidrovias dos rios Teles Pires e Juruena, bem como redefinir a extensão e os pontos... (Lei nº 12.247, de 27 de maio de 2010) | 1 | 2010-05-28 to 2010-05-28 |
+| `lei-12250-de-2010` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 24 a Região e dá outras providências (Lei nº 12.250, de 11 de junho de 2010) | 1 | 2010-06-14 to 2010-06-14 |
+| `lei-12251-de-2010` | Dispõe sobre a criação de cargos de provimento efetivo e em comissão e de funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 21 a Região e dá outras providências (Lei nº 12.251, de 11 de junho de 2010) | 1 | 2010-06-14 to 2010-06-14 |
+| `lei-12252-de-2010` | Dispõe sobre a criação de cargos de provimento efetivo e em comissão e de funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 8 a Região e dá outras providências (Lei nº 12.252, de 11 de junho de 2010) | 1 | 2010-06-14 to 2010-06-14 |
+| `lei-12253-de-2010` | Dispõe sobre a criação, no quadro de pessoal do Banco Central do Brasil, de cargos de Procurador do Banco Central do Brasil, alterando a Lei n o 9.650, de 27 de maio de 1998 (Lei nº 12.253, de 11 de junho de 2010) | 1 | 2010-06-14 to 2010-06-14 |
+| `lei-12254-de-2010` | Dispõe sobre o reajuste dos benefícios mantidos pela Previdência Social em 2010 e 2011 e altera a Lei n o 8.213, de 24 de julho de 1991. Mensagem de veto (Lei nº 12.254, de 15 de junho de 2010) | 1 | 2010-06-16 to 2010-06-16 |
+| `lei-12256-de-2010` | Reestrutura a remuneração dos cargos de natureza especial, altera a tabela de fatores da Gratificação de Atividade Legislativa devida aos servidores efetivos da Câmara dos Deputados (Lei nº 12.256, de 15 de junho de 2010) | 1 | 2026-02-18 to 2026-02-18 |
+| `lei-12257-de-2010` | Concede auxílio especial e bolsa especial aos dependentes dos militares das Forças Armadas falecidos no terremoto de janeiro de 2010 na República do Haiti (Lei nº 12.257, de 15 de junho de 2010) | 1 | 2010-06-16 to 2010-06-16 |
+| `lei-12258-de-2010` | Altera o Decreto-Lei n o 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei n o 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para prever a possibilidade de utilização de equipamento de vigilância... (Lei nº 12.258, de 15 de junho de 2010) | 1 | 2010-06-16 to 2010-06-16 |
+| `lei-12259-de-2010` | Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas nos Quadros de Pessoal da Justiça Militar da União (Lei nº 12.259, de 21 de junho de 2010) | 1 | 2010-06-22 to 2010-06-22 |
+| `lei-12260-de-2010` | Reconhece a responsabilidade do Estado brasileiro pela destruição, no ano de 1964, da sede da União Nacional dos Estudantes - UNE, localizada no Município do Rio de Janeiro, e dá outras providências (Lei nº 12.260, de 21 de junho de 2010) | 1 | 2010-06-22 to 2010-06-22 |
+| `lei-12261-de-2010` | Acrescenta parágrafo único ao art. 1 o da Lei n o 11.348, de 27 de setembro de 2006, para convalidar atos praticados por servidores e efeitos financeiros decorrentes do exercício das funções comissionadas de nível... (Lei nº 12.261, de 21 de junho de 2010) | 1 | 2010-06-22 to 2010-06-22 |
+| `lei-12262-de-2010` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 3 a Região e dá outras providências (Lei nº 12.262, de 21 de junho de 2010) | 1 | 2010-06-22 to 2010-06-22 |
+| `lei-12263-de-2010` | Dispõe sobre a criação de cargos de provimento efetivo e em comissão no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 19 a Região e dá outras providências (Lei nº 12.263, de 21 de junho de 2010) | 1 | 2010-06-22 to 2010-06-22 |
+| `lei-12264-de-2010` | Altera a Relação Descritiva das Rodovias do Plano Nacional de Viação, aprovado pela Lei n o 5.917, de 10 de setembro de 1973, para inclusão de novo trecho (Lei nº 12.264, de 21 de junho de 2010) | 1 | 2010-06-22 to 2010-06-22 |
+| `lei-12265-de-2010` | Promove post mortem o diplomata Marcus Vinícius da Cruz de Mello Moraes (Lei nº 12.265, de 21 de junho de 2010) | 1 | 2010-06-22 to 2010-06-22 |
+| `lei-12269-de-2010` | Dispõe sobre o prazo para formalizar a opção para integrar o Plano de Carreiras e Cargos de Ciência, Tecnologia, Produção e Inovação em Saúde Pública, de que trata o art. 28-A da Lei n o 11.355, de 19 de outubro de 2006 (Lei nº 12.269, de 21 de junho de 2010) | 1 | 2010-06-22 to 2010-06-22 |
+| `lei-12270-de-2010` | Dispõe sobre medidas de suspensão de concessões ou outras obrigações do País relativas aos direitos de propriedade intelectual e outros, em casos de descumprimento de obrigações do Acordo Constitutivo da Organização... (Lei nº 12.270, de 24 de junho de 2010) | 1 | 2022-05-27 to 2022-05-27 |
+| `lei-12272-de-2010` | Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, destinados à Secretaria Especial de Políticas para as Mulheres (Lei nº 12.272, de 24 de junho de 2010) | 1 | 2010-06-25 to 2010-06-25 |
+| `lei-12273-de-2010` | Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 15 a Região e dá outras providências (Lei nº 12.273, de 24 de junho de 2010) | 1 | 2010-06-25 to 2010-06-25 |
+| `lei-12275-de-2010` | Altera a redação do inciso I do § 5 o do art. 897 e acresce § 7 o ao art. 899, ambos da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei n o 5.452, de 1 o de maio de 1943 (Lei nº 12.275, de 29 de junho de 2010) | 1 | 2010-08-13 to 2010-08-13 |
+| `lei-12281-de-2010` | Institui a Medalha Sérgio Vieira de Mello (Lei nº 12.281, de 5 de julho de 2010) | 1 | 2010-07-06 to 2010-07-06 |
+| `lei-12286-de-2010` | Proclama Olinda a Capital Simbólica do Brasil e dá outras providências (Lei nº 12.286, de 13 de julho de 2010) | 1 | 2010-07-14 to 2010-07-14 |
+| `lei-12287-de-2010` | Altera a Lei n o 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, no tocante ao ensino da arte (Lei nº 12.287, de 13 de julho de 2010) | 1 | 2010-07-14 to 2010-07-14 |
+| `lei-12289-de-2010` | Dispõe sobre a criação da Universidade da Integração Internacional da Lusofonia Afro-Brasileira - UNILAB e dá outras providências (Lei nº 12.289, de 20 de julho de 2010) | 1 | 2010-07-21 to 2010-07-21 |
+| `lei-12291-de-2010` | Torna obrigatória a manutenção de exemplar do Código de Defesa do Consumidor nos estabelecimentos comerciais e de prestação de serviços (Lei nº 12.291, de 20 de julho de 2010) | 1 | 2010-07-21 to 2010-07-21 |
+| `lei-12292-de-2010` | Autoriza o Poder Executivo a realizar doação para a reconstrução de Gaza (Lei nº 12.292, de 20 de julho de 2010) | 1 | 2010-07-21 to 2010-07-21 |
+| `lei-12293-de-2010` | Altera o inciso XVIII do art. 4 o da Lei n o 12.214, de 26 de janeiro de 2010, que estima a receita e fixa a despesa da União para o exercício financeiro de 2010 (Lei nº 12.293, de 20 de julho de 2010) | 1 | 2010-07-21 to 2010-07-21 |
+| `lei-12295-de-2010` | Altera o Anexo V da Lei nº 12.214, de 26 de janeiro de 2010, que estima a receita e fixa a despesa da União para o exercício financeiro de 2010 (Lei nº 12.295, de 20 de julho de 2010) | 1 | 2010-07-21 to 2010-07-21 |
+| `lei-12299-de-2010` | Dispõe sobre medidas de prevenção e repressão aos fenômenos de violência por ocasião de competições esportivas (Lei nº 12.299, de 27 de julho de 2010) | 1 | 2010-07-28 to 2010-07-28 |
+| `lei-12300-de-2010` | Altera o Plano de Carreira dos Servidores do Senado Federal, instituído pelas Resoluções do Senado Federal n os 42 e 51, de 1993, e unificado pela Resolução do Senado Federal n o 7, de 2002, convalidada pela Lei n o... (Lei nº 12.300, de 28 de julho de 2010) | 1 | 2026-02-18 to 2026-02-18 |
+| `lei-12302-de-2010` | Regulamenta o exercício da profissão de Instrutor de Trânsito (Lei nº 12.302, de 2 de agosto de 2010) | 1 | 2019-08-09 to 2019-08-09 |
+| `lei-12303-de-2010` | Dispõe sobre a obrigatoriedade de realização do exame denominado Emissões Otoacústicas Evocadas (Lei nº 12.303, de 2 de agosto de 2010) | 1 | 2010-08-03 to 2010-08-03 |
+| `lei-12304-de-2010` | Autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Administração de Petróleo e Gás Natural S.A. - Pré-Sal Petróleo S.A. (PPSA) e dá outras providências (Lei nº 12.304, de 2 de agosto de 2010) | 1 | 2025-11-25 to 2025-11-25 |
+| `lei-12306-de-2010` | Dispõe sobre a prestação de apoio financeiro pela União aos Estados e ao Distrito Federal, institui o Programa Especial de Fortalecimento do Ensino Médio, para o exercício de 2010, e dá outras providências (Lei nº 12.306, de 6 de agosto de 2010) | 1 | 2010-08-09 to 2010-08-09 |
+| `lei-12310-de-2010` | Autoriza a União a doar ao Estado de Mato Grosso as áreas de domínio federal nas Glebas denominadas Maiká, em litígio na Ação Cível Originária n o 488, que tramita no Supremo Tribunal Federal, e Cristalino/Divisa, de... (Lei nº 12.310, de 19 de agosto de 2010) | 1 | 2010-08-20 to 2010-08-20 |
+| `lei-12311-de-2010` | Autoriza a Universidade Federal de Goiás a alienar, por meio de doação, imóveis à Universidade Federal do Tocantins (Lei nº 12.311, de 19 de agosto de 2010) | 1 | 2010-08-20 to 2010-08-20 |
+| `lei-12312-de-2010` | Cria cargos de Técnico de Laboratório e de Auxiliar de Laboratório no Quadro de Pessoal do Ministério da Agricultura, Pecuária e Abastecimento (Lei nº 12.312, de 19 de agosto de 2010) | 1 | 2010-08-20 to 2010-08-20 |
+| `lei-12313-de-2010` | Altera a Lei n o 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para prever a assistência jurídica ao preso dentro do presídio e atribuir competências à Defensoria Pública (Lei nº 12.313, de 19 de agosto de 2010) | 1 | 2010-08-20 to 2010-08-20 |
+| `lei-12315-de-2010` | Transforma Funções Comissionadas Técnicas - FCT, criadas pelo art. 58 da Medida Provisória n o 2.229-43, de 6 de setembro de 2001, em cargos do Grupo-Direção e Assessoramento Superiores - DAS, em Gratificações de... (Lei nº 12.315, de 25 de agosto de 2010) | 1 | 2010-08-26 to 2010-08-26 |
+| `lei-12317-de-2010` | Acrescenta dispositivo à Lei n o 8.662, de 7 de junho de 1993, para dispor sobre a duração do trabalho do Assistente Social (Lei nº 12.317, de 26 de agosto de 2010) | 1 | 2010-08-27 to 2010-08-27 |
+| `lei-12319-de-2010` | Regulamenta a profissão de Tradutor e Intérprete da Língua Brasileira de Sinais - LIBRAS (Lei nº 12.319, de 1º de setembro de 2010) | 1 | 2023-10-26 to 2023-10-26 |
+| `lei-12320-de-2010` | Dá nova redação ao caput do art. 15 da Lei nº 7.678, de 8 de novembro de 1988, que dispõe sobre a produção, circulação e comercialização do vinho e derivados da uva e do vinho, na forma que especifica (Lei nº 12.320, de 6 de setembro de 2010) | 1 | 2010-09-08 to 2010-09-08 |
+| `lei-12321-de-2010` | Dispõe sobre a criação de cargos e funções nos Quadros de Pessoal dos ramos do Ministério Público da União (Lei nº 12.321, de 8 de setembro de 2010) | 1 | 2010-09-08 to 2010-09-08 |
+| `lei-12322-de-2010` | Transforma o agravo de instrumento interposto contra decisão que não admite recurso extraordinário ou especial em agravo nos próprios autos, alterando dispositivos da Lei n o 5.869, de 11 de janeiro de 1973 - Código... (Lei nº 12.322, de 9 de setembro de 2010) | 1 | 2010-12-09 to 2010-12-09 |
+| `lei-12323-de-2010` | Cria cargos no Quadro de Pessoal Permanente da Agência Nacional de Cinema - ANCINE, de que trata a Lei n o 10.871, de 20 de maio de 2004 (Lei nº 12.323, de 15 de setembro de 2010) | 1 | 2010-09-16 to 2010-09-16 |
 | `lei-de-concessoes` | Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995) | 12 | 1995-02-14 to 2021-04-01 |
 | `lei-das-parcerias-publico-privadas` | Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004) | 14 | 2004-12-31 to 2027-01-01 |
 | `lei-do-saneamento-basico` | Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007) | 15 | 2007-02-22 to 2025-03-18 |
@@ -2672,11 +3173,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-de-registros-publicos` | Lei de Registros Públicos (Lei nº 6.015, de 31 de dezembro de 1973) | 73 | 1976-01-01 to 2025-08-24 |
 | `lei-de-licitacoes-de-1993` | Lei de Licitações e Contratos (Lei nº 8.666, de 21 de junho de 1993) | 36 | 1993-06-22 to 2023-12-30 |
 
-The build made 5020 commits:
+The build made 5520 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2323 | first version of an act |
+| 2823 | first version of an act |
 | 2673 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -2684,7 +3185,7 @@ Other counts:
 - 10 commits on the branch `futuro`: laws not yet in force on 2026-11-03.
 - 219 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2711 laws in the record.
-- 9108 tags.
+- 9608 tags.
 
 ## Dates
 
@@ -2696,7 +3197,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8459674b3bb9091bff8fce4aa7d8b4d47b5d010ed05c82b9a6b6f668810b33dc` (66707822 bytes).
+- Corpus: sha256 `e0f0a500359f6308c95e1f1551976006cb5f77b75fe042632badc4a056136721` (70074886 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -5101,6 +5602,510 @@ No second build of this corpus has been compared yet.
 - lei-13410-de-2016: from 2016-12-29, its own clause: in force on publication
 - lei-13412-de-2016: from 2023-01-10, the in-force day of Lei 14.522/2023, the latest among the acts its notes name (its DOU day 2023-01-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.522/2023 (DOU 2023-01-10)
 - lei-13413-de-2016: from 2016-12-30, its own clause: in force on publication
+- Part 98-current-005: 500 acts with their current text only, each one version, credited to Planalto as the oldest version available (first_law null). The text is the page as Planalto prints it now, with struck wordings and the notes beside them left out; headings are kept in the titulos unit as the history parts do.
+- Each version starts on the in-force day of the last change the text itself shows: the latest in-force day among the acts its notes name as changing it (Redação dada, Incluído, Revogado, Acrescido, Renumerado, Suprimido), each by the rule the history parts use: the act's own vigência clause, else LINDB art. 1 (publication + 45 days), and a Medida Provisória from its publication (CF art. 62). Where an act's clause was not read, its DOU day (from Planalto's index pages or the corpus's law records) is used and the act's line below names it. An act with no such note starts on its own in-force day by the same rule. Acts whose notes name decrees, rulings, Emendas, a staged in-force clause or the 2025-2026 tax reform (Leis Complementares 214/2025 and 227/2026) are left for their histories.
+- An act revoked as a whole (the revoking act named at the head of its page) has the text as last in force, then a second version that empties it, credited to the revoking act and dated by that act's in-force day by the same rule; its line below names it.
+- Earlier wordings are not shown here; their histories are built afterwards, appended behind these versions.
+- lei-complementar-119-de-2005: from 2005-10-20, its own clause: in force on publication
+- lei-complementar-122-de-2006: from 2006-12-13, its own clause: in force on publication
+- lei-complementar-125-de-2007: from 2021-10-07, the in-force day of Lei Complementar 185/2021, the latest among the acts its notes name (its DOU day 2021-10-07: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei Complementar 185/2021 (DOU 2021-10-07)
+- lei-complementar-129-de-2009: from 2026-06-17, the in-force day of Lei Complementar 231/2026, the latest among the acts its notes name (its DOU day 2026-06-17: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.682/2018 (DOU 2018-06-20), Lei Complementar 231/2026 (DOU 2026-06-17)
+- lei-complementar-131-de-2009: from 2009-05-28, its own clause: in force on publication
+- lei-complementar-132-de-2009: from 2009-10-08, its own clause: in force on publication
+- lei-complementar-136-de-2010: from 2010-08-26, its own clause: in force on publication
+- lei-complementar-137-de-2010: from 2026-09-30, the in-force day of Lei 15.526/2026, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2026-09-30))
+- lei-10971-de-2004: from 2025-06-03, the in-force day of Lei 15.141/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-06-03)); in-force day not read, so its DOU day is used, for: Lei 14.673/2023 (DOU 2023-09-15)
+- lei-10972-de-2004: from 2004-12-03, its own clause: in force on publication
+- lei-10992-de-2004: from 2004-12-15, its own clause: in force on publication
+- lei-10994-de-2004: from 2004-12-15, its own clause: in force on publication
+- lei-10997-de-2004: from 2009-12-23, the in-force day of Lei 12.155/2009, the latest among the acts its notes name (its DOU day 2009-12-23: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.155/2009 (DOU 2009-12-23)
+- lei-10998-de-2004: from 2004-12-16, its own clause: in force on publication
+- lei-10999-de-2004: from 2004-12-16, its own clause: in force on publication
+- lei-11000-de-2004: from 2004-12-16, its own clause: in force on publication
+- lei-11003-de-2004: from 2004-12-17, its own clause: in force on publication
+- lei-11011-de-2004: from 2004-12-21, its own clause: in force on publication
+- lei-11012-de-2004: from 2004-12-21, its own clause: in force on publication
+- lei-11013-de-2004: from 2004-12-21, its own clause: in force on publication
+- lei-11014-de-2004: from 2004-12-21, its own clause: in force on publication
+- lei-11015-de-2004: from 2004-12-21, its own clause: in force on publication
+- lei-11016-de-2004: from 2004-12-21, its own clause: in force on publication
+- lei-11017-de-2004: from 2004-12-21, its own clause: in force on publication
+- lei-11029-de-2004: from 2004-12-22, its own clause: in force on publication
+- lei-11030-de-2004: from 2004-12-21, its own clause: in force on publication
+- lei-11034-de-2004: from 2006-10-20, the in-force day of Lei 11.355/2006, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2006-10-20))
+- lei-11035-de-2004: from 2004-12-23, its own clause: in force on publication
+- lei-11036-de-2004: from 2006-09-11, the in-force day of Lei 11.344/2006, the latest among the acts its notes name (its DOU day 2006-09-11: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.344/2006 (DOU 2006-09-11)
+- lei-11043-de-2004: from 2004-12-24, its own clause: in force on publication
+- lei-11044-de-2004: from 2004-12-24, its own clause: in force on publication
+- lei-11045-de-2004: from 2004-12-24, its own clause: in force on publication
+- lei-11052-de-2004: from 1992-12-24, the in-force day of Lei 8.541/1992, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1992-12-24))
+- lei-11057-de-2004: from 2004-12-30, its own clause: in force on publication
+- lei-11064-de-2004: from 2004-12-30, its own clause: in force on publication
+- lei-11065-de-2004: from 2004-12-30, its own clause: in force on publication
+- lei-11066-de-2004: from 2004-12-30, its own clause: in force on publication
+- lei-11067-de-2004: from 2004-12-30, its own clause: in force on publication
+- lei-11068-de-2004: from 2004-12-30, its own clause: in force on publication
+- lei-11070-de-2004: from 2004-12-30, its own clause: in force on publication
+- lei-11071-de-2004: from 2004-12-30, its own clause: in force on publication
+- lei-11075-de-2004: from 2004-12-31, its own clause: in force on publication
+- lei-11077-de-2004: from 2004-12-31, its own clause: in force on publication
+- lei-11086-de-2004: from 2004-12-31, its own clause: in force on publication
+- lei-11092-de-2005: from 2005-01-13, its own clause: in force on publication
+- lei-11094-de-2005: from 2010-06-22, the in-force day of Lei 12.269/2010, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2010-06-22)); in-force day not read, so its DOU day is used, for: Lei 11.344/2006 (DOU 2006-09-11), Lei 11.890/2008 (DOU 2008-12-26)
+- lei-11097-de-2005: from 2014-09-25, the in-force day of Lei 13.033/2014, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2014-09-25)); in-force day not read, so its DOU day is used, for: Lei 11.116/2005 (DOU 2005-05-19)
+- lei-11098-de-2005: from 2007-07-12, the in-force day of Lei 11.501/2007, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2007-07-12))
+- lei-11099-de-2005: from 2005-01-17, its own clause: in force on publication
+- lei-11102-de-2005: from 2005-03-09, its own clause: in force on publication
+- lei-11106-de-2005: from 2005-03-29, its own clause: in force on publication
+- lei-11108-de-2005: from 2005-04-08, its own clause: in force on publication
+- lei-11112-de-2005: from 2005-06-30, no in-force clause of its own: LINDB art. 1, its DOU day (2005-05-16) + 45 days
+- lei-11113-de-2005: from 2005-06-30, no in-force clause of its own: LINDB art. 1, its DOU day (2005-05-16) + 45 days
+- lei-11116-de-2005: from 2005-05-19, its own clause: in force on publication
+- lei-11118-de-2005: from 2004-06-18, the in-force day of Lei 10.884/2004, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2004-06-18))
+- lei-11123-de-2005: from 2005-06-08, its own clause: in force on publication
+- lei-11125-de-2005: from 2005-06-21, its own clause: in force on publication
+- lei-11127-de-2005: from 2005-06-29, its own clause: in force on publication
+- lei-11129-de-2005: from 2011-10-27, the in-force day of Lei 12.513/2011, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2011-10-27))
+- lei-11131-de-2005: from 2005-07-04, its own clause: in force on publication
+- lei-11132-de-2005: from 2005-07-05, its own clause: in force on publication
+- lei-11134-de-2005: from 2026-04-28, the in-force day of Lei 15.395/2026, the latest among the acts its notes name (its DOU day 2026-04-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.361/2006 (DOU 2006-10-20), Lei 11.663/2008 (DOU 2008-04-25), Lei 12.086/2009 (DOU 2009-11-09), Lei 12.804/2013 (DOU 2013-04-25), Lei 13.690/2018 (DOU 2018-07-11), Lei 14.059/2020 (DOU 2020-09-23), Lei 15.395/2026 (DOU 2026-04-28)
+- lei-11137-de-2005: from 2005-07-25, its own clause: in force on publication
+- lei-11138-de-2005: from 2005-07-25, its own clause: in force on publication
+- lei-11143-de-2005: from 2005-07-27, its own clause: in force on publication
+- lei-11144-de-2005: from 2005-07-27, its own clause: in force on publication
+- lei-11145-de-2005: from 2015-03-26, the in-force day of Lei 13.110/2015, the latest among the acts its notes name (its DOU day 2015-03-26: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.110/2015 (DOU 2015-03-26)
+- lei-11146-de-2005: from 2005-07-27, its own clause: in force on publication
+- lei-11147-de-2005: from 2005-07-27, its own clause: in force on publication
+- lei-11160-de-2005: from 2005-08-03, its own clause: in force on publication
+- lei-11168-de-2005: from 2005-09-02, its own clause: in force on publication
+- lei-11169-de-2005: from 2005-09-03, its own clause: in force on publication
+- lei-11170-de-2005: from 2005-09-03, its own clause: in force on publication
+- lei-11173-de-2005: from 2005-09-08, its own clause: in force on publication
+- lei-11174-de-2005: from 2005-09-08, its own clause: in force on publication
+- lei-11179-de-2005: from 2005-09-23, its own clause: in force on publication
+- lei-11180-de-2005: from 2011-06-27, the in-force day of Lei 12.431/2011, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2011-06-27))
+- lei-11183-de-2005: from 2005-10-06, its own clause: in force on publication
+- lei-11184-de-2005: from 2005-10-10, its own clause: in force on publication
+- lei-11185-de-2005: from 2005-10-10, its own clause: in force on publication
+- lei-11186-de-2005: from 2005-10-20, its own clause: in force on publication
+- lei-11187-de-2005: from 2006-01-18, its own clause: 90 days after its DOU day
+- lei-11190-de-2005: from 2005-11-04, its own clause: in force on publication
+- lei-11191-de-2005: from 2005-11-11, its own clause: in force on publication
+- lei-11194-de-2005: from 2005-11-18, its own clause: in force on publication
+- lei-11195-de-2005: from 2005-11-18, its own clause: in force on publication
+- lei-11197-de-2005: from 2005-11-25, its own clause: in force on publication
+- lei-11202-de-2005: from 2005-11-30, its own clause: in force on publication
+- lei-11204-de-2005: from 2008-07-24, the in-force day of Lei 11.754/2008, the latest among the acts its notes name (its DOU day 2008-07-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.754/2008 (DOU 2008-07-24)
+- lei-11211-de-2005: from 2005-12-20, its own clause: in force on publication
+- lei-11234-de-2005: from 2005-12-23, its own clause: in force on publication
+- lei-11250-de-2005: from 2024-06-04, the in-force day of Medida Provisória 1.227/2024, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-11254-de-2005: from 2005-12-28, its own clause: in force on publication
+- lei-11255-de-2005: from 2005-12-28, its own clause: in force on publication
+- lei-11257-de-2005: from 2005-12-28, its own clause: in force on publication
+- lei-11258-de-2005: from 2006-01-02, its own clause: in force on publication
+- lei-11259-de-2005: from 2006-01-02, its own clause: in force on publication
+- lei-11260-de-2005: from 2006-01-02, its own clause: in force on publication
+- lei-11262-de-2005: from 2006-01-02, its own clause: in force on publication
+- lei-11263-de-2006: from 2006-01-03, its own clause: in force on publication
+- lei-11265-de-2006: from 2007-05-16, the in-force day of Lei 11.474/2007, the latest among the acts its notes name (its DOU day 2007-05-16: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.474/2007 (DOU 2007-05-16)
+- lei-11268-de-2006: from 2006-01-20, its own clause: in force on publication
+- lei-11274-de-2006: from 2006-02-07, its own clause: in force on publication
+- lei-11275-de-2006: from 2006-02-08, its own clause: in force on publication
+- lei-11276-de-2006: from 2006-05-09, its own clause: 90 days after its DOU day
+- lei-11277-de-2006: from 2006-05-09, its own clause: 90 days after its DOU day
+- lei-11278-de-2006: from 2006-02-08, its own clause: in force on publication
+- lei-11279-de-2006: from 2022-01-05, the in-force day of Lei 14.296/2022, the latest among the acts its notes name (its DOU day 2022-01-05: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.704/2012 (DOU 2012-08-09), Lei 14.296/2022 (DOU 2022-01-05)
+- lei-11280-de-2006: from 2006-05-18, its own clause: 90 days after its DOU day
+- lei-11282-de-2006: from 2006-02-24, its own clause: in force on publication
+- lei-11285-de-2006: from 2006-03-09, its own clause: in force on publication
+- lei-11289-de-2006: from 2006-03-31, its own clause: in force on publication
+- lei-11291-de-2006: from 2006-06-11, no in-force clause of its own: LINDB art. 1, its DOU day (2006-04-27) + 45 days
+- lei-11295-de-2006: from 2006-05-10, its own clause: in force on publication
+- lei-11297-de-2006: from 2008-09-18, the in-force day of Lei 11.772/2008, the latest among the acts its notes name (its DOU day 2008-09-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.772/2008 (DOU 2008-09-18)
+- lei-11300-de-2006: from 2006-05-11, its own clause: in force on publication
+- lei-11301-de-2006: from 2006-05-11, its own clause: in force on publication
+- lei-11302-de-2006: from 2007-07-12, the in-force day of Lei 11.501/2007, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2007-07-12))
+- lei-11304-de-2006: from 2006-05-12, its own clause: in force on publication
+- lei-11311-de-2006: from 2007-05-31, the in-force day of Lei 11.482/2007, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2007-05-31))
+- lei-11313-de-2006: from 2006-06-29, its own clause: in force on publication
+- lei-11319-de-2006: from 2012-08-08, the in-force day of Lei 12.702/2012, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2012-08-08))
+- lei-11320-de-2006: from 2010-05-25, the in-force day of Lei 12.243/2010, the latest among the acts its notes name (its DOU day 2010-05-25: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.243/2010 (DOU 2010-05-25)
+- lei-11322-de-2006: from 2009-10-14, the in-force day of Lei 12.058/2009, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2009-10-14)); in-force day not read, so its DOU day is used, for: Lei 11.420/2006 (DOU 2006-12-21), Lei 11.922/2009 (DOU 2009-04-14)
+- lei-11323-de-2006: from 2006-07-20, its own clause: in force on publication
+- lei-11328-de-2006: from 2006-07-25, its own clause: in force on publication
+- lei-11329-de-2006: from 2006-07-26, its own clause: in force on publication
+- lei-11330-de-2006: from 2006-07-26, its own clause: in force on publication
+- lei-11331-de-2006: from 2006-07-26, its own clause: in force on publication
+- lei-11332-de-2006: from 2006-07-26, its own clause: in force on publication
+- lei-11334-de-2006: from 2006-07-26, its own clause: in force on publication
+- lei-11335-de-2006: from 2026-02-18, the in-force day of Lei 15.349/2026, the latest among the acts its notes name (its DOU day 2026-02-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.777/2012 (DOU 2012-12-31), Lei 15.349/2026 (DOU 2026-02-18)
+- lei-11336-de-2006: from 2006-07-26, its own clause: in force on publication
+- lei-11337-de-2006: from 2009-12-16, the in-force day of Lei 12.119/2009, the latest among the acts its notes name (its DOU day 2009-12-16: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.119/2009 (DOU 2009-12-16)
+- lei-11341-de-2006: from 2006-08-08, its own clause: in force on publication
+- lei-11342-de-2006: from 2006-08-21, its own clause: in force on publication
+- lei-11348-de-2006: from 2010-06-22, the in-force day of Lei 12.261/2010, the latest among the acts its notes name (its DOU day 2010-06-22: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.261/2010 (DOU 2010-06-22)
+- lei-11349-de-2006: from 2006-09-28, its own clause: in force on publication
+- lei-11352-de-2006: from 2006-10-13, its own clause: in force on publication
+- lei-11354-de-2006: from 2007-10-25, the in-force day of Lei 11.531/2007, the latest among the acts its notes name (its DOU day 2007-10-25: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.531/2007 (DOU 2007-10-25)
+- lei-11361-de-2006: from 2026-04-28, the in-force day of Lei 15.395/2026, the latest among the acts its notes name (its DOU day 2026-04-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.395/2026 (DOU 2026-04-28)
+- lei-11364-de-2006: from 2007-12-20, the in-force day of Lei 11.618/2007, the latest among the acts its notes name (its DOU day 2007-12-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.618/2007 (DOU 2007-12-20)
+- lei-11368-de-2006: from 2007-08-23, the in-force day of Medida Provisória 385/2007, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-11372-de-2006: from 2009-07-07, the in-force day of Lei 11.967/2009, the latest among the acts its notes name (its DOU day 2009-07-07: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.967/2009 (DOU 2009-07-07)
+- lei-11375-de-2006: from 2006-12-04, its own clause: in force on publication
+- lei-11380-de-2006: from 2006-12-04, its own clause: in force on publication
+- lei-11381-de-2006: from 2006-12-04, its own clause: in force on publication
+- lei-11382-de-2006: from 2007-01-21, no in-force clause of its own: LINDB art. 1, its DOU day (2006-12-07) + 45 days
+- lei-11383-de-2006: from 2006-12-12, its own clause: in force on publication
+- lei-11384-de-2006: from 2006-12-12, its own clause: in force on publication
+- lei-11387-de-2006: from 2006-12-15, its own clause: in force on publication
+- lei-11416-de-2006: from 2025-12-22, the in-force day of Lei 15.292/2025, the latest among the acts its notes name (its DOU day 2025-12-22: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.944/2004 (DOU 2004-09-17), Lei 12.774/2012 (DOU 2012-12-31), Lei 13.317/2016 (DOU 2016-07-21), Lei 14.456/2022 (DOU 2022-09-22), Lei 14.523/2023 (DOU 2023-01-10), Lei 14.687/2023 (DOU 2023-09-21), Lei 15.285/2025 (DOU 2025-12-19), Lei 15.292/2025 (DOU 2025-12-22)
+- lei-11418-de-2006: from 2007-02-18, its own clause: 60 days after its DOU day
+- lei-11420-de-2006: from 2006-12-21, its own clause: in force on publication
+- lei-11421-de-2006: from 2012-08-08, the in-force day of Lei 12.702/2012, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2012-08-08))
+- lei-11422-de-2006: from 2006-12-22, its own clause: in force on publication
+- lei-11423-de-2006: from 2006-12-22, its own clause: in force on publication
+- lei-11430-de-2006: from 2006-12-27, its own clause: in force on publication
+- lei-11433-de-2006: from 2006-12-29, its own clause: in force on publication
+- lei-11434-de-2006: from 2022-01-07, the in-force day of Lei 14.301/2022, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2022-01-07))
+- lei-11435-de-2006: from 2006-12-29, its own clause: in force on publication
+- lei-11436-de-2006: from 2006-12-29, its own clause: in force on publication
+- lei-11437-de-2006: from 2011-09-13, the in-force day of Lei 12.485/2011, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2011-09-13))
+- lei-11440-de-2006: from 2019-06-18, the in-force day of Lei 13.844/2019, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2019-06-18))
+- lei-11441-de-2007: from 2007-01-05, its own clause: in force on publication
+- lei-11443-de-2007: from 2007-01-08, its own clause: in force on publication
+- lei-11446-de-2007: from 2007-01-08, its own clause: in force on publication
+- lei-11448-de-2007: from 2007-01-16, its own clause: in force on publication
+- lei-11449-de-2007: from 2007-01-16, its own clause: in force on publication
+- lei-11450-de-2007: from 2006-07-06, the in-force day of Lei 11.318/2006, the latest among the acts its notes name (its DOU day 2006-07-06: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.318/2006 (DOU 2006-07-06)
+- lei-11460-de-2007: from 2007-03-22, its own clause: in force on publication
+- lei-11462-de-2007: from 2007-03-29, its own clause: in force on publication
+- lei-11464-de-2007: from 2007-03-29, its own clause: in force on publication
+- lei-11465-de-2007: from 2007-03-29, its own clause: in force on publication
+- lei-11466-de-2007: from 2007-03-29, its own clause: in force on publication
+- lei-11472-de-2007: from 2007-05-03, its own clause: in force on publication
+- lei-11474-de-2007: from 2007-05-16, its own clause: in force on publication
+- lei-11475-de-2007: from 2007-05-30, its own clause: in force on publication
+- lei-11476-de-2007: from 2012-09-27, the in-force day of Lei 12.719/2012, the latest among the acts its notes name (its DOU day 2012-09-27: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.719/2012 (DOU 2012-09-27)
+- lei-11477-de-2007: from 2007-05-30, its own clause: in force on publication
+- lei-11480-de-2007: from 2007-05-31, its own clause: in force on publication
+- lei-11485-de-2007: from 2007-06-14, its own clause: in force on publication
+- lei-11486-de-2007: from 2007-06-15, its own clause: in force on publication
+- lei-11487-de-2007: from 2007-06-15, its own clause: in force on publication
+- lei-11490-de-2007: from 2025-06-03, the in-force day of Lei 15.141/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-06-03))
+- lei-11492-de-2007: from 2007-06-21, its own clause: in force on publication
+- lei-11493-de-2007: from 2007-06-21, its own clause: in force on publication
+- lei-11495-de-2007: from 2007-09-23, its own clause: 90 days after its DOU day
+- lei-11496-de-2007: from 2007-09-23, its own clause: 90 days after its DOU day
+- lei-11497-de-2007: from 2007-06-29, its own clause: in force on publication
+- lei-11499-de-2007: from 2007-06-29, its own clause: in force on publication
+- lei-11502-de-2007: from 2007-07-12, its own clause: in force on publication
+- lei-11505-de-2007: from 2007-07-19, its own clause: in force on publication
+- lei-11506-de-2007: from 2007-07-20, its own clause: in force on publication
+- lei-11509-de-2007: from 2007-07-23, its own clause: in force on publication
+- lei-11512-de-2007: from 2007-09-23, no in-force clause of its own: LINDB art. 1, its DOU day (2007-08-09) + 45 days
+- lei-11515-de-2007: from 2007-08-28, its own clause: in force on publication
+- lei-11521-de-2007: from 2007-12-18, its own clause: 90 days after its DOU day
+- lei-11522-de-2007: from 2007-09-19, its own clause: in force on publication
+- lei-11523-de-2007: from 2007-09-19, its own clause: in force on publication
+- lei-11524-de-2007: from 2012-09-24, the in-force day of Lei 12.716/2012, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2012-09-24))
+- lei-11525-de-2007: from 2007-09-26, its own clause: in force on publication
+- lei-11531-de-2007: from 2007-10-25, its own clause: in force on publication
+- lei-11533-de-2007: from 2007-10-26, its own clause: in force on publication
+- lei-11534-de-2007: from 2007-10-26, its own clause: in force on publication
+- lei-11543-de-2007: from 2007-11-14, its own clause: in force on publication
+- lei-11550-de-2007: from 2007-11-20, its own clause: in force on publication
+- lei-11551-de-2007: from 2007-11-20, its own clause: in force on publication
+- lei-11552-de-2007: from 2010-04-26, the in-force day of Medida Provisória 487/2010, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-11579-de-2007: from 2007-11-28, its own clause: in force on publication
+- lei-11580-de-2007: from 2007-11-28, its own clause: in force on publication
+- lei-11583-de-2007: from 2007-11-29, its own clause: in force on publication
+- lei-11596-de-2007: from 2007-11-30, its own clause: in force on publication
+- lei-11597-de-2007: from 2025-10-29, the in-force day of Lei 15.242/2025, the latest among the acts its notes name (its DOU day 2025-10-29: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.229/2015 (DOU 2015-12-29), Lei 13.433/2017 (DOU 2017-04-13), Lei 14.984/2024 (DOU 2024-09-25), Lei 15.242/2025 (DOU 2025-10-29)
+- lei-11603-de-2007: from 2007-12-06, its own clause: in force on publication
+- lei-11604-de-2007: from 2007-12-06, its own clause: in force on publication
+- lei-11612-de-2007: from 2007-12-18, its own clause: in force on publication
+- lei-11617-de-2007: from 2007-12-20, its own clause: in force on publication
+- lei-11618-de-2007: from 2007-12-20, its own clause: in force on publication
+- lei-11629-de-2007: from 2007-12-27, its own clause: in force on publication
+- lei-11631-de-2007: from 2007-12-28, its own clause: in force on publication
+- lei-11632-de-2007: from 2007-12-28, its own clause: in force on publication
+- lei-11633-de-2007: from 2007-12-28, its own clause: in force on publication
+- lei-11634-de-2007: from 2007-12-28, its own clause: in force on publication
+- lei-11637-de-2007: from 2007-12-28, its own clause: in force on publication
+- lei-11639-de-2008: from 2008-01-09, its own clause: in force on publication
+- lei-11640-de-2008: from 2008-01-14, its own clause: in force on publication
+- lei-11641-de-2008: from 2008-01-14, its own clause: in force on publication
+- lei-11642-de-2008: from 2008-01-14, its own clause: in force on publication
+- lei-11643-de-2008: from 2008-03-11, its own clause: in force on publication
+- lei-11644-de-2008: from 2008-03-11, its own clause: in force on publication
+- lei-11645-de-2008: from 2008-03-11, its own clause: in force on publication
+- lei-11646-de-2008: from 2001-09-10, the in-force day of Medida Provisória 2.228-1/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-11648-de-2008: from 2008-03-31, its own clause: in force on publication
+- lei-11652-de-2008: from 2017-03-02, the in-force day of Lei 13.417/2017, the latest among the acts its notes name (its DOU day 2017-03-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.417/2017 (DOU 2017-03-02)
+- lei-11653-de-2008: from 2008-04-08, its own clause: in force on publication
+- lei-11661-de-2008: from 2008-04-25, its own clause: in force on publication
+- lei-11663-de-2008: from 2008-05-09, the in-force day of Medida Provisória 426/2008, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-11664-de-2008: from 2025-12-19, the in-force day of Lei 15.284/2025, the latest among the acts its notes name (its DOU day 2025-12-19: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.362/2016 (DOU 2016-11-24), Lei 13.522/2017 (DOU 2017-11-28), Lei 13.980/2020 (DOU 2020-03-12), Lei 14.335/2022 (DOU 2022-05-11), Lei 15.284/2025 (DOU 2025-12-19)
+- lei-11665-de-2008: from 2008-04-30, its own clause: in force on publication
+- lei-11668-de-2008: from 2011-04-08, the in-force day of Lei 12.400/2011, the latest among the acts its notes name (its DOU day 2011-04-08: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.400/2011 (DOU 2011-04-08)
+- lei-11675-de-2008: from 2008-05-20, its own clause: in force on publication
+- lei-11679-de-2008: from 2008-05-28, its own clause: in force on publication
+- lei-11681-de-2008: from 2008-05-28, its own clause: in force on publication
+- lei-11682-de-2008: from 2008-05-28, its own clause: in force on publication
+- lei-11683-de-2008: from 2008-05-28, its own clause: in force on publication
+- lei-11684-de-2008: from 2008-06-03, its own clause: in force on publication
+- lei-11685-de-2008: from 2008-06-03, its own clause: in force on publication
+- lei-11686-de-2008: from 2008-06-03, its own clause: in force on publication
+- lei-11687-de-2008: from 2008-06-03, its own clause: in force on publication
+- lei-11688-de-2008: from 2008-06-05, its own clause: in force on publication
+- lei-11689-de-2008: from 2008-08-09, its own clause: 60 days after its DOU day
+- lei-11690-de-2008: from 2008-08-09, its own clause: 60 days after its DOU day
+- lei-11692-de-2008: from 2008-06-11, its own clause: in force on publication
+- lei-11693-de-2008: from 2008-06-12, its own clause: in force on publication
+- lei-11694-de-2008: from 2008-06-13, its own clause: in force on publication
+- lei-11698-de-2008: from 2008-08-15, its own clause: 60 days after its DOU day
+- lei-11699-de-2008: from 2022-09-05, the in-force day of Lei 14.441/2022, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2022-09-05))
+- lei-11701-de-2008: from 2008-06-19, its own clause: in force on publication
+- lei-11705-de-2008: from 2008-06-20, its own clause: in force on publication
+- lei-11706-de-2008: from 2008-06-20, its own clause: in force on publication
+- lei-11716-de-2008: from 2008-06-23, its own clause: in force on publication
+- lei-11717-de-2008: from 2008-06-23, its own clause: in force on publication
+- lei-11719-de-2008: from 2008-08-22, its own clause: 60 days after its DOU day
+- lei-11722-de-2008: from 2008-06-24, its own clause: in force on publication
+- lei-11726-de-2008: from 2008-06-24, its own clause: in force on publication
+- lei-11729-de-2008: from 2008-06-25, its own clause: in force on publication
+- lei-11731-de-2008: from 2008-06-25, its own clause: in force on publication
+- lei-11732-de-2008: from 2009-05-28, the in-force day of Lei 11.941/2009, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2009-05-28))
+- lei-11733-de-2008: from 2008-07-02, its own clause: in force on publication
+- lei-11737-de-2008: from 2008-07-15, its own clause: in force on publication
+- lei-11739-de-2008: from 2008-07-17, its own clause: in force on publication
+- lei-11740-de-2008: from 2008-12-30, the in-force day of Lei 11.892/2008, the latest among the acts its notes name (its DOU day 2008-12-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.892/2008 (DOU 2008-12-30)
+- lei-11741-de-2008: from 2008-07-17, its own clause: in force on publication
+- lei-11744-de-2008: from 2008-07-22, its own clause: in force on publication
+- lei-11753-de-2008: from 2008-07-23, its own clause: in force on publication
+- lei-11754-de-2008: from 2008-07-24, its own clause: in force on publication
+- lei-11756-de-2008: from 2008-07-24, its own clause: in force on publication
+- lei-11758-de-2008: from 2008-07-29, its own clause: in force on publication
+- lei-11759-de-2008: from 2012-09-17, the in-force day of Medida Provisória 580/2012, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-11765-de-2008: from 2008-08-06, its own clause: in force on publication
+- lei-11767-de-2008: from 2008-08-08, its own clause: in force on publication
+- lei-11769-de-2008: from 2008-08-19, its own clause: in force on publication
+- lei-11772-de-2008: from 2012-12-20, the in-force day of Lei 12.743/2012, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2012-12-20))
+- lei-11777-de-2008: from 2008-09-18, its own clause: in force on publication
+- lei-11778-de-2008: from 2008-09-18, its own clause: in force on publication
+- lei-11779-de-2008: from 2008-09-18, its own clause: in force on publication
+- lei-11780-de-2008: from 2008-09-18, its own clause: in force on publication
+- lei-11781-de-2008: from 2008-09-18, its own clause: in force on publication
+- lei-11782-de-2008: from 2008-09-18, its own clause: in force on publication
+- lei-11783-de-2008: from 2008-09-18, its own clause: in force on publication
+- lei-11785-de-2008: from 2008-09-23, its own clause: in force on publication
+- lei-11786-de-2008: from 2009-10-14, the in-force day of Lei 12.058/2009, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2009-10-14))
+- lei-11787-de-2008: from 2008-09-26, its own clause: in force on publication
+- lei-11789-de-2008: from 2008-10-03, its own clause: in force on publication
+- lei-11790-de-2008: from 2008-10-03, its own clause: in force on publication
+- lei-11793-de-2008: from 2008-10-07, its own clause: in force on publication
+- lei-11798-de-2008: from 2021-10-21, the in-force day of Lei 14.226/2021, the latest among the acts its notes name (its DOU day 2021-10-21: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.788/2018 (DOU 2018-12-28), Lei 14.226/2021 (DOU 2021-10-21)
+- lei-11799-de-2008: from 2008-10-30, its own clause: in force on publication
+- lei-11800-de-2008: from 2008-10-30, its own clause: in force on publication
+- lei-11801-de-2008: from 2008-11-05, its own clause: in force on publication
+- lei-11802-de-2008: from 2008-11-05, its own clause: in force on publication
+- lei-11805-de-2008: from 2009-05-29, the in-force day of Lei 11.943/2009, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2009-05-29))
+- lei-11827-de-2008: from 2008-11-21, its own clause: in force on publication
+- lei-11828-de-2008: from 2013-05-16, the in-force day of Lei 12.810/2013, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2013-05-16))
+- lei-11829-de-2008: from 2008-11-26, its own clause: in force on publication
+- lei-11830-de-2008: from 2008-11-28, its own clause: in force on publication
+- lei-11862-de-2008: from 2008-12-16, its own clause: in force on publication
+- lei-11877-de-2008: from 2008-12-22, its own clause: in force on publication
+- lei-11879-de-2008: from 2008-12-22, its own clause: in force on publication
+- lei-11880-de-2008: from 2008-12-22, its own clause: in force on publication
+- lei-11882-de-2008: from 2009-10-14, the in-force day of Lei 12.058/2009, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2009-10-14))
+- lei-11883-de-2008: from 2008-12-24, its own clause: in force on publication
+- lei-11889-de-2008: from 2008-12-26, its own clause: in force on publication
+- lei-11891-de-2008: from 2008-12-26, its own clause: in force on publication
+- lei-11898-de-2009: from 2009-01-09, its own clause: in force on publication
+- lei-11900-de-2009: from 2009-01-09, its own clause: in force on publication
+- lei-11901-de-2009: from 2009-01-13, its own clause: in force on publication
+- lei-11902-de-2009: from 2009-01-13, its own clause: in force on publication
+- lei-11903-de-2009: from 2022-05-12, the in-force day of Lei 14.338/2022, the latest among the acts its notes name (its DOU day 2022-05-12: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.410/2016 (DOU 2016-12-29), Lei 14.338/2022 (DOU 2022-05-12)
+- lei-11908-de-2009: from 2022-03-30, the in-force day of Lei 14.317/2022, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2022-03-30))
+- lei-11910-de-2009: from 2009-03-19, its own clause: in force on publication
+- lei-11920-de-2009: from 2009-04-13, its own clause: in force on publication
+- lei-11921-de-2009: from 2009-04-14, its own clause: in force on publication
+- lei-11922-de-2009: from 2009-04-14, its own clause: in force on publication
+- lei-11923-de-2009: from 2009-04-17, its own clause: in force on publication
+- lei-11924-de-2009: from 2009-04-17, its own clause: in force on publication
+- lei-11925-de-2009: from 2009-07-16, its own clause: 90 days after its DOU day
+- lei-11930-de-2009: from 2023-01-11, the in-force day of Lei 14.530/2023, the latest among the acts its notes name (its DOU day 2023-01-11: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.530/2023 (DOU 2023-01-11)
+- lei-11935-de-2009: from 2009-05-12, its own clause: in force on publication
+- lei-11936-de-2009: from 2009-05-15, its own clause: in force on publication
+- lei-11940-de-2009: from 2009-05-20, its own clause: in force on publication
+- lei-11942-de-2009: from 2009-05-29, its own clause: in force on publication
+- lei-11946-de-2009: from 2009-06-16, its own clause: in force on publication
+- lei-11949-de-2009: from 2009-06-18, its own clause: in force on publication
+- lei-11950-de-2009: from 2009-06-18, its own clause: in force on publication
+- lei-11951-de-2009: from 2009-06-25, its own clause: in force on publication
+- lei-11960-de-2009: from 2009-06-30, its own clause: in force on publication
+- lei-11961-de-2009: from 2009-07-03, its own clause: in force on publication
+- lei-11962-de-2009: from 2009-07-06, its own clause: in force on publication
+- lei-11963-de-2009: from 2009-07-06, its own clause: in force on publication
+- lei-11964-de-2009: from 2009-07-06, its own clause: in force on publication
+- lei-11965-de-2009: from 2009-07-06, its own clause: in force on publication
+- lei-11966-de-2009: from 2009-07-06, its own clause: in force on publication
+- lei-11967-de-2009: from 2009-07-07, its own clause: in force on publication
+- lei-11968-de-2009: from 2009-07-07, its own clause: in force on publication
+- lei-11969-de-2009: from 2009-07-07, its own clause: in force on publication
+- lei-11970-de-2009: from 2009-08-06, its own clause: 30 days after its DOU day
+- lei-11971-de-2009: from 2009-07-07, its own clause: in force on publication
+- lei-11972-de-2009: from 2014-11-14, the in-force day of Lei 13.043/2014, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2014-11-14))
+- lei-11975-de-2009: from 2009-07-08, its own clause: in force on publication
+- lei-11976-de-2009: from 2009-07-08, its own clause: in force on publication
+- lei-11978-de-2009: from 2009-07-09, its own clause: in force on publication
+- lei-11979-de-2009: from 2009-07-09, its own clause: in force on publication
+- lei-11982-de-2009: from 2009-07-17, its own clause: in force on publication
+- lei-11983-de-2009: from 2009-07-17, its own clause: in force on publication
+- lei-11985-de-2009: from 2009-07-28, its own clause: in force on publication
+- lei-11986-de-2009: from 2009-07-28, its own clause: in force on publication
+- lei-11987-de-2009: from 2009-07-28, its own clause: in force on publication
+- lei-11996-de-2009: from 2009-07-30, its own clause: in force on publication
+- lei-11997-de-2009: from 2009-07-30, its own clause: in force on publication
+- lei-11998-de-2009: from 2009-07-30, its own clause: in force on publication
+- lei-11999-de-2009: from 2009-07-30, its own clause: in force on publication
+- lei-12000-de-2009: from 2009-07-30, its own clause: in force on publication
+- lei-12001-de-2009: from 2009-07-30, its own clause: in force on publication
+- lei-12002-de-2009: from 2016-10-11, the in-force day of Lei 13.346/2016, the latest among the acts its notes name (its DOU day 2016-10-11: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.346/2016 (DOU 2016-10-11)
+- lei-12003-de-2009: from 2009-07-30, its own clause: in force on publication
+- lei-12004-de-2009: from 2009-07-30, its own clause: in force on publication
+- lei-12005-de-2009: from 2009-07-30, its own clause: in force on publication
+- lei-12006-de-2009: from 2009-07-30, its own clause: in force on publication
+- lei-12007-de-2009: from 2009-07-30, its own clause: in force on publication
+- lei-12008-de-2009: from 2009-07-30, its own clause: in force on publication
+- lei-12010-de-2009: from 2009-11-02, its own clause: 90 days after its DOU day
+- lei-12011-de-2009: from 2009-08-05, its own clause: in force on publication
+- lei-12012-de-2009: from 2009-08-07, its own clause: in force on publication
+- lei-12013-de-2009: from 2009-08-07, its own clause: in force on publication
+- lei-12014-de-2009: from 2009-08-07, its own clause: in force on publication
+- lei-12015-de-2009: from 2009-08-10, its own clause: in force on publication
+- lei-12019-de-2009: from 2009-08-24, its own clause: in force on publication
+- lei-12020-de-2009: from 2009-08-28, its own clause: in force on publication
+- lei-12021-de-2009: from 2009-08-28, its own clause: in force on publication
+- lei-12022-de-2009: from 2009-08-28, its own clause: in force on publication
+- lei-12023-de-2009: from 2020-04-20, the in-force day of Medida Provisória 955/2020, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-12027-de-2009: from 2009-09-10, its own clause: in force on publication
+- lei-12030-de-2009: from 2009-12-17, its own clause: 90 days after its DOU day
+- lei-12031-de-2009: from 2009-09-22, its own clause: in force on publication
+- lei-12033-de-2009: from 2009-09-30, its own clause: in force on publication
+- lei-12034-de-2009: from 2009-09-30, its own clause: in force on publication
+- lei-12036-de-2009: from 2009-10-02, its own clause: in force on publication
+- lei-12038-de-2009: from 2009-10-02, its own clause: in force on publication
+- lei-12039-de-2009: from 2009-10-02, its own clause: in force on publication
+- lei-12040-de-2009: from 2009-10-02, its own clause: in force on publication
+- lei-12041-de-2009: from 2009-10-09, its own clause: in force on publication
+- lei-12042-de-2009: from 2009-10-09, its own clause: in force on publication
+- lei-12053-de-2009: from 2009-10-13, its own clause: in force on publication
+- lei-12055-de-2009: from 2009-10-13, its own clause: in force on publication
+- lei-12056-de-2009: from 2009-10-14, its own clause: in force on publication
+- lei-12058-de-2009: from 2024-06-04, the in-force day of Medida Provisória 1.227/2024, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-12060-de-2009: from 2009-10-26, its own clause: in force on publication
+- lei-12062-de-2009: from 2009-10-28, its own clause: in force on publication
+- lei-12063-de-2009: from 2009-10-28, its own clause: in force on publication
+- lei-12064-de-2009: from 2009-10-30, its own clause: in force on publication
+- lei-12083-de-2009: from 2009-10-30, its own clause: in force on publication
+- lei-12084-de-2009: from 2009-11-03, its own clause: in force on publication
+- lei-12085-de-2009: from 2009-11-06, its own clause: in force on publication
+- lei-12086-de-2009: from 2026-04-28, the in-force day of Lei 15.395/2026, the latest among the acts its notes name (its DOU day 2026-04-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.459/2017 (DOU 2017-06-27), Lei 15.395/2026 (DOU 2026-04-28)
+- lei-12089-de-2009: from 2009-12-12, its own clause: 30 days after its DOU day
+- lei-12090-de-2009: from 2010-01-11, its own clause: 60 days after its DOU day
+- lei-12091-de-2009: from 2010-01-11, its own clause: 60 days after its DOU day
+- lei-12093-de-2009: from 2009-11-17, its own clause: in force on publication
+- lei-12098-de-2009: from 2009-11-25, its own clause: in force on publication
+- lei-12100-de-2009: from 2009-11-30, its own clause: in force on publication
+- lei-12104-de-2009: from 2009-12-02, its own clause: in force on publication
+- lei-12106-de-2009: from 2009-12-08, its own clause: in force on publication
+- lei-12112-de-2009: from 2010-01-24, no in-force clause of its own: LINDB art. 1, its DOU day (2009-12-10) + 45 days
+- lei-12113-de-2009: from 2009-12-10, its own clause: in force on publication
+- lei-12117-de-2009: from 2009-12-15, its own clause: in force on publication
+- lei-12120-de-2009: from 2009-12-16, its own clause: in force on publication
+- lei-12122-de-2009: from 2009-12-16, its own clause: in force on publication
+- lei-12123-de-2009: from 2009-12-16, its own clause: in force on publication
+- lei-12124-de-2009: from 2009-12-17, its own clause: in force on publication
+- lei-12125-de-2009: from 2009-12-17, its own clause: in force on publication
+- lei-12126-de-2009: from 2009-12-17, its own clause: in force on publication
+- lei-12128-de-2009: from 2009-12-18, its own clause: in force on publication
+- lei-12132-de-2009: from 2009-12-18, its own clause: in force on publication
+- lei-12133-de-2009: from 2010-01-17, its own clause: 30 days after its DOU day
+- lei-12134-de-2009: from 2009-12-21, its own clause: in force on publication
+- lei-12137-de-2009: from 2009-12-21, its own clause: in force on publication
+- lei-12155-de-2009: from 2009-12-23, its own clause: in force on publication
+- lei-12156-de-2009: from 2009-12-24, its own clause: in force on publication
+- lei-12157-de-2009: from 2010-02-07, no in-force clause of its own: LINDB art. 1, its DOU day (2009-12-24) + 45 days
+- lei-12182-de-2009: from 2009-12-30, its own clause: in force on publication
+- lei-12186-de-2009: from 2009-12-30, its own clause: in force on publication
+- lei-12191-de-2010: from 2010-01-14, its own clause: in force on publication
+- lei-12192-de-2010: from 2010-01-15, its own clause: in force on publication
+- lei-12193-de-2010: from 2010-01-15, its own clause: in force on publication
+- lei-12196-de-2010: from 2010-01-15, its own clause: in force on publication
+- lei-12197-de-2010: from 2010-01-15, its own clause: in force on publication
+- lei-12198-de-2010: from 2010-01-15, its own clause: in force on publication
+- lei-12200-de-2010: from 2010-01-15, its own clause: in force on publication
+- lei-12201-de-2010: from 2010-01-15, its own clause: in force on publication
+- lei-12202-de-2010: from 2010-04-26, the in-force day of Medida Provisória 487/2010, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-12213-de-2010: from 2026-01-07, the in-force day of Lei 15.327/2026, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2026-01-07))
+- lei-12216-de-2010: from 2010-03-12, its own clause: in force on publication
+- lei-12217-de-2010: from 2010-05-17, its own clause: 60 days after its DOU day
+- lei-12229-de-2010: from 2010-04-14, its own clause: in force on publication
+- lei-12230-de-2010: from 2010-04-22, its own clause: in force on publication
+- lei-12234-de-2010: from 2010-05-06, its own clause: in force on publication
+- lei-12236-de-2010: from 2010-05-20, its own clause: in force on publication
+- lei-12243-de-2010: from 2010-05-25, its own clause: in force on publication
+- lei-12244-de-2010: from 2024-04-09, the in-force day of Lei 14.837/2024, the latest among the acts its notes name (its DOU day 2024-04-09: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.837/2024 (DOU 2024-04-09)
+- lei-12245-de-2010: from 2010-05-25, its own clause: in force on publication
+- lei-12246-de-2010: from 2010-05-28, its own clause: in force on publication
+- lei-12247-de-2010: from 2010-05-28, its own clause: in force on publication
+- lei-12250-de-2010: from 2010-06-14, its own clause: in force on publication
+- lei-12251-de-2010: from 2010-06-14, its own clause: in force on publication
+- lei-12252-de-2010: from 2010-06-14, its own clause: in force on publication
+- lei-12253-de-2010: from 2010-06-14, its own clause: in force on publication
+- lei-12254-de-2010: from 2010-06-16, its own clause: in force on publication
+- lei-12256-de-2010: from 2026-02-18, the in-force day of Lei 15.349/2026, the latest among the acts its notes name (its DOU day 2026-02-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.349/2026 (DOU 2026-02-18)
+- lei-12257-de-2010: from 2010-06-16, its own clause: in force on publication
+- lei-12258-de-2010: from 2010-06-16, its own clause: in force on publication
+- lei-12259-de-2010: from 2010-06-22, its own clause: in force on publication
+- lei-12260-de-2010: from 2010-06-22, its own clause: in force on publication
+- lei-12261-de-2010: from 2010-06-22, its own clause: in force on publication
+- lei-12262-de-2010: from 2010-06-22, its own clause: in force on publication
+- lei-12263-de-2010: from 2010-06-22, its own clause: in force on publication
+- lei-12264-de-2010: from 2010-06-22, its own clause: in force on publication
+- lei-12265-de-2010: from 2010-06-22, its own clause: in force on publication
+- lei-12269-de-2010: from 2010-06-22, its own clause: in force on publication
+- lei-12270-de-2010: from 2022-05-27, the in-force day of Lei 14.353/2022, the latest among the acts its notes name (its DOU day 2022-05-27: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.353/2022 (DOU 2022-05-27)
+- lei-12272-de-2010: from 2010-06-25, its own clause: in force on publication
+- lei-12273-de-2010: from 2010-06-25, its own clause: in force on publication
+- lei-12275-de-2010: from 2010-08-13, no in-force clause of its own: LINDB art. 1, its DOU day (2010-06-29) + 45 days
+- lei-12281-de-2010: from 2010-07-06, its own clause: in force on publication
+- lei-12286-de-2010: from 2010-07-14, its own clause: in force on publication
+- lei-12287-de-2010: from 2010-07-14, its own clause: in force on publication
+- lei-12289-de-2010: from 2010-07-21, its own clause: in force on publication
+- lei-12291-de-2010: from 2010-07-21, its own clause: in force on publication
+- lei-12292-de-2010: from 2010-07-21, its own clause: in force on publication
+- lei-12293-de-2010: from 2010-07-21, its own clause: in force on publication
+- lei-12295-de-2010: from 2010-07-21, its own clause: in force on publication
+- lei-12299-de-2010: from 2010-07-28, its own clause: in force on publication
+- lei-12300-de-2010: from 2026-02-18, the in-force day of Lei 15.350/2026, the latest among the acts its notes name (its DOU day 2026-02-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.302/2016 (DOU 2016-06-28), Lei 15.350/2026 (DOU 2026-02-18)
+- lei-12302-de-2010: from 2019-08-09, the in-force day of Lei 13.863/2019, the latest among the acts its notes name (its DOU day 2019-08-09: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.863/2019 (DOU 2019-08-09)
+- lei-12303-de-2010: from 2010-08-03, its own clause: in force on publication
+- lei-12304-de-2010: from 2025-11-25, the in-force day of Lei 15.269/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-11-25))
+- lei-12306-de-2010: from 2010-08-09, its own clause: in force on publication
+- lei-12310-de-2010: from 2010-08-20, its own clause: in force on publication
+- lei-12311-de-2010: from 2010-08-20, its own clause: in force on publication
+- lei-12312-de-2010: from 2010-08-20, its own clause: in force on publication
+- lei-12313-de-2010: from 2010-08-20, its own clause: in force on publication
+- lei-12315-de-2010: from 2010-08-26, its own clause: in force on publication
+- lei-12317-de-2010: from 2010-08-27, its own clause: in force on publication
+- lei-12319-de-2010: from 2023-10-26, the in-force day of Lei 14.704/2023, the latest among the acts its notes name (its DOU day 2023-10-26: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.704/2023 (DOU 2023-10-26)
+- lei-12320-de-2010: from 2010-09-08, its own clause: in force on publication
+- lei-12321-de-2010: from 2010-09-08, its own clause: in force on publication
+- lei-12322-de-2010: from 2010-12-09, its own clause: 90 days after its DOU day
+- lei-12323-de-2010: from 2010-09-16, its own clause: in force on publication
 - Acts of this part (Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995); Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004); Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007); Lei do Petróleo (Lei nº 9.478, de 6 de agosto de 1997); Lei de Abuso de Autoridade (Lei nº 13.869, de 5 de setembro de 2019); Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980); Lei das Inelegibilidades (Lei Complementar nº 64, de 18 de maio de 1990); Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990); Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023); Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003); Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981)): each paragraph's life span is read from Planalto's annotated page of the act (l8987cons.htm, l11079.htm, l11445.htm, l9478.htm, l13869.htm, l6880.htm, lcp64.htm, l8142.htm, l14597.htm, l10.671.htm, l6938.htm), with the replay of Lexifina's code (imported, not copied): struck wordings stay in place before the wording that replaced them, each closed by the source's own note ('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted.
 - Credits come only from those notes; a changed article with no note naming a law stays uncredited.
 - A struck wording with no 'Revogado' note ends when the next wording of the same dispositivo (same label in the same article) starts; a Medida Provisória's wording with no later wording ends on the in-force day of the law that converted the MP (read from the MP page's 'Convertida na Lei' line).
@@ -9117,6 +10122,7 @@ Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP lapse days) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP fates, court rulings) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (MP lapse days, staged vigência days, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
