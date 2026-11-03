@@ -1,0 +1,86 @@
+DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL EM AÇÃO CAUTELAR FISCAL. SEGURO GARANTIA COMO MEIO IDÔNEO PARA GARANTIA DE EXECUÇÃO FISCAL. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. NÃO CONFIGURAÇÃO DE HIPÓTESE LEGAL. AUSÊNCIA DE ÓBICE À COBRANÇA DO DÉBITO PELA VIA EXTRAJUDICIAL, MEDIANTE PROTESTO DA CERTIDÃO DE DÍVIDA ATIVA. RECURSO CONHECIDO E PROVIDO.
+
+I. CASO EM EXAME
+
+1. Apelação cível interposta contra sentença que julgou procedente o pedido cautelar, confirmou a liminar que determinou a redução a termo do seguro garantia oferecido como caução à obrigação tributária e, posteriormente, foi integrada por decisão que reconheceu a incompatibilidade entre os efeitos da tutela concedida e a manutenção do protesto da certidão de dívida ativa.
+II. QUESTÃO EM DISCUSSÃO
+
+2. A questão em discussão consiste em saber se a redução a termo de seguro garantia, oferecido como caução à obrigação tributária por força de determinação judicial, tem o condão de suspender a exigibilidade do crédito tributário e, consequentemente, impedir o protesto da respectiva certidão de dívida ativa pela Fazenda Pública.
+
+III. RAZÕES DE DECIDIR
+
+3. O seguro garantia constitui modalidade legalmente idônea de garantia do débito fiscal, não podendo ser recusado pela Fazenda Pública unicamente em razão da inobservância da ordem preferencial de penhora, conforme o art. 9º, II, da Lei nº 6.830/1980 e o Tema Repetitivo nº 1.385 do Superior Tribunal de Justiça.
+
+4. A idoneidade do seguro garantia para assegurar o débito e viabilizar a discussão judicial do crédito tributário não lhe confere, por si só, efeito suspensivo da exigibilidade, cujas hipóteses estão previstas taxativamente no art. 151 do Código Tributário Nacional.
+5. A suspensão da exigibilidade prevista no art. 151, X, do Código Tributário Nacional pressupõe a aceitação da apólice de seguro garantia pelo credor, o que não ocorreu no caso, pois a redução da garantia a termo decorreu de determinação judicial, sem aquiescência da Fazenda Pública.
+
+6. Não configurada hipótese legal de suspensão da exigibilidade do crédito tributário, inexiste impedimento ao protesto da certidão de dívida ativa, instrumento juridicamente admitido para a cobrança extrajudicial do crédito público.
+IV. DISPOSITIVO E TESE
+
+7. Apelação conhecida e provida, para reconhecer a ausência de óbice ao protesto do débito consubstanciado na Certidão de Dívida Ativa nº 3594754-0 e revogar as medidas liminares parcialmente concedidas na instância recursal.
+
+I. Nos autos de “ação declaratória com pedido de tutela provisória de evidência e/ou urgência” sob nº 0007971-66.2024.8.16.0004, a r. sentença de mov. 70.1 julgou procedente o pedido cautelar “para o fim de confirmar a liminar de mov. 23.1”, condenando a Fazenda Pública ao pagamento dos ônus de sucumbência.
+Foram opostos embargos de declaração pelo Estado do Paraná (mov. 73.1), acolhidos em parte tão somente para reconhecer a impossibilidade de condenação do réu ao pagamento de honorários advocatícios de sucumbência (mov. 89.1).
+Manejados novos aclaratórios pela Fazenda Pública (mov. 92.1), foram os mesmos rejeitados, tendo o Juízo singular consignado, todavia, que, “nos termos da legislação vigente, a Fazenda Pública está isenta do pagamento de custas processuais” (mov. 96.1).
+Foram então opostos embargos de declaração pela parte autora e, na mesma ocasião, deduzido pedido de “cancelamento do protesto da CDA nº 3594754-0 registrado sob o protocolo nº 202528128 junto ao 2º Tabelionato de Protestos de Títulos da Comarca de Ponta Grossa/PR” (mov. 101.1), tendo este último pedido sido deferido pela decisão de mov. 106.1.
+Contra referido decisum foram aviados embargos de declaração pelo Fisco (mov. 115.1).
+Pela decisão de mov. 124.1 foram rejeitados os aclaratórios opostos por ambas as partes (movs. 101.1 e 115.1).
+Sobreveio novo pedido de cancelamento de protesto da CDA nº 3594754-0, “registrado sob o protocolo nº 202546342, junto ao 1º Tabelionato de Protestos de Títulos da Comarca de Ponta Grossa/PR” (mov. 126.1), que foi deferido no mov. 129.1.
+Vem daí a apelação de mov. 144.1, na qual o Estado do Paraná sustenta, em resumo, que: a) a sentença confirmou a liminar que determinou a redução a termo da caução consistente em seguro garantia, com a consequente expedição de certidão positiva com efeitos de negativa, vedação de inscrição da autora no CADIN e em cadastros de proteção ao crédito, tendo sido posteriormente integrada por decisão em embargos de declaração que concluiu pela vedação e cancelamento do protesto, entendimento que merece reforma; b) o protesto da certidão de dívida ativa constitui direito potestativo do ente público, não podendo ser obstado pelo oferecimento de seguro garantia, pois tal medida equivaleria, na prática, à suspensão da exigibilidade do crédito tributário; c) o próprio magistrado reconheceu na sentença que o seguro garantia não possui o efeito de suspender a exigibilidade do crédito tributário, razão pela qual não seria possível impedir o protesto do débito com fundamento na existência dessa garantia; d) a jurisprudência do TJPR e do STJ é firme no sentido de que o seguro garantia não se equipara ao depósito integral em dinheiro para fins de suspensão da exigibilidade do crédito tributário e, portanto, não tem o condão de impedir medidas de cobrança extrajudicial, inclusive o protesto; e) a Lei nº 9.492/1997 e a Lei estadual nº 18.292/2014 autorizam a Fazenda Pública a promover a cobrança extrajudicial de seus créditos por meio do protesto, constituindo instrumento legítimo e alternativo à execução fiscal; f) o STF, ao julgar a ADI 5.135, reconheceu a constitucionalidade do protesto das certidões de dívida ativa, concluindo que tal mecanismo não constitui sanção política nem restringe de forma desproporcional direitos fundamentais dos contribuintes; g) a sentença recorrida, ao impedir o protesto do débito garantido por seguro garantia, acabou por atribuir à caução efeitos próprios das hipóteses legais de suspensão da exigibilidade do crédito tributário, em afronta à legislação e aos precedentes dos tribunais superiores.
+Compilou jurisprudência e pugnou pelo conhecimento e provimento do recurso, com a reforma da sentença reptada.
+Contrarrazões no mov. 151.1.
+Após, foram os autos encaminhados a este egrégio Tribunal de Justiça (mov. 156.0).
+A d. Procuradoria de Justiça se pronunciou pelo conhecimento e provimento do recurso (mov. 12.1/TJ).
+No mov. 15.1/TJ a parte autora/apelada formulou pedido incidental de cancelamento de protesto da CDA nº 3594754-0, tendo em vista a realização de novo apontamento do aludido título em 13.05.2026, registrado sob nº 202619328, perante o 2º Tabelionato de Protesto de Títulos de Ponta Grossa/PR, tendo o pleito sido deferido em parte “para determinar que o Estado do Paraná se abstenha de efetuar o protesto da Certidão de Dívida Ativa nº 3594754-0 até o julgamento do recurso de apelação ou, caso o ato já tenha sido consumado, para que promova a suspensão dos seus efeitos no prazo de 48 (quarenta e oito) horas, contados da intimação da presente decisão” (mov. 16.1-TJ).
+Na sequência, foi noticiado pela Fazenda Pública o cumprimento da liminar (movs. 27.1/27.2-TJ).
+Em 21.08.2026 a requerente/apelada formulou novo pedido incidental de cancelamento do protesto da CDA em discussão, considerando apontamento realizado pelo Estado do Paraná em 13.08.2026, protocolado sob nº 202635708, perante o 1º Tabelionato de Protesto de Títulos de Ponta Grossa/PR (mov. 33.1-TJ), sendo a tutela de urgência postulada parcialmente deferida, nos mesmos moldes da decisão de mov. 16.1-TJ, sob pena de multa diária no importe de R$ 5.000,00 (cinco mil reais) (mov. 34.1-TJ).
+Noticiado o descumprimento da decisão (mov. 39.1-TJ), foi colhida a manifestação da Fazenda Pública estadual (movs. 43.1/43.2-TJ), vindo os autos em seguida conclusos.
+É a breve exposição.
+
+II. Presentes os pressupostos recursais intrínsecos (cabimento, legitimação e interesse em recorrer) e extrínsecos (tempestividade, regularidade formal, inexistência de fato impeditivo ou extintivo do poder de recorrer e dispensa de preparo - art. 1.007, § 1º, do CPC), conheço do apelo.
+
+III. Cinge-se a controvérsia recursal em verificar se a concessão de medida cautelar que determinou a redução a termo de seguro garantia como caução à obrigação tributária tem o condão de obstar o protesto do débito pelo Fisco.
+
+III.1. Consoante acima mencionado, a sentença de mov. 70.1 julgou procedente o pedido cautelar para o fim de confirmar a liminar anteriormente concedida, nos seguintes termos (mov. 23.1):
+
+“(...).
+2.1. Presente os requisitos, defiro o pedido a fim de determinar a redução a termo da caução do seguro garantia oferecida pelo requerente com a consequente expedição da CPD/EN, nos termos do artigo 206 do CTN. Determino que não seja feita a inclusão do requerente no registro do CADIN referente ao débito ora em discussão, conforme artigo 10, inciso I, da Lei Estadual n.º 18.466/2015; que o requerido atualize seu banco de dados para que conste que o débito objeto do auto de infração sob nº nº 65912805 encontra-se garantido, bem como que renove os regimes especiais já concedidos, desde que não haja fundamento superveniente para o contrário.
+2.2. Sendo o caso, determino a baixa da inscrição da Autora no Cadastro Informativo Estadual (CADIN), bem como, o cancelamento de eventual inscrição da parte Executada nos cadastros de proteção ao crédito efetivada via sistema Serasajud.
+Ainda, eventualmente ajuizada a Execução Fiscal, a caução deverá ser convertida em penhora nos autos respectivos.
+(...).”
+Aludido pronunciamento judicial foi integrado pela decisão de mov. 124.1, que rejeitou os embargos de declaração opostos pelo Estado do Paraná, conforme a subsequente fundamentação:
+
+“No que tange aos embargos do Estado do Paraná, não assiste razão. Verifica-se que o protesto da CDA nº 3594754-0 foi lavrado posteriormente à concessão da tutela de urgência (mov. 23), a qual determinou a redução a termo da caução prestada, com a consequente expedição da Certidão Positiva com Efeitos de Negativa (CPD/EN).
+A manutenção do protesto contraria, de forma direta, os efeitos práticos da decisão liminar confirmada em sentença (mov. 70), pois inviabiliza a expedição da CPD/EN, medida expressamente deferida para resguardar a atividade econômica da autora.
+Esclareça-se que o seguro garantia é uma ferramenta jurídica válida para o contribuinte que busca regularizar a sua situação fiscal perante a Fazenda Pública, permitindo a emissão de uma Certidão Positiva com Efeito de Negativa. No entanto, sua apresentação não impede que a Fazenda instaure a execução fiscal. Se isso ocorrer, a caução será convertida em penhora, dando continuidade ao processo judicial de cobrança, mas com a vantagem de o contribuinte já ter oferecido um bem considerado de alta liquidez.”
+
+III.2. Pois bem, a apólice de seguro-garantia possui previsão legal expressa como forma idônea de garantir o débito cobrado pela Fazenda Pública (Lei nº 6.830/80, art. 9º, II).
+Nesse contexto, o Superior Tribunal de Justiça firmou entendimento de que a Fazenda Pública não pode recusar o seguro garantia como forma de garantir a execução fiscal quando a rejeição se basear unicamente na ordem preferencial de penhora preconizada pelo art. 11 da Lei nº 6.830/80. Confira-se a redação do Tema Repetitivo nº 1.385/STJ:
+“Na execução fiscal, a fiança bancária ou o seguro garantia oferecido em garantia de execução de crédito tributário não é recusável por inobservância à ordem legal da penhora.”
+Sendo assim, a legislação e o STJ posicionam-se no sentido de que o seguro garantia é instrumento de garantia idôneo, possibilitando que o devedor acesse o Poder Judiciário para discutir o crédito tributário.
+
+De outro lado, o art. 151 do Código Tributário Nacional contempla rol taxativo das hipóteses de suspensão da exigibilidade do crédito tributário:
+“Art. 151. Suspendem a exigibilidade do crédito tributário:
+I – moratória;
+II – o depósito do seu montante integral;
+III – as impugnações, os recursos e a manifestação de inconformidade, nos termos das leis reguladoras do processo tributário administrativo;
+IV – a concessão de medida liminar em mandado de segurança.
+V - a concessão de medida liminar ou de tutela provisória, em outras espécies de ação judicial;
+VI - o parcelamento.
+VII - a instituição da arbitragem especial tributária e aduaneira, nos termos da legislação específica;
+VIII - a proposta de transação aceita pela administração, nos termos da legislação específica;
+IX - o acordo decorrente de mediação, até a sua eventual dissolução, nos termos da legislação específica;
+X - a aceitação, pelo credor, nos termos da regulamentação estabelecida pelos órgãos de cobrança judicial dos créditos tributários, de apólice de seguro garantia ou de carta de fiança bancária oferecidas em execução fiscal, inclusive quando convencionadas por meio de negócio jurídico processual, enquanto estiverem em conformidade com as normas que regem sua aceitação e enquanto não caracterizada hipótese de sinistro.
+(...).”
+
+No caso, a redução a termo da apólice de seguro garantia ofertada pela parte autora/apelada como caução à obrigação tributária decorreu de determinação judicial (movs. 23.1 e 70.1), inexistindo aquiescência do credor quanto ao recebimento da garantia para fins de suspensão da exigibilidade do crédito tributário.
+Assim, não caracterizada hipótese legal para suspensão da exigibilidade do crédito tributário e sendo o protesto instrumento jurídico apto à cobrança extrajudicial de dívida ativa (Lei nº 9.492/1997 e Lei estadual nº 18.292/2014), inexiste óbice ao emprego do aludido mecanismo pela Fazenda Pública estadual.
+Com efeito, como bem ponderou o i. Procurador de Justiça, “impõe-se a rejeição do pleito da parte apelada pelo impedimento de que seja levada a protesto o crédito tributário em questão, tendo em vista que a sustação ou a abstenção de protesto da certidão de dívida ativa depende da suspensão da exigibilidade do crédito, que, como visto, não se mostra cabível no caso, uma vez que não foram preenchidos os requisitos legais” (mov. 12.1-TJ).
+Em sentido próximo, reporto-me ainda aos seguintes julgados:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PRETENDIDA SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. SEGURO GARANTIA QUE NÃO SE EQUIPARA A DEPÓSITO EM DINHEIRO PARA FINS DE SUSPENSÃO DA EXIGIBILIDAE DO CRÉDITO TRIBUTÁRIO, MAS APENAS PARA GARANTIA DA EXECUÇÃO. ART. 151 DO CTN. ROL TAXATIVO. TEMA REPETITIVO 378. INAPLICABILIDADE DO TEMA 1385. EMBARGOS CONHECIDOS E NÃO PROVIDOS. O seguro garantia oferecido em garantia de execução de crédito tributário, embora não recusável por inobservância à ordem legal de penhora (Tema 1385), não se equipara ao depósito integral do débito para fins de suspensão da exigibilidade do crédito tributário, ante a taxatividade do art. 151 do CTN (Tema 378). (TJPR, 3ª Câmara Cível, 0049110-39.2026.8.16.0000, Rel. Cesar Ghizoni, j. 29.06.2026).
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO CÍVEL. TUTELA ANTECIPADA ANTECEDENTE DEFERIDA PARCIALMENTE PELO JUÍZO PARA A EMISSÃO DE CERTIDÃO POSITIVA COM EFEITOS DE NEGATIVA (ART. 206 DO CTN). PLEITO DE IMPEDIMENTO DE PROTESTO DA CDA DIANTE DA APRESENTAÇÃO DE CARTA-FIANÇA OFERTADA COMO CAUÇÃO AO DÉBITO. IMPOSSIBILIDADE DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. AUSÊNCIA DE PREVISÃO LEGAL. GARANTIA QUE NÃO SE EQUIPARA AO DEPÓSITO INTEGRAL DA DÍVIDA. ROL TAXATIVO DO ART. 151 DO CTN. RECURSO DESPROVIDO. (...). (TJPR, 2ª Câmara Cível, 0021811-58.2024.8.16.0000, Rel. Eugenio Achille Grandinetti, j. 19.08.2024).
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. TUTELA ANTECIPADA ANTECEDENTE. ICMS. OFERECIMENTO DE SEGURO GARANTIA. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. IMPOSSIBILIDADE. PRECEDENTES DO STJ E DESTA CORTE. DECISÃO MANTIDA. RECURSO DESPROVIDO. O Superior Tribunal de Justiça possui entendimento firme no sentido de que “a suspensão da exigibilidade do crédito tributário encontra-se taxativamente prevista no art. 151 do CTN, sendo certo que a prestação de caução, mediante o oferecimento de fiança bancária, ainda que no montante integral do valor devido, não ostenta o efeito de suspender a exigibilidade do crédito tributário, mas apenas de garantir o débito exequendo, em equiparação ou antecipação à penhora, com o escopo precípuo de viabilizar a expedição de Certidão Positiva com Efeitos de Negativa e a oposição de embargos" (REsp 1.156.668/DF Repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, DJe 10.12.2010). (...). (TJPR, 2ª Câmara Cível, 0006504-64.2024.8.16.0000, Rel. Rogério Luis Nielsen Kanayama, j. 08.05.2024).
+
+Portanto, considerando a ausência de fundamento legal que ampare a suspensão da exigibilidade do crédito tributário na hipótese dos autos, a insurgência do Estado do Paraná comporta acolhida, para reconhecer a ausência de óbice ao protesto do débito consubstanciado na Certidão de Dívida Ativa nº 3594754-0.
+
+IV. Em remate, voto no sentido de conhecer e dar provimento ao recurso de apelação do Estado do Paraná, a fim de reconhecer a ausência de óbice ao protesto do débito consubstanciado na Certidão de Dívida Ativa nº 3594754-0, com a revogação das medidas liminares parcialmente concedidas nesta instância nos movs. 16.1 e 34.1-TJ.
