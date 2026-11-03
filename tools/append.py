@@ -59,6 +59,7 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import build as B  # noqa: E402
 import check_repo as K  # noqa: E402
+import published_parts  # noqa: E402
 
 
 def git(repo: Path, *args: str) -> str:
@@ -519,7 +520,12 @@ class Appender:
 
 def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, corrections: bool = False,
            reason: str = DEFAULT_REASON) -> dict:
-    c, raw = B.load(folder)
+    try:
+        required = published_parts.required(repo, folder)
+    except published_parts.PublishedPartError as exc:
+        raise B.CorpusError(str(exc)) from exc
+    part_records = {}
+    c, raw = B.load(folder, part_records=part_records, required_parts=required)
     errs = B.validate(c)
     if errs:
         raise B.CorpusError('corpus has problems:\n  ' + '\n  '.join(errs[:60]))
@@ -593,7 +599,7 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, corr
                     'acts': e['touched'], 'units': len(e['files']), 'branch': 'main', 'clamped': x['day'] < '1970-01-01'})
     full_log = published_log(repo) + log
     all_tags = {t: 0 for t in existing_tags} | {t: m for t, m in tags.items()}
-    docs = B.docs_files(c, folder, raw, full_log, all_tags, docs_date)
+    docs = B.docs_files(c, folder, raw, full_log, all_tags, docs_date, part_records=part_records)
     # Ship this script beside build.py, so the repository says how its appended commits were made.
     docs['tools/append.py'] = Path(__file__).read_text(encoding='utf-8').replace('\r\n', '\n')
     # Never future-dated: a docs date of today is noon local, so before then it is capped at now (else every later
