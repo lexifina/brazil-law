@@ -46,7 +46,8 @@ def load(folder: Path) -> tuple[dict, bytes]:
     """corpus.json, plus any parts in corpus.d/*.json (so several agents can each own some acts of one country).
 
     A part holds `acts`, and optionally `laws`, `sources`, `applies`, `decisions` and `ai_use`. Its laws are merged
-    by key; the same key in two files must describe the same law (same label). Parts are read in file-name order. The
+    by key; the same key in two files must describe the same law (same label). `corrects` names an earlier part whose
+    acts this part replaces by slug. Parts are read in file-name order. The
     returned bytes are what the build hashes: corpus.json followed by each part, so any change to any part changes it.
     """
     main_path = folder / 'corpus.json'
@@ -59,6 +60,10 @@ def load(folder: Path) -> tuple[dict, bytes]:
     head = main_path.read_bytes() if main_path.exists() else b''
     c = json.loads(head.decode('utf-8')) if head else {}
     chunks = [head]  # joined once at the end: growing one bytes object part by part copied it once per part
+    slots = {}
+    for i, act in enumerate(c.get('acts', [])):
+        slots.setdefault(act.get('slug'), []).append(('corpus.json', i))
+    loaded_parts = set()
     for p in parts:
         b = p.read_bytes()
         chunks.append(b'\n' + p.name.encode() + b'\n' + b)
@@ -70,7 +75,26 @@ def load(folder: Path) -> tuple[dict, bytes]:
             if have and have.get('label') != law.get('label'):
                 raise CorpusError(f'{p.name}: law {key!r} is {law.get("label")!r} here but {have.get("label")!r} elsewhere')
             c['laws'].setdefault(key, law)
-        for field in ('acts', 'sources', 'applies', 'decisions', 'ai_use'):
+        acts = c.setdefault('acts', [])
+        if 'corrects' in part:
+            target = part['corrects']
+            if not isinstance(target, str) or target not in loaded_parts:
+                raise CorpusError(f'{p.name}: corrects {target!r} must name an earlier loaded part')
+            for act in part.get('acts', []):
+                slug = act.get('slug')
+                have = slots.get(slug, [])
+                if len(have) != 1 or have[0][0] != target:
+                    raise CorpusError(f'{p.name}: corrects {target!r}: act slug {slug!r} must occur exactly once '
+                                      'and still belong to that part')
+                i = have[0][1]
+                acts[i] = act
+                slots[slug] = [(p.name, i)]
+        else:
+            for act in part.get('acts', []):
+                slots.setdefault(act.get('slug'), []).append((p.name, len(acts)))
+                acts.append(act)
+        loaded_parts.add(p.name)
+        for field in ('sources', 'applies', 'decisions', 'ai_use'):
             c.setdefault(field, []).extend(part.get(field, []))
     # A version without `units` is an event that changed no words (a ruling, a rejected referendum): it reads as the
     # version before it, so the corpus need not repeat the whole text.
