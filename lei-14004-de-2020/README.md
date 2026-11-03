@@ -1,0 +1,10 @@
+# Altera a Lei nº 6.634, de 2 de maio de 1979, que dispõe sobre a Faixa de Fronteira, e a Lei nº 10.304, de 5 de novembro de 2001, que transfere ao domínio dos Estados de Roraima e do Amapá terras pertencentes à União (Lei nº 14.004, de 26 de maio de 2020)
+
+L14004 · 1 versions, from 2020-05-27 (latest in force: 2020-05-27) · <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14004.htm>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1º | [art-001.md](art-001.md) | 0 |  |
+| Art. 2º | [art-002.md](art-002.md) | 0 |  |
+| Art. 3º | [art-003.md](art-003.md) | 0 |  |
+| Preâmbulo | [preambulo.md](preambulo.md) | 0 |  |

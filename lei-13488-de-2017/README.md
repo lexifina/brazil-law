@@ -1,0 +1,18 @@
+# Altera as Leis n º 9.504, de 30 de setembro de 1997 (Lei das Eleições), 9.096, de 19 de setembro de 1995, e 4.737, de 15 de julho de 1965 (Código Eleitoral), e revoga dispositivos da Lei nº 13.165, de 29 de setembro... (Lei nº 13.488, de 6 de outubro de 2017)
+
+L13488 · 1 versions, from 2019-09-27 (latest in force: 2019-09-27) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13488.htm>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1º | [art-001.md](art-001.md) | 0 |  |
+| Art. 2º | [art-002.md](art-002.md) | 0 |  |
+| Art. 3º | [art-003.md](art-003.md) | 0 |  |
+| Art. 5º | [art-005.md](art-005.md) | 0 |  |
+| Art. 6º | [art-006.md](art-006.md) | 0 |  |
+| Art. 7º | [art-007.md](art-007.md) | 0 |  |
+| Art. 8º | [art-008.md](art-008.md) | 0 |  |
+| Art. 9º | [art-009.md](art-009.md) | 0 |  |
+| Art. 10 | [art-010.md](art-010.md) | 0 |  |
+| Art. 11 | [art-011.md](art-011.md) | 0 |  |
+| Preâmbulo | [preambulo.md](preambulo.md) | 0 |  |
+| Títulos, capítulos e seções | [titulos.md](titulos.md) | 0 |  |
