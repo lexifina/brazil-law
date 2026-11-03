@@ -30,6 +30,9 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
+| Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
+| Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
+| Planalto (Presidência da República), Legislação: the page of each act, as Planalto prints it today (consolidated, struck wordings marked), and Planalto's index pages of Leis, Leis Complementares and Decretos-Leis (number, date, DOU day) | <https://www.planalto.gov.br/ccivil_03/> | 2026-11-03 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995), Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004), Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007), Lei do Petróleo (Lei nº 9.478, de 6 de agosto de 1997), Lei de Abuso de Autoridade (Lei nº 13.869, de 5 de setembro de 2019), Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980), Lei das Inelegibilidades (Lei Complementar nº 64, de 18 de maio de 1990), Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990), Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023), Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003), Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-31 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
 | LexML Brasil (Senado Federal): record of each cited law, for its 'Publicação Original' DOU day | <https://www.lexml.gov.br/> | 2026-10-31 | Public federal portal; bibliographic data of official acts |
 | Planalto (Presidência da República), Legislação: annotated and consolidated pages of Lei de Execução Fiscal (Lei nº 6.830, de 22 de setembro de 1980), Lei de Defesa da Concorrência (Lei nº 12.529, de 30 de novembro de 2011), Estatuto da Advocacia e da OAB (Lei nº 8.906, de 4 de julho de 1994), Lei da ADI e da ADC (Lei nº 9.868, de 10 de novembro de 1999), Lei da ADPF (Lei nº 9.882, de 3 de dezembro de 1999), Crimes contra a ordem tributária, econômica e as relações de consumo (Lei nº 8.137, de 27 de dezembro de 1990), Lei de Interceptação Telefônica (Lei nº 9.296, de 24 de julho de 1996), Lei do Bem de Família (Lei nº 8.009, de 29 de março de 1990), Lei da Ação Popular (Lei nº 4.717, de 29 de junho de 1965), Crimes contra o Sistema Financeiro Nacional (Lei nº 7.492, de 16 de junho de 1986) and of every law their notes cite | <https://www.planalto.gov.br/ccivil_03/> | 2026-10-31 | Official acts are not protected by copyright (Lei 9.610/1998 art. 8, IV) |
@@ -3365,6 +3368,1506 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-9994-de-2000` | Institui o Programa de Desenvolvimento Científico e Tecnológico do Setor Espacial, e dá outras providências (Lei nº 9.994, de 24 de julho de 2000) | 1 | 2000-07-25 to 2000-07-25 |
 | `lei-9996-de-2000` | Dispõe sobre anistia de multas aplicadas pela Justiça Eleitoral em 1996 e 1998. Mensagem de Veto (Lei nº 9.996, de 14 de agosto de 2000) | 1 | 2000-08-15 to 2000-08-15 |
 | `lei-9997-de-2000` | Dá nova redação ao item 9 o do art. 54 da Lei n o 6.015, de 31 de dezembro de 1973, que dispõe sobre os Registros Públicos e dá outras providências (Lei nº 9.997, de 17 de agosto de 2000) | 1 | 2000-08-18 to 2000-08-18 |
+| `lei-complementar-60-de-1989` | Possibilita afastamento de magistrados dirigentes de classe (Lei Complementar nº 60, de 6 de outubro de 1989) | 1 | 1989-10-10 to 1989-10-10 |
+| `lei-complementar-62-de-1989` | Estabelece normas sobre o cálculo, a entrega e o controle das liberações dos recursos dos Fundos de Participação e dá outras providências (Lei Complementar nº 62, de 28 de dezembro de 1989) | 1 | 2013-07-18 to 2013-07-18 |
+| `lei-complementar-64-de-1990` | Estabelece, de acordo com o art. 14, § 9º da Constituição Federal, casos de inelegibilidade, prazos de cessação, e determina outras providências (Lei Complementar nº 64, de 18 de maio de 1990) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-complementar-78-de-1993` | Disciplina a fixação do número de Deputados, nos termos do art. 45, § 1º, da Constituição Federal (Lei Complementar nº 78, de 30 de dezembro de 1993) | 1 | 1994-01-05 to 1994-01-05 |
+| `lei-complementar-81-de-1994` | Altera a redação da alínea "b" do inciso I do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990, para elevar de três para oito anos o prazo de inelegibilidade para os parlamentares que perderem o mandato por... (Lei Complementar nº 81, de 13 de abril de 1994) | 1 | 1994-04-14 to 1994-04-14 |
+| `lei-complementar-83-de-1995` | Altera dispositivo da Lei Complementar nº 69, de 23 de julho de 1991, que dispõe sobre as normas gerais para a organização, o preparo e o emprego das Forças Armadas (Lei Complementar nº 83, de 12 de setembro de 1995) | 1 | 1995-09-13 to 1995-09-13 |
+| `lei-7722-de-1989` | Dispõe sobre as remunerações dos Ministros do Tribunal Superior do Trabalho e Juízes do Trabalho (Lei nº 7.722, de 6 de janeiro de 1989) | 1 | 1989-01-09 to 1989-01-09 |
+| `lei-7723-de-1989` | Dispõe sobre as remunerações dos Ministros do Superior Tribunal Militar e dos Juízes da Justiça Militar Federal (Lei nº 7.723, de 6 de janeiro de 1989) | 1 | 1989-01-09 to 1989-01-09 |
+| `lei-7724-de-1989` | Dispõe sobre as remunerações dos Ministros do Tribunal Federal de Recursos e dos Juízes Federais (Lei nº 7.724, de 6 de janeiro de 1989) | 1 | 1989-01-09 to 1989-01-09 |
+| `lei-7725-de-1989` | Dispõe sobre as remunerações dos Membros do Ministério Público da União (Lei nº 7.725, de 6 de janeiro de 1989) | 1 | 1989-01-09 to 1989-01-09 |
+| `lei-7726-de-1989` | Dispõe sobre as remunerações dos membros do Tribunal de Contas da União e dá outras providências (Lei nº 7.726, de 6 de janeiro de 1989) | 1 | 1989-01-09 to 1989-01-09 |
+| `lei-7727-de-1989` | Dispõe sobre a composição inicial dos Tribunais Regionais Federais e sua instalação, cria os respectivos quadros de pessoal e dá outras providências (Lei nº 7.727, de 9 de janeiro de 1989) | 1 | 1989-01-10 to 1989-01-10 |
+| `lei-7728-de-1989` | Dispõe sobre as remunerações dos Desembargadores, Juízes de Direito, Juízes de Direito Substitutos, Juízes de Direito dos Territórios, integrantes da Justiça do Distrito Federal e Territórios (Lei nº 7.728, de 9 de janeiro de 1989) | 1 | 1989-01-10 to 1989-01-10 |
+| `lei-7731-de-1989` | Extingue órgãos da Administração Federal direta e dá outras providências (Lei nº 7.731, de 14 de fevereiro de 1989) | 1 | 1989-02-15 to 1989-02-15 |
+| `lei-7734-de-1989` | Dispõe sobre os cheques grafados em cruzados, com data de emissão até o dia 14 de fevereiro de 1989 (Lei nº 7.734, de 14 de fevereiro de 1989) | 1 | 1989-02-15 to 1989-02-15 |
+| `lei-7736-de-1989` | Dispõe sobre a cobrança dos impostos e a administração tributária no Amapá e em Roraima (Lei nº 7.736, de 22 de fevereiro de 1989) | 1 | 1989-02-24 to 1989-02-24 |
+| `lei-7737-de-1989` | Dispõe sobre o reajuste compensatório dos estipêndios de que trata o art. 5º da Lei nº 7.730, de 31 de janeiro de 1989 e dá outras providências (Lei nº 7.737, de 28 de fevereiro de 1989) | 1 | 1989-03-20 to 1989-03-20 |
+| `lei-7739-de-1989` | Dispõe sobre a organização da Presidência da República e dos Ministérios e dá outras providências (Lei nº 7.739, de 16 de março de 1989) | 1 | 1989-03-20 to 1989-03-20 |
+| `lei-7741-de-1989` | Dispõe sobre a criação de uma Escola Técnica Federal, no Município de Cajazeiras, Estado da Paraíba, e dá outras providências (Lei nº 7.741, de 20 de março de 1989) | 1 | 1989-03-21 to 1989-03-21 |
+| `lei-7743-de-1989` | Dispõe sobre a conservação do Memorial de Juscelino Kubitschek (Lei nº 7.743, de 21 de março de 1989) | 1 | 1989-03-27 to 1989-03-27 |
+| `lei-7744-de-1989` | Dá o nome de José Antônio Mendes Sansano à CEASA - Campinas (Lei nº 7.744, de 27 de março de 1989) | 1 | 1989-03-29 to 1989-03-29 |
+| `lei-7745-de-1989` | Eleva a Cidade de Oeiras, no Estado do Piauí, à condição de monumento nacional (Lei nº 7.745, de 30 de março de 1989) | 1 | 1989-05-15 to 1989-05-15 |
+| `lei-7746-de-1989` | Dispõe sobre a composição e instalação do Superior Tribunal de Justiça, cria o respectivo Quadro de Pessoal, disciplina o funcionamento do Conselho da Justiça Federal e dá outras providências (Lei nº 7.746, de 30 de março de 1989) | 1 | 1992-10-15 to 1992-10-15 |
+| `lei-7747-de-1989` | Baixa normas complementares para a execução da Lei nº 7.730, de 31 de janeiro de 1989, e dá outras providências (Lei nº 7.747, de 4 de abril de 1989) | 1 | 1989-07-12 to 1989-07-12 |
+| `lei-7748-de-1989` | Transforma cargos nos Quadros das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências (Lei nº 7.748, de 7 de abril de 1989) | 1 | 1989-04-10 to 1989-04-10 |
+| `lei-7750-de-1989` | Amplia as atividades da Fundação Habitacional do Exército - FHE e dá outras providências (Lei nº 7.750, de 13 de abril de 1989) | 1 | 1989-04-14 to 1989-04-14 |
+| `lei-7751-de-1989` | Dispõe sobre a incidência do imposto de renda na fonte sobre rendimentos decorrentes das aplicações financeiras e dá outras providências (Lei nº 7.751, de 14 de abril de 1989) | 1 | 1989-05-17 to 1989-05-17 |
+| `lei-7752-de-1989` | Dispõe sobre benefícios fiscais na área do imposto sobre a renda e outros tributos, concedidos ao desporto amador (Lei nº 7.752, de 14 de abril de 1989) | 1 | 1989-04-18 to 1989-04-18 |
+| `lei-7753-de-1989` | Dispõe sobre a Gratificação Extraordinária dos Servidores do Supremo Tribunal Federal e dá outras providências (Lei nº 7.753, de 14 de abril de 1989) | 1 | 1989-04-18 to 1989-04-18 |
+| `lei-7755-de-1989` | Fixa a Capital da República como sede do Conselho Nacional de Desportos (Lei nº 7.755, de 20 de abril de 1989) | 1 | 1989-04-21 to 1989-04-21 |
+| `lei-7756-de-1989` | Dispõe sobre a Gratificação Extraordinária dos servidores da Secretaria do Tribunal de Justiça e dos Ofícios Judiciais do Distrito Federal e dos Territórios e dá outras providências (Lei nº 7.756, de 24 de abril de 1989) | 1 | 1989-04-25 to 1989-04-25 |
+| `lei-7757-de-1989` | Institui Gratificação Extraordinária aos servidores do Tribunal Federal de Recursos, da Justiça Federal de Primeira Instância e dá outras providências (Lei nº 7.757, de 24 de abril de 1989) | 1 | 1989-04-25 to 1989-04-25 |
+| `lei-7758-de-1989` | Dispõe sobre a Gratificação Extraordinária dos servidores da Justiça do Trabalho e dá outras providências (Lei nº 7.758, de 24 de abril de 1989) | 1 | 1989-04-25 to 1989-04-25 |
+| `lei-7759-de-1989` | Dispõe sobre a Gratificação Extraordinária dos servidores da Justiça Eleitoral e dá outras providências (Lei nº 7.759, de 24 de abril de 1989) | 1 | 1989-04-25 to 1989-04-25 |
+| `lei-7760-de-1989` | Dispõe sobre a Gratificação Extraordinária dos servidores do Superior Tribunal Militar e das Auditorias da Justiça Militar e dá outras providências (Lei nº 7.760, de 24 de abril de 1989) | 1 | 1989-04-25 to 1989-04-25 |
+| `lei-7761-de-1989` | Dispõe sobre a Gratificação Extraordinária dos servidores do Ministério Público da União e dá outras providências (Lei nº 7.761, de 24 de abril de 1989) | 1 | 1989-04-25 to 1989-04-25 |
+| `lei-7762-de-1989` | Dispõe sobre o Plano Nacional de Informática e Automação - PLANIN e confirma incentivos fiscais (Lei nº 7.762, de 27 de abril de 1989) | 1 | 1989-04-28 to 1989-04-28 |
+| `lei-7763-de-1989` | Prorroga o prazo de dispositivos legais que menciona, com base no art. 25 das Disposições Constitucionais Transitórias (Lei nº 7.763, de 27 de abril de 1989) | 1 | 1989-05-02 to 1989-05-02 |
+| `lei-7764-de-1989` | Baixa normas complementares para a execução do Programa de Estabilização Econômica de que trata a Lei nº 7.730, de 31 de janeiro de 1989, e dá outras providências (Lei nº 7.764, de 2 de maio de 1989) | 1 | 1989-05-10 to 1989-05-10 |
+| `lei-7765-de-1989` | Altera o art. 1º da Lei nº 7.320, de 11 de junho de 1985, que "dispõe sobre antecipação de comemoração de feriados e dá outras providências." (Lei nº 7.765, de 11 de maio de 1989) | 1 | 1989-05-12 to 1989-05-12 |
+| `lei-7766-de-1989` | Dispõe sobre o ouro, ativo financeiro, e sobre seu tratamento tributário. Mensagem de Veto (Lei nº 7.766, de 11 de maio de 1989) | 1 | 1989-05-12 to 1989-05-12 |
+| `lei-7767-de-1989` | Autoriza o Poder Executivo a instituir a Fundação Universidade do Vale do Jacuí, em Cachoeira do Sul, Estado do Rio Grande do Sul (Lei nº 7.767, de 15 de maio de 1989) | 1 | 1989-05-16 to 1989-05-16 |
+| `lei-7768-de-1989` | Dá nova redação ao art. 1º da Lei nº 7.751, de 14 de abril de 1989 (Lei nº 7.768, de 16 de maio de 1989) | 1 | 1989-05-17 to 1989-05-17 |
+| `lei-7771-de-1989` | Dispõe sobre as Cartas Patentes dos Oficiais do Corpo de Bombeiros do Distrito Federal (Lei nº 7.771, de 8 de junho de 1989) | 1 | 1989-06-09 to 1989-06-09 |
+| `lei-7774-de-1989` | Expede normas de ajustamento do Programa de Estabilização Econômica, de que trata a Lei nº 7.730, de 31 de janeiro de 1989 (Lei nº 7.774, de 8 de junho de 1989) | 1 | 1989-07-12 to 1989-07-12 |
+| `lei-7776-de-1989` | Dispõe sobre a Secretaria Especial de Abastecimento e Preços - SEAP e dá outras providências (Lei nº 7.776, de 16 de junho de 1989) | 1 | 1989-06-19 to 1989-06-19 |
+| `lei-7777-de-1989` | Expede normas de ajustamento do Programa de Estabilização Econômica de que trata a Lei nº 7.730, de 31 de janeiro de 1989, e dá outras providências (Lei nº 7.777, de 19 de junho de 1989) | 1 | 1989-07-12 to 1989-07-12 |
+| `lei-7780-de-1989` | Introduz alterações nos arts. 325 e 581 do Código de Processo Penal (Lei nº 7.780, de 22 de junho de 1989) | 1 | 1989-06-23 to 1989-06-23 |
+| `lei-7784-de-1989` | Altera a redação do artigo 11 da Lei Delegada nº 4, de 26 de setembro de 1962, e dá outras providências (Lei nº 7.784, de 28 de junho de 1989) | 1 | 1989-06-29 to 1989-06-29 |
+| `lei-7785-de-1989` | Autoriza a abertura de crédito extraordinário, em favor da Secretaria-Geral do Ministério do Interior, no valor de NCz$ 5.000.000,00, para as situações que especifica (Lei nº 7.785, de 28 de junho de 1989) | 1 | 1989-06-29 to 1989-06-29 |
+| `lei-7786-de-1989` | Altera o art. 5º do Decreto-Lei nº 2.290, de 21 de novembro de 1986, modificado pelo Decreto-Lei nº 2.306, de 18 de dezembro de 1986 (Lei nº 7.786, de 29 de junho de 1989) | 1 | 1989-06-30 to 1989-06-30 |
+| `lei-7787-de-1989` | Dispõe sobre alterações na legislação de custeio da Previdência Social e dá outras providências (Lei nº 7.787, de 30 de junho de 1989) | 1 | 1993-07-07 to 1993-07-07 |
+| `lei-7789-de-1989` | Dispõe sobre o salário mínimo (Lei nº 7.789, de 3 de julho de 1989) | 1 | 2006-07-10 to 2006-07-10 |
+| `lei-7792-de-1989` | Limita em dez o número de Zona de Processamento de Exportações (ZPE) (Lei nº 7.792, de 4 de julho de 1989) | 1 | 1990-01-08 to 1990-01-08 |
+| `lei-7793-de-1989` | Autoriza a Petrobrás Química S.A. - PETROQUISA a participar do capital de sociedade do Pólo Petroquímico do Rio de Janeiro (Lei nº 7.793, de 4 de julho de 1989) | 1 | 1989-07-05 to 1989-07-05 |
+| `lei-7794-de-1989` | Altera a Lei nº 5.107, de 13 de setembro de 1966, que criou o Fundo de Garantia do Tempo de Serviço, e a Lei nº 6.919, de 2 de junho de 1981, que faculta a extensão do regime do FGTS aos diretores não empregados (Lei nº 7.794, de 10 de julho de 1989) | 1 | 1989-07-11 to 1989-07-11 |
+| `lei-7795-de-1989` | Altera o art. 8º da Lei nº 5.809, de 10 de outubro de 1972, que dispõe sobre a retribuição e direitos do pessoal civil e militar em serviço da União no exterior (Lei nº 7.795, de 10 de julho de 1989) | 1 | 1989-07-11 to 1989-07-11 |
+| `lei-7798-de-1989` | Altera a legislação do Imposto sobre Produtos Industrializados - IPI e dá outras providências (Lei nº 7.798, de 10 de julho de 1989) | 1 | 2001-08-27 to 2001-08-27 |
+| `lei-7800-de-1989` | Dispõe sobre as diretrizes orçamentárias para o ano de 1990, e dá outras providências (Lei nº 7.800, de 10 de julho de 1989) | 1 | 1990-06-21 to 1990-06-21 |
+| `lei-7801-de-1989` | Expede normas de ajustamento do Programa de Estabilização Econômica, de que trata a Lei nº 7.730 de 31 de janeiro de 1989 (Lei nº 7.801, de 11 de julho de 1989) | 1 | 1991-01-04 to 1991-01-04 |
+| `lei-7805-de-1989` | Altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967, cria o regime de permissão de lavra garimpeira, extingue o regime de matrícula, e dá outras providências (Lei nº 7.805, de 18 de julho de 1989) | 1 | 1989-07-20 to 1989-07-20 |
+| `lei-7807-de-1989` | Dispõe sobre a revisão dos vencimentos básicos da Magistratura do Tribunal de Contas da União e dos Membros do Ministério Público junto ao mesmo Tribunal, e dá outras providências (Lei nº 7.807, de 20 de julho de 1989) | 1 | 1989-07-21 to 1989-07-21 |
+| `lei-7808-de-1989` | Dispõe sobre a revisão dos vencimentos básicos da Magistratura Federal, e dá outras providências (Lei nº 7.808, de 20 de julho de 1989) | 1 | 1989-07-21 to 1989-07-21 |
+| `lei-7809-de-1989` | Dispõe sobre a revisão dos vencimentos básicos dos Membros do Ministério Público da União, e dá outras providências (Lei nº 7.809, de 20 de julho de 1989) | 1 | 1989-07-21 to 1989-07-21 |
+| `lei-7814-de-1989` | Altera disposições do Plano Único de Classificação e Retribuição de Cargos e Empregos aprovado pelo Decreto nº 94.664, de 23 de julho de 1987 (Lei nº 7.814, de 8 de setembro de 1989) | 1 | 1989-09-11 to 1989-09-11 |
+| `lei-7815-de-1989` | Fixa o efetivo da Polícia Militar de Roraima (Lei nº 7.815, de 12 de setembro de 1989) | 1 | 1989-09-13 to 1989-09-13 |
+| `lei-7816-de-1989` | Dispõe sobre a criação de empregos nas Escolas Técnicas Federais e dá outras providências (Lei nº 7.816, de 12 de setembro de 1989) | 1 | 1989-09-13 to 1989-09-13 |
+| `lei-7817-de-1989` | Dispõe sobre o controle prévio nas exportações de açúcar, de álcool, de mel rico e de mel residual (melaço) (Lei nº 7.817, de 15 de setembro de 1989) | 1 | 1989-09-16 to 1989-09-16 |
+| `lei-7819-de-1989` | Dispõe sobre a criação de cargos no Quadro Permanente de Pessoal da Secretaria do Tribunal Regional do Trabalho da 16ª Região, com sede em São Luís - MA, e dá outras providências (Lei nº 7.819, de 15 de setembro de 1989) | 1 | 1989-09-18 to 1989-09-18 |
+| `lei-7822-de-1989` | Extingue cargos, empregos e claros de lotação nos órgãos da Administração Federal Ddreta, nas autarquias e nas fundações públicas (Lei nº 7.822, de 20 de setembro de 1989) | 1 | 1989-09-21 to 1989-09-21 |
+| `lei-7827-de-1989` | Regulamenta o art. 159, inciso I, alínea c, da Constituição Federal, institui o Fundo Constitucional de Financiamento do Norte - FNO, o Fundo Constitucional de Financiamento do Nordeste - FNE e o Fundo Constitucional... (Lei nº 7.827, de 27 de setembro de 1989) | 1 | 2025-04-30 to 2025-04-30 |
+| `lei-7829-de-1989` | Autoriza Poder Executivo a abrir ao Orçamento Fiscal da União créditos adicionais, até o limite de NCz$ 54.596.413,00 (Lei nº 7.829, de 28 de setembro de 1989) | 1 | 1989-09-29 to 1989-09-29 |
+| `lei-7830-de-1989` | Dispõe sobre a política salarial dos servidores civis e militares da Administração Federal direta, das autarquias, das fundações públicas e dos extintos Territórios Federais, a dá outras providências (Lei nº 7.830, de 28 de setembro de 1989) | 1 | 1989-09-29 to 1989-09-29 |
+| `lei-7840-de-1989` | Autoriza a abertura de crédito extraordinário, em favor da Secretaria-Geral do Ministério do Interior, no valor de NCz$ 10.000.000,00, para as situações que especifica (Lei nº 7.840, de 13 de outubro de 1989) | 1 | 1989-10-16 to 1989-10-16 |
+| `lei-7841-de-1989` | Revoga o art. 358 da Lei nº 3.071, de 1º de janeiro de 1916 - Código Civil e altera dispositivos da Lei nº 6.515, de 26 de dezembro de 1977 (Lei nº 7.841, de 17 de outubro de 1989) | 1 | 1989-10-18 to 1989-10-18 |
+| `lei-7842-de-1989` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 12ª Região, cria cargos e dá outras providências (Lei nº 7.842, de 18 de outubro de 1989) | 1 | 1989-10-19 to 1989-10-19 |
+| `lei-7843-de-1989` | Dispõe sobre a atualização monetária das obrigações que menciona, e dá outras providências (Lei nº 7.843, de 18 de outubro de 1989) | 1 | 1989-10-19 to 1989-10-19 |
+| `lei-7844-de-1989` | Disciplina o inciso LXXVI do art. 5° da Constituição da República Federativa do Brasil, alterando a redação do art. 30 da Lei n° 6.015, de 31 de dezembro de 1973 (Lei nº 7.844, de 18 de outubro de 1989) | 1 | 1989-10-19 to 1989-10-19 |
+| `lei-7845-de-1989` | Altera descritores de atividades do Ministério da Educação, constantes do Orçamento Fiscal da União (Lei nº 7.845, de 18 de outubro de 1989) | 1 | 1989-10-19 to 1989-10-19 |
+| `lei-7847-de-1989` | Dispõe sobre a concessão de bolsa-auxílio ao atleta amador, e dá outras providências (Lei nº 7.847, de 18 de outubro de 1989) | 1 | 1989-10-19 to 1989-10-19 |
+| `lei-7855-de-1989` | Altera a Consolidação das Leis do Trabalho, atualiza os valores das multas trabalhistas, amplia sua aplicação, institui o Programa de Desenvolvimento do Sistema Federal de Inspeção do Trabalho e dá outras providências (Lei nº 7.855, de 24 de outubro de 1989) | 1 | 2020-04-20 to 2020-04-20 |
+| `lei-7865-de-1989` | Altera a redação do inciso I, alínea b, do art. 32, da Lei n° 7.729, de 16 de janeiro de 1989, para incluir o Município de José de Freitas na jurisdição da Junta de Conciliação e Julgamento de Teresina - PI (Lei nº 7.865, de 31 de outubro de 1989) | 1 | 1989-11-01 to 1989-11-01 |
+| `lei-7912-de-1989` | Dispõe sobre o cômputo do tempo de exercício de função retribuída por Gratificação de Representação de Gabinete para os fins que menciona (Lei nº 7.912, de 7 de dezembro de 1989) | 1 | 1989-12-11 to 1989-12-11 |
+| `lei-7914-de-1989` | Revoga dispositivos do Código Eleitoral e dá outras providências (Lei nº 7.914, de 7 de dezembro de 1989) | 1 | 1989-12-11 to 1989-12-11 |
+| `lei-7915-de-1989` | Dispõe sobre a transferência das ações representativas do capital da Nuclebrás Engenharia S.A. - NUCLEN, da Nuclebrás Equipamentos Pesados S.A. - NUCLEP e do acervo do Centro de Desenvolvimento de Tecnologia Nuclear... (Lei nº 7.915, de 7 de dezembro de 1989) | 1 | 1989-12-11 to 1989-12-11 |
+| `lei-7919-de-1989` | Inscreve os nomes de Tiradentes e Deodoro da Fonseca no Livro dos Heróis da Pátria (Lei nº 7.919, de 11 de dezembro de 1989) | 1 | 1989-12-12 to 1989-12-12 |
+| `lei-7992-de-1990` | Cria cargos no Quadro de Pessoal da Secretaria do Tribunal Superior do Trabalho e dá outras providências (Lei nº 7.992, de 3 de janeiro de 1990) | 1 | 1990-01-04 to 1990-01-04 |
+| `lei-7993-de-1990` | Dá nova redação ao art. 1º da Lei nº 7.792, de 4 de julho de 1989, que limita o número de Zonas de Processamento de Exportações - ZPEs, e dá outras providências (Lei nº 7.993, de 5 de janeiro de 1990) | 1 | 1990-01-08 to 1990-01-08 |
+| `lei-7994-de-1990` | Inclui a Categoria de Inspetor de Segurança Judiciária no Grupo-Atividades de Apoio Judiciário do Quadro de Pessoal Permanente da Secretaria do Tribunal de Justiça do Distrito Federal e dos Territórios, e dá outras... (Lei nº 7.994, de 5 de janeiro de 1990) | 1 | 1990-01-08 to 1990-01-08 |
+| `lei-7995-de-1990` | Dispõe sobre a remuneração de servidores civis do Poder Executivo, na Administração Direta e nas autarquias, e dá outras providências (Lei nº 7.995, de 9 de janeiro de 1990) | 1 | 1991-08-15 to 1991-08-15 |
+| `lei-7996-de-1990` | Faculta a utilização, nos exercícios seguintes, do remanescente de autorizações para operações de crédito (Lei nº 7.996, de 9 de janeiro de 1990) | 1 | 1990-01-10 to 1990-01-10 |
+| `lei-7997-de-1990` | Autoriza o Poder Executivo a criar o Conselho Nacional do Carvão, e dá outras providências (Lei nº 7.997, de 11 de janeiro de 1990) | 1 | 1990-01-12 to 1990-01-12 |
+| `lei-8007-de-1990` | Dispõe sobre a aplicação dos arts. 4º e 5º da Lei nº 7.988, de 28 de dezembro de 1989 (Lei nº 8.007, de 22 de março de 1990) | 1 | 1988-07-30 to 1988-07-30 |
+| `lei-8008-de-1990` | Equipara a venda de produto no mercado interno à exportação, para efeitos fiscais (Lei nº 8.008, de 22 de março de 1990) | 1 | 1990-03-23 to 1990-03-23 |
+| `lei-8011-de-1990` | Dispõe sobre a alienação de bens imóveis da União situados em Brasília - DF, e dá outra providências (Lei nº 8.011, de 4 de abril de 1990) | 1 | 1990-04-06 to 1990-04-06 |
+| `lei-8012-de-1990` | Dispõe sobre o pagamento de tributos de competência da União (Lei nº 8.012, de 4 de abril de 1990) | 1 | 1990-12-28 to 1990-12-28 |
+| `lei-8013-de-1990` | Altera os arts. 7º, 8º e 9º do Decreto-Lei nº 2.432, de 17 de maio de 1988, aprovado pelo Decreto Legislativo nº 35, de 13 de junho de 1989, que instituiu a Reserva Nacional de Compensação de Remuneração (Rencor) (Lei nº 8.013, de 6 de abril de 1990) | 1 | 1990-04-09 to 1990-04-09 |
+| `lei-8014-de-1990` | Dispõe sobre a tributação, pelo Imposto de Renda, dos ganhos líquidos obtidos em bolsas de valores, de mercadorias, de futuros e assemelhados (Lei nº 8.014, de 6 de abril de 1990) | 1 | 1990-04-07 to 1990-04-07 |
+| `lei-8015-de-1990` | Autoriza a criação de Zonas de Processamento de Exportação e dá outras providências (Lei nº 8.015, de 7 de abril de 1990) | 1 | 1990-01-08 to 1990-01-08 |
+| `lei-8016-de-1990` | Dispõe sobre a entrega das quotas de participação dos Estados e do Distrito Federal na arrecadação do Imposto sobre Produtos Industrializados de que trata o inciso II do art. 159 da Constituição Federal (Lei nº 8.016, de 8 de abril de 1990) | 1 | 1990-04-10 to 1990-04-10 |
+| `lei-8017-de-1990` | Autoriza o Poder Executivo a proceder ao empenho das despesas que menciona (Lei nº 8.017, de 8 de abril de 1990) | 1 | 1990-04-10 to 1990-04-10 |
+| `lei-8018-de-1990` | Dispõe sobre criação de Certificados de Privatização, e dá outras providências (Lei nº 8.018, de 8 de abril de 1990) | 1 | 1990-04-10 to 1990-04-10 |
+| `lei-8022-de-1990` | Altera o sistema de administração das receitas federais, e dá outras providências (Lei nº 8.022, de 12 de abril de 1990) | 1 | 1990-04-13 to 1990-04-13 |
+| `lei-8024-de-1990` | Institui o cruzeiro, dispõe sobre a liquidez dos ativos financeiros e dá outras providências (Lei nº 8.024, de 12 de abril de 1990) | 1 | 1990-11-01 to 1990-11-01 |
+| `lei-8026-de-1990` | Dispõe sobre a aplicação da pena de demissão a funcionário público (Lei nº 8.026, de 12 de abril de 1990) | 1 | 1990-04-13 to 1990-04-13 |
+| `lei-8027-de-1990` | Dispõe sobre normas de conduta dos servidores públicos civis da União, das Autarquias e das Fundações Públicas, e dá outras providências (Lei nº 8.027, de 12 de abril de 1990) | 1 | 1990-04-13 to 1990-04-13 |
+| `lei-8035-de-1990` | Revoga as Medidas Provisórias nºs 153 e 156, ambas de 15 de março de 1990, e dá outras providências (Lei nº 8.035, de 27 de abril de 1990) | 1 | 1990-04-30 to 1990-04-30 |
+| `lei-8037-de-1990` | Altera os arts. 176 e 177 da Lei nº 4.737, de 15 de julho de 1965, que instituiu o Código Eleitoral, com as alterações promovidas pelas Leis nºs 6.989, de 5 de maio de 1982 e 7.332, de 1º de julho de 1985, e dá... (Lei nº 8.037, de 25 de maio de 1990) | 1 | 1990-05-28 to 1990-05-28 |
+| `lei-8041-de-1990` | Dispõe sobre a organização e o funcionamento do Conselho da República (Lei nº 8.041, de 5 de junho de 1990) | 1 | 1990-06-06 to 1990-06-06 |
+| `lei-8043-de-1990` | Dispõe sobre a desapropriação de imóvel no Município de Jaboatão, Estado de Pernambuco, para atender ao deslocamento das famílias que atualmente residem em áreas do Parque Histórico Nacional dos Guararapes (Lei nº 8.043, de 15 de junho de 1990) | 1 | 1990-06-16 to 1990-06-16 |
+| `lei-8046-de-1990` | Dispõe sobre a transferência de bens imóveis para o patrimônio das Instituições de Ensino Superior que menciona, e dá outras providências (Lei nº 8.046, de 15 de junho de 1990) | 1 | 1990-06-16 to 1990-06-16 |
+| `lei-8048-de-1990` | Concede anistia às pessoas envolvidas nos fatos que menciona (Lei nº 8.048, de 15 de junho de 1990) | 1 | 1990-06-16 to 1990-06-16 |
+| `lei-8049-de-1990` | Altera dispositivos da Lei nº 3.071, de 1º de janeiro de 1916 - Código Civil Brasileiro, que dispõem sobre a herança jacente e a sucessão legítima (Lei nº 8.049, de 20 de junho de 1990) | 1 | 1990-06-21 to 1990-06-21 |
+| `lei-8050-de-1990` | Dá nova redação ao art. 52, § 2º, da Lei nº 7.800, de 10 de julho de 1989 (Lei nº 8.050, de 20 de junho de 1990) | 1 | 1990-06-21 to 1990-06-21 |
+| `lei-8052-de-1990` | Altera a Lei nº 5.108, de 21 de setembro de 1966, que dispõe sobre o Código Nacional de Trânsito (Lei nº 8.052, de 20 de junho de 1990) | 1 | 1990-06-21 to 1990-06-21 |
+| `lei-8057-de-1990` | Dispõe sobre a competência das autoridades que menciona e dá outras providências (Lei nº 8.057, de 29 de junho de 1990) | 1 | 1990-07-02 to 1990-07-02 |
+| `lei-8058-de-1990` | Isenta do Imposto sobre Produtos Industrializados (IPI) as saídas de veículos automotores, máquinas, equipamentos, bem como de suas partes e peças separadas, quando destinados à utilização nas atividades dos Corpos... (Lei nº 8.058, de 2 de julho de 1990) | 1 | 1990-07-03 to 1990-07-03 |
+| `lei-8059-de-1990` | Dispõe sobre a pensão especial devida aos ex-combatentes da Segunda Guerra Mundial e a seus dependentes (Lei nº 8.059, de 4 de julho de 1990) | 1 | 1990-07-05 to 1990-07-05 |
+| `lei-8067-de-1990` | Altera dispositivo da Lei nº 6.389, de 9 de dezembro de 1976, que fixa as referências de salário dos empregados do Grupo-Processamento de Dados (Lei nº 8.067, de 12 de julho de 1990) | 1 | 1990-07-13 to 1990-07-13 |
+| `lei-8068-de-1990` | Acrescenta parágrafo ao art. 6º da Lei nº 8.025, de 12 de abril de 1990 (Lei nº 8.068, de 13 de julho de 1990) | 1 | 1990-07-16 to 1990-07-16 |
+| `lei-8070-de-1990` | Prorroga a vigência do I Plano Nacional de Informática e Automação - Planin (Lei nº 8.070, de 16 de julho de 1990) | 1 | 1990-07-17 to 1990-07-17 |
+| `lei-8071-de-1990` | Dispõe sobre os efetivos do Exército em tempo de paz (Lei nº 8.071, de 17 de julho de 1990) | 1 | 1990-07-18 to 1990-07-18 |
+| `lei-8073-de-1990` | Estabelece a Política Nacional de Salários e dá outras providências (Lei nº 8.073, de 30 de julho de 1990) | 1 | 1990-07-31 to 1990-07-31 |
+| `lei-8074-de-1990` | Dispõe sobre as diretrizes orçamentárias para o ano de 1991 e dá outras providências (Lei nº 8.074, de 31 de julho de 1990) | 1 | 1991-06-19 to 1991-06-19 |
+| `lei-8075-de-1990` | Dispõe sobre a extinção do Selo Pedágio e a instituição de mecanismos de financiamento para o setor rodoviário (Lei nº 8.075, de 16 de agosto de 1990) | 1 | 1990-08-17 to 1990-08-17 |
+| `lei-8076-de-1990` | Estabelece hipóteses nas quais fica suspensa a concessão de medidas liminares, e dá outras providências (Lei nº 8.076, de 23 de agosto de 1990) | 1 | 1990-08-24 to 1990-08-24 |
+| `lei-8077-de-1990` | Autoriza o Poder Executivo a conceder pensão especial à Senhora Maria Reginalda Vieira Raduan (Lei nº 8.077, de 4 de setembro de 1990) | 1 | 1990-09-05 to 1990-09-05 |
+| `lei-8079-de-1990` | Altera a redação do § 2º do art. 184 e acrescenta parágrafo único ao art. 240 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil (Lei nº 8.079, de 13 de setembro de 1990) | 1 | 1990-09-14 to 1990-09-14 |
+| `lei-8081-de-1990` | Estabelece os crimes e as penas aplicáveis aos atos discriminatórios ou de preconceito de raça, cor, religião, etnia ou procedência nacional, praticados pelos meios de comunicação ou por publicação de qualquer natureza (Lei nº 8.081, de 21 de setembro de 1990) | 1 | 1997-05-14 to 1997-05-14 |
+| `lei-8083-de-1990` | Faz a revisão dos Orçamentos da União para 1990 e dá outras providências (Lei nº 8.083, de 19 de outubro de 1990) | 1 | 1990-10-22 to 1990-10-22 |
+| `lei-8084-de-1990` | Reprograma o Orçamento de Investimento das Empresas Estatais para 1990 e dá outras providências (Lei nº 8.084, de 23 de outubro de 1990) | 1 | 1990-10-24 to 1990-10-24 |
+| `lei-8085-de-1990` | Dispõe sobre o Imposto de Importação (Lei nº 8.085, de 23 de outubro de 1990) | 1 | 2001-08-27 to 2001-08-27 |
+| `lei-8087-de-1990` | Revoga a Lei nº. 7.320, de 11 de junho de 1985, que dispõe sobre antecipação de comemoração de feriados e dá outras providências (Lei nº 8.087, de 29 de outubro de 1990) | 1 | 1990-10-30 to 1990-10-30 |
+| `lei-8088-de-1990` | Dispõe sobre a atualização do Bônus do Tesouro Nacional e dos depósitos de poupança e dá outras providências (Lei nº 8.088, de 30 de outubro de 1990) | 1 | 1994-06-22 to 1994-06-22 |
+| `lei-8090-de-1990` | Concede antecipação de reajuste salarial aos servidores civis e militares do Poder Executivo, na Administração direta, nas autarquias, inclusive as em regime especial, nas fundações públicas e nos extintos Territórios (Lei nº 8.090, de 13 de novembro de 1990) | 1 | 1996-01-10 to 1996-01-10 |
+| `lei-8091-de-1990` | Concede antecipação de reajuste salarial aos servidores civis e militares do Poder Executivo, na Administração direta, nas autarquias, inclusive as em regime especial, nas fundações públicas e nos extintos Territórios (Lei nº 8.091, de 14 de novembro de 1990) | 1 | 1990-11-16 to 1990-11-16 |
+| `lei-8096-de-1990` | Dispõe sobre a Comercialização e Industrialização do Trigo, e dá outras providências. (Mensagem de veto) (Lei nº 8.096, de 21 de novembro de 1990) | 1 | 1990-11-22 to 1990-11-22 |
+| `lei-8101-de-1990` | Dá nova redação ao art. 11 da Lei n°8.029, de 12 de abril de 1990 (Lei nº 8.101, de 6 de dezembro de 1990) | 1 | 1990-12-10 to 1990-12-10 |
+| `lei-8113-de-1990` | Dispõe sobre a natureza jurídica do Instituto Brasileiro do Patrimônio Cultural - IBPC e da Biblioteca Nacional (Lei nº 8.113, de 12 de dezembro de 1990) | 1 | 1990-12-13 to 1990-12-13 |
+| `lei-8116-de-1990` | Transforma funções do Grupo-Direção e Assistência Intermediárias em funções de Direção Intermediária e dá outras providências (Lei nº 8.116, de 13 de dezembro de 1990) | 1 | 1990-12-14 to 1990-12-14 |
+| `lei-8117-de-1990` | Dispõe sobre o controle prévio das exportações e importações de açúcar, álcool, mel rico ou mel residual (melaço) (Lei nº 8.117, de 13 de dezembro de 1990) | 1 | 1990-12-14 to 1990-12-14 |
+| `lei-8127-de-1990` | Prorroga o prazo a que se refere o art. 1° da Lei nº 8.056, de 28 de junho de 1990, e dá nova redação ao art. 33 do Decreto-Lei n° 73, de 21 de novembro de 1966 (Lei nº 8.127, de 20 de dezembro de 1990) | 1 | 1990-12-21 to 1990-12-21 |
+| `lei-8128-de-1990` | Determina a conversão para cruzeiros de recursos em cruzados novos de valor igual ou inferior a NCz$ 5.000,00 e dá outras providências (Lei nº 8.128, de 20 de dezembro de 1990) | 1 | 1990-12-21 to 1990-12-21 |
+| `lei-8130-de-1990` | Reajusta pensão especial concedida pela Lei n° 3.792, de 2 de agosto de 1960, a CARMEM ROCHA NUNES, viúva do ex-Deputado Federal Coaracy Gentil Monteiro Nunes (Lei nº 8.130, de 21 de dezembro de 1990) | 1 | 1990-12-24 to 1990-12-24 |
+| `lei-8131-de-1990` | Dá nova redação aos arts. 144, 159, 163 e 210 do Decreto-Lei n° 7.661, de 21 de junho de 1945 (Lei de Falências) (Lei nº 8.131, de 24 de dezembro de 1990) | 1 | 1990-12-26 to 1990-12-26 |
+| `lei-8132-de-1990` | Altera a redação dos arts. 2°, 5°, 6°, 8°, 13 e 28, revoga o art. 14, da Lei n° 6.729, de 28 de novembro de 1979, e dá outras providências (Lei nº 8.132, de 26 de dezembro de 1990) | 1 | 1990-12-27 to 1990-12-27 |
+| `lei-8133-de-1990` | Altera a Lei n° 7.798, de 10 de julho de 1989, e dá outras providências (Lei nº 8.133, de 27 de dezembro de 1990) | 1 | 1990-12-28 to 1990-12-28 |
+| `lei-8135-de-1990` | Transfere para o Banco Central do Brasil a responsabilidade pelo passivo em cruzados novos das instituições financeiras em regime de liquidação extrajudicial, e dá outras providências (Lei nº 8.135, de 27 de dezembro de 1990) | 1 | 1990-12-28 to 1990-12-28 |
+| `lei-8146-de-1990` | Introduz modificação na estrutura organizacional da 4ª Região da Justiça Federal, dá competência ao respectivo Tribunal Regional e determina outras providências (Lei nº 8.146, de 28 de dezembro de 1990) | 1 | 1990-12-31 to 1990-12-31 |
+| `lei-8147-de-1990` | Dispõe sobre a alíquota do Finsocial (Lei nº 8.147, de 28 de dezembro de 1990) | 1 | 1990-12-31 to 1990-12-31 |
+| `lei-8152-de-1990` | Dispõe sobre a criação das Procuradorias da República nos Estados de Roraima e Amapá e dá outras providências (Lei nº 8.152, de 28 de dezembro de 1990) | 1 | 1990-12-31 to 1990-12-31 |
+| `lei-8154-de-1990` | Altera a redação do § 3° do art. 8° da Lei n° 8.029, de 12 de abril de 1990 e dá outras providências (Lei nº 8.154, de 28 de dezembro de 1990) | 1 | 1990-12-31 to 1990-12-31 |
+| `lei-8160-de-1991` | Dispõe sobre a caracterização de símbolo que permita a identificação de pessoas portadoras de deficiência auditiva (Lei nº 8.160, de 8 de janeiro de 1991) | 1 | 1991-01-09 to 1991-01-09 |
+| `lei-8163-de-1991` | Cria cargos na Procuradoria Regional do Trabalho da 14ª Região, em Porto Velho-RO, e dá outras providências (Lei nº 8.163, de 9 de janeiro de 1991) | 1 | 1991-01-10 to 1991-01-10 |
+| `lei-8165-de-1991` | Autoriza a União Federal e o Instituto Nacional do Seguro Social (INSS) a permutarem frações ideais de imóveis que menciona, situados nos Municípios de Caxias do Sul e de Pelotas, Estado do Rio Grande do Sul (Lei nº 8.165, de 11 de janeiro de 1991) | 1 | 1991-02-28 to 1991-02-28 |
+| `lei-8166-de-1991` | Dispõe sobre a não incidência do Imposto de Renda sobre lucros ou dividendos distribuídos a residentes ou domiciliados no exterior, doados a instituições sem fins lucrativos (Lei nº 8.166, de 11 de janeiro de 1991) | 1 | 1991-01-14 to 1991-01-14 |
+| `lei-8168-de-1991` | Dispõe sobre as funções de confiança a que se refere a Lei nº 7.596, de 10 de abril de 1987, e dá outras providências (Lei nº 8.168, de 16 de janeiro de 1991) | 1 | 2012-12-31 to 2012-12-31 |
+| `lei-8169-de-1991` | Autoriza a utilização de recursos do Fundo de Renovação da Marinha Mercante em favor da Companhia de Navegação Lloyd Brasileiro - LLOYDBRÁS (Lei nº 8.169, de 17 de janeiro de 1991) | 1 | 1991-01-18 to 1991-01-18 |
+| `lei-8173-de-1991` | Dispõe sobre o Plano Plurianual para o qüinqüênio 1991/1995 (Lei nº 8.173, de 30 de janeiro de 1991) | 1 | 1991-01-31 to 1991-01-31 |
+| `lei-8174-de-1991` | Dispõe sobre princípios de Política Agrícola, estabelecendo atribuições ao Conselho Nacional de Política Agrícola (CNPA), tributação compensatória de produtos agrícolas, amparo ao pequeno produtor e regras de fixação... (Lei nº 8.174, de 30 de janeiro de 1991) | 1 | 1991-01-31 to 1991-01-31 |
+| `lei-8180-de-1991` | Dispensa a realização de vistoria judicial na hipótese que menciona (Lei nº 8.180, de 18 de março de 1991) | 1 | 1991-04-19 to 1991-04-19 |
+| `lei-8184-de-1991` | Dispõe sobre a periodicidade dos Censos Demográficos e dos Censos Econômicos e dá outras providências (Lei nº 8.184, de 10 de maio de 1991) | 1 | 1991-05-13 to 1991-05-13 |
+| `lei-8188-de-1991` | Dispõe sobre o enquadramento dos servidores da extinta Fundação Projeto Rondon, redistribuídos para órgãos da Administração Federal direta, autarquias e fundações públicas (Lei nº 8.188, de 1º de junho de 1991) | 1 | 1991-06-03 to 1991-06-03 |
+| `lei-8189-de-1991` | Autoriza a União a doar ao Município de Patrocínio, Estado de Minas Gerais, o terreno que especifica (Lei nº 8.189, de 4 de junho de 1991) | 1 | 1991-07-20 to 1991-07-20 |
+| `lei-8190-de-1991` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 5ª Região, cria cargos e dá outras providências (Lei nº 8.190, de 7 de junho de 1991) | 1 | 1991-06-10 to 1991-06-10 |
+| `lei-8191-de-1991` | Institui isenção do Imposto sobre Produtos Industrializados (IPI) e depreciação acelerada para máquinas, equipamentos e dá outras providências (Lei nº 8.191, de 11 de junho de 1991) | 1 | 1991-06-12 to 1991-06-12 |
+| `lei-8192-de-1991` | Reajusta pensão especial concedida pela Lei n° 5.347, de 3 de novembro de 1967, ao Dr. Speridião Gabínio de Carvalho, revertida à viúva Ana Guimarães (Lei nº 8.192, de 12 de junho de 1991) | 1 | 1991-06-13 to 1991-06-13 |
+| `lei-8193-de-1991` | Complementa e introduz alterações em dispositivo da Lei de Diretrizes Orçamentárias (Lei n° 8.074, de 31 de julho de 1990) (Lei nº 8.193, de 18 de junho de 1991) | 1 | 1991-06-19 to 1991-06-19 |
+| `lei-8195-de-1991` | Altera a Lei n° 5.194, de 24 de dezembro de 1966, que regula o exercício das profissões de Engenheiro, Arquiteto e Engenheiro Agrônomo, dispondo sobre eleições diretas para Presidentes dos Conselhos Federal e... (Lei nº 8.195, de 26 de junho de 1991) | 1 | 1991-06-27 to 1991-06-27 |
+| `lei-8198-de-1991` | Dispõe sobre os vencimentos, salários e demais retribuições de servidores que menciona, e dá outras providências (Lei nº 8.198, de 28 de junho de 1991) | 1 | 1991-07-01 to 1991-07-01 |
+| `lei-8205-de-1991` | Autoriza a emissão extraordinária de Títulos Públicos Federais, no montante de Cr$205.500.000.000,00 e a abertura de créditos adicionais, em favor da unidade "Recursos sob a Supervisão do Ministério da Economia,... (Lei nº 8.205, de 8 de julho de 1991) | 1 | 1991-07-09 to 1991-07-09 |
+| `lei-8206-de-1991` | Autoriza o Instituto Nacional do Seguro Social (INSS) a doar à Diocese de Pinheiro, no Estado do Maranhão, o imóvel que menciona (Lei nº 8.206, de 10 de julho de 1991) | 1 | 1991-07-12 to 1991-07-12 |
+| `lei-8207-de-1991` | Autoriza o Departamento Nacional de Obras Contra as Secas (DNOCS), Autarquia vinculada ao Ministério da Agricultura e Reforma Agrária, a doar o imóvel que menciona, situado no Município de Coremas, Estado da Paraíba (Lei nº 8.207, de 11 de julho de 1991) | 1 | 1991-07-12 to 1991-07-12 |
+| `lei-8208-de-1991` | Autoriza o Departamento Nacional de Obras Contra as Secas (DNOCS), autarquia vinculada ao Ministério da Agricultura e Reforma Agrária, a doar o imóvel que menciona situado no Município de Coremas, Estado da Paraíba (Lei nº 8.208, de 16 de julho de 1991) | 1 | 1991-07-17 to 1991-07-17 |
+| `lei-8211-de-1991` | Dispõe sobre as diretrizes orçamentárias para o ano de 1992, e dá outras providências (Lei nº 8.211, de 22 de julho de 1991) | 1 | 1992-07-24 to 1992-07-24 |
+| `lei-8216-de-1991` | Dispõe sobre antecipação a ser compensada quando da revisão geral da remuneração dos servidores públicos, corrige e reestrutura tabelas de vencimentos e dá outras providências (Lei nº 8.216, de 13 de agosto de 1991) | 1 | 2021-09-17 to 2021-09-17 |
+| `lei-8217-de-1991` | Altera a composição do Tribunal Regional do Trabalho da 8ª Região e dá outras providências (Lei nº 8.217, de 27 de agosto de 1991) | 1 | 1991-08-28 to 1991-08-28 |
+| `lei-8224-de-1991` | Dispõe sobre os vencimentos dos Ministros do Supremo Tribunal Federal e dá outras providências (Lei nº 8.224, de 9 de setembro de 1991) | 1 | 1991-09-10 to 1991-09-10 |
+| `lei-8225-de-1991` | Altera os valores dos vencimentos dos cargos efetivos e comissionados da Secretaria do Supremo Tribunal Federal e dá outras providências (Lei nº 8.225, de 9 de setembro de 1991) | 1 | 1991-09-10 to 1991-09-10 |
+| `lei-8226-de-1991` | Dispõe sobre a revisão dos vencimentos básicos dos Ministros do Superior Tribunal de Justiça, dos Juízes dos Tribunais Regionais Federais, dos Juízes Federais e dos Juízes Federais Substitutos da Justiça Federal, e... (Lei nº 8.226, de 9 de setembro de 1991) | 1 | 1991-09-10 to 1991-09-10 |
+| `lei-8227-de-1991` | Dispõe sobre a revisão dos vencimentos básicos dos Ministros do Tribunal Superior do Trabalho, dos Juízes dos Tribunais Regionais do Trabalho, dos Juízes Presidentes de Juntas de Conciliação e Julgamento e dos Juízes... (Lei nº 8.227, de 9 de setembro de 1991) | 1 | 1991-09-10 to 1991-09-10 |
+| `lei-8228-de-1991` | Altera os valores dos vencimentos dos cargos efetivos e em comissão das Secretarias dos Tribunais Eleitorais e dá outras providências (Lei nº 8.228, de 9 de setembro de 1991) | 1 | 1991-09-10 to 1991-09-10 |
+| `lei-8229-de-1991` | Dispõe sobre a revisão dos vencimentos básicos dos Ministros do Superior Tribunal Militar e dos Juízes da Justiça Militar Federal, e dá outras providências (Lei nº 8.229, de 9 de setembro de 1991) | 1 | 1991-09-10 to 1991-09-10 |
+| `lei-8230-de-1991` | Dispõe sobre os vencimentos dos Membros do Ministério Público da União e dá outras providências (Lei nº 8.230, de 9 de setembro de 1991) | 1 | 1991-09-10 to 1991-09-10 |
+| `lei-8231-de-1991` | Dispõe sobre a revisão dos vencimentos básicos dos Membros da Defensoria-de-Ofício da Justiça Militar, e dá outras providências (Lei nº 8.231, de 9 de setembro de 1991) | 1 | 1991-09-10 to 1991-09-10 |
+| `lei-8232-de-1991` | Dispõe sobre a revisão dos vencimentos básicos dos Desembargadores do Tribunal de Justiça do Distrito Federal e dos Territórios, dos Juízes de Direito e dos Juízes de Direito Substituto e dá outras providências (Lei nº 8.232, de 9 de setembro de 1991) | 1 | 1991-09-10 to 1991-09-10 |
+| `lei-8234-de-1991` | Regulamenta a profissão de Nutricionista e determina outras providências (Lei nº 8.234, de 17 de setembro de 1991) | 1 | 1991-09-18 to 1991-09-18 |
+| `lei-8235-de-1991` | Dispõe sobre a reestruturação da Justiça Federal de Primeiro Grau e dá outras providências (Lei nº 8.235, de 19 de setembro de 1991) | 1 | 1991-09-20 to 1991-09-20 |
+| `lei-8236-de-1991` | Altera disposições do Código de Processo Penal Militar e da Lei da Organização Judiciária Militar (Lei nº 8.236, de 20 de setembro de 1991) | 1 | 1991-09-23 to 1991-09-23 |
+| `lei-8241-de-1991` | Autorizo o Poder Executivo a abrir ao Orçamento Fiscal da União crédito suplementar no valor de Cr$ 578.256.000,00, para os fins que especifica (Lei nº 8.241, de 7 de outubro de 1991) | 1 | 1991-10-08 to 1991-10-08 |
+| `lei-8244-de-1991` | Dispõe sobre o II Plano Nacional de Informática e Automação (Planin) (Lei nº 8.244, de 16 de outubro de 1991) | 1 | 1991-10-17 to 1991-10-17 |
+| `lei-8246-de-1991` | Autoriza o Poder Executivo a instituir o Serviço Social Autônomo Associação das Pioneiras Sociais e dá outras providências (Lei nº 8.246, de 22 de outubro de 1991) | 1 | 1991-10-23 to 1991-10-23 |
+| `lei-8250-de-1991` | Dispõe sobre o Programa Nacional de Desestatização (Lei nº 8.250, de 24 de outubro de 1991) | 1 | 1991-10-25 to 1991-10-25 |
+| `lei-8251-de-1991` | Dispõe sobre a criação das Seções Judiciárias dos Estados de Tocantins, Amapá e Roraima, reestrutura os serviços da Justiça Federal de Primeiro Grau da 1ª Região, e dá outras providências (Lei nº 8.251, de 24 de outubro de 1991) | 1 | 1991-10-25 to 1991-10-25 |
+| `lei-8252-de-1991` | Dispõe sobre a criação de Procuradorias Regionais da República, da Procuradoria da República do Estado do Tocantins, de Procuradorias em municípios do interior e dá outras providências (Lei nº 8.252, de 24 de outubro de 1991) | 1 | 1991-10-28 to 1991-10-28 |
+| `lei-8270-de-1991` | Dispõe sobre reajuste da remuneração dos servidores públicos, corrige e reestrutura tabelas de vencimentos, e dá outras providências (Lei nº 8.270, de 17 de dezembro de 1991) | 1 | 2012-08-08 to 2012-08-08 |
+| `lei-8286-de-1991` | Autoriza a Centrais Elétricas Brasileiras S.A. (Eletrobrás) a doar o bem que menciona (Lei nº 8.286, de 20 de dezembro de 1991) | 1 | 1991-12-23 to 1991-12-23 |
+| `lei-8344-de-1991` | Dá nova redação aos arts. 19, inciso VI e 23, inciso V, da Lei nº 8.028, de 12 de abril de 1990, e 19, inciso II, da Lei nº 8.029, de 12 de abril de 1990, e dá outras providências (Lei nº 8.344, de 27 de dezembro de 1991) | 1 | 1991-12-30 to 1991-12-30 |
+| `lei-8351-de-1991` | Autoriza a Companhia Vale do Rio Doce - CVRD a participar, minoritariamente, do capital social da sociedade anônima a ser constituída sob a denominação de CELMAR S.A. - Indústria de Celulose e Papel (Lei nº 8.351, de 28 de dezembro de 1991) | 1 | 1991-12-31 to 1991-12-31 |
+| `lei-8352-de-1991` | Dispõe sobre as disponibilidades financeiras do Fundo de Amparo ao Trabalhador (FAT) e dá outras providências (Lei nº 8.352, de 28 de dezembro de 1991) | 1 | 1994-07-04 to 1994-07-04 |
+| `lei-8359-de-1991` | Altera a redação do art. 44 e inclui parágrafo no art. 49 da Lei nº 8.211, de 22 de julho de 1991, e dá outras providências (Lei nº 8.359, de 28 de dezembro de 1991) | 1 | 1991-12-31 to 1991-12-31 |
+| `lei-8365-de-1991` | Autoriza o Poder Executivo a alterar a reabertura do crédito especial de que trata o Decreto de 19 de abril de 1991, em favor do Ministério da Ação Social (Lei nº 8.365, de 28 de dezembro de 1991) | 1 | 1991-12-31 to 1991-12-31 |
+| `lei-8369-de-1991` | Dispõe sobre a renúncia fiscal de que trata a Lei n° 8.191, de 11 de junho de 1991, autoriza a abertura de crédito especial e dá outras providências (Lei nº 8.369, de 30 de dezembro de 1991) | 1 | 1991-12-31 to 1991-12-31 |
+| `lei-8374-de-1991` | Dispõe sobre o Seguro Obrigatório de Danos Pessoais causados por embarcações ou por sua carga e dá outras providências (Lei nº 8.374, de 30 de dezembro de 1991) | 1 | 2024-05-17 to 2024-05-17 |
+| `lei-8388-de-1991` | Estabelece diretrizes para que a União possa realizar a consolidação e o reescalonamento de dívidas das administrações direta e indireta dos Estados, do Distrito Federal e dos Municípios e dá outras providências (Lei nº 8.388, de 30 de dezembro de 1991) | 1 | 1991-12-31 to 1991-12-31 |
+| `lei-8389-de-1991` | Institui o Conselho de Comunicação Social, na forma do art. 224 da Constituição Federal e dá outras providências (Lei nº 8.389, de 30 de dezembro de 1991) | 1 | 1991-12-31 to 1991-12-31 |
+| `lei-8390-de-1991` | Dispõe sobre a revisão geral da remuneração dos servidores públicos federais (Lei nº 8.390, de 30 de dezembro de 1991) | 1 | 1991-12-31 to 1991-12-31 |
+| `lei-8391-de-1991` | Dá nova redação a dispositivos da Lei n° 2.180, de 5 de fevereiro de 1954, que "dispõe sobre o Tribunal Marítimo", alterada pelas Leis n° 3.543, de 11 de fevereiro de 1959, 5.056, de 29 de junho de 1966, e pelo... (Lei nº 8.391, de 30 de dezembro de 1991) | 1 | 1991-12-31 to 1991-12-31 |
+| `lei-8394-de-1991` | Dispõe sobre a preservação, organização e proteção dos acervos documentais privados dos presidentes da República e dá outras providências (Lei nº 8.394, de 30 de dezembro de 1991) | 1 | 1992-01-06 to 1992-01-06 |
+| `lei-8395-de-1992` | Autoriza a Petrobrás Química S.A. (Petroquisa) a participar minoritariamente de sociedades de capitais privados no Eixo Químico do Nordeste, formado pelos Estados da Bahia, Sergipe, Alagoas, Pernambuco e Rio Grande... (Lei nº 8.395, de 2 de janeiro de 1992) | 1 | 1992-01-06 to 1992-01-06 |
+| `lei-8400-de-1992` | Reajusta a pensão especial mensal concedida às viúvas de ex-Presidentes da República (Lei nº 8.400, de 7 de janeiro de 1992) | 1 | 1992-01-08 to 1992-01-08 |
+| `lei-8403-de-1992` | Autoriza a Petróleo Brasileiro S.A. (Petrobrás) e a Petrobrás Distribuidora S.A. (BR) a, nas condições que estabelece, participarem do capital de outras sociedades (Lei nº 8.403, de 8 de janeiro de 1992) | 1 | 1992-01-09 to 1992-01-09 |
+| `lei-8404-de-1992` | Dispõe sobre a criação de Cargos em Comissão e Gratificações pela Representação de Gabinete (GRG) no Quadro do Ministério Público Federal (MPF) (Lei nº 8.404, de 8 de janeiro de 1992) | 1 | 1992-01-09 to 1992-01-09 |
+| `lei-8405-de-1992` | Autoriza o Poder Executivo a instituir como fundação pública a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e dá outras providências (Lei nº 8.405, de 9 de janeiro de 1992) | 1 | 2013-04-25 to 2013-04-25 |
+| `lei-8406-de-1992` | Dispõe sobre a publicação de informações relativas ao Fundo de Garantia do Tempo de Serviço (FGTS) pelo Ministério do Trabalho e da Previdência Social e pela Caixa Econômica Federal (Lei nº 8.406, de 9 de janeiro de 1992) | 1 | 1992-01-10 to 1992-01-10 |
+| `lei-8408-de-1992` | Dá nova redação aos dispositivos da Lei n° 6.515, de 26 de dezembro de 1977 (Lei nº 8.408, de 13 de fevereiro de 1992) | 1 | 1992-02-14 to 1992-02-14 |
+| `lei-8410-de-1992` | Altera dispositivos da Lei n° 8.028, de 12 de abril de 1990, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências (Lei nº 8.410, de 27 de março de 1992) | 1 | 1992-03-30 to 1992-03-30 |
+| `lei-8413-de-1992` | Autoriza o Banco do Brasil S.A. a constituir subsidiária na Comunidade Econômica Européia (Lei nº 8.413, de 14 de abril de 1992) | 1 | 1992-04-15 to 1992-04-15 |
+| `lei-8416-de-1992` | Dispõe sobre a reestruturação da Justiça Federal de Primeiro Grau da 3ª Região e dá outras providências (Lei nº 8.416, de 24 de abril de 1992) | 1 | 1992-04-27 to 1992-04-27 |
+| `lei-8417-de-1992` | Dispõe sobre antecipação de reajuste de remuneração dos servidores públicos federais (Lei nº 8.417, de 24 de abril de 1992) | 1 | 1992-04-27 to 1992-04-27 |
+| `lei-8418-de-1992` | Dispõe sobre a reestruturação do Tribunal Regional Federal da 3ª Região, e dá outras providências (Lei nº 8.418, de 27 de abril de 1992) | 1 | 1992-04-28 to 1992-04-28 |
+| `lei-8420-de-1992` | Introduz alterações na Lei n° 4.886, de 9 de dezembro de 1965, que regula as atividades dos representantes comerciais autônomos (Lei nº 8.420, de 8 de maio de 1992) | 1 | 1992-05-11 to 1992-05-11 |
+| `lei-8421-de-1992` | Altera a Lei n° 5.700, de 1° de setembro de 1971, que "dispõe sobre a forma e a apresentação dos Símbolos Nacionais." (Lei nº 8.421, de 11 de maio de 1992) | 1 | 1992-05-12 to 1992-05-12 |
+| `lei-8422-de-1992` | Dispõe sobre a organização de ministérios e dá outras providências. (Mensagem de Veto) (Lei nº 8.422, de 13 de maio de 1992) | 1 | 1992-05-14 to 1992-05-14 |
+| `lei-8423-de-1992` | Cria cargos de Procuradores do Trabalho de 2ª Categoria, cargos efetivos e em comissão e dá outras providências, no âmbito do Ministério Público do Trabalho (Lei nº 8.423, de 14 de maio de 1992) | 1 | 1992-05-15 to 1992-05-15 |
+| `lei-8424-de-1992` | Dispõe sobre a reestruturação da Justiça Federal de Primeiro Grau da 4ª Região e dá outras providências (Lei nº 8.424, de 19 de maio de 1992) | 1 | 1992-05-20 to 1992-05-20 |
+| `lei-8425-de-1992` | Dispõe sobre a coordenação do programa nacional destinado às comemorações do centenário de nascimento do escritor Graciliano Ramos (Lei nº 8.425, de 22 de maio de 1992) | 1 | 1992-05-25 to 1992-05-25 |
+| `lei-8426-de-1992` | Cria Junta de Conciliação e Julgamento na 4ª Região da Justiça do Trabalho e dá outras providências. Mensagem de Veto (Lei nº 8.426, de 25 de maio de 1992) | 1 | 1992-05-26 to 1992-05-26 |
+| `lei-8427-de-1992` | Dispõe sobre a concessão de subvenção econômica nas operações de crédito rural (Lei nº 8.427, de 27 de maio de 1992) | 1 | 2024-12-02 to 2024-12-02 |
+| `lei-8432-de-1992` | Dispõe sobre a criação de Juntas de Conciliação e Julgamento nas Regiões da Justiça do Trabalho, define jurisdições e dá outras providências (Lei nº 8.432, de 11 de junho de 1992) | 1 | 1999-10-21 to 1999-10-21 |
+| `lei-8433-de-1992` | Dispõe sobre a criação de cargos nas novas Unidades de Ensino Técnico e Agrotécnico (Lei nº 8.433, de 16 de junho de 1992) | 1 | 1992-06-17 to 1992-06-17 |
+| `lei-8434-de-1992` | Dispõe sobre a criação de cargos de provimento efetivo e em comissão, nos Quadros Permanentes das Secretarias dos Tribunais Regionais Eleitorais do Amapá, Roraima e Tocantins e dá outras providências (Lei nº 8.434, de 16 de junho de 1992) | 1 | 1992-06-17 to 1992-06-17 |
+| `lei-8435-de-1992` | Reajusta pensão especial concedida pela Lei n° 7.656, de 24 de fevereiro de 1988, a Dona Maria Carolina Vasconcelos Freire (Lei nº 8.435, de 22 de junho de 1992) | 1 | 1992-06-23 to 1992-06-23 |
+| `lei-8436-de-1992` | Institucionaliza o Programa de Crédito Educativo para estudantes carentes (Lei nº 8.436, de 25 de junho de 1992) | 1 | 1996-07-02 to 1996-07-02 |
+| `lei-8440-de-1992` | Altera dispositivos da Lei n° 8.211, de 22 de julho de 1991, que dispõe sobre as diretrizes orçamentárias para 1992 (Lei nº 8.440, de 10 de julho de 1992) | 1 | 1992-07-13 to 1992-07-13 |
+| `lei-8442-de-1992` | Altera a estrutura do Ministério das Relações Exteriores, e dá outras providências (Lei nº 8.442, de 14 de julho de 1992) | 1 | 2003-05-29 to 2003-05-29 |
+| `lei-8445-de-1992` | Dispõe sobre os vencimentos dos docentes de 1° e 2° graus pertencentes ao plano único de classificação e retribuição de cargos, de que trata a Lei n° 7.596, de 10 de abril de 1987 (Lei nº 8.445, de 20 de julho de 1992) | 1 | 2008-09-23 to 2008-09-23 |
+| `lei-8446-de-1992` | Dispõe sobre a revisão do Plano Plurianual, para o triênio 1993-1995, de que trata o art. 5° da Lei nº 8.173, de 30 de janeiro de 1991, e dá outras providências (Lei nº 8.446, de 21 de julho de 1992) | 1 | 1992-07-22 to 1992-07-22 |
+| `lei-8447-de-1992` | Dispõe sobre as diretrizes orçamentárias para o exercício de 1993, e dá outras providências. (Mensagem de veto) (Lei nº 8.447, de 21 de julho de 1992) | 1 | 1993-12-22 to 1993-12-22 |
+| `lei-8448-de-1992` | Regulamenta os arts. 37, inciso XI e 39, § 1° da Constituição Federal e dá outras providências (Lei nº 8.448, de 21 de julho de 1992) | 1 | 2002-12-09 to 2002-12-09 |
+| `lei-8449-de-1992` | Acrescenta disposições aos arts. 10 e 22 da Lei n° 8.211, de 22 de julho de 1991, para compatibilizá-la com a execução da Lei n° 8.388, de 30 de dezembro de 1991 (Lei nº 8.449, de 23 de julho de 1992) | 1 | 1992-07-24 to 1992-07-24 |
+| `lei-8455-de-1992` | Altera dispositivos da Lei n° 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, referentes à prova pericial (Lei nº 8.455, de 24 de agosto de 1992) | 1 | 1992-08-25 to 1992-08-25 |
+| `lei-8457-de-1992` | Organiza a Justiça Militar da União e regula o funcionamento de seus Serviços Auxiliares (Lei nº 8.457, de 4 de setembro de 1992) | 1 | 2018-12-20 to 2018-12-20 |
+| `lei-8458-de-1992` | Altera o art. 2º da Lei nº 8.352, de 28 de dezembro de 1991, que "Dispõe sobre as disponibilidades financeiras do Fundo de Amparo ao Trabalhador (FAT) e dá outras providências" (Lei nº 8.458, de 11 de setembro de 1992) | 1 | 1992-09-14 to 1992-09-14 |
+| `lei-8465-de-1992` | Cria cargos de Procuradores do Trabalho de 2ª Categoria, cargos efetivos e em comissão e dá outras providências. no âmbito do Ministério Público do Trabalho (Lei nº 8.465, de 23 de setembro de 1992) | 1 | 1992-09-24 to 1992-09-24 |
+| `lei-8468-de-1992` | Dispõe sobre a criação de cargos do Grupo-Direção e Assessoramento Superiores (DAS-100), na Secretaria do Tribunal Superior Eleitoral (Lei nº 8.468, de 30 de setembro de 1992) | 1 | 1992-10-01 to 1992-10-01 |
+| `lei-8471-de-1992` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 6ª Região e dá outras providências (Lei nº 8.471, de 7 de outubro de 1992) | 1 | 1992-10-08 to 1992-10-08 |
+| `lei-8473-de-1992` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 15ª Região, com sede em Campinas (SP), e dá outras providências (Lei nº 8.473, de 19 de outubro de 1992) | 1 | 1992-10-20 to 1992-10-20 |
+| `lei-8474-de-1992` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 10ª Região, com sede em Brasília (DF), e dá outras providências (Lei nº 8.474, de 20 de outubro de 1992) | 1 | 1992-10-21 to 1992-10-21 |
+| `lei-8475-de-1992` | Dispõe sobre os cargos da carreira do Ministério Público do Distrito Federal e Territórios e dá outras providências (Lei nº 8.475, de 20 de outubro de 1992) | 1 | 1992-10-21 to 1992-10-21 |
+| `lei-8478-de-1992` | Autoriza a abertura de créditos suplementares em favor dos Ministérios da Saúde e do Trabalho e da Administração no valor de Cr$ 5.200.000.000.000,00 (cinco trilhões e duzentos bilhões de cruzeiros) (Lei nº 8.478, de 5 de novembro de 1992) | 1 | 1992-11-06 to 1992-11-06 |
+| `lei-8480-de-1992` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 2ª Região, com sede em São Paulo (SP), e dá outras providências (Lei nº 8.480, de 7 de novembro de 1992) | 1 | 1993-03-17 to 1993-03-17 |
+| `lei-8482-de-1992` | Autoriza a emissão de Títulos do Tesouro Nacional e a abertura, ao Orçamento Fiscal da União (Lei nº 8.482, de 12 de novembro de 1992) | 1 | 1992-11-13 to 1992-11-13 |
+| `lei-8491-de-1992` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 4ª Região, com sede em Porto Alegre (RS), e dá outras providências (Lei nº 8.491, de 20 de novembro de 1992) | 1 | 1992-11-21 to 1992-11-21 |
+| `lei-8492-de-1992` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 9ª Região, com sede em Curitiba - PR, e dá outras providências (Lei nº 8.492, de 20 de novembro de 1992) | 1 | 1992-11-21 to 1992-11-21 |
+| `lei-8493-de-1992` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 5ª Região, com sede em Salvador- BA, e dá outras providências (Lei nº 8.493, de 20 de novembro de 1992) | 1 | 1992-11-21 to 1992-11-21 |
+| `lei-8494-de-1992` | Dispõe sobre a extinção do Índice de Salários Nominais Médios e o reajuste dos contratos de locação residencial, e dá outras providências (Lei nº 8.494, de 23 de novembro de 1992) | 1 | 1992-11-24 to 1992-11-24 |
+| `lei-8495-de-1992` | Dispõe sobre a reestruturação da Justiça Federal de Primeiro Grau da 5ª Região, e dá outras providências (Lei nº 8.495, de 23 de novembro de 1992) | 1 | 1992-11-24 to 1992-11-24 |
+| `lei-8497-de-1992` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 3ª Região, com sede em Belo Horizonte - MG, e dá outras providências (Lei nº 8.497, de 26 de novembro de 1992) | 1 | 1992-11-27 to 1992-11-27 |
+| `lei-8502-de-1992` | Autoriza a emissão de títulos de responsabilidade do Tesouro Nacional e a abertura de créditos especiais, até o montante de Cr$ 72.100.000.000.000,00, para os fins que especifica (Lei nº 8.502, de 1º de dezembro de 1992) | 1 | 1992-12-02 to 1992-12-02 |
+| `lei-8511-de-1992` | Autoriza a emissão de títulos do Tesouro Nacional e a abertura, ao Orçamento Fiscal da União, de crédito especial, até o limite de Cr$ 2.550.000.000.000,00, em favor de Operações Oficiais de Crédito Recursos sob... (Lei nº 8.511, de 1º de dezembro de 1992) | 1 | 1993-01-16 to 1993-01-16 |
+| `lei-8522-de-1992` | Extingue taxas, emolumentos, contribuições, parcela da União das Custas e Emolumentos da Justiça do Distrito Federal, e dá outras providências (Lei nº 8.522, de 11 de dezembro de 1992) | 1 | 1992-12-14 to 1992-12-14 |
+| `lei-8523-de-1992` | Autoriza a utilização de recursos do Fundo de Marinha Mercante em favor da Companhia Lloyd Brasileiro (Lloydbrás) (Lei nº 8.523, de 14 de dezembro de 1992) | 1 | 1992-12-15 to 1992-12-15 |
+| `lei-8529-de-1992` | Dispõe sobre a complementação da aposentadoria do pessoal do extinto Departamento de Correios e Telégrafos (DCT) e dá outras providências (Lei nº 8.529, de 14 de dezembro de 1992) | 1 | 1992-12-15 to 1992-12-15 |
+| `lei-8531-de-1992` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 1ª Região, com sede no Rio de Janeiro (RJ), e dá outras providências (Lei nº 8.531, de 14 de dezembro de 1992) | 1 | 1992-12-15 to 1992-12-15 |
+| `lei-8535-de-1992` | Dispõe sobre a reestruturação da Justiça Federal de Primeiro Grau da 2ª Região e dá outras providências (Lei nº 8.535, de 16 de dezembro de 1992) | 1 | 1992-12-17 to 1992-12-17 |
+| `lei-8538-de-1992` | Disciplina o pagamento de vantagens que menciona e dá outras providências (Lei nº 8.538, de 21 de dezembro de 1992) | 1 | 2001-09-10 to 2001-09-10 |
+| `lei-8539-de-1992` | Autoriza o Poder Executivo a criar cursos noturnos em todas as instituições de ensino superior vinculadas à União (Lei nº 8.539, de 22 de dezembro de 1992) | 1 | 1992-12-23 to 1992-12-23 |
+| `lei-8543-de-1992` | Determina a impressão de advertência em rótulos e embalagens de alimentos industrializados que contenham glúten, a fim de evitar a doença celíaca ou síndrome celíaca (Lei nº 8.543, de 23 de dezembro de 1992) | 1 | 1992-12-24 to 1992-12-24 |
+| `lei-8559-de-1992` | Dispõe sobre a estruturação do Ministério Público do Distrito Federal e Territórios, e dá outras providências (Lei nº 8.559, de 28 de dezembro de 1992) | 1 | 1992-12-29 to 1992-12-29 |
+| `lei-8616-de-1992` | Altera o art. 55 da Lei nº 8.447, de 21 de julho de 1992 (Lei nº 8.616, de 30 de dezembro de 1992) | 1 | 1992-12-31 to 1992-12-31 |
+| `lei-8618-de-1993` | Cria cargos nos Quadros de Pessoal das Instituições de Ensino Superior que menciona e dá outras providências (Lei nº 8.618, de 4 de janeiro de 1993) | 1 | 1993-01-04 to 1993-01-04 |
+| `lei-8619-de-1993` | Altera dispositivos das Leis nºs 8.212 e 8.213, de 24 de julho de 1991 (Lei nº 8.619, de 5 de janeiro de 1993) | 1 | 1993-01-06 to 1993-01-06 |
+| `lei-8621-de-1993` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 12ª Região, com sede em Florianópolis (SC), e dá outras providências (Lei nº 8.621, de 8 de janeiro de 1993) | 1 | 1993-01-11 to 1993-01-11 |
+| `lei-8622-de-1993` | Dispõe sobre a revisão geral da remuneração dos servidores públicos civis e militares do Poder Executivo Federal e dá outras providências (Lei nº 8.622, de 19 de janeiro de 1993) | 1 | 2001-09-01 to 2001-09-01 |
+| `lei-8623-de-1993` | Dispõe sobre a profissão de Guia de Turismo e dá outras providências (Lei nº 8.623, de 28 de janeiro de 1993) | 1 | 1993-01-29 to 1993-01-29 |
+| `lei-8624-de-1993` | Dispõe sobre o plebiscito que definirá a forma e o sistema de governo e regulamenta o art. 2º do Ato das Disposições Constitucionais Transitórias, alterado pela Emenda Constitucional nº 2 (Lei nº 8.624, de 4 de fevereiro de 1993) | 1 | 1993-02-05 to 1993-02-05 |
+| `lei-8626-de-1993` | Dispõe sobre a criação do Quadro de Pessoal da Fundação Universidade Federal do Amapá, e dá outras providências (Lei nº 8.626, de 17 de fevereiro de 1993) | 1 | 1993-02-18 to 1993-02-18 |
+| `lei-8627-de-1993` | Especifica os critérios para reposicionamento de servidores públicos federais civis e militares e dá outras providências (Lei nº 8.627, de 19 de fevereiro de 1993) | 1 | 2001-09-01 to 2001-09-01 |
+| `lei-8628-de-1993` | Dispõe sobre a regulamentação da Carreira de Apoio Técnico-Administrativo do Ministério Público da União (MPU) e dá outras providências (Lei nº 8.628, de 19 de fevereiro de 1993) | 1 | 1993-02-20 to 1993-02-20 |
+| `lei-8632-de-1993` | Concede anistia a dirigentes ou representantes sindicais punidos por motivação política (Lei nº 8.632, de 4 de março de 1993) | 1 | 1993-03-05 to 1993-03-05 |
+| `lei-8633-de-1993` | Cria cargos na Carreira Policial Federal (Lei nº 8.633, de 12 de março de 1993) | 1 | 1993-03-15 to 1993-03-15 |
+| `lei-8634-de-1993` | Dispõe sobre o remanejamento de cargos criados pela Lei nº 7.178, de 19 de dezembro de 1983, para o Quadro de Pessoal Permanente da Secretaria do Conselho da Justiça Federal (Lei nº 8.634, de 12 de fevereiro de 1993) | 1 | 1993-02-15 to 1993-02-15 |
+| `lei-8635-de-1993` | Dá nova redação ao art. 184 do Código Penal (Lei nº 8.635, de 16 de março de 1993) | 1 | 1993-03-17 to 1993-03-17 |
+| `lei-8636-de-1993` | Cria cargos em comissão na Secretaria do Tribunal Regional do Trabalho da 2ª Região, com sede em São Paulo (SP), e dá outras providências (Lei nº 8.636, de 16 de março de 1993) | 1 | 1993-03-17 to 1993-03-17 |
+| `lei-8637-de-1993` | Dá nova redação ao art. 132 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil (Lei nº 8.637, de 31 de março de 1993) | 1 | 1993-04-01 to 1993-04-01 |
+| `lei-8638-de-1993` | Acrescenta dispositivos à Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (Lei nº 8.638, de 31 de março de 1993) | 1 | 1993-04-01 to 1993-04-01 |
+| `lei-8639-de-1993` | Disciplina o uso de caracteres nas publicações obrigatórias (Lei nº 8.639, de 31 de março de 1993) | 1 | 1993-04-01 to 1993-04-01 |
+| `lei-8640-de-1993` | Altera a redação do art. 40 da Lei nº 7.244, de 7 de novembro de 1984 (Lei nº 8.640, de 31 de março de 1993) | 1 | 1993-04-01 to 1993-04-01 |
+| `lei-8642-de-1993` | Dispõe sobre a instituição do Programa Nacional de Atenção Integral à Criança e ao Adolescente - Pronaica e dá outras providências (Lei nº 8.642, de 31 de março de 1993) | 1 | 1993-04-01 to 1993-04-01 |
+| `lei-8645-de-1993` | Dispõe sobre antecipação de reajuste de vencimentos e de soldos dos servidores civis e militares do Poder Executivo (Lei nº 8.645, de 2 de abril de 1993) | 1 | 1993-04-05 to 1993-04-05 |
+| `lei-8648-de-1993` | Acrescenta parágrafo único do art. 399 da Lei nº 3.071, de 1º de janeiro de 1916. Código Civil (Lei nº 8.648, de 20 de abril de 1993) | 1 | 1993-04-22 to 1993-04-22 |
+| `lei-8649-de-1993` | Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS, autarquia vinculada ao Ministério da Agricultura, do Abastecimento e da Reforma Agrária, a doar o imóvel que menciona, situado no Município de Icó,... (Lei nº 8.649, de 20 de abril de 1993) | 1 | 1993-04-22 to 1993-04-22 |
+| `lei-8651-de-1993` | Dispõe sobre a abertura de crédito extraordinário ao Orçamento da União para os fins que especifica, e dá outras providências (Lei nº 8.651, de 28 de abril de 1993) | 1 | 1993-04-29 to 1993-04-29 |
+| `lei-8653-de-1993` | Dispõe sobre o transporte de presos e dá outras providências (Lei nº 8.653, de 10 de maio de 1993) | 1 | 1993-05-11 to 1993-05-11 |
+| `lei-8654-de-1993` | Cria cargos em comissão na Secretaria do Tribunal Regional do Trabalho da 10ª Região, com sede em Brasília (DF), e dá outras providências (Lei nº 8.654, de 10 de maio de 1993) | 1 | 1993-05-11 to 1993-05-11 |
+| `lei-8655-de-1993` | Autoriza a transformação de cargos vagos no âmbito das Instituições Federais de Ensino, abrangidas pela Lei nº 7.596, de 10 de abril de 1987 (Lei nº 8.655, de 21 de maio de 1993) | 1 | 1993-05-22 to 1993-05-22 |
+| `lei-8656-de-1993` | Altera dispositivo da Lei nº 8.078, de 11 de setembro de 1990, que "dispõe sobre a proteção do consumidor e dá outras providências" (Lei nº 8.656, de 21 de maio de 1993) | 1 | 1993-09-08 to 1993-09-08 |
+| `lei-8658-de-1993` | Dispõe sobre a aplicação, nos Tribunais de Justiça e nos Tribunais Regionais Federais, das normas da Lei n° 8.038, de 28 de maio de 1990, sobre ações penais originárias (Lei nº 8.658, de 26 de maio de 1993) | 1 | 1993-05-27 to 1993-05-27 |
+| `lei-8659-de-1993` | Concede antecipação de reajuste de vencimentos e de soldos aos servidores civis e militares do Poder Executivo (Lei nº 8.659, de 27 de maio de 1993) | 1 | 1993-05-28 to 1993-05-28 |
+| `lei-8660-de-1993` | Estabelece novos critérios para a fixação da Taxa Referencial - TR, extingue a Taxa Referencial Diária - TRD e dá outras providências (Lei nº 8.660, de 28 de maio de 1993) | 1 | 1993-05-31 to 1993-05-31 |
+| `lei-8662-de-1993` | Dispõe sobre a profissão de Assistente Social e dá outras providências Mensagem de veto (Lei nº 8.662, de 7 de junho de 1993) | 1 | 2010-08-27 to 2010-08-27 |
+| `lei-8663-de-1993` | Revoga o Decreto-Lei nº 869, de 12 de dezembro de 1969, e dá outras providências (Lei nº 8.663, de 14 de junho de 1993) | 1 | 1993-06-15 to 1993-06-15 |
+| `lei-8664-de-1993` | Reajusta o valor da pensão especial concedida a Justiniana Fleury Passos e revertida a Maria Nilza Fleury Passos, filha do ex-Deputado Edson Junqueira Passos (Lei nº 8.664, de 14 de junho de 1993) | 1 | 1993-06-15 to 1993-06-15 |
+| `lei-8665-de-1993` | Cancela débitos para com a Superintendência do Desenvolvimento da Pesca - Sudepe, e dá outras providências (Lei nº 8.665, de 14 de junho de 1993) | 1 | 1993-06-15 to 1993-06-15 |
+| `lei-8671-de-1993` | Cria cargos de Procurador do Trabalho de 2ª Categoria e dá outras providências (Lei nº 8.671, de 6 de julho de 1993) | 1 | 1993-07-07 to 1993-07-07 |
+| `lei-8673-de-1993` | Restabelece o incentivo fiscal que menciona e dá outras providências (Lei nº 8.673, de 6 de julho de 1993) | 1 | 1993-07-07 to 1993-07-07 |
+| `lei-8674-de-1993` | Altera o Anexo I do Decreto-Lei nº 2.266, de 12 de março de 1985, e dá outras providências (Lei nº 8.674, de 6 de julho de 1993) | 1 | 2013-04-25 to 2013-04-25 |
+| `lei-8675-de-1993` | Dispõe sobre a transferência temporária e simbólica da sede do Governo Federal para a cidade de Salvador, Estado da Bahia (Lei nº 8.675, de 7 de julho de 1993) | 1 | 1993-07-08 to 1993-07-08 |
+| `lei-8676-de-1993` | Dispõe sobre a política de remuneração dos servidores públicos civis e militares da Administração Federal direta, autárquica e fundacional e dá outras providências. Mensagem de veto (Lei nº 8.676, de 13 de julho de 1993) | 1 | 1994-05-28 to 1994-05-28 |
+| `lei-8678-de-1993` | Dispõe sobre a concessão de benefício no pagamento da modalidade de saque do Fundo de Garantia do Tempo de Serviço (FGTS), prevista no art. 20, inciso VIII, da Lei nº 8.036, de 11 de maio de 1990, e dá outras... (Lei nº 8.678, de 13 de julho de 1993) | 1 | 1993-07-14 to 1993-07-14 |
+| `lei-8680-de-1993` | Institui a Semana Nacional do Jovem e dá outras providências (Lei nº 8.680, de 13 de julho de 1993) | 1 | 1993-07-14 to 1993-07-14 |
+| `lei-8682-de-1993` | Dispõe sobre a remuneração de cargos de provimento em comissão da Advocacia-Geral da União, revigora a Lei nº 8.200, de 28 de junho de 1991, oferecendo nova redação ao inciso I, do seu art. 3º, e dá outras providências (Lei nº 8.682, de 14 de julho de 1993) | 1 | 1993-07-15 to 1993-07-15 |
+| `lei-8683-de-1993` | Dá nova redação ao art. 206 do Decreto-Lei n° 2.848, de 7 de dezembro de 1940 -Código Penal (Lei nº 8.683, de 15 de julho de 1993) | 1 | 1993-07-16 to 1993-07-16 |
+| `lei-8686-de-1993` | Dispõe sobre o reajustamento da pensão especial aos deficientes físicos portadores da Síndrome de Talidomida, instituída pela Lei nº 7.070, de 20 de dezembro de 1982 (Lei nº 8.686, de 20 de julho de 1993) | 1 | 2018-03-23 to 2018-03-23 |
+| `lei-8687-de-1993` | Retira da incidência do Imposto (Lei nº 8.687, de 20 de julho de 1993) | 1 | 1993-07-21 to 1993-07-21 |
+| `lei-8692-de-1993` | Define planos de reajustamento dos encargos mensais e dos saldos devedores nos contratos de financiamentos habitacionais no âmbito do Sistema Financeiro da Habitação e dá outras providências (Lei nº 8.692, de 28 de julho de 1993) | 1 | 2001-09-05 to 2001-09-05 |
+| `lei-8697-de-1993` | Altera a moeda nacional, estabelecendo a denominação "cruzeiro real" para a unidade do sistema monetário brasileiro (Lei nº 8.697, de 27 de agosto de 1993) | 1 | 1993-08-28 to 1993-08-28 |
+| `lei-8698-de-1993` | Altera dispositivo da Lei nº 8.694, de 12 de agosto de 1993 (Lei nº 8.698, de 27 de agosto de 1993) | 1 | 1993-08-30 to 1993-08-30 |
+| `lei-8699-de-1993` | Acrescenta parágrafo ao art. 24 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal (Lei nº 8.699, de 27 de agosto de 1993) | 1 | 1993-08-30 to 1993-08-30 |
+| `lei-8701-de-1993` | Acrescenta parágrafo ao art. 370 do Código de Processo Penal (Lei nº 8.701, de 1º de setembro de 1993) | 1 | 1993-09-02 to 1993-09-02 |
+| `lei-8702-de-1993` | Cria cargos de Patrulheiro Rodoviário Federal e dá outras providências (Lei nº 8.702, de 1º de setembro de 1993) | 1 | 1993-09-02 to 1993-09-02 |
+| `lei-8704-de-1993` | Dispõe sobre a abertura de Crédito Extraordinário ao Orçamento Fiscal da União para os fins que especifica, e dá outras providências (Lei nº 8.704, de 9 de setembro de 1993) | 1 | 1993-09-10 to 1993-09-10 |
+| `lei-8706-de-1993` | Dispõe sobre a criação do Serviço Social do Transporte - SEST e do Serviço Nacional de Aprendizagem do Transporte - SENAT (Lei nº 8.706, de 14 de setembro de 1993) | 1 | 2019-06-06 to 2019-06-06 |
+| `lei-8709-de-1993` | Dispõe sobre operações de crédito externo contratadas pelo extinto Banco Nacional da Habitação (Lei nº 8.709, de 23 de setembro de 1993) | 1 | 1993-09-24 to 1993-09-24 |
+| `lei-8711-de-1993` | Dispõe sobre a transformação da Escola Técnica Federal da Bahia em Centro Federal de Educação Tecnológica e dá outras providências (Lei nº 8.711, de 28 de setembro de 1993) | 1 | 1993-09-29 to 1993-09-29 |
+| `lei-8712-de-1993` | Altera dispositivos da Lei nº 8.447, de 21 de julho de 1992, e dá outras providências (Lei nº 8.712, de 28 de setembro de 1993) | 1 | 1993-09-29 to 1993-09-29 |
+| `lei-8715-de-1993` | Cria Superintendências Regionais da Polícia Federal nos Estados do Tocantins, Roraima e Amapá, e correspondentes cargos em comissão e funções de confiança (Lei nº 8.715, de 6 de outubro de 1993) | 1 | 1993-10-07 to 1993-10-07 |
+| `lei-8716-de-1993` | Dispõe sobre a garantia do salário mínimo e dá outras providências (Lei nº 8.716, de 11 de outubro de 1993) | 1 | 1993-10-13 to 1993-10-13 |
+| `lei-8718-de-1993` | Altera o art. 294 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil (Lei nº 8.718, de 14 de outubro de 1993) | 1 | 1993-10-15 to 1993-10-15 |
+| `lei-8719-de-1993` | Extingue a 1ª Auditoria de Aeronáutica da 1ª Circunscrição Judiciária Militar e a 3ª Auditoria da 2ª Circunscrição Judiciária Militar (Lei nº 8.719, de 19 de outubro de 1993) | 1 | 1993-10-20 to 1993-10-20 |
+| `lei-8720-de-1993` | Cria cargos no Quadro Permanente de Pessoal da Secretaria do Tribunal Regional do Trabalho da Décima Quinta Região e dá outras providências (Lei nº 8.720, de 19 de outubro de 1993) | 1 | 1993-10-20 to 1993-10-20 |
+| `lei-8721-de-1993` | Dispõe sobre a reestruturação das Procuradorias Regionais da República e dá outras providências (Lei nº 8.721, de 27 de outubro de 1993) | 1 | 1993-10-28 to 1993-10-28 |
+| `lei-8722-de-1993` | Torna obrigatória a baixa de veículos vendidos como sucata e dá outras providências (Lei nº 8.722, de 27 de outubro de 1993) | 1 | 1993-10-28 to 1993-10-28 |
+| `lei-8723-de-1993` | Dispõe sobre a redução de emissão de poluentes por veículos automotores e dá outras providências (Lei nº 8.723, de 28 de outubro de 1993) | 1 | 2024-10-09 to 2024-10-09 |
+| `lei-8726-de-1993` | Dá nova redação ao inciso III do art. 131 da Consolidação das Leis do Trabalho ( CLT) (Lei nº 8.726, de 5 de novembro de 1993) | 1 | 1993-11-08 to 1993-11-08 |
+| `lei-8728-de-1993` | Dispõe sobre a transformação de cargos no Quadro Permanente de Pessoal da Secretaria do Tribunal Regional do Trabalho da 1ª Região, e dá outras providências (Lei nº 8.728, de 10 de novembro de 1993) | 1 | 1993-11-11 to 1993-11-11 |
+| `lei-8729-de-1993` | Autoriza o Banco Central do Brasil a doar à União, para uso da Justiça Federal de Primeira Instância/Seção Judiciária de São Paulo, o imóvel que menciona (Lei nº 8.729, de 22 de novembro de 1993) | 1 | 1993-11-23 to 1993-11-23 |
+| `lei-8731-de-1993` | Transforma as Escolas Agrotécnicas Federais em autarquias e dá outras providências (Lei nº 8.731, de 16 de novembro de 1993) | 1 | 1993-11-17 to 1993-11-17 |
+| `lei-8734-de-1993` | Acrescenta parágrafo ao art. 3º e revoga o art. 4º da Lei nº 6.994, de 25 de maio de 1982 (Lei nº 8.734, de 25 de novembro de 1993) | 1 | 1993-11-26 to 1993-11-26 |
+| `lei-8735-de-1993` | Define condições para aquisição e remoção de alimentos básicos destinados à população flagelada pela seca, e autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da... (Lei nº 8.735, de 25 de novembro de 1993) | 1 | 1993-11-26 to 1993-11-26 |
+| `lei-8736-de-1993` | Altera o art. 2º da Lei nº 8.352, de 28 de dezembro de 1991, com a redação dada pela Lei nº 8.458, de 11 de setembro de 1992, que dispõe sobre as disponibilidades financeiras do Fundo de Amparo ao Trabalhador (FAT) e... (Lei nº 8.736, de 29 de novembro de 1993) | 1 | 1994-07-04 to 1994-07-04 |
+| `lei-8741-de-1993` | Dispõe sobre a composição e a estrutura do Conselho Nacional de Informática e Automação - CONIN, e dá outras providências (Lei nº 8.741, de 3 de dezembro de 1993) | 1 | 1993-12-06 to 1993-12-06 |
+| `lei-8743-de-1993` | Inclui a categoria funcional de Agente de Portaria no Anexo X da Lei nº 7.995, de 9 de janeiro de 1990 (Lei nº 8.743, de 9 de dezembro de 1993) | 1 | 1993-12-10 to 1993-12-10 |
+| `lei-8744-de-1993` | Anistia débito dos eleitores que deixaram de votar no plebiscito de 21 de abril de 1993 (Lei nº 8.744, de 9 de dezembro de 1993) | 1 | 1993-12-10 to 1993-12-10 |
+| `lei-8746-de-1993` | Cria, mediante transformação, o Ministério do Meio Ambiente e da Amazônia Legal, altera a redação de dispositivos da Lei nº 8.490, de 19 de novembro de 1992, e dá outras providências (Lei nº 8.746, de 9 de dezembro de 1993) | 1 | 1993-12-10 to 1993-12-10 |
+| `lei-8749-de-1993` | Dispõe sobre recursos não reclamados correspondentes a aplicações em fundos de curto prazo ao portador, e dá outras providências (Lei nº 8.749, de 10 de dezembro de 1993) | 1 | 1993-12-13 to 1993-12-13 |
+| `lei-8762-de-1993` | Dispõe sobre a alienação de imóveis de propriedade da União, sob a jurisdição do Ministério da Marinha (Lei nº 8.762, de 14 de dezembro de 1993) | 1 | 1993-12-15 to 1993-12-15 |
+| `lei-8765-de-1993` | Altera o art. 43 da Lei nº 8.447, de 21 de julho de 1992, no exercício financeiro de 1993, que dispõe sobre a receita decorrente da emissão de títulos da dívida pública federal, pelo Tesouro Nacional e dá outras... (Lei nº 8.765, de 21 de dezembro de 1993) | 1 | 1993-12-22 to 1993-12-22 |
+| `lei-8776-de-1993` | Altera dispositivos da Lei nº 8.447, de 21 de julho de 1992 (Lei nº 8.776, de 21 de dezembro de 1993) | 1 | 1993-12-22 to 1993-12-22 |
+| `lei-8848-de-1994` | Altera a legislação do imposto sobre a renda e proventos de qualquer natureza e dá outras providências (Lei nº 8.848, de 28 de janeiro de 1994) | 1 | 1994-01-29 to 1994-01-29 |
+| `lei-8849-de-1994` | Altera a legislação do imposto sobre a renda e proventos de qualquer natureza e dá outras providências (Lei nº 8.849, de 28 de janeiro de 1994) | 1 | 1995-06-21 to 1995-06-21 |
+| `lei-8851-de-1994` | Institui o Plano Diretor para o Desenvolvimento do Vale do São Francisco (PLANVASF) (Lei nº 8.851, de 31 de janeiro de 1994) | 1 | 1994-02-01 to 1994-02-01 |
+| `lei-8852-de-1994` | Dispõe sobre a aplicação dos arts. 37, incisos XI e XII, e 39, § 1º, da Constituição Federal, e dá outras providências (Lei nº 8.852, de 4 de fevereiro de 1994) | 1 | 2001-09-01 to 2001-09-01 |
+| `lei-8853-de-1994` | Atribui competência ao Ministro de Estado da Saúde para praticar atos ad referendum da Junta Deliberativa do Fundo Nacional de Saúde (Lei nº 8.853, de 4 de fevereiro de 1994) | 1 | 1994-02-07 to 1994-02-07 |
+| `lei-8854-de-1994` | Cria, com natureza civil, a Agência Espacial Brasileira (AEB) e dá outras providências (Lei nº 8.854, de 10 de fevereiro de 1994) | 1 | 2001-09-01 to 2001-09-01 |
+| `lei-8855-de-1994` | Dá nova redação ao art. 19 da Lei nº 7.729, de 16 de janeiro de 1989, para especificar como sendo 2ª a Junta de Conciliação e Julgamento de Dourados, Estado do Mato Grosso do Sul (Lei nº 8.855, de 23 de fevereiro de 1994) | 1 | 1994-02-24 to 1994-02-24 |
+| `lei-8856-de-1994` | Fixa a Jornada de Trabalho dos Profissionais Fisioterapeuta e Terapeuta Ocupacional (Lei nº 8.856, de 1º de março de 1994) | 1 | 1994-03-02 to 1994-03-02 |
+| `lei-8860-de-1994` | Acrescenta dispositivos à Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (Lei nº 8.860, de 24 de março de 1994) | 1 | 1994-03-25 to 1994-03-25 |
+| `lei-8862-de-1994` | Dá nova redação aos artigos 6º, incisos I e II (Lei nº 8.862, de 28 de março de 1994) | 1 | 1994-03-29 to 1994-03-29 |
+| `lei-8865-de-1994` | Revoga os itens VI e VIII do art. 530 da Consolidação das Leis do Trabalho (Lei nº 8.865, de 29 de março de 1994) | 1 | 1994-03-30 to 1994-03-30 |
+| `lei-8866-de-1994` | Dispõe sobre o depositário infiel de valor pertencente à Fazenda Pública e dá outras providências (Lei nº 8.866, de 11 de abril de 1994) | 1 | 1994-04-13 to 1994-04-13 |
+| `lei-8867-de-1994` | Cria cargos e comissão no Quadro Permanente de Pessoal da Secretaria do Tribunal Superior do Trabalho e dá outras providências (Lei nº 8.867, de 14 de abril de 1994) | 1 | 1994-04-15 to 1994-04-15 |
+| `lei-8869-de-1994` | Dispõe sobre o reajuste das mensalidades escolares, no mês de agosto de 1993 (Lei nº 8.869, de 15 de abril de 1994) | 1 | 1994-04-16 to 1994-04-16 |
+| `lei-8873-de-1994` | Altera dispositivos da Lei nº 4.769, de 9 de setembro de 1965, que dispõe sobre o exercício da profissão de Técnico de Administração (Lei nº 8.873, de 26 de abril de 1994) | 1 | 1994-04-27 to 1994-04-27 |
+| `lei-8874-de-1994` | Dispõe sobre restabelecimento do prazo fixado pelo art. 59 da Lei nº 7.450, de 23 de dezembro de 1985, para instalação, modernização, ampliação ou diversificação de empreendimentos industriais e agrícolas nas áreas... (Lei nº 8.874, de 29 de abril de 1994) | 1 | 1994-04-30 to 1994-04-30 |
+| `lei-8875-de-1994` | Atualiza o valor da pensão vitalícia concedida pela Lei nº 3.597, de 29 de julho de 1959, à viúva do ex-Deputado Sílvio Sanson, Srª Albina Clementina Frascalossi Sanson (Lei nº 8.875, de 29 de abril de 1994) | 1 | 1994-05-02 to 1994-05-02 |
+| `lei-8877-de-1994` | Cria cargos do Grupo Processamento de Dados no Quadro Permanente de Pessoal da Secretaria do Tribunal Regional do Trabalho da 2ª Região e dá outras providências (Lei nº 8.877, de 11 de maio de 1994) | 1 | 1994-05-12 to 1994-05-12 |
+| `lei-8879-de-1994` | Altera a redação do art. 69 da Lei n° 8.672, de 6 de julho de 1993, e dá outras providências (Lei nº 8.879, de 20 de maio de 1994) | 1 | 1994-05-21 to 1994-05-21 |
+| `lei-8881-de-1994` | Dá nova redação ao caput do art. 11 da Lei Delegada nº 4, de 26 de setembro de 1962, e dá outras providências (Lei nº 8.881, de 3 de junho de 1994) | 1 | 1994-06-06 to 1994-06-06 |
+| `lei-8883-de-1994` | Altera dispositivos da Lei nº 8.666, de 21 de junho de 1993, que regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e dá outras providências (Lei nº 8.883, de 8 de junho de 1994) | 1 | 1994-06-09 to 1994-06-09 |
+| `lei-8888-de-1994` | Autoriza o Poder Executivo a redistribuir os cargos criados pela Lei nº 8.433, de 16 de junho de 1992 (Lei nº 8.888, de 21 de junho de 1994) | 1 | 1994-06-22 to 1994-06-22 |
+| `lei-8889-de-1994` | Dispõe sobre a permanência de pessoal requisitado, altera a concessão do benefício-alimentação, e dá outras providências (Lei nº 8.889, de 21 de junho de 1994) | 1 | 2002-12-23 to 2002-12-23 |
+| `lei-8890-de-1994` | Concede abono especial aos servidores públicos civis e militares da Administração Federal direta, autárquica e fundacional e dá outras providências (Lei nº 8.890, de 21 de junho de 1994) | 1 | 1994-06-22 to 1994-06-22 |
+| `lei-8891-de-1994` | Autoriza a contratação de fabricação de papel-moeda, e dá outras providências (Lei nº 8.891, de 21 de junho de 1994) | 1 | 1994-06-22 to 1994-06-22 |
+| `lei-8892-de-1994` | Dispõe sobre a assunção, pela União, de crédito do Banco do Brasil S.A. junto à Embraer - Empresa Brasileira de Aeronáutica S.A (Lei nº 8.892, de 21 de junho de 1994) | 1 | 1994-06-22 to 1994-06-22 |
+| `lei-8896-de-1994` | Dá nova redação ao art. 3º da Lei nº 8.689, de 27 de julho de 1993, que dispõe sobre a extinção do Instituto Nacional de Assistência Médica da Previdência Social - INAMPS (Lei nº 8.896, de 21 de junho de 1994) | 1 | 1994-06-22 to 1994-06-22 |
+| `lei-8897-de-1994` | Dispõe sobre a renegociação das dívidas remanescentes das entidades extintas por força da Lei nº 8.029, de 12 de abril de 1990, e dá outras providências (Lei nº 8.897, de 27 de junho de 1994) | 1 | 1994-06-28 to 1994-06-28 |
+| `lei-8899-de-1994` | Concede passe livre às pessoas portadoras de deficiência no sistema de transporte coletivo interestadual (Lei nº 8.899, de 29 de junho de 1994) | 1 | 1994-06-30 to 1994-06-30 |
+| `lei-8904-de-1994` | Altera o art. 2º da Lei nº 8.352, de 28 de dezembro de 1991, com a redação dada pela Lei nº 8.736, de 29 de novembro de 1993, e o art. 2º da Lei nº 8.736, de 1993, que dispõe sobre as disponibilidades financeiras do... (Lei nº 8.904, de 30 de junho de 1994) | 1 | 1993-11-30 to 1993-11-30 |
+| `lei-8907-de-1994` | Determina que o modelo de fardamento escolar adotado nas escolas públicas e privadas não possa ser alterado antes de transcorrido cinco anos (Lei nº 8.907, de 6 de julho de 1994) | 1 | 1994-07-07 to 1994-07-07 |
+| `lei-8908-de-1994` | Dispõe sobre a assunção da dívida da Companhia de Navegação Lloyd Brasileiro - Lloydbrás junto ao Kreditanstalt für Wiederaufbau e ao Fundo de Marinha Mercante - FMM e dá outras providências para a recuperação do... (Lei nº 8.908, de 6 de julho de 1994) | 1 | 1994-07-07 to 1994-07-07 |
+| `lei-8912-de-1994` | Considera o Distrito de Fazenda Nova, do Município de Brejo da Madre de Deus, Estado de Pernambuco, Área Especial de Interesse Turístico e Estância Hidromineral (Lei nº 8.912, de 11 de julho de 1994) | 1 | 1994-07-12 to 1994-07-12 |
+| `lei-8914-de-1994` | Altera a composição do Tribunal Regional Federal da 4ª Região e dá outras providências (Lei nº 8.914, de 12 de julho de 1994) | 1 | 1994-07-13 to 1994-07-13 |
+| `lei-8915-de-1994` | Altera a composição do Tribunal Regional Federal da 2ª Região e dá outras providências (Lei nº 8.915, de 12 de julho de 1994) | 1 | 1994-07-13 to 1994-07-13 |
+| `lei-8916-de-1994` | Proclama o Major-Brigadeiro-do-Ar Jerônymo Baptista Bastos, Patrono do Desporto na Aeronáutica (Lei nº 8.916, de 13 de julho de 1994) | 1 | 1994-07-14 to 1994-07-14 |
+| `lei-8917-de-1994` | Concede o título de Patrono da Ecologia do Brasil ao cientista e pesquisador Augusto Ruschi (Lei nº 8.917, de 13 de julho de 1994) | 1 | 1994-07-14 to 1994-07-14 |
+| `lei-8918-de-1994` | Dispõe sobre a padronização, a classificação, o registro, a inspeção, a produção e a fiscalização de bebidas, autoriza a criação da Comissão Intersetorial de Bebidas e dá outras providências. Mensagem de Veto (Lei nº 8.918, de 14 de julho de 1994) | 1 | 2022-12-30 to 2022-12-30 |
+| `lei-8919-de-1994` | Dispõe sobre a instalação do sistema de antenas por titulares de licença de Estação de Radiocomunicações, e dá outras providências (Lei nº 8.919, de 15 de julho de 1994) | 1 | 1994-07-19 to 1994-07-19 |
+| `lei-8920-de-1994` | Veda o pagamento de dividendos e de participações nos lucros, com base em saldo credor da conta de correção monetária, apurado por empresas controladas pelo Poder Público, e dá outras providências (Lei nº 8.920, de 20 de julho de 1994) | 1 | 1994-07-21 to 1994-07-21 |
+| `lei-8921-de-1994` | Dá nova redação ao inciso II do art. 131 da Consolidação das Leis do Trabalho (Lei nº 8.921, de 25 de julho de 1994) | 1 | 1994-07-26 to 1994-07-26 |
+| `lei-8922-de-1994` | Acrescenta dispositivo ao art. 20 da Lei nº 8.036, de 11 de maio de 1990, para permitir a movimentação da conta vinculada quando o trabalhador ou qualquer de seus dependentes for acometido de neoplasia maligna (Lei nº 8.922, de 25 de julho de 1994) | 1 | 1994-07-26 to 1994-07-26 |
+| `lei-8923-de-1994` | Acrescenta parágrafo ao art. 71 da Consolidação das Leis do Trabalho - CLT, prescrevendo sanção a ser aplicada em caso de descumprimento do disposto no caput do referido artigo (Lei nº 8.923, de 27 de julho de 1994) | 1 | 1994-07-28 to 1994-07-28 |
+| `lei-8926-de-1994` | Torna obrigatória a inclusão, nas bulas de medicamentos, de advertências e recomendações sobre seu uso por pessoas de mais de 65 anos (Lei nº 8.926, de 9 de agosto de 1994) | 1 | 1994-08-10 to 1994-08-10 |
+| `lei-8928-de-1994` | Altera dispositivos da Lei nº 8.694, de 12 de agosto de 1993 (Lei nº 8.928, de 10 de agosto de 1994) | 1 | 1994-08-11 to 1994-08-11 |
+| `lei-8930-de-1994` | Dá nova redação ao art. 1º da Lei º 8.072, de 25 de julho de 1990, que dispõe sobre os crimes hediondos, nos termos do art. 5º , inciso XLIII, da Constituição Federal, e determina outras providências (Lei nº 8.930, de 6 de setembro de 1994) | 1 | 1994-09-07 to 1994-09-07 |
+| `lei-8936-de-1994` | Altera dispositivos dos arts. 9° e 10 da Lei n° 8.918, de 14 de julho de 1994 (Lei nº 8.936, de 24 de novembro de 1994) | 1 | 1994-11-25 to 1994-11-25 |
+| `lei-8938-de-1994` | Altera o art. 60 da Lei n° 8.694, de 12 de agosto de 1993, que dispõe sobre as diretrizes para a elaboração e execução da lei orçamentária anual de 1994 e dá outras providências (Lei nº 8.938, de 25 de novembro de 1994) | 1 | 1994-11-28 to 1994-11-28 |
+| `lei-8941-de-1994` | Altera a redação do inciso I do art. 65 da Lei (Lei nº 8.941, de 25 de novembro de 1994) | 1 | 1994-08-11 to 1994-08-11 |
+| `lei-8942-de-1994` | Altera o Anexo I da Lei n° 8.885, de 16 de junho de 1994, que autorizou o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito extraordinário no valor de CR$... (Lei nº 8.942, de 25 de novembro de 1994) | 1 | 1994-11-28 to 1994-11-28 |
+| `lei-8944-de-1994` | Autoriza a Companhia Nacional de Abastecimento - CONAB, a doar às populações carentes quatrocentas mil toneladas de alimentos, de acordo com o Programa de Distribuição Emergencial de Alimentos - PRODEA (Lei nº 8.944, de 25 de novembro de 1994) | 1 | 1994-11-28 to 1994-11-28 |
+| `lei-8947-de-1994` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da 8ª Região, com sede em Belém (PA), e dá outras providências (Lei nº 8.947, de 8 de dezembro de 1994) | 1 | 1994-12-09 to 1994-12-09 |
+| `lei-8948-de-1994` | Dispõe sobre a instituição do Sistema Nacional de Educação Tecnológica e dá outras providências (Lei nº 8.948, de 8 de dezembro de 1994) | 1 | 2005-11-18 to 2005-11-18 |
+| `lei-8949-de-1994` | Acrescenta parágrafo ao art. 442 da Consolidação das Leis do Trabalho (CLT) para declarar a inexistência de vínculo empregatício entre as cooperativas e seus associados (Lei nº 8.949, de 9 de dezembro de 1994) | 1 | 1994-12-12 to 1994-12-12 |
+| `lei-8951-de-1994` | Altera dispositivos do Código de Processo Civil sobre as ações de consignação em pagamento e de usucapião (Lei nº 8.951, de 13 de dezembro de 1994) | 1 | 1994-12-14 to 1994-12-14 |
+| `lei-8956-de-1994` | Dispõe sobre a transformação da Escola Superior de Lavras em Universidade Federal de Lavras e dá outras providências (Lei nº 8.956, de 15 de dezembro de 1994) | 1 | 1994-12-16 to 1994-12-16 |
+| `lei-8957-de-1994` | Dispõe sobre a transformação da Escola Paulista de Medicina em Universidade Federal de São Paulo e dá outras providências (Lei nº 8.957, de 15 de dezembro de 1994) | 1 | 1994-12-16 to 1994-12-16 |
+| `lei-8961-de-1994` | Dispõe sobre a isenção do imposto de importação na hipótese que menciona (Lei nº 8.961, de 23 de dezembro de 1994) | 1 | 1994-12-24 to 1994-12-24 |
+| `lei-8966-de-1994` | Altera a redação do art. 62 da Consolidação das Leis do Trabalho (Lei nº 8.966, de 27 de dezembro de 1994) | 1 | 1994-12-28 to 1994-12-28 |
+| `lei-8967-de-1994` | Altera a redação do parágrafo único do art. 23 da Lei nº 7.498, de 25 de junho de 1986, que dispõe sobre a regulamentação do exercício da enfermagem e dá outras providências (Lei nº 8.967, de 28 de dezembro de 1994) | 1 | 1994-12-29 to 1994-12-29 |
+| `lei-8968-de-1994` | Dispõe sobre a criação de cargos e funções na Secretaria do Tribunal de Contas da União e dá outras providências (Lei nº 8.968, de 28 de dezembro de 1994) | 1 | 1994-12-29 to 1994-12-29 |
+| `lei-8969-de-1994` | Altera dispositivos da Lei nº 2.180, de 5 de fevereiro de 1954, que dispõe sobre o Tribunal Marítimo (Lei nº 8.969, de 28 de dezembro de 1994) | 1 | 1994-12-29 to 1994-12-29 |
+| `lei-8971-de-1994` | Regula o direito dos companheiros a alimentos e à sucessão (Lei nº 8.971, de 29 de dezembro de 1994) | 1 | 1994-12-30 to 1994-12-30 |
+| `lei-8972-de-1994` | Inclui as categorias funcionais de Auxiliares de Transporte, Administrativo, de Vigilância e Artesanato no Nível de Assistente, e dá outras providências (Lei nº 8.972, de 29 de dezembro de 1994) | 1 | 1994-12-30 to 1994-12-30 |
+| `lei-8975-de-1995` | Dispõe sobre a transformação de cargos da carreira do Ministério Público Militar e dá outras providências (Lei nº 8.975, de 6 de janeiro de 1995) | 1 | 1995-01-09 to 1995-01-09 |
+| `lei-8978-de-1995` | Dispõe sobre a construção de creches e estabelecimentos de pré-escola (Lei nº 8.978, de 9 de janeiro de 1995) | 1 | 1995-01-10 to 1995-01-10 |
+| `lei-8979-de-1995` | Altera a redação do art. 1º da Lei nº 6.463, de 9 de novembro de 1977 (Lei nº 8.979, de 13 de janeiro de 1995) | 1 | 1995-01-16 to 1995-01-16 |
+| `lei-8982-de-1995` | Dá nova redação ao art. 1º da Lei nº 6.567, de 24 de setembro de 1978, alterado pela Lei nº 7.312, de 16 de maio de 1985 (Lei nº 8.982, de 24 de janeiro de 1995) | 1 | 1995-01-25 to 1995-01-25 |
+| `lei-8983-de-1995` | Cria e transforma, no Quadro Permanente de Pessoal da Secretaria do Tribunal Regional do Trabalho da 6ª Região, os cargos que menciona e dá outras providências (Lei nº 8.983, de 2 de fevereiro de 1995) | 1 | 1995-02-03 to 1995-02-03 |
+| `lei-8984-de-1995` | Estende a competência da Justiça do Trabalho (art. 114 da Constituição Federal) (Lei nº 8.984, de 7 de fevereiro de 1995) | 1 | 1995-02-08 to 1995-02-08 |
+| `lei-8988-de-1995` | Altera a redação do art. 2º do Decreto-Lei nº 2.236, de 23 de janeiro de 1985, que dispõe sobre a tabela de emolumentos e taxas aprovada pelo art. 131 da Lei nº 6.815, de 19 de agosto de 1980 (Lei nº 8.988, de 24 de fevereiro de 1995) | 1 | 1995-02-25 to 1995-02-25 |
+| `lei-8991-de-1995` | Dispõe sobre suspensão, em caráter excepcional e durante o ano de 1995, da prestação do serviço militar para fins de permitir o exercício temporário de atividade policial militar (Lei nº 8.991, de 24 de fevereiro de 1995) | 1 | 1995-02-25 to 1995-02-25 |
+| `lei-8992-de-1995` | Dispõe sobre o prazo previsto no § 4º do art. 2º da Lei nº 8.352, de 28 de dezembro de 1991 (Lei nº 8.992, de 24 de fevereiro de 1995) | 1 | 1995-02-25 to 1995-02-25 |
+| `lei-8993-de-1995` | Concede novo prazo para conclusão do inventário do Instituto Nacional de Assistência Médica da Previdência Social (Inamps), extinto pela Lei nº 8.689, de 27 de julho de 1993 (Lei nº 8.993, de 24 de fevereiro de 1995) | 1 | 1995-02-25 to 1995-02-25 |
+| `lei-8994-de-1995` | Altera dispositivo da Lei nº 8.620, de 5 de janeiro de 1993 (Lei nº 8.994, de 24 de fevereiro de 1995) | 1 | 1995-02-25 to 1995-02-25 |
+| `lei-8995-de-1995` | Autoriza o Ministério dos Transportes, por intermédio da Companhia Brasileira de Trens Urbanos (CBTU), a transferir à Companhia Fluminense de Trens Urbanos (Flumitrens), recursos para o pagamento de pessoal (Lei nº 8.995, de 24 de fevereiro de 1995) | 1 | 1996-12-17 to 1996-12-17 |
+| `lei-8997-de-1995` | Dispõe sobre a criação dos cargos que menciona (Lei nº 8.997, de 24 de fevereiro de 1995) | 1 | 1995-02-25 to 1995-02-25 |
+| `lei-8998-de-1995` | Autoriza a utilização de recursos do Fundo da Marinha Mercante (FMM), em favor da Companhia de Navegação Lloyd Brasileiro (Lloydbrás) (Lei nº 8.998, de 24 de fevereiro de 1995) | 1 | 1995-02-25 to 1995-02-25 |
+| `lei-8999-de-1995` | Dispõe sobre a alocação, em depósitos especiais remunerados, de recursos da disponibilidade financeira do Fundo de Amparo ao Trabalhador (FAT), no Banco do Brasil S.A., e dá outras providências (Lei nº 8.999, de 24 de fevereiro de 1995) | 1 | 1991-12-31 to 1991-12-31 |
+| `lei-9001-de-1995` | Dispõe sobre alteração do Decreto-Lei nº 1.804, de 3 de setembro de 1980 (Lei nº 9.001, de 16 de março de 1995) | 1 | 1995-03-17 to 1995-03-17 |
+| `lei-9002-de-1995` | Altera o art. 60 da Lei nº 8.694, de 12 de agosto de 1993, que dispõe sobre as diretrizes para a elaboração e execução da lei Orçamentária Anual de 1994 (Lei nº 9.002, de 16 de março de 1995) | 1 | 1995-03-17 to 1995-03-17 |
+| `lei-9003-de-1995` | Dispõe sobre a reestruturação da Secretaria da Receita Federal, e dá outras providências (Lei nº 9.003, de 16 de março de 1995) | 1 | 1995-03-17 to 1995-03-17 |
+| `lei-9005-de-1995` | Altera disposições das Leis nºs 6.150, de 3 de dezembro de 1974, e 6.437, de 20 de agosto de 1977, que dispõem sobre a obrigatoriedade da iodação do sal destinado ao consumo humano, seu controle pelos órgãos... (Lei nº 9.005, de 16 de março de 1995) | 1 | 2001-08-24 to 2001-08-24 |
+| `lei-9006-de-1995` | Dispõe sobre a remuneração dos recursos do Fundo Nacional de Desenvolvimento (FND) repassados, sob a forma de empréstimo, à Financiadora de Estudos e Projetos (Finep) (Lei nº 9.006, de 17 de março de 1995) | 1 | 1995-03-20 to 1995-03-20 |
+| `lei-9010-de-1995` | Dispõe sobre a terminologia oficial relativa à hanseníase e dá outras providências (Lei nº 9.010, de 29 de março de 1995) | 1 | 1995-03-30 to 1995-03-30 |
+| `lei-9011-de-1995` | Acrescenta dispositivo ao art. 1º da Lei nº 4.090, de 13 de julho de 1962 (Lei nº 9.011, de 30 de março de 1995) | 1 | 1995-03-31 to 1995-03-31 |
+| `lei-9012-de-1995` | Proíbe as instituições oficiais de crédito de conceder empréstimos, financiamentos e outros benefícios a pessoas jurídicas em débito com o FGTS (Lei nº 9.012, de 30 de março de 1995) | 1 | 2019-01-11 to 2019-01-11 |
+| `lei-9013-de-1995` | Altera o art. 322 da Consolidação das Leis do Trabalho (Lei nº 9.013, de 30 de março de 1995) | 1 | 1995-03-31 to 1995-03-31 |
+| `lei-9015-de-1995` | Institui a "Retribuição Variável da Comissão de Valores Mobiliários (RVCVM) e a Retribuição Variável da Superintendência de Seguros Privados (RVSUSEP), atribuídas aos titulares de cargos efetivos da CVM e da SUSEP, e... (Lei nº 9.015, de 30 de março de 1995) | 1 | 2005-01-14 to 2005-01-14 |
+| `lei-9016-de-1995` | Acrescenta parágrafos ao art. 133 da Consolidação das Leis do Trabalho (Lei nº 9.016, de 30 de março de 1995) | 1 | 1995-03-31 to 1995-03-31 |
+| `lei-9017-de-1995` | Estabelece normas de controle e fiscalização sobre produtos e insumos químicos que possam ser destinados à elaboração da cocaína em suas diversas formas e de outras substâncias entorpecentes ou que determinem... (Lei nº 9.017, de 30 de março de 1995) | 1 | 2024-09-10 to 2024-09-10 |
+| `lei-9020-de-1995` | Dispõe sobre a implantação, em caráter emergencial e provisório, da Defensoria Pública da União e dá outras providências (Lei nº 9.020, de 30 de março de 1995) | 1 | 2001-03-26 to 2001-03-26 |
+| `lei-9021-de-1995` | Dispõe sobre a implementação da autarquia Conselho Administrativo de Defesa Econômica (Cade), criada pela Lei nº 8.884, de 11 de junho de 1994, e dá outras providências (Lei nº 9.021, de 30 de março de 1995) | 1 | 1995-03-31 to 1995-03-31 |
+| `lei-9022-de-1995` | Altera os arts. 846, 847 e 848, caput, da Consolidação das Leis do Trabalho (CLT), que dispõem sobre procedimentos a serem adotados na audiência inaugural das Juntas de Conciliação e Julgamento (Lei nº 9.022, de 5 de abril de 1995) | 1 | 1995-04-06 to 1995-04-06 |
+| `lei-9023-de-1995` | Veda a destinação de recursos públicos às instituições que especifica (Lei nº 9.023, de 5 de abril de 1995) | 1 | 1995-04-06 to 1995-04-06 |
+| `lei-9025-de-1995` | Dispõe sobre a assunção, pela União, de crédito da Export Development Corporation (EDC) e de debêntures emitidas pela Embraer - Empresa Brasileira de Aeronáutica S.A., bem como sobre a utilização de créditos da União... (Lei nº 9.025, de 10 de abril de 1995) | 1 | 1995-04-11 to 1995-04-11 |
+| `lei-9027-de-1995` | Altera o art. 5º da Lei nº 7.862, de 30 de outubro de 1989, que dispõe sobre a remuneração das disponibilidades do Tesouro Nacional (Lei nº 9.027, de 12 de abril de 1995) | 1 | 1995-04-13 to 1995-04-13 |
+| `lei-9031-de-1995` | Dispõe sobre os vencimentos dos membros do Ministério Público da União e dá outras providências (Lei nº 9.031, de 13 de abril de 1995) | 1 | 1995-04-17 to 1995-04-17 |
+| `lei-9033-de-1995` | Dá nova redação ao § 1º do art. 408 do Código de Processo Penal (Lei nº 9.033, de 2 de maio de 1995) | 1 | 1995-05-03 to 1995-05-03 |
+| `lei-9035-de-1995` | Dispõe sobre a criação de Procuradorias da República em Municípios e dá outras providências (Lei nº 9.035, de 3 de maio de 1995) | 1 | 1995-05-04 to 1995-05-04 |
+| `lei-9036-de-1995` | Dá nova redação ao art. 14 da Lei nº 8.177, de 1º de março de 1991, que "estabelece regras para a desindexação da economia e dá outras providências” (Lei nº 9.036, de 5 de maio de 1995) | 1 | 1995-05-08 to 1995-05-08 |
+| `lei-9037-de-1995` | Dispõe sobre a criação de Procuradorias da República em Municípios do Interior, e dá outras providências (Lei nº 9.037, de 5 de maio de 1995) | 1 | 1995-06-22 to 1995-06-22 |
+| `lei-9039-de-1995` | Dá nova redação ao § 2º do art. 213 da Lei nº 6.015, de 31 de dezembro de 1973 (Lei nº 9.039, de 9 de maio de 1995) | 1 | 1995-05-10 to 1995-05-10 |
+| `lei-9040-de-1995` | Acrescenta alínea ao inciso II do art. 275 do Código de Processo Civil (Lei nº 9.040, de 9 de maio de 1995) | 1 | 1995-05-10 to 1995-05-10 |
+| `lei-9041-de-1995` | Dispõe sobre dispensa da multa referente ao alistamento eleitoral intempestivo, acrescentando parágrafo único ao art. 8º da Lei nº 4.737, de 15 de junho de 1965 (Código Eleitoral) (Lei nº 9.041, de 9 de maio de 1995) | 1 | 1995-06-24 to 1995-06-24 |
+| `lei-9043-de-1995` | Altera a redação do caput do art. 4º do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal (Lei nº 9.043, de 9 de maio de 1995) | 1 | 1995-05-10 to 1995-05-10 |
+| `lei-9044-de-1995` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária (Incra) a doar o imóvel que menciona (Lei nº 9.044, de 17 de maio de 1995) | 1 | 1995-05-18 to 1995-05-18 |
+| `lei-9046-de-1995` | Acrescenta parágrafos ao art. 83 da Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal (Lei nº 9.046, de 18 de maio de 1995) | 1 | 1995-05-19 to 1995-05-19 |
+| `lei-9047-de-1995` | Altera a redação do § 1º do art. 10 do Decreto-Lei nº 4.657, de 1942 - Lei de Introdução ao Código Civil, que dispõe sobre a sucessão de bens de estrangeiros situados no Brasil (Lei nº 9.047, de 18 de maio de 1995) | 1 | 1995-05-19 to 1995-05-19 |
+| `lei-9049-de-1995` | Faculta o registro, nos documentos pessoais de identificação, das informações que especifica (Lei nº 9.049, de 18 de maio de 1995) | 1 | 1995-05-19 to 1995-05-19 |
+| `lei-9050-de-1995` | Converte em Memorial da Medicina Brasileira o Memorial da Medicina, instalado no prédio da antiga Faculdade de Medicina do Terreiro de Jesus, na cidade de Salvador, Bahia (Lei nº 9.050, de 18 de maio de 1995) | 1 | 1995-05-19 to 1995-05-19 |
+| `lei-9051-de-1995` | Dispõe sobre a expedição de certidões para a defesa de direitos e esclarecimentos de situações (Lei nº 9.051, de 18 de maio de 1995) | 1 | 1995-05-19 to 1995-05-19 |
+| `lei-9053-de-1995` | Altera a redação do art. 50 da Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos, e dá outras providências (Lei nº 9.053, de 25 de maio de 1995) | 1 | 1995-05-26 to 1995-05-26 |
+| `lei-9055-de-1995` | Disciplina a extração, industrialização, utilização, comercialização e transporte do asbesto/amianto e dos produtos que o contenham, bem como das fibras naturais e artificiais, de qualquer origem, utilizadas para o... (Lei nº 9.055, de 1º de junho de 1995) | 1 | 1995-06-02 to 1995-06-02 |
+| `lei-9057-de-1995` | Dá nova redação ao caput do art. 29, e ao seu § 4º, da Lei nº 8.931, de 22 de setembro de 1994, que dispõe sobre as diretrizes para a elaboração da lei orçamentária anual de 1995, e dá outras providências (Lei nº 9.057, de 6 de junho de 1995) | 1 | 1995-06-07 to 1995-06-07 |
+| `lei-9059-de-1995` | Introduz alterações no Decreto-Lei nº 221, de 28 de fevereiro de 1967, que dispõe sobre proteção e estímulo à pesca (Lei nº 9.059, de 13 de junho de 1995) | 1 | 1995-06-14 to 1995-06-14 |
+| `lei-9060-de-1995` | Inclui ligações ferroviárias na Relação Descritiva das Ferrovias do Plano Nacional de Viação, instituído pela Lei nº 5.917, de 10 de setembro de 1973 (Lei nº 9.060, de 14 de junho de 1995) | 1 | 2008-09-18 to 2008-09-18 |
+| `lei-9061-de-1995` | Altera a redação do art. 809 do Código de Processo Penal, referente à estatística judiciária criminal (Lei nº 9.061, de 14 de junho de 1995) | 1 | 1995-06-16 to 1995-06-16 |
+| `lei-9063-de-1995` | Dispõe sobre o valor do salário mínimo, altera disposições das Leis nº 8.212 e nº 8.213 , ambas de 24 de julho de 1991, e dá outras providências (Lei nº 9.063, de 14 de junho de 1995) | 1 | 2006-07-10 to 2006-07-10 |
+| `lei-9066-de-1995` | Autoriza o Poder Executivo a contratar com a ITAIPU Binacional pagamento de débito junto ao Tesouro Nacional com títulos da dívida externa brasileira, denominados "BRAZIL INVESTMENT BOND - BIB", em valor... (Lei nº 9.066, de 20 de junho de 1995) | 1 | 1995-06-21 to 1995-06-21 |
+| `lei-9067-de-1995` | Cria, na 8ª Região da Justiça do Trabalho, em Belém, no Estado do Pará, no âmbito do Ministério Público do Trabalho, cargos de Procuradores do Trabalho de 2ª Categoria, cargos em comissão e dá outras providências (Lei nº 9.067, de 26 de junho de 1995) | 1 | 1995-06-27 to 1995-06-27 |
+| `lei-9068-de-1995` | Cria, na 3ª Região da Justiça do Trabalho, em Belo Horizonte, no Estado de Minas Gerais, no âmbito do Ministério Público do Trabalho, cargos de Procuradores do Trabalho de 2ª Categoria, cargos em comissão e dá outras... (Lei nº 9.068, de 26 de junho de 1995) | 1 | 1995-06-27 to 1995-06-27 |
+| `lei-9075-de-1995` | Revoga o art. 4º da Lei nº 2.410, de 29 de janeiro de 1955, que proíbe a importação de automóveis e barcos de passeio de luxo (Lei nº 9.075, de 7 de julho de 1995) | 1 | 1995-07-10 to 1995-07-10 |
+| `lei-9076-de-1995` | Altera a redação do art. 12 e suprime o art. 53 da Lei nº 6.815, de 19 de agosto de 1980, com as alterações introduzidas pela Lei nº 6.964, de 10 de dezembro de 1981, que define a situação jurídica do estrangeiro no... (Lei nº 9.076, de 10 de julho de 1995) | 1 | 1995-07-11 to 1995-07-11 |
+| `lei-9077-de-1995` | Autoriza o Poder Executivo a utilizar estoques públicos de alimentos no combate à fome e à miséria (Lei nº 9.077, de 10 de julho de 1995) | 1 | 2010-12-02 to 2010-12-02 |
+| `lei-9078-de-1995` | Introduz modificação no Plano Nacional de Viação, incluindo o trecho rodoviário que especifica (Lei nº 9.078, de 11 de julho de 1995) | 1 | 1995-07-12 to 1995-07-12 |
+| `lei-9080-de-1995` | Acrescenta dispositivos às Leis nºs 7.492, de 16 de junho de 1986, e 8.137, de 27 de dezembro de 1990 (Lei nº 9.080, de 19 de julho de 1995) | 1 | 1995-07-20 to 1995-07-20 |
+| `lei-9088-de-1995` | Dispõe sobre a transferência do controle acionário da Companhia Siderúrgica da Amazônia - SIDERAMA e dá outras providências (Lei nº 9.088, de 21 de agosto de 1995) | 1 | 1995-08-22 to 1995-08-22 |
+| `lei-9093-de-1995` | Dispõe sobre feriados (Lei nº 9.093, de 12 de setembro de 1995) | 1 | 1996-12-11 to 1996-12-11 |
+| `lei-9094-de-1995` | Dispõe sobre o resgate de quotas da União pelo Fundo Nacional de Desenvolvimento - FND, e dá outras providências (Lei nº 9.094, de 14 de setembro de 1995) | 1 | 2001-08-24 to 2001-08-24 |
+| `lei-9097-de-1995` | Inclui o Município de São Bento do Sapucaí, Estado de São Paulo, na Área de Proteção Ambiental da Serra da Mantiqueira (Lei nº 9.097, de 19 de setembro de 1995) | 1 | 1995-09-20 to 1995-09-20 |
+| `lei-9098-de-1995` | Revoga as disposições que menciona, relativas a recurso à instância ministerial (Lei nº 9.098, de 19 de setembro de 1995) | 1 | 1995-09-20 to 1995-09-20 |
+| `lei-9111-de-1995` | Acrescenta dispositivo à Lei nº 5.197, de 3 de janeiro de 1967, que dispõe sobre a proteção à fauna (Lei nº 9.111, de 10 de outubro de 1995) | 1 | 1995-10-11 to 1995-10-11 |
+| `lei-9112-de-1995` | Dispõe sobre a exportação de bens sensíveis e serviços diretamente vinculados (Lei nº 9.112, de 10 de outubro de 1995) | 1 | 2001-09-10 to 2001-09-10 |
+| `lei-9113-de-1995` | Dá nova redação ao inciso III do art. 484 do Decreto-lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal (Lei nº 9.113, de 16 de outubro de 1995) | 1 | 1995-10-17 to 1995-10-17 |
+| `lei-9115-de-1995` | Acrescenta dispositivo ao inciso I do art. 6º da Lei nº 8.980, de 19 de janeiro de 1995, que estima a Receita e fixa a Despesa da União para o exercício de 1995 (Lei nº 9.115, de 23 de outubro de 1995) | 1 | 1995-10-24 to 1995-10-24 |
+| `lei-9122-de-1995` | Altera a redação do art. 59 da Lei nº 8.931, de 22 de setembro de 1994, que "dispõe sobre as diretrizes para a elaboração da lei orçamentária anual de 1995 e dá outras providências" (Lei nº 9.122, de 1º de novembro de 1995) | 1 | 1995-11-03 to 1995-11-03 |
+| `lei-9125-de-1995` | Institui o ano de 1995 como o "Ano Zumbi dos Palmares", em homenagem ao tricentenário de sua morte (Lei nº 9.125, de 7 de novembro de 1995) | 1 | 1995-11-08 to 1995-11-08 |
+| `lei-9127-de-1995` | Altera a redação do art. 332 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal (Lei nº 9.127, de 16 de novembro de 1995) | 1 | 1995-11-17 to 1995-11-17 |
+| `lei-9129-de-1995` | Autoriza o parcelamento do recolhimento de contribuições previdenciárias devidas pelos empregadores em geral, na forma que especifica, e determina outras providências (Lei nº 9.129, de 20 de novembro de 1995) | 1 | 1995-11-21 to 1995-11-21 |
+| `lei-9140-de-1995` | Reconhece como mortas pessoas desaparecidas em razão de participação, ou acusação de participação, em atividades políticas, no período de 2 de setembro de 1961 a 15 de agosto de 1979, e dá outras providências (Lei nº 9.140, de 4 de dezembro de 1995) | 1 | 2004-06-02 to 2004-06-02 |
+| `lei-9143-de-1995` | Dispõe sobre a assunção, pela União, de operações de crédito contratadas pela Companhia Estadual de Energia Elétrica-CEEE junto a bancos franceses, bem como de obrigações previstas nos respectivos contratos... (Lei nº 9.143, de 8 de dezembro de 1995) | 1 | 2001-08-27 to 2001-08-27 |
+| `lei-9144-de-1995` | Prorroga a vigência da Lei nº 8.989, de 24 de fevereiro de 1995, que dispõe sobre isenção do Imposto sobre Produtos Industrializados - IPI na aquisição de automóveis para utilização no transporte autônomo de... (Lei nº 9.144, de 8 de dezembro de 1995) | 1 | 1995-12-11 to 1995-12-11 |
+| `lei-9160-de-1995` | Extingue dois cargos de Avaliador Judicial da Justiça do Distrito Federal e dos Territórios (Lei nº 9.160, de 14 de dezembro de 1995) | 1 | 1995-12-15 to 1995-12-15 |
+| `lei-9163-de-1995` | Autoriza a criação de subsidiária da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS, e dá outras providências (Lei nº 9.163, de 15 de dezembro de 1995) | 1 | 1995-12-18 to 1995-12-18 |
+| `lei-9165-de-1995` | Altera o art. 110 da Lei nº 8.443, de 16 de julho de 1992 - Lei Orgânica do Tribunal de Contas da União (Lei nº 9.165, de 19 de dezembro de 1995) | 1 | 1996-02-03 to 1996-02-03 |
+| `lei-9166-de-1995` | Cria Gratificação Temporária devida aos servidores ocupantes do cargo de Patrulheiro Rodoviário Federal e dá outras providências (Lei nº 9.166, de 20 de dezembro de 1995) | 1 | 1995-12-21 to 1995-12-21 |
+| `lei-9238-de-1995` | Ratifica a recriação do Fundo de Administração do Hospital das Forças Armadas e dá outras providências (Lei nº 9.238, de 22 de dezembro de 1995) | 1 | 1995-12-26 to 1995-12-26 |
+| `lei-9239-de-1995` | Ratifica o Fundo de Defesa da Economia Cafeeira - FUNCAFÉ, na forma do disposto no art. 6º da Lei nº 8.173, de 30 de janeiro de 1991 (Lei nº 9.239, de 22 de dezembro de 1995) | 1 | 1996-02-09 to 1996-02-09 |
+| `lei-9240-de-1995` | Ratifica o Fundo de Imprensa Nacional, o Fundo de Prevenção, Recuperação e de Combate às Drogas de Abuso e o Fundo de Defesa dos Direitos Difusos (Lei nº 9.240, de 22 de dezembro de 1995) | 1 | 1995-12-26 to 1995-12-26 |
+| `decreto-lei-2124-de-1984` | Altera a legislação do imposto de renda, e dá outras providências (Decreto-Lei nº 2.124, de 13 de junho de 1984) | 1 | 1984-06-14 to 1984-06-14 |
+| `decreto-lei-2125-de-1984` | Estabelece correspondência de referências de vencimentos concernentes aos servidores alcançados pelo artigo 1º da Lei nº 6.823, de 22 de setembro de 1980 (Decreto-Lei nº 2.125, de 19 de junho de 1984) | 1 | 1984-06-20 to 1984-06-20 |
+| `decreto-lei-2126-de-1984` | Inclui a Gratificação de Função Policial no Anexo II do Decreto-Lei n° 1.360, de 22 de novembro de 1974, e dá outras providências (Decreto-Lei nº 2.126, de 19 de junho de 1984) | 1 | 1984-06-20 to 1984-06-20 |
+| `decreto-lei-2127-de-1984` | Altera a legislação do imposto de renda aplicável aos rendimentos de cadernetas de poupança do Sistema Financeiro da Habitação (Decreto-Lei nº 2.127, de 20 de junho de 1984) | 1 | 1984-06-22 to 1984-06-22 |
+| `decreto-lei-2128-de-1984` | Estende a Gratificação de Desempenho das atividades de Tributação, Arrecadação e Fiscalização dos Tributos Federais aos Fiscais de Contribuições Previdenciárias (Decreto-Lei nº 2.128, de 20 de junho de 1984) | 1 | 1984-06-22 to 1984-06-22 |
+| `decreto-lei-2129-de-1984` | Reajusta o valor do soldo base do cálculo da remuneração dos militares (Decreto-Lei nº 2.129, de 25 de junho de 1984) | 1 | 1984-06-27 to 1984-06-27 |
+| `decreto-lei-2133-de-1984` | Dispõe sobre a tributação, pelo imposto de renda, de rendimento e ganho de capital produzidos por debêntures escriturais e nominativas não endossáveis, e dá outras providências (Decreto-Lei nº 2.133, de 26 de junho de 1984) | 1 | 1984-06-27 to 1984-06-27 |
+| `decreto-lei-2134-de-1984` | Prorroga o prazo de vigência de incentivos fiscais previstos na legislação do imposto de renda e dá outras providências (Decreto-Lei nº 2.134, de 26 de junho de 1984) | 1 | 1984-06-27 to 1984-06-27 |
+| `decreto-lei-2140-de-1984` | Institui a Gratificação de Incentivo à Atividade Odontológica, na Previdência Social, e dá outras providências (Decreto-Lei nº 2.140, de 28 de junho de 1984) | 1 | 1984-06-29 to 1984-06-29 |
+| `decreto-lei-2144-de-1984` | Prorroga o prazo estabelecido pela Lei nº 7.186, de 24 de abril de 1984, para o pagamento de contribuições previdenciárias, e dá outras providências (Decreto-Lei nº 2.144, de 28 de junho de 1984) | 1 | 1984-06-29 to 1984-06-29 |
+| `decreto-lei-2145-de-1984` | Cancela créditos e reabre prazo relativo ao Imposto sobre a Propriedade Territorial Rural, à Contribuição dos que exercem atividades rurais e à Taxa de Serviços Cadastrais (Decreto-Lei nº 2.145, de 28 de junho de 1984) | 1 | 1984-06-29 to 1984-06-29 |
+| `decreto-lei-2146-de-1984` | Reajusta os valores de vencimentos, salários e proventos dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dos Ofícios Judiciais da Justiça do Distrito Federal e dos Territórios (Decreto-Lei nº 2.146, de 2 de julho de 1984) | 1 | 1984-07-03 to 1984-07-03 |
+| `decreto-lei-2151-de-1984` | Concede isenção dos impostos de importação e sobre produtos industrializados para equipamentos de produção cinematográfica (Decreto-Lei nº 2.151, de 5 de julho de 1984) | 1 | 1984-07-06 to 1984-07-06 |
+| `decreto-lei-2152-de-1984` | Estende o prazo limite fixado no Decreto-lei nº 1.825, de 22 de dezembro de 1980, que isenta do imposto de renda os empreendimentos integrantes do Programa Grande Carajás (Decreto-Lei nº 2.152, de 18 de julho de 1984) | 1 | 1984-07-19 to 1984-07-19 |
+| `decreto-lei-2153-de-1984` | Introduz parágrafos no artigo 3º da Lei nº 6.732, de 04 de dezembro de 1979, e dá outra providência (Decreto-Lei nº 2.153, de 24 de julho de 1984) | 1 | 1984-07-25 to 1984-07-25 |
+| `decreto-lei-2155-de-1984` | Altera os limites do Beneficio Fiscal instituída pelo Decreto-lei nº 1358, de 12 de novembro de 1974, e dá outras providências (Decreto-Lei nº 2.155, de 30 de julho de 1984) | 1 | 1984-07-31 to 1984-07-31 |
+| `decreto-lei-2156-de-1984` | Autoriza a elevação do capital do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e dá outras providências (Decreto-Lei nº 2.156, de 13 de agosto de 1984) | 1 | 1984-08-14 to 1984-08-14 |
+| `decreto-lei-2157-de-1984` | Altera o artigo 7º do Decreto-lei nº 2.035, de 21 de junho de 1983, acrescentado pelo Decreto-lei nº 2.055, de 1983, que dispõe sobre a sucessão da autarquia federal Superintendência Nacional da Marinha Mercante -... (Decreto-Lei nº 2.157, de 14 de agosto de 1984) | 1 | 1984-08-15 to 1984-08-15 |
+| `decreto-lei-2158-de-1984` | Autoriza a elevação do capital do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e dá outras providências (Decreto-Lei nº 2.158, de 27 de agosto de 1984) | 1 | 1984-08-28 to 1984-08-28 |
+| `decreto-lei-2160-de-1984` | Inclui gratificação no Anexo II do Decreto-lei nº 1.360, de 22 de novembro de 1974, incorpora gratificações aos proventos de aposentadoria e dá outras providências (Decreto-Lei nº 2.160, de 6 de setembro de 1984) | 1 | 1984-09-10 to 1984-09-10 |
+| `decreto-lei-2162-de-1984` | Altera o limite máximo para elevação das alíquotas da Tarifa Aduaneira no Brasil (Decreto-Lei nº 2.162, de 19 de setembro de 1984) | 1 | 1984-09-21 to 1984-09-21 |
+| `decreto-lei-2165-de-1984` | Institui a Gratificação de Desempenho de Atividades Previdenciárias e dá outras providências (Decreto-Lei nº 2.165, de 2 de outubro de 1984) | 1 | 1984-10-03 to 1984-10-03 |
+| `decreto-lei-2166-de-1984` | Institui Gratificação de Atividades de Assessoramento Especial e de Altos Estudos e Pesquisas, na Escola Superior de Guerra (Decreto-Lei nº 2.166, de 16 de outubro de 1984) | 1 | 1984-10-17 to 1984-10-17 |
+| `decreto-lei-2168-de-1984` | Concede isenção de impostos aos bens importados para substituição ou reparo daqueles danificados pelas inundações ocorridas na Região Sul do País (Decreto-Lei nº 2.168, de 29 de outubro de 1984) | 1 | 1984-10-30 to 1984-10-30 |
+| `decreto-lei-2169-de-1984` | Altera o Decreto-lei nº 1928, de 18 de fevereiro de 1982, que dispõe sobre o pagamento prioritário de débitos decorrentes de compromissos em moeda estrangeira, assumidos pela Administração Pública (Decreto-Lei nº 2.169, de 29 de outubro de 1984) | 1 | 1984-10-30 to 1984-10-30 |
+| `decreto-lei-2170-de-1984` | Dispõe sobre a aplicação da correção monetária aos valores recebidos a maior pelas distribuidoras de combustíveis, relativos a ressarcimentos de fretes (Decreto-Lei nº 2.170, de 5 de novembro de 1984) | 1 | 1984-11-06 to 1984-11-06 |
+| `decreto-lei-2172-de-1984` | Altera os valores e percentuais constantes do Anexo ao Decreto-lei nº 2.131, de 25 de junho de 1984, e dá outras providências (Decreto-Lei nº 2.172, de 19 de novembro de 1984) | 1 | 1984-11-20 to 1984-11-20 |
+| `decreto-lei-2173-de-1984` | Altera o Decreto-lei nº 1.341, de 22 de agosto de 1974, e dá outras providências (Decreto-Lei nº 2.173, de 19 de novembro de 1984) | 1 | 1984-11-20 to 1984-11-20 |
+| `decreto-lei-2174-de-1984` | Dispõe sobre a aplicação do disposto no artigo 2º da Lei nº 6.732, de 04 de dezembro de 1979, aos funcionários designados para o exercício, no exterior, de funções diplomáticas (Decreto-Lei nº 2.174, de 26 de novembro de 1984) | 1 | 1984-11-27 to 1984-11-27 |
+| `decreto-lei-2175-de-1984` | Dispõe sobre o recolhimento dos débitos previdenciários das Prefeituras e Autarquias Municipais (Decreto-Lei nº 2.175, de 27 de novembro de 1984) | 1 | 1984-11-28 to 1984-11-28 |
+| `decreto-lei-2176-de-1984` | Altera o Decreto-lei nº 2.163, de 19 de setembro de 1984, que dispõe sobre a adoção de medidas de incentivo à arrecadação federal (Decreto-Lei nº 2.176, de 29 de novembro de 1984) | 1 | 1984-11-30 to 1984-11-30 |
+| `decreto-lei-2178-de-1984` | Fixa as bases para o soerguimento da Rede Ferroviária Federal S/A - RFFSA, e dá outras providências (Decreto-Lei nº 2.178, de 4 de dezembro de 1984) | 1 | 1984-12-05 to 1984-12-05 |
+| `decreto-lei-2180-de-1984` | Concede isenção dos impostos de importação e sobre produtos industrializados aos bens de capital importados por empresas concessionárias dos serviços de transporte ferroviário ou metroviário de passageiros ou de carga (Decreto-Lei nº 2.180, de 4 de dezembro de 1984) | 1 | 1984-12-05 to 1984-12-05 |
+| `decreto-lei-2181-de-1984` | Restabelece o incentivo fiscal de que trata o Decreto-lei nº 1.932/82 (Decreto-Lei nº 2.181, de 10 de dezembro de 1984) | 1 | 1984-12-11 to 1984-12-11 |
+| `decreto-lei-2182-de-1984` | Altera a Legislação do Imposto de Renda (Decreto-Lei nº 2.182, de 11 de dezembro de 1984) | 1 | 1984-12-12 to 1984-12-12 |
+| `decreto-lei-2183-de-1984` | Descaracteriza como de interesse da Segurança Nacional os municípios que especifica (Decreto-Lei nº 2.183, de 19 de dezembro de 1984) | 1 | 1984-12-20 to 1984-12-20 |
+| `decreto-lei-2184-de-1984` | Altera a redação do art. 2º do Decreto-lei nº 61, de 21 de novembro de 1966, que modificou a Legislação relativa ao Imposto Único sobre lubrificantes e combustíveis líquidos e gasosos e dá outras providências (Decreto-Lei nº 2.184, de 20 de dezembro de 1984) | 1 | 1984-12-21 to 1984-12-21 |
+| `decreto-lei-2185-de-1984` | Dispõe sobre a isenção da Taxa de Melhoramento dos Portos (Decreto-Lei nº 2.185, de 20 de dezembro de 1984) | 1 | 1984-12-21 to 1984-12-21 |
+| `decreto-lei-2187-de-1984` | Altera dispositivo do Decreto-lei nº 1.341, de 22 de agosto de 1974 (Decreto-Lei nº 2.187, de 26 de dezembro de 1984) | 1 | 1984-12-27 to 1984-12-27 |
+| `decreto-lei-2188-de-1984` | Institui a Gratificação de Incentivo à Atividade Médico - Veterinária no Ministério da Agricultura e dá outras providências (Decreto-Lei nº 2.188, de 26 de dezembro de 1984) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-2189-de-1984` | Dispõe sobre a transformação de gratificação deferida aos Engenheiros Agrônomos do Ministério da Agricultura e dá outras providências (Decreto-Lei nº 2.189, de 26 de dezembro de 1984) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-2190-de-1984` | Dispõe sobre os novos percentuais da Gratificação de Representação de Atividade Diplomática e dá outras providências (Decreto-Lei nº 2.190, de 26 de dezembro de 1984) | 1 | 1985-02-10 to 1985-02-10 |
+| `decreto-lei-2191-de-1984` | Altera o Decreto-lei nº 1.341, de 22 de agosto de 1974 e dá outras providências (Decreto-Lei nº 2.191, de 26 de dezembro de 1984) | 1 | 1984-12-27 to 1984-12-27 |
+| `decreto-lei-2192-de-1984` | Restabelece a carreira de Procurador da Fazenda Nacional e fixa os respectivos vencimentos básicos (Decreto-Lei nº 2.192, de 26 de dezembro de 1984) | 1 | 1984-12-27 to 1984-12-27 |
+| `decreto-lei-2193-de-1984` | Inclui no Anexo Il do Decreto-lei nº 1.341, de 22 de agosto de 1974, a Gratificação de Desempenho das Atividades de Fiscalização em Abastecimento, e dá outras providências (Decreto-Lei nº 2.193, de 26 de dezembro de 1984) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-2194-de-1984` | Dispõe sobre a transformação de gratificação deferida aos servidores do Departamento Nacional de Estradas de Rodagem e dá outras providências (Decreto-Lei nº 2.194, de 26 de dezembro de 1984) | 1 | 1984-12-27 to 1984-12-27 |
+| `decreto-lei-2195-de-1984` | Dispõe sobre a concessão do incentivo funcional a que alude o item II do artigo 2º da Lei nº 6.433, de 15 de julho de 1977, e dá outras providências (Decreto-Lei nº 2.195, de 26 de dezembro de 1984) | 1 | 1984-12-27 to 1984-12-27 |
+| `decreto-lei-2196-de-1984` | Dispõe sobre a incorporação da Gratificação que menciona ao provento da aposentadoria e dá outras providências (Decreto-Lei nº 2.196, de 26 de dezembro de 1984) | 1 | 1984-12-27 to 1984-12-27 |
+| `decreto-lei-2197-de-1984` | Autoriza a compensação de imposto de exportação e dá outras providências (Decreto-Lei nº 2.197, de 26 de dezembro de 1984) | 2 | 1984-12-27 to 1986-11-24 |
+| `decreto-lei-2198-de-1984` | Aplica, no que couber, o disposto nos Decretos-leis nºs 2.114, de 23 de abril de 1984 e 2.140, de 28 de junho de 1984, aos Médicos e aos Dentistas, respectivamente, do Hospital das Forças Armadas (Decreto-Lei nº 2.198, de 26 de dezembro de 1984) | 1 | 1984-12-27 to 1984-12-27 |
+| `decreto-lei-2199-de-1984` | Dispõe sobre a incorporação da Gratificação de Desempenho de Função Essencial à Prestação Jurisdicional ao provento de aposentadoria (Decreto-Lei nº 2.199, de 26 de dezembro de 1984) | 1 | 1984-12-27 to 1984-12-27 |
+| `decreto-lei-2200-de-1984` | Altera o Decreto-lei nº 1.341, de 22 de agosto de 1974, e dá outras providências (Decreto-Lei nº 2.200, de 26 de dezembro de 1984) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-2206-de-1984` | Reajusta o limite de remuneração estabelecido pelo Decreto-lei nº 1971, de 30 de novembro de 1982 (Decreto-Lei nº 2.206, de 28 de dezembro de 1984) | 1 | 1984-12-21 to 1984-12-21 |
+| `decreto-lei-2207-de-1984` | Autoriza a elevação do capital social do Banco Nacional de crédito Cooperativo S.A. - BNCC e dá outras providências (Decreto-Lei nº 2.207, de 28 de dezembro de 1984) | 1 | 1985-02-04 to 1985-02-04 |
+| `decreto-lei-2212-de-1984` | Estabelece contenção de despesas orçamentárias para o exercício de 1985, e dá outras providências (Decreto-Lei nº 2.212, de 31 de dezembro de 1984) | 1 | 1985-02-06 to 1985-02-06 |
+| `decreto-lei-2215-de-1985` | Reajusta os atuais valores de vencimentos e proventos dos servidores da Secretaria-Geral do Tribunal de Contas da União e dá outras providências (Decreto-Lei nº 2.215, de 3 de janeiro de 1985) | 1 | 1985-01-04 to 1985-01-04 |
+| `decreto-lei-2216-de-1985` | Reajusta os atuais valores de vencimentos, salários e proventos dos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, bem como os das pensões, e dá outras providências (Decreto-Lei nº 2.216, de 3 de janeiro de 1985) | 1 | 1985-01-04 to 1985-01-04 |
+| `decreto-lei-2226-de-1985` | Autoriza o Tesouro Nacional a participar do capital da Companhia Brasileira de Entrepostos e Comércio-COBEC e dá outras providências (Decreto-Lei nº 2.226, de 16 de janeiro de 1985) | 1 | 1985-01-17 to 1985-01-17 |
+| `decreto-lei-2228-de-1985` | Reajusta os atuais valores dos vencimentos, salários, proventos, pensões e da Gratificação de Dedicação Exclusiva dos servidores que menciona e dá outras providências (Decreto-Lei nº 2.228, de 17 de janeiro de 1985) | 1 | 1985-03-04 to 1985-03-04 |
+| `decreto-lei-2230-de-1985` | Altera o percentual da representação mensal dos cargos que menciona (Decreto-Lei nº 2.230, de 17 de janeiro de 1985) | 1 | 1985-01-18 to 1985-01-18 |
+| `decreto-lei-2232-de-1985` | Dá nova redação ao art. 5º do Decreto-lei nº 1.950, de 14 de julho de 1982 (Decreto-Lei nº 2.232, de 21 de janeiro de 1985) | 1 | 1985-01-22 to 1985-01-22 |
+| `decreto-lei-2233-de-1985` | Autorizado Poder Executivo a abrir crédito especial no valor de Cr$15.000.000.000, para o fim que especifica (Decreto-Lei nº 2.233, de 21 de janeiro de 1985) | 1 | 1985-01-22 to 1985-01-22 |
+| `decreto-lei-2234-de-1985` | Limita a remuneração e demais vantagens devidas a Diplomatas casados, servindo juntos no exterior (Decreto-Lei nº 2.234, de 23 de janeiro de 1985) | 1 | 1985-01-24 to 1985-01-24 |
+| `decreto-lei-2235-de-1985` | Acrescenta o nível 5 na escala de vencimentos do Grupo-Direção e Assessoramento Superiores constante do Anexo II, do Decreto-lei nº 1.462, de 29 de abril de 1976 (Decreto-Lei nº 2.235, de 23 de janeiro de 1985) | 1 | 1985-01-24 to 1985-01-24 |
+| `decreto-lei-2236-de-1985` | Altera a tabela de emolumentos e taxas aprovada pelo artigo 131 da lei nº 6.815, de 19 de agosto de 1980 (Decreto-Lei nº 2.236, de 23 de janeiro de 1985) | 1 | 1997-10-16 to 1997-10-16 |
+| `decreto-lei-2237-de-1985` | Altera o artigo 2º do Decreto-lei nº 1305, de 08 de janeiro de 1974, que dispõe sobre as contribuições destinadas à aplicação nas atividades ligadas ao ensino profissional aeronáutico, e dá outras providências (Decreto-Lei nº 2.237, de 24 de janeiro de 1985) | 1 | 1985-01-25 to 1985-01-25 |
+| `decreto-lei-2239-de-1985` | Inclui a Gratificação de Atividade Técnico-Administrativa no Anexo II do Decreto-lei nº 1.360, de 22 de novembro de 1974, e dá Outras providências (Decreto-Lei nº 2.239, de 28 de janeiro de 1985) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-2241-de-1985` | Estende até 31 de dezembro de 1985 o prazo a que se refere o artigo 5º do Decreto-lei nº 2.061, de 19 de setembro de 1983 (Decreto-Lei nº 2.241, de 5 de fevereiro de 1985) | 1 | 1985-02-06 to 1985-02-06 |
+| `decreto-lei-2243-de-1985` | Inclui parágrafo único no artigo 3º do Decreto-lei nº 1.727, de 10 dezembro de 1979, e dá outras providências (Decreto-Lei nº 2.243, de 11 de fevereiro de 1985) | 1 | 1985-02-12 to 1985-02-12 |
+| `decreto-lei-2244-de-1985` | Restabelece a carreira de Procurador do Distrito Federal e fixa os respectivos vencimentos básicos (Decreto-Lei nº 2.244, de 14 de fevereiro de 1985) | 1 | 1985-04-01 to 1985-04-01 |
+| `decreto-lei-2245-de-1985` | Dispõe sobre a composição das Categorias Direção Superior e Assessoramento superior, do Grupo-Direção e Assessoramento Superiores do Quadro Permanente do Ministério das Relações Exteriores, e dá outras providências (Decreto-Lei nº 2.245, de 14 de fevereiro de 1985) | 1 | 1985-02-15 to 1985-02-15 |
+| `decreto-lei-2246-de-1985` | Inclui no Anexo II do Decreto-lei nº 1.341, de 22 de agosto de 1974, a Gratificação de Desempenho da Atividade de Fiscalização do Trabalho (Decreto-Lei nº 2.246, de 21 de fevereiro de 1985) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-2247-de-1985` | Estende a isenção de impostos prevista no artigo 1º do Decreto-lei nº 2.044, de 7 de julho de 1983, às hipóteses que indica (Decreto-Lei nº 2.247, de 21 de fevereiro de 1985) | 1 | 1985-02-22 to 1985-02-22 |
+| `decreto-lei-2248-de-1985` | Concede isenção dos impostos de importação e sobre produtos industrializados aos bens destinados aos Censos Econômicos de 1985 (Decreto-Lei nº 2.248, de 25 de fevereiro de 1985) | 1 | 1985-02-26 to 1985-02-26 |
+| `decreto-lei-2249-de-1985` | Estende a concessão da Gratificação de Atividade Técnico-Administrativa aos ocupantes de cargos e empregos de nível superior dos quadros e tabelas da Administração Federal direta e das autarquias federais (Decreto-Lei nº 2.249, de 25 de fevereiro de 1985) | 1 | 1985-11-20 to 1985-11-20 |
+| `decreto-lei-2251-de-1985` | Dispõe sobre a criação da Carreira Policial Federal e seus cargos, fixa os valores de seus vencimentos e dá outras providências (Decreto-Lei nº 2.251, de 26 de fevereiro de 1985) | 1 | 1985-02-27 to 1985-02-27 |
+| `decreto-lei-2252-de-1985` | Revoga o art. 4º e seus parágrafos do Decreto-Lei nº 1.924, de 20 de janeiro de 1982, que “destina ao Comitê Olímpico Brasileiro a renda líquida de um dos concursos de prognósticos esportivos nos anos em que não são... (Decreto-Lei nº 2.252, de 4 de março de 1985) | 1 | 1985-03-05 to 1985-03-05 |
+| `decreto-lei-2253-de-1985` | Altera dispositivos da Lei nº 3.807, de 26 de agosto de 1960 (Lei Orgânica da Previdência Social), relativos à filiação dos empregados das missões diplomáticas e repartições consulares estrangeiras e dos membros destas (Decreto-Lei nº 2.253, de 4 de março de 1985) | 1 | 1985-03-05 to 1985-03-05 |
+| `decreto-lei-2254-de-1985` | Inclui no Anexo II do Decreto-lei nº 1.341, de 22 de agosto de 1974, a Gratificação de Desempenho de Atividades de Fiscalização Financeira e Orçamentária da União, e dá outras providências (Decreto-Lei nº 2.254, de 4 de março de 1985) | 1 | 1985-03-05 to 1985-03-05 |
+| `decreto-lei-2255-de-1985` | Institui a Gratificação de Incentivo à Atividade Agronômica no Distrito Federal, e dá outras providências (Decreto-Lei nº 2.255, de 4 de março de 1985) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-2256-de-1985` | Institui a Gratificação de Incentivo à Atividade Médico-Veterinária no Distrito Federal, e dá outras providências (Decreto-Lei nº 2.256, de 4 de março de 1985) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-2257-de-1985` | Institui a Gratificação pelo Desempenho de Atividades Rodoviárias no Departamento de Estradas de Rodagem do Distrito Federal (Decreto-Lei nº 2.257, de 4 de março de 1985) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-2259-de-1985` | Estende a gratificação instituída pela Decreto-lei nº 2.111, de 04 de abril de 1984, com as alterações introduzidas pelo Decreto-lei nº 2.196, de 26 de dezembro de 1984, aos integrantes da Polícia Rodoviária Federal (Decreto-Lei nº 2.259, de 4 de março de 1985) | 1 | 1985-03-05 to 1985-03-05 |
+| `decreto-lei-2260-de-1985` | Estende aos Fiscais de Contribuições Previdenciárias o disposto no Decreto-lei nº 2.187, de 26 de dezembro de 1984 (Decreto-Lei nº 2.260, de 4 de março de 1985) | 1 | 1985-03-05 to 1985-03-05 |
+| `decreto-lei-2261-de-1985` | Institui a Gratificação de Desempenho de Atividades de Fiscalização Financeira e Orçamentária do Distrito Federal, destinada aos integrantes da categoria que indica, do Quadro de Pessoal dos serviços Auxiliares do... (Decreto-Lei nº 2.261, de 4 de março de 1985) | 1 | 1985-03-05 to 1985-03-05 |
+| `decreto-lei-2262-de-1985` | Estende aos ocupantes de cargos e empregos de nível superior do Quadro e Tabela de Pessoal dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal o disposta no Decreto-lei nº 2.200, de 26 de dezembro de... (Decreto-Lei nº 2.262, de 4 de março de 1985) | 1 | 1985-03-05 to 1985-03-05 |
+| `decreto-lei-2263-de-1985` | Acrescenta nível à escala de vencimentos do Grupo-Direção e Assessoramento Superiores, Código TCDF-DAS-100, prevista no artigo 1º da Lei nº 6.002, de 19 de dezembro de 1973, alterada pelo artigo 1º da Lei nº 6.714,... (Decreto-Lei nº 2.263, de 4 de março de 1985) | 1 | 1985-03-05 to 1985-03-05 |
+| `decreto-lei-2264-de-1985` | Dispõe sobre a venda de bens imóveis pelo Ministério da Fazenda, com aplicação do produto da operação em empreendimentos do seu interesse e dá outras providências (Decreto-Lei nº 2.264, de 4 de março de 1985) | 1 | 1985-03-05 to 1985-03-05 |
+| `decreto-lei-2265-de-1985` | Dispõe sobre o recolhimento dos débitos previdenciários das Fundações e Autarquias Educacionais de Ensino Superior, mantidas com recursos do Poder Público (Decreto-Lei nº 2.265, de 4 de março de 1985) | 1 | 1985-03-05 to 1985-03-05 |
+| `decreto-lei-2267-de-1985` | Transforma e cria cargos na carreira do Ministério Público do Distrito Federal e dos Territórios, fixa vencimentos e dá outras providências (Decreto-Lei nº 2.267, de 13 de março de 1985) | 1 | 1985-03-14 to 1985-03-14 |
+| `decreto-lei-2268-de-1985` | Dispõe sobre a remuneração dos membros do Ministério Público Federal e dá outras providências (Decreto-Lei nº 2.268, de 13 de março de 1985) | 1 | 1985-03-14 to 1985-03-14 |
+| `decreto-lei-2269-de-1985` | Estende a concessão da Gratificação de Atividade Técnico-Administrativa aos ocupantes de cargos e empregos de nível superior do Quadro e das Tabelas de Pessoal do Distrito Federal e de suas autarquias (Decreto-Lei nº 2.269, de 13 de março de 1985) | 1 | 1985-03-14 to 1985-03-14 |
+| `decreto-lei-2271-de-1985` | Revoga o Decreto-lei nº 1.343, de 11 de setembro de 1974, e o art. 12 do Decreto-lei nº 352, de 17 de junho de 1968 (Decreto-Lei nº 2.271, de 13 de março de 1985) | 1 | 1985-03-14 to 1985-03-14 |
+| `decreto-lei-2272-de-1985` | Dispõe sobre o cancelamento de débitos para com a Fazenda Nacional, de natureza não tributária, contraídos por entidades filantrópicas (Decreto-Lei nº 2.272, de 13 de março de 1985) | 1 | 1985-03-14 to 1985-03-14 |
+| `decreto-lei-2273-de-1985` | Cria cargos no Ministério da Cultura e dá outras providências (Decreto-Lei nº 2.273, de 15 de março de 1985) | 1 | 1985-03-15 to 1985-03-15 |
+| `decreto-lei-2274-de-1985` | Cria cargos no Ministério do Desenvolvimento Urbano e Meio Ambiente (Decreto-Lei nº 2.274, de 15 de março de 1985) | 1 | 1985-04-29 to 1985-04-29 |
+| `decreto-lei-2275-de-1985` | Cria cargos no Ministério da Ciência e Tecnologia, e dá outras providências (Decreto-Lei nº 2.275, de 15 de março de 1985) | 1 | 1985-03-15 to 1985-03-15 |
+| `decreto-lei-2276-de-1985` | Altera disposições do Decreto-lei nº 2.212, de 31 de dezembro de 1984, e dá outras providências (Decreto-Lei nº 2.276, de 18 de março de 1985) | 1 | 1985-03-18 to 1985-03-18 |
+| `decreto-lei-2277-de-1985` | Reajusta os limites de que trata o art. 1º do Decreto-lei nº 1.312, de 15 de fevereiro de 1974, alterado pelos Decretos-leis nºs 1.460, de 22 de abril de 1976, 1.562, de 19 de julho de 1977, 1.651, de 21 de dezembro... (Decreto-Lei nº 2.277, de 2 de abril de 1985) | 1 | 1985-04-03 to 1985-04-03 |
+| `decreto-lei-2278-de-1985` | Altera o artigo 1º do Decreto-lei nº 1.477, de 26 de agosto de 1976 (Decreto-Lei nº 2.278, de 19 de novembro de 1985) | 1 | 1985-11-20 to 1985-11-20 |
+| `decreto-lei-2279-de-1985` | Dispõe sobre o reajustamento dos vencimentos dos funcionários de que tratam os Decretos-leis ns. 2.225, de 10 de janeiro de 1985, e 2.251, de 26 de fevereiro de 1985 (Decreto-Lei nº 2.279, de 16 de dezembro de 1985) | 1 | 1985-12-17 to 1985-12-17 |
+| `decreto-lei-2280-de-1985` | Cria, mediante transformação, empregos na Administração Federal direta e nas autarquias federais e dá outras providências (Decreto-Lei nº 2.280, de 16 de dezembro de 1985) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-2286-de-1986` | Dispõe sobre cobrança de imposto nas operações a termos de bolsas de mercadorias e dá outras providências (Decreto-Lei nº 2.286, de 23 de julho de 1986) | 1 | 1986-07-24 to 1986-07-24 |
+| `decreto-lei-2290-de-1986` | Estabelece normas sobre a desindexação da economia e dá outras providências (Decreto-Lei nº 2.290, de 21 de novembro de 1986) | 1 | 1989-06-30 to 1989-06-30 |
+| `decreto-lei-2291-de-1986` | Extingue o Banco Nacional da Habitação - BNH, e dá outras Providências (Decreto-Lei nº 2.291, de 21 de novembro de 1986) | 1 | 1988-01-06 to 1988-01-06 |
+| `decreto-lei-2296-de-1986` | Concede estímulos aos programas de previdência privada, para incentivar a formação de poupança de longo prazo, e dá outras providências (Decreto-Lei nº 2.296, de 21 de novembro de 1986) | 1 | 1986-11-24 to 1986-11-24 |
+| `decreto-lei-2297-de-1986` | Isenta do imposto de renda o ganho auferido, por pessoas físicas, na alienação de imóveis financiados pelo Sistema Financeiro da Habitação (Decreto-Lei nº 2.297, de 21 de novembro de 1986) | 1 | 1986-11-24 to 1986-11-24 |
+| `decreto-lei-2299-de-1986` | Altera o Decreto-lei n º 200, de 25 de fevereiro de 1967, e dá outras providências (Decreto-Lei nº 2.299, de 21 de novembro de 1986) | 1 | 1986-11-24 to 1986-11-24 |
+| `decreto-lei-2304-de-1986` | Dispõe sobre a aplicação de recursos de fundo de investimentos do Nordeste (FINOR), do fundo de Investimentos da Amazônia (FINAM) e do Fundo de Investimentos Setoriais (FISET) e dá outras providências (Decreto-Lei nº 2.304, de 21 de novembro de 1986) | 1 | 1986-11-25 to 1986-11-25 |
+| `decreto-lei-2306-de-1986` | Altera a redação do § 4º do artigo 5º do Decreto-lei nº 2.290, de 21 de novembro de 1986 (Decreto-Lei nº 2.306, de 18 de dezembro de 1986) | 1 | 1987-02-02 to 1987-02-02 |
+| `decreto-lei-2307-de-1986` | Dispõe sobre as operações de crédito e financiamento, no âmbito da Administração Federal, e dá outras providências (Decreto-Lei nº 2.307, de 18 de dezembro de 1986) | 1 | 1986-12-19 to 1986-12-19 |
+| `decreto-lei-2308-de-1986` | Altera a legislação do imposto de renda (Decreto-Lei nº 2.308, de 19 de dezembro de 1986) | 1 | 1986-12-22 to 1986-12-22 |
+| `decreto-lei-2309-de-1986` | Prorroga até 31 de dezembro de 1988 o prazo de isenção fiscal concedida às empresas siderúrgicas pelo Decreto-lei nº 569, de 7 de maio de 1969 (Decreto-Lei nº 2.309, de 22 de dezembro de 1986) | 1 | 1986-12-23 to 1986-12-23 |
+| `decreto-lei-2310-de-1986` | Reajusta os valores de vencimentos, salários, soldos e proventos dos servidores civis e militares da União, dos Territórios e das autarquias federais, dos membros do Poder Judiciário da União, do Distrito Federal e... (Decreto-Lei nº 2.310, de 22 de dezembro de 1986) | 1 | 1986-12-23 to 1986-12-23 |
+| `decreto-lei-2311-de-1986` | Dá nova redação ao parágrafo único do artigo 6º e ao artigo 12 do Decreto-lei nº 2.284, de 10 de março de 1986 e ao § 3º, do artigo 2º do Decreto-lei nº 2.290, de 21 de novembro de 1986 (Decreto-Lei nº 2.311, de 23 de dezembro de 1986) | 1 | 1986-12-24 to 1986-12-24 |
+| `decreto-lei-2314-de-1986` | Altera a legislação do imposto de renda (Decreto-Lei nº 2.314, de 21 de dezembro de 1986) | 1 | 1986-12-24 to 1986-12-24 |
+| `decreto-lei-2316-de-1986` | Introduz alterações no Código Tributário do Distrito Federal, instituído pelo Decreto-lei nº 82, de 26 de dezembro de 1966 (Decreto-Lei nº 2.316, de 21 de dezembro de 1986) | 1 | 1986-12-24 to 1986-12-24 |
+| `decreto-lei-2317-de-1986` | Reajusta os vencimentos, salários, soldos e proventos dos servidores civis e da Polícia Militar e do Corpo de Bombeiros do Distrito Federal, dos membros e dos servidores do Tribunal de Contas do Distrito Federal e do... (Decreto-Lei nº 2.317, de 21 de dezembro de 1986) | 1 | 1986-12-24 to 1986-12-24 |
+| `decreto-lei-2318-de-1986` | Dispõe sobre fontes de custeio da Previdência Social e sobre a admissão de menores nas empresas (Decreto-Lei nº 2.318, de 30 de dezembro de 1986) | 1 | 1986-12-31 to 1986-12-31 |
+| `decreto-lei-2319-de-1987` | Dispõe sobre a participação da EMBRAER - Empresa Brasileira de Aeronáutica S.A. em sociedades a serem constituídas no Brasil e no exterior (Decreto-Lei nº 2.319, de 26 de janeiro de 1987) | 1 | 1986-01-27 to 1986-01-27 |
+| `decreto-lei-2322-de-1987` | Altera o Decreto-lei n° 2.290, de 21 de novembro de 1986, e dá outras providências (Decreto-Lei nº 2.322, de 26 de fevereiro de 1987) | 1 | 1987-02-27 to 1987-02-27 |
+| `decreto-lei-2323-de-1987` | Dispõe sobre a atualização monetária de débitos fiscais e dá outras providências (Decreto-Lei nº 2.323, de 26 de fevereiro de 1987) | 1 | 2024-09-16 to 2024-09-16 |
+| `decreto-lei-2325-de-1987` | Altera a legislação do Imposto de Renda (Decreto-Lei nº 2.325, de 8 de abril de 1987) | 1 | 1987-04-09 to 1987-04-09 |
+| `decreto-lei-2326-de-1987` | Altera a legislação do Imposto de Renda aplicável a pessoas físicas (Decreto-Lei nº 2.326, de 14 de abril de 1987) | 1 | 1987-04-15 to 1987-04-15 |
+| `decreto-lei-2327-de-1987` | Altera o Decreto-lei nº 2.321, de 25 de fevereiro de 1987 (Decreto-Lei nº 2.327, de 24 de abril de 1987) | 1 | 1987-04-27 to 1987-04-27 |
+| `decreto-lei-2328-de-1987` | Extingue o Grupo Executivo das Terras do Araguaia-Tocantins - GETAT, e dá outras providências (Decreto-Lei nº 2.328, de 5 de maio de 1987) | 1 | 1987-05-06 to 1987-05-06 |
+| `decreto-lei-2329-de-1987` | Altera o Decreto-lei nº 2.288, de 23 de julho de 1986, e dá outras providências (Decreto-Lei nº 2.329, de 20 de maio de 1987) | 1 | 1987-06-21 to 1987-06-21 |
+| `decreto-lei-2330-de-1987` | Altera o limite percentual da Gratificação de Segurança de Vôo instituída pelo art. 5º da Lei nº 7.139, de 7 de novembro de 1983, e dá outras providências (Decreto-Lei nº 2.330, de 22 de maio de 1987) | 1 | 1987-05-25 to 1987-05-25 |
+| `decreto-lei-2331-de-1987` | Dispõe sobre a adoção de medidas de incentivo à arrecadação federal, e dá outras providências (Decreto-Lei nº 2.331, de 28 de maio de 1987) | 1 | 1987-05-29 to 1987-05-29 |
+| `decreto-lei-2332-de-1987` | Dispõe sobre a constituição de reserva especial no balanço de instituições financeiras, e dá outras providências (Decreto-Lei nº 2.332, de 9 de junho de 1987) | 1 | 1987-06-10 to 1987-06-10 |
+| `decreto-lei-2333-de-1987` | Concede aos membros da Advocacia Consultiva da União as vantagens que menciona e dá outras providências (Decreto-Lei nº 2.333, de 12 de junho de 1987) | 1 | 1987-07-24 to 1987-07-24 |
+| `decreto-lei-2334-de-1987` | Dispõe sobre os vencimentos dos membros do Poder Judiciário da União, do Distrito Federal e Territórios e do Tribunal de Contas da União (Decreto-Lei nº 2.334, de 11 de junho de 1987) | 1 | 1987-06-13 to 1987-06-13 |
+| `decreto-lei-2336-de-1987` | Altera a redação de dispositivos do Decreto-lei nº 2.335, de 12 de junho de 1987 (Decreto-Lei nº 2.336, de 15 de junho de 1987) | 1 | 1987-06-16 to 1987-06-16 |
+| `decreto-lei-2337-de-1987` | Altera os artigos 13 e 14 do Decreto-lei nº 2.335, de 12 de junho de 1987, e dá outras providências (Decreto-Lei nº 2.337, de 18 de junho de 1987) | 1 | 1987-06-19 to 1987-06-19 |
+| `decreto-lei-2338-de-1987` | Dispõe sobre o pagamento da remuneração de que tratam os artigos 3º, 4º e 7º do Decreto-lei nº 1.971, de 30 de novembro de 1982, que estabelece limite de retribuição dos servidores da Administração direta e indireta... (Decreto-Lei nº 2.338, de 19 de junho de 1987) | 1 | 1987-06-22 to 1987-06-22 |
+| `decreto-lei-2339-de-1987` | Altera o Decreto-lei nº 2.335, de 12 de junho de 1987, e dá outras providências (Decreto-Lei nº 2.339, de 26 de junho de 1987) | 1 | 1987-06-29 to 1987-06-29 |
+| `decreto-lei-2340-de-1987` | Autoriza o Ministério da Agricultura a contratar, mediante concorrência, a exploração de apatita das jazidas de Ipanema, em São Paulo e sua transformação em fosfato solúvel, mediante as condições que estabelece (Decreto-Lei nº 2.340, de 26 de junho de 1987) | 1 | 1987-08-13 to 1987-08-13 |
+| `decreto-lei-2342-de-1987` | Altera os artigos 13 e 14 do Decreto-lei nº 2.335, de 12 de julho de 1987 (Decreto-Lei nº 2.342, de 10 de julho de 1987) | 1 | 1987-07-13 to 1987-07-13 |
+| `decreto-lei-2343-de-1987` | Acrescenta parágrafo ao artigo 8º do Decreto-lei nº 2.335, de 12 de junho de 1987 (Decreto-Lei nº 2.343, de 10 de julho de 1987) | 1 | 1987-07-13 to 1987-07-13 |
+| `decreto-lei-2344-de-1987` | Altera o Decreto-lei no 2.333, de 11 de junho de 1987 (Decreto-Lei nº 2.344, de 23 de julho de 1987) | 1 | 1987-07-24 to 1987-07-24 |
+| `decreto-lei-2346-de-1987` | Cria, no Magistério da Fazenda, os cargos que especifica e dá outras providências (Decreto-Lei nº 2.346, de 23 de julho de 1987) | 1 | 2016-07-29 to 2016-07-29 |
+| `decreto-lei-2347-de-1987` | Cria na Secretaria de Planejamento e Coordenação da Presidência da República os cargos que especifica, e dá outras providências (Decreto-Lei nº 2.347, de 23 de julho de 1987) | 1 | 1987-07-24 to 1987-07-24 |
+| `decreto-lei-2349-de-1987` | Dispõe sobre limite para a cobertura pelo Fundo de Compensação de Variações Salariais - FCVS, e dá outras providências (Decreto-Lei nº 2.349, de 29 de julho de 1987) | 1 | 1987-07-30 to 1987-07-30 |
+| `decreto-lei-2350-de-1987` | Dispõe sobre o incentivo fiscal a que se refere a Lei nº 7.554, de 16 de dezembro de 1986, concedido às empresas controladas pela Siderurgia Brasileira S.A. - SIDERBRÁS ( Grupo SIDERBRÁS ) (Decreto-Lei nº 2.350, de 31 de julho de 1987) | 1 | 1987-08-03 to 1987-08-03 |
+| `decreto-lei-2352-de-1987` | Concede abono salarial e dá outras providências (Decreto-Lei nº 2.352, de 7 de agosto de 1987) | 1 | 1987-08-10 to 1987-08-10 |
+| `decreto-lei-2354-de-1987` | Altera a legislação do imposto de renda (Decreto-Lei nº 2.354, de 24 de agosto de 1987) | 1 | 1987-08-25 to 1987-08-25 |
+| `decreto-lei-2355-de-1987` | Estabelece limite de retribuição na Administração Pública da União, do Distrito Federal e dos Territórios, e dá outras providências (Decreto-Lei nº 2.355, de 27 de agosto de 1987) | 2 | 1989-12-13 to 2017-07-11 |
+| `decreto-lei-2357-de-1987` | Institui Programa Trienal de Aperfeiçoamento da Arrecadação das Receitas Federais, e dá outras providências (Decreto-Lei nº 2.357, de 28 de agosto de 1987) | 1 | 1987-10-28 to 1987-10-28 |
+| `decreto-lei-2358-de-1987` | Dispõe sobre a percepção de gratificações por servidores do Departamento Nacional de Estradas de Rodagem, e dá outras providências (Decreto-Lei nº 2.358, de 4 de setembro de 1987) | 1 | 1987-09-08 to 1987-09-08 |
+| `decreto-lei-2359-de-1987` | Estende benefícios fiscais ao empreendimento integrante do Plano de Recuperação do Setor de Energia Elétrica (Decreto-Lei nº 2.359, de 16 de setembro de 1987) | 1 | 1975-03-21 to 1975-03-21 |
+| `decreto-lei-2361-de-1987` | Dispõe sobre o reajuste de preços de contratos de prestação de serviços no caso que especifica (Decreto-Lei nº 2.361, de 24 de setembro de 1987) | 1 | 1987-09-25 to 1987-09-25 |
+| `decreto-lei-2364-de-1987` | Fixa o valor do soldo base do cálculo da remuneração dos militares (Decreto-Lei nº 2.364, de 22 de outubro de 1987) | 1 | 1987-10-23 to 1987-10-23 |
+| `decreto-lei-2366-de-1987` | Altera o Decreto-lei nº 2.365, de 27 de outubro de 1987, e dá outras providências (Decreto-Lei nº 2.366, de 4 de novembro de 1987) | 1 | 1987-11-05 to 1987-11-05 |
+| `decreto-lei-2367-de-1987` | Institui gratificação a ser deferida aos servidores que especifica, e dá outras providências (Decreto-Lei nº 2.367, de 5 de novembro de 1987) | 1 | 1987-12-10 to 1987-12-10 |
+| `decreto-lei-2368-de-1987` | Fixa o valor do soldo base do cálculo da remuneração da Polícia Militar e do Corpo de Bombeiros do Distrito Federal (Decreto-Lei nº 2.368, de 5 de novembro de 1987) | 1 | 1987-11-06 to 1987-11-06 |
+| `decreto-lei-2371-de-1987` | Dispõe sobre os vencimentos e a representação mensal devida aos servidores que especifica, e dá outras providências (Decreto-Lei nº 2.371, de 18 de novembro de 1987) | 1 | 1987-11-19 to 1987-11-19 |
+| `decreto-lei-2373-de-1987` | Dispõe sobre o posicionamento dos funcionários pertencentes à categoria de Técnico do Tesouro Nacional da Carreira Auditoria do Tesouro Nacional, instituída pelo Decreto-lei nº 2.225, de 10 de janeiro de 1985 (Decreto-Lei nº 2.373, de 19 de novembro de 1987) | 1 | 1987-11-20 to 1987-11-20 |
+| `decreto-lei-2374-de-1987` | Dispõe sobre a aplicação do Decreto-lei nº 2.365, de 27 de outubro de 1987, aos servidores da Superintendência do Desenvolvimento do Nordeste - Sudene e dá outras providências (Decreto-Lei nº 2.374, de 19 de novembro de 1987) | 1 | 1987-11-20 to 1987-11-20 |
+| `decreto-lei-2376-de-1987` | Dispõe sobre a dívida mobiliária interna da União, e dá outras providências (Decreto-Lei nº 2.376, de 25 de novembro de 1987) | 1 | 2001-02-07 to 2001-02-07 |
+| `decreto-lei-2378-de-1987` | Concede aos integrantes do Grupo Serviços Jurídicos e da Carreira de Procurador do Distrito Federal as vantagens que menciona, e dá outras providências (Decreto-Lei nº 2.378, de 3 de dezembro de 1987) | 1 | 1987-12-04 to 1987-12-04 |
+| `decreto-lei-2379-de-1987` | Altera o Decreto lei n° 2.367, de 5 de novembro de 1987, e dá outras providências (Decreto-Lei nº 2.379, de 9 de dezembro de 1987) | 1 | 1987-12-10 to 1987-12-10 |
+| `decreto-lei-2381-de-1987` | Isenta do Imposto sobre Produtos Industrializados os produtos que indica, e dá outras providências (Decreto-Lei nº 2.381, de 9 de dezembro de 1987) | 1 | 1988-01-24 to 1988-01-24 |
+| `decreto-lei-2382-de-1987` | Dispõe sobre a aplicação do Plano Único de Classificação e Retribuição de Cargos e Empregos aos estabelecimentos de ensino das Forças Armadas, e dá outras providências (Decreto-Lei nº 2.382, de 9 de dezembro de 1987) | 1 | 1987-12-10 to 1987-12-10 |
+| `decreto-lei-2383-de-1987` | Dispõe sobre o Fundo Nacional de Desenvolvimento (FND), e dá outras providências (Decreto-Lei nº 2.383, de 17 de dezembro de 1987) | 1 | 1971-10-11 to 1971-10-11 |
+| `decreto-lei-2384-de-1987` | Revoga o art. 12 do Decreto-lei nº 138, de 2 de fevereiro de 1967, e dá outras providências (Decreto-Lei nº 2.384, de 17 de dezembro de 1987) | 1 | 1987-12-18 to 1987-12-18 |
+| `decreto-lei-2385-de-1987` | Dispõe sobre gratificação a ser concedida aos servidores de nível médio e superior do Departamento Nacional da Produção Mineral, do Ministério das Minas e Energia (Decreto-Lei nº 2.385, de 18 de dezembro de 1987) | 1 | 1969-09-30 to 1969-09-30 |
+| `decreto-lei-2386-de-1987` | Dispõe sobre a carreira do Ministério Público Federal, a criação de Núcleos das Procuradorias da República, em Municípios, e dá outras providências (Decreto-Lei nº 2.386, de 18 de dezembro de 1987) | 1 | 1987-12-21 to 1987-12-21 |
+| `decreto-lei-2390-de-1987` | Concede isenção do imposto sobre operações de crédito, câmbio e seguro e sobre operações relativas a títulos e valores mobiliários e dá outras providências (Decreto-Lei nº 2.390, de 18 de dezembro de 1987) | 1 | 1987-12-21 to 1987-12-21 |
+| `decreto-lei-2391-de-1987` | Dá nova redação aos incisos II, III e IV do art. 6º da Lei nº 5.143, de 20-10-66, e dá outras providências (Decreto-Lei nº 2.391, de 18 de dezembro de 1987) | 1 | 1987-12-21 to 1987-12-21 |
+| `decreto-lei-2392-de-1987` | Cancela débitos para com a Superintendência Nacional do Abastecimento - SUNAB, e dá outras providências (Decreto-Lei nº 2.392, de 21 de dezembro de 1987) | 1 | 1987-12-22 to 1987-12-22 |
+| `decreto-lei-2393-de-1987` | Dá nova redação à Lista de Serviços a que se refere o art. 89 do Decreto-lei nº 82, de 26 de dezembro de 1966, e dá outras providências (Decreto-Lei nº 2.393, de 21 de dezembro de 1987) | 1 | 1976-12-10 to 1976-12-10 |
+| `decreto-lei-2396-de-1987` | Altera a legislação do Imposto de Renda das pessoas físicas e dá outras providências (Decreto-Lei nº 2.396, de 21 de dezembro de 1987) | 1 | 1988-04-15 to 1988-04-15 |
+| `decreto-lei-2400-de-1987` | Dispõe sobre a transferência das ações representativas da participação federal nas entidades vinculadas ao Sistema Nacional de Centrais de Abastecimento (Sinac), e dá outras providências (Decreto-Lei nº 2.400, de 21 de dezembro de 1987) | 1 | 1988-04-12 to 1988-04-12 |
+| `decreto-lei-2401-de-1987` | Proíbe a utilização de recursos do Tesouro Nacional em operações de compra e venda de açúcar de produção nacional, para fins de exportação, e dá outras providências (Decreto-Lei nº 2.401, de 21 de dezembro de 1987) | 1 | 1988-05-25 to 1988-05-25 |
+| `decreto-lei-2402-de-1987` | Dispõe sobre os vencimentos e a representação mensal devida aos servidores que especifica, e dá outras providências (Decreto-Lei nº 2.402, de 21 de dezembro de 1987) | 1 | 1987-12-22 to 1987-12-22 |
+| `decreto-lei-2404-de-1987` | Dispõe sobre o Adicional ao Frete para a Renovação da Marinha Mercante (AFRMM) e o Fundo da Marinha Mercante, e dá outras providências (Decreto-Lei nº 2.404, de 23 de dezembro de 1987) | 1 | 2004-07-14 to 2004-07-14 |
+| `decreto-lei-2405-de-1987` | Dispõe sobre a remuneração, no Brasil, dos funcionários da Carreira de Diplomata do Serviço Exterior, e dá outras providências (Decreto-Lei nº 2.405, de 29 de dezembro de 1987) | 1 | 1987-12-29 to 1987-12-29 |
+| `decreto-lei-2407-de-1988` | Dispõe sobre a isenção do Imposto sobre Operações de Crédito, Câmbio e Seguro, e sobre Operações relativas a Título de Valores Mobiliários (IOF) nas Operações de Financiamento relativas à habitação (Decreto-Lei nº 2.407, de 5 de janeiro de 1988) | 1 | 1988-01-06 to 1988-01-06 |
+| `decreto-lei-2408-de-1988` | Restabelece a vigência do art. 12 da Lei nº 5.107, de 13 de setembro de 1966, dando-lhe nova redação, e dá outras providências (Decreto-Lei nº 2.408, de 5 de janeiro de 1988) | 1 | 1988-01-06 to 1988-01-06 |
+| `decreto-lei-2410-de-1988` | Altera o Decreto-lei nº 2.355, de 27 de agosto,de 1987, que estabelece limite de retrib u ição na Administração Pública da União, do Distrito Federal e dos Territórios, e dá outras providências (Decreto-Lei nº 2.410, de 15 de janeiro de 1988) | 1 | 1988-01-18 to 1988-01-18 |
+| `decreto-lei-2411-de-1988` | Dá nova redação ao § 1º do art. 29 do Decreto-lei nº 1.455, de 7 de abril de 1976 (Decreto-Lei nº 2.411, de 21 de janeiro de 1988) | 1 | 1988-01-22 to 1988-01-22 |
+| `decreto-lei-2412-de-1988` | Altera a legislação do imposto de renda (Decreto-Lei nº 2.412, de 10 de fevereiro de 1988) | 1 | 1988-02-11 to 1988-02-11 |
+| `decreto-lei-2415-de-1988` | Prorroga o prazo da isenção de impostos aos bens destinados à execução do Programa Nacional de Comunicações Domésticas por Satélite (Decreto-Lei nº 2.415, de 12 de fevereiro de 1988) | 1 | 1988-02-17 to 1988-02-17 |
+| `decreto-lei-2416-de-1988` | Fixa prazo máximo para duração de contratos no âmbito do Ministério da Marinha (Decreto-Lei nº 2.416, de 18 de fevereiro de 1988) | 1 | 1988-02-19 to 1988-02-19 |
+| `decreto-lei-2418-de-1988` | Altera o Decreto-lei nº 2.320, de 26 de janeiro de 1987, que "dispõe sobre o ingresso nas categorias funcionais da Carreira Polícia Federal e dá outras providências" (Decreto-Lei nº 2.418, de 8 de março de 1988) | 1 | 1988-03-09 to 1988-03-09 |
+| `decreto-lei-2419-de-1988` | Altera a legislação do imposto de renda das pessoas físicas e do imposto de renda na fonte (Decreto-Lei nº 2.419, de 10 de março de 1988) | 1 | 1988-03-11 to 1988-03-11 |
+| `decreto-lei-2420-de-1988` | Dispõe sobre correção monetária nos casos de liquidação extrajudicial de sociedades seguradoras, de capitalização e de previdência privada e dá outras providências (Decreto-Lei nº 2.420, de 18 de março de 1988) | 1 | 1988-03-21 to 1988-03-21 |
+| `decreto-lei-2422-de-1988` | Dispõe sobre o prazo para inscrição de ocupação de imóveis da União e dá outras providências (Decreto-Lei nº 2.422, de 30 de março de 1988) | 1 | 1988-04-04 to 1988-04-04 |
+| `decreto-lei-2423-de-1988` | Estabelece critérios para o pagamento de gratificações e vantagens pecuniárias aos titulares de cargos e empregos da Administração Federal direta e autárquica e dá outras providências (Decreto-Lei nº 2.423, de 7 de abril de 1988) | 1 | 1988-06-03 to 1988-06-03 |
+| `decreto-lei-2427-de-1988` | Altera o Decreto-lei nº 2.400, de 21 de dezembro de 1987 (Decreto-Lei nº 2.427, de 8 de abril de 1988) | 1 | 1988-04-12 to 1988-04-12 |
+| `decreto-lei-2428-de-1988` | Dispõe sobre o imposto de renda incidente sobre os ganhos auferidos, por pessoas físicas, nas operações a prazo em bolsas de valores, de mercadorias e mercados outros de liqüidação futura (Decreto-Lei nº 2.428, de 14 de abril de 1988) | 1 | 1988-04-15 to 1988-04-15 |
+| `decreto-lei-2430-de-1988` | Dispõe sobre pagamento de débito previdenciário (Decreto-Lei nº 2.430, de 20 de abril de 1988) | 1 | 1988-06-20 to 1988-06-20 |
+| `decreto-lei-2431-de-1988` | Altera os arts. 27 e 28 da Lei nº 4.504, de 30 de novembro de 1964, e dá outras providências (Decreto-Lei nº 2.431, de 12 de maio de 1988) | 1 | 1988-05-14 to 1988-05-14 |
+| `decreto-lei-2432-de-1988` | Institui a Reserva Nacional de Compensação de Remuneração - RENCOR, estabelece normas relativas ao equilíbrio econômico-financeiro das concessionárias de serviços públicos de energia elétrica e dá outras providências (Decreto-Lei nº 2.432, de 17 de maio de 1988) | 1 | 1993-03-05 to 1993-03-05 |
+| `decreto-lei-2434-de-1988` | Dispõe sobre a isenção ou redução de impostos na importação de bens e dá outras providências (Decreto-Lei nº 2.434, de 19 de maio de 1988) | 1 | 1988-05-20 to 1988-05-20 |
+| `decreto-lei-2435-de-1988` | Dispõe sobre a dispensa de controles prévios na exportação (Decreto-Lei nº 2.435, de 19 de maio de 1988) | 1 | 1988-05-20 to 1988-05-20 |
+| `decreto-lei-2436-de-1988` | Altera a legislação do imposto de renda (Decreto-Lei nº 2.436, de 24 de maio de 1988) | 1 | 1988-05-25 to 1988-05-25 |
+| `decreto-lei-2437-de-1988` | Altera a redação do art. 1° do Decreto-lei n° 2.401, de 21 de dezembro de 1987, e dá outras providências (Decreto-Lei nº 2.437, de 24 de maio de 1988) | 1 | 1988-05-25 to 1988-05-25 |
+| `decreto-lei-2438-de-1988` | Dispõe sobre a percepção de gratificações e complementação salarial por servidores do Departamento Nacional de Obras e Saneamento e do Departamento Nacional de Obras Contra as Secas e dá outras providências (Decreto-Lei nº 2.438, de 26 de maio de 1988) | 1 | 1988-05-27 to 1988-05-27 |
+| `decreto-lei-2439-de-1988` | Dá nova redação aos arts. 4° e 7° do Decreto-lei n ° 2.423, de 7 de abril de 1988 (Decreto-Lei nº 2.439, de 2 de junho de 1988) | 1 | 1988-06-03 to 1988-06-03 |
+| `decreto-lei-2450-de-1988` | Altera a legislação do Imposto sobre Produtos Industrializados (Decreto-Lei nº 2.450, de 29 de julho de 1988) | 1 | 1994-01-29 to 1994-01-29 |
+| `decreto-lei-2451-de-1988` | Altera o Decreto-Lei n° 2.433, de 19 de maio de 1988 (Decreto-Lei nº 2.451, de 29 de julho de 1988) | 1 | 1988-07-30 to 1988-07-30 |
+| `decreto-lei-2454-de-1988` | Dispõe sobre a prorrogação dos prazos de vigência de incentivos fiscais para empreendimentos localizados nas áreas de atuação da Superintendência do Desenvolvimento da Amazônia - SUDAM e da Superintendência do... (Decreto-Lei nº 2.454, de 19 de agosto de 1988) | 1 | 1988-08-22 to 1988-08-22 |
+| `decreto-lei-2455-de-1988` | Autoriza a capitalização dos créditos da União, nas empresas que menciona, e dá outras providências (Decreto-Lei nº 2.455, de 19 de agosto de 1988) | 1 | 1988-08-22 to 1988-08-22 |
+| `decreto-lei-2456-de-1988` | Dispõe sobre a instituição de Caixa Único no Sistema de Transporte Público Coletivo do Distrito Federal e dá outras providências (Decreto-Lei nº 2.456, de 19 de agosto de 1988) | 1 | 1988-08-22 to 1988-08-22 |
+| `decreto-lei-2460-de-1988` | Autoriza a concessão de garantia da União aos títulos que menciona (Decreto-Lei nº 2.460, de 26 de agosto de 1988) | 1 | 1988-08-29 to 1988-08-29 |
+| `decreto-lei-2466-de-1988` | Dispõe sobre a destinação do produto da alienação dos imóveis residenciais da União, no Distrito Federal (Decreto-Lei nº 2.466, de 1º de setembro de 1988) | 1 | 1988-09-01 to 1988-09-01 |
+| `decreto-lei-2471-de-1988` | Modifica a legislação à contribuição de que tratam os Decretos-Leis n°s 308, de 28 de fevereiro de 1967, e 1.712, de 14 de novembro de 1979, e do adicional de que trata o Decreto-Lei n° 1.952, de 15 de julho de 1982,... (Decreto-Lei nº 2.471, de 1º de setembro de 1988) | 1 | 1988-09-02 to 1988-09-02 |
+| `lei-complementar-46-de-1984` | Fixa normas sobre repetição de topônimos de cidades e vilas, incorporadas ao texto da Lei Complementar nº 1, de 9 de novembro de 1967 (Lei Complementar nº 46, de 21 de agosto de 1984) | 1 | 1984-08-22 to 1984-08-22 |
+| `lei-complementar-47-de-1984` | Adapta a Lei Complementar nº 15, de 13 de agosto de 1973, que regula a composição e o funcionamento do Colégio que elegerá o Presidente da República, e dá outras providências, às disposições da Emenda Constitucional... (Lei Complementar nº 47, de 22 de outubro de 1984) | 1 | 1984-10-23 to 1984-10-23 |
+| `lei-complementar-48-de-1984` | Estabelece normas integrantes do Estatuto da Microempresa, relativas a isenção do imposto sobre Circulação de Mercadorias - ICM e do Imposto sobre Serviços - ISS (Lei Complementar nº 48, de 10 de dezembro de 1984) | 1 | 1987-12-21 to 1987-12-21 |
+| `lei-complementar-50-de-1985` | Altera a redação do art. 1º da Lei Complementar nº 45, de 14 de dezembro de 1983, e concede poderes às Câmaras Municipais para efetuar o cálculo da remuneração dos Vereadores (Lei Complementar nº 50, de 19 de dezembro de 1985) | 1 | 1985-12-20 to 1985-12-20 |
+| `lei-complementar-51-de-1985` | Dispõe sobre a aposentadoria do funcionário policial, nos termos do art. 103, da Constituição Federal (Lei Complementar nº 51, de 20 de dezembro de 1985) | 1 | 2015-12-04 to 2015-12-04 |
+| `lei-complementar-52-de-1986` | Inclui o Município de Maracanaú, recém-desmembrado do Município de Maranguape, na região metropolitana de Fortaleza, alterando o § 8º do art. 1º da Lei Complementar nº 14, de 8 de junho de 1973 (Lei Complementar nº 52, de 16 de abril de 1986) | 1 | 1986-04-17 to 1986-04-17 |
+| `lei-complementar-53-de-1986` | Concede isenção do Imposto sobre Circulação de Mercadorias - ICM para veículos destinadas a uso exclusivo de paraplégicos ou de pessoas portadoras de defeitos físicos (Lei Complementar nº 53, de 19 de dezembro de 1986) | 1 | 1986-12-23 to 1986-12-23 |
+| `lei-complementar-54-de-1986` | Dispõe sobre nova redação e revogação de artigos da Lei Complementar nº 35, de 14 de março de 1979 (Lei Complementar nº 54, de 22 de dezembro de 1986) | 1 | 1986-12-24 to 1986-12-24 |
+| `lei-complementar-57-de-1987` | Altera dispositivos da Lei Complementar nº 48, de 10 de dezembro de 1984 (Lei Complementar nº 57, de 18 de dezembro de 1987) | 1 | 1987-12-21 to 1987-12-21 |
+| `lei-complementar-58-de-1988` | Dispõe sobre aposentadoria voluntária, nas condições que especifica, aos servidores civis que trabalham em estabelecimentos industriais da União, produtores de munições e explosivos (Lei Complementar nº 58, de 21 de janeiro de 1988) | 1 | 1988-01-22 to 1988-01-22 |
+| `lei-complementar-59-de-1988` | Dá nova redação ao § 3º do art. 91 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional) (Lei Complementar nº 59, de 22 de dezembro de 1988) | 1 | 1988-12-23 to 1988-12-23 |
+| `lei-7195-de-1984` | Dispõe sobre a responsabilidade civil das Agências de Empregados Domésticos (Lei nº 7.195, de 12 de junho de 1984) | 1 | 1984-06-13 to 1984-06-13 |
+| `lei-7196-de-1984` | Institui o Plano Nacional de Moradia - PLAMO, destinado a atender as necessidades de moradia das pessoas de renda mensal regular até 5 (cinco) salários mínimo e dá outras providências (Lei nº 7.196, de 13 de junho de 1984) | 1 | 1984-06-14 to 1984-06-14 |
+| `lei-7197-de-1984` | Institui o “Dia Nacional das Relações Públicas” (Lei nº 7.197, de 14 de junho de 1984) | 1 | 1984-06-15 to 1984-06-15 |
+| `lei-7202-de-1984` | Dispõe sobre a progressão funcional a que se refere a lei nº 5.920, de 19 de setembro de 1973 (Lei nº 7.202, de 26 de junho de 1984) | 1 | 1984-06-27 to 1984-06-27 |
+| `lei-7203-de-1984` | Dispõe Sobre a assistência e salvamento de embarcação, coisa ou bem em perigo no mar, nos portos e nas vias navegáveis interiores (Lei nº 7.203, de 3 de julho de 1984) | 1 | 1984-07-04 to 1984-07-04 |
+| `lei-7204-de-1984` | Reajusta os atuais valores de vencimentos e proventos dos servidores ativos e inativos do Senado Federal, bem como os das pensões, e dá outras providências (Lei nº 7.204, de 5 de julho de 1984) | 1 | 1984-07-06 to 1984-07-06 |
+| `lei-7206-de-1984` | Fixa a data da eleição dos vereadores dos municípios criados pela lei nº 7.009, de 1º de julho de 1982, e dá outras providências (Lei nº 7.206, de 5 de julho de 1984) | 1 | 1984-07-06 to 1984-07-06 |
+| `lei-7207-de-1984` | Renova, até 5 de agosto de 1985, o prazo de validade do Concurso de FiscaI de Tributos Federais que menciona (Lei nº 7.207, de 5 de julho de 1984) | 1 | 1984-07-06 to 1984-07-06 |
+| `lei-7208-de-1984` | Dispõe sobre a escala de níveis de classificação dos cargos de provimento em comissão, integrantes do Grupo-Direção e Assessoramento Superiores, do Quadro Permanente da Secretaria-Geral do Tribunal de Contas da... (Lei nº 7.208, de 5 de julho de 1984) | 1 | 1984-07-06 to 1984-07-06 |
+| `lei-7211-de-1984` | Autoriza a admissão, pela Caixa Econômica Federal, dos empregados das extintas empresas Delfin Rio S.A. Crédito Imobiliário e Delfin S.A. Crédito Imobiliário, em situação de liquidação extrajudicial, decretada pelo... (Lei nº 7.211, de 16 de julho de 1984) | 1 | 1984-07-17 to 1984-07-17 |
+| `lei-7214-de-1984` | Extingue a fração do cruzeiro denominada centavo e dá outras providências (Lei nº 7.214, de 15 de agosto de 1984) | 1 | 1984-08-16 to 1984-08-16 |
+| `lei-7215-de-1984` | Dispõe sobre a criação de cargos na Secretaria do Tribunal Superior do Trabalho e dá outras providências (Lei nº 7.215, de 30 de agosto de 1984) | 1 | 1984-08-31 to 1984-08-31 |
+| `lei-7217-de-1984` | Altera a redação do art. 4º da Lei nº 6.922, de 7 de julho de 1981, que dispõe sobre as atividades do médico-residente (Lei nº 7.217, de 19 de setembro de 1984) | 1 | 1984-09-20 to 1984-09-20 |
+| `lei-7218-de-1984` | Altera a estrutura e a denominação da Categoria Funcional de Técnico em Reabilitação, do Grupo-Outras Atividades de Nível Superior, e dá outras providências (Lei nº 7.218, de 19 de setembro de 1984) | 1 | 1984-09-20 to 1984-09-20 |
+| `lei-7219-de-1984` | Dá nova redação ao art. 280 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil (Lei nº 7.219, de 19 de setembro de 1984) | 1 | 1984-09-20 to 1984-09-20 |
+| `lei-7220-de-1984` | Reajusta a pensão especial concedida pela Lei nº 3.801, de 2 de agosto de 1960, a Antônia Colombino Souza Naves, viúva do ex-Senador Abilon de Souza Naves, e dá outras providências (Lei nº 7.220, de 2 de outubro de 1984) | 1 | 1984-10-03 to 1984-10-03 |
+| `lei-7221-de-1984` | Dispõe sobre os cargos de Suplente de Juiz do Trabalho Presidente de Junta de Conciliação e Julgamento (Lei nº 7.221, de 2 de outubro de 1984) | 1 | 1984-10-03 to 1984-10-03 |
+| `lei-7223-de-1984` | Modifica a redação do § 4º do art. 543 da Consolidação das Leis do Trabalho (Lei nº 7.223, de 2 de outubro de 1984) | 1 | 1984-10-03 to 1984-10-03 |
+| `lei-7224-de-1984` | Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS, Autarquia vinculada ao Ministério do Interior, a doar os imóveis que menciona, situados no Município de Iracema, no Estado do Ceará (Lei nº 7.224, de 15 de outubro de 1984) | 1 | 1984-10-16 to 1984-10-16 |
+| `lei-7225-de-1984` | Dispõe sobre o reposicionamento de servidores do Plano de Classificação de Cargos do Serviço Civil do Distrito Federal, e dá outras providências (Lei nº 7.225, de 15 de outubro de 1984) | 1 | 1984-10-16 to 1984-10-16 |
+| `lei-7229-de-1984` | Fixa o efetivo da Polícia Militar do Território Federal do Amapá, e dá outras providências (Lei nº 7.229, de 22 de outubro de 1984) | 1 | 1984-10-23 to 1984-10-23 |
+| `lei-7230-de-1984` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona (Lei nº 7.230, de 22 de outubro de 1984) | 1 | 1984-10-23 to 1984-10-23 |
+| `lei-7231-de-1984` | Transfere competência do INCRA para o Ministério da Agricultura, dispõe sobre o regime jurídico do pessoal do INCRA e da outras providências (Lei nº 7.231, de 23 de outubro de 1984) | 1 | 1984-10-24 to 1984-10-24 |
+| `lei-7232-de-1984` | Dispõe sobre a Política Nacional de Informática, e dá outras providências (Lei nº 7.232, de 29 de outubro de 1984) | 1 | 1992-01-09 to 1992-01-09 |
+| `lei-7234-de-1984` | Autoriza o Governo do Distrito Federal a contratar empréstimo interno destinado ao desenvolvimento do Programa Aglomerados Urbanos (Lei nº 7.234, de 29 de outubro de 1984) | 1 | 1984-10-30 to 1984-10-30 |
+| `lei-7236-de-1984` | Altera a estrutura das categorias funcionais de Motorista Oficial, Agente de Portaria e Engenheiro Florestal do Plano de Classificação de Cargos instituído pela Lei nº 5.920, de 19 de setembro de 1973, e dá outras... (Lei nº 7.236, de 29 de outubro de 1984) | 1 | 1984-10-30 to 1984-10-30 |
+| `lei-7240-de-1984` | Fixa os valores de retribuição da Categoria Funcional de Engenheiro de Pesca, do Grupo-Outras Atividades de Nível Superior, Código NS-900, e dá outras providências (Lei nº 7.240, de 5 de novembro de 1984) | 1 | 1984-11-06 to 1984-11-06 |
+| `lei-7242-de-1984` | Altera a estrutura de categorias funcionais do Grupo-Outras Atividades de Nível Superior, de que trata a Lei nº 5.920, de 19 de setembro de 1973, e dá outras providências (Lei nº 7.242, de 5 de novembro de 1984) | 1 | 1984-11-06 to 1984-11-06 |
+| `lei-7243-de-1984` | Proclama o Marechal-do-Ar Alberto Santos Dumont Patrono da Aeronáutica Brasileira, o Marechal-do-Ar Eduardo Gomes Patrono da Força Área Brasileira, e cria a “Medalha Eduardo Gomes” (Lei nº 7.243, de 6 de novembro de 1984) | 1 | 1984-11-07 to 1984-11-07 |
+| `lei-7246-de-1984` | Dispõe sobre a criação de cargos no Quadro Permanente das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá outras providências (Lei nº 7.246, de 13 de novembro de 1984) | 1 | 1984-11-14 to 1984-11-14 |
+| `lei-7247-de-1984` | Dispõe sobre a criação e extinção de cargos na Secretaria do Tribunal Regional do Trabalho da Terceira Região e dá outras providências (Lei nº 7.247, de 13 de novembro de 1984) | 1 | 1984-11-14 to 1984-11-14 |
+| `lei-7248-de-1984` | Altera vantagens dos Cargos que especifica (Lei nº 7.248, de 13 de novembro de 1984) | 1 | 1984-11-14 to 1984-11-14 |
+| `lei-7250-de-1984` | Acrescenta parágrafo ao art. 1º da Lei nº 883, de 21 de outubro de 1949, que dispõe sobre o reconhecimento de filhos ilegítimos (Lei nº 7.250, de 14 de novembro de 1984) | 1 | 1984-11-16 to 1984-11-16 |
+| `lei-7251-de-1984` | Dá nova redação ao art. 245 do Decreto-lei nº 2.848, de 7 de dezembro de 1940 - Código Penal (Lei nº 7.251, de 19 de novembro de 1984) | 1 | 1984-11-21 to 1984-11-21 |
+| `lei-7262-de-1984` | Altera dispositivos do Decreto-lei nº 29, de 14 de novembro de 1966, que suprime a concessão de abatimentos de passagens e fretes no transporte aéreo, dispõe sobre a requisição de transporte, limita a concessão de... (Lei nº 7.262, de 3 de dezembro de 1984) | 1 | 1984-12-04 to 1984-12-04 |
+| `lei-7263-de-1984` | Dispõe sobre a alteração do Quadro Permanente da Secretaria do Tribunal Regional Eleitoral do Estado de São Paulo e dá outras providências (Lei nº 7.263, de 3 de dezembro de 1984) | 1 | 1984-12-04 to 1984-12-04 |
+| `lei-7264-de-1984` | Dá nova redação a dispositivos da Lei nº 5.292, de 8 de junho de 1967, que dispõe sobre a prestação do Serviço Militar pelos estudantes de Medicina, Farmácia, Odontologia e Veterinária e pelos Médicos, Farmacêuticos,... (Lei nº 7.264, de 4 de dezembro de 1984) | 1 | 1984-12-05 to 1984-12-05 |
+| `lei-7265-de-1984` | Institui o Mérito Musical e Popular Lupicínio Rodrigues e dá outras providências (Lei nº 7.265, de 4 de dezembro de 1984) | 1 | 1984-12-05 to 1984-12-05 |
+| `lei-7266-de-1984` | Altera as contribuições dos segurados obrigatórios do Instituto de Previdência dos Congressistas - IPC, o valor das pensões e dá outras providências (Lei nº 7.266, de 4 de dezembro de 1984) | 1 | 1984-12-05 to 1984-12-05 |
+| `lei-7267-de-1984` | Dispõe sobre a estrutura das categorias funcionais do Grupo Atividades de Apoio Judiciário da Justiça do Trabalho, altera dispositivos pertinentes, e dá outras providências (Lei nº 7.267, de 5 de dezembro de 1984) | 1 | 1984-12-06 to 1984-12-06 |
+| `lei-7270-de-1984` | Acrescenta Parágrafos ao art. 145, da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil (Lei nº 7.270, de 10 de dezembro de 1984) | 1 | 1984-12-11 to 1984-12-11 |
+| `lei-7272-de-1984` | Altera a estrutura da Categoria Funcional de Meteorologista, do Grupo-Outras Atividades de Nível Superior, e dá outras providências (Lei nº 7.272, de 10 de dezembro de 1984) | 1 | 1984-12-11 to 1984-12-11 |
+| `lei-7273-de-1984` | Dispõe sobre a Busca e Salvamento de Vida Humana em Perigo no Mar, nos Portos e nas Vias Navegáveis Interiores (Lei nº 7.273, de 10 de dezembro de 1984) | 1 | 1984-12-11 to 1984-12-11 |
+| `lei-7274-de-1984` | Altera dispositivos do Decreto-lei nº 7.661, de 21 de junho de 1945 - Lei de Falências (Lei nº 7.274, de 10 de dezembro de 1984) | 1 | 1984-12-11 to 1984-12-11 |
+| `lei-7275-de-1984` | Autoriza a participação, em Comissão de Inquérito, de servidor ocupante de emprego permanente, regido pela Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943 (Lei nº 7.275, de 10 de dezembro de 1984) | 1 | 1984-12-11 to 1984-12-11 |
+| `lei-7278-de-1984` | Dá nova redação ao art. 4º, da Lei nº 4.594, de 29 de dezembro de 1964, que regula a profissão de corretor de seguros (Lei nº 7.278, de 10 de dezembro de 1984) | 1 | 1984-12-11 to 1984-12-11 |
+| `lei-7279-de-1984` | Autoriza o Governo do Distrito Federal a contratar operação de crédito no valor de Cr$ 169.375.407.930 (cento e sessenta e nove bilhões, trezentos e setenta e cinco milhões, quatrocentos e sete mil, novecentos e... (Lei nº 7.279, de 10 de dezembro de 1984) | 1 | 1984-12-11 to 1984-12-11 |
+| `lei-7284-de-1984` | Dispõe sobre a Pensão Policial-Militar das Polícias Militares dos Territórios Federais do Amapá e de Roraima, e dá outras providências (Lei nº 7.284, de 11 de dezembro de 1984) | 1 | 1984-12-12 to 1984-12-12 |
+| `lei-7287-de-1984` | Dispõe sobre a Regulamentação da Profissão de Museólogo (Lei nº 7.287, de 18 de dezembro de 1984) | 1 | 1984-12-19 to 1984-12-19 |
+| `lei-7288-de-1984` | Acrescenta parágrafo único ao art. 3º da Lei nº 1.060, de 5 de fevereiro de 1950, que trata da assistência judiciária aos necessitados (Lei nº 7.288, de 18 de dezembro de 1984) | 1 | 1984-12-19 to 1984-12-19 |
+| `lei-7289-de-1984` | Dispõe sobre o Estatuto dos Policiais-Militares da Polícia Militar do Distrito Federal e dá outras providências (Lei nº 7.289, de 18 de dezembro de 1984) | 1 | 2026-04-28 to 2026-04-28 |
+| `lei-7290-de-1984` | Define a atividade do Transportador Rodoviário Autônomo de Bens e dá outras providências (Lei nº 7.290, de 19 de dezembro de 1984) | 1 | 1984-12-20 to 1984-12-20 |
+| `lei-7292-de-1984` | Autoriza o Departamento Nacional de Registro do Comércio a estabelecer modelos e cláusulas padronizadas destinadas a simplificar a constituição de sociedades mercantis (Lei nº 7.292, de 19 de dezembro de 1984) | 1 | 1984-12-20 to 1984-12-20 |
+| `lei-7294-de-1984` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona (Lei nº 7.294, de 19 de dezembro de 1984) | 1 | 1984-12-20 to 1984-12-20 |
+| `lei-7295-de-1984` | Dispõe sobre o processo de fiscalização pela Câmara dos Deputados e pela Senado Federal, dos atos do Poder Executivo e os da administração indireta (Lei nº 7.295, de 19 de dezembro de 1984) | 1 | 1984-12-20 to 1984-12-20 |
+| `lei-7297-de-1984` | Dispõe sobre a criação de cargos no Quadro Permanente da Secretaria do Tribunal Regional Eleitoral do Estado de Goiás e dá outras providências (Lei nº 7.297, de 20 de dezembro de 1984) | 1 | 1984-12-21 to 1984-12-21 |
+| `lei-7298-de-1984` | Autoriza o Poder Executivo a criar o Conselho Nacional de Vitivinicultura - CONAVIN, dispõe sobre o Plano Nacional da Vitivinicultura, o seguro e o preço mínimo da uva, e dá outras providências (Lei nº 7.298, de 28 de dezembro de 1984) | 1 | 1985-01-03 to 1985-01-03 |
+| `lei-7299-de-1985` | Dispõe sobre a estruturação de Categorias Funcionais do Grupo-Atividades de Apoio Judiciário do Quadro da Secretaria do Supremo Tribunal Federal e dá outras providências (Lei nº 7.299, de 14 de março de 1985) | 1 | 1985-03-14 to 1985-03-14 |
+| `lei-7300-de-1985` | Equipara às empresas jornalísticas, para fins de responsabilidade civil e penal, as empresas cinematográficas (Lei nº 7.300, de 27 de março de 1985) | 1 | 1985-03-28 to 1985-03-28 |
+| `lei-7303-de-1985` | Revoga o Decreto-lei nº 1.284, de 28 de agosto de 1973, que declarou o Município de Anápolis de interesse da Segurança Nacional (Lei nº 7.303, de 1º de abril de 1985) | 1 | 1985-04-02 to 1985-04-02 |
+| `lei-7304-de-1985` | Dispõe sobre a criação do Colégio Agrícola de Garanhuns, no Estado de Pernambuco (Lei nº 7.304, de 1º de abril de 1985) | 1 | 1985-04-02 to 1985-04-02 |
+| `lei-7305-de-1985` | Modifica dispositivo da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943 (Lei nº 7.305, de 2 de abril de 1985) | 1 | 1985-04-03 to 1985-04-03 |
+| `lei-7306-de-1985` | Dispõe sobre a criação de cargos no Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da 11 a . Região e dá outras providências (Lei nº 7.306, de 9 de abril de 1985) | 1 | 1985-04-10 to 1985-04-10 |
+| `lei-7308-de-1985` | Exclui o Município de Canoas da relação dos municípios declarados áreas de segurança nacional (Lei nº 7.308, de 15 de abril de 1985) | 1 | 1985-04-16 to 1985-04-16 |
+| `lei-7309-de-1985` | Estende a jurisdição das Juntas de Conciliação e Julgamento de São Luís aos Municípios de Rosário, São José de Ribamar Paço do Lumiar, todos do Estado do Maranhão (Lei nº 7.309, de 22 de abril de 1985) | 1 | 1985-04-24 to 1985-04-24 |
+| `lei-7312-de-1985` | Altera a Lei nº 6.567, de 24 de setembro de 1978, para incluir o basalto no regime especial de exploração por licenciamento (Lei nº 7.312, de 16 de maio de 1985) | 1 | 1985-05-17 to 1985-05-17 |
+| `lei-7313-de-1985` | Fixa em oito horas a jornada de trabalho dos vigias (Lei nº 7.313, de 17 de maio de 1985) | 1 | 1985-05-21 to 1985-05-21 |
+| `lei-7315-de-1985` | Autoriza a desapropriação de ações das companhias que menciona e a abertura de crédito especial de até Cr$ 900.000.000.000 (novecentos bilhões de cruzeiros) e dá outras providências (Lei nº 7.315, de 24 de maio de 1985) | 1 | 1985-05-27 to 1985-05-27 |
+| `lei-7316-de-1985` | Atribui às entidades sindicais que integram a Confederação Nacional das Profissões Liberais o mesmo poder de representação dos sindicatos representativos das categorias profissionais diferenciadas, nas ações... (Lei nº 7.316, de 28 de maio de 1985) | 1 | 1985-05-30 to 1985-05-30 |
+| `lei-7318-de-1985` | Revoga o art. 26 da Lei nº 6.032,. de 30 de abril de 1974, que dispõe sobre o Regimento de Custas da Justiça Federal (Lei nº 7.318, de 5 de junho de 1985) | 1 | 1985-06-07 to 1985-06-07 |
+| `lei-7319-de-1985` | Cria cargos no Ministério da Reforma e do Desenvolvimento Agrário - MIRAD e dá outras providências (Lei nº 7.319, de 11 de junho de 1985) | 1 | 1985-06-12 to 1985-06-12 |
+| `lei-7325-de-1985` | Altera a composição e a organização interna dos Tribunais Regionais do Trabalho que menciona, cria cargos, e dá outras providências (Lei nº 7.325, de 18 de junho de 1985) | 1 | 1985-06-19 to 1985-06-19 |
+| `lei-7328-de-1985` | Autoriza o Poder Executivo a transpor recursos para implementação e funcionamento dos Ministérios que especifica e dá outras providências (Lei nº 7.328, de 18 de junho de 1985) | 1 | 1985-06-19 to 1985-06-19 |
+| `lei-7329-de-1985` | Altera o prazo para pagamento do imposto de renda devido por pessoas jurídicas (Lei nº 7.329, de 27 de junho de 1985) | 1 | 1985-06-28 to 1985-06-28 |
+| `lei-7332-de-1985` | Estabelece normas para a realização de eleições em 1985, dispõe sobre o alistamento eleitoral e o voto do analfabeto e dá outras providências (Lei nº 7.332, de 1º de julho de 1985) | 1 | 1985-07-02 to 1985-07-02 |
+| `lei-7333-de-1985` | Reajusta os vencimentos, salários e soldos dos servidores civis e militares da União dos Territórios Federais, dos membros do Poder Judiciário da União, do Distrito Federal e Territórios, do Tribunal de Contas da... (Lei nº 7.333, de 2 de julho de 1985) | 1 | 1991-08-15 to 1991-08-15 |
+| `lei-7335-de-1985` | Prorroga a vigência da Lei nº 7.069, de 20 de dezembro de 1982, que estabelece limite ao reajuste de aluguéis residenciais (Lei nº 7.335, de 4 de julho de 1985) | 1 | 1985-07-05 to 1985-07-05 |
+| `lei-7336-de-1985` | Altera o art. 7º de Lei nº 1.649, de 19 de Julho de 1952, modificado pelo Decreto-lei nº 531, de 16 de abril de 1969 (Lei nº 7.336, de 4 de julho de 1985) | 1 | 1985-07-05 to 1985-07-05 |
+| `lei-7339-de-1985` | Reajusta os valores de vencimentos, salários e proventos dos servidores da Câmara dos Deputados e dá outras providências (Lei nº 7.339, de 8 de julho de 1985) | 1 | 1985-07-09 to 1985-07-09 |
+| `lei-7348-de-1985` | Dispõe sobre a execução do § 4º do art. 176 da Constituição Federal, e dá outras providências (Lei nº 7.348, de 24 de julho de 1985) | 1 | 1985-07-25 to 1985-07-25 |
+| `lei-7350-de-1985` | Acrescenta parágrafo ao art. 1º da lei nº 6.545, de 30 de junho de 1978, que “dispõe sobre a transformação das Escolas Técnicas Federais de Minas Gerais, do Paraná e Celso Suckow da Fonseca em Centrais Federais de... (Lei nº 7.350, de 27 de agosto de 1985) | 1 | 1985-08-28 to 1985-08-28 |
+| `lei-7351-de-1985` | Dá nova redação ao art. 836 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943 (Lei nº 7.351, de 27 de agosto de 1985) | 1 | 1985-08-28 to 1985-08-28 |
+| `lei-7354-de-1985` | Dispõe sobre a criação de cargos no Quadro Permanente do Tribunal Regional Eleitoral do Estado de São Paulo e dá outras providências (Lei nº 7.354, de 30 de agosto de 1985) | 1 | 1985-09-02 to 1985-09-02 |
+| `lei-7356-de-1985` | Determina a inclusão de parágrafo no art. 5º da Lei nº 3.807, de 26 de agosto de 1960 - Lei Orgânica da Previdência Social, regulando a inclusão dos pescadores no regime dessa Lei (Lei nº 7.356, de 30 de agosto de 1985) | 1 | 1985-09-02 to 1985-09-02 |
+| `lei-7359-de-1985` | Acrescenta parágrafo ao art. 232 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil (Lei nº 7.359, de 10 de setembro de 1985) | 1 | 1985-09-11 to 1985-09-11 |
+| `lei-7360-de-1985` | Altera dispositivos do Decreto-lei nº 972, de 17 de outubro de 1969 (que dispõe sobre o exercício da profissão de jornalista) (Lei nº 7.360, de 10 de setembro de 1985) | 1 | 1985-09-11 to 1985-09-11 |
+| `lei-7361-de-1985` | Dispõe sobre a criação de cargos no Quadro Permanente da Secretaria do Tribunal Regional Eleitoral do Estado do Ceará e dá outras providências (Lei nº 7.361, de 10 de setembro de 1985) | 1 | 1985-09-11 to 1985-09-11 |
+| `lei-7363-de-1985` | Introduz alterações na Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, no que se refere à arrematação de bens penhorados (Lei nº 7.363, de 11 de setembro de 1985) | 1 | 1985-09-13 to 1985-09-13 |
+| `lei-7364-de-1985` | Autoriza o Poder Executivo a criar a Universidade Federal de Roraima e dá outras providências (Lei nº 7.364, de 12 de setembro de 1985) | 1 | 1985-09-13 to 1985-09-13 |
+| `lei-7365-de-1985` | Dispõe sobre a fabricação de detergentes não biodegradáveis (Lei nº 7.365, de 13 de setembro de 1985) | 1 | 1985-09-16 to 1985-09-16 |
+| `lei-7366-de-1985` | Revoga a Lei nº 7.138, de 8 de novembro de 1983 (Lei nº 7.366, de 18 de setembro de 1985) | 1 | 1985-09-19 to 1985-09-19 |
+| `lei-7367-de-1985` | Reajusta a pensão especial concedida pela Lei nº 6.610, de 7 de dezembro de 1978, a WALTER DOS SANTOS SIQUEIRA e dá outras providências (Lei nº 7.367, de 18 de setembro de 1985) | 1 | 1985-09-19 to 1985-09-19 |
+| `lei-7368-de-1985` | Autoriza o Instituto Brasileiro de Desenvolvimento Florestal - IBDF a a doar o imóvel que menciona (Lei nº 7.368, de 18 de setembro de 1985) | 1 | 1985-09-19 to 1985-09-19 |
+| `lei-7371-de-1985` | Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional Eleitoral do Estado de Santa Catarina e dá outras providências (Lei nº 7.371, de 24 de setembro de 1985) | 1 | 1985-09-25 to 1985-09-25 |
+| `lei-7372-de-1985` | Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional Eleitoral do Estado de Alagoas e dá outras providências (Lei nº 7.372, de 24 de setembro de 1985) | 1 | 1985-09-25 to 1985-09-25 |
+| `lei-7373-de-1985` | Dispõe sobre a isenção da multa prevista no art. 8º da Lei nº 4.737, de 15 de julho de 1965 - Código Eleitoral (Lei nº 7.373, de 25 de setembro de 1985) | 1 | 1985-09-26 to 1985-09-26 |
+| `lei-7377-de-1985` | Dispõe sobre o exercício da Profissão de Secretário, e dá outras providências (Lei nº 7.377, de 30 de setembro de 1985) | 1 | 2019-11-12 to 2019-11-12 |
+| `lei-7379-de-1985` | Altera dispositivos da Lei nº 5.682, de 21 de julho de 1971, modificada pelas Leis nºs 5.697, de 27 de agosto de 1971, 5.781, de 5 de junho de 1972, 6.444, de 3 de outubro de 1977, e 6.767, de 20 de dezembro de 1979,... (Lei nº 7.379, de 7 de outubro de 1985) | 1 | 1979-12-20 to 1979-12-20 |
+| `lei-7380-de-1985` | Cria cargos de Procurador Militar de 2ª Categoria na carreira do Ministério Público da União junto à Justiça Militar e dá outras providências (Lei nº 7.380, de 7 de outubro de 1985) | 1 | 1985-10-08 to 1985-10-08 |
+| `lei-7381-de-1985` | Cancela penas impostas ao ex-Presidente João Goulart, determina a devolução das condecorações nacionais que lhe foram retiradas, bem como a sua reinclusão nos quadros das respectivas ordens dos quais tenha sido excluído (Lei nº 7.381, de 15 de outubro de 1985) | 1 | 1985-10-16 to 1985-10-16 |
+| `lei-7382-de-1985` | Autoriza a transferência da participação da União Federal no capital da Companhia Nacional de Álcalis (Lei nº 7.382, de 15 de outubro de 1985) | 1 | 1985-10-16 to 1985-10-16 |
+| `lei-7385-de-1985` | Dispõe sobre a criação de cargos no Quadro Permanente do Tribunal Superior Eleitoral (Lei nº 7.385, de 18 de outubro de 1985) | 1 | 1985-10-21 to 1985-10-21 |
+| `lei-7387-de-1985` | Dispõe sobre o exercício da Profissão de Economista Doméstico, e dá outras providências (Lei nº 7.387, de 21 de outubro de 1985) | 1 | 1985-10-22 to 1985-10-22 |
+| `lei-7388-de-1985` | Dispõe sobre a Tabela de Pessoal da Superintendência do Desenvolvimento do Nordeste - SUDENE e dá outras providências (Lei nº 7.388, de 23 de outubro de 1985) | 1 | 1985-10-24 to 1985-10-24 |
+| `lei-7391-de-1985` | Dispõe sobre a aplicação do estabelecido no art. 2º da Lei nº 6.185, de 11 de dezembro de 1974, que dispõe sobre o regime jurídico dos servidores públicos civis da Administração Federal direta e das autarquias... (Lei nº 7.391, de 25 de outubro de 1985) | 1 | 1976-06-02 to 1976-06-02 |
+| `lei-7392-de-1985` | Fixa os valores de retribuição das Categorias Funcionais de Zootecnista e Terapeuta Ocupacional, do Grupo-Outras Atividades de Nível Superior a que se refere a Lei nº 6.550, de 5 de julho de 1978, e dá outras... (Lei nº 7.392, de 25 de outubro de 1985) | 1 | 1985-10-29 to 1985-10-29 |
+| `lei-7393-de-1985` | Altera a Estrutura da Categoria Funcional de Sociólogo, do Grupo-Outras Atividades de Nível Superior, e dá outras providências (Lei nº 7.393, de 25 de outubro de 1985) | 1 | 1985-10-29 to 1985-10-29 |
+| `lei-7394-de-1985` | Regula o exercício da Profissão de Técnico em Radiologia, e dá outras providências (Lei nº 7.394, de 29 de outubro de 1985) | 1 | 2002-07-11 to 2002-07-11 |
+| `lei-7395-de-1985` | Dispõe sobre os órgãos de representação dos estudantes de nível superior e dá outras providências (Lei nº 7.395, de 31 de outubro de 1985) | 1 | 1985-11-04 to 1985-11-04 |
+| `lei-7396-de-1985` | Dispõe sobre a criação de cargos no Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da 12ª Região e dá outras providências (Lei nº 7.396, de 1º de novembro de 1985) | 1 | 1985-11-04 to 1985-11-04 |
+| `lei-7397-de-1985` | Dispõe sobre a validação dos cursos superiores não-reconhecidos (Lei nº 7.397, de 1º de novembro de 1985) | 1 | 1985-11-04 to 1985-11-04 |
+| `lei-7398-de-1985` | Dispõe sobre a organização de entidades representativas dos estudantes de 1º e 2º graus e dá outras providências (Lei nº 7.398, de 4 de novembro de 1985) | 1 | 1985-11-05 to 1985-11-05 |
+| `lei-7399-de-1985` | Altera a redação da Lei nº 6.664, de 26 de junho de 1979, que disciplina a profissão de Geógrafo (Lei nº 7.399, de 4 de novembro de 1985) | 1 | 1985-11-05 to 1985-11-05 |
+| `lei-7401-de-1985` | Altera a Lei nº 6.690, de 25 de setembro de 1979, que disciplina o cancelamento de protesto de títulos cambiais, e dá outras providências (Lei nº 7.401, de 5 de novembro de 1985) | 1 | 1985-11-06 to 1985-11-06 |
+| `lei-7402-de-1985` | Introduz modificação na Lei nº 5.584, de 26 de junho de 1970, que dispõe sobre normas de direito processual do trabalho e dá outras providências (Lei nº 7.402, de 5 de novembro de 1985) | 1 | 1985-11-06 to 1985-11-06 |
+| `lei-7403-de-1985` | Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS, autarquia vinculada ao Ministério do Interior, a doar o imóvel que menciona, situado no Município de Antenor Navarro, no Estado da Paraíba (Lei nº 7.403, de 5 de novembro de 1985) | 1 | 1985-11-06 to 1985-11-06 |
+| `lei-7405-de-1985` | Torna obrigatória a colocação do ‘’Símbolo Internacional de Acesso” em todos os locais e serviços que permitam sua utilização por pessoas portadoras de deficiência e dá outras providências (Lei nº 7.405, de 12 de novembro de 1985) | 1 | 2026-07-08 to 2026-07-08 |
+| `lei-7407-de-1985` | Modifica a redação do parágrafo único do art. 1º do Decreto-lei nº 2.249, de 25 de fevereiro de 1985, e dá outras providências (Lei nº 7.407, de 19 de novembro de 1985) | 1 | 1985-11-20 to 1985-11-20 |
+| `lei-7410-de-1985` | Dispõe sobre a especialização de Engenheiros e Arquitetos em Engenharia de Segurança do Trabalho, a profissão de Técnico de Segurança do Trabalho, e dá outras providências (Lei nº 7.410, de 27 de novembro de 1985) | 1 | 1985-11-28 to 1985-11-28 |
+| `lei-7411-de-1985` | Dispõe sobre a estruturação de Categorias Funcionais do Grupo-Atividades de Apoio Judiciário dos Quadros das Secretarias dos Tribunais Eleitorais e dá outras providências (Lei nº 7.411, de 2 de dezembro de 1985) | 1 | 1985-12-03 to 1985-12-03 |
+| `lei-7412-de-1985` | Altera dispositivos da Lei nº 5.619, de 3 de novembro de 1970, e dá outras providências (Lei nº 7.412, de 6 de dezembro de 1985) | 1 | 2001-09-01 to 2001-09-01 |
+| `lei-7413-de-1985` | Dispõe sobre a criação do Colégio Agrícola de Sertânia, no Estado de Pernambuco (Lei nº 7.413, de 9 de dezembro de 1985) | 1 | 1985-12-10 to 1985-12-10 |
+| `lei-7414-de-1985` | Altera a redação do art. 135 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943, que dispõe sobre a concessão das férias anuais remuneradas (Lei nº 7.414, de 9 de dezembro de 1985) | 1 | 1985-12-10 to 1985-12-10 |
+| `lei-7415-de-1985` | Introduz modificações na Lei nº 605, de 5 de janeiro de 1949, que "dispõe sobre o repouso semanal remunerado e o pagamento de salário nos dias feriados civis e religiosos" (Lei nº 7.415, de 9 de dezembro de 1985) | 1 | 1985-12-10 to 1985-12-10 |
+| `lei-7416-de-1985` | Concede isenção do Imposto sobre Produtos Industrializados - IPI na aquisição de automóveis de passageiros e dá outras providencias (Lei nº 7.416, de 10 de dezembro de 1985) | 1 | 1986-06-26 to 1986-06-26 |
+| `lei-7417-de-1985` | Concede anistia a mães de família condenadas até 5 (cinco) anos de prisão (Lei nº 7.417, de 10 de dezembro de 1985) | 1 | 1985-12-11 to 1985-12-11 |
+| `lei-7421-de-1985` | Altera a composição e a organização interna do Tribunal Regional do Trabalho da Terceira Região, cria cargos, e dá outras providências (Lei nº 7.421, de 17 de dezembro de 1985) | 1 | 1985-12-18 to 1985-12-18 |
+| `lei-7422-de-1985` | Fixa os valores de retribuição da Categoria Funcional de Técnico de Estradas e dá outras providências (Lei nº 7.422, de 17 de dezembro de 1985) | 1 | 1985-12-18 to 1985-12-18 |
+| `lei-7423-de-1985` | Revoga a Lei nº 5.465, de 3 de julho de 1968, que “dispõe sobre o preenchimento de vagas nos estabelecimentos de ensino agrícola”, bem como sua legislação complementar (Lei nº 7.423, de 17 de dezembro de 1985) | 1 | 1985-12-18 to 1985-12-18 |
+| `lei-7431-de-1985` | Institui no Distrito Federal o imposto sobre a propriedade de veículos automotores e dá outras providências (Lei nº 7.431, de 17 de dezembro de 1985) | 1 | 1986-12-24 to 1986-12-24 |
+| `lei-7434-de-1985` | Altera à redação da alínea b do inciso IX do art. 146 da Lei nº 4.737, de 15 de julho de 1965 - Código Eleitoral, eliminando da legislação eleitoral o voto vinculado (Lei nº 7.434, de 19 de dezembro de 1985) | 1 | 1985-12-20 to 1985-12-20 |
+| `lei-7435-de-1985` | Fixa o valor do Soldo de Coronel BM do Corpo de Bombeiros do Distrito Federal e altera dispositivos da lei nº 5.906, de 23 de julho de 1973, e dá outras providências (Lei nº 7.435, de 19 de dezembro de 1985) | 1 | 1987-03-31 to 1987-03-31 |
+| `lei-7436-de-1986` | Inclui na Relação Descritiva das Ferrovias do Plano Nacional de Viação, instituído peIa Lei nº 5.917, de 10 de setembro de 1973 ferrovia transversal Iigando Belém - São Luís - Teresina (Lei nº 7.436, de 2 de setembro de 1986) | 1 | 1986-09-03 to 1986-09-03 |
+| `lei-7437-de-1985` | Inclui, entre as contravenções penais a prática de atos resultantes de preconceito de raça, de cor, de sexo ou de estado civil, dando nova redação à Lei nº 1.390, de 3 de julho de 1951 - Lei Afonso Arinos (Lei nº 7.437, de 20 de dezembro de 1985) | 1 | 1985-12-23 to 1985-12-23 |
+| `lei-7439-de-1985` | Fixa os valores de retribuição da Categoria Funcional de Fisioterapeuta do Grupo-Outras Atividades de Nível Superior, código NS-900, e dá outras providências (Lei nº 7.439, de 20 de dezembro de 1985) | 1 | 1986-02-06 to 1986-02-06 |
+| `lei-7440-de-1985` | Cria cargos em comissão no Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da 2a Região e dá outras providências (Lei nº 7.440, de 20 de dezembro de 1985) | 1 | 1985-12-23 to 1985-12-23 |
+| `lei-7442-de-1985` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona (Lei nº 7.442, de 20 de dezembro de 1985) | 1 | 1985-12-23 to 1985-12-23 |
+| `lei-7444-de-1985` | Dispõe sobre a implantarão do processamento eletrônico de dados no alistamento eleitoral e a revisão do eleitorado e dá outras providências (Lei nº 7.444, de 20 de dezembro de 1985) | 1 | 1985-12-23 to 1985-12-23 |
+| `lei-7445-de-1985` | Autoriza o Poder Executivo, por intermédio do Instituto Nacional de Colonização e Reforma Agrária - INCRA, a doar ao Estado de Goiás os imóveis que menciona (Lei nº 7.445, de 20 de dezembro de 1985) | 1 | 1985-12-23 to 1985-12-23 |
+| `lei-7446-de-1985` | Fixa os valores de retribuição do Grupo-Arquivo, do Serviço Civil do Poder Executivo, e dá outras providências (Lei nº 7.446, de 20 de dezembro de 1985) | 1 | 1985-12-23 to 1985-12-23 |
+| `lei-7447-de-1985` | Fixa os valores de retribuição da Categoria Funcional de Engenheiro de Pesca a que se refere a Lei nº 6.550, de 5 de julho de 1978, e dá outras providências (Lei nº 7.447, de 20 de dezembro de 1985) | 1 | 1985-12-23 to 1985-12-23 |
+| `lei-7449-de-1985` | Altera a redação do parágrafo único o art. 566 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943, assegurando o direito de sindicalização aos empregados da Caixa... (Lei nº 7.449, de 20 de dezembro de 1985) | 1 | 1985-12-23 to 1985-12-23 |
+| `lei-7451-de-1985` | Prorroga o prazo de isenção do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos, incidente nos álcoois etílico, para fins carburantes, e dá outras providências (Lei nº 7.451, de 26 de dezembro de 1985) | 1 | 1985-12-27 to 1985-12-27 |
+| `lei-7454-de-1985` | Altera dispositivo da Lei nº 4.737, de 15 de julho de 1965, e dá outras providências (Lei nº 7.454, de 30 de dezembro de 1985) | 1 | 1985-12-31 to 1985-12-31 |
+| `lei-7456-de-1986` | Cria órgãos na estrutura básica de administração do Distrito Federal, e dá outras providências (Lei nº 7.456, de 1º de abril de 1986) | 1 | 1986-04-02 to 1986-04-02 |
+| `lei-7457-de-1986` | Altera os artigos 1º, 2º, 3º, 4º, 10 e 11 da Lei nº 6.450, de 14 de outubro de 1977, que dispõe sobre a Organização Básica da Polícia Militar do Distrito Federal, e dá outras providências (Lei nº 7.457, de 9 de abril de 1986) | 1 | 2009-11-09 to 2009-11-09 |
+| `lei-7458-de-1986` | Autoriza o Poder Executivo a instituir a Fundação Universidade das Missões, com sede em Santo Ângelo - RS (Lei nº 7.458, de 9 de abril de 1986) | 1 | 1986-04-10 to 1986-04-10 |
+| `lei-7459-de-1986` | Dispõe sobre a estruturação de Categorias Funcionais do Grupo-Atividades de Apoio Judiciário do Quadro das Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal, e dá outras providências (Lei nº 7.459, de 11 de abril de 1986) | 1 | 1986-04-14 to 1986-04-14 |
+| `lei-7460-de-1986` | Dispõe sobre a estruturação das Categorias Funcionais do Grupo-Atividades de Apoio Judiciário dos Quadros Permanentes das Secretarias do Superior Tribunal Militar e das Auditorias da Justiça Militar e dá outras... (Lei nº 7.460, de 15 de abril de 1986) | 1 | 1986-04-16 to 1986-04-16 |
+| `lei-7461-de-1986` | Reajusta a pensão especial concedida pela Lei nº 4.774, de 15 de setembro de 1965, a Paulo Soares, e dá outras providências (Lei nº 7.461, de 16 de abril de 1986) | 1 | 1986-04-17 to 1986-04-17 |
+| `lei-7463-de-1986` | Dispõe sobre o I Plano Nacional de Informática e Automação - PLANIN (Lei nº 7.463, de 17 de abril de 1986) | 1 | 1986-04-18 to 1986-04-18 |
+| `lei-7464-de-1986` | Altera o artigo 1º da Lei nº 5.589, de 3 de julho de 1970, afim de permitir autenticação, mediante chancela mecânica, dos documentos firmados pelas instituições financeiras (Lei nº 7.464, de 18 de abril de 1986) | 1 | 1986-04-23 to 1986-04-23 |
+| `lei-7465-de-1986` | Incluí o nome do cidadão Tancredo de Almeida Neves na galeria dos que foram ungidos pela Nação brasileira para a Suprema Magistratura (Lei nº 7.465, de 21 de abril de 1986) | 1 | 1986-04-23 to 1986-04-23 |
+| `lei-7466-de-1986` | Dispõe sobre a comemoração do feriado de 1º de Maio - Dia do Trabalho (Lei nº 7.466, de 23 de abril de 1986) | 1 | 1986-04-24 to 1986-04-24 |
+| `lei-7468-de-1986` | Dispõe sobre a realização de campanha educativa pelo rádio e televisão sobre os efeitos nocivos do uso de entorpecentes (Lei nº 7.468, de 28 de abril de 1986) | 1 | 1986-04-30 to 1986-04-30 |
+| `lei-7470-de-1986` | Outorga ao Presidente Getúlio Vargas o título de “Patrono dos Trabalhadores do Brasil” (Lei nº 7.470, de 29 de abril de 1986) | 1 | 1986-05-02 to 1986-05-02 |
+| `lei-7471-de-1986` | Cria Juntas de Conciliação e Julgamento nas Regiões da Justiça do Trabalho, define áreas de jurisdição, e dá outras providências (Lei nº 7.471, de 30 de abril de 1986) | 1 | 1986-05-02 to 1986-05-02 |
+| `lei-7474-de-1986` | Dispõe sobre medidas de segurança aos ex-Presidentes da República, e dá outras providências (Lei nº 7.474, de 8 de maio de 1986) | 1 | 2002-12-23 to 2002-12-23 |
+| `lei-7475-de-1986` | Altera a Lei nº 7.289, de 18 de dezembro de 1984, que dispõe sobre o Estatuto dos Policiais-Militares da Polícia Militar do Distrito Federal, e dá outras providências (Lei nº 7.475, de 13 de maio de 1986) | 1 | 1986-05-14 to 1986-05-14 |
+| `lei-7476-de-1986` | Dá nova redação no artigo 242 da Lei nº 4.737, de 15 de julho de 1965, que "institui o Código Eleitoral" (Lei nº 7.476, de 15 de maio de 1986) | 1 | 1986-05-16 to 1986-05-16 |
+| `lei-7477-de-1986` | Autoriza a permuta dos terrenos que menciona, situados no Município de Foz do Iguaçu, Estado do Paraná (Lei nº 7.477, de 19 de maio de 1986) | 1 | 1986-05-20 to 1986-05-20 |
+| `lei-7479-de-1986` | Aprova o Estatuto dos Bombeiros-Militares do Corpo de Bombeiros do Distrito Federal, e dá outras providências (Lei nº 7.479, de 2 de junho de 1986) | 1 | 1986-07-19 to 1986-07-19 |
+| `lei-7480-de-1986` | Autoriza o Distrito Federal a abrir crédito especial de Cz$ 35.291.000,00 e altera o orçamento para o exercício de 1986 (Lei nº 7.480, de 4 de junho de 1986) | 1 | 1986-06-05 to 1986-06-05 |
+| `lei-7481-de-1986` | Reajusta a pensão especial mensal concedida a Jandira Carvalho de Oliveira Café, viúva do ex- Presidente da República João Café Filho (Lei nº 7.481, de 4 de junho de 1986) | 1 | 1986-06-06 to 1986-06-06 |
+| `lei-7482-de-1986` | Dispõe sobre o resgate de quotas dos Fundos Fiscais, criados pelo Decreto-lei nº 157, de 10 de fevereiro de 1967 (Lei nº 7.482, de 4 de junho de 1986) | 1 | 1986-06-06 to 1986-06-06 |
+| `lei-7483-de-1986` | Estende nos servidores da Justiça do Trabalho as disposições do art. 3º, e seu parágrafo único, da Lei nº 7.299, de 14 de março de 1985 (Lei nº 7.483, de 4 de junho de 1986) | 1 | 1986-06-06 to 1986-06-06 |
+| `lei-7484-de-1986` | Autoriza o Instituto do Açúcar e do Álcool - IAA, a alienar bens de sua propriedade, localizados nos Estados de Minas Gerais, São Paulo, Bahia, Alagoas, Pernambuco e Paraíba, e dá outras providências (Lei nº 7.484, de 6 de junho de 1986) | 1 | 1986-06-10 to 1986-06-10 |
+| `lei-7485-de-1986` | Isenta de contribuição o aposentado e pensionista do Sistema Nacional de Previdência e Assistência Social - SINPAS (Lei nº 7.485, de 6 de junho de 1986) | 1 | 1986-06-10 to 1986-06-10 |
+| `lei-7486-de-1986` | Aprova as diretrizes do Primeiro PlanoNacional de Desenvolvimento (PND) da Nova República, para o período de 1886 a 1989, e dá outras providências (Lei nº 7.486, de 6 de junho de 1986) | 1 | 1986-06-10 to 1986-06-10 |
+| `lei-7487-de-1986` | Dá nova redação ao art. 14 do Decreto-lei nº 538, de 7 de julho de 1938, que organiza o Conselho Nacional do Petróleo, define suas atribuições e dá outras providências (Lei nº 7.487, de 10 de junho de 1986) | 1 | 1986-06-11 to 1986-06-11 |
+| `lei-7488-de-1986` | Institui o “Dia Nacional de Combate ao Fumo” (Lei nº 7.488, de 11 de junho de 1986) | 1 | 1986-06-12 to 1986-06-12 |
+| `lei-7489-de-1986` | Erige em monumento nacional a Cidade de São Cristóvão, no Estado de Sergipe (Lei nº 7.489, de 11 de junho de 1986) | 1 | 1986-06-12 to 1986-06-12 |
+| `lei-7490-de-1986` | Proclama o Tenente-Brigadeiro-do-Ar Nelson Freire Lavenére-Wanderley patrono do Correio Aéreo Nacional (Lei nº 7.490, de 12 de junho de 1986) | 1 | 1986-06-13 to 1986-06-13 |
+| `lei-7493-de-1986` | Estabelece normas para a realização de eleições em 1986 e dá outras providências (Lei nº 7.493, de 17 de junho de 1986) | 1 | 1986-06-18 to 1986-06-18 |
+| `lei-7494-de-1986` | Dispõe sobre a competência da Justiça do trabalho para conciliar e julgar dissídios oriundos das relações de trabalho entre trabalhadores avulsos e seus tomadores de serviços (Lei nº 7.494, de 17 de junho de 1986) | 1 | 1986-06-18 to 1986-06-18 |
+| `lei-7497-de-1986` | Fixa os valores de retribuição da Categoria Funcional de Biomédico e dá outras providências (Lei nº 7.497, de 24 de junho de 1986) | 1 | 1986-06-25 to 1986-06-25 |
+| `lei-7499-de-1986` | Aprova as diretrizes do Primeiro Plano de Desenvolvimento do Nordeste da Nova República (Lei nº 7.499, de 25 de junho de 1986) | 1 | 1986-06-26 to 1986-06-26 |
+| `lei-7503-de-1986` | Altera dispositivos da Lei nº 6.880, de 9 de dezembro de 1980, que dispõe sobre o Estatuto dos Militares (Lei nº 7.503, de 2 de julho de 1986) | 1 | 1986-07-03 to 1986-07-03 |
+| `lei-7504-de-1986` | Dá nova redação ao art. 3º da Lei nº 4.084, de 30 de junho de 1962, que dispõe sobre a Profissão de Bibliotecário, e dá outras Providências (Lei nº 7.504, de 2 de julho de 1986) | 1 | 1986-07-03 to 1986-07-03 |
+| `lei-7508-de-1986` | Institui normas para a propaganda eleitoral e dá outras providências (Lei nº 7.508, de 4 de julho de 1986) | 1 | 1986-07-07 to 1986-07-07 |
+| `lei-7509-de-1986` | Disciplina o transporte de madeira em toros, por via fluvial (Lei nº 7.509, de 4 de julho de 1986) | 1 | 1986-07-07 to 1986-07-07 |
+| `lei-7510-de-1986` | Dá nova redação a dispositivos da Lei nº 1.060, de 5 de fevereiro de 1950, com as alterações posteriores, que estabelece normas para a concessão de assistência judiciária aos necessitados (Lei nº 7.510, de 5 de julho de 1986) | 1 | 1986-07-07 to 1986-07-07 |
+| `lei-7512-de-1986` | Institui o Programa Nacional do Milho - PROMILHO e determina outras providências (Lei nº 7.512, de 7 de julho de 1986) | 1 | 1986-07-08 to 1986-07-08 |
+| `lei-7513-de-1986` | Modifica o artigo 649 da Lei nº 5.869, de 11 de janeiro de 1973, acrescentando dispositivo que torna impenhorável o imóvel rural até um módulo (Lei nº 7.513, de 9 de julho de 1986) | 1 | 1986-07-10 to 1986-07-10 |
+| `lei-7515-de-1986` | Estabelece prazo para prescrição do direito de ação contra atos relativos a concursos para provimento de cargos e empregos na Administração Direta do Distrito Federal e nas suas Autarquias (Lei nº 7.515, de 10 de julho de 1986) | 1 | 1986-07-11 to 1986-07-11 |
+| `lei-7516-de-1986` | Revoga o Decreto-lei nº 251, de 28 de fevereiro de 1967, e dá outras providências (Lei nº 7.516, de 11 de julho de 1986) | 1 | 1986-07-14 to 1986-07-14 |
+| `lei-7517-de-1986` | Cria cargos na Justiça do Trabalho (Lei nº 7.517, de 14 de julho de 1986) | 1 | 1986-07-15 to 1986-07-15 |
+| `lei-7518-de-1986` | Autoriza o Poder Executivo a criar a Escola Técnica Federal do Território Federal de Roraima (Lei nº 7.518, de 14 de julho de 1986) | 1 | 1986-07-15 to 1986-07-15 |
+| `lei-7519-de-1986` | Dispõe, no âmbito do Distrito Federal, sobre microempresa, isenções do Imposto sobre a Circulação de Mercadorias o do Imposto sobre Serviços de Qualquer Natureza, e dá outras providências (Lei nº 7.519, de 14 de julho de 1986) | 1 | 1986-07-15 to 1986-07-15 |
+| `lei-7521-de-1986` | Autoriza o Poder Executivo a criar, em Campinas, Estado de São Paulo uma Vara de Justiça Federal (Lei nº 7.521, de 15 de julho de 1986) | 1 | 1986-07-16 to 1986-07-16 |
+| `lei-7522-de-1986` | Cria Juntas de Conciliação e Julgamento no Estado de Rondônia, e dá outras Providências (Lei nº 7.522, de 17 de julho de 1986) | 1 | 1986-07-18 to 1986-07-18 |
+| `lei-7524-de-1986` | Dispõe sobre a manifestação, por militar inativo, de pensamento e opinião políticos ou filosóficos (Lei nº 7.524, de 17 de julho de 1986) | 1 | 1986-07-18 to 1986-07-18 |
+| `lei-7526-de-1986` | Torna insubsistente a nulidade de atos praticados sem a apresentação dos Certificados de Regularidade de Situação e de Quitação com a Previdência Social (Lei nº 7.526, de 22 de julho de 1986) | 1 | 1986-07-23 to 1986-07-23 |
+| `lei-7527-de-1986` | Dispõe sobre a criação de cargos nos Ofícios Judiciais da Justiça do Distrito Federal e dá outras providências (Lei nº 7.527, de 18 de agosto de 1986) | 1 | 1986-08-19 to 1986-08-19 |
+| `lei-7532-de-1986` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA, a vender o imóvel urbano que menciona, de sua propriedade (Lei nº 7.532, de 1º de setembro de 1986) | 1 | 1986-09-02 to 1986-09-02 |
+| `lei-7533-de-1986` | Autoriza o Governo do Distrito Federal a constituir uma Fundação com a finalidade de amparar o trabalhador preso, e dá outras providências (Lei nº 7.533, de 2 de setembro de 1986) | 1 | 1986-09-03 to 1986-09-03 |
+| `lei-7535-de-1986` | Cria cargos no Quadro Permanente de Pessoal da Secretaria do Tribunal Regional de Trabalho da 13ª Região, a que se refere a Lei nº 7.324, de 18 de junho de 1985, e dá outras providências (Lei nº 7.535, de 9 de setembro de 1986) | 1 | 1986-09-10 to 1986-09-10 |
+| `lei-7536-de-1986` | Aplica ao Procurador-Geral da República e ao Consultor-Geral da República as disposições da Lei nº 7.374, de 30 de setembro de 1985 (Lei nº 7.536, de 15 de setembro de 1986) | 1 | 1990-04-13 to 1990-04-13 |
+| `lei-7537-de-1986` | Considera Patrimônio Histórico Nacional a cidade de Cametá, no Estado do Pará (Lei nº 7.537, de 2 de setembro de 1986) | 1 | 1986-09-03 to 1986-09-03 |
+| `lei-7539-de-1986` | Dispõe sobre a estrutura de Categorias Funcionais do Grupo-Atividades de Apoio Judiciário do Quadro Permanente das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância, e dá outras providências (Lei nº 7.539, de 26 de setembro de 1986) | 1 | 1986-09-29 to 1986-09-29 |
+| `lei-7540-de-1986` | Dispõe sobre a estruturação de Categorias Funcionais do Grupo-Atividades de Apoio Judiciário do Quadro Permanente das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância, e dá outras providências (Lei nº 7.540, de 26 de setembro de 1986) | 1 | 1986-09-29 to 1986-09-29 |
+| `lei-7541-de-1986` | Reajusta a pensão especial concedida pela Lei nº 4.093, de 14 de julho de 1962, à Sra. Geni Silva Vivacqua, viúva do Ex-Senador Attílio Vivacqua (Lei nº 7.541, de 26 de setembro de 1986) | 1 | 1986-09-29 to 1986-09-29 |
+| `lei-7542-de-1986` | Dispõe sobre a pesquisa, exploração, remoção e demolição de coisas ou bens afundados, submersos, encalhados e perdidos em águas sob jurisdição nacional, em terreno de marinha e seus acrescidos e em terrenos... (Lei nº 7.542, de 26 de setembro de 1986) | 1 | 2000-12-28 to 2000-12-28 |
+| `lei-7543-de-1986` | Altera a redação do § 3º do artigo 543 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943, estendendo a estabilidade ao empregado associado investido em cargo de direção... (Lei nº 7.543, de 2 de outubro de 1986) | 1 | 1986-10-03 to 1986-10-03 |
+| `lei-7551-de-1986` | Revoga o Decreto-lei nº 1.541, de 14 de abril de 1977 (Lei das Sublegendas) (Lei nº 7.551, de 12 de dezembro de 1986) | 1 | 1986-12-15 to 1986-12-15 |
+| `lei-7552-de-1986` | Dispõe sobre o valor da remuneração dos Juízes do Tribunal Marítimo (Lei nº 7.552, de 15 de dezembro de 1986) | 1 | 1986-12-16 to 1986-12-16 |
+| `lei-7554-de-1986` | Dispõe sobre os incentivos da produção de aço, nas condições que estabelece (Lei nº 7.554, de 16 de dezembro de 1986) | 1 | 1986-12-17 to 1986-12-17 |
+| `lei-7555-de-1986` | Autoriza o Poder Executivo a instituir a Fundação de Ensino Superior de São João Del Rei e dá outras providências (Lei nº 7.555, de 18 de dezembro de 1986) | 1 | 1986-12-23 to 1986-12-23 |
+| `lei-7556-de-1986` | Cria cargos de Secretário de Turma e de Diretor de Serviço na Secretaria do Tribunal Regional da 4ª Região (Lei nº 7.556, de 19 de dezembro de 1986) | 1 | 1986-12-23 to 1986-12-23 |
+| `lei-7557-de-1986` | Dispõe sobre a criação, transformação e transposição de cargos nos Quadros Permanentes das Secretarias do Superior Tribunal Militar e das Auditorias da Justiça Militar e dá outras providências (Lei nº 7.557, de 19 de dezembro de 1986) | 1 | 1986-12-23 to 1986-12-23 |
+| `lei-7562-de-1986` | Inclui a Categoria Funcional de Inspetor de Segurança Judiciária no Grupo-Atividades de Apoio Judiciário do Quadro Permanente da Secretaria do Tribunal Federal de Recursos, fixa os respectivos valores do vencimento e... (Lei nº 7.562, de 19 de dezembro de 1986) | 1 | 1987-11-16 to 1987-11-16 |
+| `lei-7563-de-1986` | Institui o PRÓ-FRUTI - Programa Nacional de Arborização Urbana com Árvores Frutíferas e determina outras providências (Lei nº 7.563, de 19 de dezembro de 1986) | 1 | 1986-12-23 to 1986-12-23 |
+| `lei-7564-de-1986` | Autoriza a admissão, pela Caixa Econômica Federal, dos empregados da Associação de Poupança e Empréstimo de Alagoas - APEAL, Associação de Poupança e Empréstimo de Pernambuco - APEPE, Associação de Poupança e... (Lei nº 7.564, de 19 de dezembro de 1986) | 1 | 1987-02-06 to 1987-02-06 |
+| `lei-7566-de-1986` | Autoriza a criação do Fundo para Desenvolvimento Integrado do Vale do Rio Doce (Lei nº 7.566, de 23 de dezembro de 1986) | 1 | 1986-12-30 to 1986-12-30 |
+| `lei-7567-de-1986` | Dispõe sobre os órgãos de administração do Ministério Público do Distrito Federal e dá outras providências (Lei nº 7.567, de 22 de dezembro de 1986) | 1 | 1986-12-23 to 1986-12-23 |
+| `lei-7569-de-1986` | Dispõe sobre a transformação de encargos de representação de gabinete na Secretaria do Tribunal Federal de Recursos e dá outras providências (Lei nº 7.569, de 22 de dezembro de 1986) | 1 | 1986-12-23 to 1986-12-23 |
+| `lei-7570-de-1986` | Estende os benefícios previstos no inciso II do artigo 50 da Lei nº 6.880, de 9 de dezembro de 1980, aos militares que menciona (Lei nº 7.570, de 23 de dezembro de 1986) | 1 | 1986-12-30 to 1986-12-30 |
+| `lei-7571-de-1986` | Estende aos equipamentos importados para uso do Ministério do Exército a isenção de pagamento de armazenagem prevista no artigo 12 do Decreto-lei nº 8.439, de 24 de dezembro de 1945 (Lei nº 7.571, de 23 de dezembro de 1986) | 1 | 1986-12-30 to 1986-12-30 |
+| `lei-7573-de-1986` | Dispõe sobre o Ensino Profissional Marítimo (Lei nº 7.573, de 23 de dezembro de 1986) | 1 | 2015-11-25 to 2015-11-25 |
+| `lei-7575-de-1986` | Acrescenta parágrafo 6º e 7º ao artigo 3º do Decreto-lei nº 2.258, de 4 de março de 1985 (Lei nº 7.575, de 23 de dezembro de 1986) | 1 | 1986-12-30 to 1986-12-30 |
+| `lei-7577-de-1986` | Dispõe sobre a liquidação de débitos previdenciários de entidades filantrópicas de fins não-lucrativos (Lei nº 7.577, de 23 de dezembro de 1986) | 1 | 1986-12-30 to 1986-12-30 |
+| `lei-7580-de-1986` | Dá nova redação no art. 110 da Lei nº 6.880, de 9 de dezembro de 1980, que dispõe sobre o Estatuto dos Militares (Lei nº 7.580, de 23 de dezembro de 1986) | 1 | 1986-12-30 to 1986-12-30 |
+| `lei-7581-de-1986` | Altera o Plano Nacional de Viação, aprovado pela Lei nº 5.917, de 10 de setembro de 1973, modificando o traçado da BR-080 (Lei nº 7.581, de 23 de dezembro de 1986) | 1 | 1986-12-30 to 1986-12-30 |
+| `lei-7582-de-1987` | Cria cargos em comissão e de provimento efetivo no Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da Nova Região e dá outras providências (Lei nº 7.582, de 6 de janeiro de 1987) | 1 | 1987-01-07 to 1987-01-07 |
+| `lei-7583-de-1987` | Dispõe sobre a reestruturação dos serviços da Justiça Federal de Primeira Instância e dá outras providências (Lei nº 7.583, de 6 de janeiro de 1987) | 1 | 1987-01-07 to 1987-01-07 |
+| `lei-7584-de-1987` | Acrescenta parágrafo ao artigo 33 da Lei n° 5.197, de 3 de janeiro de 1967, que dispõe sobre a proteção à fauna e dá outras providências (Lei nº 7.584, de 6 de janeiro de 1987) | 1 | 1987-01-07 to 1987-01-07 |
+| `lei-7587-de-1987` | Autoriza o Poder Executivo a instituir a "Fundação Universidade Federal do Norte de Minas" e dá outras providências (Lei nº 7.587, de 8 de janeiro de 1987) | 1 | 1987-01-09 to 1987-01-09 |
+| `lei-7588-de-1987` | Cria cargos, em comissão, de Assessor Legislativo, no Quadro Permanente de Pessoal da Câmara dos Deputados, e dá outras providências (Lei nº 7.588, de 12 de janeiro de 1987) | 1 | 1987-01-13 to 1987-01-13 |
+| `lei-7589-de-1987` | Aprova a participação acionária da "Centrais Elétricas de Roraima S.A." no capital social do Banco de Roraima S.A (Lei nº 7.589, de 18 de janeiro de 1987) | 1 | 1987-01-19 to 1987-01-19 |
+| `lei-7593-de-1987` | Altera o Anexo II da Lei n° 7.324, de 18 de junho de 1985, que “cria a 13ª Região da Justiça do Trabalho e o respectivo Tribunal Regional do Trabalho, institui a correspondente procuradoria Regional do Ministério... (Lei nº 7.593, de 3 de abril de 1987) | 1 | 1987-04-06 to 1987-04-06 |
+| `lei-7595-de-1987` | Dispõe sobre a reestruturação da Justiça Federal de Primeira instância, e dá outras providências (Lei nº 7.595, de 8 de abril de 1987) | 1 | 1987-04-09 to 1987-04-09 |
+| `lei-7597-de-1987` | Altera dispositivos do Decreto-lei nº 1.801, de 18 de agosto de 1980, que “dispõe sobre o Adicional ao Frete para Renovação da Marinha Mercante bem como sobre o Fundo da Marinha Mercante” (Lei nº 7.597, de 14 de abril de 1987) | 1 | 1987-04-15 to 1987-04-15 |
+| `lei-7598-de-1987` | Dispõe sobre o reingresso de servidores no Quadro de Pessoal do Distrito Federal de que trata a Lei nº 5.920, de 19 de setembro de 1973, e dá outras providências (Lei nº 7.598, de 11 de abril de 1987) | 1 | 1987-04-13 to 1987-04-13 |
+| `lei-7599-de-1987` | Altera dispositivo da Lei nº 7.194, de 11 de junho de 1984, que autoriza a inclusão de recurso da União, e dá outras providências (Lei nº 7.599, de 15 de abril de 1987) | 1 | 1987-04-18 to 1987-04-18 |
+| `lei-7600-de-1987` | Dispõe sobre gratificação a ser concedida a engenheiros agrônomos, e dá outras providências (Lei nº 7.600, de 15 de maio de 1987) | 1 | 1969-09-30 to 1969-09-30 |
+| `lei-7603-de-1987` | Dispõe sobre o aproveitamento de funcionários, em cargos da Carreira Policial Civil do Distrito Federal, e dá outras providências (Lei nº 7.603, de 20 de maio de 1987) | 1 | 1987-05-21 to 1987-05-21 |
+| `lei-7604-de-1987` | Dispõe sobre a atualização de benefícios da Previdência Social, e dá outras providências (Lei nº 7.604, de 26 de maio de 1987) | 1 | 1987-05-27 to 1987-05-27 |
+| `lei-7605-de-1987` | Dispõe sobre a transferência e movimentação dos servidores da Administração Federal direta e das autarquias federais (Lei nº 7.605, de 28 de maio de 1987) | 1 | 1987-07-13 to 1987-07-13 |
+| `lei-7606-de-1987` | Autoriza o Poder Executivo a adquirir imóvel, nas condições que especifica, e dá outras providências (Lei nº 7.606, de 28 de maio de 1987) | 1 | 1987-05-29 to 1987-05-29 |
+| `lei-7607-de-1987` | Faculta às Comissões Executivas Nacionais dos Partidos Políticos decidir sobre a realização de convenções e dá outras providências (Lei nº 7.607, de 28 de maio de 1987) | 1 | 1987-05-29 to 1987-05-29 |
+| `lei-7608-de-1987` | Dispõe sobre a administração do Território Federal de Fernando de Noronha, e dá outras providências (Lei nº 7.608, de 30 de junho de 1987) | 1 | 1987-07-02 to 1987-07-02 |
+| `lei-7610-de-1987` | Altera o valor do vencimento do cargo que especifica, e dá outras providências (Lei nº 7.610, de 6 de julho de 1987) | 1 | 1987-07-07 to 1987-07-07 |
+| `lei-7614-de-1987` | Autoriza a realização, em caráter extraordinário, de operações de crédito à conta e risco do Tesouro Nacional, e dá outras providências (Lei nº 7.614, de 14 de julho de 1987) | 1 | 1987-07-15 to 1987-07-15 |
+| `lei-7615-de-1987` | Concede imunidade tributária às instituições que menciona, torna impenhoráveis os seus bens, e dá outras providências (Lei nº 7.615, de 14 de julho de 1987) | 1 | 1987-07-17 to 1987-07-17 |
+| `lei-7617-de-1987` | Altera a composição do Tribunal Regional do Trabalho da 1ª Região, e dá outras providências (Lei nº 7.617, de 8 de setembro de 1987) | 1 | 1987-09-14 to 1987-09-14 |
+| `lei-7621-de-1987` | Dispõe sobre a liquidação de débitos previdenciários de instituições educacionais e culturais (Lei nº 7.621, de 30 de setembro de 1987) | 1 | 1987-10-02 to 1987-10-02 |
+| `lei-7623-de-1987` | Fixa os valores de retribuição do Grupo - Atividades de Fiscalização de Combustíveis, e dá outras providências (Lei nº 7.623, de 9 de outubro de 1987) | 1 | 1987-10-13 to 1987-10-13 |
+| `lei-7624-de-1987` | Autoriza a instituição de fundações, e dá outras providências (Lei nº 7.624, de 5 de novembro de 1987) | 1 | 1987-11-06 to 1987-11-06 |
+| `lei-7625-de-1987` | Dispõe sobre o aproveitamento dos servidores da Empresa de Engenharia e Construção de Obras Especiais S.A. - ECEX no Departamento Nacional de Estradas de Rodagem - DNER (Lei nº 7.625, de 10 de novembro de 1987) | 1 | 1987-12-26 to 1987-12-26 |
+| `lei-7626-de-1987` | Fixa os valores de retribuição da Categoria Funcional de Fonoaudiólogo e dá outras providências (Lei nº 7.626, de 10 de novembro de 1987) | 1 | 1987-11-11 to 1987-11-11 |
+| `lei-7627-de-1987` | Dispõe sobre a eliminação de autos findos nos órgãos da Justiça do Trabalho, e dá outras providências (Lei nº 7.627, de 10 de novembro de 1987) | 1 | 1987-11-11 to 1987-11-11 |
+| `lei-7628-de-1987` | Dispõe sobre os preços mínimos da uva (Lei nº 7.628, de 13 de novembro de 1987) | 1 | 1987-11-16 to 1987-11-16 |
+| `lei-7629-de-1987` | Altera o Decreto-lei nº 1.370, de 9 de dezembro de 1974, que dispõe sobre a tributação dos rendimentos auferidos por garimpeiros matriculados, e dá outras providências (Lei nº 7.629, de 13 de novembro de 1987) | 1 | 1987-11-13 to 1987-11-13 |
+| `lei-7630-de-1987` | Altera o art. 4º da Lei nº 7.562, de 19 de dezembro de 1986, que inclui a Categoria Funcional de Inspetor de Segurança Judiciária no Grupo - Atividade de Apoio Judiciário do Quadro Permanente da Secretaria do... (Lei nº 7.630, de 13 de novembro de 1987) | 1 | 1987-11-16 to 1987-11-16 |
+| `lei-7631-de-1987` | Dispõe sobre a reestruturação da Justiça Federal de Primeira Instância, e dá outras providências (Lei nº 7.631, de 17 de novembro de 1987) | 1 | 1987-11-18 to 1987-11-18 |
+| `lei-7635-de-1987` | Regulamenta a transferência de recursos do Imposto Sobre Transporte - IST, e dá outras providências (Lei nº 7.635, de 14 de dezembro de 1987) | 1 | 1987-12-15 to 1987-12-15 |
+| `lei-7636-de-1987` | Dispõe sobre a liquidação de débitos previdenciários de sindicatos, e dá outras providências (Lei nº 7.636, de 30 de setembro de 1987) | 1 | 1987-10-01 to 1987-10-01 |
+| `lei-7637-de-1987` | Dispõe sobre a liquidação de débitos previdenciários de entidades esportivas e recreativas (Lei nº 7.637, de 30 de setembro de 1987) | 1 | 1987-10-01 to 1987-10-01 |
+| `lei-7638-de-1987` | Cria cargos na Procuradoria Regional do Trabalho da 15ª Região, em Campinas, São Paulo, e dá outras providências (Lei nº 7.638, de 17 de dezembro de 1987) | 1 | 1987-12-18 to 1987-12-18 |
+| `lei-7639-de-1987` | Autoriza a criação de municípios no Território Federal do Amapá, e dá outras providências (Lei nº 7.639, de 17 de dezembro de 1987) | 1 | 1987-12-18 to 1987-12-18 |
+| `lei-7640-de-1987` | Altera a base de Cálculo da Taxa de Limpeza Pública, instituída pela Lei nº 6.945, de 14 de setembro de 1981 (Lei nº 7.640, de 17 de dezembro de 1987) | 1 | 1987-12-18 to 1987-12-18 |
+| `lei-7641-de-1987` | Introduz alterações no Código Tributário do Distrito Federal, instituído pelo Decreto-lei nº 82, de 26 de dezembro de 1966, e dá outras providências (Lei nº 7.641, de 17 de dezembro de 1987) | 1 | 1987-12-18 to 1987-12-18 |
+| `lei-7642-de-1987` | Dispõe sobre a Procuradoria Especial da Marinha - PEM, e dá outras providências (Lei nº 7.642, de 18 de dezembro de 1987) | 1 | 1987-12-21 to 1987-12-21 |
+| `lei-7643-de-1987` | Proíbe a pesca de cetáceo nas águas jurisdicionais brasileiras, e dá outras providências (Lei nº 7.643, de 18 de dezembro de 1987) | 1 | 1987-12-21 to 1987-12-21 |
+| `lei-7644-de-1987` | Dispõe sobre a Regulamentação da Atividade de Mãe Social e dá outras Providências (Lei nº 7.644, de 18 de dezembro de 1987) | 1 | 1987-12-21 to 1987-12-21 |
+| `lei-7645-de-1987` | Dispõe sobre a criação e extinção de cargos nos Quadros Permanentes das Secretarias do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais, e dá outras providências (Lei nº 7.645, de 18 de dezembro de 1987) | 1 | 1987-12-21 to 1987-12-21 |
+| `lei-7648-de-1988` | Fixa o efetivo da Polícia Militar do Território Federal do Amapá e dá outras providências (Lei nº 7.648, de 21 de janeiro de 1988) | 1 | 1988-01-22 to 1988-01-22 |
+| `lei-7651-de-1988` | Autoriza o Poder Executivo a atualizar, anualmente, os valores da subvenção concedida ao Instituto Histórico e Geográfico Brasileiro através da Lei nº 2.956, de 17 de novembro de 1956 (Lei nº 7.651, de 3 de fevereiro de 1988) | 1 | 1988-02-05 to 1988-02-05 |
+| `lei-7660-de-1988` | Dispõe sobre a Organização do Quadro de Engenheiros Militares no Ministério do Exército e dá outras providências (Lei nº 7.660, de 10 de maio de 1988) | 1 | 1988-05-11 to 1988-05-11 |
+| `lei-7667-de-1988` | Dispõe sobre a estrutura das Categorias Funcionais do Grupo-Atividades de Apoio Judiciário dos Serviços Auxiliares da Justiça do Distrito Federal e dos Territórios e dá outras providências (Lei nº 7.667, de 22 de agosto de 1988) | 1 | 1988-08-23 to 1988-08-23 |
+| `lei-7669-de-1988` | Dispõe sobre a criação de cargos na Secretaria do Tribunal de Justiça do Distrito Federal e dá outras providências (Lei nº 7.669, de 23 de agosto de 1988) | 1 | 1988-08-25 to 1988-08-25 |
+| `lei-7673-de-1988` | Modifica a redação do inciso I do art. 28 da Lei nº 7.664, de 29 de junho de 1988, estabelecendo novo horário para veiculação de propaganda eleitoral para as eleições municipais de 15 de novembro de 1988 (Lei nº 7.673, de 29 de setembro de 1988) | 1 | 1988-10-03 to 1988-10-03 |
+| `lei-7674-de-1988` | Autoriza o Instituto de Administração Financeira da Previdência e Assistência Social - IAPAS a doar à Academia Nacional de Medicina imóveis destinados à instalação de centros de estudo e pesquisa (Lei nº 7.674, de 4 de outubro de 1988) | 1 | 1999-05-19 to 1999-05-19 |
+| `lei-7675-de-1988` | Atribui ao Tribunal de Contas da União, a partir do exercício de 1986, a fiscalização da aplicação pelos Estados, Distrito Federal, Territórios e Municípios, inclusive por suas entidades da Administração Indireta e... (Lei nº 7.675, de 4 de outubro de 1988) | 1 | 1988-10-07 to 1988-10-07 |
+| `lei-7676-de-1988` | Autoriza o Poder Executivo a criar a Universidade Federal de Cruz Alta, no Estado do Rio Grande do Sul, e dá outras providências (Lei nº 7.676, de 6 de outubro de 1988) | 1 | 1988-10-07 to 1988-10-07 |
+| `lei-7683-de-1988` | Altera disposição da legislação aduaneira, e dá outras providências (Lei nº 7.683, de 2 de dezembro de 1988) | 1 | 1988-12-05 to 1988-12-05 |
+| `lei-7717-de-1989` | Cria, mediante transformação, cargos de Subprocurador-Geral do Trabalho e dá outras providências (Lei nº 7.717, de 6 de janeiro de 1989) | 1 | 1989-01-09 to 1989-01-09 |
+| `lei-7718-de-1989` | Autoriza a Universidade Federal de Goiás a doar imóvel à União Estadual dos Estudantes de Goiás, nas condições que menciona (Lei nº 7.718, de 6 de janeiro de 1989) | 1 | 1989-01-09 to 1989-01-09 |
+| `lei-7719-de-1989` | Inclui a Categoria Funcional de Inspetor de Segurança Judiciária no Grupo Atividades de Apoio Judiciário do Quadro Permanente da Secretaria do Tribunal Superior Eleitoral, fixa os respectivos vencimentos e dá outras... (Lei nº 7.719, de 6 de janeiro de 1989) | 1 | 1989-01-09 to 1989-01-09 |
+| `lei-7720-de-1989` | Inclui a Categoria Funcional de Inspetor de Segurança Judiciária no Grupo-Atividades de Apoio Judiciário, no Quadro Permanente de Pessoal da Secretaria do Tribunal Superior do Trabalho, fixa os respectivos valores de... (Lei nº 7.720, de 6 de janeiro de 1989) | 1 | 1989-01-09 to 1989-01-09 |
+| `lei-7721-de-1989` | Dispõe sobre os vencimentos dos Ministros do Supremo Tribunal Federal. Mensagem de Veto (Lei nº 7.721, de 6 de janeiro de 1989) | 1 | 1989-01-09 to 1989-01-09 |
+| `decreto-lei-1731-de-1979` | Reajusta o valor do soldo base de cálculo de remuneração dos militares (Decreto-Lei nº 1.731, de 20 de dezembro de 1979) | 1 | 1979-12-20 to 1979-12-20 |
+| `decreto-lei-1732-de-1979` | Reajusta os vencimentos, salários e proventos dos servidores civis do Poder Executivo, dos membros da Magistratura e do Tribunal de Contas da União, e dá outras providências (Decreto-Lei nº 1.732, de 20 de dezembro de 1979) | 1 | 1981-02-10 to 1981-02-10 |
+| `decreto-lei-1733-de-1979` | Altera a legislação do imposto sobre a renda das pessoas jurídicas e dá outras providências (Decreto-Lei nº 1.733, de 20 de dezembro de 1979) | 1 | 1979-12-20 to 1979-12-20 |
+| `decreto-lei-1734-de-1979` | Prorroga o prazo de aplicação dos incentivos fiscais criados pelo artigo 4º do Decreto-Lei nº 880, de 18 de setembro de 1969, e dá outras providências (Decreto-Lei nº 1.734, de 20 de dezembro de 1979) | 1 | 2001-08-27 to 2001-08-27 |
+| `decreto-lei-1736-de-1979` | Dispõe sobre débitos para com a Fazenda e dá outras providências (Decreto-Lei nº 1.736, de 20 de dezembro de 1979) | 1 | 1986-07-24 to 1986-07-24 |
+| `decreto-lei-1743-de-1979` | Altera o limite percentual da Gratificação de que trata o Decreto-lei nº 1.698, de 3 de outubro de 1979 (Decreto-Lei nº 1.743, de 27 de dezembro de 1979) | 1 | 1979-12-28 to 1979-12-28 |
+| `decreto-lei-1746-de-1979` | Altera a Lei nº 6.732, de 4 de dezembro de 1979, e dá outras providências (Decreto-Lei nº 1.746, de 27 de dezembro de 1979) | 1 | 1979-12-05 to 1979-12-05 |
+| `decreto-lei-1749-de-1979` | Eleva em até Cr$ 350.000.000,00 o limite atribuído ao Governo do Distrito Federal para abertura de crédito suplementar (Decreto-Lei nº 1.749, de 28 de dezembro de 1979) | 1 | 1979-12-28 to 1979-12-28 |
+| `decreto-lei-1752-de-1979` | Extingue o Certificado de Aplicação previsto no artigo 15 do Decreto-lei nº 1.376, de 12 de dezembro de 1974, e dá outras providências (Decreto-Lei nº 1.752, de 31 de dezembro de 1979) | 1 | 1979-12-31 to 1979-12-31 |
+| `decreto-lei-1754-de-1979` | Altera a composição do Fundo Nacional de Desenvolvimento, e dá outras providências (Decreto-Lei nº 1.754, de 31 de dezembro de 1979) | 1 | 1979-12-31 to 1979-12-31 |
+| `decreto-lei-1755-de-1979` | Dispõe sobre a arrecadação e restituição das receitas federais, e dá outras providências (Decreto-Lei nº 1.755, de 31 de dezembro de 1979) | 1 | 1986-12-24 to 1986-12-24 |
+| `decreto-lei-1756-de-1979` | Aumenta os limites do Decreto-lei nº 1.312, de 15 de fevereiro de 1974, alterados pelos Decretos-leis nºs 1.460, de 22 de abril de 1976, 1.562, de 19 de julho de 1977 e 1.651, de 21 de dezembro de 1978, e dá outras... (Decreto-Lei nº 1.756, de 31 de dezembro de 1979) | 1 | 1979-12-31 to 1979-12-31 |
+| `decreto-lei-1761-de-1980` | Reajusta os vencimentos e proventos dos funcionários da Secretaria do Tribunal Superior Eleitoral, e dá outras providências (Decreto-Lei nº 1.761, de 7 de janeiro de 1980) | 1 | 1980-01-08 to 1980-01-08 |
+| `decreto-lei-1762-de-1980` | Reajusta os vencimentos e proventos dos funcionários das Secretarias dos Tribunais Regionais Eleitorais, e dá outras providências (Decreto-Lei nº 1.762, de 7 de janeiro de 1980) | 1 | 1980-01-08 to 1980-01-08 |
+| `decreto-lei-1763-de-1980` | Altera a redação do artigo 91 do Decreto-lei nº 200, de 25 de fevereiro de 1967, modificado pelo artigo 1º do Decreto-lei nº 900, de 29 de setembro de 1969 (Decreto-Lei nº 1.763, de 16 de janeiro de 1980) | 1 | 1980-01-17 to 1980-01-17 |
+| `decreto-lei-1766-de-1980` | Dispõe sobre dação de imóveis em pagamento de débitos relativos ao imposto sobre a Propriedade Territorial Rural, à Taxa de Serviços Cadastrais, à Contribuição Sindical Rural, e à Contribuição de que trata o art. 5º... (Decreto-Lei nº 1.766, de 17 de janeiro de 1980) | 1 | 1980-01-18 to 1980-01-18 |
+| `decreto-lei-1769-de-1980` | Autoriza a EMBRAER - Empresa Brasileira de Aeronáutica S.A. a participar acionariamente do capital social da Indústria Aeronáutica NEIVA S.A., nas condições que estabelece (Decreto-Lei nº 1.769, de 14 de fevereiro de 1980) | 1 | 1980-02-14 to 1980-02-14 |
+| `decreto-lei-1770-de-1980` | Dispõe sobre a criação de cargos, não remunerados, de Juiz de Paz, na Justiça do Distrito Federal e dos Territórios, e dá outras providências (Decreto-Lei nº 1.770, de 20 de fevereiro de 1980) | 1 | 1980-02-20 to 1980-02-20 |
+| `decreto-lei-1771-de-1980` | Estende a gratificação instituída pelo Decreto-lei nº 1.714, de 21 de novembro de 1979, aos integrantes da Polícia Rodoviária Federal (Decreto-Lei nº 1.771, de 20 de fevereiro de 1980) | 1 | 1980-02-21 to 1980-02-21 |
+| `decreto-lei-1772-de-1980` | Dispõe sobre isenção ou redução fiscal na importação (Decreto-Lei nº 1.772, de 26 de fevereiro de 1980) | 1 | 1980-02-26 to 1980-02-26 |
+| `decreto-lei-1773-de-1980` | Regula a incidência de contribuição previdenciária sobre a Representação Mensal prevista no Decreto-lei nº 1.445, de 13 de fevereiro de 1976 (Decreto-Lei nº 1.773, de 3 de março de 1980) | 1 | 1980-03-04 to 1980-03-04 |
+| `decreto-lei-1774-de-1980` | Altera o limite da Gratificação de Produtividade instituída pelo Decreto-Lei nº 1.544, de 15 de abril de 1977, e dá outras providências (Decreto-Lei nº 1.774, de 5 de março de 1980) | 1 | 1980-03-06 to 1980-03-06 |
+| `decreto-lei-1776-de-1980` | Dispõe sobre pagamento da Gratificação de Produtividade, nos casos que menciona, e dá outras providências (Decreto-Lei nº 1.776, de 17 de março de 1980) | 1 | 1985-07-03 to 1985-07-03 |
+| `decreto-lei-1780-de-1980` | Concede isenção do imposto sobre a renda às empresas de pequeno porte e dispensa obrigações acessórias (Decreto-Lei nº 1.780, de 14 de abril de 1980) | 1 | 1980-04-15 to 1980-04-15 |
+| `decreto-lei-1781-de-1980` | Dispõe sobre recursos recebidos pela Companhia de Eletricidade do Amapá (CEA), e dá outras providências (Decreto-Lei nº 1.781, de 16 de abril de 1980) | 1 | 1980-04-17 to 1980-04-17 |
+| `decreto-lei-1783-de-1980` | Dispõe sobre o Imposto sobre Operações de Crédito, Câmbio e Seguro, e sobre Operações relativas a Títulos e Valores Mobiliários (Decreto-Lei nº 1.783, de 18 de abril de 1980) | 1 | 2011-12-09 to 2011-12-09 |
+| `decreto-lei-1784-de-1980` | Fixa vencimentos para cargos da Magistratura da União e do Distrito Federal e Territórios (Decreto-Lei nº 1.784, de 28 de abril de 1980) | 1 | 1980-04-29 to 1980-04-29 |
+| `decreto-lei-1787-de-1980` | Fixa vencimentos para cargos do Governo do Distrito Federal e do Tribunal de Contas do Distrito Federal (Decreto-Lei nº 1.787, de 26 de maio de 1980) | 1 | 1980-05-27 to 1980-05-27 |
+| `decreto-lei-1789-de-1980` | Dispõe sobre a renuncia, pela União, do domínio útil de área situada no município de Guarulhos, Estado de São Paulo, necessária à ampliação da Base Aérea e a implantação do Aeroporto de Guarulhos (Decreto-Lei nº 1.789, de 28 de maio de 1980) | 1 | 1980-05-29 to 1980-05-29 |
+| `decreto-lei-1790-de-1980` | Altera a legislação do imposto de renda e introduz modificações no Decreto-lei nº 1.782, de 16 de abril de 1980, que instituiu o empréstimo compulsório (Decreto-Lei nº 1.790, de 9 de junho de 1980) | 1 | 1980-12-30 to 1980-12-30 |
+| `decreto-lei-1791-de-1980` | Dispõe sobre a renúncia, pela União, em favor do Estado de São Paulo, ao domínio direto de área situada no Município de Guarulhos, Estado de São Paulo (Decreto-Lei nº 1.791, de 11 de junho de 1980) | 1 | 1980-06-12 to 1980-06-12 |
+| `decreto-lei-1792-de-1980` | Dispõe sobre a destinação do eventual excesso de arrecadação do Imposto sobre Operações Financeiras no exercício financeiro de 1980 (Decreto-Lei nº 1.792, de 17 de junho de 1980) | 1 | 1980-06-18 to 1980-06-18 |
+| `decreto-lei-1793-de-1980` | Autoriza o Poder Executivo a não ajuizar as ações que menciona e dá outras providências (Decreto-Lei nº 1.793, de 23 de junho de 1980) | 1 | 1988-09-02 to 1988-09-02 |
+| `decreto-lei-1794-de-1980` | Dispõe sobre os encargos financeiros da União, previstos no artigo 9º e §§ 1º, 2º e 5º da Lei nº 4.070, de 15 de junho de 1962 (Decreto-Lei nº 1.794, de 23 de junho de 1980) | 1 | 1980-06-24 to 1980-06-24 |
+| `decreto-lei-1795-de-1980` | Altera a composição da Diretoria do Banco Central do Brasil (Decreto-Lei nº 1.795, de 8 de julho de 1980) | 1 | 1980-07-09 to 1980-07-09 |
+| `decreto-lei-1796-de-1980` | Estabelece alíquota para a incidência do imposto de renda sobre remessas em pagamento de transmissão dos Jogos Olímpicos do corrente ano, em Moscou (Decreto-Lei nº 1.796, de 9 de julho de 1980) | 1 | 1980-07-10 to 1980-07-10 |
+| `decreto-lei-1797-de-1980` | Concede isenção do imposto de importação para as obras de arte que específica (Decreto-Lei nº 1.797, de 9 de julho de 1980) | 1 | 1980-07-10 to 1980-07-10 |
+| `decreto-lei-1799-de-1980` | Reestrutura o Grupo Executivo das Terras do Araguaia-Tocantins - GETAT, e dá outras providências (Decreto-Lei nº 1.799, de 5 de agosto de 1980) | 1 | 1980-08-06 to 1980-08-06 |
+| `decreto-lei-1800-de-1980` | Limita a aplicação do disposto no artigo 4º do Decreto-lei nº 1.742, de 27 de dezembro de 1979 que dispõe sobre a realização das despesas à conta de recursos vinculados do Tesouro Nacional, no exercício de 1980 (Decreto-Lei nº 1.800, de 18 de agosto de 1980) | 1 | 1980-08-19 to 1980-08-19 |
+| `decreto-lei-1801-de-1980` | Consolida e altera a legislação relativa ao Adicional ao Frete para Renovação da Marinha Mercante, bem como do Fundo de Marinha Mercante e dá outras providências (Decreto-Lei nº 1.801, de 18 de agosto de 1980) | 1 | 1987-04-15 to 1987-04-15 |
+| `decreto-lei-1803-de-1980` | Assegura a manutenção e utilização dos créditos do IPI relativos às matérias-primas que especifica (Decreto-Lei nº 1.803, de 2 de setembro de 1980) | 1 | 1980-09-04 to 1980-09-04 |
+| `decreto-lei-1805-de-1980` | Dispõe sobre a transferência aos Estados, Distrito Federal, Territórios e Municípios das parcelas ou quotas-partes dos recursos tributários arrecadados pela União, e dá outras providências (Decreto-Lei nº 1.805, de 1º de outubro de 1980) | 1 | 1987-12-15 to 1987-12-15 |
+| `decreto-lei-1807-de-1980` | Acrescenta parágrafo ao artigo 2º do Decreto-lei nº 61, de 21 de novembro 1966, que alterou a legislação relativa ao Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos, e dá outras providências (Decreto-Lei nº 1.807, de 6 de outubro de 1980) | 1 | 1980-10-08 to 1980-10-08 |
+| `decreto-lei-1812-de-1980` | Dispõe sobre recursos da União, estranhos ao Fundo Federal de Eletrificação e dá outras providências (Decreto-Lei nº 1.812, de 11 de novembro de 1980) | 1 | 1980-11-12 to 1980-11-12 |
+| `decreto-lei-1816-de-1980` | Modifica a sistemática de cálculo da correção monetária incidente sobre as contribuições de previdência social não pagas, e dá outras providências (Decreto-Lei nº 1.816, de 10 de dezembro de 1980) | 1 | 1983-06-30 to 1983-06-30 |
+| `decreto-lei-1817-de-1980` | Dispõe sobre a execução no Território Federal de Rondônia, do Plano Nacional de Habitação Popular (PLANHAP), e dá outras providências (Decreto-Lei nº 1.817, de 11 de dezembro de 1980) | 1 | 1980-12-12 to 1980-12-12 |
+| `decreto-lei-1818-de-1980` | Dispõe sobre reavaliação de bens do ativo imobilizado da Rede Ferroviária Federal S.A (Decreto-Lei nº 1.818, de 11 de dezembro de 1980) | 1 | 1980-12-12 to 1980-12-12 |
+| `decreto-lei-1819-de-1980` | Reajusta o valor do soldo base de cálculo da remuneração dos militares (Decreto-Lei nº 1.819, de 11 de dezembro de 1980) | 1 | 1980-12-12 to 1980-12-12 |
+| `decreto-lei-1820-de-1980` | Reajusta os vencimentos, salários e proventos dos servidores civis do Poder Executivo, bem como das pensões e dá outras providências (Decreto-Lei nº 1.820, de 11 de dezembro de 1980) | 1 | 1981-05-28 to 1981-05-28 |
+| `decreto-lei-1822-de-1980` | Autoriza a elevação do capital do Serviço Federal de Processamento de Dados - SERPRO e dá outras providências (Decreto-Lei nº 1.822, de 16 de dezembro de 1980) | 1 | 1980-12-17 to 1980-12-17 |
+| `decreto-lei-1823-de-1980` | Transfere os recursos orçamentários que menciona (Decreto-Lei nº 1.823, de 18 de dezembro de 1980) | 1 | 1980-12-19 to 1980-12-19 |
+| `decreto-lei-1825-de-1980` | Isenta de imposto de renda os empreendimentos integrantes do Programa Grande Carajás e dá outras providências (Decreto-Lei nº 1.825, de 22 de dezembro de 1980) | 1 | 1980-12-23 to 1980-12-23 |
+| `decreto-lei-1831-de-1980` | Reajusta os valores de vencimentos, salários e proventos dos servidores civis do Distrito Federal, bem como os das pensões, e dá outras providências (Decreto-Lei nº 1.831, de 22 de dezembro de 1980) | 1 | 1981-09-04 to 1981-09-04 |
+| `decreto-lei-1833-de-1980` | Extingue a vinculação a categorias econômicas na aplicação, pelos Estados, Distrito Federal, Territórios e Municípios, de recursos tributários transferidos pela União, e dá outras providências (Decreto-Lei nº 1.833, de 23 de dezembro de 1980) | 1 | 1980-12-24 to 1980-12-24 |
+| `decreto-lei-1841-de-1980` | Dispõe sobre benefícios fiscais a investimentos de interesse econômico-social, altera o Decreto-Lei n.º 157, de 10 de fevereiro de 1967, e dá outras providências (Decreto-Lei nº 1.841, de 29 de dezembro de 1980) | 2 | 1980-12-30 to 1983-05-19 |
+| `decreto-lei-1842-de-1980` | Acrescenta parágrafo único ao artigo 18 do Decreto-lei nº 1.801, de 18 de agosto de 1980, que consolida a legislação sobre o Adicional ao Frete para Renovação da Marinha Mercante e o Fundo da Marinha Mercante (Decreto-Lei nº 1.842, de 29 de dezembro de 1980) | 1 | 1980-12-30 to 1980-12-30 |
+| `decreto-lei-1843-de-1980` | Dispõe sobre o Incentivo fiscal a que se refere o Decreto-lei nº 1.547, de 18 de abril de 1977 (Decreto-Lei nº 1.843, de 29 de dezembro de 1980) | 1 | 1980-12-30 to 1980-12-30 |
+| `decreto-lei-1844-de-1980` | Dá nova redação ao item IV do artigo 1º do Decreto-lei nº 1.783, de 18 de abril de 1980 (Decreto-Lei nº 1.844, de 30 de dezembro de 1980) | 1 | 1980-12-31 to 1980-12-31 |
+| `decreto-lei-1845-de-1980` | Prorroga a isenção concedida no artigo 2º do Decreto-lei nº 1.507, de 2 de dezembro de 1976 e concede dispensa de pagamento da Taxa de Melhoramento dos Portos (TMP) e do Adicional ao Frete para a Renovação da Marinha... (Decreto-Lei nº 1.845, de 30 de dezembro de 1980) | 1 | 1980-12-31 to 1980-12-31 |
+| `decreto-lei-1846-de-1980` | Prorroga, até 31 de dezembro de 1984, o prazo da isenção fiscal concedida pelo Decreto-lei nº 1.396, de 12 de março de 1975 (Decreto-Lei nº 1.846, de 30 de dezembro de 1980) | 1 | 1980-12-31 to 1980-12-31 |
+| `decreto-lei-1847-de-1980` | Concede isenção dos impostos de importação e sobre produtos industrializados para equipamentos de produção cinematográfica (Decreto-Lei nº 1.847, de 30 de dezembro de 1980) | 1 | 1980-12-31 to 1980-12-31 |
+| `decreto-lei-1850-de-1981` | Isenta de laudêmio as transferências do domínio útil de terrenos de marinha, destinados à construção de conjuntos habitacionais de interesse social (Decreto-Lei nº 1.850, de 15 de janeiro de 1981) | 1 | 1981-01-16 to 1981-01-16 |
+| `decreto-lei-1851-de-1981` | Altera o limite mínimo do benefício fiscal concedido pelo Decreto-lei nº 1.358, de 12 de novembro de 1974, a pessoas físicas mutuários do Sistema Financeiro de Habilitação, e dá outras providências (Decreto-Lei nº 1.851, de 27 de janeiro de 1981) | 1 | 1981-01-29 to 1981-01-29 |
+| `decreto-lei-1852-de-1981` | Regula a distribuição aos Municípios da parcela do imposto sobre transmissão de bens imóveis e de direitos a eles relativos (Decreto-Lei nº 1.852, de 27 de janeiro de 1981) | 1 | 1981-01-29 to 1981-01-29 |
+| `decreto-lei-1853-de-1981` | Dá nova redação a dispositivo do Decreto-lei nº 1.732, de 20 de dezembro de 1979, que reajusta os vencimentos, salários e proventos dos servidores civis do Poder Executivo (Decreto-Lei nº 1.853, de 9 de fevereiro de 1981) | 1 | 1981-02-10 to 1981-02-10 |
+| `decreto-lei-1854-de-1981` | Dispõe sobre a renúncia, pela União ao domínio direto de áreas situadas no Município de Guarulhos, Estado de São Paulo, necessárias à ampliação da Base Aérea e à implantação do Aeroporto de Guarulhos (Decreto-Lei nº 1.854, de 9 de fevereiro de 1981) | 1 | 1981-02-10 to 1981-02-10 |
+| `decreto-lei-1855-de-1981` | Dispõe sobre a retribuição dos professores civis do Magistério do Exército e dá outras providências (Decreto-Lei nº 1.855, de 10 de fevereiro de 1981) | 1 | 1981-02-11 to 1981-02-11 |
+| `decreto-lei-1856-de-1981` | Autoriza o Ministro da Fazenda a conceder isenção dos impostos de importação e sobre produtos industrializados, nos casos que específica (Decreto-Lei nº 1.856, de 10 de fevereiro de 1981) | 1 | 1981-02-11 to 1981-02-11 |
+| `decreto-lei-1858-de-1981` | Reestrutura a carreira do Magistério de 1º e 2º Graus do Serviço Público Civil da União e da Autarquias Federais, e dá outras providências (Decreto-Lei nº 1.858, de 16 de fevereiro de 1981) | 1 | 1981-02-17 to 1981-02-17 |
+| `decreto-lei-1859-de-1981` | Extingue o Fundo Nacional de Desenvolvimento, e dá outras providências (Decreto-Lei nº 1.859, de 17 de fevereiro de 1981) | 1 | 1981-02-19 to 1981-02-19 |
+| `decreto-lei-1861-de-1981` | Altera a legislação referente às contribuições compulsórias recolhidas pelo IAPAS à conta de diversas entidades e dá outras providências (Decreto-Lei nº 1.861, de 25 de fevereiro de 1981) | 1 | 1986-12-31 to 1986-12-31 |
+| `decreto-lei-1862-de-1981` | Autoriza a elevação do capital do Banco Nacional de Desenvolvimento Econômico - BNDE e dá outras providências (Decreto-Lei nº 1.862, de 25 de fevereiro de 1981) | 1 | 1981-02-26 to 1981-02-26 |
+| `decreto-lei-1863-de-1981` | Concede isenção de tributos às Missões Diplomáticas e Representações Consulares de Carreira, com base na reciprocidade de tratamento (Decreto-Lei nº 1.863, de 26 de fevereiro de 1981) | 1 | 1980-05-14 to 1980-05-14 |
+| `decreto-lei-1864-de-1981` | Dispõe sobre a ocupação provisória de imóveis para pesquisa e lavra de petróleo (Decreto-Lei nº 1.864, de 26 de fevereiro de 1981) | 1 | 1981-02-27 to 1981-02-27 |
+| `decreto-lei-1865-de-1981` | Dispõe sobre a ocupação provisória de imóveis para pesquisa e lavra de substâncias minerais que contenham elementos nucleares (Decreto-Lei nº 1.865, de 26 de fevereiro de 1981) | 1 | 1981-02-27 to 1981-02-27 |
+| `decreto-lei-1866-de-1981` | Dispõe sobre a nomeação de prefeito em município declarado de interesse da segurança nacional (Decreto-Lei nº 1.866, de 9 de março de 1981) | 1 | 1982-04-28 to 1982-04-28 |
+| `decreto-lei-1870-de-1981` | Atribui competência para a dispensa da retenção de imposto de renda de reduzido valor, dispõe sobre a retenção do imposto incidente sobre rendimentos de depósito a prazo fixo, e dá outras providências (Decreto-Lei nº 1.870, de 6 de maio de 1981) | 1 | 1981-05-07 to 1981-05-07 |
+| `decreto-lei-1873-de-1981` | Dispõe sobre a concessão de adicionais de Insalubridade e de periculosidade aos servidores públicos federais, e dá outras providências (Decreto-Lei nº 1.873, de 27 de maio de 1981) | 1 | 1981-05-28 to 1981-05-28 |
+| `decreto-lei-1874-de-1981` | Dispõe sobre o reposicionamento de servidores pertencentes ás Categorias Funcionais que especifica e dá outras providências (Decreto-Lei nº 1.874, de 8 de julho de 1981) | 1 | 1981-12-09 to 1981-12-09 |
+| `decreto-lei-1877-de-1981` | Inclui gratificação no Anexo II do Decreto-lei nº 1.341, de 22 de agosto de 1974, e dá outras providências (Decreto-Lei nº 1.877, de 15 de julho de 1981) | 1 | 1981-07-16 to 1981-07-16 |
+| `decreto-lei-1878-de-1981` | Altera disposições do Decreto-lei nº 1.703, de 18 de outubro de 1979 (Decreto-Lei nº 1.878, de 23 de julho de 1981) | 1 | 1981-07-24 to 1981-07-24 |
+| `decreto-lei-1879-de-1981` | Autoriza a conversão dos créditos que especifica em ações de sociedades de economia mista ou empresas públicas (Decreto-Lei nº 1.879, de 23 de julho de 1981) | 1 | 1981-07-24 to 1981-07-24 |
+| `decreto-lei-1882-de-1981` | Altera disposições da Lei nº 5.787, de 27 de junho de 1972, modificada pelos Decretos-leis nºs 1.824, de 22 de dezembro de 1980, e 1.848, de 6 de janeiro de 1981 (Decreto-Lei nº 1.882, de 1º de setembro de 1981) | 1 | 1981-09-02 to 1981-09-02 |
+| `decreto-lei-1883-de-1981` | Dispõe sobre a concessão de adicionais de insalubridade e de periculosidade aos servidores públicos civis do Distrito Federal, e dá outras providências (Decreto-Lei nº 1.883, de 2 de setembro de 1981) | 1 | 1981-09-04 to 1981-09-04 |
+| `decreto-lei-1886-de-1981` | Modifica a redação de dispositivo do Decreto-lei nº 1.691, de 2 de agosto de 1979, que altera a legislação da Taxa Rodoviária Única, e dá outras providencias (Decreto-Lei nº 1.886, de 26 de setembro de 1981) | 1 | 1981-09-27 to 1981-09-27 |
+| `decreto-lei-1887-de-1981` | Altera a legislação relativa ao imposto de renda de pessoa física (Decreto-Lei nº 1.887, de 29 de outubro de 1981) | 1 | 1981-10-30 to 1981-10-30 |
+| `decreto-lei-1888-de-1981` | Acrescenta parágrafo ao artigo 2º do Decreto-lei nº 1.874, de 8 de julho de 1981, e dá outras providências (Decreto-Lei nº 1.888, de 6 de dezembro de 1981) | 1 | 1981-12-09 to 1981-12-09 |
+| `decreto-lei-1891-de-1981` | Dispõe sobre a obrigatoriedade do uso de borderôs e Ingressos padronizados, de emissão da EMBRAFILME, pelas salas exibidoras nacionais (Decreto-Lei nº 1.891, de 15 de dezembro de 1981) | 1 | 1981-12-16 to 1981-12-16 |
+| `decreto-lei-1892-de-1981` | Estimula a capitalização das empresas mediante isenção de imposto de renda sobre lucros decorrentes da alienação de imóveis e de participações societárias, e dá outras providências (Decreto-Lei nº 1.892, de 16 de dezembro de 1981) | 1 | 1987-06-30 to 1987-06-30 |
+| `decreto-lei-1893-de-1981` | Dispõe sobre a adoção de medidas de incentivo à arrecadação federal e dá outras providências (Decreto-Lei nº 1.893, de 16 de dezembro de 1981) | 1 | 1982-07-15 to 1982-07-15 |
+| `decreto-lei-1894-de-1981` | Institui incentivos fiscais para empresas exportadoras de produtos manufaturados e dá outras providências (Decreto-Lei nº 1.894, de 16 de dezembro de 1981) | 1 | 1989-03-20 to 1989-03-20 |
+| `decreto-lei-1898-de-1981` | Prorroga o prazo de vigência de incentivos fiscais previstos na legislação do imposto de renda (Decreto-Lei nº 1.898, de 21 de dezembro de 1981) | 1 | 1981-12-22 to 1981-12-22 |
+| `decreto-lei-1904-de-1981` | Altera a redação do artigo 1º do Decreto-lei nº 1.813, de 24 de novembro de 1980 (Decreto-Lei nº 1.904, de 23 de dezembro de 1981) | 1 | 1981-12-24 to 1981-12-24 |
+| `decreto-lei-1909-de-1981` | Estabelece contenção de despesas orçamentárias para o exercício de 1?82 e dá outras providências (Decreto-Lei nº 1.909, de 28 de dezembro de 1981) | 1 | 1981-12-29 to 1981-12-29 |
+| `decreto-lei-1911-de-1981` | Autoriza a emissão de Obrigações Reajustáveis do Tesouro Nacional - ORTN para cobertura do débito da Previdência Oficial junto à rede bancária pública e privada (Decreto-Lei nº 1.911, de 29 de dezembro de 1981) | 1 | 1981-12-30 to 1981-12-30 |
+| `decreto-lei-1915-de-1981` | Prorroga até 31 de dezembro de 1983 o prazo da isenção fiscal concedida às empresas siderúrgicas pelo Decreto-lei 569, de 7 de maio de 1969 (Decreto-Lei nº 1.915, de 29 de dezembro de 1981) | 1 | 1981-12-30 to 1981-12-30 |
+| `decreto-lei-1916-de-1982` | Reajusta os vencimentos, salários e proventos dos servidores da Secretária do Tribunal de Justiça do Distrito Federal e dos Ofícios Judiciais da Justiça do Distrito Federal e dos Territórios (Decreto-Lei nº 1.916, de 8 de janeiro de 1982) | 1 | 1982-01-11 to 1982-01-11 |
+| `decreto-lei-1917-de-1982` | Reajusta os vencimentos, salários e proventos dos servidores dos Tribunais do Trabalho e dá outras providências (Decreto-Lei nº 1.917, de 12 de janeiro de 1982) | 1 | 1982-01-13 to 1982-01-13 |
+| `decreto-lei-1918-de-1982` | Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Tribunal Superior Eleitoral e dá outras providências (Decreto-Lei nº 1.918, de 14 de janeiro de 1982) | 1 | 1982-01-15 to 1982-01-15 |
+| `decreto-lei-1919-de-1982` | Reajusta os vencimentos, salários e proventos dos servidores das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências (Decreto-Lei nº 1.919, de 14 de janeiro de 1982) | 1 | 1982-01-15 to 1982-01-15 |
+| `decreto-lei-1920-de-1982` | Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências (Decreto-Lei nº 1.920, de 14 de janeiro de 1982) | 1 | 1982-01-15 to 1982-01-15 |
+| `decreto-lei-1921-de-1982` | Reajusta os vencimentos e proventos dos funcionários do Quadro das Secretarias da Justiça Federal de Primeira Instância e dá outras providências (Decreto-Lei nº 1.921, de 14 de janeiro de 1982) | 1 | 1982-01-15 to 1982-01-15 |
+| `decreto-lei-1922-de-1982` | Reajusta os vencimentos, salários e proventos dos servidores do Superior Tribunal Militar e das Auditorias da Justiça Militar e dá outras providências (Decreto-Lei nº 1.922, de 18 de janeiro de 1982) | 1 | 1982-01-19 to 1982-01-19 |
+| `decreto-lei-1928-de-1982` | Dispõe sobre o pagamento prioritário de débitos decorrentes de compromissos em moeda estrangeira, assumidos pela Administração Pública, e dá outras providências (Decreto-Lei nº 1.928, de 18 de fevereiro de 1982) | 1 | 1984-10-30 to 1984-10-30 |
+| `decreto-lei-1929-de-1982` | Isenta de imposto de renda os ganhos auferidos em operações a termo em bolsa de mercadorias (Decreto-Lei nº 1.929, de 8 de março de 1982) | 1 | 1982-03-09 to 1982-03-09 |
+| `decreto-lei-1930-de-1982` | Altera os limites do benefício fiscal instituído pelo Decreto-Lei nº 1.358, de 12 de novembro de 1974, e dá outras providências (Decreto-Lei nº 1.930, de 18 de março de 1982) | 1 | 1982-03-19 to 1982-03-19 |
+| `decreto-lei-1931-de-1982` | Modifica o Decreto-lei nº 1.893, de 1981, que dispõe sobre a adoção de medidas de incentivo à arrecadação federal (Decreto-Lei nº 1.931, de 19 de março de 1982) | 1 | 1982-03-22 to 1982-03-22 |
+| `decreto-lei-1932-de-1982` | Institui incentivo fiscal a projetos de interesse para o comércio exterior do País, situados em áreas da Amazônia Oriental (Decreto-Lei nº 1.932, de 30 de março de 1982) | 1 | 1982-03-31 to 1982-03-31 |
+| `decreto-lei-1935-de-1982` | Revigora, até 31 de dezembro de 1982, as disposições do Decreto-lei nº 1.627, de 02 de junho de 1978 (Decreto-Lei nº 1.935, de 20 de abril de 1982) | 1 | 1982-04-22 to 1982-04-22 |
+| `decreto-lei-1936-de-1982` | Dispõe sobre o empréstimo compulsório em favor da Centrais Elétricas Brasileiras S/A - ELETROBRÁS (Decreto-Lei nº 1.936, de 26 de abril de 1982) | 1 | 1982-04-27 to 1982-04-27 |
+| `decreto-lei-1937-de-1982` | Acrescenta parágrafos ao artigo 1º do Decreto-lei nº 1.866, de 09 de março de 1981, que dispõe sobre a nomeação de prefeito em Município declarado de interesse da Segurança Nacional (Decreto-Lei nº 1.937, de 27 de abril de 1982) | 1 | 1982-04-28 to 1982-04-28 |
+| `decreto-lei-1939-de-1982` | Altera a Classificação da Receita e dá outras providências (Decreto-Lei nº 1.939, de 20 de maio de 1982) | 1 | 1982-07-05 to 1982-07-05 |
+| `decreto-lei-1943-de-1982` | Dá nova redação ao artigo 4º do Decreto-lei nº 1.861, de 25 de fevereiro de 1981, alterado pelo artigo 1º do Decreto-lei nº 1.867, de 25 de março de 1981 (Decreto-Lei nº 1.943, de 1º de junho de 1982) | 1 | 1982-06-02 to 1982-06-02 |
+| `decreto-lei-1945-de-1982` | Autoriza a conversão dos créditos que especifica em ações de sociedades de economia mista ou empresas públicas (Decreto-Lei nº 1.945, de 22 de junho de 1982) | 1 | 1982-06-23 to 1982-06-23 |
+| `decreto-lei-1947-de-1982` | Autoriza a elevação do capital do Banco Nacional do Desenvolvimento Econômico e Social - BNDES e dá outras providências (Decreto-Lei nº 1.947, de 29 de junho de 1982) | 1 | 1971-10-11 to 1971-10-11 |
+| `decreto-lei-1948-de-1982` | Autoriza a emissão de Obrigações Reajustáveis do Tesouro Nacional para cobertura de débito do Tesouro Nacional junto ao Banco Nacional do Desenvolvimento Econômico e Social (BNDES) (Decreto-Lei nº 1.948, de 29 de junho de 1982) | 1 | 1982-06-30 to 1982-06-30 |
+| `decreto-lei-1949-de-1982` | Cancela débitos fiscais decorrentes da exportação de suco de laranja, no período que menciona (Decreto-Lei nº 1.949, de 13 de julho de 1982) | 1 | 1982-07-15 to 1982-07-15 |
+| `decreto-lei-1951-de-1982` | Altera o Decreto-lei nº 1.893, de 16 de dezembro de 1981, que dispõe sobre a adoção de medidas de incentivo à arrecadação federal (Decreto-Lei nº 1.951, de 14 de julho de 1982) | 1 | 1982-07-15 to 1982-07-15 |
+| `decreto-lei-1952-de-1982` | Institui adicional às contribuições incidentes sobre açúcar e álcool e dá outras providências (Decreto-Lei nº 1.952, de 15 de julho de 1982) | 1 | 1982-07-16 to 1982-07-16 |
+| `decreto-lei-1954-de-1982` | Altera dispositivos do Decreto-lei nº 1.135, de 3 de dezembro de 1970, que dispõe sobre a organização, a competência e o funcionamento do Conselho de Segurança Nacional (Decreto-Lei nº 1.954, de 16 de agosto de 1982) | 1 | 1982-08-23 to 1982-08-23 |
+| `decreto-lei-1955-de-1982` | Condede à FURNAS e à ELETROSUL isenção de impostos na importação de bens destinados aos Sistemas de Transmissão de Itaipu (Decreto-Lei nº 1.955, de 23 de agosto de 1982) | 1 | 1982-08-25 to 1982-08-25 |
+| `decreto-lei-1956-de-1982` | Autoriza o Conselho Interministerial do Programa Grande Carajás a conceder isenção ou redução do Imposto de Importação e do Imposto sobre Produtos Industrializados (Decreto-Lei nº 1.956, de 30 de agosto de 1982) | 1 | 1982-08-31 to 1982-08-31 |
+| `decreto-lei-1958-de-1982` | Extingue o Certificado de Regularidade de Situação - CRS e o Certificado de Quitação - CQ, reduz os casos de exigência ,de prova de quitação para com a Previdência Social e dá outras providências (Decreto-Lei nº 1.958, de 9 de setembro de 1982) | 1 | 1983-06-30 to 1983-06-30 |
+| `decreto-lei-1959-de-1982` | Altera o inciso XIV do artigo 4º da Lei nº 4.595, de 31 de dezembro de 1964 (Decreto-Lei nº 1.959, de 14 de setembro de 1982) | 1 | 1982-09-15 to 1982-09-15 |
+| `decreto-lei-1960-de-1982` | Autoriza o Poder Executivo a contratar ou garantir, em nome da União, as operações de arrendamento mercantil que menciona e dá outras providências (Decreto-Lei nº 1.960, de 23 de setembro de 1982) | 1 | 1982-09-24 to 1982-09-24 |
+| `decreto-lei-1961-de-1982` | Autoriza a elevação do capital do Banco Nacional de Desenvolvimento Econômico e Social e dá outras providências (Decreto-Lei nº 1.961, de 23 de setembro de 1982) | 1 | 1982-09-24 to 1982-09-24 |
+| `decreto-lei-1962-de-1982` | Dispõe sobre a retribuição dos professores do Magistério da Marinha e dá outras providências (Decreto-Lei nº 1.962, de 1º de outubro de 1982) | 1 | 1982-10-04 to 1982-10-04 |
+| `decreto-lei-1963-de-1982` | Dispõe sobre recursos do Programa Nacional de Política Fundiária, sobre financiamento de projetos de construção de casa para o trabalhador rural e dá outras providências (Decreto-Lei nº 1.963, de 14 de outubro de 1982) | 1 | 1982-10-15 to 1982-10-15 |
+| `decreto-lei-1964-de-1982` | Concede isenção dos impostos de importação e sobre produtos industrializados aos materiais e equipamentos importados para a construção e reparação de embarcações (Decreto-Lei nº 1.964, de 18 de outubro de 1982) | 1 | 1982-10-19 to 1982-10-19 |
+| `decreto-lei-1965-de-1982` | Cria cargo em comissão e função de confiança no Quadro e Tabela Permanentes do Ministério Público Federal, e dá outras providências (Decreto-Lei nº 1.965, de 25 de outubro de 1982) | 1 | 1982-10-26 to 1982-10-26 |
+| `decreto-lei-1967-de-1982` | Altera a legislação do imposto de renda das pessoas jurídicas e dá outras providências (Decreto-Lei nº 1.967, de 23 de novembro de 1982) | 1 | 1983-10-28 to 1983-10-28 |
+| `decreto-lei-1968-de-1982` | Altera a legislação do imposto de renda de pessoa física residente ou domiciliada no Brasil, e dá outras providências (Decreto-Lei nº 1.968, de 23 de novembro de 1982) | 1 | 1984-06-14 to 1984-06-14 |
+| `decreto-lei-1969-de-1982` | Altera a estrutura salarial da classe de Professor Titular da carreira do magistério superior das instituições federais autárquicas, dispõe sobre a incorporação da Gratificação de Dedicação Exclusiva e dá outras... (Decreto-Lei nº 1.969, de 25 de novembro de 1982) | 1 | 1982-11-26 to 1982-11-26 |
+| `decreto-lei-1970-de-1982` | Elimina as frações de Cruzeiro nas operações de natureza orçamentária, financeira e contábil (Decreto-Lei nº 1.970, de 29 de novembro de 1982) | 1 | 1982-11-30 to 1982-11-30 |
+| `decreto-lei-1974-de-1982` | Dispõe sobre a criação de cargos no Grupo-Direção e Assessoramento Superiores, Código TCU-DAS-100, do Quadro Permanente da Secretaria-Geral do Tribunal de Contas da União e dá outras providências (Decreto-Lei nº 1.974, de 9 de dezembro de 1982) | 1 | 1982-12-10 to 1982-12-10 |
+| `decreto-lei-1975-de-1982` | Altera as alíquotas do Imposto sobre a Transmissão de Bens Imóveis(ITBI), nos Territórios Federais (Decreto-Lei nº 1.975, de 20 de dezembro de 1982) | 1 | 1982-12-21 to 1982-12-21 |
+| `decreto-lei-1976-de-1982` | Dispõe sobre a situação, perante a Previdência Social, da construção residencial unifamiliar que indica e dá outras providências (Decreto-Lei nº 1.976, de 20 de dezembro de 1982) | 1 | 1982-12-21 to 1982-12-21 |
+| `decreto-lei-1977-de-1982` | Prorroga prazos de vigência de Decretos-leis que dispõem sobre acréscimos às alíquotas do imposto de importação e dá outras providências (Decreto-Lei nº 1.977, de 20 de dezembro de 1982) | 1 | 1982-12-21 to 1982-12-21 |
+| `decreto-lei-1978-de-1982` | Estimula a capitalização de empresas e dá outras providências (Decreto-Lei nº 1.978, de 21 de dezembro de 1982) | 1 | 1982-12-22 to 1982-12-22 |
+| `decreto-lei-1979-de-1982` | Altera a legislação do imposto de renda na fonte, relativa a domiciliados no país (Decreto-Lei nº 1.979, de 22 de dezembro de 1982) | 2 | 1982-12-23 to 1986-11-24 |
+| `decreto-lei-1981-de-1982` | Estabelece contenção de despesas orçamentárias para o exercício de 1983, e dá outras providências (Decreto-Lei nº 1.981, de 27 de dezembro de 1982) | 1 | 1982-12-28 to 1982-12-28 |
+| `decreto-lei-1982-de-1982` | Dispõe sobre o exercício das atividades nucleares incluídas no monopólio da União, o controle do desenvolvimento de pesquisas no campo da energia nuclear, e dá outras providências (Decreto-Lei nº 1.982, de 28 de dezembro de 1982) | 1 | 1982-12-29 to 1982-12-29 |
+| `decreto-lei-1983-de-1982` | Reajusta o valor do soldo base de cálculo da remuneração dos militares (Decreto-Lei nº 1.983, de 28 de dezembro de 1982) | 1 | 1982-12-29 to 1982-12-29 |
+| `decreto-lei-1988-de-1982` | Altera legislação do Imposto sobre Produtos Industrializados (Decreto-Lei nº 1.988, de 28 de dezembro de 1982) | 1 | 1982-12-29 to 1982-12-29 |
+| `decreto-lei-1989-de-1982` | Dispõe sobre contribuição devida ao Instituto Nacional de Colonização e Reforma Agrária - INCRA e cálculo referente à taxa prevista no Decreto-lei nº 57, de 18 de novembro de 1966 e dá outras providências (Decreto-Lei nº 1.989, de 28 de dezembro de 1982) | 1 | 1980-01-01 to 1980-01-01 |
+| `decreto-lei-1990-de-1982` | Acrescenta parágrafo no artigo 2º do decreto-lei nº 1.400, de 22 de abril de 1975 (Decreto-Lei nº 1.990, de 29 de dezembro de 1982) | 1 | 1982-12-30 to 1982-12-30 |
+| `decreto-lei-1994-de-1982` | Cria incentivos à capitalização das empresas e dá outras providências (Decreto-Lei nº 1.994, de 29 de dezembro de 1982) | 1 | 1982-12-30 to 1982-12-30 |
+| `decreto-lei-1995-de-1982` | Altera valores da taxa de fiscalização da instalação dos serviços de telecomunicações, constantes do Anexo I à Lei nº 5.070, de 7 julho de 1966 (Decreto-Lei nº 1.995, de 29 de dezembro de 1982) | 1 | 1982-12-30 to 1982-12-30 |
+| `decreto-lei-2001-de-1983` | Reajusta os valores de vencimentos e proventos dos servidores da Secretaria - Geral do Tribunal de Contas da União e dá outras providências (Decreto-Lei nº 2.001, de 4 de janeiro de 1983) | 1 | 1983-01-05 to 1983-01-05 |
+| `decreto-lei-2002-de-1983` | Reajusta os vencimentos e proventos dos servidores das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências (Decreto-Lei nº 2.002, de 4 de janeiro de 1983) | 1 | 1983-01-05 to 1983-01-05 |
+| `decreto-lei-2003-de-1983` | Reajusta os vencimentos, salários, gratificações e proventos dos servidores do Superior Tribunal Militar e das Auditorias da Justiça Militar, e dá outras providências (Decreto-Lei nº 2.003, de 6 de janeiro de 1983) | 1 | 1983-01-07 to 1983-01-07 |
+| `decreto-lei-2004-de-1983` | Reajusta os vencimentos, salários e proventos dos servidores dos Tribunais do Trabalho e dá outras providências (Decreto-Lei nº 2.004, de 6 de janeiro de 1983) | 1 | 1983-01-07 to 1983-01-07 |
+| `decreto-lei-2005-de-1983` | Reajusta os valores de vencimentos, salários e proventos dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dos Ofícios Judiciais da Justiça do Distrito Federal e dos Territórios (Decreto-Lei nº 2.005, de 6 de janeiro de 1983) | 1 | 1983-01-07 to 1983-01-07 |
+| `decreto-lei-2006-de-1983` | Revigora, até 31 de dezembro de 1983, as disposições do Decreto-lei nº 1627, de 1978 (Decreto-Lei nº 2.006, de 6 de janeiro de 1983) | 1 | 1983-01-07 to 1983-01-07 |
+| `decreto-lei-2007-de-1983` | Reajusta os vencimentos e proventos dos funcionários do Quadro das Secretarias da Justiça Federal de Primeira Instância e dá outras providências (Decreto-Lei nº 2.007, de 11 de janeiro de 1983) | 1 | 1983-01-12 to 1983-01-12 |
+| `decreto-lei-2009-de-1983` | Autoriza a elevação do capital do Banco Nacional de Desenvolvimento Econômico e Social e dá outras providências (Decreto-Lei nº 2.009, de 11 de janeiro de 1983) | 1 | 1983-01-12 to 1983-01-12 |
+| `decreto-lei-2010-de-1983` | Altera o Decreto-Lei nº 667, de 02 de julho de 1969, que reorganiza as Polícia Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal e dá outras providências (Decreto-Lei nº 2.010, de 12 de janeiro de 1983) | 1 | 1983-01-13 to 1983-01-13 |
+| `decreto-lei-2011-de-1983` | Concede insenção de impostos aos bens destinados à execução do Programa Nacional de Comunicações Domésticas por Satélite (Decreto-Lei nº 2.011, de 18 de janeiro de 1983) | 1 | 1983-01-19 to 1983-01-19 |
+| `decreto-lei-2013-de-1983` | Dispõe sobre o imposto único sobre energia elétrica (Decreto-Lei nº 2.013, de 25 de janeiro de 1983) | 1 | 1983-01-26 to 1983-01-26 |
+| `decreto-lei-2014-de-1983` | Dispõe sobre a tributação das variações das Obrigações Reajustáveis do Tesouro Nacional - ORTN com cláusula de correção cambial (Decreto-Lei nº 2.014, de 21 de fevereiro de 1983) | 1 | 1983-10-28 to 1983-10-28 |
+| `decreto-lei-2015-de-1983` | Dá nova redação ao artigo 1º, do Decreto-lei nº 1.477, de 26 de agosto de 1976 (Decreto-Lei nº 2.015, de 24 de fevereiro de 1983) | 1 | 1983-02-25 to 1983-02-25 |
+| `decreto-lei-2016-de-1983` | Altera a redação dos artigos 20, 21 e 22 do Decreto-lei nº 1.038, de 21 de outubro de 1969, que estabelece normas relativas ao Imposto Único sobre Minerais, e dá outras providências (Decreto-Lei nº 2.016, de 3 de março de 1983) | 1 | 1983-03-04 to 1983-03-04 |
+| `decreto-lei-2017-de-1983` | Dispõe sobre a renúncia, pela União ao domínio direto de áreas situadas no Município de Guarulhos, Estado de São Paulo, necessárias à ampliação da Base Aérea e à implantação do Aeroporto de Guarulhos (Decreto-Lei nº 2.017, de 22 de março de 1983) | 1 | 1983-03-23 to 1983-03-23 |
+| `decreto-lei-2018-de-1983` | Dispõe sobre isenções ou reduções de tributos em relação a bens que forem objeto de arrendamento mercantil, quando destinados a emprego na execução de programas, projetos ou empreendimentos contemplados com... (Decreto-Lei nº 2.018, de 22 de março de 1983) | 1 | 1983-03-23 to 1983-03-23 |
+| `decreto-lei-2020-de-1983` | Acrescenta disposições ao artigo 1º do Decreto-lei nº 1.981, de 27 de dezembro de 1982 (Decreto-Lei nº 2.020, de 13 de abril de 1983) | 1 | 1983-04-14 to 1983-04-14 |
+| `decreto-lei-2021-de-1983` | Altera a legislação do imposto de renda aplicável aos rendimentos de depósitos em cadernetas de poupança do Sistema Financeiro da Habitação, e dá outras providências (Decreto-Lei nº 2.021, de 18 de maio de 1983) | 1 | 1983-05-19 to 1983-05-19 |
+| `decreto-lei-2022-de-1983` | Complementa a redação do Art. 6º do Decreto - Lei nº 185, de 23 de fevereiro de 1967 que estabelece normas para a contratação de obras ou serviços a cargo do Governo Federal (Decreto-Lei nº 2.022, de 18 de maio de 1983) | 1 | 1983-05-19 to 1983-05-19 |
+| `decreto-lei-2023-de-1983` | Autoriza a conversão dos créditos que especifica em ações de sociedades de economia mista ou empresas públicas (Decreto-Lei nº 2.023, de 18 de maio de 1983) | 1 | 1983-05-19 to 1983-05-19 |
+| `decreto-lei-2027-de-1983` | Altera a legislação do imposto de renda sobre rendimentos de aplicações financeiras de curto prazo e dá outras providências (Decreto-Lei nº 2.027, de 9 de junho de 1983) | 1 | 1987-12-22 to 1987-12-22 |
+| `decreto-lei-2028-de-1983` | Altera as tabelas do imposto de renda incidente na fonte sobre rendimentos do trabalho assalariado e não assalariado (Decreto-Lei nº 2.028, de 9 de junho de 1983) | 1 | 1983-06-10 to 1983-06-10 |
+| `decreto-lei-2029-de-1983` | Altera a legislação do imposto de renda das pessoas jurídicas e dá outras providências (Decreto-Lei nº 2.029, de 9 de junho de 1983) | 1 | 1983-06-10 to 1983-06-10 |
+| `decreto-lei-2030-de-1983` | Altera a legislação do imposto de renda (Decreto-Lei nº 2.030, de 9 de junho de 1983) | 1 | 1983-06-10 to 1983-06-10 |
+| `decreto-lei-2031-de-1983` | Altera a legislação do Imposto de Renda relativa a instituições financeiras (Decreto-Lei nº 2.031, de 9 de junho de 1983) | 1 | 1983-06-10 to 1983-06-10 |
+| `decreto-lei-2033-de-1983` | Dispensa do exame de similaridade bens já importados para execução de projetos aprovados pela SUDENE ou pela SUDAM e dá outras providências (Decreto-Lei nº 2.033, de 15 de junho de 1983) | 1 | 1983-06-16 to 1983-06-16 |
+| `decreto-lei-2034-de-1983` | Altera os limites do benefício fiscal instituído pelo Decreto-lei nº 1.358, de 12 de novembro de 1974, e dá outras providências (Decreto-Lei nº 2.034, de 20 de junho de 1983) | 1 | 1983-06-21 to 1983-06-21 |
+| `decreto-lei-2035-de-1983` | Altera o § 2º do art. 3º do Decreto-lei nº 1.801, de 18 de agosto de 1980,e dá outras providências (Decreto-Lei nº 2.035, de 21 de junho de 1983) | 1 | 1984-08-15 to 1984-08-15 |
+| `decreto-lei-2036-de-1983` | Estabelece limite de remuneração mensal para os servidores, empregados e dirigentes da Administração Pública Direta e Autárquica da União e das respectivas entidades estatais, bem como para os do Distrito Federal e... (Decreto-Lei nº 2.036, de 28 de junho de 1983) | 1 | 1983-06-29 to 1983-06-29 |
+| `decreto-lei-2038-de-1983` | Altera dispositivos do Decreto-lei nº 1.958, de 9 de setembro de 1982, que trata da comprovação da inexistência de débito para com a Previdência Social (Decreto-Lei nº 2.038, de 29 de junho de 1983) | 1 | 1983-06-30 to 1983-06-30 |
+| `decreto-lei-2043-de-1983` | Aumenta as representações mensais dos membros do Tribunal de Contas do Distrito Federal (Decreto-Lei nº 2.043, de 7 de julho de 1983) | 1 | 1983-07-08 to 1983-07-08 |
+| `decreto-lei-2044-de-1983` | Concede isenção do Imposto de Importação e do Imposto sobre Produtos Industrializados nos casos que especifica (Decreto-Lei nº 2.044, de 7 de julho de 1983) | 1 | 1983-07-08 to 1983-07-08 |
+| `decreto-lei-2046-de-1983` | Altera o limite estabelecido nos artigos 1º e 2º do Decreto-lei nº 2.021, de 18 de maio de 1983 (Decreto-Lei nº 2.046, de 20 de julho de 1983) | 1 | 1983-07-21 to 1983-07-21 |
+| `decreto-lei-2048-de-1983` | Aumenta os limites do Decreto-lei nº 1.312, de 15 de fevereiro de 1974, alterados pelos Decretos-leis nºs 1.460, de 22 de abril de 1976, 1.562, de 19 de julho de 1977, 1.651, de 21 de dezembro de 1978, e 1.756, de 31... (Decreto-Lei nº 2.048, de 26 de julho de 1983) | 1 | 1983-07-27 to 1983-07-27 |
+| `decreto-lei-2050-de-1983` | Revoga o Decreto-lei nº 865, de 12 de setembro de 1969, que declarou o Município de Santos, no Estado de São Paulo, de interesse da segurança nacional e dá outras providências (Decreto-Lei nº 2.050, de 2 de agosto de 1983) | 1 | 1983-08-03 to 1983-08-03 |
+| `decreto-lei-2051-de-1983` | Concede isenção de impostos a selos e peças filatélicas, e dá outras providências (Decreto-Lei nº 2.051, de 2 de agosto de 1983) | 1 | 1983-08-03 to 1983-08-03 |
+| `decreto-lei-2053-de-1983` | Concede isenção da Taxa de Melhoramento dos Portos nos casos que especifica (Decreto-Lei nº 2.053, de 16 de agosto de 1983) | 1 | 1983-08-17 to 1983-08-17 |
+| `decreto-lei-2054-de-1983` | Restabelece o incentivo fiscal de que trata o Decreto-lei nº 1.932,de 30 de março de 1982 e dá outras providências (Decreto-Lei nº 2.054, de 16 de agosto de 1983) | 1 | 1983-08-17 to 1983-08-17 |
+| `decreto-lei-2055-de-1983` | Altera os Decretos-leis nºs 1.801, de 18 de agosto de 1980, e 2.035, de 21 de junho de 1983, dispõe sobre a sucessão da autarquia federal Superintendência Nacional da Marinha Mercante - SUNAMAM e da outras providências (Decreto-Lei nº 2.055, de 17 de agosto de 1983) | 1 | 1983-08-19 to 1983-08-19 |
+| `decreto-lei-2057-de-1983` | Altera e revoga dispositivos do Decreto-lei nº 221, de 28 de fevereiro de 1967, que dispõe sobre a proteção e estímulos à pesca, alterado pela Lei nº 6.276, de 01 de dezembro de 1975 (Decreto-Lei nº 2.057, de 23 de agosto de 1983) | 1 | 1975-12-03 to 1975-12-03 |
+| `decreto-lei-2058-de-1983` | Altera a Legislação do Imposto de Renda relativa a rendimentos produzidos por caderneta de poupança do Sistema Financeiro da Habitação (Decreto-Lei nº 2.058, de 23 de agosto de 1983) | 1 | 1983-08-24 to 1983-08-24 |
+| `decreto-lei-2059-de-1983` | Altera a redação de dispositivo da Lei nº 5.292, de 8 de junho de 1967, que dispõe sobre a prestação de Serviço Militar pelos Estudantes de Medicina, Farmácia, Odontologia e Veterinária e pelos Médicos,... (Decreto-Lei nº 2.059, de 1º de setembro de 1983) | 1 | 1983-09-02 to 1983-09-02 |
+| `decreto-lei-2060-de-1983` | Altera a Lei nº 6.009, de 26 de dezembro de 1973, que dispõe sobre a utilização e a exploração dos aeroportos, das facilidades à navegação aérea e dá outras providências (Decreto-Lei nº 2.060, de 12 de setembro de 1983) | 1 | 2021-12-30 to 2021-12-30 |
+| `decreto-lei-2061-de-1983` | Dispõe sobre alienação de mercadorias sujeitas à pena de perdimento, em especial nos casos de calamidade pública, e dá outras providências (Decreto-Lei nº 2.061, de 19 de setembro de 1983) | 1 | 1985-02-06 to 1985-02-06 |
+| `decreto-lei-2062-de-1983` | Autoriza a dispensa de obrigações tributárias acessórias, consideradas desnecessárias ao interesse da arrecadação ou fiscalização de tributos federais (Decreto-Lei nº 2.062, de 4 de outubro de 1983) | 1 | 1983-11-19 to 1983-11-19 |
+| `decreto-lei-2063-de-1983` | Dispõe sobre multas a serem aplicadas por infrações à regulamentação para a execução do serviço de transporte rodoviário de cargas ou produtos perigosos e dá outras providências (Decreto-Lei nº 2.063, de 6 de outubro de 1983) | 1 | 1983-10-07 to 1983-10-07 |
+| `decreto-lei-2066-de-1983` | Autoriza remissão de créditos relativos ao imposto sobre a propriedade territorial rural e à contribuição dos que exercem atividades rurais, dispensa da taxa de serviços cadastrais e cancelamento dos débitos de... (Decreto-Lei nº 2.066, de 27 de outubro de 1983) | 1 | 1983-10-27 to 1983-10-27 |
+| `decreto-lei-2067-de-1983` | Altera as tabelas do imposto de renda incidente na fonte sobre rendimentos do trabalho (Decreto-Lei nº 2.067, de 9 de novembro de 1983) | 1 | 1983-11-10 to 1983-11-10 |
+| `decreto-lei-2068-de-1983` | Altera a legislação da taxa rodoviária única e dá outras providências (Decreto-Lei nº 2.068, de 9 de novembro de 1983) | 1 | 1977-11-18 to 1977-11-18 |
+| `decreto-lei-2069-de-1983` | Autoriza a elevação do capital do Banco Nacional de Desenvolvimento Econômico e Social, (BNDES) e dá outras providências (Decreto-Lei nº 2.069, de 10 de novembro de 1983) | 1 | 1983-11-11 to 1983-11-11 |
+| `decreto-lei-2070-de-1983` | Modifica o Decreto-lei nº 1.312, de 15 de fevereiro de 1974 (Decreto-Lei nº 2.070, de 14 de dezembro de 1983) | 1 | 1983-12-15 to 1983-12-15 |
+| `decreto-lei-2071-de-1983` | Prorroga prazos de vigência de Decretos-leis que dispõem sobre acréscimos às alíquotas do imposto de importação e dá outras providências (Decreto-Lei nº 2.071, de 20 de dezembro de 1983) | 1 | 1983-12-21 to 1983-12-21 |
+| `decreto-lei-2073-de-1983` | Altera a legislação do imposto suplementar de renda (Decreto-Lei nº 2.073, de 20 de dezembro de 1983) | 1 | 1983-12-21 to 1983-12-21 |
+| `decreto-lei-2074-de-1983` | Altera o Decreto-lei nº 1.341, de 22 de agosto de 1974, e dá outras providências (Decreto-Lei nº 2.074, de 20 de dezembro de 1983) | 1 | 1983-12-21 to 1983-12-21 |
+| `decreto-lei-2080-de-1983` | Reajusta o valor do soldo base de cálculo da remuneração dos militares (Decreto-Lei nº 2.080, de 20 de dezembro de 1983) | 1 | 1983-12-21 to 1983-12-21 |
+| `decreto-lei-2081-de-1983` | Dispõe sobre a adoção de medidas de incentivo à arrecadação do Instituto do Açúcar e do Álcool, e dá outras providências (Decreto-Lei nº 2.081, de 22 de dezembro de 1983) | 1 | 1983-12-23 to 1983-12-23 |
+| `decreto-lei-2087-de-1983` | Dispõe sobre recolhimento de contribuições previdenciárias e dá outras providências (Decreto-Lei nº 2.087, de 20 de dezembro de 1983) | 2 | 1983-12-21 to 1984-04-19 |
+| `decreto-lei-2088-de-1983` | Dispõe sobre pagamento de débitos de contribuições previdenciárias (Decreto-Lei nº 2.088, de 20 de dezembro de 1983) | 1 | 1983-12-21 to 1983-12-21 |
+| `decreto-lei-2089-de-1983` | Prorroga a vigência de incentivos fiscais (Decreto-Lei nº 2.089, de 27 de dezembro de 1983) | 1 | 2001-08-27 to 2001-08-27 |
+| `decreto-lei-2100-de-1983` | Altera o artigo 9º do Decreto-lei nº 1.971, de 30 de novembro de 1982, e dá outras providências (Decreto-Lei nº 2.100, de 28 de dezembro de 1983) | 1 | 1983-12-29 to 1983-12-29 |
+| `decreto-lei-2102-de-1983` | Altera disposições do Decreto lei nº 651, de 26 de agosto de 1938 (Decreto-Lei nº 2.102, de 28 de dezembro de 1983) | 1 | 1983-12-29 to 1983-12-29 |
+| `decreto-lei-2103-de-1983` | Prorroga prazo previsto no Decreto-lei nº 2.066, de 27 de outubro de 1983, que autori za remissão de créditos relativos ao imposto sobre a propriedade territorial rural e à contribuição dos que exercem atividades... (Decreto-Lei nº 2.103, de 30 de dezembro de 1983) | 1 | 1984-01-02 to 1984-01-02 |
+| `decreto-lei-2104-de-1984` | Reajusta os valores de vencimentos, salários e proventos dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dos Ofícios Judiciais da Justiça do Distrito Federal e dos Territórios (Decreto-Lei nº 2.104, de 4 de janeiro de 1984) | 1 | 1984-01-05 to 1984-01-05 |
+| `decreto-lei-2105-de-1984` | Modifica o Decreto-lei nº 1.312, de 15 de fevereiro de 1974 (Decreto-Lei nº 2.105, de 24 de janeiro de 1984) | 1 | 1984-01-25 to 1984-01-25 |
+| `decreto-lei-2106-de-1984` | Altera o Decreto-lei nº 667, de 02 de julho de 1969, que reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal (Decreto-Lei nº 2.106, de 6 de fevereiro de 1984) | 1 | 1984-02-07 to 1984-02-07 |
+| `decreto-lei-2110-de-1984` | Concede isenção do Imposto de Importação e do Imposto sobre Produtos Industrializados nos casos que especifica (Decreto-Lei nº 2.110, de 4 de abril de 1984) | 1 | 1984-04-05 to 1984-04-05 |
+| `decreto-lei-2111-de-1984` | Altera o Decreto-lei nº 1.341, de 22 de agosto de 1974, e dá outras providências (Decreto-Lei nº 2.111, de 4 de abril de 1984) | 1 | 1984-04-05 to 1984-04-05 |
+| `decreto-lei-2112-de-1984` | Altera o Decreto-lei nº 1.341, de 22 de agosto de 1974, e dá outras providências (Decreto-Lei nº 2.112, de 17 de abril de 1984) | 1 | 1984-04-18 to 1984-04-18 |
+| `decreto-lei-2113-de-1984` | Revoga o art. 2º do Decreto-lei nº 2.087, de 22 de dezembro de 1983 e dá outras providências (Decreto-Lei nº 2.113, de 18 de abril de 1984) | 1 | 1984-04-19 to 1984-04-19 |
+| `decreto-lei-2115-de-1984` | Autoriza o Ministro da Fazenda a designar a empresa pública Financiadora de Estudos e Projetos - FINEP como o agente financeiro nos casos que menciona (Decreto-Lei nº 2.115, de 25 de abril de 1984) | 1 | 1984-04-26 to 1984-04-26 |
+| `decreto-lei-2116-de-1984` | Fixa remuneração de Diplomata servindo em organismo internacional e dá outras providências (Decreto-Lei nº 2.116, de 7 de maio de 1984) | 1 | 1984-05-08 to 1984-05-08 |
+| `decreto-lei-2117-de-1984` | Altera o Decreto-lei nº 1.341, de 22 de agosto de 1974, e dá outras providências (Decreto-Lei nº 2.117, de 7 de maio de 1984) | 1 | 1984-05-08 to 1984-05-08 |
+| `decreto-lei-2118-de-1984` | Autoriza o Banco do Brasil S.A. a contratar operações de crédito externo, na forma e nos limites que especifica (Decreto-Lei nº 2.118, de 14 de maio de 1984) | 1 | 1984-05-15 to 1984-05-15 |
+| `decreto-lei-2119-de-1984` | Dispõe sobre a incorporação da Gratificação que menciona ao provento da aposentadoria e dá outras providências (Decreto-Lei nº 2.119, de 14 de maio de 1984) | 1 | 1984-05-15 to 1984-05-15 |
+| `decreto-lei-2120-de-1984` | Dispõe sobre o tratamento tributário relativo a bagagem (Decreto-Lei nº 2.120, de 14 de maio de 1984) | 1 | 1984-05-15 to 1984-05-15 |
+| `decreto-lei-2121-de-1984` | Aplica, no que couber, o disposto no Decreto-lei nº 2.112, de 17 de abril de 1984, aos funcionários pertencentes à Categoria Funcional privativa do Tribunal de Contas do Distrito Federal, incluída no Grupo-Atividades... (Decreto-Lei nº 2.121, de 4 de junho de 1984) | 1 | 1984-06-06 to 1984-06-06 |
+| `decreto-lei-2122-de-1984` | Aplica, no que couber, o disposto no Decreto-lei nº 2.112, de 17 de abril de 1984, aos funcionários pertencentes à Categoria Funcional privativa do Tribunal de Contas do Distrito Federal, incluída no Grupo-Atividades... (Decreto-Lei nº 2.122, de 4 de junho de 1984) | 1 | 1984-06-05 to 1984-06-05 |
+| `lei-complementar-39-de-1980` | Altera a redação do art. 6º da Lei Complementar nº 28, de 18 de novembro de 1975 e dá outras providências (Lei Complementar nº 39, de 10 de dezembro de 1980) | 1 | 1980-12-11 to 1980-12-11 |
+| `lei-complementar-40-de-1981` | Estabelece normas gerais a serem adotadas na organização do Ministério Público estadual (Lei Complementar nº 40, de 14 de dezembro de 1981) | 1 | 1981-12-15 to 1981-12-15 |
+| `lei-complementar-42-de-1982` | Altera a Lei Complementar nº 5, de 29 de abril de 1970, que estabelece, de acordo com o art. 151 e seu parágrafo único da Emenda Constitucional nº 1, de 17 de outubro de 1969, casos de inelegibilidade, e dá outras... (Lei Complementar nº 42, de 1º de dezembro de 1982) | 1 | 1995-09-20 to 1995-09-20 |
+| `lei-complementar-44-de-1983` | Altera o Decreto-lei nº 406, de 31 de dezembro de 1968, que estabelece normas gerais de Direito tributário, e dá outras providências (Lei Complementar nº 44, de 7 de dezembro de 1983) | 1 | 1983-12-09 to 1983-12-09 |
+| `lei-complementar-45-de-1983` | Estabelece critério para a remuneração de Vereadores (Lei Complementar nº 45, de 14 de dezembro de 1983) | 1 | 1985-12-20 to 1985-12-20 |
+| `lei-6753-de-1979` | Fixa a retribuição do Grupo-Magistério, no Serviço Civil do Distrito Federal e dá outras providências (Lei nº 6.753, de 17 de dezembro de 1979) | 1 | 1979-12-18 to 1979-12-18 |
+| `lei-6754-de-1979` | Altera disposições do Decreto-lei nº 167, de 14 de fevereiro de 1967 (Lei nº 6.754, de 17 de dezembro de 1979) | 1 | 1979-12-18 to 1979-12-18 |
+| `lei-6756-de-1979` | Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS, autarquia vinculada ao Ministério do Interior, a doar o imóvel que menciona, situado no Município de Icó, Estado do Ceará, e dá outras providências (Lei nº 6.756, de 17 de dezembro de 1979) | 1 | 1980-11-19 to 1980-11-19 |
+| `lei-6757-de-1979` | Autoriza o Poder Executivo a instituir a Fundação Nacional Pró-Memória e dá outras providências (Lei nº 6.757, de 17 de dezembro de 1979) | 1 | 1979-12-19 to 1979-12-19 |
+| `lei-6758-de-1979` | Autoriza os Governos dos Territórios Federais do Amapá, de Rondônia e de Roraima a constituir um Fundo de Financiamento para Água e Esgotos de cada Território, a contrair empréstimos com Agente Financeiro do Banco... (Lei nº 6.758, de 17 de dezembro de 1979) | 1 | 1979-12-19 to 1979-12-19 |
+| `lei-6762-de-1979` | Dispõe sobre a implantação do Grupo-Direção e Assistência Intermediárias, do Plano de Classificação de Cargos do Serviço Civil do Distrito Federal, e dá outras providências (Lei nº 6.762, de 18 de dezembro de 1979) | 1 | 1979-12-19 to 1979-12-19 |
+| `lei-6763-de-1979` | Reajusta o valor da pensão especial concedida a Rufina Cardoso Machado (Lei nº 6.763, de 18 de dezembro de 1979) | 1 | 1979-12-19 to 1979-12-19 |
+| `lei-6764-de-1979` | Acrescenta novo item ao parágrafo 3º do art. 10 da Lei nº 5.890, de 8 de junho de 1973, que altera a legislação de previdência social, e dá outras providências (Lei nº 6.764, de 18 de dezembro de 1979) | 1 | 1979-12-19 to 1979-12-19 |
+| `lei-6765-de-1979` | Altera dispositivos da Lei nº 5.107, de 13 de setembro de 1966, permitindo que o empregado optante pelo Fundo de Garantia do Tempo de Serviço - FGTS - Utilize sua conta vinculada para pagamento de prestações da casa... (Lei nº 6.765, de 18 de dezembro de 1979) | 1 | 1979-12-19 to 1979-12-19 |
+| `lei-6768-de-1979` | Dispõe sobre a criação da COALBRA - Coque e Álcool da Madeira S/A., e dá outras providências (Lei nº 6.768, de 20 de dezembro de 1979) | 1 | 1979-12-20 to 1979-12-20 |
+| `lei-6769-de-1980` | Altera a Lei nº 6.516, de 13 de março de 1978, que “dispõe sobre o reajustamento do efetivo de Pessoal Militar da Ativa da Força Aérea Brasileira, em tempo de paz” (Lei nº 6.769, de 19 de março de 1980) | 1 | 1980-03-20 to 1980-03-20 |
+| `lei-6770-de-1980` | Reajusta os vencimentos e salários dos Servidores da Câmara dos Deputados, e dá outras providências (Lei nº 6.770, de 25 de março de 1980) | 1 | 1980-03-26 to 1980-03-26 |
+| `lei-6771-de-1980` | Introduz alterações no art. 17 do Código de Processo Civil (Lei nº 6.771, de 27 de março de 1980) | 1 | 1980-03-28 to 1980-03-28 |
+| `lei-6772-de-1980` | Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS, autarquia vinculada ao Ministério do Interior, a doar o imóvel que menciona, situado no Município de Morada Nova, Estado do Ceará (Lei nº 6.772, de 27 de março de 1980) | 1 | 1980-03-28 to 1980-03-28 |
+| `lei-6773-de-1980` | Inclui o curso superior de Nutricionista entre os enumerados pela Lei nº 6.433, de 15 de julho de 1977, para ingresso na Categoria Funcional de Sanitarista (Lei nº 6.773, de 7 de abril de 1980) | 1 | 1980-04-08 to 1980-04-08 |
+| `lei-6776-de-1980` | Altera a Relação Descritiva das Rodovias do Plano Nacional de Viação, aprovado pela Lei nº 5.917, de 10 de setembro de 1973 (Lei nº 6.776, de 30 de abril de 1980) | 1 | 1980-05-02 to 1980-05-02 |
+| `lei-6778-de-1980` | Estende aos funcionários aposentados da Administração Direta do Distrito Federal as vantagens financeiras decorrentes da aplicação do Plano de Classificação de Cargos, instituído pela Lei nº 5.920, de 19 de setembro... (Lei nº 6.778, de 12 de maio de 1980) | 1 | 1980-05-13 to 1980-05-13 |
+| `lei-6780-de-1980` | Acrescenta dispositivo ao art. 1.218 da Lei nº 5.869, de 11 de janeiro de 1973 (Código de Processo Civil) (Lei nº 6.780, de 12 de maio de 1980) | 1 | 1980-05-13 to 1980-05-13 |
+| `lei-6782-de-1980` | Equipara ao acidente em serviço a doença profissional e as especificadas em lei para efeito de pensão especial e dá outras providências (Lei nº 6.782, de 19 de maio de 1980) | 1 | 1987-07-24 to 1987-07-24 |
+| `lei-6784-de-1980` | Dispõe sobre o Conselho de Justificação das Polícias Militares dos Territórios Federais do Amapá, de Roraima e de Rondônia e dá outras providências (Lei nº 6.784, de 20 de maio de 1980) | 1 | 1980-05-21 to 1980-05-21 |
+| `lei-6785-de-1980` | Fixa os valores de retribuição de empregos que integram as Categorias Funcionais de Assistente Jurídico e Procurador Autárquico, do Grupo - Serviços Jurídicos, do Plano de Classificação de Cargos do Serviços Civil do... (Lei nº 6.785, de 26 de maio de 1980) | 1 | 1980-05-27 to 1980-05-27 |
+| `lei-6786-de-1980` | Altera a redação dos parágrafos 1º e 2º do artigo 34 da Lei nº 4.345, de 26 de junho de 1964, e dá outras providências (Lei nº 6.786, de 26 de maio de 1980) | 1 | 1980-05-27 to 1980-05-27 |
+| `lei-6787-de-1980` | Dá nova redação a dispositivos do Decreto-lei nº 1.252, de 22 de dezembro de 1972, que “altera e consolida a legislação referente ao Fundo Aeronáutico.” (Lei nº 6.787, de 26 de maio de 1980) | 1 | 1980-05-27 to 1980-05-27 |
+| `lei-6788-de-1980` | Dispõe sobre a reestruturação das carreiras do Ministério Público da União junto à Justiça Comum, do Trabalho e Militar, e dá outras providências (Lei nº 6.788, de 28 de maio de 1980) | 1 | 1980-05-29 to 1980-05-29 |
+| `lei-6790-de-1980` | Revoga artigos das Leis nº 6.033, de 30 de abril de 1974, e 6.082, de 10 de julho de 1974, e dá outras providências (Lei nº 6.790, de 29 de maio de 1980) | 1 | 1980-05-30 to 1980-05-30 |
+| `lei-6791-de-1980` | Institui o “Dia Nacional da Mulher” (Lei nº 6.791, de 9 de junho de 1980) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-6793-de-1980` | Altera a redação do inciso III, do art. 8º do Decreto-lei nº 201, de 27 de fevereiro de 1967, que dispõe sobre a responsabilidade dos prefeitos e vereadores (Lei nº 6.793, de 11 de junho de 1980) | 1 | 1980-06-13 to 1980-06-13 |
+| `lei-6795-de-1980` | Autoriza o Instituto Brasileiro do Café, Autarquia Federal vinculada ao Ministério da Indústria e do Comércio, a alienar imóvel de sua propriedade, localizado na Cidade de Santos, Estados de São Paulo (Lei nº 6.795, de 11 de junho de 1980) | 1 | 1980-06-13 to 1980-06-13 |
+| `lei-6796-de-1980` | Autoriza o Instituto Brasileiro de Desenvolvimento Florestal - IBDF a alienar os imóveis que menciona (Lei nº 6.796, de 18 de junho de 1980) | 1 | 1980-06-19 to 1980-06-19 |
+| `lei-6798-de-1980` | Autoriza a permuta de parte do terreno que menciona por lote localizado no bairro de Aoyama-Dori, na cidade de Tóquio, Japão (Lei nº 6.798, de 23 de junho de 1980) | 1 | 1980-06-24 to 1980-06-24 |
+| `lei-6799-de-1980` | Dispõe sobre causa de especial aumento de pena, quanto aos crimes contra a Administração Pública, praticados por ocupantes de cargos em comissão da administração direta e indireta, regula a forma de seu procedimento (Lei nº 6.799, de 23 de junho de 1980) | 1 | 1980-06-24 to 1980-06-24 |
+| `lei-6801-de-1980` | Dispõe sobre a criação do cargo em comissão de Secretário do Conselho Nacional da Magistratura e dá outras providências (Lei nº 6.801, de 25 de junho de 1980) | 1 | 1980-06-26 to 1980-06-26 |
+| `lei-6803-de-1980` | Dispõe sobre as diretrizes básicas para o zoneamento industrial nas áreas críticas de poluição, e dá outras providências (Lei nº 6.803, de 2 de julho de 1980) | 1 | 1980-07-03 to 1980-07-03 |
+| `lei-6804-de-1980` | Dispõe sobre o Conselho de Disciplina das Polícias Militares dos Territórios Federais do Amapá, de Roraima e de Rondônia, e dá outras providências (Lei nº 6.804, de 7 de julho de 1980) | 1 | 1980-07-08 to 1980-07-08 |
+| `lei-6805-de-1980` | Dispõe sobre a constituição, no Território Federal de Rondônia, da Companhia de Desenvolvimento Agrícola de Rondônia - CODARON, e dá outras providências (Lei nº 6.805, de 7 de julho de 1980) | 1 | 1980-07-08 to 1980-07-08 |
+| `lei-6808-de-1980` | Cria cargos no Quadro Permanente do Senado Federal, e dá outras providências (Lei nº 6.808, de 7 de julho de 1980) | 1 | 1980-07-08 to 1980-07-08 |
+| `lei-6809-de-1980` | Cria e transforma cargos do Quadro Permanente do Senado Federal, e dá outras providências (Lei nº 6.809, de 7 de julho de 1980) | 1 | 1980-07-08 to 1980-07-08 |
+| `lei-6810-de-1980` | Inclui entre os beneficiados pela Lei nº 6.554, de 21 de agosto de 1978, nos termos do diploma, os Ministros Togados, os Juízes Auditores e os Auditores Substitutos da Justiça Militar, e dá outras providências (Lei nº 6.810, de 7 de julho de 1980) | 1 | 1980-07-08 to 1980-07-08 |
+| `lei-6811-de-1980` | Dispõe sobre a destinação da taxa judiciária de que trata o artigo 20 do Decreto-lei nº 115, de 25 de janeiro de 1967 (Lei nº 6.811, de 8 de julho de 1980) | 1 | 1980-07-09 to 1980-07-09 |
+| `lei-6812-de-1980` | Autoriza o Governo do Distrito Federal a contrair empréstimos destinados à elaboração e execução de programas de desenvolvimento urbano e dá outras providências (Lei nº 6.812, de 9 de julho de 1980) | 1 | 1980-07-10 to 1980-07-10 |
+| `lei-6814-de-1980` | Altera dispositivos da Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos oficiais da ativa das Forças Armadas, e dá outras providências (Lei nº 6.814, de 5 de agosto de 1980) | 1 | 1980-08-06 to 1980-08-06 |
+| `lei-6816-de-1980` | Dá nova redação ao caput do art. 2º da Lei nº 5.861, de 12 de dezembro de 1972, que autorizou a constituição da Companhia Imobiliária de Brasília - TERRACAP, e acrescenta parágrafo, remunerando os demais (Lei nº 6.816, de 25 de agosto de 1980) | 1 | 1980-08-26 to 1980-08-26 |
+| `lei-6818-de-1980` | Reajusta o valor da pensão especial concedida a Dulce Evers de Abreu (Lei nº 6.818, de 9 de setembro de 1980) | 1 | 1980-09-10 to 1980-09-10 |
+| `lei-6821-de-1980` | Cancela penas impostas ao ex-Presidente Juscelino Kubitschek de Oliveira, determina a devolução das condecorações nacionais que lhe foram retiradas, bem como a sua reínclusão nos quadros das respectivas ordens dos... (Lei nº 6.821, de 17 de setembro de 1980) | 1 | 1980-09-18 to 1980-09-18 |
+| `lei-6822-de-1980` | Dispõe sobre a cobrança executiva dos débitos fixados em acórdãos do Tribunal de Contas da União, e dá outras providências (Lei nº 6.822, de 22 de setembro de 1980) | 1 | 1980-09-23 to 1980-09-23 |
+| `lei-6826-de-1980` | Autoriza a alienação de imóveis da União, situados no Município de Tucuruí, Estado do Pará (Lei nº 6.826, de 22 de setembro de 1980) | 1 | 1980-09-23 to 1980-09-23 |
+| `lei-6827-de-1980` | Autoriza a permuta dos terrenos que menciona, situados nos Municípios do Rio de Janeiro e de Campos, no Estado do Rio de Janeiro (Lei nº 6.827, de 22 de setembro de 1980) | 1 | 1980-09-24 to 1980-09-24 |
+| `lei-6829-de-1980` | Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS, autarquia vinculada ao Ministério do Interior, a doar a área de terreno que menciona, situada no Município de Orós, no Estado do Ceará (Lei nº 6.829, de 22 de setembro de 1980) | 1 | 1980-09-24 to 1980-09-24 |
+| `lei-6831-de-1980` | Dispõe sobre a criação de cargos em órgãos dos Serviços Auxiliares da Justiça do Distrito Federal e dos Territórios, e dá outras providências (Lei nº 6.831, de 23 de setembro de 1980) | 1 | 1980-09-24 to 1980-09-24 |
+| `lei-6835-de-1980` | Dispõe sobre o exercício da profissão de Meteorologista, e dá outras providências (Lei nº 6.835, de 14 de outubro de 1980) | 1 | 1980-10-15 to 1980-10-15 |
+| `lei-6836-de-1980` | Reajusta os efetivos dos Oficiais do Corpo de Fuzileiros Navais e do Corpo de Intendentes da Marinha, fixados pela Lei nº 6.469, de 18 de novembro de 1977, e dá outras providências (Lei nº 6.836, de 27 de outubro de 1980) | 1 | 1980-10-29 to 1980-10-29 |
+| `lei-6840-de-1980` | Dispõe sobre títulos de crédito comercial e dá outras providências (Lei nº 6.840, de 3 de novembro de 1980) | 1 | 1980-11-04 to 1980-11-04 |
+| `lei-6842-de-1980` | Acrescenta dispositivos à Lei nº 6.511, de 19 de dezembro de 1977, que dispõe sobre Prêmios Literários Nacionais (Lei nº 6.842, de 3 de novembro de 1980) | 1 | 1980-11-04 to 1980-11-04 |
+| `lei-6846-de-1980` | Autoriza o Governo do Distrito Federal a abrir créditos suplementares até o limite de Cr$ 4.717.500.000,00 (quatro bilhões, setecentos e dezessete milhões e quinhentos mil cruzeiros), e dá outras providências (Lei nº 6.846, de 12 de novembro de 1980) | 1 | 1980-11-13 to 1980-11-13 |
+| `lei-6847-de-1980` | Fixa os valores de retribuição de empregos da Categoria Funcional de Agente de Trânsito, do Plano de Classificação de Cargos instituído pela Lei nº 5.920, de 19 de setembro de 1973 (Lei nº 6.847, de 12 de novembro de 1980) | 1 | 1980-11-13 to 1980-11-13 |
+| `lei-6848-de-1980` | Dispõe sobre a expedição de documentos pela Fundação Legião Brasileira de Assistência - L.B.A (Lei nº 6.848, de 12 de novembro de 1980) | 1 | 1980-11-13 to 1980-11-13 |
+| `lei-6850-de-1980` | Altera a Lei nº 6.015, de 31 de dezembro de 1973 - Lei dos Registros Públicos, compatibilizando-a com o vigente Código de Processo Civil (Lei nº 6.850, de 12 de novembro de 1980) | 1 | 1980-11-13 to 1980-11-13 |
+| `lei-6851-de-1980` | Altera dispositivos da Lei nº 5.869, de 11 de janeiro de 1973 (Código de Processo Civil) (Lei nº 6.851, de 17 de novembro de 1980) | 1 | 1980-11-18 to 1980-11-18 |
+| `lei-6852-de-1980` | Dá nova redação ao art. 1º da Lei nº 6.756, de 17 de dezembro de 1979, que autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS a doar o imóvel que menciona, situado no Município de Icó, Estado do Ceará (Lei nº 6.852, de 17 de novembro de 1980) | 1 | 1980-11-19 to 1980-11-19 |
+| `lei-6854-de-1980` | Dispõe sobre a consolidação de débitos previdenciários, pagamento parcelado, e dá outras providências (Lei nº 6.854, de 17 de novembro de 1980) | 1 | 1980-11-19 to 1980-11-19 |
+| `lei-6856-de-1980` | Fixa os valores de retribuição do Grupo-Atividades Específicas de Controle Interno, autoriza a estruturação de cargos e funções de órgãos integrantes do sistema de controle interno, e dá outras providências (Lei nº 6.856, de 18 de novembro de 1980) | 1 | 1980-11-19 to 1980-11-19 |
+| `lei-6857-de-1980` | Acrescenta inciso ao artigo 4º e alínea ao parágrafo único do artigo 8º da Lei nº 5.887, de 31 de maio de 1973, que altera disposições referentes ao regime jurídico do Diplomata, e dá outras providências (Lei nº 6.857, de 19 de novembro de 1980) | 1 | 1980-11-20 to 1980-11-20 |
+| `lei-6860-de-1980` | Autoriza o Poder Executivo a instituir a Fundação Petrônio Portella, e dá outras providências (Lei nº 6.860, de 24 de novembro de 1980) | 1 | 1980-11-25 to 1980-11-25 |
+| `lei-6861-de-1980` | Fixa a retribuição de grupos da sistemática de classificação de cargos e empregos do Serviço Civil dos Territórios Federais do Amapá, de Rondônia e de Roraima, e dá outras providências (Lei nº 6.861, de 26 de novembro de 1980) | 1 | 1980-11-27 to 1980-11-27 |
+| `lei-6863-de-1980` | Erige em momento nacional a Cidade de Olinda, no Estado de Pernambuco (Lei nº 6.863, de 26 de novembro de 1980) | 1 | 1980-11-27 to 1980-11-27 |
+| `lei-6865-de-1980` | Retifica, sem ônus, a Lei nº 6.730, de 3 de dezembro de 1979, que estima a Receita e fixa a Despesa da União para o exercício financeiro de 1980 (Lei nº 6.865, de 1º de dezembro de 1980) | 1 | 1980-12-02 to 1980-12-02 |
+| `lei-6868-de-1980` | Dispensa a apresentação dos documentos que especifica, e dá outras providências (Lei nº 6.868, de 3 de dezembro de 1980) | 1 | 1980-12-04 to 1980-12-04 |
+| `lei-6870-de-1980` | Institui, na Fundação Projeto Rondon, a concessão de Bolsas Especiais a estudantes, nas condições que especifica, e dá outras providências (Lei nº 6.870, de 3 de dezembro de 1980) | 1 | 1980-12-04 to 1980-12-04 |
+| `lei-6871-de-1980` | Autoriza o Poder Executivo a instituir a Fundação Centro de Formação do Servidor Público - FUNCEP, e dá outras providências (Lei nº 6.871, de 3 de dezembro de 1980) | 1 | 1990-12-31 to 1990-12-31 |
+| `lei-6877-de-1980` | Restabelece direito de servidores públicos, no caso que específica (Lei nº 6.877, de 9 de dezembro de 1980) | 1 | 1980-12-10 to 1980-12-10 |
+| `lei-6878-de-1980` | Cria na Carreira do Ministério Público do Distrito Federal e na do Ministério Público dos Territórios Federais, os cargos que especifica (Lei nº 6.878, de 9 de dezembro de 1980) | 1 | 1980-12-10 to 1980-12-10 |
+| `lei-6879-de-1980` | Cria na Carreira do Ministério Público do Distrito Federal e na do Ministério Público dos Territórios Federais, os cargos que especifica (Lei nº 6.879, de 9 de dezembro de 1980) | 1 | 1980-12-10 to 1980-12-10 |
+| `lei-6881-de-1980` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona (Lei nº 6.881, de 9 de dezembro de 1980) | 1 | 1980-12-11 to 1980-12-11 |
+| `lei-6882-de-1980` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona (Lei nº 6.882, de 9 de dezembro de 1980) | 1 | 1980-12-11 to 1980-12-11 |
+| `lei-6883-de-1980` | Autoriza a alienação de bens imóveis da União, situados na área urbana de Guajará-Mirim, no Território Federal de Rondônia, e dá outras providências (Lei nº 6.883, de 9 de dezembro de 1980) | 1 | 1980-12-11 to 1980-12-11 |
+| `lei-6885-de-1980` | Dispõe sobre a inscrição de médicos veterinários militares nos Conselhos Regionais de Medicina Veterinária (Lei nº 6.885, de 9 de dezembro de 1980) | 1 | 1980-12-11 to 1980-12-11 |
+| `lei-6886-de-1980` | Altera a Lei nº 6.708, de 30 de outubro de 1979, que dispõe sobre a correção automática dos salários, modifica a política salarial, e dá outras providências (Lei nº 6.886, de 10 de dezembro de 1980) | 1 | 1980-12-11 to 1980-12-11 |
+| `lei-6888-de-1980` | Dispõe sobre o exercício da profissão de Sociólogo e dá outras providências (Lei nº 6.888, de 11 de dezembro de 1980) | 1 | 2019-11-12 to 2019-11-12 |
+| `lei-6889-de-1980` | Dispõe sobre a criação e extinção de cargos dos Quadros Permanentes das Secretarias do Superior Tribunal Militar e das Auditorias da Justiça Militar, e dá outras providências (Lei nº 6.889, de 11 de dezembro de 1980) | 1 | 1980-12-12 to 1980-12-12 |
+| `lei-6890-de-1980` | Dispõe sobre a contagem do tempo de serviço prestado por extranumerário, diarista ou tarefeiro, bem como pelo pessoal retribuído à conta de dotação global na forma que especifica, e dá outras providências (Lei nº 6.890, de 11 de dezembro de 1980) | 1 | 1980-12-12 to 1980-12-12 |
+| `lei-6891-de-1980` | Transforma a Fundação Faculdade Católica de Medicina de Porto Alegre em Fundação Faculdade Federal de Ciências Médicas de Porto Alegre, e dá outras providências (Lei nº 6.891, de 11 de dezembro de 1980) | 1 | 1980-12-15 to 1980-12-15 |
+| `lei-6894-de-1980` | Dispõe sobre a inspeção e a fiscalização da produção e do comércio de fertilizantes, corretivos, inoculantes, estimulantes ou biofertilizantes, remineralizadores e substratos para plantas, destinados à agricultura, e... (Lei nº 6.894, de 16 de dezembro de 1980) | 1 | 2024-12-24 to 2024-12-24 |
+| `lei-6895-de-1980` | Dá nova redação aos arts. 184 e 186 do Código Penal, aprovado pelo Decreto-lei nº 2.848, de 7 de dezembro de 1940 (Lei nº 6.895, de 17 de dezembro de 1980) | 1 | 1980-12-18 to 1980-12-18 |
+| `lei-6896-de-1981` | Dispõe sobre o provimento de cargos de Juiz de Direito dos Territórios, nas condições que menciona, e dá outras providências (Lei nº 6.896, de 30 de março de 1981) | 1 | 1981-03-31 to 1981-03-31 |
+| `lei-6897-de-1981` | Autoriza a alienação de doação modal, ao Estado do Pará, do imóvel que menciona, situado no Município de Marabá, Estado do Pará, e dá outras providências (Lei nº 6.897, de 30 de março de 1981) | 1 | 1981-03-31 to 1981-03-31 |
+| `lei-6899-de-1981` | Determina a aplicação da correção monetária nos débitos oriundos de decisão judicial e dá outras providências (Lei nº 6.899, de 8 de abril de 1981) | 1 | 1980-04-09 to 1980-04-09 |
+| `lei-6900-de-1981` | Acrescenta parágrafo único ao art. 20 do Decreto-lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal (Lei nº 6.900, de 14 de abril de 1981) | 1 | 1981-04-15 to 1981-04-15 |
+| `lei-6901-de-1981` | Torna obrigatório o uso de dístico, recomendando a eliminação das embalagens de comercialização após sua utilização (Lei nº 6.901, de 14 de abril de 1981) | 1 | 1981-04-15 to 1981-04-15 |
+| `lei-6902-de-1981` | Dispõe sobre a criação de Estações Ecológicas, Áreas de Proteção Ambiental e dá outras providências (Lei nº 6.902, de 27 de abril de 1981) | 1 | 1981-04-28 to 1981-04-28 |
+| `lei-6904-de-1981` | Altera a Composição dos Tribunais Regionais do Trabalho que Menciona, Cria Cargos, e dá outras Providências (Lei nº 6.904, de 30 de abril de 1981) | 1 | 1981-04-30 to 1981-04-30 |
+| `lei-6906-de-1981` | Fixa, os valores de vencimento ou salário do Grupo - Atividades Aeroespaciais do Serviço Civil do Poder Executivo, e dá outras providências (Lei nº 6.906, de 21 de maio de 1981) | 1 | 1981-05-22 to 1981-05-22 |
+| `lei-6907-de-1981` | Reajusta os vencimentos, salários e proventos dos servidores da Câmara dos Deputados e dá outras providências (Lei nº 6.907, de 21 de maio de 1981) | 1 | 1982-12-09 to 1982-12-09 |
+| `lei-6908-de-1981` | Reajusta os valores de vencimentos e proventos dos servidores ativos e inativos do Senado Federal e dá outras providências (Lei nº 6.908, de 27 de maio de 1981) | 1 | 1982-11-10 to 1982-11-10 |
+| `lei-6909-de-1981` | Dispõe sobre a constituição, no Território Federal do Amapá, da Companhia de Desenvolvimento do Amapá CODEASA, e dá outras providências (Lei nº 6.909, de 27 de maio de 1981) | 1 | 1981-05-28 to 1981-05-28 |
+| `lei-6910-de-1981` | Restringe a aplicação do disposto no art. 2º da Lei nº4.729, de 14 de julho de 1965, e no art. 18, § 2º, do Decreto-lei nº 157, de 10 de fevereiro de 1967, e revoga o Decreto-lei nº 1.650, de 19 dezembro de 1978 (Lei nº 6.910, de 27 de maio de 1981) | 1 | 1981-05-28 to 1981-05-28 |
+| `lei-6911-de-1981` | Acrescenta parágrafo ao art. 13 da Lei nº 5.107, de 13 de setembro de 1966, que cria o Fundo de Garantia do Tempo de Serviço e dá outras providências (Lei nº 6.911, de 27 de maio de 1981) | 1 | 1981-05-28 to 1981-05-28 |
+| `lei-6912-de-1981` | Cria cargos em comissão e efetivos no Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da 2ª Região, e dá outras providências (Lei nº 6.912, de 27 de maio de 1981) | 1 | 1981-05-28 to 1981-05-28 |
+| `lei-6913-de-1981` | Dá nova redação aos arts. 35 e 36 da Lei nº 5.700, de 1º de setembro de 1971, que dispõe sobre a forma e a apresentação dos símbolos nacionais (Lei nº 6.913, de 27 de maio de 1981) | 1 | 1981-05-28 to 1981-05-28 |
+| `lei-6918-de-1981` | Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS, autarquia vinculada ao Ministério do Interior, a doar o imóvel que menciona, situado no Município de Icó, Estado do Ceará, e dá outras providências (Lei nº 6.918, de 1º de junho de 1981) | 1 | 1981-06-03 to 1981-06-03 |
+| `lei-6919-de-1981` | Faculta a Extensão do Regime do Fundo de Garantia por Tempo de Serviço a Diretores Não-Empregados, e dá outras Providências (Lei nº 6.919, de 2 de junho de 1981) | 1 | 1989-07-11 to 1989-07-11 |
+| `lei-6921-de-1981` | Autoriza a criação de municípios no Território Federal de Rondônia, altera a Lei nº 6.448, de 11 de outubro de 1977, e dá outras providências (Lei nº 6.921, de 16 de junho de 1981) | 1 | 1981-06-17 to 1981-06-17 |
+| `lei-6922-de-1981` | Cria cargos no Grupo-Polícia Federal, no Quadro Permanente do Departamento de Polícia Federal do Ministério da Justiça (Lei nº 6.922, de 17 de junho de 1981) | 1 | 1981-06-19 to 1981-06-19 |
+| `lei-6924-de-1981` | Cria, no Ministério da Aeronáutica, o Corpo Feminino da Reserva da Aeronáutica e dá outras providências (Lei nº 6.924, de 29 de junho de 1981) | 1 | 1981-06-30 to 1981-06-30 |
+| `lei-6925-de-1981` | Altera dispositivos do Decreto-lei nº1.414, de 18 de agosto de 1975, e dá outras providências (Lei nº 6.925, de 29 de junho de 1981) | 1 | 2009-02-11 to 2009-02-11 |
+| `lei-6926-de-1981` | Institui o “Dia Nacional do Aposentado” a ser comemorado anualmente a 24 de janeiro (Lei nº 6.926, de 30 de junho de 1981) | 1 | 1981-07-03 to 1981-07-03 |
+| `lei-6931-de-1981` | Autoriza o Governo do Distrito Federal a contrair empréstimo com a Caixa Econômica Federal e dá outras providências (Lei nº 6.931, de 7 de julho de 1981) | 1 | 1981-07-08 to 1981-07-08 |
+| `lei-6932-de-1981` | Dispõe sobre as atividades do médico residente e dá outras providências (Lei nº 6.932, de 7 de julho de 1981) | 1 | 2026-06-19 to 2026-06-19 |
+| `lei-6933-de-1981` | Inclui ligação rodoviária na Relação Descritiva das Rodovias do Sistema Rodoviário Federal do Plano Nacional de Viação, instituído pela Lei nº 5.917, de 10 de setembro de 1973 (Lei nº 6.933, de 13 de julho de 1981) | 1 | 1981-07-15 to 1981-07-15 |
+| `lei-6934-de-1981` | Altera a Lei nº 6.894, de 16 de dezembro de 1980, que dispõe sobre a inspeção e fiscalização da produção e do comércio de fertilizantes, corretivos, inoculantes, estimulantes, ou biofertilizantes, destinados à... (Lei nº 6.934, de 13 de julho de 1981) | 1 | 1981-07-15 to 1981-07-15 |
+| `lei-6935-de-1981` | Autoriza a Superintendência do Desenvolvimento da Amazônia - SUDAM a renunciar créditos de financiamentos, à conta de recursos do extinto Fundo de Financiamento para Água e Esgotos, concedidos a entidades estaduais... (Lei nº 6.935, de 13 de julho de 1981) | 1 | 1981-07-15 to 1981-07-15 |
+| `lei-6936-de-1981` | Dispõe sobre a averbação na esfera federal, de tempo de serviço público estadual ou municipal (Lei nº 6.936, de 18 de julho de 1981) | 1 | 1981-07-19 to 1981-07-19 |
+| `lei-6941-de-1981` | Altera a Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os Registros Públicos, com a modificação constante da Lei nº 6.850, de 12 de novembro de 1980, e dá outras providências (Lei nº 6.941, de 14 de setembro de 1981) | 1 | 1981-09-16 to 1981-09-16 |
+| `lei-6945-de-1981` | Institui a Taxa de Limpeza, Pública no Distrito Federal dá outras providências (Lei nº 6.945, de 14 de setembro de 1981) | 1 | 1987-12-18 to 1987-12-18 |
+| `lei-6947-de-1981` | Estabelece Normas para Criação e Funcionamento de Juntas de Conciliação e Julgamento, e dá outras Providências (Lei nº 6.947, de 17 de setembro de 1981) | 1 | 1981-09-18 to 1981-09-18 |
+| `lei-6948-de-1981` | Dispõe sobre a realização de convenções para renovação de diretórios a que se refere o art. 6º da Lei nº 6.767, de 20 de dezembro de 1979, e dá outras providências (Lei nº 6.948, de 28 de setembro de 1981) | 1 | 1981-09-29 to 1981-09-29 |
+| `lei-6949-de-1981` | Dispõe sobre doação de lote à Organização Internacional do Trabalho - OIT, pela Companhia Imobiliária de Brasília - TERRACAP (Lei nº 6.949, de 27 de outubro de 1981) | 1 | 1981-10-29 to 1981-10-29 |
+| `lei-6951-de-1981` | Autoriza o Poder Executivo a instituir a Fundação Universidade da Fronteira Oeste do Rio Grande do Sul (Lei nº 6.951, de 6 de novembro de 1981) | 1 | 1981-11-10 to 1981-11-10 |
+| `lei-6952-de-1981` | Acrescenta parágrafos ao art. 134 da Lei nº 3.071, de 1º de janeiro de 1916 - Código Civil (Lei nº 6.952, de 6 de novembro de 1981) | 1 | 1981-11-10 to 1981-11-10 |
+| `lei-6953-de-1981` | Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS, Autarquia vinculada ao Ministério do Interior, a doar o imóvel que menciona, situado no Município de Pentecoste, no Estado do Ceará (Lei nº 6.953, de 18 de novembro de 1981) | 1 | 1981-11-19 to 1981-11-19 |
+| `lei-6954-de-1981` | Dispõe sobre aproveitamento de pessoal na Universidade Federal de Juiz de Fora (Lei nº 6.954, de 18 de novembro de 1981) | 1 | 1981-11-19 to 1981-11-19 |
+| `lei-6955-de-1981` | Acrescenta dispositivos ao art. 13 da Lei nº 4.324, de 14 de abril de 1964, que "institui o Conselho Federal e os Conselhos Regionais de Odontologia e dá outras providências" (Lei nº 6.955, de 18 de novembro de 1981) | 1 | 1981-11-19 to 1981-11-19 |
+| `lei-6959-de-1981` | Cria cargos no Quadro Permanente da Secretaria do Supremo Tribunal Federal, e dá outras providências (Lei nº 6.959, de 25 de novembro de 1981) | 1 | 1981-11-26 to 1981-11-26 |
+| `lei-6960-de-1981` | Dispõe sobre a retribuição dos Grupos-Direção e Assessoramento Superiores e Direção e Assistência Intermediárias dos Territórios Federais do Amapá, de Rondônia e de Roraima, e dá outras providências (Lei nº 6.960, de 25 de novembro de 1981) | 1 | 1981-11-26 to 1981-11-26 |
+| `lei-6965-de-1981` | Dispõe sobre a regulamentação da Profissão de Fonoaudiólogo, e determina outras providências (Lei nº 6.965, de 9 de dezembro de 1981) | 1 | 1995-09-20 to 1995-09-20 |
+| `lei-6967-de-1981` | Autoriza o Governo do Distrito Federal a abrir créditos suplementares até o limite de Cr$ 4.000.000.000,00 (quatro bilhões de cruzeiros), e dá outras providências (Lei nº 6.967, de 9 de dezembro de 1981) | 1 | 1981-12-10 to 1981-12-10 |
+| `lei-6968-de-1981` | Prorroga prazo de vigência da Lei n. 5.755, de 3 de dezembro de 1971, e dá outras providências (Lei nº 6.968, de 9 de dezembro de 1981) | 1 | 1981-12-10 to 1981-12-10 |
+| `lei-6970-de-1981` | Dispõe sobre o pagamento de Gratificação de Produtividade, nos casos que menciona, e dá outras providências (Lei nº 6.970, de 10 de dezembro de 1981) | 1 | 1969-09-30 to 1969-09-30 |
+| `lei-6972-de-1981` | Acrescenta dispositivo à Lei nº 6.849, de 12 de novembro de 1980, que “fixa os valores de retribuição da Categoria Funcional de Agente de Vigilância, e dá outras providências.” (Lei nº 6.972, de 14 de dezembro de 1981) | 1 | 1981-12-15 to 1981-12-15 |
+| `lei-6973-de-1981` | Estende ao pessoal dos Territórios Federais disposições que específica, referentes aos vencimentos e salários dos servidores civis do Poder Executivo (Lei nº 6.973, de 14 de dezembro de 1981) | 1 | 1981-12-15 to 1981-12-15 |
+| `lei-6974-de-1981` | Altera dispositivo da Lei nº 4.878, de 03 de dezembro de 1965, que "dispõe sobre o regime jurídico peculiar aos funcionários policiais civis da União e do Distrito Federal." (Lei nº 6.974, de 14 de dezembro de 1981) | 1 | 1981-12-15 to 1981-12-15 |
+| `lei-6975-de-1981` | Autoriza o Senhor Presidente da República a conceder pensão especial (Lei nº 6.975, de 14 de dezembro de 1981) | 1 | 1981-12-15 to 1981-12-15 |
+| `lei-6976-de-1981` | Altera a diretriz da Rodovia BR-222, integrante ao Plano Nacional de Viação, aprovado pela Lei nº 5.917, de 10 de setembro de 1973 (Lei nº 6.976, de 14 de dezembro de 1981) | 1 | 1981-12-15 to 1981-12-15 |
+| `lei-6979-de-1982` | Autoriza o Instituto Brasileiro do Café - IBC a doar, para o fim que indica, faixa de terreno ao Município de Cornélio Procópio, no Estado do Paraná (Lei nº 6.979, de 16 de março de 1982) | 1 | 1982-03-17 to 1982-03-17 |
+| `lei-6980-de-1982` | Altera disposições da Lei nº 5.887, de 31 de maio de 1973, referentes ao regime jurídico do Diplomata (Lei nº 6.980, de 29 de março de 1982) | 1 | 1982-03-30 to 1982-03-30 |
+| `lei-6981-de-1982` | Altera a redação do art. 42 da Lei nº 5.764, de 16 de dezembro de 1971 (Lei nº 6.981, de 30 de março de 1982) | 1 | 1982-03-31 to 1982-03-31 |
+| `lei-6982-de-1982` | Altera a Lei nº 5.919, de 17 de setembro de 1973, para autorizar o Poder Executivo a transferir o controle acionário de empresas subsidiárias da Siderurgia Brasileira S.A - SIDERBRAS e dá outras providências (Lei nº 6.982, de 13 de abril de 1982) | 1 | 1982-04-14 to 1982-04-14 |
+| `lei-6983-de-1982` | Fixa o efetivo da Polícia Militar do Distrito Federal, altera dispositivo da Lei nº 6.450, de 14 de outubro de 1977, e dá outras providências (Lei nº 6.983, de 13 de abril de 1982) | 1 | 1982-04-14 to 1982-04-14 |
+| `lei-6984-de-1982` | Dispõe sobre a transferência das ações da COALBRA - COQUE E ÁLCOOL DA MADEIRA S/A, de propriedade do IBDF - Instituto Brasileiro de Desenvolvimento Florestal, para a União Federal, e dá outras providências (Lei nº 6.984, de 13 de abril de 1982) | 1 | 1982-04-14 to 1982-04-14 |
+| `lei-6985-de-1982` | Autoriza a alienação de ações e direitos de capital, de propriedade da União, em empresas privadas e dá outras providências (Lei nº 6.985, de 13 de abril de 1982) | 1 | 1971-10-11 to 1971-10-11 |
+| `lei-6986-de-1982` | AItera a denominação da categoria funcional de Inspetor do Trabalho, dispõe sobre o pagamento de Gratificação de Produtividade nos casos que menciona, eleva as multas previstas na Consolidação das Leis do Trabalho e... (Lei nº 6.986, de 13 de abril de 1982) | 1 | 1985-02-22 to 1985-02-22 |
+| `lei-6987-de-1982` | Dispõe sobre a alienação de imóveis de propriedade da União e das entidades da Administração Federal Indireta, e dá outras providências (Lei nº 6.987, de 13 de abril de 1982) | 1 | 1969-09-30 to 1969-09-30 |
+| `lei-6988-de-1982` | Altera a redação do parágrafo único do art. 17 da Lei nº 6.448, de 11 de outubro de 1977, que “dispõe sobre a organização política e administrativa dos Municípios dos Territórios Federais, e dá outras providências.” (Lei nº 6.988, de 13 de abril de 1982) | 1 | 1982-04-14 to 1982-04-14 |
+| `lei-6990-de-1982` | Altera a redação do art. 92 da Lei nº 4.737, de 15 de julho de 1965, que instituiu o Código Eleitoral (Lei nº 6.990, de 18 de maio de 1982) | 1 | 1982-05-20 to 1982-05-20 |
+| `lei-6998-de-1982` | Altera o parágrafo único do art. 3º da Lei nº 6.849, de 12 de novembro de 1980, que fixa os valores de retribuição da Categoria Funcional de Agente de Vigilância e dá outras providências (Lei nº 6.998, de 7 de junho de 1982) | 1 | 1982-06-08 to 1982-06-08 |
+| `lei-6999-de-1982` | Dispõe sobre a requisição de servidores públicos pela Justiça Eleitoral e dá outras providências (Lei nº 6.999, de 7 de junho de 1982) | 1 | 1982-06-08 to 1982-06-08 |
+| `lei-7000-de-1982` | Autoriza o Poder Executivo a constituir a Empresa Gerencial de Projetos Navais - EMGEPRON e dá outras providências (Lei nº 7.000, de 9 de junho de 1982) | 1 | 1982-06-11 to 1982-06-11 |
+| `lei-7001-de-1982` | Autoriza a venda, ao Colégio Pedro II, de imóveis pertencentes ao Banco Central do Brasil (Lei nº 7.001, de 14 de junho de 1982) | 1 | 1982-06-15 to 1982-06-15 |
+| `lei-7002-de-1982` | Autoriza a implantação de jornada noturna especial nos portos organizados, e dá outras providências (Lei nº 7.002, de 14 de junho de 1982) | 1 | 1982-06-15 to 1982-06-15 |
+| `lei-7003-de-1982` | Altera a Relação Descritiva das Rodovias do Plano Nacional de Viação, aprovado pela Lei nº 5.917, de 10 de setembro de 1973, e dá outras providências (Lei nº 7.003, de 24 de junho de 1982) | 1 | 1982-06-25 to 1982-06-25 |
+| `lei-7005-de-1982` | Altera a redação do § 2º do art. 416 do Código de Processo Civil (Lei nº 7.005, de 28 de junho de 1982) | 1 | 1982-06-29 to 1982-06-29 |
+| `lei-7007-de-1982` | Cria cargos de juiz federal no Quadro de Juízes da Justiça Federal de Primeira Instância, para os fins previstos no art. 123, § 2º, da Constituição, e dá outras providências (Lei nº 7.007, de 29 de junho de 1982) | 1 | 1982-06-30 to 1982-06-30 |
+| `lei-7008-de-1982` | Altera a redação do caput do art. 4º da Lei nº 6.978, de 19 de janeiro de 1982, que dispõe sobre as eleições de 1982 (Lei nº 7.008, de 29 de junho de 1982) | 1 | 1982-06-30 to 1982-06-30 |
+| `lei-7009-de-1982` | Autoriza a criação de municípios no Território Federal de Roraºma, e dá outras providências (Lei nº 7.009, de 1º de julho de 1982) | 1 | 1982-07-02 to 1982-07-02 |
+| `lei-7010-de-1982` | Acrescenta parágrafo ao art. 11 da Lei nº 3.807, de 26 de agosto de 1960 (Lei Orgânica da Previdência Social) (Lei nº 7.010, de 1º de julho de 1982) | 1 | 1982-07-02 to 1982-07-02 |
+| `lei-7011-de-1982` | Autoriza o Poder Executivo a instituir a Fundação Universidade Federal de Rondônia (Lei nº 7.011, de 8 de julho de 1982) | 1 | 1982-07-09 to 1982-07-09 |
+| `lei-7012-de-1982` | Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional Eleitoral do Estado do Maranhão e dá outras providências (Lei nº 7.012, de 8 de julho de 1982) | 1 | 1982-07-09 to 1982-07-09 |
+| `lei-7013-de-1982` | Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional Eleitoral do Estado de Pernambuco e dá outras providências (Lei nº 7.013, de 8 de julho de 1982) | 1 | 1982-07-09 to 1982-07-09 |
+| `lei-7014-de-1982` | Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional Eleitoral do Estado de Goiás, e determina outras providências (Lei nº 7.014, de 8 de julho de 1982) | 1 | 1982-07-09 to 1982-07-09 |
+| `lei-7015-de-1982` | Altera as Leis nºs 4.737, de 15 de julho de 1965, e 6.978, de 19 de janeiro de 1982, e dá outras providências (Lei nº 7.015, de 16 de julho de 1982) | 1 | 1982-07-19 to 1982-07-19 |
+| `lei-7016-de-1982` | Dispõe sobre a reversão para cargos integrantes do Plano de Classificação de Cargos instituídos pela Lei nº 5.645, de 10 de dezembro de 1970 (Lei nº 7.016, de 23 de agosto de 1982) | 1 | 1982-08-24 to 1982-08-24 |
+| `lei-7017-de-1982` | Dispõe sobre o desmembramento dos Conselhos Federal e Regionais de Biomedicina e de Biologia (Lei nº 7.017, de 30 de agosto de 1982) | 1 | 1982-08-31 to 1982-08-31 |
+| `lei-7018-de-1982` | Altera o efetivo de Oficiais do Corpo de Fuzileiros Navais, fixado pela lei nº 6.836, de 27 de outubro de 1980 (Lei nº 7.018, de 30 de agosto de 1982) | 1 | 1982-08-31 to 1982-08-31 |
+| `lei-7019-de-1982` | Altera o Código de Processo Civil, para simplificar o processo de homologação judicial da partilha amigável e da partilha de bens de pequeno valor (Lei nº 7.019, de 31 de agosto de 1982) | 1 | 1974-01-01 to 1974-01-01 |
+| `lei-7020-de-1982` | Dispõe sobre do funcionamento de Curso de Formação ou de Adaptação de Oficiais Médicos, Dentistas e Farmacêuticos das Forças Armadas e revoga o Decreto-lei nº 958, de 13 de outubro de 1969 (Lei nº 7.020, de 1º de setembro de 1982) | 1 | 1982-09-02 to 1982-09-02 |
+| `lei-7021-de-1982` | Estabelece o modelo da cédula oficial única a ser usada nas eleições de 15 de novembro de 1982 e dá outras providências (Lei nº 7.021, de 6 de setembro de 1982) | 1 | 1982-09-08 to 1982-09-08 |
+| `lei-7025-de-1982` | Fixa os valores de retribuição da Categoria Funcional de Técnico de Atividades Tributárias, do Grupo-Tributação, Arrecadação e Fiscalização, códigos TAF - 600, e dá outras providências (Lei nº 7.025, de 8 de setembro de 1982) | 1 | 1982-09-10 to 1982-09-10 |
+| `lei-7029-de-1982` | Dispõe sobre o transporte dutoviário de álcool e dá outras providências (Lei nº 7.029, de 13 de setembro de 1982) | 1 | 1982-09-14 to 1982-09-14 |
+| `lei-7033-de-1982` | Revoga o § 3º do artigo 899, o artigo 902 e seus parágrafos, e modifica a redação da alínea "f" do inciso I do artigo 702, da alínea "b" do artigo 894, da alínea "a" do artigo 896, da Consolidação das Leis do... (Lei nº 7.033, de 5 de outubro de 1982) | 1 | 1982-10-06 to 1982-10-06 |
+| `lei-7034-de-1982` | Estende, aos Conselheiros, Auditores e Procurador-Geral do Tribunal de Contas do Distrito Federal, o disposto na Lei nº 6.554, de 21 de agosto de 1978, e dá outras providências (Lei nº 7.034, de 5 de outubro de 1982) | 1 | 1982-10-06 to 1982-10-06 |
+| `lei-7035-de-1982` | Altera o valor da retribuição dos cargos que especifica, constantes do Anexo I do Decreto-lei nº 1.902, de 22 de dezembro de 1981 (Lei nº 7.035, de 5 de outubro de 1982) | 1 | 1982-10-06 to 1982-10-06 |
+| `lei-7036-de-1982` | Autoriza o Governo do Distrito Federal a contrair empréstimo para aparelhamento do Hospital Regional da Asa Norte (Lei nº 7.036, de 5 de outubro de 1982) | 1 | 1982-10-06 to 1982-10-06 |
+| `lei-7039-de-1982` | Autoriza o Governo do Distrito Federal a contrair empréstimo interno destinado ao desenvolvimento do Programa de Aglomerados Urbanos (Lei nº 7.039, de 11 de outubro de 1982) | 1 | 1982-10-14 to 1982-10-14 |
+| `lei-7041-de-1982` | Dispõe sobre a reestruturação do Grupo-Direção e Assessoramento Superiores dos Tribunais Regionais Eleitorais e a fusão dos Quadros Permanentes das Secretarias dos Tribunais Regionais Eleitorais dos Estados da... (Lei nº 7.041, de 18 de outubro de 1982) | 1 | 1982-10-19 to 1982-10-19 |
+| `lei-7042-de-1982` | Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional Eleitoral do Estado da Paraíba e dá outras providências (Lei nº 7.042, de 18 de outubro de 1982) | 1 | 1982-10-19 to 1982-10-19 |
+| `lei-7043-de-1982` | Restabelece a validade de Concurso de Fiscal de Tributos Federais (Lei nº 7.043, de 18 de outubro de 1982) | 1 | 1982-10-19 to 1982-10-19 |
+| `lei-7045-de-1982` | Altera o parágrafo único do art. 5º e o Anexo III da Lei nº 6.908, de 21 de maio de 1981, e dá outras providências (Lei nº 7.045, de 9 de novembro de 1982) | 1 | 1982-11-10 to 1982-11-10 |
+| `lei-7047-de-1982` | Altera os itens II, III e § 3º do artigo 580, da Consolidação das Leis do Trabalho (Lei nº 7.047, de 1º de dezembro de 1982) | 1 | 1982-12-02 to 1982-12-02 |
+| `lei-7049-de-1982` | Reajusta a pensão especial concedida pela Lei nº 3.349, de 18 de dezembro de 1957, a EUNICE MEDEIROS CELA, viúva do pintor Raymundo Brandão Cela (Lei nº 7.049, de 1º de dezembro de 1982) | 1 | 1982-12-02 to 1982-12-02 |
+| `lei-7051-de-1982` | Inclui entre as atribuições do MOBRAL a difusão de rudimentos de educação sanitária (Lei nº 7.051, de 6 de dezembro de 1982) | 1 | 1982-12-07 to 1982-12-07 |
+| `lei-7059-de-1982` | Altera o art. 30 da Lei nº 6.855, de 18 de novembro de 1980, que cria a Fundação Habitacional do Exército e dá outras providências (Lei nº 7.059, de 6 de dezembro de 1982) | 1 | 1982-12-07 to 1982-12-07 |
+| `lei-7060-de-1982` | Dispõe sobre a criação de cargos na Categoria de Técnico de Controle Externo, do Grupo-Atividades de Controle Externo do Quadro de Pessoal dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, e dá... (Lei nº 7.060, de 6 de dezembro de 1982) | 1 | 1982-12-07 to 1982-12-07 |
+| `lei-7061-de-1982` | Dispõe sobre a reestruturação dos Grupos-Direção e Assessoramento Superiores e Atividades de Apoio Judiciário do Tribunal Superior Eleitoral, e dá outras providências (Lei nº 7.061, de 6 de dezembro de 1982) | 1 | 1982-12-07 to 1982-12-07 |
+| `lei-7062-de-1982` | Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS, autarquia vinculada ao Ministério do Interior, a doar os imóveis que menciona, situados no Município de Icó, no Estado do Ceará (Lei nº 7.062, de 6 de dezembro de 1982) | 1 | 1982-12-07 to 1982-12-07 |
+| `lei-7063-de-1982` | Dispõe sobre a delegação de competência na Administração do Distrito Federal (Lei nº 7.063, de 6 de dezembro de 1982) | 1 | 1982-12-07 to 1982-12-07 |
+| `lei-7065-de-1982` | Fixa idade máxima para inscrição em concurso público destinado ao ingresso em cargos e empregos dos Territórios Federais e dá outras providências (Lei nº 7.065, de 6 de dezembro de 1982) | 1 | 1982-12-07 to 1982-12-07 |
+| `lei-7066-de-1982` | Dá nova redação ao § 2º do art. 7º da Lei nº 6.907, de 21 de maio de 1981 (Lei nº 7.066, de 7 de dezembro de 1982) | 1 | 1982-12-09 to 1982-12-09 |
+| `lei-7068-de-1982` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a alienar, à Companhia Agro-lndustrial de Monte Alegre, os lotes 11, 12, 13, 14, 15 e 16 da Gleba 60, localizados no projeto Integrado de... (Lei nº 7.068, de 7 de dezembro de 1982) | 1 | 1982-12-09 to 1982-12-09 |
+| `lei-7069-de-1982` | Dispõe sobre o reajustamento de alugueres em locações residenciais e dá outras providências (Lei nº 7.069, de 20 de dezembro de 1982) | 1 | 1985-07-05 to 1985-07-05 |
+| `lei-7070-de-1982` | Dispõe sobre pensão especial para os deficientes físicos que especifica e dá outras providencias (Lei nº 7.070, de 20 de dezembro de 1982) | 1 | 2010-01-14 to 2010-01-14 |
+| `lei-7072-de-1982` | Autoriza a Companhia de Financiamento da Produção - CFP a alienar os imóveis que menciona (Lei nº 7.072, de 21 de dezembro de 1982) | 1 | 1982-12-22 to 1982-12-22 |
+| `lei-7073-de-1982` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar imóveis que menciona (Lei nº 7.073, de 21 de dezembro de 1982) | 1 | 1982-12-22 to 1982-12-22 |
+| `lei-7074-de-1982` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a vender ou doar bens móveis, nas condições que especifica (Lei nº 7.074, de 21 de dezembro de 1982) | 1 | 1982-12-22 to 1982-12-22 |
+| `lei-7075-de-1982` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona (Lei nº 7.075, de 21 de dezembro de 1982) | 1 | 1982-12-22 to 1982-12-22 |
+| `lei-7076-de-1982` | Autoriza a Universidade Federal do Rio Grande do Sul a transferir, para o patrimônio da Universidade Federal de Santa Maria, bens imóveis localizados em Santa Maria, Estado do Rio Grande do Sul (Lei nº 7.076, de 21 de dezembro de 1982) | 1 | 1982-12-22 to 1982-12-22 |
+| `lei-7077-de-1982` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a vender, em concorrência, os imóveis urbanos que menciona, de sua propriedade (Lei nº 7.077, de 21 de dezembro de 1982) | 1 | 1982-12-22 to 1982-12-22 |
+| `lei-7078-de-1982` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona (Lei nº 7.078, de 21 de dezembro de 1982) | 1 | 1982-12-22 to 1982-12-22 |
+| `lei-7079-de-1982` | Fixa os valores de retribuição da categoria funcional de Agente de Inspeção Sanitária e Industrial de Produtos de Origem Animal, do Grupo-Outras Atividades de Nível Médio, Código NM-1000, e dá outras providências (Lei nº 7.079, de 21 de dezembro de 1982) | 1 | 1983-11-24 to 1983-11-24 |
+| `lei-7081-de-1982` | Cria cargos em comissão e efetivos no Quadro Permanente da Secretaria do Tribunal Regional do Trabalho da 4ª Região e dá outras providências (Lei nº 7.081, de 21 de dezembro de 1982) | 1 | 1982-12-22 to 1982-12-22 |
+| `lei-7082-de-1982` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona (Lei nº 7.082, de 21 de dezembro de 1982) | 1 | 1982-12-22 to 1982-12-22 |
+| `lei-7084-de-1982` | Atribui valor de documento de identidade à carteira de Jornalista Profissional (Lei nº 7.084, de 21 de dezembro de 1982) | 1 | 1982-12-22 to 1982-12-22 |
+| `lei-7085-de-1982` | Modifica dispositivos do Decreto-lei nº 227, de 28 de fevereiro de 1967 - Código de Mineração, com as alterações posteriores (Lei nº 7.085, de 21 de dezembro de 1982) | 1 | 1982-12-22 to 1982-12-22 |
+| `lei-7086-de-1982` | Modifica a Lei nº 6.750, de 10 de dezembro de 1979, e dá outras providências (Lei nº 7.086, de 22 de dezembro de 1982) | 1 | 1982-12-23 to 1982-12-23 |
+| `lei-7087-de-1982` | Dispõe sobre o Instituto de Previdência dos Congressistas - IPC (Lei nº 7.087, de 29 de dezembro de 1982) | 1 | 1987-01-07 to 1987-01-07 |
+| `lei-7088-de-1983` | Estabelece normas para a expedição de documentos escolares (Lei nº 7.088, de 23 de março de 1983) | 1 | 1982-03-24 to 1982-03-24 |
+| `lei-7089-de-1983` | Veda a cobrança de juros de mora sobre título cujo vencimento se dê em feriado, sábado ou domingo (Lei nº 7.089, de 23 de março de 1983) | 1 | 1982-03-24 to 1982-03-24 |
+| `lei-7093-de-1983` | Acrescenta parágrafo único ao art. 488 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943, dispondo sobre o horário no período de aviso prévio, e dá outras previdências (Lei nº 7.093, de 25 de abril de 1983) | 1 | 1983-04-26 to 1983-04-26 |
+| `lei-7094-de-1983` | Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional Eleitoral do Estado do Paraná, e dá outras providências (Lei nº 7.094, de 25 de abril de 1983) | 1 | 1983-04-26 to 1983-04-26 |
+| `lei-7095-de-1983` | Autoriza o Governo do Distrito Federal a contrair empréstimo destinado à melhoria das características técnicas de Estradas Vicinais (Lei nº 7.095, de 2 de maio de 1983) | 1 | 1983-05-03 to 1983-05-03 |
+| `lei-7096-de-1983` | Altera a Lei nº 6.227, de 14 de julho de 1975, que autorizou a constituição da Indústria de Material Bélico do Brasil - IMBEL (Lei nº 7.096, de 10 de maio de 1983) | 1 | 1983-05-11 to 1983-05-11 |
+| `lei-7098-de-1983` | Atualiza o valor da pensão instituída pela Lei nº 3.130, de 3 de maio de 1957 (Lei nº 7.098, de 1º de junho de 1983) | 1 | 1983-06-03 to 1983-06-03 |
+| `lei-7100-de-1983` | Autoriza a incorporação da Faculdade de Serviço Social, da Fundação Vidal Ramos, à Universidade Federal de Santa Catarina (Lei nº 7.100, de 13 de junho de 1983) | 1 | 1983-06-14 to 1983-06-14 |
+| `lei-7103-de-1983` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a vender, em concorrência, o imóvel urbano que menciona, de sua propriedade (Lei nº 7.103, de 20 de junho de 1983) | 1 | 1983-06-21 to 1983-06-21 |
+| `lei-7104-de-1983` | Altera dispositivos do Código Civil Brasileiro (Lei nº 7.104, de 20 de junho de 1983) | 1 | 1983-06-21 to 1983-06-21 |
+| `lei-7106-de-1983` | Define os crimes de responsabilidade do Governador do Distrito Federal, dos Governadores dos Territórios Federais e de seus respectivos Secretários, e dá outras providências (Lei nº 7.106, de 28 de junho de 1983) | 1 | 1983-06-29 to 1983-06-29 |
+| `lei-7107-de-1983` | Dispõe sobre a criação e transformação de cargos e empregos na Secretaria do Tribunal Federal de Recursos, e dá outras providências (Lei nº 7.107, de 29 de junho de 1983) | 1 | 1983-06-30 to 1983-06-30 |
+| `lei-7108-de-1983` | Acrescenta dispositivo ao art. 487 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943, dispondo sobre a concessão de aviso prévio na despedida indireta (Lei nº 7.108, de 20 de julho de 1983) | 1 | 1983-07-21 to 1983-07-21 |
+| `lei-7109-de-1983` | Autoriza o Governo do Distrito Federal a contratar operação de crédito no valor de Cr$ 8.304.089.820,00 (oito bilhões, trezentos e quatro milhões, oitenta e nove mil, oitocentos e vinte cruzeiros) (Lei nº 7.109, de 5 de julho de 1983) | 1 | 1983-07-06 to 1983-07-06 |
+| `lei-7110-de-1983` | Retifica, sem ônus, a Lei nº 7.054, de 6 de dezembro de 1982, que estima a Receita e fixa a Despesa do Distrito Federal para o exercício financeiro de 1983 (Lei nº 7.110, de 5 de julho de 1983) | 1 | 1983-07-06 to 1983-07-06 |
+| `lei-7111-de-1983` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar imóvel que menciona (Lei nº 7.111, de 5 de julho de 1983) | 1 | 1983-07-06 to 1983-07-06 |
+| `lei-7112-de-1983` | Altera a estrutura da categoria funcional de Técnico de Censura do Grupo-Polícia Federal, constante do Anexo IV do Decreto-lei nº 1.820, de 11 de dezembro de 1980 (Lei nº 7.112, de 5 de julho de 1983) | 1 | 1983-07-06 to 1983-07-06 |
+| `lei-7113-de-1983` | Dispõe sobre a atualização e reajustamento contínuo do valor do selo a que se refere a Lei nº 909, de 8 de novembro de 1949, destinado a obter recursos para assistência à prole dos Hansenianos (Lei nº 7.113, de 6 de julho de 1983) | 1 | 1983-07-07 to 1983-07-07 |
+| `lei-7119-de-1983` | Altera a composição e a organização interna dos Tribunais Regionais do Trabalho que menciona, cria cargos, e dá outras providências (Lei nº 7.119, de 30 de agosto de 1983) | 1 | 1987-09-14 to 1987-09-14 |
+| `lei-7120-de-1983` | Dispõe sobre a criação e extinção de cargos na Secretaria do Tribunal Superior do Trabalho, e dá outras providências (Lei nº 7.120, de 30 de agosto de 1983) | 1 | 1983-08-31 to 1983-08-31 |
+| `lei-7121-de-1983` | Altera a redação do § 2º do art. 709 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943 (Lei nº 7.121, de 8 de setembro de 1983) | 1 | 1983-09-09 to 1983-09-09 |
+| `lei-7122-de-1983` | Dispõe sobre a emissão de uma série especial de selos, comemorativa do centenário de Getúlio Vargas (Lei nº 7.122, de 12 de setembro de 1983) | 1 | 1983-09-13 to 1983-09-13 |
+| `lei-7125-de-1983` | Reajusta os atuais valores de vencimentos e proventos dos servidores ativos e inativos do Senado Federal, e dá outras providências (Lei nº 7.125, de 26 de setembro de 1983) | 1 | 1983-09-27 to 1983-09-27 |
+| `lei-7127-de-1983` | Autoriza o Departamento Nacional de Obras Contra as Secas - DNOCS, Autarquia vinculada ao Ministério do Interior, a doar o imóvel que menciona, situado no Município de Cariús, no Estado do Ceará (Lei nº 7.127, de 10 de outubro de 1983) | 1 | 1983-10-11 to 1983-10-11 |
+| `lei-7128-de-1983` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona (Lei nº 7.128, de 10 de outubro de 1983) | 1 | 1983-10-11 to 1983-10-11 |
+| `lei-7130-de-1983` | Fixa os efetivos da Força Aérea Brasileira em tempo de paz e dá outras providências (Lei nº 7.130, de 26 de outubro de 1983) | 1 | 1983-10-27 to 1983-10-27 |
+| `lei-7133-de-1983` | Acrescenta parágrafo ao art. 1º da Lei nº 5.161, de 21 de outubro de 1966, que autorizou a instituição da Fundação Centro Nacional de Segurança, Higiene e Medicina do Trabalho (Lei nº 7.133, de 26 de outubro de 1983) | 1 | 1983-10-27 to 1983-10-27 |
+| `lei-7134-de-1983` | Dispõe sobre a obrigatoriedade de aplicação dos créditos e financiamentos de organismos governamentais e daqueles provenientes de incentivos fiscais, exclusivamente nos projetos para os quais foram concedidos (Lei nº 7.134, de 26 de outubro de 1983) | 1 | 1983-10-27 to 1983-10-27 |
+| `lei-7135-de-1983` | Altera a redação da Lei nº 6.686, de 11 de setembro de 1979, que dispõe sobre o exercício da análise clínico-laboratorial, e determina outras providências (Lei nº 7.135, de 26 de outubro de 1983) | 1 | 1983-10-27 to 1983-10-27 |
+| `lei-7136-de-1983` | Dispõe sobre a eleição para Prefeito e Vice-Prefeito em Municípios que forem descaracterizados como de interesse da segurança nacional (Lei nº 7.136, de 27 de outubro de 1983) | 1 | 1983-10-28 to 1983-10-28 |
+| `lei-7137-de-1983` | Dispõe sobre a reestruturação de cargos e funções de confiança do Grupo-Direção e Assessoramento Superiores e das Categorias Funcionais do Grupo-Atividades de Apoio Judiciário, dos Quadros Permanentes das Secretarias... (Lei nº 7.137, de 7 de novembro de 1983) | 1 | 1983-11-08 to 1983-11-08 |
+| `lei-7140-de-1983` | Altera dispositivo da Lei nº 7.079, de 21 de dezembro de 1982, que “fixa os valores de retribuição da categoria funcional de Agente de Inspeção Sanitária e Industrial de Produtos de Origem Animal, do Grupo-Outras... (Lei nº 7.140, de 23 de novembro de 1983) | 1 | 1983-11-24 to 1983-11-24 |
+| `lei-7141-de-1983` | Dispõe sobre a criação de cargos na Secretaria do Tribunal Regional Eleitoral do Estado de Mato Grosso, e dá outras providências (Lei nº 7.141, de 23 de novembro de 1983) | 1 | 1983-11-24 to 1983-11-24 |
+| `lei-7143-de-1983` | Estende, aos Auditores do Tribunal de Contas da União, o disposto na Lei nº 6.554, de 21 de agosto de 1978, e dá outras providências (Lei nº 7.143, de 23 de novembro de 1983) | 1 | 1983-11-24 to 1983-11-24 |
+| `lei-7144-de-1983` | Estabelece prazo para prescrição do direito de ação contra atos relativos a concursos para provimento de cargos e empregos na Administração Federal Direta e nas Autarquias Federais (Lei nº 7.144, de 23 de novembro de 1983) | 1 | 1983-11-24 to 1983-11-24 |
+| `lei-7145-de-1983` | Reajusta a pensão especial concedida pela Lei nº 2.637, de 9 de novembro de 1955, a ADELINA DE GONÇALVES CAMPOS, viúva do ex-magistrado Francisco Gonçalves Campos (Lei nº 7.145, de 23 de novembro de 1983) | 1 | 1983-11-24 to 1983-11-24 |
+| `lei-7146-de-1983` | Fixa os valores de retribuição do Grupo-Atividades de Comercialização e Classificação de Café, e dá outras providências (Lei nº 7.146, de 23 de novembro de 1983) | 1 | 1983-11-24 to 1983-11-24 |
+| `lei-7148-de-1983` | Altera o Decreto-lei nº 1.537, de 13 de abril de 1977, e dá outras providências (Lei nº 7.148, de 23 de novembro de 1983) | 1 | 1983-11-24 to 1983-11-24 |
+| `lei-7149-de-1983` | Dispõe sobre a emissão de uma série especial de selos, comemorativa do primeiro centenário da abolição da escravatura no Estado do Ceará (Lei nº 7.149, de 28 de novembro de 1983) | 1 | 1983-11-29 to 1983-11-29 |
+| `lei-7150-de-1983` | Fixa os efetivos do Exército em tempo de paz e dá outras providências (Lei nº 7.150, de 1º de dezembro de 1983) | 1 | 2013-12-23 to 2013-12-23 |
+| `lei-7160-de-1983` | Dá nova redação ao inciso I do art. 22 da Lei nº 6.448, de 11 de outubro de 1977, que dispõe sobre a organização política e administrativa dos Municípios dos Territórios Federais e dá outras providências (Lei nº 7.160, de 7 de dezembro de 1983) | 1 | 1983-12-09 to 1983-12-09 |
+| `lei-7162-de-1983` | Altera a estrutura das Categorias Funcionais de Motorista Oficial e de Agente de Portaria, do Grupo-Serviços de Transporte Oficial e Portaria, e dá outras providências (Lei nº 7.162, de 7 de dezembro de 1983) | 1 | 1983-12-09 to 1983-12-09 |
+| `lei-7163-de-1983` | Dispõe sobre a progressão funcional a que se refere a Lei nº 5.645, de 10 de dezembro de 1970 (Lei nº 7.163, de 7 de dezembro de 1983) | 1 | 1983-12-09 to 1983-12-09 |
+| `lei-7164-de-1983` | Altera dispositivo do Decreto-lei nº 1.003, de 21 de outubro de 1969 - Lei da Organização Judiciária Militar, e dá outras providências (Lei nº 7.164, de 14 de dezembro de 1983) | 1 | 1983-12-15 to 1983-12-15 |
+| `lei-7165-de-1983` | Dispõe sobre a fixação e alteração do número de vagas nos cursos superiores de graduação, e dá outras providências (Lei nº 7.165, de 14 de dezembro de 1983) | 1 | 1983-12-15 to 1983-12-15 |
+| `lei-7166-de-1983` | Fixa os valores de retribuição da Categoria Funcional de Artífice de Confecção de Roupas e Uniformes, e dá outras providências (Lei nº 7.166, de 14 de dezembro de 1983) | 1 | 1983-12-15 to 1983-12-15 |
+| `lei-7168-de-1983` | Autoriza o Poder Executivo a celebrar transação com a Fundação Abrigo do Cristo Redentor, para pôr fim ao litígio que especifica, e dá outras providências (Lei nº 7.168, de 14 de dezembro de 1983) | 1 | 1983-12-15 to 1983-12-15 |
+| `lei-7169-de-1983` | Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona (Lei nº 7.169, de 14 de dezembro de 1983) | 1 | 1983-12-15 to 1983-12-15 |
+| `lei-7171-de-1983` | Retifica, sem ônus, a Lei nº 7.053, de 6 de dezembro de 1982, que “estima a Receita e fixa a Despesa da União para o Exercício Financeiro de 1983” (Lei nº 7.171, de 14 de dezembro de 1983) | 1 | 1983-12-15 to 1983-12-15 |
+| `lei-7172-de-1983` | Outorga a regalia da prisão especial aos professores do ensino de 1º e 2º graus (Lei nº 7.172, de 14 de dezembro de 1983) | 1 | 1983-12-15 to 1983-12-15 |
+| `lei-7173-de-1983` | Dispõe sobre o estabelecimento e funcionamento de jardins zoológicos e dá outras providencias (Lei nº 7.173, de 14 de dezembro de 1983) | 1 | 1983-12-15 to 1983-12-15 |
+| `lei-7174-de-1983` | Modifica o art. 5º do Decreto-lei nº 55, de 18 de novembro de 1966, que “define a política nacional de turismo, cria o Conselho Nacional de Turismo e a Empresa Brasileira de Turismo, e dá outras providências” (Lei nº 7.174, de 14 de dezembro de 1983) | 1 | 1983-12-15 to 1983-12-15 |
+| `lei-7175-de-1983` | Acrescenta parágrafo ao art. 10 da Lei nº 5.890, de 8 de junho de 1973, que alterou a legislação de previdência social (Lei nº 7.175, de 14 de dezembro de 1983) | 1 | 1983-12-15 to 1983-12-15 |
+| `lei-7176-de-1983` | Modifica a redação do artigo 2º da Lei nº 6.334, de 31 de maio de 1976, que fixa idade máxima para inscrição em concurso público destinado ao ingresso em empregos e cargos do serviço Público Federal (Lei nº 7.176, de 15 de dezembro de 1983) | 1 | 1983-12-16 to 1983-12-16 |
+| `lei-7178-de-1983` | Dispõe sobre a reorganização da estrutura da Justiça Federal de Primeira Instância, e dá outras providências (Lei nº 7.178, de 19 de dezembro de 1983) | 1 | 1983-12-20 to 1983-12-20 |
+| `lei-7179-de-1983` | Acrescenta parágrafo ao art. 175 da Lei nº 4.737, de 15 de julho de 1965 - Código Eleitoral, alterada pela Lei nº 4.961, de 4 de maio de 1966 (Lei nº 7.179, de 19 de dezembro de 1983) | 1 | 1983-12-20 to 1983-12-20 |
+| `lei-7180-de-1983` | Dispõe sobre a concessão da permanência no Brasil aos estrangeiros registrados provisoriamente (Lei nº 7.180, de 20 de dezembro de 1983) | 1 | 1983-12-21 to 1983-12-21 |
+| `lei-7181-de-1983` | Prorroga a vigência do empréstimo compulsório instituído em favor da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS e dá outras providências (Lei nº 7.181, de 20 de dezembro de 1983) | 1 | 1983-12-21 to 1983-12-21 |
+| `lei-7182-de-1984` | Dá nova redação ao parágrafo único do art. 4º da Lei nº 4.591, de 16 de dezembro de 1964 (Lei nº 7.182, de 27 de março de 1984) | 1 | 1984-04-06 to 1984-04-06 |
+| `lei-7184-de-1984` | Dispõe sobre a incorporação aos proventos de aposentadoria das Gratificações de Produtividade e de Nível Superior (Lei nº 7.184, de 16 de abril de 1984) | 1 | 1984-04-17 to 1984-04-17 |
+| `lei-7186-de-1984` | Dispõe sobre o Pagamento de contribuições Previdenciárias (Lei nº 7.186, de 24 de abril de 1984) | 1 | 1984-06-29 to 1984-06-29 |
+| `lei-7187-de-1984` | Altera o art. 3º da Lei nº 1.508, de 19 de dezembro de 1951, que regula o processo das contravenções definidas nos arts. 58 e 60 do Decreto-lei nº 6.259, de 10 de fevereiro de 1944 (Lei nº 7.187, de 26 de abril de 1984) | 1 | 1984-04-27 to 1984-04-27 |
+| `lei-7189-de-1984` | Altera a redação do art. 379, da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943 (Lei nº 7.189, de 4 de junho de 1984) | 1 | 1984-06-05 to 1984-06-05 |
+| `lei-7190-de-1984` | Reajusta a pensão especial concedida pela Lei nº 3.919, de 19 de julho de 1961, a HAYDÉA LAGO BITTENCOURT, viúva do Senador LÚCIO BITTENCOURT (Lei nº 7.190, de 4 de junho de 1984) | 1 | 1984-06-05 to 1984-06-05 |
+| `lei-7191-de-1984` | Altera os arts. 16 e 25 da Lei nº 4.737, de 15 de julho de 1965 - Código Eleitoral (Lei nº 7.191, de 4 de junho de 1984) | 1 | 1984-06-05 to 1984-06-05 |
+| `lei-7193-de-1984` | Introduz alteração na Lei nº 6.251, de 8 de outubro de 1975, que “institui normas gerais sobre desportos” (Lei nº 7.193, de 7 de junho de 1984) | 1 | 1984-06-08 to 1984-06-08 |
+| `lei-7194-de-1984` | Autoriza a inclusão de recursos nos Orçamentos da União, e dá outras providências (Lei nº 7.194, de 11 de junho de 1984) | 1 | 1987-04-18 to 1987-04-18 |
 | `lei-de-concessoes` | Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995) | 12 | 1995-02-14 to 2021-04-01 |
 | `lei-das-parcerias-publico-privadas` | Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004) | 14 | 2004-12-31 to 2027-01-01 |
 | `lei-do-saneamento-basico` | Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007) | 15 | 2007-02-22 to 2025-03-18 |
@@ -3674,19 +5177,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-de-registros-publicos` | Lei de Registros Públicos (Lei nº 6.015, de 31 de dezembro de 1973) | 73 | 1976-01-01 to 2025-08-24 |
 | `lei-de-licitacoes-de-1993` | Lei de Licitações e Contratos (Lei nº 8.666, de 21 de junho de 1993) | 36 | 1993-06-22 to 2023-12-30 |
 
-The build made 6020 commits:
+The build made 7525 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3323 | first version of an act |
-| 2673 | one law on its in-force day |
+| 4823 | first version of an act |
+| 2678 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 10 commits on the branch `futuro`: laws not yet in force on 2026-11-03.
-- 219 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 2711 laws in the record.
-- 10108 tags.
+- 233 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 2714 laws in the record.
+- 11616 tags.
 
 ## Dates
 
@@ -3698,7 +5201,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `26e74ece89326ba6cdf82377d3bfcd91f3b9d81f113db8f144b2cc57e107c797` (72663282 bytes).
+- Corpus: sha256 `57c074c549972d2fd713b01748bef1b113737c6f1278a47711028678aacf4e09` (79335820 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -7111,6 +8614,1518 @@ No second build of this corpus has been compared yet.
 - lei-9994-de-2000: from 2000-07-25, its own clause: in force on publication
 - lei-9996-de-2000: from 2000-08-15, its own clause: in force on publication
 - lei-9997-de-2000: from 2000-08-18, its own clause: in force on publication
+- Part 98-current-007: 500 acts with their current text only, each one version, credited to Planalto as the oldest version available (first_law null). The text is the page as Planalto prints it now, with struck wordings and the notes beside them left out; headings are kept in the titulos unit as the history parts do.
+- Each version starts on the in-force day of the last change the text itself shows: the latest in-force day among the acts its notes name as changing it (Redação dada, Incluído, Revogado, Acrescido, Renumerado, Suprimido), each by the rule the history parts use: the act's own vigência clause, else LINDB art. 1 (publication + 45 days), and a Medida Provisória from its publication (CF art. 62). Where an act's clause was not read, its DOU day (from Planalto's index pages or the corpus's law records) is used and the act's line below names it. An act with no such note starts on its own in-force day by the same rule. Acts whose notes name decrees, rulings, Emendas, a staged in-force clause or the 2025-2026 tax reform (Leis Complementares 214/2025 and 227/2026) are left for their histories.
+- An act revoked as a whole (the revoking act named at the head of its page) has the text as last in force, then a second version that empties it, credited to the revoking act and dated by that act's in-force day by the same rule; its line below names it.
+- Earlier wordings are not shown here; their histories are built afterwards, appended behind these versions.
+- lei-complementar-60-de-1989: from 1989-10-10, its own clause: in force on publication
+- lei-complementar-62-de-1989: from 2013-07-18, the in-force day of Lei Complementar 143/2013, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2013-07-18)); in-force day not read, so its DOU day is used, for: Lei Complementar 71/1992 (DOU 1992-09-04)
+- lei-complementar-64-de-1990: from 2025-09-30, the in-force day of Lei Complementar 219/2025, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2025-09-30))
+- lei-complementar-78-de-1993: from 1994-01-05, its own clause: in force on publication
+- lei-complementar-81-de-1994: from 1994-04-14, its own clause: in force on publication
+- lei-complementar-83-de-1995: from 1995-09-13, its own clause: in force on publication
+- lei-7722-de-1989: from 1989-01-09, its own clause: in force on publication
+- lei-7723-de-1989: from 1989-01-09, its own clause: in force on publication
+- lei-7724-de-1989: from 1989-01-09, its own clause: in force on publication
+- lei-7725-de-1989: from 1989-01-09, its own clause: in force on publication
+- lei-7726-de-1989: from 1989-01-09, its own clause: in force on publication
+- lei-7727-de-1989: from 1989-01-10, its own clause: in force on publication
+- lei-7728-de-1989: from 1989-01-10, its own clause: in force on publication
+- lei-7731-de-1989: from 1989-02-15, its own clause: in force on publication
+- lei-7734-de-1989: from 1989-02-15, its own clause: in force on publication
+- lei-7736-de-1989: from 1989-02-24, its own clause: in force on publication
+- lei-7737-de-1989: from 1989-03-20, the in-force day of Lei 7.739/1989, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1989-03-20))
+- lei-7739-de-1989: from 1989-03-20, its own clause: in force on publication
+- lei-7741-de-1989: from 1989-03-21, its own clause: in force on publication
+- lei-7743-de-1989: from 1989-03-27, its own clause: in force on publication
+- lei-7744-de-1989: from 1989-03-29, its own clause: in force on publication
+- lei-7745-de-1989: from 1989-05-15, no in-force clause of its own: LINDB art. 1, its DOU day (1989-03-31) + 45 days
+- lei-7746-de-1989: from 1992-10-15, the in-force day of Lei 8.472/1992, the latest among the acts its notes name (its DOU day 1992-10-15: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.472/1992 (DOU 1992-10-15)
+- lei-7747-de-1989: from 1989-07-12, the in-force day of Lei 7.801/1989, the latest among the acts its notes name (its DOU day 1989-07-12: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.764/1989 (DOU 1989-05-10), Lei 7.801/1989 (DOU 1989-07-12)
+- lei-7748-de-1989: from 1989-04-10, its own clause: in force on publication
+- lei-7750-de-1989: from 1989-04-14, its own clause: in force on publication
+- lei-7751-de-1989: from 1989-05-17, the in-force day of Lei 7.768/1989, the latest among the acts its notes name (its DOU day 1989-05-17: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.768/1989 (DOU 1989-05-17)
+- lei-7752-de-1989: from 1989-04-18, its own clause: in force on publication
+- lei-7753-de-1989: from 1989-04-18, its own clause: in force on publication
+- lei-7755-de-1989: from 1989-04-21, its own clause: in force on publication
+- lei-7756-de-1989: from 1989-04-25, its own clause: in force on publication
+- lei-7757-de-1989: from 1989-04-25, its own clause: in force on publication
+- lei-7758-de-1989: from 1989-04-25, its own clause: in force on publication
+- lei-7759-de-1989: from 1989-04-25, its own clause: in force on publication
+- lei-7760-de-1989: from 1989-04-25, its own clause: in force on publication
+- lei-7761-de-1989: from 1989-04-25, its own clause: in force on publication
+- lei-7762-de-1989: from 1989-04-28, its own clause: in force on publication
+- lei-7763-de-1989: from 1989-05-02, its own clause: in force on publication
+- lei-7764-de-1989: from 1989-05-10, its own clause: in force on publication
+- lei-7765-de-1989: from 1989-05-12, its own clause: in force on publication
+- lei-7766-de-1989: from 1989-05-12, its own clause: in force on publication
+- lei-7767-de-1989: from 1989-05-16, its own clause: in force on publication
+- lei-7768-de-1989: from 1989-05-17, its own clause: in force on publication
+- lei-7771-de-1989: from 1989-06-09, its own clause: in force on publication
+- lei-7774-de-1989: from 1989-07-12, the in-force day of Lei 7.801/1989, the latest among the acts its notes name (its DOU day 1989-07-12: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.801/1989 (DOU 1989-07-12)
+- lei-7776-de-1989: from 1989-06-19, its own clause: in force on publication
+- lei-7777-de-1989: from 1989-07-12, the in-force day of Lei 7.801/1989, the latest among the acts its notes name (its DOU day 1989-07-12: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.105/1984 (DOU 1984-01-25), Lei 7.801/1989 (DOU 1989-07-12)
+- lei-7780-de-1989: from 1989-06-23, its own clause: in force on publication
+- lei-7784-de-1989: from 1989-06-29, its own clause: in force on publication
+- lei-7785-de-1989: from 1989-06-29, its own clause: in force on publication
+- lei-7786-de-1989: from 1989-06-30, its own clause: in force on publication
+- lei-7787-de-1989: from 1993-07-07, the in-force day of Lei 8.672/1993, the latest among the acts its notes name (its DOU day 1993-07-07: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.672/1993 (DOU 1993-07-07)
+- lei-7789-de-1989: from 2006-07-10, the in-force day of Lei 11.321/2006, the latest among the acts its notes name (its DOU day 2006-07-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.321/2006 (DOU 2006-07-10), Lei 8.030/1990 (DOU 1990-04-13)
+- lei-7792-de-1989: from 1990-01-08, the in-force day of Lei 7.993/1990, the latest among the acts its notes name (its DOU day 1990-01-08: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.993/1990 (DOU 1990-01-08)
+- lei-7793-de-1989: from 1989-07-05, its own clause: in force on publication
+- lei-7794-de-1989: from 1989-07-11, its own clause: in force on publication
+- lei-7795-de-1989: from 1989-07-11, its own clause: in force on publication
+- lei-7798-de-1989: from 2001-08-27, the in-force day of Medida Provisória 2.158-35/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62)); in-force day not read, so its DOU day is used, for: Lei 8.133/1990 (DOU 1990-12-28), Lei 8.850/1994 (DOU 1994-01-29)
+- lei-7800-de-1989: from 1990-06-21, the in-force day of Lei 8.050/1990, the latest among the acts its notes name (its DOU day 1990-06-21: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.050/1990 (DOU 1990-06-21)
+- lei-7801-de-1989: from 1991-01-04, the in-force day of Lei 8.157/1991, the latest among the acts its notes name (its DOU day 1991-01-04: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.157/1991 (DOU 1991-01-04)
+- lei-7805-de-1989: from 1989-07-20, its own clause: in force on publication
+- lei-7807-de-1989: from 1989-07-21, its own clause: in force on publication
+- lei-7808-de-1989: from 1989-07-21, its own clause: in force on publication
+- lei-7809-de-1989: from 1989-07-21, its own clause: in force on publication
+- lei-7814-de-1989: from 1989-09-11, its own clause: in force on publication
+- lei-7815-de-1989: from 1989-09-13, its own clause: in force on publication
+- lei-7816-de-1989: from 1989-09-13, its own clause: in force on publication
+- lei-7817-de-1989: from 1989-09-16, its own clause: in force on publication
+- lei-7819-de-1989: from 1989-09-18, its own clause: in force on publication
+- lei-7822-de-1989: from 1989-09-21, its own clause: in force on publication
+- lei-7827-de-1989: from 2025-04-30, the in-force day of Lei 15.130/2025, the latest among the acts its notes name (its DOU day 2025-04-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.177/2001 (DOU 2001-01-15), Lei 12.793/2013 (DOU 2013-04-03), Lei 13.682/2018 (DOU 2018-06-20), Lei 14.076/2020 (DOU 2020-10-29), Lei 14.166/2021 (DOU 2021-06-11), Lei 14.995/2024 (DOU 2024-10-10), Lei 15.130/2025 (DOU 2025-04-30), Lei 9.126/1995 (DOU 1995-11-13), Lei 9.808/1999 (DOU 1999-07-21), Lei Complementar 125/2007 (DOU 2007-01-04), Lei Complementar 129/2009 (DOU 2009-01-09)
+- lei-7829-de-1989: from 1989-09-29, its own clause: in force on publication
+- lei-7830-de-1989: from 1989-09-29, its own clause: in force on publication
+- lei-7840-de-1989: from 1989-10-16, its own clause: in force on publication
+- lei-7841-de-1989: from 1989-10-18, its own clause: in force on publication
+- lei-7842-de-1989: from 1989-10-19, its own clause: in force on publication
+- lei-7843-de-1989: from 1989-10-19, its own clause: in force on publication
+- lei-7844-de-1989: from 1989-10-19, its own clause: in force on publication
+- lei-7845-de-1989: from 1989-10-19, its own clause: in force on publication
+- lei-7847-de-1989: from 1989-10-19, its own clause: in force on publication
+- lei-7855-de-1989: from 2020-04-20, the in-force day of Medida Provisória 955/2020, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-7865-de-1989: from 1989-11-01, its own clause: in force on publication
+- lei-7912-de-1989: from 1989-12-11, its own clause: in force on publication
+- lei-7914-de-1989: from 1989-12-11, its own clause: in force on publication
+- lei-7915-de-1989: from 1989-12-11, its own clause: in force on publication
+- lei-7919-de-1989: from 1989-12-12, its own clause: in force on publication
+- lei-7992-de-1990: from 1990-01-04, its own clause: in force on publication
+- lei-7993-de-1990: from 1990-01-08, its own clause: in force on publication
+- lei-7994-de-1990: from 1990-01-08, its own clause: in force on publication
+- lei-7995-de-1990: from 1991-08-15, the in-force day of Lei 8.216/1991, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1991-08-15))
+- lei-7996-de-1990: from 1990-01-10, its own clause: in force on publication
+- lei-7997-de-1990: from 1990-01-12, its own clause: in force on publication
+- lei-8007-de-1990: from 1988-07-30, the in-force day of Decreto-Lei 2.451/1988, the latest among the acts its notes name (its DOU day 1988-07-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.451/1988 (DOU 1988-07-30)
+- lei-8008-de-1990: from 1990-03-23, its own clause: in force on publication
+- lei-8011-de-1990: from 1990-04-06, its own clause: in force on publication
+- lei-8012-de-1990: from 1990-12-28, the in-force day of Lei 8.134/1990, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1990-12-28))
+- lei-8013-de-1990: from 1990-04-09, its own clause: in force on publication
+- lei-8014-de-1990: from 1990-04-07, its own clause: in force on publication
+- lei-8015-de-1990: from 1990-01-08, the in-force day of Lei 7.993/1990, the latest among the acts its notes name (its DOU day 1990-01-08: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.993/1990 (DOU 1990-01-08)
+- lei-8016-de-1990: from 1990-04-10, its own clause: in force on publication
+- lei-8017-de-1990: from 1990-04-10, its own clause: in force on publication
+- lei-8018-de-1990: from 1990-04-10, its own clause: in force on publication
+- lei-8022-de-1990: from 1990-04-13, its own clause: in force on publication
+- lei-8024-de-1990: from 1990-11-01, the in-force day of Lei 8.088/1990, the latest among the acts its notes name (its DOU day 1990-11-01: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.088/1990 (DOU 1990-11-01)
+- lei-8026-de-1990: from 1990-04-13, its own clause: in force on publication
+- lei-8027-de-1990: from 1990-04-13, its own clause: in force on publication
+- lei-8035-de-1990: from 1990-04-30, its own clause: in force on publication
+- lei-8037-de-1990: from 1990-05-28, its own clause: in force on publication
+- lei-8041-de-1990: from 1990-06-06, its own clause: in force on publication
+- lei-8043-de-1990: from 1990-06-16, its own clause: in force on publication
+- lei-8046-de-1990: from 1990-06-16, its own clause: in force on publication
+- lei-8048-de-1990: from 1990-06-16, its own clause: in force on publication
+- lei-8049-de-1990: from 1990-06-21, its own clause: in force on publication
+- lei-8050-de-1990: from 1990-06-21, its own clause: in force on publication
+- lei-8052-de-1990: from 1990-06-21, its own clause: in force on publication
+- lei-8057-de-1990: from 1990-07-02, its own clause: in force on publication
+- lei-8058-de-1990: from 1990-07-03, its own clause: in force on publication
+- lei-8059-de-1990: from 1990-07-05, its own clause: in force on publication
+- lei-8067-de-1990: from 1990-07-13, its own clause: in force on publication
+- lei-8068-de-1990: from 1990-07-16, its own clause: in force on publication
+- lei-8070-de-1990: from 1990-07-17, its own clause: in force on publication
+- lei-8071-de-1990: from 1990-07-18, its own clause: in force on publication
+- lei-8073-de-1990: from 1990-07-31, its own clause: in force on publication
+- lei-8074-de-1990: from 1991-06-19, the in-force day of Lei 8.193/1991, the latest among the acts its notes name (its DOU day 1991-06-19: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.193/1991 (DOU 1991-06-19)
+- lei-8075-de-1990: from 1990-08-17, its own clause: in force on publication
+- lei-8076-de-1990: from 1990-08-24, its own clause: in force on publication
+- lei-8077-de-1990: from 1990-09-05, its own clause: in force on publication
+- lei-8079-de-1990: from 1990-09-14, its own clause: in force on publication
+- lei-8081-de-1990: from 1997-05-14, the in-force day of Lei 9.459/1997, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1997-05-14))
+- lei-8083-de-1990: from 1990-10-22, its own clause: in force on publication
+- lei-8084-de-1990: from 1990-10-24, its own clause: in force on publication
+- lei-8085-de-1990: from 2001-08-27, the in-force day of Medida Provisória 2.158-35/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-8087-de-1990: from 1990-10-30, its own clause: in force on publication
+- lei-8088-de-1990: from 1994-06-22, the in-force day of Lei 8.894/1994, the latest among the acts its notes name (its DOU day 1994-06-22: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.894/1994 (DOU 1994-06-22)
+- lei-8090-de-1990: from 1996-01-10, the in-force day of Lei 9.257/1996, the latest among the acts its notes name (its DOU day 1996-01-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 9.257/1996 (DOU 1996-01-10)
+- lei-8091-de-1990: from 1990-11-16, its own clause: in force on publication
+- lei-8096-de-1990: from 1990-11-22, its own clause: in force on publication
+- lei-8101-de-1990: from 1990-12-10, its own clause: in force on publication
+- lei-8113-de-1990: from 1990-12-13, its own clause: in force on publication
+- lei-8116-de-1990: from 1990-12-14, its own clause: in force on publication
+- lei-8117-de-1990: from 1990-12-14, its own clause: in force on publication
+- lei-8127-de-1990: from 1990-12-21, its own clause: in force on publication
+- lei-8128-de-1990: from 1990-12-21, its own clause: in force on publication
+- lei-8130-de-1990: from 1990-12-24, its own clause: in force on publication
+- lei-8131-de-1990: from 1990-12-26, its own clause: in force on publication
+- lei-8132-de-1990: from 1990-12-27, its own clause: in force on publication
+- lei-8133-de-1990: from 1990-12-28, its own clause: in force on publication
+- lei-8135-de-1990: from 1990-12-28, its own clause: in force on publication
+- lei-8146-de-1990: from 1990-12-31, its own clause: in force on publication
+- lei-8147-de-1990: from 1990-12-31, its own clause: in force on publication
+- lei-8152-de-1990: from 1990-12-31, its own clause: in force on publication
+- lei-8154-de-1990: from 1990-12-31, its own clause: in force on publication
+- lei-8160-de-1991: from 1991-01-09, its own clause: in force on publication
+- lei-8163-de-1991: from 1991-01-10, its own clause: in force on publication
+- lei-8165-de-1991: from 1991-02-28, no in-force clause of its own: LINDB art. 1, its DOU day (1991-01-14) + 45 days
+- lei-8166-de-1991: from 1991-01-14, its own clause: in force on publication
+- lei-8168-de-1991: from 2012-12-31, the in-force day of Lei 12.772/2012, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2012-12-31)); in-force day not read, so its DOU day is used, for: Lei 12.677/2012 (DOU 2012-06-26)
+- lei-8169-de-1991: from 1991-01-18, its own clause: in force on publication
+- lei-8173-de-1991: from 1991-01-31, its own clause: in force on publication
+- lei-8174-de-1991: from 1991-01-31, its own clause: in force on publication
+- lei-8180-de-1991: from 1991-04-19, its own clause: in force on publication
+- lei-8184-de-1991: from 1991-05-13, its own clause: in force on publication
+- lei-8188-de-1991: from 1991-06-03, its own clause: in force on publication
+- lei-8189-de-1991: from 1991-07-20, no in-force clause of its own: LINDB art. 1, its DOU day (1991-06-05) + 45 days
+- lei-8190-de-1991: from 1991-06-10, its own clause: in force on publication
+- lei-8191-de-1991: from 1991-06-12, its own clause: in force on publication
+- lei-8192-de-1991: from 1991-06-13, its own clause: in force on publication
+- lei-8193-de-1991: from 1991-06-19, its own clause: in force on publication
+- lei-8195-de-1991: from 1991-06-27, its own clause: in force on publication
+- lei-8198-de-1991: from 1991-07-01, its own clause: in force on publication
+- lei-8205-de-1991: from 1991-07-09, its own clause: in force on publication
+- lei-8206-de-1991: from 1991-07-12, its own clause: in force on publication
+- lei-8207-de-1991: from 1991-07-12, its own clause: in force on publication
+- lei-8208-de-1991: from 1991-07-17, its own clause: in force on publication
+- lei-8211-de-1991: from 1992-07-24, the in-force day of Lei 8.449/1992, the latest among the acts its notes name (its DOU day 1992-07-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.359/1991 (DOU 1991-12-31), Lei 8.440/1992 (DOU 1992-07-13), Lei 8.449/1992 (DOU 1992-07-24)
+- lei-8216-de-1991: from 2021-09-17, the in-force day of Lei 14.204/2021, the latest among the acts its notes name (its DOU day 2021-09-17: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 14.204/2021 (DOU 2021-09-17), Lei 8.460/1992 (DOU 1992-09-17)
+- lei-8217-de-1991: from 1991-08-28, its own clause: in force on publication
+- lei-8224-de-1991: from 1991-09-10, its own clause: in force on publication
+- lei-8225-de-1991: from 1991-09-10, its own clause: in force on publication
+- lei-8226-de-1991: from 1991-09-10, its own clause: in force on publication
+- lei-8227-de-1991: from 1991-09-10, its own clause: in force on publication
+- lei-8228-de-1991: from 1991-09-10, its own clause: in force on publication
+- lei-8229-de-1991: from 1991-09-10, its own clause: in force on publication
+- lei-8230-de-1991: from 1991-09-10, its own clause: in force on publication
+- lei-8231-de-1991: from 1991-09-10, its own clause: in force on publication
+- lei-8232-de-1991: from 1991-09-10, its own clause: in force on publication
+- lei-8234-de-1991: from 1991-09-18, its own clause: in force on publication
+- lei-8235-de-1991: from 1991-09-20, its own clause: in force on publication
+- lei-8236-de-1991: from 1991-09-23, its own clause: in force on publication
+- lei-8241-de-1991: from 1991-10-08, its own clause: in force on publication
+- lei-8244-de-1991: from 1991-10-17, its own clause: in force on publication
+- lei-8246-de-1991: from 1991-10-23, its own clause: in force on publication
+- lei-8250-de-1991: from 1991-10-25, its own clause: in force on publication
+- lei-8251-de-1991: from 1991-10-25, its own clause: in force on publication
+- lei-8252-de-1991: from 1991-10-28, its own clause: in force on publication
+- lei-8270-de-1991: from 2012-08-08, the in-force day of Lei 12.702/2012, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2012-08-08)); in-force day not read, so its DOU day is used, for: Lei 8.460/1992 (DOU 1992-09-17), Lei 8.691/1993 (DOU 1993-07-29)
+- lei-8286-de-1991: from 1991-12-23, its own clause: in force on publication
+- lei-8344-de-1991: from 1991-12-30, its own clause: in force on publication
+- lei-8351-de-1991: from 1991-12-31, its own clause: in force on publication
+- lei-8352-de-1991: from 1994-07-04, the in-force day of Lei 8.904/1994, the latest among the acts its notes name (its DOU day 1994-07-04: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.458/1992 (DOU 1992-09-14), Lei 8.736/1993 (DOU 1993-11-30), Lei 8.904/1994 (DOU 1994-07-04)
+- lei-8359-de-1991: from 1991-12-31, its own clause: in force on publication
+- lei-8365-de-1991: from 1991-12-31, its own clause: in force on publication
+- lei-8369-de-1991: from 1991-12-31, its own clause: in force on publication
+- lei-8374-de-1991: from 2024-05-17, the in-force day of Lei Complementar 207/2024, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2024-05-17))
+- lei-8388-de-1991: from 1991-12-31, its own clause: in force on publication
+- lei-8389-de-1991: from 1991-12-31, its own clause: in force on publication
+- lei-8390-de-1991: from 1991-12-31, its own clause: in force on publication
+- lei-8391-de-1991: from 1991-12-31, its own clause: in force on publication
+- lei-8394-de-1991: from 1992-01-06, its own clause: in force on publication
+- lei-8395-de-1992: from 1992-01-06, its own clause: in force on publication
+- lei-8400-de-1992: from 1992-01-08, its own clause: in force on publication
+- lei-8403-de-1992: from 1992-01-09, its own clause: in force on publication
+- lei-8404-de-1992: from 1992-01-09, its own clause: in force on publication
+- lei-8405-de-1992: from 2013-04-25, the in-force day of Lei 12.801/2013, the latest among the acts its notes name (its DOU day 2013-04-25: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.502/2007 (DOU 2007-07-12), Lei 12.801/2013 (DOU 2013-04-25)
+- lei-8406-de-1992: from 1992-01-10, its own clause: in force on publication
+- lei-8408-de-1992: from 1992-02-14, its own clause: in force on publication
+- lei-8410-de-1992: from 1992-03-30, its own clause: in force on publication
+- lei-8413-de-1992: from 1992-04-15, its own clause: in force on publication
+- lei-8416-de-1992: from 1992-04-27, its own clause: in force on publication
+- lei-8417-de-1992: from 1992-04-27, its own clause: in force on publication
+- lei-8418-de-1992: from 1992-04-28, its own clause: in force on publication
+- lei-8420-de-1992: from 1992-05-11, its own clause: in force on publication
+- lei-8421-de-1992: from 1992-05-12, its own clause: in force on publication
+- lei-8422-de-1992: from 1992-05-14, its own clause: in force on publication
+- lei-8423-de-1992: from 1992-05-15, its own clause: in force on publication
+- lei-8424-de-1992: from 1992-05-20, its own clause: in force on publication
+- lei-8425-de-1992: from 1992-05-25, its own clause: in force on publication
+- lei-8426-de-1992: from 1992-05-26, its own clause: in force on publication
+- lei-8427-de-1992: from 2024-12-02, the in-force day of Lei 15.038/2024, the latest among the acts its notes name (its DOU day 2024-12-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.648/2003 (DOU 2003-04-04), Lei 11.922/2009 (DOU 2009-04-14), Lei 13.881/2019 (DOU 2019-10-09), Lei 15.038/2024 (DOU 2024-12-02), Lei 9.848/1999 (DOU 1999-10-27)
+- lei-8432-de-1992: from 1999-10-21, the in-force day of Lei 9.845/1999, the latest among the acts its notes name (its DOU day 1999-10-21: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 9.845/1999 (DOU 1999-10-21)
+- lei-8433-de-1992: from 1992-06-17, its own clause: in force on publication
+- lei-8434-de-1992: from 1992-06-17, its own clause: in force on publication
+- lei-8435-de-1992: from 1992-06-23, its own clause: in force on publication
+- lei-8436-de-1992: from 1996-07-02, the in-force day of Lei 9.288/1996, the latest among the acts its notes name (its DOU day 1996-07-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 9.288/1996 (DOU 1996-07-02)
+- lei-8440-de-1992: from 1992-07-13, its own clause: in force on publication
+- lei-8442-de-1992: from 2003-05-29, the in-force day of Lei 10.683/2003, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2003-05-29))
+- lei-8445-de-1992: from 2008-09-23, the in-force day of Lei 11.784/2008, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2008-09-23)); in-force day not read, so its DOU day is used, for: Lei 8.460/1992 (DOU 1992-09-17)
+- lei-8446-de-1992: from 1992-07-22, its own clause: in force on publication
+- lei-8447-de-1992: from 1993-12-22, the in-force day of Lei 8.776/1993, the latest among the acts its notes name (its DOU day 1993-12-22: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.616/1992 (DOU 1992-12-31), Lei 8.712/1993 (DOU 1993-09-29), Lei 8.765/1993 (DOU 1993-12-22), Lei 8.776/1993 (DOU 1993-12-22)
+- lei-8448-de-1992: from 2002-12-09, the in-force day of Lei 10.593/2002, the latest among the acts its notes name (its DOU day 2002-12-09: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.593/2002 (DOU 2002-12-09), Lei 8.460/1992 (DOU 1992-09-17)
+- lei-8449-de-1992: from 1992-07-24, its own clause: in force on publication
+- lei-8455-de-1992: from 1992-08-25, its own clause: in force on publication
+- lei-8457-de-1992: from 2018-12-20, the in-force day of Lei 13.774/2018, the latest among the acts its notes name (its DOU day 2018-12-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.333/2001 (DOU 2001-12-20), Lei 10.445/2002 (DOU 2002-05-08), Lei 13.774/2018 (DOU 2018-12-20), Lei 8.719/1993 (DOU 1993-10-20), Lei 9.283/1996 (DOU 1996-06-14)
+- lei-8458-de-1992: from 1992-09-14, its own clause: in force on publication
+- lei-8465-de-1992: from 1992-09-24, its own clause: in force on publication
+- lei-8468-de-1992: from 1992-10-01, its own clause: in force on publication
+- lei-8471-de-1992: from 1992-10-08, its own clause: in force on publication
+- lei-8473-de-1992: from 1992-10-20, its own clause: in force on publication
+- lei-8474-de-1992: from 1992-10-21, its own clause: in force on publication
+- lei-8475-de-1992: from 1992-10-21, its own clause: in force on publication
+- lei-8478-de-1992: from 1992-11-06, its own clause: in force on publication
+- lei-8480-de-1992: from 1993-03-17, the in-force day of Lei 8.636/1993, the latest among the acts its notes name (its DOU day 1993-03-17: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.636/1993 (DOU 1993-03-17)
+- lei-8482-de-1992: from 1992-11-13, its own clause: in force on publication
+- lei-8491-de-1992: from 1992-11-21, its own clause: in force on publication
+- lei-8492-de-1992: from 1992-11-21, its own clause: in force on publication
+- lei-8493-de-1992: from 1992-11-21, its own clause: in force on publication
+- lei-8494-de-1992: from 1992-11-24, its own clause: in force on publication
+- lei-8495-de-1992: from 1992-11-24, its own clause: in force on publication
+- lei-8497-de-1992: from 1992-11-27, its own clause: in force on publication
+- lei-8502-de-1992: from 1992-12-02, its own clause: in force on publication
+- lei-8511-de-1992: from 1993-01-16, no in-force clause of its own: LINDB art. 1, its DOU day (1992-12-02) + 45 days
+- lei-8522-de-1992: from 1992-12-14, its own clause: in force on publication
+- lei-8523-de-1992: from 1992-12-15, its own clause: in force on publication
+- lei-8529-de-1992: from 1992-12-15, its own clause: in force on publication
+- lei-8531-de-1992: from 1992-12-15, its own clause: in force on publication
+- lei-8535-de-1992: from 1992-12-17, its own clause: in force on publication
+- lei-8538-de-1992: from 2001-09-10, the in-force day of Medida Provisória 2.229-43/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-8539-de-1992: from 1992-12-23, its own clause: in force on publication
+- lei-8543-de-1992: from 1992-12-24, its own clause: in force on publication
+- lei-8559-de-1992: from 1992-12-29, its own clause: in force on publication
+- lei-8616-de-1992: from 1992-12-31, its own clause: in force on publication
+- lei-8618-de-1993: from 1993-01-04, its own clause: in force on publication
+- lei-8619-de-1993: from 1993-01-06, its own clause: in force on publication
+- lei-8621-de-1993: from 1993-01-11, its own clause: in force on publication
+- lei-8622-de-1993: from 2001-09-01, the in-force day of Medida Provisória 2.215-10/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-8623-de-1993: from 1993-01-29, its own clause: in force on publication
+- lei-8624-de-1993: from 1993-02-05, its own clause: in force on publication
+- lei-8626-de-1993: from 1993-02-18, its own clause: in force on publication
+- lei-8627-de-1993: from 2001-09-01, the in-force day of Medida Provisória 2.215-10/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-8628-de-1993: from 1993-02-20, its own clause: in force on publication
+- lei-8632-de-1993: from 1993-03-05, its own clause: in force on publication
+- lei-8633-de-1993: from 1993-03-15, its own clause: in force on publication
+- lei-8634-de-1993: from 1993-02-15, its own clause: in force on publication
+- lei-8635-de-1993: from 1993-03-17, its own clause: in force on publication
+- lei-8636-de-1993: from 1993-03-17, its own clause: in force on publication
+- lei-8637-de-1993: from 1993-04-01, its own clause: in force on publication
+- lei-8638-de-1993: from 1993-04-01, its own clause: in force on publication
+- lei-8639-de-1993: from 1993-04-01, its own clause: in force on publication
+- lei-8640-de-1993: from 1993-04-01, its own clause: in force on publication
+- lei-8642-de-1993: from 1993-04-01, its own clause: in force on publication
+- lei-8645-de-1993: from 1993-04-05, its own clause: in force on publication
+- lei-8648-de-1993: from 1993-04-22, its own clause: in force on publication
+- lei-8649-de-1993: from 1993-04-22, its own clause: in force on publication
+- lei-8651-de-1993: from 1993-04-29, its own clause: in force on publication
+- lei-8653-de-1993: from 1993-05-11, its own clause: in force on publication
+- lei-8654-de-1993: from 1993-05-11, its own clause: in force on publication
+- lei-8655-de-1993: from 1993-05-22, its own clause: in force on publication
+- lei-8656-de-1993: from 1993-09-08, the in-force day of Lei 8.703/1993, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1993-09-08))
+- lei-8658-de-1993: from 1993-05-27, its own clause: in force on publication
+- lei-8659-de-1993: from 1993-05-28, its own clause: in force on publication
+- lei-8660-de-1993: from 1993-05-31, its own clause: in force on publication
+- lei-8662-de-1993: from 2010-08-27, the in-force day of Lei 12.317/2010, the latest among the acts its notes name (its DOU day 2010-08-27: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.317/2010 (DOU 2010-08-27)
+- lei-8663-de-1993: from 1993-06-15, its own clause: in force on publication
+- lei-8664-de-1993: from 1993-06-15, its own clause: in force on publication
+- lei-8665-de-1993: from 1993-06-15, its own clause: in force on publication
+- lei-8671-de-1993: from 1993-07-07, its own clause: in force on publication
+- lei-8673-de-1993: from 1993-07-07, its own clause: in force on publication
+- lei-8674-de-1993: from 2013-04-25, the in-force day of Lei 12.803/2013, the latest among the acts its notes name (its DOU day 2013-04-25: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.803/2013 (DOU 2013-04-25)
+- lei-8675-de-1993: from 1993-07-08, its own clause: in force on publication
+- lei-8676-de-1993: from 1994-05-28, the in-force day of Lei 8.880/1994, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1994-05-28))
+- lei-8678-de-1993: from 1993-07-14, its own clause: in force on publication
+- lei-8680-de-1993: from 1993-07-14, its own clause: in force on publication
+- lei-8682-de-1993: from 1993-07-15, its own clause: in force on publication
+- lei-8683-de-1993: from 1993-07-16, its own clause: in force on publication
+- lei-8686-de-1993: from 2018-03-23, the in-force day of Lei 13.638/2018, the latest among the acts its notes name (its DOU day 2018-03-23: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.638/2018 (DOU 2018-03-23)
+- lei-8687-de-1993: from 1993-07-21, its own clause: in force on publication
+- lei-8692-de-1993: from 2001-09-05, the in-force day of Medida Provisória 2.223/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-8697-de-1993: from 1993-08-28, its own clause: in force on publication
+- lei-8698-de-1993: from 1993-08-30, its own clause: in force on publication
+- lei-8699-de-1993: from 1993-08-30, its own clause: in force on publication
+- lei-8701-de-1993: from 1993-09-02, its own clause: in force on publication
+- lei-8702-de-1993: from 1993-09-02, its own clause: in force on publication
+- lei-8704-de-1993: from 1993-09-10, its own clause: in force on publication
+- lei-8706-de-1993: from 2019-06-06, the in-force day of Lei 13.840/2019, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2019-06-06))
+- lei-8709-de-1993: from 1993-09-24, its own clause: in force on publication
+- lei-8711-de-1993: from 1993-09-29, its own clause: in force on publication
+- lei-8712-de-1993: from 1993-09-29, its own clause: in force on publication
+- lei-8715-de-1993: from 1993-10-07, its own clause: in force on publication
+- lei-8716-de-1993: from 1993-10-13, its own clause: in force on publication
+- lei-8718-de-1993: from 1993-10-15, its own clause: in force on publication
+- lei-8719-de-1993: from 1993-10-20, its own clause: in force on publication
+- lei-8720-de-1993: from 1993-10-20, its own clause: in force on publication
+- lei-8721-de-1993: from 1993-10-28, its own clause: in force on publication
+- lei-8722-de-1993: from 1993-10-28, its own clause: in force on publication
+- lei-8723-de-1993: from 2024-10-09, the in-force day of Lei 14.993/2024, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2024-10-09)); in-force day not read, so its DOU day is used, for: Lei 10.203/2001 (DOU 2001-02-23), Lei 10.464/2002 (DOU 2002-05-27), Lei 10.696/2003 (DOU 2003-07-03)
+- lei-8726-de-1993: from 1993-11-08, its own clause: in force on publication
+- lei-8728-de-1993: from 1993-11-11, its own clause: in force on publication
+- lei-8729-de-1993: from 1993-11-23, its own clause: in force on publication
+- lei-8731-de-1993: from 1993-11-17, its own clause: in force on publication
+- lei-8734-de-1993: from 1993-11-26, its own clause: in force on publication
+- lei-8735-de-1993: from 1993-11-26, its own clause: in force on publication
+- lei-8736-de-1993: from 1994-07-04, the in-force day of Lei 8.904/1994, the latest among the acts its notes name (its DOU day 1994-07-04: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.904/1994 (DOU 1994-07-04)
+- lei-8741-de-1993: from 1993-12-06, its own clause: in force on publication
+- lei-8743-de-1993: from 1993-12-10, its own clause: in force on publication
+- lei-8744-de-1993: from 1993-12-10, its own clause: in force on publication
+- lei-8746-de-1993: from 1993-12-10, its own clause: in force on publication
+- lei-8749-de-1993: from 1993-12-13, its own clause: in force on publication
+- lei-8762-de-1993: from 1993-12-15, its own clause: in force on publication
+- lei-8765-de-1993: from 1993-12-22, its own clause: in force on publication
+- lei-8776-de-1993: from 1993-12-22, its own clause: in force on publication
+- lei-8848-de-1994: from 1994-01-29, its own clause: in force on publication
+- lei-8849-de-1994: from 1995-06-21, the in-force day of Lei 9.064/1995, the latest among the acts its notes name (its DOU day 1995-06-21: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 9.064/1995 (DOU 1995-06-21)
+- lei-8851-de-1994: from 1994-02-01, its own clause: in force on publication
+- lei-8852-de-1994: from 2001-09-01, the in-force day of Medida Provisória 2.215-10/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-8853-de-1994: from 1994-02-07, its own clause: in force on publication
+- lei-8854-de-1994: from 2001-09-01, the in-force day of Medida Provisória 2.216-37/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-8855-de-1994: from 1994-02-24, its own clause: in force on publication
+- lei-8856-de-1994: from 1994-03-02, its own clause: in force on publication
+- lei-8860-de-1994: from 1994-03-25, its own clause: in force on publication
+- lei-8862-de-1994: from 1994-03-29, its own clause: in force on publication
+- lei-8865-de-1994: from 1994-03-30, its own clause: in force on publication
+- lei-8866-de-1994: from 1994-04-13, its own clause: in force on publication
+- lei-8867-de-1994: from 1994-04-15, its own clause: in force on publication
+- lei-8869-de-1994: from 1994-04-16, its own clause: in force on publication
+- lei-8873-de-1994: from 1994-04-27, its own clause: in force on publication
+- lei-8874-de-1994: from 1994-04-30, its own clause: in force on publication
+- lei-8875-de-1994: from 1994-05-02, its own clause: in force on publication
+- lei-8877-de-1994: from 1994-05-12, its own clause: in force on publication
+- lei-8879-de-1994: from 1994-05-21, its own clause: in force on publication
+- lei-8881-de-1994: from 1994-06-06, its own clause: in force on publication
+- lei-8883-de-1994: from 1994-06-09, its own clause: in force on publication
+- lei-8888-de-1994: from 1994-06-22, its own clause: in force on publication
+- lei-8889-de-1994: from 2002-12-23, the in-force day of Lei 10.609/2002, the latest among the acts its notes name (its DOU day 2002-12-23: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.609/2002 (DOU 2002-12-23)
+- lei-8890-de-1994: from 1994-06-22, its own clause: in force on publication
+- lei-8891-de-1994: from 1994-06-22, its own clause: in force on publication
+- lei-8892-de-1994: from 1994-06-22, its own clause: in force on publication
+- lei-8896-de-1994: from 1994-06-22, its own clause: in force on publication
+- lei-8897-de-1994: from 1994-06-28, its own clause: in force on publication
+- lei-8899-de-1994: from 1994-06-30, its own clause: in force on publication
+- lei-8904-de-1994: from 1993-11-30, the in-force day of Lei 8.736/1993, the latest among the acts its notes name (its DOU day 1993-11-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.736/1993 (DOU 1993-11-30)
+- lei-8907-de-1994: from 1994-07-07, its own clause: in force on publication
+- lei-8908-de-1994: from 1994-07-07, its own clause: in force on publication
+- lei-8912-de-1994: from 1994-07-12, its own clause: in force on publication
+- lei-8914-de-1994: from 1994-07-13, its own clause: in force on publication
+- lei-8915-de-1994: from 1994-07-13, its own clause: in force on publication
+- lei-8916-de-1994: from 1994-07-14, its own clause: in force on publication
+- lei-8917-de-1994: from 1994-07-14, its own clause: in force on publication
+- lei-8918-de-1994: from 2022-12-30, the in-force day of Lei 14.515/2022, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2022-12-30)); in-force day not read, so its DOU day is used, for: Lei 13.648/2018 (DOU 2018-04-12), Lei 8.936/1994 (DOU 1994-11-25)
+- lei-8919-de-1994: from 1994-07-19, its own clause: in force on publication
+- lei-8920-de-1994: from 1994-07-21, its own clause: in force on publication
+- lei-8921-de-1994: from 1994-07-26, its own clause: in force on publication
+- lei-8922-de-1994: from 1994-07-26, its own clause: in force on publication
+- lei-8923-de-1994: from 1994-07-28, its own clause: in force on publication
+- lei-8926-de-1994: from 1994-08-10, its own clause: in force on publication
+- lei-8928-de-1994: from 1994-08-11, its own clause: in force on publication
+- lei-8930-de-1994: from 1994-09-07, its own clause: in force on publication
+- lei-8936-de-1994: from 1994-11-25, its own clause: in force on publication
+- lei-8938-de-1994: from 1994-11-28, its own clause: in force on publication
+- lei-8941-de-1994: from 1994-08-11, the in-force day of Lei 8.928/1994, the latest among the acts its notes name (its DOU day 1994-08-11: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.928/1994 (DOU 1994-08-11)
+- lei-8942-de-1994: from 1994-11-28, its own clause: in force on publication
+- lei-8944-de-1994: from 1994-11-28, its own clause: in force on publication
+- lei-8947-de-1994: from 1994-12-09, its own clause: in force on publication
+- lei-8948-de-1994: from 2005-11-18, the in-force day of Lei 11.195/2005, the latest among the acts its notes name (its DOU day 2005-11-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.195/2005 (DOU 2005-11-18)
+- lei-8949-de-1994: from 1994-12-12, its own clause: in force on publication
+- lei-8951-de-1994: from 1994-12-14, its own clause: in force on publication
+- lei-8956-de-1994: from 1994-12-16, its own clause: in force on publication
+- lei-8957-de-1994: from 1994-12-16, its own clause: in force on publication
+- lei-8961-de-1994: from 1994-12-24, its own clause: in force on publication
+- lei-8966-de-1994: from 1994-12-28, its own clause: in force on publication
+- lei-8967-de-1994: from 1994-12-29, its own clause: in force on publication
+- lei-8968-de-1994: from 1994-12-29, its own clause: in force on publication
+- lei-8969-de-1994: from 1994-12-29, its own clause: in force on publication
+- lei-8971-de-1994: from 1994-12-30, its own clause: in force on publication
+- lei-8972-de-1994: from 1994-12-30, its own clause: in force on publication
+- lei-8975-de-1995: from 1995-01-09, its own clause: in force on publication
+- lei-8978-de-1995: from 1995-01-10, its own clause: in force on publication
+- lei-8979-de-1995: from 1995-01-16, its own clause: in force on publication
+- lei-8982-de-1995: from 1995-01-25, its own clause: in force on publication
+- lei-8983-de-1995: from 1995-02-03, its own clause: in force on publication
+- lei-8984-de-1995: from 1995-02-08, its own clause: in force on publication
+- lei-8988-de-1995: from 1995-02-25, its own clause: in force on publication
+- lei-8991-de-1995: from 1995-02-25, its own clause: in force on publication
+- lei-8992-de-1995: from 1995-02-25, its own clause: in force on publication
+- lei-8993-de-1995: from 1995-02-25, its own clause: in force on publication
+- lei-8994-de-1995: from 1995-02-25, its own clause: in force on publication
+- lei-8995-de-1995: from 1996-12-17, the in-force day of Lei 9.360/1996, the latest among the acts its notes name (its DOU day 1996-12-17: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 9.360/1996 (DOU 1996-12-17)
+- lei-8997-de-1995: from 1995-02-25, its own clause: in force on publication
+- lei-8998-de-1995: from 1995-02-25, its own clause: in force on publication
+- lei-8999-de-1995: from 1991-12-31, the in-force day of Lei 8.352/1991, the latest among the acts its notes name (its DOU day 1991-12-31: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.352/1991 (DOU 1991-12-31)
+- lei-9001-de-1995: from 1995-03-17, its own clause: in force on publication
+- lei-9002-de-1995: from 1995-03-17, its own clause: in force on publication
+- lei-9003-de-1995: from 1995-03-17, its own clause: in force on publication
+- lei-9005-de-1995: from 2001-08-24, the in-force day of Medida Provisória 2.190/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9006-de-1995: from 1995-03-20, its own clause: in force on publication
+- lei-9010-de-1995: from 1995-03-30, its own clause: in force on publication
+- lei-9011-de-1995: from 1995-03-31, its own clause: in force on publication
+- lei-9012-de-1995: from 2019-01-11, the in-force day of Lei 13.805/2019, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2019-01-11))
+- lei-9013-de-1995: from 1995-03-31, its own clause: in force on publication
+- lei-9015-de-1995: from 2005-01-14, the in-force day of Lei 11.094/2005, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2005-01-14))
+- lei-9016-de-1995: from 1995-03-31, its own clause: in force on publication
+- lei-9017-de-1995: from 2024-09-10, the in-force day of Lei 14.967/2024, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2024-09-10)); in-force day not read, so its DOU day is used, for: Lei 10.357/2001 (DOU 2001-12-28)
+- lei-9020-de-1995: from 2001-03-26, the in-force day of Lei 10.212/2001, the latest among the acts its notes name (its DOU day 2001-03-26: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.212/2001 (DOU 2001-03-26)
+- lei-9021-de-1995: from 1995-03-31, its own clause: in force on publication
+- lei-9022-de-1995: from 1995-04-06, its own clause: in force on publication
+- lei-9023-de-1995: from 1995-04-06, its own clause: in force on publication
+- lei-9025-de-1995: from 1995-04-11, its own clause: in force on publication
+- lei-9027-de-1995: from 1995-04-13, its own clause: in force on publication
+- lei-9031-de-1995: from 1995-04-17, its own clause: in force on publication
+- lei-9033-de-1995: from 1995-05-03, its own clause: in force on publication
+- lei-9035-de-1995: from 1995-05-04, its own clause: in force on publication
+- lei-9036-de-1995: from 1995-05-08, its own clause: in force on publication
+- lei-9037-de-1995: from 1995-06-22, no in-force clause of its own: LINDB art. 1, its DOU day (1995-05-08) + 45 days
+- lei-9039-de-1995: from 1995-05-10, its own clause: in force on publication
+- lei-9040-de-1995: from 1995-05-10, its own clause: in force on publication
+- lei-9041-de-1995: from 1995-06-24, no in-force clause of its own: LINDB art. 1, its DOU day (1995-05-10) + 45 days
+- lei-9043-de-1995: from 1995-05-10, its own clause: in force on publication
+- lei-9044-de-1995: from 1995-05-18, its own clause: in force on publication
+- lei-9046-de-1995: from 1995-05-19, its own clause: in force on publication
+- lei-9047-de-1995: from 1995-05-19, its own clause: in force on publication
+- lei-9049-de-1995: from 1995-05-19, its own clause: in force on publication
+- lei-9050-de-1995: from 1995-05-19, its own clause: in force on publication
+- lei-9051-de-1995: from 1995-05-19, its own clause: in force on publication
+- lei-9053-de-1995: from 1995-05-26, its own clause: in force on publication
+- lei-9055-de-1995: from 1995-06-02, its own clause: in force on publication
+- lei-9057-de-1995: from 1995-06-07, its own clause: in force on publication
+- lei-9059-de-1995: from 1995-06-14, its own clause: in force on publication
+- lei-9060-de-1995: from 2008-09-18, the in-force day of Lei 11.772/2008, the latest among the acts its notes name (its DOU day 2008-09-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.772/2008 (DOU 2008-09-18)
+- lei-9061-de-1995: from 1995-06-16, its own clause: in force on publication
+- lei-9063-de-1995: from 2006-07-10, the in-force day of Lei 11.321/2006, the latest among the acts its notes name (its DOU day 2006-07-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 11.321/2006 (DOU 2006-07-10)
+- lei-9066-de-1995: from 1995-06-21, its own clause: in force on publication
+- lei-9067-de-1995: from 1995-06-27, its own clause: in force on publication
+- lei-9068-de-1995: from 1995-06-27, its own clause: in force on publication
+- lei-9075-de-1995: from 1995-07-10, its own clause: in force on publication
+- lei-9076-de-1995: from 1995-07-11, its own clause: in force on publication
+- lei-9077-de-1995: from 2010-12-02, the in-force day of Lei 12.340/2010, the latest among the acts its notes name (its DOU day 2010-12-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.340/2010 (DOU 2010-12-02)
+- lei-9078-de-1995: from 1995-07-12, its own clause: in force on publication
+- lei-9080-de-1995: from 1995-07-20, its own clause: in force on publication
+- lei-9088-de-1995: from 1995-08-22, its own clause: in force on publication
+- lei-9093-de-1995: from 1996-12-11, the in-force day of Lei 9.335/1996, the latest among the acts its notes name (its DOU day 1996-12-11: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 9.335/1996 (DOU 1996-12-11)
+- lei-9094-de-1995: from 2001-08-24, the in-force day of Medida Provisória 2.162-72/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9097-de-1995: from 1995-09-20, its own clause: in force on publication
+- lei-9098-de-1995: from 1995-09-20, its own clause: in force on publication
+- lei-9111-de-1995: from 1995-10-11, its own clause: in force on publication
+- lei-9112-de-1995: from 2001-09-10, the in-force day of Medida Provisória 2.229-43/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9113-de-1995: from 1995-10-17, its own clause: in force on publication
+- lei-9115-de-1995: from 1995-10-24, its own clause: in force on publication
+- lei-9122-de-1995: from 1995-11-03, its own clause: in force on publication
+- lei-9125-de-1995: from 1995-11-08, its own clause: in force on publication
+- lei-9127-de-1995: from 1995-11-17, its own clause: in force on publication
+- lei-9129-de-1995: from 1995-11-21, its own clause: in force on publication
+- lei-9140-de-1995: from 2004-06-02, the in-force day of Lei 10.875/2004, the latest among the acts its notes name (its DOU day 2004-06-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.536/2002 (DOU 2002-08-15), Lei 10.875/2004 (DOU 2004-06-02)
+- lei-9143-de-1995: from 2001-08-27, the in-force day of Medida Provisória 2.181-45/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-9144-de-1995: from 1995-12-11, its own clause: in force on publication
+- lei-9160-de-1995: from 1995-12-15, its own clause: in force on publication
+- lei-9163-de-1995: from 1995-12-18, its own clause: in force on publication
+- lei-9165-de-1995: from 1996-02-03, no in-force clause of its own: LINDB art. 1, its DOU day (1995-12-20) + 45 days
+- lei-9166-de-1995: from 1995-12-21, its own clause: in force on publication
+- lei-9238-de-1995: from 1995-12-26, its own clause: in force on publication
+- lei-9239-de-1995: from 1996-02-09, no in-force clause of its own: LINDB art. 1, its DOU day (1995-12-26) + 45 days
+- lei-9240-de-1995: from 1995-12-26, its own clause: in force on publication
+- Part 98-current-008: 500 acts with their current text only, each one version, credited to Planalto as the oldest version available (first_law null). The text is the page as Planalto prints it now, with struck wordings and the notes beside them left out; headings are kept in the titulos unit as the history parts do.
+- Each version starts on the in-force day of the last change the text itself shows: the latest in-force day among the acts its notes name as changing it (Redação dada, Incluído, Revogado, Acrescido, Renumerado, Suprimido), each by the rule the history parts use: the act's own vigência clause, else LINDB art. 1 (publication + 45 days), and a Medida Provisória from its publication (CF art. 62). Where an act's clause was not read, its DOU day (from Planalto's index pages or the corpus's law records) is used and the act's line below names it. An act with no such note starts on its own in-force day by the same rule. Acts whose notes name decrees, rulings, Emendas, a staged in-force clause or the 2025-2026 tax reform (Leis Complementares 214/2025 and 227/2026) are left for their histories.
+- An act revoked as a whole (the revoking act named at the head of its page) has the text as last in force, then a second version that empties it, credited to the revoking act and dated by that act's in-force day by the same rule; its line below names it.
+- Earlier wordings are not shown here; their histories are built afterwards, appended behind these versions.
+- decreto-lei-2124-de-1984: from 1984-06-14, its own clause: in force on publication
+- decreto-lei-2125-de-1984: from 1984-06-20, its own clause: in force on publication
+- decreto-lei-2126-de-1984: from 1984-06-20, its own clause: in force on publication
+- decreto-lei-2127-de-1984: from 1984-06-22, its own clause: in force on publication
+- decreto-lei-2128-de-1984: from 1984-06-22, its own clause: in force on publication
+- decreto-lei-2129-de-1984: from 1984-06-27, its own clause: in force on publication
+- decreto-lei-2133-de-1984: from 1984-06-27, its own clause: in force on publication
+- decreto-lei-2134-de-1984: from 1984-06-27, its own clause: in force on publication
+- decreto-lei-2140-de-1984: from 1984-06-29, its own clause: in force on publication
+- decreto-lei-2144-de-1984: from 1984-06-29, its own clause: in force on publication
+- decreto-lei-2145-de-1984: from 1984-06-29, its own clause: in force on publication
+- decreto-lei-2146-de-1984: from 1984-07-03, its own clause: in force on publication
+- decreto-lei-2151-de-1984: from 1984-07-06, its own clause: in force on publication
+- decreto-lei-2152-de-1984: from 1984-07-19, its own clause: in force on publication
+- decreto-lei-2153-de-1984: from 1984-07-25, its own clause: in force on publication
+- decreto-lei-2155-de-1984: from 1984-07-31, its own clause: in force on publication
+- decreto-lei-2156-de-1984: from 1984-08-14, its own clause: in force on publication
+- decreto-lei-2157-de-1984: from 1984-08-15, its own clause: in force on publication
+- decreto-lei-2158-de-1984: from 1984-08-28, its own clause: in force on publication
+- decreto-lei-2160-de-1984: from 1984-09-10, its own clause: in force on publication
+- decreto-lei-2162-de-1984: from 1984-09-21, its own clause: in force on publication
+- decreto-lei-2165-de-1984: from 1984-10-03, its own clause: in force on publication
+- decreto-lei-2166-de-1984: from 1984-10-17, its own clause: in force on publication
+- decreto-lei-2168-de-1984: from 1984-10-30, its own clause: in force on publication
+- decreto-lei-2169-de-1984: from 1984-10-30, its own clause: in force on publication
+- decreto-lei-2170-de-1984: from 1984-11-06, its own clause: in force on publication
+- decreto-lei-2172-de-1984: from 1984-11-20, its own clause: in force on publication
+- decreto-lei-2173-de-1984: from 1984-11-20, its own clause: in force on publication
+- decreto-lei-2174-de-1984: from 1984-11-27, its own clause: in force on publication
+- decreto-lei-2175-de-1984: from 1984-11-28, its own clause: in force on publication
+- decreto-lei-2176-de-1984: from 1984-11-30, its own clause: in force on publication
+- decreto-lei-2178-de-1984: from 1984-12-05, its own clause: in force on publication
+- decreto-lei-2180-de-1984: from 1984-12-05, its own clause: in force on publication
+- decreto-lei-2181-de-1984: from 1984-12-11, its own clause: in force on publication
+- decreto-lei-2182-de-1984: from 1984-12-12, its own clause: in force on publication
+- decreto-lei-2183-de-1984: from 1984-12-20, its own clause: in force on publication
+- decreto-lei-2184-de-1984: from 1984-12-21, its own clause: in force on publication
+- decreto-lei-2185-de-1984: from 1984-12-21, its own clause: in force on publication
+- decreto-lei-2187-de-1984: from 1984-12-27, its own clause: in force on publication
+- decreto-lei-2188-de-1984: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-2189-de-1984: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-2190-de-1984: from 1985-02-10, no in-force clause of its own: LINDB art. 1, its DOU day (1984-12-27) + 45 days
+- decreto-lei-2191-de-1984: from 1984-12-27, its own clause: in force on publication
+- decreto-lei-2192-de-1984: from 1984-12-27, its own clause: in force on publication
+- decreto-lei-2193-de-1984: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-2194-de-1984: from 1984-12-27, its own clause: in force on publication
+- decreto-lei-2195-de-1984: from 1984-12-27, its own clause: in force on publication
+- decreto-lei-2196-de-1984: from 1984-12-27, its own clause: in force on publication
+- decreto-lei-2197-de-1984: from 1984-12-27, its own clause: in force on publication; revoked as a whole by Decreto-Lei 2.295/1986 from 1986-11-24 (its DOU day 1986-11-24: its page is not among the pinned pages, so its own clause was not read)
+- decreto-lei-2198-de-1984: from 1984-12-27, its own clause: in force on publication
+- decreto-lei-2199-de-1984: from 1984-12-27, its own clause: in force on publication
+- decreto-lei-2200-de-1984: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-2206-de-1984: from 1984-12-21, its own clause: in force on publication
+- decreto-lei-2207-de-1984: from 1985-02-04, no in-force clause of its own: LINDB art. 1, its DOU day (1984-12-21) + 45 days
+- decreto-lei-2212-de-1984: from 1985-02-06, the in-force day of Decreto-Lei 2.242/1985, the latest among the acts its notes name (its DOU day 1985-02-06: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.242/1985 (DOU 1985-02-06)
+- decreto-lei-2215-de-1985: from 1985-01-04, its own clause: in force on publication
+- decreto-lei-2216-de-1985: from 1985-01-04, its own clause: in force on publication
+- decreto-lei-2226-de-1985: from 1985-01-17, its own clause: in force on publication
+- decreto-lei-2228-de-1985: from 1985-03-04, no in-force clause of its own: LINDB art. 1, its DOU day (1985-01-18) + 45 days
+- decreto-lei-2230-de-1985: from 1985-01-18, its own clause: in force on publication
+- decreto-lei-2232-de-1985: from 1985-01-22, its own clause: in force on publication
+- decreto-lei-2233-de-1985: from 1985-01-22, its own clause: in force on publication
+- decreto-lei-2234-de-1985: from 1985-01-24, its own clause: in force on publication
+- decreto-lei-2235-de-1985: from 1985-01-24, its own clause: in force on publication
+- decreto-lei-2236-de-1985: from 1997-10-16, the in-force day of Lei 9.505/1997, the latest among the acts its notes name (its DOU day 1997-10-16: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.988/1995 (DOU 1995-02-25), Lei 9.505/1997 (DOU 1997-10-16)
+- decreto-lei-2237-de-1985: from 1985-01-25, its own clause: in force on publication
+- decreto-lei-2239-de-1985: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-2241-de-1985: from 1985-02-06, its own clause: in force on publication
+- decreto-lei-2243-de-1985: from 1985-02-12, its own clause: in force on publication
+- decreto-lei-2244-de-1985: from 1985-04-01, no in-force clause of its own: LINDB art. 1, its DOU day (1985-02-15) + 45 days
+- decreto-lei-2245-de-1985: from 1985-02-15, its own clause: in force on publication
+- decreto-lei-2246-de-1985: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-2247-de-1985: from 1985-02-22, its own clause: in force on publication
+- decreto-lei-2248-de-1985: from 1985-02-26, its own clause: in force on publication
+- decreto-lei-2249-de-1985: from 1985-11-20, the in-force day of Lei 7.407/1985, the latest among the acts its notes name (its DOU day 1985-11-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.407/1985 (DOU 1985-11-20)
+- decreto-lei-2251-de-1985: from 1985-02-27, its own clause: in force on publication
+- decreto-lei-2252-de-1985: from 1985-03-05, its own clause: in force on publication
+- decreto-lei-2253-de-1985: from 1985-03-05, its own clause: in force on publication
+- decreto-lei-2254-de-1985: from 1985-03-05, its own clause: in force on publication
+- decreto-lei-2255-de-1985: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-2256-de-1985: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-2257-de-1985: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-2259-de-1985: from 1985-03-05, its own clause: in force on publication
+- decreto-lei-2260-de-1985: from 1985-03-05, its own clause: in force on publication
+- decreto-lei-2261-de-1985: from 1985-03-05, its own clause: in force on publication
+- decreto-lei-2262-de-1985: from 1985-03-05, its own clause: in force on publication
+- decreto-lei-2263-de-1985: from 1985-03-05, its own clause: in force on publication
+- decreto-lei-2264-de-1985: from 1985-03-05, its own clause: in force on publication
+- decreto-lei-2265-de-1985: from 1985-03-05, its own clause: in force on publication
+- decreto-lei-2267-de-1985: from 1985-03-14, its own clause: in force on publication
+- decreto-lei-2268-de-1985: from 1985-03-14, its own clause: in force on publication
+- decreto-lei-2269-de-1985: from 1985-03-14, its own clause: in force on publication
+- decreto-lei-2271-de-1985: from 1985-03-14, its own clause: in force on publication
+- decreto-lei-2272-de-1985: from 1985-03-14, its own clause: in force on publication
+- decreto-lei-2273-de-1985: from 1985-03-15, its own clause: in force on publication
+- decreto-lei-2274-de-1985: from 1985-04-29, no in-force clause of its own: LINDB art. 1, its DOU day (1985-03-15) + 45 days
+- decreto-lei-2275-de-1985: from 1985-03-15, its own clause: in force on publication
+- decreto-lei-2276-de-1985: from 1985-03-18, its own clause: in force on publication
+- decreto-lei-2277-de-1985: from 1985-04-03, its own clause: in force on publication
+- decreto-lei-2278-de-1985: from 1985-11-20, its own clause: in force on publication
+- decreto-lei-2279-de-1985: from 1985-12-17, its own clause: in force on publication
+- decreto-lei-2280-de-1985: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-2286-de-1986: from 1986-07-24, its own clause: in force on publication
+- decreto-lei-2290-de-1986: from 1989-06-30, the in-force day of Lei 7.786/1989, the latest among the acts its notes name (its DOU day 1989-06-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.306/1986 (DOU 1986-12-19), Decreto-Lei 2.322/1987 (DOU 1987-02-27), Lei 7.786/1989 (DOU 1989-06-30)
+- decreto-lei-2291-de-1986: from 1988-01-06, the in-force day of Decreto-Lei 2.406/1988, the latest among the acts its notes name (its DOU day 1988-01-06: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.406/1988 (DOU 1988-01-06)
+- decreto-lei-2296-de-1986: from 1986-11-24, its own clause: in force on publication
+- decreto-lei-2297-de-1986: from 1986-11-24, its own clause: in force on publication
+- decreto-lei-2299-de-1986: from 1986-11-24, its own clause: in force on publication
+- decreto-lei-2304-de-1986: from 1986-11-25, its own clause: in force on publication
+- decreto-lei-2306-de-1986: from 1987-02-02, no in-force clause of its own: LINDB art. 1, its DOU day (1986-12-19) + 45 days
+- decreto-lei-2307-de-1986: from 1986-12-19, its own clause: in force on publication
+- decreto-lei-2308-de-1986: from 1986-12-22, its own clause: in force on publication
+- decreto-lei-2309-de-1986: from 1986-12-23, its own clause: in force on publication
+- decreto-lei-2310-de-1986: from 1986-12-23, its own clause: in force on publication
+- decreto-lei-2311-de-1986: from 1986-12-24, its own clause: in force on publication
+- decreto-lei-2314-de-1986: from 1986-12-24, its own clause: in force on publication
+- decreto-lei-2316-de-1986: from 1986-12-24, its own clause: in force on publication
+- decreto-lei-2317-de-1986: from 1986-12-24, its own clause: in force on publication
+- decreto-lei-2318-de-1986: from 1986-12-31, its own clause: in force on publication
+- decreto-lei-2319-de-1987: from 1986-01-27, its own clause: in force on publication
+- decreto-lei-2322-de-1987: from 1987-02-27, its own clause: in force on publication
+- decreto-lei-2323-de-1987: from 2024-09-16, the in-force day of Lei 14.973/2024, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2024-09-16)); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.331/1987 (DOU 1987-05-29), Decreto-Lei 2.354/1987 (DOU 1987-08-25)
+- decreto-lei-2325-de-1987: from 1987-04-09, its own clause: in force on publication
+- decreto-lei-2326-de-1987: from 1987-04-15, its own clause: in force on publication
+- decreto-lei-2327-de-1987: from 1987-04-27, its own clause: in force on publication
+- decreto-lei-2328-de-1987: from 1987-05-06, its own clause: in force on publication
+- decreto-lei-2329-de-1987: from 1987-06-21, its own clause: in force on publication
+- decreto-lei-2330-de-1987: from 1987-05-25, its own clause: in force on publication
+- decreto-lei-2331-de-1987: from 1987-05-29, its own clause: in force on publication
+- decreto-lei-2332-de-1987: from 1987-06-10, its own clause: in force on publication
+- decreto-lei-2333-de-1987: from 1987-07-24, the in-force day of Decreto-Lei 2.344/1987, the latest among the acts its notes name (its DOU day 1987-07-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.344/1987 (DOU 1987-07-24)
+- decreto-lei-2334-de-1987: from 1987-06-13, its own clause: in force on publication
+- decreto-lei-2336-de-1987: from 1987-06-16, its own clause: in force on publication
+- decreto-lei-2337-de-1987: from 1987-06-19, its own clause: in force on publication
+- decreto-lei-2338-de-1987: from 1987-06-22, its own clause: in force on publication
+- decreto-lei-2339-de-1987: from 1987-06-29, its own clause: in force on publication
+- decreto-lei-2340-de-1987: from 1987-08-13, no in-force clause of its own: LINDB art. 1, its DOU day (1987-06-29) + 45 days
+- decreto-lei-2342-de-1987: from 1987-07-13, its own clause: in force on publication
+- decreto-lei-2343-de-1987: from 1987-07-13, its own clause: in force on publication
+- decreto-lei-2344-de-1987: from 1987-07-24, its own clause: in force on publication
+- decreto-lei-2346-de-1987: from 2016-07-29, the in-force day of Lei 13.327/2016, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2016-07-29))
+- decreto-lei-2347-de-1987: from 1987-07-24, its own clause: in force on publication
+- decreto-lei-2349-de-1987: from 1987-07-30, its own clause: in force on publication
+- decreto-lei-2350-de-1987: from 1987-08-03, its own clause: in force on publication
+- decreto-lei-2352-de-1987: from 1987-08-10, its own clause: in force on publication
+- decreto-lei-2354-de-1987: from 1987-08-25, its own clause: in force on publication
+- decreto-lei-2355-de-1987: from 1989-12-13, the in-force day of Lei 7.923/1989, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1989-12-13)); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.463/1988 (DOU 1988-08-31); revoked as a whole by Lei 13.464/2017 from 2017-07-11 (own clause 'entra em vigor na data de sua publicação' (published 2017-07-11))
+- decreto-lei-2357-de-1987: from 1987-10-28, the in-force day of Decreto-Lei 2.365/1987, the latest among the acts its notes name (its DOU day 1987-10-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.365/1987 (DOU 1987-10-28)
+- decreto-lei-2358-de-1987: from 1987-09-08, its own clause: in force on publication
+- decreto-lei-2359-de-1987: from 1975-03-21, the in-force day of Decreto-Lei 1.398/1975, the latest among the acts its notes name (its DOU day 1975-03-21: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.398/1975 (DOU 1975-03-21)
+- decreto-lei-2361-de-1987: from 1987-09-25, its own clause: in force on publication
+- decreto-lei-2364-de-1987: from 1987-10-23, its own clause: in force on publication
+- decreto-lei-2366-de-1987: from 1987-11-05, its own clause: in force on publication
+- decreto-lei-2367-de-1987: from 1987-12-10, the in-force day of Decreto-Lei 2.379/1987, the latest among the acts its notes name (its DOU day 1987-12-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.379/1987 (DOU 1987-12-10)
+- decreto-lei-2368-de-1987: from 1987-11-06, its own clause: in force on publication
+- decreto-lei-2371-de-1987: from 1987-11-19, its own clause: in force on publication
+- decreto-lei-2373-de-1987: from 1987-11-20, its own clause: in force on publication
+- decreto-lei-2374-de-1987: from 1987-11-20, its own clause: in force on publication
+- decreto-lei-2376-de-1987: from 2001-02-07, the in-force day of Lei 10.179/2001, the latest among the acts its notes name (its DOU day 2001-02-07: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.447/1988 (DOU 1988-07-19), Lei 10.179/2001 (DOU 2001-02-07)
+- decreto-lei-2378-de-1987: from 1987-12-04, its own clause: in force on publication
+- decreto-lei-2379-de-1987: from 1987-12-10, its own clause: in force on publication
+- decreto-lei-2381-de-1987: from 1988-01-24, no in-force clause of its own: LINDB art. 1, its DOU day (1987-12-10) + 45 days
+- decreto-lei-2382-de-1987: from 1987-12-10, its own clause: in force on publication
+- decreto-lei-2383-de-1987: from 1971-10-11, the in-force day of Lei 5.710/1971, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1971-10-11))
+- decreto-lei-2384-de-1987: from 1987-12-18, its own clause: in force on publication
+- decreto-lei-2385-de-1987: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- decreto-lei-2386-de-1987: from 1987-12-21, its own clause: in force on publication
+- decreto-lei-2390-de-1987: from 1987-12-21, its own clause: in force on publication
+- decreto-lei-2391-de-1987: from 1987-12-21, its own clause: in force on publication
+- decreto-lei-2392-de-1987: from 1987-12-22, its own clause: in force on publication
+- decreto-lei-2393-de-1987: from 1976-12-10, the in-force day of Lei 6.392/1976, the latest among the acts its notes name (its DOU day 1976-12-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.392/1976 (DOU 1976-12-10)
+- decreto-lei-2396-de-1987: from 1988-04-15, the in-force day of Decreto-Lei 2.429/1988, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1988-04-15)); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.413/1988 (DOU 1988-02-11)
+- decreto-lei-2400-de-1987: from 1988-04-12, the in-force day of Decreto-Lei 2.427/1988, the latest among the acts its notes name (its DOU day 1988-04-12: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.427/1988 (DOU 1988-04-12)
+- decreto-lei-2401-de-1987: from 1988-05-25, the in-force day of Decreto-Lei 2.437/1988, the latest among the acts its notes name (its DOU day 1988-05-25: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.437/1988 (DOU 1988-05-25)
+- decreto-lei-2402-de-1987: from 1987-12-22, its own clause: in force on publication
+- decreto-lei-2404-de-1987: from 2004-07-14, the in-force day of Lei 10.893/2004, the latest among the acts its notes name (its DOU day 2004-07-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.414/1988 (DOU 1988-02-17), Lei 10.206/2001 (DOU 2001-03-24), Lei 10.893/2004 (DOU 2004-07-14), Lei 7.742/1989 (DOU 1989-03-21)
+- decreto-lei-2405-de-1987: from 1987-12-29, its own clause: in force on publication
+- decreto-lei-2407-de-1988: from 1988-01-06, its own clause: in force on publication
+- decreto-lei-2408-de-1988: from 1988-01-06, its own clause: in force on publication
+- decreto-lei-2410-de-1988: from 1988-01-18, its own clause: in force on publication
+- decreto-lei-2411-de-1988: from 1988-01-22, its own clause: in force on publication
+- decreto-lei-2412-de-1988: from 1988-02-11, its own clause: in force on publication
+- decreto-lei-2415-de-1988: from 1988-02-17, its own clause: in force on publication
+- decreto-lei-2416-de-1988: from 1988-02-19, its own clause: in force on publication
+- decreto-lei-2418-de-1988: from 1988-03-09, its own clause: in force on publication
+- decreto-lei-2419-de-1988: from 1988-03-11, its own clause: in force on publication
+- decreto-lei-2420-de-1988: from 1988-03-21, its own clause: in force on publication
+- decreto-lei-2422-de-1988: from 1988-04-04, its own clause: in force on publication
+- decreto-lei-2423-de-1988: from 1988-06-03, the in-force day of Decreto-Lei 2.439/1988, the latest among the acts its notes name (its DOU day 1988-06-03: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.439/1988 (DOU 1988-06-03)
+- decreto-lei-2427-de-1988: from 1988-04-12, its own clause: in force on publication
+- decreto-lei-2428-de-1988: from 1988-04-15, its own clause: in force on publication
+- decreto-lei-2430-de-1988: from 1988-06-20, the in-force day of Decreto-Lei 2.441/1988, the latest among the acts its notes name (its DOU day 1988-06-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.441/1988 (DOU 1988-06-20)
+- decreto-lei-2431-de-1988: from 1988-05-14, its own clause: in force on publication
+- decreto-lei-2432-de-1988: from 1993-03-05, the in-force day of Lei 8.631/1993, the latest among the acts its notes name (its DOU day 1993-03-05: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.013/1990 (DOU 1990-04-09), Lei 8.631/1993 (DOU 1993-03-05)
+- decreto-lei-2434-de-1988: from 1988-05-20, its own clause: in force on publication
+- decreto-lei-2435-de-1988: from 1988-05-20, its own clause: in force on publication
+- decreto-lei-2436-de-1988: from 1988-05-25, its own clause: in force on publication
+- decreto-lei-2437-de-1988: from 1988-05-25, its own clause: in force on publication
+- decreto-lei-2438-de-1988: from 1988-05-27, its own clause: in force on publication
+- decreto-lei-2439-de-1988: from 1988-06-03, its own clause: in force on publication
+- decreto-lei-2450-de-1988: from 1994-01-29, the in-force day of Lei 8.850/1994, the latest among the acts its notes name (its DOU day 1994-01-29: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.470/1988 (DOU 1988-09-02), Lei 7.798/1989 (DOU 1989-07-11), Lei 8.850/1994 (DOU 1994-01-29)
+- decreto-lei-2451-de-1988: from 1988-07-30, its own clause: in force on publication
+- decreto-lei-2454-de-1988: from 1988-08-22, its own clause: in force on publication
+- decreto-lei-2455-de-1988: from 1988-08-22, its own clause: in force on publication
+- decreto-lei-2456-de-1988: from 1988-08-22, its own clause: in force on publication
+- decreto-lei-2460-de-1988: from 1988-08-29, its own clause: in force on publication
+- decreto-lei-2466-de-1988: from 1988-09-01, its own clause: in force on publication
+- decreto-lei-2471-de-1988: from 1988-09-02, its own clause: in force on publication
+- lei-complementar-46-de-1984: from 1984-08-22, its own clause: in force on publication
+- lei-complementar-47-de-1984: from 1984-10-23, its own clause: in force on publication
+- lei-complementar-48-de-1984: from 1987-12-21, the in-force day of Lei Complementar 57/1987, the latest among the acts its notes name (its DOU day 1987-12-21: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei Complementar 57/1987 (DOU 1987-12-21)
+- lei-complementar-50-de-1985: from 1985-12-20, its own clause: in force on publication
+- lei-complementar-51-de-1985: from 2015-12-04, the in-force day of Lei Complementar 152/2015, the latest among the acts its notes name (its DOU day 2015-12-04: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei Complementar 144/2014 (DOU 2014-05-16), Lei Complementar 152/2015 (DOU 2015-12-04)
+- lei-complementar-52-de-1986: from 1986-04-17, its own clause: in force on publication
+- lei-complementar-53-de-1986: from 1986-12-23, its own clause: in force on publication
+- lei-complementar-54-de-1986: from 1986-12-24, its own clause: in force on publication
+- lei-complementar-57-de-1987: from 1987-12-21, its own clause: in force on publication
+- lei-complementar-58-de-1988: from 1988-01-22, its own clause: in force on publication
+- lei-complementar-59-de-1988: from 1988-12-23, its own clause: in force on publication
+- lei-7195-de-1984: from 1984-06-13, its own clause: in force on publication
+- lei-7196-de-1984: from 1984-06-14, its own clause: in force on publication
+- lei-7197-de-1984: from 1984-06-15, its own clause: in force on publication
+- lei-7202-de-1984: from 1984-06-27, its own clause: in force on publication
+- lei-7203-de-1984: from 1984-07-04, its own clause: in force on publication
+- lei-7204-de-1984: from 1984-07-06, its own clause: in force on publication
+- lei-7206-de-1984: from 1984-07-06, its own clause: in force on publication
+- lei-7207-de-1984: from 1984-07-06, its own clause: in force on publication
+- lei-7208-de-1984: from 1984-07-06, its own clause: in force on publication
+- lei-7211-de-1984: from 1984-07-17, its own clause: in force on publication
+- lei-7214-de-1984: from 1984-08-16, its own clause: in force on publication
+- lei-7215-de-1984: from 1984-08-31, its own clause: in force on publication
+- lei-7217-de-1984: from 1984-09-20, its own clause: in force on publication
+- lei-7218-de-1984: from 1984-09-20, its own clause: in force on publication
+- lei-7219-de-1984: from 1984-09-20, its own clause: in force on publication
+- lei-7220-de-1984: from 1984-10-03, its own clause: in force on publication
+- lei-7221-de-1984: from 1984-10-03, its own clause: in force on publication
+- lei-7223-de-1984: from 1984-10-03, its own clause: in force on publication
+- lei-7224-de-1984: from 1984-10-16, its own clause: in force on publication
+- lei-7225-de-1984: from 1984-10-16, its own clause: in force on publication
+- lei-7229-de-1984: from 1984-10-23, its own clause: in force on publication
+- lei-7230-de-1984: from 1984-10-23, its own clause: in force on publication
+- lei-7231-de-1984: from 1984-10-24, its own clause: in force on publication
+- lei-7232-de-1984: from 1992-01-09, the in-force day of Lei 8.402/1992, the latest among the acts its notes name (its DOU day 1992-01-09: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.248/1991 (DOU 1991-10-24), Lei 8.402/1992 (DOU 1992-01-09)
+- lei-7234-de-1984: from 1984-10-30, its own clause: in force on publication
+- lei-7236-de-1984: from 1984-10-30, its own clause: in force on publication
+- lei-7240-de-1984: from 1984-11-06, its own clause: in force on publication
+- lei-7242-de-1984: from 1984-11-06, its own clause: in force on publication
+- lei-7243-de-1984: from 1984-11-07, its own clause: in force on publication
+- lei-7246-de-1984: from 1984-11-14, its own clause: in force on publication
+- lei-7247-de-1984: from 1984-11-14, its own clause: in force on publication
+- lei-7248-de-1984: from 1984-11-14, its own clause: in force on publication
+- lei-7250-de-1984: from 1984-11-16, its own clause: in force on publication
+- lei-7251-de-1984: from 1984-11-21, its own clause: in force on publication
+- lei-7262-de-1984: from 1984-12-04, its own clause: in force on publication
+- lei-7263-de-1984: from 1984-12-04, its own clause: in force on publication
+- lei-7264-de-1984: from 1984-12-05, its own clause: in force on publication
+- lei-7265-de-1984: from 1984-12-05, its own clause: in force on publication
+- lei-7266-de-1984: from 1984-12-05, its own clause: in force on publication
+- lei-7267-de-1984: from 1984-12-06, its own clause: in force on publication
+- lei-7270-de-1984: from 1984-12-11, its own clause: in force on publication
+- lei-7272-de-1984: from 1984-12-11, its own clause: in force on publication
+- lei-7273-de-1984: from 1984-12-11, its own clause: in force on publication
+- lei-7274-de-1984: from 1984-12-11, its own clause: in force on publication
+- lei-7275-de-1984: from 1984-12-11, its own clause: in force on publication
+- lei-7278-de-1984: from 1984-12-11, its own clause: in force on publication
+- lei-7279-de-1984: from 1984-12-11, its own clause: in force on publication
+- lei-7284-de-1984: from 1984-12-12, its own clause: in force on publication
+- lei-7287-de-1984: from 1984-12-19, its own clause: in force on publication
+- lei-7288-de-1984: from 1984-12-19, its own clause: in force on publication
+- lei-7289-de-1984: from 2026-04-28, the in-force day of Lei 15.395/2026, the latest among the acts its notes name (its DOU day 2026-04-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.486/2002 (DOU 2002-07-04), Lei 11.134/2005 (DOU 2005-07-18), Lei 12.086/2009 (DOU 2009-11-09), Lei 15.395/2026 (DOU 2026-04-28), Lei 7.475/1986 (DOU 1986-05-14)
+- lei-7290-de-1984: from 1984-12-20, its own clause: in force on publication
+- lei-7292-de-1984: from 1984-12-20, its own clause: in force on publication
+- lei-7294-de-1984: from 1984-12-20, its own clause: in force on publication
+- lei-7295-de-1984: from 1984-12-20, its own clause: in force on publication
+- lei-7297-de-1984: from 1984-12-21, its own clause: in force on publication
+- lei-7298-de-1984: from 1985-01-03, its own clause: in force on publication
+- lei-7299-de-1985: from 1985-03-14, its own clause: in force on publication
+- lei-7300-de-1985: from 1985-03-28, its own clause: in force on publication
+- lei-7303-de-1985: from 1985-04-02, its own clause: in force on publication
+- lei-7304-de-1985: from 1985-04-02, its own clause: in force on publication
+- lei-7305-de-1985: from 1985-04-03, its own clause: in force on publication
+- lei-7306-de-1985: from 1985-04-10, its own clause: in force on publication
+- lei-7308-de-1985: from 1985-04-16, its own clause: in force on publication
+- lei-7309-de-1985: from 1985-04-24, its own clause: in force on publication
+- lei-7312-de-1985: from 1985-05-17, its own clause: in force on publication
+- lei-7313-de-1985: from 1985-05-21, its own clause: in force on publication
+- lei-7315-de-1985: from 1985-05-27, its own clause: in force on publication
+- lei-7316-de-1985: from 1985-05-30, its own clause: in force on publication
+- lei-7318-de-1985: from 1985-06-07, its own clause: in force on publication
+- lei-7319-de-1985: from 1985-06-12, its own clause: in force on publication
+- lei-7325-de-1985: from 1985-06-19, its own clause: in force on publication
+- lei-7328-de-1985: from 1985-06-19, its own clause: in force on publication
+- lei-7329-de-1985: from 1985-06-28, its own clause: in force on publication
+- lei-7332-de-1985: from 1985-07-02, its own clause: in force on publication
+- lei-7333-de-1985: from 1991-08-15, the in-force day of Lei 8.216/1991, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1991-08-15)); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.123/1984 (DOU 1984-06-06)
+- lei-7335-de-1985: from 1985-07-05, its own clause: in force on publication
+- lei-7336-de-1985: from 1985-07-05, its own clause: in force on publication
+- lei-7339-de-1985: from 1985-07-09, its own clause: in force on publication
+- lei-7348-de-1985: from 1985-07-25, its own clause: in force on publication
+- lei-7350-de-1985: from 1985-08-28, its own clause: in force on publication
+- lei-7351-de-1985: from 1985-08-28, its own clause: in force on publication
+- lei-7354-de-1985: from 1985-09-02, its own clause: in force on publication
+- lei-7356-de-1985: from 1985-09-02, its own clause: in force on publication
+- lei-7359-de-1985: from 1985-09-11, its own clause: in force on publication
+- lei-7360-de-1985: from 1985-09-11, its own clause: in force on publication
+- lei-7361-de-1985: from 1985-09-11, its own clause: in force on publication
+- lei-7363-de-1985: from 1985-09-13, its own clause: in force on publication
+- lei-7364-de-1985: from 1985-09-13, its own clause: in force on publication
+- lei-7365-de-1985: from 1985-09-16, its own clause: in force on publication
+- lei-7366-de-1985: from 1985-09-19, its own clause: in force on publication
+- lei-7367-de-1985: from 1985-09-19, its own clause: in force on publication
+- lei-7368-de-1985: from 1985-09-19, its own clause: in force on publication
+- lei-7371-de-1985: from 1985-09-25, its own clause: in force on publication
+- lei-7372-de-1985: from 1985-09-25, its own clause: in force on publication
+- lei-7373-de-1985: from 1985-09-26, its own clause: in force on publication
+- lei-7377-de-1985: from 2019-11-12, the in-force day of Medida Provisória 905/2019, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62)); in-force day not read, so its DOU day is used, for: Lei 9.261/1996 (DOU 1996-01-11)
+- lei-7379-de-1985: from 1979-12-20, the in-force day of Lei 6.767/1979, the latest among the acts its notes name (its DOU day 1979-12-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.767/1979 (DOU 1979-12-20)
+- lei-7380-de-1985: from 1985-10-08, its own clause: in force on publication
+- lei-7381-de-1985: from 1985-10-16, its own clause: in force on publication
+- lei-7382-de-1985: from 1985-10-16, its own clause: in force on publication
+- lei-7385-de-1985: from 1985-10-21, its own clause: in force on publication
+- lei-7387-de-1985: from 1985-10-22, its own clause: in force on publication
+- lei-7388-de-1985: from 1985-10-24, its own clause: in force on publication
+- lei-7391-de-1985: from 1976-06-02, the in-force day of Lei 6.335/1976, the latest among the acts its notes name (its DOU day 1976-06-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.335/1976 (DOU 1976-06-02)
+- lei-7392-de-1985: from 1985-10-29, its own clause: in force on publication
+- lei-7393-de-1985: from 1985-10-29, its own clause: in force on publication
+- lei-7394-de-1985: from 2002-07-11, the in-force day of Lei 10.508/2002, the latest among the acts its notes name (its DOU day 2002-07-11: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.508/2002 (DOU 2002-07-11)
+- lei-7395-de-1985: from 1985-11-04, its own clause: in force on publication
+- lei-7396-de-1985: from 1985-11-04, its own clause: in force on publication
+- lei-7397-de-1985: from 1985-11-04, its own clause: in force on publication
+- lei-7398-de-1985: from 1985-11-05, its own clause: in force on publication
+- lei-7399-de-1985: from 1985-11-05, its own clause: in force on publication
+- lei-7401-de-1985: from 1985-11-06, its own clause: in force on publication
+- lei-7402-de-1985: from 1985-11-06, its own clause: in force on publication
+- lei-7403-de-1985: from 1985-11-06, its own clause: in force on publication
+- lei-7405-de-1985: from 2026-07-08, the in-force day of Lei 15.459/2026, the latest among the acts its notes name (its DOU day 2026-07-08: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.459/2026 (DOU 2026-07-08)
+- lei-7407-de-1985: from 1985-11-20, its own clause: in force on publication
+- lei-7410-de-1985: from 1985-11-28, its own clause: in force on publication
+- lei-7411-de-1985: from 1985-12-03, its own clause: in force on publication
+- lei-7412-de-1985: from 2001-09-01, the in-force day of Medida Provisória 2.215-10/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62)); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.716/1979 (DOU 1979-11-23)
+- lei-7413-de-1985: from 1985-12-10, its own clause: in force on publication
+- lei-7414-de-1985: from 1985-12-10, its own clause: in force on publication
+- lei-7415-de-1985: from 1985-12-10, its own clause: in force on publication
+- lei-7416-de-1985: from 1986-06-26, the in-force day of Lei 7.500/1986, the latest among the acts its notes name (its DOU day 1986-06-26: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.500/1986 (DOU 1986-06-26)
+- lei-7417-de-1985: from 1985-12-11, its own clause: in force on publication
+- lei-7421-de-1985: from 1985-12-18, its own clause: in force on publication
+- lei-7422-de-1985: from 1985-12-18, its own clause: in force on publication
+- lei-7423-de-1985: from 1985-12-18, its own clause: in force on publication
+- lei-7431-de-1985: from 1986-12-24, the in-force day of Decreto-Lei 2.316/1986, the latest among the acts its notes name (its DOU day 1986-12-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.316/1986 (DOU 1986-12-24)
+- lei-7434-de-1985: from 1985-12-20, its own clause: in force on publication
+- lei-7435-de-1985: from 1987-03-31, the in-force day of Lei 7.590/1987, the latest among the acts its notes name (its DOU day 1987-03-31: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.590/1987 (DOU 1987-03-31)
+- lei-7436-de-1986: from 1986-09-03, its own clause: in force on publication
+- lei-7437-de-1985: from 1985-12-23, its own clause: in force on publication
+- lei-7439-de-1985: from 1986-02-06, no in-force clause of its own: LINDB art. 1, its DOU day (1985-12-23) + 45 days
+- lei-7440-de-1985: from 1985-12-23, its own clause: in force on publication
+- lei-7442-de-1985: from 1985-12-23, its own clause: in force on publication
+- lei-7444-de-1985: from 1985-12-23, its own clause: in force on publication
+- lei-7445-de-1985: from 1985-12-23, its own clause: in force on publication
+- lei-7446-de-1985: from 1985-12-23, its own clause: in force on publication
+- lei-7447-de-1985: from 1985-12-23, its own clause: in force on publication
+- lei-7449-de-1985: from 1985-12-23, its own clause: in force on publication
+- lei-7451-de-1985: from 1985-12-27, its own clause: in force on publication
+- lei-7454-de-1985: from 1985-12-31, its own clause: in force on publication
+- lei-7456-de-1986: from 1986-04-02, its own clause: in force on publication
+- lei-7457-de-1986: from 2009-11-09, the in-force day of Lei 12.086/2009, the latest among the acts its notes name (its DOU day 2009-11-09: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.086/2009 (DOU 2009-11-09)
+- lei-7458-de-1986: from 1986-04-10, its own clause: in force on publication
+- lei-7459-de-1986: from 1986-04-14, its own clause: in force on publication
+- lei-7460-de-1986: from 1986-04-16, its own clause: in force on publication
+- lei-7461-de-1986: from 1986-04-17, its own clause: in force on publication
+- lei-7463-de-1986: from 1986-04-18, its own clause: in force on publication
+- lei-7464-de-1986: from 1986-04-23, its own clause: in force on publication
+- lei-7465-de-1986: from 1986-04-23, its own clause: in force on publication
+- lei-7466-de-1986: from 1986-04-24, its own clause: in force on publication
+- lei-7468-de-1986: from 1986-04-30, its own clause: in force on publication
+- lei-7470-de-1986: from 1986-05-02, its own clause: in force on publication
+- lei-7471-de-1986: from 1986-05-02, its own clause: in force on publication
+- lei-7474-de-1986: from 2002-12-23, the in-force day of Lei 10.609/2002, the latest among the acts its notes name (its DOU day 2002-12-23: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.609/2002 (DOU 2002-12-23), Lei 8.889/1994 (DOU 1994-06-22)
+- lei-7475-de-1986: from 1986-05-14, its own clause: in force on publication
+- lei-7476-de-1986: from 1986-05-16, its own clause: in force on publication
+- lei-7477-de-1986: from 1986-05-20, its own clause: in force on publication
+- lei-7479-de-1986: from 1986-07-19, no in-force clause of its own: LINDB art. 1, its DOU day (1986-06-04) + 45 days
+- lei-7480-de-1986: from 1986-06-05, its own clause: in force on publication
+- lei-7481-de-1986: from 1986-06-06, its own clause: in force on publication
+- lei-7482-de-1986: from 1986-06-06, its own clause: in force on publication
+- lei-7483-de-1986: from 1986-06-06, its own clause: in force on publication
+- lei-7484-de-1986: from 1986-06-10, its own clause: in force on publication
+- lei-7485-de-1986: from 1986-06-10, its own clause: in force on publication
+- lei-7486-de-1986: from 1986-06-10, its own clause: in force on publication
+- lei-7487-de-1986: from 1986-06-11, its own clause: in force on publication
+- lei-7488-de-1986: from 1986-06-12, its own clause: in force on publication
+- lei-7489-de-1986: from 1986-06-12, its own clause: in force on publication
+- lei-7490-de-1986: from 1986-06-13, its own clause: in force on publication
+- lei-7493-de-1986: from 1986-06-18, its own clause: in force on publication
+- lei-7494-de-1986: from 1986-06-18, its own clause: in force on publication
+- lei-7497-de-1986: from 1986-06-25, its own clause: in force on publication
+- lei-7499-de-1986: from 1986-06-26, its own clause: in force on publication
+- lei-7503-de-1986: from 1986-07-03, its own clause: in force on publication
+- lei-7504-de-1986: from 1986-07-03, its own clause: in force on publication
+- lei-7508-de-1986: from 1986-07-07, its own clause: in force on publication
+- lei-7509-de-1986: from 1986-07-07, its own clause: in force on publication
+- lei-7510-de-1986: from 1986-07-07, its own clause: in force on publication
+- lei-7512-de-1986: from 1986-07-08, its own clause: in force on publication
+- lei-7513-de-1986: from 1986-07-10, its own clause: in force on publication
+- lei-7515-de-1986: from 1986-07-11, its own clause: in force on publication
+- lei-7516-de-1986: from 1986-07-14, its own clause: in force on publication
+- lei-7517-de-1986: from 1986-07-15, its own clause: in force on publication
+- lei-7518-de-1986: from 1986-07-15, its own clause: in force on publication
+- lei-7519-de-1986: from 1986-07-15, its own clause: in force on publication
+- lei-7521-de-1986: from 1986-07-16, its own clause: in force on publication
+- lei-7522-de-1986: from 1986-07-18, its own clause: in force on publication
+- lei-7524-de-1986: from 1986-07-18, its own clause: in force on publication
+- lei-7526-de-1986: from 1986-07-23, its own clause: in force on publication
+- lei-7527-de-1986: from 1986-08-19, its own clause: in force on publication
+- lei-7532-de-1986: from 1986-09-02, its own clause: in force on publication
+- lei-7533-de-1986: from 1986-09-03, its own clause: in force on publication
+- lei-7535-de-1986: from 1986-09-10, its own clause: in force on publication
+- lei-7536-de-1986: from 1990-04-13, the in-force day of Lei 8.028/1990, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1990-04-13))
+- lei-7537-de-1986: from 1986-09-03, its own clause: in force on publication
+- lei-7539-de-1986: from 1986-09-29, its own clause: in force on publication
+- lei-7540-de-1986: from 1986-09-29, its own clause: in force on publication
+- lei-7541-de-1986: from 1986-09-29, its own clause: in force on publication
+- lei-7542-de-1986: from 2000-12-28, the in-force day of Lei 10.166/2000, the latest among the acts its notes name (its DOU day 2000-12-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 10.166/2000 (DOU 2000-12-28)
+- lei-7543-de-1986: from 1986-10-03, its own clause: in force on publication
+- lei-7551-de-1986: from 1986-12-15, its own clause: in force on publication
+- lei-7552-de-1986: from 1986-12-16, its own clause: in force on publication
+- lei-7554-de-1986: from 1986-12-17, its own clause: in force on publication
+- lei-7555-de-1986: from 1986-12-23, its own clause: in force on publication
+- lei-7556-de-1986: from 1986-12-23, its own clause: in force on publication
+- lei-7557-de-1986: from 1986-12-23, its own clause: in force on publication
+- lei-7562-de-1986: from 1987-11-16, the in-force day of Lei 7.630/1987, the latest among the acts its notes name (its DOU day 1987-11-16: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.630/1987 (DOU 1987-11-16)
+- lei-7563-de-1986: from 1986-12-23, its own clause: in force on publication
+- lei-7564-de-1986: from 1987-02-06, no in-force clause of its own: LINDB art. 1, its DOU day (1986-12-23) + 45 days
+- lei-7566-de-1986: from 1986-12-30, its own clause: in force on publication
+- lei-7567-de-1986: from 1986-12-23, its own clause: in force on publication
+- lei-7569-de-1986: from 1986-12-23, its own clause: in force on publication
+- lei-7570-de-1986: from 1986-12-30, its own clause: in force on publication
+- lei-7571-de-1986: from 1986-12-30, its own clause: in force on publication
+- lei-7573-de-1986: from 2015-11-25, the in-force day of Lei 13.194/2015, the latest among the acts its notes name (its DOU day 2015-11-25: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 13.194/2015 (DOU 2015-11-25)
+- lei-7575-de-1986: from 1986-12-30, its own clause: in force on publication
+- lei-7577-de-1986: from 1986-12-30, its own clause: in force on publication
+- lei-7580-de-1986: from 1986-12-30, its own clause: in force on publication
+- lei-7581-de-1986: from 1986-12-30, its own clause: in force on publication
+- lei-7582-de-1987: from 1987-01-07, its own clause: in force on publication
+- lei-7583-de-1987: from 1987-01-07, its own clause: in force on publication
+- lei-7584-de-1987: from 1987-01-07, its own clause: in force on publication
+- lei-7587-de-1987: from 1987-01-09, its own clause: in force on publication
+- lei-7588-de-1987: from 1987-01-13, its own clause: in force on publication
+- lei-7589-de-1987: from 1987-01-19, its own clause: in force on publication
+- lei-7593-de-1987: from 1987-04-06, its own clause: in force on publication
+- lei-7595-de-1987: from 1987-04-09, its own clause: in force on publication
+- lei-7597-de-1987: from 1987-04-15, its own clause: in force on publication
+- lei-7598-de-1987: from 1987-04-13, its own clause: in force on publication
+- lei-7599-de-1987: from 1987-04-18, its own clause: in force on publication
+- lei-7600-de-1987: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- lei-7603-de-1987: from 1987-05-21, its own clause: in force on publication
+- lei-7604-de-1987: from 1987-05-27, its own clause: in force on publication
+- lei-7605-de-1987: from 1987-07-13, no in-force clause of its own: LINDB art. 1, its DOU day (1987-05-29) + 45 days
+- lei-7606-de-1987: from 1987-05-29, its own clause: in force on publication
+- lei-7607-de-1987: from 1987-05-29, its own clause: in force on publication
+- lei-7608-de-1987: from 1987-07-02, its own clause: in force on publication
+- lei-7610-de-1987: from 1987-07-07, its own clause: in force on publication
+- lei-7614-de-1987: from 1987-07-15, its own clause: in force on publication
+- lei-7615-de-1987: from 1987-07-17, its own clause: in force on publication
+- lei-7617-de-1987: from 1987-09-14, its own clause: in force on publication
+- lei-7621-de-1987: from 1987-10-02, its own clause: in force on publication
+- lei-7623-de-1987: from 1987-10-13, its own clause: in force on publication
+- lei-7624-de-1987: from 1987-11-06, its own clause: in force on publication
+- lei-7625-de-1987: from 1987-12-26, no in-force clause of its own: LINDB art. 1, its DOU day (1987-11-11) + 45 days
+- lei-7626-de-1987: from 1987-11-11, its own clause: in force on publication
+- lei-7627-de-1987: from 1987-11-11, its own clause: in force on publication
+- lei-7628-de-1987: from 1987-11-16, its own clause: in force on publication
+- lei-7629-de-1987: from 1987-11-13, its own clause: in force on publication
+- lei-7630-de-1987: from 1987-11-16, its own clause: in force on publication
+- lei-7631-de-1987: from 1987-11-18, its own clause: in force on publication
+- lei-7635-de-1987: from 1987-12-15, its own clause: in force on publication
+- lei-7636-de-1987: from 1987-10-01, its own clause: in force on publication
+- lei-7637-de-1987: from 1987-10-01, its own clause: in force on publication
+- lei-7638-de-1987: from 1987-12-18, its own clause: in force on publication
+- lei-7639-de-1987: from 1987-12-18, its own clause: in force on publication
+- lei-7640-de-1987: from 1987-12-18, its own clause: in force on publication
+- lei-7641-de-1987: from 1987-12-18, its own clause: in force on publication
+- lei-7642-de-1987: from 1987-12-21, its own clause: in force on publication
+- lei-7643-de-1987: from 1987-12-21, its own clause: in force on publication
+- lei-7644-de-1987: from 1987-12-21, its own clause: in force on publication
+- lei-7645-de-1987: from 1987-12-21, its own clause: in force on publication
+- lei-7648-de-1988: from 1988-01-22, its own clause: in force on publication
+- lei-7651-de-1988: from 1988-02-05, its own clause: in force on publication
+- lei-7660-de-1988: from 1988-05-11, its own clause: in force on publication
+- lei-7667-de-1988: from 1988-08-23, its own clause: in force on publication
+- lei-7669-de-1988: from 1988-08-25, its own clause: in force on publication
+- lei-7673-de-1988: from 1988-10-03, its own clause: in force on publication
+- lei-7674-de-1988: from 1999-05-19, the in-force day of Lei 9.798/1999, the latest among the acts its notes name (its DOU day 1999-05-19: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 9.798/1999 (DOU 1999-05-19)
+- lei-7675-de-1988: from 1988-10-07, its own clause: in force on publication
+- lei-7676-de-1988: from 1988-10-07, its own clause: in force on publication
+- lei-7683-de-1988: from 1988-12-05, its own clause: in force on publication
+- lei-7717-de-1989: from 1989-01-09, its own clause: in force on publication
+- lei-7718-de-1989: from 1989-01-09, its own clause: in force on publication
+- lei-7719-de-1989: from 1989-01-09, its own clause: in force on publication
+- lei-7720-de-1989: from 1989-01-09, its own clause: in force on publication
+- lei-7721-de-1989: from 1989-01-09, its own clause: in force on publication
+- Part 98-current-009: 500 acts with their current text only, each one version, credited to Planalto as the oldest version available (first_law null). The text is the page as Planalto prints it now, with struck wordings and the notes beside them left out; headings are kept in the titulos unit as the history parts do.
+- Each version starts on the in-force day of the last change the text itself shows: the latest in-force day among the acts its notes name as changing it (Redação dada, Incluído, Revogado, Acrescido, Renumerado, Suprimido), each by the rule the history parts use: the act's own vigência clause, else LINDB art. 1 (publication + 45 days), and a Medida Provisória from its publication (CF art. 62). Where an act's clause was not read, its DOU day (from Planalto's index pages or the corpus's law records) is used and the act's line below names it. An act with no such note starts on its own in-force day by the same rule. Acts whose notes name decrees, rulings, Emendas, a staged in-force clause or the 2025-2026 tax reform (Leis Complementares 214/2025 and 227/2026) are left for their histories.
+- An act revoked as a whole (the revoking act named at the head of its page) has the text as last in force, then a second version that empties it, credited to the revoking act and dated by that act's in-force day by the same rule; its line below names it.
+- Earlier wordings are not shown here; their histories are built afterwards, appended behind these versions.
+- decreto-lei-1731-de-1979: from 1979-12-20, its own clause: in force on publication
+- decreto-lei-1732-de-1979: from 1981-02-10, the in-force day of Decreto-Lei 1.853/1981, the latest among the acts its notes name (its DOU day 1981-02-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.853/1981 (DOU 1981-02-10)
+- decreto-lei-1733-de-1979: from 1979-12-20, its own clause: in force on publication
+- decreto-lei-1734-de-1979: from 2001-08-27, the in-force day of Medida Provisória 2.156-5/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- decreto-lei-1736-de-1979: from 1986-07-24, the in-force day of Decreto-Lei 2.287/1986, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1986-07-24))
+- decreto-lei-1743-de-1979: from 1979-12-28, its own clause: in force on publication
+- decreto-lei-1746-de-1979: from 1979-12-05, the in-force day of Lei 6.732/1979, the latest among the acts its notes name (its DOU day 1979-12-05: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.732/1979 (DOU 1979-12-05)
+- decreto-lei-1749-de-1979: from 1979-12-28, its own clause: in force on publication
+- decreto-lei-1752-de-1979: from 1979-12-31, its own clause: in force on publication
+- decreto-lei-1754-de-1979: from 1979-12-31, its own clause: in force on publication
+- decreto-lei-1755-de-1979: from 1986-12-24, the in-force day of Decreto-Lei 2.312/1986, the latest among the acts its notes name (its DOU day 1986-12-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.312/1986 (DOU 1986-12-24)
+- decreto-lei-1756-de-1979: from 1979-12-31, its own clause: in force on publication
+- decreto-lei-1761-de-1980: from 1980-01-08, its own clause: in force on publication
+- decreto-lei-1762-de-1980: from 1980-01-08, its own clause: in force on publication
+- decreto-lei-1763-de-1980: from 1980-01-17, its own clause: in force on publication
+- decreto-lei-1766-de-1980: from 1980-01-18, its own clause: in force on publication
+- decreto-lei-1769-de-1980: from 1980-02-14, its own clause: in force on publication
+- decreto-lei-1770-de-1980: from 1980-02-20, its own clause: in force on publication
+- decreto-lei-1771-de-1980: from 1980-02-21, its own clause: in force on publication
+- decreto-lei-1772-de-1980: from 1980-02-26, its own clause: in force on publication
+- decreto-lei-1773-de-1980: from 1980-03-04, its own clause: in force on publication
+- decreto-lei-1774-de-1980: from 1980-03-06, its own clause: in force on publication
+- decreto-lei-1776-de-1980: from 1985-07-03, the in-force day of Lei 7.334/1985, the latest among the acts its notes name (its DOU day 1985-07-03: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.334/1985 (DOU 1985-07-03)
+- decreto-lei-1780-de-1980: from 1980-04-15, its own clause: in force on publication
+- decreto-lei-1781-de-1980: from 1980-04-17, its own clause: in force on publication
+- decreto-lei-1783-de-1980: from 2011-12-09, the in-force day of Lei 12.543/2011, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2011-12-09)); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.844/1980 (DOU 1980-12-31), Decreto-Lei 2.471/1988 (DOU 1988-09-02)
+- decreto-lei-1784-de-1980: from 1980-04-29, its own clause: in force on publication
+- decreto-lei-1787-de-1980: from 1980-05-27, its own clause: in force on publication
+- decreto-lei-1789-de-1980: from 1980-05-29, its own clause: in force on publication
+- decreto-lei-1790-de-1980: from 1980-12-30, the in-force day of Decreto-Lei 1.841/1980, the latest among the acts its notes name (its DOU day 1980-12-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.841/1980 (DOU 1980-12-30)
+- decreto-lei-1791-de-1980: from 1980-06-12, its own clause: in force on publication
+- decreto-lei-1792-de-1980: from 1980-06-18, its own clause: in force on publication
+- decreto-lei-1793-de-1980: from 1988-09-02, the in-force day of Decreto-Lei 2.471/1988, the latest among the acts its notes name (its DOU day 1988-09-02: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.471/1988 (DOU 1988-09-02)
+- decreto-lei-1794-de-1980: from 1980-06-24, its own clause: in force on publication
+- decreto-lei-1795-de-1980: from 1980-07-09, its own clause: in force on publication
+- decreto-lei-1796-de-1980: from 1980-07-10, its own clause: in force on publication
+- decreto-lei-1797-de-1980: from 1980-07-10, its own clause: in force on publication
+- decreto-lei-1799-de-1980: from 1980-08-06, its own clause: in force on publication
+- decreto-lei-1800-de-1980: from 1980-08-19, its own clause: in force on publication
+- decreto-lei-1801-de-1980: from 1987-04-15, the in-force day of Lei 7.597/1987, the latest among the acts its notes name (its DOU day 1987-04-15: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.842/1980 (DOU 1980-12-30), Decreto-Lei 2.035/1983 (DOU 1983-06-22), Decreto-Lei 2.055/1983 (DOU 1983-08-19), Lei 7.597/1987 (DOU 1987-04-15)
+- decreto-lei-1803-de-1980: from 1980-09-04, its own clause: in force on publication
+- decreto-lei-1805-de-1980: from 1987-12-15, the in-force day of Lei 7.635/1987, the latest among the acts its notes name (its DOU day 1987-12-15: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.833/1980 (DOU 1980-12-24), Decreto-Lei 2.312/1986 (DOU 1986-12-24), Lei 7.635/1987 (DOU 1987-12-15)
+- decreto-lei-1807-de-1980: from 1980-10-08, its own clause: in force on publication
+- decreto-lei-1812-de-1980: from 1980-11-12, its own clause: in force on publication
+- decreto-lei-1816-de-1980: from 1983-06-30, the in-force day of Decreto-Lei 2.039/1983, the latest among the acts its notes name (its DOU day 1983-06-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.039/1983 (DOU 1983-06-30), Lei 6.944/1981 (DOU 1981-09-16)
+- decreto-lei-1817-de-1980: from 1980-12-12, its own clause: in force on publication
+- decreto-lei-1818-de-1980: from 1980-12-12, its own clause: in force on publication
+- decreto-lei-1819-de-1980: from 1980-12-12, its own clause: in force on publication
+- decreto-lei-1820-de-1980: from 1981-05-28, the in-force day of Decreto-Lei 1.873/1981, the latest among the acts its notes name (its DOU day 1981-05-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.873/1981 (DOU 1981-05-28)
+- decreto-lei-1822-de-1980: from 1980-12-17, its own clause: in force on publication
+- decreto-lei-1823-de-1980: from 1980-12-19, its own clause: in force on publication
+- decreto-lei-1825-de-1980: from 1980-12-23, its own clause: in force on publication
+- decreto-lei-1831-de-1980: from 1981-09-04, the in-force day of Decreto-Lei 1.883/1981, the latest among the acts its notes name (its DOU day 1981-09-04: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.883/1981 (DOU 1981-09-04)
+- decreto-lei-1833-de-1980: from 1980-12-24, its own clause: in force on publication
+- decreto-lei-1841-de-1980: from 1980-12-30, its own clause: in force on publication; revoked as a whole by Decreto-Lei 2.021/1983 from 1983-05-19 (its DOU day 1983-05-19: its page is not among the pinned pages, so its own clause was not read)
+- decreto-lei-1842-de-1980: from 1980-12-30, its own clause: in force on publication
+- decreto-lei-1843-de-1980: from 1980-12-30, its own clause: in force on publication
+- decreto-lei-1844-de-1980: from 1980-12-31, its own clause: in force on publication
+- decreto-lei-1845-de-1980: from 1980-12-31, its own clause: in force on publication
+- decreto-lei-1846-de-1980: from 1980-12-31, its own clause: in force on publication
+- decreto-lei-1847-de-1980: from 1980-12-31, its own clause: in force on publication
+- decreto-lei-1850-de-1981: from 1981-01-16, its own clause: in force on publication
+- decreto-lei-1851-de-1981: from 1981-01-29, its own clause: in force on publication
+- decreto-lei-1852-de-1981: from 1981-01-29, its own clause: in force on publication
+- decreto-lei-1853-de-1981: from 1981-02-10, its own clause: in force on publication
+- decreto-lei-1854-de-1981: from 1981-02-10, its own clause: in force on publication
+- decreto-lei-1855-de-1981: from 1981-02-11, its own clause: in force on publication
+- decreto-lei-1856-de-1981: from 1981-02-11, its own clause: in force on publication
+- decreto-lei-1858-de-1981: from 1981-02-17, its own clause: in force on publication
+- decreto-lei-1859-de-1981: from 1981-02-19, its own clause: in force on publication
+- decreto-lei-1861-de-1981: from 1986-12-31, the in-force day of Decreto-Lei 2.318/1986, the latest among the acts its notes name (its DOU day 1986-12-31: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.867/1981 (DOU 1981-03-10), Decreto-Lei 1.943/1982 (DOU 1982-06-02), Decreto-Lei 2.318/1986 (DOU 1986-12-31)
+- decreto-lei-1862-de-1981: from 1981-02-26, its own clause: in force on publication
+- decreto-lei-1863-de-1981: from 1980-05-14, the in-force day of Decreto-Lei 1.785/1980, the latest among the acts its notes name (its DOU day 1980-05-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.785/1980 (DOU 1980-05-14)
+- decreto-lei-1864-de-1981: from 1981-02-27, its own clause: in force on publication
+- decreto-lei-1865-de-1981: from 1981-02-27, its own clause: in force on publication
+- decreto-lei-1866-de-1981: from 1982-04-28, the in-force day of Decreto-Lei 1.937/1982, the latest among the acts its notes name (its DOU day 1982-04-28: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.937/1982 (DOU 1982-04-28)
+- decreto-lei-1870-de-1981: from 1981-05-07, its own clause: in force on publication
+- decreto-lei-1873-de-1981: from 1981-05-28, its own clause: in force on publication
+- decreto-lei-1874-de-1981: from 1981-12-09, the in-force day of Decreto-Lei 1.888/1981, the latest among the acts its notes name (its DOU day 1981-12-09: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.888/1981 (DOU 1981-12-09)
+- decreto-lei-1877-de-1981: from 1981-07-16, its own clause: in force on publication
+- decreto-lei-1878-de-1981: from 1981-07-24, its own clause: in force on publication
+- decreto-lei-1879-de-1981: from 1981-07-24, its own clause: in force on publication
+- decreto-lei-1882-de-1981: from 1981-09-02, its own clause: in force on publication
+- decreto-lei-1883-de-1981: from 1981-09-04, its own clause: in force on publication
+- decreto-lei-1886-de-1981: from 1981-09-27, its own clause: in force on publication
+- decreto-lei-1887-de-1981: from 1981-10-30, its own clause: in force on publication
+- decreto-lei-1888-de-1981: from 1981-12-09, its own clause: in force on publication
+- decreto-lei-1891-de-1981: from 1981-12-16, its own clause: in force on publication
+- decreto-lei-1892-de-1981: from 1987-06-30, the in-force day of Decreto-Lei 2.341/1987, the latest among the acts its notes name (its DOU day 1987-06-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.341/1987 (DOU 1987-06-30)
+- decreto-lei-1893-de-1981: from 1982-07-15, the in-force day of Decreto-Lei 1.951/1982, the latest among the acts its notes name (its DOU day 1982-07-15: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.931/1982 (DOU 1982-03-22), Decreto-Lei 1.951/1982 (DOU 1982-07-15)
+- decreto-lei-1894-de-1981: from 1989-03-20, the in-force day of Lei 7.739/1989, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1989-03-20))
+- decreto-lei-1898-de-1981: from 1981-12-22, its own clause: in force on publication
+- decreto-lei-1904-de-1981: from 1981-12-24, its own clause: in force on publication
+- decreto-lei-1909-de-1981: from 1981-12-29, its own clause: in force on publication
+- decreto-lei-1911-de-1981: from 1981-12-30, its own clause: in force on publication
+- decreto-lei-1915-de-1981: from 1981-12-30, its own clause: in force on publication
+- decreto-lei-1916-de-1982: from 1982-01-11, its own clause: in force on publication
+- decreto-lei-1917-de-1982: from 1982-01-13, its own clause: in force on publication
+- decreto-lei-1918-de-1982: from 1982-01-15, its own clause: in force on publication
+- decreto-lei-1919-de-1982: from 1982-01-15, its own clause: in force on publication
+- decreto-lei-1920-de-1982: from 1982-01-15, its own clause: in force on publication
+- decreto-lei-1921-de-1982: from 1982-01-15, its own clause: in force on publication
+- decreto-lei-1922-de-1982: from 1982-01-19, its own clause: in force on publication
+- decreto-lei-1928-de-1982: from 1984-10-30, the in-force day of Decreto-Lei 2.169/1984, the latest among the acts its notes name (its DOU day 1984-10-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.169/1984 (DOU 1984-10-30)
+- decreto-lei-1929-de-1982: from 1982-03-09, its own clause: in force on publication
+- decreto-lei-1930-de-1982: from 1982-03-19, its own clause: in force on publication
+- decreto-lei-1931-de-1982: from 1982-03-22, its own clause: in force on publication
+- decreto-lei-1932-de-1982: from 1982-03-31, its own clause: in force on publication
+- decreto-lei-1935-de-1982: from 1982-04-22, its own clause: in force on publication
+- decreto-lei-1936-de-1982: from 1982-04-27, its own clause: in force on publication
+- decreto-lei-1937-de-1982: from 1982-04-28, its own clause: in force on publication
+- decreto-lei-1939-de-1982: from 1982-07-05, no in-force clause of its own: LINDB art. 1, its DOU day (1982-05-21) + 45 days
+- decreto-lei-1943-de-1982: from 1982-06-02, its own clause: in force on publication
+- decreto-lei-1945-de-1982: from 1982-06-23, its own clause: in force on publication
+- decreto-lei-1947-de-1982: from 1971-10-11, the in-force day of Lei 5.710/1971, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1971-10-11))
+- decreto-lei-1948-de-1982: from 1982-06-30, its own clause: in force on publication
+- decreto-lei-1949-de-1982: from 1982-07-15, its own clause: in force on publication
+- decreto-lei-1951-de-1982: from 1982-07-15, its own clause: in force on publication
+- decreto-lei-1952-de-1982: from 1982-07-16, its own clause: in force on publication
+- decreto-lei-1954-de-1982: from 1982-08-23, its own clause: in force on publication
+- decreto-lei-1955-de-1982: from 1982-08-25, its own clause: in force on publication
+- decreto-lei-1956-de-1982: from 1982-08-31, its own clause: in force on publication
+- decreto-lei-1958-de-1982: from 1983-06-30, the in-force day of Decreto-Lei 2.038/1983, the latest among the acts its notes name (its DOU day 1983-06-30: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.038/1983 (DOU 1983-06-30)
+- decreto-lei-1959-de-1982: from 1982-09-15, its own clause: in force on publication
+- decreto-lei-1960-de-1982: from 1982-09-24, its own clause: in force on publication
+- decreto-lei-1961-de-1982: from 1982-09-24, its own clause: in force on publication
+- decreto-lei-1962-de-1982: from 1982-10-04, its own clause: in force on publication
+- decreto-lei-1963-de-1982: from 1982-10-15, its own clause: in force on publication
+- decreto-lei-1964-de-1982: from 1982-10-19, its own clause: in force on publication
+- decreto-lei-1965-de-1982: from 1982-10-26, its own clause: in force on publication
+- decreto-lei-1967-de-1982: from 1983-10-28, the in-force day of Decreto-Lei 2.065/1983, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1983-10-28))
+- decreto-lei-1968-de-1982: from 1984-06-14, the in-force day of Decreto-Lei 2.124/1984, the latest among the acts its notes name (its DOU day 1984-06-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.124/1984 (DOU 1984-06-14)
+- decreto-lei-1969-de-1982: from 1982-11-26, its own clause: in force on publication
+- decreto-lei-1970-de-1982: from 1982-11-30, its own clause: in force on publication
+- decreto-lei-1974-de-1982: from 1982-12-10, its own clause: in force on publication
+- decreto-lei-1975-de-1982: from 1982-12-21, its own clause: in force on publication
+- decreto-lei-1976-de-1982: from 1982-12-21, its own clause: in force on publication
+- decreto-lei-1977-de-1982: from 1982-12-21, its own clause: in force on publication
+- decreto-lei-1978-de-1982: from 1982-12-22, its own clause: in force on publication
+- decreto-lei-1979-de-1982: from 1982-12-23, its own clause: in force on publication; revoked as a whole by Decreto-Lei 2.303/1986 from 1986-11-24 (own clause 'entra em vigor na data de sua publicação' (published 1986-11-24))
+- decreto-lei-1981-de-1982: from 1982-12-28, its own clause: in force on publication
+- decreto-lei-1982-de-1982: from 1982-12-29, its own clause: in force on publication
+- decreto-lei-1983-de-1982: from 1982-12-29, its own clause: in force on publication
+- decreto-lei-1988-de-1982: from 1982-12-29, its own clause: in force on publication
+- decreto-lei-1989-de-1982: from 1980-01-01, the in-force day of Lei 6.746/1979, the latest among the acts its notes name (own clause names the day: 'entrará em vigor em 1º de janeiro de 1980')
+- decreto-lei-1990-de-1982: from 1982-12-30, its own clause: in force on publication
+- decreto-lei-1994-de-1982: from 1982-12-30, its own clause: in force on publication
+- decreto-lei-1995-de-1982: from 1982-12-30, its own clause: in force on publication
+- decreto-lei-2001-de-1983: from 1983-01-05, its own clause: in force on publication
+- decreto-lei-2002-de-1983: from 1983-01-05, its own clause: in force on publication
+- decreto-lei-2003-de-1983: from 1983-01-07, its own clause: in force on publication
+- decreto-lei-2004-de-1983: from 1983-01-07, its own clause: in force on publication
+- decreto-lei-2005-de-1983: from 1983-01-07, its own clause: in force on publication
+- decreto-lei-2006-de-1983: from 1983-01-07, its own clause: in force on publication
+- decreto-lei-2007-de-1983: from 1983-01-12, its own clause: in force on publication
+- decreto-lei-2009-de-1983: from 1983-01-12, its own clause: in force on publication
+- decreto-lei-2010-de-1983: from 1983-01-13, its own clause: in force on publication
+- decreto-lei-2011-de-1983: from 1983-01-19, its own clause: in force on publication
+- decreto-lei-2013-de-1983: from 1983-01-26, its own clause: in force on publication
+- decreto-lei-2014-de-1983: from 1983-10-28, the in-force day of Decreto-Lei 2.065/1983, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1983-10-28))
+- decreto-lei-2015-de-1983: from 1983-02-25, its own clause: in force on publication
+- decreto-lei-2016-de-1983: from 1983-03-04, its own clause: in force on publication
+- decreto-lei-2017-de-1983: from 1983-03-23, its own clause: in force on publication
+- decreto-lei-2018-de-1983: from 1983-03-23, its own clause: in force on publication
+- decreto-lei-2020-de-1983: from 1983-04-14, its own clause: in force on publication
+- decreto-lei-2021-de-1983: from 1983-05-19, its own clause: in force on publication
+- decreto-lei-2022-de-1983: from 1983-05-19, its own clause: in force on publication
+- decreto-lei-2023-de-1983: from 1983-05-19, its own clause: in force on publication
+- decreto-lei-2027-de-1983: from 1987-12-22, the in-force day of Decreto-Lei 2.394/1987, the latest among the acts its notes name (its DOU day 1987-12-22: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.394/1987 (DOU 1987-12-22)
+- decreto-lei-2028-de-1983: from 1983-06-10, its own clause: in force on publication
+- decreto-lei-2029-de-1983: from 1983-06-10, its own clause: in force on publication
+- decreto-lei-2030-de-1983: from 1983-06-10, its own clause: in force on publication
+- decreto-lei-2031-de-1983: from 1983-06-10, its own clause: in force on publication
+- decreto-lei-2033-de-1983: from 1983-06-16, its own clause: in force on publication
+- decreto-lei-2034-de-1983: from 1983-06-21, its own clause: in force on publication
+- decreto-lei-2035-de-1983: from 1984-08-15, the in-force day of Decreto-Lei 2.157/1984, the latest among the acts its notes name (its DOU day 1984-08-15: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.055/1983 (DOU 1983-08-19), Decreto-Lei 2.157/1984 (DOU 1984-08-15)
+- decreto-lei-2036-de-1983: from 1983-06-29, its own clause: in force on publication
+- decreto-lei-2038-de-1983: from 1983-06-30, its own clause: in force on publication
+- decreto-lei-2043-de-1983: from 1983-07-08, its own clause: in force on publication
+- decreto-lei-2044-de-1983: from 1983-07-08, its own clause: in force on publication
+- decreto-lei-2046-de-1983: from 1983-07-21, its own clause: in force on publication
+- decreto-lei-2048-de-1983: from 1983-07-27, its own clause: in force on publication
+- decreto-lei-2050-de-1983: from 1983-08-03, its own clause: in force on publication
+- decreto-lei-2051-de-1983: from 1983-08-03, its own clause: in force on publication
+- decreto-lei-2053-de-1983: from 1983-08-17, its own clause: in force on publication
+- decreto-lei-2054-de-1983: from 1983-08-17, its own clause: in force on publication
+- decreto-lei-2055-de-1983: from 1983-08-19, its own clause: in force on publication
+- decreto-lei-2057-de-1983: from 1975-12-03, the in-force day of Lei 6.276/1975, the latest among the acts its notes name (its DOU day 1975-12-03: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.276/1975 (DOU 1975-12-03)
+- decreto-lei-2058-de-1983: from 1983-08-24, its own clause: in force on publication
+- decreto-lei-2059-de-1983: from 1983-09-02, its own clause: in force on publication
+- decreto-lei-2060-de-1983: from 2021-12-30, the in-force day of Medida Provisória 1.089/2021, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- decreto-lei-2061-de-1983: from 1985-02-06, the in-force day of Decreto-Lei 2.241/1985, the latest among the acts its notes name (its DOU day 1985-02-06: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.241/1985 (DOU 1985-02-06)
+- decreto-lei-2062-de-1983: from 1983-11-19, no in-force clause of its own: LINDB art. 1, its DOU day (1983-10-05) + 45 days
+- decreto-lei-2063-de-1983: from 1983-10-07, its own clause: in force on publication
+- decreto-lei-2066-de-1983: from 1983-10-27, its own clause: in force on publication
+- decreto-lei-2067-de-1983: from 1983-11-10, its own clause: in force on publication
+- decreto-lei-2068-de-1983: from 1977-11-18, the in-force day of Decreto-Lei 1.582/1977, the latest among the acts its notes name (its DOU day 1977-11-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 1.582/1977 (DOU 1977-11-18)
+- decreto-lei-2069-de-1983: from 1983-11-11, its own clause: in force on publication
+- decreto-lei-2070-de-1983: from 1983-12-15, its own clause: in force on publication
+- decreto-lei-2071-de-1983: from 1983-12-21, its own clause: in force on publication
+- decreto-lei-2073-de-1983: from 1983-12-21, its own clause: in force on publication
+- decreto-lei-2074-de-1983: from 1983-12-21, its own clause: in force on publication
+- decreto-lei-2080-de-1983: from 1983-12-21, its own clause: in force on publication
+- decreto-lei-2081-de-1983: from 1983-12-23, its own clause: in force on publication
+- decreto-lei-2087-de-1983: from 1983-12-21, its own clause: in force on publication; revoked as a whole by Decreto-Lei 2.113/1984 from 1984-04-19 (its DOU day 1984-04-19: its page is not among the pinned pages, so its own clause was not read)
+- decreto-lei-2088-de-1983: from 1983-12-21, its own clause: in force on publication
+- decreto-lei-2089-de-1983: from 2001-08-27, the in-force day of Medida Provisória 2.156-5/2001, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- decreto-lei-2100-de-1983: from 1983-12-29, its own clause: in force on publication
+- decreto-lei-2102-de-1983: from 1983-12-29, its own clause: in force on publication
+- decreto-lei-2103-de-1983: from 1984-01-02, its own clause: in force on publication
+- decreto-lei-2104-de-1984: from 1984-01-05, its own clause: in force on publication
+- decreto-lei-2105-de-1984: from 1984-01-25, its own clause: in force on publication
+- decreto-lei-2106-de-1984: from 1984-02-07, its own clause: in force on publication
+- decreto-lei-2110-de-1984: from 1984-04-05, its own clause: in force on publication
+- decreto-lei-2111-de-1984: from 1984-04-05, its own clause: in force on publication
+- decreto-lei-2112-de-1984: from 1984-04-18, its own clause: in force on publication
+- decreto-lei-2113-de-1984: from 1984-04-19, its own clause: in force on publication
+- decreto-lei-2115-de-1984: from 1984-04-26, its own clause: in force on publication
+- decreto-lei-2116-de-1984: from 1984-05-08, its own clause: in force on publication
+- decreto-lei-2117-de-1984: from 1984-05-08, its own clause: in force on publication
+- decreto-lei-2118-de-1984: from 1984-05-15, its own clause: in force on publication
+- decreto-lei-2119-de-1984: from 1984-05-15, its own clause: in force on publication
+- decreto-lei-2120-de-1984: from 1984-05-15, its own clause: in force on publication
+- decreto-lei-2121-de-1984: from 1984-06-06, the in-force day of Decreto-Lei 2.123/1984, the latest among the acts its notes name (its DOU day 1984-06-06: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.123/1984 (DOU 1984-06-06)
+- decreto-lei-2122-de-1984: from 1984-06-05, its own clause: in force on publication
+- lei-complementar-39-de-1980: from 1980-12-11, its own clause: in force on publication
+- lei-complementar-40-de-1981: from 1981-12-15, its own clause: in force on publication
+- lei-complementar-42-de-1982: from 1995-09-20, the in-force day of Lei 9.096/1995, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1995-09-20))
+- lei-complementar-44-de-1983: from 1983-12-09, its own clause: in force on publication
+- lei-complementar-45-de-1983: from 1985-12-20, the in-force day of Lei Complementar 50/1985, the latest among the acts its notes name (its DOU day 1985-12-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei Complementar 50/1985 (DOU 1985-12-20)
+- lei-6753-de-1979: from 1979-12-18, its own clause: in force on publication
+- lei-6754-de-1979: from 1979-12-18, its own clause: in force on publication
+- lei-6756-de-1979: from 1980-11-19, the in-force day of Lei 6.852/1980, the latest among the acts its notes name (its DOU day 1980-11-19: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 6.852/1980 (DOU 1980-11-19)
+- lei-6757-de-1979: from 1979-12-19, its own clause: in force on publication
+- lei-6758-de-1979: from 1979-12-19, its own clause: in force on publication
+- lei-6762-de-1979: from 1979-12-19, its own clause: in force on publication
+- lei-6763-de-1979: from 1979-12-19, its own clause: in force on publication
+- lei-6764-de-1979: from 1979-12-19, its own clause: in force on publication
+- lei-6765-de-1979: from 1979-12-19, its own clause: in force on publication
+- lei-6768-de-1979: from 1979-12-20, its own clause: in force on publication
+- lei-6769-de-1980: from 1980-03-20, its own clause: in force on publication
+- lei-6770-de-1980: from 1980-03-26, its own clause: in force on publication
+- lei-6771-de-1980: from 1980-03-28, its own clause: in force on publication
+- lei-6772-de-1980: from 1980-03-28, its own clause: in force on publication
+- lei-6773-de-1980: from 1980-04-08, its own clause: in force on publication
+- lei-6776-de-1980: from 1980-05-02, its own clause: in force on publication
+- lei-6778-de-1980: from 1980-05-13, its own clause: in force on publication
+- lei-6780-de-1980: from 1980-05-13, its own clause: in force on publication
+- lei-6782-de-1980: from 1987-07-24, the in-force day of Decreto-Lei 2.345/1987, the latest among the acts its notes name (its DOU day 1987-07-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.345/1987 (DOU 1987-07-24)
+- lei-6784-de-1980: from 1980-05-21, its own clause: in force on publication
+- lei-6785-de-1980: from 1980-05-27, its own clause: in force on publication
+- lei-6786-de-1980: from 1980-05-27, its own clause: in force on publication
+- lei-6787-de-1980: from 1980-05-27, its own clause: in force on publication
+- lei-6788-de-1980: from 1980-05-29, its own clause: in force on publication
+- lei-6790-de-1980: from 1980-05-30, its own clause: in force on publication
+- lei-6791-de-1980: from 2025-11-14, the in-force day of Lei 15.261/2025, the latest among the acts its notes name (its DOU day 2025-11-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 15.261/2025 (DOU 2025-11-14)
+- lei-6793-de-1980: from 1980-06-13, its own clause: in force on publication
+- lei-6795-de-1980: from 1980-06-13, its own clause: in force on publication
+- lei-6796-de-1980: from 1980-06-19, its own clause: in force on publication
+- lei-6798-de-1980: from 1980-06-24, its own clause: in force on publication
+- lei-6799-de-1980: from 1980-06-24, its own clause: in force on publication
+- lei-6801-de-1980: from 1980-06-26, its own clause: in force on publication
+- lei-6803-de-1980: from 1980-07-03, its own clause: in force on publication
+- lei-6804-de-1980: from 1980-07-08, its own clause: in force on publication
+- lei-6805-de-1980: from 1980-07-08, its own clause: in force on publication
+- lei-6808-de-1980: from 1980-07-08, its own clause: in force on publication
+- lei-6809-de-1980: from 1980-07-08, its own clause: in force on publication
+- lei-6810-de-1980: from 1980-07-08, its own clause: in force on publication
+- lei-6811-de-1980: from 1980-07-09, its own clause: in force on publication
+- lei-6812-de-1980: from 1980-07-10, its own clause: in force on publication
+- lei-6814-de-1980: from 1980-08-06, its own clause: in force on publication
+- lei-6816-de-1980: from 1980-08-26, its own clause: in force on publication
+- lei-6818-de-1980: from 1980-09-10, its own clause: in force on publication
+- lei-6821-de-1980: from 1980-09-18, its own clause: in force on publication
+- lei-6822-de-1980: from 1980-09-23, its own clause: in force on publication
+- lei-6826-de-1980: from 1980-09-23, its own clause: in force on publication
+- lei-6827-de-1980: from 1980-09-24, its own clause: in force on publication
+- lei-6829-de-1980: from 1980-09-24, its own clause: in force on publication
+- lei-6831-de-1980: from 1980-09-24, its own clause: in force on publication
+- lei-6835-de-1980: from 1980-10-15, its own clause: in force on publication
+- lei-6836-de-1980: from 1980-10-29, its own clause: in force on publication
+- lei-6840-de-1980: from 1980-11-04, its own clause: in force on publication
+- lei-6842-de-1980: from 1980-11-04, its own clause: in force on publication
+- lei-6846-de-1980: from 1980-11-13, its own clause: in force on publication
+- lei-6847-de-1980: from 1980-11-13, its own clause: in force on publication
+- lei-6848-de-1980: from 1980-11-13, its own clause: in force on publication
+- lei-6850-de-1980: from 1980-11-13, its own clause: in force on publication
+- lei-6851-de-1980: from 1980-11-18, its own clause: in force on publication
+- lei-6852-de-1980: from 1980-11-19, its own clause: in force on publication
+- lei-6854-de-1980: from 1980-11-19, its own clause: in force on publication
+- lei-6856-de-1980: from 1980-11-19, its own clause: in force on publication
+- lei-6857-de-1980: from 1980-11-20, its own clause: in force on publication
+- lei-6860-de-1980: from 1980-11-25, its own clause: in force on publication
+- lei-6861-de-1980: from 1980-11-27, its own clause: in force on publication
+- lei-6863-de-1980: from 1980-11-27, its own clause: in force on publication
+- lei-6865-de-1980: from 1980-12-02, its own clause: in force on publication
+- lei-6868-de-1980: from 1980-12-04, its own clause: in force on publication
+- lei-6870-de-1980: from 1980-12-04, its own clause: in force on publication
+- lei-6871-de-1980: from 1990-12-31, the in-force day of Lei 8.140/1990, the latest among the acts its notes name (its DOU day 1990-12-31: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 8.140/1990 (DOU 1990-12-31)
+- lei-6877-de-1980: from 1980-12-10, its own clause: in force on publication
+- lei-6878-de-1980: from 1980-12-10, its own clause: in force on publication
+- lei-6879-de-1980: from 1980-12-10, its own clause: in force on publication
+- lei-6881-de-1980: from 1980-12-11, its own clause: in force on publication
+- lei-6882-de-1980: from 1980-12-11, its own clause: in force on publication
+- lei-6883-de-1980: from 1980-12-11, its own clause: in force on publication
+- lei-6885-de-1980: from 1980-12-11, its own clause: in force on publication
+- lei-6886-de-1980: from 1980-12-11, its own clause: in force on publication
+- lei-6888-de-1980: from 2019-11-12, the in-force day of Medida Provisória 905/2019, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-6889-de-1980: from 1980-12-12, its own clause: in force on publication
+- lei-6890-de-1980: from 1980-12-12, its own clause: in force on publication
+- lei-6891-de-1980: from 1980-12-15, its own clause: in force on publication
+- lei-6894-de-1980: from 2024-12-24, the in-force day of Lei 15.070/2024, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 2024-12-24)); in-force day not read, so its DOU day is used, for: Lei 12.890/2013 (DOU 2013-12-11), Lei 6.934/1981 (DOU 1981-07-15)
+- lei-6895-de-1980: from 1980-12-18, its own clause: in force on publication
+- lei-6896-de-1981: from 1981-03-31, its own clause: in force on publication
+- lei-6897-de-1981: from 1981-03-31, its own clause: in force on publication
+- lei-6899-de-1981: from 1980-04-09, its own clause: in force on publication
+- lei-6900-de-1981: from 1981-04-15, its own clause: in force on publication
+- lei-6901-de-1981: from 1981-04-15, its own clause: in force on publication
+- lei-6902-de-1981: from 1981-04-28, its own clause: in force on publication
+- lei-6904-de-1981: from 1981-04-30, its own clause: in force on publication
+- lei-6906-de-1981: from 1981-05-22, its own clause: in force on publication
+- lei-6907-de-1981: from 1982-12-09, the in-force day of Lei 7.066/1982, the latest among the acts its notes name (its DOU day 1982-12-09: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.066/1982 (DOU 1982-12-09)
+- lei-6908-de-1981: from 1982-11-10, the in-force day of Lei 7.045/1982, the latest among the acts its notes name (its DOU day 1982-11-10: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.045/1982 (DOU 1982-11-10)
+- lei-6909-de-1981: from 1981-05-28, its own clause: in force on publication
+- lei-6910-de-1981: from 1981-05-28, its own clause: in force on publication
+- lei-6911-de-1981: from 1981-05-28, its own clause: in force on publication
+- lei-6912-de-1981: from 1981-05-28, its own clause: in force on publication
+- lei-6913-de-1981: from 1981-05-28, its own clause: in force on publication
+- lei-6918-de-1981: from 1981-06-03, its own clause: in force on publication
+- lei-6919-de-1981: from 1989-07-11, the in-force day of Lei 7.794/1989, the latest among the acts its notes name (its DOU day 1989-07-11: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.794/1989 (DOU 1989-07-11)
+- lei-6921-de-1981: from 1981-06-17, its own clause: in force on publication
+- lei-6922-de-1981: from 1981-06-19, its own clause: in force on publication
+- lei-6924-de-1981: from 1981-06-30, its own clause: in force on publication
+- lei-6925-de-1981: from 2009-02-11, the in-force day of Medida Provisória 458/2009, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62))
+- lei-6926-de-1981: from 1981-07-03, its own clause: in force on publication
+- lei-6931-de-1981: from 1981-07-08, its own clause: in force on publication
+- lei-6932-de-1981: from 2026-06-19, the in-force day of Medida Provisória 1.370/2026, the latest among the acts its notes name (a Medida Provisória has force of law from its publication (CF art. 62)); in-force day not read, so its DOU day is used, for: Lei 10.405/2002 (DOU 2002-01-10), Lei 11.381/2006 (DOU 2006-12-04), Lei 7.217/1984 (DOU 1984-09-20), Lei 7.601/1987 (DOU 1987-05-18), Lei 8.138/1990 (DOU 1990-12-31), Lei 8.725/1993 (DOU 1993-11-08)
+- lei-6933-de-1981: from 1981-07-15, its own clause: in force on publication
+- lei-6934-de-1981: from 1981-07-15, its own clause: in force on publication
+- lei-6935-de-1981: from 1981-07-15, its own clause: in force on publication
+- lei-6936-de-1981: from 1981-07-19, its own clause: in force on publication
+- lei-6941-de-1981: from 1981-09-16, its own clause: in force on publication
+- lei-6945-de-1981: from 1987-12-18, the in-force day of Lei 7.640/1987, the latest among the acts its notes name (its DOU day 1987-12-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.640/1987 (DOU 1987-12-18)
+- lei-6947-de-1981: from 1981-09-18, its own clause: in force on publication
+- lei-6948-de-1981: from 1981-09-29, its own clause: in force on publication
+- lei-6949-de-1981: from 1981-10-29, its own clause: in force on publication
+- lei-6951-de-1981: from 1981-11-10, its own clause: in force on publication
+- lei-6952-de-1981: from 1981-11-10, its own clause: in force on publication
+- lei-6953-de-1981: from 1981-11-19, its own clause: in force on publication
+- lei-6954-de-1981: from 1981-11-19, its own clause: in force on publication
+- lei-6955-de-1981: from 1981-11-19, its own clause: in force on publication
+- lei-6959-de-1981: from 1981-11-26, its own clause: in force on publication
+- lei-6960-de-1981: from 1981-11-26, its own clause: in force on publication
+- lei-6965-de-1981: from 1995-09-20, the in-force day of Lei 9.098/1995, the latest among the acts its notes name (its DOU day 1995-09-20: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 9.098/1995 (DOU 1995-09-20)
+- lei-6967-de-1981: from 1981-12-10, its own clause: in force on publication
+- lei-6968-de-1981: from 1981-12-10, its own clause: in force on publication
+- lei-6970-de-1981: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- lei-6972-de-1981: from 1981-12-15, its own clause: in force on publication
+- lei-6973-de-1981: from 1981-12-15, its own clause: in force on publication
+- lei-6974-de-1981: from 1981-12-15, its own clause: in force on publication
+- lei-6975-de-1981: from 1981-12-15, its own clause: in force on publication
+- lei-6976-de-1981: from 1981-12-15, its own clause: in force on publication
+- lei-6979-de-1982: from 1982-03-17, its own clause: in force on publication
+- lei-6980-de-1982: from 1982-03-30, its own clause: in force on publication
+- lei-6981-de-1982: from 1982-03-31, its own clause: in force on publication
+- lei-6982-de-1982: from 1982-04-14, its own clause: in force on publication
+- lei-6983-de-1982: from 1982-04-14, its own clause: in force on publication
+- lei-6984-de-1982: from 1982-04-14, its own clause: in force on publication
+- lei-6985-de-1982: from 1971-10-11, the in-force day of Lei 5.710/1971, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1971-10-11))
+- lei-6986-de-1982: from 1985-02-22, the in-force day of Decreto-Lei 2.246/1985, the latest among the acts its notes name (its DOU day 1985-02-22: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.202/1984 (DOU 1984-12-28), Decreto-Lei 2.246/1985 (DOU 1985-02-22)
+- lei-6987-de-1982: from 1969-09-30, the in-force day of Decreto-Lei 900/1969, the latest among the acts its notes name (own clause 'entra em vigor na data de sua publicação' (published 1969-09-30))
+- lei-6988-de-1982: from 1982-04-14, its own clause: in force on publication
+- lei-6990-de-1982: from 1982-05-20, its own clause: in force on publication
+- lei-6998-de-1982: from 1982-06-08, its own clause: in force on publication
+- lei-6999-de-1982: from 1982-06-08, its own clause: in force on publication
+- lei-7000-de-1982: from 1982-06-11, its own clause: in force on publication
+- lei-7001-de-1982: from 1982-06-15, its own clause: in force on publication
+- lei-7002-de-1982: from 1982-06-15, its own clause: in force on publication
+- lei-7003-de-1982: from 1982-06-25, its own clause: in force on publication
+- lei-7005-de-1982: from 1982-06-29, its own clause: in force on publication
+- lei-7007-de-1982: from 1982-06-30, its own clause: in force on publication
+- lei-7008-de-1982: from 1982-06-30, its own clause: in force on publication
+- lei-7009-de-1982: from 1982-07-02, its own clause: in force on publication
+- lei-7010-de-1982: from 1982-07-02, its own clause: in force on publication
+- lei-7011-de-1982: from 1982-07-09, its own clause: in force on publication
+- lei-7012-de-1982: from 1982-07-09, its own clause: in force on publication
+- lei-7013-de-1982: from 1982-07-09, its own clause: in force on publication
+- lei-7014-de-1982: from 1982-07-09, its own clause: in force on publication
+- lei-7015-de-1982: from 1982-07-19, its own clause: in force on publication
+- lei-7016-de-1982: from 1982-08-24, its own clause: in force on publication
+- lei-7017-de-1982: from 1982-08-31, its own clause: in force on publication
+- lei-7018-de-1982: from 1982-08-31, its own clause: in force on publication
+- lei-7019-de-1982: from 1974-01-01, the in-force day of Lei 5.925/1973, the latest among the acts its notes name (own clause names the day: 'entrará em vigor no dia 1º de janeiro de 1974')
+- lei-7020-de-1982: from 1982-09-02, its own clause: in force on publication
+- lei-7021-de-1982: from 1982-09-08, its own clause: in force on publication
+- lei-7025-de-1982: from 1982-09-10, its own clause: in force on publication
+- lei-7029-de-1982: from 1982-09-14, its own clause: in force on publication
+- lei-7033-de-1982: from 1982-10-06, its own clause: in force on publication
+- lei-7034-de-1982: from 1982-10-06, its own clause: in force on publication
+- lei-7035-de-1982: from 1982-10-06, its own clause: in force on publication
+- lei-7036-de-1982: from 1982-10-06, its own clause: in force on publication
+- lei-7039-de-1982: from 1982-10-14, its own clause: in force on publication
+- lei-7041-de-1982: from 1982-10-19, its own clause: in force on publication
+- lei-7042-de-1982: from 1982-10-19, its own clause: in force on publication
+- lei-7043-de-1982: from 1982-10-19, its own clause: in force on publication
+- lei-7045-de-1982: from 1982-11-10, its own clause: in force on publication
+- lei-7047-de-1982: from 1982-12-02, its own clause: in force on publication
+- lei-7049-de-1982: from 1982-12-02, its own clause: in force on publication
+- lei-7051-de-1982: from 1982-12-07, its own clause: in force on publication
+- lei-7059-de-1982: from 1982-12-07, its own clause: in force on publication
+- lei-7060-de-1982: from 1982-12-07, its own clause: in force on publication
+- lei-7061-de-1982: from 1982-12-07, its own clause: in force on publication
+- lei-7062-de-1982: from 1982-12-07, its own clause: in force on publication
+- lei-7063-de-1982: from 1982-12-07, its own clause: in force on publication
+- lei-7065-de-1982: from 1982-12-07, its own clause: in force on publication
+- lei-7066-de-1982: from 1982-12-09, its own clause: in force on publication
+- lei-7068-de-1982: from 1982-12-09, its own clause: in force on publication
+- lei-7069-de-1982: from 1985-07-05, the in-force day of Lei 7.335/1985, the latest among the acts its notes name (its DOU day 1985-07-05: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.045/1983 (DOU 1983-07-14), Lei 7.335/1985 (DOU 1985-07-05)
+- lei-7070-de-1982: from 2010-01-14, the in-force day of Lei 12.190/2010, the latest among the acts its notes name (its DOU day 2010-01-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.190/2010 (DOU 2010-01-14)
+- lei-7072-de-1982: from 1982-12-22, its own clause: in force on publication
+- lei-7073-de-1982: from 1982-12-22, its own clause: in force on publication
+- lei-7074-de-1982: from 1982-12-22, its own clause: in force on publication
+- lei-7075-de-1982: from 1982-12-22, its own clause: in force on publication
+- lei-7076-de-1982: from 1982-12-22, its own clause: in force on publication
+- lei-7077-de-1982: from 1982-12-22, its own clause: in force on publication
+- lei-7078-de-1982: from 1982-12-22, its own clause: in force on publication
+- lei-7079-de-1982: from 1983-11-24, the in-force day of Lei 7.140/1983, the latest among the acts its notes name (its DOU day 1983-11-24: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.140/1983 (DOU 1983-11-24)
+- lei-7081-de-1982: from 1982-12-22, its own clause: in force on publication
+- lei-7082-de-1982: from 1982-12-22, its own clause: in force on publication
+- lei-7084-de-1982: from 1982-12-22, its own clause: in force on publication
+- lei-7085-de-1982: from 1982-12-22, its own clause: in force on publication
+- lei-7086-de-1982: from 1982-12-23, its own clause: in force on publication
+- lei-7087-de-1982: from 1987-01-07, the in-force day of Lei 7.586/1987, the latest among the acts its notes name (its DOU day 1987-01-07: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.266/1984 (DOU 1984-12-05), Lei 7.586/1987 (DOU 1987-01-07)
+- lei-7088-de-1983: from 1982-03-24, its own clause: in force on publication
+- lei-7089-de-1983: from 1982-03-24, its own clause: in force on publication
+- lei-7093-de-1983: from 1983-04-26, its own clause: in force on publication
+- lei-7094-de-1983: from 1983-04-26, its own clause: in force on publication
+- lei-7095-de-1983: from 1983-05-03, its own clause: in force on publication
+- lei-7096-de-1983: from 1983-05-11, its own clause: in force on publication
+- lei-7098-de-1983: from 1983-06-03, its own clause: in force on publication
+- lei-7100-de-1983: from 1983-06-14, its own clause: in force on publication
+- lei-7103-de-1983: from 1983-06-21, its own clause: in force on publication
+- lei-7104-de-1983: from 1983-06-21, its own clause: in force on publication
+- lei-7106-de-1983: from 1983-06-29, its own clause: in force on publication
+- lei-7107-de-1983: from 1983-06-30, its own clause: in force on publication
+- lei-7108-de-1983: from 1983-07-21, its own clause: in force on publication
+- lei-7109-de-1983: from 1983-07-06, its own clause: in force on publication
+- lei-7110-de-1983: from 1983-07-06, its own clause: in force on publication
+- lei-7111-de-1983: from 1983-07-06, its own clause: in force on publication
+- lei-7112-de-1983: from 1983-07-06, its own clause: in force on publication
+- lei-7113-de-1983: from 1983-07-07, its own clause: in force on publication
+- lei-7119-de-1983: from 1987-09-14, the in-force day of Lei 7.617/1987, the latest among the acts its notes name (its DOU day 1987-09-14: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.617/1987 (DOU 1987-09-14)
+- lei-7120-de-1983: from 1983-08-31, its own clause: in force on publication
+- lei-7121-de-1983: from 1983-09-09, its own clause: in force on publication
+- lei-7122-de-1983: from 1983-09-13, its own clause: in force on publication
+- lei-7125-de-1983: from 1983-09-27, its own clause: in force on publication
+- lei-7127-de-1983: from 1983-10-11, its own clause: in force on publication
+- lei-7128-de-1983: from 1983-10-11, its own clause: in force on publication
+- lei-7130-de-1983: from 1983-10-27, its own clause: in force on publication
+- lei-7133-de-1983: from 1983-10-27, its own clause: in force on publication
+- lei-7134-de-1983: from 1983-10-27, its own clause: in force on publication
+- lei-7135-de-1983: from 1983-10-27, its own clause: in force on publication
+- lei-7136-de-1983: from 1983-10-28, its own clause: in force on publication
+- lei-7137-de-1983: from 1983-11-08, its own clause: in force on publication
+- lei-7140-de-1983: from 1983-11-24, its own clause: in force on publication
+- lei-7141-de-1983: from 1983-11-24, its own clause: in force on publication
+- lei-7143-de-1983: from 1983-11-24, its own clause: in force on publication
+- lei-7144-de-1983: from 1983-11-24, its own clause: in force on publication
+- lei-7145-de-1983: from 1983-11-24, its own clause: in force on publication
+- lei-7146-de-1983: from 1983-11-24, its own clause: in force on publication
+- lei-7148-de-1983: from 1983-11-24, its own clause: in force on publication
+- lei-7149-de-1983: from 1983-11-29, its own clause: in force on publication
+- lei-7150-de-1983: from 2013-12-23, the in-force day of Lei 12.918/2013, the latest among the acts its notes name (its DOU day 2013-12-23: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 12.918/2013 (DOU 2013-12-23), Lei 8.071/1990 (DOU 1990-07-18)
+- lei-7160-de-1983: from 1983-12-09, its own clause: in force on publication
+- lei-7162-de-1983: from 1983-12-09, its own clause: in force on publication
+- lei-7163-de-1983: from 1983-12-09, its own clause: in force on publication
+- lei-7164-de-1983: from 1983-12-15, its own clause: in force on publication
+- lei-7165-de-1983: from 1983-12-15, its own clause: in force on publication
+- lei-7166-de-1983: from 1983-12-15, its own clause: in force on publication
+- lei-7168-de-1983: from 1983-12-15, its own clause: in force on publication
+- lei-7169-de-1983: from 1983-12-15, its own clause: in force on publication
+- lei-7171-de-1983: from 1983-12-15, its own clause: in force on publication
+- lei-7172-de-1983: from 1983-12-15, its own clause: in force on publication
+- lei-7173-de-1983: from 1983-12-15, its own clause: in force on publication
+- lei-7174-de-1983: from 1983-12-15, its own clause: in force on publication
+- lei-7175-de-1983: from 1983-12-15, its own clause: in force on publication
+- lei-7176-de-1983: from 1983-12-16, its own clause: in force on publication
+- lei-7178-de-1983: from 1983-12-20, its own clause: in force on publication
+- lei-7179-de-1983: from 1983-12-20, its own clause: in force on publication
+- lei-7180-de-1983: from 1983-12-21, its own clause: in force on publication
+- lei-7181-de-1983: from 1983-12-21, its own clause: in force on publication
+- lei-7182-de-1984: from 1984-04-06, its own clause: in force on publication
+- lei-7184-de-1984: from 1984-04-17, its own clause: in force on publication
+- lei-7186-de-1984: from 1984-06-29, the in-force day of Decreto-Lei 2.144/1984, the latest among the acts its notes name (its DOU day 1984-06-29: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Decreto-Lei 2.144/1984 (DOU 1984-06-29)
+- lei-7187-de-1984: from 1984-04-27, its own clause: in force on publication
+- lei-7189-de-1984: from 1984-06-05, its own clause: in force on publication
+- lei-7190-de-1984: from 1984-06-05, its own clause: in force on publication
+- lei-7191-de-1984: from 1984-06-05, its own clause: in force on publication
+- lei-7193-de-1984: from 1984-06-08, its own clause: in force on publication
+- lei-7194-de-1984: from 1987-04-18, the in-force day of Lei 7.599/1987, the latest among the acts its notes name (its DOU day 1987-04-18: its page is not among the pinned pages, so its own clause was not read); in-force day not read, so its DOU day is used, for: Lei 7.599/1987 (DOU 1987-04-18)
 - Acts of this part (Lei de Concessões (Lei nº 8.987, de 13 de fevereiro de 1995); Lei das Parcerias Público-Privadas (Lei nº 11.079, de 30 de dezembro de 2004); Lei do Saneamento Básico (Lei nº 11.445, de 5 de janeiro de 2007); Lei do Petróleo (Lei nº 9.478, de 6 de agosto de 1997); Lei de Abuso de Autoridade (Lei nº 13.869, de 5 de setembro de 2019); Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980); Lei das Inelegibilidades (Lei Complementar nº 64, de 18 de maio de 1990); Participação da comunidade e financiamento do SUS (Lei nº 8.142, de 28 de dezembro de 1990); Lei Geral do Esporte (Lei nº 14.597, de 14 de junho de 2023); Estatuto de Defesa do Torcedor (Lei nº 10.671, de 15 de maio de 2003); Política Nacional do Meio Ambiente (Lei nº 6.938, de 31 de agosto de 1981)): each paragraph's life span is read from Planalto's annotated page of the act (l8987cons.htm, l11079.htm, l11445.htm, l9478.htm, l13869.htm, l6880.htm, lcp64.htm, l8142.htm, l14597.htm, l10.671.htm, l6938.htm), with the replay of Lexifina's code (imported, not copied): struck wordings stay in place before the wording that replaced them, each closed by the source's own note ('Redação dada pela…', 'Incluído pela…', 'Revogado pela…'); text with no note is the act as enacted.
 - Credits come only from those notes; a changed article with no note naming a law stays uncredited.
 - A struck wording with no 'Revogado' note ends when the next wording of the same dispositivo (same label in the same article) starts; a Medida Provisória's wording with no later wording ends on the in-force day of the law that converted the MP (read from the MP page's 'Convertida na Lei' line).
@@ -11127,6 +14142,9 @@ Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP lapse days) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (vigência days, MP fates, court rulings) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (MP lapse days, staged vigência days, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and the hand tables in it (in-force days, MP fates, explained differences) from the official pages. No model wrote, summarised or changed legal text; no model runs at data-build or git-build time.

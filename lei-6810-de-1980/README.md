@@ -1,0 +1,10 @@
+# Inclui entre os beneficiados pela Lei nº 6.554, de 21 de agosto de 1978, nos termos do diploma, os Ministros Togados, os Juízes Auditores e os Auditores Substitutos da Justiça Militar, e dá outras providências (Lei nº 6.810, de 7 de julho de 1980)
+
+L6810 · 1 versions, from 1980-07-08 (latest in force: 1980-07-08) · <https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6810.htm>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1º | [art-001.md](art-001.md) | 0 |  |
+| Art. 2º | [art-002.md](art-002.md) | 0 |  |
+| Art. 3º | [art-003.md](art-003.md) | 0 |  |
+| Preâmbulo | [preambulo.md](preambulo.md) | 0 |  |

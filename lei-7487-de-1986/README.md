@@ -1,0 +1,10 @@
+# Dá nova redação ao art. 14 do Decreto-lei nº 538, de 7 de julho de 1938, que organiza o Conselho Nacional do Petróleo, define suas atribuições e dá outras providências (Lei nº 7.487, de 10 de junho de 1986)
+
+L7487 · 1 versions, from 1986-06-11 (latest in force: 1986-06-11) · <https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7487.htm>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1º | [art-001.md](art-001.md) | 0 |  |
+| Art. 2º | [art-002.md](art-002.md) | 0 |  |
+| Art. 3º | [art-003.md](art-003.md) | 0 |  |
+| Preâmbulo | [preambulo.md](preambulo.md) | 0 |  |
