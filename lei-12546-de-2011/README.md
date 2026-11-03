@@ -1,6 +1,6 @@
 # Reintegra, IPI da indústria automotiva e contribuição previdenciária sobre a receita bruta (Lei nº 12.546, de 14 de dezembro de 2011)
 
-L12546 · 39 versions, from 2011-12-15 (latest in force: 2024-09-16) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12546.htm>
+L12546 · 40 versions, from 2011-12-15 (latest in force: 2024-09-16) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12546.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
