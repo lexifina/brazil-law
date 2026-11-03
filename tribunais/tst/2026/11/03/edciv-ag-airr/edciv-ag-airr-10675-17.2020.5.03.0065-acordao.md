@@ -1,0 +1,83 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-Ag-AIRR - 0010675-17.2020.5.03.0065
+A C Ó R D Ã O
+4ª Turma
+GMALR/vln
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO DE
+REVISTA E AGRAVO DE INSTRUMENTO EM RECURSO DE
+REVISTA OPOSTOS PELO RECLAMADO. TEMA N° 20 DA TABELA
+DE RECURSOS REPETITIVOS DO TST. PRESCRICÃO. PARCELA
+TRABALHISTA. PREVISÃO REGULAMENTAR. INTEGRAÇÃO
+SALÁRIO DE CONTRIBUIÇÃO DO EMPREGADO. I. Omissões
+inexistentes. II. O Embargante não demonstrou a existência de
+nenhuma das hipóteses previstas nos arts. 1.022 do CPC/2015 e
+897-A da CLT, mas apenas manifestou o seu inconformismo com
+a decisão embargada. III. Embargos de declaração de que se
+conhece e a que se nega provimento.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo em Agravo de Instrumento em Recurso de Revista nº TST-EDCiv-Ag-AIRR - 0010675-
+17.2020.5.03.0065, em que é Embargante BANCO DO BRASIL S.A. e é Embargado(a) JOSE RINALDI DE
+ALMEIDA.
+O Reclamado opõe embargos de declaração, alegando a existência de omissões
+no julgado.
+É o relatório.
+V O T O
+1.CONHECIMENTO
+Atendidos os pressupostos legais de admissibilidade dos embargos de declaração,
+deles conheço.
+2.MÉRITO
+Esta Quarta Turma, negou provimento a agravo do Reclamado, que nego
+provimento ao agravo de instrumento do Reclamado e não conheceu do agravo de instrumento em
+recurso de revista adesivo do Reclamante. Eis a ementa dessa decisão:
+“AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. ACÓRDÃO REGIONAL
+PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017. TEMA N° 20 DA TABELA DE RECURSOS
+REPETITIVOS DO TST. PRESCRICÃO. PARCELA TRABALHISTA. PREVISÃO REGULAMENTAR.
+INTEGRAÇÃO SALÁRIO DE CONTRIBUIÇÃO DO EMPREGADO. I - A matéria encontra-se atualmente
+pacificada à luz da interpretação conjunta das teses firmadas pelo Superior Tribunal de Justiça (Tema
+955) e pelo Tribunal Superior do Trabalho (Tema 20 dos recursos repetitivos), cuja observância é
+obrigatória. O Superior Tribunal de Justiça, ao julgar o Tema 955, firmou entendimento de que, uma
+vez concedido o benefício de previdência complementar, mostra-se inviável a revisão da renda
+mensal inicial mediante a inclusão de parcelas reconhecidas posteriormente, devendo eventual
+prejuízo ser reparado por meio de ação indenizatória contra o empregador. Assim, no julgamento do
+Tema 20, esta Corte Superior considerou que o marco inicial da prescrição quinquenal para as
+hipóteses de perdas e danos verificados antes da fixação das teses do STJ é a data das respectivas
+publicações das decisões, sendo: a) 16/08/2018, para o caso de horas extras, e de 11/12/2020, para o
+caso das demais verbas, se já houver transitado em julgado a decisão proferida na ação trabalhista
+principal ou se esta nunca houver sido ajuizada; ou b) se conta da data do trânsito em julgado da
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006864DD1386C644E.
+decisão proferida na ação trabalhista principal, se a coisa julgada ocorreu após 11/12/2020. No caso
+dos autos, verifica-se que esta pretensão indenizatória foi ajuizada em 27/07/2020 , assim, não há
+prescrição a ser decretada. I I . Fundamentos da decisão agravada não desconstituídos.II.
+Fundamentos da decisão agravada não desconstituídos.III. Agravo que se conhece e a que se nega
+provimento .”
+O Reclamado apresenta embargos de declaração com pedido de efeito
+modificativo, alegando que há omissões no julgado, no que diz respeito à: a) ajuste do julgado ao
+resultado dos embargos de declaração opostos no leading case do Tema nº 20, à luz do art. 927, §§ 3º e
+4º, do CPC; b) a emissão de tese explícita sobre os arts. 114, I e IX, e 202, § 2º, da Constituição Federal,
+quanto à competência material; c) a emissão de tese explícita sobre o art. 7º, XXIX, da Constituição
+Federal e o art. 206 do Código Civil, quanto à prescrição.
+Verifica-se, contudo, que da leitura das razões dos embargos de declaração que a
+parte Embargante não demonstrou a existência de omissão, obscuridade ou contrariedade, mas apenas
+manifestou o seu inconformismo com a decisão embargada.
+Do exame dos dispositivos legais (arts. 1.022 do CPC/2015 e 897-A da CLT), verifica￾se que os presentes embargos de declaração não se amoldam a nenhuma das hipóteses legais para o
+seu cabimento, pois almejam a revisão do posicionamento adotado pela Turma, e não sanar omissão,
+contradição, obscuridade ou erros materiais.
+Não cabe a esta Turma examinar se a sua própria decisão está (ou não) correta,
+nem os embargos declaratórios destinam-se a tal finalidade. A exigência legal é a de que a decisão seja
+fundamentada (art. 371 do CPC/2015) e a lide decidida nos limites da controvérsia estabelecida pelas
+partes (arts. 141 e 492 do CPC/2015). Tais exigências foram observadas no acórdão embargado.
+Conclui-se, portanto, que a pretensão do Embargante é a revisão da decisão
+embargada, o que não justifica a oposição de embargos de declaração, devendo se utilizar de meio
+recursal próprio.
+Diante do exposto, nego provimento aos embargos de declaração.
+ISTO POSTO
+ACORDAM os Ministros da Quarta Turma do Tribunal Superior do Trabalho, por
+unanimidade, conhecer dos embargos de declaração e, no mérito, negar-lhes provimento.
+Brasília, 28 de outubro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+ALEXANDRE LUIZ RAMOS
+Ministro Relator
+Firmado por assinatura digital em 29/10/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006864DD1386C644E.
