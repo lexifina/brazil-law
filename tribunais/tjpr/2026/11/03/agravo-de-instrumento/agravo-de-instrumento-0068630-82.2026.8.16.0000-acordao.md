@@ -1,0 +1,46 @@
+Ementa: DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. EXCESSO DE EXECUÇÃO PARCIALMENTE RECONHECIDO. PROVEITO ECONÔMICO REDUZIDO. APLICAÇÃO DO ART. 85, §§ 2º E 8º, DO CPC E TEMA 1.076 DO STJ. LIMITAÇÃO DO VALOR EM RAZÃO DA PROPORCIONALIDADE E RAZOABILIDADE. AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO.
+I. CASO EM EXAME:
+I.1. Agravo de instrumento interposto contra decisão que acolheu parcialmente exceção de pré-executividade, reconheceu excesso de execução em execução de título extrajudicial e condenou a exequente ao pagamento de honorários advocatícios fixados em 10% sobre o proveito econômico obtido, sendo pleiteada a majoração dos honorários por apreciação equitativa, com fundamento no art. 85, §§ 8º e 8º-A, do CPC, e na Tabela de Honorários da OAB/PR.
+
+II. QUESTÃO EM DISCUSSÃO:
+II.1. Consiste em saber se o reduzido proveito econômico obtido com o reconhecimento do excesso de execução autoriza a fixação dos honorários advocatícios por apreciação equitativa e, em caso positivo, se deve ser adotado integralmente o valor previsto na Tabela de Honorários da OAB/PR.
+
+III. RAZÕES DE DECIDIR:
+III.1. O proveito econômico decorrente do acolhimento parcial da exceção de pré-executividade foi reduzido, tornando irrisória a fixação dos honorários em 10% sobre tal valor.III.2. O arbitramento dos honorários por apreciação equitativa foi autorizado pelo Tema 1.076 do STJ diante do benefício econômico inestimável ou irrisório.III.3. A adoção integral do valor previsto na Tabela de Honorários da OAB/PR foi inviável, pois ultrapassaria o próprio proveito econômico obtido, configurando desproporcionalidade.III.4. Consideradas as peculiaridades do caso, o grau de zelo profissional, a natureza da controvérsia e o reduzido benefício econômico, fixaram-se os honorários em valor equitativo de R$ 800,00.
+IV. DISPOSITIVO E TESE:
+IV.1. Recurso conhecido e parcialmente provido.
+Tese de julgamento: a fixação dos honorários advocatícios por apreciação equitativa é cabível quando o proveito econômico obtido for reduzido a ponto de tornar irrisório o percentual legal, devendo ser observada a proporcionalidade entre o valor arbitrado e o benefício econômico alcançado, vedando-se a adoção integral do valor previsto na tabela da OAB quando este superar o proveito econômico obtido.
+____Dispositivos relevantes citados: arts. 85, §§ 2º, 8º e 8º-A, do CPC; Tema 1.076 do STJ; AI, 13ª CC, TJPR.
+
+Jurisprudência relevante citada: TJPR, 13ª CC, AI n. 0071010-49.2024.8.16.0000, Relª. Desª. ROSANA ANDRIGUETTO DE CARVALHO, julgado de 4.10.24; STJ, Corte Especial, Tema Repetitivo n. 1.076, julgado em data não especificada.
+
+Resumo em linguagem acessível: Neste Tribunal, decidiu que os honorários advocatícios deveriam ser fixados em valor justo, diferente do percentual aplicado inicialmente, porque o benefício econômico obtido pela parte executada foi pequeno e o valor calculado a partir do percentual de 10% resultaria em quantia muito baixa para remunerar o trabalho do advogado. Por outro lado, o valor pedido pela parte agravante, baseado na tabela da OAB, seria maior que o próprio benefício econômico, o que seria desproporcional. Assim, fixou-se os honorários em R$ 800,00, valor que considerou adequado para remunerar o serviço prestado sem causar injustiça às partes.
+
+I. RELATÓRIO:
+Trata-se de Agravo de Instrumento interposto por FREITAS LEONARDI ADVOGADOS ASSOCIADOS contra a decisão proferida no mov. 88.1 dos autos de execução de título extrajudicial nº 0002903-77.2025.8.16.0109, pela qual o Juízo de origem acolheu parcialmente a exceção de pré-executividade apresentada por COLORMIX COMÉRCIO DE MATERIAL HOSPITALAR E SERVIÇOS LTDA., reconheceu o excesso de execução quanto aos consectários legais e condenou a exequente ao pagamento de honorários advocatícios fixados em 10% sobre o proveito econômico obtido, correspondente à diferença entre o valor inicialmente cobrado e aquele apurado como correto.
+A agravante alegou, em síntese, que o excesso de execução reconhecido corresponde à quantia de R$ 2.577,61, de modo que a incidência do percentual de 10% resultaria em honorários de apenas R$ 257,76, valor que considera irrisório e aviltante. Sustentou que a hipótese autoriza a fixação da verba por apreciação equitativa, nos termos do art. 85, §§ 8º e 8º-A, do Código de Processo Civil e do Tema 1.076 do Superior Tribunal de Justiça, devendo ser observado o valor de R$ 3.329,01 previsto na Tabela de Honorários da OAB/PR.
+Ao final, requereu o conhecimento e o provimento do recurso para que os honorários advocatícios fossem fixados por apreciação equitativa, tomando-se como parâmetro a Tabela de Honorários da OAB/PR.
+O recurso foi recebido sem pedido de efeito suspensivo.
+Foram apresentadas contrarrazões ao recurso (mov. 23.1)
+É o relatório.
+
+II. VOTO E FUNDAMENTAÇÃO:
+Juízo de admissibilidade recursal
+Conheço do recurso de agravo de instrumento, na forma do disposto no artigo 1.015, do Código de Processo Civil, na medida em que estão presentes os pressupostos de admissibilidade recursal, tanto os intrínsecos: cabimento, legitimidade e interesse em recorrer; como os extrínsecos: tempestividade (mov. 90/origem), regularidade formal (mov. 1.1), inexistência de fato impeditivo ou extintivo do poder de recorrer e preparo (mov. 14.3).
+Mérito
+A controvérsia recursal limita-se ao critério de fixação dos honorários advocatícios decorrentes do acolhimento parcial da exceção de pré-executividade, por meio da qual foi reconhecido excesso de execução.
+A decisão agravada condenou a exequente ao pagamento de honorários advocatícios em favor dos patronos da executada, fixados em 10% sobre o proveito econômico obtido, correspondente à diferença entre o valor exigido e aquele considerado devido. A agravante sustenta que tal critério conduz à fixação de verba irrisória, postulando sua majoração por apreciação equitativa.
+Com parcial razão.
+Nos termos do art. 85, § 2º, do Código de Processo Civil, os honorários advocatícios devem ser fixados entre 10% e 20% sobre o valor da condenação, do proveito econômico obtido ou, quando impossível sua mensuração, sobre o valor atualizado da causa. Excepcionalmente, admite-se a apreciação equitativa nas hipóteses previstas no § 8º do referido dispositivo, notadamente quando o proveito econômico for inestimável ou irrisório.
+A Corte Especial do Superior Tribunal de Justiça, ao julgar o Tema Repetitivo n.º 1.076, assentou:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.[...]
+Na espécie, o proveito econômico decorrente do acolhimento parcial da exceção de pré-executividade corresponde a R$ 2.577,61, circunstância que conduziria à fixação de honorários em aproximadamente R$ 257,76. Tal montante se mostra insuficiente para remunerar adequadamente a atuação profissional desenvolvida, revelando hipótese que autoriza o arbitramento da verba por equidade.
+A situação guarda estreita semelhança com a examinada por esta 13ª Câmara Cível:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE RECONHECEU EXCESSO DE EXECUÇÃO E CONDENOU OS EXEQUENTES AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA PARTE EXECUTADA.RECURSO DO EXECUTADO. ARBITRAMENTO DOS HONORÁRIOS SUCUMBENCIAIS POR EQUIDADE. PROVIMENTO. IMPOSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS EM PERCENTUAL SOBRE O PROVEITO ECONÔMICO OBTIDO, QUE SE MOSTRA IRRISÓRIO. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO. (TJPR - 13ª Câmara Cível - 0071010-49.2024.8.16.0000 - Guarapuava -
+ Rel.: DESEMBARGADORA ROSANA ANDRIGUETTO DE CARVALHO -
+ J. 04.10.2024)
+Todavia, também não se revela adequada a adoção integral do valor postulado pela agravante com fundamento na Tabela de Honorários da OAB/PR, porquanto a verba pretendida supera o próprio benefício econômico obtido com o acolhimento parcial da exceção de pré-executividade.
+Desse modo, consideradas as peculiaridades da causa, o grau de zelo profissional, a natureza da controvérsia, o trabalho desempenhado e o reduzido proveito econômico alcançado, mostra-se adequada a fixação dos honorários advocatícios por apreciação equitativa em R$ 800,00 (oitocentos reais), quantia que remunera de forma digna a atuação profissional sem acarretar desproporção em relação à extensão econômica da sucumbência.
+Por fim, diante do parcial provimento do recurso, descabe a majoração dos honorários em grau recursal.
+III. DECISÃO:
+Pelo exposto, VOTO NO SENTIDO DE CONHECER E DAR PARCIAL PROVIMENTO ao recurso, para reformar parcialmente a decisão agravada e fixar os honorários advocatícios sucumbenciais, por apreciação equitativa, em R$ 800,00 (oitocentos reais), nos termos da fundamentação.
