@@ -336,6 +336,10 @@ Each article is a file: `constituicao/art-006.md` is art. 6, `constituicao/adct-
 
 Every act is rebuilt the same way, from Planalto's annotated page of the act (superseded wording kept, struck through, with the source's note naming the amending law), and checked against Planalto's consolidated page; the rules each act needed are listed in `REPRODUCE.md`. Git cannot store dates before 1970: the commits of the Código Penal, the CLT and the CPP before 1970 are dated 1 January 1970, one second apart, and the real in-force day is in each commit's `In-force:` trailer, which the tools read.
 
+## Acts with their current text only
+
+500 further federal acts (Leis, Leis Complementares, Leis Delegadas and Decretos-Leis listed on Planalto's index pages, not yet built with their history) have one version each: the text in force today as Planalto prints it, without the wordings it replaced. That version is the oldest one available here, so it is credited to Planalto as the oldest version available, not to a law. It is dated by the in-force day of the latest act whose changes it shows: that act's own vigência clause, the LINDB art. 1 rule (45 days after publication) where it has none, and a Medida Provisória from its publication. Where that act's clause was not read, its publication day is used and the act's line in REPRODUCE.md names it. An act revoked as a whole shows its text as last in force, then a version that empties it, credited to the revoking act and dated by that act's in-force day. Their earlier wordings will be added later as labelled corrections.
+
 ## A lawyer's questions as git commands
 
 | Question | Command |
@@ -424,4 +428,5 @@ Histórico do direito brasileiro em git: um arquivo por artigo e um commit por e
 - Autoria: cada alteração é atribuída à emenda citada na nota do Planalto ("Redação dada pela…", "Incluído pela…", "Revogado pela…").
 - Conferência: o texto de hoje foi comparado com o texto compilado do Planalto; as diferenças são apenas tipográficas e estão listadas em `REPRODUCE.md`.
 - CLT: 60 linhas riscadas que a página do Planalto não data ficam fora de todas as versões, e o processamento registra 72 problemas em aberto, sem adivinhar datas (lista em `REPRODUCE.md`).
+- Textos vigentes apenas: 500 atos federais (Leis, Leis Complementares, Leis Delegadas e Decretos-Leis) têm só o texto vigente hoje, numa única versão atribuída ao Planalto como a mais antiga disponível e datada pela vigência do último ato que o alterou; o histórico será acrescentado depois.
 - Fonte: Presidência da República, Casa Civil (planalto.gov.br), lida por cópias do Internet Archive. Nenhum modelo de IA escreveu texto legal.
