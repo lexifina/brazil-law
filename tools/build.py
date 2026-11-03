@@ -56,11 +56,12 @@ def load(folder: Path) -> tuple[dict, bytes]:
         parts = [p for p in parts if p.with_suffix('.PUBLISH').exists()]
     if not main_path.exists() and not parts:
         raise CorpusError(f'{folder} has no corpus.json')
-    raw = main_path.read_bytes() if main_path.exists() else b''
-    c = json.loads(raw.decode('utf-8')) if raw else {}
+    head = main_path.read_bytes() if main_path.exists() else b''
+    c = json.loads(head.decode('utf-8')) if head else {}
+    chunks = [head]  # joined once at the end: growing one bytes object part by part copied it once per part
     for p in parts:
         b = p.read_bytes()
-        raw += b'\n' + p.name.encode() + b'\n' + b
+        chunks.append(b'\n' + p.name.encode() + b'\n' + b)
         part = json.loads(b.decode('utf-8'))
         if not c.get('country') and part.get('country'):
             c['country'] = part['country']
@@ -86,7 +87,7 @@ def load(folder: Path) -> tuple[dict, bytes]:
                 else:
                     units[k] = u
             v['units'] = units
-    return c, raw
+    return c, b''.join(chunks)
 
 
 def validate(c: dict) -> list[str]:

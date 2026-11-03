@@ -133,10 +133,17 @@ def check(repo: Path, corpus: Path) -> dict:
     cat = Cat(repo)
     trees: dict = {}
     mismatches, versions, details = 0, 0, []
-    by_act = all_commits_by_act(repo, future if has_future else 'main', [a['slug'] for a in c['acts']])
+    branch = future if has_future else 'main'
+    by_act = all_commits_by_act(repo, branch, [a['slug'] for a in c['acts']])
+    # Correction commits (Kind: correction), read by the reading rule in on.py (tools/on.py beside tools/check_repo.py).
+    # A branch with none is checked exactly as before.
+    from on import Reader, _ls
+    rd = Reader(branch, repo, base=lambda h, p: _ls(repo, h, p) if p.endswith('.md') else tree_oids(cat, h, p, trees))
     for act in c['acts']:
         slug = act['slug']
         rows = by_act[slug]
+        if rd.fixes:
+            rows = [r for r in rows if r[0] not in rd.skip]
         prev = None
         vs = act['versions']
         for i, v in enumerate(vs):
@@ -147,7 +154,11 @@ def check(repo: Path, corpus: Path) -> dict:
                 continue
             before = next((w for w in reversed(vs[:i]) if w['from'] < v['from']), None)
             for day, want in ((v['from'], v), ((dt.date.fromisoformat(v['from']) - dt.timedelta(days=1)).isoformat(), before)):
-                h = state_on(rows, day)
+                if rd.fixes:
+                    files, _, _ = rd.files(slug, day, rows=rows)
+                    h = None if files is None else True
+                else:
+                    h = state_on(rows, day)
                 if want is None:
                     if h is not None:
                         mismatches += 1
@@ -157,8 +168,9 @@ def check(repo: Path, corpus: Path) -> dict:
                     mismatches += 1
                     details.append(f'{slug}: nothing in force on {day}')
                     continue
-                files = tree_oids(cat, h, slug, trees)
-                expect = {f'{slug}/{k}.md': blob_oid(u['text']) for k, u in want['units'].items()}
+                if not rd.fixes:
+                    files = tree_oids(cat, h, slug, trees)
+                expect ={f'{slug}/{k}.md': blob_oid(u['text']) for k, u in want['units'].items()}
                 for f in sorted(set(files) | set(expect)):
                     if files.get(f) != expect.get(f):
                         mismatches += 1
@@ -188,7 +200,8 @@ def check(repo: Path, corpus: Path) -> dict:
     # The last commit is the docs commit, dated noon local time on --docs-date; built the same day before noon it is
     # a few hours ahead of now. Allow it up to two days; every law commit must be in the past.
     future_dated = sum(1 for x in cts[:-1] if x > now) + (1 if cts and cts[-1] > now + 2 * 86400 else 0)
-    return {'acts': len(c['acts']), 'versions': versions, 'mismatches': mismatches, 'trailer_errors': trailer_errors,
+    extra = {'corrections': len(rd.fixes)} if rd.fixes else {}  # only when there are any: unchanged output otherwise
+    return {**extra, 'acts': len(c['acts']), 'versions': versions, 'mismatches': mismatches, 'trailer_errors': trailer_errors,
             'missing_in_force': missing_in_force, 'merges': merges, 'backwards': backwards,
             'future_dated': future_dated, 'details': details,
             # Which corpus this check read (a main build reads only the verified parts), so REPRODUCE.md quotes a check
