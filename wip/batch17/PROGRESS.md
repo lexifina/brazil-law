@@ -4999,5 +4999,40 @@ paragraph and count are needed when the first 98-current part installs).
 ## State at handoff (batch 17, sixty-fifth session, 2026-11-03)
 PUBLISHED: zzzzr (11 acts, 25 versions; parses 45e9b02c, file 0a495e0e): Lei 11.326/2006, LC 63/1990 (hand), Leis 8.857/1994, 6.205/1975, 9.477/1997, 10.835/2004, 12.276/2010, 9.277/1996, LC 61/1989, DLs 2.052/1983, 368/1968 (lane). Installed: 323 acts, 4358 versions, 2982 commits, check 0/0, --compare identical, audit_push clean main + futuro; uniqlaws 0; dupsame 0; README rows + jurisdiction.json current. Publication queues behind the brazil drift hold (new acts, append).
 Files changed: parse_batch17.py (PAGES l11326/lcp63, two acts, PARTS zzzzr, ACT_DAY/ACT_LAWS, the auto_acts.json loader in two places), batch17/auto_acts.json (new: the lane's 9 acts), sources_batch17.json (lane pins), corpus.d/99-batch17zzzzr.json + .PUBLISH (new), .cache (one LexML record copied in: DL 2.327), repo/README.md, repo/jurisdiction.json, PROGRESS.md, this file. Claim released.
-RUNNING: none after the claim release (cur.py PID 6996 stops itself at its next claim check; resumable).
+RUNNING: cur.py PID 43320 (restarted 2026-11-03 01:00Z with revoked acts included; see below).
 TO DO: start cur.py (breadth first, 500-act current-text parts) with a claim line containing brazil-law-cur-runner; add the README 'current text only' paragraph when 98-current-001 installs; lane parts from zzzzs (DL 2.321 re-queued); decisions 1-6 above.
+
+### Coordinator decisions on the sixty-fifth session's list (2026-11-03) and the runner start
+- Confirmed: 1 (inventory from Planalto's index pages), 2 (automated gates PUBLISH), 4 (histories of current-text acts later as
+  correction commits), 5 (zzzzr mixed configuration, titles from the ementa), 6 (DL 2.327/1987 published 27.4.1987).
+- 3 changed and applied in tools/cur.py before the start: a current-text version starts on the IN-FORCE day, never earlier:
+  the latest in-force day among the acts its notes name, each by the history parts' rule (proc/parse_proc.page_info +
+  vigencia_of on its pinned page: own clause, else LINDB art. 1 = publication + 45 days; hand days of VIGENCIA_FIXED); MPs
+  from publication. A hand day set for a staged clause (or a staged clause) and an unreadable clause leave the act out (hand
+  work). An act whose page is not pinned takes its DOU day, and the act's decision line names it. Acts with no change note:
+  own clause, else LINDB + 45 days (acts from 24.10.1942). Part decision text reworded to match. The 77 reads made under the
+  old rule were discarded (cur/pending.oldrule.json kept for reference) and every left-out entry cleared.
+- README: cur.py now writes, after each install, the section '## Acts with their current text only' (before "A lawyer's
+  questions") and one Portuguese line ('- Textos vigentes apenas: ...') with the count from corpus.d/98-current-*.json, then
+  docs.py's counts and a jurisdiction.json build suffix ('; N acts with their current text only'); idempotent (tested on a
+  copy). What, not how.
+- Claim: scripts/world-law/claims/brazil-law.txt = 'gitlaw-scraper-hp-omen brazil-law-cur-runner 2026-11-03T00:50:53Z'.
+- RUNNING: cur.py --batch 500, PID 46284, BelowNormal, GITLAW_SESSION=gitlaw-scraper-hp-omen, started 00:51Z (cur/status.json,
+  cur.log, state.json). First minute: 34 read, 72 left out (21+4 staged clauses, 17 no DOU day, 16 revoked, 6 clause not read,
+  2 decrees, 2 no own DOU day). Its parts queue behind the brazil drift hold.
+
+### Revoked acts included (coordinator, Alan's rule; 2026-11-03 ~00:56-01:00Z)
+- cur.py PID 46284 stopped via the claim (file removed; it exited at its next check, 00:55:58Z); changed; claim rewritten
+  'gitlaw-scraper-hp-omen brazil-law-cur-runner 2026-11-03T01:00:02Z'; restarted as PID 43320 (BelowNormal, GITLAW_SESSION set).
+- An act revoked as a whole now publishes with the builder's whole-act repeal: version 1 = the text as last in force (the
+  page's unstruck text), dated by the same rule (the repeal note itself is not a change of that text); version 2 = every unit
+  removed (`changes` None), every unit credited to the revoking act, dated by that act's in-force day by the same in_force()
+  rule. The revoking act's law record is the corpus's own when one exists (uniqlaws), else one from Planalto's index row,
+  added to the part's laws. Part decisions and the README section say so.
+- Still left out as hand work (new reasons, all for revoked acts): the page strikes the whole text (its last wordings cannot be
+  told apart without the history reader); the head names no revoking act or more than one; the repeal is not after the
+  last change; the repeal takes effect after today (future branch); a revoking MP with no corpus record; the revoking act's
+  day or record not found. Every other left-out reason unchanged.
+- First retry of the 20 revoked acts left out before: 15 pages strike the whole text, 5 name 0 or 2 revoking acts; none yet
+  qualifies (expected to be rare: Planalto usually strikes a revoked act's text). Lead: those acts need the history reader.
+- On a claim stop, cur.py now saves its reads (pending.json) before exiting.
