@@ -1,0 +1,73 @@
+EMENTA: DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DE MÉRITO. IMPOSSIBILIDADE. PREQUESTIONAMENTO IMPLÍCITO. EMBARGOS REJEITADOS.I. CASO EM EXAME
+1. Embargos de Declaração opostos pela instituição financeira contra acórdão que conheceu e negou provimento à sua apelação em ação revisional de contrato de empréstimo.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: Há duas questões em discussão: (i) definir se o acórdão embargado é contraditório por divergir do entendimento do Superior Tribunal de Justiça no REsp 1.821.182/RS; (ii) analisar a necessidade de prequestionamento dos dispositivos legais suscitados.
+III. RAZÕES DE DECIDIR
+3. A finalidade dos Embargos de Declaração está textualmente definida no art. 1.022 do Novo Código de Processo Civil, de modo que não se prestam para eles para qualquer outro propósito senão para as hipóteses ali descritas.
+4. O acórdão embargado apresentou fundamentação clara, coerente e harmônica, ressaltando que a taxa média de mercado é parâmetro referencial, e não limite absoluto, sendo a abusividade reconhecida diante da desproporcionalidade concreta verificada.
+5. O embargante busca, em verdade, rediscutir o mérito da decisão, o que não é cabível na via dos embargos declaratórios.
+6. O prequestionamento é desnecessário, conforme o art. 1.025 do Código de Processo Civil, pois podem ser considerados incluídos no acórdão os elementos levantados pelo embargante para fins de prequestionamento.
+IV. DISPOSITIVO E TESE
+7. Embargos de declaração rejeitados.
+Teses de julgamento: É incabível a interposição de embargos de declaração que visem rediscutir o mérito da decisão.
+_______________
+Dispositivos relevantes citados: art. 1.022; e art. 1.025; ambos do CPC.
+Jurisprudência relevante citada: STJ, AgRg nos EDcl no REsp n. 1.540.677/SP, Rel. Min. Sérgio Kukina, Primeira Turma, j. 15/12/2015.
+
+1. RELATÓRIO.
+Trata-se de embargos de declaração opostos por CREFISA S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra o acórdão de mov. 15.1, proferido no recurso de apelação cível n° 0007060-72.2025.8.16.0019 Ap, que, por unanimidade de votos, conheceu em parte e, nesta extensão, negou provimento ao recurso.
+A embargante sustenta, em síntese, que a decisão embargada apresenta contradição, porquanto teria se afastado do entendimento fixado pelo Superior Tribunal de Justiça no julgamento do REsp n.º 1.821.182/RS, segundo o qual a taxa média de mercado não pode ser utilizada como único parâmetro para aferição da abusividade dos juros remuneratórios.
+Aduz que há “flagrante divergência existente entre a decisão proferida nos presentes autos e o recentíssimo entendimento consolidado pelo Superior Tribunal de Justiça sobre o assunto”, pois o acórdão embargado contraria “o recente entendimento firmado pelo Superior Tribunal de Justiça quando do julgamento do REsp n.º 1.821.182/RS”, isso porque entende que:
+
+(...) a “taxa média de mercado” é somente uma média e, portanto, não pode ser utilizada como ferramenta única para se aferir a existência de abusividade ou não da taxa de juros pactuada no contrato; de reconhecer a necessidade de análise caso a caso, para se verificar a existência ou não de abusividade na taxa de juros remuneratórios pactuada; e, por conseguinte, compreender que cada contratação possui particularidades e características individuais, que devem ser analisadas pontualmente”.
+Por isso, pretende que os embargos de declaração sejam acolhidos a fim sanar a contradição apontada, bem como para o fim de pré-questionar as matérias e os dispositivos suscitados (mov. 1.1, ED).
+Devidamente intima, a parte embargada renunciou ao prazo sem se manifestar (mov. 10, ED).
+Após, vieram os autos conclusos para julgamento (mov. 11, ED).
+É, sucintamente, o relatório.
+
+2. FUNDAMENTAÇÃO.
+
+Os embargos foram tempestivamente opostos, razão pela qual devem ser conhecidos.
+Dispõe o artigo 1.022 do Código de Processo Civil que cabem embargos de declaração contra qualquer decisão judicial para: I – esclarecer obscuridade ou eliminar contradição; II – suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; III – corrigir erro material.
+Especificamente, considera-se contraditória a decisão que “traz proposições entre si inconciliáveis. O principal exemplo é a existência de contradição entre a fundamentação e a decisão”. (CUNHA, Leonardo José Carneiro da; DIDIER JR, Fredie. Curso de Direito Processual Civil. Vol. 3, 8ª ed. Bahia: Editora JusPodivm, 2010. p. 181).
+Alega a parte embargante a ocorrência de contradição, porquanto o entendimento adotado no acórdão é diverso daquele firmado pelo Superior Tribunal de Justiça no julgamento do REsp 1.821.182/RS, no sentido de que é inviável a utilização da taxa média de mercado como ferramenta para aferir, ou não, a abusividade da taxa de juros remuneratórios pactuada, bem como para definir a nova taxa a ser aplicada, haja vista a necessidade de analisar as características e particularidades individuais de cada caso, para fins de reconhecimento de eventual abusividade.
+Todavia, não se verifica a existência do indigitado vício.
+Os fundamentos que amparam a decisão colegiada, ora embargada, foram claros e precisos no sentido de reconhecer a abusividade da taxa de juros remuneratórios pactuada, na medida que dito encargo excedeu consideravelmente à taxa média de mercado e, por isso, restou configurada abusividade contratual.
+Por aí, ao contrário do que sustenta a parte embargante, o acórdão está em plena consonância com o precedente invocado (REsp 1.821.182/RS), pois o próprio Superior Tribunal de Justiça assinala a necessidade de se observar uma faixa razoável para a variação dos juros — o que não se verifica no caso concreto, em que a taxa praticada pela parte embargante superou, de forma significativa, a média divulgada pelo Bacen.
+Tal entendimento, portanto, está alinhado à orientação firmada pelo Superior Tribunal de Justiça, considerando as circunstâncias específicas da demanda, com o que a rejeição dos presentes aclaratórios nesse ponto é medida que se impõe.
+Adiante alega a instituição financeira/embargante que atua com perfil diferenciado de clientes, composto por pessoas de alto risco e negativadas, o que a torna incomparável a instituições que não operam nesse segmento.
+Diz ainda que a taxa média do Banco Central (Bacen) não reflete essa realidade, pois não considera as especificidades de instituições que assumem maior risco, devendo esse fator ser ponderado na análise de eventual abusividade.
+No caso, a parte ré/embargante sequer aponta concretamente a existência de qualquer vício no julgado nesse ponto, limitando-se a deduzir alegações nitidamente voltadas ao propósito de novo julgamento da controvérsia.
+De todo modo, cumpre registrar que o perfil da parte autora foi considerado para fins de apuração da abusividade, ou não, dos juros remuneratórios pactuados.
+A propósito, como registrado (mov. 15.1, autos nº 0007060-72.2025.8.16.0019 Ap):
+“(...) É fato que, como defende a parte ré/apelante, as taxas bancárias são praticadas com base no perfil de cada mutuário, podendo se verificar uma maior taxa remuneratória proporcionalmente ao risco envolvido na atividade.
+E, também, não se nega que a taxa média de mercado funciona tão somente como referencial a admitir oscilações decorrentes, por exemplo, do risco da operação. Assim é o mercado: maior o risco, compreensivo que o preço do serviço reflita justamente esta variável. Todavia, e esse é o ponto que merece ser repetido, nada justifica a fixação de taxas, como é o caso, que 8,71 (oito inteiros e setenta e um centésimos) vezes a média do mercado. A desvantagem exagerada do consumidor, ora apelado, é manifesta.
+Cumpre assinalar que os registros extraídos do SCPC, acostados no mov. 17.8 da origem e invocados pela instituição financeira como fundamento para a imposição de taxas elevadas de juros, não se mostram aptos a justificar os patamares praticados.
+
+Com efeito, os apontamentos referem-se a débitos datados de janeiro de 2022 e maio de 2023, sendo que o primeiro é anterior à celebração dos contratos nº 031700034791 e 031700063009, inexistindo, portanto, qualquer correlação temporal que autorize a majoração dos encargos nesses ajustes.
+No que se refere ao contrato nº 030300117220, ainda que tenha sido firmado após o apontamento no SCPC, tal circunstância, por si só, não legitima a cobrança de juros em patamar 7,46 vezes superior à média de mercado, sobretudo quando o débito registrado é de valor irrisório (R$ 566,76), absolutamente incompatível com a elevação extrema do custo do crédito imposta ao consumidor.
+Desse modo, ainda que se reconheça a existência de maior risco na operação, a exorbitância da taxa anual de juros evidencia manifesta desproporção contratual, impondo se a mitigação do princípio pacta sunt servanda, com a consequente revisão do ajuste e limitação dos encargos remuneratórios, em observância aos princípios da boa-fé objetiva, da função social do contrato e do equilíbrio contratual.
+(...)
+Logo, o recurso não merece provimento, nesse ponto.
+(...).
+
+Daí porque impõe-se a rejeição dos presentes embargos de declaração quanto a esse ponto.
+Passo seguinte, a alega do banco/embargante acerca da imprescindibilidade de prova pericial contábil não merece acolhimento, pois a matéria foi devidamente tratada no acórdão embargado, veja-se:
+
+“(...) Tal controvérsia prescinde da produção de outras provas — inclusive pericial — por tratar-se de matéria tipicamente de direito. Além disso, o tema é recorrente perante este Egrégio Tribunal de Justiça, de modo que, inclusive em respeito aos princípios da economia e da celeridade processual, é possível dispensar a fase instrutória” (...).
+Verifica-se, assim, que a pretensão deduzida busca, em realidade, a rediscussão do mérito do julgado, finalidade incompatível com a via estreita dos embargos de declaração, que se destinam exclusivamente ao saneamento de omissão, obscuridade, contradição ou erro material.
+Eventual inconformismo quanto ao resultado deve ser veiculado pelo meio recursal próprio, e não por este instrumento.
+Por fim, quanto ao prequestionamento, registre-se que o art. 1.025 do Código de Processo Civil consagra o prequestionamento implícito, considerando-se incluídas no acórdão, para tal finalidade, todas as matérias suscitadas, ainda que rejeitados os embargos de declaração.
+Aliás, antes mesmo da vigência do Novo Código de Processo Civil, o Superior Tribunal de Justiça já admitia o prequestionamento implícito, sendo desnecessária a análise pormenorizada de cada um dos dispositivos legais invocados pelas partes.
+
+A propósito:
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE DESAPROPRIAÇÃO. AGRAVO REGIMENTAL. PREQUESTIONAMENTO IMPLÍCITO. PEDIDO DE DESISTÊNCIA DA AÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO COM BASE NO CPC. JUROS MORATÓRIOS SOBRE A VERBA SUCUMBENCIAL. TERMO INICIAL.
+1. Considera-se, na espécie, ter havido o prequestionamento implícito dos artigos dados por violados, porquanto as nuances jurídicas a eles relacionadas foram efetivamente apreciadas e decididas pelo Tribunal a quo.
+2. A discussão sobre qual diploma legal deverá orientar o arbitramento dos honorários advocatícios, em havendo desistência da ação expropriatória, não reclama o reexame de matéria fática, cuidando-se de tema exclusivamente de direito.
+3. "Havendo desistência da ação de desapropriação não incide a regra do art. 27, § 1º, do Decreto nº 3.365, de 1941."
+(AgRg no AgRg no AREsp 157.203/PE, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 11/9/2014).
+4. No caso concreto, não se descortina a ocorrência de desalinho no equitativo arbitramento de honorários advocatícios em favor do expropriado, consoante as diretrizes do art. 20, § 4º, do CPC.
+5. Para não se incorrer em julgamento extra petita, adota-se o trânsito em julgado do título executivo judicial como sendo o termo inicial dos juros moratórios incidentes sobre a verba sucumbencial.
+6. Agravo regimental a que se nega provimento. (AgRg nos EDcl no REsp n. 1.540.677/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/12/2015, DJe de 5/2/2016. Grifei).
+Daí porque a rejeição dos presentes embargos de declaração é medida que se impõe.
