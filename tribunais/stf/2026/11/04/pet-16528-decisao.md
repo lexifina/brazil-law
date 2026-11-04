@@ -1,0 +1,42 @@
+DESPACHO
+
+Trata-se de Pet autuada nesta SUPREMA CORTE, por prevenção ao Inq. 5.039/DF, a partir de representação da autoridade policial, pelas medidas de busca e apreensão e pelo afastamento dos sigilos financeiro, fiscal e bursátil de investigados vinculados ao Grupo REFIT.
+Com vista dos autos, a Procuradoria-Geral da República manifestou-se pelo deferimento das medidas requeridas pela autoridade policial, “à exceção da determinação de compartilhamento da Operação Hidra de Lerna, cuja pretensão deverá ser encaminhada pela Autoridade Policial diretamente ao juízo responsável pela condução do feito“ (eDoc. 7).
+ Em decisão de 13/8/2026, deferi as medidas pleiteadas pela Polícia Federal, nos termos da manifestação da Procuradoria-Geral da República, as quais foram cumpridas na data de 14/8/2026 (eDocs. 35-54).
+Em 19/8/2026, o Tribunal de Justiça do Rio de Janeiro solicitou, em cumprimento à decisão de compartilhamento,  a “indicação da unidade da Polícia Federal à qual os documentos deverão ser encaminhados” (eDoc. 72).
+Nos termos da decisão proferida em 13/8/2026, autorizei a Polícia Federal a realizar as diligências necessárias junto ao Tribunal de Justiça do Rio de Janeiro para o recebimento dos documentos objeto da decisão de compartilhamento (eDoc. 127).
+O Tribunal de Justiça do Estado do Rio de Janeiro, por meio do Ofício nº 346/2026-GABPRES-ASCNJ, informou a remessa de procedimentos à Polícia Federal, nos termos do Ofício Eletrônico nº 20462/2026 (eDoc. 185).
+A Defesa de RENATO JORDÃO BUSSIERE requereu “seja determinado à Polícia Federal que forneça à Defesa, em mídia própria ou por espelhamento, a cópia forense integral do conteúdo extraído do aparelho eletrônico do Peticionário que foi apreendido , incluindo-se os arquivos originais e dados brutos, arquivos de extração, os respectivos logs e os códigos hash, bem como os documentos de cadeia de custódia correspondentes” (eDoc. 144).
+A Procuradoria-Geral da República manifestou-se pela ”intimação da Polícia Federal para que (i) confirme o recebimento dos documentos remetidos pelo Tribunal de Justiça do Estado do Rio de Janeiro; e (ii) informe sobre a viabilidade técnica do fornecimento de cópia ou espelhamento do conteúdo extraído do aparelho de Renato Jordão Bussiere, bem como sobre eventual prejuízo às diligências em andamento” (eDoc. 229), o que acolhi, em 20/10/2026 (eDoc.239).
+Em 20/10/2026, a defesa da empresa DADU TOBEN PATRIMONIAL SERVIÇOS ADMINISTRATIVOS LTDA requereu a reconsideração da decisão que “determinou o afastamento de seus sigilos financeiro e fiscal, modulando-se o alcance temporal da medida ao período em que o Sr. Renato Jordão Bussiere exerceu o cargo de Presidente do INEA, de 5 de março de 2024 a 30 de abril de 2026”(eDoc.244).
+Com vista dos autos, a Procuradoria-Geral da República manifestou-se pelo “indeferimento do pedido formulado por Dadu Toben Patrimonial e Serviços Administrativos Ltda. Em relação ao pleito da defesa de Renato Jordão Bussiere, verifica-se que a autoridade policial já manifestou sua concordância em 21.10.2026, ocasião em que informou não haver óbice ao fornecimento de cópia integral dos dados extraídos do seu dispositivo eletrônico”(eDoc.255).
+
+É o relatório. Decido.
+
+Trata-se a presente Petição de representação da Polícia Federal pelo deferimento de medida cautelar de busca e apreensão, bem como de afastamento dos sigilos financeiro, fiscal e bursátil, no interesse das investigações em curso nos autos do Inquérito n. 5.039/DF, o qual foi deferido, em 3/9/2026 (eDoc.20).
+O referido procedimento apura a prática dos crimes de gestão fraudulenta, lavagem de capitais, evasão de divisas e crimes contra a ordem econômica.
+A defesa da empresa DADU TOBEN PATRIMONIAL SERVIÇOS ADMINISTRATIVOS LTDA requereu a reconsideração da decisão que determinou o afastamento de seus sigilos financeiro e fiscal, modulando-se o alcance temporal da medida ao período em que Renato Jordão Bussiere exerceu o cargo de Presidente do INEA, de 5 de março de 2024 a 30 de abril de 2026.
+De acordo com as investigações realizadas pela Polícia Federal, a empresa DADU TOBEN PATRIMONIAL SERVIÇOS ADMINISTRATIVOS LTDA foi utilizada por Renato Bussiere para a formalização, em escritura pública, de uma compra e venda realizada em 19/3/2021, tratando-se de aquisição conjunta com Antônio Carlos da Conceição Santos ("Pipo")  de uma sala comercial na Av. das Américas, no Rio de Janeiro, no valor de R$ 230.000,00, na proporção de 50% para cada.
+Como bem demonstrado pela Autoridade Policial, a referida transação insere-se em um contexto de relação suspeita entre "Pipo" e agentes públicos,  da utilização de estruturas empresariais por "Pipo" para o custeio de despesas pessoais do ex-Governador Cláudio Castro, a exemplo da aquisição de caviar no montante de R$ 10.500,00, em abril de 2026. Além disso, nos últimos anos, "Pipo" foi recorrentemente apontado na imprensa por práticas de tráfico de influência, loteamento de cargos públicos e ostensiva proximidade com altas autoridades em eventos privados.
+Neste sentido, a utilização da empresa DADU TOBEN PATRIMONIAL SERVIÇOS ADMINISTRATIVOS LTDA. por Renato Bussiere, a exemplo da compra conjunta de imóvel comercial, antecede o período em que Renato exerceu o cargo de Presidente do INEA, entre 5.3.2024 e 30.4.2026.
+Portanto, a alegação da Defesa da requerente, de afastar as medidas constritivas impostas, ao período em que Renato Jordão Bussiere exerceu o cargo de Presidente do INEA, de 5 de março de 2024 a 30 de abril de 2026, não encontra qualquer respaldo nos autos, uma vez que a medida prejudicaria as investigações, tendo em vista que as movimentações e as tratativas suspeitas podem ter extrapolado o tempo de exercício do cargo.
+No ponto, assim se manifestou a Procuradoria-Geral da República (eDoc.255):
+
+[...]
+Observa-se, nessa linha, que a utilização da empresa Dadu Toben Patrimonial Serviços Administrativos Ltda. por Renato Bussiere, a exemplo da compra conjunta de imóvel comercial, antecede o período em que Renato exerceu o cargo de Presidente do INEA, entre 5.3.2024 e 30.4.2026. Além disso, em diálogo de WhatsApp datado de 17.2.2023, Renato admitiu que seu patrimônio já estaria concentrado quase totalmente, na pessoa jurídica Dadu Toben.
+Tais elementos evidenciam que a dinâmica delitiva sob apuração possui conexões anteriores ao período de exercício do cargo público. Pretender limitar a medida ao interregno da Presidência do investigado no INEA importaria em indevido recorte da apuração, ignorando que os vínculos, as movimentações e as tratativas suspeitas podem ter extrapolado o tempo de exercício do cargo.
+ Revela-se adequado e proporcional, portanto, o recorte temporal fixado na decisão de afastamento dos sigilos financeiro e fiscal, cuja manutenção se mostra revelante à compreensão integral do contexto fático apurado.
+ A manifestação é pelo indeferimento do pedido formulado por Dadu Toben Patrimonial e Serviços Administrativos Ltda. Em relação ao pleito da defesa de Renato Jordão Bussiere, verifica-se que a autoridade policial já manifestou sua concordância em 21.10.2026, ocasião em que informou não haver óbice ao fornecimento de cópia integral dos dados extraídos do seu dispositivo eletrônico”.
+
+Por fim, não há qualquer impedimento quanto ao pedido realizado pela Defesa de RENATO JORDÃO BUSSIERE, de que a Polícia Federal fornecesse em mídia própria ou por espelhamento, a cópia forense integral do conteúdo extraído do aparelho eletrônico do requerente, uma vez que que a Autoridade Policial já se manifestou favorável ao pedido: “caso haja a necessidade de realização de cópia do material, inexiste qualquer óbice por esta Polícia Federal, desde que seja apresentado dispositivo de armazenamento eletrônico com capacidade suficiente pela i. Defesa”(eDoc.255).
+Diante do exposto, nos termos do art. 21 do RiSTF, ACOLHO a manifestação da Procuradoria-Geral da República e DEFIRO o requerimento formulado pela Defesa de RENATO JORDÃO BUSSIERE, de cópia ou do espelhamento do conteúdo extraído do aparelho eletrônico vinculado ao requerente pela Polícia Federal.
+Por fim, INDEFIRO o pedido de reconsideração formulado pela Defesa da empresa DADU TOBEN PATRIMONIAL E SERVIÇOS ADMINISTRATIVOS LTDA.
+Ciência à Procuradoria-Geral da República.
+Intimem-se os advogados regulamente constituídos.
+Comunique-se à Polícia Federal.
+Publique-se.
+Brasília, 4 de novembro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
