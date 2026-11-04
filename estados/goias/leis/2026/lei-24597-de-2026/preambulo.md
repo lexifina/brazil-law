@@ -1,0 +1,3 @@
+# LEI Nº 24.597, DE 4 DE NOVEMBRO DE 2026
+Altera a Lei nº 24.411, de 3 de julho de 2026, que dispõe sobre a organização dos Quadros de Oficiais Especialistas - QOEs da Polícia Militar e do Corpo de Bombeiros Militar do Estado de Goiás, altera a Lei nº 17.866, de 19 de dezembro de 2012, que fixa o efetivo da Polícia Militar, e a Lei nº 16.899, de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar, e revoga a Lei nº 19.452, de 14 de setembro de 2016, que reorganiza os Quadros de Oficiais Auxiliares e Oficiais Músicos da Polícia Militar.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:
