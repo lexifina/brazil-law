@@ -1,0 +1,181 @@
+xxx
+INICIO
+EMENTA XXXDIREITO
+PROCESSUAL
+CIVIL.
+TRÊS
+EMBARGOS DE DECLARAÇÃO
+EM APELAÇÕES CÍVEIS.
+ALEGAÇÃO DE
+OMISSÃO,
+CONTRADIÇÃO
+E OBSCURIDADE.
+
+VÍCIOS
+INOCORRENTES
+NO ACÓRDÃO.
+EMBARGOS, TODOS,
+REJEITADOS.I. Caso em exame1. Embargos de declaração opostos
+de acórdão de desprovimento das apelações
+interpostas pelas rés.II. Questão em discussão2. Julgar se há vícios
+no acórdão embargado.III. Razões de decidir3.
+Quanto aos embargos de declaração n. 1, opostos pela MARCOPOLO S/A, não há vício sobre a natureza concursal do crédito, tampouco sobre a recuperação judicial
+da ré ARTECOLA. Portanto, o recurso deve ser rejeitado.
+4.
+Quanto aos embargos de declaração 2 e 3, opostos pelas rés, de igual modo não há vício, mas mera tentativa de rediscussão das apelações.
+IV. Dispositivo5. Embargos de declaração
+1, 2 e 3
+rejeitados.
+
+RELATÓRIOTrata-se de embargos de declaração opostos
+do
+v. acórdão de mov.
+58.1
+proferido nos autos de
+apelação n.
+0006740-08.2024.8.16.0035
+Ap,
+pelo qual
+as apelações
+foram desprovidas,
+conforme ementa a seguir:DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO REGRESSIVA POR PAGAMENTO DE DÉBITO TRABALHISTA E RESPONSABILIDADE SOLIDÁRIA. SENTENÇA DE PROCEDÊNCIA. MANUTENÇÃO. APELAÇÕES DESPROVIDAS.I. Caso em exame1. Apelações interpostas de sentença de procedência do pedido inicial para condenar cada uma das rés ao pagamento do equivalente a 16,66% do que a autora despendeu em execução trabalhista.II. Questão em discussão
+2. Julgar se o processo reúne as condições da ação; se a pretensão inicial está prescrita; e se há dever de ressarcimento.III. Razões de decidir
+3. A existência de recuperação judicial não afeta o interesse processual da autora, que busca um título judicial para habilitação do crédito.4. A pretensão inicial não está prescrita.5. Diante da solidariedade, presume-se que o cumprimento da obrigação originária era de interesse de todos os devedores solidários. No caso, a presunção não foi elidida. 6. As defesas sobre a atualização monetária devem ser discutidas no juízo da recuperação ou cumprimento da obrigação.IV. Dispositivo7. Apelações desprovidas.Jurisprudência relevante citada: TJPR, Apelação 0005796-40.2023.8.16.0035, Rel. Substituto Carlos Henrique
+Licheski
+Klein, 8ª Câmara Cível, j. 20.05.2025”.
+(TJPR - 9ª Câmara Cível - 0006740-08.2024.8.16.0035 - São José dos Pinhais
+-
+ Rel.: DESEMBARGADOR ROGERIO RIBAS
+-
+ J.
+25.06.2026).A embargante 1,
+MARCOPOLO S/A, opôs
+os
+embargos de declaração
+n. 1, 0015077-15.2026.8.16.0035 ED,
+tecendo as
+razões recursais a seguir:a)-
+“No caso em tela, a Marcopolo S.A. nunca foi “terceira”, mas sim integrou a lide trabalhista na condição de devedora solidária. Não houve “transmissão”, “cessão” ou “sub-rogação” da natureza do crédito à embargante, mas sim, o surgimento do direito regressivo. Nesta hipótese jurídica, existem duas solidariedades que devem ser analisadas, uma externa e outra interna”;b)-
+“A decisão deste colegiado determinou a
+submissão do crédito ao plano de recuperação judicial da GATRON. Entretanto, a sentença de mérito, mantida em segundo grau, atribuiu a condenação das demandadas em quotas partes:[...]”;c)-
+“Na linha do tópico anterior, o fato gerador da ação regressiva é o pagamento do crédito solidário na esfera da justiça do trabalho. O acórdão embargado equivocadamente reconheceu como “sub-rogação””.Pediu o acolhimento do recurso.A GATRON INOVAÇÃO EM COMPÓSITOS S/A e STABILIT-MVC PULTRUSÃO EM PLÁSTICOS S/A
+opuseram
+embargos de declaração
+n. 2,
+0015195-88.2026.8.16.0035 ED,
+tecendo as razões recursais a seguir:a)-
+“Ausência de manifestação do Acórdão quanto à anuência expressa da Embargada com a forma de exercício do regresso quando da votação do Plano de Recuperação Judicial”;b)-
+“Da omissão e contradição. Aplicabilidade do art. 9, II da Lei 11.101/2005. Pedido expresso recursal. Provimento judicial que deve ser certo, e não alternativo. Pronunciamento do Acórdão que, ao final, fixou critério diverso de atualização da dívida”;c)-
+“Da omissão. Aplicabilidade do Art. 11 da CLT e do art. 7º, XXIX da Constituição Federal. Vício de fundamentação quanto à aplicabilidade do prazo quinquenal”.Pediram o acolhimento do recurso.A
+ARTECOLA QUÍMICA S/A opôs os
+embargos de declaração n. 3, 0015263-38.2026.8.16.0035 ED, tecendo as razões recursais a seguir:a)-
+“DA CONTRADIÇÃO E OMISSÃO QUANTO À SUJEIÇÃO DO CRÉDITO À RECUPERAÇÃO JUDICIAL E AOS
+EFEITOS DA NOVAÇÃO LEGAL”;b)-
+“DA OMISSÃO QUANTO AO ART.
+285
+DO CÓDIGO CIVIL”;c)-
+“DA OMISSÃO QUANTO À TESE DO RESP
+1707.790/SP”;d)-
+“DA ATUALIZAÇÃO E SELIC. NECESSIDADE DE ACLARAMENTO”.Pediu
+o acolhimento do recurso.Oportunizado o contraditório, os autos retornaram.É o relatório
+dos três embargos de declaração.
+
+FUNDAMENTAÇÃO E VOTOOs
+recursos
+são
+tempestivos, então
+conheço dos três embargos de declaração.No mérito, contudo,
+não há qualquer vício
+a ser sanado
+no acórdão guerreado.A embargante 1, MARCOPOLO S/A, defende que
+haveria omissão sobre
+a ocorrência, ou não,
+de sub-rogação, havendo consequência para a submissão do crédito à recuperação judicial.No entanto,
+a natureza concursal do crédito
+foi reconhecida na sentença apelada e a
+ré embargante MARCOPOLO S/A nem mesmo interpôs apelação. Assim, não há que se falar de omissão
+sobre a matéria.Ainda, a MARCOPOLO S/A
+teceu considerações sobre “o encerramento da recuperação judicial da ARTECOLA”, mas sem apontar concretamente qual seria o vício.Seja como for, questões sobre
+a efetivação do direito deverão ser resolvidas na fase de cumprimento de sentença.Portanto,
+devem ser rejeitados os embargos de declaração n. 1.Por sua vez, a
+GATRON INOVAÇAO EM COMPOSITOS S/A – EM RECUPERAÇÃO JUDICIAL e GATRON PULTRUSÃO EM PLÁSTICOS S/A – EM RECUPERAÇÃO JUDICIAL,
+embargantes 2,
+defendem que
+haveria omissão sobre
+questões acerca do interesse processual; omissão e contradição quanto à correção monetária; e omissão acerca da prescrição.Ainda, a embargante 3, ARTECOLA QUÍMICA S/A, alega contradição e omissão no tocante à sujeição do crédito à recuperação judicial,
+omissão acerca da solidariedade, e omissão sobre
+jurisprudência invocada no seu apelo.No entanto, todas essas matérias
+foram abordadas
+de forma clara, linear e completa na fundamentação do acórdão embargado, conforme trecho a seguir:“GATRON INOVAÇÃO EM COMPÓSITOS S/A – EM RECUPERAÇÃO JUDICIAL e GATRON PULTRUSÃO EM PLÁSTICOS S/A – EM RECUPERAÇÃO JUDICIAL, assim como a ARTECOLA QUÍMICA S/A devolveram defesas processuais sobre
+interesse processual e ilegitimidade passiva.Enquanto o grupo GATRON defende que a autora apelada não teria interesse processual sob o fundamento de que o crédito deveria ser pago via recuperação judicial, a ARTECOLA, além disso, argumenta que apenas a GATRON INOVAÇÃO EM COMPÓSITOS S/A é que deveria participar da demanda, pois o crédito originário decorreria de relação de trabalho em que referida litisconsorte figurava como empregadora.No entanto, nenhuma dessas defesas merece acolhimento.O fato de existir um processo de recuperação judicial em nada diz respeito com o interesse processual nesta demanda, pois a autora em vez de apenas pedir a habilitação ou mover impugnação, optou por abrir a discussão sobre a extensão da responsabilidade numa via autônoma. Ambas as vias têm cognição exauriente, conforme entendimento do Superior Tribunal de Justiça:“RECURSO ESPECIAL. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. INCIDENTE DE IMPUGNAÇÃO DE CRÉDITO APRESENTADO PELO CREDOR. DISCUSSÃO ACERCA DA IMPORTÂNCIA DO CRÉDITO RELACIONADO. ACRÉSCIMO DE ENCARGOS MORATÓRIOS PREVISTOS EM CONTRATOS DE FINANCIAMENTO. ALEGAÇÃO DE ABUSIVIDADES EM CLÁUSULAS DESSES CONTRATOS. MATÉRIA DE DEFESA. POSSIBILIDADE. COGNIÇÃO EXAURIENTE. PROCEDIMENTO ORDINÁRIO. IMPOSSIBILIDADE DE SE RESTRINGIR O EXERCÍCIO DA AMPLA DEFESA.1. Controvérsia em torno da possibilidade de exame, em sede de impugnação de crédito incidente à recuperação judicial, acerca da existência de abusividade em cláusulas dos contratos de que se originou o crédito impugnado, alegada pela recuperanda como matéria de defesa.2, O incidente de impugnação de crédito configura procedimento de cognição exauriente, possibilitando o pleno contraditório e a ampla instrução probatória, em rito semelhante ao ordinário. Inteligência dos
+arts. 13 e 15 da Lei n. 11.101/05.3. Apesar de, no incidente de impugnação de crédito, apenas poderem ser arguidas as matérias elencadas no art. 8º da Lei n. 11.101/05, não há restrição ao exercício do amplo direito de defesa, que apenas se verifica em exceções expressamente previstas no ordenamento jurídico.4. Tendo sido apresentada impugnação de crédito acerca de matéria passível de discussão no incidente, a defesa não encontra restrições, estando autorizada inclusive a defesa material indireta,
+sendo despiciendo o ajuizamento de ação autônoma.5. Possibilidade de se alegar, como defesa à pretensão do credor de serem acrescidos encargos moratórios ao crédito relacionado, a abusividade das cláusulas dos contratos de financiamento.6. Doutrina e jurisprudência do STJ acerca do tema.7. RECURSO ESPECIAL PROVIDO” (REsp n. 1.799.932/PR, relator Ministro Paulo de Tarso
+Sanseverino, Terceira Turma, julgado em 1/9/2020,
+DJe
+de 9/9/2020.)Não se olvida que
+esta
+9ª Câmara Cível entendeu recentemente em julgamento de recurso similar que, diante da natureza concursal do crédito, a autora apelada não teria interesse processual, conforme ementa a seguir:“APELAÇÃO CÍVEL – AÇÃO DE REGRESSO – COBRANÇA DE VALORES PAGOS PELA AUTORA EM DEMANDA TRABALHISTA – FEITO EXTINTO SEM EXAME DE MÉRITO – RECURSO DA DEMANDANTE. CRÉDITOS RECLAMADOS PELA AUTORA QUE DEVEM SER PERSEGUIDOS NOS AUTOS DE RECUPERAÇÃO JUDICIAL – NATUREZA CONCURSAL DA VERBA – SUB-ROGAÇÃO QUE NÃO DEVE SER CONSIDERADA O FATO GERADOR DA DÍVIDA – JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA QUE ORIENTA QUE O FATO GERADOR É A CAUSA EFICIENTE MATERIAL DO CRÉDITO EM RELAÇÃO À EMPRESA DEVEDORA – SUB-ROGAÇÃO QUE TÃO SOMENTE ALTERA A TITULARIDADE DE UM CRÉDITO ANTERIORMENTE CONSTITUÍDO – INTELECÇÃO DO TEMA 1.051 DO STJ - VALORES PERSEGUIDOS PELA DEMANDANTE CONSTITUÍDOS ANTES DO PEDIDO DE RECUPERAÇÃO DA PARTE RÉ EM 2017 – RELAÇÃO TRABALHISTA QUE PERDUROU NOS ANOS DE 2014 E 2015. DEMANDANTE QUE,
+ADEMAIS, PARTICIPOU DA ELABORAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL DA RÉ – PLANO HOMOLOGADO QUE EXPRESSAMENTE PREVÊ QUE EVENTUAL PRETENSÃO REGRESSIVA DECORRENTE DE
+SUB-ROGAÇÃO
+DE COOBRIGADO EM DÍVIDA QUE JÁ CONSTAVA NA RELAÇÃO DE CREDORES DEVE SER RESOLVIDA NOS AUTOS DE RECUPERAÇÃO JUDICIAL. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA (TJPR - 9ª Câmara Cível - 0010152-78.2023.8.16.0035 - São José dos Pinhais
+-
+ Rel.: DESEMBARGADOR ALEXANDRE BARBOSA FABIANI
+-
+ J.
+07.05.2025).No entanto, o que se discute aqui não é se o crédito é ou não concursal --- inclusive porque a autora nem mesmo replica tal afirmação (mov.
+58.1)---, mas se há ou não há interesse processual na propositura de ação de conhecimento.No caso, a autora apelada busca encerrar a crise de certeza sobre o dever de as rés ressarcirem, e em que medida, o que pagou da condenação solidária na esfera trabalhista, sendo a ação de conhecimento o meio adequado para tanto.Se a via é adequada e se há utilidade na ação de conhecimento, há interesse processual.Dessa forma, esta demanda deve prosseguir na forma do § 1º do art. 6º da Lei de Recuperação de Empresas, ficando afastada a arguição de carência de interesse processual levantada pelas apelantes.Quanto ao fato de a empregada que moveu a reclamatória trabalhista ter vínculo direto apenas com a corré também apelante GATRON INOVAÇÃO EM COMPÓSITOS S/A não enseja nem carência de interesse processual da autora nem ilegitimidade passiva da ré apelante ARTECOLA, pois tal defesa diz respeito unicamente com a matéria de mérito acerca do dever, ou não, da essa ré pagar à autora
+a quota-parte oriunda da dívida originária. São matérias que não se confundem.Seja como for, o “contrato de compra e venda de ações” juntado no mov. 1.11, que será abordado no mérito, comprova a existência de relação jurídica material entre a ré apelante ARTECOLA e a autora MARCOPOLO.Não bastasse isso, há prova da pertinência subjetiva da demanda com a condenação de todas as partes desta demanda na esfera trabalhista, conforme sentença de mov. 1.14.Enfim, as defesas processuais não merecem acolhimento.No
+mérito, a alegação de prescrição não prospera.De início, registro que nem prazo bienal previsto no art. 7º, XXIX, da Constituição da República levantado pelas rés apelantes, nem o prazo decenal geral do art. 205 do Código Civil adotado na sentença recorrida são aplicáveis ao caso.O prazo de dois anos previsto no art. 7º, XXIX, da CR é incompatível com o regime cível aplicável à relação jurídica entre autora e rés, na medida em que inexiste entre elas contrato de trabalho, que é o marco temporal para início daqueles dois anos.No entanto, referido dispositivo também prevê um prazo prescricional de cinco anos, que tem incidência na pretensão movida nesta demanda em razão de o crédito originário ter natureza trabalhista.Então, aplica-se o
+prazo quinquenal
+de prescrição previsto no art. 7º, XXIX, da CR.Esta 9ª Câmara Cível julgou a matéria
+recentemente, conforme ementa a seguir:“DIREITO CIVIL. AGRAVO DE INSTRUMENTO. DECISÃO QUE REJEITOU ALEGAÇÃO DE PRESCRIÇÃO. EXERCÍCIO DO DIREITO DE REGRESSO APÓS PAGAMENTO DE DÍVIDA TRABALHISTA. PRAZO PRESCRICIONAL QUINQUENAL. DECISÃO MANTIDA. RECURSO DESPROVIDO.I. CASO EM EXAME 1. Agravo de instrumento interposto de decisão que rejeitou prescrição em ação regressiva cumulada com danos morais e materiais. II. QUESTÃO EM DISCUSSÃO2. Julgar se o prazo prescricional aplicável à pretensão de ressarcimento em ação regressiva decorrente de pagamento de débitos trabalhistas é de dois, cinco ou dez anos. III. RAZÕES DE DECIDIR3.
+O prazo prescricional aplicável à pretensão de regresso decorrente de pagamento de débito trabalhista é de cinco anos, conforme o art. 7º, XXIX, da Constituição da República.4. O prazo bienal previsto no art. 7º, XXIX, da Constituição da República é incompatível com a relação jurídica havida entre os litigantes, pois inexiste a figura do contrato de trabalho, então o caso exige aplicação do prazo quinquenal previsto no mesmo dispositivo.5. A decisão recorrida foi correta ao rejeitar a arguição de prescrição, pois não houve transcurso do prazo de cinco anos.6. A discussão sobre a prescrição na hipótese admite diferentes interpretações, mas a aplicação do prazo quinquenal é a mais adequada. IV. DISPOSITIVO E TESE7. Recurso desprovido. Tese de julgamento: “é incompatível com o exercício da pretensão regressiva cível a aplicação do prazo bienal do art. 7º, XXIX, da Constituição da República” _________Dispositivos relevantes citados: CR/1988, art. 7º, XXIX; CC/2002.Jurisprudência relevante citada: STJ, REsp n. 1.707.790/SP, Rel. Min. Marco Aurélio
+Bellizze, Terceira Turma, j. 14.12.2021; e STJ, REsp n.
+2.086.201/MG, Rel. Min. Nancy Andrighi, Terceira Turma, j. 19.03.2024.TJPR, Apelação 0023308-80.2019.8.16.0001, Rel. Desembargador Substituto Humberto Goncalves Brito, 10ª Câmara Cível, j. 11.03.2021; e TJPR Apelação 0000958-69.2016.8.16.0174 - União da Vitória Relatora DESEMBARGADORA DENISE KRUGER PEREIRA - J. 02.03.2018 (TJPR - 9ª Câmara Cível - 0096533-63.2024.8.16.0000 - Cascavel -
+ Rel.: DESEMBARGADOR ROBERTO PORTUGAL BACELLAR - Rel.
+Desig. p/ o Acórdão: DESEMBARGADOR ROGERIO RIBAS
+-
+ J.
+27.03.2025).O bloqueio de R$ 100.328,79 ocorreu em setembro de 2021 e o pagamento remanescente em 18/7/2022, sendo extinta a execução trabalhista por sentença proferida em 18/10/2022 (mov. 49.27), enquanto a demanda foi proposta em 8/7/2024.Enfim, independentemente do termo inicial que se adote, não houve o transcurso do prazo prescricional de cinco anos.Portanto,
+fica rejeitada a defesa de mérito relativa à prescrição.Quanto ao
+dever de ressarcimento, a sentença recorrida julgou procedentes os pedidos iniciais para condenar cada uma das requeridas ao pagamento do equivalente a 16,66% do que foi pago pela autora apelada na execução trabalhista.O grupo GATRON devolveu as defesas no sentido de que o crédito buscado pela autora está submetido à recuperação judicial, que foi novado e que a atualização monetária somente poderia correr até o dia do pedido de recuperação, mas nenhuma prospera.Isso porque a novação decorrente do plano de
+recuperação e a atualização monetária devem ser discutidas no âmbito de cumprimento da obrigação, ou seja, pelo juízo da recuperação judicial ou na fase de cumprimento a depender do caso.Este Tribunal de Justiça já julgou o tema, aliás, conforme ementa a seguir:“APELAÇÃO CÍVEL. AÇÃO REGRESSIVA. PAGAMENTO INTEGRAL DE CONDENAÇÃO EM AÇÃO TRABALHISTA POR RECONHECIMENTO DE GRUPO ECONÔMICO. SENTENÇA DE PARCIAL PROCEDÊNCIA. PRELIMINAR DE AUSÊNCIA DE INTERESSE DE AGIR REJEITADA. BINÔMIO NECESSIDADE-UTILIDADE PRESENTE. PROCEDIMENTO ADEQUADO. PREVISÕES DO PLANO DE RECUPERAÇÃO INAPLICÁVEIS AO CASO CONCRETO. NATUREZA CONCURSAL RECONHECIDA NA SENTENÇA E QUE NÃO FOI OBJETO DE RECURSO.
+LIMITAÇÃO DA INCIDÊNCIA DA CORREÇÃO MONETÁRIA NOS TERMOS DO ART. 9º, II DA LEI 11.101/2005 QUE DEVERÁ SER ANALISADA, EVENTUALMENTE, PELO JUÍZO DA RECUPERAÇÃO JUDICIAL. MULTA POR LITIGÂNCIA DE MÁ-FÉ. HIPÓTESE NÃO CONFIGURADA. RESTITUIÇÃO INTEGRAL. SOLIDARIEDADE RECONHECIDA NA ESFERA TRABALHISTA QUE NÃO SE APLICA AUTOMATICAMENTE À ESFERA CÍVEL. DÍVIDAS TRABALHISTAS DECORRENTES DE RELAÇÃO DE TRABALHO DA QUAL A RÉ SE BENEFICIOU. INTERESSE EXCLUSIVO DA DEVEDORA. ART. 285, DO CÓDIGO CIVIL. SENTENÇA PARCIALMENTE REFORMADA. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. APELAÇÃO DA GATRON CONHECIDA E DESPROVIDA.RECURSO ADESIVO DA MARCOPOLO S/A CONHECIDO E PROVIDO. (TJPR - 8ª Câmara Cível - 0005796-40.2023.8.16.0035 - São José dos Pinhais
+-
+ Rel.:
+SUBSTITUTO CARLOS HENRIQUE LICHESKI KLEIN
+-
+ J.
+20.05.2025).Enfim, o apelo do grupo GATRON deve ser desprovido.Por seu turno, a ARTECOLA devolveu a defesa sobre a
+sujeição do crédito à recuperação judicial
+da litisconsorte GATRON, bem como à sua própria recuperação judicial, tecendo considerações sobre a atualização monetária, e, ainda, defendeu que dívida solidária interessaria exclusivamente à GATRON, o que afastaria sua responsabilidade; contudo, nenhuma dessas defesas prospera.O mero fato de a reclamante na esfera trabalhista ter sido empregada apenas da ré apelante GATRON INOVAÇÃO EM COMPÓSITOS S/A, por si só, não tem o condão de direcionar para essa requerida a totalidade da condenação nesta demanda.Além do reconhecimento da obrigação solidária na esfera trabalhista, no caso a autora apelada comprovou também que existiu um grupo econômico com o “contrato de compra e venda de ações MVC COMPONENTES PLÁSTICOS S.A.” envolvendo a ré apelante ARTECOLA e a autora apelada MARCOPOLO S/A (mov. 1.11).A MVC Componentes Plásticos S/A, por sua vez, foi mencionada no plano de recuperação judicial como “antiga denominação social da primeira Recuperanda, GATRON INOVAÇÃO EM COMPÓSITOS S/A”, vide mov. 49.33, ou seja, a litisconsorte e apelante GATRON INOVAÇÃO EM COMPÓSITOS S/A.Então, não ficou afastada a presunção de que a obrigação solidária interessa a todas as partes. A doutrina esclarece a questão:“Se a dívida solidária interessar exclusivamente a um dos devedores, responderá este por toda ela para com aquele que pagar (art. 285
+do
+CC).
+A presunção, até prova contrária, é no sentido de interessar o cumprimento da obrigação a todos os obrigados solidários.
+Mas é admissível prova em contrário, baseada no título ou até nas próprias circunstâncias do negócio (v.g., pagamentos dos aluguéis pelo fiador, no interesse exclusivo do locatário)” (WALD, Arnoldo. Direito das obrigações e teoria geral dos contratos [livro eletrônico] / Arnoldo Wald, Ana Elizabeth L. W. Cavalcanti, Liliana Minardi
+Paesani. -- 1. ed. -- São Paulo: Thomson Reuters Brasil, 2023).Sobre as razões recursais acerca da sujeição do crédito à recuperação judicial, a rigor, não há interesse recursal, na medida em que constou da r. sentença recorrida, inclusive em destaque, o seguinte:“[...] Não se olvide da
+imperiosa necessidade de observância aos requisitos legais e formalidades estabelecidas pela legislação aplicável (Lei 11.101/2005) oportunamente, quando da habilitação da ora requerente nos autos de recuperação judicial da empresa ré.
+Anote-se que tal questão sequer foi rebatida pela parte autora, que declarou expressamente na impugnação à contestação que tem ciência da recuperação judicial, mas se viu obrigada ao ajuizamento desta demanda para buscar reaver o débito pago na integralidade.Portanto, uma vez declarado o valor devido pela requerida à autora, deverá esta promover a habilitação do crédito na esfera adequada, cabendo àquele juízo a análise de adequação da habilitação e fiscalização do cumprimento das obrigações da recuperanda” (mov. 79.1).Ainda, reitero que a
+questão relativa à atualização monetária atrelada ao plano de recuperação judicial
+deve ser tratada ou em fase de cumprimento ou em habilitação/impugnação, a depender do caso.Portanto, o apelo interposto pela ré ARTECOLA também exige desprovimento.De resto, observo que o juízo de origem determinou a aplicação da nova redação do art. 406 do Código Civil apenas a partir de 1/7/2024.Contudo, diante da observância obrigatória, deverá ser observada a tese fixada pelo Superior Tribunal de Justiça no julgamento do tema repetitivo n. 1368: “O art. 406 Código Civil de 2002, antes da entrada em vigor da Lei n° 14.905/2024, deve ser interpretado no sentido de que é a SELIC a taxa de juros de mora aplicável às dívidas de natureza civil, por ser esta a taxa em vigor para a atualização monetária e a mora no pagamento de impostos devidos à Fazenda Nacional””.Ainda, sobre a alegada omissão acerca de julgamento invocado
+nas razões recursais do apelo da embargante 3, ARTECOLA QUÍMICA S/A, não há vício, na medida em
+que o julgamento mencionado
+sobre a prescrição não se enquadra no conceito de
+entendimento vinculante.
+Consequentemente, em se tratando de
+jurisprudência
+persuasiva, mas não vinculante,
+não incide o art. 489,
+§ 1º,
+VI, do CPC.Portanto, não há vício, mas mera intenção
+das partes em
+rediscutir o
+julgamento
+dos recursos, o que é inadmissível nesta via.De resto, registro ser desnecessária a menção expressa
+dos
+dispositivos legais, tendo em vista
+o que determina o art. 1.025 do CPC.Posto isso, voto
+no sentido de
+rejeitar os
+três
+embargos de declaração.É como voto.
