@@ -1,0 +1,45 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+DIREITO TRIBUTÁRIO. AGRAVO INTERNO. TEMA 1304 DO STJ. ICMS. PIS. COFINS. BASE DE CÁLCULO. IPI. INCLUSÃO. AGRAVO INTERNO DA IMPETRANTE NÃO PROVIDO.
+I. Caso em exame
+1.Trata-se de agravo de interno interposto pela imperante em face da decisão monocrática que negou provimento à apelação por ela interposta.
+II. Questão em discussão
+2. Analisar a possibilidade de exclusão do ICMS, PIS e COFINS da base do IPI.
+III. Razões de decidir
+3. O Superior Tribunal de Justiça, no julgamento do REsp 2119311/SC [https://ww2.stj.jus.br/processo/pesquisa/?tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202400168741] ,REsp 2143866/SP [https://ww2.stj.jus.br/processo/pesquisa/?tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202400242428] e REsp 2143997/SP [https://ww2.stj.jus.br/processo/pesquisa/? tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202400059734] , sob o rito da repercussão geral, decidiu a respeito da questão.
+4. Assim, foi fixada a tese do Tema 1304, nos seguintes termos: "Não é possível excluir o ICMS, o PIS e a COFINS da base de cálculo do IPI, a partir do conceito de "valor da operação" inserto no art. 47, II, a, do CTN; e no art. 14, II, da Lei 4.502/1964".
+5. A inclusão do ICMS, PIS e COFINS na base de cálculo do IPI está de acordo com o art. 47 do CTN e o art. 14 da Lei nº 4.502/1964, não havendo previsão legal para sua exclusão.
+6. Cumpre destacar que por não se tratar de situação idêntica, descabe a aplicação analógica do entendimento firmado no Recurso Extraordinário nº 574.706/PR, uma vez que a Suprema Corte não estendeu tal entendimento a todos os tributos.
+7. O Supremo Tribunal Federal tem entendimento firmado no sentido de se tratar de matéria infraconstitucional
+8. No que se refere aos artigos 1313, IV, 1.030, III, e 1.037, inciso II, do CPC, artigo 46, II; 47, II; 97 e 110 do CTN, artigo 14, inciso II e §1º, da Lei 4.502/1964, artigo 190, inciso II e §1º, do Decreto nº 7.212/2010 e artigos 5º, II, 145, §1º, 150, I e IV, e 153, IV, da Constituição Federal, não há como acolher a alegação de violação, uma vez que a decisão encontra-se devidamente fundamentada e alinhada à jurisprudência predominante sobre a matéria.
+IV. Dispositivo e tese
+9. Agravo interno não provido.
+Tese de julgamento:
+"1. Deve prevalecer o entendimento adotado pelo Superior Tribunal de Justiça no Tema 1304, devendo os Tribunais decidir em conformidade.
+2. Os valores relativos ao ICMS, PIS e COFINS não podem ser excluídos da base de cálculo do IPI.
+3. As razões recursais não contrapõem os fundamentos do r. decisum de modo a demonstrar qualquer desacerto, limitando-se a reproduzir argumentos os quais visam à rediscussão da matéria nele contida".
+Dispositivos relevantes citados: Artigos: 313, IV, 1.030, III, e 1.037, inciso II, do CPC, artigo 46, II; 47, II; 97 e 110 do CTN, artigo 14, inciso II e §1º, da Lei 4.502/1964, artigo 190, inciso II e §1º, do Decreto nº 7.212/2010 e artigos 5º, II, 145, §1º, 150, I e IV, e 153, IV, da Constituição Federal.
+
+No recurso extraordinário sustenta-se violação do(s) art.(s)  5º, inciso II; 145, §1º; 150, incisos I e IV; e 153, inciso IV, da Constituição Federal.
+Decido.
+Analisados os autos,  verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, a propósito:
+
+“Agravo regimental no recurso extraordinário. Direito Tributário. Base de cálculo do Imposto sobre a Renda de Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL). Pretendida exclusão do valor de ICMS. Contribuinte optante pelo sistema de lucro presumido. Controvérsia infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame da legislação infraconstitucional. 2. Agravo regimental não provido, com imposição de multa de 1%(um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).” (RE 1.239.422-AgR, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe de 15/09/2020)
+
+“Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Base de cálculo do IRPJ e da CSLL. Exclusão dos valores contabilizados a título de ICMS. 3. A conceituação de lucro, base de cálculo de tais exações, não prescinde do exame da legislação complementar federal, o que distingue a controvérsia recursal daquela referente ao tema 69 do Plenário Virtual, que envolve o conceito constitucional de faturamento. Precedentes. 4. Negado provimento ao agravo regimental, sem majoração de honorários.” (ARE 1.020.143- AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 01/08/2019)
+
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CSLL E IRPJ. BASE DE CÁLCULO. LUCRO PRESUMIDO. EMPRESA PRESTADORA DE SERVIÇO DE MÃO DE OBRA TEMPORÁRIA. VALORES RECEBIDOS PARA O PAGAMENTO DE SALÁRIOS E DEMAIS ENCARGOS TRABALHISTAS E SOCIAIS. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. INVIABILIDADE EM SEDE EXTRAORDINÁRIA. EQUIVALÊNCIA DAS EXPRESSÕES “FATURAMENTO” E “RECEITA BRUTA”. TOTALIDADE DAS RECEITAS AUFERIDAS COM A VENDA DE MERCADORIAS E SERVIÇOS. AGRAVO REGIMENTAL DESPROVIDO.” (AI 860.933-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJ de 09/12/2015).
+
+“DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. IPI. BASE DE CÁLCULO. TRIBUTOS INCIDENTES NA SAÍDA DO ESTABELECIMENTO IMPORTADOR. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. 1. O Tribunal de origem, com apoio na legislação infraconstitucional e no acervo fático probatório, decidiu pela validade da base de cálculo do IPI na saída do estabelecimento importador. Para dissentir das conclusões do acórdão recorrido, seria imprescindível o reexame da legislação infraconstitucional aplicável (Código Tributário Nacional e IN SRF nº 247/2002), bem como do acervo probatório dos autos, providência inviável em recurso extraordinário. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 1.190.689-AgR, Rel. Min Luís Roberto Barroso, Primeira Turma, DJe de 24/10/2019).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 4 de novembro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
