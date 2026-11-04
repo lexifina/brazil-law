@@ -1,0 +1,68 @@
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIMES DE TRÁFICO ILÍCITO DE ENTORPECENTES, DE ASSOCIAÇÃO PARA O TRÁFICO E DE DISPARO DE ARMA DE FOGO. ARTIGOS 33 E 35, DA LEI Nº 11.343/2006, E ART. 15 DA LEI Nº 10.826/2003. ALEGADA NULIDADE DA PROVA. TEMA NÃO APRECIADO PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL.
+- Seguimento negado, com fundamento no artigo 21, § 1º do RISTF. Prejudicado o exame da medida liminar.
+
+Decisão: Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão do Superior Tribunal de Justiça no habeas corpus nº 1.079.869, assim ementado:
+
+“DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO  HABEAS   CORPUS. SUPRESSÃO DE INSTÂNCIA. NULIDADE DE BUSCA DOMICILIAR NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. REVISÃO CRIMINAL. PROVA NOVA NÃO SUBMETIDA AO CONTRADITÓRIO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado após julgamento de revisão criminal, por supressão de instância, diante da ausência de exame, pelo Tribunal de origem, da tese de nulidade da busca domiciliar.
+2. O agravante alega indevida não apreciação da nulidade do ingresso domiciliar, sustenta a possibilidade de concessão de habeas corpus de ofício após o trânsito em julgado e questiona a desconsideração, pela Corte local, de prova nova não submetida ao contraditório.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se: (i) é possível ao Tribunal Superior apreciar, em habeas corpus, a nulidade da busca domiciliar não examinada pelo Tribunal de origem no julgamento de revisão criminal, sem incorrer em supressão de instância; e (ii) se a suposta nova prova apresentada pela defesa, não submetida ao crivo do contraditório em procedimento de justificação criminal, pode ser considerada para fins de revisão da condenação na via do habeas corpus.
+III. Razões de decidir
+4. O Tribunal de origem não examinou expressamente a tese de nulidade da busca domiciliar no julgamento da revisão criminal, o que impede o conhecimento originário da matéria pelo Tribunal Superior, sob pena de indevida supressão de instância.
+5. A suposta nova prova apresentada pela defesa foi corretamente desconsiderada pela Corte de origem, por não ter sido produzida sob o crivo do contraditório e da ampla defesa, o que deveria ocorrer em sede de justificação criminal.
+6. Inexistente ilegalidade flagrante ou teratologia que autorize a concessão de habeas corpus de ofício, impõe-se a manutenção da decisão que não conheceu da impetração.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. Os Tribunais Superiores não podem apreciar, em habeas corpus, nulidade de busca domiciliar não examinada pelo Tribunal de origem no julgamento da revisão criminal, sob pena de supressão de instância.
+2. A nova prova apta a embasar revisão da condenação deve ser produzida em procedimento de justificação criminal, sob contraditório e ampla defesa, sendo insuficiente documento ou declaração não submetidos a esse crivo.”
+
+Colhe-se dos autos que o paciente foi condenado definitivamente à pena de 12 (doze) anos, 06 (seis) meses e 12 (doze) dias de reclusão, no regime inicial fechado, pela prática dos crimes tipificados nos arts. 33 e 35, da Lei nº 11.343/2006, e art. 15 da Lei nº 10.826/2003.
+Posteriormente, a defesa ajuizou revisão criminal, que foi julgada improcedente pelo Tribunal de origem.
+Ato contínuo, foi manejado habeas corpus perante o Superior Tribunal de Justiça, que não conheceu do writ. O agravo regimental interposto foi julgado nos termos da ementa supratranscrita.
+Sobreveio a presente impetração, na qual a defesa sustenta constrangimento ilegal consubstanciado na suposta ilicitude das provas.
+Aponta que “pelo que se vislumbra de todo processo, inclusive, desde o inquérito policial é que o Paciente sofreu uma sessão de tortura por parte dos policiais militares que atenderam a ocorrência”. Afirma que “as câmeras dos policiais somente iniciam as gravações após o requerente e sua esposa já estarem algemados”. Argumenta que “as provas que fundamentaram a condenação foram obtidas mediante violação de direitos fundamentais, configurando grave ilegalidade”.
+Ao final, formula pedido nos seguintes termos:
+
+“Pelo exposto, requer a concessão do presente writ com o fim:
+Reconhecer que houve tortura e agressões por parte dos agentes públicos para que o Paciente informasse onde estariam as drogas;
+Reconhecer a ilicitude das provas colhidas em decorrência dessas violações (artigo 157,§1ª CPP e art. 5º, incisos III, X, XI, LIV e LXIII).”
+
+É o relatório, DECIDO.
+
+In casu, inexiste situação que permita a concessão da ordem de ofício ante a ausência de teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+
+“[...] O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante.
+Consoante outrora aduzido, da atenta leitura do acórdão impugnado, verifica-se que o Tribunal de origem não se manifestou expressamente sobre a tese de nulidade da busca domiciliar no julgamento da revisão criminal, restando afastada a competência desta Corte Superior para conhecimento da matéria, sob pena de incorrer em indevida supressão de instância.
+A propósito (grifos nossos):
+[...]
+Ademais, a Corte de origem desconsiderou a suposta nova prova apresentada pela defesa (declaração de vizinha indicada pelo requerente), eis que não foi submetida ao crivo do contraditório, que deveria ser exercido em sede de justificação criminal, entendimento que está em consonância com a jurisprudência deste Superior Tribunal de Justiça.
+Nesse sentido (grifos nossos):
+[...]
+Ante o exposto, voto pelo desprovimento do agravo regimental.”
+
+Com efeito, em relação aos pleitos da defesa, verifico que o Superior Tribunal de Justiça não se manifestou sobre a matéria nos moldes propostos pela defesa.
+Nesse contexto, o conhecimento desta impetração sem que a instância precedente tenha examinado a matéria levada a seu conhecimento consubstancia indevida supressão de instância e, por conseguinte, violação das regras constitucionais definidoras da competência dos Tribunais Superiores, valendo conferir os seguintes precedentes desta Corte:
+
+Direito processual penal. Agravo regimental em habeas corpus. Crimes de tortura, roubo majorado e corrupção de menores. Pedido de prisão domiciliar. Inadequação da via eleita. Supressão de instâncias. Jurisprudência do Supremo Tribunal Federal. 1. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux). 2. Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça (STJ), não compete ao STF examinar a questão de direito implicada na impetração. Precedentes. 3. As alegações da defesa não foram sequer analisadas pelas instâncias de origem (Tribunal de Justiça do Estado de São Paulo e STJ). Fato que impede o imediato exame da matéria pelo STF, sob pena de dupla supressão de instâncias. 4. A Segunda Turma do STF, no julgamento do HC 143.641, Rel. Min. Ricardo Lewandowski, decidiu pela “substituição da prisão preventiva pela domiciliar – sem prejuízo da aplicação concomitante das medidas alternativas previstas no art. 319 do CPP – de todas as mulheres presas, gestantes, puérperas ou mães de crianças e deficientes, nos termos do art. 2º do ECA e da Convenção sobre Direitos das Pessoas com Deficiências (Decreto Legislativo 186/2008 e Lei 13.146/2015), relacionadas neste processo pelo DEPEN e outras autoridades estaduais, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos juízes que denegarem o benefício” (grifos acrescentados). Na sequência, determinou a “extensão da ordem de ofício a todas as demais mulheres presas, gestantes, puérperas ou mães de crianças e de pessoas com deficiência, bem assim às adolescentes sujeitas a medidas socioeducativas em idêntica situação no território nacional, observadas as restrições acima” (grifos acrescentados). 5. Trata-se de paciente presa preventivamente pela suposta prática dos crimes de tortura, roubo majorado e corrupção de menores. De modo que, tendo os crimes sido praticados com violência, não é possível estender à acionante os efeitos da decisão proferida pela Segunda Turma do STF. Precedente: o HC 156.026-AgR, Rel. Min. Edson Fachin. 6. Agravo regimental a que se nega provimento. (HC 216.782-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 31/8/2022)
+
+AGRAVO INTERNO EM HABEAS CORPUS. DECISÃO CONDENATÓRIA TRANSITADA EM JULGADO. HABEAS CORPUS UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. AUSÊNCIA DE ILEGALIDADE EVIDENTE. HABEAS CORPUS NÃO CONHECIDO. 1. É inviável a utilização do habeas corpus como sucedâneo de revisão criminal. 2. Não se admite o habeas corpus, por caracterizar supressão de instância, quando as razões apresentadas pela parte impetrante não houverem sido apreciadas pelo Tribunal apontado como coator. 3. A revisão da fração aplicada na dosimetria da pena é inadmissível na via estreita do habeas corpus, que não comporta dilação probatória. 4. Ausentes ilegalidade ou vício de fundamentação, não cabe refazer a dosimetria da pena em habeas corpus. 5. Agravo interno desprovido. (HC 217.613-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 6/10/2022)
+
+Outrossim, eventual exame da pretensão defensiva demandaria uma indevida incursão na moldura fática delineada nos autos. O habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático probatório engendrado nos autos. Destarte, não se revela cognoscível a insurgência que não se amolda à estreita via eleita. Nesse sentido:
+
+Direito processual penal. Agravo regimental no habeas corpus. Reiteração de impetração. Inadmissibilidade. Recurso desprovido. I. Caso em exame 1. Agravo regimental interposto contra decisão que negou seguimento a habeas corpus, o qual buscava caracterizar ilegalidade da condenação do agravante na Ação Penal 1501279-71.2021.8.26.0628. 2. O agravante argumenta que a decisão do Superior Tribunal de Justiça impugnada no HC 232.684 não havia se manifestado sobre o mérito da impetração, e que a decisão monocrática negativa nesse HC não foi confirmada pela Segunda Turma. II. Questão em discussão 3. A questão em discussão consiste em saber se é admissível a reiteração de habeas corpus para anular a mesma condenação, sob diversos argumentos de error in judicando. III. Razões de decidir 4. Não foi concedida a ordem de ofício, no precedente HC 232.684, pela impossibilidade de profundo revolvimento do acervo fático-probatório em sede de habeas corpus, o qual é o mesmo fundamento do apontado ato coator. 5. Embora a decisão em habeas corpus não forme coisa julgada material, ela constitui o pronunciamento da Corte sobre a controvérsia, que deve ser único, sob pena de instrumentalização do Tribunal pela repetição de impetrações até a obtenção de decisão favorável. IV. Dispositivo 6. Agravo regimental desprovido. (HC 260.818-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 22/10/2025)
+
+Ainda, não cabe a rediscussão da matéria perante essa Corte e nesta via processual, porquanto o habeas corpus não é sucedâneo de recurso ou revisão criminal. Nesse sentido:
+
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. Para concluir em sentido diverso das instâncias anteriores quanto ao pleito de absolvição ou desclassificação da imputação de falta grave, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 3. Agravo regimental conhecido e não provido. (RHC 217.371-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 9/9/2022)
+
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. REGIME. AUSÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOROLOGIA A INFIRMAR JULGAMENTO ACOBERTADO PELA COISA JULGADA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso ordinário em habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 2. Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, o que não se verifica na espécie. 3. Agravo regimental desprovido. (RHC 213.694-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 26/8/2022)
+
+Ex positis, NEGO SEGUIMENTO ao habeas corpus, com fundamento no artigo 21, § 1º do RISTF. Prejudicado o exame da medida liminar.
+Publique-se.
+Brasília, 4 de novembro de 2026.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
