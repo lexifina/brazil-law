@@ -1,0 +1,42 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Mario Cesar da Silva Monteiro contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao AgRg no AREsp 3.243.323/RJ.
+
+Consta de documento encartado a estes autos que o paciente foi condenado “[...] pela prática do crime previsto no art. 312 [peculato], § 1º [aplica-se a mesma pena, se o funcionário público, embora não tendo a posse do dinheiro, valor ou bem, o subtrai, ou concorre para que seja subtraído, em proveito próprio ou alheio, valendo-se de facilidade que lhe proporciona a qualidade de funcionário], do Código Penal, por três vezes, às penas de 2 (dois) anos e 8 (meses) meses e 12 (doze) dias de reclusão e 18 (dezoito) dias-multa, no valor unitário mínimo, a ser cumprida em regime inicial aberto. A pena privativa de liberdade foi substituída por duas penas restritivas de direito, a serem definidas pelo Juízo de Execução Penal [...]” (doc. 5, p. 101).
+
+Neste writ, a impetrante sustenta, em síntese, que:
+
+O acórdão recorrido afirmou que as provas são robustas e apontam para a inequívoca responsabilidade do ora paciente. Contudo, a leitura atenta dos fundamentos do julgado revela que a C. Turma lastreou a condenação em inferências sobre comportamentos que, individualmente e em conjunto, comportam explicação alternativa razoável absolutamente compatível com o exercício normal das funções laborais do paciente.
+O art. 386, inciso VII, do Código de Processo Penal determina que o juiz absolverá o réu quando não existir prova suficiente para a condenação. Esse dispositivo traduz, no plano processual, a garantia constitucional da presunção de inocência inscrita no art. 5º, inciso LVII, da Constituição Federal. A norma não exige que a prova seja nula ou inexistente; exige que seja suficiente para gerar a certeza indispensável ao decreto condenatório. Subsistindo dúvida razoável, a absolvição é imperativa.
+O acórdão recorrido reconhece, implicitamente, que nenhuma prova demonstra de forma direta e inequívoca o ato de apropriação. O que as imagens mostram são condutas que o próprio julgado admite poderem ser, em tese, acidentais – notadamente a derrubada dos contêineres – mas que o Tribunal interpretou como deliberadas e estratégicas a partir de um juízo de probabilidade. Esse raciocínio, por mais plausível que possa parecer ao julgador, não equivale à certeza exigida para a condenação criminal.
+[...]
+Diante da existência de hipótese alternativa razoável não refutada com certeza pela prova produzida, a absolvição era a única resposta juridicamente admissível, nos termos do art. 386, inciso VII, do Código de Processo Penal. A manutenção da condenação pelo acórdão recorrido, nessas condições, viola frontalmente esse dispositivo e o princípio constitucional da presunção de inocência.
+[...]
+Subsidiariamente, caso não seja acolhida a tese absolutória, o acórdão recorrido também violou o art. 59 do Código Penal e o art. 71 do mesmo diploma ao confirmar a exasperação de 3 meses na pena-base com fundamento nas consequências do crime, considerando, para tanto, a ausência de recuperação dos bens e a pluralidade de vítimas atingidas.
+[...]
+Desse modo, caso mantida a condenação, a pena-base deve ser fixada no mínimo legal, afastando-se a valoração negativa das consequências do crime que repousa sobre circunstâncias inerentes ao tipo penal e sobre dados fáticos já utilizados para a aplicação da continuidade delitiva. (doc. 1, pp. 3-4 e 5-6).
+
+E, ao final, requer:
+
+[...] o conhecimento do presente writ, concedendo-se a ordem liminar, caracterizada no fumus boni iuris e no periculum in mora para desconstituir-se o acórdão da C. Sexta Turma do eg. Superior Tribunal de Justiça, e no mérito, requer-se seja reconhecida a violação aos dispositivos suscitados, para absolver o ora paciente com fundamento no art. 386, inciso VII, do Código de Processo Penal, ante a insuficiência de prova para a condenação; alternativamente, que seja afastada a valoração negativa das consequências do crime na pena-base, reduzindo-a ao mínimo legal, por violação ao art. 59 do Código Penal e por bis in idem com a causa de aumento da continuidade delitiva prevista no art. 71, do Código Penal. Outrossim, requer a intimação pessoal do Defensor Público-Geral Federal para acompanhar o presente feito, bem como a notificação pessoal quando da colocação do feito em mesa para julgamento, para fins de sustentação oral. (doc. 1, pp. 7-8).
+
+É o relatório necessário. Decido.
+
+Colaciono, por oportuno, a ementa do acórdão impugnado:
+
+Ementa AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. MANTIDA A DECISÃO DA PRESIDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO. 1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ. 2. Na hipótese, é acertada a decisão da Presidência deste Tribunal Superior que não conhece do agravo em recurso especial interposto, uma vez que o agravante deixou de refutar, especificamente, o fundamento de inadmissibilidade referente à divergência jurisprudencial não comprovada. 3. Agravo regimental não provido. (doc. 5, p. 178 – grifei).
+
+Com efeito, o mérito das questões suscitadas neste writ não foi julgado pela Sexta Turma do Superior Tribunal de Justiça. Nesse contexto, ressalto que, “[inexistindo] prévia manifestação do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância” (HC 119.600 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4/11/2013 – grifei).
+
+Nessa mesma direção:
+
+Ementa EMBARGOS DE DECLARAÇÃO CONVERTIDOS EM AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. CRIME CONTINUADO. AUSÊNCIA DE ANÁLISE DO MÉRITO DA IMPETRAÇÃO PELA SEXTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AGRAVO AO QUAL SE NEGA PROVIMENTO. I. Caso em exame 1. Paciente preso preventivamente pela prática do crime de falsificação de documento público, em continuidade delitiva. II. Questão em discussão 2. Pretendida revogação da prisão preventiva. III. Razões de decidir 3. As questões de mérito levantadas nesta impetração não foram objeto de julgamento pela Sexta Turma do Superior Tribunal de Justiça. Nesse contexto, a orientação jurisprudencial do Supremo Tribunal Federal é firme no sentido de que, “[inexistindo] prévia manifestação do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância” (HC 119.600 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4/11/2013). IV. Dispositivo 4. Agravo regimental ao qual se nega provimento. (HC 249.993 ED/SP, da minha relatoria, Primeira Turma, DJe 21/2/2025 – grifei).
+
+Ementa AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. PACIENTE CONDENADO PELO CRIME DISPARO DE ARMA DE FOGO. ALEGAÇÃO DE NULIDADE DA CITAÇÃO EDITALÍCIA E A CONSEQUENTE PRESCRIÇÃO RETROATIVA. DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA QUE NÃO ANALISOU O MÉRITO DO RECURSO ESPECIAL INTERPOSTO PARA AQUELE TRIBUNAL. CONFIGURAÇÃO DE SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO. I. Caso em exame 1. Paciente condenado à pena de 2 anos e 3 meses de reclusão, em regime aberto, pela prática do crime de disparo de arma de fogo, previsto no art. 15 da Lei n. 10.826/2003. 2. Busca-se o reconhecimento da nulidade da citação editalícia, com a consequente prescrição retroativa da pretensão punitiva do Estado. II. Questão em discussão 3. Saber se é possível o Supremo Tribunal Federal – STF analisar as alegações veiculadas neste habeas corpus. III. Razões de decidir 4. A ausência de manifestação do Superior Tribunal de Justiça sobre o mérito da questão suscitada pela defesa impede que seja examinada diretamente pelo Supremo Tribunal Federal neste habeas corpus, sob pena de indevida supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal. IV. Dispositivo 5. Agravo regimental a que se nega provimento. (HC 266.827 AgR/AL, da minha relatoria, Primeira Turma, DJe 2/3/2026 – grifei).
+
+Ante o exposto, nego seguimento ao habeas corpus (art. 192, caput, do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 4 de novembro de 2026.
+
+Ministro Cristiano Zanin
+Relator
