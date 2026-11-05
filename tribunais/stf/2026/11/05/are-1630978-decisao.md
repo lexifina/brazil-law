@@ -1,0 +1,24 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. GRATUIDADE DE JUSTIÇA REVOGADA. SUSPENSÃO DO PROCESSO. AÇÃO RESCISÓRIA. PREJUDICIALIDADE EXTERNA. INEXIGIBILIDADE DO TÍTULO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. I. CASO EM EXAME 1. Agravo de instrumento interposto pela parte executada contra decisão que, nos autos de cumprimento individual de sentença coletiva, deferiu a gratuidade de justiça à exequente e rejeitou a impugnação do ente distrital. II. QUESTÕES EM DISCUSSÃO 2. As questões em discussão consistem em verificar: (i) se a exequente/agravada faz jus à gratuidade de justiça; (ii) a necessidade de suspensão do feito pela prejudicialidade externa referente à ação rescisória n. 0735030-49.2024.8.07.0000; e (iii) a inexigibilidade da obrigação contida no título exequendo. III. RAZÕES DE DECIDIR 3. O acesso à justiça é direito fundamental dos mais relevantes, razão pela qual se sobreleva a eliminação de óbices econômicos que impeçam ou dificultem o seu exercício, inclusive mediante a concessão da assistência judiciária gratuita, nos termos do art. 5º, XXXV e LXXIV, da Constituição Federal. 4. A autor/agravada é servidor público distrital e aufere renda mensal bruta em torno de 8,5 (oito vírgula cinco) salários mínimos. Não foram apresentados aos autos documentos fiscais ou extratos bancários aptos a demonstrar o comprometimento dos rendimentos por parte da recorrida e, por consequência, o alegado quadro de hipossuficiência financeira. Logo, não há motivo hábil para a concessão do benefício. 5. A ação rescisória n. 0735030-49.2024.8.07.0000, ajuizada com o objetivo de desconstituir o título judicial exequendo, não está dotada de efeito suspensivo (art. 969 do CPC). Nessa medida, inexiste óbice legal ao regular prosseguimento do feito na origem, porquanto persiste a certeza e a liquidez do título executivo. 6. O Tema n. 864 do STF se refere à revisão geral da remuneração dos servidores públicos, não havendo identidade material com a Lei distrital n. 5.106/13, que trata de reajuste salarial específico concedido aos integrantes da carreira pública de assistência à educação do Distrito Federal, em 3 (três) etapas anuais e de forma escalonada. 7. Ausente aplicabilidade da tese jurídica fixada no Tema n. 864 do STF à hipótese, conforme distinção feita no próprio acórdão exequendo (Acórdão n. 1372761), acobertado pela coisa julgada, revela-se infundada a alegação do Distrito Federal de inexigibilidade do título com base no referido precedente vinculante. IV. DISPOSITIVO 8. Recurso conhecido e parcialmente provido. Impugnação à gratuidade de justiça acolhida.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 100, §§ 3º e 5º, e 169, § 1º, I e II, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 5 de novembro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
