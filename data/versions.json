@@ -1,0 +1,19 @@
+{
+ "country": "BR-RN-CAICO",
+ "acts": [
+  {
+   "slug": "lei-2025-05622",
+   "short": "Lei 5622/2025",
+   "title": "Lei nº 5.622, de 23 de setembro de 2025",
+   "url": "https://sapl.caico.rn.leg.br/norma/1559",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 14,
+     "source_url": "https://sapl.caico.rn.leg.br/media/sapl/public/normajuridica/2025/1559/lei_5.622-2025-pl_54_promulgado_por_ivanildo_poder_executivo-ppp..pdf",
+     "sha256": "48c0bcd1f997e75faee632c7196571d1b3964b0d60b86ef56dbb693583152340"
+    }
+   ]
+  }
+ ]
+}
