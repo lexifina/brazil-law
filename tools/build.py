@@ -68,9 +68,12 @@ def load(folder: Path, *, part_records: dict | None = None,
     head = main_path.read_bytes() if main_path.exists() else b''
     c = json.loads(head.decode('utf-8')) if head else {}
     chunks = [head]  # joined once at the end: growing one bytes object part by part copied it once per part
+    # Slots are keyed by (unit, slug): a part with "unit" puts its acts under that unit's folder (resolved below, once
+    # every part is read), so one slug may occur in two units.
     slots = {}
     for i, act in enumerate(c.get('acts', [])):
-        slots.setdefault(act.get('slug'), []).append(('corpus.json', i))
+        slots.setdefault((None, act.get('slug')), []).append(('corpus.json', i))
+    unit_parts: dict[str, tuple[str, list]] = {}  # part name -> (unit id, its acts), for parts with "unit"
     loaded_parts = set()
     for p in parts:
         b = p.read_bytes()
@@ -87,8 +90,17 @@ def load(folder: Path, *, part_records: dict | None = None,
         if part_records is not None:
             part_records[p.name] = {'sha256': hashlib.sha256(b).hexdigest(),
                                     'acts': sorted(a['slug'] for a in part.get('acts', []))}
+        if 'units' in part:
+            # Units are declared once, beside the country: in corpus.json, or without it in the part giving `country`.
+            if main_path.exists() or c.get('country') or not part.get('country'):
+                raise CorpusError(f'{p.name}: units may be declared only in corpus.json (or, without it, in the part '
+                                  'that gives country)')
+            c['units'] = part['units']
         if not c.get('country') and part.get('country'):
             c['country'] = part['country']
+        unit = part.get('unit')
+        if unit is not None:
+            unit_parts[p.name] = (unit, list(part.get('acts', [])))
         for key, law in part.get('laws', {}).items():
             have = c.setdefault('laws', {}).get(key)
             if have and have.get('label') != law.get('label'):
@@ -101,20 +113,31 @@ def load(folder: Path, *, part_records: dict | None = None,
                 raise CorpusError(f'{p.name}: corrects {target!r} must name an earlier loaded part')
             for act in part.get('acts', []):
                 slug = act.get('slug')
-                have = slots.get(slug, [])
+                have = slots.get((unit, slug), [])
                 if len(have) != 1 or have[0][0] != target:
                     raise CorpusError(f'{p.name}: corrects {target!r}: act slug {slug!r} must occur exactly once '
                                       'and still belong to that part')
                 i = have[0][1]
                 acts[i] = act
-                slots[slug] = [(p.name, i)]
+                slots[(unit, slug)] = [(p.name, i)]
         else:
             for act in part.get('acts', []):
-                slots.setdefault(act.get('slug'), []).append((p.name, len(acts)))
+                slots.setdefault((unit, act.get('slug')), []).append((p.name, len(acts)))
                 acts.append(act)
         loaded_parts.add(p.name)
         for field in ('sources', 'applies', 'decisions', 'ai_use'):
             c.setdefault(field, []).extend(part.get(field, []))
+    # Every act of a part with "unit" is written under that unit's folder: its slug becomes <folder>/<slug>, the path
+    # check.py, append.py and tools/on.py already read as the act. `_unit` keeps the unit's id (the Unit trailer).
+    folders = {u.get('id'): u.get('folder') for u in c.get('units') or [] if isinstance(u, dict)}
+    for name, (unit, part_acts) in unit_parts.items():
+        if not isinstance(unit, str) or not isinstance(folders.get(unit), str):
+            raise CorpusError(f'{name}: unit {unit!r} is not declared in units')
+        for act in part_acts:
+            act['_unit'] = unit
+            act['slug'] = f'{folders[unit]}/{act.get("slug")}'
+        if part_records is not None and name in part_records:
+            part_records[name]['acts'] = sorted(a['slug'] for a in part_acts)
     # A version without `units` is an event that changed no words (a ruling, a rejected referendum): it reads as the
     # version before it, so the corpus need not repeat the whole text.
     # A version may instead give only `changes`: {unit key: unit, or null to remove it}, applied to the version before
@@ -158,10 +181,18 @@ def validate(c: dict) -> list[str]:
         if law.get('restores') and law['restores'] not in laws:
             errs.append(f'law {key}: restores {law["restores"]!r} is not a law key')
     slugs = set()
+    folders = units_errors(c, errs)
     for act in c.get('acts', []):
         s = act.get('slug', '')
-        if not KEY.match(s) or s in slugs or s in {'data', 'tools'}:
+        if act.get('_unit') is not None:
+            # A unit's act: <unit folder>/<slug>, the slug under the usual rule.
+            base = s[len(folders.get(act['_unit'], '')) + 1:]
+            if not s.startswith(f'{folders.get(act["_unit"])}/') or not KEY.match(base) or s in slugs:
+                errs.append(f'act slug {s!r} must be unique lowercase ASCII under its unit folder')
+        elif not KEY.match(s) or s in slugs or s in {'data', 'tools'}:
             errs.append(f'act slug {s!r} must be unique lowercase ASCII and not data/tools')
+        elif any(f == s or f.startswith(s + '/') for f in folders.values()):
+            errs.append(f'act slug {s!r} collides with a unit folder')
         slugs.add(s)
         for k in ('short', 'title'):
             if not act.get(k):
@@ -203,6 +234,37 @@ def validate(c: dict) -> list[str]:
         if a.get('law') not in laws:
             errs.append(f'applies: law {a.get("law")!r} is not a law key')
     return errs
+
+
+def units_errors(c: dict, errs: list[str]) -> dict[str, str]:
+    """The `units` declaration (several sub-national units in one repository): appends its problems to errs and
+    returns {unit id: folder} for the well-formed ones. A folder is one or two [a-z0-9-] segments, not data/ or tools/,
+    and no folder equals or lies inside another."""
+    if 'units' not in c:
+        return {}
+    units = c['units']
+    if not isinstance(units, list):
+        errs.append('units must be a list')
+        return {}
+    folders: dict[str, str] = {}
+    for u in units:
+        uid = u.get('id') if isinstance(u, dict) else None
+        f = u.get('folder') if isinstance(u, dict) else None
+        if not isinstance(uid, str) or not KEY.match(uid) or uid in folders:
+            errs.append(f'unit id {uid!r} must be unique lowercase ASCII [a-z0-9-]')
+            continue
+        segs = f.split('/') if isinstance(f, str) else []
+        if not 1 <= len(segs) <= 2 or not all(KEY.match(x) for x in segs) or segs[0] in {'data', 'tools'}:
+            errs.append(f'unit {uid}: folder {f!r} must be one or two [a-z0-9-] segments, not under data/ or tools/')
+            continue
+        for k in ('name', 'code', 'official_code', 'source'):
+            if k in u and not isinstance(u[k], str):
+                errs.append(f'unit {uid}: {k} must be a string')
+        for other, g in folders.items():
+            if f == g or f.startswith(g + '/') or g.startswith(f + '/'):
+                errs.append(f'unit {uid}: folder {f!r} collides with unit {other} ({g!r})')
+        folders[uid] = f
+    return folders
 
 
 def _is_date(s) -> bool:
@@ -375,7 +437,13 @@ def start_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[st
     trailers += [f'Act: {act["short"]}', f'Provisions: {len(v["units"])}']
     if v.get('source_url'):
         trailers.append(f'Consolidated: {v["source_url"]}')
+    trailers += unit_trailers([act])
     return author, msg, trailers
+
+
+def unit_trailers(acts: list[dict]) -> list[str]:
+    """`Unit: <id>` for each unit whose acts a commit touches (none for acts outside units)."""
+    return [f'Unit: {u}' for u in sorted({a['_unit'] for a in acts if a.get('_unit') is not None})]
 
 
 def change_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[str]]:
@@ -464,6 +532,7 @@ def change_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[s
         # Provisions the source credits to this law whose words it left unchanged (e.g. a ruling that also reads one).
         trailers.append(f'Also-concerns: {concerns}')
     trailers += sorted({f'Consolidated: {p["cur"]["source_url"]}' for p in parts if p['cur'].get('source_url')})
+    trailers += unit_trailers([p['act'] for p in parts])
     return author, msg, trailers
 
 
@@ -642,9 +711,14 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
     co = c['country']
     out['data/repo.json'] = json.dumps({'country': co['code'], 'name': co['name'], 'tz': co['tz'],
                                         'future_branch': co.get('future_branch', 'futuro'),
-                                        'publisher': co['publisher']['name']}, ensure_ascii=False, indent=1) + '\n'
+                                        'publisher': co['publisher']['name'],
+                                        # a declared history (as-enacted, in-force, ...): readers use it, never a guess
+                                        **({'history': co['history']} if co.get('history') else {}),
+                                        **({'units': c['units']} if c.get('units') else {})},
+                                       ensure_ascii=False, indent=1) + '\n'
     out['data/versions.json'] = json.dumps({'country': c['country']['code'], 'acts': [{
-        'slug': a['slug'], 'short': a['short'], 'title': a['title'], 'url': a.get('url'),
+        'slug': a['slug'], **({'unit': a['_unit']} if a.get('_unit') is not None else {}),
+        'short': a['short'], 'title': a['title'], 'url': a.get('url'),
         'versions': [{'from': v['from'], 'units': len(v['units']), 'source_url': v.get('source_url'),
                       'sha256': v.get('sha256')} for v in a['versions']]} for a in c['acts']]},
         ensure_ascii=False, indent=1) + '\n'
