@@ -1,0 +1,43 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Goiás, assim ementado, no relevante:
+
+“DIREITO PREVIDENCIÁRIO. APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE BENEFÍCIO. PENSÃO POR MORTE. APLICABILIDADE DA LEI COMPLEMENTAR ESTADUAL Nº 77/2010. EFICÁCIA LIMITADA DA EMENDA CONSTITUCIONAL ESTADUAL Nº 65/2019. NECESSIDADE DE INTEGRAÇÃO POR LEI COMPLEMENTAR ESPECÍFICA. INCIDÊNCIA DA LEI VIGENTE AO TEMPO DO ÓBITO. I. CASO EM EXAME Apelação Cível interposta contra sentença que julgou procedentes os pedidos de revisão de pensão por morte e cobrança de diferenças salariais. A controvérsia reside na definição do regramento jurídico aplicável ao cálculo do benefício previdenciário cujo fato gerador ocorreu após a Emenda Constitucional Estadual nº 65/2019, mas antes da vigência da Lei Complementar Estadual nº 161/2020...” (eDOC 10, p. 7)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 18, 25, 40 e 60, § 4º, I, do texto constitucional e ao art. 23, § 8º, da EC 103/2019.
+Nas razões recursais (eDOC 13), alega-se que qualquer alteração interna no regimento das pensões posterior à EC 103/2019 seria efetiva para afastar as normas anteriores, pela redação de seu art. 23, § 8º. (p. 5)
+Afirma-se que as normas da Constituição Estadual têm aplicabilidade imediata (p. 6), que o equilíbrio financeiro e atuarial do RPPS seriam comprometidos (p. 7) e que ao deixar de aplicar a norma a Turma julgadora teria violado a cláusula de reserva de plenário. (p. 8)
+A Procuradoria-Geral da República opinou pelo desprovimento do recurso. (eDOC 27)
+
+É o relatório.
+Decido.
+
+O recurso não merece prosperar.
+A Emenda Constitucional nº 103/2019, ao promover ampla reforma do sistema previdenciário, alterou substancialmente o regime de pensão por morte dos servidores públicos, estabelecendo, em seu art. 23, novos critérios para a definição do valor do benefício. O próprio constituinte derivado, contudo, previu regra específica de transição para os Estados, o Distrito Federal e os Municípios.
+Com efeito, o § 8º do referido dispositivo dispôs que permanecem aplicáveis aos respectivos regimes próprios as normas constitucionais e infraconstitucionais anteriores à reforma, enquanto não promovidas alterações na legislação interna relacionada ao respectivo regime próprio de previdência social.
+No caso dos autos, a controvérsia consiste em definir se a Emenda Constitucional Estadual nº 65/2019 configurou, por si só, a "alteração na legislação interna" prevista no art. 23, § 8º, da EC 103/2019, apta a tornar imediatamente aplicáveis as novas regras federais de pensão por morte aos servidores do Estado de Goiás, ou se tal alteração somente se aperfeiçoou com a edição da Lei Complementar Estadual nº 161/2020.
+O Tribunal de origem, interpretando a legislação local aplicável ao caso, concluiu que a Emenda Constitucional Estadual nº 65/2019 possuía eficácia limitada, de modo que as novas regras previdenciárias somente passaram a produzir efeitos com a edição da Lei Complementar Estadual nº 161/2020, permanecendo aplicável, até então, a disciplina da Lei Complementar Estadual nº 77/2010. Nesse sentido, extraem-se os seguintes trechos do acórdão impugnado:
+
+“A autarquia recorrente sustenta que a norma constitucional estadual promoveu a imediata recepção do regramento federal contido no artigo 23 da Emenda Constitucional nº 103/2019, conferindo-lhe eficácia plena no âmbito do Estado de Goiás desde o final de 2019. Todavia, em que pese o esforço argumentativo da apelante, a jurisprudência consolidada deste Tribunal de Justiça do Estado de Goiás orienta-se no sentido de que as alterações promovidas pelas Emendas 103/2019, à Constituição Federal, e 65/2019, à Constituição do Estado de Goiás, possuem eficácia limitada, carecendo de integração legislativa infraconstitucional para sua efetiva aplicação”. (p. 3)
+
+“Sob esse prisma, a tese de que a aplicação das novas regras dependeria da edição da Lei Complementar Estadual nº 161/2020 revela-se acertada. A referida lei complementar, publicada em 30/12/2020, foi o instrumento legislativo que efetivamente integrou e regulamentou as novas diretrizes previdenciárias no Estado de Goiás, estabelecendo os parâmetros necessários para o cálculo dos benefícios e das contribuições. Antes de sua vigência, as normas constitucionais, por possuírem eficácia limitada, não poderiam ser aplicadas de forma imediata para alterar a situação jurídica dos segurados cujos fatos geradores ocorreram no interregno entre a emenda e a lei complementar”. (p. 5)
+
+“Nesse cenário, considerando que o óbito do instituidor ocorreu em 5/5/2020, ou seja, antes da entrada em vigor da Lei Complementar Estadual nº 161/2020, a legislação aplicável ao caso concreto é, de fato, a Lei Complementar Estadual nº 77/2010, conforme bem decidido pelo juízo de primeiro grau. A aplicação imediata do sistema de cotas da EC 103/2019 pela Goiasprev, sem o devido suporte em lei complementar estadual regulamentadora vigente à época do fato gerador, padece de ilegalidade, uma vez que as normas constitucionais invocadas não eram autoaplicáveis”. (p. 6)
+
+Percebe-se que a controvérsia foi dirimida pelo Tribunal de origem a partir da interpretação da legislação estadual aplicável à espécie. Desse modo, eventual conclusão em sentido diverso demandaria o reexame do direito local, providência inviável em recurso extraordinário, nos termos da Súmula 280 do STF. Assim, a alegada ofensa aos dispositivos constitucionais invocados, se existente, seria meramente reflexa ou indireta.
+Confiram-se, a propósito, os seguintes julgados:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDORA PÚBLICA. ACUMULAÇÃO DE BENEFÍCIOS PREVIDENCIÁRIOS: APOSENTADORIAS E PENSÃO POR MORTE. POSSIBILIDADE. EMENDA CONSTITUCIONAL N. 103/2019. APLICAÇÃO DE REDUTOR. TEMPUS REGIT ACTUM: SÚMULA N. 359 DO SUPREMO TRIBUNAL FEDERAL. ADOÇÃO DE CRITÉRIOS PREVISTOS NO ART. 25 DA LEI COMPLEMENTAR N. 1.354/2020, DO ESTADO DE SÃO PAULO. REQUISITOS DO REGIME PREVIDENCIÁRIO ESTADUAL: SÚMULAS NS. 279 E 280 DESTE SUPREMO TRIBUNAL. AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO”. (ARE 1.561.618 AgR, rel. Cármen Lúcia, Primeira Turma, DJe 24.9.2025)
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PREVIDENCIÁRIO. EX-EMPREGADO PÚBLICO ESTADUAL. NOSSA CAIXA. ÓBITO OCORRIDO APÓS A PROMULGAÇÃO DA EMENDA CONSTITUCIONAL 103/2019. COMPLEMENTAÇÃO DE PENSÃO POR MORTE. TRIBUNAL DE ORIGEM QUE DECIDIU A CONTROVÉRSIA COM FUNDAMENTO NAS LEIS 10.430/1971 E 8.236/1993 E NO DECRETO 7.711/1976 DO ESTADO DE SÃO PAULO. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES RECENTES DE AMBAS AS TURMAS E DO PLENÁRIO DESTA SUPREMA CORTE...” (ARE 1.614.876 AgR, rel. Luiz Fux, Segunda Turma, DJe 7.10.2026)
+
+Nesse mesmo sentido, confira-se trecho do parecer proferido pela Procuradoria-Geral da República:
+
+“a controvérsia atinente ao marco temporal de vigência e à necessidade de lei complementar estadual para regulamentar a concessão de benefício previdenciário em âmbito local restringe-se ao exame do direito local. Se tivesse havido violação ao texto constitucional seria de forma meramente reflexa ou indireta, atraindo a incidência do óbice da Súmula 280 do Supremo Tribunal Federal, que estabelece que por ofensa a direito local não cabe recurso extraordinário”. (eDOC 27, p. 6)
+
+Por fim, não há falar em ofensa à cláusula de reserva de plenário ou à Súmula Vinculante 10. Isso porque o Tribunal de origem não declarou, expressa ou implicitamente, a inconstitucionalidade de qualquer dispositivo normativo, tampouco afastou sua incidência por reputá-lo incompatível com a Constituição. Limitou-se a interpretar o alcance da  legislação estadual de regência para concluir que as novas regras previdenciárias dependiam da superveniência da Lei Complementar Estadual nº 161/2020.
+ Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 10, p. 6), observados os limites previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se.
+Brasília, 6 de novembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
