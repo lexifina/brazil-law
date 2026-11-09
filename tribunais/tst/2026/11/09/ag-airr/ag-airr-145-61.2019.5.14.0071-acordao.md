@@ -1,0 +1,740 @@
+P
+R
+O
+C
+E
+S
+S
+O
+N
+º
+T
+S
+T
+-
+A
+g
+-
+AIR
+R
+-
+0
+0
+0
+0
+1
+4
+5
+-
+6
+1
+.
+2
+0
+1
+9
+.
+5
+.
+1
+4
+.
+0
+0
+7
+1
+A
+C
+Ó
+R
+D
+Ã
+O
+7
+ª
+T
+u
+r
+m
+a
+G
+D
+CJ
+P
+S
+/
+T
+p
+/
+R
+a
+c
+A
+G
+R
+AV
+O
+E
+M
+A
+G
+R
+AV
+O
+D
+E IN
+S
+T
+R
+U
+M
+E
+N
+T
+O
+E
+M
+R
+E
+C
+U
+R
+S
+O
+D
+E
+R
+E
+VIS
+T
+A
+.
+J
+U
+L
+G
+A
+M
+E
+N
+T
+O
+A
+N
+T
+E
+RIO
+R
+P
+E
+L
+A
+T
+U
+R
+M
+A
+.
+D
+E
+V
+O
+L
+U
+Ç
+Ã
+O
+P
+A
+R
+A
+O
+E
+X
+E
+R
+C
+Í
+CIO
+D
+E
+E
+V
+E
+N
+T
+U
+A
+L
+J
+U
+ÍZ
+O
+D
+E
+R
+E
+T
+R
+A
+T
+A
+Ç
+Ã
+O
+.
+R
+E
+S
+P
+O
+N
+S
+A
+BILIZ
+A
+Ç
+Ã
+O
+S
+U
+B
+SIDIÁ
+RIA
+.
+E
+N
+T
+E IN
+T
+E
+G
+R
+A
+N
+T
+E
+D
+A
+A
+D
+MINIS
+T
+R
+A
+Ç
+Ã
+O
+P
+Ú
+B
+LIC
+A
+.
+C
+O
+N
+D
+U
+T
+A
+C
+U
+L
+P
+O
+S
+A
+C
+O
+N
+FIG
+U
+R
+A
+D
+A
+.
+A
+U
+S
+Ê
+N
+CIA
+D
+E
+R
+E
+C
+O
+L
+HIM
+E
+N
+T
+O
+D
+O
+F
+G
+T
+S
+.
+D
+E
+S
+C
+U
+M
+P
+RIM
+E
+N
+T
+O
+R
+EIT
+E
+R
+A
+D
+O
+.
+T
+E
+M
+A
+S
+2
+4
+6
+E
+1
+.
+1
+1
+8
+D
+A
+T
+A
+B
+E
+L
+A
+D
+E
+R
+E
+P
+E
+R
+C
+U
+S
+S
+Ã
+O
+G
+E
+R
+A
+L
+.
+1
+.
+O
+S
+u
+p
+r
+e
+m
+o
+T
+rib
+u
+n
+al F
+e
+d
+e
+r
+al, n
+o
+j
+ulg
+a
+m
+e
+n
+t
+o
+d
+a
+A
+D
+C
+n
+º
+1
+6, d
+e
+cla
+r
+o
+u
+a
+c
+o
+n
+s
+tit
+u
+cio
+n
+alid
+a
+d
+e
+d
+o
+a
+r
+t. 71, § 1º, da Lei nº 8.666/93 e, posteriormente, reconheceu a existência de repercussão geral (Tema 246) da questão constitucional suscitada no Recurso Extraordinário nº 760.931, referente à responsabilidade dos entes integrantes da Administração Pública em caso de terceirização, fixando a tese de que “O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93”. 2. Já nos autos do RE nº 1.298.647, a Suprema Corte reconheceu a existência de repercussão geral (Tema 1.118) da questão constitucional relativa ao ônus da prova acerca de eventual conduta culposa na fiscalização das obrigações trabalhistas de prestadora de serviços, para fins de responsabilização subsidiária da Administração Pública, fixando a tese jurídica de que “1. Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público. (...)”. 3. In casu, embora o Regional tenha atribuído ao ente público o encargo probatório da fiscalização, verifica-se a ausência de recolhimento do FGTS durante o contrato de trabalho do reclamante, a evidenciar a configuração da conduta negligente do ente público, consistente na reiterada inobservância de obrigações legais estabelecidas na Lei de Licitações, demonstrando que a Administração Pública tinha ciência das irregularidades e quedou-se inerte. Por conseguinte, a manutenção da condenação subsidiária não contraria as teses de repercussão geral firmadas pelo STF no julgamento do RE nº 760.931 (Tema 246) e do RE nº 1.298.647 (Tema 1.118), mas se alinha aos itens 2 e 4 deste último precedente vinculante. Assim, ratifica-se a decisão que negou provimento ao agravo interno. Juízo de retratação não exercido. Devolvam-se os autos à Vice-Presidência desta Corte Superior.
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006870187A4C6C706.
+Vistos, relatados e discutidos estes autos de Agravo em Agravo de Instrumento
+em Recurso de Revista nº TST-Ag-AIRR - 0000145-61.2019.5.14.0071, em que é Agravante FUNDAÇÃO
+NACIONAL DO ÍNDIO - FUNAI e são Agravados ARTUR ORO NAO DA SILVA e RONDONACRE
+COMÉRCIO E SERVIÇOS EIRELI - ME.
+Este Colegiado, por meio do acórdão de fls. 1.422/1.437, da lavra do Ministro
+Evandro Valadão, negou provimento ao agravo interno, mantendo a decisão monocrática que denegara
+seguimento ao agravo de instrumento em relação ao tema “responsabilidade subsidiária”.
+À referida decisão foi interposto recurso extraordinário (fls. 1.442/1.450), o qual
+foi sobrestado pela Vice-Presidência desta Corte Superior, por versar sobre controvérsia correlata ao
+Tema 1.118 da tabela de repercussão geral do Supremo Tribunal Federal.
+Após o julgamento do referido leading case, os autos foram devolvidos a este
+órgão fracionário, nos termos do art. 1.030, II, do CPC, para exercício de eventual juízo de retratação (fls.
+1.463/1.464).
+É o relatório.
+V O T O
+I. CONHECIMENTO
+Conforme já aferido anteriormente, preenchidos os pressupostos de
+admissibilidade recursal, conheço do agravo.
+II. MÉRITO
+JULGAMENTO ANTERIOR PELA TURMA. DEVOLUÇÃO PARA O EXERCÍCIO DE
+EVENTUAL JUÍZO DE RETRATAÇÃO. RESPONSABILIZAÇÃO SUBSIDIÁRIA. ENTE INTEGRANTE DA
+ADMINISTRAÇÃO PÚBLICA. CONDUTA CULPOSA CONFIGURADA. AUSÊNCIA DE RECOLHIMENTO DO
+FGTS. DESCUMPRIMENTO REITERADO. TEMAS 246 E 1.118 DA TABELA DE REPERCUSSÃO GERAL.
+O Regional, quanto ao capítulo intitulado, adotou os seguintes fundamentos, in
+verbis:
+“(...)
+É certo que, de acordo com a sistemática de distribuição do ônus da prova vigente em nosso
+sistema processual, nos termos do art. 818, I e II, da CLT, incumbe ao autor fazer prova dos fatos
+constitutivos de seu direito e ao réu dos fatos impeditivos, modificativos ou extintivos que alegar.
+Nesse contexto, ao afirmar que exercia regularmente o seu poder fiscalizatório sobre a
+empresa contratada, exigindo dela toda a documentação referente aos encargos trabalhistas,
+previdenciários e fundiários, a FUNAI atraiu para si o ônus de comprovar essa situação, uma vez
+que constitui nítido fato impeditivo do direito autoral.
+A despeito disso, compulsando os autos, percebe-se que as provas documentais coligidas
+estão a infirmar por completo a tese arguida pela Administração Pública. Observa-se que, mesmo
+tendo o reclamante sido admitido em 23-12-2014 (Id 45e5b02 - Pág. 2) e o contrato entre as
+reclamadas tenha se iniciado em 11-11-2014 (Id f1da6f6 - Pág. 2), na sentença fora identificada a
+ausência de recolhimento dos depósitos do FGTS desde 2014, não se justificando que a rescisão
+unilateral somente tenha sido concretizada em 1-3-2017 (Id 73c091e - Pág. 12) - isto é, após mais
+de dois anos de inadimplemento, período no qual, inclusive, foram firmados dois termos
+aditivos (Ids 580381b - Pág. 24 e 73c091e - Pág. 12).
+Destaca-se que a Lei nº 8.666/93 (arts. 58, 66-A, parágrafo único, 67 e 78) prevê que a
+Administração Pública, ao contratar serviços, tem a obrigação de acompanhar e fiscalizar a execução
+do contrato, podendo suspender o pagamento de parcelas à empresa contratada inadimplente até a
+rescisão contratual, sob pena de caracterização da culpa ‘in vigilando’.
+Registra-se que tal dever de fiscalização por parte da Administração Pública decorre
+diretamente de lei, uma vez que, nos termos do art. 78, XVIII, da Lei nº 8.666/93, constitui justo
+motivo para a rescisão do contrato o descumprimento do dever da contratada de manter
+regularidade fiscal e trabalhista ao longo de toda a vigência da avença.
+Digno de nota que, durante a audiência ocorrida em 12-8-2019, o preposto da FUNDAÇÃO
+NACIONAL DO ÍNDIO confessou inequívoca falha grave no seu dever legal de fiscalização ao
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006870187A4C6C706.
+informar que o ente público ‘fiscalizava o pagamento dos salários e recolhimento de FGTS e INSS
+por meio do contracheque dos funcionários’ (Id fc70149 - Pág. 2)
+Isso porque, de acordo com o que consta expressamente no art. 29, IV, da Lei nº 8.666/93, a
+regularidade fiscal e trabalhista, que deve ser mantida pela empresa contratada durante toda a
+vigência do ajuste administrativo (art. 55, XIII, da Lei nº 8.666/93), compreende a comprovação
+de regularidade dos recolhimentos do FGTS - o que notoriamente não é obtido pela simples
+conferência dos contracheques dos empregados, que só demonstram a realização do desconto
+salarial correspondente, mas não o efetivo recolhimento dos depósitos fundiários.
+Bastaria, portanto, que a FUNAI exigisse da empresa a comprovação da regularidade do
+recolhimento do FGTS mediante a apresentação do extrato da conta vinculada dos
+trabalhadores. Caso assim tivesse procedido, em observância ao princípio constitucional basilar
+da eficiência da administração pública (art. 37, ‘caput’, da Constituição), os descumprimentos
+dos haveres trabalhistas pela RONDONACRE COMÉRCIO E SERVIÇOS EIRELI - ME poderiam ter
+sido identificados desde o início de 2015.
+O decurso de dois anos ininterruptos nos quais a empresa contratada não mantinha as
+condições de habilitação (art. 54, XIII, da Lei nº 8.666/93) até que fosse efetivamente realizada a
+rescisão unilateral, período no qual ocorreram duas prorrogações do contrato administrativo,
+constitui prova inequívoca da culpa ‘in vigilando’ da FUNAI - o que veio a resultar no
+descumprimento dos direitos trabalhistas perseguidos pelo trabalhador nesta demanda, os
+quais até o momento não foram integralmente quitados.
+Por conseguinte, como se pode extrair da minuciosa análise realizada nas linhas pretéritas,
+não houve a transferência automática ao Poder Público contratante da responsabilidade pelo
+pagamento dos encargos trabalhistas dos empregados da empresa contratada, mas sim a
+responsabilização subsidiária daquele após o exame de provas constantes nos autos de que houve
+omissão no dever fiscalizatório por parte do demandado, o que deu causa aos descumprimentos
+trabalhistas objeto da presente reclamatória - os quais poderiam (e deveriam) ter sido evitados caso
+o recorrente tivesse procedido adequadamente com a fiscalização nos moldes previstos na Lei nº
+8.666/93 e no contrato administrativo firmado com a primeira reclamada.
+Não houve, também, inversão do ônus da prova em favor do reclamante, tendo sido aplicada,
+em verdade, a teoria estática prevista no art. 818, I e II, da CLT, pois constatado que o ente público
+demandado não se desincumbiu de seu ônus de comprovar os fatos impeditivos do direito do autor
+que alegou em sede de contestação.
+Não se trata de aplicar ao ente público uma responsabilidade objetiva pelo inadimplemento
+trabalhista de seus contratados, nem baseado em risco integral mas, ao contrário, reconhecendo a
+natureza subjetiva da responsabilidade oriunda de atos omissivos do Estado (art. 37, § 6º, da CF),
+perquire-se, casuisticamente, a ocorrência de culpa ‘in vigilando’.
+Resta incontroverso nos autos que parte das verbas devidas ao autor não foram até então
+quitadas. Assim, a condenação subsidiária se torna necessária para que o empregado possa ter seus
+créditos adimplidos em futura execução, se a empregadora não honrar os créditos advindos da
+condenação, o que não impede que o ente público busque posteriormente o ressarcimento de
+eventual pagamento que venha a realizar.
+Hipóteses dessa natureza exigem que a fazenda pública verifique com a empresa prestadora
+de serviços a quitação de todos os haveres trabalhistas, para efeito de liberação da importância final
+correspondente à extinção do contrato celebrado com ela, sob pena de vir a responder
+subsidiariamente caso libere os valores devidos à empresa contratada mesmo sem que ela tenha
+cumprido adequadamente as suas obrigações trabalhistas para com seus empregados.
+Desse modo, considerando que o ente público relegou o seu dever legal de fiscalizar a
+execução do contrato firmado com primeira reclamada e comprovada a inadimplência alegada na
+inicial, deve a FUNAI responder, subsidiariamente, pelas parcelas inadimplidas oriundas do contrato
+de trabalho firmado entre a terceirizada e a parte autora, não sendo lícito se eximir de tal
+responsabilidade na medida em que os riscos da atividade econômica devem sempre permanecer
+com o empregador, na forma do art. 2º da CLT, estendendo-se à Administração Pública quando
+celebra contratos de terceirização de serviços.
+(fls. 1.059/1.061 – grifos apostos)
+À referida decisão a parte recorrente, alicerçada em violação dos arts. 5º, XXXV,
+LIV e LV, 37, § 6º, 97 e 102, § 2º, da CF, 373, I e II, do CPC, 818 da CLT, 71, § 1º, da Lei nº 8.666/93 e 8º, § 2º,
+da Lei nº 13.467/17, em contrariedade à Súmula nº 331, V, do TST, ao RE nº 760.931, à ADC nº 16 e à
+Súmula Vinculante nº 10 do STF e em divergência jurisprudencial, interpôs recurso de revista insurgindo￾se contra a responsabilidade subsidiária que lhe foi atribuída (fls. 1.200/1.230).
+Ao exame.
+O Supremo Tribunal Federal, no julgamento da ADC nº 16, declarou a
+constitucionalidade do art. 71, § 1º, da Lei nº 8.666/93, o qual estabelece que “A inadimplência do
+contratado, com referência aos encargos trabalhistas, fiscais e comerciais não transfere à Administração
+Pública a responsabilidade por seu pagamento, nem poderá onerar o objeto do contrato ou restringir a
+regularização e o uso das obras e edificações, inclusive perante o Registro de Imóveis”.
+Não obstante isso, a SDI-1, órgão uniformizador da jurisprudênciainterna corporis
+desta Corte Superior Trabalhista, em sua composição completa, no dia 4/6/2020, decisão publicada no
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006870187A4C6C706.
+DEJT de 7/8/2020, ao julgar o processo nº TST-E-RR-992-25.2014.5.04.0101, da Relatoria do Ministro
+Augusto César Leite de Carvalho, decidiu, por maioria, que, havendo alusão na decisão recorrida a que a
+fiscalização realizada pelo tomador dos serviços não se mostra suficiente para garantir o cumprimento
+das obrigações contratuais, tem-se pela prevalência da culpa in vigilando e, por conseguinte, pela
+responsabilização subsidiária do ente público.
+Em ato contínuo, apesar das decisões proferidas pela Suprema Corte na ADC nº 16
+e no RE nº 760.931, a SDI-1, em composição completa, alicerçada na lacuna do STF acerca do ônus da
+prova e diante da natureza eminentemente infraconstitucional da questão, concluiu que o ônus da
+prova alusivo a eventual conduta culposa na fiscalização dos contratos, nas terceirizações promovidas
+por entes da Administração Pública, era do ente público, ou seja, que cabia ao mencionado ente público
+o ônus de provar que se desincumbiu de seu dever fiscalizatório (TST-E-RR-925-07.2016.5.05.0281, Rel.
+Min. Cláudio Mascarenhas Brandão, de 12/12/2019).
+Diante do entendimento susomencionado, o STF, nos autos do RE nº 1.298.647,
+reconheceu a existência de repercussão geral da questão constitucional relativa ao “ônus da prova
+acerca de eventual conduta culposa na fiscalização das obrigações trabalhistas de prestadora de serviços,
+para fins de responsabilização subsidiária da Administração Pública, em virtude da tese firmada no RE
+760.931 (Tema 246)”.
+A Suprema Corte, ao concluir o julgamento do leading case RE nº 1.298.647 (Tema
+1.118), decisão transitada em julgado em 29/4/2025, fixou a seguinte tese jurídica:
+“1 . Não há responsabilidade subsidiária da Administração Pública por encargos
+trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se
+amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo
+imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento
+negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou
+omissiva do poder público. 2. Haverá comportamento negligente quando a Administração Pública
+permanecer inerte após o recebimento de notificação formal de que a empresa contratada está
+descumprindo suas obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do
+Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo. 3. Constitui responsabilidade
+da Administração Pública garantir as condições de segurança, higiene e salubridade dos
+trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente
+convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4. Nos contratos de
+terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de capital social
+integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e
+(ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada, na
+forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de
+quitação das obrigações trabalhistas do mês anterior.” (grifos apostos)
+O Relator do leading case, Ministro Nunes Marques, ao proferir seu voto, de forma
+clara, precisa e objetiva, orquestrou os motivos que o levaram a concluir que o ônus da prova não
+poderia ser atribuído ao ente público.
+De fato, esclareceu: “caso admitida a inversão do ônus na responsabilidade civil do
+Estado, haveria, como mencionado, culpa presumida. Portanto, seria admitida presunção relativa da falta de
+fiscalização do Estado em relação ao pagamento dos encargos trabalhistas resultantes da execução de
+contrato. Caberia, então, ao Estado provar atuação sem culpa (comportamento lícito). Essa conclusão, a meu
+sentir, é contrária ao decidido nos precedentes deste Tribunal nos quais assentada a constitucionalidade do
+art. 71, § 1º, da Lei n. 8.666/1993 (ADC 160) e a não transferência automática da responsabilidade pelos
+encargos trabalhistas inadimplidos pelo contratado (Tema 246/RG)”.
+Em continuidade, asseverou: “a jurisprudência da Corte é no sentido da limitação da
+responsabilidade civil do Estado nas hipóteses em exame mediante prova de sua culpa, de sorte que o
+agravamento da responsabilidade do Estado por meio da inversão do ônus da prova (culpa presumida)
+modificaria o firme e reiteradamente estabelecido pelos mencionados precedentes. Pois bem. Uma vez
+presumidos válidos, legais e legítimos, os atos da Administração Pública são contestáveis e extinguíveis
+somente se comprovada ruptura ou afronta ao Direito. A presunção de conformidade ao Direito dos atos da
+Administração Pública redunda no ônus do interessado em provar atuação culposa para responsabilização
+subsidiária”.
+Finalizou consignando: “em outros termos, a autoridade administrativa não está
+dispensada do ônus da prova, mas cabe ao autor da impugnação demonstrar as irregularidades alegadas, de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006870187A4C6C706.
+sorte que a presunção de legalidade prevalece até que se prove, de forma idônea e irrefutável, o contrário.
+Logo, a responsabilização subsidiária da Administração Pública exige objetiva e cabal comprovação de que
+ela deixou de observar normas referentes à validade do contrato firmado ou descumpriu o dever de fiscalizar
+sua execução”.
+In casu, embora o Regional tenha atribuído ao ente público o encargo probatório
+da fiscalização, verifica-se a ausência de recolhimento do FGTS durante o contrato de trabalho do
+reclamante, a evidenciar a configuração da conduta negligente do ente público, consistente na reiterada
+inobservância de obrigações legais estabelecidas na Lei de Licitações, demonstrando que a
+Administração Pública tinha ciência das irregularidades e quedou-se inerte.
+Por conseguinte, a manutenção da condenação subsidiária não contraria as teses
+de repercussão geral firmadas pelo STF no julgamento do RE nº 760.931 (Tema 246) e do RE nº 1.298.647
+(Tema 1.118), mas se alinha aos itens 2 e 4 deste último precedente vinculante.
+Nesse sentido vem se firmando a jurisprudência desta Corte:
+“(...) RECURSO DE REVISTA INTERPOSTO PELO 10º RECLAMADO RESPONSABILIDADE
+SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA. TEMA 1.118 DA TABELA DE REPERCUSSÃO GERAL DO
+SUPREMO TRIBUNAL FEDERAL. CULPA IN VIGILANDO COMPROVADA. AUSÊNCIA DE RECOLHIMENTO
+DE DEPÓSITOS DO FGTS. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO. 1. Os autos foram encaminhados
+pela Vice-Presidência deste Tribunal Superior do Trabalho para análise de eventual juízo de
+retratação, a teor do que estabelece o artigo 1.030, II, do Código de Processo Civil, após o julgamento
+do RE nº 1.298.647/SP - Tema 1.118 de repercussão geral pelo Supremo Tribunal Federal. 2. O STF, ao
+julgar a Ação Declaratória de Constitucionalidade nº 16 e o RE nº 760.931/DF (Tema 246), reconheceu
+que não se pode atribuir responsabilidade subsidiária à administração pública de modo
+"automático", nos termos do art. 71, § 1º, da Lei nº 8.666/93, apenas pelo inadimplemento das
+obrigações trabalhistas por parte da empregadora direta em relação aos seus empregados, devendo
+ser comprovada a culpa in eligendo ou in vigilando do ente público. Na ocasião, houve um impasse
+sobre três aspectos cruciais e que ficaram sem definição pela Suprema Corte: os limites da
+responsabilidade da administração pública; a abrangência do que seria uma fiscalização adequada; e
+a quem competia o ônus de tal prova. 3. Quando do julgamento do Tema 1.118, o Supremo Tribunal
+Federal decidiu que não cabe à Justiça do Trabalho atribuir responsabilidade subsidiária à
+administração pública pelo inadimplemento das obrigações trabalhistas da empregadora direta em
+relação aos seus empregados, "se amparada exclusivamente na premissa da inversão do ônus da
+prova", devendo ser comprovada pela parte autora a "efetiva existência de comportamento
+negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva
+do poder público". Também estabeleceu o que seria entendido como "comportamento negligente"
+da administração pública, quem poderia agir nessas situações, como proceder quanto à "notificação
+formal", além de reconhecer no seu item "3" que caberia ao ente público a responsabilidade para
+"garantir as condições de segurança, higiene e salubridade dos trabalhadores , quando o trabalho for
+realizado em suas dependências ou local previamente convencionado em contrato", afora as
+exigências que teriam de ser adotadas pelo administrador público junto às empresas contratadas,
+visando garantir o pagamento das obrigações trabalhistas dos seus empregados diretos no item 4.4.
+No caso concreto, o Tribunal Regional atribuiu responsabilidade subsidiária ao ente público –
+tomador dos serviços - com base no acervo probatório dos autos, por ter ficado comprovado ter
+agido de modo negligente em relação à fiscalização do contrato mantido com a empregadora direta
+do autor, primeira demandada, em especial diante da ausência de depósitos do FGTS durante o
+contrato de trabalho da parte reclamante e a ausência de pagamento de salários de fevereiro a
+maio. 5. Esta Corte Superior Trabalhista, interpretando a tese firmada pelo Supremo Tribunal
+Federal, vem firmando entendimento no sentido de que a ausência de depósitos de FGTS pela
+prestadora atrai a aplicação do item 4.II, por demonstrar a inobservância das obrigações
+previstas nos artigos 27, III e IV, 55, XIII, da Lei nº 8.666/93 (vigente à época em que vigorou o
+contrato de emprego) por parte do ente público, evidenciando seu comportamento negligente.
+Precedentes. 6. Assim, o posicionamento adotado anteriormente por este Colegiado está em
+conformidade com o entendimento firmado pelo Supremo Tribunal Federal, tanto por ocasião do
+julgamento da ADC nº 16 e Recurso Extraordinário nº 760.931/DF (Tema 246), quanto do RE nº
+1.298.647/SP (Tema 1.118), o que inviabiliza o conhecimento do recurso de revista. Recurso de revista
+não conhecido.” (TST-RR-Ag-AIRR-641-33.2016.5.09.0654, 7ª Turma, Rel. Min. Margareth Rodrigues
+Costa, DEJT 4/9/2026 – grifos apostos)
+“RECURSO DE REVISTA. ACÓRDÃO REGIONAL PUBLICADO SOB A ÉGIDE DA LEI Nº 13.015/2014 E
+ANTES DA VIGÊNCIA DA LEI Nº 13.467/2017. JULGAMENTO ANTERIOR PELA QUINTA TURMA DO
+TRIBUNAL SUPERIOR DO TRABALHO. DEVOLUÇÃO PARA EVENTUAL JUÍZO DE RETRATAÇÃO (ART.
+1.030, II, DO CPC). TERCEIRIZAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA. ENTE DA ADMINISTRAÇÃO
+PÚBLICA. CULPA IN VIGILANDO. ÔNUS DA PROVA. 1 . Retornam os autos para verificar a necessidade
+de eventual exercício de juízo de retratação, nos termos do art. 1.030, II, do CPC, em razão do
+julgamento do RE nº 1.298.647/SP (Tema 1.118 da Repercussão Geral), pelo Supremo Tribunal
+Federal. 2. Em interpretação sistemática dos arts. 58, III, 67 e 71 da Lei nº 8.666/1993, o Supremo
+Tribunal Federal, no julgamento do RE nº 760.931/DF (Tema 246 da Repercussão Geral), fixou tese
+acerca da impossibilidade de responsabilização subsidiária automática da Administração Pública, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006870187A4C6C706.
+salvo quando demonstrada sua conduta omissiva ou comissiva. 3. Acrescendo novos delineamentos
+à questão, a Suprema Corte julgou o RE nº 1.298.647/SP (Tema 1.118 da Repercussão Geral),
+decidindo ser "imprescindível a comprovação, pela parte autora, da efetiva existência de
+comportamento negligente ou nexo de causalidade entre o dano por ele invocado e a conduta
+comissiva ou omissiva do poder público". 4. Diante disso, inviável presumir a ciência do
+inadimplemento pela Administração Pública, que não tem o ônus da prova da culpa na fiscalização,
+tanto no que pertine ao conhecimento da situação de ilegalidade quanto à inércia em implementar
+medidas para saná-la. 5. Para além, interpretando os itens 1, 2 e 4 da tese do Tema 1.118 da Tabela
+de Repercussão Geral do STF, esta 5ª Turma entende caracterizada a culpa nos casos que
+envolvem inadimplemento do FGTS, uma vez que a prestadora teria que apresentar mensalmente
+o pagamento da parcela à tomadora, e os processos em que há revelia do ente público. Ressalva
+desta relatora, nesse aspecto. 6. Na hipótese em exame, o TRT concluiu haver culpa in vigilando , sob
+o fundamento de que o ente público não comprovou a fiscalização do cumprimento das obrigações
+trabalhistas pela prestadora de serviços. 7. Nesses termos, a decisão regional, nos termos em que
+posta, colide frontalmente com a tese de repercussão geral firmada pelo Supremo Tribunal Federal.
+Recurso de revista conhecido e provido.” (TST-RR-20142-17.2013.5.04.0007, 5ª Turma, Rel. Min.
+Morgana de Almeida, DEJT 4/9/2026)
+“RECURSO DE REVISTA. INTERPOSIÇÃO ANTES DA LEI Nº 13.015/2011. DEVOLUÇÃO DOS AUTOS
+PELA VICE-PRESIDÊNCIA DO TST, NOS TERMOS DO ARTIGO 1.030, II, DO CPC, PARA EVENTUAL JUÍZO
+DE RETRATAÇÃO. TERCEIRIZAÇÃO – ADMINISTRAÇÃO PÚBLICA – RESPONSABILIDADE SUBSIDIÁRIA –
+CULPA IN VIGILANDO COMPROVADA AUSÊNCIA DE RECOLHIMENTO DE DEPÓSITOS DE FGTS -
+INADIMPLEMENTO REITERADO - TEMA Nº 1.118 DA TABELA DE REPERCUSSÃO GERAL DO STF.
+AUSÊNCIA DE ADERÊNCIA ESTRITA. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO. A Vice-Presidência do
+Tribunal Superior do Trabalho determinou o retorno do presente processo a este Órgão Colegiado,
+para verificação da necessidade de eventual exercício do juízo de retratação, nos termos do art.
+1.030, II, do CPC, em razão do julgamento do Tema nº 1118 do ementário temático de repercussão
+geral do STF (RE 1.298.647 RG/SP) pela Excelsa Corte. No caso dos autos, é incontroverso que houve a
+condenação ao pagamento de depósitos de FGTS inadimplidos durante o contrato de trabalho, o que
+demonstra a culpa na fiscalização por parte da Administração Pública. Ressalte-se que a questão
+concernente à responsabilização dos entes públicos nos casos de terceirização foi apreciada pelo E.
+Supremo Tribunal Federal, em sede do Tema nº 246 e, posteriormente, através do julgamento do
+Tema nº 1118 da Tabela de Repercussão Geral, no sentido de que não é admissível a
+responsabilização automática pela mera aplicação da regra de inversão do ônus da prova, sendo
+dever da Administração Pública "adotar medidas para assegurar o cumprimento das obrigações
+trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar
+o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior". No caso dos
+autos, a ausência de recolhimento do FGTS ao longo da contratualidade demonstra a culpa na
+fiscalização por parte da Administração Pública, nos termos dos artigos 27, incisos III e IV, 55,
+inciso XIII, da Lei nº 8.666/93 e 50 da Lei nº 14.133/21. Registre-se, ainda, queo Supremo Tribunal
+Federal tem sinalizado que a ausência de depósitos de FGTS configura prova da culpa do ente
+público na correta fiscalização do cumprimento das obrigações trabalhistas pela empresa
+terceirizada, conforme se depreende da decisão do Exmo. Ministro Dias Toffoli, que negou
+seguimento à Reclamação Constitucional nº 77950, mantendo acórdão deste Eg. Tribunal Superior do
+Trabalho. Portanto, à luz dos itens que compõem a tese firmada pelo E. STF no Tema nº 1118 da
+Tabela de Repercussão Geral, e em cotejo com o quadro fático apresentado pelo acórdão regional,
+não há como se afastar a responsabilidade subsidiária da Administração Pública, sob pena de
+contrariedade à Súmula nº 126 do TST e desrespeito à tese vinculante firmada pelo E. STF no Tema nº
+1118. Precedentes do TST. Assim, não há retratação a ser feita nos moldes do inciso II do art. 1.030
+do CPC/2015, mantendo-se os termos do acórdão turmário recorrido, ainda que por fundamento
+diverso. Ato seguinte, os autos devem retornar à Vice-Presidência desta Corte para prosseguimento
+do feito, como entender de direito. Recurso de Revista não conhecido. Juízo de retratação não
+exercido.” (TST-RR-125700-89.2011.5.17.0005, 2ª Turma, Rel. Min. Liana Chaib, DEJT 27/8/2026 – grifos
+apostos)
+“(...) III – RECURSO DE REVISTA DO ESTADO DO RIO GRANDE DO SUL. RESPONSABILIDADE
+SUBSIDIÁRIA. ENTE PÚBLICO. TEMA 1.118 DA TABELA DE REPERCUSSÃO GERAL. AUSÊNCIA DE
+RECOLHIMENTO DO FGTS DURANTE PARTE DO CONTRATO DE TRABALHO. NEGLIGÊNCIA DA
+ADMINISTRAÇÃO DEMONSTRADA. CONDENAÇÃO DEVIDA. 1. No julgamento da ADC 16, o STF
+pronunciou a constitucionalidade do art. 71, caput e § 1º, da Lei 8.666/93, pronúncia dotada de efeito
+vinculante e de eficácia contra todos. 2. Ao julgamento do Tema 246 de repercussão geral, o
+Supremo Tribunal Federal reafirmou sua jurisprudência, fixando tese no sentido de que "O
+inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere
+automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em
+caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93" . 3. E, em 13 de
+fevereiro de 2025, o Supremo Tribunal Federal, no julgamento do Tema 1.118 da Tabela de
+Repercussão Geral (RE 1298647), estabeleceu que a responsabilidade de comprovar a falha na
+fiscalização das obrigações trabalhistas por parte do contratante, quando se busca responsabilizar o
+poder público, recai sobre a parte autora da ação, seja o trabalhador, sindicato ou Ministério Público.
+4 . No caso concreto, embora o Tribunal de origem tenha imputado incorretamente à
+Administração o ônus de prova, concluiu pela omissão culposa do tomador em razão do
+inadimplemento das obrigações trabalhistas, indicando que por longo período a primeira
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006870187A4C6C706.
+reclamada descumpria a obrigação de recolher, mensalmente, os depósitos do FGTS de seus
+empregados. 5. O inadimplemento do FGTS por parte do prestador de serviços, no curso do contrato
+de trabalho, revela ausência de fiscalização do tomador e configura a culpa in vigilando necessária
+para responsabilizar subsidiariamente o ente público tomador dos serviços. Vale dizer, o fato de a
+prestadora de serviços não cumprir o dever de recolher ao FGTS, no curso do contrato,
+evidencia, ipso facto, que a tomadora não exerceu o seu dever fiscalizatório. Recurso de revista
+não conhecido.” (TST-RR-20140-54.2020.5.04.0281, 1ª Turma, Rel. Min. Hugo Carlos Scheuermann,
+DEJT 3/9/2026 – grifos apostos)
+Pelo exposto, não sendo o caso de exercer o juízo de retratação a que alude o
+artigo 1.040, II, do CPC, ratifica-se a decisão que negou provimento ao agravo interno. Devolvam-se os
+autos à Vice-Presidência desta Corte Superior.
+ISTO POSTO
+ACORDAM os Ministros da Sétima Turma do Tribunal Superior do Trabalho, por
+unanimidade, ratificar a decisão que negou provimento ao agravo interno. E, não exercido o juízo de
+retratação a que alude o art. 1.040, II, do CPC, devolvam-se os autos à Vice-Presidência desta Corte
+Superior.
+Brasília, 5 de novembro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+JOÃO PEDRO SILVESTRIN
+Desembargador Convocado Relator
+Firmado por assinatura digital em 06/11/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006870187A4C6C706.
