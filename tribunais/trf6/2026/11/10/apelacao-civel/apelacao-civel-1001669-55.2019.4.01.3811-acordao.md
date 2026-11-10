@@ -1,0 +1,421 @@
+Poder Judiciário
+
+TRIBUNAL REGIONAL FEDERAL DA 6ª REGIÃO
+
+Apelação Cível Nº 1001669-55.2019.4.01.3811/MG
+
+RELATOR: Juiz Federal DIOGO SOUZA SANTA CECILIA
+
+RELATÓRIO
+
+O EXCELENTÍSSIMO JUIZ FEDERAL DIOGO SOUZA SANTA CECILIA (RELATOR):
+
+Trata-se de ação ajuizada contra o Instituto Nacional do Seguro Social objetivando a concessão de benefício previdenciário mediante o reconhecimento de atividade especial.
+
+A sentença (evento 26, DOC1 dos autos originários) extinguiu o processo por inadequação da via eleita, , entendendo que, apesar da presunção de ineficácia do EPI para ruído, o INSS poderia produzir prova destinada a desconstituí-la, o que demandaria dilação probatória incompatível com o mandado de segurança.
+
+A parte autora interpôs recurso de apelação (evento 30, DOC2 dos autos originários) em que pretende a reforma da sentença.
+
+Sem contrarrazões pela parte recorrida.
+
+O MPF manifestou-se pelo desinteresse do órgão ministerial em relação à lide (evento 22, DOC1 dos autos originários)
+
+É o relatório.
+
+VOTO
+
+O EXCELENTÍSSIMO JUIZ FEDERAL DIOGO SOUZA SANTA CECILIA (RELATOR):
+
+Admissibilidade
+
+Segundo os termos do Enunciado Administrativo n. 3 do Superior Tribunal de Justiça (STJ), aprovado pelo Plenário da Corte na sessão de 09/03/2016: “Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.”
+
+A sentença proferida na vigência do Código de Processo Civil de 2015 não está sujeita à remessa necessária, pois a condenação nela imposta não tem o potencial de ultrapassar o limite previsto no artigo 496, § 3º, do novo diploma processual.
+
+Conheço da apelação interposta, por entender preenchidos os pressupostos de sua admissibilidade.
+
+Da adequação da via eleita
+
+A Constituição Federal (CF/88) autoriza a impetração de mandado de segurança para proteger direito líquido e certo não amparável por habeas corpus ou habeas data (art. 5º, LXIX).
+
+Por direito líquido e certo, compreende-se o que é comprovado de plano (prova pré-constituída), apto a ser exercido pelo titular sem necessidade de instrução probatória. Se a sua existência for duvidosa ou a sua extensão ainda não estiver perfeitamente delineada, dependendo o seu exercício de situações e fatos indeterminados ou que reclamam maior dilação probatória, é inadequada a via mandamental, embora o direito possa ser defendido por outros meios judiciais, nos termos do art. 19 da Lei nº 12.016/2009.
+
+A propósito, sublinhe-se que o Pretório Excelso já se pronunciou no sentido de que a “Controvérsia sobre matéria de direito não impede concessão de mandado de segurança” (Súmula nº 625/STF).
+
+No caso, não há falar em inadequação da via eleita para a análise do direito a especialidade de períodos de labor exercidos pela parte autora, pois tal questão discutida, à luz das circunstâncias dos autos, não depende de dilação probatória, podendo ser solucionada com base nas provas pré-constituídas dos fatos que amparam o direito da parte impetrante, anexadas à petição inicial.
+
+Assim, reputo adequada a via do mandado de segurança para a veiculação da pretensão.
+
+Mérito Recursal
+
+Julgamento imediato do mérito
+
+Superada a questão da adequação da via eleita, verifica-se que a matéria remanescente é exclusivamente de direito e consiste no reconhecimento da atividade especial.
+
+Os fatos relevantes estão suficientemente demonstrados pelos documentos juntados aos autos, inexistindo necessidade de dilação probatória ou de produção de outros elementos para a solução da controvérsia.
+
+Além disso, a questão foi submetida ao contraditório e amplamente discutida pelas partes ao longo do processo, de modo que seu imediato enfrentamento não configura supressão de instância nem acarreta prejuízo ao exercício da ampla defesa.
+
+Portanto, considerando que a sentença limitou-se ao exame da questão processual, sem apreciar o mérito da pretensão de reconhecimento da atividade especial, encontra-se a causa em condições de imediato julgamento, incidindo a teoria da causa madura, prevista no art. 1.013, § 3º, do Código de Processo Civil. Passo, assim, ao exame do mérito da pretensão.
+
+Prescrição.
+
+A prescrição atinge as prestações anteriores ao quinquênio que antecedeu o ajuizamento da ação, nos termos da Súmula 85/STJ.
+
+Da aposentadoria por tempo de contribuição.
+
+Até a Emenda Constitucional n. 20/1998, a aposentadoria por tempo de serviço era devida, com proventos integrais, ao homem que completasse trinta e cinco anos de serviço e à mulher que completasse trinta anos, sem a exigência de idade mínima, desde que cumprido o período de carência. Por sua vez, o benefício era devido, com proventos proporcionais, ao segurado que completasse trinta anos de serviço, se homem, ou vinte e cinco anos de serviço, se mulher, observado o período de carência.
+
+Depois, na vigência da Emenda Constitucional nº. 20/98 (até 13.11.2019), a aposentadoria por tempo de contribuição submeteu-se às seguintes regras:
+
+a) para os segurados inscritos no RGPS até 16/12/1998, data da publicação da E.C. 20/98, desde que cumprida a carência exigida, a aposentadoria por tempo de contribuição seria concedida: a.1) com renda mensal integral, desde que cumpridos 35 anos de contribuição, se homem; e 30 anos de contribuição, se mulher; ou a.2) com renda mensal proporcional, desde que cumpridos os seguintes requisitos, cumulativamente: 53 anos de idade e 30 anos de contribuição, se homem; 48 anos de idade e 25 anos de contribuição, se mulher; mais um período adicional de contribuição equivalente a 40% do tempo que, em 16/12/1998, faltava para o segurado aposentar-se nas regras do antigo regime;
+
+b) para os segurados inscritos no RGPS a partir de 17/12/1998, desde que cumprida a carência exigida, a aposentadoria por tempo de contribuição seria concedida cumpridos 35 anos de contribuição, se homem; e 30 anos de contribuição, se mulher.
+
+Atualmente, vigora a Emenda Constitucional nº. 103/2019, que extinguiu a aposentadoria por tempo de contribuição sem idade mínima e estabeleceu que o benefício de aposentadoria é devido ao segurado que complementar 65 (sessenta e cinco) anos de idade, se homem, e 62 (sessenta e dois) anos de idade, se mulher, observado tempo mínimo de contribuição de 20 anos para homens e 15 anos para mulheres.
+
+Aos segurados já filiados ao RGPS na data de início de vigência da EC 103/19, foram asseguradas as regras de transição constantes dos arts. 15, 16, 19 e 20 da referida norma.
+
+Da aposentadoria especial.
+
+A aposentadoria especial é espécie da aposentadoria por tempo de contribuição em que se reduz o tempo necessário à aposentação em razão do exercício de atividades consideradas prejudiciais à saúde ou integridade física do trabalhador.
+
+Os critérios para concessão desse benefício passaram por diversas alterações legislativas ao longo das últimas décadas, com destaque para os seguintes diplomas legais:
+
+a) Lei n. 8.213/91, artigos 57 e 58: estabeleceu como regra geral que a aposentadoria especial seria devida ao segurado que, cumprido o período de carência, trabalhasse sujeito a condições prejudiciais à saúde ou à integridade física, durante 15 (quinze), 20 (vinte) ou 25 (vinte e cinco) anos, conforme as disposições legais;
+
+b) EC n. 20/1998: alterou a redação do artigo 201, § 1º, da Constituição Federal, estabelecendo que os critérios para concessão da aposentadoria decorrente de atividades exercidas sob condições especiais que prejudiquem a saúde ou a integridade física seriam definidos em lei complementar. No entanto, o artigo 15 da EC n. 20/1998 manteve em vigor o disposto nos artigos 57 e 58 da Lei 8.213/91, na redação então vigente, até que a referida lei complementar fosse publicada, o que não veio ocorrer;
+
+c) EC n. 47/2005: modificou o artigo 201, § 1º, da Constituição Federal, para ampliar a possibilidade de concessão de aposentadoria especial também aos segurados portadores de deficiência, nos termos definidos em lei complementar;
+
+d) EC n. 103/2019: alterou substancialmente a redação do artigo 201, § 1º, da Constituição, e consagrou a possibilidade de lei complementar estabelecer idade e tempo de contribuição distintos da regra geral para concessão de aposentadoria exclusivamente em favor dos segurados que exerçam atividades em condições especiais. Nos termos do artigo 19, §1º, da referida emenda, a aposentadoria especial é devida aos segurados que comprovarem o exercício de atividades com efetiva exposição a agentes químicos, físicos e biológicos prejudiciais à saúde, quando cumprirem:
+
+(i) 55 (cinquenta e cinco) anos de idade, quando se tratar de atividade especial de 15 (quinze) anos de contribuição;
+
+(ii) 58 (cinquenta e oito) anos de idade, quando se tratar de atividade especial de 20 (vinte) anos de contribuição; ou
+
+(iii) 60 (sessenta) anos de idade, quando se tratar de atividade especial de 25 (vinte e cinco) anos de contribuição.
+
+Aos segurados já filiados ao RGPS até a entrada em vigor da EC n. 103/19, o artigo 21 previu regra de transição que garante o direito à aposentadoria especial quando o total da soma resultante da idade e do tempo de contribuição e o tempo de efetiva exposição forem, respectivamente, de:
+
+(i) 66 (sessenta e seis) pontos e 15 (quinze) anos de efetiva exposição;
+
+(ii) 76 (setenta e seis) pontos e 20 (vinte) anos de efetiva exposição; e
+
+(iii) 86 (oitenta e seis) pontos e 25 (vinte e cinco) anos de efetiva exposição.
+
+Do tempo de trabalho especial.
+
+O tempo de trabalho especial é aquele decorrente de trabalhos prestados sob condições prejudiciais à saúde ou integridade física do trabalhador ou em atividades com riscos superiores aos normais para o segurado.
+
+O reconhecimento de tempo especial deve ser disciplinado pela legislação vigente à época em que efetivamente se deu a prestação do trabalho, obedecendo ao princípio tempus regit actum. Nesse sentido, o direito à contagem do tempo de trabalho prestado em condições especiais incorpora-se ao patrimônio jurídico do trabalhador como direito adquirido, não podendo ser prejudicado por lei posterior.
+
+As condições que possibilitam a caracterização do tempo de trabalho como tempo especial para fins previdenciários sofreram diversas modificações nas últimas décadas, em razão de subsequentes alterações nas normas de regência e entendimentos jurisprudenciais acerca da matéria.
+
+- Os Decretos nº. 53.831/64 e 83.080/79.
+
+Em sua redação original, o artigo 58 da Lei n. 8.213/91 afirmava que “[a] relação de atividades profissionais prejudiciais à saúde ou à integridade física será objeto de lei específica”.
+
+O Decreto n. 357, primeiro a regulamentar o Plano de Benefícios da Previdência Social, manteve a aplicação das listas de agentes nocivos e categorias profissionais constantes dos anexos aos Decretos n. 53.831/64 e 83.080/79, até que fosse editada a lei a que se referia o mencionado art. 58 da Lei de Benefícios. Tal situação perdurou até a edição da Lei 9.032, de 28/04/1995.
+
+Conclui-se daí que, em relação ao período anterior à vigência da Lei n.º 9.032/95, consideram-se especiais as atividades expostas aos agentes agressivos constantes dos anexos aos referidos decretos. Admite-se, ademais, o enquadramento de atividade especial por categoria profissional, presumindo-se a especialidade do trabalho prestado naquelas profissões ali elencadas como de labor presumidamente especial.
+
+- A Lei n. 9.032, de 28.04.1995.
+
+A Lei n. 9.032/95 acrescentou o §3º ao artigo 57 da Lei n. 8.213/91 para estabelecer que a aposentadoria especial “dependerá de comprovação pelo segurado, perante o Instituto Nacional do Seguro Social–INSS, do tempo de trabalho permanente, não ocasional nem intermitente, em condições especiais que prejudiquem a saúde ou a integridade física, durante o período mínimo fixado”.
+
+A partir de então, passou a ser ônus do trabalhador a prova da efetiva exposição a agentes prejudicais à sua saúde ou à sua integridade física. Durante a vigência dessa norma, a prova poder-se-ia dar por meio dos formulários fornecidos pela própria empresa (a exemplo do SB-40, DSS-8030 e DIBER 8030), ou por qualquer outro meio de prova produzida em juízo.
+
+Nesse sentido, com a vigência da lei em questão, passou-se a não mais se admitir o reconhecimento da especialidade laborativa por presunção, razão pela qual o enquadramento por categoria profissional no regime especial passou a ser vedado (REsp 1806883/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 14/06/2019).
+
+- O Decreto n. 2.172, de 05.03.97.
+
+O Decreto n. 2.172/97, que regulamentou a nova redação do artigo 58, § 1º, da Lei n. 8.213/91, estabeleceu alteração substancial nos requisitos de prova para o trabalho especial. A partir dessa norma, a comprovação da efetiva exposição do segurado aos agentes nocivos que ensejam a contagem especial do tempo de trabalho passou a depender da apresentação de formulário emitido com base em laudo técnico de condições ambientais do trabalho (LTCAT), elaborado por médico do trabalho ou engenheiro de segurança do trabalho. Sobre o tema, já decidiu o Superior Tribunal de Justiça (AgRg no Resp 1176916/RS. 5ª Turma. Relator Ministro Felix Fischer. DJe 31.5.2010).
+
+- O Perfil Profissiográfico Previdenciário – PPP.
+
+Por sua vez, a Instrução Normativa n. 99, do INSS, de 05/12/2003, que regulamentou o disposto no artigo 68 e parágrafos do Decreto nº 3.048/2003, determinou que, a partir 01/01/2004, o reconhecimento da especialidade laboral deveria ocorrer mediante apresentação do Perfil Profissiográfico Previdenciário (PPP), elaborado pelo empregador e fornecido quando da rescisão do contrato de trabalho (Artigo 58, § 4º da Lei 8.213/91). Atualmente, a regulamentação desse tópico encontra-se prevista na Instrução Normativa IN 128/2022.
+
+Para o Professor MARTINEZ o PPP consiste em:
+
+“[...] formulário regulamentar, técnico e administrativo, cuja emissão é imposta para certas empresas e exigido dos trabalhadores em certas circunstâncias, para fins da relação jurídica de previdência social, principalmente no caso da aposentadoria especial. Impresso histórico-laboral escrito (ou virtual), é um retrato fiel das condições ambientais de trabalho e narrativa das condições laborais do segurado, exposto ou não aos agentes nocivos (contemplados ou não no Anexo IV do RPS), baseado em registros administrativos do setor de recursos humanos (área de pessoal), do cadastro da área interna da higiene, medicina e segurança do trabalho, dados colhidos no LTCAT, PCMSO, PGR e PPRA (e outros programas laborais), formulado e entregue legal e obrigatoriamente pela empresa ao trabalhador.” (MARTINEZ, Wladimir Novaes, Aposentadoria Especial, 7. ed. - São Paulo: Ltr, 2015, p.121.)
+
+Para as atividades exercidas até 31.12.2003, são aceitos como meio de prova os antigos formulários, desde que emitidos até essa data, observadas as normas vigentes na data da emissão do documento.
+
+O Superior Tribunal de Justiça possui entendimento no sentido de que, para comprovação da sujeição do segurado a agentes nocivos, para fins de reconhecimento de tempo especial, é suficiente o PPP corretamente preenchido pelo empregador, sendo dispensável a juntada do Laudo Técnico de Condições Ambientais de Trabalho – LTCAT, a menos que o formulário profissiográfico seja fundamentadamente impugnado pelo INSS. (AgInt no AREsp 434.635/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 27/04/2017, DJe 09/05/2017). Afinal, o PPP é assinado pelo representante legal da empresa ou por seu preposto, que assume a responsabilidade sobre a fidedignidade das informações prestadas (artigo 264 da IN 77/2015/INSS), e é preenchido com base em laudo técnico ambiental elaborado por Médico do Trabalho ou Engenheiro de Segurança do Trabalho. Assim, presumem-se verídicas as informações ali contidas.
+
+- Laudo técnico extemporâneo.
+
+É possível o reconhecimento do tempo de trabalho especial ainda que atestado por PPP emitido com base em laudo técnico extemporâneo ao período em que ocorreu a prestação do trabalho, quando a aferição técnica demonstrar a efetiva exposição a agentes agressivos.
+
+Nesse sentido, a doutrina ensina que:
+
+“[o] fato de o laudo pericial ter sido elaborado após o término do período laborado em condições prejudiciais à saúde e/ou à integridade física não impede o reconhecimento da atividade especial, até porque as condições do ambiente de trabalho tendem a aprimorar-se com a evolução tecnológica, sendo razoável supor que em tempos pretéritos a situação era pior ou quando menos igual à constatada na data da elaboração.” (Manual de direito previdenciário. Carlos Alberto Pereira de Castro, João Batista Lazzari. - 18ª ed. Rio de Janeiro: Forense, 2015.).
+
+Com efeito, a circunstância de o laudo ou o PPP não serem contemporâneos à prestação da atividade pelo obreiro não lhes retira a força probatória, ante a inexistência de previsão legal nesse sentido, bem como tendo em vista que a evolução tecnológica, a legislação trabalhista e os instrumentos de fiscalização atuais apontam para a melhoria das condições ambientais de trabalho em relação àquelas anteriormente experimentadas e não o contrário.
+
+Na mesma linha o entendimento jurisprudencial consolidado por este Tribunal e demais Cortes Regionais, no sentido de que a extemporaneidade não retira a validade ou a força probatória do documento para efeito de especialidade do labor, diante da presunção de conservação do estado anterior das coisas, desde que não evidenciada a alteração das condições de trabalho. Precedentes: TRF6, AC 1000415-45.2017.4.01.3802, 1ª Turma - PREV/SERV, Relator para Acórdão Des. Fed. Derivaldo de Figueiredo Bezerra Filho, julgado em 21/02/2025 e ApRemNec 1000194-56.2017.4.01.3804, 2ª Turma - PREV/SERV, Relator para Acórdão Des. Fed. Pedro Felipe de Oliveira Santos, D.E. 27/02/2025, TRF1, AC 0065408-35.2011.4.01.9199, julgado em 09/03/2018, TRF4, AC 5004469-64.2020.4.04.7207, julgado em 23/02/2024 e TRF5, AC 08135236420214058300, julgado em 08/08/2023).
+
+- O rol de agentes nocivos à saúde ou integridade física do trabalhador.
+
+A jurisprudência do egrégio Superior Tribunal de Justiça orienta-se no sentido de que o rol de atividades consideradas prejudiciais à saúde ou à integridade física descritas pelos decretos que regulamentam a Lei de Benefícios é meramente exemplificativo. Portanto é admissível que atividades não elencadas no referido rol sejam reconhecidas como especiais, desde que a situação seja devidamente demonstrada no caso concreto. REsp 1460188/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 26/06/2018, DJe 08/08/2018).
+
+- Da conversão do tempo especial em comum.
+
+Para o segurado que houver exercido tanto atividades sujeitas a condições especiais como atividades comuns, sem que tenha completado o tempo suficiente para aposentadoria especial, os respectivos períodos especiais podem ser somados ao tempo comum após a sua conversão.
+
+O Decreto n. 4.827/03, alterando a redação do artigo 70 do Regulamento da Previdência Social, estabeleceu:
+
+Art. 70. A conversão de tempo de atividade sob condições especiais em tempo de atividade comum dar-se-á de acordo com a seguinte tabela:
+
+TEMPO A CONVERTER MULTIPLICADORES
+
+MULHER (PARA 30) HOMEM (PARA 35)
+
+DE 15 ANOS 2,00 2,33
+
+DE 20 ANOS 1,50 1,75
+
+DE 25 ANOS 1,20 1,40
+
+§ 1o A caracterização e a comprovação do tempo de atividade sob condições especiais obedecerá ao disposto na legislação em vigor na época da prestação do serviço.
+
+§2o As regras de conversão de tempo de atividade sob condições especiais em tempo de atividade comum constantes deste artigo aplicam-se ao trabalho prestado em qualquer período.
+
+Com o advento da citada norma, o próprio INSS passou a admitir a conversão do tempo especial em comum, relativamente ao trabalho prestado em qualquer época até a EC n. 103/2019, no que foi acompanhado pelos tribunais (REsp n. 1096450, de 18.08.2009). Diante disso, não há mais dúvida em relação à possibilidade da conversão do tempo de trabalho especial em tempo comum, nos termos citados.
+
+De outra sorte, inexiste previsão legal para conversão do tempo comum em especial, em relação ao trabalho prestado após a Lei 9.032/95. Ademais, o Superior Tribunal de Justiça firmou entendimento no sentido de que a lei que rege a possibilidade de converter tempo comum em especial é aquela vigente no momento em que o segurado satisfizer os requisitos para se aposentar (EDcl no REsp n. 1.310.034/PR, relator Ministro Herman Benjamin, Primeira Seção, julgado em 26/11/2014, DJe de 2/2/2015). Portanto, só faz jus à conversão do tempo comum em especial aquele que preencheu todas as condições legais para obtenção do benefício antes da vigência da Lei 9.032/95 (Súmula 85 da TNU).
+
+Atualmente, a Emenda Constitucional nº. 103/2019, com vigência a partir de 14/11/2019, vedou expressamente a conversão do tempo de trabalho especial prestado após essa data, nos termos do artigo 25, §2º.
+
+Uso de EPI – Equipamento de proteção individual.
+
+O Supremo Tribunal Federal, no julgamento do ARE 664.335 (relator Ministro Luiz Fux, 04.02.2014), Tema de Repercussão Geral nº. 555, decidiu acerca da aposentadoria especial e do uso de equipamento de proteção individual. Destacam-se os principais pontos da decisão da Suprema Corte:
+
+a) O direito à aposentadoria especial pressupõe a efetiva exposição do trabalhador a agente nocivo à sua saúde, de modo que, se o EPI for realmente capaz de neutralizar a nocividade não haverá respaldo constitucional à aposentadoria especial;
+
+b) Na hipótese de exposição do trabalhador a ruído acima dos limites legais de tolerância, a declaração do empregador, no âmbito do Perfil Profissiográfico Previdenciário (PPP), no sentido da eficácia do Equipamento de Proteção Individual – EPI, não descaracteriza o tempo de serviço especial para aposentadoria;
+
+c) Para os demais agentes nocivos aferidos de forma quantitativa, deve-se avaliar, em cada caso, se existe EPI capaz de neutralizar a nocividade;
+
+d) Em caso de divergência ou dúvida sobre a eficácia do EPI, a Administração e o Judiciário devem nortear-se pelo reconhecimento do direito ao segurado (in dubio pro misero);
+
+e) Não viola a norma inscrita no art. 195, § 5º, da CF, que estipula a proibição criação, majoração ou extensão de benefício sem a correspondente fonte de custeio, o reconhecimento de tempo especial, ainda que haja anotação de fornecimento de EPI eficaz no PPP.
+
+Agente nocivo ruído
+
+O trabalho sujeito ao agente nocivo ruído é considerado especial a depender do nível de intensidade a que o segurado foi exposto, conforme a época da efetiva prestação do serviço. Confira-se:
+
+a) até a edição do Decreto 2.171, de 05/03/1997, considera-se especial o trabalho com exposição acima de 80dB, conforme disposto no item 1.1.6 do Anexo ao Decreto nº. 53.831/64;
+
+b) a partir a edição do Decreto nº. 2.172, que passou a viger em 06/03/1997, e também durante a vigência da redação original do Decreto 3.048/99, considera-se especial o trabalho executado em exposição a ruído acima de 90dB(A);
+
+c) já a partir da vigência do Decreto 4.822, em 19/11/2003, passou a caracterizar condição especial de trabalho a sujeição ao ruído em Nível de Exposição Normalizado (NEN) superior a 85 dB(A), conforme NHO-01 da FUNDACENTRO, nos termos do referido decreto.
+
+Para a comprovação de exposição ao agente físico ruído se faz necessária a aferição da intensidade por meio laudo técnico, independentemente do período de labor (AGARESP 201402877124, HUMBERTO MARTINS, STJ – SEGUNDA TURMA, DJE DATA: 11/05/2015.).
+
+Os parâmetros para a avaliação quantitativa do ruído contínuo constam dos Anexos 1 e 2 da Norma Regulamentadora nº. 15 Ministério do Trabalho e Previdência. O Anexo n.º 1 da NR-15 fixa em 85 decibéis o limite de tolerância para ruído contínuo ou intermitente, considerando uma jornada diária de 8 horas de trabalho. O tempo máximo de exposição diária permitido se reduz à medida que o nível de pressão sonora aumenta.
+
+No caso de exposição a ruídos de variadas intensidades, o cálculo para apurar a dose diária de exposição deve observar o tempo total a que o trabalhador fica exposto a um nível de ruído específico, dividido pela máxima exposição diária permitida a este nível.
+
+No âmbito do Direito Previdenciário, o Decreto n. 4.882/2003 deu nova redação ao §11 do art. 68 do Decreto n. 3.048/1999 (atualmente §12), dispondo que as avaliações ambientais deverão considerar a classificação dos agentes nocivos e limites de tolerância estabelecidos pela norma trabalhista, aferidos com base na metodologia e nos procedimentos estabelecidos pela Norma de Higiene Ocupacional da FUNDACENTRO
+
+Acerca da questão, o Superior Tribunal de Justiça, em julgamento sob o rito dos recursos repetitivos, decidiu que, na vigência do Decreto n. 4.882/2003, quando for constatado que o segurado esteve exposto a diferentes níveis de efeitos sonoros, a intensidade deve ser aferida por meio do Nível de Exposição Normalizado (NEN). “Ausente essa informação, deverá ser adotado como critério o nível máximo de ruído (pico de ruído), desde que perícia técnica judicial comprove a habitualidade e a permanência da exposição ao agente nocivo na produção do bem ou na prestação do serviço. (Tema 1.083 – STJ).
+
+Ademais, também para os períodos posteriores à vigência do Decreto n. 4.882/2003, recentemente a TNU havia fixado a tese de que a simples menção à técnica da dosimetria ou ao dosímetro no PPP enseja a presunção de observância das determinações da Norma de Higiene Ocupacional (NHO-01) e supriria a menção expressa ao uso do NEN, conforme Tema 317.
+
+Embora tal tese tenha sido anulada em sessão de 14.05.2025, é certo que tal se deu apenas por vício formal nas audiências de esclarecimentos com técnicos da Fundacentro que a embasaram, não havendo revisão ou alteração do entendimento da TNU a respeito da matéria.
+
+Por fim, cumpre salientar que a própria Instrução Normativa do INSS foi ajustada (IN 128/2022, com a redação conferida pela IN 170/2024), para reconhecer a comprovação da especialidade da exposição ao agente nocivo ruído nos seguintes termos:
+
+- períodos anteriores à vigência do Decreto nº 4.882/2003: bastará que conste do formulário o valor resultante da medição em intensidade superior ao limite de tolerância vigente, não sendo exigida a observância de qualquer outra formalidade (art. 292, I e II da IN 122/2022, com a redação conferida pela IN 170/2024).
+
+- períodos posteriores à vigência do Decreto nº 4.882/2003: embora seja necessária a observância do Nível de Exposição Normalizado (NEN), conforme NHO-01 da Fundacentro, "caso não conste expressamente a informação da utilização do NEN, poderá ser aceita a menção à NHO-01 desde que a documentação comprobatória da atividade especial indique que a medição do ruído refere-se a uma jornada diária de 8 (oito) horas." (art. 292, § 1º, da IN 122/2022, com a redação conferida pela IN 170/2024).
+
+Caso dos autos
+
+No presente caso, a controvérsia recursal cinge-se em torno do reconhecimento do tempo de trabalho especial nos períodos de 02/08/1994 a 10/04/2005 e 16/05/2005 a 31/10/2006 por exposição ao agente nocivo ruído.
+
+No lapso de 02/08/1994 a 18/11/2003, anterior à vigência do Decreto nº 4.882/2003, o histórico laboral apresentado (evento 1, DOC8, pp. 27/28 dos autos originários) evidencia exposição ao ruído acima dos limites de tolerância vigentes à época, o que é suficiente para a comprovação da especialidade nos moldes delineados no tópico "Agente Nocivo Ruído".
+
+Nos lapsos de 19/11/2003 a 10/04/2005 e 16/05/2005 a 31/10/2006, todos posteriores à vigência do Decreto nº 4.882/2003, o PPP informa que a aferição do ruído em intensidade/concentração superior aos limites de tolerância se deu com a utilização da técnica "NHO-01" da Fundacentro (evento 1, DOC8, pp. 27/28 e 31/32 dos autos originários), o que é suficiente para autorizar o reconhecimento da especialidade na forma delineada no tópico "Agente Nocivo Ruído".
+
+De toda forma, ainda que, por hipótese, fossem consideradas insuficientes as informações constantes do PPP para comprovação da utilização do NEN, seria caso de adoção do critério do nível máximo de ruído (pico de ruído), conforme decidido pelo Superior Tribunal de Justiça no já citado Tema 1.083, segundo o qual é “possível o reconhecimento do labor especial por exposição a ruído variável baseado nos picos de maior intensidade, quando não houver informação da média de ruído apurada segundo a metodologia da FUNDACENTRO [...]”.
+
+Nesta linha subsidiária, tendo em vista que o PPP se baseia na efetiva medição do ruído a que o trabalhador foi exposto durante a sua jornada de trabalho, há que se considerar que o nível máximo de ruído aferido é, no mínimo, igual ao informado nos documentos apresentados pela parte autora. Ou seja, o pico de ruído será sempre igual ou maior do que o valor descrito no PPP. Diante disso, conclui-se que, adotado o critério de pico de ruído, os períodos de labor em questão também enquadram-se como especiais, por exposição do trabalhador a ruído em intensidade superior à considerada prejudicial pela legislação em vigor na época da prestação do trabalho.
+
+Em consonância com este entendimento:
+
+EMENTA: DIREITO PREVIDENCIÁRIO. APELAÇÃO CÍVEL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TEMPO DE TRABALHO ESPECIAL. EXPOSIÇÃO A AGENTES NOCIVOS. APOSENTADORIA ESPECIAL. PARCIAL PROVIMENTO. I. CASO EM EXAME 1. Apelação cível interposta pela parte autora buscando a conversão de períodos comuns em tempo especial, concessão de aposentadoria especial ou, subsidiariamente, aposentadoria por tempo de contribuição. Apelação da parte ré visando a não caracterização do tempo especial, o não reconhecimento do tempo de contribuição na condição de aluno aprendiz e modificação do índices de correção fixados na sentença. II. QUESTÃO EM DISCUSSÃO 2. Há quatro questões em discussão: (i) o direito ao reconhecimento da contagem de período na condição aluno aprendiz como tempo de contribuição para aposentadoria; (ii) se há direito ao reconhecimento de tempo especial pela exposição a agentes nocivos e enquadramento por categoria profissional; (iii) se é possível a conversão de tempo comum em especial ou vice-versa; (iv) se estão preenchidos os requisitos para a concessão de aposentadoria especial ou por tempo de contribuição. III. RAZÕES DE DECIDIR (...) 11. Relativamente aos períodos posteriores a 19.11.2003, os formulários profissiográficos apresentados pela parte autora não informam o Nível de Exposição Normalizado (NEN) do ruído, de tal maneira que deve ser adotado como critério o nível máximo de ruído (pico de ruído), conforme decidido pelo Superior Tribunal de Justiça no já citado Tema 1.083. Considerando que os formulários profissiográficos informam a medição do ruído a que o trabalhador foi exposto, há que se considerar que o nível máximo é, no mínimo, igual ao informado nos documentos apresentados pela parte autora. Diante disso, conclui-se que, adotado o critério de pico de ruído, os períodos de labor em questão enquadram-se como especiais, por exposição do trabalhador a ruído em intensidade superior à considerada prejudicial pela legislação em vigor na época da prestação do trabalho. No caso, desnecessária a realização de perícia para comprovação da habitualidade e permanência da exposição, haja vista que a descrição das atividades no PPP demonstra que a exposição ao ruído é indissociável da prestação do serviço realizado pela parte autora. 12. Os períodos reconhecidos como especiais somados ao tempo comum atendem o preenchimento dos requisitos para aposentadoria integral por tempo de contribuição na DER (02/08/2012). 13. Correção monetária e juros moratórios conforme o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, o qual incorpora as orientações jurisprudenciais do Supremo Tribunal Federal e do Superior Tribunal de Justiça (Tema n. 810/STF e Tema n. 905/STJ). No ponto, portanto, não merece provimento a apelação da parte ré. 14. Incabível a majoração de honorários recursais, pois não se aplica o artigo 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação (STJ, Corte Especial, REsp 1.864.633-RS, REsp 1.865.223-SC e REsp 1.865.553-PR, Relator Ministro Paulo Sérgio Domingues, DJe 21/12/2023, Tema Repetitivo n. 1.059). IV. DISPOSITIVO 15. Apelação da parte autora não provida. Apelação da parte ré parcialmente provida para deixar reconhecer como tempo de contribuição o período de aluno-aprendiz de 27/07/1983 a 21/12/1984. (TRF6, AC 0002023-34.2013.4.01.3803, 2ª Turma - PREV/SERV, Relator para Acórdão PEDRO FELIPE DE OLIVEIRA SANTOS, D.E. 27/02/2025) destaquei
+
+Ressalte-se, ainda, que o Tema 555-STF afasta a possibilidade de neutralização da nocividade da exposição ao agente ruído acima dos limites de tolerância vigentes pelo uso de EPI, mesmo que indicado como eficaz, o que afasta a pertinência e adequação do motivo invocado pelo juízo a quo para eventual dilação probatória, estando caracterizado o direito líquido e certo invocado a partir das provas documentias carreadas aos autos.
+
+Por todo o exposto, deve ser dado provimento a apelação interpostam para reconhecer como tempo especial os lapsos de 02/08/1994 a 10/04/2005 e 16/05/2005 a 31/10/2006 por exposição ao agente nocivo ruído.
+
+Por conseguinte, somado o sobretempo decorrente do reconhecimento da atividade especial nestes autos e o já reconhecido administratvivamente, a parte autora preenche na DER (05/11/2018) os requisitos necessários para a concessão da aposentadoria integral por tempo de contribuição (CF/88, art. 201, § 7º, inc. I, com redação dada pela EC 20/98), porque preenchia o tempo mínimo de contribuição de 35 anos, totalizando 35 anos, 0 meses e 11 dias de tempo de contribuição; 366 meses de carência; e 50 anos, 5 meses e 25 dias de idade. O cálculo do benefício deve ser feito de acordo com a Lei 9.876/99, com a incidência do fator previdenciário, uma vez que a pontuação totalizada (85.52 pontos) é inferior a 95 pontos (Lei 8.213/91, art. 29-C, inc. I, incluído pela Lei 13.183/2015).
+
+Em observância aos enunciados das Súmulas n. 269 e n. 271 do Supremo Tribunal Federal (STF), o mandado de segurança não é substitutivo de ação de cobrança, não podendo viabilizar a produção de efeitos patrimoniais em relação ao período anterior à impetração:
+
+Súmula 269/STF: “O mandado de segurança não é substitutivo de ação de cobrança.”
+
+Súmula 27/STF: “Concessão de mandado de segurança não produz efeitos patrimoniais em relação a período pretérito, os quais devem ser reclamados administrativamente ou pela via judicial própria.”
+
+Assim, somente valores pertinentes a parcelas posteriores ao ajuizamento do writ podem sem cobrados em sede de cumprimento de sentença, submetendo-se ao regime dos requisitórios (RPV ou Precatório), devendo eventuais valores entre a DER e a impetração ser buscados pelas vias próprias (cf. Tema 831 STF, Súmulas 269 e 271 STF e STJ. Corte Especial. EREsp 1087232/ES, Rel. Min. Herman Benjamin, julgado em 07/12/2016).
+
+Isso posto, merece provimento a apelação interposta, para conceder a segurança postulada, nos termos da fundamentação.
+
+Consectários
+
+O INSS deverá implantar o benefício de aposentadoria por tempo contribuição, sob o regime anterior à Emenda Constitucional nº 103/2019, desde a DER de 05/11/2018:
+
+TABELA PARA CUMPRIMENTO PELA CEAB
+
+Cumprimento Implantar Benefício
+
+NB 1902484271
+
+Espécie Aposentadoria por Tempo de Contribuição
+
+DIB 05/11/2018
+
+DIP Primeiro dia do mês da decisão que determinou a implantação/restabelecimento do benefício
+
+DCB
+
+RMI A apurar
+
+Segurado Especial Não
+
+Observações
+
+Cabível, na espécie, a concessão da tutela de urgência, porque presentes os requisitos necessários para a sua concessão, quais sejam, a probabilidade do direito, nos termos da fundamentação acima, bem como o perigo de dano de difícil reparação, em razão da natureza alimentar das prestações previdenciárias. Ademais, os recursos eventualmente interpostos contra o acórdão têm previsão de serem recebidos apenas no efeito devolutivo.
+
+As parcelas atrasadas, descontados eventuais valores recebidos a título de benefício previdenciário inacumulável, devem ser acrescidas de correção monetária e de juros moratórios conforme o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, o qual incorpora as orientações jurisprudenciais do Supremo Tribunal Federal e do Superior Tribunal de Justiça (Tema n. 810/STF e Tema n. 905/STJ), conforme o encadeamento da legislação de regência e sua vigência, como tem reiteradamente decidido a 2ª Turma deste Tribunal: AC n. 0024723-91.2005.4.01.3800, relator Desembargador Pedro Felipe Santos, TRF6, Segunda Turma, j. 13/06/2023; AC 1023821-84.2019.4.01.0000, Relator Desembargador Federal Klaus Kuschel, 2ª Turma, j. 18/04/2023; AC 0026079-38.2016.4.01.3800, Relator Desembargadora Federal Luciana Pinheiro Costa, 2ª Turma, TRF6, j. 28/03/2023.
+
+Sem condenação em honorários, nos termos do art. 25 da Lei nº 12.016/09 e Súmula 512 do STF.
+
+Em se tratando de causas ajuizadas perante a Justiça Federal, o INSS está isento de custas por força do artigo 4º, inciso I, da Lei n. 9.289/96. Por sua vez, nas causas ajuizadas perante a Justiça Estadual de Minas Gerais, no exercício da jurisdição federal (§3º do artigo 109 da Constituição Federal de 1988), o INSS está isento das custas por força do artigo 10, inciso I, da Lei Estadual n. 14.939/2003.
+
+Conclusão.
+
+Em face do exposto, voto por dar provimento à apelação da parte autora.
+
+Documento eletrônico assinado por DIOGO SOUZA SANTA CECILIA, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc2g.trf6.jus.br/eproc/externo_controlador.php?acao=consulta_autenticidade_documentos, mediante o preenchimento do código verificador 60000580641v15 e do código CRC 81076ce2.
+
+Informações adicionais da assinatura:
+Signatário (a): DIOGO SOUZA SANTA CECILIA
+Data e Hora: 13/11/2026, às 19:12:23
+
+1001669-55.2019.4.01.3811
+
+60000580641
+.V15
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+TRIBUNAL REGIONAL FEDERAL DA 6ª REGIÃO
+
+Apelação Cível Nº 1001669-55.2019.4.01.3811/MG
+
+RELATOR: Juiz Federal DIOGO SOUZA SANTA CECILIA
+
+EMENTA
+
+DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. APELAÇÃO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ADEQUAÇÃO DA VIA ELEITA. TEORIA DA CAUSA MADURA. ATIVIDADE ESPECIAL. EXPOSIÇÃO A RUÍDO. PERFIL PROFISSIOGRÁFICO PREVIDENCIÁRIO. METODOLOGIA NHO-01. EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL. RECONHECIMENTO DA ESPECIALIDADE. CONVERSÃO EM TEMPO COMUM. PREENCHIMENTO DOS REQUISITOS NA DER. EFEITOS PATRIMONIAIS DO MANDADO DE SEGURANÇA. CONCESSÃO DO BENEFÍCIO. APELAÇÃO PROVIDA. SEGURANÇA CONCEDIDA.
+
+I. CASO EM EXAME
+
+Apelação interposta pela parte autora contra sentença que extinguiu mandado de segurança por inadequação da via eleita, ao fundamento de que a discussão sobre a eficácia do equipamento de proteção individual demandaria dilação probatória incompatível com a via mandamental. A parte impetrante pretende o reconhecimento da especialidade dos períodos de 02/08/1994 a 10/04/2005 e de 16/05/2005 a 31/10/2006, em razão da exposição ao agente nocivo ruído, sua conversão em tempo comum e a concessão de aposentadoria integral por tempo de contribuição desde a DER, em 05/11/2018.
+
+II. QUESTÃO EM DISCUSSÃO
+
+Há quatro questões em discussão: (i) definir se o mandado de segurança constitui via adequada para o reconhecimento da especialidade dos períodos de trabalho com base nas provas pré-constituídas apresentadas; (ii) estabelecer se, superada a questão processual, a causa comporta julgamento imediato do mérito pela teoria da causa madura; (iii) determinar se os períodos de 02/08/1994 a 10/04/2005 e de 16/05/2005 a 31/10/2006 devem ser reconhecidos como tempo especial em razão da exposição a ruído acima dos limites de tolerância; e (iv) definir se, após a conversão do tempo especial em comum, estão preenchidos os requisitos para a concessão da aposentadoria integral por tempo de contribuição desde a DER.
+
+III. RAZÕES DE DECIDIR
+
+O mandado de segurança admite o exame de direito líquido e certo demonstrado por prova pré-constituída, sendo inadequado apenas quando a solução da controvérsia depende de dilação probatória, nos termos do art. 5º, LXIX, da Constituição Federal e do art. 19 da Lei nº 12.016/2009.
+
+A controvérsia sobre o reconhecimento da atividade especial pode ser solucionada com os documentos apresentados com a petição inicial, sem necessidade de produção de novas provas, razão pela qual a via mandamental mostra-se adequada.
+
+A causa comporta julgamento imediato do mérito, nos termos do art. 1.013, § 3º, do CPC, porque os fatos relevantes estão suficientemente comprovados, a matéria remanescente é exclusivamente de direito e a controvérsia foi submetida ao contraditório, inexistindo supressão de instância ou prejuízo à ampla defesa.
+
+O reconhecimento da especialidade do trabalho rege-se pela legislação vigente à época da prestação do serviço, em observância ao princípio tempus regit actum, incorporando-se ao patrimônio jurídico do segurado o direito à contagem diferenciada do período trabalhado sob condições especiais.
+
+O reconhecimento da especialidade do labor por exposição a ruído é possível com base em PPPs que informem a intensidade acima dos limites de tolerância vigentes à época para períodos anteriores ao Decreto nº 4.882/2003. Para períodos posteriores, faz-se necessária menção expressa ao uso do NEN ou que haja referências suficientes a demonstrar a observância da metodologia da NHO-01 da Fundacentro, conforme art. 292, § 1º da IN 122/2022, com a redação conferida pela IN 170/2024, e Tema 1.083/STJ.
+
+No período de 02/08/1994 a 18/11/2003, o histórico laboral comprova exposição a ruído acima dos limites de tolerância então vigentes, sendo suficiente para o reconhecimento da especialidade.
+
+Nos períodos de 19/11/2003 a 10/04/2005 e de 16/05/2005 a 31/10/2006, o PPP registra exposição a ruído em intensidade superior aos limites de tolerância e informa a utilização da metodologia NHO-01 da FUNDACENTRO, circunstâncias suficientes para o reconhecimento da atividade especial.
+
+A indicação, no PPP, da eficácia do equipamento de proteção individual não descaracteriza a especialidade do trabalho sujeito a ruído acima dos limites legais de tolerância, conforme a orientação firmada pelo Supremo Tribunal Federal no Tema 555.
+
+Ainda que se considerasse insuficiente a informação do PPP quanto à utilização do Nível de Exposição Normalizado, admite-se subsidiariamente a consideração do nível máximo de ruído, na forma do Tema 1.083 do Superior Tribunal de Justiça, sendo o pico necessariamente igual ou superior ao nível de ruído efetivamente registrado nos documentos apresentados.
+
+Os períodos especiais trabalhados até a EC nº 103/2019 admitem conversão em tempo comum, observados os multiplicadores previstos no art. 70 do Decreto nº 3.048/1999, sendo vedada pela EC nº 103/2019 apenas a conversão do tempo especial prestado após sua vigência.
+
+A soma do acréscimo decorrente da conversão dos períodos especiais reconhecidos judicialmente com o tempo já computado administrativamente totaliza, na DER de 05/11/2018, 35 anos e 11 dias de contribuição e 366 meses de carência, preenchendo os requisitos para aposentadoria integral por tempo de contribuição sob o regime anterior à EC nº 103/2019.
+
+A renda mensal do benefício deve observar a Lei nº 9.876/1999, com incidência do fator previdenciário, porque a pontuação de 85,52 pontos alcançada pelo segurado é inferior aos 95 pontos exigidos pelo art. 29-C, I, da Lei nº 8.213/1991.
+
+O mandado de segurança não produz efeitos patrimoniais em relação ao período anterior à impetração, de modo que apenas as parcelas posteriores ao ajuizamento podem ser satisfeitas no cumprimento da sentença, devendo os valores compreendidos entre a DER e a impetração ser reclamados pelas vias próprias.
+
+A probabilidade do direito reconhecido e a natureza alimentar das prestações previdenciárias justificam a tutela de urgência para implantação da aposentadoria por tempo de contribuição.
+
+IV. DISPOSITIVO
+
+Apelação provida. Segurança concedida.
+
+ACÓRDÃO
+
+Vistos e relatados estes autos em que são partes as acima indicadas, a Egrégia 2ª Turma Suplementar do Tribunal Regional Federal da 6ª Região decidiu, por unanimidade, dar provimento à apelação da parte autora, nos termos do relatório, votos e notas de julgamento que ficam fazendo parte integrante do presente julgado.
+
+Belo Horizonte, 10 de novembro de 2026.
+
+Documento eletrônico assinado por DIOGO SOUZA SANTA CECILIA, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc2g.trf6.jus.br/eproc/externo_controlador.php?acao=consulta_autenticidade_documentos, mediante o preenchimento do código verificador 60000580642v4 e do código CRC 97bdf287.
+
+Informações adicionais da assinatura:
+Signatário (a): DIOGO SOUZA SANTA CECILIA
+Data e Hora: 13/11/2026, às 19:12:23
+
+1001669-55.2019.4.01.3811
+
+60000580642
+.V4
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Tribunal Regional Federal da 6ª Região
+
+EXTRATO DE ATA DA SESSÃO VIRTUAL DE 04/11/2026 A 10/11/2026
+
+Apelação Cível Nº 1001669-55.2019.4.01.3811/MG
+
+RELATOR: Juiz Federal DIOGO SOUZA SANTA CECILIA
+
+PRESIDENTE: Desembargadora Federal LUCIANA PINHEIRO COSTA
+
+PROCURADOR(A): EDUARDO MORATO FONSECA
+
+Certifico que este processo foi incluído na Pauta da Sessão Virtual, realizada no período de 04/11/2026, às 00:00, a 10/11/2026, às 16:00, na sequência 298, disponibilizada no DE de 21/10/2026.
+
+Certifico que a 2ª Turma Suplementar, ao apreciar os autos do processo em epígrafe, proferiu a seguinte decisão:
+
+A 2ª TURMA SUPLEMENTAR DECIDIU, POR UNANIMIDADE, DAR PROVIMENTO À APELAÇÃO DA PARTE AUTORA.
+
+RELATOR DO ACÓRDÃO: Juiz Federal DIOGO SOUZA SANTA CECILIA
+
+Votante: Juiz Federal DIOGO SOUZA SANTA CECILIA
+
+Votante: Desembargadora Federal LUCIANA PINHEIRO COSTA
+
+Votante: Juíza Federal ALCIONI ESCOBAR DA COSTA ALVIM
+
+FATIMA HELENA DIAS DE ABREU COUTINHO
+
+Secretária
+
+Identificações de pessoas físicas foram ocultadas
