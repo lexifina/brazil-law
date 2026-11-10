@@ -1,0 +1,40 @@
+Apelação criminal. Pedido de reabilitação criminal em Acordo de não persecução penal (ANPP). Cumprimento integral das condições pactuadas. Extinção da punibilidade. Impossibilidade. Ausência de sentença condenatória e de pena. Inaplicabilidade dos artigos 93 e seguintes do código penal. Reabilitação criminal que pressupõe condenação definitiva. Pedido subsidiário de sigilo dos registros processuais. Descabimento. Regime jurídico do ANPP que não prevê a eliminação ou ocultação absoluta dos respectivos registros. Ausência de fundamento legal. Decisão mantida. Recurso desprovido.
+1. A reabilitação criminal, prevista nos artigos 93 e seguintes do Código Penal, pressupõe a existência de sentença condenatória definitiva e de pena regularmente imposta.
+2. O integral cumprimento do acordo de não persecução penal produz a extinção da punibilidade, nos termos do artigo 28-a, § 13, do Código de Processo Penal, mas não gera condenação criminal nem converte as obrigações pactuadas em pena.
+3. Inexistindo condenação ou reprimenda penal, ausente pressuposto indispensável à incidência do instituto da reabilitação criminal.
+
+I.
+Trata-se de recurso de apelação interposto por Ildefonso Junior Maneira contra a decisão proferida no mov. 23.1, que indeferiu pedido de reabilitação criminal formulado nos autos n.º 0005601-50.2015.8.16.0095.
+Consta no feito que o requerente foi denunciado pela prática do delito previsto no artigo 14 da Lei n.º 10.826/2003.
+No curso da persecução penal, celebrou Acordo de Não Persecução Penal (ANPP), posteriormente homologado pelo Juízo, assumindo obrigações consistentes em comparecimento periódico em Juízo, prestação pecuniária e perdimento do valor recolhido a título de fiança. Após o integral cumprimento das condições pactuadas, foi declarada extinta a punibilidade, nos termos do artigo 28-A, § 13, do Código de Processo Penal.
+Decorridos mais de dois anos da extinção da punibilidade, o requerente formulou pedido de reabilitação criminal, sustentando, em síntese, que o integral cumprimento do acordo e o preenchimento dos requisitos previstos no artigo 94 do Código Penal autorizariam a concessão da medida, com a consequente imposição de sigilo aos registros relacionados ao processo e à respectiva execução.
+Sobreveio decisão que indeferiu o pleito, ao fundamento de que a hipótese não se enquadra nas situações contempladas pelo artigo 93 do Código Penal, bem como de que não havia justificativa para a decretação do sigilo pretendido.
+Inconformado, o requerente interpôs recurso de apelação (mov. 24.1). Em suas razões, sustenta, preliminarmente, a existência de interesse de agir, argumentando que registros relacionados ao acordo de não persecução penal teriam sido utilizados pela Polícia Federal em procedimento administrativo instaurado para cassação de seu registro de atirador desportivo.
+No mérito, defende a possibilidade de concessão da reabilitação criminal após o cumprimento do acordo, sob o argumento de que a finalidade do instituto recomenda interpretação extensiva dos artigos 93 e 94 do Código Penal. Subsidiariamente, requer a imposição de sigilo sobre os registros processuais relacionados ao processo e à respectiva execução. Ao final, pugna pelo provimento do recurso para reformar integralmente a decisão recorrida.
+Em contrarrazões, o Ministério Público manifestou-se pelo conhecimento e desprovimento do recurso.
+Remetidos os autos à Procuradoria-Geral de Justiça, sobreveio parecer da lavra do Procurador de Justiça Wilson José Galheira, pelo conhecimento e desprovimento do apelo.
+
+II.
+O recurso deve ser desprovido.
+Da impossibilidade de concessão da reabilitação criminal
+A defesa sustenta que o integral cumprimento do acordo de não persecução penal, aliado ao preenchimento dos requisitos previstos no artigo 94 do Código Penal, autorizaria a concessão da reabilitação criminal.
+A tese, contudo, não prospera.
+A reabilitação criminal, disciplinada pelos artigos 93 a 95 do Código Penal, pressupõe a existência de sentença condenatória definitiva e de pena dela decorrente, sendo que o próprio artigo 93 é expresso ao estabelecer que a medida alcança as penas aplicadas em sentença definitiva, assegurando ao condenado o sigilo dos registros sobre o processo e a condenação.
+No caso concreto, entretanto, o apelante não foi condenado.
+Conforme se extrai dos autos, a persecução penal foi encerrada mediante celebração de acordo de não persecução penal, regularmente homologado pelo Juízo, sobrevindo posterior declaração de extinção da punibilidade em razão do cumprimento integral das condições ajustadas.
+Portanto, trata-se de situação jurídica substancialmente distinta daquela contemplada pelos artigos 93 e 94 do Código Penal, porquanto o cumprimento do ANPP extingue a punibilidade, mas não produz condenação criminal, não impõe pena e tampouco gera os efeitos próprios de uma sentença penal condenatória.
+Não procede, ainda, a alegação de que a interpretação restritiva do instituto implicaria tratamento mais gravoso ao beneficiário do acordo quando comparado ao condenado, visto que a reabilitação existe precisamente para limitar determinados efeitos decorrentes de condenação definitiva, realidade inexistente na hipótese dos autos.
+Ou seja, quem celebra e cumpre ANPP não ocupa a mesma posição jurídica daquele que foi condenado e executou pena criminal.
+Também não convence a tentativa de estender, por analogia, a expressão "extinta, de qualquer modo, a pena", constante do artigo 94 do Código Penal, para abranger hipóteses de extinção da punibilidade decorrentes do cumprimento de ANPP, pois o dispositivo refere-se à extinção de pena previamente imposta em sentença condenatória, pressuposto ausente na espécie.
+A propósito, cita-se decisão desta colenda Segunda Câmara Criminal em caso idêntico:
+“REMESSA NECESSÁRIA CRIMINAL – PEDIDO DE REABILITAÇÃO CRIMINAL – REABILITAÇÃO CONCEDIDA PELO JUÍZO A QUO – ACORDO DE NÃO PERSECUÇÃO PENAL CUMPRIDO COM A EXTINÇÃO DA PUNIBILIDADE – INEXISTÊNCIA DE CONDENAÇÃO – AUSÊNCIA DE INTERESSE QUANTO À REABILITAÇÃO – RECURSO CONHECIDO E PROVIDO, CASSANDO-SE A DECISÃO QUE CONCEDEU A REABILITAÇÃO.(TJPR - 2ª Câmara Criminal - 0001345-23.2025.8.16.0060 - Cantagalo - Rel.: DESEMBARGADOR LUIS CARLOS XAVIER - J. 01.12.2025)
+Desse modo, ausente pressuposto indispensável à incidência do instituto, inviável o acolhimento da pretensão recursal.
+Da impossibilidade de imposição de sigilo absoluto dos registros
+Subsidiariamente, o recorrente pretende a imposição de sigilo sobre os registros relacionados ao processo-crime e à respectiva execução, sob o argumento de que a manutenção dessas informações vem acarretando prejuízos na esfera administrativa.
+Todavia, a pretensão igualmente não merece acolhimento.
+O regime jurídico do acordo de não persecução penal não prevê a eliminação ou ocultação absoluta de seus registros. Ao revés, a própria legislação pressupõe a conservação dessas informações para finalidades específicas, a exemplo da hipótese prevista no artigo 28-A, § 2º, inciso III, do Código de Processo Penal.
+Ademais, conforme bem ponderado pela douta Procuradoria-Geral de Justiça, “a restrição à publicidade dos registros perante terceiros da pretensão de impedir seu acesso ou utilização por órgãos públicos no exercício de atribuições legalmente estabelecidas. O fato de o ANPP não gerar reincidência ou maus antecedentes não significa que as circunstâncias subjacentes ao acordo devam ser necessariamente desconsideradas em toda e qualquer esfera jurídica”.
+Igualmente descabida a invocação do artigo 748 do Código de Processo Penal, porquanto referido dispositivo disciplina os efeitos decorrentes da reabilitação criminal regularmente concedida, instituto cuja incidência não se verifica na hipótese dos autos.
+Assim, inexistindo fundamento legal para a imposição do sigilo absoluto pretendido, deve ser mantida a decisão recorrida.
+Diante do exposto, nega-se provimento ao recurso.
+Envie-se cópia deste acórdão, independentemente do trânsito em julgado, via Mensageiro, ao prolator da sentença, Dr. Dawber Gontijo Santos.
