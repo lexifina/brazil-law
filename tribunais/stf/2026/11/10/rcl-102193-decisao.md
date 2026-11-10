@@ -1,0 +1,100 @@
+Trata-se de reclamação, com pedido liminar, proposta pelo Município de Canoas/RS, contra acórdão proferido pelo Tribunal Superior do Trabalho – TST, no Processo  TST – 0021036-80.2019.5.04.0201, para garantir a observância das teses fixadas pelo Supremo Tribunal Federal nos julgamentos da Ação Declaratória de Constitucionalidade – ADC 16/DF, do Recurso Extraordinário – RE 1.298.647 RG/SP – Tema 1.118 RG e do Recurso Extraordinário – RE 760.931 RG/DF – Tema 246 RG.
+
+O reclamante aduz, em síntese, que o Tribunal reclamado transferiu automaticamente ao Poder Público a responsabilidade subsidiária pelo pagamento de encargos trabalhistas.
+
+Relata:
+
+[...] Trata-se de decisão proferida no âmbito do Tribunal Superior do Trabalho,  que negou provimento ao Agravo de Instrumento em Recurso de Revista interposto  pelo Município de Canoas, por entender que a decisão recorrida está em conformidade  com os precedentes vinculantes fixados pelo Supremo Tribunal Federal.
+Contudo, nota-se que Órgão Especial do Tribunal Superior do Trabalho  deixou de considerar entendimento firmado pelo Supremo Tribunal Federal,  notadamente no que se refere a questões relativas à demonstração da omissão na  fiscalização do contrato firmado entre a Empregadora e o Ente Público (doc. 1, p. 3).
+
+Afirma que:
+
+[...] A decisão ora reclamada, entendeu pela responsabilização sem a devida  comprovação de culpa in eligendo ou in vigilando do MUNICÍPIO DE CANOAS.
+Ao fim e ao cabo, por fundamentar de maneira genérica, apesar de invocar  omissão do Ente Público E FALTA DE PROVAS, o Tribunal Superior do Trabalho acabou  por responsabilizar automaticamente o Município de Canoas (doc. 1, p. 13).
+
+Segundo sustenta:
+
+[...] os Juízos Trabalhistas entenderam que a  responsabilidade do Município se deve em razão da culpa in vigilando, em função  do próprio inadimplemento da empresa terceirizada, além da procedência parcial  das postulações em juízo e da ausência de prova da fiscalização.
+[...] o TRT da 4ª Região condicionou a culpa ao  julgamento de parcial procedência do processo, o que é  repudiado pela jurisprudência do STF.
+Tal entendimento não deve prosperar, tendo em vista que este é contrário  ao firmado pelo Supremo Tribunal Federal, já que a posição adotada pela Corte  Suprema afasta a responsabilidade subsidiária do ente público quando embasada  exclusivamente na ausência de prova da fiscalização do contrato firmado pela  Administração Pública (doc. 1, p. 17).
+
+Argumenta, ainda, que:
+
+[...] No caso dos autos, a responsabilidade subsidiária do ente público se  encontra embasada exclusivamente na ausência de prova da fiscalização do  contrato de terceirização e no inadimplemento das verbas trabalhistas. O Supremo Tribunal Federal, nos autos do RE nº 760.931/DF, decidiu que é da parte Reclamante o  ônus probatório (doc. 1, p. 19).
+
+Ao final, aponta o preenchimento dos requisitos necessários para o provimento do pedido liminar e requer, no mérito, seja:
+
+[...]     julgada procedente a presente ação, reconhecendo-se a  violação aos entendimentos firmados nos julgamentos do recursos RE nº 760.931/DF,  RE 1298647/SP, e da ADC nº 16/DF, bem como ao enunciado da Súmula Vinculante nº  10, sendo cassada a decisão reclamada, exorbitante de seu julgado [...] (doc. 1, p. 30).
+
+É o relatório. Decido.
+
+Preliminarmente, observo que a ação está apta a ser julgada; por isso, deixo de requisitar as informações e de enviar o feito à Procuradoria-Geral da República (arts. 52, parágrafo único, e 161, parágrafo único, ambos do Regimento Interno do Supremo Tribunal Federal – RISTF).
+
+O reclamante sustenta que o ato impugnado descumpriu o entendimento firmado por esta Suprema Corte ao julgar a ADC 16/DF e o RE 760.931 RG/DF – Tema 246 da Repercussão Geral.
+
+Em casos como este, vinha me manifestando pela procedência da reclamação constitucional, por entender que os elementos constantes dos autos não seriam suficientes para caracterizar, de forma inequívoca, o necessário nexo causal entre eventual omissão administrativa e o inadimplemento trabalhista, razão pela qual, a meu juízo, não se mostraria adequada a imputação da responsabilidade subsidiária. Nesse sentido: Rcl 98.978/RS, DJe 25/8/2026; e Rcl 97.964/RS, DJe 17/8/2026, ambas da minha relatoria.
+
+Entretanto, observo que a interpretação quanto à improcedência da reclamação no caso tem sido majoritária na Primeira Turma do Supremo Tribunal Federal.
+
+Nesse sentido, especificamente sobre a questão da responsabilidade subsidiária do município de Canoas pelos débitos trabalhistas do Grupo de Apoio à Medicina Preventiva e à Saúde Pública – GAMP, na qual apresentei voto divergente e fiquei vencido:
+
+CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA. COMPROVAÇÃO DE COMPORTAMENTO NEGLIGENTE E NEXO DE CAUSALIDADE ENTRE A CONDUTA DO PODER PÚBLICO E O DANO SOFRIDO PELO TRABALHADOR. AUSÊNCIA DE VIOLAÇÃO AO QUE DECIDIDO POR ESTE TRIBUNAL NA ADC 16 E NO TEMA 246 DA REPERCUSSÃO GERAL. RECURSO DESPROVIDO. I. CASO EM EXAME 1. Agravo Interno em face de decisão que negou seguimento à Reclamação. II. QUESTÃO JURÍDICA EM DISCUSSÃO 2. Discute-se a alegada negativa de vigência à Súmula Vinculante 10, além de suposta violação à autoridade da decisão proferida pela CORTE nos autos da ADC 16, Rel. Min. CEZAR PELUSO, bem como no julgamento do Tema 246-RG, RE 760.931, Rel. Min. ROSA WEBER, e, ainda, do Tema 1.118-RG, RE 1.298.647, Rel. Min. NUNES MARQUES. III. RAZÕES DE DECIDIR 3. Por ocasião do julgamento do RE 760.931, sob a sistemática da Repercussão Geral, o Plenário desta SUPREMA CORTE afirmou que inexiste responsabilidade da Administração Pública por débitos trabalhistas de terceiros, alavancada pela premissa da inversão do ônus da prova em favor do trabalhador, razão pela qual se pode concluir que, provada suficientemente a culpa do ente público, o caso é de responsabilização civil subsidiária pelos danos suportados pelos trabalhadores. 4. Na hipótese, as instâncias ordinárias concluíram que o Município contratante foi negligente e deu causa aos prejuízos suportados pelos terceirizados, a partir de caso concreto com notória repercussão em âmbito local (caso do Grupo de Apoio à Medicina Preventiva e à Saúde Pública – GAMP e Município de Canoas/RS), tendo em vista fatores como: (i) contratação de entidade economicamente inidônea para prestação de serviços na área da saúde; (ii) sistemático inadimplemento de direitos trabalhistas desde o início da execução do termo de fomento; (iii) investigação criminal para apuração de fraudes contratuais e desvio de dinheiro público, com decretação de prisões cautelares de envolvidos e afastamento do cargo da secretária de saúde à época; (iv) intervenção municipal para retomada da execução direta dos serviços de saúde; (v) indícios concretos de existência apenas formal da pessoa jurídica contratada pelo Município, eis que destituída de instalações e recursos financeiros próprios. Logo, não se trata, portanto, de presunção de responsabilidade do reclamante, inexistindo violação ao que decidido por esta CORTE quando do julgamento da ADC 16. IV. DISPOSITIVO 5. Recurso de Agravo a que se nega provimento (Rcl 85.605 AgR/DF, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 9/1/2026).
+
+Feita a ressalva a meu entendimento, em homenagem ao princípio da colegialidade, alinho-me à orientação da Primeira Turma.
+
+No caso concreto, então, consoante a posição majoritária da Primeira Turma do Supremo Tribunal Federal, o entendimento do TST encontra-se em harmonia com as citadas decisões vinculantes proferidas pelo Supremo Tribunal Federal.
+
+Transcrevo a ementa do acórdão:
+
+AGRAVO EM RECURSO DE REVISTA COM AGRAVO. RESPONSABILIZAÇÃO SUBSIDIÁRIA. ENTE INTEGRANTE DA ADMINISTRAÇÃO PÚBLICA. AUSÊNCIA DE REPASSES. CONDUTA CULPOSA CONFIGURADA. TEMAS 246 E 1.118 DA TABELA DE REPERCUSSÃO GERAL DO STF. 1. O Supremo Tribunal Federal, no julgamento da ADC nº 16, declarou a constitucionalidade do art. 71, § 1º, da Lei nº 8.666/93 e, posteriormente, reconheceu a existência de repercussão geral (Tema 246) da questão constitucional suscitada no Recurso Extraordinário nº 760.931, referente à responsabilidade dos entes integrantes da Administração Pública em caso de terceirização, fixando a tese de que “o inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93”. 2. Já nos autos do RE-1.298.647, a Suprema Corte reconheceu a existência de repercussão geral (Tema 1.118) da questão constitucional relativa ao ônus da prova acerca de eventual conduta culposa na fiscalização das obrigações trabalhistas de prestadora de serviços, para fins de responsabilização subsidiária da Administração Pública, fixando a tese jurídica de que “1. Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público. (...)”. 3. In casu, observa-se que o Regional reconheceu a responsabilidade subsidiária do ente público com base na configuração da sua conduta culposa, haja vista sua inércia no tocante aos repasses de recursos para o reclamado principal. 4. Em tal contexto, a conclusão adotada na decisão recorrida não contraria o entendimento vinculante fixado pelo Supremo Tribunal Federal nos referidos precedentes. Agravo conhecido e não provido (doc. 9, p. 1).
+
+Extraio da decisão reclamada os seguintes trechos:
+
+[...] Eis os fundamentos adotados na decisão agravada em relação ao tema em epígrafe:
+Em observância a esse entendimento da Corte Máxima, o TST alinhou-se à tese de que a responsabilidade subsidiária dos entes integrantes da Administração Pública direta e indireta não decorre de mero inadimplemento das obrigações trabalhistas assumidas pela empresa regularmente contratada, mas apenas quando explicitada no acórdão regional a sua conduta culposa no cumprimento das obrigações da Lei 8.666, de 21.6.1993, especialmente na fiscalização do cumprimento das obrigações contratuais e legais da prestadora de serviço como empregadora (artigos 58 e 67, Lei 8.666/93) - novo texto da Súmula 331, V, do TST .
+Nesse quadro, a mera culpa in eligendo não autoriza, por si só, deduzir a responsabilidade do Poder Público pelos débitos inadimplidos pela empregadora, segundo o STF. A propósito, para a Corte Máxima, tendo sido a terceirização resultado de processo licitatório, não há que se falar em culpa in eligendo.
+Também não há que se falar, em tais casos de terceirização, em responsabilidade objetiva, a teor da jurisprudência advinda da Corte Máxima.
+Porém, naturalmente, se houver clara, inquestionável culpa da entidade estatal tomadora de serviços quanto à fiscalização da conduta da empresa terceirizada relativamente ao cumprimento de suas obrigações trabalhistas, incidirá a responsabilidade subsidiária, por força de outros preceitos legais, além do art. 71, caput e § 1º, da Lei de Licitações. Havendo manifesta ou demonstrada culpa in vigilando, incidem preceitos responsabilizatórios concorrentes, tais como os artigos 58, III, 67, caput e § 1º, da Lei 8.666/93; e os artigos 186 e 927 do Código Civil.
+[...] No caso concreto , a Corte de origem foi clara ao consignar que “é flagrante não só a negligência do Município na fiscalização do contrato, evidenciada pelos descumprimentos de direitos trabalhistas básicos da autora, mas também sua conduta culposa na administração do contrato, porquanto as irregularidades trabalhistas verificadas decorrem, em grande medida, do atraso no repasse dos valores devidos ao prestador de serviços contratado.” - premissas fáticas incontestes à luz da Súmula 126/TST .
+Consequentemente, em face de a decisão do TRT estar em consonância com o atual posicionamento desta Corte sobre a matéria, mantém-se o acórdão regional.
+Ressalte-se, por fim, que as vias recursais extraordinárias para os tribunais superiores (STF, STJ, TST) não traduzem terceiro grau de jurisdição; existem para assegurar a imperatividade da ordem jurídica constitucional e federal, visando à uniformização jurisprudencial na Federação. Por isso seu acesso é notoriamente restrito, não permitindo cognição ampla.
+[...] Por sua vez, o Supremo Tribunal Federal reconheceu a existência de repercussão geral (Tema 246) da questão constitucional suscitada no Recurso Extraordinário nº 760.931, referente à responsabilidade dos entes integrantes da Administração Pública em caso de terceirização, fixando a tese de que "o inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93".
+Não obstante isso, a SDI-1, órgão uniformizador da jurisprudência interna corporis desta Corte Superior Trabalhista, em sua composição completa, no dia 4/6/2020, decisão publicada no DEJT de 7/8/2020, ao julgar o processo n° TST-E-RR-992-25.2014.5.04.0101, da Relatoria do Ministro Augusto César Leite de Carvalho, decidiu, por maioria, que, havendo alusão na decisão recorrida a que a fiscalização realizada pelo tomador dos serviços não se mostra suficiente para garantir o cumprimento das obrigações contratuais, tem-se pela prevalência da culpa in vigilando e, por conseguinte, pela responsabilização subsidiária do ente público.
+Em ato contínuo, apesar das decisões proferidas pela Suprema Corte na ADC nº 16 e no RE n° 760.931, a SDI-1, em composição completa, alicerçada na lacuna do STF acerca do ônus da prova e diante da natureza eminentemente infraconstitucional da questão, concluiu que o ônus da prova alusivo a eventual conduta culposa na fiscalização dos contratos, nas terceirizações promovidas por entes da Administração Pública, era do ente público, ou seja, que cabia ao mencionado ente público o ônus de provar que se desincumbiu de seu dever fiscalizatório (TST-E-RR-925-07.2016.5.05.0281, Rel. Min. Cláudio Mascarenhas Brandão, de 12/12/2019).
+[...] Assim, a Corte Regional reconheceu a responsabilidade subsidiária do ente público com base na configuração da sua conduta culposa, haja vista sua inércia no tocante aos repasses de recursos para a reclamada principal. Dessa forma, como parte das verbas devidas à parte reclamante não foi quitada em razão da ausência desses repasses, não há como afastar a responsabilidade subsidiária do ente público.
+[...] Por essa razão, tem-se que a decisão regional se mostra em sintonia com as teses de repercussão geral firmadas pelo STF no julgamento do RE nº 760.931 (Tema 246) e do RE nº 1.298.647 (Tema 1.118).
+Pelo exposto, nego provimento ao agravo (doc. 9, pp. 2-7).
+
+Por sua vez, o Tribunal Regional do Trabalho da 4ª Região – TRT4, ao analisar o recurso ordinário, consignou:
+
+[...] A sentença expõe entendimento segundo o qual, embora a contratação do réu GRUPO DE APOIO À MEDICINA PREVENTIVA E À SAÚDE PÚBLICA - GAMP tenha se dado não nos termos da Lei 8.666 /93, mas sim da Lei 13.019/2014, não há razão para tratamento diverso, cabendo a interpretação do seu art. 42, XX, de forma análoga ao artigo 71 da Lei 8.666/93. Menciona que, consoante o princípio da aptidão para a prova, cabia ao Município demonstrar a correta fiscalização quanto ao cumprimento das obrigações trabalhistas pelo primeiro réu, o que não ocorreu. Assim o ente público incorreu em culpa in vigilando ao não fiscalizar suficientemente a empresa prestadora de serviços, em violação ao dever que lhe é imposto pela Lei de Licitações, devendo, por isso, responder, em caráter subsidiário, pela satisfação dos créditos não adimplidos à autora.
+É fato incontroverso que a prestação de serviços pela autora esteve diretamente relacionada aos convênios /contratos firmados por essas entidades com o Município de Canoas para gestão de unidades municipais de saúde.
+Embora não se trate de contrato de prestação de serviços, mas de termo de fomento mantido nos termos da Lei nº 13.019/2014, o fato é que o ente municipal, constitucionalmente incumbido de promover os serviços de saúde (art. 196 da Constituição Federal), ao contratar terceiros para executá-los, não deixa de figurar, naturalmente, como tomador dos serviços.
+[...] Afastar a possibilidade de transferência automática da responsabilidade ao Poder Público não significa, no entanto, imunizá-lo contra quaisquer fatos e condutas decorrentes do contrato pactuado.
+[...] No caso concreto, o ente público agiu com culpa em seus deveres de fiscalização do contrato, e, portanto, impositivo que responda por eventuais lesões decorrentes.
+A conduta culposa inviabiliza a isenção da responsabilidade estabelecida no art. 42 da Lei nº 13.019/2014 e enseja a responsabilidade do ente público com fundamento nos arts. 186, 187 e 927 do Código Civil, na interpretação dada pelo Supremo Tribunal Federal ao art. 71 da Lei nº 8.666/93 (ADC 16 e RE 760.931) e na aplicação analógica do entendimento inscrito na Súmula 331, V, do TST.
+No caso vertente, é flagrante não só a negligência do Município na fiscalização do contrato, evidenciada pelos descumprimentos de direitos trabalhistas básicos da autora, mas também sua conduta culposa na administração do contrato, porquanto as irregularidades trabalhistas verificadas decorrem, em grande medida, do atraso no repasse dos valores devidos ao prestador de serviços contratado.
+[...] Correto portanto, o reconhecimento da sua responsabilidade subsidiária pelos créditos trabalhistas deferidos à autora.
+Deve ser mantida a responsabilização subsidiária do Município de Canoas, nos termos da sentença.
+Nego provimento (doc. 6, pp. 17-19).
+
+Depreende-se, pelas transcrições das decisões acima, que o Tribunal reclamado entendeu que, ante o conjunto fático-probatório constante dos autos, o ora reclamante não adotou as medidas necessárias para a devida fiscalização da execução do contrato, configurando a culpa in vigilando conforme os paradigmas indicados.
+
+Ressalto que, de acordo com a posição majoritária da Primeira Turma, para firmar entendimento diverso e aferir a ausência de culpa do reclamante, seria necessário o revolvimento fático e probatório dos autos de origem, finalidade a que não se destina a estreita via da reclamação constitucional.
+
+Seguindo essa mesma orientação, cito os seguintes julgados:
+
+AGRAVO REGIMENTAL NA RECLAMAÇÃO CONSTITUCIONAL. ALEGAÇÃO DE VIOLAÇÃO À SÚMULA VINCULANTE N. 10. INOCORRÊNCIA. ALEGADA OFENSA AO DECIDIDO PELO SUPREMO TRIBUNAL FEDERAL NA ADC N. 16, NO TEMA N. 246 - RG E NO TEMA N. 1.118 - RG. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA. CONDUTA CULPOSA E VERIFICAÇÃO DE FRAUDE COMPROVADA PELAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE REVOLVIMENTO DO ACERVO PROBATÓRIO NA EXCEPCIONAL VIA DA RECLAMAÇÃO CONSTITUCIONAL, QUE NÃO É SUCEDÂNEO RECURSAL. AGRAVO DESPROVIDO (Rcl 90.452 AgR/RS, Rel. Min. Flávio Dino, Primeira Turma, DJe 2/9/2026).
+
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONSTITUCIONAL. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO. ALEGADO DESCUMPRIMENTO DAS DECISÕES PROFERIDAS NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE N. 16 E NOS RECURSOS EXTRAORDINÁRIOS NS. 760.931 E 1.298.647, TEMAS 246 E 1.118. COMPROVAÇÃO DE CULPA DA ENTIDADE ADMINISTRATIVA. AGRAVO REGIMENTAL DESPROVIDO (Rcl 90.742 AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 14/5/2026).
+
+Ante o exposto, julgo improcedente esta reclamação (art. 161, parágrafo único, do RISTF). Em consequência, fica prejudicado o exame do pedido de liminar.
+
+Sem condenação em honorários, pois não houve angularização processual.
+
+Publique-se.
+
+Brasília, 10 de novembro de 2026.
+
+Ministro Cristiano Zanin
+Relator
