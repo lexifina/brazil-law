@@ -1,0 +1,48 @@
+DECISÃO
+
+Recurso extraordinário com agravo. Direito penal e processual penal. Crime contra o meio ambiente  (lei nº 9.605/98).  Responsabilidade penal objetiva. Matérias de índole infraconstitucional. Ofensa constitucional reflexa. Ausência de prequestionamento. Súmulas 282 e 356/STF. Revolvimento fático-probatório. Impossibilidade. Súmula 279/STF. Negativa de seguimento.
+
+1. Trata-se de recurso extraordinário com agravo interposto pela Companhia de Saneamento Básico do Estado de São Paulo - Sabesp  contra acórdão do Tribunal de Justiça do Estado de São Paulo, o qual restou assim ementado:
+
+“EMENTA: DIREITO PENAL AMBIENTAL. APELAÇÃO. POLUIÇÃO POR VAZAMENTO DE ESGOTO. RECURSO DESPROVIDO. Manutenção da condenação por poluição ambiental. A denúncia é válida e fundamentada, atendendo aos requisitos legais. A responsabilidade da empresa pela poluição está comprovada, sendo irrelevante a alegação de fato de terceiro. A pena aplicada é proporcional e adequada à gravidade do crime e à capacidade econômica da ré.” (e-doc. 13)
+
+2. Embargos de declaração opostos pela defesa foram parcialmente acolhidos, sem efeitos modificativos, apenas para esclarecimento e complementação da fundamentação (e-doc. 19).
+
+3. Nas razões do recurso extraordinário, a defesa sustenta que o acórdão teria violado diretamente diversos dispositivos constitucionais, notadamente os arts. 5º, incs. LIV, LV, e LVII. Argumenta que houve nulidade processual decorrente da ausência de demonstração concreta de conduta comissiva ou omissiva dos representantes legais da Sabesp para a ocorrência do dano. Aduz que o acórdão recorrido, ao concluir pela idoneidade da denúncia, “acabou por admitir verdadeira hipótese de responsabilização penal, objetiva, em total violação aos princípios constitucionais da culpabilidade e da presunção de inocência, uma vez que manteve a condenação sem a efetiva comprovação do elemento subjetivo e do nexo causal, indispensáveis à persecução penal”(e-doc. 17).
+
+4. O Tribunal a quo inadmitiu o recurso extraordinário sob o fundamento de que as alegações formuladas pela defesa demandariam interpretação prévia de normas infraconstitucionais. Assentou, ainda, o óbice revelado pelas Súmulas 279 e 280 do STF (e-doc. 21).
+
+5. No agravo em recurso extraordinário, a recorrente impugna a decisão de inadmissibilidade afirmando que as controvérsias são de natureza constitucional em sua essência e prescindem de revolvimento probatório. Busca o processamento do apelo extremo, com o consequente provimento.
+
+6. Em contraminuta, o Ministério do Estado de São Paulo manifesta-se pelo não provimento do agravo (e-doc. 25).
+É o relatório.
+
+Decido.
+
+7. Observa-se, a partir de detida análise dos acórdãos objeto do recurso extraordinário que (e-docs. 13 e 19), com exceção do inciso LV do art. 5º da CF, que as questões trazidas neste apelo não foram debatidas pelo TJSP sob a ótica constitucional, restando evidenciada a ausência de prequestionamento. Os dispositivos constitucionais alegadamente violados — arts. 5º, incs. LIV e LVII — sequer constaram como fundamento de decidir no acórdão impugnado, tampouco por ocasião dos embargos de declaração.  Incidem, nesse ponto, os enunciados nº 282 e nº 356 da Súmula do STF:
+
+E. 282: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.”
+E. 356: “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.”
+
+8. Ainda que superado o óbice acima, verifica-se que a recorrente sustenta, essencialmente, a inépcia da denúncia diante da suposta ausência de demonstração concreta da conduta omissiva ou omissiva qualificada atribuível a seu representante legal, a insuficiência de prova técnica para comprovar a materialidade delitiva e a inexistência de nexo causal para a ocorrência do dano ambiental. Tais questões, porém, dependem diretamente da análise dos arts. 3º e 54 da Lei nº 9.605/98, não se configurando violação constitucional direta. Trata-se, pois, de matérias cuja resolução pressupõe, antes de tudo, interpretação e aplicação de legislação infraconstitucional, o que caracteriza eventual afronta à Constituição apenas de forma reflexa, hipótese que inviabiliza o processamento do apelo extremo.
+
+9. Por fim, o acolhimento das teses recursais exigiria reavaliar a moldura fática delineada pelo Tribunal de origem — em especial quanto à materialidade e à validade dos elementos probatórios colhidos na ação penal. A tese de que se manteve a condenação da recorrente sem a efetiva comprovação do elemento subjetivo e do nexo causal somente poderia ser acolhida mediante nova apreciação das circunstâncias fáticas e das provas valoradas pelo TJSP.
+
+10. A revisão desse conjunto de elementos, portanto, implicaria revolvimento de fatos e provas, providência vedada no âmbito do recurso extraordinário, à luz da Súmula 279/STF, segundo a qual, “para simples reexame de prova não cabe recurso extraordinário”.
+
+11. Colaciono, exemplificativamente, os seguintes precedentes representativos da jurisprudência consolidada do Supremo Tribunal Federal quanto aos entendimentos veiculados nesta decisão:
+
+Agravo regimental no recurso extraordinário. Matéria criminal. Crime ambiental. Construção em solo não edificável (art. 64, da Lei nº 9.605/98). Negativa de prestação jurisdicional (CF, art. 93, IX). Não ocorrência. Alegação de violação do art. 5º, incisos LIV e LV/CF. Ofensa reflexa ao texto constitucional. Indeferimento de provas no processo judicial. Repercussão geral. Reapreciação de fatos e provas. Inadmissibilidade. Incidência da Súmula nº 279/STF. Precedentes. Agravo regimental não provido. 1. Ausência de violação do art. 93, inciso IX, pois a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão dos ora agravantes. 2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 3. O Plenário da Corte, no exame do ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, Tema 424, concluiu pela ausência de repercussão geral do tema relativo à suposta violação dos princípios do contraditório e da ampla defesa nos casos de indeferimento de produção de provas no âmbito de processo judicial, dado o caráter infraconstitucional da matéria. 4. Conclusão em sentido diverso daquele do acórdão recorrido demandaria, na espécie, o reexame aprofundado do conjunto fático-probatório dos autos, o que é inviável na via eleita, segundo o enunciado da Súmula nº 279/STF. 5. Agravo regimental a que se nega provimento” (RE n. 1.145.331-AgR, Rel. Ministro Dias Toffoli, Segunda Turma, DJe 22.10.2018) (Grifos acrescidos).
+
+Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CRIME AMBIENTAL. PENAL. PROCESSUAL PENAL. ART. 48 DA LEI 9.605/1998. PRESCRIÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos. II - É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do recurso extraordinário. III - Agravo regimental a que se nega provimento.
+(RE 1520573 AgR, Rel. Min. Cristiano Zanin, Primeira Turma, j. 27/11/2024, p. 29/11/2024) (Grifei)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. ART. 21, §1°, RISTF. VIOLAÇÃO DO ART. 5°, XLVI E LVII, DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4°, DA LEI 11.343/2006. NECESSIDADE DE REAPRECIAÇÃO DE NORMAS INFRACONSTITUCIONAIS E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. OFENSA INDIRETA À CONSTITUIÇÃO. REGIME DE CUMPRIMENTO DE PENA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. AGRAVO A QUE SE NEGA PROVIMENTO. I - A atuação monocrática, com observância das balizas estabelecidas no art. 21, §1°, RISTF, não traduz violação ao princípio da colegialidade, especialmente na hipótese em que a decisão reproduz compreensão consolidada da Corte (RE 974.923-AgR/SC, de relatoria do Ministro Edson Fachin). II – Ausência de prequestionamento do art. 5°, XLVI e LVII, da Constituição Federal. Os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão. Incidência das Súmulas 282 e 356/STF. III - Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279/STF, e das normas infraconstitucionais pertinentes ao caso (Lei 11.343/2006), sendo certo que eventual ofensa à Constituição seria apenas indireta. IV – No caso, como a recorrente foi condenada a 9 anos e 6 meses de reclusão, noto encontrar-se devidamente fundamentada no acórdão recorrido a fixação do regime inicial de cumprimento da pena. V - Agravo regimental a que se nega provimento.
+(ARE nº 1.200.519-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 23/08/2019, p. 03/09/2019; grifos nossos)
+12. Ante o exposto, nego seguimento ao agravo em recurso extraordinário, com fundamento no art. 21, § 1º, do RISTF.
+
+Publique-se.
+
+Brasília, 10 de novembro de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
