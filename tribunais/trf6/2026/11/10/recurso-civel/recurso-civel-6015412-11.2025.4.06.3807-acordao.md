@@ -1,0 +1,103 @@
+Poder Judiciário
+
+JUSTIÇA FEDERAL
+
+Seção Judiciária de Minas Gerais
+
+Gab. Juiz Federal RONALDO SANTOS DE OLIVEIRA (MGBH-2B)
+
+RECURSO CÍVEL Nº 6015412-11.2025.4.06.3807/MG
+
+RELATOR: Juiz Federal RONALDO SANTOS DE OLIVEIRA
+
+VOTO
+
+PREVIDENCIÁRIO E ASSISTENCIAL. RECURSO INOMINADO. BENEFÍCIO ASSISTENCIAL DE PRESTAÇÃO CONTINUADA. PESSOA COM DEFICIÊNCIA. VISÃO MONOCULAR. LAUDO PERICIAL MÉDICO. CAPACIDADE PARA ATIVIDADES HABITUAIS PRESERVADA. REQUISITO LEGAL NÃO PREENCHIDO. RECURSO PROVIDO.
+
+Trata-se de recurso inominado interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS) em face da sentença que julgou procedente o pedido de concessão do Benefício de Prestação Continuada à pessoa com deficiência (BPC/LOAS) formulado pela PARTE AUTORA.
+
+A concessão do benefício assistencial previsto no art. 20 da Lei nº 8.742/1993 pressupõe a existência de impedimento de longo prazo de natureza física, mental, intelectual ou sensorial que, em interação com barreiras, obstrua a participação plena e efetiva do indivíduo na sociedade em igualdade de condições.
+
+No caso dos autos, a avaliação pericial médica (Evento 19) diagnosticou a parte autora com cegueira legal irreversível em olho esquerdo (visão monocular - CID H54.4). Todavia, o perito judicial foi categórico ao concluir que a patologia não gera incapacidade laborativa, mantendo a parte recorrida apta para o desempenho de suas atividades habituais (auxiliar de serviços gerais/servente de pedreiro).
+
+Embora a Lei nº 14.126/2021 classifique a visão monocular como deficiência visual, o laudo técnico do juízo evidenciou que o quadro não restringe a capacidade de provimento do próprio sustento, afastando o enquadramento no conceito legal de impedimento de longo prazo garantidor do amparo assistencial.
+
+Ante o exposto, voto por dar provimento ao recurso do INSS para reformar a sentença e julgar improcedente o pedido inicial. Sem condenação em honorários advocatícios, nos termos do art. 55 da Lei nº 9.099/1995. Custas na forma da lei.
+
+Documento eletrônico assinado por RONALDO SANTOS DE OLIVEIRA, Juiz Federal, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc1g.trf6.jus.br/eproc/externo_controlador.php?acao=consulta_autenticidade_documentos, mediante o preenchimento do código verificador 380007274954v2 e do código CRC 1a40a8de.
+
+Informações adicionais da assinatura:
+Signatário (a): RONALDO SANTOS DE OLIVEIRA
+Data e Hora: 11/11/2026, às 18:28:07
+
+6015412-11.2025.4.06.3807
+
+380007274954
+.V2
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+JUSTIÇA FEDERAL
+
+Seção Judiciária de Minas Gerais
+
+Gab. Juiz Federal RONALDO SANTOS DE OLIVEIRA (MGBH-2B)
+
+RECURSO CÍVEL Nº 6015412-11.2025.4.06.3807/MG
+
+RELATOR: Juiz Federal RONALDO SANTOS DE OLIVEIRA
+
+ACÓRDÃO
+
+A 2ª Turma Recursal dos Juizados Especiais Federais de Minas Gerais decidiu, por unanimidade, dar provimento ao recurso do INSS, nos termos do voto do(a) Relator(a).
+
+Belo Horizonte, 10 de novembro de 2026.
+
+Documento eletrônico assinado por RONALDO SANTOS DE OLIVEIRA, Juiz Federal, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc1g.trf6.jus.br/eproc/externo_controlador.php?acao=consulta_autenticidade_documentos, mediante o preenchimento do código verificador 380007274955v2 e do código CRC 967af07d.
+
+Informações adicionais da assinatura:
+Signatário (a): RONALDO SANTOS DE OLIVEIRA
+Data e Hora: 11/11/2026, às 18:28:07
+
+6015412-11.2025.4.06.3807
+
+380007274955
+.V2
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Justiça Federal da 6ª Região
+
+Seção Judiciária de Minas Gerais
+
+EXTRATO DE ATA DA SESSÃO VIRTUAL DE 04/11/2026 A 10/11/2026
+
+RECURSO CÍVEL Nº 6015412-11.2025.4.06.3807/MG
+
+RELATOR: Juiz Federal RONALDO SANTOS DE OLIVEIRA
+
+PRESIDENTE: Juiz Federal SERGIO SANTOS MELO
+
+Certifico que este processo foi incluído na Pauta da Sessão Virtual, realizada no período de 04/11/2026, às 00:00, a 10/11/2026, às 23:59, na sequência 148, disponibilizada no DE de 21/10/2026.
+
+Certifico que a 2ª Turma Recursal dos Juizados Especiais Federais de Minas Gerais, ao apreciar os autos do processo em epígrafe, proferiu a seguinte decisão:
+
+A 2ª TURMA RECURSAL DOS JUIZADOS ESPECIAIS FEDERAIS DE MINAS GERAIS DECIDIU, POR UNANIMIDADE, DAR PROVIMENTO AO RECURSO DO INSS.
+
+RELATOR DO ACÓRDÃO: Juiz Federal RONALDO SANTOS DE OLIVEIRA
+
+Votante: Juiz Federal RONALDO SANTOS DE OLIVEIRA
+
+Votante: Juiz Federal SERGIO SANTOS MELO
+
+Votante: Juiz Federal ANTONIO FRANCISCO DO NASCIMENTO
+
+DIOGO LUIZ PIRES DA SILVA
+
+Secretário
+
+Identificações de pessoas físicas foram ocultadas
