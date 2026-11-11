@@ -1,0 +1,76 @@
+DECISÃO: Trata-se de habeas corpus impetrado por Maxwell Fernandes Galeano e outro, em favor de Rafael Pinho Antonio, contra acórdão do Superior Tribunal de Justiça, proferido nos autos do AgRg no Aresp 3.283.500/SC, assim ementado (eDOC 1, p. 3-4):
+
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO PRIVILEGIADO. ÓBICE DA SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do recurso especial, em razão do óbice da Súmula 7/STJ, em ação penal por tráfico de drogas na qual se pleiteia o reconhecimento da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006.
+2. O Tribunal de origem afastou o redutor com fundamento em elementos concretos indicativos de dedicação à atividade criminosa, tais como denúncias pretéritas, apreensão de elevada quantidade de droga e materiais típicos da narcotraficância.
+3. A defesa sustenta que a controvérsia seria eminentemente jurídica, sem demandar revolvimento fático-probatório, e que os elementos considerados não seriam idôneos, por si sós, para afastar o tráfico privilegiado.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o reexame da conclusão das instâncias ordinárias sobre a dedicação do Recorrente à atividade criminosa, para fins de incidência do art. 33, § 4º, da Lei n. 11.343/2006, demanda revolvimento do conjunto fático-probatório, vedado pela Súmula 7/STJ.
+III. Razões de decidir
+5. A revisão da conclusão do Tribunal de origem quanto à presença de elementos fáticos indicativos de dedicação ao tráfico de drogas implica reexame de provas, providência vedada em recurso especial, à luz da Súmula 7/STJ.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. É inviável, em recurso especial, reexaminar a conclusão das instâncias ordinárias sobre a dedicação do agente à atividade criminosa para fins de aplicação do art. 33, § 4º, da Lei n. 11.343/2006, em razão do óbice da Súmula 7/STJ.
+
+Os impetrantes informam que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, e pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei nº 11.343/2006, após ter sido preso em flagrante na posse de 121,9g de maconha, 157 comprimidos de ecstasy, 37g de cocaína, 1 litro de “loló” e 50g de MD (eDOC 2).
+Alegam que outros 150kg de maconha foram encontrados na casa do corréu, não tendo o paciente qualquer relação com o fato.
+Entendem que a decisão do Juízo de origem que afastou o redutor do art. 33, § 4º, da Lei 11.343/2006, por considerar que o paciente dedica-se a atividades criminosas, é manifestamente ilegal, por se tratar de réu primário, ostentando bons antecedentes.
+Ressaltam que o paciente cumpre pena, em regime aberto, por outra condenação, “referente a fato posterior (15/02/2019 — Ação Penal n. 0000368-12.2019.8.24.0030)” e que “esse fato não foi invocado pela sentença nem pelo acórdão para negar o privilégio” (eDOC 2. p. 3).
+Aduzem, ainda, que “a natureza das drogas foi usada duas vezes contra o Paciente: Na primeira fase: a pena-base foi elevada em 1/6 porque ‘os efeitos da cocaína são extremamente gravosos e a droga conta com elevadíssimo poder de adicção’. Na terceira fase: a dedicação foi inferida da ‘grande diversidade de drogas — maconha, cocaína, ecstasy, loló e MD, circunstância que lhe permitia maior atuação na atividade criminosa”. ‘Diversidade de drogas’ é apenas outro nome para a natureza das substâncias. A cocaína que agravou a pena-base é a mesma cocaína listada entre as drogas ‘diversas’ que afastaram o redutor” (eDOC 2, p. 7).
+Pleiteiam, assim, a concessão da ordem de habeas corpus para que seja aplicada a minorante do art. 33, § 4º, da Lei 11.343/2006, “na fração máxima de 2/3, fixando a pena definitiva em 1 ano e 8 meses de reclusão e 166 dias-multa, em regime aberto, com substituição da pena privativa de liberdade por restritivas de direitos (Súmula Vinculante 59; art. 44 do CP)” (eDOC 2, p. 13).
+É o relatório.
+Decido.
+Consta dos autos que o paciente e outro corréu foram presos em flagrante pela prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/2006). Na ocasião, a polícia apreendeu, na casa do paciente, 121,9g de maconha, 157 comprimidos de ecstasy, 37g de cocaína, 1 litro de loló e 50 g de MD. Com o corréu Tiago Martins da Silva foram apreendidos 150 kg de maconha, 1 litro de loló, uma balança de precisão e um caderno de anotações.
+Sobreveio, então, a condenação do paciente à pena de 5 anos de reclusão, em regime inicial fechado, e pagamento de 500 dias-multa.
+Verifica-se que o Juízo da Vara Criminal da Comarca de Imbituba/SC exasperou a pena-base e afastou o redutor do art. 33, § 4º, da Lei de Drogas, amparado nos seguintes argumentos (eDOC 1, p. 13-14):
+
+Réu RAFAEL PINHO ANTONIO.
+Com fundamento nas circunstâncias judiciais elencadas no artigo 59 do Código Penal, conjugadas com aquelas previstas no artigo 42 da Lei n. 11.343/2006, verifica-se, em relação à culpabilidade, que a reprovabilidade da conduta do agente não sobrepuja o ordinariamente evidenciado nessa espécie de delito. O acusado não possui antecedentes (evento n. 11, CERTANTCRIM28 e CERTANTCRIM29). A respeito da sua conduta social e personalidade, não foram colhidos elementos suficientes nos autos. Os motivos do crime são típicos da narcotraficância, ou seja, obtenção de lucro fácil. As circunstâncias e consequências do delito são também aquelas ordinariamente verificadas em crimes dessa natureza. O tipo infringido não comporta análise do comportamento da vítima na prática delitiva. A natureza da droga e a quantidade de entorpecente apreendida "devem ser analisadas em conjunto, como uma circunstância judicial indivisível; por isso o incremento da pena-base deve ser feito de uma só vez quanto a esse vetor" (TJSC, Apelação Criminal n. 5002561-76.2023.8.24.0125, do Tribunal de Justiça de Santa Catarina, rel. Sérgio Rizelo, Segunda Câmara Criminal, j. 04-06-2024). A propósito, sabe-se que os efeitos da cocaína são extremamente gravosos e a droga conta com elevadíssimo poder de adicção, o que justifica maior rigor na pena. Assim, "na hipótese, possível a elevação da pena-base em 1/6 (um sexto) com fundamento na natureza e nocividade da droga apreendida, procedimento autorizado pelo art. 42 da Lei n.º 11.343/2006, o qual inclusive prevê a preponderância de tal circunstância sobre o previsto no art. 59 do Código Penal" (TJSC, Apelação Criminal n. 0003996-98.2017.8.24.0023, da Capital, rel. Des. Júlio César M. Ferreira de Melo, Terceira Câmara Criminal, j. 30-04-2019).
+Diante disso, aumento a pena-base em 1/6 e a fixo em em 05 (cinco) anos e 10 (dez) meses de reclusão, além do pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+Na segunda fase da dosimetria, em observância à Súmula 545 do Superior Tribunal de Justiça, registra-se que "a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha dela se retratar" (HC 478.741/SP, Rela. Ministra Laurita Vaz, Sexta Turma, j. 05-2- 2019). Por isso, reduzo a pena em 1/6 (um sexto) e fixo em 05 (cinco) anos de reclusão, além do pagamento de 500 (quinhentos) dias-multa.
+Na fase derradeira, inexistem causas de aumento e diminuição da pena.
+Aliás, em relação ao tráfico na modalidade privilegiada, o artigo 33, § 4º, da Lei 11.343/2006, estabelece que: "nos delitos definidos no caput e no § 1o deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+[...]
+No caso, embora o acusado não seja reincidente, tampouco tenha registros criminais que possam ser utilizados como antecedentes, há elementos concretos nos autos que permitem concluir que ele se dedicava à atividade criminosa.
+A propósito, os dois policiais militares, em fase judicial, afirmaram que tinham informações e vinham recebendo denúncias de que Rafael praticava a narcotraficância (evento n. 100, VÍDEO200 e VÍDEO201). Aliás, feita a campana em sua residência, não tardou mais de trinta minutos para os atos de mercancia da substância ilícita acontecerem, corroborando as denúncias pretéritas.
+Além disso, o próprio acusado, em interrogatório na fase judicial, confessou que vendia as drogas em festas, mostrando, assim, que se tratava de uma prática reiterada e não de um ato isolado (evento n. 100, VÍDEO 196).
+Ou seja, a corroboração da denúncia foi específica. O policial Bruno, ao ser ouvido em juízo, disse que recordava de informações de pelo menos uns 6 meses antes da prisão de Rafael, mais precisamente de que ele efetuava comércio de entorpecentes em algumas baladas - local das transações confirmada pelo réu.
+Aliado a isso, observa-se a grande diversidade de drogas - maconha, cocaína, ecstasy, loló e MD, circunstância que lhe permitia maior atuação na atividade criminosa, também indicando sua dedicação à traficância.
+[...]
+Desse modo, considerando a inclinação do acusado à atividade criminosa, não é o caso de se proceder ao reconhecimento do crime de tráfico de drogas na modalidade privilegiado e, por consequência, à aplicação da diminuição da pena nele prevista. Assim, a pena permanece no patamar fixado anteriormente, 05 (cinco) anos de reclusão, além do pagamento de 500 (quinhentos) dias-multa.
+A pena privativa de liberdade de reclusão deverá ser cumprida em regime inicial fechado, pois, apesar do quantum de pena aplicado permitir o regime semiaberto, nos termos do artigo 33, §3º, do Código Penal, "é possível a fixação de regime mais gravoso, visto que nem todas as circunstâncias judiciais lhe são favoráveis" (STJ, Min. Gurgel de Faria).
+
+A sentença foi mantida pelo TJSC (eDOC 1, p. 16-24).
+O Superior Tribunal de Justiça negou provimento ao agravo em recurso especial, mantendo o afastamento da minorante do tráfico privilegiado, ao fundamento de que (eDOC 1, p. 6):
+
+No acórdão recorrido, foram apontados elementos concretos — denúncias pretéritas, apreensão de elevada quantidade de droga, materiais típicos da narcotraficância — para afastar a incidência do art. 33, § 4º, da Lei n. 11.343/2006. A inversão dessa conclusão demanda reexame do conjunto fático-probatório, providência vedada em recurso especial, à luz da Súmula n. 7 do Superior Tribunal de Justiça – STJ.
+
+Sobre a matéria, observo que são quatro os requisitos para concessão do redutor do art. 33, § 4º, da Lei 11.343/2006: (i) ser o agente primário; (ii) possuidor de bons antecedentes; (iii) não se dedicar a atividades criminosas; e (iv) não integrar organização criminosa.
+No caso sob análise, o Juízo de origem afastou a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, em razão da dedicação do paciente a atividades criminosas. Essa decisão foi adequadamente fundamentada no depoimento de policiais, que relataram receber informações há, no mínimo, seis meses sobre o tráfico de drogas pelo paciente, bem como no seu próprio interrogatório, no qual afirmou vender drogas em festas.
+Desse modo, não havendo o preenchimento de todos os requisitos legais, inaplicável o tráfico privilegiado.
+Nesse sentido:
+
+Ementa: AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. AFASTAMENTO DA REDUTORA DO ART. 33, §4º, DA LEI DE DROGAS. AUSÊNCIA DE ILEGALIDADE. 1. A incidência da causa especial de redução de pena prevista no § 4º do art. 33 da Lei 11.343/2006 é condicionada ao preenchimento cumulativo dos seguintes requisitos: (a) primariedade do agente; (b) bons antecedentes; (c) não se dedicar a atividades criminosas; e (d) não integrar organização criminosa. Precedentes. 2. Os elementos colhidos pelas instâncias antecedentes, sob o crivo do contraditório e da ampla defesa, indicaram a propensão do agente a práticas criminosas. 3. Para afastar a conclusão implementada pelas instâncias antecedentes seria necessário proceder à análise de fatos e provas, providência incompatível com a via do Habeas Corpus. Precedentes. 4. Agravo Regimental a que se nega provimento (HC 201267 AgR, rel. Min. Alexandre de Moraes, Primeira Turma, Dje. 14.6.2021).
+
+Assim, por não se tratar de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, é incabível a supressão de  instância ou a concessão da ordem de ofício.
+Em relação ao regime prisional, o art. 33, § 2º, alínea “b”, do Código Penal, estabelece que o condenado não reincidente, nos casos em que a pena fixada seja superior a 4 anos e não exceda a 8, poderá, desde o início, cumpri-la em regime semiaberto. Nessas hipóteses, entretanto, nada impede que o juízo de origem fixe regime mais gravoso, desde que haja motivação idônea para tanto.
+Na espécie, o ato impugnado assentou a fixação do regime semiaberto em razão da valoração negativa de circunstâncias judiciais.
+Desse modo, em que pese as razões da defesa, verifico que o julgado encontra-se em consonância com a jurisprudência desta Corte, firme no sentido de que a presença de uma única circunstância judicial desfavorável é motivo apto a autorizar a adoção de regime mais gravoso que o previsto a partir da quantidade de pena fixada. Confiram-se, a propósito, os seguintes precedentes:
+
+Agravo regimental no habeas corpus. 2. Supressão de instância. Ausente ilegalidade. 3. Presente circunstância judicial desfavorável, é possível a fixação de regime mais gravoso. 4. Substituição da pena privativa de liberdade indeferida fundamentadamente. 5. Agravo improvido (AgR no HC 222.857, de minha relatoria, Segunda Turma, DJe 22.2.2023).
+
+HABEAS CORPUS (...) PACIENTE CONDENADO A PENA RECLUSIVA INFERIOR A 08 (OITO) ANOS – ESTIPULAÇÃO DE CUMPRIMENTO DE PENA EM REGIME INICIAL FECHADO – POSSIBILIDADE – NECESSIDADE, CONTUDO, DE TAL FIXAÇÃO INICIAL RESULTAR DE DECISÃO ADEQUADAMENTE FUNDAMENTADA (SÚMULA 719/STF) – RECONHECIMENTO, PELO ÓRGÃO APONTADO COMO COATOR, DA EXISTÊNCIA DE CIRCUNSTÂNCIA DESFAVORÁVEL AO CONDENADO – MOTIVAÇÃO IDÔNEA E SUFICIENTE PARA A DETERMINAÇÃO DO REGIME MAIS SEVERO – RECURSO DE AGRAVO IMPROVIDO (HC 164.483 AgR, rel. Min. Celso de Mello, Segunda Turma, DJe 3.2.2020).
+
+Agravo regimental nos embargos de declaração no habeas corpus. 2. Abrandamento de regime e substituição da pena privativa de liberdade por restritiva de direitos. Impossibilidade. Presença de circunstâncias judiciais desfavoráveis. 3. Reincidência inespecífica. Irrelevância ao caso concreto. 4. Fixação de regime mais gravoso e negativa de substituição da pena corporal devidamente fundamentadas. 5. Agravo improvido (AgR no HC 169.956, de minha relatoria, Segunda Turma, DJe 3.9.2019).
+
+Em outras palavras, a presença de circunstâncias judiciais negativas ou a reincidência, com efeito, justificam o recrudescimento do regime e a negativa da substituição da pena corporal.
+Logo, reputo inexistente ilegalidade manifesta ou constrangimento ilegal passível de correção pela via estreita do mandamus.
+Ante o exposto, denego a ordem de habeas corpus (RISTF, art. 192).
+Publique-se.
+Brasília, 11 de novembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
