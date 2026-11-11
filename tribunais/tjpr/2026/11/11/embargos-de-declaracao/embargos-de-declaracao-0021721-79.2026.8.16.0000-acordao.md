@@ -1,0 +1,53 @@
+DIREITO PROCESSUAL CIVIL E DIREITO CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. CLÁUSULA PENAL CONTRATUAL E REDUÇÃO JUDICIAL DA MULTA COMPENSATÓRIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES, PARA SANAR OMISSÃO, MANTENDO-SE O RESULTADO DO JULGAMENTO ANTERIOR.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que negou provimento a agravo de instrumento interposto por empresa, o qual manteve a multa compensatória prevista em contrato de fornecimento de combustíveis, discutindo-se a possibilidade de redução da cláusula penal com base no artigo 413 do Código Civil, bem como a limitação do valor da reconvenção ao montante de R$ 100.000,00 alegadamente indicado pela parte credora.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se há omissão no acórdão quanto à análise do valor atribuído à reconvenção e à limitação da pretensão da parte credora ao montante de R$ 100.000,00, bem como se a multa compensatória contratual aplicada é manifestamente excessiva, justificando sua redução.
+III. Razões de decidir
+3. Os embargos de declaração foram acolhidos apenas para sanar omissão, sem alterar o resultado do julgamento.
+4. A multa compensatória contratual não foi considerada manifestamente excessiva, considerando a natureza do contrato, a capacidade econômica das partes e o percentual de 10% usual em contratos semelhantes.5. O valor atribuído à reconvenção (R$ 100.000,00) não limita a condenação, pois o título executivo judicial determinou a apuração do valor na fase de liquidação, não havendo teto indenizatório fixado.6. Não houve julgamento ultra petita, pois a condenação respeita os parâmetros do título judicial e os limites da lide.
+IV. Dispositivo e tese
+7. Embargos de declaração acolhidos, sem efeitos infringentes, para sanar omissão, integrando o acórdão, sem alteração do resultado do julgamento.
+Tese de julgamento: A cláusula penal contratual não se considera manifestamente excessiva quando pactuada entre empresas de grande porte, devendo ser mantida conforme o título executivo judicial, ainda que o valor exato da multa seja apurado em fase de liquidação, não havendo limitação automática ao montante inicialmente atribuído à reconvenção.
+_________
+Dispositivos relevantes citados:
+ CPC, arts. 1.023, 292 e 492; CC/2002, art. 413.
+Jurisprudência relevante citada:
+ N/A.
+Resumo em linguagem acessível: O tribunal recebeu os embargos de declaração apresentados pela Potencial Petróleo Ltda. para esclarecer pontos que não tinham sido explicados na decisão anterior, mas manteve o resultado do julgamento. A decisão confirmou que a multa contratual de 10% aplicada à empresa não é exagerada, pois foi combinada entre as partes e é comum em contratos desse tipo. Também explicou que o valor de R$ 100.000,00 mencionado não limita a multa, porque o valor exato será calculado depois, na fase de liquidação. Por isso, a multa continua válida e não será reduzida.
+
+1.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Potencial Petróleo Ltda., contra a Acórdão de mov.
+ 29.1, proferida nos autos do Agravo de Instrumento nº 0101603-27.2025.8.16.0000, que negou provimento ao recurso.
+Em suas razões, o embargante alega (a) o acórdão foi omisso ao deixar de se manifestar sobre a alegação de que a própria credora, ao formular a reconvenção na ação originária, requereu a aplicação da cláusula penal de forma proporcional e razoável, em observância ao art. 413 do Código Civil; (b) o acórdão deixou de apreciar o argumento de que a reconvinte atribui à reconvenção o valor de R$ 100.000,00, o que demonstraria que esse corresponde ao montante efetivamente pretendido a título de indenização; (c) a manutenção da multa contratual em valor superior ao pretendido pela própria credora configura enriquecimento indevido e afronta ao art. 413 do Código Civil; (d) o julgado incorre em violação ao art. 292 do Código de Processo Civil, pois o valor atribuído à reconvenção deveria corresponder ao valor efetivamente buscado pela parte reconvinte; (e) a condenação mantida pelo acórdão configura julgamento ultra petita, em afronta ao art. 492 do Código de Processo Civil, por exceder os limites da pretensão deduzida pela credora.
+Requer o acolhimento dos embargos de declaração para que as omissões apontadas sejam sanadas, com atribuição de efeitos infringentes, a fim de que seja dado provimento ao agravo de instrumento para reduzir a multa compensatória, limitando-a ao valor de R$ 100.000,00 ou a outro montante reputado razoável, bem como para fins de prequestionamento dos arts. 292 e 492 do Código de Processo Civil e 413 do Código Civil.
+Devidamente intimada, a parte embargada apresentou contrarrazões pela rejeição do recurso (mov. 10.1).
+É o relatório.
+
+2.
+FUNDAMENTAÇÃO
+Recebo os embargos de declaração (seq. 1.1), pois tempestivos (art. 1.023 do Código de Processo Civil).
+No mérito, entendo ser o caso de acolhimento dos embargos, porém sem a atribuição de efeitos infringentes, exclusivamente para sanar a omissão apontada, integrando-se a fundamentação do acórdão, sem alteração do resultado do julgamento.
+Nesse sentido, Nelson Nery Junior ensina que os embargos de declaração:
+(...) têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não tem caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. (Comentários ao CPC. São Paulo: RT, 2015. P. 2120).
+No caso dos autos, embora o acórdão tenha examinado expressamente a possibilidade de redução da cláusula penal à luz do art. 413 do Código Civil, concluindo pela inexistência de excessividade apta a justificar a revisão pretendida, verifica-se que não houve manifestação específica acerca da argumentação relacionada ao valor atribuído à reconvenção e à alegada limitação da pretensão da parte credora ao montante de R$ 100.000,00.
+A omissão, contudo, não possui aptidão para modificar o resultado do julgamento.
+Isso porque a controvérsia recursal efetivamente apreciada por esta Câmara consistiu justamente na possibilidade de redução da cláusula penal com fundamento no art. 413 do Código Civil, tendo sido expressamente consignado que, embora admissível em tese o controle judicial da penalidade, não se verificavam, no caso concreto, elementos que demonstrassem sua manifesta excessividade.
+Veja-se:
+Não obstante, apesar da possibilidade abstrata de redução, no caso concreto, não vislumbro a alegada excessividade da multa.
+O título executivo judicial (mov. 1.4) condenou a agravante, Potencial Petróleo Ltda., ao pagamento de multa compensatória de 10% (dez por cento) sobre o volume total de produtos que deixaram de ser fornecidos até o término do contrato, em razão de sua culpa exclusiva na rescisão.
+(...)
+A análise da excessividade da cláusula penal, nos termos do art. 413 do Código Civil, deve considerar a natureza e a finalidade do negócio, bem como a situação das partes. No caso em tela, estamos diante de um contrato empresarial, firmado entre duas sociedades de grande porte, especialistas em suas áreas de atuação – distribuição e revenda de combustíveis.
+Não se verifica qualquer assimetria que justifique uma intervenção judicial para mitigar o que foi livremente pactuado (pacta sunt servanda). A agravante é uma empresa de notório poderio econômico, de modo que o valor da multa, embora expressivo em termos absolutos, não se mostra desproporcional frente à sua capacidade financeira nem ao vulto da obrigação descumprida.
+O percentual de 10% é padrão em contratos dessa natureza e visa, justamente, a desestimular o inadimplemento e a compensar a parte inocente pelos prejuízos decorrentes da quebra abrupta da relação comercial. Reduzir tal percentual, no cenário apresentado, significaria enfraquecer a força obrigatória do contrato e beneficiar a parte que deu causa à rescisão, em detrimento daquela que teve suas legítimas expectativas frustradas. (mov. 29.1)
+A matéria, portanto, foi enfrentada pelo colegiado, inexistindo omissão quanto à aplicação do referido dispositivo legal. O inconformismo da embargante reside, em verdade, na conclusão adotada pelo acórdão.
+No tocante à alegação de que a própria credora teria reconhecido o excesso da multa e limitado sua pretensão ao valor de R$ 100.000,00, igualmente não lhe assiste razão.
+Conforme consignado no título judicial em fase de liquidação, a condenação não foi estabelecida em valor certo e determinado. Ao contrário, definiu-se a incidência da multa contratual compensatória, remetendo-se a apuração do respectivo quantum à fase de liquidação de sentença.
+Assim, o valor atribuído à reconvenção não possui o efeito jurídico pretendido pela embargante, consistente na criação de um teto indenizatório correspondente a R$ 100.000,00. Se o próprio título executivo determinou a posterior apuração do valor devido mediante liquidação, não há como concluir que a condenação tenha ficado limitada ao valor atribuído à demanda quando do seu ajuizamento.
+Além disso, a circunstância de a reconvinte ter invocado critérios de proporcionalidade, razoabilidade ou mesmo a observância do art. 413 do Código Civil na fundamentação de sua pretensão não equivale ao reconhecimento de que a cláusula penal contratual seria excessiva, tampouco configura renúncia ao percentual posteriormente reconhecido no título judicial. Trata-se de argumentação jurídica deduzida na formulação do pedido, incapaz de afastar os critérios de condenação fixados no acórdão exequendo e posteriormente submetidos à fase liquidatória.
+Também não se verifica a alegada afronta ao art. 492 do Código de Processo Civil.
+A tese de julgamento ultra petita parte da premissa de que a condenação estaria limitada a R$ 100.000,00. Todavia, ausente tal limitação no título judicial, inexiste decisão para além dos limites da lide. O acórdão recorrido apenas preservou os parâmetros definidos no próprio título liquidando, cuja apuração foi expressamente remetida à liquidação de sentença.
+Desse modo, em que pese a necessidade de sanar a omissão referente ao que foi alegado em sede de reconvenção, entendo que os esclarecimentos ora prestados não alteram a conclusão anteriormente alcançada por esta Câmara, permanecendo íntegro o entendimento de que a multa compensatória contratual deve ser mantida, por não se mostrar manifestamente excessiva diante das peculiaridades do caso concreto.
+Nesses termos, voto pelo acolhimento dos embargos de declaração, sem efeitos infringentes, apenas para sanar a omissão apontada, integrando o acórdão para enfrentar expressamente a questão envolvendo a reconvenção da parte embargada, sem alterar o resultado do julgamento.
+É como voto.
