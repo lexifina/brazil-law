@@ -1,0 +1,333 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 9
+
+11/11/2026
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 278.324 RIO GRANDE DO NORTE
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: MATHEUS MEDEIROS DE MOURA
+: ALLAN CLAYTON PEREIRA DE ALMEIDA
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+EMENTA: AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO
+PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA.
+I. CASO EM EXAME
+1. Paciente teve a prisão preventiva decretada em razão da prática
+dos crimes de “integrar organização criminosa armada, tráfico de
+entorpecentes, associação para tal fim, corrupção de menores e entrega de arma de
+fogo a adolescente“.
+II. QUESTÃO EM DISCUSSÃO
+2. Impetração em que se pleiteia a revogação do decreto prisional.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência desta CORTE é firme no sentido de que a
+existência de grupo criminoso “impõe a necessidade de se interromper ou
+diminuir a atuação de seus integrantes como garantia da ordem pública,
+constituindo fundamentação cautelar idônea e suficiente para a prisão
+preventiva” (HC 95.024, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe
+de 20/2/2009).
+IV. DISPOSITIVO
+4. Agravo Regimental a que se nega provimento.
+ACÓRDÃO
+A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Alexandre de
+Moraes.
+Publique-se.
+Brasília, 11 de novembro de 2026.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 55D0-02FD-1AE0-3871 e senha 9384-7753-324B-FE1F
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 9
+
+HC 278324 AGR / RN
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 55D0-02FD-1AE0-3871 e senha 9384-7753-324B-FE1F
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 9
+
+AG.REG. NO HABEAS CORPUS 278.324 RIO GRANDE DO NORTE
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: MATHEUS MEDEIROS DE MOURA
+: ALLAN CLAYTON PEREIRA DE ALMEIDA
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+RELATÓRIO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Regimental em face de decisão que indeferiu a
+ordem de Habeas Corpus impetrado contra acórdão da Sexta Turma do
+Superior Tribunal de Justiça, proferido no julgamento do Agravo
+Regimental no HC 1.101.319/RN, submetido à relatoria da Ministra
+NILSONI DE FREITAS (Desembargadora convocada).
+Pelo que se depreende dos autos, o paciente foi “preso preventivamente
+pela suposta prática dos crimes de integrar organização criminosa armada, tráfico
+de entorpecentes, associação para tal fim, corrupção de menores e entrega de arma
+de fogo a adolescente“.
+Buscando a revogação da custódia, a defesa impetrou Habeas Corpus
+no Tribunal de Justiça do Estado do Rio Grande do Norte, que denegou a
+ordem.
+Na sequência, nova impetração, desta vez direcionada ao Superior
+Tribunal de Justiça, indeferida pela Ministra relatora, em decisão
+confirmada no julgamento do subsequente Agravo Regimental, conforme
+ementa:
+DIREITO
+PROCESSUAL
+PENAL.
+AGRAVO
+REGIMENTAL EM HABEAS CORPUS. ORGANIZAÇÃO
+CRIMINOSA ARMADA, TRÁFICO DE ENTORPECENTES,
+ASSOCIAÇÃO PARA O TRÁFICO, CORRUPÇÃO DE
+MENORES E ENTREGA DE ARMA DE FOGO A
+ADOLESCENTE.
+PRISÃO
+PREVENTIVA.
+FUNDAMENTAÇÃO IDÔNEA. CONTEMPORANEIDADE
+CONSTATADA.RECURSO DESPROVIDO.
+[...]
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6188-92FA-0A3E-5633 e senha 54D8-0E7C-DDB5-5172
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 9
+
+HC 278324 AGR / RN
+Na petição inicial, o impetrante alegou, em síntese, a ausência dos
+pressupostos autorizadores para a manutenção da prisão preventiva.
+Requereu, assim, a concessão da ordem para revogar o decreto prisional,
+com ousem imposição de medidas cautelares diversas.
+Indeferi a ordem.
+Neste recurso, a defesa reforça os argumentos anteriormente
+expendidos. Ao final, requer, caso não haja reconsideração da decisão
+agravada, seja o presente Agravo provido pela Turma Julgadora,
+concedendo-se a ordem, nos termos do pedido inicial.
+É o relatório.
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6188-92FA-0A3E-5633 e senha 54D8-0E7C-DDB5-5172
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 5 de 9
+
+AG.REG. NO HABEAS CORPUS 278.324 RIO GRANDE DO NORTE
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: MATHEUS MEDEIROS DE MOURA
+: ALLAN CLAYTON PEREIRA DE ALMEIDA
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+VOTO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Não há reparo a fazer, pois o Agravo Regimental não apresentou
+qualquer argumento apto a desconstituir os fundamentos apontados,
+pelo que se reafirma o seu teor.
+De acordo com o art. 312 do Código de Processo Penal, a prisão
+preventiva poderá ser decretada quando houver prova da existência do
+crime (materialidade) e indício suficiente de autoria. Além disso, é
+preciso demonstrar, concretamente, a existência de um dos fundamentos
+que a autorizam: para garantir a ordem pública; para garantir a ordem
+econômica; por conveniência da instrução criminal; ou, ainda, para
+assegurar a aplicação da lei penal.
+De acordo com o art. 312 do Código de Processo Penal, a prisão
+preventiva poderá ser decretada quando houver prova da existência do
+crime (materialidade) e indício suficiente de autoria. Além disso, é
+preciso demonstrar, concretamente, a existência de um dos fundamentos
+que a autorizam: para garantir a ordem pública; para garantir a ordem
+econômica; por conveniência da instrução criminal; ou, ainda, para
+assegurar a aplicação da lei penal.
+As razões apresentadas pelas instâncias precedentes revelam que a
+segregação cautelar está lastreada em fundamentação jurídica idônea,
+chancelada pela jurisprudência do SUPREMO TRIBUNAL FEDERAL.
+Sobressaem dos autos as circunstâncias concretas do caso em exame,
+bem como a gravidade diferenciada das práticas ilícitas imputadas, o que
+evidencia a necessidade de resguardar a ordem pública. Conforme
+destacado pelo STJ:
+[...]
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0331-52BB-46B1-D389 e senha 930B-F92E-5457-49DB
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 9
+
+HC 278324 AGR / RN
+4. A segregação cautelar encontra-se devidamente
+motivada, pois destacou o Magistrado singular a gravidade
+concreta da conduta e a periculosidade social do agravante,
+asseverando que "a análise das mensagens extraídas dos RTA's
+revela que Matheus Medeiros de Moura, vulgo "Bolinha",
+desempenhava papel de liderança intermediária dentro do Comando
+Vermelho (CV) na zona oeste de Natal/RN, atuando de forma
+estruturada e contínua na coordenação das atividades ilícitas
+da facção, sendo inclusive administrador do grupo do Comando
+Vermelho".
+5. Pontuou que "os diálogos demonstram que Matheus
+exercia controle operacional direto sobre a circulação de drogas
+e armamentos, orientando adolescentes, distribuindo cargas de
+entorpecentes e determinando procedimentos de segurança e
+vigilância territorial. As conversas indicam que Matheus mantinha
+acesso e domínio sobre o sistema de câmeras de vigilância instalado na
+entrada da Baixa do Cão, monitorando a movimentação local,
+repassando alertas e garantindo a proteção do território dominado pela
+facção. A partir dessa função, ele também desempenhava o papel de
+olheiro qualificado, assegurando a detecção precoce de incursões
+policiais ou de rivais, contribuindo diretamente para a estabilidade das
+operações criminosas. No âmbito do tráfico de drogas, Matheus é
+identificado como responsável pela remessa e distribuição de
+entorpecentes — incluindo, especificamente, cerca de 50g de "peda"
+(crack) — destinados a pontos de venda operados por adolescentes. Ele
+também atuava na gestão da contabilidade do tráfico,
+orientando a divisão de lucros, determinando repasses c
+resolvendo conflitos referentes à partilha de valores
+provenientes da venda de drogas".
+6. Afirmou o Juiz que "os diálogos evidenciam que
+Matheus cooptava e dirigia adolescentes [...] para atividades de
+tráfico, vigilância armada e operacionalização das tarefas da
+facção, configurando múltiplos episódios de corrupção de
+menores. Em um dos diálogos, Matheus inclusive promete fornecer
+armamento ao adolescente Paulo para reforçar o grupo na área de
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0331-52BB-46B1-D389 e senha 930B-F92E-5457-49DB
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 9
+
+HC 278324 AGR / RN
+Felipe Camarão, demonstrando envolvimento direto na transferência e
+disponibilização de armas de fogo a menor de idade, conduta tipificada
+no art. 16, §1°, V, da Lei n° 10.826/2003".
+7. Finalizou concluindo que "Matheus integra organização
+criminosa armada, exerce domínio territorial e tem acesso a
+armamentos, representando gravíssimo risco à ordem pública;
+apresenta clara reiteração delitiva, com múltiplos episódios de
+tráfico de drogas, corrupção de menores, fornecimento de armas
+e coordenação de atividades ilícitas; exerce forte influência
+sobre adolescentes, que continuaram a delinquir sob suas
+ordens; beneficia-se da estrutura organizada e hierarquizada do
+Comando Vermelho, que lhe confere mobilidade, apoio logístico
+e alta capacidade de fuga; desempenha papel técnico relevante
+dentro da facção, com controle de câmeras, logística do tráfico,
+distribuição de entorpecentes e suporte operacional; e
+demonstra periculosidade concreta, evidenciada pela
+naturalização de execuções, pelo incentivo direto à prática de
+crimes hediondos e pelo oferecimento de armas a menores".
+8. Portanto, as condutas eventualmente praticadas pelo
+agravante estão suficientemente delineadas e individualizadas
+e a necessidade da prisão cautelar mostra-se devidamente
+justificada.
+[...]
+
+Esses fatores revelam a imprescindibilidade da segregação cautelar
+para resguardar a ordem pública (cf. HC 140.305, Rel. Min. MARCO
+AURÉLIO, Redator para o Acórdão: Min. ALEXANDRE DE MORAES,
+Primeira Turma, DJe de 25/4/2018; HC 140.512, Rel. Min. RICARDO
+LEWANDOWSKI, Segunda Turma, DJe de 30/5/2017; HC 137.131 AgR,
+Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 17/5/2017; HC
+141.170 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de
+19/5/2017; HC 132.543, Rel. Min. ROSA WEBER, Primeira Turma, DJe de
+6/9/2016, entre outros).
+Sob tal prisma, a jurisprudência desta CORTE possui entendimento
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0331-52BB-46B1-D389 e senha 930B-F92E-5457-49DB
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 9
+
+HC 278324 AGR / RN
+no sentido de que a existência de grupo criminoso “impõe a necessidade de
+se interromper ou diminuir a atuação de seus integrantes como garantia da
+ordem pública, constituindo fundamentação cautelar idônea e suficiente para a
+prisão preventiva” (HC 95.024, Rel. Min. CÁRMEN LÚCIA, Primeira
+Turma, DJe de 20/2/2009). No mesmo sentido: RHC 138.369, Rel. Min.
+GILMAR MENDES, Segunda Turma, DJe de 1/3/2017; HC 126.573, Rel.
+Min. ROSA WEBER, Primeira Turma, DJe de 23/11/2015; HC 106.991, Rel.
+Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 17/5/2011; HC
+99.454, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 1/2/2011.
+Nesse sentido, aliás, o art. 312, § 3º, II, do Código de Processo Penal
+— incluído pela Lei 15.272/2025 — estabelece que a participação em
+organização criminosa constitui elemento relevante para a aferição da
+periculosidade do agente e dos riscos à ordem pública, de modo a
+justificar a prisão preventiva.
+Em conclusão, não merece reparo o entendimento firmado pela
+Corte Superior quanto à inaplicabilidade das medidas cautelares
+diversas, cuja incidência não se mostraria adequada e suficiente para
+acautelar a ordem pública, ante as particularidades do caso.
+Diante do exposto, NEGO PROVIMENTO ao Agravo Regimental.
+É o voto.
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0331-52BB-46B1-D389 e senha 930B-F92E-5457-49DB
+
+Supremo Tribunal Federal
+Extrato de Ata - 11/11/2026
+
+Inteiro Teor do Acórdão - Página 9 de 9
+
+PRIMEIRA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO HABEAS CORPUS 278.324
+PROCED. : RIO GRANDE DO NORTE/RN
+RELATOR(A): MIN. ALEXANDRE DE MORAES
+AGTE.(S): MATHEUS MEDEIROS DE MOURA
+ADV.(A/S): ALLAN CLAYTON PEREIRA DE ALMEIDA (8884/RN)
+AGDO.(A/S): SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Alexandre de
+Moraes. Primeira Turma, Sessão Virtual de 30.10.2026 a 10.11.2026.
+Composição: Ministros Cármen Lúcia (Presidente), Alexandre de
+Moraes, Cristiano Zanin e Flávio Dino.
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29AF-61F3-C1D9-E422 e senha F1BB-8795-20C9-3FC3
