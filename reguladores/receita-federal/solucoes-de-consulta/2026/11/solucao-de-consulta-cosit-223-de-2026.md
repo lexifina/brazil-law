@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 223, de 10 de novembro de 2026
+Assunto: Imposto sobre a Renda Retido na Fonte - IRRF
+DECLARAÇÃO DO IMPOSTO SOBRE A RENDA RETIDO NA FONTE - DIRF. RENDIMENTOS DO TRABALHO ASSALARIADO. PAGAMENTO INDEVIDO. DEVOLUÇÃO DE RENDIMENTOS EM ANO-CALENDÁRIO SUBSEQUENTE AO DO PAGAMENTO.
+Os rendimentos pagos em determinado ano-calendário e o respectivo Imposto sobre a Renda retido na fonte - IRRF devem constar na Declaração do Imposto sobre a Renda Retido na Fonte - Dirf referente a esse ano-calendário, ainda que os rendimentos sejam devolvidos à fonte pagadora em ano-calendário subsequente, por terem sido considerados como pagos indevidamente.
+Os valores relativos a rendimentos do trabalho assalariado pagos indevidamente em anos-calendário ou meses anteriores podem ser diminuídos do rendimento bruto na determinação da base de cálculo do imposto sobre a renda na fonte, no mês de sua devolução à fonte pagadora; na Dirf referente ao ano-calendário da devolução dos rendimentos constarão os rendimentos efetivamente pagos e o correspondente Imposto sobre a Renda retido na fonte.
+Dispositivos Legais: Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional - CTN, arts. 43, 113, § 1º, 114, 116 e 118; Lei nº 7.713, de 22 de dezembro de 1988, arts. 2º e 7º, caput, inciso I; Lei nº 9.250, de 26 de dezembro de 1995, arts. 3º, parágrafo único, 7º, caput, e 8º, caput, inciso I; Lei nº 11.482, de 31 de maio de 2007, art. 1º; Regulamento do Imposto sobre a Renda e Proventos de Qualquer Natureza - RIR/2018, aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018, arts. 2º, 34, parágrafo único, 76, caput, inciso I, 78, 677 e 681; Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 3º, § 3º; Instrução Normativa RFB nº 1.990, de 18 de novembro de 2020, arts. 2º, caput, inciso I, 9º, caput, inciso I, 10, caput, inciso II, 12, caput, incisos I a III, e § 2º, e 27; Parecer Normativo Cosit nº 5, de 6 de novembro de 1995.
+SC Cosit nº 223-2026
+[arquivo anexo: SC Cosit nº 223-2026.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
