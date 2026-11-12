@@ -1,0 +1,69 @@
+Poder Judiciário
+
+JUSTIÇA ESTADUAL
+
+Cível - Tribunal de Justiça do Estado de São Paulo
+
+Gab 03 - 5ª Turma Recursal Cível
+
+RECURSO CÍVEL Nº 4000129-50.2025.8.26.0651/SP
+
+Assunto: Indenização por Dano Material
+
+RELATOR: Juiz de Direito ROGERIO MARCIO TEIXEIRA
+
+RELATÓRIO
+
+Sentença confirmada por seus próprios fundamentos pelo artigo 46 da Lei 9.099/95.
+
+Condeno a recorrente ao pagamento das custas e honorários advocatícios, que fixo em 20% do valor da condenação, nos termos do artigo 55 da Lei 9.099/95.
+
+VOTO
+
+Posto isso, voto por NEGAR PROVIMENTO ao recurso.
+
+Documento eletrônico assinado por ROGERIO MARCIO TEIXEIRA, Relator, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc1g.tjsp.jus.br/eproc/externo_controlador.php?acao=consulta_autenticidade_documentos, mediante o preenchimento do código verificador 610020538171v2 e do código CRC 67a0e2c8.
+
+Informações adicionais da assinatura:
+Signatário (a): ROGERIO MARCIO TEIXEIRA
+Data e Hora: 13/11/2026, às 09:53:03
+
+4000129-50.2025.8.26.0651
+
+610020538171
+.V2
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Cível - Tribunal de Justiça do Estado de São Paulo
+
+RECURSO CÍVEL Nº 4000129-50.2025.8.26.0651/SP
+
+Assunto: Indenização por Dano Material
+
+RELATOR: Juiz de Direito ROGERIO MARCIO TEIXEIRA
+
+EMENTA
+
+RECURSO INOMINADO - PLANO DE SAÚDE EMPRESARIAL - PAGAMENTO A MAIOR DA MENSALIDADE - OBRIGAÇÃO DE FAZER DE CESSAÇÃO DAS MENSALIDADES A MAIOR, COM INEXIGIBILIDADE DE COBRANÇA DA "TAXA DE SERVIÇO" OU QUALQUER OUTRA RUBRICA ADMINISTRATIVA QUE EXCEDA O VALOR DA MENSALIDADE ASSOCIATIVA BASE (FIXADA EM R$ 50,00), COM LIMITAÇÃO DAS COBRANÇAS AO CUSTO EFETIVO DO PLANO DE SAÚDE (MENSALIDADE E COPARTICIPAÇÃO) ACRESCIDO DA MENSALIDADE ASSOCIATIVA DE R$ 50,00, RESTITUIÇÃO EM DOBRO DO QUE PAGO A MAIOR E DANOS MORAIS ESTIMADOS EM R$ 5.000,00 - SENTENÇA DE PROCEDÊNCIA, A INDENIZAÇÃO PELOS DANOS MORAIS FIXADA EM R$ 3.000,00 - INSURGÊNCIA DA RECORRENTE - LEGALIDADE DA CONDUTA DA RECORRENTE - EXATA OBSERVÂNCIA DAS CLÁUSULAS CONTRATUAIS - "TAXA DE SERVIÇO", DE R$ 320,00, COBRADA PELA RECORRENTE, ALÉM DA MENSALIDADE DO PLANO DE SAÚDE (R$ 50,00), SEM COMPROVAÇÃO DE QUALQUER CONTRATO ASSINADO PELO RECORRIDO OU ATA DE ASSEMBLEIA ESPECÍFICA QUE TENHA AUTORIZADO A INSTITUIÇÃO E A MAJORAÇÃO DE TAXA ADMINISTRATIVA EM PATAMAR TÃO ELEVADO, QUE REPRESENTA, NA PRÁTICA, UM CUSTO ADICIONAL DE MAIS DE 30% SOBRE O VALOR DO PLANO DE SAÚDE - CLÁUSULA ESTATUTÁRIA GENÉRICA MENCIONADA NA CONTESTAÇÃO (ARTIGO 12, VI - 11.6), PREVENDO O DEVER DE PAGAR "TAXAS DE SERVIÇOS", NÃO AUTORIZANDO A FIXAÇÃO UNILATERAL E ARBITRÁRIA DE VALORES, TAMPOUCO A FALTA DE TRANSPARÊNCIA NA COBRANÇA - PRÁTICA ABUSIVA, NOS TERMOS DO ARTIGO 39, V E X, DO CDC, AO EXIGIR DO CONSUMIDOR VANTAGEM MANIFESTAMENTE EXCESSIVA E ELEVAR SEM JUSTA CAUSA O PREÇO DO SERVIÇO - CABIMENTO DA RESTITUIÇÃO EM DOBRO, NOS TERMOS DO ARTIGO 42, PARÁGRAFO ÚNICO, DO CDC, INDEPENDENTEMENTE DA NATUREZA DO ELEMENTO VOLITIVO, LIMITADA AOS TRÊS ANOS ANTERIORES AO AJUIZAMENTO DA AÇÃO (DISTRIBUÍDA EM 02.09.2025), OU SEJA, A PARTIR DE 02.09.2022. PELA PRESCRIÇÃO DO ARTIGO 206, § 3º, IV, DO CÓDIGO CIVIL - AUSÊNCIA DE DANOS MORAIS, SUBSIDIARIAMENTE, REDUÇÃO DA INDENIZAÇÃO - AFASTAMENTOS - TEORIA DO DESVIO PRODUTIVO DO CONSUMIDOR DIANTE DO TEMPO DESPENDIDO PELO RECORRIDO PARA A RESOLUÇÃO DA QUESTÃO, SEM SUCESSO, CULMINANDO COM A PROPOSITURA DA AÇÃO - INDENIZAÇÃO FIXADA EM CONSONÂNCIA COM A RAZOABILIDADE E PROPORCIONALIDADE ÀS CIRCUNSTÂNCIAS - SENTENÇA CONFIRMADA POR SEUS PRÓPRIOS FUNDAMENTOS - ARTIGO 46 DA LEI Nº 9.099/95 - RECURSO IMPROVIDO COM CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DAS CUSTAS E HONORÁRIOS ADVOCATÍCIOS, QUE FIXO EM 20% DO VALOR DA CONDENAÇÃO, NOS TERMOS DO ARTIGO 55 DA LEI Nº 9.099/95.
+
+ACÓRDÃO
+
+Vistos e relatados estes autos em que são partes as acima indicadas, 5ª Turma Recursal Cível decidiu, por unanimidade, NEGAR PROVIMENTO ao recurso, nos termos do relatório, votos e notas de julgamento que ficam fazendo parte integrante do presente julgado.
+
+São Paulo, 12 de novembro de 2026.
+
+Documento eletrônico assinado por ROGERIO MARCIO TEIXEIRA, Relator, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc1g.tjsp.jus.br/eproc/externo_controlador.php?acao=consulta_autenticidade_documentos, mediante o preenchimento do código verificador 610020538173v8 e do código CRC 8ad3db4e.
+
+Informações adicionais da assinatura:
+Signatário (a): ROGERIO MARCIO TEIXEIRA
+Data e Hora: 13/11/2026, às 09:53:03
+
+4000129-50.2025.8.26.0651
+
+610020538173
+.V8
+
+Identificações de pessoas físicas foram ocultadas
