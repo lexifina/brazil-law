@@ -1,0 +1,7 @@
+Art. 15-A. Em caráter extraordinário, no exercício financeiro de 2026, observadas a legislação orçamentária e a disponibilidade orçamentária e financeira, poderá ser destinado o montante de até R$ 10.000.000.000,00 (dez bilhões de reais) do superávit financeiro de que trata o § 6º do art. 12 desta Lei à linha de financiamento reembolsável para projetos de disseminação tecnológica baseada em equipamentos inovadores nacionais destinados à produção agrícola, mediante crédito descentralizado concedido por agências de fomento, bancos de desenvolvimento ou instituições de crédito oficiais credenciados pela Finep. (“Caput” do artigo acrescido pela Lei nº 15.528, de 11/11/2026)
+§ 1º São elegíveis à linha de financiamento de que trata o caput deste artigo as pessoas físicas ou jurídicas.
+§ 2º O crédito descentralizado de que trata o caput deste artigo é considerado crédito rural para fins da legislação aplicável.
+§ 3º O empréstimo do FNDCT à Finep previsto no inciso II-A do caput do art. 12 desta Lei observará as seguintes condições:
+I - os juros remuneratórios serão equivalentes à TR, recolhidos pela Finep ao FNDCT, a cada ano, até o décimo dia útil subsequente ao seu encerramento;
+II - a amortização de cada empréstimo será efetuada em 15 (quinze) anos, em parcelas anuais, calculadas anualmente, tomada como base a data do término do prazo de carência, quando vencer a primeira parcela; e
+III - cada parcela do empréstimo deverá ser quitada até o décimo dia útil subsequente ao seu vencimento.
