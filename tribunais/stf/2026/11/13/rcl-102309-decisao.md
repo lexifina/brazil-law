@@ -1,0 +1,28 @@
+DECISÃO:
+Cuida-se de reclamação constitucional ajuizada por Mirian Vieira Nunes, representada pela Defensoria Pública do Estado do Rio de Janeiro, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ), nos autos do Agravo de Instrumento nº 0045560-86.2025.8.19.0000, por alegado desrespeito à tese firmada no Tema nº 1.161 da Repercussão Geral.
+A parte reclamante narra que ajuizou ação de obrigação de fazer em face do Estado do Rio de Janeiro e do Município de Carmo, buscando o fornecimento de Canabidiol 20mg/ml 30ml para tratamento de fibromialgia, transtorno de ansiedade generalizada e transtorno do pânico, tendo sido deferida tutela de urgência pelo Juízo da Vara Única da Comarca de Carmo/RJ para determinar o fornecimento da medicação.
+ Relata que o Estado do Rio de Janeiro interpôs agravo de instrumento contra a decisão antecipatória, ao qual foi inicialmente negado provimento pela relatora, que reconheceu a incidência do Tema nº 1.161 da Repercussão Geral.
+Sustenta, contudo, que, em juízo de retratação provocado por agravo interno do ente estatal, a magistrada reconsiderou seu posicionamento e anulou a tutela de urgência, determinando o declínio da competência para a Justiça Federal sob fundamento de aplicação do Tema nº 500 da Repercussão Geral.
+Aduz que interpôs agravo interno demonstrando que o produto prescrito, Canabidiol Prati-Donaduzzi, possui autorização sanitária ativa expedida pela Agência Nacional de Vigilância Sanitária - ANVISA, sob nº 125680313, com vigência até abril de 2030, circunstância que teria sido reconhecida, inclusive, pela própria Procuradoria-Geral do Estado nos autos originários.
+Não obstante, o colegiado da Segunda Câmara de Direito Público do Tribunal de Justiça do Estado do Rio de Janeiro negou provimento ao recurso, mantendo a anulação da tutela e o declínio da competência.
+ Informa que os embargos de declaração opostos para sanar supostas omissões acerca da autorização sanitária do produto e da incidência do Tema nº 1.161 foram rejeitados, esgotando-se as vias ordinárias.
+Sustenta que o acórdão reclamado afronta diretamente a autoridade da tese firmada no Tema nº 1.161 da Repercussão Geral, segundo a qual cabe ao Estado fornecer, em caráter excepcional, produto derivado de cannabis cuja importação ou comercialização seja autorizada pela ANVISA, desde que demonstrados os requisitos estabelecidos pela Corte.
+ Afirma que o caso concreto não se enquadra nas hipóteses disciplinadas pelo Tema nº 500 da Repercussão Geral, referente a medicamentos sem registro sanitário, nem pelo Tema nº 1.234, por se tratar de produto à base de cannabis submetido a regime regulatório próprio.
+Argumenta que a regulamentação editada pela ANVISA distingue os produtos derivados de cannabis dos medicamentos convencionais, razão pela qual a existência de autorização sanitária válida afastaria a necessidade de inclusão da União no polo passivo e, por conseguinte, o deslocamento da competência para a Justiça Federal.
+Acrescenta que a jurisprudência recente do Supremo Tribunal Federal tem reconhecido a competência da Justiça Estadual para processar e julgar demandas envolvendo fornecimento de canabidiol autorizado pela agência reguladora.
+Requer, em sede liminar, a suspensão dos efeitos do acórdão reclamado, com o restabelecimento da tutela provisória deferida pelo Juízo de origem e da competência da Justiça Estadual para processamento da ação. Ao final, pede “procedência integral da presente Reclamação Constitucional, confirmando-se a medida liminar, para cassar em definitivo o acórdão proferido pela Segunda Câmara de Direito Público do Tribunal de Justiça do Estado do Rio de Janeiro nos autos do Agravo de Instrumento nº 0045560-86.2025.8.19.0000 e declarar a competência da Justiça Estadual da Comarca de Carmo para o processamento e julgamento da lide originária” (e-doc. 1, p. 8).
+É o relatório. Decido.
+A controvérsia na presente reclamação consiste em saber se aplicável as diretrizes dos Temas nºs 500 e 1234 da RG em ação na qual se postula em face do Poder Público o fornecimento de produto a base de canabidiol.
+Essa temática está submetida à sistemática da repercussão geral, estando registrada no repositório do STF como Tema nº 1.466, cuja descrição transcrevo:
+
+“Recursos extraordinários em que se discute, à luz dos artigos 2º; 23; II; 93; IX; 109; I; 196; 197; e 198 da Constituição Federal, se o fornecimento judicial de produtos derivados de Cannabis com registro sanitário, autorização sanitária ou autorização de importação submete-se a regime jurídico específico, nos termos do Tema 1161 da repercussão geral, ou se deve observar os parâmetros gerais fixados nos Temas 6, 500, 793 e 1234, bem como nas Súmulas Vinculantes 60 e 61, inclusive no que se refere à definição dos requisitos para a concessão judicial e à definição da competência jurisdicional para o processamento e julgamento da demanda.”
+
+Nesse contexto, entendo que conhecer da controvérsia acerca da adequação ao debate do fornecimento de produtos a base de Cannabis sativa às diretrizes dos Temas nºs 6, 500 e 1.234 da Repercussão Geral por meio da reclamação constitucional constituiria subversão da sistemática de precedentes obrigatórios e da competência do Plenário desta Corte.
+A controvérsia constitucional deve se desenvolver pela via recursal, submetendo-se ao regime legal, de modo que, após a solução do Tema nº 1.466 da Repercussão Geral pelo Plenário do STF, o entendimento seja aplicado ao caso concreto.
+Ante o exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Prejudicada a apreciação do pedido liminar.
+Publique-se.
+Brasília, 13 de novembro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
