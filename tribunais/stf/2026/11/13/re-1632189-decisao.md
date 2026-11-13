@@ -1,0 +1,35 @@
+DECISÃO:
+Trata-se de recurso extraordinário  com base no art. 102, inciso III, da Constituição Federal.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RECURSO EM FACE DE SENTENÇA QUE RECONHECEU A ILEGITIMIDADE PASSIVA DO ESTADO DO PIAUÍ E EXTINGUIU O PROCESSO. QUESTÃO PRELIMINAR. COMPETÊNCIA DO ESTADO DO PIAUÍ PARA COIBIR A PRÁTICA DE SOLTURA DE ANIMAIS NAS RODOVIAS ESTADUAIS. ART. 2º DA LEI ESTADUAL 5.802/2008. LEGITIMIDADE DO ENTE ESTATAL RECORRIDO CARACTERIZADA. RESPONSABILIDADE CIVIL. VÍTIMA FATAL DE ACIDENTE DE TRÂNSITO EM RODOVIA ESTADUAL. OMISSÃO DO ENTE ESTATAL EM FISCALIZAR ANIMAIS NA RODOVIA. RESPONSABILIDADE SUBJETIVA CARACTERIZADA. DEVER DE INDENIZAR. DANO MORAL. DUPLA FUNÇÃO: REPARAÇÃO DO DANO E PUNIÇÃO AO OFENSOR. OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. DANOS MATERIAIS. PENSIONAMENTO MENSAL. VALOR CORRESPONDENTE A 2/3 (DOIS TERÇOS) DO SALÁRIO MÍNIMO. PRINCÍPIO DA ADSTRIÇÃO.
+1. O Estado do Piauí é parte legítima para figurar no polo passivo da demanda, uma vez que é responsabilidade do ente estatal, através da Secretaria de Transportes (SETRANS) e com auxílio do Batalhão de Polícia Rodoviária Estadual (BPRE), coibir a prática da soltura de animais nas rodovias estaduais, bem como a apreensão e o destino dos mesmos, consoante disposto no art. art. 2º da Lei Estadual n. 5.802/2008.
+2. Nas hipóteses de acidente em rodovia ocasionado pela má conservação ou, como no caso dos autos, pela presença de animal na rodovia, a jurisprudência do Superior Tribunal de Justiça possui orientação no sentido de que a responsabilidade do Poder Público é subjetiva. Precedentes do STJ.
+3. No caso concreto, constata-se a negligência do Estado do Piauí, pois violado o dever legal de segurança do tráfego nas rodovias estaduais por meio de ações de manutenção e de retirada de animais que possam trazer risco à segurança das pessoas que delas se utilizada, existindo a prestação defeituosa de um serviço público. Com efeito, o Estado do Piauí não se desincumbiu do ônus de demonstrar a mobilização de recursos físicos e humanos a fim de coibir a prática da soltura de animais nas rodovias estaduais, consoante previsto no art. 2º da Lei n. 5.802/2008.
+4. Na espécie, encontram-se presentes os elementos configuradores da responsabilidade civil, porquanto é inegável que a conduta do Estado do Piauí, na forma omissiva, acarretou violação aos direitos da personalidade da família de vítima fatal em acidente de trânsito.
+5. No tocante ao quantum indenizatório, é firme a jurisprudência nacional no sentido de que o valor do dano moral deve atender à dupla função: reparar o dano buscando minimizar a dor da vítima e punir o ofensor, para que não volte a reincidir (STJ, EDcl no REsp 845.01/MG, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 24/9209).
+6. A quantificação do dano moral deve observar não só as condições pessoais do ofensor e da vítima, mas também os motivos, consequências e demais elementos que permeiam o evento e seus reflexos, sem implicar em enriquecimento desmedido e sem causa, tampouco em indenização irrelevante e aquém dos infortúnios experimentados. Tendo em mente essas considerações, verifica-se que a quantia total de R$ 120.000,00 (cento e vinte mil), sendo R$ 60.000,00 (cinquenta mil reais) para cada uma das autoras, afigura-se adequado ao caso, sendo suficiente para acalentar o sofrimento suportado pelos familiares do falecido.
+7. No ordenamento jurídico pátrio vige o princípio da reparação integral do dano, sendo o pensionamento, tal como pleiteado, uma forma de proporcionar o retorno ao status quo ante da família, que, em virtude da morte do cônjuge e pai, no caso, teve sua renda familiar consideravelmente reduzida.
+8. O Superior Tribunal de Justiça possui orientação no sentido de que, nas hipóteses em que o valor da renda auferida pela vítima não é comprovada, deve o valor da pensão deve ser fixado em 01 (um) um salário mínimo. Precedentes.
+9. Nada obstante, verifica-se que a petição inicial indicou, como parâmetro para a fixação do pensionamento mensal, o valor correspondente à 2/3 (dois terços) do salário mínimo. Desta forma, em atenção ao princípio da adstrição (art. 492 do CPC), estabeleço os danos materiais no valor pleiteado pelas autoras, cabendo a cada uma delas o pensionamento mensal no valor correspondente 1/3 (um terço) do salário-mínimo desde a data do óbito da vítima.
+10. Recurso conhecido e parcialmente provido.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XXXV; 37, § 6º; e 93, IX, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que o Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o artigo 93,inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe de 13/08/2010).
+Ademais, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 13 de novembro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
