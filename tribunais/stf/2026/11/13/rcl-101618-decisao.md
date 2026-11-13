@@ -1,0 +1,34 @@
+RECLAMAÇÃO. AÇÃO PENAL.   ALEGADA VIOLAÇÃO AO ENUNCIADO 14 DA SÚMULA VINCULANTE.  INOCORRÊNCIA. DILIGÊNCIAS EM CURSO. RECLAMAÇÃO IMPROCEDENTE.
+
+Decisão: Trata-se de reclamação, com pedido de liminar, ajuizada em face do Juiz de Direito da Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza/CE, por alegada afronta à Súmula Vinculante n. 14 do STF nos autos nº 0208183-23.2026.8.06.0001.
+A defesa narra que “Em 28/07/2026, o juízo reclamado (decisão assinada pelo Juiz de Direito Adriano Ribeiro Furtado Barbosa) decretou a prisão preventiva do reclamante, com imputação fundada no art. 2º da Lei nº 12.850/2013, e expediu o Mandado de Prisão nº 0208183-23.2026.8.06.0001.01.0024-21, com validade até 28/07/2038. Conforme consta do próprio mandado, a decisão acolheu parecer ministerial de fls. 1499/1793 e determinou o caráter restrito do mandado no BNMP, a fim de resguardar a eficácia da operação a ser deflagrada, até o efetivo cumprimento das ordens.”
+Alega que “Em 17/09/2026, por volta das 06h, o reclamante foi preso em Paracuru/CE em cumprimento a esse mandado (BO nº 373-45/2026, Delegacia de Combate ao Tráfico de Armas, Munições e Explosivos, no contexto da denominada “Operação Impacto X”), e assim permanece até a presente data, 22/10/2026, ou seja, há 35 (trinta e cinco) dias. No dia 18/09/2026 foi realizada audiência de custódia no 4º Núcleo Regional de Custódia e das Garantias (autos nº 3000692-56.2026.8.06.8064), com a defesa exercida pela advogada subscritora. Tratando-se de cumprimento de mandado, o juízo da custódia limitou-se aos aspectos formais da prisão e encaminhou o procedimento à Vara de Delitos de Organizações Criminosas, juízo competente.”
+Aduz que “Decorridos mais de trinta dias, o pedido de habilitação não foi apreciado. Em 22/10/2026, a advogada encaminhou ao cartório da vara (for.doc@tjce.jus.br) solicitação expressa de apreciação do pedido, com a máxima brevidade, e de liberação do acesso aos autos após o deferimento. Até a data desta petição, não houve resposta nem decisão. Em razão da ausência de habilitação, a defesa permanece sem acesso aos autos. Não conhece a decisão que decretou a prisão, a representação que a embasou nem os elementos de prova documentados, e sequer pode explicar ao próprio cliente, preso, do que se trata a imputação.”
+Acrescenta que “A defesa dispõe apenas da cópia do mandado de prisão, que traz mera síntese da decisão, e dos documentos policiais do cumprimento da ordem. Desconhece a decisão na íntegra, a representação, o parecer ministerial de fls. 1499/1793 e os demais elementos que fundamentaram a prisão.”
+Ao final, requer:
+“a) a concessão da medida liminar, inaudita altera parte, com fundamento no artigo 989, inciso II, do Código de Processo Civil, para determinar ao Excelentíssimo Senhor Juiz de Direito da Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza/CE que aprecie, no prazo de 24 (vinte e quatro) horas, o pedido de habilitação formulado nos autos nº 0208183- 23.2026.8.06.0001 e garanta à defesa técnica do reclamante o acesso imediato e integral aos autos, especialmente à decisão que decretou a prisão, à representação que a fundamentou e a todos os elementos de prova e documentos já encartados no feito, com a extração de cópias e a obtenção de mídias digitais, ressalvadas apenas as diligências em andamento e ainda não documentadas;
+b) a notificação da autoridade reclamada, no endereço eletrônico institucional, para que preste as informações que entender necessárias, no prazo legal de 10 (dez) dias, nos termos do artigo 989, inciso I, do Código de Processo Civil;
+c) a intimação da Procuradoria-Geral da República, para que, na qualidade de fiscal da ordem jurídica, apresente parecer no prazo legal de 5 (cinco) dias, nos termos do artigo 991 do Código de Processo Civil;
+d) ao final, o julgamento de total procedência da presente reclamação, confirmando-se a medida liminar, para cassar em definitivo a omissão reclamada e garantir à defesa técnica o direito de amplo e imediato acesso a todos os elementos de prova já documentados no processo nº 0208183- 23.2026.8.06.0001, preservando-se a autoridade da Súmula Vinculante nº 14 deste Supremo Tribunal Federal.”
+Prestadas as informações solicitadas (e-doc. 12), vieram os autos conclusos.
+É o relatório. DECIDO.
+A Súmula Vinculante 14 do Supremo Tribunal Federal volta-se à garantia do direito de defesa, determinando o amplo acesso do defensor aos elementos de prova já documentados em procedimento investigatório criminal, qualquer que seja a denominação a este conferida.
+Eis o teor do enunciado, in verbis:
+
+“É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa”.
+
+A determinação de amplo acesso aos elementos de prova já documentados teve por fim excluir do direito de acesso, unicamente, as diligências ainda em andamento, para evitar prejuízo à investigação quando o caráter sigiloso se revela fundamental à obtenção de possíveis elementos de informação da prática delitiva.
+In casu, considerando-se as informações prestadas pelo Juízo reclamado no sentido de que o indeferimento momentâneo do pedido de habilitação formulado se deve ao fato de ainda existirem diligências em curso, entendo que não ocorre, na espécie, violação ao enunciado 14 da Súmula Vinculante desta Corte.
+Com efeito, o Juízo reclamado informou que:
+
+“A defesa da paciente requereu habilitação nos autos dia 18 de setembro de 2026 (fl.3427).
+Acerca dos pedidos formulados, foi concedida vista ao Ministério Público para manifestação (fl. 3350/3351).
+Instado a se manifestar, o representante do Ministério Público opinou pela manutenção do sigilo dos autos com amparo no art. 20 do CPP e art. 23 da Lei 12850/2013 indeferindo, assim, a habilitação e acesso dos autos aos advogados requerentes e/ou que apenas juntaram procuração sem pedido formal de habilitação vide supra. Opinou, ainda, que seja dado um prazo à autoridade policial para conclusão das diligências em andamento de até o dia 16/12/2026 (ou seja, 90 dias a contar do cumprimento do primeiro mandado de prisão ocorrido em 17/09/2026 vide fls. 2320 nos termos do art. 5º caput da LEI Nº 15.358, DE 24 DE MARÇO DE 2026 ) e, caso seja ultrapassado tal prazo, que seja liberado acesso dos autos com a habilitação de todos os advogados (fls. 3472/3474).”
+
+Consectariamente, revela-se improcedente a presente Reclamação, por ausência de violação do enunciado da Súmula Vinculante 14.
+Ex positis, JULGO IMPROCEDENTE a presente Reclamação, com esteio no artigo 161, parágrafo único, do RISTF.
+Publique-se.
+Brasília, 13 de novembro de 2026.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
