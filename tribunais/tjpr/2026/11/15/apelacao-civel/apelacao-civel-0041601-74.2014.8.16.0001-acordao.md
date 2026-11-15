@@ -1,0 +1,71 @@
+EMENTA: DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO EM ALIENAÇÃO FIDUCIÁRIA. SENTENÇA DE EXTINÇÃO, EM RAZÃO DO RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. PEDIDO ANTERIOR DE CONVERSÃO DA BUSCA E APREENSÃO EM EXECUÇÃO NÃO APRECIADO. ART. 4º DO DECRETO-LEI Nº 911/1969. DEMANDA JULGADA COMO SE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL FOSSE. APLICAÇÃO DE NORMAS RELATIVAS À EXECUÇÃO DE CHEQUE. PREMISSA PROCESSUAL EQUIVOCADA. ERROR IN PROCEDENDO. SENTENÇA CASSADA. RETORNO DOS AUTOS À ORIGEM. DEMAIS TESES RECURSAIS PREJUDICADAS.
+RECURSO CONHECIDO E PROVIDO.
+I. CASO EM EXAME
+1. Apelação cível interposta pelo autor contra sentença que, em ação de busca e apreensão fundada em alienação fiduciária, reconheceu a prescrição da pretensão executiva e extinguiu o processo, com resolução do mérito, nos termos do art. 487, II, do Código de Processo Civil. O apelante sustenta, entre outras matérias, a ocorrência de error in procedendo, porque o Juízo de origem deixou de apreciar o pedido de conversão da ação de busca e apreensão em execução, formulado antes da sentença, com fundamento no art. 4º do Decreto-Lei nº 911/1969.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a extinção do processo pelo reconhecimento da prescrição da pretensão executiva, sem prévia apreciação do pedido de conversão da ação de busca e apreensão em execução, configura error in procedendo capaz de justificar a cassação da sentença.
+III. RAZÕES DE DECIDIR
+3. O autor requereu a conversão da ação de busca e apreensão em execução, diante da impossibilidade de apreensão do veículo alienado fiduciariamente, reiterando o pedido antes da prolação da sentença. O requerimento, contudo, não foi apreciado pelo Juízo de origem.
+4. Enquanto não apreciado o pedido de conversão, a demanda permanecia submetida ao procedimento especial da busca e apreensão em alienação fiduciária, não podendo ser julgada como se já houvesse sido instaurada execução de título extrajudicial.
+5. A sentença partiu de premissa processual equivocada ao qualificar as partes como exequente e executada, reconhecer a prescrição da pretensão executiva e extinguir uma execução que ainda não havia sido instaurada.
+6. O equívoco é reforçado pela aplicação de fundamentos próprios da execução de cheque, inclusive do prazo previsto no art. 59 da Lei nº 7.357/1985, embora a demanda tenha por objeto a busca e apreensão de veículo alienado fiduciariamente em garantia de obrigação constituída por cédula de crédito bancário.
+7. A ausência de pronunciamento sobre o pedido de conversão, somada ao julgamento da causa com base em rito, título e disciplina prescricional estranhos à demanda efetivamente ajuizada, caracteriza error in procedendo, por comprometer a regularidade da atividade jurisdicional e a própria estrutura do julgamento.
+8. Reconhecido o vício procedimental, impõe-se a cassação da sentença e o retorno dos autos ao Juízo de origem, para que seja apreciado o pedido de conversão da ação de busca e apreensão em execução e seja determinado o regular prosseguimento do processo.
+IV. DISPOSITIVO E TESE
+9. Recurso conhecido e provido para cassar a sentença e determinar o retorno dos autos ao Juízo de origem, a fim de que seja apreciado o pedido de conversão da ação de busca e apreensão em execução, com o posterior e regular prosseguimento do feito, ficando prejudicada a análise das demais teses recursais.
+Tese de julgamento: A extinção da ação de busca e apreensão mediante o reconhecimento da prescrição da pretensão executiva, sem prévia apreciação do pedido de conversão previsto no art. 4º do Decreto-Lei nº 911/1969 e com fundamento em normas relativas a título estranho à demanda, configura error in procedendo e impõe a cassação da sentença.
+Dispositivos relevantes citados: CPC, art. 487, II; Decreto-Lei nº 911/1969, art. 4º.
+Resumo em linguagem acessível:
+
+O Tribunal concluiu que a sentença não poderia ter extinguido o processo pela prescrição da pretensão executiva, pois a ação ainda tramitava como busca e apreensão e o pedido do banco para convertê-la em execução não havia sido analisado. Além disso, a sentença aplicou regras referentes à execução de cheque, embora a demanda estivesse fundada em cédula de crédito bancário garantida por alienação fiduciária. Diante desses vícios, a sentença foi cassada e os autos deverão retornar ao Juízo de origem para que seja apreciado o pedido de conversão e determinado o regular prosseguimento do processo. As demais alegações do recurso ficaram prejudicadas.
+
+RECURSO CONHECIDO E PROVIDO.
+
+Vistos e examinados estes autos de Apelação Cível 0041601-74.2014.8.16.0001, da 3ª Vara Cível do Foro Central da Comarca da Região Metropolitana de Curitiba, em que é apelante Banco Volvo (Brasil) S/A, e apelado Augusto Mota Trindade ME.
+
+I - RELATÓRIO:
+Trata-se de apelação cível interposta em face da sentença proferida no mov. 346.1 nos autos da Ação de Busca e Apreensão nº 0041601-74.2014.8.16.0001, que julgou extinto o feito, com resolução do mérito, em razão da prescrição da pretensão executiva. Em consequência, condenou o autor ao pagamento das custas e despesas processuais.
+Opostos embargos de declaração (mov. 349.1/origem), os quais foram rejeitados (mov. 352.1/origem).
+Recorre o autor/apelante (mov. 357.1/origem), sustentando, em síntese, que: a) a pretensão fundada em alienação fiduciária está sujeita ao prazo prescricional decenal previsto no art. 205 do Código Civil, e não ao prazo quinquenal aplicado na sentença; b) não houve desídia processual, pois a localização e a apreensão do veículo foram obstadas pela apreensão administrativa e pela posterior decretação de perdimento do bem em favor da União, sem a intimação do credor fiduciário; c) a restrição administrativa constitui causa suspensiva da prescrição, uma vez que tornou material e juridicamente inviável o exercício da pretensão, tendo o apelante adotado as medidas cabíveis para superar o impedimento; d) sua atuação ao longo do processo foi diligente, mediante a realização de providências destinadas à localização do bem, à apuração de sua situação e à preservação da garantia fiduciária; e) a sentença incorreu em error in procedendo ao deixar de apreciar o pedido de conversão da ação de busca e apreensão em execução, formulado com fundamento no art. 4º do Decreto-Lei nº 911/1969; f) o perdimento do veículo não extingue o crédito nem torna ineficaz a alienação fiduciária perante o credor, de modo que a obrigação pode ser satisfeita por meio da execução ou de ação de perdas e danos; g) subsidiariamente, deve ser determinada a suspensão do processo para a adoção das medidas necessárias à satisfação do crédito; h) com a reforma ou cassação da sentença, os ônus sucumbenciais devem ser redistribuídos e suportados pelo apelado.
+Contrarrazões não apresentadas, eis que o requerido ainda não foi citado, inexistindo triangularização processual.
+É, em síntese, o relatório.
+
+II - FUNDAMENTAÇÃO:
+Conheço do recurso, porquanto preenchidos os pressupostos legais de admissibilidade, inexistindo irregularidades quanto ao preparo e estando regular a representação processual. Ademais, o recurso é tempestivo, uma vez que o prazo recursal teve início em 05/05/2026, tendo sido a insurgência interposta em 21/05/2026.
+Error in procedendo
+O apelante sustenta que a sentença incorreu em omissão ao deixar de apreciar o pedido de conversão da ação de busca e apreensão em execução, formulado no mov. 320.1/origem e reiterado no mov. 328.1/origem. Afirma que a conversão constitui faculdade assegurada ao credor fiduciário pelo art. 4º do Decreto-Lei nº 911/1969 quando o bem não é encontrado ou não se acha na posse do devedor, razão pela qual a extinção do processo, sem prévio exame do requerimento apresentado antes da sentença, configuraria error in procedendo.
+Trata-se de ação de busca e apreensão ajuizada em 11/11/2014 por Banco Volvo (Brasil) S.A. em face de Augusto Mota Trindade ME, com o objetivo de obter a apreensão do veículo alienado fiduciariamente em garantia de cédula de crédito bancário, diante do inadimplemento contratual.
+Ao longo da tramitação, sucederam-se pedidos de suspensão processual, diligências destinadas à localização do bem e discussões relacionadas ao perdimento do veículo em favor da União, conforme informado no mov. 195.1/origem, bem como à posterior arrematação por terceiro estranho à lide.
+
+Apesar do prolongado curso do processo, o requerido não chegou a ser citado, conforme certificado no mov. 334.1/origem.
+Diante da impossibilidade de apreensão do veículo, o autor requereu, no mov. 320.1/origem, a conversão da ação de busca e apreensão em execução, pedido reiterado no mov. 328.1/origem.
+O Juízo de origem, entretanto, não apreciou o requerimento. Em vez disso, determinou que o autor se manifestasse sobre a possível ocorrência de prescrição material ou intercorrente, conforme despacho (mov. 333.1/origem), ao qual se seguiu a manifestação (mov. 337.1/origem). Posteriormente, foi determinada a comprovação de eventual citação do requerido, nos termos do mov. 340.1/origem.
+Em resposta, o apelante esclareceu que a demanda se submetia ao procedimento especial da busca e apreensão, no qual a citação do devedor deve ocorrer após o cumprimento da medida liminar, o que não havia acontecido no caso. Na mesma oportunidade, defendeu a inocorrência da prescrição (mov. 343.1/origem).
+Sobreveio a sentença, que assim consignou (mov. 346.1/origem):
+
+“3. DISPOSITIVO
+Ante o exposto, reconheço a prescrição da pretensão executiva e JULGO EXTINTA a presente ação, com resolução do mérito, nos termos do artigo 487, II do Código de Processo Civil.
+Considerando que a parte executada sequer foi citada, deixo de arbitrar condenação honorária.
+Condeno o exequente ao pagamento das custas e despesas processuais.”
+
+Opostos embargos de declaração (mov. 349.1/origem), os quais foram rejeitados (352.1/origem).
+O pronunciamento judicial partiu de premissa incompatível com a natureza e com o estágio processual da demanda, eis que, embora o pedido de conversão formulado pelo autor ainda estivesse pendente de apreciação, a sentença tratou o processo como se já correspondesse a uma execução de título extrajudicial. Tanto é assim que o relatório consignou que “trata-se de ação de execução de título extrajudicial movida por BANCO VOLVO (BRASIL) S.A (parte exequente já qualificada nos autos em epígrafe), em face de AUGUSTO MOTA TRINDADE ME (parte executada igualmente qualificada nos autos).”
+Ademais, a inconsistência torna-se ainda mais evidente porque a sentença aplicou à controvérsia fundamentos próprios de execução de cheque. O pronunciamento invocou a Súmula nº 150 do Supremo Tribunal Federal e consignou que o prazo prescricional para a execução de dívida decorrente de cheque seria de seis meses, contado da expiração do prazo de apresentação, conforme o art. 59 da Lei nº 7.357/1985.
+Contudo, a demanda tem como objeto a busca e apreensão de veículo alienado fiduciariamente em garantia de obrigação constituída por cédula de crédito bancário (mov. 1.6/origem).
+
+Foram aplicadas, portanto, normas relacionadas a título e procedimento estranhos à relação jurídica submetida a julgamento.
+Assim, a sentença examinou e extinguiu uma execução que ainda não havia sido instaurada, sem antes apreciar o requerimento cuja eventual procedência poderia alterar o rito processual.
+Nesse contexto, constata-se a ocorrência de error in procedendo, caracterizado por vício na atividade jurisdicional e na própria estrutura do julgamento. Conforme leciona José Carlos Barbosa Moreira:
+
+“O error in procedendo implica em vício de atividade (v.g., defeitos de estrutura formal da decisão, julgamento que se distancia do que foi pedido pela parte, impedimento do juiz, incompetência absoluta) e por isso se pleiteia neste caso a INVALIDAÇÃO da decisão, averbada de ilegal, e o objeto do juízo de mérito do recurso é o próprio julgamento proferido no grau inferior.” (BARBOSA MOREIRA, José Carlos V.5. Comentário ao Código de Processo Civil 12 ed. Rio de Janeiro: Forense, 2005. P.267).
+
+Com efeito, o vício procedimental decorre não apenas da ausência de pronunciamento sobre o pedido de conversão, mas também do julgamento da causa a partir de rito, título e disciplina prescricional que não correspondiam à demanda efetivamente ajuizada.
+
+A propósito, esta Câmara Cível já reconheceu a necessidade de cassação da sentença quando a demanda é recebida, processada e julgada segundo rito incompatível com o pedido e a causa de pedir:
+“APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. SENTENÇA QUE ACOLHEU OS EMBARGOS, RECONHECENDO PRESCRIÇÃO. INSURGÊNCIA DA EMBARGADA. ARGUIÇÃO DE INOCORRÊNCIA DE PRESCRIÇÃO. ACOLHIMENTO. DEMANDA ORIGINÁRIA AJUIZADA SOB A RUBRICA DE “AÇÃO DE LOCUPLETAMENTO ILÍCITO”, RECEBIDA E PROCESSADA, CONTUDO, EQUIVOCADAMENTE, COMO EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NATUREZA JURÍDICA DA DEMANDA DEFINIDA PELO PEDIDO E PELA CAUSA DE PEDIR. PRETENSÃO DE NATUREZA DECLARATÓRIA-CONDENATÓRIA FUNDADA EM ENRIQUECIMENTO SEM CAUSA. INAPLICABILIDADE DO PRAZO PRESCRICIONAL DE 6 MESES (ART. 59 DA LEI DO CHEQUE). INCIDÊNCIA DO PRAZO BIENAL ESTABELECIDO NO ART. 61 DA LEI 7.357/85. AJUIZAMENTO DA DEMANDA DENTRO DO PRAZO LEGAL. PRESCRIÇÃO NÃO CONFIGURADA. SENTENÇA CASSADA. ERROR IN PROCEDENDO E IN JUDICANDO. CASSAÇÃO, DE OFÍCIO, DA DECISÃO QUE RECEBEU A INICIAL SOB RITO EQUIVOCADO. DETERMINAÇÃO DE CONVERSÃO DO RITO PARA O PROCEDIMENTO COMUM. RECURSO CONHECIDO E PROVIDO, COM PROVIDÊNCIA DE OFÍCIO. (TJPR - 19ª Câmara Cível - 0017912-98.2024.8.16.0017 - Maringá - Rel.: DESEMBARGADOR JOSCELITO GIOVANI CE - J. 09.06.2026)
+
+Assim, impõe-se a cassação da sentença, devendo autos retornar ao Juízo de origem para que seja examinado o pedido de conversão formulado no mov. 320.1/origem e seja dado o regular prosseguimento do feito.
+Em razão da cassação da sentença, restam prejudicadas as demais teses recursais.
+
+CONCLUSÃO:
+Diante do exposto, voto no sentido de conhecer e dar provimento ao recurso de apelação, para cassar a sentença e determinar o retorno dos autos ao Juízo de origem, a fim de que seja apreciado o pedido de conversão da ação de busca e apreensão em execução, formulado no mov. 320.1/origem, com o posterior prosseguimento do feito, ficando prejudicada a análise das demais teses recursais.
