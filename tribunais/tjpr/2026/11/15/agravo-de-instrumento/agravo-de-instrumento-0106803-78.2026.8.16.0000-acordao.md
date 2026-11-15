@@ -1,0 +1,84 @@
+Ementa: DIREITO CIVIL E DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO COM ALIENAÇÃO FIDUCIÁRIA. TUTELA PROVISÓRIA DE URGÊNCIA. JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO DEMONSTRADA EM COGNIÇÃO SUMÁRIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. VENDA CASADA DE SEGURO PRESTAMISTA. PREVISÃO CONTRATUAL EXPRESSA. AUSÊNCIA DE PROBABILIDADE DO DIREITO. DESCARACTERIZAÇÃO DA MORA. INSCRIÇÃO EM CADASTROS RESTRITIVOS. REQUISITOS CUMULATIVOS NÃO PREENCHIDOS. DEPÓSITO POR CONTA E RISCO DA AUTORA QUE NÃO ELIDE A MORA. RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto contra decisão que, em ação revisional de contrato de financiamento de veículo com garantia fiduciária, deferiu parcialmente a tutela provisória apenas para autorizar o depósito judicial do valor incontroverso, por conta e risco da autora, indeferindo os pedidos de descaracterização da mora, manutenção da posse do veículo e proibição de inscrição do nome da agravante em cadastros de proteção ao crédito. A agravante sustenta a abusividade dos juros remuneratórios (22,95% ao ano) frente à média de mercado divulgada pelo Banco Central, além de alegar venda casada de seguro prestamista.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se estão presentes os requisitos do art. 300 do Código de Processo Civil para, em sede de tutela provisória de urgência, reconhecer a abusividade dos encargos contratuais, descaracterizar a mora, autorizar o depósito das parcelas em valor unilateralmente indicado, manter a posse do bem alienado fiduciariamente e impedir a inscrição do nome da agravante em cadastros restritivos de crédito.
+III. RAZÕES DE DECIDIR
+3. A aferição da abusividade dos juros remuneratórios não decorre da simples comparação entre a taxa contratada e a média de mercado divulgada pelo Banco Central, devendo considerar as peculiaridades da operação de crédito e as circunstâncias concretas do caso, o que reclama dilação probatória incompatível com a cognição sumária própria da tutela recursal (REsp 1.061.530/RS).
+4. O cálculo apresentado pela agravante constitui documento produzido unilateralmente, ainda sujeito ao contraditório, insuficiente, neste momento processual, para demonstrar de plano a abusividade dos encargos pactuados.
+5. A contratação concomitante de seguro prestamista, expressamente prevista no instrumento contratual, não autoriza concluir, por si só e em cognição sumária, pela ocorrência de venda casada, dependendo a demonstração de imposição do produto de regular instrução probatória.
+6. Ausente demonstração inequívoca da abusividade dos encargos exigidos no período da normalidade contratual, não se descaracteriza a mora, tampouco se preenchem os requisitos cumulativos fixados pelo Superior Tribunal de Justiça para impedir a inscrição do devedor em cadastros restritivos de crédito, notadamente a aparência do bom direito fundada em jurisprudência consolidada.
+7. O depósito de valor unilateralmente reputado incontroverso, autorizado por conta e risco da autora, não elide a mora nem impede a adoção das medidas contratuais e legais cabíveis pela instituição financeira.
+IV. DISPOSITIVO E TESE
+8. Agravo de instrumento desprovido, mantendo-se a decisão que indeferiu o pedido de tutela provisória de urgência.
+Tese de julgamento:
+
+"Em ação revisional de contrato de financiamento de veículo, a alegação de abusividade dos juros remuneratórios fundada em simples cotejo com a média de mercado divulgada pelo Banco Central não evidencia, por si só, a probabilidade do direito exigida pelo art. 300 do CPC, dependendo de dilação probatória, de modo que não se descaracteriza a mora nem se impede a inscrição do devedor em cadastros restritivos quando ausentes os requisitos cumulativos fixados no REsp 1.061.530/RS."
+_________
+Dispositivos relevantes citados:
+ CPC, arts. 300, 373, I, 995, parágrafo único, e 1.019, I; CDC, arts. 6º, VIII, 39, V, 51, IV, e 51, § 1º, III; CC/2002, arts. 406 e 591.
+Jurisprudência relevante citada:
+ STF, Súmula 596; STJ, Súmula 297; STJ, REsp 1.061.530/RS, Rel. Min. Nancy Andrighi, 2ª Seção, j. 22.10.2008; TJPR, 19ª Câmara Cível, AC 0012963-48.2024.8.16.0173, Rel. Des. Joscelito Giovani Ce, j. 02.03.2026; TJPR, 19ª Câmara Cível, AC 0002493-04.2013.8.16.0056, Rel. Des. Belchior Soares da Silva, j. 16.03.2026; TJPR, 19ª Câmara Cível, AC 0002641-24.2023.8.16.0069, Rel. Des. Rotoli de Macedo, j. 29.07.2024.
+
+VISTOS, relatados e discutidos estes autos de Agravo de Instrumento n.º 0106803-78.2026.8.16.0000, oriundos da Vara Cível de Ampére, em que figura como agravante Belonice de Souza Toffoli, e como agravado Banco Safra S.A.
+
+I. RELATÓRIO
+
+Trata-se de agravo de instrumento, com pedido de atribuição de efeito suspensivo e de antecipação da tutela recursal, interposto por Belonice de Souza Toffoli contra a decisão proferida no mov. 10.1 pelo MM. Juiz de Direito da Vara Cível da Comarca de Ampére, nos autos da Ação Revisional de Contrato c/c Pedido de Tutela Provisória de Urgência nº 0001960-86.2026.8.16.0186, ajuizada em face de Banco Safra S.A., que deferiu parcialmente o pedido de tutela provisória apenas para autorizar a realização de depósito judicial do valor incontroverso, por exclusiva conta e risco da autora, indeferindo, contudo, os pedidos de descaracterização da mora, manutenção da posse do veículo e proibição de inscrição do nome da demandante em cadastros de proteção ao crédito.
+Em suas razões recursais (mov. 1.1), sustenta a agravante, em síntese, que: a) celebrou contrato de financiamento de veículo com o agravado, no qual foram pactuados juros remuneratórios no percentual de 22,95% ao ano, superiores à taxa média de mercado divulgada pelo Banco Central do Brasil, correspondente a aproximadamente 12,00% ao ano, circunstância que evidenciaria a abusividade dos encargos contratuais; b) houve cobrança de seguro prestamista mediante venda casada, impondo-lhe despesa indevida; c) o contrato contém cláusulas abusivas que autorizam sua revisão, bem como a limitação dos encargos remuneratórios; d) pretende realizar o depósito mensal do valor incontroverso de R$ 1.513,38, o que demonstraria sua boa-fé e afastaria a caracterização da mora; e) estão presentes os requisitos autorizadores da tutela de urgência, diante da probabilidade do direito invocado e do risco de sofrer medidas decorrentes da mora, como a perda da posse do veículo e a inscrição de seu nome em cadastros restritivos de crédito.
+Requer, assim, o recebimento do recurso com a concessão de efeito suspensivo e de tutela recursal, a fim de autorizar o depósito judicial do valor incontroverso com o afastamento da mora, assegurar a manutenção da posse do veículo, impedir a inscrição ou determinar a exclusão de seu nome dos cadastros de proteção ao crédito e, ao final, o provimento do recurso para reformar parcialmente a decisão agravada.
+O pedido de atribuição de efeito suspensivo e de antecipação da tutela recursal foi indeferido (mov. 8.1/AI).
+Regularmente intimado, o agravado apresentou contrarrazões (mov. 13.1), pugnando pelo desprovimento do recurso, ao argumento de que, caracterizada a mora e não demonstrada a abusividade dos encargos, é regular a inscrição do devedor nos órgãos de proteção ao crédito e incabível a manutenção da posse do bem, na esteira do REsp 1.061.530/RS.
+Na sequência, vieram os autos conclusos para julgamento.
+É o relatório.
+
+II. FUNDAMENTAÇÃO
+
+a) Da admissibilidade
+
+Presentes os pressupostos de admissibilidade extrínsecos e intrínsecos, conheço em definitivo do recurso.
+Inexistindo questões de ordem processual a serem consideradas, passo à análise do mérito recursal.
+
+b) Do mérito recursal
+
+A controvérsia devolvida a esta instância recursal cinge-se à verificação da presença, ou não, dos requisitos autorizadores da tutela provisória de urgência previstos no art. 300 do Código de Processo Civil, segundo o qual a medida será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Impõe-se destacar, desde logo, que não compete a este Tribunal, na presente fase processual e em cognição sumária, decidir definitivamente acerca da abusividade das cláusulas contratuais, matéria reservada ao julgamento da ação revisional após regular instrução probatória. Cabe apenas aferir se a solução adotada pelo Juízo singular se revelou adequada diante dos elementos atualmente disponíveis.
+Pois bem.
+Quanto aos juros remuneratórios, tanto a jurisprudência do Supremo Tribunal Federal quanto a do Superior Tribunal de Justiça é firme no sentido de que, salvo situações excepcionais, podem ser livremente pactuados nos contratos firmados com instituições financeiras, não se sujeitando aos limites do Decreto nº 22.626/1933 (Lei de Usura), a teor da Súmula 596 do STF. De igual modo, a estipulação de juros superiores a 12% ao ano não indica, por si só, abusividade.
+A liberdade de pactuação, todavia, não é indiscriminada, submetendo-se as instituições financeiras às normas do Código de Defesa do Consumidor (Súmula 297/STJ), entre as quais a vedação de imposição de vantagem manifestamente excessiva e de cláusulas que coloquem o consumidor em desvantagem exagerada (arts. 39, V, e 51, IV e § 1º, do CDC).
+Sucede que, conforme entendimento consolidado pelo Superior Tribunal de Justiça no julgamento do REsp nº 1.061.530/RS, submetido ao rito dos recursos repetitivos, a aferição da abusividade dos juros remuneratórios não decorre da simples comparação entre a taxa contratada e a taxa média divulgada pelo Banco Central, devendo considerar as peculiaridades da operação de crédito e as circunstâncias concretas do caso:
+
+(...) esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos.
+
+No caso dos autos, a agravante limita-se a apontar a discrepância entre a taxa pactuada (22,95% ao ano) e o percentual que reputa corresponder à média de mercado (aproximadamente 12,00% ao ano), sem, contudo, trazer elementos que, para além do mero cotejo aritmético, demonstrem a alegada abusividade à luz das peculiaridades da operação. Registre-se, ademais, que a taxa média divulgada pelo Banco Central não constitui teto autorizado de juros, mas referencial estatístico de mercado, de modo que a simples superação desse patamar não configura, por si só, onerosidade excessiva.
+Há, com efeito, inúmeras variáveis capazes de influenciar a fixação da taxa de juros - o risco da operação, o perfil do contratante e as características do financiamento -, circunstâncias que, no presente caso, ainda reclamam adequada dilação probatória para possibilitar a aferição da alegada abusividade, incompatível com a estreita cognição própria da tutela recursal.
+De igual modo, o cálculo apresentado pela agravante constitui documento produzido unilateralmente, que ainda deverá ser submetido ao contraditório, não se prestando, neste momento processual, a demonstrar, de plano, que os encargos remuneratórios pactuados extrapolam os limites admitidos pela jurisprudência ou que autorizariam a revisão contratual pretendida.
+Nessa mesma linha, este órgão fracionário tem reiteradamente afastado o reconhecimento de abusividade dos juros remuneratórios com base no simples cotejo entre a taxa contratada e a média de mercado, valorizando as circunstâncias concretas da operação, notadamente o risco a ela inerente:
+
+APELAÇÕES CÍVEIS. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. (...) INSURGÊNCIA QUANTO AOS JUROS REMUNERATÓRIOS. NÃO ACOLHIMENTO. ANÁLISE DA ABUSIVIDADE QUE DEVE CONSIDERAR AS TAXAS DE JUROS NOMINAL MENSAL E ANUAL ESTIPULADAS NO CONTRATO. (...) ONEROSIDADE EXCESSIVA NÃO CARACTERIZADA. HIGIDEZ DA SENTENÇA. RECURSO CONHECIDO E DESPROVIDO.
+
+(TJPR - 19ª Câmara Cível - 0012963-48.2024.8.16.0173 - Umuarama - Rel.: Des. Joscelito Giovani Ce - J. 02.03.2026)
+
+DIREITO CIVIL E DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO GARANTIDA POR ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. JUROS REMUNERATÓRIOS. (...) ABUSIVIDADE NÃO CONSTATADA. (...) A taxa de juros remuneratórios nos contratos não é abusiva (...) justificada pelo risco da operação com veículos antigos (...).
+
+(TJPR - 19ª Câmara Cível - 0002493-04.2013.8.16.0056 - Cambé - Rel.: Des. Belchior Soares da Silva - J. 16.03.2026)
+
+No tocante à alegada contratação de seguro prestamista mediante venda casada, igualmente não se verifica, neste juízo de cognição sumária, probabilidade suficiente do direito invocado. Conforme consignado pelo magistrado singular, o instrumento contratual prevê expressamente a contratação da cobertura securitária, de modo que a aferição acerca da eventual imposição do produto ou da existência de prática abusiva demanda dilação probatória. A simples contratação concomitante do seguro ao financiamento, por si só, não autoriza concluir pela ocorrência de venda casada, sendo indispensável a demonstração de que a aquisição foi efetivamente imposta ao consumidor como condição para a obtenção do crédito.
+No mesmo sentido, já decidiu esta 19ª Câmara Cível, rejeitando a alegação de venda casada quando o seguro foi objeto de contratação em apartado:
+
+RECURSO DE APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO. (...) PLEITO PELO RECONHECIMENTO DA VENDA CASADA DE SEGURO PRESTAMISTA E ASSISTÊNCIA SEGURADORA. INVIABILIDADE. TERMOS FIRMADOS EM APARTADO EM AMBOS OS CONTRATOS. REJEIÇÃO. PRECEDENTES DESTA CORTE. (...) RECURSO DE APELAÇÃO CÍVEL CONHECIDO E, NO MÉRITO, PARCIALMENTE PROVIDO.
+
+(TJPR - 19ª Câmara Cível - 0002641-24.2023.8.16.0069 - Cianorte - Rel.: Des. Rotoli de Macedo - J. 29.07.2024)
+
+Nesse contexto, também não se mostram presentes os requisitos para que a instituição financeira se abstenha de inscrever o nome da agravante nos órgãos de restrição ao crédito, matéria igualmente pacificada pelo Superior Tribunal de Justiça no julgamento do REsp nº 1.061.530/RS:
+
+ORIENTAÇÃO 4 - INSCRIÇÃO/MANUTENÇÃO EM CADASTRO DE INADIMPLENTES. a) A abstenção da inscrição/manutenção em cadastro de inadimplentes, requerida em antecipação de tutela e/ou medida cautelar, somente será deferida se, cumulativamente: i) a ação for fundada em questionamento integral ou parcial do débito; ii) houver demonstração de que a cobrança indevida se funda na aparência do bom direito e em jurisprudência consolidada do STF ou STJ; iii) houver depósito da parcela incontroversa ou for prestada a caução fixada conforme o prudente arbítrio do juiz; b) A inscrição/manutenção do nome do devedor em cadastro de inadimplentes decidida na sentença ou no acórdão observará o que for decidido no mérito do processo. Caracterizada a mora, correta a inscrição/manutenção.
+
+Como se vê, exige-se o preenchimento cumulativo de três condições. Na hipótese, embora satisfeito o primeiro requisito - existência de ação contestando o débito -, não se verifica o segundo, consistente na demonstração de que a impugnação se funda na aparência do bom direito e em jurisprudência consolidada do STF ou do STJ, precisamente porque, como acima exposto, a alegada abusividade dos encargos não se evidencia em cognição sumária.
+Pela mesma razão, não se descaracteriza a mora. A propósito, a Orientação 2 do referido recurso repetitivo estabelece que apenas o reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual descaracteriza a mora, não bastando o simples ajuizamento da ação revisional. Ausente, por ora, demonstração inequívoca de ilegalidade nos encargos do período de normalidade, subsiste a mora do devedor.
+Ressalte-se, ainda, que o Juízo de origem já autorizou o depósito judicial dos valores que a autora entende incontroversos, consignando, contudo, que tal depósito ocorre por sua exclusiva conta e risco, não sendo apto, por si só, a elidir a mora ou impedir a adoção das medidas contratuais e legais cabíveis pela instituição financeira. Com efeito, o depósito de valor unilateralmente reputado incontroverso, inferior ao pactuado, não afasta os encargos contratuais nem obsta o exercício regular do direito do credor.
+Dessa forma, ausente, neste momento processual, a probabilidade do direito invocado e, por consequência, os pressupostos autorizadores da tutela de urgência, não há relevância suficiente nos argumentos recursais que justifique a reforma da decisão agravada.
+
+Isto posto:
+
+Diante do exposto, voto pelo CONHECIMENTO e DESPROVIMENTO do agravo de instrumento, mantendo-se a decisão agravada que indeferiu o pedido de tutela provisória de urgência, nos termos da fundamentação supra.
