@@ -1,0 +1,131 @@
+Poder Judiciário
+
+Tribunal de Justiça do Estado de São Paulo
+
+Gab. 04 - 30ª Câmara de Direito Privado
+
+Praça João Mendes, S/Nº - Bairro: Centro - CEP: 01018-010 - Fone: - - https://www.tjsp.jus.br/ - Email: -
+
+Agravo de Instrumento Nº 4123545-34.2026.8.26.0000/SP
+
+RELATOR: Desembargador RICARDO BRAGA MONTE SERRAT
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento interposto em face da decisão (evento 8 da origem), que, nos autos de ação de cobrança de indenização securitária cumulada com indenização por danos morais, concedeu de ofício tutela de urgência.
+
+Sustenta a agravante, em síntese, que os agravados não formularam pedido de tutela provisória na petição inicial, de modo que as providências concedidas de ofício violam os arts. 2º, 141 e 492 do Código de Processo Civil. Alega também ausência dos requisitos do art. 300 do mesmo diploma, controvérsia acerca da própria cobertura securitária, inexistência de risco de insolvência ou dissipação patrimonial e caráter satisfativo e de difícil reversão da obrigação de fornecimento de veículo substituto. Requer a anulação ou a reforma do capítulo que concedeu as medidas de urgência.
+
+Recurso tempestivo, preparado (evento 3) e processado sem efeito suspensivo (evento 6).
+
+VOTO
+
+O recurso comporta provimento.
+
+A controvérsia pode ser solucionada pela análise da regularidade processual da tutela provisória concedida.
+
+Com efeito, a leitura integral da petição inicial demonstra que os autores não formularam pedido de tutela de urgência.
+
+Os requerimentos apresentados restringem-se à prioridade na tramitação, à citação da ré, à aplicação do Código de Defesa do Consumidor, à inversão do ônus da prova e, no mérito, à condenação da seguradora ao pagamento de R$ 38.093,00, a título de indenização securitária, e de R$ 10.000,00, por danos morais.
+
+Não há pedido de constrição cautelar de ativos financeiros, fornecimento de veículo substituto ou qualquer outra providência provisória destinada à antecipação ou à proteção do resultado final da demanda.
+
+Apesar desse fato, o juízo de origem concedeu, de ofício, duas medidas não submetidas à apreciação judicial pelos autores: o bloqueio de R$ 38.093,00 em ativos financeiros da seguradora e a disponibilização de veículo semelhante durante a tramitação do processo.
+
+O procedimento adotado não pode ser acolhido.
+
+Nos termos do art. 2º do Código de Processo Civil, o processo começa por iniciativa da parte e se desenvolve por impulso oficial, ressalvadas as exceções previstas em lei.
+
+No caso em tela, não há disposição legal específica que autorize a concessão de ofício das medidas determinadas.
+
+Os arts. 141 e 492 do Código de Processo Civil impõem ao órgão jurisdicional a observância dos limites objetivos da demanda e vedam a concessão de provimento de natureza diversa ou relativo a objeto não requerido.
+
+Assim, o vício não se refere apenas à eventual ausência dos requisitos previstos no art. 300 do Código de Processo Civil, mas à própria impossibilidade de concessão das medidas sem provocação dos interessados.
+
+Reconhecida a invalidade processual do capítulo recorrido, fica prejudicado o exame das alegações relativas à probabilidade do direito, à existência de perigo de dano, à devolução superveniente do automóvel, à substituição do bloqueio por seguro-garantia e ao valor da multa cominatória.
+
+Cumpre esclarecer que a anulação fica restrita ao capítulo que concedeu a tutela de urgência. Permanecem hígidos os demais comandos da decisão, inclusive aqueles relativos à prioridade processual, à citação da ré e ao regular prosseguimento da demanda.
+
+Posto isso, voto por dar provimento ao recurso para anular o capítulo da decisão agravada que concedeu tutela de urgência.
+
+Documento eletrônico assinado por RICARDO BRAGA MONTE SERRAT, Desembargador Relator, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc2g.tjsp.jus.br/eproc/verifica.php, mediante o preenchimento do código verificador 610000720929v2 e do código CRC 0f09c72b.
+
+Informações adicionais da assinatura:
+Signatário (a): RICARDO BRAGA MONTE SERRAT
+Data e Hora: 18/11/2026, às 17:56:26
+
+4123545-34.2026.8.26.0000
+
+610000720929
+.V2
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Tribunal de Justiça do Estado de São Paulo
+
+Gab. 04 - 30ª Câmara de Direito Privado
+
+Praça João Mendes, S/Nº - Bairro: Centro - CEP: 01018-010 - Fone: - - https://www.tjsp.jus.br/ - Email: -
+
+Agravo de Instrumento Nº 4123545-34.2026.8.26.0000/SP
+
+RELATOR: Desembargador RICARDO BRAGA MONTE SERRAT
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO – AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS – DECISÃO QUE, DE OFÍCIO, CONCEDEU TUTELA DE URGÊNCIA PARA DETERMINAR A CONSTRIÇÃO CAUTELAR DE ATIVOS FINANCEIROS DA SEGURADORA – PETIÇÃO INICIAL QUE NÃO CONTÉM PEDIDO DE TUTELA PROVISÓRIA, SEJA PARA BLOQUEIO DE VALORES, SEJA PARA DISPONIBILIZAÇÃO DE VEÍCULO SUBSTITUTO – TUTELA PROVISÓRIA QUE DEPENDE DE REQUERIMENTO DA PARTE – VIOLAÇÃO AOS PRINCÍPIOS DA DEMANDA, DA CONGRUÊNCIA E DA ADSTRIÇÃO – ARTS. 141 E 492 DO CPC – NULIDADE PARCIAL DO PRONUNCIAMENTO – DESNECESSIDADE DE EXAME DOS REQUISITOS MATERIAIS DO ART. 300 DO CPC – RECURSO PROVIDO PARA ANULAR EXCLUSIVAMENTE O CAPÍTULO QUE CONCEDEU A TUTELA DE URGÊNCIA.
+
+ACÓRDÃO
+
+Vistos e relatados estes autos em que são partes as acima indicadas, a Egrégia 30ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo decidiu, por unanimidade, dar provimento ao recurso para anular o capítulo da decisão agravada que concedeu tutela de urgência, nos termos do relatório, votos e notas de julgamento que ficam fazendo parte integrante do presente julgado.
+
+São Paulo, 16 de novembro de 2026.
+
+Documento eletrônico assinado por RICARDO BRAGA MONTE SERRAT, Desembargador Relator, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc2g.tjsp.jus.br/eproc/verifica.php, mediante o preenchimento do código verificador 610000720930v3 e do código CRC 1567bf49.
+
+Informações adicionais da assinatura:
+Signatário (a): RICARDO BRAGA MONTE SERRAT
+Data e Hora: 18/11/2026, às 17:56:26
+
+4123545-34.2026.8.26.0000
+
+610000720930
+.V3
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Tribunal de Justiça do Estado de São Paulo
+
+EXTRATO DE ATA DA SESSÃO VIRTUAL – RESOLUÇÃO CNJ 591/24 DE 05/11/2026 A 12/11/2026
+
+Agravo de Instrumento Nº 4123545-34.2026.8.26.0000/SP
+
+RELATOR: Desembargador RICARDO BRAGA MONTE SERRAT
+
+PRESIDENTE: Desembargador RICARDO BRAGA MONTE SERRAT
+
+PROCURADOR(A): LAURO LUIZ GOMES RIBEIRO
+
+Certifico que este processo foi incluído na Pauta da Sessão Virtual – Resolução CNJ 591/24, realizada no período de 05/11/2026, às 00:00, a 12/11/2026, às 23:59, na sequência 165, disponibilizada no DE de 22/10/2026.
+
+Certifico que a 30ª Câmara de Direito Privado, ao apreciar os autos do processo em epígrafe, proferiu a seguinte decisão:
+
+A 30ª CÂMARA DE DIREITO PRIVADO DECIDIU, POR UNANIMIDADE, DAR PROVIMENTO AO RECURSO PARA ANULAR O CAPÍTULO DA DECISÃO AGRAVADA QUE CONCEDEU TUTELA DE URGÊNCIA.
+
+RELATOR DO ACÓRDÃO: Desembargador RICARDO BRAGA MONTE SERRAT
+
+Votante: Desembargador RICARDO BRAGA MONTE SERRAT
+
+Votante: Desembargador PAULO GIMENES ALONSO
+
+Votante: Desembargador CARLOS ALBERTO RUSSO
+
+FABIANA ALBERTI DE MORAIS
+
+Secretária
+
+Identificações de pessoas físicas foram ocultadas
