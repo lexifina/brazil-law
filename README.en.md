@@ -62,6 +62,7 @@ Each change is credited to the act Planalto's note beside it names ("Redação d
 - The text in force today of the Constitution and the codes is compared with Planalto's consolidated page, unit by unit. For the Constitution, 392 of 414 units were identical on 28 October 2026, and the other 22 differ only where Planalto's two pages are typeset differently; every difference is listed in `REPRODUCE.md`.
 - No merge commits on `main`, no commit dates that go backwards, nothing dated after the build, and every commit's trailers parse.
 - History is append-only: new acts and versions are added on top (`tools/append.py`), and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Brazilian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

@@ -62,6 +62,7 @@ Cada alteração é atribuída ao ato que a nota do Planalto ao lado dela indica
 - O texto vigente hoje da Constituição e dos códigos é comparado com a página compilada do Planalto, unidade por unidade. Na Constituição, 392 de 414 unidades eram idênticas em 28 de outubro de 2026, e as outras 22 só diferem onde as duas páginas do Planalto têm composição tipográfica diferente; todas as diferenças estão listadas em `REPRODUCE.md`.
 - Nenhum commit de merge no `main`, nenhuma data de commit que volte para trás, nada datado depois do build, e os trailers de todos os commits são legíveis.
 - O histórico só recebe acréscimos: novos atos e versões são adicionados por cima (`tools/append.py`), e nenhum commit publicado é reescrito.
+- [vulnerabilities/](vulnerabilities/): possíveis erros de técnica legislativa no direito brasileiro, encontrados pelos detectores do global-law e verificados à mão.
 
 ## O que não mostra
 
