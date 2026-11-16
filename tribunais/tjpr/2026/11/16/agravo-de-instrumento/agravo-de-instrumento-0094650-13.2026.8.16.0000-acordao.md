@@ -1,0 +1,148 @@
+AGRAVO DE INSTRUMENTO. ASSISTÊNCIA JUDICIÁRIA GRATUITA E EXIBIÇÃO DE DOCUMENTOS CONTÁBEIS E FISCAIS EM DISSOLUÇÃO PARCIAL DE SOCIEDADE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+
+I. CASO EM EXAME
+
+1. Agravo de instrumento interposto contra decisão que indeferiu o pedido de assistência judiciária gratuita formulado por sociedade empresária e espólio, e determinou a exibição de documentos contábeis e fiscais sob pena de busca e apreensão ou presunção de veracidade, em ação de dissolução parcial de sociedade cumulada com apuração de haveres. Os agravantes alegam ausência de oportunidade para comprovação da insuficiência econômica e negativa de posse dos documentos exigidos, questionando a abrangência e as consequências da ordem de exibição determinada pelo juízo de origem.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. A questão em discussão consiste em saber se é correta a decisão que indeferiu o pedido de assistência judiciária gratuita sem oportunizar a comprovação da hipossuficiência econômica e se é adequada a determinação de exibição de documentos contábeis e fiscais sob pena de busca e apreensão ou presunção de veracidade, sem prévia análise da posse e disponibilidade desses documentos pelos agravantes.
+
+III. RAZÕES DE DECIDIR
+
+3. O indeferimento da assistência judiciária gratuita ocorreu sem oportunizar aos agravantes a apresentação de documentos para comprovar a insuficiência de recursos, contrariando o art. 99, § 2º, do CPC, que exige prévia intimação para tal comprovação.
+
+4. As situações econômico-financeiras do espólio e da sociedade empresária devem ser analisadas separadamente, pois são distintas, e os documentos apresentados não são suficientes para concessão definitiva da gratuidade.
+
+5. A ordem de exibição de documentos contábeis e fiscais deve ser delimitada aos períodos controvertidos da demanda (entre 2003/2004 e 2023) e aos documentos pertinentes à perícia, evitando exigência genérica e indeterminada.
+
+6. Em caso de negativa de posse dos documentos, deve ser observado o procedimento do art. 398, parágrafo único, do CPC, permitindo ao requerente provar que a declaração de inexistência não corresponde à verdade antes da imposição de medidas coercitivas.
+
+7. A cominação imediata de busca e apreensão ou presunção de veracidade é prematura, devendo essas medidas ser aplicadas somente após contraditório e reconhecimento de descumprimento injustificado da ordem judicial.
+
+IV. DISPOSITIVO E TESE
+
+8. Agravo de instrumento conhecido e parcialmente provido para: a) cassar o indeferimento da assistência judiciária gratuita, determinando a intimação dos agravantes para comprovação individualizada de suas situações econômico-financeiras e nova análise do pedido pelo juízo de origem; b) reformar a determinação de exibição de documentos contábeis e fiscais, limitando-a aos documentos relacionados aos pontos controvertidos da demanda e ao período entre 2003/2004 e 2023, com apresentação dos documentos sob posse ou disponibilidade dos agravantes e justificativa específica para a impossibilidade de apresentação dos demais, observando-se o procedimento do art. 398, parágrafo único, do CPC, e condicionando medidas coercitivas ou consequências probatórias ao prévio contraditório e reconhecimento de descumprimento injustificado.
+
+Tese de julgamento: O indeferimento do pedido de assistência judiciária gratuita deve ser precedido de intimação para que a parte comprove sua insuficiência econômica, e a ordem de exibição de documentos deve ser delimitada quanto ao período e especificidade, cabendo ao requerido declarar a posse ou ausência dos documentos, com possibilidade de contraditório antes da imposição de medidas coercitivas.
+
+I - Relatório
+Trata-se de Agravo de Instrumento com Pedido de Efeito Suspensivo interposto por Demétrio Transportes Rodoviários Ltda e Espólio de Dirceu Pinzon, em face da decisão de mov. 66.1, proferida em ação de dissolução parcial de sociedade c/c apuração de haveres de nº 0004948-47.2025.8.16.0079, pela qual o juízo a quo indeferiu o benefício da assistência judiciária gratuita aos réus e determinou a exibição, no prazo de 20 (vinte) dias, dos documentos contábeis e fiscais em seu poder, sob pena de busca e apreensão ou presunção de veracidade dos fatos que se pretendia provar.
+
+“3. ASSISTÊNCIA JUDICIÁRIA GRATUITA
+
+O Espólio de Dirceu Pinzon pleiteou os benefícios da gratuidade da justiça (mov. 49.1). O autor impugnou o pedido (mov. 55.1).
+Compulsando os autos, verifico que o réu não colacionou documentos aptos a comprovar a hipossuficiência do acervo hereditário, limitando-se a apresentar declaração de pobreza. Considerando que o espólio discute patrimônio imobiliário em ações conexas (mov. 49.5), INDEFIRO o benefício da AJG aos réus.
+[...]
+8. EXIBIÇÃO DE DOCUMENTOS
+
+Determino que a parte ré exiba, no prazo de 20 dias, os documentos contábeis e fiscais em seu poder (balancetes, extratos e declarações de IRPJ), sob pena de busca e apreensão ou presunção de veracidade quanto aos fatos que se pretendia provar, observada a pertinência com o período a ser periciado.”
+
+Inconformados os Agravantes interpuseram o presente Agravo de Instrumento com Pedido de Efeito Suspensivo (mov. 1.2 - TJPR).
+Em suas razões, os agravantes sustentam, inicialmente, que o indeferimento da gratuidade da justiça ocorreu em violação ao art. 99, § 2º, do PC, uma vez que não lhes foi oportunizada, previamente, a apresentação de documentação destinada a comprovar a alegada insuficiência de recursos. Argumentam que a ausência de documentos comprobatórios, utilizada como fundamento para o indeferimento, deveria ter ensejado a prévia intimação para complementação da prova, e não a imediata rejeição do benefício.
+
+Acrescentam que a existência de patrimônio imobiliário objeto de discussão em ações conexas não seria suficiente para demonstrar a liquidez do espólio ou sua capacidade de suportar os encargos processuais, especialmente porque não se teria demonstrado que os referidos bens integram definitivamente o acervo, encontram-se livres de gravames ou possuem liquidez imediata. Alegam, ainda, inexistir exame individualizado da situação econômico-financeira dos recorrentes, pois a fundamentação da decisão teria se restringido ao patrimônio do Espólio de Dirceu Pinzon, sem análise específica das condições da sociedade empresária Demétrio Transportes Rodoviários Ltda.
+Quanto à determinação de exibição de documentos, afirmam que, já na contestação, declararam expressamente não possuir a documentação solicitada, esclarecendo que o Espólio não exerceria a administração corrente da pessoa jurídica, não teria recebido a guarda dos arquivos empresariais e não possuiria acesso irrestrito aos documentos bancários, fiscais e contábeis, cuja obtenção dependeria, em parte, de contador, instituições financeiras, Receita Federal ou terceiros.
+
+Defendem, nesse contexto, que a negativa de posse deveria ter ensejado a observância do procedimento previsto no art. 398, parágrafo único, do CPC, incumbindo ao agravado demonstrar que a declaração de inexistência ou ausência de posse dos documentos não corresponde à verdade, antes da imposição de consequências processuais pelo descumprimento da ordem.
+Aduzem que, após a decisão recorrida, a inventariante realizou diligências perante o escritório A. S. de Aguiar – Contabilidade Ltda., tendo este informado que passou a prestar serviços à sociedade em 1º/02/2019 e que, desde então, a empresa permaneceu sem movimentação operacional, financeira e econômica, bem como que não detém a guarda ou responsabilidade por documentos contábeis ou fiscais anteriores à referida data. Asseveram que as DCTFs relativas aos anos de 2019 a 2024 corroborariam tais informações, indicando a pessoa jurídica como inativa e sem débitos e, ainda, apontando o próprio agravado, DENARCI PINZON, como representante da sociedade perante a Receita Federal durante o período. Segundo os recorrentes, tais elementos reforçariam a negativa de posse dos documentos e afastariam a presunção de que a documentação empresarial estivesse sob domínio exclusivo do falecido ou da inventariante.
+Sustentam, ainda, ser prematura a cominação de busca e apreensão ou presunção de veracidade, porquanto as consequências previstas no art. 400 do CPC pressuporiam a ausência de exibição ou de declaração no prazo legal, ou o reconhecimento de recusa ilegítima, circunstâncias que, segundo afirmam, não se verificariam no caso, diante da expressa e justificada negativa de posse. Alegam também existir contradição entre a determinação de exibição e a distribuição do ônus da prova realizada na própria decisão saneadora, pois, embora atribuído ao autor o ônus de provar a alegada administração exclusiva exercida pelo falecido e a existência de haveres positivos, teria sido imposto aos réus o dever de produzir documentos destinados justamente à comprovação dos fatos constitutivos alegados pelo demandante.
+Defendem, ademais, que a ordem de exibição seria genérica e temporalmente indeterminada, ao mencionar “balancetes, extratos e declarações de IRPJ” sem especificar exercícios, contas, instituições financeiras ou documentos determinados, remetendo apenas ao “período a ser periciado”, embora a própria data da ruptura societária, se ocorrida em 2003/2004 ou em 2023, permaneça controvertida. Em razão disso, postulam que, caso mantida alguma determinação de exibição, ela seja restrita aos documentos especificamente individualizados e cuja existência e posse pelos agravantes estejam efetivamente demonstradas, admitindo-se a requisição direta a terceiros quando pertinente.
+Em sede de tutela recursal, os agravantes requerem a suspensão imediata da eficácia do item 8 da decisão agravada, inclusive do prazo de 20 (vinte) dias concedido para exibição dos documentos e de qualquer medida de busca e apreensão e de presunção de veracidade. Sustentam estarem presentes a probabilidade de provimento do recurso e o perigo de dano, decorrente da possibilidade de imposição de consequências processuais por obrigação que reputam materialmente impossível de ser cumprida. Requerem, igualmente, a suspensão da exigibilidade do preparo, das custas e das despesas processuais até o julgamento do recurso ou até que seja proferida nova decisão acerca da gratuidade após a oportunidade de comprovação da situação econômico-financeira dos recorrentes.
+
+Ao final, pugnam pelo provimento do recurso para cassar o item 3 da decisão agravada, determinando-se a prévia intimação do Espólio e da sociedade empresária para apresentação de documentos comprobatórios de suas respectivas situações econômico-financeiras, para fins de análise específica da gratuidade da justiça. Subsidiariamente, requerem a concessão do benefício com base nos documentos apresentados no recurso ou, sucessivamente, a concessão parcial, o parcelamento ou a postergação das custas.
+
+Pretendem, ainda, a reforma do item 8, para reconhecer que, diante da negativa de posse dos documentos, compete ao agravado demonstrar a inveracidade da declaração, afastando-se, até então, a busca e apreensão, a presunção de veracidade e outras medidas coercitivas. Subsidiariamente, requerem que eventual ordem de exibição seja delimitada a documentos específicos, relativos a período determinado e cuja posse ou disponibilidade pelos agravantes esteja concretamente demonstrada.
+Em análise perfunctória, o Desembargador Substituto Ronaldo Sansone Guerra deferiu o pedido liminar de efeito suspensivo (mov. 8.1 -TJPR).
+O agravado apresentou contrarrazões, pugnando pelo desprovimento do recurso, com a manutenção integral da decisão agravada (mov. 14.1).
+Após os autos vieram conclusos.
+É o relatório.
+
+II – Fundamentação
+Presentes os pressupostos de admissibilidade recursal, tanto os intrínsecos (cabimento, legitimação e interesse em recorrer), como os extrínsecos (tempestividade, regularidade formal, inexistência de fato impeditivo ou extintivo do poder de recorrer e preparo), impõe-se o conhecimento do presente recurso.
+Cuida-se de Agravo de Instrumento interposto contra decisão proferida em autos de dissolução parcial de sociedade c/c apuração de haveres (mov. 66.1 - autos de origem), em que o juízo de origem indeferiu o pedido de justiça gratuita formulado pelos réus, ora agravantes, bem como determinou a exibição de documentos contábeis e fiscais sob pena de busca e apreensão ou presunção de veracidade dos fatos que se pretendia provar.
+O cerne da controvérsia reside em verificar: i) a validade da decisão proferida pelo juízo a quo que indeferiu o pedido de assistência judiciária gratuita, assim como a possibilidade de concessão da benesse neste grau de jurisdição; ii) a possibilidade de determinar a exibição dos documentos sob pena de busca e apreensão ou presunção de veracidade.
+Pois bem.
+i) Gratuidade da justiça
+Neste ponto, assiste parcial razão aos agravantes.
+Conforme se extrai dos autos, o juízo de origem indeferiu a benesse sob o fundamento de que o espólio não teria juntado aos autos documentação apta a comprovar a hipossuficiência do acervo hereditário, limitando-se a declaração de pobreza, e de que discutia patrimônio imobiliário em demandas relacionadas (mov. 66.1).
+
+Embora a fundamentação da decisão agravada tenha se referido especificamente ao Espólio, o dispositivo indeferiu a assistência judiciária gratuita "aos réus", alcançando também a pessoa jurídica Demétrio Transportes Rodoviários Ltda.
+
+O procedimento adequado para a análise do pedido está previsto no art. 99 do CPC, o qual prevê, em seu § 2º, que a benesse só poderá ser indeferida após determinação de que a parte comprove o preenchimento dos seus pressupostos, qual seja a insuficiência de recursos:
+
+“Art. 99. O pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso.
+
+[...]
+
+§ 2º O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos.” - grifei
+
+Assim, o dispositivo legal é expresso ao impor a prévia intimação da parte para comprovar sua alegada insuficiência econômica antes da rejeição do benefício.
+Todavia, no caso dos autos, o juízo a quo indeferiu o pedido de concessão da benesse sem ao menos ter oportunizado à parte prazo para que juntasse aos autos documentos comprobatórios da hipossuficiência alegada, ao mero fundamento de que “o réu não colacionou documentos aptos a comprovar a hipossuficiência do acervo hereditário, limitando-se a apresentar declaração de pobreza”. Por mais que, de fato, a declaração de hipossuficiência não tenha presunção absoluta de incapacidade, o juízo de origem deveria ter ao menos intimado a parte para fins de comprovação do alegado, conforme dispõe o art. 99, § 2º, do CPC, o que não ocorreu.
+O pedido de concessão da justiça gratuita foi formulado ao mov. 49.1, e o juiz já o indeferiu ao mov. 66.1, sem oportunizar à parte que comprovasse e juntasse os documentos cabíveis para tal.
+A propósito, o Superior Tribunal de Justiça possui entendimento consolidado no sentido de que o pedido de gratuidade somente pode ser rejeitado após oportunizada à parte a comprovação dos requisitos legais exigidos para sua concessão:
+
+“2. O pedido de gratuidade de justiça somente poderá ser negado se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão do benefício. Antes do indeferimento, o juiz deve determinar que a parte comprove a alegada hipossuficiência (art. 99, § 2º, do CPC/2015). (REsp n. 2.241.508/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/12 /2025, DJEN de 18/12/2025.)” - grifei
+
+“6. A declaração de hipossuficiência econômica apresentada por pessoa natural possui presunção relativa de veracidade. O art. 99, § 2º, do CPC estabelece que o magistrado poderá indeferir o pedido de gratuidade, caso existam nos autos elementos de prova que evidenciem a falta dos pressupostos legais para a sua concessão. Em todo caso, faz-se necessário que o juiz, antes de indeferir o pedido, intime a parte requerente a comprovar o preenchimento dos requisitos à obtenção da justiça gratuita. 7. [...] Mesmo que existam nos autos elementos de prova que, em princípio, conduziriam ao indeferimento do pedido de gratuidade, deve o magistrado intimar a parte requerente a comprovar a condição de hipossuficiência econômica com base nas circunstâncias do caso concreto. (REsp n. 1.988.686/RJ, relator Ministro Og Fernandes, Corte Especial, julgado em 17/9/2025, DJEN de 18/3/2026.)” - grifei
+
+No caso concreto, considerando que o pedido foi indeferido sem a prévia oportunidade de comprovação prevista no art. 99, § 2º, do CPC, configura-se error in procedendo apto a ensejar a cassação da decisão neste ponto, a fim de que seja observado o procedimento previsto na legislação processual civil
+Também merece destaque que as situações econômico-financeiras dos dois requerentes devem ser examinadas separadamente, pois o patrimônio e a capacidade financeira do espólio não se confundem com aqueles da sociedade empresária.
+De outro lado, não se mostra possível conceder definitivamente a gratuidade nesta instância. Os documentos apresentados com o recurso não permitem aferir, com segurança, a situação econômico-financeira de ambos os agravantes.
+
+Especificamente quanto à pessoa jurídica, o Superior Tribunal de Justiça, no julgamento do Tema 1.424, firmou o seguinte entendimento:
+
+“A demonstração da hipossuficiência econômico-financeira da pessoa jurídica, para fins de obtenção de gratuidade de justiça, reclama esclarecimentos sobre a sua situação financeira e patrimonial - com a indicação do seu ativo, passivo, patrimônio líquido, resultado do exercício, fluxo de caixa, participações societárias, saldos e aplicações em contas bancárias -, o que não se concretiza com a mera prova de inatividade ou de queda de faturamento.”
+
+Assim, embora a parte agravante tenha juntado aos autos Declaração de Débitos e Créditos Tributários Federais dos anos de 2019 a 2024, esses não são suficientes, isoladamente, para autorizar a concessão definitiva da benesse à sociedade, especialmente pelo fato de não especificarem a situação econômico-financeira da pessoa jurídica, mostrando-se mais adequado que a documentação seja complementada e apreciada pelo juízo de origem. Quanto ao espólio de Dirceu Pinzon, igualmente não há, nos elementos apresentados com o recurso, documentação suficiente para aferir integralmente a composição do acervo hereditário, suas obrigações e sua disponibilidade financeira.
+Desse modo, impõe-se a cassação do item 3 da decisão agravada (mov. 66.1), para que o Espólio e a sociedade empresária sejam previamente intimados a comprovar, separadamente, suas respectivas situações econômico-financeiras, seguindo-se nova apreciação individualizada e fundamentada pelo Juízo de origem.
+
+ii) Exibição de documentos contábeis e fiscais
+O recurso também comporta parcial provimento neste ponto.
+O item 8 da decisão agravada determinou a apresentação, em vinte dias, dos documentos contábeis e fiscais em poder dos réus, especificamente balancetes, extratos e declarações de IRPJ, sob pena de busca e apreensão ou presunção de veracidade, observada a pertinência com o período a ser periciado (mov. 66.1).
+
+Os agravantes sustentam que, desde a contestação, afirmam não possuir a documentação requerida, cuja guarda ou obtenção dependeria, conforme o caso, de contador, instituições financeiras ou terceiros. Alegam que, diante da negativa de posse, deveria ter sido observado o procedimento do art. 398, parágrafo único, do CPC, antes da aplicação das consequências estabelecidas no art. 400 do mesmo diploma.
+Defendem, ainda, que a ordem de exibição seria genérica e temporalmente indeterminada, por não individualizar adequadamente os documentos nem o período a que se referem, além de ser prematura a cominação de busca e apreensão ou presunção de veracidade diante da alegada impossibilidade de cumprimento.
+Pois bem.
+
+De início, não se questiona a pertinência da exibição da documentação contábil e fiscal para a solução da demanda. Tratando-se de ação de dissolução parcial de sociedade cumulada com apuração de haveres, os registros que retratam a situação patrimonial da pessoa jurídica constituem elementos relevantes para a apuração pericial determinada pelo juízo de origem.
+Também merece destaque, nesse contexto, a referência feita pelo agravado ao art. 420 do CPC, segundo o qual o magistrado pode ordenar, a requerimento da parte, a exibição integral dos livros empresariais e documentos do arquivo, dentre outras hipóteses, na liquidação da sociedade e na sucessão por morte de sócio.
+A incidência dessa disposição, contudo, não afasta a necessidade de individualização dos documentos a serem exibidos, nem permite presumir automaticamente a posse ou a disponibilidade de documento quando tal circunstância é controvertida.
+Na hipótese, conforme relatado, os agravantes afirmam não deter a guarda ou disponibilidade de parcela relevante dos documentos pretendidos. Apresentaram, ainda, declaração do escritório A. S. de Aguiar – Contabilidade Ltda (mov. 1.9 - AI), segundo a qual a sociedade passou a integrar sua carteira em 1º de fevereiro de 2019 e, desde então, “permaneceu sem movimentação operacional, financeira e econômica, não havendo registro de faturamento, compras, movimentações fiscais ou demais fatos contábeis decorrentes de atividade empresarial”.
+O mesmo documento informa que eventuais livros contábeis, documentos fiscais, movimentações financeiras, demonstrativos patrimoniais e demais informações anteriores àquela data não foram elaborados pelo referido escritório nem recebidos para guarda, atribuindo-os aos administradores ou responsáveis anteriores (mov. 1.9).
+
+Foram apresentadas, ainda, Declaração de Débitos e Créditos Tributários Federais dos anos de 2019 a 2024 nas quais a sociedade aparece como inativa (movs. 1.3 a 1.8 - AI).
+Tais elementos não autorizam concluir, desde logo, pela inexistência dos documentos ou pela impossibilidade absoluta de sua obtenção, notadamente porque parte da documentação fiscal foi apresentada no recurso. São suficientes, entretanto, para tornar controvertida a posse ou disponibilidade de parte dos documentos.
+Nessa hipótese, incide o art. 398, parágrafo único, do CPC, o qual dispõe a respeito da exibição de documento ou coisa, in verbis:
+
+“Art. 398. O requerido dará sua resposta nos 5 (cinco) dias subsequentes à sua intimação.
+
+Parágrafo único. Se o requerido afirmar que não possui o documento ou a coisa, o juiz permitirá que o requerente prove, por qualquer meio, que a declaração não corresponde à verdade.” - grifei
+
+O dispositivo é expresso ao prever que, se o requerido afirmar que não possui o documento ou a coisa, deverá ser permitido ao requerente demonstrar que a declaração não corresponde à verdade.
+
+A decisão agravada, contudo, determinou de forma imediata a exibição, sob pena de “busca e apreensão ou presunção de veracidade”, sem que houvesse prévia análise das justificativas apresentadas pelos requeridos.
+A necessidade dessa cautela é reforçada pelo Tema 1.000 do Superior Tribunal de Justiça, o qual versa especificamente sobre a possibilidade de cominação de multa coercitiva para a exibição de documento requerida contra a parte adversa. Veja-se:
+
+“Desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercitiva, determinar sua exibição sob pena de multa com base no art. 400, parágrafo único, do CPC/2015.”
+
+Embora o precedente tenha objeto específico, relacionado à cominação de astreintes em exibição documental contra a parte adversa, sua ratio decidendi evidencia a necessidade de contraditório prévio e de análise da probabilidade da existência do documento antes da adoção das respectivas medidas coercitivas.
+Portanto, a tese repetitiva reforça a necessidade de contraditório e de prévia apreciação da probabilidade de existência e disponibilidade do documento antes da adoção de medidas coercitivas.
+Há, ainda, particularidade quanto à delimitação temporal da ordem de exibição.
+
+ Conforme estabelecido na própria decisão agravada (mov. 66.1), constitui ponto controvertido a data efetiva da ruptura do vínculo societário, sustentando os réus que ela teria ocorrido em 2003/2004, enquanto o autor aponta para 2023. A mesma decisão deferiu a realização de perícia contábil destinada ao levantamento do balanço de determinação e à apuração de haveres.
+Nesse contexto, embora a decisão agravada tenha determinado a apresentação dos documentos contábeis e fiscais pertinentes ao “período a ser periciado”, sem estabelecer expressamente os respectivos marcos inicial e final, os próprios pontos controvertidos fixados no saneamento fornecem elementos suficientes para a delimitação temporal dos documentos a serem exibidos.
+Com efeito, se a controvérsia que será objeto da instrução e da perícia consiste justamente em definir se a ruptura societária ocorreu em 2003/2004 ou apenas em 2023, mostra-se pertinente que a documentação destinada a subsidiar a prova pericial compreenda o intervalo abrangido por esses períodos. A restrição da exibição a momento posterior à prévia definição da data efetiva da ruptura poderia, inclusive, esvaziar a própria utilidade da prova, uma vez que a documentação referente ao período controvertido poderá contribuir para o esclarecimento dessa questão.
+Assim, em observância aos princípios da celeridade e da economia processual, e considerando que os elementos constantes dos autos permitem desde já delimitar objetivamente o âmbito temporal da obrigação, a ordem de exibição deve recair sobre os documentos contábeis e fiscais relacionados aos pontos controvertidos da demanda e pertinentes à perícia, compreendidos no período entre 2003/2004 e 2023.
+A delimitação ora estabelecida não implica impor aos agravantes a apresentação de documentos que comprovadamente não estejam sob sua posse ou disponibilidade. Conforme já exposto, os recorrentes afirmam não deter parcela relevante da documentação. Nessa situação, deve ser observado o procedimento previsto no art. 398, parágrafo único, do CPC.
+Desse modo, quanto aos documentos contábeis e fiscais relacionados aos pontos controvertidos e abrangidos pelo período de 2003/2004 a 2023, caberá aos agravantes apresentar aqueles que estiverem efetivamente sob sua posse ou disponibilidade e, em relação aos demais, esclarecer de forma específica a impossibilidade de apresentação, indicando, quando tiverem conhecimento, eventual terceiro que os detenha.
+Havendo negativa de posse ou disponibilidade, deverá ser oportunizado ao agravado demonstrar, por qualquer meio, que a declaração não corresponde à realidade, na forma do art. 398, parágrafo único, do CPC. Somente após o respectivo contraditório e mediante exame concreto das circunstâncias poderá ser aferida eventual recusa ilegítima à exibição.
+Também por essa razão, a cominação imediata de busca e apreensão ou de presunção de veracidade, tal como estabelecida na decisão agravada, mostra-se prematura. Eventuais medidas coercitivas ou consequências probatórias deverão ficar reservadas às hipóteses em que, após a delimitação ora estabelecida e a observância do contraditório quanto à alegada ausência de posse ou disponibilidade, seja reconhecido o descumprimento injustificado da ordem judicial.
+Portanto, reforma-se parcialmente o item 8 da decisão agravada para delimitar a ordem de exibição aos documentos contábeis e fiscais relacionados aos pontos controvertidos da demanda e pertinentes à prova pericial, compreendidos no período entre 2003/2004 e 2023, devendo os agravantes apresentar aqueles que estiverem sob sua posse ou disponibilidade e justificar eventual impossibilidade de apresentação dos demais, observando-se, nesse caso, o procedimento previsto no art. 398, parágrafo único, do CPC, ficando eventual medida coercitiva ou consequência probatória condicionada ao prévio reconhecimento de descumprimento injustificado da ordem de exibição.
+
+Ante o exposto, impõe-se a reforma da decisão agravada, para:
+a) Cassar o item 3 da decisão agravada (mov. 66.1), determinando que os agravantes sejam previamente intimados a comprovar, separadamente, suas respectivas situações econômico-financeiras, com posterior reapreciação individualizada do pedido de gratuidade da justiça pelo juízo de origem;
+
+b) Reformar parcialmente o item 8 da decisão agravada (mov. 66.1), para delimitar a ordem de exibição aos documentos contábeis e fiscais relacionados aos pontos controvertidos da demanda e pertinentes à prova pericial, compreendidos no período entre 2003/2004 e 2023, devendo os agravantes apresentar aqueles que estiverem sob sua posse ou disponibilidade e, quanto aos demais, justificar eventual impossibilidade de apresentação, com eventual indicação de terceiro que os detenha, observando-se, em caso de negativa de posse ou disponibilidade, o procedimento previsto no art. 398, parágrafo único, do CPC, ficando eventual medida coercitiva ou consequência probatória condicionada ao prévio exame das circunstâncias concretas e ao reconhecimento do descumprimento injustificado da ordem de exibição.
+
+III - Por tais razões, voto no sentido de conhecer do agravo de instrumento interposto e, no mérito, dar-lhe parcial provimento, nos exatos termos da fundamentação. É como voto.
