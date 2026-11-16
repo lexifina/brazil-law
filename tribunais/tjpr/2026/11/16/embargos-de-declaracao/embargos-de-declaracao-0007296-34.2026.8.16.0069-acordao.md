@@ -1,0 +1,50 @@
+EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE OBSCURIDADE QUANTO À FORMA DE COMPENSAÇÃO DOS VALORES E OMISSÃO NA FIXAÇÃO DOS DANOS MORAIS. Embargos de declaração opostos pelo autor, conhecidos e parcialmente acolhidos.
+I. Caso em exame
+1. Embargos de declaração opostos pelo autor contra acórdão que deu parcial provimento à apelação da instituição financeira para determinar a compensação entre os valores descontados e os valores depositados na conta do consumidor, bem como para reduzir a indenização por danos morais de R$ 10.000,00 para R$ 5.000,00.
+II. Questão em discussão
+2. As questões em discussão consistem em saber se: (i) há obscuridade quanto à metodologia de compensação dos valores; e (ii) houve omissão na análise das circunstâncias consideradas para a fixação da indenização por danos morais.
+III. Razões de decidir
+3. Os embargos de declaração destinam-se apenas ao saneamento de obscuridade, contradição, omissão ou erro material, não se prestando à rediscussão do mérito.
+4. Embora a fundamentação do acórdão tenha definido a forma de compensação dos valores, o dispositivo não reproduziu expressamente a metodologia adotada, justificando o acolhimento parcial dos embargos para mero esclarecimento.
+5. A compensação deve observar os parâmetros já fixados no acórdão, com apuração prévia do montante devido em razão dos descontos indevidos e posterior abatimento do valor creditado ao autor, considerado de forma nominal e sem incidência de correção monetária ou juros.
+6. Não há omissão quanto aos danos morais, uma vez que o acórdão enfrentou expressamente a fraude contratual, os descontos incidentes sobre benefício previdenciário, a existência do dano moral e os critérios utilizados para a fixação do quantum indenizatório, concluindo pela redução para R$ 5.000,00 em conformidade com os precedentes da Câmara.
+7. As alegações relativas à condição pessoal do autor, à tentativa de solução administrativa, ao ajuizamento de ação anterior e à capacidade econômica da instituição financeira revelam mero inconformismo com a conclusão adotada, sem demonstrar vício integrativo no julgado.
+8. Consideram-se incluídos no acórdão os dispositivos legais invocados pela parte embargante, nos termos do art. 1.025 do CPC.
+IV. Dispositivo
+9.
+Embargos de declaração opostos pelo autor, conhecidos e parcialmente acolhidos,
+sem efeitos infringentes, apenas para esclarecer a metodologia de compensação dos valores, mantidos os demais termos do acórdão.
+Dispositivos relevantes citados: Código de Processo Civil, arts. 1.022 e 1.025.
+Jurisprudência relevante citada: STJ, EDcl no AgInt nos EAREsp 773262/RS, Rel. Min. Mauro Campbell Marques, 1ª Seção, DJe 14.03.2017.
+
+Relatório
+1. Trata-se de embargos de declaração opostos por Aparício Alves da Silva
+em face do acórdão de mov. 39.1 dos autos de Apelação Cível nº 0008586-89.2023.8.16.0069, por meio do qual o recurso interposto pelo Banco C6 Consignado S.A. foi parcialmente conhecido e, nessa extensão, parcialmente provido, para determinar a compensação entre o valor recebido pelo consumidor e aquele a ser restituído, bem como para reduzir a indenização por danos morais de R$ 10.000,00 para R$ 5.000,00.
+Aduz o embargante, em síntese, existir contradição e obscuridade quanto à forma de compensação dos valores, pois, embora a fundamentação tenha consignado que o montante creditado em sua conta deverá ser abatido somente após a apuração, em dobro, dos valores indevidamente descontados, o dispositivo teria se limitado a determinar a compensação do valor recebido de forma nominal, sem explicitar a metodologia a ser observada.
+Sustenta, ainda, a existência de omissão quanto à fixação da indenização por danos morais, ao argumento de que o acórdão não teria considerado as condições pessoais e socioeconômicas do autor, notadamente o fato de ser idoso, aposentado e beneficiário de um salário mínimo, bem como a incidência dos descontos sobre verba de natureza alimentar, a falsidade da assinatura, a tentativa de solução administrativa, o ajuizamento de demanda anterior e a capacidade econômica da instituição financeira.
+Assim, requer o acolhimento dos embargos para esclarecer que deverão ser inicialmente apurados, em dobro, com os respectivos encargos, os valores indevidamente descontados e, somente após, abatido o montante nominal creditado em sua conta, sem correção monetária ou juros.
+Requer, ainda, a atribuição de efeitos infringentes, a fim de restabelecer a indenização por danos morais em R$ 10.000,00, além do prequestionamento dos dispositivos legais indicados (mov. 1.1).
+Intimado, o embargado apresentou contrarrazões no mov. 10.1, sustentando a inexistência de omissão, contradição ou obscuridade e afirmando que o embargante pretende apenas rediscutir matéria já decidida. Ao final, requereu a rejeição dos embargos de declaração e a manutenção do acórdão por seus próprios fundamentos.
+É o relatório.
+
+Fundamentação
+2. Os Embargos de declaração merecem ser conhecidos, porquanto tempestivos e interpostos pela parte legitimada, além de atenderem aos demais pressupostos de admissibilidade previstos no art. 1.022 do Código de Processo Civil.
+3. Já se decidiu que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes." (STJ – EDcl no Aglnt nos EAREsp 773262 - RS – 1ª Seção – Rel. Min. Mauro Campbell Marques – DJe 14.03.2017).
+Dos incisos do artigo 1.022 do CPC extrai-se que o presente recurso é de fundamentação vinculada e sua oposição é delimitada, sendo cabível para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, ou então para corrigir erro material.
+Desse modo, deve-se levar em consideração que os declaratórios não servem como sucedâneo recursal.
+No caso, os embargos merecem parcial acolhimento.
+3.1. Quanto à alegada obscuridade relativa à forma de compensação dos valores, assiste parcial razão ao embargante, apenas para esclarecimentos.
+Isso porque, embora o acórdão tenha consignado expressamente na fundamentação que “o valor devido pela instituição financeira é o resultado da soma dos valores descontados no benefício da parte recorrente em dobro, abatido o crédito recebido em virtude do empréstimo”, bem como que o valor depositado em conta “deve ser restituído de forma nominal, sem correção ou juros”.
+Já o dispositivo limitou-se a determinar a compensação entre o valor recebido e o valor descontado, sem reproduzir a metodologia de cálculo adotada.
+Dessa forma, a fim de evitar dúvidas na fase de cumprimento de sentença, esclarece-se que a compensação deverá observar os exatos parâmetros delineados na fundamentação do acórdão, de modo que primeiro deverá ser apurado o montante devido ao autor em razão dos descontos indevidos, observados os critérios de devolução, correção monetária e juros já definidos no julgado, para somente depois ser abatido o valor comprovadamente creditado em sua conta, o qual deverá ser considerado de forma nominal, sem incidência de correção monetária ou juros.
+Referido esclarecimento, todavia, não implica alteração do resultado do julgamento, constituindo mero ajuste integrativo do acórdão.
+3.2. Por outro lado, não procede a alegação de omissão quanto à redução da indenização por danos morais.
+Isso porque o acórdão enfrentou expressamente a questão relativa ao quantum indenizatório, reconhecendo a existência do dano moral decorrente da fraude contratual e dos descontos incidentes sobre benefício previdenciário, bem como analisando os critérios pertinentes para a fixação da indenização, concluindo pela redução do valor para R$ 5.000,00, em consonância com os parâmetros adotados por esta 8ª Câmara Cível em casos análogos.
+Além disso, o voto consignou expressamente que o desconto indevido em verba alimentar de pessoa com poucos recursos ultrapassa o mero dissabor e enseja reparação moral, bem como destacou a necessidade de observância das condições das partes, da finalidade compensatória e pedagógica da indenização e da jurisprudência predominante desta Câmara.
+Logo, ainda que o embargante sustente que deveriam ter sido atribuídos maior relevo à sua condição de idoso, aposentado, beneficiário de verba alimentar, à tentativa de solução administrativa da controvérsia e à capacidade econômica da instituição financeira, verifica-se que sua insurgência revela mero inconformismo com a conclusão adotada pelo Colegiado, buscando a rediscussão do mérito do julgamento e o restabelecimento do valor arbitrado na sentença, providência incompatível com a estreita via dos embargos de declaração.
+Da mesma forma, a alegação de que o acórdão não teria analisado a tentativa de solução administrativa perante o PROCON e o ajuizamento de demanda anterior não evidencia omissão relevante para o deslinde da controvérsia, porquanto tais circunstâncias não possuem aptidão para alterar a conclusão adotada pelo Colegiado quanto ao quantum indenizatório.
+Cumpre ressaltar que o órgão julgador não está obrigado a rebater individualmente todos os argumentos deduzidos pelas partes, bastando que apresente fundamentação suficiente para resolver a controvérsia submetida à sua apreciação, o que ocorreu no caso dos autos.
+Por fim, quanto ao prequestionamento suscitado, consideram-se incluídos no acórdão os dispositivos legais invocados pelo embargante, para os fins do artigo 1.025 do Código de Processo Civil, ainda que os embargos sejam acolhidos apenas parcialmente para fins de esclarecimento.
+4. Assim, os embargos de declaração opostos pelo autor merecem ser conhecidos e parcialmente acolhidos, apenas para esclarecimentos quanto à metodologia de compensação dos valores, sem atribuição de efeitos infringentes,
+à luz do art. 1.022 do CPC.
+Este é o voto.
