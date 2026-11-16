@@ -1,0 +1,71 @@
+DIREITO CIVIL, DIREITO BANCÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. PEDIDO DE REVOGAÇÃO DA LIMINAR E RESTITUIÇÃO DO VEÍCULO. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO EXTRAJUDICIAL ENCAMINHADA AO ENDEREÇO CONTRATUAL. CORRESPONDÊNCIA DEVOLVIDA COM A ANOTAÇÃO “NÃO PROCURADO”. VALIDADE. TEMA 1.132 DO STJ. JUROS MORATÓRIOS. ALEGAÇÃO DE ABUSIVIDADE. ENCARGO INCIDENTE NO PERÍODO DE ANORMALIDADE CONTRATUAL. IRRELEVÂNCIA PARA A DESCARACTERIZAÇÃO DA MORA. TEMA 28 DO STJ. CUMPRIMENTO DA BUSCA E APREENSÃO. AUSÊNCIA DE IRREGULARIDADE CAPAZ DE INVALIDAR A DILIGÊNCIA. MANUTENÇÃO DA LIMINAR. RECURSO CONHECIDO E DESPROVIDO.
+I. RELATÓRIO
+Agravo de Instrumento interposto contra decisão proferida em ação de busca e apreensão fundada em contrato de alienação fiduciária, que indeferiu pedido de tutela de urgência incidental formulado pela parte requerida para revogar a liminar de busca e apreensão e determinar a restituição do veículo objeto da garantia fiduciária.
+A agravante sustenta que a constituição em mora seria inválida, pois a notificação extrajudicial encaminhada ao endereço contratual retornou com a anotação “não procurado”, hipótese que, segundo entende, não estaria abrangida pela tese firmada no Tema 1.132 do Superior Tribunal de Justiça.
+Alega, ainda, a abusividade dos juros moratórios pactuados em 6% ao mês, defendendo que tal circunstância descaracterizaria a mora e impediria a manutenção da medida constritiva. Aduz, por fim, a existência de irregularidades no cumprimento da diligência de busca e apreensão.
+Requer a reforma da decisão agravada para determinar a restituição imediata do veículo e revogar a liminar anteriormente deferida.
+II. QUESTÕES EM DISCUSSÃO
+Há três questões em discussão:
+(i) verificar a validade da constituição em mora quando a notificação extrajudicial enviada ao endereço contratual retorna com a anotação “não procurado”;
+(ii) definir se a alegada abusividade dos juros moratórios possui aptidão para descaracterizar a mora e justificar a revogação da busca e apreensão; e
+(iii) examinar a existência de vícios no cumprimento da diligência capazes de invalidar a apreensão do veículo.
+III. RAZÕES DE DECIDIR
+Nos termos do art. 2º, § 2º, do Decreto-Lei nº 911/1969, a constituição em mora do devedor fiduciário pode ser comprovada mediante o envio de notificação extrajudicial ao endereço indicado no contrato.
+O Superior Tribunal de Justiça, ao julgar o Tema Repetitivo nº 1.132, firmou entendimento no sentido de que é suficiente a comprovação do envio da notificação ao endereço fornecido pelo devedor, sendo desnecessária a demonstração de seu efetivo recebimento.
+A orientação jurisprudencial abrange, igualmente, as hipóteses em que a correspondência retorna com a anotação “não procurado”, desde que tenha sido regularmente encaminhada ao endereço contratualmente informado.
+No caso concreto, a documentação acostada aos autos demonstra que a notificação extrajudicial foi enviada ao endereço indicado pela própria agravante no instrumento contratual, não havendo elemento capaz de infirmar a regularidade da constituição em mora.
+Quanto aos juros moratórios convencionados em 6% ao mês, ainda que se admita, em tese, a possibilidade de revisão judicial do percentual, tal circunstância não produz os efeitos pretendidos pela agravante.
+Os juros moratórios constituem encargo incidente após o inadimplemento, integrando o período de anormalidade contratual.
+De acordo com a orientação firmada pelo Superior Tribunal de Justiça no Tema 28, apenas a abusividade de encargos exigidos durante o período da normalidade contratual possui aptidão para descaracterizar a mora.
+Assim, eventual limitação dos juros moratórios ao percentual legalmente admitido pode repercutir na apuração do saldo devedor, mas não afasta a mora nem invalida a medida de busca e apreensão regularmente deferida.
+Além disso, não há notícia de pagamento da integralidade da dívida pendente nem de depósito judicial do valor incontroverso, circunstâncias que reforçam a manutenção da situação de inadimplemento.
+Também não se verificam irregularidades aptas a comprometer a validade da diligência de busca e apreensão.
+O veículo foi apreendido em cumprimento regular da ordem judicial, sendo expressamente autorizada, pelo art. 3º do Decreto-Lei nº 911/1969, a apreensão do bem alienado fiduciariamente mesmo quando localizado em posse de terceiro.
+Da mesma forma, eventual ausência de entrega de documentos ao terceiro que detinha a posse do veículo não configura vício invalidante da diligência, especialmente diante da ausência de demonstração de prejuízo processual concreto.
+Inexistindo ilegalidade na constituição em mora, fundamento para descaracterização do inadimplemento ou irregularidade relevante no cumprimento da ordem judicial, deve ser mantida a decisão recorrida.
+IV. DISPOSITIVO E TESE
+Recurso conhecido e desprovido, mantendo-se integralmente a decisão que indeferiu o pedido de revogação da liminar de busca e apreensão e de restituição do veículo à agravante.
+Tese de julgamento: O envio da notificação extrajudicial ao endereço indicado no contrato é suficiente para a constituição em mora do devedor fiduciário, ainda que a correspondência retorne com a anotação “não procurado”, nos termos do Tema 1.132 do STJ. A eventual abusividade de juros moratórios, por constituir encargo incidente no período de anormalidade contratual, não descaracteriza a mora nem impede a manutenção da busca e apreensão regularmente deferida.
+Dispositivos relevantes citados:
+Decreto-Lei nº 911/1969, arts. 2º, § 2º, e 3º.
+Código de Processo Civil, art. 1.015, I.
+Jurisprudência relevante citada:
+STJ, Tema Repetitivo nº 1.132.
+TJPR, 5ª Câmara Cível, AI nº 0123451-70.2025.8.16.0000, Rel. Des. Ramon de Medeiros Nogueira, j. 02.03.2026.
+TJPR, 7ª Câmara Cível, AI nº 0107763-68.2025.8.16.0000, Rel. Des. Subst. Fabiana Silveira Karam, j. 08.04.2026.
+TJPR, 18ª Câmara Cível, Apelação Cível nº 0021730-18.2025.8.16.0019, Rel. Des. Alberto Junior Veloso, j. 01.06.2026.
+STJ, Tema Repetitivo nº 28.
+
+1. RELATÓRIO
+Trata-se de recurso de Agravo de Instrumento interposto por MYRIAN ISPER contra a decisão de mov. 115.1, proferida nos autos de Ação de Busca e Apreensão n.º 0000463-76.2025.8.16.0152, ajuizada por BANCO VOLKSWAGEN S.A., em trâmite perante a Vara Cível de Santa Mariana, que indeferiu o pedido de tutela de urgência incidental formulado pela parte requerida para revogação da liminar de busca e apreensão e restituição do veículo VW Amarok V6 High, placas AOA1A44.
+Em suas razões recursais, mov. 1.1 - TJ, a parte agravante sustenta que a constituição em mora é inválida, pois a notificação extrajudicial encaminhada ao endereço contratual retornou com a anotação “não procurado”, hipótese que entende não estar abrangida pelo Tema 1.132/STJ. Defende, ainda, a abusividade dos juros moratórios pactuados em 6% ao mês e a consequente descaracterização da mora, além de apontar irregularidades no cumprimento da diligência de busca e apreensão.
+Requer, assim, a concessão de tutela de urgência recursal para determinar a restituição imediata do veículo e, ao final, o provimento do recurso, com a reforma da decisão agravada, reconhecendo-se a nulidade da constituição em mora ou sua descaracterização pela abusividade dos encargos contratuais, conforme mov. 1.1 - TJ.
+O pedido de tutela de urgência recursal foi indeferido no mov. 9.1 - TJ.
+Sem contrarrazões, os autos vieram conclusos. É o breve relatório.
+
+2.2. Da controvérsia recursal
+A controvérsia recursal consiste em verificar se estão presentes elementos para revogar a liminar de busca e apreensão anteriormente deferida, diante das alegações de irregular constituição em mora, abusividade dos juros moratórios e vícios no cumprimento da diligência de apreensão.
+A decisão agravada, mov. 115.1, indeferiu o pedido de tutela de urgência formulado pela parte agravante ao considerar regular a constituição em mora, insuficientes os elementos apresentados para afastar os encargos contratuais em cognição sumária e inexistentes vícios capazes de invalidar a apreensão.
+A parte agravante sustenta, inicialmente, que a devolução da notificação extrajudicial com a anotação “não procurado” impede a constituição em mora.
+A tese não comporta acolhimento.
+Nos termos do art. 2º, § 2º, do Decreto-Lei n.º 911/1969, a mora decorre do simples vencimento da obrigação e pode ser comprovada mediante o envio de carta registrada com aviso de recebimento.
+Ao julgar o Tema Repetitivo 1.132, o STJ estabeleceu que, para a comprovação da mora em contratos garantidos por alienação fiduciária, é suficiente o envio da notificação extrajudicial ao endereço indicado no instrumento contratual, dispensando-se a demonstração de seu efetivo recebimento pelo destinatário ou por terceiros.
+A interpretação do precedente abrange a hipótese em que a correspondência retorna com a anotação “não procurado”, desde que comprovado seu envio ao endereço fornecido pelo próprio devedor no contrato.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL. CONSTITUIÇÃO EM MORA. TEMA 1.132 DO STJ. DEVOLUÇÃO COM ANOTAÇÃO “NÃO PROCURADO”. VALIDADE. [...] O envio da notificação extrajudicial ao endereço indicado no contrato é suficiente para a constituição em mora, sendo dispensável a prova do recebimento, inclusive quando a correspondência retorna com a anotação “não procurado”. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO. (TJPR - 5ª Câmara Cível - 0123451-70.2025.8.16.0000 - Sarandi - Rel.: Desembargador Ramon de Medeiros Nogueira - J. 02.03.2026) – Grifos nossos.
+No mesmo sentido, em julgamento recente:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO COM PEDIDO LIMINAR DEFERIDO. NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA AO ENDEREÇO CONSTANTE NO CONTRATO E QUE RETORNOU AO REMETENTE PELO MOTIVO “NÃO PROCURADO”. MORA DA DEVEDORA CONSTITUÍDA. TESE FIRMADA NO TEMA REPETITIVO 1132, DO STJ. [...] RECURSO DE AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO. (TJPR - 7ª Câmara Cível - 0107763-68.2025.8.16.0000 - Lapa - Rel.: Substituta Fabiana Silveira Karam - J. 08.04.2026) – Grifos nossos.
+No caso, a documentação apresentada demonstra que a notificação extrajudicial foi encaminhada ao endereço informado pela parte agravante no instrumento contratual, conforme reconhecido desde a decisão que deferiu a busca e apreensão, mov. 17.1. O retorno da correspondência com a anotação “não procurado”, portanto, não invalida a constituição em mora.
+Não se aplica ao caso o precedente indicado pela parte agravante, relativo ao Agravo de Instrumento n.º 0131884-97.2024.8.16.0000, pois o entendimento nele adotado não corresponde à orientação atualmente prevalecente acerca do alcance do Tema 1.132/STJ. A jurisprudência posterior do STJ passou a afirmar expressamente sua incidência também quando a correspondência encaminhada ao endereço contratual retorna como “não procurado”.
+No mais, a parte agravante questiona a cobrança de juros moratórios de 6% ao mês e sustenta que a abusividade do encargo descaracteriza a mora.
+Nesse ponto, embora o percentual contratual seja passível de revisão, a consequência jurídica pretendida pela parte agravante não decorre dessa constatação.
+Os juros moratórios são encargos incidentes no período de inadimplência. Por essa razão, eventual abusividade em sua estipulação não interfere na configuração anterior da mora, diferentemente do que ocorre com encargos abusivos exigidos durante o período de normalidade contratual.
+A orientação foi recentemente aplicada pelo TJPR em situação equivalente, na qual se reconheceu a abusividade dos juros moratórios estipulados em 6% ao mês e sua limitação a 1% ao mês, sem afastamento da mora, justamente por se tratar de encargo relativo ao período de anormalidade contratual:
+AÇÃO DE BUSCA E APREENSÃO. [...] JUROS MORATÓRIOS DE 6% AO MÊS. ABUSIVIDADE. LIMITAÇÃO A 1% AO MÊS (SÚMULA 379/STJ). ENCARGO DO PERÍODO DE ANORMALIDADE QUE NÃO DESCARACTERIZA A MORA (TEMA 28/STJ). PROCEDÊNCIA DA AÇÃO. CONSOLIDAÇÃO DA PROPRIEDADE E POSSE. [...] Os juros moratórios de 6% ao mês são abusivos e devem ser limitados a 1% ao mês. Contudo, por se tratar de encargo do período de anormalidade, sua redução não descaracteriza a mora. (TJPR - 18ª Câmara Cível - 0021730-18.2025.8.16.0019 - Ponta Grossa - Rel.: Alberto Junior Veloso - J. 01.06.2026) – Grifos nossos.
+Assim, a invocação do REsp n.º 1.061.530/RS pela parte agravante não conduz à conclusão pretendida. A orientação firmada pelo STJ quanto à descaracterização da mora pressupõe a cobrança de encargos abusivos durante o período da normalidade contratual. Os juros moratórios questionados nestes autos, por sua própria natureza, somente incidem após o inadimplemento.
+A eventual revisão do percentual, portanto, poderá repercutir na apuração do saldo devedor, mas não constitui fundamento para revogar a busca e apreensão ou determinar a restituição imediata do veículo.
+Além disso, não há notícia de pagamento da integralidade da dívida pendente na forma do art. 3º, § 2º, do Decreto-Lei n.º 911/1969, nem de depósito do montante que a própria parte agravante afirma ser devido. A mera discussão dos encargos contratuais não afasta os efeitos decorrentes do inadimplemento.
+Por fim, quanto às alegadas irregularidades no cumprimento da busca e apreensão, também não há fundamento para reforma da decisão.
+O mandado foi cumprido e posteriormente juntado aos autos no mov. 112.1, registrando-se a apreensão do veículo em 20/05/2026. A circunstância de o bem ter sido localizado na posse de terceiro não impede o cumprimento da ordem, uma vez que o art. 3º do Decreto-Lei n.º 911/1969 autoriza expressamente a busca e apreensão do bem alienado fiduciariamente contra o devedor ou terceiro.
+Da mesma forma, a ausência de entrega de documentos ao terceiro que se encontrava na posse do veículo não constitui requisito legal de validade da diligência e, sem demonstração de prejuízo processual concreto, não autoriza sua anulação.
+Diante desse contexto, permanecem ausentes elementos que justifiquem a revogação da liminar de busca e apreensão e a restituição do veículo à parte agravante, devendo ser mantida a decisão recorrida.
