@@ -1,0 +1,145 @@
+Poder Judiciário
+
+JUSTIÇA ESTADUAL
+
+Cível - Tribunal de Justiça do Estado de São Paulo
+
+Gab 04 - 5ª Turma Recursal Cível
+
+RECURSO CÍVEL Nº 4038764-10.2025.8.26.0002/SP
+
+Assunto: Indenização por Dano Material
+
+RELATOR: Juiz de Direito RENATO GUANAES SIMOES THOMSEN
+
+RELATÓRIO
+
+Voto.
+
+Relatório dispensado, nos termos do artigo 46 da Lei 9099/95 e do Enunciado 92 do FONAJE.
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+No mérito, mantenho a r. sentença recorrida, por seus próprios fundamentos, na forma do art. 46 da Lei n.º 9.099/95, e condeno a recorrente no pagamento dos honorários do advogado da parte contrária, que arbitro em 10% do valor atualizado da condenação, nos termos do artigo 85, §§2º e 8º, do CPC e da tese fixada no PUIL 030 (processo nº 0000116-36.2023.8.26.9011).
+
+Quanto ao mais suscitado, tenha-se em mente que, por força da celeridade, do disposto no artigo 46 da Lei 9.099/95 e do princípio do livre convencimento motivado, o julgador não está obrigado a esclarecer cada argumento proposto, mas somente justificar a razão de seu entendimento.
+
+“O Supremo Tribunal Federal já assentou entendimento de que não há afronta ao art. 93, inc. IX e X, da Constituição da República quando a decisão for motivada, sendo desnecessária a análise de todos os argumentos apresentados e certo que a contrariedade ao interesse da parte não configura negativa de prestação jurisdicional.” (STF - MS 26163/DF - Distrito Federal. Relatora: Min. Carmen Lúcia).
+
+Considera-se prequestionada toda matéria constitucional e infraconstitucional invocada, observando posicionamento do C. STJ segundo o qual prescindível a citação de dispositivos legais que o fundamentam: “Já é pacífico nesta e. Corte que, tratando-se de prequestionamento, é desnecessária a citação numérica de dispositivos legais, bastando que a questão tenha sido decidida.” (STJ, EDcl no RMS nº18.205/SP (2004/0067745-6) Relator: Min. Felix Fischer).
+
+VOTO
+
+Voto por NEGAR PROVIMENTO ao recurso.
+
+Documento eletrônico assinado por RENATO GUANAES SIMOES THOMSEN, Juiz Relator, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc1g.tjsp.jus.br/eproc/externo_controlador.php?acao=consulta_autenticidade_documentos, mediante o preenchimento do código verificador 610011689449v3 e do código CRC 2c130650.
+
+Informações adicionais da assinatura:
+Signatário (a): RENATO GUANAES SIMOES THOMSEN
+Data e Hora: 17/11/2026, às 10:25:20
+
+4038764-10.2025.8.26.0002
+
+610011689449
+.V3
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Cível - Tribunal de Justiça do Estado de São Paulo
+
+RECURSO CÍVEL Nº 4038764-10.2025.8.26.0002/SP
+
+Assunto: Indenização por Dano Material
+
+RELATOR: Juiz de Direito RENATO GUANAES SIMOES THOMSEN
+
+EMENTA
+
+DIREITO DO CONSUMIDOR. RECURSO INOMINADO. FRAUDE BANCÁRIA. CONTRATAÇÃO DE EMPRÉSTIMO E SEIS TRANSFERÊNCIAS PIX NO MESMO DIA. AUTENTICAÇÃO COM SENHA E MOBILE TOKEN. TOKEN CADASTRADO ANTERIORMENTE AOS FATOS. ELEMENTO QUE NÃO DEMONSTRA, POR SI SÓ, AUTORIA CONSCIENTE DAS OPERAÇÕES. SUCESSÃO CONCENTRADA DE TRANSFERÊNCIAS PARA TERCEIROS EM CURTO INTERVALO. PRÓPRIA DEFESA QUE AFIRMA IDENTIFICAÇÃO DAS TRANSAÇÕES PELO SISTEMA DE SEGURANÇA DA INSTITUIÇÃO. ALEGAÇÃO DE CONFIRMAÇÃO PELO CORRENTISTA VIA BIA/WHATSAPP. TELA APRESENTADA EXPRESSAMENTE COMO EXEMPLIFICATIVA DA FORMA DE ACIONAMENTO. AUSÊNCIA DE REGISTRO INDIVIDUALIZADO DA CONFIRMAÇÃO ATRIBUÍDA AO TITULAR. COMUNICAÇÃO DA FRAUDE E ABERTURA DO MED NO DIA SEGUINTE. FALHA NA PRESTAÇÃO DO SERVIÇO NÃO AFASTADA. INEXIGIBILIDADE DAS OPERAÇÕES. RESSARCIMENTO DE R$ 15.797,65. DANOS MORAIS REJEITADOS NA ORIGEM E NÃO DEVOLVIDOS À INSTÂNCIA RECURSAL. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+
+I. CASO EM EXAME
+
+1. RECURSO INOMINADO INTERPOSTO POR INSTITUIÇÃO FINANCEIRA CONTRA SENTENÇA QUE DECLAROU INEXIGÍVEIS EMPRÉSTIMO PESSOAL, SEIS TRANSFERÊNCIAS PIX E OS ENCARGOS DECORRENTES DAS OPERAÇÕES IMPUGNADAS, CONDENANDO O BANCO AO RESSARCIMENTO DE R$ 15.797,65 E REJEITANDO O PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS.
+
+II. QUESTÕES EM DISCUSSÃO
+
+2. DISCUTE-SE SE OS REGISTROS DE AUTENTICAÇÃO MEDIANTE SENHA E MOBILE TOKEN SÃO SUFICIENTES PARA ATRIBUIR AS OPERAÇÕES AO CORRENTISTA E AFASTAR A FRAUDE, BEM COMO SE O CONJUNTO PROBATÓRIO EVIDENCIA FALHA NA PRESTAÇÃO DO SERVIÇO E DEVER DE RESSARCIMENTO.
+
+III. RAZÕES DE DECIDIR
+
+3. OS REGISTROS BANCÁRIOS INDICAM UTILIZAÇÃO DE SENHA E MOBILE TOKEN, ESTE CADASTRADO EM 20/01/2025, ANTERIORMENTE AOS FATOS, CIRCUNSTÂNCIA RELEVANTE, MAS QUE NÃO DEMONSTRA, ISOLADAMENTE, QUE AS OPERAÇÕES TENHAM SIDO CONSCIENTEMENTE REALIZADAS OU AUTORIZADAS PELO TITULAR.
+
+4. NO MESMO DIA FORAM REALIZADOS NOVO EMPRÉSTIMO PESSOAL E SEIS TRANSFERÊNCIAS PIX PARA TERCEIROS EM SEQUÊNCIA CONCENTRADA. A PRÓPRIA INSTITUIÇÃO AFIRMA QUE AS TRANSAÇÕES FORAM IDENTIFICADAS POR SEU SISTEMA DE SEGURANÇA E SUBMETIDAS A PROCEDIMENTO DE CONFIRMAÇÃO.
+
+5. EMBORA O BANCO SUSTENTE QUE O CORRENTISTA CONFIRMOU AS OPERAÇÕES POR MEIO DA BIA/WHATSAPP, A TELA JUNTADA AOS AUTOS É EXPRESSAMENTE APRESENTADA COMO EXEMPLIFICATIVA DA FORMA DE ACIONAMENTO DO CLIENTE, NÃO CONSTITUINDO REGISTRO INDIVIDUALIZADO DA CONFIRMAÇÃO ESPECIFICAMENTE ATRIBUÍDA AO AUTOR.
+
+6. NÃO SE DEMONSTROU, NEM SE CONFIRMOU, A PREMISSA DE QUE O SISTEMA MOBILE, COM USO DE SENHA E E-TOKEN, ASSIM COMO A CONFIRMAÇÃO POSTERIOR, NÃO SEJA ABSOLUTAMENTE IMUNE A INVASÕES AO DISPOSITIVO (HACKERS). O PEDIDO DE CONFIRMAÇÃO ENCAMINHADO AO MESMO DISPOSITIVO DE QUE PROVEIO A FRAUDE É OBVIAMENTE INEFICAZ EM CASOS DE INVASÃO DE HACKERS.
+
+7. A REALIZAÇÃO DE TRÂNSFERÊNCIAS, EM INTERVALOS CURTOS E NO MESMO DIA, DE VALORES EXTRAÍDOS DE EMPRÉSTIMO ANTERIOR É SITUAÇÃO QUE DEVERIA SER CONSIDERADA PELO SISTEMA DE SEGURANÇA DA INSTITUIÇÃO FINANCEIRA.
+
+8. "PARA A IDENTIFICAÇÃO DE POSSÍVEIS FRAUDES, OS SISTEMAS DE PROTEÇÃO CONTRA FRAUDES DESENVOLVIDOS PELAS INSTITUIÇÕES BANCÁRIAS/DE PAGAMENTO DEVEM CONSIDERAR I) AS TRANSAÇÕES QUE FOGEM AO PERFIL DO CLIENTE OU AO SEU PADRÃO DE CONSUMO; II) O HORÁRIO E O LOCAL EM QUE AS OPERAÇÕES FORAM REALIZADAS; III) O INTERVALO DE TEMPO ENTRE UMA E OUTRA TRANSAÇÃO; IV) A SEQUÊNCIA DAS OPERAÇÕES REALIZADAS; V) O MEIO UTILIZADO PARA A SUA REALIZAÇÃO; VI) A CONTRATAÇÃO DE EMPRÉSTIMOS ATÍPICOS EM MOMENTO ANTERIOR À REALIZAÇÃO DE PAGAMENTOS SUSPEITOS; ENFIM, DIVERSAS CIRCUNSTÂNCIAS QUE, CONJUGADAS, TORNAM POSSÍVEL AO FORNECEDOR DO SERVIÇO IDENTIFICAR SE DETERMINADA TRANSAÇÃO DEVE OU NÃO SER VALIDADA" (RESP N. 2.222.059/SP, REL. MINISTRO RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, JULGADO EM 7/10/2025, DJEN DE 13/10/2025, GRIFO NOSSO.)
+
+9. A CONTESTAÇÃO DAS OPERAÇÕES FOI SEGUIDA DA ABERTURA DO MECANISMO ESPECIAL DE DEVOLUÇÃO EM 02/08/2025, DIA SEGUINTE AOS FATOS, CIRCUNSTÂNCIA QUE, EXAMINADA EM CONJUNTO COM A CONCENTRAÇÃO DAS OPERAÇÕES, A DETECÇÃO PELO PRÓPRIO SISTEMA DE SEGURANÇA E A AUSÊNCIA DE PROVA INDIVIDUALIZADA DA CONFIRMAÇÃO, NÃO PERMITE AFASTAR A FALHA NA PRESTAÇÃO DO SERVIÇO RECONHECIDA NA SENTENÇA.
+
+10. MANTÊM-SE, ASSIM, A INEXIGIBILIDADE DAS OPERAÇÕES E DOS ENCARGOS DELAS DECORRENTES E O RESSARCIMENTO DOS DANOS MATERIAIS. O CAPÍTULO QUE REJEITOU OS DANOS MORAIS NÃO FOI OBJETO DE RECURSO PELO AUTOR E PERMANECE FORA DO ÂMBITO DE DEVOLUÇÃO.
+
+IV. DISPOSITIVO E TESE
+
+11. RECURSO DESPROVIDO.
+
+TESE DE JULGAMENTO: A AUTENTICAÇÃO MEDIANTE SENHA E TOKEN NÃO AFASTA, POR SI SÓ, A RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA QUANDO O CONJUNTO PROBATÓRIO REVELA SUCESSÃO CONCENTRADA DE OPERAÇÕES EM CURTO INTERVALO, IDENTIFICAÇÃO DAS TRANSAÇÕES PELO PRÓPRIO SISTEMA DE SEGURANÇA E AUSÊNCIA DE PROVA INDIVIDUALIZADA DA CONFIRMAÇÃO ATRIBUÍDA AO TITULAR.
+
+ACÓRDÃO
+
+Vistos e relatados estes autos em que são partes as acima indicadas, 5ª Turma Recursal Cível decidiu, por unanimidade, NEGAR PROVIMENTO ao recurso, nos termos do relatório, votos e notas de julgamento que ficam fazendo parte integrante do presente julgado.
+
+São Paulo, 16 de novembro de 2026.
+
+Documento eletrônico assinado por RENATO GUANAES SIMOES THOMSEN, Juiz Relator, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc1g.tjsp.jus.br/eproc/externo_controlador.php?acao=consulta_autenticidade_documentos, mediante o preenchimento do código verificador 610011689451v5 e do código CRC 409301fb.
+
+Informações adicionais da assinatura:
+Signatário (a): RENATO GUANAES SIMOES THOMSEN
+Data e Hora: 17/11/2026, às 10:23:43
+
+4038764-10.2025.8.26.0002
+
+610011689451
+.V5
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Justiça Estadual
+
+Cível - Tribunal de Justiça do Estado de São Paulo
+
+EXTRATO DE ATA DA SESSÃO VIRTUAL – RESOLUÇÃO CNJ 591/24 DE 09/11/2026 A 16/11/2026
+
+RECURSO CÍVEL Nº 4038764-10.2025.8.26.0002/SP
+
+RELATOR: Juiz de Direito RENATO GUANAES SIMOES THOMSEN
+
+PRESIDENTE: Juiz de Direito ROGERIO MARCIO TEIXEIRA
+
+Certifico que este processo foi incluído na Pauta da Sessão Virtual – Resolução CNJ 591/24, realizada no período de 09/11/2026, às 00:00, a 16/11/2026, às 23:59, na sequência 170, disponibilizada no DE de 26/10/2026.
+
+Certifico que a 5ª Turma Recursal Cível, ao apreciar os autos do processo em epígrafe, proferiu a seguinte decisão:
+
+A 5ª TURMA RECURSAL CÍVEL DECIDIU, POR UNANIMIDADE, NEGAR PROVIMENTO AO RECURSO.
+
+RELATOR DO ACÓRDÃO: Juiz de Direito RENATO GUANAES SIMOES THOMSEN
+
+Votante: Juiz de Direito RENATO GUANAES SIMOES THOMSEN
+
+Votante: Juiz de Direito PAULO FURTADO DE OLIVEIRA FILHO
+
+Votante: Juiz de Direito MARCOS ALEXANDRE BRONZATTO PAGAN
+
+DANIELA BETTI RIBEIRO
+
+Secretária
+
+Identificações de pessoas físicas foram ocultadas
