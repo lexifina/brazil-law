@@ -1,35 +1,41 @@
-# Brazil: law history in git
+# Brasil: o histórico da legislação em git
 
+**Português** · [English](README.en.md)
 
-The law of Brazil as a git history: one file per article, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/pt/effort-dark.svg">
+<img alt="O direito brasileiro neste repositório: o que contém, as alterações por ano de entrada em vigor, a completude face às fontes oficiais e a exatidão do conteúdo" src="data/pt/effort-light.svg" width="880">
+</picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Brazil's federal law, which global-law reads at `brazil/national/acts/`.
+O direito do Brasil como um histórico git: um arquivo por artigo, um commit por versão no dia em que entrou em vigor e, como autor do commit, o ato que fez cada alteração. `git blame` mostra o ato por trás de cada parágrafo; `git log` lista todas as alterações de um artigo; escolhendo uma data, obtém-se o texto vigente nesse dia.
 
-**What is in it now:** the Constitution and 322 federal codes and laws with their history, 4,358 versions from 1851 on (24 of them, not yet in force, on the `futuro` branch); and 5,000 further federal acts (4,145 Leis, 137 Leis Complementares and 718 Decretos-Leis) with their current text only. Each act's folder has a `README.md` listing its provisions, how often each changed and when; [`data/laws.csv`](data/laws.csv) lists the 2,714 acts that made the changes, with their days.
+Faz parte de [lexifina/global-law](https://github.com/lexifina/global-law), um único histórico git da legislação de todos os países: este é o direito federal do Brasil, que o global-law lê em `brazil/national/acts/`.
 
-Each act is a folder named after it, one file per article (`clt/art-134.md` is art. 134 of the Consolidação das Leis do Trabalho, the labour code, Decreto-Lei 5.452/1943; `lei-10334-de-2001/` is Lei 10.334/2001); the Constitution is [`constituicao/`](constituicao/), with the articles of the ADCT as `adct-art-<n>.md`.
+**O que contém hoje:** a Constituição e 322 códigos e leis federais com seu histórico, 4.358 versões a partir de 1851 (24 delas, ainda não vigentes, no branch `futuro`); e mais 5.000 atos federais (4.145 Leis, 137 Leis Complementares e 718 Decretos-Leis) somente com o texto atual. A pasta de cada ato tem um `README.md` que lista seus dispositivos, quantas vezes cada um foi alterado e quando; [`data/laws.csv`](data/laws.csv) lista os 2.714 atos que fizeram as alterações, com suas datas.
 
-The text is in Portuguese, as Planalto prints it. An English translation is not part of this record.
+Cada ato é uma pasta com o seu nome, com um arquivo por artigo (`clt/art-134.md` é o art. 134 da Consolidação das Leis do Trabalho, Decreto-Lei 5.452/1943; `lei-10334-de-2001/` é a Lei 10.334/2001); a Constituição está em [`constituicao/`](constituicao/), com os artigos do ADCT como `adct-art-<n>.md`.
 
-## Questions as git commands
+O texto está em português, tal como o Planalto o publica. Uma tradução para o inglês não faz parte deste registro.
 
-| Question | Command |
+## Perguntas como comandos git
+
+| Pergunta | Comando |
 | --- | --- |
-| Every change to art. 134 of the CLT (annual leave) | `git log -p --word-diff -- clt/art-134.md` |
-| Which act wrote each paragraph of art. 134? | `git blame clt/art-134.md` |
-| Every version of the CLT, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- clt ':!clt/README.md'` |
-| Art. 134 as in force on 1 January 2015 | `python tools/vigente_em.py 2015-01-01 clt 134` |
+| Todas as alterações do art. 134 da CLT (férias) | `git log -p --word-diff -- clt/art-134.md` |
+| Que ato escreveu cada parágrafo do art. 134? | `git blame clt/art-134.md` |
+| Todas as versões da CLT, com o dia em que cada uma entrou em vigor | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- clt ':!clt/README.md'` |
+| O art. 134 vigente em 1º de janeiro de 2015 | `python tools/vigente_em.py 2015-01-01 clt 134` |
 
-**Outside git**, we also host this record publicly, for free:
+**Fora do git**, também disponibilizamos este registro publicamente, de graça:
 
-- **[Ask Claude about Brazilian law](https://global-law.lexifina.com/v1/try_claude?country=brazil)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=brazil)**: the same question in ChatGPT.
-- **[Search Brazilian law on our site](https://lexifina.com/law?country=brazil&q=f%C3%A9rias)**: a search for "férias" (annual leave), with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=f%C3%A9rias&jurisdiction=brazil)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Pergunte ao Claude sobre o direito brasileiro](https://global-law.lexifina.com/v1/try_claude?country=brazil)**: abre o Claude com uma primeira pergunta já pronta.
+- **[Pergunte ao ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=brazil)**: a mesma pergunta no ChatGPT.
+- **[Pesquise o direito brasileiro no nosso site](https://lexifina.com/law?country=brazil&q=f%C3%A9rias)**: uma busca por "férias", com o texto de cada dispositivo e suas versões, sem precisar de conta.
+- **[API REST para desenvolvedores](https://global-law.lexifina.com/v1/search_law?query=f%C3%A9rias&jurisdiction=brazil)**: a mesma busca em JSON, sem chave. Veja a [documentação aqui](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Portuguese or in English.
+Os dois assistentes leem o registro pelo conector gratuito Global law (MCP, `https://global-law.lexifina.com/mcp`); na primeira vez, o chat fornece o link que o adiciona. Pergunte em português ou em inglês.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**Hospede você mesmo, com facilidade.** Basta ter git e Python, e as ferramentas rodam na sua máquina:
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -37,60 +43,58 @@ python3 tools/countries.py add brazil/national/acts
 python3 tools/law.py show 2026-01-01 brazil/national/acts/clt/art-134.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Aberto no Claude Code, no Cursor, no VS Code ou no Codex, o clone também inicia um servidor MCP local com as mesmas ferramentas ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## Dates
+## Datas
 
-Each commit is dated at noon, America/Sao_Paulo, on the day the version took effect, and carries it in its `In-force:` trailer, beside `Enacted:` and `Published:`:
+Cada commit tem como data o meio-dia, no fuso America/Sao_Paulo, do dia em que a versão entrou em vigor, e a registra no trailer `In-force:`, ao lado de `Enacted:` e `Published:`:
 
-- the day the amending act's own vigência clause gives (on publication, on promulgation, on a fixed day, or provision by provision), or the later day it fixes for a provision to produce effects; with no clause, LINDB art. 1: 45 days after official publication, counted under LC 95/1998 art. 8 § 1;
-- a Medida Provisória from its publication; one that lapsed or was rejected is followed by a commit that restores the earlier wording, dated by the Congress record;
-- for the 5,000 acts with their current text only, the in-force day of the latest change that text shows;
-- git cannot store dates before 1970, so the 235 earlier commits are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/vigente_em.py`, not `git log --before`.
+- o dia que a cláusula de vigência do próprio ato alterador indica (na data da publicação, na da promulgação, em um dia fixo ou dispositivo por dispositivo), ou o dia posterior que ela fixa para um dispositivo produzir efeitos; sem cláusula, o art. 1º da LINDB: 45 dias depois da publicação oficial, contados segundo o art. 8º, § 1º, da LC 95/1998;
+- uma Medida Provisória, a partir da sua publicação; quando ela perde a eficácia ou é rejeitada, segue-se um commit que restaura a redação anterior, datado pelo registro do Congresso;
+- para os 5.000 atos somente com o texto atual, o dia de entrada em vigor da alteração mais recente que esse texto mostra;
+- o git não armazena datas anteriores a 1970, por isso os 235 commits mais antigos têm datas a partir de 1970-01-01, com um segundo de intervalo, e o dia real em `In-force:`. Consulte uma data com `tools/vigente_em.py`, não com `git log --before`.
 
-Each change is credited to the act Planalto's note beside it names ("Redação dada pela Lei nº 13.467, de 2017"), at an address that cannot exist (`lei-13467-2017@planalto.invalid`); rulings of the Supremo Tribunal Federal that Planalto shows as struck words are commits of kind `court`. The one version of each current-text act is credited to Planalto as the oldest version available. The `futuro` branch also holds what is enacted but not yet in force, such as EC 141/2026's art. 7 XV (16 December 2026) and EC 132/2023's tax-reform stages of 2027 and 2033.
+Cada alteração é atribuída ao ato que a nota do Planalto ao lado dela indica ("Redação dada pela Lei nº 13.467, de 2017"), com um endereço que não pode existir (`lei-13467-2017@planalto.invalid`); as decisões do Supremo Tribunal Federal que o Planalto mostra como palavras riscadas são commits do tipo `court`. A versão única de cada ato só com o texto atual é atribuída ao Planalto, como a versão mais antiga disponível. O branch `futuro` também guarda o que já foi promulgado mas ainda não está em vigor, como o art. 7º, XV, da EC 141/2026 (16 de dezembro de 2026) e as etapas da reforma tributária da EC 132/2023 de 2027 e 2033.
 
-## How it is checked
+## Como é verificado
 
-- `tools/check_repo.py` reads every one of the 9,366 versions back from git on the day it took effect and on the day before, and compares it with the corpus: 0 mismatches. The results are in [`REPRODUCE.md`](REPRODUCE.md).
-- The text in force today of the Constitution and the codes is compared with Planalto's consolidated page, unit by unit. For the Constitution, 392 of 414 units were identical on 28 October 2026, and the other 22 differ only where Planalto's two pages are typeset differently; every difference is listed in `REPRODUCE.md`.
-- No merge commits on `main`, no commit dates that go backwards, nothing dated after the build, and every commit's trailers parse.
-- History is append-only: new acts and versions are added on top (`tools/append.py`), and no published commit is rewritten.
+- `tools/check_repo.py` lê de volta do git cada uma das 9.366 versões no dia em que entrou em vigor e no dia anterior, e a compara com o corpus: 0 divergências. Os resultados estão em [`REPRODUCE.md`](REPRODUCE.md).
+- O texto vigente hoje da Constituição e dos códigos é comparado com a página compilada do Planalto, unidade por unidade. Na Constituição, 392 de 414 unidades eram idênticas em 28 de outubro de 2026, e as outras 22 só diferem onde as duas páginas do Planalto têm composição tipográfica diferente; todas as diferenças estão listadas em `REPRODUCE.md`.
+- Nenhum commit de merge no `main`, nenhuma data de commit que volte para trás, nada datado depois do build, e os trailers de todos os commits são legíveis.
+- O histórico só recebe acréscimos: novos atos e versões são adicionados por cima (`tools/append.py`), e nenhum commit publicado é reescrito.
 
-## What it does not show
+## O que não mostra
 
-- **Earlier wordings of 5,000 acts.** They have their current text only; their history is to be added later as labelled corrections.
-- **Other federal acts.** No decretos or other regulations, and no Medidas Provisórias in their own right (they appear only as the changes they made). No case law, apart from the rulings that struck words.
-- **Wording the source does not date.** In the CLT, 60 struck lines with no note are left out of every version; in Lei 8.112/1990, the periods of Medidas Provisórias 301/2006, 341/2006 and 359/2007, whose wording Planalto does not print, are missing.
-- **Effects that change no words**: the STF's interpretations ("Vide ADI"), and effects that are only financial, retroactive or left to a later act.
-- **Signatures, Planalto's notes** (used only to date and credit changes) and a few annexes, such as the fee table of the Estatuto do Desarmamento.
+- **Redações anteriores de 5.000 atos.** Eles têm somente o texto atual; seu histórico será adicionado depois, como correções identificadas.
+- **Outros atos federais.** Nenhum decreto ou outro regulamento, e nenhuma Medida Provisória por si mesma (elas aparecem somente como as alterações que fizeram). Nenhuma jurisprudência, exceto as decisões que riscaram palavras.
+- **Redações que a fonte não data.** Na CLT, 60 linhas riscadas sem nota ficam fora de todas as versões; na Lei 8.112/1990, faltam os períodos das Medidas Provisórias 301/2006, 341/2006 e 359/2007, cuja redação o Planalto não publica.
+- **Efeitos que não mudam nenhuma palavra**: as interpretações do STF ("Vide ADI") e os efeitos apenas financeiros, retroativos ou deixados para um ato posterior.
+- **Assinaturas, as notas do Planalto** (usadas só para datar e atribuir as alterações) e alguns anexos, como a tabela de taxas do Estatuto do Desarmamento.
 
-## Sources
+## Fontes
 
-| Source | Kind | Past versions | Notes |
+| Fonte | Tipo | Versões anteriores | Notas |
 | --- | --- | --- | --- |
-| [Planalto (Legislação)](https://www.planalto.gov.br/ccivil_03/) (Presidência da República, Casa Civil) | Official legislation | partly: superseded wording kept, struck through, with a note naming the amending act | Each act's page (annotated, and consolidated where Planalto has one) and the page of every act its notes cite, read through dated Internet Archive copies; the authoritative text is the one published in the Diário Oficial da União |
-| [Supremo Tribunal Federal](https://portal.stf.jus.br/) | Court | n/a | Case pages of the rulings that struck words, for the decision and the day it was published |
-| [LexML Brasil](https://www.lexml.gov.br) (Senado Federal) | Legislative records | no | Each cited law's "Publicação Original" day in the Diário Oficial |
-| [Câmara dos Deputados, Legislação Informatizada](https://www2.camara.leg.br/legin/fed/) | Parliament | no | Publication facts only (retificações, an Ato Declaratório) |
+| [Planalto (Legislação)](https://www.planalto.gov.br/ccivil_03/) (Presidência da República, Casa Civil) | Legislação oficial | em parte: a redação substituída é mantida, riscada, com uma nota que indica o ato alterador | A página de cada ato (anotada, e compilada quando o Planalto tem uma) e a página de cada ato que suas notas citam, lidas por meio de cópias datadas do Internet Archive; o texto oficial é o publicado no Diário Oficial da União |
+| [Supremo Tribunal Federal](https://portal.stf.jus.br/) | Tribunal | não se aplica | Páginas dos processos das decisões que riscaram palavras, para a decisão e o dia em que foi publicada |
+| [LexML Brasil](https://www.lexml.gov.br) (Senado Federal) | Registros legislativos | não | O dia da "Publicação Original" no Diário Oficial de cada lei citada |
+| [Câmara dos Deputados, Legislação Informatizada](https://www2.camara.leg.br/legin/fed/) | Parlamento | não | Somente dados de publicação (retificações, um Ato Declaratório) |
 
-## Licence
+## Licença
 
-See [`LICENSE`](LICENSE). The texts are official acts of Brazil as the Presidency of the Republic (Casa Civil) publishes them on planalto.gov.br, and official acts are not protected by copyright in Brazil (Lei 9.610/1998, art. 8º, IV); the arrangement of the history, the commit messages, the tables and the tools are CC0 1.0.
+Veja [`LICENSE`](LICENSE). Os textos são atos oficiais do Brasil tal como a Presidência da República (Casa Civil) os publica em planalto.gov.br, e os atos oficiais não são protegidos por direito autoral no Brasil (Lei 9.610/1998, art. 8º, IV); a organização do histórico, as mensagens de commit, as tabelas e as ferramentas estão sob CC0 1.0.
 
-No AI model wrote, translated or changed legal text, and none runs when the history is built; the scripts, and the tables of in-force days in them, were written by an AI model from the official pages (see [`REPRODUCE.md`](REPRODUCE.md)).
+Nenhum modelo de IA escreveu, traduziu ou alterou texto legal, e nenhum é executado quando o histórico é gerado; os scripts, e as tabelas de datas de vigência que eles contêm, foram escritos por um modelo de IA a partir das páginas oficiais (veja [`REPRODUCE.md`](REPRODUCE.md)).
 
-## Em português
+Esta é uma tradução da versão inglesa ([README.en.md](README.en.md)); em caso de divergência, prevalece a versão inglesa.
 
-Histórico do direito federal brasileiro em git: um arquivo por artigo, um commit por versão no dia em que entrou em vigor e, como autor do commit, o ato que fez cada alteração (`git blame` mostra o ato de cada parágrafo). Contém a Constituição e 322 códigos e leis federais com seu histórico, 4.358 versões desde 1851, e mais 5.000 atos federais só com o texto vigente hoje. Texto vigente em uma data: `python tools/vigente_em.py 2015-01-01 clt 134`. Fonte: Presidência da República, Casa Civil (planalto.gov.br). Pergunte ao Claude ou ao ChatGPT pelos links acima, em português ou em inglês.
+## Mais informação
 
-## More
+Do repositório [lexifina/global-law](https://github.com/lexifina/global-law) (páginas em inglês):
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
-
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): todas as funcionalidades e o que cada corpus tem de suportar (`git blame`, `law.py`, ferramentas MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): perguntas e respostas · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): propor alterações · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): servidor MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): como foi construído · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): quão atualizado está cada corpus · [Monitorização](https://github.com/lexifina/global-law/tree/main/monitoring): se as atualizações estão a funcionar · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): como cada fonte oficial é vigiada para detetar alterações
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): a rapidez das ferramentas, medida
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): gráficos e ligações através do direito de todo o mundo
+- [Vulnerabilidades](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erros nos diplomas tal como foram publicados
