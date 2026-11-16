@@ -1,0 +1,87 @@
+EMBARGOS DE DECLARAÇÃO CÍVEL. DIREITO ADMINISTRATIVO SANCIONADOR. APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. MULTA APLICADA PELO PROCON. ALEGAÇÃO DE OBSCURIDADE, CONTRADIÇÃO E OMISSÃO NO ACÓRDÃO. RECÁLCULO DAS PENALIDADES. CRITÉRIO DE DOSIMETRIA EXPRESSAMENTE DELINEADO. RETIRADA DO MULTIPLICADOR RELATIVO AO ÍNDICE DE GRAVIDADE DA INFRAÇÃO. INEXISTÊNCIA DE VÍCIO INTEGRATIVO. DISTINÇÃO ENTRE VALIDADE DO ATO ADMINISTRATIVO E CONTROLE JUDICIAL DA DOSIMETRIA DA SANÇÃO. REDUÇÃO DA MULTA SEM NULIDADE DOS PROCESSOS ADMINISTRATIVOS. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. NECESSIDADE DE ESCLARECIMENTO QUANTO À BASE DE CÁLCULO. PROVEITO ECONÔMICO OBTIDO POR CADA LITIGANTE. VEDAÇÃO À COMPENSAÇÃO. PREQUESTIONAMENTO. ART. 1.025 DO CPC. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que deu parcial provimento à apelação para reduzir multa aplicada pelo PROCON e redistribuir os ônus sucumbenciais.
+2. A embargante sustentou obscuridade e contradição quanto ao recálculo das multas, contradição entre o reconhecimento de vício de motivação e a manutenção dos atos administrativos, além de omissão acerca da base de cálculo dos honorários advocatícios e do prequestionamento de dispositivos legais e constitucionais.
+II. Questão em discussão
+3. As questões consistem em verificar: (i) a existência de obscuridade, contradição ou omissão no tocante ao recálculo das multas administrativas; (ii) a compatibilidade entre o reconhecimento de deficiência de motivação na dosimetria da sanção e a manutenção da validade dos atos administrativos; e (iii) a necessidade de integração do julgado quanto à base de cálculo dos honorários advocatícios diante da sucumbência recíproca.
+III. Razões de decidir
+4. O acórdão embargado foi claro ao determinar a exclusão do multiplicador referente ao índice de gravidade da infração, mantendo os demais parâmetros da fórmula adotada pelo PROCON, inexistindo obscuridade ou contradição quanto ao critério utilizado para readequação das multas.
+5. A deficiência de motivação reconhecida restringe-se à classificação da gravidade das infrações para fins de dosimetria, não comprometendo a validade dos processos administrativos, nos quais foram observados o contraditório e a ampla defesa.
+6. O controle jurisdicional da sanção administrativa autoriza a revisão da dosimetria quando ausente motivação concreta, sem que isso implique a nulidade integral do ato sancionador.
+7. Verificada, contudo, omissão quanto à base de cálculo dos honorários advocatícios, impõe-se a integração do acórdão para esclarecer que a verba deve observar o proveito econômico obtido por cada parte, mantida a sucumbência recíproca em proporção igualitária e vedada a compensação dos honorários.
+8. O prequestionamento dos dispositivos invocados observa a sistemática do art. 1.025 do CPC, sendo desnecessária manifestação expressa sobre cada norma indicada pela parte.
+IV. Dispositivo
+9. Embargos de declaração conhecidos e parcialmente acolhidos.
+Dispositivos relevantes citados: arts. 85, §§ 2º, 11 e 14, 86, 1.022, 1.023 e 1.025 do CPC; art. 93, IX, da Constituição Federal; arts. 50, § 1º, e 2º, parágrafo único, VII, da Lei nº 9.784/1999; art. 46 do Decreto nº 2.181/1997.
+
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível nº 0007058-47.2026.8.16.0026, em que é embargante OI S.A. – EM RECUPERAÇÃO JUDICIAL e é embargado MUNICÍPIO DE CAMPO LARGO.
+
+I. RELATÓRIO
+
+Trata-se de Embargos de Declaração opostos por OI S.A. – EM RECUPERAÇÃO JUDICIAL contra o acórdão que, nos autos da Apelação Cível nº 0008931-87.2023.8.16.0026, julgou o recurso parcialmente provido, com a seguinte ementa (mov. 32.1):
+
+DIREITO ADMINISTRATIVO SANCIONADOR. APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. MULTA APLICADA PELO PROCON. CONTROLE JUDICIAL DO ATO ADMINISTRATIVO. LIMITES. PRESUNÇÃO DE LEGITIMIDADE. DOSIMETRIA DA SANÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. DESPROPORCIONALIDADE. REDUÇÃO DA MULTA. SUCUMBÊNCIA RECÍPROCA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Apelação cível interposta contra sentença que, em ação anulatória, julgou improcedentes os pedidos, mantendo multa administrativa aplicada pelo PROCON no valor de R$28.883,64, com fundamento no art. 487, I, do CPC.
+2. A parte autora foi condenada ao pagamento de custas e honorários advocatícios.
+3. Nas razões recursais, a autora/apelante alegou nulidade do ato administrativo por vício de fundamentação e violação ao devido processo legal, ao contraditório e à ampla defesa. Subsidiariamente, requereu a redução do valor da multa.
+4. A Procuradoria-Geral de Justiça opinou pela ausência de interesse público a justificar intervenção.
+II. Questões em discussão
+5. Há duas questões em discussão: (i) saber se o ato administrativo sancionador é nulo tendo em vista a presença de vícios de legalidade e de motivação; (ii) saber se o valor da multa aplicada observa os princípios da motivação, da proporcionalidade e da razoabilidade.
+III. Razões de decidir
+6. O PROCON possui competência legal para fiscalizar relações de consumo e aplicar sanções administrativas, nos termos dos arts. 3º, X, e 4º, III, do Decreto nº 2.181/1997, bem como dos arts. 56 e 57 do Código de Defesa do Consumidor.
+7. O controle jurisdicional dos atos administrativos limita-se à verificação de sua legalidade, sendo vedada a incursão no mérito administrativo, salvo hipóteses de flagrante ilegalidade, ausência de motivação ou teratologia.
+8. Os atos administrativos gozam de presunção de legitimidade e veracidade, cabendo à parte interessada comprovar vício apto a infirmá-los, o que não restou demonstrado.
+9. Não houve vício nos processos administrativos aptos a autorizar a intromissão do Poder Judiciário.
+10. Contudo, a dosimetria da sanção administrativa submete-se ao controle judicial, especialmente quanto à observância dos princípios da proporcionalidade e razoabilidade.
+11. Nos termos do art. 57 do CDC e do art. 28 do Decreto nº 2.181/1997, a multa deve considerar a gravidade da infração, a extensão do dano, a vantagem auferida e a condição econômica do infrator.
+12. Em dois dos três processos administrativos, a autoridade limitou-se à invocação genérica de um dos critérios da dosimetria da pena e deixou de demonstrar concretamente sua aplicação ao caso específico, caracterizando vício de motivação apto à minoração dos valores imputados.
+13. Tal vício não enseja a nulidade do ato administrativo, mas autoriza a readequação do valor da multa pelo Poder Judiciário.
+14. Diante do parcial provimento do recurso, impõe-se a redistribuição dos ônus sucumbenciais, na forma do art. 86 do CPC, fixando-se sucumbência recíproca.
+IV. Dispositivo
+15. Recurso conhecido e parcialmente provido para reduzir o valor total da multa administrativa para R$12.395,16 e readequar os ônus sucumbenciais, fixando sucumbência recíproca na proporção de 50% para cada parte.
+Dispositivos relevantes citados: CPC, arts. 85, §2º e §11; 86; 487, I; CDC, arts. 56, I, parágrafo único e 57; Decreto nº 2.181/1997, arts. 3º, X; 4º, III; 18; 28; Portaria Municipal de Campo Largo nº 001/2020.
+
+Inconformada, a embargante sustentou em suma, que (mov. 1.1): a) o acórdão contém obscuridade e contradição quanto ao recálculo das multas dos processos administrativos relativos aos consumidores Isidoro e Tânia, pois, embora tenha determinado a exclusão do multiplicador 3 referente ao Índice de Gravidade da Prática Infrativa (IG), não esclareceu qual multiplicador foi efetivamente adotado nem apresentou a demonstração analítica do cálculo que resultou no valor de R$4.122,11 para cada processo; b) há contradição entre o reconhecimento de vício de motivação na classificação das infrações pelo PROCON e a manutenção dos atos administrativos sancionadores mediante readequação judicial das multas, sem decretação de nulidade dos atos reputados viciados; c) o acórdão é omisso e obscuro quanto à base de cálculo dos honorários advocatícios fixados em razão da sucumbência recíproca, por não especificar a base de incidência da verba para cada parte nem esclarecer se o percentual de 12% substitui ou se soma aos honorários anteriormente arbitrados na sentença; d) o julgado foi omisso quanto à incidência do art. 85, § 11, do CPC e ao regime jurídico aplicável aos honorários advocatícios devidos ao patrono do Município; e) é necessário o prequestionamento dos arts. 50, § 1º, e 2º, parágrafo único, VII, da Lei nº 9.784/1999; art. 46 do Decreto Federal nº 2.181/1997; art. 93, IX, da Constituição Federal; e arts. 85, §§ 2º, 3º e 11, e 86, do CPC.
+Assim, requereu: i) o saneamento da obscuridade e da contradição mediante demonstração analítica completa do novo cálculo das multas aplicadas nos processos administrativos de Isidoro e Tânia, com indicação do grupo de gravidade adotado e da fórmula utilizada; ii) o saneamento da contradição referente à manutenção de atos administrativos reconhecidamente viciados quanto à motivação, com esclarecimento do fundamento jurídico adotado ou, alternativamente, o reconhecimento da nulidade dos atos administrativos; iii) o saneamento da omissão e da obscuridade relativas às bases de cálculo dos honorários advocatícios, com esclarecimento sobre a incidência dos percentuais e eventual aplicação do art. 85, § 11, do CPC; iv) o prequestionamento dos dispositivos legais e constitucionais indicados; v) a atribuição de efeitos modificativos ao julgado, para reconhecimento da nulidade dos atos administrativos viciados e/ou redução do valor das multas, caso os vícios apontados conduzam à alteração do resultado do julgamento.
+Contrarrazões ao mov. 10.1.
+É o relatório.
+
+II. VOTO
+
+Conheço dos embargos de declaração, uma vez que foram protocolados dentro do prazo legal estabelecido no art. 1.023, cumulado com o art. 219 do Código de Processo Civil.
+Conforme artigo 1.022 do referido código processual, cabem embargos de declaração para esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material.
+No caso, sustentou a embargante que o acórdão teria incorrido em obscuridade e contradição ao determinar a exclusão do multiplicador 3, referente ao Índice de Gravidade da Prática Infrativa (IG), dos cálculos das multas aplicadas nos processos administrativos relativos aos consumidores Isidoro e Tânia, sem indicar expressamente qual multiplicador deveria substituí-lo ou apresentar a memória analítica do cálculo que conduziu ao valor de R$ 4.122,11 para cada processo.
+Não lhe assiste razão.
+O acórdão embargado examinou expressamente a metodologia empregada pelo PROCON e reconheceu que a Municipalidade realizou o cálculo das penalidades mediante fórmula prevista na Portaria Municipal nº 01/2020. Todavia, constatou-se que, nos processos administrativos relativos aos consumidores Tânia e Isidoro, a classificação da infração como gravíssima não foi acompanhada de fundamentação concreta, tendo sido empregada fundamentação genérica e idêntica nos dois casos.
+Por essa razão, o julgado determinou a retirada do multiplicador 3 (três) correspondente ao item “IG”, mantendo-se os demais parâmetros da fórmula administrativa, e consignou expressamente que, com a extirpação desse fator, o valor de cada uma das multas passa a corresponder a R$4.122,11, mantendo-se, por sua vez, a penalidade de R$4.150,94 aplicada no processo administrativo relativo à Click Cópias. Assim, chegou-se ao montante final de R$ 12.395,16.
+Portanto, não há obscuridade ou contradição a ser sanada, pois o comando judicial é suficientemente claro quanto ao critério adotado: a retirada do multiplicador 3 do fator de gravidade, preservados os demais elementos da fórmula utilizada pelo próprio PROCON.
+A pretensão de que seja reproduzida, em sede de embargos de declaração, memória matemática pormenorizada do cálculo não se confunde com a existência de vício previsto no art. 1.022 do CPC, sobretudo porque o resultado e o critério determinante da readequação foram expressamente consignados no acórdão.
+Também não se verifica a alegada contradição quanto ao reconhecimento de deficiência de motivação e a manutenção dos atos administrativos sancionadores.
+O acórdão distinguiu expressamente a validade dos processos administrativos da adequação da dosimetria das penalidades.
+Isto é, ao examinar o pedido principal de anulação, concluiu-se pela inexistência de vício apto a justificar a invalidação integral dos processos administrativos, considerando, inclusive, que a empresa foi regularmente notificada dos atos praticados, participou das audiências, teve oportunidade de apresentar defesa e interpôs os recursos administrativos cabíveis.
+Posteriormente, ao apreciar o pedido subsidiário de redução da multa, reconheceu-se que a dosimetria da sanção se sujeita ao controle jurisdicional, especialmente quanto à observância dos princípios da proporcionalidade e da razoabilidade, tendo sido constatada deficiência de motivação especificamente quanto à classificação da gravidade das infrações nos processos administrativos de Isidoro e Tânia.
+Nesse contexto, o acórdão foi expresso ao consignar que a deficiência de motivação identificada não conduzia à nulidade integral dos atos sancionadores, mas autorizava a readequação judicial do valor das multas.
+No tocante aos honorários advocatícios, contudo, os embargos merecem parcial acolhimento, para esclarecimento e integração do julgado.
+A sentença julgou improcedentes os pedidos formulados pela autora e, em razão da sucumbência integral, condenou-a ao pagamento dos honorários advocatícios, fixados em 10% sobre o valor atualizado da causa.
+Com o parcial provimento da apelação, entretanto, houve modificação do resultado da demanda, uma vez que, embora tenha sido mantida a rejeição do pedido de nulidade dos atos administrativos, foi acolhida a pretensão subsidiária de redução das multas, que passaram de R$28.883,64 para R$12.395,16.
+Diante desse resultado, mostra-se adequada a redistribuição dos ônus sucumbenciais, reconhecendo-se a sucumbência recíproca, na proporção de 50% para cada parte, conforme já estabelecido no acórdão embargado.
+Também não há óbice à nova fixação da verba honorária em razão da alteração do resultado da demanda. O percentual anteriormente estabelecido na sentença não impede que, diante da modificação da sucumbência em grau recursal, sejam novamente arbitrados os honorários, observados os parâmetros do art. 85, §2º, do CPC.
+Nesse ponto, o percentual de 12% mostra-se adequado às circunstâncias da demanda e permanece dentro dos limites legais previstos no art. 85, §2º, do CPC, considerando-se a natureza e a importância da causa, o trabalho desenvolvido e o tempo exigido para a prestação do serviço.
+Todavia, merece esclarecimento a base de cálculo adotada no acórdão.
+Isso porque, tratando-se de demanda em que a parte autora pretendia, entre outros pedidos, a redução das penalidades administrativas e obteve êxito parcial nesse aspecto, a base de cálculo da verba honorária deve observar a ordem estabelecida no art. 85, §2º, do CPC, privilegiando-se o valor da condenação ou, conforme o caso, o proveito econômico obtido, e somente na impossibilidade de sua mensuração o valor atualizado da causa.
+No caso concreto, é possível mensurar o proveito econômico decorrente do acolhimento parcial da pretensão.
+A multa administrativa originalmente fixada totalizava R$28.883,64, tendo sido reduzida para R$12.395,16 por força do julgamento da apelação. Assim, o proveito econômico obtido pela autora corresponde à diferença entre esses valores, isto é, R$16.488,48, a ser devidamente atualizada.
+De outro lado, a parcela da pretensão em que a autora sucumbiu corresponde ao valor da penalidade que permaneceu exigível, de R$12.395,16, que constitui, sob essa perspectiva, o proveito econômico obtido pelo Município.
+Desse modo, a expressão constante do acórdão embargado, no sentido de que os honorários seriam calculados “sobre o valor atualizado da condenação”, deve ser integrada para esclarecer que a verba honorária deverá observar, para cada parte, o respectivo proveito econômico obtido, mantida a proporção de 50% para cada litigante quanto à distribuição dos ônus sucumbenciais.
+Ressalte-se, ainda, que a verba honorária pertencente ao patrono de cada parte não se compensa, nos termos do art. 85, §14, do CPC.
+Finalmente, com relação ao prequestionamento, a finalidade não tem a virtude de promover a declaração do julgado na espécie, haja vista a suficiência da fundamentação expendida.
+Sobre isso, vale destacar a nova sistemática do Código de Processo Civil:
+
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+
+Considerando que a fundamentação constante destes embargos de declaração já está incluída no acórdão para fim de prequestionamento, cumpre rejeitá-los.
+
+CONCLUSÃO
+
+Diante do exposto, voto pelo conhecimento e PARCIAL ACOLHIMENTO dos embargos de declaração, sem efeitos infringentes, exclusivamente para integrar o acórdão quanto à base de cálculo dos honorários advocatícios, esclarecendo que a verba deverá observar o proveito econômico obtido por cada parte, mantida a proporção de 50% para cada litigante e vedada a compensação, permanecendo inalterados os demais termos do julgado.
