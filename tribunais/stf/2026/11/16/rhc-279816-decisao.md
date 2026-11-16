@@ -1,0 +1,70 @@
+DECISÃO
+
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. HOMICÍDIOS QUALIFICADOS. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO CONSTITUCIONAL DA SOBERANIA DOS VEREDICTOS. MATÉRIA NÃO EXAMINADA NO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE. RECURSO ORDINÁRIO EM HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+1. Recurso ordinário em habeas corpus, sem requerimento de medida liminar, interposto por Leandro Santana de Souza contra julgado da Sexta Turma do Superior Tribunal de Justiça pelo qual, em 1º.10.2026, desprovido o Agravo Regimental no Habeas Corpus n. 1.119.990, Relator o Ministro Rogerio Schietti Cruz:
+“AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. SOBERANIA DOS VEREDITOS. TESE ANALISADA NO HC N. 1.102.934/MG. VIOLAÇÃO DO ART. 490 DO CPP. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de ofensa à soberania dos vereditos já foi analisada no HC n. 1.102.934 /MG, no qual se concluiu que a absolvição do réu era manifestamente contrária à prova dos autos, por não haver tese defensiva que pudesse sustentar a conclusão do Conselho de Sentença.
+2. Em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, não é cabível o exame de matéria não apreciada anteriormente pela Corte local – violação do art. 490 do CPP –, sob pena de supressão de instância.
+3. A concessão de habeas corpus de ofício é prerrogativa do julgador, e não direito subjetivo da parte. Ademais, o referido expediente não se presta a burlar as regras processuais de admissibilidade. Precedentes.
+4. Agravo regimental não provido”.
+
+2. O recorrente afirma que o Habeas Corpus n. 1.119.990 não seria repetição do Habeas Corpus n. 1.102.934, ambos impetrados no Superior Tribunal de Justiça em seu benefício. Sustenta que, na primeira impetração, apresentou-se a questão relativa à possibilidade de reforma da sua absolvição baseada em quesito genérico, e, na segunda, a alegação era de que, admitida a reforma dessa absolvição, o tribunal de segunda instância “podia fazê-lo seletivamente, preservando o capítulo condenatório de um veredicto que ele próprio declarou incoerente”.
+
+Insiste na alegação de contrariedade ao princípio constitucional da soberania dos veredictos e argumenta ser possível a concessão da ordem de ofício na espécie. Pondera que:
+“A soberania dos veredictos (art. 5º, XXXVIII, ‘c’, da Constituição da República) admite que o tribunal de apelação, reconhecendo decisão manifestamente contrária à prova, submeta o réu a novo julgamento (art. 593, § 3º, do Código de Processo Penal). Não admite que o tribunal escolha, entre as deliberações dos jurados, as que preserva e as que desconstitui.
+(...) será julgado pela morte de Giselle já condenado, em definitivo, pela morte de Jefferson, ocorrida no mesmo instante, na mesma cama, pelos mesmos disparos. A sessão de 7 de outubro de 2026 demonstrou o que isso significa: uma simples dúvida de um jurado sobre o passado do réu bastou para comprometer a imparcialidade do Conselho a ponto de dissolvê-lo, a pedido da própria acusação. Se a mera associação a um crime patrimonial de 2006 contaminou o julgamento, a condenação definitiva pela morte gêmea torna estruturalmente impossível um julgamento imparcial”.
+
+Estes os pedidos:
+“(...) a) o provimento do recurso, para conceder a ordem e declarar integralmente nulo o julgamento realizado em 28 de abril de 2025, submetendo-se o recorrente a novo julgamento pelo Tribunal do Júri quanto a ambos os fatos, em sessão única, com a consequente expedição de alvará de soltura, se por outro motivo não estiver preso, observado o limite de 13 anos e 6 meses de reclusão quanto à vítima Jefferson Pinheiro dos Santos;
+b) subsidiariamente, o provimento do recurso para determinar que o Superior Tribunal de Justiça conheça do habeas corpus e examine o seu mérito;
+c) subsidiariamente, a concessão da ordem de ofício para determinar que o Tribunal de Justiça do Estado de Minas Gerais examine a vedação à desconstituição parcial do veredicto e a consequência legal, nos termos do art. 490 do Código de Processo Penal, da contradição por ele assentada”.
+
+Examinada a matéria posta à apreciação, DECIDO.
+
+3. O pedido apresentado pelo recorrente é manifestamente contrário à jurisprudência do Supremo Tribunal Federal.
+
+4. Ao proferir o julgado objeto da presente impetração, a Sexta Turma do Superior Tribunal de Justiça assentou:
+“(...) A despeito dos argumentos despendidos pela defesa, deve ser mantido o não conhecimento do habeas corpus. Veja-se a decisão combatida (...):
+LEANDRO SANTANA DE SOUZA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0000.25.210159-7/001.
+No Juízo de primeiro grau, o paciente foi condenado pela prática de homicídio qualificado de Jefferson e absolvido quanto à vítima Giselle.
+O Tribunal de origem deu provimento ao apelo ministerial para cassar a decisão absolutória dos jurados na série de quesitos referente ao homicídio perpetrado contra Giselle para que o Tribunal do Júri reexamine a imputação.
+A defesa sustenta que é vedada a desconstituição parcial do veredicto do Conselho de Sentença, por ofensa à soberania dos veredictos. Afirma existir contradição nas respostas dos quesitos e inobservância do art. 490 do CPP, o que impõe a nulidade integral da votação. Alega prejuízo concreto decorrente da fragmentação do julgamento. Aduz que eventual renovação do julgamento deve observar o limite de 13 anos e 6 meses quanto ao homicídio de Jefferson em razão da reformatio in pejus indireta. Afirma, por fim, que a custódia foi decretada exclusivamente em razão do veredicto do júri e deve ser revogada com a anulação do julgamento.
+Decido.
+De início, destaco que, na análise do HC n. 1.102.934/MG, apontei que ‘a absolvição do réu era manifestamente contrária à prova dos autos, por não haver tese defensiva que pudesse sustentar a conclusão do Conselho de Sentença’ e deneguei o habeas corpus in limine.
+Neste writ, a parte se insurge contra o mesmo ato coator e alega violação do art. 490 do Código de Processo Penal. Constato que a controvérsia deduzida neste habeas corpus não foi previamente analisada pelo Tribunal de origem, o que evidencia a ausência de ‘causa julgada', a justificar a inauguração da competência do STJ. Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+Ilustrativamente: ‘Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância’ (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+Cumpre esclarecer que, no HC n. 1.102.934/MG, analisei os argumentos quanto à soberania dos vereditos e à existência de provas a embasar a absolvição de Giselle. Assinalei que ‘a absolvição do réu era manifestamente contrária à prova dos autos, por não haver tese defensiva que pudesse sustentar a conclusão do Conselho de Sentença’ e deneguei o habeas corpus in limine.
+A parte reitera a alegação de ofensa à soberania dos vereditos, o que, repita-se, já foi analisado por mim, de modo que não há contradição pelo não conhecimento da questão.
+A parte aponta violação do art. 490 do CPP e pugna para que, caso persista o entendimento de supressão de instância, seja concedida a ordem de ofício. Em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento da matéria, sob pena de supressão de instância.
+Salutar mencionar que, conforme jurisprudência desta Corte, ‘tendo em vista a marcha processual, que segue para frente, uma vez constituído novo patrono, este recebe o feito no estado em que se encontra, não tendo direito à reabertura de oportunidade para a prática de atos processuais já preclusos’ (AgRg no HC n. 825.657/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/12/2023, DJe de 19/12/2023, grifei).
+Ressalto, por oportuno, que a concessão de habeas corpus de ofício é prerrogativa do julgador, e não direito subjetivo da parte. Ademais, o referido expediente não se presta a burlar as regras processuais de admissibilidade.
+(...) Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada. A propósito: ‘É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos’ (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022)”.
+
+5. As questões de mérito alegadas no presente recurso ordinário em habeas corpus, relativas a eventual contrariedade ao princípio constitucional da soberania dos veredictos, não foram apreciadas pela Sexta Turma do Superior Tribunal de Justiça no julgado agora posto em discussão. Ao proferir o acórdão objeto deste recurso ordinário em habeas corpus, a autoridade apontada como coatora restringiu-se a afirmar que o Habeas Corpus n. 1.119.990 é repetição do Habeas Corpus n. 1.102.934, também impetrado no Superior Tribunal de Justiça, e que eventuais ilegalidades no julgamento do Tribunal do Júri não foram analisadas em segunda instância.
+
+É firme a jurisprudência deste Supremo Tribunal no sentido da impossibilidade de atuação jurisdicional quando a decisão impugnada no habeas corpus não tenha cuidado da matéria objeto do pedido apresentado na nova ação, sob pena de supressão de instância. Assim, por exemplo:
+“AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CONSTITUCIONAL. PENAL. PROCESSO PENAL. CRIME EM LICITAÇÃO. ART. 90 DA LEI N. 8.666/1993. COMPETÊNCIA. MATÉRIA NÃO EXAMINADA NO HABEAS CORPUS IMPETRADO NO SUPERIOR TRIBUNAL DE JUSTIÇA: INDEVIDA SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. REEXAME DE PROVAS. AUSÊNCIA DE ILEGALIDADE OU TERATOLOGIA NAS DECISÕES DAS INSTÂNCIAS ANTECEDENTES. AGRAVO REGIMENTAL DESPROVIDO” (RHC n. 224.710-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 5.5.2023).
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. EXTORSÃO COM RESTRIÇÃO DE LIBERDADE DA VÍTIMA, CONCURSO DE PESSOAS E EMPREGO DE ARMA DE FOGO. BUSCA E APREENSÃO DETERMINADA PELO JUÍZO DE ORIGEM. ACESSO A DADOS DE APARELHOS CEULARES PELA POLÍCIA CIVIL. POSSIBILIDADE. EVENTUAL RECONHECIMENTO DE NULIDADE DAS PROVAS INSUFICIENTE A INFIRMAR A SENTENÇA CONDENATÓRIA. MATÉRIAS NÃO EXAMINADAS PELAS INSTÂNCIAS ANTECEDENTES. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 200.793-AgR, Relatora a Ministra Cármen Lúcia, Segunda Turma, DJe 2.6.2021).
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO AGRAVADA EM HARMONIA COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE QUE ORIENTA A MATÉRIA SOB EXAME. AUSÊNCIA DE PRÉVIA MANIFESTAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA SOBRE A MATÉRIA DE FUNDO DA IMPETRAÇÃO. REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NA INICIAL QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+I – A decisão ora atacada não merece reforma ou qualquer correção, pois os seus fundamentos harmonizam-se estritamente com a jurisprudência desta Suprema Corte que orienta a matéria em questão. II – A orientação jurisprudencial deste Supremo Tribunal é firme no sentido de que, ‘[inexistindo] prévia manifestação do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância’ (HC 119.600-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma). III – O presente recurso mostra-se inviável, pois contém apenas a reiteração dos argumentos de defesa anteriormente expostos, sem, no entanto, revelar quaisquer elementos capazes de afastar as razões decisórias por mim proferidas. IV – Agravo ao qual se nega provimento” (HC
+n. 186.069-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 11.3.2021).
+
+6. Sem incorrer em indevido prejulgamento, mas apenas para afastar a alegação de manifesta ilegalidade ou teratologia na espécie, ressalte-se que, para decidir de forma diversa e concluir pela contrariedade ao princípio constitucional da soberania dos veredictos, seria necessário analisar se haveria, ou não, repetição de habeas corpus no Superior Tribunal de Justiça e se estaria caracterizada ilegalidade na determinação de realização de novo júri em relação ao homicídio da vítima. Ademais, seria necessário desconsiderar o assentado pelas instâncias antecedentes e reexaminar as provas colhidas no processo originário, procedimento inadmissível em recurso ordinário em habeas corpus.
+
+A jurisprudência deste Supremo Tribunal firmou-se no sentido de ser incabível a impetração de habeas corpus “com objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento” (HC n. 73.519-AgR, Relator o Ministro Celso de Mello, Primeira Turma, DJe 14.3.2011).
+
+7. Pela jurisprudência do Supremo Tribunal Federal, “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental”
+(HC n. 96.883-AgR, Relatora a Ministra Cármen Lúcia, DJe 1º.2.2011).
+
+8. Pelo exposto, nego seguimento ao recurso ordinário em habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 16 de novembro de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
