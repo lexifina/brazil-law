@@ -1,0 +1,113 @@
+Poder Judiciário
+
+Tribunal de Justiça do Estado de São Paulo
+
+Gab. 01 - 30ª Câmara de Direito Privado
+
+Praça João Mendes, S/Nº - Bairro: Centro - CEP: 01018-010 - Fone: - - https://www.tjsp.jus.br/ - Email: gabcrusso@tjsp.jus.br
+
+Agravo de Instrumento Nº 4065323-73.2026.8.26.0000/SP
+
+RELATOR: Desembargador CARLOS ALBERTO RUSSO
+
+RELATÓRIO
+
+VOTO Nº 60.094
+
+Agravo de instrumento, codevedora (instituição financeira), em etapa de cumprimento de julgado (disciplina constitutivo/reparatória em negócio de venda e compra de veículo automotor, com financiamento bancário), agravante renova tese de excesso de execução.
+
+Recurso tempestivo, processado no duplo efeito (evento 9).
+
+Informações da instância da causa (evento 16).
+
+Contraminuta (evento 18).
+
+Submetida à condenação solidária, à codevedora, ora agravante não basta encaminhar pagamento proporcional, descontando diferença, que atribui à devedora comum.
+
+Observadas as disposições dos artigos 275 e 283, do Código Civil, a devedora, agravante responde pela dívida, por inteiro, em relação ao credor, daí com direito de regresso contra os demais devedores.
+
+VOTO
+
+Do exposto, voto por negar provimento ao recurso.
+
+Documento eletrônico assinado por CARLOS ALBERTO RUSSO, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc2g.tjsp.jus.br/eproc/verifica.php, mediante o preenchimento do código verificador 610000833919v2 e do código CRC cfcc732d.
+
+Informações adicionais da assinatura:
+Signatário (a): CARLOS ALBERTO RUSSO
+Data e Hora: 17/11/2026, às 19:02:11
+
+4065323-73.2026.8.26.0000
+
+610000833919
+.V2
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Tribunal de Justiça do Estado de São Paulo
+
+Gab. 01 - 30ª Câmara de Direito Privado
+
+Praça João Mendes, S/Nº - Bairro: Centro - CEP: 01018-010 - Fone: - - https://www.tjsp.jus.br/ - Email: gabcrusso@tjsp.jus.br
+
+Agravo de Instrumento Nº 4065323-73.2026.8.26.0000/SP
+
+RELATOR: Desembargador CARLOS ALBERTO RUSSO
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. ETAPA DE CUMPRIMENTO DE JULGADO (DISCIPLINA CONSTITUTIVO/REPARATÓRIA EM NEGÓCIO DE VENDA E COMPRA DE VEÍCULO AUTOMOTOR). IMPUGNAÇÃO REJEITADA (TESE DE EXCESSO DE EXECUÇÃO). RECURSO DE CODEVEDORA (INSTITUIÇÃO FINANCEIRA). DESPROVIMENTO.
+
+ACÓRDÃO
+
+Vistos e relatados estes autos em que são partes as acima indicadas, a Egrégia 30ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo decidiu, por unanimidade, negar provimento ao recurso, nos termos do relatório, votos e notas de julgamento que ficam fazendo parte integrante do presente julgado.
+
+São Paulo, 16 de novembro de 2026.
+
+Documento eletrônico assinado por CARLOS ALBERTO RUSSO, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc2g.tjsp.jus.br/eproc/verifica.php, mediante o preenchimento do código verificador 610000833920v3 e do código CRC d7d7cb60.
+
+Informações adicionais da assinatura:
+Signatário (a): CARLOS ALBERTO RUSSO
+Data e Hora: 17/11/2026, às 19:02:11
+
+4065323-73.2026.8.26.0000
+
+610000833920
+.V3
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Tribunal de Justiça do Estado de São Paulo
+
+EXTRATO DE ATA DA SESSÃO VIRTUAL – RESOLUÇÃO CNJ 591/24 DE 05/11/2026 A 12/11/2026
+
+Agravo de Instrumento Nº 4065323-73.2026.8.26.0000/SP
+
+RELATOR: Desembargador CARLOS ALBERTO RUSSO
+
+PRESIDENTE: Desembargador RICARDO BRAGA MONTE SERRAT
+
+PROCURADOR(A): LAURO LUIZ GOMES RIBEIRO
+
+Certifico que este processo foi incluído na Pauta da Sessão Virtual – Resolução CNJ 591/24, realizada no período de 05/11/2026, às 00:00, a 12/11/2026, às 23:59, na sequência 9, disponibilizada no DE de 22/10/2026.
+
+Certifico que a 30ª Câmara de Direito Privado, ao apreciar os autos do processo em epígrafe, proferiu a seguinte decisão:
+
+A 30ª CÂMARA DE DIREITO PRIVADO DECIDIU, POR UNANIMIDADE, NEGAR PROVIMENTO AO RECURSO.
+
+RELATOR DO ACÓRDÃO: Desembargador CARLOS ALBERTO RUSSO
+
+Votante: Desembargador CARLOS ALBERTO RUSSO
+
+Votante: Desembargador MARIA LÚCIA RIBEIRO DE CASTRO PIZZOTTI MENDES
+
+Votante: Desembargador RICARDO BRAGA MONTE SERRAT
+
+FABIANA ALBERTI DE MORAIS
+
+Secretária
+
+Identificações de pessoas físicas foram ocultadas
