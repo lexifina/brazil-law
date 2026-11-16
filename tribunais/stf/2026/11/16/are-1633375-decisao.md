@@ -1,0 +1,38 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+DIREITO PENAL. APELAÇÃO CRIMINAL. ESTELIONATO PREVIDENCIÁRIO TENTADO. PENSÃO POR MORTE. MATERIALIDADE E AUTORIA COMPROVADAS. CONDENAÇÃO MANTIDA. DOSIMETRIA DA PENA. REDUÇÃO DE PRESTAÇÃO PECUNIÁRIA. APELAÇÃO DA DEFESA NÃO PROVIDA.
+I. CASO EM EXAME
+1. A defesa interpôs apelação contra a sentença proferida pelo Juízo da 2ª Vara Federal da Subseção Judiciária de Divinópolis/MG, que condenou o réu à pena de 1 ano e 4 meses de reclusão, em regime inicial aberto, e 13 dias-multa, no valor unitário de 1/30 do salário mínimo, pela prática do crime previsto no artigo 171, § 3º, c/c artigo 14, inciso II, do Código Penal. A pena privativa de liberdade foi substituída por duas penas restritivas de direitos: prestação pecuniária no valor de cinco salários mínimos e prestação de serviços à comunidade.
+2. A denúncia narra que o réu, em conluio com terceiros, apresentou documentos ideologicamente falsos, certidão de nascimento e carteira de habilitação, para induzir a erro servidores do INSS, com o objetivo de obter indevidamente benefício de pensão por morte. A fraude foi descoberta após a mãe do suposto falecido apresentar documentação autêntica, e o pedido foi indeferido na via administrativa.
+II. QUESTÕES EM DISCUSSÃO
+3. Há duas questões em discussão: (i) verificar se estão presentes os elementos típicos do delito de estelionato previdenciário tentado, em especial a autoria e o dolo do agente; (ii) analisar a adequação da dosimetria da pena, com destaque para o pedido de redução do valor da prestação pecuniária.
+III. RAZÕES DE DECIDIR
+4. A autoria e o dolo do agente estão demonstrados nos autos, sobretudo pelo depoimento do corréu, que confessou ter protocolado o requerimento de benefício previdenciário na condição de procurador, utilizando documentação falsa fornecida pelo réu apelante, a quem atribuiu a organização da empreitada criminosa, inclusive o pagamento pelos serviços prestados.
+5. O corréu afirmou desconhecer a beneficiária indicada no pedido e declarou que agiu a pedido do réu, a quem entregava os comprovantes do protocolo do benefício. Tal narrativa se mostrou coerente com as demais provas dos autos e com as declarações prestadas em sede policial.
+6. A tentativa de consumação do crime apenas foi frustrada por circunstâncias alheias à vontade dos agentes, em razão da atuação da verdadeira beneficiária, que apresentou a documentação autêntica ao INSS, o que configura a tentativa nos termos do artigo 14, inciso II, do Código Penal.
+7. A materialidade e a autoria delitivas estão devidamente comprovadas, preenchendo-se todos os elementos objetivos e subjetivos do tipo penal do artigo 171, § 3º, do Código Penal. Inexistem causas excludentes da ilicitude ou da culpabilidade.
+8. A pena foi fixada em 1 ano e 4 meses de reclusão, após análise das circunstâncias judiciais do artigo 59 do Código Penal, com incremento pela agravante prevista no artigo 62, pelo papel de liderança do réu na organização do crime, seguida de diminuição pela tentativa e aumento final em razão do § 3º do artigo 171, tendo em vista que a vítima é o INSS.
+9. A substituição da pena privativa de liberdade por duas restritivas de direitos, prestação pecuniária de cinco salários mínimos e prestação de serviços à comunidade, está em consonância com os critérios legais e jurisprudenciais.
+10. O pedido de redução do valor da prestação pecuniária para dois salários mínimos foi corretamente indeferido, tendo em vista a proporcionalidade da sanção fixada com a gravidade do delito e as condições do réu, não havendo violação aos princípios da razoabilidade ou da individualização da pena.
+11. O pedido de gratuidade de justiça foi indeferido, sob o fundamento de que a aferição da condição de miserabilidade econômica deve ser realizada na fase de execução penal, nos termos da jurisprudência do Superior Tribunal de Justiça.
+IV. DISPOSITIVO
+12. Apelação da defesa não provida. Sentença condenatória mantida.
+
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso LVII, e 93, inciso IX, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que o(s) dispositivo(s) indicado(s) como violado(s) no recurso extraordinário carece(m) do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas 282 e 356/STF. Nesse sentido:
+
+“EMENTA DIREITO PENAL E PROCESSUAL PENAL. ESTELIONATO. ALEGAÇÃO DE OFENSA AO ART. 5º, LVII, DA LEI MAIOR. PRESUNÇÃO DE INOCÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS Nº 282 E 356/STF. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. MATERIALIDADE E AUTORIA. SÚMULA Nº 279/STF. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. 1. Desatendido se encontra o pressuposto recursal do prequestionamento. Cristalizada a jurisprudência desta Suprema Corte, nos termos das Súmulas nº 282 e 356/STF: ‘Inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada’, bem como ‘O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento’. 2. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta ao preceito constitucional indicado nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e a reelaboração da moldura fática, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República. 4. Agravo interno conhecido e não provido.’’
+(ARE 1377689 AgR, Relator(a): ROSA WEBER, Primeira Turma, julgado em 13-06-2022, PROCESSO ELETRÔNICO DJe-117  DIVULG 15-06-2022  PUBLIC 17-06-2022)
+“Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Incidência das Súmulas nºs 282 e 356/STF. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºs 282 e 356/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.230.706/DF - AgR, Tribunal Pleno, Rel.  Min. Dias Toffoli, DJe de 18/12/2019).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de novembro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
