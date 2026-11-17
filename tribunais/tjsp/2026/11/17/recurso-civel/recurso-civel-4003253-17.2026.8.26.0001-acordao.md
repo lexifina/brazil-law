@@ -1,0 +1,149 @@
+Poder Judiciário
+
+JUSTIÇA ESTADUAL
+
+Cível - Tribunal de Justiça do Estado de São Paulo
+
+Gab 04 - 5ª Turma Recursal Cível
+
+RECURSO CÍVEL Nº 4003253-17.2026.8.26.0001/SP
+
+Assunto: Práticas Abusivas (Direito Bancário)
+
+RELATOR: Juiz de Direito RENATO GUANAES SIMOES THOMSEN
+
+RELATÓRIO
+
+Voto.
+
+Dispensado o relatório, nos termos do artigo 46 da Lei nº 9.099/95 e do Enunciado nº 92 do FONAJE.
+
+De início, rejeito a alegação de deserção suscitada em contrarrazões.
+
+A guia de custas recursais foi emitida no valor total de R$ 1.047,72, sendo R$ 658,03 correspondentes especificamente ao preparo do recurso inominado (Evento 58, GUIAS DE CUSTAS1, p. 1), e o respectivo pagamento foi realizado em 15/06/2026 (Evento 67, CUSTAS1, p. 1).
+
+A posterior integração da sentença, com a modificação do valor da condenação material para R$ 12.000,00, não tornou insuficiente o valor já recolhido.
+
+Isso porque o preparo propriamente dito (artigo 4º, II, §2º, da Lei Estadual 11.608//2003) foi calculado sobre o valor da causa (R$ 16.000,00), o qual é superior ao fixado pela r sentença. A tese suscitada pelo recorrido teria razão de ser se a alíquota do preparo tivesse incidido sobre valor inferior ao da condenação, o que não ocorreu.
+
+Também não há irregularidade na complementação das razões recursais apresentada no Evento 88. O recurso inominado foi interposto antes da decisão que acolheu parcialmente os embargos de declaração e modificou o valor da condenação, hipótese em que o artigo 1.024, §4º, do CPC assegura à parte recorrente o direito de complementar ou alterar suas razões nos exatos limites da modificação superveniente.
+
+Presentes os demais pressupostos de admissibilidade, conheço do recurso.
+
+No mérito, pelo meu voto, mantenho a r. sentença recorrida, tal como integrada pela decisão proferida nos embargos de declaração, por seus próprios fundamentos, na forma do artigo 46 da Lei nº 9.099/95, e condeno a recorrente ao pagamento das custas processuais e honorários advocatícios, que fixo em 10% sobre o valor atualizado da condenação, nos termos do artigo 55 da Lei nº 9.099/95.
+
+Quanto ao mais suscitado, tenha-se em mente que, por força da celeridade, do disposto no artigo 46 da Lei nº 9.099/95 e do princípio do livre convencimento motivado, o julgador não está obrigado a esclarecer cada argumento proposto, mas somente justificar a razão de seu entendimento.
+
+“O Supremo Tribunal Federal já assentou entendimento de que não há afronta ao art. 93, inc. IX e X, da Constituição da República quando a decisão for motivada, sendo desnecessária a análise de todos os argumentos apresentados e certo que a contrariedade ao interesse da parte não configura negativa de prestação jurisdicional.” (STF, MS nº 26.163/DF, Rel. Min. Cármen Lúcia).
+
+Considera-se prequestionada toda matéria constitucional e infraconstitucional invocada, observando posicionamento do C. STJ segundo o qual prescindível a citação numérica dos dispositivos legais que fundamentam a decisão: “Já é pacífico nesta e. Corte que, tratando-se de prequestionamento, é desnecessária a citação numérica de dispositivos legais, bastando que a questão tenha sido decidida.” (STJ, EDcl no RMS nº 18.205/SP, Rel. Min. Felix Fischer).
+
+VOTO
+
+Voto por negar provimento ao recurso.
+
+Documento eletrônico assinado por RENATO GUANAES SIMOES THOMSEN, Relator, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc1g.tjsp.jus.br/eproc/externo_controlador.php?acao=consulta_autenticidade_documentos, mediante o preenchimento do código verificador 610013446136v11 e do código CRC 2345a89f.
+
+Informações adicionais da assinatura:
+Signatário (a): RENATO GUANAES SIMOES THOMSEN
+Data e Hora: 18/11/2026, às 11:41:11
+
+4003253-17.2026.8.26.0001
+
+610013446136
+.V11
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Cível - Tribunal de Justiça do Estado de São Paulo
+
+RECURSO CÍVEL Nº 4003253-17.2026.8.26.0001/SP
+
+Assunto: Práticas Abusivas (Direito Bancário)
+
+RELATOR: Juiz de Direito RENATO GUANAES SIMOES THOMSEN
+
+EMENTA
+
+DIREITO DO CONSUMIDOR. RECURSO INOMINADO. ALEGAÇÃO DE DESERÇÃO, NÃO RECONHECIDA. CARTÃO DE CRÉDITO. FURTO DO CARTÃO. QUATRO COMPRAS NÃO RECONHECIDAS, NO TOTAL DE R$ 6.000,00. TRANSAÇÕES SUCESSIVAS E ATÍPICAS. FALHA DOS MECANISMOS DE SEGURANÇA. INEXIGIBILIDADE DOS DÉBITOS. REPETIÇÃO EM DOBRO DOS VALORES PAGOS. COBRANÇAS MANTIDAS MESMO APÓ TUTELA DE URGÊNCIA. VIOLAÇÃO À BOA-FÉ OBJETIVA. EMBARGOS DE DECLARAÇÃO. COMPROVAÇÃO DO PAGAMENTO INTEGRAL DAS CINCO PARCELAS. CONDENAÇÃO MATERIAL ELEVADA PARA R$ 12.000,00. PRELIMINAR DE DESERÇÃO SUSCITADA EM CONTRARRAZÕES. PREPARO SUFICIENTE. COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS APÓS MODIFICAÇÃO DA SENTENÇA. POSSIBILIDADE. ASTREINTES. EVENTUAL APURAÇÃO REMETIDA À FASE DE CUMPRIMENTO DE SENTENÇA. COBERTURA SECURITÁRIA AFASTADA EM RAZÃO DE EXCLUSÃO CONTRATUAL PARA FURTO SIMPLES. DANOS MORAIS NÃO CONFIGURADOS. SENTENÇA PARCIALMENTE PROCEDENTE MANTIDA. RECURSO DESPROVIDO.
+
+I. CASO EM EXAME
+
+1. RECURSO INOMINADO INTERPOSTO POR INSTITUIÇÃO DE PAGAMENTO CONTRA SENTENÇA DE PARCIAL PROCEDÊNCIA EM AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM OBRIGAÇÃO DE FAZER, REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS, DECORRENTE DO FURTO DO CARTÃO DE CRÉDITO DA AUTORA E DA REALIZAÇÃO, NOS DIAS 11 E 12 DE JANEIRO DE 2026, DE QUATRO COMPRAS NÃO RECONHECIDAS NO ESTABELECIMENTO “INFINITY BOOK”.
+
+2. A SENTENÇA REJEITOU A PRELIMINAR DE ILEGITIMIDADE PASSIVA, RECONHECEU A INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR E A FALHA NA PRESTAÇÃO DO SERVIÇO, DECLAROU INEXIGÍVEIS AS QUATRO OPERAÇÕES E TORNOU DEFINITIVA A TUTELA QUE VEDARA SUA COBRANÇA. RECONHECEU, AINDA, O DIREITO À REPETIÇÃO EM DOBRO DAS PARCELAS INDEVIDAMENTE PAGAS, AFASTOU A COBERTURA SECURITÁRIA DIANTE DA EXCLUSÃO CONTRATUAL PARA FURTO SIMPLES E REJEITOU O PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS.
+
+3. EM EMBARGOS DE DECLARAÇÃO, CONSTATADO DOCUMENTALMENTE QUE A AUTORA HAVIA QUITADO AS CINCO PARCELAS MENSAIS DE R$ 1.200,00, TOTALIZANDO R$ 6.000,00, A CONDENAÇÃO À REPETIÇÃO DO INDÉBITO FOI ELEVADA PARA R$ 12.000,00. A APLICAÇÃO E A APURAÇÃO DE EVENTUAIS ASTREINTES PELO DESCUMPRIMENTO DA TUTELA FORAM REMETIDAS À FASE DE CUMPRIMENTO DE SENTENÇA.
+
+II. QUESTÕES EM DISCUSSÃO
+4. AS QUESTÕES EM DISCUSSÃO CONSISTEM EM: (I) SABER SE O RECURSO É DESERTO EM RAZÃO DA AUSÊNCIA DE COMPLEMENTAÇÃO DO PREPARO APÓS A MODIFICAÇÃO DA SENTENÇA NOS EMBARGOS DE DECLARAÇÃO; (II) DEFINIR SE É ADMISSÍVEL A COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS EM RAZÃO DA ALTERAÇÃO SUPERVENIENTE DO JULGADO; (III) VERIFICAR SE AS OPERAÇÕES IMPUGNADAS PODEM SER REPUTADAS REGULARES EM RAZÃO DA UTILIZAÇÃO DE MECANISMOS ORDINÁRIOS DE AUTENTICAÇÃO OU SE HOUVE FALHA DO SERVIÇO BANCÁRIO; (IV) DEFINIR SE HÁ CULPA EXCLUSIVA DA CONSUMIDORA OU DE TERCEIRO APTA A ROMPER O NEXO CAUSAL; (V) VERIFICAR A EXIGIBILIDADE DAS QUATRO COMPRAS, NO TOTAL DE R$ 6.000,00; (VI) DEFINIR SE É CABÍVEL A REPETIÇÃO EM DOBRO DOS VALORES EFETIVAMENTE PAGOS; E (VII) EXAMINAR A INSURGÊNCIA QUANTO ÀS ASTREINTES DECORRENTES DO ALEGADO DESCUMPRIMENTO DA TUTELA DE URGÊNCIA.
+
+III. RAZÕES DE DECIDIR
+5. A PRELIMINAR DE DESERÇÃO DEVE SER REJEITADA. O VALOR DO PREPARO PROPRIAMENTE DITO (ARTIGO 4º, II, §2º, DA LEI ESTADUAL 11.608/2003) FOI CALCULADO SOBRE O VALOR DA CAUSA, SUPERIOR AO QUE DEVERIA SER UTILIZADO (VALOR DA CONDENAÇÃO)..
+6. A DECISÃO PROFERIDA NOS EMBARGOS DE DECLARAÇÃO MODIFICOU O CONTEÚDO DA SENTENÇA DEPOIS DA INTERPOSIÇÃO DO RECURSO, CIRCUNSTÂNCIA QUE AUTORIZA A COMPLEMENTAÇÃO OU ALTERAÇÃO DAS RAZÕES RECURSAIS NOS LIMITES DA MODIFICAÇÃO SUPERVENIENTE, NOS TERMOS DO ARTIGO 1.024, § 4º, DO CÓDIGO DE PROCESSO CIVIL.
+7. A RELAÇÃO É DE CONSUMO E A INSTITUIÇÃO QUE INTEGRA A CADEIA DE PRESTAÇÃO DOS SERVIÇOS DE PAGAMENTO POSSUI LEGITIMIDADE PARA RESPONDER PELA ALEGADA FALHA DE SEGURANÇA. A UTILIZAÇÃO DE CARTÃO, CHIP, SENHA OU OUTROS MECANISMOS ORDINÁRIOS DE AUTENTICAÇÃO NÃO BASTA, ISOLADAMENTE, PARA COMPROVAR A REGULARIDADE MATERIAL DAS OPERAÇÕES CONTESTADAS.
+8. AS QUATRO COMPRAS FORAM REALIZADAS SUCESSIVAMENTE EM CURTO INTERVALO DE TEMPO, NO MESMO ESTABELECIMENTO, INCLUSIVE EM HORÁRIOS INCOMPATÍVEIS COM O PADRÃO ORDINÁRIO DE UTILIZAÇÃO DEMONSTRADO NOS AUTOS. OS REGISTROS INTERNOS APRESENTADOS COMPROVAM O PROCESSAMENTO ELETRÔNICO DAS TRANSAÇÕES, MAS NÃO AFASTAM A ATIPICIDADE NEM DEMONSTRAM MECANISMO EFICAZ DE DETECÇÃO E BLOQUEIO DAS OPERAÇÕES SUSPEITAS. ADEMAIS, SE ADMITIDO, POR INVERSÃO DO ÔNUS DA PROVA (ARTIGO 6º, VIII, DO CDC) QUE O CARTÃO FOI FURTADO, O RECORRENTE NÃO DEMONSTROU A INVIOLABILIDADE DO SISTEMA DE CHIP E SENHA NO CASO DE USO INDEVIDO POR TERCEIROS. CONFIGURADA, PORTANTO, O DEFEITO DE SEGURANÇA DO SERVIÇO. CULPA EXCLUSIVA DA CONSUMIDORA OU DE TERCEIRO NÃO DEMONSTRADA.
+9. MANTÉM-SE A DECLARAÇÃO DE INEXIGIBILIDADE DAS QUATRO COMPRAS, NO TOTAL DE R$ 6.000,00.
+10. A REPETIÇÃO EM DOBRO INDEPENDE DA DEMONSTRAÇÃO DE MÁ-FÉ SUBJETIVA QUANDO A COBRANÇA INDEVIDA TRADUZ COMPORTAMENTO CONTRÁRIO À BOA-FÉ OBJETIVA. NO CASO, MESMO APÓS A CONCESSÃO DA TUTELA DE URGÊNCIA PARA CESSAÇÃO DAS COBRANÇAS, OS LANÇAMENTOS CONTINUARAM SENDO REALIZADOS, TENDO A CONSUMIDORA COMPROVADO, POSTERIORMENTE, O PAGAMENTO INTEGRAL DAS CINCO PARCELAS DE R$ 1.200,00. CORRETA, ASSIM, A RESTITUIÇÃO EM DOBRO DO MONTANTE EFETIVAMENTE DESEMBOLSADO, TOTALIZANDO R$ 12.000,00.
+11. A PRETENSÃO RECURSAL DE AFASTAMENTO OU REDUÇÃO DAS ASTREINTES NÃO ALTERA O RESULTADO DO JULGAMENTO, POIS A DECISÃO QUE INTEGROU A SENTENÇA EXPRESSAMENTE RESERVOU A APURAÇÃO DO EVENTUAL DESCUMPRIMENTO DA TUTELA E A LIQUIDAÇÃO DAS MULTAS COMINATÓRIAS PARA A FASE DE CUMPRIMENTO DE SENTENÇA.
+12. PERMANECEM INALTERADOS OS CAPÍTULOS DA SENTENÇA. NÃO IMPUGNADOS EM RECURSO, OS QUAIS AFASTARAM A INDENIZAÇÃO SECURITÁRIA, EM RAZÃO DA EXCLUSÃO CONTRATUAL EXPRESSA PARA FURTO SIMPLES, E OS DANOS MORAIS, POR AUSÊNCIA DE CIRCUNSTÂNCIA CONCRETA SUFICIENTE PARA CARACTERIZAR LESÃO EXTRAPATRIMONIAL INDENIZÁVEL.
+13. AUSENTES ELEMENTOS CAPAZES DE INFIRMAR AS CONCLUSÕES DA SENTENÇA, TAL COMO INTEGRADA PELOS EMBARGOS DE DECLARAÇÃO, IMPÕE-SE SUA MANUTENÇÃO PELOS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ARTIGO 46 DA LEI Nº 9.099/95.
+
+IV. DISPOSITIVO E TESES
+14. PRELIMINAR DE DESERÇÃO REJEITADA. RECURSO DESPROVIDO.
+TESES DE JULGAMENTO: 1. NÃO HÁ DESERÇÃO QUANDO O PREPARO JÁ RECOLHIDO PERMANECE SUFICIENTE APÓS A MODIFICAÇÃO SUPERVENIENTE DO VALOR DA CONDENAÇÃO. 2. MODIFICADA A SENTENÇA EM JULGAMENTO DE EMBARGOS DE DECLARAÇÃO APÓS A INTERPOSIÇÃO DO RECURSO, É ADMISSÍVEL A COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS NOS LIMITES DA ALTERAÇÃO, NOS TERMOS DO ARTIGO 1.024, §4º, DO CPC. 3. A AUTENTICAÇÃO FORMAL DE OPERAÇÕES COM CARTÃO NÃO AFASTA, POR SI SÓ, A RESPONSABILIDADE DO PRESTADOR QUANDO AS TRANSAÇÕES APRESENTAM CARACTERÍSTICAS OBJETIVAMENTE ATÍPICAS E NÃO SÃO DEMONSTRADOS MECANISMOS EFICAZES DE DETECÇÃO E BLOQUEIO. 4. A COBRANÇA DE OPERAÇÕES FRAUDULENTAS EM DESCONFORMIDADE COM A BOA-FÉ OBJETIVA AUTORIZA A REPETIÇÃO EM DOBRO DOS VALORES EFETIVAMENTE PAGOS, NOS TERMOS DO ARTIGO 42, PARÁGRAFO ÚNICO, DO CDC. 5. A APURAÇÃO DE EVENTUAL DESCUMPRIMENTO DA TUTELA E DAS CORRESPONDENTES ASTREINTES PODE SER RESERVADA À FASE DE CUMPRIMENTO DE SENTENÇA.
+
+ACÓRDÃO
+
+Vistos e relatados estes autos em que são partes as acima indicadas, 5ª Turma Recursal Cível decidiu, por unanimidade, negar provimento ao recurso, nos termos do relatório, votos e notas de julgamento que ficam fazendo parte integrante do presente julgado.
+
+São Paulo, 17 de novembro de 2026.
+
+Documento eletrônico assinado por RENATO GUANAES SIMOES THOMSEN, Relator, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc1g.tjsp.jus.br/eproc/externo_controlador.php?acao=consulta_autenticidade_documentos, mediante o preenchimento do código verificador 610013446137v5 e do código CRC 0184697e.
+
+Informações adicionais da assinatura:
+Signatário (a): RENATO GUANAES SIMOES THOMSEN
+Data e Hora: 18/11/2026, às 11:41:10
+
+4003253-17.2026.8.26.0001
+
+610013446137
+.V5
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Justiça Estadual
+
+Cível - Tribunal de Justiça do Estado de São Paulo
+
+EXTRATO DE ATA DA SESSÃO VIRTUAL – RESOLUÇÃO CNJ 591/24 DE 10/11/2026 A 17/11/2026
+
+RECURSO CÍVEL Nº 4003253-17.2026.8.26.0001/SP
+
+RELATOR: Juiz de Direito RENATO GUANAES SIMOES THOMSEN
+
+PRESIDENTE: Juiz de Direito ROGERIO MARCIO TEIXEIRA
+
+Certifico que este processo foi incluído na Pauta da Sessão Virtual – Resolução CNJ 591/24, realizada no período de 10/11/2026, às 00:00, a 17/11/2026, às 23:59, na sequência 31, disponibilizada no DE de 26/10/2026.
+
+Certifico que a 5ª Turma Recursal Cível, ao apreciar os autos do processo em epígrafe, proferiu a seguinte decisão:
+
+A 5ª TURMA RECURSAL CÍVEL DECIDIU, POR UNANIMIDADE, NEGAR PROVIMENTO AO RECURSO.
+
+RELATOR DO ACÓRDÃO: Juiz de Direito RENATO GUANAES SIMOES THOMSEN
+
+Votante: Juiz de Direito RENATO GUANAES SIMOES THOMSEN
+
+Votante: Juiz de Direito PAULO FURTADO DE OLIVEIRA FILHO
+
+Votante: Juiz de Direito MARCOS ALEXANDRE BRONZATTO PAGAN
+
+DANIELA BETTI RIBEIRO
+
+Secretária
+
+Identificações de pessoas físicas foram ocultadas
