@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2350, de 16 de novembro de 2026
+Altera a Instrução Normativa RFB nº 1.645, de 30 de maio de 2016, que dispõe sobre a incidência do Imposto sobre a Renda Retido na Fonte sobre rendimentos pagos, creditados, empregados, entregues ou remetidos para pessoas jurídicas domiciliadas no exterior nas hipóteses que menciona.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 2º, caput, inciso I, da Lei nº 13.315, de 20 de julho de 2016,resolve:
