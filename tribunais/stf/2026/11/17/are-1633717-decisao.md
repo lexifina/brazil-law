@@ -1,0 +1,49 @@
+DECISÃO
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO EXTRAORDINÁRIO. ESTELIONATO. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO CONTRADITÓRIO E À AMPLA DEFESA. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). ALEGAÇÃO DE VIOLAÇÃO AO ART. 93, IX, CF/88. NÃO CONFIGURADA. ALEGAÇÃO DE NULIDADE DO PROCEDIMENTO DE RECONHECIMENTO DO RÉU. OFENSA REFLEXA À CONSTITUIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 279/STF. NEGATIVA DE SEGUIMENTO.
+
+ Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Rodrigo Mascarenhas Porto Dias, em face do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+
+“APELAÇÃO CRIMINAL. ESTELIONATO. Recurso defensivo. Preliminar de nulidade do reconhecimento do réu por violação ao disposto no art. 226 do CPP. A inobservância das formalidades do artigo 226 não invalida o reconhecimento. Preliminar de nulidade da sentença. Condenação alicerçada na prova oral coligida e não no silêncio do réu. Absolvição por insuficiência probatória. Materialidade e autoria comprovadas. Relatos seguros e coesos da vítima e dos policiais civis. Condenação mantida. Pena reduzida em primeira fase da dosimetria. Recurso parcialmente provido.” (Apelação Criminal nº 1505034-86.2024.8.26.0050, 14ª Câmara de Direito Criminal, Rel. Des. Hermann Herschander, j. 12.09.24)
+
+No recurso extraordinário, sustenta-se violação dos arts. 5º, LIV, LV, LVI, LVII e LXIII, e 93, IX,  da Constituição da República. Argumenta-se, em síntese, “O reconhecimento realizado durante a audiência também padece de graves vícios. 30. Além do evidente viés confirmatório, dado que o réu foi apresentado algemado e vestindo uniforme prisional, os demais detentos escolhidos para compor o grupo de reconhecimento não apresentavam qualquer similaridade mínima com o acusado”.
+É o relatório.
+Decido.
+O recurso não comporta seguimento.
+O Tribunal de origem decidiu a demanda sob os seguintes fundamentos:
+
+“Cabe lembrar que o próprio artigo 226, inciso II, do CPP, dispõe que o procedimento ali previsto para o reconhecimento será adotado “se possível”, o que traduz mera recomendação, e não uma determinação. Tem-se, portanto, que a inobservância das formalidades do artigo 226 não invalida o reconhecimento; caberá ao Julgador conferir a ele, na moldura do sistema do livre convencimento, a valoração devida, levando em conta, inclusive, a forma como realizado.
+[...]
+Aliás, tecnicamente, o reconhecimento realizado sem as formalidades do artigo 226 do Código de Processo Penal nada mais é do que parte integrante do próprio depoimento.
+No mais, o auto de reconhecimento fotográfico5 aponta que a vítima descreveu as características do que seria reconhecido e identificou o réu Rodrigo.
+Posteriormente, efetuou reconhecimento pessoal, tanto em sede policial6 quanto em Juízo.
+Ademais, essa identificação foi corroborada por outros elementos probatórios, já que, conforme se verá, a condenação do apelante se deu com base, também, nos depoimentos das testemunhas, formando-se, assim, conjunto seguro para embasar a condenação.
+[...]
+A materialidade delitiva está demonstrada por meio de boletim de ocorrência, autos de reconhecimento8 , relatório de investigação9 e prova oral coligida.
+Certa, igualmente, a autoria.
+[...]
+Não obstante o empenho defensivo, os elementos de convicção coligidos durante a persecução penal não permitem dúvida sobre a procedência da imputação.
+Como se vê, o réu entrou em contato com o ofendido para aquisição de aparelhos celulares. Combinaram um encontro, momento em que o acusado se evadiu em posse dos aparelhos, a pretexto de conferir a autenticidade dos mesmos antes de realizar o pagamento.
+Assim, todos os elementos componentes do tipo penal descrito no artigo 171 do Código Penal restaram sobejamente demonstrados nos autos: o dolo preordenado, a fraude, a entrega dos bens pela vítima ludibriada e a obtenção da vantagem indevida pelo acusado.
+Não há dúvidas de que o acusado induziu em erro a vítima, ao demonstrar interesse na compra dos aparelhos telefônicos e recebe-los com a justificativa de conferir a autenticidade deles.” (Id. 75078bf7)
+
+Da análise dos autos, não se vislumbra a alegada violação do art. 93, IX, da Carta da República. O dispositivo exige que sejam fundamentadas, ainda que sucintamente,  todas as decisões dos órgãos do Poder Judiciário, sem determinar, contudo, o exame pormenorizado de todas as alegações das partes. No presente caso, o órgão julgador enfrentou as causas de pedir veiculadas pela parte, bem como motivou adequadamente sua decisão e solucionou a controvérsia aplicando o direito que entendeu pertinente na hipótese. Nesse sentido:
+
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes, Plenário Virtual, DJe 13.8.2010)
+
+Por sua vez, nos termos da jurisprudência consolidada deste Supremo Tribunal Federal, a verificação da alegada ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa pressupõe o exame e a interpretação das normas infraconstitucionais aplicáveis ao caso, de tal modo que tal violação, se ocorresse, seria reflexa, o que não atende à exigência do art. 102, III, a, da Lei Fundamental. Acrescente-se que esta Suprema Corte, no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013, decidiu que a matéria não apresenta repercussão geral. O acórdão está assim ementado:
+
+“Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”. (ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013)
+
+Noutro giro, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise ou reexame se revelam inviáveis em sede de recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+“Direito Penal e Processual Penal. Agravo regimental no recurso extraordinário com agravo. Estelionato. Reconhecimento Fotográfico. Nulidade. Inexistência. Matéria infraconstitucional. Incidência da Súmula 279/STF. Agravo não provido. I. Caso em exame 1. Agravo regimental contra decisão que negou seguimento ao recurso extraordinário com agravo. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar os fatos e as provas constantes dos autos, procedimentos vedados nesta sede processual (Súmula 279/STF). 5. O Tema 1380 de repercussão geral, que versa sobre a validade do reconhecimento pessoal quando não observadas as diretrizes do art. 226 do CPP, não se aplica, pois o Tribunal de origem reconheceu que a informante conhecia o acusado previamente e que a condenação foi embasada em múltiplas provas. IV. Dispositivo 6. Agravo regimental não provido.” (ARE 1590352 AgR, Rel. Min. Edson Fachin (Presidente), Tribunal Pleno, DJe-s/n 17-04-2026)(Grifei)
+“DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ROUBO. RECONHECIMENTO PESSOAL. NULIDADE. MATÉRIA INFRACONSTITUCIONAL. NECESSIDADE DE REEXAMINAR FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. AGRAVO NÃO PROVIDO. I. Caso em exame 1. Agravo regimental contra decisão que negou seguimento a recurso extraordinário com agravo. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. A alegada violação ao dispositivo constitucional indicado como violado, não foi objeto de discussão pelo acórdão recorrido, tampouco foi suscitada em sede de embargos declaratórios. Ausente, portanto, o indispensável prequestionamento (Súmulas 282 e 356 do STF). 5. Para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar os fatos e as provas constantes dos autos, procedimentos vedados nesta sede processual (Súmula 279/STF). IV. Dispositivo 6. Agravo regimental a que se nega provimento.” (ARE 1569254 AgR, Rel. Min. Edson Fachin (Presidente), Tribunal Pleno, DJe-s/n 06-11-2025)(Grifei)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Publique-se.
+
+Brasília, 17 de novembro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
