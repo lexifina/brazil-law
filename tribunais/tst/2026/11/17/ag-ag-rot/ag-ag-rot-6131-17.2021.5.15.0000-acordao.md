@@ -1,0 +1,569 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-Ag-ROT - 6131-17.2021.5.15.0000
+A C Ó R D Ã O
+(SDI-2)
+GMLC/mvc
+AGRAVO INTERNO EM RECURSO ORDINÁRIO EM AÇÃO
+RESCISÓRIA. ACÓRDÃO RESCINDENDO TRANSITADO EM
+JULGADO NA VIGÊNCIA DO CPC/2015. DIFERENÇAS SALARIAIS –
+APLICAÇÃO DOS ÍNDICES DO CRUESP – DECISÃO PROFERIDA
+PELO STF NO ARE 1.057.577/SP (TEMA Nº 1027 DA TABELA DE
+REPERCUSSÃO GERAL) – CONTAGEM DO PRAZO DECADENCIAL.
+ARTIGO 535, § 8º, DO CPC/2015. DECADÊNCIA NÃO
+VERIFICADA. Trata-se de ação rescisória ajuizada com
+fundamento nos arts. 535, § 8º, e 966, V, do CPC/2015, visando
+desconstituir acórdão que manteve a condenação do então
+reclamado reconheceu o direito às diferenças salariais
+decorrentes dos reajustes previstos nas Resoluções do CRUESP.
+Fato incontroverso, a decisão do STF, no julgamento da o ARE nº
+1.057.577/SP (Tema nº 1027 da Tabela de Repercussão Geral)
+transitou em julgado em 16/04/2019, sendo adequadamente
+observado o prazo decadencial pelo ajuizamento da ação
+rescisória em 11/03/2021. Neste sentido, ressalta-se o
+entendimento firmado pelo STF no julgamento da "Questão de
+ordem" nos autos da Ação Rescisória 2876, de que o prazo
+decadencial para ajuizamento da pretensão rescisória é de dois
+anos, contados do trânsito em julgado da decisão do STF.
+Portanto, considerando que a ação rescisória foi proposta a
+menos de 02 (dois) anos do trânsito em julgado do paradigma
+do STF, não há decadência a ser pronunciada. Agravo interno
+conhecido e não provido.
+DIFERENÇAS SALARIAIS – APLICAÇÃO DOS ÍNDICES DO CRUESP
+– DECISÃO PROFERIDA PELO STF NO ARE 1.057.577/SP (TEMA
+Nº 1027 DA TABELA DE REPERCUSSÃO GERAL).
+No caso, o acórdão rescindendo manteve a condenação da
+autora da presente ação rescisória ao fundamento de que “A
+política salarial das Universidades Estaduais Paulistas é ditada
+por meio de resoluções expedidas pelo Conselho dos Reitores
+das Universidades Estaduais de São Paulo CRUESP”. O STF, ao
+decidir o ARE nº 1.057.577/SP, o qual correspondeu ao Tema nº
+1027 da Tabela de Repercussão Geral, firmou entendimento de
+que "A extensão, pelo Poder Judiciário, das verbas e vantagens
+concedidas pelo Conselho de Reitores das Universidades do
+Estado de São Paulo (Cruesp) aos empregados das instituições
+de ensino autônomas vinculadas às universidades estaduais
+paulistas contraria o disposto na Súmula Vinculante 37". Na
+referida decisão, foi ainda firmado entendimento de que a
+aplicação do Tema nº 1027 da Tabela de Repercussão Geral
+concretiza a jurisprudência já consolidada no Tema nº 315,
+também do STF, no qual foi firmada a tese de que "Não cabe, ao
+Poder Judiciário, que não tem a função legislativa, aumentar
+vencimentos de servidores públicos sob o fundamento de
+isonomia". Portanto, esta Corte Superior, fundamentando-se na
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006885665F14F986C.
+Súmula Vinculante nº 37, e também na tese firmada pelo
+Supremo Tribunal Federal no julgamento do Tema nº 1027 da
+Tabela de Repercussão Geral, firmou entendimento de que a
+concessão de reajuste salarial por meio de Resolução emitida
+pelo Conselho de Reitores das Universidades de São Paulo -
+CRUESP, com fundamento no princípio da isonomia, contraria o
+artigo 37 X, da CF/88, segundo o qual “a remuneração dos
+servidores públicos e o subsídio de que trata o § 4º do art. 39
+somente poderão ser fixados ou alterados por lei específica,
+observada a iniciativa privativa em cada caso, assegurada
+revisão geral anual, sempre na mesma data e sem distinção de
+índices;”. Portanto, a jurisprudência sedimentada nesta Corte
+considera inválida a concessão de reajuste salarial por meio de
+resolução emitida pelo CRUESP. Assim, deve ser mantida a
+decisão ora agravada que, julgando procedente a ação
+rescisória, desconstituiu o acórdão rescindendo e, em juízo
+rescisório, julgou improcedente o pedido de diferenças salariais
+concedidas à reclamante do processo originário em decorrência
+dos reajustes concedidos pelo CRUESP. Agravo interno
+conhecido e desprovido.
+Vistos, relatados e discutidos estes autos de Agravo em Agravo em Recurso
+Ordinário Trabalhista nº TST-Ag-Ag-ROT - 6131-17.2021.5.15.0000, em que é Agravante(s) MARCOS
+ZAIANTCHICK e é Agravado(s) FACULDADE DE MEDICINA DE SÃO JOSÉ DO RIO PRETO.
+Trata-se de ação rescisória ajuizada pela Faculdade de Medicina de Marília, com
+fundamento no artigo 535, §§5º e 8º, do CPC/2015, visando desconstituir acórdão proferido pelo TRT15,
+nos autos da reclamação trabalhista nº 135700-73.2008.5.15.0082, o qual manteve a condenação da
+autora ao pagamento de diferenças salariais decorrente de reajustes não concedidos.
+O Tribunal Regional, pronunciando a decadência, extinguiu o processo com
+resolução do mérito nos termos do art. 487, II, do CPC.
+Inconformada, a autora interpôs recurso ordinário.
+Admitido o apelo, foram apresentadas contrarrazões.
+O Ministério Público do Trabalho oficiou pelo desprovimento do apelo.
+Esta Relatora, monocraticamente, negou provimento ao recurso ordinário.
+O réu interpõe agravo interno.
+Não foi apresentada contraminuta.
+É o relatório.
+V O T O
+1. CONHECIMENTO
+Presentes os pressupostos de admissibilidade, conheço do agravo interno.
+2. MÉRITO
+2.1. AÇÃO RESCISÓRIA CALCADA NO ART. 535, §8º, DO CPC/2015 – REAJUSTES
+SALARIAIS FIXADOS PELO CONSELHO DE REITORES DAS UNIVERSIDADES DO ESTADO DE SÃO PAULO
+(CRUESP). TEMA DE REPERCUSSÃO GERAL Nº 1027 - DECADÊNCIA NÃO VERIFICADA
+O Tribunal Regional afastou a prejudicial de decadência e julgou procedente a
+ação rescisória mediante os seguintes fundamentos:
+(...) Nada obstante seja esse o entendimento deste Relator, prevaleceu quando do julgamento
+da Ação Rescisória nº 0005889-58.2021.5.15.0000, em 28/7/2021, o entendimento de que as decisões
+que reconheceram o direito aos reajustes CRUESP aos empregados da ora requerente, como o v.
+Acordão rescindendo, estão escoradas em interpretação incompatível com a Constituição da
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006885665F14F986C.
+República, conforme exteriorizado pelo E. STF quando da adoção de Tese no Tema 1027 de
+Repercussão Geral, e que, portanto, a ação rescisória teria sido ajuizada dentro do biênio
+decadencial, conforme diretriz estabelecida § 8º do artigo 535 do CPC.
+Nesse sentido, em se tratando de questão eminentemente de Direito, e em respeito ao
+Princípio da Colegialidade, adoto como razões de decidir os fundamentos que prevaleceram quando
+da prolação do v. Acórdão paradigma, que afastam a alegação de decadência e, no mérito, acolhem a
+pretensão rescisória:
+"No caso da autarquia especial FAMEMA, salvo melhor juízo, o art. 65 do Decreto
+Estadual 41.228/96 (fls. 80/91) apenas preconiza que a política salarial dos seus
+servidores seria a mesma aplicada às Universidades Estaduais Paulistas. Entendo, assim,
+que essa norma genérica, que determina aplicação de política salarial de outro órgão,
+não tem status de lei específica, emanada da autoridade competente, para determinar
+qual índice específico deve ser aplicado. Entendo, assim, que há violação ao artigo 37, X e
+XIII, da Constituição Federal.
+Relembro aqui que essa exegese tem fomentado Juízos de Retratação no TST, no
+julgamento de Agravos de Instrumento, assim como tem fomentado o entendimento de
+inúmeros julgados daquela Corte. Cito, abaixo, alguns exemplos:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DA
+FUNDAÇÃO MUNICIPAL DE ENSINO SUPERIOR DE MARÍLIA. APELO APRECIADO
+ANTERIORMENTE POR ESTA TURMA. DIFERENÇAS SALARIAIS. REAJUSTES PELOS ÍNDICES
+DEFINIDOS PELO CRUESP. IMPOSSIBILIDADE. NECESSIDADE DE LEI ESPECÍFICA.
+EXERCÍCIO DE JUÍZO DE RETRATAÇÃO. ART. 1.030, II, DO CPC/2015 (ART. 543-B, § 3.º, DO
+CPC/1973). Verificado que a tese adotada pela Turma não se coaduna com o
+posicionamento firmado pela Suprema Corte no julgamento do Tema 1.027 da Tabela de
+Repercussão Geral, exerce-se o juízo de retratação, nos termos em que preconiza o art.
+1.030, II, do CPC/2015. Assim, dá-se seguimento ao Agravo Interno. Agravo conhecido e
+provido. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DA FUNDAÇÃO
+MUNICIPAL DE ENSINO SUPERIOR DE MARÍLIA. DIFERENÇAS SALARIAIS. REAJUSTES PELOS
+ÍNDICES DEFINIDOS PELO CRUESP. IMPOSSIBILIDADE. NECESSIDADE DE LEI ESPECÍFICA.
+Dá-se provimento ao Agravo de Instrumento para determinar o seguimento da Revista.
+Agravo de Instrumento conhecido e provido. RECURSO DE REVISTA. DIFERENÇAS
+SALARIAIS. REAJUSTES PELOS ÍNDICES DEFINIDOS PELO CRUESP. IMPOSSIBILIDADE.
+NECESSIDADE DE LEI ESPECÍFICA. TEMA 1.027 DE REPERCUSSÃO GERAL. O TST firmou
+entendimento no sentido de que o pedido de diferenças salariais, com fundamento em
+Resoluções do CRUESP, amolda-se à tese jurídica fixada pelo STF no Precedente de
+Repercussão Geral RE 592.317/RJ. Referido Precedente, proíbe autorização judicial de
+aumento remuneratório a servidor público valorando o princípio da isonomia (Súmula
+Vinculante 37 do STF), sem que haja previsão em lei específica. Precedentes. Recurso de
+Revista conhecido e provido." (RR-1577- 13.2010.5.15.0101, 1ª Turma, Relator Ministro
+Luiz Jose Dezena da Silva, DEJT 31/08/2020)
+"JUÍZO DE RETRATAÇÃO. AGRAVO DE INSTRUMENTO. JULGAMENTO ANTERIOR
+PELA SEGUNDA TURMA DESTA CORTE SUPERIOR. DEVOLUÇÃO PARA EVENTUAL EMISSÃO
+DE JUÍZO DE RETRATAÇÃO (ART. 1.030, INCISO II, DO CPC). 1. Na hipótese, o Tribunal
+Regional concluiu que a reclamante faz jus ao pagamento de diferenças salariais
+decorrentes dos reajustes fixados pelo Conselho de Reitores das Universidades
+Estaduais Paulistas (CRUESP) por entender que a Faculdade de Medicina de Marília
+submete-se à mesma política salarial adotada pelas Universidades Estaduais Paulistas,
+sujeitando-se, pois, aos reajustes fixados pela Resolução da CRUESP. 2. Esta Segunda
+Turma, em acórdão anteriormente proferido, negou provimento aos agravos de
+instrumento das reclamadas, em conformidade com o entendimento majoritário da SDI￾1 desta Corte, no sentido de se tratar de matéria de caráter infraconstitucional, o que
+impede a constatação direta e literal do artigo 37, X, da CF/1988. 3. Todavia, o Supremo
+Tribunal Federal, no julgamento do ARE nº 1.057.577/SP, indicado como leading case do
+Tema nº 1.027 da Tabela de Repercussão Geral, fixou a tese de que "A extensão, pelo
+Poder Judiciário, das verbas e vantagens concedidas pelo Conselho de Reitores das
+Universidades do Estado de São Paulo (Cruesp) aos empregados das instituições de
+ensino autônomas vinculadas às universidades estaduais paulistas contraria o disposto
+na Súmula Vinculante 37. Não cabe, ao Poder Judiciário, que não tem a função
+legislativa, aumentar vencimentos de servidores públicos sob o fundamento de
+isonomia". Na oportunidade, acerca do óbice aplicado no sentido de que a matéria
+envolveria interpretação de legislação estadual, fato que inviabilizaria a verificação de
+afronta direta a preceito constitucional, a Suprema Corte consignou que "a necessidade
+de exame de legislação local não obsta o conhecimento de recurso extraordinário
+quando a aplicação de suas normas gerar resultado frontalmente contrário à Norma
+Constitucional". 4. Nesse contexto, em razão da dissonância do acórdão proferido por
+esta 2ª Turma com o entendimento do STF, com repercussão geral reconhecida e caráter
+vinculante, submetem-se a novo exame, em juízo de retratação, os agravos de
+instrumento interpostos pelas reclamadas, nos termos do art. 1.030, inciso II, do
+CPC/2015 (art. 543-B, §3.º, do CPC/1973). Juízo de retratação exercido. II - AGRAVO DE
+INSTRUMENTO INTERPOSTO PELA FACULDADE DE MEDICINA DE MARÍLIA - FAMEMA
+DIFERENÇAS SALARIAIS. REAJUSTES FIXADOS PELO CONSELHO DE REITORES DAS
+UNIVERSIDADES ESTADUAIS PAULISTAS (CRUESP). EXTENSÃO A EMPREGADO PÚBLICO DA
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006885665F14F986C.
+FUNDAÇÃO MUNICIPAL DE ENSINO SUPERIOR DE MARÍLIA CEDIDO PARA A FACULDADE
+DE MEDICINA DE MARÍLIA. Ante a possível violação do artigo 37, X, da Constituição
+Federal, deve ser provido o agravo de instrumento. III - RECURSO DE REVISTA
+INTERPOSTO PELA FACULDADE DE MEDICINA DE MARÍLIA - FAMEMA DIFERENÇAS
+SALARIAIS. REAJUSTES FIXADOS PELO CONSELHO DE REITORES DAS UNIVERSIDADES
+ESTADUAIS PAULISTAS (CRUESP). EXTENSÃO A EMPREGADO PÚBLICO DA FUNDAÇÃO
+MUNICIPAL DE ENSINO SUPERIOR DE MARÍLIA CEDIDO PARA A FACULDADE DE MEDICINA
+DE MARÍLIA. A hipótese refere-se à cessão de empregado público, em que a autora
+presta serviços à Faculdade de Medicina de Marília, recebendo a remuneração desta,
+mas permanece como empregada da Fundação Municipal de Ensino Superior de Marília,
+onde foi contratada orginalmente. Aplica-se ao caso dos autos a tese jurídica de
+repercussão geral correspondente ao Tema nº 1.027, no sentido de que "A extensão,
+pelo Poder Judiciário, das verbas e vantagens concedidas pelo Conselho de Reitores das
+Universidades do Estado de São Paulo (CRUESP) aos empregados das instituições de
+ensino autônomas vinculadas às universidades estaduais paulistas contraria o disposto
+na Súmula Vinculante 37. " (ARE[1]1.057.577/SP, Relator Ministro Gilmar Mendes, DJe nº
+071, divulgado em 05/04/2019). Nesse contexto, é indevido o pagamento de diferenças
+salariais decorrentes de reajustes concedidos pelo CRUESP aos empregados cedidos pela
+FAMES à FAMEMA. Recurso de revista conhecido e provido. IV - AGRAVO DE
+INSTRUMENTO DA FUNDAÇÃO MUNICIPAL DE ENSINO SUPERIOR DE MARÍILIA. Tendo em
+vista o provimento do recurso de revista da primeira reclamada para julgar
+improcedente a reclamação quanto aos reajustes, resta prejudicado o exame do agravo
+de instrumento em recurso de revista da Fundação Municipal de Ensino Superior de
+Marília." (RRAg-1210-62.2011.5.15.0033, 2ª Turma, Relatora Ministra Maria Helena
+Mallmann, DEJT 26/02/2021)
+"RECURSO DE REVISTA. ACÓRDÃO REGIONAL PUBLICADO ANTES DA VIGÊNCIA DA
+LEI Nº 13.015/2014. JUÍZO DE RETRATAÇÃO. REAJUSTES SALARIAIS FIXADOS PELO
+CONSELHO DE REITORES DAS UNIVERSIDADES DO ESTADO DE SÃO PAULO (CRUESP).
+EXTENSÃO AOS EMPREGADOS PÚBLICOS DA FUNDAÇÃO MUNICIPAL DE ENSINO
+SUPERIOR DE MARÍLIA (FUMES) CEDIDOS À AUTARQUIA MUNICIPAL FAMEMA
+(FACULDADE DE MEDICINA DE MARÍLIA). AUSÊNCIA DE PREVISÃO LEGAL. I. A partir da
+conclusão do acórdão regional, de que são devidas diferenças salariais, uma vez que a
+Fundação Municipal está sujeita à observância da política salarial do CRUESP, a decisão
+da Sétima Turma do TST não conheceu do recurso de revista por dois fundamentos: a) a
+jurisprudência do TST entende que o deferimento de diferenças salariais amparados em
+legislação estadual, não configura violação literal e direta da Constituição Federal, nos
+moldes do que dispõe o artigo 896, "c", da CLT; b) os arestos colacionados são inservíveis
+para comprovar divergência jurisprudencial. II. As premissas fixadas na decisão da
+Sétima Turma do TST ostentam tese jurídica a ser cotejada com o Tema 1027 do STF,
+segundo a qual "a extensão, pelo Poder Judiciário, das verbas e vantagens concedidas
+pelo Conselho de Reitores das Universidades do Estado de São Paulo (Cruesp) aos
+empregados das instituições de ensino autônomas vinculadas às universidades
+estaduais paulistas contraria o disposto na Súmula Vinculante 37". III. Com efeito, e sta
+Corte tem entendimento consolidado, no sentido de que o inciso X do artigo 37 da
+Constituição da República exige que a remuneração dos servidores públicos seja sempre
+fixada ou alterada por meio de lei específica, observada a iniciativa privativa do chefe de
+cada Poder, não atendendo essa exigência constitucional a extensão da concessão de
+reajuste salarial, por ato administrativo do CRUESP, aos servidores de outras instituições
+públicas autárquicas de ensino do Estado de São Paulo. IV. Importa registrar que, em
+casos idênticos ao sob exame, a parte reclamada tem interposto Recursos
+Extraordinários em massa, cujo primeiro juízo de admissibilidade, nessa esfera laboral,
+da Vice-Presidência do TST, vem determinando o retorno dos autos às Turmas de origem
+para exercerem eventual juízo de retratação, com fulcro no art. 543-B, §3º, do CPC/1973
+(1.039 e 1.040 do CPC/2015), tendo em vista o Tema 1027 do STF, de repercussão geral.
+Sobre esse aspecto, note-se que todas as Turmas do TST têm exercido o juízo de
+retratação, determinado a exclusão do pagamento das diferenças salariais decorrentes
+dos aludidos reajustes salariais. Precedentes. V. Assim, com o fim de manter a
+jurisprudência trabalhista estável, íntegra e coerente, nos termos dos artigos 926 e 927
+do CPC/2015, o acórdão regional merece ser reformado. VI. Recurso de revista de que se
+conhece e a que se dá provimento, no exercício do juízo de retratação" (RR-463-
+68.2012.5.15.0101, 7ª Turma, Relator Ministro Evandro Pereira Valadao Lopes, DEJT
+13/11/2020)."
+Acolhe-se, portanto, a pretensão rescisória, para, ressalvado o entendimento pessoal deste
+Relator no sentido de que a requerente já havia decaído desse direito quando do ajuizamento da
+presente ação, rescindir o v. Acórdão proferido pela E. 7ª Câmara/4ª Turma desta Corte no processo
+nº 135700-73.2008.5.15.0082, transitado em julgado em 25/2/2019, e, em juízo rescisório, julgar
+improcedente o pedido de diferenças salariais pela aplicação dos reajustes adotados pelo Conselho
+de Reitores das Universidades de São Paulo - CRUESP, e respectivos reflexos, haja vista estar a
+mencionada decisão escorada em fundamentação declarada pelo E. STF, no Tema 1027 de
+Repercussão Geral, como incompatível com a Constituição da República.
+Nas razões do recurso ordinário, o réu defendeu que o termo inicial do prazo
+decadencial deve ser contado do trânsito em julgado da decisão proferida pelo STF no ARE 1057577/DF. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006885665F14F986C.
+Esta relatora, monocraticamente, negou provimento ao recurso, sobrevindo o
+presente agravo interno.
+Examino.
+Consoante se depreende da petição inicial, o prazo para o ajuizamento da
+presente a ação rescisória foi baseado nos artigos 535, § 5º e 8º, e 966, V, do CPC/2015.
+Importante frisar que o pedido desconstitutivo calcado no § 15 do art. 525 do CPC
+também alcança as ações fundadas “em aplicação ou interpretação da lei ou do ato normativo tido pelo
+Supremo Tribunal Federal como incompatível com a Constituição Federal, em controle de constitucionalidade
+concentrado ou difuso”, tal como sucede na espécie, e não exclusivamente nos casos em que o título
+executivo judicial é fundado em lei ou ato normativo considerado inconstitucional pelo STF. Essa é a
+disciplina constante da parte final do § 12 do mesmo dispositivo legal.
+Neste sentido, ressalto o recente entendimento firmado pelo STF no julgamento
+da "Questão de ordem" nos autos da Ação Rescisória 2876, na qual se analisou a constitucionalidade do
+artigo 525, § 15º e 535, § 8º, do CPC/2015. In verbis:
+Decisão: O Tribunal resolveu questão de ordem fixando as seguintes teses: "O § 15 do art. 525
+e o § 8º do art. 535 do Código de Processo Civil devem ser interpretados conforme à Constituição,
+com efeitos ex nunc, no seguinte sentido, com a declaração incidental de inconstitucionalidade do §
+14 do art. 525 e do § 7º do art. 535: 1. Em cada caso, o Supremo Tribunal Federal poderá definir os
+efeitos temporais de seus precedentes vinculantes e sua repercussão sobre a coisa julgada,
+estabelecendo inclusive a extensão da retroação para fins da ação rescisória ou mesmo o seu não
+cabimento diante do grave risco de lesão à segurança jurídica ou ao interesse social. 2. Na ausência
+de manifestação expressa, os efeitos retroativos de eventual rescisão não excederão cinco anos
+da data do ajuizamento da ação rescisória, a qual deverá ser proposta no prazo decadencial de
+dois anos contados do trânsito em julgado da decisão do STF. 3. O interessado poderá apresentar
+a arguição de inexigibilidade do título executivo judicial amparado em norma jurídica ou
+interpretação jurisdicional considerada inconstitucional pelo STF, seja a decisão do STF anterior ou
+posterior ao trânsito em julgado da decisão exequenda, salvo preclusão (Código de Processo Civil,
+arts. 525, caput, e 535, caput)". A proposição 2 das teses foi acompanhada com ressalvas pelos Ministros Edson Fachin, Luiz Fux e Dias Toffoli. Redigirá o acórdão o Ministro Gilmar Mendes
+(Relator). Presidência do Ministro Luís Roberto Barroso. Plenário, 23.4.2025. (g. n.)
+De acordo com a tese fixada pelo STF, o prazo decadencial para ajuizamento da
+pretensão rescisória é de dois anos, contados do trânsito em julgado do ARE de nº 1.057.577, que se
+deu em 16/04/2019.
+Portanto, considerando que a ação rescisória foi proposta a menos de 02 (dois)
+anos do trânsito em julgado do paradigma do STF (29/03/2021), não há decadência a ser pronunciada,
+data vênia do entendimento adotado pelo TRT.
+Nesse sentido já é remansosa a jurisprudência desta Subseção. In verbis:
+RECURSO ORDINÁRIO EM AÇÃO RESCISÓRIA AJUIZADA SOB A ÉGIDE DO CPC DE 2015. ARTIGO
+535, § 8º, DO CPC DE 2015. REAJUSTES SALARIAIS. CONSELHO DE REITORES DAS UNIVERSIDADES DO
+ESTADO DE SÃO PAULO (CRUESP). EXTENSÃO POR ISONOMIA. IMPOSSIBILIDADE. OFENSA À
+INTERPRETAÇÃO CONSTITUCIONAL CONFERIDA PELO STF NO ARE 1.057.577. 1. C uida-se de recurso
+ordinário em ação rescisória, proposta com fundamento no artigo 535, § 8º, do CPC de 2015,
+pretendendo a parte autora a desconstituição do acórdão lavrado pelo TRT da 15ª Região, em que
+deferidos, por isonomia, reajustes salariais definidos pelo Conselho de Reitores das Universidades
+Estaduais Paulistas — CRUESP ao Reclamante, empregado da extinta Fundação de Tecnologia
+Industrial - FTI, incorporada pela Faculdade de Engenharia Química de Lorena - FAENQUIL (cujos
+servidores passaram a integrar o Quadro Especial em Extinção vinculado à Secretaria de
+Desenvolvimento do Estado de São Paulo, em 2006). 2. A hipótese dos autos amolda-se com
+perfeição às regras dos §§ 5º e 8º do art. 535 do CPC, disso resultando que o prazo decadencial para a
+propositura da ação rescisória é contado do trânsito em julgado da decisão paradigma proferida
+pelo Supremo Tribunal Federal ( Questão de Ordem arguida na AR 2.876). 3. Destarte, considerando
+o trânsito em julgado do decidido no ARE 1.057.577/SP em 16/04/2019 e a contagem do prazo
+decadencial a partir desta data, na forma do § 8º do art. 535 do CPC de 2015, tem-se que a
+propositura da ação rescisória em 2/4/2021 não atrai a pronúncia da decadência, diferentemente do
+que sustentou o Recorrente. 4. Quanto à matéria de fundo, o STF decidiu, no julgamento do ARE
+1.057.577/SP, submetido à sistemática da repercussão geral, que a extensão das vantagens
+concedidas pelo Conselho de Reitores das Universidades do Estado de São Paulo - CRUESP aos
+empregados das instituições de ensino autônomas vinculadas às universidades estaduais paulistas
+contraria o artigo 37, X, da CF e a Súmula Vinculante nº 37 daquela Corte Suprema. A partir do
+referido julgamento, o STF fixou a seguinte tese: "A extensão, pelo Poder Judiciário, das verbas e
+vantagens concedidas pelo Conselho de Reitores das Universidades do Estado de São Paulo (Cruesp)
+aos empregados das instituições de ensino autônomas vinculadas às universidades estaduais
+paulistas contraria o disposto na Súmula Vinculante". 5. Nesse contexto, impositivo reconhecer que a
+extensão ao Reclamante de reajustes salariais fixados pelo CRUESP vulnera a tese firmada pelo STF
+no julgamento do ARE 1.057.577, porquanto a Excelsa Corte Suprema rechaçou a concessão de
+reajustes com base na "comunicação de tratamento" prevista em normas infralegais, exatamente a
+situação retratada no acórdão rescindendo. De se ressaltar, ainda, que o STF já reconheceu que
+reajustes e aumentos só podem ser concedidos aos servidores públicos mediante lei específica,
+destacando que a autonomia financeira das universidades não se sobrepõe às disposições da
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006885665F14F986C.
+Constituição Federal. 6. Desse modo, o acórdão rescindendo deve, de fato, ser desconstituído, com
+fulcro no art. 535, § 8º, do CPC, como decidiu a Corte Regional, porquanto fundado em interpretação
+de ato normativo reputada pelo STF como incompatível com a Carta de 1988, em controle difuso de
+constitucionalidade (ARE 1.057.577). Vislumbrando-se, portanto, a dissintonia entre a decisão
+rescindenda e a interpretação emprestada pelo Excelso STF à matéria no julgamento do ARE
+1.057.577, não há falar em provimento ao apelo. Recurso ordinário conhecido e não provido. (ROT￾6276-73.2021.5.15.0000, Subseção II Especializada em Dissídios Individuais, Relator Ministro Douglas
+Alencar Rodrigues, DEJT 08/06/2026).
+RECURSOS ORDINÁRIOS EM AÇÃO RESCISÓRIA AJUIZADA SOB A ÉGIDE DO CPC DE 2015.
+PEDIDO DE RESCISÃO FUNDADO NO ART. 535, § 8.º, DO CPC/2015. DECADÊNCIA. INOCORRÊNCIA. AR.
+N.º 2.876 DO STF. 1. Trata-se de recursos ordinários interpostos contra acórdão do TRT que
+pronunciou a decadência da ação rescisória ajuizada com fundamento no art. 535, § 8.º, do CPC de
+2015 contra acórdão do TRT que deferiu diferenças salariais decorrentes da extensão dos reajustes
+fixados em resoluções administrativas editadas pelo CRUESP a servidor da Fundação Municipal de
+Ensino Superior de Marília que presta serviços à Faculdade de Medicina de Marília. 2. Inicialmente,
+cumpre ressaltar que o STF, no julgamento da AR n.º 2.876, assentou a constitucionalidade dos arts.
+525, §§ 12 e 15, e 535, § 8.º, do CPC de 2015, conferindo-lhe interpretação conforme a Constituição
+com efeitos ex nunc . Nesse aspecto, em se tratando, no caso, de ação rescisória ajuizada antes do
+julgamento da AR n.º 2.876, prevalece a literalidade do texto do dispositivo processual: a ação
+rescisória proposta com base na inconstitucionalidade superveniente da coisa julgada deve ser
+proposta no prazo de dois anos a partir do trânsito em julgado da decisão declaratória de
+inconstitucionalidade do STF. 3. No caso concreto, tem-se que a decisão proferida pelo STF no
+julgamento do ARE n.º 1.057.577/SP - que sustenta a pretensão desconstitutiva - transitou em julgado
+em 5/6/2019, ao passo que a presente ação de corte foi ajuizada em 11/4/2021, portanto, sem que
+tenha havido extrapolação do prazo de dois anos a que alude o art. 535, § 8.º, do CPC de 2015, razão
+por que descabe falar-se em decadência na espécie. 4. Recursos Ordinários conhecidos e providos.
+ART. 1.013, § 4.º, DO CPC DE 2015. REAJUSTES SALARIAIS. APLICAÇÃO POR EXTENSÃO DOS ÍNDICES
+DEFINIDOS PELO CRUESP A SERVIDOR DA FUNDAÇÃO MUNICIPAL DE ENSINO SUPERIOR DE MARÍLIA.
+INSTITUIÇÃO AUTÔNOMA DE ENSINO. VIOLAÇÃO AO ART. 37, X, DA CONSTITUIÇÃO DA REPÚBLICA E
+CONTRARIEDADE À SÚMULA VINCULANTE N.º 37. TEMA N.º 1.027 DA TABELA DE TESES DE
+REPERCUSSÃO GERAL DO STF. HIPÓTESE DE RESCINDIBILIDADE CARACTERIZADA. PRECEDENTES. 1. A
+premissa fática estabelecida no acórdão rescindendo indica que a 1.ª ré foi contratada pela Fundação
+Municipal de Ensino Superior de Marília, instituição autônoma de ensino, por meio de concurso
+público, e optou por prestar serviços para a Faculdade de Medicina de Marília, entidade esta
+vinculada à política salarial adotada pelo Conselho dos Reitores das Universidades do Estado de São
+Paulo - CRUESP; é dizer, a 1.ª ré não é empregada da Faculdade de Medicina de Marília,
+permanecendo vinculada juridicamente à Fundação Municipal de Ensino Superior de Marília,
+instituição de ensino autônoma, por meio de relação de emprego regida pela Consolidação das Leis
+do Trabalho. 2. Os índices de reajustamento salarial definidos administrativamente pelo CRUESP, por
+sua vez, foram aplicados na decisão rescindenda à 1.ª ré, servidores da FUMES, com amparo no
+princípio da isonomia. 3. Sob essa perspectiva, portanto, a aplicação da política de reajustes salariais
+estabelecida pelo CRUESP à 1.ª ré - que não possui vínculo empregatício com a Faculdade de
+Medicina de Marília - se deu por isonomia, dado o fato de a prestação laboral se desenvolver no
+âmbito desta entidade de ensino, e não diretamente para sua empregadora. E nesse contexto tem
+incidência o entendimento firmado pelo STF no julgamento do ARE n.º 1.057.577/SP, que deu origem
+ao Tema n.º 1.027 de Repercussão Geral, de que a extensão das vantagens concedidas pelo CRUESP
+aos empregados das instituições de ensino autônomas vinculadas às universidades estaduais
+paulistas viola o art. 37, X, da Constituição da República e contraria a Súmula Vinculante n.º 37. 4.
+Consequentemente, a aplicação dos índices de reajuste definidos pelo CRUESP à 1.ª ré, vinculada
+juridicamente à Fundação Municipal de Ensino Superior de Marília, afronta as disposições contidas
+no inciso X do art. 37 da Constituição da República, que impõe à Administração Pública a edição de
+lei específica para a fixação e alteração da remuneração de seus servidores públicos, e contraria a
+Súmula Vinculante n.º 37, que veda ao Poder Judiciário aumentar vencimentos de servidores
+públicos sob o fundamento de isonomia, circunstância que impõe a manutenção do acórdão
+recorrido na linha da jurisprudência consolidada nesta Subseção. 5. Ação Rescisória julgada
+procedente. TUTELA PROVISÓRIA DE URGÊNCIA. SUSPENSÃO DA EXECUÇÃO EM CURSO NO
+PROCESSO MATRIZ. 1. Tendo em conta a diretriz contida na Súmula n.º 405 desta Corte Superior,
+bem como a procedência do pedido de corte rescisório, defere-se a tutela provisória de urgência
+para suspender o curso da execução no processo matriz até o trânsito em julgado da presente ação,
+por preenchidos os requisitos exigidos pelo art. 300 do CPC de 2015. 2. Tutela provisória de urgência
+deferida. (ROT-6447-30.2021.5.15.0000, Subseção II Especializada em Dissídios Individuais, Relator
+Ministro Luiz Jose Dezena da Silva, DEJT 08/06/2026).
+DIREITO DO TRABALHO. AGRAVO. RECURSO ORDINÁRIO EM AÇÃO RESCISÓRIA. TRÂNSITO EM
+JULGADO DA DECISÃO RESCINDENDA OCORRIDO NA VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE
+2015. AÇÃO RESCISÓRIA AJUIZADA COM FUNDAMENTO NO ART. 535, § 8°, DO CPC. DECADÊNCIA.
+INOCORRÊNCIA. INCIDÊNCIA DA TESE FIXADA PELO STF NO JULGAMENTO DA QUESTÃO DE ORDEM
+NA AÇÃO RESCISÓRIA N. 2.876. APLICAÇÃO DOS ÍNDICES FIXADOS PELO CONSELHO DE REITORES DAS
+UNIVERSIDADES PAULISTAS (CRUESP). PRINCÍPIO DA ISONOMIA. SÚMULA VINCULANTE N. 37 DO STF
+E ART. 37, X, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE. CORTE RESCISÓRIO DEVIDO. 1.
+Mantém-se a decisão unipessoal que afastou a decadência em observância à tese fixada pelo STF no
+julgamento da questão de ordem na Ação Rescisória (AR) 2.876. 2. A inobservância do art. 37, X, da
+Constituição da República obsta a concessão de diferenças salariais decorrentes da aplicação dos
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006885665F14F986C.
+reajustes fixados pelo Conselho de Reitores das Universidades do Estado de São Paulo (CRUESP) aos
+empregados de instituições diversas, a fim de garantir a isonomia de índices em relação aos
+servidores das Universidades Estaduais Paulistas. 3. O acórdão rescindendo, ao estender à ré os
+mesmos índices fixados pela CRUESP, em última análise, concedeu reajuste salarial ao servidor
+municipal sem a correspondente lei específica de iniciativa do chefe do Poder Executivo,
+contrariando a Súmula Vinculante n. 37 do Supremo Tribunal Federal e violando o artigo 37, X, da
+Constituição da República. Agravo a que se nega provimento. (Ag-ROT-6444-75.2021.5.15.0000,
+Subseção II Especializada em Dissídios Individuais, Relator Ministro Amaury Rodrigues Pinto Junior,
+DEJT 17/04/2026).
+Mantenho, pois, a decisão agravada.
+Nego provimento ao agravo interno.
+2.2. REAJUSTES SALARIAIS FIXADOS PELO CONSELHO DE REITORES DAS
+UNIVERSIDADES DO ESTADO DE SÃO PAULO (CRUESP). TEMA DE REPERCUSSÃO GERAL Nº 1027.
+VIOLAÇÃO AO ART. 37, X, DA CONSTITUIÇÃO E À SÚMULA VINCULANTE 37 DO STF.
+Em relação à questão de mérito, consoante se depreende o acórdão rescindendo,
+por aplicação do princípio da isonomia, manteve a condenação da então reclamada ao pagamento de
+diferenças salariais pela aplicação da política salarial adotada pelo CRUESP.
+O Supremo Tribunal Federal no julgamento do ARE nº 1.057.577/SP (Tema nº 1027
+da Tabela de Repercussão Geral), decidiu a questão ora sob análise por meio de julgado cuja ementa
+segue transcrita. In verbis:
+Recurso Extraordinário com agravo. 2. Direito Administrativo e Trabalhista. Servidores
+celetistas. Extensão de vantagens concedidas a empregados de pessoas jurídicas e carreiras diversas.
+Isonomia. 3. Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de
+servidores públicos sob fundamento de isonomia. Tema 315 da sistemática da repercussão geral e
+Súmula Vinculante 37. 4. Reconhecimento da repercussão geral da questão constitucional, com
+reafirmação da jurisprudência da Corte, para assentar a seguinte tese: ‘A extensão, pelo Poder
+Judiciário, das verbas e vantagens concedidas pelo Conselho de Reitores das Universidades do
+Estado de São Paulo (Cruesp) aos empregados das instituições de ensino autônomas vinculadas às
+universidades estaduais paulistas contraria o disposto na Súmula Vinculante 37’. 5. Recurso provido
+para julgar improcedente o pedido autoral. (ARE 1057577 RG, Relator(a): GILMAR MENDES, Tribunal
+Pleno, julgado em 01/02/2019, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-071
+DIVULG 05-04-2019 PUBLIC 08-04-2019)
+A referida decisão assentou na jurisprudência já consolidada pelo STF no Tema nº
+315, segundo o qual "não cabe, ao Poder Judiciário, que não tem a função legislativa, aumentar vencimentos
+de servidores públicos sob o fundamento de isonomia ", merecendo destaque o seguinte trecho:
+[...]
+Efetivamente, o acórdão recorrido, ao condenar o recorrente a conceder a sua funcionária os
+mesmos reajustes que a Unesp teria concedido aos seus funcionários, aumentou salário de
+empregado público por correlação a outros que teriam recebido o aumento; ao estender à
+recorrente os reajustes administrativamente fixados, substituiu-se ao legislador para aumentar
+vencimentos . Percebe-se, portanto, que a questão constitucional versada no extraordinário
+subsume-se à controvérsia decidida por esta Corte no julgamento do RE-RG 592.317, de minha
+relatoria, DJe 10.11.2014, paradigma do tema 315 da repercussão geral .
+Ressalto que, assim como ocorrido no caso vertente, o Tribunal Superior do
+Trabalho tem realizado, em diversas reclamações, juízos de adequação à tese do Tema nº 315 da Tabela
+de Repercussão Geral de acórdãos que reconhecem o direito de empregados de instituições de ensino
+superior aos reajustes da Cruesp, nos quais se alcançam as duas conclusões diametralmente opostas .
+Neste sentido, cito o ARE 1.089.603, Rel. Min. Edson Fachin, e o ARE 1.135.927, Rel. Min. Luiz
+Fux, no sentido de que a controvérsia estaria abrangida pelo tema 315. Cito também o ARE 1.124.946,
+Rel. Min. Dias Toffoli, e o ARE 1.152.447, Rel. Min. Alexandre de Moraes, no sentido de que não se
+subsumiria ao tema.
+Assim, entendo que cabe a esta Corte pacificar a controvérsia, sob a sistemática da
+repercussão geral, quanto à aplicabilidade da tese firmada no RE-RG 592.317 e da Súmula Vinculante
+37 aos pleitos de empregados da recorrente e demais instituições de ensino superior do Estado de
+São Paulo que buscam os reajustes e demais vantagens concedidos administrativamente aos
+integrantes dos quadros das Universidades Estaduais de São Paulo .
+Diante disso, esta Corte Superior, fundamentando-se na tese firmada no Tema nº
+1027 da Tabela de Repercussão Geral do STF, tem decidido que a concessão de reajuste salarial por
+meio de Resolução emitida pelo Conselho de Reitores das Universidades de São Paulo - CRUESP, com
+fundamento no princípio da isonomia, contraria o artigo 37, inciso X, da Constituição, segundo o qual "a
+remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados
+ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual,
+sempre na mesma data e sem distinção de índices ". Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006885665F14F986C.
+Eis os precedentes:
+DIREITO PROCESSUAL CIVIL E DO TRABALHO. AGRAVO EM RECURSO ORDINÁRIO EM AÇÃO
+RESCISÓRIA. APLICAÇÃO DOS ÍNDICES FIXADOS PELO CONSELHO DE REITORES DAS UNIVERSIDADES
+PAULISTAS (CRUESP). PRINCÍPIO DA ISONOMIA. SÚMULA VINCULANTE N. 37 DO STF E ART. 37, X, DA
+CONSTITUIÇÃO DA REPÚBLICA. 1. A inobservância do art. 37, X, da Constituição da República obsta a
+concessão de diferenças salariais decorrentes da aplicação dos reajustes fixados pelo Conselho de
+Reitores das Universidades do Estado de São Paulo (CRUESP) aos empregados de instituições
+diversas, a fim de garantir a isonomia de índices em relação aos servidores das Universidades
+Estaduais Paulistas. 2. O acórdão rescindendo ao estender ao réu os mesmos índices fixados pela
+CRUESP, em última análise, concedeu reajuste salarial a servidor municipal sem a corresponde lei
+específica de iniciativa do chefe do Poder Executivo, contrariando a Súmula Vinculante n. 37 do
+Supremo Tribunal Federal e violando o artigo 37, X, da Constituição da República. 3. Acrescente-se
+que, estando o pedido de corte rescisório fundamentado em violação manifesta de norma
+constitucional, não incidem os óbices das Súmulas n. 83 do TST e n. 343 do STF; notadamente por se
+tratar de incontestável equívoco interpretativo quanto ao sólido entendimento do STF, firmado
+desde 1963, e não de reformulação de jurisprudência daquela Corte. Agravo a que se nega
+provimento. (ROT-5917-26.2021.5.15.0000, Subseção II Especializada em Dissídios Individuais, Relator
+Ministro Amaury Rodrigues Pinto Junior, DEJT 08/06/2026).
+AÇÃO RESCISÓRIA AJUIZADA SOB A ÉGIDE DO CPC DE 2015. ART. 966, V, C/C ART. 535, § 8º, DO
+CPC. REAJUSTES SALARIAIS. CONSELHO DE REITORES DAS UNIVERSIDADES DO ESTADO DE SÃO PAULO
+(CRUESP). EXTENSÃO. EMPREGADO PÚBLICO. AUTARQUIA EM REGIME ESPECIAL. IMPOSSIBILIDADE.
+OFENSA À INTERPRETAÇÃO CONSTITUCIONAL CONFERIDA PELO STF NO ARE 1.057.577/SP. VIOLAÇÃO
+DO ART. 37, X, DA CF. DISSINTONIA ENTRE DECISÃO RESCINDENDA E DECISÃO PARADIGMA
+VINCULANTE. PROCEDÊNCIA DA PRETENSÃO DESCONSTITUTIVA. 1. Ação rescisória, calcada nos arts.
+535, § 8º, e 966, V, do CPC, pretendendo a parte autora a desconstituição do acórdão lavrado pela 6ª
+Turma do TST em que deferidos reajustes salariais definidos pelo Conselho de Reitores das
+Universidades Estaduais Paulistas — CRUESP à Reclamante, empregada pública do Centro Estadual
+de Educação Tecnológica Paula Souza – CEETEPS (autarquia em regime especial). 2. O STF, no
+julgamento do ARE 1.057.577/SP, submetido à sistemática da repercussão geral, decidiu que a
+extensão das vantagens concedidas pelo Conselho de Reitores das Universidades do Estado de São
+Paulo - CRUESP aos empregados das instituições de ensino autônomas vinculadas às universidades
+estaduais paulistas contraria o artigo 37, X, da CF e a Súmula Vinculante nº 37 daquela Corte
+Suprema. A partir do referido julgamento, transitado em julgado em 16/4/2019, o STF fixou a
+seguinte tese: " A extensão, pelo Poder Judiciário, das verbas e vantagens concedidas pelo Conselho
+de Reitores das Universidades do Estado de São Paulo (Cruesp) aos empregados das instituições de
+ensino autônomas vinculadas às universidades estaduais paulistas contraria o disposto na Súmula
+Vinculante ". 3. Nesse contexto, impositivo reconhecer que a extensão, à empregada do CEETEPS, de
+reajustes salariais fixados pelo CRUESP, em decorrência de previsão contida em legislação estadual,
+afronta o disposto no art. 37, X, da Carta de 1988, preceito segundo o qual é imprescindível a edição
+de lei específica para fixação ou alteração da remuneração de servidores públicos, bem como o
+disposto no art. 103-A, caput, da Constituição da República. 4. O TST já firmou entendimento de que
+a remuneração no serviço público somente pode ser fixada ou alterada mediante lei específica de
+iniciativa do chefe de cada Poder e com prévia dotação orçamentária, nos termos dos artigos 37, X, e
+169, § 1º, I, da CF. De se ressaltar, ainda, que o STF já reconheceu que reajustes e aumentos só
+podem ser concedidos aos servidores públicos mediante lei específica, destacando que a autonomia
+financeira das universidades não se sobrepõe às disposições da Constituição Federal. 5. Sendo assim,
+uma vez deferidas, na decisão rescindenda, diferenças salariais à Reclamante, empregada da
+Fundação Municipal de Ensino Superior de Marília, por isonomia, com base nos mesmos índices
+fixados pelo Conselho de Reitores das Universidades do Estado de São Paulo (CRUESP), resta
+configurada a violação do art. 37, X, da CF, consoante decisão paradigma vinculante proferida pelo
+STF no ARE 1.057.577/SP, circunstância que autoriza o acolhimento da pretensão rescisória calcada
+no art. 535, § 8º, do CPC. Pretensão rescisória procedente. (AR-6260-22.2021.5.15.0000, Subseção II
+Especializada em Dissídios Individuais, Relator Ministro Douglas Alencar Rodrigues, DEJT 08/06/2026).
+(...) REAJUSTES SALARIAIS DEFINIDOS POR RESOLUÇÕES DO CONSELHO DE REITORES DAS
+UNIVERSIDADES ESTADUAIS PAULISTAS – CRUESP. APLICAÇÃO POR EXTENSÃO. TEMA N.º 1.027 DA
+TABELA DE REPERCUSSÃO GERAL DO STF. 1. A questão relativa à extensão dos reajustes salariais
+estabelecidos pelo Conselho de Reitores das Universidades Estaduais Paulistas – CRUESP a
+empregados de instituições autônomas de ensino vinculadas às universidades estaduais paulistas foi
+enfrentada pelo Supremo Tribunal Federal no julgamento do ARE n.º 1.057.577/SP, oportunidade em
+que se fixou a tese de que a " extensão, pelo Poder Judiciário, das verbas e vantagens concedidas
+pelo Conselho dos Reitores das Universidades do Estado de São Paulo (CRUESP) aos empregados das
+instituições de ensino autônomas vinculadas às universidades estaduais paulistas contraria o
+disposto na Súmula Vinculante 37 " (Tema n.º 1027). 2. No caso concreto, verifica-se que os índices de
+correção salarial fixados em resoluções do Conselho de Reitores das Universidades Estaduais
+Paulistas – CRUESP foram estendidos aos empregados do Centro de Educação Tecnológica Paula de
+Souza – CEETEPS vinculado à Universidade Estadual Paulista – UNESP, o que, além de violar o
+disposto no artigo 37, X, da Constituição da República, contraria a Súmula Vinculante n.º 37 do
+Supremo Tribunal Federal, na forma da tese fixada no Tema n.º 1.027 da Tabela de Repercussão
+Geral do STF, recomendando o provimento do Recurso Ordinário, sem prejuízo do registro no sentido
+de que a discussão suscitada nestes autos envolve violação de norma constitucional, razão pela qual
+não incidem os óbices destacados nas Súmulas 343 do STF e 83, I, do TST. Precedentes. 3. Recurso
+Ordinário conhecido e provido. (ROT-6096-57.2021.5.15.0000, Subseção II Especializada em Dissídios
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006885665F14F986C.
+Individuais, Relator Ministro Luiz Jose Dezena da Silva, DEJT 08/06/2026).
+"AÇÃO RESCISÓRIA SOB A ÉGIDE DO CPC/2015. REAJUSTES SALARIAIS FIXADOS PELO
+CONSELHO DE REITORES DAS UNIVERSIDADES ESTADUAIS PAULISTAS (CRUESP). EXTENSÃO A
+EMPREGADO DA FUNDAÇÃO MUNICIPAL DE ENSINO SUPERIOR DE MARÍLIA (FUMES) CEDIDO À
+FACULDADE DE MEDICINA DE MARÍLIA (FAMEMA). IMPOSSIBILIDADE. NECESSIDADE DE LEI
+ESPECÍFICA. 1. Discute-se nos autos a constitucionalidade da concessão, pela via judicial, de reajustes
+salariais aos empregados da Fundação Municipal de Ensino Superior de Marília, com base na
+aplicação dos índices fixados pelo Conselho de Reitores das Universidades Estaduais Paulistas –
+CRUESP. 2. O Supremo Tribunal Federal, no julgamento do recurso extraordinário com agravo nº
+1057577, ao apreciar o Tema 1027 da Repercussão Geral, firmou a tese de que " a extensão, pelo
+Poder Judiciário, das verbas e vantagens concedidas pelo Conselho de Reitores das Universidades do
+Estado de São Paulo (Cruesp) aos empregados das instituições de ensino autônomas vinculadas às
+universidades estaduais paulistas contraria o disposto na Súmula Vinculante 37 ". 3. Com efeito, a
+concessão de vantagens ou aumento de remuneração a servidores públicos, pelos órgãos e
+entidades da Administração, direta ou indireta, depende de prévia dotação orçamentária, além de
+previsão em lei específica, conforme preconizam os arts. 37, X, e 169, § 1º, da CF. 4. Nessa esteira,
+moldada a hipótese dos autos originários à tese firmada pela Suprema Corte, uma vez que a
+controvérsia envolve justamente a extensão de reajuste fixado por resolução da CRUESP a
+empregados de ente integrante da Administração Pública indireta, sem previsão legal, incide, por
+conseguinte, a compreensão depositada na Súmula Vinculante 37 do STF. 5. Sobreleva destacar,
+ainda, inaplicável o óbice da Súmula 83, I, do TST, uma vez que se trata de questão constitucional,
+razão pela qual a existência de interpretações diversas ou, mesmo, a alteração de entendimento
+ocorrida no âmbito desta Corte não impedem a incidência do corte rescisório decorrente do atual
+reconhecimento de efetiva violação manifesta da Constituição de 1988. 6. Por tudo quanto dito, a
+Segunda Turma desta Corte Superior, no processo matriz, ao deferir a condenação das reclamadas
+ao pagamento de diferenças salariais, pela aplicação dos reajustes fixados por resoluções do
+CRUESP, incorreu em manifesta violação do art. 37, X, da CF, circunstância que autoriza o corte
+rescisório com fundamento no art. 966, V, do CPC. Ação admitida e julgada procedente " (AR￾1000325-35.2020.5.00.0000, Subseção II Especializada em Dissídios Individuais, Relatora Ministra
+Morgana de Almeida Richa, DEJT 19/04/2024).
+Neste contexto, não se vislumbra a possibilidade de alterar o entendimento
+adotado na decisão ora agravada que proveu o recurso ordinário e julgou procedente o pedido de corte
+rescisório.
+Por todo o exposto, nego provimento ao agravo interno.
+ISTO POSTO
+ACORDAM os Ministros da Subseção II Especializada em Dissídios Individuais do
+Tribunal Superior do Trabalho, por unanimidade, conhecer do agravo interno, e, no mérito, negar-lhe
+provimento.
+Brasília, 17 de novembro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+LIANA CHAIB
+Ministra Relatora
+Firmado por assinatura digital em 18/11/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006885665F14F986C.
