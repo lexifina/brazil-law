@@ -1,0 +1,166 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-Ag-AIRR-0010803-45.2015.5.03.0022
+A C Ó R D Ã O
+4ª Turma
+GMMCP/ar/dd
+EMBARGOS DE DECLARAÇÃO DA RECLAMADA – AGRAVO DE
+INSTRUMENTO EM RECURSO DE REVISTA – ART. 896-A, § 4º, DA
+CLT – DECISÃO IRRECORRÍVEL – NÃO CONHECIMENTO
+Nos termos do art. 896-A, § 4º, da CLT, não cabe recurso contra
+acórdão que confirmou o voto do Relator quanto à não
+transcendência da causa. Julgados desta Corte.
+Embargos de Declaração não conhecidos.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo em Agravo de Instrumento em Recurso de Revista nº TST-EDCiv-Ag-AIRR-0010803-
+45.2015.5.03.0022, em que é Embargante CEMIG GERAÇÃO E TRANSMISSÃO S.A. e é Embargado JOSÉ
+MELO FARIA JUNIOR.
+Esta C. 4ª Turma, em acórdão de fls. 1.088/1.089, negou provimento ao Agravo da
+Reclamada.
+A Ré opõe Embargos de Declaração às fls. 1.092/1.095.
+É o relatório.
+V O T O
+CONHECIMENTO
+A Agravante opõe Embargos de Declaração contra acórdão desta C. 4ª Turma que
+confirmou o voto da Relatora quanto à ausência de transcendência da causa.
+Ocorre que o § 4º do art. 896-A da CLT, introduzido pela Lei nº 13.467/2017, assim
+dispõe:
+Art. 896-A - O Tribunal Superior do Trabalho, no recurso de revista, examinará previamente se
+a causa oferece transcendência com relação aos reflexos gerais de natureza econômica, política,
+social ou jurídica.
+(...)
+§ 4º - Mantido o voto do relator quanto à não transcendência do recurso, será lavrado
+acórdão com fundamentação sucinta, que constituirá decisão irrecorrível no âmbito do tribunal.
+(destaquei)
+Esta Corte Superior firmou jurisprudência no sentido de ser incabível a oposição
+de Embargos de Declaração contra acórdão de Turma em que se confirma o pronunciamento do Relator
+quanto à não transcendência da causa. Nesse sentido, cito julgados da C. SBDI-1 e 4ª Turma:
+AGRAVO. EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO. RECURSO DE REVISTA COM
+AGRAVO. TRANSCENDÊNCIA NÃO RECONHECIDA PELA TURMA JULGADORA. ÓBICE DO ART. 896-A,
+§ 4º, DA CLT. EMBARGOS INCABÍVEIS. NÃO PROVIMENTO. I. A Presidência da 5ª Turma denegou
+seguimento aos embargos de divergência da parte reclamada, com amparo no art. 896-A, § 4º, da
+CLT. No presente agravo, a parte recorrente sustenta a inaplicabilidade do referido óbice processual,
+argumentando que a Turma apreciou o mérito da controvérsia quanto à negativa de prestação
+jurisdicional, e que a declaração da ausência de transcendência ocorreu apenas ao final do voto,
+desprovida da necessária fundamentação. II. Consoante dispõe o art. 896-A, §4º, da CLT, mantido o
+voto do relator quanto à não transcendência do recurso, será lavrado acórdão com
+fundamentação sucinta, que constituirá decisão irrecorrível no âmbito do tribunal. III . Tal
+entendimento foi ainda consolidado no âmbito desta SbDI-1 que, no julgamento do Ag-E-RR-7-
+94.2017.5.17.0002, de relatoria do Ministro Walmir Oliveira da Costa, firmou o entendimento de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006881447DE52126A.
+que é irrecorrível, no âmbito do TST, o acórdão turmário em que se não reconhece a
+transcendência do apelo de revista. IV. No caso sob exame, a Turma do TST, embora mediante
+fundamentação sucinta, não reconheceu a transcendência da causa no que tange ao tema "nulidade
+por negativa de prestação jurisdicional". V. Nesse contexto, negado provimento ao agravo interno,
+em razão do não reconhecimento da transcendência da causa em relação à matéria impugnada no
+recurso de revista, de fato são incabíveis os embargos interpostos pela parte, na forma do que
+dispõe o artigo 896-A, § 4º, da CLT. VI. Agravo de que se conhece e a que se nega provimento. (Ag￾Emb-Ag-RRAg-10700-14.2016.5.15.0137, Subseção I Especializada em Dissídios Individuais, Relator
+Ministro Evandro Pereira Valadão Lopes, DEJT 18/9/2026 – destaques acrescidos)
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE
+REVISTA OPOSTOS PELA PARTE RECLAMADA. ACÓRDÃO REGIONAL PUBLICADO NA VIGÊNCIA DA LEI
+Nº 13.467/2017. 1. POLÍTICA DE ORIENTAÇÃO PARA MELHORIA (POM). ACÓRDÃO TURMÁRIO EM QUE
+SE CONFIRMOU A DECISÃO MONOCRÁTICA DO RELATOR QUANTO À NÃO TRANSCENDÊNCIA DA
+CAUSA. DECISÃO IRRECORRÍVEL. ART. 896-A, § 4º, DA CLT. NÃO CONHECIMENTO. I. Conforme os
+termos do artigo 896-A, § 4º, da CLT, incabível a oposição de embargos de declaração em face da
+decisão de Turma em que se confirma a decisão monocrática do relator quanto à não
+transcendência da causa. II. Embargos de declaração de que não se conhece. (EDCiv-Ag-AIRR-20888-
+72.2019.5.04.0006, 4ª Turma, Relator Ministro Alexandre Luiz Ramos, DEJT 25/9/2026 – destaques
+acrescidos)
+EMBARGOS DE DECLARAÇÃO DA RECLAMANTE EM AGRAVO EM AGRAVO DE INSTRUMENTO EM
+RECURSO DE REVISTA - ART. 896-A, § 4º, DA CLT - DECISÃO IRRECORRÍVEL - NÃO CONHECIMENTO
+Nos termos do art. 896-A, § 4º, da CLT, não cabe recurso contra acórdão que mantém decisão do
+Relator quanto à não transcendência da causa. Julgados desta Corte. Embargos de Declaração não
+conhecidos. (EDCiv-Ag-AIRR-107100-72.2006.5.17.0012, 4ª Turma, Relatora Ministra Maria Cristina
+Irigoyen Peduzzi, DEJT 4/9/2026 – destaques acrescidos)
+EMBARGOS DE DECLARAÇÃO. AGRAVO EM EMBARGOS. JUÍZO NEGATIVO DE
+TRANSCENDÊNCIA EXERCIDO PELA TURMA. DESCABIMENTO DO RECURSO DE EMBARGOS. ART.
+896-A, § 4º, DA CLT. OMISSÃO NÃO EVIDENCIADA. Conforme explicitado no acórdão ora
+embargado, o recurso de embargos revelava-se incabível, ante os ditames do art. 896-A, § 4º, da
+CLT, segundo o qual é irrecorrível, no âmbito do TST, a decisão de Turma que não reconhece a
+transcendência da causa. Os presentes embargos declaratórios não se coadunam com os
+propósitos da medida ora intentada, cujo manejo encontra-se adstrito às hipóteses elencadas nos
+artigos 1022 do CPC/2015 e 897-A da CLT. Embargos de declaração de que se conhece e a que se nega
+provimento. (EDCiv-Ag-EDCiv-E-ED-Ag-ED-AIRR-10611-35.2018.5.15.0035, Subseção I Especializada em
+Dissídios Individuais, Relator Ministro Alexandre Luiz Ramos, DEJT 17/10/2025 – destaques
+acrescidos)
+AGRAVO INTERNO EM EMBARGOS EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. INTERPOSIÇÃO NA VIGÊNCIA DA LEI Nº
+13.467/2017. NÃO CONHECIMENTO DO AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE
+REVISTA. AUSÊNCIA DE TRANSCENDÊNCIA. ART. 896-A, § 4º, DA CLT. RECURSO DE EMBARGOS
+INADMISSÍVEL. Consoante norma que se extrai da interpretação do artigo 896-A, § 4º, da CLT,é
+irrecorrível, no âmbito deste Tribunal, a decisão de Turma que conclui pela ausência da
+transcendência da causa, motivo pelo qual se afigura manifestamente inadmissível a
+interposição do recurso de embargos. Precedentes desta Subseção. Pertinente o referido óbice,
+impõe-se a multa prevista no artigo 81 do Código de Processo Civil, porquanto claramente
+caracterizado o intuito protelatório da medida intentada, consoante julgados oriundos deste Órgão
+uniformizador. Agravo interno conhecido e não provido. (Ag-E-ED-Ag-AIRR-889-36.2016.5.06.0313,
+Subseção I Especializada em Dissídios Individuais, Relator Ministro Cláudio Mascarenhas Brandão,
+DEJT 23/6/2023 – destaques acrescidos)
+EMBARGOS DE DECLARAÇÃO – APELO INTRANSCENDENTE – AUSÊNCIA DE OMISSÃO,
+CONTRADIÇÃO OU OBSCURIDADE – IRRECORRIBILIDADE DA DECISÃO – NÃO CONHECIMENTO. 1. É
+irrecorrível decisão turmária do TST que não reconhece a transcendência do apelo (CLT, art.
+896-A, § 4º). 2. Ora, sendo os embargos declaratórios modalidade recursal (CPC, art. 994), mormente
+quando neles se postular a revisão do mérito do julgado (cfr. Súmula 421, II, do TST), e dispondo o
+art. 896-A, § 4º, da CLT que, “mantido o voto do relator quanto à não transcendência do recurso, será
+lavrado acórdão com fundamentação sucinta, que constituirá decisão irrecorrível no âmbito do tribunal”,
+verifica-se que os embargos declaratórios são manifestamente incabíveis quanto ao mérito da
+decisão embargada. Embargos de declaração não conhecidos. (AIRR-0011553-75.2020.5.15.0042, 4ª
+Turma, Relator Ministro Ives Gandra da Silva Martins Filho, DEJT 19/12/2025 – destaques acrescidos)
+EMBARGOS DE DECLARAÇÃO DA RECLAMADA EM AGRAVO DE INSTRUMENTO EM RECURSO
+DE REVISTA - ART. 896-A, § 4º, DA CLT - DECISÃO IRRECORRÍVEL - NÃOCONHECIMENTO Nos termos
+do art. 896-A, § 4º, da CLT, não cabe recurso contra acórdão que mantém decisão do Relator quanto
+a não transcendência da causa. Julgados desta Corte. Embargos de Declaração não conhecidos.(ED￾AIRR-1000852-33.2019.5.02.0075, 4ª Turma, Relatora Ministra Maria Cristina Irigoyen Peduzzi, DEJT
+14/11/2025 – destaques acrescidos)
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006881447DE52126A.
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DO
+RECLAMADO SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO. ACÓRDÃO REGIONAL
+PUBLICADO NA VIGÊNCIA DAS LEIS Nºs 13.015/2014 E 13.467/2017. 1. RECURSO DE REVISTA QUE NÃO
+ATENDE OS REQUISITOS EXIGIDOS NO ART. 886,§1º-A, INCISOS I e III, DA CLT: 1.1. ILEGITIMIDADE AD
+CAUSAM DO MINISTÉRIO PÚBLICO DO TRABALHO PARA PROTEÇÃO DE DIREITOS INDIVIDUAIS. 1.2 DO
+PODER POTESTATIVO-LEGALIDADE DA DESTITUIÇÃO DOS CARGOS DE CHEFIA COM BASE NO ART.
+468. PARÁGRAFO ÚNICO, DA CLT. ACÓRDÃO EM QUE NÃO SE RECONHECEU A TRANSCENDÊNCIA DA
+CAUSA. DECISÃO IRRECORRÍVEL. ART. 896-A, §4º, DA CLT. NÃO CONHECIMENTO. I. Conforme os
+termos do art. 896-A, §4º, da CLT, incabível a oposição de embargos de declaração contra
+acórdão de Turma do C. TST que nega provimento ao agravo de instrumento por ausência de
+transcendência da causa. II. Embargos de declaração de que não se conhece. (ED-AIRR-479-
+41.2015.5.03.0007, 4ª Turma, Relator Ministro Alexandre Luiz Ramos, DEJT 17/10/2025 – destaques
+acrescidos)
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE
+REVISTA OPOSTOS PELA PARTE RECLAMADA. ACÓRDÃO TURMÁRIO EM QUE SE CONFIRMOU A
+DECISÃO MONOCRÁTICA DO RELATOR QUANTO À NÃO TRANSCENDÊNCIA DA CAUSA. DECISÃO
+IRRECORRÍVEL. ART. 896-A, §4º, DA CLT. NÃO CONHECIMENTO. I.Conforme os termos do art. 896-A,
+§4º, da CLT, incabível a oposição de embargos de declaração de decisão de Turma em que se
+confirma a decisão monocrática do relator quanto à não transcendência da causa. II. Embargos
+de declaração de que não se conhece. (ED-Ag-AIRR-10568-89.2014.5.18.0121, 4ª Turma, Relator
+Ministro Alexandre Luiz Ramos, DEJT 2/6/2023 – destaques acrescidos)
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM AGRAVO DE INSTRUMENTO.
+INTRANSCENDÊNCIA DA CAUSA. ART. 896-A, §4ª, DA CLT. CONHECIMENTO APENAS EM RELAÇÃO À
+MULTA DO ARTIGO 1.021, §4º, DO CPC/2015. NÃO PROVIMENTO. I. Conforme disposto no art. 896-
+A, §4ª, da CLT, não cabe recurso contra acórdão que mantém decisão do Relator quanto a não
+transcendência do recurso. Assim, não se conhecem dos embargos de declaração em relação às
+matérias decididas monocraticamente e mantidas por esta 4ª Turma no acórdão embargado. II.
+Com relação à multa do artigo 1.021, §4º, do CPC/2015, os embargos alcançam conhecimento.
+Todavia, a parte Embargante não indicou a existência de nenhuma das hipóteses previstas nos arts.
+1.022 do CPC/2015 e 897-A da CLT, mas apenas manifestou o seu inconformismo com a decisão que
+lhe aplicou a referida penalidade. III. Embargos de declaração de que se conhece parcialmente e a
+que se nega provimento. (ED-Ag-AIRR-215-78.2019.5.09.0019, 4ª Turma, Relator Ministro Alexandre
+Luiz Ramos, DEJT 28/10/2022 – destaques acrescidos)
+Cito, ainda, julgados das demais Turmas desta Corte: ED-Ag-AIRR-2015-
+90.2017.5.05.0612, 6ª Turma, Relatora Ministra Kátia Magalhães Arruda, DEJT 28/10/2022; ED-RR-797-
+40.2017.5.10.0013, 3ª Turma, Relator Ministro Alexandre de Souza Agra Belmonte, DEJT 30/4/2021; ED￾Ag-AIRR-24277-22.2016.5.24.0036, 2ª Turma, Relatora Ministra Delaíde Miranda Arantes, DEJT
+13/12/2019; e ED-ARR-279-92.2016.5.09.0084, 1ª Turma, Relator Ministro Luiz José Dezena da Silva, DEJT
+29/11/2019.
+Embora a Constituição da República assegure o devido processo legal, com o
+contraditório e a ampla defesa, e com os meios e recursos inerentes, também impõe aos jurisdicionados
+a observância das normas legais processuais pertinentes.
+Ante o exposto, não conheço dos Embargos de Declaração.
+ISTO POSTO
+ACORDAM os Ministros da Quarta Turma do Tribunal Superior do Trabalho, por
+unanimidade, não conhecer dos Embargos de Declaração.
+Brasília, 13 de novembro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MARIA CRISTINA IRIGOYEN PEDUZZI
+Ministra Relatora
+Firmado por assinatura digital em 16/11/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006881447DE52126A.
