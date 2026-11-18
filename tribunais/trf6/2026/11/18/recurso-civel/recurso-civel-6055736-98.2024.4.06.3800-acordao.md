@@ -1,0 +1,109 @@
+Poder Judiciário
+
+JUSTIÇA FEDERAL
+
+Seção Judiciária de Minas Gerais
+
+Gab. Juíz Federal TALES KRAUSS QUEIROZ (MGUB-6C)
+
+RECURSO CÍVEL Nº 6055736-98.2024.4.06.3800/MG
+
+RELATOR: Juiz Federal TALES KRAUSS QUEIROZ
+
+VOTO
+
+Recurso do autor de sentença que julgou improcedente o pedido de concessão de benefício assistencial ao deficiente.
+
+Não tem razão o recorrente.
+
+O requisito da incapacidade/deficiência foi preenchido. O laudo pericial atesta que o autor, com 42 anos na data da perícia, apresenta “Insuficiência Renal Crônica”. Em resposta ao quesito nº 23 do laudo, o perito concluiu que o impedimento apresentado é de longa duração.
+
+Passo a analisar a miserabilidade.
+
+O laudo social atesta que o autor reside com sua genitora, em imóvel próprio e simples. A renda do grupo advém da pensão por morte recebida pela mãe do requerente. Conforme se infere do EVENTO44 – ANEXO11, em 2024, a pensão tinha o valor de R$ 1.775,96, superando o salário mínimo vigente à época (R$ 1.412,00).
+
+Embora os registros fotográficos demonstrem uma residência singela, não há sinais evidentes de miserabilidade. Cumpre observar que não há gasto mensal com aluguel e medicamentos.
+
+Assim, considerando o contexto fático apresentado, justifica-se a manutenção da sentença por seus próprios fundamentos (art. 46 da Lei 9.099/95).
+
+Diante do exposto, voto por negar provimento ao recurso. Custas e honorários de 10% do valor da causa pela parte autora. Condenações suspensas em razão da justiça gratuita.
+
+Documento eletrônico assinado por TALES KRAUSS QUEIROZ, Juiz Relator, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc1g.trf6.jus.br/eproc/externo_controlador.php?acao=consulta_autenticidade_documentos, mediante o preenchimento do código verificador 380007546305v2 e do código CRC 2ed78646.
+
+Informações adicionais da assinatura:
+Signatário (a): TALES KRAUSS QUEIROZ
+Data e Hora: 19/11/2026, às 17:01:16
+
+6055736-98.2024.4.06.3800
+
+380007546305
+.V2
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+JUSTIÇA FEDERAL
+
+Seção Judiciária de Minas Gerais
+
+Gab. Juíz Federal TALES KRAUSS QUEIROZ (MGUB-6C)
+
+RECURSO CÍVEL Nº 6055736-98.2024.4.06.3800/MG
+
+RELATOR: Juiz Federal TALES KRAUSS QUEIROZ
+
+BENEFÍCIO ASSISTENCIAL AO DEFICIENTE. HIPOSSUFICIÊNCIA ECONÔMICA NÃO CONSTATADA. SENTENÇA MANTIDA.
+
+ACÓRDÃO
+
+A 6ª Turma Recursal dos Juizados Especiais Federais de Minas Gerais decidiu, por unanimidade, negar provimento ao recurso. Honorários de 10% do valor da condenação pelo INSS. Sem custas, nos termos do voto do(a) Relator(a).
+
+Uberlândia, 18 de novembro de 2026.
+
+Documento eletrônico assinado por TALES KRAUSS QUEIROZ, Juiz Relator, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc1g.trf6.jus.br/eproc/externo_controlador.php?acao=consulta_autenticidade_documentos, mediante o preenchimento do código verificador 380007546306v3 e do código CRC 1d7ae73c.
+
+Informações adicionais da assinatura:
+Signatário (a): TALES KRAUSS QUEIROZ
+Data e Hora: 19/11/2026, às 17:01:16
+
+6055736-98.2024.4.06.3800
+
+380007546306
+.V3
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Justiça Federal da 6ª Região
+
+Seção Judiciária de Minas Gerais
+
+EXTRATO DE ATA DA SESSÃO VIRTUAL DE 11/11/2026 A 18/11/2026
+
+RECURSO CÍVEL Nº 6055736-98.2024.4.06.3800/MG
+
+RELATOR: Juiz Federal TALES KRAUSS QUEIROZ
+
+PRESIDENTE: Juiz Federal TALES KRAUSS QUEIROZ
+
+Certifico que este processo foi incluído na Pauta da Sessão Virtual, realizada no período de 11/11/2026, às 00:00, a 18/11/2026, às 23:59, na sequência 164, disponibilizada no DE de 29/10/2026.
+
+Certifico que a 6ª Turma Recursal dos Juizados Especiais Federais de Minas Gerais, ao apreciar os autos do processo em epígrafe, proferiu a seguinte decisão:
+
+A 6ª TURMA RECURSAL DOS JUIZADOS ESPECIAIS FEDERAIS DE MINAS GERAIS DECIDIU, POR UNANIMIDADE, NEGAR PROVIMENTO AO RECURSO. HONORÁRIOS DE 10% DO VALOR DA CONDENAÇÃO PELO INSS. SEM CUSTAS.
+
+RELATOR DO ACÓRDÃO: Juiz Federal TALES KRAUSS QUEIROZ
+
+Votante: Juiz Federal TALES KRAUSS QUEIROZ
+
+Votante: Juiz Federal FLAVIO DA SILVA ANDRADE
+
+Votante: Juiz Federal ALEXANDRE HENRY ALVES
+
+MARCO AURELIO CERQUEIRA JUNQUEIRA
+
+Secretário
+
+Identificações de pessoas físicas foram ocultadas
