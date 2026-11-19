@@ -1,0 +1,31 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ITBI. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. FORMAL INCONFORMISMO. MEDIDA DE CARÁTER PREVENTIVO. IMPERTINÊNCIA. AUSÊNCIA DE PROVAS DO SUPOSTO ATO COATOR, CONSISTENTE NA DEMORA DE PRONUNCIONAMENTO DA AUTORIDADE MUNICIPAL OU NO TEMOR DA NEGATIVA DO DIREITO. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+
+Opostos os embargos de declaração, foram acolhidos "sem efeito modificativo".
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XXXV, LXIX da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+“Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279 /STF. Sobre o tema:
+
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ITBI. IMUNIDADE TRIBUTÁRIA. INCIDÊNCIA DA SÚMULA 279 DO STF. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. NEGATIVA DE PROVIMENTO. I. Caso em exame 1. Agravo Interno em face de decisão monocrática, na qual foi negado provimento a recurso com base na Súmula 279 do STF e na necessidade de análise de legislação infraconstitucional. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razões de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar os fatos e as provas constantes dos autos, procedimentos vedados neste momento processual (Súmula 279/STF). 5. Mantidos, portanto, os fundamentos adotados na decisão recorrida. IV. Dispositivo 6. Agravo regimental a que se nega provimento.”
+(ARE 1565784 AgR, sob minha relatoria, Tribunal Pleno, julgado em 27-10-2025, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 05-11-2025  PUBLIC 06-11-2025)
+
+“EMENTA Agravo regimental em recurso extraordinário com agravo. Direito tributário. ITBI. Base de cálculo. Legislação infraconstitucional. Súmula nº 279 do STF. 1. A controvérsia não possui densidade constitucional, tendo sido decidida com base na interpretação da legislação infraconstitucional de regência e no contexto probatório dos autos, o que atrai o óbice da Súmula nº 279 do STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa, consoante o art. 1.021, § 4º, do Novo CPC. 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.”
+(ARE 1580696 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, julgado em 25-02-2026, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 27-02-2026  PUBLIC 02-03-2026)
+
+No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/2019; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/05/2019 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/05/2019.
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 19 de novembro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
