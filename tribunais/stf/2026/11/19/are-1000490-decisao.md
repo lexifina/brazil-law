@@ -1,0 +1,28 @@
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que não admitiu o recurso extraordinário, tendo em vista a ausência de ofensa direta à Constituição Federal e a incidência da Súmula 279/STF no caso.
+
+A agravante alega, em suma, que o caso em análise envolve apuração de violação direta dos arts. 5°, IV, IX e XIV, e 220 da Constituição da República, notadamente porque a verificação da restrição à liberdade de imprensa não demanda reexame de legislação infraconstitucional.
+
+Ademais, afirma que não postula o reexame de provas, mas apenas a requalificação jurídica dos fatos descritos no acórdão recorrido.
+
+É o relatório. Decido.
+
+Bem examinados os autos, verifico que o recurso não merece prosperar.
+
+Isso porque, conforme observado pela decisão que não admitiu o recurso extraordinário, para divergir do acórdão impugnado, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Também seria indispensável a análise da legislação infraconstitucional pertinente, de modo que eventual ofensa à Constituição Federal ocorreria de forma indireta, o que inviabiliza o recurso.
+
+Com essa compreensão, cito os seguintes julgados:
+
+Ementa: DIREITO CIVIL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. DANO À IMAGEM. AUSÊNCIA DE REPERCUSSÃO GERAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, bem como a reelaboração da moldura fática, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. A teor do art. 85, § 11, do CPC/2015, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. 4. Agravo interno conhecido e não provido (RE 1.372.583 AgR/MG, Rel. Min. Rosa Weber, DJe 5/10/2022).
+
+Ementa: Agravo regimental no agravo de instrumento. Direito Civil. Dano moral. Entrevista radiofônica. Manifestação de opinião tida como ofensiva. Pressupostos da responsabilidade civil demonstrados na origem. Reexame de fatos e provas. Impossibilidade. Ausência de repercussão geral do tema. Precedentes. 1. O Tribunal de origem concluiu, ante as circunstâncias fáticas do caso concreto, que o agravante, ao conceder entrevista radiofônica na qual afirmou a que a universidade ora agravada teria conduta permissiva quanto à utilização de drogas em suas dependências, teria extrapolado seu direito à livre manifestação e ofendido à honra e a imagem do estabelecimento de ensino. 2. A ponderação de interesses, in casu, não prescinde do reexame do contexto fático-probatório da causa, o qual é inadmissível em recurso extraordinário. Incidência da Súmula nº 279/STF. 3. O Plenário da Corte, no exame do ARE nº 739.382/RJ-RG, Relator o Ministro Gilmar Mendes, concluiu pela ausência de repercussão geral do tema relativo à configuração da responsabilidade civil por danos causados à imagem ou à honra, haja vista que o deslinde da questão não ultrapassa o interesse subjetivo das partes, tampouco prescinde do reexame de fatos e provas . 4. Agravo regimental não provido (AI 781.917 AgR/SP, Rel. Min. Dias Toffoli, DJe 1°/7/2015).
+
+Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ABUSO DO DIREITO À INFORMAÇÃO/LIBERDADE DE IMPRENSA ASSENTADO NO ACÓRDÃO RECORRIDO. TEMA RG Nº 786. REEXAME DE FATOS E PROVAS: IMPOSSIBILIDADE NO CAMPO EXTRAORDINÁRIO. ÓBICE DO ENUNCIADO Nº 279 DA SÚMULA DO STF. 1. O Supremo Tribunal, ao apreciar o Tema nº 786 do ementário da Repercussão Geral, embora tenha asseverado ser o direito ao esquecimento incompatível com a Constituição da República, consignou que “eventuais excessos ou abusos no exercício da liberdade de expressão e de informação devem ser analisados caso a caso, a partir dos parâmetros constitucionais - especialmente os relativos à proteção da honra, da imagem, da privacidade e da personalidade em geral - e das expressas e específicas previsões legais nos âmbitos penal e cível” . 2. No caso, o Colegiado de origem, com fundamento nas provas carreadas, inclusive em condenação anterior da ora agravante a pagar indenização por danos morais à autora em razão do mesmo fato, assentou haver sido demonstrado o excesso na liberdade de expressão e determinou a remoção da matéria jornalística constante do link indicado na petição inicial. 3. Inviável, portanto, o recurso extraordinário, ante a impossibilidade da análise de matéria fático-probatória. Incidência do óbice do enunciado nº 279 da Súmula do STF. 3. Agravo regimental ao qual se nega provimento (RE 1.366.559 AgR/DF, Rel. Min. André Mendonça, DJe 3/9/2024).
+
+Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+Publique-se.
+
+Brasília, 19 de novembro de 2026.
+
+Ministro Cristiano Zanin
+Relator
