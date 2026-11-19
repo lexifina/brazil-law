@@ -1,0 +1,24 @@
+Trata-se de agravo interposto contra decisão da 4ª Turma Recursal do Tribunal Regional Federal da 3ª Região que inadmitiu o recurso extraordinário com fundamento na ausência de ofensa direta à Constituição Federal.
+
+A agravante alega, em suma, que o acórdão recorrido viola diretamente o art. 24, caput e § 1º, II, da EC 103/2019.
+
+É o relatório. Decido.
+
+A pretensão recursal não merece acolhimento.
+
+Isso porque, para divergir do Tribunal de origem e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos — o que é vedado pela Súmula 279/STF — e de legislação infraconstitucional, de modo que eventual ofensa à Constituição Federal seria indireta ou reflexa.
+
+Ademais, verifico que o acórdão recorrido alinha-se à jurisprudência do Supremo Tribunal Federal. Nesse sentido:
+
+Agravo regimental em recurso extraordinário com agravo. 2. Direito Constitucional e Previdenciário. 3. Cumulação de benefícios previdenciários. Aposentadoria pelo RGPS, pensão por morte pelo RGPS em razão do falecimento do cônjuge e pensão militar de ex-combatente derivada do falecimento do genitor. Regimes distintos. Ausência de vedação constitucional. Precedentes. 4. Inaplicabilidade do tema 921 da repercussão geral. Hipótese diversa. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental não provido (ARE 1.358.386 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 12/12/2023 – grifei).
+
+Ementa: Direito administrativo e outras matérias de direito público. Agravo regimental nos embargos de declaração no recurso extraordinário. Acumulação de benefícios previdenciários. Pensão por morte. Aposentadoria. Regimes distintos. Emenda Constitucional nº 103/2019. Inaplicabilidade do Tema nº 921 da repercussão geral. Agravo interno não provido. I. Caso em exame 1. Agravo interno interposto contra decisão monocrática que, acolhendo embargos de declaração com efeitos infringentes, deu provimento a recurso extraordinário para reconhecer o direito à acumulação de aposentadoria própria no Regime Próprio de Previdência Social (RPPS) com pensão por morte do Regime Geral de Previdência Social (RGPS) e pensão por morte do RPPS. 2. A parte agravante impugna a decisão que reconheceu a possibilidade da referida acumulação de benefícios previdenciários, sustentando a aplicabilidade da vedação genérica à tríplice acumulação. II. Questão em discussão 3. A questão em discussão consiste em saber se é constitucionalmente permitida a acumulação de aposentadoria própria do Regime Próprio de Previdência Social (RPPS) com pensão por morte do Regime Geral de Previdência Social (RGPS) e pensão por morte do RPPS, à luz do art. 24 da Emenda Constitucional nº 103/2019 e da aplicação do Tema nº 921 da Repercussão Geral. III. Razões de decidir 4. A jurisprudência do Supremo Tribunal Federal tem afastado a aplicação do Tema nº 921 da repercussão geral, que veda a cumulação tríplice de vencimentos e/ou proventos, em situações de acumulação de benefícios previdenciários oriundos de regimes distintos ou de naturezas diversas, como aposentadoria própria e pensão por morte, desde que amparadas por dispositivos constitucionais ou legais específicos. 5. O Tema nº 921 da repercussão geral se aplica primariamente a casos de múltiplos vínculos com o mesmo regime previdenciário e/ou cargos inacumuláveis na atividade, não se estendendo automaticamente à acumulação de aposentadoria própria com pensões por morte de cônjuge, que possuem fatos geradores distintos. 6. O art. 24 da Emenda Constitucional nº 103/2019 veda a acumulação de mais de uma pensão por morte deixada pelo mesmo instituidor no âmbito do mesmo regime de previdência social, mas não impede a acumulação de aposentadoria própria do beneficiário com uma ou mais pensões por morte, mesmo que no mesmo regime da aposentadoria, por serem benefícios de naturezas e fatos geradores distintos. 7. A pretensão de acumular aposentadoria própria no Regime Próprio de Previdência Social (RPPS) com pensão por morte do Regime Geral de Previdência Social (RGPS) e pensão por morte do RPPS encontra respaldo no art. 24 da Emenda Constitucional nº 103/2019, devendo ser aplicadas as regras de percepção de valores previstas no § 2º do mesmo artigo. IV. Dispositivo e tese 8. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 9. Agravo interno conhecido e não provido (RE 1.531.247 ED-AgR, Rel. Min. Flávio Dino, Primeira Turma, DJe 23/10/2025 – grifei).
+
+Posto isso, nego provimento ao agravo (art. 932 do CPC).
+
+Publique-se.
+
+Brasília, 19 de novembro de 2026.
+
+Ministro Cristiano Zanin
+Relator
