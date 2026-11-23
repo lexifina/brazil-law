@@ -1,0 +1,27 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+DIREITO PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. TRANCAMENTO DE INQUÉRITO POLICIAL. EXCESSO DE PRAZO. DESPROVIMENTO. I. CASO EM EXAME 1. Trata-se de recurso em sentido estrito interposto pelo Ministério Público contra decisão que, concedendo habeas corpus de ofício, determinou o trancamento de inquérito policial instaurado em 14 de novembro de 2018, para apurar suposto crime de estelionato (art. 171 do CP), em razão de excesso de prazo nas investigações e sua paralisação por mais de três anos, sem identificação do autor ou indícios suficientes para o oferecimento da denúncia. II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se o excesso de prazo na conclusão de inquérito policial, sem indicação de complexidade da investigação e com período de paralisação injustificada, autoriza o seu trancamento, em observância ao princípio da razoável duração do processo. III. RAZÕES DE DECIDIR 3. A garantia constitucional da razoável duração do processo, prevista no art. 5º, LXXVIII, da CF/1988, aplica-se às investigações preliminares criminais. 4. O Superior Tribunal de Justiça e esta Corte de Justiça têm reconhecido que a investigação eterna configura constrangimento ilegal, justificando o trancamento do inquérito policial. 5. Trata-se de poder-dever do Magistrado o arquivamento, ainda que de ofício, de inquérito policial que apura suposta prática do crime de estelionato, cuja investigação perdura por quase sete anos, sem revelar eventual complexidade excessiva a justificar a demora para a conclusão das investigações. 6. No caso concreto, o inquérito policial perdura por quase sete anos e está paralisado há mais de três anos, sem que haja indicação de complexidade da investigação ou elementos mínimos para o oferecimento de denúncia, caracterizando excesso de prazo. 7. O trancamento do inquérito policial é medida excepcional que se impõe diante da manifesta ausência de justa causa para a continuidade da investigação e do constrangimento ilegal decorrente do prazo desarrazoado para sua conclusão. IV. DISPOSITIVO E TESE 7. Recurso desprovido. Tese de julgamento: "1. O excesso de prazo para a conclusão de inquérito policial, sem justificativa de complexidade e com prolongada paralisação das investigações, viola o princípio da razoável duração do processo. 2. O trancamento do inquérito policial é medida excepcional que se impõe diante do constrangimento ilegal decorrente da ausência de justa causa e do prazo desarrazoado para sua conclusão." Dispositivos relevantes citados: CF/1988, art. 5º, LXXVIII; CP, art. 171; CPP, art. 18; CPP, art. 581, X; CPP, art. 589; CNMP, Resolução n. 181/17. Jurisprudências relevantes citadas: STJ, AgRg no HC n. 844.564/RJ, Rel. Min. Antônio Saldanha Palheiro, Sexta Turma, j. 27.11.2023; STJ, RHC 58.138/PE, Rel. Min. Gurgel de Faria, Quinta Turma, j. 15.12.2015; STJ, PExt no RHC 135.299/CE, Rel. Min. Antônio Saldanha Palheiro, Sexta Turma, j. 07.12.2021; TJGO, Inquérito Policial 0024924- 69.2007.8.09.0110, Rel. Des. Murilo Vieira de Faria, 1ª Câmara Criminal, j. 15.04.2024; TJGO, Apelação Criminal 5006666-18.2022.8.09.0168, Rel. Des. Murilo Vieira de Faria, 3ª Câmara Criminal, j. 08.07.2024.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, LXVIII e LXXVIII, e 129, I, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279/STF. Sobre o tema:
+
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+1. (...)
+4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/02/2020).
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 03/03/2020).
+
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/02/2020).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 23 de novembro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
