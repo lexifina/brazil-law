@@ -1,0 +1,47 @@
+Decisão
+
+Trata-se de Habeas Corpus impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no HC 1.112.001/CE, Rel. Min. OG FERNANDES.
+Consta dos autos que o paciente foi pronunciado pela prática do crime de homicídio qualificado (art. 121, § 2º, I e IV, do Código Penal). Foi-lhe negado o direito de recorrer em liberdade.
+Buscando a revogação da custódia, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado do Ceará, que denegou a ordem.
+Na sequência, nova impetração, dessa vez direcionada ao Superior Tribunal de Justiça, não conhecida pelo Ministro relator. Interposto Agravo Regimental, a Sexta Turma decidiu nos termos da seguinte ementa:
+
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO  HABEAS   CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. RÉU PRONUNCIADO. INSTRUÇÃO ENCERRADA. PROCEDIMENTO DO TRIBUNAL DO JÚRI. TRÂMITE REGULAR DO FEITO. AUSÊNCIA DE DESÍDIA ESTATAL. MANUTENÇÃO DA CUSTÓDIA NA DECISÃO DE PRONÚNCIA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. ALEGAÇÃO DE AUSÊNCIA DE CONTEMPORANEIDADE. ATUALIDADE DOS FUNDAMENTOS DA CUSTÓDIA CAUTELAR. IRRELEVÂNCIA DO LAPSO TEMPORAL ENTRE A PRÁTICA DELITIVA E A DECRETAÇÃO DA PRISÃO. AGRAVO REGIMENTAL IMPROVIDO.
+[...]
+
+Nesta ação, o impetrante alega, em síntese, a ausência dos pressupostos autorizadores para a manutenção da prisão preventiva. Destaca que “O paciente encontra-se privado de sua liberdade desde o dia 26 de maio de 2024”. Requer, assim, a concessão da ordem para revogar o decreto prisional, com ou sem imposição de medidas cautelares diversas.
+É o relatório. Decido.
+
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada quando houver prova da existência do crime (materialidade) e indício suficiente da autoria. Além disso, é preciso demonstrar, concretamente, a existência de um dos fundamentos que a autorizam: garantia da ordem pública; garantia da ordem econômica; conveniência da instrução criminal; ou, ainda, segurança na aplicação da lei penal.
+As razões apresentadas pelo Superior Tribunal de Justiça revelam que a decisão que decretou a segregação cautelar está lastreada em fundamentação jurídica idônea, chancelada pela jurisprudência do SUPREMO TRIBUNAL FEDERAL.
+Sobressaem, no decreto prisional, as circunstâncias concretas do caso em tela, bem como a gravidade diferenciada da prática ilícita em questão (homicídio qualificado), do que decorre a necessidade da garantia da ordem pública. Conforme destacado pelo Juízo de origem
+
+Sobre os fatos, a atuação do réu no referido delito, conforme narra a denúncia, foi ter levado a vítima, sua companheira, para o local do crime, a qual foi executada por outras duas pessoas, cujas investigações suspeitam que as pessoas que efetuaram os disparos que ceifaram a vítima são conhecidos como “Neguin” e “Lorin”, ainda não formalmente identificados, mas há nos autos indícios de que estes, junto do paciente, são da facção criminosa conhecida GDE, atuante nesta Comarca.
+Relata a inicial, ainda, que o próprio acusado teria afirmado para populares que “se Maria Alice Soares Borges, sua companheira, aparecesse morta, ele que a teria matado”, revelando distinta periculosidade.
+E no mesmo contexto, a denúncia retrata que o réu convidou, efetivamente, a vítima Maria Alice, naquele mesmo dia, para ir com ele em sua motocicleta, pois disse que “a facção queria conversar com ela”, reforçando ainda mais ser pessoa perigosa e que supostamente tem envolvimento com faccionados, elevando ainda mais a gravidade da conduta e do fato, bem como a possibilidade de risco à ordem pública e intimidação de testemunhas, além de possível prejuízo para a aplicação da lei penal.
+O “perigo gerado pelo estado de liberdade do imputado”, então, está presente nos autos, considerando a PERICULOSIDADE, a GRAVIDADE DO FATO, sua REPERCUSSÃO SOCIAL e, principalmente, em razão da possibilidade de REITERAÇÃODELITIVA.
+
+Nos termos da jurisprudência de ambas as Turmas desta CORTE, o modo de execução destacado, a periculosidade social do agente e a gravidade concreta do delito constituem fundamentos idôneos para a decretação da custódia cautelar, a fim de resguardar a ordem pública: HC 158559 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 30/8/2018; RHC 133.933, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 9/10/2017; HC 141.152, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 2/6/2017; HC 137.651-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 13/3/2017; HC 133.210, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 3/10/2016; HC 146.440-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 27/10/2017, este assim ementado:
+
+[...]
+1. A custódia cautelar para garantia da ordem pública, por conveniência da instrução criminal e para assegurar a aplicação da lei penal justifica-se ante a gravidade in concreto do crime, de modo que a prisão preventiva que tem como fundamento o modus operandi encontra amparo na jurisprudência desta Corte. Precedentes: HC 141.170-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 19/05/2017, HC 133.745-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 07/06/2016 e HC 130.412, Segunda Turma, Rel. Min. Teori Zavascki, DJe de 19/11/2015.
+
+Nesse sentido, aliás, o art. 310, § 5º, II, do Código de Processo Penal — incluído pela Lei 15.272/2025 — estabelece que a infração penal praticada com violência ou grave ameaça contra a pessoa constitui circunstância apta a recomendar a decretação da prisão preventiva.
+Da mesma forma, o art. 312, § 3º, IV, do CPP — igualmente incluído pela Lei 15.272/2025 — dispõe que devem ser considerados, na aferição da periculosidade do agente e dos riscos à ordem pública, o modus operandi, inclusive quanto ao uso reiterado de violência ou grave ameaça à pessoa.
+Pelos mesmos motivos, não merece reparos o entendimento firmado quanto à inaplicabilidade das medidas cautelares diversas da prisão, cuja incidência não se mostraria adequada e suficiente para acautelar a ordem pública, ante as particularidades do caso.
+Por fim, Habeas Corpus poderá ser utilizado como meio processual adequado para cessar constrangimento ilegal à liberdade de locomoção do acusado preso, decorrente de abusivo excesso de prazo para o encerramento da instrução criminal. Nesse exame, porém, é imprescindível investigar se a demora é resultado ou não da desídia ou inércia do Poder Judiciário.
+Daí a convergência de entendimento, na jurisprudência do SUPREMO TRIBUNAL FEDERAL, de que a razoável duração do processo deve ser aferida à luz das particularidades do caso concreto, levando-se em consideração, por exemplo, o número de réus, a quantidade de testemunhas a serem inquiridas, a necessidade de expedição de cartas precatórias, a natureza e a complexidade dos delitos imputados, assim como a atuação das partes (cf.: HC 138736 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 6/9/2017; HC 138.987-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, Dje de 7/3/2017; RHC 124.796-AgR, Rel. Min. LUIZ FUX, Primeira Turma, Dje de 24/8/2016; HC 135.324, Rel. Min. TEORI ZAVASCKI, Segunda Turma, Dje de 6/12/2016; HC 125.144-AgR, Rel. Min. ROSA WEBER, Primeira Turma, Dje de 28/6/2016).
+No caso em questão, o Superior Tribunal de Justiça apresentou as seguintes razões para indeferir o pedido de relaxamento da prisão:
+
+Verifica-se da cronologia do feito haver trâmite processual regular. Os fatos ocorreram em 26/5/2024; a denúncia foi recebida em 19/9/2024; a resposta à acusação foi apresentada em 4/11/2024; a instrução foi encerrada com a pronúncia, seguindo-se a remessa ao Tribunal local; o recurso em sentido estrito foi julgado em 15/4/2026; e a prisão preventiva foi reavaliada e mantida em 22/4/2026, havendo, ainda, recurso especial interposto pela defesa pendente de apreciação, quadro que afasta a tese de excesso de prazo por inexistir inércia estatal.
+Assim, considerando que o réu já foi pronunciado e ainda tendo em vista que o feito está sujeito ao procedimento especial do Tribunal do Júri, não se verifica inércia ou desídia atribuível ao Poder Judiciário para o encerramento da instrução ou para a formação da culpa.
+
+Depreende-se dos autos que o juízo processante tem adotado as providências necessárias ao regular andamento da ação penal, consideradas as circunstâncias da causa, sobressaindo, ainda, o encerramento da primeira fase do procedimento do júri — marco que, consoante a jurisprudência desta CORTE, legitima a manutenção da custódia: HC 202945 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 18/11/2021; RHC 203515 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 20/9/2021; RHC 203741 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 20/9/2021; RHC 176373 AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 15/12/2020).
+Sendo esse o contexto, não há falar em constrangimento ilegal a ser sanado, uma vez que não se verifica mora processual imputável ao Poder Judiciário ou ao órgão acusador. Ressalte-se, ainda, a periculosidade social do agente — acima declinada —, circunstância que reforça a necessidade da custódia cautelar.
+Diante do exposto, com base no art. 21, §1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 23 de novembro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+		      Documento assinado digitalmente
