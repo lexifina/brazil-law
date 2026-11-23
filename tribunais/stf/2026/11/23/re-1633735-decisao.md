@@ -1,0 +1,46 @@
+DECISÃO: Trata-se de recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, contra acórdão do Tribunal Superior do Trabalho, ementado nos seguintes termos:
+
+“AGRAVO INTERNO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. INTERPOSIÇÃO SOB A ÉGIDE DA LEI Nº 13.467 /2017. TERCEIRIZAÇÃO – ADMINISTRAÇÃO PÚBLICA - RESPONSABILIDADE SUBSIDIÁRIA – CULPA IN VIGILANDO – ÔNUS DA PROVA. In casu, o Tribunal Regional decidiu que a Administração Pública, na qualidade de tomadora dos serviços, é subsidiariamente responsável pela integralidade da dívida trabalhista, porquanto o ente público não se desincumbiu do ônus de provar o cumprimento do seu dever de fiscalização, entendendo por caracterizada a culpa in vigilando. Assim, evidenciada a consonância do acórdão regional com a tese veiculada pelo STF no RE 760.931/DF (Tema 246) e com o entendimento da SBDI-1 sobre o ônus subjetivo da prova (E-RR-925-07.2016.5.05.0281, Rel. Min. Cláudio Mascarenhas Brandão, DEJT 22/05/20), sobressai inviável o acolhimento da pretensão recursal, ante a aplicação do óbice previsto no artigo 896, § 7º, da CLT e na Súmula nº 333 do TST. Agravo interno não provido”. (eDOC  138)
+
+Nas razões recursais, a recorrente aponta violação aos arts. 5º, II; 37, XXI e § 6º; e 97 da Constituição Federal, bem como ao entendimento firmado na ADC 16 e no Tema 246 da repercussão geral.
+Sustenta, em síntese, que o Tribunal de origem reconheceu a responsabilidade subsidiária do ente público sem a demonstração de conduta culposa apta a justificar sua condenação, transferindo-lhe indevidamente o ônus de comprovar a regular fiscalização do contrato administrativo.
+Ao realizar o juízo de admissibilidade do recurso extraordinário, a Vice-Presidência do Tribunal Superior do Trabalho determinou o retorno dos autos ao órgão julgador de origem para eventual exercício do juízo de retratação, diante do julgamento do Tema 1.118 da repercussão geral.
+O juízo de retratação, contudo, não foi exercido, conforme se extrai da seguinte ementa:
+
+“AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. (...) DEVOLUÇÃO DOS AUTOS PELA VICE-PRESIDÊNCIA DO TST, NOS TERMOS DO ARTIGO 1.030, II, DO CPC, PARA EVENTUAL JUÍZO DE RETRATAÇÃO. (...) TEMA Nº 1118 DA TABELA DE REPERCUSSÃO GERAL DO STF. (...) No caso dos autos, apreciando o acervo probatório, o Eg. TRT concluiu que os depósitos de FGTS não foram recolhidos mensalmente de forma reiterada, o que demonstra a culpa na fiscalização por parte da Administração Pública. (...) Juízo de retratação não exercido”. (eDOC 163)
+
+Na sequência, os autos foram encaminhados a essa Corte.
+É o relatório.
+Decido.
+Inicialmente, cumpre registrar que o Plenário do Supremo Tribunal Federal, no julgamento da ADC 16, Rel. Min. Cezar Peluso, Tribunal Pleno, DJe 9.9.2011, declarou a constitucionalidade do art. 71, § 1º, da Lei 8.666/1993, que dispõe sobre a impossibilidade jurídica de transferência de responsabilidade à Administração Pública de encargos decorrentes do não cumprimento, pelo contratado, de obrigações trabalhistas, fiscais ou comerciais.
+Em data posterior, o Tribunal Superior do Trabalho deu nova redação à Súmula 331 daquela Corte, para fazer constar que o inadimplemento das obrigações trabalhistas, por parte do empregador, implica a responsabilidade subsidiária dos entes integrantes da Administração Pública direta e indireta em determinados casos.
+Diante da resistência da Justiça do Trabalho em aplicar o referido entendimento, o Supremo Tribunal Federal reconheceu a existência de repercussão geral da matéria, nos autos do RE-RG 760.931 (tema 246), que substituiu o RE-RG 603.397, Rel. Min. Rosa Weber.
+Por ocasião do julgamento de mérito do citado paradigma, o Pleno desta Corte deu parcial provimento ao recurso da União e confirmou o entendimento adotado na ADC 16, no sentido de proibir a responsabilização automática da Administração Pública, só cabendo condenação se houver prova inequívoca de sua conduta omissiva ou comissiva na fiscalização dos contratos.
+À vista disso, para que haja a responsabilização do ente público é necessário que se comprove cabalmente nos autos o comportamento reiteradamente negligente da Administração, bem como o nexo causal entre a conduta comissiva ou omissiva do Poder Público e o dano sofrido pelo trabalhador.
+Cumpre assinalar, ainda, que o Plenário desta Corte, nos autos do RE 1.298.647 (Rel. Min. Nunes Marques), reputou constitucional e reconheceu a repercussão geral (Tema 1.118) da discussão quanto ao “Ônus da prova acerca de eventual conduta culposa na fiscalização das obrigações trabalhistas de prestadora de serviços, para fins de responsabilização subsidiária da Administração Pública, em virtude da tese firmada no RE 760.931 (Tema 246)”.
+Em outros termos, colocou-se em pauta a questão acerca da legitimidade da transferência ao ente público tomador de serviço do ônus de comprovar a ausência de culpa na fiscalização do cumprimento das obrigações trabalhistas devidas aos trabalhadores terceirizados pela empresa contratada, para fins de definição da responsabilidade subsidiária do Poder Público.
+Em Sessão Plenária realizada em 13.2.2025, essa Corte Suprema finalizou o julgamento do mérito do referido paradigma, fixando a seguinte tese de repercussão geral:
+
+“1. Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público.
+2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após o recebimento de notificação formal de que a empresa contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo.
+3. Constitui responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974.
+4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de capital social integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior”. (Grifos nossos)
+
+Com efeito, assentou-se entendimento no sentido que é imprescindível que se comprove o conhecimento, pela Administração Pública, da situação de ilegalidade e sua inércia em adotar providências para saná-la, vedada a condenação fundamentada unicamente no pressuposto da inversão do ônus da prova.
+Por outro lado, permanecendo o ente público inerte após notificação formal do descumprimento das obrigações trabalhistas pela empresa prestadora de serviços contratada, restará configurado o comportamento negligente da Administração, a ensejar sua responsabilização.
+Pois bem.
+Na hipótese em exame, o Tribunal Superior do Trabalho, ao reapreciar a controvérsia para fins de eventual exercício do juízo de retratação, consignou que a responsabilidade subsidiária da COMPANHIA DE AGUA E ESGOTO DO CEARA (CAGECE) não decorreria da mera inversão do ônus da prova. Assentou, ao contrário, que a condenação encontraria fundamento na deficiência da fiscalização exercida pela Administração Pública.
+Confira-se trecho do acórdão:
+
+“No caso dos autos, apreciando o acervo probatório, o Eg. TRT concluiu que os depósitos de FGTS não foram recolhidos mensalmente de forma reiterada (de acordo com a sentença houve ausência de recolhimento no período de 6/2022 a 3/2023 – dez meses), o que demonstra a culpa na fiscalização por parte da Administração Pública”. (eDOC 163)
+
+Feitas essas considerações, verifica-se que, ao assim decidir, a Justiça do Trabalho acabou por reconhecer a figura da responsabilização automática, expressamente afastada por esta Suprema Corte nos paradigmas mencionados. Isso porque a mera alegação de falha na fiscalização não é suficiente para comprovar a inércia do ente público, tampouco para amparar a sua condenação subsidiária. Conforme já demonstrado, é imprescindível a apresentação de prova inequívoca de conduta sistematicamente negligente, consubstanciada na inércia da Administração Pública após notificação formal acerca do descumprimento das obrigações trabalhistas pela contratada — circunstância que não se verifica no caso dos autos.
+Assim, entendo que o Tribunal de origem aplicou de forma equivocada o entendimento firmado nos julgamentos da ADC 16 e dos Temas 246 e 1118 da repercussão geral.
+Ante o exposto, dou provimento ao recurso extraordinário para reformar o acórdão recorrido e afastar a responsabilidade subsidiária do ente público.
+
+Publique-se.
+Brasília, 23 de novembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
