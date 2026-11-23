@@ -1,0 +1,41 @@
+DECISÃO: Trata-se de recurso extraordinário interposto pelo Município do Rio de Janeiro, com fundamento no art. 102, III, “a” e “b”, da Constituição Federal, contra acórdão do Tribunal Superior do Trabalho, ementado nos seguintes termos:
+
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. LEI Nº 13.467/2017. MUNICÍPIO DO RIO DE JANEIRO. TRANSCENDÊNCIA. ENTE PÚBLICO. RESPONSABILIDADE SUBSIDIÁRIA.
+(...)
+No caso concreto, o TRT atribuiu ao ente público o ônus da prova e consignou que não houve prova da fiscalização. Destacou que, ‘de acordo com suas próprias alegações e a prova dos autos, não inspecionou efetivamente o cumprimento dos deveres básicos pela prestadora de serviços’. Dessa forma, entendeu configurada a culpa da administração pública.
+Agravo de instrumento a que se nega provimento”. (eDOC 86)
+
+Nas razões recursais, o recorrente sustenta violação aos arts. 5º, II; 37, caput e § 6º; 97; e 102, § 2º, da Constituição Federal.
+Alega, em síntese, que sua responsabilização subsidiária foi reconhecida em desconformidade com o entendimento firmado pelo Supremo Tribunal Federal na ADC 16 e no Tema 246 da repercussão geral, mediante inversão indevida do ônus da prova e sem demonstração concreta de conduta culposa apta a justificar a condenação do ente público
+Ao realizar o juízo de admissibilidade do recurso extraordinário, a Vice-Presidência do Tribunal Superior do Trabalho determinou o retorno dos autos ao órgão julgador para eventual exercício do juízo de retratação, em razão do julgamento do RE 1.298.647/SP (Tema 1.118 da repercussão geral).
+O juízo de retratação, contudo, não foi exercido. O Tribunal Superior do Trabalho consignou que a responsabilidade subsidiária do Município do Rio de Janeiro não decorreria exclusivamente da distribuição do ônus da prova, mas da comprovação de negligência na fiscalização contratual, evidenciada pelo reconhecimento da rescisão indireta, pelo atraso reiterado no pagamento de salários e pela ausência de recolhimentos de FGTS. Assentou, ainda, que a responsabilidade “não decorreu de presunção nem de exclusiva inversão do ônus da prova, mas de fatos concretos que evidenciam a negligência do ente público”.
+Na sequência, os autos foram encaminhados a esta Corte.
+É o relatório.
+Inicialmente, cumpre registrar que o Plenário do Supremo Tribunal Federal, no julgamento da ADC 16, Rel. Min. Cezar Peluso, declarou a constitucionalidade do art. 71, § 1º, da Lei 8.666/1993, afastando a transferência automática para a Administração Pública da responsabilidade pelos encargos trabalhistas inadimplidos pela empresa contratada.
+Posteriormente, no julgamento do RE 760.931/DF (Tema 246 da repercussão geral), esta Corte reafirmou a impossibilidade de responsabilização automática do ente público, fixando a tese de que o inadimplemento dos encargos trabalhistas do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade por seu pagamento.
+Cumpre assinalar, ainda, que o Plenário desta Corte concluiu, em 13.2.2025, o julgamento do RE 1.298.647/SP (Tema 1.118 da repercussão geral), fixando a seguinte tese:
+
+“1. Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público.
+2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após o recebimento de notificação formal de que a empresa contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo.
+3. Constitui responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974.
+4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de capital social integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior”.
+
+Como se observa, o Supremo Tribunal Federal assentou que a responsabilização subsidiária da Administração Pública pressupõe a comprovação, pela parte autora, da efetiva existência de comportamento negligente do ente público ou de nexo causal entre sua conduta e o dano alegado, vedando-se condenações fundadas exclusivamente na inversão do ônus da prova.
+Ademais, a própria tese fixada indicou parâmetro objetivo para a caracterização da negligência administrativa, exigindo a demonstração de que o Poder Público permaneceu inerte após o recebimento de notificação formal acerca do descumprimento das obrigações trabalhistas pela empresa contratada.
+Pois bem.
+Na hipótese em exame, o Tribunal Superior do Trabalho, ao reapreciar a controvérsia para fins de eventual exercício do juízo de retratação, consignou que a responsabilização subsidiária do Município do Rio de Janeiro não decorreria da mera inversão do ônus da prova.
+Assentou, ao contrário, que a condenação estaria fundada na deficiência da fiscalização contratual, registrando que o ente público, “de acordo com suas próprias alegações e a prova dos autos, não inspecionou efetivamente o cumprimento dos deveres básicos pela prestadora de serviços”. Destacou, ainda, o reconhecimento da rescisão indireta, o atraso reiterado no pagamento de salários e a ausência de recolhimentos de FGTS para concluir pela configuração da negligência administrativa. (eDOC 112)
+Feitas essas considerações, verifica-se que, ao assim decidir, a Justiça do Trabalho acabou por reconhecer hipótese de responsabilização incompatível com os parâmetros fixados por esta Suprema Corte nos julgamentos da ADC 16 e dos Temas 246 e 1.118 da repercussão geral.
+Isso porque a mera constatação do inadimplemento de obrigações trabalhistas pela empresa contratada não é suficiente para demonstrar comportamento reiteradamente negligente da Administração Pública.
+Conforme já demonstrado, é imprescindível a apresentação de prova inequívoca de conduta sistematicamente negligente, consubstanciada na inércia da Administração Pública após ciência formal do descumprimento das obrigações trabalhistas pela contratada. Além disso, faz-se necessária a demonstração do nexo causal entre a conduta omissiva do ente público e o dano sofrido pelo trabalhador.
+No caso dos autos, contudo, não há registro de que o ente público tenha recebido notificação formal acerca das irregularidades trabalhistas praticadas pela empresa contratada e, ainda assim, permanecido inerte. Tampouco se identificam elementos concretos aptos a evidenciar comportamento sistematicamente negligente por parte da Administração Pública.
+Com efeito, embora o acórdão proferido em juízo de retratação tenha buscado justificar a manutenção da condenação com fundamento na deficiência da fiscalização contratual, a moldura fática delineada nos autos revela que a responsabilidade subsidiária foi reconhecida a partir da conclusão de que os documentos apresentados pelo ente público não seriam suficientes para demonstrar o adequado cumprimento do dever de fiscalização. Tal circunstância, por si só, não atende às exigências estabelecidas no Tema 1.118 da repercussão geral.
+Assim, entendo que o Tribunal de origem aplicou de forma equivocada o entendimento firmado nos julgamentos da ADC 16 e dos Temas 246 e 1.118 da repercussão geral.
+Ante o exposto, dou provimento ao recurso extraordinário para reformar o acórdão recorrido e afastar a responsabilidade subsidiária do Município do Rio de Janeiro.
+
+Publique-se.
+Brasília, 23 de novembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
