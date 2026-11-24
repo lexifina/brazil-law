@@ -1,0 +1,41 @@
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE CONHECIMENTO C.C. LIMINAR DE TUTELA DE URGÊNCIA PARA EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. PRESCRIÇÃO. QUESTÃO NÃO EXAMINADA NO PRIMEIRO GRAU DE JURISDIÇÃO. SUPRESSÃO DE INSTÂNCIA E OFENSA AO PRINCÍPIO DO DUPLO GRAU DE JURISDIÇÃO. NÃO CONHECIMENTO.
+
+Em nome do princípio do duplo grau de jurisdição, as matérias invocadas pelo agravante que não foram objeto de análise da decisão agravada não comportam conhecimento por este Tribunal via Agravo de Instrumento, sob pena de supressão de instância.
+
+Agravo de instrumento não conhecido.
+
+1. Trata-se de agravo de instrumento interposto por Crefisa S/A Crédito Financiamento e Investimentos em face de decisão proferida nos autos de ação de conhecimento c.c. liminar de tutela de urgência para exibição incidental de documentos, a qual determinou a exibição dos contratos
+ nºs 030500023353; 030500021582; 032660003811; 032660002960 e 030500015629, bem como os respectivos extratos de pagamento e evolução de parcelas, ou justificar fundamentadamente a impossibilidade de fazê-lo, sob pena de, nos termos do art. 400, I, do CPC, se presumirem verdadeiros os fatos que a parte autora pretendia provar por meio de tais documentos, notadamente quanto à abusividade da taxa de juros remuneratórios pactuada.
+
+Nas razões do recurso, sustenta o recorrente, em síntese: a)
+ a ocorrência da prescrição decenal da pretensão autoral, pois o termo inicial do prazo se dá a partir da data da contratação; b) a impossibilidade de exibição dos contratos, haja vista o decurso do prazo de 10 anos da contratação e do período de guarda de cinco anos dos documentos. Por fim, requer a concessão do efeito suspensivo ao recurso, ao argumento de que presentes os requisitos legais.
+
+Foi determinado o processamento do recurso.
+O agravado apresentou resposta (mov. 15.1).
+É o relatório.
+
+2. Supressão instância
+
+Alega o banco/agravante a ocorrência da prescrição decenal da pretensão autoral, pois o termo inicial do prazo se dá a partir da data da contratação. Alega também a impossibilidade de exibição dos contratos, haja vista o decurso do prazo de 10 anos da contratação e do período de guarda de cinco anos dos documentos.
+Em que pese a vasta argumentação apresentada pelo banco/agravante, seu recurso não merece conhecimento.
+
+Isso porque, de uma simples análise da decisão agravada (mov. 14.1 – autos originários), constata-se que o juízo de origem apenas determinou a citação da parte ré para, no prazo legal, contestar a presente ação, bem como apresentar os contratos nºs 030500023353; 030500021582; 032660003811; 032660002960 e 030500015629, bem como os respectivos extratos de pagamento e evolução de parcelas, ou justificar fundamentadamente a impossibilidade de fazê-lo, sob pena de, nos termos do art. 400, I, do CPC, se presumirem verdadeiros os fatos que a parte autora pretendia provar por meio de tais documentos, notadamente quanto à abusividade da taxa de juros remuneratórios pactuada, mas nada decidiu sobre a questão referente à prescrição.
+
+Ressalte-se que a alegação do agente financeiro quanto à impossibilidade da exibição de documentos também está diretamente vinculada à análise da prescrição, tema que como já exposto, não foi objeto de análise pelo juízo de origem.
+
+Logo, qualquer pronunciamento judicial desta Corte sobre o tema, incorreria em supressão de instância.
+
+Como é sabido, o efeito devolutivo dos recursos permite ao órgão ad quem o conhecimento das matérias que já tenham sido objeto de decisão pelo juízo a quo. O enfrentamento pelo órgão jurisdicional hierarquicamente superior de questões não apreciadas pelo juízo de origem, ainda que se trate de matéria de ordem pública, implica em violação ao princípio do duplo grau de jurisdição.
+
+Nesse sentido a jurisprudência desta Corte:
+
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DISCUSSÕES SOBRE PREVENÇÃO, PRESCRIÇÃO, LITIGÂNCIA DE MÁ-FÉ E TUTELA DE URGÊNCIA DE NATUREZA CAUTELAR. RECURSO DA PARTE RÉ. AGRAVO DE INSTRUMENTO PARCIALMENTE CONHECIDO E, NESSA PARTE, PROVIDO.I. Caso em exame1. Agravo de instrumento interposto contra decisão pela qual foi deferido o pedido de tutela de urgência de natureza cautelar, para que as rés depositassem, em conta judicial vinculada aos autos, valor correspondente ao que obtiveram com a venda de bem imóvel transferido a elas por sucessão, em razão do falecimento de sua mãe, parte originária no contrato em discussão na ação de cobrança. As rés, ora agravantes, alegam que: a) os autos de origem devem ser redistribuídos ao juízo prevento; b) a pretensão de cobrança está prescrita; c) os autores/agravados litigam de má-fé ao omitirem informações relevantes; e, d) não há verossimilhança a autorizar a manutenção da medida liminar.II. Questão em discussão2. Há 02 (duas) questões em discussão: (i) saber se o recurso pode ser integralmente conhecido; e, (ii) saber se há probabilidade do direito e perigo de dano, a autorizar a manutenção do deferimento da tutela de urgência postulada pelos agravados.III. Razões de decidir3. O recurso não comporta conhecimento em relação a matérias ainda não apreciadas em primeiro grau (prevenção, prescrição e litigância de má-fé), sob pena de supressão de instância.4. Por ora, não está demonstrada a probabilidade do direito, requisito necessário para a concessão da tutela de urgência.5. A ação de cobrança está amparada em contrato de trespasse e no que seria o seu aditivo, firmados entre um dos autores e a mãe das rés, que a sucederam, em decorrência do seu falecimento.6. As operações em discussão já foram objeto de execução de título extrajudicial ajuizada anteriormente pelos ora agravados e extinta sem resolução de mérito, por ausência de título executivo extrajudicial. Naquela demanda, consignou-se que falta certeza e liquidez à obrigação, circunstâncias que ainda não foram corrigidas nesta ação de cobrança, notadamente porque o aditivo contratual, representativo de parte significativa da dívida apontada na inicial, não está assinado por nenhuma das partes nele indicadas, de maneira que não configura, por enquanto, a pactuação da obrigação mencionada em seu conteúdo.7. Além disso, parte das operações também foi debatida em ação ajuizada pela contratante originária, posteriormente sucedida pelas suas filhas, ora agravantes, na qual obtiveram êxito, para que os então réus, ora autores/agravados, restituíssem valores retidos.8. A mera instrução da petição inicial com planilha de cálculo não confere verossimilhança à narrativa exposta na petição inicial, notadamente porque relacionada a avença comercial que já foi objeto de discussão em outras demandas.9. Assim, diante do cenário peculiar que envolve as partes e o contrato em discussão, inexistem, neste momento, indicativos a respeito da real existência da dívida apontada na petição inicial da ação de cobrança, o que configura ausência de pressuposto imprescindível para a concessão de tutela de urgência, correspondente à probabilidade do direito.10. O fato de as rés terem alienado o imóvel por elas recebido em herança e de não possuírem outros imóveis não caracteriza ocultação ou dilapidação patrimonial.11. Ante a ausência dos requisitos legais, impõe-se a revogação da medida liminar de natureza cautelar.IV. Dispositivo e tese12. Agravo de instrumento parcialmente conhecido e, nessa parte, provido, para revogar a medida liminar deferida a desfavor das agravantes no mov. 14.1 – 1º grau.Tese de julgamento: “Ausente o requisito da probabilidade do direito (art. 300, do CPC), impõe-se o indeferimento de pedido de tutela de urgência.”_________Dispositivo relevante citado:
+ CPC, art. 300, art. 301.Jurisprudência relevante citada:
+ TJPR - 15ª Câmara Cível - 0037410-66.2026.8.16.0000 - Francisco Beltrão - Rel.: DESEMBARGADORA DENISE KRUGER PEREIRA - J. 11.07.2026. (TJPR - 15ª Câmara Cível - 0042979-48.2026.8.16.0000 - Curitiba -
+ Rel.: DESEMBARGADOR LUIZ CARLOS GABARDO -
+ J. 22.08.2026)
+Logo, impossível o exame das questões alegadas pelo banco/ agravante por esta Corte nesse momento processual.
+
+Por essas razões, não se conhece do presente recurso.
+
+3. Diante do exposto, não se conhece do presente recurso, nos termos da fundamentação
