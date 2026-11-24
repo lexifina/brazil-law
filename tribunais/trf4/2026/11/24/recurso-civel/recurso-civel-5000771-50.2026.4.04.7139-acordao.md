@@ -1,0 +1,218 @@
+Poder Judiciário
+
+JUSTIÇA FEDERAL
+
+Seção Judiciária do Rio Grande do Sul
+
+Gab. Juíza Federal NARENDRA BORGES MORALES (RS-3C)
+
+RECURSO CÍVEL Nº 5000771-50.2026.4.04.7139/RS
+
+RELATORA: Juíza Federal NARENDRA BORGES MORALES
+
+VOTO
+
+Trata o presente de recurso inominado interposto pela parte autora contra sentença que julgou improcedente pedido de concessão de benefício por incapacidade em face de perícia judicial que concluiu pela ausência de incapacidade laboral.
+
+No caso, o laudo pericial permite a formação do juízo de convicção acerca dos fatos alegados na medida em que descreve o exame físico realizado, a partir do qual se concluiu pela ausência de incapacidade para o desempenho da atividade habitual. Como os questionamentos da recorrente se restringem à existência de incapacidade e as repercussões existentes, é suficiente a conclusão do perito judicial quanto à ausência de limitações funcionais para o desempenho da atividade habitual.
+
+Ressalte-se que, embora a medicina apresente inúmeras especialidades, elas não são tão herméticas a ponto de haver uma classificação exaustiva das enfermidades que possam ser reconhecidas ou apreciadas tão somente por determinado especialista. No caso, a prova produzida não deixa de ser idônea apenas porque não fora realizada por especialista em reumatologia ou ortopedia.
+
+Nesse sentido, a realização de nova perícia somente é recomendada quando a matéria não parecer ao juiz suficientemente esclarecida, a teor do disposto no art. 480, caput, do CPC. O resultado contrário ao interesse da parte não é causa suficiente ao reconhecimento de cerceamento de defesa em circunstâncias nas quais o laudo judicial é elaborado de forma completa, coerente e sem contradições internas (TRF4, AC 5010375-69.2019.4.04.7110, QUINTA TURMA, Relator OSNI CARDOSO FILHO, juntado aos autos em 05/12/2020).
+
+Ademais, a Turma Nacional de Uniformização - TNU ao analisar esta questão tem compreendido ser prescindível a especialidade médica pelo perito judicial, a não ser em situações incomuns e devidamente justificadas, o que não ocorre no presente caso. Nesse sentido:
+
+Trata-se de incidente de uniformização interposto pela parte autora, com fulcro no artigo 14, §2º, da Lei 10.259/01, em face de acórdão prolatado pela 2ª Turma Recursal do Rio Grande do Sul, que negou provimento ao recurso da parte autora. Nas razões de recurso, a parte recorrente alega que: ao prolatar o v. acórdão recorrido, afirmando expressamente ser dispensada a realização de períciana especialida de psiquiatria. Contudo,é possível verificar que tal compreensão contraria a precedente desta Turma Nacional de Uniformização, já que em análisede situação semelhante, entendeu que o segurado deveria ser analisado pelo médico perito na especialidade requerida. O incidente foi admitido pela Presidência desta TNU. Delimitado o objeto do recurso, passa-se à fundamentação. Passa-se ao exame de admissibilidade do incidente. Inicialmente, consigne-se que o recurso foi tempestivamente interposto. Nos termos do julgamento prolatado pela Turma de origem, o acórdão impugnado decidiu a questão submetida à uniformização, de acordo com o entendimento exarado no acórdão anexado ao evento - vototr 11, que assim dispôs: Trata-se de recurso interposto pela parte autora contra sentença que julgou improcedentes os pedidos formulados na petição inicial. Em seu recurso, a parte autora postula o restabelecimento do benefício de auxílio-doença, número do benefício (NB) 620.292.461-0, com data de cessação do benefício (DCB) em 05/10/2018, subsidiariamente a concessão de aposentadoria por invalidez com adicional de 25%, ou auxílio-acidente se restar comprovada sequela de lesão consolidada decorrente de acidente de qualquer natureza. Alega cerceamento de defesa por falta de intimação de laudo pericial, e, também, que não foi realizada perícia com médico especialista em psiquiatria. Requer a reforma da sentença com o restabelecimento do benefício pleiteado, ou, a anulação da sentença, com a reabertura da fase de instrução, para que possa impugnar o laudo pericial do evento 18, e, ainda, a realização de perícia com médico especialista em psiquiatria, e, por último, que sejam consideradas suas condições pessoais e sociais. Vieram os autos conclusos. Passo à análise do feito. I. Cerceamento de defesa. Inocorrência. Inicialmente, alega a parte autora que não foi intimada para apresentação de impugnação ao laudo pericial do evento 18, e que não foi realizada perícia com médico especialista em psiquiatria conforme pedido realizado na peça inicial. Requer a reforma da sentença com o restabelecimento do benefício, ou, subsidiariamente, a anulação da sentença, com a reabertura da fase de instrução, para que seja intimada do laudo pericial do evento 18, e, ainda, para realização de perícia com médico especialista em psiquiatria. Razão não lhe assiste. Ora, o entendimento da Turma Nacional de Uniformização é no sentido de que, em regra, vigora o princípio do livre convencimento do Juiz, de modo que só se deve determinar a realização de um segundo laudo se o Magistrado não se considerar esclarecido pelo primeiro apresentado (PEDILEF 200972500044683, Rel. Juiz Federal ANTONIO FERNANDO SCHENKEL DO AMARAL E SILVA, DOU 04/05/2012; PEDILEF 201072590000160, Rel. Juiz Federal ALCIDES SALDANHA LIMA, DOU 30/03/2012; PEDILEF 200872510048413, Rel. Juiz Federal DERIVALDO DE FIGUEIREDO BEZERRA FILHO, DJ 09/08/2010; dentre outros julgados) (...) A C. TNU aponta, exemplificativamente, em seus precedentes, algumas hipóteses que autorizam a realização de um segundo laudo pericial: (a) se o primeiro laudo pericial mostra-se lacônico ou contraditório; (b) se a doença for excepcional ou rara que justifique a designação de um perito especialista em determinada área; e (c) se o próprio perito que elaborou o primeiro laudo aponta a necessidade de realização de perícia com especialista na área. Por outro lado, a Turma Regional de Uniformização da 4ª Região tem seguido as orientações da C. TNU, conforme ementas a seguir transcritas: (...) No caso concreto, percebe-se que a pretensão do recorrente reside unicamente no reexame probante, em face a sua insurgência quanto à conclusão do laudo pericial judicial (evento 1 - laudo 5), o qual, tendo prestado o regular exame sobre a atividade habitual de doméstica e documentos produzidos nos autos, resultou na declaração de plena capacidade laboral, ainda que com certa limitação. Conclusão: sem incapacidade atual - Justificativa: Não foram observados elementos indicativos de incapacidade ou de redução de capacidade para sua atividade após a alta do INSS, do ponto de vista ortopédico. Achados degenerativos compatíveis com o grupo etário e sem evidência de prejuízo funcional. Desse modo, verifica-se que não se observa qualquer nulidade ou ausência de valoração das provas, sendo hipótese da orientação do enunciado nº 42, da súmula da jurisprudência da TNU, uma vez que o acórdão prolatado, em julgamento de recurso inominado, aplicou o princípio do livre convencimento do magistrado diante das provas apresentadas. Assim, verifica-se que a pretensão da parte autora é apenas rediscutir a prova produzida nos autos, de forma a fundamentar suas alegações. Pelas razões expostas, contata-se que o acórdão impugnado está de acordo com a Súmula 42 da TNU (Não se conhece de incidente de uniformização que implique reexame de matéria de fato). Nessas condições, resta inviabilizado o conhecimento do incidente. Ante o exposto, NEGO SEGUIMENTO AO INCIDENTE DE UNIFORMIZAÇÃO. Intimem-se.
+(Pedido de Uniformização de Interpretação de Lei (Turma) 5018691-04.2019.4.04.7100, ERIVALDO RIBEIRO DOS SANTOS - TURMA NACIONAL DE UNIFORMIZAÇÃO, 28/07/2020)
+
+As conclusões da prova pericial realizada por perito de confiança do juízo estão embasadas nas queixas, nos documentos médicos constantes dos autos e principalmente no exame clínico direto, com informações claras e suficientes ao julgamento do feito.
+
+Logo, não há falar em reabertura da instrução para produção de novo laudo pericial com especialista.
+
+Realizada perícia médica (evento 18, LAUDOPERIC1), o expert concluiu pela ausência de incapacidade laboral:
+
+Data da perícia: 04/08/2026 15:40:00
+Examinado: M. P. B.
+Data de nascimento: 20/05/1976
+Idade: 50
+Estado Civil: Casado
+Sexo: Feminino
+UF: RS
+CPF: 01212065050
+O(a) examinando(a) é ou foi paciente do(a) perito(a)? NÃO
+
+Escolaridade:
+Formação técnico-profissional: 4ª série do Fundamental.
+Última atividade exercida: Faxineira diarista.
+Tarefas/funções exigidas para o desempenho da atividade: Conforme a Classificação Brasileira de Ocupações (CBO), a faxineira diarista executa serviços de limpeza, conservação e higienização de ambientes residenciais e/ou comerciais, realizando a limpeza de pisos, paredes, vidros, móveis, banheiros, cozinhas e demais dependências, bem como a coleta e acondicionamento de resíduos, organização dos ambientes, reposição de materiais de higiene e limpeza e utilização de produtos e equipamentos apropriados, observando normas de higiene, segurança, qualidade e preservação do patrimônio.
+Por quanto tempo exerceu a última atividade? Faxineira diarista desde jovem.
+Até quando exerceu a última atividade? Parte periciada refere estar sem trabalhar há cerca de 3 anos.
+
+Já foi submetido(a) a reabilitação profissional? NÃO
+Experiências laborais anteriores: Faxineira diarista desde jovem. Nega outras experiências profissionais.
+
+Motivo alegado da incapacidade: Dores pelo corpo devido a fibromialgia; dores lombares.
+
+Histórico/anamnese: Parte periciada relata que apresenta incapacidade devido a possuir queixas de dores difusas pelo corpo decorrentes de fibromialgia, referindo que não consegue mais trabalhar em razão desse quadro. Relata que os sintomas tiveram início há aproximadamente dois anos, quando passou a apresentar dores generalizadas. Refere que inicialmente realizou acompanhamento com traumatologista, sendo submetida a diversos exames, inclusive da coluna e dos ombros, onde foi identificado desgaste, porém os tratamentos realizados não proporcionaram melhora das dores. Informa que foi posteriormente encaminhada ao reumatologista, que estabeleceu o diagnóstico de fibromialgia e iniciou tratamento específico. Relata que permanece em acompanhamento especializado, tendo sido reavaliada no mês anterior, ocasião em que houve aumento das doses das medicações devido à piora das dores. Refere que atualmente apresenta dor em todo o corpo, especialmente nas articulações dos dedos, nas pernas e nas regiões ósseas das pernas, relatando dor intensa durante a noite. Informa que apresenta dificuldade para caminhar em razão das dores e que a palpação de diferentes regiões do corpo também desencadeia dor. Refere fazer uso de Pamelor, pregabalina, fluoxetina e, mais recentemente, tramadol e medicação injetável para controle das crises dolorosas. Relata que foi orientada pelo reumatologista a realizar atividade física, porém informa que apresenta limitações em razão de bursite no ombro e problemas na coluna. Refere que realiza pilates quando possível, por orientação médica, com o objetivo de auxiliar no controle dos sintomas, permanecendo, entretanto, com dores difusas e limitação funcional.
+
+Documentos médicos analisados: Apresenta Atestado Médico assinado por profissional de CRM 19579, datado de 19/03/26, indicando que: "A paciente M. P. B. faz tratamento ortopédico para lombalgia RNM mostra discopatia e protrusão discal. Oriento fisioterapia e AINE para alivio da dor. Devido dor não consegue trabalhar (serviços gerais) . Necessita afastamento do trabalho por 180 (cento e oitenta) dias CID M54.5".
+Apresenta Atestado Médico assinado por profissional de CRM 18431, datado de 15 de Julho de 2026, indicando que: "Atesto para fins de perícia médica que o paciente M. P. B. é portador de doença de CID M79.7 apresentando FIBROMIALGIA, doença que é caracterizada por dor difusa crônica, alodinia, hiperalgesia e distúrbio de sono. Apresenta lombalgia com sintomas de radiculopatia em membros inferiores (parestesias) - CID M54.4. Apresenta também quadro de dor e limitação funcional em ombro direito, relacionado a tendinopatia - CID M75.1 Em virtude destas patologias apresenta limitações para realização de atividades laborais. Indicado realização de exercício físico regular, e uso de pregabalina, nortriplina e duloxetina para tratamento de sua condição. Solicito afastamento laboral por 6 meses para tratamento.".
+Apresenta documento médico assinado por profissional de CRM 18431, datado de 15/07/2026, indicando que: "Pamelor 25mg .......................................60 cps uso contínuo Tomar 1 comprimido a noite.".
+Apresenta documento médico assinado por profissional de CRM 18431, datado de 15/07/2026, indicando que: "1 Betatrinta .................................................. 2 amp. Aplicar 1 ampola intramuscular hoje. Repetir aplicação de 1 ampola intramuscular em 2 semanas se persistir com muita dor.".
+Apresenta documento médico assinado por profissional de CRM 18431, datado de 15/07/2026, indicando que: "Pregabalina 75mg ....................................... 180 cps uso contínuo Tomar 1 comprimido pela manhã e 2 comprimido a noite. Duloxetina 60mg ........................................ 60 cps uso contínuo Tomar 1 comprimido pela manhã.".
+Apresenta documento médico assinado por profissional de CRM 28119, datado de 13/03/2026, indicando que: "RESSONÂNCIA MAGNÉTICA DA COLUNA LOMBOSSACRA Técnica: Exame de ressonância magnética realizado com protocolo específico para estudo da coluna vertebral lombossacra, com obtenção de imagens ponderadas em T1W e T2W nos planos axial e sagital, sem a administração de contraste endovenoso. Os seguintes aspectos foram observados: Corpos vertebrais com altura e alinhamento posterior preservados. Alterações degenerativas espondilóticas comprometendo difusamente corpos vertebrais, especialmente L5 e S1, caracterizadas por osteofitose marginal e irregularidades em platôs. Redução na amplitude dos espaços intersomáticos de L1-L2 e L5-S1, com perda de sinal dos discos intervertebrais. Em L1-L2, identifica-se protrusão discal posterior difusa, a qual determina leve impressão sobre a face ventral do saco dural e leve redução na amplitude do forame neural direito. Em L5-S1, identifica-se abaulamento discal posterior difuso, determinando impressão sobre a face ventral do saco dural e moderada redução na amplitude de ambos os forames neurais. Leve artropatia degenerativa comprometendo as articulações interapofisárias, especialmente em L4-L5 e L5-S1. Canal vertebral ósseo com dimensões normais. Cone medular e raízes da cauda equina com morfologia e intensidade de sinal normais. Ausência de alterações significativas envolvendo a musculatura perivertebral posterior da coluna lombossacra. Impressão diagnóstica: Sinais de discopatia degenerativa lombar, em L1-L2 e L5-S1, com redução na amplitude de forames neurais. Leve artropatia degenerativa comprometendo as articulações interapofisárias, especialmente em L4-L5 e L5-S1.".
+Apresenta documento médico assinado por profissional de CRM 26179, datado de 25/06/2026, indicando que: "ULTRASSONOGRAFIA DO OMBRO DIREITO Grande espessamento e heterogenicidade do tendão supraespinhal, por tendinopatia. Tendões subescapular e infraespinhal espessados e levemente heterogêneos, por tendinopatia. Derrame na bursa subdeltoidea subacromial, denso e heterogêneo, relacionado a bursite. Tendão longo do bíceps normoposicionado, com espessura normal e leve aumento da quantidade de líquido em sua bainha. Espessamento cápsulo-ligamentar da articulação acromio-clavicular.".
+Exame físico/do estado mental: Ao exame, apresenta-se em bom estado geral, respondendo às perguntas de forma lúcida e coerente. Coopera com exame. Humor eutímico.
+Assumiu atitude adequada durante a entrevista. Vigil e com orientação em tempo e espaço, sem alterações na fala.
+Membros superiores com trofismo muscular presente, simétrico e preservado; sem alterações de força (grau 5) com igualdade entre ambos os membros superiores, sem qualquer sinal de desuso de membros. Movimento de abdução de ambos membros superiores preservados.
+Membros inferiores com trofismo muscular igualmente preservados e simétricos nas coxas; senta e levanta da cadeira sem limitações de flexo extensão de joelhos e das articulações coxofemorais; sem limitações funcionais em força ou amplitude de movimentos em membros inferiores.
+À ectoscopia o dorso se encontra íntegro, sem sinais de escoliose ou cifose em qualquer altura da coluna lombar. Musculatura paravertebral eutrófica, pele e fâneros sem alterações. Não apresenta limitação a movimentação passiva e ativa da coluna lombar. Lasegue negativo bilateralmente. Mingazzini negativo bilateralmente. Marcha não patológica. Equilíbrio estático e dinâmico preservados. Senta e levanta da cadeira com facilidade e destreza. Achados do exame físico incompatíveis com radiculopatia.
+À palpação, a periciada refere dor difusa a estímulos mínimos, inclusive à palpação superficial, sem correspondência anatômica específica ou relação com estruturas osteomusculares definidas. Observa-se hipersensibilidade generalizada, com relato álgico em múltiplos pontos corporais, compatíveis com padrão de fibromialgia, sem sinais locais de inflamação, contratura muscular, espasmo ou alterações tróficas. Não se identificam déficits objetivos de força, tônus, trofismo ou amplitude de movimentos, havendo dissociação entre as queixas subjetivas de dor e os achados objetivos do exame físico, caracterizando padrão álgico não orgânico.
+
+Diagnóstico/CID:
+- M79.7 - Fibromialgia
+- M75.1 - Síndrome do manguito rotador
+- M54 - Dorsalgia
+
+Causa provável do diagnóstico (congênita, degenerativa, hereditária, adquirida, inerente à faixa etária, idiopática, acidentária, etc.): Multifatorial; degenerativa.
+A doença, moléstia ou lesão decorre do trabalho exercido ou de acidente de trabalho? NÃO
+O(a) autor(a) é acometido(a) de alguma das seguintes doenças ou afecções: tuberculose ativa, hanseníase, alienação mental grave, neoplasia maligna, cegueira, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, estado avançado da doença de Paget (oesteíte deformante), S.I.D.A., contaminação por radiação ou hepatopatia grave? NÃO
+DID - Data provável de Início da Doença: não há como afirmar com precisão.
+
+O(a) autor(a) realiza e coopera com a efetivação do tratamento adequado ou fornecido pelo SUS para sua patologia? SIM
+Em caso de recebimento prévio de benefício por incapacidade, o tratamento foi mantido durante a vigência do benefício? SIM
+Observações sobre o tratamento: Nada a acrescentar.
+
+Conclusão: sem incapacidade atual
+- Justificativa: Após análise da documentação médica apresentada, da anamnese, do exame físico pericial e dos exames complementares, conclui-se que a parte avaliada, na presente data, mantém capacidade laborativa preservada para o desempenho de suas funções habituais. Embora apresente diagnóstico de fibromialgia e alterações degenerativas evidenciadas em exames de imagem da coluna lombar, tais condições, isoladamente, não caracterizam incapacidade laborativa, por não apresentarem correspondência com achados objetivos de comprometimento funcional na avaliação pericial. Não foram constatados déficits objetivos de força, trofismo, mobilidade, alterações neurológicas ou outros achados clínicos que evidenciem repercussão funcional incapacitante. Dessa forma, as patologias diagnosticadas não acarretam prejuízo funcional incapacitante na presente data. Também, não há elementos que permitam afirmar incapacidade pretérita além dos períodos previamente reconhecidos pela perícia administrativa.
+- Houve incapacidade pretérita em período(s) além daquele(s) em que o(a) examinado(a) já esteve em gozo de benefício previdenciário? NÃO
+- Caso não haja incapacidade atual, o(a) examinado(a) apresenta sequela consolidada decorrente de acidente de qualquer natureza? NÃO
+
+- Foram avaliadas outras moléstias indicadas nos autos, mas que não são incapacitantes? NÃO
+- Havendo laudo judicial anterior, neste ou em outro processo, pelas mesmas patologias descritas nestes autos, indique, em caso de resultado diverso, os motivos que levaram a tal conclusão, inclusive considerando eventuais tratamentos realizados no período, exames conhecidos posteriormente, fatos ensejadores de agravamento da condição, etc.: Uma das pedras fundamentais da Medicina Legal e base do método pericial consiste na produção do parecer independente. Uma vez que condicionar a validade da averiguação pericial exclusivamente a análises prévias de outros profissionais, ou exacerbar o peso das decisões dos mesmos frente as demais evidências, fere a autonomia necessária para proceder o ato médico-pericial.
+- Pode o perito afirmar se os sintomas relatados são incompatíveis ou desproporcionais ao quadro clínico? NÃO
+- Outras considerações que o(a) perito(a) considere relevantes para a solução da causa: Também, sobre a fibromialgia, enalteço o posicionamento da Sociedade Brasileira de Reumatologia acerca da relação entre fibromialgia e incapacidade, datado de dezembro de 2021, artigo em que são feitas afirmações expostas abaixo. Neste documento, é esclarecido que a fibromialgia é patologia eminentemente clínica, não possuindo relevância para a patologia a realização de exames de imagem ou laboratoriais. Como em outros documentos científicos, há uma valorização do trabalho na vida cotidiana dos adultos, que o torna essencial para sua independência, autossuficiência, autoestima e integração social, além de ressaltar que a permanência no trabalho possui impacto positivo na saúde do trabalhador pela manutenção da atividade física e prevenção de patologias como depressão e ansiedade. Não há nenhuma comprovação científica que a fibromialgia tenha origem ocupacional e a mesma, quando leva à incapacidade, não costuma fazê-lo de maneira prolongada, devendo os trabalhadores serem estimulados a permanecer no trabalho. Ademais, como forma de melhorar a capacidade laboral do paciente com fibromialgia, é destacado, em primeiro lugar, o estímulo da volta ao trabalho o mais rapidamente possível. Fonte: SOCIEDADE BRASILEIRA DE REUMATOLOGIA, Posicionamento da Sociedade Brasileira de Reumatologia: Síndrome da Fibromialgia e Incapacidade, Dezembro de 2021.
+
+Acometimentos álgicos da coluna vertebral, como o analisado no presente caso – mesmo quando associados a alterações discais e, eventualmente, a sintomas radiculares – configuram condição clínica de etiologia multifatorial. Frequentemente decorrem da interação entre alterações degenerativas relacionadas ao envelhecimento, sobrecargas mecânicas, fatores ambientais e predisposições individuais. Em grande parte dos casos, apresentam evolução favorável com tratamento conservador.
+A lombalgia/cervicalgia constitui uma das condições musculoesqueléticas mais prevalentes na população adulta e uma das principais causas de procura por atendimento médico e de limitação funcional temporária em todo o mundo. Entretanto, a presença de alterações em exames de imagem, como protrusões, abaulamentos discais ou sinais degenerativos, não estabelece, isoladamente, incapacidade laborativa, devendo sempre ser interpretada em conjunto com a história clínica e, principalmente, com os achados do exame físico.
+A avaliação da capacidade laborativa fundamenta-se na correlação entre anamnese, exame físico, documentação médica e repercussão funcional objetiva. Assim, alterações radiológicas isoladas, desacompanhadas de sinais clínicos compatíveis, como déficits neurológicos, sinais de radiculopatia ou limitação funcional objetivável, não permitem, por si sós, caracterizar incapacidade laborativa.
+Na maioria dos casos, a conduta inicial permanece conservadora, incluindo analgesia, terapia física, adaptação temporária das atividades e reabilitação, reservando-se o tratamento cirúrgico para situações específicas e refratárias ao tratamento clínico adequadamente conduzido.
+Referencial Bibliográfico: KISNER, Carolyn; COLBY, Lynn Allen. Exercícios terapêuticos: fundamentos e técnicas. 6. ed. São Paulo: Manole, 2012. PANJABI, Manohar M.; WHITE, Augustus A. Biomecânica clínica da coluna vertebral. São Paulo: Roca, 2003. MAGEE, David J. Avaliação musculoesquelética. 5. ed. São Paulo: Manole, 2010. HART, Leslie G.; DWORKIN, Samuel F.; WERNEKE, Mark W. A epidemiologia da dor lombar. Revista Brasileira de Reumatologia, São Paulo, v. 42, n. 6, p. 372-377, 2002. LONGO, Dan L.; FAUCI, Anthony S.; KASPER, Dennis L.; HAUSER, Stephen L.; JAMESON, J. Larry; LOSCALZO, Joseph. Harrison Medicina Interna. 19. ed. Rio de Janeiro: McGraw-Hill Education, 2016. ZYLBERSZTEJN, Sérgio et al. Estenose degenerativa da coluna lombar. Revista Brasileira de Ortopedia. 2012, v. 47, n. 3.
+
+Nome perito judicial: M. C. H. R. (CRMRS041186)
+Especialidade(s)/área(s) de atuação: Clínico geral, Medicina do trabalho
+
+Assistentes presentes:
+Assistente do réu: Ausente
+Assistente do autor: Ausente
+
+Outros quesitos do Juízo:
+Não foram apresentados quesitos ao perito.
+Quesitos da parte autora:
+Não foram apresentados quesitos ao perito.
+
+M. C. H. R.
+Médico CREMERS 41186 CRMSC 41940
+Especialista em Medicina Legal e Perícia Médica, RQE 47411
+Especialista em Medicina do Trabalho, RQE 45171
+Especialista em Clínica Médica, RQE 40485
+
+A perícia judicial é realizada para averiguar a (in)capacidade da parte autora e dar condições ao juiz de se pronunciar sobre a matéria fática colocada em debate nas hipóteses em que, para a apreensão de tal matéria, existe a necessidade de conhecimentos técnicos alheios ao Direito. Desta forma, tendo em conta o total desinteresse do perito em relação ao litígio, e respeitando-se, em todo caso, o livre convencimento motivado do juiz, a sentença pode ser fundamentada na prova pericial, analisada em conjunto com as demais provas carreadas aos autos.
+
+Ressalto o reiterado entendimento do TRF/4ª Região de que Tratando-se de auxílio-doença ou aposentadoria por invalidez, o julgador firma sua convicção, via de regra, por meio da prova pericial (5ª Turma, AC 0000480-14.2014.404.9999/SC - rel. Des. Fed. Taís Schilling Ferraz - DE 12/09/2016).
+
+Verifico que o perito judicial colheu as queixas e o histórico da doença e do tratamento à luz do tipo de atividade desenvolvida habitualmente, bem como realizou exame físico e analisou toda a documentação médica apresentada nos autos e no ato pericial, inexistindo razão para que sua conclusão - técnica, coesa e imparcial - pela inexistência de incapacidade seja desconsiderada.
+
+Atestados médicos anexados que contenham afirmações diferentes da conclusão do perito nomeado não denotam necessariamente a existência de erro no teor do exame pericial, eis que representam apenas opiniões dissonantes a respeito do estado de saúde. Não havendo motivos para suspeitar da ocorrência de equívoco na avaliação do perito - que não tem qualquer vínculo com as partes -, seu laudo deve prevalecer.
+
+Para a caracterização da incapacidade se exige a constatação de uma limitação física, psicológica ou fisiológica que impeça a pessoa de exercer atividade que lhe garanta o sustento. A simples comprovação da existência de doença e de seu tratamento não implica automaticamente em incapacidade laboral e concessão do benefício, se a prova pericial não verificou a existência de limitação funcional que impeça o exercício de suas atividades.
+
+Ademais, sabe-se que moléstias tais como as apresentadas pela parte recorrente são doenças de longa duração que alternam períodos agudos e períodos de estabilidade, não havendo nos autos provas aptas a infirmar as conclusões do perito judicial no sentido da ausência de incapacidade por ocasião do exame pericial.
+
+Por fim, não havendo incapacidade laborativa, como comprovado nos autos pela prova pericial, a simples consideração das condições pessoais, culturais, sociais e das vicissitudes naturais do mercado de trabalho, por si só, não pode ensejar a concessão do benefício.
+
+A Turma Nacional de Uniformização - TNU já se pronunciou a respeito, consolidando o entendimento de que "O julgador não é obrigado a analisar as condições pessoais e sociais quando não reconhecer a incapacidade do requerente para a sua atividade habitual", conforme enunciado da súmula 77, de 06/09/2013.
+
+Logo, não constatada a existência de incapacidade laborativa exigida pela Lei n.º 8.213/91, a improcedência do pedido inicial é a medida que se impõe.
+
+Condeno a parte recorrente ao pagamento de honorários advocatícios, que fixo em 10% sobre o valor da condenação, observado o disposto na súmula 111 do STJ, e, na hipótese de não haver condenação, sobre o valor da causa, atualizado desde o ajuizamento pelo IPCA-E, cuja execução deve permanecer suspensa enquanto permanecer sob a proteção da Assistência Judiciária Gratuita.
+
+Ante o exposto, voto por negar provimento ao recurso da parte autora.
+
+Documento eletrônico assinado por NARENDRA BORGES MORALES, Juíza Federal, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006 e Resolução TRF 4ª Região nº 17, de 26 de março de 2010. A conferência da autenticidade do documento está disponível no endereço eletrônico https://verificar.trf4.jus.br, mediante o preenchimento do código verificador 710026288721v3 e do código CRC 4e0a9e9d.
+
+Informações adicionais da assinatura:
+Signatário (a): NARENDRA BORGES MORALES
+Data e Hora: 12/11/2026, às 16:30:43
+
+5000771-50.2026.4.04.7139
+
+710026288721
+.V3
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+JUSTIÇA FEDERAL
+
+Seção Judiciária do Rio Grande do Sul
+
+Gab. Juíza Federal NARENDRA BORGES MORALES (RS-3C)
+
+RECURSO CÍVEL Nº 5000771-50.2026.4.04.7139/RS
+
+RELATORA: Juíza Federal NARENDRA BORGES MORALES
+
+ACÓRDÃO
+
+A 3ª Turma Recursal do Rio Grande do Sul decidiu, por unanimidade, negar provimento ao recurso da parte autora, nos termos do voto do(a) Relator(a).
+
+Porto Alegre, 24 de novembro de 2026.
+
+Documento eletrônico assinado por NARENDRA BORGES MORALES, Relatora do Acórdão, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006 e Resolução TRF 4ª Região nº 17, de 26 de março de 2010. A conferência da autenticidade do documento está disponível no endereço eletrônico https://verificar.trf4.jus.br, mediante o preenchimento do código verificador 710026584619v2 e do código CRC 93e71261.
+
+Informações adicionais da assinatura:
+Signatário (a): NARENDRA BORGES MORALES
+Data e Hora: 24/11/2026, às 15:55:05
+
+5000771-50.2026.4.04.7139
+
+710026584619
+.V2
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Justiça Federal da 4ª Região
+
+Seção Judiciária do Rio Grande do Sul
+
+EXTRATO DE ATA DA SESSÃO VIRTUAL DE 16/11/2026 A 24/11/2026
+
+RECURSO CÍVEL Nº 5000771-50.2026.4.04.7139/RS
+
+RELATORA: Juíza Federal NARENDRA BORGES MORALES
+
+PRESIDENTE: Juíza Federal SUSANA SBROGIO GALIA
+
+Certifico que este processo foi incluído na Pauta da Sessão Virtual, realizada no período de 16/11/2026, às 00:00, a 24/11/2026, às 14:00, na sequência 1014, disponibilizada no DE de 05/11/2026.
+
+Certifico que a 3ª Turma Recursal do Rio Grande do Sul, ao apreciar os autos do processo em epígrafe, proferiu a seguinte decisão:
+
+A 3ª TURMA RECURSAL DO RIO GRANDE DO SUL DECIDIU, POR UNANIMIDADE, NEGAR PROVIMENTO AO RECURSO DA PARTE AUTORA.
+
+RELATORA DO ACÓRDÃO: Juíza Federal NARENDRA BORGES MORALES
+
+Votante: Juíza Federal NARENDRA BORGES MORALES
+
+Votante: Juíza Federal JACQUELINE MICHELS BILHALVA
+
+Votante: Juíza Federal SUSANA SBROGIO GALIA
+
+EVANETE TERESINHA TARTARI
+
+Secretária
+
+Identificações de pessoas físicas foram ocultadas
