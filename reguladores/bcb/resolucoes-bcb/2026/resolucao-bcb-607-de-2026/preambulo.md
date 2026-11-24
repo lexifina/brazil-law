@@ -1,0 +1,4 @@
+RESOLUÇÃO BCB Nº 607, DE 19 DE NOVEMBRO DE 2026
+Altera a Resolução BCB nº 560, de 23 de abril de 2026, para postergar a data da entrada em vigor dos dispositivos relativos ao indicador Liquidez de Curto Prazo Simplificado – LCRS e dispor sobre hipótese de dispensa do cumprimento dos limites mínimos.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 11 de novembro de 2026, com base no art. 9º-A da Lei nº 4.728, de 14 de julho de 1965, nos arts. 9º, caput, incisos II e IX, alínea “b”, e 15 da Lei nº 12.865, de 9 de outubro de 2013, nos arts. 4º, 6º e 9º da Lei nº 14.478, de 21 de dezembro de 2022, e nos arts. 1º e 2º do Decreto nº 11.563, de 13 de junho de 2023, e tendo em conta o disposto na Resolução nº 4.282, de 4 de novembro de 2013, e na Resolução CMN nº 5.105, de 28 de setembro de 2023,
+R E S O L V E :
