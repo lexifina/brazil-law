@@ -80,6 +80,8 @@ Each change is credited to the act Planalto's note beside it names ("Redação d
 | [Supremo Tribunal Federal](https://portal.stf.jus.br/) | Court | n/a | Case pages of the rulings that struck words, for the decision and the day it was published |
 | [LexML Brasil](https://www.lexml.gov.br) (Senado Federal) | Legislative records | no | Each cited law's "Publicação Original" day in the Diário Oficial |
 | [Câmara dos Deputados, Legislação Informatizada](https://www2.camara.leg.br/legin/fed/) | Parliament | no | Publication facts only (retificações, an Ato Declaratório) |
+| [normas.leg.br](https://normas.leg.br/) (Congresso Nacional) | Legislative records, CC BY 4.0 | yes: each provision's versions | Since November 2026: LC 214/2025's versions, and the text of each federal norm as published in the Diário Oficial da União (`federal/textos-originais/`) |
+| [Banco Central do Brasil, Busca de normas](https://www.bcb.gov.br/estabilidadefinanceira/buscanormas) | Regulator | no (the text in force) | Since November 2026: resolutions of the Conselho Monetário Nacional and the BCB's resolutions, circulars and instructions (`reguladores/`) |
 
 ## Licence
 

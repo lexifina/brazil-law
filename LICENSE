@@ -15,3 +15,21 @@ repository.
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
 dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Further sources (since 24 November 2026):
+
+  normas.leg.br (Congresso Nacional), https://normas.leg.br/ : every record of its API carries
+  "license": "https://creativecommons.org/licenses/by/4.0/" (read 24 November 2026, records of LC 214/2025 and
+  Lei 8.078/1990). Used under CC BY 4.0: the provision versions of LC 214/2025 under
+  federal/leis-complementares/lei-complementar-214-de-2025/ and the original texts under federal/textos-originais/
+  come from it; each commit names the record (Source, URN) and carries Source-licence: CC-BY-4.0. Changes: HTML
+  converted to plain text, one provision per line; Word conversion markers removed; no wording changed.
+  Fonte: normas.leg.br (Congresso Nacional), CC BY 4.0.
+
+  Banco Central do Brasil, normativos (https://www.bcb.gov.br/estabilidadefinanceira/buscanormas, read through its
+  public API, 24 November 2026): resolutions of the Conselho Monetário Nacional and the BCB's normative acts under
+  reguladores/. They are official acts (Lei 9.610/1998, art. 8º, IV); no separate terms of use were found for the
+  normativos service. The authoritative text is the one published in the Diário Oficial da União.
+
+  Planalto (https://www.planalto.gov.br/ccivil_03/) is now also read live (robots.txt: none, 24 November 2026), for
+  its year indexes of federal norms and to check texts.

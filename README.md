@@ -80,6 +80,8 @@ Cada alteração é atribuída ao ato que a nota do Planalto ao lado dela indica
 | [Supremo Tribunal Federal](https://portal.stf.jus.br/) | Tribunal | não se aplica | Páginas dos processos das decisões que riscaram palavras, para a decisão e o dia em que foi publicada |
 | [LexML Brasil](https://www.lexml.gov.br) (Senado Federal) | Registros legislativos | não | O dia da "Publicação Original" no Diário Oficial de cada lei citada |
 | [Câmara dos Deputados, Legislação Informatizada](https://www2.camara.leg.br/legin/fed/) | Parlamento | não | Somente dados de publicação (retificações, um Ato Declaratório) |
+| [normas.leg.br](https://normas.leg.br/) (Congresso Nacional) | Registros legislativos, CC BY 4.0 | sim: as versões de cada dispositivo | Desde novembro de 2026: as versões da LC 214/2025 e o texto de cada norma federal tal como publicado no Diário Oficial da União (`federal/textos-originais/`) |
+| [Banco Central do Brasil, Busca de normas](https://www.bcb.gov.br/estabilidadefinanceira/buscanormas) | Regulador | não (o texto vigente) | Desde novembro de 2026: resoluções do Conselho Monetário Nacional e resoluções, circulares e instruções do BCB (`reguladores/`) |
 
 ## Licença
 
