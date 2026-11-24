@@ -1,0 +1,32 @@
+DECISÃO
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO EXTRAORDINÁRIO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. FUNDAMENTAÇÃO SUFICIENTE. TEMA 339 DA REPERCUSSÃO GERAL. ALEGADA VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO CONTRADITÓRIO E À AMPLA DEFESA. NECESSIDADE DE ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE. SÚMULA 279/STF. NEGATIVA DE SEGUIMENTO.
+
+Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Fabiana Beatriz Boodts, em face do acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+
+“APELAÇÃO CRIMINAL – TRÁFICO DE DROGAS – ASSOCIAÇÃO PARA O TRÁFICO – AUTORIA E MATERIALIDADE COMPROVADAS – ABSOLVIÇÃO – IMPOSSIBILIDADE – INEXIGIBILIDADE DE CONDUTA DIVERSA – NÃO CONFIGURAÇÃO - PENAS – MANUTENÇÃO. Havendo comprovação da materialidade e da autoria do tráfico, não há como acolher a pretensão defensiva de absolvição por insuficiência de provas. Não comprovada pelo apelante a absoluta e extrema necessidade da prática delitiva em contrariedade às normas legais em vigor, mostra-se inaplicável a excludente de inexigibilidade de conduta diversa. Comprovado que os denunciados se associaram de maneira estável e permanente para o fim de praticar o delito de tráfico de drogas, a manutenção da condenação pelo crime tipificado no artigo 35, da Lei n. 11.343/06, é medida que se impõe. Constatando-se que a pena fixada na sentença foi bem dosada e obedeceu aos ditames dos artigos 59 e 68, do Código Penal, e 42, da Lei 11.343/06, não há que se falar em sua redução.” (Apelação Criminal nº 1.0000.24. 467760-5/001, 3ª Câmara Criminal, Rel Des. Maria Luíza de Marilac, j. 07/04/25)
+
+No recurso extraordinário sustenta-se violação dos arts. 1º, III, 5º, LIV, LV e LVII, 6º, 93, IX, e 196 da Constituição da República. Argumenta-se, em síntese, que o acórdão recorrido é nulo por ausência de fundamentação adequada, pois não teria enfrentado especificamente os argumentos defensivos sobre a fragilidade probatória, a ausência de dolo, a inexigibilidade de conduta diversa pelo uso medicinal de Cannabis e a não comprovação da associação e da interestadualidade, o que teria violado, por consequência, o devido processo legal, a ampla defesa, a presunção de inocência, a dignidade humana e o direito à saúde.
+É o relatório.
+Decido.
+O recurso não comporta seguimento.
+Inicialmente, não se visualiza a alegada violação do art. 93, IX, da Carta da República. O dispositivo exige que sejam fundamentadas, ainda que sucintamente, todas as decisões dos órgãos do Poder Judiciário, sem determinar, contudo, o exame pormenorizado de todas as alegações das partes. No presente caso, o órgão julgador enfrentou as causas de pedir veiculadas pela parte, bem como motivou adequadamente sua decisão e solucionou a controvérsia aplicando o direito que entendeu pertinente na hipótese. Nesse sentido:
+
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes, Plenário Virtual, DJe 13.8.2010)
+
+Por sua vez, nos termos da jurisprudência deste Supremo Tribunal Federal, a verificação da alegada ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa pressupõe o exame e a interpretação das normas infraconstitucionais aplicáveis ao caso, de tal modo que tal violação, se ocorresse, seria reflexa, o que não atende à exigência do art. 102, III, a, da Lei Fundamental. Nesse sentido:
+
+ “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.” (ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013)
+
+Por fim, verifica-se que a revisão das premissas adotadas pelo Tribunal de origem demandaria o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional local aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos. II - É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo. III - Agravo regimental ao qual se nega provimento.” (RE 1472878 AgR, Rel. Min. Cristiano Zanin, 1ª Turma, DJe 03.05.2024)
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITO CONSTITUCIONAL – OFENSA INDIRETA À CONSTITUIÇÃO – CONTENCIOSO DE MERA LEGALIDADE – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – AGRAVO INTERNO IMPROVIDO.” (ARE 1169524 AgR, Rel. Min. Celso De Mello, 2ª Turma, DJe 19.11.2019)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Publique-se.
+
+Brasília, 24 de novembro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
