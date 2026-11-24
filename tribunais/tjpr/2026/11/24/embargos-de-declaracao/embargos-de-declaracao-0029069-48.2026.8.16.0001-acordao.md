@@ -1,0 +1,70 @@
+EMBARGOS DE DECLARAÇÃO. AÇÃO DE COBRANÇA REGRESSIVA SECURITÁRIA. RESPONSABILIDADE OBJETIVA DE CONCESSIONÁRIA DE SERVIÇO PÚBLICO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. PRETENSÃO DE REDISCUSSÃO DA VALORAÇÃO DA PROVA. EMBARGOS DE DECLARAÇÃO CONHECIDOS E NÃO PROVIDOS.I. CASO EM EXAME
+Embargos de declaração opostos por seguradora contra acórdão em apelação.II. QUESTÃO EM DISCUSSÃO
+Está em discussão saber se o acórdão incorreu em
+obscuridade, omissão ou contradição.
+
+III. RAZÕES DE DECIDIR
+Os embargos de declaração possuem fundamentação vinculada e destinam-se exclusivamente à correção de obscuridade, contradição, omissão ou erro material, nos termos do art. 1.022 do CPC.
+O acórdão embargado reconheceu expressamente a responsabilidade objetiva da concessionária de energia elétrica, nos termos do art. 37, § 6º, da CF/1988 e do art. 14 do CDC, sem afastar a necessidade de comprovação do dano e do nexo causal.
+A insurgência da embargante revela inconformismo com a valoração das provas e com a conclusão do julgamento, pretensão incompatível com a finalidade dos embargos de declaração.
+
+IV. DISPOSITIVOEmbargos de declaração conhecidos e providos.Dispositivos relevantes citados: CF/1988, art. 37, § 6º; CDC, arts. 6º, VIII, 14, 2º e 3º; CPC, arts. 373, II e § 1º, 1.022 e 1.025.
+
+I – RELATÓRIO
+Trata-se de embargos de declaração opostos por MAPFRE SEGUROS GERAIS S.A. em face do acórdão proferido por esta 10ª Câmara Cível deste Tribunal de Justiça nos autos da Apelação Cível nº 0002422-12.2023.8.16.0004, oriunda da 10ª Vara Cível de Curitiba, que conheceu e negou provimento aos recursos de apelação interpostos pela ora embargante e por COPEL DISTRIBUIÇÃO S.A., mantendo a sentença de parcial procedência proferida na ação de cobrança regressiva proposta pela seguradora em face da concessionária de energia elétrica, com majoração dos honorários advocatícios em grau recursal (mov. 25.1/recurso).
+
+Nas razões dos presentes embargos a embargante afirma, com fundamento no art. 1.022, inciso I do Código de Processo Civil, que o acórdão contém obscuridades e contradições em sua fundamentação. Aduz que o julgado considerou unilaterais e insuficientes os documentos juntados pela seguradora para demonstrar o dever de indenizar, mas não teria se pronunciado sobre a situação de vulnerabilidade da embargante perante a concessionária, especializada na prestação de serviços de fornecimento de energia elétrica. Sustenta que essa ausência tornaria contraditória a conclusão adotada.
+
+Argumenta ser aplicável o Código de Defesa do Consumidor, por configurar o fornecimento de energia elétrica relação de consumo, nos termos dos arts. 2º e 3º da Lei nº 8.078/1990, e porque a seguradora, após realizar o pagamento da indenização, sub-roga-se nos direitos do segurado. Invoca, nesse sentido, a Súmula nº 188 do Supremo Tribunal Federal e disposições relativas à sub-rogação legal, defendendo seu direito de exigir o reembolso dos valores efetivamente despendidos.
+
+Sustenta que a concessionária responde objetivamente pelos danos decorrentes da prestação defeituosa do serviço, conforme o art. 14 do Código de Defesa do Consumidor e o art. 37, § 6º, da Constituição Federal. Afirma que o nexo causal estaria suficientemente demonstrado e que a incidência das normas consumeristas, de ordem pública e interesse social, não poderia ser afastada.
+
+Aduz, ainda, que seria cabível a inversão do ônus da prova prevista no art. 6º, inciso VIII, do Código de Defesa do Consumidor, porque os consumidores segurados seriam jurídica e tecnicamente vulneráveis para identificar e comprovar as causas dos danos verificados em seus equipamentos. Alega que a concessionária, por possuir domínio técnico sobre o fornecimento de energia elétrica e sobre os registros de sua rede, deveria produzir prova da regularidade do serviço ou de alguma causa excludente de responsabilidade.
+
+Argumenta que sua vulnerabilidade não é econômica, mas técnica e informacional, pois, embora seja empresa de grande porte no ramo securitário, não possuiria especialização em fornecimento de energia elétrica. Acrescenta que a embargada não teria produzido prova da regularidade dos serviços e que a conclusão do acórdão violaria o art. 373, inciso II, do Código de Processo Civil, por incumbir à concessionária a demonstração de fato impeditivo, modificativo ou extintivo do direito alegado.
+
+Defende que, tanto pela responsabilidade fundada na teoria do risco administrativo quanto pela legislação consumerista, deveria ocorrer a inversão ou dinamização do ônus probatório, sem imposição de prova diabólica reversa. Assevera que, mesmo sob a distribuição estática do ônus da prova adotada na origem, os laudos apresentados com a petição inicial seriam suficientes para demonstrar os fatos constitutivos do direito alegado.
+
+Afirma que os embargos também possuem finalidade de prequestionamento, nos termos da Súmula nº 98 do Superior Tribunal de Justiça e do art. 1.025 do Código de Processo Civil, visando ao exame das questões federais suscitadas e à eventual interposição de recurso especial.
+
+Ao final, requer o conhecimento e provimento dos embargos para sanar os vícios apontados e para que sejam apreciados os relatórios de energia apresentados pela embargada, os quais, segundo sustenta, comprovariam a existência de oscilações na rede elétrica.
+
+É o relatório.
+
+II – VOTO
+Presentes os pressupostos de admissibilidade, os embargos de declaração devem ser conhecidos.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão sobre ponto ou questão a respeito da qual o julgador deveria se pronunciar, de ofício ou a requerimento, e corrigir erro material.
+Trata-se de recurso de fundamentação vinculada, cuja finalidade é aperfeiçoar, esclarecer ou integrar o pronunciamento judicial. Não se presta, como regra, à renovação do julgamento, à revisão da valoração das provas ou à substituição do entendimento adotado por outro mais favorável à parte.
+No caso, a embargante sustenta a presença de obscuridades e contradições relacionadas, essencialmente, à aplicação do Código de Defesa do Consumidor, à sua vulnerabilidade técnica perante a concessionária, à responsabilidade objetiva desta, à distribuição do ônus da prova e à valoração dos relatórios de energia e dos documentos apresentados para comprovar o nexo causal.
+Os vícios, contudo, não estão configurados.
+Inicialmente, não há obscuridade quanto ao regime jurídico da responsabilidade civil da concessionária. O acórdão afirmou expressamente que a decisão recorrida se fundava na responsabilidade objetiva da prestadora de serviço público e consignou, de maneira clara, que a controvérsia recursal se restringia à existência de nexo causal entre os danos alegados pela seguradora e a prestação do serviço de energia elétrica, sendo dispensável a aferição de culpa da concessionária.
+
+O reconhecimento da responsabilidade objetiva, todavia, não conduz automaticamente à procedência da pretensão indenizatória. Mesmo nessa modalidade de responsabilização, permanece necessária a demonstração do dano e do vínculo causal entre a atividade ou a falha do serviço e o prejuízo cuja reparação é buscada.
+Foi precisamente essa distinção que orientou o julgamento.
+Quanto ao segurado Eberton dos Santos Comércio de Bebidas, o acórdão reconheceu o nexo causal porque o relatório de interrupções apresentado pela própria concessionária registrou ocorrência na unidade consumidora na data do sinistro, em 14 de fevereiro de 2023, e a conclusão pericial confirmou a relação entre a interrupção documentada e os danos reportados. Por essa razão, manteve-se a condenação da concessionária ao ressarcimento do valor de R$ 2.460,00.
+
+Em relação aos demais segurados, por outro lado, o Colegiado consignou que os relatórios apresentados pela concessionária não registraram interrupções nas respectivas unidades consumidoras nas datas indicadas para os sinistros. O acórdão também examinou os laudos técnicos particulares, imagens e relatórios de regulação apresentados pela autora, concluindo que tais elementos, isoladamente, não eram suficientes para demonstrar que as avarias resultaram de falha na rede elétrica externa.
+
+Também foi expressamente considerada a prova pericial produzida sob contraditório. O laudo judicial concluiu pela existência de nexo causal no caso de Eberton dos Santos; apontou apenas indicativos de possível nexo nos casos de Marli Santin e Everton Fernandes, sem comprovação definitiva; e registrou a ausência de elementos técnicos suficientes para estabelecer o vínculo causal nos demais casos.
+
+Não procede, portanto, a afirmação de que os relatórios de energia não foram apreciados. Esses documentos constituíram elemento central das razões de decidir. O acórdão individualizou a situação das unidades consumidoras e consignou que somente no caso de Eberton dos Santos havia registro de interrupção na data do evento, ao passo que, para Everton Fernandes Fonseca, Amilton Carlos Piemonte, Aline Rodrigues Lima, Marli Santin e Arlete Martins Lampa, não constavam interrupções nos períodos correspondentes aos sinistros.
+
+A circunstância de a embargante defender interpretação distinta dos relatórios, alegando que demonstrariam oscilações na rede elétrica, não caracteriza obscuridade ou contradição. Representa discordância quanto à conclusão extraída do conjunto probatório.
+Também não há contradição relativamente ao ônus da prova.
+O acórdão observou que a parte autora deveria apresentar prova mínima do dano e do nexo causal e examinou a distribuição do encargo probatório à luz do art. 373 do Código de Processo Civil. Reconheceu, no caso em que havia registro de interrupção e conclusão pericial favorável, que a concessionária não demonstrou fato modificativo ou extintivo apto a afastar a pretensão. Quanto aos demais casos, entendeu não demonstrado o próprio fato constitutivo consistente no nexo entre os danos e uma falha imputável ao serviço de fornecimento de energia.
+
+Essas conclusões não são incompatíveis entre si. Ao contrário, decorrem da distinta composição probatória de cada sinistro analisado.
+A inversão do ônus da prova, seja com fundamento no Código de Defesa do Consumidor, seja em razão da distribuição dinâmica prevista no art. 373, § 1º, do Código de Processo Civil, não equivale à presunção absoluta de veracidade das alegações da parte autora, nem elimina a necessidade de um suporte probatório mínimo acerca da plausibilidade do fato constitutivo do direito.
+Do mesmo modo, a responsabilidade objetiva não transforma a concessionária em garantidora universal de todo dano ocorrido em equipamento ligado à rede elétrica. É indispensável que os elementos disponíveis permitam relacionar o prejuízo a uma perturbação do sistema elétrico atribuível ao serviço prestado.
+No acórdão embargado, a improcedência dos pedidos relativos aos demais segurados não decorreu simplesmente da atribuição abstrata do ônus da prova à seguradora. Resultou da apreciação conjunta dos documentos particulares, dos relatórios individualizados das unidades consumidoras e da perícia judicial, elementos que não permitiram estabelecer, com a segurança necessária, o nexo causal nos demais sinistros.
+Tampouco se verifica obscuridade decorrente da ausência de pronunciamento específico sobre a vulnerabilidade técnica da seguradora.
+Ainda que se admita a existência de assimetria técnica ou informacional entre os segurados, a seguradora sub-rogada e a concessionária, essa circunstância não seria, por si só, suficiente para alterar o resultado do julgamento. Isso porque foram juntados aos autos os registros técnicos mantidos pela concessionária e produzida prova pericial judicial, tendo o acórdão apreciado tais elementos e concluído que eles somente confirmavam o nexo causal em relação a uma das unidades consumidoras.
+A decisão judicial não está obrigada a rebater, individualmente, todos os argumentos desenvolvidos pelas partes quando os fundamentos adotados forem suficientes para solucionar a controvérsia. No caso, as razões de decidir permitem compreender, sem dificuldade, por que o pedido foi acolhido quanto a um segurado e rejeitado quanto aos demais.
+A contradição sanável mediante embargos é aquela interna ao pronunciamento judicial, verificada quando suas proposições são inconciliáveis entre si ou quando a fundamentação não mantém coerência lógica com a conclusão. Não se confunde com a divergência entre a decisão proferida e a interpretação jurídica ou probatória sustentada pela parte.
+Não se identifica, no acórdão, afirmação simultânea de premissas incompatíveis. O julgado reconheceu a natureza objetiva da responsabilidade, exigiu a comprovação do nexo causal e aplicou esse critério uniformemente a cada situação, chegando a resultados distintos em razão das provas disponíveis para cada unidade consumidora.
+A pretensão da embargante é, em verdade, a de que os documentos particulares sejam reputados suficientes, que a incerteza pericial seja interpretada em seu favor e que os relatórios apresentados pela concessionária recebam valoração diversa. Tais providências pressupõem novo exame da controvérsia e das provas, finalidade estranha aos embargos declaratórios.
+O mero inconformismo com o resultado não autoriza o acolhimento dos aclaratórios, ainda que opostos com propósito de prequestionamento.
+No tocante ao prequestionamento, o art. 1.025 do Código de Processo Civil estabelece que se consideram incluídos no acórdão os elementos suscitados pela parte embargante, para fins de prequestionamento, ainda que os embargos sejam inadmitidos ou rejeitados, caso o tribunal superior reconheça a existência de erro, omissão, contradição ou obscuridade.
+Assim, ausentes obscuridade, contradição, omissão ou erro material, os embargos devem ser rejeitados.
+Ante o exposto, o VOTO é no sentido de CONHECER E NEGAR PROVIMENTOa
+os embargos de declaração, mantendo-se integralmente o acórdão embargado.
