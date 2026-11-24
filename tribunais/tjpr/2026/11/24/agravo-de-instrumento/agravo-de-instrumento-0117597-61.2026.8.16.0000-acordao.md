@@ -1,0 +1,16 @@
+AGRAVO DE INSTRUMENTO. DISCUSSÃO SOBRE HONORÁRIOS PERICIAIS. REDUÇÃO DO VALOR. RECURSO PROVIDO EM PARTE
+
+§ 1. A agravante recorre da decisão pela qual o MM.º Juiz fixou honorários periciais; reputa-os excessivo e teme que seja compelida a depositá-los, sofrendo assim danos.
+Concedeu-se efeito suspensivo ao recurso, que foi respondido.
+É o relatório.
+
+§ 2.1. O agravado demanda perdas e danos. Atribui para tanto à agravante responsabilidade pela manutenção dos fios da rede elétrica – ele sofreu um acidente ao, de motocicleta, enroscar-se em um fio solto de um posto. A agravante renunciou à produção de prova pericial ao requerer o julgamento do mérito, e deferindo requerimento do agravado, que requereu produção de prova pericial (perícia médica e de engenharia elétrica), nomeou peritos, apresentando o de engenharia honorários que ela, agravante, entende excessivos, mas que o MM.º Juiz manteve. Discute-se no recurso o valor dos honorários periciais.
+A decisão que fixa honorários do perito não se encontre dentre aquelas enumeradas no artigo 1.015 do Código de Processo Civil. O não enquadramento na fattispecie da norma processual, no entanto, não quer dizer absoluta impossibilidade (falta de interesse em recorrer) da interposição do agravo de instrumento. Abrindo oportunidade para o recurso há o entendimento do Superior Tribunal de Justiça:3. A Corte Especial do Superior Tribunal de Justiça, sob o
+regramento dos recursos repetitivos, ao julgar os Recursos Especiais
+n. 1.696.396/MT e 1.704.520/MT (Tema 988/STJ), firmou a seguinte
+tese: o rol do art. 1.015 do CPC é de taxatividade mitigada, por
+isso admite a interposição de agravo de instrumento quando
+verificada a urgência decorrente da inutilidade do julgamento da
+questão no recurso de apelação, como ocorreu no presente caso. (STJ, AgInt no AgInt no AREsp 1828375/MG AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL 2021/0022398-6).Então, a partir da regra da taxatividade mitigada da norma, o Tribunal deve examinar caso a caso os requisitos prescritos pelo entendimento jurisprudencial prevalente, a urgência. O MM.º Juiz impôs à agravante o ônus de antecipar os honorários do perito, estimados por este em R$ 17.200,00 (dezessete mil e duzentos reais). Efetuado o depósito dessa importância, e mais tarde levantado pelo senhor perito, em caso de insucesso da demanda a agravante poderá encontrar sérios obstáculos do ponto de vista econômico, diante da insuficiente condição econômico-financeira do agravado, revelada pelo requerimento de justiça gratuita, para reembolsar-se. De outra parte, dos quesitos a serem respondidos pelo perito, formulados pelo agravado, apenas três deverão ser respondidos, os abaixo grifados em amarelo, porquanto os demais não envolvem questões técnicas, mas questões de fato, para cuja prova a perícia não é adequada, mas, sim, a prova oral. Esse reduzido número de quesitos suscetível de resposta autoriza, à medida que não exigirão, para serem respondidos, grande esforço do senhor perito – pouco tempo dedicado ao trabalho pericial. E por essa razão o recurso deve ser provido para redução dos honorários para R$ 5.000,00 (cinco mil reais), passíveis de majoração em primeiro grau caso a agravante formule quesitos que requeiram maior dedicação do perito.
+
+Desse modo, o recurso deve ser provido em parte.
