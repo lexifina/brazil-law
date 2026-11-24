@@ -7,6 +7,7 @@
     python tools/vigente_em.py 2020-01-01 codigo-civil 1228      # art. 1.228 of the Código Civil
     python tools/vigente_em.py 1995-01-01 constituicao           # the whole Constitution on 1 January 1995
     python tools/vigente_em.py --law 2016-01-01 constituicao 6   # also name the amendment behind that wording
+    python tools/vigente_em.py 2015-01-01 federal/codigos-e-estatutos/clt 134   # an act by its folder (or just clt)
 
 A thin wrapper around tools/on.py: the version is chosen by each commit's `In-force:` trailer, never by its commit
 date, and branches named wip* are ignored. A bare article number (`6`, `29-A` written `29-a`) means the article of the
@@ -20,15 +21,34 @@ import sys
 from pathlib import Path
 
 
+def names(act: str) -> list[str]:
+    """act, and its other folder name (data/paths.json: the 2026-11-24 move of the federal acts to federal/<kind>/)."""
+    import json
+    act = act.rstrip('/')
+    out = [act]
+    try:
+        moved = json.loads(subprocess.run(['git', 'show', 'main:data/paths.json'], capture_output=True, text=True,
+                                          encoding='utf-8').stdout).get('paths', {})
+    except ValueError:
+        moved = {}
+    for old, new in moved.items():
+        if act == old and new not in out:
+            out.append(new)
+        elif act == new and old not in out:
+            out.append(old)
+    return out
+
+
 def unit(act: str, arg: str) -> str:
     m = re.fullmatch(r'(adct-)?(\d+)(-[a-z]+)?', arg.lower())
     if not m:
         return arg
     files = set()
     for ref in ('main', 'futuro'):
-        out = subprocess.run(['git', 'ls-tree', '-r', '--name-only', ref, f'{act}/'], capture_output=True,
-                             text=True, encoding='utf-8')
-        files.update(out.stdout.split())
+        for name in names(act):
+            out = subprocess.run(['git', 'ls-tree', '-r', '--name-only', ref, f'{name}/'], capture_output=True,
+                                 text=True, encoding='utf-8')
+            files.update(f'{act}/' + f.split('/')[-1] for f in out.stdout.split())
     for width in (3, 4):
         key = f'{"adct-" if m.group(1) else ""}art-{int(m.group(2)):0{width}d}{m.group(3) or ""}'
         if f'{act}/{key}.md' in files:

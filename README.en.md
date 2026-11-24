@@ -13,7 +13,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is in it now:** the Constitution and 322 federal codes and laws with their history, 4,358 versions from 1851 on (24 of them, not yet in force, on the `futuro` branch); and 5,000 further federal acts (4,145 Leis, 137 Leis Complementares and 718 Decretos-Leis) with their current text only. Each act's folder has a `README.md` listing its provisions, how often each changed and when; [`data/laws.csv`](data/laws.csv) lists the 2,714 acts that made the changes, with their days.
 
-Each act is a folder named after it, one file per article (`clt/art-134.md` is art. 134 of the Consolidação das Leis do Trabalho, the labour code, Decreto-Lei 5.452/1943; `lei-10334-de-2001/` is Lei 10.334/2001); the Constitution is [`constituicao/`](constituicao/), with the articles of the ADCT as `adct-art-<n>.md`.
+Each act is a folder named after it under `federal/<kind>/`, one file per article (`federal/codigos-e-estatutos/clt/art-134.md` is art. 134 of the Consolidação das Leis do Trabalho, the labour code, Decreto-Lei 5.452/1943; `federal/leis/2001/lei-10334-de-2001/` is Lei 10.334/2001; [`data/paths.json`](data/paths.json) lists where each act was before the move of 24 November 2026); the Constitution is [`constituicao/`](constituicao/), with the articles of the ADCT as `adct-art-<n>.md`.
 
 The text is in Portuguese, as Planalto prints it. An English translation is not part of this record.
 
@@ -21,9 +21,9 @@ The text is in Portuguese, as Planalto prints it. An English translation is not 
 
 | Question | Command |
 | --- | --- |
-| Every change to art. 134 of the CLT (annual leave) | `git log -p --word-diff -- clt/art-134.md` |
-| Which act wrote each paragraph of art. 134? | `git blame clt/art-134.md` |
-| Every version of the CLT, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- clt ':!clt/README.md'` |
+| Every change to art. 134 of the CLT (annual leave) | `git log --follow -p --word-diff -- federal/codigos-e-estatutos/clt/art-134.md` |
+| Which act wrote each paragraph of art. 134? | `git blame federal/codigos-e-estatutos/clt/art-134.md` |
+| Every version of the CLT, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- federal/codigos-e-estatutos/clt clt ':(exclude)*/README.md'` |
 | Art. 134 as in force on 1 January 2015 | `python tools/vigente_em.py 2015-01-01 clt 134` |
 
 **Outside git**, we also host this record publicly, for free:
@@ -40,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add brazil/national/acts
-python3 tools/law.py show 2026-01-01 brazil/national/acts/clt/art-134.md
+python3 tools/law.py show 2026-01-01 brazil/national/acts/federal/codigos-e-estatutos/clt/art-134.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
