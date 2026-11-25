@@ -11,7 +11,7 @@ O direito do Brasil como um histórico git: um arquivo por artigo, um commit por
 
 Faz parte de [lexifina/global-law](https://github.com/lexifina/global-law), um único histórico git da legislação de todos os países: este é o direito federal do Brasil, que o global-law lê em `brazil/national/acts/`.
 
-**O que contém hoje:** a Constituição e 322 códigos e leis federais com seu histórico, 4.358 versões a partir de 1851 (24 delas, ainda não vigentes, no branch `futuro`); e mais 5.000 atos federais (4.145 Leis, 137 Leis Complementares e 718 Decretos-Leis) somente com o texto atual. A pasta de cada ato tem um `README.md` que lista seus dispositivos, quantas vezes cada um foi alterado e quando; [`data/laws.csv`](data/laws.csv) lista os 2.714 atos que fizeram as alterações, com suas datas.
+**O que contém hoje:** a Constituição e 323 códigos e leis federais com seu histórico, a partir de 1851; mais 5.000 atos federais com o texto atual; o texto publicado no Diário Oficial de 12.163 leis federais (`federal/textos-originais/`); 1.191 atos normativos do Conselho Monetário Nacional e do Banco Central (`reguladores/`); e 3,2 milhões de decisões do STF, do STJ, do TST, do TJDFT e do TJMT (`tribunais/`). Das 29.407 leis federais numeradas do catálogo do Senado, 13.708 estão no repositório com o seu texto. A pasta de cada ato tem um `README.md` que lista seus dispositivos, quantas vezes cada um foi alterado e quando.
 
 Cada ato é uma pasta com o seu nome em `federal/<tipo>/`, com um arquivo por artigo (`federal/codigos-e-estatutos/clt/art-134.md` é o art. 134 da Consolidação das Leis do Trabalho, Decreto-Lei 5.452/1943; `federal/leis/2001/lei-10334-de-2001/` é a Lei 10.334/2001; [`data/paths.json`](data/paths.json) indica onde cada ato estava antes da mudança de 24 de novembro de 2026); a Constituição está em [`constituicao/`](constituicao/), com os artigos do ADCT como `adct-art-<n>.md`.
 
@@ -67,7 +67,7 @@ Cada alteração é atribuída ao ato que a nota do Planalto ao lado dela indica
 ## O que não mostra
 
 - **Redações anteriores de 5.000 atos.** Eles têm somente o texto atual; seu histórico será adicionado depois, como correções identificadas.
-- **Outros atos federais.** Nenhum decreto ou outro regulamento, e nenhuma Medida Provisória por si mesma (elas aparecem somente como as alterações que fizeram). Nenhuma jurisprudência, exceto as decisões que riscaram palavras.
+- **Outros atos federais.** Nenhum decreto, e as Medidas Provisórias somente como as alterações que fizeram; dos reguladores, por ora só o CMN e o Banco Central. 15.699 leis federais numeradas do catálogo do Senado ainda não estão no repositório (na maioria Decretos-Leis e leis orçamentárias); estão sendo acrescentadas. Jurisprudência: o STF, o STJ, o TST e o TJDFT, e outros tribunais só onde o espelho RepoJus os tem; nada do TSE nem do STM.
 - **Redações que a fonte não data.** Na CLT, 60 linhas riscadas sem nota ficam fora de todas as versões; na Lei 8.112/1990, faltam os períodos das Medidas Provisórias 301/2006, 341/2006 e 359/2007, cuja redação o Planalto não publica.
 - **Efeitos que não mudam nenhuma palavra**: as interpretações do STF ("Vide ADI") e os efeitos apenas financeiros, retroativos ou deixados para um ato posterior.
 - **Assinaturas, as notas do Planalto** (usadas só para datar e atribuir as alterações) e alguns anexos, como a tabela de taxas do Estatuto do Desarmamento.
@@ -82,6 +82,12 @@ Cada alteração é atribuída ao ato que a nota do Planalto ao lado dela indica
 | [Câmara dos Deputados, Legislação Informatizada](https://www2.camara.leg.br/legin/fed/) | Parlamento | não | Somente dados de publicação (retificações, um Ato Declaratório) |
 | [normas.leg.br](https://normas.leg.br/) (Congresso Nacional) | Registros legislativos, CC BY 4.0 | sim: as versões de cada dispositivo | Desde novembro de 2026: as versões da LC 214/2025 e o texto de cada norma federal tal como publicado no Diário Oficial da União (`federal/textos-originais/`) |
 | [Banco Central do Brasil, Busca de normas](https://www.bcb.gov.br/estabilidadefinanceira/buscanormas) | Regulador | não (o texto vigente) | Desde novembro de 2026: resoluções do Conselho Monetário Nacional e resoluções, circulares e instruções do BCB (`reguladores/`) |
+| [Senado Federal, Dados Abertos (SIGEN)](https://legis.senado.leg.br/dadosabertos/) | Registros legislativos | não | O catálogo das normas federais (a contagem de leis acima) e suas alterações |
+| [Superior Tribunal de Justiça, Dados Abertos](https://dadosabertos.web.stj.jus.br/) | Tribunal, CC BY | não se aplica | Acórdãos e decisões terminativas (`tribunais/stj/`) |
+| [Supremo Tribunal Federal, jurisprudência](https://jurisprudencia.stf.jus.br/) | Tribunal | não se aplica | Acórdãos e decisões (`tribunais/stf/`) |
+| [Tribunal Superior do Trabalho, jurisprudência](https://jurisprudencia.tst.jus.br/) | Tribunal | não se aplica | Acórdãos, a partir dos PDFs do próprio tribunal (`tribunais/tst/`) |
+| [TJDFT, JurisDF](https://jurisdf.tjdft.jus.br/) | Tribunal | não se aplica | Acórdãos (`tribunais/tjdft/`) |
+| [RepoJus](https://huggingface.co/datasets/andrebadini/repojus) (André Badini) | Conjunto de dados, CC BY 4.0 | não se aplica | Espelho com crédito, só para tribunais sem fonte oficial aqui |
 
 ## Licença
 

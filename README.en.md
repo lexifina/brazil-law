@@ -11,7 +11,7 @@ The law of Brazil as a git history: one file per article, one commit per version
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Brazil's federal law, which global-law reads at `brazil/national/acts/`.
 
-**What is in it now:** the Constitution and 322 federal codes and laws with their history, 4,358 versions from 1851 on (24 of them, not yet in force, on the `futuro` branch); and 5,000 further federal acts (4,145 Leis, 137 Leis Complementares and 718 Decretos-Leis) with their current text only. Each act's folder has a `README.md` listing its provisions, how often each changed and when; [`data/laws.csv`](data/laws.csv) lists the 2,714 acts that made the changes, with their days.
+**What is in it now:** the Constitution and 323 federal codes and laws with their history, from 1851 on; 5,000 further federal acts with their current text; the text as published in the Diário Oficial of 12,163 federal laws (`federal/textos-originais/`); 1,191 normative acts of the Conselho Monetário Nacional and the Banco Central (`reguladores/`); and 3.2 million decisions of the STF, STJ, TST, TJDFT and TJMT (`tribunais/`). Of the 29,407 numbered federal statutes in the Senado's catalogue, 13,708 are held with their text. Each act's folder has a `README.md` listing its provisions, how often each changed and when.
 
 Each act is a folder named after it under `federal/<kind>/`, one file per article (`federal/codigos-e-estatutos/clt/art-134.md` is art. 134 of the Consolidação das Leis do Trabalho, the labour code, Decreto-Lei 5.452/1943; `federal/leis/2001/lei-10334-de-2001/` is Lei 10.334/2001; [`data/paths.json`](data/paths.json) lists where each act was before the move of 24 November 2026); the Constitution is [`constituicao/`](constituicao/), with the articles of the ADCT as `adct-art-<n>.md`.
 
@@ -67,7 +67,7 @@ Each change is credited to the act Planalto's note beside it names ("Redação d
 ## What it does not show
 
 - **Earlier wordings of 5,000 acts.** They have their current text only; their history is to be added later as labelled corrections.
-- **Other federal acts.** No decretos or other regulations, and no Medidas Provisórias in their own right (they appear only as the changes they made). No case law, apart from the rulings that struck words.
+- **Other federal acts.** No decretos, and Medidas Provisórias only as the changes they made; of the regulators, only the CMN and the Banco Central so far. 15,699 numbered federal statutes in the Senado's catalogue are not held yet (most of them Decretos-Leis and budget laws); they are being added. Case law: the STF, STJ, TST and TJDFT, and other courts only where the RepoJus mirror has them; nothing from the TSE or the STM.
 - **Wording the source does not date.** In the CLT, 60 struck lines with no note are left out of every version; in Lei 8.112/1990, the periods of Medidas Provisórias 301/2006, 341/2006 and 359/2007, whose wording Planalto does not print, are missing.
 - **Effects that change no words**: the STF's interpretations ("Vide ADI"), and effects that are only financial, retroactive or left to a later act.
 - **Signatures, Planalto's notes** (used only to date and credit changes) and a few annexes, such as the fee table of the Estatuto do Desarmamento.
@@ -82,6 +82,12 @@ Each change is credited to the act Planalto's note beside it names ("Redação d
 | [Câmara dos Deputados, Legislação Informatizada](https://www2.camara.leg.br/legin/fed/) | Parliament | no | Publication facts only (retificações, an Ato Declaratório) |
 | [normas.leg.br](https://normas.leg.br/) (Congresso Nacional) | Legislative records, CC BY 4.0 | yes: each provision's versions | Since November 2026: LC 214/2025's versions, and the text of each federal norm as published in the Diário Oficial da União (`federal/textos-originais/`) |
 | [Banco Central do Brasil, Busca de normas](https://www.bcb.gov.br/estabilidadefinanceira/buscanormas) | Regulator | no (the text in force) | Since November 2026: resolutions of the Conselho Monetário Nacional and the BCB's resolutions, circulars and instructions (`reguladores/`) |
+| [Senado Federal, Dados Abertos (SIGEN)](https://legis.senado.leg.br/dadosabertos/) | Legislative records | no | The catalogue of federal norms (the count of statutes above) and their changes |
+| [Superior Tribunal de Justiça, Dados Abertos](https://dadosabertos.web.stj.jus.br/) | Court, CC BY | n/a | Acórdãos and decisões terminativas (`tribunais/stj/`) |
+| [Supremo Tribunal Federal, jurisprudência](https://jurisprudencia.stf.jus.br/) | Court | n/a | Acórdãos and decisions (`tribunais/stf/`) |
+| [Tribunal Superior do Trabalho, jurisprudência](https://jurisprudencia.tst.jus.br/) | Court | n/a | Acórdãos, from the court's own PDFs (`tribunais/tst/`) |
+| [TJDFT, JurisDF](https://jurisdf.tjdft.jus.br/) | Court | n/a | Acórdãos (`tribunais/tjdft/`) |
+| [RepoJus](https://huggingface.co/datasets/andrebadini/repojus) (André Badini) | Dataset, CC BY 4.0 | n/a | A credited mirror, only for courts without an official source here |
 
 ## Licence
 

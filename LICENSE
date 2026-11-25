@@ -33,3 +33,24 @@ Further sources (since 24 November 2026):
 
   Planalto (https://www.planalto.gov.br/ccivil_03/) is now also read live (robots.txt: none, 24 November 2026), for
   its year indexes of federal norms and to check texts.
+
+  Senado Federal, Dados Abertos Legislativos (SIGEN), https://legis.senado.leg.br/dadosabertos/ : public API, no
+  authentication; it states that more than 10 requests a second may receive HTTP 429 (v3/api-docs, read 24 November
+  2026). Used for the catalogue of federal norms (counts and dates), not for law text.
+
+Courts (since 24 November 2026); court decisions are official acts (Lei 9.610/1998, art. 8º, IV):
+
+  Superior Tribunal de Justiça, Portal de Dados Abertos: Íntegras de decisões terminativas e acórdãos (2008-2020 and Diário da Justiça 2021-), Espelhos de acórdãos, https://dadosabertos.web.stj.jus.br/ (read 2026-11-24): Creative Commons Atribuição (CKAN license_id "cc-by"). CKAN package_show for each dataset gives license_id "cc-by" ("Creative Commons Atribuição"). Termo de Uso (search-index text; the PDF answered 403 to us): data may be "usados, reutilizados e redistribuídos livremente, inclusive para fins comerciais", "citando a fonte". Dataset note: "Não estão disponíveis dados de processos em segredo de justiça." Court decisions are not protected by copyright: Lei 9.610/1998 art. 8º, IV. Changes made by Lexifina: one file per decision, the dataset's SEQ_DOCUMENTO/REGISTRO/ID_PECA header lines and <br> tags made plain, protected cases left out. Gap: DJe days 2019-11-05 to 2020-12-31 are in neither dataset. Used for tribunais/stj/.
+  Fonte: Superior Tribunal de Justiça, Portal de Dados Abertos (dadosabertos.web.stj.jus.br), Creative Commons Atribuição.
+
+  Supremo Tribunal Federal, pesquisa de jurisprudência (API jurisprudencia.stf.jus.br), https://jurisprudencia.stf.jus.br/ (read 2026-11-24): Official texts: not protected by copyright (Lei 9.610/1998 art. 8º, IV: "decisões judiciais e demais atos oficiais"). No terms page found for the jurisprudence search or its API (searched 2026-11-24). Informativo STF: "Permite-se a reprodução ... sem alteração do conteúdo, desde que citada a fonte". portal.stf.jus.br/processos (robots Disallow) and redir.stf.jus.br (WAF challenge) are never requested; their URLs are only cited. Used for tribunais/stf/.
+  Fonte: Supremo Tribunal Federal (jurisprudencia.stf.jus.br).
+
+  Tribunal de Justiça do Distrito Federal e dos Territórios, JurisDF (API jurisdf.tjdft.jus.br), https://jurisdf.tjdft.jus.br/ (read 2026-11-24): Official texts: not protected by copyright (Lei 9.610/1998 art. 8º, IV). No terms found. Records flagged segredoJustica are not taken. Used for tribunais/tjdft/.
+  Fonte: Tribunal de Justiça do Distrito Federal e dos Territórios (jurisdf.tjdft.jus.br).
+
+  Tribunal Superior do Trabalho, pesquisa de jurisprudência and inteiro teor (jurisprudencia.tst.jus.br, consultadocumento.tst.jus.br), https://jurisprudencia.tst.jus.br/ (read 2026-11-24): Official texts: not protected by copyright (Lei 9.610/1998 art. 8º, IV). No terms found. Full text read from the text layer of the court's own PDF for each record. Used for tribunais/tst/.
+  Fonte: Tribunal Superior do Trabalho (jurisprudencia.tst.jus.br).
+
+  RepoJus: Jurisprudência e Legislação Brasileiras de Inteiro Teor (Hugging Face andrebadini/repojus, snapshot v3), a third-party mirror, https://huggingface.co/datasets/andrebadini/repojus (read 2026-11-24): Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/. Dataset card (license: cc-by-4.0) cites Lei 9.610/1998 art. 8º, IV and says names are kept as published. Used only for courts without an official lane here (state, federal, labour, electoral and military courts); each commit cites the court's own URL (Official-Text) and carries Mirror and Source-licence trailers. Read through the Hugging Face dataset viewer API. Changes made by Lexifina: one file per decision, protected cases left out, records without full text left out. Used for tribunais/<tj*|trf*|trt*|tre-pr|stm|tjm*>/.
+  "RepoJus", André Badini, Hugging Face (huggingface.co/datasets/andrebadini/repojus), CC BY 4.0.
