@@ -11,7 +11,14 @@ The law of Brazil as a git history: one file per article, one commit per version
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Brazil's federal law, which global-law reads at `brazil/national/acts/`.
 
-**What is in it now:** the Constitution and 323 federal codes and laws with their history, from 1851 on; 5,000 further federal acts with their current text; the text as published in the Diário Oficial of 12,163 federal laws (`federal/textos-originais/`); 1,191 normative acts of the Conselho Monetário Nacional and the Banco Central (`reguladores/`); and 3.2 million decisions of the STF, STJ, TST, TJDFT and TJMT (`tribunais/`). Of the 29,407 numbered federal statutes in the Senado's catalogue, 13,708 are held with their text. Each act's folder has a `README.md` listing its provisions, how often each changed and when.
+**What is in it now:** the Constitution and 323 federal codes and laws with their history, from 1851 on; 15,400 federal statutes in all with their text in force (`federal/`); the text as published in the Diário Oficial of 32,072 federal norms (`federal/textos-originais/`); 29,928 normative acts and rulings of the CMN, the Banco Central, the CVM, the Receita Federal and ANATEL (`reguladores/`); 28,949 state acts of 18 states (`estados/`); and 4.8 million court decisions of the STF, STJ, TST, TJDFT, TRF2, TRF4, TRF6, TJPR, TJSP and, from the RepoJus mirror, TJES and TJMT (`tribunais/`). Of the 29,407 numbered federal statutes in the Senado's catalogue, 25,738 (88%) are held with their text. Collection paused on 25 November 2026. Each act's folder has a `README.md` listing its provisions, how often each changed and when.
+
+**Held back when collection paused on 25 November 2026:**
+
+- 3,669 numbered federal statutes not held, about 3,450 of them because normas.leg.br has no readable original text; earlier versions of the acts held as current text only; the 165,359 numbered decrees;
+- court decisions naming a person's CPF, held unpublished (about 248,000 in the RepoJus mirror); about 251,000 STF rulings whose text sits behind a challenge page; the STJ's Diário days 5 November 2019 to 31 December 2020, in neither of its open datasets;
+- state-law lanes for Bahia, Goiás, Tocantins and Rio Grande do Norte, and the TJSC's decisions, built but not checked, so not published; Rio de Janeiro, Santa Catarina, Rio Grande do Sul, Espírito Santo, Amapá, Maranhão, Roraima and Mato Grosso, whose sites refused or blocked us;
+- the Diário Oficial da União, ANEEL and Saúde Legis (ANVISA), which answered with errors or block pages.
 
 Each act is a folder named after it under `federal/<kind>/`, one file per article (`federal/codigos-e-estatutos/clt/art-134.md` is art. 134 of the Consolidação das Leis do Trabalho, the labour code, Decreto-Lei 5.452/1943; `federal/leis/2001/lei-10334-de-2001/` is Lei 10.334/2001; [`data/paths.json`](data/paths.json) lists where each act was before the move of 24 November 2026); the Constitution is [`constituicao/`](constituicao/), with the articles of the ADCT as `adct-art-<n>.md`.
 
@@ -67,7 +74,7 @@ Each change is credited to the act Planalto's note beside it names ("Redação d
 ## What it does not show
 
 - **Earlier wordings of 5,000 acts.** They have their current text only; their history is to be added later as labelled corrections.
-- **Other federal acts.** No decretos, and Medidas Provisórias only as the changes they made; of the regulators, only the CMN and the Banco Central so far. 15,699 numbered federal statutes in the Senado's catalogue are not held yet (most of them Decretos-Leis and budget laws); they are being added. Case law: the STF, STJ, TST and TJDFT, and other courts only where the RepoJus mirror has them; nothing from the TSE or the STM.
+- **Other federal acts.** No decretos (beyond those among the original texts), and Medidas Provisórias only as the changes they made and as original texts. 3,669 numbered federal statutes in the Senado's catalogue are not held (most of them Decretos-Leis of 1937-1946 and budget laws). Case law: the STF, STJ, TST, TJDFT, TRF2, TRF4, TRF6, TJPR and TJSP, and other courts only where the RepoJus mirror has them; nothing from the TSE or the STM. Collection paused on 25 November 2026.
 - **Wording the source does not date.** In the CLT, 60 struck lines with no note are left out of every version; in Lei 8.112/1990, the periods of Medidas Provisórias 301/2006, 341/2006 and 359/2007, whose wording Planalto does not print, are missing.
 - **Effects that change no words**: the STF's interpretations ("Vide ADI"), and effects that are only financial, retroactive or left to a later act.
 - **Signatures, Planalto's notes** (used only to date and credit changes) and a few annexes, such as the fee table of the Estatuto do Desarmamento.
@@ -88,6 +95,10 @@ Each change is credited to the act Planalto's note beside it names ("Redação d
 | [Tribunal Superior do Trabalho, jurisprudência](https://jurisprudencia.tst.jus.br/) | Court | n/a | Acórdãos, from the court's own PDFs (`tribunais/tst/`) |
 | [TJDFT, JurisDF](https://jurisdf.tjdft.jus.br/) | Court | n/a | Acórdãos (`tribunais/tjdft/`) |
 | [RepoJus](https://huggingface.co/datasets/andrebadini/repojus) (André Badini) | Dataset, CC BY 4.0 | n/a | A credited mirror, only for courts without an official source here |
+| [TRF2](https://eproc.trf2.jus.br/), [TRF4](https://jurisprudencia.trf4.jus.br/), [TRF6](https://eproc2g.trf6.jus.br/) (eproc jurisprudence search) | Courts | n/a | Acórdãos (`tribunais/trf2/`, `trf4/`, `trf6/`) |
+| [TJPR](https://portal.tjpr.jus.br/jurisprudencia/), [TJSP](https://eproc1g.tjsp.jus.br/) (eproc) | Courts | n/a | Acórdãos (`tribunais/tjpr/`, `tribunais/tjsp/`) |
+| [CVM](https://conteudo.cvm.gov.br/legislacao/), [Receita Federal, SIJUT2](https://normas.receita.fazenda.gov.br/), [ANATEL](https://informacoes.anatel.gov.br/legislacao/) | Regulators | no (the text in force) | Normative acts; the Receita's Soluções de Consulta as documents (`reguladores/`) |
+| State legislatures and Casas Civis (SAPL of AC, AL, AM, PB, PI, RO; ALEPE; ALMG; Legisla-e; earlier Lexifina state repositories) | State legislation | as each source gives | `estados/<state>/` |
 
 ## Licence
 

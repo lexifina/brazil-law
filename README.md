@@ -11,7 +11,14 @@ O direito do Brasil como um histórico git: um arquivo por artigo, um commit por
 
 Faz parte de [lexifina/global-law](https://github.com/lexifina/global-law), um único histórico git da legislação de todos os países: este é o direito federal do Brasil, que o global-law lê em `brazil/national/acts/`.
 
-**O que contém hoje:** a Constituição e 323 códigos e leis federais com seu histórico, a partir de 1851; mais 5.000 atos federais com o texto atual; o texto publicado no Diário Oficial de 12.163 leis federais (`federal/textos-originais/`); 1.191 atos normativos do Conselho Monetário Nacional e do Banco Central (`reguladores/`); e 3,2 milhões de decisões do STF, do STJ, do TST, do TJDFT e do TJMT (`tribunais/`). Das 29.407 leis federais numeradas do catálogo do Senado, 13.708 estão no repositório com o seu texto. A pasta de cada ato tem um `README.md` que lista seus dispositivos, quantas vezes cada um foi alterado e quando.
+**O que contém hoje:** a Constituição e 323 códigos e leis federais com seu histórico, a partir de 1851; 15.400 leis federais ao todo com o texto vigente (`federal/`); o texto publicado no Diário Oficial de 32.072 normas federais (`federal/textos-originais/`); 29.928 atos normativos e decisões do CMN, do Banco Central, da CVM, da Receita Federal e da ANATEL (`reguladores/`); 28.949 atos estaduais de 18 estados (`estados/`); e 4,8 milhões de decisões judiciais do STF, do STJ, do TST, do TJDFT, do TRF2, do TRF4, do TRF6, do TJPR, do TJSP e, pelo espelho RepoJus, do TJES e do TJMT (`tribunais/`). Das 29.407 leis federais numeradas do catálogo do Senado, 25.738 (88%) estão no repositório com o seu texto. A coleta foi pausada em 25 de novembro de 2026. A pasta de cada ato tem um `README.md` que lista seus dispositivos, quantas vezes cada um foi alterado e quando.
+
+**Deixado de fora quando a coleta foi pausada, em 25 de novembro de 2026:**
+
+- 3.669 leis federais numeradas ainda não incluídas, cerca de 3.450 delas porque o normas.leg.br não tem texto original legível; as redações anteriores dos atos que só têm o texto atual; os 165.359 decretos numerados;
+- decisões judiciais que trazem o CPF de uma pessoa, retidas sem publicar (cerca de 248.000 no espelho RepoJus); cerca de 251.000 decisões do STF cujo texto está atrás de uma página de verificação; os dias do Diário do STJ de 5 de novembro de 2019 a 31 de dezembro de 2020, que não estão em nenhum dos seus conjuntos de dados abertos;
+- a legislação da Bahia, de Goiás, do Tocantins e do Rio Grande do Norte e as decisões do TJSC, coletadas mas não verificadas, portanto não publicadas; Rio de Janeiro, Santa Catarina, Rio Grande do Sul, Espírito Santo, Amapá, Maranhão, Roraima e Mato Grosso, cujos sites recusaram ou bloquearam o acesso;
+- o Diário Oficial da União, a ANEEL e o Saúde Legis (ANVISA), que responderam com erros ou páginas de bloqueio.
 
 Cada ato é uma pasta com o seu nome em `federal/<tipo>/`, com um arquivo por artigo (`federal/codigos-e-estatutos/clt/art-134.md` é o art. 134 da Consolidação das Leis do Trabalho, Decreto-Lei 5.452/1943; `federal/leis/2001/lei-10334-de-2001/` é a Lei 10.334/2001; [`data/paths.json`](data/paths.json) indica onde cada ato estava antes da mudança de 24 de novembro de 2026); a Constituição está em [`constituicao/`](constituicao/), com os artigos do ADCT como `adct-art-<n>.md`.
 
@@ -67,7 +74,7 @@ Cada alteração é atribuída ao ato que a nota do Planalto ao lado dela indica
 ## O que não mostra
 
 - **Redações anteriores de 5.000 atos.** Eles têm somente o texto atual; seu histórico será adicionado depois, como correções identificadas.
-- **Outros atos federais.** Nenhum decreto, e as Medidas Provisórias somente como as alterações que fizeram; dos reguladores, por ora só o CMN e o Banco Central. 15.699 leis federais numeradas do catálogo do Senado ainda não estão no repositório (na maioria Decretos-Leis e leis orçamentárias); estão sendo acrescentadas. Jurisprudência: o STF, o STJ, o TST e o TJDFT, e outros tribunais só onde o espelho RepoJus os tem; nada do TSE nem do STM.
+- **Outros atos federais.** Nenhum decreto (além dos que estão entre os textos originais), e as Medidas Provisórias somente como as alterações que fizeram e como textos originais. 3.669 leis federais numeradas do catálogo do Senado não estão no repositório (na maioria Decretos-Leis de 1937-1946 e leis orçamentárias). Jurisprudência: o STF, o STJ, o TST, o TJDFT, o TRF2, o TRF4, o TRF6, o TJPR e o TJSP, e outros tribunais só onde o espelho RepoJus os tem; nada do TSE nem do STM. A coleta foi pausada em 25 de novembro de 2026.
 - **Redações que a fonte não data.** Na CLT, 60 linhas riscadas sem nota ficam fora de todas as versões; na Lei 8.112/1990, faltam os períodos das Medidas Provisórias 301/2006, 341/2006 e 359/2007, cuja redação o Planalto não publica.
 - **Efeitos que não mudam nenhuma palavra**: as interpretações do STF ("Vide ADI") e os efeitos apenas financeiros, retroativos ou deixados para um ato posterior.
 - **Assinaturas, as notas do Planalto** (usadas só para datar e atribuir as alterações) e alguns anexos, como a tabela de taxas do Estatuto do Desarmamento.
@@ -88,6 +95,10 @@ Cada alteração é atribuída ao ato que a nota do Planalto ao lado dela indica
 | [Tribunal Superior do Trabalho, jurisprudência](https://jurisprudencia.tst.jus.br/) | Tribunal | não se aplica | Acórdãos, a partir dos PDFs do próprio tribunal (`tribunais/tst/`) |
 | [TJDFT, JurisDF](https://jurisdf.tjdft.jus.br/) | Tribunal | não se aplica | Acórdãos (`tribunais/tjdft/`) |
 | [RepoJus](https://huggingface.co/datasets/andrebadini/repojus) (André Badini) | Conjunto de dados, CC BY 4.0 | não se aplica | Espelho com crédito, só para tribunais sem fonte oficial aqui |
+| [TRF2](https://eproc.trf2.jus.br/), [TRF4](https://jurisprudencia.trf4.jus.br/), [TRF6](https://eproc2g.trf6.jus.br/) (pesquisa de jurisprudência do eproc) | Tribunais | não se aplica | Acórdãos (`tribunais/trf2/`, `trf4/`, `trf6/`) |
+| [TJPR](https://portal.tjpr.jus.br/jurisprudencia/), [TJSP](https://eproc1g.tjsp.jus.br/) (eproc) | Tribunais | não se aplica | Acórdãos (`tribunais/tjpr/`, `tribunais/tjsp/`) |
+| [CVM](https://conteudo.cvm.gov.br/legislacao/), [Receita Federal, SIJUT2](https://normas.receita.fazenda.gov.br/), [ANATEL](https://informacoes.anatel.gov.br/legislacao/) | Reguladores | não (o texto vigente) | Atos normativos; as Soluções de Consulta da Receita como documentos (`reguladores/`) |
+| Assembleias Legislativas e Casas Civis (SAPL do AC, AL, AM, PB, PI, RO; ALEPE; ALMG; Legisla-e; repositórios estaduais anteriores da Lexifina) | Legislação estadual | conforme cada fonte | `estados/<estado>/` |
 
 ## Licença
 
