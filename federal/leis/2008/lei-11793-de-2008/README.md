@@ -2,6 +2,16 @@
 
 L11793 · 1 versions, from 2008-10-07 (latest in force: 2008-10-07) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11793.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-11793-de-2008/` para `federal/leis/2008/lei-11793-de-2008/`). Histórico anterior: [commits em `lei-11793-de-2008/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-11793-de-2008). Ou / or `git log --follow -- federal/leis/2008/lei-11793-de-2008/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-11793-de-2008/`); earlier history: [commits under `lei-11793-de-2008/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-11793-de-2008).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2008-10-07 | Presidência da República, Planalto (Legislação) | [7d5edd909eb2](https://github.com/lexifina/brazil-law/commit/7d5edd909eb21d433fc91c661ba8b4afc60296a8) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

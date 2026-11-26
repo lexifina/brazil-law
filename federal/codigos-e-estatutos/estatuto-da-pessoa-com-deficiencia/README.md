@@ -2,6 +2,27 @@
 
 LBI · 12 versions, from 2016-01-03 (latest in force: 2025-12-08) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `estatuto-da-pessoa-com-deficiencia/` para `federal/codigos-e-estatutos/estatuto-da-pessoa-com-deficiencia/`). Histórico anterior: [commits em `estatuto-da-pessoa-com-deficiencia/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-pessoa-com-deficiencia). Ou / or `git log --follow -- federal/codigos-e-estatutos/estatuto-da-pessoa-com-deficiencia/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `estatuto-da-pessoa-com-deficiencia/`); earlier history: [commits under `estatuto-da-pessoa-com-deficiencia/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-pessoa-com-deficiencia).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2016-01-03 | Lei nº 13.146, de 2015 | [c889c0e06498](https://github.com/lexifina/brazil-law/commit/c889c0e064984d4eafd7216b2923de85e354bd60) |
+| 2016-11-01 | Lei nº 13.281, de 2016 | [9d45d37be7dd](https://github.com/lexifina/brazil-law/commit/9d45d37be7ddff67cb1750ca40f22cd7688d40a0) |
+| 2019-12-31 | Medida Provisória nº 917, de 2019 | [0b2e14c97278](https://github.com/lexifina/brazil-law/commit/0b2e14c97278ca011f23e47e582416c612a598f6) |
+| 2020-12-31 | Medida Provisória nº 1.025, de 2020 | [e22cb714900d](https://github.com/lexifina/brazil-law/commit/e22cb714900d5e3872363016d07b5a7f1bceefae) |
+| 2022-12-28 | Lei nº 14.510, de 2022 | [debab6f5bacc](https://github.com/lexifina/brazil-law/commit/debab6f5bacc875530631f1450f6efd1e1aaaa76) |
+| 2023-07-17 | Lei nº 14.624, de 2023 | [de6a39c5192d](https://github.com/lexifina/brazil-law/commit/de6a39c5192d851e421e3a75674166ebb9408665) |
+| 2023-11-14 | Lei nº 14.724, de 2023 | [b2c160ba1740](https://github.com/lexifina/brazil-law/commit/b2c160ba17400417e4e1249696a1ee3fbb095d92) |
+| 2024-09-19 | Lei nº 14.978, de 2024 | [2f29864dc932](https://github.com/lexifina/brazil-law/commit/2f29864dc932c1f0c723bf4b93b8958b3ba6b396) |
+| 2024-11-24 | Lei nº 14.863, de 2024 | [5f842758950e](https://github.com/lexifina/brazil-law/commit/5f842758950e18e3fab2427d2496ede2839c8215) |
+| 2025-07-04 | Lei nº 15.163, de 2025 | [bd95ed0c154c](https://github.com/lexifina/brazil-law/commit/bd95ed0c154cf75b7d49e6253b490f34364fad2c) |
+| 2025-11-04 | Lei nº 15.249, de 2025 | [02f497087c8c](https://github.com/lexifina/brazil-law/commit/02f497087c8c623e89926ca2947d8dcd18cd1526) |
+| 2025-12-08 | Lei nº 15.280, de 2025 | [7b0b66f21916](https://github.com/lexifina/brazil-law/commit/7b0b66f219161d3b566709755920109fd5f2a39c) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

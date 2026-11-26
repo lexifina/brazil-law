@@ -2,6 +2,24 @@
 
 LANAC · 9 versions, from 2005-09-28 (latest in force: 2022-06-15) · <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11182.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-anac/` para `federal/codigos-e-estatutos/lei-da-anac/`). Histórico anterior: [commits em `lei-da-anac/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-anac). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-anac/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-anac/`); earlier history: [commits under `lei-da-anac/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-anac).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2005-09-28 | Lei nº 11.182, de 2005 | [3fbe80b65dbc](https://github.com/lexifina/brazil-law/commit/3fbe80b65dbc81fcac152949335bfeb3393fbdfc) |
+| 2005-12-06 | Lei nº 11.204, de 2005 | [7bc922338b34](https://github.com/lexifina/brazil-law/commit/7bc922338b34d205630adcf737c0f70e98b7472c) |
+| 2006-04-27 | Lei nº 11.292, de 2006 | [d455a6dac282](https://github.com/lexifina/brazil-law/commit/d455a6dac282a580360cc6383ece6e0ccd9fc726) |
+| 2006-07-04 | Lei nº 11.314, de 2006 | [0ced8df6464a](https://github.com/lexifina/brazil-law/commit/0ced8df6464a3530ada2db071a91faf2f3db2508) |
+| 2011-03-18 | Medida Provisória nº 527, de 2011 | [6b7adf6504e8](https://github.com/lexifina/brazil-law/commit/6b7adf6504e8e0840a164da2be781ec82d317357) |
+| 2011-08-05 | Lei nº 12.462, de 2011 | [b18e494cb002](https://github.com/lexifina/brazil-law/commit/b18e494cb002d2e11c4d885d661bc5a78b57bff1) |
+| 2019-09-24 | Lei nº 13.848, de 2019 | [17474666c7a5](https://github.com/lexifina/brazil-law/commit/17474666c7a5b07ed8fb91b24af8430cbab06d7f) |
+| 2021-12-30 | Medida Provisória nº 1.089, de 2021 | [aa247c28ad2e](https://github.com/lexifina/brazil-law/commit/aa247c28ad2e4624cbac50d829804d5427ca3e74) |
+| 2022-06-15 | Lei nº 14.368, de 2022 | [7c0b587048b1](https://github.com/lexifina/brazil-law/commit/7c0b587048b17e71cd4c2ece5cda5d6d9af42660) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

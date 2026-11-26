@@ -2,6 +2,23 @@
 
 SNUC · 8 versions, from 2000-07-19 (latest in force: 2026-02-04) · <https://www.planalto.gov.br/ccivil_03/leis/l9985.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-snuc/` para `federal/codigos-e-estatutos/lei-do-snuc/`). Histórico anterior: [commits em `lei-do-snuc/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-snuc). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-snuc/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-snuc/`); earlier history: [commits under `lei-do-snuc/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-snuc).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2000-07-19 | Lei nº 9.985, de 2000 | [31a0217381e2](https://github.com/lexifina/brazil-law/commit/31a0217381e2d0cb9f6d390861438f6362cc24d8) |
+| 2005-07-05 | Lei nº 11.132, de 2005 | [3bce74dbeb20](https://github.com/lexifina/brazil-law/commit/3bce74dbeb20d651a07ef7b7ca431e7220e7a131) |
+| 2006-11-01 | Medida Provisória nº 327, de 2006 | [6db9dd592ca8](https://github.com/lexifina/brazil-law/commit/6db9dd592ca805d14725c32f7940ab53a91d984d) |
+| 2007-03-22 | Lei nº 11.460, de 2007 | [2c12271d831e](https://github.com/lexifina/brazil-law/commit/2c12271d831e5004ebd6e42690072c0bc11609e3) |
+| 2007-04-27 | Medida Provisória nº 366, de 2007 | [0131ca0270ca](https://github.com/lexifina/brazil-law/commit/0131ca0270ca0de80915b4ab63cb9b2284bba562) |
+| 2007-08-28 | Lei nº 11.516, de 2007 | [2a354441f9c1](https://github.com/lexifina/brazil-law/commit/2a354441f9c199f7efd1cc0158ddb2b0953dc0a9) |
+| 2018-05-29 | Lei nº 13.668, de 2018 | [7dc725f8c9ea](https://github.com/lexifina/brazil-law/commit/7dc725f8c9ead93b985201f7a52404e64a5ad3f5) |
+| 2026-02-04 | Lei nº 15.190, de 2025 | [f54bbfdfe6a2](https://github.com/lexifina/brazil-law/commit/f54bbfdfe6a237020e63d4339d37d6ec17b2fc34) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

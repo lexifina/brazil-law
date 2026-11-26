@@ -2,6 +2,17 @@
 
 LC109 · 2 versions, from 2001-05-30 (latest in force: 2025-01-16) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp109.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-previdencia-complementar/` para `federal/codigos-e-estatutos/lei-da-previdencia-complementar/`). Histórico anterior: [commits em `lei-da-previdencia-complementar/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-previdencia-complementar). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-previdencia-complementar/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-previdencia-complementar/`); earlier history: [commits under `lei-da-previdencia-complementar/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-previdencia-complementar).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2001-05-30 | Lei Complementar nº 109, de 2001 | [d41b06fd632a](https://github.com/lexifina/brazil-law/commit/d41b06fd632a0ec97b38538cf432285048ab7ead) |
+| 2025-01-16 | Lei Complementar nº 213, de 2025 | [906905fe8da9](https://github.com/lexifina/brazil-law/commit/906905fe8da934e5c26a5ff170d7738064baafb2) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

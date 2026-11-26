@@ -2,6 +2,20 @@
 
 LCP · 4 versions, from 2005-04-07 (latest in force: 2023-08-25) · <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-dos-consorcios-publicos/` para `federal/codigos-e-estatutos/lei-dos-consorcios-publicos/`). Histórico anterior: [commits em `lei-dos-consorcios-publicos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-consorcios-publicos). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-dos-consorcios-publicos/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-dos-consorcios-publicos/`); earlier history: [commits under `lei-dos-consorcios-publicos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-consorcios-publicos).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2005-04-07 | Lei nº 11.107, de 2005 | [5d945c6ef191](https://github.com/lexifina/brazil-law/commit/5d945c6ef191043751074c9c770617b8ce1255e8) |
+| 2019-05-06 | Lei nº 13.821, de 2019 | [3e1f51276029](https://github.com/lexifina/brazil-law/commit/3e1f51276029d0984ddd642e83e72b00ee7365c1) |
+| 2019-05-06 | Lei nº 13.822, de 2019 | [d40379527455](https://github.com/lexifina/brazil-law/commit/d403795274556bdb2235cffc85a5927b6183303b) |
+| 2020-07-16 | Lei nº 14.026, de 2020 | [c2970701152b](https://github.com/lexifina/brazil-law/commit/c2970701152b9d09ff10d4926d8e2325cb7e7e12) |
+| 2023-08-25 | Lei nº 14.662, de 2023 | [de33e986f3e3](https://github.com/lexifina/brazil-law/commit/de33e986f3e35448dd47fa009b1675205152b6d7) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2020-07-16 |

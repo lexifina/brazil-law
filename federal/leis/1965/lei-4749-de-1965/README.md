@@ -2,6 +2,16 @@
 
 L4749 · 1 versions, from 1965-08-13 (latest in force: 1965-08-13) · <https://www.planalto.gov.br/ccivil_03/leis/l4749.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-4749-de-1965/` para `federal/leis/1965/lei-4749-de-1965/`). Histórico anterior: [commits em `lei-4749-de-1965/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-4749-de-1965). Ou / or `git log --follow -- federal/leis/1965/lei-4749-de-1965/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-4749-de-1965/`); earlier history: [commits under `lei-4749-de-1965/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-4749-de-1965).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1965-08-13 | Presidência da República, Planalto (Legislação) | [01cd47b8a251](https://github.com/lexifina/brazil-law/commit/01cd47b8a2512e243becc62503dd5c0b22c617b2) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

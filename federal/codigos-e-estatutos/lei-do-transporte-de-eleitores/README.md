@@ -2,6 +2,18 @@
 
 LTE · 3 versions, from 1974-08-15 (latest in force: 1986-06-18) · <https://www.planalto.gov.br/ccivil_03/leis/l6091.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-transporte-de-eleitores/` para `federal/codigos-e-estatutos/lei-do-transporte-de-eleitores/`). Histórico anterior: [commits em `lei-do-transporte-de-eleitores/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-transporte-de-eleitores). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-transporte-de-eleitores/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-transporte-de-eleitores/`); earlier history: [commits under `lei-do-transporte-de-eleitores/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-transporte-de-eleitores).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1974-08-15 | Lei nº 6.091, de 1974 | [2034143d9905](https://github.com/lexifina/brazil-law/commit/2034143d99050bcaea110cf17c3089bd613a947c) |
+| 1981-12-04 | Lei nº 6.961, de 1981 | [02f3cc8ef772](https://github.com/lexifina/brazil-law/commit/02f3cc8ef7722980eb82e37568d506ffe4642e1f) |
+| 1986-06-18 | Lei nº 7.493, de 1986 | [d761c778f1ad](https://github.com/lexifina/brazil-law/commit/d761c778f1ad546c9bd7341b8345c1bcb6fae553) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

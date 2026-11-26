@@ -2,6 +2,16 @@
 
 LOleo · 1 versions, from 2000-07-28 (latest in force: 2000-07-28) · <https://www.planalto.gov.br/ccivil_03/leis/l9966.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-poluicao-por-oleo/` para `federal/codigos-e-estatutos/lei-da-poluicao-por-oleo/`). Histórico anterior: [commits em `lei-da-poluicao-por-oleo/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-poluicao-por-oleo). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-poluicao-por-oleo/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-poluicao-por-oleo/`); earlier history: [commits under `lei-da-poluicao-por-oleo/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-poluicao-por-oleo).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2000-07-28 | Lei nº 9.966, de 2000 | [2164ee7ce775](https://github.com/lexifina/brazil-law/commit/2164ee7ce775ef21673054b1767e46607c89f3d0) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

@@ -2,6 +2,38 @@
 
 CBA · 19 versions, from 1986-12-23 (latest in force: 2025-06-06) · <https://www.planalto.gov.br/ccivil_03/leis/l7565.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `codigo-brasileiro-de-aeronautica/` para `federal/codigos-e-estatutos/codigo-brasileiro-de-aeronautica/`). Histórico anterior: [commits em `codigo-brasileiro-de-aeronautica/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/codigo-brasileiro-de-aeronautica). Ou / or `git log --follow -- federal/codigos-e-estatutos/codigo-brasileiro-de-aeronautica/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `codigo-brasileiro-de-aeronautica/`); earlier history: [commits under `codigo-brasileiro-de-aeronautica/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/codigo-brasileiro-de-aeronautica).
+
+<details><summary>19 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1986-12-23 | Lei nº 7.565, de 1986 | [cacf0585d004](https://github.com/lexifina/brazil-law/commit/cacf0585d00456067df04577ef55b67f2f175ba2) |
+| 1998-03-06 | Lei nº 9.614, de 1998 | [30fcb111416c](https://github.com/lexifina/brazil-law/commit/30fcb111416c80708f0e392d939a6e6a0567955f) |
+| 2013-11-27 | Lei nº 12.887, de 2013 | [f70a419c69a9](https://github.com/lexifina/brazil-law/commit/f70a419c69a979db2cbc65f84ff99b4a52562906) |
+| 2014-05-09 | Lei nº 12.970, de 2014 | [1f4be8c26f34](https://github.com/lexifina/brazil-law/commit/1f4be8c26f3474de224aca7d72b57026c775452b) |
+| 2015-01-20 | Lei nº 13.097, de 2015 | [c4c952840115](https://github.com/lexifina/brazil-law/commit/c4c952840115d3d3c22194aef9012c2221568fd5) |
+| 2015-06-16 | Lei nº 13.133, de 2015 | [a7af40fef09e](https://github.com/lexifina/brazil-law/commit/a7af40fef09e72d0aaf35f726572c5b5a2334db6) |
+| 2016-03-02 | Medida Provisória nº 714, de 2016 | [d5e98e4a0ab6](https://github.com/lexifina/brazil-law/commit/d5e98e4a0ab62f56d8c0d4b7f697210e0a1e74cc) |
+| 2016-07-26 | Lei nº 13.319, de 2016 | [ea50b5d581b0](https://github.com/lexifina/brazil-law/commit/ea50b5d581b06d321aef915f4d44452288a83f67) |
+| 2018-12-13 | Medida Provisória nº 863, de 2018 | [dbf028cf9ec6](https://github.com/lexifina/brazil-law/commit/dbf028cf9ec65a53fb70682ab54493df7a9d243d) |
+| 2019-06-17 | Lei nº 13.842, de 2019 | [e26232ff2e0a](https://github.com/lexifina/brazil-law/commit/e26232ff2e0ae7a76370a13a1581b21a1c15f27b) |
+| 2020-04-04 | Medida Provisória nº 945, de 2020 | [116cce51874f](https://github.com/lexifina/brazil-law/commit/116cce51874fa0b874620562215eafd6e3aa1821) |
+| 2020-08-06 | Lei nº 14.034, de 2020 | [80fbb3cee159](https://github.com/lexifina/brazil-law/commit/80fbb3cee15959754da6542e8948a98bf19bd99e) |
+| 2020-08-25 | Lei nº 14.047, de 2020 | [e5d3e07088d9](https://github.com/lexifina/brazil-law/commit/e5d3e07088d9307eaf3139943bf516aa61cb60a5) |
+| 2021-12-30 | Medida Provisória nº 1.089, de 2021 | [aa247c28ad2e](https://github.com/lexifina/brazil-law/commit/aa247c28ad2e4624cbac50d829804d5427ca3e74) |
+| 2022-06-15 | Lei nº 14.368, de 2022 | [7c0b587048b1](https://github.com/lexifina/brazil-law/commit/7c0b587048b17e71cd4c2ece5cda5d6d9af42660) |
+| 2024-07-10 | Medida Provisória nº 1.240, de 2024 | [11d3372b676c](https://github.com/lexifina/brazil-law/commit/11d3372b676c0e6e48b4d9d04e404a7b8c984b62) |
+| 2024-09-19 | Lei nº 14.978, de 2024 | [2f29864dc932](https://github.com/lexifina/brazil-law/commit/2f29864dc932c1f0c723bf4b93b8958b3ba6b396) |
+| 2024-11-07 | Medida Provisória nº 1.240, de 2024: vigência encerrada | [5c5dbece5a85](https://github.com/lexifina/brazil-law/commit/5c5dbece5a85b11b1ccbd1198d49901721583e9b) |
+| 2025-06-06 | Lei nº 15.143, de 2025 | [109228278294](https://github.com/lexifina/brazil-law/commit/10922827829448710d4a0a992250fbd819f5ab46) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

@@ -2,6 +2,21 @@
 
 LOSCIP · 6 versions, from 1999-03-24 (latest in force: 2026-03-27) · <https://www.planalto.gov.br/ccivil_03/leis/l9790.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-das-oscips/` para `federal/codigos-e-estatutos/lei-das-oscips/`). Histórico anterior: [commits em `lei-das-oscips/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-oscips). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-das-oscips/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-das-oscips/`); earlier history: [commits under `lei-das-oscips/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-oscips).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1999-03-24 | Lei nº 9.790, de 1999 | [c5e2ecd520d4](https://github.com/lexifina/brazil-law/commit/c5e2ecd520d42fa6f67bbafeef94ff77e253ec62) |
+| 2001-09-01 | Medida Provisória nº 2.216, de 2001 | [ccf5d7671540](https://github.com/lexifina/brazil-law/commit/ccf5d7671540b6de47c8cf7f6976d6908ec5a5cf) |
+| 2002-09-24 | Lei nº 10.539, de 2002 | [82c78ccbca65](https://github.com/lexifina/brazil-law/commit/82c78ccbca6504f0716064555f2f98389d4fa663) |
+| 2016-01-23 | Lei nº 13.019, de 2014 | [c089866c15b2](https://github.com/lexifina/brazil-law/commit/c089866c15b2bec089eae7a91789a341bd285cfa) |
+| 2020-05-19 | Lei nº 13.999, de 2020 | [3b4664e6879f](https://github.com/lexifina/brazil-law/commit/3b4664e6879f44c0ded59c68743b0ab2020106eb) |
+| 2026-03-27 | Lei nº 15.364, de 2026 | [9ac642646898](https://github.com/lexifina/brazil-law/commit/9ac642646898a9f3d4a206990ba0017c88cb0cf1) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2016-01-23 |

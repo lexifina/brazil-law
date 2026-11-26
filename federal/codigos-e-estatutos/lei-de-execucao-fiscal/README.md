@@ -2,6 +2,20 @@
 
 LEF · 5 versions, from 1980-12-23 (latest in force: 2023-09-21) · <https://www.planalto.gov.br/ccivil_03/leis/l6830.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-execucao-fiscal/` para `federal/codigos-e-estatutos/lei-de-execucao-fiscal/`). Histórico anterior: [commits em `lei-de-execucao-fiscal/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-execucao-fiscal). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-execucao-fiscal/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-execucao-fiscal/`); earlier history: [commits under `lei-de-execucao-fiscal/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-execucao-fiscal).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1980-12-23 | Lei nº 6.830, de 1980 | [8528c6ee0063](https://github.com/lexifina/brazil-law/commit/8528c6ee00630d6efd702c53e9b6d5b3846c5e3a) |
+| 2004-12-30 | Lei nº 11.051, de 2004 | [d7be0b2e9564](https://github.com/lexifina/brazil-law/commit/d7be0b2e95646220bb5e2ae038075d06cc5a394e) |
+| 2009-06-30 | Lei nº 11.960, de 2009 | [c4e5a6caebfc](https://github.com/lexifina/brazil-law/commit/c4e5a6caebfc9589d0d2ff438cfbf28c28e186f2) |
+| 2014-11-14 | Lei nº 13.043, de 2014 | [fd3c413ec92b](https://github.com/lexifina/brazil-law/commit/fd3c413ec92bed13f7eb4caebec1d7a0661493af) |
+| 2023-09-21 | Lei nº 14.689, de 2023 | [839558fce48e](https://github.com/lexifina/brazil-law/commit/839558fce48ee597989b96a022886f474cd04a60) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

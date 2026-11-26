@@ -2,6 +2,16 @@
 
 DL2376 · 1 versions, from 2001-02-07 (latest in force: 2001-02-07) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/del2376.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-2376-de-1987/` para `federal/decretos-leis/1987/decreto-lei-2376-de-1987/`). Histórico anterior: [commits em `decreto-lei-2376-de-1987/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-2376-de-1987). Ou / or `git log --follow -- federal/decretos-leis/1987/decreto-lei-2376-de-1987/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-2376-de-1987/`); earlier history: [commits under `decreto-lei-2376-de-1987/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-2376-de-1987).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2001-02-07 | Presidência da República, Planalto (Legislação) | [91691404af5d](https://github.com/lexifina/brazil-law/commit/91691404af5dffd9b9608ce8b7ae562f0f554845) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

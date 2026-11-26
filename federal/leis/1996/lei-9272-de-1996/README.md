@@ -2,6 +2,16 @@
 
 L9272 · 1 versions, from 1996-05-06 (latest in force: 1996-05-06) · <https://www.planalto.gov.br/ccivil_03/leis/l9272.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-9272-de-1996/` para `federal/leis/1996/lei-9272-de-1996/`). Histórico anterior: [commits em `lei-9272-de-1996/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-9272-de-1996). Ou / or `git log --follow -- federal/leis/1996/lei-9272-de-1996/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-9272-de-1996/`); earlier history: [commits under `lei-9272-de-1996/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-9272-de-1996).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1996-05-06 | Presidência da República, Planalto (Legislação) | [b59d6189280c](https://github.com/lexifina/brazil-law/commit/b59d6189280c7f289b81376b6e679d63e6ece1ee) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

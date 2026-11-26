@@ -2,6 +2,17 @@
 
 LBio · 2 versions, from 2005-03-28 (latest in force: 2007-03-22) · <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-biosseguranca/` para `federal/codigos-e-estatutos/lei-de-biosseguranca/`). Histórico anterior: [commits em `lei-de-biosseguranca/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-biosseguranca). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-biosseguranca/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-biosseguranca/`); earlier history: [commits under `lei-de-biosseguranca/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-biosseguranca).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2005-03-28 | Lei nº 11.105, de 2005 | [7904bd5a24a4](https://github.com/lexifina/brazil-law/commit/7904bd5a24a48823528da29606001cd9364ce04d) |
+| 2007-03-22 | Lei nº 11.460, de 2007 | [2c12271d831e](https://github.com/lexifina/brazil-law/commit/2c12271d831e5004ebd6e42690072c0bc11609e3) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

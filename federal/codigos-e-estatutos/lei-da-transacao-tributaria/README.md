@@ -2,6 +2,23 @@
 
 LTransT · 8 versions, from 2020-04-14 (latest in force: 2025-01-23) · <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-transacao-tributaria/` para `federal/codigos-e-estatutos/lei-da-transacao-tributaria/`). Histórico anterior: [commits em `lei-da-transacao-tributaria/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-transacao-tributaria). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-transacao-tributaria/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-transacao-tributaria/`); earlier history: [commits under `lei-da-transacao-tributaria/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-transacao-tributaria).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2020-04-14 | Lei nº 13.988, de 2020 | [c9cf1c390d4a](https://github.com/lexifina/brazil-law/commit/c9cf1c390d4a607c4aaa9a5ce02802a4d84101d5) |
+| 2020-08-12 | Lei nº 13.988, de 2020 | [fcbb6236c658](https://github.com/lexifina/brazil-law/commit/fcbb6236c658766b2a19763652b6f5fba8311a43) |
+| 2022-06-22 | Lei nº 14.375, de 2022 | [4fcee8fc6ba6](https://github.com/lexifina/brazil-law/commit/4fcee8fc6ba6ec17912db970711d7c6273e3eae4) |
+| 2023-01-12 | Medida Provisória nº 1.160, de 2023 | [a3e9de36bbd5](https://github.com/lexifina/brazil-law/commit/a3e9de36bbd599838b7c1511fd0cd34f65eb4166) |
+| 2023-06-02 | Medida Provisória nº 1.160, de 2023: vigência encerrada | [b140b78d33bf](https://github.com/lexifina/brazil-law/commit/b140b78d33bf4285a8ab40544f4d56fe6bbd63b7) |
+| 2023-09-21 | Lei nº 14.689, de 2023 | [839558fce48e](https://github.com/lexifina/brazil-law/commit/839558fce48ee597989b96a022886f474cd04a60) |
+| 2024-09-16 | Lei nº 14.973, de 2024 | [0d7a1959236e](https://github.com/lexifina/brazil-law/commit/0d7a1959236e68b3f03c7cc64c4a2fb1cbbdb343) |
+| 2025-01-23 | Lei nº 15.103, de 2025 | [a8cec235a350](https://github.com/lexifina/brazil-law/commit/a8cec235a35073fa414e639dcc46e09f0058480e) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 2 | 2023-09-21 |

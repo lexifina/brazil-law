@@ -2,6 +2,16 @@
 
 L10485 · 1 versions, from 2015-01-01 (latest in force: 2015-01-01) · <https://www.planalto.gov.br/ccivil_03/leis/2002/l10485.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-10485-de-2002/` para `federal/leis/2002/lei-10485-de-2002/`). Histórico anterior: [commits em `lei-10485-de-2002/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-10485-de-2002). Ou / or `git log --follow -- federal/leis/2002/lei-10485-de-2002/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-10485-de-2002/`); earlier history: [commits under `lei-10485-de-2002/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-10485-de-2002).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2015-01-01 | Presidência da República, Planalto (Legislação) | [0c4e5333c228](https://github.com/lexifina/brazil-law/commit/0c4e5333c228579b51ec56b7f3b8052b8b8c0668) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

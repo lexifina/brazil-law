@@ -2,6 +2,27 @@
 
 LAD · 12 versions, from 2006-10-08 (latest in force: 2026-03-25) · <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-drogas/` para `federal/codigos-e-estatutos/lei-de-drogas/`). Histórico anterior: [commits em `lei-de-drogas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-drogas). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-drogas/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-drogas/`); earlier history: [commits under `lei-de-drogas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-drogas).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2006-10-08 | Lei nº 11.343, de 2006 | [9988cdff21da](https://github.com/lexifina/brazil-law/commit/9988cdff21daed3ecea5f7cb8a1fd7431085a12c) |
+| 2010-04-01 | Lei nº 12.219, de 2010 | [3c218ea2d41a](https://github.com/lexifina/brazil-law/commit/3c218ea2d41a864ae8d28bcaa7fa52c11179b90f) |
+| 2012-02-16 | Resolução do Senado Federal nº 5, de 2012 | [7bdc4fadcf4a](https://github.com/lexifina/brazil-law/commit/7bdc4fadcf4a70090a72d0750f56be8104b95e15) |
+| 2014-04-07 | Lei nº 12.961, de 2014 | [bc431b9b5ff6](https://github.com/lexifina/brazil-law/commit/bc431b9b5ff6d0db662241be3c73ac71cd8ba8fa) |
+| 2019-06-06 | Lei nº 13.840, de 2019 | [37778eb5745b](https://github.com/lexifina/brazil-law/commit/37778eb5745bd244e1b24e191fe95d8077042388) |
+| 2019-06-17 | Medida Provisória nº 885, de 2019 | [22599c6119c6](https://github.com/lexifina/brazil-law/commit/22599c6119c62f3d431406373b616e95b4a366ca) |
+| 2019-10-18 | Lei nº 13.886, de 2019 | [76a6a7b98fa6](https://github.com/lexifina/brazil-law/commit/76a6a7b98fa65c7b18939e64df651ba77a21cdaa) |
+| 2020-01-23 | Lei nº 13.964, de 2019 | [f3df9ed35bd8](https://github.com/lexifina/brazil-law/commit/f3df9ed35bd8daceb07551d0b24540465e1f2cbb) |
+| 2022-04-07 | Lei nº 14.322, de 2022 | [dedf28b9ff20](https://github.com/lexifina/brazil-law/commit/dedf28b9ff20732e9ec827210560a4dec611b753) |
+| 2024-09-16 | Lei nº 14.973, de 2024 | [0d7a1959236e](https://github.com/lexifina/brazil-law/commit/0d7a1959236e68b3f03c7cc64c4a2fb1cbbdb343) |
+| 2025-12-08 | Lei nº 15.281, de 2025 | [3d588289a401](https://github.com/lexifina/brazil-law/commit/3d588289a401f65c3fee0ff2348028a673af2182) |
+| 2026-03-25 | Lei nº 15.358, de 2026 | [17eb482cff80](https://github.com/lexifina/brazil-law/commit/17eb482cff80fb4732c1decff00c4c1495d5fb09) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

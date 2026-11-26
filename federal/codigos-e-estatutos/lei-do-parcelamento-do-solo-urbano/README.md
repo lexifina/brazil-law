@@ -2,6 +2,38 @@
 
 LPSU · 19 versions, from 1979-12-20 (latest in force: 2023-10-31) · <https://www.planalto.gov.br/ccivil_03/leis/l6766.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-parcelamento-do-solo-urbano/` para `federal/codigos-e-estatutos/lei-do-parcelamento-do-solo-urbano/`). Histórico anterior: [commits em `lei-do-parcelamento-do-solo-urbano/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-parcelamento-do-solo-urbano). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-parcelamento-do-solo-urbano/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-parcelamento-do-solo-urbano/`); earlier history: [commits under `lei-do-parcelamento-do-solo-urbano/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-parcelamento-do-solo-urbano).
+
+<details><summary>19 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1979-12-20 | Lei nº 6.766, de 1979 | [5d90ecfe8713](https://github.com/lexifina/brazil-law/commit/5d90ecfe87132de2d06c6ba27a2182171f078cd2) |
+| 1999-02-01 | Lei nº 9.785, de 1999 | [a0d82c3af7b1](https://github.com/lexifina/brazil-law/commit/a0d82c3af7b16f04eab85a7c62be4262f29c4f52) |
+| 2004-08-04 | Lei nº 10.932, de 2004 | [c6ae73c53bd3](https://github.com/lexifina/brazil-law/commit/c6ae73c53bd32a2d4f8f249019a5fba9894c3306) |
+| 2007-02-22 | Lei nº 11.445, de 2007 | [3913fe4b537a](https://github.com/lexifina/brazil-law/commit/3913fe4b537a004e194241d5762ab4daf77453f4) |
+| 2010-12-02 | Medida Provisória nº 514, de 2010 | [4db06720c140](https://github.com/lexifina/brazil-law/commit/4db06720c140883aafa14fa841354b4533105ce4) |
+| 2011-06-17 | Lei nº 12.424, de 2011 | [e60ac48a03f4](https://github.com/lexifina/brazil-law/commit/e60ac48a03f45cfbc39ccfd52da43d41da77f5e9) |
+| 2011-10-13 | Medida Provisória nº 547, de 2011 | [4045ba9485f9](https://github.com/lexifina/brazil-law/commit/4045ba9485f9a4e5717212d3d0cf43ec7a614d06) |
+| 2012-04-11 | Lei nº 12.608, de 2012 | [9d250a774c57](https://github.com/lexifina/brazil-law/commit/9d250a774c57464aa75de417d196434b1ac4e7f2) |
+| 2015-12-09 | Medida Provisória nº 700, de 2015 | [91363407d53a](https://github.com/lexifina/brazil-law/commit/91363407d53a5a739525e291b0a43c3227eddcce) |
+| 2016-05-18 | Medida Provisória nº 700, de 2015: vigência encerrada | [fca2b0904211](https://github.com/lexifina/brazil-law/commit/fca2b0904211d082a8dfbeabd66a7d92ed23d535) |
+| 2017-07-12 | Lei nº 13.465, de 2017 | [0e3ce1457b3a](https://github.com/lexifina/brazil-law/commit/0e3ce1457b3aa592c70e762b006a598c513b2188) |
+| 2018-12-28 | Lei nº 13.786, de 2018 | [b30d134d742a](https://github.com/lexifina/brazil-law/commit/b30d134d742a00ed49ef42d3c58e1e522f4715ac) |
+| 2019-11-26 | Lei nº 13.913, de 2019 | [9d2958ae5b69](https://github.com/lexifina/brazil-law/commit/9d2958ae5b690f6e357070785b69f7b528229b96) |
+| 2021-01-13 | Lei nº 14.118, de 2021 | [035e058665af](https://github.com/lexifina/brazil-law/commit/035e058665af7c813365886cd573a61054f9f6ac) |
+| 2021-12-28 | Medida Provisória nº 1.085, de 2021 | [61b6fe103145](https://github.com/lexifina/brazil-law/commit/61b6fe103145be5f9af1946c4b06209cabfa0184) |
+| 2021-12-30 | Lei nº 14.285, de 2021 | [7882d6c4bbc7](https://github.com/lexifina/brazil-law/commit/7882d6c4bbc7140b2790147708ae1343e6986ad3) |
+| 2022-06-28 | Lei nº 14.382, de 2022 | [7927a605341f](https://github.com/lexifina/brazil-law/commit/7927a605341f9c1654ef9f6d4f352bcf22f844a5) |
+| 2023-07-14 | Lei nº 14.620, de 2023 | [de53ad1a2e59](https://github.com/lexifina/brazil-law/commit/de53ad1a2e59b31cad6b9e0686fe886c512616b7) |
+| 2023-10-31 | Lei nº 14.711, de 2023 | [d2c7dbd20ec1](https://github.com/lexifina/brazil-law/commit/d2c7dbd20ec1b44b14c230fdfcd05f08126b61e8) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

@@ -2,6 +2,16 @@
 
 DL147 · 1 versions, from 1984-09-20 (latest in force: 1984-09-20) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0147.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-147-de-1967/` para `federal/decretos-leis/1967/decreto-lei-147-de-1967/`). Histórico anterior: [commits em `decreto-lei-147-de-1967/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-147-de-1967). Ou / or `git log --follow -- federal/decretos-leis/1967/decreto-lei-147-de-1967/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-147-de-1967/`); earlier history: [commits under `decreto-lei-147-de-1967/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-147-de-1967).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1984-09-20 | Presidência da República, Planalto (Legislação) | [2cf52c8dddc0](https://github.com/lexifina/brazil-law/commit/2cf52c8dddc0d91eea75b351d0f1b8518b304db5) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

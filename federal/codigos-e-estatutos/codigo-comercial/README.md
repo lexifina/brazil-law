@@ -2,6 +2,19 @@
 
 CCom · 4 versions, from 1851-01-01 (latest in force: 2003-01-11) · <https://www.planalto.gov.br/ccivil_03/leis/lim/lim556.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `codigo-comercial/` para `federal/codigos-e-estatutos/codigo-comercial/`). Histórico anterior: [commits em `codigo-comercial/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/codigo-comercial). Ou / or `git log --follow -- federal/codigos-e-estatutos/codigo-comercial/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `codigo-comercial/`); earlier history: [commits under `codigo-comercial/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/codigo-comercial).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1851-01-01 | Lei nº 556, de 1850 | [2ca09ed02af0](https://github.com/lexifina/brazil-law/commit/2ca09ed02af05a23d8e4b4e8bf3b76571ef7fefe) |
+| 1909-01-09 | Decreto nº 2.044, de 1908 | [f4ee1086e82d](https://github.com/lexifina/brazil-law/commit/f4ee1086e82d26e9b707853f3d84ff881b4a6d4a) |
+| 1986-09-29 | Lei nº 7.542, de 1986 | [f7483ee067fe](https://github.com/lexifina/brazil-law/commit/f7483ee067fe41abcbcbbee14309cbbf9d079be2) |
+| 2003-01-11 | Lei nº 10.406, de 2002 | [5ee8f02f9f7a](https://github.com/lexifina/brazil-law/commit/5ee8f02f9f7a12ed8024c31e95c8b0f150cdf07f) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 457 | [art-457.md](art-457.md) | 0 |  |

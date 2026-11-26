@@ -2,6 +2,19 @@
 
 LMMGD · 4 versions, from 2022-01-07 (latest in force: 2026-01-01) · <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14300.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-microgeracao-e-minigeracao-distribuida/` para `federal/codigos-e-estatutos/lei-da-microgeracao-e-minigeracao-distribuida/`). Histórico anterior: [commits em `lei-da-microgeracao-e-minigeracao-distribuida/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-microgeracao-e-minigeracao-distribuida). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-microgeracao-e-minigeracao-distribuida/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-microgeracao-e-minigeracao-distribuida/`); earlier history: [commits under `lei-da-microgeracao-e-minigeracao-distribuida/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-microgeracao-e-minigeracao-distribuida).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2022-01-07 | Lei nº 14.300, de 2022 | [8e3381e9aeb0](https://github.com/lexifina/brazil-law/commit/8e3381e9aeb0c9ca2f2d8030c6516857e6db26b7) |
+| 2022-08-05 | Lei nº 14.300, de 2022 | [99b4ba323f64](https://github.com/lexifina/brazil-law/commit/99b4ba323f648b3d0670177305e54819f7de2093) |
+| 2023-07-14 | Lei nº 14.620, de 2023 | [de53ad1a2e59](https://github.com/lexifina/brazil-law/commit/de53ad1a2e59b31cad6b9e0686fe886c512616b7) |
+| 2026-01-01 | Lei nº 15.269, de 2025 | [09beaee5c2c7](https://github.com/lexifina/brazil-law/commit/09beaee5c2c7f51201847b0943d525b0ca8afb7a) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

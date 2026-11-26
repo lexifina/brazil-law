@@ -2,6 +2,23 @@
 
 LCPR · 8 versions, from 1994-08-23 (latest in force: 2022-07-21) · <https://www.planalto.gov.br/ccivil_03/leis/l8929.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-cedula-de-produto-rural/` para `federal/codigos-e-estatutos/lei-da-cedula-de-produto-rural/`). Histórico anterior: [commits em `lei-da-cedula-de-produto-rural/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-cedula-de-produto-rural). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-cedula-de-produto-rural/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-cedula-de-produto-rural/`); earlier history: [commits under `lei-da-cedula-de-produto-rural/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-cedula-de-produto-rural).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1994-08-23 | Lei nº 8.929, de 1994 | [81d96086bfb7](https://github.com/lexifina/brazil-law/commit/81d96086bfb7a1ee153fb0a934aa08ccfd53ec56) |
+| 2001-02-16 | Lei nº 10.200, de 2001 | [9a648f15ec4a](https://github.com/lexifina/brazil-law/commit/9a648f15ec4a45238744fb95765cc99ec5ca8a6f) |
+| 2004-12-31 | Lei nº 11.076, de 2004 | [9a1a9b6f5a64](https://github.com/lexifina/brazil-law/commit/9a1a9b6f5a644522127c7cb57e7257828691093d) |
+| 2019-10-02 | Medida Provisória nº 897, de 2019 | [81e171ad13ab](https://github.com/lexifina/brazil-law/commit/81e171ad13ab787b28dfcd0d9ec3e346cb2e83a7) |
+| 2020-04-07 | Lei nº 13.986, de 2020 | [144558c2cb06](https://github.com/lexifina/brazil-law/commit/144558c2cb0678712bcbae7cfbefc3abc1a6e5af) |
+| 2021-01-23 | Lei nº 14.112, de 2020 | [f81a84421ec0](https://github.com/lexifina/brazil-law/commit/f81a84421ec07b972fcb24d76e593c9608df722f) |
+| 2022-03-16 | Medida Provisória nº 1.104, de 2022 | [8f37fc695b39](https://github.com/lexifina/brazil-law/commit/8f37fc695b3904b7ff8d080bf5efb01a3dd36a06) |
+| 2022-07-21 | Lei nº 14.421, de 2022 | [3b811eedf02e](https://github.com/lexifina/brazil-law/commit/3b811eedf02edef1d5826492559fc046e2cabf18) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 2 | 2022-07-21 |

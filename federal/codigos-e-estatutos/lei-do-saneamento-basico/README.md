@@ -2,6 +2,30 @@
 
 LSB · 15 versions, from 2007-02-22 (latest in force: 2025-03-18) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-saneamento-basico/` para `federal/codigos-e-estatutos/lei-do-saneamento-basico/`). Histórico anterior: [commits em `lei-do-saneamento-basico/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-saneamento-basico). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-saneamento-basico/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-saneamento-basico/`); earlier history: [commits under `lei-do-saneamento-basico/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-saneamento-basico).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2007-02-22 | Lei nº 11.445, de 2007 | [58f85cfcb4e0](https://github.com/lexifina/brazil-law/commit/58f85cfcb4e041b292ea27c71a04312c1a0123e0) |
+| 2013-09-18 | Lei nº 12.862, de 2013 | [31aed44da7a1](https://github.com/lexifina/brazil-law/commit/31aed44da7a1c67e691fdee634139e775a0c075c) |
+| 2016-07-07 | Lei nº 13.308, de 2016 | [5d1c9a2c5f36](https://github.com/lexifina/brazil-law/commit/5d1c9a2c5f362fecf866afc669fdee19886403bf) |
+| 2018-01-01 | Lei nº 13.329, de 2016 | [acc34f9c67e6](https://github.com/lexifina/brazil-law/commit/acc34f9c67e608a9efc1661efae88d94e130c7b6) |
+| 2018-07-09 | Medida Provisória nº 844, de 2018 | [f83135f9a987](https://github.com/lexifina/brazil-law/commit/f83135f9a9879fea64a1543cec7f4a1e51026be2) |
+| 2018-11-20 | Medida Provisória nº 844, de 2018: vigência encerrada | [39647dee05f5](https://github.com/lexifina/brazil-law/commit/39647dee05f5d8617c6274921495a1c69d205548) |
+| 2018-12-28 | Medida Provisória nº 868, de 2018 | [9195960491e3](https://github.com/lexifina/brazil-law/commit/9195960491e31abb4a8de4f056966d5bb51c4604) |
+| 2019-06-04 | Medida Provisória nº 868, de 2018: vigência encerrada | [b47a224f014d](https://github.com/lexifina/brazil-law/commit/b47a224f014d65dcb5d0d568160b0fcc18fba1a8) |
+| 2020-07-16 | Lei nº 14.026, de 2020 | [c2970701152b](https://github.com/lexifina/brazil-law/commit/c2970701152b9d09ff10d4926d8e2325cb7e7e12) |
+| 2021-07-13 | Lei nº 13.312, de 2016 | [10a2582374b0](https://github.com/lexifina/brazil-law/commit/10a2582374b0286a73c8446ac91ccd1c46b42bd7) |
+| 2023-01-01 | Medida Provisória nº 1.154, de 2023 | [c7c63fecc5b7](https://github.com/lexifina/brazil-law/commit/c7c63fecc5b7a97ed38d3ba32b8e8bfd698b7f08) |
+| 2023-04-05 | Lei nº 14.546, de 2023 | [951b615acc78](https://github.com/lexifina/brazil-law/commit/951b615acc788343ce7fe09b41cb1cf4f5b6c897) |
+| 2023-06-20 | Lei nº 14.600, de 2023 | [ca74d84a9855](https://github.com/lexifina/brazil-law/commit/ca74d84a9855639c8d1b84c9d95ab1e74b4aebb5) |
+| 2024-11-05 | Lei nº 15.012, de 2024 | [112415996a4a](https://github.com/lexifina/brazil-law/commit/112415996a4a135d56eebee1678c24a907e119e3) |
+| 2025-03-18 | Lei nº 15.112, de 2025 | [91d9a3cca437](https://github.com/lexifina/brazil-law/commit/91d9a3cca437a25eb94cd07e7bfc0214c74f3a60) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

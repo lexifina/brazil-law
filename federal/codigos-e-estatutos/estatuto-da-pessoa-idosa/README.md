@@ -2,6 +2,27 @@
 
 EIdo · 11 versions, from 2004-01-01 (latest in force: 2025-07-04) · <https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `estatuto-da-pessoa-idosa/` para `federal/codigos-e-estatutos/estatuto-da-pessoa-idosa/`). Histórico anterior: [commits em `estatuto-da-pessoa-idosa/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-pessoa-idosa). Ou / or `git log --follow -- federal/codigos-e-estatutos/estatuto-da-pessoa-idosa/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `estatuto-da-pessoa-idosa/`); earlier history: [commits under `estatuto-da-pessoa-idosa/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-pessoa-idosa).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2004-01-01 | Lei nº 10.741, de 2003 | [f4e3a88b2801](https://github.com/lexifina/brazil-law/commit/f4e3a88b280101860f1fa6b5a62c866f7fd5ba22) |
+| 2008-07-15 | Lei nº 11.737, de 2008 | [072aec8b5b68](https://github.com/lexifina/brazil-law/commit/072aec8b5b689830c8581296744f90f952cbf219) |
+| 2008-08-06 | Lei nº 11.765, de 2008 | [18365ca105c0](https://github.com/lexifina/brazil-law/commit/18365ca105c036b7bee7bec158ce65db7ab29176) |
+| 2011-06-10 | Lei nº 12.419, de 2011 | [d05956c52078](https://github.com/lexifina/brazil-law/commit/d05956c520784d7f4b27eadca906b4bd78c9fc87) |
+| 2011-10-25 | Lei nº 12.461, de 2011 | [f2478fa32822](https://github.com/lexifina/brazil-law/commit/f2478fa3282292a5816127fb292c22c29b9a3a63) |
+| 2013-12-19 | Lei nº 12.896, de 2013 | [9e09824a85b2](https://github.com/lexifina/brazil-law/commit/9e09824a85b2237bbbbe437f74d9f4baaa38c47c) |
+| 2013-12-19 | Lei nº 12.899, de 2013 | [c458b053d471](https://github.com/lexifina/brazil-law/commit/c458b053d4715cdf2b6b653339a895c066fb9750) |
+| 2017-07-13 | Lei nº 13.466, de 2017 | [b9c9c3bd4545](https://github.com/lexifina/brazil-law/commit/b9c9c3bd45456a34e01a723c1003809745572b18) |
+| 2017-12-18 | Lei nº 13.535, de 2017 | [3e8b1004180e](https://github.com/lexifina/brazil-law/commit/3e8b1004180e11cade20e1bce3cf56d71fa12258) |
+| 2021-07-02 | Lei nº 14.181, de 2021 | [9a74502e88ea](https://github.com/lexifina/brazil-law/commit/9a74502e88eae1d6fcee81130b5fbc7d86d917d1) |
+| 2022-07-25 | Lei nº 14.423, de 2022 | [0bbad13761b5](https://github.com/lexifina/brazil-law/commit/0bbad13761b517ae1d64f39560331c6950a592e2) |
+| 2025-07-04 | Lei nº 15.163, de 2025 | [bd95ed0c154c](https://github.com/lexifina/brazil-law/commit/bd95ed0c154cf75b7d49e6253b490f34364fad2c) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 1 | 2022-07-25 |

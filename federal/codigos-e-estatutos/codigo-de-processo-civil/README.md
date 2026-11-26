@@ -2,6 +2,38 @@
 
 CPC · 18 versions, from 2016-03-18 (latest in force: 2026-09-03) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `codigo-de-processo-civil/` para `federal/codigos-e-estatutos/codigo-de-processo-civil/`). Histórico anterior: [commits em `codigo-de-processo-civil/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/codigo-de-processo-civil). Ou / or `git log --follow -- federal/codigos-e-estatutos/codigo-de-processo-civil/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `codigo-de-processo-civil/`); earlier history: [commits under `codigo-de-processo-civil/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/codigo-de-processo-civil).
+
+<details><summary>19 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2016-03-18 | Lei nº 13.105, de 2015 | [23ed43e554ac](https://github.com/lexifina/brazil-law/commit/23ed43e554aceb427ee9382cc886c8f0a5d665a2) |
+| 2016-03-18 | Lei nº 13.256, de 2016 | [c93d3f4ecd60](https://github.com/lexifina/brazil-law/commit/c93d3f4ecd60189571da8f41e61db22864b6b70e) |
+| 2016-11-28 | Lei nº 13.363, de 2016 | [27198defa3fc](https://github.com/lexifina/brazil-law/commit/27198defa3fcf45cfd10a1f3288547a09dfedf17) |
+| 2017-07-12 | Lei nº 13.465, de 2017 | [0e3ce1457b3a](https://github.com/lexifina/brazil-law/commit/0e3ce1457b3aa592c70e762b006a598c513b2188) |
+| 2019-01-04 | Lei nº 13.793, de 2019 | [a85bfde141cc](https://github.com/lexifina/brazil-law/commit/a85bfde141ccdfc87ee7be991b6b50edba4947df) |
+| 2019-10-30 | Lei nº 13.894, de 2019 | [52dfc7b07f18](https://github.com/lexifina/brazil-law/commit/52dfc7b07f187d1e05745791f5d53f6ac4c55779) |
+| 2021-04-01 | Lei nº 14.133, de 2021 | [d3adb880544c](https://github.com/lexifina/brazil-law/commit/d3adb880544ca83f6297efa8e06682a074f3630e) |
+| 2021-08-27 | Lei nº 14.195, de 2021 | [d592f681050e](https://github.com/lexifina/brazil-law/commit/d592f681050e57ee0914309e7d0a335c4e7b65d9) |
+| 2022-05-19 | Lei nº 14.341, de 2022 | [2c5645a8508d](https://github.com/lexifina/brazil-law/commit/2c5645a8508dddb8f964d07da42c8de170023f5b) |
+| 2022-06-03 | Lei nº 14.365, de 2022 | [5e04b5de6384](https://github.com/lexifina/brazil-law/commit/5e04b5de6384d008bb39d55ed913ed49e594565f) |
+| 2023-07-14 | Lei nº 14.620, de 2023 | [de53ad1a2e59](https://github.com/lexifina/brazil-law/commit/de53ad1a2e59b31cad6b9e0686fe886c512616b7) |
+| 2023-10-31 | Lei nº 14.711, de 2023 | [d2c7dbd20ec1](https://github.com/lexifina/brazil-law/commit/d2c7dbd20ec1b44b14c230fdfcd05f08126b61e8) |
+| 2023-10-31 | Lei nº 14.713, de 2023 | [adaf6cb7f41e](https://github.com/lexifina/brazil-law/commit/adaf6cb7f41e7388a8a56ebc3dd2fe725bf66ad0) |
+| 2024-03-28 | Lei nº 14.833, de 2024 | [40623a651fcb](https://github.com/lexifina/brazil-law/commit/40623a651fcb96ef359dce1a689b27b8f88fff3d) |
+| 2024-06-05 | Lei nº 14.879, de 2024 | [d3a55e68fa7f](https://github.com/lexifina/brazil-law/commit/d3a55e68fa7f3f50df977ee2f737431534e02924) |
+| 2024-07-31 | Lei nº 14.939, de 2024 | [59700ee0c041](https://github.com/lexifina/brazil-law/commit/59700ee0c041e09dd2c236d5525e0f75dec63daa) |
+| 2024-09-19 | Lei nº 14.976, de 2024 | [7df4630ce2d8](https://github.com/lexifina/brazil-law/commit/7df4630ce2d824f4475b70a43dfe66f8f47b01be) |
+| 2025-03-14 | Lei nº 15.109, de 2025 | [dd913d7840f5](https://github.com/lexifina/brazil-law/commit/dd913d7840f572c2b8f9bef5cb4a446ad37d1d84) |
+| 2026-09-03 | Lei nº 15.484, de 2026 | [c729afe04f5c](https://github.com/lexifina/brazil-law/commit/c729afe04f5cecc023f6865c9558adf761b87eb4) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-0001.md](art-0001.md) | 0 |  |

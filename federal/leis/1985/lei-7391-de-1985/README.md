@@ -2,6 +2,16 @@
 
 L7391 · 1 versions, from 1976-06-02 (latest in force: 1976-06-02) · <https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7391.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-7391-de-1985/` para `federal/leis/1985/lei-7391-de-1985/`). Histórico anterior: [commits em `lei-7391-de-1985/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7391-de-1985). Ou / or `git log --follow -- federal/leis/1985/lei-7391-de-1985/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-7391-de-1985/`); earlier history: [commits under `lei-7391-de-1985/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7391-de-1985).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1976-06-02 | Presidência da República, Planalto (Legislação) | [18f1cf4d34ab](https://github.com/lexifina/brazil-law/commit/18f1cf4d34ab2a01d289611cce067ec9d23d4e79) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

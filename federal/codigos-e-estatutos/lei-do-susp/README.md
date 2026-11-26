@@ -2,6 +2,23 @@
 
 LSUSP · 8 versions, from 2018-07-12 (latest in force: 2024-06-18) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13675.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-susp/` para `federal/codigos-e-estatutos/lei-do-susp/`). Histórico anterior: [commits em `lei-do-susp/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-susp). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-susp/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-susp/`); earlier history: [commits under `lei-do-susp/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-susp).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2018-07-12 | Lei nº 13.675, de 2018 | [1a1372e7691e](https://github.com/lexifina/brazil-law/commit/1a1372e7691ea2fb3e61478b5d029951d97d04b3) |
+| 2018-12-13 | Lei nº 13.756, de 2018 | [89f6687e3316](https://github.com/lexifina/brazil-law/commit/89f6687e3316d89c8ea782dba3b2f1303707dca9) |
+| 2022-03-30 | Lei nº 14.316, de 2022 | [9ffcae6bfe77](https://github.com/lexifina/brazil-law/commit/9ffcae6bfe77117085e4e4e530d214555c8504d1) |
+| 2022-05-05 | Lei nº 14.330, de 2022 | [53552d3acbe6](https://github.com/lexifina/brazil-law/commit/53552d3acbe6df111ce098e8e1f167bc27c8c225) |
+| 2023-01-11 | Lei nº 14.531, de 2023 | [7c75a7ca76aa](https://github.com/lexifina/brazil-law/commit/7c75a7ca76aa67e969445efed3c26b06af21b69e) |
+| 2023-07-19 | Lei nº 14.531, de 2023 | [c9705f6acf78](https://github.com/lexifina/brazil-law/commit/c9705f6acf78f3e6ffd6bb230f6fd0ae7a48c43b) |
+| 2023-12-13 | Lei nº 14.751, de 2023 | [e62d13b0f0a9](https://github.com/lexifina/brazil-law/commit/e62d13b0f0a98e8ea2c98b0d30c70660569e518c) |
+| 2024-06-18 | Lei nº 14.899, de 2024 | [4a03a166f2f6](https://github.com/lexifina/brazil-law/commit/4a03a166f2f6467d999133761be1cbeb405825ef) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

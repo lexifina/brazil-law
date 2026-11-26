@@ -2,6 +2,18 @@
 
 LDiscr · 3 versions, from 1976-12-09 (latest in force: 2009-06-26) · <https://www.planalto.gov.br/ccivil_03/leis/l6383.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-processo-discriminatorio-de-terras-devolutas/` para `federal/codigos-e-estatutos/lei-do-processo-discriminatorio-de-terras-devolutas/`). Histórico anterior: [commits em `lei-do-processo-discriminatorio-de-terras-devolutas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-processo-discriminatorio-de-terras-devolutas). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-processo-discriminatorio-de-terras-devolutas/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-processo-discriminatorio-de-terras-devolutas/`); earlier history: [commits under `lei-do-processo-discriminatorio-de-terras-devolutas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-processo-discriminatorio-de-terras-devolutas).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1976-12-09 | Lei nº 6.383, de 1976 | [3e8d4763e462](https://github.com/lexifina/brazil-law/commit/3e8d4763e4627e5134dab62a1d6911db5d853909) |
+| 2009-02-11 | Medida Provisória nº 458, de 2009 | [815396e892d5](https://github.com/lexifina/brazil-law/commit/815396e892d50c2ab8a99a4c580bc3ddddff7edd) |
+| 2009-06-26 | Lei nº 11.952, de 2009 | [6bf01dac8571](https://github.com/lexifina/brazil-law/commit/6bf01dac85711b408aeb5e3a153f7f056c0166d7) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

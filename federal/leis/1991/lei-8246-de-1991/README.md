@@ -2,6 +2,16 @@
 
 L8246 · 1 versions, from 1991-10-23 (latest in force: 1991-10-23) · <https://www.planalto.gov.br/ccivil_03/leis/l8246.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-8246-de-1991/` para `federal/leis/1991/lei-8246-de-1991/`). Histórico anterior: [commits em `lei-8246-de-1991/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8246-de-1991). Ou / or `git log --follow -- federal/leis/1991/lei-8246-de-1991/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-8246-de-1991/`); earlier history: [commits under `lei-8246-de-1991/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8246-de-1991).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1991-10-23 | Presidência da República, Planalto (Legislação) | [e1e2ab95b3a0](https://github.com/lexifina/brazil-law/commit/e1e2ab95b3a0bad3755b18f17e6cbce366173f81) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

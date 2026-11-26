@@ -2,6 +2,22 @@
 
 LRC · 7 versions, from 1998-02-20 (latest in force: 2025-07-31) · <https://www.planalto.gov.br/ccivil_03/leis/l9612.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-radiodifusao-comunitaria/` para `federal/codigos-e-estatutos/lei-da-radiodifusao-comunitaria/`). Histórico anterior: [commits em `lei-da-radiodifusao-comunitaria/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-radiodifusao-comunitaria). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-radiodifusao-comunitaria/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-radiodifusao-comunitaria/`); earlier history: [commits under `lei-da-radiodifusao-comunitaria/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-radiodifusao-comunitaria).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1998-02-20 | Lei nº 9.612, de 1998 | [fa7436f98760](https://github.com/lexifina/brazil-law/commit/fa7436f987604d59975e4218908eb10d6689e5c7) |
+| 2001-05-03 | Medida Provisória nº 2.143, de 2001 | [d0a116e11565](https://github.com/lexifina/brazil-law/commit/d0a116e115653b1a452f1aaa62dadca092eb3a25) |
+| 2001-09-01 | Medida Provisória nº 2.216, de 2001 | [ccf5d7671540](https://github.com/lexifina/brazil-law/commit/ccf5d7671540b6de47c8cf7f6976d6908ec5a5cf) |
+| 2002-12-12 | Lei nº 10.597, de 2002 | [e5f2be7fbfd0](https://github.com/lexifina/brazil-law/commit/e5f2be7fbfd07bd4e954fffe33f30db8a12d3515) |
+| 2017-03-29 | Lei nº 13.424, de 2017 | [71b414383289](https://github.com/lexifina/brazil-law/commit/71b414383289fdb537309bc5422569f88d5c240e) |
+| 2022-05-26 | Lei nº 14.351, de 2022 | [5c4ad0fcf008](https://github.com/lexifina/brazil-law/commit/5c4ad0fcf00844489f45edbc627e07562385e61e) |
+| 2025-07-31 | Lei nº 15.182, de 2025 | [c977a70cc0ea](https://github.com/lexifina/brazil-law/commit/c977a70cc0ea026b8d5b7a887f518482eaab3f4e) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

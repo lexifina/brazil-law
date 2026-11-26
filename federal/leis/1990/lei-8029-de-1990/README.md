@@ -2,6 +2,16 @@
 
 L8029 · 1 versions, from 2019-11-27 (latest in force: 2019-11-27) · <https://www.planalto.gov.br/ccivil_03/leis/l8029cons.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-8029-de-1990/` para `federal/leis/1990/lei-8029-de-1990/`). Histórico anterior: [commits em `lei-8029-de-1990/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8029-de-1990). Ou / or `git log --follow -- federal/leis/1990/lei-8029-de-1990/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-8029-de-1990/`); earlier history: [commits under `lei-8029-de-1990/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8029-de-1990).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2019-11-27 | Presidência da República, Planalto (Legislação) | [d07c4546c1f7](https://github.com/lexifina/brazil-law/commit/d07c4546c1f7b736cc3c30ea69f0140edb0ddbd6) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

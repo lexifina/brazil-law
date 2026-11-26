@@ -2,6 +2,16 @@
 
 LHD · 1 versions, from 1997-11-13 (latest in force: 1997-11-13) · <https://www.planalto.gov.br/ccivil_03/leis/l9507.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-habeas-data/` para `federal/codigos-e-estatutos/lei-do-habeas-data/`). Histórico anterior: [commits em `lei-do-habeas-data/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-habeas-data). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-habeas-data/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-habeas-data/`); earlier history: [commits under `lei-do-habeas-data/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-habeas-data).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1997-11-13 | Lei nº 9.507, de 1997 | [f45707e9d85c](https://github.com/lexifina/brazil-law/commit/f45707e9d85c57ddee6136aeb0f38d9aa8d12ad5) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

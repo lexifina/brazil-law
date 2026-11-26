@@ -2,6 +2,18 @@
 
 LESTA · 3 versions, from 1998-06-10 (latest in force: 2024-01-16) · <https://www.planalto.gov.br/ccivil_03/leis/l9537.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-seguranca-do-trafego-aquaviario/` para `federal/codigos-e-estatutos/lei-da-seguranca-do-trafego-aquaviario/`). Histórico anterior: [commits em `lei-da-seguranca-do-trafego-aquaviario/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-seguranca-do-trafego-aquaviario). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-seguranca-do-trafego-aquaviario/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-seguranca-do-trafego-aquaviario/`); earlier history: [commits under `lei-da-seguranca-do-trafego-aquaviario/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-seguranca-do-trafego-aquaviario).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1998-06-10 | Lei nº 9.537, de 1997 | [3ea7f70ae3af](https://github.com/lexifina/brazil-law/commit/3ea7f70ae3afb7e26ce2567868272644db46a78a) |
+| 2009-08-06 | Lei nº 11.970, de 2009 | [056621a68176](https://github.com/lexifina/brazil-law/commit/056621a6817630ed3995c51948853561a3721133) |
+| 2024-01-16 | Lei nº 14.813, de 2024 | [6e14f7b51787](https://github.com/lexifina/brazil-law/commit/6e14f7b51787169789fff11ad25e9275cedc6be9) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

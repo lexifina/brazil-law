@@ -2,6 +2,16 @@
 
 DL271 · 1 versions, from 2007-05-31 (latest in force: 2007-05-31) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0271.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-271-de-1967/` para `federal/decretos-leis/1967/decreto-lei-271-de-1967/`). Histórico anterior: [commits em `decreto-lei-271-de-1967/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-271-de-1967). Ou / or `git log --follow -- federal/decretos-leis/1967/decreto-lei-271-de-1967/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-271-de-1967/`); earlier history: [commits under `decreto-lei-271-de-1967/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-271-de-1967).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2007-05-31 | Presidência da República, Planalto (Legislação) | [5abddc7250a0](https://github.com/lexifina/brazil-law/commit/5abddc7250a03c678531e2a40248a6140ece24d6) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

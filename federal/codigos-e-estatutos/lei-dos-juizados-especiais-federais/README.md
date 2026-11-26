@@ -2,6 +2,18 @@
 
 LJEF · 3 versions, from 2002-01-14 (latest in force: 2012-06-14) · <https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-dos-juizados-especiais-federais/` para `federal/codigos-e-estatutos/lei-dos-juizados-especiais-federais/`). Histórico anterior: [commits em `lei-dos-juizados-especiais-federais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-juizados-especiais-federais). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-dos-juizados-especiais-federais/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-dos-juizados-especiais-federais/`); earlier history: [commits under `lei-dos-juizados-especiais-federais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-juizados-especiais-federais).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2002-01-14 | Lei nº 10.259, de 2001 | [5d697c6ecd55](https://github.com/lexifina/brazil-law/commit/5d697c6ecd5557706f27d9fbee9f7b362e43300c) |
+| 2006-06-29 | Lei nº 11.313, de 2006 | [75f0ec073566](https://github.com/lexifina/brazil-law/commit/75f0ec0735666fad504811fab9c203d8205b0087) |
+| 2012-06-14 | Lei nº 12.665, de 2012 | [a88dd712d9eb](https://github.com/lexifina/brazil-law/commit/a88dd712d9eb6081fffa6a0a4a254e5ba0810797) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

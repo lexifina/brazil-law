@@ -2,6 +2,16 @@
 
 LOMPU · 1 versions, from 1993-05-21 (latest in force: 1993-05-21) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp75.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `estatuto-do-ministerio-publico-da-uniao/` para `federal/codigos-e-estatutos/estatuto-do-ministerio-publico-da-uniao/`). Histórico anterior: [commits em `estatuto-do-ministerio-publico-da-uniao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-do-ministerio-publico-da-uniao). Ou / or `git log --follow -- federal/codigos-e-estatutos/estatuto-do-ministerio-publico-da-uniao/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `estatuto-do-ministerio-publico-da-uniao/`); earlier history: [commits under `estatuto-do-ministerio-publico-da-uniao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-do-ministerio-publico-da-uniao).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1993-05-21 | Lei Complementar nº 75, de 1993 | [73a3823f6aa5](https://github.com/lexifina/brazil-law/commit/73a3823f6aa59485c92656f12c05dbf12e2c52f5) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

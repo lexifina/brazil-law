@@ -2,6 +2,22 @@
 
 LGT · 7 versions, from 2008-09-18 (latest in force: 2025-11-27) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11771.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-geral-do-turismo/` para `federal/codigos-e-estatutos/lei-geral-do-turismo/`). Histórico anterior: [commits em `lei-geral-do-turismo/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-geral-do-turismo). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-geral-do-turismo/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-geral-do-turismo/`); earlier history: [commits under `lei-geral-do-turismo/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-geral-do-turismo).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2008-09-18 | Lei nº 11.771, de 2008 | [b1d364368ef2](https://github.com/lexifina/brazil-law/commit/b1d364368ef2a89dea1ce6cb9429d568d8be05e2) |
+| 2022-12-15 | Lei nº 14.476, de 2022 | [3145419f6eec](https://github.com/lexifina/brazil-law/commit/3145419f6eec475b4cbb845cd6638a4390692c31) |
+| 2024-02-28 | Medida Provisória nº 1.207, de 2024 | [1d489bd2842f](https://github.com/lexifina/brazil-law/commit/1d489bd2842f515d406086e3478a09d25812019f) |
+| 2024-06-26 | Lei nº 14.901, de 2024 | [bcdc37cffbde](https://github.com/lexifina/brazil-law/commit/bcdc37cffbde0e4719e47fa0a41ae364ef586f42) |
+| 2024-09-19 | Lei nº 14.978, de 2024 | [2f29864dc932](https://github.com/lexifina/brazil-law/commit/2f29864dc932c1f0c723bf4b93b8958b3ba6b396) |
+| 2024-12-27 | Lei nº 15.073, de 2024 | [469163eb076e](https://github.com/lexifina/brazil-law/commit/469163eb076edb0f3f54c4dcdcca2d84fbd3f20d) |
+| 2025-11-27 | Lei nº 15.271, de 2025 | [f8e1e372d508](https://github.com/lexifina/brazil-law/commit/f8e1e372d50812a6efc592148ce5407dd616c6dc) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2024-09-19 |

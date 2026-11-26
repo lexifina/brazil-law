@@ -2,6 +2,35 @@
 
 LCI · 16 versions, from 1964-12-21 (latest in force: 2023-07-14) · <https://www.planalto.gov.br/ccivil_03/leis/l4591.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-condominios-e-incorporacoes/` para `federal/codigos-e-estatutos/lei-de-condominios-e-incorporacoes/`). Histórico anterior: [commits em `lei-de-condominios-e-incorporacoes/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-condominios-e-incorporacoes). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-condominios-e-incorporacoes/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-condominios-e-incorporacoes/`); earlier history: [commits under `lei-de-condominios-e-incorporacoes/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-condominios-e-incorporacoes).
+
+<details><summary>16 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1964-12-21 | Lei nº 4.591, de 1964 | [dd52eb34a9eb](https://github.com/lexifina/brazil-law/commit/dd52eb34a9ebd77d61aa136bc15166e3b5fd075b) |
+| 1965-12-30 | Lei nº 4.864, de 1965 | [7553a32bdfda](https://github.com/lexifina/brazil-law/commit/7553a32bdfda724c4b31aea54dad1176bd923077) |
+| 1969-10-21 | Decreto-Lei nº 981, de 1969 | [cb3f37443b5b](https://github.com/lexifina/brazil-law/commit/cb3f37443b5b3b9159488071a062988e65b7de59) |
+| 1977-07-19 | Lei nº 6.434, de 1977 | [6c7284d24692](https://github.com/lexifina/brazil-law/commit/6c7284d2469246bba13cbbac42e27e970df48a8d) |
+| 1979-11-01 | Lei nº 6.709, de 1979 | [346b3de3b08e](https://github.com/lexifina/brazil-law/commit/346b3de3b08e2c448f7c3d1e9583c97950b4a295) |
+| 1984-03-29 | Lei nº 7.182, de 1984 | [2551a7959ab1](https://github.com/lexifina/brazil-law/commit/2551a7959ab1aa20ea0dcfc9160856091a6303bf) |
+| 1991-12-20 | Lei nº 8.245, de 1991 | [9aafbd747057](https://github.com/lexifina/brazil-law/commit/9aafbd7470576f2ebf185eeb5d83480f222aaa40) |
+| 1996-03-26 | Lei nº 9.267, de 1996 | [837cf12287f0](https://github.com/lexifina/brazil-law/commit/837cf12287f09a3fe633358c147268e8f96b6392) |
+| 2001-09-05 | Medida Provisória nº 2.221, de 2001 | [7622d846c72f](https://github.com/lexifina/brazil-law/commit/7622d846c72f988d431ead35649bc94967f6b72a) |
+| 2004-08-03 | Lei nº 10.931, de 2004 | [b8cd0fee6ce6](https://github.com/lexifina/brazil-law/commit/b8cd0fee6ce63c1be8421d8ac77efebeaae062cb) |
+| 2010-12-02 | Medida Provisória nº 514, de 2010 | [4db06720c140](https://github.com/lexifina/brazil-law/commit/4db06720c140883aafa14fa841354b4533105ce4) |
+| 2011-06-17 | Lei nº 12.424, de 2011 | [e60ac48a03f4](https://github.com/lexifina/brazil-law/commit/e60ac48a03f45cfbc39ccfd52da43d41da77f5e9) |
+| 2018-12-28 | Lei nº 13.786, de 2018 | [b30d134d742a](https://github.com/lexifina/brazil-law/commit/b30d134d742a00ed49ef42d3c58e1e522f4715ac) |
+| 2021-12-28 | Medida Provisória nº 1.085, de 2021 | [61b6fe103145](https://github.com/lexifina/brazil-law/commit/61b6fe103145be5f9af1946c4b06209cabfa0184) |
+| 2022-06-28 | Lei nº 14.382, de 2022 | [7927a605341f](https://github.com/lexifina/brazil-law/commit/7927a605341f9c1654ef9f6d4f352bcf22f844a5) |
+| 2023-07-14 | Lei nº 14.620, de 2023 | [de53ad1a2e59](https://github.com/lexifina/brazil-law/commit/de53ad1a2e59b31cad6b9e0686fe886c512616b7) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

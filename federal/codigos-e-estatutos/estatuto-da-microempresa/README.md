@@ -2,6 +2,35 @@
 
 LC123 · 17 versions, from 2012-03-06 (latest in force: 2026-01-14) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `estatuto-da-microempresa/` para `federal/codigos-e-estatutos/estatuto-da-microempresa/`). Histórico anterior: [commits em `estatuto-da-microempresa/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-microempresa). Ou / or `git log --follow -- federal/codigos-e-estatutos/estatuto-da-microempresa/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `estatuto-da-microempresa/`); earlier history: [commits under `estatuto-da-microempresa/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-microempresa).
+
+<details><summary>16 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2012-03-06 | Presidência da República, Planalto (Legislação) | [491883a88aa9](https://github.com/lexifina/brazil-law/commit/491883a88aa9bf3269fdab79322c1446c1b1bb7d) |
+| 2013-04-01 | Lei nº 12.792, de 2013 | [813017d9b1ff](https://github.com/lexifina/brazil-law/commit/813017d9b1ff9fa38462f0f9bf1c641728262e95) |
+| 2014-08-08 | Lei Complementar nº 147, de 2014 | [8a8876fc1baa](https://github.com/lexifina/brazil-law/commit/8a8876fc1baa0f02c7c468cc0e263147b146c383) |
+| 2015-01-01 | Lei Complementar nº 147, de 2014 | [01c768612423](https://github.com/lexifina/brazil-law/commit/01c76861242355d936a1bfd8ef708dfec9bdceef) |
+| 2016-01-01 | Lei Complementar nº 147, de 2014 | [45e78e2bb272](https://github.com/lexifina/brazil-law/commit/45e78e2bb2726aaf3307e102f0dd1c44f9f0a2ab) |
+| 2016-04-19 | Lei Complementar nº 154, de 2016 | [812c4e8ccd8b](https://github.com/lexifina/brazil-law/commit/812c4e8ccd8b329ec88af5a046e19aec29a23f86) |
+| 2017-01-01 | Lei Complementar nº 155, de 2016 | [dbfad3924164](https://github.com/lexifina/brazil-law/commit/dbfad39241643773ff53119cec50febf3155e97f) |
+| 2018-01-01 | Lei Complementar nº 155, de 2016 | [d8c32e96856b](https://github.com/lexifina/brazil-law/commit/d8c32e96856bd3066282425aae393da96ab00dd4) |
+| 2019-04-25 | Lei Complementar nº 167, de 2019 | [c7fba9d3447f](https://github.com/lexifina/brazil-law/commit/c7fba9d3447f6221346cb09e3f48f3bd7fe02499) |
+| 2020-05-31 | Lei Complementar nº 169, de 2019 | [24b166967ea0](https://github.com/lexifina/brazil-law/commit/24b166967ea02dca865b895a1d4ddae2b318cb37) |
+| 2021-08-31 | Lei Complementar nº 182, de 2021 | [7a57f8980949](https://github.com/lexifina/brazil-law/commit/7a57f8980949a8384a2d2761e863240e246905c6) |
+| 2021-12-31 | Lei Complementar nº 188, de 2021 | [3247f8684a09](https://github.com/lexifina/brazil-law/commit/3247f8684a09e55161011b9891b38add177a734a) |
+| 2025-01-16 | Lei Complementar nº 214, de 2025 | [0d2b2512a9c7](https://github.com/lexifina/brazil-law/commit/0d2b2512a9c78806ad4ba035abbdf8c53655f48e) |
+| 2025-07-29 | Lei Complementar nº 216, de 2025 | [4eda3054ad65](https://github.com/lexifina/brazil-law/commit/4eda3054ad654480a71c1c1c6e09c6b87e53dd32) |
+| 2026-01-01 | Lei Complementar nº 214, de 2025 | [4559d3c13d60](https://github.com/lexifina/brazil-law/commit/4559d3c13d60cae2379eff4e34aee63b097f2f41) |
+| 2026-01-14 | Lei Complementar nº 227, de 2026 | [00c670d3a447](https://github.com/lexifina/brazil-law/commit/00c670d3a447b7d19a8e3f9f1251faec73022e00) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 2 | 2026-01-01 |

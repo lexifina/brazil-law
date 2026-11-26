@@ -2,6 +2,22 @@
 
 LFundeb · 7 versions, from 2020-12-25 (latest in force: 2026-01-14) · <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-fundeb/` para `federal/codigos-e-estatutos/lei-do-fundeb/`). Histórico anterior: [commits em `lei-do-fundeb/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-fundeb). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-fundeb/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-fundeb/`); earlier history: [commits under `lei-do-fundeb/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-fundeb).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2020-12-25 | Lei nº 14.113, de 2020 | [aca0aac8f297](https://github.com/lexifina/brazil-law/commit/aca0aac8f297ccf5b3db09217ad9c32cd8368f88) |
+| 2021-11-12 | Medida Provisória nº 1.074, de 2021 | [e93f7ec35dca](https://github.com/lexifina/brazil-law/commit/e93f7ec35dca81fb74a6d1829754d2db990c5de6) |
+| 2021-12-28 | Lei nº 14.276, de 2021 | [4a0c047a7832](https://github.com/lexifina/brazil-law/commit/4a0c047a7832c16935a6a1c6e524efcd5f4ca18e) |
+| 2022-03-25 | Lei nº 14.276, de 2021 | [6ba309b6e6a9](https://github.com/lexifina/brazil-law/commit/6ba309b6e6a97c5b82759221a12c527bc22a7c2d) |
+| 2022-04-13 | Lei nº 14.325, de 2022 | [e8ad8fb572c8](https://github.com/lexifina/brazil-law/commit/e8ad8fb572c8580e93223ce646ef6750359d5d19) |
+| 2023-10-31 | Lei nº 14.711, de 2023 | [d2c7dbd20ec1](https://github.com/lexifina/brazil-law/commit/d2c7dbd20ec1b44b14c230fdfcd05f08126b61e8) |
+| 2026-01-14 | Lei Complementar nº 227, de 2026 | [00c670d3a447](https://github.com/lexifina/brazil-law/commit/00c670d3a447b7d19a8e3f9f1251faec73022e00) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

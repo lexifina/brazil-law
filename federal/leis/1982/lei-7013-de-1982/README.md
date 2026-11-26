@@ -2,6 +2,16 @@
 
 L7013 · 1 versions, from 1982-07-09 (latest in force: 1982-07-09) · <https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7013.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-7013-de-1982/` para `federal/leis/1982/lei-7013-de-1982/`). Histórico anterior: [commits em `lei-7013-de-1982/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7013-de-1982). Ou / or `git log --follow -- federal/leis/1982/lei-7013-de-1982/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-7013-de-1982/`); earlier history: [commits under `lei-7013-de-1982/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7013-de-1982).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1982-07-09 | Presidência da República, Planalto (Legislação) | [ffa9abe377e5](https://github.com/lexifina/brazil-law/commit/ffa9abe377e591073aa576a283197a5edd9373ae) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

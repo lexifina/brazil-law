@@ -2,6 +2,27 @@
 
 LConc · 12 versions, from 1995-02-14 (latest in force: 2021-04-01) · <https://www.planalto.gov.br/ccivil_03/leis/l8987cons.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-concessoes/` para `federal/codigos-e-estatutos/lei-de-concessoes/`). Histórico anterior: [commits em `lei-de-concessoes/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-concessoes). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-concessoes/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-concessoes/`); earlier history: [commits under `lei-de-concessoes/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-concessoes).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1995-02-14 | Lei nº 8.987, de 1995 | [1bf556faf106](https://github.com/lexifina/brazil-law/commit/1bf556faf1060e276825fc597f95a8546bf6e824) |
+| 1995-07-08 | Lei nº 9.074, de 1995 | [c9330851df1d](https://github.com/lexifina/brazil-law/commit/c9330851df1d27573141bb918688bf47f95b3380) |
+| 1998-05-28 | Lei nº 9.648, de 1998 | [4963ed4c4fd2](https://github.com/lexifina/brazil-law/commit/4963ed4c4fd24de870137db9b4e571ceb5f85f70) |
+| 1999-05-09 | Lei nº 9.791, de 1999 | [8b5a448a7a32](https://github.com/lexifina/brazil-law/commit/8b5a448a7a32f95c7685808d458f705d3255c7cd) |
+| 2005-11-22 | Lei nº 11.196, de 2005 | [032d8dfb7a6d](https://github.com/lexifina/brazil-law/commit/032d8dfb7a6d3eff797deefa72ea2d8c0747e4d5) |
+| 2007-02-22 | Lei nº 11.445, de 2007 | [3913fe4b537a](https://github.com/lexifina/brazil-law/commit/3913fe4b537a004e194241d5762ab4daf77453f4) |
+| 2012-08-30 | Medida Provisória nº 577, de 2012 | [466f249b6f1c](https://github.com/lexifina/brazil-law/commit/466f249b6f1c2f8d52f4a5a6626e21482ed998b2) |
+| 2012-12-28 | Lei nº 12.767, de 2012 | [0a9c049eee6a](https://github.com/lexifina/brazil-law/commit/0a9c049eee6ab5f924a85b9971faf9d02674cca1) |
+| 2015-01-20 | Lei nº 13.097, de 2015 | [c4c952840115](https://github.com/lexifina/brazil-law/commit/c4c952840115d3d3c22194aef9012c2221568fd5) |
+| 2018-06-06 | Lei nº 13.673, de 2018 | [8f65c88ba66a](https://github.com/lexifina/brazil-law/commit/8f65c88ba66aa0c203e980d011c7466253119821) |
+| 2020-06-16 | Lei nº 14.015, de 2020 | [d19ac3ab5f38](https://github.com/lexifina/brazil-law/commit/d19ac3ab5f3824d3fbcc1f76246da241ff6eec6a) |
+| 2021-04-01 | Lei nº 14.133, de 2021 | [d3adb880544c](https://github.com/lexifina/brazil-law/commit/d3adb880544ca83f6297efa8e06682a074f3630e) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

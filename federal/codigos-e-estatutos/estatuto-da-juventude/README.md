@@ -2,6 +2,17 @@
 
 EJuv · 2 versions, from 2014-02-02 (latest in force: 2025-07-24) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `estatuto-da-juventude/` para `federal/codigos-e-estatutos/estatuto-da-juventude/`). Histórico anterior: [commits em `estatuto-da-juventude/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-juventude). Ou / or `git log --follow -- federal/codigos-e-estatutos/estatuto-da-juventude/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `estatuto-da-juventude/`); earlier history: [commits under `estatuto-da-juventude/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-juventude).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2014-02-02 | Lei nº 12.852, de 2013 | [61e3fc531789](https://github.com/lexifina/brazil-law/commit/61e3fc531789335531e83ae65b2406f691b8b1af) |
+| 2025-07-24 | Lei nº 15.178, de 2025 | [e5408737a582](https://github.com/lexifina/brazil-law/commit/e5408737a582019a1b3a4f62a8682fc102626fbf) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

@@ -2,6 +2,17 @@
 
 LMS · 2 versions, from 2009-08-10 (latest in force: 2018-06-12) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-mandado-de-seguranca/` para `federal/codigos-e-estatutos/lei-do-mandado-de-seguranca/`). Histórico anterior: [commits em `lei-do-mandado-de-seguranca/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-mandado-de-seguranca). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-mandado-de-seguranca/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-mandado-de-seguranca/`); earlier history: [commits under `lei-do-mandado-de-seguranca/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-mandado-de-seguranca).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2009-08-10 | Lei nº 12.016, de 2009 | [ed25b60298e7](https://github.com/lexifina/brazil-law/commit/ed25b60298e7cc8e7992ecd6704c360973f26d4f) |
+| 2018-06-12 | Lei nº 13.676, de 2018 | [ca48fe2a7392](https://github.com/lexifina/brazil-law/commit/ca48fe2a739284cf14406d0f75c640f6afe26cb5) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

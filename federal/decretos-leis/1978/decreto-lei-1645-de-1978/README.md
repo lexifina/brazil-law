@@ -2,6 +2,16 @@
 
 DL1645 · 1 versions, from 1978-12-12 (latest in force: 1978-12-12) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del1645.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-1645-de-1978/` para `federal/decretos-leis/1978/decreto-lei-1645-de-1978/`). Histórico anterior: [commits em `decreto-lei-1645-de-1978/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-1645-de-1978). Ou / or `git log --follow -- federal/decretos-leis/1978/decreto-lei-1645-de-1978/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-1645-de-1978/`); earlier history: [commits under `decreto-lei-1645-de-1978/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-1645-de-1978).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1978-12-12 | Presidência da República, Planalto (Legislação) | [efb020bccffb](https://github.com/lexifina/brazil-law/commit/efb020bccffb4c685a8556ac2c95f087da46a71b) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

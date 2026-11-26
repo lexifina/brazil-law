@@ -2,6 +2,25 @@
 
 LGE · 10 versions, from 2023-06-15 (latest in force: 2026-09-29) · <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-geral-do-esporte/` para `federal/codigos-e-estatutos/lei-geral-do-esporte/`). Histórico anterior: [commits em `lei-geral-do-esporte/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-geral-do-esporte). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-geral-do-esporte/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-geral-do-esporte/`); earlier history: [commits under `lei-geral-do-esporte/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-geral-do-esporte).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2023-06-15 | Lei nº 14.597, de 2023 | [0a3b14f097bd](https://github.com/lexifina/brazil-law/commit/0a3b14f097bde2527d73f3d3b7c588eacc93f70b) |
+| 2023-07-04 | Lei nº 14.614, de 2023 | [0a101fb07092](https://github.com/lexifina/brazil-law/commit/0a101fb0709220f858fd465af3d76f5833ce2412) |
+| 2024-05-22 | Lei nº 14.597, de 2023 | [e826147f4855](https://github.com/lexifina/brazil-law/commit/e826147f48555db0396186de35768cb13c3c7736) |
+| 2024-06-26 | Lei nº 14.786, de 2024 | [3d690533202e](https://github.com/lexifina/brazil-law/commit/3d690533202e4cdc16b7c11ae419c666927733b6) |
+| 2024-07-04 | Lei nº 14.911, de 2024 | [ee7d9c1c214c](https://github.com/lexifina/brazil-law/commit/ee7d9c1c214c03c992385e18a6b78f4283ec3fca) |
+| 2024-12-10 | Lei nº 15.041, de 2024 | [377b47eee43f](https://github.com/lexifina/brazil-law/commit/377b47eee43f2fce64516550a9bff7f46dcdc208) |
+| 2025-05-23 | Lei nº 15.032, de 2024 | [722530d2d009](https://github.com/lexifina/brazil-law/commit/722530d2d00957f895d99767d8cc2c81f481d56a) |
+| 2026-04-13 | Lei nº 15.386, de 2026 | [bf3368a2e91e](https://github.com/lexifina/brazil-law/commit/bf3368a2e91ee161f7caf11b6ed3d25a58a45ad9) |
+| 2026-04-14 | Lei nº 15.387, de 2026 | [6f0283e445e1](https://github.com/lexifina/brazil-law/commit/6f0283e445e1debd15cc4a29e3b23d5337c5d014) |
+| 2026-09-29 | Lei nº 15.522, de 2026 | [f2b4d7158f9b](https://github.com/lexifina/brazil-law/commit/f2b4d7158f9bbd58e8ab3eead9a03b239a2adaf5) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

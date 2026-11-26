@@ -2,6 +2,27 @@
 
 LNR · 12 versions, from 1994-11-21 (latest in force: 2023-10-31) · <https://www.planalto.gov.br/ccivil_03/leis/l8935.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-dos-cartorios/` para `federal/codigos-e-estatutos/lei-dos-cartorios/`). Histórico anterior: [commits em `lei-dos-cartorios/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-cartorios). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-dos-cartorios/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-dos-cartorios/`); earlier history: [commits under `lei-dos-cartorios/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-cartorios).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1994-11-21 | Lei nº 8.935, de 1994 | [8ac8d86f5944](https://github.com/lexifina/brazil-law/commit/8ac8d86f594456bd36c867d2abdcd1b5a1bc35e8) |
+| 1998-03-11 | Lei nº 9.534, de 1997 | [b4eba02bff9d](https://github.com/lexifina/brazil-law/commit/b4eba02bff9dc7299e6482af61406459b92a8e57) |
+| 1999-08-11 | Lei nº 9.812, de 1999 | [4fa209aba1d2](https://github.com/lexifina/brazil-law/commit/4fa209aba1d2503b81de568bd5b472c4aaba179f) |
+| 2002-07-10 | Lei nº 10.506, de 2002 | [f4e0b8a6e894](https://github.com/lexifina/brazil-law/commit/f4e0b8a6e894aec9fffc2a1b58f0ed2722274a0c) |
+| 2008-10-03 | Lei nº 11.789, de 2008 | [725a28c65aa3](https://github.com/lexifina/brazil-law/commit/725a28c65aa35c442fc66c4358dc350606e023d2) |
+| 2015-06-22 | Lei nº 13.137, de 2015 | [02082cc9016e](https://github.com/lexifina/brazil-law/commit/02082cc9016e9018d1b692d6b777d1f68dd3a356) |
+| 2016-05-11 | Lei nº 13.286, de 2016 | [bcc40b707fbd](https://github.com/lexifina/brazil-law/commit/bcc40b707fbde226bf1effef3d9979ae74a06321) |
+| 2017-10-06 | Lei nº 13.489, de 2017 | [21b07ec17b6d](https://github.com/lexifina/brazil-law/commit/21b07ec17b6d1459fd18f86656b9ccf5ef7fb297) |
+| 2021-09-28 | Lei nº 14.206, de 2021 | [2359b8cae0e3](https://github.com/lexifina/brazil-law/commit/2359b8cae0e3f962416b2a51baa0134c69c9730c) |
+| 2021-12-28 | Medida Provisória nº 1.085, de 2021 | [61b6fe103145](https://github.com/lexifina/brazil-law/commit/61b6fe103145be5f9af1946c4b06209cabfa0184) |
+| 2022-06-28 | Lei nº 14.382, de 2022 | [7927a605341f](https://github.com/lexifina/brazil-law/commit/7927a605341f9c1654ef9f6d4f352bcf22f844a5) |
+| 2023-10-31 | Lei nº 14.711, de 2023 | [d2c7dbd20ec1](https://github.com/lexifina/brazil-law/commit/d2c7dbd20ec1b44b14c230fdfcd05f08126b61e8) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

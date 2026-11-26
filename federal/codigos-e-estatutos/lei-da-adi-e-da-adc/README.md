@@ -2,6 +2,17 @@
 
 LADI · 2 versions, from 1999-11-11 (latest in force: 2009-10-28) · <https://www.planalto.gov.br/ccivil_03/leis/l9868.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-adi-e-da-adc/` para `federal/codigos-e-estatutos/lei-da-adi-e-da-adc/`). Histórico anterior: [commits em `lei-da-adi-e-da-adc/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-adi-e-da-adc). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-adi-e-da-adc/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-adi-e-da-adc/`); earlier history: [commits under `lei-da-adi-e-da-adc/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-adi-e-da-adc).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1999-11-11 | Lei nº 9.868, de 1999 | [23809721150a](https://github.com/lexifina/brazil-law/commit/23809721150a95a88f9a6157d23e51d6267db687) |
+| 2009-10-28 | Lei nº 12.063, de 2009 | [a85292dab566](https://github.com/lexifina/brazil-law/commit/a85292dab566ee6f2976efc5199c47afe1cd45e8) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

@@ -2,6 +2,16 @@
 
 LBio · 1 versions, from 2015-11-17 (latest in force: 2015-11-17) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13123.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-biodiversidade/` para `federal/codigos-e-estatutos/lei-da-biodiversidade/`). Histórico anterior: [commits em `lei-da-biodiversidade/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-biodiversidade). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-biodiversidade/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-biodiversidade/`); earlier history: [commits under `lei-da-biodiversidade/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-biodiversidade).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2015-11-17 | Lei nº 13.123, de 2015 | [b248634347a2](https://github.com/lexifina/brazil-law/commit/b248634347a259f48eb9f75a817b9238cf8a300d) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

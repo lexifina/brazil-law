@@ -2,6 +2,21 @@
 
 L4320 · 6 versions, from 1964-05-07 (latest in force: 2024-07-03) · <https://www.planalto.gov.br/ccivil_03/leis/l4320.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-4320-de-1964/` para `federal/leis/1964/lei-4320-de-1964/`). Histórico anterior: [commits em `lei-4320-de-1964/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-4320-de-1964). Ou / or `git log --follow -- federal/leis/1964/lei-4320-de-1964/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-4320-de-1964/`); earlier history: [commits under `lei-4320-de-1964/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-4320-de-1964).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1964-05-07 | Lei nº 4.320, de 1964 | [23256171b88b](https://github.com/lexifina/brazil-law/commit/23256171b88b92b1f3eb4957528336e1b83d8662) |
+| 1964-11-24 | Lei nº 4.489, de 1964 | [0043ba0f14ed](https://github.com/lexifina/brazil-law/commit/0043ba0f14ed6f54d4e4e3498898dd8d500f68fc) |
+| 1976-12-13 | Lei nº 6.397, de 1976 | [7428b7180916](https://github.com/lexifina/brazil-law/commit/7428b7180916a92447b96519da979412e86c7a51) |
+| 1980-01-01 | Decreto-Lei nº 1.735, de 1979 | [3bfd2392dbe3](https://github.com/lexifina/brazil-law/commit/3bfd2392dbe354fefae06721fbeeed7bdc5f7ef5) |
+| 1983-01-01 | Decreto-Lei nº 1.939, de 1982 | [f6d44b4b21d3](https://github.com/lexifina/brazil-law/commit/f6d44b4b21d3534e4ef4e437556f0fe1d210f8c4) |
+| 2024-07-03 | Lei Complementar nº 208, de 2024 | [aceb72c52893](https://github.com/lexifina/brazil-law/commit/aceb72c52893d9d7567b19f6c5bbbbb936b255fd) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

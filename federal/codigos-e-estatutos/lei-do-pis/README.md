@@ -2,6 +2,17 @@
 
 LPIS · 3 versions, from 1970-09-08 (latest in force: 1976-07-01) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp07.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-pis/` para `federal/codigos-e-estatutos/lei-do-pis/`). Histórico anterior: [commits em `lei-do-pis/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-pis). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-pis/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-pis/`); earlier history: [commits under `lei-do-pis/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-pis).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1970-09-08 | Lei Complementar nº 7, de 1970 | [ce06171dd833](https://github.com/lexifina/brazil-law/commit/ce06171dd833a6d51f7752d09b4327d310f7ddef) |
+| 1976-07-01 | Lei Complementar nº 26, de 1975 | [3a2af9d6c8cb](https://github.com/lexifina/brazil-law/commit/3a2af9d6c8cb51d6ef34b31f6453bdadda08ccaf) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

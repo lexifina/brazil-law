@@ -2,6 +2,26 @@
 
 LAg · 11 versions, from 1997-01-09 (latest in force: 2025-11-25) · <https://www.planalto.gov.br/ccivil_03/leis/l9433.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-das-aguas/` para `federal/codigos-e-estatutos/lei-das-aguas/`). Histórico anterior: [commits em `lei-das-aguas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-aguas). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-das-aguas/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-das-aguas/`); earlier history: [commits under `lei-das-aguas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-aguas).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1997-01-09 | Lei nº 9.433, de 1997 | [02134d536148](https://github.com/lexifina/brazil-law/commit/02134d53614804ab99bddf446926fbbe273fa95f) |
+| 2000-07-18 | Lei nº 9.984, de 2000 | [ff2aff252e47](https://github.com/lexifina/brazil-law/commit/ff2aff252e47ab00fed77d947b063431e84a289c) |
+| 2004-06-09 | Lei nº 10.881, de 2004 | [e3fc030a3a27](https://github.com/lexifina/brazil-law/commit/e3fc030a3a27687a7da04c9205c8fce5610a1960) |
+| 2010-09-21 | Lei nº 12.334, de 2010 | [7e064c829f2c](https://github.com/lexifina/brazil-law/commit/7e064c829f2c59bd91f5346697f6cc7a4b369282) |
+| 2017-10-31 | Lei nº 13.501, de 2017 | [fbab3e2d1c87](https://github.com/lexifina/brazil-law/commit/fbab3e2d1c879142f46c20280ae3951aa16e9706) |
+| 2019-01-01 | Medida Provisória nº 870, de 2019 | [3550b43a2ed1](https://github.com/lexifina/brazil-law/commit/3550b43a2ed1c56dd1a079e64745ba8abbb2ba2f) |
+| 2019-06-18 | Lei nº 13.844, de 2019 | [37689fc2b89d](https://github.com/lexifina/brazil-law/commit/37689fc2b89dc5a52e8e312e0a340187f596d140) |
+| 2020-09-30 | Lei nº 14.066, de 2020 | [ca6096412b9f](https://github.com/lexifina/brazil-law/commit/ca6096412b9fc61386b8d306c66c473bdfc78af4) |
+| 2023-01-01 | Medida Provisória nº 1.154, de 2023 | [c7c63fecc5b7](https://github.com/lexifina/brazil-law/commit/c7c63fecc5b7a97ed38d3ba32b8e8bfd698b7f08) |
+| 2023-06-20 | Lei nº 14.600, de 2023 | [ca74d84a9855](https://github.com/lexifina/brazil-law/commit/ca74d84a9855639c8d1b84c9d95ab1e74b4aebb5) |
+| 2025-11-25 | Lei nº 15.269, de 2025 | [54f3962528c4](https://github.com/lexifina/brazil-law/commit/54f3962528c4168af86cb9305e851dbe276568d7) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

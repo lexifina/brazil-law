@@ -2,6 +2,30 @@
 
 LPartilha · 17 versions, from 2010-12-23 (latest in force: 2026-01-01) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12351.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-partilha-de-producao/` para `federal/codigos-e-estatutos/lei-da-partilha-de-producao/`). Histórico anterior: [commits em `lei-da-partilha-de-producao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-partilha-de-producao). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-partilha-de-producao/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-partilha-de-producao/`); earlier history: [commits under `lei-da-partilha-de-producao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-partilha-de-producao).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2010-12-23 | Lei nº 12.351, de 2010 | [aa16d62fcf17](https://github.com/lexifina/brazil-law/commit/aa16d62fcf172d2e5428d9e27bff078a3e1366e8) |
+| 2012-11-30 | Lei nº 12.734, de 2012 | [a0bd1eca9dae](https://github.com/lexifina/brazil-law/commit/a0bd1eca9dae7cfbd005c587cc77633fe38619b7) |
+| 2012-12-03 | Medida Provisória nº 592, de 2012 | [2407738bb14c](https://github.com/lexifina/brazil-law/commit/2407738bb14c8857ff7b3f8ae48bc14086c67680) |
+| 2013-03-15 | Lei nº 12.734, de 2012 | [5a57e1d559d5](https://github.com/lexifina/brazil-law/commit/5a57e1d559d545d83baaf77552d4047866530140) |
+| 2013-05-13 | Medida Provisória nº 592, de 2012: vigência encerrada | [213b854a1ad3](https://github.com/lexifina/brazil-law/commit/213b854a1ad3c84114b532e87f54940c5d2d95c2) |
+| 2016-11-30 | Lei nº 13.365, de 2016 | [5aeb24ab0c2e](https://github.com/lexifina/brazil-law/commit/5aeb24ab0c2ea3c6744635abcc6d0f9141d4d416) |
+| 2018-06-15 | Lei nº 13.679, de 2018 | [b78378cd11d0](https://github.com/lexifina/brazil-law/commit/b78378cd11d0892aad225d23daa512736dfdf4b6) |
+| 2024-05-29 | Medida Provisória nº 1.226, de 2024 | [e1e910ddfc4b](https://github.com/lexifina/brazil-law/commit/e1e910ddfc4b2d48d422a24bf387863cc5f829f4) |
+| 2024-09-23 | Lei nº 14.981, de 2024 | [71166877fb6b](https://github.com/lexifina/brazil-law/commit/71166877fb6b018628e76598c0c2e640ebd2bea0) |
+| 2024-12-27 | Lei nº 15.075, de 2024 | [3447b12ebd7c](https://github.com/lexifina/brazil-law/commit/3447b12ebd7c509ae2064f327eedd02e31b6a99e) |
+| 2025-03-06 | Medida Provisória nº 1.291, de 2025 | [a2944c73a54d](https://github.com/lexifina/brazil-law/commit/a2944c73a54d8c67305e462855c01315909d39c7) |
+| 2025-07-11 | Medida Provisória nº 1.304, de 2025 | [316ccae7c596](https://github.com/lexifina/brazil-law/commit/316ccae7c596342e2ed54145585a9c87e655b379) |
+| 2025-07-15 | Lei nº 15.164, de 2025 | [645a1a684766](https://github.com/lexifina/brazil-law/commit/645a1a6847667f53caf5007244d2e95a816f2694) |
+| 2025-11-25 | Lei nº 15.269, de 2025 | [54f3962528c4](https://github.com/lexifina/brazil-law/commit/54f3962528c4168af86cb9305e851dbe276568d7) |
+| 2026-01-01 | Lei nº 15.164, de 2025 | [4f8957d7c5ec](https://github.com/lexifina/brazil-law/commit/4f8957d7c5ec2394babeb8a1edbc184dd6bbd2d0) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Anexo | [anexo.md](anexo.md) | 0 |  |

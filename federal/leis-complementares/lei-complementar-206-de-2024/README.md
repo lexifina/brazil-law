@@ -2,6 +2,16 @@
 
 LC206 · 1 versions, from 2024-05-17 (latest in force: 2024-05-17) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp206.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-complementar-206-de-2024/` para `federal/leis-complementares/lei-complementar-206-de-2024/`). Histórico anterior: [commits em `lei-complementar-206-de-2024/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-complementar-206-de-2024). Ou / or `git log --follow -- federal/leis-complementares/lei-complementar-206-de-2024/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-complementar-206-de-2024/`); earlier history: [commits under `lei-complementar-206-de-2024/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-complementar-206-de-2024).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2024-05-17 | Presidência da República, Planalto (Legislação) | [5a84dad15536](https://github.com/lexifina/brazil-law/commit/5a84dad15536051f13e0aff095972a4f91c47e4c) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

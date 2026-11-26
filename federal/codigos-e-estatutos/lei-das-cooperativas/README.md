@@ -2,6 +2,25 @@
 
 LCoop · 10 versions, from 1971-12-16 (latest in force: 2021-08-27) · <https://www.planalto.gov.br/ccivil_03/leis/l5764.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-das-cooperativas/` para `federal/codigos-e-estatutos/lei-das-cooperativas/`). Histórico anterior: [commits em `lei-das-cooperativas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-cooperativas). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-das-cooperativas/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-das-cooperativas/`); earlier history: [commits under `lei-das-cooperativas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-cooperativas).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1971-12-16 | Lei nº 5.764, de 1971 | [897d3183c92b](https://github.com/lexifina/brazil-law/commit/897d3183c92b49631a6df80fc8252e6faa2f680c) |
+| 1982-03-31 | Lei nº 6.981, de 1982 | [7cc0a0938ce8](https://github.com/lexifina/brazil-law/commit/7cc0a0938ce8d5d84d2339345d0e54e628119b71) |
+| 2001-08-27 | Medida Provisória nº 2.168, de 2001 | [8acc9989d71a](https://github.com/lexifina/brazil-law/commit/8acc9989d71adb331cd00ae9590840d680caafac) |
+| 2004-12-31 | Lei nº 11.076, de 2004 | [9a1a9b6f5a64](https://github.com/lexifina/brazil-law/commit/9a1a9b6f5a644522127c7cb57e7257828691093d) |
+| 2009-04-17 | Lei Complementar nº 130, de 2009 | [1685e28c50e1](https://github.com/lexifina/brazil-law/commit/1685e28c50e1cd0306f331334119576a0f07e41a) |
+| 2015-01-20 | Lei nº 13.097, de 2015 | [c4c952840115](https://github.com/lexifina/brazil-law/commit/c4c952840115d3d3c22194aef9012c2221568fd5) |
+| 2019-01-11 | Lei nº 13.806, de 2019 | [191749087f41](https://github.com/lexifina/brazil-law/commit/191749087f412bdd16d8b2bfd61394687e2fd724) |
+| 2020-03-30 | Medida Provisória nº 931, de 2020 | [4c33a1a5914f](https://github.com/lexifina/brazil-law/commit/4c33a1a5914f54a3ff13e62e2a34fe07f6f09bf5) |
+| 2020-07-29 | Lei nº 14.030, de 2020 | [d9465798ee92](https://github.com/lexifina/brazil-law/commit/d9465798ee925094b7d0e46290eba34984eed8e7) |
+| 2021-08-27 | Lei nº 14.195, de 2021 | [d592f681050e](https://github.com/lexifina/brazil-law/commit/d592f681050e57ee0914309e7d0a335c4e7b65d9) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

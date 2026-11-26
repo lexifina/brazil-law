@@ -2,6 +2,20 @@
 
 MROSC · 5 versions, from 2016-01-23 (latest in force: 2022-05-25) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13019.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `marco-regulatorio-das-oscs/` para `federal/codigos-e-estatutos/marco-regulatorio-das-oscs/`). Histórico anterior: [commits em `marco-regulatorio-das-oscs/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/marco-regulatorio-das-oscs). Ou / or `git log --follow -- federal/codigos-e-estatutos/marco-regulatorio-das-oscs/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `marco-regulatorio-das-oscs/`); earlier history: [commits under `marco-regulatorio-das-oscs/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/marco-regulatorio-das-oscs).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2016-01-23 | Lei nº 13.019, de 2014 | [f1e11ff48e38](https://github.com/lexifina/brazil-law/commit/f1e11ff48e385ce1a13d170244a9b74e136bc658) |
+| 2016-01-23 | Lei nº 13.204, de 2015 | [69d21435196f](https://github.com/lexifina/brazil-law/commit/69d21435196f51534dd9469f0ae47796f446df9e) |
+| 2020-07-21 | Lei nº 14.027, de 2020 | [31fc4e907df6](https://github.com/lexifina/brazil-law/commit/31fc4e907df697192b4acb253388a7490098629e) |
+| 2022-03-09 | Lei nº 14.309, de 2022 | [b854a0edaf63](https://github.com/lexifina/brazil-law/commit/b854a0edaf63b5f227d3568b4b304ed5c9ff3c5a) |
+| 2022-05-25 | Lei nº 14.345, de 2022 | [f90bbf98eff2](https://github.com/lexifina/brazil-law/commit/f90bbf98eff23bcd795ee2cba2c34c8840caeaad) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2016-01-23 |

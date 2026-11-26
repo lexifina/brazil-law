@@ -2,6 +2,18 @@
 
 LTT · 3 versions, from 1974-03-05 (latest in force: 2017-11-11) · <https://www.planalto.gov.br/ccivil_03/leis/l6019.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-trabalho-temporario/` para `federal/codigos-e-estatutos/lei-do-trabalho-temporario/`). Histórico anterior: [commits em `lei-do-trabalho-temporario/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-trabalho-temporario). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-trabalho-temporario/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-trabalho-temporario/`); earlier history: [commits under `lei-do-trabalho-temporario/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-trabalho-temporario).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1974-03-05 | Lei nº 6.019, de 1974 | [1fad8798b5df](https://github.com/lexifina/brazil-law/commit/1fad8798b5df31ee0ec4efdd70aa17d5dd18afa9) |
+| 2017-03-31 | Lei nº 13.429, de 2017 | [c7332947d2ee](https://github.com/lexifina/brazil-law/commit/c7332947d2eeeb2e7555784da929b82f7d076b09) |
+| 2017-11-11 | Lei nº 13.467, de 2017 | [8f27ba4355e6](https://github.com/lexifina/brazil-law/commit/8f27ba4355e67d4c37822702f990708e0053a5e2) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2017-03-31 |

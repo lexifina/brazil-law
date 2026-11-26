@@ -2,6 +2,21 @@
 
 LProt · 6 versions, from 1997-09-11 (latest in force: 2023-10-31) · <https://www.planalto.gov.br/ccivil_03/leis/l9492.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-protesto-de-titulos/` para `federal/codigos-e-estatutos/lei-do-protesto-de-titulos/`). Histórico anterior: [commits em `lei-do-protesto-de-titulos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-protesto-de-titulos). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-protesto-de-titulos/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-protesto-de-titulos/`); earlier history: [commits under `lei-do-protesto-de-titulos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-protesto-de-titulos).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1997-09-11 | Lei nº 9.492, de 1997 | [10679566f51e](https://github.com/lexifina/brazil-law/commit/10679566f51e61aebdc4f1cf3533b9262b73fce4) |
+| 1999-09-25 | Medida Provisória nº 1.894, de 1999 | [7b0d8ac53376](https://github.com/lexifina/brazil-law/commit/7b0d8ac533760012f9da1a0b1b7680724ed869f9) |
+| 1999-11-20 | Lei nº 9.841, de 1999 | [ba3c3c074db3](https://github.com/lexifina/brazil-law/commit/ba3c3c074db30c5610d9f796dedcb2b6712e6604) |
+| 2012-12-28 | Lei nº 12.767, de 2012 | [0a9c049eee6a](https://github.com/lexifina/brazil-law/commit/0a9c049eee6ab5f924a85b9971faf9d02674cca1) |
+| 2019-04-20 | Lei nº 13.775, de 2018 | [0c8ef4b9e08c](https://github.com/lexifina/brazil-law/commit/0c8ef4b9e08c7bbe4f469fc82098835cbebdb50c) |
+| 2023-10-31 | Lei nº 14.711, de 2023 | [d2c7dbd20ec1](https://github.com/lexifina/brazil-law/commit/d2c7dbd20ec1b44b14c230fdfcd05f08126b61e8) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2012-12-28 |

@@ -2,6 +2,20 @@
 
 L10180 · 5 versions, from 2001-02-07 (latest in force: 2017-07-11) · <https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10180.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-10180-de-2001/` para `federal/leis/2001/lei-10180-de-2001/`). Histórico anterior: [commits em `lei-10180-de-2001/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-10180-de-2001). Ou / or `git log --follow -- federal/leis/2001/lei-10180-de-2001/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-10180-de-2001/`); earlier history: [commits under `lei-10180-de-2001/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-10180-de-2001).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2001-02-07 | Lei nº 10.180, de 2001 | [84d91f743185](https://github.com/lexifina/brazil-law/commit/84d91f743185159d4f985bfa20b8cb434b9ede2c) |
+| 2002-10-18 | Decreto nº 4.427, de 2002 | [8b1ed2191ad8](https://github.com/lexifina/brazil-law/commit/8b1ed2191ad88fcccfcb01ddfd6f1a3dc3c7d7fe) |
+| 2016-07-29 | Lei nº 13.328, de 2016 | [4c0f62410086](https://github.com/lexifina/brazil-law/commit/4c0f62410086c6bf7eac69076576bfd6ef8c66bc) |
+| 2016-12-30 | Medida Provisória nº 765, de 2016 | [895916e65729](https://github.com/lexifina/brazil-law/commit/895916e6572972d6d8641eab339390831a7772d2) |
+| 2017-07-11 | Lei nº 13.464, de 2017 | [e4ccbe0990b7](https://github.com/lexifina/brazil-law/commit/e4ccbe0990b71d205edd6b0448182b5f9a8db77d) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

@@ -2,6 +2,16 @@
 
 DL368 · 1 versions, from 1968-12-20 (latest in force: 1968-12-20) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0368.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-368-de-1968/` para `federal/decretos-leis/1968/decreto-lei-368-de-1968/`). Histórico anterior: [commits em `decreto-lei-368-de-1968/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-368-de-1968). Ou / or `git log --follow -- federal/decretos-leis/1968/decreto-lei-368-de-1968/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-368-de-1968/`); earlier history: [commits under `decreto-lei-368-de-1968/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-368-de-1968).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1968-12-20 | Decreto-Lei nº 368, de 1968 | [c742f7c3d3ea](https://github.com/lexifina/brazil-law/commit/c742f7c3d3eacc4f12a1ae7c3ff06b21988ce279) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

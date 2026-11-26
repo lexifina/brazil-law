@@ -2,6 +2,18 @@
 
 LPDC · 3 versions, from 2012-04-11 (latest in force: 2026-03-31) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12608.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-protecao-e-defesa-civil/` para `federal/codigos-e-estatutos/lei-da-protecao-e-defesa-civil/`). Histórico anterior: [commits em `lei-da-protecao-e-defesa-civil/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-protecao-e-defesa-civil). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-protecao-e-defesa-civil/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-protecao-e-defesa-civil/`); earlier history: [commits under `lei-da-protecao-e-defesa-civil/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-protecao-e-defesa-civil).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2012-04-11 | Lei nº 12.608, de 2012 | [87a68eb5ede4](https://github.com/lexifina/brazil-law/commit/87a68eb5ede44075f8968ef29342c1d9d063b65b) |
+| 2023-12-13 | Lei nº 14.750, de 2023 | [5dd45ee44c5a](https://github.com/lexifina/brazil-law/commit/5dd45ee44c5aaa9405c357bfcb03681ce93cfdf7) |
+| 2026-03-31 | Lei nº 15.367, de 2026 | [dd153e546f0e](https://github.com/lexifina/brazil-law/commit/dd153e546f0e552ef2b0fa7198ccc2f3b8520ba7) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2023-12-13 |

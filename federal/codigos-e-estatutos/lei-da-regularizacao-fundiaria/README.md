@@ -2,6 +2,23 @@
 
 LREURB · 8 versions, from 2017-07-12 (latest in force: 2023-12-20) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13465.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-regularizacao-fundiaria/` para `federal/codigos-e-estatutos/lei-da-regularizacao-fundiaria/`). Histórico anterior: [commits em `lei-da-regularizacao-fundiaria/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-regularizacao-fundiaria). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-regularizacao-fundiaria/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-regularizacao-fundiaria/`); earlier history: [commits under `lei-da-regularizacao-fundiaria/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-regularizacao-fundiaria).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2017-07-12 | Lei nº 13.465, de 2017 | [7224fb0d052d](https://github.com/lexifina/brazil-law/commit/7224fb0d052dc22ce0a6715d31ab916639e853ee) |
+| 2017-09-08 | Lei nº 13.465, de 2017 | [7b0fa413ccdb](https://github.com/lexifina/brazil-law/commit/7b0fa413ccdb9d18c40ec57c30db5cf4bf751254) |
+| 2020-08-26 | Medida Provisória nº 996, de 2020 | [7cb7c9baca5b](https://github.com/lexifina/brazil-law/commit/7cb7c9baca5bd6eb64d0e5f61267cd2c4d5a359c) |
+| 2021-01-13 | Lei nº 14.118, de 2021 | [035e058665af](https://github.com/lexifina/brazil-law/commit/035e058665af7c813365886cd573a61054f9f6ac) |
+| 2021-12-28 | Medida Provisória nº 1.085, de 2021 | [61b6fe103145](https://github.com/lexifina/brazil-law/commit/61b6fe103145be5f9af1946c4b06209cabfa0184) |
+| 2022-06-28 | Lei nº 14.382, de 2022 | [7927a605341f](https://github.com/lexifina/brazil-law/commit/7927a605341f9c1654ef9f6d4f352bcf22f844a5) |
+| 2023-07-14 | Lei nº 14.620, de 2023 | [de53ad1a2e59](https://github.com/lexifina/brazil-law/commit/de53ad1a2e59b31cad6b9e0686fe886c512616b7) |
+| 2023-12-20 | Lei nº 14.757, de 2023 | [c6210714d726](https://github.com/lexifina/brazil-law/commit/c6210714d726fa0338cb997bd8d76f8b7466e74a) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

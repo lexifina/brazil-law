@@ -2,6 +2,16 @@
 
 L7995 · 1 versions, from 1991-08-15 (latest in force: 1991-08-15) · <https://www.planalto.gov.br/ccivil_03/leis/l7995.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-7995-de-1990/` para `federal/leis/1990/lei-7995-de-1990/`). Histórico anterior: [commits em `lei-7995-de-1990/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7995-de-1990). Ou / or `git log --follow -- federal/leis/1990/lei-7995-de-1990/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-7995-de-1990/`); earlier history: [commits under `lei-7995-de-1990/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7995-de-1990).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1991-08-15 | Presidência da República, Planalto (Legislação) | [c3765b8be907](https://github.com/lexifina/brazil-law/commit/c3765b8be9072517b5b7bfc6ad8a4352b49d5b76) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

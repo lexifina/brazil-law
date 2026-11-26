@@ -2,6 +2,17 @@
 
 LPT · 2 versions, from 1999-07-14 (latest in force: 2011-09-09) · <https://www.planalto.gov.br/ccivil_03/leis/l9807.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-protecao-a-testemunhas/` para `federal/codigos-e-estatutos/lei-de-protecao-a-testemunhas/`). Histórico anterior: [commits em `lei-de-protecao-a-testemunhas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-protecao-a-testemunhas). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-protecao-a-testemunhas/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-protecao-a-testemunhas/`); earlier history: [commits under `lei-de-protecao-a-testemunhas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-protecao-a-testemunhas).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1999-07-14 | Lei nº 9.807, de 1999 | [2c73abfb0c81](https://github.com/lexifina/brazil-law/commit/2c73abfb0c81f0600b3e84d6f3e68aab9830988a) |
+| 2011-09-09 | Lei nº 12.483, de 2011 | [6d7eef6b1f50](https://github.com/lexifina/brazil-law/commit/6d7eef6b1f501e2e937e0a13b17a393d7579f3b7) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

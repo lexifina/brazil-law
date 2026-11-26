@@ -2,6 +2,30 @@
 
 LRF · 14 versions, from 2000-05-05 (latest in force: 2026-01-01) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-responsabilidade-fiscal/` para `federal/codigos-e-estatutos/lei-de-responsabilidade-fiscal/`). Histórico anterior: [commits em `lei-de-responsabilidade-fiscal/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-responsabilidade-fiscal). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-responsabilidade-fiscal/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-responsabilidade-fiscal/`); earlier history: [commits under `lei-de-responsabilidade-fiscal/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-responsabilidade-fiscal).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2000-05-05 | Lei Complementar nº 101, de 2000 | [5e05755f93be](https://github.com/lexifina/brazil-law/commit/5e05755f93becc867e79e2c83800b86fae2cc332) |
+| 2009-05-28 | Lei Complementar nº 131, de 2009 | [5aa98b8372ee](https://github.com/lexifina/brazil-law/commit/5aa98b8372eefeb3bfe06a53bef5f8a2e4471dda) |
+| 2016-12-29 | Lei Complementar nº 156, de 2016 | [cb47ed7ecf4f](https://github.com/lexifina/brazil-law/commit/cb47ed7ecf4f982a8d8a462d9114e8533f1c8e55) |
+| 2017-05-22 | Lei Complementar nº 159, de 2017 | [75910a12e63f](https://github.com/lexifina/brazil-law/commit/75910a12e63fbbca7fb4310b59fb47af95126d56) |
+| 2019-01-01 | Lei Complementar nº 164, de 2018 | [886003a9e16e](https://github.com/lexifina/brazil-law/commit/886003a9e16ee6d268cdec6a05e4058f4588c6d4) |
+| 2020-05-28 | Lei Complementar nº 173, de 2020 | [a73e8088db08](https://github.com/lexifina/brazil-law/commit/a73e8088db081a46f69448fd0928ab3eacd82b3e) |
+| 2021-01-13 | Lei Complementar nº 177, de 2021 | [9eec3a785f84](https://github.com/lexifina/brazil-law/commit/9eec3a785f84f3e0d884a7a319cc91c113c24e4a) |
+| 2021-01-14 | Lei Complementar nº 178, de 2021 | [17eab6c57d0c](https://github.com/lexifina/brazil-law/commit/17eab6c57d0c876238de5b2c24e7fc80dfb1799c) |
+| 2022-01-01 | Lei Complementar nº 178, de 2021 | [0941af4f9d6b](https://github.com/lexifina/brazil-law/commit/0941af4f9d6bd812c25a040c0cdc473ca1571497) |
+| 2022-07-08 | Lei Complementar nº 195, de 2022 | [fb0823f4f470](https://github.com/lexifina/brazil-law/commit/fb0823f4f470a7d86e6fe9ce6cb3adedc69eaa3a) |
+| 2024-01-01 | Lei Complementar nº 200, de 2023 | [f3ba51dcf89a](https://github.com/lexifina/brazil-law/commit/f3ba51dcf89a3adf9269bfebe1cf4bc970d8132d) |
+| 2024-05-17 | Lei Complementar nº 206, de 2024 | [19b4698ae505](https://github.com/lexifina/brazil-law/commit/19b4698ae505e9b964f984562c08217b4017aa0b) |
+| 2025-01-14 | Lei Complementar nº 212, de 2025 | [f5f946a0eaa2](https://github.com/lexifina/brazil-law/commit/f5f946a0eaa2cc707e2886d948fd430f17b8af84) |
+| 2026-01-01 | Lei Complementar nº 214, de 2025 | [4559d3c13d60](https://github.com/lexifina/brazil-law/commit/4559d3c13d60cae2379eff4e34aee63b097f2f41) |
+| 2026-01-01 | Lei Complementar nº 224, de 2025 | [68b95189be50](https://github.com/lexifina/brazil-law/commit/68b95189be5097bcfcba530174992b872d9c4813) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

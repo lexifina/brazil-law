@@ -2,6 +2,16 @@
 
 DL2323 · 1 versions, from 2024-09-16 (latest in force: 2024-09-16) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del2323.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-2323-de-1987/` para `federal/decretos-leis/1987/decreto-lei-2323-de-1987/`). Histórico anterior: [commits em `decreto-lei-2323-de-1987/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-2323-de-1987). Ou / or `git log --follow -- federal/decretos-leis/1987/decreto-lei-2323-de-1987/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-2323-de-1987/`); earlier history: [commits under `decreto-lei-2323-de-1987/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-2323-de-1987).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2024-09-16 | Presidência da República, Planalto (Legislação) | [083df914c232](https://github.com/lexifina/brazil-law/commit/083df914c232253336323b760605271daa9ac13c) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

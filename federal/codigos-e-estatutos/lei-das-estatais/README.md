@@ -2,6 +2,17 @@
 
 LEst · 2 versions, from 2016-07-01 (latest in force: 2025-07-24) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-das-estatais/` para `federal/codigos-e-estatutos/lei-das-estatais/`). Histórico anterior: [commits em `lei-das-estatais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-estatais). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-das-estatais/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-das-estatais/`); earlier history: [commits under `lei-das-estatais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-estatais).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2016-07-01 | Lei nº 13.303, de 2016 | [eb68df51543a](https://github.com/lexifina/brazil-law/commit/eb68df51543a7a0db4112a8acb88741924897d30) |
+| 2025-07-24 | Lei nº 15.177, de 2025 | [5c1d7526f42c](https://github.com/lexifina/brazil-law/commit/5c1d7526f42c74c094abbb9d339450b2ada2574d) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

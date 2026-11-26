@@ -2,6 +2,19 @@
 
 LSCons · 4 versions, from 2009-02-06 (latest in force: 2017-11-14) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-sistema-de-consorcios/` para `federal/codigos-e-estatutos/lei-do-sistema-de-consorcios/`). Histórico anterior: [commits em `lei-do-sistema-de-consorcios/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-sistema-de-consorcios). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-sistema-de-consorcios/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-sistema-de-consorcios/`); earlier history: [commits under `lei-do-sistema-de-consorcios/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-sistema-de-consorcios).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2009-02-06 | Lei nº 11.795, de 2008 | [15d35152c70e](https://github.com/lexifina/brazil-law/commit/15d35152c70efdb55659e874161b4339a85bdbe5) |
+| 2017-06-08 | Medida Provisória nº 784, de 2017 | [edbaf3e05af2](https://github.com/lexifina/brazil-law/commit/edbaf3e05af27dd1a117ebad2bc73c5160bc0313) |
+| 2017-10-20 | Medida Provisória nº 784, de 2017: vigência encerrada | [b93ebb09d098](https://github.com/lexifina/brazil-law/commit/b93ebb09d098287a6c57478533b699f44b386653) |
+| 2017-11-14 | Lei nº 13.506, de 2017 | [c97629650a99](https://github.com/lexifina/brazil-law/commit/c97629650a999a4f1ced22eb9af7e307df89f08e) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

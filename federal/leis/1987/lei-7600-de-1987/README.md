@@ -2,6 +2,16 @@
 
 L7600 · 1 versions, from 1969-09-30 (latest in force: 1969-09-30) · <https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7600.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-7600-de-1987/` para `federal/leis/1987/lei-7600-de-1987/`). Histórico anterior: [commits em `lei-7600-de-1987/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7600-de-1987). Ou / or `git log --follow -- federal/leis/1987/lei-7600-de-1987/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-7600-de-1987/`); earlier history: [commits under `lei-7600-de-1987/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7600-de-1987).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1969-09-30 | Presidência da República, Planalto (Legislação) | [78af0147be53](https://github.com/lexifina/brazil-law/commit/78af0147be535c36e3cd03b3575604a0514e6beb) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

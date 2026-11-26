@@ -2,6 +2,18 @@
 
 LMA · 3 versions, from 2006-12-26 (latest in force: 2026-02-04) · <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11428.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-mata-atlantica/` para `federal/codigos-e-estatutos/lei-da-mata-atlantica/`). Histórico anterior: [commits em `lei-da-mata-atlantica/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-mata-atlantica). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-mata-atlantica/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-mata-atlantica/`); earlier history: [commits under `lei-da-mata-atlantica/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-mata-atlantica).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2006-12-26 | Lei nº 11.428, de 2006 | [69dc48002608](https://github.com/lexifina/brazil-law/commit/69dc48002608b0f2b5f184d759358a963dc923db) |
+| 2012-05-28 | Lei nº 12.651, de 2012 | [30c0e80ebd7e](https://github.com/lexifina/brazil-law/commit/30c0e80ebd7e2dbe5ba1402ddc31ca60517ce560) |
+| 2026-02-04 | Lei nº 15.190, de 2025 | [f54bbfdfe6a2](https://github.com/lexifina/brazil-law/commit/f54bbfdfe6a237020e63d4339d37d6ec17b2fc34) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

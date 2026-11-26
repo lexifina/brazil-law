@@ -2,6 +2,16 @@
 
 L12250 · 1 versions, from 2010-06-14 (latest in force: 2010-06-14) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12250.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-12250-de-2010/` para `federal/leis/2010/lei-12250-de-2010/`). Histórico anterior: [commits em `lei-12250-de-2010/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-12250-de-2010). Ou / or `git log --follow -- federal/leis/2010/lei-12250-de-2010/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-12250-de-2010/`); earlier history: [commits under `lei-12250-de-2010/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-12250-de-2010).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2010-06-14 | Presidência da República, Planalto (Legislação) | [ba485b82fe50](https://github.com/lexifina/brazil-law/commit/ba485b82fe502796301508f33a602931cdb19b49) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

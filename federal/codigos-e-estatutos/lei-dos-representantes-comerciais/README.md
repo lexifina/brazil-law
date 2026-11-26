@@ -2,6 +2,19 @@
 
 LRC · 4 versions, from 1965-12-10 (latest in force: 2021-08-27) · <https://www.planalto.gov.br/ccivil_03/leis/l4886.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-dos-representantes-comerciais/` para `federal/codigos-e-estatutos/lei-dos-representantes-comerciais/`). Histórico anterior: [commits em `lei-dos-representantes-comerciais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-representantes-comerciais). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-dos-representantes-comerciais/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-dos-representantes-comerciais/`); earlier history: [commits under `lei-dos-representantes-comerciais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-representantes-comerciais).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1965-12-10 | Lei nº 4.886, de 1965 | [afb2c9976295](https://github.com/lexifina/brazil-law/commit/afb2c9976295a90b754053c7ec28ba246ceb88df) |
+| 1992-05-11 | Lei nº 8.420, de 1992 | [3021beb310f3](https://github.com/lexifina/brazil-law/commit/3021beb310f312ddc991ca5e807f402641397fbb) |
+| 2010-05-28 | Lei nº 12.246, de 2010 | [356f4d90117e](https://github.com/lexifina/brazil-law/commit/356f4d90117ec7d0ef9b393d8a39d54617a2767d) |
+| 2021-08-27 | Lei nº 14.195, de 2021 | [d592f681050e](https://github.com/lexifina/brazil-law/commit/d592f681050e57ee0914309e7d0a335c4e7b65d9) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

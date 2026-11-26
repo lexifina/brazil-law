@@ -2,6 +2,16 @@
 
 DL1641 · 1 versions, from 1989-01-01 (latest in force: 1989-01-01) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del1641.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-1641-de-1978/` para `federal/decretos-leis/1978/decreto-lei-1641-de-1978/`). Histórico anterior: [commits em `decreto-lei-1641-de-1978/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-1641-de-1978). Ou / or `git log --follow -- federal/decretos-leis/1978/decreto-lei-1641-de-1978/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-1641-de-1978/`); earlier history: [commits under `decreto-lei-1641-de-1978/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-1641-de-1978).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1989-01-01 | Presidência da República, Planalto (Legislação) | [b36100e316f7](https://github.com/lexifina/brazil-law/commit/b36100e316f79413224462c4d0db5077e8dfd97d) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 5º | [art-005.md](art-005.md) | 0 |  |

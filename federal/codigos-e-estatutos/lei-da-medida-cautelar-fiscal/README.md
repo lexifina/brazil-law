@@ -2,6 +2,17 @@
 
 LMCF · 2 versions, from 1992-01-07 (latest in force: 1997-12-11) · <https://www.planalto.gov.br/ccivil_03/leis/l8397.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-medida-cautelar-fiscal/` para `federal/codigos-e-estatutos/lei-da-medida-cautelar-fiscal/`). Histórico anterior: [commits em `lei-da-medida-cautelar-fiscal/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-medida-cautelar-fiscal). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-medida-cautelar-fiscal/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-medida-cautelar-fiscal/`); earlier history: [commits under `lei-da-medida-cautelar-fiscal/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-medida-cautelar-fiscal).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1992-01-07 | Lei nº 8.397, de 1992 | [fe32a98e7b58](https://github.com/lexifina/brazil-law/commit/fe32a98e7b58c6cb9b1fd3e8e575db178284df6b) |
+| 1997-12-11 | Lei nº 9.532, de 1997 | [de72efdfc09c](https://github.com/lexifina/brazil-law/commit/de72efdfc09cd8a01185de88fb3d5d47c24e1fb9) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 1997-12-11 |

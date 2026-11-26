@@ -2,6 +2,90 @@
 
 CPP · 70 versions, from 1942-01-01 (latest in force: 2026-08-07) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `codigo-de-processo-penal/` para `federal/codigos-e-estatutos/codigo-de-processo-penal/`). Histórico anterior: [commits em `codigo-de-processo-penal/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/codigo-de-processo-penal). Ou / or `git log --follow -- federal/codigos-e-estatutos/codigo-de-processo-penal/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `codigo-de-processo-penal/`); earlier history: [commits under `codigo-de-processo-penal/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/codigo-de-processo-penal).
+
+<details><summary>71 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1942-01-01 | Decreto-Lei nº 3.689, de 1941 | [4161aff086ba](https://github.com/lexifina/brazil-law/commit/4161aff086ba969f1dd735fd782e2822c14a49f2) |
+| 1942-11-17 | Decreto-Lei nº 4.769, de 1942 | [1f1977a907b9](https://github.com/lexifina/brazil-law/commit/1f1977a907b9fcfd4195da5074a5c3f7bbfcd426) |
+| 1943-12-18 | Decreto-Lei nº 6.109, de 1943 | [4cdd5764e115](https://github.com/lexifina/brazil-law/commit/4cdd5764e115e87c248adcb4a6998f14c29ebba2) |
+| 1948-02-29 | Lei nº 263, de 1948 | [2edecea33a38](https://github.com/lexifina/brazil-law/commit/2edecea33a386847d53bb5aed105f26334605683) |
+| 1951-10-29 | Lei nº 1.431, de 1951 | [5a1d98108dd8](https://github.com/lexifina/brazil-law/commit/5a1d98108dd8417f045e2db0067ecc48f876a8ed) |
+| 1952-11-07 | Lei nº 1.720-B, de 1952 | [baeaddaa79aa](https://github.com/lexifina/brazil-law/commit/baeaddaa79aa1af8ce24999ec31bd1bbfc0f47f9) |
+| 1953-09-06 | Lei nº 1.907, de 1953 | [2a1d4c519eb4](https://github.com/lexifina/brazil-law/commit/2a1d4c519eb47a4b91629975b383681e0711502c) |
+| 1957-07-28 | Lei nº 3.181, de 1957 | [47c7b7bdd451](https://github.com/lexifina/brazil-law/commit/47c7b7bdd451a78ec38f87e2a323b506b43d2882) |
+| 1958-06-04 | Lei nº 3.396, de 1958 | [77e38ae4db91](https://github.com/lexifina/brazil-law/commit/77e38ae4db910b6c09ffd751d7206195ff250141) |
+| 1959-11-05 | Lei nº 3.653, de 1959 | [b7becfafdc4e](https://github.com/lexifina/brazil-law/commit/b7becfafdc4eabd7329725938af573bcabbafe62) |
+| 1964-06-04 | Lei nº 4.336, de 1964 | [45ac8752c415](https://github.com/lexifina/brazil-law/commit/45ac8752c415128239d80be580c79a2b15427a8b) |
+| 1965-08-26 | Lei nº 4.760, de 1965 | [2e9cf8ba46dd](https://github.com/lexifina/brazil-law/commit/2e9cf8ba46dd2b38689f2ad195b69585870671d9) |
+| 1965-12-13 | Lei nº 4.893, de 1965 | [7f0a086c3b04](https://github.com/lexifina/brazil-law/commit/7f0a086c3b04580d756fa7ca13cb66e07df81dab) |
+| 1966-06-01 | Lei nº 5.010, de 1966 | [5c0662238348](https://github.com/lexifina/brazil-law/commit/5c06622383480e22d92582417d658df55558e3c3) |
+| 1966-09-30 | Lei nº 5.126, de 1966 | [7e450d4fe3d9](https://github.com/lexifina/brazil-law/commit/7e450d4fe3d97bc45d998f44ef1cc15073721244) |
+| 1967-12-22 | Lei nº 5.349, de 1967 | [da4ad216547e](https://github.com/lexifina/brazil-law/commit/da4ad216547e30bed2b1b5d3a0b226deee383450) |
+| 1969-03-19 | Decreto-Lei nº 504, de 1969 | [c934dafa8f8d](https://github.com/lexifina/brazil-law/commit/c934dafa8f8d000e454be13692aed38ae88661e9) |
+| 1969-04-28 | Decreto-Lei nº 552, de 1969 | [60ab83f880a3](https://github.com/lexifina/brazil-law/commit/60ab83f880a3c2bc5cc2c119cf2572ac676852fe) |
+| 1973-11-23 | Lei nº 5.941, de 1973 | [6fc4ab922cda](https://github.com/lexifina/brazil-law/commit/6fc4ab922cdae674d77d0aedc7623c549abd9384) |
+| 1977-05-25 | Lei nº 6.416, de 1977 | [86e628a177e3](https://github.com/lexifina/brazil-law/commit/86e628a177e375fd208599a5e7a0fda49c042259) |
+| 1981-04-15 | Lei nº 6.900, de 1981 | [115e8933cb1a](https://github.com/lexifina/brazil-law/commit/115e8933cb1ad0e9bd5b1b3dd30a8a6ebc07371b) |
+| 1989-06-23 | Lei nº 7.780, de 1989 | [7bf34e88fb6a](https://github.com/lexifina/brazil-law/commit/7bf34e88fb6a5ce3fe1549956ce0aef46b5408f0) |
+| 1990-04-30 | Lei nº 8.035, de 1990 | [a775f425c78a](https://github.com/lexifina/brazil-law/commit/a775f425c78ada88a356022e556f564178cf2e24) |
+| 1993-05-27 | Lei nº 8.658, de 1993 | [659a79faf4d5](https://github.com/lexifina/brazil-law/commit/659a79faf4d5dab23e49fd1b23a3a94f16202774) |
+| 1993-08-30 | Lei nº 8.699, de 1993 | [310a40e4db0c](https://github.com/lexifina/brazil-law/commit/310a40e4db0c981769a5f4c56f3e35cd4c90453a) |
+| 1993-09-02 | Lei nº 8.701, de 1993 | [b0264e95fc74](https://github.com/lexifina/brazil-law/commit/b0264e95fc745d9bbc3c59b8c3d16ee65c61a8a8) |
+| 1994-03-29 | Lei nº 8.862, de 1994 | [c2495c6a49f0](https://github.com/lexifina/brazil-law/commit/c2495c6a49f05696f3d38169676fcf1281953f52) |
+| 1994-06-13 | Lei nº 8.884, de 1994 | [8bbc40c8a5d7](https://github.com/lexifina/brazil-law/commit/8bbc40c8a5d797fc9f3c5b914298984bebe97c71) |
+| 1995-05-03 | Lei nº 9.033, de 1995 | [d758baf0de9a](https://github.com/lexifina/brazil-law/commit/d758baf0de9aca17dc9b8dfcb970115d1c3df0c0) |
+| 1995-05-10 | Lei nº 9.043, de 1995 | [c5b3c71f1d46](https://github.com/lexifina/brazil-law/commit/c5b3c71f1d4684e6456b79e9290783ed60696623) |
+| 1995-06-16 | Lei nº 9.061, de 1995 | [816122d8b8de](https://github.com/lexifina/brazil-law/commit/816122d8b8de5ab8dc94c656af913eca9dfc97d9) |
+| 1995-10-17 | Lei nº 9.113, de 1995 | [e2f95985603e](https://github.com/lexifina/brazil-law/commit/e2f95985603e5655cf1ea40e187e5f6b15f99eaf) |
+| 1996-06-17 | Lei nº 9.271, de 1996 | [0d5e42c8e177](https://github.com/lexifina/brazil-law/commit/0d5e42c8e1774656d38a7e215507aea60fb214d2) |
+| 1997-11-28 | Lei nº 9.520, de 1997 | [60c5a1fb94b5](https://github.com/lexifina/brazil-law/commit/60c5a1fb94b5646455f40551c9b46d2fab2c3424) |
+| 2001-07-12 | Lei nº 10.258, de 2001 | [15414379adac](https://github.com/lexifina/brazil-law/commit/15414379adacb3cacfae4172a80471729f8de6c3) |
+| 2002-12-26 | Lei nº 10.628, de 2002 | [ba8f2e332a28](https://github.com/lexifina/brazil-law/commit/ba8f2e332a28f94ebd08d490c49c722c7b5437b9) |
+| 2003-08-01 | Lei nº 10.695, de 2003 | [c28318498a32](https://github.com/lexifina/brazil-law/commit/c28318498a322c33a78d354e53a8e4906a244c19) |
+| 2003-12-02 | Lei nº 10.792, de 2003 | [d06c77d29dfb](https://github.com/lexifina/brazil-law/commit/d06c77d29dfb069990f63c32b69bf3fbebc6e24a) |
+| 2005-06-09 | Lei nº 11.101, de 2005 | [7437dd65c175](https://github.com/lexifina/brazil-law/commit/7437dd65c1756d549bc6687620bbb2ae09ffced4) |
+| 2005-06-30 | Lei nº 11.113, de 2005 | [6585da8ed82d](https://github.com/lexifina/brazil-law/commit/6585da8ed82daab15e75ae58015a0e1ee5587841) |
+| 2005-09-26 | STF, ADI 2.797 | [239d50207173](https://github.com/lexifina/brazil-law/commit/239d5020717399394f6b2d1905a7d6c0e512c4e2) |
+| 2006-09-22 | Lei nº 11.340, de 2006 | [893ccaa1f8d2](https://github.com/lexifina/brazil-law/commit/893ccaa1f8d2072510ab576ffd2f0e42f96b940e) |
+| 2006-12-29 | Lei nº 11.435, de 2006 | [7621f8d56d50](https://github.com/lexifina/brazil-law/commit/7621f8d56d500f1f9c54ae18fe459f5e3bfd7270) |
+| 2007-01-16 | Lei nº 11.449, de 2007 | [1f9b193e92df](https://github.com/lexifina/brazil-law/commit/1f9b193e92dfc9e779951154aba72bbef5ab44fb) |
+| 2008-08-09 | Lei nº 11.689, de 2008 | [51ca49f53650](https://github.com/lexifina/brazil-law/commit/51ca49f53650c99a6d6e73c0efd7b693ce8c04d7) |
+| 2008-08-09 | Lei nº 11.690, de 2008 | [3ce49cb19809](https://github.com/lexifina/brazil-law/commit/3ce49cb198097954ecdff068db7d3f559ec23476) |
+| 2008-08-22 | Lei nº 11.719, de 2008 | [af5f0d9a6226](https://github.com/lexifina/brazil-law/commit/af5f0d9a6226df233db6d3d6bdf71a144aa921ac) |
+| 2009-01-09 | Lei nº 11.900, de 2009 | [568472bdbf7c](https://github.com/lexifina/brazil-law/commit/568472bdbf7cd27fd66e4a372946e9f44a8d7c6f) |
+| 2011-07-04 | Lei nº 12.403, de 2011 | [24fbd8938041](https://github.com/lexifina/brazil-law/commit/24fbd893804188e72a259e02fc9718887e7b9f98) |
+| 2012-07-05 | Lei nº 12.681, de 2012 | [c7fa7cfc4477](https://github.com/lexifina/brazil-law/commit/c7fa7cfc4477fe4a94c4a2c8041562a4d2588ed3) |
+| 2012-10-23 | Lei nº 12.694, de 2012 | [f2a33794cd73](https://github.com/lexifina/brazil-law/commit/f2a33794cd73c9dc183e0bc3b12bfa23e6ae0b98) |
+| 2012-12-03 | Lei nº 12.736, de 2012 | [cabbed7c38bd](https://github.com/lexifina/brazil-law/commit/cabbed7c38bddf5a6e78d2608d624d934a2a8ebe) |
+| 2016-03-09 | Lei nº 13.257, de 2016 | [140a7b8c83ae](https://github.com/lexifina/brazil-law/commit/140a7b8c83ae1c1f63c110a9fea0ae3e8d079640) |
+| 2016-05-11 | Lei nº 13.285, de 2016 | [61bcd42ff936](https://github.com/lexifina/brazil-law/commit/61bcd42ff9367d89dc6ce2978125637e4b75f118) |
+| 2016-11-21 | Lei nº 13.344, de 2016 | [a656c503d810](https://github.com/lexifina/brazil-law/commit/a656c503d810aa1cdf732f40c62314a05a2d4628) |
+| 2017-04-13 | Lei nº 13.434, de 2017 | [bca8899b22d3](https://github.com/lexifina/brazil-law/commit/bca8899b22d3d523ae2dd750e96adafebbf60e8d) |
+| 2018-10-03 | Lei nº 13.721, de 2018 | [868f9b2fa78b](https://github.com/lexifina/brazil-law/commit/868f9b2fa78b871906ad72ca1c856d862a015450) |
+| 2018-12-20 | Lei nº 13.769, de 2018 | [6176179f55c8](https://github.com/lexifina/brazil-law/commit/6176179f55c8469aaf80272af4a09923e2fe15c6) |
+| 2020-01-23 | Lei nº 13.964, de 2019 | [f3df9ed35bd8](https://github.com/lexifina/brazil-law/commit/f3df9ed35bd8daceb07551d0b24540465e1f2cbb) |
+| 2021-04-30 | Lei nº 13.964, de 2019 | [7e1d0a009cb4](https://github.com/lexifina/brazil-law/commit/7e1d0a009cb43c85085ff47cb95928a41de90eb6) |
+| 2021-05-28 | Lei nº 14.155, de 2021 | [43c7948ca2e0](https://github.com/lexifina/brazil-law/commit/43c7948ca2e09293e426d5a7c97f6c13832b6697) |
+| 2021-11-23 | Lei nº 14.245, de 2021 | [19f0edd83f85](https://github.com/lexifina/brazil-law/commit/19f0edd83f85e52e264503e724892d21e038234d) |
+| 2022-06-03 | Lei nº 14.365, de 2022 | [5e04b5de6384](https://github.com/lexifina/brazil-law/commit/5e04b5de6384d008bb39d55ed913ed49e594565f) |
+| 2023-12-13 | Lei nº 14.752, de 2023 | [7b2088956a75](https://github.com/lexifina/brazil-law/commit/7b2088956a75f79e0f8a0a5ca239b5e98d1e0f8f) |
+| 2024-04-09 | Lei nº 14.836, de 2024 | [f09dcda04190](https://github.com/lexifina/brazil-law/commit/f09dcda041908542b659c7f97e6c06935b2e5db5) |
+| 2024-10-10 | Lei nº 14.994, de 2024 | [5ab4ead8e234](https://github.com/lexifina/brazil-law/commit/5ab4ead8e2348b2740e23e59b8429ebff592b9ab) |
+| 2025-11-27 | Lei nº 15.272, de 2025 | [06185f05e318](https://github.com/lexifina/brazil-law/commit/06185f05e3181a49ef5a762755df43b1146e6a2e) |
+| 2025-12-08 | Lei nº 15.280, de 2025 | [7b0b66f21916](https://github.com/lexifina/brazil-law/commit/7b0b66f219161d3b566709755920109fd5f2a39c) |
+| 2026-03-25 | Lei nº 15.358, de 2026 | [17eb482cff80](https://github.com/lexifina/brazil-law/commit/17eb482cff80fb4732c1decff00c4c1495d5fb09) |
+| 2026-06-19 | Lei nº 15.438, de 2026 | [c390f1261be9](https://github.com/lexifina/brazil-law/commit/c390f1261be905db01298172178634eed49593d8) |
+| 2026-08-07 | Lei nº 15.487, de 2026 | [d7f2d5492925](https://github.com/lexifina/brazil-law/commit/d7f2d5492925aefd6f8ba4425e62178d57e189d1) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

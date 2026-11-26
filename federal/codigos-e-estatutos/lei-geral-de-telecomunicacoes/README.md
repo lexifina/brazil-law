@@ -2,6 +2,29 @@
 
 LGT · 14 versions, from 1997-07-17 (latest in force: 2026-01-07) · <https://www.planalto.gov.br/ccivil_03/leis/l9472.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-geral-de-telecomunicacoes/` para `federal/codigos-e-estatutos/lei-geral-de-telecomunicacoes/`). Histórico anterior: [commits em `lei-geral-de-telecomunicacoes/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-geral-de-telecomunicacoes). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-geral-de-telecomunicacoes/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-geral-de-telecomunicacoes/`); earlier history: [commits under `lei-geral-de-telecomunicacoes/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-geral-de-telecomunicacoes).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1997-07-17 | Lei nº 9.472, de 1997 | [aee0fa5732bb](https://github.com/lexifina/brazil-law/commit/aee0fa5732bbab6d3d2f4ee3b498970a11e63fce) |
+| 2000-07-19 | Lei nº 9.986, de 2000 | [3fde12129423](https://github.com/lexifina/brazil-law/commit/3fde12129423521598bbadecebf993279f6130a0) |
+| 2011-09-13 | Lei nº 12.485, de 2011 | [0ffca922d95c](https://github.com/lexifina/brazil-law/commit/0ffca922d95c8f76f14cc494f1d00d3742f35822) |
+| 2013-07-10 | Lei nº 12.841, de 2013 | [7163ab8f3175](https://github.com/lexifina/brazil-law/commit/7163ab8f3175a219262c9e4a02e7546a219d4a31) |
+| 2015-04-22 | Lei nº 13.116, de 2015 | [7304821390b0](https://github.com/lexifina/brazil-law/commit/7304821390b05bbcbcf101027b56a3e3ad2b5a9e) |
+| 2018-06-06 | Lei nº 13.673, de 2018 | [8f65c88ba66a](https://github.com/lexifina/brazil-law/commit/8f65c88ba66aa0c203e980d011c7466253119821) |
+| 2019-09-24 | Lei nº 13.848, de 2019 | [17474666c7a5](https://github.com/lexifina/brazil-law/commit/17474666c7a5b07ed8fb91b24af8430cbab06d7f) |
+| 2019-10-04 | Lei nº 13.879, de 2019 | [e2e53324c3f3](https://github.com/lexifina/brazil-law/commit/e2e53324c3f34c60ff04b9902bdb803ce7b307f8) |
+| 2020-12-17 | Lei nº 14.109, de 2020 | [bbcb2b9d6c04](https://github.com/lexifina/brazil-law/commit/bbcb2b9d6c04e3e0bcd0eb00abd659a8abc96607) |
+| 2021-01-01 | Lei nº 14.108, de 2020 | [97be0b53241a](https://github.com/lexifina/brazil-law/commit/97be0b53241ac9164e7e14dbe2effa2827e6e936) |
+| 2021-06-16 | Lei nº 14.173, de 2021 | [415a723c59e6](https://github.com/lexifina/brazil-law/commit/415a723c59e60348b268ac799505e8a54a7b39ca) |
+| 2021-08-27 | Lei nº 14.195, de 2021 | [d592f681050e](https://github.com/lexifina/brazil-law/commit/d592f681050e57ee0914309e7d0a335c4e7b65d9) |
+| 2025-07-29 | Lei nº 15.181, de 2025 | [b9a8bf8c5749](https://github.com/lexifina/brazil-law/commit/b9a8bf8c5749fbc84f14445df6608ee44efa56c6) |
+| 2026-01-07 | Lei nº 15.324, de 2026 | [9e4b86a6c4e8](https://github.com/lexifina/brazil-law/commit/9e4b86a6c4e8525ff6fa274c26087fcc95a16ebe) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

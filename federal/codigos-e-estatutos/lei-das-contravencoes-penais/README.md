@@ -2,6 +2,29 @@
 
 LCP · 14 versions, from 1942-01-01 (latest in force: 2024-10-10) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-das-contravencoes-penais/` para `federal/codigos-e-estatutos/lei-das-contravencoes-penais/`). Histórico anterior: [commits em `lei-das-contravencoes-penais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-contravencoes-penais). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-das-contravencoes-penais/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-das-contravencoes-penais/`); earlier history: [commits under `lei-das-contravencoes-penais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-contravencoes-penais).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1942-01-01 | Decreto-Lei nº 3.688, de 1941 | [a8be8d2336c6](https://github.com/lexifina/brazil-law/commit/a8be8d2336c6811a3234e4c99c2d42b9a39fc91e) |
+| 1944-10-02 | Decreto-Lei nº 6.916, de 1944 | [29a96b52b90d](https://github.com/lexifina/brazil-law/commit/29a96b52b90dd923a068520103be4a630b40963b) |
+| 1977-05-25 | Lei nº 6.416, de 1977 | [86e628a177e3](https://github.com/lexifina/brazil-law/commit/86e628a177e375fd208599a5e7a0fda49c042259) |
+| 1979-12-05 | Lei nº 6.734, de 1979 | [babcc0d2da2d](https://github.com/lexifina/brazil-law/commit/babcc0d2da2d9de851ae78a00e9f92f15eb72071) |
+| 1980-08-21 | Lei nº 6.815, de 1980 | [813b38f3ce30](https://github.com/lexifina/brazil-law/commit/813b38f3ce3015a87f6d494f7f65e9b45cd3ac66) |
+| 1997-11-28 | Lei nº 9.521, de 1997 | [59fb1dbd30ab](https://github.com/lexifina/brazil-law/commit/59fb1dbd30abe74b5e19dc01f0bebaa097daa092) |
+| 2004-01-01 | Lei nº 10.741, de 2003 | [c074bd36efc5](https://github.com/lexifina/brazil-law/commit/c074bd36efc596de9c758894bda413f0336cdd5b) |
+| 2009-07-17 | Lei nº 11.983, de 2009 | [e3270b7549fa](https://github.com/lexifina/brazil-law/commit/e3270b7549fa87808e7aa7841b635f6e5de608fa) |
+| 2015-03-18 | Lei nº 13.106, de 2015 | [4207cdd88f79](https://github.com/lexifina/brazil-law/commit/4207cdd88f79244f910643868533c0fab5ae3453) |
+| 2015-08-05 | Lei nº 13.155, de 2015 | [3bb11297744e](https://github.com/lexifina/brazil-law/commit/3bb11297744e37ad268d433d518661d5b9b7f131) |
+| 2018-09-25 | Lei nº 13.718, de 2018 | [3860a095b66c](https://github.com/lexifina/brazil-law/commit/3860a095b66c7ce728d5f5886efeae184ecff286) |
+| 2021-04-01 | Lei nº 14.132, de 2021 | [ca079710d8cf](https://github.com/lexifina/brazil-law/commit/ca079710d8cf342f3c2c748ca3dd67fd75d69255) |
+| 2021-12-01 | Lei nº 14.197, de 2021 | [e1b74bc753c5](https://github.com/lexifina/brazil-law/commit/e1b74bc753c517322b88c66b05dbdf49eeff41c2) |
+| 2024-10-10 | Lei nº 14.994, de 2024 | [5ab4ead8e234](https://github.com/lexifina/brazil-law/commit/5ab4ead8e2348b2740e23e59b8429ebff592b9ab) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

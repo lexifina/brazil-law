@@ -2,6 +2,17 @@
 
 LPAS · 2 versions, from 2017-11-14 (latest in force: 2022-12-30) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13506.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm/` para `federal/codigos-e-estatutos/lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm/`). Histórico anterior: [commits em `lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm/`); earlier history: [commits under `lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-processo-administrativo-sancionador-do-banco-central-e-da-cvm).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2017-11-14 | Lei nº 13.506, de 2017 | [df7c69f35915](https://github.com/lexifina/brazil-law/commit/df7c69f359153aed2f40a5fb4b6d541eb5580bbf) |
+| 2022-12-30 | Lei nº 14.286, de 2021 | [b123a0719f8e](https://github.com/lexifina/brazil-law/commit/b123a0719f8e6b9c45d416b069b3eb4f54719b38) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

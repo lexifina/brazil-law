@@ -2,6 +2,16 @@
 
 L5371 · 1 versions, from 1969-01-22 (latest in force: 1969-01-22) · <https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l5371.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-5371-de-1967/` para `federal/leis/1967/lei-5371-de-1967/`). Histórico anterior: [commits em `lei-5371-de-1967/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-5371-de-1967). Ou / or `git log --follow -- federal/leis/1967/lei-5371-de-1967/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-5371-de-1967/`); earlier history: [commits under `lei-5371-de-1967/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-5371-de-1967).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1969-01-22 | Presidência da República, Planalto (Legislação) | [2c71f6f08645](https://github.com/lexifina/brazil-law/commit/2c71f6f08645643b29d8bd5d82188d0ee1997911) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

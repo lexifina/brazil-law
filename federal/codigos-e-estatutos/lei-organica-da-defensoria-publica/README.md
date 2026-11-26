@@ -2,6 +2,18 @@
 
 LODP · 3 versions, from 1994-01-13 (latest in force: 2009-10-08) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-organica-da-defensoria-publica/` para `federal/codigos-e-estatutos/lei-organica-da-defensoria-publica/`). Histórico anterior: [commits em `lei-organica-da-defensoria-publica/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-organica-da-defensoria-publica). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-organica-da-defensoria-publica/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-organica-da-defensoria-publica/`); earlier history: [commits under `lei-organica-da-defensoria-publica/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-organica-da-defensoria-publica).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1994-01-13 | Lei Complementar nº 80, de 1994 | [6f480dd6641b](https://github.com/lexifina/brazil-law/commit/6f480dd6641b897ab02baa841203153f2bab8b59) |
+| 1999-12-06 | Lei Complementar nº 98, de 1999 | [edfdd62a704d](https://github.com/lexifina/brazil-law/commit/edfdd62a704d0a42670aeaac6e479d1e123d0e0e) |
+| 2009-10-08 | Lei Complementar nº 132, de 2009 | [349a59146bd8](https://github.com/lexifina/brazil-law/commit/349a59146bd8f119ba38d00df5eb11e970935bee) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2009-10-08 |

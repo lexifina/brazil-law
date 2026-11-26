@@ -2,6 +2,41 @@
 
 DL200 · 22 versions, from 1967-03-15 (latest in force: 1998-05-18) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-200-de-1967/` para `federal/decretos-leis/1967/decreto-lei-200-de-1967/`). Histórico anterior: [commits em `decreto-lei-200-de-1967/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-200-de-1967). Ou / or `git log --follow -- federal/decretos-leis/1967/decreto-lei-200-de-1967/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-200-de-1967/`); earlier history: [commits under `decreto-lei-200-de-1967/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-200-de-1967).
+
+<details><summary>22 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1967-03-15 | Decreto-Lei nº 200, de 1967 | [d70a8d4a0ba6](https://github.com/lexifina/brazil-law/commit/d70a8d4a0ba659308266f12897729881d57e7c06) |
+| 1968-02-27 | Lei nº 5.396, de 1968 | [30b497b6d5a6](https://github.com/lexifina/brazil-law/commit/30b497b6d5a6c7661b012664a47a199232de2cf3) |
+| 1968-04-26 | Lei nº 5.421, de 1968 | [1785bea14732](https://github.com/lexifina/brazil-law/commit/1785bea1473234159eb1db55bc23adffa3838852) |
+| 1969-09-30 | Decreto-Lei nº 900, de 1969 | [67028308dfca](https://github.com/lexifina/brazil-law/commit/67028308dfca28a3dc1719f495546e25a2caf3cd) |
+| 1969-10-30 | Decreto-Lei nº 991, de 1969 | [d59e0fd28d5d](https://github.com/lexifina/brazil-law/commit/d59e0fd28d5db4e5f1f153167129e0e6b2317569) |
+| 1970-03-18 | Decreto-Lei nº 1.093, de 1970 | [41c795331a9a](https://github.com/lexifina/brazil-law/commit/41c795331a9ab874ba2eb41fc729c30a8664a6a4) |
+| 1972-12-06 | Lei nº 5.843, de 1972 | [fa0ee2fa27de](https://github.com/lexifina/brazil-law/commit/fa0ee2fa27def8d6fdc88d169e1148b099a0884e) |
+| 1974-05-02 | Lei nº 6.036, de 1974 | [051bfe3af5d2](https://github.com/lexifina/brazil-law/commit/051bfe3af5d20215bd27918a586170644d5acd52) |
+| 1974-06-25 | Lei nº 6.059, de 1974 | [9400e6a67cfa](https://github.com/lexifina/brazil-law/commit/9400e6a67cfa42b9d6ac452dacdb0f15678f4206) |
+| 1974-10-10 | Lei nº 6.118, de 1974 | [ca223f90fae9](https://github.com/lexifina/brazil-law/commit/ca223f90fae97eb9573353be55059bdbc1b20825) |
+| 1975-07-16 | Lei nº 6.228, de 1975 | [706cf3c9310f](https://github.com/lexifina/brazil-law/commit/706cf3c9310f0dab755babc7c75f407e9671bea8) |
+| 1977-11-03 | Lei nº 6.457, de 1977 | [bf768f9140fe](https://github.com/lexifina/brazil-law/commit/bf768f9140feec68d6dd10052d4ecb6372777af1) |
+| 1979-05-24 | Lei nº 6.650, de 1979 | [9b8e4309994d](https://github.com/lexifina/brazil-law/commit/9b8e4309994d0a73734b3c6516d21e82e198f636) |
+| 1979-11-13 | Lei nº 6.720, de 1979 | [17604da7f5b1](https://github.com/lexifina/brazil-law/commit/17604da7f5b1d5413000bd5705fbad51fbb63663) |
+| 1980-01-17 | Decreto-Lei nº 1.763, de 1980 | [34c97b173936](https://github.com/lexifina/brazil-law/commit/34c97b173936c32b7044ad64d972d8c847eeabe4) |
+| 1981-09-18 | Lei nº 6.946, de 1981 | [24c42eb224bf](https://github.com/lexifina/brazil-law/commit/24c42eb224bf9cf9a042b10b30ccc5e02fe98e70) |
+| 1984-12-29 | Lei nº 7.232, de 1984 | [a85346132638](https://github.com/lexifina/brazil-law/commit/a853461326380658d704081da0d2d9a0d70138f7) |
+| 1986-11-24 | Decreto-Lei nº 2.299, de 1986 | [8b195998c950](https://github.com/lexifina/brazil-law/commit/8b195998c95024dad0aa6265546a47d65e00fcee) |
+| 1986-11-25 | Decreto-Lei nº 2.300, de 1986 | [dfd766645c13](https://github.com/lexifina/brazil-law/commit/dfd766645c13a24e6ee9a55d56eed47162fd557b) |
+| 1987-04-11 | Lei nº 7.596, de 1987 | [3c284d440221](https://github.com/lexifina/brazil-law/commit/3c284d4402211099dedd395e71aa0d1249eac0c4) |
+| 1990-04-13 | Lei nº 8.029, de 1990 | [18b1b3b16c2a](https://github.com/lexifina/brazil-law/commit/18b1b3b16c2a496b0c6dc05445a03acb34a0484f) |
+| 1998-05-18 | Lei nº 9.636, de 1998 | [f518b70e73e2](https://github.com/lexifina/brazil-law/commit/f518b70e73e27a9b576285ed0ccaf8c073460e06) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

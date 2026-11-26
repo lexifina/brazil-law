@@ -2,6 +2,21 @@
 
 EMetr · 6 versions, from 2015-01-13 (latest in force: 2020-07-16) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13089.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `estatuto-da-metropole/` para `federal/codigos-e-estatutos/estatuto-da-metropole/`). Histórico anterior: [commits em `estatuto-da-metropole/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-metropole). Ou / or `git log --follow -- federal/codigos-e-estatutos/estatuto-da-metropole/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `estatuto-da-metropole/`); earlier history: [commits under `estatuto-da-metropole/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-metropole).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2015-01-13 | Lei nº 13.089, de 2015 | [ac33aa047979](https://github.com/lexifina/brazil-law/commit/ac33aa047979f4b24a8ee693059f39ff8409b91a) |
+| 2018-01-12 | Medida Provisória nº 818, de 2018 | [f8886da3cd1e](https://github.com/lexifina/brazil-law/commit/f8886da3cd1ea561e3634a38fe32059b42a40a3e) |
+| 2018-06-20 | Lei nº 13.683, de 2018 | [8a3e9fcac4c6](https://github.com/lexifina/brazil-law/commit/8a3e9fcac4c6e335ccbd3fd2608fd2509a1cce26) |
+| 2018-12-05 | Medida Provisória nº 862, de 2018 | [dab1ca02b68f](https://github.com/lexifina/brazil-law/commit/dab1ca02b68fe05773e97a0329d40841a6e27bf2) |
+| 2019-05-15 | Medida Provisória nº 862, de 2018: vigência encerrada | [219912d0b60d](https://github.com/lexifina/brazil-law/commit/219912d0b60d4d51f4249ae7bc1910bdd7c4eca2) |
+| 2020-07-16 | Lei nº 14.026, de 2020 | [c2970701152b](https://github.com/lexifina/brazil-law/commit/c2970701152b9d09ff10d4926d8e2325cb7e7e12) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 2 | 2020-07-16 |

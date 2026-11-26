@@ -2,6 +2,18 @@
 
 LAC · 3 versions, from 2014-01-29 (latest in force: 2016-05-30) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-anticorrupcao/` para `federal/codigos-e-estatutos/lei-anticorrupcao/`). Histórico anterior: [commits em `lei-anticorrupcao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-anticorrupcao). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-anticorrupcao/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-anticorrupcao/`); earlier history: [commits under `lei-anticorrupcao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-anticorrupcao).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2014-01-29 | Lei nº 12.846, de 2013 | [d819e5da629c](https://github.com/lexifina/brazil-law/commit/d819e5da629c339ae2660f4bb91b5ec5bbea70bd) |
+| 2015-12-21 | Medida Provisória nº 703, de 2015 | [f579a0d2d641](https://github.com/lexifina/brazil-law/commit/f579a0d2d641b52de8da7b5cb12392f0809ae69d) |
+| 2016-05-30 | Medida Provisória nº 703, de 2015: vigência encerrada | [de22eb10d997](https://github.com/lexifina/brazil-law/commit/de22eb10d9971208dffd2cc13f09b1931c645e70) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

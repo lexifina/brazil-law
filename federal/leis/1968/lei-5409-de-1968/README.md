@@ -2,6 +2,16 @@
 
 L5409 · 1 versions, from 2022-12-30 (latest in force: 2022-12-30) · <https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l5409.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-5409-de-1968/` para `federal/leis/1968/lei-5409-de-1968/`). Histórico anterior: [commits em `lei-5409-de-1968/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-5409-de-1968). Ou / or `git log --follow -- federal/leis/1968/lei-5409-de-1968/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-5409-de-1968/`); earlier history: [commits under `lei-5409-de-1968/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-5409-de-1968).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2022-12-30 | Presidência da República, Planalto (Legislação) | [fa8ad9c85bde](https://github.com/lexifina/brazil-law/commit/fa8ad9c85bdea577bb8ed58aea989e7143c9c08f) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

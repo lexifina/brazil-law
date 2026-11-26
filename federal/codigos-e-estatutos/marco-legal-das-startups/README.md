@@ -2,6 +2,16 @@
 
 MLS · 1 versions, from 2021-08-31 (latest in force: 2021-08-31) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp182.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `marco-legal-das-startups/` para `federal/codigos-e-estatutos/marco-legal-das-startups/`). Histórico anterior: [commits em `marco-legal-das-startups/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/marco-legal-das-startups). Ou / or `git log --follow -- federal/codigos-e-estatutos/marco-legal-das-startups/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `marco-legal-das-startups/`); earlier history: [commits under `marco-legal-das-startups/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/marco-legal-das-startups).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2021-08-31 | Lei Complementar nº 182, de 2021 | [4f23420f530e](https://github.com/lexifina/brazil-law/commit/4f23420f530e6b33b9c982d7a2f13b42d3dc73d7) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

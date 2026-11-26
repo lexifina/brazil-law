@@ -2,6 +2,16 @@
 
 L14514 · 1 versions, from 2023-02-13 (latest in force: 2023-02-13) · <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14514.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-14514-de-2022/` para `federal/leis/2022/lei-14514-de-2022/`). Histórico anterior: [commits em `lei-14514-de-2022/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-14514-de-2022). Ou / or `git log --follow -- federal/leis/2022/lei-14514-de-2022/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-14514-de-2022/`); earlier history: [commits under `lei-14514-de-2022/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-14514-de-2022).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2023-02-13 | Presidência da República, Planalto (Legislação) | [7a32f99f7bfb](https://github.com/lexifina/brazil-law/commit/7a32f99f7bfbb28628ae71de6a7b19825340675f) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

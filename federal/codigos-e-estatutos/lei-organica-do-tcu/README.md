@@ -2,6 +2,20 @@
 
 LOTCU · 5 versions, from 1992-07-17 (latest in force: 2019-08-27) · <https://www.planalto.gov.br/ccivil_03/leis/l8443.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-organica-do-tcu/` para `federal/codigos-e-estatutos/lei-organica-do-tcu/`). Histórico anterior: [commits em `lei-organica-do-tcu/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-organica-do-tcu). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-organica-do-tcu/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-organica-do-tcu/`); earlier history: [commits under `lei-organica-do-tcu/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-organica-do-tcu).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1992-07-17 | Lei nº 8.443, de 1992 | [a31cb2c4ebf7](https://github.com/lexifina/brazil-law/commit/a31cb2c4ebf72cf415e6d55d2121bc88e8db76fa) |
+| 1995-12-20 | Lei nº 9.165, de 1995 | [e7c5cb5c5ddf](https://github.com/lexifina/brazil-law/commit/e7c5cb5c5ddf384cebe4eb1d5576ac17d4e087fe) |
+| 2006-03-15 | Resolução do Senado Federal nº 16, de 2006 | [71078f204f97](https://github.com/lexifina/brazil-law/commit/71078f204f9723dd58a6696a7822e9434c300229) |
+| 2013-07-18 | Lei Complementar nº 143, de 2013 | [7b9554e94ec4](https://github.com/lexifina/brazil-law/commit/7b9554e94ec4224de9bca0b56c631a844c418e0e) |
+| 2019-08-27 | Lei nº 13.866, de 2019 | [24aefa72328a](https://github.com/lexifina/brazil-law/commit/24aefa72328a74035888a72d2b79d3fd8ef1c263) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

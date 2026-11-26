@@ -2,6 +2,16 @@
 
 LONMP · 1 versions, from 1993-02-15 (latest in force: 1993-02-15) · <https://www.planalto.gov.br/ccivil_03/leis/l8625.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-organica-nacional-do-ministerio-publico/` para `federal/codigos-e-estatutos/lei-organica-nacional-do-ministerio-publico/`). Histórico anterior: [commits em `lei-organica-nacional-do-ministerio-publico/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-organica-nacional-do-ministerio-publico). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-organica-nacional-do-ministerio-publico/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-organica-nacional-do-ministerio-publico/`); earlier history: [commits under `lei-organica-nacional-do-ministerio-publico/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-organica-nacional-do-ministerio-publico).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1993-02-15 | Lei nº 8.625, de 1993 | [3fb87d977473](https://github.com/lexifina/brazil-law/commit/3fb87d977473e278275295c6f58bdbcc1dbdf736) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

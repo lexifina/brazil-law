@@ -2,6 +2,16 @@
 
 L8163 · 1 versions, from 1991-01-10 (latest in force: 1991-01-10) · <https://www.planalto.gov.br/ccivil_03/leis/1989_1994/l8163.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-8163-de-1991/` para `federal/leis/1991/lei-8163-de-1991/`). Histórico anterior: [commits em `lei-8163-de-1991/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8163-de-1991). Ou / or `git log --follow -- federal/leis/1991/lei-8163-de-1991/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-8163-de-1991/`); earlier history: [commits under `lei-8163-de-1991/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8163-de-1991).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1991-01-10 | Presidência da República, Planalto (Legislação) | [f76900e24d73](https://github.com/lexifina/brazil-law/commit/f76900e24d73a44ecc7544c93ab89fa51f0ad782) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

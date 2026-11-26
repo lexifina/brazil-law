@@ -2,6 +2,16 @@
 
 LC132 · 1 versions, from 2009-10-08 (latest in force: 2009-10-08) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp132.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-complementar-132-de-2009/` para `federal/leis-complementares/lei-complementar-132-de-2009/`). Histórico anterior: [commits em `lei-complementar-132-de-2009/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-complementar-132-de-2009). Ou / or `git log --follow -- federal/leis-complementares/lei-complementar-132-de-2009/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-complementar-132-de-2009/`); earlier history: [commits under `lei-complementar-132-de-2009/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-complementar-132-de-2009).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2009-10-08 | Presidência da República, Planalto (Legislação) | [9e42feac886f](https://github.com/lexifina/brazil-law/commit/9e42feac886feb810c9042a7ca769db333bace42) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

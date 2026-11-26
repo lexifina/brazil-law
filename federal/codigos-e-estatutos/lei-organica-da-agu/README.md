@@ -2,6 +2,16 @@
 
 LOAGU · 1 versions, from 1993-02-11 (latest in force: 1993-02-11) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp73.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-organica-da-agu/` para `federal/codigos-e-estatutos/lei-organica-da-agu/`). Histórico anterior: [commits em `lei-organica-da-agu/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-organica-da-agu). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-organica-da-agu/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-organica-da-agu/`); earlier history: [commits under `lei-organica-da-agu/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-organica-da-agu).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1993-02-11 | Lei Complementar nº 73, de 1993 | [97700dd3b907](https://github.com/lexifina/brazil-law/commit/97700dd3b90731170f6777613b9276f5016454c2) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

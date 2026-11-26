@@ -2,6 +2,21 @@
 
 L8038 · 6 versions, from 1990-05-29 (latest in force: 2024-04-09) · <https://www.planalto.gov.br/ccivil_03/leis/l8038.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-8038-de-1990/` para `federal/leis/1990/lei-8038-de-1990/`). Histórico anterior: [commits em `lei-8038-de-1990/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8038-de-1990). Ou / or `git log --follow -- federal/leis/1990/lei-8038-de-1990/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-8038-de-1990/`); earlier history: [commits under `lei-8038-de-1990/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8038-de-1990).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1990-05-29 | Lei nº 8.038, de 1990 | [8e67370d2a11](https://github.com/lexifina/brazil-law/commit/8e67370d2a11d4cee834dacd460844bb640e15fb) |
+| 1998-12-18 | Lei nº 9.756, de 1998 | [a791fdcb9dac](https://github.com/lexifina/brazil-law/commit/a791fdcb9dac09d9109f7056926a25432ccf6892) |
+| 2009-08-24 | Lei nº 12.019, de 2009 | [2d1cb4747bb4](https://github.com/lexifina/brazil-law/commit/2d1cb4747bb43e74effc7005f34e64573d1cef94) |
+| 2016-03-18 | Lei nº 13.105, de 2015 | [f95288529939](https://github.com/lexifina/brazil-law/commit/f952885299396fa02f4d170bf4f357b61098f387) |
+| 2020-01-23 | Lei nº 13.964, de 2019 | [f3df9ed35bd8](https://github.com/lexifina/brazil-law/commit/f3df9ed35bd8daceb07551d0b24540465e1f2cbb) |
+| 2024-04-09 | Lei nº 14.836, de 2024 | [f09dcda04190](https://github.com/lexifina/brazil-law/commit/f09dcda041908542b659c7f97e6c06935b2e5db5) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2020-01-23 |

@@ -2,6 +2,18 @@
 
 PNRS · 3 versions, from 2010-08-03 (latest in force: 2025-01-07) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `politica-nacional-de-residuos-solidos/` para `federal/codigos-e-estatutos/politica-nacional-de-residuos-solidos/`). Histórico anterior: [commits em `politica-nacional-de-residuos-solidos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/politica-nacional-de-residuos-solidos). Ou / or `git log --follow -- federal/codigos-e-estatutos/politica-nacional-de-residuos-solidos/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `politica-nacional-de-residuos-solidos/`); earlier history: [commits under `politica-nacional-de-residuos-solidos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/politica-nacional-de-residuos-solidos).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2010-08-03 | Lei nº 12.305, de 2010 | [9cd2a3f40fbc](https://github.com/lexifina/brazil-law/commit/9cd2a3f40fbc152f757463bb2ca7f4b1bd22377d) |
+| 2020-07-16 | Lei nº 14.026, de 2020 | [c2970701152b](https://github.com/lexifina/brazil-law/commit/c2970701152b9d09ff10d4926d8e2325cb7e7e12) |
+| 2025-01-07 | Lei nº 15.088, de 2025 | [0050525c5790](https://github.com/lexifina/brazil-law/commit/0050525c5790dbeaeaab6d723f9016ef2b9637d7) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

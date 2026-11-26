@@ -2,6 +2,16 @@
 
 L2613 · 1 versions, from 1970-12-31 (latest in force: 1970-12-31) · <https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l2613.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-2613-de-1955/` para `federal/leis/1955/lei-2613-de-1955/`). Histórico anterior: [commits em `lei-2613-de-1955/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-2613-de-1955). Ou / or `git log --follow -- federal/leis/1955/lei-2613-de-1955/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-2613-de-1955/`); earlier history: [commits under `lei-2613-de-1955/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-2613-de-1955).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1970-12-31 | Presidência da República, Planalto (Legislação) | [aca8b2dc1e7e](https://github.com/lexifina/brazil-law/commit/aca8b2dc1e7e0a06e48f5dcbe964a42cf8c0e57d) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

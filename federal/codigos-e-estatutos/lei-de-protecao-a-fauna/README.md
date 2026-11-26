@@ -2,6 +2,21 @@
 
 LFauna · 6 versions, from 1967-01-05 (latest in force: 2000-07-19) · <https://www.planalto.gov.br/ccivil_03/leis/l5197.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-protecao-a-fauna/` para `federal/codigos-e-estatutos/lei-de-protecao-a-fauna/`). Histórico anterior: [commits em `lei-de-protecao-a-fauna/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-protecao-a-fauna). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-protecao-a-fauna/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-protecao-a-fauna/`); earlier history: [commits under `lei-de-protecao-a-fauna/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-protecao-a-fauna).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1967-01-05 | Lei nº 5.197, de 1967 | [02f0293e3c53](https://github.com/lexifina/brazil-law/commit/02f0293e3c53227f64fc6d34ae7417ea4563cd7d) |
+| 1987-01-07 | Lei nº 7.584, de 1987 | [d43a26d1fc52](https://github.com/lexifina/brazil-law/commit/d43a26d1fc52264db30c9e2d3f7fc83e2a755c53) |
+| 1988-02-17 | Lei nº 7.653, de 1988 | [3b23dea289f5](https://github.com/lexifina/brazil-law/commit/3b23dea289f5c4b3f096b8f124de4afebca44ee8) |
+| 1988-11-24 | Lei nº 7.679, de 1988 | [2fb349c2e37a](https://github.com/lexifina/brazil-law/commit/2fb349c2e37aa0d0c8bcad8243687f4f9fd8f87c) |
+| 1995-10-11 | Lei nº 9.111, de 1995 | [0deab5865dc7](https://github.com/lexifina/brazil-law/commit/0deab5865dc71a58e65a91c9fa3827cc0c3ad290) |
+| 2000-07-19 | Lei nº 9.985, de 2000 | [232848441fda](https://github.com/lexifina/brazil-law/commit/232848441fdaf45b842806cb5f763be3834ce10b) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

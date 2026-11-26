@@ -2,6 +2,30 @@
 
 LVSM · 14 versions, from 1976-12-28 (latest in force: 2026-06-29) · <https://www.planalto.gov.br/ccivil_03/leis/l6360.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-vigilancia-sanitaria-de-medicamentos/` para `federal/codigos-e-estatutos/lei-da-vigilancia-sanitaria-de-medicamentos/`). Histórico anterior: [commits em `lei-da-vigilancia-sanitaria-de-medicamentos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-vigilancia-sanitaria-de-medicamentos). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-vigilancia-sanitaria-de-medicamentos/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-vigilancia-sanitaria-de-medicamentos/`); earlier history: [commits under `lei-da-vigilancia-sanitaria-de-medicamentos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-vigilancia-sanitaria-de-medicamentos).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1976-12-28 | Lei nº 6.360, de 1976 | [0eb33e60cdc4](https://github.com/lexifina/brazil-law/commit/0eb33e60cdc474f6af3880bdbd4b5b97e5771efa) |
+| 1977-12-05 | Lei nº 6.480, de 1977 | [cca54b396360](https://github.com/lexifina/brazil-law/commit/cca54b396360e984e018966c617a0f4ce0f1a0f4) |
+| 1999-01-27 | Lei nº 9.782, de 1999 | [798247373457](https://github.com/lexifina/brazil-law/commit/798247373457d6dcbeac51fed7d0970915d16202) |
+| 1999-02-11 | Lei nº 9.787, de 1999 | [5dfe23538026](https://github.com/lexifina/brazil-law/commit/5dfe235380268b17a8ef95dcff67d553ad2f3734) |
+| 2001-08-24 | Medida Provisória nº 2.190, de 2001 | [78a7cb8f7520](https://github.com/lexifina/brazil-law/commit/78a7cb8f752049c817a3adfa891ffcc77ce56e0a) |
+| 2003-05-15 | Lei nº 10.669, de 2003 | [36f28579d572](https://github.com/lexifina/brazil-law/commit/36f28579d572085459df1edeeb3bf833265544b8) |
+| 2003-10-07 | Lei nº 10.742, de 2003 | [5cac09f75183](https://github.com/lexifina/brazil-law/commit/5cac09f75183a933149c4a36648172a667e4bc5c) |
+| 2015-01-20 | Lei nº 13.097, de 2015 | [c4c952840115](https://github.com/lexifina/brazil-law/commit/c4c952840115d3d3c22194aef9012c2221568fd5) |
+| 2016-06-27 | Lei nº 13.235, de 2015 | [752b22698ece](https://github.com/lexifina/brazil-law/commit/752b22698ece0769e8f4035cf8a6534a63b43c7c) |
+| 2016-06-27 | Lei nº 13.236, de 2015 | [7107651111ba](https://github.com/lexifina/brazil-law/commit/7107651111ba5b870c31fc37ec1a04356176115a) |
+| 2017-03-29 | Lei nº 13.411, de 2016 | [d606e0732383](https://github.com/lexifina/brazil-law/commit/d606e0732383610ed258cfc48466e752ab2ca937) |
+| 2024-07-10 | Lei nº 14.806, de 2024 | [705c272a6b69](https://github.com/lexifina/brazil-law/commit/705c272a6b69ebb9d96bc8c8d0f51514a496ba36) |
+| 2025-07-31 | Lei nº 15.183, de 2025 | [a846c5dddadf](https://github.com/lexifina/brazil-law/commit/a846c5dddadfef2813d87fcca9e3b9f268b2bd36) |
+| 2025-08-30 | Lei nº 15.154, de 2025 | [9bfd3ce70317](https://github.com/lexifina/brazil-law/commit/9bfd3ce70317cc3fe010547ba4f943c8ceb97da4) |
+| 2026-06-29 | Lei nº 15.440, de 2026 | [8d9faf2f28fd](https://github.com/lexifina/brazil-law/commit/8d9faf2f28fd20e2785eb46ae26a5654359475ee) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

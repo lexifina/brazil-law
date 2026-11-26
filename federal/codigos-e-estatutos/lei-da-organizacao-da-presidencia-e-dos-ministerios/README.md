@@ -2,6 +2,22 @@
 
 LOPM · 7 versions, from 2023-06-20 (latest in force: 2026-02-25) · <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14600.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-organizacao-da-presidencia-e-dos-ministerios/` para `federal/codigos-e-estatutos/lei-da-organizacao-da-presidencia-e-dos-ministerios/`). Histórico anterior: [commits em `lei-da-organizacao-da-presidencia-e-dos-ministerios/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-organizacao-da-presidencia-e-dos-ministerios). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-organizacao-da-presidencia-e-dos-ministerios/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-organizacao-da-presidencia-e-dos-ministerios/`); earlier history: [commits under `lei-da-organizacao-da-presidencia-e-dos-ministerios/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-organizacao-da-presidencia-e-dos-ministerios).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2023-06-20 | Lei nº 14.600, de 2023 | [e2e012fe4a47](https://github.com/lexifina/brazil-law/commit/e2e012fe4a47361c27669965cc57249dbdcc738c) |
+| 2023-09-13 | Medida Provisória nº 1.187, de 2023 | [9c6e23f2b539](https://github.com/lexifina/brazil-law/commit/9c6e23f2b5391c690e77c56c0b36c038768b4b42) |
+| 2023-12-29 | Medida Provisória nº 1.203, de 2023 | [d89997519e9c](https://github.com/lexifina/brazil-law/commit/d89997519e9c384dc8b97e0e2e9b401f9157e5db) |
+| 2024-01-17 | Lei nº 14.816, de 2024 | [726c5d9b3911](https://github.com/lexifina/brazil-law/commit/726c5d9b3911dd5650687b2f55066abfd870ec01) |
+| 2024-05-31 | Lei nº 14.875, de 2024 | [97a8a70f9c22](https://github.com/lexifina/brazil-law/commit/97a8a70f9c225f48897996c74c98b51cac0a7d35) |
+| 2025-09-18 | Medida Provisória nº 1.317, de 2025 | [ce43c976f29c](https://github.com/lexifina/brazil-law/commit/ce43c976f29cd5e98608de6aec07a7c360a8330e) |
+| 2026-02-25 | Lei nº 15.352, de 2026 | [343f6d0d38a4](https://github.com/lexifina/brazil-law/commit/343f6d0d38a4bab700843f1d5e80ab7a659b465e) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

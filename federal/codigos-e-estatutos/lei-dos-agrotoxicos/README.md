@@ -2,6 +2,19 @@
 
 LAgro23 · 4 versions, from 2023-12-28 (latest in force: 2025-07-02) · <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14785.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-dos-agrotoxicos/` para `federal/codigos-e-estatutos/lei-dos-agrotoxicos/`). Histórico anterior: [commits em `lei-dos-agrotoxicos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-agrotoxicos). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-dos-agrotoxicos/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-dos-agrotoxicos/`); earlier history: [commits under `lei-dos-agrotoxicos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-agrotoxicos).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2023-12-28 | Lei nº 14.785, de 2023 | [158cc4c617f5](https://github.com/lexifina/brazil-law/commit/158cc4c617f5e184ad12ca18574d9dc18f8d8f35) |
+| 2024-05-22 | Lei nº 14.785, de 2023 | [958abf3cdd6b](https://github.com/lexifina/brazil-law/commit/958abf3cdd6bef81d684e4bddeef161cc275faa7) |
+| 2024-12-24 | Lei nº 15.070, de 2024 | [22e0fcbedd3c](https://github.com/lexifina/brazil-law/commit/22e0fcbedd3ca170446571f839fcef91e4d2d3e8) |
+| 2025-07-02 | Lei nº 14.785, de 2023 | [6ea41b658253](https://github.com/lexifina/brazil-law/commit/6ea41b65825364904a2e9781d233f4f1f0b7c1c3) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

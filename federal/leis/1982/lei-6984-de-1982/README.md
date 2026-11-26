@@ -2,6 +2,16 @@
 
 L6984 · 1 versions, from 1982-04-14 (latest in force: 1982-04-14) · <https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6984.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-6984-de-1982/` para `federal/leis/1982/lei-6984-de-1982/`). Histórico anterior: [commits em `lei-6984-de-1982/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-6984-de-1982). Ou / or `git log --follow -- federal/leis/1982/lei-6984-de-1982/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-6984-de-1982/`); earlier history: [commits under `lei-6984-de-1982/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-6984-de-1982).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1982-04-14 | Presidência da República, Planalto (Legislação) | [fd9b0f5de911](https://github.com/lexifina/brazil-law/commit/fd9b0f5de9118fb8a438094dd6d8f7e1afe09a97) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

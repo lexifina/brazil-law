@@ -2,6 +2,16 @@
 
 L7262 · 1 versions, from 1984-12-04 (latest in force: 1984-12-04) · <https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7262.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-7262-de-1984/` para `federal/leis/1984/lei-7262-de-1984/`). Histórico anterior: [commits em `lei-7262-de-1984/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7262-de-1984). Ou / or `git log --follow -- federal/leis/1984/lei-7262-de-1984/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-7262-de-1984/`); earlier history: [commits under `lei-7262-de-1984/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7262-de-1984).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1984-12-04 | Presidência da República, Planalto (Legislação) | [a46286ae8364](https://github.com/lexifina/brazil-law/commit/a46286ae8364cae13969f465365fdab8ef9edd52) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

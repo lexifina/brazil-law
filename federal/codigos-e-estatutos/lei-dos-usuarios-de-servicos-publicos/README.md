@@ -2,6 +2,19 @@
 
 LUSP · 4 versions, from 2018-06-22 (latest in force: 2023-01-11) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13460.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-dos-usuarios-de-servicos-publicos/` para `federal/codigos-e-estatutos/lei-dos-usuarios-de-servicos-publicos/`). Histórico anterior: [commits em `lei-dos-usuarios-de-servicos-publicos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-usuarios-de-servicos-publicos). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-dos-usuarios-de-servicos-publicos/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-dos-usuarios-de-servicos-publicos/`); earlier history: [commits under `lei-dos-usuarios-de-servicos-publicos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-usuarios-de-servicos-publicos).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2018-06-22 | Lei nº 13.460, de 2017 | [7e07cf54ee1f](https://github.com/lexifina/brazil-law/commit/7e07cf54ee1f80a9aed33870a20e452484ca2438) |
+| 2020-06-16 | Lei nº 14.015, de 2020 | [d19ac3ab5f38](https://github.com/lexifina/brazil-law/commit/d19ac3ab5f3824d3fbcc1f76246da241ff6eec6a) |
+| 2021-06-28 | Lei nº 14.129, de 2021 | [dbd87c156a30](https://github.com/lexifina/brazil-law/commit/dbd87c156a3020b8f80faef7c0b95ba64f53c066) |
+| 2023-01-11 | Lei nº 14.534, de 2023 | [0b8221f23236](https://github.com/lexifina/brazil-law/commit/0b8221f2323642eee7f850e25d8851f978297212) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

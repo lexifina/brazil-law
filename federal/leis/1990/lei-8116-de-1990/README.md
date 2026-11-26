@@ -2,6 +2,16 @@
 
 L8116 · 1 versions, from 1990-12-14 (latest in force: 1990-12-14) · <https://www.planalto.gov.br/ccivil_03/leis/l8116.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-8116-de-1990/` para `federal/leis/1990/lei-8116-de-1990/`). Histórico anterior: [commits em `lei-8116-de-1990/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8116-de-1990). Ou / or `git log --follow -- federal/leis/1990/lei-8116-de-1990/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-8116-de-1990/`); earlier history: [commits under `lei-8116-de-1990/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8116-de-1990).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1990-12-14 | Presidência da República, Planalto (Legislação) | [4c300ebb97d0](https://github.com/lexifina/brazil-law/commit/4c300ebb97d05bca0fe1314dc0c85347aff4628b) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

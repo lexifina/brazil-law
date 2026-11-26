@@ -2,6 +2,16 @@
 
 L7250 · 1 versions, from 1984-11-16 (latest in force: 1984-11-16) · <https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7250.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-7250-de-1984/` para `federal/leis/1984/lei-7250-de-1984/`). Histórico anterior: [commits em `lei-7250-de-1984/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7250-de-1984). Ou / or `git log --follow -- federal/leis/1984/lei-7250-de-1984/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-7250-de-1984/`); earlier history: [commits under `lei-7250-de-1984/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7250-de-1984).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1984-11-16 | Presidência da República, Planalto (Legislação) | [84655e42515d](https://github.com/lexifina/brazil-law/commit/84655e42515d7fd8729622949acae16244b9226e) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

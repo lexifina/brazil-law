@@ -2,6 +2,18 @@
 
 LCoopCred · 3 versions, from 2009-04-17 (latest in force: 2022-08-25) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp130.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-sistema-nacional-de-credito-cooperativo/` para `federal/codigos-e-estatutos/lei-do-sistema-nacional-de-credito-cooperativo/`). Histórico anterior: [commits em `lei-do-sistema-nacional-de-credito-cooperativo/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-sistema-nacional-de-credito-cooperativo). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-sistema-nacional-de-credito-cooperativo/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-sistema-nacional-de-credito-cooperativo/`); earlier history: [commits under `lei-do-sistema-nacional-de-credito-cooperativo/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-sistema-nacional-de-credito-cooperativo).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2009-04-17 | Lei Complementar nº 130, de 2009 | [503ba6b4ea4c](https://github.com/lexifina/brazil-law/commit/503ba6b4ea4c54e548b46e41ca8ff3c1cb07fb4d) |
+| 2018-01-05 | Lei Complementar nº 161, de 2018 | [10b65011a0e2](https://github.com/lexifina/brazil-law/commit/10b65011a0e26a07e8e6f15a558fe2a8c49378a4) |
+| 2022-08-25 | Lei Complementar nº 196, de 2022 | [6503dfff7197](https://github.com/lexifina/brazil-law/commit/6503dfff7197820c88cff22b3c1f9b7a27ba65bf) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2022-08-25 |

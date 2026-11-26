@@ -2,6 +2,18 @@
 
 LAP · 3 versions, from 1965-08-19 (latest in force: 1977-12-22) · <https://www.planalto.gov.br/ccivil_03/leis/l4717.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-acao-popular/` para `federal/codigos-e-estatutos/lei-da-acao-popular/`). Histórico anterior: [commits em `lei-da-acao-popular/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-acao-popular). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-acao-popular/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-acao-popular/`); earlier history: [commits under `lei-da-acao-popular/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-acao-popular).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1965-08-19 | Lei nº 4.717, de 1965 | [c5feea4ba6c4](https://github.com/lexifina/brazil-law/commit/c5feea4ba6c4c9cf0a7459b97a713da7d82638bb) |
+| 1973-12-31 | Lei nº 6.014, de 1973 | [efc6e1ab2239](https://github.com/lexifina/brazil-law/commit/efc6e1ab2239a2081cef1850abc79013e751131c) |
+| 1977-12-22 | Lei nº 6.513, de 1977 | [0d64c2789a1d](https://github.com/lexifina/brazil-law/commit/0d64c2789a1d7bac5c3b7b68866733dd7e934f31) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 1977-12-22 |

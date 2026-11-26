@@ -2,6 +2,36 @@
 
 L12865 · 18 versions, from 2013-10-10 (latest in force: 2026-01-09) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12865.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-12865-de-2013/` para `federal/leis/2013/lei-12865-de-2013/`). Histórico anterior: [commits em `lei-12865-de-2013/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-12865-de-2013). Ou / or `git log --follow -- federal/leis/2013/lei-12865-de-2013/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-12865-de-2013/`); earlier history: [commits under `lei-12865-de-2013/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-12865-de-2013).
+
+<details><summary>17 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2013-10-10 | Lei nº 12.865, de 2013 | [b7624533b6dc](https://github.com/lexifina/brazil-law/commit/b7624533b6dce0b6f953e0b7876b14869b87806a) |
+| 2013-11-12 | Medida Provisória nº 627, de 2013 | [80c8af4bf40c](https://github.com/lexifina/brazil-law/commit/80c8af4bf40c684e66e15c0422bcc7ed245a563f) |
+| 2014-02-01 | Lei nº 12.865, de 2013 | [68b8c7ec5035](https://github.com/lexifina/brazil-law/commit/68b8c7ec5035e396e1b41ad0e5d8392b28ff0733) |
+| 2014-05-14 | Lei nº 12.973, de 2014 | [a4e54d8baffa](https://github.com/lexifina/brazil-law/commit/a4e54d8baffa90f9dcaa564740e4f5400150c043) |
+| 2014-06-20 | Lei nº 12.995, de 2014 | [44411fa70542](https://github.com/lexifina/brazil-law/commit/44411fa70542e3aeaabb43dc3b352e7d64143155) |
+| 2015-01-20 | Lei nº 13.097, de 2015 | [c4c952840115](https://github.com/lexifina/brazil-law/commit/c4c952840115d3d3c22194aef9012c2221568fd5) |
+| 2017-06-08 | Medida Provisória nº 784, de 2017 | [edbaf3e05af2](https://github.com/lexifina/brazil-law/commit/edbaf3e05af27dd1a117ebad2bc73c5160bc0313) |
+| 2017-10-20 | Medida Provisória nº 784, de 2017: vigência encerrada | [b93ebb09d098](https://github.com/lexifina/brazil-law/commit/b93ebb09d098287a6c57478533b699f44b386653) |
+| 2017-11-14 | Lei nº 13.506, de 2017 | [c97629650a99](https://github.com/lexifina/brazil-law/commit/c97629650a999a4f1ced22eb9af7e307df89f08e) |
+| 2019-10-02 | Medida Provisória nº 897, de 2019 | [81e171ad13ab](https://github.com/lexifina/brazil-law/commit/81e171ad13ab787b28dfcd0d9ec3e346cb2e83a7) |
+| 2020-03-30 | Medida Provisória nº 930, de 2020 | [b1640196865d](https://github.com/lexifina/brazil-law/commit/b1640196865d9b8d5543053fdf82a8f2d4a71620) |
+| 2020-04-07 | Lei nº 13.986, de 2020 | [144558c2cb06](https://github.com/lexifina/brazil-law/commit/144558c2cb0678712bcbae7cfbefc3abc1a6e5af) |
+| 2020-07-29 | Lei nº 14.031, de 2020 | [f7c3bda5eb61](https://github.com/lexifina/brazil-law/commit/f7c3bda5eb612d8df41c668865da037231dc3497) |
+| 2021-07-15 | Lei nº 14.185, de 2021 | [c658459610d2](https://github.com/lexifina/brazil-law/commit/c658459610d256aadcbf481e868aa364389e2085) |
+| 2022-12-30 | Lei nº 14.286, de 2021 | [b123a0719f8e](https://github.com/lexifina/brazil-law/commit/b123a0719f8e6b9c45d416b069b3eb4f54719b38) |
+| 2024-08-01 | Lei nº 14.943, de 2024 | [ca038c4b39cf](https://github.com/lexifina/brazil-law/commit/ca038c4b39cffc6d46ae737c56b0270df39042b5) |
+| 2026-01-09 | Lei Complementar nº 225, de 2026 | [704580766d54](https://github.com/lexifina/brazil-law/commit/704580766d54d6cfcee08194db04e84481c42d84) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

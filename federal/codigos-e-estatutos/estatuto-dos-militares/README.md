@@ -2,6 +2,30 @@
 
 EMil · 15 versions, from 1981-01-01 (latest in force: 2019-12-17) · <https://www.planalto.gov.br/ccivil_03/leis/l6880.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `estatuto-dos-militares/` para `federal/codigos-e-estatutos/estatuto-dos-militares/`). Histórico anterior: [commits em `estatuto-dos-militares/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-dos-militares). Ou / or `git log --follow -- federal/codigos-e-estatutos/estatuto-dos-militares/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `estatuto-dos-militares/`); earlier history: [commits under `estatuto-dos-militares/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-dos-militares).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1981-01-01 | Lei nº 6.880, de 1980 | [a26f513b3191](https://github.com/lexifina/brazil-law/commit/a26f513b3191a8d071f052d92336e47d075d2720) |
+| 1981-12-11 | Lei nº 6.880, de 1980 | [f268328f771e](https://github.com/lexifina/brazil-law/commit/f268328f771ed1603cfba396a95ebbb34e85a5e6) |
+| 1986-07-03 | Lei nº 7.503, de 1986 | [278256e2ca18](https://github.com/lexifina/brazil-law/commit/278256e2ca18fdd613c6082a0269bf45ba80442d) |
+| 1986-12-30 | Lei nº 7.580, de 1986 | [a61a3ab1650b](https://github.com/lexifina/brazil-law/commit/a61a3ab1650b3ab98a3a4be7eb11f99d93bc1ef3) |
+| 1988-05-11 | Lei nº 7.659, de 1988 | [5a4ee7c64a6f](https://github.com/lexifina/brazil-law/commit/5a4ee7c64a6f980eebecefe4315f835fd638e276) |
+| 1988-08-23 | Lei nº 7.666, de 1988 | [abf5350a8fce](https://github.com/lexifina/brazil-law/commit/abf5350a8fce15086abe172426de9170760f297d) |
+| 1988-12-21 | Lei nº 7.698, de 1988 | [d0c6ee9886b0](https://github.com/lexifina/brazil-law/commit/d0c6ee9886b0a366cbe7330a3e42554cf025ada0) |
+| 1991-09-30 | Lei nº 8.237, de 1991 | [0aa130cdb218](https://github.com/lexifina/brazil-law/commit/0aa130cdb21808038f8ccb9d35bddac944b333fd) |
+| 1996-07-26 | Lei nº 9.297, de 1996 | [b7ee738595b8](https://github.com/lexifina/brazil-law/commit/b7ee738595b8db7234362dde9b17d49ae516b2dc) |
+| 1997-03-15 | Lei nº 9.442, de 1997 | [c6573393d694](https://github.com/lexifina/brazil-law/commit/c6573393d694a406e5421ad005c15404ed9078a6) |
+| 2001-09-01 | Medida Provisória nº 2.215, de 2001 | [7519825f77e6](https://github.com/lexifina/brazil-law/commit/7519825f77e6ccfd4f05bbc8640538f70e49b5dd) |
+| 2002-03-28 | Lei nº 10.416, de 2002 | [6ab5679dafa6](https://github.com/lexifina/brazil-law/commit/6ab5679dafa6c8155d08d08ef561cb08bb188502) |
+| 2007-01-08 | Lei nº 11.447, de 2007 | [22b38b5f360b](https://github.com/lexifina/brazil-law/commit/22b38b5f360bfc8a345c526d6b545249a91e1c29) |
+| 2012-06-20 | Lei nº 12.670, de 2012 | [8058aadaa7d6](https://github.com/lexifina/brazil-law/commit/8058aadaa7d62324d11181a5680af8fb03bc3512) |
+| 2019-12-17 | Lei nº 13.954, de 2019 | [a3de1ef5b204](https://github.com/lexifina/brazil-law/commit/a3de1ef5b204b802bedc4272be4c6800665a74c5) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

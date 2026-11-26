@@ -2,6 +2,38 @@
 
 LCA · 19 versions, from 1998-03-30 (latest in force: 2026-03-12) · <https://www.planalto.gov.br/ccivil_03/leis/l9605.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-crimes-ambientais/` para `federal/codigos-e-estatutos/lei-de-crimes-ambientais/`). Histórico anterior: [commits em `lei-de-crimes-ambientais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-crimes-ambientais). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-crimes-ambientais/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-crimes-ambientais/`); earlier history: [commits under `lei-de-crimes-ambientais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-crimes-ambientais).
+
+<details><summary>19 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1998-03-30 | Lei nº 9.605, de 1998 | [89ebf58df882](https://github.com/lexifina/brazil-law/commit/89ebf58df88261c6d3c281161e361a3f38e349f8) |
+| 1998-08-10 | Medida Provisória nº 1.710, de 1998 | [09da787260d9](https://github.com/lexifina/brazil-law/commit/09da787260d92df61ebca71eee03af6884a08b7e) |
+| 1998-09-09 | Medida Provisória nº 1.710-1, de 1998 | [3f36aa92901d](https://github.com/lexifina/brazil-law/commit/3f36aa92901de695ebadb2b6466e59d3a337f405) |
+| 2000-07-19 | Lei nº 9.985, de 2000 | [232848441fda](https://github.com/lexifina/brazil-law/commit/232848441fdaf45b842806cb5f763be3834ce10b) |
+| 2001-08-24 | Medida Provisória nº 2.163, de 2001 | [bb20c28d0467](https://github.com/lexifina/brazil-law/commit/bb20c28d046760d05375a5880b6edd9660005e29) |
+| 2002-08-23 | Medida Provisória nº 62, de 2002 | [78c05d9f79c3](https://github.com/lexifina/brazil-law/commit/78c05d9f79c33e6a7199bc9b596ee68fe6c45ba9) |
+| 2002-11-20 | Medida Provisória nº 62, de 2002: prejudicada | [063ac6fa4474](https://github.com/lexifina/brazil-law/commit/063ac6fa44742acf34a39c7c72825fe56cd9aa23) |
+| 2006-03-03 | Lei nº 11.284, de 2006 | [7f3b0dabe737](https://github.com/lexifina/brazil-law/commit/7f3b0dabe73761f37fe59ab4aa995be0542c2f76) |
+| 2006-12-26 | Lei nº 11.428, de 2006 | [7e93cadf08a3](https://github.com/lexifina/brazil-law/commit/7e93cadf08a35e22198614c6be1897616223020d) |
+| 2010-08-03 | Lei nº 12.305, de 2010 | [1c5362e1cdfa](https://github.com/lexifina/brazil-law/commit/1c5362e1cdfac41ec5be4efe7fd07c67fdc4b8c3) |
+| 2011-05-26 | Lei nº 12.408, de 2011 | [55c114862986](https://github.com/lexifina/brazil-law/commit/55c114862986065ea107ad67ce11b45727609fca) |
+| 2014-12-09 | Lei nº 13.052, de 2014 | [0e4b8702fbb5](https://github.com/lexifina/brazil-law/commit/0e4b8702fbb5f9001a9e31062aa18474c86a2e6a) |
+| 2020-09-30 | Lei nº 14.064, de 2020 | [260dd2691126](https://github.com/lexifina/brazil-law/commit/260dd269112619384978d9251e77e5b6fd85c03d) |
+| 2023-10-04 | Lei nº 14.691, de 2023 | [ae87797da90e](https://github.com/lexifina/brazil-law/commit/ae87797da90ec83328cdc6f0ae16021914128d8e) |
+| 2024-08-01 | Lei nº 14.944, de 2024 | [a0d118da5d12](https://github.com/lexifina/brazil-law/commit/a0d118da5d123f52fd05879b243946cdf4a9c3bf) |
+| 2025-06-17 | Lei nº 15.150, de 2025 | [82237c92f33a](https://github.com/lexifina/brazil-law/commit/82237c92f33adca25a37e651df68fa69dc643669) |
+| 2025-12-23 | Lei nº 15.299, de 2025 | [63a3e9f32ef4](https://github.com/lexifina/brazil-law/commit/63a3e9f32ef48c24e58e3d4bc1bfc7c901e2869b) |
+| 2026-02-04 | Lei nº 15.190, de 2025 | [f54bbfdfe6a2](https://github.com/lexifina/brazil-law/commit/f54bbfdfe6a237020e63d4339d37d6ec17b2fc34) |
+| 2026-03-12 | Lei nº 15.355, de 2026 | [6a43b970039c](https://github.com/lexifina/brazil-law/commit/6a43b970039c08d676a9d04be83d3db4bfb8926e) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

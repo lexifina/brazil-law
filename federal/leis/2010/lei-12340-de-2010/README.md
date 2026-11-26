@@ -2,6 +2,16 @@
 
 L12340 · 1 versions, from 2026-03-12 (latest in force: 2026-03-12) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12340.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-12340-de-2010/` para `federal/leis/2010/lei-12340-de-2010/`). Histórico anterior: [commits em `lei-12340-de-2010/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-12340-de-2010). Ou / or `git log --follow -- federal/leis/2010/lei-12340-de-2010/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-12340-de-2010/`); earlier history: [commits under `lei-12340-de-2010/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-12340-de-2010).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2026-03-12 | Presidência da República, Planalto (Legislação) | [22ee77420a87](https://github.com/lexifina/brazil-law/commit/22ee77420a87efe57b735f80aa8725f9f612822f) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º-A | [art-001-a.md](art-001-a.md) | 0 |  |

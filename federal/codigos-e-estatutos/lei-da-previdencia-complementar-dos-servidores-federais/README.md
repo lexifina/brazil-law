@@ -2,6 +2,22 @@
 
 LFunpresp · 7 versions, from 2012-05-02 (latest in force: 2025-06-03) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12618.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-previdencia-complementar-dos-servidores-federais/` para `federal/codigos-e-estatutos/lei-da-previdencia-complementar-dos-servidores-federais/`). Histórico anterior: [commits em `lei-da-previdencia-complementar-dos-servidores-federais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-previdencia-complementar-dos-servidores-federais). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-previdencia-complementar-dos-servidores-federais/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-previdencia-complementar-dos-servidores-federais/`); earlier history: [commits under `lei-da-previdencia-complementar-dos-servidores-federais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-previdencia-complementar-dos-servidores-federais).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2012-05-02 | Lei nº 12.618, de 2012 | [0c6c70510c98](https://github.com/lexifina/brazil-law/commit/0c6c70510c98a370fc9e4f847c6defcc4e3281b0) |
+| 2012-09-21 | Lei nº 12.618, de 2012 | [93160f7389b1](https://github.com/lexifina/brazil-law/commit/93160f7389b16e94ea9db583fde12199dcc32b47) |
+| 2015-11-05 | Lei nº 13.183, de 2015 | [6091e8c02c6f](https://github.com/lexifina/brazil-law/commit/6091e8c02c6f8abb951bd3869859ac28ea559639) |
+| 2022-05-26 | Medida Provisória nº 1.119, de 2022 | [ca9b80664b4e](https://github.com/lexifina/brazil-law/commit/ca9b80664b4ef6db0fd1dbae62e84fa5fcaf688a) |
+| 2022-10-27 | Lei nº 14.463, de 2022 | [f896ef3218d9](https://github.com/lexifina/brazil-law/commit/f896ef3218d982aedb7986dc23ca1d3538aa32bc) |
+| 2024-12-31 | Medida Provisória nº 1.286, de 2024 | [3e8149a1b7a9](https://github.com/lexifina/brazil-law/commit/3e8149a1b7a90b7de8d1043b37a4079f822af227) |
+| 2025-06-03 | Medida Provisória nº 1.286, de 2024: vigência encerrada | [f728ef3e55d3](https://github.com/lexifina/brazil-law/commit/f728ef3e55d32ea25d6e2b47133f4c5c36bce2d9) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 2 | 2015-11-05 |

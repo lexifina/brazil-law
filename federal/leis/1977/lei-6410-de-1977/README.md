@@ -2,6 +2,16 @@
 
 L6410 · 1 versions, from 1977-04-19 (latest in force: 1977-04-19) · <https://www.planalto.gov.br/ccivil_03/leis/1970-1979/l6410.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-6410-de-1977/` para `federal/leis/1977/lei-6410-de-1977/`). Histórico anterior: [commits em `lei-6410-de-1977/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-6410-de-1977). Ou / or `git log --follow -- federal/leis/1977/lei-6410-de-1977/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-6410-de-1977/`); earlier history: [commits under `lei-6410-de-1977/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-6410-de-1977).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1977-04-19 | Presidência da República, Planalto (Legislação) | [8b15008a7ff0](https://github.com/lexifina/brazil-law/commit/8b15008a7ff044e916257e650ab2512f14e7cd22) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

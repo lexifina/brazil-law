@@ -2,6 +2,17 @@
 
 LArq · 2 versions, from 1991-01-09 (latest in force: 2012-05-16) · <https://www.planalto.gov.br/ccivil_03/leis/l8159.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-arquivos/` para `federal/codigos-e-estatutos/lei-de-arquivos/`). Histórico anterior: [commits em `lei-de-arquivos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-arquivos). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-arquivos/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-arquivos/`); earlier history: [commits under `lei-de-arquivos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-arquivos).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1991-01-09 | Lei nº 8.159, de 1991 | [cb1dcdd599bc](https://github.com/lexifina/brazil-law/commit/cb1dcdd599bcf5c0c141d385dbf7900b3ac4993a) |
+| 2012-05-16 | Lei nº 12.527, de 2011 | [92bd3215bb42](https://github.com/lexifina/brazil-law/commit/92bd3215bb427fdbc539ce2926ac3338214a4a94) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

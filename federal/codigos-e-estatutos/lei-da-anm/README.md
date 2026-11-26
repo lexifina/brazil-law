@@ -2,6 +2,20 @@
 
 LANM · 5 versions, from 2017-12-27 (latest in force: 2026-09-16) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13575.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-anm/` para `federal/codigos-e-estatutos/lei-da-anm/`). Histórico anterior: [commits em `lei-da-anm/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-anm). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-anm/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-anm/`); earlier history: [commits under `lei-da-anm/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-anm).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2017-12-27 | Lei nº 13.575, de 2017 | [dd18f8fd35e4](https://github.com/lexifina/brazil-law/commit/dd18f8fd35e44517c3ea0018401d5908e362ba4e) |
+| 2022-08-12 | Medida Provisória nº 1.133, de 2022 | [47d45003cef3](https://github.com/lexifina/brazil-law/commit/47d45003cef38b7e880e1d492c41dd3e73a6e8a9) |
+| 2022-12-30 | Lei nº 14.514, de 2022 | [16facff14ef0](https://github.com/lexifina/brazil-law/commit/16facff14ef04297851096dae3f4620438fd34ec) |
+| 2024-05-22 | Lei nº 14.514, de 2022 | [3eaaf64326a2](https://github.com/lexifina/brazil-law/commit/3eaaf64326a2a8e8aa82fdadac6ccc59fac744d3) |
+| 2026-09-16 | Lei nº 15.506, de 2026 | [075f317f28ff](https://github.com/lexifina/brazil-law/commit/075f317f28ff22dba712f9203050cde8772e2ab4) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

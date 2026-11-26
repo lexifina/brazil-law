@@ -2,6 +2,18 @@
 
 LC178 · 3 versions, from 2021-01-14 (latest in force: 2025-01-14) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp178.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-plano-de-equilibrio-fiscal/` para `federal/codigos-e-estatutos/lei-do-plano-de-equilibrio-fiscal/`). Histórico anterior: [commits em `lei-do-plano-de-equilibrio-fiscal/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-plano-de-equilibrio-fiscal). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-plano-de-equilibrio-fiscal/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-plano-de-equilibrio-fiscal/`); earlier history: [commits under `lei-do-plano-de-equilibrio-fiscal/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-plano-de-equilibrio-fiscal).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2021-01-14 | Lei Complementar nº 178, de 2021 | [ddb01b49302a](https://github.com/lexifina/brazil-law/commit/ddb01b49302ad738bffac3d550bb155518ee3b7d) |
+| 2021-05-07 | Lei Complementar nº 181, de 2021 | [9682067579d3](https://github.com/lexifina/brazil-law/commit/9682067579d304494b35557ff2f77f8f111e0c88) |
+| 2025-01-14 | Lei Complementar nº 212, de 2025 | [f5f946a0eaa2](https://github.com/lexifina/brazil-law/commit/f5f946a0eaa2cc707e2886d948fd430f17b8af84) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

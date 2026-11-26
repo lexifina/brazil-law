@@ -2,6 +2,16 @@
 
 L11145 · 1 versions, from 2015-03-26 (latest in force: 2015-03-26) · <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11145.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-11145-de-2005/` para `federal/leis/2005/lei-11145-de-2005/`). Histórico anterior: [commits em `lei-11145-de-2005/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-11145-de-2005). Ou / or `git log --follow -- federal/leis/2005/lei-11145-de-2005/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-11145-de-2005/`); earlier history: [commits under `lei-11145-de-2005/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-11145-de-2005).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2015-03-26 | Presidência da República, Planalto (Legislação) | [f07ec36a76f0](https://github.com/lexifina/brazil-law/commit/f07ec36a76f0b0bf91788426d2b37b5296cfc69e) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

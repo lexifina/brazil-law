@@ -2,6 +2,16 @@
 
 L8631 · 1 versions, from 2013-01-14 (latest in force: 2013-01-14) · <https://www.planalto.gov.br/ccivil_03/leis/l8631.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-8631-de-1993/` para `federal/leis/1993/lei-8631-de-1993/`). Histórico anterior: [commits em `lei-8631-de-1993/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8631-de-1993). Ou / or `git log --follow -- federal/leis/1993/lei-8631-de-1993/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-8631-de-1993/`); earlier history: [commits under `lei-8631-de-1993/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8631-de-1993).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2013-01-14 | Presidência da República, Planalto (Legislação) | [06e6373f3186](https://github.com/lexifina/brazil-law/commit/06e6373f3186fe975132a2c6984ec79019e71d36) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

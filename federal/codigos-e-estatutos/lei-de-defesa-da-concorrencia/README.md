@@ -2,6 +2,21 @@
 
 LDC · 6 versions, from 2012-05-29 (latest in force: 2022-11-17) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-defesa-da-concorrencia/` para `federal/codigos-e-estatutos/lei-de-defesa-da-concorrencia/`). Histórico anterior: [commits em `lei-de-defesa-da-concorrencia/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-defesa-da-concorrencia). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-defesa-da-concorrencia/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-defesa-da-concorrencia/`); earlier history: [commits under `lei-de-defesa-da-concorrencia/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-defesa-da-concorrencia).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2012-05-29 | Lei nº 12.529, de 2011 | [4dd622536f5a](https://github.com/lexifina/brazil-law/commit/4dd622536f5a649c5f9addbfc6b2027306418767) |
+| 2015-08-18 | Medida Provisória nº 687, de 2015 | [85e09f92b4db](https://github.com/lexifina/brazil-law/commit/85e09f92b4dbe1a65527d3a4c2ee848a4a8cc4ac) |
+| 2015-12-02 | Lei nº 13.196, de 2015 | [3cb57810e608](https://github.com/lexifina/brazil-law/commit/3cb57810e6080766d6f544445e633e68a3ce760e) |
+| 2016-01-01 | Lei nº 13.196, de 2015 | [a073a41f5fe1](https://github.com/lexifina/brazil-law/commit/a073a41f5fe131b0cf166f79d46327c16602d467) |
+| 2016-03-18 | Lei nº 13.105, de 2015 | [f95288529939](https://github.com/lexifina/brazil-law/commit/f952885299396fa02f4d170bf4f357b61098f387) |
+| 2022-11-17 | Lei nº 14.470, de 2022 | [9d2bcacb693b](https://github.com/lexifina/brazil-law/commit/9d2bcacb693b3cb6b0614125afbee6335209bd8e) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

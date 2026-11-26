@@ -2,6 +2,21 @@
 
 LOMAN · 6 versions, from 1979-05-13 (latest in force: 1993-04-29) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp35.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-organica-da-magistratura-nacional/` para `federal/codigos-e-estatutos/lei-organica-da-magistratura-nacional/`). Histórico anterior: [commits em `lei-organica-da-magistratura-nacional/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-organica-da-magistratura-nacional). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-organica-da-magistratura-nacional/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-organica-da-magistratura-nacional/`); earlier history: [commits under `lei-organica-da-magistratura-nacional/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-organica-da-magistratura-nacional).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1979-05-13 | Lei Complementar nº 35, de 1979 | [96d2d06e98db](https://github.com/lexifina/brazil-law/commit/96d2d06e98db16098e51b57fcfc8c9355a27ed0d) |
+| 1979-11-13 | Lei Complementar nº 37, de 1979 | [d2c2e62c9456](https://github.com/lexifina/brazil-law/commit/d2c2e62c945674b815d008e13ba5de8cda16a4ff) |
+| 1986-12-23 | Lei Complementar nº 54, de 1986 | [59c5aaf59814](https://github.com/lexifina/brazil-law/commit/59c5aaf59814e51dbb6944d5f2fd47089361ee8d) |
+| 1989-10-10 | Lei Complementar nº 60, de 1989 | [1433de5c989c](https://github.com/lexifina/brazil-law/commit/1433de5c989c17e256df4ebc1f1d38df05a592c8) |
+| 1990-03-27 | Resolução do Senado Federal nº 12, de 1990 | [660a8f8a6f68](https://github.com/lexifina/brazil-law/commit/660a8f8a6f68896e64c494f2339486a084e6e234) |
+| 1993-04-29 | Resolução do Senado Federal nº 31, de 1993 | [e94bd08b7371](https://github.com/lexifina/brazil-law/commit/e94bd08b7371c55c1faf670d2785b2ba840762a6) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

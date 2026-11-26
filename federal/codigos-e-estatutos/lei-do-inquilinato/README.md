@@ -2,6 +2,21 @@
 
 LInq · 6 versions, from 1991-12-20 (latest in force: 2012-12-20) · <https://www.planalto.gov.br/ccivil_03/leis/l8245.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-inquilinato/` para `federal/codigos-e-estatutos/lei-do-inquilinato/`). Histórico anterior: [commits em `lei-do-inquilinato/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-inquilinato). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-inquilinato/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-inquilinato/`); earlier history: [commits under `lei-do-inquilinato/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-inquilinato).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1991-12-20 | Lei nº 8.245, de 1991 | [85c07c9f8375](https://github.com/lexifina/brazil-law/commit/85c07c9f83754b91ffcb320ec391b6dc611e1ad7) |
+| 1996-01-10 | Lei nº 9.256, de 1996 | [582e88c59dfb](https://github.com/lexifina/brazil-law/commit/582e88c59dfb195f22c06fc15202977e625a54f3) |
+| 2001-09-05 | Medida Provisória nº 2.223, de 2001 | [c9282b20da96](https://github.com/lexifina/brazil-law/commit/c9282b20da96d007b09bb71b65cb2f63329f3bb3) |
+| 2006-01-01 | Lei nº 11.196, de 2005 | [88748a601689](https://github.com/lexifina/brazil-law/commit/88748a6016895e81d2f88d3ac37a64ce879d4740) |
+| 2010-01-24 | Lei nº 12.112, de 2009 | [68a78eb38a2d](https://github.com/lexifina/brazil-law/commit/68a78eb38a2da636559cb89936061afb7fe3f289) |
+| 2012-12-20 | Lei nº 12.744, de 2012 | [5604f0ca54bd](https://github.com/lexifina/brazil-law/commit/5604f0ca54bd5238bd1dbd09fbbbd630aac46e60) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

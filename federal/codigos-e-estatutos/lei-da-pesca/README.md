@@ -2,6 +2,16 @@
 
 LPesca · 1 versions, from 2009-08-29 (latest in force: 2009-08-29) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11959.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-pesca/` para `federal/codigos-e-estatutos/lei-da-pesca/`). Histórico anterior: [commits em `lei-da-pesca/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-pesca). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-pesca/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-pesca/`); earlier history: [commits under `lei-da-pesca/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-pesca).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2009-08-29 | Lei nº 11.959, de 2009 | [7b14484484d2](https://github.com/lexifina/brazil-law/commit/7b14484484d2a578531fc241b17717f283ed61e9) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

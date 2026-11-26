@@ -2,6 +2,16 @@
 
 L12034 · 1 versions, from 2009-09-30 (latest in force: 2009-09-30) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12034.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-12034-de-2009/` para `federal/leis/2009/lei-12034-de-2009/`). Histórico anterior: [commits em `lei-12034-de-2009/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-12034-de-2009). Ou / or `git log --follow -- federal/leis/2009/lei-12034-de-2009/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-12034-de-2009/`); earlier history: [commits under `lei-12034-de-2009/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-12034-de-2009).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2009-09-30 | Presidência da República, Planalto (Legislação) | [68d9db71c166](https://github.com/lexifina/brazil-law/commit/68d9db71c1669aeab1890994755d474cdd1e2792) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

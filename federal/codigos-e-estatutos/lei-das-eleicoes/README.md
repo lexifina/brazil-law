@@ -2,6 +2,41 @@
 
 LE · 21 versions, from 1997-10-01 (latest in force: 2025-10-03) · <https://www.planalto.gov.br/ccivil_03/leis/l9504.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-das-eleicoes/` para `federal/codigos-e-estatutos/lei-das-eleicoes/`). Histórico anterior: [commits em `lei-das-eleicoes/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-eleicoes). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-das-eleicoes/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-das-eleicoes/`); earlier history: [commits under `lei-das-eleicoes/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-eleicoes).
+
+<details><summary>22 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1997-10-01 | Lei nº 9.504, de 1997 | [e6a15bbc35fe](https://github.com/lexifina/brazil-law/commit/e6a15bbc35fe65e0669923ba43942bb0f4375da2) |
+| 1999-09-29 | Lei nº 9.840, de 1999 | [efabe3ac76b4](https://github.com/lexifina/brazil-law/commit/efabe3ac76b44319e65efec603a823ced5d66c13) |
+| 2002-01-11 | Lei nº 10.408, de 2002 | [4a22142522ea](https://github.com/lexifina/brazil-law/commit/4a22142522ea9b2bf2e1809bea768c94fd602ad3) |
+| 2003-10-02 | Lei nº 10.740, de 2003 | [e013870b303f](https://github.com/lexifina/brazil-law/commit/e013870b303f7bae8dd1e189fd79a4acc5c7d209) |
+| 2006-05-11 | Lei nº 11.300, de 2006 | [cad47877b996](https://github.com/lexifina/brazil-law/commit/cad47877b9961d7bfba3aa463237b332ad30e91a) |
+| 2009-09-30 | Lei nº 12.034, de 2009 | [a98dd69742cc](https://github.com/lexifina/brazil-law/commit/a98dd69742cc68948050e069a2192c0fc5eced04) |
+| 2010-12-21 | Lei nº 12.350, de 2010 | [22557b38d687](https://github.com/lexifina/brazil-law/commit/22557b38d6878a67f058ac195eae16ce9db5f954) |
+| 2013-10-31 | Lei nº 12.875, de 2013 | [a9602d2f7892](https://github.com/lexifina/brazil-law/commit/a9602d2f7892e9f2d985a710d92bfdad9c038653) |
+| 2013-12-12 | Lei nº 12.891, de 2013 | [516129215191](https://github.com/lexifina/brazil-law/commit/516129215191cea60349a5a397006dacb9cd261c) |
+| 2014-05-20 | Lei nº 12.976, de 2014 | [873a469c719b](https://github.com/lexifina/brazil-law/commit/873a469c719b00142e4f97f0fa7b0d3a5fe03623) |
+| 2015-03-25 | Lei nº 13.107, de 2015 | [18f7eca1fe88](https://github.com/lexifina/brazil-law/commit/18f7eca1fe88b6bd2e5f9c89fcc85c030bfea908) |
+| 2015-09-29 | Lei nº 13.165, de 2015 | [e3a6a0e44a25](https://github.com/lexifina/brazil-law/commit/e3a6a0e44a2547346a3dee534066b9aef55fcc8e) |
+| 2017-10-06 | Lei nº 13.487, de 2017 | [82bee503fd27](https://github.com/lexifina/brazil-law/commit/82bee503fd27c52376be1edab6c2cc414f5ea685) |
+| 2017-10-06 | Lei nº 13.488, de 2017 | [80a1cacb6bc9](https://github.com/lexifina/brazil-law/commit/80a1cacb6bc921f26a4dcbaea9b65878dd68c6e5) |
+| 2019-09-27 | Lei nº 13.877, de 2019 | [349e930212af](https://github.com/lexifina/brazil-law/commit/349e930212af303a1de1b1077092248ee2f95e62) |
+| 2019-10-03 | Lei nº 13.878, de 2019 | [48142f1056c0](https://github.com/lexifina/brazil-law/commit/48142f1056c02bb192c21b8cdee2149e30d98624) |
+| 2021-08-05 | Lei nº 14.192, de 2021 | [72a70be6f4e7](https://github.com/lexifina/brazil-law/commit/72a70be6f4e7f19d50890cb48cb194dd180bea77) |
+| 2021-09-29 | Lei nº 14.208, de 2021 | [cee5532eb49d](https://github.com/lexifina/brazil-law/commit/cee5532eb49dcaf9d4bf60ea7f30d4211a431de0) |
+| 2021-10-01 | Lei nº 14.211, de 2021 | [254456c0f110](https://github.com/lexifina/brazil-law/commit/254456c0f11092f32296cfc82e7a74648bf2c35b) |
+| 2022-06-01 | Lei nº 14.356, de 2022 | [e78443bb731c](https://github.com/lexifina/brazil-law/commit/e78443bb731c4a26c27eeaa07992bd664fc8116a) |
+| 2025-09-30 | Lei Complementar nº 219, de 2025 | [875b7452e45e](https://github.com/lexifina/brazil-law/commit/875b7452e45e448b510bca0a11f14c0bcca06ce8) |
+| 2025-10-03 | Lei nº 15.230, de 2025 | [4b2b606192b0](https://github.com/lexifina/brazil-law/commit/4b2b606192b015601b381b2569c19396ea75454d) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

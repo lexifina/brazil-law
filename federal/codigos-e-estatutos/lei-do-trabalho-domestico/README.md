@@ -2,6 +2,17 @@
 
 LCTD · 2 versions, from 2015-06-02 (latest in force: 2026-07-02) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-trabalho-domestico/` para `federal/codigos-e-estatutos/lei-do-trabalho-domestico/`). Histórico anterior: [commits em `lei-do-trabalho-domestico/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-trabalho-domestico). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-trabalho-domestico/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-trabalho-domestico/`); earlier history: [commits under `lei-do-trabalho-domestico/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-trabalho-domestico).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2015-06-02 | Lei Complementar nº 150, de 2015 | [dd2dca469ea7](https://github.com/lexifina/brazil-law/commit/dd2dca469ea7b0a1f8e6fc2b95d305aa2a490488) |
+| 2026-07-02 | Lei nº 15.455, de 2026 | [4dcd7536f633](https://github.com/lexifina/brazil-law/commit/4dcd7536f633bd68e95f6344376e2300a2ecdd00) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

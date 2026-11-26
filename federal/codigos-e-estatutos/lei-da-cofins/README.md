@@ -2,6 +2,18 @@
 
 LCofins · 4 versions, from 1992-04-01 (latest in force: 2016-11-04) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp70.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-cofins/` para `federal/codigos-e-estatutos/lei-da-cofins/`). Histórico anterior: [commits em `lei-da-cofins/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-cofins). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-cofins/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-cofins/`); earlier history: [commits under `lei-da-cofins/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-cofins).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1992-04-01 | Lei Complementar nº 70, de 1991 | [c903e77fae2c](https://github.com/lexifina/brazil-law/commit/c903e77fae2c38cc3c75dedd41cfc782066aede6) |
+| 2001-08-27 | Medida Provisória nº 2.158, de 2001 | [8551c34588c4](https://github.com/lexifina/brazil-law/commit/8551c34588c403759527bd1bc01e80d3b95472aa) |
+| 2016-11-04 | Lei nº 13.353, de 2016 | [f0e7df6b921a](https://github.com/lexifina/brazil-law/commit/f0e7df6b921a1191324f3d3374dd9a7319687be1) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2027-01-01 |

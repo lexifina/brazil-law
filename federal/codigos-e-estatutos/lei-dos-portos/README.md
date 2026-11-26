@@ -2,6 +2,22 @@
 
 LPortos · 7 versions, from 2013-06-05 (latest in force: 2022-02-06) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12815.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-dos-portos/` para `federal/codigos-e-estatutos/lei-dos-portos/`). Histórico anterior: [commits em `lei-dos-portos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-portos). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-dos-portos/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-dos-portos/`); earlier history: [commits under `lei-dos-portos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-portos).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2013-06-05 | Lei nº 12.815, de 2013 | [f77c5aad0504](https://github.com/lexifina/brazil-law/commit/f77c5aad050415f9d490b4cf4fc20f2c7c3adb17) |
+| 2019-05-03 | Medida Provisória nº 882, de 2019 | [6ab7466459c0](https://github.com/lexifina/brazil-law/commit/6ab7466459c0d50747fe7da3edca0c4a32e40179) |
+| 2019-08-31 | Medida Provisória nº 882, de 2019: vigência encerrada | [87f445949ba4](https://github.com/lexifina/brazil-law/commit/87f445949ba480f03ef30d657e385c6fef0ebd27) |
+| 2020-04-04 | Medida Provisória nº 945, de 2020 | [116cce51874f](https://github.com/lexifina/brazil-law/commit/116cce51874fa0b874620562215eafd6e3aa1821) |
+| 2020-08-25 | Lei nº 14.047, de 2020 | [e5d3e07088d9](https://github.com/lexifina/brazil-law/commit/e5d3e07088d9307eaf3139943bf516aa61cb60a5) |
+| 2022-01-07 | Lei nº 14.301, de 2022 | [f22e993e2aaf](https://github.com/lexifina/brazil-law/commit/f22e993e2aafffa97980f023efa320146d7f7518) |
+| 2022-02-06 | Lei nº 14.273, de 2021 | [8ca91ef8d2b4](https://github.com/lexifina/brazil-law/commit/8ca91ef8d2b4a0e4ca17b9435928be0574d8a1eb) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

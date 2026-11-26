@@ -2,6 +2,16 @@
 
 LC51 · 1 versions, from 2015-12-04 (latest in force: 2015-12-04) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp51.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-complementar-51-de-1985/` para `federal/leis-complementares/lei-complementar-51-de-1985/`). Histórico anterior: [commits em `lei-complementar-51-de-1985/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-complementar-51-de-1985). Ou / or `git log --follow -- federal/leis-complementares/lei-complementar-51-de-1985/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-complementar-51-de-1985/`); earlier history: [commits under `lei-complementar-51-de-1985/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-complementar-51-de-1985).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2015-12-04 | Presidência da República, Planalto (Legislação) | [ada2a2a436a7](https://github.com/lexifina/brazil-law/commit/ada2a2a436a79ddc0a87bacaef9426d7e04814bb) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

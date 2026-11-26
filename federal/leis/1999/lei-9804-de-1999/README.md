@@ -2,6 +2,16 @@
 
 L9804 · 1 versions, from 1999-07-02 (latest in force: 1999-07-02) · <https://www.planalto.gov.br/ccivil_03/leis/l9804.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-9804-de-1999/` para `federal/leis/1999/lei-9804-de-1999/`). Histórico anterior: [commits em `lei-9804-de-1999/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-9804-de-1999). Ou / or `git log --follow -- federal/leis/1999/lei-9804-de-1999/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-9804-de-1999/`); earlier history: [commits under `lei-9804-de-1999/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-9804-de-1999).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1999-07-02 | Presidência da República, Planalto (Legislação) | [778736fb1bc7](https://github.com/lexifina/brazil-law/commit/778736fb1bc7fd6cc6b1ac5fc3b7b76a740ac8c7) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

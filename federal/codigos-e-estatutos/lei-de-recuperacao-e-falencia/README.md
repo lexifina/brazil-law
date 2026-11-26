@@ -2,6 +2,24 @@
 
 LRF · 9 versions, from 2005-06-09 (latest in force: 2021-03-26) · <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101compilado.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-recuperacao-e-falencia/` para `federal/codigos-e-estatutos/lei-de-recuperacao-e-falencia/`). Histórico anterior: [commits em `lei-de-recuperacao-e-falencia/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-recuperacao-e-falencia). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-recuperacao-e-falencia/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-recuperacao-e-falencia/`); earlier history: [commits under `lei-de-recuperacao-e-falencia/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-recuperacao-e-falencia).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2005-06-09 | Lei nº 11.101, de 2005 | [68db7ab26f96](https://github.com/lexifina/brazil-law/commit/68db7ab26f9633ba1f42ec8635a1bd9fa31f3d6a) |
+| 2005-06-29 | Lei nº 11.127, de 2005 | [af65691d1caf](https://github.com/lexifina/brazil-law/commit/af65691d1caf9d7ed67585b11a168a8f00c243a9) |
+| 2005-11-22 | Lei nº 11.196, de 2005 | [032d8dfb7a6d](https://github.com/lexifina/brazil-law/commit/032d8dfb7a6d3eff797deefa72ea2d8c0747e4d5) |
+| 2013-10-25 | Lei nº 12.873, de 2013 | [992065db00cb](https://github.com/lexifina/brazil-law/commit/992065db00cb3d7f4f226004648d6ec955d963e4) |
+| 2014-08-08 | Lei Complementar nº 147, de 2014 | [8a8876fc1baa](https://github.com/lexifina/brazil-law/commit/8a8876fc1baa0f02c7c468cc0e263147b146c383) |
+| 2019-04-30 | Medida Provisória nº 881, de 2019 | [3194ab705a93](https://github.com/lexifina/brazil-law/commit/3194ab705a936a6674788cada1e07ceb5b5921bf) |
+| 2019-09-20 | Lei nº 13.874, de 2019 | [05581d7a64f0](https://github.com/lexifina/brazil-law/commit/05581d7a64f064377bef4a071ba9e6b8f2551ec0) |
+| 2021-01-23 | Lei nº 14.112, de 2020 | [f81a84421ec0](https://github.com/lexifina/brazil-law/commit/f81a84421ec07b972fcb24d76e593c9608df722f) |
+| 2021-03-26 | Lei nº 14.112, de 2020 | [5664bdac8f64](https://github.com/lexifina/brazil-law/commit/5664bdac8f646d09ebf2983694c55bb4163f2b76) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

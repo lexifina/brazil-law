@@ -2,6 +2,19 @@
 
 LC141 · 4 versions, from 2012-01-16 (latest in force: 2026-08-07) · <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp141.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-financiamento-da-saude/` para `federal/codigos-e-estatutos/lei-do-financiamento-da-saude/`). Histórico anterior: [commits em `lei-do-financiamento-da-saude/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-financiamento-da-saude). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-financiamento-da-saude/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-financiamento-da-saude/`); earlier history: [commits under `lei-do-financiamento-da-saude/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-financiamento-da-saude).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2012-01-16 | Lei Complementar nº 141, de 2012 | [1ae70eab08c0](https://github.com/lexifina/brazil-law/commit/1ae70eab08c0eba52527df0fb814692866f57697) |
+| 2024-10-04 | Lei Complementar nº 209, de 2024 | [1aa512e7a995](https://github.com/lexifina/brazil-law/commit/1aa512e7a9959773e25d0c3d90f0679806a44693) |
+| 2026-01-14 | Lei Complementar nº 227, de 2026 | [00c670d3a447](https://github.com/lexifina/brazil-law/commit/00c670d3a447b7d19a8e3f9f1251faec73022e00) |
+| 2026-08-07 | Lei Complementar nº 234, de 2026 | [d2a576cf5fb9](https://github.com/lexifina/brazil-law/commit/d2a576cf5fb9eb9b7aac82e57fd5d8e3f9dbfdf3) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

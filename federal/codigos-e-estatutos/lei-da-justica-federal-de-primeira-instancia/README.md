@@ -2,6 +2,24 @@
 
 LJF · 9 versions, from 1966-06-01 (latest in force: 2020-01-01) · <https://www.planalto.gov.br/ccivil_03/leis/l5010.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-justica-federal-de-primeira-instancia/` para `federal/codigos-e-estatutos/lei-da-justica-federal-de-primeira-instancia/`). Histórico anterior: [commits em `lei-da-justica-federal-de-primeira-instancia/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-justica-federal-de-primeira-instancia). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-justica-federal-de-primeira-instancia/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-justica-federal-de-primeira-instancia/`); earlier history: [commits under `lei-da-justica-federal-de-primeira-instancia/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-justica-federal-de-primeira-instancia).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1966-06-01 | Lei nº 5.010, de 1966 | [85b2830735ba](https://github.com/lexifina/brazil-law/commit/85b2830735bab75bd9e03c6f878fa9b276989ec1) |
+| 1966-11-18 | Decreto-Lei nº 30, de 1966 | [151b98f7e0c0](https://github.com/lexifina/brazil-law/commit/151b98f7e0c0cac2af72d86aebad81d99927e491) |
+| 1967-02-28 | Decreto-Lei nº 253, de 1967 | [36d40d03014f](https://github.com/lexifina/brazil-law/commit/36d40d03014f470869647d496152f7f48fe4af9f) |
+| 1967-11-07 | Lei nº 5.345, de 1967 | [5dce7cc17749](https://github.com/lexifina/brazil-law/commit/5dce7cc17749c75141a72295605467729967f57f) |
+| 1979-12-06 | Lei nº 6.741, de 1979 | [70c31ea08058](https://github.com/lexifina/brazil-law/commit/70c31ea0805885745da9891a3a15c32f61a24e76) |
+| 1987-04-09 | Lei nº 7.595, de 1987 | [d092b2d2e05b](https://github.com/lexifina/brazil-law/commit/d092b2d2e05ba1f69019c30e52bb498eb9d0d848) |
+| 2003-11-24 | Lei nº 10.772, de 2003 | [b896acd33b45](https://github.com/lexifina/brazil-law/commit/b896acd33b45421b24883d9475952252d20e1114) |
+| 2014-11-14 | Lei nº 13.043, de 2014 | [fd3c413ec92b](https://github.com/lexifina/brazil-law/commit/fd3c413ec92bed13f7eb4caebec1d7a0661493af) |
+| 2020-01-01 | Lei nº 13.876, de 2019 | [19a815651a32](https://github.com/lexifina/brazil-law/commit/19a815651a3255cdd2366c3dfc8195abab8a5840) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

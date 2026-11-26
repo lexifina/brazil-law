@@ -2,6 +2,21 @@
 
 LDup · 6 versions, from 1968-08-18 (latest in force: 2022-01-07) · <https://www.planalto.gov.br/ccivil_03/leis/l5474.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-das-duplicatas/` para `federal/codigos-e-estatutos/lei-das-duplicatas/`). Histórico anterior: [commits em `lei-das-duplicatas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-duplicatas). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-das-duplicatas/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-das-duplicatas/`); earlier history: [commits under `lei-das-duplicatas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-duplicatas).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1968-08-18 | Lei nº 5.474, de 1968 | [7db95f5b036a](https://github.com/lexifina/brazil-law/commit/7db95f5b036a892cde6ed3e96aad49fcf91c359c) |
+| 1969-01-27 | Decreto-Lei nº 436, de 1969 | [639162738581](https://github.com/lexifina/brazil-law/commit/6391627385811716d9520af8f1053cb283c7ee8c) |
+| 1977-11-03 | Lei nº 6.458, de 1977 | [5524369d8f97](https://github.com/lexifina/brazil-law/commit/5524369d8f974404352945fe7093d0a888b04dd2) |
+| 2021-05-19 | Medida Provisória nº 1.051, de 2021 | [86282114c059](https://github.com/lexifina/brazil-law/commit/86282114c05945dfd34283535d8776d4dc9c5778) |
+| 2021-09-28 | Lei nº 14.206, de 2021 | [2359b8cae0e3](https://github.com/lexifina/brazil-law/commit/2359b8cae0e3f962416b2a51baa0134c69c9730c) |
+| 2022-01-07 | Lei nº 14.301, de 2022 | [f22e993e2aaf](https://github.com/lexifina/brazil-law/commit/f22e993e2aafffa97980f023efa320146d7f7518) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 1969-01-27 |

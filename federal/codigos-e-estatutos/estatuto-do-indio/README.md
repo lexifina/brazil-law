@@ -2,6 +2,17 @@
 
 EInd · 2 versions, from 1973-12-21 (latest in force: 2023-12-28) · <https://www.planalto.gov.br/ccivil_03/leis/l6001.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `estatuto-do-indio/` para `federal/codigos-e-estatutos/estatuto-do-indio/`). Histórico anterior: [commits em `estatuto-do-indio/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-do-indio). Ou / or `git log --follow -- federal/codigos-e-estatutos/estatuto-do-indio/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `estatuto-do-indio/`); earlier history: [commits under `estatuto-do-indio/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-do-indio).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1973-12-21 | Lei nº 6.001, de 1973 | [0cfa4ed850fc](https://github.com/lexifina/brazil-law/commit/0cfa4ed850fc2d6106cea4ceae5447c9e2e1903c) |
+| 2023-12-28 | Lei nº 14.701, de 2023 | [def31ef5226d](https://github.com/lexifina/brazil-law/commit/def31ef5226d914bd35c2e93f21d1411a2459d88) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

@@ -2,6 +2,35 @@
 
 LPReal · 16 versions, from 1995-06-30 (latest in force: 2023-06-20) · <https://www.planalto.gov.br/ccivil_03/leis/l9069.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-plano-real/` para `federal/codigos-e-estatutos/lei-do-plano-real/`). Histórico anterior: [commits em `lei-do-plano-real/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-plano-real). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-plano-real/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-plano-real/`); earlier history: [commits under `lei-do-plano-real/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-plano-real).
+
+<details><summary>16 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1995-06-30 | Lei nº 9.069, de 1995 | [3b0c0c145d52](https://github.com/lexifina/brazil-law/commit/3b0c0c145d5259cba9cc6584574ba55abfac1fac) |
+| 2001-09-01 | Medida Provisória nº 2.216, de 2001 | [ccf5d7671540](https://github.com/lexifina/brazil-law/commit/ccf5d7671540b6de47c8cf7f6976d6908ec5a5cf) |
+| 2006-08-25 | Medida Provisória nº 320, de 2006 | [18d535efe83d](https://github.com/lexifina/brazil-law/commit/18d535efe83de50a5e8763b60cb9d3e72ad88ce6) |
+| 2006-12-13 | Medida Provisória nº 320, de 2006: vigência encerrada | [aefa285993d2](https://github.com/lexifina/brazil-law/commit/aefa285993d23e8ed3429617bbfb8621e8201ec0) |
+| 2013-10-10 | Lei nº 12.865, de 2013 | [d42e38ae44e0](https://github.com/lexifina/brazil-law/commit/d42e38ae44e0a1cdf42d4d4cbcfb0a4c8a16a470) |
+| 2017-06-08 | Medida Provisória nº 784, de 2017 | [edbaf3e05af2](https://github.com/lexifina/brazil-law/commit/edbaf3e05af27dd1a117ebad2bc73c5160bc0313) |
+| 2017-10-20 | Medida Provisória nº 784, de 2017: vigência encerrada | [b93ebb09d098](https://github.com/lexifina/brazil-law/commit/b93ebb09d098287a6c57478533b699f44b386653) |
+| 2017-11-14 | Lei nº 13.506, de 2017 | [c97629650a99](https://github.com/lexifina/brazil-law/commit/c97629650a999a4f1ced22eb9af7e307df89f08e) |
+| 2019-01-01 | Medida Provisória nº 870, de 2019 | [3550b43a2ed1](https://github.com/lexifina/brazil-law/commit/3550b43a2ed1c56dd1a079e64745ba8abbb2ba2f) |
+| 2019-06-18 | Lei nº 13.844, de 2019 | [37689fc2b89d](https://github.com/lexifina/brazil-law/commit/37689fc2b89dc5a52e8e312e0a340187f596d140) |
+| 2019-07-01 | Lei nº 13.820, de 2019 | [6700ed1246b5](https://github.com/lexifina/brazil-law/commit/6700ed1246b5d8f218575d4baa68c6161094d68c) |
+| 2021-02-25 | Lei Complementar nº 179, de 2021 | [0fbc9d8151b2](https://github.com/lexifina/brazil-law/commit/0fbc9d8151b20e51bc398773bad0eefde2436be3) |
+| 2022-12-30 | Lei nº 14.286, de 2021 | [b123a0719f8e](https://github.com/lexifina/brazil-law/commit/b123a0719f8e6b9c45d416b069b3eb4f54719b38) |
+| 2023-01-12 | Medida Provisória nº 1.158, de 2023 | [dc8d748bafa5](https://github.com/lexifina/brazil-law/commit/dc8d748bafa59832cb2ee736b723c9b78f6b2f0f) |
+| 2023-06-02 | Medida Provisória nº 1.158, de 2023: vigência encerrada | [66fad1dba602](https://github.com/lexifina/brazil-law/commit/66fad1dba60244c5bb4dbc9990cb524abca2470b) |
+| 2023-06-20 | Lei nº 14.600, de 2023 | [ca74d84a9855](https://github.com/lexifina/brazil-law/commit/ca74d84a9855639c8d1b84c9d95ab1e74b4aebb5) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

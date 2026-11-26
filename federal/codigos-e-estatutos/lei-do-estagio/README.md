@@ -2,6 +2,17 @@
 
 LEst · 2 versions, from 2008-09-26 (latest in force: 2024-07-04) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-estagio/` para `federal/codigos-e-estatutos/lei-do-estagio/`). Histórico anterior: [commits em `lei-do-estagio/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-estagio). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-estagio/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-estagio/`); earlier history: [commits under `lei-do-estagio/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-estagio).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2008-09-26 | Lei nº 11.788, de 2008 | [eb25fb1f09cc](https://github.com/lexifina/brazil-law/commit/eb25fb1f09ccdde6067532da8551f83174dc1143) |
+| 2024-07-04 | Lei nº 14.913, de 2024 | [9fd1a3e20ed8](https://github.com/lexifina/brazil-law/commit/9fd1a3e20ed84f79f358be4a280646bfb09442b9) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

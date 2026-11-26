@@ -2,6 +2,21 @@
 
 LOC · 6 versions, from 2013-09-19 (latest in force: 2026-08-07) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-das-organizacoes-criminosas/` para `federal/codigos-e-estatutos/lei-das-organizacoes-criminosas/`). Histórico anterior: [commits em `lei-das-organizacoes-criminosas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-organizacoes-criminosas). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-das-organizacoes-criminosas/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-das-organizacoes-criminosas/`); earlier history: [commits under `lei-das-organizacoes-criminosas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-organizacoes-criminosas).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2013-09-19 | Lei nº 12.850, de 2013 | [db3bbfc15b00](https://github.com/lexifina/brazil-law/commit/db3bbfc15b0098efeeb75efa93d72379b08ab009) |
+| 2015-01-20 | Lei nº 13.097, de 2015 | [c4c952840115](https://github.com/lexifina/brazil-law/commit/c4c952840115d3d3c22194aef9012c2221568fd5) |
+| 2016-03-17 | Lei nº 13.260, de 2016 | [bc59cc677590](https://github.com/lexifina/brazil-law/commit/bc59cc6775907a68a0cb54eaa767bd6e83020c01) |
+| 2020-01-23 | Lei nº 13.964, de 2019 | [f3df9ed35bd8](https://github.com/lexifina/brazil-law/commit/f3df9ed35bd8daceb07551d0b24540465e1f2cbb) |
+| 2025-10-30 | Lei nº 15.245, de 2025 | [a9db68fd79b4](https://github.com/lexifina/brazil-law/commit/a9db68fd79b447dc90ccd87f120d184028e938cb) |
+| 2026-08-07 | Lei nº 15.487, de 2026 | [d7f2d5492925](https://github.com/lexifina/brazil-law/commit/d7f2d5492925aefd6f8ba4425e62178d57e189d1) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2016-03-17 |

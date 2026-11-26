@@ -2,6 +2,16 @@
 
 DL822 · 1 versions, from 1969-09-05 (latest in force: 1969-09-05) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0822.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-822-de-1969/` para `federal/decretos-leis/1969/decreto-lei-822-de-1969/`). Histórico anterior: [commits em `decreto-lei-822-de-1969/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-822-de-1969). Ou / or `git log --follow -- federal/decretos-leis/1969/decreto-lei-822-de-1969/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-822-de-1969/`); earlier history: [commits under `decreto-lei-822-de-1969/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-822-de-1969).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1969-09-05 | Presidência da República, Planalto (Legislação) | [7a15869cbfc3](https://github.com/lexifina/brazil-law/commit/7a15869cbfc35fad93a24d6e767f31da201e9668) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

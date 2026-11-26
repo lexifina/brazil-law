@@ -2,6 +2,39 @@
 
 LSD · 20 versions, from 1990-01-12 (latest in force: 2026-07-02) · <https://www.planalto.gov.br/ccivil_03/leis/l7998.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-seguro-desemprego/` para `federal/codigos-e-estatutos/lei-do-seguro-desemprego/`). Histórico anterior: [commits em `lei-do-seguro-desemprego/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-seguro-desemprego). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-seguro-desemprego/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-seguro-desemprego/`); earlier history: [commits under `lei-do-seguro-desemprego/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-seguro-desemprego).
+
+<details><summary>20 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1990-01-12 | Lei nº 7.998, de 1990 | [dfa803cfbebf](https://github.com/lexifina/brazil-law/commit/dfa803cfbebf453701f9506de89e04463fc5259e) |
+| 1990-04-12 | Lei nº 8.019, de 1990 | [6742c491fa90](https://github.com/lexifina/brazil-law/commit/6742c491fa902e7d706496958df1222dbfbd8e08) |
+| 1994-07-01 | Lei nº 8.900, de 1994 | [6bd9470fa6b3](https://github.com/lexifina/brazil-law/commit/6bd9470fa6b3a4fbce361ba83fe7f3a416688d90) |
+| 2001-08-27 | Medida Provisória nº 2.164, de 2001 | [4041903d7352](https://github.com/lexifina/brazil-law/commit/4041903d73525d218e1496e7ae54659c3f021119) |
+| 2001-09-01 | Medida Provisória nº 2.216, de 2001 | [ccf5d7671540](https://github.com/lexifina/brazil-law/commit/ccf5d7671540b6de47c8cf7f6976d6908ec5a5cf) |
+| 2002-12-23 | Lei nº 10.608, de 2002 | [468f3356ea8f](https://github.com/lexifina/brazil-law/commit/468f3356ea8f8c9e108baa5b1447813260ed20de) |
+| 2011-10-27 | Lei nº 12.513, de 2011 | [c2640087cdfe](https://github.com/lexifina/brazil-law/commit/c2640087cdfe460a358204b56c65806dd43f5ac7) |
+| 2012-04-18 | Lei nº 12.594, de 2012 | [3c37baf1d00a](https://github.com/lexifina/brazil-law/commit/3c37baf1d00ac399fa8fb3aa93b97e1ed14ce924) |
+| 2014-12-30 | Medida Provisória nº 665, de 2014 | [04888e5ede5b](https://github.com/lexifina/brazil-law/commit/04888e5ede5b68e9e4eafffe4d73fcea2b6ff9d2) |
+| 2015-02-28 | Medida Provisória nº 665, de 2014 | [be44a90c1a0f](https://github.com/lexifina/brazil-law/commit/be44a90c1a0fa58f75fda261e1be3606e5ad5a84) |
+| 2015-06-17 | Lei nº 13.134, de 2015 | [7fa8da4ea68e](https://github.com/lexifina/brazil-law/commit/7fa8da4ea68ec87fd8d17065eada8fc8c67ef012) |
+| 2018-01-01 | Lei Complementar nº 155, de 2016 | [d8c32e96856b](https://github.com/lexifina/brazil-law/commit/d8c32e96856bd3066282425aae393da96ab00dd4) |
+| 2019-11-12 | Medida Provisória nº 905, de 2019 | [fa04bdd1ca8a](https://github.com/lexifina/brazil-law/commit/fa04bdd1ca8a43589a61c7ecb304e81517de0c8d) |
+| 2020-03-01 | Medida Provisória nº 905, de 2019 | [76d203c81922](https://github.com/lexifina/brazil-law/commit/76d203c819221b06fba1de53acd4b213f093a8d7) |
+| 2020-04-20 | Medida Provisória nº 955, de 2020 | [37d496435271](https://github.com/lexifina/brazil-law/commit/37d496435271e12445534b28576d54f207cea9d5) |
+| 2020-08-18 | Medida Provisória nº 955, de 2020: vigência encerrada | [19f497786eb1](https://github.com/lexifina/brazil-law/commit/19f497786eb15c10da37ce88feeea610b7321573) |
+| 2020-08-19 | Medida Provisória nº 905, de 2019: vigência encerrada | [460cafccba32](https://github.com/lexifina/brazil-law/commit/460cafccba32788c86a3b8d639d6236b3aaa2a6d) |
+| 2021-12-17 | Lei nº 14.261, de 2021 | [1ffdcaa50014](https://github.com/lexifina/brazil-law/commit/1ffdcaa5001479ee654516c43efefbef48268152) |
+| 2025-09-12 | Lei nº 15.203, de 2025 | [42df8bff3810](https://github.com/lexifina/brazil-law/commit/42df8bff38101a02fdac08320de098432cd6a522) |
+| 2026-07-02 | Lei nº 15.455, de 2026 | [4dcd7536f633](https://github.com/lexifina/brazil-law/commit/4dcd7536f633bd68e95f6344376e2300a2ecdd00) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

@@ -2,6 +2,17 @@
 
 LTomb · 2 versions, from 1937-12-09 (latest in force: 2016-03-18) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0025.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-tombamento/` para `federal/codigos-e-estatutos/lei-do-tombamento/`). Histórico anterior: [commits em `lei-do-tombamento/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-tombamento). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-tombamento/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-tombamento/`); earlier history: [commits under `lei-do-tombamento/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-tombamento).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1937-12-09 | Decreto-Lei nº 25, de 1937 | [317371f5dd98](https://github.com/lexifina/brazil-law/commit/317371f5dd98c4589cbfac343fba71ad40cff145) |
+| 2016-03-18 | Lei nº 13.105, de 2015 | [f95288529939](https://github.com/lexifina/brazil-law/commit/f952885299396fa02f4d170bf4f357b61098f387) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

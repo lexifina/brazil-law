@@ -2,6 +2,17 @@
 
 LMed · 2 versions, from 2015-12-26 (latest in force: 2016-08-01) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-mediacao/` para `federal/codigos-e-estatutos/lei-de-mediacao/`). Histórico anterior: [commits em `lei-de-mediacao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-mediacao). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-mediacao/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-mediacao/`); earlier history: [commits under `lei-de-mediacao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-mediacao).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2015-12-26 | Lei nº 13.140, de 2015 | [e6db3a53f33f](https://github.com/lexifina/brazil-law/commit/e6db3a53f33f054de8c5c61aa9626f68605df9c8) |
+| 2016-08-01 | Lei nº 13.327, de 2016 | [6c27c940e803](https://github.com/lexifina/brazil-law/commit/6c27c940e803ee25bc523e8002836be6d380551c) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

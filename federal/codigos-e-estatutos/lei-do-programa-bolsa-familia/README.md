@@ -2,6 +2,19 @@
 
 LPBF · 4 versions, from 2023-06-20 (latest in force: 2026-02-13) · <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-programa-bolsa-familia/` para `federal/codigos-e-estatutos/lei-do-programa-bolsa-familia/`). Histórico anterior: [commits em `lei-do-programa-bolsa-familia/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-programa-bolsa-familia). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-programa-bolsa-familia/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-programa-bolsa-familia/`); earlier history: [commits under `lei-do-programa-bolsa-familia/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-programa-bolsa-familia).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2023-06-20 | Lei nº 14.601, de 2023 | [5e48728a4f35](https://github.com/lexifina/brazil-law/commit/5e48728a4f35ddc19e43de56a7d981c8f65b235d) |
+| 2024-01-01 | Lei nº 14.601, de 2023 | [46b9846a10ac](https://github.com/lexifina/brazil-law/commit/46b9846a10acf6e2457306a2be748b081f39e6ad) |
+| 2024-12-27 | Lei nº 15.077, de 2024 | [3d5cafdbe023](https://github.com/lexifina/brazil-law/commit/3d5cafdbe023391fd2e707d9a3b5569d7f0a2b14) |
+| 2026-02-13 | Lei nº 15.348, de 2026 | [7d0a482f8b15](https://github.com/lexifina/brazil-law/commit/7d0a482f8b15c6533213994039b5c5570dcf6ad8) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

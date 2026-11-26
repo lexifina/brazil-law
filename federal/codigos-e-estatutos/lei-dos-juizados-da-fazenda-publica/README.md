@@ -2,6 +2,16 @@
 
 LJEFP · 1 versions, from 2010-06-24 (latest in force: 2010-06-24) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-dos-juizados-da-fazenda-publica/` para `federal/codigos-e-estatutos/lei-dos-juizados-da-fazenda-publica/`). Histórico anterior: [commits em `lei-dos-juizados-da-fazenda-publica/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-juizados-da-fazenda-publica). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-dos-juizados-da-fazenda-publica/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-dos-juizados-da-fazenda-publica/`); earlier history: [commits under `lei-dos-juizados-da-fazenda-publica/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-juizados-da-fazenda-publica).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2010-06-24 | Lei nº 12.153, de 2009 | [cb53e9df2016](https://github.com/lexifina/brazil-law/commit/cb53e9df20161b9407a1305678dfe33755f428c7) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

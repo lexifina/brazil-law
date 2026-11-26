@@ -2,6 +2,22 @@
 
 LIS · 7 versions, from 1977-08-24 (latest in force: 2023-09-12) · <https://www.planalto.gov.br/ccivil_03/leis/l6437.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-das-infracoes-sanitarias/` para `federal/codigos-e-estatutos/lei-das-infracoes-sanitarias/`). Histórico anterior: [commits em `lei-das-infracoes-sanitarias/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-infracoes-sanitarias). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-das-infracoes-sanitarias/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-das-infracoes-sanitarias/`); earlier history: [commits under `lei-das-infracoes-sanitarias/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-infracoes-sanitarias).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1977-08-24 | Lei nº 6.437, de 1977 | [99b4bda82feb](https://github.com/lexifina/brazil-law/commit/99b4bda82feb82dd85b675d0826ba0175b746aa8) |
+| 1989-11-30 | Medida Provisória nº 116, de 1989 | [02e2ca42dfa8](https://github.com/lexifina/brazil-law/commit/02e2ca42dfa8a2f604c176582f94470d77c8bc64) |
+| 1995-03-17 | Lei nº 9.005, de 1995 | [4c48ee664759](https://github.com/lexifina/brazil-law/commit/4c48ee66475994fe6e8efe771c96c938d840825b) |
+| 1998-08-21 | Lei nº 9.695, de 1998 | [2e63b9794e74](https://github.com/lexifina/brazil-law/commit/2e63b9794e744942a8c949bb1dcfcae7391d42eb) |
+| 2001-08-24 | Medida Provisória nº 2.190, de 2001 | [78a7cb8f7520](https://github.com/lexifina/brazil-law/commit/78a7cb8f752049c817a3adfa891ffcc77ce56e0a) |
+| 2016-06-28 | Lei nº 13.301, de 2016 | [6f1aed884e96](https://github.com/lexifina/brazil-law/commit/6f1aed884e96d09d56132624c916e650e1de0f38) |
+| 2023-09-12 | Lei nº 14.671, de 2023 | [1b2c007e74f2](https://github.com/lexifina/brazil-law/commit/1b2c007e74f276f442ae48b5abc363b516cd67bb) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

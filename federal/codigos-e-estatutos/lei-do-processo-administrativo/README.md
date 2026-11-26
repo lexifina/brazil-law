@@ -2,6 +2,19 @@
 
 LPA · 4 versions, from 1999-02-01 (latest in force: 2021-10-01) · <https://www.planalto.gov.br/ccivil_03/leis/l9784.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-processo-administrativo/` para `federal/codigos-e-estatutos/lei-do-processo-administrativo/`). Histórico anterior: [commits em `lei-do-processo-administrativo/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-processo-administrativo). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-processo-administrativo/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-processo-administrativo/`); earlier history: [commits under `lei-do-processo-administrativo/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-processo-administrativo).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1999-02-01 | Lei nº 9.784, de 1999 | [e93fd523249a](https://github.com/lexifina/brazil-law/commit/e93fd523249a5f283d10ad45734bebf1299c187b) |
+| 2007-03-21 | Lei nº 11.417, de 2006 | [b57dcab3021c](https://github.com/lexifina/brazil-law/commit/b57dcab3021c748fbbe984dc4660f45a73858d5d) |
+| 2009-07-30 | Lei nº 12.008, de 2009 | [6aead85e216f](https://github.com/lexifina/brazil-law/commit/6aead85e216fe915aa6f1b0d04a1612a2ab49421) |
+| 2021-10-01 | Lei nº 14.210, de 2021 | [65dc2a65f327](https://github.com/lexifina/brazil-law/commit/65dc2a65f3279b7875e8c6b41e3d6e24703ff023) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

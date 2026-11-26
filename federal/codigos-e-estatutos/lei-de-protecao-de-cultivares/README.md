@@ -2,6 +2,17 @@
 
 LPC · 2 versions, from 1997-04-28 (latest in force: 2018-04-18) · <https://www.planalto.gov.br/ccivil_03/leis/l9456.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-protecao-de-cultivares/` para `federal/codigos-e-estatutos/lei-de-protecao-de-cultivares/`). Histórico anterior: [commits em `lei-de-protecao-de-cultivares/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-protecao-de-cultivares). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-protecao-de-cultivares/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-protecao-de-cultivares/`); earlier history: [commits under `lei-de-protecao-de-cultivares/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-protecao-de-cultivares).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1997-04-28 | Lei nº 9.456, de 1997 | [11465d5d5f25](https://github.com/lexifina/brazil-law/commit/11465d5d5f2559a70c36a515267338c604c31d7d) |
+| 2018-04-18 | Lei nº 13.606, de 2018 | [d38ab7897160](https://github.com/lexifina/brazil-law/commit/d38ab78971609b576970a651b680dd770eebe779) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

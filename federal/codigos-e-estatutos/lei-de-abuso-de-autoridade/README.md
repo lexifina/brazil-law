@@ -2,6 +2,17 @@
 
 LAA · 2 versions, from 2020-01-03 (latest in force: 2022-04-01) · <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-abuso-de-autoridade/` para `federal/codigos-e-estatutos/lei-de-abuso-de-autoridade/`). Histórico anterior: [commits em `lei-de-abuso-de-autoridade/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-abuso-de-autoridade). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-abuso-de-autoridade/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-abuso-de-autoridade/`); earlier history: [commits under `lei-de-abuso-de-autoridade/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-abuso-de-autoridade).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2020-01-03 | Lei nº 13.869, de 2019 | [949d58a0457b](https://github.com/lexifina/brazil-law/commit/949d58a0457b1a4411b22cda2f8a586a9f50e874) |
+| 2022-04-01 | Lei nº 14.321, de 2022 | [6f5dea6d0246](https://github.com/lexifina/brazil-law/commit/6f5dea6d024675da3c68f2c1c152bc34d9fce68e) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

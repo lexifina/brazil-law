@@ -2,6 +2,17 @@
 
 LSem · 2 versions, from 2003-11-04 (latest in force: 2022-12-30) · <https://www.planalto.gov.br/ccivil_03/leis/2003/l10.711.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-sistema-nacional-de-sementes-e-mudas/` para `federal/codigos-e-estatutos/lei-do-sistema-nacional-de-sementes-e-mudas/`). Histórico anterior: [commits em `lei-do-sistema-nacional-de-sementes-e-mudas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-sistema-nacional-de-sementes-e-mudas). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-sistema-nacional-de-sementes-e-mudas/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-sistema-nacional-de-sementes-e-mudas/`); earlier history: [commits under `lei-do-sistema-nacional-de-sementes-e-mudas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-sistema-nacional-de-sementes-e-mudas).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2003-11-04 | Lei nº 10.711, de 2003 | [c77e18d92cd3](https://github.com/lexifina/brazil-law/commit/c77e18d92cd3b1b6741613908d9cbee3abc4c7b8) |
+| 2022-12-30 | Lei nº 14.515, de 2022 | [39208621a5eb](https://github.com/lexifina/brazil-law/commit/39208621a5eb4a348beac0799e172da5e9512ad1) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

@@ -2,6 +2,16 @@
 
 L13844 · 1 versions, from 2023-06-20 (latest in force: 2023-06-20) · <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13844.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-13844-de-2019/` para `federal/leis/2019/lei-13844-de-2019/`). Histórico anterior: [commits em `lei-13844-de-2019/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-13844-de-2019). Ou / or `git log --follow -- federal/leis/2019/lei-13844-de-2019/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-13844-de-2019/`); earlier history: [commits under `lei-13844-de-2019/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-13844-de-2019).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2023-06-20 | Presidência da República, Planalto (Legislação) | [b02bf75ec58d](https://github.com/lexifina/brazil-law/commit/b02bf75ec58d0c883670b8ac6059a168d856d8f5) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 63 | [art-063.md](art-063.md) | 0 |  |

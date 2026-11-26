@@ -2,6 +2,16 @@
 
 L12787 · 1 versions, from 2018-08-07 (latest in force: 2018-08-07) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12787.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-12787-de-2013/` para `federal/leis/2013/lei-12787-de-2013/`). Histórico anterior: [commits em `lei-12787-de-2013/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-12787-de-2013). Ou / or `git log --follow -- federal/leis/2013/lei-12787-de-2013/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-12787-de-2013/`); earlier history: [commits under `lei-12787-de-2013/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-12787-de-2013).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2018-08-07 | Presidência da República, Planalto (Legislação) | [c7f48777a6a0](https://github.com/lexifina/brazil-law/commit/c7f48777a6a0ba9296e2af0fc9b5786bbce48920) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

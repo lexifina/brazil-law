@@ -2,6 +2,16 @@
 
 L13289 · 1 versions, from 2016-05-23 (latest in force: 2016-05-23) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13289.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-13289-de-2016/` para `federal/leis/2016/lei-13289-de-2016/`). Histórico anterior: [commits em `lei-13289-de-2016/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-13289-de-2016). Ou / or `git log --follow -- federal/leis/2016/lei-13289-de-2016/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-13289-de-2016/`); earlier history: [commits under `lei-13289-de-2016/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-13289-de-2016).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2016-05-23 | Presidência da República, Planalto (Legislação) | [23e0c4862ec6](https://github.com/lexifina/brazil-law/commit/23e0c4862ec6e1e3d9ba1acc16f335e3819dc2f4) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

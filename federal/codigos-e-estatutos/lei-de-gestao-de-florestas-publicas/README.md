@@ -2,6 +2,19 @@
 
 LGFP · 4 versions, from 2006-03-03 (latest in force: 2023-05-25) · <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11284.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-gestao-de-florestas-publicas/` para `federal/codigos-e-estatutos/lei-de-gestao-de-florestas-publicas/`). Histórico anterior: [commits em `lei-de-gestao-de-florestas-publicas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-gestao-de-florestas-publicas). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-gestao-de-florestas-publicas/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-gestao-de-florestas-publicas/`); earlier history: [commits under `lei-de-gestao-de-florestas-publicas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-gestao-de-florestas-publicas).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2006-03-03 | Lei nº 11.284, de 2006 | [b7002e9cb794](https://github.com/lexifina/brazil-law/commit/b7002e9cb79434fd5ad299e4df946c001a046db1) |
+| 2007-08-28 | Lei nº 11.516, de 2007 | [2a354441f9c1](https://github.com/lexifina/brazil-law/commit/2a354441f9c199f7efd1cc0158ddb2b0953dc0a9) |
+| 2022-12-27 | Medida Provisória nº 1.151, de 2022 | [c4c4dbd49a2e](https://github.com/lexifina/brazil-law/commit/c4c4dbd49a2e6e75f1342ade644d753dfa0caaf3) |
+| 2023-05-25 | Lei nº 14.590, de 2023 | [461a1cb491e3](https://github.com/lexifina/brazil-law/commit/461a1cb491e3ae8a273c15c66e3b5d56cb8a4303) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

@@ -2,6 +2,18 @@
 
 LArb · 3 versions, from 1996-11-23 (latest in force: 2016-03-18) · <https://www.planalto.gov.br/ccivil_03/leis/l9307.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-arbitragem/` para `federal/codigos-e-estatutos/lei-de-arbitragem/`). Histórico anterior: [commits em `lei-de-arbitragem/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-arbitragem). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-arbitragem/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-arbitragem/`); earlier history: [commits under `lei-de-arbitragem/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-arbitragem).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1996-11-23 | Lei nº 9.307, de 1996 | [b7309e3221ab](https://github.com/lexifina/brazil-law/commit/b7309e3221ab6081e68338cddfa54ced2661c02a) |
+| 2015-07-26 | Lei nº 13.129, de 2015 | [2c9891de2fc8](https://github.com/lexifina/brazil-law/commit/2c9891de2fc84eb4d9f3678f451b4dbde3250aa0) |
+| 2016-03-18 | Lei nº 13.105, de 2015 | [f95288529939](https://github.com/lexifina/brazil-law/commit/f952885299396fa02f4d170bf4f357b61098f387) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2015-07-26 |

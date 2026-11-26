@@ -2,6 +2,26 @@
 
 LLC · 11 versions, from 2021-04-01 (latest in force: 2026-07-21) · <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-licitacoes-e-contratos/` para `federal/codigos-e-estatutos/lei-de-licitacoes-e-contratos/`). Histórico anterior: [commits em `lei-de-licitacoes-e-contratos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-licitacoes-e-contratos). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-licitacoes-e-contratos/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-licitacoes-e-contratos/`); earlier history: [commits under `lei-de-licitacoes-e-contratos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-licitacoes-e-contratos).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2021-04-01 | Lei nº 14.133, de 2021 | [6121a1b47925](https://github.com/lexifina/brazil-law/commit/6121a1b47925b66bd6de2729cff640ae10c44003) |
+| 2021-06-11 | Lei nº 14.133, de 2021 | [fadddfd375ec](https://github.com/lexifina/brazil-law/commit/fadddfd375ec922a527e36b2c3f3d732e94543ea) |
+| 2023-03-23 | Medida Provisória nº 1.166, de 2023 | [0a753c6ce4ae](https://github.com/lexifina/brazil-law/commit/0a753c6ce4aed4befd3095763a511d69510d7c4b) |
+| 2023-03-31 | Medida Provisória nº 1.167, de 2023 | [0d95c71ee12b](https://github.com/lexifina/brazil-law/commit/0d95c71ee12b33e82bfe390f50ae574b7cfd09c0) |
+| 2023-06-28 | Lei Complementar nº 198, de 2023 | [1beea1f446e3](https://github.com/lexifina/brazil-law/commit/1beea1f446e31f6992c3833470a27296ab34f1d4) |
+| 2023-07-21 | Medida Provisória nº 1.166, de 2023: vigência encerrada | [4050b292347b](https://github.com/lexifina/brazil-law/commit/4050b292347b56a4cdb76d5ed938b6a844e2ae8c) |
+| 2023-07-29 | Medida Provisória nº 1.167, de 2023: vigência encerrada | [41e3e17d2a22](https://github.com/lexifina/brazil-law/commit/41e3e17d2a223600f09ee143c90eca9b9090b083) |
+| 2023-12-22 | Lei nº 14.770, de 2023 | [4e1b796e448c](https://github.com/lexifina/brazil-law/commit/4e1b796e448c913b105800a01b19dba7418baf9f) |
+| 2025-11-24 | Lei nº 15.266, de 2025 | [bf8eb5eaf60f](https://github.com/lexifina/brazil-law/commit/bf8eb5eaf60f9a3a3a448cd93b179d6ed994b187) |
+| 2026-03-16 | Lei nº 15.210, de 2025 | [024ace24cfeb](https://github.com/lexifina/brazil-law/commit/024ace24cfebcff0edd61e8e69c00ad60103b694) |
+| 2026-07-21 | Lei nº 15.471, de 2026 | [1ccdfb8c95bb](https://github.com/lexifina/brazil-law/commit/1ccdfb8c95bb487072611e2d64e6a9744ae6c614) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

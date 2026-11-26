@@ -2,6 +2,18 @@
 
 LCR · 3 versions, from 1950-05-27 (latest in force: 2026-01-14) · <https://www.planalto.gov.br/ccivil_03/leis/l1079.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-dos-crimes-de-responsabilidade/` para `federal/codigos-e-estatutos/lei-dos-crimes-de-responsabilidade/`). Histórico anterior: [commits em `lei-dos-crimes-de-responsabilidade/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-crimes-de-responsabilidade). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-dos-crimes-de-responsabilidade/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-dos-crimes-de-responsabilidade/`); earlier history: [commits under `lei-dos-crimes-de-responsabilidade/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-crimes-de-responsabilidade).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1950-05-27 | Lei nº 1.079, de 1950 | [3d0eb19c58c0](https://github.com/lexifina/brazil-law/commit/3d0eb19c58c0813fe5eee8d65b025e10cf2abc2f) |
+| 2000-10-20 | Lei nº 10.028, de 2000 | [3b494b6c16f1](https://github.com/lexifina/brazil-law/commit/3b494b6c16f15b30646ea4b06a71276c98fbf2c7) |
+| 2026-01-14 | Lei Complementar nº 227, de 2026 | [00c670d3a447](https://github.com/lexifina/brazil-law/commit/00c670d3a447b7d19a8e3f9f1251faec73022e00) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

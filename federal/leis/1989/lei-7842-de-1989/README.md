@@ -2,6 +2,16 @@
 
 L7842 · 1 versions, from 1989-10-19 (latest in force: 1989-10-19) · <https://www.planalto.gov.br/ccivil_03/leis/l7842.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-7842-de-1989/` para `federal/leis/1989/lei-7842-de-1989/`). Histórico anterior: [commits em `lei-7842-de-1989/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7842-de-1989). Ou / or `git log --follow -- federal/leis/1989/lei-7842-de-1989/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-7842-de-1989/`); earlier history: [commits under `lei-7842-de-1989/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7842-de-1989).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1989-10-19 | Presidência da República, Planalto (Legislação) | [b5879ff1c64d](https://github.com/lexifina/brazil-law/commit/b5879ff1c64db218f8013f7d217691c5af51c010) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

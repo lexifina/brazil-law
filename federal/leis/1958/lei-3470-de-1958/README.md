@@ -2,6 +2,16 @@
 
 L3470 · 1 versions, from 2023-06-15 (latest in force: 2023-06-15) · <https://www.planalto.gov.br/ccivil_03/leis/l3470.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-3470-de-1958/` para `federal/leis/1958/lei-3470-de-1958/`). Histórico anterior: [commits em `lei-3470-de-1958/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-3470-de-1958). Ou / or `git log --follow -- federal/leis/1958/lei-3470-de-1958/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-3470-de-1958/`); earlier history: [commits under `lei-3470-de-1958/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-3470-de-1958).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2023-06-15 | Presidência da República, Planalto (Legislação) | [ef52f68f4830](https://github.com/lexifina/brazil-law/commit/ef52f68f4830260b54c65e5f973af81b278b994d) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

@@ -2,6 +2,16 @@
 
 LCh · 1 versions, from 1985-09-03 (latest in force: 1985-09-03) · <https://www.planalto.gov.br/ccivil_03/leis/l7357.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-cheque/` para `federal/codigos-e-estatutos/lei-do-cheque/`). Histórico anterior: [commits em `lei-do-cheque/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-cheque). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-cheque/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-cheque/`); earlier history: [commits under `lei-do-cheque/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-cheque).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1985-09-03 | Lei nº 7.357, de 1985 | [98b1e4382538](https://github.com/lexifina/brazil-law/commit/98b1e43825383773cff363052142b10d15a44dee) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

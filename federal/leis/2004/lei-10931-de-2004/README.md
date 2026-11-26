@@ -2,6 +2,41 @@
 
 L10931 · 23 versions, from 2004-08-03 (latest in force: 2026-01-01) · <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.931.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-10931-de-2004/` para `federal/leis/2004/lei-10931-de-2004/`). Histórico anterior: [commits em `lei-10931-de-2004/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-10931-de-2004). Ou / or `git log --follow -- federal/leis/2004/lei-10931-de-2004/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-10931-de-2004/`); earlier history: [commits under `lei-10931-de-2004/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-10931-de-2004).
+
+<details><summary>22 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2004-08-03 | Lei nº 10.931, de 2004 | [5c262d924816](https://github.com/lexifina/brazil-law/commit/5c262d924816a69e2a59849576fe4a13a2da4f56) |
+| 2005-11-22 | Lei nº 11.196, de 2005 | [032d8dfb7a6d](https://github.com/lexifina/brazil-law/commit/032d8dfb7a6d3eff797deefa72ea2d8c0747e4d5) |
+| 2009-03-31 | Medida Provisória nº 460, de 2009 | [7d0f6417fed3](https://github.com/lexifina/brazil-law/commit/7d0f6417fed3694b7c787167327274cf0be0aa37) |
+| 2009-08-28 | Lei nº 12.024, de 2009 | [26f723912309](https://github.com/lexifina/brazil-law/commit/26f7239123093e405160c11dd4ee8d9b4f8dd276) |
+| 2010-07-28 | Medida Provisória nº 497, de 2010 | [6b205dbff657](https://github.com/lexifina/brazil-law/commit/6b205dbff657e0a18947fb3c36ea3d9771e0ebb1) |
+| 2010-12-21 | Lei nº 12.350, de 2010 | [22557b38d687](https://github.com/lexifina/brazil-law/commit/22557b38d6878a67f058ac195eae16ce9db5f954) |
+| 2011-12-01 | Medida Provisória nº 552, de 2011 | [1ff50cc70797](https://github.com/lexifina/brazil-law/commit/1ff50cc70797cf2c6ed34aaa1c2aa22d9c6a40c6) |
+| 2011-12-09 | Lei nº 12.543, de 2011 | [4c9a888e5e55](https://github.com/lexifina/brazil-law/commit/4c9a888e5e55037490eb8144d7a4a019354af718) |
+| 2012-12-28 | Lei nº 12.767, de 2012 | [0a9c049eee6a](https://github.com/lexifina/brazil-law/commit/0a9c049eee6ab5f924a85b9971faf9d02674cca1) |
+| 2013-01-01 | Medida Provisória nº 601, de 2012 | [93e911ee8419](https://github.com/lexifina/brazil-law/commit/93e911ee84197b4c524749dbe6e48afaed87efdb) |
+| 2013-06-04 | Medida Provisória nº 601, de 2012: vigência encerrada | [309ac20e81e9](https://github.com/lexifina/brazil-law/commit/309ac20e81e921b5ada717c06e61e0faf06ef6fb) |
+| 2013-07-19 | Lei nº 12.844, de 2013 | [70fa50542e97](https://github.com/lexifina/brazil-law/commit/70fa50542e97bda38e0fbb791c78f7425d3a8018) |
+| 2014-10-08 | Medida Provisória nº 656, de 2014 | [09c21132593d](https://github.com/lexifina/brazil-law/commit/09c21132593d8236a044ea816414d84849538471) |
+| 2015-01-20 | Lei nº 13.097, de 2015 | [c4c952840115](https://github.com/lexifina/brazil-law/commit/c4c952840115d3d3c22194aef9012c2221568fd5) |
+| 2017-04-07 | Medida Provisória nº 775, de 2017 | [9e1ba7ae4d3f](https://github.com/lexifina/brazil-law/commit/9e1ba7ae4d3f6e83632e73923a04f74c3136aaec) |
+| 2019-10-02 | Medida Provisória nº 897, de 2019 | [81e171ad13ab](https://github.com/lexifina/brazil-law/commit/81e171ad13ab787b28dfcd0d9ec3e346cb2e83a7) |
+| 2019-12-27 | Lei nº 13.970, de 2019 | [8cff23db540f](https://github.com/lexifina/brazil-law/commit/8cff23db540f62385fbcfdb8a8b147f2d41b8e3d) |
+| 2020-04-07 | Lei nº 13.986, de 2020 | [144558c2cb06](https://github.com/lexifina/brazil-law/commit/144558c2cb0678712bcbae7cfbefc3abc1a6e5af) |
+| 2022-03-16 | Medida Provisória nº 1.103, de 2022 | [a65efb566f70](https://github.com/lexifina/brazil-law/commit/a65efb566f708c8d808a88a31d8c77747f5fbef2) |
+| 2022-08-04 | Lei nº 14.430, de 2022 | [9a0cce1d4afc](https://github.com/lexifina/brazil-law/commit/9a0cce1d4afcec5ee00ef5e1fc5c8dd38e34d516) |
+| 2023-07-14 | Lei nº 14.620, de 2023 | [de53ad1a2e59](https://github.com/lexifina/brazil-law/commit/de53ad1a2e59b31cad6b9e0686fe886c512616b7) |
+| 2026-01-01 | Lei Complementar nº 214, de 2025 | [4559d3c13d60](https://github.com/lexifina/brazil-law/commit/4559d3c13d60cae2379eff4e34aee63b097f2f41) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

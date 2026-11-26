@@ -2,6 +2,16 @@
 
 DL1001 · 1 versions, from 2023-11-20 (latest in force: 2023-11-20) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-1001-de-1969/` para `federal/decretos-leis/1969/decreto-lei-1001-de-1969/`). Histórico anterior: [commits em `decreto-lei-1001-de-1969/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-1001-de-1969). Ou / or `git log --follow -- federal/decretos-leis/1969/decreto-lei-1001-de-1969/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-1001-de-1969/`); earlier history: [commits under `decreto-lei-1001-de-1969/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-1001-de-1969).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2023-11-20 | Presidência da República, Planalto (Legislação) | [ad9a2c864417](https://github.com/lexifina/brazil-law/commit/ad9a2c8644178a9ba9f54a998a5848b98f2c5c5b) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

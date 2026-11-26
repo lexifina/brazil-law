@@ -2,6 +2,16 @@
 
 LSeg · 1 versions, from 2025-12-11 (latest in force: 2025-12-11) · <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l15040.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-contrato-de-seguro/` para `federal/codigos-e-estatutos/lei-do-contrato-de-seguro/`). Histórico anterior: [commits em `lei-do-contrato-de-seguro/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-contrato-de-seguro). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-contrato-de-seguro/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-contrato-de-seguro/`); earlier history: [commits under `lei-do-contrato-de-seguro/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-contrato-de-seguro).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2025-12-11 | Lei nº 15.040, de 2024 | [8de24bf4648f](https://github.com/lexifina/brazil-law/commit/8de24bf4648f02e51147ef42228c2707622a8501) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

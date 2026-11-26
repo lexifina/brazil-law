@@ -2,6 +2,19 @@
 
 LAI · 4 versions, from 2012-05-16 (latest in force: 2025-06-03) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-acesso-a-informacao/` para `federal/codigos-e-estatutos/lei-de-acesso-a-informacao/`). Histórico anterior: [commits em `lei-de-acesso-a-informacao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-acesso-a-informacao). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-acesso-a-informacao/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-acesso-a-informacao/`); earlier history: [commits under `lei-de-acesso-a-informacao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-acesso-a-informacao).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2012-05-16 | Lei nº 12.527, de 2011 | [ee179dda299c](https://github.com/lexifina/brazil-law/commit/ee179dda299c4c1018c4e1277ad719c1ca9df8e0) |
+| 2021-06-28 | Lei nº 14.129, de 2021 | [dbd87c156a30](https://github.com/lexifina/brazil-law/commit/dbd87c156a3020b8f80faef7c0b95ba64f53c066) |
+| 2022-05-25 | Lei nº 14.345, de 2022 | [f90bbf98eff2](https://github.com/lexifina/brazil-law/commit/f90bbf98eff23bcd795ee2cba2c34c8840caeaad) |
+| 2025-06-03 | Lei nº 15.141, de 2025 | [4a80210a10f7](https://github.com/lexifina/brazil-law/commit/4a80210a10f7b81a6b082e24e63864344694579a) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

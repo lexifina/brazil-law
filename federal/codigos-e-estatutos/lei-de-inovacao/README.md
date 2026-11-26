@@ -2,6 +2,22 @@
 
 LInov · 7 versions, from 2004-12-03 (latest in force: 2024-10-17) · <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.973.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-inovacao/` para `federal/codigos-e-estatutos/lei-de-inovacao/`). Histórico anterior: [commits em `lei-de-inovacao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-inovacao). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-inovacao/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-inovacao/`); earlier history: [commits under `lei-de-inovacao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-inovacao).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2004-12-03 | Lei nº 10.973, de 2004 | [b0d67eebe926](https://github.com/lexifina/brazil-law/commit/b0d67eebe9263424c750fe2da91f4abd09235525) |
+| 2010-07-20 | Medida Provisória nº 495, de 2010 | [2e63eee0c4b3](https://github.com/lexifina/brazil-law/commit/2e63eee0c4b373cc4d67a00fe4883f053fc17b15) |
+| 2010-12-16 | Lei nº 12.349, de 2010 | [d42444497155](https://github.com/lexifina/brazil-law/commit/d424444971553104ac6ef1a870567d7a6871e82f) |
+| 2016-01-12 | Lei nº 13.243, de 2016 | [3e32195f2097](https://github.com/lexifina/brazil-law/commit/3e32195f20971b9060383935c4879ee2a4d143be) |
+| 2016-03-17 | Medida Provisória nº 718, de 2016 | [419303588b52](https://github.com/lexifina/brazil-law/commit/419303588b524d65778b885e8222ddcd2e805580) |
+| 2016-07-29 | Lei nº 13.322, de 2016 | [8db4f8dba51e](https://github.com/lexifina/brazil-law/commit/8db4f8dba51efe40b5e6a69033018e12c3ad81eb) |
+| 2024-10-17 | Lei nº 15.001, de 2024 | [67923c1e0fb7](https://github.com/lexifina/brazil-law/commit/67923c1e0fb798b488d7dece10c3a8a133ae8e42) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2016-01-12 |

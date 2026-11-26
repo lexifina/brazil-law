@@ -2,6 +2,18 @@
 
 LAssE · 3 versions, from 2020-09-24 (latest in force: 2023-07-14) · <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14063.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-das-assinaturas-eletronicas/` para `federal/codigos-e-estatutos/lei-das-assinaturas-eletronicas/`). Histórico anterior: [commits em `lei-das-assinaturas-eletronicas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-assinaturas-eletronicas). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-das-assinaturas-eletronicas/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-das-assinaturas-eletronicas/`); earlier history: [commits under `lei-das-assinaturas-eletronicas/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-das-assinaturas-eletronicas).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2020-09-24 | Lei nº 14.063, de 2020 | [caa2da20a8f9](https://github.com/lexifina/brazil-law/commit/caa2da20a8f916f2c57b2ed31efce6f65039019f) |
+| 2023-02-15 | Medida Provisória nº 1.162, de 2023 | [08c4eb203776](https://github.com/lexifina/brazil-law/commit/08c4eb2037762d4477fcc6dc1a229898782325d4) |
+| 2023-07-14 | Lei nº 14.620, de 2023 | [de53ad1a2e59](https://github.com/lexifina/brazil-law/commit/de53ad1a2e59b31cad6b9e0686fe886c512616b7) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

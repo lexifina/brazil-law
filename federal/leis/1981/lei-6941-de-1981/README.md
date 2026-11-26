@@ -2,6 +2,16 @@
 
 L6941 · 1 versions, from 1981-09-16 (latest in force: 1981-09-16) · <https://www.planalto.gov.br/ccivil_03/leis/l6941.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-6941-de-1981/` para `federal/leis/1981/lei-6941-de-1981/`). Histórico anterior: [commits em `lei-6941-de-1981/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-6941-de-1981). Ou / or `git log --follow -- federal/leis/1981/lei-6941-de-1981/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-6941-de-1981/`); earlier history: [commits under `lei-6941-de-1981/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-6941-de-1981).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1981-09-16 | Presidência da República, Planalto (Legislação) | [ff9a65fea65e](https://github.com/lexifina/brazil-law/commit/ff9a65fea65ed61efc5825411e5f4b31fe44af6c) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

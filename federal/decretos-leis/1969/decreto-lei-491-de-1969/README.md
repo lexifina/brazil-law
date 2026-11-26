@@ -2,6 +2,16 @@
 
 DL491 · 1 versions, from 2021-08-27 (latest in force: 2021-08-27) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0491.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-491-de-1969/` para `federal/decretos-leis/1969/decreto-lei-491-de-1969/`). Histórico anterior: [commits em `decreto-lei-491-de-1969/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-491-de-1969). Ou / or `git log --follow -- federal/decretos-leis/1969/decreto-lei-491-de-1969/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-491-de-1969/`); earlier history: [commits under `decreto-lei-491-de-1969/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-491-de-1969).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2021-08-27 | Presidência da República, Planalto (Legislação) | [c9577a96580e](https://github.com/lexifina/brazil-law/commit/c9577a96580ec1783cc136ce7dc94f7b60c78c24) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

@@ -2,6 +2,17 @@
 
 EIR · 2 versions, from 2010-10-19 (latest in force: 2023-04-24) · <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12288.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `estatuto-da-igualdade-racial/` para `federal/codigos-e-estatutos/estatuto-da-igualdade-racial/`). Histórico anterior: [commits em `estatuto-da-igualdade-racial/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-igualdade-racial). Ou / or `git log --follow -- federal/codigos-e-estatutos/estatuto-da-igualdade-racial/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `estatuto-da-igualdade-racial/`); earlier history: [commits under `estatuto-da-igualdade-racial/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-igualdade-racial).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2010-10-19 | Lei nº 12.288, de 2010 | [49d0d9792f81](https://github.com/lexifina/brazil-law/commit/49d0d9792f81be0c056e45eedaac1b692f8afb66) |
+| 2023-04-24 | Lei nº 14.553, de 2023 | [6356219dd698](https://github.com/lexifina/brazil-law/commit/6356219dd698fd7f682f225471082c90af19a708) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

@@ -2,6 +2,16 @@
 
 LRef · 1 versions, from 1997-07-23 (latest in force: 1997-07-23) · <https://www.planalto.gov.br/ccivil_03/leis/l9474.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `estatuto-dos-refugiados/` para `federal/codigos-e-estatutos/estatuto-dos-refugiados/`). Histórico anterior: [commits em `estatuto-dos-refugiados/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-dos-refugiados). Ou / or `git log --follow -- federal/codigos-e-estatutos/estatuto-dos-refugiados/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `estatuto-dos-refugiados/`); earlier history: [commits under `estatuto-dos-refugiados/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-dos-refugiados).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1997-07-23 | Lei nº 9.474, de 1997 | [df2132cc2bb8](https://github.com/lexifina/brazil-law/commit/df2132cc2bb8cc575f4c7502dc1f28fd5cf9b1b5) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

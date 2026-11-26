@@ -2,6 +2,16 @@
 
 L6877 · 1 versions, from 1980-12-10 (latest in force: 1980-12-10) · <https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6877.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-6877-de-1980/` para `federal/leis/1980/lei-6877-de-1980/`). Histórico anterior: [commits em `lei-6877-de-1980/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-6877-de-1980). Ou / or `git log --follow -- federal/leis/1980/lei-6877-de-1980/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-6877-de-1980/`); earlier history: [commits under `lei-6877-de-1980/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-6877-de-1980).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1980-12-10 | Presidência da República, Planalto (Legislação) | [033d88d67e75](https://github.com/lexifina/brazil-law/commit/033d88d67e756640edc16aa1e3de0b6ffdf08e73) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

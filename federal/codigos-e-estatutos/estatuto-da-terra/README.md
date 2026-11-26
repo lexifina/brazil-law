@@ -2,6 +2,28 @@
 
 ET · 12 versions, from 1964-11-30 (latest in force: 2007-01-08) · <https://www.planalto.gov.br/ccivil_03/leis/l4504.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `estatuto-da-terra/` para `federal/codigos-e-estatutos/estatuto-da-terra/`). Histórico anterior: [commits em `estatuto-da-terra/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-terra). Ou / or `git log --follow -- federal/codigos-e-estatutos/estatuto-da-terra/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `estatuto-da-terra/`); earlier history: [commits under `estatuto-da-terra/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/estatuto-da-terra).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1964-11-30 | Lei nº 4.504, de 1964 | [a80cd421d67b](https://github.com/lexifina/brazil-law/commit/a80cd421d67bb36b9a07b3a56d7c9abc23329aa6) |
+| 1966-04-11 | Lei nº 4.947, de 1966 | [93916debc8f5](https://github.com/lexifina/brazil-law/commit/93916debc8f58b997cc69356b9fad4bd873b6fbb) |
+| 1966-11-21 | Decreto-Lei nº 57, de 1966 | [adf1caf209f0](https://github.com/lexifina/brazil-law/commit/adf1caf209f0244e58ee40b379df47b7edbc155d) |
+| 1969-03-11 | Decreto-Lei nº 494, de 1969 | [48ff55aae3a3](https://github.com/lexifina/brazil-law/commit/48ff55aae3a3c6ad345bf9c9cda1730c05238818) |
+| 1969-05-16 | Decreto-Lei nº 582, de 1969 | [55ca92e4f05f](https://github.com/lexifina/brazil-law/commit/55ca92e4f05ffe1826f8b1394237699fc210af98) |
+| 1971-10-11 | Lei nº 5.709, de 1971 | [67c400045d2d](https://github.com/lexifina/brazil-law/commit/67c400045d2dc033a23369f3174627340acc5375) |
+| 1980-01-01 | Lei nº 6.746, de 1979 | [f1253c23351e](https://github.com/lexifina/brazil-law/commit/f1253c23351e837493739ee1da21aa5d04d9d967) |
+| 1988-01-20 | Lei nº 7.647, de 1988 | [4979586d199c](https://github.com/lexifina/brazil-law/commit/4979586d199cec01efa5535786ed09dcd7ef9820) |
+| 1988-05-14 | Decreto-Lei nº 2.431, de 1988 | [63dfc837e075](https://github.com/lexifina/brazil-law/commit/63dfc837e075a6a0b8551eb89082e29ffcdaad81) |
+| 1989-06-14 | Ato Declaratório do Congresso Nacional de 14.6.1989 (rejeição do Decreto-Lei nº 2.431, de 1988) | [a54632902248](https://github.com/lexifina/brazil-law/commit/a5463290224819bc88b96994da8d2d424978162a) |
+| 2001-08-27 | Medida Provisória nº 2.183, de 2001 | [4389a119675c](https://github.com/lexifina/brazil-law/commit/4389a119675c14636f3519a81dbf11d1aa428661) |
+| 2007-01-08 | Lei nº 11.443, de 2007 | [05009a2d4240](https://github.com/lexifina/brazil-law/commit/05009a2d424030e9195ede690085152743951c0f) |
+| 2007-01-08 | Lei nº 11.446, de 2007 | [396f54a42f94](https://github.com/lexifina/brazil-law/commit/396f54a42f9443932974bfbce5fa224316f963b5) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

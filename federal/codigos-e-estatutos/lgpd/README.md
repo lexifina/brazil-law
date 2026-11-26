@@ -2,6 +2,27 @@
 
 LGPD · 11 versions, from 2018-08-15 (latest in force: 2026-02-25) · <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709compilado.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lgpd/` para `federal/codigos-e-estatutos/lgpd/`). Histórico anterior: [commits em `lgpd/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lgpd). Ou / or `git log --follow -- federal/codigos-e-estatutos/lgpd/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lgpd/`); earlier history: [commits under `lgpd/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lgpd).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2018-08-15 | Lei nº 13.709, de 2018 | [92735f85a721](https://github.com/lexifina/brazil-law/commit/92735f85a7210d2e4c99933bb58209a95d2eece4) |
+| 2018-12-28 | Medida Provisória nº 869, de 2018 | [630da4241e0b](https://github.com/lexifina/brazil-law/commit/630da4241e0ba4205bd368d6eb8fcfb295e2cb0f) |
+| 2019-07-09 | Lei nº 13.853, de 2019 | [a1a3ebf3d064](https://github.com/lexifina/brazil-law/commit/a1a3ebf3d0644f00d51c31aae56da48c0a0f2dce) |
+| 2020-04-29 | Medida Provisória nº 959, de 2020 | [2ea01ceb170d](https://github.com/lexifina/brazil-law/commit/2ea01ceb170d9d8f85637e74ccf0be602ad829be) |
+| 2020-06-12 | Lei nº 14.010, de 2020 | [2b3b2cae1e45](https://github.com/lexifina/brazil-law/commit/2b3b2cae1e45bc654226972d6f806fd4e52f1e59) |
+| 2020-09-18 | Lei nº 13.709, de 2018 | [b2ddcf34e063](https://github.com/lexifina/brazil-law/commit/b2ddcf34e063aafbd858abb0a7e95d4181bed55f) |
+| 2020-09-18 | Lei nº 14.058, de 2020 | [ed1c2938f794](https://github.com/lexifina/brazil-law/commit/ed1c2938f794f474ba1ae7b7136f86b4b2997640) |
+| 2021-08-01 | Lei nº 14.010, de 2020 | [91a99267155a](https://github.com/lexifina/brazil-law/commit/91a99267155a7f1a216e8adf32d85df50c875846) |
+| 2022-06-14 | Medida Provisória nº 1.124, de 2022 | [b830cda9d684](https://github.com/lexifina/brazil-law/commit/b830cda9d684004613924fe1241b328c5fbc5d26) |
+| 2022-10-26 | Lei nº 14.460, de 2022 | [7ebc341b840b](https://github.com/lexifina/brazil-law/commit/7ebc341b840b4e8d21d4e0f6effa0aa7fb5e0e3a) |
+| 2025-09-18 | Medida Provisória nº 1.317, de 2025 | [ce43c976f29c](https://github.com/lexifina/brazil-law/commit/ce43c976f29cd5e98608de6aec07a7c360a8330e) |
+| 2026-02-25 | Lei nº 15.352, de 2026 | [343f6d0d38a4](https://github.com/lexifina/brazil-law/commit/343f6d0d38a4bab700843f1d5e80ab7a659b465e) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 1 | 2020-09-18 |

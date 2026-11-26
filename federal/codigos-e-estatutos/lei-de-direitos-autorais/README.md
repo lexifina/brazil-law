@@ -2,6 +2,22 @@
 
 LDA · 7 versions, from 1998-06-20 (latest in force: 2021-09-14) · <https://www.planalto.gov.br/ccivil_03/leis/l9610.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-de-direitos-autorais/` para `federal/codigos-e-estatutos/lei-de-direitos-autorais/`). Histórico anterior: [commits em `lei-de-direitos-autorais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-direitos-autorais). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-de-direitos-autorais/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-de-direitos-autorais/`); earlier history: [commits under `lei-de-direitos-autorais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-de-direitos-autorais).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1998-06-20 | Lei nº 9.610, de 1998 | [f1d33cee676d](https://github.com/lexifina/brazil-law/commit/f1d33cee676d10602c9eb38f11068e7bee756951) |
+| 2010-01-11 | Lei nº 12.091, de 2009 | [afaf0aa4bb94](https://github.com/lexifina/brazil-law/commit/afaf0aa4bb946394e9044c279ba96cde63cf064a) |
+| 2013-12-13 | Lei nº 12.853, de 2013 | [02c1f450b3fc](https://github.com/lexifina/brazil-law/commit/02c1f450b3fc4f3321d88947208e268c21fdef29) |
+| 2019-11-27 | Medida Provisória nº 907, de 2019 | [f0857802f26f](https://github.com/lexifina/brazil-law/commit/f0857802f26f4099884c63f158a1c1a456ecae1b) |
+| 2020-05-25 | Lei nº 14.002, de 2020 | [b69fb3b59d78](https://github.com/lexifina/brazil-law/commit/b69fb3b59d786e7c12b666579d99c44f273b1610) |
+| 2021-09-06 | Medida Provisória nº 1.068, de 2021 | [85f5d50feb1a](https://github.com/lexifina/brazil-law/commit/85f5d50feb1a898f7d1eec291009bd8c3950be53) |
+| 2021-09-14 | Medida Provisória nº 1.068, de 2021: rejeitada | [71a07adbb9f7](https://github.com/lexifina/brazil-law/commit/71a07adbb9f7cc6cf6154e5008df341c76b2459c) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

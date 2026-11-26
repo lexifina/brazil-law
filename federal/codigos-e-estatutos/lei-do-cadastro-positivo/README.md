@@ -2,6 +2,18 @@
 
 LCadPos · 3 versions, from 2011-06-10 (latest in force: 2019-07-09) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-cadastro-positivo/` para `federal/codigos-e-estatutos/lei-do-cadastro-positivo/`). Histórico anterior: [commits em `lei-do-cadastro-positivo/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-cadastro-positivo). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-cadastro-positivo/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-cadastro-positivo/`); earlier history: [commits under `lei-do-cadastro-positivo/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-cadastro-positivo).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2011-06-10 | Lei nº 12.414, de 2011 | [7058b58dea43](https://github.com/lexifina/brazil-law/commit/7058b58dea4301f13de93e4360e347807a0364ea) |
+| 2019-04-09 | Lei Complementar nº 166, de 2019 | [dfd4b1cda0f8](https://github.com/lexifina/brazil-law/commit/dfd4b1cda0f8e0852c09bcc895dcc5bb2a26b03c) |
+| 2019-07-09 | Lei Complementar nº 166, de 2019 | [d4b6c0dce487](https://github.com/lexifina/brazil-law/commit/d4b6c0dce487672954ac25d7b2641268a5c3cce8) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

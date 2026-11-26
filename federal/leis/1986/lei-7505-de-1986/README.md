@@ -2,6 +2,16 @@
 
 L7505 · 1 versions, from 1986-07-03 (latest in force: 1986-07-03) · <https://www.planalto.gov.br/ccivil_03/leis/l7505.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-7505-de-1986/` para `federal/leis/1986/lei-7505-de-1986/`). Histórico anterior: [commits em `lei-7505-de-1986/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7505-de-1986). Ou / or `git log --follow -- federal/leis/1986/lei-7505-de-1986/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-7505-de-1986/`); earlier history: [commits under `lei-7505-de-1986/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-7505-de-1986).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1986-07-03 | Presidência da República, Planalto (Legislação) | [b76241eeef78](https://github.com/lexifina/brazil-law/commit/b76241eeef78edf371ae3d1f0bedda634a5c15fd) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

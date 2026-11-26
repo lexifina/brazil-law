@@ -2,6 +2,19 @@
 
 LSNV · 4 versions, from 2011-01-07 (latest in force: 2022-02-07) · <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12379.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-sistema-nacional-de-viacao/` para `federal/codigos-e-estatutos/lei-do-sistema-nacional-de-viacao/`). Histórico anterior: [commits em `lei-do-sistema-nacional-de-viacao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-sistema-nacional-de-viacao). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-sistema-nacional-de-viacao/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-sistema-nacional-de-viacao/`); earlier history: [commits under `lei-do-sistema-nacional-de-viacao/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-sistema-nacional-de-viacao).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2011-01-07 | Lei nº 12.379, de 2011 | [ea01a6559d39](https://github.com/lexifina/brazil-law/commit/ea01a6559d394fb25301b8fc0c8111bd9b70e3cc) |
+| 2021-08-30 | Medida Provisória nº 1.065, de 2021 | [adb42a31732d](https://github.com/lexifina/brazil-law/commit/adb42a31732d94c47f8f4472218f278a30f038d3) |
+| 2022-02-06 | Lei nº 14.273, de 2021 | [8ca91ef8d2b4](https://github.com/lexifina/brazil-law/commit/8ca91ef8d2b4a0e4ca17b9435928be0574d8a1eb) |
+| 2022-02-07 | Medida Provisória nº 1.065, de 2021: vigência encerrada | [06714ac6fc01](https://github.com/lexifina/brazil-law/commit/06714ac6fc017aed4a3bd43f2e8f3c9259cdab5b) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

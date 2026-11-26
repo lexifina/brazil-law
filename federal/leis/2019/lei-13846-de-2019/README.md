@@ -2,6 +2,16 @@
 
 L13846 · 1 versions, from 2022-09-05 (latest in force: 2022-09-05) · <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13846.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-13846-de-2019/` para `federal/leis/2019/lei-13846-de-2019/`). Histórico anterior: [commits em `lei-13846-de-2019/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-13846-de-2019). Ou / or `git log --follow -- federal/leis/2019/lei-13846-de-2019/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-13846-de-2019/`); earlier history: [commits under `lei-13846-de-2019/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-13846-de-2019).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2022-09-05 | Presidência da República, Planalto (Legislação) | [92f626a0314d](https://github.com/lexifina/brazil-law/commit/92f626a0314d8c81f9dea7e34017fc55d737bb30) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

@@ -2,6 +2,16 @@
 
 L8270 · 1 versions, from 2012-08-08 (latest in force: 2012-08-08) · <https://www.planalto.gov.br/ccivil_03/leis/l8270.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-8270-de-1991/` para `federal/leis/1991/lei-8270-de-1991/`). Histórico anterior: [commits em `lei-8270-de-1991/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8270-de-1991). Ou / or `git log --follow -- federal/leis/1991/lei-8270-de-1991/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-8270-de-1991/`); earlier history: [commits under `lei-8270-de-1991/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8270-de-1991).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2012-08-08 | Presidência da República, Planalto (Legislação) | [7752c3e5338f](https://github.com/lexifina/brazil-law/commit/7752c3e5338f3fe7bb4716dd7e85883e680454c6) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

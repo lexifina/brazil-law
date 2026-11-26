@@ -2,6 +2,35 @@
 
 LMC · 16 versions, from 1965-07-16 (latest in force: 2024-01-01) · <https://www.planalto.gov.br/ccivil_03/leis/l4728.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-do-mercado-de-capitais/` para `federal/codigos-e-estatutos/lei-do-mercado-de-capitais/`). Histórico anterior: [commits em `lei-do-mercado-de-capitais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-mercado-de-capitais). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-do-mercado-de-capitais/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-do-mercado-de-capitais/`); earlier history: [commits under `lei-do-mercado-de-capitais/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-do-mercado-de-capitais).
+
+<details><summary>16 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1965-07-16 | Lei nº 4.728, de 1965 | [68aa8fca8c35](https://github.com/lexifina/brazil-law/commit/68aa8fca8c35a07c040dabaa7d98e615311e1534) |
+| 1965-11-30 | Lei nº 4.862, de 1965 | [69de7e3786cd](https://github.com/lexifina/brazil-law/commit/69de7e3786cd682adf689171b085605e6a624580) |
+| 1969-06-06 | Decreto-Lei nº 614, de 1969 | [b5ffb4c582b2](https://github.com/lexifina/brazil-law/commit/b5ffb4c582b23a884e51244960d2d37b0d2d9a10) |
+| 1969-10-03 | Decreto-Lei nº 911, de 1969 | [6792aa9743cd](https://github.com/lexifina/brazil-law/commit/6792aa9743cd553431fbf7f8f12f07fd869b46b2) |
+| 1970-07-06 | Lei nº 5.589, de 1970 | [4d8e27be2c31](https://github.com/lexifina/brazil-law/commit/4d8e27be2c31dd4732f7ad1cb6e704c633ccd9dc) |
+| 1971-10-11 | Lei nº 5.710, de 1971 | [30b121f02b4d](https://github.com/lexifina/brazil-law/commit/30b121f02b4ddb01159ddee07ae4d0b6dce44d13) |
+| 1974-07-23 | Decreto-Lei nº 1.338, de 1974 | [592a1a22f65e](https://github.com/lexifina/brazil-law/commit/592a1a22f65e83bf449daa09b039526f73c700be) |
+| 1986-07-24 | Decreto-Lei nº 2.287, de 1986 | [924f7235bb1d](https://github.com/lexifina/brazil-law/commit/924f7235bb1d7c34bc002aee9e82ae2c61c6b68e) |
+| 1986-12-24 | Decreto-Lei nº 2.313, de 1986 | [072f14302c98](https://github.com/lexifina/brazil-law/commit/072f14302c9855b913c4d6480b68aa86ce90e2db) |
+| 1997-03-15 | Lei nº 9.450, de 1997 | [b0da9f3a3984](https://github.com/lexifina/brazil-law/commit/b0da9f3a398499cccffdeec0546fc7d804bf0ebb) |
+| 2001-08-24 | Medida Provisória nº 2.160, de 2001 | [fc5657af32f3](https://github.com/lexifina/brazil-law/commit/fc5657af32f32ecf032a78a5f44fe6f222d85ef0) |
+| 2004-08-03 | Lei nº 10.931, de 2004 | [b8cd0fee6ce6](https://github.com/lexifina/brazil-law/commit/b8cd0fee6ce63c1be8421d8ac77efebeaae062cb) |
+| 2017-11-14 | Lei nº 13.506, de 2017 | [c97629650a99](https://github.com/lexifina/brazil-law/commit/c97629650a999a4f1ced22eb9af7e307df89f08e) |
+| 2020-04-07 | Lei nº 13.986, de 2020 | [144558c2cb06](https://github.com/lexifina/brazil-law/commit/144558c2cb0678712bcbae7cfbefc3abc1a6e5af) |
+| 2022-12-30 | Lei nº 14.286, de 2021 | [b123a0719f8e](https://github.com/lexifina/brazil-law/commit/b123a0719f8e6b9c45d416b069b3eb4f54719b38) |
+| 2024-01-01 | Lei nº 14.754, de 2023 | [c7ee2363be12](https://github.com/lexifina/brazil-law/commit/c7ee2363be12e117518a74f0d1d03b8d6e487b6e) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 0 |  |

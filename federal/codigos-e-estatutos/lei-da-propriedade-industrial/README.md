@@ -2,6 +2,21 @@
 
 LPI · 6 versions, from 1996-05-15 (latest in force: 2024-05-06) · <https://www.planalto.gov.br/ccivil_03/leis/l9279.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-da-propriedade-industrial/` para `federal/codigos-e-estatutos/lei-da-propriedade-industrial/`). Histórico anterior: [commits em `lei-da-propriedade-industrial/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-propriedade-industrial). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-da-propriedade-industrial/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-da-propriedade-industrial/`); earlier history: [commits under `lei-da-propriedade-industrial/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-da-propriedade-industrial).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1996-05-15 | Lei nº 9.279, de 1996 | [22e207424e78](https://github.com/lexifina/brazil-law/commit/22e207424e7892a3e11d77a7bece54eade20f5d1) |
+| 1997-05-15 | Lei nº 9.279, de 1996 | [803fb5595fac](https://github.com/lexifina/brazil-law/commit/803fb5595fac7cca2abc2bd2e66093865b9803b7) |
+| 2001-02-16 | Lei nº 10.196, de 2001 | [f4249a898c27](https://github.com/lexifina/brazil-law/commit/f4249a898c275fb36b2983c42afd5876331652aa) |
+| 2021-08-27 | Lei nº 14.195, de 2021 | [d592f681050e](https://github.com/lexifina/brazil-law/commit/d592f681050e57ee0914309e7d0a335c4e7b65d9) |
+| 2021-09-03 | Lei nº 14.200, de 2021 | [fd1d8a7e2147](https://github.com/lexifina/brazil-law/commit/fd1d8a7e21472b594631f57b0da87c5f91030c3a) |
+| 2024-05-06 | Lei nº 14.852, de 2024 | [2ebe921b0a3c](https://github.com/lexifina/brazil-law/commit/2ebe921b0a3c6f377115285f9858bca690094412) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 1 | 1997-05-15 |

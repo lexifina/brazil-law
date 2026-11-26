@@ -2,6 +2,35 @@
 
 CDC · 16 versions, from 1991-03-11 (latest in force: 2026-09-25) · <https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `codigo-de-defesa-do-consumidor/` para `federal/codigos-e-estatutos/codigo-de-defesa-do-consumidor/`). Histórico anterior: [commits em `codigo-de-defesa-do-consumidor/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/codigo-de-defesa-do-consumidor). Ou / or `git log --follow -- federal/codigos-e-estatutos/codigo-de-defesa-do-consumidor/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `codigo-de-defesa-do-consumidor/`); earlier history: [commits under `codigo-de-defesa-do-consumidor/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/codigo-de-defesa-do-consumidor).
+
+<details><summary>16 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1991-03-11 | Lei nº 8.078, de 1990 | [93985260dc0b](https://github.com/lexifina/brazil-law/commit/93985260dc0bc2f623fed565cb1faa3f66cf8f8f) |
+| 1993-05-22 | Lei nº 8.656, de 1993 | [0e05a66c1509](https://github.com/lexifina/brazil-law/commit/0e05a66c1509d8c1ad998f7a855fa3fbc4d06916) |
+| 1994-06-13 | Lei nº 8.884, de 1994 | [8bbc40c8a5d7](https://github.com/lexifina/brazil-law/commit/8bbc40c8a5d797fc9f3c5b914298984bebe97c71) |
+| 1995-03-22 | Lei nº 9.008, de 1995 | [d4bd6ea3f4f3](https://github.com/lexifina/brazil-law/commit/d4bd6ea3f4f3a637633ff3fbd4679d658a79d520) |
+| 1996-08-02 | Lei nº 9.298, de 1996 | [e622c9a3bcdc](https://github.com/lexifina/brazil-law/commit/e622c9a3bcdc0f6fe7aa87f4f995764225ab6f92) |
+| 1999-11-24 | Lei nº 9.870, de 1999 | [896af295230e](https://github.com/lexifina/brazil-law/commit/896af295230e484ff30ea1e736b756d43cd6886b) |
+| 2008-09-23 | Lei nº 11.785, de 2008 | [6315b57c32a6](https://github.com/lexifina/brazil-law/commit/6315b57c32a6bccac8bffc18dc3ff187b07b6b40) |
+| 2008-10-30 | Lei nº 11.800, de 2008 | [18fbb768d0a0](https://github.com/lexifina/brazil-law/commit/18fbb768d0a0c8ac3777a4614c9d1ca9636a7029) |
+| 2009-10-02 | Lei nº 12.039, de 2009 | [6d67578fea75](https://github.com/lexifina/brazil-law/commit/6d67578fea75e21dee7a30fb8afab574608dcb24) |
+| 2010-01-24 | Lei nº 11.989, de 2009 | [1d558b651509](https://github.com/lexifina/brazil-law/commit/1d558b6515091b79dc7d57ecbc386f261e57d8bf) |
+| 2013-06-11 | Lei nº 12.741, de 2012 | [7c105dc24c7e](https://github.com/lexifina/brazil-law/commit/7c105dc24c7e4323482af4bc60f03e27d809b17c) |
+| 2016-01-03 | Lei nº 13.146, de 2015 | [87f4351fcd5c](https://github.com/lexifina/brazil-law/commit/87f4351fcd5c1f80c06cc9b9f8ffcd45fb4a2d0c) |
+| 2017-09-27 | Lei nº 13.425, de 2017 | [d85a6f73a73e](https://github.com/lexifina/brazil-law/commit/d85a6f73a73e9757cd07f7d23498639b5258c15d) |
+| 2017-10-04 | Lei nº 13.486, de 2017 | [3c42bfce9b8f](https://github.com/lexifina/brazil-law/commit/3c42bfce9b8fb53ab17b2aaf0c6e5c302b2f1f47) |
+| 2021-07-02 | Lei nº 14.181, de 2021 | [9a74502e88ea](https://github.com/lexifina/brazil-law/commit/9a74502e88eae1d6fcee81130b5fbc7d86d917d1) |
+| 2026-09-25 | Medida Provisória nº 1.393, de 2026 | [357cd054dc5f](https://github.com/lexifina/brazil-law/commit/357cd054dc5f9977f6221de8220845a4c3bec7cc) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

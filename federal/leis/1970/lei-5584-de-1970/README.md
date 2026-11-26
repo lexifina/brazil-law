@@ -2,6 +2,16 @@
 
 L5584 · 1 versions, from 2018-10-05 (latest in force: 2018-10-05) · <https://www.planalto.gov.br/ccivil_03/leis/l5584.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-5584-de-1970/` para `federal/leis/1970/lei-5584-de-1970/`). Histórico anterior: [commits em `lei-5584-de-1970/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-5584-de-1970). Ou / or `git log --follow -- federal/leis/1970/lei-5584-de-1970/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-5584-de-1970/`); earlier history: [commits under `lei-5584-de-1970/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-5584-de-1970).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2018-10-05 | Presidência da República, Planalto (Legislação) | [791fda3c8ac9](https://github.com/lexifina/brazil-law/commit/791fda3c8ac95c4674a1df27a98063afded610d3) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

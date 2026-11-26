@@ -2,6 +2,43 @@
 
 CTN · 21 versions, from 1967-01-01 (latest in force: 2026-09-04) · <https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `codigo-tributario-nacional/` para `federal/codigos-e-estatutos/codigo-tributario-nacional/`). Histórico anterior: [commits em `codigo-tributario-nacional/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/codigo-tributario-nacional). Ou / or `git log --follow -- federal/codigos-e-estatutos/codigo-tributario-nacional/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `codigo-tributario-nacional/`); earlier history: [commits under `codigo-tributario-nacional/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/codigo-tributario-nacional).
+
+<details><summary>24 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1967-01-01 | Lei nº 5.172, de 1966 | [0c91ec5af106](https://github.com/lexifina/brazil-law/commit/0c91ec5af106cfe98c106102f87b77cf18bf2475) |
+| 1967-01-01 | Decreto-Lei nº 27, de 1966 | [7dc0d9fa98c4](https://github.com/lexifina/brazil-law/commit/7dc0d9fa98c48a9a728a00f1884cc9d57ecbd831) |
+| 1967-01-01 | Decreto-Lei nº 28, de 1966 | [065986f59c63](https://github.com/lexifina/brazil-law/commit/065986f59c6334d3cd9c642d2f6d70d71b7bec59) |
+| 1967-01-01 | Ato Complementar nº 27, de 1966 | [860164da23d0](https://github.com/lexifina/brazil-law/commit/860164da23d0629b4ab28a233438421044c9ba0e) |
+| 1967-01-01 | Ato Complementar nº 31, de 1966 | [c07a3b6ba641](https://github.com/lexifina/brazil-law/commit/c07a3b6ba641aebde92124bfc3077d2cf9f64396) |
+| 1967-01-31 | Ato Complementar nº 34, de 1967 | [f744b60aaa72](https://github.com/lexifina/brazil-law/commit/f744b60aaa720ac6cfe853e89c9d1c97f5b54a87) |
+| 1967-02-28 | Ato Complementar nº 35, de 1967 | [10844bc95503](https://github.com/lexifina/brazil-law/commit/10844bc9550306fee6399bbc52a87f104870dec4) |
+| 1967-03-14 | Ato Complementar nº 36, de 1967 | [4412fda433de](https://github.com/lexifina/brazil-law/commit/4412fda433de2603d9168870707078bfdd0e3c23) |
+| 1969-01-01 | Decreto-Lei nº 406, de 1968 | [9efeee2097d9](https://github.com/lexifina/brazil-law/commit/9efeee2097d91c67517c74c0f28cf91ad8b16dce) |
+| 1975-01-09 | Lei Complementar nº 24, de 1975 | [dc5c541cef38](https://github.com/lexifina/brazil-law/commit/dc5c541cef3855328de3ba2bf11c2b965002dfa9) |
+| 1981-08-28 | Decreto-Lei nº 1.881, de 1981 | [8059a068dd0c](https://github.com/lexifina/brazil-law/commit/8059a068dd0c337bba8f6bbdf7bb5ffddcf2c7b2) |
+| 1983-09-29 | Resolução do Senado Federal nº 337, de 1983 | [05449533e825](https://github.com/lexifina/brazil-law/commit/05449533e8251d5ab3b86aea174320ed289971e4) |
+| 1988-12-23 | Lei Complementar nº 59, de 1988 | [c4bf28a5b09f](https://github.com/lexifina/brazil-law/commit/c4bf28a5b09f6a6f82a88e6fcc279f6ce636eec9) |
+| 1998-01-01 | Lei Complementar nº 91, de 1997 | [3d0d3cc7f912](https://github.com/lexifina/brazil-law/commit/3d0d3cc7f9125d7ad8b26c2e9c29d9f32bb43a62) |
+| 2001-01-11 | Lei Complementar nº 104, de 2001 | [88a917b2a312](https://github.com/lexifina/brazil-law/commit/88a917b2a3128b4bedf854b68dd139a5ac2b7fa5) |
+| 2005-06-09 | Lei Complementar nº 118, de 2005 | [ac6d042f1df2](https://github.com/lexifina/brazil-law/commit/ac6d042f1df27e2f6ccd10f8957d068d851848ab) |
+| 2013-07-18 | Lei Complementar nº 143, de 2013 | [7b9554e94ec4](https://github.com/lexifina/brazil-law/commit/7b9554e94ec4224de9bca0b56c631a844c418e0e) |
+| 2021-12-17 | Lei Complementar nº 187, de 2021 | [86d9115e3a97](https://github.com/lexifina/brazil-law/commit/86d9115e3a97c29a352ee92f115507a34d172db3) |
+| 2022-06-23 | Lei Complementar nº 194, de 2022 | [857afe47bfee](https://github.com/lexifina/brazil-law/commit/857afe47bfee4a3747e3b30c4ee226e9f9d38a21) |
+| 2023-10-24 | Lei Complementar nº 201, de 2023 | [82b9fcce73c7](https://github.com/lexifina/brazil-law/commit/82b9fcce73c7f7985b8727c40008fa29d596de17) |
+| 2024-07-03 | Lei Complementar nº 208, de 2024 | [aceb72c52893](https://github.com/lexifina/brazil-law/commit/aceb72c52893d9d7567b19f6c5bbbbb936b255fd) |
+| 2026-01-01 | Lei Complementar nº 214, de 2025 | [4559d3c13d60](https://github.com/lexifina/brazil-law/commit/4559d3c13d60cae2379eff4e34aee63b097f2f41) |
+| 2026-01-14 | Lei Complementar nº 227, de 2026 | [00c670d3a447](https://github.com/lexifina/brazil-law/commit/00c670d3a447b7d19a8e3f9f1251faec73022e00) |
+| 2026-09-04 | Lei Complementar nº 236, de 2026 | [ead6ae66affa](https://github.com/lexifina/brazil-law/commit/ead6ae66affa455fcf5bb223371bb0e42c08aa09) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

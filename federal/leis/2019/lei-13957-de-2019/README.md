@@ -2,6 +2,16 @@
 
 L13957 · 1 versions, from 2019-12-18 (latest in force: 2019-12-18) · <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13957.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-13957-de-2019/` para `federal/leis/2019/lei-13957-de-2019/`). Histórico anterior: [commits em `lei-13957-de-2019/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-13957-de-2019). Ou / or `git log --follow -- federal/leis/2019/lei-13957-de-2019/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-13957-de-2019/`); earlier history: [commits under `lei-13957-de-2019/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-13957-de-2019).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2019-12-18 | Presidência da República, Planalto (Legislação) | [8d5f16b9e8db](https://github.com/lexifina/brazil-law/commit/8d5f16b9e8dbab0acc3ba2ab36732dd634a5c532) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

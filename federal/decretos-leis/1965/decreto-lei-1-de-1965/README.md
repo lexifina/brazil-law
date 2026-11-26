@@ -2,6 +2,16 @@
 
 DL1 · 1 versions, from 1965-11-17 (latest in force: 1965-11-17) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/del0001.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-1-de-1965/` para `federal/decretos-leis/1965/decreto-lei-1-de-1965/`). Histórico anterior: [commits em `decreto-lei-1-de-1965/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-1-de-1965). Ou / or `git log --follow -- federal/decretos-leis/1965/decreto-lei-1-de-1965/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-1-de-1965/`); earlier history: [commits under `decreto-lei-1-de-1965/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-1-de-1965).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1965-11-17 | Presidência da República, Planalto (Legislação) | [69d1d92855ea](https://github.com/lexifina/brazil-law/commit/69d1d92855ea44dfbae0120a2e66b49b4b189f83) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

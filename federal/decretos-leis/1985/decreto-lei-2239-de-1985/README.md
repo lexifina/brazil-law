@@ -2,6 +2,16 @@
 
 DL2239 · 1 versions, from 1969-09-30 (latest in force: 1969-09-30) · <https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del2239.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `decreto-lei-2239-de-1985/` para `federal/decretos-leis/1985/decreto-lei-2239-de-1985/`). Histórico anterior: [commits em `decreto-lei-2239-de-1985/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-2239-de-1985). Ou / or `git log --follow -- federal/decretos-leis/1985/decreto-lei-2239-de-1985/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `decreto-lei-2239-de-1985/`); earlier history: [commits under `decreto-lei-2239-de-1985/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/decreto-lei-2239-de-1985).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1969-09-30 | Presidência da República, Planalto (Legislação) | [2f3f8e8ac499](https://github.com/lexifina/brazil-law/commit/2f3f8e8ac4994b4a6d6f3c86d0a81ed4aa1458bc) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

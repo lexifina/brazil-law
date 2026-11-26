@@ -2,6 +2,38 @@
 
 LPP · 18 versions, from 1995-09-20 (latest in force: 2022-01-04) · <https://www.planalto.gov.br/ccivil_03/leis/l9096.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-dos-partidos-politicos/` para `federal/codigos-e-estatutos/lei-dos-partidos-politicos/`). Histórico anterior: [commits em `lei-dos-partidos-politicos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-partidos-politicos). Ou / or `git log --follow -- federal/codigos-e-estatutos/lei-dos-partidos-politicos/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-dos-partidos-politicos/`); earlier history: [commits under `lei-dos-partidos-politicos/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-dos-partidos-politicos).
+
+<details><summary>19 commits (versões / versions)</summary>
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1995-09-20 | Lei nº 9.096, de 1995 | [c70233b50a6d](https://github.com/lexifina/brazil-law/commit/c70233b50a6dd7bf7e59139af268fdc1ba36a86f) |
+| 1996-01-10 | Lei nº 9.259, de 1996 | [0362422df521](https://github.com/lexifina/brazil-law/commit/0362422df52143111316ef73541ada241ad963f4) |
+| 1997-10-01 | Lei nº 9.504, de 1997 | [5248268be203](https://github.com/lexifina/brazil-law/commit/5248268be203cb6418a02958a5d40465bb7ed552) |
+| 1998-07-28 | Lei nº 9.693, de 1998 | [4b46f027369e](https://github.com/lexifina/brazil-law/commit/4b46f027369eae333db0cdabd34c7fe69b19e7a0) |
+| 2007-03-22 | Lei nº 11.459, de 2007 | [84dd841bf2f8](https://github.com/lexifina/brazil-law/commit/84dd841bf2f819bebacde34881324fa50d052a6f) |
+| 2008-06-13 | Lei nº 11.694, de 2008 | [744594252d48](https://github.com/lexifina/brazil-law/commit/744594252d48d0b5a11a6603b4dcec8e9bd4ae0d) |
+| 2009-09-30 | Lei nº 12.034, de 2009 | [a98dd69742cc](https://github.com/lexifina/brazil-law/commit/a98dd69742cc68948050e069a2192c0fc5eced04) |
+| 2013-10-31 | Lei nº 12.875, de 2013 | [a9602d2f7892](https://github.com/lexifina/brazil-law/commit/a9602d2f7892e9f2d985a710d92bfdad9c038653) |
+| 2013-12-12 | Lei nº 12.891, de 2013 | [516129215191](https://github.com/lexifina/brazil-law/commit/516129215191cea60349a5a397006dacb9cd261c) |
+| 2015-03-25 | Lei nº 13.107, de 2015 | [18f7eca1fe88](https://github.com/lexifina/brazil-law/commit/18f7eca1fe88b6bd2e5f9c89fcc85c030bfea908) |
+| 2015-09-29 | Lei nº 13.165, de 2015 | [e3a6a0e44a25](https://github.com/lexifina/brazil-law/commit/e3a6a0e44a2547346a3dee534066b9aef55fcc8e) |
+| 2017-10-06 | Lei nº 13.487, de 2017 | [82bee503fd27](https://github.com/lexifina/brazil-law/commit/82bee503fd27c52376be1edab6c2cc414f5ea685) |
+| 2017-10-06 | Lei nº 13.488, de 2017 | [80a1cacb6bc9](https://github.com/lexifina/brazil-law/commit/80a1cacb6bc921f26a4dcbaea9b65878dd68c6e5) |
+| 2019-05-20 | Lei nº 13.831, de 2019 | [2ff333600393](https://github.com/lexifina/brazil-law/commit/2ff3336003939f340f5896eda05dfa64f54b95d6) |
+| 2019-09-27 | Lei nº 13.877, de 2019 | [349e930212af](https://github.com/lexifina/brazil-law/commit/349e930212af303a1de1b1077092248ee2f95e62) |
+| 2020-09-24 | Lei nº 14.063, de 2020 | [2387d7b947f5](https://github.com/lexifina/brazil-law/commit/2387d7b947f516cd34b8e913edee31e89b7937ad) |
+| 2021-08-05 | Lei nº 14.192, de 2021 | [72a70be6f4e7](https://github.com/lexifina/brazil-law/commit/72a70be6f4e7f19d50890cb48cb194dd180bea77) |
+| 2021-09-29 | Lei nº 14.208, de 2021 | [cee5532eb49d](https://github.com/lexifina/brazil-law/commit/cee5532eb49dcaf9d4bf60ea7f30d4211a431de0) |
+| 2022-01-04 | Lei nº 14.291, de 2022 | [a1c6b43beeff](https://github.com/lexifina/brazil-law/commit/a1c6b43beeffdc4ec906a94481013af9df020578) |
+
+</details>
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-01.md](art-01.md) | 1 | 2017-10-06 |

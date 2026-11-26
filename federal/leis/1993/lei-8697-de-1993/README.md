@@ -2,6 +2,16 @@
 
 L8697 · 1 versions, from 1993-08-28 (latest in force: 1993-08-28) · <https://www.planalto.gov.br/ccivil_03/leis/l8697.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-8697-de-1993/` para `federal/leis/1993/lei-8697-de-1993/`). Histórico anterior: [commits em `lei-8697-de-1993/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8697-de-1993). Ou / or `git log --follow -- federal/leis/1993/lei-8697-de-1993/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-8697-de-1993/`); earlier history: [commits under `lei-8697-de-1993/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-8697-de-1993).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 1993-08-28 | Presidência da República, Planalto (Legislação) | [24df530faba7](https://github.com/lexifina/brazil-law/commit/24df530faba7233041f0d7c828c6fdca814c4ef2) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |

@@ -2,6 +2,16 @@
 
 L5709 · 1 versions, from 2020-04-07 (latest in force: 2020-04-07) · <https://www.planalto.gov.br/ccivil_03/leis/l5709.htm>
 
+## Histórico completo
+
+No GitHub, o histórico de cada arquivo desta pasta começa na mudança de 24/11/2026 (de `lei-5709-de-1971/` para `federal/leis/1971/lei-5709-de-1971/`). Histórico anterior: [commits em `lei-5709-de-1971/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-5709-de-1971). Ou / or `git log --follow -- federal/leis/1971/lei-5709-de-1971/<arquivo>.md`.
+
+On GitHub, each file's history here starts at the move of 24 Nov 2026 (from `lei-5709-de-1971/`); earlier history: [commits under `lei-5709-de-1971/`](https://github.com/lexifina/brazil-law/commits/6dbacb505f6c2185bc54ca4d28ad7356a3332798/lei-5709-de-1971).
+
+| Em vigor / In force | Ato / Act | Commit |
+| --- | --- | --- |
+| 2020-04-07 | Presidência da República, Planalto (Legislação) | [11ce108b4f61](https://github.com/lexifina/brazil-law/commit/11ce108b4f6197e5646cc28f0f89873792a21d65) |
+
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |
